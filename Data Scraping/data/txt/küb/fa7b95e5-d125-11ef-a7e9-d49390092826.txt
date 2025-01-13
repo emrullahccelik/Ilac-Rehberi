@@ -1,0 +1,442 @@
+KISA ÜRÜN BİLGİSİ
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+MOPEM 1 g IV enjeksiyonluk çözelti hazırlamak için toz
+Steril
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde: Her flakon 1.000 mg anhidr meropenem’e eşdeğer 1.140 mg meropenem
+trihidrat içermektedir.
+Yardımcı madde(ler): Anhidr sodyum karbonat 208 mg
+Bir flakon, beher gram meropenem (anhidr) için 90 mg (3,9 mmol) sodyum içerir.
+Yardımcı maddeler için 6.1’e bakınız.
+3. FARMASÖTİK FORM
+Enjeksiyonluk toz
+Beyaz veya kirli beyaz renkte toz
+4. KLİNİK ÖZELLİKLER
+4.1. Terapötik Endikasyonlar
+MOPEM yetişkinlerde ve çocuklarda, meropeneme duyarlı tek veya birden fazla bakterinin
+neden olduğu aşağıdaki enfeksiyonların tedavisinde endikedir:
+• Pnömoniler ve hastanede edinilen pnömoniler
+• İdrar yolu enfeksiyonları
+• İntra-abdominal enfeksiyonlar
+• Endometrit ve pelvik enflamatuar hastalıklar gibi jinekolojik enfeksiyonlar
+• Deri ve deri altı dokuya ait enfeksiyonlar
+• Menenjit
+• Septisemi
+• Febril nötropenisi olan yetişkin hastalardaki enfeksiyonlarda, ampirik tedavi şeklinde
+monoterapi veya anti-viral veya anti-fungal ajanlarla kombine edilerek kullanılır.
+MOPEM’in polimikrobiyal enfeksiyonların tedavisinde tek başına veya diğer anti-mikrobiyal
+ajanlarla kombine kullanıldığında etkili olduğu kanıtlanmıştır.
+Kistik fibrozisli ve kronik alt solunum yolu enfeksiyonu olan hastalarda IV meropenem ya
+monoterapi veya diğer antibakteriyel ajanlarla kombine olarak etkili bir şekilde kullanılmıştır.
+Organizmanın eradikasyonu her zaman saptanmamıştır.
+Nötropenili veya primer veya sekonder immün yetmezliği bulunan pediatrik hastalarla ilgili bir
+deneyim yoktur.
+14.2. Pozoloji ve uygulama şekli
+Pozoloji/uygulama sıklığı ve süresi
+Tedavinin dozu ve süresi, enfeksiyonun tipine ve şiddetine ve hastanın durumuna göre
+belirlenmelidir.
+Önerilen Günlük Dozlar
+Pnömoni, idrar yolu enfeksiyonları, endometrit gibi jinekolojik hastalıklar, deri ve deri altı doku
+enfeksiyonlarında 8 saatte bir 500 mg IV MOPEM.
+Hastanede edinilen pnömoniler, peritonit, nötropenik hastalardaki enfeksiyonlar ve septisemide
+8 saatte bir, 1.000 mg IV MOPEM.
+Kistik fibrozis’de 8 saatte bir 2.000 mg’a kadar dozlar kullanılmıştır. Birçok hasta 8 saatte bir
+2.000 mg ile tedavi edilmiştir.
+Menenjitte önerilen doz 8 saatte bir 2.000 mg’dır.
+Diğer antibiyotiklerde olduğu gibi Pseudomonas aeuriginosa’ya bağlı alt solunum yolu
+enfeksiyonu olduğu bilinen veya şüphelenilen, durumu kritik olan hastalarda meropenem
+monoterapi olarak dikkatle kullanılmalıdır.
+Pseudomonas aeuriginosa enfeksiyonlarının tedavisinde, duyarlılık testlerinin düzenli olarak
+yapılması önerilir.
+Uygulama şekli:
+MOPEM yaklaşık 5 dakika süren intravenöz bolus enjeksiyon veya yaklaşık 15 - 30 dakika
+süren intravenöz infüzyon ile spesifik uygun takdim şekilleri ile uygulanır.
+Bolus intravenöz enjeksiyonla kullanılacak MOPEM steril enjeksiyonluk su ile hazırlanmalıdır
+(her 250 mg meropenem için 5 ml). Bu yaklaşık 50 mg/ml’lik bir konsantrasyon sağlar.
+Çözünmüş çözeltiler berrak, renksiz veya açık sarı renklidir.
+MOPEM intravenöz infüzyon için uygun infüzyon sıvıları ile çözülebilir (50 - 200 ml). (bkz.
+Bölüm 6.2 Geçimsizlikler ve 6.6 Kullanıma hazırlama ve imha talimatları)
+Özel popülasyonlara ilişkin ek bilgiler:
+Böbrek yetmezliği:
+Kreatinin klirensi 51 ml/dakika’dan az olan hastalarda doz aşağıda belirtildiği gibi
+azaltılmalıdır.
+Kreatinin klirensi Doz Doz
+Uygulama sıklığı (500 mg, 1 gram ve 2 gram içeren Uygulama sıklığı
+(ml/dakika) birim dozlara göre)
+26-50 1 birim doz 12 saatte bir
+10-25 1/2 birim doz 12 saatte bir
+<10 1/2 birim doz 24 saatte bir
+2Meropenem hemodiyaliz ile temizlenir. MOPEM tedavisine devam edilmesi gerekli ise
+terapötik olarak etkili plazma konsantrasyonlarına ulaşılması için birim dozun (enfeksiyonun
+tipine ve şiddetine göre) hemodiyaliz işleminden sonra uygulanması önerilir.
+Peritonal diyaliz uygulanan hastalarda MOPEM kullanımı ile ilgili deneyim yoktur.
+Karaciğer yetmezliği:
+Karaciğer yetmezliği olan hastalarda doz ayarlaması gerekmez (bkz. Bölüm 4.4).
+Pediyatrik popülasyon:
+3 aylıktan büyük bebeklerde ve 12 yaşına kadar olan çocuklarda enfeksiyonun tipine ve
+şiddetine, patojenlerin duyarlılığı ve hastanın durumuna göre önerilen doz 8 saatte bir 10 - 20
+mg/kg’dır. 50 kg’dan ağır olan çocuklarda yetişkin dozu kullanılmalıdır.
+4-18 yaş arasındaki kistik fibrozisli çocuklarda 8 saatte bir 25 - 40 mg/kg arasındaki dozlar
+kullanılarak, kronik alt solunum yolu enfeksiyonlarının akut alevlenmeleri tedavi edilmiştir.
+Menenjitte önerilen doz 8 saatte bir 40 mg/kg’dır.
+Böbrek fonksiyonu bozuk olan çocuklarla ilgili deneyim yoktur.
+MOPEM genellikle yaklaşık 15 - 30 dakika süren intravenöz infüzyon ile uygulanır (Bölüm
+6.2, 6.3 ve 6.6’ya bakınız). Alternatif olarak, 20 mg/kg’a kadar MOPEM dozları yaklaşık
+5 dakika intravenöz bolus olarak uygulanabilir. Çocuklarda 40 mg/kg dozda intravenöz bolus
+enjeksiyon uygulanmasını destekleyen güvenlilik verileri sınırlıdır.
+Geriyatrik popülasyon:
+Böbrek fonksiyonu normal veya kreatinin klirensi değerleri 50 ml/dakika’dan yüksek olan yaşlı
+hastalarda doz ayarlaması gerekli değildir.
+4.3. Kontrendikasyonlar
+Etkin madde veya herhangi bir yardımcı maddeye aşırı duyarlılığı olan hastalarda
+kontrendikedir.
+4.4. Özel kullanım uyarıları ve önlemleri
+Diğer karbapenemler ve beta laktam antibiyotikler, penisilinler veya sefalosporinler arasında
+kısmi, çapraz allerjenite ile ilgili olarak bazı klinik ve laboratuvar verileri bulunmaktadır. Bütün
+beta laktam antibiyotiklerle olduğu gibi, nadiren aşırı duyarlılık reaksiyonları rapor edilmiştir
+(bkz. Bölüm 4.8 İstenmeyen etkiler). Meropenem ile tedaviye başlamadan önce, geçmişinde
+beta laktam antibiyotiklere aşırı duyarlılık reaksiyonları göstermiş olan hastalarda bu durum
+göz önüne alınmalı ve MOPEM dikkatle kullanılmalıdır. Eğer meropeneme karşı alerjik
+reaksiyon oluşursa ilaç kesilmeli ve gerekli önlemler alınmalıdır.
+Karaciğer hastalığı bulunan hastaların transaminaz ve bilirubin düzeyleri MOPEM kullanımı
+sırasında dikkatle izlenmelidir.
+Diğer antibiyotiklerde olduğu gibi, duyarlı olmayan organizmaların üremesi görülebilir. Bu
+nedenle, her hastanın sürekli izlenmesi gerekir.
+3Metisiline dirençli stafilokoklara bağlı enfeksiyonlarda kullanılması önerilmez.
+Hemen hemen bütün antibiyotiklerle görülebilen ve hafif dereceden yaşamı tehdit eden
+dereceye kadar değişebilen psödomembranöz kolit, nadiren MOPEM ile de rapor edilmiştir.
+Bu nedenle antibiyotikler gastrointestinal yakınmaları, özellikle de koliti bulunan hastalarda
+dikkatle kullanılmalıdır.
+MOPEM kullanırken diyare gelişen hastalarda, psödomembranöz kolit tanısını göz önüne
+almak önem taşır. Çalışmalar, Clostridium difficile tarafından üretilen bir toksinin antibiyotiğe
+bağlı kolitin başlıca nedenlerinden biri olduğunu gösterse de diğer nedenler de göz önüne
+alınmalıdır.
+MOPEM potansiyel olarak nefrotoksik ilaçlarla birlikte dikkatle kullanılmalıdır (Doz için bkz.
+Bölüm 4.2).
+Bu tıbbi ürün her “doz” unda 90 mg sodyum ihtiva eder. Bu durum, kontrollü sodyum diyetinde
+olan hastalar için göz önünde bulundurulmalıdır.
+4.5. Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+Probenesid, aktif tübüler sekresyon için meropenemle yarışarak meropenemin böbreklerden
+atılımını inhibe eder. Bunun sonucunda meropenem eliminasyon yarı ömrü ve plazma
+konsantrasyonu artar. Probenesid ile birlikte uygulanmayan MOPEM’in gücü ve etki süresi
+yeterli olduğundan MOPEM’in probenesid ile birlikte kullanılması önerilmez.
+Meropenemin diğer ilaçların proteine bağlanma veya metabolizmaları üzerindeki potansiyel
+etkisi ile ilgili çalışma yoktur. MOPEM’in proteine bağlanması düşük olduğundan (yaklaşık
+% 2) diğer bileşiklerin plazma proteinleri ile yer değiştirmesine dayanan herhangi bir etkileşim
+beklenmez.
+MOPEM serum valproik asit seviyelerini düşürebilir. Bazı hastalarda subterapötik seviyelere
+erişilebilir.
+MOPEM herhangi bir advers etkileşim göstermeden diğer ilaçlarla birlikte uygulanabilir.
+Bununla birlikte probenesid hariç potansiyel ilaç etkileşmeleri ile spesifik veri mevcut değildir.
+Özel popülasyonlara ilişkin ek bilgiler
+Pediyatrik popülasyon:
+Etkileşim çalışmaları yalnızca yetişkinler üzerinde gerçekleştirilmiştir.
+4.6. Gebelik ve laktasyon
+Genel tavsiye
+Gebelik kategorisi: B
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon)
+Veri bulunmamaktadır.
+4Gebelik dönemi
+Hayvanlar üzerinde yapılan çalısmalar, gebelik / embriyonal / fetal gelişim / doğum ya da
+doğum sonrası gelişim ile ilgili olarak doğrudan ya da dolaylı zararlı etkiler olduğunu
+göstermemektedir (Bkz. kısım 5.3).
+Meropenemin insan gebeliği sırasındaki güvenilirliği değerlendirilmemiştir. Hayvan
+çalışmalarında gelişen fetus üzerinde herhangi bir advers etki görülmemiştir. Hayvan üreme
+çalışmalarında izlenen tek yan etki maymunlarda düşük yapma sıklığının insanlarda
+beklenenden 13 kat artmasıdır.
+Meropenem için, gebeliklerde maruz kalmaya ilişkin klinik veri mevcut değildir.
+Gebe kadınlara verilirken tedbirli olunmalıdır.
+Potansiyel faydalar, fetus üzerindeki potansiyel riskten fazla değil ise MOPEM gebelikte
+kullanılmamalıdır. Her koşulda, doktor gözetiminde kullanılmalıdır.
+Laktasyon dönemi
+Meropenem düşük konsantrasyonlarda hayvanların sütünde bulunmuştur. Potansiyel faydaları,
+bebek için potansiyel risklerinden fazla değil ise MOPEM süt veren annelerde
+kullanılmamalıdır.
+Üreme yeteneği/Fertilite
+Üreme yeteneği üzerinde etkisi bulunmamaktadır.
+4.7. Araç ve makine kullanımı üzerindeki etkiler
+Araç ve makine kullanımına etkisine dair herhangi bir çalışma yapılmamıştır.
+4.8. İstenmeyen etkiler
+MOPEM genellikle iyi tolere edilir. Advers etkiler nadiren tedavinin kesilmesine sebep
+olmuştur. Ciddi advers etkiler nadirdir.
+Advers ilaç reaksiyonları aşağıda sıklık şeklinde listelenmiştir.
+Sıklıklar şu şekilde tanımlanır:
+Çok yaygın (≥1/10); yaygın (≥1/100 ila <1/10); yaygın olmayan (≥1/1.000 ila <1/100); seyrek
+(≥1/10.000 ila <1/1.000); çok seyrek (<1/10.000), bilinmiyor (eldeki verilerden hareketle
+tahmin edilemiyor).
+Kan ve lenf sistemi hastalıkları1
+Yaygın: Trombositomi
+Yaygın olmayan: Eozinofili, trombositopeni,
+Bilinmeyen: Lökopeni, nötropeni, agranülositozis, hemolitik anemi
+Bağışıklık sistemi hastalıkları
+Bilinmeyen: Anjiyoödem, anaflaksi belirtileri
+5Sinir sistemi hastalıkları
+Yaygın: Baş ağrısı
+Seyrek: Konvülsiyon2
+Bilinmeyen: Parestezi
+Gastrointestinal hastalıklar
+Yaygın: Bulantı, kusma, diyare, karın ağrısı
+Bilinmeyen: Psödomembranöz kolit
+Hepato-bilier hastalıklar
+Yaygın: Transaminaz, alkalen fosfataz, laktik dehidrogenaz serum konsantrasyonlarında artış
+Yaygın olmayan: Bilirubin seviyesinde artış
+Deri ve deri altı doku hastalıkları
+Yaygın: Deri döküntüsü, kaşıntı
+Bilinmeyen: Ürtiker, Eritema multiforme, Stevens-Johnson sendromu, Toksik Epidermal
+Nekroliz
+Genel bozukluklar ve uygulama bölgesine ilişkin hastalıklar
+Yaygın: Enflamasyon, trombofilebit, ağrı
+Bilinmeyen: Oral ve vajinal kandidiyazis
+1 Bazı vakalarda Pozitif direkt veya indirekt Coombs testi gelişebilir. Parsiyel tromboplastin
+zamanında azalma olduğu bildirilmiştir.
+2 Konvülsiyon sıklığı, menenjittenden başka enfeksiyonlara maruz kalan hastalara göre
+hesaplanmıştır.
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir (www.titck.gov.tr; e-posta:
+tufam@titck.gov.tr: tel: 0 800 314 00 08; faks: 0 312 218 35 99).
+4.9. Doz aşımı ve tedavisi
+Tedavi sırasında özellikle böbrek bozukluğu olan hastalarda kazara aşırı doz oluşabilir.
+Pazarlama sonrasında elde edilen sınırlı deneyim, doz aşımını takiben oluşabilecek advers
+olayların 4.8’de tarif edilen advers olay profiline uyumlu olduğunu göstermektedir. Doz aşımı
+tedavisi semptomatik olmalıdır. Normal bireylerde hızla renal eliminasyon meydana gelecektir.
+Böbrek bozukluğu olan hastalarda meropenem ve metaboliti hemodiyalizle uzaklaştırılabilir.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1. Farmakodinamik özellikler
+Farmakoterapötik grup: Diğer beta laktam antibakteriyel (karbapenem grubu) ilaçlar
+ATC kodu: J01DH02
+6Meropenem, parenteral olarak kullanılan ve insanlardaki dehidropeptidaz-1’e (DHP-1) karşı
+stabil olan bir karbapenem antibiyotiktir. Bundan dolayı DHP-1 inhibitörü ilavesine gerek
+yoktur.
+Meropenem, yaşamsal önem taşıyan bakteri duvarı sentezini bozarak bakterisit etki gösterir.
+Bakteri hücre duvarından kolayca penetre olabilmesi, bütün serin β-laktamazlara yüksek
+düzeyde stabilite göstermesi ve Penisillin Bağlayıcı Proteinlere (PBP) belirgin affinitesi,
+meropenemin geniş bir aerobik ve anaerobik bakteri spektrumuna karşı güçlü bakterisit etkisini
+açıklar. Minimum bakterisit konsantrasyonları (MBK) çoğunlukla minimum inhibitör
+konsantrasyonları (MİK) ile aynıdır. Bakteri testlerinin % 76’sında, MBK: MIK oranları 2 veya
+daha azdır.
+Meropenem duyarlılık testlerinde stabildir ve bu testler normal rutin metotlarla yürütülebilir.
+İn vitro testler, meropenemin çeşitli antibiyotiklerle sinerjik etkili olduğunu göstermiştir.
+İn vitro ve in vivo testlerle meropenemin post-antibiyotik etkili olduğu tespit edilmiştir.
+Meropenem duyarlılığı ile ilgili ortak kriterler, farmakokinetik verilere ve klinik veriler ile
+enfeksiyona neden olan organizmaların zon çapları ve minimum inhibitör konsantrasyon (MIK)
+değerleri şeklindeki mikrobiyolojik verilerin birbirleri ile olan ilişkileri göz önünde
+bulundurularak tespit edilmiştir.
+DEĞERLENDİRME NOTU
+SINIFLANDIRMA
+Zon Çapı (min) MIC Sınır Değerleri (mg/l)
+Duyarlı ≥14 ≤4
+Orta derecede duyarlı 12-13 8
+Dirençli ≤11 ≥16
+Meropenemin in vitro antibakteriyel spektrumu klinik olarak önemli olan ve aşağıda gösterilen
+gram pozitif ve gram negatif, aerobik, anaerobik bakteri suşlarının büyük bir kısmını kapsar.
+Gram-pozitif aerobik:
+Bacillus spp., Corynebacterium diphtheriae, Enterococcus faecalis,
+Enterococcus liquifaciens, Enterococcus avium, Listeria monocytogenes, Lactobacillus spp.,
+Nocardia asteroides, Staphylococcus aureus (penisilinaz negatif ve pozitif),
+Staphylococci koagulase-negatif; Staphylococcus epidermidis,
+Staphylococcus saprophyticus, Staphylococcus capitis,
+Staphylococcus cohnii, Staphylococcus xylosus,
+Staphylococcus warneri, Staphylococcus hominis,
+Staphylococcus simulans, Staphylococcus intermedius,
+Staphylococcus sciuri, Staphylococcus lugdunensis,
+Streptococcus pneumoniae (penisilin duyarlı ve rezistan),
+Streptococcus agalactiae, Streptococcus pyogenes, Streptococcus equi, Streptococcus bovis,
+Streptococcus mitis, Streptococcus mitior, Streptococcus milleri, Streptococcus sanguis,
+Streptococcus viridans, Streptococcus salivarius, Streptococcus morbillorum, Streptococcus
+Group G, Streptococcus Group F, Rhodococcus equi.
+7Gram-negatif aerobik:
+Achromobacter xylosoxidans, Acinetobacter anitratus, Acinetobacter lwoffii,
+Acinetobacter baumannii, Aeromonas hydrophila,
+Aeromonas sorbria, Aeromonas caviae, Alcaligenes faecalis,
+Bordetella bronchiseptica, Brucella melitensis, Campylobacter coli,
+Campylobacter jejuni, Citrobacter freundii, Citrobacter diversus,
+Citrobacter koseri, Citrobacter amalonaticus,
+Enterobacter aerogenes, Enterobacter (Pantoea) agglomerans, Enterobacter cloacae,
+Enterobacter sakazakii, Escherichia coli, Escherichia hermannii, Gardnerella vaginalis,
+Haemophilus influenzae (beta-laktamaz pozitif ve ampisilin rezistan türler dahil),
+Haemophilus parainfluenzae, Haemophilus ducreyi, Helicobacter pylori,
+Neisseria meningitidis, Neisseria gonorrhoeae (beta-laktamaz pozitif, penisilin rezistan ve
+spektinomisin rezistan türler dahil), Hafnia alvei,
+Klebsiella pneumoniae, Klebsiella aerogenes, Klebsiella ozaenae, Klebsiella oxytoca,
+Moraxella (Branhamella) catarrhalis, Morganella morganii,
+Proteus mirabilis, Proteus vulgaris, Proteus penneri,
+Providencia rettgeri, Providencia stuartii, Providencia alcalifaciens,
+Pasteurella multocida, Plesiomonas shigelloides, Pseudomonas aeruginosa,
+Pseudomonas putida, Pseudomonas alcaligenes, Burkholderia (Pseudomonas) cepacia,
+Pseudomonas fluorescens, Pseudomonas stutzeri, Pseudomonas pseudomallei,
+Pseudomonas acidovorans,
+Salmonella spp. Salmonella enteritidis/typhi, dahil
+Serratia marcescens, Serratia liquefaciens, Serratia rubidaea,
+Shigella sonnei, Shigella flexneri, Shigella boydii, Shigella dysenteriae,
+Vibrio cholerae, Vibrio parahaemolyticus, Vibrio vulnificus, Yersinia enterocolitica.
+Anaerobik bakteri:
+Actinomyces odontolyticus, Actinomyces meyeri,
+Bacteroides-Prevotella-Porphyromonas spp., Bacteroides fragilis,
+Bacteroides vulgatus, Bacteroides variabilis, Bacteroides pneumosintes,
+Bacteroides coagulans, Bacteroides uniformis, Bacteroides distasonis,
+Bacteroides ovatus, Bacteroides thetaiotaomicron, Bacteroides eggerthi
+Bacteroides capsillosis,
+Prevotella buccalis, Prevotella corporis, Bacteroides gracilis,
+Prevotella melaninogenica, Prevotella intermedia, Prevotella bivia,
+Prevotella splanchnicus, Prevotella oralis, Prevotella disiens,
+Prevotella rumenicola, Bacteroides ureolyticus,
+Prevotella oris, Prevotella buccae, Prevotella denticola,
+Bacteroides levii, Porphyromonas asaccharolytica,
+Bifidobacterium spp., Bilophila wadsworthia, Clostridium perfringens,
+Clostridium bifermentans, Clostridium ramosum,
+Clostridium sporogenes, Clostridium cadaveris,
+Clostridium sordellii, Clostridium butyricum,
+Clostridium clostridiiformis, Clostridium innocuum,
+8Clostridium subterminale, Clostridium tertium, Eubacterium Lentum,
+Eubacterium aerofaciens, Fusobacterium mortiferum,
+Fusobacterium necrophorum, Fusobacterium nucleatum,
+Fusobacterium varium, Mobiluncus curtisii, Mobiluncus mulieris,
+Peptostreptococcus anaerobius, Peptostreptococcus micros,
+Peptostreptococcus saccharolyticus, Peptococcus saccharolyticus,
+Peptostreptococcus asaccharolyticus, Peptostreptococcus magnus,
+Peptostreptococcus prevotii, Propionibacterium acnes, Propionibacterium avidum
+Propionibacterium granulosum.
+Stenotrophomonas maltophilia, Enterococcus faecium ve metisiline dirençli stafilakokların
+meropeneme dirençli olduğu saptanmıştır.
+5.2. Farmakokinetik özellikler
+Genel özellikler
+Meropenemin sağlıklı deneklerde, tek dozunun 30 dakikalık intravenöz infüzyon sonucu doruk
+plazma seviyeleri; 250 mg doz için 11 mcg/ml, 500 mg için 23 mcg/ml ve 1.000 mg için
+49 mcg/ml civarındadır. Buna rağmen uygulanan doz ile hem C hem de EAA arasında kesin
+maks
+bir farmakokinetik orantı yoktur. Ayrıca 250 mg ile 2.000 mg doz aralığında plazma klirensinde
+287 ml/dakikadan 205 ml/dakikaya bir düşüş gözlenmiştir.
+Meropenemin sağlıklı deneklerde 5 dakikalık intravenöz bolus enjeksiyon ile uygulanması
+sonucu pik plazma seviyeleri 500 mg doz için yaklaşık 52 mcg/ml ve 1.000 mg’lık doz için ise
+yaklaşık 112 mcg/ml’dir.
+Emilim:
+Meropenemin sağlıklı deneklerde, tek dozunun 30 dakikalık intravenöz infüzyon sonucu pik
+plazma seviyeleri; 250 mg doz için 11 mcg/ml, 500 mg için 23 mcg/ml ve 1.000 mg için
+49 mcg/ml civarındadır. 1.000 mg Meropenemin 2 dakika, 3 dakika ve 5 dakikalık intravenöz
+infüzyonları üçlü, çapraz çalışmalarla karşılaştırılmıştır. Bu sürelerdeki infüzyonlar, sırasıyla
+110, 91 ve 94 mcg/ml pik plazma seviyeleri ile sonuçlanmıştır. 500 mg’lık IV doz
+uygulamasından 6 saat sonra meropenem plazma seviyeleri 1 mcg/ml veya bunun daha
+altındaki değerlere düşmüştür.
+Dağılım:
+Meropenemin plazma proteinine bağlanması % 2 civarındadır.
+Meropenem, bakteriyel menenjiti olan hastaların beyin-omurilik sıvısı da dahil olmak üzere,
+vücut sıvılarının ve dokularının çoğuna iyi penetre olur ve bakterilerin çoğunu inhibe etmek
+için gerekenden yüksek konsantrasyonlara ulaşır.
+Biyotransformasyon:
+Meropenem, mikrobiyolojik açıdan inaktif metabolit oluşturan beta laktam halkasının hidrolizi
+ile metabolize olur.
+9Eliminasyon:
+Meropenem öncelikli olarak değişmeden böbreklerden atılır. 12 saatte, uygulanan dozun
+yaklaşık % 70’i idrarla değişmeden atılır. Bu süreden sonra idrarla meropenem atılımı son
+derece azdır. 500 mg’lık dozun uygulanmasından 5 saat sonra meropenemin üriner,
+konsantrasyonları 10 mcg/ml üzerinde bulunmuştur. Böbrek fonksiyonları normal olan
+deneklerde her 8 saatte bir 500 mg veya her 6 saatte bir 1.000 mg uygulanması sonucu plazma
+veya idrarda herhangi bir birikme oluşmamıştır.
+Hastalardaki karakteristik özellikler
+Çocuklar:
+Çocuklarla yapılan çalışmalar, meropenemin çocuklardaki farmakokinetiğinin yetişkinlere
+benzer olduğunu göstermiştir. 2 yaşın altındaki çocuklarda, meropenemin eliminasyon yarı
+ömrü yaklaşık 1,5-2,3 saattir ve farmakokinetiği 10 - 40 mg/kg arasındaki doz sınırında
+lineerdir.
+Yaşlılar:
+Yaşlılarda yapılan farmakokinetik çalışmalar, meropenemin plazma klirensinde yaşla birlikte
+azalan kreatinin klirensiyle ilişkili bir azalma olduğunu göstermiştir.
+Böbrek yetmezliği:
+Böbrek yetmezliği olan hastalarda yapılan farmakokinetik çalışmaları, meropenemin plazma
+klirensinin, kreatinin klirensiyle ilişkili olduğunu göstermiştir. Böbrek bozukluğu olan
+hastalarda doz ayarlaması gereklidir.
+Karaciğer yetmezliği:
+Karaciğer hastalığı bulunan hastalarla yapılan farmakokinetik çalışmalar, karaciğer hastalığının
+meropenemin farmakokinetiğini etkilemediğini göstermiştir.
+5.3. Klinik öncesi güvenlilik verileri
+Hayvan çalışmaları meropenem’in böbrekler tarafından iyi tolere edildiğini göstermiştir.
+Hayvanlarla yapılan çalışmalarda meropenem sadece yüksek dozlarda (500 mg/kg) nefrotoksik
+etkiler göstermiştir.
+Merkezi sinir sistemine etkileri sıçanlarda konvülsiyon köpeklerde kusma olarak sadece yüksek
+dozlarda (>2.000 mg/kg) görülmüştür.
+IV doz için LD rodentlerde 2.000 mg/kg’dan daha büyüktür. Tekrarlanan dozlarla yapılan
+50
+çalışmalarda (6 aya kadar) köpeklere 500 mg/kg doz uygulandığında sadece kırmızı hücre
+parametrelerinde hafif düşüşler ve karaciğer ağırlığında artış görülmüştür.
+Sıçan ve maymunlarda mümkün olan en yüksek doz uygulanması ile yürütülen beş test
+sonucunda, mutajenik potansiyel ve üreme ve teratojenik toksisite kanıtı görülmemiştir.
+Sıçanlarda, F vücut ağırlığında, etkisiz doz seviyesi azalması 120 mg/kg’dır. Maymunlarda
+1
+yapılan bir ön çalışmada, 500 mg/kg’da düşük yapma sıklığında artış vardır.
+10Yetişkin hayvanlar, genç hayvanlar karşılaştırıldığında, ikisi arasında meropeneme karşı artan
+bir hassasiyet kanıtı olmadığı bulunmuştur. İntravenöz formülasyonu hayvan çalışmalarında iyi
+tolere edilmiştir.
+Meropenemin tek metaboliti de hayvan çalışmalarında benzer toksisite profiline sahiptir.
+6. FARMASÖTİK ÖZELLİKLER
+6.1. Yardımcı maddelerin listesi
+Anhidr sodyum karbonat
+6.2. Geçimsizlikler
+MOPEM 6.6’da belirtilen infüzyon çözeltileri ile kullanılabilir.
+MOPEM diğer ilaçlarla karıştırılmamalı veya diğer ilaçlara ilave edilmemelidir.
+6.3. Raf ömrü
+36 ay
+6.4. Saklamaya yönelik özel uyarılar
+25°C’nin altındaki oda sıcaklığında saklanmalıdır.
+Taze hazırlanmış çözeltilerin kullanılması önerilir; bununla birlikte ürün sulandırıldıktan sonra
+oda sıcaklığında (25°C) veya buzdolabında (5°C) saklanabilir.
+Ürün dondurulmamalıdır.
+Rekonstitüsyon ve/veya ilk açılıştan sonraki saklama şartları ve süresi:
+Stabil kaldığı saatler
+Seyreltici
+25°C (5°C)
+Enjeksiyonluk su 2 saat 12 saat
+Aşağıdaki IV çözeltilerde hazırlanmış olanlar
+(1-20 mg/ml)
+% 0,9 Sodyum klorür 4 saat 24 saat
+% 5 Dekstroz 1 saat 4 saat
+% 10 Dekstroz 1 saat 2 saat
+% 5 Dekstroz ve% 0,225 Sodyum klorür 2 saat 4 saat
+% 5 Dekstroz ve % 0,9 Sodyum klorür 1 saat 4 saat
+% 5 Dekstroz ve% 0,15 Potasyum klorür 1 saat 6 saat
+Normosol M (% 5 Dekstroz’da) 1 saat 8 saat
+% 2,5 Mannitol intravenöz infüzyon 2 saat 16 saat
+% 10 Mannitol intravenöz infüzyon 1 saat 8 saat
+% 5 Dekstroz ve % 0,02 Sodyum bikarbonat
+1 saat 6 saat
+intravenöz infüzyon
+116.5. Ambalajın niteliği ve içeriği
+Tip-I kauçuk tıpa ve üzerinde alüminyum flip-of kapak ile kapatılan tip-III cam flakon
+Tıbbi ürün 1 adet cam flakon/kutu ve hastane ambalajı: 25 adet cam flakon/kutu ambalajındadır.
+6.6. Beşeri tıbbi ürünlerden arta kalan maddelerin imhası ve diğer özel önlemler
+Kullanılmamış ürünler ya da atık materyaller “Tıbbi Atıkların Kontrolü Yönetmeliği” ve
+“Ambalaj ve Ambalaj Atıklarının Kontrolü Yönetmelikleri”ne uygun olarak imha edilmelidir.
+MOPEM, yaklaşık 5 dakika süren intravenöz bolus enjeksiyon veya yaklaşık 15-30 dakika
+süren intravenöz infüzyon ile spesifik uygun takdim şekilleri ile uygulanır.
+Bolus intravenöz enjeksiyonla kullanılacak MOPEM steril enjeksiyonluk su ile hazırlanmalıdır
+(250 mg meropenem için 5 ml). Bu yaklaşık 50 mg/ml’lik bir konsantrasyon sağlar. Çözünmüş
+çözeltiler berrak, renksiz veya açık sarı renklidir.
+MOPEM intravenöz infüzyon uygun infüzyon sıvıları ile çözülebilir (50-200 ml).
+MOPEM aşağıdaki infüzyon sıvıları ile kullanılabilir:
+• % 0,9’luk sodyum klorür çözeltisi,
+• % 5 veya % 10’luk dekstroz çözeltisi,
+• % 5 dekstroz çözeltisi ile % 0,02 sodyum bikarbonat,
+• % 0,9 sodyum klorür ve % 5 dekstroz,
+• % 5 dekstroz ile % 0,225 sodyum klorür çözeltisi,
+• % 5 dekstroz ile % 0,15 potasyum klorür çözeltisi,
+• % 2,5 veya % 10 mannitol çözeltisi
+• Normosol M (% 5 Dekstroz’da)
+MOPEM diğer ilaçları içeren çözeltilerle karıştırılmamalıdır.
+Hazırlama ve uygulama sırasında standart aseptik teknik izlenmelidir.
+Hazırlanmış çözeltiler kullanılmadan önce çalkalanmalıdır.
+Bütün flakonlar tek kullanım içindir.
+7. RUHSAT SAHİBİ
+TÜM EKİP İLAÇ A.Ş.
+İstanbul Tuzla Kimya Organize Sanayi Bölgesi
+Aromatik Cadde No:55
+34956 Tuzla/İSTANBUL
+Tel. no: 0216 593 24 25 Faks no: 0216 593 31 41
+8. RUHSAT NUMARASI (LARI)
+229/74
+129. İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi: 21.02.2011
+Ruhsat yenileme tarihi:
+10. KÜB’ÜN YENİLENME TARİHİ
+13

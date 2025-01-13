@@ -1,0 +1,611 @@
+KISA ÜRÜN BİLGİSİ
+1.BEŞERİ TIBBİ ÜRÜNÜN ADI
+CORDARONE 150 mg/3 mL IV enjeksiyonluk çözelti
+Steril
+2.KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde:
+3 mL’lik steril ampulde;
+Amiodaron hidroklorür 150 mg
+Yardımcı madde:
+Benzil alkol 60 mg
+Yardımcı maddeler için Bölüm 6.1’e bakınız.
+3.FARMASÖTİK FORM
+Enjektabl solüsyon
+Soluk sarı berrak çözelti
+4.KLİNİK ÖZELLİKLER
+4.1. Terapötik endikasyonlar
+Tedavi, sadece hastane veya uzman gözetimi altında başlatılmalı ve normal bir şekilde
+gözlenmelidir. CORDARONE, diğer tedavilere cevap vermeyen aşağıdaki şiddetli ritim
+bozukluklarının tedavisinde veya başka bir tedavi kullanılamadığında kullanılmalıdır.
+- Başka ilaçlar kullanılamadığındaki atriyal aritmi ve fibrilasyon.
+- Wolff-Parkinson White sendromuna bağlı taşikardi.
+- Başka ilaçlar kullanılamadığındaki supraventriküler, nodal ve ventriküler taşikardi,
+ventriküler fibrilasyon dahil tüm taşikardi tipleri.
+CORDARONE çabuk cevap gerekli olduğunda veya oral uygulamanın mümkün olmadığı
+durumlarda kullanılabilir.
+4.2. Pozoloji ve uygulama şekli
+Pozoloji/uygulama sıklığı ve süresi:
+CORDARONE sadece kardiyak izleme, defibrilasyon ve kalp pilinin (cardiac pace)
+bulunduğu ortamlarda intravenöz olarak kullanılmalıdır.
+CORDARONE Direkt Akım (DC) kardiyoversiyonu öncesi kullanılabilir.
+Standart önerilen doz, 20 dakika ila 2 saatlik bir sürede intravenöz infüzyon olarak verilen 5
+mg/kg vücut ağırlığıdır. Bu doz 250 mL % 5 dekstroz içerisinde seyreltik çözelti olarak
+uygulanır.
+Bunu, 24 saatte bir 500 mL %5 dekstrozda 1.200 mg’a kadar (yaklaşık 15 mg/kg vücut
+ağırlığı) tekrar eden infüzyon takip edebilir, infüzyon hızı klinik cevaba dayanarak ayarlanır
+(bkz. Bölüm 4.4.).
+Aşırı klinik acil durumda, ilaç, uzmanın takdirine bağlı olarak, minimum 3 dakika içinde 10-
+20 mL %5 dekstroz içinde 150-300 mg'lık yavaş bir enjeksiyon olarak verilebilir. Bu en az 15
+1dakika tekrarlanmamalıdır. CORDARONE ile bu şekilde tedavi edilen hastalar, yoğun bakım
+ünitesinde yakından izlenmelidir. (bkz. Bölüm 4.4).
+İntravenöz tedaviden oral tedaviye geçiş:
+Yeterli yanıt alınır alınmaz, oral tedaviye normal yükleme dozunda birlikte başlanmalıdır
+(günde 3 kez 200 mg tablet). Daha sonra CORDARONE aşamalı olarak sonlandırılmalıdır.
+Şoka dirençli ventriküler fibrilasyonun kardiyo-pulmoner resüsitasyonu:
+Önerilen intravenöz doz 20 mL % 5’lik dekstroz solüsyonu içinde seyreltilen 300 mg (veya 5
+mg/kg vücut ağırlığı) amiodarondur, ve hemen enjekte edilmelidir. Ventriküler fibrilasyonun
+devam etmesi halinde, 150 mg’lık (veya 2,5 mg/kg vücut ağırlığı) ek bir intravenöz dozun
+uygulanması düşünülebilir.
+Uygulama şekli:
+Standart önerilen doz, 20 dakika ila 2 saatlik bir sürede intravenöz infüzyon olarak verilen 5
+mg/kg vücut ağırlığıdır. Bu doz 250 mL % 5 dekstroz içerisinde seyreltik çözelti olarak
+uygulanır.
+Özel popülasyonlara ilişkin ek bilgiler
+Karaciğer yetmezliği:
+I.V. amiodaron uygulamasının ilk 24 saati içinde, akut karaciğer bozuklukları (bazen ölümcül
+olabilen, şiddetli hepatoselüler yetmezlik veya karaciğer yetmezliği) veya kronik karaciğer
+bozuklukları meydana gelebilir. Bu nedenle, eğer transaminazların düzeyi normal aralığın üç
+katını aşarsa, amiodaron dozunun düşürülmesi veya tedavinin kesilmesi gerekir (bkz. Bölüm
+4.4).
+Böbrek yetmezliği:
+Böbrek yetmezliği olan hastalarda özel bir doz ayarlaması gerekmez.
+Pediyatrik popülasyon:
+Amiodaronun pediyatrik hastalardaki güvenliliği ve etkililiği kanıtlanmamıştır. Halihazırda
+mevcut veri Bölüm 5.1 ve 5.2’de sunulmaktadır. Benzil alkol içerdiğinden CORDARONE
+prematürelerde, bebeklerde ve 3 yaşa kadar çocuklarda kontrendikedir.
+Geriyatrik popülasyon:
+Bütün hastalarda olduğu gibi, minimum etkili dozun kullanılması önem taşır. Bu yaş grubunda
+doz gereksiniminin farklı olduğuna dair bir bulgu olmamakla beraber, çok yüksek bir doz
+uygulanması halinde yaşlı hastalar bradikardi ve dolaşım bozukluklarına daha yatkın hale
+gelebilirler. Tiroid fonksiyonlarının takibine özel dikkat gösterilmelidir (bkz. Bölüm 4.3, 4.4 ve
+4.8).
+4.3. Kontrendikasyonlar
+CORDARONE aşağıdaki durumlarda kontrendikedir:
+− Sinoatriyal kalp bloğu sinüs bradikardisi ve zayıf sinüs sendromu olguları. Şiddetli
+atriyoventriküler dolaşım bozuklukları (yüksek derece AV bloğu, bifasiküler veya trifasiküler
+blok) veya sinüs nod bozukluğu hastalarında CORDARONE pacemaker ile bir arada
+kullanılabilir;
+− Kanıtlanmış tiroid hastalığı veya tiroid hastalığı öyküsü olan hastalarda (bkz. Bölüm 4.4);
+2− İyoda, amiodarona veya yardımcı maddelerden herhangi birine karşı bilinen aşırı duyarlılık
+halleri (bir ampül yaklaşık 56 mg iyot içermektedir);
+− Gebelik (istisnai durumlar dışında, bkz. Bölüm 4.6);
+− Laktasyon (bkz. Bölüm 4.6);
+− Bi- veya tri-fasiküler dolaşım bozuklukları, kalıcı faal pacemaker kullanılmıyorsa ya da
+hasta özel bakım ünitesinde bulunmuyorsa ve amiodaron elektrosistolik hız denetimi altında
+kullanılıyorsa;
+− Dolaşım kollapsı;
+− Ağır arteriyel hipotansiyon;
+− Hipotansiyon, ağır solunum yetmezliği, miyopati veya kalp yetmezliği olgularında
+intravenöz enjeksiyon kullanım (durumun kötüleşmesi olasıdır);
+− Yenidoğanlarda ölümcül ‘gasping sendromu’ raporları ile ilişkilendirilen benzil alkol
+içermesi nedeniyle, yenidoğanlarda veya prematüre yenidoğan bebeklerde veya 3 yaşın
+altındaki çocuklarda (bir ampül 60 mg benzil alkol içermektedir);
+− Torsade de Pointes'a neden olan ilaçlarla kombine kullanımı kontrendikedir (bkz. Bölüm
+4.5):
+Diğer alternatif tedavilerin başarısız olduğu şoka dirençli ventriküler fibrilasyonun kardiyo-
+pulmoner resüsitasyon vakalarında, Bölüm 4.2 ve Bölüm 4.4’e bakınız.
+4.4. Özel kullanım uyarıları ve önlemleri
+İntravenöz enjeksiyona spesifik olarak; ayrıca bkz. Bölüm 4.3
+- Bazen hızlı enjeksiyon ile ilişkilendirilen hemodinamik etkiler nedeniyle, intravenöz
+enjeksiyon genellikle tavsiye edilmez (bkz. Bölüm 4.8). Dolaşım kollapsı çok hızlı uygulama
+veya aşırı doz ile hızlandırılabilir (bradikardi oluşan bu tür hastalarda atropin başarılı bir
+şekilde kullanılmıştır). Mümkün olduğunca intravenöz infüzyon tercih edilmelidir.
+- İntravenöz enjeksiyon sadece alternatif tedavilerin yetersiz kaldığı acil durumlarda ve
+sadece yoğun bakım ünitelerinde, sürekli elektrokardiyografik kontrol ve kan basıncı kontrolü
+altında gerçekleştirilmelidir.
+- Doz 5 mg/kg’dır. Şoka dirençli ventriküler fibrilasyonun kardiyo-pulmoner resüsitasyon
+durumu dışında, amiodaronun enjeksiyon süresi asla 3 dakikadan az olmamalıdır ve birinci
+enjeksiyondan sonra (yalnızca bir ampul uygulanmış olsa bile) 15 dakikadan önce ikinci bir
+enjeksiyon yapılmamalıdır (geri dönüşümsüz kollaps riski).
+- Aynı enjektör içinde diğer preparatlar ile karıştırılmamalıdır. Aynı yol içerisinde diğer
+preparatlar enjekte edilmemelidir. Amiodaron tedavisine devam edilmesi gerektiğinde
+intravenöz infüzyona geçilmelidir (bkz. Bölüm 4.2).
+Pediyatrik hastalar
+CORDARONE benzil alkol (20 mg/mL) içrmektedir. Bebeklerde ve 3 yaşın altındaki
+çocuklarda kullanımı toksik reaksiyonlara ve alerjik reaksiyonlara yol açabilir. Benzil alkol
+içeren intravenöz çözeltilerin uygulanmasının ardından yenidoğanlarda (1 aylıktan küçük
+çocuklar) ölümcül ‘gasping sendromu’ bildirilmiştir. Semptomlar gasping sendromunun
+başlangıcını, hipotansiyonu, bradikardiyi ve kardiyovasküler kollapsı içerir (bkz. Bölüm 4.3).
+Kardiyak bozukluklar
+3Amiodaron düşük proaritmik etkiye sahiptir. Yeni aritmilerin başlaması veya tedavi edilen
+aritmilerin kötüleşmesi, bazen ölümle sonlanması rapor edilmiştir. İlacın etkisiz olmasıyla, bir
+proaritmik etkinin olmasının birbirinden ayırt edilmesi güçtür; ancak bu durumun kardiyak
+durumun kötüleşmesiyle ilgili olup olmadığının anlaşılması önem taşır. Genellikle ilaç
+etkileşimleri ve/veya elektrolit bozuklukları gibi QT aralığında uzama faktörleri bağlamında
+proaritmik etkiler meydana gelmektedir. (bkz. Bölüm 4.5 ve 4.8). QT aralığındaki uzamaya
+rağmen, amiodaron düşük torsadojenik aktivite göstermektedir.
+Doz çok yüksek olduğunda, özellikle yaşlı hastalarda veya dijital tedavisi sırasında,
+idioventriküler ritmin ortaya çıkmasıyla birlikte şiddetli bradikardiye ve dolaşım
+bozukluklarına neden olabilir. Bu gibi durumlarda amiodaron tedavisi kesilmelidir. Gerekirse,
+beta-adrenerjik stimülanlar veya glukagon uygulanabilir. Amiodaron uzun bir yarılanma
+ömrüne sahip olduğundan, bradikardinin şiddetli ve semptomatik olması halinde pacemaker
+yerleştirilmesi düşünülebilir.
+CORDARONE’nin farmakolojik eylemi, EKG değişikliklerine yol açabilir: U dalgalarının
+olası gelişimi ve deforme olmuş T dalgaları ile QT uzaması (uzamış repolarizasyon ile ilişkili)
+gibi değişiklikler toksisiteyi yansıtmaz.
+Şiddetli bradikardi ve kalp bloğu :
+Sofosbuvir içeren rejim, amiodaron ile kombinasyon halinde kullanıldığında yaşamı tehdit
+eden bradikardi ve kalp bloğu olguları gözlenmiştir.
+Bradikardi genellikle saatler ila günler içerisinde ortaya çıkmıştır, ancak daha sonraki vakalar
+çoğunlukla Hepatit C Virüsü (HCV) tedavisine başlandıktan sonra 2 haftaya kadar
+gözlenmiştir.
+Amiodaron, yalnızca sofosbuvir içeren rejimi kullanan hastalarda, diğer alternatif tedavilerin
+tolere edilmediği veya kontrendike olduğu durumlarda kullanılmalıdır.
+Amiodaronun eş zamanlı kullanımının gerekli olduğu düşünüldüğünde, birlikte uygulamanın
+ilk 48 saatinde hastalara, yatan hasta olarak kardiyak izleme yapılması önerilir. Bundan sonra
+kalp atış hızı, ayakta tedavi veya kendi kendine izlem şeklinde, tedavinin en az ilk 2 haftası
+boyunca günlük olarak yapılmalıdır.
+Amiodaronun yarılanma ömrünün uzun olması nedeniyle amiodaron tedavisini birkaç ay
+içinde kesmiş olan hastalar ve sofosbuvir içeren rejimde başlanacak olan hastalarda kardiyak
+izlem yukarıda özetlendiği gibi uygun biçimde izlenmelidir.
+Sofosbuvir içeren rejim ile kombinasyon halinde amiodaron kullanan hastalar, bradikardi ve
+kalp bloğu semptomları konusunda uyarılmalı ve bu semptomlar ortaya çıktığında hemen
+doktora başvurmaları tavsiye edilmelidir.
+Pulmoner bozukluklar:
+Dispne veya kuru öksürük başlaması, interstisyel pnömoni gibi pulmoner toksisite ile ilişkili
+olabilir. İntravenöz amiodaron ile çok seyrek olarak interstisyel pnömoni vakaları
+bildirilmiştir. Bu teşhisten şüphelenildiğinde, bir göğüs röntgeni çekilmesi gerekir.
+Amiodaronun erken dönemde kesilmesi durumunda interstisyel pnömoni genellikle geri
+dönüşlü olduğundan; böyle bir durumda amiodaron tedavisinin yeniden değerlendirilmesi
+4gerekir ve kortikosteroid tedavisi düşünülmelidir (bkz. Bölüm 4.8). Klinik belirtiler genellikle
+birkaç hafta içinde iyileşmektedir, arkasından daha yavaş olarak, radyolojik iyileşme olmakta
+ve akciğer fonksiyon gelişiminde düzelme gerçekleşmektedir. Bazı hastalarda amiodaron
+tedavisinin kesilmesine rağmen kötüleşme görülebilir. Ölümle sonlanabilen akciğer toksisitesi
+olguları bildirilmiştir.
+Bazen ölümcül olabilen, şiddetli solunum komplikasyonu olguları çok seyrek olarak
+genellikle cerrahi girişimden hemen sonraki dönemde gözlenmiştir (erişkinde akut solunum
+sıkıntısı sendromu); bu durum yüksek bir oksijen konsantrasyonuyla muhtemel bir etkileşim
+nedeniyle gelişmiş olabilir (bkz. Bölüm 4.5 ve 4.8).
+Karaciğer bozuklukları (bkz. Bölüm 4.8):
+Amiodarona başlandığı anda ve tedavi süresince düzenli olarak karaciğer fonksiyon testlerinin
+(transaminazlar) yakın takibi önerilmektedir. Oral ve intravenöz formlarıyla ve I.V.
+amiaodaron uygulamasının ilk 24 saati içinde, akut karaciğer bozuklukları (bazen ölümcül
+olabilen, şiddetli hepatoselüler yetmezlik veya karaciğer yetmezliği) veya kronik karaciğer
+bozuklukları meydana gelebilir. Bu nedenle, eğer transaminazların düzeyi normal aralığın üç
+katını aşarsa, amiodaron dozunun düşürülmesi veya tedavinin kesilmesi gerekir.
+Oral amiodarona bağlı kronik karaciğer bozukluklarının klinik veya biyolojik belirtileri çok az
+olabilir (hepatomegali, transaminaz düzeyinin normal aralığın 5 katına kadar artmış
+transaminaz) ve tedavi kesildiğinde geri dönebilir; ancak ölümle sonlanan olgular rapor
+edilmiştir.
+Tiroid disfonksiyonu:
+Tiroid fonksiyon testleri tüm hastalarda tedaviye başlanmadan önce uygun olduğunda
+gerçekleştirilmelidir (bkz. Bölüm 4.3).
+Hipertiroidizm amiodaron tedavisi sırasında veya tedavinin sona ermesinden birkaç ay sonra
+meydana gelebilir. Tirotoksikozun klinik olarak ortaya çıktığı ve bazen ölümcül olan ciddi
+vakalar acil tedavi yönetimi gerektirir.
+Göz bozuklukları (bkz. Bölüm 4.8):
+Eğer bulanık görme veya görme yeteneğinde azalma meydana gelirse, fundoskopiyi de içeren
+bir oftalmolojik muayenenin derhal yapılması gerekir. Optik nöropati ve/veya optik nöritin
+görülmesi körlüğe doğru ilerleme potansiyeli olması nedeniyle amiodaronun kesilmesini
+gerektirir. Eğer bulanık görme veya görme yeteneğinde azalma meydana gelmez ise
+oftalmolojik muayenenin yılda bir kez yapılması önerilir.
+Şiddetli büllöz reaksiyonlar:
+Yaşamı tehdit eden ya da ölümcül olabilen deri reaksiyonları Stevens-Johnson sendromu
+(SJS), Toksik Epidermal Nekroliz (TEN) (bkz. Bölüm 4.8). SJS ve TEN semptomları ya da
+belirtileri (örn. sıklıkla soyulma ya da mukozada lezyon ile birlikte progresif deri döküntüsü)
+ortaya çıkarsa amiodaron tedavisi hemen kesilmelidir.
+5İlaç etkileşimleri (bkz. Bölüm 4.5):
+Amiodaron’un beta blokörler, kalp atım hızını düşüren kalsiyum kanal blokörleri (verapamil
+ve diltiazem), hipokalemi oluşturabilen stimulan laksatif ajanlar ile kombine kullanılması
+önerilmez.
+Hipotansiyon, şiddetli solunum yetmezliği, kompanse edilmemiş veya şiddetli kalp yetmezliği
+vakalarında dikkatli olunmalıdır (ayrıca bkz. Bölüm 4.3).
+CORDARONE yalnızca sürekli izleme (EKG ve kan basıncı) altında özel bakım ünitesinde
+kullanılmalıdır.
+Enjeksiyon bölgesi reaksiyonlarından kaçınmak için (bkz. Bölüm 4.8), intravenöz olarak
+uygulanan amiodaron mümkün olduğunda santral venöz yolla uygulanmalıdır.
+CORDARONE infüzyonla verildiğinde damla boyutunu azaltabilir ve uygunsa infüzyon
+hızında ayarlamalar yapılmalıdır.
+Anestezi:
+Cerrahi girişim öncesinde, anestezist hastanın amiodaron ile tedavi edildiği konusunda
+uyarılmalıdır (bkz. Bölüm 4.5).
+Kalp nakli sonrası Primer Greft Disfonksiyonu (PGD):
+Retrospektif çalışmalarda, kalp nakli öncesinde nakil yapılacak hastalarda amiodaron
+kullanımı primer greft diskfonksiyonu (PGD) riskinde artışla ilişkilendirilmiştir.
+PGD, transplantasyon cerrahisinin ilk 24 saati içerisinde gelişen, tanımlanabilir ikinci bir
+nedenin bulunmadığı, sol, sağ veya biventriküler disfonksiyon olarak kendini gösteren, hayatı
+tehdit edici bir kalp nakli komplikasyonudur (bkz. Bölüm 4.8). Şiddetli PGD geri dönüşsüz
+olabilir.
+Kalp nakli için bekleyen hastalarda, transplantasyon öncesinde mümkün olan en kısa zamanda
+alternatif bir antiaritmik ilaca geçilmesi dikkate alınmalıdır.
+CORDARONE, her bir mL’sinde 20 mg olmak üzere bir ampulde toplam 60 mg benzil alkol
+içerir. Prematüre bebekler ve yeni doğanlara uygulanmaması gerekir (bkz. Bölüm 4.3).
+Bebeklerde ve 3 yaşına kadar olan çocuklarda toksik reaksiyonlara ve anafilaktoid
+reaksiyonlara neden olabilir
+4.5. Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+Amiodaron ile etkileşime giren daha önemli ilaçlardan bazıları arasında varfarin, digoksin,
+fenitoin ve QT aralığını uzatan ilaçlar bulunur.
+• Torsades de Pointes’a veya QT uzamasına neden olan ilaçlar:
+− ‘Torsades de Pointes’ı indükleyen ilaçlar:
+‘Torsades de Pointes’ı indükleyen aşağıdaki ilaçlar ile kombine tedavi kontrendikedir (bkz.
+Bölüm 4.3)
+6• Sınıf Ia antiaritmik ilaçlar (ör. kinidin, prokainamid, dizopiramid, bepidril),
+• Sınıf III antiaritmik ilaçlar (ör. sotalol, bretilyum),
+• Olası ölümcül “Torsades de Pointes” riski artışı olduğundan vinkamin, bazı nöroleptik
+ajanlar, sisaprid, intravenöz eritromisin, ko-trimoksazol veya pentamidin enjeksiyonu
+(parenteral olarak uygulandığında) gibi antiaritmik olmayan ilaçlar
+• Bazı antipsikotikler; klorpromazin, tiyoridazin, flufenazin, pimozid, haloperidol,
+amisülpirid ve sertindol
+• Lityum ve doksepin, maprotilin, amitriptilin gibi trisiklik antidepresanlar
+• Terfenadin, astemizol, mizolastin gibi belli antihistaminler
+• Kinin, meflokin, klorokin, halofantrin gibi antimalaryal ilaçlar
+• QT aralığını uzatan ilaçlar
+Torsades de Pointes riski artabileceğinden (bkz. Bölüm 4.4), amiodaronun QT aralığını
+uzattığı bilinen ilaçlarla birlikte kullanımına ancak her hasta için potansiyel risk ve yararlar
+dikkatli bir şekilde değerlendirildikten sonra karar verilmeli ve hastalar QT uzaması açısından
+izlenmelidir.
+Amiodaron tedavisi alan hastalarda, florokinolonların kullanımından kaçınılmalıdır.
+• Kalp atışını düşüren veya otomatizmaya veya dolaşım bozukluklarına sebep olan
+ilaçlar
+Bu ilaçlarla kombine tedavi önerilmez:
+Beta blokörler ve belli kalsiyum kanal inhibitörleri (diltiazem, verapamil); negatif kronotropik
+özelliklerin potansiyel artışı ve dolaşım yavaşlama etkileri meydana gelebilir.
+• Hipokalemiye neden olabilen ajanlar
+Aşağıdaki ilaçlarla kombine tedavisi önerilmez.
+- Hipokalemiye neden olabilen böylelikle Torsades de Pointes riskini artıran uyarıcı
+laksatifler; laksatiflerin başka tipleri kullanılmalıdır.
+CORDARONE ile kombinasyon halinde aşağıdaki ilaçlar ile kullanıldığında dikkatli
+olunmalıdır.
+- Hipokalemiye neden olabilen diüretikler (tek başına veya kombine olarak),
+- Sistemik kortikosteroidler (gluko-, mineralo-), tetrakosaktid,
+- Amfoterisin B (I.V.)
+• Genel anestezi (bkz. Bölüm 4.4 ve 4.8)
+Genel anestezi uygulanan veya yüksek doz oksijen tedavisi alan hastalarda dikkatli olunması
+önerilir. Genel anestezi uygulanan amiodaron almış hastalarda ciddi olabilen komplikasyonlar
+bildirilmiştir: bradikardi (atropine cevap vermeyen), hipotansiyon, dolaşım bozuklukları,
+kardiyak output azalması.
+Çok nadiren, bazen ölümle sonlanabilen ciddi solunum komplikasyonları (erişkinin akut
+solunum sıkıntısı sendromu), genellikle cerrahi girişimin hemen sonrasında gözlenmiştir. Bu
+durum, yüksek oksijen konsantrasyonuyla etkileşmenin bir sonucu olabilir.
+7Amiodaron ve/veya metaboliti desetilamiodaron, CYP1A1, CYP1A2, CYP3A4, CYP2C9,
+CYP2D6 ve P-glikoproteini inhibe eder ve bunların substratlarına maruziyeti artırabilir.
+Amiodaronun uzun yarılanma ömrü nedeniyle, amiodaronun sonlandırılmasından sonra birkaç
+ay boyunca etkileşimler gözlenebilir.
+• P-gP substratları
+Amiodaron bir P-gp inhibitörüdür. P-gp substratlarıyla birlikte kullanımının, maruziyette
+artışa neden olması beklenir.
+- Dijital
+Otomatizmada (aşırı bradikardi) ve atriyoventriküler dolaşımda (sinerjik etki) bozukluklar
+meydana gelebilir; ek olarak, digoksin klirensindeki azalmaya bağlı olarak plazma digoksin
+konsantrasyonlarında bir artış mümkündür. EKG ve digoksin plazma seviyeleri izlenmeli ve
+hastalar dijital toksisitenin klinik belirtileri açısından gözlenmelidir. Dijital tedavisinin
+dozunun ayarlanması gerekebilir.
+- Dabigatran:
+Kanama riski nedeniyle, amiodaronun dabigatranla birlikte kullanımı sırasında dikkatli
+olunmalıdır. Dabigatran dozunun ürün bilgisine uygun olarak ayarlanması gerekmektedir.
+• CYP2C9 substratları
+Amiodaron, sitokrom P4502C9'un inhibisyonu ile varfarin veya fenitoin gibi CYP2C9
+substratlarının konsantrasyonlarını yükseltir.
+Varfarin:
+Varfarinin amiodaron ile kombinasyonu oral antikoagülanın etkisini şiddetlendirerek kanama
+riskini artırabilir. Hem amiodaron tedavisi sırasında hem de amiodaron tedavisinin
+sonlandırılmasından sonra protrombin (INR) seviyelerini daha düzenli izlemek ve
+antikoagülan ajanların oral dozlarını ayarlamak gerekir.
+Fenitoin:
+Amiodaron, sitokrom P4502C9 inhibisyonu ile plazma fenitoin konsantrasyonunu yükseltir.
+Bu sebeple amiodaron ile fenitoin kombinasyonu nörolojik belirtilerle sonuçlanan doz
+aşımına sebep olabilir. Klinik takip yapılmalı ve aşırı doz belirtileri görünür görünmez
+fenitoin dozu düşürülmelidir; fenitoin plazma seviyeleri belirlenmelidir.
+• CYP2D6 substratları
+- Flekainid
+Amiodaron sitokrom P4502D6 inhibisyonu ile, flekainidin plazma konsantrasyonlarını
+artırabilir. Dolayısıyla flekainid dozu ayarlanmalıdır.
+Artan Torsades de Pointes’in riski sebebiyle QT aralığını uzatan aşağıdaki ilaçlarla etkin
+maddenin kombine tedavisi kontrendikedir (bkz. Bölüm 4.3); örneğin:
+Aşağıdaki ilaçlarla kombine tedavi önerilmemektedir:
+8• Florokinolonlarla birlikte amiodaron kullanan hastalarda, Torsades de Pointes’ın eşlik
+ettiği veya etmediği QTc aralığı uzaması nadiren bildirilmiştir. Amiodaron tedavisi alan
+hastalarda, florokinolonların kullanımından kaçınılmalıdır.
+Hipokaleminin başlangıcını önlemek (ve hipokalemiyi düzeltmek) gereklidir; QT aralığı
+izlenmelidir ve “Torsades de Pointes” ortaya çıkması halinde antiaritmik ajanlar
+verilmemelidir (ventriküler pacing başlatılmalıdır ve I.V. magnezyum kullanılabilir).
+• CYPP4503A4 substratları
+Bu gibi ilaçların, bir CYP3A4 inhibitörü olan amiodaron ile birlikte uygulanması; bu ilaçların
+plazma konsantrasyonlarının yükselmesine ve dolayısıyla toksisitelerin artmasına neden
+olabilir.
+• Siklosporin:
+Amiodaron ile kombinasyonu, siklosporin plazma seviyesini artırabilir. Dozunun ayarlanması
+gereklidir.
+• Fentanil:
+Amiodaron ile kombinasyonu, fentanilin farmakolojik etkilerini güçlendirebilir ve toksisite
+riskini arttırabilir.
+• Statinler:
+Amiodaron ile birlikte CYP3A4 tarafından metabolize edilen simvastatin, atorvastatin ve
+lovastatin gibi statinlerin birlikte kullanılması kas toksisitesi (örn. rabdomiyoliz) riskini
+arttırır. Amiodaron ile birlikte CYP3A4 tarafından metabolize edilmeyen bir statin
+kullanılması önerilir.
+• CYP3A4 tarafından metabolize edilen diğer ilaçlar: lidokain, takrolimus, sildenafil,
+midazolam, triazolam, dihidroergotamin, ergotamin, kolşisin.
+CYP3A4 inhibitörleri ve CYP2C8 inhibitörleri amiodaron metabolizmasını inhibe etme ve
+maruziyetini artırma potansiyeline sahiptir.
+Amiodaron ile tedavi sırasında CYP3A4 inhibitörlerinden (örn. greyfurt suyu belli tıbbi
+ürünler) kaçınılmalıdır.
+Amiodaron ile sofosbuvir içeren rejimlerin birlikte kullanımı ciddi semptomatik bradikardiye
+yol açabilir. Eğer eş zamanlı kullanım kaçınılmaz ise kardiyak izlem önerilir (Bkz. Bölüm
+4.4).
+Özel popülasyonlara ilişkin ek bilgiler:
+Pediyatrik popülasyon:
+Çocuklarda amiodaronun etkililiği ve güvenliliği gösterilmemiştir. Bu nedenle çocuklarda
+kullanımı önerilmemektedir.
+94.6. Gebelik ve laktasyon
+Genel tavsiye
+Gebelik kategorisi: D
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon)
+Çocuk doğurma potansiyeli bulunan kadınlar uygun bir doğum kontrolü uygulamalıdır.
+Gebelik dönemi
+Amiodaronun gebelik ve/veya fetus/yeni doğan üzerinde zararlı farmakolojik etkileri
+bulunmaktadır.
+CORDARONE fetal tiroid bezi üstündeki etkileri göz önüne alındığında, gerekli olmadıkça
+gebelik döneminde kullanılmamalıdır. Amiodaron gebelik döneminde kontrendikedir.
+Laktasyon dönemi
+Amiodaron anne sütüne anlamlı miktarda geçer ve emzirme kontrendikedir.
+Üreme yeteneği/Fertilite
+Amiodaronun üreme yeteneği üzerine veri bulunmamaktadır.
+4.7. Araç ve makine kullanımı üzerindeki etkiler
+Amiodaron ile ilgili güvenlilik verilerine göre, amiodaronun araç veya makine kullanımı
+becerilerini bozduğuna dair herhangi bir kanıt bulunmamaktadır.
+4.8. İstenmeyen etkiler
+Aşağıda listelenen advers etkiler sistem organ sınıfına göre sınıflandırılmış ve aşağıda
+listelenen sıklık başlıkları altında sıralanmıştır:
+Çok yaygın (≥ 1/10); yaygın (≥ 1/100 ila < 1/10); yaygın olmayan (≥ 1/1.000 ila < 1/100);
+Seyrek (≥ 1/10.000 ila < 1/1.000); çok seyrek (< 1/10.000), bilinmiyor (eldeki verilerden
+hareketle tahmin edilemiyor).
+Kan ve lenf sistemi hastalıkları:
+Bilinmiyor:
+- Nötropeni, agranülositoz
+Bağışıklık sistemi hastalıkları:
+Çok seyrek:
+- Anafilaktik şok
+Bilinmiyor:
+- Anjiyonörotik ödem (Quincke ödemi)
+Endokrin hastalıklar:
+Çok seyrek:
+- Uygunsuz Antidiüretik Hormon Salınım Sendromu (UAHSS)
+Bilinmiyor:
+- Hipertiroidizm
+10Metabolizma ve beslenme hastalıkları:
+Bilinmiyor:
+- İştah azalması
+Psikiyatrik hastalıklar:
+Yaygın:
+- Libido azalması
+Bilinmiyor:
+- Konfüzyonel durum/deliryum
+- Halüsinasyon
+Sinir sistemi hastalıkları:
+Çok seyrek:
+- İyi huylu intrakranyal hipertansiyon (psödotümör serebri)
+- Baş ağrısı
+Bilinmiyor:
+- Parkinsonizm
+Göz hastalıkları:
+Bilinmiyor:
+- Körlük gelişebilen optik nöropati/nörit (bkz. Bölüm 4.4).
+Kardiyak hastalıklar:
+Yaygın:
+- Genellikle orta şiddette bradikardi
+Çok seyrek:
+- Bazen kardiyak arrestin takip ettiği aritmi başlaması veya var olan aritminin kötüleşmesi
+- Özellikle yaşlılarda ve/veya sinüs düğümü disfonksiyonu olan hastalarda amiodaron
+kullanımının bırakılmasını gerektirecek şekilde belirgin bradikardi ve sinüs arresti (bkz.
+Bölüm 4.4. ve 4.5)
+- Torsades de Pointes
+Vasküler hastalıklar:
+Yaygın:
+- Kan basıncında orta dereceli ve geçici düşüş
+- Aşırı hızlı uygulamadan sonra veya doz aşımına bağlı şiddetli hipotansiyon veya dolaşım
+kollapsı vakaları
+Çok seyrek:
+- Sıcak basması
+Solunum, göğüs bozuklukları ve mediastinal hastalıklar:
+Çok seyrek:
+- İnterstisyel pnömonit veya bazen ölümcül olabilen fibrozis (bkz. Bölüm 4.4)
+- Bazen ölümcül olabilen şiddetli solunum komplikasyonları (erişkinde akut solunum sıkıntısı
+sendromu) (bkz. Bölüm 4.4 ve 4.5)
+11- Özellikle astım hastalarında, şiddetli solunum yetmezliği durumunda bronkospazm ve/veya
+apne.
+Gastrointestinal hastalıklar:
+Çok seyrek:
+- Bulantı
+Bilinmiyor:
+- Pankreatit/akut pankreatit
+Hepato- bilier hastalıklar:
+Çok seyrek:
+- Tedavinin başlangıcında serum transaminaz düzeylerinde, genellikle orta dereceli (normalin
+1,5-3 katı) izole yükselme (dozun azaltılmasıyla, hatta kendiliğinden normale geri dönebilir)
+- Yüksek serum transaminaz seviyeleri ve/veya karaciğer yetmezliği içeren sarılıkla birlikte
+görülen, bazen fatal olabilen akut karaciğer bozuklukları (bkz. Bölüm 4.4).
+Deri ve deri altı doku hastalıkları:
+Yaygın:
+- Egzema
+Çok seyrek:
+- Terleme
+Bilinmiyor:
+- Ürtiker
+- Toksik epidermal nekroliz/Stevens-Johnson sendromu, Büllöz dermatiti içeren bazen
+ölümcül olabilen şiddetli deri reaksiyonları
+- Eozinofili ve sistematik semptomlu ilaç reaksiyonu (DRESS)
+Kas-iskelet bozuklukları, bağ doku ve kemik hastalıkları:
+Bilinmiyor:
+- Sırt ağrısı
+Genel bozukluklar ve uygulama bölgesine ilişkin hastalıklar:
+Yaygın:
+Enjeksiyon bölgesinde aşağıdakiler gibi reaksiyonlar;
+- Ağrı
+- Eritem
+- Ödem
+- Nekroz
+- Damar dışına kaçma
+- İnfiltrasyon
+- İnflamasyon
+- Endurasyon
+- Tromboflebit
+- Flebit
+- Sellülit
+- Enfeksiyon
+- Pigmentasyon
+12Yaralanma ve zehirlenme
+Bilinmiyor:
+- Kalp nakli sonrası primer greft disfonksiyonu (bkz. Bölüm 4.4)
+Şüpheli advers reaksiyonların raporlanması:
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TÜFAM)’ne bildirilmesi gerekmektedir (www.titck.gov.tr; e-posta:
+tufam@titck.gov.tr; tel: 0 800 314 00 08; faks: 0 312 218 35 99).
+4.9. Doz aşımı ve tedavisi
+İntravenöz yolla uygulanan amiodaronun doz aşımı ile ilgili olarak bilgi yoktur.
+Amiodaronun akut doz aşımı ile ilgili çok az bilgi vardır. Birkaç vakada sinüs bradikardisi,
+kalp bloğu, ventriküler taşikardi atakları, Torsades de Pointes, dolaşım yetmezliği ve
+karaciğer bozukluğu bildirilmiştir.
+Doz aşımı halinde, genel destekleyici önlemlere ek olarak semptomatik tedavi yapılmalıdır.
+Hasta monitorize edilmelidir; bradikardi gelişmesi halinde beta-adrenerjik stimülanlar veya
+glukagon verilebilir.
+Kendiliğinden düzelen ventriküler taşikardi atakları da ortaya çıkabilir. Amiodaronun
+farmakokinetik özellikleri nedeniyle, hasta yeterince ve uzun süre takip edilmeli, özellikle
+kardiyak fonksiyonlar açısından izlenmelidir.
+Amiodaron ve metabolitleri diyalizle vücuttan atılamaz.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1. Farmakodinamik özellikler
+Farmakoterapötik grup: Antiaritmikler, Sınıf III
+ATC kodu: C01BD01
+CORDARONE, taşiaritmilerin tedavisi için bir üründür ve karmaşık farmakolojik etkilere
+sahiptir. Etkileri antiadrenerjiktir (kısmi alfa ve beta blokerleri). Hemodinamik etkileri vardır
+(artan kan akışı ve sistemik / koroner vazodilatasyon). İlaç miyokardiyal oksijen tüketimini
+azaltır ve oksidatif süreçlerin azalmasıyla sıçan miyokardiyal ATP kullanımı üzerinde
+koruyucu bir etkiye sahip olduğu gösterilmiştir. Amiodaron kalpteki katekolaminlerin
+metabolik ve biyokimyasal etkilerini ve Na+ ve K+ ile aktive edilmiş ATPaz’ı inhibe eder.
+Şoka dirençli ventriküler fibrilasyon nedeniyle hastane dışında kardiyak arrest ortaya çıkan
+hastalarda I.V. amiodaronun güvenliliği ve etkililiği, iki çift - kör çalışmada
+değerlendirilmiştir: ARREST çalışması (amiodaron-plasebo karşılaştırması) ve ALIVE
+çalışması (amiodaron-lidokain karşılaştırması). Her iki çalışmanın da birincil sonlanım
+noktası, hastaneye ulaşıncaya kadar sağkalımdır.
+ARREST çalışmasında, hastane dışında ventriküler fibrilasyona bağlı kardiyak arrest gelişen
+veya üç veya daha fazla defibrilasyon şokuna ve epinefrine dirençli, nabız alınamayan
+ventriküler taşikardisi olan 504 hasta, 20 mL % 5’lik dekstroz içinde seyreltilmiş 300 mg
+13amiodaronun periferik bir vene hızla enjeksiyonu (246 hasta) veya plasebo (258 hasta)
+uygulanacak şekilde randomize edilmiştir. Amiodaron, hastaneye ulaşıncaya kadar sağ kalan
+197 hastada (% 39), amiodaron resüsite edilme ve hastaneye ulaşma şansını anlamlı düzeyde
+yükseltmiştir: amiodaron grubunda % 44, plasebo grubunda % 34 [p= 0,03]. Hastalığın
+gidişini belirleyen diğer bağımsız faktörler düzeltildikten sonra, hastaneye ulaşana kadar
+sağkalım için düzeltilmiş göreceli olasılıklar oranı, amiodaron grubunda plasebo grubuna
+kıyasla 1,6 olarak bulunmuştur (% 95 güven aralığı 1,1-2,4; p= 0,02). Amiodaron grubunda,
+plasebo grubuna kıyasla daha fazla hastada hipotansiyon (% 59’a karşılık % 25; p= 0,04) veya
+bradikardi (% 41’e karşılık % 25, p= 0,004) ortaya çıkmıştır.
+ALIVE çalışmasında, üç defibrilasyon şoku, epinefrin ve tekrar bir defibrilasyon şokuna
+dirençli ventriküler fibrilasyonu bulunan veya başlangıçta başarılı olan defibrilasyon
+sonrasında ventriküler fibrilasyonu tekrarlayan 347 hasta, amiodaron (30 mL %5 dekstroz
+içinde, tahmini vücut ağırlığına göre 5 mg/kg dozunda) ve lidokain görünümünde plasebo
+veya lidokain (10 mg/mL derişiminde, 1,5 mg/kg dozunda) ve amiodaron görünümünde, aynı
+çözücüyü (polisorbat 80) içeren plasebo uygulanacak şekilde randomize edilmiştir.
+Amiodaron, çalışmaya alınan 347 hastada, resüsite edilme ve hastaneye ulaşma şansını
+anlamlı düzeyde yükseltmiştir: amiodaron grubunda % 22,8 (180 hastadan 41’i), lidokain
+grubunda % 12 (167 hastadan 20’si) [p= 0,009]. Sağkalımı etkileyebilecek diğer faktörlerin
+düzeltilmesinden sonra, hastaneye ulaşana kadar sağkalım için düzeltilmiş göreceli olasılıklar
+oranı, amiodaron grubunda lidokain grubuna kıyasla 2,49 olarak bulunmuştur (% 95 güven
+aralığı 1,28-4,85; p= 0,007). Bradikardi için atropin uygulamasına veya dopaminle presör
+tedaviye gereksinim duyan veya açık olarak lidokain uygulanan hastaların oranı arasında, her
+iki tedavi grubunda fark saptanmamıştır. Başlangıçta çalışma ilacının uygulanmasını takiben
+yapılan defibrilasyon sonrasında asistol ortaya çıkan hastaların oranı, lidokain grubunda,
+amiodaron grubuna kıyasla anlamlı düzeyde daha yüksek bulunmuştur (sırasıyla, % 28,9 ve %
+18,4), p= 0,04.
+Kontrollü pediyatrik çalışma yürütülmemiştir. Yayımlanan çalışmalarda amiodaronun
+güvenliliği çeşitli aritmi bulunan 1.118 pediyatrik hastada değerlendirilmiştir. Pediyatrik
+klinik çalışmalarda aşağıdaki dozlar kullanılmıştır.
+Oral
+-Yükleme dozu: 7 ila 10 gün için 10 ila 20 mg/kg/gün’dür (veya metrekare cinsinden ifade
+edilirse 500 mg/m2/gün).
+-İdame dozu: minimum etkili doz kullanılmalıdır; bireysel cevaplara göre 5 ila 10 mg/kg/gün
+(veya metrekare cinsinden ifade edilirse 250 mg/m2/gün) aralığında olabilir.
+İntravenöz
+-Yükleme dozu: 20 dakika ila 2 saat sürece 5 mg/kg vücut ağırlığıdır.
+-İdame dozu: birkaç saatten birkaç güne kadar 10 ila 15 mg/kg/gün.
+Gerekliyse, oral tedavi olağan yükleme dozu ile eş zamanlı olarak başlatılabilir.
+5.2. Farmakokinetik özellikler
+Genel özellikler
+Amiodaron farmakokinetiği alışılmamış, karmaşıktır ve tam olarak açıklanmamıştır.
+Emilim:
+14I.V. verildiği için geçerli değildir. Oral uygulamayı takiben, emilim değişkendir ve
+enterohepatik döngü ile uzayabilir.
+Dağılım:
+Amiodaron yüksek oranda (> % 95) plazma proteinlere bağlanır.
+Biyotransformasyon:
+Ana metaboliti desetilamiodarondur. Amiodaron esas olarak CYP3A4 ve CYP2C8 tarafından
+metabolize edilir. Amiodaron ve metaboliti desetilamiodaron, in vitro ortamda CYP1A1,
+CYP1A2, CYP2C9, CYP2C19, CYP2D6, CYP3A4, CYP2A6, CYP2B6 ve 2C8’i inhibe etme
+potansiyeline sahiptirler. Amiodaron ve desetilamiodaron, P-gp ve organik katyon taşıyıcı
+(OCT2) inhibisyonu potansiyeline de sahiptir (bir çalışmada, (OCT2 substratı olan)
+kreatininin konsantrasyonunda % 1,1 düzeyinde artış saptanmıştır). In vivo veriler
+amiodaronun CYP3A4, CYP2C9, CYP2D6 ve P-gp substratlarıyla etkileşimlerini ortaya
+koymaktadır.
+Eliminasyon:
+Böbreklerden atılım minimaldir, başlıca atılım yolu feçesle atılımdır.
+Hem sağlıklı gönüllülerde hem de hastalarda yürütülen bir çalışmada, intravenöz amiodaron
+uygulamasını takiben raporlanan, çift kompartımanlı açık model kullanarak hesaplanan
+dağılım hacmi ve total kan klirensi her iki grupta benzerdi. İntravenöz enjeksiyon sonrası
+amiodaron eliminasyonu yaklaşık 4 saatlik dağılım fazı ile birlikte bieksponansiyel olarak
+görünmüştür. Çok yüksek dağılım hacmi ile birlikte merkezi kompartıman için rölatif olarak
+düşük görünür dağılım hacmi, yaygın doku dağılımı olduğu fikrini vermektedir. 400 mg I.V.
+bolus enjeksiyonu yaklaşık 11 saat terminal T meydana getirmiştir.
+1/2
+Doğrusallık/Doğrusal olmayan durum:
+Doğrusallık / doğrusal olmayan durum hakkında yeterli veri bulunmamaktadır.
+Hastalardaki karakteristik özellikler
+Pediyatrik hastalar:
+Çocuklarda yapılmış kontrollü çalışma yoktur. Pediyatrik hastalarla ilgili sınırlı yayımlanmış
+veride, erişkinlere kıyasla anlamlı bir fark bildirilmemiştir.
+5.3. Klinik öncesi güvenlilik verileri
+Sıçanlarda yürütülen 2 yıllık karsinojenite çalışmasında amiodaron klinik dozlarda her iki
+cinsiyette tiroid foliküler tümörlerinde (adenom ve/veya karsinom) artışa neden olmuştur.
+Mutajenite bulguları negatif olduğundan bu tip tümör indüksiyonunun genotoksik mekanizma
+yerine epigenetik mekanizma ile ilişki olduğu ileri sürülmüştür. Farelerde karsinom
+gözlenmemiştir, fakat doza bağlı gelişen tiroid foliküler hiperplazi gözlenmiştir. Sıçan ve
+farelerde tiroid üzerinde gözlenen bu etkiler muhtemelen amiodaronun tiroid bezi
+hormonlarının sentezi ve/veya salınımı üzerindeki etkisine bağlıdır. Bu bulguların insanlar
+üzerindeki ilgisinin düşük olduğu düşünülmektedir.
+6. FARMASÖTİK ÖZELLİKLERİ
+6.1. Yardımcı maddelerin listesi
+Benzil alkol (*)
+Polisorbat 80
+15Enjeksiyonluk su
+(*) İmalat sırasındaki kayıpları önlemek için % 1 oranında eksez doz konulur.
+6.2. Geçimsizlikler
+CORDARONE salin ile geçimsizdir ve sadece % 5 dekstroz çözeltisi ile uygulanmalıdır. 500
+mL % 5 dekstroz içerisinde 2 ampülden daha az CORDARONE içeren çözeltiler stabil
+değildir ve kullanılmamalıdır.
+Amiodaron varlığında DEHP di(2-etilhekzil) ftalat gibi plastifiyanlar içeren uygulama
+ekipmanlarının ya da cihazlarının kullanımı, DEHP sızıntısına neden olabilir. Hastanın
+DEHP’ye maruz kalma oranını en aza indirmek için, nihai amiodaron seyreltiminin, DEHP
+içermeyen setler kullanılarak hazırlanması önerilir.
+6.3. Raf ömrü
+24 ay
+Açıldığında: Açıldıktan sonra kullanılmayan bölümü hemen atınız.
+Seyreltildiğinde: Hemen kullanınız ve kullanılmayan bölümü atınız.
+6.4. Saklamaya yönelik özel tedbirler
+Ampülleri 25oC altında ve ışıktan koruyarak dış kartonunda saklayınız.
+6.5. Ambalajın niteliği ve içeriği
+3 mL çözelti içeren renksiz, Tip I cam.
+3 mL’lik 6 ampullük ambalajlar kullanılmaktadır.
+6.6. Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+Kullanılmamış olan ürünler ya da atık materyaller “Tıbbi Atıkların Kontrolü Yönetmeliği” ve
+“Ambalaj Atıklarının Kontrolü Yönetmeliği” lerine uygun olarak imha edilmelidir.
+7. RUHSAT SAHİBİ
+Sanofi Sağlık Ürünleri Ltd. Şti.
+Şişli-İstanbul
+8. RUHSAT NUMARASI
+220/85
+9. İLK RUHSAT TARİHİ /RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi: 17.09.2009
+Ruhsat yenileme tarihi:
+10. KÜB’ÜN YENİLENME TARİHİ:
+16

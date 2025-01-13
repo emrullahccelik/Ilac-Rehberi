@@ -1,0 +1,867 @@
+KISA ÜRÜN BİLGİSİ
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+CİLAPEM 500 mg/500 mg IV infüzyonluk çözelti hazırlamak için toz
+Steril
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin maddeler:
+Her bir flakon steril olarak 500 mg imipenem anhidr’e eşdeğer 530 mg imipenem monohidrat
+ve 500 mg silastatine eşdeğer 532 mg silastatin sodyum içerir.
+Yardımcı maddeler:
+20 mg sodyum bikarbonat içerir.
+3. FARMASÖTİK FORM
+İnfüzyon çözeltisi için toz
+Beyaz veya hemen hemen beyaz soluk sarı toz
+4. KLİNİK ÖZELLİKLER
+4.1. Terapötik endikasyonlar
+CİLAPEM, aşağıdaki mikroorganizmaların duyarlı suşlarının neden olduğu ciddi
+enfeksiyonların tedavisinde endikedir:
+• Alt solunum yolu enfeksiyonları: Staphylococcus aureus (penisilinaz üreten suşlar),
+Acinetobacter türleri, Enterobacter türleri, Escherichia coli, Haemophilus influenzae,
+Haemophilus parainfluenzae*, Klebsiella türleri, Serratia marcescens.
+• Üriner sistem enfeksiyonları (komplikasyonlu ve komplikasyonsuz): Enterococcus
+faecalis, Staphylococcus aureus (penisilinaz üreten suşlar)*, Enterobacter türleri,
+Escherichia coli, Klebsiella türleri, Morganella morganii*, Proteus vulgaris*, Providencia
+rettgeri*, Pseudomonas aeruginosa.
+• İntra-abdominal enfeksiyonlar: Enterococcus faecalis, Staphylococcus aureus (penisilinaz
+üreten suşlar)*, Staphylococcus epidermidis, Citrobacter türleri, Enterobacter türleri,
+Escherichia coli, Klebsiella türleri, Morganella morganii*, Proteus türleri, Pseudomonas
+aeruginosa, Bifidobacterium türleri, Clostridium türleri, Eubacterium türleri, Peptococcus
+türleri, Peptostreptococcus türleri, Propionibacterium türleri*, B. fragilis dahil Bacteroides
+türleri, Fusobacterium türleri.
+• Jinekolojik enfeksiyonlar: Enterococcus faecalis, Staphylococcus aureus (penisilinaz
+üreten suşlar)*, Staphylococcus epidermidis, Streptococcus agalactiae (Grup B
+streptococci), Enterobacter türleri*, Escherichia coli, Gardnerella vaginalis, Klebsiella
+türleri*, Proteus türleri, Bifidobacterium türleri*, Peptococcus türleri*, Peptostreptococcus
+türleri, Propionibacterium türleri*, B. fragilis dahil Bacteroides türleri*.
+1• Bakteriyal septisemi: Enterococcus faecalis, Staphylococcus aureus (penisilinaz üreten
+suşlar), Enterobacter türleri, Escherichia coli, Klebsiella türleri, Pseudomonas aeruginosa,
+Serratia türleri*, B. fragilis dahil Bacteroides türleri*.
+• Kemik ve eklem enfeksiyonları: Enterococcus faecalis, Staphylococcus aureus (penisilinaz
+üreten suşlar), Staphylococcus epidermidis, Enterobacter türleri, Pseudomonas
+aeruginosa.
+• Deri ve yumuşak doku enfeksiyonları: Enterococcus faecalis, Staphylococcus aureus
+(penisilinaz üreten suşlar), Staphylococcus epidermidis, Acinetobacter türleri, Citrobacter
+türleri, Enterobacter türleri, Escherichia coli, Klebsiella türleri, Morganella morganii,
+Proteus vulgaris, Providencia rettgeri*, Pseudomonas aeruginosa, Serratia türleri,
+Peptococcus türleri, Peptostreptococcus türleri, B. fragilis dahil Bacteroides türleri,
+Fusobacterium türleri*.
+• Endokardit: Staphylococcus aureus (penisilinaz üreten suşlar)
+• Polimikrobik enfeksiyonlar: CİLAPEM; S. pneumoniae (pnömoni, septisemi), S. pyogenes
+(deri ve yumuşak doku) veya penisilinaz üretmeyen S. aureus dahil polimikrobik
+enfeksiyonlarda endikedir. Ancak bu organizmaların neden olduğu monobakteriyel
+enfeksiyonların tedavisinde genellikle penisilin G gibi daha dar spektrumlu antibiyotikler
+kullanılmaktadır.
+* Bu organizmaların bu organ sistemlerindeki etkinliği 10’dan az enfeksiyonda çalışılmıştır.
+CİLAPEM menenjit tedavisinde endike değildir.
+Pediyatrik kullanım için bkz. 4.4. Kullanım için özel uyarılar ve özel önlemler ve 4.2
+Pozoloji ve uygulama şekli.
+CİLAPEM gram-pozitif ve gram-negatif aerob ve anaerob bakterilere karşı geniş spektrumlu
+bakterisit etkisi olduğundan karışık enfeksiyonların tedavisinde ve neden olan organizmaların
+belirlenmesinden önce ampirik tedavide kullanılır.
+Pseudomonas aeruginosa’dan kaynaklanan kistik fibroz, kronik akciğer hastalığı ve alt
+solunum yolu enfeksiyonları olan hastalarda klinik iyileşme gözlenmiş olmasına karşın,
+bakteriyel eradikasyon her zaman sağlanamayabilir.
+Diğer beta-laktam antibiyotiklerde olduğu gibi, bazı Pseudomonas aeruginosa suşları
+CİLAPEM tedavisi sırasında oldukça hızlı direnç geliştirebilmektedir. Pseudomonas
+aeruginosa enfeksiyonlarının tedavisi sırasında, klinik yönden uygun olduğunda periyodik
+duyarlılık testleri yapılmalıdır.
+Diğer antibiyotiklere (örn., sefalosporinler, penisilin ve aminoglikozitler) dirençli
+enfeksiyonların CİLAPEM tedavisine yanıt verdiği gösterilmiştir.
+İlaca dirençli bakterilerin gelişimini azaltmak ve CİLAPEM ve diğer antibakteriyel ilaçların
+etkinliğini korumak amacıyla CİLAPEM yalnızca duyarlı bakterilerden kaynaklandığı
+kanıtlanmış veya bu yönde kuvvetli kuşkular olan enfeksiyonları tedavi etmek veya önlemek
+2için kullanılmalıdır. Antibakteriyel tedavi seçilirken veya değiştirilirken kültür ve duyarlılık
+testi sonuçları dikkate alınmalıdır. Bu tip verilerin yokluğunda, yerel epidemiyoloji ve
+duyarlılık modelleri tedavinin ampirik seçimine yardımcı olabilir.
+4.2. Pozoloji ve uygulama şekli
+Pozoloji/uygulama sıklığı ve süresi:
+Erişkin
+CİLAPEM’in dozaj önerileri uygulanacak imipenem miktarını temsil eder. Çözeltide eşdeğer
+miktarda silastatin de bulunmaktadır. Her 125 mg, 250 mg veya 500 mg doz 20-30 dakika
+içinde intravenöz uygulamayla verilmelidir. Her 750 mg veya 1.000 mg doz 40-60 dakika
+boyunca infüzyonla verilmelidir. İnfüzyon sırasında bulantısı olan hastalarda infüzyon hızı
+yavaşlatılabilir.
+CİLAPEM’in toplam günlük dozu enfeksiyonun tipine veya şiddetine göre belirlenmeli ve
+patojen(ler)in duyarlılık derecesi, böbrek fonksiyonu ve vücut ağırlığı dikkate alınarak eşit
+bölünmüş dozlar halinde verilmelidir. Böbrek fonksiyon bozukluğu olan erişkinlerde
+(kreatinin klerensi ≤ 70 ml/dak/1,73 m2) bu metnin bir sonraki bölümünde tarif edilen dozaj
+ayarlaması gerekir.
+Böbrek Fonksiyonu Normal ve Vücut Ağırlığı ≥ 70 kg olan Erişkinlerde İntravenöz Dozaj
+Şeması
+Tablo I’de gösterilen dozlar böbrek fonksiyonları normal ve vücut ağırlığı 70 kg olan bir
+hastayı esas alır. Bu dozlar kreatinin klerensi ≥ 71 ml/dak/1,73 m2 ve vücut ağırlığı ≥70 kg
+olan hastalarda kullanılmalıdır. Kreatinin klerensi ≤ 70 ml/dak/1,73 m2 ve/veya vücut ağırlığı
+70 kg’ın altında olan hastalarda doz azaltılmalıdır (bkz. Tablo II ve III).
+Tablo I’in A sütununda yer alan doz rejimleri, patojen türlerin büyük kısmını oluşturan tam
+duyarlı organizmalardan kaynaklanan enfeksiyonlar için önerilmektedir. Tablo I’in B
+sütununda yer alan doz rejimleri, imipeneme orta düzeyde duyarlı organizmalardan
+kaynaklanan enfeksiyonlar için önerilir (esas olarak bazı P. aeruginosa suşları).
+TABLO I
+BÖBREK FONKSİYONU NORMAL OLAN VE VÜCUT AĞIRLIĞI ≥ 70 kg OLAN
+ERİŞKİNLERDE İNTRAVENÖZ DOZAJ ŞEMASI
+A B
+Enfeksiyonun Gram-pozitif ve gram-negatif Orta düzeyde duyarlı
+Tipi veya Şiddeti aeroblar ve anaeroblar dahil olmak organizmalar, esas olarak bazı P.
+üzere tam duyarlı organizmalar Aeruginosa suşları
+6 saatte bir 250 mg 6 saatte bir 500 mg
+Hafif
+(TOPLAM GÜNLÜK DOZ =1 g) (TOPLAM GÜNLÜK DOZ = 2 g)
+8 saatte bir 500 mg 6 saatte bir 500 mg
+(TOPLAM GÜNLÜK DOZ =1,5g) (TOPLAM GÜNLÜK DOZ = 2 g)
+Orta veya veya
+6 saatte bir 500 mg 8 saatte bir 1 g
+(TOPLAM GÜNLÜK DOZ =2 g) (TOPLAM GÜNLÜK DOZ = 3 g)
+38 saatte bir 1 g
+Şiddetli, sadece (TOPLAM GÜNLÜK DOZ = 3 g)
+6 saatte bir 500 mg
+yaşamı tehdit veya
+(TOPLAM GÜNLÜK DOZ =2 g)
+eden 6 saatte bir 1 g
+(TOPLAM GÜNLÜK DOZ = 4 g)
+Komplikasyonsuz
+6 saatte bir 250 mg 6 saatte bir 250 mg
+İdrar yolu
+(TOPLAM GÜNLÜK DOZ =1 g) (TOPLAM GÜNLÜK DOZ = 1 g)
+enfeksiyonu
+Komplikasyonlu
+6 saatte bir 500 mg 6 saatte bir 500 mg
+idrar yolu
+(TOPLAM GÜNLÜK DOZ =2 g) (TOPLAM GÜNLÜK DOZ = 2 g)
+enfeksiyonu
+CİLAPEM’in yüksek antimikrobiyal etkinliği nedeniyle, maksimum günlük toplam dozun
+günde 50 mg/kg veya günde 4 g’ı aşmaması (hangisi daha düşükse) önerilir. Daha yüksek
+dozların daha fazla etkinlik sağladığı yönünde bir kanıt yoktur. Ancak böbrek fonksiyonu
+normal, 12 yaş üzeri kistik fibrozlu hastalar bölünmüş dozlar halinde günde 90 mg/kg’a kadar
+CİLAPEM dozlarıyla tedavi edilmiştir ve günde 4 g aşılmamıştır.
+Böbrek Fonksiyon Bozukluğu olan ve/veya Vücut Ağırlığı <70 kg olan Erişkinlerde Azaltılmış
+İntravenöz Dozaj Şeması
+Aşağıdaki tablolarda gösterildiği gibi, kreatinin klerensi ≤ 70 ml/dak/1,73 m2 ve/veya vücut
+ağırlığı 70 kg’ın altında olan hastalarda CİLAPEM dozunun azaltılması gerekir. Kreatinin
+klerensi aşağıdaki denklemle serum kreatinin konsantrasyonundan hesaplanabilir:
+(kg cinsinden ağırlık) (140 – yaş)
+Tkk (Erkekler) = -----------------------------------------
+(72) (mg/dl cinsinden kreatinin)
+Tkk (Kadınlar) = 0,85 × üstteki değer
+Böbrek fonksiyonu bozulmuş ve/veya vücut ağırlığı düşük erişkinlerde dozu belirlemek için:
+1. Enfeksiyon özelliklerine göre Tablo I’den toplam günlük dozu seçin.
+2. a) Toplam günlük doz 1 g, 1,5 g veya 2 g ise, Tablo II’nin uygun alt bölümünü kullanın ve
+3. basamağa ilerleyin.
+b) Toplam günlük doz 3 g veya 4 g ise, Tablo III’ün uygun alt bölümünü kullanın ve 3.
+basamağa ilerleyin.
+3. Tablo II veya III’den:
+a) Vücut ağırlığı kolonundan hastanın ağırlığına (kg) en yakın değeri seçin.
+b) Hastanın kreatinin klerens kategorisini seçin.
+c) Satır ve sütunun çakıştığı bölüm, azaltılmış dozaj rejimini gösterir.
+4TABLO II
+BÖBREK FONKSİYON BOZUKLUĞU OLAN VE/VEYA VÜCUT AĞIRLIĞI <70 kg
+OLAN ERİŞKİN HASTALARDA CİLAPEM’İN AZALTILMIŞ İNTRAVENÖZ
+DOZAJI
+Vücut Ağırlığı (kg)
+≥ 70 60 50 40 30
+6 saatte 8 saatte 6 saatte 6 saatte 8 saatte
+≥ 71 bir bir bir bir bir
+250 mg 250 mg 125 mg 125 mg 125 mg
+Tablo 8 saatte 6 saatte 6 saatte 8 saatte 8 saatte
+I’deki 41-70 bir bir bir bir bir
+ve kreatinin
+Toplam 250 mg 125 mg 125 mg 125 mg 125 mg
+klerensi
+Günlük 12 saatte 12 saatte 8 saatte 12 saatte 12 saatte
+(ml/dak/1,73
+Doz: 21-40 bir bir bir bir bir
+m2) ise:
+1 g/gün 250 mg 250 mg 125 mg 125 mg 125 mg
+ise 12 saatte 12 saatte 12 saatte 12 saatte 12 saatte
+6-20 bir bir bir bir bir
+250 mg 125 mg 125 mg 125 mg 125 mg
+8 saatte 6 saatte 6 saatte 8 saatte 6 saatte
+≥ 71 bir bir bir bir bir
+500 mg 250 mg 250 mg 250 mg 125 mg
+Tablo
+6 saatte 8 saatte 8 saatte 6 saatte 8 saatte
+I’deki
+ve kreatinin 41-70 bir bir bir bir bir
+Toplam
+klerensi 250 mg 250 mg 250 mg 125 mg 125 mg
+Günlük
+(ml/dak/1,73 8 saatte 8 saatte 12 saatte 8 saatte 8 saatte
+Doz:
+m2) ise: 21-40 bir bir bir bir bir
+1,5 g/gün
+250 mg 250 mg 250 mg 125 mg 125 mg
+ise
+12 saatte 12 saatte 12 saatte 12 saatte 12 saatte
+6-20 bir bir bir bir bir
+250 mg 250 mg 250 mg 125 mg 125 mg
+6 saatte 8 saatte 6 saatte 6 saatte 8 saatte
+≥ 71 bir bir bir bir bir
+500 mg 500 mg 250 mg 250 mg 250 mg
+Tablo
+8 saatte 6 saatte 6 saatte 8 saatte 6 saatte
+I’deki
+ve kreatinin 41-70 bir bir bir bir bir
+Toplam
+klerensi 500 mg 250 mg 250 mg 250 mg 125 mg
+Günlük
+(ml/dak/1,73 6 saatte 8 saatte 8 saatte 12 saatte 8 saatte
+Doz:
+m2) ise: 21-40 bir bir bir bir bir
+2 g/gün
+250 mg 250 mg 250 mg 250 mg 125 mg
+ise
+12 saatte 12 saatte 12 saatte 12 saatte 12 saatte
+6-20 bir bir bir bir bir
+250 mg 250 mg 250 mg 250 mg 125 mg
+5TABLO III
+BÖBREK FONKSİYON BOZUKLUĞU OLAN VE/VEYA VÜCUT AĞIRLIĞI < 70 kg
+OLAN ERİŞKİN HASTALARDA CİLAPEM’İN AZALTILMIŞ İNTRAVENÖZ
+DOZAJI
+Vücut Ağırlığı (kg)
+≥ 70 60 50 40 30
+8 saatte 8 saatte 6 saatte 8 saatte 6 saatte
+≥ 71 bir bir bir bir bir
+1000 mg 750 mg 500 mg 500 mg 250 mg
+Tablo 6 saatte 8 saatte 8 saatte 6 saatte 8 saatte
+I’deki 41-70 bir bir bir bir bir
+ve kreatinin
+Toplam 500 mg 500 mg 500 mg 250 mg 250 mg
+klerensi
+Günlük 8 saatte 8 saatte 6 saatte 8 saatte 8 saatte
+(ml/dak/1,73
+Doz: 21-40 bir bir bir bir bir
+m2) ise:
+3 g/gün 500 mg 500 mg 250 mg 250 mg 250 mg
+ise
+12
+12 saatte 12 saatte 12 saatte 12 saatte
+saatte
+6-20 bir bir bir bir
+bir
+500 mg 500 mg 250 mg 250 mg
+250 mg
+6 saatte 8 saatte 8 saatte 6 saatte 8 saatte
+≥ 71 bir bir bir bir bir
+1000 mg 1000 mg 750 mg 500 mg 500 mg
+Tablo 8 saatte 8 saatte 6 saatte 8 saatte 6 saatte
+I’deki 41-70 bir bir bir bir bir
+ve kreatinin
+Toplam 750 mg 750 mg 500 mg 500 mg 250 mg
+klerensi
+Günlük 6 saatte 8 saatte 8 saatte 6 saatte 8 saatte
+(ml/dak/1,73
+Doz: 21-40 bir bir bir bir bir
+m2) ise:
+4 g/gün 500 mg 500 mg 500 mg 250 mg 250 mg
+ise 12
+12 saatte 12 saatte 12 saatte 12 saatte
+saatte
+6-20 bir bir bir bir
+bir
+500 mg 500 mg 500 mg 250 mg
+250 mg
+Kreatinin klerensi 6-20 ml/dak/1,73 m2 olan hastaların çoğu patojenler için 12 saatte bir
+CİLAPEM 125 mg veya 250 mg ile tedavi edilmelidir. Bu hastalara 12 saatte bir 500 mg’lık
+dozlar uygulanırsa nöbet riski artabilir.
+Kreatinin klerensi ≤ 5 ml/dak/1,73 m2 olan hastalar 48 saat içinde hemodiyalize
+başlanamayacaksa CİLAPEM almamalıdır. Periton diyalizine giren hastalarda CİLAPEM
+kullanımının önerilebilmesi için yeterli bilgi yoktur.
+Hemodiyaliz
+Kreatinin klerensleri ≤ 5 ml/dak/1,73 m2 olan ve hemodiyalize giren hastaları tedavi ederken
+kreatinin klerensleri 6-20 ml/dak/1,73 m2 olan hastaların dozaj önerileri kullanılabilir (bkz.
+TABLO III Böbrek Fonksiyon Bozukluğu olan ve/veya Vücut Ağırlığı <70 kg olan Erişkin
+Hastalarda CİLAPEM’in Azaltılmış İntravenöz Dozaj). Hem imipenem hem de silastatin
+hemodiyaliz sırasında dolaşımdan uzaklaştırılır. Hasta CİLAPEM’i hemodiyaliz seansının
+6bitiminden sonra 12 saat aralıklarla almalıdır. Diyaliz hastaları (özellikle de geçmişinde MSS
+hastalığı olanlar) dikkatle takip edilmelidir; hemodiyalize giren hastalarda CİLAPEM sadece
+ilacın yararı nöbet riski potansiyelinden fazla olduğunda önerilmektedir (bkz. 4.4 Kullanım
+için özel uyarılar ve özel önlemler).
+Uygulama şekli:
+ÇÖZELTİNİN HAZIRLANMASI
+İnfüzyon Şişeleri
+CİLAPEM tozun infüzyon şişelerinin içeriği 100 ml seyreltici içerisinde saklanmalı (seyreltici
+listesi için bkz. 6.2. Geçimsizlikler ve 6.4. Saklamaya yönelik özel tedbirler) ve berrak bir
+çözelti elde edilene kadar çalkalanmalıdır.
+Özel popülasyonlara ilişkin ek bilgiler
+Böbrek/Karaciğer yetmezliği olan hastalarda kullanım:
+Böbrek yetmezliği olan hastalar için Tablo II ve Tablo III’de verilen dozaj programı
+uygulanmalıdır.
+Karaciğer yetmezliği olan hastalarda CİLAPEM kullanımı ile ilgili bir bilgi mevcut değildir.
+Pediyatrik popülasyon:
+CİLAPEM’in pediyatrik hastalarda (yenidoğandan 16 yaşa kadar) kullanımı erişkinlerde
+CİLAPEM ile yapılan iyi kontrol edilmiş, yeterli çalışmalardan elde edilen kanıtlar ve
+pediyatrik hastalarda yapılan aşağıdaki klinik çalışmalar ve yayımlanmış literatürler ile
+desteklenmektedir: 3 aylık ve daha büyük yaşta 178** pediyatrik hastada (MSS dışı
+enfeksiyonları olan) yapılan yayımlanmış çalışmalara dayanarak, CİLAPEM’in önerilen dozu
+altı saatte bir 15-25 mg/kg/dozdur. 3 aylıktan 3 yaşa kadar çocuklarda 25 mg/kg/doz ve 3-12
+yaş arası çocuklarda 15 mg/kg/dozu içeren dozlar 60 dakikadaki çoklu infüzyonlardan sonra
+imipenemin sırasıyla 1,1 ± 0,4 mcg/ml ve 0,6 ± 0,2 mcg/ml ortalama vadi plazma
+konsantrasyonlarını sağlamıştır; imipenemin vadi idrar konsantrasyonları her iki dozda
+10 mcg/ml’nin üzerindeydi. Bu dozlar MSS dışı enfeksiyonların tedavisi için yeterli plazma
+ve idrar konsantrasyonlarını sağlamıştır. Erişkinlerde yapılan çalışmalara dayanarak, tam
+duyarlı organizmalara bağlı enfeksiyonların tedavisi için günlük maksimum doz günde 2 g ve
+orta derecede duyarlı organizmalardan kaynaklanan enfeksiyonların tedavisi için (esas olarak
+bazı P. aeruginosa suşları) günlük doz 4 g’dır. (bkz. 4.2 Pozoloji ve uygulama şekli, Tablo I).
+Kistik fibrozlu hastalarda daha yüksek dozlar (daha büyük çocuklarda günde 90 mg/kg’a
+kadar) kullanılmıştır (bkz. 4.2 Pozoloji ve uygulama şekli).
+3 aylık ve daha küçük 135*** pediyatrik hastada (vücut ağırlığı ≥1.500 g) yapılan çalışmalara
+dayanarak MSS dışı enfeksiyonlarda aşağıdaki dozaj takvimi önerilir:
+Yaşı 1 haftadan küçükler: 12 saatte bir 25 mg/kg
+Yaşı 1-4 hafta arası hastalar: 8 saatte bir 25 mg/kg
+Yaşı 4 hafta- 3 ay arası hastalar: 6 saatte bir 25 mg/kg.
+---------------------------------------
+** İki hasta 3 aylıktan küçüktü.
+*** Bir hasta 3 aylıktan büyüktü.
+7Daha küçük (yaşamın ilk haftasında) prematüre bebeklerde (ağırlık: 670-1.890 g) yapılan
+yayımlanmış bir doz saptama çalışmasında, 15-30 dakikalık infüzyonla 12 saatte bir verilen
+20 mg/kg dozu çoklu dozlardan sonra sırasıyla 43 mcg/ml ve 1,7 mcg/ml ortalama pik ve vadi
+plazma imipenem konsantrasyonları sağlamıştır. Ancak CİLAPEM’in çoklu dozlarından
+sonra yenidoğanlarda silastatin hafif düzeyde birikebilir. Bu birikimin güvenliği
+bilinmemektedir.
+Nöbet riski nedeniyle MSS enfeksiyonları olan pediyatrik hastalarda CİLAPEM önerilmez.
+Yeterli veri bulunmadığından CİLAPEM böbrek fonksiyon bozukluğu olan, 30 kg’ın altındaki
+pediyatrik hastalarda önerilmez.
+Geriyatrik popülasyon:
+İmipenem – silastatin sodyum ile yapılan klinik çalışmalarda (pazarlama sonrası çalışmalar
+dahil) 18 yaş ve üzeri yaklaşık 3.600 hastadan yaklaşık 2.800’ü imipenem – silastatin sodyum
+almıştır. İmipenem – silastatin sodyum alan hastalarda, 65 yaş ve üzeri yaklaşık 800 kişiye ait
+veriler mevcuttur; bunlara 75 yaş ve üzeri yaklaşık 300 hasta dahildir. Bu hastalar ile daha
+genç hastalar arasında güvenlilik veya etkililik yönünden genel farklar gözlenmemiştir.
+Bildirilen diğer klinik deneyimler yaşlılar ile genç hastalar arasında yanıt yönünden farkları
+ortaya koymamıştır. Ancak yine de bazı yaşlı bireylerde daha fazla duyarlılık olasılığı da
+dikkate alınmalıdır.
+Bu ilacın ağırlıklı olarak böbrekler yoluyla atıldığı bilinmektedir ve böbrek fonksiyonları
+bozulmuş hastalarda bu ilaç ile toksik reaksiyon riski daha fazla olabilir. Yaşlı hastalarda
+böbrek fonksiyonu azalmış olabileceğinden doz seçiminde dikkatli olunması gerekir ve
+böbrek fonksiyonunu izlemek yararlı olabilir.
+Yaşa göre doz ayarlaması gerekmez.
+4.3. Kontrendikasyonlar
+• Etkin madde veya yardımcı maddelerden herhangi birine aşırı duyarlılık
+• Diğer karbapenem antibakteriyel ajanlarına aşırı duyarlılık
+• Diğer beta laktam antibakteriyel ajanlarına (ör: Penisilinler veya sefalosporinler) şiddetli
+aşırı duyarlılık (ör: Anaflaktik reaksiyon, ciddi deri reaksiyonları)
+4.4. Özel kullanım uyarıları ve önlemleri
+Genel
+Belirli bir hastanın tedavisi için imipenem/silastatin seçiminde enfeksiyonun şiddeti, diğer
+uygun antibakteriyel maddelere karşı direnç prevalansı ve karbapeneme dirençli bakterilerin
+seçilmesi risk gibi etmenlere dayanılarak bir karbapenem antibakteriyel maddesini
+kullanmanın uygunluğu dikkate alınmalıdır.
+Aşırı duyarlılık
+Beta-laktamlar ile tedavi edilen hastalarda ciddi ve bazen ölümle sonuçlanan aşırı duyarlılık
+(anafilaksi) reaksiyonları bildirilmiştir. Bu reaksiyonlar çoklu alerjenlere karşı duyarlılık
+öyküsü olan kişilerde daha fazla ortaya çıkma eğilimi gösterir.
+8CİLAPEM ile tedaviye başlanmadan önce karbapenemler, penisilinler, sefalosporinler, diğer
+beta-laktamlar ve diğer alerjenlere karşı geçmişteki aşırı duyarlılık reaksiyonları dikkatle
+araştırılmalıdır (bkz. Bölüm 4.3). CİLAPEM’e alerjik reaksiyon meydana gelirse, tedavi
+derhal bırakılmalıdır. (Ciddi anafilaktik reaksiyonlar, derhal acil durum tedavisi
+gerektirir.)
+Hepatik
+İmipenem/silastatin ile tedavi boyunca hepatik toksisite riski (örneğin transaminaz artışı,
+hepatik yetmezlik ve fulminant hepatit gibi) nedeniyle karaciğer fonksiyonu yakından
+izlenmelidir.
+Karaciğer hastalığı bulunan hastalarda kullanımı: Önceden karaciğer bozuklukları bulunan
+hastalarda karaciğer fonksiyonu imipenem/silastatin ile tedavi boyunca izlenmelidir. Doz
+ayarlaması gerekmemektedir (bkz. Bölüm 4.2).
+Hematoloji
+İmipenem/silastatin ile tedavi sırasında pozitif bir doğrudan veya dolaylı Coombs testi sonucu
+ortaya çıkabilir.
+Antibakteriyel spektrum
+İmipenem/silastatinin antibakteriyel spektrumu özellikle yaşamı tehdit edici hastalıklarda
+herhangi bir ampirik tedavi uygulamadan önce dikkate alınmalıdır. Ayrıca, örneğin bakteriyel
+deri ve yumuşak doku enfeksiyonları ile ilişkili özel patojenlerin imipenem/silastatine sınırlı
+duyarlılığı nedeniyle dikkat gösterilmelidir. Patojenin önceden belgelenmiş olmaması ve
+duyarlılığı bilinmediği veya en olası patojenin/patojenlerin tedavi için uygun olacağına ilişkin
+çok yüksek şüphenin bulunması halinde imipenem/silastatin bu tür enfeksiyonların tedavisi
+için uygun değildir. MRSA enfeksiyonlarından şüphelenilmesi veya onaylı endikasyonlarda
+yer aldıklarının kanıtlanması halinde uygun bir anti-MRSA maddesinin eş zamanlı kullanımı
+endike olabilir. Psödomonas aeruginosa enfeksiyonlarından şüphelenilmesi veya onaylı
+endikasyonlarda yer aldıklarının kanıtlanması halinde bir aminoglikozit maddesinin eş
+zamanlı kullanımı endike olabilir (bkz. Bölüm 4.1).
+Valproik asit ile etkileşim
+İmipenem/silastastin ile valproik asit/sodyum valproatın eş zamanlı kullanımı
+önerilmemektedir (bkz. Bölüm 4.5).
+Clostridioides difficile
+Antibiyotikle ilişkili kolit ve psödomembranöz kolit, imipenem/silastatin ve neredeyse diğer
+tüm antibakteriyel maddeler ile rapor edilmiştir ve şiddeti hafif ila yaşamı tehdit edici
+arasında değişebilir. Bu nedenle, imipenem/silastatin kullanımı sırasında veya sonrasında
+ishal görülen tüm hastalarda bu tanının değerlendirilmesi önemlidir (bkz. Bölüm 4.8).
+İmipenem/silastatin ile tedavinin kesilmesi ve Clostridioides difficile için belirli bir tedavinin
+uygulanması düşünülmelidir. Peristalsisi inhibe eden tıbbi ürünler verilmemelidir.
+9Menenjit
+CİLAPEM menenjit tedavisi için önerilmemektedir.
+Böbrek bozukluğu
+Böbrek fonksiyonu azalmış hastalarda imipenem/silastatin birikme yapmaktadır. Dozun
+böbrek fonksiyonuna göre ayarlanmaması halinde merkezi sinir sistemi (MSS) advers
+reaksiyonları meydana gelebilir; bu bölümdeki 4.2 ve 4.4 “Merkezi sinir sistemi” maddelerine
+bakınız.
+Merkezi sinir sistemi
+Özellikle renal fonksiyonlara ve vücut ağırlığına göre hesaplanan dozlar aşıldığında
+myoklonik aktivite, konfüzyonel durumlar veya nöbetler gibi MSS advers reaksiyonları
+bildirilmiştir. Bu deneyimler en yaygın olarak MSS bozuklukları bulunan hastalarda (örn.
+Beyin lezyonları veya nöbet hikayesi) ve/veya verilen maddelerin birikme yapabileceği
+böbrek fonksiyonu bozulmuş hastalarda rapor edilmiştir. Dolayısıyla, özellikle bu hastalarda
+önerilen doz planlarına yakından uyulması gereklidir (bkz. Bölüm 4.2). Bilinen nöbet
+bozukluğu olan hastalarda antikonvülsan tedaviye devam edilmelidir.
+Bilinen nöbet risk faktörlerine sahip çocuklarda veya nöbet eşiğini düşüren tıbbi ürünlerle
+birlikte yapılan tedavide nörolojik semptomlara veya konvülsiyonlara özellikle dikkat
+edilmelidir.
+Fokal tremorların, kas seğirmesi veya nöbetlerin meydana gelmesi halinde hastalar nörolojik
+olarak değerlendirilmeli ve önceden uygulanmamışsa antikonvülsan tedaviye tabi
+tutulmalıdır. MSS semptomlarının devam etmesi halinde CİLAPEM dozu azaltılmalı veya
+sonlandırılmalıdır.
+Kreatinin klerensi ≤ 15 ml/dak hastalar, 48 saat içinde hemodiyalize başlanmadığı sürece
+CİLAPEM almamalıdır. Hemodiyalize giren hastalar için, CİLAPEM yalnızca, fayda,
+potansiyel nöbet riskinden ağır basarsa önerilir (bkz. Bölüm 4.2).
+Pediyatrik kullanım
+CİLAPEM’in 1 yaşının altındaki çocuklarda veya böbrek fonksiyon bozukluğu (serum
+kreatinini > 2 mg/dl) olan pediyatrik hastalarda kullanılmasının önerilmesi için klinik veriler
+yetersizdir. Ayrıca yukarıdaki Merkezi sinir sistemi bölümüne bakınız.
+Diğer antibiyotiklerde olduğu gibi, uzun süreli CİLAPEM kullanımı duyarsız organizmaların
+aşırı üremesine yol açabilir. Hastanın durumunun tekrarlı olarak değerlendirilmesi zorunludur.
+Tedavi sırasında süperenfeksiyon gelişirse uygun önlemler alınmalıdır.
+Biyolojik testler
+CİLAPEM’in beta laktam grubu antibiyotikler gibi düşük toksisite karakteristiği ortaya koysa
+da, uzatılmış tedavi sırasında, renal hepatik ve hematopoietik organ sistem fonksiyonlarının
+periyodik değerlendirilmesi önerilir.
+Bu tıbbi ürün her bir dozunda 37,5 mg sodyum ihtiva eder. Bu durum, kontrollü sodyum
+diyetinde olan hastalar için göz önünde bulundurulmalıdır.
+104.5. Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+Gansiklovir ve imipenem – silastatin sodyum birlikte alan hastalarda yaygın (jeneralize) nöbet
+(seizure) bildirilmiştir. Bu ilaçlar potansiyel yararları, riskinden fazla olmadıkça birlikte
+kullanılmamalıdır.
+Valproik asit, karbapenem ajanlarıyla birlikte uygulandığında, valproik asit düzeylerinde
+terapötik aralığın altına düşebilecek azalmalar bildirilmiştir. Düşük düzeylerde valproik asit,
+nöbet kontrolünün yetersiz olmasına yol açabilir; bu nedenle, imipenem ile valproik
+asit/sodyum valproatın eş zamanlı kullanımı önerilmemektedir ve alternatif antibakteriyel
+veya antikonvülsan tedaviler düşünülmelidir (bkz. Bölüm 4.4).
+Oral antikoagülanlar
+Antibiyotiklerin varfarin ile eş zamanlı verilmesi varfarinin antikoagülan etkilerini artırabilir.
+Eş zamanlı olarak antibakteriyel maddeler alan hastalarda varfarin dahil oral yoldan verilen
+antikoagülan maddelerin antikoagülan etkilerinde artma durumu pek çok kez rapor edilmiştir.
+Altta yatan enfeksiyon, yaş ve hastanın genel durumu gibi antibiyotiğin INR’deki
+(uluslararası normalleştirilmiş oran) artışa katkısını değerlendirmenin zor olduğu durumlarda
+risk farklılık gösterebilir. Antibiyotiklerin bir oral antikoagülan madde ile birlikte verilmesi
+sırasında veya kısa süre sonra INR'nin sıkça takip edilmesi önerilmektedir.
+CİLAPEM ile probenesitin eş zamanlı verilmesi plazma seviyelerinde ve imipenemin plazma
+yarı ömründe minimal artışlara yol açmıştır. CİLAPEM’in probenesit ile birlikte verilmesi
+aktif (metabolize olmamış) imipenemin idrarda geri kazanımını dozun % 60’ı kadar
+azaltmıştır. CİLAPEM ile probenesitin eş zamanlı verilmesi plazma seviyesini ve silastatin
+yarı ömrünü iki kat artırmış, ancak silastatinin idrarda geri kazanımına (recovery) etki
+etmemiştir.
+Özel popülasyonlara ilişkin ek bilgiler:
+Pediyatrik popülasyon:
+Etkileşim çalışmaları sadece erişkinlerde yürütülmüştür. Bu sonuçların pediyatrik hastalar için
+geçerliliği bilinmemektedir.
+4.6. Gebelik ve laktasyon
+Genel tavsiye
+Gebelik kategorisi: C
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon)
+Çocuk doğurma potansiyeli bulunan kadınlarda ve doğum kontrolü (kontrasepsiyon)
+uygulayanlarda ilacın kullanımı yönünden bir öneri bulunmamaktadır. CİLAPEM’in gebe
+kadınlarda kullanımına ilişkin yeterli kontrollü çalışma mevcut değildir.
+Gebelik dönemi
+Gebe kadınlarda imipenem/silastatin kullanımı için yeterli ve iyi kontrollü çalışmalar yoktur.
+Gebe maymunlar üzerindeki çalışmalar üreme toksisitesi ortaya koymuştur (bkz. Bölüm 5.3).
+İnsanlar için potansiyel risk bilinmemektedir.
+11CİLAPEM, gebelik sırasında yalnızca olası faydası fetüse yönelik olası riske üstün olursa
+kullanılmalıdır.
+Laktasyon dönemi
+İmipenem ve silastatin düşük miktarlarda anne sütüne geçer. Ağız yoluyla verilme sonrasında
+her iki bileşikten de az miktarda emilme meydana gelir. Bu nedenle, emzirilen bebeğin önemli
+miktarlara maruz kalması olası değildir. CİLAPEM kullanımı gerekli görülüyorsa, çocuk için
+anne sütü ile beslenmenin faydaları ile çocuk için olası risk değerlendirilmelidir.
+Üreme yeteneği /Fertilite
+İmipenem/silastatin tedavisinin kadın veya erkek fertilitesi etkisi bilinmemektedir.
+4.7. Araç ve makine kullanımı üzerindeki etkiler
+CİLAPEM’in araç ve makina kullanım etkisiyle ilgili yapılmış bir çalışma yoktur. Bununla
+birlikte, bu ürünle ilişkili bazı hastaların araç veya makine kullanma becerilerini
+etkileyebilecek bazı yan etkiler (halüsinasyon, sersemlik, uyku hali ve vertigo gibi) vardır
+(bkz. Bölüm 4.8).
+4.8. İstenmeyen etkiler
+İntravenöz imipenem ve silastatin ile tedavi edilen 1.723 hastayı kapsayan klinik çalışmalarda
+en çok rapor edilen tedavi ile en az ilgili sistemik istenmeyen etkiler bulantı (% 2), diyare
+(%1,8), kusma (% 1,5), döküntü (% 0,9), ateş (% 0,5), hipotansiyon (% 0,4), nöbet (% 0,4)
+(bkz. Bölüm 4.4), sersemlik (% 0,3), kaşıntı (% 0,3), ürtiker (% 0,2), somnolans (% 0,2).
+Benzer olarak en fazla rapor edilen lokal istenmeyen etkiler flebit/tromboflebit (% 3,1),
+enjeksiyon bölgesinde ağrı (% 0,7) enjeksiyon bölgesinde eritem (% 0,4), damar sertleşmesi
+(% 0,2)’dir. Serum transaminazlarda ve alkalin fosfatazda artış yaygın olarak rapor edilmiştir.
+Aşağıda gerçekleştirilen klinik çalışmalar ve/veya pazarlama sonrası kullanımı süresince
+bildirilen advers etkiler sıralanmıştır:
+Çok yaygın (≥1/10), yaygın (≥1/100 ila <1/10), yaygın olmayan (> 1/1.000 ila <1/100),
+seyrek (> 1/10.000 ila < 1/1.000), çok seyrek (< 1/10.000), bilinmiyor (eldeki verilerden
+hareketle tahmin edilemiyor).
+Herbir sıklık gruplamasında, istenmeyen etkiler azalan ciddiyete göre verilmiştir.
+Sistem Organ Sınıfı Sıklık Olay
+Seyrek Psödomembranöz kolit, kandidiyazis
+Enfeksiyonlar ve
+enfestasyonlar Çok seyrek gastroenterit
+Yaygın Eozinofili
+Kan ve lenfatik sistem
+Yaygın olmayan Pansitopeni, lökopeni, nötropeni,
+hastalıkları
+trombositopeni, trombositoz
+Seyrek Agranülositoz
+Çok seyrek Hemolitik anemi, kemik iliği
+depresyonu
+12Bağışıklık sistemi hastalıkları Seyrek Anafilaktik reaksiyonlar
+Halüsinasyonlar dahil psişik
+Psikiyatrik hastalıklar Yaygın olmayan rahatsızlıklar ve zihin karışıklığı
+durumları
+Yaygın olmayan Nöbetler, myoklonik aktivite, sersemlik,
+somnolans
+Sinir sistemi hastalıkları Seyrek Ensefalopati, parestezi, fokal titreme, tat
+almada anormallik
+Çok seyrek Myastenia gravis şiddetlenmesi, baş
+ağrısı
+Bilinmiyor Ajitasyon, diskinezi
+Kulak ve iç kulak hastalıkları Seyrek Duyma kaybı
+Çok seyrek Vertigo, tinnitus
+Kardiyak hastalıklar Çok seyrek Siyanoz, taşikardi, palpitasyon
+Yaygın Tromboflebit
+Vasküler hastalıklar Yaygın olmayan Hipotansiyon
+Çok seyrek Yüz kızarması
+Solunum, göğüs bozuklukları Çok seyrek Dispne, hipervantilasyon, faringeal ağrı
+ve mediastinal hastalıklar
+İshal, kusma, bulantı
+Tıbbi ürünler ile ilgili bulantı ve/veya
+Yaygın kusma granülositopenik hastalarda,
+CİLAPEM ile tedavi edilen
+Gastrointestinal hastalıklar granülositopenik olmayan hastalara
+oranla daha sık meydana gelmektedir.
+Seyrek Diş ve/veya dil lekelenmesi
+Çok seyrek Hemorajik kolit, abdominal acı, mide
+yanması, glossit, dil papilla hipertrofisi,
+salivasyon artışı
+Hepatobilier hastalıklar Seyrek Karaciğer yetmezliği, hepatit
+Çok seyrek Fulminan hepatit
+Yaygın Döküntü (örn. Ekzantem)
+Yaygın olmayan Ürtiker; pruritus
+Deri ve derialtı doku
+hastalıkları Toksik epidermal nekroliz, anjiyoödem,
+Seyrek Stevens-Johnson Sendromu, eritema
+multiforme, eksfoliyatif dermatit
+Çok seyrek Hiperhidroz, deri dokusu değişiklikleri
+Kas iskelet bozuklukları bağ Çok seyrek Poliartralji, torakal omurga ağrısı
+doku ve kemik hastalıkları
+Akut böbrek yetmezliği, oligüri/anüri,
+poliüri, idrar renk bozukluğu
+(zararsızdır ve hematüri ile
+Böbrek ve idrar yolu Seyrek karıştırılmamalıdır)
+hastalıkları Prerenal azotemiye veya böbrek
+bozukluğu fonksiyonuna yatkınlaştıran
+faktörler var olduğundan CİLAPEM’in
+böbrek fonksiyonu değişmelerindeki
+rolünün değerlendirilmesi güçtür.
+13Üreme sistemi ve meme Çok seyrek Pruritus vulva
+hastalıkları
+Genel bozukluklar ve Yaygın olmayan Ateş, enjeksiyon bölgesinde yerel ağrı
+uygulama bölgesine ilişkin ve sertleşme, enjeksiyon bölgesinde
+hastalıklar eritem
+Çok seyrek Göğüste rahatsızlık, asteni/kuvvetsizlik
+Yaygın Serum transminaz artışları, serum
+alkalin fosfataz artışları
+Araştırmalar Bir pozitif direkt Coombs testi, uzayan
+Yaygın olmayan protrombin süresi, hemoglobin
+azalması, serum bilirubin artışı, serum
+kreatinin artışları, kan üre azotu artışları
+Pediyatrik ( ≥ 3 aylıktan)
+≥ 3 aylık 178 pediyatrik hasta üzerinde gerçekleştirilen araştırmalarda bildirilen advers
+reaksiyonlar yetişkinler için bildirilenler ile tutarlıdır.
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir (www.titck.gov.tr; e-
+posta:tufam@titck.gov.tr; tel: 0 800 314 00 08; faks: 0 312 218 35 99).
+4.9. Doz aşımı ve tedavisi
+Doz aşımı ile meydana gelebilecek semptomlar, advers reaksiyon profili ile uyumludur.
+Nöbet, konfüzyon, titreme, bulantı, kusma, hipotansiyon, bradikardi.
+CİLAPEM ile doz aşımının tedavisi ile ilgili bilgi bulunmamaktadır.
+İmipenem – silastatin sodyum hemodiyalize tabi tutulabilir. Ancak, bunun doz aşımı
+tedavisindeki değeri bilinmemektedir. Tüm doz aşımı olgularında CİLAPEM kesilmeli
+semptomatik ve destekleyici tedavi uygulanmalıdır.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1. Farmakodinamik özellikler
+Farmakoterapötik grubu: Sistemik kullanım için antibakteriyeller, karbapenemler
+ATC kodu: J01DH51
+Etki mekanizması
+CİLAPEM iki bileşenden oluşmaktadır: imipenem ve silastatin sodyum ağırlıkça 1:1 oranında
+kullanılmıştır.
+İmipenem, N-formimidoyl-tienamisin olarak da adlandırılan bir yarı sentetik tienamisin
+türevidir ve ana bileşiği filamentöz bakteri Streptomyces cattleya tarafından üretilmektedir.
+İmipenem, bakteri yok edici etkisini, penisilin bağlayıcı proteinlere (PBP’ler) Gram-pozitif ve
+Gram-negatif bakterilerde bakteriyel hücre duvarı sentezini engelleyerek uygular.
+14Silastatin sodyum, imipenemi metabolize ederek etkisizleştiren renal enzim dehidropeptidaz-
+I’nin kompetitif, tersinir ve özgül inhibitörüdür. İntrinsik antibakteriyel aktiviteden yoksundur
+ve imipenemin antibakteriyel aktivitesini etkilemez.
+Farmakokinetik/Farmakodinamik (PK/PD) ilişkisi
+Diğer beta-laktam antibakteriyel ajanlara benzer şekilde, imipenem konsantrasyonlarının
+minimum inhibitör konsantrasyonu MIK’i aşma süresinin (T>MIK), etkililikle çok iyi
+korelasyon gösterdiği gösterilmiştir.
+Direnç mekanizması
+İmipeneme direnç şu nedenlerle olabilir:
+• Gram-negatif bakterilerin dış membranının geçirgenliğinde azalma (porin üretiminin
+azalması nedeniyle)
+• İmipenem, dışarı akış pompasına sahip hücreden aktif olarak çıkarılabilir.
+• PBP’lerin imipeneme affinitesi azalmıştır
+• İmipenem, görece seyrek görülen karbapenem hidrolize edici beta-laktamazlar haricinde,
+gram-pozitif ve gram-negatif bakterilerin ürettiği penisilinaz ve sefalosporinaz dahil, çoğu
+beta-laktamaz tarafından hidroliz edilmeye karşı stabilitesini korur.
+Diğer karbapenemlere dirençli türler genellikle imipeneme karşı eşdirenç gösterir. İmipenem
+ile kuinolon, aminoglikozit, makrolit ve tetrasiklin sınıfları arasında hedefe bağlı çapraz
+direnç bulunmamaktadır.
+Kesme noktaları
+İmipenem için EUCAST MIK sınır değerleri aşağıdaki gibidir (v12.0 01-01-2022’den itibaren
+geçerlidir):
+Minimum İnhibitör
+Organizma Grubu Konsantrasyonlar (mg / L)
+Duyarlı ≤ Dirençli>
+Enterobacterales 2 4
+Enterobacterales1 0,001 4
+(Morganella morganii,
+Proteus spp. and
+Providencia türleri)
+Pseudomonas türleri 0,001 4
+Acinetobacter türleri 2 4
+Staphylococcus türleri Sefoksitin duyarlılığından hesaplanmıştır
+Enterococcus türleri 0,001 4
+Streptococcus A, B, C, G Benzilpenisilin duyarlılığından hesaplanmıştır
+Streptococcus pneumoniae 2 2
+Viridans group 2 2
+streptokoklar
+Haemophilus influenzae 2 2
+Moraxalla catarrhalis2 2 2
+Gram-positive anaerobes 2 4
+(Clostridioides difficile
+15dışında)
+Gram-negative anaeroblar 2 4
+Burkholderia pseudomallei 2 2
+Non-species related 2 4
+breakpoints3
+1Morganella morganii, Proteus spp. ve Providencia spp. yüksek oranda imipenem
+maruziyetini gerektirir.
+2Duyarlı olmayan izolatlar nadirdir veya henüz bildirilmemiştir. Bu tür herhangi bir izolat
+üzerindeki tanımlama ve antimikrobiyal duyarlılık testi sonucu doğrulanmalı ve izolat bir
+referans laboratuvara gönderilmelidir.
+3Başta PK/PD verilerine dayanılarak ve özgül türlerin MIK dağıtımlarından bağımsız olarak
+türler ile ilgili olmayan kesme noktası tespit edilmiştir. Bunlar sadece türler ile ilgili kesme
+noktaları veya dipnotların değerlendirmesinde belirtilmeyen türler için kullanılmaya
+yöneliktir.
+Duyarlılık
+Edinilmiş direnç prevalansı coğrafi olarak değişebilir; özellikle şiddetli enfeksiyonları tedavi
+etme sırasında, seçilmiş türlere ilişkin süre ve dirence ilişkin lokal bilgiler istenmektedir.
+Gerektiğinde, yerel direnç prevalansı madde kullanımının en azından bazı enfeksiyon
+türlerinde şüpheye yol açacak kadar yüksek olduğu durumlarda uzman tavsiyesine
+başvurulmalıdır.
+Yaygın biçimde duyarlı türler:
+Gram pozitif aeroblar:
+Enterococcus faecalis
+*
+Staphylococcus aureus (Metisiline duyarlı)
+Staphylococcus coagulase negatif (Metilisiline duyarlı)
+Streptococcus agalactiae
+Streptococcus pneumoniae
+Streptococcus pyogenes
+Streptococcus viridanlar grubu
+Gram negatif aeroblar:
+Citrobacter freundii
+Enterobacter cloacae
+Escherichia coli
+Haemophilus influenzae
+Klebsiella oxytoca
+Klebsiella pneumoniae
+Klebsiella aerogenes (önceden Enterobacter aerogens)
+Moraxella catarrhalis
+Serratia marcescens
+16Gram pozitif anaeroblar:
+Clostridium perfringens**
+Peptostreptococcus türleri**
+Gram negatif anaeroblar:
+Bacteroides fragilis
+Bacteroides fragilis grubu
+Fusobacterium türleri
+Porphyromonas asaccharolytica
+Prevotella türleri
+Veillonella türleri
+Direnç geliştirmiş türler problem olabilir:
+Gram-negatif aeroblar:
+Acinetobacter baumannii
+Pseudomonas aeruginosa
+Doğal olarak dirençli türler:
+Gram-pozitif aeroblar:
+Enterococcus faecium
+Gram negatif aeroblar:
+Some strains of Burkholderia cepacia (önceden Pseudomonas cepacia)
+Legionella türleri.
+Stenotrophomonas maltophilia (önceden Xanthomonas maltophilia, formerly Pseudomonas
+maltophilia)
+Diğerleri:
+Chlamydia türleri
+Chlamydophila türleri
+Mycoplasma türleri
+Ureoplasma urealyticum
+*Bütün metilsine dirençli staphylococci imipenem/dilastatine dirençlidir.
+**EUCAST olamayan türle ilişkili kesim noktası kullanılır.
+5.2. Farmakokinetik özellikler
+Genel özellikler
+İmipenem
+Emilim
+CİLAPEM’in 20 dakika üzerinde intravenöz infüzyonu 250 mg/250 mg doz için 12 ile 20
+mikrogram/ml arasında, 500 mg/500 mg doz için 21 ile 58 mikrogram /ml arasında ve 1000
+mg/1000 mg doz için 41 ile 83 mikrogram /ml arasında değişen pik imipenem plazma
+seviyelerine yol açmıştır. 250 mg/250 mg, 500 mg/500 mg ve 1000 mg /1000 mg dozlarını
+17takiben ortalama pik plazma seviyeleri sırasıyla 17, 39 ve 66 mikrogram /ml olmuştur. Bu
+dozlarda imipenem plazma seviyeleri dört - altı saatte 1 mikrogram/ml veya altına düşmüştür.
+Dağılım
+İmipenemin insan serumu proteinlerine bağlanması yaklaşık % 20’dir.
+Biyotransformasyon
+İmipenem, tek başına verildiğinde böbreklerde dehidropeptidaz-I tarafından metabolize edilir.
+Birkaç çalışmada tekil (münferit) üriner geri kazanımlar (recovery’ler) % 5 ile % 40 arasında
+olmuş, ortalama geri kazanım da %15-20 olmuştur.
+Silastatin, dehidropeptidaz-I enziminin spesifik inhibitörüdür ve imipenem metabolizmasını
+etkili bir şekilde inhibe eder, böylece imipenem ile silastatin birlikte verildiğinde imipenemin
+hem idrarda hem de plazmada yeterli antibakteriyel düzeylerine ulaşılabilir.
+Eliminasyon
+İmipenemin plazma yarı ömrü bir (1) saat olmuştur. Verilen antibiyotiğin yaklaşık %70’i 10
+saat içinde idrarda bütün olarak geri kazanılmıştır ve imipenemin idrarla daha fazla atılımı
+saptanmamıştır. 500 mg/500 mg CİLAPEM dozu sonrasında sekiz saate kadar imipenem idrar
+konsantrasyonları 10 mikrogram/ml’yi aşmıştır. Verilen dozun kalanı, idrarda antibakteriyal
+açıdan inaktif metabolitler olarak geri kazanılmıştır ve imipenemin dışkıyla atılımı esasen sıfır
+olmuştur.
+Her altı saate varan sıklıklarla verilen CİLAPEM rejimlerinde normal böbrek fonksiyonuna
+sahip hastalarda plazmada veya idrarda imipenem birikmesi gözlenmemiştir.
+Doğrusallık/Doğrusal Olmayan Durum
+Veri bulunmamaktadır.
+Silastatin
+Emilim
+CİLAPEM’in 20 dakikalık bir intravenöz infüzyonunun ardından pik plazma seviyeleri 250
+mg/250 mg doz için 21 ile 26 mcg/ml arasında, 500 mg/500 mg doz için 21 ile 55 mcg/ml
+arasında ve 1000 mg/1000 mg doz için 56 ile 88 mcg/ml arasında yer almıştır. 250 mg/250
+mg, 500 mg/500 mg ve 1000 mg /1000 mg dozlarını takiben silastatin ortalama pik plazma
+seviyeleri sırasıyla 22, 42 ve 72 mikrogram/ml olmuştur.
+Dağılım
+Silastatinin insan serumu proteinlerine bağlanması yaklaşık % 40’tır.
+Biyotransformasyon
+Yaklaşık olarak % 10’u N-asetil metaboliti olarak bulunmuş olup, bunun, silastatinin
+aktivitesine benzer şekilde, dehidropeptidaza karşı inhibitör aktivitesi vardır.
+Dehidropeptidaz-I’in böbrekteki aktivitesi, silastatin kan akışından elimine edildikten kısa
+süre sonra normal seviyelere dönmüştür.
+18Eliminasyon
+Silastatinin plazma yarı ömrü yaklaşık 1 saattir. Silastatin dozunun yaklaşık % 70-80’i,
+CİLAPEM verildikten sonraki 10 saat içinde idrarda değişmemiş olarak geri kazanılmıştır.
+Sonrasında idrarda hiç silastatin görülmemiştir.
+Doğrusallık/Doğrusal Olmayan Durum
+Veri bulunmamaktadır.
+Özel popülasyonlarda farmakokinetik
+Böbrek yetmezliği
+Tek bir 250 mg/250 mg CİLAPEM intravenöz dozunu takiben imipenem için eğri altında
+kalan alan (EAA), hafif (Kreatinin Klerensi (CrCL) 50-80 ml/dak/1,73 m2), orta (CrCL 30-
+<50 ml/dk./1,73 m2) ve ciddi (CrCL <30 ml/dak/1,73 m2) böbrek yetmezliği sırasıyla, normal
+böbrek fonksiyonuna (CrCL >80 ml/dak/1,73 m2) sahip gönüllülere göre 1,1 kat, 1,9 kat ve
+2,7 kat artmıştır ve hafif, orta ve ciddi böbrek yetmezliğine sahip gönüllülerde, normal böbrek
+fonksiyonuna sahip gönüllüler ile karşılaştırıldığında sırasıyla 1,6 kat, 2 kat ve 6,2 kat olarak
+artmıştır. Böbrek fonksiyonu normal olan gönüllülere kıyasla, hemodiyalizden 24 saat sonra
+verilen tek bir 250 mg/250 mg intravenöz CİLAPEM dozundan sonra, imipenemin ve
+silastatinin AUC’leri sırasıyla 3,7 kat ve 16,4 kat daha yüksek olmuştur. İmipenem ile
+silastatinin idrarda geri kazanımı, böbrek klerensi ve plazma klerensi, CİLAPEM’in
+intravenöz verilmesini takiben düşen böbrek fonksiyonu ile azalmaktadır. Böbrek fonksiyonu
+bozukluğu olan hastalarda doz ayarlaması gerekir (bkz. Bölüm 4.2).
+Karaciğer yetmezliği
+Karaciğer bozukluğuna sahip hastalarda imipenemin farmakokinetiği belirlenmemiştir.
+İmipenemin hepatik metabolizmasının kapsamı sınırlı olduğundan, farmakokinetiğinin,
+hepatik bozukluktan etkilenmesi beklenmemektedir. Bu nedenle, karaciğer bozukluğu olan
+hastalarda doz ayarlaması önerilmemektedir (bkz. Bölüm 4.2).
+Pediyatrik hastalar
+İmipenem için ortalama klerens (CL) ile dağılım hacmi (Vd ) pediyatrik hastalarda (3
+ss
+aylıktan 14 yaşa kadar) yetişkinlere oranla % 45 daha yüksek bulunmuştur. Vücut ağırlığı
+başına 15/15 mg/kg imipenem/silastatinin pediyatrik hastalara verildiğinde EAA’si 500
+mg/500 mg doz alan yetişkinlerin maruz kaldığı EAA’ye göre yaklaşık % 30 daha yüksektir.
+Daha yüksek bir dozda, 25/25 mg/kg imipenem/silastatinin çocuklara verilmesini takip eden
+maruziyet, 1000 mg/1000 mg doz alan yetişkinlerin maruziyetine oranla % 9 daha yüksektir.
+Yaşlılar
+Sağlıklı yaşlı yetişkinlerde (kendi yaşları için normal böbrek fonksiyonuna sahip 65-75
+yaşlarında), tek bir CİLAPEM 500 mg/500 mg farmakokinetik dozu damar içine 20
+dakikadan uzun süre verilmiştir ve kendisi için doz değişikliğinin gerekli görülmediği hafif
+böbrek yetmezliğine sahip gönüllüler için beklenen ile tutarlı olarak tespit edilmiştir.
+İmipenem ile silastatinin ortalama plazma yarı ömürleri sırasıyla 91 ± 7 dakika ve 69 ± 15
+dakikadır. Çoklu dozlama imipenem veya silastatinin farmakokinetiği üzerinde etkiye sahip
+değildir ve imipenem/silastatin birikmesi gözlenmemiştir (bkz. Bölüm 4.2).
+195.3. Klinik öncesi güvenlilik verileri
+Klinik olmayan veriler; geleneksel güvenlilik farmakolojisi, tekrarlanan doz toksisitesi ve
+genotoksisite araştırmalarına göre, insanlar için özel bir tehlike ortaya koymamıştır.
+Hayvan araştırmaları, tek bir yapı olarak imipenem tarafından oluşturulan toksisitenin böbrek
+ile sınırlı olduğunu göstermiştir. Silastatinin imipenem ile 1:1 oranında birlikte verilmesi
+imipenem’in tavşan ve maymunlardaki nefrotoksik etkilerini önlemiştir. Mevcut kanıtlar,
+imipenemin tübüler hücrelere girişini önleyerek nefrotoksisiteyi önlediğini göstermektedir.
+40/40 mg/kg/gün dozlarında (bolus intravenöz enjeksiyonu) imipenem-silastatin sodyum
+verilen hamile sinomolgus maymunlarda gerçekleştirilen bir teratoloji araştırmasında kusma,
+inapetans, kilo kaybı, ishal, düşük ve bazı durumlarda ölüme yol açtığı gösterilmiştir.
+İmipenem-silastatin sodyum dozları (yaklaşık 100/100 mg/kg/gün veya insanlar için önerilen
+normal intravenöz dozun yaklaşık 3 katı) insanların klinik kullanımıyla benzeşen bir
+intravenöz infüzyon sıklığında hamile sinomolgus maymunlara verildiğinde minimal maternal
+intolerans (nadiren kusma) meydana gelmiş, hiç anne ölümü meydana gelmemiştir,
+teratojenisite kanıtı bulunmamıştır; ancak kontrol gruplarına oranla embriyo kaybında artış
+görülmüştür (bkz. Bölüm 4.6).
+İmipenem-silastatinin karsinojenik potansiyelini değerlendirmek üzere hayvanlarda hiçbir
+uzun süreli çalışma gerçekleştirilmemiştir.
+6. FARMASÖTİK ÖZELLİKLER
+6.1. Yardımcı maddelerin listesi
+CİLAPEM’deki tek yardımcı madde sodyum bikarbonattır.
+6.2. Geçimsizlikler
+CİLAPEM kimyasal olarak laktatla geçimsizdir, laktatlı çözücülerle hazırlanmamalıdır.
+CİLAPEM laktat çözeltisinin infüze edildiği bir sistemden uygulanabilir.
+CİLAPEM diğer antibiyotiklerle karıştırılmamalı ya da fiziksel olarak eklenmemelidir. Ancak
+CİLAPEM aminoglikozitler gibi diğer antibiyotiklerle de eş zamanlı kullanılabilir.
+6.3. Raf ömrü
+36 ay
+Sulandırma Sonrasında:
+Bkz. Bölüm 6.4
+6.4. Saklamaya yönelik özel tedbirler
+CİLAPEM flakonu (kuru toz) 25oC’nin altındaki oda sıcaklığında saklanmalıdır. İnfüzyon
+çözeltisiyle hazırlandıktan sonra buzdolabında ya da oda sıcaklığında tutulduğunda stabilitesi
+aşağıdaki tabloda görülmektedir.
+Hazırlanan çözeltiyi dondurmayınız.
+20HAZIRLANAN CİLAPEM ÇÖZELTİSİNİN STABİLİTESİ
+Seyreltici Oda sıcaklığı (25oC) Buzdolabı (4o C)
+İzotonik sodyum klorür 4 saat 24 saat
+% 5 Dekstroz, suda 4 saat 24 saat
+% 10 Dekstroz, suda 4 saat 24 saat
+% 5 Dekstroz ve % 0,9 NaCl 4 saat 24 saat
+% 5 Dekstroz ve % 0,45 NaCl 4 saat 24 saat
+% 5 Dekstroz ve % 0,225 NaCl 4 saat 24 saat
+Mannitol % 5 ve % 10 4 saat 24 saat
+6.5. Ambalajın niteliği ve içeriği
+25 cc Tip III Renksiz Cam flakon, bromobutil kauçuk tıpa, flipofflu alüminyum kapak ve
+kullanma talimatı içeren karton kutu.
+6.6. Beşeri tıbbi ürünlerden arta kalan maddelerin imhası ve diğer özel önlemler
+CİLAPEM steril toz aşağıdaki şekilde hazırlanmalıdır. Berrak bir çözelti elde edilene kadar
+çalkalanmalıdır. Rengin, sarıya doğru çeşitlilik göstermesi, ilacın potensini etkilemez. Her bir
+flakon sadece tek kullanım içindir.
+Sulandırma:
+Her bir flakonun içeriği 100 ml uygun infüzyon çözeltisine aktarılmalıdır (bkz. Bölüm 6.2 ve
+6.3):
+Önerilen bir prosedür, flakona yaklaşık 10 ml uygun infüzyon çözeltisinin eklenmesidir. İyice
+çalkalayınız ve sonuçta ortaya çıkan karışımı infüzyon çözeltisi kabına dökünüz.
+DİKKAT: KARIŞIM DOĞRUDAN İNFÜZYON İÇİN DEĞİLDİR.
+Flakon içeriğinin infüzyon çözeltisine tamamen aktarıldığından emin olmak için ek bir 10 ml
+infüzyon çözeltisiyle tekrarlayınız. Ortaya çıkan karışım, berraklaşıncaya kadar
+çalkalanmalıdır.
+Yukarıdaki prosedürü takiben sulandırılmış çözeltinin konsantrasyonu hem imipenem hem de
+silastatin için yaklaşık olarak 5 mg/ml’dir.
+Rengin renksizden sarıya değişimi ürünün tesirini etkilemez.
+Kullanılmamış olan ürünler ya da atık materyaller “Tıbbi Atıkların Kontrolü Yönetmeliği” ve
+“Ambalaj ve Ambalaj Atıkları Kontrolü Yönetmelikleri”ne uygun olarak imha edilmelidir.
+7. RUHSAT SAHİBİ
+TÜM EKİP İLAÇ A.Ş.
+İstanbul Tuzla Kimya Organize Sanayi Bölgesi
+Aromatik Cd. No. 55 - 34956 Tuzla - İSTANBUL
+Tel. no : 0216 593 24 25 (Pbx)
+Faks no: 0216 593 31 41
+E-mail: info@tumekip.com.tr
+218. RUHSAT NUMARASI (LARI)
+231/61
+9. İLK RUHSAT TARİHİ / RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi: 06.05.2011
+Ruhsat yenileme tarihi: 07.08.2017
+10. KÜB’ÜN YENİLENME TARİHİ
+22

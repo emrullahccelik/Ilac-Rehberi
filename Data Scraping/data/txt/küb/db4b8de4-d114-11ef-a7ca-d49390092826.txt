@@ -1,0 +1,589 @@
+KISA ÜRÜN BİLGİSİ
+Bu ilaç ek izlemeye tabidir. Bu üçgen yeni güvenlilik bilgisinin hızlı olarak belirlenmesini
+sağlayacaktır. Sağlık mesleği mensuplarının şüpheli advers reaksiyonları TÜFAM’a
+bildirmeleri beklenmektedir. Bakınız Bölüm 4.8 Advers reaksiyonlar nasıl raporlanır?
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+ENSPRYNG 120 mg/ml enjeksiyonluk çözelti içeren kullanıma hazır enjektör
+Steril
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde:
+Her kullanıma hazır enjektör (PFS) 1 ml'de 120 mg satralizumab içerir.
+Satralizumab, rekombinant DNA teknolojisi yoluyla (pH'a bağlı bir bağlanma teknolojisi dahil)
+Çin hamsteri over hücreleriyle üretilen bir rekombinant hümanize immunoglobulin G2 (IgG2)
+monoklonal antikordur.
+Yardımcı maddeler:
+Yardımcı maddeler için Bölüm 6.1'e bakınız.
+3. FARMASÖTİK FORM
+Kullanıma hazır enjektör içinde enjeksiyon çözeltisi
+Renksiz ila hafif sarımsı sıvı. Çözeltinin pH değeri yaklaşık 6,0 ve ozmolalite değeri yaklaşık
+310 mOsm/kg.
+4. KLİNİK ÖZELLİKLER
+4.1 Terapötik endikasyonlar
+ENSPRYNG, erişkin ve 12 yaşından itibaren adolesan hastalarda anti-AQP4 antikoru pozitif
+NMOSB (Nöromiyelitis optika spektrum bozuklukları) tedavisi için monoterapi olarak veya
+immünosupresif tedavi ile kombine kullanıma endikedir. (bkz. Bölüm 5.1).
+4.2 Pozoloji ve uygulama şekli
+Tedavi nöromiyelitis optika (NMO) veya NMOSB tedavisinde deneyimli bir doktorun
+gözetiminde başlatılmalıdır.
+Pozoloji
+ENSPRYNG, monoterapi olarak veya oral kortikosteroidler (OC), azatioprin (AZA) veya
+mikofenolat mofetil (MMF) ile kombinasyon halinde kullanılabilir (bkz. Bölüm 5.1). ≥ 12 yaş
+ve vücut ağırlığı ≥ 40 kg adolesan hastalarda ve yetişkin hastalarda pozoloji aynıdır.
+Yükleme dozları
+Önerilen yükleme dozu ilk üç uygulama için her iki haftada bir 120 mg subkutan (SC)
+enjeksiyondur (ilk doz 0. haftada, ikinci doz 2. haftada ve üçüncü doz 4. haftada).
+1İdame dozları
+Önerilen idame dozu her dört haftada bir 120 mg SC enjeksiyondur.
+Tedavi süresi
+ENSPRYNG uzun süreli tedavi amaçlıdır.
+Geciken ya da unutulan dozlar
+Karaciğer enzimlerinde artış dışında herhangi bir nedenle bir enjeksiyon atlanırsa, tablo 1’de
+açıklandığı gibi uygulanmalıdır.
+Tablo 1: Geciken yada atlanan dozlar için önerilen dozlama
+Uygulanan son doz Geciken veya atlanan dozlar için önerilen doz
+İdame döneminde 8 haftadan az Mümkün olan en kısa sürede 120 mg subkutan
+bir süre veya bir yükleme enjeksiyonla uygulayın ve bir sonraki planlanan doza kadar
+dozunun atlanması beklemeyin.
+Yükleme süresi
+İkinci yükleme dozu gecikirse veya atlanırsa, mümkün
+olan en kısa sürede uygulayın ve üçüncü ve son yükleme
+dozunu 2 hafta sonra uygulayın.
+Üçüncü yükleme dozu gecikirse veya atlanırsa, mümkün
+olan en kısa sürede uygulayın ve ilk idame dozunu 4 hafta
+sonra uygulayın.
+Idame periyodu
+Geciken veya unutulan doz uygulandıktan sonra, doz
+programını her 4 haftada bir olacak şekilde sıfırlayın.
+8 haftadan 12 haftaya kadar 0* ve 2 haftada, ardından her 4 haftada
+12 hafta veya daha uzun 0*, 2 ve 4 haftada, ardından her 4 haftada.
+* "0 hafta", unutulan yada atlanılan dozdan sonraki ilk uygulamanın süresini ifade eder.
+Karaciğer enzimi anormallikleri için doz değişimi tavsiyesi
+Alanin aminotransferaz (ALT) veya aspartat aminotransferaz (AST) yüksekliği >5x normalin
+üst limitindeyse (NÜS) ve herhangi bir bilirubin yüksekliği ile ilişkiliyse, tedavi bırakılmalı, ve
+yeniden başlama önerilmemektdir
+Eğer ALT veya AST yüksekliği >5x NÜS ise ve herhangi bir bilirubin yüksekliği ile ilişkili
+değilse, tedavi bırakılmalıdır. ALT veya AST düzeyleri normal aralığa döndüğünde ve hastanın
+tedaviden fayda-risk değerlendirmesine dayalı olarak, tedavi her dört haftada bir 120 mg SC
+enjeksiyon dozunda yeniden başlatılabilir. Eğer tedaviye yeniden başlama kararı alınırsa,
+karaciğer parametreleri yakından takip edilmelidir ve sonradan ALT/AST ve/veya bilirubin
+yüksekliği gözlemlenirse, tedavi bırakılmalı, ve yeniden başlama önerilmemektedir.
+Tablo 2: Karaciğer transaminaz yükselmesinden sonra tedavinin yeniden başlatılması
+için önerilen doz.
+Uygulanan son doz Tedavinin yeniden başlatılması için önerilen doz
+12 haftadan az Tedaviyi önerilen dozda başlatın ve her 4 haftada bir
+uygulayın.
+212 hafta yada daha uzun Tedavi 0*, 2 ve 4. haftalarda önerilen dozda yeniden
+başlatın, ardından her 4 haftada bir uygulayın.
+* "0 hafta", unutulan yada atlanılan dozdan sonraki ilk uygulamanın süresini ifade eder.
+Nötropeni için önerilen doz modifikasyonu
+Tekrarlanan testler ile konfirme edilmiş nötrofil sayısı < 1,0 x 109/L ise tedavi durdurulur ve
+nötrofil sayısı > 1,0 x 109/L olana kadar başlatılmaz.
+Düşük trombosit sayısı için önerilen doz modifikasyonu
+Tekrarlanan testler ile konfirme edilmiş trombosit sayısı < 75 x 109/L ise tedavir durdurulur ve
+trombosit sayısı ≥75 x 109/L olana kadar başlatılmaz.
+Özel popülasyonlara ilişkin ek bilgiler
+Böbrek yetmezliği
+Satralizumabın böbrek fonksiyon bozukluğu olan hastalardaki güvenliliği ve etkililiği resmi
+olarak araştırılmamıştır. Böbrek bozukluğu olan hastalar için doz ayarlaması önerilmemektedir
+(bkz. Bölüm 5.2).
+Karaciğer yetmezliği
+Satralizumabın karaciğer fonksiyon bozukluğu olan hastalardaki güvenliliği ve etkililiği resmi
+olarak araştırılmamıştır. Herhangi bir veri mevcut değildir (bkz. Bölüm 5.2). Satralizumab ile
+tedavi sırasında karaciğer enzimlerinde artış gözlemlenmiştir (bkz. Bölüm 4.4 ve 4.8). Doz
+ayarlaması için yukarıdaki yer alan karaciğer enzim anormallikler için doz modifikasyonu
+bölümüne bakınız.
+Pediyatrik popülasyon
+12 yaşında ve daha büyük ve vücut ağırlığı ≥ 40 kg adolesan hastalarda ve erişkin hastalarda
+pozoloji aynıdır (bkz. Bölüm 5.1 ve 5.2).
+Vücut ağırlığı <40 kg olan çocuklarda satralizumabın güvenlilik ve etkililik henüz
+belirlenememiştir. Veri bulunmamaktadır.
+Geriyatrik popülasyon
+65 yaş ve üzeri hastalarda doz ayarlaması gerekli değildir (bkz. Bölüm 5.2).
+Uygulama Yöntemi
+Satralizumab 120 mg bir tek dozluk kullanıma hazır enjektör kullanılarak SC enjeksiyon
+yoluyla uygulanır. Kullanıma hazır enjektörün tüm içeriği (1 ml) uygulanmalıdır.
+Önerilen enjeksiyon bölgeleri karın ve kalçadır. Enjeksiyon bölgeleri rotasyona tabi
+tutulmalıdır ve enjeksiyonlar hiçbir zaman benlere, yaralara veya cildin narin, morarmış,
+kızarmış, sertleşmiş veya hasarlı olduğu yerlere yapılmamalıdır.
+Satralizumab uygulaması hakkında kapsamlı talimatlar kullanma talimatının sonunda
+verilmiştir.,
+Hasta ve/veya hasta yakını tarafından uygulama
+İlk enjeksiyon yetkin bir sağlık profesyonelinin (HCP) gözetiminde uygulanmalıdır.
+Enjeksiyonun nasıl hazırlanacağı ve gerçekleştirileceği konusunda yeterli eğitimden sonra,
+tedavi eden doktor uygun olduğuna ve erişkin hastanın/hasta yakını enjeksiyon tekniğini
+3uygulayabileceğine karar verirse, erişkin hasta/hasta yakını diğer tüm dozlarını evde
+uygulayabilir.
+Hasta ciddi alerjik reaksiyon semptomları geliştirirse hasta/hasta yakını tıbbi yardım çağırmalı
+ve sağlık profesyonelleri ile tedavisine devam edip edilmeyeceği kararlaştırılmalıdır.
+4.3 Kontrendikasyonlar
+Etkin maddeye ya da bölüm 6.1'de sıralanan yardımcı maddelerden herhangi birine karşı aşırı
+duyarlılık.
+4.4 Özel kullanım uyarıları ve önlemleri
+İzlenebilirlik
+Biyoteknolojik tıbbi ürünlerin izlenebilirliğini geliştirmek için, uygulanan ürünün adı ve seri
+numarası açık bir biçimde kaydedilmelidir.
+Enfeksiyonlar
+Aktif enfeksiyonu olan hastalarda, enfeksiyon durumu düzelene kadar satralizumab
+uygulamasını erteleyiniz (bkz. Bölüm 4.2).
+Satralizumab ile tedavi gören hastalarda enfeksiyonun zamanında tespiti ve teşhisi için dikkatli
+olunması önerilir. Hastada ciddi veya fırsatçı enfeksiyon gelişmesi durumunda tedavi
+ertelenmelidir ve uygun tedavi daha ileride izleme atlında başlatılmalıdır. Hastalar herhangi bir
+enfeksiyon belirtisi yada bulgusu göstermeleri durumunda enfeksiyonların zamanında teşhisini
+kolaylaştırmak adına erken tıbbi yardım alma konusunda bilgilendirilmelidir. Hastalara bir
+hasta uyarı kartı verilmelidir.
+Aşılar
+Canlı ya da canlı-attenüe aşılar, klinik güvenliliği belirlenmemiş olduğundan satralizumab ile
+eşzamanlı verilmemelidir. Canlı aşılama ile satralizumab tedavisinin başlangıcı arasındaki süre,
+immünomodülatör ve immünsupresif ajanlara ilişkin güncel aşılama kılavuzlarına uygun olarak
+belirlenmelidir.
+Aşıların satralizumab kullanan hastalardaki etkilerine ilişkin herhangi bir veri mevcut değildir.
+Satralizumab tedavisinin başlangıcından önce, tüm hastaların tüm aşılamalarının mevcut
+aşılama kılavuzlarına uygun olarak güncel hale getirilmesi önerilmektedir.
+Karaciğer enzimleri
+Hafif ila orta şiddette karaciğer transaminaz yüksekliği satralizumab tedavisinde gözlenmiştir,
+yüksekliklerin çoğu 5x NÜS seviyesinin altında (bkz. Bölüm 4.8).
+ALT ve AST düzeyleri, tedavinin ilk üç ayında her dört haftada bir, sonra bir yıla kadar her üç
+ayda bir, sonra klinik olarak gerektiğinde kontrol edilmelidir.
+ALT veya AST >5x NÜS olan hastalarda satralizumab tedavisi bırakılmalıdır (bkz. Bölüm 4.2).
+Nötrofil sayısı
+Satralizumab tedavisi sonrasında nötrofil sayısında düşüş gözlemlenmiştir (bkz. Bölüm 4.8).
+Nötrofil sayısı tedavinin başlamasından 4 ila 8 hafta sonra takip edilmelidir ve sonrasında klinik
+olarak belirtildiği şeklinde izlenmelidir.
+4.5 Diğer tıbbi ürünler ile etkileşim ve diğer etkileşim şekilleri
+Etkileşim çalışmaları yapılmamıştır.
+4Popülasyon farmakokinetik (FK) analizleri, AZA, OC'ler veya MMF'nin satralizumab klerensi
+üzerinde herhangi bir etkisini saptamamıştır.
+Hem in vitro hem de in vivo çalışmalar, spesifik hepatik CYP450 enzimlerinin ekspresyonunun
+(CYP1A2, CYP2C9, CYP2C19 ve CYP3A4), IL-6 gibi sitokinler tarafından baskılandığını
+göstermiştir.
+Bu nedenle CYP450 3A4, 1A2, 2C9 veya 2C19 substratları ile tedavi alan hastalarda, özellikle
+tedavi indeksi dar olanlarda (varfarin, karbamazepin, fenitoin ve teofilin gibi), satralizumab
+tedavisine başlarken veya keserken dikkatli olunmalıdır ve doz gerekli olduğunda
+ayarlanmalıdır.
+Satralizumabın uzun süreli terminal yarılanma ömrü göz önüne alındığında, etkisi tedaviyi
+bıraktıktan birkaç hafta sonraya kadar devam edebilir.
+4.6 Gebelik ve laktasyon
+Genel tavsiye:
+Gebelik kategorisi: B
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon)
+Çocuk doğurma potansiyeli bulunan kadınlarda ve kontrasepsiyon uygulayanlarda ilacın
+kullanımı yönünden bir öneri bulunmamaktadır.
+Gebelik dönemi
+Satralizumabın gebe kadınlarda kullanımına ilişkin yeterli veri mevcut değildir. Hayvanlar
+(maymunlar) üzerinde yapılan araştırmalar, üreme toksisitesiyle ilgili zararlı etkilerin
+olmadığını göstermektedir (bk. Bölüm 5.3).
+Önlem olarak, hamilelik sırasında ENSPRYNG kullanımından kaçınılması tercih edilir.
+Laktasyon dönemi
+Satralizumabın anne sütüne geçip geçmediği bilinmemektedir. Doğumdan sonraki ilk günlerde
+IgG'nin anne sütüne geçtiği biliniyor, kısa süre sonra da düşük konsantrasyonlara düşer. Sonuç
+olarak, bu kısa süre boyunca anne sütüyle beslenen bebekler için bu risk göz ardı edilemez. Bu
+süre geçtikten sonra da Enspryng'in emzirme döneminde kullanımı ancak klinik olarak
+gerekliyse düşünülebilir.
+Üreme yeteneği/Fertilite
+Satralizumabın insan fertilitesi üzerindeki etkilerine ilişkin klinik veriler mevcut değildir.
+Hayvan çalışmaları, kadın ve erkek fertilitesi üzerinde bozulma göstermemiştir (bkz. Bölüm
+5.3).
+4.7 Araç ve makine kullanımı üzerindeki etkiler
+ENSPRYNG'in araç ve makine kullanma yeteneği üzerinde etkisi ihmal edilebilir düzeydedir
+veya hiç yoktur.
+4.8 İstenmeyen etkiler
+Güvenlilik profilinin özeti
+5Gözlemlenen en sık bildirilen advers reaksiyonlar: baş ağrısı (%19,2), artralji (%13,5), beyaz
+kan hücresi sayısında azalma (%13,5), hiperlipidemi (%13,5) ve enjeksiyonla ilgili reaksiyonlar
+(%12,5).
+Advers reaksiyonların tablo halinde özeti
+Tablo 3'te klinik çalışmalarda satralizumabın monoterapi olarak veya IST ile kombine olarak
+kullanımıyla ilişkili olarak bildirilen advers reaksiyonlar özetlenmektedir.
+Klinik çalışmalarda saptanan advers reaksiyonlar (Tablo 3) MedDRA sistem organ sınıfına göre
+listelenmiştir. Advers reaksiyonlar, her 100 hasta yılı başına advers olayların sayısı kullanılarak
+ve sıklık şekilleriyle gösterilmiştir. Her advers ilaç reaksiyonu için karşılık gelen sıklık
+kategorisi, sıklık şekillerine ve şu düzene dayanmaktadır: çok yaygın (≥1/10), yaygın (≥1/100
+ila <1/10), yaygın olmayan (≥1/1.000 ila <1/100), seyrek (≥1/10.000 ila <1/1.000), çok seyrek
+(<1/10.000).
+Tablo 3: Yan etkiler
+Sistem Organ Sınıfı Sıklık
+(MedDRA)
+Çok yaygın Yaygın
+Kan ve lenfatik sistem Hipofibrinojenemi
+bozuklukları
+Metabolizma ve beslenme Hiperlipidemi
+bozuklukları
+Psikiyatrik bozukluklar Insomnia
+Sinir sistemi bozuklukları Baş ağırısı Migren
+Kardiyak bozuklukları Bradikardi
+Vasküler bozuklukları Yüksek kan basıncı
+Solunum, torasik ve mediastinal Alerjik rinit
+bozuklukları
+Mide-bağırsak bozuklukları Gastrit
+Deri ve deri altı doku Döküntü,
+bozuklukları Kaşıntı
+Kas iskelet ve bağ doku Atralji Kas-iskelet sertliği
+bozuklukları
+Genel bozukluklar ve uygulama Enjeksiyona bağlı Periferal ödem
+bölgesine ilişkin koşullar reaksiyonlar
+Laboratuvar bulguları Beyaz kan hücresinde Nötrofil sayısında düşüş,
+düşüş Trombosit sayısında
+düşüş,
+Transaminaz
+enzimlerinde artış,
+kan bilirubin seviyesinde
+artış,
+vücut ağırlığında artış
+Seçilmiş advers reaksiyonların açıklaması
+Enjeksiyonla İlişkili Reaksiyonlar (IRRler)
+Satralizumab ile monoterapi olarak veya IST ile kombine olarak tedavi edilen hastalarda
+bildirilen IRR'ler ağırlıklı olarak hafif ya da orta şiddetteydi ve çoğunlukla enjeksiyondan
+6sonraki 24 saat içinde gerçekleşmiştir. En yaygın olarak bildirilen sistemik semptomlar diyare
+ve baş ağrısı olmuştur. En yaygın olarak bildirilen lokal enjeksiyon bölgesi reaksiyonları
+kızarıklık, eritem, kaşıntı, döküntü ve ağrı olmuştur.
+Vücut ağırlığı
+Çift körlü satralizumab (monoterapi yada IST ile kombine olarak) tedavisi ile sadece plasebo
+(veya plasebo artı IST) alan hastalar ile kıyaslandığında, hastalarda gözlemlenen ≥%15 vücut
+ağırlığı artışı %2,7’den %3,8’e çıkmıştır.
+Laboratuvar anormallikleri
+Nötrofiller
+Çift-kör tedavi döneminde, azalmış nötrofiller, plasebo (veya plasebo artı IST) alan hastaların
+%21,6'sına kıyasla, satralizumab ile tedavi edilen (monoterapi olarak veya IST ile kombine
+olarak) hastaların %31,7'sinde gözlemlenmiştir. Nötrofillerdeki azalmaların çoğunluğu geçici
+veya aralıklı olmuştur.
+Satralizumab alan hastaların %9,6'sının nötrofilleri, plasebo (veya plasebo artı IST) alanların
+%5,4'üne kıyasla 1 x 109/l'den düşüktür.
+Trombosit
+Çift-kör tedavi döneminde, platelet sayısındaki azalma (< 150 x 109/l), plasebo (veya plasebo
+artı IST) alan hastaların %9,5'ine kıyasla satralizumab ile tedavi edilen (monoterapi olarak veya
+IST ile kombine olarak) hastaların %24,0'ünde gözlemlenmiştir. Azalmış platelet sayıları
+kanama olayları ile bağlantılı değildir.
+Trombosit düzeylerinin azalması çoğunlukla geçiciydi ve 75 × 109/l'nin altında değildi.
+Karaciğer enzimleri
+Çift-kör tedavi döneminde, AST veya ALT yüksekliği, plasebo veya plasebo artı IST alan
+hastaların sırasıyla %12,2 ve %13,5'ine kıyasla satralizumab ile tedavi edilen (monoterapi
+olarak veya IST ile kombine olarak) hastaların %27,9 ve %18,3'ünde gözlemlenmiştir.
+Artışların çoğu 3x NÜS altındaydı, geçiciydi ve ENSPRYNG'e ara verilmeden iyileşmiştir.
+ALT veya AST >3x NÜS yüksekliği satralizumab ile tedavi edilen (monoterapi olarak veya
+IST ile kombine olarak) hastaların sırasıyla %2,9 ve %1,9'unda gerçekleşmiştir. Bu yükselişler,
+total bilirubinde artış ile ilişkili değildir.
+5x NÜS üzerinde ALT yüksekliği, IST ile kombine olarak satralizumab alan bir (%1) hastada
+tedavi başlangıcından 4 hafta sonra gözlemlenmiştir, tedavi bırakılmasından sonra
+normalleşmiş ve satralizumab ile bir daha tedaviye başlanmamıştır (bkz. Bölüm 4.2 ve 4.4).
+Lipid parametreleri
+Çift-kör tedavi döneminde, satralizumab alan hastaların (monoterapi olarak veya IST ile
+kombine olarak) %10,6'sı, plasebo (veya plasebo artı IST) alan hastaların %1,4'üne kıyasla total
+kolesterolde 7,75 mmol/l üzerinde yükselme deneyimlenmiştir; satralizumab alan hastaların
+%20,2'ü plasebo alan hastaların %10,8'ine kıyasla trigliseridlerde 3,42 mmol/l üzerinde
+yükselme deneyimlenmiştir.
+Özel popülasyonlara ilişkin ek bilgiler
+Pediyatrik popülasyon
+7Satralizumabın güvenliliği ve etkililiği ≥12 yaşında olan 9 çocukta çalışılmıştır. 12 yaşından
+itibaren çocuklardaki advers reaksiyonların sıklığı, tipi ve şiddetinin erişkinlerdekiyle aynı
+olması beklenmektedir.
+Şüpheli advers reaksiyonların bildirilmesi
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi’ne (TÜFAM) bildirmeleri gerekmektedir (www.titck.gov.tr: e-posta:
+tufam@titck.gov.tr, tel: 0 800 314 00 08; faks: 0 312 218 35 99).
+4.9 Doz aşımı
+Doz aşımı durumunda, hasta yakın denetime alınmalı, semptomatik olarak tedavi edilmeli ve
+gerekli durumlarda destekleyici önlemler alınmalıdır.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1 Farmakodinamik özellikler
+Farmakoterapötik grup: İmmünosupresanlar, İnterlökin inhibitörleri
+ATC kodu: L04AC19
+Etki mekanizması
+Satralizumab, çözünür ve hücre duvarına bağlı insan IL-6 reseptörüne (IL-6R) bağlanan ve
+böylece bu reseptörlerden sinyal iletimini önleyen bir rekombinant hümanize IgG2 monoklonal
+antikordur (mAb).
+IL-6 seviyeleri, NMO ve NMOSB hastalarında, hastalık aktivitesi dönemlerinde serebrospinal
+sıvıda ve serumda yükselmiştir. IL-6 fonksiyonları; NMO ve NMOSB patogenezinde temel
+olarak B hücresi aktivasyonu, B hücrelerinin plazmablastlara farklılaşması ve merkezi sinir
+sistemindeki (MSS) astrositler tarafından eksprese edilen bir su kanalı proteini olan Aquaporin-
+4 (AQP4)'e karşı patolojik antikorların üretimi, Th17 hüresi aktivasyonu ve farklılaşması,
+düzenleyici T hücre inhibisyonu ve kan beyin bariyeri geçirgenliği değişimi olarak
+belirtilmiştir.
+Farmakodinamik etkiler
+NMO ve NMOSB'da satralizumab ile klinik çalışmalarda, C-reaktif protein (CRP), fibrinojen
+ve komplemanda (C3, C4 ve CH50) azalmalar gözlemlenmiştir.
+Klinik etkililik ve güvenlilik
+Satralizumabın etkililiği ve güvenliliği, AQP4-IgG seropozitif veya seronegatif NMO tanısı
+(Wingerchuck 2006 kriterleri) veya AQP4-IgG seropozitif NMOSB tanısı (Wingerchuk 2007
+kriterleri) olan hastalarda iki faz III klinik çalışmasında değerlendirilmiştir.
+BN40898 çalışmasına, stabil IST ilaç tedavisi gören, taramadan önceki son 2 yılda en az 2
+relaps olan (taramadan önce 12 ay içerisinde en az 1 relaps olan) ve 0 ila 6,5 arasında
+genişletilmiş engellilik durumu ölçeği (EDSS), 12-74 yaş arası yetişkin ve adolesan NMOSB
+hastalar dahil edilmiştir. BN40900 çalışmasına ise, IST geçmişi olmayan, en az 1 relaps veya
+ilk atak taramadan önce son 12 ay içerisinde olan ve EDSS 0 ila 6,5 arasında ölçülen, 18-74 yaş
+arası yetişkin NMOSB hastaları dahil edilmiştir.
+8Her iki çalışmaya da yaklaşık %30 AQP4-IgG seronegatif NMO hastaları dahil edilmiştir.
+Her iki çalışmada birincil etkililik ölçütü, hasta tarafından semptomlar bildirildikten sonra
+(doğrulanmış relaps) 7 gün içinde uygulanan EDSS ve Fonksiyonel Sistem Skorlarına (FSS)
+değerlendirmesine dayanan ve bağımsız bir Klinik Sonlanım Noktası Komitesi ile (CEC)
+tarafından doğrulanmış ilk relaps zamanına bağlı değerlendirilmiştir.
+Çalışma BN40898 (SA-307JG veya SAkuraSky olarak da bilinmektedir)
+Çalışma BN40898, stabil IST ile kombine olarak satralizumab etkisini değerlendiren
+randomize, çok merkezli, çift kör, plasebo kontrollü bir klinik çalışmaydır (15 mg/güne kadar
+OC [prednizolon eşdeğeri], 3 mg/kg/güne kadar AZA veya 3000 mg/güne kadar MMF;
+adolesanlar AZA ve OC veya MMF ve OC kombinasyonu almıştır). Çalışmaya, 83 AQP4-IgG
+seropozitif ve seronegatif erişkin hasta dahil edilmiştir (76 adolesan dahildir). Hastalar, ilk üç
+ENSPRYNG 120 mg tek dozunu veya eşleşen plasebosunu karın ve femoral bölgeye SC
+enjeksiyon olarak ilk 4 hafta her 2 haftada bir ve daha sonra her 4 haftada bir almışlardır.
+Çalışma tasarımı ve çalışma popülasyonunun temel özellikleri Tablo 4'te sunulmaktadır.
+Tablo 4: Çalışma BN40898 için Araştırma Tasarımı ve Başlangıçtaki Özellikler
+Araştırmanın Adı Çalışma BN40898 (N=83)
+(AQP4-IgG seropozitif: N=55; ITT*: N=83)
+Araştırma tasarımı
+Çalışma popülasyonu NMO veya NMOSB hastası adolesan veya erişkinler, stabil
+IST ile tedavi edilmiş
+12-74 yaş, taramadan önceki son 2 yılda ≥ 2 relaps
+(taramadan önceki son 12 ayda en az 1 atak ile),
+EDSS 0 - 6,5
+Etkililik değerlendirmesi için Olaya dayalı** (26 CEC doğrulanmış protokolde
+çalışma süresi tanımlanmış olan relaps)
+Medyan takip süresi: Satralizumab 139,4 hafta, plasebo
+40,2 hafta (ITT’de: 115,1 hafta ve 42,5 hafta sırasıyla)
+Tedavi grupları, 1:1 oranında Grup A: Satralizumab120 mg SC
+randomizasyon Grup B: Plasebo
+Başlangıçtaki özellikler Satralizumab + IST (n=27) Plasebo + IST (n=28)
+Tanı, n (%):
+NMO 19 (70,4) 14 (50,0)
+NMOSB 8 (29,6) 14 (50, 0)
+Ortalama yaş, yıl (SD) 44,4 (15,7) 43,4 (12,9)
+(Min-Maks) (13 – 73) (14 – 65)
+Yaşlılar (≥65 yaş), n(%) 3 (11,1) 1 (3,6)
+Adolesanlar (≥12 ile <18 yıl), 1 (937) 2 (7,1)
+n (%)
+Cinsiyet dağılımı, n (%) erkek/
+n (%) kadın 0 / 27 (100) 0 / 28 (100)
+9İmmünosupresif tedavi (IST),
+n (%):
+Oral kortikosteroidler (OC) 14 (51,9) 13 (46,4)
+Azatioprin (AZA) 11 (40,7) 11 (39,3)
+Mikofenolat mofetil (MMF) 1 (3,7) 3 (10,7)
+AZA + OC*** 0 0
+MMF + OC*** 1 (3,7) 1 (3,6)
+* Tedavi amaçlı (ITT)
+** Kurtarma tedavisi ile tedavi edilen ve doğrulanmış bir relaps olmayan hastaların, çalışmanın
+OLE dönemine girmesine izin verildi ve birincil etkinlik analizinden muhaf tutuldu
+***Adolesan hastalarda kombinasyona izin verilir.
+Çalışma BN40900 (SA-309JG veya SAkuraStar olarak da bilinmektedir)
+Çalışma BN40900, satralizumab monoterapisinin plaseboya kıyasla etkisini değerlendiren
+randomize, çok merkezli, çift kör, plasebo kontrollü klinik bir çalışmadır. Çalışmaya, 95 AQP4-
+IgG seropozitif ve seronegatif erişkin hasta dahil edilmiştir. Hastalar, ilk üç satralizumab 120
+mg tek dozunu veya eşleşen plasebosunu karın ve femoral bölgeye SC enjeksiyon olarak ilk 4
+hafta her 2 haftada bir ve daha sonra her 4 haftada bir almışlardır.
+Çalışma tasarımı ve çalışma popülasyonunun temel özellikleri Tablo 5'te sunulmaktadır.
+Tablo 5: Çalışma BN40900 için Araştırma Tasarımı ve Başlangıçtaki Özellikler
+Çalışma BN40900 (N=95)
+Araştırmanın Adı
+(AQP4-IgG seropozitif: N=64; ITT*: N=95)
+Araştırma tasarımı
+Çalışma popülasyonu NMO veya NMOSB ile erişkin hastalar
+18-74 yaş, taramadan önceki 12 ay içinde ≥ 1 relaps veya ilk
+atak, EDSS 0 - 6,5. Hastalar ya NMOSB için önceden relaps
+önleyici tedavi almıştır ya da tedavi görmemiştir.
+Etkililik değerlendirmesi Olaya dayalı (44 CEC doğrulanmış protokolde tanımlanmış
+için çalışma süresi olan relaps veya en son dahil edilen hastanın randomizasyon
+tarihinden 1,5 yıl sonra, hangisi önce gerçekleşirse)
+Medyan takip süresi: satralizumab 96,7 hafta,
+plasebo 60,1 hafta (ITT’de: 95,4 hafta ve 60,5 hafta sırasıyla)
+Tedavi grupları, 2:1 Monoterapi:
+oranında randomizasyon Grup A: Satralizumab 120 mg SC
+Grup B: plasebo
+AQP4-IgG seropozitif
+Satralizumab (n=41) Plasebo (n=23)
+başlangıçtaki özellikler
+Tanı, n (%):
+NMO 26 (63,4) 15 (65,2)
+NMOSB 15 (36,6) 8 (34,8)
+Ortalama yaş, yıl (SD) 46,0 (12,0) 40,1 (11,5)
+(Min-Maks) (22 – 70) (20 – 56)
+Yaşlılar (≥65 yaş), n(%) 1 (2,4) 0
+10Cinsiyet dağılımı, n (%)
+erkek/ n (%) kadın 10 (24,4) / 31 (75,6) 1 (4,3) / 22 (95,7)
+* Tedavi amaçlı (ITT)
+Primer etkililik
+AQP4-IgG seropozitif hastalarda doğrulanmış relaps deneyimleme bağıl riski, Çalışma
+BN40898'de %79 (Tehlike Oranı HR [%95 GA]: 0,21 [0,06-0,75]), Çalışma BN40900'da %74
+(HR [%95 GA]: 0,26 [0,11-0,63]) azalmıştır (Şekil 1 ve Şekil 2). BN40898 ve BN40900
+çalışmalarının verileri toplandığında, IST ile birlikte veya monoterapi olarak satralizumab
+tedavisi, AQP4-IgG seropozitif hastalarda %75 toplam risk azalmasına yol açmaktadır (HR
+[%95 GA]; 0,25 (0,12-0,50]). 48 haftada, IST ile kombine olarak veya monoterapi olarak
+satralizumab ile tedavi edilen AQP4-IgG seropozitif hastaların plasebo ile kıyaslandığında
+sırasıyla %85,7 ve %58,7’si doğrulanmış relapssız olarak kalmıştır. 96 haftada, IST ile kombine
+olarak veya monoterapi olarak satralizumab ile tedavi edilen AQP4-IgG seropozitif hastaların
+plasebo ile kıyaslandığında sırasıyla %81,4 ve %47,2'i doğrulanmış relapssız olarak kalmıştır.
+AQP4-IgG seronegatif hastalarda etkililik anlamlı bulunmamıştır.
+Şekil 1: Çalışma BN40898 – AQP4-IgG seropozitif hastalarda çift kör tedavi döneminde
+ilk doğrulanmış relapsın zamanı
+11Şekil 2: Çalışma BN40900 – AQP4-IgG seropozitif hastalarda çift kör tedavi döneminde
+ilk doğrulanmış relapsın zamanı
+AQP4-IgG seropozitif hastalarda satralizumab ile tedavi yıllıklandırılmış doğrulanmış relaps
+oranı (ARR) plasebo ile kıyaslandığında BN40898 çalışmasında %88 (olasılık oranı
+[RR]=0,122, %95 GA: 0,027-0,546; p=0,0039), BN40900 çalışmasında ise %90 (RR=0,096,
+%95 GA: 0,020-0,473; p=0,0086) azalmıştır.
+Plasebo ile tedavi edilen hastalarla kısaylandığında, kurtarma tedavisi ihtiyacı (örn.
+kortikosteroidler, intravenöz immünoglobulin ve/veya aferez [plazmaferez veya plazma
+değişimi dahil]) satralizumab ile tedavi edilen AQP4-IgG seropozitif hastalarda BN40898
+çalışmasında %61 (olasılık oranı [OR]= 0,3930, %95 GA:0,1343 -1,1502; p=0,0883) ve
+BN40900 çalışmasında %74 (OR = 0,2617, %95 GA: 0,0862 - 0,7943; p=0,0180) azalmıştır.
+Önemli sekonder sonlanım noktası
+BN40898 ve BN40900 çalışmalarında ağrı veya yorgunlukta başlangıca göre 24. haftada
+önemli bir değişim ile karşılanmamıştır.
+Açık-etiketli uzatma
+Açık-etiketli uzatma (OLE) dönemi de dahil olmak üzere daha uzun vadeli verilerin analizleri
+(kurtarma tedavisi ile tedavi edilen relapsa dayalı) satralizumab ile ek tedavi olarak yada
+monoteraip şeklinde tedavi edilen AQP4-IgG seropozitif hastaların %58 ve %73'ünün sırasıyla
+120 haftalık tedaviden sonra relapssız olarak kalmıştır.
+İmmünojenisite
+Faz III BN40898 çalışmasında (IST ile kombine olarak) ve Faz III BN40900 çalışmasında
+(monoterapi olarak), çift-kör dönemde satralizumab alan hastaların sırasıyla %41 ve %71'inde
+anti-ilaç antikorları (ADA'lar) görülmüştür. ADA'ların satralizumab bağlanmasını nötralize
+etme yetenekleri bilinmemektedir.
+12Maruziyet, ADA pozitif hastalarda daha azdır ancak ADA'ların güvenlililiğe etkisi ve ne
+etkililik üzerine net etkisi ne de hedef birleşimini belirten farmakodinamik belirteçler yoktur.
+Satralizumab ile tedavi, bu çalışmalardaki ADA oranları farklılığına rağmen, faz III
+çalışmalarındaki hastalardakine benzer bir doğrulanmış relaps riskinde düşüşe yol açmıştır.
+Pediyatrik popülasyon
+Çalışma BN40898'e, 7 adolesan hasta dahil edildi. Ortalama yaşları 15,4 yaş ve medyan vücut
+ağırlığı 79,6 kg idir. Çoğunluk kadındı (n=6). Dört hasta Beyaz, 2'si Siyahi/Afrikalı Amerikalı
+ve 1'i Asyalıydır. Üç (%42,9) adolesan hasta taramada AQP4-IgG seropozitifti (2'si plasebo
+grubunda ve 1'i satralizumab grubunda). Çift kör dönemde, plasebo grubundaki 3 adolesanın
+1'i ve satralizumab grubundaki 4 adolesanın 1'i doğrulanmış relaps deneyimledi. Küçük
+örneklem boyutu nedeniyle, bu alt grupta ilk doğrulanmış relaps zamanının birincil sonlanım
+noktası için tehlike oranı hesaplanmamıştır.
+Avrupa İlaç Kurumu, NMO tedavisinde pediyatrik popülasyonun bir veya daha fazla alt setinde
+ENSPRYNG ile çalışmaların sonuçlarının sunulması yükümlülüğünü ertelemiştir (pediyatrik
+kullanım bilgisi için bkz. Bölüm 4.2).
+5.2 Farmakokinetik özellikler
+Genel özellikler
+Satralizumabın farmakokinetiği, Japon ve Beyaz ırktan sağlıklı gönüllülerde ve NMO ve
+NMOSB hastalarında karakterize edildi. Önerilen dozu kullanan NMO ve NMOSB hastalarının
+farmakokinetiği 154 hastanın veri tabanına dayalı popülasyon FK analizi yöntemi kullanılarak
+karakterize edilmiştir.
+NMO veya NMOSB hastalarında satralizumabın konsantrasyon-zaman seyri paralel lineer ve
+hedef aracılı (Michaelis-Menten) eliminasyon ve birinci derece SC emilim ile iki kompartmanlı
+popülasyon FK modeli yoluyla doğru olarak tanımlanmıştır. Satralizumab klerensi ve hacim
+parametreleri vücut ağırlığına göre allometrik olarak ölçeklendirilmiştir (sırasıyla, klerens ve
+hacim parametreleri için sabit kuvvet katsayısı ile kuvvet fonksiyonu, 0,75 ve 1 ). 123 kg'dan
+daha ağır (ağırlık dağılımının 97,5. persentili) hastaların klerens ve Vc değerlerinin, 60 kg bir
+hastaya göre, sırasıyla %71,3 ve %105 yükselmesi ile vücut ağırlığının anlamlı bir kovaryant
+olduğu gösterilmiştir.
+Sabit durum farmakokinetiğine, yükleme döneminden (8 hafta) sonra, C , C ve EAA için
+min maks
+ulaşılmıştır (ortalama (±SS): C : 19,7 (12,2) mcg/ml, C : 31,5 (14,9) mcg/ml ve EEA: 737
+min maks
+(386) mcg.ml/gün.
+Emilim
+Satralizumabın emilim hızı sabiti 0,0104 /saat şeklinde bulunmultur, bu da önerilen dozda,
+yaklaşık 3 gündeki absorpsiyon yarılanma ömrüne denktir (bkz. Bölüm 4.2). Biyoyararlanım
+yüksek bulunmuştur (%85,4).
+Dağılım
+Satralizumab bifazik dağılım gösterir. Santral dağılım hacmi 3,46 L, periferik dağılım hacmi
+2,07 L idi. Kompartmanlar arası klerens14 mL/saat.
+Biyotransformasyon
+13Satralizumab metabolizması monoklonal antikorlar temelde katabolizma ile temizlendiği için
+direk olarak çalışılmamıştır.
+Eliminasyon
+Satralizumab toplam klerensi konsantrasyona bağımlıdır. Lineer klerens (NMO ve NMOSB
+hastalarında önerilen doz kullanılarak sabit durumda total klerensin yaklaşık yarısını oluşturan)
+2,5 mL/saatolarak tahmin edilmiştir. İlgili terminal t , faz 3 araştırmalardan toplanan verilere
+1/2
+dayalı olarak yaklaşık 30 gündür (22-37 gün aralığında).
+Doğrusallık/Doğrusal olmayan durum
+Doğrusallık/doğrusal olmayan durum ile ilgili veri bulunmamaktadır.
+Özel popülasyonlar
+NMO veya NMOSB erişkin hastalarının popülasyon farmakokinetik analizi yaş, cinsiyet ve
+ırkın satralizumab farmakokinetiğini anlamlı olarak etkilemediğini göstermiştir. Vücut ağırlığı
+satralizumab farmakokinetiğini etkilemesine rağmen, herhangi bir demografik için doz
+ayarlaması önerilmememektedir.
+Pediyatrik popülasyon
+Erişkin doz rejimi alan 8 adolesan hastadan [13-17 yaş] elde edilen veriler, satralizumab için
+popülasyon FK parametrelerinin erişkin popülasyondakinden anlamlı farklılığı olmadığını
+gösterdi. Dolayısıyla, doz ayarlaması gerekmemektedir.
+Geriyatrik popülasyon
+65 ve üzeri yaştaki hastalarda satralizumab FK'sını araştırmak için çalışmalar yapılmamıştır
+ancak 65 ve 74 yaş arasındaki NMO veya NMOSB hastaları BN40898 ve BN40900
+çalışmalarına dahil edilmiştir.
+Böbrek yetmezliği
+Böbrek bozukluğunun satralizumab FK'sı üzerine etkisi ile ilgili resmi çalışma yapılmamıştır.
+Ancak, hafif böbrek bozukluğu olan hastalar (kreatinin klerensi < 80 ml/dk ve ≥ 50 ml/dk)
+BN40898 ve BN40900 klinik çalışmalarında dahil edilmiştir. Beklenildiği gibi, satralizumab
+klerensinin bilinen mekanizmalarına dayalı olarak bu hastalardaki FK etkilenmemiştir ve
+dolayısıyla doz ayarlaması gerekmemektedir.
+Karaciğer yetmezliği
+Karaciğer bozukluğunun satralizumab FK'sı üzerine etkisi ile ilgili resmi çalışma
+yapılmamıştır.
+5.3 Klinik öncesi güvenlilik verileri
+Konvansiyonel güvenlilik farmakolojisi, tekrarlanan doz toksisitesi ve üreme ve gelişim
+toksisitesine ilişkin çalışmalara dayanarak, klinik dışı verilerde insanlar için özel bir tehlike
+ortaya çıkmamıştır.
+Karsinojenite
+Satralizumabın karsinojenik potansiyelini belirlemek için kemirgenlerde karsinojenisite
+çalışması yapılmamıştır. Proliferatif lezyonlar sinomolgus maymununda 6 aylık kronik
+toksisite çalışmasında gözlenmemiştir.
+Genotoksisite
+14Satralizumabın mutajenik potansiyelini belirlemek için herhangi bir çalışma yapılmadı.
+Antikorların DNA üzerinde etkiye sebep olması beklenmemektedir.
+Üreme Toksikolojisi
+Gebe maymunlarda ve onların yavrularında satralizumab ile prenatal tedavi ve postnatal
+maruziyet; maternal hayvanlar, fetal gelişim, gebelik sonucu veya infant sağ kalımı ve öğrenme
+yeteneği de dahil gelişimi üzerinde herhangi bir advers reaksiyon ortaya çıkarmamıştır.
+Anne sütünde satralizumab konsantrasyonları çok düşüktür (karşılık gelen maternal plazma
+düzeyinin <%0,9'u).
+Fertilite
+Maymunlarda satralizumab kronik tedavisinin kadın ve erkek üreme organları üzerinde etkisi
+görülmemiştir.
+Sitokin salınım sendromu
+İnsan kanıyla yapılan in vitro çalışmalara dayanarak, satralizumab ile proinflamatuvar
+sitokinlerin salınımı riski, insidans ve sitokin artışı yönünden düşük olarak değerlendirilmiştir.
+6. FARMASÖTİK ÖZELLİKLER
+6.1 Yardımcı maddelerin listesi
+L-Histidin
+L-Aspartik Asit
+L-Arjinin
+Poloksamer 188
+Enjeksiyonluk su
+6.2 Geçimsizlikler
+Uygunluk çalışmaları bulunmadığı takdirde bu tıbbi ürün diğer tıbbi ürünlerle
+karıştırılmamalıdır.
+6.3 Raf ömrü
+24 ay
+6.4 Saklamaya yönelik özel tedbirler
+Kullanıma hazır olana kadar buzdolabında (2°C – 8°C) saklayınız. Dondurmayınız. Donmuş
+ise enjektörü kullanmayınız. Enjektörü her zaman kuru tutunuz.
+Işıktan ve nemden korumak için kullanıma hazır enjektörleri kutusunun içinde tutunuz.
+Eğer açılmamış ve dış kartonundan çıkarılmamış haldeyse, enjektör gerektiğinde
+buzdolabından çıkarılıp geri konulabilir. Oda sıcaklığında saklanması durumunda, buzdolabı
+dışında geçirebileceği toplam süre 30°C'yi aşmayan bir sıcaklıkta 8 günü aşmamalıdır.
+6.5 Ambalajın niteliği ve içeriği
+Kullanıma hazır enjektör (polimer) içinde klorine butil kauçuk polipropilen sert iğne kalkanı
+bulunan destekli, paslanmaz çelik iğne ve klorine butil kauçuk piston tıpa ile mühürlenmiş 1 ml
+solüsyon. Kullanıma hazır enjektör etiketlenmiştir ve iğne güvenlilik cihazı (NSD), piston
+çubuğu ve uzatılmış parmak kenarlığı (EFF) ile birleştirilmiştir.
+1 adet kullanıma hazır enjektör.
+156.6 Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+ENSPRYNG iğne güvenlilik cihazı ile birleştirilmiş tek dozluk kullanıma hazır enjektör
+içerisinde tedarik edilmektedir. Kutuyu buzdolabından çıkardıktan sonra, mühürlü kutuyu
+açınız ve kullanıma hazır enjektörü gövdesinden tutarak dikkatlice kutusundan çıkarınız.
+Uygulama sürecini başlatmadan önce 30 dakika bekleyerek kullanıma hazır enjektörün oda
+sıcaklığına ulaşmasına izin vermek önemlidir.
+Sıvı bulanık, rengi bozulmuş veya gözle görülür partikül içeriyorsa veya kullanıma hazır
+enjektörün herhangi bir parçası hasarlı görünüyorsa ilacı kullanmayınız.
+Kapak çıkartıldıktan sonra, ilacın kuruyarak iğneyi tıkamasını engellemek için enjeksiyon 5
+dakika içerisinde başlatılmalıdır. Kullanıma hazır enjektör kapak çıkartıldıktan sonra 5 dakika
+içerisinde kullanılmazsa, delinmeye dayanıklı bir kaba atılmalı ve yeni bir kullanıma hazır
+enjektör kullanılmalıdır.
+ENSPRYNG uygulaması hakkında kapsamlı talimatlar kullanma talimatında verilmiştir .
+Kullanılmamış olan ürünler ya da atık materyaller, “Tıbbi Atıkların Kontrolü Yönetmeliği’’ ve
+“Ambalaj ve Ambalaj Atıklarının Kontrolü Yönetmeliği”ne uygun olarak imha edilmelidir.
+7. RUHSAT SAHİBİ
+Roche Müstahzarları Sanayi Anonim Şirketi
+Uniq İstanbul
+Ayazağa Cad. No:4, D/101
+34396 Maslak, Sarıyer- İstanbul
+8. RUHSAT NUMARASI
+2022/269
+9. İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ
+İlk ruhast tarihi: 12.05.2022
+Ruhsat yenileme tarihi:
+10. KÜB’ün YENİLENME TARİHİ
+16

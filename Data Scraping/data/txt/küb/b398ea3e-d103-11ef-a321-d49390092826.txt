@@ -1,0 +1,2316 @@
+KISA ÜRÜN BİLGİSİ
+Bu ilaç ek izlemeye tabidir. Bu üçgen yeni güvenlilik bilgisinin hızlı olarak belirlenmesini
+sağlayacaktır. Sağlık mesleği mensuplarının şüpheli advers reaksiyonları TÜFAM’ a
+bildirmeleri beklenmektedir. Bakınız Bölüm 4.8 Advers reaksiyonlar nasıl raporlanır?
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+LYNPARZATM 100 mg film kaplı tablet
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde:
+Olaparib 100 mg
+Yardımcı maddeler:
+Yardımcı maddeler için Bölüm 6.1’e bakınız.
+3. FARMASÖTİK FORM
+Film kaplı tablet.
+Bir yüzünde “OP100” baskısı bulunan, diğer yüzü düz, sarı ila koyu sarı renkli, oval, bikonveks
+tablet.
+4. KLİNİK ÖZELLİKLER
+4.1. Terapötik endikasyonlar
+LYNPARZA aşağıdakiler için endikedir:
+Over kanseri
+Monoterapi olarak;
+• ilerlemiş (FIGO evre III ve IV) BRCA1/2-mutasyonlu (germ hattı ve/veya somatik)
+yüksek dereceli epitelyal over, fallop tüpü veya primer peritoneal kanser görülen ve
+birinci basamak platin bazlı kemoterapinin tamamlanmasını takiben tam ya da kısmi
+yanıt alınan yetişkin hastalara uygulanan idame tedavisinde,
+• daha önce platin içeren kemoterapi sonrası relaps gelişen platin duyarlı (Platin
+duyarlılığı son tedavi dozundan en az 6 ay ve üzerinde relaps gelişen hastalardır.) BRCA
+mutasyonu (BRCA1/2 mutasyonu, akreditasyon almış bir laboratuvarda çalışılmış
+olmalıdır.) pozitif olan yüksek dereceli epitelyal over tümörü, fallop tüpü veya primer
+peritoneal kanserli hastaların platin içeren ikinci basamak tedavisi sonrası idame
+tedavisinde endikedir.
+Bevasizumabla kombinasyon halinde
+• ilerlemiş (FIGO evre III ve IV) yüksek dereceli seröz epitelyal over kanseri, fallop tüpü
+kanseri veya primer peritoneal kanser görülen ve birinci basamak platin bazlı
+kemoterapi ve bevasizumab kombinasyon tedavisinin tamamlanmasını takiben yanıt
+veren (tam veya kısmi) ve ECOG Performans durumu 0-1 olan yetişkin hastalara
+bevasizumabla kombinasyon halinde uygulanan idame tedavisinde progresyona kadar
+veya en fazla 24 ay süreyle endikedir.Meme kanseri
+LYNPARZA, germline BRCA 1 veya 2 mutasyonu olan triple negatif yüksek riskli
+(Neoadjuvan tedavi sonrası patolojik rezidüel hastalığı olanlar veya primer cerrahisini olmuş
+ve patolojik olarak tümör çapı 2 cm üstünde yada lenf nodu pozitif olan adjuvan tedavisini almış
+hastalar) erken evre meme kanserinde lokal tedaviler ve antrasiklin ve/veya taksan içeren
+adjuvan/neoadjuvan kemoterapi tamamlandıktan sonra monoterapi halinde maksimum 1 yıl
+süreyle endikedir.
+LYNPARZA, germ hattı BRCA1 veya 2 mutasyonlarına sahip olan, HER2 negatif metastatik
+meme kanseri olan yetişkin hastalarının tedavisinde monoterapi olarak endikedir. Hastalar, bu
+tedavi için uygun olmaları durumunda, daha önce (neo)adjuvan veya metastatik ortamda bir
+antrasiklin ve bir taksan ile tedavi görmüş olmalı ve (neo) adjuvan platin temelli bir tedavi
+almışlarsa son tedaviden itibaren 12 ay geçmiş olmalıdır (bkz. bölüm 5.1).
+Hormon reseptörü (HR) pozitif meme kanseri görülen hastalar aynı zamanda önceki endokrin
+tedavisi sırasında veya sonrasında progresyon göstermiş olmalıdır veya endokrin tedavisi için
+uygun olmadıkları yönünde değerlendirme yapılmış olmalıdır.
+Pankreas adenokarsinomu
+LYNPARZA, birinci basamak platin bazlı kemoterapiyi en az 16 hafta kullanıp hastalığı progresyon
+göstermeyen, germ hattı BRCA1/2-mutasyonlu, metastatik pankreas adenokarsinomlu, ECOG
+Performans durumu 0-1 olan yetişkin hastalarının idame tedavisinde monoterapi olarak endikedir.
+Prostat kanseri
+LYNPARZA,
+• metastatik kastrasyona dirençli prostat kanserinde önceki enzalutamid veya abireteron
+tedavisine progresyon göstermiş ve BRCA1,2 veya ATM mutasyonu olan yetişkin
+hastaların tedavisinde monoterapi olarak
+• metastatik kastrasyona dirençli BRCA 1 veya 2 mutasyonu gösterilmiş ve kastrasyon
+dirençli dönemde sistemik tedavi almamış prostat kanserinde abirateron asetat ile
+birlikte kullanımı endikedir. Hormon duyarlı dönemde yeni jenerasyon anti-androjen ajan
+kullanan hastalarda metastatik kastrasyona dirençli dönemde birinci basamak tedavi
+olarak abirateron+LYNPARZA kullanımı uygun değildir.
+4.2. Pozoloji ve uygulama şekli
+LYNPARZA ile tedavi, anti-kanser tıbbi ürünlerin kullanımında deneyimli bir hekim tarafından
+başlatılmalı ve takip edilmelidir.
+Hasta Seçimi
+BRCA mutasyonlu ileri over kanserinin birinci basamak idame tedavisi:
+Yüksek dereceli epitelyal over kanseri (EOK), fallop tüpü kanseri (FTK) veya primer peritoneal
+kanserin (PPK) birinci basamak idame tedavisi için LYNPARZA tedavisi başlatılmadan önce
+hastaların meme kanserine duyarlılık genleri (BRCA) 1 veya 2’de patojen veya olası patojengerm hattı ve/veya somatik mutasyonlara sahip olduğu valide edilmiş bir test kullanılarak
+doğrulanmalıdır.
+Platine duyarlı relaps yapmış over kanserinin idame tedavisi:
+Platin bazlı tedaviye tam veya kısmi yanıt veren hastalarda, relaps yapmış EOK, FTK veya
+PPK'nin idame tedavisinde monoterapi olarak LYNPARZA kullanılmasından önce hastaların
+meme kanserine duyarlılık genleri (BRCA) 1 veya 2’de patojen veya olası patojen germ hattı
+ve/veya somatik mutasyonlara sahip olduğu valide edilmiş bir test kullanılarak doğrulanmalıdır.
+Bevasizumab ile kombinasyon halinde over kanserinin birinci basamak idame tedavisi:
+Bevasizumabla birlikte birinci basamak platin bazlı kemoterapinin tamamlanmasını takiben
+yanıt veren (tam veya kısmi) hastalarda EOK, FTK veya PPK'nin birinci basamak tedavisinde
+bevasizumabla kombinasyon halinde LYNPARZA için meme kanserine duyarlılık genleri
+(BRCA1/2 ) testi yapılmasına gerek yoktur.
+Germline BRCA-mutasyonlu yüksek riskli erken meme kanserinin adjuvan tedavisi
+Triple negatif, yüksek riskli erken meme kanserinin adjuvan tedavisi için
+LYNPARZAbaşlanmadan önce hastalarda geçerli bir test ile zararlı veya zararlı olduğundan
+şüphe edilen gBRCA1/2 mutasyonu doğrulanmalıdır (bkz. Bölüm 5.1).
+gBRCA1/2-mutasyonlu HER2-negatif metastatik meme kanseri:
+Germline meme kanseri duyarlılık genleri (gBRCA1/2) mutasyona uğramış insan epidermal
+büyüme faktörü reseptörü 2 (HER2)-negatif metastatik meme kanseri için, LYNPARZA
+tedavisine başlanmadan önce hastalarda zararlı veya şüpheli zararlı bir gBRCA1/2 mutasyonu
+doğrulanmalıdır. gBRCA1/2 mutasyon durumu, onaylanmış bir test yöntemi kullanılarak
+deneyimli bir laboratuvar tarafından belirlenmelidir. Meme kanserinde tümör BRCA1/2
+testlerinin klinik doğrulamasını gösteren veriler şu anda mevcut değildir.
+BRCA mutasyonlu metastatik pankreas adenokarsinomunun birinci basamak idame tedavisi:
+Germ hattı gBRCA1/2 mutasyonlu metastatik pankreas adenokarsinomunun birinci basamak
+tedavisi için LYNPARZA tedavisi başlatılmadan önce hastaların patojenik veya olası patojenik
+bulunan gBRCA1/2 mutasyonuna sahip olduğu doğrulamalıdır. gBRCA1/2 mutasyonu durumu
+deneyimli bir laboratuvar tarafından valide edilmiş bir test yöntemi kullanılarak belirlenmelidir.
+BRCA1/2 ya da ATM genlerinde mutasyona uğramış metastatik kastrasyona dirençli prostat
+kanseri monoterapi tedavisi:
+BRCA1,2 ya da ATM genlerinde mutasyonlu metastatik kastrasyona dirençli prostat kanserinde
+(mCRPC) LYNPARZA tedavisine başlanmadan önce hastaların homolog rekombinasyon
+onarım geni mutasyonu doğrulanmalıdır (bir doku örneğinden alınan tümör DNA’sı veya bir
+plazma örneğinden alınmış ctDNA veya kan ya da başka bir tümör dışı örnekten elde edilmiş
+germ hattı DNA’sı kullanılarak). HRR genetik durumu, deneyimli bir laboratuvar tarafından
+valide edilmiş bir test yöntemi kullanılarak belirlenmelidir.Hormona duyarlı dönemden önce abirateron ile kombinasyon halinde metastatik kastrasyona
+dirençli prostat kanserinin tedavisi:
+LYNPARZA abirateron ile kombinasyon halinde metastatik kastrasyona dirençli BRCA 1 veya
+2 mutasyonu olan prostat kanseri hastalarına uygulanır. Hormon duyarlı dönemde yeni
+jenerasyon anti-androjen ajan kullanan hastalarda metastatik kastrasyona dirençli dönemde
+birinci basamak tedavi olarak abirateron + LYNPARZA kullanımı uygun değildir.
+Eğer uygulanabilir ise BRCA1/2 veya ATM genlerindeki mutasyonlar açısından test uygulanan
+hastalara yönelik genetik danışmanlık yerel düzenlemelere uygun şekilde verilmelidir.
+Pozoloji/uygulama sıklığı ve süresi:
+LYNPARZA, 100 mg ve 150 mg’lık tabletler halinde mevcuttur.
+LYNPARZA’nın önerilen dozu, 600 mg’lık toplam günlük doza karşılık gelecek şekilde günde
+iki kez alınan 300 mg’dır (iki adet 150 mg tablet). 100 mg tablet, dozun azaltılması için
+kullanılmalıdır.
+LYNPARZA monoterapi:
+Platin bazlı kemoterapiye (tam veya kısmi) yanıt veren platine duyarlı nükseden (PSR) yüksek
+dereceli epitelyal over, fallop tüpü veya primer periton kanseri olan hastalar, platin içeren
+rejimin son dozu tamamlandıktan en geç 8 hafta sonra LYNPARZA ile tedaviye başlamalıdır.
+Bevasizumabla kombinasyon halinde LYNPARZA
+Bevasizumabla birlikte uygulanan birinci basamak platin bazlı tedavinin tamamlanmasını
+takiben yüksek dereceli epitelyal over kanserine, fallop tüpü kanserine veya primer peritoneal
+kansere yönelik birinci basamak idame tedavisinde LYNPARZA ile bevasizumab
+kombinasyonu uygulanırken hastalar bevasizumabla kombinasyon halinde LYNPARZA
+tedavisine son kemoterapi dozlarının tamamlanmasından en az 3 hafta ve en fazla 9 hafta sonra
+başlamalıdır. LYNPARZA bevasizumab ile kombinasyon halinde kullanılacak olduğunda
+önerilen dozaj bilgisi için bevasizumaba ilişkin ürün bilgisine başvurun (bkz. bölüm 5.1).
+Endokrin tedavi ile kombinasyonda LYNPARZA
+Önerilen pozoloji için endokrin tedavi kombinasyonu bileşenlerinin (aromataz inhibitörü/anti-
+östrojen ajan ve/veya LHRH) ürün bilgisine başvurun.
+gBRCA1/2 mutasyonlu metastatik pankreas adenokarsinomu görülen hastalar LYNPARZA
+tedavisine birinci basamak platin bazlı kemoterapilerinin son dozunun tamamlanmasından en
+geç 8 hafta sonra başlamalıdır.
+Abirateron ile kombinasyon halinde LYNPARZA,
+LYNPARZA, metastatik kastrasyona dirençli BRCA 1 veya 2 mutasyonu gösterilmiş prostat
+kanseri hastalarının tedavisi için abirateron ile kombinasyon halinde kullanıldığında, abirateron
+dozu oral olarak günde bir kez 1000 mg'dır (bkz. bölüm 5.1). Abirateron, günde iki kez oral
+olarak 5 mg prednizon veya prednizolon ile birlikte verilmelidir. Lütfen abiraterone ait Kısa
+Ürün Bilgisi'ne de başvurunTedavi süresi
+BRCA mutasyonlu ilerlemiş over kanserinin birinci basamak idame tedavisi:
+Tedavi marker yüksekliği ve/veya radyolojik hastalık progresyonu veya kabul edilemez toksisite
+gelişene kadar verilebilir. Maksimum tedavi süresi 2 yıldır.
+BRCA mutasyonlu platine duyarlı relaps yapmış over kanserinin idame tedavisi:
+BRCA mutasyonlu platine duyarlı relaps yapmış yüksek dereceli epitelyal over, fallop tüpü
+veya primer peritoneal kanser görülen hastalarda tedavinin altta yatan hastalığın progresyonuna
+veya kabul edilemez toksisiteye kadar sürdürülmesi önerilmektedir.
+BRCA mutasyonlu metastatik pankreas adenokarsinomunun birinci basamak idame tedavisi:
+Altta yatan hastalığın progresyonuna veya kabul edilemez toksisiteye kadar tedaviye devam
+edilmesi önerilmektedir.
+BRCA1/2 veya ATM -geni mutasyonlu metastatik kastrasyona dirençli prostat kanseri
+monoterapi tedavisi:
+Altta yatan hastalığın progresyonuna veya kabul edilemez toksisiteye kadar tedaviye devam
+edilmesi önerilmektedir. Cerrahi kastrasyon uygulanmış olmayan hastalarda tedavi sırasında
+lüteinizan hormon salgılatıcı hormon (LHRH) analogu kullanılarak ilaçla kastrasyona devam
+edilmelidir.
+İlerlemiş over kanserinin bevasizumab ile kombinasyon halinde birinci basamak idame
+tedavisi:
+Hastalar radyolojik hastalık progresyonu, kabul edilemez toksisite veya 2 yıl tedaviden sonra
+radyolojik hastalık kanıtı yoksa 2 yıla kadar tedaviye devam edebilir. Tedaviyi uygulayan
+doktorun görüşüne göre devam eden LYNPARZA tedavisinden ilave yarar elde edebilecek olan
+ve 2. yılda hastalık kanıtı sergileyen hastalara 2 yıldan daha uzun süre tedavi uygulanabilir.
+LYNPARZA bevasizumab ile kombinasyon halinde kullanılacak olduğunda önerilen tedavi
+süresi için bevasizumaba ilişkin ürün bilgisine başvurun (bkz. bölüm 5.1).
+Over kanseri hastalarında ilk veya sonraki relapsı takiben LYNPARZA ile tekrar idame tedavisi
+uygulanması konusunda herhangi bir etkililik veya güvenlilik verisi yoktur (bkz. bölüm 5.1).
+Germline BRCA-mutasyonlu, yüksek riskli meme kanserinin adjuvan tedavisi
+Hastaların 1 yıla veya hastalık nüksüne veya kabul edilemez toksisite gelişimine dek, hangisi
+önce gerçekleşirse, tedavi edilmesi önerilir.
+gBRCA1/2-mutasyonlu HER2-negatif metastatik meme kanseri:
+Altta yatan hastalık veya kabul edilemez toksisitenin ilerlemesine kadar tedaviye devam
+edilmesi önerilir.
+Metastatik kastrasyona dirençli prostat kanseri abirateron ile kombinasyon halinde tedavisi:
+LYNPARZA abirateron ile kombinasyon halinde kullanıldığında, altta yatan hastalık veya
+kabul edilemez toksisite gelişene kadar tedaviye devam edilmesi önerilir. Tedavi süresince tüm
+hastalarda gonadotropin salgılatıcı hormon (GnRH) analoğu tedavisine devam edilmelidir veya
+hastalar önceden bilateral orşiektomi geçirmiş olmalıdır.Lütfen abiraterone ait Kısa ÜrünBilgisi'ne de başvurun.
+Prostat kanseri hastalarında LYNPARZA ile yeniden tedaviye ilişkin etkililik veya güvenlilik
+verileri yoktur (bkz. bölüm 5.1).
+Dozun unutulması
+Eğer hastalar bir LYNPARZA dozunu almayı unuturlarsa, bir sonraki normal dozu planlı
+saatinde almalıdır.
+Advers reaksiyonlar için doz ayarlamaları
+Bulantı, kusma, diyare ve anemi gibi advers reaksiyonların yönetimi için tedaviye ara verilebilir
+ve dozun azaltılması düşünülebilir (bkz. Bölüm 4.8).
+Önerilen doz azaltımı günde iki kez 250 mg’dır (bir adet 150 mg tablet ve bir adet 100 mg
+tablet; 500 mg’lık toplam günlük doza eşdeğer).
+Eğer dozun daha fazla azaltılması gerekirse, günde iki kez 200 mg’a (iki adet 100 mg tablet;
+400 mg’lık toplam günlük doza eşdeğer) azaltılması önerilir.
+CYP3A inhibitörleri ile eşzamanlı uygulama için doz ayarlamaları
+LYNPARZA’nın güçlü veya orta derecede güçlü CYP3A inhibitörleri ile eşzamanlı
+uygulanması önerilmemektedir ve alternatif ilaçlar düşünülmelidir. Eğer güçlü bir CYP3A
+inhibitörü ile eşzamanlı kullanılması gerekiyorsa, LYNPARZA dozunun günde iki kez
+100 mg’a (bir adet 100 mg tablet; 200 mg’lık toplam günlük doza eşdeğer) azaltılması önerilir.
+Eğer orta derece güçlü bir CYP3A inhibitörü ile eşzamanlı kullanılması gerekiyorsa,
+LYNPARZA dozunun günde iki kez 150 mg’a (bir adet 150 mg tablet; 300 mg’lık toplam
+günlük doza eşdeğer) azaltılması önerilir (bkz. Bölüm 4.4 ve Bölüm 4.5).
+Uygulama şekli:
+LYNPARZA oral kullanım içindir.
+LYNPARZA tabletler bütün halde yutulmalı ve çiğnenmemeli, ezilmemeli, çözülmemeli ve
+bölünmemelidir. LYNPARZA tabletler aç veya tok karnına alınabilir.
+Özel popülasyonlara ilişkin ek bilgiler:
+Böbrek yetmezliği:
+Orta derecede böbrek yetmezliği (kreatinin klirensi 31 ila 50 mL/dk) olan hastalarda
+LYNPARZA’nın önerilen dozu günde iki kez 200 mg’dır (iki adet 100 mg tablet; 400 mg’lık
+toplam günlük doza eşdeğer) (bkz. Bölüm 5.2).
+LYNPARZA, hafif derecede böbrek yetmezliği (kreatinin klirensi 51 ila 80 mL/dk) olan
+hastalara herhangi bir doz ayarlaması yapılmadan uygulanabilir.
+LYNPARZA’nın ağır derecede böbrek yetmezliği ya da son evre böbrek hastalığı (kreatinin
+klirensi ≤30 mL/dk) olan hastalarda kullanımı, bu hastalardaki güvenlilik ve etkililik
+çalışılmamış olduğundan önerilmemektedir. LYNPARZA ağır derecede böbrek yetmezliği olan
+hastalarda ancak beklenen yarar, muhtemel risklere ağır bastığı takdirde kullanılabilir ve hasta
+böbrek fonksiyonları ve advers olaylar açısından dikkatle izlenmelidir.Karaciğer yetmezliği:
+LYNPARZA, hafif ve orta derecede karaciğer yetmezliği (Child-Pugh A veya B Sınıfı) olan
+hastalara herhangi bir doz ayarlaması yapılmadan uygulanabilir (bkz. Bölüm 5.2).
+LYNPARZA’nın ağır derecede karaciğer yetmezliği (Child-Pugh C Sınıfı olan hastalarda
+kullanılması, bu hastalardaki güvenliliği ve etkililiği çalışılmamış olduğundan
+önerilmemektedir.
+Pediyatrik popülasyon:
+LYNPARZA’nın çocuklarda ve adolesanlarda güvenliliği ve etkililiği belirlenmemiştir. Veri
+mevcut değildir.
+Geriyatrik popülasyon:
+Yaşlılar için başlangıç dozunda herhangi bir ayarlama gerekmemektedir.
+Diğer:
+Beyaz ırka mensup olmayan hastalar:
+Beyaz ırka mensup olmayan hastalarda sınırlı klinik veri mevcuttur. Bununla birlikte etnik
+kökene dayalı herhangi bir doz ayarlaması gerekmemektedir (bkz. Bölüm 5.2).
+4.3. Kontrendikasyonlar
+• Olaparibe veya Bölüm 6.1’de listelenen yardımcı maddelerden herhangi birine karşı aşırı
+duyarlılıkta ya da,
+• Tedavi sırasında ve son doz alındıktan sonra 1 ay boyunca emzirmede (bkz. Bölüm 4.6).
+4.4. Özel kullanım uyarıları ve önlemleri
+Hematolojik toksisite
+LYNPARZA ile tedavi edilen hastalarda, genellikle hafif veya orta şiddetli (CTCAE derece 1
+veya 2) anemi, nötropeni, trombositopeni ve lenfopeninin klinik tanılarını ve/veya laboratuvar
+bulgularını içeren hematolojik toksisite bildirilmiştir. Önceki anti-kanser tedavisinin neden
+olduğu hematolojik toksisiteleri düzelene kadar (hemoglobin, trombosit ve nötrofil düzeyleri
+≤ CTCAE derece 1 olmalıdır) hastaların LYNPARZA ile tedaviye başlamamaları gerekir.
+Tedavi sırasında herhangi bir parametredeki klinik olarak anlamlı değişikliklerin izlenebilmesi
+için tedavi öncesi (başlangıç) tam kan sayımı, bunu takiben tedavinin ilk 12 ayı süresince aylık
+takip ve ardından periyodik takip önerilir (bkz. Bölüm 4.8).
+Eğer hasta ağır hematolojik toksisite veya kan transfüzyonu bağımlılığı geliştirirse,
+LYNPARZA ile tedaviye ara verilmeli ve uygun hematolojik testler başlatılmalıdır. Eğer
+LYNPARZA uygulamasına ara verildikten 4 hafta sonra kan parametreleri halen klinik olarak
+anormal seyrediyorsa, kemik iliği analizi ve/veya kan sitogenetik analizi önerilir.
+Miyelodisplastik Sendrom/Akut Miyeloid Lösemi (MDS/AML)
+LYNPARZA monoterapisi ile yapılan klinik çalışmalarda tedavi edilen hastalarda, uzun süreli
+sağkalım takibi de dahil olmak üzere, miyelodisplastik sendrom/akut miyeloid löseminin
+(MDS/AML) genel insidansı < %1,5 olup bu insidans, önceden en az iki basamak platin
+kemoterapi almış ve 5 yıl boyunca takip edilmiş BRCAm platin duyarlı nüks etmiş yumurtalık
+kanseri hastalarında daha yüksektir (bkz. bölüm 4.8). Olayların çoğu ölümle sonuçlanmıştır.
+MDS/AML gelişen hastalarda olaparib ile tedavi süresi <6 ay ile >4 yıl arasında değişmiştir.MDS/AML'den şüpheleniliyorsa, hasta kemik iliği analizi ve sitogenetik için kan numunesi
+alınması dahil olmak üzere ileri araştırmalar için bir hematoloğa sevk edilmelidir. Uzun süreli
+hematolojik toksisite araştırmasının ardından MDS/AML doğrulanırsa, LYNPARZA kesilmeli
+ve hasta uygun şekilde tedavi edilmelidir.
+Venöz Tromboembolik Olaylar
+LYNPARZA ile tedavi edilen hastalarda ağırlıklı olarak pulmoner emboli olayları olmak üzere
+venöz tromboembolik olaylar meydana gelmiştir ve tutarlı bir klinik paterni yoktur. Diğer
+onaylanmış endikasyonlarla karşılaştırıldığında, aynı zamanda androjen deprivasyon tedavisi
+alan metastatik kastrasyona dirençli prostat kanseri olan hastalarda daha yüksek bir insidans
+gözlenmiştir (bkz. bölüm 4.8). Hastalar venöz tromboz ve pulmoner emboli klinik belirtileri ve
+semptomları açısından izlenmeli ve tıbbi açıdan uygun şekilde tedavi edilmelidir. Daha önce
+VTE öyküsü olan hastalar daha fazla risk altında olabilir ve uygun şekilde izlenmelidir.
+Pnömonit
+Ölümle sonuçlanan olayları da içeren pnömonit, klinik çalışmalarda LYNPARZA ile tedavi
+edilen hastaların <%1,0’ında bildirilmiştir. Pnömonit bildirimlerinde tutarlı bir patern yoktur
+ve bir dizi yatkınlık oluşturucu faktör (akciğer kanseri ve/veya akciğerlere metastazlar, altta
+yatan pulmoner hastalık, sigara öyküsü ve/veya önceden kemoterapi ve radyoterapi almış
+olmak) değerlendirmeyi güçleştirmiştir. LYNPARZA klinik çalışmalarda (güvenlik
+havuzundan değerlendirilen) diğer tedaviler ile kombinasyon halinde kullanıldığında, ölümcül
+sonuçları olan olaylar görülmüştür. Hastalarda dispne, öksürük ve ateş gibi yeni veya kötüleşen
+respiratuvar semptomlar gelişirse ya da anormal göğüs radyolojik bulgusu gözlenirse,
+LYNPARZA tedavisine ara verilmeli ve derhal inceleme başlatılmalıdır. Eğer pnömonit
+doğrulanırsa, LYNPARZA tedavisi kesilmeli ve hastalar uygun şekilde tedavi edilmelidir.
+Hepatotoksisite
+Olaparib ile tedavi edilen hastalarda hepatotoksisite vakaları rapor edilmiştir (bkz. bölüm 4.8).
+Hepatotoksisiteyi düşündüren klinik semptomlar veya bulgular gelişirse, hastanın derhal klinik
+değerlendirmesi yapılmalı ve karaciğer fonksiyon testleri ölçülmelidir. İlaca bağlı karaciğer
+hasarından (DILI) şüphelenilmesi durumunda tedavi kesilmelidir. Şiddetli DILI tedavisinin
+tamamlanarak kesildiği durumlarda hastanın klinik olarak olaparib tedavisine uygun olduğu
+düşünülmelidir.
+Embriyofetal toksisite
+Etki mekanizmasına (PARP inhibisyonu) dayanılarak, LYNPARZA, gebe kadınlara
+uygulandığında fetal zarara neden olabilir. Sıçanlar üzerinde yürütülen klinik dışı çalışmalar
+olaparibin embriyofetal sağkalım üzerinde advers etkiler gösterdiğini ve günde iki kez 300 mg
+olarak önerilen insan dozunda beklenenlerin altındaki maruziyetlerde majör fetal
+malformasyonları tetiklediğini göstermiştir.Gebelik/Kontrasepsiyon
+LYNPARZA gebelik sırasında kullanılmamalıdır. Çocuk doğurma potansiyeli olan kadınlar,
+LYNPARZA tedavisine başlamadan önce, tedavi sırasında ve son LYNPARZAdozunu aldıktan
+sonra 1 ay boyunca iki adet güvenilir kontrasepsiyon yöntemi kullanmalıdır. İki adet yüksek
+etkili ve tamamlayıcı kontrasepsiyon yöntemi önerilmektedir. Erkek hastalar ve çocuk doğurma
+potansiyeli olan kadın partnerleri, tedavi sırasında ve son LYNPARZA dozunu aldıktan sonra
+3 ay boyunca güvenilir bir kontrasepsiyon yöntemi kullanmalıdır (bkz. Bölüm 4.6).
+Etkileşimler
+LYNPARZA’nın güçlü veya orta derecede güçlü CYP3A inhibitörleri ile eşzamanlı
+uygulanması önerilmemektedir (bkz. Bölüm 4.5). Eğer güçlü veya orta derecede güçlü bir
+CYP3A inhibitörü ile eşzamanlı uygulanması gerekiyorsa, LYNPARZA dozu azaltılmalıdır
+(bkz. Bölüm 4.2 ve Bölüm 4.5).
+LYNPARZA’nın güçlü veya orta derecede güçlü CYP3A indükleyicileri ile eşzamanlı
+uygulanması önerilmemektedir. Eğer halihazırda LYNPARZA almakta olan bir hastanın, güçlü
+veya orta derecede güçlü bir CYP3A indükleyicisi ile tedavi edilmesi gerekiyorsa, hekim,
+LYNPARZA’nın etkisinin önemli ölçüde azalacağını bilmelidir (bkz. Bölüm 4.5).
+Bu tıbbi ürün her tablette 1 mmol’den (23 mg) daha az sodyum içerir, dolayısıyla esasında
+“sodyum içermediği” kabul edilebilir.
+4.5. Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+Farmakodinamik etkileşimler
+DNA’ya zarar veren ilaçlar da dahil olmak üzere diğer anti-kanser ilaçları ile kombinasyon
+halinde olaparibin incelendiği klinik çalışmalar, miyelosupresif toksisitenin arttığına ve
+süresinin uzadığına işaret etmektedir. Önerilen LYNPARZA monoterapi dozu, miyelosupresif
+anti-kanser tıbbi ürünleri ile kombinasyon için uygun değildir.
+Olaparibin aşılar veya immunosupresan ilaçlar ile kombinasyonu çalışılmamıştır. Bu nedenle,
+eğer bu ilaçlar LYNPARZA ile eşzamanlı kullanılıyorsa, dikkatli olunmalı ve hastalar yakından
+takip edilmelidir.
+Farmakokinetik etkileşimler
+Diğer ilaçların olaparib üzerindeki etkisi
+CYP3A4/5’ler, ağırlıklı olarak olaparibin metabolik klirensinden sorumlu olan izoenzimlerdir.
+Bilinen bir CYP3A inhibitörü olan itrakonazolün etkisini değerlendirmek için yürütülen bir
+klinik çalışmada, olaparib ile eşzamanlı uygulama durumunda ortalama olaparib Cmaks
+değerinin %42 (%90 GA: %33-52) ve ortalama EAA değerinin %170 (%90 GA: %144-197)
+arttığı gösterilmiştir. Bu nedenle, bu enzimin bilinen güçlü (örn., itrakonazol, telitromisin,
+klaritromisin, kobisistat, boseprevir, telaprevir veya ritonavir ile güçlendirilen proteaz
+inhibitörleri) veya orta derecede güçlü (örn., eritromisin, diltiazem, flukonazol, verapamil)
+inhibitörlerinin LYNPARZA ile kullanılması önerilmemektedir (bkz. Bölüm 4.4). Eğer
+LYNPARZA’nın güçlü veya orta derecede güçlü CYP3A inhibitörleri ile eşzamanlı
+kullanılması gerekiyorsa, LYNPARZA dozu azaltılmalıdır. LYNPARZA güçlü bir CYP3A
+inhibitörü ile eşzamanlı kullanılacaksa, LYNPARZA dozunun günde iki kez 100 mg’a
+(200 mg’lık toplam günlük doza eşdeğer) veya orta derecede güçlü bir CYP3A inhibitörü ilekullanılacaksa günde iki kez 150 mg’a (300 mg’lık toplam günlük doza eşdeğer) azaltılması
+önerilir (bkz. Bölüm 4.2 ve Bölüm 4.4). Ayrıca, LYNPARZA tedavisi sırasında, bir CYP3A
+inhibitörü olduğundan greyfurt suyunun tüketilmemesi önerilir.
+Bilinen bir CYP3A indükleyicisi olan rifampisinin etkisini değerlendirmek için yürütülen bir
+klinik çalışmada, olaparib ile eşzamanlı uygulama durumunda ortalama olaparib C
+maks
+değerinin %71 (%90 GA: %76-67) ve ortalama EAA değerinin %87 (%90 GA: %89-84)
+azaldığı gösterilmiştir. Bu nedenle, bu enzimin bilinen güçlü indükleyicilerinin (örn., fenitoin,
+rifampisin, rifapentin, karbamazepin, nevirapin, fenobarbital ve sarı kantaron) LYNPARZA ile
+kullanılması önerilmemektedir; çünkü LYNPARZA’nın etkililiğinin önemli ölçüde azalma
+ihtimali bulunmaktadır. Orta ila güçlü indükleyicilerin (örn., efavirenz, rifabutin) olaparib
+maruziyeti üzerindeki etkilerinin boyutu belirlenmemiştir, dolayısıyla LYNPARZA’nın bu
+ilaçlarla birlikte uygulanması önerilmemektedir (bkz. Bölüm 4.4).
+Olaparibin diğer ilaçlar üzerindeki etkileri
+Olaparib in vitro olarak CYP3A4'ü inhibe eder ve in vivo olarak hafif CYP3A inhibitörü olduğu
+tahmin edilmektedir. Bu nedenle, duyarlı CYP3A substratları veya dar terapötik indekse sahip
+substratlar (örn., simvastatin, sisaprid, siklosporin, ergot alkaloidleri, fentanil, pimozid,
+sirolimus, takrolimus ve ketiapin) LYNPARZA ile kombine edildiğinde dikkatli olunmalıdır.
+Dar terapötik indekse sahip CYP3A substratları ile eşzamanlı olarak LYNPARZA kullanan
+hastaların uygun klinik izlemi önerilmektedir.
+CYP1A2, 2B6 ve 3A4'ün indüklenmesi in vitro olarak gösterilmiştir, klinik olarak anlamlı
+boyutta indüklenmesi en muhtemel olan CYP2B6'dır. Olaparibin CYP2C9, CYP2C19 ve P-
+gp'yi indükleme potansiyeli de göz ardı edilemez. Bu nedenle, birlikte uygulandığında olaparib,
+bu metabolik enzimlerin substratlarına maruziyeti ve taşıyıcı proteinleri azaltabilir. Bazı
+hormonal kontraseptiflerin etkililiği, olaparib ile birlikte uygulandığında azalabilir (ayrıca bkz.
+Bölüm 4.4 ve 4.6).
+In vitro olarak, olaparib, eflüks taşıyıcısı P-gp'yi (IC50 = 76µM) inhibe eder, bu nedenle,
+olaparib'in P-gp substratları (örn., Simvastatin, pravastatin, dabigatran, digoksin ve kolşisin) ile
+klinik olarak anlamlı ilaç etkileşimlerine neden olabileceği göz ardı edilemez. Eş zamanlı olarak
+bu tip tıbbi ürünleri alan hastalar için uygun klinik izlem önerilmektedir.
+İn vitro olarak, olaparibin BCRP, OATP1B1, OCT1, OCT2, OAT3, MATE1 ve MATE2K'nin
+bir inhibitörü olduğu gösterilmiştir. Olaparibin BCRP (örn. metotreksat, rosuvastatin),
+OATP1B1 (örn. bosentan, glibenklamid, repaglinid, statinler ve valsartan), OCT1 (örn.
+metformin), OCT2 (örn. serum kreatinin), OAT3 (örn. furosemid ve metotreksat), MATE1
+(örn. metformin) ve MATE2K (örn. metformin) substratlarına maruziyeti arttırabileceği göz
+ardı edilemez. Olaparib, özellikle bir statin ile kombinasyon halinde verildiğinde dikkatli
+olunmalıdır.
+Anastrozol, letrozol ve tamoksifen ile kombinasyon
+Olaparib ile anastrozol, letrozol veya tamoksifen kombinasyonunu değerlendirmek için klinik
+bir çalışma yapılmıştır. Anastrozol veya letrozol ile anlamlı etkileşim gözlenmezken,
+tamoksifen olaparibe maruziyeti % 27 oranında azaltmıştır. Bu etkinin klinik anlamlılığı
+bilinmemektedir. Olaparib, tamoksifenin farmakokinetiğini etkilemez.4.6. Gebelik ve laktasyon
+Genel tavsiye
+Gebelik Kategorisi: D
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon)
+Çocuk doğurma potansiyeli bulunan kadınların, LYNPARZA tedavisi gördükleri süre boyunca
+gebe kalmamaları ve tedaviye başladıklarında gebe olmamaları gerekir. Tedavi öncesinde
+çocuk doğurma potansiyeli olan tüm kadınlara hamilelik testi yapılmalı ve tedavi süresince
+düzenli olarak testin yapılması göz önünde bulundurulmalıdır.
+Çocuk doğurma potansiyeli olan kadınlar, LYNPARZA tedavisine başlamadan önce, tedavi
+sırasında ve son LYNPARZA dozunu aldıktan sonra 1 ay boyunca, seçilen kontrasepsiyon
+yöntemi cinsel perhiz olmadıkça, iki adet güvenilir kontrasepsiyon yöntemi kullanmalıdır (bkz.
+Bölüm 4.4). İki adet yüksek etkili ve tamamlayıcı kontrasepsiyon yöntemi önerilmektedir.
+Olaparibin enzim indüksiyonu yoluyla CYP2C9 substratlarına maruziyeti azaltabileceği göz
+ardı edilemeyeceğinden, olaparib ile birlikte uygulandığında bazı hormonal kontraseptiflerin
+etkinliği azalabilir. Bu nedenle, tedavi sırasında ek bir hormonal olmayan kontraseptif yöntem
+uygulanması düşünülmelidir (bkz. bölüm 4.5). Hormona bağlı kanseri olan kadınlar için iki adet
+hormonal olmayan kontraseptif yöntem düşünülmelidir.
+Erkeklerde kontrasepsiyon
+Olaparib veya metabolitlerinin seminal sıvıya geçip geçmediği bilinmemektedir. Erkek hastalar
+tedavi sırasında ve son LYNPARZA dozunu almalarını takip eden 3 ay süresince hamile veya
+çocuk doğurma potansiyeline sahip olan bir kadınla girilen cinsel ilişki sırasında prezervatif
+kullanmalıdır. Aynı zamanda erkek hastaların kadın partnerleri de çocuk doğurma potansiyeline
+sahip olmaları durumunda yüksek düzeyde etkili bir doğum kontrol yöntemi uygulamalıdır
+(bkz. bölüm 4.4). Erkek hastalar tedavi sırasında ve son LYNPARZA dozunu almalarını takip
+eden 3 ay süresince sperm bağışı yapmamalıdır.
+Gebelik dönemi
+Olaparibin gebelik ve/veya fetus/yeni doğan üzerinde zararlı farmakolojik etkileri
+bulunmaktadır. Hayvanlar ile gerçekleştirilen çalışmalarda, sıçanlar üzerinde, insanlarda
+kullanılan terapötik dozlardan daha düşük maternal sistemik maruziyetlerde, ciddi teratojenik
+etkiler ve embriyofetal sağkalım üzerindeki etkileri içeren üreme toksisitesi gösterilmiştir (bkz.
+Bölüm 5.3). Olaparibin gebe kadınlarda kullanımına ilişkin veri bulunmamaktadır; ancak
+olaparibin etki mekanizmasına dayanılarak, LYNPARZA gebelik döneminde ve çocuk
+doğurma potansiyeli olup tedavi süresince ve LYNPARZA’nın son dozunu aldıktan sonra bir
+ay süreyle güvenilir bir doğum kontrol yöntemi uygulamayan kadınlarda kullanılmamalıdır
+(Doğum kontrolü ve gebelik testi hakkında daha fazla bilgi için yukarıdaki “Çocuk doğurma
+potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon)” bölümüne bakınız).
+Laktasyon dönemi
+Olaparibin süt ile atıldığına ilişkin hayvan çalışması bulunmamaktadır. Olaparibin veya
+metabolitlerinin insan sütü ile atılıp atılmadığı bilinmemektedir. Ürünün farmakolojik özelliği
+göz önünde bulundurulduğunda, emzirme süresince ve son doz alındıktan sonra bir ay boyunca
+LYNPARZA kontrendikedir (bkz. Bölüm 4.3).Üreme yeteneği/Fertilite
+Fertilite hakkında klinik veri bulunmamaktadır. Hayvanlar üzerinde gerçekleştirilen
+çalışmalarda konsepsiyon üzerinde bir etki gözlenmemiştir; ancak embriyofetal sağkalım
+üzerinde advers etkiler söz konusudur (bkz. Bölüm 5.3).
+4.7. Araç ve makine kullanımı üzerindeki etkiler
+LYNPARZA’nın araç ve makine kullanma becerisi üzerinde orta derecede bir etkisi
+bulunmaktadır. LYNPARZA ile tedavi sırasında asteni, yorgunluk veya sersemlik hali
+bildirilmiştir. Bu semptomları yaşayan hastalar araç veya makine kullanırken dikkatli olmalıdır.
+4.8. İstenmeyen etkiler
+Güvenlilik profilinin özeti
+LYNPARZA monoterapisi genellikle hafif veya orta derece şiddetli olan (CTCAE derece 1
+veya 2) ve genellikle tedavinin kesilmesini gerektirmeyen advers reaksiyonlar ile
+ilişkilendirilmiştir. Tüm klinik çalışmalarda LYNPARZA monoterapisi (≥%10) alan hastalarda
+en sık gözlenen advers reaksiyonlar; bulantı, bitkinlik, anemi, kusma, diyare, iştah azalması,
+baş ağrısı, disguzi, öksürük, nötropeni, dispne, baş dönmesi, dispepsi, lökopeni ve
+trombositopeni olmuştur.
+Hastaların >2’sinde ortaya çıkan Derece ≥3 advers reaksiyonlar anemi (%15), nötropeni (%5),
+bitkinlik/asteni (%4), lökopeni (%3) ve trombositopeni (%2) olmuştur.
+Monoterapide doza ara verilmesine ve/veya azaltılmasına en yaygın şekilde neden olan advers
+reaksiyonlar anemi (%16), kusma (%6), bulantı (%7), bitkinlik/asteni (%6) ile nötropeni (%6)
+olmuştur. İlacın kalıcı şekilde bırakılmasına en yaygın şekilde neden olan advers reaksiyonlar
+anemi (%1,7), trombositopeni (%0,7), bitkinlik/asteni (%0,8),bulantı (%0,9), nötropeni (%0.6)
+ve kusma (%0.5) olmuştur.
+Lynparza over kanseri için bevacizumab ile kombinasyon veya prostat kanseri için abirateron
+ve prednizon veya prednizolon ile kombinasyon şeklinde kullanıldığında, güvenlilik profili
+genellikle tedavilerin tek başına sergiledikleri güvenlik profili ile uyumludur.
+Advers olaylar, bevasizumab ile birlikte kullanıldığında hastaların %57sinde doza ara
+verilmesine ve/veya azaltılmasına yol açmış ve hastaların %21’inde olaparib/bevasizumab ve
+%6'sında plasebo/bevasizumab ile tedavinin kalıcı olarak kesilmesine yol açmıştır. Doz
+duraklatmaya ve/veya doz azaltmaya en sık neden olan advers olaylar anemi (%21,7), bulantı
+(%9,5), halsizlik/asteni (%5,4), kusma (%3,7), nötropeni (%3,6), trombositopeni (%3,0) ve
+diyare (%2,6) idi. Dozun kalıcı olarak kesilmesine en sık neden olan advers reaksiyonlar anemi
+(%3,7), bulantı (%3,6) ve halsizlik/asteni (%1,5) idi.
+Advers olaylar abirateron ile kombine kullandığında hastaların %50,7'sinde olaparib dozunun
+duraklatılmasına ve/veya azaltılmasına ve hastaların %19,0 ve %8,8'inde sırasıyla
+olaparib/abirateron ve plasebo/abirateron tedavisinin kalıcı olarak kesilmesine neden olmuştu.
+Doz duraklatmaya ve/veya doz azaltmaya en sık neden olan advers olaylar anemi (%17,1),
+halsizlik/asteni (%5,5), bulantı (%4,1), nötropeni (%3,4), kusma (%2,3), diyare (%2,1) ve
+venöz trombotik olaylar (%2,1) idi. Dozun kalıcı olarak kesilmesine en sık neden olan advers
+reaksiyonlar anemi (%4,5), ve halsizlik/asteni (%1,3) idi.Advers reaksiyonların listesi
+Güvenlilik profili, klinik çalışmalarda terapötik endikasyonda önerilen dozda solid tümörlerle
+LYNPARZA monoterapisi ile tedavi edilen 4098 hastaya ait veri havuzuna dayanmaktadır.
+Hasta maruziyetinin bilindiği LYNPARZA monoterapisi alan hastaların incelendiği klinik
+çalışmalarda aşağıdaki advers reaksiyonlar tanımlanmıştır. Advers ilaç reaksiyonları MedDRA
+Sistem Organ Sınıfına (SOC) ve ardından MedDRA tercih edilen terime göre listelenmektedir.
+Her bir SOC içinde terimler azalan sıklığa ve sonrasında azalan ciddiyet derecesine göre
+düzenlenmiştir. Sıklıklar şu şekilde tanımlanmaktadır: Çok yaygın (≥1/10); yaygın (≥1/100 ila
+<1/10); yaygın olmayan (≥1/1.000 ila <1/100); seyrek (≥1/10.000 ila <1/1.000); çok seyrek
+(<1/10.000); bilinmiyor (eldeki verilerden hareketle tahmin edilemiyor).
+Tablo 1.LYNPARZA için bildirilen advers reaksiyonların listesi
+Advers reaksiyonlar
+MedDRA Sistem Tüm CTCAE derecelerinin CTCAE derece ≥3 sıklığı
+Organ Sınıfı sıklığı
+Benign, malign ve Yaygın olmayan Yaygın olmayan
+tanımlanmamış Miyelodisplastik sendrom/ Akut Miyelodisplastik sendrom/ Akut
+(kist ve polipler miyeloid lösemia miyeloid lösemi
+dahil) neoplaziler
+Kan ve lenfatik Çok yaygın Çok yaygın
+sistem hastalıkları Anemia, Nötropenia, Lökopenia Anemia
+Yaygın Yaygın
+Lenfopenia Trombositopenia, Nötropenia, Trombositopenia, Lökopenia
+Lenfopenia
+İmmün sistem Yaygın olmayan Seyrek
+hastalıkları Aşırı duyarlılıka, Aşırı duyarlılıka
+Seyrek
+Anjiyoödem*
+Hepatobiliyer Yaygın
+hastalıkları Transaminazlarda artışa
+Bilinmiyor
+İlaca bağlı karaciğer hasarı*
+Metabolizma ve Çok yaygın Yaygın olmayan
+beslenme İştahsızlık İştahsızlık
+bozuklukları
+Sinir sistemi Çok yaygın Yaygın olmayan
+hastalıkları Baş dönmesi, Baş ağrısı, Tat alma Baş dönmesi, Baş ağrısı
+duyusunda değişiklik a
+Solunum, göğüs Çok yaygın Yaygın
+bozuklukları ve Öksürüka, Dispnea Dispnea
+mediastinal Yaygın olmayan
+h astalıklar ÖksürükaGastrointestinal Çok yaygın Yaygın
+hastalıklar Kusma, Diyare, Bulantı, Dispepsi Kusma, Bulantı
+Yaygın Yaygın olmayan
+Stomatita, Üst abdominal ağrı Stomatita, Diyare
+Seyrek
+Dispepsi, Üst abdominal ağrı
+Deri ve deri altı Yaygın Yaygın olmayan
+dokusu Döküntüa Döküntüa
+bozuklukları Yaygın olmayan
+Dermatita Seyrek
+Seyrek D ermatita
+Eritema nodozum
+Genel bozukluklar Çok yaygın Yaygın
+ve uygulama yerine Yorgunluk (asteni dahil) Yorgunluk (asteni dahil)
+ilişkin hastalıklar
+Araştırmalarb Yaygın Seyrek
+Kanda kreatinin artışı Kanda kreatinin artışı
+Yaygın olmayan
+Ortalama hücre hacmi artışı
+Vasküler Yaygın Yaygın
+bozukluklar Venöz tromboembolizma Venöz tromboembolizma
+a MDS/AML'nin tercih edilen terimleri (PTs); akut miyeloid lösemi, miyelodisplastik sendrom ve
+miyeloid lösemidir.
+Anemi nin tercih edilen terimleri (PTs), anemi, makrositik anemi, eritropeni, hematokrit azalması,
+hemoglobin azalması, normokromik anemi, normokromik normositik anemi, normositik anemi ve
+kırmızı kan hücresi sayımında azalmadır tercih edilen terimlerini (PT'lerini) içerir; Nötropeni’ nin tercih
+edilen terimleri (PTs), febril nötropeni, nötropeni, nötropenik enfeksiyon, nötropenik sepsis ve nötrofil
+sayısında azalmadır.Trombositopeni, trombosit sayısında azalmave trombositopeni gibi PT'leri
+içerir.Lökopeni; lökopeni PT’lerini ve azalmış beyaz kan hücresi sayısını içerir; Lenfopeni, lenfosit
+sayısının azalması ve lenfopeni gibi PT'leri içerir.; Öksürük, öksürük ve balgamlı öksürük PT'lerini
+içerir; Aşırı duyarlılık, ilaç aşırı duyarlılığı ve aşırı duyarlılık PT'lerini içerir; Transaminaz artışı'nın
+tercih edilen terimleri (PTs); alanin aminotransferaz artışı, aspartat aminotransferaz artışı, hepatik enzim
+artışı ve hipertransaminazemidir.Tat alma bozukluğu;tat alma bozukluğu ve tat alma bozukluğunun
+PT'lerini içerir. Dispne, dispne ve eforla dispne PT'lerini içerir; Stomatit, aftöz ülser, ağız ülseri ve
+stomatit PT'lerini içerir; Döküntü, eksfolyatif döküntü, yaygın eritem, döküntü, eritematöz döküntü,
+yaygın döküntü, maküler döküntü, makülo-papüler döküntü, papüler döküntü ve kaşıntılı döküntü
+PT'lerini içerir; Dermatit, dermatit, alerjik dermatit ve eksfolyatif dermatit PT'lerini içerir. Venöz
+tromboembolizm; emboli, pulmoner emboli, tromboz, derin ven trombozu, venakava trombozu ve venöz
+trombozun PT'lerini içerir.
+b Kayıtlı laboratuvar verileri aşağıda sunulmaktadır: Hematolojik toksisite ve diğer laboratuvar bulguları
+* Pazarlama sonrası ortamda gözlemlendiği gibi
+Seçili advers reaksiyonların tanımı
+Hematolojik toksisite
+Anemi ve diğer hematolojik toksisiteler genellikle düşük dereceli (CTCAE derece 1 veya 2)
+idi, ancak CTCAE derece 3 ve daha yüksek olaylar bildirilmiştir. Anemi ve diğer hematolojik
+toksisiteler genellikle düşük dereceli (CTCAE derece 1 veya 2) idi, ancak CTCAE derece 3 ve
+daha yüksek olaylar bildirilmiştir. Aneminin ilk başlangıcına kadar geçen medyan süre yaklaşık4 hafta idi (CTCAE derece ≥ 3 olaylar için yaklaşık 7 hafta). Anemi, doz kesintileri ve dozun
+azaltılması ile (bölüm 4.2'ye bakınız) ve uygun olduğu durumlarda kan transfüzyonu ile kontrol
+altına alınmıştır. Tablet formülasyonuyla gerçekleştirilen klinik çalışmalarda anemi advers
+reaksiyonlarının insidansı %35,2 olmuştur (CTCAE derece ≥3 %14,8), anemi nedeniyle doza
+ara verme, doz azaltma ve kesme insidansları ise sırasıyla %16,4, %11,1 ve %2,1 olmuştur;
+olaparib ile tedavi edilen hastaların %15,6’sı bir veya daha fazla kan transfüzyonuna ihtiyaç
+duymuştur. Olaparib ve hemoglobin düşüşleri arasında bir maruziyet-yanıt ilişkisi
+kanıtlanmıştır. LYNPARZA ile yapılan klinik çalışmalarda, hemoglobinde başlangıca göre
+CTCAE derece ≥2 kaymaların (azalmalar) insidansı %21, mutlak nötrofillerde bu oran %17,
+trombositlerde %5, lenfositlerde %26 ve lökositlerde %19 (hepsi yaklaşık %) idi.
+Başlangıçta düşük veya normal olan ortalama eritrosit hacminin ULN’nin üzerine çıktığı
+vakaların insidansı yaklaşık %51’di. Tedavi kesildikten sonra seviyelerin normale döndüğü ve
+bu durumun herhangi bir klinik sonuç doğurmadığı görülmüştür.
+Tedavi sırasında herhangi bir parametrede klinik açıdan anlama sahip olan ve doza ara
+verilmesini, dozun azaltılmasını ve/veya ilave tedavi uygulanmasını gerektirebilecek değişiklik
+ortaya çıkıp çıkmadığının takip edilmesi için başlangıçta test yapılması ve tedavinin ilk 12 ayı
+boyunca her ay ve sonrasında periyodik olarak tam kan sayımı takibi yapılması önerilir (bkz.
+bölüm 4.2 ve 4.4).
+Miyelodisplastik sendrom/Akut miyeloid lösemi
+MDS/AML, monoterapi klinik çalışmalarında tüm endikasyonlarda (%0,8) terapötik dozda
+yaygın olmayan şekilde meydana gelen ciddi advers reaksiyonlardır. İnsidans, uzun süreli
+güvenlilik takibi sırasında bildirilen olaylar dahil %0,5 olmuştur (klinik çalışmalarda en az bir
+doz oral olaparibe maruz kalan 17923hastalık genel güvenlilik popülasyonuna göre
+hesaplanmış olan oran). Tüm hastalar, daha önce platin bazlı ajanlarla kemoterapi almış olup
+MDS/AML gelişimi için potansiyel katkıda bulunan faktörlere sahipti. Birçoğu ayrıca DNA'ya
+zarar veren başka ajanlar ve radyoterapi almıştı. Raporların çoğunluğu germ hattı meme kanseri
+duyarlılığı geni 1 veya 2 (gBRCA1/2) mutasyonunun taşıyıcıları ile ilgiliydi. MDS/AML
+olgularının insidansı gBRCA1m ve gBRCA2m hastaları arasında benzerdi (sırasıyla %1,6 ve
+%1,2). Hastaların bazılarında kanser veya kemik iliği displazisi öyküsü vardı.
+Önceden en az iki basamak platin kemoterapi görmüş ve hastalık progresyonuna kadar çalışma
+tedavisi almış (SOLO2 Çalışması, hastaların %45'i ≥ 2 yıl olaparib tedavisi almıştır) BRCAm
+platin duyarlı nüks etmiş yumurtalık kanserli hastalarda MDS/AML insidansı, 5 yıllık takipte
+olaparib alan hastalarda %8 ve plasebo alan hastalarda %4 olmuştur. Olaparib kolunda, 16
+MDS/AML olgusundan 9'u, sağkalım takibi sırasında olaparibin kesilmesinden sonra meydana
+gelmiştir. MDS/AML insidansı, olaparib kolunda uzatılmış genel sağkalım ve geç başlangıçlı
+MDS/AML bağlamında gözlenmiştir. MDS/AML riski, olaparib idame tedavisi 2 yıllık bir süre
+boyunca bir basamak platin kemoterapisinden sonra verildiğinde birinci basamakta 5 yıllık
+takipte <%1,5 olarak kalmaktadır (SOLO1 Çalışması’nda %1,2 ve PAOLA-1 Çalışması’nda
+%0,7). Risk azaltma ve yönetimi için bölüm 4.4'e bakın.
+Venöz Tromboembolik Olaylar
+mCRPC için birinci basamak tedavi olarak olaparib artı abirateron alan erkeklerde (PROpel
+çalışması), venöz tromboembolik olayların insidansı, olaparib artı abirateron kolunda %8 ve
+plasebo artı abirateron kolunda %3,3’tü. Bu çalışmada başlangıca kadar geçen medyan süre 170gündü (aralık: 12 ila 906 gün). Hastaların büyük çoğunluğu olaydan kurtulmuş ve standart tıbbi
+tedavi ile olaparibe devam edebilmiştir.
+Önemli kardiyovasküler hastalığı olan hastalar çalışma dışı bırakılmıştır. Kardiyovasküler hariç
+bırakma kriterleri için lütfen abirateron ürün bilgilerine bakınız (bölüm 4.4).
+Diğer laboratuvar bulguları
+LYNPARZA ile yapılan klinik çalışmalarda, kandaki kreatinin seviyesinde başlangıca göre
+ortaya çıkan CTCAE derece ≥2 kaymaların (artışlar) insidansı yaklaşık %11’di. Çift kör
+plasebo kontrollü çalışmadan elde edilen veriler, başlangıca kıyasla %23’e varan medyan artış
+ortaya koymuştur ve bu artış zaman içinde tutarlılık sergilemiş, tedavi durdurulduktan sonra ise
+belirgin bir klinik sekel bırakmadan başlangıç değerine geri dönmüştür. Başlangıç noktasında
+hastaların %90’ının kreatinin değerleri CTCAE derece 0 olup, başlangıçta CTCAE derece 1
+olanların oranının ise %10 olduğu görülmüştür.
+Gastrointestinal toksisiteler
+Bulantı genellikle çok erken dönemde bildirilmiş olup, ilk başlama zamanı hastaların
+çoğunluğunda LYNPARZA tedavisinin ilk bir ayı içerisindedir. Kusma da erken dönemde
+bildirilmiş olup, ilk başlama zamanı hastaların çoğunluğunda LYNPARZA tedavisinin ilk iki
+ayı içerisindedir. Gerek bulantı gerekse kusmanın hastaların çoğunluğunda aralıklı olduğu ve
+dozlara ara verme, dozun azaltılması ve/veya antiemetik tedavi ile kontrol edilebildiği
+bildirilmiştir. Antiemetik profilaksi gerekmemektedir.
+Birinci basamak over kanseri idame tedavisinde, hastalar bulantı olayları (olaparible %77,
+plaseboyla%38), kusma (olaparible %40, plaseboyla %15), ishal (olaparible %34, plaseboyla
+%25) ve dispepsi (olaparible %17, plaseboyla %12) yaşamıştır. Bulantı olayları olaparible
+tedavi uygulanan hastaların %2,3'ünde (CTCAE Derece 2) ve plasebo ile tedavi uygulanan
+hastaların %0,8'inde (CTCAE Derece 1) ilacın kesilmesine neden olmuştur; olaparible tedavi
+uygulanan hastaların %0,8'i ve %0,4'ü, sırasıyla düşük dereceli (CTCAE Derece 2) kusma ve
+dispepsi nedeniyle tedaviyi bırakmıştır.
+Olaparib veya plasebo ile tedavi edilen hiçbir hasta, ishal nedeniyle tedaviyi bırakmamıştır.
+Plasebo ile tedavi edilen hiçbir hasta, kusma veya dispepsi nedeniyle tedaviyi bırakmamıştır.
+Bulantı olayları, olaparible tedavi edilen hastaların %14’ünde ve %4'ünde sırasıyla doza ara
+verilmesine ve dozun azaltılmasına neden olmuştur. Kusma olayları olaparible tedavi
+uygulanan hastaların %10'unda tedavinin duraklatılmasına neden olmuştur; olaparible tedavi
+uygulanan hiçbir hasta dozun azalmasına neden olan bir kusma olayı yaşamamıştır.
+Özel popülasyonlara ilişkin ek bilgiler:
+Pediyatrik popülasyon:
+Pediatrik hastalarda çalışma gerçekleştirilmemiştir.
+Geriyatrik popülasyon:
+Yaşlılarda (≥ 75 yaş) sınırlı klinik veri mevcuttur.
+Diğer:
+Beyaz ırka mensup olmayan hastalar:
+Beyaz ırka mensup olmayan hastalarda sınırlı klinik veri mevcuttur.Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar / risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir (www.titck.gov.tr;
+e-posta: tufam@titck.gov.tr; tel: 0 800 314 00 08; faks: 0 312 218 35 99).
+4.9. Doz aşımı ve tedavisi
+Olaparible doz aşımı konusundaki deneyim sınırlıdır. İki günden fazla 900 mg’ye varan dozda
+olaparib tablet alan az sayıda hastada hiçbir beklenmeyen advers reaksiyon bildirilmemiştir.
+Doz aşımı belirtileri saptanmamıştır ve LYNPARZA doz aşımı durumunda özel bir tedavi
+yoktur. Doz aşımı söz konusu olduğunda, hekimler genel destekleyici önlemleri takip etmeli ve
+hastayı semptomatik tedavi etmelidir.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1. Farmakodinamik özellikler
+Farmakoterapötik grup: Antineoplastikler ve immunomodulatör ajanlar,antinoeplastik ajanlar,
+Poli (ADP-riboz) polimeraz(PARP) inhibitörleri
+ATC kodu: L01XK01
+Etki mekanizması ve Farmakodinamik etkiler:
+Olaparib, insan poli (ADP-riboz) polimeraz enzimlerinin (PARP-1, PARP-2 ve PARP-3) potent
+bir inhibitörüdür ve ister tek başına tedavi olarak ister mevcut kemoterapiler ile kombinasyon
+halinde in vitro koşullarda seçili tümör hücre dizilerinin büyümesini ve in vivo ortamda tümör
+büyümesini inhibe ettiği gösterilmiştir.
+PARP, DNA tek sarmal kırılmalarının etkin onarımı için gereklidir ve PARP kaynaklı onarımın
+önemli bir özelliği için kromatin modifikasyonu sonrasında PARP’nin kendi kendini modifiye
+etmesi ve DNA’dan ayrılarak baz eksizyon tamiri (BER) enzimlerinin erişimini kolaylaştırması
+gerekir. Olaparib, DNA bağlantılı PARP’ın aktif bölgesine bağlandığında PARP’ın ayrılmasını
+önler ve DNA’ya hapsederek onarımı bloke eder. Replike olan hücrelerde bu durum ayrıca
+replikasyon çatalı, PARP-DNA eklentileri ile karşılaştığında DNA çift sarmal kırılmaları
+(DSB’ler) oluşumuna da yol açar. Normal hücrelerde homolog rekombinasyon onarım (HRR)
+yolağı, bu DNA çift sarmal kırılmalarını onarmada etkilidir. BRCA1 veya 2 gibi HRR
+fonksiyonel bileşenleri olmayan kanserlerde DNA DSB’ler doğru veya etkili şekilde tamir
+edilemez. Bunun yerine genomik instabilitede artışa yol açan klasik homolog olmayan uç
+birleşmesi (NHEJ) mekanizması gibi, alternatif ve hataya eğilimli mekanizmalar aktive edilir.
+Birkaç replikasyon turunun ardından genomik instabilite desteklenebilir olmayan düzeylere
+ulaşabilir ve kanser hücreleri normal hücrelere kıyasla halihazırda daha yüksek bir DNA hasarı
+yüküne sahip olduğundan, bu durum kanser hücresinin ölümü ile sonuçlanabilir. Neden olan
+bozukluk ve etkinlik tam olarak açıklanmamış olmakla birlikte, BRCA1 veya BRCA2
+mutasyonlarının yokluğunda HRR mekanizması başka mekanizmalar tarafından bozulabilir.
+Tam fonksiyonel HRR mekanizmasının mevcut olmayışı overkanserlerinde ve diğer
+kanserlerde platin duyarlılığının kilit roldeki belirleyicilerinden biridir.
+BRCA1/2-eksikliği bulunan in vivo modellerde platin tedavisinden sonra verilen olaparib, tek
+başına platin tedavisine kıyasla tümör progresyonunda bir gecikme ve genel sağkalımda bir
+artış ortaya çıkarmıştır ve bunlar olaparib idame tedavisi periyodu ile korelasyon göstermiştir.NHA’lar ile kombine anti-tümör etkisi
+Prostat kanseri modellerinde yapılan klinik öncesi çalışmalarda, PARP inhibitörleri ve yeni
+nesil hormonal ajanlar birlikte uygulandığında birleşik bir anti-tümör etkisi bildirilmiştir.
+PARP, androjen reseptörü (AR) sinyalinin pozitif ortak regülasyonunda yer alır; bu, PARP/AR
+sinyali birlikte inhibe edildiğinde artan AR hedef gen supresyonuna yol açar. Diğer klinik
+öncesi çalışmalarda, NHA'larla yapılan tedavinin bazı HRR genlerinin transkripsiyonunu
+inhibe ettiği dolayısıyla HRR eksikliğini indüklediği ve genetik olmayan mekanizmalar yoluyla
+PARP inhibitörlerine karşı duyarlılığın arttığı bildirilmiştir.
+BRCA1/2 mutasyonunun tespiti
+Genetik testler, onaylanmış bir test kullanılarak deneyimli bir laboratuvar tarafından
+yapılmalıdır. Kan ve/veya tümör örnekleri üzerinde BRCA1/2 mutasyonları açısından lokal
+veya merkezi olarak uygulanan testler farklı çalışmalarda kullanılmıştır. Kullanılan teste ve
+uluslararası sınıflandırma konsensusuna bağlı olarak, BRCA1/2 mutasyonları zararlı/şüpheli
+zararlı veya patojenik/olası patojenik olarak sınıflandırılmıştır. Homolog rekombinasyon
+eksikliği (HRD) pozitif durumu, zararlı / şüpheli zararlı veya patojenik / muhtemelen patojenik
+olarak sınıflandırılan bir BRCA1 / 2 mutasyonunun saptanmasıyla tanımlanabilir.
+Bu mutasyonların tespiti, HRD pozitif durumunu belirlemek için pozitif HRD skoru ile
+birleştirilebilir.
+Genomik instabilitenin tespiti
+PAOLA-1'de araştırılan HR eksikliği ile ilişkili genomik değişiklikler, önceden tanımlanmış
+kriterleri ve puanı olan sürekli ölçümler olan genom çapında heterozigotluk kaybı, telomerik
+alelik dengesizlik ve büyük ölçekli geçişi içerir. Bileşik genomik kararsızlık skoru (GIS, HRD
+skoru olarak da adlandırılır), tümör hücrelerinde biriken spesifik genomik anormalliklerin
+kapsamını değerlendirmek için birleştirilmiş ölçümler ve ilgili skorlar kullanılarak belirlenir.
+Daha düşük puan, DNA'ya zarar veren ajanlara maruz kalmaya göre numune alma sırasında
+tümör hücrelerinin HR eksikliği olasılığının daha düşük olduğunu tanımlar ve daha yüksek
+puan, tümör hücrelerinin HR eksikliği olasılığının daha yüksek olduğunu belirler. GIS pozitif
+durumunu belirlemek için valide edilmiş kesme noktaları kullanılmalıdır.
+HRD pozitif durumu, valide edilmiş bir test kullanılarak deneyimli bir laboratuvar tarafından
+test edilen HR eksikliği ile ilişkili genomik değişiklikler için birleşik bir GIS puanı ile
+tanımlanabilir.
+Klinik etkililik ve güvenlilik
+BRCA mutasyonlu ileri over kanserinin birinci basamak idame tedavisi:
+SOLO1 Çalışması
+Bir Faz III randomize, çift kör, plasebo kontrollü çok merkezli çalışmada birinci basamak platin
+bazlı kemoterapinin tamamlanmasının ardından olaparibin idame tedavisi olarak güvenliliği ve
+etkililiği yeni tanı konmuş ilerlemiş (FIGO Evre III-IV) yüksek dereceli seröz veya
+endometroid BRCA1//2 mutasyonlu (mBRCA1//2) over kanseri hastalarında araştırılmıştır. Bu
+çalışmada 391 hasta LYNPARZA (günde iki defa 300 mg [2 x 150 mg tablet]) veya plaseboalmak üzere 2/1 oranında randomize edilmiştir. Hastalar birinci basamak platin kemoterapisine
+verilen yanıta göre tam yanıt (CR) ve kısmi yanıt (PR) şeklinde basamaklandırılmıştır. Altta
+yatan hastalığın radyolojik progresyonuna, kabul edilemez toksisiteye veya 2 yıla kadar
+tedaviye devam edilmiştir. Tam klinik yanıt durumunda kalan (yani, radyolojik hastalık kanıtı
+olmayan) hastalar için maksimum tedavi süresi 2 yıl olarak belirlenmiştir; bununla birlikte,
+stabil kalan bir hastalık kanıtı olan (yani, hastalık progresyonuna dair kanıt bulunmayan)
+hastalar, 2 yıldan uzun süre LYNPARZA almaya devam edebilmiştir.
+Germ hattı veya somatik BRCA1/2 mutasyonları görülen hastalar ya lokal bir test (n=208) veya
+merkezi bir test (n=181) yoluyla kanda germ hattı testinden ya da lokal bir test kullanılarak bir
+tümör numunesinin test edilmesinden (n=2) prospektif şekilde tespit edilmiştir. Merkezi germ
+hattı testinde, patojen veya olası patojen mutasyonlar, hastaların sırasıyla %95,3'ünde (365/383)
+ve %4,7'sinde (18/383) tespit edilmiştir. Randomize edilen hastaların %5,5’inde (21/383)
+BRCA1/2 genlerinde büyük yeniden düzenlenmeler tespit edilmiştir. Yerel test yoluyla
+kaydedilen hastaların gBRCAm durumu merkezi testle retrospektif şekilde doğrulanmıştır.
+Tümör örnekleri mevcut olan hastalara uygulanan retrospektif testler merkezi test kullanılarak
+gerçekleştirilmiştir ve %95'inde uygun bir mutasyon bulunan (bilinen [n = 47] veya muhtemel
+patojenik [n = 277]) 341 hastada başarılı sonuçlar elde edilmiştir ve 2 gBRCAwt hastasının
+sadece sBRCAm taşıdığı doğrulanmıştır. SOLO1'de BRCA1/2m germ hattı görülen 389 hasta
+tespit edilmiştir ve bunların 2'sinin somatik BRCA1/2m olduğu görülmüştür.
+Demografik özellikler ve başlangıç özellikleri olaparib ve plasebo tedavisi kolları arasında
+genel olarak iyi bir denge sergilemiştir. Medyan yaşın her iki kolda 53 olduğu belirlenmiştir.
+Over kanserinin hastaların %85’inde primer tümör olduğu görülmüştür. En yaygın histolojik
+tipin seröz (%96) olduğu görülmüştür, hastaların %2’sinde endometrioid histoloji bildirilmiştir.
+Çoğu hastanın ECOG performans durumu 0 olarak belirlenmiştir (%78), performans durumu 2
+ila 4 olan hastalarda herhangi bir veri mevcut değildir. Hastaların yüzde altmış üçüne (%63)
+önceden tümör rezeksiyon cerrahisi uygulanmış olduğu belirlenmiştir ve bunların
+çoğunluğunda (%75) makroskobik rezidüel hastalık gözlenmemiştir. Hastaların %35’ine
+aralıklı tümör rezeksiyon cerrahisi uygulanmıştır ve bunların %82’sinde makroskobik rezidüel
+hastalık bildirilmemiştir. Tümü evre IV olan yedi hastaya sitoredüktif cerrahi uygulanmamıştır.
+Tüm hastalar birinci basamak platin bazlı tedavi görmüştür. Çalışmaya girişte olaparib ve
+plasebo kollarındaki hastaların %73'ünde ve %77'sinde, araştırmacı tarafından sırasıyla
+radyolojik hastalık kanıtı bulunmaması ve kanser antijeni 125’in (CA-125) normal aralıkta
+olması şeklinde tanımlandığı üzere, hastalık kanıtı gözlenmemiştir (CR). Başlangıçta ölçülebilir
+veya ölçülemez lezyonların varlığı veya yüksek CA-125 şeklinde tanımlanan PR, olaparib ve
+plasebo kollarındaki hastaların sırasıyla %27'sinde ve %23'ünde bildirilmiştir. Hastaların yüzde
+doksan üçü (%93) son platin bazlı kemoterapi dozunu takip eden 8 hafta içinde randomize
+edilmiştir. Bevasizumab ile tedavi uygulanan hastalar çalışma dışı bırakılmıştır, dolayısıyla
+daha önce bevasizumab almış olaparib hastalarına ilişkin güvenlilik ve etkililik verisi
+bulunmamaktadır. Somatik BRCA mutasyonu görülen hastalara ilişkin çok sınırlı veri
+mevcuttur.
+tablo 1.1 kullanılarak araştırmacı değerlendirmesi yoluyla belirlenen ve randomizasyondan
+progresyona kadar geçen süre şeklinde tanımlanan progresyonsuz sağkalım (PFS) veya
+ölümdür. Sekonder etkililik sonlanma noktaları randomizasyondan ikinci progresyona veya
+ölüme kadar geçen süre (PFS2); OS (genel sağkalım), randomizasyondan tedavinin kesilmesine
+ölüme kadar geçen süre (TDT), randomizasyondan takip eden ilk anti-kanser tedavininbaşlangıcına veya ölüme kadar geçen süre (TFST) ve sağlıkla ilişkili yaşam kalitesini (HRQoL)
+içermiştir. Hastalar başlangıçta ve 3 yıl boyunca her 12 haftada bir ve daha sonra
+randomizasyon tarihi baz alınarak objektif radyolojik hastalık progresyonuna kadar her 24
+haftada bir tümör değerlendirmelerinden geçirilmiştir.
+Çalışma araştırmacı tarafından değerlendirilen PFS’de plaseboya kıyasla olaparib için klinik
+anlamlılığa sahip olan ve istatistiksel açıdan anlamlı iyileşme ortaya koymuştur. PFS
+konusunda araştırmacı tarafından yapılan değerlendirme, PFS üzerinde yapılan bir
+körleştirilmiş bağımsız merkezi radyolojik (BICR) inceleme ile desteklenmiştir. PFS analizi
+sırasında, ara OS verileri olgunlaşmamıştı (% 21) ve HR 0,95’ti (%95 CI 0,60, 1,53; p
+değeri=0,9). Etkililik sonuçları Tablo 2 ve Şekil 1 ve 2’de sunulmaktadır.
+Tablo 2: SOLO1’de BRCA1/2m ilerlemiş over kanseri görülen, yeni tanı konmuş
+hastalara ait etkililik sonuçları
+Olaparib 300 mg bd Plaseboc
+PFS (%51 olgunluk)a
+Olay sayısı: Toplam hasta sayısı (%) 102:260 (39) 96:131 (73)
+Medyan süre (ay) NR 13,8
+HR (%95 GA)b 0,30 (0,23 – 0,41)
+P değeri (2 yanlı) p < 0,0001
+PFS2 (%31 olgunluk)
+Olay sayısı: Toplam hasta sayısı (%) 69:260 (7) 52:131 (40)
+Medyan süre (ay) NR 41,9
+HR (%95 GA)c 0,50 (0,35 – 0,72)
+P değeri (2 yanlı) p = 0,0002
+OS (%38 olgunluk)
+Olay sayısı: Toplam hasta sayısı (%) 84:260 (32) 65:131 (50)
+Medyan süre (ay) NR 75,2
+HR (%95 GA)b 0,55 (0,40 – 0,76)
+TFST (%60 olgunluk)
+Olay sayısı: Toplam hasta sayısı (%) 135:260 (52) 98:131 (75)
+Medyan süre (ay) 64,0 15,1
+HR (%95 GA)c 0,37 (0,28 – 0,48)
+a Kaplan-Meier hesaplamalarına göre 24 ve 36. aylarda progresyon gözlenmeyen hastaların oranı olaparib için
+%74 ve %60 plasebo içinse %35 ve %27 olmuştur; medyan takip süresi hem olaparib hem de plasebo kollarında
+41 ay olmuştur.
+b < 1 olan değerler olaparib lehinedir. Analiz, önceki platin kemoterapisine verilen yanıtı (CR veya PR) eş değişken
+olarak içeren bir Cox orantılı tehlikeler modeli kullanılarak gerçekleştirilmiştir.
+c Plasebo kolunda takiben bir tedavi uygulanan 97 hastanın 58'i (%60) bir PARP inhibitörü almıştır
+d Kaplan-Meier hesaplamalarına göre 84. ayda sağ kalan hastaların oranı olaparib için %67 ve plasebo için %47
+idi.
+bd Günde iki kez; NR Erişilmemiştir; GA Güven aralığı; PFS progresyonsuz sağkalım; PFS2 İkinci progresyona
+veya ölüme kadar geçen süre; OS Genel sağkalım; TFST Randomizasyondan takip eden ilk anti-kanser tedaviye
+veya ölüme kadar geçen süre.Şekil 1 SOLO1: Yeni tanı konmuş BRCA1/2m ilerlemiş over kanseri hastalarında
+Kaplan-Meier PFS grafiği (%51 olgunluk - araştırmacı değerlendirmesi)
+Şekil 2: SOLO1: Yeni tanı konmuş, BRCA1/2m ilerlemiş over kanseri bulunan hastalarda
+Kaplan-Meier OS grafiği (%38 olgunluk)
+ın
+a
+ro
+n
+ıra
+la
+ts
+a
+h
+n
+a
+y
+a
+m
+a
+ş
+a
+y
+y
+a
+lO
+Randomizasyondan itibaren geçen süre (ay)
+Risk altındaki hastaların sayısı:
+Günde iki kez olaparib 300 mg
+Placebo twice daily tablet: Günde iki kez plaseboÇalışmaya girişteki hastalık kanıtına göre oluşturulmuş hasta alt gruplarında tutarlı sonuçlar
+gözlenmiştir. Araştırmacı tarafından tanımlanan CR görülen hastalarda HR 0,34 (%95 CI 0,24-
+0,47) olmuştur; olaparibte medyan PFS’ye ulaşılmamıştır, plaseboda ise medyan PFS 15,3 aydı.
+24. ve 36. ayda, olaparib kolunda hastaların sırasıyla %68'i ve %45'i, plasebo kolundaki
+hastaların ise %34'ü ve%22'si CR durumunda kalmıştır. Çalışmaya girişte PR görülen
+hastalarda PFS HR 0,31 olarak tespit edilmiştir (%95 CI 0,18, 0,52; ortalama PFS olaparible
+30,9 ay, plaseboyla ise 8,4 ay). Çalışmaya girişte PR görülen hastalar CR’ye ulaşmış (24. ayda
+olaparib kolunda %15 ve plasebo kolunda %4, 36. ayda CR durumunda kalmıştır) veya daha
+fazla PR/stabil hastalık sergilemiştir (24. ayda olaparib kolunda %43 ve plasebo kolunda %15,
+36. ayda olaparib kolunda %17 ve plasebo kolunda %15). Son platin bazlı kemoterapi dozunu
+takip eden 6 ay içinde progresyon yaşayan hastaların oranı olaparib ile %3,5, plaseboyla ise
+%8,4 olmuştur.
+Platine duyarlı relaps yapmış (PSR) over kanserinin idame tedavisi
+SOLO2 çalışması
+Olaparibin idame tedavisi olarak güvenliliği ve etkililiği germline BRCA1/2-mutasyonlu,
+platine duyarlı, relaps yapmış (PSR) over, fallop tüpü veya primer peritoneal kanserli hastalarla
+gerçekleştirilen bir Faz III randomize, çift kör, plasebo kontrollü çalışmada değerlendirilmiştir.
+Bu çalışmada progresyona kadar alınan LYNPARZA (günde iki defa 300 mg [2 x 150 mg
+tablet]) idame tedavisinin etkililiği platin içeren kemoterapinin tamamlanmasının ardından
+yanıt (CR veya PR) sergilemekte olan 295 yüksek evre seröz veya endometrioid PSR over
+kanseri hastasında plasebo tedavisiyle karşılaştırılmıştır (2/1 randomizasyon: 196 olaparib ve
+99 plasebo).
+İki veya daha fazla platin içeren rejim uygulanan ve hastalıkları sondan önceki platin bazlı
+kemoterapinin tamamlanmasından > 6 ay sonra nükseden hastalar kaydedilmiştir. Hastaların
+daha önce olaparib veya başka bir PARP inhibitörü tedavisi almış olmasına izin verilmemiştir.
+Hastaların, randomizasyondan hemen önceki rejimde olmamak koşuluyla, daha önce
+bevasizumab almış olmasına izin verilmiştir.
+Tüm hastalarda başlangıçta gBRCA1/2m kanıtı tespit edilmiştir. Hastalarda görülen BRCA1/2
+mutasyonlarından germline mutasyonu, ya lokal bir test ya da Myriad CLIA Integrated
+BRACAnalysis® testi yoluyla yahut da tümör dokusundan lokal bir test kullanılarak
+saptanmıştır. Randomize edilen hastaların %4,7’sinde (14/295) BRCA1/2 genlerinde büyük
+rearanjmanlar tespit edilmiştir.
+Demografik özellikler ve başlangıç özellikleri olaparib ve plasebo kolları arasında genel olarak
+iyi bir denge sergilemiştir. Medyan yaşın her iki kolda 56 olduğu belirlenmiştir. Over
+kanserinin, hastaların > % 80’inde primer tümör olduğu görülmüştür. En yaygın histolojik tipin
+seröz (> %90) olduğu görülmüştür, hastaların %6’sında endometrioid histoloji bildirilmiştir.
+Olaparib kolunda hastaların %55’inin daha önce yalnızca 2 basamak tedavi gördüğü
+belirlenmiştir ve hastaların %45’i daha önce 3 veya daha fazla basamak tedavi görmüştür.
+Plasebo kolunda hastaların %61’inin daha önce yalnızca 2 basamak tedavi gördüğü, %39’unun
+ise daha önce 3 veya daha fazla basamak tedavi gördüğü belirlenmiştir. Çoğu hastanın ECOG
+performans durumu 0 olarak belirlenmiştir (%81). Platin uygulanmayan dönem, hastaların
+%60’ında > 12 ay, %40’ında ise > 6 - 12 ay olmuştur. Önceki platin kemoterapisine yanıt
+hastaların %47’sinde tam, %53’ünde ise kısmi yanıt olmuştur. Olaparib ve plasebo kollarında
+hastaların sırasıyla %17’si ve %20’si daha önce bevasizumab almıştır.Primer sonlanım noktası RECIST 1.1 kullanılarak araştırmacı değerlendirmesiyle PFS’dir.
+Sekonder etkililik sonlanma noktaları, PFS2; OS TDT, TFST, TSST ve HRQoL içermiştir.
+Çalışma primer amacına ulaşmıştır ve araştırmacı tarafından değerlendirilen PFS’de 0,30’luk
+HRplaseboya kıyasla olaparib lehine istatistiksel açıdan anlamlı bir iyileşme ortaya koymuştur
+(%95 CI 0,22 - 0,41; p < 0,0001; olaparible medyan 19,1 aya karşılık plaseboyla medyan 5,5
+ay). Araştırmacı tarafından değerlendirilen PFS, körleştirilmiş bir bağımsız merkezi radyolojik
+inceleme ile desteklenmiştir (HR 0,25; %95 CI 0,18 – 0,35; p < 0,0001; olaparib için medyan
+30,2 ay, plasebo için medyan 5,5 ay). Olaparibtedavisiuygulanan hastaların %43’ü 2. yılda
+progresyon sergilememeye devam etmiştir, plasebo alan hastalarda ise bu oran yalnızca %15’te
+kalmıştır.
+SOLO2’de gBRCA1/2m PSR over kanseri hastalarında primer sonlanma noktası açısından elde
+edilen sonucun bir özeti Tablo 3 ve Şekil 3’de verilmiştir.
+Tablo 3: SOLO2’de gBRCA1/2m PSR over kanseri hastalarında primer sonlanım noktası
+açısından elde edilen sonucun özeti
+Günde iki defa olaparib 300 Plasebo
+mg tablet
+PFS (%63 olgunluk)
+Olay sayısı: Toplam hasta sayısı 107:196 (55) 80:99 (81)
+(%)
+Medyan süre (ay) (%95 CI) 19,1 (16,3 – 25,7) 5,5 (5,2 – 5,8)
+HR (%95 CI)a 0,30 (0,22 – 0,41)
+P değeri (2 yanlı) P < 0,0001
+a HR= Tehlike Oranı. < 1 olan değerler olaparib lehinedir. Analiz önceki platin kemoterapisine
+verilen yanıta (CR veya PR) ve sondan önceki platin bazlı kemoterapisinde hastalık
+progresyonuna kadar geçen süreye (> 6 - 12 ay ve > 12 ay) göre basamaklandırılmış bir log-
+sıra test kullanılarak gerçekleştirilmiştir.
+bd Günde iki kez; PFS progresyonsuz sağkalım; CI güven aralığı;Şekil 3: SOLO2: gBRCA1/2m PSR over kanseri hastalarında Kaplan-Meier PFS grafiği
+(%63 olgunluk - araştırmacı değerlendirmesi)
+ın
+a
+ro
+n
+ıra
+la
+ts
+a
+h
+n
+a
+y
+a
+m
+n
+a
+ş
+a
+y
+y
+a
+lO
+Randomizasyondan sonra geçen süre (ay)
+Riskli hastaların sayısı:
+bd Günde iki kez; PFS progresyonsuz sağkalım
+OS'nin son analizinde (%61 olgunluk) HR 0.74 idi (%95 GA 0,54-1.00; p=0.0537; plasebo için
+medyan 51,7 ay ve plasebo için 38,8 ay) ve istatistiksel anlamlılığa ulaşmadı.
+Sekonder sonlanım noktaları olan TFST ve PFS2, plaseboya kıyasla olaparib için kalıcı ve
+istatistiksel açıdan anlamlı iyileşme sergilemiştir. OS, TFST ve PFS2 için sonuçlar Tablo 4 ve
+Şekil 4'te sunulmaktadır.Tablo 4: SOLO2’de gBRCA1/2m PSR yumurtalık kanseri hastaları için kilit sekonder
+objektif sonuçların özeti
+Olaparib 300 mg tablet, Plasebo
+günde iki kez
+OS (%61 olgunluk)
+Olay sayısı: Toplam hasta 116:196 (59) 65:99 (66)
+sayısı (%)
+Medyan süre (%95 GA), ay 51,7 (41,5, 59,1) 38,8 (31,4, 48,6)
+HR (%95 GA)a 0,74 (0,54 – 1,00)
+P değeri (2-taraflı) p=0,0537
+TFST (%71 olgunluk)
+Olay sayısı: Toplam hasta 139:196 (71) 86:99(87)
+sayısı (%)
+Medyan süre (%95 GA), ay 27,4 (22,6 – NR) 7,2 (6,3 – 8,3)
+HR (%95 GA)a 0,37 (0,28 – 0,48)
+P değeri (2-taraflı) p < 0,0001
+PFS2 (%40 olgunluk)
+Olay sayısı: Toplam hasta 70:196 (36) 49:99 (50)
+sayısı (%)
+Medyan süre (%95 GA), ay NR (24,1 – NR) 18,4 (15,4 – 22,8)
+HR (%95 GA)a 0,50 (0,34 – 0,72)
+P değeri (2-taraflı) p = 0,0002
+* Multiplisite açısından kontrol edilmemiştir.
+a HR= Tehlike Oranı. < 1 olan değer olaparib lehinedir. Analiz önceki platin kemoterapisine
+verilen yanıtı (CR veya PR) ve penultimat platin bazlı kemoterapisinde hastalık progresyonuna
+kadar geçen süreyi (> 6 - 12 ay ve > 12 ay) eşdeğişkenler olarak içeren Cox orantılı tehlike
+modeli kullanılarak gerçekleştirilmiştir.
+bd Günde iki kez; NR erişilmemiştir; CI güven aralığı; PFS2 randomizasyondan ikinci
+progresyona veya ölüme kadar geçen süre; TFST Randomizasyondan takip eden ilk tedavinin
+başlangıcına veya ölüme kadar geçen süre.Şekil 4 SOLO2: gBRCA1/2m PSR yumurtalık kanseri hastalarında Kaplan-Meier OS
+grafiği (%61 olgunluk)
+Günde iki kezOlaparib 300 mg tablet
+Günde iki kez plasebo tablet
+ın
+a
+r
+o
+n
+ın
+ır
+a
+ly
+a
+lo
+a
+ts
+a
+H
+Risk altındaki hasta sayısı: Randomizasyondan sonra geçen süre (ay)
+Günde iki kezOlaparib 300 mg tablet
+Günde iki kez plasebo tablet
+Çalışmaya ölçülebilir hastalıkla (başlangıçta hedef lezyonlar) katılan hastalar arasında
+LYNPARZA kolunda %41’lik bir objektif yanıt oranına erişilmiştir, plaseboda ise bu oran
+%17’ydi. Çalışmaya hastalık kanıtıyla (başlangıçta hedef veya hedef dışı lezyonlar) dahil edilen
+ve LYNPARZA ile tedavi uygulanan hastaların %15,0’ı tam yanıt elde ederken plasebo alan
+hastalarda ise bu oran %9,1’di.
+PFS analizi sırasında medyan tedavi süresi olaparib için 19,4 ay, plasebo içinse 5,6 ay
+şeklindeydi. Hastaların çoğu günde iki kez 300 mg şeklindeki başlangıç dozunda kalmıştır.
+Advers olay nedeniyle doz duraklatma, azaltma, kesme insidansı sırasıyla %45,1,%25,1 ve
+%10,8’di. Doz duraklatma en sık olarak tedavinin ilk 3 ayı içinde, doz azaltma ise 3-6 ayı içinde
+meydana gelmiştir. Doz duraklatmaya veya doz azaltmaya neden olan en sık görülen advers
+olaylar anemi, bulantı ve kusmaydı.
+FACT-O’ya ait TOI’da başlangıca göre meydana gelen değişiklik ile değerlendirildiği üzere,
+hasta tarafından bildirilen sonuç (PRO) verileri, plaseboya kıyasla olaparib ile tedavi edilen
+hastalar için herhangi bir farka işaret etmemektedir.
+Çalışma 19 (D0810C00019)
+Olaparibin platin temelli iki veya daha fazla tedaviyi takiben fallop tüpü veya primer peritoneal
+kanseri de içeren PSR over kanseri hastalarında idame tedavisi olarak güvenliliği ve etkililiği,
+büyük bir Faz II randomize, çift kör, plasebo kontrollü çalışmada (Çalışma 19)
+değerlendirilmiştir. Bu çalışmada progresyona kadar alınan LYNPARZA kapsül idame
+tedavisinin (günde iki defa 400 mg [8 x 50 mg kapsül]) etkililiği platin içeren kemoterapinintamamlanmasının ardından yanıt (CR veya PR) sergilemekte olan 265 (136 olaparib ve 129
+plasebo) PSR yüksek dereceli seröz over kanseri hastasında plasebo tedavisiyle
+karşılaştırılmıştır. Primer sonlanma noktası RECIST 1 kullanılarak araştırmacı
+değerlendirmesine göre belirlenen PFS’dir. Sekonder etkililik sonlanma noktaları OS’yi,
+CR/PR+ SD (stabil hastalık) şeklinde tanımlanan hastalık kontrol oranını (DCR), HRQoL’yi
+ve hastalıkla ilişkili semptomları içermiştir. Aynı zamanda araştırma amaçlı TFST ve TSST
+analizleri de gerçekleştirilmiştir.
+Hastalıkları sondan önceki platin bazlı kemoterapinin tamamlanmasından > 6 ay sonra
+nükseden hastalar kaydedilmiştir. Kayıtta BRCA1/2 mutasyonu kanıtı şartı aranmamıştır (bazı
+hastaların BRCA mutasyonu durumu retrospektif şekilde belirlenmiştir). Hastaların daha önce
+olaparib veya başka bir PARP inhibitörü tedavisi almış olmasına izin verilmemiştir. Hastaların,
+randomizasyondan hemen önceki rejimde olmamak koşuluyla, daha önce bevasizumab almış
+olmasına izin verilmiştir. Olaparib tedavisi sırasında ortaya çıkan progresyonun ardından
+olaparible yeniden tedaviye izin verilmemiştir.
+BRCA1/2 mutasyonları görülen hastalar ya lokal bir test ya da Myriad CLIA Integrated
+BRACAnalysis® testi yoluyla kandan germline mutasyon ya da Foundation Medicine
+tarafından gerçekleştirilen bir test kullanılarak bir tümör dokusunsunda mutasyon saptanmıştır.
+Randomize edilen hastaların %7,4’ünde (10/136) BRCA1/2 genlerinde büyük rearanjmanlar
+tespit edilmiştir.
+Demografik özellikler ve başlangıç özellikleri olaparib ve plasebo kolları arasında genel olarak
+iyi bir denge sergilemiştir. Medyan yaşın her iki kolda 59 olduğu belirlenmiştir. Over kanserinin
+hastaların %86’sında primer tümör olduğu görülmüştür. Olaparib kolunda hastaların %44’ünün
+daha önce yalnızca 2 basamak tedavi gördüğü belirlenmiştir ve hastaların %56’sı daha önce 3
+veya daha fazla basamak tedavi görmüştür. Plasebo kolunda hastaların %49’unun daha önce
+yalnızca 2 basamak tedavi gördüğü, %51’inin ise daha önce 3 veya daha fazla basamak tedavi
+gördüğü belirlenmiştir. Çoğu hastanın ECOG performans durumu 0 olarak belirlenmiştir
+(%77). Platin uygulanmayan dönem hastaların %60’ında > 12 ay, %40’ında ise > 6-12 ay
+olmuştur. Önceki platin kemoterapisine yanıt hastaların %45’inde tam, %55’inde ise kısmi
+olmuştur. Olaparib ve plasebo kollarında hastaların sırasıyla %6’sı ve %5’i daha önce
+bevasizumab almıştır.
+Çalışma primer amacına ulaşmıştır ve genel popülasyonda PFS’de 0,35’lik HR ile plaseboya
+kıyasla olaparib lehine istatistiksel açıdan anlamlı bir iyileşme ortaya koymuştur (%95 CI 0,25
+- 0,49; p < 0,00001; olaparible medyan 8,4 aya karşılık plaseboyla medyan 4,8 ay). Olgunluk
+düzeyi %79 olan son OS analizinde (veri kesme tarihi [DCO] 9 Mayıs 2016), olaparib ile
+plasebo karşılaştırıldığında gözlenen tehlike oranı 0,73 (%95 CI 0,55 – 0,95; p = 0,02138
+[<0,0095’lik önceden belirlenmiş anlamlılık düzeyini karşılamamıştır]; olaparible medyan 29,8
+aya karşılık plaseboyla medyan 27,8 ay) olmuştur. Olaparible tedavi uygulanan grupta
+hastaların %23,5’i (n=32/136) tedaviye ≥ 2 yıl süresince devam etmiştir, plasebo alan hastalarda
+ise bu oran %3,9 (n=5/128) olmuştur. Hasta sayıları sınırlı olmakla birlikte olaparible tedavi
+uygulanan grupta hastaların %13,2’si (n=18/136) tedaviye ≥ 5 yıl süresince devam etmiştir,
+plasebo grubunda ise bu oran %0,8 (n=1/128) olmuştur.
+Önceden planlanmış alt grup analizinde BRCA1/2-mutasyonlu over kanseri görülen hastaların
+(n=136, %51,3; somatik tümör BRCA1/2 mutasyonu tespit edilen 20 hasta dahil) olaparib idame
+monoterapisinden en fazla klinik fayda elde eden alt grup olduğu tespit edilmiştir. Aynı
+zamanda BRCA1/2’nin yabanıl tipinin/anlamı belirsiz olan varyantlarının (BRCA1/2 wt/VUS)görüldüğü hastalarda da daha düşük boyutlu olmakla birlikte bir fayda gözlenmiştir. Alt grup
+analizleri için uygulamaya konmuş herhangi bir çoklu test stratejisi mevcut değildir.
+Çalışma 19’da BRCA1/2-mutasyonlu ve BRCA1/2 wt/VUS PSR over kanseri hastalarında
+primer sonlanma noktası açısından elde edilen sonucun bir özeti Tablo 5’te ve Çalışma 19’daki
+tüm hastalar için Tablo 5ve Şekil 5’de verilmiştir.
+Tablo 5: Çalışma 19’da tüm hastalar ve BRCA1/2-mutasyonlu ve BRCA1/2 wt/VUS PSR
+over kanseri hastalarında primer sonlanım noktası açısından elde edilen sonucun özeti
+Tüm hastalara BRCA1/2- BRCA1/2 wt/VUS
+mutasyonlu
+Günde iki Plasebo Günde Plasebo Günde Plasebo
+defa iki defa iki defa
+olaparib 400 olapari olapari
+mg kapsül b 400 b 400
+mg mg
+kapsül kapsül
+PFS – DCO 30 Haziran 2010
+Olay sayısı: Toplam 60:136 (44) 94:129 26:74 46:62 32:57 44:61
+hasta sayısı (%) (73) (35) (74) (56) (72)
+Medyan süre (ay) (%95 8,4 4,8 11,2 4,3 7,4 5,5
+CI) (7,4 – 11,5) (4,0 – (8,3 – (3,0 – (5,5 – (3,7 –
+5,5) NR) 5,4) 10,3) 5,6)
+HR (%95 CL)b 0,35 0,18 0,54
+(0,25 – 0,49) (0,10 – 0,31) (0,34 – 0,85)
+P değeri (2 yanlı) p < 0,00001 p < 0,00001 p = 0,00745
+a Tüm hastalar şu alt gruplardan oluşmaktadır: BRCA1/2-mutasyonu, BRCA1/2 wt/VUS ve
+BRCA1/2 durumu bilinmeyen (durumu bilinmeyen 11 hasta tabloda ayrı bir alt grup olarak
+gösterilmemektedir).
+b HR= Tehlike Oranı. < 1 olan değerler olaparib lehinedir. Analiz, faktörlerin tedavi, etnik
+köken, platine duyarlılık ve son platin tedavisine yanıt olduğu bir Cox orantılı tehlikeler modeli
+kullanılarak gerçekleştirilmiştir.
+bd günde iki kez;PFS progresyonsuz sağkalım; DCO veri kesme tarihi; CI güven aralığı; NR
+erişilmemiştir.Şekil 5: Çalışma 19: DCO 30 Haziran 2010’da FAS’de (%58 olgunluk – araştırmacı
+değerlendirmesi) Kaplan-Meier PFS grafiği
+ın
+a
+ro
+n
+ıra
+la
+ts
+a
+h
+n
+a
+y
+a
+m
+n
+a
+ş
+a
+y
+y
+a
+lO
+Randomizasyondan itibaren geçen süre (ay)
+-------------- - - - - - - - - - - - - - - - Olaparib 400 mg bd
+Günde iki defa plasebo Günde iki defa olaparib 400 mg
+Risk altındaki hastaların sayısı:
+136 106 53 24 7 0 Günde iki defa olaparib 400
+mg
+129 72 24 7 1 0 Plasebo
+bd günde iki defa; DCO veri kesme tarihi; FAS Tam analiz seti; PFS Progresyonsuz sağkalım
+Çalışma 19’da BRCA1/2-mutasyonlu ve BRCA1/2 wt/VUS PSR over kanseri hastalarında kilit
+sekonder sonlanma noktaları açısından elde edilen sonucun bir özeti Tablo 4’te ve Çalışma
+19’daki tüm hastalar için Tablo 6 ve Şekil 6’da verilmiştir.Tablo 6: Çalışma 19’da tüm hastalar ve BRCA1/2-mutasyonlu ve BRCA1/2 wt/VUS PSR
+over kanseri hastalarında kilit sekonder sonlanma noktaları açısından elde edilen
+sonucun özeti
+Tüm hastalara BRCA1/2- BRCA1/2 wt/VUS
+mutasyonlu
+Günde Plasebo Günde Plasebo Günde Plasebo
+iki defa iki defa iki defa
+olapari olapari olapari
+b 400 b 400 b 400
+mg mg mg
+kapsül kapsül kapsül
+OS – DCO 09 Mayıs 2016
+Olay sayısı: Toplam hasta 98:136 112:129 49:74 50:62 45:57 57:61
+sayısı (%) (72) (87) (66) (81)c (79) (93)
+Medyan süre (ay) (%95 CI) 29,8 27,8 34,9 30,2 24,5 26,6
+(26,9 – (24,9 – (29,2 – (23,1 – (19,8 – (23,1 –
+35,7) 33,7) 54,6) 40,7) 35,0) 32,5)
+HR (%95 CL)b 0,73 (0,55 – 0,95) 0,62 (0,42 – 0,93) 0,84 (0,57 – 1,25)
+P değeri (2 yanlı) p = 0,02138 p = 0,02140 p = 0,39749
+TFST – DCO 09 Mayıs 2016
+Olay sayısı: Toplam hasta 106:136 124:128 55:74 59:62 47:57 60:61
+sayısı (%) (78) (97) (74) (95) (83) (98)
+Medyan süre (ay) (%95 CI) 13,3 6,7 15,6 6,2 12,9 6,9
+(11,3 – (5,7 – (11,9 – (5,3 – (7,8 – (5,7 –
+15,7) 8,2) 28,2) 9,2) 15,3) 9,3)
+HR (%95 CL)b 0,39 (0,30 – 0,52) 0,33 (0,22 – 0,49) 0,45 (0,30 – 0,66)
+P değeri (2 yanlı) p < 0,00001 p < 0,00001 p = 0,00006
+* Alt grup analizleri veya TFST’nin değerlendirildiği tüm hastalar için uygulamaya konmuş
+herhangi bir çoklu test stratejisi mevcut değildir.
+a Tüm hastalar şu alt gruplardan oluşmaktadır: BRCA1/2-mutasyonu, BRCA1/2 wt/VUS ve
+BRCA1/2 durumu bilinmeyen (durumu bilinmeyen 11 hasta tabloda ayrı bir alt grup olarak
+gösterilmemektedir).
+b HR= Tehlike Oranı. < 1 olan değerler olaparib lehinedir. Analiz, faktörlerin tedavi, etnik
+köken, platine duyarlılık ve son platin tedavisine yanıt olduğu bir Cox orantılı tehlikeler modeli
+kullanılarak gerçekleştirilmiştir.
+c BRCA mutasyonlu alt grupta plasebo uygulanan hastaların yaklaşık olarak çeyreği (14/62;
+%22,6) sonradan PARP inhibitörü almıştır.
+bd günde iki kez; OS Genel sağkalım; DCO veri kesme tarihi; CI güven aralığı; TFST
+randomizasyondan takip eden ilk tedavinin başlangıcına veya ölüme kadar geçen süre.Şekil 6: Çalışma 19: DCO 09 Mayıs 2016’da FAS’de (%79 olgunluk) Kaplan-Meier OS
+grafiği
+ın
+a
+ro
+n
+ıra
+la
+tsa
+h
+n
+a
+lo
+a
+tta
+y
+a
+H
+Randomizasyondan sonra geçen süre (ay)
+Randomizasyondan sonra geçen süre (ay)
+Riskli hastaların sayısı
+Günde iki defa olaparib 400
+mg
+Plasebo
+bd günde iki defa; DCO veri kesme tarihi; FAS Tam analiz seti; OS Genel sağkalım
+PFS analizi sırasında medyan tedavi süresi olaparib için 8 ay, plasebo içinse 4 ay olarak
+belirlenmiştir. Hastaların çoğu günde iki defa 400 mg şeklindeki başlangıç dozunda kalmıştır.
+Advers olay nedeniyle doz duraklatma, azaltma, kesme insidansı sırasıyla %34,6, %25,7 ve
+%5,9 olmuştur. Doz duraklatma ve azaltma en sık olarak tedavinin ilk 3 ayı içinde ortaya
+çıkmıştır. Dozun duraklatılmasına veya azaltılmasına en sık neden olan advers olaylar bulantı,
+anemi, kusma, nötropeni ve bitkinlik olmuştur. Anemi advers reaksiyonlarının insidansının
+%22,8 (CTCAE derece ≥ 3 %7,4) olduğu belirlenmiştir.
+TOI ve FACT-O toplam iyileşme ve kötüleşme oranları ile değerlendirildiği üzere, hasta
+tarafından bildirilen sonuç (PRO) verileri olaparib ile tedavi uygulanan hastalar ile plasebo
+arasında herhangi bir farka işaret etmemektedir.
+OPINION Çalışması
+Bir Faz IIIb tek kollu, çok merkezli çalışma olan OPINION’da olaparib, PSR yumurtalık, fallop
+tüpü veya primer periton kanseri olan ve bilinen bir zararlı veya zararlı olduğundan
+şüphelenilen gBRCA mutasyonu olmayan hastalarda, iki veya daha fazla basamak platin bazlı
+kemoterapiyi takiben idame tedavisi olarak araştırılmıştır. Platin bazlı kemoterapinin
+tamamlanmasının ardından hastalığı yanıt veren (CR veya PR) hastalar çalışmaya
+kaydedilmiştir. Toplam 279 hasta kaydedilmiş olup bu hastalara, hastalık progresyonuna veya
+kabul edilemez toksisiteye kadar olaparib tedavisi verilmiştir. Merkezi teste göre hastaların
+%90,7'sinin durumu gBRCAm dışı olarak onaylanmış, ayrıca %9,7'sinin durumu ise sBRCAm
+olarak tanımlanmıştır.Primer sonlanma noktası, değiştirilmiş RECIST v.1.1'e göre araştırmacı tarafından
+değerlendirilen PFS idi. Sekonder sonlanma noktaları OS’i içermiştir.
+Olaparib, idame tedavisi olarak kullanıldığında, gBRCAm olmayan PSR yumurtalık kanserli
+hastalarda klinik aktivite göstermiştir. Nihai genel sağ kalım analizinde (DCO 17 Ekim 2021),
+genel sağ kalım verileri %52,3 olgunlukta idi.
+OPINION'da gBRCAm olmayan PSR yumurtalık kanserli hastalar için primer objektif sonucun
+bir özeti Tablo 7' de sunulmuştur.
+Tablo 7: OPINION çalışmasında gBRCAm dışı PSR over kanseri bulunan hastalar için anahtar
+objektif sonuçların özeti
+Olaparib tablet 300 mg bd
+PFS (%75 olgunluk) (DCO 2 Ekim 2020)
+Olay sayısı: hasta sayısı (%) 210:279 (75,3)
+Medyan PFS (%95 GA), aylara 9,2 (7,6, 10,9)
+OS (%52,3 olgunluk) (DCO 17 Eylül 2021)
+Olay sayısı: hasta sayısı (%) 146:279 (52,3)
+Medyan OS (%95 GA), aylara 32,7 (29,5, 35,3)
+a Kaplan-Meier tekniği kullanılarak hesaplanmıştır.
+Medyan PFS ve OS için güven aralıkları Brookmeyer Crowley yöntemi ile elde edilmiştir.
+bd Günde iki kez: PFS Progresyonsuz sağ kalım; OS Genel sağ kalım; DCO Veri kesim: GA Güven aralığı
+HRD pozitif ileri evre yumurtalık kanserinin birinci basamak idame tedavisi
+PAOLA-1 Çalışması
+PAOLA-1, bevasizumab (her 3 haftada bir intravenöz infüzyon olarak verilen 15 mg/kg) ile
+kombinasyon halinde verilen LYNPARZA’nın(günde iki kez 300 mg [2 x 150 mg tablet])
+etkililik ve güvenliliğini birinci basamak platin bazlı kemoterapi ve bevasizumabı takiben ileri
+evre (FIGO Evre III-IV) yüksek dereceli epitelyal over, fallop tüpü veya primer periton
+kanserinin idame tedavisi için plasebo ile kombine bevasizumab ile karşılaştıran bir Faz III
+randomize, çift kör, plasebo kontrollü, çok merkezli çalışmaydı. Bevasizumab tedavisi,
+kemoterapi ile birlikte verildiği ve idame olarak verildiği dönem dahil olmak üzere toplam 15
+ay/22 kürdü.
+Çalışmada 806 hasta (2:1 randomizasyon: 537 olaparib/bevasizumab: 269
+plasebo/bevasizumab) randomize edilmiş olup bunlar tam cerrahi rezeksiyon nedeniyle hastalık
+belirtisi olmayan (NED) ya da platin ve bevasizumab içeren birinci basamak kemoterapinin
+tamamlanmasından sonra tam yanıt (CR) ya da kısmi yanıt (PR) veren hastalardı. Hastalar
+minimum 4 ve maksimum 9 kürü tamamlamış olup çoğu (%63), minimum 2 kür bevasizumab
+ile birlikte kemoterapinin son 3 kürü dahil olmak üzere 6 kür birinci basamak platin-taksan
+bazlı kemoterapi görmüştür. Randomizasyon öncesinde bevasizumab kürlerinin medyan sayısı
+5’ti.
+Hastalar, birinci basamak tedavinin sonucuna (sitoredüktif cerrahinin zamanlaması ve sonucu
+ile platin bazlı kemoterapiye yanıt) ve prospektif lokal testlerle belirlenen tBRCAm durumuna
+göre katmanlandırılmıştır. Hastalar idame ortamında bevasizumaba devam etmiş ve son
+kemoterapi dozlarının tamamlanmasından minimum 3 hafta ve maksimum 9 hafta sonra
+LYNPARZA tedavisine başlamıştır. Altta yatan hastalığın progresyonuna, kabul edilemeztoksisiteye veya 2 yıla kadar LYNPARZA tedavisine devam edilmiştir. Tedaviyi uygulayan
+doktorun düşüncesine göre tedaviye devam edilmesinden daha da yarar sağlayabileceği
+düşünülen hastalar 2 yıldan daha uzun süre tedavi edilebilir.
+Demografik ve başlangıç özellikleri, ITT popülasyonu ile tBRCAm (prospektif ve retrospektif
+olarak tanımlanan), GIS ve HRD durumuna (bu çalışmada her iki biyobelirteçin kombinasyonu
+şeklinde tanımlanan) göre biyobelirteç tanımlı alt gruplardaki her iki kolda dengeliydi.
+Hastaların medyan yaşı 61’di. Her iki koldaki çoğu hastanın ECOG performans durumu 0’dı
+(%70). Yumurtalık kanserinin hastaların %86’sında primer tümör olduğu görülmüştür. En
+yaygın histolojik tipin seröz (%96) olduğu görülmüştü ve hastaların %2’sinde endometrioid
+histoloji bildirilmiştir. Hastaların çoğuna FIGO evresi NIC’te tanı konmuştu (%63). Tüm
+hastalara birinci basamak platin bazlı tedavi ve bevasizumab verilmiştir. Hastaların %63'ünde
+ilk veya aralıklı tümör çıkarma cerrahisinde tam sitoredüksiyon ve %37'sinde rezidüel
+makroskopik hastalık olan hastalar cerrahi sonuçla sınırlanmamıştır. Her iki koldaki hastaların
+yüzde otuzu (%30) taramada tBRCAm idi. Biyobelirteç alt gruplarındaki demografik ve
+başlangıç özellikleri ITT popülasyonundakilerle tutarlıydı. HRD-pozitif alt grubunda,
+hastaların %65’i tam sitoredüksiyon görmüştü ve hastaların %35’inde rezidüel makroskopik
+hastalık vardı. Kaydolan genel hasta popülasyonunda, her iki koldaki hastaların %30’u lokal
+testlerle yapılan taramada tBRCAm idi (yıkıcı/patojenik mutasyon) ve hastaların %4’ü için
+BRCAm durumu bilinmiyordu. Mevcut klinik örneklerin retrospektif analizi, tBRCAm
+durumunu doğrulamak ve yukarıda açıklandığı gibi genomik instabiliteyi araştırmak üzere
+hastaların %97’si üzerinde gerçekleştirilmiştir.
+tBRCAm olmayan hastaların %29’unda (genel popülasyonun %19’u) bu çalışmada bileşik skor
+≥42 olarak önceden tanımlanmış pozitif GIS vardı. tBRCAm durumu ve pozitif GIS
+birleştirildiğinde, tümörleri HRD-pozitif, HRD-negatif ve HRD bilinmiyor durumunda olan
+hastalar genel hasta popülasyonunun %48’i, %34’ü ve %18’ini temsil ediyordu.
+Primer sonlanma noktası modifiye Solid Tümörlerde Yanıt Değerlendirme Kriterleri (RECIST)
+1.1 kullanılarak araştırmacı değerlendirmesi yoluyla belirlenen ve randomizasyondan
+progresyona kadar geçen süre şeklinde tanımlanan progresyonsuz sağkalım (PFS) veya ölümdü.
+Sekonder etkililik sonlanma noktaları arasında randomizasyondan ikinci progresyona veya
+ölüme kadar geçen süre (PFS2); genel sağkalım (OS), randomizasyondan takip eden ilk kanser
+tedavisinin başlangıcına veya ölüme kadar geçen süre (TFST) ve sağlıkla ilişkili yaşam kalitesi
+(HRQoL) bulunuyordu. Hastalara başlangıçta ve 42 aya kadar veya objektif radyolojik hastalık
+progresyonuna kadar her 24 haftada bir (klinik veya CA 125 progresyonu ise 12 haftada
+CT/MRI) RECIST 1.1 tümör değerlendirmeleri yapılmıştır.
+Çalışma, plasebo/bevasizumab koluna kıyasla olaparib/bevasizumab kolu için araştırmacı
+tarafından değerlendirilen PFS’de istatistiksel açıdan önemli bir iyileşme sergileyen ITT
+popülasyonunda primer sonlanma noktasını karşılamıştır (plasebo/bevasizumab için medyan
+16,6 ay karşısında olaparib/bevasizumab için 22,1 ay ile HR 0,59, %95 GA 0,49-0,72,
+p<0,0001). Bu, PFS’nin BICR analizi ile tutarlıydı. Bununla birlikte, biyobelirteç pozitif
+(tBRCAm ve/veya GIS pozitif olarak tanımlanan tBRCAm, GIS, HRD durumu pozitif) olarak
+tanımlanmış hastalar en çok faydayı görmüştür.
+Genel popülasyonda nihai PFS2 analizi (DCO 22 Mart 2020, %53 olgunluk) istatistiksel açıdan
+önemliydi (HR 0,78, %95 GA, p=0,0125 plasebo/bevasizumab için 32,6 aya karşılık
+olaparib/bevasizumab için 36,5 aylık medyanla). Genel sağkalım verileri, genel popülasyon ve
+biyobelirteç alt gruplarında olgun değildi. Olaparib/bevasizumab kolundaki hastaların yüzdealtmışı (%60) ile plasebo/bevasizumab kolundaki hastaların %74'ü daha sonra tedavi görmüştür
+ve olaparib/bevasizumab ve plasebo/bevasizumab kollarındaki bu hastaların sırasıyla %20 ve
+%47’si bir PARP inhibitörü almıştır.
+HRD durumu pozitif hastalardaki (tBRCAm ve/veya GIS) nihai OS analizinde (DCO 22 Mart
+2022), plasebo/bevacizumab koluna kıyasla olaparib/bevacizumab kolunda OS'de sayısal bir
+iyileşme vardı (bkz. Tablo 8).
+Randomize alt grup olarak tBRCAm'de (241/806 hasta) olaparib/bevasizumab kolu için
+medyan PFS 37,2 ay iken plasebo/bevasizumab kolu için 22,0 aydı (HR = 0,34, %95 GA
+0,23,0,51) Nihai genel sağ kalım analizinde (DCO 22 Mart 2022), alt grup olarak randomize
+edilen tBRCAm plasebo/bevacizumab koluna kıyasla olaparib/bevacizumab kolunda ölüm
+riskinde sayısal azalma gösterir (HR: 0,63; %95 GA 0,41, 0,97).
+Retrospektif olarak analiz edilen tümör örneklerine dayanan diğer biyobelirteç alt grup
+analizlerindeki etkililik sonuçları Tablo 8’de sunulmaktadır.
+Tablo 8 PAOLA-1'de ileri evre yumurtalık kanseri hastalarında tBRCAm ve/veya GIS ile
+tanımlanan homolog rekombinasyon eksikliği (HRD) pozitif durumu olan hastalar için temel
+etkililik bulgularının özeti
+tBRCAm*,c GIS pozitif *,d HRDpozitif*
+(n=235) (n=152) (n=387)
+Olaparib / Plasebo / Olaparib / Plasebo / Olaparib / Plasebo /
+bevasizumab bevasizumab bevasizumab bevasizumab bevasizumab bevasizumab
+PFS, araştırmacı değerlendirmesi (%46 olgunluk) DCO 22 Mart 2019a
+Olay
+sayısı: 44/158 (28) 52/77 (68) 43/97 (44) 40/55 (73) 87/255 (34) 92/132 (70)
+Toplam
+hasta
+sayısı
+(%)
+Medyan 37,2 18,8 28,1 16,6 37,2 17,7
+süre
+(ay)
+HR 0,28 0,43 (0,28, 0,66) 0,33 (0,25, 0,45)
+(%95) (0,19, 0,42)
+GAb
+PFS2, araştırmacı değerlendirmesi (%40 olgunluk) DCO 22 Mart 2020
+Olay
+sayısı: 44/158 (28) 37/77(48) 41/97 (42) 33/55 (60) 85/255 (33) 70/132 (53)
+Toplam
+hasta
+sayısı
+(%)
+Medyan NR 42,2 50,3 30,1 50,3 35,4
+süre
+(ay)
+HR 0,53 (0,34, 0,82) 0,60 (0,38, 0,96) 0,56 (0,41, 0,77)
+(%95)
+GAbNihai OS (%42 olgunluk) DCO 22 Mart 2022
+Olay 49:158 (31,0) 37:88 (48,1) 44:97 (45,4) 32:55 (58,2) 93:255 (36,5) 69:132 (52,3)
+sayısı:
+Toplam
+hasta
+sayısı
+(%)
+Medyan 75,2 66,9 NR 52,0 75,2 57,3
+süre
+(ay)
+HR 0,50 (0,37, 0,88) 0,71 (0,45, 1,13) 0,62 (0,45, 0,85)
+(%95
+GA)b
+* Önceden planlanan alt grup
+aKaplan-Meier hesaplamalarına göre 12 ve 24. aylarda progresyonsuz hastaların oranı plasebo/bevasizumab için
+%71 ve %29 karşısında olaparib/bevasizumab için %89 ve %66 idi.
+b <1 değeri olaparib lehinedir. Bu analiz, tarama sırasındaki birinci basamak tedavi sonucu ile tarama laboratuvarı
+tBRCA durumuna göre katmanlandırılmış Cox orantısal risk modeli kullanılarak gerçekleştirilmiştir.
+c Myriad ile tBRCAm durumu
+d Myriad ile genomik instabilite skoru (GIS) ≥42 (önceden belirlenmiş eşik)
+GA Güven aralığı; HR Risk oranı; NR ulaşılamadı.
+Şekil 7: PAOLA-1: PAOLA-1’de HRD testi pozitif olarak tanımlanmış ileri evre
+yumurtalık kanseri olan hastalar için Kaplan Meier PFS grafiği (%46 olgunluk -
+araştırmacı değerlendirmesi)
+Olaparib + bevasizumab
+Plasebo + bevasizumab
+ın
+a
+r
+o
+a
+ts
+a
+h
+z
+ıs
+y
+a
+lO
+Randomizasyondan itibaren geçen süre (ay)
+Risk altındaki hastaların sayısı:Şekil 8 PAOLA-1: Kaplan-Meier Grafiği, HRD Pozitiflik Durumuna (tBRCAm dahil)
+Göre Nihai Genel Sağ Kalım (DCO 22 Mart 2022)
+ın
+a
+ro
+n
+ıra
+la
+ts
+a
+h
+n
+a
+y
+a
+m
+a
+ş
+a
+y
+y
+a
+lO
+Randomizasyondan itibaren geçen süre (ay)
+Olaparib + bevacizumab Plasebo + bevacizumab
+Risk altındaki hastaların sayısı:
+Olaparib + bevacizumab
+Plasebo + bevacizumab
+Germline BRCA mutasyonlu yüksek riskli erken evre meme kanserinin adjuvan tedavisi
+OlympiA
+Definitif lokal tedaviyi ve neoadjuvan veya adjuvan kemoterapiyi tamamlamış germline
+BRCA1/2 mutasyonları ve HER2-negatif yüksek riskli erken meme kanseri olan hastalarda
+adjuvan tedavi olarak olaparibin güvenliliği ve etkililiği, bir Faz III randomize, çift kör, paralel
+grup, plasebo kontrollü, çok merkezli çalışmada (OlympiA) incelenmiştir. Hastaların
+antrasiklin, taksan veya her ikisini birden içeren en az 6 kür neoadjuvan veya adjuvan
+kemoterapisini tamamlamaları gerekiyordu. Önceki kanser (ör. yumurtalık) için veya meme
+kanserinde adjuvan veya neoadjuvan tedavi olarak daha önce platine izin verilmiştir. Yüksek
+riskli erken meme kanseri hastaları şu şekilde tanımlanmıştır:
+• daha önce neoadjuvan kemoterapisi almış hastalar: üçlü negatif meme kanseri (TNBC) veya
+hormon reseptörü pozitif meme kanseri olan hastalarda, cerrahi sırasında memede ve/veya
+rezeke edilen lenf düğümlerinde (patolojik olmayan tam yanıt) rezidüel invazif kanser
+bulunmalıdır. Ek olarak, hormon reseptörü pozitif meme kanseri olan hastaların, Tablo 9'da
+gösterildiği gibi tedavi öncesi klinik ve tedavi sonrası patolojik evre (CPS), östrojen reseptörü
+(ER) durumu ve histolojik dereceye göre ≥ 3 CPS&EG skoruna sahip olması gerekir.Tablo 9: Çalışmaya Kayıt için Erken Evre Meme Kanseri, Reseptör Durumu ve Derece
+Puanlama Gereklilikleri
+Evre / özellik Noktalar
+Klinik evre I/IIA 0
+(tedavi öncesi) IIB/IIIA 1
+IIIB/IIIC 2
+Patolojik Evre (tedavi sonrası) 0/I 0
+IIA/IIB/IIIA/IIIB 1
+IIIC 2
+Reseptör durumu ER pozitif 0
+ER negatif 1
+Nükleer derece Nükleer derece 1-2 0
+Nükleer derece 3 1
+* Hormon reseptörü pozitif meme kanseri olan hastalar için toplam skorun ≥ 3 olması gerekiyordu.
+• önceden adjuvan kemoterapi almış hastalar: üçlü negatif meme kanseri (TNBC) hastalarının,
+nod pozitif hastalığı veya ≥ 2 cm primer tümörü olan nod negatif hastalığı olmalıdır; HR pozitif,
+HER2 negatif hastaların ≥ 4 patolojik olarak doğrulanmış pozitif lenf nodu olması gerekir.
+Hastalar günde iki kez 300 mg olaparib (2 x 150 mg tablet) (n=921) veya plasebo (n=915)
+alacak şekilde (1:1) randomize edilmiştir. Randomizasyon, hormon reseptör durumuna (HR
+pozitif/HER2 negatife karşı TNBC), önceki neoadjuvana karşı adjuvan kemoterapisine ve
+mevcut meme kanseri için önceki platin kullanımına (evete karşı hayır) göre
+katmanlandırılmıştır.
+Tedaviye, 1 yıla kadar ya da hastalık rekürrensi veya kabul edilemez toksisiteye kadar devam
+edilmiştir. HR pozitif tümörleri bulunan hastalara aynı zamanda endokrin tedavisi
+uygulanmıştır.
+Primer sonlanım noktası, randomizasyondan ilk rekürrens tarihine kadar geçen süre olarak
+tanımlanan invazif hastalık olmadan sağkalım (IDFS) idi; burada rekürrens, invazif loko-
+bölgesel, uzak rekürrens, kontralateral invazif meme kanseri, yeni kanser veya herhangi bir
+nedenden ölüm olarak tanımlanır. Sekonder amaçlar arasında OS, uzak hastalıksız sağkalım
+(randomizasyondan meme kanserinin ilk uzak rekürrens kanıtına kadar geçen süre olarak
+tanımlanan DDFS), yeni primer kontralateral meme kanserlerinin insidansı (invazif ve invazif
+olmayan), yeni primer yumurtalık kanseri, yeni primer fallop tüpü kanseri ve yeni primer
+periton kanseri ve FACIT-Yorgunluk ve EORTC QLQ-C30 anketlerini kullanan hasta
+tarafından bildirilen sonuçlar (PRO) bulunuyordu.
+Myriad'daki merkezi test veya varsa lokal gBRCA testi, çalışma uygunluğunu belirlemek için
+kullanılmıştır. Lokal gBRCA test sonuçlarına göre kaydedilen hastalardan retrospektif
+doğrulayıcı test için bir örnek alınmıştır. OlympiA'ya kaydolan 1836 hastadan 1623'ü,
+prospektif veyaretrospektif olarak merkezi testlerle gBRCAm olarak doğrulanmıştır.
+Demografik özellikler ve başlangıç özellikleri iki tedavi kolu arasında iyi dengelenmişti.
+Medyan yaş 42 idi. Hastaların yüzde altmış yedisi (%67) Beyaz, %29’u Asyalı ve %2,6’sı
+Siyahtı. Olaparib kolunda iki hasta (%0,2) ve plasebo kolundaki dört hasta (%0,4) erkekti.
+Hastaların yüzde altmış biri (%61) menopoz öncesi dönemdeydi. Hastaların yüzde seksen
+dokuzunun (%89) ECOG performans durumu 0 ve %11’inin ECOG PS’i 1’di. Hastaların yüzdeseksen ikisinde (%82) TNBC ve %18’inde HR pozitif hastalık vardı. Hastaların yüzde ellisi
+(%50) daha önce neoadjuvan ve %50’si daha önce adjuvan kemoterapi görmüştü. Hastaların
+yüzde doksan dördüne (%94) antrasiklin ve taksan verilmişti. Genel olarak hastaların yüzde
+yirmi altısına (%26) meme kanseri için daha önce platin verilmişti. Olaparib ve plasebo
+kollarında, HR pozitif hastalığı olan hastaların sırasıyla %87'si ve %92'si eş zamanlı endokrin
+tedavisi görüyordu. Genel olarak, HR pozitif hastalığı olan hastaların %89,5'i, letrozol (%23,7),
+tamoksifen (%40,9), anastrozol (%17,2) veya eksemestan (%14,8) içeren bir endokrin tedavisi
+görmüştür.
+Çalışma, plasebo koluna kıyasla olaparib kolunda IDFS’te istatistiksel olarak anlamlı bir
+iyileşme sergileyerek primer sonlanım noktasını karşılamıştır. İki yüz seksen dört (284) hastada
+IDFS olayları vardı; bu, olaparib kolundaki hastaların %12'sini (uzak %8, lokal/bölgesel %1,4,
+kontralateral invazif meme kanseri %0,9, meme dışı ikinci primer maligniteler %1,2, ölüm
+%0,2) ve plasebo kolundaki hastaların %20'sini (uzak %13, lokal/bölgesel %2,7, kontralateral
+invazif meme kanseri %1,3, meme dışı ikinci primer maligniteler %2,3, ölüm %0) temsil
+ediyordu. Plasebo koluna kıyasla olaparib kolunda DDFS'de istatistiksel olarak anlamlı bir
+iyileşme de gözlenmiştir. Planlanan bir sonraki OS analizinde, plasebo koluna kıyasla olaparib
+kolunda OS'de istatistiksel olarak anlamlı bir iyileşme gözlenmiştir. FAS’taki etkililik sonuçları
+Tablo 10 ile Şekil 9 ve 10’da sunulmaktadır.Tablo 10: OlympiA'da germline BRCA mutasyonlu erken meme kanseri hastalarının
+adjuvan tedavisine ait etkililik sonuçları
+Olaparib 300 mg Plasebo
+bd (N=921) (N=915)
+IDFS (%15 olgunluk) – DCO 27 Mart 2020
+Olay sayısı: Toplam hasta sayısı (%) 106:921 (12) 178:915 (20)
+HR (%99,5 GA)a 0,58 (0,41, 0,82)
+p-değeri (2-taraflı)b 0,0000073
+3 yılda invazif hastalığı olmayan hastaların 86 (83, 88) 77 (74, 80)
+yüzdesi (%95 GA)c
+DDFS (%13 olgunluk) - DCO 27 Mart 2020
+Olay sayısı: Toplam hasta sayısı (%) 89:921 (10) 152:915 (17)
+HR (%99,5 GA)a 0,57 (0,39, 0,83)
+p-değeri (2-taraflı)b 0,0000257
+3 yılda invazif hastalığı olmayan hastaların 88 (85, 90) 80 (77, 83)
+yüzdesi (%95 GA)c
+OS (%10 olgunluk) - DCO 12 Temmuz 2021
+Olay sayısı: Toplam hasta sayısı (%) 75:921 (8) 109:915 (12)
+HR (%98,5 GA)a 0,68 (0,47, 0,97)
+p-değeri (2-taraflı)b 0,0091
+3 yılda hayatta olan hastaların yüzdesi (%95 93 (91, 94) 89 (87, 91)
+GA)c
+4 yılda hayatta olan hastaların yüzdesi (%95 90 (87, 92) 86 (84, 89)
+GA)c
+a Katmanlandırılmış Cox orantısal tehlike modeline göre, <1, plasebo koluna kıyasla olaparib
+ile daha düşük bir riski göstermektedir
+b Katmanlandırılmış log sıra testindeki p değeri.
+c KM tahminleri kullanılarak hesaplanan yüzdeler.
+bd = günde iki kez; GA = güven aralığı; DDFS = uzak metastaz olmadan sağkalım; IDFS =
+invazif hastalık olmadan sağkalım; KM = Kaplan-Meier; OS = genel sağkalım.Şekil 9: OlympiA'da germline BRCA mutasyonlu yüksek riskli erken meme kanseri
+hastalarının adjuvan tedavisine ait Kaplan-Meier IDFS grafiği
+n
+a
+y
+a
+m
+lo
+ığ
+ılais
+ts
+a h
+fize
+d z ü
+y
+n
+a v
+n i
+e
+v
+nıra
+la
+ts
+a
+h
+a
+lo
+a
+tta
+y
+a
+H
+Risk altındaki hastaların sayısı Randomizasyondan itibaren ay sayısı
+Şekil 10: OlympiA'da germline BRCA mutasyonlu yüksek riskli erken meme kanseri
+hastalarının adjuvan tedavisine ait Kaplan-Meier OS grafiği
+gBRCA1/2-mutasyonlu HER2-negatif metastatik meme kanseri
+OlympiAD (Çalışma D0819C00003)
+HER2-negatif metastatik meme kanseri olan gBRCA1/2-mutasyonlu hastalarda olaparibin
+etkililiği ve güvenliliği randomize, açık-etiketli, kontrollü bir Faz III çalışmasında (OlympiAD)çalışılmıştır. Bu çalışmada, belgelendirilmiş zararlı veya şüpheli zararlı bir gBRCA mutasyonu
+bulunan 302 hasta progresyona veya kabul edilemez toksisiteye kadar 2:1 oranında
+LYNPARZA (300 mg [2 x 150 mg tablet] günde 2 kez) veya hekimin kemoterapi seçimini
+(kapesitabin %42, eribulin %35, veya vinorelbin %17) alacak şekilde randomize edilmişlerdir.
+BRCA1/2 mutasyonları olan hastalar lokal bir test veya Myriad’da merkezi bir test yoluyla germ
+hattının test edilmesiyle tanımlanmışlardır. Hastalar şunlara göre basamaklandırılmıştır:
+metastatik meme kanseri için daha önce kemoterapi rejimi alıcısı (evet/hayır), hormon reseptörü
+(HR) pozitife karşı üçlü negatif (TNBC), meme kanseri için daha önce platinum tedavisi
+(evet/hayır). Primer sonlandırma noktası, körleştirilmiş bağımsız merkezi denetleme (BCIR)
+tarafından RECIST 1.1 kullanılarak değerlendirilen PFS idi. Sekonder sonlandırma noktaları
+PFS2, OS, objektif yanıt oranı (ORR) ve HRQoL’yi içermekteydi.
+Hastalar kontrendike değilse bir antrasiklin ve (neo)adjuvan veya metastatik bir ortamda bir
+taksan almış olmalıydı. HR+ (ER ve/veya PgR pozitif) tümörleri olan hastalar en az bir
+endokrin tedavi (adjuvan veya metastatik) almış ve bu tedavi esnasında progresyon göstermiş
+olmalı veya tedaviyi yürüten hekim tarafından endokrin tedavi için uygun olmayan bir
+hastalıklarının olması gerekmekteydi. Platinum tedavisi sırasında hastalık progresyon
+kanıtlarının olmaması şartıyla metastatik ortamda ve son dozun randomizasyondan en az 12 ay
+önce alınmış olması şartıyla (neo)adjuvan ortamda daha önceden platinum tedavisi alınmış
+olmasına izin verilmiştir. Olaparib dahil olmak üzere bir PARP inhibitörüyle daha önceki
+tedaviye izin verilmemiştir.
+Demografik ve bazal karakteristikler olaparib ve karşılaştırma kollarında genellikle iyi
+dengeliydi (Bkz. Tablo 11).
+Tablo 11: OlympiAD’da hasta demografik ve bazal karakteristikleri
+Olaparib 300 mg bd Kemoterapi
+n = 205 n = 97
+Yaş – yıl (medyan) 44 45
+Cinsiyet (%)
+Kadın 200 (98) 95 (98)
+Erkek 5 (2) 2 (2)
+Irk (%)
+Beyaz 134 (65) 63 (65)
+Asyalı 66 (32) 28 (29)
+Diğer 5 (2) 6 (6)
+ECOG performans durumu (%)
+0 148 (72) 62 (64)
+1 57 (28) 35 (36)
+Genel hastalık sınıflandırması
+Metastatik 205 (100) 97 (100)
+Lokal olarak ilerlemiş 0 0
+Yeni metastatik meme 26 (13) 12 (12)
+kanseri (%)
+Hormon reseptör durumu (%)
+HR+ 103 (50) 49 (51)
+TNBC 102 (50) 48 (49)
+gBRCA mutasyon tipi (%)
+gBRCA1 117 (57) 51 (53)
+gBRCA2 84 (41) 46 (47)
+gBRCA1 ve gBRCA2 4 (2) 0≥2 Metastatik yer (%) 159 (78) 72 (74)
+Metastaz lokalizasyonu (%)
+Sadece kemik 16 (8) 6 (6)
+Diğer 189 (92) 91 (94)
+BICR ile Ölçülebilir 167 (81) 66 (68)
+hastalık (%)
+Randomizasyon tarihinde 159 (78) 73 (75)
+progressif hastalık (%)
+Tanı anında tümör derecesi
+İyi diferansiye (G1) 5 (2) 2 (2)
+Orta derecede diferansiye 52 (25) 23 (24)
+(G2)
+Kötü diferansiye (G3) 108 (53) 55 (57)
+Diferansiye olmayan (G4) 4 (2) 0
+Değerlendirilemeyen (GX) 27 (13) 15 (16)
+Eksik 9 (4) 2 (2)
+Metastatik meme kanser için daha önceki kemoterapi serisi sayısı (%)
+0 68 (33) 31 (32)
+1 80 (39) 42 (43)
+2 57 (28) 24 (25)
+Daha önceki platinum-bazlı 55 (27) 21 (22)
+tedavi (%)
+Sadece (neo)adjuvan ortamda 12 (6) 6 (6)
+Sadece metastatik ortamda 40 (20) 14 (14)
+(neo)adjuvan ve metastatik 3 (1) 1 (1)
+ortamda
+Daha önceki antrasiklin tedavisi
+Sadece (neo)adjuvan ortamda 169 (82) 76 (78)
+Metastatik ortam 41 (20) 16 (17)
+Daha önceki taksan tedavisi
+Sadece (neo)adjuvan ortamda 146 (71) 66 (68)
+Metastatik ortam 107 (52) 41 (42)
+Daha önceki antrasiklin ve 204 (99,5) 96 (99)
+taksan tedavisi
+Takip eden tedavi olarak, tedavi ve karşılaştırma kollarında hastaların sırasıyla %0,5 ve %8’i
+bir PARP inhibitörü almıştır; hastaların sırasıyla %29 ve %42’si takip eden platinum tedavisi
+almışlardır.
+Karşılaştırma kolu ile kıyaslandığında olaparib ile tedavi edilen hastalar için primer etkililik
+sonucu olan PFS’de istatistiksel olarak anlamlı bir iyileşme gösterilmiştir (Bkz. Tablo 12 ve
+Şekil 11).Tablo 12: OlympiAD’da gBRCA1/2 mutasyonlu HER2-negatif metastatik meme kanserli
+hastalar için anahtar etkililik bulgularının özeti
+Olaparib 300 mg Kemoterapi
+bd
+PFS (%77 olgunluk) – DCO 09 Aralık 2016
+Olay sayısı: Toplam hasta sayısı (%) 163:205 (80) 71:97 (73)
+Medyan süre (ay) (%95 GA) 7,0 (5,7 – 8,3) 4,2 (2,8 – 4,3)
+HR (%95 GA) 0,58 (0,43 – 0,80)
+p-değeri (2-yönlü)a p = 0,0009
+PFS2 (%65 olgunluk) - DCO 25 Eylül 2017b
+Olay sayısı: Toplam hasta sayısı (%) 130:205 (63) 65:97 (67)
+Medyan süre (ay) (%95 GA) 12,8 (10,9 – 14,3) 9,4 (7,4 – 10,3)
+HR (%95 GA) 0,55 (0,39 – 0,77)
+p-değeri (2-yönlü)a p = 0,0005
+OS (%64 olgunluk) – DCO 25 Eylül 2017
+Olay sayısı: Toplam hasta sayısı (%) 130:205 (63) 62:97 (64)
+Medyan süre (ay) (%95 GA) 19,3 (17,2 – 21,6)c 17,1 (13,9 – 21,9)
+HR (%95 GA) 0,90 (0,66 – 1,23)
+p-değeri (2-yönlü)a p = 0,5131
+ORR – DCO 09 Aralık 2016
+Objektif yanıt verenlerin sayısı: ölçülebilir hastalığı 87:167 (52)d 15:66 (23)
+olan hastaların toplam sayısı (%)
+%95 GA 44,2 – 59,9 13,3 – 35,7
+DOR – DCO 09 Aralık 2016
+Medyan, (ay) (%95 GA) 6,9 (4,2, 10,2) 7,9 (4,5, 12,2)
+a Basamaklandırılmış log-sıra testine göre.
+b Post-hoc analiz.
+c Sansürlenmiş hastalarda medyan izlem süresi olaparib için 25,3 aya karşı karşılaştırma ilacı için 26,3 ay idi.
+d Teyit edilmiş yanıtlar (BICR ile teyit edilen) yanıtın ilk kez gözlendiği vizitten 4 haftadan daha kısa olmayan bir
+süre sonra tekrar görüntüleme ile teyit edilen kaydedilmiş bir CR/PR yanıtı olarak tanımlanmıştır. Olaparib
+kolunda ölçülebilir hastalığı olan hastaların %8’inde tam bir yanıt varken karşılaştırma kolunda hastaların
+%1,5’inde tam yanıt vardı; olaparib kolunda 74/178 (%44) hastada parsiyel yanıt varken kemoterapi kolunda 14/66
+(%21) hastada parsiyel yanıt vardı. TNBC hasta alt-grubunda teyit edilmiş ORR olaparib kolunda %48 (41/86) ve
+karşılaştırma kolunda %12 (4/33) idi. HR+ hasta alt-grubunda teyit edilmiş ORR olaparib kolunda %57 (46/81)
+ve karşılaştırma kolunda %33 (11/33) idi.
+bd Günde 2 kez; DOR Yanıt süresi; DCO Veri kesme noktası; HR Tehlike oranı; HR+ Hormon reseptörü pozitif,
+ORR Objektif yanıt oranı; OS genel sağkalım; PFS progresyonsuz sağkalım; PFS2 İkinci progresyona veya ölüme
+kadar geçen süre, TNBC üçlü negatif meme kanseri.Şekil 11: OlympiAD: gBRCA1/2-mutasyonlu HER2-negatif metastatik meme kanseri
+hastalarında Kaplan-Meier BICR PFS eğrisi (%77 olgunluk) DCO 09 Aralık2016
+Kemoterapi (N = 97)
+Olaparib 300 g günde 2 kez (N = 205)
+ığ
+ılıs
+a
+lo
+k
+u
+lz
+u
+s
+n
+o
+y
+s
+e
+r
+g
+o
+r
+P
+Randomizasyondan sonra geçen süre (ay)
+Risk altındaki hasta sayısı
+Olaparib 300 mg günde 2 kez tablet
+Kemoterapi
+Önceden tanımlanmış bütün hasta alt-gruplarında tutarlı sonuçlar gözlenmiştir (Bkz. Şekil 12).
+Alt-grup analizi TNBC (HR 0,43; %95 GA: 0,29 – 0,63, n = 152) ve HR+ (HR 0,82; %95 GA:
+0,55 – 1,26, n = 150) hasta alt-gruplarında karşılaştırma ilacına karşı olaparibin PFS yararını
+göstermiştir.Şekil 12: PFS (BICR), meta-analiz diyagramı, önceden belirlenmiş alt-gruba göre
+Bütün hastalar
+Olaparib = 163/205 (%79,5) Kemo = 71/97 (%73,2)
+metastatik meme kanseri için daha önce kemoterapi
+alan
+Evet (daha önce 1 veya 2 seri) Olaparib = 119/146 (%81,5) Kemo = 51/69 (%73,9)
+Hayır (daha önce 0 seri)
+Olaparib = 44/59 (%74,6) Kemo = 20/28 (%71,4)
+Reseptör durumu
+Olaparib = 82/103 (%76,6) Kemo = 31/49 (%63,3)
+HR+
+TNBC
+Olaparib = 81/102 (%79,4) Kemo = 40/48 (%83,3)
+Meme kanseri için daha önce platinum
+Evet
+Olaparib = 50/60 (%83,3) Kemo = 21/26 (%80,8)
+Hayır
+Olaparib = 113/145 (%72,9) Kemo = 50/71 (%70,4)
+BRCA mutasyon tipi
+BRCA1
+Olaparib = 94/114 (%82,5) Kemo = 41/50 (%82,0)
+BRCA2
+Olaparib = 64/84 (%76,2) Kemo = 30/45 (%66,7)
+Platinum dışında başka bir kemoterapide progresyon göstermeyen hasta alt-grubunun post-hoc
+analizinde medya PFS olaparib kolunda (n=22) 8,3 aya karşı (%95 GA 3,1 – 16,7) kemoterapi
+kolunda 2,8 ay (%95 GA 1,4 – 4,2) (n = 16) olup HR 0,54 (%95 GA 0,24 – 1,23) idi. Ancak
+hastaların sayısı bu alt-grupta etkililik konusunda anlamlı sonuçlar çıkartılamayacak kadar
+sınırlıydı.
+Yedi erkek hasta randomize edilmiştir (5 olaparib ve 2 karşılaştırma ilacı). PFS analizi anında
+olaparib kolundaki bir hastada 9,7 aylık yanıt süreli teyit edilmiş bir parsiyel yanıt vardı.
+Karşılaştırma kolunda teyit edilmiş yanıtlar yoktu.Şekil 13: OlympiAD: gBRCA1/2-mutasyonlu HER2-negatif metastatik meme kanseri
+hastalarında Kaplan-Meier OS grafiği (%64 olgunluk) DCO 25 Eylül 2017
+ığ
+ılıs
+a
+lo
+m
+ıla
+k
+ğ
+a
+s
+le
+n
+e
+G
+Olaparib 300 mg bd (N = 205)
+Kemoterapi (N = 97)
+Randomizasyondan sonra geçen süre (ay)
+Risk altındaki hasta sayısı
+Olaparib 300 mg bd
+Kemoterapi
+Metastatik meme kanseri için daha önce kemoterapi almayan hastalarda OS analizi, bu
+hastalarda 0,45 HR (%95 GA 0,27 – 0,77) ile birlikte bir yararı gösterirken daha fazla tedavi
+serisi için HR’nin 1’i geçtiğini göstermiştir.
+Germ hattı BRCA mutasyonlu metastatik pankreas adenokarsinomunun birinci basamak
+tedavisinden sonra idame:
+POLO Çalışması
+İdame tedavisi olarak olaparibin etkililiği ve güvenliliği metastatik pankreas adenokarsinomu
+bulunan germ hattı BRCA1/2 Mutasyonlu 154 hastada yapılan randomize (3:2), çift-kör,
+plasebo-kontrollü, çok-merkezli bir çalışmada çalışılmıştır. Hastalar hastalık progresyonuna
+veya kabul edilemez toksisiteye kadar günde iki kez 300 mg LYNPARZA (2 x 150 mg tablet)
+veya plasebo (n = 62) almıştır. Hastalar birinci-basamak platinum-bazlı kemoterapi esnasında
+progresyon göstermemiş olmalı ve daha sonra kabul edilemez toksisite sebebiyle herhangi bir
+zamanda sonlandırılabilecek olan minimum 16 haftalık sürekli platinum tedavisi almış
+olmalıyken geri kalan ajanlar planlanmış rejime göre veya diğer komponent(ler) için kabul
+edilemez toksisiteye göre devam ettirilebilmiştir. Progresyona kadar bütün platinum-içeren
+kemoterapi rejimini tolere edebilen hastalar bu çalışma için düşünülmemiştir. Progresyon
+yokluğunda veya daha önceki anti-kanser tedavisinin alopesi, derece 3 periferik nöropati ve
+Hgb ≥ 9 g/dL dışındaki diğer bütün toksisiteleri CTCAE derece 1’e çözülmemişse birinci-
+basamak kemoterapi komponent(ler)inin son dozundan 4 ila 8 hafta sonra başlanmıştır.Germ hattı BRCA1/2 mutasyonlu hastaların 31’i (%31) daha önceki yerel test sonuçlarından ve
+%69’u merkezi testlerden tanımlanmıştır. Olaparib kolunda hastaların %32’si bir germ hattı
+BRCA1 mutasyonu, %64’ü bir germ hattı BRCA2 mutasyonu ve %1’i hem BRCA1 hem de
+BRCA2 mutasyonlarını taşımaktaydı. Plasebo kolunda hastaların %26’sı germ hattı BRCA1
+mutasyonu, %73’ü Germ hattı BRCA2 mutasyonu taşımaktaydı ve hiçbir hasta hem BRCA1
+hem de BRCA2 mutasyonunu taşımamaktaydı. Daha önceki lokal test sonuçları kullanılarak
+tanımlanan bütün hastaların BRCAm durumu merkezi teste gönderilerek teyit edilmiştir.
+Hastaların %98’i zararlı bir mutasyon ve %2’si şüpheli zararlı bir mutasyon taşımaktaydı.
+Randomize edilen hastaların %5,2’sinde (8/154) BRCA1/2 genlerinde büyük yeniden
+düzenlenmeler tespit edilmiştir.
+Demografik ve bazal karakteristikler olaparib ve plasebo kolları arasında genellikle iyi
+dengeliydi. Medyan yaş her iki kolda 57 yıl idi; olaparib kolunda hastaların %30’u ≥ 65
+yaşındaken bu oran plasebo kolunda %20 idi. Olaparib kolundaki hastaların %58’i ve plasebo
+kolundaki hastaların %50’si erkekti. Olaparib kolunda hastaların %89’u beyazdı ve %11’i
+beyaz değildi. Plasebo kolunda hastaların %95’i beyazdı ve %5’i beyaz değildi. Hastaların çoğu
+ECOG performans durumu 0 idi (olaparib kolunda %71 ve plasebo kolunda %61). Genelde
+kemoterapi öncesnde metastaz yerleri karaciğer %72, akciğer %10 ve diğer yerler %50 idi. Her
+iki kolda orijinal tanıdan randomizasyona kadar geçen süre 6,9 ay idi (3,6 – 38,4 ay).
+Hastaların toplamda %75’i medyan 9 siklusla (değer aralığı:4-61 siklus) FOLFIRINOX almış,
+%8’i FOLFOX veya XELOX, %4’ü GEMOX ve %3’ü gemsitabin artı cisplatin almıştır;
+hastaların %10’u başka kemoterapi rejimleri almıştır. Metastatik hastalık için birinci-basamak
+kemoterapi süresi hastaların sırasıyla %77, %19 ve %4’ünde 4-6 ay, >6-<12 ay ve ≥ 12 ay iken
+bu oranlar plasebo kolunda sırasıyla %80, %17 ve %3 olup her iki kolda birinci-basamak
+kemoterapi komponent(ler)inin son dozundan çalışma tedavisinin başlamasına kadar geçen süre
+yaklaşık 1 ay civarındaydı. Birinci-basamak kemoterapide en iyi yanıt olarak olaparib
+hastalarının %7’sinde ve plasebo hastalarının %5’inde tam yanıt, olaparib hastalarının
+%44’ünde ve plasebo hastalarının %44’ünde parsiyel yanıt ve olaparib hastalarının %49’unda
+ve plasebo hastalarının %50’sinde stabil hastalık vardı. Randomizasyon anında ölçülebilir
+hastalık olaparib ve plasebo kollarındaki hastaların sırasıyla %85 ve %84’ünde bildirilmiştir.
+Birinci-basamak platinum-bazlı kemoterapiye başlanmasından randomizasyona kadar geçen
+medyan süre 5.7 ay idi (değer aralığı: 3,4 – 33,4 ay).
+PFS analiz tarihinde olaparib kolundaki hastaların %33’ü ve plasebo kolundaki hastaların
+%13’ü çalışma tedavisinde kalmıştı. Olaparib kolundaki hastaların %49’u ve plasebo kolundaki
+hastaların %74’ü takip eden tedavi almıştı. Olaparib kolundaki hastaların %42’si ve plasebo
+kolundaki hastaların %55’i takip eden tedavi olarak platinum almıştı. Olaparib kolundaki
+hastaların %1’i ve plasebo kolundaki hastaların %15’i takip eden tedavi olarak PARP inhibitörü
+almıştı. Olaparib ve plasebo kollarında birinci takip eden platinum-içeren tedavi alan hastaların
+33’ünden (%36) ve 28’inden (%45) sırasıyla 8 ve 6 hastada stabil hastalık bildirilirken sırasıyla
+1 ve 2 hastada yanıt vardı.Primer sonlandırma noktası, randomizasyondan hastalık kanıtları veya ölüm olmayan hastaları
+değerlendirmek üzere modifiye edilen Solid Tümörlerde Yanıt Değerlendirme Kriterleri
+(RECIST) 1.1 kullanılarak BICR ile belirlenen progresyona kadar geçen süre şeklinde
+tanımlanmıştır. Sekonder etkililik sonlandırma noktaları genel sağkalım (OS),
+randomizasyondan ikinci progresyona veya ölüme kadar geçen süre (PFS2), randomizasyondan
+birinci takip eden anti-kanser tedavisine veya ölüme kadar geçen süre (TFST), objektif yanıt
+oranı (ORR), yanıt süresi (DoR), yanıt oranı, yanıta kadar geçen süre ve sağlıkla ilişkili yaşam
+kalitesini (HRQoL) içermekteydi.
+Çalışma, plaseboya karşı olaparib için PFS’de istatistiksel açıdan anlamlı bir iyileşmeyi
+göstermiştir (Tablo 13). BCIR ile yapılan PFS değerlendirmesi araştırmacı değerlendirmesi ile
+uyumluydu.
+En son OS analizinde hayatta ve izlemde kalan hastaların yüzdesi olaparib kolunda %28 ve
+plasebo kolunda %18 idi.
+Tablo 13: POLO’da pankreasın gBRCAm metastatik adenokarsinomu olan hastalar için
+etkililik sonuçları
+Olaparib 300 mg Plasebo
+bd
+PFS (68% olgunluk)a,b (BICR, DCO 15 Ocak 2019)
+Olay sayısı: Toplam hasta sayısı (%) 60:92 (65) 44:62 (71)
+Medyan süre, ay (%95 GA) 7,4 (4,14 – 11,01) 3,8 (3,52 – 4,86)
+HR (%95 GA)c,d 0,53 (0,35 – 0,82)
+P değeri (2-yönlü) p = 0,0038
+OS (%70 olgunluk)e (DCO 21 Temmuz 2020)
+Olay sayısı/toplam hasta sayısı (%) 61:92 (66) 47:62 (76)
+Medyan süre, ay (%95 GA) 19,0 (15,28 – 19,2 (14,32 – 26,12)
+26,32)
+HR (%95 GA)d 0,83 (0,56 – 1,22)
+P değeri (2-yönlü) p = 0,3487
+a Kaplan–Meier hesaplamalarına göre 12 ve 24.aylarda hayatta ve progresyonsuz kalan hastaların oranı
+olaparib için sırasıyla %34 ve %22, plasebo için sırasıyla %15 ve %10 idi.
+b PFS için sansürlenmiş hastalarda medyan izlem süresi olaparib kolunda 9,1 ay ve plasebo kolunda 3,8
+ay idi.
+c < 1 olan değerler olaparib lehinedir.
+d Analiz log-sıra testi kullanılarak yapılmıştır.
+e OS için sansürlenmiş hastalarda medyan izlem süresi olaparib kolunda 31,3 ay ve plasebo kolunda 23,9
+ay idi.
+bd Günde 2 kez; CI Güven aralığı; HR Tehlike oranı; OS Genel Sağkalım; PFS Progresyonsuz sağkalım.Şekil 14: POLO: gBRCAm metastatik adenokarsinomlu hastalar için Kaplan-Meier PFS
+grafiği (%68 olgunluk – BICR, DCO 15 Ocak 2019)
+ığ
+ılıs
+a
+lo
+m
+ıla
+k
+ğ
+a
+s
+z
+u
+s
+n
+o
+y
+s
+e
+r
+g
+o
+r
+P
+Risk altındaki hasta sayısı Randomizasyondan sonra geçen süre (ay)
+Şekil 15: POLO: gBRCAm metastatik adenokarsinomlu hastalar için Kaplan-Meier OS
+grafiği (%70 olgunluk, DCO 21 Temmuz 2020)
+ığ
+ılıs
+a
+lo
+m
+ıla
+k
+ğ
+a
+s
+le
+n
+e
+G
+Risk altındaki hastaların sayısı: Randomizasyondan itibaren geçen süre (ay)BRCA1/2-mutasyonlu metastatik kastrasyona dirençli prostat kanseri:
+PROfound Çalışması
+LYNPARZA’nın etkililiğinin araştırmacı tarafından seçilen NHA ([yeni hormonal ajan]
+enzalutamid veya abirateron asetat) sınıfı bir karşılaştırma ilacı kolu ile karşılaştırmalı şekilde
+değerlendirilmiş olduğu bir Faz III randomize, açık etiketli, çok merkezli çalışmada olaparibin
+güvenliliği ve etkililiği metastatik kastrasyona dirençli prostat kanseri (mCRPC) görülen
+erkeklerde araştırılmıştır.
+Hastaların metastatik prostat kanserine ve/veya CRPC’ye yönelik önceki tedavi için uygulanan
+NHA sırasında progresyon sergilemiş olması gerekiyordu. A Kohortuna dahil edilmeleri için
+hastaların BRCA1 ya da BRCA2 genlerinde yıkıcı ya da şüpheli yıkıcı mutasyonlar olması
+gerekiyordu. ATM mutasyonları olan hastalar da A Kohortuna randomize edilmişti ancak bu
+hasta alt grubunda pozitif fayda-risk kanıtlanamamıştır. Diğer genlerde mutasyonları olan
+hastalar B Kohortuna randomize edilmiştir.
+Bu çalışmada 387 hasta olaparib LYNPARZA (günde iki defa 300 mg [2 x 150 mg tablet])
+veya karşılaştırma ilacı almak üzere 2/1 oranında randomize edilmiştir. Kohort A’da 245 hasta
+(162 olaparib, 83 karşılaştırma ilacı), Kohort B’de ise 142 hasta (94 olaparib, 48 karşılaştırma
+ilacı) yer almıştır. Hastalar önceki taksan kullanımına ve ölçülebilir hastalık kanıtına göre
+basamaklandırılmıştır. Tedavi hastalık progresyonuna kadar sürmüştür. Karşılaştırma ilacına
+randomize edilmiş olan hastalara, BICR ile radyolojik progresyonun doğrulanması durumunda,
+olaparibe geçiş yapma seçeneği sunulmuştur. Tümörlerinde BRCA1m, BRCA2m tespit edilmiş
+olan hastalar, lokal test sonucu kullanılarak kaydedilen 3 hasta dışında prospektif Merkezi
+testlere göre kaydedilmiştir. PROfound’da BRCA1 ya da BRCA2 mutasyonu olan 160 hastadan
+114 hasta tanımlanmış BRCA1/2 mutasyonunun köken olarak germ hattı mı yoksa somatik mi
+olduğunu belirlemek üzere retrospektif olarak test edilmiştir. Bu hastalar içerisinde germ hattı
+kan örneğinde 63 BRCA1/2 mutasyonu tanımlanmış ve bu nedenle germ hattı kökenli oldukları
+belirlenmiştir. Kalan 51 hastada germ hattı kan örneğinde BRCA1/2 mutasyonu tanımlanmış
+tümör tespit edilmemiş bu nedenle BRCA1/2 mutasyonlarının somatik kökenli olduğu
+belirlenmiştir. Kalan 46 hasta için somatik ya da germ hattı kökeni bilinmemektedir.
+Demografik özellikler ve başlangıç özellikleri, BRCA1/2 mutasyonları olan hastalarda olaparib
+ve karşılaştırma ilacı kolları arasında genellikle iyi dengelenmişti. Medyan yaş, olaparib ve
+karşılaştırma ilacı kollarında sırasıyla 68 yaş ve 67 yaştı. Olaparib kolundaki önceki tedavi %71
+taksan, %41 enzalutamid, %37 abirateron asetat ve %20 enzalutamid ve abirateron asetat
+şeklindeydi. Karşılaştırma ilacı kolundaki önceki tedavi %60 taksan, %50 enzalutamid, %36
+abirateron asetat ve %14 enzalutamid ve abirateron asetat şeklindeydi. Olaparib kolundaki
+hastaların yüzde elli sekizi (%58) ile karşılaştırma ilacı kolundaki hastaların %55’inde
+çalışmaya girişte ölçülebilir hastalık vardı. Kemik, lenf düğümü, solunum yolları ve karaciğer
+metastazları olan hastaların oranı olaparib kolunda sırasıyla %89, %62, %23 ve %12 ilen
+karşılaştırma ilacı kolunda sırasıyla %86, %71, %16 ve %17 idi. Her iki tedavi kolundaki
+hastaların çoğunda ECOG 0 ya da 1’di (%93). Başlangıç ağrı skorları (BPI-SF en kötü ağrı),
+olaparib kolunda 0-<2 (552), 2-3 (%10)) ya da >3 (%34) ve karşılaştırma ilacı kolunda ise 0-
+<2 (%45), 2-3 (%7) ya da >3’tü (%45). Medyan başlangıç PSA olaparib kolunda 57,48 µg/L
+ve karşılaştırma ilacı kolunda 103,95 µg/L idi.Çalışmanın primer sonlanma noktası, Kohort A’da RECIST 1.1 (yumuşak doku) ve Prostat
+Kanseri Çalışma Grubu (PCWG3) (kemik) kullanılarak tespit edilen radyolojik progresyonsuz
+sağkalım (rPFS) olarak belirlenmiştir. Kilit sekonder sonlanma noktaları arasında BICR
+tarafından doğrulanmış objektif yanıt oranı (ORR), BICR tarafından tespit edilen rPFS, ağrı
+progresyonuna kadar geçen süre (TTPP) ve genel sağkalım (OS) bulunuyordu.
+Çalışma, Kohort A’da karşılaştırma ilacı karşısında olaparib için BICR tarafından
+değerlendirilen rPFS ve nihai OS için istatistiksel açıdan önemli iyileşmeyi kanıtlamıştır.
+BRCA1/2 mutasyonları olan hastalar için sonuçlar Tablo 14’de sunulmaktadır. BRCA1/2m
+hastalarında araştırmacının seçtiği NHA koluna karşı olaparib için BICR tarafından
+değerlendirilen rPFS’te istatistiksel açıdan önemli iyileşme vardı. Nihai OS analizi,
+LYNPARZA ve karşılaştırma ilacına randomize edilmiş BRCA1/2m hastalarında nominal
+olarak istatistiksel açıdan önemli iyileşme göstermiştir.
+Tablo 14: PROfound’da BRCA1 /2-mutasyonlu mCRPC hastalarındaki kilit etkililik
+bulgularının özeti
+Günde iki defa Araştırmacı
+olaparib 300 mg tarafından seçilen
+(N=102) NHA
+(N=58)
+BICR ile rPFSa,b,c DCO 4 Haziran 2019
+Olay sayısı / toplam hasta sayısı (%) 62/102 (61)c 51/58 (88)c
+Medyan rPFS (%95 GA) [ay] 9,8 (7,6, 11,3) 3,0 (1,8, 3,6)
+HR (%95 GA)c 0,22 (0,15, 0,32)
+BICR ile doğrulanmış ORRa
+Objektif yanıt verenlerin sayısı/başlangıçta 25/57 (44) 0:33 (0)
+ölçülebilir hastalığı olan toplam hasta sayısı (%)
+Olasılık oranı (%95 GA) NC (NC, NC)
+OSa DCO 20 Mart 2020c
+Olay sayısı / toplam hasta sayısı (%) 53/102 (52) 41/58 (71)
+Medyan OS (%95 GA) [ay] 20,1 (17,4, 26,8) 14,4 (10,7, 18,9)
+HR (%95 GA) 0,63 (0,42, 0,95)
+a Multiplisite açısından kontrol edilmemiştir
+b rPFS %71 olgunluk
+c HR ve GA, tedavi, faktör ve faktör etkileşimine göre tedavi terimlerini içeren Cox orantısal risk modeli kullanılarak
+hesaplanmıştır.
+bd Günde iki kez; BICR Körleştirilmiş Bağımsız Merkezi İnceleme; GA Güven aralığı; HR Tehlike oranı; NC Hesaplanamaz;
+NHA Yeni hormonal ajan; ORR Objektif yanıt oranı; OS Genel sağkalım; rPFS Radyolojik progresyonsuz sağkalımŞekil 16: BRCA1/2m hastaları: Kaplan Meier rPFS grafiği (BICR ile)
+ığ
+ılıs
+G
+A Nr
+Hü an Aşd
+t
+ıe
+r
+mik ai cd ıe tf aa
+r
+o al fa ınp da ari nb s3 e0 ç0
+il
+em ng
+a
+lo
+m
+ıla
+k
+ğ
+a
+s
+z
+u
+s
+n
+o
+y
+s
+e
+r
+g
+o
+r
+p
+k
+ijo
+lo
+y
+d
+a
+R
+Randomizasyondan itibaren geçen süre (ay)
+Risk altındaki hastaların sayısı:
+Günde iki defa olaparib 300 mg
+Araştırmacı tarafından seçilen NHA
+Şekil 17: BRCA1/2m hastaları: Kaplan-Meier OS grafiği
+Günde iki defa olaparib 300 mg
+Araştırmacı tarafından seçilen
+NHA
+ığ
+ılıs
+a
+lo
+m
+ıla
+k
+ğ
+a
+s
+z
+u
+s
+n
+o
+y
+s
+e
+r
+g
+o
+r
+P
+Randomizasyondan itibaren geçen süre (ay)
+Risk altındaki hastaların sayısı:
+Günde iki defa olaparib 300 mg
+Araştırmacı tarafından seçilen NHABirinci basamak mCRPC ortamındaki hastaların tedavisi
+PROpel
+Olaparibin güvenliliği ve etkililiği, plasebo artı abirateron karşılaştırma koluna karşı abirateron
+(günde bir kez 1000 mg [2 x 500 mg tablet]) ile kombinasyon halindeki LYNPARZA ‘nın (300
+mg [2 x 150 mg) etkililiğini değerlendiren bir Faz III randomize, çift kör, plasebo kontrollü,
+çok merkezli bir çalışmada metastatik kastrasyona dirençli prostat kanseri (mCRPC) olan
+erkeklerde incelenmiştir. Her iki koldaki hastalara ayrıca günde iki kez 5 mg prednizon veya
+prednizolon verilmiştir.
+Çalışma, histolojik olarak doğrulanmış prostat adenokarsinomu ve kemik veya CT/MRI
+taramasında belgelenmiş en az bir metastatik lezyon olarak tanımlanan metastatik durumu olan
+ve mCRPC ortamında daha önce kemoterapi veya NHA almamış olan tedavi görmemiş 796
+hastayı (1:1 randomizasyon; 399 olaparib/abirateron:397 plasebo/ abirateron) randomize
+etmiştir. mCRPC evresinden önce, tedavinin randomizasyondan en az 12 ay önce durdurulması
+koşuluyla, tedavi sırasında PSA progresyonu (klinik veya radyolojik) göstermeyen NHA'larla
+(abirateron hariç) tedaviye izin verilmiştir. 4 haftalık bir arınma dönemi olması koşuluyla
+birinci nesil antiandrojen ajanlarla (ör., bikalutamid, nilutamid, flutamid) tedaviye de izin
+verilmiştir. Lokalize prostat kanseri ve metastatik hormona duyarlı prostat kanseri (mHSPC)
+evresinde neoadjuvan/adjuvan tedavi sırasında, bu tür bir tedavi sırasında veya hemen
+sonrasında herhangi bir hastalık progresyonu belirtisi görülmediği sürece dosetaksel tedavisine
+izin verilmiştir. Tüm hastalara bir GnRH analogu verilmiş veya daha önce bilateral orşiektomi
+yapılmıştır. Hastalar, metastazlara (yalnızca kemik, viseral ya da diğer) ve mHSPC evresinde
+dosetaksel tedavisine (evet ya da hayır) göre katmanlandırılmıştır. Altta yatan hastalığın
+progresyonunun radyolojik olarak ortaya konmasına veya kabul edilemez toksisiteye kadar
+tedaviye devam edilmiştir.
+Demografik özellikler ve başlangıç özellikleri iki tedavi kolu arasında dengeliydi. Hastaların
+medyan yaşı genel olarak 69 idi ve hastaların çoğunluğu (%71) 65 yaş ve üstü gruptaydı. Yüz
+seksen dokuz hasta (%24) mHSPC evresinde daha önce dosetaksel tedavisi görmüştür.
+Toplamda 434 (%55) hastada kemik metastazı (kemikte olup başka bir uzak yerde olmayan
+metastazlar), 105 (%13) hastada viseral metastaz (bir organda örneğin karaciğer, akciğer gibi
+uzak yumuşak doku metastazı) ve 257 (%32) hastada başka metastazlar (bu, örneğin kemik
+metastazları ve uzak lenf düğümleri olan hastalar veya yalnızca uzak lenf düğümlerinde
+hastalığı olan hastaları kapsar) vardı. Her iki koldaki hastaların çoğunda (%70) ECOG
+performans durumu 0'dı. Olaparib grubunda 103 (%25,8) ve plasebo grubunda 80 (%20,2)
+semptomatik hasta vardı. Semptomatik hastalar, Kısa Ağrı Envanteri-Kısa Form (BPI-SF)
+madde #3 skoru ≥ 4 ve/veya başlangıçta opiyat kullanımı ile karakterize edilmiştir.
+Hasta kaydı biyobelirteç durumuna bağlı değildi. HRR gen mutasyonu durumu, FAS
+popülasyonunda tedavi etkisinin tutarlılığını değerlendirmek üzere ctDNA ve tümör doku
+testleri ile retrospektif olarak değerlendirilmiştir. Test edilen hastaların 198'i ve 118'i sırasıyla
+ctDNA ve tümör dokusu ile belirlendiği gibi HRRm idi. İki kol arasında HRRm hastalarının
+dağılımı iyi dengelenmişti.
+Primer sonlanım noktası, RECIST 1.1 ve PCWG-3 kriterlerine (kemik) dayalı araştırmacı
+değerlendirmesi ile belirlenen, randomizasyondan radyolojik progresyona kadar geçen süre
+olarak tanımlanan rPFS idi. Kilit sekonder etkililik sonlanım noktası genel sağkalımdı (OS).
+Diğer sekonder sonlanım noktaları arasında PFS2, TFST ve HRQoL bulunuyordu.Çalışma, araştırmacı tarafından HR 0,66; %95 GA 0,54, 0,81; p<0,0001; olaparib/abirateron
+kolunda medyan rPFS 24,8 ay ve plasebo/abirateron kolunda 16,6 ay şeklinde değerlendirildiği
+gibi, plasebo/abirateron ile karşılaştırıldığında olaparib/abirateron için radyolojik hastalık
+progresyonu veya ölüm riskinde istatistiksel olarak anlamlı bir iyileşme sergileyerek birincil
+sonlanım noktasını karşılamıştır. Araştırmacı tarafından yapılan rPFS değerlendirmesi,
+körleştirilmiş bağımsız merkezi radyolojik (BICR) inceleme ile desteklenmiştir. BICR
+tarafından rPFS'nin duyarlılık analizi, HR 0,61 ile araştırmacı tarafından yapılan analizle
+tutarlıydı; %95 GA 0,49, 0,74; p<0,0001; medyan rPFS sırasıyla olaparib/abirateron kolunda
+27,6 ay ve plasebo/abirateron kolunda 16,4 ay.
+Alt grup sonuçları, mHSPC evresinde önceden taksan alan ya da almayan hastalar, başlangıçta
+farklı metastatik hastalığı (viseral, yalnızca kemik ve diğer) olan hastalar ve HRRm'si olan veya
+olmayan hastalar dahil olmak üzere önceden tanımlanmış tüm alt gruplarda plasebo/abirateron
+ile karşılaştırıldığında olaparib/abirateron için genel sonuçlarla tutarlıydı (Şekil 20).
+Etkililik sonuçları Tablo 15, Tablo 16, Şekil 18 ve Şekil 19’da sunulmaktadır.
+Tablo 15: PROpel’de mCRPC hastalarının tedavisine yönelik kilit etkililik bulgularının
+özeti
+Olaparib/abirateron Plasebo/abirateron
+N = 399 N = 397
+rPFS (araştırmacı değerlendirmesine göre) (%50 olgunluk ) (DCO 30 Temmuz 2021)
+Olay sayısı: Toplam hasta sayısı (%) 168:399 (42,1) 226:397 (56,9)
+Medyan süre (%95 GA) (ay) 24,8 (20,5, 27,6) 16,6 (13,9, 19,2)
+HR (%95 GA)a 0,66 (0,54, 0,81)
+p-değerib < 0,0001
+Nihai OS (%48 olgunluk) (DCO 12 Ekim 2022)
+Olay sayısı: Toplam hasta sayısı (%) 176:399 (44,1) 205:397 (51,6)
+Medyan süre (%95 GA) (ay) 42,1 (38,4, NC) 34,7 (31,0 39,3)
+HR (%95 GA)a 0,81 (0,67, 1,00)
+p-değerib p=0,0544
+36. ayda sağ olanların yüzdesi (%95 GA) 56,9 (51,7, 61,7) 49,5 (44,3, 54,5)
+a HR ve GA primer birleştirme stratejisinde seçilen değişkenler için ayarlanan bir Cox orantısal tehlike modeli
+kullanılarak hesaplanmıştır: metastazlar, mHSPC evresinde dosetaksel tedavisi. Eşitlik bulunan sonuçlar için
+Efron yaklaşımı kullanılmıştır. HR < 1, olaparib 300 mg bd +abirateron 100 mg qd lehinedir.
+b 2 taraflı p-değeri, primer birleştirme stratejisinde seçilen aynı değişkenlere göre katmanlandırılmış log-sıra testi
+kullanılarak hesaplanmıştır
+c Kaplan-Meier tekniği kullanılarak hesaplanmıştırTablo 16: Araştırmacı değerlendirmesi ile rPFS alt grup analizleri - PROpel (DCO 30
+Temmuz 2021)
+Olaparib / Plasebo
+abirateron
+Araştırmacı değerlendirmesi ile Radyolojik Progresyonsuz Sağkalım (rPFS)
+Agrega HRRm Alt Grup Analizleria
+HRRm N = 111 N = 115
+Olay sayısı: Toplam hasta sayısı (%) 43:111 (38,7) 73:115 (63,5)
+Medyan (ay) NC 13,86
+Tehlike oranı (%95 GA)b 0,50 (0,34, 0,73)
+HRRm Dışı N = 279 N = 273
+Olay sayısı: Toplam hasta sayısı (%) 119:279 (42,7) 149:273 (54,6)
+Medyan (ay) 24,11 18,96
+Tehlike oranı (%95 GA)b 0,76 (0,60, 0,97)
+Agrega BRCAm Alt Grup Analizleria
+BRCAm N = 47 N = 38
+Olay sayısı: Toplam hasta sayısı (%) 14:47 (29,8) 28:38 (73,7)
+Medyan (ay) NC 8,38
+Tehlike oranı (%95 GA)b 0,23 (0,12, 0,43)
+BRCAm Dışı N = 343 N = 350
+Olay sayısı: Toplam hasta sayısı (%) 148:343 (43,1) 194:350 (55,4)
+Medyan (ay) 24,11 18,96
+Tehlike oranı (%95 GA)b 0,76 (0,61, 0,94)
+a Agrega alt grupları, ctDNA'dan ve doku bazlı gruplamalardan elde edilmiştir.
+b Analiz, tedavi grubu, alt grup faktörü ve alt grup etkileşimine göre tedavi terimlerini içeren Cox
+orantısal risk modeli kullanılarak gerçekleştirilmiştir. Profil olasılığı yöntemi kullanılarak hesaplanan
+güven aralığı. HR <1, olaparib 300 mg bd lehinedir.Şekil 18: PROpel: PROpel: Kaplan Meier rPFS grafiği (araştırmacı tarafından
+değerlendirilen) (%50 olgunluk) DCO 30 Temmuz 2021
+ığ
+ılıs
+a
+lO
+m
+ıla
+k
+ğ
+a
+S
+z
+u
+s
+n
+o
+y
+s
+e
+rg
+o
+rP
+k
+if
+a
+rg
+o
+y
+d
+a
+R
+Şekil 19 PROpel: Kaplan-Meier OS grafiği (%48 olgunluk) DCO 12 Ekim 2022Şekil 20: PROpel: rPFS alt grup analizinin meta-analiz diyagramı (araştırmacı
+tarafından değerlendirilen) (%50 olgunluk) DCO 30 Temmuz 2021)
+Progresyon veya Abirateron + Abirateron +
+ölüm için tehlike Olaparib Plasebo
+oranı (%95 GA) Olay sayısı / hasta sayısı
+Tüm hastalar
+Rastgele atamada yaş: < 65 yıl
+Rastgele atamada yaş: ≥ 65 yıl
+Başlangıçta ECOG performans durumu= 0*
+Başlangıçta ECOG performans durumu= 1*
+Metastaz: Sadece Kemik
+Metastaz: Organ
+Metastaz: Diğer
+mHSPC evresinde dosetaksel tedavisi
+mHSPC evresinde dosetaksel tedavisi yok
+Başlangıç PSA: medyan başlangıç PSA'dan
+düşük
+Başlangıç PSA: medyan başlangıç PSA'dan
+yüksek veya eşit
+HRRm durumu (agrega): HRRm
+HRRm durumu (agrega): HRRm dışı
+Asya bölgesi
+Avrupa bölgesi
+Kuzey ve Güney Amerika bölgesi
+Beyaz ırk
+Siyaj / Afrikalı Amerikalı ırk
+Asya ırk
+Diğer
+Abirateron + Olaparib daha iyi Abirateron + Plasebo daha iyi
+Her alt grup analizi, tedavi, faktör ve faktör etkileşimine göre tedavi terimlerini içeren Cox
+orantısal risk modeli kullanılarak hesaplanmıştır. Tehlike oranı < 1, olaparible daha düşük
+progresyon riski anlamına gelir. Bir dairenin boyutu olay sayısıyla orantılıdır.
+*Başlangıç değerlendirmesi olmayan hastaları kapsamaz. GA: güven aralığı, ECOG: Doğu
+Ortak Onkoloji Grubu; HRRm: homolog rekombinasyon onarımı gen mutasyonu; mHSPC:
+metastatik hormon duyarlı prostat kanseri; NC: hesaplanamaz; PSA: prostat spesifik antijen.
+Pediyatrik popülasyon
+Avrupa İlaç Kurumu, LYNPARZA ile over karsinomunda (rabdomiyosarkoma ve germ hücreli
+tümörler hariç) tüm pediyatrik popülasyon alt gruplarında çalışma sonucu sunma yükümlülüğü
+konusunda muafiyet getirmiştir (pediyatrik kullanım hakkında bilgi için bkz. bölüm 4.2).5.2. Farmakokinetik özellikler
+Genel özellikler
+Olaparibin 300 mg tablet dozundaki farmakokinetiği, ~7 L/saatlik görünür plazma klirensi,
+~158 L’lik görünür dağılım hacmi ve 15 saatlik terminal yarılanma ömrü ile karakterizedir.
+Çoklu dozlama ile 1.8’lik EAA birikme oranı gözlenmiştir ve farmakokinetiğin düşük bir
+ölçüde zamana bağımlı olduğu görülmüştür.
+Emilim:
+Olaparibin tablet formülasyonu (2 x 150 mg) ile oral uygulanması sonrasında emilim hızlı olup,
+medyan doruk plazma konsantrasyonlarına tipik olarak doz uygulamasından 1.5 saat sonra
+ulaşılır.
+Yiyecekler ile birlikte uygulama olaparib emiliminin hızını azaltmış (t 2.5 saat gecikmiş ve
+maks
+C yaklaşık %21 azalmıştır); fakat emilimin boyutunu anlamlı ölçüde etkilememiştir (EAA
+maks
+%8 artmıştır). Dolayısıyla LYNPARZA, aç veya tok karnına alınabilir (bkz. Bölüm 4.2).
+Dağılım:
+İn vitro plazma proteinlerine bağlanması, klinik olarak anlamlı olan 10 µg/mL'lik
+konsantrasyonlarda yaklaşık %82’dir.
+İn vitro koşullarda olaparibin insan plazma proteinlerine bağlanma oranı doza bağımlıdır;
+bağlanan kısım 1 μg/mL’de yaklaşık %91 iken, 10 μg/mL’de %82 ve 40 μg/mL’de %70’e
+düşmüştür. Saflaştırılmış protein çözeltilerinde albümine bağlanan olaparib fraksiyonu yaklaşık
+%56 olup, olaparib konsantrasyonlarından bağımsızdır. Aynı analiz kullanılarak, alfa-1 asit
+glikoproteine bağlanan fraksiyon 10 μg/mL’de %29 iken, daha yüksek konsantrasyonlarda
+azalmış bağlanma eğilimi gözlenmiştir.
+Biyotransformasyon:
+İn vitro koşullarda CYP3A4/5’lerin olaparibin metabolizmasından esasen sorumlu izoenzimler
+olduğu gösterilmiştir (bkz. Bölüm 4.5).
+Kadın hastalara 14C-olaparibin oral yolla verilmesinden sonra değişmemiş olaparib plazmadaki
+radyoaktivitenin büyük kısmını oluşturmuş (%70) ve gerek idrar gerekse feçeste bulunan ana
+bileşen olmuştur (dozun sırasıyla %15’i ve %6’sı). Olaparibin metabolizasyonu yaygındır.
+Metabolizmanın büyük kısmı oksidasyon reaksiyonlarına dayanmakta ve üretilen bileşenlerin
+bir kısmı sonrasında glukuronid veya sülfat konjügasyonuna uğramaktadır. Plazma, idrar ve
+feçeste sırasıyla 20, 37 ve 20’ye kadar metabolit tespit edilmiştir ve bunların çoğu dozlanan
+materyalin <%1’ini temsil etmektedir. Bir açık halkalı piperazin-3-ol kısmı ve iki mono-
+oksijenli metabolit (her biri yaklaşık %10) dolaşımdaki başlıca bileşenler olup, mono-oksijenli
+metabolitlerden birinin ayrıca dışkıdaki majör metabolit olduğu belirlenmiştir (idrar ve
+feçesteki radyoaktivitenin sırasıyla %6’sı ve %5’i).
+Olaparib, in vitro olarak UGT1A4, UGT1A9, UGT2B7 veya CYP 1A2, 2A6, 2B6, 2C8, 2C9,
+2C19, 2D6 veya 2E1'i çok az inhibe etmiş/hiç inhibe etmemiştir ve bu CYP enzimlerinin
+herhangi birinin klinik olarak anlamlı, zamana bağlı bir inhibitörü olması beklenmez. Olaparib,
+UGT1A1'i in vitro olarak inhibe etmiştir, ancak PBPK simülasyonları bunun klinik önemi
+olmadığını düşündürmektedir. Olaparib, in vitro olarak dış akım taşıyıcısı P-gp'nin bir
+substratıdır, ancak bunun klinik olarak anlamlı olması olası değildir (bkz. bölüm 4.5).İn vitro koşullardan elde edilen veriler olaparibin OATP1B1, OATP1B3, OCT1, BCRP veya
+MRP2 substratı olmadığını, ve OATP1B3, OAT1 veya MRP2’nin inhibitörü olmadığını
+göstermektedir.
+Eliminasyon:
+Tek bir 14C-olaparib dozundan sonra, radyoaktivitenin yaklaşık %86’sı 7 günlük toplama süresi
+içinde tespit edilmiştir. Bunun yaklaşık %44’ü idrar ile, yaklaşık %42’si feçes iledir. Materyalin
+çoğu metabolitler halinde atılmıştır.
+Doğrusallık/Doğrusal olmayan durum:
+LYNPARZA isimli ürünümüzün doz ve / veya zaman açısından etkin madde
+farmakokinetiğinin doğrusallığı / doğrusal olmaması durumu uygulanabilir değildir.
+Hastalardaki karakteristik özellikler
+Popülasyon bazlı farmakokinetik analizlerde hasta yaşı, vücut ağırlığı veya ırkı (Beyaz ve Japon
+hastaları içerir) anlamlı eşdeğişkenler olmamıştır.
+Böbrek yetmezliği:
+Böbrek fonksiyonları normal olan hastalar ile karşılaştırıldığında hafif derecede böbrek
+yetmezliği (kreatinin klirensi 51 ila 80 mL/dk) olan hastalarda EAA değeri %24, C değeri
+maks
+%15 artmıştır. LYNPARZA hafif derecede böbrek yetmezliği olan hastalara herhangi bir doz
+ayarlaması yapılmadan uygulanabilir.
+Böbrek fonksiyonları normal olan hastalar ile karşılaştırıldığında orta derecede böbrek
+yetmeliği (kreatinin klirensi 31 ila 50 mL/dk) olan hastalarda EAA değeri %44, C değeri
+maks
+%26 artmıştır. Orta derecede böbrek yetmezliği olan hastalar için LYNPARZA dozunun
+ayarlanması önerilir (bkz. Bölüm 4.2).
+Ağır derecede böbrek yetmezliği veya son evre böbrek yetmezliği (kreatinin klirensi < 30
+mL/dk) olan hastalara ilişkin veri bulunmamaktadır.
+Karaciğer yetmezliği:
+Karaciğer fonksiyonu normal olan hastalarla karşılaştırıldığında hafif karaciğer yetmezliği
+(Child Pugh sınıflandırması A) görülen hastalarda EAA %15, Cmaks ise %13 artarken, orta
+dereceli karaciğer yetmezliği (Child Pugh sınıflandırması B) görülen hastalarda EAA %8,
+Cmaks ise %13 artmıştır. Hafif veya orta dereceli karaciğer yetmezliği bulunan hastalarda
+LYNPARZA dozunun ayarlanmasına gerek yoktur (bkz. bölüm 4.2). Şiddetli karaciğer
+yetmezliği (Child Pugh sınıflandırması C) olan hastalarla ilgili veri mevcut değildir.
+Pediyatrik popülasyon:
+Pediyatrik hastalarda olaparibin farmakokinetiğini incelemek üzere herhangi bir çalışma
+gerçekleştirilmemiştir.
+5.3. Klinik öncesi güvenlilik verileri
+Genotoksisite
+Olaparib mutajenik potansiyel göstermemiştir; ancak in vitro koşullarda memeli hücrelerinde
+klastojeniktir. Olaparib, sıçanlara oral yolla verildiğinde kemik iliğinde mikro-çekirdekleri
+indüklemiştir. Bu klastojenisite, olaparibin bilinen farmakolojisi ile uyumludur ve insandagenotoksisite potansiyeline işaret etmektedir.
+Tekrarlı doz toksisitesi
+Sıçanlarda ve köpeklerde 6 aya varan tekrarlı doz toksisite çalışmalarında olaparibin oral
+dozları iyi tolere edilmiştir. Her iki türde de toksisite için başlıca primer hedef organ kemik iliği
+olup, periferik hematoloji parametrelerinde ilişkili değişiklikler ortaya çıkmıştır. Bu bulgular,
+klinik koşullarda görülenlerin altındaki maruziyetlerde ortaya çıkmış ve doz uygulamasına
+4 hafta ara verildiğinde büyük oranda geri dönüşümlü olmuştur. Ex vivo tayinlerde insan kemik
+iliği hücrelerinin kullanıldığı çalışmalar da olaparibe doğrudan maruziyetin kemik iliği
+hücrelerinde toksisite ile sonuçlanabileceğini göstermiştir.
+Üreme toksisitesi
+Sıçanlara implantasyona kadar dozların uygulandığı dişi fertilite çalışmasında, bazı
+hayvanlarda östrus süresinde uzama görülmüş, buna karşın çiftleşme performansı ve gebelik
+oranı etkilenmemiştir. Diğer yandan embriyofetal sağkalımda hafif bir azalma olmuştur.
+Sıçanlar üzerinde gerçekleştirilen embriyofetal gelişim çalışmalarında anlamlı maternal
+toksisite oluşturmayan doz düzeylerinde olaparib daha düşük embriyofetal sağkalıma, daha
+düşük fetal ağırlığa ve majör göz malformasyonları (örn., anoftalmi, mikroftalmi),
+omur/kaburga malformasyonları ve iç organ ve kemik anomalileri dahil fetal gelişim
+anomalilerine yol açmıştır.
+Karsinojenisite
+Olaparib ile karsinojenisite çalışmaları gerçekleştirilmemiştir.
+6. FARMASÖTİK ÖZELLİKLER
+6.1. Yardımcı maddelerin listesi
+Tablet çekirdeği
+Ekstrudat yardımcı maddeleri
+Kopovidon K28
+Kolloidal silikon dioksit
+Ekstrüzyon sonrası yardımcı maddeler
+Mannitol
+Sodyum stearil fumarat
+Kolloidal silikon dioksit
+Tablet kaplaması
+Hipromelloz 2910
+Makrogol 400
+Titanyum dioksit (E171)
+Sarı demir oksit (E172)
+Saf su
+6.2. Geçimsizlikler
+Bilinen herhangi bir geçimsizliği bulunmamaktadır.
+6.3. Raf ömrü
+48 ay6.4. Saklamaya yönelik özel tedbirler
+30°C’nin altındaki oda sıcaklığında saklayınız.
+Nemden korumak için orijinal ambalajında saklayınız.
+6.5. Ambalajın niteliği ve içeriği
+Alu/Alu perfore olmayan blister.
+Ambalaj büyüklüğü:
+56 film kaplı tablet (7 blister)
+112 film kaplı tablet içeren çoklu ambalaj (56 tabletlik iki paket)
+6.6. Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+Kullanılmamış olan ürünler ya da atık materyaller “Tıbbi Atıkların Kontrolü Yönetmeliği” ve
+“Ambalaj Atıklarının Kontrolü Yönetmelik”lerine uygun olarak imha edilmelidir.
+7. RUHSAT SAHİBİ
+AstraZeneca İlaç San. ve Tic. Ltd. Şti.
+Büyükdere Cad. Yapı Kredi Plaza B Blok
+Kat 3-4 34330 Levent-İstanbul
+8. RUHSAT NUMARASI
+2018/637
+9. İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi: 21.11.2018
+Ruhsat yenileme tarihi:
+10. KÜB’ÜN YENİLENME TARİHİ

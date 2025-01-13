@@ -1,0 +1,419 @@
+KISA ÜRÜN BİLGİSİ
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+BEASTİN 25 mg İ.V. infüzyon için liyofilize toz içeren flakon
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde:
+Bendamustin hidroklorür 25.00 mg
+Yardımcı madde(ler):
+Mannitol
+Yardımcı maddeler için bkz. 6.1.
+3. FARMASÖTİK FORM
+Flakon. Beyaz renkli liyofilize toz.
+4. KLİNİK ÖZELLİKLER
+4.1. Terapötik endikasyonlar
+17 p delesyonu veya TP53 mutasyonunegatif olup komorbiteleri nedeniyle fludarabin bazlı
+tedaviye uygun olmayan yeni tanı veya relaps/refrakter kronik lenfosittik lösemi hastalarında
+tek başına veya rituksimab ile kombine halde uygulanır.
+65 yaş üzerinde olup otolog kök hücre transplantasyonu için uygun olmayan ve nöropati
+nedeniyle bortezomib veya talidomid içeren rejimler uygulanamayan ISS evre III multiple
+miyelom olgularının tedavisinde prednizolon ile kombine halde uygulanır.
+Rituksimab içeren tedaviler esnasında veya ilk 6 ayı içinde progresyon gelişmiş olan indolent
+non-hodgkin lenfoma olgularının tedavisinde tek başına veya rituksimab ile kombine
+kullanımda endikedir.
+4.2. Pozoloji ve uygulama şekli
+Pozoloji/uygulama sıklığı ve süresi:
+Düşük kemik iliği işlevi artmış kemoterapi nedenli hematolojik toksisite ile ilişkilidir. Eğer
+lökosit ve/veya trombosit düzeyleri sırasıyla <3000/mikroL veya <75000/mikroL'nin altına
+düşerse tedaviye başlanmamalıdır.
+Komorbiteleri nedeniyle kemoimmünoterapiye uygun olmayan kronik lenfositik lösemi
+hastalarının ilk sıra tedavisinde kullanımı:
+İlk kürde 70 mg/m2 dozunda, takip eden kürlerde tolere edilirse 90 mg/m2 dozda 6 kür halinde
+uygulanır.
+Ciddi komorbiteleri olan relaps veya refrakter kronik lenfositik lösemi hastalarında kullanımı:
+1 / 12İlk kürde 70 mg/m2, takip eden kürlerde 90 mg/m2 dozunda uygulanır.
+İleri evre foliküler lenfomanın başlangıç tedavisinde rituksimab ile kombine kullanımı:
+28 günde bir 1. ve 2. günlerde 90 mg/m2 dozda uygulanır.
+Multipl miyelomanın ikinci sıra tedavisinde kullanımı:
+Maksimum 100 mg/m2 dozunda 4 haftada bir 1. ve 2. günlerde monoterapide veya kombine
+olarak kullanılır.
+Lökosit veya trombosit düzeyleri sırasıyla <3000/mikroL veya <75000/mikroL'nin altına
+düşerse tedavi sonlandırılmalı veya ertelenmelidir. Lökosit düzeyleri >4000/mikroL ve
+trombosit düzeyi >100000/mikroL üzerine çıktığında tedaviye devam edilebilir.
+Lökosit ve trombosit nadir düzeyine (en düşük seviye) 14-20 günde ulaşılır, rejenerasyon 3-5
+hafta sonrasıdır. Tedavisiz dönem sırasında sıkı kan takibi önerilir (bkz. Bölüm 4.4).
+Hematolojik olmayan toksisite durumunda doz azaltımı bir önceki siklustaki en kötü OTK
+(ortak toksisite kriteri) derecesi baz alınarak yapılmalıdır. OTK 3. derece toksisite durumunda
+%50'lik bir doz azaltımı önerilir. OTK 4. derece toksisite durumunda ise tedaviye ara
+verilmesi önerilir.
+Bir hastadaki dozun düzenlenmesi gerekirse, devam eden siklusların 1. ve 2. gününde
+bireysel olarak hesaplanan düşük doz verilmelidir.
+Hazırlama ve uygulama ile ilgili yönergeler için Bölüm 6.6'ya bakınız.
+Uygulama şekli:
+30-60 dakika süren intravenöz infüzyon yoluyla uygulanır.
+İnfuzyon kemoterapötik ajanların kullanımında uzman ve deneyimli bir hekimin gözetimi
+altında yapılmalıdır.
+Özel popülasyonlara ilişkin ek bilgiler:
+Karaciğer yetmezliği:
+Farmakokinetik verilere göre hafif karaciğer yetmezliği olan hastalarda (serum bilirübin <1.2
+mg/dL) herhangi bir doz ayarlaması gerekmez. Orta seviyeli karaciğer yetmezliği olan
+hastalarda (serum bilirübin 1.2-3.0 mg/dL) ise %30'luk bir doz azaltımı önerilir.
+Ciddi karaciğer yetmezliği olan hastalarla (serum bilirübin düzeyi >3.0 mg/dL) ilgili herhangi
+bir veri mevcut değildir (bkz. Bölüm 4.3).
+Böbrek yetmezliği:
+Farmakokinetik verilere göre kreatinin klirensi >10mL/dk olan hastalarda herhangi bir doz
+ayarlaması gerekmez. Ciddi böbrek yetmezliği olan hastalarla ilgili deneyimler sınırlıdır.
+2 / 12Pediatrik popülasyon:
+Pediyatrik hastalarda veya adolesanlarda bendamustin kullanımı ile ilgili herhangi bir veri
+mevcut değildir.
+Geriyatrik popülasyon:
+Yaşlı hastalarda doz ayarlaması gerektiğine dair herhangi bir veri mevcut değildir.
+4.3. Kontrendikasyonlar
+BEASTİN aşağıda yer alan şu durumlar dâhilinde kullanılmamalıdır:
+- Beastine veya BEASTİN içeriğindeki yardımcı maddelerden herhangi birine karşı aşırı
+duyarlılık varlığında,
+- Emzirme süresince,
+- Ciddi karaciğer yetmezliği durumunda (serum bilirübin >3.0 mg/dL),
+- Sarılık,
+- Cİddi kemik iliği supresyonu ve ciddi kan tablosu değişimleri (sırasıyla <3000/mikroL veya
+<75000/mikroL'nin altına düşen lökosit ve/veya trombosit değerleri),
+- Tedaviye başlamadan önceki 30 gün içinde majör cerrahi uygulaması,
+- Enfeksiyonlar, özellikle lökopeni ile ilişkili olanlar,
+- Sarıhumma aşılaması.
+4.4. Özel kullanım uyarıları ve önlemleri
+Miyelosupresyon
+Bendamustin hidroklorür ile tedavi edilen hastalarda miyelosupresyon oluşabilir. Tedavi ile
+ilişkili miyelosupresyon durumunda lökositler, trombositler, hemoglobin ve nötrofıller en az
+haftalık olarak izlenmelidir. Bir sonraki tedavi siklusuna başlamadan önce şu parametrelerin
+elde edilmesi önemlidir: lökosit ve/veya trombosit değerleri sırasıyla >4000/mikroL veya
+>100000/mikroL.
+Enfeksiyonlar
+Pnömoni ve sepsisi içeren enfeksiyonlar raporlanmıştır. Nadir vakalarda enfeksiyon
+hastanede kalış, septik şok ve ölümle ilişkilendirilmiştir. Bendamustin hidroklorür tedavisinin
+ardından nötropeni ve/veya lenfopeni ortaya çıkan hastalar enfeksiyona karşı daha duyarlı
+hale gelirler. Bendamustin tedavisinin ardından miyelosupresyon gelişen hastalara, ateş veya
+solunum semptomları da dahil olmak üzere herhangi bir enfeksiyon belirtisi ve semptomu söz
+konusu olması halinde hekimleriyle görüşmeleri tavsiye edilmelidir.
+Cilt reaksiyonları
+Birkaç cilt reaksiyonu raporlanmıştır. Bu olaylara döküntü, toksik cilt reaksiyonları ve bullöz
+egzema dâhildir. Bunlardan bazıları bendamustin hidroklorür diğer antikanser ajanlarla eş
+zamanlı kullanım sonrası ortaya çıkmıştır, bu nedenle kesin ilişki bilinmemektedir. Cilt
+reaksiyonunun oluştuğu yerler başka tedavilerle progresif hale gelebilir ve şiddeti artabilir.
+Cilt reaksiyonları progresif hale gelirse, BEASTİN durdurulmalı veya tamamen kesilmelidir.
+Bendamustin hidroklorür ile ilişkili olduğundan şüphe edilen ciddi cilt reaksiyonlarında
+tedavi kesilmelidir.
+3 / 12Kalp rahatsızlıkları olan hastalar
+Bendamustin hidroklorür ile tedavi sırasında potasyumun kan konsantrasyonları yakından
+izlenmelidir ve K+ düzeyi <3.5 mEq/L olduğunda potasyum eklentisi verilmelidir ve EKG
+ölçümleri yapılmalıdır.
+Bulantı, kusma
+Bulantı ve kusmanın semptomatik tedavisi için bir antiemetik verilebilir.
+Tümör lizis sendromu
+Klinik çalışmalarda yer alan hastalarda bendamustin hidroklorür tedavisi ile ilişkili tümör lizis
+sendromu raporlanmıştır. İlk bendamustin hidrokloürür dozundan sonraki 48 saat içinde
+başlama eğilimindedir ve müdahale olmazsa akut böbrek yetmezliğine ve ölüme yol açabilir.
+Yeterli sıvı hacmi ve kan kimyasının, özellikle potasyum ve ürik asit düzeylerinin yakından
+izlenmesi koruyucu önlemler içinde yer alır. Bendamustin hidroklorür tedavisinin ilk iki
+haftasında allopurinol kullanımı düşünülebilir ancak standart gereklilik değildir. Bununla
+birlikte bendamustin hidroklorür ve allopurinolün eş zamanlı kullanımı ile birkaç
+Stevens-Johnson sendromu ve toksik epidermal nekroliz vakası bildirilmiştir.
+Anafilaksi
+Bendamustin hidroklorüre karşı oluşan infüzyon reaksiyonları klinik çalışmalarda sıklıkla
+oluşmuştur. Semptomlar genellikle hafif olup, ateş, üşüme, kaşıntı ile döküntü içerir. Seyrek
+vakada ciddi anafilaktik ve anafilaktoid reaksiyonlar gelişir. Tedavinin ilk siklusundan sonra
+hastalar infüzyonu hatırlatacak şekilde semptomlar hakkında sorgulanmalıdır. Daha önce
+infüzyon reaksiyonu deneyimleyen hastalarda ciddi reaksiyonları önlemek için
+antihistaminikler, antipiretikler ve kortikosteroidler dâhil olmak üzere alınan önlemler sonraki
+sikluslar için de düşünülmelidir.
+3. derece veya daha kötü alerjik tipte reaksiyonları deneyimleyen hastalarda, tedavi genel
+olarak tekrarlanmaz.
+Kontrasepsiyon
+Bendamustin hidroklorür teratojenik ve mutajeniktir.
+Kadın hastalar tedavi süresince gebe kalmamalıdır. Erkek hastalar tedavi sırasında veya
+sonrasındaki 6 ay boyunca çocuk yapmamalıdır. Geri dönüşümsüz infertilite olasılığı
+nedeniyle bendamustin hidroklorür tedavisi öncesinde sperm koruma konusunda bilgi
+alınmalıdır.
+Ekstravazasyon
+Herhangi bir ekstravaza infüzyon derhal durdurulmalıdır. Kısa bir aspirasyon sonrasında
+enjektör çıkarılmalıdır. Sonrasında etkilenen doku bölgesine soğuk uygulanmalıdır. Kol
+havaya kaldırılmalıdır. Kortikosteroid kullanımı gibi ek tedavilerin yararlılığı
+bilinmemektedir.
+Bu tıbbi ürün her flakonda 42.5 mg mannitol ihtiva eder. Ancak kullanım yolu nedeni ile
+herhangi bir uyarı gerektirmemektedir.
+4 / 124.5. Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+İn-vivo etkileşim çalışmaları yürütülmemiştir.
+BEASTİN diğer miyelosupresif ilaçlarla eş zamanlı kullanıldığında, BEASTİN ve/veya
+uygulanan diğer ilaçların kemik iliği üzerindeki etkisi artabilir. Hastanın performans
+durumunu düşüren veya kemik iliği işlevini bozan herhangi bir tedavi BEASTİN toksisitesini
+artırabilir.
+BEASTİN'in siklosporin veya takrolimus ile eş zamanlı kullanımı lenfoproliferasyon riskinin
+eşlik ettiği aşırı immün baskılanma ile sonuçlanabilir.
+Sitostatikler canlı virüs aşılaması sonrasında antikor oluşumunu düşürebilir ve fatal sonuçlara
+yol açan enfeksiyon riskini artırabilir. Altta yatan hastalığı nedeniyle hali hazırda immün
+sistemi baskılanmış olanlarda risk artar.
+Bendamustin metabolizması sitokrom P450 (CYP)1A2 izoenzimini içerir (bkz. Bölüm 5.2).
+Bu nedenle fluvoksamin, asiklovir, siprofloksazin ve simetidin gibi CYP1A2 inhibitörleriyle
+etkileşim ihtimali mevcuttur.
+4.6. Gebelik ve laktasyon genel tavsiye
+Gebelik kategorisi D'dir.
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon)
+Çocuk doğurma potansiyeli olan kadınlar BEASTİN tedavisinden önce ve sonra etkili
+kontrasepsiyon yöntemleri kullanmalıdır.
+BEASTİN ile tedavi edilen erkekler BEASTİN ile tedavi süresince veya tedavinin
+kesilmesinden 6 ay sonrasına kadar çocuk sahibi olmamaları konusunda uyarılmalıdır. Bu
+hastalar BEASTİN tedavisine bağlı infertilite ihtimali nedeniyle tedavi öncesinde sperm
+koruma konusunda bilgi almalıdırlar.
+Gebelik dönemi
+BEASTİN'in gebe kadınlarda kullanımı ile ilgili veriler yetersizdir. Klinik dışı çalışmalarda
+bendamustin hidroklorür embriyo-/fetoletal, teratojenik ve genotoksiktir (bkz. Bölüm 5.2).
+Gebelik süresince BEASTİN kesin olarak gerekli olmadıkça kullanılmamalıdır. Anne fetus
+üzerindeki risk konusunda bilgilendirilmelidir. Gebelik sırasında BEASTİN ile tedavi mutlak
+suretle gerekirse veya tedavi sırasında gebe kalınırsa hasta doğmamış çocuktaki riskler
+konusunda bilgilendirilmeli ve dikkatle izlenmelidir. Genetik inceleme imkânı
+değerlendirilmelidir.
+Laktasyon dönemi
+Bendamustinin anne sütüne geçip geçmediği bilinmemektedir. Bu nedenle emzirme dönemi
+boyunca BEASTİN kontrendikedir. BEASTİN tedavisi sırasında emzirme durdurulmalıdır.
+5 / 12Üreme yeteneği / Fertilite
+Alkilleyici ajanlarla "özellikle diğer ilaçlarla kombinasyonunda" tedavi edilen erkek
+hastalarda zayıflamış spermatojenez, azospermi ve toplam jerminal aplazi bildirilmiştir. Bazı
+durumlarda spermatojenez, remisyondaki hastalarda düzelebilir fakat bu durum, koruyucu
+kemoterapi kesildikten birkaç sene sonra oluşabilir. Hastalar, üreme kapasiteleri üzerindeki
+potansiyel riskleri konusunda uyarılmalıdırlar.
+4.7. Araç ve makine kullanımı üzerindeki etkiler
+BEASTİN'in araç ve makine kullanım yeteneği üzerine olan etkisini değerlendiren herhangi
+bir çalışma yürütülmemiştir. Bununla birlikte bendamustin hidroklorür tedavisi ile ataksi,
+periferal nöropati ve uyku hali bildirilmiştir (bkz. Bölüm 4.8). Bu semptomları yaşamaları
+halinde hastalar araç ve makine kullanımı gibi potansiyel olarak tehlike arz eden aktiviteleri
+gerçekleştirmemelidir.
+4.8. İstenmeyen etkiler
+Bendamustin hidroklorür ile ilişkili çoğu advers reaksiyonlar, hematolojik advers
+reaksiyonlar (lökopeni, trombositopeni), dermatolojik toksisiteler (alerjik reaksiyonlar),
+bünyesel semptomlar (ateş), gastrointestinal semptomlardır (bulantı, kusma).
+Aşağıdaki tablo bendamustin hidroklorürün klinik çalışmalarından elde edilen verileri
+yansıtmaktadır.
+MedDRA sistem organ Çok yaygın Yaygın Yaygın Seyrek Çok seyrek
+sınıfı ≥1/10 ≥1/100 ila olmayan ≥1/10000 ila <1/10000
+<1/10 ≥1/1000 <1/1000
+ila <1/100
+Enfeksiyonlar BTB* Sepsis Pnömoni
+ve enfestasyonlar enfeksiyon primer atipik
+(Kist ve polipler de dahil Tümör lizis
+olmak üzere) iyi huylu sendromu
+ve kötü huylu
+neoplazmalar
+Kan ve lenf sistemi BTB* Hemoraji, Hemoliz
+hastalıkları lökopeni, anemi,
+trombositopeni nötropeni
+Bağışıklık sistemi BTB* Anafilaktik Anafilaktik şok
+hastalıkları aşırı reaksiyon,
+duyarlılık anafilaktoid
+reaksiyon
+Sinir sistemi hastalıkları Uykusuzluk Uyku, afoni Disgözi,
+(ses yitimi) parestezi,
+periferal duyu
+nöropatisi,
+antikolinerjik
+sendrom,
+6 / 12nörolojik
+bozukluk,
+ataksi, ensefalit
+Kardiyak hastalıkları Kalp Perikard Taşikardi,
+disfonksiyonu efüzyonu miyokard
+(palpitasyon, enfarktüsü,
+anjina kalp yetmezliği
+pektoris gibi),
+aritmi
+Vasküler hastalıkları Hipotansiyon, Akut dolaşım Flebit
+hipertansiyon bozukluğu
+Solunum, göğüs Pulmoner Pulmoner
+Bozuklukları yetmezlik fıbröz
+Ve mediastinal
+hastalıkları
+Gastrointestinal Bulantı, kusma Diyare, Hemorajik
+hastalıkları konstipasyon, özofajit,
+stomatit gastrointestinal
+hemoraji
+Deri ve deri altı doku Alopesi, Eritema,
+hastalıkları BTB* deri dermatit,
+rahatsızlıkları kaşıntı, makûl
+er- papüler
+döküntü,
+aşırı terleme
+Üreme sistemi ve meme Amenore İnfertilite
+hastalıkları
+Genel bozukluklar ve Mukozal Ağrı, üşüme, Çoklu organ
+uygulama bölgesine enflamasyon, dehidrasyon, yetmezliği
+ilişkin hastalıkları yorgunluk, anoreksi
+pireksi
+Araştırmalar Hemoglobin AST, ALT,
+düşüşü, alkalin
+kreatinin artışı, fosfataz ve
+üre artışı bilirubin
+artışı,
+hipokalemi
+*BTB: Başka türlü belirtilemeyen
+Bendamustinin allopurinol veya allopurinol ve rituksimab ile eş zamanlı kullanımı sonucu az
+sayıda Stevens-Johnson Sendromu ve toksik epidermal nekroliz vakası bildirilmiştir.
+CD4/CD8 oranı düşebilir. Lenfosit sayısında düşüş görülmüştür. İmmün sistemi baskılanmış
+hastalarda enfeksiyon riski (örn. herpes zoster ile) artabilir. Kazara ekstra-vasküler uygulama
+7 / 12sonrası nekroz oluşumu, ayrıca toksik epidermal nekroz, tümör lizis sendromu ve anafilaksi
+ile ilgili izole raporlar mevcuttur.
+Miyelodisplastik sendrom, miyeloproliferatif hastalıklar, akut miyeloid lösemi ve bronşiyal
+karsinomu içeren ikincil tümörler raporlanmıştır. Bunların bendamustin hidroklorür ile
+ilişkisi belirlenmemiştir.
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar / risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TÜFAM)'ne bildirmeleri gerekmektedir. (www.titck.gov.tr:
+e-posta: tufam@titck.gov.tr: tel: O 800 314 00 08; faks: 0 312 218 35 99)
+4.9. Doz aşımı ve tedavisi
+Her 3 haftada bir 30 dakikalık BEASTİN infüzyonundan sonra en yüksek tolere edilebilir doz
+(MTD) 280 mg/m2'dir. İskemik EKG değişiklikleriyle uyumlu olan ve doz kısıtlayıcı olarak
+düşünülen kardiyak olaylarla ilgili OTK 2. derece oluşabilir.
+Sonraki çalışmalardan birinde her 3 haftada bir 1. ve 2. gün 30 dakikalık bendamustin
+hidroklorür uygulamasının MTD'si 180 mg/m2 olarak belirlenmiştir, doz kısıtlayıcı toksisite
+4. derece trombositopenidir. Bu uygulamada kardiyak toksisite doz kısıtlayıcı değildir.
+Spesifik bir antidotu yoktur. Hematolojik yan etkileri kontrol altına almak için etkili bir karşı
+yöntem olarak kemik iliği transplantasyonu uygulanabilir ve transfüzyonlar (trombosit,
+konsantre eritrosit) uygulanabilir veya hematolojik büyüme faktörleri verilebilir.
+Bendamustin hidroklorür ve metabolitleri düşük oranda diyalizle atılabilir.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1. Farmakodinamik özellikler
+Farmakoterapötik grubu: Antineoplastik ajanlar, alkilleyici ajanlar
+ATC kodu: L01AA09
+Bendamustin hidroklorür kendisine özgü bir aktiviteye sahip olan alkilleyici bir antitümöral
+ajandır. Bendamustin hidroklorürün antineoplastik ve sitosidal etkileri temel olarak DNA’nın
+tek ve çift sarmalının alkillasyon ile çapraz bağlanmasına dayanır. Bunun sonucu olarak DNA
+matriks işlevleri ve DNA sentezi ile tamiri bozulur. Bendamustin hidroklorürün antitümör
+etkisi farklı insan tümör hücre kültürleri (meme kanseri, küçük hücreli dışı ve küçük hücreli
+akciğer kanseri, over karsinomu ve farklı lösemiler) ile yapılan birçok in-vitro ve fare, sıçan
+ve insan kaynaklı tümörler ile farklı deneysel tümör modelleri ile yapılan in-vivo çalışmayla
+kanıtlanmıştır. Bendamustin hidroklorür insan tümör hücre kültürleri üzerinde diğer
+alkilleyici ajanlardan farklı bir aktivite profili göstermiştir. Aktif madde, en azından kısmen
+kalıcı DNA etkileşimine bağlı olarak, farklı direnç mekanizmaları olan insan hücre tümörü
+kültür hücreleri ile hiçbir çapraz direnç oluşturmamış veya oldukça düşük çapraz direnç
+8 / 12oluşturmuştur. Buna ek olarak, klinik çalışmalarda bendamustinin antrasiklinler, alkilleyici
+ajanlar ve rituksimab ile tam çapraz direnç oluşturmadığı gösterilmiştir. Ancak az sayıda
+hastada değerlendirilmiştir.
+Kronik lenfositik lösemi
+Kronik lenfositik lösemide kullanım endikasyonu, bendamustin ile klorambusili karşılaştıran
+tekli açık etiketli bir çalışmayla desteklenmektedir. Daha önce tedavi edilmemiş ve tedaviye
+ihtiyacı olan 319 kronik lenfositik lösemili evre Binet B veya C'li hasta prospektif, çok
+merkezli, randomize çalışmaya dahil edilmiştir. 6 siklus boyunca 1. ve 2. gün 100 mg/m2
+bendamustin hidroklorür (BEN) ilk basamak tedavisi ile 1. ve 15. gün 0.8 mg/kg dozunda
+klorambusil (CLB) kullanımları her iki kolda karşılaştırılmıştır. Tümör lizis sendromunun
+önlenmesi için hastalara allopurinol uygulanmıştır.
+BEN uygulanan hastalarda CLB uygulananlara göre belirgin ölçüde daha uzun ortalama
+progresyonsuz sağkalım söz konusudur (21.5 aya karşı 8.3 ay, p< 0.0001 en son takipte). Tüm
+sağkalım anlamlı derecede farklı değildir (ortalamaya ulaşılmamıştır). Ortalama remisyon
+süresi BEN ile 19 ay ve CLB ile 6 aydır (p< 0.0001). Her iki tedavi kolundaki güvenlilik
+değerlendirmesinde nitelik ve sıklık olarak beklenmeyen hiçbir yan etki ortaya çıkmamıştır.
+Hastaların %34'ünde BEN dozu düşürülmüştür. Alerjik reaksiyonlara bağlı olarak hastaların
+%3.9'unda BEN tedavisi kesilmiştir.
+5.2. Farmakokinetik özellikler
+Genel özellikler
+Emilim:
+Bendamustin hidroklorür'ün tek IV dozundan sonra C genellikle infüzyon sonunda
+maks.
+oluşur. Bendamustin doz orantılılığı çalışılmamıştır.
+Dağılım:
+12 bireyde 120 mg/m2 dozun 30 dakikalık infüzyonu sonrasında eliminasyon yarı ömrü t½ β
+28.2 dakikadır.
+30 dakikalık i.v. infüzyonu takiben merkezi dağılım hacmi 19.3 L'dir. Kararlı hal şartları
+altında i.v. bolus enjeksiyon sonrası merkezi dağılım hacmi 15.8-20.5 L'dir.
+İlacın %95'inden fazlası plazma proteinlerine (başlıca albumin) bağlı halde bulunur.
+Biyotransformasyon:
+Bendamustinin majör klirens yolu monohidroksi ve dihidroksi bendamustine hidroliz
+şeklindedir. Hepatik metabolizma ile N-desmetil-bendamustin ve gamma-hidroksi-
+bendamustin oluşumu sitokrom P450 (CYP) 1A2 izoenzimini içerir. Bendamustinin diğer bir
+majör metabolizma yolu glutatyon ile konjugasyonu içerir.
+In-vitro bendamustin CYP1A4, CYP2C9/10, CYP2D6, CYP2E1 veya CYPlA2'yi inhibe
+etmez.
+Eliminasyon:
+12 bireydeki 120 mg/m2 vücut yüzey alanının 30 dakikalık i.v. infüzyonu sonrasındaki
+ortalama toplam klirens 639.4 mL/dk'dır. Uygulanan dozun yaklaşık %20'si 24 saat sonra
+9 / 12idrarla atılır. İdrara geçen miktar sırasıyla monohidroksi-bendamustin > bendamustin >
+dihidroksi-bendamustin > okside-metabolit > N-desmetil-bendamustin şeklindedir. Safradan
+başlıca polar metabolitler elimine edilir.
+Doğrusallık/doğrusal olmayan durum:
+Geçerli değildir.
+Hastalardaki karakteristik özellikler
+Karaciğer yetmezliği:
+Karaciğerinde %30-70 tümör enfestasyonu ve hafif karaciğer yetmezliği (serum bilirübin <
+1.2 mg/dL) olan hastalarda farmakokinetik tutum değişmez. Normal karaciğer ve böbrek
+işlevine sahip hastalarda C , t , EAA, tı/ β, dağılım hacmi ve klirens açısından belirgin
+maks. maks 2
+bir farklılık yoktur. Bendamustinin EAA'nı ve toplam vücut klirensi serum bilirübin ile ters
+orantılıdır.
+Böbrek yetmezliği:
+Diyaliz hastaları da dahil olmak üzere kreatinin klirensi > 10 mL/dk olan hastalar ile normal
+karaciğer ve böbrek işlevlerine sahip olan hastalar arasında C , t , AUC, tı/ β, dağılım
+maks. maks 2
+hacmi ve klirens açısından belirgin bir farklılık yoktur.
+Yaşlı hastalar:
+Farmakokinetik çalışmalara yaşı 84'e kadar olanlar dahil edilmiştir. Yüksek yaş
+bendamustinin farmakokinetiğini etkilememektedir.
+5.3. Klinik öncesi güvenlilik verileri:
+Advers etkiler klinik çalışmalarda gözlenmemiş, ancak klinik çalışmalarda maruz kalınan
+düzeylerle aynı maruziyet düzeylerinin söz konusu olduğu hayvan çalışmalarında
+gözlenmiştir ve klinik kullanımla arasındaki olası ilişki şöyledir:
+Köpeklerdeki histolojik çalışmalarda gastrointestinal sistemde makroskopik olarak görünür
+mukoza hiperemisi ve hemoraji görülmüştür. Mikroskopik araştırmalarda lenfatik dokuda bir
+immün baskılanmayı belirten büyük değişiklikler ve böbrek ile testislerde tübüler ve atrofık
+değişiklikler, prostat epitelyumunda nekrotik değişiklikler gösterilmiştir. Hayvan
+çalışmalarında bendamustinin embriyojenik ve teratojenik olduğu gösterilmiştir.
+Bendamustin kromozom hatalarını indükler ve in-vitroda olduğu gibi in-vivoda da
+mutajeniktir. Dişi farelerde yapılan uzun süreli çalışmalara göre bendamustin karsinojeniktir.
+6. FARMASÖTİK ÖZELLİKLER
+6.1. Yardımcı maddelerin listesi
+Mannitol
+6.2. Geçimsizlikler
+BEASTİN Bölüm 6.6'da belirtilenler dışında hiçbir tıbbi ürünle karıştırılmamalıdır.
+10 / 126.3. Raf ömrü
+36 ay
+6.4. Saklamaya yönelik özel tedbirler
+25ºC’nin altındaki oda sıcaklığında, ışıktan koruyarak ve ambalajında saklanmalıdır.
+Enjeksiyonluk su ile 5-10 dakika içinde elde edilen çözelti hemen % 0,9’luk NaCl ile
+seyreltilmelidir. Seyreltilen infüzyonluk çözelti 25ºC’yi geçmeyen oda sıcaklığında 3.5 saat
+boyunca ve 2-8 ºC’de (buzdolabında) 2 gün stabildir. Bu süre geçirilmeden hemen
+uygulanmalıdır.
+6.5. Ambalajın niteliği ve içeriği
+Alüminyum fiskeyle açılan kapaklı ve kauçuk tıpalı 10R tip-1 kehribar renkli cam flakonlar
+içerisinde sunulmuştur. 10R’lik flakonlar 25 mg bendamustin hidroklorür içerir ve 1 flakon
+içeren ambalaj kutularında temin edilir.
+6.6. Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+BEASTİN hazırlanması sırasında, inhalasyonu, cilt veya diğer muköz membranlarla
+temasından kaçınılmalıdır (eldiven ve koruyucu kıyafet giyilmeli). Kontamine olan vücut
+kısımları suyla dikkatli bir şekilde yıkanmalı ve sabunlanmalı, gözler fizyolojik sodyum
+klorür solüsyonuyla yıkanmalıdır. Mümkünse sıvı geçirmez, kullan at emici örtülü özel
+çalışma alanlarında (laminar flow) çalışılmalıdır. Hamile personel sitotoksik ilaçların
+hazırlandığı alandan uzaklaştırılmalıdır.
+İnfüzyon çözeltisi için konsantre toz enjeksiyonluk su ile sulandırılmalı, 9 mg/mL (%0.9)
+sodyum klorür enjeksiyonluk çözelti ile seyreltilmeli sonra intravenöz infüzyon yoluyla
+uygulanmalıdır. Aseptik teknik kullanılmalıdır.
+Sulandırma
+25 mg BEASTİN içine 10 mL enjeksiyonluk su eklenir ve karıştırılarak çözünür.
+Seyreltme
+Berrak bir çözelti elde edildiğinde (genellikle 5-10 dakika sonra) yaklaşık 500 mL'lik son
+hacmi elde etmek için %0.9 sodyum klorür çözeltisi ile derhal tavsiye edilen toplam doza
+seyreltilir.
+BEASTİN diğer enjeksiyonluk çözeltilerle değil, %0.9 sodyum klorür çözeltisi ile
+seyreltilmelidir.
+Uygulama
+Çözelti intravenöz infüzyon yoluyla 30-60 dakikada uygulanmalıdır. Flakonlar tek
+kullanımlıktır. Kullanılmadan kalan kısım veya artık materyaller yerel gerekliliklere göre
+imha edilmelidir.
+7. RUHSAT SAHİBİ
+BİEM İLAÇ SANAYİ ve TİC. A.Ş.
+Turgut Reis Cad., No: 21, 06570, Tandoğan- Ankara
+Tel: +90 312 230 29 29
+Faks: +90 312 230 68 00
+11 / 128. RUHSAT NUMARASI
+2018 / 120
+9. İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ
+İlk Ruhsat Tarihi: 07.03.2018
+Ruhsat Yenileme Tarihi:
+10. KÜB'ün YENİLENME TARİHİ
+07.03.2018
+12 / 12

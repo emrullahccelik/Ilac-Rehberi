@@ -1,0 +1,745 @@
+KISA ÜRÜN BİLGİSİ
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+CYMEVENE 500 mg I.V. infüzyonluk çözelti konsantresi için toz Steril
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde: Bir flakon 500 mg gansiklovire eşdeğer 545 mg gansiklovir sodyum içerir.
+Enjeksiyon için 10 mL su ile karıştırıldığında, çözelti her mililitresinde 50 mg gansiklovir içerir.
+Yardımcı madde(ler): Yaklaşık 45 mg (2 mEq) sodyum içerir. Yardımcı maddelerin listesi için
+Bölüm 6.1’e bakınız.
+3. FARMASÖTİK FORM
+I.V. infüzyon için liyofilize toz.
+Flakon içinde rengi beyaza yakın bir tozdur. Sulandırma sonrasında görünür partikül içermeyen
+renksiz ila açık sarımsı bir çözeltidir.
+4. KLİNİK ÖZELLİKLER
+4.1 Terapötik endikasyonlar
+CYMEVENE 12 yaş ve üzeri adölesanlar ve erişkinlerde aşağıdaki tedavilerde endikedir:
+- immün yetersizliği bulunan bireylerdeki sitomegalovirüs (CMV) tedavisinde;
+- ilaca bağlı immünosupresyon hastalarında preemptif tedavi kullanılarak CMV hastalığının
+önlenmesinde (örneğin, organ nakli veya kanser kemoterapisi sonrasında).
+CYMEVENE ayrıca doğumdan itibaren aşağıdaki tedavide endikedir:
+- ilaca bağlı immünosupresyon hastalarında evrensel profilaksi kullanılarak CMV hastalığının
+önlenmesinde (örneğin, organ nakli veya kanser kemoterapisi sonrasında).
+Antiviral ilaçların uygun kullanımına ilişkin resmi kılavuzlar göz önünde bulundurulmalıdır.
+4.2 Pozoloji ve uygulama şekli Pozoloji/ uygulama sıklığı ve süresi:
+Sitomegalovirüs (CMV) tedavisinde
+Normal renal fonksiyona sahip 12 yaş üzeri adölesan ve erişkinler:
+- Başlangıç tedavisi: 14 ile 21 gün süreyle her 12 saatte bir, 1 saatten uzun sürecek şekilde,
+5 mg/kg I.V. infüzyon şeklinde uygulanır.
+- İdame tedavisi: Haftada 7 gün, günde bir kez 5 mg/kg veya haftada 5 gün, günde bir kez 6
+mg/kg, 1 saatten uzun sürecek şekilde, I.V. infüzyon şeklinde uygulanır. İdame tedavisi
+süresi bireysel olarak belirlenmelidir, yerel tedavi kılavuzları göz önünde bulundurulmalıdır.
+1- Hastalık progresyonunun tedavisi: CMV hastalığının idame tedavisi sırasında veya
+gansiklovir ile tedavi geri çekildiği için ilerlediği tüm hastalar başlangıç tedavisi rejimi
+kullanılarak yeniden tedavi edilebilir.
+Doğumdan <12 yaşına kadar pediyatrik popülasyon:
+Halihazırda mevcut olan pediyatrik veriler Bölüm 5.1 ve 5.2’de verilmektedir ancak bir pozoloji
+önerisi yapılamamaktadır.
+Preemptif tedavi kullanılarak CMV hastalığının önlenmesi
+Normal renal fonksiyona sahip erişkinler ile 12 yaş ve üzeri pediyatrik popülasyon:
+Başlangıç terapisi: Bir saat süren intravenöz infüzyon şeklinde 7-14 gün boyunca her 12 saatte bir
+verilen 5 mg/kg.
+İdame terapisi: Bir saat süren intravenöz infüzyon şeklinde haftada 7 gün günde bir kez verilen 5
+mg/kg veya haftada 5 gün günde bir kez verilen 6 mg/kg. İdame tedavisinin süresi CMV hastalığı
+riskine dayalıdır ve yerel tedavi kılavuzlarına başvurulmalıdır.
+Doğumdan <12 yaşına kadar pediyatrik popülasyon:
+Halihazırda mevcut olan veriler Bölüm 5.1 ve 5.2’de verilmektedir ancak bir pozoloji önerisi
+yapılamamaktadır.
+Evrensel profilaksi kullanılarak CMV hastalığının önlenmesi
+Erişkinler ve 16 yaş üzeri pediyatrik popülasyon:
+Bir saat süren intravenöz infüzyon şeklinde haftada 7 gün günde bir kez verilen 5 mg/kg veya
+haftada 5 gün günde bir kez verilen 6 mg/kg. Süre CMV hastalığı riskine dayalıdır ve yerel tedavi
+kılavuzlarına başvurulmalıdır.
+Doğumdan ≤ 16 yaşına kadar pediyatrik popülasyon:
+Önerilen günde bir kez bir saatlik intravenöz infüzyon olarak verilen gansiklovir dozu Mosteller
+VYA formülü kullanılarak elde edilen Vücut Yüzey Alanına (VYA) ve Schwartz formülünden
+elde edilen kreatinin klirensine (KrKLS) dayalıdır ve aşağıdaki denklemler kullanılarak
+hesaplanır. Evrensel profilaksinin süresi CMV hastalığı riskine dayalıdır ve bireysel olarak
+belirlenmelidir.
+Pediyatrik doz (mg) = 3 x VYAx KrKLS (aşağıdaki Mosteller VYA formülüne ve Schwartz
+Kreatinin Klirensi formülüne bakın).
+Hesaplanan Schwartz kreatinin klirensi 150 mL/dk/1,73m2'yi aşarsa, denklemde maksimum 150
+mL/dk/1,73m2 değeri kullanılmalıdır:
+√
+Burada düşük doğum ağırlıklı 1 yaşından küçük hastalar için k = 0,33, 2 yaşından küçük hastalar
+için 0,45, 2 yaşından 13 yaşına kadar olan erkek çocuklar ve 2 yaşından 16 yaşına kadar olan kız
+çocuklar için 0,55, ve 13 ila 16 yaşındaki erkek çocuklar için 0,7’dir. 16 yaşından büyük hastalar
+2için erişkin dozlarına bakınız.
+Verilen k değerleri serum kreatinin ölçümü için Jaffe yöntemine dayalıdır ve enzimatik yöntemler
+kullanıldığında düzeltme gerekli olabilir.
+Serum kreatinin düzeylerinin, boy ve kilonun düzenli olarak gözden geçirilmesi ve dozun uygun
+şekilde değiştirilmesi önerilir.
+Uygulama şekli:
+CYMEVENE çözeltisinin hazırlanması:
+1. Liyofilize CYMEVENE, flakon içine 10 mL enjeksiyonluk su enjekte edilerek enjeksiyon
+için yeniden hazırlanmalıdır. Enjeksiyon için paraben (parahidroksibenzoat) içeren bakteriyostatik
+su kullanılmamalıdır. Çünkü parabenler CYMEVENE steril tozu ile uyumsuzdurlar ve çökelti
+oluşturabilirler.
+2. Flakon ilacın çözülmesi için çalkalanmalıdır.
+3. Yeniden oluşturulan çözelti içinde partikül bulunup bulunmadığı karışımı hazırlamadan
+önce kontrol edilmelidir.
+4. Flakon içindeki yeniden oluşturulmuş çözelti oda sıcaklığında 12 saat dayanır ve
+buzdolabında saklanmamalıdır.
+İnfüzyon çözeltisinin hazırlanması ve uygulanması:
+Hastanın ağırlığına göre hesaplanan uygun doz CYMEVENE flakonundan çekilmeli ve uygun
+bir infüzyon sıvısına ilave edilmelidir. Rekonstitüye çözeltiye 100 mL çözücü ilave edin. 10
+mg/mL’den fazla infüzyon konsantrasyonları tavsiye edilmemektedir. Normal fizyolojik serum,
+sudaki % 5 dekstroz, Ringer veya laktatlı Ringer çözeltisi kimyasal ve fiziksel yönden
+CYMEVENE ile uyumlu bulunmuştur.
+CYMEVENE başka intravenöz ürünlerle karıştırılmamalıdır.
+Gansiklovir 10 mg/mL'yi aşmayan bir konsantrasyonda 1 saat boyunca intravenöz infüzyon
+yoluyla uygulanmalıdır. Ortaya çıkan aşırı plazma seviyeleri gansiklovirin toksisitesini
+artırabileceğinden hızlı veya bolus intravenöz enjeksiyonla uygulanmamalıdır.
+İnfüzyon çözeltisi buzdolabında saklanmalı ancak dondurulmamalıdır.
+Dikkat – hızlı veya bolus I.V. enjeksiyonla uygulamayınız! CYMEVENE’in toksisitesi aşırı
+plazma düzeyleri nedeniyle artabilir.
+Dikkat – i.m. veya s.c. uygulanmaz. Gansiklovir çözeltilerinin yüksek pH’ı (11) nedeniyle i.m.
+ve s.c. enjeksiyonlar ciddi deri tahrişlerine yol açabilirler (bkz. bölüm 4.8).
+Önerilen doz, sıklık ve infüzyon hızları aşılmamalıdır.
+CYMEVENE infüzyonluk çözelti için tozdur. CYMEVENE sulandırılarak hazırlandıktan sonra
+renksiz ila hafifçe sarımsı bir çözeltidir ve içerisinde neredeyse hiç görünür partikül bulunmaz.
+İnfüzyon tercihen plastik bir kanül yoluyla yeterli kan akışı olan bir damara verilmelidir.
+3Uygulama öncesinde tıbbi ürünün sulandırılmasına dair talimatlar için, bkz. Bölüm 6.6.
+Tıbbi ürün kullanılmadan veya uygulanmadan önce alınacak önlemler:
+Gansiklovir insanlarda potansiyel bir teratojen ve kanserojen olarak kabul edildiğinden
+kullanılırken dikkatli olunmalıdır (bkz. Bölüm 6.6).
+Özel popülasyonlara ilişkin ek bilgiler:
+Böbrek yetmezliği:
+3 x VYA x KrKLS dozlama algoritması kullanılarak hesaplanan profilaktik bir gansiklovir dozu
+alan böbrek yetmezliği olan pediyatrik hastalar (doğumdan ≤16 yaşına kadar) için, bu doz zaten
+kreatinin klirensi için ayarlanmış olduğundan, daha fazla doz değişikliği gerekli değildir.
+Önleyici tedavi ve CMV hastalığının tedavisi için mg/kg vücut ağırlığı bazında tedavi gören
+böbrek yetmezliği olan 12 yaş ve üzeri hastalarda, mg/kg gansiklovir dozu aşağıdaki tabloda
+gösterildiği gibi kreatinin klirensine göre değiştirilmelidir (bkz. Bölüm 4.4 ve 5.2).
+mg/kg doz alan böbrek yetmezliği olan hastalarda doz ayarlamaları:
+Başlangıç dozu İdame dozu
+KrKlLS
+70 mL/dak 5,0 mg/kg 12 saatte bir 5,0 mg/kg/gün
+50-69 mL/dak 2,5 mg/kg 12 saatte bir 2,5 mg/kg/gün
+25-49 mL/dak 2,5 mg/kg/gün 1,25 mg/kg/gün
+10-24 mL/dak 1,25 mg/kg/gün 0,625 mg/kg/gün
+<10 mL/dak 1,25 mg/kg haftada 3 kere 0,625 mg/kg haftada 3 kere
+(hemodiyaliz sonrası) (hemodiyaliz sonrası)
+Kreatinin klirensi aşağıdaki formül yardımıyla serum kreatinininden hesaplanabilir:
+Erkeklerde = (140-yaş[yıl]) x (vücut ağırlığı [kg])
+(72) x (0,011 x serum kreatinini [mikromol/L])
+Kadınlarda = 0,85 x erkeklerdeki değer
+Böbrek yetmezliği olan hastalarda doz ayarlaması önerildiği için serum kreatinini veya kreatinin-
+klirens düzeyleri dikkatle izlenmelidir.
+Karaciğer yetmezliği:
+Karaciğer yetmezliği olan hastalarda CYMEVENE’in etkililiği ve güvenliliği çalışılmamıştır
+(bkz. Bölüm 5.2).
+Pediyatrik popülasyon:
+412 yaş altı hastaların tedavisinde çok kısıtlı bir klinik deneyim vardır (bkz. Bölüm 4.4, 4.8 ve 5.1).
+Halihazırda mevcut olan pediyatrik veriler Bölüm 5.1 ve 5.2’de verilmektedir ancak bir pozoloji
+önerisi yapılamamaktadır. Bu konuda mevcut tedavi kılavuzlarına danışılmalıdır.
+Geriyatrik popülasyon:
+Yaşlı hastalarda CYMEVENE’in etkililiği ve güvenliliğine dair çalışma yapılmamıştır. Yaşlı
+hastaların böbrek fonksiyonlarında genellikle azalma olduğu için CYMEVENE yaşlı hastalara
+renal durumları göz önünde bulundurularak verilmelidir (bkz. Bölüm 5.2).
+Diğer:
+Ağır lökopeni, nötropeni, anemi, trombositopeni ve pansitopenisi olan hastalar: Tedaviye
+başlanmadan önce Bölüm 4.4 incelenmelidir.
+Gansiklovir tedavisi esnasında kan hücresi sayımında önemli ölçüde düşüş gözlenirse, hematopoetik
+büyüme faktörleri ile tedavi ve/veya gansiklovir tedavisinin kesilmesi düşünülmelidir (bkz. Bölüm
+4.4. ve 4.8.).
+4.3 Kontrendikasyonlar
+CYMEVENE aşağıdaki durumlarda kontrendikedir:
+ Etkin madde gansiklovire veya valgansiklovire veya Bölüm 6.1’de listelenen yardımcı
+maddelerden herhangi birine aşırı duyarlılık.
+ Emzirme (bkz. Bölüm 4.6).
+4.4 Özel kullanım uyarıları ve önlemleri
+Çapraz aşırı duyarlılık
+Gansiklovir ile asiklovir ve pensiklovirin kimyasal yapısının benzerliğinden dolayı, bu ilaçlar
+arasında çapraz aşırı duyarlılık reaksiyonu görülebilir. Bu nedenle asiklovir veya pensiklovire (ya
+da sırasıyla ön ilaçları valasiklovir veya famsiklovire) bilinen aşırı duyarlılığı olan hastalara
+CYMEVENE reçete edilirken dikkatli olunmalıdır.
+Mutajenisite, teratojenisite, karsinojenisite, fertilite ve doğum kontrolü
+Gansiklovir tedavisinin başlatılmasından önce hastalara fetüs için potansiyel riskler konusunda
+bilgi verilmelidir. Hayvan çalışmalarında gansiklovirin mutajenik, teratojenik ve karsinojenik
+olduğu ve fertiliteyi bozduğu tespit edilmiştir. Klinik ve klinik dışı çalışmalara dayanarak,
+gansiklovirin geçici veya kalıcı olarak insan spermatogenezini engellemesinin olası olduğu göz
+önünde bulundurulmaktadır (bkz. Bölüm 4.6, 4.8 ve 5.3).
+Bu sebeplerle gansiklovir, insanlarda doğum kusurları ve kanserlere neden olma potansiyeline
+sahip potansiyel bir teratojen ve karsinojen olarak kabul edilmelidir. Bu nedenle çocuk doğurma
+potansiyeline sahip kadınlara tedavi sırasında ve sonrasında en az 30 gün boyunca etkili bir
+doğum kontrol yöntemi kullanmaları tavsiye edilmelidir. Erkeklere, kadın partnerlerinin gebelik
+riski taşımadığı kesin olmadığı sürece tedavi sırasında ve sonrasında en az 90 gün bariyer
+5yöntemiyle korunmaları tavsiye edilmelidir (bkz. Bölüm 4.6, 4.8 ve 5.3).
+Gansiklovir kullanımı özellikle pediyatrik popülasyonda uzun vadeli karsinojenisite ve üreme
+toksisitesi potansiyelinden dolayı aşırı dikkat gerektirir. Tedavinin faydaları her durumda dikkatle
+değerlendirilmeli ve risklere açıkça ağır basmalıdır (bkz. Bölüm 4.2).
+Pediyatrik popülasyonda tedavi ve pozoloji için mevcut tedavi kılavuzlarına danışılmalıdır.
+Miyelosupresyon
+CYMEVENE önceden mevcut olan hematolojik sitopeni veya ilaçla ilişkili hematolojik sitopeni
+öyküsü olan hastalarda ve radyoterapi alan hastalarda dikkatle kullanılmalıdır. Gansiklovir ile
+tedavi edilen hastalarda şiddetli lökopeni, nötropeni, anemi, trombositopeni, pansitopeni ve kemik
+iliği yetmezliği gözlenmiştir. Mutlak nötrofil sayımı 500 hücre/mcL’den azsa veya trombosit
+sayımı 25.000 hücre/mcL’den azsa veya hemoglobin 8 g/dL’den azsa tedavi başlatılmamalıdır
+(bkz. Bölüm 4.2 ve 4.8).
+Trombosit sayımları dahil tam kan sayımlarının tedavi sırasında izlenmesi önerilmektedir. Böbrek
+fonksiyon bozukluğu olan hastalarda ve yenidoğanlar ve bebeklerde artırılmış hematolojik takip
+gerekli olabilir (bkz. Bölüm 4.8). Uygulamanın ilk 14 günü sırasında beyaz kan hücresi sayımının
+(tercihen diferansiyel test olarak) her ikinci günde yürütülmesi önerilir; düşük başlangıç nötrofil
+düzeylerine (<1000 nötrofil/mcL) sahip hastalarda, diğer miyelotoksik maddelerle önceki tedavi
+sırasında lökopeni gelişmiş olanlarda ve böbrek bozukluğu olanlarda bu takip günlük olarak
+yürütülmelidir.
+Şiddetli lökopeni, nötropeni, anemi ve/veya trombositopeni görülen hastalar için tedavi esnasında
+kan hücresi sayımında önemli ölçüde düşüş gözlenirse, hematopoetik büyüme faktörleri ile tedavi
+ve/veya gansiklovir tedavisinin kesilmesi düşünülmelidir (bkz. Bölüm 4.2 ve 4.8).
+Böbrek fonksiyon bozukluğu
+Böbrek fonksiyonu bozulmuş hastalar artmış toksisite riski taşır (özellikle hematolojik toksisite).
+Dozun azaltılması gereklidir (bkz. Bölüm 4.2 ve 5.2).
+Diğer ilaçlarla birlikte kullanım
+İmipenem-silastatin ve gansiklovir kullanan hastalarda konvülsiyonlar bildirilmiştir. Gansiklovir,
+potansiyel faydalar potansiyel risklere ağır basmadığı sürece imipenem- silastatin ile eşzamanlı
+kullanılmamalıdır (bkz. Bölüm 4.5).
+Miyelosupresif olduğu veya böbrek fonksiyonunu etkilediği bilinen ilaçlar olan gansiklovir ve
+didanosin ile tedavi edilen hastalar ilave toksisite belirtileri açısından yakından izlenmelidir (bkz.
+Bölüm 4.5).
+Yardımcı maddeler
+Bu tıbbi ürün 500 mg doz başına 2 mmol (45 mg) sodyum içerir. Bu durum, kontrollü sodyum
+diyetinde olan hastalar için göz önünde bulundurulmalıdır.
+64.5 Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+Farmakokinetik etkileşimler
+Probenesid
+Oral gansiklovir ile verilen probenesid, gansiklovirin renal klirensini istatistiksel olarak azaltmış
+ve klinik olarak anlamlı düzeyde artmış maruziyete yol açmıştır. Bu tip bir etki aynı zamanda
+intravenöz gansiklovir ve probenesidin eşzamanlı uygulanması sırasında da öngörülmektedir. Bu
+nedenle, probenesid ve CYMEVENE alan hastalar gansiklovir toksisitesi açısından yakından
+izlenmelidir.
+Didanosin
+Didanosin plazma konsantrasyonlarının gansiklovir ile birlikte verildiğinde tutarlı olarak
+yükseldiği tespit edilmiştir. 5 ve 10 mg/kg/günlük intravenöz dozlarda didanosin EAA’sında %38
+ile %67 arasında değişen bir artış gözlenmiştir. Gansiklovir konsantrasyonları üzerinde klinik
+olarak anlamlı bir etki yoktur. Hastalar didanosin toksisitesi açısından yakından izlenmelidir (bkz.
+Bölüm 4.4).
+Diğer antiretroviraller
+Sitokrom P450 izoenzimleri gansiklovir farmakokinetiğinde bir rol oynamaz. Sonuç olarak,
+proteaz inhibitörleri ve non-nükleozid ters transkriptaz inhibitörleri ile farmakokinetik
+etkileşimler öngörülmemektedir.
+Farmakodinamik etkileşimler
+İmipenem-silastatin
+Gansiklovir ve imipenem-silastatini eşzamanlı olarak alan hastalarda konvülsiyonlar bildirilmiştir.
+Bu ilaçlar, potansiyel faydalar potansiyel risklere ağır basmadığı sürece eşzamanlı olarak
+kullanılmamalıdır (bkz. Bölüm 4.4).
+Zidovudin
+Hem zidovudin hem de gansiklovir nötropeni ve anemiye neden olma potansiyeline sahiptir. Bu
+ilaçların eşzamanlı uygulanması sırasında farmakodinamik bir etkileşim meydana gelebilir. Bazı
+hastalar eşzamanlı tedaviyi tam dozda tolere edemeyebilir (bkz. Bölüm 4.4).
+Diğer potansiyel ilaç etkileşmeleri
+Gansiklovir miyelosupresif veya böbrek bozukluğu ile ilişkili olduğu bilinen diğer ilaçlarla
+birlikte uygulandığında toksisite artabilir. Bu, anti-enfektif ajanlar (dapson, pentamidin,
+flusitozin, amfoterisin B, trimetoprim/sülfametoksazol), immunosupresanlar (ör. siklosporin,
+takrolimus, mikofenolat mofetil), antineoplastik ajanların (ör. vinkristin, vinblastin, doksorubisin
+ve hidroksiüre) yanı sıra nükleozid (zidovudin, stavudin ve didanozin dahil) ve nükleotid
+analoglarını (tenofovir, adefovir dahil) içerir. Bu nedenle bu ilaçlar sadece potansiyel faydalar
+7potansiyel risklere ağır basıyorsa gansiklovir ile birlikte kullanım için dikkate alınmalıdır (bkz.
+Bölüm 4.4).
+Özel popülasyonlara ilişkin ek bilgiler
+Özel popülasyonlarda herhangi bir etkileşim çalışması yürütülmemiştir.
+Pediyatrik popülasyon
+Pediyatrik popülasyonda herhangi bir etkileşim çalışması yürütülmemiştir.
+4.6 Gebelik ve laktasyon Genel tavsiye
+Gebelik kategorisi: C
+Çocuk doğurma potansiyeli bulunan kadınlar/ Doğum kontrolü (Kontrasepsiyon)
+Üreme toksisitesi ve teratojenisite potansiyeli nedeniyle çocuk doğurma potansiyeline sahip
+kadınlara tedavi sırasında ve ardından en az 30 gün boyunca etkili bir doğum kontrol yöntemi
+kullanmaları tavsiye edilmelidir. Erkek hastalara, kadın partnerin gebelik riski taşımadığı kesin
+olmadığı sürece, gansiklovir ile tedavi sırasında ve ardından en az 90 gün boyunca bariyer
+yöntemi ile korunmaları tavsiye edilmelidir (bkz. Bölüm 4.4 ve 5.3).
+Gebelik dönemi
+Gansiklovirin gebe kadınlarda kullanımına ilişkin yeterli veri mevcut değildir. Hayvanlar
+üzerinde yapılan araştırmalar üreme toksisitesinin bulunduğunu göstermiştir (bkz. Bölüm 5.3).
+İnsanlara yönelik potansiyel risk bilinmemektedir. Bununla birlikte, gansiklovir insan
+plasentasından kolayca difüze olur. Hayvan çalışmalarında gansiklovir üreme toksisitesi ve
+teratojenisite ile ilişkilendirilmiştir (bkz. Bölüm 4.4 ve 5.3). Gansiklovir gerekli olmadıkça
+(kadının tedavisi için klinik ihtiyaç fetüs için potansiyel teratojenik riske ağır basmadığı sürece)
+gebelik döneminde kullanılmamalıdır.
+Laktasyon dönemi
+Gansiklovirin anne sütüne geçip geçmediği bilinmemektedir, ancak gansiklovirin anne sütüne
+geçme ve emzirilen bebekte ciddi advers reaksiyonlara neden olma olasılığı gözardı edilemez.
+Hayvan verileri gansiklovirin emziren sıçanların sütüne geçtiğini göstermektedir. Bu nedenle
+gansiklovir ile tedavi sırasında emzirme bırakılmalıdır (bkz. Bölüm 4.3).
+Üreme yeteneği/ Fertilite
+CMV profilaksisi için 200 güne kadar valgansiklovir alan böbrek transplantlı hastalarla yapılan
+küçük bir klinik çalışmada, tedavinin sonlanmasından sonra valgansiklovir/gansiklovirin sperm
+yoğunluğu ve motilitesinde azalma ile birlikte spermatogeneze etkisi olduğu görülmüştür. Bu etki
+geri dönüşlü olup tahminen valgansiklovir kullanımının kesilmesinden 6 ay sonra ortalama sperm
+yoğunluğu ve motilitesi, tedavi edilmemiş kontrollerde görülen seviyeler ile karşılaştırılabilir
+seviyeye gelmiştir.
+Hayvan çalışmalarında, gansiklovirin erkek ve dişi farelerde fertiliteyi bozmuştur ve klinik olarak
+8uygun kabul edilen dozlarda spermatogenezi engellediği ve farelerde, sıçanlarda ve köpeklerde
+testiküler atrofiyi tetiklediği görülmüştür.
+Klinik ve klinik dışı çalışmalara dayanarak, gansiklovirin geçici veya kalıcı olarak insan
+spermatogenezini engellemesinin olası olduğu göz önünde bulundurulmalıdır (bkz. Bölüm 4.4 ve
+5.3).
+4.7 Araç ve makine kullanımı üzerindeki etkiler
+CYMEVENE araç ve makine kullanımı üzerine ciddi etkileri olabilir (bkz. Bölüm 4.8).
+4.8 İstenmeyen etkiler
+Güvenlilik profili özeti
+Valgansiklovir, gansiklovirin ön-ilacıdır ve valgansiklovir ile ilişkili advers etkilerin gansiklovir
+ile de meydana gelmesi beklenir. Oral gansiklovir artık mevcut değildir ancak kullanımı ile ilgili
+rapor edilen advers reaksiyonlar intravenöz gansiklovir kullanımında da beklenir. Bu nedenle
+advers ilaç reaksiyonları tablosunda intravenöz veya oral gansiklovir ve/veya valgansiklovir
+advers reaksiyonları rapor edilmiştir.
+Gansiklovir/ valgansiklovir ile tedavi edilen hastalarda en ciddi olan ve en yaygın görülen yan
+etkiler, nötropeni, anemi ve trombositopeniyi içeren hematolojik yan etkiler olmuştur (bkz.
+Bölüm 4.4). Diğer yan etkiler aşağıdaki tabloda verilmektedir.
+Advers reaksiyonlar tablosunda sunulan sıklıklar, gansiklovir veya valgansiklovir ile idame
+tedavisi gören HIV enfekte hastalardan oluşan birleştirilmiş bir popülasyondan (n=1.704)
+alınmıştır. Agranülositoz, granülositopeni ve anafilaktik reaksiyon için istisna yapılmıştır;
+bunların sıklıkları pazarlama sonrası deneyimden çıkarılmıştır. Advers reaksiyonlar MedDRA
+sistem organ sınıfına göre listelenmektedir. Sıklık kategorileri aşağıdaki standarda göre
+tanımlanmaktadır: çok yaygın (≥ 1/10), yaygın (≥ 1/100 ila < 1/10), yaygın olmayan (≥ 1/1.000 ila
+< 1/100), seyrek (≥ 1/10.000 ila < 1/1.000) ve çok seyrek (< 1/10.000).
+9Gansiklovir/valgansiklovirin genel güvenlilik profili, retina dekolmanının sadece sitomegalovirüs
+retiniti olan HIV hastalarında bildirilmiş olması haricinde, HIV ve transplant popülasyonları
+arasında uyumludur. Ancak belirli reaksiyonların sıklığında bazı farklılıklar bulunmaktadır.
+İntravenöz gansiklovir, oral valgansiklovir ile karşılaştırıldığında daha düşük ishal riski ile
+ilişkilidir. Ateş, kandida enfeksiyonları, depresyon, şiddetli nötropeni (mutlak nötrofil sayısı
+<500/mcL) ve deri reaksiyonları, HIV’li hastalarda daha sık bildirilmektedir. Böbrek ve karaciğer
+fonksiyon bozukluğu ise organ nakli alıcılarında daha sık bildirilmektedir.
+Advers reaksiyonların tablolaştırılmış listesi
+ADR (MedDRA) Sıklık Kategorisi
+Sistem Organ Sınıfı
+Enfeksiyonlar ve enfestasyonlar:
+Oral kandidiyazis dahil kandida enfeksiyonları Çok yaygın
+Üst solunum yolu enfeksiyonu
+Sepsis Yaygın
+Grip
+İdrar yolu enfeksiyonu
+Selülit
+Kan ve lenf sistemi hastalıkları:
+Nötropeni Çok yaygın
+Anemi
+Trombositopeni Yaygın
+Lökopeni
+Pansitopeni
+Kemik iliği yetmezliği Yaygın olmayan
+Aplastik anemi Seyrek
+Agranülositoz*
+Granülositopeni*
+Bağışıklık sistemi hastalıkları:
+Aşırı duyarlılık Yaygın
+Anafilaktik reaksiyon* Seyrek
+Metabolizma ve beslenme hastalıkları:
+İştah azalması Çok yaygın
+Kilo kaybı Yaygın
+Psikiyatrik hastalıklar:
+Depresyon Yaygın
+Konfüzyonel durum
+10ADR (MedDRA) Sıklık Kategorisi
+Sistem Organ Sınıfı
+Anksiyete
+Ajitasyon Yaygın olmayan
+Psikotik bozukluk
+Anormal düşünme
+Halüsinasyonlar
+Sinir sistemi hastalıkları:
+Baş ağrısı Çok yaygın
+İnsomnia Yaygın
+Periferik nöropati
+Sersemlik hali
+Parestezi
+Hipoastezi
+Nöbet
+Disguzi (tat bozukluğu)
+Tremor Yaygın olmayan
+Göz hastalıkları:
+Görme bozukluğu Yaygın
+Retina yırtılması
+Vitröz uçuşan cisimcikler
+Göz ağrısı
+Konjunktivit
+Maküler ödem
+Kulak ve iç kulak hastalıkları:
+Kulak ağrısı Yaygın
+Sağırlık Yaygın olmayan
+Kardiyak hastalıklar:
+Aritmiler Yaygın olmayan
+Vasküler hastalıklar:
+Hipotansiyon Yaygın
+Solunum, göğüs bozuklukları ve mediastinal hastalıklar:
+Öksürük Çok yaygın
+Dispne
+Gastrointestinal hastalıklar:
+İshal Çok yaygın
+Bulantı
+Kusma
+Karın ağrısı
+11ADR (MedDRA) Sıklık Kategorisi
+Sistem Organ Sınıfı
+Dispepsi Yaygın
+Flatulans
+Üst karın ağrısı
+Kabızlık
+Ağız ülserasyonu
+Disfaji
+Karında şişlik
+Pankreatit
+Hepatobiliyer hastalıklar:
+Kan alkalin fosfataz artışı Yaygın
+Anormal karaciğer fonksiyonu
+Aspartat aminotransferaz artışı
+Alanin aminotransferaz artışı
+Deri ve deri altı doku hastalıkları:
+Dermatit Çok yaygın
+Gece terlemeleri Yaygın
+Kaşıntı
+Döküntü
+Alopesi
+Deri kuruluğu Yaygın olmayan
+Ürtiker
+Kas-iskelet bozuklukları ve bağ doku ve kemik hastalıkları:
+Sırt ağrısı Yaygın
+Miyalji
+Artralji
+Kas spazmları
+Böbrek ve idrar yolu hastalıkları:
+Böbrek fonksiyon bozukluğu Yaygın
+Renal kreatinin klirensinde azalma
+Kan kreatinin artışı
+Böbrek yetmezliği Yaygın olmayan
+Hematüri
+Üreme sistemi ve meme hastalıkları:
+Erkek infertilitesi Yaygın olmayan
+Genel bozukluklar ve uygulama bölgesine ilişkin hastalıklar:
+Ateş Çok yaygın
+12ADR (MedDRA) Sıklık Kategorisi
+Sistem Organ Sınıfı
+Yorgunluk
+Enjeksiyon yerinde reaksiyon Yaygın
+Ağrı
+Üşüme
+Malazi
+Asteni
+Göğüs ağrısı Yaygın olmayan
+*Bu advers reaksiyonların sıklıkları pazarlama sonrası deneyimlerden elde edilmiş olup, tüm
+diğer sıklık kategorileri klinik çalışmalara kaydedilen sıklığı temel almaktadır.
+Seçili advers reaksiyonların tanımı
+Nötropeni
+Nötropeni riski, tedavi öncesindeki nötrofil sayısından öngörülememektedir. Nötropeni genellikle
+tedaviye başlandıktan sonraki ilk veya ikinci hafta sırasında ve ≤ 200 mg/kg kümülatif dozu
+uygulandıktan sonra ortaya çıkar. Hücre sayımı genellikle ilaç kesildikten ya da dozu azaltıldıktan
+sonraki 2 ila 5 gün içinde normale döner (bkz. Bölüm 4.4).
+Şiddetli nötropeni
+Şiddetli nötropeni, valgansiklovir veya oral gansiklovir alan organ transplant hastaları ile
+karşılaştırıldığında valgansiklovir, oral veya intravenöz gansiklovir (n=1.704) ile idame tedavisi
+alan HIV hastalarında (%14) daha sık bildirilmiştir. Transplant sonrası
+100. güne kadar valgansiklovir veya oral gansiklovir alan hastalarda şiddetli nötropeni insidansı
+sırasıyla %5 ve %3 olurken transplant sonrası 200. güne kadar valgansiklovir alan hastalarda
+şiddetli nötropeni insidansı %10 olmuştur.
+Trombositopeni
+Bazal trombosit sayıları düşük olan (< 100.000 /mcL) hastalar trombositopeni geliştirme
+açısından daha yüksek risk altındadır. İmmünosupresif ilaçlar ile tedavi nedeniyle iyatrojenik
+immünosupresyonu olan hastalar, AIDS’li hastalar ile karşılaştırıldığında trombositopeni
+geliştirme açısından daha büyük bir riske sahiptir (bkz. Bölüm 4.4). Şiddetli trombositopeni,
+yaşamı tehdit edici olma potansiyeline sahip kanama ile ilişkili olabilir.
+Konvülsiyonlar
+İmipenem-silastatin ve gansiklovir alan hastalarda nöbetler bildirilmiştir (bkz. Bölüm 4.4 ve 4.5).
+13Retina dekolmanı
+Bu advers reaksiyon sadece CMV retiniti için CYMEVENE ile tedavi edilen HIV hastalarıyla
+yürütülen çalışmalarda bildirilmiştir.
+Enjeksiyon bölgesinde reaksiyonlar
+Gansiklovir kullanan hastalarda enjeksiyon yeri reaksiyonları yaygın olarak görülmektedir. Lokal
+doku irritasyonu riskini azaltmak için CYMEVENE Bölüm 4.2’de önerildiği gibi uygulanmalıdır.
+Pediyatrik popülasyon
+12 yaşın altındaki çocuklarda gansiklovir ile resmi güvenlilik çalışmaları gerçekleştirilmemiştir
+fakat gansiklovirin bir ön ilacı olan valgansiklovir ile sahip olunan deneyime dayanılarak, aktif
+ilacın genel güvenlilik profili pediyatrik ve erişkin hastalarda benzerdir. Nötropeni pediyatrik
+hastalarda daha sık görülür. Ancak pediyatrik popülasyonda nötropeni ile enfeksiyöz advers
+reaksiyonlar arasında bir korelasyon bulunmamaktadır. Yenidoğanlar veya bebeklerdeki yüksek
+sitopeni riski, bu yaş gruplarında kan sayımlarının dikkatli takibini gerektirmektedir (bkz. Bölüm
+4.4).
+Valgansiklovir ya da gansiklovir ile tedavi edilen HIV/AIDS’li veya semptomatik konjenital
+CMV enfeksiyonu olan yenidoğanlarda veya bebeklerde sadece sınırlı veri mevcuttur ancak
+güvenlilik profilinin, valgansiklovir/gansiklovirin bilinen güvenlilik profili ile uyumlu olduğu
+izlenimi mevcuttur.
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine olanak
+sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir (www.titck.gov.tr: e-posta:
+tufam@titck.gov.tr, tel: 0 800 314 00 08; faks: 0 312 218 35 99).
+4.9 Doz aşımı ve tedavisi
+Semptomlar
+Klinik çalışmalardan ve pazarlama sonrası deneyim sırasında, I.V. gansiklovir ile bazıları ölümcül
+sonuca sahip doz aşımı raporları alınmıştır. Raporların çoğu ya hiçbir advers olay ile ilişkili
+değildir ya da aşağıda listeli advers reaksiyonlardan birini ya da daha fazlasını içermiştir:
+14- Hematolojik toksisite: pansitopeni, kemik iliği yetmezliği, lökopeni, nötropeni,
+granülositopeni dahil miyelosupresyon
+- Karaciğer toksisitesi: hepatit, karaciğer fonksiyon bozukluğu
+- Böbrek toksisitesi: önceden mevcut olan böbrek bozukluğu, akut böbrek yetmezliği,
+artmış kreatinin görülen bir hastada hematüride kötüleşme
+- Gastrointestinal toksisite: karın ağrısı, diyare, kusma
+- Nörotoksisite: jeneralize titreme, konvülziyon
+Yönetim
+Gansiklovir hemodiyaliz ile uzaklaştırılır, bu nedenle hemodiyaliz aşırı gansiklovir dozu alan
+hastalarda ilaç maruziyetini azaltmada faydalı olabilir (bkz. Bölüm 5.2).
+Özel popülasyonlara ilişkin ilave bilgiler
+Böbrek fonksiyon bozukluğu: Aşırı gansiklovir dozunun böbrek bozukluğu olan hastalarda artmış
+böbrek toksisitesi ile sonuçlanması beklenir (bkz. Bölüm 4.4).
+Pediyatrik popülasyon
+Spesifik bilgiler mevcut değildir.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1 Farmakodinamik özellikler
+Farmakoterapötik grubu: Enfeksiyona karşı kullanılan sistemik ilaçlar/ Sistemik antiviraller/
+Direkt etkili antiviraller/ Nükleozit ve nükleotit inhibitörleri (ters transkriptaz inhibitörleri hariç)
+ATC kodu: J05AB06
+Etki mekanizması:
+Gansiklovir, in vitro ve in vivo koşullarda herpes virüslerinin replikasyonunu inhibe eden 2’-
+deoksiguanozinin sentetik bir analoğudur. Duyarlı insan virüsleri, insan sitomegalovirüsü
+(HCMV), herpes-simplex virüsü-1 ve –2 (HSV-1 ve HSV-2), insan herpes virüsü 6, -7 ve -8
+(HHV-6, HHV-7, HHV-8), Epstein-Barr virüsü (EBV), varicella-zoster virüsü (VZV) ve hepatit
+B virüsünü kapsar. Sitomegalovirüs (CMV) enfeksiyonu olan hastalarda, klinik çalışmalar
+etkinlilik değerlendirmesi için sınırlı kalmıştır.
+CMV ile enfekte olmuş hücrelerde gansiklovir başlangıçta bir viral protein kinaz olan UL97
+tarafından gansiklovir monofosfata fosforile olur. Daha sonra birçok hücresel kinaz aracılığıyla
+gansiklovir trifosfat oluşturmak üzere başka fosforilasyonlar meydana gelir ve gansiklovir
+trifosfat hücre içinde yavaşça metabolize olur. Yarı ömürleri sırasıyla 18 saat ve 6 ila 24 saat olan
+HSV ve HCMV ile enfekte hücrelerde, ekstraselüler gansiklovirin uzaklaştırılmasından sonra bu
+olayların oluştuğu gösterilmiştir. Fosforilasyonun geniş ölçüde viral kinaza bağlı olması
+nedeniyle, gansiklovir fosforilasyonu tercihen, virüs ile enfekte hücrelerde oluşmaktadır.
+Gansiklovirin virüstatik aktivitesi, viral DNA sentezinin şu yolla inhibisyonundan
+kaynaklanmaktadır: a) deoksiguanozin trifosfatın viral DNA polimeraz tarafından DNA ile
+bütünleştirilmesinin yarışmalı inhibisyonu ve b) gansiklovir trifosfatın viral DNA ile
+15bütünleşmesi ve böylelikle DNA uzamasının sonlanmasına ya da son derece kısıtlanmasına neden
+olması.
+Antiviral aktivite
+Gansiklovirin CMV’ye karşı IC50’si olarak ölçülen in vitro antiviral aktivite, 0,08 mcM (0,02
+μg/mL) ile 14 mcM (3,57 μg/mL) aralığındadır.
+Klinik etkililik ve güvenlilik
+Viral direnç
+Viral direnç olasılığı, tekrarlayan zayıf klinik yanıt görülen veya tedavi sırasında sürekli viral
+atılım yaşayan hastalarda dikkate alınmalıdır.
+Gansiklovire viral direnç, gansiklovir monofosforilasyonundan sorumlu viral kinaz geni (UL97)
+ve/veya viral polimeraz genindeki (UL54) mutasyonların seleksiyonundan kaynaklanabilir. UL97
+geninde mutasyon içeren virüsler sadece gansiklovire dirençli iken, UL54 geninde mutasyonlara
+sahip virüsler gansiklovire dirençli olmakla birlikte aynı zamanda viral polimerazı hedef alan
+diğer antivirallere çapraz direnç gösterebilirler.
+Pediyatrik popülasyon
+Prospektif bir çalışmada, HIV veya CMV enfeksiyonlu, immün sistemi önemli ölçüde baskılanmış
+36 pediyatrik hasta (6 aylık – 16 yaş) 2 gün boyunca günde 5 mg/kg’lık bir dozda intravenöz
+gansikloviri takiben medyan 32 hafta boyunca oral gansiklovir almıştır. Gansiklovir yetişkinlerde
+görülene benzer bir toksisite profili ile etkili olmuştur. Gansiklovir kültür veya polimeraz zincir
+reaksiyonu ile CMV tespitinde bir azalma ile ilişkilendirilmiştir. Çalışma sırasında gözlenen tek
+şiddetli advers ilaç reaksiyonu nötropenidir ve çocuklardan hiçbirinde tedavinin kesilmesi
+gerekmemiş olsa da 4’ünde mutlak nötrofil sayımlarını >400 hücre/mm3’de muhafaza etmek
+üzere granülosit koloni-stimüle edici faktör (G-CSF) tedavisi gerekmiştir.
+Retrospektif bir çalışmada, 122 pediyatrik karaciğer nakli alıcısı (16 günlük – 18 yaş, medyan yaş
+2,5) en az 14 gün günde iki kez 5 mg/kg intravenöz gansiklovir almayı takiben preemptif CMV
+PCR takibinden geçmiştir. Kırk üç hastanın CMV için yüksek risk taşır ve 79’unun rutin risk
+taşıdığı kabul edilmiştir. Asemptomatik CMV enfeksiyonu PCR ile gönüllülerin %34,4’ünde
+tespit edilmiş olup, rutin riskli alıcılara kıyasla yüksek risklilerde daha olasıdır (%21,8’e karşı
+%58, 1, p = 0,0001). 12 gönüllüde (%9,8) CMV hastalığı gelişmiştir (4 rutin riskliye karşı 8
+yüksek riskli, p = 0,03). 3 gönüllüde CMV’nin tespit edilmesinden sonra 6 ay içinde akut ret
+gelişmekle birlikte 13 gönüllüde CMV, reddi takip etmiştir. CMV’ye bağlı ölüm görülmemiştir.
+Gönüllülerin toplamda %38,5’i ilk ameliyat sonrası profilaksi dışında antiviral ilaçlar
+kullanmamıştır.
+Retrospektif bir analizde, gansiklovirin etkililiği ve güvenliliği 92 pediyatrik böbrek ve/veya
+karaciğer nakli hastasında (7 aylık – 18 yaş, medyan yaş 9) valgansiklovir ile karşılaştırılmıştır.
+Tüm çocuklar nakli takiben 2 hafta boyunca günde iki kez 5 mg/kg intravenöz gansiklovir
+almıştır. 2004’ten önce tedavi edilen çocuklar, o zamanda günde üç kez 1 g/doza kadar oral
+gansiklovir 30 mg/kg/doz alırken (n=41), 2004’ten sonra tedavi edilen çocuklar günde bir kez 900
+mg’a kadar valgansiklovir almıştır (n = 51). CMV’nin genel insidansı %16’dır (15/92 hasta).
+CMV enfeksiyonunun başlangıcına kadar geçen süre her iki grupta da benzerdir.
+16Randomize, kontrollü bir çalışmada, merkezi sinir sistemi (MSS) tutulumlu semptomatik
+konjenital CMV hastalığı olan 100 neonatal hasta (≤1 aylık) 6 hafta boyunca her 12 saatte bir 6
+mg/kg intravenöz gansiklovir almış ya da tedavi görmemiştir. Kaydedilen 100 hastadan 42’si tüm
+çalışma kriterlerini karşılamış olup, hem başlangıç hem de 6. ay takip odiometri
+değerlendirmelerine sahiptir. Bunlardan 25’i gansiklovir alırken, 17’si tedavi görmemiştir. Yirmi
+beş gansiklovir alıcısından 21’inde başlangıçtan 6. aya işitme iyileşirken veya normal işitme
+korunurken, bu sayı kontrol hastalarında 10/17’dir (sırasıyla %84 ve %59, p=0,06). 7 kontrol
+hastasına kıyasla gansiklovir alıcılarından hiçbirinde başlangıçtan 6. aya işitmede kötüleşme
+görülmemiştir (p< 0,01). Başlangıçtan sonra birinci yıl itibariyle, 5/24 gansiklovir alıcısı ve 13/19
+kontrol hastasında işitme kötüleşmiştir (p < 0,01). Çalışmanın seyri sırasında 29/46 gansiklovir ile
+tedavi edilen hastada nötropeni görülürken, bu rakam kontrol hastalarında 9/43’dür (p < 0,1).
+Çalışma sırasında gansiklovir grubunda 3 ve kontrol grubunda 6 olmak üzere toplam 9 ölüm
+meydana gelmiştir. Hiçbir ölüm çalışma ilacı ile ilişkilendirilmemiştir.
+Faz III, randomize, kontrollü bir çalışmada MSS tutulumlu şiddetli semptomatik konjenital
+CMV’li 100 neonatal hasta (3-33 günlük, medyan yaş 12 gün) ya 6 hafta boyunca günde iki kez 6
+mg/kg gansiklovir (n=48) almış ya da antiviral tedavi görmemiştir (n= 52). Antiviral tedavi
+almayanlara kıyasla gansiklovir alan bebeklerde nöro-gelişimsel sonuçlar 6 ve 12. ayda
+iyileşmiştir. Gansiklovir alıcıları daha az gecikme ve daha normal nörolojik sonuçlara sahipse de
+çoğu halen 6 haftalık, 6 aylık ve 12 aylık yaşta normal kabul edilebilecek gelişiminden geri
+kalmıştır. Bu çalışmada güvenlilik değerlendirilmemiştir.
+Retrospektif bir çalışmada antiviral tedavinin konjenital CMV enfeksiyonlu bebeklerde (4-34
+aylık, ortalama yaş 10, 3±7, 8 ay, medyan yaş 8 ay) geç başlangıçlı işitme kaybı üzerindeki etkisi
+araştırılmıştır. Çalışma geç başlangıçlı işitme kaybı gelişen doğumda normal işitmeye sahip 21
+bebeği içermiştir. Antiviral tedavi aşağıdakilerden oluşmuştur:
+- 6 hafta boyunca günlük 5 mg/kg intravenöz gansikloviri takiben 6 hafta boyunca günde iki
+kez ardından 1 yaşa kadar günde bir 17 mg/kg valgansiklovir veya
+- 12 hafta boyunca günde iki kez ardından 9 ay boyunca günde bir 17 mg/kg oral
+valgansiklovir.
+Çocuklardan hiçbiri için koklear implant gerekmemiş ve başlangıçta işitme kaybından etkilenen
+kulakların %83’ünde işitme kaybı iyileşmiştir. Nötropeni bildirilen tek yan etki olup, hiçbir
+hastada tedavi bırakmayı gerektirmemiştir.
+5.2 Farmakokinetik özellikler
+Genel özellikler:
+Gansiklovirin farmakokinetik özellikleri HIV ve CMV-seropozitif hastalar, AIDS’li ve CMV
+retinitli hastalar ve solid organ nakli hastalarında değerlendirilmiştir.
+Karaciğer transplantı yetişkin hastalarda intravenöz yolla 1 saat boyunca uygulanan 5mg/kg
+gansiklovir dozu takiben sistemik maruziyet (EAA0-∞) değeri, ortalama 50.6 µg.h/mL (CV% 40)
+olarak rapor edilmiştir: Bu hasta popülasyonunda, pik plazma konsantrasyonu (Cmax) ortalama
+12.2 µg/mL (CV% 24) olarak değerlendirilmiştir.
+17Emilim
+CYMEVENE intravenöz infüzyon yoluyla uygulandığı ve direkt olarak sistemik dolaşıma
+katıldığı için geçerli değildir.
+Dağılım
+İntravenöz olarak uygulanan gansiklovirin dağılım hacmi vücut ağırlığı ile korelasyon gösterir.
+Kararlı durum dağılım hacmi 0,54-0,87 L/kg aralığındadır. Plazma proteinine bağlanma 0,5 ve 51
+μg/mL’lik gansiklovir konsantrasyonlarında %1-%2’dir. Gansiklovir serebrospinal sıvıya girer ve
+burada gözlenen konsantrasyonlar plazma konsantrasyonlarının %24-%67’sine erişir.
+Biyotransformasyon
+Gansiklovir önemli bir boyutta metabolize edilmez. Eliminasyon
+Gansiklovir baskın olarak glomerüler filtrasyon yoluyla ve değişmemiş gansiklovirin aktif tübüler
+sekresyonu ile böbrekten elimine edilir. Normal böbrek fonksiyonuna sahip hastalarda intravenöz
+yolla uygulanan gansiklovir dozunun %90’ından fazlası 24 saat içinde idrarda değişmeden geri
+kazanılır. Ortalama sistemik klirens 2,64±0,38 mL/dakika/kg (N = 15) ile 4,52 ± 2,79
+mL/dakika/kg (N = 6) arasında değişirken, böbrek klirensi 2,57 ± 0,69 mL/dakika/kg (N = 15) ile
+3,48 ± 0,68 mL/dakika/kg (N=20) arasında değişir ki bu uygulanan gansiklovirin %90-%101’ine
+tekabül eder. Böbrek fonksiyon bozukluğu olmayan gönüllülerde yarılanma ömürleri 2,73±1,29
+(N = 6) ile 3,98 ± 1,78 (N = 8) arasında değişmiştir.
+Doğrusallık/doğrusal olmayan durum
+İntravenöz gansiklovir 1,6-5,0 mg/kg aralığında doğrusal bir farmakokinetik sergiler.
+Hastalardaki karakteristik özellikler
+Böbrek fonksiyon bozukluğu olan hastalar
+Gansiklovirin toplam vücut klirensi kreatinin klirensi ile doğrusal korelasyona sahiptir. Hafif, orta
+şiddette ve şiddetli böbrek bozukluğu olan hastalarda 2,1, 1 ve 0,3 mL/dakika/kg’lık ortalama
+sistemik klirensler gözlenmiştir. Böbrek bozukluğu olan hastalar artmış eliminasyon yarılanma
+ömrüne sahiptir. Şiddetli böbrek bozukluğu olan hastalarda eliminasyon yarılanma ömrü 10 kat
+artmıştır (böbrek fonksiyon bozukluğu olan hastalarda gerekli doz modifikasyonları için bkz.
+Bölüm 4.2).
+Hemodiyalize giren böbrek bozukluğu olan hastalar
+Hemodiyaliz, 4 saatlik hemodiyaliz seansı sırasında intravenöz uygulama sonrası plazma
+gansiklovir konsantrasyonlarını yaklaşık %50 azaltır.
+Aralıklı hemodiyaliz sırasında gansiklovir klirensi için tahminler 42-92 mL/dakika arasında
+değişerek, 3,3-4,5 saatlik intra-diyalitik yarılanma ömrü ile sonuçlanmıştır. Tek bir diyaliz seansı
+sırasında uzaklaştırılan gansiklovir fraksiyonu %50 ile %63 arasında değişmiştir. Kesintisiz
+18diyaliz için gansiklovir klirensi tahminleri daha düşük olmakla birlikte (4,0-29,6 mL/dakika), bir
+doz aralığında daha fazla gansiklovirin uzaklaştırılması ile sonuçlanmıştır.
+Karaciğer fonksiyon bozukluğu olan hastalar
+Karaciğer bozukluğu olan hastalarda CYMEVENE’nin güvenliliği ve etkililiği araştırılmamıştır.
+Gansiklovir, böbreklerden atıldığından, karaciğer fonksiyon bozukluğu gansiklovirin
+farmakokinetiğini etkilemeyecek olup, spesifik doz önerisi yapılmamaktadır (bkz. Bölüm 4.2).
+Pediyatrik Popülasyon
+3 aylık ile 16 yaş arası pediyatrik karaciğer (n=18) ve böbrek (n=25) transplantı hastaları üzerinde
+yürütülmüş olan iki çalışmada I.V. gansiklovirin (200 mg/m2 dozunda) farmakokinetiği
+araştırılmış ve bir popülasyon farmakokinetiği modeli kullanılarak değerlendirilmiştir. Kreatinin
+klirensinin (KrKLS) gansiklovir klirensi açısından istatistiksel olarak anlamlı bir değişken olduğu,
+hastanın boyunun ise gansiklovir klirensi, kararlı durum hacmi ve periferik dağılım hacmi
+açısından istatistiksel olarak anlamlı bir değişken olduğu tespit edilmiştir. KrKLS ve boy modele
+dahil edilirken, farklı yaş grupları arasında gansiklovir FK'si açısından söz konusu olan belirgin
+farklılıklar hesaba katılmıştır ve bu popülasyonlarda yaş, cinsiyet veya organ transplantı tipleri
+anlamlı eşdeğişkenler olmamıştır. Tablo 1’de yaş grubuna göre hesaplanan farmakokinetik
+parametreler verilmektedir.
+Tablo 1: Böbrek ve karaciğer solid organ transplantı hastalarında vücut yüzey alanına göre
+uygulanan (200mg/m2) I.V. gansiklovir sonrası medyan değerler (minimum- maksimum)
+şeklinde ifade edilen farmakokinetik parametreler.
+< 6 yaş 6 ila <12 yaş ≥12 ila <16 yaş
+n=17 n=9 n=17
+Kl (L/sa) 4,23 (2,11 - 7,92) 4,03 (1,88 - 7,8) 7,53 (2,89 - 16,8)
+Vmerkezi (L) 1,83 (0,45 - 5,05) 6,48 (3,34 - 9,95) 12,1 (3,6 - 18,4)
+Vperiferik (L) 5,81 (2,9 - 11,5) 16,4 (11,3 - 20,1) 27 (10,6 - 39,3)
+Vss (L) EAA0-24sa 8,06 (3,35 - 16,6) 22,1 (14,6 - 30,1) 37,9 (16,5 - 57,2)
+(μg.sa/mL) 24,3 (14,1 - 38,9) 40,4 (17,7 - 48,6) 37,6 (19,2 - 80,2)
+Cmaks (µg/mL) 12,1 (9,17 - 15) 13,3 (4,73 - 15) 12,4 (4,57 - 30,8)
+Ek olarak, yetişkinler için onaylanan dozaj rejimine göre (1 saatlik bir sürede uygulanan 5 mg/kg
+I.V. infüzyon) verilen intravenöz gansiklovirin farmakokinetiği, normal böbrek fonksiyonuna
+sahip olan 9 aylık ile 12 yaş arası bebek ve çocuklardan oluşan küçük bir grupta (n=10, ortalama
+3,1 yaş) araştırılmıştır. Ortalama EAA0-∞ ile 1. günde (n=10) ve EAA0-12 ile 14. günde (n=7)
+ölçülen maruziyetlerin sırasıyla 19,4 ± 7,1 ve 24,1 ± 14,6 μg.sa/mL olduğu tespit edilmiştir,
+karşılık gelen Cmaks değerleri ise 7,59 ± 3,21 μg/mL (1. Gün) ve 8,31 ± 4,9 μg/mL (14. Gün)
+olmuştur. Bu çalışmada kullanılan vücut ağırlığına dayalı doz uygulaması ile daha genç pediyatrik
+hastalarda daha düşük maruziyet yönünde bir eğilim gözlenmiştir. 5 yaşına kadar olan pediyatrik
+hastalarda, 1. Günde EAA0-∞ (n=7) ve 14. Günde EAA0-12sa (n=4) için elde edilen ortalama
+değerler 17,7 ± 5,5 ve 17,1 ± 7,5 μg.sa/mL olmuştur.
+Valgansiklovirin pediyatrik dozaj algoritmasından türetilen ve vücut yüzey alanına ve böbrek
+fonksiyonuna dayanan I.V. gansiklovir rejimi (3x VYA x KrKLS), doğumdan 16 yaşına kadar
+benzer gansiklovir maruziyetleri ortaya çıkarmaktadır (bkz. Tablo 2).
+19Tablo 2: 3xVYAxKrKLS dozunda (mg) 1 saatlik infüzyonla verilen gansiklovirle tedavi
+uygulanan pediyatrik hastalar için simüle edilmiş* Gansiklovir EAA0-24sa (μg • sa/mL) değeri.
+<4 aylık ≥ 4 aylık > 2 ila < 6 ≥6 ila ≥ 12 ila ≤ 16 Tüm
+ila ≤ 2 yaş yaş <12 yaş yaş Hastalar
+Simüle edilen hasta 781 384 86 96 126 1473
+sayısı
+Medyan 55,6 56,9 54,4 51,3 51,4 55,4
+Ortalama 57,1 58,0 55,1 52,6 51,8 56,4
+Min 24,9 24,3 16,5 23,9 22,6 16,5
+Maks 124,1 133,0 105,7 115,2 94,1 133,0
+Hastalar 89 38 13 23 28 191
+EAA < 40 µg, sa/mL (%11) (%10) (%15) (%24) (%22) (%13)
+Hastalar 398 195 44 41 63 741
+EAA 40-60µg, (%51) (%51) (%51) (%43) (%50) (%50)
+sa/mL
+Hastalar 294 151 29 32 35 541
+EAA >60µg,sa/mL (%38) (%39) (%34) (%33) (%28) (%37)
+EAA = plazma konsantrasyonu-zaman eğrisi altındaki alan; VYA = vücut yüzey alanı; KrKLS
+= kreatinin klirensi; maks = maksimum; min = minimum.
+* Simülasyonlar, valide edilmiş bir pediyatrik popülasyon FK modeli ve klinik çalışmalarda
+valgansiklovir veya gansiklovir tedavisi görmüş olan pediyatrik hastalardan elde edilmiş
+demografik veriler (n=1473 veri kaydı) kullanılarak gerçekleştirilmiştir
+Yaşlılar
+65 yaş üzerindeki yetişkinlerde hiçbir çalışma yürütülmemiştir (bkz. Bölüm 4.2).
+5.3 Klinik öncesi güvenlilik verileri
+Gansiklovir, fare lenfoma hücrelerinde mutajenik ve memeli hücrelerinde klastojeniktir. Bu tip
+bulgular, gansiklovir ile yapılan pozitif fare karsinojenite çalışması ile tutarlıdır. Gansiklovir
+potansiyel bir karsinojendir.
+Gansiklovir hayvanlarda bozulmuş fertilite ve teratojenisiteye sebep olmaktadır. Terapötik
+düzeyler altında sistemik gansiklovir maruziyetlerinde aspermatogenezin indüklendiği hayvan
+çalışmaları baz alındığında, gansiklovirin insan spermatogenezinin inhibisyonuna neden olması
+muhtemel kabul edilir.
+6. FARMASÖTİK ÖZELLİKLER
+6.1 Yardımcı maddelerin listesi
+20Sodyum hidroksit (pH ayarlaması için) Hidroklorik asit (pH ayarlaması için)
+6.2 Geçimsizlikler
+Geçimlilik çalışmaları yokluğunda bu tıbbi ürün Bölüm 6.6’da bahsedilenler dışında diğer tıbbi
+ürünlerle karıştırılmamalıdır. CYMEVENE ile geçimli olmadıklarından ve çökelmeye neden
+olacaklarından paraben (para-hidroksibenozatlar) içeren bakteriyostatik enjeksiyonluk su
+kullanmayınız.
+6.3 Raf ömrü
+36 ay
+6.4 Saklamaya yönelik özel tedbirler
+30C altındaki oda sıcaklığında saklayınız.
+Seyreltilmiş flakon 12 saat içinde kullanılmalıdır.
+İçinde gansiklovir bulunan infüzyon çözeltisi buzdolabında saklanmalı ve 24 saat içinde
+kullanılmalıdır. Dondurulmamalıdır.
+6.5 Ambalajın niteliği ve içeriği
+CYMEVENE 500 mg, I.V. infüzyonluk çözelti konsantresi için toz, kutuda, renksiz Tip I cam
+flakon 10 mL.
+6.6 Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+CYMEVENE kullanılırken dikkat gösterilmelidir.
+CYMEVENE insanlarda potansiyel teratojen ve karsinojen kabul edildiğinden, elde
+geçirilmesinde dikkat gösterilmelidir. Flakonlardaki tozun solunmasından veya direkt temasından
+ve sulandırılmış çözeltinin deri veya muköz membranlarla direkt temasından kaçınılmalıdır.
+CYMEVENE çözeltileri alkalindir (pH ~11). Bu tip bir temas meydana gelirse sabun ve suyla
+iyice yıkayınız, gözleri sadece suyla iyice yıkayınız.
+Sulandırılmış konsantrenin hazırlanması
+Liyofilize CYMEVENE’i sulandırmak üzere aseptik teknik kullanılmalıdır.
+1. Geçme başlık kauçuk tıpanın merkezi kısmını açığa çıkarmak üzere çıkarılır. Bir enjektöre
+10 mL enjeksiyonluk su çekilir, ardından yavaşça iğneyi flakon duvarına doğru tutarak kauçuk
+tıpanın merkezinden enjekte edilir. CYMEVENE ile geçimsiz olduklarından paraben (para-
+hidroksibenzoatlar) içeren bakteriyostatik enjeksiyonluk su kullanılmamalıdır.
+2. Flakon ürünün tamamen ıslandığından emin olmak üzere nazikçe döndürülmelidir.
+3. Flakon berrak bir sulandırılmış çözelti elde etmek üzere birkaç dakika nazikçe
+çevrilmeli/döndürülmelidir.
+4. Sulandırılan çözelti, geçimli çözücü ile seyreltme öncesi ürünün çözeltide olduğundan ve
+esas olarak görünür partikül içermediğinden emin olmak üzere dikkatlice kontrol edilmelidir.
+21Sulandırılmış CYMEVENE çözeltileri renksiz ila açık sarı arasında değişiklik gösterir.
+Kullanılmamış olan ürünler ya da atık materyaller, “Tıbbi Atıkların Kontrolü Yönetmeliği’’ ve
+“Ambalaj ve Ambalaj Atıklarının Kontrolü Yönetmeliği”ne uygun olarak imha edilmelidir.
+7. RUHSAT SAHİBİ
+CHEPLAPHARM Arzneimittel GmbH, Almanya lisansı ile
+AA Danışmanlık Eğitim Organizasyon ve Tıbbi Ürünler Ticaret Ltd Şti. Sancaktepe Mah. 1. Sok.
+19/17
+34200 Bağcılar – İstanbul Tel: (0 212) 909 04 55
+Faks : (0 212) 355 83 26
+e-posta: info@academyanatolia.com
+KEP Adresi: aadanismanlikegitim@hs02.kep.tr
+8. RUHSAT NUMARASI
+26.08.2021 – 2021/264
+9. İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi: 20.10.1997
+Ruhsat Yenileme Tarihi: 20.10.2007
+10. KÜB’ÜN YENİLENME TARİHİ
+22

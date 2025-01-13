@@ -1,0 +1,975 @@
+KISA ÜRÜN BİLGİSİ
+Bu ilaç ek izlemeye tabidir. Bu üçgen yeni güvenlilik bilgisinin hızlı olarak belirlenmesini
+sağlayacaktır. Sağlık mesleği mensuplarının şüpheli advers reaksiyonları TÜFAM’a
+bildirmeleri beklenmektedir. Bakınız Bölüm 4.8 Advers reaksiyonlar nasıl raporlanır?”
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+LORVİQUA® 100 mg film kaplı tablet
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde:
+Lorlatinib 100 mg
+Yardımcı madde(ler):
+Laktoz monohidrat (sığır kaynaklı) 4,20 mg
+Yardımcı maddeler için 6.1’e bakınız.
+3. FARMASÖTİK FORM
+Film Kaplı Tablet.
+Bir yüzünde “Pfizer”, diğer yüzünde “LLN 100” baskılı oval eflatun hızlı salımlı film kaplı
+tablet.
+4. KLİNİK ÖZELLİKLER
+4.1 Terapötik endikasyonlar
+LORVİQUA, monoterapi olarak daha önce bir ALK (anaplastik lenfoma kinaz) inhibitörü ile
+tedavi edilmemiş veya bir veya daha fazla ALK tirozin kinaz inhibitörü (TKI) ile tedavi edilmiş
+ALK pozitif metastatik küçük hücreli dışı akciğer kanseri (KHDAK) olan yetişkinlerin
+tedavisinde endikedir.
+4.2 Pozoloji ve uygulama şekli
+Pozoloji
+Lorlatinib tedavisi, antikanser tıbbi ürünlerin kullanımında deneyimli bir doktor tarafından
+başlatılmalı ve gözetim altında tutulmalıdır.
+Yarar sağladığı gösterilen tek hasta grubu olduğundan, ALK pozitif KHDAK'nin saptanması
+lorlatinib tedavisinde hasta seçimi için gereklidir. ALK pozitif KHDAK değerlendirmesi,
+yeterliliği kanıtlanmış laboratuvarlar tarafından belirli teknoloji kullanılarak yapılmalıdır.
+Uygun olmayan test performansı, güvenilir olmayan test sonuçlarına yol açabilir.
+Önerilen doz oral yoldan günde bir defa 100 mg'dir.
+1Uygulama sıklığı ve süresi:
+Hastalık ilerleyene veya kabul edilemez toksisite meydana gelene kadar lorlatinib ile tedaviye
+devam edilmelidir.
+Geciken ya da unutulan dozlar
+Bir dozun unutulması halinde bir sonraki doza 4 saatten az bir zaman kalmadığı sürece unutulan
+doz hatırlanır hatırlanmaz alınmalıdır. Bir sonraki doza 4 saatten daha az süre kalmışsa unutulan
+tablet atlanmalıdır. Unutulan dozu tamamlamak için 2 doz aynı anda alınmamalıdır.
+Dozaj Modifikasyonları
+Bireysel güvenlilik ve toleransa bağlı olarak dozun azaltılması veya kesilmesi gerekebilir.
+Lorlatinib doz azaltma seviyeleri aşağıda özetlenmiştir:
+• İlk doz azaltma: Oral yoldan günde bir defa LORVİQUA 75 mg
+• İkinci doz azaltma: Oral yoldan günde bir defa LORVİQUA 50 mg
+Oral yoldan günde bir defa 50 mg'lik dozu tolere edemeyen hastalarda LORVİQUA'nın
+kullanımına kalıcı olarak son verilmelidir.
+Toksisiteler ve atriyoventriküler (AV) blok gelişen hastalar için önerilen dozaj değişiklikleri
+Tablo 1'de verilmiştir.
+Tablo 1. Advers Reaksiyonlar için Önerilen LORVİQUA Dozaj Modifikasyonları
+Advers Reaksiyona Lorlatinib dozajı
+Hiperkolesterolemi veya hipertrigliseridemi
+Hafif hiperkolesterolemi İlgili reçeteleme bilgilerine göre lipid
+(kolesterol ULN ile 300 mg/dL veya ULN ile düşürücü tedaviyeb başlayın veya lipid
+7.75 mmol/L arasında) düşürücü tedaviyi modifiye edin / ayarlayın;
+lorlatinibe aynı dozda devam edin.
+VEYA
+Orta derecede hiperkolesterolemi
+(kolesterol 301 ile 400 mg/dL veya 7,76 ile
+10,34 mmol/L arasında)
+VEYA
+Hafif hipertrigliseridemi
+(trigliserit 150 ve 300 mg/dL veya 1,71 ve
+3,42 mmol/L arasında)
+VEYA
+Orta derecede hipertrigliseridemi
+(trigliserit 301 ile 500 mg/dL veya 3,43 ile
+5,7 mmol/L arasında)
+Şiddetli hiperkolesterolemi Lipid düşürücü tedaviyeb başlayın.
+(kolesterol 401 ile 500 mg/dL veya 10,35 ile Halihazırda lipid düşürücü tedavi
+12,92 mmol/L arasında) uygulanıyorsa, ilgili reçete bilgilerine göre
+bu tedavininb dozunu arttırın veya yeni bir
+VEYA lipid düşürücü tedaviyeb geçin. Ara
+vermeden lorlatinibe aynı dozda devam edin.
+2Şiddetli hipertrigliseridemi
+(trigliserit 501 and 1,000 mg/dL or 5,71 ve
+11,4 mmol/L arasında)
+Hayatı tehdit eden hiperkolesterolemi İlgili reçeteleme bilgilerine göre lipid
+(kolesterol 500 mg/dL'nin veya 12,92 düşürücü tedaviyeb başlayın veya bu
+mmol/L'nin üzerinde) tedavininb dozunu arttırın ya da yeni bir lipid
+düşürücü tedaviyeb geçiş yapın.
+VEYA Hiperkolesterolemi ve/veya
+hipertrigliseridemi orta veya hafif dereceye
+Hayatı tehdit eden hipertrigliseridemi iyileşene kadar lorlatinibe ara verin.
+(trigliserit 1,000 mg/dL'nin veya 11,4
+mmol/L'nin üzerinde) İlgili reçeteleme bilgilerine göre lipid
+düşürücü tedaviyib maksimuma çıkarırken
+aynı lorlatinib dozu ile devam edin.
+Şiddetli hiperkolesterolemi ve/veya
+hipertrigliseridemi, ilgili reçete bilgilerine
+göre en yüksek lipid düşürücü tedavisineb
+rağmen tekrarlarsa, lorlatinib dozunu bir
+seviye azaltın.
+Merkezi Sinir Sistemi (MSS) etkileri (bilişsel, ruh hali, zihinsel durum veya
+konuşmadaki psikotik etkileri ve değişiklikleri içerir)
+Derece 2: Orta
+Toksisite Derece 1'e eşit veya daha düşük
+olana kadar doza ara verin. Ardından bir
+VEYA
+seviye azaltılmış dozda lorlatinibe devam
+edin.
+Derece 3: Ciddi
+Kalıcı olarak lorlatinib kullanımına son
+Derece 4: Yaşamı tehdit eden
+verin.
+Lipaz/Amilaz artışı
+Derece 3: Şiddetli
+Lipaz veya amilaz başlangıç seviyesine
+VEYA dönünceye kadar lorlatinibe ara verin.
+Ardından bir seviye azaltılmış dozda
+Derece 4: Yaşamı tehdit eden/Acil müdahale lorlatinibe devam edin.
+gerektiren
+İnterstisyel Akciğer Hastalığı (ILD)/Akciğer İltihabı
+Semptomlar başlangıç seviyesine dönünceye
+kadar lorlatinibe ara verin ve
+kortikosteroidlere başlamayı düşünün.
+Derece 1: Hafif
+Ardından bir seviye azaltılmış dozda
+lorlatinibe devam edin.
+VEYA
+6 haftalık lorlatinib kesilmesi ve steroid
+Derece 2: Orta
+tedavisinden sonra ILD/ akciğer iltihabı
+tekrarlarsa ya da iyileşmezse lorlatinibi kalıcı
+olarak bırakın.
+Derece 3: Şiddetli
+Kalıcı olarak lorlatinib kullanımına son
+VEYA verin.
+3Derece 4: Yaşamı tehdit eden/Acil müdahale
+gerektiren
+PR aralığı uzaması/Atrioventriküler (AV) Blok
+Lorlatinibe ara vermeden aynı dozda devam
+edin. Eş zamanlı tıbbi ürünlerin etkilerini göz
+önünde bulundurun. PR aralığını
+Birinci derecede AV bloğu:
+uzatabilecek elektrolit dengesizliğini
+Asemptomatik
+değerlendirin ve düzenleyin. AV bloğu ile
+potansiyel olarak ilişkili olan
+EKG/semptomları yakından izleyin.
+Lorlatinibe ara verin. Eş zamanlı tıbbi
+ürünlerin etkilerini göz önünde bulundurun.
+PR aralığını uzatabilecek elektrolit
+Birinci derecede AV bloğu: dengesizliğini değerlendirin ve düzenleyin.
+Semptomatik AV bloğu ile potansiyel olarak ilişkili olan
+EKG/semptomları yakından izleyin.
+Semptomlar düzelirse, bir seviye azaltılmış
+dozda lorlatinibe devam edin.
+Lorlatinibe ara verin. Eş zamanlı tıbbi
+ürünlerin etkilerini göz önünde bulundurun.
+PR aralığını uzatabilecek elektrolit
+dengesizliğini değerlendirin ve düzenleyin.
+İkinci derecede AV bloğu:
+AV bloğu ile potansiyel olarak ilişkili
+Asemptomatik
+EKG/semptomları yakından izleyin. Sonraki
+EKG'de ikinci derecede AV bloğu
+görülmezse, bir seviye azaltılmış dozda
+lorlatinibe devam edin.
+Lorlatinibe ara verin. Eş zamanlı tıbbi
+ürünlerin etkilerini göz önünde bulundurun.
+PR aralığını uzatabilecek elektrolit
+dengesizliğini değerlendirin ve düzenleyin.
+Kardiyak gözlem ve takibe başvurun.
+İkinci derecede AV bloğu:
+Semptomatik AV bloğu devam ederse kalp
+Semptomatik
+pili takılmasını değerlendirin. Semptomlar ve
+ikinci derecede AV bloğu düzelirse veya
+hastalar asemptomatik birinci derece AV
+bloğuna geri dönerse, bir seviye azaltılmış
+dozda lorlatinibe devam edin.
+Lorlatinibe ara verin. Eş zamanlı tıbbi
+ürünlerin etkilerini göz önünde bulundurun.
+PR aralığını uzatabilecek elektrolit
+dengesizliğini değerlendirin ve düzenleyin.
+Kardiyak gözlem ve takibe başvurun. AV
+bloğu ile ilişkili şiddetli semptomlar için kalp
+Tam AV bloğu pili takılması gerekebilir. AV bloğu
+çözülmezse, kalıcı bir kalp pili takılması
+düşünülebilir.
+Kalp pili takılmışsa, lorlatinibe tam dozda
+devam edin. Kalp pili takılmamışsa, yalnızca
+semptomlar düzeldiğinde ve PR aralığı 200
+4ms’den az olduğunda bir seviye azaltılmış
+dozda lorlatinibe devam edin.
+Hipertansiyon
+Derece 1 veya daha düşük hipertansiyon
+(SKB 140 mmHg'den düşük ve DKB 90
+mmHg'den düşük) gözlenene kadar
+Derece 3 (160 mmHg'ye eşit veya daha lorlatinibe ara verin ve ardından aynı dozda
+yüksek SKB ya da 100 mmHg'ye eşit veya devam edin.
+daha yüksek DKB; tıbbi müdahale
+gerektiren; birden fazla antihipertansif ilaç Derece 3 hipertansiyon tekrarlarsa, derece 1
+veya daha önce kullanılandan daha yoğun veya daha düşük seviyeye iyileşinceye kadar
+tedavi gerektiren) lorlatinibe ara verin ve azaltılmış bir dozda
+devam edin.
+Optimal tıbbi tedavi ile yeterli hipertansiyon
+kontrolü sağlanamazsa, lorlatinib kalıcı
+olarak kesilmelidir.
+Derece 1 veya daha düşük seviyeye gelinceye
+kadar lorlatinibe ara verin ve azaltılmış bir
+dozda devam edin ya da lorlatinibi kalıcı
+Derece 4 (Yaşamı tehdit eden sonuçları olan,
+olarak kesin.
+acil müdahale gerektiren)
+Derece 4 hipertansiyon tekrar ederse,
+lorlatinib kalıcı olarak kesilmelidir.
+Hiperglisemi
+Hiperglisemi yeterince kontrol edilinceye
+Derece 3
+kadar lorlatinibe ara verin, ardından bir
+seviye azaltılmış dozda lorlatinibe devam
+VEYA
+edin.
+Derece 4 (Optimal anti hiperglisemik
+Optimal tıbbi tedavi ile yeterli hiperglisemik
+tedaviye rağmen 250 mg/dL'den yüksek
+kontrol sağlanamazsa, lorlatinib kalıcı olarak
+kalıcı hiperglisemi)
+kesilmelidir.
+Diğer advers reaksiyonlar
+Derece 1: Hafif
+Klinik duruma göre doz modifikasyonu
+VEYA yapmamayı ve dozu bir seviye azaltmayı
+değerlendirin.
+Derece 2: Orta
+Semptomlar Derece 2'ye veya
+başlangıçtakine eşit ya da daha düşük
+Derece 3 veya daha yüksek: Şiddetli oluncaya kadar lorlatinibe ara verin.
+Ardından bir seviye azaltılmış dozda
+lorlatinibe devam edin.
+Kısaltmalar: MSS: merkezi sinir sistemi; CTCAE Advers Olaylar için Genel Terminoloji
+Kriterleri; DKB: diastolik kan basıncı; EKG: elektrokardiyogram; HMG CoA: 3-hidroksi-3-
+metilglutaril koenzim A; NCL: Ulusal Kanser Enstitüsü; SKB: sistolik kan basıncı; ULN:
+normalin üst sınırı.
+a NCL CTCAE sınıflandırmalarına dayalı derece kategorileri.
+b Lipid düşürücü tedavi şunları içerebilir: HMG CoA redüktaz inhibitörü, nikotinik asit, fibrik
+asit türevleri ya da omega 3 yağ asitlerinin etil esterleri.
+5Güçlü sitokrom P-450 (CYP) 3A4/5 inhibitörleri
+Lorlatinibin güçlü CYP 3A4/5 inhibitörü olan tıbbi ürünler ve greyfurt suyu ürünleri ile eş
+zamanlı kullanımı, lorlatinib plazma konsantrasyonunu arttırabilir. CYP 3A4/5'i inhibe etme
+potansiyeli daha düşük olan alternatif bir eş zamanlı tıbbi ürün düşünülmelidir (bkz. Bölüm
+4.5). Güçlü bir CYP 3A4/5 inhibitörü birlikte uygulanmak zorundaysa, günde bir kez 100 mg
+olan başlangıç lorlatinib dozu, günde bir kez 75 mg’a düşürülmelidir (bkz. Bölüm 4.5 ve 5.2).
+Güçlü bir CYP 3A4/5 inhibitörünün eş zamanlı kullanımı kesilirse, güçlü CYP3A4/5
+inhibitörünün 3 ile 5 yarılanma ömrü kadar bir arınma döneminden sonra, güçlü CYP 3A4/5
+inhibitörüne başlamadan önce kullanılan dozda lorlatinibe devam edilmelidir.
+Uygulama şekli:
+LORVİQUA oral kullanım içindir.
+Hastalara dozlarını yaklaşık olarak günün aynı saatinde yiyeceklerle veya aç almaları
+önerilmelidir (Bkz. Bölüm 5.2). Tabletler bütün olarak yutulmalıdır (tabletler yutulmadan önce
+çiğnenmemeli, kırılmamalı veya bölünmemelidir). Kırılmış, çatlamış veya başka şekilde zarar
+görmüş tabletler alınmamalıdır.
+Özel popülasyonlara ilişkin ek bilgiler:
+Karaciğer Yetmezliği:
+Hafif karaciğer yetmezliği olan hastalar için doz ayarlaması önerilmez. Orta veya şiddetli
+karaciğer yetmezliği olan hastalar için bir bilgi mevcut değildir. Bu nedenle orta veya şiddetli
+karaciğer yetmezliği olan hastalarda lorlatinib kullanımı önerilmez (bkz. Bölüm 5.2).
+Böbrek Yetmezliği:
+Böbrek fonksiyonu normal olan ve hafif veya orta derecede böbrek yetmezliği [mutlak tahmini
+glomerüler filtrasyon hızı (eGFR): ≥ 30 mL/dk] olan hastalarda doz ayarlaması yapılması
+gerekli değildir. Şiddetli böbrek yetmezliği olan hastalarda (mutlak eGFR < 30 mL/dk),
+azaltılmış lorlatinib dozu, örneğin günde bir kez oral alınan 75 mg'lık başlangıç dozu, önerilir
+(bkz. Bölüm 5.2). Renal diyaliz hastaları için bilgi mevcut değildir.
+Pediyatrik popülasyon:
+Lorlatinibin 18 yaş altı pediatrik hastalarda güvenliliği ve etkililiği belirlenmemiştir. Veri
+mevcut değildir.
+Geriyatrik popülasyon:
+Bu popülasyona ilişkin verilerin sınırlı olması nedeniyle 65 yaş ve üzeri hastalar için doz önerisi
+yapılamamaktadır (bkz. Bölüm 5.2).
+4.3 Kontrendikasyonlar
+Lorlatinibe veya 6.1’de listelenen yardımcı maddelerden herhangi birine karşı aşırı duyarlılığı
+olanlarda kontrendikedir.
+LORVİQUA ile güçlü CYP3A4/5 indükleyicilerinin eş zamanlı kullanımı kontrendikedir (Bkz.
+Bölüm 4.4 ve 4.5).
+64.4 Özel kullanım uyarıları ve önlemleri
+Hiperlipidemi
+Lorlatinib kullanımı serum kolesterol ve trigliserid artışları ile ilişkili bulunmuştur (bkz. Bölüm
+4.8). Serum kolesterol ve trigliserid seviyelerinde ağır artış oluşmasına kadar geçen medyan
+süre sırasıyla 104 gün (aralık: 29- 518 gün) ve 120 gündür (aralık: 15-780 gün). Serum
+kolesterol ve trigliserid seviyeleri lorlatinib başlanmadan önce ve başlandıktan 2, 4 ve 8.
+haftalarda ve ardından düzenli olarak izlenmelidir. Eğer endike ise lipid düşürücü bir ilaca
+başlanmalı ya da kullanılmakta olan ilacın dozu arttırılmalıdır (Bkz. Bölüm 4.2).
+Merkezi Sinir Sistemi Etkileri
+Lorlatinib kullanan hastalarda psikotik etkiler ve bilişsel fonksiyon, duygudurum, zihinsel
+durum veya konuşma değişiklikleri dahil merkezi sinir sistemi (MSS) etkileri gözlenmiştir
+(Bkz. Bölüm 4.8). MSS etkileri gelişen hastalar için doz değişikliği ya da lorlatinib tedavisinin
+bırakılması gerekebilir (Bkz. Bölüm 4.2).
+Atriyoventriküler blok
+Lorlatinib ikinci derece ya da üçüncü derece AV bloğu (pacemaker takılı olmadığı sürece) olan
+ya da PR aralığının >220 milisaniye olduğu herhangi bir AV bloğu olan hastaların dışlandığı
+bir hasta popülasyonunda incelenmiştir. Lorlatinib alan hastalarda PR aralığında uzama ve AV
+blok bildirilmiştir (Bkz. Bölüm 5.2). Özellikle klinik önemi olan kalp olaylarının oluşmasına
+zemin sağlayan hastalıkları olan hastalarda olmak üzere lorlatinib başlamadan önce ve ardından
+ayda bir elektrokardiyografi (EKG) takibi yapılmalıdır. AV blok gelişen hastalarda doz
+değişiklikleri gerekebilir (Bkz. Bölüm 4.2).
+Sol ventrikül ejeksiyon fraksiyonunda düşme
+Lorlatinib alan ve başlangıçta ve en az bir takip sol ventrikül ejeksiyon fraksiyonu (LVEF)
+değerlendirmesi olan hastalarda sol ventrikül ejeksiyon fraksiyonunda düşme bildirilmiştir.
+Mevcut klinik çalışma verilerine göre kalbin kasılma kapasitesindeki değişiklikler üzerindeki
+etki ve lorlatinib arasında bir neden ilişkisi belirlemek olanaksızdır. Kardiyak risk faktörleri
+olan ve LVEF seviyesini etkileyebilecek hastalıkları olan hastalarda başlangıçta ve tedavi
+sırasında LVEF değerlendirmesi dahil olmak üzere kalp açısından takip yapılması
+düşünülmelidir. Tedavi sırasında kardiyak belirti ve semptomları gelişen hastalarda LVEF
+değerlendirmesi dahil olmak üzere kalp açısından takip yapılması düşünülmelidir.
+Lipaz ve amilaz artışı
+Lorlatinib alan hastalarda lipaz ve/veya amilaz artışları oluşmuştur (Bkz. Bölüm 4.8). Serum
+lipaz ve amilaz seviyelerinde artış oluşmasına kadar geçen medyan süre sırasıyla 141 gün
+(aralık: 1- 1091 gün) ve 138 gündür (aralık: 1-1112 gün). Lorlatinib alan hastalarda eş zamanlı
+hipertrigliseridemi ve/veya olası intrensek bir mekanizma nedeniyle pankreatit riski dikkate
+alınmalıdır. Hastalar lorlatinib başlanmadan önce ve klinik olarak endike ise başlandıktan sonra
+düzenli olarak lipaz ve amilaz açısından takip edilmelidir (Bkz. Bölüm 4.2)
+7İnterstisyel akciğer hastalığı/Pnömonit
+Lorlatinib ile ILD/pnömonit ile uyumlu ağır ya da yaşamı tehdit eden pulmoner advers
+reaksiyonlar oluşmuştur (Bkz. Bölüm 4.8). Solunum semptomlarında ILD/pnömonit
+düşündüren (örneğin dispne, öksürük ve ateş) kötüleşme olan tüm hastalar derhal
+ILD/pnömonit açısından değerlendirilmelidir. Tablonun şiddetine göre lorlatinibe ara verilmeli
+ya da kesin olarak bırakılmalıdır (Bkz. Bölüm 4.2).
+Hipertansiyon
+Lorlatinib alan hastalarda hipertansiyon bildirilmiştir (bkz. Bölüm 4.8). Lorlatinib tedavisine
+başlamadan önce kan basıncı kontrol edilmelidir. Lorlatinib tedavisi başlangıcından 2 hafta
+sonra ve devamında en az ayda bir kez kan basıncı izlenmelidir. Tablonun şiddetine göre
+lorlatinibe ara verilmeli ve azaltılmış bir dozda yeniden başlanmalı ya da kalıcı olarak
+bırakılmalıdır (Bkz. Bölüm 4.2).
+Hiperglisemi
+Lorlatinib alan hastalarda hiperglisemi meydana gelmiştir (bkz. Bölüm 4.8). Lorlatinib
+tedavisine başlamadan önce açlık serum glukozu ölçülmeli ve sonrasında ulusal kılavuzlara
+göre periyodik olarak izlenmelidir. Tablonun şiddetine göre lorlatinibe ara verilmeli ve
+azaltılmış bir dozda yeniden başlanmalı ya da kalıcı olarak bırakılmalıdır (Bkz. Bölüm 4.2).
+İlaç etkileşimleri
+Sağlıklı gönüllülerde yapılan bir çalışmada lorlatinib ile eş zamanlı olarak güçlü bir CYP3A4/5
+indükleyicisi olan rifampin kullanımı total bilirübin ve alkalin fosfataz artışı olmaksızın alanin
+aminotransferaz (ALT) ve aspartat aminotransferaz (AST) artışları ile ilişkili bulunmuştur
+(Bkz. Bölüm 4.5). Eş zamanlı olarak güçlü bir CYP3A4/5 indükleyicisi kullanımı
+kontrendikedir (Bkz. Bölümler 4.3 ve 4.5).
+Lorlatinib ile orta derece CYP3A4/5 indükleyicisi modafinil kombinasyonu alan sağlıklı
+gönüllülerde karaciğer fonksiyon testlerinde klinik olarak anlamlı değişiklikler görülmemiştir
+(Bkz. Bölüm 4.5).
+Lorlatinib eş zamanlı olarak verildiğinde alfentanil, siklosporin, dihidroergotamin, ergotamin,
+fentanil, hormonal kontraseptifler, pimozid, kinidin, sirolimus ve takrolimus dahil ancak
+bunlarla kısıtlı olmamak üzere terapötik indeksi dar CYP3A4/5 substratlarının
+konsantrasyonlarını düşürebileceğinden bu ilaçların lorlatinib ile eş zamanlı verilmesinden
+kaçınmalıdır (Bkz. Bölüm 4.5).
+Üreme ve gebelik
+Lorlatinib ile tedavi sırasında ve son dozdan sonra en az 14 hafta boyunca gebe kalma olasılığı
+olan kadın partneri bulunan erkek hastalar kondom kullanımını içeren etkili bir gebelikten
+korunma yöntemi ve partneri gebe olan erkek hastalar kondom kullanmalıdır (Bkz. Bölüm 4.6).
+Erkek üreme fonksiyonu lorlatinib tedavisi sırasında olumsuz etkilenebilir (Bkz. Bölüm 5.3).
+Erkekler tedaviden önce üreme fonksiyonunun etkili bir şekilde korunması konusunda bir
+doktora danışmalıdır. Gebe kalma olasılığı olan kadınlara lorlatinib kullanırken gebe kalmaktan
+kaçınmaları söylenmelidir. Lorlatinib hormonal kontraseptifleri etkisizleştirebileceğinden
+lorlatinib tedavisi sırasında kadın hastalar için hormonal olmayan yüksek etkili bir kontraseptif
+8gerekir (Bkz. Bölümler 4.5 ve 4.6). Eğer hormonal bir gebelikten korunma yönteminin
+kullanılması kaçınılmazsa bu durumda hormonal yöntemle birlikte kondom kullanılmalıdır.
+Etkili gebelikten korunma tedaviyi tamamladıktan sonra en az 35 gün sürdürülmelidir (Bkz.
+Bölüm 4.6). Lorlatinibin kadın üreme fonksiyonunu etkileyip etkilemediği bilinmemektedir.
+Laktoz intoleransı
+Bu tıbbi ürün laktoz içermektedir. Nadir kalıtımsal galaktoz intoleransı, Lapp laktaz yetmezliği
+ya da glukoz-galaktoz malabsorpsiyon problemi olan hastaların bu ilacı kullanmamaları
+gerekir.
+Sodyum
+Bu tıbbi ürün her “doz”unda (25 mg veya 100 mg tablette) 1 mmol (23 mg)’dan daha az sodyum
+ihtiva eder. Düşük sodyum diyeti uygulayan hastalar, bu ürünün aslında “sodyum içermediği”
+konusunda bilgilendirilmelidir.
+4.5 Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+Farmakokinetik etkileşimleri
+İn vitro veriler lorlatinibin başlıca CYP3A4 ve üridin difosfat-glukunosiltransferaz (UGT) 1A4
+ile metabolize edildiğini göstermektedir. CYP2C8, CYP2C19, CYP3A5 ve UGT1A3 minör
+katkıda bulunmaktadır.
+İlaçların lorlatinib üzerindeki etkisi
+CYP3A4/5 indükleyicileri
+Güçlü bir CYP3A4/5 indükleyici olan rifampin sağlıklı gönüllülere 12 gün boyunca günde bir
+kez oral yolla 600 mg dozunda verildiğinde tek bir 100 mg oral lorlatinib dozunun ortalama
+eğri altındaki alanını (EAA ) %85 ve C değerini %76 azaltmıştır; AST ve ALT artışları da
+inf maks
+gözlenmiştir. Lorlatinibin güçlü CYP3A4/5 indükleyicileri (örneğin rifampisin, karbamazepin,
+enzalutamid, mitotan, fenitoin ve sarı kantaron otu) ile eş zamanlı verilmesi lorlatinibin plazma
+konsantrasyonlarını azaltabilir. Lorlatinibin güçlü CYP3A4/5 indükleyicileri ile kullanımı
+kontrendikedir (Bkz. Bölümler 4.3 ve 4.4). Sağlıklı gönüllülerde tek bir 100 mg oral lorlatinib
+dozu ile orta derecede CYP3A4/5 indükleyici olan modafinil (19 gün boyunca günde bir kez
+400 mg) kombinasyonunun uygulanmasından sonra karaciğer fonksiyon testi sonuçlarında
+klinik olarak anlamlı bir değişiklik görülmemiştir. Modafinilin eş zamanlı kullanımı,
+lorlatinibin farmakokinetiği üzerinde klinik olarak anlamlı bir etkiye sahip olmamıştır.
+CYP3A4/5 inhibitörleri
+Güçlü bir CYP3A4/5 inhibitörü olan itrakonazol sağlıklı gönüllülere 5 gün boyunca 200 mg
+oral günde tek doz verildiğinde tek bir 100 mg oral lorlatinib dozunun ortalama EAA değerini
+inf
+%42 ve tek bir 100 mg oral lorlatinib dozunun C değerini %24 azaltmıştır. Güçlü CYP3A4/5
+maks
+inhibitörleri (örneğin boseprevir, kobisistat, itrakonazol, ketakonazol, posakonazol,
+troleandomisin, vorikonazol, ritonavir, ritonavir ile kombine paritaprevir ve ombitasvir ve/veya
+dasabuvir ve elvitegravir, indinavir, lopinavir ya da tipranavir ile kombine ritonavir) lorlatinibin
+plazma konsantrasyonlarını arttırabilir. Greyfurt ürünleri de lorlatinibin plazma
+konsantrasyonlarını arttırabilir ve kaçınılmalıdır. CYP3A4/5 inhibisyonu yapma olasılığı daha
+9düşük olan alternatif bir ilacın eş zamanlı verilmesi düşünülmelidir. Eğer güçlü bir CYP3A4/5
+inhibitörünün eş zamanlı olarak verilmesi zorunlu ise lorlatinib dozunun azaltılması önerilir
+(Bkz. Bölüm 4.2).
+Lorlatinibin diğer ilaçlar üzerindeki etkisi
+CYP3A4/5 substratları
+İn vitro çalışmalar lorlatinibin CYP3A4/5’nin zamana bağımlı bir inhibitörü ve bunun yanı sıra
+indükleyicisi olduğunu göstermiştir. Lorlatinib 15 gün boyunca günde tek 150 mg dozunda oral
+yolla verildiğinde tek bir 2mg midazolam (duyarlı bir CYP3A substratı) dozunun EAA
+nf
+değerini ve C değerini sırasıyla %61’e ve %50’ye kadar azaltmıştır; dolayısıyla, lorlatinib
+maks
+orta güçte CYP3A indükleyicisidir. Bu nedenle lorlatinib eş zamanlı olarak verildiğinde
+alfentanil, siklosporin, dihidroergotamin, ergotamin, fentanil, hormonal kontraseptifler,
+pimozid, kinidin, sirolimus ve takrolimus dahil ancak bunlarla kısıtlı olmamak üzere terapötik
+indeksi dar CYP3A4/5 substratlarının konsantrasyonlarını düşürebileceğinden bu ilaçların
+lorlatinib ile eş zamanlı verilmesinden kaçınmalıdır (bkz. Bölüm 4.4).
+CYP2B6 substratı
+Lorlatinib 15 gün boyunca günde tek 100 mg dozunda oral yolla verildiğinde tek bir oral 100
+mg bupropion (CYP2B6 ve CYP3A4 substratı kombinasyonu) dozunun EAA değerini ve
+inf
+C değerini sırasıyla %49,5’e ve %53’e kadar azaltmıştır. Dolayısıyla, lorlatinib zayıf bir
+maks
+CYP2B6 indükleyicisidir ve lorlatinib başlıca CYP2B6 ile metabolize edilen ilaçlarla kombine
+kullanıldığında doz ayarlaması gerekmez.
+CYP2C9 substratı
+Lorlatinib 15 gün boyunca günde tek 100 mg dozunda oral yolla verildiğinde tek bir oral 500
+mg tolbutamid (duyarlı bir CYP2C9 substratı) dozunun EAA değerini ve C değerini
+inf maks
+sırasıyla %43’e ve %15’e kadar azaltmıştır. Dolayısıyla, lorlatinib zayıf bir CYP2C9
+indükleyicisidir ve lorlatinib başlıca CYP2C9 ile metabolize edilen ilaçlarla kombine
+kullanıldığında doz ayarlaması gerekmez.
+Bununla birlikte CYP2C9 ile metabolize edilen dar terapötik indekse sahip ilaçlarla (örneğin
+kumarin antikoagülanlar) eş zamanlı tedavi durumunda hastalar takip edilmelidir.
+UGT substratları
+Lorlatinib 15 gün boyunca günde tek 100 mg dozunda oral yolla verildiğinde tek bir oral 500
+mg asetaminofen (bir UGT, SULT ve CYP1A2, 2A6, 2D6 ve 3A4 substratı) dozunun EAA
+inf
+değerini ve C değerini sırasıyla %45’e ve %28’e kadar azaltmıştır. Dolayısıyla, lorlatinib
+maks
+zayıf bir UGT indükleyicisidir ve lorlatinib başlıca UGT ile metabolize edilen ilaçlarla kombine
+kullanıldığında doz ayarlaması gerekmez. Bununla birlikte UGT ile metabolize edilen dar
+terapötik indekse sahip ilaçlarla eş zamanlı tedavi durumunda hastalar takip edilmelidir.
+P-glikoprotein substratları
+Lorlatinib 15 gün boyunca günde tek 100 mg dozunda oral yolla verildiğinde tek bir oral 60 mg
+feksofenadin [duyarlı bir P-glikoprotein (P-gp) substratı] dozunun EAA değerini ve C
+inf maks
+değerini sırasıyla %67’ye ve %63’e kadar azaltmıştır. Dolayısıyla, lorlatinib orta güçte bir P-
+gp indükleyicisidir. P-gp substratı olan ve dar terapötik indekse sahip ilaçlar (örneğin digoksin,
+10dabigatran eteksilat) bu substratlarının plazma konsantrasyonlarını düşürme olasılığı nedeniyle
+lorlatinib ile kombine kullanılırken dikkatli olunmalıdır.
+Diğer CYP enzimlerinin in vitro inhibisyon ve indüksiyon çalışmaları
+İn vitro olarak lorlatinibin CYP1A2 indüksiyonu yoluyla ilaç-ilaç etkileşimlerine neden olma
+olasılığı düşüktür.
+P-gp dışındaki ilaç taşıyıcıları ile in vitro çalışmalar
+İn vitro çalışmalar lorlatinibin klinik konsantrasyonlarda BCRP (gastrointestinal sistem),
+OATP1B1, OATP1B3, OCT1, MATE1 ve OAT3 substratlarının plazma seviyelerinde klinik
+olarak anlamlı değişikliklere yol açma olasılığı olduğunu göstermiştir. BCRP, OATP1B1,
+OATP1B3, OCT1, MATE1 ve OAT3 substratlarının plazma seviyelerinde klinik olarak anlamlı
+değişikliklere yol açma olasılığı dışlanamayacağından lorlatinib bu substratlarla kullanılırken
+dikkatli olunmalıdır.
+Özel popülasyonlara ilişkin ek bilgiler
+Özel popülasyonlara ilişkin hiçbir klinik etkileşim çalışması yürütülmemiştir.
+Pediyatrik popülasyon:
+Pediyatrik popülasyona ilişkin hiçbir klinik etkileşim çalışması yürütülmemiştir.
+4.6 Gebelik ve laktasyon
+Genel tavsiye
+Gebelik kategorisi: C
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon)
+Gebe kalma potansiyeli olan kadınlara lorlatinib kullanırken gebe kalmaktan kaçınmaları
+söylenmelidir. Lorlatinib hormonal kontraseptifleri etkisizleştirebileceğinden lorlatinib tedavisi
+sırasında kadın hastaların yüksek etkili hormonal olmayan bir gebelikten korunma yöntemi
+kullanmaları gerekir (Bkz. Bölümler 4.4 ve 4.5). Eğer hormonal kontraseptif kullanılması
+zorunlu ise hormonal yöntemle birlikte kondom kullanılmalıdır. Tedavi tamamlandıktan en az
+35 gün sonrasına kadar etkili bir gebelikten korunma yöntemi kullanılmaya devam edilmelidir.
+Gebe kalma potansiyeli olan kadın partnerleri olan erkek hastalar lorlatinib tedavisi sırasında
+ve son dozdan en az 14 hafta sonrasına kadar kondomu da içeren etkili gebelikten korunma
+yöntemleri kullanmalı ve partnerleri gebe olan erkek hastalar kondom kullanmalıdır.
+Gebelik dönemi
+Lorlatinibin gebe kadınlarda kullanımına ilişkin yeterli veri mevcut değildir. Hayvanlar
+üzerinde yapılan araştırmalarda embriyo-fetal toksisite gösterilmiştir (Bkz. Bölüm 5.3).
+İnsanlara yönelik potansiyel risk bilinmemektedir.
+Lorlatinib gebe bir kadına verildiğinde fetüse zarar verebilir. Lorlatinibin gebelik sırasında ve
+gebe kalma potansiyeli olup gebelikten korunma yöntemi kullanmayan kadınlarda kullanılması
+önerilmez.
+11Laktasyon dönemi
+Lorlatinibin ve metabolitlerinin anne sütüne geçip geçmediği bilinmemektedir. Yeni
+doğanlarda ve süt çocuklarında risk dışlanamaz.
+Lorlatinib emzirme sırasında kullanılmamalıdır. Lorlatinib tedavisi sırasında ve son dozdan 7
+gün sonrasına kadar emzirmeye ara verilmelidir.
+Üreme yeteneği/Fertilite
+Preklinik güvenlilik bulgularına göre lorlatinib tedavisi sırasında erkek üreme fonksiyonu
+olumsuz etkilenebilir (Bkz. Bölüm 5.3). Kadın üreme fonksiyonunun etkilenip etkilenmediği
+bilinmemektedir. Tedaviye başlamadan önce erkekler üreme fonksiyonunun korunması
+açısından doktora danışmalıdır.
+4.7 Araç ve makine kullanımı üzerindeki etkiler
+Lorlatinibin araç ve makine kullanımı üzerine orta düzeyde etkisi bulunmaktadır. Hastalar
+santral sinir sistemi etkileri yaşayabileceğinden, araç veya makine kullanılırken dikkatli
+olunmalıdır (Bkz. Bölüm 4.8).
+4.8 İstenmeyen etkiler
+Güvenlilik profili özeti
+En sık bildirilen advers reaksiyonlar hiperkolesterolemi (%81,1), hipertrigliseridemi (%67,2),
+ödem (%55,7), periferik nöropati (%43,7), kilo artışı (%30,9), bilişsel etkiler (%27,7), fatigue
+(%27,3), artralji (%23,5), ishal (%22,9) ve duygudurum etkileri (%21) olmuştur.
+Lorlatinib alan hastaların %7,4'ünde ciddi yan etkiler bildirilmiştir. En sık görülen ciddi advers
+reaksiyonlar, bilişsel etkiler ve pnömonidir.
+Lorlatinib alan hastaların %20’sinde advers reaksiyonlara bağlı olarak doz azaltılmıştır. Dozun
+azaltılmasına en sık neden olan advers reaksiyonlar ödem ve periferik nöropatidir. Lorlatinib
+alan hastaların %3,2’si gelişen advers reaksiyonlara bağlı olarak tedaviyi bırakmıştır. Tedavinin
+kesin olarak bırakılmasına en sık neden olan advers reaksiyonlar bilişsel etkiler, periferik
+nöropati, pnömoni ve psikotik etkilerdir.
+Advers reaksiyonların tablo listesi
+Tablo 2 Çalışma A’da (N=327) ve CROWN çalışmasında (N=149) ileri evre KHDAK
+nedeniyle günde bir kez 100 mg lorlatinib ile tedavi edilen 476 erişkin hastada oluşan advers
+reaksiyonları sunmaktadır.
+Advers reaksiyonlar sistem organ sınıfına uygun olarak listelenmiştir. Advers reaksiyonlar her
+sistem organ sınıfı altında aşağıdaki düzen kullanılarak, en sık görülen reaksiyonlar en başta
+olmak üzere görülme sıklığına göre sıralanmıştır: çok yaygın (≥1/10); yaygın (≥1/100 ila 1/10);
+yaygın olmayan (≥1/1.000 ila <1/100); seyrek (≥1/10.000 ila < 1/1.000); çok seyrek (<
+1/10.000). Her bir sıklık gruplandırması içinde istenmeyen etkiler azalan tıbbi ciddiyet sırasına
+göre verilmiştir.
+12Tablo 2.Advers reaksiyonlar
+Sistem organ sınıfı Advers reaksiyon Sıklık Tüm Derece 3-4
+dereceler %
+%
+Kan ve lenf sistemi Anemi Çok yaygın 18,5 4,2
+hastalıkları
+Metabolizma ve beslenme Hiperkolesterolemiᵃ Çok yaygın 81,1 18,3
+hastalıkları
+Hipertrigliseridemiᵇ Çok yaygın 67,2 19,3
+Hiperglisemi Yaygın 9,2 3,2
+Psikiyatrik hastalıklar Duygudurum Çok yaygın 21 1,5
+üzerindeki etkilerᶜ
+Psikotik etkilerᵈ Yaygın 6,5 0,4
+Zihinsel durum Yaygın 2 1,7
+değişiklikleri
+Sinir sistemi hastalıkları Bilişsel etkilerᵉ Çok yaygın 27,7 2,9
+Periferik nöropatiᶠ Çok yaygın 43,7 2,7
+Baş ağrısı Çok yaygın 17,9 0,6
+Konuşma üzerinde Yaygın 8,2 0,6
+etkilerᶢ
+Göz hastalıkları Görme bozukluklarıʰ Çok yaygın 17,2 0,2
+Vasküler hastalıkları Hipertansiyon Çok yaygın 13 6,1
+Solunum, göğüs bozuklukları Pnömonitᶦ Yaygın 1,9 0,6
+ve mediastinal hastalıklar
+Gastrointestinal hastalıkları İshal Çok yaygın 22,9 1,5
+Bulantı Çok yaygın 17,6 0,6
+Kabızlık Çok yaygın 17,4 0,2
+Deri ve deri altı doku Döküntüʲ Çok yaygın 13,7 0,2
+hastalıkları
+Böbrek ve idrar yolu proteinüri Yaygın 3,4 0,4
+hastalıkları
+Kas-iskelet bozuklukları, bağ Artalji Çok yaygın 23,5 0,8
+doku ve kemik hastalıkları
+Miyaljiᵏ Çok yaygın 19,3 0,2
+Genel bozukluklar ve Ödemˡ Çok yaygın 55,7 2,7
+uygulama bölgesine ilişkin
+Fatigueᵐ Çok yaygın 27,3 1,3
+hastalıklar
+Araştırmalar Kilo artışı Çok yaygın 30,9 10,1
+13Lipaz artışı Çok yaygın 12,4 6,9
+Amilaz artışı Çok yaygın 11,3 2,7
+Elektrokardiyogram Yaygın 0,8 0
+PR uzaması olmayan
+Aynı tıbbi kavram ya da durumu temsil eden advers reaksiyonlar birlikte gruplandırılmıştır ve
+yukarıdaki tabloda tek bir advers reaksiyon olarak bildirilmiştir. Çalışmalarda halen bildirilen
+ve ilgili advers reaksiyona katkıda bulunan terimler aşağıdaki listede belirtildiği şekilde
+parantez içinde belirtilmiştir.
+ᵃ Hiperkolesterolemi (kan kolesterol seviyesinde artış, hiperkolesterolemi dahil).
+ᵇ Hipertrigliseridemi (kan trigliseridlerinde artış, hipertrigliseridemi dahil).
+ᶜ Duygudurum etkileri (duygulanım bozukluğu, duygusal değişkenlik, saldırganlık, ajitasyon,
+öfke, anksiyete, Tip I bipolar bozukluk, depresif duygudurum, depresyon, depresif semptom,
+öforik duygudurum, sinirlilik, mani, duygudurum değişikliği, duygudurum dalgalanmaları,
+panik atak, kişilik değişikliği, stres dahil).
+ᵈ Psikotik etkiler (işitsel halüsinasyonlar, halüsinasyon, görsel halüsinasyonlar dahil).
+ᵉ Bilişsel etkiler (SOC sinir sistemi bozuklukları olaylarını kapsar: amnezi, bilişsel bozukluk,
+demans, dikkat bozukluğu, hafıza bozukluğu, mental bozukluk; ve aynı zamanda SOC
+psikiyatrik bozukluk olaylarını da kapsar: dikkat bozukluğu, hiperaktivite bozukluğu,
+konfüzyon durumu, deliryum, yönelim bozukluğu, okuma bozukluğu). Bu etkiler içinde SOC
+sinir sistemi bozuklukları terimleri SOC psikiyatrik bozukluk terimlerinde daha sık olarak
+bildirilmiştir.
+ᶠ Periferik nöropati (yanma duygusu, disestezi, karıncalanma, yürüyüş bozukluğu, hipoestezi,
+motor işlev bozukluğu, kas güçsüzlüğü, nöralji, nöropati, periferik nörotoksisite, parestezi,
+periferik motor nöropati, periferik duysal nöropati, peroneal sinir felci, duysal bozukluk dahil).
+ᶢ Konuşma etkileri (dizartri, yavaş konuşma, konuşma bozukluğu).
+ʰ Görme bozukluğu (çift görme, ışıktan rahatsız olma, ışık çakmaları, bulanık görme, görme
+keskinliğinin azalması, görme kaybı, uçuşan cisimler görme).
+ͥ Pnömonit (interstisyel akciğer hastalığı, akciğer opasitesi, pnömonit dahil).
+Döküntü (akneiform dermatit, makülopapüler döküntü, kaşıntılı döküntü, döküntü dahil).
+ᵏ Miyalji (kas iskelet ağrısı, kas ağrısı dahil).
+ʲˡ Ödem (genel ödem, periferik ödem, periferik şişlik, şişlik dahil).
+ᵐ Fatigue (asteni, bitkinlik dahil).
+Seçili advers reaksiyonların tanımı
+Hiperkolesterolemi/ hipertrigliseridemi
+Serum kolesterol ya da trigliserid seviyelerinde artış advers reaksiyonları hastaların sırasıyla
+%81,1’inde ve %67,2’sinde bildirilmiştir. Bunlardan hafif ya da orta şiddette
+hiperkolesterolemi ya da hipertrigliseridemi advers reaksiyonları hastaların sırasıyla
+%62,8’inde ve %47,9’unda gelişmiştir (Bkz Bölüm 4.4). Hem hiperkolesterolemi hem de
+hipertrigliseridemi için başlangıca kadar geçen medyan süre 15 gün olmuştur
+(hiperkolesterolemi aralığı: 1- 784 gün; hipertrigliseridemi aralığı: 1-796 gün).
+Hiperkolesteroleminin ve hipertrigliserideminin medyan süresi sırasıyla 451 ve 427 gün
+olmuştur.
+Merkezi sinir sistemi etkileri
+Başlıca MSS advers reaksiyonları bilişsel etkiler (%27,7), duygudurum etkileri (%21) ,
+konuşma etkileri (%8,2) ve psikotik etkiler (%6,5) olup genellikle hafif, geçici olmuş ve dozun
+14geç verilmesi ya da doz azaltılması ile spontan olarak düzelmiştir (Bkz. Bölümler 4.2 ve 4.4).
+Herhangi bir derecedeki en sık bilişsel etki bellek bozukluğudur (%11,3) ve en sık Derece 3 ya
+da 4 reaksiyonlar konfüzyon durumu ve bilişsel bozukluktur (sırasıyla %1,7 ve %0,8). Herhangi
+bir derecedeki en sık duygudurum etkisi anksiyete (%6,5) ve en sık görülen Derece 3 ve 4
+reaksiyonları sinirlilik ve depresyondur (sırasıyla %0,8 ve %0,4). Konuşma üzerinde tüm
+derecelerde en sık etki dizartri (%4) olurken Derece 3 ve 4 reaksiyonlar dizartri, yavaş konuşma
+ve konuşma bozukluğudur (her biri %0,2). Tüm derecelerde en sık psikotik etki halüsinasyon
+(%3,7) olurken Derece 3 ve 4 reaksiyonlar halüsinasyon, işitsel halüsinasyon ve görsel
+halüsinasyondur (her biri %0,3). Bilişsel, duygudurum, konuşma ve psikotik etkilerinin ortaya
+çıkmasına kadar geçen medyan süre sırasıyla 109, 43, 49 ve 23 gündür. Bilişsel, duygudurum
+ve konuşma etkilerinin medyan süresi sırasıyla 223, 143, 147 ve 74 gündür.
+Hipertansiyon
+Çalışma A ve CROWN çalışmasında (B7461006) hastaların %13'ünde hipertansiyon yan etkisi
+bildirilmiştir. Bu hastaların %6,9'unda hafif veya orta dereceli hipertansiyon advers reaksiyonu
+meydana gelmiştir (bkz. Bölüm 4.4). Hipertansiyon başlangıcına kadar geçen medyan süre 208
+gündür (aralık: 1 ile 1028 gün). Hipertansiyon medyan süresi 219 gündür.
+Hiperglisemi
+Çalışma A ve CROWN çalışmasında (B7461006) hastaların %9,2'sinde hiperglisemi yan etkisi
+bildirilmiştir. Bu hastaların %6,1'inde hafif veya orta derecede hiperglisemi advers reaksiyonu
+meydana gelmiştir (bkz. Bölüm 4.4). Hiperglisemi başlangıcına kadar geçen medyan süre 145
+gündür (aralık: 1 ile 1058 gün). Hiperglisemi medyan süresi 113 gündür.
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar / risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TÜFAM)'ne bildirmeleri gerekmektedir (www.titck.gov.tr; e- posta:
+tufam@titck.gov.tr; tel: 0 800 314 00 08; faks: 0 312 218 35 99)
+4.9 Doz aşımı ve tedavisi
+Tıbbi ürünle doz aşımının tedavisi genel destekleyici önlemleri içermektedir. PR intervalinin
+doz-bağımlı etkisi olduğundan, EKG izlenmesi önerilmektedir. Lorlatinibin antidotu
+bulunmamaktadır.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1. Farmakodinamik özellikler
+Farmakoterapötik grup: Antineoplastik İlaçlar, Protein kinaz inhibitörleri, anaplastik lenfoma
+kinaz (ALK) inhibitörleri.
+ATC kodu: L01ED05
+Etki mekanizması
+Lorlatinib ALK ve c-ros onkogen (ROS1) tirozin kinazların adenozin trifosfat (ATP) ile yarışan
+seçici inhibitörüdür.
+15Preklinik çalışmalarda rekombinant enzim ve hücre temelli deneylerde lorlatinib mutasyona
+uğramamış ALK ve klinik olarak ilgili mutant ALK kinazların katalitik etkinliğini inhibe
+etmiştir. Lorlatinib L1196M, G1269A, G1202R ve I1171T ALK mutasyonları dahil ALK
+varyantı 1 (v1) ile füzyon yapan ekinoderm mikrotübül ile ilişkili protein benzeri 4 (EML4)
+eksprese eden tümör ksenografları taşıyan farede tümöre karşı belirgin etkinlik göstermiştir. Bu
+ALK mutantlarından ikisinin (G1202R ve I1171T) alektinibe, brigatinibe, seritinibe ve
+krizotinibe karşı direnç sağladığı bilinmektedir. Lorlatinib kan-beyin bariyerini geçmiştir.
+Lorlatinib ortotopik EML4-ALK ya da EML4-ALKL1196M beyin tümör implantlarında taşıyan
+farede etkinlik göstermiştir.
+Klinik etkililik
+Daha Önce Tedavi Almamış ALK-Pozitif İlerlemiş KHDAK (CROWN Çalışması)
+Daha önce metastatik hastalığa yönelik olarak sistemik tedavi almamış ALK-pozitif KHDAK
+hastalarının tedavisinde lorlatinibin etkililiği açık-etiketli, randomize, aktif-kontrollü, çok-
+merkezli B7461006 çalışmasında (CROWN çalışması) gösterilmiştir. Bu çalışmada hastaların
+Doğu Kooperatif Onkoloji Grubu (ECOG) performans statüsünün 0-2 olması, VENTANA
+ALK (D5F3) CDx testi ile belirlendiği üzere ALK-pozitif KHDAK olması gerekmekteydi.
+Leptomeningeal metastazlar dahil tedavi edilmiş ya da edilmemiş MSS metastazları bulunan
+nörolojik açıdan stabil hastaların çalışmaya katılması uygundu. Hastaların randomizasyondan
+önceki 2 hafta içinde stereotaktik veya kısmi beyin ışınlaması dahil ışın tedavisini;
+randomizasyondan önceki 4 hafta içinde ise tam beyin ışınlaması tedavisini bitirmiş olmaları
+gerekmekteydi.
+Hastalar günde bir kez oral yoldan 100 mg lorlatinib veya günde iki kez oral yoldan 250 mg
+krizotinib alacak şekilde 1:1 oranında randomize edilmiştir. Randomizasyon etnik kökene
+(Asyalı veya Asyalı-olmayan) ve başlangıçta MSS metastazları varlığı ya da yokluğuna göre
+katmanlandırılmıştır. Her iki tedavi grubunda tedaviye hastalıkta progresyon veya kabul
+edilmeyen toksisite görülünceye devam edilmiştir. En önemli etkililik sonuç ölçütü Solid
+Tümörlerde Yanıt Değerlendirme Kriterleri (RECIST) versiyon 1.1’e (v1.1) göre Körlenmiş
+Bağımsız Merkezi İnceleme (BICR) tarafından belirlendiği üzere progresyonsuz sağkalımdı
+(PFS). Ek etkililik sonuç ölçütleri, genel sağkalım (OS), araştırmacı değerlendirmesine göre
+PFS, PFS2 ve genel yanıt oranı (ORR), yanıt süresi (DOR) ve intrakraniyal progresyona kadar
+geçen süre (IC TTP) dahil olmak üzere BICR tarafından belirlenen tümör değerlendirmesiyle
+ilgili verilerdir. Başlangıçta MSS metastazları olan hastalarda ek sonuç ölçütleri, BICR
+tarafından belirlenen intrakraniyal genel yanıt oranı (IC-ORR) ve intrakraniyal yanıt süresi (IC-
+DOR) idi.
+Toplam 296 hasta lorlatinib (n=149) veya krizotinib (n=147) alacak şekilde randomize
+edilmiştir. Genel çalışma popülasyonunun demografik özellikleri şu şekildeydi: medyan yaş 59
+(aralık: 26 ila 90 yaş arası), ≥65 yaş (%35), %59 kadın, %49 beyaz, %44 Asyalı ve %0,3 siyah.
+Hastaların büyük bir çoğunluğunda adenokarsinom vardı (%95) ve hiç sigara içmemişlerdi
+(%59). BICR nöroradyologlarının belirlediği MSS metastazları hastaların %26’sında (n=78)
+görüldü: bunlardan 30 hastada ölçülebilir MSS lezyonları vardı.
+CROWN çalışmasından elde edilen sonuçlar Tablo 3’te özetlenmektedir. Veri kesim
+noktasında OS ve PFS2 verileri olgunlaşmış durumda değildi.
+16Tablo 3 CROWN Çalışmasında Etkililik Sonuçları
+Lorlatinib Krizotinib
+Etkililik Parametresi
+N=149 N=147
+Medyan takip süresi, ay (%95 GA)a 18 (16 - 20) 15 (13 - 18)
+BICR’ye göre progresyonsuz sağkalım
+Olay görülen hasta sayısı, n (%) 41 (%28) 86 (%59)
+Progresif hastalık, n (%) 32 (%22) 82 (%56)
+Ölüm, n (%) 9 (%6) 4 (%3)
+Medyan, ay (%95 GA)a NE (NE, NE) 9 (8 - 11)
+Tehlike oranı (%95 GA)b 0,28 (0,19 - 0,41)
+p-değeri* <0,0001
+Genel sağkalım
+Olay görülen hasta sayısı, n (%) 23 (%15) 28 (%19)
+Medyan, ay (%95 GA)a NE (NE, NE) NE (NE, NE)
+Tehlike oranı (%95 GA)b 0,72 (0,41 - 1,25)
+INV’ye göre progresyonsuz sağkalım
+Olay görülen hasta sayısı, n (%) 40 (%27) 104 (%71)
+Progresif hastalık, n (%) 34 (%23) 99 (%67)
+Ölüm, n (%) 6 (%4) 5 (%3)
+Medyan, ay (%95 GA)a NE (NE, NE) 9 (7 - 11)
+Tehlike oranı (%95 GA)b 0,21 (0,14 - 0,31)
+p-değeri* < 0,0001
+BICR’ye göre genel yanıt
+Genel yanıt oranı, n (%) 113 (%76) 85 (%58)
+(%95 GA)c 68 – 83 49 - 66
+İntrakraniyal progresyona kadar geçen zaman
+Medyan, ay (%95 GA)a NE (NE, NE) 16,6 (11 - NE)
+Tehlike oranı (%95 GA)b 0,07 (0,03 - 0,17)
+Yanıt süresi
+Yanıt verenlerin sayısı 113 85
+Medyan, ay (%95 GA)a NE (NE, NE) 11 (9 - 13)
+Başlangıçta ölçülebilir MSS lezyonları N=17 N=13
+olan hastalarda intrakraniyal genel yanıt
+İntrakraniyal yanıt oranı, n (%) 14 (%82) 3 (%23)
+17(%95 GA)c (57 - 96) (5 - 54)
+Tam yanıt oranı %71 %8
+Yanıt süresi
+Yanıt verenlerin sayısı 14 3
+Medyan, ay (%95 GA)a NE (NE - NE) 10 (9 - 11)
+Başlangıçta ölçülebilir veya
+ölçülemeyen MSS lezyonları olan
+hastalarda intrakraniyal genel yanıt N=38 N=40
+İntrakraniyal yanıt oranı, n (%) 25 (%66) 8 (%20)
+(%95 GA)c (49 - 80) (9 - 36)
+Tam yanıt oranı %61 %15
+Yanıt süresi
+Yanıt verenlerin sayısı 25 8
+Medyan, ay (%95 GA)a NE (NE - NE) 9 (6 - 11)
+Kısaltmalar: BICR=Kör Bağımsız Merkez İncelemesi; GA=güven aralığı; MSS=merkezi sinir
+sistemi; INV= araştırmacı değerlendirmesi; N=hasta sayısı; NE=tahmin edilemeyen.
+* p-değeri 1-yönlü katmanlandırılmış log-sıra testine dayalıdır.
+a Brookmeyer ve Crowley yöntemine dayalıdır.
+b Tehlike oranı Cox orantısal tehlike modeline dayalıdır; orantısal tehlikeler altında <1 tehlike oranı,
+tehlike oranında lorlatinib lehine bir azalma olduğunu gösterir.
+c Binom dağılımına dayalı tam yöntem kullanılarak elde edilmiştir.
+Şekil 1: CROWN Çalışması’nda BICR’ye Göre Progresyonsuz Sağkalıma Ait Kaplan-
+Meier Grafiği
+Kısaltmalar: GA=güven aralığı; N=hasta sayısı.
+Lorlatinib tedavisinden sağlanan fayda, başlangıçta MSS metastazı olan (n=38, HR=0,2, %95
+GA: 0,1-0,43) ve MSS metastazı olmayan hastalar (n=111, HR=0,32, %95 GA: 0,2-0,49) dahil
+18olmak üzere, başlangıçtaki hasta ve hastalık özelliklerinin alt grupları arasında karşılaştırılabilir
+olmuştur.
+Daha önce bir ALK kinaz inhibitörü ile tedavi edilmiş ALK-Pozitif İlerlemiş KHDAK
+ALK- pozitif ileri evre KHDAK’nin tedavisinde en az bir ikinci nesil ALK TKİ ile tedaviden
+sonra lorlatinib kullanımı tek kollu, çok merkezli faz 1/2 çalışma olan Çalışma A’da
+araştırılmıştır. Toplam 139 ALK pozitif ileri evre KHDAK hastası en az bir ikinci nesil ALK
+TKİ ile tedaviden sonra çalışmanın Faz 2 bölümüne kaydedilmiştir. Hastalar kesintisiz olarak
+oral yolla günde bir kez 100 mg dozunda lorlatinib kullanmıştır.
+Çalışmanın Faz 2 kısmında birincil etkililik sonlanım noktası Bağımsız Merkezi İnceleme
+(ICR) ile solid tümörlerde modifiye RECIST v 1.1’e göre değerlendirilen intrakranyal (İK)-
+ORR dahil objektif yanıt oranıdır. İkincil sonlanım noktaları kapsamında DOR, İK-DOR, tümör
+yanıtına kadar geçen süre (TTR) ve PFS vardır.
+En az bir ikinci nesil ALK TKİ ile tedavi almış olan 139 ALK-pozitif ileri evre KHDAK
+hastasının demografik özellikleri aşağıda yer almaktadır: %56 kadın, %48 beyaz, %38 Asyalı,
+medyan yaş 53 yaş (aralık 29-83 yaş) olup hastaların %16’sı 65 yaş ve üstüdür. ECOG
+performans durumu başlangıçta hastaların %96’sında 0 ya da 1 bulunmuştur. Hastaların
+%67’sinde başlangıçta beyin metastazları vardır. 139 hastanın %20’si daha önce krizotinib
+dışında bir ALK TKİ kullanmışken %47’si daha önce 2 ALK TKİ, %33’ü ise 3 ya da daha fazla
+ALK TKİ almıştır.
+A Çalışmasının başlıca etkililik sonuçları Tablo 4 ve 5’te yer almaktadır.
+Tablo 4. A Çalışmasında önceki tedaviye göre genel etkililik sonuçları
+Etkililik parametresi Daha önce kemoterapi ile ya Daha önce kemoterapi
+da tek başına bir ALK TKİ ile ya da tek başına iki
+(N=28) ya da daha fazla ALK
+ᵃ TKİ
+(N=111)
+Objektif yanıt oranı %42,9 %39,6
+(%95 GA) (24,5 - 62,8) (30,5 - 49,4)
+Tam yanıt, n ᵇ 1 2
+Kısmi yanıt, n 11 42
+Yanıtın süresi
+Medyan, ay 5,6 9,9
+(%95 GA) (4,2 - NR) (5,7 - 24,4)
+Progresyonsuz sağkalım
+Medyan, ay 5,5 6,9
+(%95 GA) (2,9 - 8,2) 5,4 - 9,5
+Kısaltmalar: ALK= anaplastik lenfoma kinaz; GA=güven aralığı; ICR=Bağımsız Merkezi
+İnceleme; N/n=hasta sayısı; NR= erişilmedi; TKI= tirozin kinaz inhibitör.
+ᵃ Alektinib, brigatinib ya da seritinib.
+ᵇ ICR’ye göre
+19Tablo 5. A Çalışmasında önceki tedaviye göre intrakranyal* etkililik sonuçları
+Etkililik parametresi Daha önce kemoterapi ile ya Daha önce kemoterapi
+da tek başına bir ALK TKİ ile ya da tek başına iki
+(N=9) ya da daha fazla ALK
+ᵃ TKİ
+(N=48)
+Objektif yanıt oranı %66,7 %52,1
+(%95 GA) (29,9 - 92,5) (37,2 – 66,7)
+Tam yanıt, n ᵇ 2 10
+Kısmi yanıt, n 4 15
+İntrakranyal yanıtın süresi
+Medyan, ay NR 12,4
+(%95 GA) (4,1 - NR) (6- NR)
+Kısaltmalar: ALK= anaplastik lenfoma kinaz; GA=güven aralığı; ICR=Bağımsız Merkezi
+İnceleme; N/n=hasta sayısı; NR= erişilmedi; TKI= tirozin kinaz inhibitör.
+*Başlangıçta en az bir ölçülebilir beyin metastazı olan hastalarda.
+ᵃ Alektinib, brigatinib ya da seritinib.
+ᵇ ICR’ye göre
+139 hastadan oluşan genel etkililik popülasyonunda ICR’ye göre 56 hastada doğrulanmış
+objektif yanıt alınmış, medyan TTR 1,4 ay (aralık: 1,2 - 16,6 ay) olmuştur. ORR Asyalı
+popülasyonda %49,1 (%95 GA: 35,1 - 63,2) ve Asyalı olmayan popülasyonda %31,5 (%95 GA:
+21,1 - 43,4) olmuştur. Doğrulanmış objektif İK tümör yanıtı olan ve ICR’ye göre başlangıçta
+en az bir ölçülebilir beyin metastazı olan 31 hastada medyan İK-TTR 1,4 ay (aralık= 1,2 - 16,2
+ay) olmuştur. İK-ORR Asyalı popülasyonda %54,5 (%95 GA: 32,2 - 75,6) ve Asyalı olmayan
+popülasyonda %46,4 (%95 GA: 27,5 - 66,1) olmuştur.
+5.2 Farmakokinetik özellikler
+Emilim
+Lorlatinibin pik plazma konsantrasyonlarına hızla erişilmekte olup 100 miligramlık tek dozu
+takiben medyan T 1,2 saat ve günde bir kez 100 g dozunda birden fazla kez verildiğinde ise
+maks
+2 saat bulunmuştur.
+İntravenöz uygulama ile karşılaştırıldığında lorlatinib tabletlerin oral yolla verilmesinden sonra
+ortalama mutlak biyo-yararlılığı %80,8 (%90 GA: 75,7- 86,2) olmuştur.
+Lorlatinibin yüksek yağ ve yüksek kalori içeren bir yemekle birlikte verilmesi aç karnına
+verilmesine göre kan seviyelerini %5 arttırmıştır.
+Lorlatinib tok ya da aç karnına verilebilir.
+Kanser hastalarında günde bir kez 100 mg dozda uygulandığında; geometrik ortalama (%
+varyasyon katsayısı [CV]) pik plazma konsantrasyonu 577 (42) ng/ml ve EAA 5,650 (39)
+24
+ng·saat/ml bulunmuştur. Geometrik ortalama (% CV) oral klirens 17,7 (39) l/saat bulunmuştur.
+20Dağılım
+Lorlatinib insan plazma proteinlerine in vitro %66 oranında bağlanmakta olup albümine ya da
+α -asit glikoproteine orta derecede bağlanmaktadır.
+1
+Biyotransformasyon
+İnsanlarda lorlatinib birincil metabolik yolaklar olarak oksidasyona ve glukuronidasyona
+uğramaktadır. İn vitro veriler lorlatinibin birincil olarak CYP3A4 ve UGT1A4 tarafından
+metabolize edildiğini ve CYP2C8, CYP2C19, CYP3A5 ve UGT1A3’ün minör katkıda
+bulunduğunu göstermektedir.
+Plazmada lorlatinibin amid ve aromatik bağlarının oksidatif ayrışmasından kaynaklanan bir
+benzoik asit metaboliti majör metabolit olarak belirlenmiş olup dolaşımdaki radyoaktivitenin
+%21’inden sorumludur. Oksidatif ayrışma ile oluşan metabolit farmakolojik olarak inaktiftir.
+Eliminasyon
+Tek bir 100 miligramlık dozdan sonra lorlatinibin plazma yarı ömrü 23,6 saattir.
+Otoindüksiyonun tamamlanmasını takiben kararlı durumdaki tahmini lorlatinib efektif plazma
+yarı ömrü 14,83 saattir. 100 miligramlık radyoaktif etiketli lorlatinib dozun oral yolla
+verilmesini takiben radyoaktivitenin ortalama %47,7’si idrardan, %40,9’u feçesten ve genelde
+ortalama %88,6’sı geri kazanılmıştır.
+Değişmemiş lorlatinib insan plazmasında ve feçeste belirlenen majör bileşendir ve toplam
+radyoaktivitenin sırasıyla %44’ü ve %9,1’ini oluşturmaktadır. Lorlatinibin %1’inden azı
+idrarda değişmemiş olarak saptanmıştır.
+Ayrıca lorlatinib insan pregnan-X-reseptörü (PXR) ve insan yapısal androstan reseptörü (CAR)
+aracılığıyla bir indükleyicidir.
+Doğrusallık/Doğrusal Olmayan durum
+Tek dozda maruz kalınan lorlatinib seviyesi (EAA ve C ) 10 mg ile 200 mg doz aralığında
+inf maks
+doza bağlı olarak artmıştır. 10 mg ile 200 mg doz aralığı dışında az miktarda veri mevcuttur;
+bununla birlikte tek dozdan sonra EAA ve C için doğrusallıktan sapma olmamıştır.
+inf maks
+Günde bir kez doz birden fazla kez verildiğinde lorlatinib C dozla orantılı olarak artmıştır
+maks
+ve EAA günde 10 mg ile 200 mg doz aralığı dışında dozlarda hafifçe daha az orantılı olarak
+tau
+artmıştır.
+Aynı şekilde kararlı durumda maruz kalınan plazma lorlatinib seviyeleri tek doz
+farmakokinetiği için beklenenden daha düşüktür ve bu da net zamana bağlı oto-indüksiyon
+etkisini göstermektedir.
+Hastalardaki Karakteristik Özellikler
+Karaciğer yetmezliği
+Lorlatinibin karaciğerde metabolize edilmesi nedeniyle karaciğer yetmezliği lorlatinibin
+plazma konsantrasyonlarını yükseltme olasılığını arttırmaktadır. Yapılan klinik çalışmalar AST
+21ya da ALT seviyelerinin normalin üst seviyesinin 2,5 katından fazla olduğu ya da artış altta
+yatan kansere bağlıysa normalin üst seviyesinin 5 katından fazla olduğu ya da total bilirübin
+seviyesinin normalin üst seviyesinin 1,5 katından fazla olduğu hastaları dışlamıştır. Popülasyon
+farmakokinetik analizleri maruz kalınan lorlatinib maruziyetinin hafif karaciğer yetmezliği olan
+hastalarda klinik olarak anlamlı ölçüde değişmediğini göstermiştir (n = 50). Hafif karaciğer
+yetmezliği olan hastalar için doz ayarlamaları önerilmemektedir. Orta ya da ağır karaciğer
+yetmezliği olan hastalar hakkında bilgi yoktur.
+Böbrek yetmezliği
+Verilen dozun %1’inden azı idrarda değişmemiş lorlatinib olarak saptanmaktadır. Popülasyon
+farmakokinetik lorlatinib kararlı durum plazma maruziyet seviyesinin ve C değerinin
+maks
+kötüleşen bazal böbrek fonksiyonu ile hafif arttığını göstermiştir. Bir böbrek yetmezliği
+çalışmasına dayanarak, hafif veya orta şiddetteki böbrek yetmezliği olan hastalar için başlangıç
+dozunda ayarlama yapılması önerilmemektedir [Böbrek Hastalığı Çalışmasında Diyet
+Modifikasyonu’na (MDRD) göre türetilen eGFR; eGFR (mL/dak/1,73 m2) × ölçülen vücut
+yüzey alanı/1,73 ≥ 30 mL/dk]. Bu çalışmada, lorlatinib EAA , ağır böbrek yetmezliği olan
+inf
+hastalarda (mutlak eGFR < 30 mL/dk), böbrek fonksiyonu normal olan gönüllülere (mutlak
+eGFR ≥ 90 mL/dak) kıyasla %41 artmıştır. Ağır böbrek yetmezliği olan hastalarda lorlatinib
+dozunun azaltılması önerilir, örneğin günde bir kez 75 mg oral başlangıç dozu (bkz. Bölüm
+4.2). Renal diyaliz hastaları için bilgi mevcut değildir.
+Yaş, cinsiyet, ırk, vücut ağırlığı ve fenotip
+İleri evre KHDAK olan ve sağlıklı gönüllülerde yapılan popülasyon farmakokinetik analizleri
+CYP3A5 ve CYP2C19 için yaşın, cinsiyetin, ırkın, vücut ağırlığının ve fenotipin klinik olarak
+anlamlı etkileri olmadığını göstermiştir.
+Kardiyak elektrofizyoloji
+A Çalışmasında 2 hastanın (%0,7) mutlak Fridericia düzeltme QTc (QTcF) değerleri> 500
+milisaniye olmuş ve 5 hastada (%1,8) QTcF değişikliği başlangıca göre> 60 milisaniye
+olmuştur.
+Ayrıca, tek bir oral doz lorlatinibin (50 mg, 75 mg ve 100 mg) günde bir kez 200 mg itrakonazol
+ile ve tek başına etkisi 16 sağlıklı gönüllüde 2 yönlü çapraz bir çalışmada değerlendirilmiştir.
+Bu çalışmada gözlenen ortalama lorlatinib konsantrasyonlarında ortalama QTc değerlerinde
+artış gözlenmemiştir.
+A Çalışmasında önerilen 100 miligramlık dozda lorlatinib alan ve bir EKG incelemesi bulunan
+295 hastadan QTc aralığının> 470 milisaniye olan hastaların dışlandığı bir popülasyonda
+lorlatinib değerlendirilmiştir. Çalışma popülasyonunda PR aralığında başlangıca göre
+maksimum ortalama değişiklik 16,4 milisaniye (2 yönlü %90 üst GA 19,4 milisaniye) (Bkz.
+Bölümler 4.2, 4.4 ve 4.8) olmuştur. Bu hastalardan yedisinde başlangıç PR> 200 milisaniyedir.
+PR aralığının <200 milisaniye olduğu 284 hastanın %14’ünde lorlatinib başlandıktan sonra PR
+aralığında uzama ≥ 200 milisaniye olmuştur. PR aralığındaki uzama konsantrasyona bağımlı
+bir şekilde oluşmuştur. Hastaların %1’inde atriyoventriküler blok oluşmuştur.
+PR uzaması gelişen hastalarda doz değişikliği gerekebilir (Bkz Bölüm 4.2).
+225.3 Klinik öncesi güvenlilik verileri
+Tekrarlayan doz toksisitesi
+Önerilen pozolojide insanda maruz kalınan klinik seviyelere eşdeğer dozda gözlenen başlıca
+toksisiteler çeşitli dokularda inflamasyon (sıçanlarda deri ve servikste, köpeklerde akciğerde,
+trakea, deride, lenf bezlerinde ve/veya mandibuler kemik dahil ağız boşluğunda; beraberinde
+beyaz kan hücreleri, fibrinojen ve/veya globülin seviyesinde artış ve albümin seviyesinde
+azalmalar) ve pankreas (beraberinde amilaz ve lipaz seviyelerinde artış), hepatobiliyer sistem
+(beraberinde karaciğer enzimlerinde artışlar), erkek üreme sistemi, kardiyovasküler sistem,
+böbrekler ve gastrointestinal sistem, periferik sinirler ve MSS (bilişsel fonksiyonda bozulma)
+değişiklikleri olmuştur. Hayvanlarda akut dozlama sonrası (Cmaks değerine göre tek doz 100
+mg ile insanda klinik olarak maruz kalınan seviyenin yaklaşık 2,6 katı) kan basıncında ve kalp
+atım hızında ve QRS kompleksinde ve PR aralığında değişiklikler de gözlenmiştir. Karaciğer
+safra kanalı hiperplazisi dışında tüm hedef organ bulguları tamamıyla geri dönüşlüdür.
+Genotoksisite
+Lorlatinib in vitro ve in vivo olarak mutajenik değildir ancak anöjenik olup EAA’ya göre 100
+mg ile insan klinik olarak maruz kalınan seviyenin yaklaşık 16,5 katı ile anöjenisite üzerinde
+herhangi bir seviyede etki gözlenmemiştir.
+Karsinojenisite
+Lorlatinib ile Karsinojenisite çalışmaları yapılmamıştır.
+Üreme toksisitesi
+Sıçanda ve köpekte seminifer tübüler dejenerasyon ve/veya testis atrofisi ve epididim
+değişiklikleri (inflamasyon ve/veya vaküolleşme) gözlenmiştir. Önerilen pozolojide insanda
+maruz kalınan seviyelere eşdeğer dozda köpeklerde prostatta minimal-hafif glandüler atrofi
+gözlenmiştir. Erkek üreme organlarında etkiler kısmen ya da tamamen geri dönüşlüdür.
+Sıçanlarda ve tavşanlarda yapılan embriyofetal toksisite çalışmalarında embriyo ölümü ve
+düşük fetüs ağırlığı ve malformasyonlar gözlenmiştir. Fetüsteki morfolojik anormallikler
+arasında kol ve bacaklarda rotasyon, parmak sayısında artış, gastroşizis, böbrek
+malformasyonu, kubbe kafa, yüksek damak ve beyin ventriküllerinde genişleme vardır.
+EAA’ya göre hayvanlarda embriyofetal etkilerin geliştiği en düşük dozlarla maruz kalınan
+seviye 100 mg dozu ile insanda klinik olarak maruz kalınan seviyeye eşdeğerdir.
+236. FARMASÖTİK ÖZELLİKLER
+6.1 Yardımcı maddelerin listesi
+Çekirdek tablet:
+Mikrokristalin Selüloz
+Dibazik Kalsiyum Fosfat, Susuz
+Sodyum Nişasta Glikolat
+Magnezyum stearat
+Film kaplama
+HPMC 2910/Hipromelloz
+Laktoz Monohidrat (sığır kaynaklı)
+Macrogol 4000/PEG 3350
+Triasetin
+Titanyum Dioksit
+Ferrozoferrik Oksit/Siyah Demir Oksit
+Demir Oksit Kırmızı
+6.2 Geçimsizlikler
+Geçerli değil
+6.3 Raf ömrü
+36 ay
+6.4 Saklamaya yönelik özel tedbirler
+25°C’nin altındaki oda sıcaklığında saklayınız.
+6.5 Ambalajın niteliği ve içeriği
+10 film kaplı tablet içeren alüminyum folyo arka kaplama materyali olan OPA/Al/PVC
+folyoblister
+Ambalaj büyüklükleri:
+100 mg: 30, 60, 100 film kaplı tablet: Her biri 10 tablet içeren sırasıyla 3, 6, 10 blister içeren
+kutular
+6.6 Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+Özel gereklilikler bulunmamaktadır.
+Kullanılmamış olan ürünler ya da atık materyaller ‘Tıbbi Atıkların Kontrolü Yönetmeliği’ ve
+‘Ambalaj Atıklarının Kontrolü Yönetmelikleri’ne uygun olarak imha edilmelidir.
+7. RUHSAT SAHİBİ
+Pfizer PFE İlaçları A.Ş.
+Esentepe Mah. Büyükdere Cad.
+Levent 199 Blok No: 199 İç Kapı No: 106
+Şişli / İstanbul
+248. RUHSAT NUMARASI/NUMARALARI
+2019/341
+9. İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi: 11.07.2019
+Ruhsat yenileme tarihi:
+10. KÜB’ün YENİLENME TARİHİ
+25

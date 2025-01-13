@@ -1,0 +1,1007 @@
+KISA ÜRÜN BİLGİSİ
+Bu ilaç ek izlemeye tabidir. Bu üçgen yeni güvenlilik bilgisinin hızlı olarak belirlenmesini
+sağlayacaktır. Sağlık mesleği mensuplarının şüpheli advers reaksiyonları TÜFAM’a
+bildirmeleri beklenmektedir. Bakınız Bölüm 4.8 Advers reaksiyonlar nasıl raporlanır?
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+ZELBORAF 240 mg film kaplı tablet
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde:
+Vemurafenib 240 mg
+Her tablet, 240 mg vemurafenib (vemurafenib ve hipromelloz asetat süksinat eş çökeltisi
+şeklinde) içerir.
+Yardımcı madde(ler):
+Kroskarmeloz sodyum 29,4 mg
+Yardımcı maddeler için Bölüm 6.1’e bakınız.
+3. FARMASÖTİK FORM
+Film kaplı tablet
+Bir yüzünde ‘VEM’ baskısı olan, yaklaşık 19 mm’lik, pembemsi beyaz ila turuncu beyaz,
+oval, bikonveks film kaplı tabletler.
+4. KLİNİK ÖZELLİKLER
+4.1. Terapötik endikasyonlar
+ZELBORAF; daha önce herhangi bir RAF yolağı inhibitörü kullanmamış, ECOG performans
+skoru 0 veya 1 olan, lokal tedaviler sonrası progresyon göstermiş ve lokal tedavilerin tekrar
+kullanılamadığı relaps veya metastatik BRAF V600 mutasyonu pozitif olan malign melanom
+hastalarında tek ajan veya kobimetinib ile kombine olarak progresyona kadar kullanımı
+endikedir. Progresyon sonrası tek ajan veya başka tedavilerle kombinasyon şeklinde
+kullanılamaz (bkz. Bölüm 5.1).
+4.2. Pozoloji ve uygulama şekli
+ZELBORAF tedavisi, antikanser tıbbi ürünlerinin kullanımı konusunda deneyimli kalifiye bir
+hekim tarafından başlatılmalı ve denetlenmelidir.
+ZELBORAF almadan önce, geçerli bir test yoluyla hastanın tümöründe BRAF V600
+mutasyon pozitifliği tespit edilmelidir (bkz. Bölüm 4.4 ve 5.1).
+Pozoloji:
+- 1 -ZELBORAF için önerilen doz, günde iki kez 960 mg’dır (240 mg’lık 4 tablet) (günde toplam
+1920 mg’lık doza eşdeğer). ZELBORAF öğünle birlikte veya aç karnına alınabilir fakat
+sürekli olarak günlük dozların tümünü mide boşken almaktan kaçınılmalıdır (bkz. Bölüm 5.2).
+Uygulama sıklığı ve süresi:
+Tedavi süresi:
+ZELBORAF tedavisi, hastalık progresyonuna kadar veya kabul edilemez toksisite oluşana
+kadar devam etmelidir (bkz. Tablo 1 ve Tablo 2).
+Unutulan dozlar:
+Unutulan doz, günde iki kez tedavi rejimine devam edilmesi için sonraki dozdan 4 saat
+öncesine kadar alınabilir. Her iki doz aynı zamanda alınmamalıdır.
+Kusma:
+ZELBORAF uygulanmasından sonra kusma olması durumunda ek doz alınmamalı ve
+tedaviye normal şekilde devam edilmelidir.
+Pozoloji ayarlamaları
+Advers ilaç reaksiyonlarının veya QTc uzamasının yönetimi; dozun azaltılmasını, tedaviye
+geçici olarak ara verilmesini ve/veya tedavinin sonlandırılmasını gerektirebilir (bkz. Tablo 1
+ve Tablo 2). Günde iki kez 480 mg’dan düşük bir doza denk gelecek pozoloji ayarlamaları
+önerilmemektedir.
+Kutanöz Skuamöz Hücreli Karsinom (kSHK) gelişmesi durumunda, ZELBORAF dozunu
+modifiye etmeksizin tedaviye devam edilmesi önerilmektedir (bkz. Bölüm 4.4 ve 4.8).
+Tablo 1: Herhangi bir advers olayın derecesine dayalı doz modifikasyonu
+Derece (CTC-Advers Olay) (a) Önerilen doz modifikasyonu
+Derece 1 veya Derece 2 (tolere ZELBORAF’a günde iki kez 960 mg dozda devam
+edilebilir) edilmelidir.
+Derece 2 (tolere edilemez) veya
+Derece 3
+Derece 2 veya 3 düzeyindeki Derece 0-1 olana kadar tedaviye ara verilmelidir.
+herhangi bir advers olayın ilk kez Sonrasında günde iki kez 720 mg (veya doz daha önce
+oluşması azaltıldıysa günde iki kez 480 mg) doz uygulamasıyla
+devam edilmelidir.
+Derece 2 veya 3 düzeyindeki Derece 0-1 olana kadar tedaviye ara verilmelidir.
+herhangi bir advers olayın ikinci kez Sonrasında günde iki kez 480 mg doz uygulamasıyla
+oluşması veya tedaviye ara devam edilmelidir (veya doz daha önce günde iki kez
+verildikten sonra devam etmesi 480 mg’a azaltıldıysa tedavi kalıcı olarak
+sonlandırılmalıdır).
+Derece 2 veya 3 düzeyindeki Tedavi kalıcı olarak sonlandırılmalıdır.
+herhangi bir advers olayın üçüncü
+kez oluşması veya dozun ikinci kez
+azaltılmasının ardından devam
+etmesi
+Derece 4
+Derece 4 düzeyindeki herhangi bir Tedavi kalıcı olarak sonlandırılmalıdır veya Derece 0-1
+advers olayın ilk kez oluşması olana kadar tedaviye ara verilmelidir.
+- 2 -Sonrasında günde iki kez 480 mg doz uygulamasıyla
+devam edilmelidir (veya doz daha önce günde iki kez
+480 mg’a azaltıldıysa tedavi kalıcı olarak
+sonlandırılmalıdır).
+Derece 4 düzeyindeki herhangi bir Tedavi kalıcı olarak sonlandırılmalıdır.
+advers olayın ikinci kez oluşması
+veya Derece 4 düzeyindeki herhangi
+bir advers olayın dozun ilk kez
+azaltılmasının ardından devam
+etmesi
+(a) Klinik advers olayların, Advers Olaylar için Ortak Terminoloji Kriterleri v 4.0 (Common Terminology
+Criteria for Adverse Effects v 4.0, CTC-AE) yoluyla derecelendirilen yoğunluğu.
+Daha önce tedavi uygulanmış metastatik melanomlu hastalarda yapılan kontrollü olmayan,
+açık etiketli bir faz II çalışmada vemurafenibe maruziyet düzeyine bağlı QT uzaması
+gözlenmiştir. QTc uzamasının yönetimi spesifik izlem tedbirlerini gerektirebilir (bkz. Bölüm
+4.4).
+Tablo 2: QT aralığının uzamasına dayalı doz modifikasyonu
+QTc değeri Önerilen doz modifikasyonu
+Başlangıçta QTc >500 milisaniye (msn) Tedavi önerilmemektedir.
+QTc uzamasının hem >500 msn olması, hem Tedavi kalıcı olarak sonlandırılmalıdır.
+de tedavi öncesi değerlere göre >60 msn
+değişim göstermesi
+Tedavi sırasında ilk kez QTc >500 msn QTc 500 msn altına düşene kadar geçici
+olması ve tedavi öncesi değere göre olarak tedaviye ara verilmelidir.
+değişimin <60 msn olması Bölüm 4.4’teki izlem tedbirlerine
+bakılmalıdır.
+Günde iki kez 720 mg (veya doz daha önce
+azaltıldıysa günde iki kez 480 mg) doz
+uygulamasıyla devam edilmelidir.
+Tedavi sırasında ikinci kez QTc >500 msn QTc 500 msn altına düşene kadar geçici
+olması ve tedavi öncesi değere göre olarak tedaviye ara verilmelidir.
+değişimin <60 msn olması Bölüm 4.4’teki izlem tedbirlerine
+bakılmalıdır.
+Günde iki kez 480 mg doz uygulamasıyla
+devam edilmelidir (veya doz daha önce
+günde iki kez 480 mg’ye azaltıldıysa tedavi
+kalıcı olarak sonlandırılmalıdır).
+Tedavi sırasında üçüncü kez QTc >500 msn Tedavi kalıcı olarak sonlandırılmalıdır.
+olması ve tedavi öncesi değere göre
+değişimin <60 msn olması
+Uygulama şekli:
+ZELBORAF oral kullanım içindir. Tabletler suyla birlikte bütün olarak yutulmalıdır.
+ZELBORAF tabletler çiğnenmemeli veya ezilmemelidir.
+Özel popülasyonlara ilişkin ek bilgiler:
+- 3 -Böbrek yetmezliği:
+Böbrek yetmezliği olan hastalara ilişkin kısıtlı veri mevcuttur. Şiddetli böbrek yetmezliği olan
+hastalarda yüksek ilaç maruziyeti riski göz ardı edilemez. Şiddetli böbrek yetmezliği olan
+hastalar yakından izlenmelidir (bkz. Bölüm 4.4 ve 5.2).
+Karaciğer yetmezliği:
+Karaciğer yetmezliği olan hastalara ilişkin kısıtlı veri mevcuttur. Vemurafenibin karaciğer
+tarafından uzaklaştırılması nedeniyle, orta ila şiddetli karaciğer yetmezliği olan hastalarda ilaç
+maruziyeti artabilir ve bu hastalar yakından izlenmelidir (bkz. Bölüm 4.4 ve 5.2).
+Pediyatrik popülasyon:
+Çocuklarda ve adolesanlarda (<18 yaş) ZELBORAF’ın güvenliliği ve etkililiği
+belirlenmemiştir. Halihazırda mevcut veriler Bölüm 4.8, 5.1 ve 5.2’de açıklanmıştır ancak
+pozoloji üzerine bir tavsiye bulunmamaktadır.
+Geriyatrik popülasyon:
+65 yaşından büyük hastalarda özel bir doz ayarlaması gerekmemektedir.
+Diğer:
+Beyaz ırktan olmayan hastalar:
+Beyaz ırktan olmayan hastalarda ZELBORAF’ın güvenliliği ve etkililiği belirlenmemiştir.
+Veri bulunmamaktadır.
+4.3. Kontrendikasyonlar
+Etkin maddeye veya Bölüm 6.1’de verilen yardımcı maddelerden herhangi birine karşı aşırı
+duyarlılığı bulunan kişilerde kontrendikedir.
+4.4. Özel kullanım uyarıları ve önlemleri
+ZELBORAF kullanmadan önce, geçerli bir test yoluyla hastanın tümöründe BRAF V600
+mutasyon pozitifliği tespit edilmelidir. V600E ve V600K dışında seyrek BRAF V600
+mutasyonları eksprese eden hastalarda ZELBORAF’ın etkililiği ve güvenliliği kesin olarak
+belirlenmemiştir (bkz. Bölüm 5.1). ZELBORAF, BRAF wild-tip (mutasyonu bulunmayan)
+malign melanomu olan hastalarda kullanılmamalıdır.
+Aşırı duyarlılık reaksiyonu
+ZELBORAF’la ilişkili olarak anafilaksi dahil ciddi aşırı duyarlılık reaksiyonları bildirilmiştir
+(bkz. Bölüm 4.3 ve 4.8). Şiddetli aşırı duyarlılık reaksiyonları; Stevens-Johnson sendromunu,
+yaygın döküntüyü, eritemi veya hipotansiyonu içerebilir. Şiddetli aşırı duyarlılık reaksiyonları
+oluşan hastalarda ZELBORAF tedavisi kalıcı olarak sonlandırılmalıdır.
+Dermatolojik reaksiyonlar
+ZELBORAF alan hastalarda, pivotal klinik çalışmalarda oluşan seyrek Stevens-Johnson
+sendromu ve toksik epidermal nekroliz vakaları dahil, şiddetli dermatolojik reaksiyonlar
+bildirilmiştir. Pazarlama sonrası evrede ZELBORAF kullanımı ile eozinofili ve sistemik
+semptomlar ile seyreden ilaç reaksiyonu (DRESS Sendromu) bildirilmiştir (bkz. Bölüm 4.8).
+Şiddetli dermatolojik reaksiyonlar oluşan hastalarda ZELBORAF tedavisi kalıcı olarak
+sonlandırılmalıdır.
+Radyasyon toksisitesinin potansiyalizasyonu
+- 4 -Vemurafenib tedavisi öncesinde, sırasında veya sonrasında radyasyon tedavisi uygulanan
+hastalarda radyasyon anımsatma ve radyasyon sensitizasyon vakaları bildirilmiştir. Çoğu vaka
+kütanöz özellikte olmuş ancak viseral organları içeren bazı vakalar ölümle sonuçlanmıştır
+(bkz. Bölüm 4.5 ve 4.8).
+Vemurafenib, radyasyon tedavisiyle eşzamanlı veya sıralı olarak uygulanırken dikkatli
+olunmalıdır.
+QT uzaması
+Daha önce tedavi uygulanmış metastatik melanomu bulunan hastalarda yapılan kontrollü
+olmayan, açık etiketli bir faz II çalışmada ZELBORAF düzeyine bağlı QT uzaması
+gözlenmiştir (bkz. Bölüm 4.8). QT uzaması, Torsades de Pointes dahil ventriküler aritmilerin
+riskinde artışa neden olabilir. Elektrolit anormallikleri (magnezyum dahil) düzeltilemeyen,
+uzun QT sendromu olan veya QT aralığını uzattığı bilinen tıbbi ürünleri kullanan hastalarda
+ZELBORAF tedavisi önerilmemektedir.
+Tüm hastalarda ZELBORAF tedavisinden önce, tedaviden bir ay sonra ve doz modifikasyonu
+ardından elektrokardiyogram (EKG) ve elektrolitler (magnezyum dahil) izlenmelidir.
+Özellikle orta ila şiddetli karaciğer yetmezliği olan hastalarda, tedavinin ilk 3 ayı boyunca her
+ay ve sonrasında 3 ayda bir ya da klinik olarak endike ise daha sık şekilde izlem yapılması
+önerilmektedir. QTc >500 milisaniye (msn) olan hastalarda ZELBORAF tedavisine
+başlanması önerilmemektedir. Tedavi sırasında QTc değeri 500 msn’yi geçerse, ZELBORAF
+tedavisine geçici olarak ara verilmeli, elektrolit anormallikleri (magnezyum dahil)
+düzeltilmeli ve QT uzaması ile ilgili kardiyak risk faktörleri (örn. konjestif kalp yetmezliği,
+bradiaritmiler) kontrol altına alınmalıdır. Tedavi tekrar, QTc değeri 500 msn altında düştükten
+sonra ve Tablo 2’de açıklandığı gibi daha düşük bir dozda başlatılmalıdır. QTc uzamasının
+hem >500 msn olması, hem de tedavi öncesi değerlere göre >60 msn değişim göstermesi
+durumunda ZELBORAF tedavisinin kalıcı olarak sonlandırılması önerilmektedir.
+Oftalmolojik reaksiyonlar
+Üveit, iritis ve retinal ven oklüzyonu dahil ciddi oftalmolojik reaksiyonlar bildirilmiştir.
+Hastalar, oftalmolojik reaksiyonlar açısından rutin şekilde izlenmelidir.
+Kutanöz Skuamöz Hücreli Karsinom (kSHK)
+ZELBORAF ile tedavi uygulanan hastalarda kSHK vakaları (keratoakantom veya mikst
+keratoakantom alt tipi olarak sınıflandırılanlar dahil) bildirilmiştir (bkz. Bölüm 4.8).
+Tedaviye başlanmadan önce tüm hastalara dermatolojik değerlendirme yapılması ve tedavi
+sırasında rutin izlem yapılması önerilmektedir. Şüphelenilen deri lezyonları eksize edilmeli,
+dermatopatolojik değerlendirmeye gönderilmeli ve yerel tedavi standardına göre tedavi
+uygulanmalıdır. Reçete yazan uzman, tedavi sırasında ve tedaviden sonra altı aya kadar
+hastayı her ay kSHK açısından incelemelidir. kSHK gelişen hastalarda, doz ayarlaması
+yapılmaksızın tedaviye devam edilmesi önerilmektedir. ZELBORAF’ın sonlandırılmasını
+izleyen altı ay boyunca veya başka bir anti-neoplastik tedavi başlatılana kadar izlemeye
+devam edilmelidir. Hastalara, derilerinde herhangi bir değişiklik olması durumunda
+hekimlerini bilgilendirmeleri söylenmelidir.
+Kutanöz Olmayan Skuamöz Hücreli Karsinom (koSHK)
+Klinik çalışmalarda ZELBORAF kullanan hastalarda koSHK vakaları bildirilmiştir.
+Hastalara, tedavi başlatılmadan önce ve tedavi sırasında 3 ayda bir, en azından oral
+- 5 -mukozanın görsel muayenesini ve lenf nodu palpasyonunu içeren baş ve boyun muayenesi
+yapılmalıdır.
+Hastalara ayrıca, tedaviden önce ve tedavi sırasında 6 ayda bir toraks Bilgisayarlı Tomografi
+(BT) taraması yapılmalıdır.
+Tedaviden önce ve sonra veya klinik olarak gerekli görüldüğünde, anal muayenelerin ve
+pelvik muayenelerin (kadınlar için) yapılması önerilmektedir.
+ZELBORAF tedavisinin sonlandırılmasının ardından koSHK izlenmesi, 6 aya kadar veya
+başka bir anti-neoplastik tedavi başlatılana kadar devam etmelidir. Anormal bulgular, klinik
+uygulamalara göre ele alınmalıdır.
+Yeni primer melanom
+Klinik çalışmalarda yeni primer melanomlar bildirilmiştir. Vakalar, eksizyon ile kontrol altına
+alınmış ve hastalar doz ayarlaması olmaksızın tedaviye devam etmiştir. Deri lezyonlarının
+izlenmesi, yukarıda kutanöz skuamöz hücreli karsinom için belirtildiği gibi yapılmalıdır.
+Diğer maligniteler
+Etki mekanizması baz alındığında ZELBORAF, RAS mutasyonu ile ilişkili kanserlerin
+progresyonuna neden olabilir (bkz. Bölüm 4.8). ZELBORAF, RAS mutasyonu ile ilişkili
+geçmiş veya eş zamanlı kanserleri olan hastalarda kullanılmadan önce tedavinin yarar ve
+riskleri dikkatlice değerlendirilmelidir.
+Pankreatit
+Vemurafenib ile tedavi edilen hastalarda pankreatit bildirilmiştir. Açıklanamayan karın ağrısı
+derhal araştırılmalıdır (serum amilaz ve lipaz düzeylerinin ölçülmesi dahil). Bir pankreatit
+epizodundan sonra tekrar vemurafenib tedavisine başlanırken hastalar yakından takip
+edilmelidir.
+Karaciğer hasarı
+ZELBORAF ile şiddetli karaciğer hasarı vakalarını da içeren, karaciğer hasarı oluştuğu
+bildirilmiştir (bkz. Bölüm 4.8). Tedaviye başlanmadan önce ve tedavi sırasında aylık olarak
+veya klinik açıdan gerekli olduğunda karaciğer enzimleri (transaminazlar ve alkalen fosfataz)
+ve bilirubin izlenmelidir. Laboratuvar anormallikleri, dozun azaltılmasıyla, tedaviye ara
+verilmesiyle veya tedavinin sonlandırılmasıyla kontrol altına alınmalıdır (bkz. Bölüm 4.2 ve
+4.8).
+Renal toksisite
+Vemurafenib ile tedavi edilen hastalarda, serum kreatinin düzeyi yükselmelerinden akut
+interstisyel nefrite ve akut tübüler nekroza kadar değişebilen böbrek toksisitesi rapor
+edilmiştir. Serum kreatinin düzeyleri tedaviye başlanmadan önce ölçülmeli ve klinik açıdan
+gerekli olduğunda tedavi sürecince takip edilmelidir. (bkz. Bölüm 4.2 ve 4.8)
+Karaciğer yetmezliği
+Karaciğer yetmezliği olan hastalar için başlangıç dozunda ayarlama yapılmasına gerek yoktur.
+Hiperbilirubinemi olmaksızın karaciğer metastazları nedeniyle hafif karaciğer yetmezliği olan
+hastalar, genel önerilere uygun şekilde izlenebilir. Orta ila şiddetli karaciğer yetmezliği olan
+hastalara ilişkin yalnızca çok kısıtlı veri mevcuttur. Orta ila şiddetli karaciğer yetmezliği olan
+hastalarda ilaca maruziyet düzeyi artabilir (bkz. Bölüm 5.2). Bu nedenle, uzun süre (birkaç
+- 6 -hafta) içinde birikme oluşabildiği için, özellikle tedavinin ilk birkaç haftasından sonra
+yakından izlem yapılmalıdır. Buna ek olarak, ilk üç ay boyunca her ay EKG izlemi yapılması
+önerilmektedir.
+Böbrek yetmezliği
+Hafif ila orta düzeyde böbrek yetmezliği olan hastalar için başlangıç dozunda ayarlama
+yapılması gerekmemektedir. Şiddetli böbrek yetmezliği olan hastalara ilişkin yalnızca çok
+kısıtlı veri mevcuttur (bkz. Bölüm 5.2). ZELBORAF, şiddetli böbrek yetmezliği olan
+hastalarda dikkatli kullanılmalı ve hastalar yakından izlenmelidir.
+Fotoduyarlılık
+Klinik çalışmalarda ZELBORAF alan hastalarda hafif ila şiddetli düzeyde fotoduyarlılık
+bildirilmiştir (bkz. Bölüm 4.8). Tüm hastalara, ZELBORAF kullanırken güneşe maruz
+kalmaktan kaçınmaları önerilmelidir. Bu tıbbi ürünü kullanırken hastalara, güneş yanığından
+korunmalarına yardımcı olmak için açık havada koruyucu kıyafet giymeleri ve geniş
+spektrumlu Ultraviyole A (UVA)/Ultraviyole B (UVB) güneş kremi ve dudak kremi (Koruma
+Faktörü ≥30) kullanmaları söylenmelidir.
+Derece 2 (tolere edilemeyen) veya daha yüksek dereceli fotoduyarlılıkta doz modifikasyonları
+yapılması önerilmektedir (bkz. Bölüm 4.2).
+Dupuytren Kontraktürü ve Plantar Fasiyal Fibromatoz
+ZELBORAF ile Dupuytren Kontraktürü ve plantar fasiyal fibromatoz rapor edilmiştir.
+Vakaların büyük çoğunluğu hafif veya orta seviyede olmuş, ancak şiddetli ve engele yol açan
+Dupuytren Kontraktürü vakaları da rapor edilmiştir (bkz. Bölüm 4.8).
+Vakalar dozun azaltılmasıyla, tedaviye ara verilmesiyle veya tedavinin sonlandırılmasıyla
+yönetilmelidir (bkz. Bölüm 4.2).
+ZELBORAF’ın diğer tıbbi ürünler üzerindeki etkileri
+ZELBORAF, başlıca CYP1A2 tarafından metabolize edilen tıbbi ürünlerin plazma düzeyini
+artırabilir, başlıca CYP3A4 tarafından metabolize edilen ilaçların plazma düzeyini azaltabilir.
+ZELBORAF’ın, CYP1A2 ve CYP3A4 ile metabolize olan dar terapötik pencereye sahip
+ajanlar ile eşzamanlı kullanımı önerilmez. ZELBORAF ile eş zamanlı tedaviden önce, başlıca
+CYP1A2 veya CYP3A4 yoluyla metabolize edilen tıbbi ürünler için terapötik pencereleri göz
+önüne alınarak doz ayarlamaları yapılması dikkate alınmalıdır (bkz. Bölüm 4.5 ve 4.6).
+ZELBORAF’ı varfarin ile eş zamanlı kullanırken dikkatli olunmalı ve ek INR (Uluslararası
+Normalize Oran) izlemi göz önünde bulundurulmalıdır.
+Vemurafenib, P-gp substratları olan tıbbi ürünlerin plazma maruziyetini arttırabilir. P-gp
+substratları ile birlikte ZELBORAF kullanıldığında dikkatli olunmalıdır. Dar terapötik indeksi
+(NTI) olan P-gp substratı tıbbi ürünler (örn. digoksin, dabigatran eteksilat, aliskiren)
+vemurafenib ile eşzamanlı olarak kullanılıyorsa dikkatli olunmalı, bu tıbbi ürünlerde dozun
+azaltılması ve/veya ilaç düzeylerinin ilave olarak izlenmesi göz önünde bulundurulmalıdır
+(bkz. Bölüm 4.5).
+Diğer tıbbi ürünlerin ZELBORAF üzerindeki etkisi
+CYP3A4, P-gp, glukuronidasyonun güçlü indükleyicileriyle (örn. rifampisin, rifabutin,
+karbamazepin, fenitoin veya St. John’s Wort [hiperisin]) eş zamanlı uygulama vemurafenib
+- 7 -maruziyetinde azalmaya neden olabilir, mümkünse bu ilaçlarla eş zamanlı kullanımdan
+kaçınılmalıdır (bkz. Bölüm 4.5). ZELBORAF’ın etkililiğini korumak için daha düşük
+indükleyici potansiyele sahip alternatif tedavi düşünülmelidir. Vemurafenib güçlü
+CYP3A4/PgP inhibitörleri ile uygulanırken dikkatli olunmalıdır. Klinik olarak belirtilmişse
+hastalar uygulanan güvenlilik ve doz değişiklikleri açısından dikkatle izlenmelidir (bkz.
+Bölüm 4.2, Tablo 1).
+İpilimumab ile eş zamanlı kullanımı
+ZELBORAF (günde iki kez 960 mg veya günde iki kez 720 mg) ve ipilimumabın (3 mg/kg)
+eş zamanlı kullanıldığı bir faz I çalışmasında transaminazlarda ve bilirubinde asemptomatik
+derece 3 artışlar (ALT/AST normal üst limitin 5 katı, total bilirubin normal üst limitin 3 katı)
+raporlanmıştır. Bu ön verilere dayanarak ZELBORAF ve ipilimumabın eş zamanlı kullanımı
+önerilmemektedir.
+Yardımcı maddeler
+ZELBORAF, 960 mg’lık bir seferlik dozunda (240 mg’lık 4 tablet), 117,6 mg sodyum
+içermektedir. Bu durum, kontrollü sodyum diyetinde olan hastalar için göz önünde
+bulundurulmalıdır.
+4.5. Diğer tıbbi ürünlerle etkileşim ve diğer etkileşim şekilleri
+Vemurafenibin ilaç metabolize edici enzimler üzerindeki etkileri
+Metastatik melanom hastalarında yürütülen bir in vivo ilaç-ilaç etkileşimi çalışmasından elde
+edilen bulgular, vemurafenibin orta güçte bir CYP1A2 inhibitörü ve CYP3A4 indükleyicisi
+olduğunu göstermiştir.
+Vemurafenibin dar terapötik pencereye sahip CYP1A2 ile metabolize edilen ajanlarla (örn.
+agomelatin, alosetron, duloksetin, melatonin, ramelteon, tacrine, tizanidin, teofilin) eş zamanlı
+kullanımı önerilmemektedir. Eş zamanlı uygulamadan kaçınılamıyorsa, vemurafenib
+CYP1A2 susbtratı ilaçların plazma maruziyetini artırabileceği için dikkat edilmelidir. Klinik
+açıdan endike ise eş zamanlı CYP1A2 substratı ilacın dozunda azaltma düşünülebilir.
+Vemurafenibin eş zamanlı uygulanması kafeinin (CYP1A2 substratı) plazma maruziyetini
+(EAA) 2,6 kat artırmıştır. Bir diğer klinik çalışmada vemurafenib 2 mg dozda tizanidinin
+(CYP1A2 substratı) C ve EAA değerini sırasıyla yaklaşık 2,2 kat ve 4,7 kat artırmıştır.
+maks
+Vemurafenibin dar terapötik pencereye sahip CYP3A4 ile metabolize edilen ajanlarla
+eşzamanlı kullanımı önerilmez. Eş zamanlı uygulamadan kaçınılamıyorsa, vemurafenibin
+CYP3A4 substratlarının plazma konsantrasyonlarını azaltabileceği ve böylece bunların
+etkililiklerinin bozulabileceği akılda bulundurulmalıdır. Bu temelde, vemurafenib ile
+eşzamanlı olarak kullanılan CYP3A4 ile metabolize edilen doğum kontrol haplarının etkililiği
+azalabilir. Klinik açıdan endike ise dar terapötik pencereye sahip CYP3A4 substratları için
+doz ayarlamaları düşünülebilir (bkz. Bölüm 4.4 ve 4.6). Bir klinik çalışmada, vemurafenibin
+eşzamanlı uygulanması midazolamın (CYP3A4 substratı) EAA’sını ortalama %39 azaltmıştır
+(maksimum azalma %80’e varmıştır).
+In vitro 10 mikromolar vemurafenib konsantrasyonunda, CYP2B6’nın hafif indüksiyonu
+kaydedilmiştir. Hastalarda kararlı durumda (yaklaşık 50 mikrog/mL) gözlenen 100
+mikromolarlık plazma düzeyinde vemurafenibin eş zamanlı uygulanan bupropiyon gibi
+CYP2B6 substratlarının plazma konsantrasyonlarını azaltıp azaltmadığı bilinmemektedir.
+- 8 -ZELBORAF’ın eş zamanlı kullanımı S-varfarin (CYP2C9 substratı) EAA’sını %18
+artırmıştır. Varfarin ile birlikte ZELBORAF kullanıldığında, dikkatli olunmalı ve ilave INR
+(uluslararası normalize oran) monitorizasyonu değerlendirilmelidir (Bkz. Bölüm 4.4).
+Vemurafenib CYP2C8’i in vitro ortamda orta şiddette inhibe etmiştir. Bu bulgunun in vivo
+ilgisi bilinmemekle birlikte, eş zamanlı olarak uygulanan CYP2C8 substratları üzerinde klinik
+açıdan ilgili bir etki riski göz ardı edilemez. Dar terapötik pencereye sahip CYP2C8
+substratları eş zamanlı uygulanırken, vemurafenib bunların konsantrasyonlarını artırabileceği
+için dikkat edilmelidir.
+Vemurafenibin uzun yarılanma ömrü nedeniyle, eş zamanlı uygulanan tıbbi ürün üzerinde
+vemurafenibin tam inhibitör etkisi, vemurafenib tedavisinde 8 günden önce gözlenmeyebilir.
+Vemurafenib tedavisi sonlandırıldıktan sonra, izleyen tedaviyle etkileşimin önlenmesi için 8
+günlük bir arınma dönemi gerekli olabilir.
+Radyasyon tedavisi
+Vemurafenib alan hastalarda radyasyon tedavisi toksisitesinin potansiyalizasyonu
+bildirilmiştir (bkz. Bölüm 4.4 ve 4.8). Vakaların büyük bölümünde, hastalara 2 Gy/gün veya
+daha yüksek radyasyon rejimi (hipofraksiyone rejimler) uygulanmıştır.
+Vemurafenibin madde transport sistemleri üzerindeki etkileri
+In vitro çalışmalar, vemurafenibin P-glikoprotein (P-gp) ve meme kanseri direnç proteini
+(BCRP) efluks taşıyıcıların bir inhibitörü olduğunu göstermiştir.
+Klinik bir ilaç etkileşim çalışmasında vemurafenibin çoklu oral dozlarının (günde iki kez 960
+mg), P-gp substratı digoksinin tekli oral dozuna ait maruziyeti digoksin EAA için yaklaşık
+son
+1,8 kat ve C için yaklaşık 1,5 kat arttırdığı gösterilmiştir.
+maks
+P-gp substratlarıyla (örn. aliskiren, ambrisentan, kolşisin, dabigatran eteksilat, digoksin,
+everolimus, feksofenadin, lapatinib, maravirok, nilotinib, posakonazol, ranolazin, sirolimus,
+sitagliptin, talinolol, topotekan) eşzamanlı olarak vemurafenib dozları uygulanırken dikkatli
+olunmalıdır ve klinik açıdan gerekliyse, eşzamanlı tıbbi ürün dozunun azaltılması
+düşünülebilir. Dar terapötik indeksi (NTI) olan P-gp substratı tıbbi ürünler (örn. digoksin,
+dabigatran eteksilat, aliskiren) için ilaç düzeylerinin ilave izlemi göz önünde
+bulundurulmalıdır (bkz. Bölüm 4.4).
+Vemurafenibin, BCRP substratı olan ilaçlar üzerindeki etkileri bilinmemektedir.
+Vemurafenibin, BCRP tarafından taşınan (metotreksat, mitoksantron, rosuvastatin gibi)
+ilaçların düzeyini artırabileceği göz ardı edilemez.
+Kanser ilaçlarının çoğu BCRP substratıdır ve bu nedenle ZELBORAF ile etkileşim riski söz
+konusu olabilir.
+Vemurafenibin diğer taşıyıcıların üzerindeki olası etkisi henüz bilinmemektedir.
+Eş zamanlı uygulanan ilaçların vemurafenib üzerindeki etkileri
+In vitro çalışmalar, vemurafenib metabolizmasından CYP3A4’ün ve glukuronidasyonun
+sorumlu olduğunu göstermektedir. Safradan atılımın bir diğer önemli eliminasyon yolu
+olduğu düşünülmektedir. In vitro çalışmalar vemurafenibin, dışa akış taşıyıcıları P-gp ve
+- 9 -BCRP’nin bir substratı olduğunu göstermiştir. Vemurafenibin diğer taşıyıcı proteinler için de
+bir substrat olup olmadığı henüz bilinmemektedir. Güçlü CYP3A4 inhibitörleri veya
+indükleyicileri veya taşıyıcı protein aktivitesi inhibitörleri/indükleyicisinin eşzamanlı
+uygulanması vemurafenib konsantrasyonlarını değiştirebilir.
+Güçlü bir CYP3A4/Pgp inhibitörü olan itrakonazolün birlikte uygulanması kararlı durum
+vemurafenib EAA’yı yaklaşık olarak %40 arttırmıştır. Vemurafenib, CYP3A4’ün,
+glukuronidasyonun ve/veya taşıyıcı proteinlerin güçlü inhibitörleriyle (örn. ritonavir,
+sakuinavir, telitromisin, ketokonazol, itrakonazol, vorikonazol, posakonazol, nefazodon,
+atazanavir) kombinasyon halinde kullanılırken dikkatli olunmalıdır. Bu tür ajanlarla birlikte
+tedavi edilen hastalar, klinik olarak belirtilmişse, uygulanan güvenlilik ve doz değişiklikleri
+açısından dikkatle izlenmelidir (bkz. Bölüm 4.2, Tablo 1).
+Bir klinik çalışmada, tek doz 960 mg vemurafenib, rifampisin ile birlikte uygulanmış ve
+vemurafenibin plazma maruziyeti yaklaşık olarak % 40 düşmüştür.
+P-gp, glukuronidasyon ve/veya CYP3A4’ün güçlü indükleyicileriyle (örn. rifampisin,
+rifabutin, karbamazepin, fenitoin veya St. John’s Wort [Hypericum perforatum]) eş zamanlı
+uygulama, vemurafenibin optimumdan düşük düzeyine neden olabilir ve bu durumdan
+kaçınılmalıdır.
+Güçlü CYP3A4 inhibitörleri olmayan P-gp ve BCRP inhibitörlerinin etkileri bilinmemektedir.
+Vemurafenib farmakokinetiğinin P-gp (örn. verapamil, siklosporin, kinidin) veya BCRP (örn.
+siklosporin, gefitinib) üzerinde etki eden bu tür ilaçlardan etkilenebileceği göz ardı edilemez.
+Özel popülasyonlara ilişkin ek bilgiler
+Herhangi bir etkileşim çalışması yapılmamıştır.
+Pediyatrik popülasyon:
+Herhangi bir etkileşim çalışması yapılmamıştır.
+4.6. Gebelik ve laktasyon
+Genel tavsiye
+Gebelik kategorisi: D
+Çocuk doğurma potansiyeli bulunan kadınlar / Doğum kontrolü (Kontrasepsiyon)
+Çocuk doğurma potansiyeli bulunan kadınlar tedavi boyunca ve tedaviden sonra en az 6 ay
+boyunca etkili kontrasepsiyon yöntemi kullanmalıdır.
+Vemurafenib, hormonal kontraseptiflerin etkililiğini azaltabilir (bkz. Bölüm 4.5).
+Gebelik dönemi
+Vemurafenibin gebe kadınlarda kullanımıyla ilgili veri bulunmamaktadır.
+Vemurafenib, sıçan veya tavşan embriyolarında/fetüslerinde teratojenite kanıtı göstermemiştir
+(bkz. Bölüm 5.3).
+Hayvanlarda yapılan çalışmalarda, vemurafenibin plasentayı geçtiği belirlenmiştir. Etki
+mekanizmasına dayanarak, ZELBORAF hamile kadınlara uygulandığında fetal zararlar
+- 10 -verebilir. ZELBORAF, anneye sağladığı olası yararlar fetüs üzerindeki olası riskten fazla
+olmadıkça gebe kadınlara uygulanmamalıdır.
+Laktasyon dönemi
+Vemurafenibin anne sütüne geçip geçmediği bilinmemektedir. Yenidoğanlar/bebekler
+üzerindeki risk göz ardı edilemez. Emzirmenin sonlandırılması veya ZELBORAF tedavisinin
+sonlandırılması ile ilgili karar verilirken, çocuğun emzirilmesiyle sağlanan yarar ile tedavinin
+kadına sağladığı yarar dikkate alınmalıdır.
+Üreme yeteneği/Fertilite
+Fertilite üzerindeki etkiyi değerlendirmek amacıyla hayvanlarda vemurafenib ile ilgili spesifik
+çalışma yapılmamıştır. Bununla birlikte, sıçanlarda ve köpeklerde yapılan tekrarlı doz
+toksisitesi çalışmalarında, erkek ve dişi üreme organları üzerinde histopatolojik bulgu
+saptanmamıştır (bkz. Bölüm 5.3).
+4.7. Araç ve makine kullanımı üzerindeki etkiler
+ZELBORAF’ın araç ve makine kullanımı üzerinde minör etkisi bulunmaktadır. Hastalar, araç
+kullanımına engel olabilecek potansiyel yorgunluk veya göz sorunları hakkında
+bilgilendirilmelidirler.
+4.8. İstenmeyen etkiler
+Güvenlilik profilinin özeti
+ZELBORAF ile bildirilen en yaygın advers ilaç reaksiyonları (AİR) (>%30); artralji,
+yorgunluk, döküntü, fotoduyarlılık reaksiyonu, alopesi, bulantı, diyare, başağrısı, kaşıntı,
+kusma, deri papillomu ve hiperkeratozu içerir. En çok bildirilen Derece 3 AİR’ler (%≥ 5)
+kSHK, keratoakantom, döküntü, artralji ve gamma-glutamiltransferaz (GGT) artışıdır. kSHK
+çoğunlukla lokal eksizyon yoluyla tedavi edilmiştir.
+Advers reaksiyonların özeti
+Melanomlu hastalarda bildirilen AİR’ler, MedDRA vücut sistemi organ sınıfına, sıklığa ve
+şiddet derecesine göre aşağıda listelenmiştir. Sıklığın sınıflandırılmasında aşağıdaki kural
+kullanılmıştır:
+Çok yaygın (≥1/10), yaygın (≥1/100 ila <1/10), yaygın olmayan (≥1/1.000 ila <1/100), seyrek
+(≥1/10.000 ila <1/1.000), çok seyrek (<1/10.000), bilinmiyor (eldeki verilerden hareketle
+tahmin edilemiyor).
+Bu bölümde AİR’ler; BRAF V600 mutasyonu pozitif bulunup cerrahi olarak çıkarılamayan
+veya metastatik melanomu bulunan yetişkin hastalarda yapılan bir faz III randomize açık
+etiketli çalışmadan ve yanısıra, daha önce uygulanan en az bir sistemik tedavinin başarısız
+olduğu BRAF V600 mutasyonu pozitif bulunan metastatik melanomlu hastalarda yapılan bir
+faz II tek kollu çalışmadan elde edilen 468 hastaya ait bulgulara dayanmaktadır (bkz. bölüm
+5.1). Ek olarak tüm klinik çalışmalardan elde edilen güvenlilik raporlarından ve pazarlama
+sonrası kaynaklardan alınan AİR’ler de raporlanmıştır. Belirtilen tüm terimlerde, faz II ve faz
+III klinik çalışmalarda gözlenen en yüksek oran temel alınmıştır. Her sıklık grubunda AİR’ler,
+azalan şiddete göre sunulmaktadır ve toksisite değerlendirmesine yönelik NCI-CTCAE v4.0
+(ortak toksisite kriterleri) kullanılarak bildirilmiştir.
+- 11 -ZELBORAF ile tedavi edilen hastalarda ortaya çıkan ve Faz II veya Faz III
+çalışmalardan ve tüm klinik çalışmalardaki güvenlilik raporlarından(1) ve pazarlama
+sonrası kaynaklardan(2) bildirilen AİR’ler
+Enfeksiyonlar ve enfestasyonlar
+Yaygın : Folikülit
+(Kist ve polipler de dahil olmak üzere) iyi huylu ve kötü huylu neoplazmalar
+Çok yaygın : Deride SHK(d), keratoakantom, seboreik keratoz, deri papillomu
+Yaygın : Bazal hücreli karsinom, yeni primer melanom(3)
+Yaygın olmayan : Kutanöz olmayan skuamöz hücreli karsinom (koSHK(1)(3))
+Seyrek : Kronik myelomonositik lösemi(2)(4), pankreatik adenokarsinom(5)
+Kan ve lenf sistem hastalıkları
+Yaygın : Nötropeni, trombositopeni(6)
+Bağışıklık sistemi hastalıkları
+Seyrek : Sarkoidoz(1)2)(j)
+Metabolizma ve beslenme hastalıkları
+Çok yaygın : İştah azalması
+Sinir sistemi hastalıkları
+Çok yaygın : Baş ağrısı, disguzi (tat alma bozukluğu), baş dönmesi
+Yaygın : 7. fasyal sinir paralizisi, periferik nöropati
+Göz hastalıkları
+Yaygın : Üveit
+Yaygın olmayan : Retinal ven oklüzyonu, iridosiklit
+Vasküler hastalıklar
+Yaygın : Vaskülit
+Solunum, göğüs bozuklukları ve mediastinal hastalıklar
+Çok yaygın : Öksürük
+Gastrointestinal hastalıklar
+Çok yaygın : İshal, kusma, bulantı, kabızlık
+Yaygın : Stomatit
+Yaygın olmayan : Pankreatit(2)
+Hepato-bilier hastalıklar
+Yaygın olmayan : Karaciğer hasarı(1)2)(g)
+Deri ve deri altı doku hastalıkları
+Çok yaygın : Fotoduyarlılık reaksiyonu, aktinik keratoz, döküntü, makülo-papüler
+döküntü, kaşıntı, hiperkeratoz, eritem, palmar-plantar eritrodizestesi
+sendromu, alopesi, cilt kuruluğu, güneş yanığı
+Yaygın : Papüler döküntü, pannikülit (eritema nodosum dahil), keratozis pilaris,
+aftoz ülser, ağız ülserasyonu
+- 12 -Yaygın olmayan : Toksik epidermal nekroliz(e), Stevens-Johnson sendromu(f)
+Seyrek : Eozinofili ve sistemik semptomlar ile seyreden ilaç döküntüsü(1)(2)
+Kas-iskelet bozuklukları, bağ doku ve kemik hastalıkları
+Çok yaygın : Artralji, miyalji, ekstremite ağrısı, kas-iskelet ağrısı, sırt ağrısı
+Yaygın : Artrit
+Yaygın olmayan : Plantar fasiyal fibromatoz(1)(2), Dupuytren Kontraktürü(1)(2)
+Böbrek ve idrar yolu hastalıkları
+Seyrek : Akut interstisyel nefrit(1)(2)(h), akut tübüler nekroz(1)(2)(h)
+Genel bozukluklar ve uygulama bölgesine ilişkin hastalıklar
+Çok yaygın : Yorgunluk, ateş, periferik ödem, asteni
+Araştırmalar
+Yaygın : ALT yükselmesi(c), alkalen fosfataz yükselmesi(c), AST yükselmesi(c),
+bilirubin yükselmesi(c), GGT yükselmesi(c) kilo kaybı, elektrodiyagram
+QT uzaması, kan kreatinin seviyesinde yükselme(1)(2)(h)
+Yaralanma ve zehirlenme
+Yaygın : Radyasyon toksisitesinin potansiyalizasyonu(1)(2)(i)
+(1) Tüm çalışmalarda güvenlilik raporlarından elde edilen olaylar
+(2) Pazarlama sonrası kaynaklardan elde edilen olaylar
+(3) Tıbbi ürün ve advers olay arasında nedensel ilişki en azından makul olasılık taşır
+(4) Önceden mevcut, NRAS mutasyonu olan kronik miyelomonositik löseminin progresyonu
+(5) Önceden mevcut, KRAS mutasyonu olan pankreatik adenokarsinomun progresyonu
+(6) Faz II ve Faz III çalışmalara göre hesaplanmıştır
+Seçilmiş advers reaksiyonlara ilişkin açıklama
+Karaciğer enzimlerinde yükselme (c)
+Faz III klinik çalışmada bildirilen karaciğer enzimi anormallikleri, bazal durumdan Derece 3
+veya 4 enzim anormalliklerine değişen hastaların oranları şeklinde aşağıda verilmektedir:
+• Çok yaygın: GGT
+• Yaygın: ALT, alkalen fosfataz, bilirubin
+• Yaygın olmayan: AST
+Derece 4’e ALT, alkalen fosfataz veya bilirubin yükselmeleri olmamıştır.
+Karaciğer hasarı (g)
+Klinisyen ve bilim adamlarından oluşan uluslararası uzman çalışma grubu tarafından
+geliştirilen, ilaç kaynaklı karaciğer hasarına dayalı bir kritere göre, karaciğer hasarı aşağıdaki
+laboratuvar anormalliklerinden herhangi biri olarak tanımlanmıştır:
+• ALT ≥5x Normal Üst Limit
+• ALP ≥2x Normal Üst Limit (ALP yükselmesi için başka sebep bulunmaksızın)
+• ALT ≥3x Normal Üst Limit ile eş zamanlı bilirubin konsantrasyonunda >2x Normal
+Üst Limit artışı
+Kutanöz skuamöz hücreli karsinom (d) (kSHK)
+- 13 -Vemurafenib ile tedavi edilen hastalarda kSHK vakaları bildirilmiştir. Çalışmalarda,
+ZELBORAF uygulanan hastalarda kSHK insidansı yaklaşık olarak %20 olmuştur. Bağımsız
+bir merkezi dermatopatoloji laboratuvarı tarafından değerlendirilen eksize lezyonların büyük
+bölümü SHK-keratoakantom alt tipi olarak veya mikst keratoakantom özelliklerine sahip
+olarak sınıflandırılmıştır (%52). “Diğer” olarak sınıflandırılan çoğu lezyon (%43) benign deri
+lezyonları olmuştur (örn. verruca vulgaris, aktinik keratoz, benign keratoz, kist/benign kist).
+kSHK, ilk kez görülene kadar geçen medyan süre 7 ila 8 hafta olmak üzere, genellikle
+tedavinin erken aşamasında oluşmuştur. CuSCC oluşan hastaların yaklaşık %33’ünde kSHK
+>1 kez meydana gelmiş ve arada geçen medyan süre 6 hafta olmuştur. kSHK vakaları tipik
+olarak basit eksizyonla kontrol altına alınmış ve hastalar genellikle doz modifikasyonu
+olmaksızın tedaviye devam etmiştir (bkz. Bölüm 4.2 ve 4.4).
+Kutanöz olmayan skuamöz hücreli karsinom (koSHK)
+Klinik çalışmalarda vemurafenib ile tedavi edilen hastalarda koSHK vakaları bildirilmiştir.
+Kutanöz olmayan skuamöz hücreli karsinomun izlemi, Bölüm 4.4’te belirtildiği gibi
+yapılmalıdır.
+Yeni primer melanom
+Klinik çalışmalarda yeni primer melanomlar bildirilmiştir. Bu vakalar, eksizyon ile kontrol
+altına alınmış ve hastalar doz ayarlaması olmaksızın tedaviye devam etmiştir. Deri
+lezyonlarının izlemi, Bölüm 4.4’te belirtildiği gibi yapılmalıdır.
+Radyasyon toksisitesinin potansiyalizasyonu
+Bildirilen vakalar, anımsatma fenomeni, radyasyona bağlı deri hasarı, radyasyon pnömoniti,
+radyasyon özofajiti, radyasyon proktiti, radyasyon hepatiti, radyasyon sistiti ve radyasyon
+nekrozunu içermektedir.
+Vemurafenib ile tedavi edilen hastalarda faz III klinik çalışmada (MO25515, N=3219), tedavi
+öncesinde ve tedavi sırasında radyasyon alan hastalarda (%9,1), vemurafenib ile birlikte
+radyasyon alan hastalara (%5,2) veya tedavi öncesinde radyasyon alan hastalara (%1,5)
+kıyasla daha yüksek radyasyon toksisitesi potansiyalizasyonu insidansı bildirilmiştir.
+Aşırı duyarlılık reaksiyonları (e)
+ZELBORAF’la ilişkili olarak anafilaksi dahil ciddi aşırı duyarlılık reaksiyonları bildirilmiştir.
+Şiddetli aşırı duyarlılık reaksiyonları; Stevens-Johnson sendromunu, jeneralize döküntüyü,
+eritemi veya hipotansiyonu içerebilir. Şiddetli aşırı duyarlılık reaksiyonları oluşan hastalarda
+ZELBORAF tedavisi kalıcı olarak sonlandırılmalıdır (bkz. Bölüm 4.4).
+Dermatolojik reaksiyonlar (f)
+ZELBORAF alan hastalarda, pivotal klinik çalışmalarda oluşan nadir Stevens-Johnson
+sendromu ve toksik epidermal nekroliz vakaları dahil, şiddetli dermatolojik reaksiyonlar
+bildirilmiştir. Şiddetli dermatolojik reaksiyonlar oluşan hastalarda ZELBORAF tedavisi kalıcı
+olarak sonlandırılmalıdır.
+QT uzaması
+Günde iki kez 960 mg ZELBORAF uygulanan 132 hastada yapılan açık etiketli, kontrollü
+olmayan bir faz II QT alt çalışmasından (NP22657) elde edilen merkezileştirilmiş EKG
+verilerinin analizi, vemurafenib düzeyine bağlı QTc uzaması olduğunu göstermiştir. Ortalama
+QTc etkisi, tedavinin ilk ayından sonra 12-15 msn arasında sabit kalmıştır ve en büyük
+ortalama QTc uzaması (15,1 msn; üst %95 GA: 17,7 msn) ilk 6 ay içinde gözlenmiştir (n=90
+- 14 -hasta). İki hastada (%1,5) tedaviyle >500 msn değerlerinde mutlak QTc oluşmuştur (CTC
+Derece 3) ve yalnızca bir hastada (%0,8) başlangıca göre >60 msn’lik QTc değişimi
+görülmüştür (bkz. Bölüm 4.4).
+Akut böbrek hasarı (h)
+Vemurafenib ile kreatinin seviyesi yükselmelerinden akut interstisyel nefrite ve akut tübüler
+nekroza kadar değişebilen ve bazıları dehidratasyon durumunda oluşan renal toksisite vakaları
+gözlenmiştir. Serum kreatinin yükselmeleri çoğunlukla hafiften (normal üst limitin >1-1,5
+katı) ortaya (normal üst limitin >1,5-3 katı) ve geri dönüşlü olarak seyretmiştir (bkz. Tablo
+3).
+Tablo 3: Faz III çalışmada başlangıca göre kreatinin değişimleri
+Vemurafenib Dakarbazin
+(%) (%)
+Başlangıçtan herhangi bir dereceye en az 1 27,9 6,1
+derece değişim
+Başlangıçtan 3. veya daha yüksek dereceye en az 1,2 1,1
+1 derece değişim
+• Derece 3’e 0,3 0,4
+• Derece 4’e 0,9 0,8
+Tablo 4: Faz III çalışmada akut böbrek hasarı olguları
+Vemurafenib Dakarbazin
+(%) (%)
+Akut böbrek hasarı olguları* 10 1,4
+Dehidratasyon olaylarıyla ilişkili akut böbrek
+5,5 1
+hasarı olguları
+Akut böbrek hasarı için doz modifikasyonu 2,1 0
+Tüm yüzdeler, her tıbbi ürüne maruz kalan toplam hastalara göre olgular olarak ifade edilmektedir.
+* Akut böbrek hasarı, böbrek yetmezliği ve akut böbrek hasarıyla tutarlı laboratuvar değişimlerini içerir.
+Sarkoidoz (j)
+Vemurafenib ile tedavi edilen hastalarda, çoğunlukla deri, akciğer ve gözde tutulma gösteren
+sarkoidoz vakaları bildirilmiştir. Vakaların çoğunda, vemurafenibe devam edilmiştir ve
+sarkoidoz olayları düzelmiş ya da devam etmiştir.
+Özel popülasyonlara ilişkin ek bilgiler
+Geriyatrik popülasyon:
+Faz III çalışmada, ZELBORAF tedavisi uygulanan cerrahi olarak çıkarılamayan veya
+metastatik melanomlu 336 hastadan 94’ü (%28) ≥65 yaşındadır. Yaşlı hastalarda (≥65 yaş)
+kSHK, iştah azalması ve kardiyak hastalıklar dahil advers reaksiyonların oluşma olasılığı
+daha yüksektir.
+Pediyatrik popülasyon:
+Çocuklar ve adelosanlarda ZELBORAF’ın güvenliliği belirlenmemiştir. Altı adeloasan hasta
+ile yapılan çalışmada yeni bir güvenlilik sinyali gözlenmemiştir.
+Diğer:
+Cinsiyet:
+- 15 -ZELBORAF ile yapılan klinik çalışmalar sırasında, erkeklere göre kadınlarda daha sık
+bildirilen Derece 3 advers reaksiyonlar döküntü, artralji ve fotoduyarlılık olmuştur.
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi’ne (TÜFAM) bildirmeleri gerekmektedir (www.titck.gov.tr; e-
+posta: tufam@titck.gov.tr; tel: 0 800 314 00 08; faks:0 312 218 35 99).
+4.9. Doz aşımı ve tedavisi
+Vemurafenib doz aşımı için spesifik antidot bulunmamaktadır. Advers reaksiyonlar gelişen
+hastalara, uygun semptomatik tedavi uygulanmalıdır. Klinik çalışmalarda vemurafenib ile doz
+aşımı vakaları gözlenmemiştir. Şüpheli doz aşımı durumunda, vemurafenib tedavisi
+durdurulmalı ve destek tedavisi başlatılmalıdır.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1. Farmakodinamik özellikler
+Farmakoterapötik grup: Antineoplastik ajanlar, protein kinaz inhibitörleri, B-Raf serin-treonin
+kinaz (BRAF) inhibitörleri
+ATC kodu: L01EC01
+Etki mekanizması ve farmakodinamik etkiler:
+Vemurafenib, BRAF serin-treonin kinazın bir inhibitörüdür. BRAF genindeki mutasyonlar,
+BRAF proteinlerinin yapısal aktivasyonuna yol açar ve bu da, ilişkili büyüme faktörleri
+olmaksızın hücre proliferasyonuna neden olabilir.
+Biyokimyasal ölçümlerde elde edilen klinik öncesi veriler, vemurafenibin aktive edici kodon
+600 mutasyonları olan BRAF kinazları kuvvetli şekilde inhibe edebildiğini göstermiştir (bkz.
+Tablo 5).
+Tablo 5: Vemurafenibin farklı BRAF kinazlara karşı kinaz inhibitör aktivitesi
+Kinaz V600 mutasyon-pozitif melanomda İnhibitör Konsantrasyon 50
+beklenen sıklık (t) (nM)
+BRAFV600E %87,3 10
+BRAFV600K %7,9 7
+BRAFV600R %1 9
+BRAFV600D <%0,2 7
+BRAFV600G <%0,1 8
+BRAFV600M <%0,1 7
+BRAFV600A <%0,1 14
+BRAFWT Geçerli değil 39
+(t) COSMIC veri tabanında (sürüm 71, Kasım 2014) BRAF kodon 600 mutasyonları olduğu açıklanan 16.403
+melanomdan hesaplanmıştır
+- 16 -Bu inhibitör etki, V600-mutant BRAF eksprese eden mevcut melanom hücre serilerinde
+yapılan ERK fosforilasyon ve hücresel anti-proliferasyon tayinlerinde doğrulanmıştır.
+Hücresel anti-proliferasyon tayinlerinde, V600 mutasyonlu hücre serilerinde (V600E, V600R,
+V600D ve V600K mutasyonlu hücre serileri) karşı inhibitör konsantrasyon (IC ) 0,016 ila
+50
+1,131 mikromolar arasında olurken, BRAF wild-tip hücre serilerine karşı IC sırasıyla 12,06
+50
+ve 14,32 mikromolar olmuştur.
+BRAF mutasyon durumunun saptanması
+Vemurafenib almadan önce, geçerli bir test yoluyla hastaların BRAF V600 mutasyon-pozitif
+tümör durumu doğrulanmalıdır. Faz II ve faz III klinik çalışmalarda, uygun hastalar gerçek
+zamanlı polimeraz zincir reaksiyonu (cobas 4800 BRAF V600 Mutasyon Testi) tayini
+kullanılarak belirlenmiştir. Bu test CE işareti taşımaktadır ve formalinle fikse edilen, parafine
+gömülü (FFPE) tümör dokusundan izole edilen DNA’nın BRAF mutasyon durumunu
+değerlendirmek için kullanılır. Baskın BRAF V600E mutasyonunu yüksek duyarlılıkla
+saptamak üzere tasarlanmıştır (FFPE ile elde edilen DNA’dan wild-tip dizilimi fonunda, %5’e
+kadar V600E dizilimi). Retrospektif dizilim analizlerinin yapıldığı klinik dışı ve klinik
+çalışmalar, bu testin ayrıca daha az yaygın olan BRAF V600D mutasyonlarını ve V600K
+mutasyonlarını daha düşük bir duyarlılıkla saptadığını göstermiştir. Klinik dışı ve klinik
+çalışmalardan sağlanan, gerçek zamanlı polimeraz zincir reaksiyonu tayini testiyle mutasyon-
+pozitif bulunan ve ek olarak sekans yoluyla analiz edilen numuneler arasında (n=920), Sanger
+ve 454 sekans yoluyla hiç bir numune wild-tip olarak belirlenmemiştir.
+Klinik etkililik ve güvenlilik
+Vemurafenibin etkililiği, bir faz III klinik çalışmadaki (NO25026) 336 hastada ve iki faz II
+klinik çalışmadaki (NP22657 ve MO25743) 278 hastada değerlendirilmiştir. Tüm hastaların,
+gerçek zamanlı polimeraz zincir reaksiyonu tayini testine göre BRAF V600 mutasyonları
+bulunan ileri evre melanom olması gerekmiştir.
+Daha önce tedavi uygulanmamış hastalarda yapılan Faz III çalışmanın (NO25026) bulguları:
+Açık etiketli, çok merkezli, uluslararası, randomize bir faz III çalışma, daha önce tedavi
+uygulanmamış BRAF V600E mutasyon-pozitif olup cerrahi olarak çıkarılamayan veya
+metastatik melanomlu hastalarda vemurafenibin kullanımını desteklemektedir. Hastalar,
+vemurafenib (günde iki kez 960 mg) veya dakarbazin (3 haftada bir 1. gün 1000 mg/m2) ile
+tedavi edilmek üzere randomize edilmiştir.
+Toplam 675 hasta vemurafenibe (n=337) veya dakarbazine (n=338) randomize edilmiştir.
+Hastaların çoğu erkek (%56) ve beyaz ırktandır (%99), medyan yaş 54’tür (%24’ü ≥65
+yaşındadır), tüm hastaların ECOG performans durumu 0 veya 1’dir ve hastaların büyük
+bölümünde M1c hastalık mevcuttur (%65). Çalışmanın ortak birincil etkililik sonlanım
+noktaları genel sağkalım (GS) ve progresyonsuz sağkalım (PS) olmuştur.
+Veri kesim tarihi 30 Aralık 2010 olmak üzere önceden belirlenen ara analizde, ortak birincil
+sonlanım noktaları GS’de (p<0,0001) ve PS’de (p<0,0001) (katmanlandırılmamış log-rank
+testi) anlamlı iyileşmeler gözlenmiştir. Veri Güvenlilik İzleme Kurulu’nun (DSMB)
+önerisiyle, bu bulgular Ocak 2011’de açıklanmış ve çalışma, dakarbazin hastalarının
+vemurafenibe geçmesine izin verilecek şekilde düzenlenmiştir. Daha sonra, Tablo 6’da
+açıklandığı gibi post-hoc sağkalım analizleri yapılmıştır.
+- 17 -Tablo 6: Çalışma veri kesim tarihine göre, önceden tedavi uygulanmamış BRAF V600
+mutasyon-pozitif melanomlu hastalarda genel sağkalım (N=338 dakarbazin, N=337
+vemurafenib)
+Veri kesim Tedavi Ölüm sayısı Tehlike Oranı (TO) Çaprazlama yapılan
+tarihleri (%) (%95 GA) (cross-over)
+hastaların sayısı
+(%)
+30 Aralık 2010 dakarbazin 75 (22) 0,37 (0,26 ; 0,55) 0 (uygulanabilir
+vemurafenib 43 (13) değil)
+31 Mart 2011 dakarbazin 122 (36) 0,44 (0,33 ; 0,59) (w) 50 (%15)
+vemurafenib 78 (23)
+3 Ekim 2011 dakarbazin 175 (52) 0,62 (0,49 ; 0,77) (w) 81 (%24)
+vemurafenib 159 (47)
+1 Şubat 2012 dakarbazin 200 (59) 0,7 (0,57 ; 0,87) (w) 83 (%25)
+vemurafenib 199 (59)
+20 Aralık 2012 dakarbazin 236 (70) 0,78 (0,64 ; 0,94) (w) 84 (%25)
+vemurafenib 242 (72)
+(w) Çaprazlama (Cross-over) sırasında sansürlenen bulgular
+Çaprazlama (Cross-over) sırasında sansürlenmeyen bulgular: 31 Mart: TO (%95 GA) = 0,47 (0,35, 0,62); 3
+Ekim: TO (%95 GA) = 0,67 (0,54, 0,84); 1 Şubat: TO (%95 GA)= 0,76 (0,63, 0,93); 20 Aralık 2012: TO (%95
+GA)= 0,79 (0,66, 0,95)
+Şekil 1: Genel sağkalıma ilişkin Kaplan-Meier eğrileri – önceden tedavi uygulanmamış
+hastalar (veri kesim tarihi 20 Aralık 2012)
+Tablo 7, prognostik faktörler olarak yayımlanan önceden belirlenmiş tüm sınıflandırma
+değişkenleri için tedavi etkisini göstermektedir.
+Tablo 7: LDH’ye, tümör evresine ve ECOG durumuna göre, önceden tedavi
+uygulanmamış BRAF V600 mutasyonu pozitif olan melanomlu hastalarda genel
+- 18 -sağkalım (post-hoc analizi, veri kesim tarihi 20 Aralık 2012, cross-over sırasında
+sansürlenen bulgular)
+Sınıflandırma değişkeni N Tehlike Oranı %95 Güven Aralığı
+LDH normal 391 0,88 0,67 ; 1,16
+LDH > Normal üst limit 284 0,57 0,44 ; 0,76
+Evre IIIc/M1A/M1B 234 1,05 0,73 ; 1,52
+Evre M1C 441 0,64 0,51 ; 0,81
+ECOG PS=0 459 0,86 0,67 ; 1,1
+ECOG PS=1 216 0,58 0,42 ; 0,9
+LDH: Laktat Dehidrojenaz, ECOG PS: Doğu Ortak Onkoloji Grubu Performans Durumu
+Tablo 8, önceden tedavi uygulanmamış BRAF V600 mutasyon-pozitif melanomlu hastalarda
+genel yanıt oranını ve progresyonsuz sağkalımı göstermektedir.
+Tablo 8: Önceden tedavi uygulanmamış BRAF V600 mutasyon-pozitif melanomlu
+hastalarda genel yanıt oranı ve progresyonsuz sağkalım
+ZELBORAF Dakarbazin p-değeri (x)
+Veri kesim tarihi 30 Aralık 2010 (y)
+Genel Yanıt Oranı %48,4 %5,5
+(95% GA) (%41,6 ; %55,2) (%2,8 ; %9,3) <0,0001
+Progresyonsuz Sağkalım
+Tehlike Oranı 0,26
+(95% GA) (0,20 ; 0,33) <0,0001
+Olay sayısı (%) 104 (%38) 182 (%66)
+Ortalama Progresyonsuz
+Sağkalım (ay) 5,32 1,61
+(95% GA) (4,86 ; 6,57) (1,58 ; 1,74)
+Veri kesim tarihi 1 Şubat 2012(z)
+Progresyonsuz Sağkalım
+Tehlike Oranı 0,38
+(95% GA) (0,32 ; 0,46) <0,0001
+Olay sayısı (%) 277 (%82) 273 (%81)
+Ortalama Progresyonsuz
+Sağkalım (ay) 6,87 1,64
+(95% GA) (6,14 ; 6,97) (1,58 ; 2,07)
+(x) Genel Yanıt Oranı için Progresyonsuz Sağkalım ve Chi-kare testi için onaylanmamış log-rank testi.
+(y) 30 Aralık 2010 itibariyle toplam 549 hasta Progresyonsuz Sağkalım için ve 439 hasta Genel Yanıt Oranı için
+değerlendirilebilmiştir.
+(z) 01 Şubat 2012'den itibaren, Progresyonsuz Sağkalım post-hoc analiz güncellemesi için toplam 675 hasta
+değerlendirilebilmiştir.
+NO25026’da, tümörleri retrospektif sekans yoluyla analiz edilen 673 hastadan toplam 57
+hastanın BRAF V600K mutasyon-pozitif melanomu olduğu bildirilmiştir. Hasta sayısının az
+olması nedeniyle kısıtlanmasına karşın, V600K-pozitif tümörleri olan bu hastalarda yapılan
+etkililik analizleri GS, PS ve doğrulanmış en iyi genel yanıt açısından vemurafenibin tedavi
+yararını göstermiştir. V600E ve V600K dışındaki BRAF V600 mutasyonlara sahip
+melanomlu hastalara ilişkin veri bulunmamaktadır.
+Daha önce en az bir tedavinin başarısız olduğu hastalarda yapılan faz II çalışmanın
+(NP22657) bulguları:
+- 19 -Gerçek zamanlı polimeraz zincir reaksiyonu tayini testine göre BRAF V600E mutasyon-
+pozitif metastatik melanomu olan ve önceden en az bir tedavi uygulanmış 132 hastada faz II
+tek kollu, çok merkezli, çok uluslu bir çalışma yapılmıştır. Hastaların %19’u 65 yaşın
+üzerinde olmak üzere, medyan yaş 52’dir. Hastaların büyük bölümü erkektir (%61), beyaz
+ırktandır (%99) ve M1c hastalık mevcuttur (%61). Kırk dokuz hastada, daha önceki ≥2 tedavi
+başarısız olmuştur.
+12,9 aylık medyan takiple (0,6 ila 20,1 aralığı), bağımsız bir değerlendirme kurulu (IRC)
+tarafından değerlendirildiği üzere doğrulanmış en iyi genel yanıt oranı (Tam Yanıt + Kısmi
+Yanıt) şeklinde birincil sonlanım noktası %53 olmuştur (%95 GA: %44, %62). Medyan genel
+sağkalım 15,9 ay olmuştur (%95 GA: 11,6, 18,3). Genel sağkalım oranı, 6 ayda %77 (%95
+GA: %70, %85) ve 12 ayda %58 (%95 GA: %49, %67) olmuştur.
+NP22657’de yer alan 132 hastadan dokuzunda, retrospektif Sanger sekansa göre V600K
+mutasyon-pozitif tümörler belirlenmiştir. Bu hastalardan 3’ü Kısmi Yanıt, 3’ü SH (stabil
+hastalık) ve 2’si PH (progresif hastalık) elde etmiş, bir hasta değerlendirilememiştir.
+Beyin metastazları olan hastalarda faz II çalışmada (MO25743) elde edilen bulgular:
+BRAF V600 mutasyonu (cobas 4800 BRAF V600 Mutasyon Testine göre) bulunan ve beyin
+metastazları olan, histolojik olarak doğrulanmış metastatik melanom hastalarında tek kollu,
+çok merkezli bir vemurafenib çalışması (N = 146) yapılmıştır. Çalışma, eşzamanlı olarak
+kaydedilen iki kohort içermiştir:
+- Kohort 1, daha önce tedavi görmemiş olan hastaları içermiştir (N = 90): Daha önce
+beyin metastazları için tedavi almamış olan hastalar; daha önce metastatik melanom için
+sistemik tedavi almış olan hastaların dahil edilmesine izin verilmiştir (BRAF inhibitörleri ve
+MEK inhibitörleri hariç).
+- Kohort 2, daha önce tedavi görmüş olan hastaları içermiştir (N = 56): Daha önce
+beyin metastazları için tedavi almış olan ve bu tedaviden sonra progresyon görülen hastalar.
+Stereotaktik radyoterapi (SRT) ile ya da cerrahi yolla tedavi uygulanan hastalar için, bu
+önceki tedaviden sonra RECIST ile ölçülebilen yeni bir beyin lezyonunun gelişmiş olması şart
+koşulmuştur.
+Çalışmaya toplam 146 hasta alınmıştır. Hastaların büyük kısmının erkek (%61,6) ve Beyaz
+ırka mensup (%92,5) oldukları saptanmış ve medyan yaş 54 yıl (aralık: 26 ila 83 yıl) olarak
+bulunmuştur; iki kohort arasında benzer bir dağılım saptanmıştır. Her iki kohortta da
+başlangıçtaki hedef beyin lezyonlarının medyan sayısı 2 (aralık: 1 ila 5) olarak bulunmuştur.
+Çalışmanın birincil etkililik amacı, daha önce tedavi edilmemiş beyin metastazları olan
+metastatik melanom hastalarında Bağımsız İnceleme Komitesi tarafından yapılan
+değerlendirmeye göre beyindeki en iyi genel yanıt oranıdır (eGYO).
+İkincil amaçlar şunları içermiştir: daha önce tedavi almış olan hastalarda vemurafenibin
+beyindeki eGYO kullanılarak yapılan etkililik değerlendirmesi, yanıt süresi (YS),
+progresyonsuz sağkalım (PS) ve genel sağkalım (GS) (beyne metastaz yapmış melanomu olan
+hastalarda) (bkz. Tablo 9).
+Tablo 9: Vemurafenibin beyin metastazları olan hastalardaki etkililiği
+Kohort 1 Kohort 2 Toplam
+- 20 -Daha önce tedavi Daha önce tedavi
+görmemiş n = 90 görmüş n = 56 n = 146
+Beyindeki eGYO a
+Yanıt verenler 16 (%17,8) 10 (%17,9) 26 (%17,8)
+n (%)
+(%95 GA)b (10,5 ; 27,3) (8,9 ; 30,4) (12 ; 25)
+Beyindeki YSc (n = 16) (n = 10) (n = 26)
+(n) Medyan (ay) 4,6 6,6 5
+(%95 GA)d (2,9 ; 6,2) (2,8 ; 10,7) (3,7 ; 6,6)
+eGYO
+ekstrakraniyal 26 (32,9%) 9 (22,5%) 35 (29,4%)
+n (%)a
+PS - genel
+Medyan (ay)e 3,7 3,7 3,7
+(%95 GA)d (3,6 ; 3,7) (3,6 ; 5,5) (3,6 ; 3,7)
+PS - yalnızca beyin
+Medyan (ay)e 3,7 4 3,7
+(%95 GA)d (3,6 ; 4) (3,6 ; 5,5) (3,6 ; 4,2)
+GS
+Medyan (ay) 8,9 9,6 9,6
+(%95 GA)d (6,1 ; 11,5) (6,4 ; 13,9) (6,9 ; 11,5)
+a Bağımsız İnceleme Komitesi tarafından yapılan değerlendirmeye göre en iyi genel doğrulanmış yanıt oranı,
+yanıt verenlerin sayısı n (%)
+b İki yanlı %95 Clopper-Pearson Güven Aralığı (GA)
+c Bağımsız İnceleme Komitesi tarafından yapılan değerlendirmeye göre yanıt süresi
+d Kaplan-Meier tahmini
+e Araştırmacı tarafından değerlendirilmiştir
+Pediyatrik popülasyon
+Pediyatrik hastalarda Faz I çalışmasının sonuçları (NO25390)
+Evre IIIC veya IV BRAF V600 mutasyon pozitif melanomlu altı adolesan hastada
+vemurafenib kullanımını değerlendiren bir faz I doz-eskalasyon çalışması yapılmıştır. Tedavi
+edilen tüm hastalar en az 15 yaşında ve en az 45 kg ağırlığındadır. Üç hasta günde iki kez 720
+mg vemurafenib ile ve diğer üç hasta günde iki kez 960 mg vemurafenib ile tedavi edilmiştir.
+Maksimum tolere edilen doz belirlenememiştir. Geçici tümör regresyonları görülmesine
+rağmen, doğrulanmış yanıtlara göre en iyi genel yanıt oranı (eGYO)% 0 (%95 GA: %0, %46)
+olmuştur. Düşük sayıda kayıt nedeniyle çalışma sonlandırılmıştır. Pediyatrik kullanım
+hakkında bilgi için Bölüm 4.2'ye bakınız.
+5.2. Farmakokinetik özellikler
+Genel özellikler
+Biyofarmasötikleri Sınıflandırma Sistemi’nde (BCS) açıklanan kriterlere göre vemurafenib
+Sınıf IV bir maddedir (düşük çözünürlük ve permeabilite). Vemurafenib için farmakokinetik
+parametreler; faz I ve faz III çalışmalarda kompartmanlı olmayan analiz kullanılarak (günde
+iki kez 960 mg doz uygulaması yapılan 15 gün ardından 20 hasta ve 22. günde kararlı
+durumda olan 204 hasta) ve yanısıra, 458 hastaya ait toplu verilerin kullanıldığı popülasyon
+farmakokinetik analizi yoluyla belirlenmiştir. Bu hastalardan 457’si beyaz ırktandır.
+- 21 -Emilim:
+Vemurafenib 240 mg tabletin mutlak biyoyararlanımı bilinmemektedir. Vemurafenib, günde
+iki kez 960 mg dozda (dört adet 240 mg tablet), yaklaşık 4 saatlik medyan T ile
+maks
+emilmektedir. Vemurafenib, hastalar arasında büyük değişkenlik göstermektedir. Faz II
+çalışmada, 1. gündeki EAA ve C , sırasıyla 22,1 ± 12,7 mikrog·saat/mL ve 4,1 ± 2,3
+0-8 saat maks
+mikrog/mL olmuştur. Vemurafenibin günde iki kez çoklu doz uygulamasıyla birikme
+meydana gelir. Kompartmanlı olmayan analizde, günde iki kez 960 mg vemurafenib
+uygulamasından sonra kararlı durum koşullarında 15. gün / 1. gün oranı EAA için 15 ila 17
+kat ve C için 13 ila 14 kat aralığında olmuş ve EAA ve C , sırasıyla 380,2 ± 143,6
+maks 0-8 saat maks
+mikrog·saat/mL ve 56,7 ± 21,8 mikrog/mL olmuştur.
+Yiyecekler (fazla yağlı yemek) vemurafenibin 960 mg’lık tek dozunun bağıl
+biyoyararlanımını artırır. Tokluk ve açlık hali arasındaki geometrik ortalama oranlar C ve
+maks
+EAA için, sırasıyla 2,5 ve 4,6-5,1 katı olmuştur. Tek bir vemurafenib dozu yiyeceklerle
+birlikte alındığında medyan T 4 saatten 7,5 saate çıkmıştır.
+maks
+Yiyeceklerin kararlı durumda vemurafenib düzeyi üzerindeki etkisi şu an bilinmemektedir.
+Sürekli olarak aç karnına vemurafenib alımı, yemekle birlikte veya yemekten kısa bir süre
+sonra sürekli vemurafenib alımı ile kıyaslandığında anlamlı oranda daha düşük bir kararlı
+durum düzeyine yol açabilir. Bununla birlikte vemurafenibin ara sıra aç karnına alımının,
+kararlı durumda vemurafenibin yüksek düzeyde birikmesinden dolayı kararlı durum düzeyi
+üzerindeki etkisinin sınırlı olması beklenmektedir. Tek başına veya yiyeceklerle birlikte
+vemurafenib alan hastalardan pivotal çalışmalarda güvenlilik ve etkililik verileri toplanmıştır.
+Gastrointestinal sıvı içeriği, hacim, pH, motilite ve geçiş süresi ile safra bileşimindeki
+farklılıklara bağlı olarak da düzeylerde değişkenlik görülebilir.
+Kararlı durumda plazmadaki ortalama vemurafenib düzeyi, sabah dozundan önce ve sabah
+dozundan 2-4 saat sonra plazma konsantrasyonları arasındaki 1,13’lük ortalama oran ile
+gösterildiği gibi, 24 saatlik ara boyunca stabildir. Oral doz uygulamasının ardından metastatik
+melanom hastalarından oluşan popülasyon için emilim hızı sabiti 0,19 saat-1 (%101’lik
+hastalar arası değişkenlik ile) olarak tahmin edilmektedir.
+Dağılım:
+Metastatik melanomlu hastalarda vemurafenibin sanal dağılım hacmi 91 L olarak
+hesaplanmıştır (hastalar arası değişkenlik %64,8). In vitro, insan plazma proteinlerine yüksek
+oranda bağlıdır (>%99).
+Biyotransformasyon:
+Vemurafenibin ve metabolitlerinin görece oranları, oral yolla tek doz 14C-işaretli vemurafenib
+uygulanmasıyla insanlara ilişkin bir kütle denge çalışmasında belirlenmiştir. CYP3A4,
+vemurafenibin in vitro metabolizmasından sorumlu birincil enzimdir. İnsanlarda konjugasyon
+metabolitleri de (glukuronidasyon ve glikozilasyon) belirlenmiştir. Bununla birlikte,
+plazmadaki baskın bileşen (%95) ana bileşik olmuştur. Metabolizmanın, plazmada önemli
+miktarda metabolite yol açmadığı düşünülmektedir ancak atılım açısından metabolizmanın
+önemi göz ardı edilemez.
+Eliminasyon:
+- 22 -Metastatik melanomlu hastalarda, popülasyonda görünen vemurafenib klerensi 29,3 L/gün
+olarak hesaplanmıştır (hastalar arası değişkenlik %31,9). Vemurafenib için popülasyon PK
+analizi yoluyla hesaplanan popülasyon eliminasyon yarılanma ömrü 51,6 saattir (bireysel
+yarılanma ömrü tahminlerinin 5. ve 95. yüzdelik aralığı 29,8–119,5 saattir).
+İnsanlarda yapılan vemurafenibin oral yolla uygulandığı kütle denge çalışmasında, dozun
+ortalama %95’i 18 gün içinde atılmıştır. Vemurafenible ilişkili maddenin büyük bölümü
+(%94) dışkıda ve <%1’i idrarda belirlenmiştir. Değişikliğe uğramamış bileşiğin safra yoluyla
+atılımı önemli bir atılım yolu olabilir. Bununla birlikte, mutlak biyoyararlanımın bilinmemesi
+nedeniyle, ana bileşik vemurafenibin klerensi açısından hepatik ve renal atılımın önemi
+belirsizdir. Vemurafenib, P-gp’nin in vitro substratı ve inhibitörüdür.
+Doğrusallık / doğrusal olmayan durum:
+Vemurafenib farmakokinetiğinin, günde iki kez alınan 240 ila 960 mg arasında dozla orantılı
+olduğu gösterilmiştir, popülasyon farmakokinetik analizi de vemurafenib farmakokinetiğinin
+doğrusal olduğunu doğrulamaktadır.
+Hastalardaki karakteristik özellikler
+Yaşlı hastalar:
+Popülasyon farmakokinetik analizlerine göre, yaşın vemurafenib farmakokinetikleri üzerinde
+istatistiksel anlamlı bir etkisi bulunmamaktadır.
+Pediyatrik popülasyon:
+Evre IIIC veya IV BRAF V600 mutasyon pozitif melanomu olan 15 ile 17 yaşları arasındaki
+altı adolesan hastanın sınırlı farmakokinetik verileri, adolesonlarda vemurafenib
+farmakokinetik özelliklerinin genellikle erişkinlerdekilere benzer olduğunu
+düşündürmektedir. Pediyatrik kullanım hakkında bilgi için Bölüm 4.2'ye bakınız.
+Cinsiyet:
+Popülasyon farmakokinetik analizi, kadınlara kıyasla erkeklerde görünen klerensin (CL/F)
+%17 daha fazla ve sanal dağılım hacminin (V/F) %48 daha yüksek olduğunu göstermiştir.
+Buna cinsiyetin mi, yoksa vücut yüzey alanının mı etkisi olduğu bilinmemektedir. Bununla
+birlikte maruz kalınan miktardaki farklılıklar, vücut yüzey alanı veya cinsiyet temelinde doz
+ayarlaması gerektirecek kadar büyük olmamıştır.
+Böbrek yetmezliği:
+Metastatik melanomlu hastalarda yapılan klinik çalışmalara ait verilerin kullanıldığı
+popülasyon farmakokinetik analizinde, hafif ve orta düzeyde böbrek yetmezliği
+vemurafenibin sanal klerensini etkilememiştir (kreatinin klerensi >40 mL/dakika). Şiddetli
+böbrek yetmezliği olan hastalara ilişkin veri bulunmamaktadır (bkz. Bölüm 4.2 ve 4.4).
+Karaciğer yetmezliği:
+Klinik öncesi veriler ve insanlara ilişkin kütle denge çalışmasına dayanılarak, vemurafenibin
+büyük bölümü karaciğer yoluyla elimine edilmektedir. Metastatik melanomlu hastalarda
+yapılan klinik çalışmalara ait verilerin kullanıldığı popülasyon farmakokinetik analizinde,
+normal üst limitin üç katına kadar AST ve ALT yükselmeleri vemurafenibin sanal klerensini
+etkilememiştir. Karaciğerin metabolik veya itrah/atılım ile ilişkili yetmezliğinin vemurafenib
+farmakokinetikleri üzerindeki etkisini belirlemek açısından veriler yetersizdir (bkz. Bölüm 4.2
+ve 4.4).
+- 23 -5.3. Klinik öncesi güvenlilik verileri
+Vemurafenibin klinik öncesi güvenlilik profili sıçanlarda, köpeklerde ve tavşanlarda
+değerlendirilmiştir.
+Tekrarlı doz toksikoloji çalışmalarında, karaciğer ve kemik iliği köpeklerdeki hedef organlar
+olarak belirlenmiştir. Köpeklerde yapılan 13 haftalık bir çalışmada, beklenen klinik düzeyin
+(EAA karşılaştırmaları temelinde) altındaki ilaç düzeylerinde, karaciğerde geri döndürülebilir
+toksik etkiler (hepatoselüler nekroz ve dejenerasyon) kaydedilmiştir. Vemurafenibin günde iki
+kez uygulandığı, erken sonlandırılan 39 haftalık köpek çalışmasındaki bir köpekte, beklenen
+klinik düzeye (EAA karşılaştırmaları temelinde) benzer ilaç düzeylerinde fokal kemik iliği
+nekrozu kaydedilmiştir. In vitro kemik iliği sitotoksisite çalışmasında; klinik ilgili
+konsantrasyonlarda bazı sıçan, köpek ve insan lenfo-hematopoietik hücre popülasyonlarında
+hafif sitotoksisite gözlenmiştir.
+450 mg/kg/güne kadar dozlarda (beklenen klinik düzeyin (EAA karşılaştırmaları temelinde)
+altındaki ilaç düzeylerinde) yapılan bir sıçan çalışmasında, vemurafenibin kültüre edilmiş
+mürin fibroblastlarında UVA ışın uygulamasından sonra in vivo değil ancak in vitro
+fototoksik olduğu gösterilmiştir. Fertilite üzerindeki etkiyi değerlendirmek üzere
+vemurafenible spesifik çalışma yapılmamıştır. Bununla birlikte, tekrarlı doz çalışmalarında
+450 mg/kg/güne kadar dozlarda (EAA karşılaştırmaları temelinde beklenen klinik düzeyin
+altındaki ilaç düzeylerinde) erkek ve dişi sıçanların ve köpeklerin üreme organları ile ilgili
+histopatolojik bulgu saptanmamıştır. Sıçanlarda ve tavşanlarda, beklenen klinik düzeyin
+altındaki ilaç düzeylerine yol açan (EAA karşılaştırması temelinde) sırasıyla 250 mg/kg/gün
+ve 450 mg/kg/gün dozlara kadar embriyo-fetal gelişim çalışmalarında teratojenite
+gözlenmemiştir. Bununla birlikte embriyo-fetal gelişim çalışmalarındaki düzey, EAA
+karşılaştırması temelinde klinik düzeyin altında olmuştur ve bu nedenle, bu bulguların ne
+ölçüde insanlara uyarlanabileceğini belirlemek güçtür. Sonuç olarak vemurafenibin fetüs
+üzerindeki etkisi göz ardı edilemez. Pre- ve postnatal gelişim ile ilgili çalışma yapılmamıştır.
+In vitro tayinlerde (bakteriyel mutasyon [AMES Tayini], insan lenfosit kromozom
+aberasyonu) genotoksisite belirtisi saptanmamış ve vemurafenible, in vivo sıçan kemik iliği
+mikronükleus testi yapılmamıştır.
+Vemurafenib, sıçan veya tavşan embriyolarında/fetüslerinde teratojenite kanıtı
+göstermemiştir.
+Vemurafenib ile karsinojenite çalışmaları yapılmamıştır.
+6. FARMASÖTİK ÖZELLİKLER
+6.1. Yardımcı maddelerin listesi
+Tablet çekirdeğinde;
+Kroskarmeloz sodyum
+Kolloidal anhidröz silika
+Magnezyum stearat
+Hidroksipropilselüloz
+Film kaplama karışımında;
+- 24 -Polivinil alkol
+Titanyum dioksit (E171)
+Makrogol 3350 (Polietilen glikol 3350)
+Talk
+Demir oksit kırmızı (E172)
+6.2. Geçimsizlikler
+Geçerli değildir.
+6.3. Raf ömrü
+36 ay.
+6.4. Saklamaya yönelik özel tedbirler
+30°C altındaki oda sıcaklığında saklayınız.
+Nemden korumak için orijinal ambalajında saklayınız.
+6.5. Ambalajın niteliği ve içeriği
+OPA/Al/PVC blister filmi ve Alüminyum/Isı ile kapatılmış blister folyosu.
+Perfore birim doz blisterler.
+Ambalaj boyutu: 56 x 1 film kaplı tablet (8 x 1 tabletlik 7 blister)
+6.6. Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+Kullanılmamış olan ürünler ya da atık materyaller “Tıbbi Atıkların Kontrolü Yönetmeliği’’ ve
+“Ambalaj Atıklarının Kontrolü Yönetmelik’’lerine uygun olarak imha edilmelidir.
+7. RUHSAT SAHİBİ
+Roche Müstahzarları Sanayi Anonim Şirketi
+Uniq İstanbul, Ayazağa Cad. No:4 D/101
+Maslak 34396 Sarıyer – İstanbul
+8. RUHSAT NUMARASI(LARI)
+2014/93
+9. İLK RUHSAT TARİHİ / RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi: 13.02.2014
+Ruhsat yenileme tarihi: 05.04.2019
+10. KÜB’ÜN YENİLENME TARİHİ
+- 25 -

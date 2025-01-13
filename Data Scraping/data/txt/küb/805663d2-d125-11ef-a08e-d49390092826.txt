@@ -1,0 +1,758 @@
+KISA ÜRÜN BİLGİSİ
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+HEDNAVİR 0,5 mg film kaplı tablet
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde:
+Her film kaplı tablet 0.5 mg entekavir’e eşdeğer 0.532 mg entekavir monohidrat içerir.
+Yardımcı maddeler:
+Laktoz monohidrat 120 mg
+Yardımcı maddeler için 6.1'e bakınız.
+3. FARMASÖTİK FORM
+Film kaplı tablet
+Somon renkte, bikonveks, bir yüzünde “E” olan film kaplı tablet
+4. KLİNİK ÖZELLİKLER
+4.1. Terapötik endikasyonlar
+HEDNAVİR,
+• Aktif viral replikasyon bulgusu, sürekli yüksek serum alanin aminotransferaz (ALT) düzeyleri
+ve histolojik aktif inflamasyon ve/veya fibroz kanıtı olan kompanse karaciğer hastalığı
+• Dekompanse karaciğer hastalığı
+olan yetişkinlerde (16 yaş ve üstü), kronik hepatit B virüsü (HBV) tedavisinde endikedir.
+4.2. Pozoloji ve uygulama şekli
+Doktor tarafından başka şekilde önerilmediği takdirde;
+Pozoloji:
+Kompanse karaciğer hastalığı
+Nükleosid-naif hastalar: Önerilen doz tok ya da aç karnına günde bir kere 0.5 mg'dır.
+Lamivudine yanıt vermeyen hastalar için (örn; lamivudin tedavisi sırasında hepatit B viremi hikayesi
+olanlarda veya bilinen lamivudin direnç [LVD dirençli, genellikle YMDD olarak bilinen]
+mutasyonları bulunanlarda) önerilen doz aç karnına (yemeklerden en az 2 saat önce ya da 2 saat
+sonra) günde bir defa 1 mg'dır (bkz. bölüm 4.4.).
+Dekompanse karaciğer hastalığı
+Dekompanse karaciğer hastalığı
+Dekompanse karaciğer hastalığı olan hastalar için önerilen doz günde bir kere 1 mg'dır ve aç karnına
+alınmalıdır (yemeklerden en az 2 saat önce ya da 2 saat sonra). Lamivudine dirençli hepatit B
+hastaları için bölüm 4.4.'e bakınız.
+Uygulama sıklığı ve süresi:
+Tedavi için en uygun süre bilinmemektedir. Tedavinin kesilmesi aşağıdaki durumlarda düşünülebilir:
+- HBeAg pozitif hastalarda, tedavi en az HBe serokonversiyonuna kadar (HBeAg kaybı, HBV DNA
+kaybı ile birlikte en az 3-6 ay aralıklarla alınan art arda iki serum numunesinde anti HBe tesbiti)
+Sayfa 1 / 19veya HBs serokonversiyonuna ya da etkinlik kaybına kadar sürdürülmelidir (bkz. bölüm 4.4.).
+- HBeAg negatif hastalarda, tedavi en az HBs serokonversiyonuna veya etkinlik kaybına kadar
+sürdürülmelidir. 2 yıldan uzun süren uzatılmış tedavilerde, devam eden seçilmiş tedavinin hasta
+için halen uygun olduğunun doğrulanması için düzenli olarak yeniden değerlendirme yapılması
+tavsiye edilir.
+Dekompanse karaciğer hastalığı veya sirozu olan hastalarda tedavinin kesilmesi önerilmez.
+Uygulama şekli:
+HEDNAVİR oral yoldan alınır. Nükleosid-naif hastalarda, önerilen doz tok ya da aç karnına günde
+bir kere 0.5 mg'dır. HEDNAVİR, lamivudine -dirençli HBV veya dekompanse karaciğer hastalarında
+aç karnına (yemekten yaklaşık 2 saat önce veya yaklaşık 2 saat sonra) alınmalıdır.
+Özel popülasyonlara ilişkin ek bilgiler
+Böbrek/Karaciğer yetmezliği: Entekavir başlıca böbrekler tarafından elimine edilir. Entekavirin
+klerensi, azalan-kreatinin klerensiyle birlikte azalmaktadır (bkz. bölüm 5.2.). Hemodiyaliz veya
+sürekli ambulatuar peritoneal diyaliz (CAPD) hastaları dahil, < 50 ml/dk kreatinin klerensine sahip
+hastalarda, doz ayarlaması yapılması tavsiye edilir. Aşağıdaki tabloda ayrıntıları ile verildiği gibi,
+entacavir oral solüsyonu kullanılarak günlük dozun azaltılması tavsiye edilir. Alternatif olarak; oral
+solüsyonun bulunmaması durumunda, doz, dozaj aralıkları arttırılarak, tabloda gösterildiği gibi
+ayarlanabilir. Önerilen doz değişiklikleri sınırlı sayıda verinin değerlendirilmesine dayanmaktadır ve
+güvenlilik ve etkililikleri klinik olarak değerlendirilmemiştir. Bu nedenle, virolojik yanıt yakından
+takip edilmelidir.
+Böbrek yetmezliği olan hastalarda önerilen HEDNAVİR dozları
+Kreatinin klerensi HEDNAVİR dozajı*
+(ml/dk)
+Daha önce nükleosit Lamivudine dayanıklı
+kullanmamış hastalar hastalar veya dekompanse
+karaciğer hastalığı
+≥50 Günde bir kere 0.5 mg Günde bir kere 1 mg
+30-49 Günde bir kere * 0.25 mg Günde bir kere 0.5 mg
+VEYA 48 saatte bir 0.5 mg
+10-29 Günde bir kere * 0.15 mg Günde bir kere * 0.3 mg VEYA 48 saatte
+VEYA 72 saatte bir 0.5 mg bir 0.5 mg
+< 10 Hemodiyaliz Günde bir kere * 0.05 mg Günde bir kere * 0.1 mg VEYA 72 saatte
+veya CAPD* VEYA 5-7 günde bir 0.5 mg bir 0.5 mg
+*0.5 mg’ den daha düşük dozlar için entekavir oral solüsyonunun kullanılması tavsiye edilir.
+** Hemodiyaliz günlerinde, entekavir hemodiyalizden sonra uygulanır.
+CAPD = sürekli ambulatuar periton diyaliz
+Karaciğer yetmezliği olan hastalarda HEDNAVİR dozunun ayarlanmasına gerek yoktur.
+Pediyatrik popülasyon: 16 yaşından küçük hastalarda HEDNAVİR'in güvenliliği ve etkililiği
+bilinmemektedir. Pediyatrik popülasyonda kullanımı önerilmemektedir.
+Sayfa 2 / 19Geriyatrik popülasyon: HEDNAVİR dozunun yaşa göre ayarlanmasına gerek yoktur.
+Cinsiyet ve ırk: Cinsiyete ve ırka göre doz ayarlamasına gerek yoktur.
+4.3. Kontrendikasyonlar
+Entekavire veya diğer bileşenlerine karşı alerjisi olanlarda kontrendikedir.
+4.4. Özel kullanım uyarıları ve önlemleri
+Laktik asidoz/steatozlu hepatomegali: Nükleosid analogların kullanımı sonucu, genellikle şiddetli
+hepatomegali ve hepatik steatoz ile birlikte görülen, kimi zaman fatal olan laktik asidoz (hipoksemi
+yokluğunda) bildirilmiştir. Entekavir bir nükleosid analoğu olduğu için riski dışlanamaz. Nükleosid
+analogları ile tedavi hızla yükselen aminotransferaz seviyeleri, ilerleyen hepatomegali ya da
+bilinmeyen nedenli metabolik/laktik asidoz ortaya çıktığında kesilmelidir. Bulantı, kusma ve karın
+ağrısı gibi benign sindirim semptomları laktik asidoz gelişimini işaret edebilir. Bazen ölümcül
+sonuçlarla birlikte olan ağır vakalar pankreatit, karaciğer yetmezliği/hepatik steatoz, böbrek
+yetmezliği ve yüksek serum laktat seviyeleri ile birliktedir. Hepatomegali, hepatit ya da karaciğer
+hastalığı açısından bilinen diğer risk faktörlerine sahip her hastada (özellikle obez kadınlarda)
+nükleosid analoğu reçetelerken dikkatli olunmalıdır. Hastalar yakından izlenmelidir.
+Aminotransferazın tedaviye verilen yanıta bağlı yükselmeleri ile potansiyel olarak laktik asidoz ile
+ilgili artışlarını ayırt edebilmek açısından doktorlar ALT değişikliklerinin kronik hepatit B'nin diğer
+laboratuvar bulgularındaki iyileşmeler ile ilişkili olduğundan emin olmalıdırlar.
+Hepatit alevlenmeleri: Hepatit B'de spontan alevlenmeler oldukça yaygındır ve serum ALT'da geçici
+artışlar ile karakterizedir. Antiviral tedaviye başlanmasının ardından, HBV DNA düzeyleri düşerken
+bazı hastalarda serum ALT artabilir (bkz. Bölüm 4.8.). Entekavir ile tedavi edilen hastalar arasında
+tedavi esnasındaki alevlenmelerin ortalama başlama zamanı 4-5 haftadır. Kompanse karaciğer
+hastalığı olan hastalarda serum ALT'daki bu artışlara genellikle serum bilirubin konsantrasyonlarında
+bir artış ya da hepatik dekompanzasyon eşlik etmez. İlerlemiş karaciğer hastalığı olan hastalar veya
+siroz hastaları hepatit alevlenmelerinin ardından hepatik dekompanzasyon açısından daha yüksek bir
+risk altındadırlar ve bu nedenle tedavi esnasında yakından izlenmelidirler.
+Hepatit tedavisini kesen hastalarda akut hepatit alevlenmeleri bildirilmiştir (bkz. Bölüm 4.2.). Tedavi
+sonrası alevlenmelerin çoğu, genellikle HBV DNA yükselmesi ile birlikte görülür ve çoğunlukla
+sınırlı olaylar gibi görünmektedir. Ancak, ölümcül olgular dahil şiddetli alevlenmeler bildirilmiştir.
+Entekavirle tedavi edilmiş nükleosid denenmemiş hastalar arasında tedavi sonrası alevlenmeler
+başlangıçtan 23-24 haftalık bir ortalama süreye sahiptir ve bunların çoğu HBeAg negatif hastalarda
+bildirilmiştir (bkz. Bölüm 4.8.). Hepatit B tedavisi kesildikten 6 ay sonrasına kadar klinik ve
+laboratuar takibi ile tekrarlayan aralıklarla karaciğer fonksiyonu izlenmelidir. Eğer uygunsa, hepatit
+B tedavisinin yeniden başlanması gerekebilir.
+Dekompanse karaciğer hastalığı olan hastalar: Dekompanse karaciğer hastalığı olan hastalar ile
+yapılan bir kontrollü klinik çalışmanın her iki tedavi grubunda (bkz. Bölüm 5.1.) nedenselliğe
+bakmaksızın gözlemlenen ciddi hepatik advers olay oranı kompanse karaciğer hastalığı olan hastalar
+ile yapılan çalışmalarda görülenlerden daha yüksek gözlemlenmiştir. Özellikle, Child-Turcotte-Pugh
+(CTP) Class C hastalığı olan hastalarda daha yüksek bir oran bulunmuştur. Ayrıca, dekompanse
+karaciğer hastalığı olan hastaların karşı karşıya kaldığı laktik asidoz riski de daha yüksek olabilir.
+Dolayısıyla, bu hasta popülasyonunda klinik ve laboratuar parametreler yakından gözlenmelidir (bkz.
+Bölüm 4.8. ve 5.1.).
+Sayfa 3 / 19Lamivudine cevapsız hastalarda direnç ve özel önlemler:
+Lamivudin direnci sübstitüsyonlarını kodlayan HBV polimeraz mutasyonları, entekavire bağlı direnç
+(ETVr) dahil, takip eden sekonder sübstitüsyonların ortaya çıkmasına neden olabilir.
+Lamivudine refrakter olan düşük bir hasta yüzdesinde başlangıçta rtT184, rtS202 veya rtM250
+kalıntılarında ETVr sübstitüsyonları bulunmuştur. Lamivudine dirençli HBV hastalarının takip eden
+entekavir direnci geliştirme riskleri lamivudin direnci göstermeyen hastalardan daha yüksektir.
+Lamivudine refrakter çalışmalarda 1, 2, 3, 4 ve 5 yıl tedaviden sonra kümülatif genotipik entekavir
+direnci görülme olasılığı sırası ile % 6, %15, %36, % 47 ve %51 olmuştur. Lamivudine dirençli
+popülasyonda virolojik yanıt sıkla gözlemlenmeli ve uygun direnç testleri yapılmalıdır. 24 haftalık
+entekavir tedavisinden sonra virolojik yanıtı suboptimal olan hastalarda tedavi modifikasyonu
+düşünülmelidir (bkz. Bölüm 4.5. ve 5.1.).
+Karaciğer hastalığının şiddetine bakmaksızın, önceden var olan lamivudine dirençli HBV ile takip
+eden artmış entekavir direnci riski arasında bağlantı kurulmaktadır; dekompanse karaciğer hastalığı
+olan hastalarda virolojik ilerleme altta yatan karaciğer hastalığının ciddi klinik komplikasyonlarına
+eşlik edebilir. Bu yüzden, dekompanse karaciğer hastalığı ve lamivudine dirençli HBV olan
+hastalarda entekavir ile ikinci bir antiviral ajanın (lamivudin ya da entekavir ile çapraz direnç
+olmayan) kombine kullanımı entekavir monoterapisi yerine düşünülmelidir.
+HIV ile koenfeksiyon: Entekavir insan immün yetmezlik virüsü (HIV) ve hepatit B virüsü ile ko-
+enfekte olmuş ve aynı zamanda etkili HIV tedavisi almayan hastalarda araştırılmamıştır. Sınırlı klinik
+deneyim, tedavi edilmemiş HIV enfeksiyonu olan hastalarda kronik hepatit B enfeksiyonunun
+tedavisinde Entekavir kullanıldığında, HlV'e direnç gelişimi potansiyeli olduğunu göstermektedir
+(bkz. Bölüm 5.1). Bu nedenle, aynı zamanda yüksek aktiviteli antiretroviral tedavisi (HAART)
+görmeyen HIV/HBV ko-enfekte hastalarda entekavir tedavisi önerilememektedir (bkz. Bölüm 4.8. ve
+5.3.). Entekavir HIV enfeksiyonunun tedavisinde araştırılmamıştır ve bu amaçla kullanım için
+önerilmemektedir.
+Böbrek yetmezliği: Böbrek yetmezliği olan hastalarda doz ayarlanması önerilir (bkz. Bölüm 4.2.).
+Karaciğer transplantı alıcıları: Entekavir'in karaciğer transplantı alıcılarında güvenliliği ve etkililiği
+bilinmemektedir. Siklosporin veya takrolimus gibi, böbrek fonksiyonunu etkileyebilecek bir
+immunosupresan alan karaciğer transplantı alıcılarında, entekavir tedavisinden önce ve tedavi
+sırasında böbrek fonksiyonu dikkatle değerlendirilmelidir (bkz. Bölüm 4.2. ve 5.2.).
+Hepatit C veva D ile koenfeksiyon: Entekavir'in hepatit C veya D virüsü ile koenfekte olmuş
+hastalarda etkililiğine ilişkin bir veri yoktur.
+Genel: Hastalara, entekavirin HBV bulaşma riskini azalttığının kanıtlanmadığı ve bu nedenle uygun
+önlemlerin yine de alınması gerektiği söylenmelidir.
+Laktoz: İçeriğinde bulunan laktoz monohidrat nedeniyle, nadir kalıtımsal galaktoz intoleransı, Lapp
+laktoz yetmezliği ya da glikoz-galaktoz malabsorpsiyon problemi olan hastaların bu ilacı
+kullanmamaları gerekir.
+4.5. Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+Entekavir, ağırlıklı olarak böbrekler tarafından elimine edildiğinden (bkz. Bölüm 5.2.), entekavir
+böbrek fonksiyonunu azaltan veya aktif tübüler sekresyon için rekabete giren tıbbi ürünler ile birlikte
+verildiğinde, her iki tıbbi ürünün serum konsantrasyonları artabilir.
+Sayfa 4 / 19Lamivudin, adefovir dipivoksil ve tenofovir disoproksil fumarat dışında, entekavirin renal yoldan
+atılan ya da renal fonksiyonu etkileyen ilaçlar ile eş zamanlı uygulanmasının etkileri
+değerlendirilmemiştir. Entekavir bu gibi ilaçlarla birlikte uygulandığında hastalar yan etkiler
+yönünden yakından izlenmelidir.
+Entekavir lamivudin, adefovir veya tenofovir ile birlikte uygulandığında farmakokinetik etkileşim
+gözlenmemiştir.
+Entekavir CYP450 enzim sisteminin bir substratı, inhibitörü veya indükleyicisi değildir. Bu nedenle
+entekavir ile CYP450 sisteminden kaynaklanan bir ilaç etkileşimi görülmesi beklenmez.
+Entekavirin yemeklerle birlikte alınması emilimi % 18-20 azaltır (bkz. Bölüm 4.2.).
+Özel popülasyonlara ilişkin ek bilgiler
+Pediyatrik popülasyon: Bu grup hastalarda özel bir etkileşim çalışması yapılmamıştır.
+4.6. Gebelik ve laktasyon
+Genel tavsiye:
+Gebelik Kategorisi: C.
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon):
+Çocuk doğurma potansiyeli bulunan kadınlarda etkili kontraseptif metodlar kullanılmalıdır.
+Entekavirin gebe kadınlarda kullanımına ilişkin yeterli kontrollü çalışmalar mevcut değildir.
+Gebelik dönemi:
+Entekavirin anneden bebeğe HBV geçişi üzerindeki etkisine ilişkin veriler yoktur. Bu nedenle,
+neonatal HBV geçişini önlemek için uygun müdahalelere başvurulmalıdır.
+Hayvanlar üzerinde yapılan çalışmalar, gebelik, embriyonal ve fetal gelişim, doğum ve doğum
+sonrası gelişim üzerindeki etkiler bakımından yetersizdir (bkz. Bölüm 5.3.). İnsanlara yönelik
+potansiyel risk bilinmemektedir.
+HEDNAVİR gerekli olmadıkça gebelik döneminde kullanılmamalıdır.
+Laktasyon dönemi:
+Entekavirin insan sütüyle atılıp atılmadığı bilinmemektedir. Hayvanlardan elde edilen toksikolojik
+veriler entekavirin süte geçtiğini göstermiştir. Yeni doğanlarda risk dışlanamaz. HEDNAVİR
+emzirme döneminde kullanılmamalıdır.
+Üreme yeteneği / Fertilite:
+Erkek sıçanlarda insanlardakinin >160 katı dozlarda, 0,5 mg/gün'de (>90 defa 1 mg/gün) fertilite
+üzerinde hiç bir etki olmamıştır. Dişi sıçanlarda 0,5 mg/gün'de insanlardakinin >165 katı dozlarda
+fertilite ya da erken embriyo gelişmesi üzerinde hiç bir etki gözlenmemiştir (>94 defa 1 mg/gün)
+(bkz. Bölüm 5.3.).
+4.7. Araç ve makine kullanımı üzerindeki etkiler
+Entekavirin araç ve makine kullanma yeteneği üzerindeki etkileri araştırılmamıştır. Entekavirin
+farmakodinamik profiline bakıldığında bu aktiviteleri etkilemesi beklenmez. Ancak sersemlik,
+halsizlik ve uyuklama hali gibi yaygın yan etkileri araç ve makine kullanma yeteneğini etkileyebilir.
+Sayfa 5 / 194.8. İstenmeyen etkiler
+a. Güvenlilik profilinin özeti
+Kompanse karaciğer hastalığı olan hastalarda yapılan klinik çalışmalarda, entekavir ile en azından bir
+olası ilişkili, her şiddette ve en sık görülen istenmeyen etkiler baş ağrısı (%9), yorgunluk (%6),
+sersemlik (%4) ve bulantıdır (%3). Entekavir tedavisi uygulanırken ve bırakıldıktan sonra hepatit
+alevlenmeleri de rapor edilmiştir (bkz. Bölüm 4.4. ve c. Seçilmiş advers reaksiyonların tanımı).
+b. Advers reaksiyonların tablo halinde listesi
+Advers reaksiyonlar, pazarlama sonrası gözlemler ile kronik hepatit B enfeksiyonu ve kompanse
+karaciğer hastalığının entekavir (n = 862) ya da lamivudin (n = 858) ile çift-kör tedavisi alan 1.720
+hastanın katıldığı 107 hafta süren dört klinik çalışmaya dayanarak değerlendirilmiştir. Bu
+çalışmalarda, laboratuvar anomalileri dahil, günde 0.5 mg entekavirin (medyan 53 hafta tedavi edilen
+679 nükleosid-naif HbeAg pozitif veya negatif hasta), günde 1 mg entekavirin (medyan 69 hafta
+tedavi edilen 183 lamivudine dirençli hasta) ve lamivudinin güvenlilik profilleri karşılaştırılabilir
+bulunmuştur.
+En azından muhtemelen entekavir tedavisi ile ilişkili olduğu düşünülen istenmeyen etkiler sıklık
+sıralamasına göre aşağıda listelenmiştir.
+Çok yaygın (≥ 1/10); yaygın (≥ 1/100 ila < 1/10); yaygın olmayan (≥ 1/1.000 ila <1/100); seyrek
+(≥1/10.000 ila <1/1.000); çok seyrek (<1/10.000), bilinmiyor (eldeki verilerden hareketle tahmin
+edilemiyor).
+Bağışıklık sistemi hastalıkları
+Seyrek: Anafilaktoid reaksiyon.
+Psikiyatrik hastalıklar
+Yaygın: Uykusuzluk
+Sinir sistemi hastalıkları
+Yaygın: Baş ağrısı, sersemlik, uyku hali
+Gastrointestinal hastalıklar
+Yaygın: Kusma, ishal, bulantı, dispepsi
+Hepatobilier hastalıklar
+Yaygın: Transaminaz artış
+Deri ve deri altı doku hastalıklar
+Yaygın olmayan: Alopesi, döküntü
+Genel bozukluklar ve uygulama bölgesine ilişkin hastalıklar
+Yaygın: Yorgunluk
+Sıklıkla hepatik dekompensasyonda, başka ciddi tıbbî durumlar ya da alınan ilaçlar ile bağlantılı
+olarak laktik asidoz vakaları bildirilmiştir (bkz. Bölüm 4.4.).
+48 haftadan sonraki tedavi: Ortalama 96 haftalık süre boyunca entekavir ile sürekli tedavi herhangi
+bir yeni güvenlilik işareti ortaya çıkarmamıştır.
+Sayfa 6 / 19c. Seçilmiş advers etkilerin tanımı
+Laboratuvar test anormallikleri
+Yapılan klinik çalışmalarda, nükleozid naif hastaların % 5'inde başlangıç değerinin 3 katından fazla
+ALT yükselmesi, % l'den azında başlangıç değerinin 2 katından fazla ALT yükselmesi ile NÜS
+(Normal Üst Sınır)'ın ve başlangıç değerinin 2 katından fazla total biluribin değerleri oluşmuştur. Bu
+hastaların % 1'inden azında albumin değeri <2,5 mg/dl, % 2'sinde amilaz değeri başlangıç değerinin 3
+katından fazla, % 11'inde lipaz değeri başlangıç değerinin 3 katından fazla olmuştur. % l'inden azında
+platelet sayısı 50,000/mm3'ün altına düşmüştür.
+Yapılan klinik çalışmalarda, Lamivudin cevapsız hastaların % 4'ünde başlangıç değerinin 3 katından
+fazla ALT yükselmesi, % l'den azında başlangıç değerinin 2 katından fazla ALT yükselmesi ile
+NÜS'ün ve başlangıç değerinin 2 katından fazla total biluribin değerleri oluşmuştur. Bu hastaların %
+2'sinde amilaz değeri başlangıç değerinin 3 katından fazla, % 18'inde lipaz değeri başlangıç değerinin
+3 katından fazla olmuş, % l'inden azında platelet sayısı 50,000/mm3'ün altına düşmüştür.
+Tedavi sırasında alevlenmeler: Nükleosid-naif hastalar ile yapılan çalışmalarda, entekavir ile tedavi
+edilen hastaların %2'sinde ve lamivudin ile tedavi edilen hastaların % 4'ünde NÜS'ün >10 katı,
+başlangıcın ise > 2 katı ALT yükselmeleri kaydedilmiştir. Lamivudine dirençli hastalarda yapılan
+çalışmalarda, tedavi devam ederken entekavir alan hastaların % 2'sinde ve lamivudin ile tedavi edilen
+hastaların %11'inde NÜS'ün > 10 katı ve başlangıcın > 2 katı ALT yükselmeleri ortaya çıkmıştır.
+Entekavir ile tedavi edilen hastalarda, tedavi devam ederken medyan 4-5 haftada ALT yükselmeleri
+görülmüş, genellikle tedavi sürerken ortadan kaybolmuş ve çoğu vakada, ALT yükselmesinden önce
+gelen ya da aynı zamanda gerçekleşen viral yükteki ≥ 2 log /ml düşüş ile bağlantılı bulunmuştur.
+10
+Tedavi sırasında karaciğer fonksiyonunun periyodik olarak gözlenmesi önerilmektedir.
+Tedavinin kesilmesinden sonra hepatit alevlenmeleri: Entekavir tedavisi dahil hepatit B'de antiviral
+tedaviyi kesen hastalarda akut hepatit alevlenmeleri bildirilmiştir (bkz. Bölüm 4.4.). Nükleosid-naiv
+hastalarla yapılan çalışmalarda entekavir ile tedavi edilen hastaların %6'sında ve lamivudin ile tedavi
+edilen hastaların %10'unda tedavi sonrası takipte ALT yükselmeleri normalin üst sınırının >10 katı
+ve referansın >2 katı ile karşılaşılmıştır. Entekavir ile tedavi edilen nükleosid-naiv hastalar arasında
+ALT yükselmeleri tedavi başlangıcından itibaren 23-24 haftalık bir medyana sahiptir ve ALT
+yüksekliklerinin %86'sı (24/28) HBeAg negatif hastalarda meydana gelmiştir. Lamivudine yanıt
+vermeyen hastalarda yapılan çalışmalarda sadece limitli sayıda hasta tedavi kesildikten sonra takip
+edilebilmiştir. Entekavir ile tedavi edilen hastaların %11'inde ALT yükselmesi görülmüş, lamivudin
+ile tedavi edilen hastaların hiçbirinde tedavi sonrası takip sırasında ALT yüksekliği gelişmemiştir.
+Klinik çalışmalarda eğer hasta daha önce belirlenen bir yanıta ulaşmışsa entekavir tedavisi
+kesilmiştir. Eğer tedavi yanıtına bakmaksızın tedavi kesilirse tedavi sonrası ALT alevlenmelerinin
+oranları daha yüksek olabilir.
+d. Diğer özel popülasyonlar
+Dekompanse karaciğer hastalığı olan hastalardaki deneyim: Hastaların 1 mg/gün entekavir (n = 102)
+ya da 10 mg/gün adefovir dipivoksil (n = 89) aldığı randomize, açık etiketli, karşılaştırmalı bir
+çalışmada dekompanse karaciğer hastalığı olan hastalarda entekavirin güvenlilik profili
+değerlendirilmiştir (çalışma 048). 48 hafta boyunca entakavir tedavisi gören hastalarda b. Advers
+reaksiyonların tablolu listesi'ne ilave olarak bir advers reaksiyon gözlenmiştir [kanda bikarbonat
+düşüşü (%2)]. Çalışmanın kümülatif ölüm oranı %23 bulunmuş (23/102), ölüm nedenleri, bu
+popülasyonda beklendiği gibi, karaciğere bağlı olmuştur. Çalışmadaki kümülatif hepatosellüler
+karsinoma (HCC) oranı %12 (12/102) dir. Ciddi yan etkiler genellikle karaciğer kaynaklıydı ve
+kümülatif sıklıkları %69'du. Başlangıç CTP skorları yüksek olan hastaların ciddi advers etki
+geliştirme riskleri daha fazlaydı (bkz. Bölüm 4.4.).
+Sayfa 7 / 19Laboratuar testi anomalileri: 48 hafta entekavir ile tedavi edilen dekompanse karaciğer hastalığı olan
+hastaların hiçbirinde NÜS'ün 10 katından, başlangıcın 2 katından fazla ALT yükselmesi
+görülmemiştir ve hastaların 1%'inin ALT' ları başlangıç değerinin 2 katından fazla yükselmiş ve total
+bilirubinleri de NÜS'ün ve başlangıcın 2 katından fazla yükselmiştir. Hastaların %30'unun albumin
+düzeyleri 2,5 g/dl'dan daha az, % 10'unun lipaz düzeyleri başlangıcın 3 katından fazla olmuş,
+%20'sinin trombositleri 50,000/mm3'ün altına düşmüştür.
+HIV ile ko-enfekte olan hastalardaki deneyim:
+Entekavirin lamivudin içeren HAART (yüksek aktiviteli antiretroviral tedavi) rejimi uygulanan sınırlı
+sayıdaki HIV/HBV ko-enfekte hastadaki güvenlilik profili monoenfekte HBV hastalarındaki
+güvenlilik profiline benzer bulunmuştur (bkz. Bölüm 4.4.).
+Cinsiyet/yaş: Cinsiyet (klinik çalışmalardaki kadınların ≈ %25'i) ve yaş (>65 yaş üstü hastaların ≈
+%5'i) açısından entekavirin güvenlilik profilinde görünen herhangi bir fark yoktur.
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TÜFAM)'ne bildirmeleri gerekmektedir (www.titck.gov.tr; e- posta:
+tufam@titck.gov.tr; tel: 0 800 314 00 08; faks: 0 312 218 35 99).
+4.9. Doz aşımı ve tedavisi
+Hastalarda entekavir aşırı dozuna ilişkin bildirilmiş sınırlı bir deneyim vardır. 14 güne kadar 20
+mg/gün dozları alan veya 40 mg'a kadar tek doz alan sağlıklı kişilerde istenmeyen advers etkiler
+ortaya çıkmamıştır. Aşırı doz durumunda, hasta toksisite kanıtları yönünden gözlem altında tutulmalı
+ve gerekirse standart destekleyici bakım verilmelidir.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1. Farmakodinamik özellikler
+Farmakoterapötik grup: Direkt etkili antiviraller
+ATC kodu: J05A F10
+Etki mekanizması:
+Entekavir, HBV polimeraza karşı güçlü ve selektif aktiviteye sahip bir guanozin nükleozit
+analoğudur. İntraselüler yarı-ömrü 15 saat olan aktif trifosfat (TP) formuna fosforillenir. İntraselüler
+TP düzeyleri, ekstraselüler entekavir konsantrasyonlarıyla direkt olarak ilişkilidir ve başlangıç plato
+düzeylerinin ötesinde anlamlı birikim göstermez. Doğal substrat olan deoksiguanozin-TP ile rekabete
+giren entekavir-TP, viral polimerazın 3 işlevsel aktivitesini de inhibe eder: (1) HBV polimerazın
+primingi, (2) negatif sarmalın pregenomik haberci RNA'dan ters transkripsiyonu ve (3) pozitif HBV
+DNA sarmalının sentezi. HBV DNA polimeraz için entekavir-TP'nin Ki değeri 0,0012 µM'dir.
+Entekavir-KP α, β ve  selüler polimerazların zayıf bir inhibitörü olup Ki değerleri 18-40 µM'dir.
+İlaveten, yüksek entekavir maruziyetlerinin HepG2 hücrelerindeki mitokondriyal DNA sentezi
+üzerinde veya γ. polimeraz üzerinde herhangi bir yan etkisi yoktur (Ki> 160 µM).
+Antiviral aktivite:
+Entekavir, yabanıl tip HBV ile transfekte edilen insan HepG2 hücrelerinde 0.004 µM
+konsantrasyonda HBV DNA sentezini inhibe etmiştir (%50 azalma, EC ). Entekavir'in LVD dirençli
+50
+HBV'ye (rtL180M ve rtM204V) karşı ortalama EC değeri 0.026 µM'dir (0.010-0.059 µM). Buna
+50
+karşın, hücre kültüründe yetişen HIV tip l'e karşı klinik olarak ilişkili bir aktivite görülmemiştir
+Sayfa 8 / 19(EC değeri > 10 µM). rtN236T veya rtA181V'de adefovir'e dirençli mutasyonları kodlayan
+50
+rekombinant virüsler entekavire tamamen duyarlı kalmıştır.
+Farklı hücrelerde ve tayin şartlarında bir takım laboratuar ve klinik HIV-1 izolatına karşı entekavirin
+inhibe edici aktivitesi analiz edilmiş ve EC değerlerinin 0.026 ila > 10 µM arasında olduğu
+50
+görülmüştür; tayinde azaltılmış virüs düzeyleri kullanıldığı zaman EC değerleri daha düşük
+50
+çıkmıştır. Hücre kültüründe, entekavir mikromolar konsantrasyonlarda M184I sübsitüsyonunu
+seçerek yüksek entekavir konsantrasyonlarında inhibe edici baskısını doğrulamıştır. M184V
+sübstitüsyonu içeren HIV varyantları entekavire karşı daha az duyarlı olmuştur (bkz. Bölüm 4.4.).
+Hücre kültüründeki HBV kombinasyon tayinlerinde, abakavir, didanozin, lamivudin, stavudin,
+tenofovir veya zidovudin geniş bir konsantrasyon aralığında entekavir'in anti-HBV aktivitesine karşı
+antagonist değildir. HIV antiviral tayinlerinde, entekavir, C değerinin 4 katından fazla mikromolar
+max
+konsantrasyonlarda, bu altı NRTI'nın ya da emtrisitabinin anti-HIV aktivitesine antagonist değildir.
+Hücre kültüründe direnç:
+Yabanıl (wild) tip HBV'ye göre, revers transkriptaz enzimi ile rtM204V ve rtL180M
+sübstitüsyonlarını içeren LVD dirençli virüsleri entekavire karşı 8 kat daha az duyarlılık gösterir.
+Entekavire dirençli aminoasit değişikliklerine rtT184, rtS202 ve/veya rtM250'nin dahil edilmesi
+hücre kültüründeki entekavir duyarlılığını azaltır. Klinik izolatlarda gözlenen sübstitüsyonlar
+(rtT184A, C, F, G, I, L, M veya S; rtS202 C, G veya I; ve/veya rtM250I, L veya V) entekavire
+duyarlılığı yabanıl tip virüse kıyasla 16-741 kat azaltmaktadır. rtS202 ve rtM250'rezidülerinde
+entekavire dirençli sübstitüsyonlar tek başlarına entekavire duyarlılıkta sadece ortalama bir etki
+yaratırlar ve sekanslama yapılan 1000'den fazla hastada, lamivudin direnci yokluğunda
+gözlenmemiştir. Dirence, değişikliğe uğramış HBV ters transkriptaza bağlanan indirgenmiş inhibitör
+aracılık eder ve dirençli HBV hücre kültüründe indirgenmiş replikasyon kapasitesini gösterir.
+Klinik deneyim:
+Kronik hepatit B enfeksiyonu ve viral replikasyon bulguları ve kompanse karaciğer hastalığı olan
+1633 erişkin hasta ile yapılan aktif kontrollü klinik çalışmalarda 48 haftalık tedavi sonrası histolojik,
+virolojik, biyokimyasal ve serolojik yanıtlara dayalı olarak yararı gösterilmiştir. Entekavirin
+güvenliliği ve etkinliği ayrıca dekompanse karaciğer hastalığı olan 191 HBV ile enfekte hastanın yer
+aldığı aktif kontrollü bir klinik çalışmada HBV ve HIV ile ko-enfekte 68 hastanın yer aldığı bir diğer
+çalışmada değerlendirilmiştir.
+Kompanse karaciğer hastalarındaki çalışmalarda, histolojik iyileşme Knodell fibroz skorunda
+kötüleşme olmadan başlangıç değerine göre Knodell nekro-enflamatuar skorda ≥ 2 puanlık düşüş
+olarak tanımlanmıştır. Başlangıç Knodell Fibroz skoru 4 (siroz) olan hastalar için yanıtlar tüm
+etkinlik sonuç ölçütleri üzerinde genel yanıtları karşılaştırılabilirdir (tüm hastalar kompanse karaciğer
+hastalığına sahipti). Nükleosid denenmemiş hastalarda yüksek başlangıç Knodell nekroenflamatuar
+skorları (>10) daha yüksek histolojik düzelme ile birliktedir. Nükleosid denenmemiş HBeAg pozitif
+hastalarda başlangıç ALT seviyeleri ≥ normal üst sınırın 2 katı ve başlangıç HBV DNA ≤ 9.0 log
+l0
+kopya/ml değerleri daha yüksek virolojik yanıt oranları ile birliktedir (48.hafta HBV DNA <400
+kopya/ml). Başlangıç özelliklerine bakılmaksızın hastaların çoğunluğu tedaviye histolojik ve
+virolojik olarak yanıt vermiştir.
+Kompanse karaciğer hastalığı olan nükleozit naiv hastalardan edinilen deneyimler:
+HBeAg pozitif (022) ve HBeAg negatif (027) hastalarda entekavir'i (ETV) lamivudin (LVD) ile
+karşılaştıran 48 haftalık randomize, çift kör çalışmaların sonuçları tabloda verilmiştir.
+Sayfa 9 / 19Daha önce nükleosid kullanmamış olanlar
+HBeAg Pozitif HBeAg Negatif
+(çalışma 022) (çalışma 027)
+Günde bir Günde bir Günde bir Günde bir
+kere ETV kere LVD kere ETV kere LVD
+0.5 mg 100 mg 0.5 mg 100 mg
+n 314a 314a 296a 287a
+Histolojik iyileşme b %72* %62 %70* %61
+Ishak fibröz skorunda iyileşme %39 %35 %36 %38
+Ishak fibröz skorunda kötüleşme %8 %10 % 12 %15
+n 354 355 325 313
+Viral yük azalması (log 10 -6.86* -5.39 -5.04 -4.53
+kopya/ml)
+Saptanamayan HBV DNA %67* %36 %90 %72
+(PCR'ye göre < 300 kopya/ml)c
+ALT normalizasyonu (≤ 1 kat %68* %60 %78* %71
+NÜS)
+HBeAg Serokonversiyonu %21 %18
+* lamuvidin <0.05
+a değerlendirilebilir temel çizgisi olan hastalarda (Knodell nekro-enflamatuar skoru ≥ 2 olan
+hastalar)
+b primer bitiş noktası
+c Roche Cobas Amplicator PCR analizi (LLOQ = 300 kopya/mL)
+Lamivudine dayanıklı (kompanse karaciğer) hastalarla edinilen deneyimler:
+HBeAg pozitif lamivudine dayanıklı hastalarda yapılan, hastaların %85'inin başlangıçta LVD
+dirençli mutasyonları gösterdiği randomize, çift kör çalışmada, çalışmanın başlangıcında
+lamivudin alan hastalar, arınma veya çakışma dönemi olmadan (n=141) günde bir kere
+entekavir 1 mg'a geçmiş veya günde bir kere 100 mg lamivudine devam etmişlerdir (n=145).
+48 haftalık sonuçlar tabloda verilmiştir.
+Lamivudine dayanıklı hastalar
+HBeAg pozitif (çalışma 026)
+Günde bir kere ETV Günde bir kere LVD 100 mg
+1.0 mg
+n 124a 116a
+Histolojik iyileşmeb %55* %28
+Ishak fibröz skorunda iyileşme %34* % 16
+Ishak fibröz skorunda kötüleşme %11 %26
+n 141 145
+Sayfa 10 / 19Viral yük azalması -5.11* -0.48
+(log l0 kopyaları/ml)c
+Saptanamayan HBV DNA (PCR'ye %19* %1
+göre < 300 kopya/ml)c
+ALT normalizasyonu (≤ 1 kat NÜS) %61* %15
+HBeAg Serokonversiyonu %8 %3
+* lamuvidin <0.05
+a değerlendirilebilir temel çizgisi olan hastalarda (Knodell nekro-enflamatuar skoru ≥ 2 olan
+hastalar)
+b primer bitiş noktası
+c Roche Cobas Amplicator PCR analizi (LLOQ = 300 kopya/mL)
+48 haftadan uzun süren tedaviden elde edilen sonuçlar:
+Önceden belirtilen yanıt kriterleri 48 haftada veya tedavinin ikinci yılında karşılandığında tedavi
+kesilmiştir. Yanıt kriterleri HBV virolojik baskılama (bDNA'ya göre HBV DNA< 0.7 MEq/ml) ve
+HBeAg kaybı (HBeAg pozitif hastalarda) veya ALT < 1.25 x NÜS'tür (HBeAg negatif hastalarda).
+Yanıt veren hastalar tedaviden sonra 24 hafta daha takip edilmişlerdir. Virolojik kriterleri karşılayan
+fakat serolojik veya biyokimyasal kriterleri karşılamayan hastalar kör tedaviye devam etmişlerdir.
+Virolojik yanıt vermeyen hastalara alternatif tedavi önerilmiştir.
+Nükleozit-naiv çalışmalar
+HBeAg pozitif (çalışma 022): 96 haftaya kadar entekavir ile tedavi, (n = 354) PCR'ye göre HBV
+DNA < 300 kopya/ml için %80, ALT normalizasyonu için %87, HBeAg serokonversiyonu için %31
+ve HBsAg serokonversiyonu için %2’lik (HBsAg kaybı için %5) kümülatif yanıt oranları ile
+sonuçlanmıştır. Lamivudin için (n = 355), kümülatif yanıt oranları PCR'ye göre HBV DNA < 300
+kopya/ml için %39, ALT normalizasyonu için %79, HBeAg serokonversiyonu için %26 ve HBsAg
+serokonversiyonu için %2'dir (HBsAg kaybı için %3). Dozlamanın sonunda, tedaviye 52 haftadan
+fazla (ortalama 96 hafta) devam eden hastalar arasında, entekavir ile tedavi edilen 243 hastadan %81'i
+ve lamivudin ile tedavi edilen 164 hastadan %39'u PCR'ye göre HBV DNA < 300 kopya/ml
+sonucunu elde ederken, entekavir ile tedavi edilenlerin %79'unda, lamivudin ile tedavi edilenlerin
+%68'inde ALT normalizasyonu (≤ 1 kat NÜS) ortaya çıkmıştır.
+HBeAg negatif (çalışma 027): Entekavir ile 96 haftaya kadar süren HBeAg negatif (çalışma 027)
+tedavi (n=325) PCR'ye göre HBV DNA < 300 kopya/ml için %94, ALT normalizasyonu için %89
+iken lamivudin ile tedavi edilen hastalarda (n=313) PCR'ye göre HBV DNA < 300 kopya/ml için
+%77, ALT normalizasyonu için %84'tür. Tedaviye 52 haftadan fazla (ortalama 96 hafta) entekavir ile
+tedavi gören 26, lamivudin ile tedavi gören 28 hasta için, entekavir ile tedavi edilen hastaların %96'sı
+ve lamiduvin ile tedavi edilen hastaların %64'ü, dozlamanın sonunda PCR'ye göre HBV DNA < 300
+kopya/ml sonucunu elde etmiştir. Entekavir ile tedavi edilen hastaların %27'sinde ve lamivudin ile
+tedavi edilen hastaların %21'inde ALT normalizasyonu (≤ 1 kat NÜS) görülmüştür.
+Protokol ile belirlenmiş yanıt kriterlerini karşılayan hastalar için, çalışma 022'de entekavir'e yanıt
+verenlerin %75'inde (83/111), lamivudine yanıt verenlerin %73'ünde (68/93); çalışma 027'de ise
+entekavir'e yanıt verenlerin %46'sında (131/286), lamivudine yanıt verenlerin %31'inde (79/253)
+tedavi sonrası 24 haftalık takip döneminde yanıtlar korunmuştur. Tedavi sonrası 48 haftaya kadar,
+önemli sayıda HBeAg negatif hastada yanıt kaybolmuştur.
+Sayfa 11 / 19Karaciğer biyopsi sonuçları: 022 (HBeAg pozitif) ve 027 (HBeAg negatif) pivotal nükleosid-naif
+çalışmalarından uzun süreli bir rollover çalışmasına kaydolan 57 hastanın uzun dönemde karaciğer
+histolojisi sonuçları değerlendirilmiştir. Entekavir dozajı pivot çalışmalarda günde 0.5 mg (ortalama
+ilaç alma süresi 85 hafta), rollover çalışmasında günde 1 mg (ortalama ilaç alma süresi 177 hafta)
+olmuştur. Rollover çalışmasında 51 hasta başlangıçta ayrıca lamivudin de almıştır (ortalama 29 hafta
+boyunca). Bu hastaların 55/57 (96%)'sı önceden tanımlanan şekilde histolojik iyileşme kaydetmiş,
+50/57 (88%)'inin Ishak fibroz skorları ≥ 1 puan düşmüştür. Başlangıç Ishak fibroz skorları ≥ 2 olan
+hastaların 25/43 (58%)'inde ≥ 2 puan düşüş görülmüştür. Başlangıçta ilerlemiş fibrozu ya da sirozu
+olan (Ishak fibroz skoru 4, 5 veya 6) hastaların tümü (10/10) ≥ 1 puan düşüş elde etmiştir
+(başlangıçtan medyan düşüş 1.5 puandı). Uzun dönem biyopsisinde, bütün hastalarda < 300 kopya/ml
+HBV DNA, 49/57 (86%) hastada NÜS'ün ≤ 1 katı serum ALT bulunmuştur. 57 hastanın hepsi
+HBsAg pozitif olarak kalmıştır.
+Lamivudine-refrakter çalışmalar
+HBeAg pozitif (çalışma 026): 96 haftaya kadar entekavir ile tedavi (n=141) PCR'ye göre HBV DNA
+< 300 kopya/ml için %30, ALT normalizasyonu için %85 ve HBeAg serokonversiyonu için %17'lik
+kümülatif yanıtla sonuçlanmıştır. Entekavir tedavisine 52 haftadan fazla (ortalama 96 hafta) devam
+eden 77 hasta için, dozlamanın sonunda %40 PCR'ye göre HBV DNA < 300 kopya/ml, %81 ALT
+normalizasyonu (≤ 1 kat NÜS) sonuçlan elde edilmiştir.
+Yaş/cinsiyet:
+Etkinlikte, cinsiyete (klinik çalışmalara katılanların ≈ %25'i kadındır) veya yaşa (hastaların ≈ %5'i 65
+yaşın üzerindedir) dayalı belirgin bir fark görülmemiştir.
+Özel popülasyonlar
+Dekompanse karaciğer hastalığı olan hastalar: 048 çalışmasında, HBeAg pozitif veya negatif kronik
+HBV enfeksiyonu ve 7 ya da daha yüksek CTP skoru olarak tanımlanan hepatik dekompanse bulgusu
+olan 191 hasta günde bir kere 1 mg entekavir veya günde bir kere 10 mg adefovir dipivoksil almıştır.
+Hastalar ya daha önce herhangi bir HBV tedavisi almamış, ya da tedavi edilmişlerdi (entekavir,
+adefovir dipivoksil, ya da tenofovir disoproksil fumarat hariç). Başlangıçta, hastaların ortalama CTP
+skorları 8.59'du ve %26 hasta Child-Pugh Class C idi. Son Evre Karaciğer Hastalığı Modeli'nin
+(MELD) ortalama başlangıç skoru 16.23'tü. PCR ile ortalama serum HBV DNA 7.83 log10 kopya/ml
+ve ortalama serum ALT 100 U/l idi; %54 hasta HBeAg pozitifti, %35 hastanın başlangıçta LVD
+dirençli sübstitüsyonları vardı. 24. haftada PCR ile serum HBV DNA'da başlangıçtan itibaren
+ortalama değişiklik olan primer etkinlik sonlandırma kriteri açısından entekavir adefovir
+dipivoksilden üstün olmuştur. 24. ve 48. haftalardaki seçilmiş çalışma sonlandırma kriteri sonuçları
+tabloda gösterilmiştir.
+24. Hafta 48. Hafta
+ETV Adefovir ETV Adefovir
+l mg Dipivoksil l mg Dipivoksil
+günde bir kez 10 mg günde bir kez 10 mg
+günde bir kez günde bir kez
+n 100 91 100 91
+HBV DNAa
+Saptanamayan HBV DNA oranı 49%* 16% 57%* 20%
+(<300 kopya/ml)b
+Sayfa 12 / 19Başlangıçtan beri ortalama değişiklik -4.48* -3.40 -4.66 -3.90
+(log kopya/ml)
+ıo
+Stabil ya da iyileşmiş CTP skoru b, c 66% 71% 61% 67%
+MELD skorunda -2.0 -0.9 -2.6 -1.7
+Başlangıçtan itibaren ortalama
+değişiklikd
+HBsAg kaybı b 1% 0 5% 0
+Normalleşen: e
+ALT (≤ 1 X NÜS)b 46/78 (59%)* 28/71 (39%) 49/78 (63%)* 33/71 (46%)
+Albumin (≥ 1 X NAS) b 20/82 (24%) 14/69 (20%) 32/82 (39%) 20/69 (29%)
+Bilirubin (≤ 1 X NÜS)b 12/75 (16%) 10/65 (15%) 15/75 (20%) 18/65(28%)
+Protrombin zamanı (≤ 1 X NÜS)b 9/95 (9%) 6/82 (7%) 8/95 (8%) 7/82 (9%)
+aRoche COBAS Amplicor PCR tayini (LLOQ = 300 kopya/ml).
+bNC=F (bitirmeyen=başarısız), tedavi analiz haftasından önce kesildi demektir, nedenleri ölüm, etkisizlik,
+advers olay, tedaviye uymamak, takip kaybı olabilir (örn., HBV DNA ≥ 300 kopya/ml).
+cCTP skorunda azalma ya da başlangıca göre değişim olmaması demektir.
+dBaşlangıçtaki ortalama MELD skoru ETV'de 17.1, adefovir dipivoksilde 15.3'tü.
+e Başlangıçta değerleri anormal olan hastalara oranla
+* p<0.05
+NÜS= normal üst sınır, NAS=normal alt sınır.
+HCC veya ölüm ortaya çıkana kadar geçen süre (hangisi önce olursa) iki tedavi grubu arasında
+karşılaştırılabilir olmuştur; çalışmadaki kümülatif ölüm oranları entekavir ve adefovir dipivoksil ile
+tedavi edilen hastalarda sırasıyla %23 (23/102) ve %33 (29/89) olmuş, çalışmadaki kümülatif HCC
+oranları ise entekavir ve adefovir dipivoksilde sırasıyla 12% (12/102) ve %20 (18/89) olarak
+bulunmuştur.
+Başlangıçta LVD dirençli sübstitüsyonları olan hastalardan entekavir alanların %44'ünün, adefovir
+alanların ise %20'sinin HBV DNA'ları 24. haftada < 300 kopya/ml olmuş, bu oranlar 48. haftada
+entekavir grubunda %50, adefovir grubunda %17 olarak ölçülmüştür.
+Eşlik eden YAART alan HIV/HBV ko-infekte özel hasta popülasyonları: Çalışma 038 HIV ile ko-
+infekte 67 HBeAg pozitif ve 1 HBeAg negatif hastayı içermiştir. Hastalar lamivudin içeren YAART
+tedavisinde HBV viremi tekrarlaması ile stabil kontrollü HlV'e (HIV RNA < 400 kopya/ml) sahiptir.
+YAART tedavileri emtrisitabin ya da tenofovir dizoproksil fumarat içermemiştir. Temel çizgisinde
+entekavir ile tedavi edilen hastalar daha önceki lamivudin tedavisinin 4.8 yıllık medyan süresi ve 494
+hücre/mm3’lük medyan CD4 sayısına (CD4 sayısı < 200 hücre/mm3 olan sadece 5 hasta ile) sahipti.
+Hastalar lamivudin tedavilerine devam ettiler ve 24 hafta boyunca günde 1 kere 1 mg entekavir (n =
+51) ya da plasebo (n = 17) almak üzere atandılar ve bunu tümünün entekavir aldıkları ek bir 24 hafta
+izledi. 24.haftada HBV viral yükündeki azalma entekavir ile önemli oranda daha yüksekti (0.11 logl0
+kopya/ml'lik bir artışa karşılık -3.65). Başlangıçta entekavir tedavisi almak üzere atanan hastalar için
+48.haftada HBV DNA'daki azalma -4.20 log10 kopya/ml'ydi, başlangıçta normal olmayan ALT'ye
+sahip hastaların %37'sinde ALT normalleşmesi oluşmuş ve hiçbiri HBeAg serokonversiyonuna
+ulaşamamıştır.
+Sayfa 13 / 19Eş zamanlı YAART almayan HIV/HBV ile ko-enfekte hastalar: Aynı zamanda etkili HIV tedavisi
+almayan HIV/HBV ko-enfekte hastalarda entekavir değerlendirilmemiştir. YAART olmadan
+entekavir monoterapisi alan HIV/HBV ko-enfekte hastalarda HIV RNA azalmaları bildirilmiştir.
+Bazı durumlarda, hastanın gelecekte alabileceği YAART tedavilerinin seçimi için uzantılara sahip
+olan HIV M184V varyantının seçimi gözlenmiştir. Bu nedenle, potansiyel HIV direnci gelişimi
+nedeniyle bu durumda entekavir kullanılmalıdır (bkz. Bölüm 4.4.).
+Klinik direnç: Klinik çalışmalarda başlangıçta 0.5 mg (nükleosid-naif) ya da 1.0 mg (lamivudine
+refrakter) entekavir ile tedavi edilip tedavilerinin 24. haftasında ya da daha sonra PCR HBV DNA
+ölçümleri yapılan hastalarda direnç gözlemlenmiştir.
+Nükleosid-naif çalışmaların 240. haftasında rtT184 ve rtS202'de genotipik ETVr sübstitüsyonları
+saptanmış, ya da ikisinin virolojik ilerleme geliştirdiği (bkz. tablo) entekavir ile tedavi edilen 3
+hastada rtM250 tanınmıştır. Bu sübstitüsyonlar yalnızca LVD dirençli sübstitüsyonları olan
+durumlarda gözlenmiştir (rtM204V ve rtL180M).
+Nükleosid-Naif Çalışmalarda 5. Yılda Ortaya Çıkan Genotipik Entekavir Direnci
+Yıl l Yıl 2 Yıl 3a Yıl 4a Yıl 5a
+Tedavi edilip direnç gözlemlenen 663 278 149 121 108
+hastalarb
+Spesifik yılda hasta özellikleri:
+- genotipik ETVrc 1 1 1 0 0
+- genotipik ETVrc ile virolojik ilerlemed 1 0 1 0 0
+Kümülatif olasılıklar:
+- genotipik ETVrc %0.2 %0.5 %1.2 %1.2 %1.2
+- genotipik ETVrc ile virolojik ilerlemed %0.2 %0.2 %0.8 %0.8 %0.8
+a 3. yılda 149 hastanın 147'sinde 1 mg'lık entekavir dozu kullanılmıştır. 4. ve 5. yıllarda bütün hastalar
+kombine entekavir-lamivudin tedavisi almışlardır (bunu uzun süreli entekavir tedavisi izlemiştir); bir
+rollover çalışmada 3. yılda 149 hastadan 130'unun medyanı 20 hafta, 4. yılda 121 hastadan birinin
+medyanı 1 haftadır.
+b 58. haftaya kadar (1. yıl) 24. haftada ya da daha sonra, 102. haftaya kadar (2. yıl) 58. haftadan sonra,
+156. haftaya kadar (3. yıl) 102. haftadan sonra, 204. haftaya kadar (4. yıl) 156. haftadan sonra ya da
+252. haftaya kadar (5. yıl) 204. haftada veya daha sonra tedavileri sırasında en az bir kere PCR ile
+HBV DNA ölçümleri yapılan hastaları kapsar.
+c Hastaların LVD dirençli sübstitüsyonları da vardır.
+d En düşük değerdeki PCR HBV DNA birbirini izleyen ölçümler ile ya da pencereli (windowed) zaman
+noktasının sonunda konfirme edilen şekilde ≥ 1 log artmıştır.
+10
+Entekavir ile tedavi edilip direnç gözlenen lamivudine refrakter 187 hastanın 10'unun (5%) başlangıç
+isolatlarında ETVr sübstitüsyonları (rtM204V/I ± rtL180M LVD dirençli sübstitüsyonlarına ek
+olarak) gözlenmiştir. Demek ki, daha önceki lamivudin tedavisi bu direnç sübstitüsyonlarını seçebilir
+ve bunlar entekavir tedavisinden önce düşük bir sıklıkta bulunabilir. 240. haftada 10 hastanın 3'ü
+virolojik breakthrough (ilerleme) geliştirmiş (dip noktadan ≥ 1 log artış). Lamivudine refrakter
+ıo
+çalışmalarda 240. haftaya kadar ortaya çıkan entekavir direnci tabloda özetlenmiştir.
+Sayfa 14 / 19Lamivudine Refrakter Çalışmalarda 5. Yıla Kadar Ortaya Çıkan Genotipik Entekavir Direnci
+Yıl l Yıl 2 Yıl 3a Yıl 4a Yıl 5a
+Tedavi edilip direnç gözlemlenen 187 146 80 52 33
+hastalarb
+Spesifik yılda hasta özellikleri:
+- genotipik ETVrc 11 12 16 6 2
+- genotipik ETVrc ve virolojik ilerlemed 2e 14e 13e 9e 1e
+Kümülatif olasılıklar:
+- genotipik ETVrc 6.2% 15% 36.3% 46.6% 51.45%
+- genotipik ETVrc ve virolojik ilerlemed 1.1%e 10.7%e 27%e 41.3%e 43.6%e
+a Bir rollover çalışmada 3. yılda 80 hastanın 48'ine medyan 13 hafta, 4. yılda 52 hastanın 10'una
+medyan 38 hafta ve 5. yılda 33 hastanın l'ine medyan 16 hafta uygulanan entekavir - lamivudin
+kombinasyon tedavisinin (ardından uzun süreli entekavir tedavisi) sonuçlarıdır.
+b 58. haftaya kadar (1. yıl) 24. haftada ya da daha sonra, 102. haftaya kadar (2. yıl) 58. haftadan sonra,
+156. haftaya kadar (3. yıl) 102. haftadan sonra, 204. haftaya kadar (4. yıl) 156. haftadan sonra ya da
+252. haftaya kadar (5. yıl) 204. haftada veya daha sonra tedavileri sırasında en az bir kere PCR ile
+HBV DNA ölçümleri yapılan hastaları kapsar.
+c Hastaların LVD dirençli sübstitüsyonları da vardır.
+d En düşük değerdeki PCR HBV DNA birbirini izleyen ölçümler ile ya da pencereli (windowed) zaman
+noktasının sonunda konfirme edi-len şekilde ≥ 1 log artmıştır.
+ıo
+e Herhangi bir yılda ortaya çıkan ETVr; spesifik bir yılda virolojik ilerleme.
+Başlangıç HBV DNA'ları < 107 logı10 kopya/ml olan lamivudine refrakter hastaların 64%'ü (9/14)
+48. haftada < 300 kopya/ml HBV DNA'ya ulaşmıştır. Bu 14 hastanın genotipik entekavir direnç
+oranları genel çalışma popülasyonundan daha düşüktü (5 yıllık takipte 18.8% kümülatif olasılık;
+bkz. Tablo). Ayrıca, 24. haftada PCR ile < 104 log10 kopya/ml HBV DNA elde eden lamivudine-
+refrakter hastalardaki direnç oranı bu sonucu vermeyenlerden daha düşüktü (5 yıllık kümülatif
+olasılıklar sırasıyla 17.6% [n= 50] ve 60.5% [n= 135] olmuştur).
+5.2. Farmakokinetik özellikler
+Genel özellikler:
+Emilim:
+Entekavir, hızla emilir ve 0,5-1,5 saat arasında pik plazma konsantrasyonları oluşur.
+Mutlak biyoyararlanımı belirlenmemiştir. Değişmemiş ilacın idrarla atılımına göre,
+biyoyararlanımının en az 70% olduğu tahmin edilmektedir. 0.1-1 mg arası multipl dozları takiben
+C ve AUC dozla orantılı olarak yükselmiştir. Günde tek dozdan 6-10 gün sonra ≈ 2 katı birikim
+maks
+ile kararlı duruma gelir. C ve kararlı durum C 0.5 mg dozda sırasıyla 4.2 ve 0.3 ng/ml, 1 mg
+max min
+dozda sırasıyla 8.2 ve 0.5 ng/ml olmuştur. Tablet ve oral çözelti sağlıklı gönüllülerde biyoeşdeğer
+olduğundan her iki form birbirinin yerine kullanılabilir.
+0,5 mg entekavirin standart bir çok yağlı yemekle (945 kcal, 54,6 g yağ) veya hafif bir yemekle (379
+kcal, 8,2 g yağ) verilmesi emilimde minimum bir gecikmeyle (açlıkta 0,75 saat karşısında
+beslenmeyle 1-1,5 saat), C 'ta %44-46'lık bir azalma ve EAA'de %18-20'lik bir azalmayla
+maks
+sonuçlanmıştır (bkz. Bölüm 4.2).
+Sayfa 15 / 19Dağılım:
+Entekavir için tahmini dağılım hacmi, toplam vücut sıvıları içinde aşırı olup bu, ilacın dokulara iyi
+nüfuz ettiğini düşündürmektedir. İnsan serum proteinine in vitro bağlanması yaklaşık %13'tür.
+Biyotransformasyon:
+Entekavir CYP450 enzim sisteminin bir substratı, inhibitörü veya indükleyicisi değildir. [14C]
+işaretli entekavir uygulanmasını takiben oksitlenmiş ya da asetillenmiş metabolitlere ve faz II
+metabolitlerine, glukuronid ve sülfat konjugatlarına rastlanmamıştır.
+Eliminasyon:
+Pik düzeylerin ulaştıktan sonra, entekavir plazma konsantrasyonları bi-eksponensiyal tarzda
+azalarak terminal eliminasyon yarı-ömrü yaklaşık 128-149 saat olmaktadır; gözlemlenen ilaç
+birikme indeksinin, günde bir defalık dozla yaklaşık 2 kat olması, etkili bir birikme yarı-ömrünün
+yaklaşık 24 saat olduğunu düşündürmektedir.
+Entekavir ağırlıklı olarak böbreklerden elimine edilmekte olup kararlı durumda idrardan kazanılan
+değişmemiş ilacın oranı, dozun % 75 'idir. Renal klerens dozdan bağımsızdır ve 360-471 ml/dakika
+arasında olması, entekavirin hem glomerüler filtrasyona hem de net tübüler sekresyona uğradığını
+düşündürmektedir.
+Doğrusallık/Doğrusal Olmayan Durum:
+0.1-1 mg arasındaki çoklu dozları takiben C ve EAA değerlerinde dozla-orantılı bir artış vardır.
+maks
+Hastalardaki karakteristik özellikler
+Böbrek yetmezliği:
+Kreatinin klerensi azaldıkça entekavirin klerensi de azalmaktadır. Böbrek yetmezliği olan hastalar
+üzerinde yapılmış l mg'lık tek doz farmakokinetik çalışması sonuçlarına göre kreatinin klerensi < 50
+ml/dakika olan hastalarda dozun ayarlanması önerilir.
+Çeşitli Derecelerde Böbrek Yetmezliği olan Hastalarda Entekavirin Farmakokinetik
+Parametreleri
+Başlangıçtaki Kreatinin Klirensi (ml/dk) Şiddetli Şiddetli
+Hemodiyaliz CAPD ile
+Bozulmamış Hafif Orta Şiddetli ile kontrol kontrol
+>80 >50-≤80 30-50 <30 edilen edilen
+n=6 n=6 n=6 n=6 n=6 n=4
+C 8.1 (30.7) 10.4 (37.2) 10.5 (22.7) 15.3 (33.8) 15.4(56.4) 16.6 (29.7)
+max
+(ng/mL)
+(CV%)
+AUC(0-T) 27.9 (25.6) 51.5(22.8) 69.5 (22.7) 145.7 (31.5) 233.9 (28.4) 221.8 (11.6)
+(nghr/mL)
+(CV)
+CLR 383.2 (101.8) 197.9 (78.1) 135.6 (31.6) 40.3 (10.1) NA NA
+(mL/min)
+(SD)
+CLT/F 588.1 (153.7) 309.2 (62.6) 226.3 (60.1) 100.6 (29.1) 50.6 (16.5) 35.7 (19.6)
+(mL/min)
+(SD)
+Sayfa 16 / 19CLR= Renal Klerens
+CLT/F= Görünür Oral Klerens
+CAPD= Sürekli Ambulatuar Periton Diyaliz
+Karaciğer yetmezliği: Karaciğer yetmezliği olan hastaların farmakokinetik parametreleri, normal
+karaciğer fonksiyonlu hastalarınkine benzerdir.
+Yaşlılar: Entekavirin farmakokinetikleri üzerinde yaşın etkisi 65-83 yaş arası (ortalama yaş
+kadınlarda 69, erkeklerde 74) yaşlılarla 20-40 yaş arası (ortalama yaş kadınlarda 29, erkeklerde 25)
+gençleri karşılaştırarak değerlendirilmiştir. Esasen böbrek fonksiyonlarındaki ve ağırlıktaki
+farklılıklar nedeniyle yaşlılarda genç hastalara göre AUC %29 daha yüksekti. Kreatinin klerensi ve
+vücut ağırlığındaki farklar ayarlandıktan sonra yaşlı hastalar gençlere göre %12.5 daha yüksek
+AUC'ye sahiptir. 16-75 yaş arası hastaları kapsayan popülasyon farmakokinetik analizi yaşın
+entekavir farmakokinetiğini önemli oranda etkilemediğini göstermiştir.
+Karaciğer transplantı sonrası: Stabil bir siklosporin A (n=5) veya takrolimus (n=4) dozu almakta
+olan HBV enfeksiyonlu karaciğer transplantı alıcılarındaki entekavir maruziyeti, normal renal
+fonksiyonu olan sağlıklı deneklerdekinin yaklaşık 2 katı kadardı. Bu hastalarda değişen böbrek
+fonksiyonu, entekavire maruz kalınmasında artışa neden olmuştur (bkz. Bölüm 4.4.).
+Cinsiyet: Renal fonksiyon ve ağırlık farklılıkları nedeni ile AUC kadınlarda erkeklerde olduğundan
+% 14 daha fazlaydı. Kreatinin klerensi ve vücut ağırlığı farklılıkları ayarlandıktan sonra, erkek ve
+kadın vakaların maruziyetleri arasında bir fark kalmamıştır.
+Irk: Popülasyon farmakokinetik analizinde entekavirin farmakokinetiği ırktan etkilenmemiştir.
+Ancak, bu sonuçlara yalnızca beyaz ve Asya ırkından vakalar için varılabilir, çünkü diğer ırklardan
+çok az vaka vardır.
+5.3. Preklinik güvenlilik verileri
+Köpeklerde tekrar dozu toksikoloji çalışmalarında, geri çevrilebilir perivasküler enflamasyon,
+insanlardaki 19 ve 10 kat maruziyetlere karşılık gelen (sırasıyla 0.5 ve 1 mg) etkisiz dozların olduğu
+merkezi sinir sisteminde gözlenmiştir. Bu bulgu, insanlara göre ≥ 100 kat maruziyetlerde 1 yıl
+boyunca her gün entekavir verilen maymunlar dahil diğer türlerde tekrar doz çalışmalarında
+gözlenmemiştir.
+Hayvanlara 4 haftaya kadar entekavir verildiği üreme toksikoloji çalışmalarında, yüksek
+maruziyetlerde erkek ya da dişi sıçanlarda bozulmuş fertilite bulgusu görülmemiştir. İnsanlara göre
+≥26 kat maruziyetlerde kemirgen ve köpeklerde tekrar doz toksikoloji çalışmalarında testiküler
+değişiklikler (seminifer tübüler dejenerasyon) belirgindir. Maymunlarda 1 yıllık bir çalışmada hiçbir
+testiküler değişiklik yoktur.
+Entekavir verilen gebe sıçan ve tavşanlarda, insanlardakilere göre ≥ 21 kat daha yüksek
+maruziyetlere embriyotoksisite ve maternal toksisite için etkisiz seviyeler karşılık gelmiştir.
+Sıçanlarda yüksek maruziyetlerde maternal toksisite, embriyofetal toksisite (emilmeler), düşük fetal
+vücut ağırlığı, kuyruk ve omurga sakatlıkları, azalmış osifikasyon (omurlar, sternebralar ve
+falankslar) ve ekstra lumbar omurlar ve kaburgalar gözlenmiştir. Tavşanlarda yüksek maruziyette
+embriyofetal toksisite (rezorpsiyon), azalmış osifikasyon (hyoid) ve yüksek 13. kosta insidansı
+gözlenmiştir. Sıçanlarla yapılan bir peri-postnatal çalışmada yavrular üzerinde hiçbir advers etki
+gözlenmemiştir. Entekavirin gebe-emziren sıçanlara 10 mg/kg dozunda verildiği farklı bir
+çalışmada hem entekavire fetal maruziyet ve hem de entekavirin süte geçişi gösterilmiştir.
+Sayfa 17 / 19Bir memeli hücresi gen mutasyon analizi olan, Ames mikrobik mutajenesite analizinde ve Syrian
+hamster embriyo hücreleri ile bir transformasyon analizinde genotoksisite bulgusu yoktur.
+Sıçanlarda bir mikro çekirdek çalışması ve bir DNA tamiri çalışması da negatiftir. Entekavir klinik
+olarak elde edilenden önemli oranda daha yüksek dozlarda insan lenfosit kültürlerine klastojeniktir.
+İki yıllık karsinojenesite çalışmaları: Erkek farelerde sırasıyla insanlarda 0.5 ve 1 mg'a karşı ≥ 4 ve
+≥ 2 kat daha yüksek maruziyetlerde akciğer tümörleri insidansında artışlar gözlenmiştir. Tümör
+gelişiminin öncesinde sıçan, köpek ya da maymunlarda gözlenmeyen akciğerde pnömosit
+proliferasyonu görülür. Bu durum muhtemelen türe özgü olarak farelerde gözlenen akciğer tümörü
+gelişiminde önemli bir olayı gösterir. Sadece yüksek hayat boyu maruziyetlerde erkek ve dişi
+sıçanlarda beyin gliomları, erkek farelerde karaciğer karsinomları, dişi farelerde benign vasküler
+tümörler ve dişi sıçanlarda karaciğer adenomları ve karsinomları içeren diğer tümörlerin yüksek
+insidansları görülür. Ancak etkisiz seviyeler tam olarak belirlenemez. İnsanlar için bulguların
+tahmin edilebilirliği bilinmemektedir.
+6. FARMASÖTİK ÖZELLİKLER
+6.1. Yardımcı maddelerin listesi
+Laktoz monohidrat
+Mikrokristalin selüloz
+Krospovidon
+Magnezyum stearat
+Titanyum dioksit (E171)
+Kırmızı demir oksit (E172)
+Sarı demir oksit (E172)
+Hipromelloz
+Polietilen glikol 8000
+Talk
+6.2. Geçimsizlikler
+Geçerli değildir.
+6.3. Raf ömrü
+24 ay
+6.4. Saklamaya yönelik özel uyarılar
+25°C'nin altında oda sıcaklıklarında orijinal ambalajında saklayınız.
+6.5. Ambalajın niteliği ve içeriği
+Karton kutu ambalajda çocuk kilit kapaklı HDPE şişede 30 tablet içerir.
+6.6. Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+Kullanılmamış olan ürünler ya da atık materyaller ‘Tıbbi Atıkların Kontrolü Yönetmeliği’ ve
+‘Ambalaj ve Ambalaj Atıklarının Kontrolü Yönetmelikleri’ne uygun olarak imha edilmelidir.
+7. RUHSAT SAHİBİ
+ATABAY KİMYA SAN. VE TİC. A. Ş.
+Acıbadem, Köftüncü Sok. No:1
+34718 Kadıköy/İSTANBUL
+Sayfa 18 / 198. RUHSAT NUMARASI
+244/62
+9. İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi: 31.08.2012
+Ruhsat yenileme tarihi:
+10. KÜB'ÜN YENİLENME TARİHİ
+Sayfa 19 / 19

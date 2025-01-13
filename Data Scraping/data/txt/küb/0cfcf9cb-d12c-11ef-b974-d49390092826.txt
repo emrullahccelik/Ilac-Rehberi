@@ -1,0 +1,338 @@
+KISA ÜRÜN BİLGİSİ
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+TAEK-PHT 123I-NaI (Sodyum İyodür) 37 MBq/mL I.V Enjeksiyonluk Çözelti İçeren Flakon
+Steril
+2.KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin Madde:
+Çözeltinin 1mL’si kalibrasyon tarih ve saatinde 37 MBq Sodyum iyodür (123I) içerir.
+Kalibrasyon zamanında ürünün radyonüklidik saflığı %99.65’tir ve başlıca nüklidik safsızlıklar
+(iyot-125 ve telleryum-121) % 0.35’in altındadır.
+Her bir flakondaki aktivite kalibrasyon tarih ve saatinde maksimum 370 MBq’dir.
+İyot (123I) siklotron ürünü radyoizotop olup 13.2 saat yarı ömüre sahiptir. Bozunma
+sırasında 159 keV enerjili gama radyasyonu ve 27 keV enerjili X-ışını radyasyonu yayar.
+Yardımcı madde:
+İzotonik sodyum klorür çözeltisi (Sodyum içeriği: 3.54 mg/ml)
+Yardımcı maddelerin listesi için 6.1'e bakınız.
+3.FARMASÖTİK FORM
+Enjeksiyonluk çözelti.
+Berrak ve renksiz çözelti.
+4.KLİNİK ÖZELLİKLER
+4.1 Terapötik Endikasyonlar
+Bu tıbbi ürün sadece diyagnostik kullanım içindir.
+TAEK-PHT 123I-NaI (Sodyum İyodür) enjeksiyonluk çözeltisi; sintigrafi ve radyoaktif iyot uptake
+testi ile tiroit bezi üzerinde yapılan fonksiyonel ya da morfolojik çalışmalarda diyagnostik ajan
+(görüntüleme ajan) olarak kullanılır.
+24 saatlik uptake verileri genellikle terapötik dozun hesaplanmasında kullanılır.
+4.2 Pozoloji ve uygulama şekli
+Pozoloji:
+Yetişkin ve yaşlı popülasyon
+Yetişkinlerde intravenöz yolla (70 kg) önerilen TAEK-PHT 123I-NaI (Sodyum İyodür)
+enjeksiyonluk çözeltisinin dozu 3.7- 14.8 MBq’dir. Düşük doz (3.7 MBq) uptake çalışmaları için,
+daha yüksek doz ise (11.1 – 14.8 MBq) tiroit sintigrafisi için önerilmektedir. Bununla birlikte;
+uptake ya da sintigrafi için uygulanacak doza nükleer tıp uzmanı tarafından karar verilir.
+Tiroit İyot-123 uptake hızının belirlenmesi, iyi kurulmuş standart prosedürlerle uyumlu olarak
+yürütülmelidir.
+1/11Çocuklara uygulanacak aktivite düzeyleri yetişkinler için tavsiye edilen aktivite aralığı kullanılarak
+hesaplanabilir ve aşağıdaki formüle göre ayarlanabilir;
+Aktivite−Yetişkin(MBq) ×vücut ağırlığı (Kg)
+𝐴𝐴𝐴𝐴𝑡𝑡𝑖𝑖𝑖𝑖𝑖𝑖𝑡𝑡𝑖𝑖 −Ç𝑜𝑜𝑜𝑜𝑜𝑜𝐴𝐴 (𝑀𝑀𝑀𝑀𝑀𝑀) =
+70 (Kg)
+Küçük yaş çocuklarda, yeterli kalitede görüntü elde edebilmek için yukarıdaki eşitlikte 14.8 MBq
+aktivite değeri kullanılmalıdır.
+Uygulama şekli:
+TAEK-PHT 123I-NaI (Sodyum İyodür) hastaya intravenöz yolla verilmeli, rutin kontrol olarak
+enjeksiyondan hemen önce hastaya verilecek ilaç içerisindeki aktivite, doz klibratörü ile
+ölçülmelidir. Görüntüleme, ilaç hastaya verildiği andan itibaren 3-6 saat içerisinde yapılmalıdır.
+İlacın hazırlanmasına yönelik talimatlar Bölüm 12’de verilmiştir.
+4.3 Kontrendikasyonlar
+• Etkin maddeye veya yardımcı maddelere hassasiyeti olan hastalarda kontrendikedir.
+• Hamile ve emziren kadınlarda kontrendikedir. Bu nedenle uygulamadan önce hamilelik
+durumu saptanmalıdır. Ancak, uygulama ile sağlanması düşünülen faydaların uygulama ile
+doğabilecek potansiyel zararı karşılayabileceği durumlarda emziren ve hamile kadınlara
+uygulanabilir.
+4.4 Özel kullanım uyarıları ve önlemleri
+RADYOFARMASÖTİKLER SADECE NÜKLEER TIP UZMANLARI TARAFINDAN
+NÜKLEER TIP MERKEZLERİNDE UYGULANIR.
+Radyofarmasötiklerin kabulü, saklanması ve nakli özel mevzuata uygun olmalıdır.
+Radyafarmasötiklerin uygulanmasında genç bireylere, çocuk doğurabilecek yaştaki kadınlar ve
+laktasyon dönemindeki annelere özen gösterilmelidir.
+Bireysel yarar/risk doğrulaması
+Her bir hasta için, radyasyon maruziyeti muhtemel yararı ile gerekçelendirilmelidir.
+Uygulanan aktivite her vakada gerekli tanısal bilgiyi elde etmek için mümkün olan en düşük dozda
+olmalıdır.
+Pediyatrik popülasyon
+Pediyatrik popülasyonda kullanımla ilgili bilgi için bölüm 4.2’ye bakınız.
+TAEK-PHT 123I-NaI (Sodyum İyodür) hastayı ve hastane personelini mümkün olduğunca korumak
+üzere, yeterli korunmayı sağlayacak şekilde kurşun veya tungsten zırhlar içinde saklanmalı ve işlem
+görmelidir. Özellikle, flakondan ilaç çekilirken ve enjeksiyon yapılırken, kişinin yaydığı
+radyasyondan uygun bir zırhlama ile korunması önerilir. Bilgi için bölüm 6.6'ya bakınız.
+2/11Özel uyarılar
+Bu tıbbi ürün her ml’sinde 1 mmol (23 mg)’dan daha az sodyum içermektedir. Bunlara bağlı
+herhangi bir etki beklenmez.
+4.5 Diğer tıbbi ürünlerle etkileşim ve diğer etkileşim şekilleri
+Hastaya yakın zamanda iyotlu bir kontrast madde verilmesi, hastanın herhangi bir formda kararlı
+iyot alması ya da tiroit, anti-tiroit ve belli bazı ilaçlar ile kullanımı Sodyum iyodür (123I)
+enjeksiyonluk çözeltisi uptake’ini (tutulumu) düşürebilir. Bu nedenle, hastanın beslenme şekli
+(diyeti), görmekte olduğu ilaç tedavisi ve radyografik kontrast madde içeren prosedürler dikkatlice
+sorgulanmalıdır. Aşağıda bildirilen ilaç tedavilerinden herhangi bir tedavi söz konusu
+olduğunda 123I-NaI uygulanmadan önce detaylı olarak ele alınmalıdır (Tablo 1).
+Etken madde 123I-NaI uygulanmasından önce ilacın kullanılması
+gereken süre
+Amiodaron 4 hafta
+Antitiroit ajanlar (örn: karbimazol, 1 hafta
+tiyamazol,propilurasil)
+Lityum 4 hafta
+Doğal ya da sentetik tiroit 2-3 hafta
+preparatları (levotiroksin sodyum,
+liyotronin sodyum tiroit) 2 hafta
+Ekspektoran, vitaminler 1 hafta
+Perklorat 1-2 hafta
+Fenilbütazon 1 hafta
+Salisilatlar 1 hafta
+Steroidler 1 hafta
+Sodyum nitroprusit 1 hafta
+Sülfobromofitaleyin sodyum
+Diğer ajanlar: 1 hafta
+Antikoagülantlar, antihistaminikler,
+antiparasitikler, penisilinler,
+sülfonamidler, tolbütamit, tiyopental
+Benzodiazepinler 4 hafta
+Topikal iyodürler 1-9 ay
+İntravenöz kontrast ajanlar 1-2 ay
+İyot içeren kontrast ajanlar 1 yıla kadar
+4.6 Gebelik ve laktasyon
+Genel Tavsiye:
+Gebelik sınıfı: X
+3/11Çocuk doğurma potansiyeli bulunan kadınlar / Doğum kontrolü (kontrasepsiyon) Radyoaktif
+tıbbi ürünün verilmesinin zorunlu olduğu doğurganlık çağındaki kadınlarda gebelik mutlaka
+sorgulanmalıdır. Adet periyodunda gecikme olan kadınlar aksi ispat edilmedikçe gebe kabul
+edilmelidir. Gebelik şüphesi olan kadınlarda istenilen klinik bilgiye ulaşmak için hastaya iyonize
+radyasyon kullanılmayan alternatif bir teknik (eğer varsa) önerilmelidir.
+Gebelik dönemi
+Radyasyon gebelik döneminde uygulandığı takdirde, radyasyon dozu fetüsü de
+etkileyebileceğinden ciddi doğum kusurlarına yol açmaktadır.
+Gebelik süresince sadece zorunlu araştırmalar için, anne ve fetüsün uğrayacağı riskin üzerinde
+fayda sağlanması halinde uygulanmalıdır.
+Laktasyon dönem
+TAEK-PHT 123I-NaI (Sodyum İyodür) enjeksiyonluk çözeltisi anne süte ile atıldığından, emziren
+annelere uygulanmadan önce, annenin emzirme dönemi bitinceye kadar uygulamanın
+ertelenmesinin makul olup olmadığı etraflıca değerlendirilmelidir. Emziren annelere uygulama
+yapılması gerekli görüldüğünde ise, iyot -123 yanında radyoaktif kontaminant olarak iyot-125
+ve/veya iyot-124 içerebilen bu ilacın hastaya verilmesinden itibaren 1.5-3 gün süre ile emzirmeye
+ara verilmelidir. Bu süreçte salgılanan süt sağılmalı ve atılmalıdır. Bebeğin sütteki radyasyondan
+dolayı maruz kalacağı radyasyon dozu 1 mSv’in altına düştükten sonra emzirmeye devam edilebilir.
+4.7 Araç ve makine kullanımı üzerindeki etkiler
+Araç ve makine kullanılmaması gerektiğine dair bir veri bulunmamaktadır.
+4.8 İstenmeyen etkiler
+İstenmeyen etkilerin sıklığı şu şekildedir:
+Çok sık (≥1/10) , sık (≥1/100’den <1/10’a), daha düşük sıklıkta (≥1/1000’den < 1/100’e), nadiren
+(≥ 1/10000’den < 1/1000’e), çok nadir (< 1/10000) ve bilinmeyen (mevcut veriler ile tahmin
+edilememektedir).
+Bağışıklık sistemi (immün sistem) hastalıkları
+Bilinmemektedir: Hipersensitivite (aşırı duyarlılık, hassasiyet)
+İyonlaştırıcı radyasyona maruziyet, kanser ve kalıtsal hasar gelişimine yol açabilir. Bu ilaç için
+tavsiye edilen maksimum hasta dozu olan 14.8 MBq aktivite değeri, hastaya verildiğinde, efektif
+doz 2.2 mSv olup söz konusu istenmeyen etkilerin ortaya çıkma olasılığı düşüktür.
+Nükleer tıp uygulamalarının kullanıldığı pek çok diyagnasotik araştırmalar için efektif doz 20
+mSv’in altındadır. Bazı klinik şartlarda daha yüksek dozlar gerekçelendirilebilir.
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem taşımaktadır.
+Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine olanak sağlar. Sağlık
+mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye Farmakovijilans Merkezi
+4/11(TÜFAM)’ne bildirmeleri gerekmektedir (www.titck.gov.tr; eposta: tufam@titck.gov.tr; tel:0 800
+314 00 08; faks: 0 312 218 35 99).
+4.9 Doz aşımı ve tedavisi
+Sodyum iyodür (123I)'ün aşırı dozda uygulanması durumunda, hasta tarafından absorbe edilen dozu
+azaltmak için diürez ve sık idrara çıkma ile radyonüklidin vücuttan atılımı arttırılmalıdır. Tiroit
+ışınlanmasını en aza indirmek için potasyum perklorat gibi bloklayıcı bir ajan kullanılması
+gerekebilir.
+5.FARMAKOLOJİK ÖZELLİKLER
+5.1 Farmakodinamik özellikler
+Farmakoterapötik grubu: İyot ile ilgili diyagnostik radyofarmasötikler, Sodyum İyodür (123I)
+ATC kodu: V09FX02
+Diyagnostik incelemeler için kullanılan kimyasal dozlarda, sodyum iyodür herhangi bir
+farmakodinamik aktivite göstermez.
+5.2 Farmakokinetik Özellikler
+İntravenöz yolla hastaya verilen iyot, tiroit tarafından tutulur. Radyoaktivitenin yaklaşık % 20’si
+kanın ilk geçişi ile tiroide gider. Normal şartlarda kandan tiroide 123I klirensi 20-50 mL/dk iken bu
+değer tiroidin yetersizliğinde 100 mL/dk’ya çıkmaktadır.
+İlacın hastaya verilmesini takip eden birkaç saat içerisinde, tiroit bezinde iyot seviyesi pik
+noktalara ulaşır, bu nedenle diyagnostik görüntüleme ilaç hastaya enjekte edildikten 1 saat sonra
+gerçekleştirilebilir.
+Tiroitten biyolojik yarılanma ile iyot eliminasyonunun 80 gün olduğu tahmin edilmektedir. Bu
+nedenle iyot 123’ün fiziksel yarı ömrü olan 13.2 saat görüntüleme imkânı için gerekli olan süreyi
+belirler.
+İyotun vücuttan atılımı büyük oranda (% 3 7 -75) yoluyla gerçekleşir, feçes yolla atılım oldukça
+düşüktür (yaklaşık % 1).
+5.3 Klinik öncesi güvenlilik verileri
+Sodyum iyodürün diğerlerine nazaran yüksek dozlarının kullanımından kaynaklanan bilinen toksik
+etkileri, 123I’ün diyognastik amaçla tiroit görüntülemesindeki bu kullanımı ile ilgili değildir.
+Tekrarlanan doz kullanımı toksisitesi ve üreme toksitisitesi üzerine yapılmış hayvan modellerinden
+elde edilen bir veri bulunmamaktadır.
+TAEK-PHT 123I-NaI (Sodyum İyodür); mutajenik, karsinojenik /onkojenik potansiyeli
+araştırılmamıştır.
+5/116.FARMASÖTİK ÖZELLİKLER
+6.1 Yardımcı maddelerin listesi
+Enjeksiyonluk su
+Sodyum hidroksit
+İzotonik sodyum klorür çözeltisi
+6.2 Geçimsizlikler
+Bu tıbbi ürün, geçimsizlik çalışmaları yapılmadığından, hiçbir tıbbi ürün ile karıştırılmamalıdır.
+6.3 Raf ömrü
+Üretim tarih ve saatinden itibaren 72 saattir.
+Açıldıktan sonra 25 ºC' nin altında saklanmalı ve açıldıktan sonra 8 saat içerisinde tüketilmelidir.
+6.4 Saklamaya yönelik özel tedbirler
+Kurşun zırhlı taşıyıcı kabı içinde 25º C’nin altında saklanmalıdır.
+Dondurmayınız.
+Radyofarmasötikler, radyoaktif maddeler ile ilgili ulusal mevzuata uygun olarak saklanmalıdır.
+6.5 Ambalajın niteliği ve içeriği
+Kurşun zırh içinde kauçuk tıpa ve alüminyum halka ile kapatılan 15 mL’lik şeffaf Tip I cam vial.
+Bir flakon en fazla 10 mL çözelti içerir ve her bir flakondaki aktivite, kalibrasyon tarih ve saatinde
+maksimum 370 MBq’ dir.
+Çoklu doz içeren flakon.
+6.6 Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+Genel uyarılar
+Radyofarmasötikler belirlenmiş klinik ortamlarda sadece yetkili kişiler tarafından teslim alınmalı,
+kullanılmalı ve uygulanmalıdır. Teslim alınmaları, saklanmaları, kullanım, transfer ve imha
+edilmeleri mevzuat ve/veya yetkili resmi organizasyonların uygun lisanslarına tabidir.
+Radyofarmasötikler hem radyasyon güvenliği hem de farmasötik kalite gerekliliklerini yerine
+getirecek şekilde hazırlanmalıdır. Uygun aseptik önlemler alınmalıdır.
+Radyofarmasötik uygulanması, dış radyasyon veya idrar dökülmesi, kusma v.s nedenleri ile
+bulaşma yüzünden diğer kişiler için risk oluşturur. Bu nedenle ulusal mevzuata uygun olarak,
+radyasyondan korunma önlemleri alınmalıdır.
+Kullanılmamış tıbbi ürün veya atıklar, ‘Tıbbi Atıkların Kontrolü Yönetmeliği’ ve Türkiye Atom
+Enerjisi Kurumu’nun “Radyoaktif Madde Kullanımından Oluşan Atıklara İlişkin Yönetmeliği”
+kurallarına uygun olarak bertaraf edilmelidir.
+6/117.RUHSAT SAHİBİ
+TAEK SANAEM, Proton Hızlandırıcısı Tesisi
+Saray Mah. Atom Cad. No: 27
+Kahramankazan/ANKARA
+Tel: (0312) 810 15 00
+Faks: (0312) 815 43 01
+8.RUHSAT NUMARASI (LARI)
+2018/35
+9.İLK RUHSAT TARİHİ/ RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi: 25.01.2018
+Ruhsat yenileme tarihi:
+10.KÜB’ ün YENİLENME TARİHİ
+11.DOZİMETRİ
+İyot 123’ün üretim prosedürüne bağlı olarak üründe, iyot 125 ve/veya iyot 124 gibi safszılıklar,
+farklı organların radyasyon dozimetresini artıran daha uzun ömürlü kontaminatlar olarak
+bulunabilirler. Uluslararası Radyasyondan Korunma Komisyonu modeli (ICRP 106; International
+Comission on Radiogical Protection) intravönez uygulamaya atıfta bulur.
+Kalibrasyon tarih ve saatinde radyonüklidik saflık en az % 99.65 olup, başlıca radyonüklidik
+safsızlıklar iyot 125 ve telleryum 121 % 0.35’in altındadır.
+Bu ürün için efektif doz eşdeğeri 14.8 MBq aktivite verildiğinde 2.2 mSv’tir.
+Bu efektif doz eşdeğeri tiroit bezlerinin uptake’ine bağlıdır.
+Aşağıdaki tabloda Uluslararası Radyasyondan Korunma Komisyonu’nun 53 numaralı yayınına göre
+hesaplanmış dozimetri değerleri yer almaktadır (ICRP 53;International Commission of Radiological
+Protection, Radiation Dose to Patients from Radiopharmaceuticals, Pergamon Press, 1987).
+Efektif (tüm vücut) doz eşdeğeri (EDE) 6 standart organ (gonatlar, meme, kırmızı kemik iliği,
+akciğerler, tiroit ve kemik yüzeyi) ve radyasyon dozunu en çok absorbe eden 5 ilave organ (* ile
+işaretlenmiştir) baz alınarak hesaplanmıştır.
+7/11SODYUM İYODÜR (123I)
+Tiroit bezinde tutulma, uptake %0
+Uygulanan doz başına dokularda absorblanan doz değerleri (mGy/MBq)
+Organlar Yetişkin 15 yaş 10 yaş 5 yaş 1 yaş
+Adrenal 7.0E-03 8.7E-03 1.4E-02 2.1E-02 3.9E-02
+*Mesane duvarı 9.0E-02 1.1E-01 1.6E-01 2.4E-01 4.5E-01
+Kemik yüzeyleri 8.1E-03 9.7E-03 1.5E-02 2.4E-02 4.6E-02
+Meme 5.6E-03 5.6E-03 8.1E-03 1.3E-02 2.5E-02
+GI-yolu:
+Mide duvarı 6.9E-03 8.5E-03 1.4E-02 2.1E-02 3.7E-02
+*Küçük intest 8.5E-03 1.0E-02 1.6E-02 2.5E-02 4.6E-02
+*ULI duvarı 8.0E-03 9.9E-03 1.5E-02 2.4E-02 4.3E-02
+*LLI duvarı 9.7E-03 1.2E-02 1.9E-02 2.9E-02 5.4E-02
+*Böbrekler 1.1E-02 1.4E-02 2.0E-02 2.9E-02 5.1E-02
+Karaciğer 6.7E-03 8.2E-03 1.3E-02 2.0E-02 3.7E-02
+Akciğer 6.1E-03 7.8E-03 1.2E-02 1.9E-02 3.5E-02
+Yumurtalıklar 9.8E-03 1.2E-02 1.9E-02 3.0E-02 5.3E-02
+Pankreas 7.6E-03 9.1E-03 1.4E-02 2.2E-02 4.1E-02
+Kırmızı kemik iliği 9.4E-03 1.1E-02 1.7E-02 2.6E-02 4.7E-02
+Dalak 7.0E-03 8.3E-03 1.3E-02 2.0E-02 3.7E-02
+Testisler 6.9E-03 9.4E-03 1.5E-02 2.5E-02 4.8E-02
+Troid 5.1E-03 7.7E-03 1.2E-02 2.0E-02 3.7E-02
+Rahim 1.4E-02 1.7E-02 2.8E-02 4.3E-02 7.6E-02
+Diğer doku 6.4E-03 7.7E-03 1.2E-02 1.9E-02 3.5E-02
+EDE (mSv/MBQ) 1.3E-02 1.6E-02 2.4E-02 3.7E-02 6.7E-02
+Tamamlanmamış blokaj:
+Troitte küçük uptake efektif doz eşdeğeri
+Uptake : %0.5 1.6E-02 2.0E-02 3.1E-02 5.2E-02 9.6E-02
+Uptake : %1.0 1.9E-02 2.5E-02 3.8E-02 6.7E-02 1.3E-01
+Uptake : %2.0 2.5E-02 3.4E-02 5.2E-02 9.9E-02 1.8E-01
+Radyonüklidik safsızlıkların etkisi:
+Radyonüklidik safsızlıklar (125I ve 121 Te), yaklaşık olarak efektif doz eşdeğerini kalibrasyon
+saatinde %0,5 ve son kullanma tarihinde %3 artır.
+8/11SODYUM İYODÜR (123I)
+Tiroit bezinde tutulma, uptake %35
+Uygulanan doz başına dokularda absorblanan doz değerleri (mGy/MBq)
+Organlar Yetişkin 15 yaş 10 yaş 5 yaş 1 yaş
+Adrenal 6.5E-03 8.4E-03 1.3E-02 2.1E-02 3.8E-02
+*Mesane duvarı 6.0E-02 7.4E-02 1.1E-01 1.6E-01 3.0E-01
+Kemik yüzeyleri 7.9E-03 1.1E-02 1.6E-02 2.5E-02 4.6E-02
+Meme 5.2E-03 5.2E-03 8.5E-03 1.5E-02 2.7E-02
+GI-yolu:
+*Mide duvarı 6.8E-02 8.5E-02 1.2E-01 2.0E-01 3.8E-01
+*Küçük intest 4.2E-02 5.4E-02 9.0E-02 1.4E-01 2.7E-01
+*ULI duvarı 1.8E-02 1.9E-02 2.9E-02 4.5E-02 7.6E-02
+LLI duvarı 1.0E-02 1.4E-02 2.1E-02 3.2E-02 5.8E-02
+Böbrekler 9.1E-03 1.1E-02 1.6E-02 2.4E-02 4.1E-02
+Karaciğer 6.3E-03 7.8E-03 1.3E-02 2.1E-02 4.0E-02
+Akciğer 6.5E-03 8.6E-03 1.4E-02 2.2E-02 4.2E-02
+Yumurtalıklar 1.1E-02 1.5E-02 2.4E-02 3.7E-02 6.6E-02
+*Pankreas 1.4E-02 1.6E-02 2.4E-02 3.6E-02 6.2E-02
+Kırmızı kemik iliği 1.0E-02 1.3E-02 1.9E-02 2.8E-02 4.8E-02
+Dalak 9.6E-03 1.1E-02 1.7E-02 2.5E-02 4.5E-02
+Testisler 5.0E-03 6.8E-03 1.1E-02 1.8E-02 3.5E-02
+Troid 4.5E+00 7.0E+00 1.1E+01 2.3E+01 4.3E+01
+Rahim 1.4E-02 1.7E-02 2.9E-02 4.4E-02 7.9E-02
+Diğer doku 8.0E-03 1.0E-02 1.6E-02 2.6E-02 4.9E-02
+EDE (mSv/MBQ) 1.5E-01 2.3E-01 3.5E-01 7.4E-01 1.4E+00
+Radyonüklidik safsızlıkların etkisi:
+Radyonüklidik safsızlıklar (125I ve 121 Te), yaklaşık olarak efektif doz eşdeğerini kalibrasyon
+saatinde %0,6 ve son kullanma tarihinde %4 artır.
+9/11SODYUM İYODÜR (123I)
+Tiroit bezinde tutulma, uptake %55
+Uygulanan doz başına dokularda absorblanan doz değerleri (mGy/MBq
+Organlar Yetişkin 15 yaş 10 yaş 5 yaş 1 yaş
+Adrenal 6.5E-03 8.5E-03 1.4E-02 2.1E-02 3.9E-02
+*Mesane duvarı 4.3E-02 5.3E-02 7.9E-02 1.2E-01 2.2E-01
+Kemik yüzeyleri 8.6E-03 1.2E-02 1.8E-02 2.8E-02 5.1E-02
+Meme 5.6E-03 5.6E-03 9.5E-03 1.7E-02 3.1E-02
+GI-yolu:
+*Mide duvarı 6.8E-02 8.5E-02 1.2E-01 2.0E-01 3.9E-01
+*Küçük intest 4.2E-02 5.4E-02 9.1E-02 1.4E-01 2.7E-01
+*ULI duvarı 1.8E-02 1.9E-02 2.9E-02 4.4E-02 7.6E-02
+LLI duvarı 9.8E-03 1.3E-02 2.0E-02 3.0E-02 5.5E-02
+Böbrekler 9.1E-03 1.1E-02 1.6E-02 2.4E-02 4.1E-02
+Karaciğer 6.4E-03 7.9E-03 1.3E-02 2.2E-02 4.1E-02
+Akciğer 7.2E-03 9.7E-03 1.6E-02 2.6E-02 4.8E-02
+Yumurtalıklar 1.1E-02 1.5E-02 2.3E-02 3.6E-02 6.4E-02
+*Pankreas 1.4E-02 1.6E-02 2.5E-02 3.6E-02 6.3E-02
+Kırmızı kemik iliği 1.1E-2 1.5E-02 2.1E-02 3.0E-02 5.2E-02
+Dalak 9.7E-03 1.1E-02 1.7E-02 2.6E-02 4.6E-02
+Testisler 4.6E-03 6.2E-03 1.0E-02 1.6E-02 3.2E-02
+Troid 7.0E+00 1.1E+01 1.7E+01 3.6E+01 6.8E+01
+Rahim 1.2E-02 1.6E-02 2.6E-02 4.0E-02 7.2E-02
+Diğer doku 9.2E-03 1.2E-02 1.9E-02 3.1E-02 5.8E-02
+EDE (mSv/MBQ) 2.3E-01 3.5E-01 5.3E-01 1.1E+00 2.1E+00
+Radyonüklidik safsızlıkların etkisi:
+Radyonüklidik safsızlıklar (125I ve 121 Te), yaklaşık olarak efektif doz eşdeğerini kalibrasyon
+saatinde %0,6 ve son kullanma tarihinde %4 artır.
+12.RADYOFARMASÖTİKLERİN HAZIRLANMASINA YÖNELİK TALİMATLAR
+NaI (123I) hastaya uygulamaya hazır formda üretilmektedir. Kurşun zırh içerisinde
+15 mL’ lik renksiz Tip I cam flakon içerisindedir.
+Hasta dozu ayarlanırken kurşun zırh arkasında çalışılmalı ve aseptik koşullara uyulmalıdır.
+İşleme başlamadan önce flakon görsel olarak kontrol edilmelidir.
+Çözeltinin partiküler madde içerip içermediği ve berraklığı görsel olarak kontrol edilmelidir.
+Berrak olmayan çözelti kullanılmamalıdır.
+10/11Hasta dozu radyasyon güvenliğini sağlayacak yapıda zırhlı bir enjektörle çekilmelidir. İşlem
+öncesinde flakon lastik tıpası bir dezenfektan ile silinmelidir.
+Bir doz kalibratöründe ölçüm yapılarak aktivite düzeyi belirlenmelidir. Bu ürün koruyucu içermez.
+Açıldıktan sonra 25 ºC' nin altında saklanmalı ve açıldıktan sonra 8 saat içerisinde tüketilmelidir.
+Bu radyofarmasötiğin alınması, kullanılması ve uygulaması sadece yetkili personel tarafından
+yapılmalıdır.
+Radyofarmasötik uygulamaları hasta dışındaki kişiler için harici radyasyon ve kusma ve/veya idrar
+yoluyla bulaşma gibi risklere neden olabilir. Bu riskleri en aza indirmek için TAEK Radyasyondan
+Korunma Yönetmeliğine uygun olarak radyasyondan korunma önlemleri alınmalıdır.
+11/11

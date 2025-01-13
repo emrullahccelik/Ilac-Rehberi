@@ -1,0 +1,425 @@
+KISA ÜRÜN BİLGİSİ
+Bu ilaç ek izlemeye tabidir. Bu üçgen yeni güvenlilik bilgisinin hızlı olarak belirlenmesini
+sağlayacaktır. Sağlık mesleği mensuplarının şüpheli advers reaksiyonları TÜFAM’a
+bildirmeleri beklenmektedir. Bakınız Bölüm 4.8 Advers reaksiyonlar nasıl raporlanır?
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+COAGADEX 500 IU I.V. enjeksiyonluk çözelti hazırlamak için toz ve çözücü
+Steril
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde:
+COAGADEX, her flakonda nominal olarak 500 IU insan koagülasyon faktörü X içeren bir
+enjeksiyonluk çözelti tozu ve çözücüsü olarak takdim edilir.
+COAGADEX, 5 mL sterilize enjeksiyonluk su ile sulandırıldığında yaklaşık 100 IU/mL insan
+koagülasyon faktörü X içerir.
+Yardımcı madde(ler):
+COAGADEX bir flakonunda toplam 46 mg sodyum içerir.
+Yardımcı maddeler için 6.1’e bakınız.
+3. FARMASÖTİK FORM
+Enjeksiyonluk çözelti için toz ve çözücüsü
+Beyaz veya kırık beyaz toz içeren ürün flakonu
+Berrak, renksiz sıvı içeren çözücü flakonu
+4. KLİNİK ÖZELLİKLER
+4.1 Terapötik endikasyonlar
+Konjenital Faktör X eksikliği olup Plazma Faktör X düzeyinin %10’un altında olduğu
+gösterilmiş olan ve kanama epizodu gelişen hastalarda kanama kontrolünde ve cerrahi öncesi
+profilaksisinde uygundur.
+4.2 Pozoloji ve uygulama şekli
+Tedaviye, nadir kanama bozukluklarının tedavisinde deneyimli bir doktorun gözetiminde
+başlanmalıdır.
+Her COAGADEX flakonu, Uluslararası Birim (IU) olarak faktör X potensi ile işaretlenir.
+Pozoloji / Uygulama sıklığı ve süresi:
+1Tedavi dozu ve süresi faktör X eksikliğinin şiddetine (yani hastanın başlangıçtaki faktör X
+düzeyine), kanama yerine ve boyutuna ve ayrıca hastanın klinik durumuna bağlıdır.
+Yetişkinlerde ve çocuklarda tedavi dozu ve süresi aynıdır.
+Majör cerrahi veya hayati risk oluşturan kanama durumunda replasman tedavisinin dikkatli bir
+kontrolü özellikle önem taşımaktadır.
+Günde 60 IU/kg’dan fazla uygulanmaz.
+IU/dl (veya normalin %’si) olarak ifade edilmiş faktör X düzeyindeki beklenen in vivo pik artış
+aşağıdaki formül kullanılarak tahmin edilebilir:
+Faktör X düzeyindeki artış = [toplam doz/vücut ağırlığı] x 2
+(IU/dl veya normalin %’si) (IU) (kg)
+VEYA
+Doz = vücut ağırlığı x istenen faktör X artışı x 0.5
+(IU) (kg) (IU/dl veya normalin %’si)
+Örnek olarak aşağıdakiler verilebilir (hastanın başlangıçtaki faktör X düzeyi <1 IU/dl olarak
+farz edilir):
+1. 70 kg ağırlığındaki bir hastaya uygulanan 2.000 IU COAGADEX dozunun, infüzyon
+sonrası pik faktör X artışının 2.000 x {[2 IU/dl]/[IU/kg]}/[70 kg] = 57 IU/dl (yani
+normalin %57’si) olması beklenmelidir.
+2. 40 kg’lık bir çocuk için normalin %90’ı şeklinde bir pik faktör X düzeyi gereklidir. Bu
+durumda uygun doz şu şekilde olacaktır:
+40 kg x 90 IU/dl/{[2 IU/dl]/[IU/kg]} = 1.800 IU
+Doz ve sıklık, her hastanın verdiği klinik yanıta göre değişir. Hastaların COAGADEX’e
+verdikleri farmakokinetik (örn. yarılanma ömrü, in vivo geri kazanım) ve klinik yanıtlar
+değişiklik gösterebilir. Doz, yukarıdaki hesaplamalar kullanılarak tahmin edilebilse de,
+doz ayarlamalarını yönlendirmek için mümkün oldukça seri faktör X tayinleri gibi uygun
+laboratuvar testleri gerçekleştirilir.
+Kanamanın kontrolü ve önlenmesi
+Kanamanın tedavisi için: ilk kanama belirtisi meydana geldiğinde veya menstrüel kanama
+başlangıcından hemen önce 25 IU/kg COAGADEX enjekte edilir. Kanama durana kadar 24
+saat arayla enjeksiyon tekrarlanır. Her kanama şiddetine göre değerlendirilir.
+Tekrar kanama meydana gelmesine karşı sekonder profilaksi için veya öngörülen fiziksel
+aktiviteden veya diş randevusundan önce kısa dönem profilaksi için: 25 IU/kg COAGADEX
+enjekte edilir ve gerekirse tekrarlanır.
+Perioperatif Tedavi
+2Cerrahi öncesi: plazma faktör X düzeyini 70-90 IU/dl’ye çıkaracak COAGADEX dozu
+hesaplanır. Majör cerrahi durumlarında tedavi dozunun ve süresinin dikkatli kontrolü özellikle
+önem taşır.
+Gerekli doz (IU) = vücut ağırlığı (kg) x istenen faktör X artışı (IU/dl) x 0.5
+İstenen faktör X artışı, hastanın plazma faktör X düzeyi ve istenen düzey arasında farklıdır ve
+IU/kg başına 2 IU/dl şeklinde gözlenen geri kazanıma dayanır.
+Örnek: 70 kg’lık bir hastada plazma faktör X düzeyini 15 IU/dl’den 90 IU/dl’ye çıkarmak için
+uygun doz şu şekildedir:
+70 x (90-15) x 0.5 = 2.625 IU
+Cerrahi sonrası: hastada, cerrahiye bağlı kanama riski ortadan kalkana kadar faktör X düzeyini
+minimum 50 IU/dl’de koruyabilmek için gerekli doz uygulanır.
+Hemostatik düzeylerin elde edilmesini ve korunmasını sağlamak için cerrahiden önce ve sonra
+her hasta için infüzyon sonrası plazma faktör X düzeylerinin ölçülmesi tavsiye edilir.
+Uygulama şekli:
+İlacın çözülmesinin ardından ürün en çok 20 mL/dakika olmak üzere öngörülen 10
+mL/dakikalık bir hızda intravenöz yoldan uygulanmalıdır.
+Uygulamadan önce tıbbi ürünün sulandırılması ile ilgili talimatlar için bkz. Bölüm 6.6.
+Özel popülasyonlara ilişkin ek bilgiler:
+Böbrek/Karaciğer yetmezliği:
+Böbrek ve karaciğer yetmezliği olan hastalarda çok düşük konsantrasyonlarda ve pratik olarak
+mümkün olabilecek en yavaş infüzyon hızında verilir.
+Pediyatrik popülasyon:
+12 yaşın altındaki çocuklarda COAGADEX’in etkililiği ve güvenliliği henüz saptanmamıştır.
+Çocuklarda uygulanacak miktar, yaşına göre farklılık gösterecektir. İnfüzyon hızı yavaş
+olmalıdır.
+Geriyatrik popülasyon:
+65 yaş üzeri yaşlılarda doz ayarlaması ve minimum infüzyon hızıyla uygulama gereklidir.
+4.3 Kontrendikasyonlar
+Etkin maddeye veya Bölüm 6.1’de belirtilen yardımcı maddelerden herhangi birine karşı aşırı
+duyarlılık.
+34.4 Özel kullanım uyarıları ve önlemleri
+Virüs güvenliği
+COAGADEX, insan plazmasından elde edilmektedir. İnsan plazmasından elde edilen
+ilaçlar, virüsler ve teorik olarak Varyant Creutzfeldt-Jacob (v-CJD) gibi, çeşitli
+hastalıklara yol açabilen enfeksiyon yapıcı ajanlar içerebilirler. COAGADEX’te
+Varyant Creutzfeldt-Jacob hastalığının bulaşma riski teorik olarak minimumken,
+klasik Creutzfeldt-Jacob hastalığının bulaşma riski hiçbir kanıtla desteklenmez.
+Alınan önlemlere rağmen, bu tür ürünler halen potansiyel olarak hastalık
+bulaştırabilir.
+Bu tip ürünlerin enfeksiyon yapıcı ajanları bulaştırma riski, plazma verenlerin belirli
+virüslere önceden maruz kalıp kalmadığının izlenmesi, belirli virüs enfeksiyonlarının
+halihazırda varlığının test edilmesi ve belirli virüslerin yok edilmesi ve/veya
+inaktivasyonu ile azaltılmıştır. Bütün bu önlemlere rağmen, bu ürünler hala potansiyel
+olarak hastalık bulaştırabilirler. Ayrıca, henüz bilinmeyen enfeksiyon yapıcı ajanların
+bu ürünlerin içerisinde bulunma ihtimali mevcuttur.
+HIV, HBV, HCV gibi zarflı virüsler ve HAV gibi zarflı olmayan virüsler için etkili
+önlemlerin alınmasına dikkat edilmelidir. Parvovirüs B19 gibi zarflı olmayan virüslere
+karşı alınan tedbirler sınırlı sayıda olabilir. Parvovirüs B19 enfeksiyonu, gebelikte
+(fetal infeksiyon) ve immün yetmezlik ya da kırmızı kan hücresi üretiminde artış olan
+hastalarda tehlikeli olabilir (hemolitik anemi gibi).
+Doktor, bu ilacı hastaya reçete etmeden veya uygulamadan önce hastası ile risk ve
+yararlarını tartışmalıdır.
+Ayrıca;
+COAGADEX kullanılması gerekiyorsa hekim tarafından, hastalık yapıcı etkenlerin hastaya
+bulaşmasını önlemek için uygun aşıların (Hepatit A, Hepatit B vb.) yaptırılması önerilebilir.
+Hastalar açısından COAGADEX her uygulandığında, hastayla ürünün seri numarası arasındaki
+bağlantının korunabilmesi için, ürünün adı ve seri numarası kaydedilmelidir.
+Aşırı duyarlılık reaksiyonları
+Herhangi bir intravenöz protein ürünü ile olduğu gibi anafilaksi dahil alerjik tipte aşırı
+duyarlılık reaksiyonları görülebilir. COAGADEX, faktör X dışında eser düzeyde insan
+proteinleri içerir. Hastalar anjiyoödem, infüzyon yeri enflamasyonu (örn. yanma, kaşınma,
+eritem), üşüme, öksürük, baş dönmesi, ateş, kızarma, yaygın ürtiker, baş ağrısı, kurdeşen,
+hipotansiyon, letarji, kas-iskelet ağrısı, bulantı, prurit, döküntü, huzursuzluk, taşikardi, göğüste
+sıkışma hissi, karıncalanma, kusma, hırıltılı solunum dahil aşırı duyarlılık reaksiyonlarının
+erken belirtileri konusunda bilgilendirilmelidir. Hastalara, bu semptomlar meydana gelirse ürün
+kullanımını derhal bırakmaları ve doktorlarına haber vermeleri tavsiye edilmelidir.
+Aşırı duyarlılık semptomları oluşursa COAGADEX kesilir ve uygun acil tedavi uygulanır.
+4İnhibitör gelişimi
+Faktör X’a karşı nötralize edici antikor (inhibitör) oluşumu, faktör X eksikliği olan bireylerin
+tedavisinde olası bir komplikasyondur.
+Genelde COAGADEX uygulanan tüm hastalar, inhibitör gelişimi açısından uygun klinik
+gözlemler ve laboratuvar testleri yoluyla dikkatlice izlenmelidir. Beklenen faktör X aktivitesi
+düzeyine ulaşılamazsa veya kanama beklenen doz ile kontrol altına alınamazsa faktör X
+inhibitör konsantrasyonunu ölçen bir tayin gerçekleştirilir.
+Sodyum içeriği
+COAGADEX, bir flakonunda toplam 46 mg sodyum içermektedir (hesaplanmış değer). Bu
+durum, kontrollü sodyum diyeti olan hastalar için gözönünde bulundurulmalıdır.
+4.5 Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+COAGADEX’in faktör Xa inhibitörleri tarafından doğrudan veya dolaylı olarak etkisiz hale
+getirilmesi muhtemeldir. Bu antitrombotik ajanlar, faktör X eksikliği olan hastalarda
+kullanılmamalıdır. COAGADEX, faktör X eksikliğine sahip olmayan hastalarda doğrudan oral
+antikoagülanların (DOAC’lar) etkilerine karşı bir antidot olarak kullanılmamalıdır.
+4.6 Gebelik ve laktasyon
+Genel tavsiye:
+Gebelik kategorisi C’dir.
+Çocuk doğurma potansiyeli bulunan kadınlar/ Doğum kontrolü (Kontrasepsiyon)
+COAGADEX ile hayvan üreme çalışmaları yürütülmemiştir. Kalıtsal faktör X eksikliği nadir
+bir hastalık olduğundan, COAGADEX kullanımı ile edinilmiş deneyimler bulunmamaktadır.
+Bu nedenle çocuk doğurma potansiyeli bulunan kadınlar için herhangi bir bilgi söz konusu
+değildir.
+Gebelik dönemi:
+Hayvanlar üzerinde yapılan çalışmalar, gebelik /ve-veya/embriyonal/ fetal gelişim /ve-veya/
+doğum /ve-veya/ doğum sonrası gelişim üzerindeki etkiler bakımından yetersizdir. İnsanlara
+yönelik potansiyel risk bilinmemektedir.
+Kalıtsal faktör X eksikliği nadir bir hastalık olduğundan, gebelik döneminde COAGADEX
+kullanımı ile edinilmiş deneyimler bulunmamaktadır. Bu yüzden COAGADEX, gebelik
+döneminde sadece kesinlikle endike olduğunda kullanılmalıdır.
+Laktasyon dönemi:
+Emziren kadınlarda COAGADEX’in anne sütüne geçip geçmediği bilinmemektedir.
+Kalıtsal faktör X eksikliği nadir bir hastalık olduğundan, emzirme döneminde COAGADEX
+kullanımı ile edinilmiş deneyimler bulunmamaktadır. Bu yüzden COAGADEX, emzirme
+döneminde sadece kesinlikle endike olduğunda kullanılmalıdır.
+Üreme Yeteneği/ Fertilite:
+COAGADEX ile hayvan üreme çalışmaları gerçekleştirilmemiştir. COAGADEX’in insanlarda
+üretme yeteneği/fertiliteyi etkileyip etkilemediği bilinmemektedir.
+54.7 Araç ve makine kullanımı üzerindeki etkiler
+COAGADEX’in, araç ve makine kullanımı üzerinde hiçbir etkisi yoktur veya ihmal edilebilir
+bir etkisi vardır.
+4.8 İstenmeyen etkiler
+Güvenlilik profilinin özeti
+En sık görülen advers reaksiyonlar, infüzyon yeri eritemi, infüzyon yeri ağrısı, yorgunluk ve
+sırt ağrısıdır.
+Aşırı duyarlılık veya alerjik reaksiyonlar (anjiyoödem, infüzyon yerinde yanma, kaşınma,
+üşüme, kızarma, baş ağrısı, yaygın ürtiker, kurdeşen, hipotansiyon, letarji, bulantı, huzursuzluk,
+taşikardi, göğüste sıkışma hissi, karıncalanma, kusma, hırıltılı solunum olabilir) diğer hemofili
+tedavileri ile seyrek gözlenmiştir ve bazı vakalarda ciddi anafilaksiye kadar ilerleyebilir (şok
+dahil). COAGADEX ile yapılan klinik çalışmalarda aşırı duyarlılık reaksiyonları, alerjik
+reaksiyonlar ve anafilaksi bildirilmemiştir.
+Bulaşıcı ajanlarla ilgili güvenlilik bilgisi için bkz. Bölüm 4.4
+Advers reaksiyonların tablolaştırılmış listesi
+COAGADEX uygulanan 18 hastayı kapsayan klinik çalışmalarda aşağıdaki advers reaksiyonlar
+bildirilmiştir. Sıklıklar, aşağıdaki düzene göre değerlendirilmiştir: çok yaygın (≥1/10 hasta);
+yaygın (≥1/100 ila <1/10); yaygın olmayan (≥1/1000 ila <1/100); seyrek (≥1/10000 ila
+<1/1000) veya çok seyrek (<1/10000) şeklindeki sıklıklar mevcut verilerden hareketle tahmin
+edilememektedir.
+COAGADEX uygulanan 18 hastadaki advers reaksiyonların (ADR’ler) listesi
+MedDRA Sistem Organ Sınıfı Advers Reaksiyon Sıklık (Çok yaygın,
+yaygın, yaygın
+olmayan, seyrek, çok
+seyrek)
+Kas-iskelet bozuklukları, bağ doku ve Sırt ağrısı Yaygın
+kemik hastalıkları
+Genel bozukluklar ve uygulama İnfüzyon yerinde Yaygın
+bölgesine ilişkin hastalıklar eritem, yorgunluk,
+infüzyon yeri ağrısı
+Pediyatrik popülasyon
+Pediyatrik popülasyonda advers reaksiyonların sıklığı, tipi ve şiddetinin erişkinlerdeki ile aynı
+olması beklenir.
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar / risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir. (www.titck.gov.tr; e-
+posta: tufam@titck.gov.tr; tel: 0 800 314 00 08; faks: 0 312 218 35 99)
+64.9 Doz aşımı ve tedavisi
+Bir kişinin klinik çalışmalarda kanamayı tedavi etmek için kaza sonucu yaklaşık 80 IU/kg aşırı
+doz COAGADEX aldığı bildirilmiştir. Bu aşırı doz ile ilgili herhangi bir advers olay
+bildirilmemiştir. Doz aşımı, tromboembolizm için bir potansiyel oluşturmaktadır.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1 Farmakodinamik özellikler
+Farmakoterapötik grup: Antihemorajikler, Vitamin K ve diğer hemostatikler, koagülasyon
+faktörü X
+ATC Kodu: B02BD13
+Etki mekanizması
+Faktör X, faktör IXa (intrinsik yolak aracılığıyla) veya faktör VIIa (ekstrinsik yolak
+aracılığıyla) ile aktive olabilen inaktif bir zimojendir. Faktör X, 52-kalıntılı peptidin ağır
+zincirden ayrılmasıyla inaktif formdan aktif forma (faktör Xa) dönüşür.
+Faktör Xa, kalsiyum iyonları varlığında protrombini trombine aktive eden protrombinaz
+kompleksi oluşturmak için fosfolipid yüzeydeki faktör Va ile birleşir. Daha sonra trombin,
+çapraz bağlı bir pıhtı oluşturmak üzere çözünür fibrinojen ve faktör XIII’e etki eder.
+Farmakodinamik etkiler
+COAGADEX, insan plazmasından elde edilir ve kalıtsal faktör X eksikliği olan hastalarda
+doğal olarak mevcut koagülasyon faktör X için bir replasman olarak kullanılır.
+Klinik etkinlik ve güvenlilik
+COAGADEX’in farmakokinetiğini, güvenirliğini ve etkililiğini değerlendirmek için yapılan
+çok merkezli, açık etiketlii randomize olmayan bir klinik araştırmada, spontani travmatik ve
+menorajik kanama ataklarını tedavi etmek için orta ila ağır derecede kalıtsal faktör X eksikliği
+(FX:C <5 IU/dL) olan 16 gönüllü (12 yaş ve üstü) 25 IU/kg dozunda COAGADEX almıştır.
+Kanamanın tedavisinde COAGADEX’in etkililiği, önceden belirlenmiş kanamaya spesifik
+sıralı derecelendirme skalası (iyi, kötü ve değerlendirilemeyen) kullanılarak her yeni kanamada
+gönüllü ve/veya araştırmacı tarafından değerlendirilmiştir. COAGADEX ile tedavi edilen 208
+kanamanın 15 gönüllüde görülen 187 kanama etkinlik açısından değerlendirilmiştir. 98’i (%53)
+majör kanama ve 88’i (%47) minör kanamadır (bir kanama değerlendirilmemiştir).
+COAGADEX, kanamaların %98’ini tedavi etmede iyi (%7) veya mükemmel (%91) olarak
+kabul edilmiştir. Etkinlik analizindeki 187 kanamanın 155’i (%83) bir infüzyonla, 28’i (15) iki
+infüzyonla, 3’ü (%2) üç infüzyonla ve 1’i (%0.5) dört infüzyonla tedavi edilmiştir. İnfüzyon
+başına ortalama doz ve toplam COAGADEX dozu sırasıyla 25.4 IU/kg ve 30.4 IU/kg’dır. İki
+olgudaki dört kanama, tedavi başarısızlığı olarak düşünülmüştür. Bir kanamayı tedavi etmek
+için önerilen 25 IU/kg’lık COAGADEX dozu, 16 gönüllüden 14’ünde çalışma sırasında idame
+ettirilmiştir. Diğer iki gönüllü, 30 IU/kg ve 33 IU/kg’a kadar doz kullanmıştır.
+Koruyucu bir önlem olarak COAGADEX toplam 184 infüzyon olarak verilmiştir. İki kişide
+rutin profilaksi uygulanmıştır. Bir gönüllü 8 hafta boyunca haftada bir kez 28 IU/kg ve daha
+7sonra 5 aydan daha fazla bir süre iki haftada bir 25 IU/kg kullanmıştır. Diğer hasta 8.5 ay
+boyunca haftada bir 24.6 IU/kg kullanmıştır. Bu dönemde gönülllülerde kanama görülmemiştir.
+Perioperatif tedavi için COAGADEX’in güvenirliği ve etkililiği, hafif (n=2), orta (n=1) ve
+şiddetli (n=2) hastalığı olan toplam yedi cerrahi işlem geçiren 14-59 yaşlarındaki beş kişide
+değerlendirilmiştir.
+Tüm cerrahi prosedürler için, cerrahi işlem sırasında ve sonrasında kan kaybının kontrolünde
+COAGADEX mükemmel olarak değerlendirilmiştir (cerrahi sonrası kanama yok, kan
+transfüzyonu gerekmemiştir ve kan kaybı ‘beklenenden’ fazla değildir). Büyük cerrahide
+hemostazı korumak için ortalama 13 infüzyon (2 ila 15 ünfüzyon arasında) ve 181 IU/kg
+ortalama kümülatif doz (45 ila 210 IU/kg arasında) gerekmiştir. Küçük cerrahide hemostazı
+korumak için ortalama 2.5 infüzyon (1 ila 4 arası infüzyon) ve 89 IU/kg (51 ila 127 IU/kg
+arasında) ortalama kümülatif doz kullanılmıştır.
+5.2 Farmakokinetik özellikler
+Şiddetli veya orta düzeyde faktör X eksikliği (bazal FX:C <5 IU/dL) olan 16 gönüllü ile yapılan
+COAGADEX’in bir klinik çalışmasında, 25 IU/kg şeklindeki nominal bir dozun
+uygulanmasının ardından COAGADEX’in farmakokinetikleri değerlendirilmiştir.
+Farmakokinetik (PK) parametreleri, doz öncesi değerin çıkartılmasından sonra plazma faktör
+X:C aktivitesinden hesaplanmıştır.
+Emilim
+Ortalama (%CV) maksimum plazma konsantrasyonu (C maks) 0.504 (17.2) IU/mL’dir.
+Dağılım
+İnsan koagülasyon faktörü X, büyük oranda vasküler kompartımanda tutulmaktadır: ortalama
+görünen dağılım hacmi (V ss) 56.3 (24.0) mL/kg’dır.
+Biyotransformasyon
+Başlangıç vizitinde 16 gönüllü için FX:C için olan IR değerleri ile Tekrarlanan PK
+Değerlendirmesi (n=15) birleştirildiğinde, uygulanan IU/kg başına 2.07 IU/kg’lik genel bir
+geometrik ortalama IR ortaya çıkmıştır (n=31).
+Artımlı geri kazanım için ortalama (%CV) 2.08 (18.1).
+Eliminasyon
+Başlangıç vizitinde t değerleri ve Tekrar PK Değerlendirmesi birleştirildiğinde 29.36 saatlik
+1/2
+genel bir geometrik ortalama t elde edilmiştir. Tüm PK parametreleri için
+1/2
+tekrarlanan/başlangıç oranları %90 ila %110 aralığında olduğu için, Tekrar PK vizitinde (en az
+6 ay sonra) FX:C’ye sistemik maruz kalma başlangıçtaki ile eşdeğerdir.
+İnsan koagülasyon faktörü X’in ortalama (%CV) yarı ömrü 30.33 (22.8) saattir ve klerensi 1.35
+(21.7) mL/kg/saat’tir.
+COAGADEX ile ilgili diğer farmakokinetik parametreler şu şekildedir:
+Ortalama (%CV) eğri altında kalan alan (AUC 0-144saat) 17.1 (21.0) IU.saat/mL’dir.
+8Böbrek/Karaciğer yetmezliği
+Böbrek/Karaciğer yetmezliği olan hastalarda farmakokinetik çalışmalar yapılmamıştır fakat;
+COAGADEX’in farmakokinetik profili üzerinde cinsiyet veya renal/hepatik fonksiyonların
+beklenen bir etkisi yoktur.
+Geriyatrik popülasyon
+Yaşlılarda farmakokinetik çalışmalar yapılmamıştır fakat; COAGADEX’in farmakokinetik
+profili üzerinde yaşın beklenen bir etkisi yoktur.
+Pediyatrik popülasyon
+12 yaşın altındaki çocuklarda farmakokinetik çalışmalar yapılmamıştır. Artımlı geri kazanım
+ile ilgili veriler sınırlıdır ancak 12 yaş ve üzerindeki hasta popülasyonunda görülenle benzer
+gibi görünmektedir.
+Uzun süreli kullanım
+Uzun süreli kullanım ile ilgili sınırlı veri bulunmaktadır.
+5.3 Klinik öncesi güvenlilik verileri
+Güvenlilik farmakolojisi, tekli ve tekrarlayan doz toksisitesi, trombojenisite ve lokal tolerans
+gibi konvansiyonel çalışmalara dayalı olarak klinik olmayan veriler, COAGADEX’in insanlara
+yönelik özel bir tehlike oluşturmadığı göstermiştir.
+İnsan plazma koagülasyon faktörü X (COAGADEX içinde yer aldığı şekliyle), endojen bir
+protein olduğu için genotoksisite, karsinojenisite ve üreme veya gelişimsel toksisiteyle ilgili
+herhangi bir çalışma yapılmamıştır.
+6. FARMASÖTİK ÖZELLİKLER
+6.1 Yardımcı maddelerin listesi
+Sitrik asit
+Sodyum hidroksit (pH ayarı için)
+Disodyum fosfat dihidrat
+Sodyum klorür
+Sükroz
+Çözücü
+Enjeksiyonluk su
+6.2 Geçimsizlikler
+Geçimsizlik çalışmaları bulunmadığından bu tıbbi ürün, başka tıbbi ürünlerle
+karıştırılmamalıdır.
+Sadece paket içinde verilen Transfer Cihazı (Mix2Vial™) kullanılarak sulandırılmalıdır.
+96.3 Raf ömrü
+36 ay
+Sulandırıldıktan sonra mikrobiyolojik açıdan ürün derhal kullanılmalıdır. Bununla birlikte,
+kimyasal ve fiziksel kullanımda kararlılık, oda sıcaklığında (25°C +/-2°C’ye kadar) 1 saat
+boyunca gösterilmiştir.
+6.4 Saklamaya yönelik özel tedbirler
+30°C’nin altındaki sıcaklıklarda saklayınız.
+DONDURMAYINIZ.
+Orijinal ambalajında saklanır. Işıktan korumak için dış ambalajının içerisinde saklanır.
+Tıbbi ürünün sulandırıldıktan sonra saklama koşulları için bkz. Bölüm 6.3.
+Ürünün son kullanma tarihi etiketin üzerindedir.
+Sterilize enjeksiyonluk su (Ph.Eur.), etiket üzerinde belirtilen son kullanma tarihinden sonra
+veya herhangi bir partiküllü madde belirtisi görülürse kullanılmamalıdır.
+6.5 Ambalajın niteliği ve içeriği
+COAGADEX, sterilize enjeksiyonluk su ile sulandırmak için liyofilize konsantre toz olarak
+nominal 500 IU insan koagülasyon faktör X içeren tek kullanımlık bir flakon olarak
+bulunmaktadır.
+1 COAGADEX ambalajı şunları içerir:
+İçerisinde 500 IU insan koagülasyon Faktör X bulunan 1 flakon. Flakonlar halobütil kauçuk
+tıpa ile kapatılmış, koparmalı polipropilen kapak ve alüminyum laklı kenar ile üst contası
+takılmış Tip I, Ph.Eur. camdır.
+Çözücü (sterilize enjeksiyonluk su) içeren 5 mL’lik 1 flakon. Flakonlar halobütil kauçuk tıpa
+ve bir üst conta ile kapatılmış Tip I, Ph.Eur. camdır.
+Ürünün sterilize enjeksiyonluk su ile iğnesiz, kolay ve güvenli bir şekilde sulandırılmasına
+imkan sağlayan 1 adet Transfer Cihazı (Mix2Vial™).
+Tüm ambalaj boyutları pazarlanmayabilir.
+6.6 Beşeri tıbbi ürünlerden arta kalan maddelerin imhası ve diğer özel önlemler
+COAGADEX, sadece ürünle birlikte sağlanan Sterilize enjeksiyonluk su ile sulandırılmalıdır.
+500 IU’lik sunum, 5 mL Sterilize enjeksiyonluk su kullanılarak sulandırılmalıdır.
+COAGADEX veya Sterilize enjeksiyonluk su, kabın üzerinde yazılı son kullanma tarihinden
+sonra kullanılmamalıdır. Son kullanma tarihi, o ayın son günüdür.
+10COAGADEX ve Sterilize enjeksiyonluk su flakonu kapakları çıkarılmadan önce oda
+sıcaklığına getirilmelidir (30°C’nin üstünde olmamalıdır).
+1. Adım 2. Adım
+• Ürün flakonunun • Transfer Cihazının
+kapağını çıkartın ve mavi ucunu su
+tıpanın tepesini flakonu üzerine
+alkollü mendil ile yerleştirin ve çıkıntı
+temizleyin. kısmı kauçuk tıpaya
+• Bu adımı steril su girene kadar ve yerine
+flakonu için oturana kadar aşağıya
+tekrarlayın. doğru bastırın.
+• Transfer Cihazı • Transfer Cihazından
+ambalajının plastik dış ambalajı
+üzerindeki kılıfı çıkartın ve cihazın
+sıyırın fakat cihazı açığa çıkan ucuna
+ambalajdan dokunmamaya dikkat
+çıkarmayın. ederek, bu ambalajı
+atın.
+3. Adım 4. Adım
+• Cihaz takılı • Steril su, içindeki
+durumdayken, su vakum yoluyla ürün
+flakonunu baş aşağı flakonu içine
+çevirin. çekilecektir.
+• Transfer Cihazının • Ürünün iyice
+şeffaf ucunu ürün karıştığından emin
+flakonu üzerine olmak için flakonu
+yerleştirin ve çıkıntı yavaşça sallayın.
+kısmı kauçuk tıpaya Flakonu
+girene kadar ve yerine çalkalamayın.
+oturana kadar aşağıya Genellikle 1 dakikadan
+doğru bastırın. daha kısa sürede (en
+fazla 5 dakika) berrak
+veya hafif inci rengine
+benzer bir solüsyon elde
+edilmelidir.
+5. Adım 6. Adım
+• Boş su flakonunu ve • Solüsyon flakonunu
+mavi kısmı, saat yönü hemen ters çevirin,
+tersine çevirerek böylece bu solüsyon
+şeffaf kısımdan şırınga içine
+ayırın. çekilecektir.
+• Şırınga pistonunu • Dolu şırıngayı
+eklenmesi gereken su cihazdan ayırın.
+hacmine kadar • Artık ürün uygulama
+çekerek, şırınga içine için hazırdır.
+hava doldurun. Uygulama için rutin
+• Şırıngayı beyaz güvenlilik adımlarını
+filtreye takın. izleyin.
+Şırınga içindeki havayı
+flakon içine ittirin.
+Not: Uygulanması gereken dozu elde etmek için birden fazla flakon kullanmanız
+gerekiyorsa, 1. ila 6. Basamakları flakondaki solüsyonu aynı şırıngaya çekerek
+tekrarlayın.
+11Ürün ile tedarik edilen Transfer Cihazı sterildir ve birden fazla kullanılmaz. Sulandırma işlemi
+tamamlandığında Transfer Cihazı, “delici madde atık kutusuna” atılmalıdır.
+Kullanılmamış olan ürünler ya da atık materyaller, yerel düzenlemelere uygun olarak
+atılmalıdır.
+Çözelti, uygulandığı sırada berrak veya hafif opak olmalıdır. Bulanık olan veya tortu içeren
+çözeltiler kullanılmamalıdır. Sulandırılan ürünler, uygulanmadan önce partiküllü madde ve
+renk değişimi açısından görsel olarak kontrol edilmelidir.
+COAGADEX, sulandırıldıktan sonra bir saat içinde kullanılmalıdır.
+Çocukların göremeyeceği ve erişemeyeceği yerde saklayın.
+7. RUHSAT SAHİBİ
+Vitalis Sağlık Ürünleri Danışmanlık ve Tic. A.Ş.
+Birlik Mahallesi 448.Cad. no:89/A 06610
+Çankaya/Ankara/ Türkiye
+Tel: 0312 49660 96
+Faks: 0312 496 60 97
+e-mail: info@vitalis.com.tr
+8. RUHSAT NUMARASI
+2023/171
+9. İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi:10.05.2023
+Ruhsat yenileme tarihi:
+10. KÜB’ÜN YENİLENME TARİHİ
+12

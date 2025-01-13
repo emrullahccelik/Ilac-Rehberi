@@ -1,0 +1,714 @@
+KISA ÜRÜN BİLGİSİ
+▼ Bu ilaç ek izlemeye tabidir. Bu üçgen yeni güvenlilik bilgisinin hızlı olarak belirlenmesini
+sağlayacaktır. Sağlık mesleği mensuplarının şüpheli advers reaksiyonları TÜFAM’a
+bildirmeleri beklenmektedir. Bakınız Bölüm 4.8. Şüpheli advers reaksiyonların
+raporlanması.
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+ADYNOVATE 1000 IU/2 ml IV enjeksiyonluk çözelti hazırlamak için liyofilize toz ve çözücü
+Steril
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde:
+Her bir flakon, 2 mL çözücü ile sulandırıldıktan sonra 500 IU/mL konsantrasyona karşılık
+gelen, nominal olarak 1000 IU insan koagülasyon faktör VIII (rDNA), rurioktokog alfa pegol
+içerir.
+Potensi [Uluslararası Ünite (IU)] kromojenik ölçüm yöntemiyle belirlenmiştir.
+ADYNOVATE'in spesifik etkinliği yaklaşık 3.800-6.000 IU/mg protein'dir.
+Rurioctocog alfa pegol (PEG'lenmiş insan koagülasyon faktörü VIII (rDNA)) 20 kDa PEG-
+polimeri ile konjuge edilmiş moleküler ağırlığı yaklaşık 280 kDa polietilen glikol (PEG) olan,
+2.332 amino asitli bir proteindir. Çin Hamster Overi (CHO) hücre serisinde rekombinant DNA
+teknolojisiyle üretilmiştir.
+Yardımcı madde(ler):
+Her bir flakon 26,3 mg sodyum klorür içerir.
+Diğer yardımcı maddeler için 6.1’e bakınız.
+3. FARMASÖTİK FORMU
+Enjeksiyon çözeltisi için toz ve çözücü (enjeksiyon çözeltisi için toz).
+Toz: Beyaz ila beyazımsı gevrek toz
+Çözücü: Berrak ve renksiz çözelti
+1Sulandırıldıktan sonra, çözelti pH değeri 6,7 – 7,3'tür. Osmolalite ≥ 380 mOsmol/kg'dır.
+4. KLİNİK ÖZELLİKLER
+4.1 Terapötik endikasyonlar
+Antihemofilik Faktör (Rekombinant), PEGile ADYNOVATE, hemofili A (konjenital faktör
+VIII eksikliği) olan çocuklar ve yetişkinlerde:
+• Kanama epizodlarının gereksinime bağlı tedavisi ve kontrolü
+• Perioperatif tedavi
+• Kanama epizodlarının sıklığını azaltmak için rutin profilaksisinde endike olan bir insan
+antihemofilik faktörüdür.
+ADYNOVATE, von Willebrand hastalığının tedavisi için endike değildir.
+4.2 Pozoloji ve uygulama şekli
+Tedavi, hemofili tedavisinde deneyimli hekim gözetiminde yapılmalıdır.
+Pozoloji/uygulama sıklığı ve süresi:
+Her bir ADYNOVATE flakon etiketi, uluslararası birimlerdeki gerçek faktör VIII potensini
+belirtir. Bu, nominal flakon potensinden/içeriğinden daha fazla ya da az olabilir. Bir uluslararası
+birim, bir mililitre normal insan plazmasında bulunan faktör VIII'in aktivitesine karşılık gelir.
+Dozaj ve tedavi süresi faktör VIII eksikliğinin şiddetine, kanamanın yeri ve boyutuna ve
+hastanın klinik durumuna bağlıdır. Ciddi veya hayati tehlike taşıyan kanama epizodlarında
+replasman tedavisinin dikkatli bir şekilde izlenmesi gerekir.
+Potens belirleme, tek aşamalı bir pıhtılaşma tahlili kullanılarak kararlaştırılır. Plazma faktör
+VIII seviyeleri, tek aşamalı bir pıhtılaşma tahlili kullanılarak klinik olarak izlenebilir.
+Kg vücut ağırlığı başına bir uluslararası ADYNOVATE ünitesinin plazma faktör VIII
+seviyesini plazma dL başına 2 IU artırdığı ampirik bulgusuna dayanarak ADYNOVATE
+dozunu hesaplayın. dL başına IU (veya normalin %'si) olarak ifade edilen faktör VIII
+seviyesinde beklenen in vivo pik artışını ve faktör VIII seviyesinde istenen in vivo pik artışa
+ulaşacak dozu tahmin etmek için aşağıdaki formülü kullanın:
+2FVIII’in tahmini artışı (IU/dL veya normalin %‘si) = [Toplam doz (IU)/ vücut ağırlığı (kg)] x
+2 (IU/kg başına IU/dL)
+Doz (IU) = Vücut ağırlığı (kg) x istenen FVIII artışı (IU/dL veya normalin %‘si) x 0,5 (IU/dL
+başına IU/kg)
+Hastalar farmakokinetiklerinde (örneğin, klirens, yarılanma ömrü, in vivo düzelme) ve klinik
+yanıtlarında çeşitlilik gösterir. Bireysel klinik yanıt konusunda ADYNOVATE dozu ve sıklığı
+temel alınır.
+Kanama epizodlarının gereksinime bağlı tedavisi ve kontrolü
+Kanama epizodlarının gereksinime bağlı tedavisi ve kontrolü için ADYNOVATE dozajı için
+bir kılavuz Tablo l'de verilmiştir. Plazma faktör VIII aktivitesi, tanımlanan plazma aktivitesi
+seviyesinde veya üstünde tutulur (dL başına IU cinsinden veya normalin %’si).
+Tablo 1: Kanama Epizodlarının Gereksinime Bağlı Tedavisi ve Kontrolü için Dozaj
+Hedef
+Faktör VIII
+Doza Dozaj sıklığı
+Kanama Türü Seviyesi Tedavi Süresi
+(IU/kg) (saat)
+(IU/dL veya
+normalin %’si)
+Minör
+Kanama
+Erken hemartroz, hafif
+20-40 10-20 12-24 düzelinceye
+kas kanaması veya ağızda
+kadar.
+hafif kanama epizodu
+Orta dereceli
+Kas kanaması, ağız Kanama
+boşluğunda orta dereceli 30-60 15-30 12-24 düzelinceye
+kanama, kesin hemartroz kadar.
+ve bilinen travma.
+Majör
+Anlamlı gastrointestinal
+kanama, intrakraniyal,
+intraabdominal veya Kanama
+intratorasik kanama, 60-100 30-50 8-24 düzelinceye
+merkezi sinir sistemi kadar.
+kanaması, retrofarengeal
+veya retroperitoneal
+boşluklarda veya
+3iliopsoas kılıfında
+kanama, kırıklar, kafa
+travması.
+a Doz (IU/kg) = İstenen faktör VIII yükselişi (IU/dL veya normalin %’si) x 0,5 (IU/dL başına IU/kg)
+Perioperatif Tedavi
+Ameliyat sırasında ADYNOVATE dozajı (perioperatif tedavi) için bir kılavuz Tablo 2'de
+verilmiştir. Bir faktör VIII aktivitesinin hedef aralıkta veya üstünde korunması için özen
+gösterilmelidir.
+Tablo 2: Perioperatif Tedavi için Dozaj
+Gerekli
+Faktör VIII
+Seviyesi Doz
+Ameliyat Türü Doz Sıklığı (saat) Tedavi Süresi
+(normalin (IU/kg)
+%’si veya
+IU/dL)
+Ameliyattan bir saat Tek doz veya
+Minör önce. kanama düzelinceye
+60-100 30-50
+Diş çekimi dahil Gerekirse 24 saat sonra kadar gerektiği
+tekrarlayın. şekilde tekrarlayın.
+%100 aktivite elde
+etmek için
+Majör operasyondan bir saat
+İntrakraniyal, önce.
+80-120
+intraabdominal FVIII aktivitesini hedef Yeterli yara
+(pre ve 40-60
+veya intratorasik aralıkta içinde korumak iyileşmesine kadar
+postoperatif)
+cerrahi, eklem için her 8 ila 24 saatte
+replasman cerrahisi (<12 yaş hastalar için 6
+ila 24 saatte) bir
+tekrarlayın
+Rutin Profilaksi
+Yetişkin ve adolesanlarda (12 yaş ve üstü) kg vücut ağırlığı başına haftada iki kez 40-50 IU
+uygulanır.
+4Çocuklarda (<12 yaş), kg başına maksimum 70 IU olacak şekilde, kg vücut ağırlığı başına
+haftada iki kez 55 IU uygulanır.
+Doz ve doz aralıkları hastanın klinik yanıtına göre ayarlanır.
+Uygulama şekli:
+ADYNOVATE sadece sulandırıldıktan sonra intravenöz kullanım içindir.
+Uygulama hızı dakikada 10 mL’yi geçmeyecek şekilde hastanın rahat edeceği bir hızda
+olmalıdır.
+Uygulamadan önce tıbbi ürünün sulandırılması ile ilgili talimatlar için bölüm 6.6’ya bakınız.
+Özel popülasyonlara ilişkin ek bilgiler:
+Böbrek/Karaciğer yetmezliği:
+Özel kullanımı yoktur.
+Pediyatrik popülasyon:
+ADYNOVATE'in rutin profilakside ve kanama epizodlarının tedavisindeki güvenliliği ve
+etkililiği, çocuklar ve yetişkinler arasında benzerdir (Bkz Bölüm 5.1).
+Geriyatrik popülasyon:
+Özel kullanımı yoktur.
+4.3 Kontrendikasyonlar
+Etkin maddeye, ana molekül oktokog alfaya veya bölüm 6.1'de listelenen yardımcı
+maddelerden herhangi birine karşı aşırı duyarlılık.
+Fare veya hamster proteinine karşı bilinen alerjik reaksiyon.
+4.4 Özel kullanım uyarıları ve önlemleri
+Takip edilebilirlik
+Biyoteknolojik ürünlerin takip edilebilirliğinin sağlanması için uygulanan ürünün ticari ismi ve
+seri numarası mutlaka hasta dosyasına kaydedilmelidir.
+Aşırı duyarlılık reaksiyonları
+ADYNOVATE ile anafilaksi dahil alerjik tipte aşırı duyarlılık reaksiyonları rapor edilmiştir.
+Tıbbi ürün, fare ve hamster proteini izlerini içermektedir. Aşırı duyarlılık semptomlarının
+5ortaya çıkması durumunda, hastalara derhal tıbbi ürünü kullanmayı bırakmaları ve doktora
+başvurmaları önerilmelidir. Hastalar, kurdeşen, yaygın ürtiker, göğüste sıkışma hissi, hırıltılı
+solunum, hipotansiyon ve anafilaksi dahil olmak üzere erken duyarlılık reaksiyonları belirtileri
+hakkında bilgilendirilmelidir.
+Şok durumunda, şok için standart tıbbi tedavi uygulanmalıdır.
+İnhibitörler
+Faktör VIII’e karşı nötralize edici antikor (inhibitörler) oluşumu, hemofili A hastalarının
+tedavisinde bilinen bir komplikasyondur. Bu inhibitörler genellikle faktör VIII prokoagülan
+aktiviteye yönelik olan IgG immünoglobülinleridir ve modifiye tetkik kullanılarak her mL
+plazmada Bethesda Ünitesi (BU) olarak ölçülür. İnhibitör gelişme riski, faktör VIII'e
+maruziyetin yanı sıra hastalığın şiddeti ile ilişkilidir ve bu risk ilk 50 maruziyet gününde en
+yüksek seviyededir; ancak risk yaygın görülmemesine rağmen yaşam boyu devam eder.
+İnhibitör gelişiminin klinik önemi inhibitör titremesine bağlı olacaktır; düşük titrenin teşkil
+ettiği yetersiz klinik yanıt riski, yüksek titreli inhibitörlere kıyasla daha az olacaktır.
+Genel olarak, koagülasyon faktörü VIII ürünleri ile tedavi edilen tüm hastalar, uygun klinik
+gözlem ve laboratuvar testleri ile inhibitörlerin gelişimi açısından dikkatle izlenmelidir. Eğer
+beklenen faktör VIII aktivitesinin plazma düzeylerine ulaşılamazsa veya yeterli doz ile kanama
+kontrol altına alınamazsa faktör VIII inhibitörü varlığı açısından test yapılmalıdır. İnhibitör
+düzeyleri yüksek olan hastalarda faktör VIII tedavisi etkili olmayabilir ve diğer tedavi
+seçenekleri dikkate alınmalıdır. Böyle hastaların tedavisi hemofili ve faktör VIII inhibitörleri
+tedavisi konusunda deneyimli hekimler tarafından yönlendirilmelidir.
+İmmün tolerans indüksiyonu (ITI)
+ADYNOVATE kullanımı için ITI'de klinik veri mevcut değildir.
+Kardiyovasküler olaylar
+Kardiyovasküler risk faktörleri varolan hastalarda, faktör VIII ile ikame tedavisi
+kardiyovasküler riski artırabilir.
+6Tedavide kateterle ilişkili komplikasyonlar
+Santral venöz erişim cihazı (SVEC) gerekliyse, lokal enfeksiyonlar, bakteriyemi ve kateter
+bölgesinde trombozis dahil olmak üzere SVEC ile ilişkili komplikasyon riski göz önünde
+bulundurulmalıdır.
+ADYNOVATE’in bazı yardımcı maddeleri hakkında önemli bilgiler
+Bu tıbbi ürün, her flakonda 12,42 mg'a kadar sodyum içerir; bu, Dünya Sağlık Örgütü'nün bir
+yetişkin için tavsiye ettiği günlük maksimum 2 g sodyum alımının %0,62'sine eşdeğerdir. Vücut
+ağırlığına ve pozolojiye bağlı olarak hasta birden fazla flakon alabilir. Bu, kontrollü sodyum
+diyeti uygulayan hastalar tarafından dikkate alınmalıdır.
+ADYNOVATE bir hastaya her uygulandığında, hasta ile tıbbi ürün serisi arasındaki bağlantıyı
+sürdürmek için ürünün adı ve parti numarasının kaydedilmesi önemle tavsiye edilir.
+Pediyatrik popülasyon:
+Yukarıda sıralanan uyarılar ve önlemler hem yetişkinler hem de çocuklar için geçerlidir.
+4.5 Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+İnsan koagülan faktör VIII (rDNA) ürünlerinin diğer tıbbi ürünler ile hiçbir etkileşimi
+bildirilmemiştir.
+Özel popülasyonlara ilişkin ek bilgiler
+Herhangi bir etkileşim çalışması yapılmamıştır.
+4.6 Gebelik ve laktasyon
+Genel tavsiye
+Gebelik kategorisi: C.
+Faktör VIII ile hayvan üreme çalışmaları yapılmamıştır. Hemofili A kadınlarda nadir
+görüldüğünden, gebelikte faktör VIII kullanımı konusunda deneyim mevcut değildir. Bu
+nedenle, faktör VIII gebelikte yalnızca çok gerekliyse kullanılmalıdır.
+Çocuk doğurma potansiyeli olan kadınlar/Doğum kontrolü (Kontrasepsiyon)
+Herhangi bir çalışma yürütülmemiştir. Dolayısıyla, üreme yeteneği/fertilite üzerindeki etkisi
+bilinmemektir.
+7Gebelik dönemi
+ADYNOVATE’in gebe kadınlarda kullanımına ilişkin yeterli veri mevcut değildir.
+Hayvanlar üzerinde yapılan çalışmalar, gebelik /ve-veya/ embriyonal/fetal gelişim /ve-veya/
+doğum /ve-veya/ doğum sonrası gelişim üzerindeki etkiler bakımından yetersizdir (bkz. bölüm
+5.3). İnsanlara yönelik potansiyel risk bilinmemektedir.
+ADYNOVATE gerekli olmadıkça (başka bir tedavi seçeneği yoksa) gebelik döneminde
+kullanılmamalıdır.
+Laktasyon dönemi
+Hemofili A'nın kadınlarda nadir görülmesine bağlı olarak, emzirme döneminde faktör VIII
+kullanımı konusunda deneyim mevcut değildir. Bu nedenle, faktör VIII laktasyon döneminde
+yalnızca çok gerekliyse kullanılmalıdır.
+Üreme yeteneği/Fertilite
+Üreme yeteneği/Fertilite üzerindeki etkisi bilinmemektedir.
+4.7 Araç ve makine kullanımı üzerindeki etkiler
+ADYNOVATE’in araç veya makine kullanma yeteneği üzerine herhangi bir etkisi
+bulunmamaktadır veya göz ardı edilebilir etkiye sahiptir.
+4.8 İstenmeyen etkiler
+Güvenlilik profili özeti
+Aşırı duyarlılık ya da alerjik reaksiyonlar (bunlar arasında anjiyoödem, infüzyon bölgesinde
+yanma ve batma, titreme, sıcak basması, yaygın ürtiker, baş ağrısı, kurdeşen, kan basıncında
+düşme, letarji, bulantı, huzursuzluk, taşikardi, göğüste sıkışma hissi, karıncalanma, kusma,
+hırıltılı solunum yer alabilir) nadiren gözlenmiştir ve bazı olgularda şiddetli anafilaksiye kadar
+ilerleyebilir (şok dahil).
+İlgili aşırı duyarlılık reaksiyonları ile birlikte, fare veya hamster proteinine karşı antikor
+gelişimi çok nadiren gözlenmiştir.
+8ADYNOVATE da dahil olmak üzere faktör VIII ile tedavi edilmiş hemofili A hastalarında
+nötralize edici antikorlar (inhibitörler) gelişebilir(bkz. bölüm 5.1). Bu tür inhibitörler oluşursa,
+durum, yetersiz klinik yanıt şeklinde kendini gösterebilir. Bu gibi durumlarda uzman hemofili
+merkezleriyle bağlantı kurulması önerilmektedir.
+Advers reaksiyonların tablo halinde listesi
+ADYNOVATE'in güvenliliği, çok merkezli, prospektif, açık etiketli tamamlanmış 6 klinik
+çalışma ve devam etmekte olan 1 klinik çalışmada en az bir doz ADYNOVATE almış, daha
+önce tedavi edilen 365 şiddetli hemofili A (normalin % 1'inden daha az faktör VIII) hastasında
+değerlendirilmiştir.
+Aşağıdaki veriler, MedDRA sistem organ sınıflandırmasına (SOC ve Tercihli Terim Düzeyi)
+uygundur.
+Görülme sıklıkları şu yaklaşıma göre değerlendirilmiştir: Çok yaygın (≥1/10); yaygın (≥1/100
+ila <1/10); yaygın olmayan (≥1/1.000 ila <1/100); seyrek (≥1/10.000 ila <1/1.000); çok seyrek
+(<1/10.000), bilinmiyor (eldeki verilerden hareketle tahmin edilemiyor).
+Advers reaksiyonlar her bir sıklık grubunda azalan ciddiyet sırasına göre verilmiştir.
+Kan ve lenf sistemi hastalıkları:
+Çok yaygın: Faktör VIII inhibisyonu (HTGH’ler)*
+Yaygın olmayan: Faktör VIII inhibisyonu (TGH’ler)*
+Bağışıklık sistemi hastalıkları:
+Yaygın olmayan: Aşırı duyarlılık
+Bilinmiyor: Anafilaktik reaksiyon**
+Sinir sistemi hastalıkları:
+Çok yaygın: Baş ağrısı
+Yaygın: Baş dönmesi
+Göz hastalıkları:
+Yaygın olmayan: Oküler hiperemi
+Vasküler hastalıkları:
+Yaygın olmayan: Kızarma
+9Gastrointestinal hastalıkları:
+Yaygın: İshal, bulantı
+Deri ve deri altı doku hastalıkları:
+Yaygın: Döküntü, ürtiker
+Yaygın olmayan: Kaşıntılı döküntü
+Araştırmalar:
+Yaygın olmayan: Eozinofil sayısında artış
+Yaralanma, zehirlenme ve prosedürle ilgili komplikasyonlar:
+Yaygın olmayan: İnfüzyon ile ilgili reaksiyon
+*Sıklık, şiddetli hemofili A hastalarının yer aldığı, tüm FVIII ürünleri ile yapılmış çalışmalara
+dayanmaktadır.
+TGH'ler = daha önce tedavi görmüş hastalar, HTGH'ler = daha önce tedavi görmemiş hastalar
+Sunulan sıklıklar, ilgili ve ilgisiz tüm advers olaylar kullanılarak hesaplanmıştır.
+**Pazarlama sonrası gözetimde tanımlanan advers reaksiyon.
+Seçilmiş advers reaksiyonların açıklaması
+Aşırı duyarlılık:
+Gözlenen aşırı duyarlılık olayı, ADYNOVATE tedavisi sırasında daha önce döküntü geliştiren
+2 yaşındaki bir hastada meydana gelen hafif, geçici, ciddi olmayan bir döküntüydü.
+Pediyatrik popülasyon:
+Çocuklarda advers reaksiyonların sıklığı, tipi ve şiddetinin yetişkinlerle aynı olması
+beklenmektedir. ADYNOVATE'in güvenliliği, sırasıyla toplam 2880 maruziyet günü (ED) ve
+2975 ED biriktirmiş, <6 yaş 38 denekte ve 6 ila <12 yaş 34 denekte değerlendirilmiştir.
+Ortalama (SD) yaş, sırasıyla 3,3 (1,55) ve 8,1 (1,92) idi.
+Pediyatrik kullanım: 12 Yaş altı çocuklarda yüksek klirens, kısalmış yarı ömür ve daha
+yavaş FVIII dönüşüm hızının görüldüğü bildirilmiştir. Bu grupta vücut ağırlığına (kg
+başı) göre doz ayarlaması veya daha yakın dozlama takibinin yapılması gerekir.
+10Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir. (www.titck.gov.tr; e-posta:
+tufam@titck.gov.tr; tel: 0 800 314 00 08; faks: 0 312 218 35 99)
+4.9. Doz aşımı ve tedavisi
+Rekombinant koagülan faktör VIII ile doz aşımı semptomları bildirilmemiştir.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1 Farmakodinamik özellikler
+Farmakoterapötik grup: Antihemorajikler, kan koagülasyon faktör VIII
+ATC kodu: B02BD02
+Etki mekanizması
+Faktör VIII/von Willebrand faktör kompleksi, farklı fizyolojik fonksiyonlara sahip iki
+molekülden (faktör VIII ve von Willebrand faktörü) oluşur. Hemofili hastasına verildiğinde,
+faktör VIII, hastanın dolaşımındaki von Willebrand faktörüne bağlanır. Aktive faktör VIII,
+aktive faktör IX için bir kofaktör olarak görev yapar ve faktör X'un aktive faktör X’a
+dönüşümünü hızlandırır. Aktive faktör X, protrombini trombine dönüştürür. Trombin daha
+sonra fibrinojeni fibrine dönüştürür ve bir pıhtı oluşabilir. Hemofili A, faktör VIII: C'nin
+seviyelerinin azalmasına bağlı olarak cinsiyete bağlı herediter bir kan pıhtılaşma hastalığıdır ve
+spontan veya kazara ya da cerrahi travmanın sonucu olarak eklemlerde, kaslarda veya iç
+organlarda yoğun kanama ile sonuçlanmaktadır. Replasman tedavisi ile faktör VIII'in plazma
+seviyeleri artar, böylece faktör eksikliğinin geçici olarak düzeltilmesi ve kanama eğilimlerinin
+düzeltilmesi sağlanır.
+Rurioktokog alfa pegol, yarılanma ömrü uzatılmış, pegile bir rekombinant insan faktörü
+VIII'dir. Rurioktokog alfa pegol, polietilen glikol (PEG) reaktifi (MW 20 kDa) ile 2.332 amino
+asitten oluşan, oktokog alfanın bir kovalent konjugatıdır. Rurioktokog alfa pegolün terapötik
+etkinliği, Çinli bir hamster over hücre dizisinden rekombinant DNA teknolojisi ile üretilen
+oktokog alfadan türetilir. Oktokog alfa daha sonra PEG reaktifiyle kovalent olarak birleşir. PEG
+kısmı, plazma yarılanma ömrünü arttırmak için oktokog alfa ile birleşir.
+11Klinik etkililik ve güvenlilik
+ADYNOVATE’in güvenliliği, etkililiği ve farmakokinetiği, haftada iki kez profilaktik bir
+tedavi rejimini gereksinime bağlı tedaviyle karşılaştıran ve kanama epizodlarının tedavisinde
+hemostatik etkililiği saptayan pivotal çok merkezli, açık etiketli, prospektif bir klinik çalışmada
+değerlendirilmiştir. Şiddetli hemofili A hastası olan toplam 137 erkek PTP (12 ila 65 yaş) en az
+bir infüzyon ADYNOVATE almıştır. Yüz otuz yedi denekten 25’i adolesandı (12 ila <18 yaş).
+Daha önce tedavi görmüş, rutin profilaksi, kanama epizodlarının gereksinime bağlı tedavisi
+veya periyodik tedavinin bir parçası olarak en az bir doz ADYNOVATE almış yaşları 1 ila <18
+yaş arasında olan 91 pediyatrik hastada güvenlilik ve etkililik çalışmaları yapılmıştır. Yaşları
+12 ila <18 olan adolesan denekler (n=25), yetişkin ve adolesan güvenlilik ve etkililik
+çalışmasına alınmış ve <12 yaş denekler (n=66), pediatrik bir çalışmaya alınmıştır.
+ADYNOVATE'in rutin profilakside ve kanama epizodlarının tedavisindeki güvenliliği ve
+etkililiği, çocuklar ve yetişkinler arasında benzerdir.
+Çocuklarda farmakokinetik çalışmalar (<12 yaş) yetişkinlere kıyasla daha yüksek klirens, daha
+kısa yarılanma ömrü ve daha düşük artımlı faktör VIII düzelmesi göstermiştir. Klirensin (kg
+vücut ağırlığına göre) çocuklarda (<12 yaş) daha yüksek olduğu gösterilmiş olduğundan, bu
+popülasyonda kg vücut ağırlığına göre doz ayarlanması veya daha sık dozlama yapmak
+gerekebilir.
+İmmünojenisite
+Daha önce tedavi edilmiş hastalarda (PTP'ler) tamamlanmış 6 klinik çalışmanın bir veya daha
+fazlasına katılan deneklerin hiçbiri, FVIII ≥ 0,6 BU/mL’ye karşı (Bethesda miktar tayininin
+Nijmegen modifikasyonuna dayalı olarak) kalıcı nötralize edici (inhibitör) antikorlar
+geliştirmemiştir. Bir hastada, %8-12'lik bir FVIII seviyesi hedeflenen kişiye özel profilaksi
+sırasında en düşük pozitiflik sınırında (0,6 BU) geçici bir FVIII inhibitörü gelişmiştir.
+Daha önce tedavi görmemiş, şiddetli hemofili A'sı olan < 6 yaş hastalarda devam eden bir
+çalışmadan, ADYNOVATE tedavisiyle ilişkili 9 FVIII inhibitörü gelişimi vakasına dair ön
+raporlar alınmıştır.
+Profilaktik tedavi
+Denekler, 6 aylık dönem boyunca haftada iki kez kg başına 40-50 IU dozunda ADYNOVATE
+ile profilaktik tedavi (n=120) veya kg başına 10-60 IU dozunda ADYNOVATE ile gereksinime
+12bağlı tedavi (n=17) almıştır. Medyan dozaj aralığı 3,6 gündü ve ortalama doz (SD), 48,7 (4,4)
+IU/kg idi. Yüz yirmi profilaksi deneğin 118’i (%98), doz ayarlaması yapılmadan önerilen
+başlangıç rejiminde kaldı ve 2 denek, hedef eklemlerde kanama nedeniyle profilaksi sırasında
+dozlarını 60 IU/kg'a çıkardı.
+Protokol başına popülasyonda, yani protokole spesifik dozaj gereksinimlerine göre dozlanan
+profilaksi kolunda toplam 101 denek haftada iki kez rejim aldı ve gereksinime bağlı kolda 17
+denek epizodik olarak tedavi edildi. Gereksinime bağlı tedavi kolundaki medyan yıllık kanama
+oranı (ABR), haftada iki kez profilaksi rejimindeki 1,9’a kıyasla 41,5 idi. Gereksinime bağlı
+koldaki medyan eklem ABR (Q1; Q3), profilaksideyken 0 (0; 2)'a kıyasla 38,1 (24,5; 44,6) idi
+ve medyan spontan ABR, profilaksideyken 0 (0; 2)'a kıyasla gereksinime bağlı kolda 21,6
+(11,2; 33,2) idi. Tam analiz popülasyonunun sonuçları, protokol başına popülasyonun
+sonuçlarına benzerdi. Not olarak, ABR farklı faktör konsantrasyonları arasında ve farklı klinik
+çalışmalar arasında karşılaştırılabilir değildir.
+Profilaksi kolunda 101 denekten 40'ı (%40) kanama epizodu geçirmedi, 101 denekten 58'i
+(%57) eklem kanama epizodu geçirmedi ve 101 denekten 58'i (%57) spontan kanama epizodu
+geçirmedi. Gereksinime bağlı koldaki tüm denekler, eklem veya spontan kanama epizodu dahil
+olmak üzere kanama epizodu geçirdi.
+Pediyatrik Deneklerde (<12 yaş) Rutin Profilaksi Klinik Çalışması
+ADYNOVATE'in güvenliliği ve etkililiği, toplam 73 pediyatrik PTP'de değerlendirildi,
+bunlardan 66 deneğe (<6 yaş 32 denek ve 6 ila <12 yaş arası 34 denek) ayrı bir pediyatrik klinik
+çalışmada doz verildi. Profilaktik rejim, ortalama (SD) doz 51,1 IU/kg ile haftada iki kez 40-60
+IU/kg ADYNOVATE idi (5,5). Medyan [ortalama] toplam ABR, tedavi edilen popülasyondaki
+66 denek için 2 [3,61] idi ve spontan ve eklem kanama epizodları için medyan [ortalama]
+ABR'ler her ikisi için de 0 [sırasıyla 1,18 ve 1,12] idi. Profilaktik olarak tedavi edilen 66
+denekten 25'inde (%38) kanama epizodu görülmedi, 44'ünde (%67) spontan kanama epizotu
+yoktu ve 48'inde (%73) eklem kanama epizodu yoktu.
+Pediyatrik çalışma sırasında gözlemlenen 70 kanama epizodunun %82,9'u 1 infüzyon ile
+kontrol edildi, % 91,4'ü 1 veya 2 infüzyon ile kontrol edildi. Kanama kontrolü 70 kanama
+epizodunun 63'ünde (%90) mükemmel (tek bir infüzyondan sonra ağrının tamamen giderildiği
+ve objektif kanama belirtilerinin kesildiği) veya iyi (tek bir infüzyondan sonra kesin ağrı
+13hafiflemesi ve/veya kanama belirtilerinde iyileşme) olarak derecelendirildi. Pediyatrik klinik
+çalışmada mükemmel veya iyi tanımlamalar, adolesan ve yetişkin deneklerde önceden yapılan
+profilaksi klinik çalışmasına kıyasla değişmedi.
+Yetişkin ve pediyatrik hastalarda yapılan bir uzatma çalışmasında, daha önce tedavi görmüş
+şiddetli hemofili A'sı olan 216 hastada profilaktik tedavi rejiminin güvenliliğini ve etkililiğini
+değerlendirilmiştir. Büyük çoğunluğu yetişkin ve adolesan çalışmasını veya pediyatrik
+çalışmayı tamamlamıştır. Bu uzatma çalışmasında da benzer etkililik kaydedilmiştir.
+Kanama epizodlarının tedavisi
+Protokol başına popülasyonda toplam 518 kanama epizodu ADYNOVATE ile tedavi edildi.
+Bunlardan, gereksinime bağlı kolda 361 kanama epizodu (n=17 denek) oluştu ve profilaksi
+kolunda 157 kanama epizodu (n=61 denek) meydana geldi. Protokol başına popülasyondaki
+tüm kanama epizodlarını tedavi etmek için infüzyon başına medyan doz, kg başına 32
+(Çeyrekler Arası Aralık (Interquartile Range) (IQR): 21,5) IU idi. Genel olarak, kanama
+epizodlarının %95,9'u 1 ila 2 infüzyonla kontrol edildi, %85,5'i ise sadece 1 infüzyonla kontrol
+edildi. 518 kanama epizodunun %96,1'i, ADYNOVATE tedavisine yanıtlarında mükemmel
+(tek bir infüzyondan sonra ağrının tamamen giderildiği ve objektif kanama belirtilerinin
+kesildiği) veya iyi (tek bir infüzyondan sonra kesin ağrı hafiflemesi ve/veya kanama
+belirtilerinde iyileşme) olarak derecelendirildi.
+Perioperatif tedavi (cerrahi profilaksi)
+Cerrahi çalışmasında 21 özgün denekte toplam 21 majör cerrahi işlem ve 5 ek minör ameliyat
+yapıldı ve değerlendirildi. Majör ameliyatlar için preoperatif yükleme dozu 36 IU/kg-109 IU/kg
+(medyan: 63 IU/kg) arasında; ve postoperatif toplam doz 186 IU/kg-1320 IU/kg (medyan: 490
+IU/kg) arasında değişmiştir. Majör ameliyatlar için medyan toplam doz 553 IU/kg (aralık: 248-
+1394 IU/kg) idi ve minör ameliyatların medyan toplam dozu 106 IU/kg (aralık: 76-132 IU/kg)
+idi.
+Perioperatif hemostatik etkililik, tüm 26 (21 majör, 5 minör) işlem için mükemmel (hemofilik
+olmayan bir hastada gerçekleştirilen aynı tür işlem için beklenenden az veya buna eşit kan kaybı
+ve hemofilik olmayan bir popülasyonda beklenenden az veya benzer kan bileşenleri
+transfüzyonları gerektiren) olarak derecelendirildi. Medyan (IQR) gözlemlenen intraoperatif
+14kan kaybı (n=14), majör ortopedik ameliyatlar için öngörülen ortalama 150 (140) mL kan
+kaybına (n=14) kıyasla 10 (20) mL idi.
+Avrupa İlaç Kurumu, konjenital faktör VIII yetmezliği tedavisinde, pediyatrik popülasyonun
+bir veya daha fazla alt grubunda ADYNOVATE ile yapılan çalışmaların sonuçlarını gönderme
+yükümlülüğünü ertelemiştir. Pediyatrik kullanım hakkında bilgi için bkz. bölüm 4.2.
+Pediyatrik ve yetişkin deneklerde uzun süreli profilaksi tedavisi
+ADYNOVATE'in kanama epizodlarının profilaksisi ve tedavisinde uzun süreli güvenliliği ve
+etkililiği, daha önce diğer ADYNOVATE çalışmalarına katılmış veya daha önce
+ADYNOVATE kullanmamış şiddetli hemofili A'sı olan 216 pediyatrik ve yetişkin PTP'lerde
+değerlendirilmiştir. Tedavi edilen popülasyonda, denekler, 12 yaş ve üzerinde ise 40 ila 50
+IU/kg veya 12 yaşından küçükse ise 40 ila 60 IU/kg haftada iki kez sabit doz rejimi almıştır.
+FVIII çukur seviyelerini > %1'de tutmak için gerekirse doz haftada iki kez 80 IU/kg'a
+ayarlanmıştır. Kişiye özel (farmakokinetik olarak uyarlanmış) bir profilaktik rejimi seçen
+denekler, haftada en az iki kez ≥ %3'lük FVIII çukur seviyelerini hedefleyen infüzyon başına
+80 IU/kg'a kadar dozlar almıştır. Profilaktik rejime, kanama bölgesi ve etiyolojisine göre ABR
+Tablo 3'te sunulmuştur.
+Tablo 3: Profilaktik rejime göre yıllık kanama hızı (ABR) (ITT popülasyonu)
+Haftada İki Kez 5 Günde Bir 7 Günde Bir PK -
+(N=186) (N=56) (N=15) uyarlanmış a
+Kanama Bölgesi Etiyolojisi
+(N=25)
+Ortalama
+[Nokta Tahmini - %95 Güven Aralığı]
+Genel 2,2 [1,85 – 2,69] 2,1 [1,54 – 2,86] 2,7 [1,44 -5,2] 2,6 [1,7 – 4,08]
+Eklem 1,2 [0,96 – 1,58] 1,1 [0,81 – 1,55] 2 [0,9 – 4,62] 1,4 [0,91 – 2,17]
+Spontan 1,2 [0,92 – 1,56] 1,3 [0,87 – 2,01] 1,8 [0,78- 4,06] 1 [0,54 – 1,71]
+Nokta tahminleri ve %95 güven aralıkları,logaritmik bağlantı fonksiyonu ile negatif bir binom dağılımına uyan genelleştirilmiş bir
+doğrusal modelden elde edilmiştir.
+Birden fazla rejimde doz alan denekler, birden fazla rejim ile ilgili özetlere dahil edilmiştir.
+Çalışmadaki tüm denekleri içerir (yetişkinler ve 18 yaş altı pediyatrik denekler). Haftada İki Kez ve PK'ye özel dozlama için, Her 5 ve 7
+Günde bir dozlamaya 12 yaş altı olan hiçbir denek dahil edilmemiştir.
+ITT = tedavi amaçlı; N = Analize dahil edilen denek sayısı
+a normalin ≥%3 seviyelerinde hedeflenen FVIII aktivitesi
+ABR, farklı faktör konsantreleri ve farklı klinik çalışmalar arasında benzer değildir.
+Uzun süreli hemostatik etkililik, ADYNOVATE ile tedavi edilen 910 kanama epizodunda
+değerlendirilmiştir ve kanama epizodlarının %88,5'i mükemmel veya iyi olarak
+derecelendirilmiştir. Yaş kategorileri arasında ve hem sabit doz hem de PK'ye özel doz rejimi
+15için kanama tedavilerinin >%85'i mükemmel veya iyi olarak derecelendirilmiştir. Kanama
+epizodlarının çoğu bir (%74) veya iki (%15,4) infüzyonla tedavi edilmiştir.
+Adolesan ve yetişkin deneklerde kişiselleştirilmiş profilaksi PROPEL klinik araştırması
+ADYNOVATE'in güvenliliği ve etkililiği, 12 aylık bir tedavi süresi boyunca şiddetli hemofili
+A’sı olan 121 (115 randomize) adolesan (12-18 yaş) ve yetişkin PTP'lerde yapılan prospektif,
+randomize, açık etiketli çok merkezli bir çalışmada değerlendirilmiştir. Çalışma, haftada iki kez
+uygulanan %1-3 (N=57) veya gün aşırı uygulanan %8-12 (N=58) Faktör VIII çukur seviyelerini
+hedefleyen ADYNOVATE'in PK’ya bağlı profilaktik 2 doz rejimini, ikinci 6 aylık çalışma
+döneminde toplam ABR'si 0 olan deneklerin oranlarını değerlendirerek karşılaştırmıştır.
+% 1-3 ve % 8-12 çukur kollarında uygulanan ortalama profilaktik dozlar, sırasıyla yılda 3866,1
+IU/kg [ortalama (SD) infüzyonlar/hafta = 2,3 (0,58)] ve yılda 7532,8 IU/kg [(ortalama (SD)
+infüzyonlar/hafta = 3,6 (1,18)] idi. Profilaksinin ilk 6 aylık döneminde doz ayarlamasından
+sonra, ikinci 6 aylık dönemde medyan çukur seviyeleri (tek aşamalı pıhtılaşma testine göre ve
+planlanan infüzyon aralığının sonunda hesaplanan), %1-3 çukur seviye kolunda 2,1 IU/dL ila 3
+IU/dL arasında ve %8-12 çukur seviye kolunda 10,7 IU/dL ila 11,7 IU/dL arasında değişerek,
+2 profilaksi rejiminde dozlamanın, istenen FVIII çukur seviyelerini elde etmek ve sürdürmek
+için genellikle yeterli olduğunu göstermiştir.
+Çalışmanın primer sonlanım noktası olarak ikinci 6 aylık dönemde toplam ABR'si 0 olan
+deneklerin oranına, ITT hasta popülasyonunda (p= 0,0545) ulaşılamazken, protokol başına
+popülasyonda ulaşılmıştır (p = 0.0154). İkinci 6 aylık çalışma döneminde toplam ABR'ler,
+spontan ABR'ler ve spontan yıllık eklem kanama oranları (AJBR'ler) 0 olan randomize
+deneklerin oranları Tablo 4'te sunulmuştur.
+Tablo 4: Yıllık kanama oranı (ABR) 0, ikinci 6 aylık çalışma dönemi
+6 Ayda Kanama Olmayan Deneklerin Oranı [Nokta
+Tahmini - %95 Güven Aralığı]
+ITT Popülasyonu
+%1-3 Çukur Seviye (N=57) %8-12 Çukur Seviye (N=58)
+Toplam ABR 0 0,421 [0,292; 0,549] 0,621[0,491; 0,75]
+Spontan ABR 0 0,596 [0,469; 0,724] 0,76 [0,645; 0,875]
+Spontan AJBR 0 0,649 [0,525; 0,773] 0,85 [0,753; 0,947]
+ABR = Yıllık kanama oranı. AJBR = Yıllık eklem kanama oranı.
+Kanama sayısının yıllara göre gözlem süresine bölünmesiyle belirlenen yıllık kanama oranı.
+6 Ayda Kanama Olmayan Deneklerin Oranı [Nokta Tahmini
+- %95 Güven Aralığı]
+Protokol Başına Popülasyon
+16%1-3 Çukur Seviye (N=52) %8-12 Çukur Seviye (N=43)
+Toplam ABR 0 0404 [0,27; 0,549] 0,674 [0,515; 0,809]
+Spontan ABR 0 0,596 [0,451; 0,73] 0,814 [0,666; 0,916]
+Spontan AJBR 0 0,654 [0,509; 0,78] 0,907 [0,779; 0,974]
+ABR = Yıllık kanama oranı. AJBR = Yıllık eklem kanama oranı.
+Protokol başına popülasyon = ikinci 6 aylık profilaktik tedaviyi tamamlayan ve çalışma sonuçlarını etkileyecek protokolden
+önemli sapmaların olmadığı tüm denekler.
+Kanama sayısının yıllara göre gözlem süresine bölünmesiyle belirlenen yıllık kanama oranı.
+ABR, farklı faktör konsantreleri ve farklı klinik çalışmalar arasında benzer değildir.
+İkinci 6 aylık çalışma döneminde toplam ABR'ler, spontan ABR'ler ve spontan AJBR'ler Tablo
+5'te sunulmuştur.
+Tablo 5: Yıllık kanama oranı (ABR) ikinci 6 aylık çalışma dönemi
+(ITT Popülasyonu)
+%1-3 Çukur Seviye (N=57) %8-12 Çukur Seviye (N=53)
+Medyan Ortalama (SD) Medyan Ortalama (SD)
+Toplam ABR 2 3,6 (7,5) 0 1,6 (3,4)
+Spontan ABR 0 2,5 (6,6) 0 0,7 (1,7)
+Spıntan AJBR 0 2 (6,4) 0 0,5 (1,7)
+ABR = Yıllık kanama oranı. AJBR = Yıllık eklem kanama oranı.
+Kanama sayısının yıllara göre gözlem süresine bölünmesiyle belirlenen yıllık kanama oranı.
+Protokol Başına Popülasyon
+%1-3 Çukur Seviye (N=52) %8-12 Çukur Seviye (N=43)
+Medyan Ortalama (SD) Medyan Ortalama (SD)
+Toplam ABR 2 2,4 (3,2) 0 2,1 (4,2)
+Spontan ABR 0 1,6 (2,6) 0 0,8 (2,4)
+Spontan AJBR 0 1 (1,8) 0 0,7 (2,2)
+ABR = Yıllık kanama oranı. AJBR = Yıllık eklem kanama oranı.
+Protokol başına popülasyon = ikinci 6 aylık profilaktik tedaviyi tamamlayan ve çalışma sonuçlarını etkileyecek protokolden
+önemli sapmaların olmadığı tüm denekler.
+Kanama sayısının yıllara göre gözlem süresine bölünmesiyle belirlenen yıllık kanama oranı.
+% 1-3 çukur seviye kolunda 40 denekte 155 kanama ve % 8-12 çukur seviye kolunda 26 denekte
+87 kanama olmak üzere 66 denekte toplam 242 kanama epizodu ADYNOVATE ile tedavi
+edilmiştir. Kanamaların çoğu (%86, 208/242), 1 veya 2 infüzyonla tedavi edilmiştir ve kanama
+epizodunun çözülmesinde kanama tedavisi, kanamaların %84,7'sinde (205/242) mükemmel
+veya iyi olarak derecelendirilmiştir.
+5.2 Farmakokinetik özellikler
+Genel özellikler
+ADYNOVATE’in farmakokinetiği (FK), ADYNOVATE ile 6 aylık bir tedaviden sonra 26
+denekte (18 yetişkin ve 8 adolesan) ve 22 denekte (16 yetişkin ve 6 adolesan) oktokog alfa ile
+yapılan çapraz çalışmada değerlendirildi. Plazma faktör VIII aktivitesi, tek aşamalı pıhtılaşma
+tayini ve kromojenik tayin ile ölçüldü.
+17Emilim:
+ADYNOVATE’e ilişkin değişik yaş gruplarında (küçük ve büyük çocuklar, adolesanlar ve
+erişkinler) hastalar için emilim sonuçları Tablo 6’da verilmektedir.
+Dağılım:
+ADYNOVATE’e ilişkin değişik yaş gruplarında (küçük ve büyük çocuklar, adolesanlar ve
+erişkinler) hastalar için dağılım hacimlerinin bir özeti Tablo 6’da verilmektedir.
+Biyotransformasyon:
+Uygulanabilir değildir.
+Eliminasyon:
+ADYNOVATE, tek aşamalı pıhtılaşma ve kromojenik tayinlere dayanarak belirlendiği gibi,
+sırasıyla adolesan ve yetişkin popülasyondaki rekombinant insan pıhtılaşma faktörü VIII'e
+(oktokog alfa) kıyasla 1,4 ila 1,5 kat uzatılmış bir yarılanma ömrüne sahiptir. Ana molekül
+oktokog alfaya kıyasla Eğri Altındaki Alanda (EAA) bir artış ve klirenste de bir azalma
+gözlemlenmiştir. Artımlı düzelme, her iki ürünle de karşılaştırılabilirdi. FK parametrelerindeki
+değişim hem yetişkin hem de adolesan popülasyonlarında ve tek aşamalı pıhtılaşma ve
+kromojenik substrat tayinleri arasında benzerdi.
+Doğrusallık / doğrusal olmayan durum:
+Bilinmemektedir.
+Tablo 6: Kromojenik test kullanılan farmakokinetik parametreler (Aritmetik ortalama ±
+SS)
+ADYNOVATE
+ADYNOVATE ADYNOVATE ADYNOVATE
+Yetişkin
+Adolesan Pediyatrik Pediyatrik
+FK (18 yaş ve
+(12 ila <18 yaş) (6 ila <12 yaş) (<6 yaş)
+Parametreleri üzeri)
+N=8 N=17 N=14
+N=18
+Doz: Doz: Doz:
+Doz:
+45 ± 5 IU/kg 50 ± 10 IU/kg 50 ± 10 IU/kg
+45 ± 5 IU/kg
+18Dizayn Tam örnekleme ile bireysel FKa Seyrek örnekleme ile bireysel FKb
+Terminal
+yarılanma ömrü
+15,01 ± 3,89 13,80 ± 4,01 11,93 ± 2,58 12,99 ± 8,75
+[saat]
+MRT [saat]
+19,70 ± 5,05 17,73 ± 5,44 17,24 ± 3,73 18,74 ± 12,60
+KL
+2,16 ± 0,75 2,58 ± 0,84 2,80 ± 0,67 3,49 ± 1,21
+[mL/(kg·saat)] d
+Artımlı Düzelme
+nac nac
+2,87 ± 0,61 2,34 ± 0,62
+(2,19± 0,40) (1,90 ± 0,27)
+[(IU/dL)/(IU/kg)]
+EAA
+0-∞
+2589 ± 848 1900 ± 841 2259 ± 514 2190 ± 1593
+[IU·saat/dL]
+Vss [dL/kg]
+0,40 ± 0,09 0,54 ± 0,22 0,46 ± 0,04 0,54 ± 0,03
+C
+maks
+[IU/dL]
+145 ± 29 117 ± 28
+nac nac
+(130 ± 24) (117 ± 16)
+Kısaltmalar: C : maksimum gözlemlenen aktivite; EAA: eğri altındaki alan; MRT: ortalama kalış süresi; KL:
+maks
+klirens; V : kararlı durumda vücut ağırlığı ayarlı dağılım hacmi;
+ss
+a. 12 infüzyon sonrası örnekten oluşan bireysel PK
+b. Randomize oluşturulan programa dayalı 3 infüzyon sonrası örnekten oluşan popülasyon PK modeli
+c. Uygulanamaz, çocuklarda artan iyileşme ve Cmaks bireysel PK ile belirlenmiştir. Artan iyileşme ve Cmaks
+sonuçları, parantez içerisindeki bireysel PK ile belirlenmiştir.
+d. 12’den 18 yaşa kadar olan grupta yer alan denek 122001’in 12,18 mL/kg(kg-sa) klirens değeri klirens analizine
+dahil edilmemiştir.
+Hastalardaki karakteristik özellikler
+Pediyatrik popülasyon:
+Tablo 6’da gösterildiği gibi, <18 yaş 39 denekten (tedavi amaçlı analiz) hesaplanan
+farmakokinetik parametreler 14 çocuk (2 ila <6 yaş), 17 daha büyük çocuk (6 ila <12 yaş) ve 8
+adolesan denek (12 ila <18 yaş) için mevcuttur. Pediyatrik popülasyondaki yarı ömür uzaması
+hem tek aşamalı pıhtılaşma hem de kromojenik testler kullanılarak 1.3 ila 1.5 kat olmuştur.
+ADYNOVATE'in ortalama klirensi (vücut ağırlığına göre) daha yüksekti ve <12 yaş çocuklarda
+ortalama yarılanma ömrü yetişkinlerden daha düşüktü. Doz ayarlaması <12 yaş çocuklarda
+gerekebilir (Bkz. Bölüm 4.2).
+Geriyatrik popülasyon:
+ADYNOVATE klinik çalışmaları 65 yaş ve üzeri hasta grubunu içermemektedir.
+195.3 Klinik öncesi güvenlilik verileri
+Sinomolgus maymunda yapılan tekrarlanan doz toksisite çalışmasında, iki hayvan orta doz
+grubunda (350 IU/kg) böbrekte vakuol (boşluk) oluşumu gösterdi. Vakuol oluşumları 2 hafta
+sonra geçmedi. Preklinik çalışmada gözlemlenen böbrek vakuol oluşumunun insanla ilişkisi
+bilinmemektedir.
+Klinik olmayan veriler 1 aylık maruziyet ile sınırlıdır ve ADYNOVATE ile jüvenil hayvanlarda
+hiçbir çalışma yapılmamıştır. Bu nedenle, pediyatrik popülasyonda ADYNOVATE’in kronik
+kullanımıyla alakalı çeşitli dokularda/organlarda PEG birikiminin potansiyel riskleri üzerine
+karar vermek mümkün olmamıştır. ADYNOVATE ile genotoksisite, karsinojenisite veya
+üreme toksisitesi ile ilgili hiçbir çalışma yapılmamıştır.
+6. FARMASÖTİK ÖZELLİKLER
+6.1 Yardımcı maddelerin listesi
+Toz
+Mannitol (E421)
+Trehaloz dihidrat
+Histidin
+Glutatyon
+Sodyum klorür
+Kalsiyum klorür dihidrat (E509)
+Tris (hidroksimetil) aminometan
+Polisorbat 80 (E433)
+Çözücü
+Enjeksiyonluk su
+6.2 Geçimsizlikler
+Geçimsizlik çalışmaları bulunmadığından, bu tıbbi ürün diğer tıbbi ürünlerle
+karıştırılmamalıdır.
+6.3 Raf ömrü
+Açılmamış flakon
+24 ay.
+20Tıbbi ürün açılmadan önce oda sıcaklığında (30°C'ye kadar) 3 aya kadar bir sürede saklanabilir.
+Oda sıcaklığında 3 aylık saklamanın son günü ürün kartonuna kaydedilmelidir. Bu tarih,
+başlangıçta dış karton kutuda belirtilen tarihi asla geçmemelidir. Bu sürenin sonunda, ürün
+buzdolabına geri konmamalı, kullanılmalı veya atılmalıdır.
+Sulandırıldıktan sonra
+Kimyasal ve fiziksel kullanımda stabilite, 30°C'nin üzerinde olmayan bir sıcaklıkta 3 saat
+boyunca gösterilmiştir. Mikrobiyolojik açıdan bakıldığında, sulandırma metodu mikrobiyal
+kontaminasyon riskini engellemediği sürece ürün derhal kullanılmalıdır. Hemen
+kullanılmadığında, kullanımda saklama süreleri ve koşulları kullanıcının sorumluluğundadır.
+Dondurulmamalıdır.
+6.4 Saklamaya yönelik özel tedbirler
+Buzdolabında saklayınız (2°C ila 8°C arasında).
+Dondurmayınız.
+BAXJECT III sistemin içeresindeki ADYNOVATE: Işıktan korumak için kapalı blisteri dış
+karton kutunun içinde muhafaza ediniz.
+Tıbbi ürünün sulandırılmasından sonraki saklama koşulları için, bkz bölüm 6.3.
+6.5 Ambalajın niteliği ve içeriği
+1000 IU toz içeren, klorobütil kauçuk tıpa ile kapatılmış Tip I cam flakon.
+2 mL enjeksiyonluk su içeren, klorobütil veya bromobütil kauçuk tıpa ile kapatılmış Tip I cam
+flakon.
+- BAXJECT III sistemi içerisindeki ADYNOVATE: Her pakette, kapalı bir blisterde
+kullanıma hazır bir BAXJECT III sistemi, sulandırma için önceden birleştirilmiş toz flakon
+ve çözücü flakon ile birlikte uygulama seti kapsamında kelebek iğneli infüzyon seti ve tek
+kullanımlık enjektör bulunur.
+6.6 Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+Sulandırılmış tıbbi ürün uygulanmadan önce partiküler madde ve renk değişikliği için görsel
+olarak kontrol edilmelidir. Çözelti berrak veya hafif bulanık olmalıdır. Dumanlı veya birikintili
+olan çözeltiler kullanılmamalıdır.
+Sulandırıldıktan sonra, çözelti pH değeri 6,7 – 7,3'tür. Osmolalite ≥ 380 mOsmol/kg'dır.
+21BAXJECT III sistemiyle sulandırma
+Kapak blister üzerinde tamamen kapatılmamışsa kullanmayınız.
+1. Ürün hala buzdolabında saklanıyorsa, kapalı blisteri (sulandırmak için sistemle önceden
+monte edilmiş toz ve çözücü flakonları içerir) buzdolabından alınız ve oda sıcaklığına
+(15°C ile 25°C arasında) ulaşmasını sağlayınız.
+2. Ellerinizi sabun ve ılık su kullanarak iyice yıkayınız.
+3. Kapağı soyarak ADYNOVATE blisterini açınız. BAXJECT III sistemini blisterden
+çıkarınız.
+4. Toz flakonunu, çözücü flakon üstte olacak şekilde düz bir yüzeye yerleştiriniz (Şekil 1).
+Çözücü flakonunun mavi bir şeridi vardır. Mavi bir kapağı daha sonraki bir adımda
+talimat verilinceye kadar çıkarmayınız.
+5. Bir eliniz BAXJECT III sistemindeki toz flakonu tutarken, sistem tamamen çökene ve
+çözücü toz flakonun içine akana kadar çözücü flakonun üzerine diğer elinizle sıkıca
+bastırınız (Şekil 2). Aktarım tamamlanana kadar sistemi eğmeyiniz.
+6. Çözücünün aktarımının tamamlandığını doğrulayınız. Tüm materyal eriyene kadar
+yavaşça döndürünüz (Şekil 3). Tozun tamamen çözündüğünden emin olunuz, aksi halde
+sulandırılan çözeltilerin tümü cihaz filtresinden geçmeyecektir. Ürün hızlı bir şekilde
+çözünür (genellikle 1 dakikadan az). Sulandırıldıktan sonra çözelti berrak, renksiz ve
+parçacıklardan arındırılmış olmalıdır.
+Şekil 1 Şekil 2 Şekil 3
+Şekil 4 Şekil 5
+22Uygulama
+• Kullanımdan önce sulandırılmış çözeltiyi partiküler madde ve renk değişikliği açısından
+görsel olarak inceleyiniz.
+Sulandırılmış çözeltinin görünümü berrak ve renksizdir.
+o
+Partiküler madde veya renk değişikliği gözlemlenirse kullanmayınız.
+o
+• En kısa sürede, ancak sulandırıldıktan en geç 3 saat sonra uygulayınız.
+Uygulama Adımları:
+1. Mavi kapağı BAXJECT III cihazından çıkarınız (Şekil 4). Enjektörün içine hava
+çekmeyiniz.
+Enjektörü BAXJECT III cihazına bağlayınız. Kit içerisinde yer alan Luer-lock enjektörün
+kullanılması tavsiye edilir.
+2. Sistemi ters çeviriniz (toz flakon şimdi üstte). Pistonu yavaşça geri çekerek sulandırılmış
+çözeltiyi enjektöre çekiniz (Şekil 5).
+3. Enjektörü çıkarınız; kit içerisinde yer alan kelebek iğneyi takınız ve damardan enjekte
+ediniz. Bir hasta birden fazla ADYNOVATE flakonu alacaksa, birden fazla flakon içeriği
+aynı enjektörün içine çekilebilir.
+4. Beş dakikaya kadar olan bir süre boyunca uygulayınız (maksimum infüzyon hızı
+dakikada 10 mL).
+ADYNOVATE’in her uygulanışında, ürünün adının ve seri numarasının kaydedilmesi şiddetle
+tavsiye edilir. Soyularak çıkan etiketler toz flakonun üzerinde bulunur.
+Kullanılmamış olan ürünler ya da atık materyaller, “Tıbbi Atıkların Kontrolü Yönetmeliği” ve
+“Ambalaj Atıklarının Kontrolü Yönetmeliği”ne uygun olarak imha edilmelidir
+7. RUHSAT SAHİBİ
+Takeda İlaç Sağlık Sanayi Ticaret Limited Şirketi
+Levent-Şişli/İstanbul
+8. RUHSAT NUMARASI
+2022/318
+239. İLK RUHSAT TARİHİ / RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi: 09.06.2022
+Son yenileme tarihi: -
+10. KÜB’ÜN YENİLENME TARİHİ
+24

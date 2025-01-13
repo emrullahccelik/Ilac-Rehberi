@@ -1,0 +1,441 @@
+KISA ÜRÜN BİLGİSİ
+▼Bu ilaç ek izlemeye tabidir. Bu üçgen yeni güvenlilik bilgisinin hızlı olarak belirlenmesini
+sağlayacaktır. Sağlık mesleği mensuplarının şüpheli advers reaksiyonları TÜFAM’a
+bildirmeleri beklenmektedir. Bakınız Bölüm 4.8 Şüpheli advers reaksiyonların raporlanması.
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+FRECİT 24 mg/mL I.V. infüzyonluk çözelti
+Steril
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde:
+Her bir flakon,
+6000 mg foskarnet sodyum hekzahidrat içerir.
+Yardımcı madde(ler):
+Sodyum hidroksit y.m (pH ayarı için)
+Yardımcı maddeler için 6.1’e bakınız.
+3. FARMASÖTİK FORM
+İnfüzyon için çözelti içeren flakon
+Berrak renksiz çözelti
+4. KLİNİK ÖZELLİKLER
+4.1. Terapötik endikasyonlar
+FRECİT, AIDS'li hastalarda sitomegalovirüs (CMV) retinitinin (retinanın ciddi viral göz
+enfeksiyonu) indüksiyon ve idame tedavisinde endikedir.
+FRECİT, bağışıklığı baskılanmış hastalarda klinik olarak asiklovire cevap vermeyen
+mukokutanöz Herpes Simpleks Virüs (HSV) enfeksiyonlarının tedavisinde de endikedir.
+Diğer HSV enfeksiyonlarının (ör., retinit, ensefalit), konjenital veya yenidoğan hastalığının
+veya immün sistemi sağlam kişilerdeki HSV’nin tedavisinde FRECİT’in güvenliliği ve
+etkililiği belirlenmemiştir.
+1Asiklovir etkisizliğinin teşhisi, ya klinik olarak intravenöz asiklovir ile (günde 3 defa 5-10 mg
+/ kg dozda) yanıt olmadan 10 gün süreyle tedavi edilerek ya da in vitro testlerle yapılabilir.
+FRECİT, retinit veya HSV dışındaki CMV enfeksiyonlarının tedavisinde veya AIDS olmayan
+veya immün yetmezliği olmayan hastalarda kullanım için önerilmez.
+4.2. Pozoloji ve uygulama şekli
+Pozoloji/uygulama sıklığı ve süresi:
+Uygulama şekli:
+Foskarnet, ya bir santral venöz yolla ya da periferik damar içine, sadece intravenöz olarak
+uygulanmalıdır.
+24 mg/ml foskarnet çözeltisi periferik damarlara uygulandığında seyreltilmelidir. Ayrı ayrı
+verilen foskarnet dozları aseptik olarak transfer edilmeli kullanılmadan önce eşit oranlarda
+%0,9 sodyum klorür (9 mg/ml) veya %5 dekstroz (50 mg/ml) ile seyreltilmelidir. Seyreltilmiş
+çözeltiler hazırlandıktan sonra mümkün olan en kısa sürede kullanılmalıdır, ancak
+buzdolabında muhafaza edilirse, 24 saate kadar kullanılabilir.
+24 mg/ml foskarnet çözeltisi, santral ven yoluyla seyreltilmeden verilebilir.
+Yetişkinler:
+Sitomegalovirüs (CMV) retiniti için indüksiyon tedavisi:
+FRECİT, normal böbrek fonksiyonlarına sahip hastalarda klinik cevaba bağlı olarak 2-3 hafta
+boyunca, aralıklı infüzyon şeklinde her 8 saatte bir 60 mg/kg dozunda uygulanır. Doz
+hastanın böbrek fonksiyonuna göre ayarlanmalıdır (aşağıdaki doz tablosuna bakınız).
+İnfüzyon süresi 1 saatten daha kısa olmamalıdır.
+İdame tedavisi:
+İdame tedavisi için, CMV retinitinin indüksiyon tedavisini takiben, FRECİT ile tedavi uygun
+kabul edildiği sürece haftanın yedi günü uygulanır. Normal böbrek fonksiyonlarına sahip
+hastalarda, 60 mg/kg'da tedavinin başlatılması önerilir. Dozun 90-120 mg/kg’a çıkarılması,
+başlangıç dozunu tolere eden ve/veya ilerleyici retiniti olan hastalarda düşünülebilir. İdame
+tedavisi için başlangıç dozu olarak 2 saatlik bir sürede bazı hastalara 90 mg/kg doz
+2verilmiştir. Böbrek yetmezliği olan hastalarda doz azaltılmalıdır (doz bölümünün sonunda doz
+tablosuna bakınız).
+İdame tedavisi alırken retinit progresyonu yaşayan hastalar, indüksiyon rejimi ile tekrar tedavi
+edilebilir.
+Asiklovire cevap vermeyen mukokütanöz HSV enfeksiyonunun indüksiyon tedavisi:
+FRECİT, normal renal fonksiyonu olan hastalarda, 2-3 hafta boyunca veya lezyonlar iyileşene
+kadar aralıklı infüzyon olarak 8 saatte bir, en az bir saat boyunca 40 mg/kg'lık dozda
+uygulanır. Doz, hastaların böbrek fonksiyonlarına göre ayarlanmalıdır (aşağıdaki doz
+tablosuna bakınız). İnfüzyon süresi 1 saatten daha kısa olmamalıdır.
+Asiklovire yanıt vermeyen HSV enfeksiyonlarının indüksiyon tedavisini takiben foskarnetin
+idame tedavisinin etkinliği belirlenmemiştir.
+Dikkat: FRECİT hızlı intravenöz enjeksiyon ile uygulanmaz.
+FRECİT doz tablosu
+İndüksiyon tedavisi
+Kreatinin klirensi CMV HSV
+(ml/kg/dk) Her 8 saatte (mg/kg) Her 8 saatte (mg/kg)
+> 1,6 60 40
+1,6–1,4 55 37
+1,4–1,2 49 33
+1,2–1 42 28
+1–0,8 35 24
+0,8–0,6 28 19
+0,6–0,4 21 14
+< 0,4 Tedavi önerilmez.
+3CMV idame tedavisi
+Kreatinin klirensi Tek infüzyon dozu
+(ml/kg/dk) (1 saatten daha az olmayacak sürece mg/kg/gün)
+> 1,6 60*
+1,6–1,4 55
+1,4–1,2 49
+1,2–1 42
+1–0,8 35
+0,8–0,6 28
+0,6–0,4 21
+< 0,4 Tedavi önerilmez.
+*Bazı hastalar idame tedavisi için başlangıç dozu olarak 90 mg/kg aldı.
+Doz kılavuzları bulunmadığından hemodiyalize giren hastalarda FRECİT önerilmemektedir.
+Hidrasyon: FRECİT’in böbrek toksisitesi, hastanın yeterli hidrasyonuyla azaltılabilir. Her bir
+infüzyonda 0,5-1 litre normal salin ile hidrasyon yoluyla diürez oluşturulması önerilir.
+Uyumlu hastalarda, benzer hidrasyon rejimleri ile oral hidrasyon uygulanmıştır. Klinik olarak
+dehidrate edilen hastalar, FRECİT tedavisine başlamadan önce durumlarının düzeltilmesi
+gerekir.
+Özel popülasyonlara ilişkin ek bilgiler:
+Böbrek/Karaciğer yetmezliği:
+Böbrek yetmezliği bulunan hastalarda doz, kreatinin klirensi seviyesine göre yukarıdaki
+tabloda gösterildiği şekilde azaltılmalıdır. Karaciğer yetmezliği bulunan hastalarda doz
+ayarlamasına gerek yoktur.
+Pediyatrik popülasyon:
+Çocuklarda foskarnetin güvenliliği ve etkililiği belirlenmemiştir (bkz. Bölüm 4.4 ve 5.3).
+Geriyatrik popülasyon:
+4Yetişkinlerde olduğu gibi uygulanır.
+4.3. Kontrendikasyonlar
+Etkin maddeye veya bölüm 6.1’de belirtilen yardımcı maddelerden herhangi birine karşı aşırı
+duyarlılığı olanlarda kontrendikedir.
+4.4. Özel kullanım uyarıları ve önlemleri
+Böbrek fonksiyonlarında azalma olan hastalarda FRECİT dikkatli kullanılmalıdır. FRECİT
+uygulaması sırasında herhangi bir zamanda böbrek fonksiyon bozukluğu oluşabileceğinden,
+indüksiyon tedavisi sırasında serum kreatinin düzeyleri her iki günde bir, idame tedavisi
+sırasında haftada bir kez izlenmeli ve renal fonksiyona göre uygun doz ayarlamaları
+yapılmalıdır. Tüm hastalarda yeterli hidrasyon sağlanmalıdır (bkz. Bölüm 4.2). Böbrek
+hastalığı olan veya eş zamanlı farklı nefrotoksik tıbbi ürünlerle tedavi edilen hastaların böbrek
+fonksiyonları yakından izlenmelidir (bkz. Bölüm 4.5).
+FRECİT’in kalsiyum gibi iki değerlikli metal iyonlarını şelatlama eğilimi vardır, FRECİT
+uygulamasında infüzyon miktarıyla orantılı olarak, iyonize serum kalsiyumunun akut bir
+azalması olabilir, bu toplam serum kalsiyum düzeylerine yansımayabilir. Elektrolitler,
+özellikle kalsiyum ve magnezyum, FRECİT tedavisi öncesinde ve tedavi sırasında
+değerlendirilmeli ve eksiklikler düzeltilmelidir.
+Foskarnet, QT aralığının uzaması ve daha nadiren torsade de pointes vakaları ile
+ilişkilendirilmiştir (bkz. Bölüm 4.8). Kardiyak iletim aralıklarının, özellikle de QTc
+uzamasının olduğu bilinen hastalar, önemli elektrolit bozukluğu (hipokalemi,
+hipomagnezemi) olan hastalar, bradikardinin yanı sıra konjestif kalp yetmezliği gibi altta
+yatan kalp hastalığı olan ya da QT aralığını uzattığı bilinen ilaçları kullanan hastalar,
+ventriküler aritmi riskindeki artış nedeniyle dikkatli izlenmelidir. Hastalara herhangi bir kalp
+semptomunu derhal rapor etmeleri önerilmelidir.
+FRECİT diş, kemik ve kıkırdakta birikir. Hayvan verileri, genç hayvanlarda birikimin daha
+fazla olduğunu göstermektedir. FRECİT’in güvenliliği ve iskelet gelişimine olan etkisi
+çocuklarda araştırılmamıştır (bkz. Bölüm 5.3).
+5Plazma mineralleri ve elektrolitlerindeki değişikliklerle ilgili nöbetler, foskarnet tedavisi ile
+ilişkilendirilmiştir. Bu nedenle hastalar, bu tür değişiklikler ve olası sekelleri için dikkatlice
+izlenmelidir. Mineral ve elektrolit takviyesi gerekebilir.
+Foskarnet, idrarda yüksek konsantrasyonlarda atılır ve dolayısıyla önemli genital iritasyon
+ve/veya ülserasyona neden olabilir. İritasyon ve ülserleşmeyi önlemek için, kişisel hijyene
+dikkat edilmeli ve her işeme sonrasında genital bölgenin temizlenmesi önerilir.
+Hastalar ekstremite parestezisi veya mide bulantısı yaşarsa, infüzyon hızının azaltılması
+önerilir.
+Diüretikler gerektiğinde tiyazid önerilir.
+Direnç gelişimi:
+FRECİT uygulaması ile terapötik bir cevap alınmayabilir veya kötüleşme oluşabilir, bu
+virüslerin foskarnete karşı duyarlılığının azalması sonucunda ortaya çıkabilir. Bu durumda,
+FRECİT ile tedavi sonlandırılmalı ve uygun başka bir tıbbi ürüne geçilmesi düşünülmelidir.
+Bu tıbbi ürün her flakonda 1,38 g sodyum ihtiva eder. Bu, bir yetişkin için DSÖ tarafından
+önerilen günlük maksimum 2 g sodyum alımının %69'una eş değerdir.
+Bu ürünün önerilen maksimum günlük dozu 12 g FRECİT’tir (ortalama 70 kg erkekte 180
+mg/kg/gün) ve bu, DSÖ'nün önerdiği maksimum günlük sodyum alımının %138'ine eş
+değerdir.
+FRECİT sodyumda yüksek kabul edilir. Bu durum, kontrollü sodyum diyetinde olan hastalar
+için göz önünde bulundurulmalıdır. Salin yüklemesinin tolere edilemediği durumlarda (ör.,
+kardiyomiyopati) kullanımından kaçınılmalıdır.
+4.5. Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+FRECİT böbrek fonksiyonunu zayıflatabileceğinden, aminoglikozidler, amfoterisin B,
+siklosporin A, asiklovir, metotreksat ve takrolimus gibi diğer nefrotoksik ilaçlarla birlikte
+kullanıldığında ilave toksisiteye neden olabilir. Ayrıca, FRECİT iyonize kalsiyumun serum
+seviyelerini düşürebildiğinden, serum kalsiyum seviyelerini etkilediği bilinen diğer ilaçlarla
+(ör., i.v. pentamidin) birlikte kullanıldığında çok dikkatli olunmalıdır. Foskarnet ve i.v
+pentamidin ile eş zamanlı tedavi sırasında böbrek yetmezliği ve semptomatik hipokalsemi
+6(Trousseau ve Chvostek belirtileri) gözlenmiştir. Foskarnetin ritonavir ve/veya sakinavir ile
+kombinasyon halinde kullanımı ile bağlantılı olarak anormal böbrek fonksiyonu bildirilmiştir.
+Potansiyel artmış QT uzaması ve torsade de pointes riski nedeniyle FRECİT, özellikle sınıf
+IA (örneğin kinidin) ve sınıf III (örneğin amiodaron, sotalol) antiaritmik ajanlar veya
+nöroleptik ilaçlar gibi QT aralığını uzattığı bilinen ilaçlarla dikkatli kullanılmalıdır. Bu
+ilaçların birlikte uygulandığı vakalarda yakın kardiyak monitörizasyon yapılmalıdır.
+Zidovudin, gansiklovir, didanozin, zalsitabin veya probenesid ile farmakokinetik etkileşimi
+yoktur.
+Farmasötik etkileşimler (infüzyon için uyumsuzluklar) Bölüm 6.2'de açıklanmaktadır.
+Özel popülasyonlara ilişkin ek bilgiler:
+Özel popülasyonlara ilişkin etkileşim çalışması yapılmamıştır.
+Pediyatrik popülasyon:
+Pediyatrik popülasyonlara ilişkin etkileşim çalışması yapılmamıştır.
+4.6. Gebelik ve laktasyon
+Genel tavsiye
+Gebelik kategorisi: C
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon)
+Çocuk doğurma potansiyeline sahip kadınlar, FRECİT ile tedavi sırasında etkin
+kontrasepsiyon yöntemleri kullanmalıdır. FRECİT ile tedavi edilen erkekler tedaviden en az 6
+ay sonrasına kadar çocuk sahibi olmayı düşünmemelidirler.
+Gebelik dönemi
+Hamile kadınlarda foskarnet kullanımıyla ilgili hiçbir veri yoktur veya sınırlı miktarda bilgi
+mevcuttur.
+Hayvan çalışmaları üreme toksisitesi açısından yetersizdir (bkz. Bölüm 5.3).
+Hamilelik sırasında FRECİT önerilmemektedir.
+7Laktasyon dönemi
+Foskarnetin insan sütüne geçişi konusunda bilgi yetersizdir. Hayvanlarda mevcut
+farmakodinamik/toksikolojik veriler foskarnetin sütle atılımını göstermiştir (bkz. Bölüm 5.3).
+Yenidoğanlar/bebekler için risk göz ardı edilemez. Emzirirken kullanılmamalıdır. Yine de
+emzirmenin durdurulup durdurulmayacağına ya da tedavisinin durdurulup
+durdurulmayacağına/tedaviden kaçınılıp kaçınılmayacağına ilişkin karar verilirken,
+emzirmenin çocuk açısından faydası ve FRECİT tedavisinin emziren anne açısından faydası
+dikkate alınmalıdır.
+Üreme yeteneği/Fertilite
+Foskarnetin doğurganlık üzerindeki etkisi hakkında hiçbir veri mevcut değildir.
+Hayvan çalışmalarında doğurganlık üzerine herhangi bir etki gözlenmemiştir (bkz. Bölüm
+5.3).
+4.7. Araç ve makine kullanımı üzerindeki etkiler
+FRECİT, araç ve makine kullanma becerisi üzerinde orta derecede bir etkiye sahiptir.
+Hastalığın kendisi ve FRECİT’in olası istenmeyen etkileri (baş dönmesi ve konvülsiyonlar
+gibi, bkz. Bölüm 4.8) nedeniyle, araç ve makine kullanma becerisi bozulabilir.
+Doktorun bu konuyu hastayla konuşması ve hastalığın durumuna ve tedavinin toleransına
+dayalı olarak, kişinin duruma göre öneride bulunması tavsiye edilir.
+4.8. İstenmeyen etkiler
+Foskarnet kullanacak hastaların çoğunun bağışıklık sistemi ciddi şekilde etkilenmiştir ve ciddi
+viral enfeksiyonlara yakalanmıştır. Hastaların fiziksel durumu, altta yatan hastalığın ciddiyeti,
+diğer enfeksiyonlar ve eş zamanlı tedaviler, foskarnet kullanımı sırasında gözlenen advers
+olaylara katkıda bulunur.
+Klinik araştırmalar ve pazarlama sonrası deneyim sırasında foskarnet ile bildirilen istenmeyen
+etkiler aşağıda verilmektedir. Bunlar Sistem Organ Sınıfı (SOC) ve frekans sırasına göre
+aşağıdaki kurallar kullanarak listelenirler:
+Çok yaygın (≥1/10); yaygın (≥1/100 ila <1/10); yaygın olmayan (≥1/1.000 ila <1/100); seyrek
+(≥1/10.000 ila <1/1.000); çok seyrek (<1/10.000); bilinmiyor (eldeki verilerden hareketle
+tahmin edilemiyor).
+8Bu klinik araştırmalarda, hidratasyon ve elektrolit dengesine dikkatin sürekli olarak
+verilmediği unutulmamalıdır, Bazı advers olayların sıklığı mevcut öneriler takip edildiğinde
+daha düşük olacaktır (bkz. Bölüm 4.2 ve Bölüm 4.4).
+Kan ve lenf sistemi hastalıkları
+Çok yaygın: Granülositopeni, anemi
+Yaygın: Lökopeni, trombositopeni, nötropeni
+Yaygın olmayan: Pansitopeni
+Bağışıklık sistemi hastalıkları
+Yaygın: Sepsis
+Bilinmiyor: Aşırı duyarlılık (anafilaktik reaksiyonlar dahil), anafilaktoid reaksiyonlar
+Endokrin hastalıkları
+Bilinmiyor: Şekersiz diyabet
+Metabolizma ve beslenme hastalıkları
+Çok yaygın: İştahsızlık, hipokalemi, hipomagnezemi, hipokalsemi
+Yaygın: Hiperfosfatemi, hiponatremi, hipofosfatemi, kan alkalin fosfataz artışı, kan laktat
+dehidrojenaz artışı, hiperkalsemi, dehidrasyon
+Yaygın olmayan: Asidoz
+Bilinmiyor: Hipernatremi
+Psikiyatrik hastalıklar
+Yaygın: Saldırganlık, ajitasyon, endişe, zihin bulanıklığı durumu, depresyon, sinirlilik
+Sinir sistemi hastalıkları
+Çok yaygın: Baş dönmesi, baş ağrısı, parestezi
+Yaygın: Koordinasyon bozukluğu, konvülsiyon, hipoestezi, istemsiz kas kontraksiyonları,
+periferik nöropati, tremor
+Kardiyak hastalıklar
+Yaygın: Palpitasyon, taşikardi
+Bilinmiyor: QT uzamış elektrokardiyogram, ventriküler aritmi, torsade de pointes
+9Vasküler hastalıklar
+Yaygın: Hipertansiyon, hipotansiyon, tromboflebita
+Gastrointestinal hastalıklar
+Çok yaygın: İshal, bulantı, kusma
+Yaygın: Karın ağrısı, kabızlık, dispepsi, pankreatit, gastrointestinal hemoraji
+Bilinmiyor: Yemek borusu ülseri
+Hepato-bilier hastalıklar
+Yaygın: Anormal hepatik fonksiyon
+Deri ve deri altı doku hastalıkları
+Çok yaygın: Kızarıklık
+Yaygın: Pruritus
+Yaygın olmayan: Ürtiker, anjiyoödem
+Bilinmiyor: Eritema multiforme, toksik epidermal nekroliz, Stevens Johnson sendromub
+Kas-iskelet, bağ doku ve kemik hastalıkları
+Yaygın: Miyalji
+Bilinmiyor: Kas güçsüzlüğü, miyopati, miyozit, rabdomiyoliz
+Böbrek ve idrar yolu hastalıkları
+Yaygın: Börek yetmezliği, akut böbrek yetmezliği, disüri, poliüri, proteinüri
+Yaygın olmayan: Glomerülonefrit, nefrotik sendrom
+Bilinmiyor: Böbrek ağrısı, renal tübüler asidoz, kristal nefropati, hematüri
+Üreme sistemi ve meme hastalıkları
+Yaygın: Genital rahatsızlık ve ülserc
+Genel ve uygulama bölgesine ilişkin hastalıklar
+Çok yaygın: Asteni, titreme, yorgunluk, ateş
+Yaygın: Halsizlik, ödem, göğüs ağrısıd, enjeksiyon bölgesi ağrısı, enjeksiyon bölgesi
+enflamasyonu
+Bilinmiyor: Ekstravazasyon
+10Araştırmalar
+Çok yaygın: Kan kreatinin artışı, hemoglobin düşüşü
+Yaygın: Kreatinin renal klirensinde düşüş, anormal elektrokardiyogram, gama-
+glutamiltransferaz artışı, alanin aminotransferaz artışı, aspartat aminotransferaz artışı, lipaz
+artışı
+Yaygın olmayan: Amilaz artışı, kan kreatinin fosfokinaz artışı
+a Seyreltilmemiş foskarnet çözeltisinin infüzyonundan sonra periferik damarlarda tromboflebit
+görülmüştür.
+b Eritema multiforme, toksik epidermal nekroliz ve Stevens Johnson sendromu gibi
+vesikülobullöz döküntü vakaları bildirilmiştir. Çoğu durumda, hastalar toksik epidermal
+nekroliz veya Stevens Johnson sendromuyla ilişkili diğer ilaçları kullanıyordu.
+c Foskarnet idrar ile yüksek konsantrasyonlarda atılır ve genital bölgede, özellikle de uzun
+süreli tedaviden sonra ciddi irritasyon ve ülserasyon ile ilişkili olabilir.
+d Geçici göğüs ağrısı foskarnete verilen infüzyon reaksiyonlarının bir parçası olarak
+bildirilmiştir.
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir (www.titck.gov.tr; e-
+posta: tufam@titck.gov.tr; tel: 0 800 314 00 08; faks: 0 312 218 35 99).
+4.9. Doz aşımı ve tedavisi
+Doz aşımı, önerilen dozun yaklaşık 20 katı foskarnet kullanımı sonrasında bildirilmiştir.
+Olguların bazıları, relatif aşırı dozlardı, ve kullanılan ilacın dozunun, böbrek fonksiyonlarında
+azalma yaşayan hasta için derhal ayarlamanın yapılmamış olmasındandı.
+Doz aşımı sonucunda hiçbir klinik sekelin ortaya çıkmadığı bildirilen vakalar gözlenmiştir.
+Foskarnetin aşırı dozu ile ilişkili olarak bildirilen advers olayların modeli, ilacın bilinen
+advers olay profili ile uyumludur.
+FRECİT aşırı dozajı için spesifik bir panzehir yoktur. Hemodiyaliz FRECİT eliminasyonunu
+arttırır ve ilgili vakalarda fayda sağlayabilir.
+115. FARMAKOLOJİK ÖZELLİKLER
+5.1. Farmakodinamik özellikler
+Farmakoterapötik grup: Sistemik kullanılan antiviraller; direkt etkili antiviraller; fosfonik asit
+türevleri
+ATC kodu: J05AD01
+Foskarnet, herpes grubunun tüm bilinen insan virüslerini (herpes simpleks virüsü tip 1 ve 2,
+insan herpes virüsü 6, varicella zoster virüsü; Epstein-Barr virüsü ve sitomegalovirüs (CMV)
+ve normal hücre büyümesini etkilemeyen konsantrasyonlarda insan immün yetmezlik virüsü
+(HIV) de dahil olmak üzere bazı retrovirüsler) inhibe eden geniş spektrumlu antiviral ajandır.
+Foskarnet ayrıca hepatit B virüsünden viral DNA polimerazını inhibe eder.
+Foskarnet, hücresel DNA polimerazlarını etkilemeyen konsantrasyonlarda, viral spesifik
+DNA polimerazın doğrudan inhibisyonuyla bir ters transkriptazın doğrudan inhibisyonuyla
+antiviral aktivitesini uygular. Foskarnet, timidin kinaz veya diğer kinazlar tarafından
+aktivasyon (fosforilasyon) gerektirmez ve dolayısıyla, timidin kinazında eksik olan HSV
+mutantlarına karşı in vitro olarak aktiftir. Gansiklovire dirençli CMV suşları foskarnete
+duyarlı olabilir. Hücre kültürü içinde (IC ) virüsün büyümesini %50 oranında inhibe etmek
+50
+için gereken ilacın konsantrasyonu olarak ifade edilen duyarlılık test sonuçları, kullanılan test
+yöntemine ve kullanılan hücre türüne bağlı olarak büyük ölçüde değişir. Bazı duyarlı virüs ve
+bunların IC 'leri aşağıda listelenmiştir.
+50
+Virüs multiplikasyon hücre kültürünün foskarnet inhibisyonu
+Virüs IC (mikrometre)
+50
+CMV 50-800*
+HSV-1, HSV-2 10-130
+VZV 48-90
+EBV <500**
+HHV-6 49
+Gansiklovir dirençli CMV 190
+HSV – TK Minus Mutant 67
+HSV – DNA Polimeraz Mutant 5-443
+HIV-1 11-32
+Zidovudine dirençli HIV-1 10-32
+12* Ortalama = 269 mikrogram
+**500 mikrogramda viral antijen sentezinin %97’si inhibe edilmiştir.
+Foskarnete karşı herhangi bir klinik yanıt gözlenmiyorsa, viral izolatlar, doğal olarak dirençli
+mutantların var olabileceği veya hem in vitro hem de in vivo seçici basınç altında ortaya
+çıkabileceği için foskarnet için duyarlılık açısından test edilmelidir.
+Yüzden fazla klinik CMV izolatı için ortalama foskarnet %50 inhibisyon değeri yaklaşık 270
+mikrogram/L iken, normal hücre büyümesinin geri döndürülebilir bir inhibisyonu yaklaşık
+1000 mikrogram/L'de gözlenmiştir.
+Foskarnet ve zidovudin kombine edildiğinde artmış bir miyelotoksisite bulgusu yoktur.
+5.2. Farmakokinetik özellikler
+Dağılım:
+IV uygulamayı takiben, Foskarnet plazma konsantrasyonları, birkaç yarı ömrü olan çok üstel
+bir bozunma paterni izler. Normal böbrek fonksiyonlarına sahip hastalarda yarılanma ömrü 2-
+4 saat arasındadır. Foskarnetin muhtemelen kemikten yavaş salınımını yansıtan yaklaşık 1 ila
+8 günlük bir terminal yarı ömrü kaydedilmiştir. Foskarnetin sabit haldeki ortalama dağılım
+hacmi 0,4-0,6 L/kg arasında değişir.
+Foskarnet beyin omurilik sıvısına dağıtılır ve HIV ile enfekte hastalarda eş zamanlı plazma
+konsantrasyonlarının %10 ila 70'i arasındaki konsantrasyonlar gözlemlenmiştir.
+Biyotransformasyon:
+Foskarnetin metabolik dönüşümü yoktur ve insan plazma proteinlerine bağlanması düşüktür
+(<%20).
+Eliminasyon:
+Foskarnet, başlıca glomerüler filtrasyon ve tubuler sekresyonu ile böbrekler tarafından
+elimine edilir. İntravenöz uygulandıktan sonra plazma klirensi 130-160 ml/dakika arasında
+değişir ve böbrek klirensi yaklaşık 130 ml/dakika civarındadır. İnsanda, kümülatif intravenöz
+dozun %20'si kadarının, infüzyonun kesilmesinden 7 gün sonra idrarla atılmadığı ve kemikte
+biriktiği varsayılabilir. Foskarnetin kemiğin mineral matrisine bağlanması, kemik iliği
+13üzerindeki etkisi bilinmiyor. Büyümekte olan kemikte foskarnet bağlanmasının etkileri ile
+ilgili herhangi bir çalışma bulunmamaktadır.
+5.3. Klinik öncesi güvenlilik verileri
+Foskarnetle yapılan genel toksisite çalışmaları sırasında kaydedilen en belirgin etkiler, bazı
+serum elektrolitlerinin bozulması ve böbrek ve kemik değişiklikleri olmuştur.
+Kalsiyum ve magnezyum gibi serum elektrolitlerinin gözle görülür bir şekilde azalması,
+foskarnetin iki değerlikli metal iyonlarıyla birlikte şelat oluşturması özelliği ile açıklanabilir.
+İyonize kalsiyum ve magnezyumun azalması, büyük olasılıkla yüksek doz foskarnet
+infüzyonu sırasında ve hemen sonrasında görülen nöbetler/konvulsiyonların açıklamasıdır.
+Yapılan toksikolojik çalışmalar böyle bir etkiyi açıklamasa da, bu azalmanın kalp fonksiyonu
+üzerinde (ör., EKG) de bir etkisi olabilir. Foskarnet infüzyon hızı, bazı serum iki değerlikli
+katyonların homeostazındaki bozulmalar için kritiktir.
+Böbrek değişikliklerinin ardındaki, örneğin tubuler atrofi, özellikle jukstamedüller nefronlarla
+sınırlı olan mekanizma netleşmemiştir. Değişiklikler araştırılan tüm türlerde kaydedildi. İki
+değerlikli katyonların diğer kompleks bağlayıcılarının (EDTA ve bifosfonatlar)
+foskarnetinkine benzer böbrek değişikliklerine neden olabileceği bilinmektedir. Hidrasyonun,
+diürez indüksiyonu için, foskarnet tedavisi sırasında böbrek değişikliklerini önemli ölçüde
+azalttığı gösterilmiştir.
+Kemik değişiklikleri artmış osteoklast aktivitesi ve kemik rezorpsiyonu olarak karakterize
+edildi. Uygulanan ilacın yaklaşık %20'si kemik ve kıkırdağa geçer ve genç ve büyüyen
+hayvanlarda birikim daha fazladır. Bu etki sadece köpekte görülmüştür. Bu değişikliklerin
+nedeni, yapısal olarak fosfata benzerliğinden dolayı foskarnetin hidroksiapatite dahil olması
+olabilir. Otoradyografik çalışmalar, foskarnetin kemik dokusuna belirgin bir yakınlığa sahip
+olduğunu göstermiştir. Geri kazanım çalışmaları, kemik değişikliklerinin reversibl olduğunu
+ortaya koymuştur. Foskarnet sodyumun farelerde ve sıçanlarda diş minesinin gelişimini
+olumsuz etkilediği gösterilmiştir. Bu çökelmenin iskelet gelişimine olan etkileri
+incelenmemiştir.
+Mutajenite çalışmaları, foskarnetin genotoksik bir potansiyele sahip olduğunu göstermiştir.
+Mutajenite çalışmalarında gözlemlenen etkinin olası açıklaması, kullanılan hücre dizisindeki
+14DNA polimerazın inhibisyonudur. Foskarnet, herpes virüsüne spesifik DNA polimerazın
+inhibisyonuyla terapötik olarak etkimektedir. İnsan hücresel polimeraz foskarnete yaklaşık
+100 kat daha az duyarlıdır. Yapılan karsinojenite çalışmalarında herhangi bir onkojenik
+potansiyel açığa çıkmamıştır. Teratojenisite ve fertilite çalışmalarından elde edilen bilgiler
+üreme sürecinde herhangi bir advers olay ortaya koymamıştır. Bununla birlikte, bu
+araştırmalarda kullanılan doz seviyeleri, CMV retinitin tedavisinde insanlar için kullanılanın
+altında veya çok yakın (75-150 mg/kg.sc) olduğu için sonuçlar sınırlı değerdedir.
+6. FARMASÖTİK ÖZELLİKLER
+6.1. Yardımcı maddelerin listesi
+Hidroklorik asit ve/veya sodyum hidroksit
+Enjeksiyonluk su
+6.2. Geçimsizlikler
+Bu tıbbi ürün, bölüm 6.6'da belirtilenlerden hariç diğer tıbbi ürünlerle karıştırılmamalıdır.
+Foskarnet, %30 dekstroz çözeltisi, amfoterisin B, asiklovir sodyum, gansiklovir, pentamidin
+izetionat, trimetoprim sülfametoksazol ve vankomisin hidroklorür ile uyumlu değildir.
+Foskarnet, kalsiyum içeren çözeltilerle de uyumlu değildir. Diğer ilaçların aynı damardan eş
+zamanlı olarak verilmemesi önerilir.
+6.3. Raf ömrü
+24 ay
+Bir kez açıldıktan sonra mikrobiyolojik açıdan, ürün derhal kullanılmalıdır. Derhal
+kullanılmadığı takdirde, kullanım öncesi saklama süreleri ve koşulları kullanıcının
+sorumluluğundadır ve 2-8ºC’de 24 saati aşmamalıdır.
+6.4. Saklamaya yönelik özel tedbirler
+25°C altındaki oda sıcaklığında saklayınız.
+Soğutulursa veya donma noktası altındaki sıcaklıklara maruz bırakılırsa çökelme oluşabilir.
+Şişeyi tekrar tekrar çalkalayarak oda sıcaklığında tutarak, çökelti tekrar çözelti haline
+getirilebilir.
+İlk tıbbi ürün açıldıktan ve/veya seyreltildikten sonra saklama koşulları için bkz. Bölüm
+6.3.ve Bölüm 6.6.
+156.5. Ambalajın niteliği ve içeriği
+250 ml çözelti içeren 250 ml kapasiteli Tip II renksiz cam flakonlarda kullanıma
+sunulmakatadır.
+6.6. Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+Ayrı ayrı verilen foskarnet dozları aseptik olarak plastik infüzyon poşetlerine aktarılabilir.
+Foskarnet ve bunların PVC torbalar içinde bulunan %0,9 sodyum klorür (9 mg/ml) veya %5
+dekstroz (50 mg/ml) ile eşit oranlardaki dilüsyonlarının fizikokimyasal stabilitesi 2-8°C’de 7
+gündür. Bununla birlikte, seyreltilmiş çözeltiler buzdolabında ve maksimum 24 saate kadar
+sınırlandırılmalıdır.
+Her bir şişe FRECİT sadece bir hastayı tek bir infüzyonla tedavi etmek için kullanılmalıdır.
+Foskarnet sodyum çözeltisi ile kazara cilt ve göz teması, bölgesel tahrişe ve yanma hissine
+neden olabilir. Kazara temas meydana gelirse, maruz kalan bölge su ile yıkanmalıdır.
+Kullanılmamış olan ürünler ya da atık materyaller “Tıbbi Atıkların Kontrolü Yönetmeliği” ve
+“Ambalaj ve Ambalaj Atıklarının Kontrolü Yönetmelikleri”ne uygun olarak imha edilmelidir.
+7. RUHSAT SAHİBİ
+VEM İlaç San. ve Tic. A.Ş
+Maslak Mahallesi AOS 55. Sokak
+42 Maslak A Blok Sit. No: 2/134
+Sarıyer/İSTANBUL
+8. RUHSAT NUMARASI
+2021/225
+9. İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi: 16.07.2021
+Ruhsat yenileme tarihi:
+10. KÜB’ÜN YENİLENME TARİHİ
+16

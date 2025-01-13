@@ -1,0 +1,385 @@
+KISA ÜRÜN BİLGİSİ
+Bu ilaç ek izlemeye tabidir. Bu üçgen yeni güvenlilik bilgisinin hızlı olarak belirlenmesini
+sağlayacaktır. Sağlık mesleği mensuplarının şüpheli advers reaksiyonları TÜFAM’a
+bildirmeleri beklenmektedir. Bakınız Bölüm 4.8. Advers reaksiyonlar nasıl raporlanır?
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+HAEMOCTIN SDH 500 IU/10 mL IV enjeksiyonluk toz ve çözücü
+Steril, apirojen
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde:
+Flakon başına, 500 IU insan plazmasından türetilmiş koagülasyon faktörü VIII.
+Spesifik aktivitesi, yaklaşık 100 IU/mg proteindir.
+HAEMOCTIN SDH 500 10 mL enjeksiyonluk su ile çözüldüğünde yaklaşık 50 IU/mL insan
+koagülasyon faktörü VIII ihtiva eder.
+İnsan donörlere ait plazmadan üretilmektedir.
+Potensi (IU), Avrupa Farmakopesi kromojenik faktör VIII pıhtılaşma testi ile belirlenir.
+HAEMOCTIN SDH'nin spesifik aktivitesi yaklaşık 100 IU / mg proteindir.
+Yardımcı maddeler:
+Sodyum klorür ……………………………………. 6,80 mg/mL
+Sodyum sitrat ……………………………………... 2,94 mg/ mL
+Sodyum iyonları……………………………………3.22 mg/ mL ( 0.14 mmol )
+Yardımcı maddeler için 6.1’e bakınız.
+3. FARMASÖTİK FORM
+Steril and apirojen
+Enjeksiyonluk çözelti için toz ve çözücü.
+Enjeksiyonluk çözelti için beyaz toz ve berrak, renksiz çözücü.
+4. KLİNİK ÖZELLİKLER
+4.1. Terapötik endikasyonlar
+-Plazma pıhtılaşma faktörü (Faktör VIII) aktivite eksikliğinin olduğu gösterilen klasik hemofili
+tedavisi (Hemofili A) ve kanama profilaksisi için endikedir.
+-Edinilmiş faktör VIII eksikliği tedavisinde kullanılabilir.
+Bu preparat, farmakolojik olarak etkin miktarlarda von Willebrand faktör içermez ve dolayısıyla
+von Willebrand hastalığında endike değildir.
+4.2. Pozoloji ve uygulama şekli
+Tedavi, hemofili tedavisinde deneyimli bir hekim kontrolünde başlatılmalıdır.
+1Tedavi takibi:
+Tedavi süresince, uygulanacak dozun ve tekrar edilen infüzyon sıklığının belirlenmesinde, faktör
+VIII seviyelerinin uygun şekilde tespit edilmesi önerilir. Hastalar faktör VIII’e farklı farklı
+yanıtlar verebilir; farklı yarılanma ömürleri ve geri kazanımlar gösterebilir. Vücut ağırlıkları
+normalden düşük ve yüksek olan hastalarda vücut ağırlığına göre ayarlama yapılması gerekebilir.
+Özellikle majör cerrahi müdahaleler söz konusu olduğunda, ikame tedavinin koagülasyon analizi
+ile (plazma faktör VIII aktivitesi) kesin şekilde izlenmesi gerekmektedir.
+Hastaların kan numunelerinde faktör VIII tayini için in vitro tromboplastin zamanı (aPTT) esaslı
+tek aşamalı bir pıhtılaşma tayini kullanıldığında, plazma faktör VIII aktivitesi bulguları hem
+tayinde kullanılan referans standarttan hem de aPTT reaktifi tipinden anlamlı derecede
+etkilenebilir. Ayrıca, aPTT esaslı pıhtılaşma tayini ile ve kromojenik tayin ile (Avrupa
+Farmakopesi’ne uygun şekilde) elde edilen tayin bulguları arasında anlamlı çelişkiler olabilir. Bu
+durum, özellikle de laboratuarın ve/veya tayinde kullanılan reaktiflerin değiştirilmesi halinde
+önem taşımaktadır.
+Pozoloji / uygulama sıklığı ve süresi:
+İkame tedavinin doz ve süresi, faktör VIII eksikliğinin şiddetine, kanamanın lokasyon ve
+derecesine ve hastanın klinik durumuna bağlıdır. Uygulanan faktör VIII doz birimi, faktör
+VIII ürünleriyle ilgili DSÖ standardına uygun şekilde Internasyonel Unite (IU) olarak ifade
+edilir. Plazma içindeki faktör VIII aktivitesi (normal insan plazmasıyla ilgili olarak) yüzde ya da
+(plazma içinde faktör VIII için İnternasyonel Standartla ilgili olarak) Internasyonel Ünite olarak
+ifade edilir.
+Bir İnternasyonel Ünite (IU) faktör VIII aktivitesi, normal insan plazmasındaki bir mL faktör
+VIII miktarına eşittir. Gerekli faktör VIII dozunu hesaplamak için, aşağıdaki empirik bulgu
+kullanılır; kg vücut ağırlığı başına 1 İnternasyonel Ünite (IU) faktör VIII, plazma faktör VIII
+aktivitesini, normal aktivitenin % 1 ila %2’si oranında arttırmaktadır. Gerekli dozaj, aşağıdaki
+formüle uygun şekilde hesaplanır:
+Gerekli ünite: vücut ağırlığı (kg) x arzulanan faktör VIII artışı (%) x 0.5
+Uygulanacak miktar ve uygulama sıklığı, özel vakalarda klinik etkinliği hedef almalıdır.
+Takip eden hemorajik olaylarda, faktör VIII aktivitesi, söz konusu periyotta verilen plazma
+aktivite seviyesinin altına düşmemelidir (normalin %’si olarak).
+Kanama episodları ve cerrahide, aşağıdaki tablo rehber olarak kullanılabilir:
+Hemoraji (kanama) Gerekli faktör VIII seviyesi Doz sıklığı (saat)/ Tedavi
+derecesi / Cerrahi prosedür (%) süresi (gün)
+tipi
+Hemoraji (kanama) 20-40 Her 12-24 saatte bir tekrar
+Erken hemartroz, kasta ediniz. En az 1 gün, ağrı ile
+kanama ya da oral kanama endike edilen kanama geçene
+ya da tamamen iyileşene
+kadar.
+Daha yaygın hemartroz, 30-60 3-4 gün boyunca ya da daha
+kasta kanama ya da hematom uzun bir süre, ağrı ve akut
+2özürlülük iyileşene dek her
+12-24 saatte bir tekrar ediniz.
+Yaşamı tehdit eden 60-100 Tehlike sona erene dek 8-24
+hemorajlar (kanamalar) saatte bir tekrar ediniz.
+Cerrahi müdahale
+Minör operasyon 30-60 En az 1gün, iyileşene dek 24
+Diş çekimi dahil saatte bir tekrar ediniz.
+Majör operasyon 80-100 Yara yeterli oranda iyileşene
+(operasyon öncesi ve sonrası) kadar her 8-24 saattte bir
+tekrar edin, daha sonra,
+faktör VIII aktivitesini % 30-
+60 oranında sürdürmek için
+tedaviyi 7 gün süreyle devam
+ettiriniz.
+Profilaksi:
+Şiddetli hemofili hastalarında kanama karşısında uzun dönem profilaksisi için, olağan doz 2-3
+gün arayla kg vücut ağırlığı başına 20-40 IU faktör VIII’ dir. Bazı vakalarda, özellikle daha
+genç hastalarda, doz aralıklarının daha kısa tutulması ya da daha yüksek dozlar gerekli
+olabilir.
+Uygulama şekli:
+İntravenöz kullanım içindir. Uygulamanın 2-3 mL/dak’yı aşılmaması önerilir. Preparatı,
+Bölüm 6.6’da açıklandığı şekilde çözün.
+Özel popülasyona ilişkin ek bilgiler:
+Böbrek / Karaciğer yetmezliği:
+HAEMOCTIN SDH’ın böbrek ve karaciğer yetmezliği olan hastalardaki güvenlilik ve etkililiği
+incelenmemiştir.
+Pediyatrik popülasyon:
+6 yaşından küçük çocuklarda ürünün kullanımına dair verilerin kısıtlı olması ve bu yaş grubunda
+ilacın yarı ömrünün kısa olabilmesi sebebiyle, ilacın dozunun ve doz aralığının hastaya göre
+ayarlanması uygundur.
+Geriyatrik popülasyon: Dozaj ve infüzyon hızı hastanın durumuna göre ayarlanır.
+4.3.Kontrendikasyonlar
+Ürünün etken madde ya da herhangi bir bileşenine karşı aşırı duyarlılığı olan hastalarda
+kontrendikedir.
+34.4.Özel kullanım uyarıları ve önlemleri
+Virüs güvenliği
+HAEMOCTIN SDH, insan plazmasından elde edilmektedir. İnsan plazmasından elde
+edilen ilaçlar, virüsler ve teorik olarak Varyant Creutzfeldt-Jacob (v-CJD) gibi, çeşitli
+hastalıklara yol açabilen enfeksiyon yapıcı ajanlar içerebilirler. HAEMOCTIN SDH 'de
+Varyant Creutzfeldt-Jacob hastalığının bulaşma riski teorik olarak minimumken, klasik
+Creutzfeldt-Jacob hastalığının bulaşma riski hiçbir kanıtla desteklenmez. Alınan önlemlere
+rağmen, bu tür ürünler halen potansiyel olarak hastalık bulaştırabilir.
+Bu tip ürünlerin enfeksiyon yapıcı ajanları bulaştırma riski, plazma verenlerin belirli
+virüslere önceden maruz kalıp kalmadığının izlenmesi, belirli virüs enfeksiyonlarının
+halihazırda varlığının test edilmesi ve belirli virüslerin yok edilmesi ve/veya inaktivasyonu
+ile azaltılmıştır. Bütün bu önlemlere rağmen, bu ürünler hala potansiyel olarak hastalık
+bulaştırabilirler. Ayrıca, henüz bilinmeyen enfeksiyon yapıcı ajanların bu ürünlerin
+içersinde bulunma ihtimali mevcuttur.
+HIV, HBV, HCV gibi zarflı virüsler ve HAV gibi zarflı olmayan virüsler için etkili
+önlemlerin alınmasına dikkat edilmelidir. Parvovirüs B19 gibi zarflı olmayan virüslere
+karşı alınan tedbirler sınırlı sayıda olabilir. Parvovirüs B19 enfeksiyonu, gebelikte (fetal
+infeksiyon) ve immün yetmezlik ya da kırmızı kan hücre üretiminde artış olan hastalarda
+tehlikeli olabilir (hemolitik anemi gibi).
+Doktor, bu ilacı hastaya reçete etmeden veya uygulamadan önce hastası ile risk ve
+yararlarını tartışmalıdır.
+Ayrıca;
+HAEMOCTIN SDH kullanılması gerekiyorsa hekim tarafından, hastalık yapıcı etkenlerin hastaya
+bulaşmasını önlemek için uygun aşıların (Hepatit A, Hepatit B vb.) yaptırılması önerilebilir.
+İzlenebilirlik:
+Biyolojik tıbbi ürünlerin izlenebilirliğini artırmak için, uygulanan ürünün adı ve seri numarası
+açıkça kaydedilmelidir.
+Aşırı duyarlılık
+HAEMOCTIN SDH ile alerjik tipte aşırı duyarlılık reaksiyonları görülebilir. Ürün, faktör VIII
+dışında eser miktarda insan proteinleri içermektedir. Hastalar, ürtiker, generalize ürtiker, göğüste
+sıkışma, hırıltılı solunum, hipotansiyon ve anafilaksi dahil olmak üzere aşırı duyarlılık belirtileri
+hakkında bilgilendirilmelidir. Bu semptomlar oluştuğunda, ürünü kullanmaya hemen son
+vermeleri ve hekimlerine başvurmaları önerilmelidir. Şok durumunda, mevcut şok tedavisi
+uygulanmalıdır.
+İnhibitörler
+Faktör VIII’e karşı nötralizan antikor oluşumu (inhibitörler), hemofili hastalarının tedavisinde
+bilinen bir komplikasyondur. Bu inhibitörler genellikle faktör VIII prokoagülan aktiviteye
+yönlenmiş olan IgG immünoglobülinleridir ve modifiye tetkik kullanılarak her mL plazmada
+Bethesda Ünitesi (BU) olarak ölçülür.
+4İnhibitör gelişme riski, faktör VIII'e maruziyetin yanı sıra hastalığın şiddeti ile ilişkilidir ve bu
+risk ilk 50 maruz kalma gününde en yüksek seviyededir, ancak risk yaygın görülmemesine
+rağmen yaşam boyunca devam eder.
+İnhibitör gelişiminin klinik önemi inhibitör titresine bağlı olacaktır; düşük titrenin teşkil ettiği
+yetersiz klinik yanıt riski, yüksek titreli inhibitörlere kıyasla daha az olacaktır.
+Genel olarak, koagülasyon faktörü VIII ile tedavi edilen tüm hastalar, uygun klinik gözlem
+ve laboratuar testleri ile, inhibitörlerin gelişimi açısından dikkatle izlenmelidir. Eğer beklenen
+plazma faktör VIII aktivitesi düzeyleri sağlanamazsa veya yeterli doz ile kanama kontrol
+altına alınamazsa faktör VIII inhibitörü varlığı için test yapılmalıdır. İnhibitör düzeyleri yüksek
+olan hastalarda faktör VIII tedavisi etkili olmayabilir ve diğer tedavi seçenekleri dikkate
+alınmalıdır. Böyle hastaların tedavisi hemofili ve faktör VIII inhibitörleri tedavisi konusunda
+deneyimli hekimler tarafından yönlendirilmelidir.
+Kardiyovasküler olaylar
+Mevcut kardiyovasküler risk faktörleri olan hastalarda, faktör VIII ile sübstitüsyon tedavisi
+kardiyovasküler riski artırabilir.
+Kateterle ilişkili komplikasyonlar
+Eğer bir santral venöz giriş aracı (SVGA) gerekliyse, lokal enfeksiyonlar, bakteremi ve
+kateter yerinde tromboz gibi SVGA ile ilişkili komplikasyonlara dikkat edilmelidir.
+Bu tıbbi ürün DSÖ tarafından erişkin için önerilen maksimum günlük 2 g sodyum alım
+miktarının %1,61’ine eşdeğer, flakon başına 1.4 mmol (ya da 32,2 mg) sodyum içerir.
+4.5. Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+İnsan koagülasyon faktörü VIII’in, diğer ilaçlarla etkileştiğine dair herhangi bir bildirim
+bulunmamaktadır.
+Özel popülasyonlara ilişkin ek bilgiler:
+Pediyatrik popülasyon:
+Çocuklarda, insan koagülasyon faktörü VIII’in diğer ilaçlarla etkileştiğine dair herhangi bir
+etkileşim çalışması yapılmamıştır.
+4.6. Gebelik ve laktasyon
+Genel tavsiye
+Gebelik kategorisi: C
+Çocuk doğurma potansiyeli bulunan kadınlar/ doğum kontrolü (Kontrasepsiyon)
+HAEMOCTİN SDH’nin çocuk doğurma potansiyeli bulunan kadınlarda kullanıldığında üreme
+kapasitesini etkileyip etkilemediği bilinmemektedir. Hasta hamile kaldığında veya hamilelik
+kararı aldığında doktorunu bilgilendirmesi gerektiği hususunda uyarılmalıdır.
+Gebelik dönemi:
+HAEMOCTIN SDH’ın gebe kadınlarda kullanımına ilişkin yeterli veri mevcut değildir.
+Hayvanlar üzerinde çalışmalar, gebelik /ve-veya/ embriyonal/fetal gelişim/ve-veya/doğum
+sonrası gelişim üzerindeki etkiler bakımından yetersizdir (bkz. Kısım 5.3). İnsanlara yönelik
+5potansiyel risk bilinmemektedir.
+HAEMOCTIN SDH gerekli olmadıkça (sadece açıkça gereksinim duyulduğu durumlarda)
+gebelik döneminde kullanılmamalıdır.
+Laktasyon dönemi:
+Faktör VIII’in insan sütüyle atılıp atılmadığı bilinmemektedir. Faktör VIII’in süt ile atılımı
+hayvanlar üzerinde araştırılmamıştır. Emzirmenin durdurulup durdurulmayacağına ya da faktör
+VIII tedavisinin durdurulup durdurulmayacağına/tedaviden kaçınılıp kaçınılmayacağına ilişkin
+karar verilirken, emzirmenin çocuk açısından faydası ve faktör VIII tedavisinin emziren anne
+açısından faydası dikkate alınmalıdır.
+Üreme Yeteneği/Fertilite:
+HAEMOCTIN SDH ile hayvan üreme çalışmaları yapılmamıştır. Bu sebeple üreme kapasitesini
+etkileyip etkilemeyeceği bilinmemektedir.
+4.7. Araç ve makine kullanımı üzerindeki etkiler
+Araç ve makine kullanma yeteneği üzerinde bilinen bir etkisi yoktur. Araç ve makine
+kullanırken dikkatli olunmalıdır.
+4.8. İstenmeyen etkiler
+Güvenlilik profilinin özeti
+Aşırı duyarlılık ya da alerjik reaksiyonlar (bunlar arasında anjiyoödem, infüzyon bölgesinde
+yanma ve batma, titreme, sıcak basması, yaygın ürtiker, baş ağrısı, kurdeşen, kan basıncında
+düşme, letarji, bulantı, huzursuzluk, taşikardi, göğüste sıkışma hissi, karıncalanma, kusma,
+hırıltılı solunum yer alabilir) nadiren gözlenmiştir ve bazı olgularda şiddetli anafilaksiye kadar
+ilerleyebilir (şok dahil).
+HAEMOCTIN SDH de dahil olmak üzere faktör VIII ile tedavi edilmiş hemofili A hastalarında
+nötralize edici antikorlar (inhibitörler) gelişebilir (bkz. bölüm 5.1). Bu tür inhibitörler oluşursa,
+durum, yetersiz klinik yanıt şeklinde kendini gösterebilir. Bu gibi durumlarda uzman hemofili
+merkezleriyle bağlantı kurulması önerilmektedir.
+Advers reaksiyonların tablolaştırılmış listesi
+Aşağıda verilen tablo, MedDRA sistem organ sınıflandırmasına (SOC ve Tercihli Terim
+Düzeyi) uygundur.
+Görülme sıklıkları şu yaklaşıma göre değerlendirilmiştir: Çok yaygın (≥1/10); yaygın (≥1/100
+ila <1/10); yaygın olmayan (≥1/1.000 ila <1/100); seyrek (≥1/10.000 ila <1/1.000); çok seyrek
+(<1/10.000), bilinmiyor (eldeki verilerden hareketle tahmin edilemiyor).
+Advers reaksiyonlar her bir sıklık grubunda azalan ciddiyet sırasına göre verilmiştir.
+MedDRA Standart Sistem Advers Reaksiyonlar Sıklık
+Organ Sınıfı
+Kan ve Lenf sistemi Faktör VIII inhibisyonu Yaygın olmayan (TGH’ler)*
+hastalıkları Çok yaygın (HTGH’ler)*
+Bağışıklık sistemi Anafilaktik şok bilinmiyor
+hastalıkları Aşırı duyarlılık
+Deri ve deri altı doku Eritem, prurit, ürtiker bilinmiyor
+hastalıkları
+6*Sıklık, şiddetli hemofili A hastalarının yer aldığı, tüm FVIII ürünleri ile yapılmış çalışmalara
+dayanmaktadır. TGH'ler = daha önce tedavi görmüş hastalar, HTGH'ler = daha önce tedavi
+görmemiş hastalar”
+Pediyatrik popülasyon
+Faktör VIII inhibisyonu haricinde, çocuklardaki advers reaksiyonların yetişkinlerdeki ile aynı
+olması beklenir (yukarıdaki tabloya bakınız).
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TÜFAM)’ ne bildirmeleri gerekmektedir. ( www.titck.gov.tr; e-
+posta: tufam@titck.gov.tr; tel: 0 800 314 00 08; faks: 0 312 218 35 99 ).
+4.9. Doz aşımı ve tedavisi
+Herhangi bir doz aşımı vakası bildirilmemiştir.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1. Farmakodinamik özellikler
+Farmakoterapötik grup: Antihemorajikler: kan koagülasyon faktörü VIII.
+ATC Kodu: B02BD02
+Etki mekanizması:
+Faktör VIII/von Willebrand faktör kompleksi, farklı fizyolojik işlevlere sahip iki molekülden
+oluşmaktadır (faktör VIII ve von Willebrand faktörü).
+Bir hemofili hastasına infüzyonla uygulandığında, faktör VIII, hastanın dolaşım sisteminde von
+Willebrand faktörüne bağlanır.
+Aktive edilen faktör VIII, aktive faktör IX için yardımcı faktör olarak etki eder ve faktör X’in,
+aktive faktör X’ de dönüşmesini hızlandırır. Aktive edilmiş faktör X, protrombini trombine
+dönüştürür. Daha sonra trombin, fibrinojeni fibrin’e dönüştürür ve pıhtı oluşabilir.
+Hemofili A, faktör VIII:C seviyelerinin düşük olmasından kaynaklanan cinsiyetle bağlantılı
+kalıtımsal bir pıhtılaşma bozukluğudur ve spontan ya da kazayla ilgili veya cerrahi travma sonucu
+eklem yerlerinde, kaslarda ya da iç organlarda kanamayla sonuçlanır. Tamamlayıcı tedavi ile
+faktör VIII plazma seviyeleri yükseltilir ve sonuç olarak faktör eksikliği ve kanama eğilimleri
+geçici olarak düzeltilir.
+Faktör VIII koruma proteini olarak etki etmesinin yanı sıra, von Willebrand faktör trombositlerin
+vasküler yaralanma alanlarına yapışmasını sağlar ve trombosit agregasyonunda önemli bir rol
+oynar.
+Başarıyla gerçekleştirilmiş İmmün Tolerans İndüksiyonuna (İTİ) ait veriler Faktör VIII’e karşı
+inhibitör geliştirmiş Hemofili A hastalarından toplanmıştır.
+7Yıllık kanama oranı (ABR), farklı faktör konsantreleri arasında ve farklı klinik çalışmalar
+arasında karşılaştırılamaz.
+5.2. Farmakokinetik özellikler
+Genel özellikler
+Emilim:
+İnsan antihemofilik faktörünün infüzyonu sonrası, genellikle koagülasyon düzeyinde ani olarak
+bir artış takibinde ise aktivitede hızlı bir azalma vardır; daha sonrasında ise, aktivitede azalma
+daha yavaş hızda görülür. Erken hızlı faz ekstravasküler kompartman ile dengeye ulaşma
+zamanını temsil eder ve ikinci veya yavaş olan faz ise, degredasyon sonucuyladır ve infüzyon
+edilen insan antihemofilik faktörünün gerçek biyolojik yarılanma ömrünü yansıtır.
+Dağılım:
+Intravenöz kullanımdan sonra, plazma faktör VIII aktivitesi, giderek artan iki fazlı eksilme ile
+azalır.
+Başlangıç fazında, intravasküler ve diğer bölgeler (vücut sıvıları) arasındaki dağılım,1 ila 8
+saatlik plazma eliminasyon yarılanma ömrü ile oluşur.
+Biyotransformasyon:
+Artımlı geri kazanımı yaklaşık olarak 0.020±0.003 IU/ml/IU/kg v.a’dır. Kg vücut ağırlığı başına
+1 IU faktör VIII’nun intravenöz kullanımından sonra, faktör VIII aktivite seviyesi, yaklaşık
+% 2 dir.
+Eliminasyon:
+Takip eden fazda, yarılanma ömrü 5 ila 18 saat arası değişmektedir ve ortalama 12 saat’tir. Bu
+değer, gerçek biyolojik yarılanma ömrüne karşılık gelmektedir.
+Doğrusallık / Doğrusal olmayan durum:
+Doğrusal olmayan farmakokinetik gösterir.
+HAEMOCTIN SDH ile ilgili diğer farmakokinetik parametreler şu şekildedir: Eğri altındaki
+alan (EAA): yaklaşık 17 IU • s / mL; ortalama kalım süresi (MRT): yaklaşık 15 saat, klerens:
+yaklaşık 155 mL/saat’dır.
+5.3. Klinik öncesi güvenlilik verileri
+İnsan plazma koagülasyon faktörü VIII (konsantredeki), insan plazmasının normal bir
+bileşenidir ve endojen faktör VIII gibi etki eder. Daha yüksek dozlar aşırı yükleme ile
+sonuçlandığından, tek doz toksisite testleri herhangi bir yarar sağlamamaktadır. Hayvanlarda
+tekrarlanan doz toksisite testleri, heterolog proteinler karşısında gelişen antikorlarla etkileşimden
+dolayı uygulanamaz. İnsanlar için kg vücut ağırlığı başına önerilen dozdan birkaç kat daha
+yüksek dozlar uygulanan laboratuar hayvanlarında, herhangi bir toksik etki gözlenmemiştir.
+Klinik deneyimler, insan plazma koagülasyon faktörü VIII’in tümörojenik ve mutajenik etkileri
+ile ilgili hiçbir bulgu vermediğinden, özellikle heterolog türlerde deneysel çalışmalar gerekli
+görülmemiştir.
+6. FARMASÖTİK ÖZELLİKLER
+86.1. Yardımcı maddelerin listesi
+Toz:
+Glisin
+Sodyum klorür
+Sodyum sitrat
+Kalsiyum klorür
+Çözücü:
+Enjeksiyonluk su
+6.2. Geçimsizlikler
+Bu tıbbi ürün, diğer tıbbi ürünlerle karıştırılmamalıdır.
+İnsan koagülasyon faktörü VIII’in bazı infüzyon ekipmanlarının iç yüzeylerine adsorpsiyonu
+sonucu tedavi hataları oluşabileceğinden, yalnızca verilen infüzyon setleri kullanılmalıdır.
+6.3. Raf ömrü
+24 ay
+6.4. Saklamaya yönelik özel tedbirler
+25 °C’nin altındaki oda sıcaklığında saklayınız.
+Dondurmayınız. Donmuş ürünleri çözüp kullanmayınız.
+Ürünü, dış karton paketi içinde saklayınız ve ışıktan koruyunuz.
+6.5. Ambalajın niteliği ve içeriği
+1 paket HAEMOCTIN SDH 500 IU / 10 mL IV Enjeksiyonluk Toz ve Çözücü aşağıdakileri
+içerir:
+Ph. Eur.’e göre toz içeren 1 flakon (20 mL), dışı tip I cam.
+Ph. Eur.’e göre dondurarak kurutulan stoperler, dışı tip I halobutil-kauçuk.
+Ph. Eur.’e göre çözücü içeren1 flakon (10 mL), cam tip I.
+Ph. Eur.’e göre enjeksiyon stoperleri, dışı tip I halobutil-kauçuk.
+Bu paket aynı zamanda:
+1 tek kullanımlık şırınga (10 mL ) ve dahili filtreli bir transfer sistem ve 1 kelebek kanül
+içermektedir.
+6.6. Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+Kullanılmamış olan ürün ya da atık materyaller, “Tıbbi Atıkların Kontrolü” ve “Ambalaj
+Atıkların Kontrolü” yönetmeliklerine uygun olarak imha edilmelidir.
+Prosedürün tüm adımlarında, kesin olarak sterillik sağlanmalıdır.
+9Şekil 1a Şekil 1b Şekil 1c Şekil 2 Şekil 3
+Şekil 4 Şekil 5 Şekil 6 Şekil 7 Şekil 8
+Konsantrenin çözünmesi:
+• Açılmamış flakonlardaki çözücü (enjeksiyonluk su) ve tozu oda sıcaklığına getirin. Isıtma için
+bir su banyosu kullanıldığında, suyun kesinlikle kapak ya da stoperle temas etmemesi gerekir.
+Aksi takdirde ilacın kontaminasyonu meydana gelebilir.
+• Transfer sisteminin doğru kullanımı için çok önemlidir: açmadan önce transfer sisteminin
+beyaz alt kısmının doğrudan blisterin zeminine oturduğundan emin olun (Şekil 1a: doğru/
+Şekil 1b: yanlış). Yanlış ise: transfer sisteminin beyaz alt kısmı doğrudan blister tabanına
+oturana kadar transfer sistemini blister içine aşağıya doğru itin (Şekil 1c).
+• Kauçuk tıpaların merkezi kısımlarını ortaya çıkarmak için çözücü ve toz flakon kapaklarını
+çıkarın (Şekil 2). Toz ve çözücü flakonlarının lastik tıpalarını bir dezenfektanla temizleyiniz.
+• Transfer sistemi ambalajını kapağını çıkarınız (Şekil 3).
+• Çözücü flakonunu düz bir yüzeye yerleştirin. Transfer sisteminin mavi kısmını, çözücüyü
+içeren dik duran flakonun üzerine düz bir şekilde blisterin içine yerleştirin (Şekil 4). Transfer
+sistemini bükmeyin.
+• Blisterin kalan kısmını transfer sisteminden çıkarın. Blisterleri sıkmayın! Bu durumda transfer
+sisteminin beyaz kısmı görünür olmuştur (Şekil 5).
+• Ürün flakonunu düz bir yüzeye yerleştirin.
+• Transfer sistemi ve çözücü flakon kombinasyonunu ters çevirin. Adaptörün beyaz kısmının
+sivri ucunu ürün flakonu tıpasından düz bir şekilde aşağıya doğru itin (Şekil 6). Ürün
+flakonunda bulunan vakum, çözücünün ürün flakonuna akmasına neden olur.
+• Ürün flakonunu hafifçe sallayarak kuru maddenin çözünmesini kolaylaştırınız. Sert bir şekilde
+çalkalamayınız, köpük oluşumundan kaçınılması gereklidir. Bu çözelti berrak veya hafif
+opelesan görünümdedir.
+• Daha sonra transfer sisteminin mavi kısmını çözücü flakonuyla birlikte saat yönünün tersine
+çevirerek çıkarın (Şekil 7). Transfer sisteminin mavi kısmı takılı çözücü flakonunu atın. Luer-
+10Lock bağlantısı artık görünürdür.
+Kullanıma hazır çözelti çözüldükten sonra hemen kullanılmalıdır. Bulanık olan veya gözle görülür
+partiküller içeren çözeltiyi kullanmayınız.
+Enjeksiyon:
+• Kuru madde yukarıda belirtildiği gibi çözüldüğünde transfer sistemin şeffaf bölümü ile Luer-
+Lock bağlantısı bulunan kapalı enjektörü substrat flakonuna doğru itiniz (Şekil 8). Bu çözülen
+preparatın enjektöre çekilmesine izin verecektir. Transfer sistemi kendi dahili filtreye sahip
+olduğundan ayrı bir filtre gerekli değildir.
+• Transfer sistemin beyaz kısmı ile flakonu dikkatli şekilde ayırınız. Kapalı kelebek iğne
+kullanarak enjeksiyon preparatını intravenöz yolla yavaş şekilde enjekte ediniz. Enjeksiyon
+hızı en fazla 2-3 mL/dakika olmalıdır.
+• Kelebek iğne kullanıldıktan sonra koruyucu kapak ile güvenli hale getirilebilir.
+7. RUHSAT SAHİBİ
+Maxicells İlaç San. A.Ş.
+Oruç Reis Mahallesi Tekstilkent Cad. No:12 A/233
+Esenler /İSTANBUL
+Tel: 0 212 438 30 30
+Faks: 0 212 438 29 29
+8. RUHSAT NUMARASI
+2019/174
+9. İLK RUHSAT TARİHİ/ RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi: 27/03/2019
+Ruhsat yenileme tarihi:
+10. KÜB’ÜN YENİLENME TARİHİ
+11

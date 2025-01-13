@@ -1,0 +1,756 @@
+KISA ÜRÜN BİLGİSİ
+Bu ilaç ek izlemeye tabidir. Bu üçgen yeni güvenlilik bilgisinin hızlı olarak belirlenmesini
+sağlayacaktır. Sağlık mesleği mensuplarının şüpheli advers reaksiyonları TÜFAM'a
+bildirmeleri beklenmektedir. Bakınız Bölüm 4.8 Advers reaksiyonlar nasıl raporlanır?
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+SKYRIZI 150 mg/mL enjeksiyonluk çözelti içeren kullanıma hazır enjektör
+Steril
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde:
+Her tek kullanımlık enjektör 1 mL çözelti içerisinde 150 mg risankizumab içerir.
+Risankizumab, rekombinant DNA teknolojisi kullanılarak Çin hamsteri over hücrelerinde
+üretilen, interlökin (IL)-23 proteinine karşı seçici bir hümanize immünoglobülin G1 (IgG1)
+monoklonal antikordur.
+Yardımcı maddeler:
+Her bir şırıngada;
+Sodyum asetat trihidrat 1.24 mg
+Yardımcı maddelerin tam listesi için bölüm 6.1’e bakınız.
+3. FARMASÖTİK FORM
+Enjeksiyonluk çözelti.
+Renksiz ila sarı renkli, berrak ila hafif opalesan çözelti.
+4. KLİNİK ÖZELLİKLER
+4.1 Terapötik endikasyonlar
+Plak psöriyazis
+SKYRIZI, sistemik tedavilere aday olan ve konvansiyonel sistemik tedavilere (örneğin
+siklosporin, metotreksat veya fototerapi) yanıt vermeyen, bunların kontrendike olduğu veya bu
+tedavileri tolere edemeyen erişkin hastalarda orta ile şiddetli plak tip psöriyazis tedavisinde
+endikedir.
+Psöriyatik artrit
+SKYRIZI, tek başına veya metotreksat (MTX) ile kombinasyon halinde, bir veya daha fazla
+hastalık modifiye edici anti-romatizmal ilaç (DMARD) tedavisine yeterli yanıt vermeyen veya
+bu tedavileri tolere edemeyen erişkin hastalarda aktif psöriyatik artritin tedavisinde endikedir.
+14.2 Pozoloji ve uygulama şekli
+SKYRIZI, endike olduğu durumların teşhisi ve tedavisinde uzman bir doktorun gözetimi ve
+rehberliği altında kullanıma yöneliktir.
+Pozoloji/uygulama sıklığı ve süresi:
+Önerilen doz, 0. haftada, 4. haftada ve ardından 12 haftada bir subkütan enjeksiyonla uygulanan
+150 mg'dır (bir adet 150 mg kullanıma hazır enjektör ya da kullanıma hazır kalem).
+16 haftalık tedavinin ardından, tedaviye yanıt vermeyen hastalarda tedavinin kesilmesine
+yönelik değerlendirme yapılmalıdır. Başlangıçta kısmi yanıt veren bazı plak psöriyazis
+hastalarında 16 haftayı aşan devamlı tedavinin ardından düzelme görülebilir.
+Unutulan doz
+Bir dozun unutulması durumunda, doz en kısa sürede uygulanmalıdır. Ardından, doz
+uygulamasına planlanan şekilde devam edilmelidir.
+Uygulama şekli:
+SKYRIZI subkütan enjeksiyonla uygulanır. Enjeksiyonlar uyluk ya da karına uygulanmalıdır.
+Hastalar cildin hassas, morarmış, eritemli, sertleşmiş veya psöriyazisten etkilenmiş bölgelerine
+enjekte etmemelidir.
+Hastalar subkütan enjeksiyon tekniğine ilişkin eğitim aldıktan sonra SKYRIZI’yi kendi
+kendilerine enjekte edebilirler. Hastalar uygulama öncesinde Kullanma Talimatı’nı okumaları
+konusunda bilgilendirilmelidir.
+SKYRIZI üst kolun dış kısmına sadece bir sağlık çalışanı tarafından uygulanmalıdır.
+Özel popülasyonlara ilişkin ek bilgiler:
+Böbrek/Karaciğer yetmezliği:
+Böbrek veya karaciğer yetmezliğinin risankizumab farmakokinetiği üzerindeki etkisini
+değerlendirmek amaçlı özel bir çalışma yürütülmemiştir. Genel olarak, bu rahatsızlıkların
+monoklonal antikorların farmakokinetiği üzerinde anlamlı bir etkisi olması beklenmemektedir
+ve bir doz ayarlaması gerekli görülmemektedir (bkz. Bölüm 5.2).
+Pediyatrik popülasyon:
+5 ila 18 yaş arası hastalarda risankizumabın güvenliliği ve etkililiği belirlenmemiştir. Herhangi
+bir veri bulunmamaktadır.
+Risankizumabın 6 yaşından küçük çocuklarda orta veya şiddetli plak psöriyazis endikasyonu
+için yada 5 yaşından küçük çocuklarda psöriyatik artrit endikasyonu için uygun bir kullanımı
+bulunmamaktadır.
+Geriyatrik popülasyon:
+Doz ayarlaması gerekli değildir (bkz. Bölüm 5.2).
+65 yaş ve üstü hastalar için sınırlı bilgi bulunmaktadır.
+2Aşırı kilolu hastalar:
+Doz ayarlaması gerekli değildir (bkz. Bölüm 5.2).
+4.3 Kontrendikasyonlar
+SKYRIZI aşağıdaki durumlarda kontrendikedir:
+- Etkin maddeye veya bölüm 6.1'de liste halinde verilen yardımcı maddelerden herhangi
+birine aşırı duyarlılık.
+- Klinik olarak anlamlı aktif enfeksiyonlar (örn. aktif tüberküloz, bkz. Bölüm 4.4).
+4.4 Özel kullanım uyarıları ve önlemleri
+İzlenebilirlik
+Biyoteknolojik ürünlerin takip edilebilirliğinin sağlanması için, uygulanan ürünün ticari ismi
+ve seri numarası mutlaka hasta dosyasına kaydedilmelidir.
+Enfeksiyonlar
+Risankizumab enfeksiyon riskini artırabilir.
+Kronik enfeksiyonu veya nükseden enfeksiyon hikayesi olan veya enfeksiyon için bilinen risk
+faktörleri olan hastalarda risankizumab dikkatli kullanılmalıdır. Klinik olarak anlamlı aktif
+enfeksiyonu olan hastalarda, enfeksiyon iyileşene veya uygun şekilde tedavi edilinceye kadar
+risankizumab tedavisi başlatılmamalıdır.
+Risankizumab ile tedavi edilen hastalar, klinik olarak anlamlı kronik veya akut enfeksiyon
+belirtileri veya semptomları ortaya çıkarsa tıbbi yardım almaları konusunda bilgilendirilmelidir.
+Hastada bu tür bir enfeksiyon ortaya çıkması veya hastanın standart enfeksiyon tedavisine yanıt
+vermemesi durumunda, hasta yakından izlenmelidir ve enfeksiyon geçene kadar risankizumab
+uygulanmamalıdır.
+Tüberküloz
+Risankizumab tedavisine başlamadan önce, hastalar tüberküloz (TB) enfeksiyonu için
+değerlendirilmelidir. Risankizumab alan hastalar, aktif TB belirtileri ve semptomları açısından
+izlenmelidir. Yeterli tedavi seyrinin doğrulanamadığı, geçmişte latent ya da aktif TB öyküsü
+olan hastalarda, risankizumaba başlamadan önce anti-TB tedavisi düşünülmelidir.
+Aşılamalar
+Risankizumab tedavisine başlamadan önce, güncel bağışıklama programına uygun olarak tüm
+aşıların tamamlanması düşünülmelidir. Bir hastaya canlı aşı yapıldıysa (viral veya bakteriyel),
+risankizumab ile tedaviye başlamadan önce en az 4 hafta beklemesi önerilir. Risankizumab ile
+tedavi edilen hastalara tedavi sırasında ve tedaviden sonra en az 21 hafta boyunca canlı aşılar
+uygulanmamalıdır (bkz. Bölüm 5.2).
+Aşırı duyarlılık
+Risankizumab kullanımı ile ilgili ciddi aşırı duyarlılık reaksiyonları bildirilmiştir. Ciddi bir aşırı
+duyarlılık reaksiyonu oluşursa, risankizumab uygulaması hemen durdurulmalı ve uygun tedavi
+başlatılmalıdır.
+3Yardımcı maddeler
+Bu tıbbi ürün 150 mg doz başına 1 mmol (23 mg)’dan daha az sodyum ihtiva eder; yani aslında
+“sodyum içermez”.
+4.5 Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+Risankizumabın karaciğer enzimleriyle metabolizasyona veya böbrek eliminasyonuna
+uğraması beklenmemektedir. Risankizumab ile tıbbi ürün metabolize edici enzim inhibitörleri,
+indükleyicileri ya da sübstratları arasında etkileşim beklenmemektedir ve doz ayarlaması
+gerekmemektedir (bkz. Bölüm 5.2).
+Eşzamanlı immunosüpresif tedavi veya fototerapi
+Biyolojikler veya fototerapi dahil olmak üzere immunosüpresantlarla kombine risankizumabın
+etkililiği ve güvenliliği araştırılmamıştır.
+Özel popülasyonlara ilişkin ek bilgiler:
+Böbrek/Karaciğer yetmezliği:
+Risankizumabın karaciğer enzimleriyle metabolizasyona veya böbrek eliminasyonuna
+uğraması beklenmemektedir.
+Geriyatrik popülasyon:
+65 yaş ve üstü hastalar ile ilgili sınırlı güvenlilik bilgisi bulunmaktadır.
+Pediyatrik popülasyon:
+5 ila 18 yaş arası hastalarda SKYRIZI’nin güvenliliği ve etkililiği henüz belirlenmemiştir.
+Herhangi bir veri bulunmamaktadır.
+SKYRIZI’nin 6 yaşından küçük çocuklarda orta veya şiddetli plak psöriyazis endikasyonu için
+uygun bir kullanımı bulunmamaktadır.
+4.6 Gebelik ve laktasyon
+Genel tavsiye
+Gebelik kategorisi: B
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon)
+Çocuk doğurma potansiyeli olan kadınlar, tedavi süresince ve tedaviden sonra en az 21 hafta
+boyunca etkili bir doğum kontrol yöntemi kullanmalıdır.
+Gebelik dönemi
+Hamile kadınlarda risankizumab kullanımına dair sınırlı sayıda veri (300’den az hamilelik
+sonucu) mevcuttur ya da veri bulunmamaktadır.
+Gebelikte maruz kalma olgularından gelen veriler, risankizumabın gebelik üzerinde ya da
+fetusun/yeni doğan çocuğun sağlığı üzerinde advers etkileri olduğunu göstermemektedir.
+Bugüne kadar herhangi önemli bir epidemiyolojik veri elde edilmemiştir. Hayvanlar üzerinde
+4yapılan çalışmalar, gebelik / embriyonal / fetal gelişim / doğum ya da doğum sonrası gelişim
+ile ilgili olarak doğrudan ya da dolaylı zararlı etkiler olduğunu göstermemektedir (bkz. Bölüm
+5.3). Önlem amaçlı olarak hamile kadınlarda risankizumab kullanımından kaçınılması tercih
+edilebilir.
+Laktasyon dönemi
+Risankizumabın anne sütüne geçip geçmediği bilinmemektedir. İnsan IgG’nin doğumdan
+sonraki ilk günlerde anne sütüne geçtiği bilinmekte olup, hemen ardından düşük
+konsantrasyonlara düşer. Bu sebeple bu kısa dönem sırasında anne sütüyle beslenen bebeklere
+yönelik risk göz ardı edilemez. Emzirmenin çocuğa yararı ve risankizumab tedavisinin kadına
+yararı göz önünde bulundurularak risankizumab tedavisinin kesilip kesilmeyeceğine/
+tedavisinden uzak durulup durulmayacağına karar verilmelidir.
+Üreme yeteneği/Fertilite
+Risankizumabın insan fertilitesi üzerindeki etkisi değerlendirilmemiştir. Hayvan çalışmaları
+fertilite açısından doğrudan ya da dolaylı zararlı bir etki göstermemektedir.
+4.7 Araç ve makine kullanımı üzerindeki etkiler
+SKYRIZI araç ve makine kullanımı üzerinde herhangi bir etkiye sahip değildir ya da etkisi
+ihmal edilebilir düzeydedir.
+4.8 İstenmeyen etkiler
+Güvenlilik profilinin özeti
+En sık bildirilen advers reaksiyonlar üst solunum yolu enfeksiyonlarıdır.
+SKYRIZI ile ilişkili advers etkiler aşağıda Tablo 1’de sunulmaktadır.
+Advers reaksiyonların sıklığı, aşağıdaki sınıflandırma kullanılarak tanımlanır.
+Risankizumaba ilişkin klinik çalışmalardan elde edilen, advers reaksiyonlar (Tablo 1),
+MedDRA sistem organ sınıfına göre listelenmiştir ve şu düzene dayanmaktadır: çok yaygın (≥
+1/10); yaygın (≥ 1/100 ila < 1/10); yaygın olmayan (≥ 1/1.000 ila < 1/100); seyrek (≥ 1/10.000
+ila < 1/1.000) ve çok seyrek (< 1/10.000)
+Tablo 1: Advers reaksiyonların listesi
+Sistem Organ Sınıfı Sıklık Advers Reaksiyon
+Enfeksiyonlar ve enfestasyonlar Çok yaygın Üst solunum yolu
+enfeksiyonlarıa
+Yaygın Tinea enfeksiyonlarıb
+Yaygın olmayan Follikülit
+Sinir sistemi hastalıkları Yaygın Baş ağrısıc
+Kaşıntı
+Yaygın
+Deri ve deri altı doku hastalıkları Döküntü
+Yaygın olmayan Ürtiker
+Genel hastalıklar ve uygulama Yaygın Yorgunlukd
+bölgesine ilişkin hastalıklar Enjeksiyon yeri reaksiyonlarıe
+5a Şunları içerir: solunum yolu enfeksiyonu (viral, bakteriyel veya belirlenmemiş), sinüzit
+(akut dahil), rinit, nazofarenjit, farenjit (viral dahil), tonsilit, larenjit, trakeit
+b Şunları içerir: ayak mantarı, kasık mantarı, vücuttaki tinea, tinea versikolor, tinea manuum,
+onikomikoz, deride mantar enfeksiyonu
+c Şunları içerir: baş ağrısı, tansiyon baş ağrısı, sinüs baş ağrısı
+d Şunları içerir: yorgunluk, asteni
+e Şunları içerir: enjeksiyon yerinde morarma, eritem, hematom, hemoraj, tahriş, ağrı, kaşıntı,
+reaksiyon, şişme, sertleşme, döküntü
+Seçilmiş advers reaksiyonların tanımlanması
+Enfeksiyonlar
+Enfeksiyon oranı, uzun süre risankizumaba maruz kalma dahil, psöriyazis klinik çalışmalarında
+100 hasta yılında 75,5 olay ve psöriyatik artrit klinik çalışmalarında 100 hasta yılında 43 olay
+olmuştur. Vakaların çoğu ciddi değildir ve şiddeti hafif ve orta derecededir ve risankizumabın
+kesilmesine yol açmamıştır. Ciddi enfeksiyon oranı psöriyaz çalışmalarında her 100 hasta
+yılında 1,7 ve psöriyatik artrit çalışmalarında her 100 hasta yılında 2,6’dır (bkz. Bölüm 4.4).
+İmmünojenisite
+Diğer terapötik proteinler ile olduğu gibi, risankizumab ile immünojenisite gelişme potansiyeli
+mevcuttur. Antikor oluşumunun saptanması büyük ölçüde testin hassasiyetine ve özgüllüğüne
+bağlıdır.
+Psöriyazis klinik çalışmalarında, önerilen klinik dozda risankizumab ile 52 haftaya kadar tedavi
+edilen hastalarda, tedavi ile ortaya çıkan anti-ilaç antikorları ve nötralizan antikorlar,
+değerlendirilen hastaların sırasıyla %24'ünde (263/1.079) ve %14'ünde (150/1.079) tespit
+edilmiştir. Risankizumab ile uzun süreli tedaviye (uzatma çalışmasında 204 haftaya kadar) maruz
+bırakılan sağlıklı hastalar için immünojenisite profili, ilk 52 haftalık tedaviye kıyasla tutarlı
+gözlemlenmiştir.
+Birçok psöriyazis hastasında, nötralizan antikorlar da dahil olmak üzere, risankizumaba karşı
+antikorlar, klinik cevap veya güvenlilikteki değişikliklerle ilişkilendirilmemiştir. Yüksek
+antikor titrelerine (>128) sahip az sayıdaki (yaklaşık % 1; 16. haftada 7/1.000 ve 52. haftada
+6/598) hastalar arasında klinik yanıtın azaldığı görülmüştür. Enjeksiyon yeri reaksiyonlarının
+görülme sıklığı, kısa süreli (16 hafta: %2,7 - %1,3) ve daha uzun süreli (>52 hafta: %5 - %3,3)
+tedavi boyunca anti–ilaç antikor-negatif gruba kıyasla anti-ilaç antikor-pozitif grupta sayısal
+olarak daha yüksektir. Enjeksiyon bölgesi reaksiyonları, hafif ila orta şiddetli derecededir,
+hiçbiri ciddi değildir ve hiçbiri risankizumabın kesilmesine yol açmamıştır.
+Psöriyatik artrit klinik çalışmalarında 28 haftaya kadar önerilen klinik dozda risankizumab ile
+tedavi gören hastalarda, değerlendirilen hastaların sırasıyla %12,1 (79/652) ve %0’ında (0/652)
+tedavi sırasında meydana gelen anti-ilaç antikorları ve nötralizan antikorlar tespit edilmiştir.
+Risankizumaba karşı antikorlar, psöriyatik artrit için güvenlilik ya da klinik yanıttaki
+değişikliklerle ilişkilendirilmemiştir.
+Psöriyatik artrit
+Genel olarak, risankizumab ile tedavi gören psöriyatik artritli hastalarda gözlemlenen
+güvenlilik profili, plak psöriyazisli hastalarda gözlemlenen güvenlilik profili ile tutarlı
+olmuştur.
+6Özel popülasyonlara ilişkin ek bilgiler:
+Geriyatrik popülasyon:
+65 yaş ve üstü hastalar ile ilgili sınırlı güvenlilik bilgisi bulunmaktadır.
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir (www.titck.gov.tr; e-posta:
+tufam@titck.gov.tr; tel 0 800 314 00 08; faks: 0 312 218 35 99).
+4.9 Doz aşımı ve tedavisi
+Doz aşımı durumunda, hastanın advers reaksiyonlara ilişkin belirti ve semptomlara karşı
+izlenmesi ve uygun semptomatik tedavinin derhal uygulanması tavsiye edilmektedir.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1 Farmakodinamik özellikler
+Farmakoterapötik grup: İmmünosüpresanlar, interlökin inhibitörleri
+ATC kodu: L04AC18
+Etki mekanizması
+Risankizumab, IL-12’ye bağlanmadan insan interlökin 23 (IL-23) sitokininin p19 alt birimine
+yüksek afiniteyle seçici olarak bağlanan ve IL-23 reseptör kompleksiyle etkileşimini inhibe
+eden bir hümanize immünoglobulin G1 (IgG1) monoklonal antikorudur. IL-23 enflamatuvar ve
+immün yanıtlara katılan bir sitokindir. Risankizumab, IL-23'ün reseptörüne bağlanmasını bloke
+ederek IL-23 bağımlı hücre sinyalini ve pro-enflamatuvar sitokinlerin salınmasını inhibe eder.
+Farmakodinamik etkiler
+Psöriyazisi olan hastaları içeren bir çalışmada, IL-23/IL-17 ekseni ile ilişkili genlerin
+ekspresyonu, tek doz risankizumabın ardından deride azalmıştır. Ayrıca psöriyatik lezyonlarda
+epidermal kalınlıkta, enflamatuvar hücrelerin infiltrasyonunda ve psöriyatik hastalık
+belirteçlerinin ekspresyonunda azalma gözlemlenmiştir.
+Psöriyatrik artritli hastaları içeren bir çalışmada, 0. hafta, 4. hafta ve sonrasında 12 haftada bir
+subkütan olarak 150 mg risankizumab ile tedavinin ardından, serum IL-17A, IL-17F ve IL-22
+dahil olmak üzere IL-23 ve IL-17 ile ilişkili biyobelirteçlerde 24. haftada başlangıca göre
+istatistiksel ve klinik açıdan anlamlı bir azalma gözlemlenmiştir.
+Klinik etkililik ve güvenlilik
+Plak psöriyazis
+Risankizumabın etkililiği ve güvenliliği çok merkezli, randomize, çift kör dört çalışmada
+(ULTIMMA-1, ULTIMMA-2, IMMHANCE ve IMMVENT) orta veya şiddetli plak psöriyazisi
+olan 2.109 hastada değerlendirilmiştir. Kaydedilen hastalar 18 yaş ve üzerinde, plak psöriyazisi
+olan, vücut yüzey alanı (VYA) tutulumları ≥%10 olan, genel değerlendirmede (plak
+kalınlığı/sertliği, eritem ve pullanma) psöriyazis için 0 ila 4 şiddet skalasındaki, statik Doktor
+7Global Değerlendirme (static Physician Global Assessment, sPGA) skoru ≥3 olan ve Psöriyazis
+Alan ve Şiddet Endeksi (Psoriasis Area and Severity Index, PASI) skoru ≥12 olan ve sistemik
+tedavi veya fototerapi için aday olan hastalardır.
+Genel olarak, hastaların medyan başlangıç PASI skoru 17,8’dir ve medyan VYA değeri
+%20’dir ve medyan başlangıç Dermatoloji Yaşam Kalite İndeksi (Dermatology Life Quality
+Index, DLQI) değeri 13’tür. Başlangıç sPGA skoru hastaların %19,3'ünde şiddetli ve %
+80,7’sinde orta derecelidir. Çalışma hastalarının toplam %9,8'inde tanı konmuş psöriyatik artrit
+hikayesi vardır.
+Tüm çalışmalar boyunca psöriyazis tedavisi için hastaların %30,9’u hiçbir sistemik (biyolojik
+olmayan ve biyolojik dahil) tedavi görmemiştir, %38,1'i daha önce fototerapi ya da
+fotokemoterapi almıştır, %48,3'ü daha önce biyolojik olmayan sistemik tedavi almıştır, %42,1'i
+daha önce biyolojik tedavi almıştır ve %23,7’si en az bir anti-TNF alfa ajanı almıştır. Bu
+çalışmaları ve diğer Faz 2/3 çalışmaları tamamlayan hastalar, açık etiketli bir uzatma çalışması
+olan LIMMITLESS’e katılma fırsatı bulmuştur.
+ULTIMMA-1 ve ULTIMMA-2
+ULTIMMA-1 ve ULTIMMA-2 çalışmalarına 997 hasta kaydedilmiştir (598'i risankizumab 150
+mg, 199'u ustekinumab 45 mg veya 90 mg [başlangıç ağırlığına göre] ve 200'ü plasebo almak
+üzere randomize edilmiştir). Hastalar 0. haftada, 4. haftada ve ardından 12 haftada bir tedavi
+almıştır. ULTIMMA-1 ve ULTIMMA-2 için iki ko-primer sonlanım noktası, 1) PASI 90
+cevabına ve 2) plaseboya karşı 16. haftada temiz ya da neredeyse temiz sPGA skoruna (sPGA
+0 ya da 1) ulaşan hasta oranıdır. Ko-primer ve diğer sonlanım noktaları için sonuçlar Tablo 2'de
+ve Şekil 1'de gösterilmektedir.
+Tablo 2: ULTIMMA-1 ve ULTIMMA-2 çalışmalarında plak psöriyazisi olan
+yetişkinlerdeki etkililik ve yaşam kalitesi sonuçları
+ULTIMMA-1 ULTIMMA-2
+Risankizumab Ustekinumab Plasebo Risankizumab Ustekinumab Plasebo
+(N=304) (N=100) (N=102) (N=294) (N=99) (N=98)
+n (%) n (%) n (%) n (%) n (%) n (%)
+sPGA temiz veya neredeyse temiz (0 veya 1)
+16. haftaa 267 (87,8) 63 (63,0) 8 (7,8) 246 (83,7) 61 (61,6) 5 (5,1)
+52. hafta 262 (86,2) 54 (54,0) -- 245 (83,3) 54 (54,5) --
+sPGA temiz (0)
+16. hafta 112 (36,8) 14 (14,0) 2 (2,0) 150 (51,0) 25 (25,3) 3 (3,1)
+52. hafta 175 (57,6) 21 (21,0) -- 175 (59,5) 30 (30,3) --
+PASI 75
+12. hafta 264 (86,8) 70 (70,0) 10 (9,8) 261 (88,8) 69 (69,7) 8 (8,2)
+52. hafta 279 (91,8) 70 (70,0) -- 269 (91,5) 76 (76,8) --
+PASI 90
+16. haftaa 229 (75,3) 42 (42,0) 5 (4,9) 220 (74,8) 47 (47,5) 2 (2,0)
+852. hafta 249 (81,9) 44 (44,0) -- 237 (80,6) 50 (50,5) --
+PASI 100
+16. hafta 109 (35,9) 12 (12,0) 0 (0,0) 149 (50,7) 24 (24,2) 2 (2,0)
+52. hafta 171 (56,3) 21 (21,0) -- 175 (59,5) 30 (30,3) --
+DLQI 0 ya da 1b
+200
+16. hafta 43 (43,0) 8 (7,8) 196 (66,7) 46 (46,5) 4 (4,1)
+(65,8)
+229
+52. hafta 47 (47,0) -- 208 (70,7) 44 (44,4) --
+(75,3)
+PSS 0 (semptomsuz)c
+16. hafta 89 (29,3) 15 (15,0) 2 (2,0) 92 (31,3) 15 (15,2) 0 (0,0)
+173
+52. hafta 30 (30,0) -- 160 (54,4) 30 (30,3) --
+(56,9)
+Risankizumabın ustekinumab ve plasebo ile bütün karşılaştırmalarında, ULTIMMA-2 çalışmasının 52.
+haftasında p=0,001 değerinin elde edildiği PASI 75 hariç olmak üzere, p<0,001 değeri elde edilmiştir.
+a Ko-primer sonlanım noktalarına karşı plasebo
+b Sağlıkla ilişkili yaşam kalitesi üzerinde etkisi bulunmamaktadır.
+c Psoriazis Semptom Ölçeği (PSS)’nin 0 olması, son 24 saat boyunca ağrı, kaşıntı, kızarıklık ve yanma
+semptomları olmadığı anlamına gelir.
+Şekil 1: ULTIMMA-1 ve ULTIMMA-2’de PASI başlangıcına göre ortalama yüzde
+değişim süreci
+RZB = risankizumab
+UST = ustekinumab
+PBO = plasebo
+her bir zaman noktasında p<0,001
+9
+mişiğeD
+edzüY
+eröG
+acıgnalşaB
+ISAP
+HaftaYaş, cinsiyet, ırk, vücut ağırlığı ≤130 kg, başlangıç PASI skoru, eşzamanlı psöriyatik artrit,
+geçmişteki bir biyolojik olmayan sistemik tedavi, geçmişteki bir biyolojik tedavi ve geçmişteki
+bir biyolojik tedavi başarısızlığına ilişkin incelemede, bu alt gruplarda risankizumaba karşı
+verilen cevap açısından herhangi bir fark tespit edilmemiştir.
+Risankizumab ile tedavi edilen hastalarda, 16. haftada ve 52. haftada kafa derisi, tırnaklar, avuç
+içi ve ayak tabanını içeren psöriyazisde iyileşmeler gözlemlenmiştir.
+Tablo 3: NAPSI, PPASI ve PSSI’de başlangıçtan ortalama değişiklikler
+ULTIMMA-1 ULTIMMA-2 IMMHANCE
+Risankizumab Plasebo Risankizumab Plasebo Risankizumab Plasebo
+NAPSI: N=49; N=58;
+N=56;
+16.haftadaki N=178; N=177; 3,0 N=235; 2,5
+2,1 (1,86)
+değişiklikler -9,0 (1,17) -7,5 (1,03) (1,76) -7,5 (0,89) (1,70)
+***
+(SE) *** ***
+PPASI:
+N=34; N=23; N=26;
+16.haftadaki
+N=95; -3,17 N=86; -3,74 N=113; -0,27
+değişiklikler
+-5,93 (0,324) (0,445) -7,24 (0,558) (1,025) -7,39 (0,654) (1,339)
+(SE)
+*** ** ***
+PSSI:
+N=92; N=83; N=88;
+16.haftadaki
+N=267; -2,9 N=252; -4,6 N=357; -5,5
+değişiklikler
+-17,6 (0,47) (0,69) -18,4 (0,52) (0,82) -20,1 (0,40) (0,77)
+(SE)
+*** *** ***
+NAPSI:
+52.haftadaki N=178; N=183;
+- - - -
+değişiklikler -15,7 (0,94) -16.7 (0,85)
+(SE)
+PPASI:
+52.haftadaki N=95; N=89;
+- - - -
+değişiklikler -6,16 (0,296) -8,35 (0,274)
+(SE)
+PSSI:
+52.haftadaki
+N=269; N=259;
+değişiklikler - - - -
+-17,9 (0,34) -18,8 (0,24)
+(SE)
+Tırnak Psöriyazis Şiddet İndeksi (NAPSI), Palmoplantar Psöriyazis Şiddet İndeksi (PPASI),
+Kafa Derisi Psöriyazisi Şiddet İndeksi (PSSI), and Standart Hata (SE)
+** p < 0,01 risankizumab ile karşılaştırıldığında
+*** p < 0,001 risankizumab ile karşılaştırıldığında
+Hastane Anksiyete ve Depresyon Skalası (HADS) ile ölçülen anksiyete ve depresyon,
+risankizumab grubunda 16. haftada plasebo grubuna göre düzelmiştir.
+Yanıtın korunması
+ULTIMMA-1 ve ULTIMMA-2 çalışmalarında risankizumab alan hastaların entegre analizinde,
+16. haftada PASI 100 cevabı verenler için, risankizumaba devam eden hastaların %79,8’i
+10(206/258) 52. haftaya kadar cevap vermeyi sürdürmüştür. 16. haftada PASI 90 cevabı verenler
+için hastaların %88,4’ü (398/450) 52. haftaya kadar cevap vermeyi sürdürmüştür.
+LIMMITLESS çalışmasında, ULTIMMA-1 ve ULTIMMA-2 çalışmalarını tamamlayan ve
+risankizumab tedavisine devam eden sağlıklı hastalar arasındaki yanıt oranları, 160. haftanın
+sonuna kadar korunmuştur; sağlıklı hastaların %88’i (460/525) PASI 90 ve sağlıklı hastaların
+%88’i (462/525) temiz veya neredeyse temiz sPGA yanıtı elde etmiştir.
+52. haftada ustekinumabdan risankizumaba geçiş yapan sağlıklı hastalar için PASI 90 ve temiz
+veya neredeyse temiz sPGA yanıt oranları 52. haftadan 76. haftanın sonuna kadar artmış,
+ardından 160. haftanın sonuna kadar korunmuştur.
+Risankizumaba 5 yıldan fazla maruz kalındığında güvenlilik profili, 16 haftaya kadar
+gözlemlenen profille tutarlı olmuştur.
+IMMHANCE
+IMMHANCE çalışmasına 507 hasta kaydedilmiştir (407 hasta risankizumab 150 mg almak
+üzere ve 100 hasta plasebo almak üzere randomize edilmiştir). Hastalar 0. haftada, 4. haftada
+ve ardından 12 haftada bir tedavi almıştır. Başlangıçtan itibaren risankizumab almakta olan ve
+28. haftada sPGA yanıtı temiz ila neredeyse temiz olan hastalar 88. haftaya kadar 12 haftada
+bir risankizumab almak üzere yeniden randomize edilmiştir (son risankizumab dozundan
+itibaren 16 haftaya kadar takip edilmiştir) veya tedaviden ayrılmıştır.
+16. haftada, risankizumab sPGA skoru temiz ila neredeyse temiz (risankizumab ile %83,5’e
+karşı plasebo ile %7) ve PASI 90 (risankizumab ile %73,2’ye karşı plasebo ile %2) ko-primer
+sonlanım noktalarında plasebodan üstündür.
+IMMHANCE çalışmasında yer alan ve latent tüberkülozlu (TB) olduğu belirlenip çalışma
+boyunca profilaksi almayan 31 hastanın hiçbirinde, risankizumab ile 55 haftalık ortalama takip
+süresince aktif TB gelişmemiştir.
+IMMHANCE'de 28. haftada temiz veya neredeyse temiz sPGA’ya sahip hastalar arasında,
+risankizumab ile tedaviye devam etmek için yeniden randomize edilen hastaların % 81,1'i
+(90/111), risankizumab tedavisi kesilmek üzere yeniden randomize edilen %7,1’e (16/225)
+kıyasla bu yanıtı 104. haftada sürdürdü. Bu hastalardan, risankizumab ile tedaviye devam
+etmesi için yeniden randomize edilen hastaların % 63,1'i (70/111), risankizumab tedavisi
+kesilmek üzere yeniden randomize edilen %2,2’ye (5/225) kıyasla 104. haftada temiz bir sPGA
+yanıtına ulaşmıştır.
+28. hafta sonunda sPGA skoru temiz veya neredeyse temiz olan, ancak tedavileri kesildikten
+sonra orta ve şiddetli sPGA yanıtlarına nüks eden hastaların %83,7’si (128/153), tedaviye
+yeniden başladıklarında, sPGA skorunda temiz ve neredeyse temiz değerini 16. haftada geri
+kazanmıştır. Temiz ve neredeyse temiz sPGA yanıtlarının kaybı, ilk doz atlandıktan 12 hafta
+sonra gözlemlenmiştir. Tedavisi kesilen gruba randomize edilen hastaların %80,9’unda
+(182/225) nüks gözlemlenirken, nüks görülmesine kadar geçen ortalama süre 295 gün olmuştur.
+Bireysel olarak hasta seviyesinde tekrar yanıt alma ihtimalinin ya da yanıt kaybı süresinin
+öngörülebilmesi için herhangi bir karakteristik özellik tanımlanmamıştır.
+11IMMVENT
+IMMVENT çalışmasına 605 hasta kaydedilmiştir (301 hasta risankizumab almak üzere ve 304
+hasta adalimumab almak üzere randomize edilmiştir). Risankizumab almak üzere randomize
+edilen hastalar 0. haftada, 4. haftada ve ardından 12 haftada bir 150 mg tedavi almıştır.
+Adalimumab almak üzere randomize edilen hastalar 0. haftada 80 mg, 1. haftada 40 mg ve
+ardından 15. haftaya kadar iki haftada bir 40 mg tedavi almıştır. 16. haftadan itibaren,
+adalimumab almakta olan hastalar yanıta bağlı olarak tedaviye devam etmiştir veya başka
+tedaviye geçiş yapmıştır:
+ <PASI 50 yanıtlı hastalar risankizumab tedavisine geçmiştir
+ PASI 50 ila <PASI 90 yanıtı olan hastalar adalimumab tedavisine devam etmek veya
+risankizumab tedavisine geçiş yapmak üzere yeniden randomize edilmiştir.
+ PASI 90 yanıtını sağlayan hastalar adalimumab tedavisi ile devam etmiştir.
+Sonuçlar Tablo 4’te sunulmaktadır.
+Tablo 4: IMMVENT çalışmasında plak psöriyazisi olan yetişkinlerde 16. haftadaki
+etkililik ve yaşam kalitesi sonuçları
+Risankizumab Adalimumab
+(N=301) (N=304)
+n (%) n (%)
+sPGA temiz veya neredeyse temiza 252 (83,7) 183 (60,2)
+PASI 75 273 (90,7) 218 (71,7)
+PASI 90a 218 (72,4) 144 (47,4)
+PASI 100 120 (39,9) 70 (23,0)
+DLQI 0 ya da 1b 198 (65,8) 148 (48,7)
+Tüm karşılaştırmalarda p<0,001 sağlandı
+a Ko-primer sonlanım noktaları
+b Sağlıkla ilişkili yaşam kalitesi üzerinde etkisi bulunmamaktadır.
+16. haftada adalimumab ile PASI 50 ila <PASI 90 arasında skoru olan hastalar yeniden
+randomize edilmiştir. Risankizumaba geçen ve adalimumab tedavisine devam eden hastalarda
+PASI 90 yanıt oranları arasındaki fark, yeniden randomizasyondan sonraki 4. haftadan itibaren
+görülmeye başlanmıştır (sırasıyla, %49,1 ve %26,8).
+Yeniden randomizasyondan 28 hafta sonra elde edilen sonuçlar Tablo 5 ve Şekil 2'de
+sunulmaktadır.
+Tablo 5: IMMVENT’te yeniden randomizasyondan 28 hafta sonra etkililik sonuçları
+Risankizumaba geçiş Adalimumaba devam
+(N=53) (N=56)
+n (%) n (%)
+PASI 90 35 (66,0) 12 (21,4)
+PASI 100 21 (39,6) 4 (7,1)
+Tüm karşılaştırmalarda p<0,001 sağlandı
+12Şekil 2: IMMVENT'te yeniden randomizasyonun ardından PASI 90 süreci
+Yeniden Randomizasyondan Sonra Haftalar
+ADA/ADA: Adalimumaba randomize edilen ve adalimumaba devam eden hastalar
+ADA/RZB: Adalimumaba randomize edilen ve risankizumaba geçen hastalar
+4. haftada p<0,05 ve 8. haftadan itibaren her bir zaman noktasında p<0,001
+Bir arınma dönemi olmadan adalimumabdan risankizumaba geçen 270 hastada, risankizumabın
+güvenlilik profili, daha önceki herhangi bir sistemik tedavinin arınma döneminin ardından
+risankizumaba geçen hastalardakine benzerdir.
+Psöriyatik artrit
+Risankizumabın aktif psöriyatik artritli (PsA) yetişkinlerde bulgu ve belirtileri, fiziksel
+fonksiyonu, sağlıkla ilgili yaşam kalitesini ve radyografik ilerleme görülmeyen hastaların
+oranını iyileştirdiği gösterilmiştir.
+Risankizumabın güvenliliği ve etkililiği, 2 randomize, çift kör, plasebo kontrollü çalışmada yer
+alan aktif PsA’lı 1.407 hastada değerlendirilmiştir (KEEPSAKE1’de 964 ve KEEPSAKE2’de
+443).
+Bu çalışmalardaki hastalarda, Psöriyatik Artrit Sınıflandırma Kriterlerine (CASPAR) göre en
+az 6 aydır devam eden PsA tanısı, başlangıçta 4,9 yıllık medyan PsA süresi, ≥5 hassas eklem
+ve ≥5 şişmiş eklem ile başlangıçta aktif plak psöriyazis veya tırnak psöriyazisi bulunmaktadır.
+Hastaların %55,9’unda aktif plak psöriyazisi ile birlikte ≥%3 BSA olmuştur. Hastaların
+sırasıyla %63,4 ve %27,9’unda entezit ve daktilit olmuştur. Tırnak psöriyazisinin daha ayrıntılı
+değerlendirildiği KEEPSAKE1’de hastaların %67,3’ünde tırnak psöriyazisi olmuştur.
+Her iki çalışmada da, hastalar 0, 4 ve 16. haftalarda risankizumab 150 mg veya plasebo almak
+üzere randomize edilmiştir. 28. haftadan başlayarak tüm hastalar, 12 haftada bir risankizumab
+almıştır.
+KEEPSAKE1’de, tüm hastalar daha önceden biyolojik olmayan DMARD tedavisine yetersiz
+yanıt ya da intolerans göstermiş ve biyolojik tedavi görmemiştir. KEEPSAKE2’de, hastaların
+%53,5’inde daha önceden biyolojik olmayan DMARD tedavisine yetersiz yanıt veya intolerans
+yaşanmış ve %46,5’inde biyolojik tedaviye yetersiz yanıt ya da intolerans yaşanmıştır.
+13
+isedzüY
+nıralatsaHHer iki çalışmada da, hastaların %59,6’sı eş zamanlı metotreksat (MTX), %11,6’sı MTX
+dışında eş zamanlı biyolojik olmayan DMARD ve %28,9’u risankizumab monoterapisi
+almıştır.
+Klinik yanıt
+Risankizumab ile tedavi, 24. haftada plaseboya kıyasla hastalık aktivitesi ölçümlerinde anlamlı
+bir iyileşme ile sonuçlanmıştır. Her iki çalışmada da birincil sonlanım noktası, 24. haftada
+Amerikan Romatoloji Derneği (ACR) 20 yanıtına ulaşan hastaların oranı olmuştur. Temel
+etkililik sonuçları Tablo 6’da gösterilmiştir.
+Tablo 6: KEEPSAKE1 ve KEEPSAKE2 çalışmalarındaki etkililik sonuçları
+KEEPSAKE1 KEEPSAKE2
+Plasebo Risankizumab Plasebo Risankizumab
+Sonlanım
+N=481 N=483 N=219 N=224
+Noktası
+n (%) n (%) n (%) n (%)
+ACR20 Yanıtı
+16. Hafta 161 (33,4) 272 (56,3) a 55 (25,3) 108 (48,3) a
+24. Hafta 161 (33,5) 277 (57,3) a 58 (26,5) 115 (51,3) a
+52. Hafta* - 338/433 (78,1) - 131/191 (68,6)
+ACR50 Yanıtı
+24. Hafta 54 (11,3) 162 (33,4) b 20 (9,3) 59 (26,3) b
+52. Hafta* - 209/435 (48,0) - 72/192 (37,5)
+ACR70 Yanıtı
+24. Hafta 23 (4,7) 74 (15,3) b 13 (5,9) 27 (12,0) c
+52. Hafta* - 125/437 (28,6) - 37/192 (19,3)
+Enteziti Rezolüsyonu (LEI=0)
+24. Hafta* 156/448 (34,8) d 215/444 (48,4) a, d - -
+52. Hafta* - 244/393 (62,1) d - -
+Daktiliti Rezolüsyonu (LDI=0)
+24. Hafta* 104/204 (51,0) e 128/188 (68,1) a, e - -
+52. Hafta* - 143/171 (83,6) e - -
+Minimum Hastalık Aktivitesi (MDA) Yanıtı
+24. Hafta 49 (10,2) 121 (25,0) a 25 (11,4) 57 (25,6) a
+52. Hafta* - 183/444 (41,2) - 61/197 (31,0)
+*veriler mevcut hastalar için, n/N gözlemlenen (%) biçiminde gösterilmektedir
+a. çoklu kontrollü p≤0,001 risankizumab – plasebo karşılaştırması.
+b. nominal p≤0,001 risankizumab – plasebo karşılaştırması.
+c. nominal p≤0,05 risankizumab – plasebo karşılaştırması.
+d. Başlangıçta LEI>0 olan hastalar için KEEPSAKE1 ve KEEPSAKE2’den alınmış olan
+havuzlanmış verilerden özetlenmiştir.
+e. Başlangıçta LDI>0 olan hastalar için KEEPSAKE1 ve KEEPSAKE2’den alınmış olan
+havuzlanmış verilerden özetlenmiştir.
+14Zaman içinde yanıt
+KEEPSAKE1’de, 4. hafta kadar erken bir dönemde, risankizumab grubunda plasebo grubuna
+kıyasla daha yüksek ACR20 yanıtı gözlemlenmiştir (%25,7) ve tedavi farkı, zaman içinde 24.
+haftaya kadar devam etmiştir (bkz. Şekil 3).
+Şekil 3: KEEPSAKE1 çalışmasında 24. haftaya kadar ACR20 yanıtları elde edilen
+hastaların yüzdesi
+KEEPSAKE2’deki hastaların %19,6’sında, 4. hafta kadar erken bir dönemde risankizumab
+kolu için plaseboya kıyasla daha fazla ACR20 yanıtı görülmüştür.
+Risankizumab gruplarında gözlemlenen yanıtlar, eş zamanlı biyolojik olmayan DMARD
+kullanımına, önceki biyolojik olmayan DMARD sayısına, yaşa, cinsiyete, ırka ve VKİ’ye
+bakılmaksızın benzer olmuştur. KEEPSAKE2’de, önceki biyolojik tedaviye bakılmaksızın
+yanıtlar görülmüştür.
+52 haftaya kadar maruziyet ile risankizumabın güvenlilik profili, 24 haftaya kadar gözlemlenen
+profil ile tutarlıdır.
+Her iki çalışmada da, 24. haftada modifiye PsA Yanıt Kriterlerine (PsARC) ulaşılan hastaların
+oranı, plaseboya kıyasla risankisumab alan hastalarda daha yüksek olmuştur. Ek olarak,
+risankizumab alan hastalar, 24. haftada plaseboya kıyasla CRP ile Hastalık Aktivite Skorunda
+(28 eklem) (DAS28-CRP) daha fazla iyileşme göstermiştir. İyileşmeler, PsARC ve DAS28-
+CRP için 52. haftaya kadar sürdürülmüştür.
+Risankizumab ile tedavi, her bir ACR bileşeni, Sağlık Değerlendirme Anketi-İş Göremezlik
+İndeksi (HAQ-DI), ağrı değerlendirmesi ve yüksek hassasiyetli C-reaktif proteinde (hsCRP)
+plaseboya kıyasla iyileşme ile sonuçlanmıştır.
+15
+)%(
+ınaro
+tınay
+RCA
+Başlangıç 4. hafta 8. hafta 12. hafta 16. hafta 241.6 h. ahfataft a
+Ziyaret
+Plasebo N=481 Risankizumab N=483Risankizumab ile tedavi, PsA’lı hastalarda psöriyazise ilişkin cilt bulgularında istatistiksel
+açıdan anlamlı iyileşme ile sonuçlanmıştır.
+Risankizumab ile tedavi, KEEPSAKE1’de başlangıçta tırnak psöriyazisi olan hastalarda
+(%67,3) modifiye Tırnak Psöriyazisi Şiddet İndeksinde (mNAPSI) ve 5 puanlı Hekimin Tırnak
+Psöriyazisine İlişkin Genel Değerlendirmesi (PGA-F) skorlarında istatistiksel açıdan anlamlı
+iyileşme ile sonuçlanmıştır. Bu iyileşme 52. haftaya kadar sürdürülmüştür (bkz. Tablo 7).
+Tablo 7: KEEPSAKE1’de tırnak psöriyazisi etkililik sonuçları
+Plasebo Risankizumab
+N=338 N=309
+Başlangıca göre mNAPSI değişikliği a
+24. Hafta -5,57 -9,76 b
+52. Hafta - -13,64
+Başlangıca göre PGA-F değişikliği a
+24. Hafta -0,4 -0,8 b
+52. Hafta - -1,2
+PGA-F belirgin/minimal ve ≥2-derece iyileşme c
+24. Hafta n (%) 30 (15,9) 71
+(37,8) d
+52. Hafta n (%) - 105 (58,0)
+a. Başlangıçta tırnak psöriyazisi olan hastalar için özetlenmiştir (Plasebo N=338; risankizumab
+N=309; 52. Haftada, mNAPSI için, gözlemlenen risankizumab N=290, PGA-F, gözlemlenen
+risankizumab N=291).
+b. Çoklu kontrollü p≤0,001 risankizumab – plasebo karşılaştırması.
+c. Başlangıçta tırnak psöriyazisi ve “Hafif”, “Orta” veya “Şiddetli” PGA-F genel global
+değerlendirmesi olan hastalar için özetlenmiştir (Plasebo N=190; risankizumab N=188, 52.
+Haftada, gözlemlenen risankizumab N=181).
+d. Nominal p≤0,001 risankizumab – plasebo karşılaştırması.
+Radyografik yanıt
+KEEPSAKE1’de, yapısal hasarda ilerlemenin engellenmesi radyografik olarak
+değerlendirilmiş ve başlangıca kıyasla 24. haftada modifiye Total Sharp Skorunda (mTSS)
+değişiklik olarak ifade edilmiştir. mTSS skoru, el distal interfalengeal (DIP) eklemlerinin
+eklenmesi ile PsA için değiştirilmiştir. 24. haftada, plaseboya kıyasla (ortalama mTSS 0,32)
+risankizumab (ortalama mTSS 0,23) ile yapısal hasardaki ortalama ilerleme istatistiksel açıdan
+anlamlı olmamıştır. 24. haftada, radyografik ilerleme olmayan hastaların oranı (mTSS’de
+başlangıca göre değişikliğin ≤0 olması olarak tanımlanır), plaseboya kıyasla (%87,7)
+risankizumab kolunda (%92,4) daha yüksek olmuştur. Bu yanıt, 52. haftaya kadar
+sürdürülmüştür.
+Fiziksel fonksiyon ve sağlıkla ilgili yaşam kalitesi
+Her iki çalışmada da risankizumab ile tedavi gören hastalar, HAQ-DI ile değerlendirilen fiziksel
+fonksiyonda 24. haftada plaseboya kıyasla başlangıca göre istatistiksel açıdan anlamlı iyileşme
+göstermiştir (plaseboya kıyasla (-0,11) (p≤0,001) KEEPSAKE1 (-0,31), plaseboya kıyasla (-
+0,05) (p≤0,001) KEEPSAKE2 (-0,22)). 24. haftada, plaseboya kıyasla risankizumab grubunda
+başlangıca göre HAQ-DI skorunda en az 0,35 değerinde klinik açıdan anlamlı azalma sağlanan
+16daha yüksek bir sağlıklı hasta oranına erişilmiştir. Fiziksel fonksiyondaki iyileşmeler 52.
+haftaya kadar sürdürülmüştür.
+Her iki çalışmada da risankizumab ile tedavi gören hastalar, SF-36 V2 fiziksel bileşen özeti
+skorlarında ve 24. haftada FACIT-Yorgunluk skorlarında plaseboya kıyasla anlamlı iyileşmeler
+göstermiş ve iyileşmeler 52. haftaya kadar sürdürülmüştür.
+Başlangıçta, psöriyatik spondilit, KEEPSAKE1’deki hastaların %19,6’sında (%7,9’u radyograf
+veya MRG ile teşhis edilmiştir) ve KEEPSAKE2’nin %19,6’sında (radyograf veya MRG ile
+teşhis edilmiştir) bildirilmiştir. Risankizumab ile tedavi görmüş olan, klinik olarak
+değerlendirilmiş psöriyatik spondilitli hastalar, 24. haftada plaseboya kıyasla Bath Ankilozan
+Spondilit Hastalık Aktivite İndeksi (BASDAI) skorlarında iyileşmeler göstermiştir. İyileşmeler
+52. haftaya kadar korunmuştur. Çalışmaya az sayıda hasta dahil olduğundan, radyograf ya da
+MRG ile doğrulanmış ankilozan spondilit benzeri psöriyatik artropatili hastalarda
+risankizumabın etkililiğine ilişkin yeterli kanıt yoktur.
+Pediyatrik popülasyon
+Pediyatrik kullanıma yönelik bilgiler için bkz. Bölüm 4.2.
+5.2 Farmakokinetik özellikler
+Risankizumabın farmakokinetiği, plak psöriyazisi olan hastalar ve psöriyatik artriti olan
+hastalar arasında benzerdir.
+Genel özellikler
+Emilim:
+Risankizumab, subkütan olarak uygulanan 18 ila 300 mg ve 0,25 ila 1 mg/kg ve ayrıca
+intravenöz olarak uygulanan 200 ila 1.200 mg ve 0,01 ila 5 mg/kg doz aralıklarındaki
+maruziyette, doz orantılı artışla birlikte doğrusal farmakokinetik sergilemiştir.
+Risankizumabın subkütan dozlamasının ardından, tahmini %89 mutlak biyoyararlanımla
+birlikte dozlamadan sonra 3 ila 14 gün arasında tepe plazma konsantrasyonlarına ulaşılmıştır.
+0. haftada, 4. haftada ve bunun ardından 12 haftada bir 150 mg şeklindeki dozlama rejiminde
+tahmini kararlı durum tepe konsantrasyonu ve tahmini çukur plazma konsantrasyonları
+sırasıyla 12 ve 2 mikrogram/mL'dir.
+Dağılım:
+Faz 3 çalışmalarında psöriyazisi olan hastalarda risankizumabın ortalama (±standart sapma)
+kararlı durum dağılım hacmi (V ) 11,4 (±2,7) L olup, risankizumabın dağılımının öncelikli
+ss
+olarak vasküler ve interstisyel boşluklarla sınırlı olduğunu göstermektedir.
+Biyotransformasyon:
+Terapötik IgG monoklonal antikorlar tipik olarak, endojen IgG'ler ile aynı şekildeki katabolik
+yollarla küçük peptitler ve amino asitlere bozunur. Risankizumabın sitokrom P450 enzimleri
+tarafından metabolize edilmesi beklenmemektedir.
+Eliminasyon:
+Faz 3 çalışmalarında psöriyazisi olan hastalarda risankizumabın ortalama (±standart sapma)
+sistemik klerensi (CL) 0,3 (±0,1) L/gündür ve risankizumabın ortalama terminal eliminasyon
+yarılanma ömrü, Faz 3 çalışmalarında psöriyazisi olan hastalarda 28-29 gün aralığındadır.
+17Bir IgG1 monoklonal antikoru olarak risankizumabın böbreklerde glomerüler filtrasyonla
+süzülmesi veya değişmemiş molekül olarak idrarla atılması beklenmemektedir.
+Doğrusallık/doğrusal olmayan durum:
+Risankizumab, sağlıklı hastalarda veya psöriyazisi olan hastalarda subkütan olarak uygulanan
+18 ila 300 mg ya da 0,25 ila 1 mg/kg doz aralığı değerlendirmelerinde sistematik maruziyette
+(C ve EAA) yaklaşık olarak doz orantılı artışla birlikte doğrusal farmakokinetik
+maks
+sergilemiştir.
+Etkileşimler
+Plak psöriyazisi olan hastalarda, risankizumabın tekrarlanan uygulamasının sitokrom P450
+(CYP) duyarlı prob substratlarının farmakokinetiği üzerindeki etkisini değerlendirmek için bir
+etkileşim çalışması yürütülmüştür. Risankizumab tedavisinin ardından kafein (CYP1A2
+substratı), varfarin (CYP2C9 substratı), omeprazol (CYP2C19 substratı), metoprolol (CYP2D6
+substratı) ve midazolam (CYP3A substratı) maruziyeti, risankizumab tedavisi öncesideki
+maruziyetleriyle karşılaştırılabilir ölçüde idi, bu da bu enzimlerle klinik olarak anlamlı
+etkileşim olmadığını belirtmektedir.
+Popülasyon farmakokinetik analizleri risankizumab maruziyetinin, klinik çalışmalar sırasında
+plak psöriyazisi olan ya da psöriyatik artriti olan hastalar tarafından kullanılan eşzamanlı
+tedaviler tarafından etkilenmediğini göstermektedir.
+Hastalardaki karekteristik özellikler
+Pediyatrik popülasyon:
+Risankizumabın pediyatrik hastalardaki farmakokinetiği belirlenmemiştir.
+Yaşlı popülasyon:
+Risankizumabı kullanan plak psöriyazisli 2.234 hasta arasından 243'ü 65 yaş veya üstü olup,
+24 hasta ise 75 yaş veya üstüdür. Risankizumabı kullanan psöriyatrik artritli 1.542 hastanın
+246’sı 65 yaş veya üstü, 34’ü ise 75 yaş veya üstüdür. Risankizumab alan yaşlı ve genç hastalar
+arasında risankizumab maruziyetinde genel bir farklılık gözlemlenmemiştir.
+Karaciğer / böbrek yetmezliği:
+Karaciğer ya da böbrek yetmezliğinin risankizumabın farmakokinetiği üzerindeki etkisini
+değerlendirmek amaçlı özel bir çalışma yürütülmemiştir. Popülasyon farmakokinetik
+analizlerine dayanarak, serum kreatinin seviyeleri, kreatinin klerensi veya karaciğer fonksiyon
+belirteçleri (ALT/AST/bilirubin), plak psöriyazisli ya da psöriyatik artritli hastalarda
+risankizumabın klerensi üzerinde anlamlı bir etki göstermemiştir.
+IgG1 monoklonal antikoru olarak, risankizumab temelde hücre içi katabolizmayla elimine edilir
+ve karaciğer P450 sitokrom enzimleri ya da böbrek eliminasyonuyla metabolizmaya uğraması
+beklenmemektedir.
+Vücut ağırlığı:
+Risankizumab klerensi ve dağılım hacmi vücut ağırlığı ile birlikte artar, bu da vücut ağırlığının
+yüksek olduğu (> 130 kg) hastalarda etkililiği azaltabilir. Ancak, bu gözlem sınırlı sayıda
+hastayı temel almaktadır. Halen vücut ağırlığına göre doz ayarlaması önerilmemektedir.
+18Cinsiyet veya ırk:
+Risankizumabın klerensi plak psöriyazisi olan ya da psöriyatik artriti olan yetişkin hastalarda
+cinsiyet veya ırktan anlamlı ölçüde etkilenmemiştir. Sağlıklı hastalar üzerinde yapılan bir klinik
+farmakokinetik çalışmasında, beyaz ırk hastalarına kıyasla, Çinli veya Japon hastalarda
+risankizumab maruziyeti bakımından klinik olarak anlamlı farklılıklar gözlemlenmemiştir.
+5.3 Klinik öncesi güvenlilik verileri
+Klinik dışı veriler, güvenlilik farmakolojisi değerlendirmeleri dahil tekrar-doz toksisitesi
+çalışmalarına ve sinomolgus maymunlarında 50 mg/kg/hafta'ya kadar dozlarda gelişmiş bir
+doğum öncesi ve sonrası (maksimum önerilen insan dozundaki (MRHD) klinik maruziyetin
+yaklaşık 70 katı düzeyinde maruziyet üreten) gerçekleştirilen bir üreme toksisitesi ve gelişimsel
+toksisite çalışmasına dayanarak, insanlar için özel bir tehlike ortaya koymamıştır.
+Risankizumab ile mutajenisite ve karsinojenisite çalışmaları gerçekleştirilmemiştir.
+Sinomolgus maymunlarında 50 mg/kg/hafta'ya kadar dozlarda (MRHD’de klinik maruziyetin
+yaklaşık 70 katı) gerçekleştirilen 26 haftalık bir kronik toksikoloji çalışmasında pre-neoplastik
+veya neoplastik lezyonlar gözlemlenmemiştir ve advers immunotoksisite ya da advers
+kardiyovasküler etkiler kaydedilmemiştir.
+6. FARMASÖTİK ÖZELLİKLER
+6.1 Yardımcı maddelerin listesi
+Sodyum asetat trihidrat (E262)
+Asetik asit (E260)
+Trehaloz dihidrat
+Polisorbat 20
+Enjeksiyonluk su
+6.2 Geçimsizlikler
+Geçimlilik çalışmaları mevcut olmadığından, bu tıbbi ürün diğer tıbbi ürünlerle
+karıştırılmamalıdır.
+6.3 Raf ömrü
+24 ay
+6.4 Saklamaya yönelik özel uyarılar
+2ºC-8ºC arasında buzdolabında saklanmalıdır. Dondurulmamalıdır.
+Kullanıma hazır enjektör, ışıktan korunmak için, kullanım anına kadar orijinal ambalaj
+kutusunda saklanmalıdır.
+Skyrizi 150 mg kullanıma hazır enjektör, ışıktan korumak için orijinal ambalaj kutusunda,
+buzdolabının dışında (maksimum 25°C'ye kadar) 24 saate kadar saklanabilir.
+196.5 Ambalajın niteliği ve içeriği
+SKYRIZI otomatik iğne muhafazasına yerleştirilmiş, sabit iğne ve iğne kapağına sahip
+kullanıma hazır cam enjektör içerisinde bulunmaktadır.
+Her bir ambalaj, 1 adet kullanıma hazır enjektör içermektedir.
+6.6 Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+Enjeksiyondan önce kutu buzdolabından çıkarılır ve kutudan çıkartmadan kullanıma hazır
+enjektörlerin, doğrudan güneş ışığı almayacak şekilde (15 ila 30 dakika süreyle) oda sıcaklığına
+gelmesi beklenmelidir.
+Çözelti, renksiz ila sarı renkli ve berrak ila hafif opalesan olmalıdır.
+Genel özel önlemler
+Kullanım öncesinde, kullanıma hazır enjektörlerin her birinin gözle kontrol edilmesi tavsiye
+edilmektedir. Çözelti ürün ile ilgili birkaç yarısaydam veya beyaz renkte partikül içerebilir.
+Çözeltinin bulanık olması veya renginde değişiklik olması veya büyük parçacıkları içermesi
+durumunda SKYRIZI kullanılmamalıdır.
+Kullanma Talimatı’nda ürünün kullanımına dair kapsamlı bilgi sunulmuştur.
+Her kullanıma hazır enjektör yalnızca tek kullanımlıktır.
+Tüm kullanılmayan ürün veya atık maddeler “Tıbbi Atıkların Kontrolü” ve “Ambalaj
+Atıklarının Kontrolü” yönetmeliklerine uygun olarak imha edilmelidir.
+7. RUHSAT SAHİBİ
+AbbVie Tıbbi İlaçlar Sanayi ve Ticaret Limited Şirketi
+Barbaros Mah. Begonya Sk.
+Nidakule Ataşehir Batı Blok
+No: 1 İç Kapı No: 33
+34746 Ataşehir / İstanbul
+Tel : 0216 636 06 00
+Faks : 0216 425 09 69
+8. RUHSAT NUMARASI
+2023/124
+89. İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi: 30.03.2023
+Ruhsat yenileme tarihi:
+10. KÜB'ÜN YENİLENME TARİHİ
+20

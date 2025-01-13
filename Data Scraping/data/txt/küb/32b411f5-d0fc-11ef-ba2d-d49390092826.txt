@@ -1,0 +1,909 @@
+KISA ÜRÜN BİLGİSİ
+▼ Bu ilaç ek izlemeye tabidir. Bu üçgen yeni güvenlilik bilgisinin hızlı olarak belirlenmesini
+sağlayacaktır. Sağlık mesleği mensuplarının şüpheli advers reaksiyonları TÜFAM’a
+bildirmeleri beklenmektedir. Bakınız Bölüm 4.8 Advers reaksiyonlar nasıl raporlanır?
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+MOUNJARO® 15 mg / 0,5 mL enjeksiyonluk çözelti
+Steril
+2. KALİTATİF VE KANTİTATİF BİLEŞİMİ
+Etkin madde:
+Her bir flakon 0,5 mL çözelti içinde 15 mg tirzepatid içerir.
+Yardımcı maddeler:
+Yardımcı maddelerin tamamı için bkz. Bölüm 6.1.
+3. FARMASÖTİK FORM
+Enjeksiyonluk çözelti (enjeksiyon).
+Berrak, renksiz ila hafif sarı renkli çözelti.
+4. KLİNİK ÖZELLİKLER
+4.1 Terapötik endikasyonlar
+MOUNJARO; yeterli düzeyde kontrol altında tutulamayan Tip 2 diabetes mellitusu olan
+erişkinlerin tedavisinde diyet ve egzersize ek olarak aşağıdaki şekilde endikedir:
+- İntolerans veya kontrendikasyonlar nedeniyle metformin kullanımının uygun
+bulunmadığı durumlarda monoterapi olarak
+- diyabet tedavisinde diğer tıbbi ürünlere (DPP-4 inhibitörleri ve diğer GLP-1 reseptör
+analogları hariç) ek olarak.
+Kombinasyonlar, glisemik kontrol, kilo ve kardiyovasküler olaylar üzerindeki etkiler ve
+çalışılan popülasyonlara ilişkin çalışma bulguları için bkz. Bölüm 4.4, 4.5 ve 5.1.
+4.2 Pozoloji ve uygulama şekli
+Pozoloji/uygulama sıklığı ve süresi
+Tirzepatidin başlangıç dozu haftada bir kez 2,5 mg’dır. Bu doz, 4 hafta sonunda haftada bir kez
+5 mg'a yükseltilmelidir. Gerekirse, mevcut doz en az 4 hafta kullanıldıktan sonra 2,5 mg’lık
+artırımlarla doz artışı yapılabilir.
+Önerilen idame dozlar 5, 10 ve 15 mg’dır.
+Maksimum doz haftada bir kez 15 mg'dır.
+Tirzepatid mevcut metformin ve/veya sodyum-glukoz yardımcı taşıyıcı 2 inhibitörü (SGLT2i)
+tedavisine eklendiğinde, metformin ve/veya SGLT2i’nin mevcut dozuna devam edilebilir.
+Tirzepatid mevcut bir sülfonilüre ve/veya insülin tedavisine eklendiğinde, hipoglisemi riskinin
+azaltılması için sülfonilüre veya insülin dozunda azaltım yapılması düşünülebilir. Sülfonilüre
+1/21ve insülin dozunun ayarlanması için kendi kendine kan şekeri takibi yapılması gereklidir.
+İnsülin azaltımı için kademeli bir yaklaşım önerilir (bkz. Bölüm 4.4 ve 4.8).
+Atlanan dozlar
+Bir doz atlandığı takdirde, dozun atlanmasından sonraki 4 gün içinde mümkün olan en kısa
+sürede uygulanmalıdır. Eğer 4 günden fazla zaman geçtiyse, atlanan doz iptal edilmeli ve bir
+sonraki doz düzenli olarak planlanan günde uygulanmalıdır. Her durumda, hastalar daha sonra
+haftada bir kez şeklindeki düzenli doz programlarına devam edebilirler.
+Dozlama programını değiştirme
+Haftalık uygulama sırasında gerektiğinde uygulama günü değiştirilebilir; ancak bunun için son
+dozun en az 3 gün önce uygulanmış olması gerekir.
+Uygulama şekli:
+MOUNJARO karın, uyluk veya üst koldan subkutan yoldan enjekte edilir.
+Doz, yemekle birlikte veya yemekten ayrı olarak günün herhangi bir saatinde uygulanabilir.
+Enjeksiyon bölgesi her dozda değiştirilmelidir. Bir hasta ayrıca insülin enjekte ediyorsa,
+MOUNJARO’yu farklı bir enjeksiyon bölgesine enjekte etmelidir.
+Hastalara, tıbbi ürünü uygulamadan önce kullanma talimatında yer alan yönergeleri dikkatlice
+okumaları tavsiye edilmelidir.
+Hastalar ve bakım sağlayanlar, MOUNJARO'yu uygulamadan önce uygun enjeksiyon tekniği
+konusunda eğitilmelidir.
+Uygulamadan önce daha fazla bilgi için Bölüm 6.6'ya bakınız.
+Özel popülasyonlara ilişkin bilgiler
+Yaşa, cinsiyete, ırka, etnik kökene veya vücut ağırlığına bağlı olarak doz ayarlaması gerekli
+değildir (bkz. Bölüm 5.1 ve 5.2).
+Böbrek yetmezliği:
+Son dönem böbrek hastalığı (SDBH) dahil olmak üzere böbrek yetmezliği olan hastalarda doz
+ayarlaması gerekli değildir. Şiddetli böbrek yetmezliği ve SDBH olan hastalarda tirzepatid
+kullanımına ilişkin deneyim sınırlıdır. Bu hastaların tirzepatid ile tedavisinde dikkatli
+olunmalıdır (bkz. Bölüm 5.2).
+Karaciğer yetmezliği:
+Karaciğer yetmezliği olan hastalarda doz ayarlaması gerekli değildir. Şiddetli karaciğer
+yetmezliği olan hastalarda tirzepatid kullanımına ilişkin deneyim sınırlıdır. Bu hastaların
+tirzepatid ile tedavisinde dikkatli olunmalıdır (bkz. Bölüm 5.2).
+Pediyatrik popülasyon:
+Tirzepatidin 18 yaş altı çocuklarda güvenliliği ve etkililiği henüz belirlenmemiştir. Bu konuyla
+ilgili veri yoktur.
+Geriyatrik popülasyon:
+Yaşa bağlı olarak doz ayarlaması gerekli değildir.
+2/214.3 Kontrendikasyonlar
+Etkin maddeye veya Bölüm 6.1’de listelenen yardımcı maddelerden herhangi birine karşı aşırı
+duyarlılık.
+4.4 Özel kullanım uyarıları ve önlemleri
+Akut pankreatit
+Tirzepatid, pankreatit öyküsü olan hastalarda çalışılmamıştır ve bu hastalarda dikkatli
+kullanılmalıdır.
+Tirzepatid ile tedavi edilen hastalarda akut pankreatit bildirilmiştir.
+Hastalar akut pankreatitin semptomları konusunda bilgilendirilmelidir. Pankreatit şüphesi
+olduğu takdirde tirzepatid tedavisi kesilmelidir. Pankreatit tanısının doğrulanması halinde
+tirzepatid tedavisi tekrar başlatılmamalıdır. Akut pankreatitin diğer bulgu ve semptomları
+yokken tek başına pankreatik enzimlerde artış olması, akut pankreatit göstergesi değildir (bkz.
+Bölüm 4.8).
+Hipoglisemi
+Bir insülin salınım artırıcı ajanı (insülin sekretagoğu, örneğin bir sülfonilüre) veya insülin ile
+kombinasyon halinde tirzepatid kullanan hastalarda hipoglisemi riski artabilir. Hipoglisemi
+riski, insülin salınım artırıcı ajanı veya insülin dozunun düşürülmesiyle azaltılabilir (bkz.
+Bölüm 4.2 ve 4.8).
+Gastrointestinal etkiler
+Tirzepatid bulantı, kusma ve diyareyi içeren gastrointestinal advers reaksiyonlarla
+ilişkilendirilmiştir (bkz. Bölüm 4.8). Bu advers reaksiyonlar dehidrasyona neden olabilir ve bu
+da akut böbrek yetmezliği dahil olmak üzere böbrek fonksiyonunun kötüleşmesine yol açabilir.
+Tirzepatid ile tedavi edilen hastalar, gastrointestinal advers reaksiyonlara bağlı potansiyel
+dehidrasyon riski konusunda bilgilendirilmeli ve sıvı kaybına ve elektrolit bozukluklarını
+önlemeye yönelik gerekli önlemleri almalıdır. Bu tür komplikasyonlara daha duyarlı olabilecek
+yaşlılarda bu durum özellikle dikkate alınmalıdır.
+Şiddetli gastrointestinal hastalık
+Tirzepatid, şiddetli gastroparezi dahil şiddetli gastrointestinal hastalığı olan hastalarda
+çalışılmamıştır ve bu hastalarda dikkatli kullanılmalıdır.
+Diyabetik retinopati
+Tirzepatid, akut tedavi gerektiren non-proliferatif diyabetik retinopati, proliferatif diyabetik
+retinopati veya diyabetik makula ödemi olan hastalarda çalışılmamıştır ve bu hastalarda uygun
+izleme ile dikkatli kullanılmalıdır.
+Yaşlılarda
+Seksen beş yaş ve üzeri hastalara ilişkin veriler sınırlıdır.
+Sodyum içeriği
+MOUNJARO her doz başına 1 mmol’den az (23 mg) sodyum içerir, yani aslında “sodyum
+içermez”.
+3/214.5 Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+Tirzepatid, mide boşalmasını geciktirir ve dolayısıyla eşzamanlı olarak uygulanan oral tıbbi
+ürünlerin emilim hızını etkileme potansiyeline sahiptir. Bu etki sonucunda azalmış C ve
+max
+gecikmiş bir t en çok tirzepatid tedavisinin başlangıcında belirgindir.
+max
+Tirzepatidin mide boşalması üzerindeki etkisinin değerlendirmek için model tıbbi ürün olarak
+kullanılan parasetamol ile yapılan bir çalışmanın sonuçlarında, eşzamanlı olarak uygulanan
+oral tıbbi ürünlerde doz ayarlaması gerekmemektedir. Ancak terapötik indeksi dar olan
+(varfarin, digoksin gibi) oral ilaçları kullanan hastaların özellikle tirzepatid tedavisinin
+başlangıcında ve doz artışını takiben izlenmesi önerilmektedir. Hızlı etki başlangıcının önemli
+olduğu oral tıbbi ürünler için gecikmiş etki riski de göz önünde bulundurulmalıdır.
+Parasetamol
+Tek doz 5 mg tirzepatidin ardından, parasetamolün maksimum plazma konsantrasyonu (C )
+maks
+%50 azalmıştır ve medyan (t ) 1 saat gecikmiştir. Tirzepatidin, parasetamolün oral
+maks
+absorpsiyonu üzerindeki etkisi doza ve zamana bağlıdır. Düşük dozlarda (0,5 ve 1,5 mg),
+parasetamol maruziyetinde yalnızca küçük bir değişiklik olmuştur. Ardışık dört haftalık
+tirzepatid dozundan sonra (5/5/8/10 mg), parasetamolün C ve t değerleri üzerinde
+max max
+herhangi bir etki gözlenmemiştir. Genel maruz kalma (AUC) etkilenmemiştir. Tirzepatid ile
+birlikte uygulandığında parasetamol doz ayarlaması gerekli değildir.
+Oral kontraseptifler
+Tek doz tirzepatid (5 mg) varlığında kombine bir oral kontraseptifin (0,035 mg etinil östradiol
+ve 0,25 mg norgestimat (norelgestrominin ön ilacı)) uygulanması, eğri altındaki alanın
+azalmasına yol açmıştır. Dört saatlik t gecikmesiyle etinil estradiol C %59 ve EAA %20
+max max
+azaltılmıştır. Dört buçuk saatlik t gecikmesiyle norelgestromin C %55 ve EAA %23
+max max
+azaltılmıştır. İki buçuk saatlik t gecikmesiyle norgestimat C %66 ve EAA %20
+max max
+azaltılmıştır. Tek bir tirzepatid dozundan sonra maruziyetteki bu azalma klinik açıdan anlamlı
+kabul edilmemektedir. Oral kontraseptiflerin dozunda ayarlama yapılması gerekli değildir.
+Özel popülasyonlara ilişkin ek bilgiler
+Hiçbir etkileşim çalışması yapılmamıştır.
+Pediyatrik popülasyon:
+Hiçbir etkileşim çalışması yapılmamıştır.
+4.6 Gebelik ve laktasyon
+Genel tavsiye
+Gebelik Kategorisi: C
+Çocuk doğurma potansiyeli olan kadınlar/doğum kontrolü (Kontrasepsiyon)
+Tedavi sırasında gebe kalan ya da gebe kalmayı planlayan hastaların bu durumu hekimlerine
+bildirmeleri önerilmelidir.
+Gebelik dönemi
+MOUNJARO’nun gebe kadınlarda kullanımına ilişkin yeterli veri mevcut değildir.
+Hayvanlar üzerinde yapılan araştırmalar üreme toksisitesinin bulunduğunu göstermiştir (bkz.
+Bölüm 5.3). İnsanlara yönelik potansiyel risk bilinmemektedir.
+4/21MOUNJARO gebelik döneminde, ancak potansiyel yararlar fetusun maruz kalabileceği
+potansiyel risklerden fazla olduğu sürece kullanılmalıdır.
+Tirzepatidin gebe kadınlarda kullanımıyla ilgili veri yoktur veya mevcut veriler sınırlıdır.
+Hayvanlarda yapılan çalışmalarda üreme toksisitesi gösterilmiştir (bkz. Bölüm 5.3). Gebelikte
+ve doğum kontrol yöntemi kullanmayan çocuk doğurma potansiyeli olan kadınlarda tirzepatid
+kullanımı önerilmemektedir.
+Laktasyon dönemi
+Tirzepatidin insanlarda anne sütüne geçip geçmediği bilinmemektedir. Yenidoğan/bebek ile
+ilgili risk göz ardı edilemez.
+Emzirmeye ara verilmesi veya tirzepatid tedavisine ara verilmesi/tirzepatid tedavisinden
+kaçınılması konusunda karar verilirken, emzirmenin çocuğa sağlayacağı yarar ile tedavinin
+kadına sağlayacağı yarar dikkate alınmalıdır.
+Üreme yeteneği (fertilite)
+Tirzepatidin insanlarda fertilite üzerindeki etkisi bilinmemektedir.
+Tirzepatidin hayvan çalışmalarında fertilite ile ilgili herhangi bir doğrudan zararlı etki
+gösterilmemiştir (bkz. Bölüm 5.3).
+4.7 Araç ve makine kullanımı üzerindeki etkiler
+Tirzepatid araç veya makine kullanım yeteneği üzerinde etki göstermez veya ihmal edilebilir
+etki gösterir. Tirzepatid bir sülfonilüre veya insülin ile kombinasyon halinde kullanıldığında,
+hastaların araç ve makine kullanımı sırasında hipoglisemiden kaçınmak için önlem almaları
+tavsiye edilmelidir (bkz. Bölüm 4.4).
+Araç kullanımı için tehlikeli farmakodinamik etkiler, kişinin duyarlılığına göre daha baskındır
+(ilaç alımının araç kullanımına uygunluğu olgu bazında değerlendirilmelidir). İlacın alınması
+bazı durumlarda araç kullanma becerilerini etkileyebilir ve bir sağlık mesleği mensubuna
+danışılması gerekir.
+4.8 İstenmeyen etkiler
+Güvenlilik profilinin özeti
+Tamamlanmış olan 7 faz 3 çalışmada, 5119 hasta tek başına veya diğer glukoz düşürücü tıbbi
+ürünlerle kombinasyon halinde tirzepatide maruz kalmıştır. En sık bildirilen advers
+reaksiyonlar bulantı (çok yaygın), diyare (çok yaygın) ve kusma (yaygın) dahil olmak üzere
+gastrointestinal hastalıklardır. Genel olarak, bu reaksiyonların çoğu hafif veya orta şiddette
+seyretmiştir ve doz artırma esnasında daha sık meydana gelip, zamanla azalmıştır (bkz. Bölüm
+4.2 ve 4.4).
+Advers reaksiyonların tablo halinde listesi
+Klinik çalışmalarda bildirilen ilgili advers reaksiyonlar aşağıda sistem organ sınıfına göre ve
+azalan sıklığa göre listelenmiştir (çok yaygın: ≥1/10; yaygın: ≥1/100 ila <1/10; yaygın
+olmayan: ≥1/1.000 ila <1/100; seyrek: ≥1/10.000 ila <1/1.000; çok seyrek: <1/10.000). Advers
+reaksiyonlar her bir insidans grubunda azalan sıklığa göre sunulmuştur.
+5/21Tablo 1. Advers reaksiyonlar
+Sistem organ Çok yaygın Yaygın Yaygın olmayan
+sınıfı
+Bağışıklık Aşırı duyarlılık reaksiyonları
+sistemi
+hastalıkları
+Metabolizma ve Sülfonilüre veya Metformin ve SGLT2i ile birlikte Metformin ile birlikte
+beslenme insülin ile birlikte kullanıldığında hipoglisemi* kullanıldığında
+hastalıkları kullanıldığında hipoglisemi*, kilo kaybı
+hipoglisemi* İştah kaybı
+Gastrointestinal Bulantı, diyare Karın ağrısı, kusma, Kolelitiyazis, akut pankreatit
+hastalıklar dispepsi, kabızlık, abdominal
+distansiyon, geğirme, gaz,
+gastroözofageal reflü hastalığı
+Genel Yorgunluk†, Enjeksiyon bölgesinde ağrı
+bozukluklar ve enjeksiyon bölgesi reaksiyonları
+uygulama
+bölgesine ilişkin
+hastalıklar
+Araştırmalar Kalp atım hızında artış, lipaz Kan kalsitonun artışı
+artışı, amilaz artışı
+* Hipoglisemi aşağıda tanımlanmıştır.
+† Yorgunluk; yorgunluk, asteni, halsizlik ve uyuşukluk terimlerini içerir.
+Seçili advers reaksiyonların tanımı
+Aşırı duyarlılık reaksiyonları
+Plasebo kontrollü çalışmaların havuzunda tirzepatid ile bazen şiddetli (örn. ürtiker ve egzama)
+aşırı duyarlılık reaksiyonları bildirilmiştir; tirzepatid ile tedavi edilen hastaların %3,2'sinde,
+plasebo ile tedavi edilen hastaların %1,7'sinde aşırı duyarlılık reaksiyonları bildirilmiştir.
+Hipoglisemi
+Klinik açıdan önemli hipoglisemi (kan glukozu <3 mmol/L (<54 mg/dL) veya şiddetli
+hipoglisemi (başka bir kişinin desteğini gerektiren)), tirzepatid sülfonilüreye eklendiğinde
+hastaların %10 ila 14’ünde (0,14 ila 0,16 olay/hasta yılı) ve tirzepatid bazal insüline
+eklendiğinde hastaların %14 ila 19’unda (0,43 ila 0,64 olay/hasta yılı) meydana gelmiştir.
+Tirzepatid monoterapi olarak kullanıldığında veya diğer oral antidiyabetik tıbbi ürünlere
+eklendiğinde, klinik açıdan önemli hipoglisemi oranı 0,04 olay/hasta yılı olmuştur (bkz. Tablo
+1 ve Bölüm 4.2, 4.4 ve 5.1).
+Faz 3 klinik çalışmalarda, 10 hastada (%0,2) 12 şiddetli hipoglisemi epizodu bildirilmiştir. Her
+biri 1 epizod bildiren 10 hastadan 5'i (%0,1) insülin glarjin veya sülfonilüre geçmişine sahiptir.
+Gastrointestinal advers reaksiyonlar
+Plasebo kontrollü faz 3 çalışmalarında, tirzepatid 5 mg (%37,1), 10 mg (%39,6) ve 15 mg
+(%43,6) için gastrointestinal bozukluklar, plaseboya (%20,4) kıyasla doza bağlı olarak
+artmıştır. Plaseboya karşı tirzepatid 5 mg, 10 mg ve 15 mg için %12,2, %15,4 ve %18,3'e karşı
+%4,3 bulantı ve %11,8, %13,3 ve %16,2'ye karşılık %8,9 diyare meydana gelmiştir.
+6/21Gastrointestinal advers reaksiyonlar çoğunlukla hafif (%74) veya orta (%23,3) şiddetli
+olmuştur. Bulantı, kusma ve diyare insidansı doz artırma döneminde daha yüksek olup,
+zamanla azalmıştır.
+Gastrointestinal olay nedeniyle tirzepatid 5 mg (%3), 10 mg (%5,4) ve 15 mg (%6,6)
+gruplarında plasebo grubuna (%0,4) kıyasla daha fazla hasta tedaviyi kalıcı olarak bırakmıştır.
+İmmünojenisite
+Faz 3 klinik çalışmalarda, tirzepatid ile tedavi edilen 5025 hasta anti-ilaç antikorları (ADA)
+açısından değerlendirilmiştir. Bu hastaların %51,1’i tedavi sırasında ortaya çıkan (TE) ADA'lar
+geliştirmiştir. Değerlendirilen hastaların %38,3’ünde TE ADA’lar kalıcı olmuştur (ADA’lar
+16 hafta boyunca ya da daha uzun süre mevcuttur).
+Tirzepatid ile tedavi edilen 2570 hastadan %1,9’unda ve %2,1’inde sırasıyla glukoza bağımlı
+insülinotropik polipeptid (GIP) ve glukagon benzeri peptid-1 (GLP-1) reseptörlerindeki
+tirzepatid aktivitesine karşı nötralizan antikorlar, %0,9’unda ve %0,4’ünde ise sırasıyla doğal
+GIP ve GLP-1’e karşı nötralizan antikorlar saptanmıştır. ADA gelişimi ile ilişkili olarak
+farmakokinetik profilde bir değişiklik veya tirzepatidin etkililik ve güvenliliği üzerinde bir etki
+olduğuna dair herhangi bir kanıt görülmemiştir.
+Kalp atım hızı
+Plasebo kontrollü faz 3 çalışmalarında, tirzepatid tedavisi, kalp atım hızında dakikada 3 ila 5
+atımlık maksimum ortalama artışla sonuçlanmıştır. Plasebo ile tedavi edilen hastalarda kalp
+hızındaki maksimum ortalama artış dakikada 1 atımdır.
+Ardışık 2 veya daha fazla ziyarette başlangıç kalp hızında > 20 bpm değişiklik olan hastaların
+insidansı, tirzepatid 5 mg, 10 mg ve 15 mg için sırasıyla %2,1, %3,8 ve %2,9 iken plasebo için
+%2,1’dir.
+Plaseboya kıyasla tirzepatid ile PR aralığında küçük ortalama artışlar gözlenmiştir (sırasıyla
+ortalama 1,4 ila 3,2 milisaniye artış ve ortalama 1,4 milisaniye azalma). Tirzepatid 5 mg, 10
+mg, 15 mg ve plasebo arasında aritmi ve kardiyak iletim bozukluğu tedavisinde ortaya çıkan
+olaylarda fark gözlenmemiştir (sırasıyla %3,8, %2,1, %3,7 ve %3).
+Enjeksiyon bölgesi reaksiyonları
+Plasebo kontrollü faz 3 çalışmalarında, plaseboya (%0,4) kıyasla tirzepatid (%3,2) için
+enjeksiyon yeri reaksiyonları artmıştır.
+Genel olarak, faz 3 çalışmalarında, enjeksiyon bölgesi reaksiyonlarının en yaygın belirti ve
+semptomları eritem ve kaşıntıdır. Hastalar için enjeksiyon yeri reaksiyonlarının maksimum
+şiddeti hafif (%90) veya ortadır (%10). Hiçbir enjeksiyon bölgesi reaksiyonu ciddi değildir.
+Pankreas enzimleri
+Plasebo kontrollü faz 3 çalışmalarında, tirzepatid ile tedavi, başlangıca göre pankreas
+amilazında %33 ila %38 ve lipazda %31 ila %42 ortalama artışlarla sonuçlanmıştır. Plasebo ile
+tedavi edilen hastalarda başlangıca göre amilazda %4'lük bir artış olmuştur ve lipazda herhangi
+bir değişiklik gözlenmemiştir.
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine
+7/21olanak sağlar. Sağlık mesleği mensuplarının her türlü şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir (www.titck.gov.tr, e-posta:
+tufam@titck.gov.tr; tel: 0 800 314 00 08; faks: 0 312 218 35 99).
+4.9 Doz aşımı ve tedavisi
+Doz aşımı olması durumunda, hastanın klinik bulgu ve semptomlarına göre uygun destekleyici
+tedavi başlatılmalıdır. Hastalar, bulantı dahil olmak üzere gastrointestinal yan etkiler
+yaşayabilir. Tirzepatid doz aşımı için spesifik bir antidot bulunmamaktadır. Tirzepatidin
+yarılanma ömrü (yaklaşık 5 gün) dikkate alınarak, bu semptomların uzun bir süre
+gözlemlenmesi ve tedavi edilmesi gerekebilir.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1 Farmakodinamik özellikler
+Farmakoterapötik grup: Diyabette kullanılan ilaçlar, insülinler hariç kan şekeri düşürücü
+ilaçlar, insülinler hariç diğer kan şekeri düşürücü ilaçlar
+ATC kodu: A10BX16
+Etki mekanizması
+Tirzepatid, uzun süre etki gösteren bir ikili GIP ve GLP-1 reseptör agonistidir.
+Her iki reseptör de pankreasın α ve β endokrin hücreleri, beyin, kalp, damar sistemi, immün
+hücreler (lökositler), bağırsak ve böbrekte bulunur. GIP reseptörleri adipositlerde de bulunur.
+Tirzepatid insan GIP ve GLP-1 reseptörleri için yüksek oranda seçicidir. Tirzepatid hem GIP
+hem de GLP-1 reseptörlerine karşı yüksek afinite sergiler. Tirzepatidin GIP reseptörü
+üzerindeki aktivitesi, doğal GIP hormonuna benzerdir. Tirzepatidin GLP-1 reseptörü
+üzerindeki aktivitesi, doğal GLP-1 hormonuna kıyasla daha düşük düzeydedir.
+Glisemik kontrol
+Tirzepatid, tip 2 diyabetli hastalarda açlık ve tokluk glukoz konsantrasyonlarını birkaç
+mekanizma aracılığıyla düşürerek glisemik kontrolü iyileştirir.
+Farmakodinamik etkiler
+İnsülin salgılanması
+Tirzepatid, pankreatik β-hücre glukoz duyarlılığını arttırır. Birinci ve ikinci faz insülin
+sekresyonunu glukoz bağımlı bir şekilde arttırır.
+Tip 2 diyabetli hastaların yer aldığı bir hiperglisemik klemp çalışmasında tirzepatid, insülin
+salgısı için plasebo ve seçici GLP-1 reseptör agonisti semaglutid 1 mg ile karşılaştırılmıştır.
+Tirzepatid 15 mg, birinci ve ikinci faz insülin salgılama hızını başlangıca göre sırasıyla %466
+ve %302 oranında artırmıştır. Plasebo için birinci ve ikinci faz insülin salgısı hızında herhangi
+bir değişiklik görülmemiştir.
+İnsülin duyarlılığı
+Tirzepatid, insülin duyarlılığını iyileştirir.
+Tirzepatid 15 mg, hiperinsülinemik öglisemik klemp kullanılarak yapılan ölçümlerde bir doku
+glukoz alımı ölçütü olan M değeriyle ölçüldüğü üzere tüm vücut insülin duyarlılığını %63
+oranında iyileştirmiştir. M değeri plasebo ile değişmemiştir.
+8/21Tirzepatid, tip 2 diyabetli hastalarda vücut ağırlığını düşürür ve bu da insülin duyarlılığında
+iyileşmeye katkıda bulunabilir. Tirzepatid ile yiyecek alımının azalması kilo vermeye katkıda
+bulunur. Vücut ağırlığındaki azalma, büyük ölçüde yağ kütlesindeki azalmadan kaynaklanır.
+Glukagon konsantrasyonu
+Tirzepatid, açlık ve tokluk glukagon konsantrasyonlarını glukoza bağımlı bir şekilde
+azaltmıştır. Tirzepatid 15 mg, karma bir öğün sonrasında açlık glukagon konsantrasyonunu
+%28 ve glukagon EAA’sını %43 oranında azaltırken, plasebo ile herhangi bir değişiklik
+görülmemiştir.
+Mide boşalması
+Tirzepatid mide boşalmasını geciktirir ve bu, öğün sonrası glukoz emilimini yavaşlatabilir ve
+postprandial glisemi üzerinde yararlı bir etki gösterebilir. Tirzepatide bağlı mide
+boşalmasındaki gecikme zamanla azalır.
+Klinik etkililik ve güvenlilik
+Tirzepatidin güvenlilik ve etkililiği, primer amaç olarak glisemik kontrolün değerlendirildiği
+beş adet global, randomize kontrollü faz 3 çalışmada (SURPASS 1-5) değerlendirilmiştir.
+Çalışmalar tip 2 diyabetli tedavi edilen 6263 hastayı (tirzepatid ile tedavi edilen 4199 hasta
+dahil) içermektedir. Sekonder amaçlar arasında vücut ağırlığı, açlık serum glukoz değeri (ASG)
+ve hedef HbA1c düzeyine ulaşan hastaların oranı yer almıştır. Beş faz 3 çalışmanın tamamında
+tirzepatid 5 mg, 10 mg ve 15 mg değerlendirilmiştir. Tirzepatid ile tedavi edilen tüm hastalarda
+tedaviye 4 hafta boyunca 2,5 mg ile başlanmıştır. Daha sonra tirzepatid dozu, hastaların
+atandıkları doza ulaşılana kadar 4 haftada bir 2,5 mg artırılmıştır.
+Tirzepatid ile tedavi, tüm çalışmalar genelinde plasebo veya aktif kontrol (semaglutid, insülin
+degludek ve insülin glarjin) tedavisine kıyasla primer hedef olarak HbA1c düzeyinde
+başlangıca göre istatistiksel olarak ve klinik açıdan anlamlı olup, 1 yıla kadar korunan düşüşler
+sağlamıştır. Çalışmalardan birinde, bu etkiler 2 yıla kadar korunmuştur. Vücut ağırlığında
+başlangıca göre istatistiksel olarak önemli ve klinik olarak anlamlı düşüşler de gösterilmiştir.
+Faz 3 çalışmaların bulguları, yanlışlıkla kayıt yapıldığı için çalışma tedavisini bırakan hastalar
+hariç olmak üzere, rastgele atanan ve en az 1 doz çalışma tedavisine maruz kalan tüm hastaların
+yer aldığı modifiye tedavi yönelimli (mITT) popülasyondaki kurtarma tedavisi olmaksızın
+tedavideki verilere dayalı olarak aşağıda sunulmuştur.
+SURPASS 1 – Monoterapi
+Çift kör, plasebo kontrollü, 40 haftalık bir çalışmada, diyet ve egzersizle yeterli glisemik
+kontrol sağlanamayan 478 hasta, haftada bir kez 5 mg, 10 mg veya 15 mg tirzepatid ya da
+plasebo almak üzere randomize edilmiştir. Hastaların yaşı ortalama 54’tür ve %52’si erkektir.
+Başlangıçta hastaların ortalama diyabet süresinin 5 yıl olduğu kaydedilmiştir ve ortalama VKİ
+32 kg/m2’dir.
+Tablo 2. SURPASS 1: 40. hafta bulguları
+Tirzepatid Tirzepatid Tirzepatid Plasebo
+5 mg 10 mg 15 mg
+mITT popülasyonu (n) 121 121 120 113
+HbA
+1c
+(%) Başlangıç 7,97 7,88 7,88 8,08
+(ortalama)
+Başlangıca göre -1,87## -1,89## -2,07## +0,04
+değişiklik
+9/21Plaseboya göre fark -1,91** -1,93** -2,11** -
+[%95 GA] [-2,18, - [-2,21, - [-2,39, -
+1,63] 1,65] 1,83]
+HbA
+1c
+Başlangıç 63,6 62,6 62,6 64,8
+(mmol/mol) (ortalama)
+Başlangıca göre -20,4## -20,7## -22,7## +0,4
+değişiklik
+Plaseboya göre fark -20,8** -21,1** -23,1** -
+[%95 GA] [-23,9, - [-24,1, -18] [-26,2, -20]
+17,8]
+HbA
+1c
+değerine <%7 86,8** 91,5** 87,9** 19,6
+ulaşan hastalar
+≤%6,5 81,8†† 81,4†† 86,2†† 9,8
+(%)
+<%5,7 33,9** 30,5** 51,7** 0,9
+ASG (mmol/L) Başlangıç 8,5 8,5 8,6 8,6
+(ortalama)
+Başlangıca göre -2,4## -2,6## -2,7## +0,7#
+değişiklik
+Plaseboya göre fark -3,13** -3,26** -3,45** -
+[%95 GA] [-3,71, - [-3,84, - [-4,04, -
+2,56] 2,69] 2,86]
+ASG (mg/dL) Başlangıç 153,7 152,6 154,6 155,2
+(ortalama)
+Başlangıca göre -43,6## -45,9## -49,3## +12,9#
+değişiklik
+Plaseboya göre fark -56,5** -58,8** -62,1** -
+[%95 GA] [-66,8, - [-69,2, - [-72,7, -
+46,1] 48,4] 51,5]
+Vücut ağırlığı Başlangıç 87 85,7 85,9 84,4
+(kg) (ortalama)
+Başlangıca göre -7## -7,8## -9,5## -0,7
+değişiklik
+Plaseboya göre fark -6,3** -7,1** -8,8** -
+[%95 GA] [-7,8, -4,7] [-8,6, -5,5] [-10,3, -7,2]
+Kilo vermeyi ≥%5 66,9†† 78†† 76,7†† 14,3
+başaran ≥%10 30,6†† 39,8†† 47,4†† 0,9
+hastalar (%) ≥%15 13,2† 17† 26,7† 0
+* p <0,05, ** p <0,001, üstünlük için, çokluluğa göre ayarlanmış olarak.
+† p <0,05, †† p <0,001, plaseboya kıyasla, çokluluğa göre ayarlanmamış olarak.
+# p <0,05, ## p <0,001, başlangıca kıyasla, çokluluğa göre ayarlanmamış olarak.
+10/21ığ
+c
+1
+A b
+H
+a
+m a
+la
+trO)%
+(
+ılrığ
+A
+tu
+c
+ü V
+a
+m
+a)g
+k (
+la
+trO
+Zaman (hafta) Zaman (hafta)
+MOUNJARO 5 mg MOUNJARO 10 mg MOUNJARO 15 mg Plasebo MOUNJARO 5 mg MOUNJARO10 mg MOUNJARO 15 mg Plasebo
+Şekil 1. Başlangıçtan 40. haftaya kadar ortalama HbA1c (%) ve ortalama vücut ağırlığı
+(kg)
+SURPASS 2 - Metformin ile kombinasyon tedavisi
+Aktif kontrollü, açık etiketli, 40 haftalık bir çalışmada (tirzepatid doz ataması bakımından çift
+kör) 1879 hasta, tümü metformin ile kombinasyon halinde olmak üzere haftada bir kez 5 mg,
+10 mg veya 15 mg tirzepatid ya da haftada bir kez 1 mg semaglutid alacak şekilde randomize
+edilmiştir. Hastaların ortalama yaşı 57’dir ve %47’si erkektir. Başlangıçta hastaların ortalama
+diyabet süresinin 9 yıl olduğu kaydedilmiştir ve ortalama VKİ 34 kg/m2’dir.
+Tablo 3. SURPASS 2: 40. hafta bulguları
+Tirzepatid Tirzepatid Tirzepatid Semaglutid
+5 mg 10 mg 15 mg 1 mg
+mITT popülasyonu (n) 470 469 469 468
+HbA
+1c
+(%) Başlangıç 8,33 8,31 8,25 8,24
+(ortalama)
+Başlangıca göre -2,09## -2,37## -2,46## -1,86##
+değişiklik
+Semaglutid ile fark -0,23** -0,51** -0,6** -
+[%95 GA] [-0,36, -0,10] [-0,64, - [-0,73, -
+0,38] 0,47]
+HbA
+1c
+Başlangıç 67,5 67,3 66,7 66,6
+(mmol/mol) (ortalama)
+Başlangıca göre -22,8## -25,9## -26,9## -20,3##
+değişiklik
+Semaglutid ile fark -2,5** -5,6** -6,6** N/A
+[%95 GA] [-3,9, -1,1] [-7, -4,1] [-8, -5,1]
+HbA
+1c
+<%7 85,5* 88,9** 92,2** 81,1
+değerine ≤%6,5 74† 82,1†† 87,1†† 66,2
+ulaşan <%5,7 29,3†† 44,7** 50,9** 19,7
+hastalar (%)
+ASG Başlangıç 9,67 9,69 9,56 9,49
+(mmol/L) (ortalama)
+Başlangıca göre -3,11## -3,42## -3,52## -2,70##
+değişiklik
+11/21Semaglutid ile fark -0,41† -0,72†† -0,82†† -
+[%95 GA] [-0,65, -0,16] [-0,97, - [-1,06, -
+0,48] 0,57]
+ASG (mg/dL) Başlangıç 174,2 174,6 172,3 170,9
+(ortalama)
+Başlangıca göre -56## -61,6## -63,4## -48,6##
+değişiklik
+Semaglutid ile fark -14,7†† -
+-7,3† -13††
+[%95 GA] [-19,1, -
+[-11,7, -3] [-17,4, -8,6]
+10,3]
+Vücut ağırlığı Başlangıç 92,6 94,9 93,9 93,8
+(kg) (ortalama)
+Başlangıca göre -7,8## -10,3## -12,4## -6,2##
+değişiklik
+Semaglutid ile fark -1,7** -4,1** -6,2** -
+[%95 GA] [-2,6, -0,7] [-5, -3,2] [-7,1, -5,3]
+Kilo vermeyi ≥%5 68,6† 82,4†† 86,2†† 58,4
+başaran ≥%10 35,8†† 52,9†† 64,9†† 25,3
+hastalar (%) ≥%15 15,2† 27,7†† 39,9†† 8,7
+* p <0,05, ** p <0,001, üstünlük için, çokluluğa göre ayarlanmış olarak.
+† p <0,05, †† p <0,001 semaglutid 1 mg’a kıyasla, çokluluğa göre ayarlanmamış olarak.
+# p <0,05, ## p <0,001, başlangıca kıyasla, çokluluğa göre ayarlanmamış olarak.
+ığ
+c
+1
+ılrığ
+A A
+b H
+a m a la)% (
+tu
+c ü V a m)g k (
+trO a
+la
+trO
+Zaman (hafta) Zaman (hafta)
+MOUNJARO 5 mg MOUNJARO 10 mg MOUNJARO 15 mg Semaglutid 1 mg MOUNJARO 5 mg MOUNJARO 10 mg MOUNJARO 15 mg Semaglutid 1 mg
+Şekil 2. Başlangıçtan 40. haftaya kadar ortalama HbA1c (%) ve ortalama vücut ağırlığı
+(kg)
+SURPASS 3 - SGLT2i ile birlikte veya SGLT2i olmaksızın metformin ile kombinasyon tedavisi
+Aktif kontrollü, açık etiketli, 52 haftalık bir çalışmada 1444 hasta, tümü SGLT2i eşliğinde veya
+SGLT2i olmaksızın metformin ile kombinasyon halinde olmak üzere haftada bir kez 5 mg, 10
+mg veya 15 mg tirzepatid ya da insülin degludek alacak şekilde randomize edilmiştir.
+Başlangıçta, hastaların %32’sinin SGLT2i kullandığı kaydedilmiştir. Başlangıçta hastaların
+ortalama diyabet süresi 8 yıldır, ortalama VKİ 34 kg/m2, ortalama yaş 57’dir ve %56'sı erkektir.
+İnsülin degludek ile tedavi edilen hastalarda, tedaviye <5 mmol/L’lik hedef açlık kan glukoz
+değeri için bir algoritma kullanılarak ayarlanan 10 U/gün dozuyla başlanmıştır. Ortalama
+insülin degludek dozu 52. haftada 49 ünite/gün’dür.
+12/21Tablo 4. SURPASS 3: 52. hafta bulguları
+Tirzepatid Tirzepatid Tirzepatid Titre
+5 mg 10 mg 15 mg edilen
+insülin
+degludek
+mITT popülasyonu (n) 358 360 358 359
+HbA
+1c
+(%) Başlangıç (ortalama) 8,17 8,19 8,21 8,13
+Başlangıca göre -1,93## -2,20## -2,37## -1,34##
+değişiklik
+İnsülin degludek ile -0,59** -0,86** -1,04** -
+fark [%95 GA] [-0,73, -0,45] [-1, -0,72] [-1,17, -
+0,90]
+HbA
+1c
+Başlangıç (ortalama) 65,8 66 66,3 65,4
+(mmol/mol) Başlangıca göre -21,1## -24## -26## -14,6##
+değişiklik
+İnsülin degludek ile -6,4** -9,4** -11,3** -
+fark [%95 GA] [-7,9, -4,9] [-10,9, -7,9] [-12,8, -9,8]
+HbA
+1c
+<%7 82,4** 89,7** 92,6** 61,3
+değerine ≤%6,5 71,4†† 80,3†† 85,3†† 44,4
+ulaşan
+<%5,7 25,8†† 38,6†† 48,4†† 5,4
+hastalar (%)
+ASG Başlangıç (ortalama) 9,54 9,48 9,35 9,24
+(mmol/L) Başlangıca göre -2,68## -3,04## -3,29## -3,09##
+değişiklik
+İnsülin degludek ile 0,41† 0,05 -0,20 -
+fark [%95 GA] [0,14, 0,69] [-0,24, 0,33] [-0,48, 0,08]
+ASG (mg/dL) Başlangıç (ortalama) 171,8 170,7 168,4 166,4
+Başlangıca göre -48,2## -54,8## -59,2## -55,7
+değişiklik
+İnsülin degludek ile 7,5† 0,8 -3,6 -
+fark [%95 GA] [2,4, 12,5] [-4,3, 5,9] [-8,7, 1,5]
+Vücut ağırlığı Başlangıç (ortalama) 94,5 94,3 94,9 94,2
+(kg) Başlangıca göre -7,5## -10,7## -12,9## +2,3##
+değişiklik
+İnsülin degludek ile -9,8** -13** -15,2** -
+fark [%95 GA] [-10,8, -8,8] [-14, -11,9] [-16,2, -
+14,2]
+Kilo vermeyi ≥%5 66†† 83,7†† 87,8†† 6,3
+başaran ≥%10 37,4†† 55,7†† 69,4†† 2,9
+hastalar (%) ≥%15 12,5†† 28,3†† 42,5†† 0
+* p <0,05, ** p <0,001, üstünlük için, çokluluğa göre ayarlanmış olarak.
+† p <0,05, †† p <0,001, insülin degludeke kıyasla, çokluluğa göre ayarlanmamış olarak.
+# p <0,05, ## p <0,001, başlangıca kıyasla, çokluluğa göre ayarlanmamış olarak.
+13/21ığ
+c
+ılrığ
+1 A
+A b
+H
+a m a la trO)% (
+tu
+c
+ü V a m
+a
+la
+trO)g
+k (
+Zaman (hafta) Zaman (hafta)
+MOUNJARO 5 mg MOUNJARO 10 mg MOUNJARO 15 mg İnsülin Degludek MOUNJARO 5 mg MOUNJARO 10 mg MOUNJARO 15 mg İnsülin Degludek
+Şekil 3. Başlangıçtan 52. haftaya kadar ortalama HbA (%) ve ortalama vücut ağırlığı
+1c
+(kg)
+SURPASS 4 – 1 ila 3 oral antidiyabetik tıbbi ürün ile kombinasyon tedavisi: metformin,
+sülfonilüreler veya SGLT2i
+Toplam 104 haftaya kadar devam eden (primer sonlanım noktası 52. haftada değerlendirilen),
+aktif kontrollü, açık etiketli bir çalışmada, tip 2 diyabetli ve kardiyovasküler riski yüksek olan
+2002 hasta arka planda metformin (%95) ve/veya sülfonilüreler (%54) ve/veya SGLT2i (%25)
+tedavisiyle haftada bir kez tirzepatid 5 mg, 10 mg veya 15 mg ya da günde bir kez insülin
+glarjin almak üzere randomize edilmiştir. Başlangıçta hastaların ortalama diyabet süresi 12
+yıldır, ortalama VKİ 33 kg/m2’dir, ortalama yaş 64’tür ve %63’ü erkektir. İnsülin glarjin ile
+tedavi edilen hastalarda, tedaviye <5,6 mmol/L’lik hedef açlık kan glukoz değeri için bir
+algoritma kullanılarak ayarlanan 10 U/gün dozuyla başlanmıştır. Ortalama insülin glarjin dozu
+52. haftada 44 ünite/gündür.
+Tablo 5. SURPASS 4: 52. hafta bulguları
+Tirzepatid Tirzepatid Tirzepatid Titre
+5 mg 10 mg 15 mg edilen
+insülin
+glarjin
+mITT popülasyonu (n) 328 326 337 998
+52 hafta
+HbA
+1c
+(%) Başlangıç (ortalama) 8,52 8,6 8,52 8,51
+Başlangıca göre -2,24## -2,43## -2,58## -1,44##
+değişiklik
+İnsülin glarjin ile fark -0,8** -0,99** -1,14** -
+[%95 GA] [-0,92, - [-1,11, - [-1,26, -
+0,68] 0,87] 1,02]
+HbA
+1c
+Başlangıç (ortalama) 69,6 70,5 69,6 69,5
+(mmol/mol) Başlangıca göre -24,5## -26,6## -28,2## -15,7##
+değişiklik
+İnsülin glarjin ile fark -8,8** -10,9** -12,5** -
+[%95 GA] [-10,1, -7,4] [-12,3, -9,6] [-13,8, -
+11,2]
+<%7 81** 88,2** 90,7** 50,7
+≤%6,5 66†† 76†† 81,1†† 31,7
+14/21HbA
+1c
+<%5,7 23†† 32,7†† 43,1†† 3,4
+değerine
+ulaşan
+hastalar (%)
+ASG Başlangıç (ortalama) 9,57 9,75 9,67 9,37
+(mmol/L) Başlangıca göre -2,8## -3,06## -3,29## -2,84##
+değişiklik
+İnsülin glarjin ile fark 0,04 -0,21 -0,44†† -
+[%95 GA] [-0,22, [-0,48, [-0,71, -
+0,30] 0,05] 0,18]
+ASG (mg/dL) Başlangıç (ortalama) 172,3 175,7 174,2 168,7
+Başlangıca göre -50,4## -54,9## -59,3## -51,4##
+değişiklik
+İnsülin glarjin ile fark 1 -3,6 -8†† -
+[%95 GA] [-3,7, 5,7] [-8,2, 1,1] [-12,6, -3,4]
+Vücut ağırlığı Başlangıç (ortalama) 90,3 90,7 90 90,3
+(kg) Başlangıca göre -7,1## -9,5## -11,7## +1,9##
+değişiklik
+İnsülin glarjin ile fark -9** -11,4** -13,5** -
+[%95 GA] [-9,8, -8,3] [-12,1, - [-14,3, -
+10,6] 12,8]
+Kilo vermeyi ≥%5 62,9†† 77,6†† 85,3†† 8
+başaran ≥%10 35,9†† 53†† 65,6†† 1,5
+hastalar (%) ≥%15 13,8†† 24†† 36,5†† 0,5
+* p <0,05, ** p <0,001, üstünlük için, çokluluğa göre ayarlanmış olarak.
+† p <0,05, †† p <0,001 , insülin glarjine kıyasla, çokluluğa göre ayarlanmamış olarak.
+# p <0,05, ## p <0,001, başlangıca kıyasla, çokluluğa göre ayarlanmamış olarak.
+ığ
+c
+1 A
+b
+H a m a)% (
+ılrığ
+A
+tu
+c ü V a)g k (
+la m
+trO a
+la
+trO
+Zaman (hafta) Zaman (hafta)
+MOUNJARO 5 mg MOUNJARO 10 mg MOUNJARO 15 mg İnsülin Glarjin MOUNJARO 5 mg MOUNJARO 10 mg MOUNJARO 15 mg İnsülin Glarjin
+Şekil 4. Başlangıçtan 52. haftaya kadar ortalama HbA (%) ve ortalama vücut ağırlığı
+1c
+(kg)
+SURPASS 5 - Metformin ile birlikte veya metformin olmaksızın titre edilen bazal insülin ile
+kombinasyon tedavisi
+Çift kör, plasebo kontrollü, 40 haftalık bir çalışmada, metformin eşliğinde veya metformin
+olmaksızın insülin glarjin kullanımıyla yeterli glisemik kontrol sağlanamayan 475 hasta,
+15/21haftada bir kez 5 mg, 10 mg veya 15 mg tirzepatid ya da plasebo almak üzere randomize
+edilmiştir. İnsülin glarjin dozları, açlık kan glukoz hedefi <5,6 mmol/L olmak üzere bir
+algoritma kullanılarak ayarlanmıştır. Başlangıçta hastaların ortalama diyabet süresinin 13 yıl
+olduğu kaydedilmiştir, ortalama VKİ 33 kg/m2’dir, ortalama yaş 61’dir ve %56'sı erkektir.
+Başlangıçta insülin glarjinin toplam tahmini medyan dozu 34 ünite/gündür. Kırkıncı haftadaki
+ortalama insülin glarjin dozu, tirzepatid 5 mg, 10 mg, 15 mg ve plasebo için sırasıyla 38, 36,
+29 ve 59 ünite/gün olmuştur.
+Tablo 6. SURPASS 5: 40. hafta bulguları
+Tirzepatid Tirzepatid Tirzepatid Plasebo
+5 mg 10 mg 15 mg
+mITT popülasyonu (n) 116 118 118 119
+HbA (%) Başlangıç 8,29 8,34 8,22 8,39
+1c
+(ortalama)
+Başlangıca göre -2,23## -2,59## -2,59## -0,93##
+değişiklik
+Plaseboya göre fark -1,30** -1,66** -1,65** -
+[%95 GA] [-1,52, -1,07] [-1,88, - [-1,88, -1,43]
+1,43]
+HbA Başlangıç 67,1 67,7 66,4 68,2
+1c
+(mmol/mol) (ortalama)
+Başlangıca göre -24,4## -28,3## -28,3## -10,2##
+değişiklik
+Plaseboya göre fark -14,2** -18,1** -18,1** -
+[%95 GA] [-16,6, -11,7] [-20,6, - [-20,5, -15,6]
+15,7]
+HbA <%7 93** 97,4** 94** 33,9
+1c
+değerine
+≤%6,5 80†† 94,7†† 92,3†† 17
+ulaşan
+<%5,7 26,1†† 47,8†† 62,4†† 2,5
+hastalar (%)
+ASG Başlangıç 9 9,04 8,91 9,13
+(mmol/L) (ortalama)
+Başlangıca göre -3,41## -3,77## -3,76## -2,16##
+değişiklik
+Plaseboya göre fark -1,25** -1,61** -1,60** -
+[%95 GA] [-1,64, -0,86] [-2, -1,22] [-1,99, -1,20]
+ASG (mg/dL) Başlangıç 162,2 162,9 160,4 164,4
+(ortalama)
+Başlangıca göre -61,4## -67,9## -67,7## -38,9##
+değişiklik
+Plaseboya göre fark -22,5** -29** -28,8** -
+[%95 GA] [-29,5, -15,4] [-36, -22] [-35,9, -21,6]
+Vücut ağırlığı Başlangıç 95,5 95,4 96,2 94,1
+(kg) (ortalama)
+Başlangıca göre -6,2## -8,2## -10,9## +1,7#
+değişiklik
+Plaseboya göre fark -7,8** -9,9** -12,6** -
+[%95 GA] [-9,4, -6,3] [-11,5, -8,3] [-14,2, -11]
+16/21Kilo vermeyi ≥%5 53,9†† 64,6†† 84,6†† 5,9
+başaran ≥%10 22,6†† 46,9†† 51,3†† 0,9
+hastalar (%) ≥%15 7† 26,6† 31,6†† 0
+* p <0,05, ** p <0,001, üstünlük için, çokluluğa göre ayarlanmış olarak.
+† p <0,05, †† p <0,001, plaseboya kıyasla, çokluluğa göre ayarlanmamış olarak.
+# p <0,05, ## p <0,001, başlangıca kıyasla, çokluluğa göre ayarlanmamış olarak.
+ığ
+c
+1 A
+ılrığ
+A
+b H a m
+a
+la)% ( tu c ü V
+a
+m)g k (
+trO a
+la
+trO
+Zaman (hafta) Zaman (hafta)
+MOUNJARO 5 mg MOUNJARO 10 mg MOUNJARO 15 mg Plasebo MOUNJARO 5 mg MOUNJARO 10 mg MOUNJARO 15 mg Plasebo
+Şekil 5. Başlangıçtan 40. haftaya kadar ortalama HbA (%) ve ortalama vücut ağırlığı
+1c
+(kg)
+Kardiyovasküler Değerlendirme
+Kardiyovasküler (KV) risk, en az bir adet kararla doğrulanmış majör advers kardiyak olay
+(MACE) kaydedilen hastaların meta analizi yoluyla değerlendirilmiştir. MACE 4 birleşik
+sonlanım noktası KV ölüm, ölümcül olmayan miyokard enfarktüsü, ölümcül olmayan inme ya
+da stabil olmayan anjina nedeniyle hastaneye yatışı içermiştir.
+Faz 2 ve 3 ruhsat çalışmalarının primer bir meta analizinde, toplam 116 hastada (tirzepatid: 60
+[n = 4410]; tüm komparatörler: 56 [n = 2169]) en az bir adet kararla doğrulanmış MACE 4
+meydana gelmiştir: Bulgular, tirzepatidin KV olaylar için birleştirilmiş komparatörlere kıyasla
+fazladan bir risk ile ilişkili olmadığını göstermiştir (HR: 0,81; GA: 0,52 ila 1,26).
+Tanı almış KV hastalığı olan hastaların kaydedildiği SURPASS 4 çalışması için özel olarak ek
+bir analiz yapılmıştır. Toplam 109 hastada (tirzepatid: 47 [n = 995]; insülin glarjin: 65 [n =
+1000]) en az bir adet kararla doğrulanmış MACE 4 meydana gelmiştir: Bulgular, tirzepatidin
+KV olaylar için insülin glarjine kıyasla fazladan bir risk ile ilişkili olmadığını göstermiştir (HR:
+0,74; GA: 0,51 ila 1,08).
+Kan Basıncı
+Plasebo kontrollü faz 3 çalışmalarda tirzepatid ile tedavi, sistolik ve diyastolik kan basıncında
+sırasıyla ortalama 6 ila 9 mmHg ve 3 ila 4 mmHg düzeyinde ortalama bir düşüşle
+sonuçlanmıştır. Plasebo ile tedavi edilen hastalarda sistolik ve diyastolik kan basıncında her
+biri ortalama 2 mmHg düzeyinde olmak üzere düşüş olduğu saptanmıştır.
+17/21Diğer bilgiler
+Açlık serum glukoz değeri
+Tirzepatid ile tedavi, ASG’de başlangıca göre anlamlı azalmalarla sonuçlanmıştır (başlangıçtan
+primer sonlanım noktasına kadar -2,4 mmol/L ila -3,8 mmol/L değişiklikler olmuştur). ASG’de
+başlangıca göre anlamlı azalmalar 2 hafta gibi kısa bir zaman içinde gözlemlenebilmiştir.
+ASG’deki daha ileri iyileşme 42 haftaya kadar görülmüştür, 104 haftalık en uzun çalışma süresi
+boyunca korunmuştur.
+Postprandial glukoz
+Tirzepatid ile tedavi, 2 saatlik ortalama postprandial glukoz değerinde (günün 3 ana öğününün
+ortalaması) başlangıca göre anlamlı azalmalarla sonuçlanmıştır (başlangıçtan primer sonlanım
+noktasına kadar -3,35 mmol/L ila -4,85 mmol/L değişiklikler olmuştur).
+Trigliseridler
+SURPASS 1-5 çalışmaları genelinde tirzepatidin 5 mg, 10 mg ve 15 mg’lık dozları serum
+trigliserid düzeyinde sırasıyla %15-19, %18-27 ve %21-25 azalma ile sonuçlanmıştır.
+Semaglutid 1 mg ile karşılaştırma yapılan 40 haftalık çalışmada, tirzepatidin 5 mg, 10 mg ve
+15 mg’lık dozları semaglutid 1 mg ile %12’lik azalmaya kıyasla serum trigliserid düzeyinde
+sırasıyla %19, %24 ve %25 azalma ile sonuçlanmıştır.
+Klinik açıdan anlamlı hipoglisemi olmaksızın HbA1c <%5,7’ye ulaşan hastaların oranı
+Tirzepatidin bazal insülinle kombine edilmediği 4 çalışmada, primer sonlanım noktası vizitinde
+tirzepatid tedavisiyle HbA1c <%5,7 (≤39 mmol/mol) düzeyinde normal glisemi kaydedilen
+hastaların %93,6 ila %100’ü bu hedefe klinik açıdan önemli hipoglisemi gelişmeden ulaşmıştır.
+SURPASS 5 çalışmasında, HbA1c <%5,7 (≤39 mmol/mol) kaydedilen hastaların %85,9’u bu
+hedefe klinik açıdan önemli hipoglisemi gelişmeden ulaşmıştır.
+Özel popülasyonlar
+Tirzepatidin etkililiği yaş, cinsiyet, ırk, etnik köken, bölge veya başlangıçtaki VKİ, HbA1c,
+diyabet süresi ve böbrek fonksiyon bozukluğu düzeyinden etkilenmemiştir.
+5.2 Farmakokinetik özellikler
+Tirzepatid, albümin bağlanmasını sağlayan ve yarılanma ömrünü uzatan bir C20 yağlı diasit
+parçasına sahip 39 amino asitli bir peptittir.
+Emilim:
+Maksimum tirzepatid konsantrasyonuna dozdan 8 ila 72 saat sonra ulaşılır. Kararlı durum
+maruziyeti, 4 hafta süreyle haftada bir uygulama yapıldıktan sonra elde edilir. Tirzepatid
+maruziyeti dozla orantılı bir şekilde artar.
+Karın, uyluk veya üst kola subkutan yoldan tirzepatid uygulaması ile benzer düzeylerde
+maruziyet elde edilmiştir.
+Subkutan tirzepatidin mutlak biyoyararlanımı %80 olarak saptanmıştır.
+Dağılım:
+Tip 2 diyabetli hastalarda subkutan uygulamayı takiben tirzepatidin ortalama belirgin kararlı
+durum dağılım hacmi yaklaşık 10,3 L’dir.
+18/21Tirzepatid, plazma albüminine yüksek oranda (%99) bağlanır.
+Biyotransformasyon
+Tirzepatid, peptid omurgasında proteolitik bölünme, C20 yağ diasidi parçasının beta
+oksidasyonu ve amid hidrolizi yoluyla metabolize olur.
+Eliminasyon:
+Tirzepatidin belirgin popülasyon ortalama klirensi 0,06 L/saat ve eliminasyon yarılanma ömrü
+yaklaşık 5 gündür, bu da haftada bir uygulamaya olanak tanır.
+Tirzepatid metabolizma yoluyla elimine edilir. Tirzepatid metabolitlerinin primer atılım yolu
+idrar ve feçes üzerinden atılımdır. İdrar veya feçeste intakt tirzepatid gözlenmez.
+Doğrusallık/doğrusal olmayan durum:
+Veri yoktur.
+Hastalardaki karakteristik özellikler
+Yaş, cinsiyet, ırk, etnik köken veya vücut ağırlığı:
+Yaş, cinsiyet, ırk, etnik köken veya vücut ağırlığı, tirzepatidin farmakokinetik özellikleri (FK)
+üzerinde klinik açıdan anlamlı bir etkiye sahip değildir.
+Böbrek yetmezliği:
+Böbrek yetmezliği, tirzepatidin FK’sini etkilemez. Tirzepatidin tek bir 5 mg’lık dozdan sonra
+sergilediği FK, farklı derecelerde böbrek yetmezliği (hafif, orta, şiddetli, SDBH) olan
+hastalarda böbrek fonksiyonu normal olan gönüllülerle karşılaştırılarak değerlendirilmiştir ve
+klinik açıdan anlamlı farklılıklar gözlenmemiştir. Bu durum, klinik çalışmalardan elde edilen
+verilere dayalı olarak, tip 2 diabetes mellitus ve böbrek yetmezliğinin bir arada bulunduğu
+hastalar için de gösterilmiştir.
+Karaciğer yetmezliği:
+Karaciğer yetmezliği tirzepatidin FK’sini etkilemez. Tirzepatidin tek bir 5 mg’lık dozdan sonra
+sergilediği FK, farklı derecelerde karaciğer yetmezliği (hafif, orta, şiddetli) olan hastalarda
+karaciğer fonksiyonu normal olan gönüllülerle karşılaştırılarak değerlendirilmiştir ve klinik
+açıdan anlamlı farklılıklar gözlenmemiştir.
+Pediyatrik popülasyon
+Tirzepatidin pediyatrik hastalarda kullanımı araştırılmamıştır.
+5.3 Klinik öncesi güvenlilik verileri
+Klinik dışı verilerde konvansiyonel çalışmalara dayanılarak güvenlilik farmakolojisi veya
+tekrarlanan doz toksisitesi ya da genotoksisite açısından insanlar için özel bir tehlike riski
+görülmemiştir.
+Tirzepatidin 0,15, 0,50 ve 1,5 mg/kg’lık dozlarıyla (EAA’ya göre, insanlarda önerilen
+maksimum dozun (MRHD) 0,12, 0,36 ve 1,02 katı) erkek ve dişi sıçanlara haftada iki kez
+subkutan enjeksiyon yapılan 2 yıllık bir karsinojenite çalışması gerçekleştirilmiştir. Tirzepatid,
+tüm dozlarda kontrol gruplarına kıyasla C hücreli tiroid tümörlerinde (adenomlar ve
+karsinomlar) bir artışa neden olmuştur. Bu bulguların insanlar açısından anlamlılığı
+bilinmemektedir.
+19/21RasH2 transgenik farelerde yapılan 6 aylık bir karsinojenite çalışmasında, haftada iki kez
+subkutan enjeksiyonla 1, 3 ve 10 mg/kg dozlarında uygulanan tirzepatid, hiçbir dozda C hücreli
+tiroid hiperplazisi veya neoplazisi insidansında artışa yol açmamıştır.
+Tirzepatidin hayvan çalışmalarında fertilite ile ilgili herhangi bir doğrudan zararlı etkisi
+gösterilmemiştir.
+Hayvan üreme çalışmalarında tirzepatid, EAA’ya dayalı olarak MRHD’nin altındaki maruziyet
+düzeylerinde fetal büyümede gerilemeye ve fetal anormalliklere neden olmuştur. Sıçanlarda
+eksternal, visseral ve iskeletle ilgili malformasyonların yanı sıra visseral ve iskeletle ilgili
+gelişimsel varyasyonların insidansında da bir artış gözlenmiştir. Sıçanlarda ve tavşanlarda fetal
+büyüme gerilikleri gözlenmiştir. Tüm gelişimsel etkiler, toksik maternal dozlarda meydana
+gelmiştir.
+6. FARMASÖTİK ÖZELLİKLER
+6.1 Yardımcı maddelerin listesi
+Dibazik sodyum fosfat heptahidrat
+Sodyum klorür
+Hidroklorik asit çözeltisi ve sodyum hidroksit çözeltisi (pH ayarı için)
+Enjeksiyonluk su
+6.2 Geçimsizlikler
+Geçimsizlik çalışması yapılmamış olduğundan, bu tıbbi ürün başka tıbbi ürünlerle
+karıştırılmamalıdır.
+6.3 Raf ömrü
+24 ay
+6.4 Saklamaya yönelik özel tedbirler
+2-8°C arasında buzdolabında saklayınız.
+Dondurmayınız.
+Işıktan korumak için orijinal ambalajında saklayınız.
+MOUNJARO, 30ºC’nin altındaki oda sıcaklığında toplam 21 güne kadar buzdolabına
+konmadan saklanabilir ve sonrasında flakon atılmalıdır.
+6.5 Ambalajın niteliği ve içeriği
+Contalı bir tıpa ile şeffaf cam flakon.
+Her flakon 0,5 ml çözelti içerir.
+1 ve 4 flakon içeren ambalaj.
+Tüm ambalaj boyutları pazarlanmayabilir.
+6.6 Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+Kullanım talimatları
+Flakon yalnızca tek kullanımlıktır.
+20/21Kullanma talimatında yer alan bir flakondan nasıl MOUNJARO enjekte edileceğine ilişkin
+talimatlara dikkatlice uyulmalıdır.
+MOUNJARO kullanılmadan önce görsel olarak incelenmeli ve partikül madde veya renk
+değişimi varsa kullanmamalı, atılmalıdır.
+Dondurulmuş MOUNJARO kullanılmamalıdır.
+Son kullanma tarihi geçmiş veya kullanılmayan ilaçları çöpe atmayınız! Çevre, Şehircilik ve
+İklim Değişikliği Bakanlığınca belirlenen toplama sistemine veriniz.
+7. RUHSAT SAHİBİ
+Lilly İlaç Ticaret Ltd. Şti.
+Acıbadem Mah. Çeçen Sokak
+Akasya Acıbadem Kent Etabı
+A Blok Kat: 3
+34660 Üsküdar / İstanbul
+Tel : 0 216 554 00 00
+Faks : 0 216 474 71 99
+8. RUHSAT NUMARASI (LARI)
+2024/283
+9. İLK RUHSAT TARİHİ / RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi: 15.08.2024
+Ruhsat yenileme tarihi:
+10. KÜB’ÜN YENİLENME TARİHİ
+21/21

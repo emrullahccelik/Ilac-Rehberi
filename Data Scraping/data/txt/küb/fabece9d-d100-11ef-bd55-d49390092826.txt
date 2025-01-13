@@ -1,0 +1,703 @@
+KKIISSAA ÜÜRRÜÜNN BBİİLLGGİİSSİİ
+11.. BBEEŞŞEERRİİ TTIIBBBBİİ ÜÜRRÜÜNNÜÜNN AADDII
+OONNUURREEGG 330000 mmgg ffiillmm kkaappllıı ttaabblleett
+SSiittoottookkssiikk
+22.. KKAALLİİTTAATTİİFF VVEE KKAANNTTİİTTAATTİİFF BBİİLLEEŞŞİİMM
+EEttkkiinn mmaaddddee::
+HHeerr bbiirr ffiillmm kkaappllıı ttaabblleett 330000 mmgg aazzaassiittiiddiinn iiççeerriirr..
+YYaarrddıımmccıı mmaaddddee((lleerr))::
+LLaakkttoozz mmoonnoohhiiddrraatt ((iinneekk ssüüttüü kkaayynnaakkllıı)) 55,,4422 mmgg
+YYaarrddıımmccıı mmaaddddeelleerriinn ttaamm lliisstteessii iiççiinn 66..11''ee bbaakkıınnıızz..
+33.. FFAARRMMAASSÖÖTTİİKK FFOORRMM
+FFiillmm kkaappllıı ttaabblleett..
+BBiirr ttaarraaffıınnaa "“330000"”,, ddiiğğeerr ttaarraaffıınnaa "“OONNUU"” bbaassııllıı oollaann,, kkaahhvveerreennggii,, oovvaall,, 1199 xx 99 mmmm,, ffiillmm kkaappllıı
+ttaabblleett..
+44.. KKLLİİNNİİKK ÖÖZZEELLLLİİKKLLEERR
+44..11 TTeerraappööttiikk eennddiikkaassyyoonnllaarr
+OONNUURREEGG iinnddüükkssiiyyoonn kkeemmootteerraappiissii vvee ssoonnrraassıınnddaa kkoonnssoolliiddaassyyoonn tteeddaavviissii vveerriilleerreekk vveeyyaa
+vveerriillmmeeddeenn CCRR ((ttaamm rreemmiissyyoonn)) vveeyyaa CCRRii ((kkaann ssaayyıımmıınnddaa ttaamm oollmmaayyaann ddüüzzeellmmee iillee bbiirrlliikkttee oollaann
+ttaamm rreemmiissyyoonn)) eellddee eeddiilleenn aannccaakk hheemmaattooppooeettiikk kköökk hhüüccrree nnaakkllii oollmmaayyıı tteerrcciihh eettmmeeyyeenn vveeyyaa
+nnaakkiillee uuyygguunn oollmmaayyaann eerriişşkkiinn AAMMLL ((aakkuutt mmiiyyeellooiidd llöösseemmii)) hhaassttaallaarrıınnıınn iiddaammee tteeddaavviissiinnddee
+kkuullllaannııllıırr..
+44..22 PPoozzoolloojjii vvee uuyygguullaammaa şşeekkllii
+OONNUURREEGG tteeddaavviissii kkeemmootteerraappii ttııbbbbii üürrüünnlleerriinn kkuullllaannıımmıınnddaa ddeenneeyyiimmllii bbiirr ddookkttoorruunn
+ddeenneettiimmiinnddee bbaaşşllaattııllmmaallıı vvee iizzlleennmmeelliiddiirr..
+HHaassttaallaarr,, iillkk 22 tteeddaavvii ddöönnggüüssüü bbooyyuunnccaa hheerr bbiirr OONNUURREEGG ddoozzuunnddaann 3300 ddaakkiikkaa öönnccee bbiirr aannttii--
+eemmeettiikk iillee tteeddaavvii eeddiillmmeelliiddiirr.. AAnnttii--eemmeettiikk pprrooffiillaakkssiissii,, bbuullaannttıı vveeyyaa kkuussmmaa oollmmaaddıığğıı ttaakkddiirrddee 22
+ddöönnggüü ssoonnrraa kkeessiilleebbiilliirr ((bbkkzz.. BBööllüümm 44..44))..
+PPoozzoolloojjii//uuyygguullaammaa ssııkkllıığğıı vvee ssüürreessii::
+ÖÖnneerriilleenn ddoozz,, ggüünnddee bbiirr kkeezz oorraall oollaarraakk 330000 mmgg aazzaassiittiiddiinnddiirr.. TTeekkrraarr eeddeenn hheerr bbiirr ddöönnggüü,, 1144
+ggüünnllüükk bbiirr tteeddaavvii ppeerriiyyoodduunnuu ttaakkiibbeenn 1144 ggüünnllüükk bbiirr tteeddaavviissiizz ppeerriiyyoottttaann oolluuşşuurr ((2288 ggüünnllüükk
+tteeddaavvii ddöönnggüüssüü))..
+OONNUURREEGG tteeddaavviissiinnee,, ppeerriiffeerriikk kkaann vveeyyaa kkeemmiikk iilliiğğiinnddeekkii bbllaasstt oorraannıı %%1155’'iinn üüzzeerriinnee ççııkkmmaaddıığğıı
+vveeyyaa kkaabbuull eeddiilleemmeezz ttookkssiissiittee ggeelliişşmmeeddiiğğii ssüürreeccee ddeevvaamm eeddiillmmeelliiddiirr ((bbkkzz.. hhaassttaallııkk nnüükkssüünnee
+yyöönneelliikk ddoozz ttaakkvviimmii ddüüzzeennlleemmee rreehhbbeerrii))..
+SSaayyffaa 11 // 1177OONNUURREEGG,, mmaarruuzziiyyeett,, ddoozz vvee tteeddaavvii ttaakkvviimmiinnddeekkii ffaarrkkllııllııkkllaarr nneeddeenniiyyllee eennjjeekkttaabbll aazzaassiittiiddiinn
+yyeerriinnee kkuullllaannııllmmaammaallııddıırr.. SSaağğllııkk uuzzmmaannllaarrıınnaa ttııbbbbii üürrüünnüünn aaddıı,, ddoozzuu vvee uuyygguullaammaa yyoolluunnuu tteeyyiitt
+eettmmeelleerrii öönneerriillmmeekktteeddiirr..
+LLaabboorraattuuvvaarr tteessttlleerrii
+TTeeddaavviiyyee bbaaşşllaannmmaaddaann öönnccee ttaamm kkaann ssaayyıımmıı yyaappııllmmaallııddıırr.. AAyyrrııccaa iillkk 22 ddöönnggüü bbooyyuunnccaa iikkii
+hhaaffttaaddaa bbiirr ((5566 ggüünn)),, ddoozz aayyaarrllaammaa ssoonnrraassıınnddaa mmüütteeaakkiipp 22 ddöönnggüü bbooyyuunnccaa iikkii hhaaffttaaddaa bbiirr vvee
+ssoonnrraassıınnddaa mmüütteeaakkiipp tteeddaavvii ddöönnggüülleerriinnee bbaaşşllaannmmaaddaann öönnccee aayyddaa bbiirr ttaamm kkaann ssaayyıımmıı iizzlleemmeessii
+öönneerriillmmeekktteeddiirr ((bbkkzz.. BBööllüümm 44..44))..
+AAMMLL hhaassttaallııkk nnüükkssüünnee yyöönneelliikk ddoozz ttaakkvviimmii ddüüzzeennlleemmeessii
+HHaassttaallııkk nnüükkssüü dduurruummuunnddaa,, ppeerriiffeerriikk kkaann vveeyyaa kkeemmiikk iilliiğğiinnddee %%55 iillaa %%1155 bbllaasstt vvaarrkkeenn,, kklliinniikk
+bbiirr ddeeğğeerrlleennddiirrmmeeyyee ggöörree ddoozz ttaakkvviimmiinniinn,, tteekkrraarr eeddeenn 2288 ggüünnllüükk ddöönnggüünnüünn 1144 ggüünnüünnddeenn 2211
+ggüünnüünnee uuzzaattııllmmaassıı ddüüşşüünnüüllmmeelliiddiirr.. DDoozzllaammaa,, 2288 ggüünnllüükk ppeerriiyyoottttaa 2211 ggüünnüü aaşşmmaammaallııddıırr..
+OONNUURREEGG yyaa ppeerriiffeerriikk kkaannddaa yyaa ddaa kkeemmiikk iilliiğğiinnddee %%1155’'tteenn ffaazzllaa bbllaasstt ggöözzlleennddiiğğii ttaakkddiirrddee vveeyyaa
+ddookkttoorruunn kkaannaaaattiinnee ggöörree kkeessiillmmeelliiddiirr..
+AAddvveerrss rreeaakkssiiyyoonnllaarraa yyöönneelliikk ddoozz aayyaarrllaammaa
+HHeemmaattoolloojjiikk vvee hheemmaattoolloojjiikk oollmmaayyaann aaddvveerrss rreeaakkssiiyyoonnllaarraa yyöönneelliikk ddoozz ddüüzzeennlleemmee kkııllaavvuuzzllaarrıı,,
+kklliinniikk vvee llaabboorraattuuvvaarr bbuullgguullaarrıınnaa ggöörree öönneerriillmmeekktteeddiirr ((bbkkzz.. TTaabblloo 11))..
+TTaabblloo 11:: HHeemmaattoolloojjiikk vvee hheemmaattoolloojjiikk oollmmaayyaann aaddvveerrss rreeaakkssiiyyoonnllaarraa yyöönneelliikk ddoozz
+aayyaarrllaammaallaarrıı
+KKrriitteerrlleerr** ÖÖnneerriilleenn eeyylleemm
+DDeerreeccee 44 nnööttrrooppeennii vveeyyaa İİllkk ggeerrççeekklleeşşmmee
+DDeerreeccee 33 aatteeşşllii nnööttrrooppeennii • OONNUURREEGG’'ee aarraa vveerriilliirr.. NNööttrrooffiilllleerr DDeerreeccee 22 vveeyyaa ddaahhaa ddüüşşüükk
+ddeerreecceeyyee ddüüşşttüüğğüünnddee tteeddaavvii ddöönnggüüssüünnee aayynnıı ddoozzddaa ddeevvaamm eeddiilliirr..
+• KKlliinniikk oollaarraakk eennddiikkee oolldduuğğuu şşeekkiillddee,, ggrraannüülloossiitt kkoolloonnii ssttiimmüüllee
+eeddiiccii ffaakkttöörr ((GGCCSSFF)) ggiibbii ddeesstteekk tteeddaavviissii kkuullllaannııllıırr ((bbkkzz.. BBööllüümm
+44..44))..
+AArrddıışşııkk 22 ddöönnggüüddee ggeerrççeekklleeşşmmee
+• OONNUURREEGG’'ee aarraa vveerriilliirr.. NNööttrrooffiilllleerr DDeerreeccee 22 vveeyyaa ddaahhaa ddüüşşüükk
+ddeerreecceeyyee ddüüşşttüükktteenn ssoonnrraa tteeddaavvii ddöönnggüüssüünnee 220000 mmgg’'llııkk aazzaallttııllmmıışş
+bbiirr ddoozzddaa ddeevvaamm eeddiilliirr..
+• HHaassttaa,, ddoozz aazzaallttmmaa ssoonnrraassıınnddaa ttookkssiissiittee yyaaşşaammaayyaa ddeevvaamm eettttiiğğii
+ttaakkddiirrddee,, tteeddaavvii ssüürreessii 77 ggüünn aazzaallttııllıırr..
+• TTookkssiissiittee ddeevvaamm eettttiiğğii vveeyyaa ddoozz vvee ttaakkvviimm aazzaallttmmaa ssoonnrraassıınnddaa
+tteekkrraarr yyaaşşaannddıığğıı ttaakkddiirrddee,, OONNUURREEGG kkeessiilliirr..
+• KKlliinniikk oollaarraakk eennddiikkee oolldduuğğuu şşeekkiillddee,, GGCCSSFF ggiibbii ddeesstteekk tteeddaavviissii
+kkuullllaannııllıırr ((bbkkzz.. BBööllüümm 44..44))..
+DDeerreeccee 44 ttrroommbboossiittooppeennii İİllkk ggeerrççeekklleeşşmmee
+vveeyyaa DDeerreeccee 33 kkaannaamm aallıı • OONNUURREEGG’'ee aarraa vveerriilliirr.. TTrroommbboossiittlleerr DDeerreeccee 22 vveeyyaa ddaahhaa ddüüşşüükk
+ttrroommbboossiittooppeennii ddeerreecceeyyee ddüüşşttüüğğüünnddee tteeddaavvii ddöönnggüüssüünnee aayynnıı ddoozzddaa ddeevvaamm eeddiilliirr..
+AArrddıışşııkk 22 ddöönnggüüddee ggeerrççeekklleeşşmmee
+• OONNUURREEGG’'ee aarraa vveerriilliirr.. TTrroommbboossiittlleerr DDeerreeccee 22 vveeyyaa ddaahhaa ddüüşşüükk
+ddeerreecceeyyee ddüüşşttüükktteenn ssoonnrraa tteeddaavvii ddöönnggüüssüünnee 220000 mmgg’'llııkk aazzaallttııllmmıışş
+bbiirr ddoozzddaa ddeevvaamm eeddiilliirr..
+• HHaassttaa,, ddoozz aazzaallttmmaa ssoonnrraassıınnddaa ttookkssiissiittee yyaaşşaammaayyaa ddeevvaamm eettttiiğğii
+ttaakkddiirrddee,, tteeddaavvii ssüürreessii 77 ggüünn aazzaallttııllıırr..
+• TTookkssiissiittee ddeevvaamm eettttiiğğii vveeyyaa ddoozz vvee ttaakkvviimm aazzaallttmmaa ssoonnrraassıınnddaa
+tteekkrraarr yyaaşşaannddıığğıı ttaakkddiirrddee,, OONNUURREEGG kkeessiilliirr..
+SSaayyffaa 22 // 1177DDeerreeccee 33 vveeyyaa ddaahhaa yyüükksseekk • OONNUURREEGG’'ee aarraa vveerriilliirr.. TTookkssiissiittee DDeerreeccee 11 vveeyyaa ddaahhaa ddüüşşüükk
+bbuullaannttıı,, kkuussmmaa vveeyyaa ddiiyyaarree ddeerreecceeyyee aazzaallttııllddıığğıınnddaa tteeddaavvii ddöönnggüüssüünnee aayynnıı ddoozzddaa ddeevvaamm
+eeddiilliirr..
+• SSeemmppttoommllaarrıınn bbaaşşllaannggııccıınnddaa aannttii--eemmeettiikk tteeddaavvii ggiibbii ddeesstteekk
+tteeddaavviissii kkuullllaannııllıırr vvee ddiiyyaarree tteeddaavvii eeddiilliirr ((bbkkzz.. BBööllüümm 44..44))..
+• OOllaayy yyeenniiddeenn yyaaşşaannıırrssaa,, DDeerreeccee 11 vveeyyaa aallttıınnaa ddüüşşüürrüülleennee kkaaddaarr
+ddoozzaa aarraa vveerriilliirr vvee ddoozz,, 220000 mmgg’'aa aazzaallttııllıırr..
+• HHaassttaa,, ddoozz aazzaallttmmaa ssoonnrraassıınnddaa ttookkssiissiittee yyaaşşaammaayyaa ddeevvaamm eettttiiğğii
+ttaakkddiirrddee,, tteeddaavvii ssüürreessii 77 ggüünn aazzaallttııllıırr..
+• TTookkssiissiittee ddeevvaamm eettttiiğğii vveeyyaa ddoozz vvee ttaakkvviimm aazzaallttmmaa ssoonnrraassıınnddaa
+tteekkrraarr yyaaşşaannddıığğıı ttaakkddiirrddee,, OONNUURREEGG kkeessiilliirr..
+DDiiğğeerr DDeerreeccee 33 vveeyyaa ddaahhaa • OONNUURREEGG’'ee aarraa vveerriilliirr vvee yyeerreell ttaavvssiiyyeelleerree ggöörree ttııbbbbii ddeesstteekk
+yyüükksseekk,, hheemmaattoolloojjiikk ssaağğllaannıırr.. TTookkssiissiittee DDeerreeccee 11 vveeyyaa ddaahhaa ddüüşşüükk ddeerreecceeyyee
+oollmmaayyaann oollaayyllaarr aazzaallttııllddıığğıınnddaa tteeddaavvii ddöönnggüüssüünnee aayynnıı ddoozzddaa ddeevvaamm eeddiilliirr..
+• TTookkssiissiittee yyeenniiddeenn yyaaşşaannıırrssaa,, DDeerreeccee 11 vveeyyaa aallttıınnaa ddüüşşüürrüülleennee
+kkaaddaarr OONNUURREEGG’'ee aarraa vveerriilliirr vvee ddoozz,, 220000 mmgg’'aa aazzaallttııllıırr..
+• HHaassttaa,, ddoozz aazzaallttmmaa ssoonnrraassıınnddaa ttookkssiissiittee yyaaşşaammaayyaa ddeevvaamm eettttiiğğii
+ttaakkddiirrddee,, tteeddaavvii ssüürreessii 77 ggüünn aazzaallttııllıırr..
+• TTookkssiissiittee ddeevvaamm eettttiiğğii vveeyyaa ddoozz vvee ttaakkvviimm aazzaallttmmaa ssoonnrraassıınnddaa
+tteekkrraarr yyaaşşaannddıığğıı ttaakkddiirrddee,, OONNUURREEGG kkeessiilliirr..
+** DDeerreeccee 11 hhaaffiiff,, DDeerreeccee 22 oorrttaa,, DDeerreeccee 33 şşiiddddeettllii,, DDeerreeccee 44 hhaayyaattıı tteehhddiitt eeddiicciiddiirr.. TTookkssiissiittee ddeerreecceelleerrii,, UUlluussaall
+KKaannsseerr EEnnssttiittüüssüü AAddvveerrss OOllaayyllaarr iiççiinn OOrrttaakk TTeerıımııiinnoolloojjii KKrriitteerrlleerrii VVeerrssiiyyoonn 44..33 ((NNCCII--CCTTCCAAEE vv44..33)) uuyyaarrıınnccaaddıırr..
+UUnnuuttuullaann vveeyyaa ggeecciikkeenn ddoozzllaarr
+BBiirr OONNUURREEGG ddoozzuu uunnuuttuulldduuğğuu vveeyyaa oollaağğaann zzaammaannıınnddaa aallıınnmmaaddıığğıı ttaakkddiirrddee ddoozz,, aayynnıı ggüünn
+oollaabbiillddiiğğiinnccee ççaabbuukk aallıınnmmaallııddıırr.. SSoonnrraa,, mmüütteeaakkiipp pprrooggrraammllıı ddoozz,, eerrtteessii ggüünn nnoorrmmaall zzaammaannıınnddaa
+aallıınnmmaallııddıırr.. AAyynnıı ggüünn iikkii ddoozz aallıınnmmaammaallııddıırr..
+BBiirr ddoozz kkuursuulluurrssaa,, aayynnıı ggüünn bbiirr ddoozz ddaahhaa aallıınnmmaammaallııddıırr.. BBuunnuunn yyeerriinnee eerrtteessii ggüünn nnoorrmmaall ddoozz
+uuyygguullaammaa zzaammaannıınnaa ggeerrii ddöönnüüllmmeelliiddiirr..
+UUyygguullaammaa şşeekkllii::
+OONNUURREEGG,, oorraall kkuullllaannıımmaa yyöönneelliikkttiirr..
+OONNUURREEGG,, yyiiyyeecceekkllee vveeyyaa yyiiyyeecceekkssiizz aallıınnaabbiilliirr.. TTaabblleettlleerr hheerr ggüünn yyaakkllaaşşııkk aayynnıı ssaaaattttee bbiirr
+bbaarrddaakk ssuuyyllaa bbüüttüünn hhaallddee yyuuttuullmmaallııddıırr.. TTaabblleettlleerr ttüükküürrüüllmmeemmeellii,, eezziillmmeemmeellii,, ççöözzüüllmmeemmeellii vveeyyaa
+ççiiğğnneennmmeemmeelliiddiirr ((bbkkzz.. BBööllüümm 66..66))..
+ÖÖzzeell ppooppüüllaassyyoonnllaarraa iilliişşkkiinn eekk bbiillggiilleerr::
+BBööbbrreekk yyeettmmeezzlliiğğii::
+OONNUURREEGG hhaaffiiff,, oorrttaa vveeyyaa şşiiddddeettllii bbööbbrreekk yyeettmmeezzlliiğğii oollaann hhaassttaallaarraa,, bbaaşşllaannggııçç ddoozzuu
+aayyaarrllaannmmaaddaann uuyygguullaannaabbiilliirr ((bbkkzz.. BBööllüümm 55..22))..
+KKaarraacciiğğeerr yyeettmmeezzlliiğğii::
+HHaaffiiff kkaarraacciiğğeerr yyeettmmeezzlliiğğii ((ttoottaall bbiilliirruubbiinn ((BBIILL)) ≤≤ nnoorrmmaalliinn üüsstt lliimmiittii ((UULLNN)) vvee aassppaarrttaatt
+aammiinnoottrraannssffeerraazz ((AASSTT)) >> UULLNN,, vveeyyaa BBIILL 11 iillaa 11,,55 ×x UULLNN vvee hheerrhhaannggii AASSTT)) oollaann hhaassttaallaarr iiççiinn
+ddoozz aayyaarrllaammaassıı öönneerriillmmeemmeekktteeddiirr ((bbkkzz.. BBööllüümm 55..22))..
+OOrrttaa ((BBIILL >> 11,,55 iillaa 33 ×x UULLNN)) vvee şşiiddddeettllii kkaarraacciiğğeerr yyeettmmeezzlliiğğii ((BBIILL >> 33 ×x UULLNN)) oollaann hhaassttaallaarr,,
+aaddvveerrss rreeaakkssiiyyoonnllaarr iiççiinn ddaahhaa ssııkk iizzlleennmmeelliiddiirr vvee ddoozz uuyygguunn şşeekkiillddee aayyaarrllaannmmaallııddıırr ((bbkkzz.. TTaabblloo
+11))..
+SSaayyffaa 33 // 1177PPeeddiiaattrriikk ppooppüüllaassyyoonn
+OONNUURREEGG’'iinn ççooccuukkllaarrddaa vvee 1188 yyaaşşıınnddaann kküüççüükk aaddoolleessaannllaarrddaa ggüüvveennlliilliiğğii vvee eettkkiilliilliiğğii
+bbeelliirrlleennmmeemmiişşttiirr.. VVeerrii mmeevvccuutt ddeeğğiillddiirr..
+GGeerriiyyaattrriikk ppooppüüllaassyyoonn::
+6655 yyaaşş üüzzeerrii hhaassttaallaarr iiççiinn ddoozz aayyaarrllaammaassıı öönneerriillmmeemmeekktteeddiirr ((bbkkzz.. BBööllüümm 55..22))..
+44..33 KKoonnttrreennddiikkaassyyoonnllaarr
+OONNUURREEGG,, aaşşaağğııddaakkii dduurruummllaarrddaa kkoonnttrreennddiikkeeddiirr::
+• EEttkkiinn mmaaddddeeyyee vveeyyaa BBööllüümm 66..11''ddee lliisstteelleenneenn yyaarrddıımmccıı mmaaddddeelleerrddeenn hheerrhhaannggii bbiirriinnee
+kkaarrşşıı aaşşıırrıı dduuyyaarrllııllııkk..
+• LLaakkttaassyyoonnddaa ((bbkkzz.. BBööllüümm 44..66))..
+44..44 ÖÖzzeell kkuullllaannıımm uuyyaarrııllaarrıı vvee öönnlleemmlleerrii
+HHeemmaattoolloojj iikk ttookkssii ssiittee
+OONNUURREEGG iillee tteeddaavvii nnööttrrooppeennii,, ttrroommbboossiittooppeennii vvee ffeebbrriill nnööttrrooppeennii iillee iilliişşkkiilleennddiirriilleebbiillmmeekktteeddiirr
+((ssııkkllııkkllaarr iiççiinn bbkkzz.. BBööllüümm 44..88)).. HHeemmaattoolloojjiikk ttookkssiissiitteelleerrii iiddaarree eeddeebbiillmmeekk aammaaccııyyllaa OONNUURREEGG
+iiççiinn aarraa vveerrmmee,, aazzaallttmmaa vveeyyaa kkeessmmee ggeerreekkeebbiilliirr.. HHaassttaallaarraa ffeebbrriill eeppiizzooddllaarnı ddeerrhhaall bbiillddiirrmmeelleerrii
+öönneerriillmmeelliiddiirr.. DDüüşşüükk ttrroommbboossiitt ssaayyıımmllaarnı oollaann hhaassttaallaarraa,, kkaannaammaannıınn eerrkkeenn bbeelliirrttii vveeyyaa
+sseemmppttoommllaarnınnıı bbiillddiirrmmeelleerrii öönneerriillmmeelliiddiirr.. HHaassttaallaarrıınn kkaarraakktteerriissttiikklleerrii,, tteeddaavvii yyaannııttıı vvee mmeevvccuutt
+kklliinniikk kkııllaavvuuzzllaarraa ggöörree eennffeekkssiiyyoonn//aatteeşşiinn iiddaarreessiinnee yyöönneelliikk aannttiibbiiyyoottiikklleerr vvee//vveeyyaa aannttiippiirreettiikklleerr
+vvee nnööttrrooppeenniiyyee yyöönneelliikk GGCCSSFF ggiibbii ddeesstteekk tteeddaavviissii ssaağğllaannmmaallııddıırr ((bbkkzz.. BBööllüümm 44..22,, TTaabblloo 11))..
+GGaassttrrooiinntteessttiinnaall ttookkssiissiittee
+GGaassttrrooiinntteessttiinnaall ttookkssiissiitteelleerr,, OONNUURREEGG iillee tteeddaavvii eeddiilleenn hhaassttaallaarrddaa ggöörrüülleenn eenn ssııkk aaddvveerrss
+rreeaakkssiiyyoonnllaarr oollmmuuşşttuurr ((bbkkzz.. BBööllüümm 44..88)).. HHaassttaallaarraa,, iillkk iikkii OONNUURREEGG tteeddaavvii ddöönnggüüssüü iiççiinn
+pprrooffiillaakkttiikk aannttii--eemmeettiikk tteeddaavvii uuyygguullaannmmaallııddıırr ((bbkkzz.. BBööllüümm 44..22)).. DDiiyyaarree,, sseemmppttoommllaarrıınn
+bbaaşşllaannggııccıınnddaa ddeerrhhaall tteeddaavvii eeddiillmmeelliiddiirr.. GGaassttrrooiinntteessttiinnaall ttookkssiissiitteelleerriinn iiddaarree eeddiillmmeessii aammaaccııyyllaa
+OONNUURREEGG iiççiinn aarraa vveerrmmee,, aazzaallttmmaa vveeyyaa kkeessmmee ggeerreekkeebbiilliirr ((bbkkzz.. BBööllüümm 44..22))..
+ÇÇooccuukk ddooğğuurrmmaa ppoottaannssiiyyeellii bbuulluunnaann kkaaddıınnllaarr//EErrkkeekklleerr vvee kkaaddıınnllaarrddaa ddooğğuumm kkoonnttrroollüü
+ÇÇooccuukk ddooğğuurrmmaa ppoottaannssiiyyeellii oollaann kkaaddıınnllaarr,, tteeddaavvii ssıırraassıınnddaa vvee 66 aayy ssoonnrraassıınnaa kkaaddaarr eettkkiillii ddooğğuumm
+kkoonnttrrooll yyöönntteemmlleerrii kkuullllaannmmaallııddıırr.. EErrkkeekklleerr,, tteeddaavvii ssıırraassıınnddaa vvee 33 aayy ssoonnrraassıınnaa kkaaddaarr eettkkiillii
+ddooğğuumm kkoonnttrrooll yyöönntteemmlleerrii kkuullllaannmmaallııddıırr ((bbkkzz.. BBööllüümm 44..66))..
+YYaarrddıımmccıı MMaaddddeelleerr::
+OONNUURREEGG ttaabblleettlleerr,, llaakkttoozz iiççeerriirr.. NNaaddiirr kkaallııttıımmssaall ggaallaakkttoozz iinnttoolleerraannssıı,, LLaapppp llaakkttaazz yyeettmmeezzlliiğğii
+yyaa ddaa gglluukkoozz--ggaallaakkttoozz mmaallaabbssoorrppssiiyyoonn pprroobblleemmii oollaann hhaassttaallaarrıınn bbuu iillaaccıı kkuullllaannmmaammaallaarnı
+ggeerreekkiirr..
+OONNUURREEGG ttaabblleett bbaaşşıınnaa 1lmmmmoollddeenn ((2233mmgg)) ddaahhaa aazz ssooddyyuumm iihhttiivvaa eeddeerr.. KKuullllaannıımm yyoolluu nneeddeennii
+iillee hheerrhhaannggii bbiirr uuyyaarnı ggeerreekkmmeemmeekktteeddiirr..
+44..55 DDiiğğeerr ttııbbbbii üürrüünnlleerr iillee eettkkiilleeşşiimmlleerr vvee ddiiğğeerr eettkkiilleeşşiimm şşeekkiilllleerrii
+AAzzaassiittiiddiinn iillee hhiiççbbiirr rreessmmii kklliinniikk iillaaçç--iillaaçç eettkkiilleeşşiimm ççaallıışşmmaassıı yyüürrüüttüüllmmeemmiişşttiirr..
+SSaayyffaa 44 // 1177AAnnttaaggoonniissttiikk,, aaddiittiiff vveeyyaa ssiinneerrjjiissttiikk ffaarrmmaakkooddiinnaammiikk eettkkii ggöözz aarrddıı eeddiilleemmeeddiiğğii iiççiinn ddiiğğeerr
+aannttiinneeooppllaassttiikk aajjaannllaarrllaa bbiirrlliikkttee uuyygguullaammaa dduurruummuunnddaa ddiikkkkaattllii oolluunnmmaassıı vvee iizzlleemmee yyaappııllmmaassıı
+öönneerriillmmeekktteeddiirr.. BBuu eettkkiilleerr uuyygguullaammaa ddoozzuu,, ddiizziissii vvee ttaakkvviimmiinnee ggöörree ddeeğğiişşiikklliikk ggöösstteerreebbiilliirr..
+OONNUURREEGG mmaarruuzziiyyeettii,, bbiirr pprroottoonn ppoommppaassıı iinnhhiibbiittöörrüüyyllee ((oommeepprraazzooll)) bbiirrlliikkttee uuyygguullaannddıığğıınnddaa
+mmiinniimmaall oollaarraakk eettkkiilleennmmiişşttiirr.. DDoollaayyııssııyyllaa OONNUURREEGG,, pprroottoonn ppoommppaassıı iinnhhiibbiittöörrlleerrii vveeyyaa ddiiğğeerr
+ppHH mmooddiiffiiyyee eeddiicciilleerrllee bbiirrlliikkttee uuyygguullaannddıığğıınnddaa ddoozz ddüüzzeennlleemmeessii ggeerreekkllii ddeeğğiillddiirr..
+İİnnssaann kkaarraacciiğğeerr ffrraakkssiiyyoonnllaarrıınnddaa aazzaassiittiiddiinn iillee yyaappııllaann bbiirr iinn vviittrroo ççaallıışşmmaaddaa,, aazzaassiittiiddiinniinn
+ssiittookkrroomm PP445500 iizzooffoorrmmllaarnıyyllaa ((CCYYPP)) mmeettaabboolliizzee eeddiillmmeeddiiğğii ggöösstteerriillmmiişşttiirr.. DDoollaayyııssııyyllaa CCYYPP
+iinnddüükklleeyyiicciilleerr vveeyyaa iinnhhiibbiittöörrlleerriiyyllee eettkkiilleeşşiimmlleerriinn oollaassıı oollmmaaddıığğıı kkaabbuull eeddiilliirr ((bbkkzz.. BBööllüümm 55..22))..
+AAzzaassiittiiddiinniinn ssiittookkrroomm PP445500 ssuubbssttrraattllaarrıınnıınn mmeettaabboolliizzmmaassıı üüzzeerriinnddeekkii kklliinniikk oollaarraakk iillggiillii iinnhhiibbee
+eeddiiccii vveeyyaa iinnddüükklleeyyiiccii eettkkiilleerrii mmuuhhtteemmeell ddeeğğiillddiirr ((bbkkzz.. BBööllüümm 55..22)).. OONNUURREEGG,, PP--gglliikkoopprrootteeiinn
+((PP--ggpp)),, mmeemmee kkaannsseerrii ddiirreennçç pprrootteeiinnii ((BBCCRRPP)),, oorrggaanniikk aannyyoonn ttaaşşııyyııccııllaarrı ((OOAATT)) OOAATT11 vvee
+OOAATT33,, oorrggaanniikk aannyyoonn ttaaşşııyyııccıı ppoolliippeeppttiittlleerrii ((OOAATTPP)) OOAATTPP 11BB 11 vvee OOAATTPP 11BB33 vveeyyaa oorrggaanniikk
+kkaattyyoonn ttaaşşııyyııccııssıı ((OOCCTT)) OOCCTT22’'nniinn ssuubbssttrraattllaarnıyyllaa bbiirrlliikkttee uuyygguullaannddıığğıınnddaa kklliinniikk oollaarraakk iillggiillii
+iillaaçç--iillaaçç eettkkiilleeşşiimmii bbeekklleennmmeemmeekktteeddiirr..
+AAzzaassiittiiddiinn bbiirr PP--ggpp ssuubbssttrraattıı oollmmaaddıığğıınnddaann,, PP--ggpp iinnddüükklleeyyiicciilleerrii vveeyyaa iinnhhiibbiittöörrlleerriiyyllee eettkkiilleeşşiimmee
+ggiirrmmeessii bbeekklleennmmeemmeekktteeddiirr..
+ÖÖzzeell ppooppüüllaassyyoonnllaarraa iilliişşkkiinn eekk bbiillggiilleerr
+PPeeddiiyyaattrriikk ppooppüüllaassyyoonn::
+EEttkkiilleeşşiimm ççaallıışşmmaassıı yyaappııllmmaammıışşttıırr..
+44..66 GGeebbeelliikk vvee llaakkttaassyyoonn
+GGeenneell ttaavvssiiyyee::
+GGeebbeelliikk kkaatteeggoorriissii:: DD
+ÇÇooccuukk ddooğğuurrmmaa ppoottaannssiiyyeellii bbuulluunnaann kkaaddıınnllaarr//DDooğğuumm kkoonnttrroollüü ((KKoonnttrraasseeppssiiyyoonn))
+HHaayyvvaann ççaallıışşmmaallaarrıı ssoonnuuççllaarrıınnaa vvee eettkkii mmeekkaanniizzmmaassıınnaa ggöörree OONNUURREEGG,, ddooğğuumm kkoonnttrrooll yyöönntteemmii
+kkuullllaannmmaayyaann,, ççooccuukk ddooğğuurrmmaa ppoottaannssiiyyeellii oollaann kkaaddıınnllaarrddaa öönneerriillmmeemmeekktteeddiirr.. ÇÇooccuukk ddooğğuurrmmaa
+ppoottaannssiiyyeellii oollaann kkaaddıınnllaarr,, tteeddaavvii ssıırraassıınnddaa vvee 66 aayy ssoonnrraassıınnaa kkaaddaarr eettkkiillii ddooğğuumm kkoonnttrrooll
+yyöönntteemmlleerrii kkuullllaannmmaallııddıırr.. EErrkkeekklleerree,, tteeddaavvii aallıırrkkeenn ççooccuukk yyaappmmaammaallaarrıı öönneerriillmmeelliiddiirr vvee
+eerrkkeekklleerr,, tteeddaavvii ssıırraassıınnddaa vvee 33 aayy ssoonnrraassıınnaa kkaaddaarr eettkkiillii ddooğğuumm kkoonnttrrooll yyöönntteemmlleerrii kkuullllaannmmaallııddıırr
+((bbkkzz.. BBööllüümm 44..44 vvee 55..33))..
+GGeebbeelliikk ddöönneemmii
+OONNUURREEGG’'iinn hhaammiillee kkaaddıınnllaarrddaa kkuullllaannıımmıınnaa ddaaiirr yyeetteerrllii vveerrii bbuulluunnmmaammaakkttaaddıırr.. FFaarreelleerr vvee
+ssııççaannllaarrddaa yyaappııllaann ççaallıışşmmaallaarr,, üürreemmee vvee ggeelliişşiimm ttookkssiissiitteessiinnee iişşaarreett eettmmiişşttiirr ((bbkkzz.. BBööllüümm 55..33))..
+İİnnssaannllaarraa yyöönneelliikk ppoottaannssiiyyeell rriisskk bbiilliinnmmeemmeekktteeddiirr.. HHaayyvvaann ççaallıışşmmaallaarrıı ssoonnuuççllaarrıınnaa vvee eettkkii
+mmeekkaanniizzmmaassıınnaa ggöörree OONNUURREEGG,, hhaammiilleelliikk ssıırraassıınnddaa ((aaççııkkççaa ggeerreekkllii oollmmaaddıığğıı ssüürreeccee öözzeelllliikkllee
+iillkk ttrriimmeesstteerr ssıırraassıınnddaa)) vvee ddooğğuumm kkoonnttrrooll yyöönntteemmii kkuullllaannmmaayyaann ççooccuukk ddooğğuurrmmaa ppoottaannssiiyyeellii oollaann
+kkaaddıınnllaarrddaa öönneerriillmmeemmeekktteeddiirr..
+SSaayyffaa 55 // 1177TTeeddaavviinniinn aavvaannttaajj llaarnı,, hheerr bbiirr vvaakkaaddaa ffeettüüssee yyöönneelliikk mmuuhhtteemmeell rriisskkee kkaarrşşıı ddeeğğeerrlleennddiirriillmmeelliiddiirr..
+BBiirr hhaassttaa vveeyyaa ppaarrttnneerr OONNUURREEGG aallıırrkkeenn hhaammiillee kkaallddıığğıı ttaakkddiirrddee hhaassttaa,, ffeettüüssee iilliişşkkiinn ppoottaannssiiyyeell
+rriisskk hhaakkkkıınnddaa bbiillggiilleennddiirriillmmeelliiddiirr..
+OONNUURREEGG iillee tteeddaavvii ssıırraassıınnddaa vvee ssoonn ddoozzddaann eenn aazz 66 aayy ssoonnrraa üürreemmee ppoottaannssiiyyeellii oollaann kkaaddıınnllaarraa
+eettkkiillii bbiirr ddooğğuumm kkoonnttrrooll yyöönntteemmii kkuullllaannmmaallaarrıınnıı öönneerriinn.. OONNUURREEGG iillee tteeddaavvii ssıırraassıınnddaa vvee ssoonn
+ddoozzddaann eenn aazz 33 aayy ssoonnrraa,, üürreemmee ppoottaannssiiyyeellii oollaann kkaaddıınn ppaarrttnneerrlleerrii oollaann eerrkkeekklleerree eettkkiillii
+kkoonnttrraasseeppssiiyyoonn kkuullllaannmmaallaarrıınnıı ttaavvssiiyyee eeddiinn..
+LLaakkttaassyyoonn ddöönneemmii
+AAzzaassiittiiddiinn vveeyyaa mmeettaabboolliittlleerriinniinn iinnssaann ssüüttüünnee ggeeççiipp ggeeççmmeeddiiğğii bbiilliinnmmeemmeekktteeddiirr.. EEmmzziirriilleenn
+ççooccuukkttaakkii ppoottaannssiiyyeell cciiddddii aaddvveerrss rreeaakkssiiyyoonnllaarr nneeddeenniiyyllee eemmzziirrmmee,, OONNUURREEGG tteeddaavviissii ssıırraassıınnddaa
+kkoonnttrreennddiikkeeddiirr ((bbkkzz.. BBööllüümm 44..33))..
+ÜÜrreemmee yyeetteenneeğğii//FFeerrttiilliittee
+AAzzaassiittiiddiinniinn ffeerrttiilliittee üüzzeerriinnddeekkii eettkkiissiinnee iilliişşkkiinn iinnssaann vveerriilleerni mmeevvccuutt ddeeğğiillddiirr.. HHaayyvvaannllaarrddaa
+aazzaassiittiiddiinniinn eerrkkeekk ffeerrttiilliitteessii üüzzeerriinnddeekkii aaddvveerrss eettkkiilleerrii ggöösstteerriillmmiişşttiirr ((bbkkzz.. BBööllüümm 55..33)).. HHaammiillee
+kkaallmmaakk iisstteeyyeenn hhaassttaallaarraa,, OONNUURREEGG tteeddaavviissiinnee bbaaşşllaannmmaaddaann öönnccee üürreemmee ddaannıışşmmaannllıığğıı vveeyyaa
+yyuummuurrttaallııkk yyaa ddaa ssppeerrmm ddoonndduurraarraakk ssaakkllaammaayyıı ddüüşşüünnmmeelleerrii öönneerriillmmeelliiddiirr..
+44..77 AArraaçç vvee mmaakkiinnee kkuullllaannıımmıı üüzzeerriinnddeekkii eettkkiilleerr
+OONNUURREEGG,, aarraaçç vvee mmaakkiinnee kkuullllaannıımmıı üüzzeerriinnddee mmiinnöörr eettkkiiyyee ssaahhiippttiirr.. OONNUURREEGG kkuullllaannıımmıınnddaa
+yyoorrgguunnlluukk bbiillddiirriillmmiişşttiirr.. DDoollaayyııssııyyllaa aarraaçç vveeyyaa mmaakkiinnee kkuullllaannıırrkkeenn ddiikkkkaattllii oolluunnmmaassıı
+öönneerriillmmeelliiddiirr..
+44..88 İİsstteennmmeeyyeenn eettkkiilleerr
+GGüüvveennlliikk pprrooffiilliinniinn öözzeettii
+EEnn yyaayyggıınn aaddvveerrss rreeaakkssiiyyoonnllaarr bbuullaannttıı ((%%6644,,88)),, kkuussmmaa ((%%5599,,77)),, ddiiyyaarree ((%%5500,,44)),, nnööttrrooppeennii
+((%%4444,,55)),, yyoorrgguunnlluukk//aasstteennii ((%%4444,,11))55,, kkaabbıızzllııkk ((%%3388,,66)),, ttrroommbboossiittooppeennii ((%%3333,,55)),, kkaarrıınn aağğrrııssıı
+((%%2211,,66))44,, ssoolluunnuumm yyoolluu eennffeekkssiiyyoonnuu ((%%1177))22,, aarrttrraalljjii ((%%1133,,66)),, iişşttaahh kkaayybbıı ((%%1122,,77)),, ffeebbrriill
+nnööttrrooppeennii ((%%1111,,99)),, ssıırrtt aağğrrııssıı ((%%1111,,99)),, llöökkooppeennii ((%%1100,,66)),, uuzzuuvvllaarrddaa aağğrrıı ((%%1100,,66)) vvee ppnnöömmoonniiddiirr
+((%%1100,,22))1'..
+CCiiddddii aaddvveerrss rreeaakkssiiyyoonnllaarr,, OONNUURREEGG aallaann hhaassttaallaarnınn %%1166,,11'’iinnddee ggeerrççeekklleeşşmmiişşttiirr.. EEnn yyaayyggıınn
+cciiddddii aaddvveerrss rreeaakkssiiyyoonnllaarr ffeebbrriill nnööttrrooppeennii ((%%66,,88)) vvee ppnnöömmoonniiddiirr ((%%55,,11))11..
+OONNUURREEGG’'iinn bbiirr aaddvveerrss rreeaakkssiiyyoonn nneeddeenniiyyllee ttaammaammeenn kkeessiillmmeessii,, hhaassttaallaarnınn %%66,,88’'iinnddee mmeeyyddaannaa
+ggeellmmiişşttiirr.. KKaallııccıı kkeessiillmmee ggeerreekkttiirreenn eenn yyaayyggıınn aaddvveerrss rreeaakkssiiyyoonnllaarr bbuullaannttıı ((%%22,,11)),, ddiiyyaarree ((%%11,,77))
+vvee kkuussmmaaddıırr ((%%11,,33))..
+BBiirr aaddvveerrss rreeaakkssiiyyoonn nneeddeenniiyyllee ddoozzaa aarraa vveerrmmee,, OONNUURREEGG aallaann hhaassttaallaarrıınn %%3366,,44'’üünnddee mmeeyyddaannaa
+ggeellmmiişşttiirr.. DDoozzaa aarraa vveerrmmee ggeerreekkttiirreenn aaddvveerrss rreeaakkssiiyyoonnllaarr nnööttrrooppeennii ((%%1199,,99)),, ttrroommbboossiittooppeennii
+((%%88,,55)),, bbuullaannttıı ((%%55,,55)),, ddiiyyaarree ((%%44,,22)),, kkuussmmaa ((%%33,,88)),, ppnnöömmoonnii ((%%33,,44))11,, llöökkooppeennii ((%%22,,55)),, ffeebbrriill
+nnööttrrooppeennii ((%%22,,11)) vvee kkaarrıınn aağğrnıssııddıırr ((%%22,,11))44..
+BBiirr aaddvveerrss rreeaakkssiiyyoonn ppeerriiyyoodduu nneeddeenniiyyllee ddoozz aazzaallttmmaa,, OONNUURREEGG aallaann hhaassttaallaarrıınn %%1144'’üünnddee
+mmeeyyddaannaa ggeellmmiişşttiirr.. DDoozz aazzaallttmmaa ggeerreekkttiirreenn aaddvveerrss rreeaakkssiiyyoonnllaarr nnööttrrooppeennii ((%%55,,55)),, ddiiyyaarree
+((%%33,,44)),, ttrroommbboossiittooppeennii ((%%11,,77)) vvee bbuullaannttııddıırr ((%%11,,77))..
+SSaayyffaa 66 // 1177AAddvveerrss rreeaakkssiiyyoonnllaarnınn ttaabblloolluu lliisstteessii
+AAşşaağğııddaa OONNUURREEGG iillee yyaappııllmmıışş ppiivvoottaall FFaazz 33 ççaallıışşmmaassıınnddaa bbiillddiirriilleenn AAİİRR’'lleerriinn ssııkkllııkk kkaatteeggoorriissii
+vveerriillmmeekktteeddiirr.. TTooppllaamm 223366 hhaassttaa OONNUURREEGG aallmmıışşttıırr.. MMeeddyyaann tteeddaavvii ssüürreessii OONNUURREEGG kkoolluu iiççiinn
+1111,,66 aayy oollmmuuşşttuurr ((aarraallııkk:: 00,,55 iillaa 7744,,33 aayy))..
+SSııkkllııkkllaarr şşuu şşeekkiillddee ttaannıımmllaannıırr:: ÇÇookk yyaayyggıınn ((>≥11//1100));; yyaayyggıınn ((>≥11//110000 iillaa <<11//1100));; yyaayyggıınn oollmmaayyaann
+((>≥11//11..000000 iillaa <<11//110000));; sseeyyrreekk ((>≥11//1100..000000 iillaa <<11//11..000000));; ççookk sseeyyrreekk ((<<11//1100..000000));; bbiilliinnmmiiyyoorr
+((eellddeekkii vveerriilleerrddeenn hhaarreekkeettllee ttaahhmmiinn eeddiilleemmiiyyoorr)).. HHeerr bbiirr ssııkkllııkk ggrruuppllaammaassıınnddaa,, iisstteennmmeeyyeenn
+eettkkiilleerr aazzaallaann şşiiddddeett ssıırraassıınnddaa ssuunnuullmmaakkttaaddıırr.. AAddvveerrss rreeaakkssiiyyoonnllaarr,, ggöözzlleenneenn eenn yyüükksseekk ssııkkllıığğaa
+ggöörree aaşşaağğııddaa ssuunnuullmmaakkttaaddıırr..
+OONNUURREEGG iiddaammee tteeddaavviissii aallaann AAMMLL hhaassttaallaarrıınnddaakkii aaddvveerrss iillaaçç rreeaakkssiiyyoonnllaarrıı ((AAİİRR’'lleerr)) a
+a
+EEnnffeekkssiiyyoonnllaarr vvee eennffeessttaassyyoonnllaarr
+ÇÇookk yyaayyggıınn:: PPnnöömmoonnii1l', 66,, ssoolluunnuumm yyoolluu eennffeekkssiiyyoonnuu22
+YYaayyggıınn:: İİnnfflluueennzzaa,, iiddrraarr yyoolluu eennffeekkssiiyyoonnuu33,, bbrroonnşşiitt,, rriinniitt
+KKaann vvee lleennff ssiisstteemmii hhaassttaallııkkllaarrıı
+ÇÇookk yyaayyggıınn:: NNööttrrooppeennii,, ttrroommbboossiittooppeennii66,, ffeebbrriill nnööttrrooppeennii66,, llöökkooppeennii
+MMeettaabboolliizzmmaa vvee bbeesslleennmmee hhaassttaallııkkllaarrıı
+ÇÇookk yyaayyggıınn:: İİşşttaahh kkaayybbıı
+PPssiikkiiyyaattrriikk hhaassttaallııkkllaarr
+YYaayyggıınn:: AAnnkkssiiyyeettee
+GGaassttrrooiinntteessttiinnaall hhaassttaallııkkllaarr
+ÇÇookk yyaayyggıınn:: BBuullaannttıı,, kkuussmmaa,, ddiiyyaarree,, kkaabbıızzllııkk,, kkaarrıınn aağğrnıssıı44
+KKaass--iisskkeelleett bboozzuukklluukkllaarrıı,, bbaağğ ddookkuu vvee kkeemmiikk hhaassttaallııkkllaarrıı
+ÇÇookk yyaayyggıınn:: AArrttrraalljjii,, ssıırrtt aağğrnıssıı,, uuzzuuvvllaarrddaa aağğrnı
+GGeenneell bboozzuukklluukkllaarr vvee uuyygguullaammaa bbööllggeessiinnee iilliişşkkiinn hhaassttaallııkkllaarr
+ÇÇookk yyaayyggıınn:: YYoorrgguunnlluukk // aasstteennii55
+AArraaşşttıırrmmaallaarr
+YYaayyggıınn:: KKiilloo kkaayybbıı
+aa OONNUURREEGG kkoolluunnddaa hhaassttaallaarrıınn eenn aazz %%55’'iinnddeekkii vvee ppllaasseebboo kkoolluunnaa kkııyyaassllaa eenn aazz %%22 ddaahhaa yyüükksseekk ssııkkllıığğaa ssaahhiipp ttüümm
+AAOO'’llaarr..
+1
+1
+GGrruuppllaannddıırnıllaann tteerriimmlleerr ppnnöömmoonnii,, bbrroonnkkooppuullmmoonneerr aassppeerrggiilllloozz,, aakkcciiğğeerr eennffeekkssiiyyoonnuu,, PPnneeuummooccyyssttiiss jjiirroovveecciiii
+ppnnöömmoonniissii,, aattiippiikk ppnnöömmoonnii,, bbaakktteerriiyyeell ppnnöömmoonnii vvee ffuunnggaall ppnnöömmoonniiyyii iiççeerrmmeekktteeddiirr..
+2
+2
+GGrruuppllaannddıırrııllaann tteerriimmlleerr üüsstt ssoolluunnuumm yyoolluu eennffeekkssiiyyoonnuu,, ssoolluunnuumm yyoolluu eennffeekkssiiyyoonnuu vvee vviirraall ssoolluunnuumm yyoolluu
+eennffeekkssiiyyoonnuunnuu iiççeerrımııeekktteeddiirr..
+3 GGrruuppllaannddıırrııllaann tteerriimmlleerr iiddrraarr yyoolluu eennffeekkssiiyyoonnuu,, bbaakktteerriiyyeell iiddrraarr yyoolluu eennffeekkssiiyyoonnuu,, EEsscchheerriicchhiiaa iiddrraarr yyoolluu
+eennffeekkssiiyyoonnuu vvee ssiissttiittii iiççeerrmmeekktteeddiirr..
+44 GGrruuppllaannddıırrııllaann tteerriimmlleerr kkaarrıınn aağğrrııssıı,, üüsstt kkaarrıınn aağğrnıssıı,, kkaarrıınnddaa rraahhaattssıızzllııkk hhiissssii vvee ggaassttrrooiinntteessttiinnaall aağğrrııyyıı
+iiççeerrmmeekktteeddiirr..
+55 GGrruuppllaannddıırrııllaann tteerriimmlleerr yyoorrgguunnlluukk vvee aasstteenniiyyii iiççeerrmmeekktteeddiirr..
+66 EEnn aazz bbiirriinniinn hhaayyaattıı tteehhddiitt eeddiiccii oolldduuğğuu ddüüşşüünnüülleenn aaddvveerrss rreeaakkssiiyyoonnllaarr ((ööllüümmllee ssoonnuuççllaannddıığğıı ttaakkddiirrddee,, ööllüümm
+vvaakkaallaarrıınnaa ddaahhiill eeddiilliirr))..
+SSaayyffaa 77 // 1177SSeeççiilleenn aaddvveerrss rreeaakkssiiyyoonnllaarnınn ttaannıımmıı
+HHeemmaattoolloojjiikk ttookkssiissiittee
+OONNUURREEGG iillee tteeddaavvii eeddiilleenn hhaassttaallaarrddaa yyeennii vveeyyaa kkööttüülleeşşeenn DDeerreeccee 33 vveeyyaa ddaahhaa yyüükksseekk nnööttrrooppeennii
+((%%4411,,11)),, ttrroommbboossiittooppeennii ((%%2222,,55)) vveeyyaa ffeebbrriill nnööttrrooppeennii ((%%1111,,44)) yyaayyggıınn oollaarraakk bbiillddiirriilleenn aaddvveerrss
+rreeaakkssiiyyoonnllaarr oollmmuuşşttuurr.. DDeerreeccee 33 vveeyyaa DDeerreeccee 44 nnööttrrooppeennii,, ttrroommbboossiittooppeennii vveeyyaa ffeebbrriill
+nnööttrrooppeenniinniinn iillkk ggeerrççeekklleeşşmmeessii,, OONNUURREEGG aallaann hhaassttaallaarrıınn ssıırraassııyyllaa %%1199,,99,, %%1100,,66 vvee
+%%11,,77’'ssiinnddee iillkk 22 ddöönnggüü iiççiinnddee ggöözzlleennmmiişşttiirr.. İİzzlleemmee vvee iiddaarree rreehhbbeerrlliiğğii iiççiinn bbkkzz.. BBööllüümm 44..22..
+GGaassttrrooiinntteessttiinnaall ttookkssiissiittee
+GGaassttrrooiinntteessttiinnaall ttookkssiissiitteelleerr,, OONNUURREEGG iillee tteeddaavvii eeddiilleenn hhaassttaallaarrddaa ggöörrüülleenn eenn ssııkk aaddvveerrss
+rreeaakkssiiyyoonnllaarr oollmmuuşşttuurr.. OONNUURREEGG iillee tteeddaavvii eeddiilleenn hhaassttaallaarrddaa bbuullaannttıı ((%%6644,,88)),, kkuussmmaa ((%%5599,,77))
+vvee ddiiyyaarree ((%%5500,,44)) bbiillddiirriillmmiişşttiirr.. DDeerreeccee 33 vveeyyaa ddaahhaa yyüükksseekk ddiiyyaarree,, hhaassttaallaarrıınn %%55,,11’'iinnddee
+ggeerrççeekklleeşşmmiişş vvee DDeerreeccee 33 vveeyyaa ddaahhaa yyüükksseekk kkuussmmaa vvee bbuullaannttıı,, OONNUURREEGG iillee tteeddaavvii eeddiilleenn
+hhaassttaallaarrıınn ssıırraassııyyllaa %%33 vvee %%22,,55’'iinnddee ggöözzlleennmmiişşttiirr.. DDeerreeccee 33 vveeyyaa DDeerreeccee 44 bbuullaannttıı,, kkuussmmaa vveeyyaa
+ddiiyyaarreenniinn iillkk ggeerrççeekklleeşşmmeessii,, OONNUURREEGG aallaann hhaassttaallaarrıınn ssıırraassııyyllaa %%11,,77,, %%33 vvee %%11,,33'’üünnddee iillkk 22
+ddöönnggüü iiççiinnddee ggöözzlleennmmiişşttiirr.. İİzzlleemmee vvee iiddaarree rreehhbbeerrlliiğğii iiççiinn bbkkzz.. BBööllüümm 44..22..
+ŞŞüüpphheellii aaddvveerrss rreeaakkssiiyyoonnllaarrıınn rraappoorrllaannmmaassıı
+RRuuhhssaattllaannddıırrmmaa ssoonnrraassıı şşüüpphheellii iillaaçç aaddvveerrss rreeaakkssiiyyoonnllaarnınnıınn rraappoorrllaannmmaassıı bbüüyyüükk öönneemm
+ttaaşşıımmaakkttaaddıırr.. RRaappoorrllaammaa yyaappııllmmaassıı,, iillaaccıınn yyaarraarr // rriisskk ddeennggeessiinniinn ssüürreekkllii oollaarraakk iizzlleennmmeessiinnee
+oollaannaakk ssaağğllaarr.. SSaağğllııkk mmeesslleeğğii mmeennssuuppllaarrıınnıınn hheerrhhaannggii bbiirr şşüüpphheellii aaddvveerrss rreeaakkssiiyyoonnuu TTüürrkkiiyyee
+FFaarrmmaakkoovviijjiillaannss MMeerrkkeezzii ((TTÜÜFFAAMM))’'nnee bbiillddiirrmmeelleerrii ggeerreekkmmeekktteeddiirr.. ((wwwwww..ttiittcckk..ggoovv..ttrr;; ee--
+ppoossttaa:: ttuuffaamm@@ttiittcckk..ggoovv..ttrr;; tteell:: 00 880000 331144 0000 0088;; ffaakkss:: 00 331122 221188 3355 9999))..
+44..99 DDoozz aaşşıımmıı vvee tteeddaavviissii
+DDoozz aaşşıımmıı hhaalliinnddee hhaassttaa uuyygguunn kkaann ssaayyıımmllaarrııyyllaa iizzlleennmmeelliiddiirr vvee yyeerreell ttaavvssiiyyeelleerree ggöörree,, ggeerreekkllii
+oolldduuğğuunnccaa ddeesstteekk tteeddaavviissii ssaağğllaannmmaallııddıırr.. OONNUURREEGG ddoozz aaşşıımmıınnaa yyöönneelliikk bbiilliinneenn ssppeessiiffiikk bbiirr
+aannttii ddoott yyookkttuurr..
+55.. FFAARRMMAAKKOOLLOOJJİİKK ÖÖZZEELLLLİİKKLLEERR
+55..11 FFaarrmmaakkooddiinnaammiikk öözzeelllliikklleerr
+FFaarrmmaakkootteerraappööttiikk ggrruupp:: AAnnttiinneeooppllaassttiikk aajj aannllaarr,, aannttiimmeettaabboolliittlleerr,, ppiirriimmiiddiinn aannaallooggllaarrıı
+AATTCC kkoodduu:: LL0011BBCC0077
+EEttkkii mmeekkaanniizzmmaassıı
+AAzzaassiittiiddiinn,, bbiirr DDNNAA mmeettiillttrraannssffeerraazz iinnhhiibbee eeddiiccii vvee eeppiiggeenneettiikk mmooddiiffiiyyee eeddiicciiddiirr.. AAzzaassiittiiddiinn,,
+hhüüccrreesseell aallıımm vvee nnüükklleeoottiitt ttrriiffoossffaattllaarraa eennzziimmaattiikk bbiiyyoottrraannssffoorrmmaassyyoonn ssoonnrraassıınnddaa DDNNAA vvee
+RRNNAA’'yyaa ddaahhiill oolluurr.. AAzzaassiittiiddiinniinn AAMMLL hhüüccrreelleerriinniinn DDNNAA’'ssıınnaa ddaahhiill oollmmaassıı,, DDNNAA
+mmeettiillttrraannssffeerraazzllaarrıınnıınn iinnhhiibbiissyyoonnuu vvee DDNNAA mmeettiillaassyyoonnuunnuunn iinnddiirrggeennmmeessii yyoolluuyyllaa eeppiiggeenneettiikk
+yyoollllaarrıı mmooddiiffiiyyee eettmmiişşttiirr.. BBuu ddaa ttüümmöörr bbaasskkııllaannmmaassıınnıı,, iimmmmüünn yyoollllaarrıınnıı,, hhüüccrree ddöönnggüüssüünnüü vvee
+hhüüccrree ffaarrkkllııllaaşşmmaassıınnıı ddüüzzeennlleeyyeenn ggeennlleerriinn yyeenniiddeenn eekksspprreessyyoonnuu ddaahhiill ggeenn eekksspprreessyyoonnuunnuunn
+aalltteerraassyyoonnuunnuu ssaağğllaammıışşttıırr.. AAzzaassiittiiddiinniinn AAMMLL hhüüccrreelleerriinniinn RRNNAA’'ssıınnaa ddaahhiill oollmmaassıı,, RRNNAA
+mmeettiillttrraannssffeerraazzıı iinnhhiibbee eettmmiişş,, RRNNAA mmeettiillaassyyoonnuunnuu iinnddiirrggeemmiişş,, RRNNAA ssttaabbiilliitteessiinnii aazzaallttmmıışş vvee
+pprrootteeiinn sseenntteezziinnii aazzaallttmmıışşttıırr..
+SSaayyffaa 88 // 1177KKlliinniikk eettkkiilliilliikk vvee ggüüvveennlliilliikk
+OONNUURREEGG’'iinn eettkkiilliilliikk vvee ggüüvveennlliilliiğğii,, OONNUURREEGG’'iinn AAMMLL hhaassttaallaarrıınnddaa iiddaammee tteeddaavviissii oollaarraakk
+ppllaasseebbooyyaa kkııyyaassllaa ddeeğğeerrlleennddiirriillddiiğğii ççiifftt kköörr,, rraannddoommiizzee,, ppaarraalleell ggrruupp ttaassaarrıımmllıı,, ççookk mmeerrkkeezzllii,,
+ppllaasseebboo kkoonnttrroollllüü bbiirr FFaazz 33 ççaallıışşmmaassıı oollaann QQUUAAZZAARR AAMMLL--000011’'ddee ((CCCC--448866--AAMMLL--000011))
+ççaallıışşııllmmıışşttıırr.. ÇÇaallıışşmmaayyaa ddee nnoovvoo AAMMLL,, öönncceekkii mmiiyyeellooddiissppllaassttiikk sseennddrroommllaarnınnıınn ((MMDDSS))
+tteeşşhhiissiinnee sseekkoonnddeerr AAMMLL vveeyyaa kkrroonniikk mmiiyyeelloommoonnoossiittiikk llöösseemmii ((CCMMMMLL)) hhaassttaallaarrıı aallıınnmmıışşttıırr;;
+hhaassttaallaarr 5555 yyaaşşıınnddaa vvee ddaahhaa bbüüyyüükkttüürr,, iillkk ttaamm rreemmiissyyoonnaa ((CCRR)) vveeyyaa ttaammaammllaannmmaammıışş kkaann ssaayyıımmıı
+iiyyiilleeşşmmeessii iillee ttaamm rreemmiissyyoonn ((CCRRii)),, kkoonnssoolliiddaassyyoonn tteeddaavviillii vveeyyaa tteeddaavviissiizz yyooğğuunn iinnddüükkssiiyyoonn
+kkeemmootteerraappiissii ssoonnrraassıı 44 aayy iiççiinnddee ((++//-- 77 ggüünn)) eerriişşmmiişşttiirr.. HHaassttaallaarr rraannddoommiizzaassyyoonn zzaammaannıınnddaa
+HHKKHHNN iiççiinn uuyygguunn ddeeğğiillddiirr;; bbuu hhaassttaallaarraa bbiirr nnaakkiill ddoonnöörrüü oollmmaayyaann vveeyyaa HHKKHHNN iillee iilleerrlleemmeeyyii
+tteerrcciihh eettmmeeyyeenn hhaassttaallaarr ddaahhiill eeddiillmmiişşttiirr..
+HHeerr iikkii tteeddaavvii kkoolluunnddaakkii hhaassttaallaarr,, aarraaşşttıırrmmaaccıı ttaarraaffıınnddaann ggeerreekkllii ggöörrüüllddüükkççee eenn iiyyii ddeesstteekk
+tteeddaavviissiinnii aallmmıışşttıırr.. EEnn iiyyii ddeesstteekk tteeddaavviissiinnee aallyyuuvvaarr ((RRBBCC)) nnaakkiilllleerrii,, ttrroommbboossiitt nnaakkiilllleerrii iillee
+tteeddaavvii,, eerriittrrooppooiieezz ssttiimmüüllee eeddiiccii aajjaann kkuullllaannıımmıı,, aannttiibbiiyyoottiikk,, aannttiivviirraall vvee//vveeyyaa aannttiiffuunnggaall tteeddaavvii,,
+GGSSCCFF,, aannttii--eemmeettiikk tteeddaavvii vvee bbeesslleennmmee ddeesstteeğğii ddaahhiillddiirr aannccaakk tteeddaavvii bbuunnllaarrllaa ssıınnıırrllıı
+kkaallmmaammıışşttıırr..
+KKoonnssoolliiddaassyyoonn tteeddaavviillii vveeyyaa tteeddaavviissiizz yyooğğuunn iinnddüükkssiiyyoonn tteeddaavviissii ttaammaammllaannddııkkttaann ssoonnrraa
+CCRR//CCRRii eellddee eeddeenn hhaassttaallaarraa hheerr bbiirr 2288 ggüünnllüükk ddöönnggüünnüünn 11.. ggüünnüü iillaa 1144.. ggüünnüünnddee ggüünnddee bbiirr kkeezz
+OONNUURREEGG 330000 mmgg ((NN==223366)) vveeyyaa ppllaasseebboo ((NN==223333)) uuyygguullaannmmıışşttıırr.. HHaassttaallııkk nnüükkssüü dduurruummuunnddaa,,
+((ppeerriiffeerriikk kkaann vveeyyaa kkeemmiikk iilliiğğiinnddee %%55 iillaa %%1155 bbllaasstt)) ttııbbbbii kkaannaaaattee ggöörree,, ddoozz ttaakkvviimmii tteekkrraarr eeddeenn
+2288 ggüünnllüükk ddöönnggüünnüünn 2211 ggüünnüünnee uuzzaattııllmmıışşttıırr.. TTeeddaavvii,, hhaassttaallııkk iilleerrlleemmeessiinnee ((ppeerriiffeerriikk kkaann vveeyyaa
+kkeemmiikk iilliiğğiinnddee %%1155’'tteenn ffaazzllaa bbllaasstt ggöözzlleenneennee)) vveeyyaa kkaabbuull eeddiilleemmeezz ttookkssiissiitteeyyee kkaaddaarr ddeevvaamm
+eettmmiişşttiirr..
+TTooppllaamm 447722 hhaassttaa OONNUURREEGG vvee ppllaasseebboo tteeddaavvii kkoollllaarrıı aarraassıınnddaa 11::11 rraannddoommiizzee eeddiillmmiişşttiirr.. AAMMLL
+hhaassttaa ppooppüüllaassyyoonnuunnaa yyöönneelliikk bbaaşşllaannggııçç ddeemmooggrraaffiikk vvee hhaassttaallııkk kkaarraakktteerriissttiikklleerrii,, TTaabblloo 22’'ddee
+ggöösstteerriillddiiğğii üüzzeerree tteeddaavvii kkoollllaarrıı aarraassıınnddaa ddeennggeelleennmmiişşttiirr.. MMeeddyyaann tteeddaavvii ssüürreessii OONNUURREEGG kkoolluu
+iiççiinn 1111,,66 aayykkeenn ((aarraallııkk:: 00,,55 iillaa 7744,,33 aayy)) ppllaasseebboo kkoolluu iiççiinn 55,,77 aayyddıırr ((aarraallııkk:: 00,,77 iillaa 6688,,55 aayy))..
+OONNUURREEGG aallaann ttooppllaamm 5511 hhaassttaa ((%%2211)) vvee ppllaasseebboo aallaann ttooppllaamm 4400 hhaassttaa ((%%1177)) AAMMLL hhaassttaallııkk
+nnüükkssüü nneeddeenniiyyllee ddoozzllaarnınnıı,, 2211 ggüünn bbooyyuunnccaa ggüünnddee bbiirr kkeezz 330000 mmgg’'aa uuzzaattmmıışşttıırr..
+FFaazz 33 ççaallıışşmmaassıınnddaa tteeddaavvii aallaann 446699 hhaassttaannıınn %%6611’'ii ((228855//446699)) 6655 yyaaşş vvee üüzzeerriiyykkeenn %%1111’'ii
+((5511//446699)) 7755 yyaaşş vvee üüzzeerriiddiirr.. BBuu hhaassttaallaarrllaa ddaahhaa ggeennçç hhaassttaallaarr aarraassıınnddaa OONNUURREEGG’'iinn ggüüvveennlliilliikk
+vvee eettkkiilliilliiğğii bbaakkıımmıınnddaann ggeenneell ffaarrkkllaarr ggöözzlleennmmeemmiişşttiirr..
+TTaabblloo 22:: CCCC--448866--AAMMLL--000011 ççaallıışşmmaassıınnddaakkii tteemmeell ddeemmooggrraaffii vvee hhaassttaallııkkllaa iilliişşkkiillii öözzeelllliikklleerr
+PPaarraammeettrree OONNUURREEGG PPllaasseebboo
+((NN == 223388)) ((NN == 223344))
+YYaaşş ((yyııll))
+MMeeddyyaann ((mmiinn,, mmaakkss)) 6688 ((5555,, 8866)) 6688 ((5555,, 8822))
+YYaaşş kkaatteeggoorriissii,, nn ((%%))
+<<6655 yyaaşş 6666 ((2277,,77)) 6688 ((2299,,11))
+>≥6655 yyaaşş iillaa <<7755 yyaaşş 114444 ((6600,,55)) 114422 ((6600,,77))
+>≥7755 yyaaşş 2288 ((1111,,88)) 2244 ((1100,,33))
+CCiinnssiiyyeett,, nn ((%%))
+EErrkkeekk 111188 ((4499,,66)) 112277 ((5544,,33))
+KKaaddıınn 112200 ((5500,,44)) 110077 ((4455,,77))
+SSaayyffaa 99 // 1177PPaarraammeettrree OONNUURREEGG PPllaasseebboo
+((NN == 223388)) ((NN == 223344))
+IIrrkk,, nn ((%%))
+BBeeyyaazz 221166 ((9900,,88)) 119977 ((8844,,22))
+SSiiyyaahhii vveeyyaa AAffrriikkaa KKöökkeennllii AAmmeerriikkaallıı 22 ((00,,88)) 66 ((22,,66))
+AAssyyaallıı 66 ((22,,55)) 2200 ((88,,55))
+DDiiğğeerr 1122 ((55)) 1111 ((44,,77))
+TTooppllaannmmaammıışş vveeyyaa rraappoorr eeddiillmmeemmiişşttiirr 22 ((00,,88)) 00 ((00))
+EECCOOGG ppeerrffoorrmmaannss dduurruummuu,, nn ((%%))
+00 111166 ((4488,,77)) 111111 ((4477,,44))
+11 110011 ((4422,,44)) 110066 ((4455,,33))
+22 2211 ((88,,88)) 1155 ((66,,44))
+33 00 ((00)) 22 ((00,,99))
+TTeeşşhhiiss zzaammaannıınnddaakkii ssiittooggeenneettiikk rriisskk,, nn ((%%))
+OOrrttaa rriisskk1' 220033 ((8855,,33)) 220033 ((8866,,66))
+KKööttüü rriisskk2 3355 ((1144,,77)) 3311 ((1133,,22))
+BBaaşşllaannggııçç AAMMLL ssıınnııffllaannddıırrmmaassıı,, nn ((%%))
+NNüükkss eeddeenn ggeenneettiikk aannoorrmmaalllliikklleerrii oollaann AAMMLL, 3399 ((1166,,44)) 4466 ((1199,,77))
+MMiiyyeellooddiissppllaazzii iilliişşkkiillii ddeeğğiişşiikklliikklleerrii oollaann 4499 ((2200,,66)) 4422 ((1177,,99))
+AAMMLL
+MMiiyyeellooiidd nneeooppllaazzmmaa iilliişşkkiillii tteeddaavvii 22 ((00,,88)) 00 ((00))
+AAkkssii bbeelliirrttiillmmeeddiikkççee AAMMLL 114488 ((6622,,22)) 114455 ((6622))
+EEkkssiikk 00 ((00)) 11 ((00,,44))
+AAMMLL ttiippii,, nn ((%%))
+PPrriimmeerr ((ddee nnoovvoo)) 221133 ((8899,,55)) 221166 ((9922,,33))
+SSeekkoonnddeerr 2255 ((1100,,55)) 1188 ((77,,77))
+RRaannddoommiizzaassyyoonn zzaamm aannıınnddaakkii MMRRHH
+dduurruummuu33,, nn ((%%))
+NNeeggaattiiff 113333 ((5555,,99)) 111111 ((4477,,44))
+PPoozziittiiff 110033 ((4433,,33)) 111166 ((4499,,66))
+EEkkssiikk 22 ((00,,88)) 77 ((33))
+AAMMLL==AAkkuutt mmiiyyeelloojjeenn llöösseemmii;; MMDDSS==MMiiyyeellooddiissppllaassttiikk sseennddrroomm;; CCMMMMLL==KKrroonniikk mmiiyyeelloommoonnoossiittiikk LLöösseemmii;;
+EECCOOGG==DDooğğuu kkooooppeerraattiiff oonnkkoolloojjii ggrruubbuu;; CCRR==MMoorrffoolloojjiikk ttaamm rreemmiissyyoonn;; CCRRii==TTaammaammllaannmmaammıışş kkaann ssaayyıımmıı
+iiyyiilleeşşmmeessii iillee mmoorrffoolloojjiikk CCRR..
+1
+1
+OOrrttaa rriisskk,, ++88,, tt((99;;1111)) nnoorıımuaall ssiittooggeenneettiikk vveeyyaa ttaannıımmllaannmmaammıışş ddiiğğeerr oollaarraakk ttaannıımmllaannmmıışşttıırr..
+22 KKööttüü rriisskk,, kkoommpplleekkss ((≥? 33 aannoorıımuaalllliikk)) oollaarraakk ttaannıımmllaannmmıışşttıırr:: --55;; 55qq--;; --77;; 77qq--;; 1111qq2233 -- nnoonn tt((99;;1111));; iinnvv((33));; tt((33;;33));;
+tt((66;;99)) vveeyyaa tt((99;;2222)).. OOrrttaa vvee KKööttüü RRiisskk kkaayynnaağğıı:: UUlluussaall KKaappssaammllıı KKaannsseerr AAğğıı,, AAMMLL’'yyee yyöönneelliikk OOnnkkoolloojjiiddee KKlliinniikk
+UUyygguullaammaa KKııllaavvuuzzllaarrıı
+33 KKeemmiikk iilliiğğiinnddeekkii MMRRHH dduurruummuu,, ttaarraammaa ppeerriiyyoodduunnddaa aakkıışş ssiittoommeettrriikk mmiikkttaarr ttaayyiinniiyyllee %%00,,11’'lliikk bbiirr hhaassssaassiiyyeett
+sseevviiyyeessiinnddee ööllççüüllmmüüşşttüürr..
+ÇÇooğğuu hhaassttaa hheemm OONNUURREEGG ((%%7788)) hheemm ppllaasseebboo ((%%8822)) tteeddaavvii kkoollllaarrıınnddaa iinnddüükkssiiyyoonn
+tteeddaavviissiinnddeenn ssoonnrraa kkoonnssoolliiddaassyyoonn tteeddaavviissii aallmmıışşttıırr;; hheerr bbiirr tteeddaavvii kkoolluunnddaakkii bbuu hhaassttaallaarrıınn
+%%9900’'ıınnddaann ffaazzllaassıı,, iinnddüükkssiiyyoonn tteeddaavviissiinnddeenn ssoonnrraa 11 vveeyyaa 22 kkoonnssoolliiddaassyyoonn tteeddaavvii ddöönnggüüssüü
+aallmmıışşttıırr ((TTaabblloo 33))..
+SSaayyffaa 1100 // 1177TTaabblloo 33:: ÇÇaallıışşmmaa CCCC--448866--AAMMLL--000011’'ddeekkii kkoonnssoolliiddaassyyoonn tteeddaavviissii
+PPaarraammeettrree OONNUURREEGG PPllaasseebboo
+((NN==223388)) ((NN==223344))
+İİnnddüükkssiiyyoonn ssoonnrraassıı kkoonnssoolliiddaassyyoonn tteeddaavviissii
+aallaann
+EEvveett,, nn ((%%)) 118866 ((7788,,22)) 119922 ((8822,,11))
+11 DDöönnggüü,, nn ((%%)) 111100 ((4466,,22)) 110022 ((4433,,66))
+22 DDöönnggüü,, nn ((%%)) 7700 ((2299,,44)) 7777 ((3322,,99))
+33 DDöönnggüü,, nn ((%%)) 66 ((22,,55)) 1133 ((55,,66))
+HHaayyıırr,, nn ((%%)) 5522 ((2211,,88)) 4422 ((1177,,99))
+RRaannddoommiizzaassyyoonn zzaammaannıınnddaakkii CCRR // CCRRii
+dduurruummuu
+CCRR,, nn ((%%)) 118833 ((7766,,99)) 117777 ((7755,,66))
+CCRRii,, nn ((%%)) 5500 ((2211)) 4444 ((1188,,88))
+CCRR//CCRRii’' ddee ddeeğğiill aa ,, nn ((%%)) 55 ((22,,11)) 1111 ((44,,77))
+EEkkssiikk,, nn ((%%)) 00 ((00)) 22 ((00,,99))
+CCRR==TTaamm rreemmiissyyoonn;; CCRRii==TTaammaammllaannmmaammıışş kkaann ssaayyıımmıı iiyyiilleeşşmmeessii iillee mmoorrffoolloojjiikk CCRR..
+aa BBuu hhaassttaallaarr,, %%55’'tteenn aazz bbllaasstt bbaaşşllaannggııçç kkeemmiikk iilliiğğiinnee vvee hheemm <<11 xx 110099 AANNCC hheemm <<110000 xx 110099 ttrroommbboossiittee ssaahhiippttiirr..
+OONNUURREEGG’'iinn yyeettiişşkkiinn AAMMLL hhaassttaallaarnınnddaakkii eettkkiilliilliiğğii,, ggeenneell ssaağğkkaallıımm ((OOSS)) vvee nnüükkssssüüzz ssaağğkkaallıımmaa
+((RRFFSS)) ggöörree bbeelliirrlleennmmiişşttiirr..
+EEttkkiilliilliikk ssoonnuuççllaarrıı TTaabblloo 44'’ttee öözzeettlleennmmiişşttiirr..
+TTaabblloo 44:: CCCC--448866--AAMMLL--000011 eettkkiilliilliikk ssoonnuuççllaarrıı (IITTTT PPoo pı üüllaass yoonn )
+SSoonnllaannıımm NNookkttaallaarrıı OONNUURREEGG PPllaasseebboo
+((NN==223388)) ((NN==223344))
+GGeenneell ssaağğkkaallıımm
+OOSS oollaayyllaarrıı,, nn ((%%)) 115588 ((6666,,44)) 117711 ((7733,,11))
+MMeeddyyaann OOSS,, aayy ((%%9955 GGAA)) 2244,,77 ((1188,,77 –— 3300,,55)) 1144,,88 ((1111,,77 –— 1177,,66))
+TTeehhlliikkee oorraannıı ((%%9955 GGAA)) 00,,6699 ((00,,5555 -– 00,,8866))
+pp--ddeeğğeerrii 00,,00000099
+NNüükkssssüüzz ssaağğkkaallıımm
+OOllaayyllaarr,, nn ((%%)) 116644 ((6688,,99)) 118811 ((7777,,44))
+MMeeddyyaann RRFFSS,, aayy ((%%9955 GGAA)) 1100,,22 ((77,,99 –— 1122,,99)) 44,,88 ((44,,66 –— 66,,44))
+TTeehhlliikkee oorraannıı ((%%9955 GGAA)) 00,,6655 ((00,,5522 -– 00,,8811))
+pp--ddeeğğeerrii 00,,0000001
+NNüükkssee kkaaddaarrkkii ssüürree
+NNüükkss eeddeenn,, nn ((%%)) 115544 ((6644,,77)) 117799 ((7766,,55))
+NNüükkssee kkaaddaarrkkii mmeeddyyaann ssüürree,, aayy ((%%9955 GGAA)) 1100,,22 ((88,,33 –— 1133,,44)) 44,,99 ((44,,66 –— 66,,44))
+TTeeddaavviinniinn kkeessiillmmeessiinnee kkaaddaarrkkii ssüürree
+TTeeddaavvii kkeessiillmmeessii,, nn ((%%)) 119933 ((8811,,11)) 220088 ((8888,,99))
+TTeeddaavviinniinn kkeessiillmmeessiinnee kkaaddaarrkkii mmeeddyyaann ssüürree,, 1111,,44 ((99,,88 —– 1133,,66)) 66,,11 ((55,,11 –— 77,,44))
+aayy ((%%9955 GGAA))
+TTeeddaavvii kkeessiillmmeessii –— hhaassttaallııkk nnüükkssüü,, nn ((%%)) 114433 ((6600,,11)) 118800 ((7766,,99))
+GGAA==GGüüvveenn aarraallıığğıı..
+ÖÖnncceeddeenn bbeelliirrlleennmmiişş aalltt ggrruuppllaarrıınn OOSS vvee RRFFSS aannaalliizzlleerr,, bbaaşşllaannggııçç ssiittooggeenneettiikk rriisskk,, aallıınnaann
+ggeeççmmiişş kkoonnssoolliiddaassyyoonn ddöönnggüüssüü ssaayyııssıı vvee CCRR//CCRRii dduurruummuu ddaahhiill oollmmaakk üüzzeerree ddeemmooggrraaffiikk vvee
+hhaassttaallııkkllaa iillggiillii aalltt ggrruuppllaarr aarraassıınnddaa OONNUURREEGG iiççiinn ttuuttaarrllıı bbiirr tteeddaavvii eettkkiissiinnii oorrttaayyaa kkooyymmuuşşttuurr..
+SSaayyffaa 1111 // 1177Kaplan-Meier eğrileri, OS (bkz. Şekil 1) ve RFS (bkz. Şekil 2) sonuçlarını göstermektedir.
+Şekil 1: Genel sağkalıma ait Kaplan-Meier eğrisi: ONUREG'e karşı plasebo (ITT
+Popülasyon)
+111 -
+Katmanh TO: 0,69 (%95 GA: 0,55 — 0,86)
+Katmanh Log derece p-değeri: 0,0009
+09 -
+OB -
+O7 -
+ilamithi
+mılakğaS
+0.6 -
+Medyan OS: 24.7
+05 -
+Medyan OS: 14.8
+0$
+03
+02 -
+01 -
+00
+1: 16 20 24 28 32 36 40 44 48 52 56 60 64 6 72 76
+Randomizasyon Süresi (ay)
+ONUREG Plasebo
+Risk sayısı
+ONUREG 238 224 200 168 147 124 115 98 75 59 44 35 26 22 16 15 6 5 1 0 1
+Plasebo 234 206 164 127 103 92 82 70 52 34 28 23 19 16 14 11 8 6 1 0
+Şekil 2: Nükssüz sağkalıma ait Kaplan-Meier eğrisi: ONUREG'e karşı plasebo (ITT
+Popülasyon)
+ilamithi
+mılakğaS
+Kaplan-Meier eğrileri, OS (bkz. Şekil 1) ve RFS (bkz. Şekil 2) sonuçlarını göstermektedir.
+Şekil 1: Genel sağkalıma ait Kaplan-Meier eğrisi: ONUREG’e karşı plasebo (ITT
+Popülasyon)
+Katmanlı TO: 0,69 (%95 GA: 0,55 – 0,86)
+Katmanlı Log_derece p-değeri: 0,0009
+Randomizasyon Süresi (ay)
+Şekil 2: Nükssüz sağkalıma ait Kaplan-Meier eğrisi: ONUREG’e karşı plasebo (ITT
+Popülasyon)
+10
+KKaattmmaannlhı TTOO:: 00,,6655 ((%%9955 GGAA:: 00,,5522 –-0 0,,8811))
+KKaattmmaannlhı LLoogg_ ddeerreeccee pp--ddeeğğeerrii:: 00,,00000011
+0.9 -
+0.8 -
+0.7 -
+0.6 -
+Medyan RFS: 10.2
+05 .
+Medyan
+0.4 - RFS: 4.8
+03 -
+02 -
+0-1 -
+0.0 -
+ı
+0 4 8 12 16 20 24 28 32 36 40 44 448 52 56 60 64
+Randomizasyon Süresi (ay)
+ONUREG
+Risk sayısı
+ONUREG 238 173 116 92 75 60 47 32 29 8 5 5 3 2 2 L 1 0
+Plasebo 234 136 70 55 40 33 29 24 22 6 5 3 3 2 L 0
+HHaassttaallııkk nnüükkssüü nneeddeenniiyyllee ddoozz ttaakkvviimmii 330000 mmgg’'aa 2211 ggüünn uuzzaattııllaann hhaassttaallaarrddaa mmeeddyyaann OOSS
+((OONNUURREEGG iiççiinn 2222,,88 aayy vvee ppllaasseebboo iiççiinn 1144,,66 aayy)) vvee mmeeddyyaann RRFFSS ((OONNUURREEGG iiççiinn 77,,44 aayy vvee
+ppllaasseebboo iiççiinn 44,,66 aayy)),, ggeenneell ççaallıışşmmaa ssoonnuuççllaarnıyyllaa ttuuttaarrllııllııkk ggöösstteerrmmiişşttiirr..
+SSaayyffaa 1122 // 1177
+ilamithi
+mılakğaS
+Risk sayısı
+ilamithi
+mılakğaS
+Medyan OS: 24.7
+Medyan OS: 14.8
+Plasebo
+Plasebo
+Medyan RFS: 10.2
+Medyan
+RFS: 4.8
+Randomizasyon Süresi (ay)
+Plasebo
+Risk sayısı
+PlaseboOONNUURREEGG,, hheemm mmiinniimmaall rreezziiddüüeell hhaassttaallııkk ((MMRRHH)) ppoozziittiiff hheemm MMRRHH nneeggaattiiff hhaassttaallaarrddaa OOSS iiççiinn
+ppllaasseebbooyyaa kkııyyaassllaa uuyygguunn bbiirr tteeddaavvii eettkkiissii sseerrggiilleemmiişşttiirr.. OOSS iiççiinn tteeddaavvii eettkkiissii,, MMRRHH ppoozziittiiff
+hhaassttaallaarrddaa ((HHRR==00,,6699;; %%9955 GGAA:: 00,,5511,, 00,,9933)) MMRRHH nneeggaattiiff hhaassttaallaarrddaakkiinnddeenn ((HHRR==00,,8811;; %%9955 GGAA::
+00,,5599,, 11,,1122)) ddaahhaa bbeelliirrggiinn iizzlleennmmiişşttiirr..
+SSaağğllııkkllaa iillggiillii yyaaşşaamm kkaalliitteessii ((HHRRQQooLL))
+HHRRQQooLL,, kkrroonniikk hhaassttaallııkk tteeddaavviissii--yyoorrgguunnlluukk ööllççeeğğiinniinn iişşlleevvsseell ddeeğğeerrlleennddiirrmmeessii ((FFAACCIITT —–
+yyoorrgguunnlluukk ööllççeeğğii)) vvee BBeeşş bbooyyuuttlluu,, üüçç sseevviiyyeellii ((EEQQ--55DD--33LL)) ssaağğllııkk ffaayyddaa eennddeekkssii vvee ggöörrsseell
+aannaalloogg ööllççeeğğii ((VVAASS)) kkuullllaannııllaarraakk ddeeğğeerrlleennddiirriillmmiişşttiirr.. BBaaşşllaannggııççttaa hhaassttaallaarrıınn,, bbeennzzeerr yyaaşşttaakkii
+ggeenneell ppooppüüllaassyyoonnllaa ggeenneelllliikkllee kkaarrşşııllaaşşttıırnıllaabbiilliirr oollaarraakk ddüüşşüükk sseevviiyyeeddee yyoorrgguunnlluukk yyaaşşaaddıığğıı vvee
+iiyyii HHRRQQooLL sseevviiyyeessiinnee ssaahhiipp oolldduuğğuu ggöörrüüllmmüüşşttüürr.. BBuu HHRRQQooLL sseevviiyyeessii,, OONNUURREEGG iillee zzaammaann
+iiççiinnddee,, bbaaşşllaannggııccaa vvee ppllaasseebbooyyaa kkııyyaassllaa kkoorruunnmmuuşşttuurr.. HHeemm kkeessiinn kkööttüülleeşşmmeeyyee kkaaddaarrkkii ssüürree hheemm
+kklliinniikk oollaarraakk aannllaammllıı kkööttüülleeşşmmee yyaaşşaayyaann hhaassttaallaarrıınn oorraannıı,, OONNUURREEGG vvee ppllaasseebboo aallaann hhaassttaallaarr
+aarraassıınnddaa bbeennzzeerr bbuulluunnmmuuşşttuurr.. GGeenneell oollaarraakk bbuullgguullaarr,, HHRRQQooLL’'nniinn,, zzaammaann iiççiinnddee kklliinniikk oollaarraakk
+aannllaammllıı kkööttüülleeşşmmee oollmmaakkssıızzıınn OONNUURREEGG tteeddaavviissii vvee ppllaasseebboo kkoollllaarrıı aarraassıınnddaa bbeennzzeerr oolldduuğğuunnuu
+ggöösstteerrmmeekktteeddiirr..
+55..22 FFaarrmmaakkookkiinneettiikk öözzeelllliikklleerr
+GGeenneell öözzeelllliikklleerr
+EEmmiilliimm::
+AAzzaassiittiiddiinn aabbssoorrbbssiiyyoonnuu,, ddoozz ssoonnrraassıı 11 ssaaaattlliikk mmeeddyyaann T iillee hhıızzllıı ggeerrççeekklleeşşmmiişşttiirr.. SSuubbkküüttaann
+Tmmaakkss
+((SSCC)) uuyygguullaammaayyaa kkııyyaassllaa oorrttaallaammaa oorraall bbiiyyooyyaarraarrllaannıımm,, yyaakkllaaşşııkk %%1111 oollaarraakk iizzlleennmmiişşttiirr..
+YYiiyyeecceekk eettkkiissii::
+YYiiyyeecceeğğiinn OONNUURREEGG’' ee mmaarruuzziiyyeettii üüzzeerriinnddeekkii eettkkiissii mmiinniimmaallddiirr.. DDoollaayyııssııyyllaa OONNUURREEGG,,
+yyiiyyeecceekkllee vveeyyaa yyiiyyeecceekkssiizz uuyygguullaannaabbiilliirr..
+DDaağğııllıımm::
+OOrraall uuyygguullaammaa ssoonnrraassıınnddaa ggeeoommeettrriikk oorrttaallaammaa bbeelliirrggiinn ddaağğııllıımm hhaaccmmii,, 7700 kkgg’'llııkk bbiirr kkiişşii iiççiinn
+1122,,66 LL//kkgg oollaarraakk hheessaappllaannmmıışşttıırr.. AAzzaassiittiiddiinn ppllaazzmmaa pprrootteeiinn bbaağğllaannmmaassıı,, %%66 iillaa %%1122 oollaarraakk
+ggöözzlleennmmiişşttiirr..
+BBiiyyoottrraannssffoorrmmaassyyoonn::
+İİnn vviittrroo vveerriilleerree ggöörree aazzaassiittiiddiinn mmeettaabboolliizzmmaassıı,, ssiittookkrroomm PP445500 iizzooeennzziimmlleerrii ((CCYYPP)) aarraaccııllııkk
+eettttiiğğii ggöörrüüllmmeezz.. AAzzaassiittiiddiinn,, ssiittiiddiinn ddeeaammiinnaazz aarraaccııllıı ssppoonnttaann hhiiddrroolliizz vvee ddeeaammiiddaassyyoonnaa uuğğrraarr..
+EElliimmiinnaassyyoonn
+GGeeoommeettrriikk oorrttaallaammaa bbeelliirrggiinn kklliirreennss,, 11224422 LL//ssaaaatt vvee ggeeoommeettrriikk oorrttaallaammaa yyaanrıllaannmmaa öömmrrüü
+yyaakkllaaşşııkk 00,,55 ssaaaatt oollaarraakk ggöözzlleennmmiişşttiirr.. 55 kkaannsseerr hhaassttaassıınnaa 1 14 4C
+C
+aazzaassiittiiddiinn iinnttrraavveennöözz oollaarraakk
+uuyygguullaannddııkkttaann ssoonnrraa kküümmüüllaattiiff üürriinneerr aattııllıımm,, rraaddyyooaakkttiiff ddoozzuunn %%8855’'ii oorraannıınnddaa oollmmuuşşttuurr.. FFeekkaall
+aattııllıımm,, 33 ggüünnddee uuyygguullaannaann rraaddyyooaakkttiivviitteenniinn %%11'’iinnddeenn aazzıınnıı oolluuşşttuurrmmuuşşttuurr.. SSuubbkküüttaann 1 14 4C
+C
+aazzaassiittiiddiinn uuyygguullaammaassıınnıı ttaakkiibbeenn iiddrraarrddaakkii oorrttaallaammaa rraaddyyooaakkttiivviittee aattııllıımmıı %%5500’' ddee iizzlleennmmiişşttiirr..
+İİddrraarrddaa ggeerrii kkaazzaannııllaann ddeeğğiişşmmeemmiişş aazzaassiittiiddiinniinn ddoozzaa kkııyyaassllaa mmiikkttaarrıı,, ssuubbkküüttaann ((SSCC)) yyaa ddaa oorraall
+uuyygguullaammaa ssoonnrraassıınnddaa %%22’'ddeenn aazzddıırr.. FFeekkaall aattııllıımm,, oorraall uuyygguullaammaa ssoonnrraassıınnddaa ööllççüüllmmeemmiişşttiirr..
+SSaayyffaa 1133 // 1177DDooğğrruussaallllııkk//DDooğğrruussaall oollmmaayyaann dduurruumm::
+MMaarruuzziiyyeett,, ssiisstteemmiikk mmaarruuzziiyyeetttteekkii ddoozzaa oorraannttııllıı aarrttıışşllaarrllaa ggeenneelllliikkllee ddooğğrruussaallddıırr;; yyüükksseekk
+ddeenneekklleerr aarraassıı ddeeğğiişşkkeennlliikk ggöözzlleennmmiişşttiirr.. BBiirr 330000 mmgg tteekk ddoozz oorraall oollaarraakk uuyygguullaannddııkkttaann ssoonnrraakkii
+ggeeoommeettrriikk oorrttaallaammaa ((vvaarryyaassyyoonn kkaattssaayyııssıı [[%%CCVV]])) C
+Cmmaakkss
+vvee EEAAAA ddeeğğeerrlleerrii ssıırraassııyyllaa 114455,,11 nngg//mmLL
+((6633,,77)) vvee 224411,,66 nngg ssaa//mmLL ((6644,,55)) oollaarraakk bbuulluunnmmuuşşttuurr.. ÖÖnneerriilleenn ddoozz rreejjiimmiinnddeekkii ççookklluu ddoozz,, iillaaçç
+bbiirriikkiimmiinnee nneeddeenn oollmmaammıışşttıırr..
+HHaassttaallaarrddaakkii kkaarraakktteerriissttiikk öözzeelllliikklleerr
+IIrrkk//eettnniikk kköökkeenn::
+IIrrkk//eettnniikk kköökkeenniinn OONNUURREEGG FFKK’' ssıı üüzzeerriinnddeekkii eettkkiilleerrii bbiilliinnmmeemmeekktteeddiirr..
+YYaaşşllııllaarr::
+228866 AAMMLL hhaassttaassıınnaa aaiitt bbiirr ppooppüüllaassyyoonn ffaarrmmaakkookkiinneettiiğğii ((FFKK)) aannaalliizziinnddee yyaaşş ((4466 iillaa 9933 yyaaşş))
+OONNUURREEGG FFKK’'ssıınnıı kklliinniikk oollaarraakk aannllaammllıı eettkkiilleemmeemmiişşttiirr.. DDoollaayyııssııyyllaa hhaassttaa yyaaşşıınnddaann bbaağğıımmssıızz
+oollaarraakk OONNUURREEGG iiççiinn ddoozz ddüüzzeennlleemmeessii ggeerreekkllii ddeeğğiillddiirr..
+BBööbbrreekk yyeettmmeezzlliiğğii::
+KKaannsseerrllii hhaassttaallaarrddaa,, aazzaassiittiiddiinniinn nnoorrmmaall bbööbbrreekk ffoonnkkssiiyyoonnlluu 66 hhaassttaa ((CCLLccrr >>8800 mmLL//ddkk)) vvee
+şşiiddddeettllii bbööbbrreekk yyeettmmeezzlliiğğii oollaann 66 hhaassttaaddaakkii ((CCLLccrr <<3300 mmLL//ddkk)) FFKK’'ssıı 7755 mmgg//mm22//ggüünn ggüünnddee bbiirr
+kkeezz ssuubbkküüttaann ddoozzllaammaa ((11.. iillaa 55.. ggüünn)) ssoonnrraassıınnddaa kkaarrşşııllaaşşttıırnıllmmıışşttıırr.. ŞŞiiddddeettllii bbööbbrreekk yyeettmmeezzlliiğğii
+aazzaassiittiiddiinn mmaarruuzziiyyeettiinnii,, tteekk ssuubbkküüttaann uuyygguullaammaa ssoonnrraassıınnddaa yyaakkllaaşşııkk %%7700 vvee ççookklluu ssuubbkküüttaann
+uuyygguullaammaallaarr ssoonnrraassıınnddaa %%4411 oorraannıınnddaa aarrttıırrmmıışşttıırr.. MMaarruuzziiyyeetttteekkii bbuu aarrttıışş,, aaddvveerrss oollaayyllaarrddaakkii bbiirr
+aarrttıışşllaa iilliişşkkiilleennddiirriillmmeemmiişşttiirr..
+330000 mmgg OONNUURREEGG ddoozzuu ssoonnrraassıınnddaakkii bbiirr ppooppüüllaassyyoonn FFKK aannaalliizziinnddee hhaaffiiff ((CCLLccrr:: >≥ 6600 iillaa << 9900
+mmLL//ddkk)),, oorrttaa ((CCLLccrr:: >≥3300 iillaa <<6600 mmLL//ddkk)) vvee şşiiddddeettllii ((CCLLccrr:: <<3300 mmLL//ddkk)) bbööbbrreekk yyeettmmeezzlliiğğii oollaann
+hhaassttaallaarrddaa,, aazzaassiittiiddiinn ppllaazzmmaa EEAAAA ddeeğğeerriinnddee ssıırraassııyyllaa %%1199,, %%2255 vvee %%3388 aarrttıışşllaarr bbeelliirrlleennmmiişşttiirr..
+ŞŞiiddddeettllii bbööbbrreekk yyeettmmeezzlliiğğiinniinn OONNUURREEGG üüzzeerriinnddeekkii eettkkiissii,, yyuukkaarrııddaa bbaahhssii ggeeççeenn,, eennjjeekkttaabbll
+aazzaassiittiiddiinn iillee yyaappııllmmıışş kklliinniikk bbööbbrreekk yyeettmmeezzlliiğğiiyyllee bbeennzzeerrlliikk ggöösstteerrmmiişşttiirr ((EEAAAA'’ddaa yyaakkllaaşşııkk
+%%4400 aarrttıışş)).. AAzzaassiittiiddiinn mmaarruuzziiyyeettii ((EEAAAA)) SSCC uuyygguullaammaa ssoonnrraassıınnddaa eellddee eeddiilleenn mmaarruuzziiyyeettee
+kkııyyaassllaa oorraall uuyygguullaammaa ssoonnrraassıınnddaa yyaakkllaaşşııkk %%7755 ddaahhaa ddüüşşüükkttüürr vvee ddoollaayyııssııyyllaa oorraall uuyygguullaammaa
+ssoonnrraassıınnddaa mmaarruuzziiyyeetttteekkii yyaakkllaaşşııkk %%4400’'llııkk bbiirr aarrttıışşıınn yyiinnee ddee ggüüvveennllii vvee ttoolleerree eeddiilleebbiilliirr oolldduuğğuu
+ddüüşşüünnüüllmmeekktteeddiirr.. BBuu nneeddeennllee hhaaffiiff,, oorrttaa vveeyyaa şşiiddddeettllii bbööbbrreekk yyeettmmeezzlliiğğii oollaann hhaassttaallaarrddaa
+OONNUURREEGG iiççiinn ddoozz aayyaarrllaammaassıı öönneerriillmmeemmeekktteeddiirr..
+KKaarraacciiğğeerr yyeettmmeezzlliiğğii::
+KKaarraacciiğğeerr yyeettmmeezzlliiğğii oollaann hhaassttaallaarrddaa rreessmmii ççaallıışşmmaallaarr yyaappııllmmaammıışşttıırr.. AAzzaassiittiiddiinn,, ssiittiiddiinn
+ddeeaammiinnaazz aarraaccııllıı ssppoonnttaann hhiiddrroolliizz vvee ddeeaammiiddaassyyoonnaa uuğğrraaddıığğıınnddaann kkaarraacciiğğeerr yyeettmmeezzlliiğğiinniinn,,
+FFKK’'yyıı kklliinniikk oollaarraakk iillggiillii ddeerreecceeddee eettkkiilleemmeessii mmuuhhtteemmeell ddeeğğiillddiirr.. BBiirr ppooppüüllaassyyoonn FFKK aannaalliizziinnddee
+AASSTT ((88 iillaa 115555 UU//LL)),, AALLTT ((55 iillaa 118855 UU//LL)) vvee hhaaffiiff kkaarraacciiğğeerr yyeettmmeezzlliiğğiinniinn ((BBIILL <≤ UULLNN vvee
+AASSTT >> UULLNN vveeyyaa BBIILL 11 iillaa 11,,55 ×x UULLNN vvee hheerrhhaannggii AASSTT)) aazzaassiittiiddiinn FFKK’' ssıı üüzzeerriinnddee kklliinniikk oollaarraakk
+aannllaammllıı eettkkiilleerrii oollmmaaddıığğıı bbeelliirrlleennmmiişşttiirr.. OOrrttaa iillaa şşiiddddeettllii kkaarraacciiğğeerr yyeettmmeezzlliiğğiinniinn aazzaassiittiiddiinn
+FFKK’'ssıı üüzzeerriinnddeekkii eettkkiilleerrii ((BBIILL >> 11,,55 ×x UULLNN vvee hheerrhhaannggii AASSTT)) bbiilliinnmmeemmeekktteeddiirr..
+FFaarrmmaakkooddiinnaammiikk eettkkiilleerr
+AAzzaassiittiiddiinniinn,, kkaannddaa DDNNAA kküürreesseell mmeettiillaassyyoonn iinnddiirrggeemmee üüzzeerriinnddeekkii eeppiiggeenneettiikk ddüüzzeennlleeyyiiccii
+eettkkiissii,, bbiirr FFaazz 11//22 ççaallıışşmmaassıınnddaann AAMMLL hhaassttaallaarrıı ddaahhiill mmiiyyeellooiidd kkaannsseerrlleerrddee 2288 ggüünnllüükk bbiirr
+ddöönnggüünnüünn 1144 vveeyyaa 2211 ggüünnüü bbooyyuunnccaa uuyygguullaannaann ggüünnddee bbiirr kkeezz 330000 mmgg’'llııkk uuzzaattııllmmıışş mmaarruuzziiyyeettii
+SSaayyffaa 1144 // 1177iillee ssüürrddüürrüüllmmüüşşttüürr.. AAzzaassiittiiddiinn ppllaazzmmaa mmaarruuzziiyyeettii vvee iinnddiirrggeemmeenniinn kkaannddaa kküürreesseell DDNNAA
+mmeettiillaassyyoonnuunnddaakkii ffaarrmmaakkooddiinnaammiikk eettkkiissii aarraassıınnddaa ppoozziittiiff bbiirr kkoorreellaassyyoonn ggöözzlleennmmiişşttiirr..
+55..33 KKlliinniikk öönncceessii ggüüvveennlliilliikk vveerriilleenrii
+KKööppeekklleerrddee yyaappııllaann 1144 ggüünnllüükk bbiirr oorraall ttookkssiissiittee ççaallıışşmmaassıınnddaa,, 88 vvee 1166 mmgg//mm22//ggüünn ddoozzllaarrddaa
+mmoorrttaalliittee mmeeyyddaannaa ggeellmmiişşttiirr.. MMaakkssiimmuumm ttoolleerree eeddiillmmiişş ddoozz ((MMTTDD)),, 44 mmgg//mm22//ggüünn'’ddüürr.. 11 vveeyyaa
+ttüümm ddoozzllaarrddaa kkeemmiikk iilliiğğii hhiippooppllaazziissiiyyllee iillggiillii ppaannssiittooppeennii,, lleennffooiitt ddeepplleessyyoonnuu,, bbeezz//llüümmeenn
+ddiillaassyyoonnuu vvee iinnccee vvee kkaallıınn bbaağğıırrssaakkllaarrıınn mmuukkoozzaall kkrriippttiilleerriinnddee tteekk hhüüccrree nneekkrroozzuu vvee//vveeyyaa
+sseennttrriilloobbüülleerr hheeppaattoosseellüülleerr vvaakkuuoolliizzaassyyoonn ggöözzlleennmmiişşttiirr.. MMTTDD’'ddee bbuu bbuullgguullaarr,, 33 hhaaffttaa ssoonnrraa
+kkııssmmeenn vveeyyaa ttaammaammeenn ççöözzüüllmmüüşşttüürr.. KKaarrşşııllaaşşttıırnıllaabbiilliirr ddoozz aarraallııkkllaarrıınnddaakkii ppaarreenntteerraall aazzaassiittiiddiinn
+uuyygguullaammaallaarrıı ssoonnrraassıınnddaa kkeemmiirrggeennlleerr,, kkööppeekklleerr vvee mmaayymmuunnllaarrddaa mmoorrttaalliittee vvee bbeennzzeerr hheeddeeff
+oorrggaann ttookkssiissiitteelleerrii ggöözzlleennmmiişşttiirr.. AAzzaassiittiiddiinn iillee yyaappııllaann tteekkrraarr ddoozz ttookkssiissiittee ççaallıışşmmaallaarrıınnaa aaiitt
+kklliinniikk ddıışşıı vveerriilleerr,, iinnssaannllaarraa yyöönneelliikk öözzeell hheerrhhaannggii bbiirr tteehhlliikkeeyyee iişşaarreett eettmmeemmiişşttiirr..
+AAzzaassiittiiddiinn,, iinn vviittrroo bbaakktteerriiyyeell vvee mmeemmeellii hhüüccrree ssiisstteemmlleerriinnddee hheemm ggeenn mmuuttaassyyoonnllaarrıınnıı hheemm
+kkrroommoozzoommaall bboozzuukklluukkllaarrıı iinnddüükklleerr.. AAzzaassiittiiddiinniinn ppoottaannssiiyyeell kkaarrssiinnoojjeenniissiitteessii,, ffaarreelleerr vvee
+ssııççaannllaarrddaa ddeeğğeerrlleennddiirriillmmiişşttiirr.. AAzzaassiittiiddiinn,, 5522 hhaaffttaa bbooyyuunnccaa hhaaffttaaddaa 33 kkeezz iinnttrraappeerriittoonneeaall oollaarraakk
+uuyygguullaannddıığğıınnddaa,, ddiişşii ffaarreelleerrddee hheemmaattooppooeettiikk ssiisstteemmiinn ttüümmöörrlleerriinnii iinnddüükklleemmiişşttiirr.. 5500 hhaaffttaa
+bbooyyuunnccaa iinnttrraappeerriittoonneeaall oollaarraakk uuyygguullaannddıığğıınnddaa aazzaassiittiiddiinn iillee tteeddaavvii eeddiilleenn ffaarreelleerrddee
+lleennffoorreettiikküülleerr ssiisstteemm,, aakkcciiğğeerr,, mmeemmee bbeezzii vvee ddeerriiddee aarrttaann ttüümmöörr iinnssiiddaannssıı ggöörrüüllmmüüşşttüürr..
+SSııççaannllaarrddaakkii bbiirr ttüümmöörriijjeenniissiittee ççaallıışşmmaassıı,, aarrttaann tteessttiikküülleerr ttüümmöörr iinnssiiddaannssıınnaa iişşaarreett eettmmiişşttiirr..
+FFaarreelleerrddeekkii eerrkkeenn eemmbbrriiyyoottookkssiissiittee ççaallıışşmmaallaarrıınnddaa,, oorrggaannoojjeenneezz ssıırraassıınnddaa tteekk bbiirr iinnttrraappeerriittoonneeaall
+aazzaassiittiiddiinn eennjjeekkssiiyyoonnuu ssoonnrraassıınnddaa iinnttrraaüütteerr eemmbbrriiyyoonnaall ööllüümmddee ((aarrttaann rreessoorrbbssiiyyoonn)) %%4444’'llüükk bbiirr
+ssııkkllııkk ggöözzlleennmmiişşttiirr.. SSeerrtt ddaammaakk kkaappaannmmaassıınnddaa vveeyyaa öönncceessiinnddee aazzaassiittiiddiinn vveerriilleenn ffaarreelleerrddee,,
+bbeeyyiinnddee ggeelliişşiimm aannoorrmmaalllliikklleerrii tteessppiitt eeddiillmmiişşttiirr.. SSııççaannllaarrddaa,, iimmppllaannttaassyyoonn öönncceessiinnddee
+vveerriillddiiğğiinnddee aazzaassiittiiddiinn,, aaddvveerrss rreeaakkssiiyyoonnllaarraa yyooll aaççmmaammıışşttıırr aammaa oorrggaannoojjeenneezz ssıırraassıınnddaa
+vveerriillddiiğğiinnddee aaççııkkççaa eemmbbrriiyyoottookkssiikk oolldduuğğuu ggöörrüüllmmüüşşttüürr.. SSııççaannllaarrddaa oorrggaannoojjeenneezz ssıırraassıınnddaa
+ggöözzlleenneenn ffeettaall aannoorrmmaalllliikklleerr şşuunnllaarrddıırr:: MMeerrkkeezzii ssiinniirr ssiisstteemmii ((MMSSSS)) aannoommaalliilleerrii
+((eekksseennsseeffaallii//eennsseeffaalloosseell)),, uuzzuuvv aannoommaalliilleerrii ((mmiikkrroommeelliiaa,, yyuummrruu aayyaakk,, ssiinnddaakkttiillii,, oolliiggooddaakkttiillii))
+vvee ddiiğğeerrlleerrii ((mmiikkrrooffttaallmmii,, mmiikkrrooggnnaattii,, ggaassttrrooşşiizziiss,, ööddeemm vvee kkaabbuurrggaa aannoorrmmaalllliikklleerrii))..
+AAzzaassiittiiddiinniinn,, tteeddaavvii eeddiillmmeemmiişş ddiişşii ssııççaannllaarrllaa ççiiffttlleeşşmmee öönncceessiinnddee eerrkkeekk ffaarreelleerree uuyygguullaannmmaassıı,,
+aazzaallaann ffeerrttiilliitteeyyee vvee mmüütteeaakkiipp eemmbbrriiyyoonniikk vvee ppoossttnnaattaall ggeelliişşiimm ssıırraassıınnddaa yyaavvrruu kkaayybbıınnaa yyooll
+aaççmmıışşttıırr.. EErrkkeekk ssııççaannllaarnınn tteeddaavviissii,, tteessttiiss vvee eeppiiddiiddiimmiittlleerrddee aağğıırrllııkk kkaayybbıınnaa,, aazzaallaann ssppeerrmm
+ssaayyıımmıınnaa,, ççiiffttlleeşşeenn ddiişşiilleerrddee aazzaallaann hhaammiilleelliikk oorraannllaarrıınn,, aannoorrmmaall eemmbbrriiyyoollaarrddaa bbiirr aarrttıışş vvee aarrttaann
+eemmbbrriiyyoo kkaayybbıınnaa yyooll aaççmmıışşttıırr ((bbkkzz.. BBööllüümm 44..66))..
+SSaayyffaa 1155 // 117766.. FFAARRMMAASSÖÖTTİİKK ÖÖZZEELLLLİİKKLLEERR
+66..11 YYaarrddıımmccıı mmaaddddeelleerriinn lliisstteessii
+TTaabblleett iiççeerriiğğii
+KKrroosskkaarrmmeelllloozz ssooddyyuumm ((EE446688))
+MMaaggnneezzyyuumm sstteeaarraatt ((EE557722))
+MMaannnniittooll ((EE442211))
+SSiilliisslleeşşmmiişş mmiikkrrookkrriissttaalliinn sseellüülloozz ((EE446600,, EE555511))
+KKaappllaammaa iiççeerriiğğii
+OOppaaddrryy IIII kkaahhvveerreennggii;; şşuunnllaarrıı iiççeerriirr::
+HHiipprroommeelllloozz ((EE446644))
+TTiittaannyyuumm ddiiookkssiitt ((EE117711))
+LLaakkttoozz mmoonnoohhiiddrraatt ((iinneekk ssüüttüü kkaayynnaakkllıı))
+PPoolliieettiilleenn gglliikkooll//mmaakkrrooggooll ((EE11552211))
+TTrriiaasseettiinn ((EE11551188))
+DDeemmiirr ookkssiitt kkıırrmmıızzııssıı ((EE117722))
+DDeemmiirr ookkssiitt ssaarrııssıı ((EE117722))
+DDeemmiirr ookkssiitt ssiiyyaahhıı ((EE117722))
+66..22 GGeeççiimmssiizzlliikklleerr
+GGeeççeerrllii ddeeğğiillddiirr..
+66..33 RRaaff öömmrrüü
+3366 aayy..
+66..44 SSaakkllaammaayyaa yyöönneelliikk öözzeell tteeddbbiirrlleerr
+2255°°CC'’nniinn aallttıınnddaakkii ooddaa ssııccaakkllıığğıınnddaa ssaakkllaayyıınnıızz..
+66..55 AAmmbbaallaajjıınn nniitteelliiğğii vvee iiççeerriiğğii
+FFiillmm kkaappllıı ttaabblleettlleerr,, bbaassmmaallıı aallüümmiinnyyuumm ffoollyyoossuu oollaann nnaayylloonn ((OOPPAA)) // ppoolliivviinniill kklloorrüürr ((PPVVCC))
+aallüümmiinnyyuumm bblliisstteerrlleerrddee aammbbaallaajjllaannıırr..
+AAmmbbaallaajj bbooyyuuttuu 77 vveeyyaa 1144 ffiillmm kkaappllıı ttaabblleettttiirr..
+TTüümm aammbbaallaajj bbooyyuuttllaarrıı ppiiyyaassaayyaa ssüürrüüllmmeeyyeebbiilliirr..
+66..66 BBeeşşeerrii ttııbbbbii üürrüünnddeenn aarrttaa kkaallaann mmaaddddeelleerriinn iimmhhaassıı vvee ddiiğğeerr öözzeell öönnlleemmlleerr
+OONNUURREEGG,, ssiittoottookkssiikk bbiirr ttııbbbbii üürrüünnddüürr.. FFiillmm kkaappllıı ttaabblleettlleerrddeenn ttoozz cciillddee ttoozz tteemmaass eettttiiğğii ttaakkddiirrddee
+cciilltt,, ssaabbuunn vvee ssuuyyllaa ddeerrhhaall vvee iiyyiiccee yyııkkaannmmaallııddıırr.. TToozz,, mmuukkuuss mmeemmbbrraannllaarnıyyllaa tteemmaass eettttiiğğii
+ttaakkddiirrddee bbööllggee,, ssuuyyllaa iiyyiiccee dduurruullaannmmaallııddıırr..
+KKuullllaannııllmmaammıışş oollaann üürrüünnlleerr yyaa ddaa aattııkk mmaatteerryyaalllleerr ""TTııbbbbii ÜÜrrüünnlleerriinn KKoonnttrroollüü YYöönneettmmeelliiğğii"" vvee
+""AAmmbbaallaajj AAttııkkllaarrıınnıınn KKoonnttrroollüü YYöönneettmmeelliikklleerrii""nnee uuyygguunn oollaarraakk iimmhhaa eeddiillmmeelliiddiirr..
+SSaayyffaa 1166 // 117777.. RRUUHHSSAATT SSAAHHİİBBİİ
+BBrriissttooll--MMyyeerrss SSqquuiibbbb İİllaaççllaarnı IInncc.. İİssttaannbbuull ŞŞuubbeessii
+SSaarrııyyeerr –— İİssttaannbbuull
+TTeell:: ((00221122)) 333355 8899 0000
+FFaakkss:: ((00221122)) 228866 22449966
+ee--mmaaiill:: rruuhhssaatt@@bbmmss..ccoomm
+88.. RRUUHHSSAATT NNUUMMAARRAASSII
+22002244//9911
+99.. İİLLKK RRUUHHSSAATT TTAARRİİHHİİ//RRUUHHSSAATT YYEENNİİLLEEMMEE TTAARRİİHHİİ
+İİllkk rruuhhssaatt ttaarriihhii:: 2299..0033..22002244
+RRuuhhssaatt yyeenniilleemmee ttaarriihhii::
+1100.. KKÜÜBB''ÜÜNN YYEENNİİLLEENNMMEE TTAARRİİHHİİ
+SSaayyffaa 1177 // 1177

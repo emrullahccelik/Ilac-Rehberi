@@ -1,0 +1,548 @@
+KISA ÜRÜN BİLGİSİ
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+MEDOVİR 5 mg/ml oral çözelti
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Her bir ml oral çözeltide:
+Etkin madde:
+Lamivudin 5 mg
+Yardımcı maddeler:
+USP Şeker (Sukroz) 200 mg
+Metil paraben (E218) 1,8 mg
+Propil paraben (E216) 0,2 mg
+Diğer yardımcı maddeler için 6.1’e bakınız.
+3. FARMASÖTİK FORM
+Oral çözelti
+Berrak, açık sarı renkli çözelti
+4. KLİNİK ÖZELLİKLER
+4.1. Terapötik endikasyonlar
+Lamivudin, kronik hepatit B’li ve hepatit B virüs (HBV) replikasyonu kanıtı bulunan
+2 yaş ve üzeri hastaların tedavisinde kullanılır.
+MEDOVİR, aşağıda belirtilen durumlara sahip olan yetişkinlerdeki kronik Hepatit B
+tedavisinde endikedir:
+- aktif viral replikasyonunun kanıtlanmış kompanse karaciğer rahatsızlığı, serum
+alanin aminotransferaz (ALT) yüksekliği ve aktif karaciğer enflamasyonu ve/veya
+fibrozisin histolojik bulgularının birlikte bulunması.
+4.2. Pozoloji ve uygulama şekli
+Pozoloji/uygulama sıklığı ve süresi:
+Erişkinler ve 12 yaş ve üstü çocuklar:
+Önerilen MEDOVİR dozu günde bir kez 100 mg’dır.
+HBeAg ve/veya HBsAg serokonversiyonu olduğu zaman immun sistemi yeterli
+hastalarda MEDOVİR’in kesilmesi düşünülmelidir. Rekürrent Hepatit B
+bulgularından anlaşılabileceği şekilde etkinlikte bir düşüş olursa MEDOVİR
+kesilebilir. Eğer MEDOVİR kesilirse hastalar rekürrent hepatit bulguları açısından
+periyodik olarak izlenmelidir (Bkz. Uyarılar/Önlemler). MEDOVİR ile tedavinin
+kesilmesinden sonra uzun süreli serokonversiyonun devamı hakkındaki veriler
+sınırlıdır. MEDOVİR tedavisi sırasında hasta uyumu izlenmelidir.
+1Uygulama şekli:
+MEDOVİR aç veya tok karnına alınabilir.
+Dozlama şırıngası ile ağızdan uygulanır.
+Özel popülasyonlara ilişkin ek bilgiler:
+Böbrek Yetmezliği:
+Lamivudin serum konsantrasyonları (EAA) orta ve şiddetli renal yetmezlikte azalmış
+renal klerens nedeniyle artar. Kreatinin klerensi <50 ml/dak olan hastalarda doz
+azaltılmalıdır (Bkz. Tablo 1 ve Tablo 2). 100 mg altındaki MEDOVİR dozları için oral
+solusyon kullanılmalıdır. Renal yetmezliği olan çocuklar için aynı doz azaltma
+geçerlidir. (Bkz. Tablo 2).
+Karaciğer Yetmezliği:
+Son evre karaciğer hastalığı olan ve transplant bekleyenler dahil karaciğer yetmezliği
+olan hastalardan elde edilen veriler lamivudin farmakokinetiğinin karaciğer fonksiyon
+bozukluğundan önemli ölçüde etkilenmediğini göstermiştir. Bu verilere dayanarak,
+birlikte böbrek yetmezliği yoksa karaciğer yetmezliğinde doz ayarlaması gerekli
+değildir.
+Tablo 1 Erişkinler ve 12 yaş üstü çocuklar için doz
+Kreatinin klerensi ml/dak MEDOVİR oral çözelti* İdame dozu
+ilk dozu Günde bir kez
+30 -- <50 20ml (100mg) 10ml (50mg)
+15 -<30 20ml (100mg) 5ml (25mg)
+5 -<15 7ml (35mg) 3ml (15mg)
+< 5 7ml (35mg) 2ml (10mg)
+* MEDOVİR oral çözelti 5mg/ml lamivudin içerir.
+Tablo 2 2-12 yaş arasındaki çocuklar için doz
+Kreatinin klerensi ml/dak MEDOVİR oral çözelti* İdame dozu
+ilk dozu Günde bir kez
+30 - <50 3 mg/kg 1.5 mg/kg
+15 -<30 3 mg/kg 0.75 mg/kg
+5 -<15 1 mg/kg 0.45 mg/kg
+< 5 1 mg/kg 0.3 mg/kg
+* MEDOVİR oral çözelti 5mg/ml lamivudin içerir.
+Aralıklı hemodiyaliz altındaki hastalardan elde edilen veriler (haftada 2-3 defa  4 saat
+diyaliz) hastanın kreatinin klerensini düzeltmek için yapılan ilk MEDOVİR doz
+azaltılması ardından diyalize giren hasta için daha fazla doz ayarlaması yapılmasının
+gerekmediğini göstermektedir.
+Pediyatrik popülasyon:
+2-11 yaş arasındaki çocuklar:
+Önerilen doz günde maksimum 100 mg olmak üzere günde bir kez 3 mg/kg’dır.
+İki yaşın altındaki çocuklarda doz önerisinde bulunmak için yeterli bilgi yoktur.
+2Geriyatrik popülasyon:
+Bu hasta grubuyla ilgili bilgi yoktur. Bununla birlikte bu yaş grubuna yaşla ilgili olarak
+renal fonksiyonda azalma ve hematolojik parametrelerde değişiklikler düşünülerek özel
+bakım tavsiye edilebilir.
+4.3. Kontrendikasyonlar
+MEDOVİR lamivudin veya preparatın içeriğindeki maddelere karşı aşırı duyarlılığı
+olduğu bilinen hastalarda kontrendikedir.
+4.4. Özel kullanım uyarıları ve önlemleri
+Lamivudin, kompanse kronik hepatit B hastası çocuklara (2 yaş ve üzeri) ve
+adolesanlara verilmiştir. Öte yandan, verilerin sınırlılığı nedeniyle, bu hasta
+populasyonuna lamivudin verilmesi halihazırda önerilmemektedir (Bölüm 5.1’e
+bakınız).
+Lamivudinin, Delta hepatit veya hepatit C ile koenfekte olmuş hastalardaki etkinliği
+ortaya konmamıştır ve ihtiyatlı davranılması tavsiye edilir.
+Lamivudinin, HbeAg negatif (pre-core mutant) hastalarda ve eşzamanlı olarak, kanser
+kemoterapisi de dahil olmak üzere, immunosupresif tedaviler kullananlarda
+kullanılmasına ilişkin veriler sınırlıdır. Lamivudin bu hastalarda dikkatle
+kullanılmalıdır.
+MEDOVİR ile ilaç tedavisi esnasında hastalar düzenli olarak izlenmelidir. Serum
+ALT ve HBV DNA düzeyleri 3 aylık aralıklarla izlenmeli ve HBeAg pozitif
+hastalarda HBeAg 6 ayda bir değerlendirilmelidir.
+Hepatit alevlenmeleri
+Tedavi sırasındaki alevlenmeler: Kronik hepatit B’de spontan alevlenmeler oldukça
+yaygındır ve serum ALT düzeylerindeki geçici yükselmelerle karakterizedir. Antiviral
+tedavinin başlatılmasının ardından, kimi hastalarda serum HBV DNA düzeyleri
+düşerken serum ALT düzeyi yükselebilir. Kompanse karaciğer hastalığı olan
+hastalarda, serum ALT düzeylerindeki bu yükselmelere, serum bilirubin
+konsantrasyonunda yükselme veya hepatik dekompansasyon bulguları genellikle eşlik
+etmez.
+Uzayan tedavi sırasında lamivudine karşı duyarlılıkta azalma gösteren HBV viral alt
+grupları (YMDD variant HBV) görülmüştür. Az da olsa bazı hastalarda YMDD
+mutant HBV’nin gelişmesi, primer olarak serum ALT’sinde yükselmeler ve HBV
+DNA’nın tekrar ortaya çıkmasıyla saptanan hepatitin alevlenmesine neden olabilir.
+YMDD mutant HBV’si olan hastalarda, lamivudinle çapraz direnç görülmeyen ikinci
+bir ajanın tedaviye eklenmesi düşünülmelidir.
+Tedavinin kesilmesinin ardından ortaya çıkan alevlenmeler:
+Hepatit B tedavisini bırakan hastalarda, genellikle serum ALT yüksekliği ve HBV
+DNA’nın yeniden ortaya çıkmasıyla tespit edilen, akut hepatit alevlenmesi
+gözlenmiştir. Tedavinin ardından aktif tedavi olmaksızın takip yapılan, kontrollü,
+Faz III çalışmalarda tedavi sonrası ALT yükselmelerinin (bazalin 3 katından fazla)
+insidansı plasebo alanlarla karşılaştırıldığında (%8) lamivudinle tedavi edilen
+hastalarda (%21) daha yüksek bulunmuştur. Öte yandan, bilirubin yükselmesiyle
+ilişkili tedavi sonrası yükselmeleri olan hastaların oranı düşüktür ve her iki tedavi
+3kolunda benzerdir. Tedavi sonrası ALT yükselmeleri hakkında daha fazla bilgi için
+bölüm 5.1’de Tablo 3’e bakınız. Lamivudinle tedavi edilen hastalarda, tedavi sonrası
+ALT yükselmelerinin çoğunluğu tedaviden sonraki 8-12 hafta arasında ortaya
+çıkmıştır. Çoğu olay kendi kendini sınırlayan özellikte olsa da bazı fatal durumlar da
+gözlenmiştir.
+Orta veya şiddetli böbrek yetmezliği olan hastalarda, serum lamivudin
+konsantrasyonları (EAA) azalan renal klerense bağlı olarak artar ve bundan dolayı
+kreatinin klerensi <50 ml/dakika olan hastalarda doz azaltılmalıdır (Bkz. Kullanım
+Şekli ve Dozu).
+Transplant alıcıları ve ileri derece karaciğer bozukluğu olan hastalar daha büyük aktif
+viral replikasyon riski altındadır. Bu hastaların karaciğer fonksiyonlarının marjinal
+olması nedeniyle lamivudine devam edilmemesi durumunda hepatit reaktivasyonu
+veya tedavi sırasında etkinliğin azalması ciddi ve hatta ölüme yol açabilecek
+yetmezliğe neden olabilir. Bu hastalarda Hepatit B ile ilgili parametreleri, karaciğer ve
+böbrek fonksiyonlarını ve antiviral yanıtları izlemek gerekir. Eğer herhangi bir sebeple
+tedavi kesiliyorsa tedavinin kesilmesinden itibaren 6 ay süreyle bu hastaların izlenmesi
+onerilir. İzlenecek laboratuvar parametreleri (asgari olarak) serum ALT, bilirubin,
+albumin, BUN, kreatinin ve viral durumu (HBV antijeni/antikoru ve mümkün
+olduğunda serum HBV DNA konsantrasyonları) içermelidir. Tedavi sırasında ve
+sonrasında hepatik yetmezlik yaşayan hastaların uygun bir şekilde sık sık kontrol
+edilmeleri gerekir.
+Aynı zamanda HIV ile enfekte olan hastalarda ve halen antiretroviral tedavi gören
+veya bu tedavilerin uygulanması planlanan hastalarda, HIV enfeksiyonu için genelde
+uygulanan lamivudin dozuna devam edilmelidir.
+MEDOVİR ile tedavi edilen gebe kadınlarda hepatit B virüsünün maternal-fötal geçişi
+hakkında bilgi yoktur. Yenidoğanlarda Hepatit B virüs aşılama uygulaması için
+önerilen standart prosedürler takip edilmelidir.
+MEDOVİR tedavisinin hepatit B virüsünün başkalarına bulaşma riskini azalttığı
+kanıtlanmamıştır, bu bakımdan hastalar uygun önlemler almaya devam etmeleri
+konusunda uyarılmalıdır.
+Laktik asidoz ve steatozla giden ciddi hepatomegali
+Nükleozit analoglarının kullanılmasıyla, genellikle ciddi hepatomegali ve hepatik
+steatozla ilişkili, kimi zaman fatal seyreden laktik asidozun görüldüğü (hipoksemi
+yokluğunda) bildirilmiştir. MEDOVİR de bir nükleozit analoğu olduğundan bu risk
+göz ardı edilemez. Hızla yükselen aminotransferaz düzeyleri, progresif hepatomegali
+veya etiyolojisi bilinmeyen metabolik/laktik asidoz ortaya çıktığında nükleozit
+analoglarıyla tedaviye son verilmelidir. Bulantı, kusma ve karın ağrısı gibi selim
+sindirim yolu semptomları laktik asidoz gelişimine işaret ediyor olabilir. Kimi zaman
+ölümle sonuçlanan ciddi olgular pankreatit, karaciğer yetmezliği/hepatik steatoz,
+böbrek yetmezliği ve daha yüksek serum laktat düzeyleriyle ilişkili bulunmuştur.
+Hepatomegalisi, hepatiti veya karaciğer hastalığı ve hepatik steatoz için bilinen diğer
+risk faktörleri olan (kimi tıbbi ürünler ve alkol de dahil olmak üzere) herhangi bir
+hastaya (özellikle obez kadınlara) nükleozit analogları reçete edilirken dikkatli
+olunmalıdır. Hepatit C koenfeksiyonu olan ve alfa interferon ve ribavirinle tedavi
+edilen hastalar özel olarak risk teşkil edebilir. Bu hastalar yakından izlenmelidir.
+4Mitokondriyal disfonksiyon
+Nükleozit ve nükleotit analoglarının, in vitro ve in vivo koşullarda çesitli derecelerde
+mitokondri hasarına neden olduğu gösterilmiştir. Anne karnında veya postnatal
+dönemde nükleozit analoglarına maruz kalan bebeklerde mitokondriyal hasar
+bildirilmiştir. Bildirilen ana istenmeyen olaylar hematolojik bozukluklar (anemi,
+nötropeni) ve metabolik bozukluklardır (hiperlaktatemi, hiperlipazemi). Geç ortaya
+çıkan bazı nörolojik bozukluklar (hipertoni, konvülsiyon, anormal davranışlar)
+bildirilmiştir. Nörolojik bozukluklar geçici veya kalıcı olabilir. Anne karnında
+nükleozit veya nükleotit analoglarına maruz kalan her çocuk, klinik açıdan ve
+laboratuvar bulguları açısından takip edilmeli ve ilgili bulgu veya belirtileri olan
+olgular olası mitokondriyal disfonksiyon açısından tam olarak araştırılmalıdır.
+MEDOVİR, lamivudin veya emtrisitabin içeren diğer tıbbi ürünlerle birlikte
+alınmamalıdır.
+MEDOVİR, her dozunda 200 mg sukroz içerir. Nadir kalıtımsal früktoz intoleransı,
+glukoz-galaktoz malabsorpsiyon veya sükraz-izomaltaz yetmezliği problemi olan
+hastaların bu ilacı kullanmamaları gerekir.
+MEDOVİR, her dozunda 1,8 mg metil paraben ve 0,2 mg propil paraben içerir. Alerjik
+reaksiyonlara (muhtemelen gecikmiş) sebebiyet verebilir.
+MEDOVİR her dozunda 20 mg propilen glikol içerir. Alkol benzeri semptomlara neden
+olabilir.
+4.5. Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+Etkileşim çalışmaları yalnızca erişkinlerde yürütülmüştür.
+Değişmemiş ilacın hemen hemen tamamının renal eliminasyonu, sınırlı metabolizma
+ve plazma protein bağlanmasından dolayı etkileşim olasılığı düşüktür.
+Lamivudin başlıca aktif organik katyonik sekresyon ile elimine edilir. Trimetoprim
+gibi özellikle organik katyonik transport sistemi aracılığıyla başlıca aktif renal
+sekresyonla elimine olan diğer ilaçlarla birlikte verildiğinde ilaç etkileşme olasılığı
+düşünülmelidir. Diğer ilaçların (örneğin; ranitidin, simetidin) bu mekanizmanın sadece
+bir kısmını kullanırlar ve lamivudin ile etkileşmezler.
+Başlıca aktif organik anyonik yolla veya glomerüler filtrasyonla atılan ilaçların
+lamivudin ile klinik olarak önemli bir etkileşimi olması beklenmez.
+Trimetoprim/sulfametoksazol: Trimetoprim/sülfametoksazol 160mg/800mg verilmesi
+lamivudine maruz kalmayı % 40 civarında arttırır. Lamivudin,
+trimetoprim/sulfametoksazol farmakokinetiğini etkilemez. Bununla beraber, hastada
+renal yetmezlik olmadıkça lamivudin dozunda ayarlama gerekmez.
+Zidovudin: Lamivudin ile verildiğinde zidovudin için C ’ta orta derecede bir artış
+maks
+(% 28) gözlenmiştir ve bununla beraber maruz kalma seviyesi (EAA) değişmez.
+Zidovudinin lamivudin farmakokinetiği üzerinde etkisi yoktur (Bkz. Farmakokinetik
+özellikler).
+5Alfa-interferon: Lamivudin alfa-interferon ile birlikte verildiğinde iki ilaç arasında
+farmakokinetik bir ilaç etkileşmesi yoktur. Yaygın olarak kullanılan immunosupresan
+ilaçlarla (ör. siklosporin A) MEDOVİR birlikte kullanıldığında hastalarda klinik
+olarak önemli advers etkileşimler bildirilmemiştir. Ancak, özellikle etkileşim
+çalışmaları yapılmamıştır.
+Zalsitabin: Lamivudin, zalsitabinin hücre içi fosforilasyonunu her iki tıbbi üründe
+birlikte uygulandığında inhibe edebilir. Bu nedenle, MEDOVİR’in zalsitabin ile
+kombinasyon olarak kullanılması önerilmemektedir.
+Özel popülasyonlara ilişkin ek bilgiler
+Veri yoktur.
+Pediyatrik popülasyon:
+Veri yoktur.
+4.6. Gebelik ve laktasyon
+Genel tavsiye
+Gebelik kategorisi: C
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon)
+Doğurganlık potansiyeli bulunan kadınlara lamivudin kullanımı süresince uygun bir
+kontrasepsiyon yöntemi önerilmelidir.
+Gebelik dönemi
+Lamivudinin hamilelikte kullanımı ile ilgili yeterli veri yoktur. MEDOVİR gerekli
+olmadıkça gebelik döneminde kullanılmamalıdır.
+Lamivudinin gebe kadınlardaki güvenilirliği ile ilgili sınırlı bilgi vardır. Kadınlardaki
+çalışmalar lamivudinin plasentadan geçtiğini doğrulamıştır. Doğum sırasında bebeğin
+serumundaki lamivudin konsantrasyonları annenin serumu ve göbek kordon
+serumundaki ile benzerdir.
+Hayvanlarda yapılan üreme çalışmaları teratojenisite kanıtı ve erkek veya kadın fertilitesi
+üzerinde bir etkiyi göstermemiştir. MEDOVİR insanlarda elde edilenlere benzer
+maruziyet düzeylerinde gebe tavşanlara uygulandığında erken embriyonik kayıpta küçük
+artışlara yol açmıştır.
+Gebelikte, sadece fayda riske ağır bastığında kullanılmalıdır. Hayvan çalışmalarının
+bulguları her zaman insan yanıtını öngörmese de, tavşandaki bulgular erken
+embriyonik kayıp açısından potansiyel bir riske işaret etmektedir. Sonuç olarak,
+gebeliğin ilk üç ayı sırasında MEDOVİR uygulaması önerilmez.
+MEDOVİR ile tedavi edilmekte olan ve ardından gebe kalan hastalar için, lamivudinin
+bırakılması durumunda hepatit nüksü olasılığı dikkate alınmalıdır.
+Laktasyon dönemi
+HIV nedeniyle tedavi edilen 130’dan fazla anne/bebek çiftine dayanarak, HIV
+nedeniyle tedavi edilen annelerin emzirilen bebeklerinde lamivudinin serum
+konsantrasyonlarının düşük olduğu (annedeki serum konsantrasyonun %0,06’sı ile
+%4’ü arası) ve giderek azalarak emzirilen bebekler 24 haftalık olduğunda tespit
+6edilemez düzeylere düştüğü bulunmuştur. Emzirilen bebek tarafından alınan toplam
+lamivudin miktarı çok düşüktür ve dolayısıyla suboptimal antiviral etki gösterecek
+maruz kalmayla sonuçlanır. Bebek doğumda hepatit B’den uygun şekilde korunduysa
+maternal hepatit B emzirme için bir kontrendikasyon değildir ve insan sütündeki
+düşük konsantrasyondaki lamivudinin emzirilen bebeklerde istenmeyen olaylara sebep
+olduğuna dair kanıt yoktur. Dolayısıyla, emzirmenin bebek için faydası ve anne için
+tedavinin faydası hesaba katıldığında lamivudinle tedavi edilen annelerin emzirmesi
+düşünülebilir. Uygun profilaksiye rağmen anneden HBV geçişi olan durumlarda,
+bebekte lamivudine dirençli mutantların ortaya çıkması riskini azaltmak üzere
+emzirmeye son verilmesi düşünülmelidir.
+Üreme yeteneği /Fertilite
+Hayvanlardaki üreme çalışmaları, teratojenik bir kanıt, kadın ve erkekteki fertilite üzerine
+herhangi bir etkisi olduğunu göstermek bakımından yetersizdir. Lamivudin gebe
+tavşanlara verildiğinde, erken embriyonik kayıplarda küçük bir artışa neden olur. Buna
+karşın, lamivudine yaklaşık olarak 60 kez maruz kalmış (Cmax’a dayanan) sıçanlarda
+emriyonik kayıp kanıtı bulunmamaktadır.
+Mitokondriyal disfonksiyon
+Nükleozit ve nükleotit analoglarının, in vitro ve in vivo koşullarda çeşitli derecelerde
+mitokondri hasarına neden olduğu gösterilmiştir. Anne karnında ve/veya post natal
+olarak nükleozit analoglarına maruz kalan bebeklerde mitokondriyal hasar
+bildirilmiştir. Bildirilen ana istenmeyen olaylar hematolojik bozukluklar (anemi,
+nötropeni) ve metabolik bozukluklardır (hiperlaktatemi, hiperlipazemi). Geç ortaya çıkan
+bazı nörolojik bozukluklar (hipertoni, konvulsiyon, anormal davranışlar) bildirilmiştir.
+Nörolojik bozukluklar geçici veya kalıcı olabilir. Anne karnında nükleozit veya nükleotit
+analoglarına maruz kalan her çocuk, klinik açıdan ve laboratuvar bulguları açısından takip
+edilmeli ve ilgili bulgu veya belirtileri olan olgular olası mitokondriyal disfonksiyon
+açısından tam olarak araştırılmalıdır.
+4.7. Araç ve makine kullanımı üzerindeki etkiler
+Lamivudinin taşıt kullanma performansı ve makine kullanma üzerindeki etkileriyle
+ilgili araştırma yoktur. Ancak, bu etkinlikler üzerine ilacın farmakolojisi gözönüne
+alındığında zararlı bir etki yapması beklenmez.
+4.8. İstenmeyen etkiler
+Klinik çalışma verileri
+MEDOVİR klinik çalışmalarda kronik hepatit B hastalarında iyi tolere edilmiştir.
+Advers olay görülme sıklığı ve laboratuvar anormallikleri (yükselmiş ALT ve CPK)
+MEDOVİR ile tedavi edilen hastalar ile plasebo uygulanan hastalarda benzerdir.
+En yaygın bildirilen advers olaylar kırıklık, bitkinlik, solunum yolu enfeksiyonları, baş
+ağrısı, karında rahatsızlık ve ağrı, bulantı, kusma ve diyaredir.
+Tablo 3:
+Advers etki Klinik çalışma verileri:
+Faz III verileri
+Placebo (n=200) Lamivudin 100 mg
+(n=416)
+Kırgınlık & Yorgunluk 28% 26%
+Solunum yolu enfeksiyonu 17% 19%
+7Baş ağrısı 21% 22%
+Abdominal rahatsızlık & ağrı 17% 15%
+Bulantı & kusma 17% 16%
+Diyare 12% 14%
+Tedavi süresince ALT yükselmesi † 13% 13%
+Tedavi sonrası ALT yükselmesi†† 8% 19%
+Artmış CPK† 5% 9%
+† Tedavi süresince III veya IV derece bir laboratuar anormalliği yaşayan hastaların
+yüzdesi
+†† Tedavi sonrası III veya IV derece ALT yükselmesi yaşayan hastaların yüzdesi
+İstenmeyen etkiler aşağıdaki sıklık sınıflandırmasına göre sıralanmıştır. Sıklık
+kategorileri, lamivudinle ilişkili olabilecek yan etkiler dikkate alınarak tayin edilmiştir.
+Çok yaygın (≥1/10); yaygın (1/100 ila 1/10); yaygın olmayan (1/1.000 ila 1/100); seyrek
+(1/10.000 ila 1/1.000), çok seyrek (<1/10,000), sıklığı bilinmiyor (eldeki verilerden
+hareketle tahmin edilemiyor) olarak tanımlanmıştır.
+Aşağıdaki advers etkiler için belirtilen sıklık kategorileri tahminidir. Çoğu advers etki
+insidansının hesaplanabilmesi için uygun veri yoktur. Çok yaygın ve yaygın sıklık
+kategorileri klinik çalışma verilerinden belirlenmiştir ve placebo gruplarındaki insidans
+hesaba katılmamıştır. Pazarlama sonrası izlenimlerle tanımlanmış advers etkiler seyrek
+ve çok seyrek kategorileridir.
+Bağışıklık sistemi hastalıkları
+Seyrek: Anjiyoödem
+Hepato-bilier hastalıkları
+Çok yaygın: ALT’nin yükselmesi
+Tedavi sonrası ALT’de yükselme, lamivudinle tedavi gören hastalarda, plasebo alan
+hastalardan daha yaygındır. Karaciğer hastalığı geçirmiş hastalarda yapılan kontrollü
+calışmalarda, MEDOVİR ve plasebo ile tedavi edilen hastalar arasında bilirubin
+yükselmelerine bağlı ALT yükselmeleri ve/veya hepatik yetmezlik bakımından tedavi
+sonrası anlamlı bir farklılık bulunmamıştır. Rekürran hepatit olgularının MEDOVİR
+tedavisiyle mi yoksa daha önceki altta yatan hastalık ile mi ilişkili olduğu belirsizdir.
+Çoğu olgu kendi kendisini sınırlayan özellik göstermiştir, öte yandan çok nadir olarak
+ölümle sonuçlandığı gözlenmiştir.
+Deri ve deri altı doku hastalıkları
+Yaygın: Döküntü, kaşıntı
+Kas-iskelet bozukluklar, bağ doku ve kemik hastalıkları
+Yaygın: Miyalji ve kramplar dahil kas hastalıkları, Artmış CPK
+Çok Seyrek: Rabdomiyoliz
+Pazarlama sonrası veriler
+Klinik çalışmalardan rapor edilmiş advers etkilere ilave olarak, aşağıda sıralanan etkiler
+lamivudinin onaylandıktan sonraki kullanımına dayanılarak tanımlanmıştır.
+8Kan ve lenf sistemi hastalıkları
+Çok seyrek: Trombositopeni
+Kas-iskelet bozukluklar, bağ doku ve kemik hastalıkları
+Çok seyrek: Miyalji dahil kas hastalıkları, kramplar ve rabdomiyoliz
+HIV enfeksiyonu olan hastalarda, pankreatit ve periferal nöropati (veya parestezi)
+vakaları bildirilmiştir; ancak lamivudin (MEDOVİR) ile ilişkisi açık değildir. Kronik
+hepatit B hastalarında bu olayların görülme sıklığı MEDOVİR ile tedavi edilenlerle
+plasebo uygulananlar arasında bir farklılık göstermemiştir.
+HIV hastalarında nükleozit analogları ile kombinasyon tedavisinde genellikle şiddetli
+hepatomegali ve hepatik steatoz ile birlikte laktik asidoz vakaları bildirilmiştir.
+Dekompanse karaciğer hastalığı olan hepatit B hastalarında bu gibi advers etkiler
+nadiren bildirilmişse de bu olayların MEDOVİR tedavisine bağlı olduğu
+kanıtlanmamıştır.
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak
+izlenmesine olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers
+reaksiyonu Türkiye Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir
+(ww.titck.gov.tr; e- posta: tufam@titck.gov.tr; tel: 0 800 314 00 08; faks: 0 312 218 35
+99).
+4.9. Doz aşımı ve tedavisi
+İnsanlarda akut doz aşımı sonuçları hakkında sınırlı veriler vardır. Ölümcül olaylar
+meydana gelmemiş ve hastalar iyileşmiştir. Doz aşımı ardından özel belirti ve semptomlar
+saptanmamıştır.
+Tedavi: Doz aşımında hasta izlenmeli ve gerekirse standart destekleyici tedavi
+uygulanmalıdır. Lamivudin diyalize edilebildiğinden aşırı doz tedavisinde devamlı
+hemodiyaliz kullanılabilirse de bu konuda çalışma yoktur.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1. Farmakodinamik özellikler
+Farmakoterapötik grup: Nükleozit analogu antiviral ilaçlar
+ATC kodu: JO5A F05.
+Etki mekanizması
+Lamivudin hepatit B virüsüne karşı aktivitesi yüksek antiviral bir ajandır.
+Lamivudin, enfekte olan ve olmayan hücrelerde ana bileşiğin aktif formu olan trifosfat
+(TF) türevine metabolize olur. Trifosfatın hücre içi yarılanma ömrü hepatositlerde
+in vitro 17-19 saattir. Lamivudin trifosfat HBV viral polimeraz için bir substrat olarak
+etki gösterir. Viral DNA oluşumu Lamivudin trifosfatın zincire girmesi ve takiben zincir
+sonlanması ile engellenir.
+9Farmakodinamik etkiler
+Lamivudin trifosfat normal hücresel deoksinükleotid metabolizması ile etkileşmez.
+Sadece memeli DNA polimeraz α ve β’nın zayıf bir inhibitörüdür. Ayrıca, lamivudin
+trifosfat, memeli hücresi DNA içeriğine çok az etkilidir.
+Lamivudin, mitokondriyal yapı, DNA içerik ve fonksiyonu üzerine potansiyel ilaç
+etkilerini ölçen testlerde kabul edilebilir bir toksik etki göstermemiştir. Mitokondriyal
+DNA içeriğini azaltmada son derece düşük potansiyele sahiptir; mitokondriyal
+DNA’ya devamlı inkorpore olmaz ve mitokondriyal DNA polimeraz γ üzerinde bir
+inhibitör etkisi yoktur.
+Klinik çalışmalar
+Lamivudin in vivo güçlü antiviral aktiviteye sahiptir; tedaviye başlandıktan sonra hızla
+HBV replikasyonunu baskılayarak sürekli HBV baskılanması, serum aminotransferaz
+değerinin normal düzeye düşmesi, karaciğerde nekroinflamatuar aktivite azalması,
+fibrozda azalma ve HBeAg serokonversiyonda artışa yol açar. Lamivudin klinik
+çalışmalarda kronik hepatit B hastalarına 4 yıla dek uygulanmıştır. Hastalarda etnik
+kökenden bağımsız olarak benzer sonuçlar alınmıştır.
+Kontrollü çalışmalarda lamivudin ile bir yıl tedavi edilen en az 800 HBeAg pozitif
+hastada HBV DNA replikasyonunda anlamlı baskılanma (%34-57), ALT düzeyinin
+normale dönmesi (%40-72), HBeAg serokonversiyon artışı (HBeAg ve HBV DNA
+kaybı ve HBeAb saptanması, %16-18), histolojide düzelme (%38-52), fibrozda
+(%3-17) ve siroz progresyonunda azalma (%1.8) saptanmıştır. HBeAg
+serokonversiyonu hastaların %81’inde (34/42) yaklaşık iki yıl korunmuştur. HBsAg
+serokonversiyonu hastaların ek olarak %21’inde sağlanmıştır.
+Plasebo kontrollü bir çalışmada 2 -17 yaş arasındaki 286 hepatit B hastasının bir yıl
+lamivudin ile tedavisi plaseboya göre anlamlı derecede fazla tam virolojik yanıta
+(HBeAg ve HBV DNA kaybı) yol açmıştır (%23 [44/191] vs %13 [12/95]). Serum
+ALT düzeyinin normale dönmesi lamivudin hastalarında plaseboya göre daha sık
+olmuştur (%55 [100/183] vs %13 [11/88]).
+Tabakalandırılmış bir izlem çalışmasında, bir yıllık lamivudin tedavisine yanıt
+verdikten sonra tedavisi kesilen hastalarda 6 ayda tam virolojik yanıtın sürdürülme
+oranı %83 [33/40] olmuştur.
+In vitro koşullarda lamivudine duyarlılığı azalmış HBV viral alt popülasyonları
+saptanmıştır. Bu HBV varyantları (YMDD varyant HBV) lamivudin tedavisi sırasında
+saptanabilir serum HBV DNA düzeyine dönüş görülen hepatit B hastalarında da
+ortaya çıkar. YMDD varyant HBV insidansı tedavi süresi ile artar; 1 yıl sonra %20,
+3 yıl sonra %53, 4 yıl sonra %70 olup immün yetmezliği olan hastalarda daha yüksek
+olabilir. YMDD varyant HBV ortaya çıkmasına karşın bir yıl tedavi edilen hastalarda
+plaseboya göre anlamlı derecede düşük serum HBV DNA ve ALT düzeyi saptanmış,
+karaciğer histolojisi düzelmiştir.
+HBeAg negatif kronik hepatit B hastalarında lamivudinin etkililiği vahşi tip HBV
+hastalarında benzerdir. Bir yıllık tedavi ardından lamivudin tedavisi kesilirse HBeAg
+negatif kronik hepatit B hastalarının çoğunda viral replikasyon başlar. Bu hasta
+popülasyonundaki sınırlı veri uzatılmış lamivudin tedavisinin (2 yıl) HBV DNA
+süpresyonunu ve ALT normalleşmesini koruduğunu göstermiştir.
+10Transplantasyon sırasında ve öncesinde lamivudin uygulanan karaciğer
+transplantasyon hastalarında yürütülen kontrolsüz çalışmalarda etkili HBV DNA
+süpresyonu ve ALT normalleşmesi gösterilmiştir. Lamivudin tedavisi transplantasyon
+sonrasında devam edilmiştir; greft HBV reenfeksiyon azalmış, HBsAg kaybı artmış ve
+1 yıllık sağ kalım oranı %76-100 olmuştur. Dekompanze karaciğer hastalığı olan
+hastalar için uygun olmadığı düşünüldüğünden bu çalışmalar plasebo kontrollü
+değildir.
+Eşzamanlı immünsüpresyon ile bekleneceği gibi 52 haftalık tedavi sonrasında YMDD
+varyant HBV ortaya çıkışı karaciğer transplantasyonu olan hastalarda (%36-64)
+immün yetmezliği olan kronik hepatit B hastalarına (%14-32) göre daha yüksek
+olmuştur.
+Lamivudin monoterapisinin alfa interferon ile ya da kronik hepatit B tedavi
+kombinasyonları ile karşılaştırılmasında tedavi grupları arasında histolojik yanıt ya da
+HBeAg serokonversiyon oranları açısından anlamlı fark bulunmamıştır. Lamivudinin
+güvenlilik profili alfa interferon içeren tedavi rejimlerinden üstün bulunmuştur.
+Delta hepatit enfeksiyonu olan hastalarda lamivudin etkililiğine ilişkin klinik veri
+bulunmamaktadır.
+5.2. Farmakokinetik özellikler
+Genel özellikler
+Emilim:
+Lamivudin gastrointestinal kanaldan iyi emilir ve erişkinlerde oral lamivudin
+biyoyararlanımı normal olarak % 80-85’tir. Oral uygulamayı takiben doruk plazma
+düzeylerine (C ) ortalama ulaşma süresi (T ) yaklaşık 1 saattir. 100 mg günlük
+maks maks
+dozlar gibi terapötik doz düzeylerinde verildiğinde, C 1.1-1.5 g/ml ve çukur
+maks
+düzeyleri 0.015-0.020 mikrogram/ml’dir.’dir. Lamivudinin yiyecekle birlikte
+verilmesi t ’ta gecikme ve C ’da düşmeye neden olur (%47 oranında azalma).
+maks maks
+Bununla beraber, absorbe edilen lamivudin miktarı (EAA) etkilenmediğinden
+MEDOVİR yiyecekle veya yiyeceksiz verilebilir.
+Dağılım:
+İntravenöz çalışmalar ortalama dağılım hacminin 1.3 l/kg olduğunu göstermiştir.
+Sınırlı veriler lamivudinin MSS’ne penetre olduğunu ve beyin omurilik sıvısına (BOS)
+ulaştığını göstermiştir. Ortalama BOS/serum konsantrasyon oranı oral uygulamayı
+takiben 2-4 saat sonra yaklaşık 0.12’dir.
+Biyotransformasyon:
+Lamivudin değişmeden bilhassa renal yoldan atılır. Hepatik metabolizma dağılımının
+az oluşu (% 5-10) ve düşük plazma proteini bağlanmasından dolayı metabolik ilaç
+etkileşmeleri beklenmez.
+Eliminasyon:
+Ortalama lamivudin sistemik klerensi yaklaşık 0.31/saat/l/kg’dır. Gözlenen
+eliminasyon yarılanma ömrü 5-7 saattir. Lamivudinin büyük kısmı glomerüler
+filtrasyon ve aktif sekresyon ile (organik katyonik transport sistemi) değişmeden
+idrarla atılır. Lamivudin eliminasyonunun % 70’i renal yoldan gerçekleşir.
+11Hastalardaki karakteristik özellikler
+Pediyatrik hastalarda kullanım:
+Pediyatrik hastalarda lamuvidin farmakokinetiği yetişkinlerinkine benzerdir. Ancak
+çocuklarda kiloya bağlı oral klerens daha yüksektir ve bu da yetişkinlerde daha düşük
+EAA değerine yol açar. Yaşa bağlı oral klerens en yüksek 2 yaşında görülmüştür ve
+2 yaşından 12 yaşına doğru düşmüştür. Bu dönemdeki değerler yetişkinlerdeki
+değerlerle benzerdir. Günde bir defa 3 mg/kg doz yetişkinlerde günde 100 mg
+alınan doza benzer kararlı düzey lamuvidin EAA’sı göstermiştir.
+2-11 yaş arası çocuklarda günde maksimum 100 mg’a kadar 3 mg/kg doz önerilir ve bu
+yetişkinlerde tavsiye edilen doza (günde 100 mg) yakındır. 2 yaşın altındaki çocuklar
+için yeterli farmakokinetik bilgisi yoktur.
+Geriyatrik hastalarda kullanım:
+Yaşlı hastalarda normal yaşlanma sürecine bağlı renal yetmezliğin, kreatinin klerensi
+50 ml/dak’nın altına düşmedikçe, lamivudinin farmakokinetiği üzerinde bir etkisi
+olmadığı görülmüştür.
+Böbrek yetmezliği:
+Renal yetmezliği olan hastalarla yapılan çalışmalar renal bozuklukların lamivudin
+eliminasyonunu etkilediğini göstermiştir. Kreatinin klerensi <50 ml/dak olan
+hastalarda dozun azaltılması gereklidir (Bkz. Kullanım şekli ve dozu).
+Karaciğer yetmezliği:
+HIV ve HBV ile enfekte olmayan ve hepatik yetmezliği olan hastalarla yapılan bir
+çalışma bu hasta grubunda lamivudinin iyi tolere edildiğini ve laboratuvar
+parametrelerinin ve advers etki profilinin değişmediğini göstermiştir. Lamivudinin
+farmakokinetiği hepatik yetmezliğinden etkilenmez. Karaciğer transplantasyonu alan
+hastalarda, aynı zamanda renal yetmezlik de görülmediği sürece hepatik bozukluğun
+lamivudinin farmakokinetiğine onemli bir etkisi olmadığına ilişkin sınırlı veri
+bulunmaktadır.
+Farmakokinetik/Farmakodinamik ilişkiler
+Lamivudin terapötik doz aralığında doğrusal bir farmakokinetik sergiler ve albümine
+düşük oranda bağlanır.
+5.3. Klinik öncesi güvenlilik verileri
+Lamivudinin hayvan toksisite çalışmalarında yüksek dozlarda uygulanması herhangi
+bir temel organ toksisitesi ile ilişkili görülmemiştir. En yüksek doz düzeylerinde
+karaciğer ve böbrek fonksiyonlarının göstergeleri üzerinde hafif etkiler ve zaman
+zaman da karaciğer ağırlıklarında azalma görülmüştür. Eritrosit ve nötrofil sayılarında
+azalma klinik önemi olmayan etkiler olarak tanımlanmıştır. Bu olaylara klinik
+çalışmalarda sık rastlanmamıştır.
+Lamivudin bakteriyel testlerde mutajenik bulunmamıştır. Fakat birçok nükleozit
+analogu gibi, in vitro bir sitojenik deneyde ve fare lenfoma deneyinde aktivite
+göstermiştir. Lamivudin in vivo olarak beklenen klinik plazma düzeyinin 60-70
+katındaki dozlarda genotoksik bulunmamıştır. Lamivudinin in vitro mutajenik
+aktivitesi in vivo testlerde doğrulanmadığından lamivudinin tedavi gören hastalarda
+genotoksik bir tehlike oluşturmayacağı sonucuna varılmıştır.
+12Hayvanlarda yapılan üreme çalışmaları teratojenisite ve erkek veya kadın fertilitesi
+üzerinde bir etkiyi göstermemiştir. Lamivudin insanlarda elde edilene benzer
+maruziyet düzeylerinde gebe tavşanlara uygulandığında erken embriyonik letaliteyi
+indüklemekle birlikte, aynı durum sıçanlarda çok yüksek sistemik maruziyetlerde bile
+gözlenmemiştir.
+Lamivudinle sıçan ve farelerde yürütülen uzun süreli karsinojenite çalışmalarında
+karsinojenik potansiyel saptanmamıştır.
+Öte yandan, sıçanlarda klinik maruziyetin yaklaşık 60 katı (C ’a dayalı olarak)
+maks
+maruziyet düzeylerinde embriyonik kayıp kanıtı mevcut değildir.
+6. FARMASÖTİK ÖZELLİKLER
+6.1. Yardımcı maddelerin listesi
+USP Şeker (Sukroz)
+Metil paraben (E218)
+Propil paraben (E216)
+Sitrik asit anhidrit
+Propilen glikol
+Sodyum sitrat dihidrat
+Çilek aroması
+Muz aroması
+Saf su
+6.2. Geçimsizlikler
+Geçerli değildir.
+6.3. Raf ömrü
+24 ay
+İlk açıldıktan sonra: 1 ay
+6.4. Saklamaya yönelik özel tedbirler
+25 C’nin altındaki oda sıcaklığında saklayınız.
+İlk açıldıktan bir ay sonra kalan kısım atılmalıdır.
+6.5. Ambalajın niteliği ve içeriği
+240 ml oral çözelti içeren, çocuk emniyet kapaklı, mat beyaz HDPE (yüksek
+yoğunluklu polietilen) şişe ile birlikte şişe adaptörü ve 10 ml’lik oral dozlama şırıngası
+ve karton kutu ambalaj
+6.6. Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+Kullanılmamış olan ürünler ya da atık materyaller “Tıbbi Atıkların Kontrolü
+Yönetmeliği” ve “Ambalaj ve Ambalaj Atıklarının Kontrolü Yönetmelik”lerine uygun
+olarak imha edilmelidir.
+7. RUHSAT SAHİBİ
+Adı : SANOVEL İLAÇ SAN. VE TİC. A.Ş.
+Adresi : 34460 İstinye - İstanbul
+Tel No : (212) 362 18 00
+Faks No : (212) 362 17 38
+138. RUHSAT NUMARASI
+2020/4
+9. İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi: 16.01.2020
+Ruhsat yenileme tarihi: -
+10. KÜB’ÜN YENİLENME TARİHİ
+16.01.2020
+14

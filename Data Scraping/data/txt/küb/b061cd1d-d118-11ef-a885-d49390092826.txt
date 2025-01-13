@@ -1,0 +1,425 @@
+KISA ÜRÜN BİLGİSİ
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+OMİZOL 40 mg I.V. İnfüzyonluk Çözelti Hazırlamak için Toz
+Steril
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde:
+Her ambalajda, liyofilize omeprazol içeren 1 adet flakon
+Her flakon, 40 mg omeprazole eşdeğer miktar olan 42.6 mg omeprazol sodyum içerir.
+Yardımcı maddeler:
+Disodyum edetat 1.5 mg
+Sodyum hidroksit y.m. (pH ayarı için)
+Yardımcı maddeler için Bölüm 6.1.’e bakınız.
+3. FARMASÖTİK FORM
+İnfüzyonluk çözelti hazırlamak için beyaz veya beyazımsı liyofilize toz.
+4. KLİNİK ÖZELLİKLER
+4.1. Terapötik endikasyonlar
+OMİZOL,
+- Duodenum ülseri tedavisinde,
+- Duodenum ülserinin nüksetmesinin önlenmesinde,
+- Mide ülseri tedavisinde,
+- Mide ülserinin nüksetmesinin önlenmesinde,
+- Uygun antibiyotikler ve Helicobacter pylori (H. pylori) kombinasyonu ile peptik ülserin
+eradikasyonunda,
+- NSAİÎ ile ilişkili mide ve duodenum ülserlerinin tedavisinde,
+- Riskli hastalarda NSAİÎ ile ilişkili mide ve duodenum ülserlerinin önlenmesinde,
+- Reflü özofajit tedavisinde,
+- Reflü özofajiti iyileşmiş olan hastaların uzun dönem tedavisinde,
+- Gastro-özofageal reflü hastalığının semptomatik tedavisinde,
+- Zollinger-Ellison sendromu'nun tedavisinde.
+4.2 Pozoloji ve uygulama şekli
+Pozoloji / uygulama sıklığı ve süresi:
+Oral tedaviye alternatif olarak:
+Oral yolla tedavi edilemeyen hastalar intravenöz yoldan günde 40 mg omeprazol ile tedavi
+edilebilirler.
+1 / 13Zollinger-Ellison sendromu:
+Doz hastaya göre ayarlanmalıdır. Başlangıç için önerilen doz günde 60 mg olup, daha sık ve
+daha yüksek dozların kullanılması gerekebilir. Dozun 60 mg’ı geçmesi halinde, dozun
+bölünerek günde 2 kez verilmesi gerekir.
+Uygulama şekli:
+I.V. enjeksiyon:
+OMİZOL sadece intravenöz yoldan yavaş olarak enjekte edilmelidir. OMİZOL, infüzyon
+çözeltilerine ilave edilmemelidir. Çözeltinin hazırlanmasından sonra enjeksiyon en az 2.5
+dakikada, dakikada en fazla 4 ml uygulanacak şekilde yapılmalıdır. Çözelti hazırlandıktan
+sonra en fazla 4 saat içinde uygulanmalıdır. Uygulamadan önce ürünün sulandırılması ile ilgili
+talimatlar için Bölüm 6.6’ya bakınız.
+Özel popülasyonlara ilişkin ek bilgiler:
+Böbrek yetmezliği:
+Böbrek yetmezliği olan hastalarda doz ayarlaması gerekmez (bkz. Bölüm 5.2).
+Karaciğer yetmezliği:
+Karaciğer yetmezliği olan hastalarda günlük 10-20 mg doz yeterli olabilir (bkz. Bölüm 5.2).
+Pediyatrik popülasyon:
+Çocuklarda i.v. kullanım ile ilgili deneyim sınırlıdır.
+Geriyatrik popülasyon:
+65 yaş ve üzerindeki yaşlı hastalarda doz ayarlaması gerekmez (bkz. Bölüm 5.2).
+4.3 Kontrendikasyonlar
+OMİZOL; omeprazol’e, substitue benzimidazollere ve ilacın içeriğinde yer alan diğer
+bileşenlere karşı aşırı duyarlılığı olanlarda kullanılmamalıdır.
+Omeprazol, diğer proton pompası inhibitörleri gibi, nelfinavir ile eş zamanlı
+kullanılmamalıdır (bkz. Bölüm 4.5).
+4.4 Özel kullanım uyarıları ve önlemleri
+Herhangi bir uyarıcı belirtinin ortaya çıkması halinde (örn.; belirgin istenmeyen kilo kaybı,
+tekrarlanan kusma, yutma güçlüğü, melena veya hematemez, vb.) ve mide ülseri teşhisi
+konduğunda veya mide ülserinden şüphelenildiğinde, semptomları hafifleterek tanıyı
+geciktirebileceği için malinite olasılığı dışlanmadan tedaviye başlanmamalıdır.
+Omeprazolün atazanavir ile eş zamanlı kullanılması tavsiye edilmez (Bkz. Bölüm 4.5).
+Atazanavirin proton pompası inhibitörleri ile kombinasyonu kaçınılmazsa, 100 mg ritonavirle
+400 mg’a kadar olan dozdaki atazanavir kombinasyonunda yakın klinik gözlem (örn., virüs
+yüklemesi) önerilmekte olup omeprazol dozu 20 mg’ı geçmemelidir.
+2 / 13Tüm asit bloke eden ilaçlar gibi omeprazol de, hipo-veya aklorhidriye bağlı B12 vitamininin
+(siyanokobalamin) emilimini azaltabilir. Bu durum, uzun dönemli tedavide, azalmış B12
+vitamini emilimi nedeniyle kısıtlı vücut depoları veya risk faktörleri olan hastalarda dikkate
+alınmalıdır.
+Omeprazol CYP2C19 inhibitörüdür. Omeprazol ile tedaviye başlandığında veya sona
+erdirildiğinde, CYP2C19 üzerinden metabolize olan ilaçlarla olası etkileşimler dikkate
+alınmalıdır. Klopidogrel ile omeprazol arasında bir etkileşim gözlenmiştir (bkz. Bölüm 4.5).
+Bu etkileşimin klinik önemi belirsizdir. Önlem olarak, omeprazol ve klopidogrelin birlikte
+kullanımından kaçınılmalıdır.
+Proton pompası inhibitörleri ile tedavi, Salmonella ve Campylobacter gibi gastrointestinal
+enfeksiyonların riskinde az da olsa bir artışa neden olabilir (bkz. Bölüm 5.1).
+Kemik kırığı:
+Yayınlanmış çeşitli gözlemsel çalışmalar, proton pompası inhibitörü (PPI) tedavisinin, kalça,
+el bileği ya da omurgada osteoporoza bağlı kırık riskinde bir artışla ilişkili olabileceğini
+düşündürmektedir. Çoklu günlük dozlar ve uzun süreli PPI tedavisi (bir yıl ya da daha fazla)
+şeklinde tanımlanan yüksek doz alan hastalarda kırık riski artmıştır. Hastalar, tedavi
+edildikleri durum için uygun olan en düşük dozda ve en kısa süreli PPI tedavisini almalıdırlar.
+Hipomagnezemi;
+PPI'larla en az 3 ay süreyle tedavi edilen hastalarda ve çoğu olguda da bir yıl tedaviden sonra
+nadiren semptomatik ve asemptomatik hipomagnezemi bildirilmiştir. Ciddi advers olaylar
+tetani, aritmiler ve nöbetleri içermektedir. Çoğu hastada hipomagnezemi tedavisi magnezyum
+replasmanını ve PPI tedavisinin kesilmesini gerektirmektedir. Uzun süre tedavi alması
+beklenen ya da PPI’lan digoksin gibi ilaçlar ya da hipomagnezemiye neden olabilecek
+ilaçlarla (öm. diüretikler) birlikte alan hastalar için, sağlık mesleği mensupları PPI tedavisine
+başlamadan önce ve daha sonra periyodik olarak magnezyum düzeylerini takip edebilirler.
+Nöroendokrin tümörler için yapılan incelemelerle etkileşimler:
+Gastrik asit düzeyindeki ilaç kaynaklı azalmalara sekonder olarak serum kromogranin A
+(CgA) düzeyleri artmaktadır. Artmış CgA düzeyi nöroendokrin tümörler için yapılan tanı
+incelemelerinde yanlış pozitif sonuçlara yol açabilir. Uygulayıcılar CgA düzeylerini
+değerlendirmeden önce geçici olarak PPI tedavisine ara vermeli ve eğer başlangıçtaki CgA
+düzeyleri yüksek ise test tekrarlanmalıdır. Eğer seri testler yapılıyorsa (örn. Monitorizasyon
+için), testler arasındaki referans aralıkları değişebileceği için testler aynı laboratuvarda
+yapılmalıdır.
+Özellikle bir yıldan uzun süre ile tedavi gören hastalar düzenli olarak gözetim altında
+tutulmalıdır.
+Bu tıbbi ürün her dozunda 1 mmol (23 mg)’dan daha az sodyum ihtiva eder; yani esasında
+“sodyum içermez”.
+3 / 134.5. Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+Diğer tıbbi ürünlerin farmakokinetikleri üzerinde omeprazolün etkileri:
+Emilimleri pH’ ya bağlı olan tıbbi ürünler:
+Omeprazol ile tedavi esnasında azalan mide asiditesine bağlı olarak, absorbsiyonu mide
+pH’ına bağlı olan tıbbi ürünlerin emilimi azalabilir ya da artabilir.
+Nelfinavir, atazanavir:
+Atazanavir ve nelfinavir, omeprazol ile eş zamanlı olarak kullanıldığında plazma düzeyleri
+azalır.
+Omeprazolün nelfinavir ile eş zamanlı kullanımı kontrendikedir (bkz. Bölüm 4.3). Omeprazol
+(günde bir kez 40 mg) ile eş zamanlı kullanımı, ortalama nelfinavir maruziyetini yaklaşık %
+40 ve farmakolojik olarak aktif metabolit M8'in ortalama maruziyetini yaklaşık % 75-90
+oranında azaltmıştır. Ayrıca etkileşim CYP2C19 inhibisyonunu da içermektedir.
+Omeprazolün atazanavir ile eş zamanlı kullanımı önerilmemektedir (bkz. Bölüm 4.4). Sağlıklı
+gönüllülerde, omeprazol (günde bir kez 40 mg) ve atazanavir 300 mg/ritonavir 100 mg’ın
+birlikte uygulanması atazanavir maruziyetinde %75'lik bir azalmaya yol açmıştır. Atazanavir
+dozunun 400 mg’a yükseltilmesi, atazanavir maruziyetine omeprazolün etkisini kompanse
+etmemektedir. Sağlıklı gönüllülerde, omeprazol (günde bir kez 20 mg) ile atazanavir 400
+mg/ritonavir 100 mg’ın birlikte uygulanması, günde bir kez atazanavir 300 mg/ritonavir 100
+mg uygulamasına göre atazanavir maruziyetinde yaklaşık % 30'luk bir azalmaya yol açmıştır.
+Digoksin:
+Omeprazol (günde 20 mg) ve digoksinin sağlıklı gönüllülerde eş zamanlı kullanımı digoksinin
+biyoyararlanımını %10 arttırmıştır. Digoksin toksisitesi nadiren bildirilmiştir. Bununla
+birlikte, yaşlı hastalarda yüksek dozlarda omeprazol verildiğinde dikkatli olunmalıdır.
+Sonrasında, digoksinin terapötik ilaç izlemesi desteklenmelidir.
+Klopidogrel:
+Sağlıklı gönüllüler ile yapılan çalışmaların sonuçları, klopidogrel (300 mg yükleme dozu/75
+mg günlük idame dozu) ve omeprazol (günde bir kez 80 mg) arasında farmakokinetik
+(FK)/farmakodinamik (FD) etkileşim olduğunu göstermiştir. Klopidogrel ve omeprazol
+birlikte verildiği zaman klopidogrelin aktif metabolitine maruziyeti ortalama %46 ve
+trombosit agregasyonunun maksimum inhibisyonu ortalama % 16 oranında azalmıştır.
+Gözlemsel ve klinik çalışmaların her ikisinde de bu FK/FD etkileşiminin önemli
+kardiyovasküler olaylar açısından yarattığı klinik sonuçlara ilişkin tutarlı olmayan veriler
+bildirilmiştir. Önlem olarak, omeprazol ve klopidogrelin eş zamanlı kullanımından
+kaçınılmalıdır. (bkz. Bölüm 4.4).
+4 / 13Diğer tıbbi ürünler:
+Posakonazol, erlotinib, ketokonazol ve itrakonazolün emilimi anlamlı derecede azalmıştır ve
+bu yüzden klinik etkinlik bozulabilir. Posakonazol ve erlotinibin eş zamanlı kullanımından
+kaçınılmalıdır.
+CYP2C19 tarafından metabolize edilen tıbbi ürünler:
+Omeprazol, majör omeprazol metabolize edici enzim olan CYP2C19’u orta düzeyde inhibe
+eder. Bu sebeple, CYP2C19 enzimi aracılığıyla metabolize olan diazepam, fenitoin, varfarin
+(R-varfarin) ve diğer K vitamini antagonistleri ve silostazol gibi diğer ilaçların
+metabolizmasını yavaşlatabilir.
+Silostazol:
+40 mg omeprazolün sağlıklı deneklere verildiği bir çapraz çalışmada, silostazolün Cmaks ve
+EAA değerleri sırasıyla %18 ve %26 artmış, aktif metabolitlerinden birinin değerleri sırasıyla
+%29 ve %69 artmıştır.
+Fenitoin:
+Omeprazol tedavisinin başlanmasından itibaren ilk iki hafta süresince fenitoin plazma
+konsantrasyonunun izlenmesi önerilmekte olup eğer fenitoin doz ayarlaması yapılmışsa,
+omeprazol tedavisi bitmek üzereyken izleme ve ileri doz ayarlaması yapılmalıdır.
+Bilinmeyen mekanizma:
+Sakinavir:
+Omeprazolün sakinavir/ritonavir ile eş zamanlı kullanımı ile HIV-infekte olmuş hastalarda iyi
+tolere edilen sakinavirin plazma seviyelerinde yaklaşık %70'e varan artış bildirilmiştir.
+Takrolimus:
+Omeprazol ve takrolimusun birlikte kullanılması durumunda takrolimusun plazma
+seviyesinde artış olduğu bildirilmiştir. Renal fonksiyon (kreatinin klerens) dahil takrolimus
+konsantrasyonlarının desteklenmiş izlenimi yürütülmeli ve eğer gerekliyse takrolimus dozu
+ayarlanmalıdır.
+Metotreksat:
+Bazı hastalarda, proton pompası inhibitörleri ile birlikte verildiğinde metotreksat düzeylerinin
+arttığı bildirilmiştir. Yüksek doz metotreksat uygulanmasında, omeprazol uygulamasının
+geçici olarak bırakılması gerekebilir.
+Diğer ilaçların omeprazolün farmakokinetiği üzerindeki etkisi:
+CYP2C19 ve/veya CYP3A4 inhibitörleri:
+Omeprazol CYP2C19 ve CYP3A4 ile metabolize olduğundan, CYP2C19 veya CYP3A4 veya
+her ikisini de inhibe ettiği bilinen klaritromisin ve vorikonazol gibi ilaçlar, omeprazolün
+metabolizma hızını azaltarak, omeprazolün serum düzeylerinin artmasına sebep olabilir.
+Omeprazol ile vorikonazolün birlikte kullanılması, omeprazole maruziyetin iki kattan fazla
+artması ile sonuçlanmıştır. Omeprazolün yüksek dozları iyi tolere edildiğinden, geçici olarak
+5 / 13birlikte kullanıldığında omeprazol için doz ayarlaması gerekli değildir. Bununla birlikte,
+şiddetli karaciğer bozukluğu olan hastalarda ve uzun dönemli tedavi gerekiyorsa, doz
+ayarlaması düşünülmelidir.
+CYP2C19 ve/veya CYP3A4 indükleyicileri:
+CYP2C19 veya CYP3A4 veya her ikisini de indüklediği bilinen rifampisin gibi ilaçlar
+omeprazolün metabolizma hızını arttırarak, omeprazol serum düzeylerinin azalmasına neden
+olabilir.
+Özel popülasyonlara ilişkin ek bilgiler
+Pediyatrik popülasyon:
+Omeprazolün pediyatrik kullanımını tavsiye etmek için yeterli veri yoktur.
+4.6. GebeIik ve laktasyon
+Genel tavsiye
+Gebelik kategorisi: C
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon)
+Çocuk doğurma potansiyeli bulunan kadınlarda üreme yeteneği üzerine etkilerine ilişkin
+yeterli veri mevcut değildir. Doğum kontrol hapları ile omeprazol arasında herhangi bir
+etkileşim bildirilmemiştir.
+Gebelik dönemi:
+Hayvanlar üzerinde yapılan çalışmalar, gebelik ve/veya embriyonel/fetal gelişim ve/veya
+doğum ve/veya doğum sonrası gelişim üzerindeki etkiler bakımından yetersizdir (Bkz. Bölüm
+5.3). İnsanlara yönelik potansiyel risk bilinmemektedir.
+Üç prospektif epidemiyolojik çalışma (1000’den fazla uygulamaya ait sonuçları içerir),
+omeprazolün hamilelerde ve fetus veya yeni doğan sağlığı üzerinde herhangi bir advers etkisi
+olmadığını göstermektedir.
+OMİZOL gebelikte ancak anneye sağlayacağı faydalar fetüs için potansiyel risklere üstünse
+kullanılmalıdır.
+Laktasyon dönemi:
+Omeprazol anne sütüne geçer, ancak terapötik dozlarda kullanıldığında çocuk üzerine etkisi
+olması beklenmez. Emzirme döneminde kullanılmaması daha doğrudur.
+Üreme yeteneği/Fertilite
+Üreme yeteneği/Fertilite üzerine etkisine dair çalışma yapılmamıştır.
+6 / 134.7. Araç ve makine kullanımı üzerindeki etkiler
+OMİZOL araba ve makine kullanımını etkilememektedir. Baş dönmesi ve görsel bozukluklar
+gibi advers ilaç reaksiyonları görülebilir (bkz. Bölüm 4.8). Bu advers reaksiyonlardan
+etkilenen hastalar araba ve makine kullanmamalıdırlar.
+4.8. İstenmeyen etkiler
+En yaygın yan etkiler (hastaların %1-10’unda) baş ağrısı, karın ağrısı, kabızlık, ishal, midede
+gaz birikmesi ve mide bulantısı/kusmadır.
+Klinik çalışmalarda ve pazarlama sonrasında aşağıdaki olaylar advers etki olarak rapor
+edilmiştir. Bunların hiçbiri doz ile ilişkili bulunmamıştır.
+Sistem organ sınıfına göre aşağıda listelenen istenmeyen olayların sıklık dereceleri şu şekilde
+tanımlanmıştır:
+Çok yaygın (≥1/10); yaygın (≥1/100 ila <1/10); yaygın olmayan (≥1/1.000 ila <1/100); seyrek
+(≥1/10.000 ila <1/1.000); çok seyrek (<1/10.000); bilinmiyor (eldeki verilerden hareketle
+tahmin edilemiyor).
+Kan ve lenf sistemi hastalıkları
+Seyrek: Lökopeni, trombositopeni
+Çok seyrek: Agranülositoz, pansitopeni
+Bağışıklık sistemi hastalıkları
+Seyrek: Ateş, anjiyoödem ve anaflaktik reaksiyon/şok gibi aşırı duyarlılık reaksiyonları
+Metabolizma ve beslenme hastalıkları
+Seyrek: Hiponatremi
+Bilinmiyor: Hipomagnezemi; ağır hipomagnezemi hipokalsemiye neden olabilir.
+Psikiyatrik hastalıklar
+Yaygın olmayan: Uykusuzluk
+Seyrek: Ajitasyon, konfüzyon, depresyon
+Çok seyrek: Agresyon, halüsinasyon
+Sinir sistemi hastalıkları
+Yaygın: Baş ağrısı
+Yaygın olmayan: Sersemlik, parestezi, uyku hali
+Seyrek: Tat alma bozuklukları
+Göz hastalıkları
+Seyrek: Bulanık görme
+7 / 13Kulak ve iç kulak hastalıkları
+Yaygın olmayan: Baş dönmesi
+Solunum, göğüs bozuklukları ve mediastinal hastalıklar
+Seyrek: Bronkospazm
+Gastrointestinal hastalıklar
+Yaygın: Karın ağrısı, ishal, kabızlık, midede gaz birikmesi, bulantı ve kusma, fundik bez
+polipleri (benign)
+Seyrek: Ağız kuruluğu, stomatit, gastrointestinal pamukçuk
+Bilinmiyor: Mikroskopik kolit
+Hepatobiliyer hastalıklar
+Yaygın olmayan: Karaciğer enzimlerinde artış
+Seyrek: Sarılık eşlik eden veya etmeyen hepatit
+Çok Seyrek: Hepatik yetmezlik, önceden var olan karaciğer hastalığı olanlarda ensefalopati
+Deri ve deri altı doku hastalıkları
+Yaygın olmayan: Dermatit, kaşıntı, döküntü, ürtiker
+Seyrek: Alopesi, fotosensitivite
+Çok seyrek: Eritema multiforme, Stevens-Johnson sendromu, toksik epidermal nekroliz
+(TEN)
+Kas iskelet bozuklukları, bağ doku ve kemik hastalıkları
+Yaygın olmayan: Kalça, el bileği ya da omurgada kırık
+Seyrek: Artralji, miyalji
+Çok seyrek: Kas zayıflığı
+Böbrek ve idrar hastalıkları
+Seyrek: İnterstisyel nefrit
+Üreme sistemi ve meme bozuklukları
+Çok seyrek: Jinekomasti
+Genel bozukluklar ve uygulama bölgesine ilişkin hastalıklar
+Yaygın olmayan: Halsizlik, periferal ödem
+Seyrek: Aşırı terleme
+Ciddi hastalığı olanlarda, izole vakalarda, özellikle yüksek dozlardaki omeprazolün
+intravenöz tedavisi sonrasında irreversibl görme bozuklukları bildirilmiştir. Bununla birlikte
+bu belirtilerin omeprazol tedavisi ile nedensel bir ilişkisi saptanamamıştır.
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+8 / 13taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi’ne (TÜFAM) bildirmeleri gerekmektedir (www.titck.gov.tr;
+e-posta: tufam@titck.gov.tr; Tel: 0 800 314 00 08; Faks: 0 312 218 35 99)
+4.9. Doz aşımı ve tedavisi
+İnsanda omeprazol doz aşımı ile ilgili sınırlı deneyim mevcuttur. Literatürde, 560 mg
+dozlarına kadar tanımlıdır ve omeprazolün oral tek dozlarının 2.400 mg’ı (olağan önerilen
+klinik dozun 120 katı) geçtiği nadir raporlar alınmıştır. Mide bulantısı, kusma, baş dönmesi,
+karın ağrısı, diyare ve baş ağrısı bildirilmiştir. Ayrıca tek olgularda apati, depresyon ve
+konfüzyon tanımlanmıştır.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1. Farmakodinamik özellikler
+Farmakoterapötik Grup: Proton pompası inhibitörleri
+ATC Kodu: A02BC01
+Etki mekanizması:
+Omeprazol çok yüksek hedeflenmiş etki mekanizması ile mide asidi sekresyonunu azaltan iki
+aktif enantiyomerin rasemik karışımıdır. Paryetal hücrelerde asit pompasının spesifik bir
+inhibitörüdür. Asit sekresyonu üzerindeki etkisi hızlı olup günde tek doz tedavi ile mide asit
+salgısını geri dönüşümlü olarak inhibe eder.
+Omeprazol zayıf bir bazdır, paryetal hücrelerdeki asidik ortamda konsantre olur ve burada
+aktif forma dönüşerek, gastrik asit üretiminin son basamağındaki H+, K+-ATPaz-asit pompası
+enzimini inhibe eder. Mide asidi oluşumunun son aşamasında görülen bu etki, doza bağlıdır
+ve böylece, gerek bazal gerek uyarılmış asit sekresyonu, uyarı niteliğinden bağımsız olarak
+inhibe edilir.
+Gözlenen tüm farmakodinamik etkiler, omeprazolün asit sekresyonu üzerindeki etkisi ile
+açıklanabilir.
+Mide asidi sekresyonu üzerindeki etkisi:
+İntravenöz omeprazol insanlarda doza bağlı mide asidi sekresyonu inhibisyonu oluşturur.
+Günde 20 mg oral tekrarlanan doz uygulamaları sonrasında olduğu gibi mide içi asiditede
+benzer bir redüksiyona hızla ulaşmak için, 40 mg intravenöz ilk doz önerilmektedir. Bu, mide
+içi asiditede hızlı bir düşüş ve hem i.v. enjeksiyon, hem de i.v. infüzyon için 24 saatte
+yaklaşık %90 ortalama düşüş ile sonuçlanır.
+Asit sekresyonunun inhibisyonu, zamana karşı plazma konsantrasyon eğrisi altında kalan alan
+(EAA) ile bağlantılı olup omeprazolün gerçek plazma konsantrasyonu ile ilişkili değildir.
+Omeprazol ile tedavi sırasında taşifilaksi gözlenmemiştir.
+9 / 13Helicobacter pylori üzerinde etkisi:
+Helicobacter pylori, mide ve barsak ülseri hastalıklarını içeren peptik ülser hastalığıyla
+ilişkilidir. H. pylori gastritin gelişmesinde temel bir faktördür. Mide asiti ile birlikte H. pylori
+peptik ülser hastalığının gelişmesinde ana faktörlerdir. H. pylori, mide kanseri gelişim riskinin
+artması ile ilgili atrofik gastrit gelişiminde de temel faktördür.
+Omeprazol ve antimikrobiyal ilaçlar ile H. pylori’nin eradikasyonu; semptomların hızla
+hafiflemesi, mukozal lezyonların yüksek oranda iyileşmesi ve uzun dönemde peptik ülser
+hastalığının hafiflemesi ile gastrointestinal kanama gibi komplikasyonların azalması ve uzun
+süreli sekresyon engelleyici tedavi ihtiyacının azalmasını sağlamaktadır.
+Asit inhibisyonu ile ilgili diğer etkiler:
+Uzun dönemli tedavide midedeki glandüler kistlerin oluşma sıklığı artabilir. Bu değişimler
+fizyolojiktir ve asit sekresyonunun inhibisyonu sonucu ortaya çıkar, iyi huyludur ve geri
+dönüşümlü gibi görünmektedir.
+Proton pompası inhibitörleri dahil herhangi bir sebepten dolayı azalan gastrik asidite,
+gastrointestinal sistemde normal olarak var olan bakteri sayısında artışa neden olur. Proton
+pompası inhibitörleri ile tedavi, Salmonella ve Campylobacter ve muhtemelen ayrıca
+hastanede yatan hastalarda Clostridium difficile gibi gastrointestinal enfeksiyonların riskini az
+da olsa arttırabilir.
+Sekresyon engelleyici tıbbi ürünler ile tedavi sırasında azalan asit sekresyonuna karşılık
+olarak serum gastrini artar. Aynı zamanda azalan mide asiditesine bağlı olarak kromogranin A
+(CgA) artar. Artan CgA düzeyi, nöroendokrin tümörlerin araştırılmasını engelleyebilir.
+Bundan kaçınmak için omeprazol tedavisi CgA ölçümlerinden 5 gün önce durdurulmalıdır.
+CgA ve gastrin düzeylerinin 5 gün sonra normale dönmemesi halinde, ölçümler, omeprazol
+tedavisinin kesilmesinden 14 gün sonra tekrarlanmalıdır.
+Omeprazol ile uzun dönemli tedavi sırasında bazı hastalarda (çocuklar ve yetişkinlerde)
+Entero kromafin benzeri (ECL) hücrelerinin sayısında, muhtemelen artmış serum gastrin
+düzeyleri ile ilişkili bir artış gözlenmiştir. Bulguların klinik olarak bir anlamının olmadığı
+düşünülmektedir.
+5.2. Farmakokinetik özellikler
+Genel özellikler
+Dağılım:
+Sağlıklı kişilerde görünür dağılım hacmi yaklaşık 0,3 L/kg vücut ağırlığıdır. Omeprazol
+plazma proteinlerine yaklaşık %97 oranında bağlanır.
+Biyotransformasyon:
+Omeprazol, sitokrom P450 (CYP) sistemiyle tamamen metabolize olur. Metabolizasyonun
+büyük bir kısmı, plazmadaki ana metabolit olan hidroksiomeprazol oluşumundan sorumlu,
+polimorfik olarak ifade edilen spesifik izoform CYP2C19’a bağlıdır. Kalan kısım, omeprazol
+10 / 13sülfon oluşumundan sorumlu olan bir diğer spesifik izoform CYP3A4’e bağımlıdır.
+Omeprazolün CYP2C19’a yüksek afinitesi sonucunda, omeprazol ve diğer CYP2C19
+substratlarının yarışmalı inhibisyonu ve metabolik ilaç-ilaç etkileşmesi potansiyeli mevcuttur.
+Fakat, omeprazolün CYP3A4’e olan düşük afinitesinden dolayı diğer CYP3A4 substratlarının
+metabolizmasını inhibe etme potansiyeli yoktur. Ayrıca, omeprazolün ana CYP enzimleri
+üzerine inhibitör etkisi bulunmamaktadır.
+Eliminasyon:
+Tek doz sonrası toplam plazma klirensi 30-40 L/saat’tir. Omeprazolün plazma eliminasyon
+yarı ömrü hem tek, hem de tekrarlanan günde tek doz oral uygulama sonrası bir saatten
+kısadır. Omeprazol dozlar arasında plazmadan tamamen elimine olur. İntravenöz yolla
+uygulanan dozun yaklaşık % 80’i metabolitler olarak idrar ile geri kalanı da temel olarak safra
+salgısından dolayı feçes ile atılmaktadır.
+Omeprazol ve/veya metabolitleri (örneğin, sülfon) tarafından muhtemelen CYP2C19 enzimi
+inhibisyonunun neden olduğu sistemik klerensteki azalmaya bağlı olarak, omeprazolün
+plazma-zaman ölçümünde eğri altında kalan alan değeri (EAA) tekrarlanan uygulamalar ile
+artar.
+Metabolitlerden hiçbirinin mide asit sekresyonu üzerinde herhangi bir etkisi bulunmamıştır.
+Hastalardaki karakteristik özellikler
+Böbrek yetmezliği:
+Yetersiz böbrek fonksiyonuna sahip hastalarda omeprazol farmakokinetiği, sistemik
+biyoyararlanım ve eliminasyon hızı da dahil, değişmemektedir.
+Karaciğer yetmezliği:
+Yetersiz karaciğer fonksiyonuna sahip hastalarda EAA artmaktadır, ancak omeprazolün
+günde tek doz oral yolla alınması herhangi bir birikime neden olmamıştır.
+Yaşlılar:
+Omeprazolün metabolizma hızı yaşlılarda biraz azalır (75-79 yaş arası).
+Çocuklar:
+Çocuklarda omeprazol i.v. kullanımına dair deneyim sınırlıdır.
+Zayıf metabolizörler:
+Kafkas halkının yaklaşık %3’ü ve Asya halkının %15-20’sinde fonksiyonel CYP2C19 enzimi
+eksikliği vardır ve bunlara zayıf metabolizörler denir. Bu bireylerde, omeprazolün
+metabolizması muhtemelen temel olarak CYP3A4 ile katalizlenir. Omeprazolün günde 20 mg
+tekrarlanan uygulamalarından sonra, ortalama EAA, fonksiyonel CYP2C19 enzimine sahip
+olanlara göre zayıf metabolizörlerde 5 ila 10 kat fazladır. Ortalama pik plazma
+konsantrasyonları da 3 ila 5 kat fazladır. Bu bulgular omeprazol pozolojisini
+etkilememektedir.
+11 / 135.3. Klinik öncesi güvenlilik verileri
+Omeprazol ile ömür boyu tedavi edilen sıçanlarda ECL-hücre hiperplazisi ve karsinoidler
+gözlenmiştir. Bu değişmelere, asit salgısının uzun süreli baskılanmasına bağlı olarak gelişen,
+uzun süreli hipergastrinemi neden olur. H2-reseptör antagonistleri ve proton pompası
+inhibitörleri ile tedavi ve kısmi fundektomiden sonra da benzer bulgulara rastlanmıştır. Bu
+nedenle bu değişmeler kullanılan ilaçlardan hiçbirinin tek başına direkt etkisine bağlı değildir.
+6. FARMASÖTİK ÖZELLİKLER
+6.1. Yardımcı maddelerin listesi
+Her flakonda,
+Disodyum edetat
+Sodyum hidroksit (pH ayarlayıcısı)
+Hidroklorik asit (pH ayarlayıcısı)
+Enjeksiyonluk su
+6.2. Geçimsizlikler
+Tavsiye edilen şekilde kullanıldığında bilinen herhangi bir geçimsizliği bulunmamaktadır.
+6.3. Raf ömrü
+Açılmamış ambalajında (karton kutuda): 25°C’nin altındaki oda sıcaklığında 24 aydır.
+6.4. Saklamaya yönelik özel tedbirler
+Enjeksiyonluk Çözelti İçin Toz: Dış ambalajından çıkarılmış flakonlar, ışıktan korunması
+koşuluyla, 25°C’nin altındaki oda sıcaklığında muhafaza edilebilir.
+Hazırlanmış çözelti:
+Kontrollü aseptik koşullarda çözülmüş olması şartı ile; %5 Dekstroz ile çözülmüş ürün:
+25°C’de ve ışıktan korunarak, 6 saat Fizyolojik tuz çözeltisi (%0.9 NaCl) ile çözülmüş ürün:
+25°C’de ve ışıktan korunarak, 12 saat saklanabilir.
+Kullanılmayan çözelti atılmalıdır.
+6.5. Ambalajın niteliği ve içeriği
+Flakon: 1 adet Tip I, renksiz, cam, 10 ml flakon, bromobütil kauçuk tıpalı ve alüminyum/
+plastik flip-off kapakla kapatılmıştır.
+6.6. Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+Kullanılmamış olan ürünler ya da atık materyaller “Tıbbi Atıkların Kontrolü Yönetmeliği” ve
+“Ambalaj ve Ambalaj Atıklarının Kontrol Yönetmeliğine uygun olarak imha edilmelidir.
+Çevreyi korumak amacıyla kullanılmayan OMİZOL şehir suyuna veya çöpe atılmamalıdır.
+12 / 137. RUHSAT SAHİBİ
+MS Pharma İlaç San. ve Tic. A.Ş.
+Ulaş OSB Mah., D100 Cad. No:28/1 Ergene 2 OSB
+Ergene/Tekirdağ
+8. RUHSAT NUMARASI
+2021/515
+9. İLK RUHSAT TARİHİ / RUHSAT YENİLEME TARİHİ
+İlk ruhsatlandırma tarihi: 20.12.2021
+Ruhsat yenileme tarihi:
+10. KÜB’ÜN YENİLENME TARİHİ
+KÜB Onay Tarihi:
+13 / 13

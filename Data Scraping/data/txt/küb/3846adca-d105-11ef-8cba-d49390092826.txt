@@ -1,0 +1,619 @@
+KISA ÜRÜN BİLGİSİ
+Bu ilaç ek izlemeye tabidir. Bu üçgen yeni güvenlilik bilgisinin hızlı olarak belirlenmesini
+sağlayacaktır. Sağlık mesleği mensuplarının şüpheli advers reaksiyonları TÜFAM’a
+bildirmeleri beklenmektedir. Bakınız bölüm 4.8 advers reaksiyonlar nasıl raporlanır?
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+REFİXİA® 1000 IU Enjeksiyonluk Çözelti Hazırlamak İçin Toz ve Çözücü
+Steril
+2. KALİTATİF VE KANTİTATİF BİLEŞİMİ
+Etkin madde:
+Her bir flakon nominal olarak 1000 IU nonakog beta pegol* içermektedir.
+1 ml REFİXİA® sulandırıldıktan sonra yaklaşık 250 IU nonakog beta pegol içermektedir.
+* rekombinant insan faktörü IX, rekombinant DNA teknolojisi kullanılarak Çin Hamster
+Yumurtalığı (CHO) hücrelerinde üretilir ve 40 kDa bir polietilen glikole (PEG) kovalent
+konjugasyonu yapılır.
+Potens (Uluslararası Birim), Avrupa Farmakopesi tek aşamalı pıhtılaşma testi kullanılarak
+belirlenmektedir. REFİXİA®'nın spesifik aktivitesi yaklaşık 144 IU/mg proteindir.
+REFİXİA®, saflaştırılmış rekombinant insan faktör IX’dur (rFIX) ve rFIX aktivasyon
+peptidinde spesifik N-bağlı glikanlara seçici olarak bağlanan bir 40 kDa polietilen glikole
+(PEG) sahiptir. REFİXİA® aktifleştikten sonra, 40 kDa polietilen glikol kısmını içeren
+aktivasyon peptidi ayrılmakta ve geride doğal aktive faktör IX molekülünü bırakmaktadır.
+REFİXİA®'daki rFIX'in primer aminoasit dizilimi, insan plazma türevi faktör IX'un Ala148
+allelik formuyla aynıdır. REFİXİA®'nın hücre kültürü, saflaştırma, konjugasyon veya
+formülasyonunda insan veya hayvan kaynaklı hiçbir katkı maddesi kullanılmamaktadır.
+Yardımcı maddeler:
+Yardımcı maddelerin tam listesi için 6.1'e bakınız.
+3. FARMASÖTİK FORMU
+Enjeksiyonluk çözelti tozu ve çözücü.
+Toz, beyaz ila beyazımsı renktedir.
+Çözücü berrak ve renksizdir.
+pH: 6,4
+Ozmolalite: 272 mOsmol/kg.
+4. KLİNİK ÖZELLİKLER
+4.1 Terapötik endikasyonlar
+Hemofili B (konjenital faktör IX eksikliği) hastalarında kanama tedavisinde ve profilaksisinde
+endikedir.
+REFİXİA®, tüm yaş grupları için kullanılabilir.
+1 / 164.2 Pozoloji ve uygulama şekli
+Tedavi, hemofili tedavisinde deneyimli bir doktorun gözetiminde yapılmalıdır.
+Tedavi izlemi
+Doz ayarlaması amacıyla faktör IX aktivitesi düzeylerinin rutin şekilde izlenmesi
+gerekmemektedir. Klinik çalışma programında doz ayarlaması yapılmamıştır. Tüm yaş
+gruplarında %15'in üzerinde ortalama kararlı durum faktör IX çukur düzeyleri
+gözlemlenmiştir, ayrıntılı bilgi için bölüm 5.2’ye bakınız.
+Polietilen glikolün (PEG) çeşitli aPTT reaktifleriyle yapılan tek aşamalı pıhtılaşma testinde
+etkileşime neden olması nedeniyle, izlem gerektiğinde kromojenik tayin (örn Rox Factor IX
+veya Biophen) yapılması önerilmektedir. Kromojenik tayini mevcut değilse, REFİXİA® ile
+birlikte kullanım için kalifiye edilen bir aPTT reaktifi (örn. Cephascreen) ile tek aşamalı
+pıhtılaşma tayini kullanılması önerilmektedir. Modifiye uzun etkili faktör ürünlerinde tek
+aşamalı pıhtılaşma tayini sonuçlarının kullanılan aPTT reaktifine ve referans standardına
+yüksek düzeyde bağımlı olduğu bilinmektedir. REFİXİA® için, bazı reaktifler faktör IX
+aktivitesiyle ilgili olarak düşük tahmin yürütülmesine (% 30-50) neden olurken, çoğu silika
+içeren reaktif ise şiddetli yüksek tahmin yürütülmesine (% 400'den fazla) neden olmaktadır.
+Bu nedenle, silika bazlı reaktiflerden kaçınılmalıdır. Yerel olarak kromojenik tayin veya
+kalifiye bir tek aşamalı pıhtılaşma tayini bulunmuyorsa referans bir laboratuvar kullanılması
+önerilmektedir.
+Pozoloji/uygulama sıklığı ve süresi:
+Pozoloji
+Uygulanan faktör IX birimi sayısı Uluslararası Birim (IU) olarak ifade edilmektedir; bu birim,
+Dünya Sağlık Örgütünün (DSÖ) faktör IX ürünleri için mevcut standardıyla ilişkilidir.
+Plazmadaki faktör IX aktivitesi; yüzde olarak (normal insan plazmasına göre) veya
+Uluslararası Birim olarak (plazmadaki faktör IX için bir Uluslararası Standarda göre) ifade
+edilmektedir.
+Profilaksi
+Haftada bir kez 40 IU/kg.
+Ulaşılan FIX düzeyleri ve bireysel kanama eğilimine dayanarak, dozların ve uygulama
+aralıklarının ayarlanması düşünülebilir. Haftalık 40 IU/kg dozuyla ulaşılan çukur düzeyler
+bölüm 5.2'de özetlenmektedir.
+Profilaksi uygulanan ve dozunu almayı unutan hastalara, bunu fark ettiklerinde dozlarını
+almaları ve daha sonra olağan haftada bir kez doz uygulama programına devam etmeleri
+tavsiye edilmelidir. Çift dozdan kaçınılmalıdır.
+Kanadıkça tedavi
+Yerine koyma tedavisinin dozu ve süresi, kanamanın yerine ve şiddetine bağlıdır; kanama
+epizotlarıyla ilgili doz yönlendirmeleri için Tablo 1’e bakınız.
+2 / 16Tablo 1 REFİXİA® ile kanama epizotlarının tedavisi
+Hemoraji düzeyi Önerilen REFİXİA® Doz önerileri
+dozu IU/kg
+Erken dönemde 40 Tek doz önerilmektedir.
+hemartroz, kas
+kanaması veya oral
+kanama.
+Daha yaygın
+hemartroz, kas içine
+kanama veya
+hematom.
+Şiddetli veya yaşamı 80 40 IU/kg ek dozlar verilebilir.
+tehdit edici
+hemorajiler.
+Cerrahi
+Cerrahi için doz düzeyi ve doz uygulama aralığı, prosedüre veya lokal uygulamaya bağlıdır.
+Genel öneriler Tablo 2'de verilmektedir.
+Tablo 2 REFİXİA® ile cerrahide tedavi
+Cerrahi prosedür tipi Önerilen doz IU/kg Doz önerileri
+vücut ağırlığı
+Minör cerrahi, diş 40 Gerekiyorsa ek dozlar verilebilir.
+çekimi dahil
+Majör cerrahi 80 Preoperatif doz
+40 Cerrahiden sonraki ilk hafta içinde iki
+tekrarlı 40 IU/kg doz (1-3 gün aralıkla)
+düşününüz.
+REFİXİA®'nın uzun yarı ömrü
+nedeniyle, postoperatif dönemde kanama
+durana ve iyileşmeye ulaşılana kadar doz
+uygulama sıklığı ilk haftadan sonra
+haftada bire uzatılabilir.
+Pediyatrik popülasyon
+Çocuklardaki doz önerileri yetişkinlerdeki ile aynıdır (pediyatri hakkında daha fazla bilgi için
+bkz. bölüm 5.1 ve 5.2).
+Uygulama şekli:
+İntravenöz kullanım.
+REFİXİA®, enjeksiyonluk tozun histidin çözücüsüyle rekonstitüsyonundan sonra intravenöz
+bolus enjeksiyon yoluyla uygulanmaktadır. Uygulama hızı hastanın rahatlık düzeyine göre,
+maksimum 4 ml/dk. hıza kadar belirlenmelidir.
+3 / 16Tıbbi ürünün uygulamadan önce rekonstitüsyonuyla ilgili talimatlar için bölüm 6.6’ya
+bakınız.
+Hastanın kendi kendisine uygulaması veya bakıcının uygulaması için uygun eğitim verilmesi
+gerekmektedir.
+Özel popülasyonlara ilişkin ek bilgiler:
+Böbrek ve karaciğer yetmezliği:
+Bu popülasyonda kullanıma ilişkin herhangi bir veri bulunmamaktadır.
+Pediyatrik popülasyon:
+Çocuklar, adölesanlar ve yetişkinler için aynı doz önerilmektedir: 40 IU/kg vücut ağırlığı.
+Geriyatrik popülasyon:
+Bu popülasyonda kullanıma ilişkin herhangi bir veri bulunmamaktadır.
+4.3 Kontrendikasyonlar
+Etkin madde veya bölüm 6.1'de yer alan yardımcı maddelerden herhangi birine karşı aşırı
+duyarlılık durumunda kontrendikedir.
+Hamster proteinine bilinen alerjik reaksiyon durumunda kontrendikedir.
+4.4 Özel kullanım uyarıları ve önlemleri
+Takip edilebilirlik
+Biyoteknolojik ürünlerin takip edilebilirliğinin sağlanması için ürünün ticari ismi ve seri
+numarası mutlaka hasta dosyasına kaydedilmelidir.
+Aşırı duyarlılık
+REFİXİA® ile alerjik tip aşırı duyarlılık reaksiyonları görülebilir. Üründe eser miktarda
+hamster proteini bulunmaktadır. Aşırı duyarlılık semptomları görülürse, hastaya ilacı derhal
+bırakması ve doktoruna başvurması tavsiye edilmelidir. Hastalar kurdeşen, genel ürtiker,
+göğüs darlığı, hırıltı, hipotansiyon ve anafilaksi gibi aşırı duyarlılık reaksiyonlarının erken
+belirtileriyle ilgili bilgilendirilmelidir.
+Şok durumunda, şok için standart tıbbi tedavi uygulanmalıdır.
+İnhibitörler
+Hastalar insan koagülasyon faktörü IX (rDNA) ürünleriyle yinelenen tedaviden sonra, uygun
+biyolojik testler kullanılarak Bethesda birimiyle ölçülen (BU) nötralizan antikor (inhibitör)
+oluşumuyla ilgili olarak izlenmelidir.
+Literatürde faktör IX inhibitör oluşumu ve alerjik reaksiyon arasında bağlantı gösteren
+raporlar bulunmaktadır. Bu nedenle, alerjik reaksiyon yaşayan hastalar inhibitör varlığı
+açısından değerlendirilmelidir. Faktör IX inhibitörleri olan hastaların, faktör IX ile yükleme
+yapıldıktan sonra anafilaksi geliştirme riskinde artış olabileceği göz önünde
+bulundurulmalıdır.
+Faktör IX ürünleriyle alerjik reaksiyon riski olduğundan, tedavi eden doktorun kararına bağlı
+olarak, ilk faktör IX uygulamaları alerjik reaksiyon için uygun tıbbi bakımın sağlanabileceği
+tıbbi gözlem altında gerçekleştirilmelidir.
+4 / 16Rezidüel FIX aktivite düzeyi görülmesi durumunda, inhibitör testi için Nijmegen modifiye
+Bethesda tayini yapıldığında etkileşim riski bulunmaktadır. Bu nedenle, düşük titreli
+inhibitörleri belirleyebilmek için bir ön ısıtma veya arınma dönemi uygulanması
+önerilmektedir.
+Tromboembolizm
+Potansiyel trombotik komplikasyon riskinden dolayı, bu ilaç karaciğer hastalığı olan
+hastalara, postoperatif hastalara, yeni doğmuş bebeklere veya trombotik olay veya DİK riski
+taşıyan hastalara uygulandığında trombotik ve konsumptif koagülopatinin erken belirtileri için
+uygun biyolojik testle birlikte klinik izlem başlatılmalıdır. Bu durumların tümünde,
+REFİXİA® tedavisinin yararlarının bu komplikasyonların riskine karşı ne kadar ağır bastığı
+değerlendirilmelidir.
+Kardiyovasküler olay
+Kardiyovasküler risk faktörleri olan hastalarda, FIX ile yerine koyma tedavisi
+kardiyovasküler riski arttırabilir.
+Kateter ilişkili komplikasyonlar
+Santral venöz erişim cihazı (SVEC) gerekiyorsa, lokal enfeksiyon, bakteremi ve kateter
+bölgesinde tromboz dahil olmak üzere SVEC ile ilişkili komplikasyonlar geliştirme riski göz
+önünde bulundurulmalıdır.
+Pediyatrik popülasyon
+Listelenen uyarılar ve önlemler yetişkinler, adölesanlar ve çocuklar için geçerlidir.
+Sodyum içeriği
+Bu tıbbi ürün her “doz”unda 1 mmol (23 mg)’dan daha az sodyum ihtiva eder; yani aslında
+“sodyum içermez”.
+4.5 Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+İnsan koagülasyon faktörü IX (rDNA) ürünleriyle diğer tıbbi ürünler arasında hiçbir etkileşim
+bildirilmemiştir.
+Özel popülasyonlara ilişkin ek bilgiler
+Herhangi bir etkileşim çalışması yapılmamıştır.
+Pediyatrik popülasyon
+Herhangi bir etkileşim çalışması yapılmamıştır.
+4.6 Gebelik ve laktasyon
+Genel tavsiye:
+Gebelik kategorisi: C
+Çocuk doğurma potansiyeli bulunan kadınlar /Doğum kontrolü (Kontrasepsiyon)
+Çocuk doğurma potansiyeli bulunan kadınlarda kullanım ile ilgili veri bulunmamaktadır.
+Gebelik dönemi
+Kadınlarda hemofili B’nin seyrek olarak ortaya çıkması nedeniyle, gebelik döneminde faktör
+IX kullanımıyla ilgili deneyim bulunmamaktadır. Bu nedenle, faktör IX gebelik sırasında
+yalnızca endikasyonu kesin olduğunda kullanılmalıdır.
+5 / 16Hayvanlar üzerinde yapılan çalışmalar, gebelik/ ve-veya/ embriyonal/ fetal gelişim / ve-veya/
+doğum /ve-veya/ doğum sonrası gelişim üzerindeki etkiler bakımından yetersizdir (bkz. kısım
+5.3). İnsanlara yönelik potansiyel risk bilinmemektedir.
+REFİXİA® gerekli olmadıkça gebelik döneminde kullanılmamalıdır.
+Laktasyon dönemi
+Kadınlarda hemofili B’nin seyrek olarak ortaya çıkması nedeniyle, emzirme döneminde
+faktör IX kullanımıyla ilgili deneyim bulunmamaktadır. Bu nedenle, faktör IX laktasyon
+sırasında yalnızca açık şekilde endikeyse kullanılmalıdır.
+Üreme yeteneği/Fertilite
+Faktör IX ile hayvanlarda üreme çalışması yapılmamıştır. İnsanlarda fertilite ile ilgili veri
+bulunmamaktadır.
+4.7 Araç ve makine kullanımı üzerindeki etkiler
+REFİXİA®'nın araç ve makine kullanma yeteneği üzerinde etkisi yoktur veya ihmal edilebilir
+bir etkiye sahiptir. .
+4.8 İstenmeyen etkiler
+Güvenlilik profilinin özeti
+Rekombinant faktör IX ürünleriyle seyrek olarak aşırı duyarlılık veya alerjik reaksiyonlar
+(enjeksiyon bölgesinde anjiyoödem, yanma ve batma hissi, titreme, kızarma, genel ürtiker,
+baş ağrısı, kurdeşen, hipotansiyon, letarji, bulantı, huzursuzluk, taşikardi, göğüste sıkışma
+hissi, karıncalanma, kusma, hırıltı) gözlemlenmiştir ve bazı olgularda şiddetli anafilaksiye
+(şok dahil) ilerleyebilir. Bazı olgularda, bu reaksiyonlar şiddetli anafilaksiye ilerlemiştir ve
+faktör IX inhibitörüyle yakın bir zamansal ilişki içinde gerçekleşmiştir (ayrıca bkz. Bölüm
+4.4). Faktör IX inhibitörü ve alerjik reaksiyon öyküsü olan hemofili B hastalarında, immün
+tolerans indüksiyonu girişiminin ardından nefrotik sendrom bildirilmiştir.
+Çok seyrek olarak, hamster proteinine karşı antikor gelişimiyle birlikte ilişkili aşırı duyarlılık
+reaksiyonları gözlemlenmiştir.
+Hemofili B hastaları faktör IX'a karşı nötralizan antikor (inhibitör) geliştirebilir. Böyle bir
+inhibitör gelişimi olursa, bu durum kendisini yetersiz klinik yanıt olarak gösterecektir. Bu tür
+durumlarda, uzmanlaşmış bir hemofili merkeziyle iletişime geçilmesi önerilmektedir.
+Faktör IX ürünlerinin uygulamasından sonra potansiyel tromboembolik epizot riski
+bulunmaktadır ve bu risk düşük saflıktaki preparatlar için daha yüksektir. Düşük saflıktaki
+faktör IX ürünlerinin kullanımı miyokard enfarktüsü, disemine intravasküler koagülasyon,
+venöz tromboz ve pulmoner emboli olgularıyla ilişkilendirilmiştir. REFİXİA® gibi yüksek
+saflıktaki faktör IX ürünlerinin kullanımı, bu tür advers reaksiyonlarla seyrek olarak
+ilişkilendirilmektedir.
+Advers reaksiyonların tablolu listesi
+Aşağıda sunulan tablo, MedDRA sistem organ sınıflandırmasına (SOC ve Tercih Edilen
+Terim Düzeyi) göredir.
+Sıklıklar şu şekilde değerlendirilmiştir: Çok yaygın (≥1/10); yaygın (≥1/100 ila <1/10);
+yaygın olmayan (≥1/1.000 ila <1/100); seyrek (≥1/10.000 ila <1/1.000); çok seyrek
+6 / 16(<1/10.000); bilinmiyor (eldeki verilerden hareketle tahmin edilemiyor). Her bir sıklık
+gruplamasında, istenmeyen etkiler, azalan ciddiyet sırasına göre bildirilmektedir.
+Her sıklık grubuna advers reaksiyonlar azalan ciddiyet sırasıyla sunulmaktadır.
+Tamamlanan ve devam eden klinik çalışmalarda orta veya şiddetli hemofili B hastası olan
+toplam 115 daha önce tedavi edilmiş hasta ve 50 daha önce tedavi edilmemiş hasta olmak
+üzere toplam 434 hasta yıl boyunca REFİXİA®'ya maruz kalmıştır.
+Kan ve lenfatik sistem hastalıkları
+Yaygın*: Faktör IX inhibisyonu
+Bağışıklık sistemi hastalıkları
+Yaygın : Aşırı duyarlılık, anafilaktik reaksiyon*
+Kardiyak hastalıklar
+Yaygın olmayan: Palpitasyon
+Gastrointestinal hastalıklar
+Yaygın: Bulantı
+Deri ve deri altı doku hastalıkları
+Yaygın: Kaşıntı**, döküntü
+Genel bozukluklar ve uygulama bölgesine ilişkin hastalıklar
+Yaygın: Halsizlik, enjeksiyon bölgesi reaksiyonları***
+Yaygın olmayan: Ateş basması
+* Sıklık daha önce tedavi edilmemiş hastalarla (N=50) ortaya çıkma durumuna göre belirlenmiştir.
+** Kaşıntıya, kaşıntı ve kulak kaşıntısı terimleri dahildir.
+*** Enjeksiyon bölgesi reaksiyonlarına, enjeksiyon bölgesinde ağrı, enjeksiyon bölgesinde şişme,
+enjeksiyon bölgesinde eritema ve enjeksiyon bölgesinde kızarıklık dahildir.
+Seçili advers reaksiyonların tanımı
+Faktör IX inhibisyonu ve anafilaktik reaksiyonlar daha önce tedavi edilmiş hastalarla
+gözlenmemiştir ve bu nedenle sıklıklar daha önce tedavi edilmemiş 50 hasta ile devam eden
+bir çalışmaya dayanmaktadır. Bu çalışmada 4/50 (% 8) hastada Faktör IX inhibisyonu ve 1/50
+(% 2) hastada anafilaktik reaksiyon meydana gelmiş olup bu olaylar yaygın olarak
+sınıflandırılmıştır. Anafilaktik reaksiyon vakası aynı zamanda Faktör IX inhibisyonu gelişen
+bir hastada meydana gelmiştir.
+Özel popülasyonlara ilişkin ek bilgiler:
+Pediyatrik popülasyon:
+Çocuklarda görülen advers reaksiyonların sıklığı, tipi ve şiddetinin yetişkinlerdekine benzer
+olması beklenmektedir.
+7 / 16Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir. (www.titck.gov.tr; e-
+posta: tufam@titck.gov.tr; tel: 0 800 314 00 08; faks: 0 312 218 35 99)
+4.9 Doz aşımı ve tedavisi
+Klinik çalışmalarda 169 IU/kg'a kadar doz aşımları bildirilmiştir. Doz aşımlarıyla ilişkili
+olarak herhangi bir semptom bildirilmemiştir.
+5 FARMAKOLOJİK ÖZELLİKLER
+5.1 Farmakodinamik özellikler
+Farmakoterapötik grup: Kan ve kan yapıcı organlar, antihemorajikler, vitamin K ve diğer
+hemostatikler, kan koagülasyon faktörleri, koagülasyon faktör IX
+ATC kodu: B02BD04
+Etki mekanizması
+REFİXİA®, proteine konjuge 40 kDa polietilen glikol (PEG) içeren saflaştırılmış rekombinant
+insan faktörü IX'dur (rFIX). REFİXİA®'nın ortalama molekül ağırlığı yaklaşık 98 kDa'dır ve
+yalnızca protein kısmının molekül ağırlığı 56 kDa'dır. REFİXİA® aktifleştikten sonra, 40 kDa
+polietilen glikol kısmını içeren aktivasyon peptidi ayrılmakta ve geride doğal aktive faktör IX
+molekülünü bırakmaktadır.
+Faktör IX tek zincirli bir glikoproteindir. K vitaminine bağımlı bir koagülasyon faktörüdür ve
+karaciğerde sentezlenmektedir. Faktör IX, faktör XIa ve faktör VII/doku faktörü kompleksi
+tarafından aktifleştirilmektedir. Aktif faktör IX, aktif faktör VIII ile kombinasyon halinde,
+faktör X'u aktifleştirmektedir. Aktif faktör X, protrombini trombine dönüştürmektedir. Daha
+sonra trombin fibrinojeni fibrine dönüştürmekte ve pıhtı oluşmaktadır. Hemofili B, düşük
+faktör IX düzeyleri nedeniyle cinsiyete bağlı bir herediter pıhtılaşma bozukluğudur ve
+eklemlerde, kaslarda ve iç organlarda spontan olarak veya kaza ya da cerrahi travma
+sonucunda büyük miktarda kanamayla sonuçlanmaktadır. Replasman tedavisiyle faktör IX'in
+plazma düzeyleri yükselmekte, böylece faktör eksikliğinin geçici olarak düzeltilmesi ve
+kanama eğilimlerinin düzeltilmesi sağlanmaktadır.
+Klinik etkililik
+Klinik çalışma programına, bir Faz 1 çalışma ve beş Faz 3 çok merkezli kontrolsüz çalışma
+dahildir. Tüm hastalar şiddetli (faktör IX seviyesi < %1) veya orta derecede şiddetli (faktör IX
+seviyesi ≤ %2) hemofili B hastasıdır.
+Yıllık kanama oranlarının, farklı faktör konsantreleri ve farklı klinik çalışmalar arasında
+karşılaştırılabilir olmadığı dikkate alınmalıdır.
+Profilaksi
+Tüm yaş gruplarında daha önce tedavi edilmiş ve daha önce tedavi edilmemiş hastalardan
+101’i haftalık 40 IU/kg profilaktik dozuyla tedavi edilmiş ve bu hastaların 40'ında (% 40)
+kanama epizodu olmamıştır (aşağıdaki ayrıntılara bakınız).
+8 / 16Pivotal çalışma
+Pivotal çalışmaya, daha önce tedavi edilen 74 adölesan (13-17 yaşında) ve yetişkin (18-65
+yaşında) hasta dahil olmuştur. Çalışma açık etiketli, yaklaşık 28 hafta boyunca kanadıkça
+tedavi uygulanan bir adet kanadıkça tedavi kolu ve 52 hafta boyunca 10 IU/kg ya da 40
+IU/kg'dan olmak üzere haftada bir kez tedavi alan iki adet profilaksi kolu içermektedir. 10
+IU/kg ve 40 IU/kg tedavileri karşılaştırıldığında, 40 IU/kg kolundaki hastalar için yıllık
+kanama oranının 10 IU/kg kolundaki hastaların kanama oranından (%95 GA: %5, %73) % 49
+daha düşük olduğu görülmüştür (p<0,05).
+Haftada bir kez 40 IU/kg profilaktik doz ile tedavi edilen hastalarda (13-65 yaş) medyan genel
+yıllık kanama oranı 1,04 (0; 4,01) olurken travmatik yıllık kanama oranı 0 (0; 2,05), eklem
+yıllık kanama oranı 0,97 (0; 2,07) ve spontan yıllık kanama oranı 0 (0; 0,99) olmuştur.
+Adölasan ve yetişkin hastalarda yapılan bu pivotal çalışmada, 40 IU/kg profilaksi kolundaki
+29 hastanın 16'sında 70 ani kanama olmuştur. Ani kanamalarının tedavisinde genel başarı
+oranı % 97,1 (değerlendirilen 69 kanamadan 67'si) olmuştur. Toplam 70 kanama epizodunun
+69'u (% 98,6) tek enjeksiyonla tedavi edilmiştir. Kanama atakları hafif veya orta dereceli
+kanamalar için 40 IU/kg REFİXİA® ile tedavi edilmiştir.
+Tedavi edilen 29 yetişkin ve adölasan hastada, 20 hedef eklemi olan 13 hasta bir yıl boyunca
+haftalık 40 IU/kg profilaktik doz ile tedavi edilmiştir. Bu 20 eklemden 18'i (% 90) çalışmanın
+sonunda artık hedef eklem olarak değerlendirilmemiştir.
+Kanadıkça tedavi
+Pivotal çalışmada, kanadıkça tedavi alan 15 hastanın, hafif ila orta dereceli kanamalar için 40
+IU/kg, şiddetli kanamalar için 80 IU/kg ile tedavi edildiği randomize olmayan bir kol vardır.
+Kanama tedavilerindeki toplam başarı oranı (çok iyi veya iyi olarak tanımlanır) % 95'tir ve
+kanamaların % 98'i bir veya iki enjeksiyonla tedavi edilmiştir.
+Pediyatrik popülasyon
+Daha önce tedavi edilmiş hastalar
+Kanamaların profilaksisi ve tedavisi için REFİXİA®'nın etkinliği ve güvenliliği açık etiketli,
+tek kollu, kontrollü olmayan bir faz 3 çalışmasında değerlendirilmiştir. Daha önce tedavi
+edilmiş pediatrik hastalardaki çalışmanın ana fazında, başlangıçta kaydedilen 0 ila 12
+yaşlarında 25 hastaya 52 hafta boyunca haftada bir kez rutin profilaktik REFİXİA® 40 IU/kg
+uygulanmıştır. Hastalar iki yaş grubuna ayrılmıştır; bilgilendirilmiş onay imzalandığında 12
+hasta 0 ila 6 yaş ve 13 hasta 7 ila 12 yaş arasında olmuştur. Yirmi iki hasta uzatma fazına
+devam etmiş ve bunlardan 12'si 8 yıla kadar rutin profilaktik tedavi görmüştür. Uzun çalışma
+süresi nedeniyle birçok hasta yaş gruplarını geçmiş ve başlangıçta ≤ 6 yaş olarak kaydedilen
+10 hasta 7-12 yaş kategorisine de katkıda bulunmuştur. Ana ve uzatma fazına göre ayrılmış ≤
+12 yaşındaki hastalardaki temel etkinlik sonuçları Tablo 3'de özetlenmiştir.
+Tablo 3 Daha önce tedavi edilmiş pediatrik hasta çalışmasında yıllık kanama oranı -
+ana ve uzatma fazı - gerçek yaş grupları
+Ana faz Uzatma fazı
+≤ 6 yaş 7-12 yaş ≤ 6 yaş 7-12 yaş
+Hastanın yaşı*
+N=12 N=14 N=10 N=20
+Ana tedavi süresi
+0,86 0,92 2,39 3,09
+(yıl)
+9 / 16Toplam yıllık kanama oranı
+Poisson-tahmin
+1,05 (0,65; 0,58 (0,21;
+ortalaması (% 95 0,97 (0,5; 1,89) 2,1 (1,34; 3,3)
+1,69 1,64)
+GA)
+Medyan 0 (0; 1,99) 2 (0; 3,02) 0 (0; 1,65) 0,15 (0; 1,29)
+*Bazı hastalar her iki yaş grubuna da dahil olmuştur.
+Çalışmanın ana ve uzatma fazı için, genel medyan/poisson tahmini yıllık kanama oranı ≤ 6
+yaş hastalarda 0,55/1,02 (% 95 GA: 0,68; 1,54) ve 7-12 yaş hastalarda 0,52/0,84 (%95 GA:
+0,41; 1,75) olmuştur. Medyan/poisson tahmini yıllık kanama oranı, spontan kanamalar için
+0/0,2 (% 95 GA: 0,09; 0,47) ve 0/0,23 (%95 GA: 0,05; 0,96), travmatik kanamalar için ise ≤ 6
+yaş ve 7-12 yaş hastalarda sırasıyla 0,53/0,82 (%95 GA: 0,55; 1,23) ve 0,33/0,56 (%95 GA:
+0,25; 1,27) olmuştur. ≤ 6 yaş ve 7-12 yaş hastalarda profilaksi boyunca meydana gelen
+kanama ataklarının sırasıyla % 88,6 ve % 93,7'sinde (mükemmel veya iyi yanıt olarak
+tanımlanan) tedavi başarısı elde edilmiştir. Çalışma boyunca 25 hastadan beşinde (% 20)
+kanama olmamıştır. 6 yaş ve 7-12 yaş arası hastalarda profilaksi için ortalama yıllık tüketim
+sırasıyla 2,208,6 (SD: 78,8) IU/kg ve 2,324,8 (SD: 83,3) IU/kg olmuştur. İki hastada
+başlangıçta hedef eklemler olmuş ve bunlar ana çalışma sırasında iyileşmiş olarak
+değerlendirilmiştir. Hiçbir hastada çalışma sırasında yeni hedef eklemler gelişmemiştir.
+Daha önce tedavi edilmemiş hastalar
+Kanamaların profilaksisi ve tedavisi için REFİXİA®'nın etkinliği ve güvenliliği açık etiketli,
+tek kollu, çok merkezli, kontrolsüz bir faz 3 çalışmasında değerlendirilmiştir. Daha önce
+tedavi edilmemiş pediyatrik hastalardaki çalışmanın ana fazında, 6 yaşından küçük 50
+hastanın 47'sine haftada bir kez 40 IU/kg verilmiş ve 38 hasta uzatma fazına devam etmiştir.
+Ana çalışma ve uzatma fazına göre ayrılmış ana etkinlik sonuçları Tablo 4'de özetlenmiştir.
+Tablo 4 Daha önce tedavi edilmemiş pediatrik hasta çalışmasında yıllık kanama oranı
+(ABR) - ana ve uzatma fazı
+Ana Faz Uzatma Fazı
+N=47 N=38
+Ortalama tedavi süresi (yıl) 0,75 2,23
+Toplam yıllık kanama oranı
+Poisson-tahmin ortalaması (% 95 GA) 0,82 (0,34; 1,98) 0,58 (0,35; 0,96)
+Medyan 0 (0; 1,02) 0 (0; 0,88)
+Spontan, travmatik ve eklem kanaması atakları için genel medyan yıllık kanama oranı 0
+olmuştur. Çalışmaların ana ve uzatma fazında, profilaksi uygulanan daha önce tedavi
+edilmemiş hastalar için medyan/poisson tahmini yıllık kanama oranı 0,25/0,65 (% 95 GA:
+0,34; 1,25) olmuştur. Spontan ve travmatik kanamalar için poisson-tahmini yıllık kanama
+oranı çalışma süresi boyunca sırasıyla 0,14 (% 95 GA: 0,05; 0,43) ve 0,2 (% 95 GA: 0,05;
+0,81) olmuştur (medyan yıllık kanama oranları her ikisi için de 0 olmuştur). Daha önce tedavi
+edilmemiş hastaların % 46,8'i herhangi bir kanama olayı yaşamamıştır. Çalışmada hiçbir
+pediyatrik hastada hedef eklem gelişmemiştir. Daha önce tedavi edilmemiş hastalardaki
+kanamaların tedavisinde (çok iyi veya iyi olarak tanımlanan) genel başarı oranı % 96 (140
+hastanın 135'i) olmuştur. 50 hastanın 34'ünde (% 68) gözlenen 140 tedavi edilen kanamanın
+10 / 16124'ü (% 89) 1 REFİXİA® enjeksiyonuyla ve 13'ü (% 9) 2 REFİXİA® enjeksiyonuyla
+iyileşmiştir.
+Genel hemostatik etkililik
+Kanama epizotları; hafif ila orta dereceli kanamalar için 40 IU/kg, şiddetli kanamalar için 80
+IU/kg REFİXİA® ile tedavi edilmiştir ve bir kanama şiddetli olarak değerlendirilmiştir. Hasta
+veya bakım veren tarafından (evde tedavide) veya çalışma merkezindeki araştırmacı
+tarafından (sağlık mesleği mensubunun gözetiminde yapılan tedavide), hemostatik etkililiğin
+çok iyi, iyi, orta veya kötü ölçeğinde olmak üzere 4 puanlık genel bir değerlendirmesi
+yapılmıştır. Daha önce tedavi edilen hastalarda kanama tedavilerindeki toplam başarı oranı
+(çok iyi veya iyi olarak tanımlanır) %92 (683’de 626) olmuştur. Tedavi edilen 677 kanama
+105 hastanın 84’ünde (% 80) gözlenmiştir ve 590 kanama (%86) 1 REFİXİA® enjeksiyonuyla
+, 70 kanama (%10) 2 REFİXİA® enjeksiyonuyla çözülmüştür.
+Kanama epizotlarının tedavisi için gereken başarı oranı ve dozu, kanamanın
+lokalizasyonundan bağımsızdır. Kanama epizotlarının tedavisindeki başarı oranı da
+kanamanın doğasının travmatik veya spontane olmasından bağımsızdır.
+Cerrahi
+Biri özel bir cerrahi çalışma olmak üzere üç çalışma, toplam 15 majör ve 26 minör cerrahi
+prosedürünü içermekteydi (hastalar 13 ila 56 yaşında). REFİXİA®'nın cerrahi sırasındaki
+hemostatik etkisi, çalışmalardaki 15 majör cerrahide % 100 başarı oranıyla teyit edilmiştir.
+Değerlendirilen tüm minör cerrahiler başarılı şekilde gerçekleştirilmiştir.
+Özel cerrahi çalışmasında, etkililik analizine daha önce tedavi edilmiş 13 yetişkin ve adölesan
+hastada yapılan 13 majör cerrahi prosedür dahil edilmiştir. Prosedürler arasında 9 ortopedik, 1
+gastrointestinal ve 3 oral kavite operasyonu bulunmaktadır. Hastalara cerrahi gününde 1 adet
+80 IU/kg preoperatif enjeksiyon ve postoperatif olarak 40 IU/kg enjeksiyon uygulanmıştır.
+Preoperatif 80 IU/kg REFİXİA® dozu etkilidir ve hiçbir hastada ameliyat gününde ek doz
+uygulanması gerekmemiştir. Postoperatif dönemde 1. günden 6. güne kadar ve 7. günden 13.
+güne kadar, uygulanan ek 40 IU/kg dozlarının medyan sayısı sırasıyla 2 ve 1,5'tir. Cerrahi
+sırasında ve cerrahiden sonra ortalama toplam REFİXİA® tüketimi 241 IU/kg'dır (aralık: 81-
+460 IU/kg).
+5.2 Farmakokinetik özellikler
+Genel Özellikler
+REFİXİA®'nın yarı ömrü modifiye edilmemiş faktör IX ile karşılaştırıldığında daha uzundur.
+REFİXİA® ile yapılan tüm farmakokinetik çalışmalar daha önce tedavi edilmiş hemofili B
+hastalarında gerçekleştirilmiştir (faktör IX ≤%2). Tek aşamalı pıhtılaşma tayiniyle plazma
+numunelerinin analizi yapılmıştır.
+Emilim:
+REFİXİA®, IV formunda olduğundan emilim geçerli değildir.
+Dağılım ve eliminasyon:
+Adölesan ve yetişkin hastalardaki kararlı durum farmakokinetik parametreleri Tablo 5'de
+gösterilmektedir.
+Tablo 5 Daha önce tedavi edilmiş adölesan ve yetişkin hastalarda REFİXİA®'nın
+(40 IU/kg) kararlı durum farmakokinetik parametreleri (geometrik ortalama (%CV))
+11 / 16FK parametresi 13-17 yaş arası 18 yaş ve üzeri
+N=3 N=6
+Yarı ömür (t ) (saat) 103 (14) 115 (10)
+1/2
+Artan Toparlanma (AT) (IU/kg başına 0,018 (28) 0,019 (20)
+IU/ml)
+Eğri altındaki alan (EAA) 91 (22) 93 (15)
+0-168h
+(IU*saat/ml)
+Klirens (GA) (ml/saat/kg) 0,4 (17) 0,4 (11)
+Ortalama kalış süresi (OKS) (saat) 144 (15) 158 (10)
+Dağılım hacmi (V ) (ml/kg) 61 (31) 66 (12)
+ss
+Dozdan 168 saat sonra faktör IX 0,29 (19) 0,32 (17)
+aktivitesi (IU/ml)
+Klirens = vücut ağırlığına göre düzeltilmiş klirens; Artan toparlanma = dozdan 30 dakika sonra artan
+toparlanma; Dağılım hacmi = kararlı durumda vücut ağırlığına göre düzeltilmiş dağılım hacmi. CV = varyasyon
+katsayısı.
+Kararlı durum farmakokinetik seansında değerlendirilen tüm hastalardaki faktör IX aktivite
+düzeyleri, haftalık 40 IU/kg doz uygulamasında dozdan 168 saat sonra 0,24 IU/ml'nin
+üzerindedir.
+REFİXİA®'nın tek doz farmakokinetik parametreleri Tablo 6'da yaşa göre listelenmektedir.
+Tablo 6 REFİXİA®'nın (40 IU/kg) daha önce tedavi edilmiş hastalarda yaşa göre
+tek doz farmakokinetik parametreleri (geometrik ortalama (%CV))
+FK parametresi 0-6 yaş 7–12 yaş 13-17 yaş 18 yaş ve
+N=12 N=13 N=3 üzeri
+N=6
+Yarı ömür (t ) (saat) 70 (16) 76 (26) 89 (24) 83 (23)
+1/2
+Artan Toparlanma (AT) 0,015 (7) 0,016 (16) 0,020 (15) 0,023 (11)
+(IU/kg başına IU/ml)
+Eğri altındaki alan (EAA) 46 (14) 56 (19) 80 (35) 91 (16)
+inf
+(IU*saat/ml)
+Klirens (GA) (ml/saat/kg) 0,8 (13) 0,6 (22) 0,5 (30) 0,4 (15)
+Ortalama kalış süresi 95 (15) 105 (24) 124 (24) 116 (22)
+(OKS) (saat)
+Dağılım hacmi (V ) 72 (15) 68 (22) 59 (8) 47 (16)
+ss
+(ml/kg)
+Dozdan 168 saat sonra 0,08 (16) 0,11 (19) 0,15 (60) 0,17 (31)
+faktör IX aktivitesi (IU/ml)
+Klirens = vücut ağırlığına göre düzeltilmiş klirens; Artan toparlanma = dozdan 30 dakika sonra artan
+toparlanma; Dağılım hacmi = kararlı durumda vücut ağırlığına göre düzeltilmiş dağılım hacmi. CV = varyasyon
+katsayısı.
+12 / 16Beklendiği gibi, pediyatrik ve adölesan hastalardaki vücut ağırlığına göre düzeltilmiş klirens
+yetişkinlerle karşılaştırıldığında daha yüksektir. Klinik çalışmalarda pediyatrik veya adölesan
+hastalarda doz ayarlaması gerekmemiştir.
+Kararlı durumdaki ortalama çukur düzeyleri Tablo 7'de sunulmaktadır, tablo haftada bir kez
+40 IU/kg dozuyla tedavi edilen tüm hastalarda kararlı durumda 8 haftada bir yapılan tüm doz
+öncesi ölçümlerine dayanmaktadır.
+Tablo 7 Kararlı durumda REFİXİA®'nın (40 IU/kg) ortalama çukur düzeyleri*
+0-6 yaş 7–12 yaş 13-17 yaş 18-65 yaş
+N=12 N=13 N=9 N=20
+Tahmini ortalama faktör IX 0,15 0,19 0,24 0,29
+çukur düzeyleri IU/ml (% (0,13; 0,18) (0,16; 0,22) (0,20; 0,28) (0,26; 0,33)
+95 GA)
+*Faktör IX çukur düzeyleri = faktör IX aktivitesi kararlı durumda sıradaki haftalık dozdan önce (dozdan 5 ila 10
+gün sonra) ölçülmüştür.
+Farmakokinetik, 6'sı normal ağırlıkta (BMI 18,5-24,9 kg/m2) ve 10'u fazla kilolu (BMI 25-
+29,9 mg/m2) 16 yetişkin ve adölesan hastada incelenmiştir. Normal ağırlıktaki ve fazla kilolu
+hastalarda farmakokinetik profili açısından fark görülmemiştir.
+Daha önce tedavi edilmiş pediyatrik hastalarda yapılan çalışmada, Faktör IX'un kararlı
+durumdaki ortalama çukur düzeyleri, yaştan bağımsız olarak hafif hemofili aralığında (yani
+0,05-0,4 IU/ml) olmuştur.
+Daha önce tedavi edilmemiş pediyatrik hastalarda yapılan çalışmada, 6 yaşından küçük
+hastalarda kararlı durumdaki tahmini ortalama çukur düzeyi 0,15 IU/ml, yani hafif hemofili
+aralığında olmuştur.
+Biyotransformasyon:
+Geçerli değildir.
+Doğrusallık/doğrusal olmayan durum:
+Geçerli değildir.
+5.3 Klinik öncesi güvenlilik verileri
+REFİXİA®'nın potansiyel nörotoksisitesini değerlendirmek için (insanlarda 2 ila 16 yaşa
+karşılık gelen) 3 ila 13 haftalık olgunlaşmamış erkek sıçanlarda haftada iki kez 120-1200
+IU/kg intravenöz olarak ilaç uygulanan ve ardından 13 haftalık bir tedavisiz dönemin takip
+ettiği bir juvenil hayvan nörotoksisite çalışması yapılmıştır. Dozlar haftalık 40 IU/kg klinik
+dozdan 6-60 kat daha yüksek olmuştur. PEG, koroid pleksus, hipofiz, sirkumventriküler
+organlar ve kraniyal motor nöronlarda immünohistokimyasal boyama ile tespit edilmiştir.
+Juvenil sıçanlara REFİXİA® dozu uygulanması, motor aktivite, duyusal fonksiyon, öğrenme
+ve hafızanın yanı sıra büyüme, cinsel olgunlaşma ve doğurganlık dahil olmak üzere
+nörodavranışsal/nörokognitif testlerle ölçüldüğü şekilde herhangi bir fonksiyonel veya
+patolojik etkiye yol açmamıştır.
+Maymunlarda gerçekleştirilen tekrarlı bir doz toksisitesi çalışmasında, dozdan 3 saat sonra
+vücutta hafif ve geçici titreme görülmüş ve 1 saat içinde geçmiştir. Bu vücut titremesi
+insanlarda önerilen dozdan (40 IU/kg) 90 kattan daha yüksek REFİXİA® dozlarında (3,750
+13 / 16IU/kg) görülmüştür. Titremelerin ardındaki hiçbir mekanizma belirlenememiştir. Klinik
+çalışmalarda titreme bildirilmemiştir.
+Klinik dışı verilerde, sıçanlar ve maymunlarda yapılan geleneksel güvenlilik farmakolojisi ve
+tekrarlanan doz toksisitesi çalışmalarına göre insanlar için herhangi bir endişe ortaya
+çıkmamıştır.
+Sıçanlar ve maymunlarda yapılan tekrarlanan doz toksisitesi çalışmalarında, beyindeki koroid
+ploksisun epitel hücrelerinde immünohistokimyasal boyama yoluyla 40 kDa polietilen glikol
+(PEG) belirlenmiştir. Bu bulgu doku hasarı veya anormal klinik belirtilerle
+ilişkilendirilmemiştir.
+Fareler ve sıçanlarda yapılan dağılım ve atılım çalışmalarında, REFİXİA®'nın 40 kDa
+polietilen glikol (PEG) kısmının organlara geniş ölçekli olarak dağıldığı ve organlardan
+elimine edildiği ve plazma yoluyla idrarda (% 42-56) ve feçeste (% 28-50) atılmaktadır.
+Gözlemlenen terminal yarı ömürler (15-49 gün) kullanılarak incelenen modelleme verilerine
+göre, 40 kDa polietilen glikol (PEG) kısmı tüm insan dokularında tedaviden sonraki 1-4,5 yıl
+içinde kararlı durum düzeylerine ulaşacaktır.
+Hayvanlarda advers etki gözlemlenmeyen düzeyde (NOAEL) ölçülen ve öngörülen klinik
+PEG maruziyetinde ölçülen koroid pleksustaki PEG maruz kalma oranları, juvenil sıçan
+nörotoksisite çalışmasında 5 kattan erişkin sıçan 26 haftalık tekrarlı doz toksisite
+çalışmasındaki 6 kata kadar değişiklik göstermiştir.
+Hayvanlarda REFİXİA®'nın karsinojenik potansiyelini değerlendirmek için yapılan uzun
+süreli bir çalışma veya REFİXİA®'nın genotoksisite, fertilite, gelişim veya üreme üzerindeki
+etkilerini belirlemek için bir çalışma yapılmamıştır.
+6. FARMASÖTİK ÖZELLİKLER
+6.1 Yardımcı maddelerin listesi
+Toz
+Sodyum klorür
+Histidin
+Sükroz
+Polisorbat 80
+Mannitol
+Sodyum hidroksit (pH ayarlaması için)
+Hidroklorik asit (pH ayarlaması için)
+Çözücü
+Histidin
+Enjeksiyonluk su
+Sodyum hidroksit (pH ayarlaması için)
+Hidroklorik asit (pH ayarlaması için)
+6.2 Geçimsizlikler
+Geçimlilik çalışması olmadığı için, bu ilaç başka tıbbi ürünlerle karıştırılmamalı ve tedarik
+edilen histidin çözücüsü dışında başka infüzyon çözeltileriyle sulandırılmamalıdır.
+14 / 166.3 Raf ömrü
+Açılmadan önce
+24 ay
+Raf ömrü sırasında REFİXİA® 6 aydan uzun olmayan tek bir dönemde 30°C'ye kadar
+sıcaklıklarda saklanabilir. Ürün buzdolabından çıkarıldıktan sonra buzdolabına geri
+konmamalıdır. Lütfen ürünün ambalajına oda sıcaklığında saklanmaya başladığı tarihi
+kaydediniz.
+Rekonstitüsyondan sonra
+Buzdolabında (2°C - 8°C) 24 saat boyunca ve oda sıcaklığında (≤30°C) 4 saat boyunca
+kimyasal ve fiziksel kullanım stabilitesi kanıtlanmıştır.
+Mikrobiyolojik açıdan, rekonstite edilmiş ürün hemen kullanılmalıdır. Hemen kullanılmazsa,
+kullanımdaki saklama süresi ve koşulları kullanıcıların sorumluluğundadır ve normalde,
+rekonstitüsyon kontrollü ve doğrulanmış aseptik koşullarda yapılmadıysa, oda sıcaklığında
+(≤30°C) 4 saatten uzun süre veya buzdolabında (2°C - 8°C) 24 saatten uzun süre saklanması
+önerilmemektedir.
+6.4 Saklamaya yönelik özel tedbirler
+Buzdolabında (2°C-8°C'de) saklayınız. Dondurmayınız.
+Işıktan korumak için orijinal ambalajında saklayınız.
+Tıbbi ürünün oda sıcaklığında saklanması ve rekonstitüsyondan sonraki saklama koşulları için
+Bölüm 6.3’e bakınız.
+6.5 Ambalajın niteliği ve içeriği
+Her bir ambalajda:
+- Toz içeren, klorobütil kauçuk tıpalı 1 cam flakon (tip 1)
+- Rekonstitüsyon için 1 steril flakon adaptörü
+- Geri kaçış kilitli (polipropilen), kauçuk pistonlu (bromobütil) ve stoperli bir uç
+kapağa (bromobütil) sahip, 4 ml histidin çözücü içeren 1 kullanıma hazır dolu enjektör
+- 1 piston (polipropilen)
+Ambalaj büyüklüğü 1 üründür.
+6.6 Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+REFİXİA®, enjektörde tedarik edilen çözücüyle tozun rekonstitüsyonundan sonra intravenöz
+yoldan uygulanmalıdır. Rekonstitüsyondan sonra çözelti berrak ve renksiz ila hafif sarı bir
+sıvı olarak görülecektir ve görünür bir partikül içermemektedir. Uygulamadan önce rekonstite
+edilmiş tıbbi ürünün görünüşü, partiküler madde ve renk bozukluğu açısından incelenmelidir.
+Bulanık veya çökelti içeren çözeltileri kullanmayınız.
+Uygulamadan önce tıbbi ürünün rekonstitüsyonuyla ilgili talimatlar için kullanma talimatına
+bakınız.
+Uygulama hızı hastanın rahatlık düzeyine göre, maksimum 4 ml/dk. hızına kadar
+belirlenmelidir.
+Ayrıca, bir infüzyon seti (tüp ve kelebek iğne), steril alkollü mendil, gazlı bez ve plaster
+gerekecektir. Bu cihazlar REFİXİA® ambalajına dahil değildir.
+15 / 16Daima aseptik teknik kullanınız.
+İmha
+Enjeksiyondan sonra, enjektörü infüzyon setiyle ve flakon adaptörlü flakonla birlikte güvenli
+şekilde imha ediniz.
+Kullanılmamış olan ürün ya da atık materyaller, “Tıbbi Atıkların Kontrolü” ve “Ambalaj
+Atıklarının Kontrolü” yönetmeliklerine uygun olarak imha edilmelidir.
+7. RUHSAT SAHİBİ
+Novo Nordisk Sağlık Ürünleri Tic. Ltd. Şti.
+Nispetiye Cad. Akmerkez E3 Blok Kat 7
+34335 Etiler - İstanbul Türkiye
+Tel: 0 212 385 40 40
+Faks: 0 212 282 21 20
+8. RUHSAT NUMARASI
+2023/103
+9. İLK RUHSAT TARİHİ / RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi: 28.03.2023
+Ruhsat yenileme tarihi:
+10. KÜB’ÜN YENİLENME TARİHİ
+16 / 16

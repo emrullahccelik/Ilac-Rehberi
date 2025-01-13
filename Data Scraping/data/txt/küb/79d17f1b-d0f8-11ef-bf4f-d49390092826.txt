@@ -1,0 +1,386 @@
+KISA ÜRÜN BİLGİSİ
+▼
+Bu ilaç ek izlemeye tabidir. Bu üçgen yeni güvenlilik bilgisinin hızlı olarak belirlenmesini
+sağlayacaktır. Sağlık mesleği mensuplarının şüpheli advers reaksiyonları TÜFAM’a bildirmeleri
+beklenmektedir. Bakınız Bölüm 4.8 Advers reaksiyonlar nasıl raporlanır?
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+TECHNESCAN HDP 3 mg radyofarmasötik hazırlama kiti
+Steril
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde:
+Her bir flakon;
+Sodyum oksidronat: 3 mg içerir.
+Yardımcı maddeler:
+Sodyum: 12 mg
+Yardımcı maddeler için Bölüm 6.1’e bakınız.
+Radyonüklid, kitin bir parçası değildir.
+3. FARMASÖTİK FORM
+Enjeksiyonluk çözelti hazırlamak için liyofilize toz.
+Radyofarmasötik hazırlama kiti.
+4. KLİNİK ÖZELLİKLER
+4.1. Terapötik endikasyonlar
+TECHNESCAN HDP yalnızca tanı amaçlı kullanım içindir.
+99m
+Sodyum perteknetat ( Tc) çözeltisi ile işaretlendikten sonra, değişikliğe uğramış
+osteogenez alanların görüntülenmesinde kemik sintigrafisi için kullanılır.
+4.2. Pozoloji ve uygulama şekli
+Pozoloji/uygulama sıklığı ve süresi:
+Yetişkinler
+70 kg’lık yetişkin bir hasta için, tek bir intravenöz enjeksiyon ile uygulanan ortalama aktivite
+500 MBq (300-740 MBq)’dur. Diğer aktiviteler gerekçelendirilebilir. Her bir ülkede,
+doktorların DRL’yi (Diyagnostik Referans Düzeyleri) ve yerel yasalarca belirlenen kuralları
+takip edebileceği unutulmamalıdır.
+Görüntü alma
+Hasta görüntü almadan önce mesanesini boşaltmış olmalıdır.
+Enjeksiyondan kısa bir süre sonra elde edilen görüntüler (örneğin “3 fazlı kemik sintigrafisi”
+prosedürü olarak adlandırılan) metabolik aktiviteyi kısmen yansıtacaktır.
+Geç faz statik sintigrafi, enjeksiyondan en az 2 saat sonra gerçekleştirilmelidir.
+Görüntü elde etme, klinik gereksinimlere ve/veya güncel uluslararası kılavuzlara uygun
+şekilde gerçekleştirilmelidir.
+1/11Uygulama şekli:
+İşaretlenmiş preparat takip edilen sulandırma protokolüne göre tek dozlu veya çok dozlu
+kullanım içindir.
+Bu tıbbi ürün, hastaya uygulanmadan önce sulandırılmalıdır.
+Tıbbi ürünün kullanım öncesinde sulandırılması ile ilgili talimatlar için Bölüm 12.’ye bakınız.
+Hastanın hazırlanması için Bölüm 4.4.’e bakınız.
+Özel popülasyonlara ilişkin ek bilgiler:
+Böbrek/Karaciğer yetmezliği:
+Böbrek yetmezliğinde radyasyona maruziyet artacağından yarar/risk oranı dikkatlice
+incelenmelidir.
+Genelleştirilmiş artan yumuşak doku tutulumu böbrek yetmezliğine bağlı olabilir.
+Pediyatrik popülasyon:
+Çocuklarda ve ergenlerdeki kullanım, klinik ihtiyaçlara ve bu hasta grubundaki risk/yarar
+oranına göre dikkatlice değerlendirilmelidir.
+Çocuklara ve ergenlere uygulanacak olan aktivite, Avrupa Nükleer Tıp Birliği'nin (EANM)
+pediyatrik dozaj kartına (2008) göre aşağıdaki formül kullanılarak hesaplanmıştır:
+A[MBq]Uygulanan = Bazal Aktivite × Katsayı (35.0 bazal aktivite ile)
+Uygulanacak aktiviteler aşağıdaki tabloda bulunabilir:
+Kilo (kg) Aktivite (MBq) Kilo (kg) Aktivite (MBq) Kilo (kg) Aktivite (MBq)
+3 40 22 185 42 320
+4 40 24 200 44 335
+6 60 26 215 46 350
+8 75 28 225 48 360
+10 95 30 240 50 375
+12 110 32 255 52 - 54 395
+14 125 34 270 56 - 58 420
+16 140 36 280 60 - 62 445
+18 155 38 295 64 - 66 470
+20 170 40 310 68 490
+Çok küçük çocuklarda (1 yaşına kadar) yeterli kalitede görüntü elde edebilmek için
+gerekli minimum doz 40 MBq’dir.
+Geriyatrik popülasyon:
+Yaşlı hastalar için özel doz uygulamasına gerek yoktur.
+4.3. Kontrendikasyonlar
+Etkin madde sodyum oksidronata veya Bölüm 6.1’de belirtilen yardımcı maddelerden
+herhangi birine veya işaretlenmiş radyofarmasötiğin herhangi bir bileşenine karşı aşırı
+duyarlılığı olanlarda kontrendikedir.
+2/114.4. Özel kullanım uyarıları ve önlemleri
+RADYOFARMASÖTİKLER SADECE NÜKLEER TIP UZMANLARI TARAFINDAN
+NÜKLEER TIP MERKEZLERİNDE UYGULANIR.
+Hipersensitivite veya anafilaktik reaksiyon potansiyeli
+Eğer, hipersensitivite reaksiyonu veya anafilaktik reaksiyon gelişirse, tıbbi ürünün
+uygulanması derhal sonlandırılmalıdır ve gerekirse intravenöz tedavi başlatılmalıdır.
+Acil durumlarda acil eylem olanağı sağlamak amacıyla, endotrakeal tüp ve suni solunum cihazı
+gibi gerekli tıbbi ürünler ve endotrakeal tüp ve suni solunum cihazı gibi destek ekipmanları
+her an mevcut bulundurulmalıdır.
+Bireysel yarar/risk gerekçelendirmesi
+Her bir hasta için radyasyon maruziyeti, muhtemel bir yarar bazında mazur görülebilir
+olmalıdır. Uygulanacak radyoaktivite miktarı uygulamadan beklenilen diyagnostik bilgiyi
+sağlayacak mümkün olan en düşük dozda olacak şekilde uygulanmalıdır.
+Böbrek yetmezliği
+Böbrek yetmezliğinde radyasyona maruziyet artacağından yarar/risk oranı dikkatlice
+incelenmelidir.
+Genelleştirilmiş artan yumuşak doku tutulumu böbrek yetmezliğine bağlı olabilir.
+Pediyatrik popülasyon
+Pediyatrik popülasyonda kullanım bilgisi için, Bölüm 4.2.’ye bakınız.
+İnfantlar ve çocuklarda, büyüyen kemiklerdeki epifizlerin göreceli olarak radyasyon
+maruziyeti daha yüksek olacağından dikkatli olunmalıdır. MBq başına etkili doz yetişkinlerde
+olduğundan daha yüksek olduğu için dikkatli bir endikasyon değerlendirmesi gerekmektedir
+(Bölüm 11.’e bakınız).
+Hastanın hazırlanması
+Hastalar uygulama öncesinde bol su almalıdır ve radyasyonu azaltmak için incelemeden
+sonraki ilk saatlerde mümkün olduğunca sık idrara çıkmaları sağlanmalıdır.
+Özel uyarılar
+Perivasküler inflamasyon nedeni ile, teknesyum (99mTc) oksidronatın yanlışlıkla veya kazara
+deri altına uygulanmasından kaçınılmalıdır.
+Bu tıbbi ürün her flakonda 1 mmol (23 mg)’dan daha az sodyum ihtiva eder; yani aslında
+“sodyum içermez”.
+Çevresel tehlikelerle ilgili önlemler için, Bölüm 6.6.’ya bakınız.
+3/114.5. Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+Demir içeren bileşikler, difosfonat uygulaması, çeşitli sitostatikler (vinkristin, siklofosfamid,
+doksorubisin, metotreksat), immünosupresif tıbbi ürünler (örneğin kortizon), antibiyotikler
+(gentamisin, amfoterisin) ve alüminyum içeren ilaçlar için radyonüklidin artmış ekstraossal
+birikimi bildirilmiştir.
+Alüminyum içeren ilaçlar ile yapılan düzenli tedaviler (örneğin antiasidler), büyük olasılıkla
+işaretli kolloidlerin oluşumu nedeni ile karaciğerde anormal derecede yüksek (99mTc)
+birikimine yol açabilir. Hiperkalsemili hastalarda kemiğe hedeflendirilmiş
+radyofarmasötiklerin yumuşak dokuda tutulumu gözlenebilir.
+Özel popülasyonlara ilişkin ek bilgiler:
+Özel popülasyonlara ilişkin herhangi bir ilaç etkileşim çalışması yapılmamıştır.
+Pediyatrik popülasyon:
+Pediyatrik popülasyona ilişkin herhangi bir ilaç etkileşim çalışması yapılmamıştır.
+4.6. Gebelik ve laktasyon
+Genel tavsiye
+Gebelik kategorisi: C
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon)
+Çocuk doğurma potansiyeli bulunan bir kadına radyofarmasötik uygulaması planlanıyor ise
+gebelik mutlaka sorgulanmalıdır. Adet periyodunda gecikme olan kadınlar aksi ispat
+edilmedikçe gebe kabul edilmelidir. Gebelik şüphesi bulunan durumlarda (gecikmiş periyot,
+çok düzensiz periyot vb.), hastaya iyonize radyasyonun kullanılmadığı alternatif teknikler
+(eğer varsa) önerilmelidir.
+Gebelik dönemi
+Hayvanlar üzerinde yapılan çalışmalar, gebelik/ ve-veya/ embriyonal/ fetal gelişim/ ve- veya/
+doğum/ ve-veya/ doğum sonrası gelişim üzerindeki etkiler bakımından yetersizdir (bkz.
+Bölüm 5.3). İnsanlara yönelik potansiyel risk bilinmemektedir.
+TECHNESCAN HDP gerekli olmadıkça (uygulaması ile sağlanması düşünülen faydaların,
+anne ve fetüste doğabilecek potansiyel zarardan daha büyük olduğu durumlar dışında) gebelik
+döneminde kullanılmamalıdır.
+Gebe kadınlara uygulanan radyonüklid işlemler sonucunda fetüs de radyasyona maruz
+kalacaktır. Bir hastaya, 740 MBq dozda teknesyum (99mTc) oksidronat uygulanması
+sonucunda uterusta absorplanan doz 4.7 mGy’dir. 5 mGy üzerindeki dozlar fetüs için
+potansiyel bir risktir.
+4/11Laktasyon dönemi
+99mTc anne sütüne geçmektedir.
+Emziren bir anneye radyoaktif tıbbi ürünün uygulanmasından önce, radyonüklid
+uygulamasının emzirme döneminin sonuna ertelenme olasılığı ve aktivitenin anne sütüne
+geçtiği dikkate alınarak en uygun radyofarmasötik seçilene kadar ertelenme olasılığı mutlaka
+düşünülmelidir.
+Emzirme döneminde TECHNESCAN HDP uygulaması gerekli ise, 4 saat boyunca emzirme
+kesilmeli ve bu süre boyunca sağılan süt atılmalıdır.
+Üreme yeteneği/Fertilite
+Teknesyum (99mTc) oksidronat uygulamasının gebe kadınlar ve doğurganlık üzerine olan etkisi
+bilinmemektedir.
+4.7. Araç ve makine kullanımı üzerindeki etkiler
+TECHNESCAN HDP’nin araç ve makine kullanma yeteneği üzerine bir etkisi
+bulunmamaktadır.
+4.8. İstenmeyen etkiler
+İstenmeyen etkiler aşağıdaki sıklık derecesine göre sıralanır.
+Çok yaygın (≥1/10); yaygın (≥1/100 ila <1/10); yaygın olmayan (≥1/1.000 ila <1/100); seyrek
+(≥1/10.000 ila <1/1.000); çok seyrek (<1/10.000); bilinmiyor (eldeki verilerden hareketle
+tahmin edilemiyor).
+Advers reaksiyonlar ile ilgili bilgiler spontan bildirimlerden edinilebilir. Bildirilen reaksiyon
+tipleri; anafilaktik/anafilaktoid reaksiyonlar, vejetatif reaksiyonlar, ayrıca farklı tipte
+enjeksiyon bölgesi reaksiyonları ve diğer genel bozukluklardır. Semptomlar, uygulamadan 4
+ila 24 saat sonrasına kadar ortaya çıkabilir.
+Anafilaktik/Anafilaktoid reaksiyonlar:
+Anafilaktoid reaksiyonlar, yalnızca istisnai vakalarda bildirilen hafif cilt reaksiyonlarından
+anafilaktik şoka kadar uzanan geniş bir yelpazedeki semptomlarla bildirilmiştir.
+Vejetatif reaksiyonlar (sinir sistemi ve gastrointestinal hastalıklar)
+Dolaşım kollapsı veya senkop gibi şiddetli birkaç vejetatif reaksiyon durumu bildirilmiştir,
+ancak vejetatif etkilerin büyük birçoğu bulantı veya kusma gibi gastrointestinal reaksiyonları
+içermektedir. Diğer bildirimler, baş ağrısı veya baş dönmesi gibi vazovagal reaksiyonları
+içermektedir. Vejetatif etkilerin, özellikle anksiyöz hastalarda teknesyum (99mTc)
+oksidronattan ziyade muayene ortamı ile ilişkili olduğu düşünülmektedir.
+Genel bozukluklar ve uygulama bölgesi koşulları
+Enjeksiyon bölgesindeki reaksiyonlar, enjeksiyon sırasında radyoaktif maddenin
+ekstravazasyonu ile ilişkilidir ve bildirilen reaksiyonlar lokal şişkinlikten selülite kadar
+sıralanabilir. Geniş çaplı ekstravazasyon cerrahi müdahale gerektirebilir.
+Aşağıdaki tablo, gözlenen reaksiyon tiplerini ve semptomları içermektedir. Yalnızca spontan
+bildirimlerin analiz edilebilmesi nedeni ile endikasyon sıklığı sağlanamamıştır.
+5/11Sistem Organ Sınıfına Göre Sınıflandırılmış Advers Reaksiyonlar
+Sistem Organ Sınıflandırması Advers Reaksiyonlar Görülme
+(SOS) Sıklığı
+Anafilaktik reaksiyonlar (örneğin;
+anafilaktik şok, bilinç kaybı, ani kalp
+Bağışıklık sistemi hastalıkları Bilinmiyor
+durması, hipersensitivite,
+anjiyoödem, taşikardi, hipertansiyon,
+dispne, konjunktivit, rinit ve nazal
+konjesyon, dermatit, jeneralize
+pruritus, yüzde ödem, laringeal ödem,
+dilde ödem ve diğer ödem tipleri,
+ürtiker, eritem, döküntü, disguzi,
+parestesi, artmış terleme)
+Vazovagal reaksiyonlar (örneğin;
+senkop, dolaşım kollapsı, baş
+Sinir sistemi hastalıkları Bilinmiyor
+dönmesi, baş ağrısı, taşikardi,
+bradikardi, hipotansiyon, tremor,
+bulanık görme, ciltte kızarıklık)
+Kusma, bulantı, diyare, abdominal
+Gastrointestinal hastalıkları ağrı Bilinmiyor
+Enjeksiyon bölgesi reaksiyonları Bilinmiyor
+Genel bozukluklar ve uygulama (örneğin; selülit, inflamasyon, ağrı,
+bölgesine ilişkin hastalıklar eritem, şişkinlik), göğüs ağrısı,
+titreme
+İyonize radyasyona maruziyet, kanser indüksiyonu ile ilişkilidir ve kalıtsal bozuklukların
+gelişimi için bir potansiyeldir. Efektif doz 4.2 mSv (70 kg birey) olduğundan önerilen 740
+MBq’lik maksimum doz uygulandığında bu advers reaksiyonların gerçekleşme ihtimali çok
+düşüktür.
+Bazı klinik durumlardaki yüksek dozlar gerekçelendirilebilir. Her durumda radyasyonun
+risklerinin hastalığın kendisinden daha az riskli olmasının sağlanması gerekmektedir.
+Bu ürün, bilinen bir tesir veya etkiye sahip, güvenli ve etkili kullanımı önemli ölçüde
+etkileyecek herhangi bir yardımcı madde içermez.
+6/11Pediyatrik popülasyon
+Çocuklardaki advers reaksiyonların sıklığı, tipi ve şiddeti yetişkinlerde olduğu gibi
+beklenmektedir.
+Şüpheli advers reaksiyonların raporlanması:
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir (www.titck.gov.tr; e-
+posta: tufam@titck.gov.tr; tel: 0 800 314 00 08; faks: 0312 218 35 99).
+4.9. Doz aşımı ve tedavisi
+Teknesyum (99mTc) oksidronat ile aşırı doz radyasyon uygulanması durumunda, hastanın
+absorbe ettiği doz, mümkün olduğunca zorlu diürez ve sık mesane boşaltımı yoluyla
+radyonüklidin vücuttan atılmasını arttırarak azaltılmalıdır. Uygulanan etkili dozu tahmin
+etmek yardımcı olabilir.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1. Farmakodinamik özellikler
+Farmakoterapötik grubu: Diyagnostik radyofarmasötikler, iskelet
+ATC kodu: V09BA01
+Diyagnostik prosedürler için kullanılan radyofarmasötiklerin ve yardımcı maddelerin
+kimyasal konsantrasyonlarında, teknesyum (99mTc) oksidronat herhangi bir farmakodinamik
+etki göstermez.
+5.2. Farmakokinetik özellikler
+Genel özellikler
+Emilim:
+Geçerli değildir.
+Dağılım:
+İntravenöz olarak uygulanan teknesyum (99mTc) oksidronat hızla ekstraselüler boşluk boyunca
+dağılır.
+Organ tutulumu:
+İskelet tutulumu hemen başlar ve hızlıca ilerler. Enjeksiyondan 30 dakika sonra başlangıç
+dozunun %10’u hala tamamen kandadır. Enjeksiyondan 1 saat, 2 saat, 3 saat ve 4 saat sonra
+bu değerler sırasıyla %5, %3, %1,5 ve %1'dir.
+Biyotransformasyon:
+Geçerli değildir.
+Eliminasyon:
+Vücuttan eliminasyon böbrekler yoluyla olur. Uygulanan aktivitenin yaklaşık %30’u ilk saat
+içinde, %48’i iki saat içinde ve %60’ı 6 saat içinde temizlenir.
+Doğrusallık/ Doğrusal olmayan durum:
+Veri yoktur.
+7/115.3. Klinik öncesi güvenlilik verileri
+Bu ajan düzenli veya sürekli uygulama için uygun değildir. Üreme, mutajenisite çalışmaları
+ve uzun süreli karsinojenite çalışmaları gerçekleştirilmemiştir. Sıçanlarda 30 mg/kg
+seviyesinde minimal karaciğer anomalileri gözlenmiştir. Subakut toksisite çalışmalarında;
+sıçanlar 14 gün boyunca 10 mg/kg/gün uygulamasına tepki vermez, köpekler 14 gün boyunca
+3 ve 10 mg/kg/gün uygulamasından sonra karaciğerlerinde histolojik değişiklikler
+(mikrogranulom) göstermiştir. Ardışık 14 gün boyunca tedavi edilen köpeklerde enjeksiyon
+bölgesinde uzun süreli indürasyonlar (sertlik) gözlenmiştir.
+6. FARMASÖTİK ÖZELLİKLER
+6.1. Yardımcı maddelerin listesi
+Kalay klorür dihidrat
+Gentisik asit
+Sodyum klorür
+Hidroklorik asit (pH ayarlayıcısı olarak)
+Sodyum hidroksit (pH ayarlayıcısı olarak)
+6.2. Geçimsizlikler
+Bu tıbbi ürün, Bölüm 12’de belirtilenler haricinde diğer tıbbi ürünlerle karıştırılmamalıdır.
+6.3. Raf ömrü
+24 ay.
+Sulandırma ve işaretlemeden sonra kullanım boyunca 25 °C altındaki oda sıcaklığında 8 saat
+boyunca fiziksel ve kimyasal olarak stabildir. Mikrobiyolojik açıdan, ürün derhal
+kullanılmalıdır. Eğer hemen kullanılmayacaksa, saklama süresi ve kullanım öncesi koşulları
+kullanıcının sorumluluğundadır ve kontrol edilmiş ve onaylanmış aseptik koşullar altında
+sulandırma/ seyreltme yapılmadığı sürece normalde 2–8 °C’de 24 saati aşmadan saklanmalıdır
+6.4. Saklamaya yönelik özel tedbirler
+Liyofilize toz: 25 °C altındaki oda sıcaklığında saklayınız.
+Işıktan korumak için orijinal kabında saklayınız.
+Radyoaktif işaretlenmiş tıbbi ürünün saklama koşulları için bkz. Bölüm 6.3.
+Radyofarmasötiklerin saklanması, TENMAK’ın (Türkiye Enerji, Nükleer ve Maden
+Araştırma Kurumu) radyoaktif ürünler ile ilgili yönetmelik ve mevzuat hükümlerine göre
+yapılır.
+6.5. Ambalajın niteliği ve içeriği
+TECHNESCAN HDP, bir karton kutu içinde 5 flakon halinde sağlanır. 10 ml renksiz Tip I
+cam flakon, alüminyum sıkıştırmalı kapak ile mühürlenmiş bir bromobütil kauçuk tıpa ile
+kapatılmıştır.
+8/116.6. Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+Genel uyarılar
+Radyofarmasötikler, yalnızca belirlenmiş klinik ortamlarda, yetkili kişiler tarafından teslim
+alınmalı, kullanılmalı ve uygulanmalıdır. Radyofarmasötiklerin teslim alınması, saklanması,
+kullanımı, taşınması ve imhası yetkili resmi kurumların mevzuatlarına ve/veya mevcut
+izinlerine tabidir.
+Radyofarmasötikler, hem radyasyon güvenliği hem de farmasötik kalite gerekliliklerini
+karşılayacak şekilde hazırlanmalıdır. Uygun aseptik önlemler alınmalıdır.
+Flakon içeriği yalnızca teknesyum (99mTc) oksidronat hazırlanmasında kullanılma amaçlıdır
+ve ilk olarak hazırlık prosedürünü geçmeden direkt olarak hastaya uygulanmaz.
+Tıbbi ürünün uygulama öncesi sulandırılmasına yönelik talimatlar için, Bölüm 12.’ye bakınız.
+Bu ürünün hazırlanması esnasında herhangi bir zamanda flakonların bütünlüğü bozulursa
+kullanılmamalıdır.
+Uygulama işlemleri, tıbbi ürünün kontaminasyon riskini ve çalışanların radyasyon maruziyet
+riskini en aza indirecek şekilde gerçekleştirilmelidir. Yeterli korunma zorunludur. Yapılan
+hazırlama öncesinde, kitin içeriği radyoaktif değildir. Fakat, sodyum perteknetat (99mTc)
+ilavesi sonrasında, bitmiş preparatın yeterli radyasyon koruması devam ettirilmelidir.
+Radyofarmasötiklerin uygulanması; harici radyasyon veya idrar dökülmesi, kusma vs.
+kaynaklı kontaminasyon dolayısıyla diğer kişiler için risk oluşturmaktadır. Bu nedenle, ulusal
+mevzuatlar doğrultusunda radyasyondan korunma önlemleri alınmalıdır.
+Tüm kullanılmayan ürün veya atık radyoaktif maddeler “Tıbbi Atıkların Kontrolü
+Yönetmeliği”, “Radyoaktif Madde Kullanımından Oluşacak Atıklara Dair Yönetmelik” ve
+“Ambalaj ve Ambalaj Atıklarının Kontrolü Yönetmelikleri”ne uygun olarak imha edilmelidir.
+7. RUHSAT SAHİBİ
+NEPHA TIBBİ CİHAZLAR SANAYİ VE TİCARET A.Ş.
+Sedat Simavi Sok. No: 21/A Gül Apt.
+06550 Çankaya/ANKARA
+Tel : +90 312 441 88 14
+Faks : +90 312 438 72 60
+e-posta : nepha@nepha.com.tr
+8. RUHSAT NUMARASI
+2024/428
+9. İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi: 31.10.2024
+Ruhsat yenileme tarihi:
+10. KÜB’ÜN YENİLENME TARİHİ
+9/1111. DOZİMETRİ
+Teknesyum (99mTc), bir jeneratör (99Mo/99mTc) yardımıyla üretilmektedir ve 140 keV’luk bir
+enerji ve 6 saatlik yarılanma ömrü ile gama ışını yayarak, 2.13 x 105 yıllık uzun bir yarılanma
+ömrüne sahip olan ve bu nedenle yarı kararlı olarak düşünülebilen Teknesyum (99Tc)’a
+bozunur.
+Aşağıda listelenen dozimetri verileri ICRP yayın 80’den alınmıştır.
+Absorplanan doz: 99mTc-işaretli fosfatlar ve fosfonatlar (uygulanan birim aktivite başına
+absorplanan doz [mGy/MBq]).
+Organ Yetişkin 15 yaş 10 yaş 5 yaş 1 yaş
+Adrenal bezler 0,0021 0,0027 0,0039 0,0058 0,011
+Mesane duvarı 0,048 0,06 0,088 0,073 0,13
+Kemik yüzeyi 0,063 0,082 0,13 0,22 0,53
+Beyin 0,0017 0,0021 0,0028 0,0043 0,0061
+Meme 0,00071 0,00089 0,0014 0,0022 0,0042
+Safra kesesi 0,0014 0,0019 0,0035 0,0042 0,0067
+Mide duvarı 0,0012 0,0015 0,0025 0,0035 0,0066
+İnce bağırsak 0,0023 0,0029 0,0044 0,0053 0,0095
+Kolon 0,0027 0,0034 0,0053 0,0061 0,011
+Üst kalın bağırsak 0,0019 0,0024 0,0039 0,0051 0,0089
+Alt kalın bağırsak 0,0038 0,0047 0,0072 0,0075 0,013
+Kalp 0,0012 0,0016 0,0023 0,0034 0,006
+Böbrekler 0,0073 0,0088 0,012 0,018 0,032
+Karaciğer 0,0012 0,0016 0,0025 0,0036 0,0066
+Akciğerler 0,0013 0,0016 0,0024 0,0036 0,0068
+Kaslar 0,0019 0,0023 0,0034 0,0044 0,0079
+Özefagus 0,001 0,0013 0,0019 0,003 0,0053
+Overler 0,0036 0,0046 0,0066 0,007 0,012
+Pankreas 0,0016 0,002 0,0031 0,0045 0,0082
+Kırmızı kemik iliği 0,0092 0,01 0,017 0,033 0,067
+Deri 0,001 0,0013 0,002 0,0029 0,0055
+Dalak 0,0014 0,0018 0,0028 0,0045 0,0079
+Testisler 0,0024 0,0033 0,0055 0,0058 0,011
+Timus 0,001 0,0013 0,0019 0,003 0,0053
+Tiroid 0,0013 0,0016 0,0023 0,0035 0,0056
+Uterus 0,0063 0,0076 0,012 0,011 0,018
+Diğer dokular 0,0019 0,0023 0,0034 0,0045 0,0079
+Etkili doz [mSv/MBq] 0,0057 0,007 0,011 0,014 0,027
+70 kg ağırlığında bir yetişkin için 740 MBq’lik uygulamanın sonucunda efektif doz 4.2
+mSv’dir. 740 MBq’luk uygulanan aktivite için hedef organdaki (kemik) tipik radyasyon dozu
+47 mGy ve kritik organdaki (mesane duvarı) tipik radyasyon dozu 36 mGy’dir.
+10/1112. RADYOFARMASÖTİKLERİN HAZIRLANMASINA YÖNELİK TALİMATLAR
+Tüm farmasötik ürünlerde olduğu gibi, bu ürünün hazırlanışında da flakon bütünlüğü herhangi
+bir zamanda bozulursa ürün kullanılmamalıdır.
+Hazırlama yöntemi
+Çok dozlu uygulama için hazırlık
+TECHNESCAN HDP’nin bir flakonuna 3-10 ml hacimde, aseptik koşullarda maksimum 14
+GBq’luk bir aktivite ile gerekli miktarda sodyum perteknetat (99mTc) çözeltisi (Fizyon veya
+Non-Fizyon) ekleyiniz.
+İçeriğin çözünmesi için 30 saniye çalkalayınız. Sonrasında, preparat enjeksiyon için hazırdır.
+Seyreltme, tercihen %0,9’luk Sodyum Klorür çözeltisi ile yapılmalıdır.
+Tek bir hasta için en fazla 1 mg HDP (bir flakonun 1/3’ü) enjekte edilebilir.
+İşaretlemeden sonraki özellikler
+İşaretleme sonrası, çözelti renksizdir ve hafif opalesan hale gelir.
+Kalite kontrol
+Silika jel kaplı cam fiber plakalar üzerinde İTK (TLC) ile inceleyiniz.
+1. %13,6’lık sodyum asetat R içinde 5 – 10 µl yürütün. Teknesyum oksidronat kompleksi ve
+perteknetat iyonu çözücünün ön kısmının yakınına göç ederken, hidrolize teknesyum ve
+kolloidal formdaki teknesyum başlangıçta kalır.
+2. Metil etil keton R içinde 5 – 10 µl yürütün. Perteknetat iyonu çözücünün ön kısmının
+yakınına göç ederken, teknesyum oksidronat kompleksi ve kolloidal formdaki teknesyum
+başlangıçta kalır. Ayrıntılı bilgi için, Avrupa Farmakopesi’ne (Monograf 641) başvurunuz.
+Tek ve toplam safsızlıklar %5’ten fazla olamaz.
+11/11

@@ -1,0 +1,562 @@
+KISA ÜRÜN BİLGİSİ
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+ESMOBLOC 10 mg/ml I.V. infüzyon için çözelti
+Steril
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin Madde:
+Esmolol hidroklorür: 10 mg/mL (Her bir 250 mL'lik torba 2500 mg esmolol hidroklorür
+içerir).
+Yardımcı maddeler:
+100 ml’de;
+Sodyum klorür 0,59 g
+Sodyum asetat trihidrat 0,28 g
+Bu tıbbi ürün her bir torbasında yaklaşık 30,45 mmol (ya da 700 mg) sodyum içerir.
+Yardımcı maddeler için 6.1’e bakınız.
+3. FARMASÖTİK FORM
+İnfüzyon için çözelti.
+Berrak, renksiz ila açık sarı renkte çözelti.
+Çözeltinin pH'sı 4,5 – 5,5 arası ve ozmolaritesi yaklaşık 312 mOsm/l'dir.
+4. KLİNİK ÖZELLİKLER
+4.1. Terapötik endikasyonlar
+Supraventriküler taşikardi veya kompanse olmamış sinüs taşikardisi
+ESMOBLOC perioperatif, postoperatif ya da kısa sürede etkili bir preparatla ventrikül hızının
+hızlı kontrolünün istendiği diğer acil girişim gereken durumlarda ortaya çıkan atriyal
+fibrilasyon ya da atriyal flutter durumlarında endikedir.
+ESMOBLOC ayrıca hekim tarafından hızlanmış kalp hızının özel bir girişimle düzeltilmesi
+kararı verilmişse kompanse olmamış sinüs taşikardisi durumunda da endikedir.
+ESMOBLOC kısa süreli kullanıma yöneliktir.
+İntraoperatif ve postoperatif taşikardi ve/veya hipertansiyon
+ESMOBLOC endotrakeal entübasyon, anestezi indüksiyonu, cerrahi prosedür devam ederken,
+anesteziden çıkarken ve postoperatif dönemde görülen taşikardi ve hipertansiyonda hekim
+tarafından böyle özel bir girişimle düzeltilmesi kararı verilmişse endikedir.
+ESMOBLOC’un, böyle durumların oluşmasını engellemek amacıyla kullanımı
+önerilmemektedir.
+1/174.2. Pozoloji ve uygulama şekli
+Pozoloji/uygulama sıklığı ve süresi
+Supraventriküler taşikardi veya kompanse olmamış sinüs taşikardisinin tedavisinde
+dozlama
+ESMOBLOC devamlı intravenöz infüzyonla yükleme dozu ile birlikte veya yükleme dozu
+olmaksızın uygulanır. İstenilen ventriküler yanıta göre ilave yükleme dozları ve/veya idame
+infüzyonun (basamaklı dozlama) titrasyonu gerekli olabilir.
+Tablo 1-Basamaklı Dozlama
+Adım İşlem
+1 Opsiyonel yükleme dozu (500 mikrogram/kg 1 dk içinde), sonra 4 dk süreyle 50
+mikrogram/kg/dk
+2 Gerekliyse opsiyonel yükleme dozu, 4 dk süreyle 100 mikrogram/kg/dk
+3 Gerekliyse opsiyonel yükleme dozu, 4 dk süreyle 150 mikrogram/kg/dk
+4 Gerekliyse, doz 200 mikrogram/kg/dk’ya çıkarılır
+Yükleme dozu uygulanmadığı durumlarda sabit konsantrasyonda uygulanan esmololün
+farmakokinetik ve farmakodinamik açıdan sabitlenmiş konsantrasyonlarına yaklaşık 30
+dakikada ulaşılmaktadır.
+Etkili idame dozu, devamlı ve basamaklı dozlama için 25 mikrogram/kg/dk kadar düşük
+dozların yeterli olmasına karşın 50 ila 200 mikrogram/kg/dk’dır. 200 mikrogram/kg/dk‘dan
+yüksek dozlar, etkisini azaltarak kalp atış hızında küçük bir artışa sebep olmakta ve advers
+reaksiyonların oranını arttırmaktadır.
+İdame infüzyon 48 saate kadar devam ettirilebilir.
+İntraoperatif ve postoperatif taşikardi ve/veya hipertansiyon
+Bu kullanımda terapötik etki için yavaşça titre edilmesi her zaman önerilmez. Bu yüzden iki
+dozlama seçeneği sunulmaktadır: hemen kontrol ve basamaklı kontrol.
+1. Hemen kontrol sağlamak için doz önerisi
+• Bolus doz olarak 30 saniye içerisinde 1 mg/kg ardından gerekliyse 150
+mikrogram/kg/dk infüzyonla uygulanır.
+• İstenilen kalp atış hızı ve kan basıncını idame ettirmek için infüzyon hızı gerektiği
+şekilde ayarlanır. Aşağıdaki Maksimum Önerilen Dozlar kısmına bakınız.
+2. Basamaklı titrasyon için doz önerisi
+• Bolus doz olarak 1 dakika içerisinde 500 mikrogram/kg ardından 4 dakika içinde 50
+mikrogram/kg/dk idame infüzyonla uygulanır.
+• Elde edilen yanıta bağlı olarak, supraventriküler taşikardi için belirlenen dozlamaya
+devam edilir. Aşağıdaki Maksimum Önerilen Dozlar kısmına bakınız.
+2/17Maksimum önerilen dozlar
+• Taşikardinin tedavisi için 200 mikrogram/kg/dk’dan yüksek idame dozları
+önerilmemektedir. 200 mikrogram/kg/dk‘dan yüksek dozlar, etkisini azaltarak kalp atış
+hızında küçük bir artışa sebep olmakta ve advers reaksiyonların oranını arttırmaktadır.
+• Hipertansiyon tedavisi için daha yüksek idame infüzyon dozları (250-300
+mikrogram/kg/dk) gerekebilir. 300 mikrogram/kg/dk’nın üzerindeki dozların
+güvenilirliği çalışılmamıştır.
+ESMOBLOC tedavisinden alternatif ilaçlara geçiş
+Hastalarda kalp hızında yeterli kontrol ve stabil bir klinik tablo sağlandıktan sonra alternatif
+antiaritmik ilaçlara geçiş yapılabilir.
+ESMOBLOC tedavisinden alternatif ilaçlara geçileceği zaman hekim seçilen alternatif ilacın
+kullanma talimatlarını dikkatli şekilde incelemeli ve ESMOBLOC dozunu aşağıdaki şekilde
+azaltmalıdır:
+• Alternatif ilacın ilk dozundan sonraki 30 dakika içerisinde ESMOBLOC infüzyon hızı
+yarıya (%50) düşürülür.
+• Alternatif ilacın ikinci dozunun uygulanmasından sonra hastanın yanıtı izlenir ve ilk
+saatte yeterli kontrol sağlanırsa ESMOBLOC infüzyonu kesilir.
+Uygulama şekli:
+ESMOBLOC kullanıma hazır bir çözelti olduğundan, seyreltilmeden intravenöz yoldan
+kullanılır.
+Özel popülasyonlara ilişkin ek bilgiler:
+Böbrek yetmezliği:
+Böbrek yetmezliği olan hastalarda ESMOBLOC asit metaboliti böbrekler tarafından
+değişmemiş formda atıldığından infüzyonla ESMOBLOC uygulandığında dikkatli olunması
+gerekir. Asit metabolitin atılımı son evre böbrek hastalığı olan kişilerde anlamlı şekilde
+azalmakta olup eliminasyon yarı ömrü normalin yaklaşık on katına artmış ve plazma
+düzeyleri ciddi şekilde yükselmiştir.
+Karaciğer yetmezliği:
+Kırmızı kan hücrelerindeki esterazlar ESMOBLOC metabolizmasında temel bir rol
+oynadığından karaciğer yetmezliği durumunda özel önlemler gerekli değildir.
+Pediyatrik popülasyon:
+ESMOBLOC’un 18 yaş altı çocuklarda kullanımdaki etkinliği ya da güvenliliği henüz
+kanıtlanmamıştır. Mevcut veriler bölüm 5.1 ve 5.2'de tanımlanmaktadır ancak bu verilerden
+pozoloji hakkında bir öneri sunulamaz.
+Geriyatrik popülasyon:
+Yaşlılarda tedaviye düşük dozdan başlanarak, uygulama dikkatle yapılmalıdır.
+3/17Yaşlılarda özel çalışmalar yürütülmemiştir. Ancak 65 yaş üzeri 252 hastadan elde edilmiş
+verilerin analizi, oluşan farmakodinamik etkiler açısından 65 yaş altındakilerle herhangi bir
+farklılık olmadığını göstermektedir.
+4.3. Kontrendikasyonlar
+• Etkin maddeye, yardımcı maddelerden herhangi birine, diğer maddelere veya diğer beta
+blokörlere (beta blokörler arası çapraz duyarlılık mümkündür) aşırı duyarlılık durumu,
+• Ağır sinüs bradikardisi (dakikada 50 vurumdan az),
+• Hasta sinüs sendromu; ağır AV düğümü ileti bozuklukları (pacemaker olmayan); ikinci
+veya üçüncü dereceden kalp blokları,
+• Kardiyojenik şok,
+• Ciddi hipotansiyon,
+• Dekompanse kalp yetmezliği,
+• Eşzamanlı ya da yakın zamanda intravenöz yoldan verapamil kullanımı. ESMOBLOC,
+verapamil kesilmesinden sonraki 48 saat içinde uygulanmamalıdır (bölüm 4.4'e bakınız),
+• Tedavi edilmemiş feokromositoma,
+• Pulmoner hipertansiyon,
+• Akut astım atağı,
+• Metabolik asidoz.
+4.4. Özel kullanım uyarıları ve önlemleri
+ESMOBLOC tedavisi gören tüm hastalarda kan basıncı ve EKG'nin sürekli olarak izlenmesi
+önerilmektedir.
+Hastada hemodinamik bozukluk bulunduğunda veya hasta aşağıda parametrelerin birini veya
+tümünü azaltan diğer ilaçları kullanıyorsa, supraventriküler aritmili hastalarda ventrikül
+yanıtının kontrolü için ESMOBLOC kullanımı sırasında dikkatli olunmalıdır: Periferik direnç,
+miyokardiyal dolum, miyokardiyal kontraktilite veya miyokardiyumda elektriksel impuls
+propagasyonu. ESMOBLOC etkilerinin hızlı başlaması ve sonlanmasına karşın bilinç kaybı,
+kardiyojenik şok, kardiyak arrest gibi şiddetli reaksiyonlar gelişebilir.
+Esmolol hidroklorürün ventrikül hızını kontrol etmek için kullanıldığının varsayıldığı
+kompleks klinik koşullarda birkaç ölüm vakası bildirilmiştir.
+En sık görülen yan etki dozla ilişkili olan, ancak her dozda da görülebilen hipotansiyondur.
+Hipotansiyon şiddetli olabilmektedir. Bir hipotansif epizod yaşanması durumunda infüzyon
+hızı düşürülmeli veya gerekirse infüzyon kesilmelidir. Hipotansiyon genellikle geriye
+dönüşebilir niteliktedir (ESMOBLOC uygulamasına son verildikten sonraki 30 dakika
+içinde). Bazı vakalarda kan basıncını normal değerlerine yükseltebilmek için ek girişimlere
+gerek duyulabilir. Sistolik kan basıncı düşük hastalarda dozun ayarlanması ve idame
+infüzyonu sırasında özel dikkat gerekir.
+4/17Esmolol hidroklorür kullanımı sırasında ağır bradikardi dahil bradikardi ve kardiyak arrest
+meydana gelmiştir. ESMOBLOC, tedavi öncesinde kalp hızı düşük olanlarda özel bir dikkatle
+ve ancak olası yararları, riskine ağır basıyorsa kullanılmalıdır.
+Önceden ağır sinüs bradikardisi olan hastalarda ESMOBLOC kullanımı kontrendikedir
+(bölüm 4.3'e bakınız). Nabzın istirahatteyken dakikada 50-55 vurunun altına düştüğü ve
+hastada bradikardiye ilişkin semptomlar görülürse dozaj azaltılmalı ya da uygulamaya son
+verilmelidir.
+Konjestif kalp yetmezliğinde dolaşım fonksiyonunun desteklenmesi için sempatik aktivite
+gereklidir. Beta blokajının miyokard depresyonunu arttırarak yetmezliği daha da ağırlaştırma
+riski bulunmaktadır. Belirli bir süreden uzun sürelerle beta blokörlerle miyokard
+depresyonunun devam ettirilmesi, bazı vakalarda kalp yetmezliğine yol açabilir.
+Kardiyak fonksiyonları bozulmuş hastalarda ESMOBLOC kullanılırken dikkatli olunması
+gerekir. Kalp yetmezliğinin ilk belirti ve semptomları görülür görülmez ESMOBLOC
+tedavisine son verilmelidir. Her ne kadar eliminasyon yarı ömrünün kısa olması nedeniyle,
+ESMOBLOC’un kesilmesi yeterli olsa da ayrıca spesifik tedavi uygulanması da düşünülebilir
+(bölüm 4.9'a bakınız). ESMOBLOC dekompanse kalp yetmezliği olan hastalarda
+kontrendikedir (bölüm 4.3'e bakınız).
+Kalpteki ileti süresi üzerindeki negatif etkileri nedeniyle beta blokör ilaçlar birinci derece kalp
+bloğu veya diğer kalp ileti bozukluğu olan hastalarda ancak dikkatle verilmelidir (bölüm 4.3'e
+bakınız).
+ESMOBLOC feokromositomalı hastalarda ancak alfa-reseptör blokörleriyle ön tedavi görmüş
+olmak kaydıyla ve dikkatle kullanılmalıdır (bölüm 4.3'e bakınız).
+Hipotermiyle uyarılmış hipertansiyonun tedavisinde ESMOBLOC kullanımında dikkatli
+olunması gerekir.
+Genel olarak bronkospastik hastalıkları olanlar beta blokör kullanmamalıdır. Beta-1
+reseptörlere nispeten selektif olması ve kullanım sırasında titre edilebilir olması nedeniyle
+ESMOBLOC bu hastalarda dikkatle kullanılabilir. Ancak beta-1 selektifliği mutlak
+olmadığından ESMOBLOC, olası etkili en düşük dozu elde etmek için dikkatle titre
+edilmelidir. Bronkospazm durumunda infüzyon derhal durdurulmalı ve gerektiğinde beta-2
+agonist bir preparat uygulanmalıdır.
+Hasta zaten bir beta-2-reseptör stimülan ajan kullanıyorsa, bu ajanın dozunun yeniden
+değerlendirilmesi gerekebilir.
+ESMOBLOC hırıltılı solunum ya da astım hikayesi olan hastalarda dikkatli kullanılmalıdır.
+5/17ESMOBLOC diyabetik hastalarda ya da edinsel hipoglisemisi olduğundan kuşkulanılanlarda
+dikkatli uygulanmalıdır. Beta blokörler hipogliseminin taşikardi gibi prodromal
+semptomlarını maskeleyebilir. Ancak sersemlik hali ve terleme etkilenmeyebilir. Beta
+blokörlerle antidiyabetik ajanların eşzamanlı kullanımı antidiyabetik ajanların hipoglisemik
+etkisinde artışa yol açabilir (bölüm 4.5'e bakınız).
+Esmolol hidroklorür kullanımına bağlı olarak infüzyon bölgesinde reaksiyonlar meydana
+gelmiştir. Bu reaksiyonlar arasında iritasyon ve enflamasyon bulunabildiği gibi özellikle
+ekstravazasyon ile ilişkili trombofilebit, nekroz ve deride blisterlenme gibi daha ciddi
+reaksiyonlar da bulunur (bölüm 4.8'e bakınız). Küçük venlerden veya kelebek kateterle
+yapılacak uygulamalardan kaçınılmalıdır. Lokal bir infüzyon yeri reaksiyonu oluştuğunda,
+alternatif bir infüzyon bölgesi kullanılmalıdır.
+Beta blokörler, karşılanmamış alfa-reseptör kökenli koroner arter vazokonstriksiyonuna bağlı
+olarak Prinzmetal anjinası olan hastalarda anjina ataklarının sıklık ve süresini arttırabilir. Bu
+tür hastalarda selektif olmayan beta blokörler kullanılmamalı; beta-1 selektif olan blokörler
+ise yalnızca son derece dikkatli şekilde kullanılmalıdır.
+ESMOBLOC hipovolemik hastalarda refleks taşikardiyi zayıflatabilir ve dolaşım kollapsı
+riskini arttırabilir. Bu nedenle bu tür hastalarda ESMOBLOC dikkatli kullanılmalıdır.
+Beta blokörler periferik dolaşım bozukluklarının (Raynaud hastalığı veya sendromu,
+intermittan kladikasyon) bulunduğu hastalarda son derece dikkatli uygulanmalıdır.
+ESMOBLOC dahil, özellikle intravenöz olarak uygulanan bazı beta blokörler, serum
+potasyum düzeylerinde yükselme ve hiperkalemi ile ilişkilendirilmiştir. Bu risk böbrek
+yetmezliği ve hemodiyaliz tedavisi görme gibi risk faktörlerinin bulunduğu hastalarda artar.
+Beta blokörler hem alerjenlere duyarlılığı, hem de anafilaktik reaksiyonların şiddetini arttırır.
+Beta blokör kullanan hastalar anafilaktik ya da anafilaktoid reaksiyonların tedavisinde
+kullanılan olağan dozlarda epinefrine yanıt vermeyebilir (bölüm 4.5'e bakınız).
+Beta blokörlerin psöriyazis ya da psöriyazis benzeri döküntülere yol açabileceği ve mevcut bir
+psöriyazis hastalığını ağırlaştırabileceği bildirilmiştir. Özgeçmiş ya da soygeçmişinde
+psöriyazis bulunanlarda beta blokörler ancak tedaviden beklenen fayda ile olası riskleri
+dikkatle değerlendirildikten sonra kullanılmalıdır.
+Propranolol ve metoprolol gibi beta blokörler hipertiroidinin belirli klinik işaretlerini
+(taşikardi gibi) maskeleyebilir. Tirotoksikoz gelişim riski ya da kuşkusu olan hastalarda beta
+blokörlerle devam etmekte olan tedavinin aniden kesilmesi tiroid krizini hızlandırabilir ve bu
+tür hastalar yakından izlenmelidir.
+Bu ürün 250 ml'lik bir torbasında 30,45 mmol sodyum içerir. Bu durum kontrollü sodyum
+diyetinde olan hastalar için göz önünde bulundurulmalıdır.
+6/174.5. Diğer tıbbi ürünlerle etkileşimler ve diğer etkileşim şekilleri
+ESMOBLOC diğer antihipertansif ajanlar veya bradikardiye neden olabilen diğer ilaçlarla
+birlikte kullanıldığında daima dikkatli olunmalıdır: ESMOBLOC'un etkileri veya
+hipotansiyon veya bradikardi yan etkileri şiddetlenebilir.
+Verapamil gibi kalsiyum antagonistleri ve daha düşük düzeyde diltiazem kontraktilitede ve
+AV iletiminde negatif bir etkiye sahiptir. Bu kombinasyon iletim anomalileri olan hastalara
+uygulanmamalı ve ESMOBLOC verapamil kesildikten sonraki 48 saatte verilmemelidir (bkz
+bölüm 4.3).
+Dihidropiridin türevi (örn. nifedipin) kalsiyum antagonistleri hipotansiyon riskini arttırabilir.
+Kalp yetmezliği için kalsiyum antagonisti ile tedavi gören hastalara beta blokör uygulanması
+kalp yetmezliğine neden olabilir. ESMOBLOC'un dikkatle titre edilerek uygun hemodinamik
+monitorizasyon önerilir.
+ESMOBLOC ve Sınıf I anti-aritmik ilaçların (örn; dizopiramid, kinidin) ve amiodaronun
+eşzamanlı kullanımı atriyal-iletim süresinde güçlendirici etkiye sahip olabilir ve negatif
+inotropik etkiye neden olabilir.
+ESMOBLOC ve insülin veya oral anti-diyabetik ilaçların eşzamanlı kullanımı kan şekeri
+düşürücü etkiyi artırabilir (özellikle selektif olmayan beta-blokörler). Beta- adrenerjik blokajı
+hipoglisemi belirtilerinin (taşikardi) gözlenmesini engelleyebilir ancak baş dönmesi /
+sersemlik ve terleme gibi diğer belirtiler maskelenmeyebilir.
+Anestezi ilaçları: Hastaların hacim durumunun belirsiz olduğu veya eşzamanlı antihipertansif
+ilaçların kullanıldığı durumlarda refleks taşikardide azalma veya hipotansiyon riskinde artış
+görülebilir. Beta-blokaja devam edilmesi indüksiyon ve entübasyon sırasında aritmi riskini
+azaltır. Hastaya ESMOBLOC'a ek olarak bir beta-blokör ajan verilirken anestezist
+bilgilendirilmelidir. İnhalasyon anestezi ajanlarının hipotansif etkileri ESMOBLOC
+varlığında artabilir. Her bir ajanın dozu istenen hemodinamik parametrelerin korunması için
+değiştirilebilir.
+ESMOBLOC ile gangliyon bloke edici ilaçların kombinasyonu hipotansif etkiyi arttırabilir.
+Steroid olmayan anti-enflamatuvar ilaçlar (NSAİİ) ile birlikte kullanıldıklarında beta
+blokörlerin hipotansif etkileri azalır.
+Beta-blokörlerle eşzamanlı olarak floktafenin veya amisulprid kullanılırken özellikle dikkatli
+olunmalıdır.
+Trisiklik antidepresanların (imipramin ve amitriptilin gibi), barbitüratların ya da
+fenotiyazinler (klorpromazin gibi) yanında diğer antipsikotik ajanların (klozapin gibi) birlikte
+uygulanımı kan basıncını azaltıcı etkiyi arttırabilir. Beklenmeyen bir hipotansif durumdan
+kaçınmak için birlikte kullanımda ESMOBLOC dozu azaltılmalıdır.
+7/17Beta-blokörler kullanılırken anafilaktik reaksiyon riski olan hastalarda alerjen maruziyetine
+(kazara, diagnostik veya terapötik) reaksiyon gözlenebilir. Beta blokör kullanan hastalar,
+anafilaktik reaksiyonların tedavisinde kullanılan mutad epinefrin dozlarına yanıt vermeyebilir
+(bkz bölüm 4.4).
+ESMOBLOC'un etkileri eşzamanlı uygulandığında beta-adrenerjik agonist aktiviteye sahip
+sempatomimetik ilaçlara bağlı olarak azalabilir. Her bir ajanın dozunun hasta yanıtına göre
+ayarlanması veya alternatif terapötik ajanların kullanımının düşünülmesi gerekebilir.
+Katekolamin boşalmasına yol açan ilaçlar (örn; rezerpin) beta-blokör ilaçlarla birlikte
+verildiğinde aditif bir etki gösterebilirler. ESMOBLOC ile eşzamanlı olarak katekolamin
+boşalmasına yol açan ilaç tedavisi alan hastalar vertigo, senkop veya postüral hipotansiyon ile
+sonuçlanabilen hipotansiyon ve önemli bradikardi belirtileri açısından yakından izlenmelidir.
+Beta blokörlerin, moksonidin veya alfa-2-agonistleriyle (klonidin gibi) bir arada kullanımı
+çekilmeye bağlı rebound hipertansiyon riskini arttırır. Klonidin veya moksonidin bir beta
+blokörle birlikte kullanılacaksa ve daha sonra her iki ilaç da kesilecekse, ilk olarak beta
+blokör, klonidin veya moksonidin birkaç gün sonra kesilmelidir.
+Beta blokörlerin ergo türevleriyle birarada kullanımı ciddi periferik vazokonstrüksiyon ve
+hipertansiyonla sonuçlanabilir.
+Esmolol hidroklorür ile varfarin arasındaki bir etkileşim olup olmadığını belirlemek için
+yapılan bir çalışmadaki veriler, esmolol hidroklorür ve varfarinin birlikte uygulanmasının,
+varfarinin plazma düzeylerini değiştirmediğini göstermiştir. Buna rağmen varfarin ile birlikte
+uygulanan esmolol hidroklorürün konsantrasyonları daha yüksek olarak bulunmuştur.
+Esmolol hidroklorür ve digoksin sağlıklı gönüllülerde intravenöz yoldan birlikte
+uygulandığında, bazı zaman noktalarında digoksinin kandaki düzeylerinde %10-20'lik bir
+yükselme olduğu bildirilmiştir. Dijital glikozitleriyle esmolol hidroklorür kombinasyonu AV
+ileti süresini uzatabilir. Digoksin, esmolol hidroklorürün farmakokinetik özelliklerini
+etkilememiştir.
+İntravenöz morfin ve esmolol hidroklorür sağlıklı gönüllülere eşzamanlı olarak
+uygulandığında morfinin kan düzeylerinde herhangi bir değişiklik olmadığı görülmüştür.
+Morfin varlığında esmolol hidroklorürün kararlı durum kan düzeylerinin %46 oranında arttığı
+ancak diğer farmakokinetik parametrelerden hiçbirinin değişmediği saptanmıştır.
+Esmolol hidroklorürün suksametonyum klorür ve mivakuryum ile uyarılan nöromüsküler
+blokajın süresi üzerine etkisi cerrahi girişimde bulunulan hastalarda incelenmiştir. Esmolol
+hidroklorür, suksametonyum klorür ile indüklenen nöromüsküler blokajın başlamasını
+etkilememektedir, ancak nöromüsküler blokajın süresi 5 dakikadan 8 dakikaya çıkmıştır.
+Esmolol hidroklorür, mivakuryumun klinik süresini (%18,6) ve geri kazanım indeksini (%6,7)
+kısmen uzatmıştır.
+8/17Varfarin, digoksin, morfin, suksametonyum klorür veya mivakuryum ile yapılan çalışmalarda
+gözlenen etkileşimler klinik açıdan çok önemli olmamakla birlikte ESMOBLOC eşzamanlı
+olarak varfarin, digoksin, morfin, suksametonyum klorür veya mivakuryum uygulanan
+hastalarda titrasyon dikkatli yapılmalıdır.
+4.6. Gebelik ve laktasyon
+Genel tavsiye
+Gebelik Kategorisi: C / D (2. ve 3. trimester)
+Çocuk doğurma potansiyeli bulunan kadınlar / Doğum kontrolü (Kontrasepsiyon)
+Çocuk doğurma potansiyeli olan kadınlar tedavi süresince etkili doğum kontrolü uygulamak
+zorundadırlar.
+Gebelik dönemi
+Hayvanlar üzerinde yapılan çalışmalar, gebelik /ve-veya/ embriyonal/fetal gelişim /ve-veya/
+doğum /ve-veya/ doğum sonrası gelişim üzerindeki etkiler bakımından yetersizdir. Hayvanlar
+üzerinde esmolol hidroklorürle yapılan çalışmalarda üreme toksisitesi görülmüştür (bkz.
+Kısım 5.3). İnsanlara yönelik potansiyel risk bilinmemektedir.
+Esmolol hidroklorür gebelik döneminde önerilmez.
+Farmakolojik etkileri nedeniyle gebeliğin geç döneminde fetus ve yenidoğan üzerindeki yan
+etkileri (özellikle hipoglisemi, hipotansiyon ve bradikardi) dikkate alınmalıdır.
+Gebelikte ESMOBLOC tedavisi gerekli olursa, ancak potansiyel yararı, fetus üzerindeki
+toksisiteden fazla ise kullanılmalıdır ve uteroplasental kan akımı ve fötal büyüme
+izlenmelidir. Yenidoğan bebeğin yakından izlenmesi gerekir.
+Laktasyon dönemi
+Esmolol hidroklorür emzirme döneminde kullanılmamalıdır.
+Emziren kadınlarda esmolol hidroklorürün anne sütüne geçip geçmediği bilinmemektedir.
+Yenidoğan bebeklere/bebeklere potansiyel bir risk gözardı edilemez.
+Üreme yeteneği / Fertilite
+Esmololün insanlarda üreme yeteneği / fertilite üzerindeki etkisini araştıran bir çalışma
+bulunmamaktadır.
+4.7. Araç ve makine kullanımı üzerine etkiler
+Araç ve makine kullanımı sırasında ESMOBLOC’un kullanımı mümkün olmadığından bu
+konudaki etkisi bilinmemektedir.
+4.8. İstenmeyen etkiler
+9/17İstenmeyen etkilerin görülmesi durumunda ESMOBLOC’un dozu azaltılabilir ya da
+uygulamaya son verilebilir.
+Görülen advers etkilerin çoğu hafif ve geçici nitelikte olarak bildirilmiştir. En önemlisi
+hipotansiyondur.
+Advers etkilerin görülme sıklığı, aşağıdaki kriterler kullanılarak değerlendirilmiştir: Çok
+yaygın (≥1/10); yaygın (≥1/100 ila <1/10); yaygın olmayan (≥1/1.000 ila <1/100); seyrek
+(≥1/10.000 ila <1/1.000); çok seyrek (<1/10.000), bilinmiyor (eldeki verilerden hareketle
+tahmin edilemiyor).
+Metabolizma ve beslenme hastalıkları
+Yaygın: Anoreksi.
+Bilinmiyor: Hiperkalemi, metabolik asidoz.
+Psikiyatrik hastalıklar
+Yaygın: Depresyon, anksiyete
+Yaygın olmayan: Anormal düşünce
+Sinir sistemi hastalıkları
+Yaygın: Baş dönmesi / sersemlik hali1, uykuya meyil, başağrısı, parestezi, dikkat
+bozukluğu, konfüzyonel durum, ajitasyon.
+Yaygın olmayan: Senkop, konvülsiyon, konuşma bozukluğu.
+Göz hastalıkları
+Yaygın olmayan: Görmede bozulma.
+Kardiyak hastalıklar
+Yaygın olmayan: Bradikardi, atriyoventriküler blok, pulmoner arteriyel basınçta
+yükselme, kalp yetmezliği, ventriküler ekstrasistoller, nodal ritim,
+anjina pektoris.
+Çok seyrek: Sinüs durması, asistol.
+Bilinmiyor: Akselere idiyoventriküler ritim, koroner arteriyospazm, kardiyak arest.
+Vasküler hastalıklar
+Çok yaygın: Hipotansiyon.
+Yaygın olmayan: Periferik iskemi, solukluk, yüz ve boyun bölgesinde kızarma.
+Çok seyrek: Trombofilebit2
+Solunum, göğüs bozuklukları ve mediastinal hastalıklar
+Yaygın olmayan: Dispne, pulmoner ödem, bronkospazm, hırıltılı solunum, nazal
+konjesyon, akciğer seslerinde ronkus ve raller.
+Gastrointestinal hastalıklar
+10/17Yaygın: Bulantı, kusma.
+Yaygın olmayan: Disguzi, dispepsi, kabızlık, ağızda kuruma, karında ağrı.
+Deri ve deri altı doku hastalıkları
+Çok yaygın: Diaforez.1
+Yaygın olmayan: Ciltte renk kaybı2, eritem.2
+Çok seyrek: Deri nekrozu (ekstravazasyona bağlı).2
+Bilinmiyor: Psoriyazis3, anjiyoödem, ürtiker.
+Kas-iskelet bozuklukları, bağ doku ve iskelet hastalıkları
+Yaygın olmayan: Kas-iskelet ağrısı.4
+Böbrek ve idrar yolu hastalıkları
+Yaygın olmayan: Üriner retansiyon
+Genel bozukluklar ve uygulama bölgesine ilişkin hastalıklar:
+Yaygın: Asteni, halsizlik, enjeksiyon yeri reaksiyonu, infüzyon bölgesi
+reaksiyonu, infüzyon bölgesi inflamasyonu, infüzyon bölgesi
+endürasyonu.
+Yaygın olmayan: Titremeler, ateş yükselmesi, ödem2, ağrı2, infüzyon bölgesinde yanma,
+infüzyon bölgesinde ekimoz.
+Bilinmiyor: İnfüzyon bölgesinde filebit, infüzyon bölgesinde veziküller, infüzyon
+bölgesinde blisterlenme.2
+1. Baş dönmesi/sersemlik hali ve diyaforez semptomatik hipotansiyonla birlikte görülmüştür.
+2. Enjeksiyon ve infüzyon bölgesi reaksiyonlarıyla ilişkili reaksiyonlardır.
+3. Beta blokörler sınıf reaksiyonu olarak bazı durumlarda psoriyazise ya da psoriyaziste
+kötüleşmeye neden olabilir.
+4. Midskapular ağrı ve kostokondrit dahil.
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TÜFAM)’ ne bildirmeleri gerekmektedir. (www.titck.gov.tr; e-
+posta: tufam@titck.gov.tr; tel: 0 800 314 00 08; faks: 0312 218 35 99)
+4.9. Doz aşımı ve tedavisi
+Konsantre esmolol hidroklorür solüsyonları ile kazara büyük doz aşımı vakaları meydana
+gelmiştir. Bu doz aşımlarının bazıları ölüme yol açarken, diğerleri kalıcı işlev kaybına neden
+olmuştur. Preparatın 625 mg – 2,5 g arasındaki bolus dozları (12,5 - 50 mg/kg) ölümle
+sonuçlanmıştır.
+11/17Doz aşımının semptomları
+Doz aşımı durumunda aşağıdaki belirtiler oluşabilir: Şiddetli hipotansiyon, sinüs bradikardisi,
+atriyoventriküler blok, kalp yetmezliği, kardiyojenik şok, kardiyak arrest, bronkospazm,
+solunum yetmezliği, komaya ilerleyebilen bilinç kaybı, havaleler, bulantı, kusma, hipoglisemi
+ve hiperkalemi.
+Doz aşımında tedavi
+Kısa eliminasyon yarı ömrü nedeniyle (yaklaşık 9 dakika) toksisite tedavisinde ilk basamak
+ESMOBLOC infüzyonunun durdurulmasıdır. Doz aşımı sonrasında semptomların kaybolması
+için gereken süre uygulanan ESMOBLOC miktarına bağlı olacaktır. Bu süre ESMOBLOC'un
+terapötik doz düzeyinde ilaç kesildikten sonra 30 dakikadan uzun sürebilir. Suni solunum
+gerekebilir. Daha sonra gözlenen klinik etkilere göre aşağıdaki tedaviler uygulanabilir:
+• Bradikardi: Atropin ya da diğer bir antikolinerjik ilaç intravenöz yoldan uygulanır.
+Bradikardinin yeterince tedavi edilemediği durumlarda pacemaker gerekli olabilir.
+• Bronkospazm: Nebülize beta-2-sempatomimetikler uygulanmalıdır. Bu yeterli
+olmazsa beta-2-sempatomimetikler ya da aminofilinin intravenöz yoldan uygulanması
+düşünülmelidir.
+• Semptomatik hipotansiyon: İntravenöz yoldan sıvılar ve/veya pressör ajanlar
+verilmelidir.
+• Kardiyovasküler depresyon veya kardiyak şok: Diüretik veya sempatomimetikler
+uygulanabilir. Uygulanacak sempatomimetiklerin (semptoma göre dobutamin,
+dopamin, noradrenalin, isoprenalin) dozu terapötik etkiye bağlıdır.
+Daha ileri tedavi gerektiğinde, klinik duruma ve tedaviyi yürüten hekimin kararına göre
+aşağıdaki ilaçlar intravenöz yoldan verilebilir.
+- Atropin,
+- İnotropik ajanlar,
+- Kalsiyum iyonları.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1. Farmakodinamik özellikler
+Farmakoterapötik grup: Selektif beta blokör ilaçlar
+ATC kodu: C07AB09
+Esmolol hidroklorür bir beta selektif (kardiyoselektif) adrenerjik reseptör blokaj ajanıdır.
+Terapötik dozlarda anlamlı bir intrensek sempatomimetik aktivite (ISA) ya da membran
+stabilizan etkinliği yoktur.
+ESMOBLOC’un etkin maddesi olan esmolol hidroklorür kimyasal olarak beta blokörlerin
+fenoksi propanolamin sınıfındandır.
+Farmakolojik özelliklerine bağlı olarak esmolol hidroklorürün etkisi hızla başlar ve dozunun
+hızlıca ayarlanabilmesine olanak verecek şekilde kısa sürer.
+12/17Uygun yükleme dozu kullanıldığında, kandaki kararlı durum düzeylerine 5 dakikada ulaşılır.
+Ancak terapötik etkiye stabil plazma konsantrasyonundan daha kısa sürede erişilir. Daha
+sonra istenen farmakolojik etkinin elde edilmesi için infüzyon oranı ayarlanabilir.
+Esmolol hidroklorür beta blokörlerin bilinen hemodinamik ve elektrofizyolojik etkilerine
+sahiptir:
+• İstirahat halinde ve egzersiz sırasında kalp hızında azalma;
+• İzoprenalin azalması sonucunda kalp hızında artış;
+• Sinoatriyal (SA) düğümün recovery süresinde uzama;
+• Atriyoventriküler (AV) iletide gecikme;
+• Atriyoventriküler (AV) aralığının normal sinüs ritmi ile ve His-Purkinje dokusunda
+gecikme olmadan atrium stimülasyonu sırasında uzama;
+• PQ süresinde uzama, evre II atriyoventriküler blok indüksiyonu;
+• Atriyum ve ventriküllerin fonksiyonel refraktör periyodunda uzama;
+• Azalmış ejeksiyon fraksiyonu ile negatif inotropik etki;
+• Kan basıncında azalma.
+Pediyatrik popülasyon
+Supraventriküler taşikardisi olan yaşları 2 ile 16 arasındaki 26 pediyatrik hastada kontrollü bir
+farmakokinetik/etkinlik çalışması yürütülmüştür. 1000 mikrogram/kg'lık bir esmolol
+hidroklorür yükleme dozu uygulandıktan sonra devamlı infüzyonla dakikada 300
+mikrogram/kg'lık dozla idame tedavisine geçilmiştir. Esmolol başlandıktan sonraki 5
+dakikada hastaların %65'inde supraventriküler taşikardi sonlanmıştır.
+Randomize olan ancak kontrolsüz bir doz karşılaştırması çalışmasında, yaşları 1 ile 7
+arasındaki 116 pediyatrik hastanın aorta koarktasyonu düzeltildikten sonra gelişen
+hipertansiyonda etkinlik araştırılmıştır. 125 mikrogram/kg'lık, 250 mikrogram/kg'lık ve 500
+mikrogram/kg'lık esmolol hidroklorür yükleme dozu uygulanan hastalarda daha sonra
+devamlı infüzyonla sırasıyla dakikada 125 mikrogram/kg, 250 mikrogram/kg ve 500
+mikrogram/kg'lık dozlarla idame tedavisine geçilmiştir. Her üç dozaj grubunda hipotansif etki
+açısından anlamlı bir fark görülmemiştir. Hastaların toplamda %54'ünde yeterli kan basıncı
+kontrolü sağlanması için esmolol hidroklorür dışında başka bir ilaç kullanılması gerekmiştir.
+Değişik doz gruplarında bu açıdan bir farklılık görülmemiştir.
+5.2. Farmakokinetik özellikler
+Emilim:
+İntravenöz uygulama sonrası maksimum plazma konsantrasyonuna süratle ulaşılır.
+Dağılım:
+Esmolol hidroklorürün dağılım yarılanma süresi yaklaşık 2 dakika gibi çok kısadır. Dağılım
+hacmi 3,4 L/kg'dır.
+Biyotransformasyon:
+13/17Esmolol hidroklorür esterazlar tarafından bir asit metaboliti (ASL-8123) ve metanole
+metabolize olur. Bu metabolizasyon, ester bağlarının eritrositlerin sitozollerindeki esterazlar
+tarafından hidrolizi yoluyla gerçekleşir.
+Esmolol hidroklorürün metabolizması dozunun 50 ile 300 mikrogram/kg/dakika olduğunda
+dozdan bağımsızdır.
+Esmolol hidroklorürün insan plazma proteinlerine %55 oranında bağlandığı, asit metabolitinin
+ise sadece %10 oranında bağlandığı gösterilmiştir.
+Eliminasyon:
+İntravenöz uygulama sonucu eliminasyon yarı ömrü yaklaşık 9 dakikadır.
+Toplam klerensi 285 ml/kg/dakikadır; toplam klerens karaciğer veya diğer organların
+dolaşımından bağımsızdır. Esmolol hidroklorür böbreklerden kısmen değişmeden (uygulanan
+miktarın %2'sinden azı) kısmen de zayıf bir beta blokör etkinliğe sahip asit metaboliti olarak
+(uygulanan miktarın %0,1'inden azı) atılır. Asit metabolit idrarla atılır ve eliminasyon yarı
+ömrü yaklaşık 3,7 saattir.
+Doğrusallık / doğrusal olmayan durum:
+Sağlıklı erişkinlerde esmolol kinetiği doğrusaldır. Bir yükleme dozu uygulanmazsa 50-300
+mikrogram/kg/dakikalık dozlarda uygulandığında, plazma sabitlenmiş düzeylerine ulaşım
+süresi dozla doğrusaldır.
+Hastalardaki karekteristik özellikler
+Pediyatrik popülasyon:
+Yaşları 3 ile 16 arasında olan 22 pediyatrik hastada bir farmakokinetik çalışma
+gerçekleştirilmiştir. 1000 mikrogram/kg'lık bir esmolol hidroklorür yükleme dozu
+uygulandıktan sonra devamlı infüzyonla dakikada 300 mikrogram/kg'lık dozla idame tedavisi
+uygulanmıştır. Çalışmada çocuklardaki esmolol hidroklorür kinetiğinin erişkinlerdekinden
+farklı olmadığına işaret edecek şekilde ortalama toplam vücut klerensi 119 ml/kg/dakika,
+ortalama dağılım hacmi 283 ml/kg ve ortalama terminal eliminasyon yarılanma ömrü 6,9
+dakika olarak gözlenmiştir. Ancak, çocuklarda bireysel değişkenliğin fazla olduğu
+gözlenmiştir.
+5.3. Klinik öncesi güvenlik verileri
+Hayvan çalışmalarında teratojenik etki gözlenmemiştir. Tavşanlarda olasılıkla esmolol
+hidroklorürün neden olduğu embriyotoksik bir etki (fötal rezorpsiyonda artış) gözlenmiştir.
+Bu etki terapötik dozun en az 10 katı yüksek dozlarda gözlenmiştir.
+Esmolol hidroklorürün fertilite üzerindeki etkileri ile perinatal ve postnatal etkilerini araştıran
+bir çalışma gerçekleştirilmemiştir. Esmolol hidroklorürün birkaç in vitro ve in vivo test
+sistemlerinde mutajenik olmadığı bulunmuştur. Esmolol hidroklorürün güvenilirliği uzun
+süreli çalışmalarla incelenmemiştir.
+14/176. FARMASÖTİK ÖZELLİKLER
+6.1. Yardımcı maddelerin listesi
+Sodyum asetat trihidrat
+Glasiyel asetik asit
+Sodyum klorür
+Sodyum hidroksit ve/veya hidroklorik asit – pH ayarı için
+Enjeksiyonluk su
+6.2. Geçimsizlikler
+Geçimlilik çalışmaları bulunmadığından, bu ilaç diğer ilaçlarla veya sodyum bikarbonat
+çözeltileriyle karıştırılmamalıdır.
+6.3. Raf ömrü
+24 ay.
+Açılan ürün 2-8°C arasında saklandığında 24 saat süreyle fizikokimyasal olarak stabildir.
+Mikrobiyolojik açıdan ürün torbası açıldıktan sonra hemen kullanılmalıdır. Hemen
+kullanılamadığı durumlarda, kullanılmaya başlamadan önceki saklama süre ve koşulları
+kullanıcının sorumluluğundadır. Bu süre 2-8°C arasında torbanın kontrollü ve valide edilmiş
+aseptik koşullarda açılmadığı durumlarda normalde 24 saatten uzun olamaz.
+6.4. Saklamaya yönelik özel tedbirler
+25ºC'nin altında oda sıcaklığında saklanmalıdır.
+Buzdolabında saklanmamalı ya da dondurulmamalıdır.
+Çözeltinin saklama koşulları için bölüm 6.3'e bakınız.
+6.5. Ambalajın niteliği ve içeriği
+Alüminyum dış torba içinde çift portlu 250 ml'lik 1 adet PP torba. Ürün setli ve setsiz formda
+piyasaya sunulmaktadır.
+6.6. Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+Kullanılmamış olan ürünler ya da atık materyaller “Tıbbi Atıkların Kontrolü Yönetmeliği“ ve
+“Ambalaj ve Ambalaj Atıklarının Kontrolü Yönetmeliği” ne uygun olarak imha edilmelidir.
+TORBA KULLANIM TALİMATI
+ESMOBLOC 10 mg/ml I.V. infüzyon için çözelti, 250 ml’lik PP-6280 torbalarda (biri torbaya
+ilaç uygulama için, diğeri torbadaki ilacın hastaya verilmesi için olan iki SFC çıkışlı non-
+lateks polipropilen torba) sunulmaktadır.
+ESMOBLOC 10 mg/ml I.V. infüzyon için çözeltinin torbasındaki ilaç uygulama için
+seçilen uç yalnızca torbadan ilk bolus uygulama için kullanılmalıdır; tekrarlanan bolus
+uygulaması için değildir. Bolus dozunu çekerken aseptik teknik kullanılmalıdır.
+ESMOBLOC 10 mg/ml I.V. infüzyon için çözeltiye hiçbir ilave ilaç eklenmemelidir. Her
+torba tek hastada kullanım içindir. İlaç uygulama çıkışının mühürü kırıldıktan ve torbadan
+15/17ilacın çekilmesinden sonra torbanın 24 saat içinde kullanılması gerekir. Çözeltinin
+kullanılmayan bölümü ve torbası yerel uygulamalar doğrultusunda imha edilmelidir. Kısmen
+kullanılmış torbaları yeniden kullanmayınız.
+Şekil 1. Çift SFC çıkışlı polipropilen torba
+DİKKAT
+Plastik torbalan seri bağlamalar için kullanmayınız. Bu tip kullanım ikinci kaptaki sıvının
+uygulanması tamamlanmadan önce birinci kaptan rezidüel havanın çekilmesine bağlı
+emboliye neden olabilir.
+AÇMAK İÇİN
+Kullanımdan hemen öncesine kadar dış ambalajından (dış torba) çıkarılmamalıdır. Dış torba
+daha önceden açılmışsa ya da hasar görmüşse kullanılmamalıdır. Dış torba nemi önleme
+amacını taşır. İç torba çözeltinin sterilitesini korur.
+Dış torba çentikli yerinden açılarak premiks torba çıkarılır. Bu aşamada plastik torba üzerinde
+görülebilen opasiteler, sterilizasyon prosesi sırasındaki nem absorbsiyonuna bağlıdır ve
+çözeltinin kalitesini veya güvenilirliğini etkilemez. Opaklık giderek azalacaktır.
+İç torba sıkıştırılarak küçük sızıntılar olup olmadığı kontrol edilir. Sızıntı varsa sterilizasyon
+etkilenmiş olacağından çözelti atılmalıdır. Uygulamadan önce partiküler madde ve renk
+değişikliği için solüsyon görsel olarak incelenir. Yalnızca berrak ve renksiz veya açık sarı
+renkli çözeltiler kullanılmalıdır.
+16/17ESMOBLOC 10 mg/ml I.V. infüzyon için çözelti'ye hiçbir ekstra madde eklenmemelidir.
+İNTRAVENÖZ UYGULAMA İÇİN HAZIRLIKLAR (aseptik teknik kullanılmalıdır)
+1. Premiks torba, asma yerinden bir askıya asılır.
+2. Torbanın alt tarafındaki uygulama çıkışından plastik koruyucu çıkartılır.
+3. Uygulama seti takılır; setle birlikte verilen talimata uyularak uygulamaya başlanır.
+7. RUHSAT SAHİBİ
+POLİFARMA İlaç San. ve Tic. A.Ş.
+Vakıflar OSB Mahallesi, Sanayi Caddesi, No:22/1 Ergene/TEKİRDAĞ
+Tel: 0 282 675 14 04
+Faks: 0 282 675 14 05
+8. RUHSAT NUMARASI
+2016/89
+9. İLK RUHSAT TARİHİ / RUHSAT YENİLEME TARİHİ
+İlk Ruhsat Tarihi: 17.02.2016
+Ruhsat Yenileme Tarihi:
+10. KÜB’ÜN YENİLENME TARİHİ
+17/17

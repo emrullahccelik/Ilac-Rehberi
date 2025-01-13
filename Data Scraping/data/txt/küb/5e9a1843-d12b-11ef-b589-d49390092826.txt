@@ -1,0 +1,437 @@
+KISA ÜRÜN BİLGİSİ
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+KAFESİT 20 mg/ml infüzyonluk ve oral çözelti
+2. KALİTATİF VE KANTİTATİF BİLEŞİMİ
+Etkin madde:
+Her ml’de 10 mg kafeine eşdeğer 20 mg kafein sitrat içerir.
+Her 3 ml’lik flakon 30 mg kafeine eşdeğer 60 mg kafein sitrat içerir.
+Yardımcı maddeler:
+Sodyum sitrat dihidrat 8.3 mg
+Yardımcı maddeler için, 6.1’e bakınız.
+3. FARMASÖTİK FORM
+Steril infüzyonluk çözelti ve oral çözelti.
+Renksiz, berrak çözelti.
+4. KLİNİK ÖZELLİKLER
+4.1. Terapötik endikasyonlar
+KAFESİT, gestasyon yaşı 28 ila <33 hafta arasında olan bebeklerdeki prematüre apnesinin
+kısa vadeli tedavisinde kullanılmaktadır.
+4.2. Pozoloji ve uygulama şekli
+Pozoloji/uygulama sıklığı ve süresi:
+Kafein sitrat tedavisine yenidoğan yoğun bakım konusunda deneyimli bir doktorun kontrolü
+altında başlanmalıdır. Tedavi sadece yeterli gözetim ve monitörizasyon olanaklarına sahip bir
+yenidoğan bakım ünitesinde uygulanmalıdır.
+Önceden tedavi görmemiş bebeklerde önerilen doz rejimi, enjektör infüzyon pompası veya
+diğer ölçülü infüzyon cihazları ile 30 dakikada yavaş intravenöz infüzyon şeklinde uygulanan
+kilogram başına 20 mg kafein sitrat yükleme dozudur. 24 saatlik bir aradan sonra, her 24
+saatte bir 10 dakika süreyle yavaş infüzyon şeklinde kilogram başına 5 mg idame dozu
+verilebilir. Alternatif olarak, kilo başına 5 mg idame dozları örneğin 24 saatte bir nazogastrik
+tüp ile oral yolla verilebilir.
+Kafein sitrat olarak ifade edilen enjeksiyon hacimleri ve uygulanan dozlar arasındaki ilişkiyi
+açıklayan aşağıdaki tabloda önerilen yükleme ve idame kafein sitrat dozları verilmiştir.
+Kafein baz olarak ifade edilen doz kafein sitrat olarak ifade edilen dozun yarısıdır (20 mg
+kafein sitrat 10 mg kafein baza eşdeğerdir).
+1 / 12Kafein Sitrat dozu Kafein Sitrat dozu Uygulama yolu Sıklık
+(hacim) (mg/kg vücut
+ağırlığı)
+Yükleme dozu 1.0 ml/kg 20 mg/kg intravenöz* (30 Bir kere
+vücut ağırlığı vücut ağırlığı dakika boyunca)
+veya oral yolla
+İdame dozu 0.25 ml/kg vücut 5 mg/kg intravenöz* (10 24 saatte bir **
+ağırlığı vücut ağırlığı dakika boyunca)
+veya oral olarak
+* şırınga infüzyon pompası kullanılarak
+**yükleme dozundan 24 saat sonra başlayarak
+Önerilen yükleme dozuna yeterli klinik yanıt vermeyen preterm bebeklerde, 24 saat sonra
+ikinci bir 10-20 mg/kg yükleme dozu verilebilir.
+Yeterli yanıt alınamaması durumunda, prematür yenidoğanlarda uzun yarılanma ömrü
+nedeniyle, kafeinin birikme potansiyeli ve post-menstrüasyon yaşına bağlı olarak progresif
+olarak kafein metabolizasyon kapasitesindeki artış göz önüne alınarak 10 mg/kg vücut ağırlığı
+dozunda, daha yüksek idame dozların kullanımı düşünülebilir (bakınız, bölüm 5.2). Klinik
+olarak gerektiğinde, kafeinin plazma düzeyleri izlenmelidir. Hastalar ikinci bir yükleme
+dozuna veya 10 mg/kg/gün idame dozuna yeterli yanıt vermezse prematürite apnesi tanısının
+tekrar düşünülmesi gerekebilir (bakınız bölüm 4.4).
+İntravenöz olarak verildiğinde, kafein sitrat sadece bir enjektör infüzyon pompası veya diğer
+bir ölçülü infüzyon cihazı ile kontrollü intravenöz infüzyon şeklinde verilmelidir. Kafein sitrat
+seyreltilmeden veya flakondan çekildikten hemen sonra 50 mg/ml glukoz (%5); veya 9 mg/ml
+sodyum klorür (%0.9) veya 100 mg/ml kalsiyum glukonat (%10) gibi steril infüzyon
+solüsyonları içinde seyreltilerek verilebilir (bakınız bölüm 6.6).
+Preterm bebeklerin büyük çoğunluğunda plazma kafein düzeylerinin rutin monitörizasyonu
+gerekmez. Bununla birlikte, yeterli klinik yanıt alınamaması veya toksisite bulguları
+durumlarında kafein plazma konsantrasyonlarının tedavi süresince periyodik olarak izlenmesi
+gerekebilir.
+Ek olarak, aşağıdaki riskli durumlarda plazma kafein konsantrasyonlarının rutin izlemini
+takiben tıbbi değerlendirmeye göre dozların ayarlanması gerekebilir:
+ Özellikle parenteral beslenen erken prematüre bebekler (gestasyonel yaş < 28 hafta
+ve/veya vücut ağırlığı <1000 g)
+ Hepatik ve renal yetmezliği olan bebekler (bakınız bölüm 4.4 ve 5.2)
+ Nöbet bozukluklukları olan bebekler
+ Bilinen ve klinik olarak belirgin kardiyak hastalığı olan bebekler
+ Eş zamanlı olarak kafein metabolizması ile etkileşimi olduğu bilinen ilaç alan bebekler
+(bakınız bölüm 4.5).
+ Emzirme döneminde kafein tüketen annelerin bebekleri
+Aşağıdaki durumlarda bazal kafein düzeylerinin ölçülmesi önerilir:
+ Doğum öncesi anneleri fazla miktarda kafein tüketmiş olabilecek bebekler (bakınız
+bölüm 4.4)
+ Daha önce teofilin tedavisi almış bebekler (teofilin kafeine metabolize olur)
+2 / 12Prematüre yenidoğanlarda kafein uzamış bir yarı ömre sahiptir ve uzun süre tedavi edilen
+bebeklerde monitörizasyonu gerektirebilecek şekilde birikme potansiyeli vardır (bakınız
+bölüm 5.2).
+Takip için kan örnekleri tedavi başarısızlığı durumunda bir sonraki dozdan hemen önce,
+toksisiteden şüphelenildiğinde önceki dozdan 2-4 saat sonra alınmalıdır.
+Literatürde bir terapötik plazma kafein konsantrasyonu aralığı belirlenmemişse de, klinik
+yarar ile ilişkili bulunan kafein düzeyleri 8-30 mg/l aralığındadır ve 50 mg/l altındaki plazma
+düzeylerinde herhangi bir güvenlilik sorunu oluşmamıştır.
+Tedavi süresi
+Optimal tedavi süresi belirlenmemiştir. Prematüre yenidoğan bebeklerde yapılan yeni, büyük
+bir çok merkezli çalışmada ortalama 37 günlük bir tedavi süresi bildirilmiştir. Klinik pratikte
+tedavi genellikle bebek 37 haftalık post-menstrüel yaşa (genellikle prematürite apnesinin
+kendiliğinden iyileştiği zaman) ulaşana dek sürdürülür. Bununla birlikte, tedavi yanıtına,
+tedaviye rağmen apne episodlarının sürmesine veya diğer klinik sorunlara bağlı olarak bazı
+vakalarda klinik değerlendirmeye göre, bu sınır yeniden gözden geçirilebilir. Hasta belirgin
+apne atağı olmadan 5-7 gün geçirdiğinde kafein sitrat uygulamasının kesilmesi önerilir.
+Eğer hastada tekrarlayan apne mevcutsa, kafein sitrat uygulamasına kafein sitratın
+kesilmesinden apnenin tekrarlamasına kadar geçen süreye bağlı olarak idame dozu veya
+yükleme dozunun yarısı ile yeniden başlanabilir.
+Bu hasta popülasyonunda kafeinin yavaş atılımı nedeni ile tedavinin kesilmesi sırasında doz
+azaltılmasına gerek yoktur.
+Kafein sitrat tedavisinin kesilmesinden sonra apnelerin tekrarlama riski bulunduğundan
+hastanın takibine yaklaşık bir hafta devam edilmelidir.
+Uygulama şekli:
+Kafein sitrat intravenöz ve oral yolla uygulanır. Ürün intramüsküler, subkutan, intratekal veya
+intraperitoneal enjeksiyonla uygulanmamalıdır.
+Oral yolla kullanılacağı zaman günde bir kez ağız yolu ile veya beslenme tüpü aracılığı ile
+verilir.
+Özel popülasyonlara ilişkin ek bilgiler:
+Böbrek/Karaciğer yetmezliği:
+Böbrek ve karaciğer yetmezliği olan hastalara ilişkin sınırlı deneyim bulunmaktadır. Bir
+pazarlama sonrası güvenlilik çalışmasında, organ yetmezliği bulunmayan prematüre
+bebeklerle karşılaştırıldığında böbrek/karaciğer yetmezliği olan az sayıda prematüre bebekte
+advers reaksiyon görülme sıklığı daha yüksek bulunmuştur (bakınız bölüm 4.4 ve 4.8).
+Renal yetmezlik durumunda artan birikme potansiyeli mevcuttur. Kafein sitratın günlük
+idame dozu azaltılmalıdır ve doz plazma kafein ölçümlerine göre ayarlanmalıdır.
+Pek çok prematüre bebekte, kafeinin klirensi hepatik fonksiyona bağlı değildir. Hepatik kafein
+metabolizması doğumu takip eden haftalarda progresif olarak gelişir ve daha büyük
+3 / 12bebeklerde, karaciğer hastalığı durumu kafein plazma düzeylerinin izlenmesini ve doz
+ayarlanmasını gerektirebilir (bakınız bölüm 4.4 ve 5.2).
+Pediyatrik popülasyon:
+Yenidoğan bebeklerde kullanım içindir.
+Geriyatrik popülasyon:
+Veri yoktur.
+4.3. Kontrendikasyonlar
+KAFESİT, içeriğindeki maddelerden herhangi birisine karşı aşırı hassasiyet gösteren
+hastalarda kontrendikedir.
+4.4. Özel kullanım uyarıları ve önlemleri
+Prematürite apnesi tanısı diğer apne nedenleri elenerek konulur. Diğer apne nedenleri (örn.
+merkezi sinir sistemi hastalıkları, primer akciğer hastalığı, anemi, sepsis, metabolik
+bozukluklar, kardiyovasküler anormallikler veya obstrüktif apne) dışlanmalı veya kafein sitrat
+tedavisinden önce uygun şekilde tedavi edilmelidir. Kafein tedavisine yanıt alınamaması
+(gerekiyorsa plazma düzeylerinin ölçülmesi ile doğrulanan) diğer bir apne nedenine işaret
+edebilir.
+Kafein kolayca plasentadan fetal dolaşıma geçtiğinden, doğumdan önce yüksek miktarda
+kafein alan annelerin bebeklerinde kafein sitrat tedavisine başlanmadan önce bazal plazma
+kafein konsantrasyonları ölçülmelidir (bakınız bölüm 4.2 ve 5.2).
+Kafein anne sütüne geçtiğinden (bakınız bölüm 5.2), kafein sitrat ile tedavi edilen
+yenidoğanları emziren anneler kafein içeren yiyecek, içecek veya ilaçları (bakınız bölüm 4.6)
+almamalıdır.
+Preterm bebekler teofilini kafeine metabolize ettikleri için, önceden teofilin tedavisi alan
+yenidoğanlarda, kafein sitrat tedavisine başlanmadan önce plazma kafein düzeyleri
+ölçülmelidir.
+Kafein bir merkezi sinir sistem stimülanıdır ve kafein doz aşımında nöbetler bildirilmiştir.
+Nöbet bozuklukları bulunan yenidoğanlarda kafein sitrat kullanırken çok dikkatli olunmalıdır.
+Yayınlanan çalışmalarda kafeinin kalp hızını, sol ventrikül debisini ve atım hacmini artırdığı
+gösterilmiştir. Bu nedenle, bilinen kardiyovasküler hastalığı olan yenidoğanlarda kafein sitrat
+dikkatli kullanılmalıdır. Duyarlı kişilerde kafeinin taşiaritmilere yol açtığına dair kanıtlar
+vardır. Yenidoğanlarda bu genellikle basit bir sinüs taşikardisidir. Bebek doğmadan önce
+kardiyotokograf (CTG) izleminde herhangi bir alışılmadık ritim bozukluğu varsa kafein sitrat
+dikkatli kullanılmalıdır.
+Renal veya hepatik fonksiyon bozukluğu olan preterm yenidoğanlarda kafein sitrat dikkatli
+uygulanmalıdır. Bir pazarlama sonrası güvenlilik çalışmasında, organ yetmezliği bulunmayan
+prematüre bebeklerle karşılaştırıldığında böbrek/karaciğer yetmezliği olan az sayıda
+prematüre bebekte advers reaksiyon görülme sıklığı daha yüksek bulunmuştur (bakınız bölüm
+4.2, 4.8 ve 5.2). Bu popülasyonda toksisiteden kaçınmak için dozlar kafein plazma
+konsantrasyonları izlenerek ayarlanmalıdır.
+4 / 12Prematüre yenidoğanlarda nekrotizan enterokolit yaygın bir morbidite ve mortalite nedenidir.
+Metilksantinlerin kullanımı ile nekrotizan enterokolit gelişimi arasında olası bir ilişkiden
+bahseden raporlar vardır. Bununla birlikte, kafein veya diğer metilksantinlerin kullanımı ile
+nekrotizan enterokolit arasında nedensel bir ilişki saptanmamıştır. Tüm preterm bebekler için
+olduğu gibi, kafein sitrat ile tedavi edilen bebekler nekrotizan enterokolit gelişimi açısından
+dikkatle izlenmelidir (bakınız bölüm 4.8).
+Tedavi bu durumu alevlendirebileceğinden gastroözofageal reflüsü olan bebeklerde kafein
+sitrat dikkatli kullanılmalıdır.
+Kafein sitrat metabolizmada genel bir artışa neden olur, bu durum tedavi süresince yüksek
+enerji ve beslenme gereksinimine yol açabilir.
+Kafein sitrat ile ortaya çıkan diürez ve elektrolit kaybı sıvı ve elektrolit bozukluklarının
+düzeltilmesini gerektirebilir.
+Bu tıbbi ürün doz başına 1 mmol’den düşük sodyum içerir (23 mg), yani aslında “sodyum
+içermez”.
+4.5. Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+Preterm yenidoğanlarda kafein ve teofilin arasında dönüşüm gerçekleşir. Bu etkin maddeler eş
+zamanlı kullanılmamalıdır.
+Sitokrom P450 1A2 (CYP1A2), insanlarda kafein metabolizmasında yer alan majör bir
+enzimdir. Dolayısıyla kafeinin CYP1A2’nin substratı olan, CYP1A2’yi inhibe eden veya
+CYP1A2’yi indükleyen ilaçlarla etkileşim potansiyeli bulunmaktadır. Bununla birlikte,
+preterm yenidoğanlardaki kafein metabolizması gelişmemiş hepatik enzim sistemleri
+nedeniyle sınırlıdır.
+Preterm yenidoğanlarda kafeinin diğer etkin maddelerle etkileşimine dair az veri bulunsa da,
+yetişkinlerde kafein atılımını azalttığı bildirilen etkin maddelerle (örn. simetidin ve
+ketokonazol) birlikte kullanımda daha az kafein sitrat dozları ve kafein atılımını artıran etkin
+maddelerle (örn. fenobarbital ve fenitoin) birlikte verildiğinde daha yüksek kafein sitrat
+dozları gerekebilir. Olası etkileşme şüphesi doğarsa, plazma kafein konsantrasyonları
+ölçülmelidir.
+Barsakta bakteriyel aşırı çoğalma nekrotizan enterokolit oluşumu ile ilişkili olduğundan,
+kafein sitratın gastrik asit sekresyonunu baskılayan tıbbi ürünlerle birlikte (antihistaminik H2
+reseptör blokörleri veya proton pompası inhibitörleri) kullanımı teorik olarak nekrotizan
+enterokolit riskini artırabilir (bakınız bölüm 4.4 ve 4.8).
+Kafeinin doksapram ile eş zamanlı kullanımı, kardiyo-respiratuvar ve merkezi sinir sistemi
+üzerindeki stimulan etkilerini artırabilir. Eş zamanlı kullanım gerekiyorsa, kardiyak ritim ve
+kan basıncı dikkatlice izlenmelidir.
+KAFESİT; asiklovir, furosemid, ibuprofen lizin, lorazepam, nitrogliserin ve oksasilin ile
+birlikte kullanılmamalıdır.
+5 / 124.6. Gebelik ve laktasyon
+Genel tavsiye:
+Gebelik kategorisi: C
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon):
+Veri yoktur.
+Gebelik dönemi:
+KAFESİT’in gebe kadınlarda kullanımına ilişkin yeterli veri mevcut değildir. Hayvanlar
+üzerinde yapılan araştırmalar üreme toksisitesinin bulunduğunu göstermiştir (bakınız 5.3).
+İnsanlara yönelik potansiyel risk bilinmemektedir.
+Hayvan çalışmalarında kafeinin yüksek dozlarda embriyotoksik ve teratojenik olduğu
+gösterilmiştir. Bu etkiler preterm bebek popülasyonunda kısa süreli uygulama ile ilişkili
+değildir (bakınız 5.3).
+Doğumdan önce anneleri fazla miktarda kafein tüketen yenidoğanlarda, kafein sitrat
+tedavisine başlanmadan önce bazal plazma kafein konsantrasyonları ölçülmelidir (bakınız
+4.4).
+Laktasyon dönemi:
+Kafein anne sütüne ve plasentadan kolayca fetal dolaşıma geçer (bakınız bölüm 5.2).
+Kafein sitrat ile tedavi edilen yenidoğanları emziren anneler kafein içeren yiyecek, içecek
+veya tıbbi ürünler almamalıdır.
+Üreme yeteneği/Fertilite:
+Veri yoktur.
+4.7. Araç ve makine kullanımı üzerindeki etkileri
+Geçerli değil.
+4.8. İstenmeyen etkiler
+Kafein ve diğer metilksantinlerin bilinen farmakoloji ve toksikolojisi nedeniyle kafein sitratın
+olası yan etkileri öngörülmektedir. Tanımlanan etkiler konvülsiyon, irritabilite, huzursuzluk
+ve gerginlik gibi merkezi sinir sistemi (MSS) stimülasyonunu ve taşikardi, aritmi,
+hipertansiyon ve atım hacmi artışı gibi kardiyak etkileri, hiperglisemi gibi metabolizma ve
+beslenme hastalıklarını içerir. Bu etkiler doza bağlıdır ve plazma düzeyi ölçümünü ve doz
+azaltımını gerektirebilir.
+Kafein sitrat ile bağlantılı olabilecek uzun süreli ve kısa süreli basılı literatürde bildirilen ve
+ruhsatlandırma sonrası bir güvenlilik çalışmasından elde edilen yan etkiler Sistem Organ
+Sınıfı ve Tercih Edilen Terim (MedDRA)’e göre aşağıda listelenmiştir.
+Sıklık şu şekilde ifade edilir: Çok yaygın (≥1/10), yaygın (≥1/100, <1/10), yaygın olmayan
+(≥1/1,000, 1/100), seyrek (≥1/10,000, < 1/1000), çok seyrek (<1/10000) , bilinmeyen (mevcut
+verilerden tahmin edilemeyen)
+Enfeksiyon ve enfestasyonlar
+Bilinmiyor: Sepsis
+Bağışıklık sistemi hastalıkları
+Seyrek: Hipersensitivite reaksiyonu
+6 / 12Metabolizma ve beslenme hastalıkları
+Yaygın: Hiperglisemi
+Bilinmiyor: Hipoglisemi, gelişme geriliği, beslenme intoleransı
+Sinir sistemi hastalıkları
+Yaygın olmayan: Konvülsiyon*
+Bilinmiyor: İrritabilite, gerginlik, huzursuzluk, beyin hasarı*
+Kulak ve iç kulak hastalıkları
+Bilinmiyor: Ağır işitme*
+Kardiyak hastalıklar
+Yaygın: Taşikardi
+Yaygın olmayan: Aritmi
+Bilinmiyor: Artmış sol ventriküler debi ve artmış atım hacmi
+Gastrointestinal hastalıklar
+Bilinmiyor: Regurjitasyon, artmış gastrik aspirat, nekrotizan enterokolit**
+Genel bozukluklar ve uygulama bölgesi bozuklukları
+Yaygın: İnfüzyon bölgesi flebiti, infüzyon bölgesi inflamasyonu
+Laboratuar parametreleri
+Bilinmiyor: İdrar miktarında artış, idrarda sodyum ve kalsiyum miktarında artış, hemoglobin
+düzeyinde azalma, tiroksin miktarında azalma
+*Beyin hasarı, konvülsiyon ve sağırlık gözlenmiştir fakat plasebo grubunda daha sıktır.
+**Aşağıya bakınız.
+Kafein eritropoetin sentezini baskılayabilir ve bu nedenle uzun süreli tedavide
+hemoglobin konsantrasyonunu düşürebilir.
+Tedavinin başlangıcında bebeklerde geçici tiroksin düşüşleri rapor edilmiştir, fakat
+idame tedavisinde bu düşüşler devam etmez.
+Mevcut kanıtlar nörogelişimsel sonuç, gelişme geriliği veya kardiyovasküler,
+gastrointestinal veya endokrin sistemler açısından neonatal kafein tedavisinin uzun
+süreli herhangi bir yan etkisini göstermemektedir. Olasılık hiçbir zaman dışlanamasa da
+kafein, serebral hipoksiyi ve buna bağlı beyin hasarını ağırlaştırmıyor görünmektedir.
+Nekrotizan enterokolit
+Prematüre yenidoğanlarda nekrotizan enterokolit yaygın bir morbidite ve mortalite nedenidir.
+Metilksantinlerin kullanımı ile nekrotizan enterokolit gelişimi arasında olası bir ilişkiden
+bahseden raporlar vardır. Bununla birlikte, kafein veya diğer metilksantinlerin kullanımı ile
+nekrotizan enterokolit arasında nedensel bir ilişki saptanmamıştır.
+85 preterm bebekte kafein sitrat ile yapılan bir çift kör plasebo kontrollü çalışmada (bakınız
+bölüm 5.1), çalışmanın kör evresinde aktif tedavideki iki bebekte ve plasebo grubundaki bir
+bebekte ve çalışmanın açık evresinde kafein tedavisindeki üç bebekte nekrotizan enterokolit
+tanısı konmuştur. Çalışmada nekrotizan enterokolit gelişen bebeklerden üçü ölmüştür. Kafein
+sitratla tedavi edilen prematüre bebeklerin uzun süreli sonuçlarını inceleyen büyük çok
+7 / 12merkezli bir çalışmada (n=2006) plasebo ile karşılaştırıldığında kafein grubunda artmış
+nekrotizan enterokolit sıklığı gözlenmemiştir. (bakınız bölüm 5.1). Tüm preterm bebekler için
+olduğu gibi, kafein sitrat ile tedavi edilen bebekler nekrotizan enterokolit gelişimi açısından
+dikkatle izlenmelidir (bakınız bölüm 4,4).
+Diğer özel popülasyonlar
+Kafein sitrat ile tedavi edilen 506 erken doğan bebek üzerinde yapılan bir ruhsatlandırma
+sonrası güvenlilik çalışmasında böbrek/karaciğer yetmezliği olan 31 prematüre bebekte
+güvenlilik verisi toplanmıştır. Advers reaksiyonlar organ yetmezliği bulunmayan bebekler ile
+karşılaştırıldığında organ yetmezliği bulunan alt gruptaki bebeklerde daha sık görülmüştür.
+Çoğunlukla kalp hastalıkları (taşikardi, tek bir vakada aritmi) rapor edilmiştir.
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir. (www.titck.gov.tr; e-
+posta: tufam@titck.gov.tr; tel: 800 314 00 08; faks: 0 312 218 35 99)
+4.9. Doz aşımı ve tedavisi
+Doz aşımı sonrasında, yayınlanmış plazma kafein düzeyleri yaklaşık 50 mg/l -350 mg/l
+arasında değişmiştir.
+Literatürde bildirilen kafein doz aşımı belirti ve bulguları hiperglisemi, hipokalemi,
+ekstremitelerin ince tremoru, huzursuzluk, hipertoni, opistotonus (uzun süre devam eden
+kasılma hali), tonik klonik hareketler, nöbetler, takipne, taşikardi, kusma, gastrik irritasyon,
+gastrointestinal hemoraji, yüksek ateş, gerginlik, kan üresinde ve beyaz kan hücre sayısında
+artış, amaçsız çene ve dudak hareketlerini içermektedir. İntraventiküler hemoraji ve uzun
+dönem nörolojik sekelle komplike olan bir kafein doz aşımı vakası bildirilmiştir. Preterm
+bebeklerde kafein doz aşımına bağlı ölüm bildirilmemiştir.
+Kafein doz aşımının tedavisi öncelikle semptomatik ve destek tedavisidir. Plazma potasyum
+ve glukoz konsantrasyonları monitörize edilmeli ve hipokalemi ve hiperglisemi
+düzeltilmelidir. Plazma kafein konsantrasyonlarının kan değişimi transfüzyonu ile azaldığı
+gösterilmiştir. Konvülsiyonlar intravenöz antikonvülzanlarla düzeltilebilir (diazepam veya
+fenobarbital sodyum veya fenobarbital gibi bir barbitürat ile).
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1 Farmakodinamik özellikler
+Farmakoterapötik grup: Ksantin Türevleri (SSS stimülanları)
+ATC kodu: N06BC01
+Kafein, yapısal olarak diğer metilksantinler, teofilin ve teobrominle ilişkilidir. Etkilerinin
+çoğu reseptör bağlanma testlerinde gösterilen ve bu endikasyonda terapötik olarak ulaşılan
+dozlara yakın konsantrasyonlarda gözlenen adenozin reseptör, A1 ve A2A alt tipleri,
+antagonizmasına atfedilir.
+Kafeinin ana etkisi merkezi sinir sistemi stimülasyonudur. Bu kafeinin prematürite
+apnesindeki etkisinin temelidir. Bu etki için çeşitli etki mekanizmaları öne sürülmüştür: (1)
+solunum merkezi stimülasyonu, (2) artmış dakika ventilasyonu, (3) hiperkapni eşiğinin
+8 / 12düşmesi, (4) hiperkapniye artmış yanıt, (5) artmış iskelet kası tonusu, (6) diyafram
+yorgunluğunda azalma, (7) artmış metabolizma hızı, ve (8) artmış oksijen tüketimi.
+Kafein sitratın klinik etkinliği prematürite apneli 85 preterm bebekte (gestasyonel yaş 28-33
+hafta) kafein sitratı plasebo ile karşılaştıran bir çok merkezli, randomize, çift kör çalışmada
+değerlendirilmiştir. Bebekler 20 mg/kg kafein sitrat yükleme dozunu intravenöz yolla almıştır.
+Sonrasında 10-12 güne kadar günlük 5 mg/kg kafein sitrat idame dozu intravenöz veya oral
+yolla (beslenme tüpü yoluyla) uygulanmıştır. Protokol apneleri kontrol edilemeyen bebeklerin
+açık-etiketli kafein sitrat tedavisine alınmalarına izin vermiştir. Bu durumda, bebekler
+1. tedavi gününden sonra ve 8. tedavi gününden önce ikinci bir 20 mg/kg kafein sitrat
+yükleme dozu almıştır.
+Kafein sitrat tedavisi altında daha çok apnesiz gün geçirilmiştir (plasebodaki 1.2 güne karşılık
+3.0 gün; p=0.005) ve ayrıca > 8 gün apnesiz hasta yüzdesi daha yüksek bulunmuştur (plasebo
+%0’a karşılık kafein %22).
+Yeni bir plasebo kontrollü çok merkezli çalışma (n=2006) kafein sitrat ile tedavi edilen
+prematüre bebeklerin uzun (18-22 ay) ve kısa dönem sonuçlarını incelemiştir. Kafein sitrata
+randomize edilen bebekler 20 mg/kg IV yükleme dozu ve sonrasında 5 mg/kg günlük idame
+dozu almıştır.
+Apneler devam ederse günlük idame dozu maksimum 10 mg/kg’a artırılmıştır. İdame dozları
+vücut ağırlığındaki değişikliklere göre haftalık olarak ayarlanmış ve bebek enteral beslenmeyi
+tolere ettiğinde oral olarak verilmiştir. Kafein tedavisi bronkopulmoner displazi oranını
+azaltmış [olasılık oranı (%95 Güven Aralığı) 0.63 (0.52- 0-76)] ve nörogelişimsel bozukluk
+olmaksızın sağkalım oranını artırmıştır [olasılık oranı (%95 Güven Aralığı) 0.77 (0.64 -
+0.93)].
+Destek alan bebeklerde daha fazla yararı gösterir şekilde, bebeklerin randomizasyon sırasında
+ihtiyaç duydukları solunum desteğinin derecesine bağlı olarak kafeinin ölüm ve engellilik
+üzerindeki etkilerinin boyutu ve yönü değişiklik göstermiştir [ölüm ve engellilik için olasılık
+oranı (%95 Güven Aralığı) aşağıdaki tabloya bakınız].
+Çalışmaya girişteki solunum desteğine göre ölüm veya engellilik
+Alt gruplar Olasılık oranı (%95 Güven Aralığı)
+Desteksiz 1.32 (0.81-2.14)
+İnvazif olmayan destek 0.73 (0.52-1.03)
+Endotrakeal tüp 0.73 (0.57-0.94)
+5.2 Farmakokinetik özellikler
+Genel özellikler
+Kafein sitrat sulu çözeltide kolayca çözünür. Sitrat bölümü infüzyon veya oral alımda hızla
+metabolize olur.
+Emilim:
+İnfüzyonun başlangıcından sonra dakikalar içinde kafeinin etkisi başlar. Preterm bebeklere
+10 mg kafein baz/kg oral uygulamasından sonra zirve plazma kafein konsantrasyonu (Cmax)
+6-10 mg/l arasında değişir ve zirve konsantrasyona ortalama ulaşma zamanı (tmax) 30 dk-
+2 saat arasında değişir. Emilim miktarı mama alımından etkilenmez fakat tmax uzayabilir.
+9 / 12Dağılım:
+Kafein sitrat uygulanmasından sonra kafein beyinde hızlı bir şekilde dağılır. Preterm
+yenidoğanların beyin omurilik sıvısındaki kafein konsantrasyonları plazma düzeylerine
+yakındır. Bebeklerde kafeinin ortalama dağılım hacmi (Vd, 0.8-0.9 l/kg) yetişkinlerdekinden
+biraz daha yüksektir (0.6 L/kg). Yenidoğan veya bebekler için plazma proteinlerine bağlanma
+verisi mevcut değildir. Yetişkinlerde, in vitro plazma proteinlerine bağlanma oranı ortalama
+%36 olarak bildirilmiştir.
+Kafein kolaylıkla plasentadan fetal dolaşıma ve anne sütüne geçer.
+Biyotransformasyon:
+Preterm yenidoğanlarda kafein metabolizması immatür hepatik enzimler nedeniyle oldukça
+sınırlıdır ve etkin maddenin çoğu idrarda atılır. Daha yaşlı bireylerde hepatik sitokrom P450
+1A2 (CYP1A2) kafein metabolizmasına katılır.
+Preterm yenidoğanlarda kafein ve teofilin arasında karşılıklı dönüşüm bildirilmiştir; teofilin
+uygulanmasından sonra kafein düzeyleri teofilin düzeylerinin yaklaşık %25’idir ve uygulanan
+kafeinin yaklaşık %3-8’inin teofiline dönüşmesi beklenir.
+Eliminasyon:
+Küçük bebeklerde kafeinin eliminasyonu immatür hepatik ve/veya renal fonksiyonlar
+nedeniyle yetişkinlerden yavaştır. Yenidoğanlarda, kafein klirensi neredeyse tamamen
+böbrekler yoluyladır. Ortalama yarı ömür (t1/2) ve kafeinin idrarda değişmeden atılan
+fraksiyonu (Ae) gestasyonel/postmenstrüel yaşla ters orantılıdır. Yenidoğanlarda t1/2 yaklaşık
+3-4 gündür ve Ae yaklaşık %86’dır (6 gün içinde). 9 aylıkken, kafein metabolizması
+yetişkinlerdekine yaklaşır (t1/2=5 saat ve Ae = %1).
+Karaciğer ve böbrek yetmezliği olan yenidoğanlarda kafeinin farmakokinetiğini araştıran
+çalışma yapılmamıştır.
+Belirgin renal yetmezlik bulunduğunda, birikme potansiyeli göz önüne alınarak, günlük idame
+kafein dozunun azaltılması gerekmektedir ve dozlar kan kafein ölçümlerini kılavuz almalıdır.
+Kolestatik hepatitli bebeklerde dozaja özel önem verilmesi gerektiğini düşündüren, normal
+varyasyon sınırlarının üzerindeki plazma konsantrasyonları ve uzamış bir kafein yarılanma
+ömrü saptanmıştır (bakınız bölüm 4.2 ve 4.4).
+5.3. Klinik öncesi güvenlik verileri
+Kafeinin tekrarlanan doz toksisite çalışmalarına dayanan klinik öncesi veriler, insanlarda
+majör zarara neden olmadığını göstermiştir. Bununla birlikte yüksek dozlarda kemirgenlerde
+konvülsiyonlar tetiklenmiştir. Terapötik dozlarda yenidoğan sıçanlarda büyük olasılıkla
+yetişkinliğe kadar devam eden adenozin reseptör artışının bir sonucu olarak bazı davranışsal
+değişiklikler indüklenmiştir. Kafeinin mutajenik ve onkojenik riske sahip olmadığı
+gösterilmiştir. Teratojenik potansiyel ve hayvanlarda gözlenen üreme performansı üzerine
+etkiler preterm bebek popülasyonundaki endikasyonuyla ilgili değildir.
+6. FARMASÖTİK ÖZELLİKLER
+6.1. Yardımcı maddelerin listesi
+Sitrik asit monohidrat
+Sodyum sitrat dihidrat
+Enjeksiyonluk su
+10 / 126.2. Geçimsizlikler
+Bu tıbbi ürün bölüm 6.6’da belirtilenler hariç diğer tıbbi ürünlerle karıştırılmamalı ve aynı
+intravenöz yoldan eş zamanlı olarak verilmemelidir.
+6.3. Raf ömrü
+60 ay
+Flakonu açtıktan sonra ürün hemen kullanılmalıdır.
+Mikrobiyolojik açıdan, infüzyon çözeltileri ile verilirken ürün aseptik teknikle seyreltildikten
+sonra hemen kullanılmalıdır.
+6.4. Saklamaya yönelik özel tedbirler
+25OC altındaki oda sıcaklığında saklayınız.
+Seyreltilmiş ürünün saklama koşulları için bölüm 6.3’e bakınız.
+6.5. Ambalajın niteliği ve içeriği
+KAFESİT, teflon kaplı kauçuk tıpa ve flip-off aluminyum kapsül ile kapatılmış renksiz cam
+(Tip I) flakon içerisinde pazarlanmaktadır.
+Her bir kutuda 3 ml’lik bir veya on flakon bulunmaktadır.
+6.6. Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+Herhangi bir koruyucu olmadığından bu ürünün kullanımı boyunca aseptik teknik sıkı bir
+şekilde gözetilmelidir.
+Uygulamadan önce kafein sitrat partikül maddeler ve renk değişimi açısından görsel olarak
+incelenmelidir. Rengi değişmiş solüsyon veya görünür partikül içeren flakonları imha ediniz.
+Kafein sitrat seyreltilmeden veya flakondan çekildikten hemen sonra 50 mg/ml glukoz (%5) ;
+veya 9 mg/ml sodyum klorür (%0.9) veya 100 mg/ml kalsiyum glukonat (%10) gibi steril
+infüzyon solüsyonları içinde seyreltilerek kullanılabilir.
+Seyreltilmiş çözelti berrak ve renksiz olmalıdır. Uygulamadan önce tüm parenteral çözeltiler
+partikül maddeler ve renk değişimi açısından görsel olarak incelenmelidir. Hazırlanan ürün
+renk değiştirmişse veya yabancı partikül maddeler içeriyorsa kullanmayınız.
+Sadece tek kullanım içindir. Flakonda kalan tüm kullanılmayan kısmı imha ediniz.
+Kullanılmayan kısımları daha sonra kullanmak için saklamayınız.
+İmha için özel şartlar mevcut değildir.
+Kullanılmamış olan ürünler ya da atık materyaller “Tıbbi Atıkların Kontrolü Yönetmeliği” ve
+“Ambalaj Atıklarının Kontrolü Yönetmelikleri”ne uygun olarak imha edilmelidir.
+11 / 127. RUHSAT SAHİBİ
+Berko İlaç ve Kimya Sanayi A.Ş.
+Yenişehir Mah. Özgür Sok. No: 16-18 Ataşehir/İstanbul
+0 216 456 65 70 (Pbx)
+0 216 456 65 79 (Faks)
+info@berko.com.tr
+8. RUHSAT NUMARASI
+241/95
+9. İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi: 26.04.2012
+Ruhsat yenileme tarihi:
+10. KÜB’ÜN YENİLENME TARİHİ
+12 / 12

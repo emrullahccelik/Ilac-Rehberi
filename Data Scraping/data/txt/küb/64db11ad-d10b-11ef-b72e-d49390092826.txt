@@ -1,0 +1,1461 @@
+KISA ÜRÜN BİLGİSİ
+▼Bu ilaç ek izlemeye tabidir. Bu üçgen yeni güvenlilik bilgisinin hızlı olarak belirlenmesini
+sağlayacaktır. Sağlık mesleği mensuplarının şüpheli advers reaksiyonları TÜFAM’a
+bildirmeleri beklenmektedir. Bakınız Bölüm 4.8 Advers reaksiyonlar nasıl raporlanır?
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+REVOPAG 12,5 mg film kaplı tablet
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde:
+Her bir film kaplı tablet 12,5 mg eltrombopaga eşdeğer 15,09 mg eltrombopag seskietanolamin
+içerir.
+Yardımcı maddeler:
+Yardımcı maddeler için 6.1’e bakınız.
+3. FARMASOTİK FORM
+Film kaplı tablet.
+Beyaz, yuvarlak, bikonveks film kaplı tablet.
+4. KLİNİK ÖZELLİKLER
+4.1. Terapötik endikasyonlar
+REVOPAG, diğer tedavilere (örn., kortikosteroidler, immünoglobulinler) dirençli olan primer
+immün trombositopenili (ITP) yetişkin hastaların tedavisinde endikedir (bkz. Bölüm 4.2 ve
+5.1).
+REVOPAG, tanıdan itibaren 6 ay veya daha uzun süren primer immün trombositopeni (ITP)
+olan ve diğer tedavilere (örn., kortikosteroidler, immünoglobulin) dirençli 1 yaş ve üzeri
+pediyatrik hastaların tedavisinde endikedir (bkz. Bölüm 4.2 ve 5.1).
+REVOPAG, trombositopeni tedavisi için kronik hepatit C virüsü (HCV) enfeksiyonu olan
+erişkin hastalarda endikedir; burada trombositopeninin derecesi, optimal interferon bazlı
+tedavinin başlatılmasını engelleyen veya devam ettirilmesini sınırlayan ana faktördür (bkz.
+Bölüm 5.1).
+4.2. Pozoloji ve uygulama şekli
+Pozoloji/uygulama sıklığı ve süresi:
+Eltrombopag tedavisi hematolojik hastalıkların tedavisinde veya kronik hepatit C ve
+komplikasyonlarının tedavisinde deneyimli bir hekim gözetiminde başlatılmalı ve hekim
+gözetiminde kalmalıdır.
+1 / 40Eltrombopag dozu hastanın trombosit sayımına göre bireysel olarak ayarlanmalıdır.
+Eltrombopag ile tedavide amaç trombosit sayılarının normale çekilmesi değildir.
+Oral süspansiyon tozu, tablet formülasyonundan daha yüksek eltrombopag maruziyetine neden
+olabilir (bkz. Bölüm 5.2). Oral süspansiyon formülasyonları için toz ve tablet arasında geçiş
+yaparken, trombosit sayıları 2 hafta boyunca haftalık olarak izlenmelidir.
+İmmün (primer) trombositopeni
+≥ 50.000/mikrolitre’lik bir trombosit sayımına ulaşmak ve bunu sürdürmek için en düşük
+eltrombopag dozu kullanılmadır. Doz ayarlamaları trombosit sayım yanıtını temel almaktadır.
+Trombosit sayılarını normal düzeye getirmek için eltrombopag kullanmayınız. Klinik
+çalışmalarda trombosit sayıları genel olarak eltrombopag başlatıldıktan sonraki 1 ila 2 hafta
+içinde yükselmekte ve ilacın bırakılmasından sonra 1 ila 2 hafta içinde düşmektedir.
+Yetişkinler ve 6 ila 17 yaş arası pediyatrik popülasyon
+Eltrombopag için önerilen başlangıç dozu günde bir kez alınan 50 mg’dır. Doğu-/Güneydoğu-
+Asya kökenli hastalar için eltrombopag dozu düşürülerek tedaviye günde bir kez 25 mg dozu
+ile başlanmalıdır (bkz. Bölüm 5.2).
+1 ila 5 yaş arası pediyatrik popülasyon
+Eltrombopag için önerilen başlangıç dozu günde bir kez alınan 25 mg’dır.
+Takip ve doz ayarlaması
+Eltrombopag tedavisine başlandıktan sonra kanama riskinin azaltılması için gerektiğinde dozu
+trombosit sayımını ≥ 50.000/mikrolitre olması ve bu düzeyin korunması için ayarlayınız.
+Günlük doz 75 mg’ı aşmamalıdır.
+Klinik hematoloji ve karaciğer testleri eltrombopag tedavisi boyunca düzenli şekilde izlenmeli
+ve eltrombopag doz rejimi Tablo l’de belirtildiği gibi trombosit sayımlarına göre
+değiştirilmelidir. Eltrombopag ile tedavi sırasında trombosit sayımı ve periferik kan yayması
+dahil tam kan sayımları (CBC), stabil trombosit sayımı (en az 4 hafta ≥ 50.000/mikrolitre) elde
+edilene kadar haftada bir değerlendirilmelidir. Trombosit sayımı ve periferik kan yayması dahil
+CBC daha sonra ayda bir yapılmalıdır.
+Tablo 1: ITP hastalarında eltrombopag dozunun ayarlanması
+Trombosit Sayımı Dozun ayarlanması veya yanıt
+En az 2 haftalık tedaviyi takiben Günlük doz 25 mg basamaklarla maksimum
+< 50.000/mikrolitre 75 mg/gün’e çıkarılmalıdır.*
+≥ 50.000/mikrolitre ila ≤ 150.000/mikrolitre Kanamanın önlenmesi veya azaltılması için
+gerekli trombosit sayısının sağlanması için
+en düşük dozda eltrombopag ve/veya eş
+zamanlı ITP tedavisi uygulanmalıdır.
+2 / 40> 150.000/mikrolitre ila ≤ 250.000/mikrolitre Günlük doz 25 mg basamaklarla
+azaltılmalıdır. Bu değişiklik ve sonraki
+herhangi bir doz ayarlamasının etkisinin
+değerlendirilmesi için 2 hafta bekleyiniz.◆
+> 250.000/mikrolitre Eltrombopag tedavisini kesiniz; trombosit
+izlem sıklığını haftada iki kereye çıkarınız.
+Trombosit sayımı ≤ 100.000/mikrolitre
+düzeyinde olduğunda tedaviyi günlük dozu
+25 mg azaltarak yeniden başlatınız.
+*Günaşırı 25 mg eltrombopag kullanan hastalarda doz günde bir kez 25 mg’a yükseltilir.
+◆ Günde bir kez 25 mg eltrombopag kullanan hastalarda günde bir kez 12,5 mg dozunu vermek ya da
+alternatif olarak günaşırı 25 mg dozunu vermek düşünülmelidir.
+Eltrombopag diğer ITP ürünlerine ek olarak uygulanabilir. Eltrombopag ile tedavi sırasında
+trombosit sayımlarında aşırı artışların önlenmesi için tıbbi açıdan uygun durumda eş zamanlı
+olarak kullanılan ITP ürünlerinin doz rejimini değiştiriniz.
+Dozda başka bir ayarlama yapılmadan önce, hastanın trombosit düzeyinde önceki doz
+ayarlamasının etkisinin görülmesi için en az iki hafta bekleyiniz.
+Standart eltrombopag doz ayarlaması (artırma veya azaltma) günde bir kez 25 mg’dır.
+Tedavinin kesilmesi
+Trombosit sayımları, günde bir kez 75 mg dozunda eltrombopag tedavisi ile 4 haftanın ardından
+klinik açıdan önemli kanamanın önlenmesi için yeterli düzeye çıkmazsa eltrombopag tedavisi
+kesilmelidir.
+Hastalar periyodik olarak klinik açıdan değerlendirilmeli ve tedaviye devam edilmesi kararı
+tedaviyi uygulayan hekim tarafından bireysel olarak verilmelidir. Splenektomi yapılmamış
+hastalarda bu, splenektomiye göre değerlendirmeyi içermelidir. Tedavinin kesilmesiyle
+trombositopeninin yeniden ortaya çıkması olasıdır (bkz. Bölüm 4.4).
+Kronik hepatit C (HCV) ile ilişkili trombositopeni
+Eltrombopag antivirallerle kombinasyon halinde verildiğinde, ilgili güvenlik bilgileri veya
+kontrendikasyonların kapsamlı ayrıntıları için birlikte uygulanan tıbbi ürünlerin ayrı ayrı kısa
+ürün bilgilerine atıfta bulunulmalıdır.
+Klinik çalışmalarda trombosit sayıları genellikle eltrombopag başladıktan sonraki 1 hafta içinde
+artmaya başlamıştır. Eltrombopag ile tedavinin amacı, klinik uygulama önerilerine bağlı
+kalarak, antiviral tedaviyi başlatmak için gereken minimum trombosit sayısı düzeyine ulaşmak
+olmalıdır. Antiviral tedavi sırasında tedavinin amacı trombosit sayısını kanama
+komplikasyonları riskini önleyen bir seviyede, normalde 50.000-75.000/mikrolitre civarında
+tutmak olmalıdır. Trombosit sayısı > 75.000/mikrolitre’den kaçınılmalıdır. Hedeflere ulaşmak
+3 / 40için gereken en düşük eltrombopag dozu kullanılmalıdır. Doz ayarlamaları trombosit sayısı
+yanıtına dayalıdır.
+Başlangıç doz rejimi
+Eltrombopag günde bir kez 25 mg’lık bir dozda başlatılmalıdır. Doğu/Güneydoğu Asya kökenli
+HCV hastaları veya hafif karaciğer yetmezliği olan hastalar için doz ayarlaması gerekli değildir
+(bkz. Bölüm 5.2).
+İzlem ve doz ayarlaması
+Eltrombopag dozu, antiviral tedaviyi başlatmak için gereken hedef trombosit sayısına ulaşmak
+için gerektiğinde her 2 haftada bir 25 mg’lık artışlarla ayarlanmalıdır. Antiviral tedaviye
+başlamadan önce trombosit sayıları her hafta izlenmelidir. Antiviral tedavinin başlangıcında
+trombosit sayısı düşebilir, bu nedenle ani eltrombopag doz ayarlamalarından kaçınılmalıdır
+(bkz. Tablo 2).
+Antiviral tedavi sırasında, hastaları kanama riskine sokabilecek trombosit sayılarının azalması
+nedeniyle peginterferon dozunun azaltılmasını önlemek için eltrombopag dozu gerektiği
+şekilde ayarlanmalıdır (bkz. Tablo 2). Trombosit sayıları, antiviral tedavi sırasında, normalde
+50.000-75.000/mikrolitre civarında, stabil bir trombosit sayısı elde edilene kadar haftalık olarak
+izlenmelidir. Trombosit sayıları ve periferik kan yaymalarını içeren CBC’ler daha sonra aylık
+olarak alınmalıdır. Trombosit sayısı gerekli hedefi aşarsa, günlük dozda 25 mg basamaklarla
+doz azaltılması düşünülmelidir. Bunun ve sonraki doz ayarlamalarının etkilerini
+değerlendirmek için 2 hafta beklenmesi önerilir.
+Günde bir kez 100 mg eltrombopag dozu aşılmamalıdır.
+Tablo 2: HCV hastalarında antiviral tedavi sırasında eltrombopag doz ayarlamaları
+Trombosit Sayımı Dozun ayarlanması veya yanıt
+En az 2 haftalık tedaviyi takiben Günlük doz 25 mg basamaklarla maksimum
+< 50.000/mikrolitre 100 mg/gün’e çıkarılmalıdır.
+≥ 50.000/mikrolitre ila ≤ 100.000/mikrolitre Peginterferon dozunun azaltılmasını
+önlemek için gereken en düşük dozda
+eltrombopag kullanınız.
+> 100.000/mikrolitre ila ≤ 150.000/mikrolitre Günlük dozu 25 mg azaltın. Bunun ve
+sonraki doz ayarlamalarının etkilerini
+değerlendirmek için 2 hafta bekleyiniz◆.
+> 150.000/mikrolitre Eltrombopag tedavisini kesiniz; trombosit
+izlem sıklığını haftada iki kereye çıkarınız.
+Trombosit sayımı ≤ 100.000/mikrolitre
+düzeyinde olduğunda tedaviyi günlük dozu
+25 mg azaltarak yeniden başlatınız*.
+* Günde bir kez 25 mg eltrombopag alan hastalar için, dozun günaşırı 25 mg olarak yeniden başlatılması
+düşünülmelidir.
+4 / 40◆ Antiviral tedavinin başlangıcında trombosit sayısı düşebilir, bu nedenle eltrombopag dozunun ani
+azaltılmasından kaçınılmalıdır.
+Tedavinin kesilmesi
+2 haftalık 100 mg eltrombopag tedavisinden sonra antiviral tedaviyi başlatmak için gereken
+trombosit düzeyine ulaşılamazsa, eltrombopag kesilmelidir.
+Eltrombopag tedavisi, aksi belirtilmediği sürece, antiviral tedavi kesildiğinde
+sonlandırılmalıdır. Aşırı trombosit sayısı yanıtları veya önemli karaciğer testi anormallikleri de
+tedavinin kesilmesini gerektirir.
+Uygulama şekli:
+Tabletler oral yolla alınmalıdır.
+Tabletler, antasitler, süt ürünleri (veya diğer kalsiyum içeren gıda ürünleri) veya çok değerlikli
+katyonlar (örneğin demir, kalsiyum, magnezyum, alüminyum, selenyum ve çinko) içeren
+mineral takviyeleri gibi herhangi bir üründen en az iki saat önce veya dört saat sonra alınmalıdır.
+(bkz. Bölüm 4.5 ve 5.2).
+Özel popülasyonlara ilişkin ek bilgiler:
+Böbrek yetmezliği:
+Böbrek yetmezliği olan hastalarda dozun ayarlanması gerekli değildir. Böbrek yetmezliği olan
+hastalarda eltrombopag dikkatli kullanılmalı ve hastalar (örneğin serum kreatinin testi ve/veya
+idrar analizi) ile yakından izlenmelidir (bkz. Bölüm 5.2).
+Karaciğer yetmezliği:
+Eltrombopag, beklenen yarar, portal venöz tromboz için tanımlanan riskten daha fazla
+olmadıkça karaciğer yetmezliği olan ITP hastalarında (Child-Pugh ≥ 5) kullanılmamalıdır (bkz.
+Bölüm 4.4).
+Karaciğer yetmezliği olan ITP hastalarında eltrombopag kullanımı gerekliyse başlangıç dozu
+günde bir kez alınan 25 mg olmalıdır. Karaciğer yetmezliği olan hastalarda eltrombopag
+başlanmasının ardından, doz artırmadan önce 3 hafta bekleyiniz.
+Kronik HCV ve hafif karaciğer yetmezliği (Child-Pugh skoru ≤ 6) olan trombositopenik
+hastalarda doz ayarlaması gerekli değildir. Kronik HCV hastalarına günde bir kez 25 mg’lık bir
+dozda eltrombopag başlatılmalıdır (bkz. Bölüm 5.2). Karaciğer yetmezliği olan hastalarda
+eltrombopag dozuna başlandıktan sonra, doz artırılmadan önce 2 hafta ara verilmelidir.
+Eltrombopag ile tedavi edilen ilerlemiş kronik karaciğer hastalığı olan trombositopenik
+hastalarda, ya invaziv prosedüre hazırlanırken ya da antiviral tedavi gören HCV hastalarında,
+hepatik dekompansasyon ve tromboembolik olaylar (TEE’ler) dahil olmak üzere advers olaylar
+için artan bir risk vardır (bkz. Bölüm 4.4 ve 4.8).
+5 / 40Pediyatrik popülasyon:
+Eltrombopag güvenlik ve etkililiğe ilişkin verilerin yetersiz olması nedeniyle, ITP’li bir yaşın
+altındaki çocuklarda kullanılması önerilmemektedir. Kronik HCV ile ilişkili trombositopenisi
+olan ve şiddetli aplastik anemi (SAA) hastası çocuklarda ve ergenlerde (< 18 yaş)
+eltrombopagın güvenliliği ve etkililiği belirlenmemiştir. Veri mevcut değildir.
+Geriyatrik popülasyon:
+65 yaş ve üzeri ITP hastalarında eltrombopag kullanımına ilişkin sınırlı veri vardır ve 85 yaş
+üstü ITP hastalarında klinik deneyim yoktur. Eltrombopag ile ilgili klinik çalışmalarda, en az
+65 yaşındaki hastalar ve daha genç hastalar arasında eltrombopag güvenliğinde genel olarak
+klinik olarak anlamlı bir farklılık gözlenmemiştir. Bildirilen diğer klinik deneyimler, yaşlılar
+ve genç hastalar arasındaki yanıtlardaki farklılıkları belirlememiştir, ancak bazı yaşlı hastalarda
+daha fazla duyarlılık göz ardı edilemez (bkz. Bölüm 5.2).
+75 yaş üstü HCV’li hastalarda eltrombopag kullanımına ilişkin sınırlı veri bulunmaktadır. Bu
+hastalarda dikkatli olunmalıdır.
+Doğu-/Güneydoğu-Asyalı hastalar:
+Karaciğer yetmezliği olanlar da dahil olmak üzere Doğu/Güneydoğu Asya kökenli yetişkin ve
+pediyatrik hastalarda eltrombopag günde bir kez 25 mg’lık bir dozda başlatılmalıdır (bkz.
+Bölüm 5.2).
+Hasta trombosit sayısı izlenmeye devam edilmeli ve daha fazla doz değişikliği için standart
+kriterler izlenmelidir.
+4.3. Kontrendikasyonlar
+Eltrombopag veya bölüm 6.1’de listelenen yardımcı maddelerde herhangi birine karşı aşırı
+duyarlılık varsa.
+4.4. Özel kullanım uyarıları ve önlemleri
+İnterferon bazlı tedavi ile kombinasyon halinde eltrombopag tedavisi uygulandığında düşük
+albümin seviyeleri ≤ 35 g/L veya son dönem karaciğer hastalığı modeli (MELD) skoru ≥ 10
+ile tanımlanan, ilerlemiş kronik karaciğer hastalığı olan trombositopenik HCV hastalarında,
+potansiyel olarak ölümcül hepatik dekompansiyon ve tromboembolik olaylar dahil olmak
+üzere advers reaksiyonlar için artan bir risk vardır. Ek olarak, plaseboya kıyasla kalıcı
+virolojik yanıt (SVR) elde etme oranı açısından tedavinin yararları, grubun geneliyle
+karşılaştırıldığında bu hastalarda (özellikle başlangıç albümini ≤ 35g/L olanlar için) orta
+düzeydedir. Bu hastalarda eltrombopag ile tedavi, yalnızca ilerlemiş HCV tedavisinde
+deneyimli doktorlar tarafından ve yalnızca trombositopeni veya antiviral tedavinin
+durdurulması riskleri müdahale gerektirdiğinde başlatılmalıdır. Tedavinin klinik olarak
+endike olduğu düşünülürse, bu hastaların yakından izlenmesi gerekir.
+6 / 40Doğrudan etkili antiviral ajanlarla kombinasyon
+Kronik hepatit C enfeksiyonunun tedavisi için onaylanmış doğrudan etkili antiviral ajanlarla
+kombinasyon halinde güvenlik ve etkinlik oluşturulmamıştır.
+Hepatotoksisite riski
+Eltrombopag uygulaması anormal karaciğer fonksiyonuna ve yaşamı tehdit edebilecek ciddi
+hepatotoksisiteye neden olabilir (bkz. Bölüm 4.8).
+Serum alanin aminotransferaz (ALT), aspartat aminotrasferaz (AST) ve bilirubin, eltrombopag
+başlamadan önce, doz ayarlama aşamasında 2 haftada bir ve stabil bir dozun oluşturulmasından
+sonra ayda bir ölçülmelidir. Eltrombopag, dolaylı hiperbilirubinemiye yol açabilen UGT1A1
+ve OATP1B1’i inhibe eder. Bilirubin yükselmişse fraksiyonasyon yapılmalıdır. Anormal serum
+karaciğer testleri, 3 ila 5 gün içinde tekrar testi ile değerlendirilmelidir. Anormallikler
+doğrulanırsa, anormallikler düzelene, stabilize olana veya başlangıç seviyelerine dönene kadar
+serum karaciğer testleri izlenmelidir. ALT seviyeleri yükselirse (karaciğer fonksiyonu normal
+olan hastalarda normalin üst sınırının [x ULN] ≥ 3 katı veya tedavi öncesinde transaminazlarda
+yükselmeler hastalarda ≥ 3 x başlangıç veya > 5 x ULN (hangisi düşükse)) ve aşağıdaki
+özellikler söz konusu ise eltrombopag kesilmelidir:
+ Progresif nitelikteyse veya,
+ ≥ 4 hafta sürerse veya,
+ Artmış direkt bilirubin eşlik ederse veya,
+ Karaciğer hasarının klinik semptomları veya hepatik dekompansasyon kanıtı eşlik ederse.
+Karaciğer hastalığı olan hastalara eltrombopag uygulanırken dikkatli olunmalıdır. ITP’li
+hastalarda daha düşük bir başlangıç dozunda eltrombopag kullanılmalıdır. Karaciğer yetmezliği
+olan hastalara uygulanırken yakın takip gereklidir (bkz. Bölüm 4.2).
+Hepatik dekompansasyon (interferon ile kullanım)
+Kronik hepatit C’si olan hastalarda hepatik dekompansasyon: Düşük albümin düzeyleri (≤ 35
+g/L) olan veya başlangıçta MELD skoru ≥ 10 olan hastalarda izleme gereklidir.
+Karaciğer sirozu olan kronik HCV hastaları, alfa interferon tedavisi alırken hepatik
+dekompansasyon riski altında olabilir. HCV’li trombositopenik hastalarda yapılan iki kontrollü
+klinik çalışmada, hepatik dekompansasyon (assit, hepatik ensefalopati, varis kanaması, spontan
+bakteriyel peritonit) eltrombopag kolunda (%11) plasebo kolundan (%6) daha sık meydana
+gelmiştir. Albümin düzeyleri düşük (≤ 35 g/L) veya başlangıçta MELD skoru ≥ 10 olan
+hastalarda, daha az ilerlemiş karaciğer hastalığı olanlara kıyasla 3 kat daha fazla hepatik
+dekompansasyon riski ve ölümcül advers olay riskinde bir artış vardır. Ek olarak, plaseboya
+kıyasla SVR’ye ulaşma oranı açısından tedavinin yararları, grubun geneline kıyasla bu
+hastalarda (özellikle başlangıç albümini ≤ 35 g/L olanlar için) tutarlıdır. Eltrombopag, bu tür
+hastalara ancak risklerle karşılaştırıldığında beklenen faydaların dikkatli bir şekilde
+değerlendirilmesinden sonra uygulanmalıdır. Bu özelliklere sahip hastalar, hepatik
+dekompansasyon belirti ve semptomları açısından yakından izlenmelidir. Durdurma kriterleri
+7 / 40için interferon kısa ürün bilgisine başvurulmalıdır. Hepatik dekompansasyon nedeniyle
+antiviral tedavi kesilirse eltrombopag sonlandırılmalıdır.
+Trombotik/tromboembolik komplikasyonlar
+İnterferon bazlı tedavi alan HCV’li trombositopenik hastalarda (n=1.439) yapılan kontrollü
+çalışmalarda, eltrombopag ile tedavi edilen 955 hastadan 38’i (%4) ve plasebo grubundaki 484
+hastadan 6’sı (%1) TEE yaşamıştır. Bildirilen trombotik/tromboembolik komplikasyonlar hem
+venöz hem de arteriyel olayları içermiştir. TEE’lerin çoğunluğu ciddi değildir ve çalışmanın
+sonunda çözülmüştür. Portal ven trombozu, her iki tedavi grubunda da en yaygın TEE’dir
+(plasebo için < %1’e karşılık eltrombopag ile tedavi edilen hastalarda %2). Tedavi başlangıcı
+ile TEE olayı arasında belirli bir zamansal ilişki gözlenmemiştir. Düşük albümin düzeyleri
+(≤ 35 g/L) veya MELD ≥ 10 olan hastalarda, albümin düzeyleri yüksek olanlara göre 2 kat daha
+fazla TEE riski vardı; ≥ 60 yaşındakiler, genç hastalara kıyasla 2 kat daha fazla TEE riskine
+sahipti. Eltrombopag, bu tür hastalara ancak risklerle karşılaştırıldığında beklenen faydaların
+dikkatli bir şekilde değerlendirilmesinden sonra uygulanmalıdır. Hastalar TEE belirti ve
+semptomları açısından yakından izlenmelidir. İnvaziv prosedürlere hazırlanırken 2 hafta
+boyunca günde bir kez 75 mg eltrombopag ile tedavi edilen kronik karaciğer hastalığı (CLD)
+olan hastalarda TEE riskinin arttığı bulunmuştur. Eltrombopag alan CLD’li 143 yetişkin
+hastadan altısı (%4) (portal venöz sistemin tamamı) ve plasebo grubundaki 145 hastadan ikisi
+(%1) TEE yaşamıştır (biri portal venöz sistemde ve bir miyokard enfarktüsü). Eltrombopag ile
+tedavi edilen 6 hastadan beşi, > 200.000/mikrolitre trombosit sayısında ve son eltrombopag
+dozunun ardından 30 gün içinde trombotik komplikasyon yaşadı.
+Eltrombopag, invaziv prosedürlere hazırlık olarak kronik karaciğer hastalığı olan hastalarda
+trombositopeni tedavisi için endike değildir.
+Eltrombopag klinik çalışmalarında ITP’de tromboembolik olaylar düşük ve normal trombosit
+sayılarında gözlenmiştir.
+Kalıtımsal (örn., Factor V Leiden) veya edinilmiş risk faktörleri (örn., ATIII eksikliği,
+antifosfolipid sendromu), ileri yaş, uzun bir süre immobolize hastalar, malignite, kontraseptif
+ve hormon replasman tedavisi, cerrahi/travma, obezite ve sigara kullanımını içeren ancak
+bunlarla sınırlı olmayan tromboembolizm için bilinen risk faktörleri bulunan hastalarda
+eltrombopag kullanılırken dikkatli olunması gereklidir. Trombosit sayıları yakından izlenmeli
+ve trombosit sayısı hedef seviyeleri aşarsa dozun azaltılması veya eltrombopag tedavisinin
+kesilmesi düşünülmelidir (bkz. Bölüm 4.2). Herhangi bir etiyolojiye sahip TEE riski taşıyan
+hastalarda risk-fayda dengesi göz önünde bulundurulmalıdır.
+Eltrombopag, karaciğer yetmezliği olan (Child-Pugh skoru ≥ 5) ITP hastalarında, beklenen
+yarar, tanımlanan portal ven trombozu riskinden daha fazla olmadıkça kullanılmamalıdır.
+Tedavinin uygun olduğu düşünüldüğünde, karaciğer yetmezliği olan hastalara eltrombopag
+uygulanırken dikkatli olunmalıdır (bkz. Bölüm 4.2 ve 4.8).
+8 / 40Tedaviye cevap vermeyen SAA ile ilgili bir klinik bir çalışmada herhangi bir TEO vakası tespit
+edilmemiştir, ancak bu hasta popülasyonunda maruziyetin söz konusu olduğu hasta sayısı sınırlı
+olduğundan, bu olaylara ilişkin risk göz ardı edilememektedir. Bu hasta popülasyonunda
+TEO’lar beklenebilir.
+Eltrombopag tedavisinin kesilmesini takiben kanama
+Eltrombopag ile tedavi kesildikten sonra ITP hastalarında trombositopeni yeniden oluşması
+olasıdır. Eltrombopag tedavisinin kesilmesini takiben, hastaların çoğunda trombosit sayıları 2
+hafta içinde başlangıç seviyelerine döner, bu da kanama riskini artırır ve bazı durumlarda
+kanamaya neden olabilir. Antikoagülanlar veya antitrombosit ajanların varlığında eltrombopag
+tedavisi kesilirse bu risk artar. Eltrombopag ile tedavi kesilirse, mevcut tedavi kılavuzlarına
+göre ITP tedavisinin yeniden başlatılması önerilir. Ek tıbbi tedavi, antikoagülan ve/veya anti-
+trombosit tedavisinin kesilmesini, antikoagülasyonun tersine çevrilmesini veya trombosit
+desteğini içerebilir. Eltrombopag tedavisinin kesilmesini takiben 4 hafta boyunca trombosit
+sayıları haftalık olarak izlenmelidir.
+HCV klinik çalışmalarında, peginterferon, ribavirin ve eltrombopag tedavisinin kesilmesini
+takiben ciddi ve ölümcül vakalar dahil olmak üzere gastrointestinal kanama insidansının daha
+yüksek olduğu bildirilmiştir. Tedavinin kesilmesini takiben, hastalar gastrointestinal
+kanamanın herhangi bir belirti veya semptomu açısından izlenmelidir.
+Kemik iliği retikülin oluşumu ve kemik iliği fibrozu riski
+Eltrombopag, kemik iliği içerisinde retikülin lifleri gelişimi veya progresyonu riskini artırabilir.
+Diğer trombopoietin reseptör (TPO-R) agonistlerinde olduğu gibi bu bulgunun anlamlılığı
+henüz gösterilmemiştir.
+Eltrombopag tedavisine başlanmadan önce hücresel morfolojik anomalilerin bazal düzeyinin
+gösterilmesi için periferik kan örneğinin yakından incelenmesi gereklidir. Stabil bir
+eltrombopag dozunun belirlenmesini takiben ayda bir kez diferansiyel beyaz kan hücresi
+(WBC) ile tam kan sayımı (CBC) yapılmalıdır. İmmatür veya displastik hücreler gözlenirse
+yeni veya kötüleşen morfolojik anomaliler (örn., gözyaşı şeklinde ve çekirdekli kırmızı kan
+hücreleri, immatür beyaz kan hücreleri) veya sitopeni(ler) için periferik kan örnekleri
+incelenmelidir. Hasta yeni veya kötüleşen morfolojik anormallikler veya sitopeni(ler)
+geliştirirse, eltrombopag tedavisi kesilmeli ve fibrozis için boyama dahil bir kemik iliği
+biyopsisi düşünülmelidir.
+Mevcut miyelodisplastik sendromun (MDS) ilerlemesi
+TPO-R agonistlerinin MDS gibi mevcut hematolojik malignitelerin ilerlemesini
+uyarabileceğine dair teorik bir endişe vardır. TPO-R agonistleri trombopoietik progenitör hücre
+ekspansiyonu, diferansiyasyonu ve trombosit üretimini sağlayan büyüme faktörleridir. TPO-R
+ağırlıklı olarak miyeloid soyunun hücrelerinin yüzeyinde eksprese edilir.
+9 / 40MDS’li hastalarda bir TPO-R agonisti ile yapılan klinik çalışmalarda, blast hücre sayılarında
+geçici artış vakaları gözlemlenmiş ve MDS hastalığının akut miyeloid lösemiye (AML)
+ilerlemesi vakaları rapor edilmiştir.
+Yetişkinlerde ve yaşlı hastalarda ITP tanısı, trombositopeni ile başvuran diğer klinik varlıkların
+dışlanmasıyla doğrulanmalıdır, özellikle MDS tanısı dahil edilmemelidir. Hastalık ve tedavi
+süresince, başta 60 yaşın üzerindeki hastalar, sistemik semptomları olanlar veya periferik blast
+hücrelerde artış gibi anormal işaretleri olan hastalarda olmak üzere, kemik iliği aspirasyonu ve
+biyopsi yapmak düşünülmelidir.
+MDS’ye bağlı trombositopeni tedavisinde eltrombopagın etkililiği ve güvenliliği
+saptanmamıştır. Eltrombopag, MDS’ye bağlı trombositopeni tedavisine yönelik klinik
+çalışmalar dışında kullanılmamalıdır.
+Oküler değişiklikler
+Kemirgenlerde eltrombopag toksikoloji çalışmalarında katarakt gözlenmiştir (bkz. Bölüm 5.3).
+İnterferon tedavisi alan HCV’li trombositopenik hastalarda (n=1.439) yapılan kontrollü
+çalışmalarda, eltrombopag grubunun %8’inde ve plasebo grubunun %5’inde önceden var olan
+başlangıç katarakt(lar)ının veya olay kataraktının ilerlemesi bildirilmiştir. İnterferon, ribavirin
+ve eltrombopag (eltrombopag grubunun %2’si ve plasebo grubunun %2’si) alan HCV
+hastalarında çoğunlukla Derece 1 veya 2 olmak üzere retina kanamaları bildirilmiştir. Retina
+yüzeyinde (preretinal), retinanın altında (subretinal) veya retina dokusu içinde hemorajiler
+meydana gelmiştir. Hastaların rutin oftalmolojik takibi önerilir.
+QT/QTc uzaması
+Günde 150 mg eltrombopag verilen sağlıklı gönüllülerde yapılan bir QTc çalışması, kardiyak
+repolarizasyon üzerinde klinik olarak anlamlı bir etki göstermemiştir. ITP’li hastalarda ve
+HCV’li trombositopenik hastalarda yapılan klinik çalışmalarda QTc aralığı uzaması
+bildirilmiştir. QTc uzama olaylarının klinik önemi bilinmemektedir.
+Eltrombopaga yanıt kaybı
+Önerilen doz aralığında eltrombopag ile tedavide yanıt kaybı veya trombosit yanıtının
+sürdürülememesi durumunda artan kemik iliği retikülin dahil etken faktörler için bir araştırma
+yapılmalıdır.
+Pediyatrik popülasyon
+ITP ile ilişkili yukarıdaki uyarılar ve önlemler pediyatrik popülasyon içinde geçerlidir.
+Laboratuvar testleri ile etkileşim
+Eltrombopag koyu bir renge sahiptir ve bazı laboratuvar testlerini etkileme potansiyeli vardır.
+REVOPAG alan hastalarda serumda renk değişimi ile birlikte total bilirubin ve kreatinin testi
+ile etkileşimler bildirilmiştir. Eğer laboratuvar testleri ve klinik gözlemler tutarsızsa, başka bir
+yöntemle yeniden test yapılması sonucun geçerliliğinin belirlenmesine yardımcı olabilir.
+10 / 40Bu tıbbi ürün her bir tablette 1 mmol (23 mg)’dan daha az sodyum ihtiva eder; yani aslında
+“sodyum içermez”.
+4.5. Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+Eltrombopagın diğer ilaçlar üzerindeki etkileri
+HMG-CoA redüktaz inhibitörleri:
+5 gün süreyle günde bir kez 75 mg eltrombopag ile tek doz 10 mg OATP1B1 ve BCRP substratı
+rosuvastatinin 39 sağlıklı erişkin deneğe uygulanımı plazma rosuvastatin C değerini %103
+maks
+(%90 GA: %82, %126) ve EAA değerini %55 (%90 GA: %42, %69) artırmıştır. Atorvastatin,
+0-∞
+fluvastatin, lovastatin, pravastatin ve simvastatin dahil diğer HMG-CoA redüktaz inhibitörleri
+ile etkileşimler beklenmektedir. Eltrombopag ile birlikte uygulandığında daha düşük bir statin
+dozu düşünülmeli ve hasta statinlerin yan etkileri için dikkatli şekilde izlenmelidir (bkz. Bölüm
+5.2).
+OATP1B1 ve BCRP substratları:
+Eltrombopag ile birlikte OATP1B1 (örn., metotreksat) ve BCRP (örn., topotekan ve
+metotreksat) substratlarının uygulanması sırasında dikkatli olunması gereklidir (bkz. Bölüm
+5.2).
+Sitokrom P450 substratları:
+İnsan karaciğer mikrozomları kullanılan çalışmalarda eltrombopag (10 µM’ye kadar) CYP450
+1A2, 2A6, 2C19, 2D6, 2E1, 3A4/5 ve 4A9/11 enzimleri için in vitro inhibisyon sergilenmemiş
+olup prob substratlar olarak paklitaksel ve diklofenak kullanılarak ölçülen CYP2C8 ve CYP2C9
+için bir inhibitör etkisi yaratmıştır. Sağlıklı 24 erkek gönüllüye 7 gün süreyle günde bir kez 75
+mg dozunda eltrombopag uygulanımı insanlarda 1A2 (kafein), 2C19 (omeprazol), 2C9
+(flurbiprofen) veya 3A4 (midazolam) için prob substratların metabolizmasını inhibe etmemiş
+veya indüklememiştir. Eltrombopag ve CYP450 substratları birlikte uygulandığında klinik
+açıdan anlamlı etkileşimler beklenmemektedir (bkz. Bölüm 5.2).
+HCV proteaz inhibitörleri:
+Eltrombopag, telaprevir veya boceprevir ile birlikte uygulandığında doz ayarlaması gerekli
+değildir. Tek doz 200 mg eltrombopag ile 8 saatte bir 750 mg telaprevirin birlikte uygulanması,
+plazma telaprevir maruziyetini değiştirmemiştir.
+200 mg tek doz eltrombopag ile her 8 saatte bir 800 mg boceprevirin birlikte uygulanması
+plazma boceprevir EAA ’yı değiştirmemiş, ancak C ’ı %20 artırmış ve C ’i %32
+(0-τ) maks min
+azaltmıştır. C ’deki düşüşün klinik önemi belirlenmemiştir, HCV baskılanması için artan
+min
+klinik ve laboratuvar izlemesi önerilir.
+Diğer ilaçların eltrombopag üzerindeki etkileri
+Siklosporin:
+Bir arada 200 mg ve 600 mg siklosporin (BCRP inhibitörü) ile birlikte uygulanmasıyla
+eltrombopag maruziyetinde bir düşüş gözlenmiştir. 200 mg siklosporinin birlikte uygulanması,
+11 / 40eltrombopagın C ve EAA değerlerini sırasıyla %25 ve %18 oranında azaltmıştır. 600 mg
+maks 0-∞
+siklosporinin birlikte uygulanması ise eltrombopagın C ve EAA değerlerini sırasıyla %39
+maks 0-∞
+ve %24 oranında azaltmıştır. Tedavi sırasında hastanın trombosit sayısına dayalı olarak
+eltrombopag doz ayarlamasına izin verilmektedir (bkz. Bölüm 4.2). Eltrombopag, siklosporin
+ile birlikte uygulandığında trombosit sayısı 2-3 hafta süreyle en az haftada bir kontrol
+edilmelidir. Trombosit sayısına dayalı olarak eltrombopag dozunun yükseltilmesi gerekebilir.
+Polivalan katyonlar (şelasyon):
+Eltrombopag demir, kalsiyum, magnezyum, alüminyum, selenyum ve çinko gibi polivalan
+katyonları şelatlamaktadır. Tek doz eltrombopag 75 mg ile bir polivalan katyon içeren antiasitin
+(1524 mg alüminyum hidroksit 1425 mg magnezyum karbonat) birlikte uygulanımı
+eltrombopag EAA değerini %70 (%90 GA: %64, %76) ve C değerini %70 (%90 GA:
+0-∞ maks
+%62, %76) azaltmıştır. Şelasyona bağlı olarak eltrombopag emiliminde anlamlı düşüşün
+önlenmesi için eltrombopag; antiasidler, süt ürünleri ve mineral takviyeleri gibi polivalan
+katyonlar içeren diğer ürünler ile bu tür ilaçlardan eltrombopag en az 2 saat önce veya 4 saat
+sonra uygulanmalıdır (bkz. Bölüm 4.2 ve 5.2).
+Lopinavir/ritonavir:
+Eltrombopag ile lopinavir/ritonavirin birlikte uygulanımı eltrombopag konsantrasyonunda bir
+azalmaya neden olabilir. 40 sağlıklı gönüllüde yapılan bir çalışma tek doz 100 mg eltrombopag
+ile tekrarlı doz günde iki kez lopinavir/ritonavirin 400/100 mg rejiminin birlikte uygulanımının
+eltrombopag plazma EAA değerinde %17 azalmaya neden olduğunu göstermiştir (%90 GA:
+0-∞
+%6,6, %26,6). Bu nedenle eltrombopag ve lopinavir/ritonavir birlikte uygulanırsa dikkatli
+olunmalıdır. Lopinavir/ritonavir tedavisine başlandığı veya bu tedavi kesildiğinde eltrombopag
+dozunun uygun medikal yönetiminin sağlanması için trombosit sayısı yakından izlenmelidir.
+CYP1A2 ve CYP2C8 inhibitörleri ve indükleyicileri:
+Eltrombopag; CYP1A2, CYP2C8, UGT1A1 ve UGT1A3 dahil çoklu yolaklarla metabolize
+olmaktadır (bkz. Bölüm 5.2). Tek bir enzimi inhibe eden ya da indükleyen tıbbi ürünlerin
+plazma eltrombopag konsantrasyonlarını önemli düzeyde etkileme olasılığı yoktur; diğer
+yandan; birden fazla enzimi inhibe eden ya da indükleyen tıbbi ürünlerin eltrombopag
+konsantrasyonlarını artırma (örn., fluvoksamin) ya da azaltma (örn., rifampisin) potansiyeli
+vardır.
+HCV proteaz inhibitörleri:
+Bir ilaç-ilaç farmakokinetik (PK) etkileşim çalışmasının sonuçları, her 8 saatte bir 800 mg
+boceprevir veya her 8 saatte bir 750 mg telaprevirin tek doz 200 mg eltrombopag ile tekrarlanan
+dozlarının birlikte uygulanmasının, plazma eltrombopag maruziyetini klinik olarak önemli
+ölçüde değiştirmediğini göstermiştir.
+ITP tedavisi için tıbbi ürünler:
+ITP tedavisi için klinik çalışmada eltrombopag ile kombinasyon halinde kullanılmış tıbbi
+ürünler kortikosteroidler, danazol, ve/veya azatioprini, intravenöz immünoglobülin (IVIG) ve
+anti-D immünoglobülindir. Trombosit sayıları eltrombopag ve ITP tedavisinde kullanılan diğer
+12 / 40ilaçlar kombine halde kullanıldığında trombosit sayılarının önerilen aralık dışına çıkmasının
+önlenmesi için izlenmelidir (bkz. Bölüm 4.2).
+Gıdalarla etkileşim
+Yüksek oranda kalsiyum içeren yiyecekler (örn., süt ürünleri içeren bir yemek) ile birlikte oral
+süspansiyon formülasyonu için eltrombopag tablet veya toz uygulandığında plazma
+eltrombopag EAA ve C değerleri önemli ölçüde düşmüştür. Buna karşılık, yüksek
+0-∞ maks
+kalsiyumlu yemek veya düşük kalsiyumlu gıda [< 50 mg kalsiyum] yemeden 2 saat önce veya
+yedikten 4 saat sonra eltrombopag uygulaması, plazma eltrombopag maruziyetini klinik olarak
+önemli ölçüde değiştirmemiştir (bkz. Bölüm 4.2).
+Süt ürünleri içeren standart bir yüksek kalorili, yüksek oranda yağ içeren kahvaltı ile tablet
+formunda tek bir 50 mg’lık eltrombopag uygulaması, plazma eltrombopag ortalama EAA
+0-∞
+değerini %59 ve ortalama C değerini %65 azaltmıştır.
+maks
+Yüksek oranda kalsiyum, orta derecede yağ ve orta derecede kalorili bir öğün ile birlikte oral
+süspansiyonluk toz halinde 25 mg’lık tek bir eltrombopag dozunun uygulaması, plazma
+eltrombopagın ortalama EAA değerini %75 ve ortalama C değerini %79 azaltmıştır. Tek
+0-∞ maks
+bir 25 mg’lık oral süspansiyonluk toz eltrombopag dozu, yüksek kalsiyumlu bir yemekten 2
+saat önce uygulandığında bu maruziyet azalması hafiflemiştir (ortalama EAA %20 ve
+0-∞
+ortalama C %14 azalmıştır).
+maks
+Meyve, yağsız jambon, sığır eti ve katkısız (kalsiyum, magnezyum veya demir ilavesi
+içermeyen) meyve suyu, katkısız soya sütü ve katkısız tahıl dahil olmak üzere düşük kalsiyum
+içerikli (< 50 mg kalsiyum) gıdalar, kalori ve yağ içeriği fark etmeksizin, plazma eltrombopag
+maruziyetini önemli ölçüde etkilememiştir (bkz. Bölüm 4.2 ve 4.5).
+Özel popülasyonlara ilişkin ek bilgiler
+Veri bulunmamaktadır.
+Pediyatrik popülasyon:
+Veri bulunmamaktadır.
+4.6. Gebelik ve laktasyon
+Genel tavsiye
+Gebelik kategorisi: C
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon)
+REVOPAG kontrasepsiyon kullanmayan doğurganlık çağındaki kadınlarda önerilmemektedir.
+Çocuk doğurma potansiyeli olan kadınlar tedavi süresince etkili doğum kontrolü uygulamak
+zorundadırlar.
+13 / 40Gebelik dönemi
+REVOPAG’ın gebe kadınlarda kullanımına ilişkin yeterli veri yoktur veya sınırlı miktardadır.
+Hayvanlar üzerinde yapılan araştırmalar üreme toksisitesinin bulunduğunu göstermiştir (bkz.
+Bölüm 5.3). İnsanlara yönelik risk bilinmemektedir.
+REVOPAG’ın gebelik sırasında kullanımı önerilmemektedir.
+Laktasyon dönemi
+Eltrombopagın veya metabolitlerinin insan sütüne geçip geçmediği bilinmemektedir.
+Hayvanlar üzerinde yapılan çalışmalar, eltrombopagın muhtemelen süte geçtiğini
+göstermektedir (bkz. Bölüm 5.3); bu nedenle emzirilen çocuk için bu risk göz ardı edilemez.
+Emzirmenin durdurulup durdurulmayacağına ya da REVOPAG tedavisinin durdurulup
+durdurulmayacağına/tedaviden kaçınılıp kaçınılmayacağına iliskin karar verilirken,
+emzirmenin çocuk açısından faydası ve REVOPAG tedavisinin kadın açısından faydası dikkate
+alınarak karar verilmelidir.
+Üreme yeteneği/Fertilite
+İnsandakine benzer maruziyetlerde erkek ve dişi sıçanlarda fertilite etkilenmemiştir. Diğer
+yandan, insanlar için risk olasılık dışı bırakılmamalıdır (bkz. Bölüm 5.3).
+4.7. Araç ve makine kullanımı üzerindeki etkiler
+Eltrombopagın araç ve makine kullanma becerisi üzerinde göz ardı edilebilir etkileri vardır.
+Hastanın muhakeme, motor ve bilişsel beceriler gereken görevleri yerine getirme becerisi
+değerlendirilirken hastanın klinik durumu ve eltrombopagın sersemlik ve dikkat eksikliği de
+içeren advers reaksiyon profili göz önünde bulundurulmalıdır.
+4.8. İstenmeyen etkiler
+Güvenlik profilinin özeti:
+Yetişkin ve pediyatrik hastalarda immün trombositopeni
+Eltrombopagın güvenliği, tamamlanmış açık etiketli TRA108057 (REPEAT), TRA105325
+(EXTEND) ve TRA112940 çalışma verilerine ek olarak, 403 hastaya eltrombopag ve 179
+hastaya plasebonun uygulandığı birleştirilmiş çift kör, plasebo kontrollü TRA100773A ve B,
+TRA102537 (RAISE) ve TRA113765 çalışmaları kullanılarak yetişkin hastalarda (N= 763)
+değerlendirilmiştir (bkz. Bölüm 5.1). Hastalar 8 yıla kadar çalışma ilacı almıştır (EXTEND
+çalışmasında). En ciddi advers reaksiyonların hepatotoksisite ve trombotik/tromboembolik
+olaylar olduğu belirlenmiştir. Hastaların en az %10’unda görülen en yaygın advers reaksiyonlar
+bulantı, ishal, artan alanin aminotransferazı ve sırt ağrısını içermektedir.
+Eltrombopagın daha önce tedavi edilmiş ITP’li pediyatrik hastalarda (1-17 yaş arası) güvenliliği
+iki çalışmada gösterilmiştir (N=171) (bkz. Bölüm 5.1). PETIT2 (TRA115450) 2 kısımlı, çift
+kör ve açık etiketli, randomize, plasebo kontrollü bir çalışmadır. Hastalar 2:1 oranında
+randomize edilmiş ve çalışmanın randomize döneminde 13 haftaya kadar eltrombopag (n=63)
+veya plasebo (n=29) almıştır. PETIT (TRA108062) ise 3 kısımlı, aşamalı kohort, açık etiketli
+14 / 40ve çift kör, randomize, plasebo kontrollü bir çalışmadır. Hastalar 2:1 oranında randomize
+edilmiş ve 7 haftaya kadar eltrombopag (n=44) veya plasebo (n=21) almıştır. Advers
+reaksiyonların profili aşağıdaki * ile belirtilen bazı ek advers reaksiyonlar ile birlikte
+erişkinlerde görülenler ile benzer olmuştur. 1 yaş ve üzerindeki pediyatrik ITP hastalarında en
+yaygın advers reaksiyonlar (≥ %3 ve plasebodan daha yüksek oranda) üst solunum yolu
+enfeksiyonu, nazofarenjit, öksürük, pireksi, karın ağrısı, orofarenks ağrısı, diş ağrısı ve rinore.
+HCV infeksiyonlu yetişkin hastalarda trombositopeni
+ENABLE 1 (TPL103922 n=716, 715’i eltrombopag ile tedavi edilen) ve ENABLE 2
+(TPL108390 n=805) eltrombopagın HCV infeksiyonlu olup antiviral tedavi başlatmaya uygun
+olan trombositopenik hastalardaki etkililiğini ve güvenliğini değerlendirmek için randomize,
+çift kör, plasebo kontrollü, çok merkezli çalışmalardır. HCV çalışmalarında güvenlilik
+popülasyonu, ENABLE 1 (eltrombopag tedavisi n=450, plasebo tedavisi n=232) ve ENABLE
+2 (eltrombopag tedavisi n=506, plasebo tedavisi n=252) Bölüm 2 sırasında çift kör çalışma tıbbi
+ürünü alan tüm randomize hastalardan oluşmaktadır. Hastalar alınan tedaviye göre analiz edilir
+(toplam güvenlilik çift-kör popülasyon, eltrombopag n=955 ve plasebo n=484). Tanımlanan en
+önemli ciddi advers reaksiyonlar hepatotoksisite ve trombotik/tromboembolik olaylardır.
+Hastaların en az %10’unda meydana gelen en yaygın advers reaksiyonlar arasında baş ağrısı,
+anemi, iştah azalması, öksürük, bulantı, ishal, hiperbilirubinemi, saç dökülmesi, kaşıntı, kas
+ağrısı, pireksi, yorgunluk, grip benzeri hastalık, asteni, titreme ve ödem yer almıştır.
+Yetişkin hastalarda şiddetli aplastik anemi
+Eltrombopagın şiddetli aplastik anemideki güvenliliği tek kollu, açık etiketli bir çalışmada
+değerlendirilmiştir (N=43); bu çalışmada 11 hasta (%26) > 6 ay ve 7 hasta (%21) > 1 yıl süreyle
+tedavi edilmiştir. En önemli ciddi advers reaksiyonlar febril nötropeni ve sepsis/enfeksiyon
+olmuştur. Hastaların en az %10’unda görülen en yaygın advers reaksiyonlar şunları içermiştir:
+baş ağrısı, sersemlik, öksürük, orofarinks ağrısı, bulantı, ishal, abdominal ağrı,
+transaminazlarda artış, eklem ağrısı, uzuvlarda ağrı, yorgunluk ve pireksi.
+Advers reaksiyonların listesi
+Yetişkin ITP çalışmaları (n=763), pediyatrik ITP çalışmaları (n=171), HCV çalışmaları
+(n=1.520), SAA için çalışmalar (n=43) ve pazarlama sonrası raporlardaki advers reaksiyonlar
+MedDRA organ sistem sınıflandırması ve görülme sıklığına göre aşağıda listelenmiştir. Her
+sistem organ sınıfı içinde, advers ilaç reaksiyonları, en sık görülen reaksiyonlar ilk önce olacak
+şekilde sıklığa göre sıralanır. Kullanılan sıklık kategorileri aşağıdaki şekilde tanımlanmıştır:
+Çok yaygın (≥ 1/10); yaygın (≥ 1/100 ila < 1/10); yaygın olmayan (≥ 1/1.000 ila < 1/100);
+seyrek (≥ 1/10.000 ila < 1/1.000); çok seyrek (< 1/10.000), bilinmiyor (eldeki verilerden
+hareketle tahmin edilemiyor).
+15 / 40ITP çalışma popülasyonu:
+Enfeksiyonlar ve enfestasyonlar:
+Çok yaygın: Nazofarenjit*, üst solunum yolu enfeksiyonu*
+Yaygın: Farenjit, grip, oral herpes, pnömoni, sinüzit, tonsillit, solunum yolu
+enfeksiyonu, diş eti iltihabı
+Yaygın olmayan: Deri enfeksiyonu
+İyi huylu ve kötü huylu neoplazmalar (Kist ve polipler de dahil olmak üzere)
+Yaygın olmayan: Rektosigmoid kanser
+Kan ve lenf sistemi hastalıkları
+Yaygın: Anemi, eozinofili, lökositoz, trombositopeni, azalan hemoglobin, azalan
+lökosit sayısı
+Yaygın olmayan: Anizositoz, hemolitik anemi, miyelositoz, artan bant nötrofil sayımı,
+miyelosit varlığı, artan trombosit sayısı, artan hemoglobin, lökosit varlığı
+Bağışıklık sistemi hastalıkları
+Yaygın olmayan: Aşırı duyarlılık
+Metabolizma ve beslenme hastalıkları
+Yaygın: Hipokalemi, azalan iştah, kan ürik asit düzeyinde artış
+Yaygın olmayan: Anoreksi, gut, hipokalsemi
+Psikiyatrik hastalıklar
+Yaygın: Uyku bozukluğu, depresyon
+Yaygın olmayan: Apati, değişen duygudurum, sık ağlama
+Sinir sistemi hastalıkları
+Yaygın: Parestezi, hipoestezi, somnolans, migren
+Yayın olmayan: Tremor, denge bozukluğu, dizestezi, hemiparezi, auralı migren, periferik
+nöropati, periferik duyusal nöropati, konuşma bozukluğu, toksik
+nöropati, vasküler baş ağrısı
+Göz hastalıkları
+Yaygın: Göz kuruluğu, bulanık görme, gözde ağrı, azalan görme keskinliği,
+anormal görme keskinliği testleri
+Yaygın olmayan: Lentiküler opasiteler, astigmatizm, kortikal katarakt, artan lakrimasyon,
+retinal hemoraji, retinal pigment epitelyopati, görme yetmezliği, blefarit
+ve kuru keratokonjonktivit
+Kulak ve iç kulak hastalıkları
+Yaygın: Kulak ağrısı, vertigo
+16 / 40Kardiyak hastalıklar
+Yaygın olmayan: Taşikardi, akut miyokard infarktüsü, kardiyovasküler bozukluk, siyanoz,
+sinüs taşikardi, elektrokardiyogramda QT uzaması
+Vasküler hastalıklar
+Yaygın: Derin ven trombozu, hematom, sıcak basması
+Yaygın olmayan: Embolizm, yüzeyel tromboflebit, yüzde kızarıklık
+Solunum, göğüs bozuklukları ve mediastinal hastalıklar
+Çok yaygın: Öksürük*
+Yaygın: Orofarenks ağrısı, rinore*
+Yaygın olmayan: Pulmoner embolizm, pulmoner infarktüs, nazal rahatsızlık, orofaringeal
+çatlama, sinüs bozukluğu, uyku apnesi sendromu
+Gastrointestinal hastalıklar
+Çok yaygın: Bulantı, diyare*
+Yaygın: Ağız ülseri, ağız kuruluğu, hassas dil, diş ağrısı*, kusma, karın ağrısı×,
+ağızda hemoraji, flatulans
+× Pediyatrik ITP’de çok yaygın
+Yaygın olmayan: Glosodini, ağız ve boğazda kabarcıklar/yaralar, abdominal
+hassasiyet/şişkinlik, konstipasyon, feçeste renk değişikliği, feçeste kan,
+rektal kanama, gıda zehirlenmesi, sık bağırsak hareketleri, hematemez,
+oral rahatsızlık
+Hepato-biliyer hastalıklar
+Çok yaygın: Artan alanin aminotransferaz**
+Yaygın: Artan aspartat aminotransferaz**, hiperbilirubinemi, anormal hepatik
+fonksiyon
+Yaygın olmayan: Kolestaz, hepatik lezyon, hepatit, ilaçla indüklenen karaciğer hasarı
+**Alanin aminotransferaz ve aspartat aminotransferaz artışı düşük sıklıkla olmakla birlikte eş
+zamanlı olarak meydana gelebilir.
+Deri ve deri altı doku hastalıkları
+Yaygın: Döküntü, alopesi, hiperhidroz, jeneralize prürit, peteşi, saç dökülmesi
+Yaygın olmayan: Ürtiker, dermatoz, soğuk terleme, eritem, melanoz, pigmentasyon
+bozukluğu, deride renk değişikliği, deride eksfolyasyon
+Kas-iskelet bozuklukları, bağ doku ve kemik hastalıkları
+Çok yaygın: Sırt ağrısı
+Yaygın: Miyalji, kas spazmı, kemik ağrısı, kas iskelet ağrısı, kas güçsüzlüğü
+Böbrek ve idrar yolu hastalıkları
+Yaygın: Proteinüri, kan kreatinin düzeyinde artış, böbrek yetmezliği olan
+trombotik mikroanjiyopati***
+17 / 40Yaygın olmayan: Böbrek yetmezliği, lökositüri, lupus nefrit, noktüri, kan üre düzeyinde
+artış, idrar protein/kreatinin oranında artış
+***Akut böbrek hasarı ve böbrek yetmezliği tercihli terimler ile gruplandırılmış terim
+Üreme sistemi ve meme hastalıkları
+Yaygın: Menoraji
+Genel bozukluklar ve uygulama bölgesine ilişkin hastalıklar
+Yaygın: Pireksi*, göğüs ağrısı, asteni
+*Pediyatrik ITP’de çok yaygın
+Yaygın olmayan: Sıcak basması, damar ponksiyon yerinde hemoraji, sinirlilik hissi,
+yaralarda enflamasyon, kırıklık, yabancı cisim hissi
+Araştırmalar
+Yaygın: Artan kan alkalen fosfataz
+Yaygın olmayan: Artan kan albümin, artan total protein, azalan kan albümin, artan idrar
+pH’ı
+Yaralanma ve zehirlenme
+Yaygın olmayan: Güneş yanığı
+*Pediatrik çalışmalarda (1 ila 17 yaş arası) gözlemlenen ek advers reaksiyonlar.
+**Alanin aminotransferaz ve aspartat aminotransferaz artışı, daha düşük bir sıklıkta olmasına
+rağmen aynı anda meydana gelebilir.
+***Akut böbrek hasarı ve böbrek yetmezliği tercih edilen terimlerle gruplandırılmış terim
+HCV çalışma popülasyonu: (anti-viral interferon ve ribavirin tedavisi ile birlikte)
+Enfeksiyonlar ve enfestasyonlar:
+Yaygın: İdrar yolu enfeksiyonu, üst solunum yolu enfeksiyonu, bronşit,
+nazofarenjit, grip (influenza), oral herpes
+Yaygın olmayan: Gastroenterit, farenjit
+İyi huylu ve kötü huylu neoplazmalar (Kist ve polipler de dahil olmak üzere)
+Yaygın: Kötü huylu hepatik neoplazm
+Kan ve lenf sistemi hastalıkları
+Çok yaygın: Anemi
+Yaygın: Lenfopeni,
+Yaygın olmayan: Hemolitik anemi
+18 / 40Metabolizma ve beslenme hastalıkları
+Çok yaygın: Azalan iştah
+Yaygın: Hiperglisemi, anormal kilo kaybı
+Psikiyatrik hastalıklar
+Yaygın: Depresyon, anksiyete, uyku bozukluğu
+Yaygın olmayan: Konfüzyon durumu, ajitasyon
+Sinir sistemi hastalıkları
+Çok yaygın: Baş ağrısı
+Yaygın: Baş dönmesi, dikkat bozukluğu, disguzi, hepatik ensefalopati,
+uyuşukluk, hafıza bozukluğu, parestezi
+Göz hastalıkları
+Yaygın: Katarakt, retina eksüdaları, göz kuruluğu, oküler sarılık, retinal hemoraji
+Kulak ve iç kulak hastalıkları
+Yaygın: Vertigo
+Kardiyak hastalıklar
+Yaygın: Palpitasyonlar
+Solunum, göğüs hastalıkları ve mediastinal hastalıklar
+Çok yaygın: Öksürük
+Yaygın: Dispne, orofarenks ağrısı, efor dispnesi, prodüktif öksürük
+Gastrointestinal hastalıklar
+Çok yaygın: Bulantı, diyare
+Yaygın: Kusma, asit, karın ağrısı, üst karın ağrısı, dispepsi, ağız kuruluğu,
+kabızlık, karın şişliği, diş ağrısı, stomatit, gastroözofagal reflü hastalığı,
+hemoroid, karın rahatsızlığı, özofarinks varisleri
+Yaygın olmayan: Kanamalı özofarinks varisleri, gastrit, aftöz stomatit
+Hepato-biliyer hastalıklar
+Yaygın: Hiperbilirubinemi, sarılık, ilaca bağlı karaciğer hasarı
+Yaygın olmayan: Portal ven trombozu, hepatik yetmezlik
+Deri ve deri altı doku hastalıkları
+Çok yaygın: Kaşıntı
+Yaygın: Döküntü, cilt kuruluğu, egzama, kaşıntılı döküntü, eritem, hiperhidroz,
+generalize kaşıntı, alopesi
+Yaygın olmayan: Cilt lezyonu, ciltte renk değişikliği, ciltte hiperpigmentasyon, gece
+terlemeleri
+19 / 40Kas-iskelet bozuklukları, bağ doku ve kemik hastalıkları
+Çok yaygın: Miyalji
+Yaygın: Artralji, kas spazmları, sırt ağrısı, ekstremitelerde ağrı, kas-iskelet ağrısı,
+kemik ağrısı
+Böbrek ve idrar yolu hastalıkları
+Yaygın olmayan: Akut böbrek yetmezliği ile trombotik mikroanjiyopati,** dizüri
+Genel bozukluklar ve uygulama bölgesine ilişkin hastalıklar
+Çok yaygın: Pireksi, yorgunluk, grip benzeri hastalık, asteni, titreme
+Yaygın: Sinirlilik, ağrı, halsizlik, enjeksiyon bölgesi reaksiyonu, kardiyak
+olmayan göğüs ağrısı, ödem, periferik ödem
+Yaygın olmayan: Enjeksiyon yerinde kaşıntı, enjeksiyon yerinde kızarıklık, göğüste
+rahatsızlık
+Araştırmalar
+Yaygın: Kan bilirubininde artış, azalan ağırlık, azalan akyuvar, hemoglobinde
+azalma, nötrofil sayısında azalma, INR artışı, uzayan APTT (aktive
+parsiyel tromboplastin zamanı), kan şekerinde artış, kan albümininde
+azalış
+Yaygın olmayan: Elektrokardiyogram QT uzaması
+** Tercih edilen terimler oligüri, böbrek yetmezliği ve böbrek yetmezliği ile gruplandırılmış
+terim
+SAA çalışma popülasyonu:
+Kan ve lenf sistemi hastalıkları
+Yaygın: Nötropeni, dalak enfarktüsü
+Metabolizma ve beslenme hastalıkları
+Yaygın: Aşırı demir yüklenmesi, iştah azalması, hipoglisemi, iştah artışı
+Psikiyatrik hastalıklar
+Yaygın: Anksiyete, depresyon
+Sinir sistemi hastalıkları
+Çok yaygın: Baş ağrısı, sersemlik
+Yaygın: Senkop
+Göz hastalıkları
+Yaygın: Göz kuruluğu, katarakt, göz akında sararma, bulanık görme, görme bozukluğu, vitröz
+uçan cisimler
+20 / 40Solunum, göğüs bozuklukları ve mediastinal hastalıklar
+Çok yaygın: Öksürük, orofarinks ağrısı, rinore
+Yaygın: Epistaksis
+Gastrointestinal hastalıklar
+Çok yaygın: İshal, bulantı, diş eti kanaması, abdominal ağrı
+Yaygın: Oral mukozada kabarcıklar, oral ağrı, kusma, abdominal rahatsızlık, kabızlık,
+abdominal gerginlik, disfaji, dışkıda renk bozukluğu, dil şişmesi, gastrointestinal motilite
+bozukluğu, flatulans
+Hepato-bilier hastalıklar
+Çok yaygın: Transaminazlarda artış
+Yaygın: Kan bilirubin artışı (hiperbilirubinemi), sarılık
+Bilinmeyen: İlaçla indüklenen karaciğer hasarı*
+*İlaçla indüklenen karaciğer hasarı ITP’li hastalarda bildirilmiştir.
+Deri ve deri altı doku hastalıkları
+Yaygın: Peteşi, döküntü, kaşıntı, ürtiker, deri lezyonu, maküler döküntü
+Bilinmeyen: Deride renk değişikliği, deri hiperpigmentasyonu
+Kas-iskelet bozuklukları, bağ doku ve kemik hastalıkları
+Çok yaygın: Eklem ağrısı, uzuvlarda ağrı, kas spazmları
+Yaygın: Sırt ağrısı, kas ağrısı, kemik ağrısı
+Böbrek ve idrar yolu hastalıkları
+Yaygın: Kromatüri
+Genel bozukluklar ve uygulama bölgesine ilişkin hastalıklar
+Çok yaygın: Yorgunluk, pireksi, üşüme
+Yaygın: Asteni, periferik ödem, kırıklık
+Araştırmalar
+Yaygın: Kan kreatin fosfokinaz artışı
+Seçilmiş istenmeyen etkiler ile açıklamalar
+Trombotik/tromboembolik olaylar (TEO’lar)
+3 kontrollü ve 2 kontrollü olmayan klinik çalışmada eltrombopag alan erişkin kronik ITP
+hastalarında (n=446), 17 hastada toplam 19 TEO gelişmiş olup bunlar (azalan sırayla) derin ven
+trombozu (n=6), pulmoner embolizm (n=6), akut miyokard infarktüsü (n=2), serebral infarktüs
+(n=2) ve embolizmi içermiştir (n=1) (bkz. Bölüm 4.4).
+Bir plasebo kontrollü çalışmada (n=288, güvenlilik popülasyonu), invazif prosedüre hazırlık
+olarak 2 haftalık tedaviyi takiben, eltrombopag alan kronik karaciğer hastalığı olan 143 hastanın
+6’sı (%4) portal venöz sistemde 7 tromboembolik olay yaşamıştır ve plasebo grubundaki 145
+21 / 40deneğin 2’si (%1) 3 TEO yaşamıştır. Eltrombopag ile tedavi edilen 6 hastanın 5’i,
+> 200.000/mikrolitre trombosit sayısında TEO yaşamıştır.
+Trombosit sayısı ≥ 200.000/mikrolitre olanlar hariç, TEO yaşamış hastalarda spesifik bir risk
+faktörü tespit edilmemiştir (bkz. Bölüm 4.4).
+HCV’li trombositopenik hastalarda (n=1.439) yapılan kontrollü çalışmalarda, eltrombopag ile
+tedavi edilen 955 hastadan 38’i (%4) ve plasebo grubundaki 484 hastadan 6’sı (%1) TEO
+yaşadı. Portal ven trombozu, her iki tedavi grubunda da en sık görülen TEO (tromboembolik
+olaylar) idi (eltrombopag ile tedavi edilen hastalarda %2’ye karşılık plasebo için < %1) (bkz.
+Bölüm 4.4). Düşük albümin düzeyleri (≤ 35 g/L) veya MELD ≥ 10 olan hastalarda, albümin
+düzeyleri yüksek olanlara göre 2 kat daha fazla TEO riski vardı; 60 yaş ve üzerindekiler, genç
+hastalara kıyasla 2 kat daha fazla TEO (tromboembolik olaylar) riskine sahipti.
+Karaciğer dekompansasyonu (interferon ile kullanım)
+Sirozu olan kronik HCV hastaları, alfa interferon tedavisi alırken hepatik dekompansasyon riski
+altında olabilir. HCV’li trombositopenik hastalarda yapılan 2 kontrollü klinik çalışmada,
+hepatik dekompansasyon (asit, hepatik ensefalopati, varis kanaması, spontan bakteriyel
+peritonit) eltrombopag kolunda (%11) plasebo koluna (%6) göre daha sık bildirilmiştir. Düşük
+albümin düzeyleri (≤ 35 g/L) veya başlangıçta MELD skoru ≥ 10 olan hastalarda, karaciğer
+dekompansasyonu riski 3 kat daha fazlaydı ve karaciğer hastalığı daha az ilerlemiş olanlara
+kıyasla ölümcül advers olay riskinde artış vardır. Eltrombopag, bu tür hastalara ancak risklerle
+karşılaştırıldığında beklenen faydaların dikkatli bir şekilde değerlendirilmesinden sonra
+uygulanmalıdır. Bu özelliklere sahip hastalar, hepatik dekompansasyon belirti ve semptomları
+açısından yakından izlenmelidir (bkz. Bölüm 4.4).
+Hepatotoksisite
+Eltrombopag ile kronik ITP’de yapılan kontrollü klinik çalışmalarda serum ALT, AST ve
+bilirubinde artışlar gözlenmiştir (bkz. Bölüm 4.4).
+Bu bulguların çoğunlukla hafif (Derece 1-2), geri dönüşlü olduğu ve karaciğer fonksiyon
+bozukluğuna işaret edecek klinik olarak anlamlı semptomların eşlik etmediği belirlenmiştir.
+Kronik ITP’li erişkinlerde yapılan plasebo kontrollü 3 çalışma genelinde plasebo grubunda 1
+hasta ve eltrombopag grubunda 1 hasta 4. derece karaciğer testi anormalliği yaşamıştır. Kronik
+ITP’li pediyatrik hastalardaki (1-17 yaş arası) iki plasebo kontrollü çalışmada, ALT ≥ 3 x ULN
+eltrombopag ve plasebo gruplarının sırasıyla %4,7 ve %0’ında bildirilmiştir.
+HCV’li hastalarda yapılan 2 kontrollü klinik çalışmada, ALT veya AST ≥ 3 x ULN, sırasıyla
+eltrombopag ve plasebo gruplarının %34’ünde ve %38’inde bildirilmiştir. Peginterferon /
+ribavirin tedavisi ile kombinasyon halinde eltrombopag alan hastaların çoğu, indirekt
+hiperbilirubinemi yaşayacaktır. Genel olarak, toplam bilirubin ≥ 1,5 x ULN, sırasıyla
+eltrombopag ve plasebo gruplarının %76’sında ve %50’sinde rapor edilmiştir.
+22 / 40Tek kollu faz II monoterapi tedaviye cevap vermeyen SAA çalışmasında, hastaların %5’inde
+eş zamanlı ALT veya AST > 3 x ULN, toplam (indirekt) bilirubin > 1,5 x ULN değerleri ile
+birlikte bildirilmiştir. Total bilirubin > 1,5 x ULN, hastaların %14’ünde meydana gelmiştir.
+Tedavinin kesilmesini takiben trombositopeni
+Kontrollü 3 klinik ITP çalışmasında, eltrombopag ve plasebo gruplarında sırasıyla %8 ve %8
+oranında olmak üzere tedavinin kesilmesini takiben trombosit sayılarında başlangıcın altı
+değerlerine geçici düşüşler gözlenmiştir (bkz. Bölüm 4.4).
+Artan kemik iliği retikülin düzeyi
+Program boyunca deneklerin hiçbirinde kemik iliğinde disfonksiyonunu gösteren klinik açıdan
+anlamlı kemik iliği anomalileri veya klinik bulgulara yönelik kanıta rastlanmamıştır. Az sayıda
+ITP hastasında eltrombopag tedavisi kemik iliği retikülin nedeniyle kesilmiştir (bkz. Bölüm
+4.4).
+Sitogenetik anormallikler
+50 mg/gün (her 2 haftada bir maksimum 150 mg/güne çıkacak şekilde arttırılır) (ELT112523)
+başlangıç dozuyla eltrombopag ile yapılan faz II tedaviye cevap vermeyen SAA klinik
+çalışmasında, sitogenetik anormalliklerin insidansı erişkin hastaların %17,1’i şeklinde olmuştur
+[7/41 (4’ünde kromozom 7’de değişiklikler tespit edilmiştir). Sitogenetik bir anormalliğe kadar
+çalışmaya devam edilen süre medyan 2,9 ay olmuştur.
+150 mg/gün dozunda (endike olduğu üzere etnik veya yaşa bağlı modifikasyonlarla)
+eltrombopag ile tedaviye cevap vermeyen SAA’da yapılan faz II klinik çalışmada
+(ELT116826), yeni sitogenetik anormalliklerin insidansı erişkin hastaların %22,6’sı
+şeklindeydi [7/31 (3’ünde kromozom 7’de değişiklikler vardı)]. 7 hastada da çalışma
+başlangıcında sitogenetik özellikler normal olmuştur. Altı hastada eltrombopag tedavisinin 3.
+ayında sitogenetik anormallik ve bir hastada 6. ayda sitogenetik anormallik belirlenmiştir.
+Hematolojik maligniteler
+Tek kollu, açık etiketli bir SAA çalışmasında hastaların üçü (%7), eltrombopag ile tedavi
+sonrasında MDS tanısı almıştır. Devam etmekte olan iki çalışmada (ELT116826 ve
+ELT116643), hastaların 1/28’i (%4) ve 1/62’si (%2) MDS veya AML tanısı almıştır.
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir (www.titck.gov.tr; e- posta:
+tufam@titck.gov.tr; tel: 0 800 314 00 08; faks: 0 312 218 35 99).
+4.9. Doz aşımı ve tedavisi
+Doz aşımı durumunda trombosit sayımları aşırı derecede artabilir ve trombotik/tromboembolik
+23 / 40komplikasyonlara neden olabilir. Doz aşımı durumunda eltrombopagın şelatlanması ve
+dolayısıyla emiliminin sınırlandırılması için kalsiyum, alüminyum veya magnezyum
+preparatları gibi bir metal katyon içeren preparatın oral yolla uygulanması düşünülmelidir.
+Trombosit sayıları yakından izlenmelidir. Eltrombopag tedavisi dozlam ve uygulama
+önerilerine göre yeniden başlatılmadır (bkz. Bölüm 4.2).
+ITP klinik çalışmalarında bir deneğin 5000 mg eltrombopag aldığı bir doz aşımı raporu
+mevcuttur. Bildirilen yan etkiler hafif döküntü, geçici bradikardi, ALT ve AST artışı ve
+yorgunluğu içermiştir. İlacın alınmasından sonraki 2 ila 18. günler arasında ölçülen karaciğer
+enzimlerin AST’de ULN’nin 1,6 katı, ALT’de ULN’nin 3,9 katı ve total bilirubinde ULN’nin
+2,4 katıydı. Trombosit sayımları ilacın alınmasından sonraki 18. günde 672.000/mikrolitre olup
+maksimum trombosit sayımı 929.000/mikrolitre’dir. Tüm olaylar tedaviyi takiben sekelsiz
+geçmiştir.
+Eltrombopag renal yolla anlamlı düzeyde atılmadığı ve plazma proteinlerine yüksek oranda
+bağlandığından, hemodiyalizin eltrombopag eliminasyonunu artırmak için etkili bir yöntem
+olması beklenmemektedir.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1. Farmakodinamik özellikler
+Farmakoterapötik grup: Antihemorajikler, diğer sistemik hemostatikler
+ATC kodu: B02BX05
+Etki mekanizması
+Trombopoietin (TPO) megakaryopoez ve trombosit üretiminde etkili olan temel sitokin olup
+trombopoietin reseptör için (TPO-R) endojen liganddır. Eltrombopag insan TPO-R’nin
+transmembran bölgesi ile etkileşime girmekte ve endojen trombopoietin (TPO) ile benzer olan
+ancak aynı olmayan sinyalleme kaskadlarını başlatarak proliferasyonu ve kemik iliği progenitör
+hücrelerinden farklılaşmasını indüklemektedir.
+Klinik etkililik ve güvenlilik
+İmmün (primer) trombositopeni (ITP) çalışmaları
+Eltrombopag güvenliliği ve etkililiği daha önce tedavi uygulanan ITP’li yetişkin hastalarda
+yapılan iki faz III, randomize, çift kör, plasebo kontrollü çalışma (RAISE [TRA102537] ve
+[TRA100773B]) ve iki açık çalışmada (REPEAT [TRA108057] ve EXTEND [TRA105325])
+değerlendirilmiştir. Genel anlamda eltrombopag 277 ITP hastasına en az 6 ay ve 202 hastaya
+en az 1 yıl uygulanmıştır. Devam etmekte olan açık etiketli, kontrollü olmayan çalışma TAPER
+(CETB115J2411), ilk kortikosteroid tedavisine yanıt vermeyen veya relaps gösteren yetişkin
+ITP hastalarında tedavinin kesilmesinden sonra eltrombopag’ın sürekli remisyon sağlama
+yeteneğini değerlendirmektedir. Bu çalışmada tanıdan itibaren geçen süreye bakılmaksızın 105
+ITP hastasına eltrombopag uygulanmıştır.
+24 / 40Çift kör plasebo kontrollü çalışmalar
+RAISE: 197 ITP hastası eltrombopag (n=135) veya plasebo (n=62) uygulanmak üzere 2:1
+oranında randomize edilmiş ve randomizasyon splenektomi durumu, başlangıçta ITP ilacı
+kullanımı ve bazal trombosit sayımına göre basamaklandırılmıştır. Eltrombopag dozu bireysel
+trombosit sayılarına göre 6 aylık tedavi periyodunda ayarlanmıştır. Tüm hastalarda
+eltrombopag 50 mg dozu ile tedavi başlatılmıştır. 29. günden tedavi bitimine kadar eltrombopag
+grubundaki hastaların %15 ila %28’i ≤ 25 mg dozunda tutulmuş ve %29 ila %53’üne 75 mg
+dozu verilmiştir.
+Buna ek olarak deneklerin eş zamanlı kullandıkları ITP ilaçlarının dozunun azaltılmasına ve
+bölgesel standart tedavi uyarınca kurtarma tedavisi görmesine izin verilmiştir. Her tedavi
+grubunda hastaların yarısından fazlasında daha önce ≥ 3 ITP tedavisi vardı ve %36’sı önceden
+splenektomi uygulanmıştır.
+Medyan trombosit sayımı başlangıçta her iki tedavi grubunda 16.000/mikrolitre olup
+eltrombopag grubunda 15. günden başlanarak tüm tedavi vizitlerinde 50.000/mikrolitre
+değerinin üstünde kalırken plasebo grubunda ortalama trombosit sayımları çalışma boyunca
+30.000/mikrolitre değerinin altında kalmıştır.
+Kurtarma ilacı olmadan 50.000-400.000/mikrolitre aralığındaki trombosit sayımı yanıtları 6
+aylık tedavi periyodunda eltrombopag verilen grupta anlamlı ölçüde daha fazla hastada
+sağlanmıştır, p < 0,001. Eltrombopag grubundaki hastaların %54 ve plasebo grubundaki
+hastaların %13’ünde 6 haftalık tedaviden sonra bu yanıt düzeyi sağlanmıştır. Çalışma boyunca
+benzer bir trombosit yanıtı korunmuş olup 6 aylık tedavi bitiminde hastaların %52 ve
+%16’sında yanıt elde edilmiştir.
+Tablo 3: RAISE çalışmasındaki sekonder etkililik bulguları
+Eltrombopag Plasebo
+N=135 N=62
+Önemli sekonder sonlanma noktaları
+Trombosit sayımı ≥ 50.000-400.000/mikrolitre olan hastaların
+11,3 (9,46) 2,4 (5,95)
+kümülatif sayısı, Ortalama (SS)
+Değerlendirmelerin ≥ %75’inde hedef aralıkta olan hastalar 51 (38) 4 (7)
+(50.000 ila 400.000/mikrolitre), n (%)
+< 0,001
+P-değeri a
+6 aylık sürede herhangi bir zamanda kanama (WHO Grade 1-4) 106 (79) 56 (93)
+gelişen hastalar, n (%)
+P-değeri a 0,012
+6 aylık sürede herhangi bir zamanda kanama (WHO Grade 2-4) 44 (33) 32 (53)
+gelişen hastalar, n (%)
+0,002
+P-değeri a
+25 / 40Kurtarma tedavisi gereken hastalar, n (%) 24 (18) 25 (40)
+P-değeri a
+0,001
+Başlangıçta ITP tedavisi gören hastalar (n) 63 31
+Başlangıçta tedavisini kesmek veya dozunu azaltmak isteyen 37 (59) 10 (32)
+hastalar, n (%)b
+0,016
+P-değeri a
+a - Randomizasyon basamaklandırma değişkenleri için ayarlanmış lojistik regresyon modeli
+b - Başlangıçta ITP ilacı kullanan eltrombopag grubundaki 21/63 (%33) hastada tüm başlangıç ITP
+ilaçları kalıcı olarak kesilmiştir.
+Başlangıçta her tedavi grubunda ITP hastalarının %70’inden fazlası herhangi bir kanama
+(WHO Grade 1-4) ve %20’den fazlası klinik açıdan anlamlı kanama (WHO Grade 2-4)
+bildirmiştir. Herhangi bir kanama (Grade 1-4) ve klinik açıdan anlamlı kanama bildirilen
+(Grade 2-4) hastaların oranı eltrombopag grubunda 6 aylık tedavi periyodu boyunca 15. günden
+tedavi bitimine kadar başlangıca göre yaklaşık %50 azalmıştır.
+TRA100773B: TRA100773B çalışmasında primer etkinlik sonlanma noktası trombosit
+sayısında başlangıçtaki < 30.000/mikrolitre değerinden 43. günde ≥ 50.000/mikrolitre değerine
+yükselme elde edilen ITP hastaları olarak tanımlanan yanıt veren hastaların oranıydı; trombosit
+sayısının > 200.000/mikrolitre olması nedeniyle tedavinin erken sonlandırıldığı hastalar yanıt
+vermiş olarak kabul edilmiş olup başka herhangi bir nedenle tedavinin kesildiği hastalar
+trombosit sayısı açısından tedaviye yanıt vermemiş olarak değerlendirilmiştir. Daha önce
+kronik ITP tedavisi gören toplam 114 denek eltrombopag (n=76) ve plasebo (n=38)
+uygulanmak üzere 2:1 oranında randomize edilmiştir.
+Tablo 4: TRA100773B çalışmasındaki etkililik bulguları
+Eltrombopag Plasebo
+N=74 N=38
+Önemli primer sonlanma noktaları
+Etkinlik analizi için uygun, n 73 37
+Trombosit sayımı 42. dozlam gününe kadar 43 (59) 6 (16)
+≥ 50.000/mikrolitre olan hastalar (başlangıçtaki
+< 30.000/mikrolitre sayımına kıyasla), n (%)
+P değeria < 0,001
+Önemli sekonder sonlanma noktaları
+43. günde kanama değerlendirmesi yapılan hastalar, n 51 30
+Kanama (WHO Grade 1-4) n (%) 20 (39) 18 (60)
+0,029
+P değeria
+26 / 40a - Randomizasyon basamaklandırma değişkenleri için ayarlanmış lojistik regresyon modeli
+Gerek RAISE gerekse TRA100773B’de, plaseboya kıyasla eltrombopaga yanıt, ITP ilaç
+kullanımından, splenektomi durumundan ve randomizasyon zamanındaki başlangıç trombosit
+değerinden (≤ 15.000/mikrolitre, > 15.000/mikrolitre) bağımsız olarak benzer olmuştur.
+RAISE ve TRA100773B çalışmalarında başlangıç trombosit sayısı ≤ 15.000/mikrolitre olan
+ITP hastalarının bulunduğu alt grupta ortalama trombosit sayıları hedef düzeye erişmemiştir
+(> 50.000/mikrolitre) ancak her iki çalışmada eltrombopag verilen hastaların %43’ünde 6
+haftalık tedaviden sonra yanıt alınmıştır. Buna ek olarak RAISE çalışmasında başlangıçta
+trombosit sayısı ≤ 15.000/mikrolitre olan ve eltrombopag tedavisi gören hastaların %42’sinde
+6 aylık tedavi bitiminde yanıt elde edilmiştir. RAISE çalışmasında eltrombopag verilen
+hastaların %42 ila %60’ı 29. günden tedavi bitimine kadar 75 mg dozunu kullanmıştır.
+Açık etiketli kontrollü olmayan çalışmalar
+REPEAT (TRA108057): Bu açık etiketli, tekrarlı doz çalışması (6 haftalık 3 kür ve bunun
+takiben ilaç verilmeyen 4 haftalık periyod) çoklu eltrombopag kürü ile epizodik kullanımda
+yanıt kaybı olmadığını göstermiştir.
+EXTEND (TRA105325): Açık etiketli uzatma çalışmasında eltrombopag 302 ITP hastasına
+uygulanmış, 218 hasta 1 yılı, 180 hasta 2 yılı, 107 hasta 3 yılı, 75 hasta 4 yılı, 34 hasta 5 yılı ve
+18 hasta 6 yılı tamamlamıştır. Medyan başlangıç trombosit sayısı, eltrombopag
+uygulamasından önce 19.000/µL olmuştur. Çalışmanın 1, 2, 3, 4, 5, 6 7. yıllarındaki medyan
+başlangıç trombosit sayıları ise sırasıyla 85.000/µL, 85.000/µL, 105.000/µL, 64.000/µL,
+75.000/µL, 119.000/µL ve 76.000/µL bulunmuştur.
+TAPER (CETB115J2411): Bu açık etiketli faz II çalışması, tanıdan bu yana geçen zamandan
+bağımsız olarak ilk kortikosteroid yetmezliğinden sonra eltrombopag ile tedavi edilen ITP
+hastalarını içerir. Çalışma, Doğu-/Güneydoğu-Asyalı kökenli hastalar için günde bir kez 50 mg
+veya günde bir kez 25 mg eltrombopag ile tedaviye başlayan 105 hastayı kaydetmiştir.
+Eltrombopag dozu, trombosit sayısının ≥ 100.000/μL olması hedefiyle, bireysel trombosit
+sayımlarına göre tedavi süresi boyunca ayarlanmıştır.
+En az 6 ay takibi olan hastaları (n=82) veya 6. aydan önce çalışmayı bırakan hastaları içeren bir
+özel durum analizi yapılmıştır. Hastaların yüzde kırk altısının (n=38) ITP süresi < 3 ay, %22
+(n=18) 3 ila < 6 ay, %20 (n=16) 6 ila ≤ 12 ay ve %12 (n=10) > 12 ay bulunmuştur.
+9. haftaya kadar en az bir kez ≥ 50.000/μL trombosit sayısı olarak tanımlanan trombosit sayısı
+yanıtı, yeni tanı konan hastaların %82’sinde (%95 CI:%66 ila %92), (ITP süresi < 3 ay),
+%94’ünde (%95 CI: %73 ila %100 ve %94 (%95 CI:%70 ila %100) kalıcı ITP hastalarında
+(ITP süresi sırasıyla 3 ila < 6 ay ve 6 ila < 12 ay) olmuştur.
+Yeni tanı konmuş ve ısrarcı ITP hastalarında 9. haftaya kadar en az bir kez ≥ 100.000/μL
+trombosit sayısı olarak tanımlanan tam yanıt oranı %69 ila %78 arasında değişmiştir.
+27 / 40Çalışmanın ilk 6 ayı boyunca 8 ardışık değerlendirmeden en az 6’sında trombosit sayısı
+≥ 50.000/μL olarak tanımlanan kalıcı trombosit sayısı yanıtının oranı, yeni tanı konmuş ve
+inatçı ITP hastalarında %69 ila %83 arasında değişmiştir.
+DSÖ Kanama Ölçeği ile değerlendirildiğinde, yeni teşhis edilmiş ve 4. haftada kanaması
+olmayan inatçı ITP hastalarının oranı, başlangıçtaki %40 ila %61’e kıyasla %85 ila %94
+arasında değişmiştir.
+Eltrombopagın güvenliliği, tüm ITP kategorilerinde tutarlıdır ve bilinen güvenlilik profiliyle
+uyumlu bulunmuştur.
+Eltrombopag ile diğer tedavi seçeneklerini (örn., splenektomi) karşılaştıran çalışmalar
+gerçekleştirilmemiştir. Tedaviye başlamadan önce eltrombopagın uzun vadedeki güvenliliği
+göz önünde bulundurulmalıdır.
+Pediyatrik popülasyon (1-17 yaş arası)
+Eltrombopagın pediyatrik hastalardaki güvenliliği ve etkililiği iki çalışmada incelenmiştir.
+TRA115450 (PETIT2): Birincil sonlanma noktası, çift kör randomize dönemde 5 ile 12.
+haftalar arasında 8 haftanın en az 6’sında (kurtarıcı tedavi olmadan) ≥ 50.000/mikrolitre
+trombosit sayısına ulaşan, plasebo karşısında eltrombopag ile tedavi edilen hasta oranı olarak
+tanımlı kalıcı yanıt olmuştur. Hastalar en az 1 yıl önce kronik ITP tanısı almıştır ve önceki en
+az bir ITP tedavisine yanıt vermemiş ya da bu tedavi altında nüks yaşamış veya tıbbi bir nedenle
+başka ITP tedavilerine devam edememiştir ve trombosit sayıları < 30.000/mikrolitre olmuştur.
+92 hastanın bulunduğu 3 yaş grubu sınıfına göre (2:1) eltrombopaga (n=63) veya plaseboya
+(n=29) randomize edilmiştir. Eltrombopag dozu, hasta bazında trombosit sayısı doğrultusunda
+ayarlanabilmiştir.
+Genel olarak, plaseboya (%3) kıyasla eltrombopag (%40) hastalarının istatistiksel olarak
+anlamlı daha büyük bir oranı birincil sonlanma noktasına ulaşmış olup (Olasılık oranı: 18 [%95
+GA 2,3; 140,9] p < 0,001) bu durum üç yaş grubunda da benzer bulunmuştur (Tablo 5).
+Tablo 5: Kronik ITP’li pediyatrik hastalarda yaş grubuna göre kalıcı trombosit yanıtı
+Eltrombopag Plasebo
+n/N (%) n/N (%)
+[%95 GA] [%95 GA]
+Grup 1 (12 ila 17 yaş) 9/23 (%39) 1/10 (%10)
+[%20, %61] [%0, %45]
+Grup 2 (6 ila 11 yaş) 11/26 (%42) 0/13 (%0)
+[%23, %63] [N/A]
+Grup 3 (1 ila 5 yaş) 5/14 (%36) 0/6 (%0) [N/A]
+[%13, %65]
+28 / 40Randomize dönem süresince plasebo ile karşılaştırıldığında istatistiksel olarak daha az sayıda
+eltrombopag hastasında kurtarma tedavisi gerekmiştir (%19 [12/63] karşısında %24 [7/29],
+p=0,032).
+Başlangıçta eltrombopag grubundaki hastaların %71’i ve plasebo grubundakilerin %69’u
+herhangi bir kanama bildirmiştir (WHO Derece 1-4). Hafta 12’de herhangi bir kanama bildiren
+eltrombopag hastalarının oranı, başlangıca göre yarı yarıya azalmıştır (%36). Diğer yandan
+hafta 12’de plasebo hastalarının %55’i herhangi bir kanama bildirmiştir.
+Hastaların sadece çalışmanın açık etiketli fazında başlangıçtaki ITP tedavilerini azaltma ya da
+bırakmalarına izin verilmiştir ve hastaların %53’ü (8/15), ağırlıklı olarak kortikosteroidler
+olmak üzere başlangıçtaki ITP tedavisini kurtarma tedavisine gerek duymadan azaltabilmiş
+(n=l) ya da bırakabilmiştir (n=7).
+TRA108062 (PETIT): Birincil sonlanma noktası, randomize dönemde 1 ile 6. haftalar arasında
+en az bir seferinde ≥ 50.000/mikrolitre trombosit sayısına ulaşan hasta oram olmuştur. Hastalar,
+< 30.000/mikrolitre trombosit sayısı (n=67) ile önceki en az bir ITP tedavisine yanıt vermemiş
+ya da bu tedavi altında nüks yaşamıştır. Çalışmanın randomize dönemi sırasında hastalar üç yaş
+grubu sınıfına göre (2:1) eltrombopaga (n=45) veya plaseboya (n=22) randomize edilmiştir.
+Eltrombopag dozu, hasta bazında trombosit sayısı doğrultusunda ayarlanabilmiştir.
+Genel olarak, plasebo hastalarına (%32) kıyasla eltrombopag hastalarının (%62) istatistiksel
+olarak anlamlı daha büyük bir oranı birincil sonlanma noktasına ulaşmıştır (Olasılık oranı: 4.3
+[%95 GA: 1,4; 13,3] p=0,011).
+PETIT 2 çalışmasında 24 haftanın 20’si ve PETIT çalışmasında 24 haftanın 15’i süresince,
+başlangıçta yanıt veren hastaların %50’sinde kalıcı yanıt görülmüştür.
+Kronik hepatit C ile ilişkili trombositopeni çalışmaları
+HCV enfeksiyonu olan hastalarda trombositopeni tedavisi için eltrombopagın etkililiği ve
+güvenliği iki randomize, çift kör, plasebo kontrollü çalışmada değerlendirilmiştir. ENABLE 1,
+antiviral tedavi için peginterferon alfa-2a artı ribavirin kullanırken ENABLE 2, peginterferon
+alfa-2b artı ribavirin kullandı. Hastalara doğrudan etkili antiviral ajanlar verilmedi. Her iki
+çalışmada da trombosit sayısı < 75.000/µL olan hastalar kaydedilmiş ve trombosit sayısı
+(< 50.000/µL ve ≥ 50.000/µL ila < 75.000/µL), HCV RNA taraması (< 800.000 IU/mL ve
+≥ 800.000 IU/mL) ve HCV genotipine göre (genotip 2/3 ve genotip 1/4/6) sınıflandırılmıştır.
+Temel hastalık özellikleri her iki çalışmada da benzerdi ve kompanse sirotik HCV hasta
+popülasyonu ile benzerdi. Hastaların çoğunluğu HCV genotip 1 (%64) idi ve köprüleşen
+fibrozu/sirozu vardı. Hastaların yüzde otuz biri, başta pegile interferon artı ribavirin olmak
+üzere önceki HCV tedavileri ile tedavi edilmişti. Her iki tedavi grubunda medyan başlangıç
+trombosit sayısı 59.500/µL idi: Çalışmaya alınan hastaların %0,8, %28 ve %72’sinde trombosit
+sayıları sırasıyla < 20.000/µL, < 50.000/µL ve ≥ 50.000/µL idi.
+29 / 40Çalışmalar, antiviral öncesi tedavi aşaması ve antiviral tedavi aşaması olmak üzere iki
+aşamadan oluşuyordu. Antiviral tedavi öncesi aşamada, hastalara trombosit sayısını ENABLE
+1 için ≥ 90.000/µL ve ENABLE 2 için ≥ 100.000/µL’ye çıkarmak için açık etiketli eltrombopag
+verildi. Hedef trombosit sayısına ulaşmak için medyan süre ≥ 90.000/µL ( ENABLE 1) veya
+≥ 100.000/µL (ENABLE 2) 2 haftadır.
+Her iki çalışma için de birincil etkinlik son noktası, planlanan tedavi süresinin
+tamamlanmasından 24 hafta sonra saptanabilir HCV-RNA’sı olmayan hastaların yüzdesi olarak
+tanımlanan sürekli virolojik yanıt (SVR) olmuştur.
+Her iki HCV çalışmasında, plasebo ile tedavi edilenlere (n=65, %13) kıyasla eltrombopag ile
+tedavi edilen hastaların (n=201, %21) önemli ölçüde daha büyük bir kısmı SVR elde etmiştir
+(bkz. Tablo 6). SVR’ye ulaşan hastaların oranındaki iyileşme, randomizasyon katmanındaki
+(başlangıç trombosit sayısı (< 50.000’e karşı > 50.000), viral yük (< 800.000 IU/mL’ye karşı
+≥ 800.000 IU/mL) ve genotipteki tüm alt gruplarda tutarlı görülmüştür. (2/3’e karşı 1/4/6).
+Tablo 6: ENABLE 1 ve ENABLE 2’deki HCV’li hastaların virolojik cevabı
+Toplanmış veri ENABLE 1a ENABLE 2b
+Antiviral 1.439/1.520 (%95) 680/715(%95) 759/805 (%94)
+tedaviye
+başlayan ve
+hedef
+trombosit
+sayısına
+ulaşan
+hastalar c
+Eltrombopag Plasebo Eltrombopag Plasebo Eltrombopag Plasebo
+Antiviral n=956 n=485 n=450 n=232 n=506 n=253
+tedavi fazına
+giren
+hastaların
+toplam sayısı
+Virolojik cevaba ulaşan hastaların yüzdesi
+SVR 21 13 23 14 19 13
+Toplamı d
+HCV, RNA
+genotipi
+Genotip 2/3 35 25 35 24 34 25
+Genotip 15 8 18 10 13 7
+1/4/6e
+Albümin
+seviyeleri f
+30 / 40≤ 35g/L 11 8
+> 35g/L 25 16
+MELD skoruf
+≥ 10 18 10
+< 10 23 17
+a Peginterferon alfa-2a (1/4/6 genotipleri için 48 hafta boyunca haftada bir kez 180 µg; genotip 2/3 için
+24 hafta) artı ribavirin (ağızdan 2 bölünmüş dozda günde 800 ila 1200 mg) ile kombinasyon halinde
+verilen eltrombopag
+b Peginterferon alfa-2b (genotip 1/4/6 için 48 hafta boyunca haftada bir kez 1,5 µg/kg; genotip 2/3 için
+24 hafta) artı ribavirin (2 bölünmüş dozda oral yoldan 800 ila 1400 mg) ile kombinasyon halinde verilen
+eltrombopag
+c Hedef trombosit sayısı ENABLE 1 için ≥ 90.000/µL ve ENABLE 2 için ≥ 100.000/µL idi. ENABLE
+1 için 682 hasta antiviral tedavi fazına randomize edildi; ancak 2 hasta daha sonra antiviral tedavi
+almadan önce onayını geri çekti
+d plaseboya karşı eltrombopag için p değeri < 0,05
+e ENABLE 1 ve ENABLE 2’ye katılan hastaların %64’ü genotip 1’dir
+f post-hoc analizler
+Çalışmaların diğer ikincil bulguları arasında şunlar vardı: Plaseboya kıyasla eltrombopag ile
+tedavi edilen önemli ölçüde daha az hasta antiviral tedaviyi erken bıraktı (%45’e karşı %60,
+p =< 0,0001). Eltrombopag kullanan hastaların daha büyük bir kısmında, plaseboya kıyasla
+herhangi bir antiviral doz azaltımı gerekmedi (%45’e karşı %27). Eltrombopag tedavisi,
+peginterferon dozunun azaltılmasını geciktirdi ve azalttı.
+5.2. Farmakokinetik özellikler
+Genel özellikler
+TRA100773A ve TRA100773B çalışmalarındaki 88 hastada elde edilen plazma eltrombopag
+konsantrasyon-zaman verileri bir popülasyon PK analizindeki 111 sağlıklı erişkin denekte elde
+edilen veriler ile birleştirilmiştir. ITP hastaları için plazma eltrombopag EAA ve C
+0-τ maks
+hesaplamaları sunulmaktadır (Tablo 7).
+Tablo 7: ITP’li erişkinlerde kararlı durum plazma eltrombopag farmakokinetik
+parametrelerinin geometrik ortalaması (%95 güven aralığı)
+Eltrombopag Dozu N EAA a, C a,
+(0-τ) maks
+günde bir kez mikrogram.s/mL mikrogram./mL
+30 mg 28 47 (39,58) 3,78 (3,18, 4,49)
+50 mg 34 108 (88,134) 8,01 (6,73, 9,53)
+75 mg 26 168 (143,198) 12,7 (11,0, 14,5)
+a – Popülasyon PK post-hoc hesaplamalarına dayalı EAA ve C
+0-τ max
+TPL103922/ENABLE 1 ve TPL108390/ENABLE 2 faz III çalışmalarına kayıtlı HCV’li 590
+hastada toplanan plazma eltrombopag konsantrasyon-zaman verileri, bir popülasyon PK
+31 / 40analizinde faz II çalışma TPL102357’ye kayıtlı HCV’li hastalardan ve sağlıklı yetişkin
+deneklerden alınan verilerle birleştirildi. Faz III çalışmalarına kayıtlı HCV’li hastalar için
+plazma eltrombopag C ve EAA tahminleri, Tablo 8’de çalışılan her doz için sunulmuştur.
+max 0-τ
+Tablo 8: Kronik HCV’li hastalarda geometrik ortalama (%95 GA) kararlı durum plazma
+eltrombopag farmakokinetik parametreleri
+Eltrombopag Dozu N EAA C
+0-τ max
+(günde bir) (µ.h/mL) (µ.h/mL)
+25 mg 330 118 6,40
+(109;128) (5,97; 6,86)
+50 mg 119 166 9,08
+(143; 192) (7,96; 10,35)
+75 mg 45 301 16,71
+(250; 363) (14,26; 19,58)
+100 mg 96 354 19,19
+(304; 411) (16,81; 21,91)
+Veriler geometrik ortalama (%95 GA) olarak sunulur.
+EAA ve C , her hasta için verilerdeki en yüksek dozda popülasyon PK post-hoc
+(0-τ) max
+tahminlerine dayanır.
+Emilim:
+Eltrombopag, oral uygulamadan 2 ila 6 saat sonra oluşan bir pik konsantrasyonla emilir.
+Eltrombopagın antasitler ve süt ürünleri ve mineral takviyeleri gibi çok değerlikli katyonlar
+içeren diğer ürünlerle birlikte uygulanması, eltrombopag maruziyetini önemli ölçüde azaltır
+(bkz. Bölüm 4.2). Yetişkinlerde yapılan göreceli bir biyoyararlanım çalışmasında, oral
+süspansiyon için eltrombopag tozu, film kaplı tablet formülasyonundan %22 daha yüksek
+plazma EAA sağladı.
+(0-∞)
+Dağılım:
+Eltrombopag insanlarda plazma proteinlerine, esas olarak albümine, yüksek oranda (> %99,9)
+bağlanmaktadır. Eltrombopag BCRP için bir substrat olmakla birlikte P-glikoprotein veya
+OATP1B1 için bir substrat değildir.
+Biyotransformasyon:
+Eltrombopag temelde bölünme, oksidasyon ve konjugasyon yolakları ile glukuronik asit,
+glutatiyon veya sistein aracılığıyla metabolize edilmektedir. İnsanlarda yapılan bir radyo işaretli
+çalışmada eltrombopag plazma radyokarbon EAA ’nın yaklaşık %64’ünü oluşturmuştur.
+0-∞
+Ayrıca glukuronidasyon ve oksidasyon aracılığıyla oluşan minör metabolitler saptanmıştır. İn
+vitro çalışmalar, CYP1A2 ve CYP2C8’in eltrombopagın oksidatif metabolizmasından sorumlu
+olduğunu ileri sürmektedir. Glukuronidasyon için sorumlu olan üridin difosfoglukuronil
+32 / 40transferaz UGT1A1 ve UGT1A3 tanımlanmış olup bölünme yolağı için, alt gastrointestinal
+kanaldaki bakterilerin sorumlu olabileceği belirtilmiştir.
+Eliminasyon:
+Emilen eltrombopag yoğun şekilde metabolize edilmektedir. Eltrombopag atılımının temel
+yolağı feçes (%59) olup dozun %31’i idrarda metabolitler olarak saptanmıştır. Değişmemiş ana
+bileşik (eltrombopag) idrarda saptanmamıştır. Feçes yoluyla atılan değişmemiş eltrombopag
+dozun yaklaşık %20’sini oluşturmaktadır. Eltrombopagın plazma eliminasyon yarı ömrü
+yaklaşık 21-32 saattir.
+Farmakokinetik etkileşimler
+İnsanlarda radyo işaretli eltrombopag ile yapılan bir çalışmaya göre glukuronidasyon
+eltrombopag metabolizmasında minör bir rol oynamaktadır. İnsan karaciğer mikrozomları ile
+yapılan çalışmalarda eltrombopag glukuronidasyonundan sorumlu enzimler olarak UGT1A1 ve
+UGT1A3 tanımlanmıştır. Eltrombopag in vitro ortamda bazı UGT enzimlerini inhibe
+etmektedir. Eltrombopag ve birlikte uygulanması olası ilaçların glukuronidasyonunda bireysel
+UGT enzimlerinin katkısı sınırlı olduğundan glukuronidasyonu içeren klinik açıdan anlamlı ilaç
+etkileşimleri beklenmemektedir.
+Eltrombopag dozunun yaklaşık %21’i oksidatif metabolizmaya maruz kalabilir. İnsan karaciğer
+mikrozomları ile yapılan çalışmalarda eltrombopag oksidasyonu için sorumlu enzimler olarak
+CYP1A2 ve CYP2C8 tanımlanmıştır. Eltrombopag in vitro ve in vivo verilere göre CYP
+enzimlerini inhibe etmez veya indüklemez (bkz. Bölüm 4.5).
+İn vitro çalışmalar eltrombopagın bir OATP1B1 ve BCRP taşıyıcı inhibitörü olduğunu ve
+eltrombopagın bir klinik ilaç etkileşim çalışmasında OATP1B1 ve BCRP substratı rosuvastatin
+maruziyetini artırdığını göstermektedir (bkz. Bölüm 4.5). Eltrombopag klinik çalışmalarında
+statinlerin dozunun %50 azaltılması önerilmektedir.
+Eltrombopag demir, kalsiyum, magnezyum, alüminyum, selenyum ve çinko gibi polivalan
+katyonlar ile şelat oluşturmaktadır (bkz. Bölüm 4.2 ve 4.5).
+İn vitro çalışmalar, eltrombopagın organik anyon taşıyıcı polipeptit OATP1B1 için bir substrat
+olmadığını, ancak bu taşıyıcının bir inhibitörü olduğunu göstermiştir (IC değeri 2,7 µM (1,2
+50
+µg/mL). İn vitro çalışmalar ayrıca eltrombopagın meme kanseri direnç proteini (BCRP)
+substratı ve inhibitörü (2,7 µM IC değeri (1,2 µg/mL) olduğunu göstermiştir.
+50
+Doğrusallık/Doğrusal olmayan durum:
+İnsanlarda uygulandıktan sonra eltrombopag mutlak oral biyoyararlanımı gösterilmemiştir.
+Üriner atılım ve feçeste elimine edilen metabolitlere göre 75 mg eltrombopag çözeltisinin tek
+doz olarak uygulanmasını takiben ilaç ile ilişkili materyalin oral biyoyararlanımı en az %52
+olduğu hesaplanmıştır.
+33 / 40Hastalardaki karakteristik özellikler
+Böbrek yetmezliği:
+Eltrombopag farmakokinetiği böbrek yetmezliği bulunan erişkin hastalara eltrombopag
+uygulandıktan sonra incelenmiştir. Tek doz 50 mg uygulandıktan sonra eltrombopag EAA
+0-∞
+değeri sağlıklı gönüllülere kıyasla hafif ila orta şiddette böbrek yetmezliği olan deneklerde %32
+ila %36 daha düşük olup şiddetli böbrek yetmezliği olan deneklerde %60 daha düşüktür. Böbrek
+yetmezliği bulunan hastalar ile sağlıklı gönüllüler arasında maruziyette anlamlı bir örtüşme ve
+belirgin değişkenlik mevcuttur. Proteine yüksek oranda bağlanan bu tıbbi ürün için
+bağlanmamış eltrombopag (aktif) konsantrasyonları ölçülmemiştir. Böbrek yetmezliği olan
+hastalarda eltrombopag dikkatli kullanılmalı ve hastalar örneğin serum kreatinin testi ve/veya
+idrar analizi yapılarak yakından izlenmelidir (bkz. Bölüm 4.2). Eltrombopagın etkililiği ve
+güvenliliği hem orta ve ağır düzeyde böbrek yetmezliği hem de karaciğer bozukluğu olan
+hastalarda saptanmamıştır.
+Karaciğer yetmezliği:
+Eltrombopag farmakokinetiği karaciğer yetmezliği bulunan erişkin hastalara eltrombopag
+uygulandıktan sonra incelenmiştir. Tek doz 50 mg uygulandıktan sonra eltrombopag EAA
+0-∞
+değeri sağlıklı gönüllülere kıyasla hafif karaciğer yetmezliği olan deneklerde %41 daha yüksek
+olup orta şiddette ila şiddetli karaciğer yetmezliği olan deneklerde %80 ila %93 daha yüksektir.
+Karaciğer yetmezliği bulunan hastalar ile sağlıklı gönüllüler arasında maruziyette anlamlı bir
+örtüşme ve 24 belirgin değişkenlik mevcuttur. Proteine yüksek oranda bağlanan bu tıbbi ürün
+için bağlanmamış eltrombopag (aktif) konsantrasyonları ölçülmemiştir.
+Tekrarlanan uygulamayı takiben karaciğer yetmezliğinin eltrombopag farmakokinetiği
+üzerindeki etkisi, 28 sağlıklı yetişkin ve karaciğer yetmezliği olan 714 hastada (673 HCV’li
+hasta ve başka bir etiyolojiye sahip kronik karaciğer hastalığı olan 41 hasta) bir popülasyon
+farmakokinetik analizi kullanılarak değerlendirildi. 714 hastanın 642’sinde hafif karaciğer
+yetmezliği, 67’sinde orta derecede karaciğer yetmezliği ve 2’sinde şiddetli karaciğer yetmezliği
+vardı. Sağlıklı gönüllülerle karşılaştırıldığında, hafif karaciğer yetmezliği olan hastalarda
+plazma eltrombopag EAA değerleri yaklaşık %111 (%95 GA: %45 ila %283) ve orta
+(0-τ)
+derecede karaciğer yetmezliği olan hastalarda plazma eltrombopag EAA değerleri yaklaşık
+(0-τ)
+olarak %183 (%95 GA: %90 ila %459) daha yüksekti.
+Bu nedenle eltrombopag, beklenen yarar portal venöz tromboz için tanımlanan riskten daha
+fazla olmadıkça karaciğer yetmezliği olan ITP hastalarında (Child-Pugh skoru ≥ 5)
+kullanılmamalıdır (bkz. Bölüm 4.2 ve 4.4).
+Irk:
+Doğu-Asya ırkının eltrombopag farmakokinetiği üzerindeki etkisi 111 sağlıklı erişkin (31
+Doğu-Asyalı) ve 88 ITP hastasında (18 Doğu-Asyalı) yapılan bir popülasyon farmakokinetik
+analizi kullanılarak değerlendirilmiştir. Popülasyon farmakokinetik analizi hesaplamalarına
+göre Doğu-Asyalı ITP hastalarında temelde beyaz ırktan olan Doğu-Asyalı olmayan hastalara
+kıyasla eltrombopag EAA değerleri vücut ağırlığı farklarına göre bir ayarlama olmaksızın
+(0-τ)
+yaklaşık %49 daha yüksektir (bkz. Bölüm 4.2).
+34 / 40Doğu/Güneydoğu-Asya etnik kökeninin eltrombopag farmakokinetiği üzerindeki etkisi,
+HCV’li 635 hastada (145 Doğu Asyalı ve 69 Güneydoğu Asyalı) bir popülasyon
+farmakokinetik analizi kullanılarak değerlendirilmiştir. Popülasyon farmakokinetik analizinden
+elde edilen tahminlere dayalı olarak, Doğu/Güneydoğu-Asyalı hastalar, ağırlıklı olarak Beyaz
+ırktan olan diğer ırklardan hastalara kıyasla yaklaşık %55 daha yüksek plazma eltrombopag
+EAA değerlerine sahiptir (bkz. Bölüm 4.2).
+(0-τ)
+Cinsiyet:
+Cinsiyetin eltrombopag farmakokinetiği üzerindeki etkisi 111 sağlıklı erişkin (14 kadın) ve 88
+ITP hastasında (57 kadın) yapılan bir popülasyon farmakokinetik analizi kullanılarak
+değerlendirilmiştir. Popülasyon farmakokinetik analizi hesaplamalarına göre kadın ITP
+hastalarında erkek hastalara kıyasla eltrombopag EAA değerleri vücut ağırlığı farklarına
+(0-τ)
+göre bir ayarlama olmaksızın yaklaşık %23 daha yüksektir.
+Cinsiyetin eltrombopag farmakokinetiği üzerindeki etkisi, HCV’li 635 hastada (260 kadın)
+popülasyon farmakokinetiği analizi kullanılarak değerlendirilmiştir. Model tahminine göre,
+HCV’li kadın hastalar, erkek hastalara oranla yaklaşık %41 daha yüksek plazma eltrombopag
+EAA değerine sahiptir.
+(0-τ)
+Yaş:
+Yaşın eltrombopag farmakokinetiği üzerindeki etkisi, yaşları 19 ile 74 arasında değişen 28
+sağlıklı gönüllü, HCV’li 673 hasta ve başka etiyolojiye sahip kronik karaciğer hastalığı olan 41
+hastada popülasyon farmakokinetiği analizi kullanılarak değerlendirildi. Yaşı 75 ve üzeri olan
+hastalarda eltrombopag kullanımına ilişkin herhangi bir farmakokinetik veri bulunmamaktadır.
+Model tahminine göre, yaşlı (≥ 65 yaş) hastalarda, genç hastalara kıyasla yaklaşık %41 daha
+yüksek plazma eltrombopag EAA vardır (bkz. Bölüm 4.2).
+(0-τ)
+Pediyatrik popülasyon (1-17 yaş arası):
+Eltrombopagın farmakokinetiği, iki çalışmada (TRA108062/PETIT ve TRA115450/PETIT-2)
+günde bir kez doz uygulanan 168 pediyatrik ITP hastasında değerlendirilmiştir. Oral uygulama
+(CL/P) sonrasında plazma eltrombopag görünür klirensi, beden ağırlığı ile orantılı artış
+göstermiştir. Irk ve cinsiyetin hesaplanan eltrombopag CL/F değerleri üzerindeki etkileri,
+pediyatrik ve erişkin hastalar arasında uyumlu olmuştur. Doğu/Güneydoğu Asyalı pediyatrik
+ITP hastalarında plazma eltrombopag EAA değerleri, Asyalı olmayan hastalara göre %43
+(0-τ)
+daha yüksek olmuştur. Pediyatrik kız hastaların EAA değerleri, erkek hastalara kıyasla %25
+(0-τ)
+daha yüksek olmuştur.
+Eltrombopagın ITP’li hastalardaki farmakokinetik parametreleri Tablo 9’da gösterilmektedir.
+35 / 40Tablo 9: ITP’li pediyatrik hastalarda geometrik ortalama (%95 GA) kararlı durum
+plazma eltrombopag farmakokinetik parametreleri (günde bir kez 50 mg doz rejimi)
+Yaş C EAA
+maks (0-τ)
+(µm/mL) (µm.hr/mL)
+12 ila 17 yaş (n=62) 6,80 103
+(6,17; 7,5) (91,1; 116)
+6 ila 11 yaş (n=68) 10,3 153
+(9,42; 11,2) (137; 170)
+1 ila 5 yaş (n=38) 11,6 162
+(10,4; 12,9) (139; 187)
+Veriler geometrik ortalama olarak sunulmaktadır (%95 GA). EAA ve C , popülasyon
+(0-τ) maks
+farmakokinetik (PK) post-hoc hesaplamalarına dayalıdır.
+5.3. Klinik öncesi güvenlilik verileri
+Güvenlilik farmakolojisi ve tekrarlanan doz toksisitesi
+Eltrombopag sıçan, fare veya köpeklerde özel TPO reseptör özgünlüğü nedeniyle trombosit
+üretimini stimüle etmemektedir. Bu nedenle söz konusu hayvanlardaki veriler üreme ve
+karsinojenisite çalışmaları dahil insanlarda eltrombopag farmakolojisi ile ilişkili potansiyel yan
+etkiler için tam bir model oluşturmamaktadır.
+Tedavi ile ilişkili katarakt kemirgenlerde saptanmış olup doza ve zamana bağlı bulunmuştur.
+75 mg/gün uygulanan ITP hastalarında EAA’ya göre insanlardaki klinik maruziyetin ≥ 6 katı
+maruziyette farelerde 6 ve sıçanlarda 28 haftalık dozlamdan sonra katarakt gözlenmiştir. 75
+mg/gün dozunda uygulanan ITP hastalarında EAA’ya göre insanlardaki klinik maruziyetin ≥ 4
+katı maruziyette, farelerde 13 ve sıçanlarda 39 haftalık dozlamdan sonra katarakt gözlenmiştir.
+4-32. günler arasında (doz uygulama dönemi sonunda yaklaşık olarak 2 yaşındaki bir insana
+eşit) dozlar uygulanan, sütten kesme dönemi öncesindeki yavru sıçanlarda tolere edilmeyen
+dozlarda, EAA bazında 75 mg/gün dozunda pediyatrik ITP hastalarındaki maksimum insan
+klinik maruziyetinin 9 katı maruziyette oküler opasiteler gözlenmiştir. Diğer yandan, EAA
+bazında pediyatrik ITP hastalarındaki beşeri klinik maruziyetin 5 katı düzeyindeki tolere edilen
+dozlarda yavru sıçanlarda kataraktlar gözlenmemiştir. Katarakt yetişkin köpeklerde 52 haftalık
+dozlamdan sonra gözlenmemiştir (75 mg/gün dozunda yetişkin veya pediatrik ITP hastalarında
+insan klinik maruziyetinin 2 katı ve EAA’ya göre 100 mg/gün dozunda HCV hastalarında insan
+klinik maruziyetine eşdeğer).
+Renal tübüler toksisite fareler ve sıçanlarda genelde morbidite ve mortalite ile ilişkilendirilen
+maruziyetlerde 14 güne kadar süren çalışmalarda gözlenmiştir. Tübüler toksisite ayrıca
+farelerde 25, 75 ve 150 mg/kg/gün dozlarında 2 yıllık oral karsinojenisite çalışmasında da
+gözlenmiştir. Bu etkiler daha düşük dozlarda daha az şiddetli olup çeşitli rejeneratif
+değişiklikler ile karakterizedir. En düşük dozdaki maruziyet, yetişkin veya pediyatrik ITP
+hastalarında 75 mg/gün dozdaki EAA’ya dayalı insan klinik maruziyetinin 1,2 veya 0,8 katı ve
+EAA’ya dayalı olarak HCV hastalarında 100 mg/gün dozunda insan klinik maruziyetinin 0,6
+katıydı. Yetişkin ITP hastalarında insan klinik maruziyetinin 4 ve 2 katı, pediyatrik ITP
+36 / 40hastalarında 75 mg/gün ve 2 insan klinik maruziyetinin 3 ve 2 katı maruziyetlerde sıçanlarda
+28 hafta sonra veya köpeklerde 52 hafta sonra renal etkiler gözlenmemiştir. EAA bazında 100
+mg/gün HCV hastalarında insan klinik maruziyetine eşdeğerdir.
+Morbidite ve mortalite ile ilişkilendirilen veya kötü tolere edilen dozlarda fare, sıçan ve
+köpeklerde sıklıkla serum karaciğer enzimlerinde bir artışın eşlik ettiği hepatosit dejenerasyonu
+ve/veya nekrozu gözlenmiştir. EAA’ya göre 100 mg/gün dozunda HCV’li hastaların insan
+klinik maruziyetinin 2 veya eş katlarında, 75 mg/gün dozunda yetişkin ITP hastalarındaki insan
+klinik maruziyetinin 4 veya 2 katında ve pediyatrik ITP hastalarında insan klinik maruziyetinin
+3 veya 2 katında maruziyetlerde, sıçanlarda (28 hafta) ve köpeklerde (52 hafta) kronik doz
+uygulamasından sonra herhangi bir hepatik etki gözlenmemiştir.
+Sıçan ve köpeklerde kötü tolere edilen dozlarda (EAA’ya göre 75 mg/gün dozundaki erişkin
+veya pediyatrik ITP hastalarda insanlardaki klinik maruziyetin > 10 veya 7 katı ve 100 mg/gün
+dozundaki HCV’li hastalarda insanlardaki klinik maruziyetin > 4 katı ), kısa süreli çalışmalarda
+retikülosit sayısında azalma ve rejeneratif kemik iliği eritroid hiperplazisi (sadece sıçanlarda)
+gözlenmiştir. EAA’ya göre 75 mg/gün dozunda erişkin veya pediyatrik ITP hastalarında
+insanlarda klinik maruziyetin 2 ila 4 katı, 100 mg/gün dozundaki HCV’li hastaların insan klinik
+maruziyetin ise ≤ 2 katı olan maksimum tolere edilen dozlarda, sıçanlarda 28 hafta, köpeklerde
+52 hafta ve farelerde ya da sıçanlarda 2 yıla kadarki dozlamlardan sonra eritrosit kütlesi veya
+retikülosit sayılarında herhangi bir önemli etki söz konusu değildir.
+Sıçanlarda tolere edilemeyen 60 mg/kg/gün dozunda (EAA’ya göre 75 mg/gün dozunda erişkin
+veya pediyatrik ITP’li hastalarda insanlardaki klinik maruziyetin 6 veya 4 katı ve 100 mg/gün
+dozunda HCV’li hastalarda insanlardaki klinik maruziyetin 3 katı) 28 haftalık bir toksisite
+çalışmasında endosteal hiperostoz gözlenmiştir. EAA’ya göre 75 mg/gün dozunda erişkin ya
+da pediyatrik ITP hastalarında insanlardaki klinik maruziyetin 2 katı, 100 mg/gün dozunda
+HCV’li hastaların insan klinik maruziyetin 2 katı ve 4 katı yaşam boyu (2 yıl) maruziyette fare
+veya sıçanlarda kemik değişikliği mevcut değildir.
+Karsinojenisite ve mutajenisite
+Eltrombopag, farelerde 75 mg/kg/gün veya sıçanlarda 40 mg/kg/gün dozlarına kadar (EAA’ya
+göre, 75 mg/gün uygulanan erişkin veya pediyatrik ITP hastalarında insanlardaki klinik
+maruziyetin sırasıyla 4 veya 2 katı ve 100 mg/gün dozunda HCV’li hastalarda insan klinik
+maruziyetin 2 katı) karsinojenik değildir. Eltrombopag bir bakteri mutasyon testi veya iki in
+vivo testte mutajenik veya klastojenik bulunmamıştır (mikronükleus ve programlanmamış DNA
+sentezi, C ’a göre 75 mg/gün uygulanan erişkin veya pediyatrik ITP hastalarında
+maks
+insanlardaki klinik maruziyetin 10 veya 8 katı ve 100 mg/gün dozunda HCV’li hastalarda insan
+klinik maruziyetin 7 katı ). İn vitro fare lenfoma testinde eltrombopag marjinal anlamda pozitif
+bulunmuştur (mutasyon frekansında < 3 kat artış). Bu in vitro ve in vivo bulgular eltrombopagın
+insanlar için bir genotoksik risk oluşturmadığını düşündürmektedir.
+37 / 40Üreme toksisitesi
+Eltrombopag, sıçanlarda 20 mg/kg/güne (EAA bazında 75 mg/kg gün dozunda erişkin ve
+adolesan [12-17 yaş] ITP hastalarındaki ve 100 mg/gün dozunda HCV’li hastalardaki insan
+klinik maruziyetinin 2 katı) kadarki dozlarda dişi fertilitesini, erken dönemde embriyo
+gelişimini ve embriyofetal gelişimi etkilememiştir. Ayrıca test edilen en yüksek doz olan 150
+mg/kg/gün’e kadar olan dozlarda tavşanlarda embriyofetal gelişim üzerinde bir etki mevcut
+değildir (EAA’ya göre 75 mg/gün dozunda ITP’li hastalarda ve 100 mg/gün dozunda HCV’li
+hastalarda insanlardaki klinik maruziyetin 0,3 ila 0,5 katı).
+Bununla birlikte, sıçanlarda maternal toksik 60 mg/kg/gün dozlarında (EAA’ya göre 75 mg/kg
+gün dozunda ITP’li hastalarda insanlardaki klinik maruziyetin 6 katı ve 100 mg/gün dozunda
+HCV’li hastalarda insanlardaki klinik maruziyetin 3 katı), eltrombopag tedavisi dişi fertilite
+çalışmasında, embriyoletalite (artan preimplantasyon ve postimplantasyon kaybı), düşük fetal
+vücut ağırlığı ve gravid uterin ağırlığı, embriyofetal gelişim çalışmasında daha düşük servikal
+kosta insidansı ve düşük fetal vücut ağırlığı ile ilişkilendirilmiştir. Eltrombopag, beklenen
+faydalar fetüsün maruz kalacağı potansiyel riskten daha fazla değilse gebelik sırasında
+kullanılmamalıdır (bkz. Bölüm 4.6). Eltrombopag sıçanlarda test edilen en yüksek dozu olan
+40 mg/kg/gün dozunda (EAA’ya göre 75 mg/kg gün dozunda ITP’li hastalarda insanlardaki
+klinik maruziyetin 3 katı ve 100 mg/gün dozunda HCV’li hastalarda insanlardaki klinik
+maruziyetin 2 katı) erkeklerde fertiliteyi etkilememiştir. Sıçanlarda prenatal ve postnatal
+gelişim çalışmasında maternal toksik olmayan dozlarda (10 ve 20 mg/kg/gün) F dişi sıçanlarda
+0
+gebelik, partürisyon veya laktasyonda istenmeyen etki gözlenmemiş olup yavrularda (F )
+1
+büyüme, gelişim, norödavranış veya üreme fonksiyonunda da etki gözlenmemiştir.
+Eltrombopag ürünün F annelere uygulanmasını takiben 22 saatlik numune alma periyodunda
+0
+tüm F sıçan yavrularının plazmasında tespit edilmiş olup sıçanlarda eltrombopag
+1
+maruziyetinin olasılıkla laktasyon aracılığıyla gerçekleştiğini düşündürmektedir.
+Fototoksisite
+İn vitro eltrombopag çalışmaları potansiyel bir fototoksisite riski düşündürmekle birlikte
+kemirgenlerde kütanöz fototoksisite (EAA’ya göre 75 mg/kg gün dozunda erişkin veya
+pediyatrik ITP’li hastalarda insanlardaki klinik maruziyetin 10 veya 7 katı ve 100 mg/gün
+dozunda HCV’li hastalarda insanlardaki klinik maruziyetin 5 katı) veya oküler toksisite
+(EAA’ya göre 75 mg/kg gün dozunda erişkin veya pediyatrik ITP’li hastalarda insanlardaki
+klinik maruziyetin ≥ 4 katı ve 100 mg/gün dozunda HCV’li hastalarda insanlardaki klinik
+maruziyetin 3 katı) kanıtına rastlanmamıştır. Ayrıca 36 denekte yapılan bir klinik farmakoloji
+çalışmasında eltrombopag 75 mg dozunun uygulanmasından sonra fotosensitivitenin arttığına
+ilişkin kanıt bulunmamaktadır. Bu ölçüm geciken fototoksik endeksle yapılmıştır. Bununla
+birlikte spesifik klinik dışı çalışma yapılmadığından potansiyel fotoallerji riski göz ardı
+edilemez.
+Jüvenil dönem hayvan çalışmaları
+Sütten kesim öncesi sıçanlarda tolere edilmeyen dozlarda oküler opasiteler gözlenmiştir. Tolere
+edilen dozlarda, oküler opasite gözlenmemiştir (bkz. yukarıda ‘Güvenlilik farmakolojisi ve
+tekrarlanan doz toksisitesi’ alt bölümü). Sonuç olarak, EAA değerine dayalı maruziyet marjları
+38 / 40göz önüne alındığında, pediyatrik hastalarda eltrombopag ile ilişkili katarakt riski göz ardı
+edilememektedir. Yavru sıçanlarda, erişkin ITP hastaları karşısında pediyatrik ITP hastalarında
+eltrombopag ile daha büyük bir toksisite riskini düşündürecek bulgular bulunmamaktadır.
+6. FARMASÖTİK ÖZELLİKLER
+6.1. Yardımcı maddelerin listesi
+Mikrokristalin selüloz (PH 101)
+Mannitol (Tip 50C)
+Povidon K30
+Mikrokristalin selüloz (PH 112)
+Sodyum nişasta glikolat
+Magnezyum stearat
+Opadry 13B28444 Beyaz Film Kaplama
+HPMC 2910 /Hipromelloz
+Titanyum dioksit
+Makrogol/PEG
+Polisorbat 80
+6.2. Geçimsizlikler
+Geçerli değildir.
+6.3. Raf Ömrü
+24 ay
+6.4. Saklamaya yönelik özel tedbirler
+30oC altındaki oda sıcaklığında saklanmalıdır.
+6.5. Ambalajın niteliği ve içeriği
+Ürünümüz için primer ambalaj malzemesi olarak şeffaf PVC-Aclar ve alüminyum folyodan
+oluşan blister kullanılmaktadır. Blisterler karton kutular içerisinde paketlenir. Bir karton kutu
+içerisinde 14 adet film kaplı tablet içeren blister ambalajlarda kullanma talimatı ile birlikte
+sunulmaktadır.
+6.6. Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+Kullanılmamış olan ürünler ya da atık materyaller ‘Tıbbi Atıkların Kontrolü Yönetmeliği’ ve
+‘Ambalaj Atıklarının Kontrolü Yönetmelikleri’ne uygun olarak imha edilmelidir.
+7. RUHSAT SAHİBİ
+DEVA Holding A.Ş.
+Halkalı Merkez Mah.
+Basın Ekspres Cad. No:1 34303
+Küçükçekmece/İSTANBUL
+Tel: 0212 692 92 92
+Faks: 0212 697 00 24
+39 / 40E-mail: deva@devaholding.com.tr
+8. RUHSAT NUMARASI(LARI)
+2023/244
+9. İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi: 23.06.2023
+Ruhsat yenileme tarihi:
+10. KÜB’ÜN YENİLENME TARİHİ
+40 / 40

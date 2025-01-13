@@ -1,0 +1,518 @@
+KISA ÜRÜN BİLGİSİ
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+ANAGLYN 0,5 mg sert kapsül
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde: Her bir sert kapsül 0,5 mg anagrelide eşdeğer 0,61 mg anagrelid hidroklorür
+içerir.
+Yardımcı maddeler:
+Laktoz monohidrat (inek sütü kaynaklı) 50 mg
+Laktoz anhidröz (inek sütü kaynaklı) 37,14 mg
+Yardımcı maddeler için Bölüm 6.1’e bakınız.
+3. FARMASÖTİK FORM
+Sert kapsül.
+Beyaz beyaza yakın ince toz içeren beyaz renkli sert jelatin kapsül (kapsül no:2).
+4. KLİNİK ÖZELLİKLER
+4.1.Terapötik endikasyonlar
+ANAGLYN, hidroksiüre ve aspirin tedavisine yanıt vermeyen, venöz trombozu olan veya
+hidroksiüre kullanımı sonrası tolere edilemeyecek derecede anemi ve/veya lökopeni gelişen
+yüksek vasküler riskli esansiyel trombositemi tedavisinde endikedir.
+Ayrıca, ANAGLYN, miyeloproliferatif hastalıklar (miyelofibrosiz, polisitemia vera, kronik
+myeloid lösemi, trombositomozla giden atipik myeloproliferatif/ myelodisplastik sendromlu)
+seyrinde gelişen trombositoz tedavisinde, yukarıdaki koşullarda hidroksiüre ile yanıt elde
+edilemezse kullanılabilir.
+4.2.Pozoloji ve uygulama şekli
+ANAGLYN ile tedavi, esansiyel trombositemi hastalığının tedavisinde deneyimli bir tabip
+tarafından başlatılmalıdır.
+Pozoloji
+Anagrelid için önerilen başlangıç dozu 1 mg/gündür, bu doz oral olarak günde iki defa alınarak
+sağlanır (0,5 mg/doz).
+Başlangıç dozu en az bir hafta sürdürülmelidir. Bir hafta sonrasında, trombosit sayısını
+600x109/l düzeyi altına düşürmek ya da bu düzeyde tutmak ve ideal olarak da 150 x 109/l ve
+400 x 109/l aralığında tutmak için gerekli en düşük etkin doza ulaşmak için doz bireysel temelde
+titre edilebilir. Doz artışı, herhangi bir haftada 0,5 mg/gün’ü aşmamalıdır ve önerilen
+maksimum tek doz 2,5 mg’ı aşmamalıdır (Bkz. Bölüm 4.9). Klinik geliştirmede, 10 mg/gün
+doz kullanılmıştır.
+1Anagrelid ile tedavinin etkileri düzenli bir şekilde takip edilmelidir (Bkz. Bölüm 4.4). Eğer
+başlangıç dozu >1 mg/gün ise, trombosit sayımı tedavinin ilk haftasında iki günde bir
+gerçekleştirilmelidir ve sonrasında stabil bir tedaviye ulaşılmasını takiben haftada en az bir defa
+sayım yapılmalıdır. Genellikle, trombosit sayısındaki düşüş tedavi başlangıcından itibaren 14-
+21 gün içinde gözlenir ve hastaların çoğunda, yeterli terapötik cevap 1-3 mg/gün yitilikte
+görülür (klinik etkilerle ilgili daha ayrıntılı bilgi için Bkz. Bölüm 5.1).
+Uygulama şekli:
+ANAGLYN oral kullanım içindir. Kapsüller bütün halde yutulmalıdır. Kapsül kırılmamalı
+içeriği bir sıvı içerisinde seyreltilmemelidir.
+Özel popülasyonlara ilişkin ek bilgiler:
+Böbrek yetmezliği:
+Bu hasta popülasyonu için sınırlı farmakokinetik veri bulunmaktadır. Böbrek yetersizliği olan
+bir hastada anagrelid tedavisinin potansiyel riskleri ve faydaları tedaviye başlanmadan önce
+değerlendirilmelidir (Bkz. Bölüm 4.3).
+Karaciğer yetmezliği:
+Bu hasta popülasyonu için sınırlı farmakokinetik veri bulunmaktadır. Ancak, hepatik
+metabolizma, anagrelid klerensi için temel yolu temsil etmektedir ve bu yüzden karaciğer
+fonksiyonunun bu prosesi etkilemesi beklenir. Bu yüzden orta ya da ciddi düzeyde karaciğer
+rahatsızlığı bulunan hastaların anagrelid tedavisi almaması önerilmektedir. Hafif karaciğer
+yetmezliği olan hastalarda anagrelid tedavisinin potansiyel riskleri ve faydaları, tedaviye
+başlanmadan önce değerlendirilmelidir (Bkz. Bölüm 4.3 ve 4.4).
+Pediyatrik popülasyon:
+Anagrelidin çocuklarda kullanımında etkinliği ve güvenilirliği değerlendirilmemiştir. Çocuklar
+ve adölesanlarda deneyim oldukça kısıtlıdır; anagrelid bu hasta grubunda dikkatle
+kullanılmalıdır. Spesifik pediyatrik kılavuzların yokluğunda, WHO yetişkinlerde ET (Esansiyel
+trombositemi) için tanı kriterlerinin, pediyatrik popülasyon ile ilintili olduğu kabul edilir.
+Esansiyel trombositemi için tanı kılavuzları dikkatle takip edilmeli ve emin olmama durumunda
+periyodik olarak tanı yeniden değerlendirilmelidir (genetik analiz ve kemik iliği biyopsisi ile
+olabilir), herediter ya da sekonder trombositozu ayırt edebilmek için bir çaba gösterilmelidir.
+Genellikle yüksek riskli pediyatrik hastalarda, sitoredüktif tedavi düşünülmektedir.
+Anagrelid tedavisi yalnızca, tromboz hastalığını çeken ya da hastalık belirtilerinin ilerlediği
+görülen hastalarda başlatılmalıdır. Eğer tedavi başlatılırsa, anagrelid ile tedavinin faydaları ve
+riskleri düzenli bir şekilde takip edilmeli ve devam eden tedaviye olan ihtiyaç periyodik olarak
+değerlendirilmelidir.
+Hedeflenen trombosit, tedavi eden tabip tarafından bireysel olarak hastaya göre belirlenir.
+Yaklaşık 3 ay sonrasında tedaviye tatmin edici bir şekilde cevap vermeyen pediyatrik hastalarda
+2tedavinin sonlandırılması düşünülmelidir.
+Mevcut veri bölümler 4.4, 4.8, 5.1 ve 5.2’de bulunmaktadır ancak pozoloji üzerine bir öneri
+yapılamamaktadır.
+Geriyatrik popülasyon:
+ET hastası yaşlı ve genç nüfus arasında gözlenen farmakokinetik farklılıklar (Bkz. Bölüm 5.2),
+bireysel hastaya göre düzenlenmiş anagrelid rejimine ulaşmak için gerekli farklı doz titrasyonu
+ya da farklı başlangıç rejimini garantilemez.
+Klinik geliştirme esnasında, anagrelid verilen hastaların yaklaşık %50’si 60 yaşın üzerindeydi
+ve bu hastalarda yaş spesifik bir değişikliğe ihtiyaç duyulmamıştır. Ancak, beklendiği üzere bu
+yaş grubundaki hastalarda, ciddi yan etkilerin görülme sıklığı iki katı gözlenmiştir (temel olarak
+kardiyak).
+4.3.Kontrendikasyonlar
+Anagrelide ya da bölüm 6.1’de sıralanan ürün içerisindeki yardımcı maddelerden herhangi
+birine karşı aşırı hassasiyeti olan hastalarda,
+Orta ya da ciddi düzeyde karaciğer yetmezliği olan hastalarda,
+Orta ya da ciddi düzeyde böbrek yetmezliği olan (kreatin klerensi <50ml/dk) hastalarda
+kontrendikedir.
+4.4.Özel kullanım uyarıları ve önlemleri
+Karaciğer yetmezliği
+Anagrelid tedavisine başlamadan önce hafif karaciğer yetmezliği olan hastalarda potansiyel
+riskler ve faydalar değerlendirilmelidir. Transaminaz düzeylerinde artış olan hastalarda
+önerilmemektedir (normal üst sınırın 5 katından fazla) (Bkz. Bölüm 4.2 ve 4.3).
+Böbrek yetmezliği
+Tedaviye başlanmadan önce böbrek rahatsızlığı olan hastalarda potansiyel riskler ve faydalar
+değerlendirilmelidir (Bkz. Bölüm 4.2 ve 4.3).
+Trombotik Risk
+Serebral enfarktüs gibi potansiyel olarak ölümcül trombotik komplikasyonlara yol açabilecek
+trombosit sayısındaki ani artış riski nedeniyle, ani tedavinin kesilmesinden kaçınılmalıdır.
+Hastalara, serebral enfarktüs gibi trombotik komplikasyonları düşündüren erken belirti ve
+semptomları nasıl tanıyacakları ve semptomlar ortaya çıkarsa tıbbi yardım almaları
+önerilmelidir.
+Tedavinin kesilmesi
+Dozaj kesilmesi veya tedavinin bırakılması durumunda, trombosit sayısındaki toparlanma
+değişkendir, ancak trombosit sayısı, anagrelid ile tedaviyi bıraktıktan sonraki 4 gün içinde
+artmaya başlayacak ve muhtemelen başlangıç değerlerinin üzerine çıkarak 10 ila 14 gün içinde
+tedavi öncesi seviyelerine dönecektir. Bu nedenle trombositler sık sık izlenmelidir (bkz. Bölüm
+34.2).
+Takip
+Tedavi; tam kan sayımı (hemoglobin, akyuvar ve trombosit sayısı), karaciğer fonksiyonu
+değerlendirmesi (ALT ve AST), böbrek fonksiyonları (serum kreatin ve üre) ve elektrolitlerin
+(potasyum, magnezyum ve kalsiyum) değerlendirilmesini de içerecek şekilde hastanın yakın
+şekilde klinik takibini gerektirmektedir.
+Kardiyovasküler
+Torsade de pointes, ventriküler taşikardi, kardiyomiyopati, kardiomegali ve konjestif kalp
+yetmezliği de dahil olmak üzere ciddi kardiyovasküler advers etkiler raporlanmıştır (Bkz.
+Bölüm 4.8).
+Doğuştan uzun QT sendromu olan, zamanla kazanılan QTc uzaması hikayesi, QTc aralığını
+uzatabilecek beşeri tıbbi ürünlerin alımı ve hipokalemi gibi bilinen QT aralığının uzaması için
+risk faktörlerine sahip olan hastalarda anagrelid kullanımında dikkat edilmelidir.
+Anagrelid ya da onun aktif metaboliti 3-hidroksi-anagrelid maksimum plazma konsantrasyonu
+daha yüksek (C ) olabilecek popülasyonlarda da (örneğin karaciğer yetmezliği ya da
+maks
+CYP1A2 inhibitörleri ile birlikte kullanım) anagrelid alımında dikkat edilmelidir(Bkz. Bölüm
+4.5).
+QTc aralığına etkisinin yakından izlenmesi önerilmektedir. .
+Anagrelid tedavisine başlamadan önce, tedavi öncesi temel EKG ve ekokardiyografiyi de içeren
+kardiyovasküler değerlendirme önerilmektedir. Tedavi boyunca, daha ayrıntılı kardiyovasküler
+araştırma ve değerlendirme gerektirebilecek kardiyovasküler etkileri gözlemlemek için tüm
+hastalar düzenli olarak (örneğin EKG ya da ekokardiyografi ile) takip edilmelidir. Anagrelid
+alımı öncesinde hipokalemi ya da hipomagnezemi varsa düzeltilmelidir ve tedavi boyunca
+düzenli olarak takip edilmelidir.
+Anagrelid, siklik AMP fosfodiesteraz III’ün bir inhibitörüdür ve pozitif inotropik ve
+kronotropik etkileri sebebiyle, anagrelid, kalp rahatsızlığı olan ya da olma şüphesi olan tüm yaş
+gruplarında dikkatle kullanılmalıdır. Dahası, ciddi kardiyovasküler advers olaylar, bilinen bir
+kalp rahatsızlığı olmayan ve normal tedavi öncesi kardiyovasküler sonuçları olan hastalarda
+dahi gözlenmiştir.
+Anagrelid ancak, potansiyel tedavi faydaları, potansiyel risklerden daha ağır bastığında
+kullanılmalıdır.
+Pulmoner hipertansiyon
+Anagrelid ile tedavi edilen hastalarda, pulmoner hipertansiyon vakaları raporlanmıştır.
+Anagrelid tedavisine başlamadan önce ve tedavi süresince, hastalar altta yatan kardiyopulmoner
+hastalık belirtileri ve semptomları için değerlendirilmelidir.
+4Pediyatrik popülasyon
+Anagrelidin pediyatrik popülasyonda kullanımı üzerine oldukça sınırlı veri bulunmaktadır ve
+bu hasta grubunda anagrelid dikkatle kullanılmalıdır (Bkz. Bölüm 4.2, 4.8, 5.1 ve 5.2).
+Yetişkin popülasyonda olduğu gibi, tedavi öncesi ve tedavi süresince düzenli olarak tam kan
+sayımı ve kardiyak, hepatik ve renal fonksiyon değerlendirmesi yapılmalıdır. Hastalık
+miyelofibroz ya da AML’ye ilerleyebilir. Bu şekilde bir ilerlemenin oranı bilinmese de,
+çocuklar daha uzun hastalık seyrine sahiptir ve bu yüzden yetişkinlere kıyasla kötü huyluluğa
+geçiş evresi için daha yüksek riskte olabilir. Hastalığın seyrini gözlemlemek için çocuklar
+düzenli olarak, fiziksel muayene, ilgili hastalık belirtilerinin değerlendirilmesi ve kemik iliği
+biyopsisi gibi standart klinik uygulamalara göre izlenmelidir.
+Herhangi bir anormallik hızla değerlendirilmeli ve uygun önlemler alınmalıdır, bu önlemler
+dozun düşürülmesi, ilaca ara verilmesi ya da ilacın kesilmesi şeklinde olabilir.
+Klinik olarak ilişkili etkileşimler
+Anagrelid, siklik AMP fosfodiesteraz III’ün (PDE III) bir inhibitörüdür. Anagrelidin, milrinon,
+amrinon, enoksimon, olprinon ve silostazol gibi diğer PDE III inhibitörleri ile birlikte alımı
+önerilmemektedir.
+Anagrelidin, asetilsalisilik asit ile birlikte alımı majör hemorajik olaylar ile ilişkilendirilmiştir
+(Bkz. Bölüm 4.5).
+Laktoz uyarısı:
+ANAGLYN laktoz içerir. Nadir kalıtımsal galaktoz intoleransı, Lapp laktaz yetmezliği ya da
+glukoz-galaktoz malabsorpsiyon problemi olan hastaların bu ilacı kullanmamaları gerekir.
+4.5.Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+Anagrelid ve diğer beşeri tıbbi ürünler arasında olası etkileşimleri inceleyen farmakokinetik
+ve/veya farmakodinamik çalışmalar oldukça kısıtlıdır.
+Diğer etkin maddelerin anagrelid üzerindeki etkileri
+ İnsanlarda yürütülen in-vivo çalışmalar, digoksin ve varfarin’in, anagrelidin
+farmakokinetik özelliklerini etkilemediğini göstermiştir.
+CYP1A2 inhibitörleri
+ Anagrelid öncelikle CYP1A2 tarafından metabolize edilir. CYP1A2’nin fluvoksamin
+ve enoksasinin de aralarında bulunduğu birtakım beşeri tıbbi ürünler tarafından inhibe
+edildiği bilinmektedir ve bu beşeri tıbbi ürünler teorik olarak anagrelid klerensini
+olumsuz yönde etkiler.
+CYP1A2 indükleyiciler
+ Omeprazol gibi CYP1A2 indükleyicileri, anagrelid maruziyetini düşürebilir (bakınız
+bölüm 5.2). Anagrelid etkililik ve güvenliliği üzerindeki sonuçları
+5değerlendirilmemiştir. Bu yüzden, anagrelid ile birlikte CYP1A2 indükleyicilerinin
+alımında klinik ve biyolojik takip yapılmalıdır. Gerekirse, anagrelid doz ayarlaması
+yapılmalıdır.
+Anagrelidin diğer etkin maddeler üzerindeki etkileri
+ Anagrelid sınırlı düzeyde CYP1A2’ye karşı inhibitör etki gösterir, bu da teorik olarak,
+bu klerens mekanizmasını paylaşan beşeri tıbbi ürünler ile birlikte alımında olası bir
+etkileşim gösterebilir, örn. teofilin.
+ Anagrelid bir PDE III inhibitörüdür. İntroplar milrinon, enoksimon, amrinon, olprinon
+ve silostazol gibi benzer özelliğe sahip beşeri tıbbi ürünleri etkileri anagrelid tarafından
+artırılabilir.
+ İnsanlarda, in vivo etkileşim çalışmaları, anagrelidin digoksin ya da varfarinin
+farmakokinetik özelliklerini etkilemediğini göstermiştir.
+ Esansiyel trombositemi tedavisinde kullanım için önerilen dozlarda, anagrelid trombosit
+fonksiyonlarını inhibe eden veya değiştiren diğer beşeri tıbbi ürünlerin etkilerinin
+gücünü artırabilir, örn. asetilsalisilik asit.
+ Sağlıklı gönüllülerde yürütülen bir klinik etkileşim çalışmasında, günde bir defa 1 mg
+anagrelidin tekrarlanan dozunun günde bir defa 75 mg asetilsalisilik asit ile birlikte
+alımında, her bir etkin maddenin anti-trombosit agregasyon etkilerini, tek başına
+asetilsalisilik asit alımına göre daha güçlendirdiğini göstermiştir. Asetilsalisilik asit ve
+anagrelidi birlikte alan bazı ET hastalarında majör hemoraji gözlenmiştir. Bu yüzden,
+anagrelidin asetilsalisilik asit ile birlikte alımında özellikle de tedavi başlamadan önce
+hemoraji için yüksek risk profili olan hastalarda potansiyel riskler değerlendirilmelidir.
+ Anagrelid bazı hastalarda intestinal rahatsızlığa sebep olabilir ve hormonal oral
+kontraseptiflerin absorpsiyonunu zayıflatabilir.
+Gıda etkileşimleri
+ Gıda alımı, anagrelid absorpsiyonunu geciktirir, fakat sistemik maruziyeti belirgin bir
+şekilde değiştirmemektedir.
+ Yiyecek alımının biyoyararlanım üzerindeki etkisi, anagrelid kullanımında klinik olarak
+ilintili kabul edilmemektedir.
+Özel popülasyona ilişkin ek bilgiler
+Pediyatrik popülasyon
+Etkileşim çalışmaları yalnızca yetişkinlerde gerçekleştirilmiştir.
+4.6.Gebelik ve laktasyon
+Genel tavsiye
+Gebelik kategorisi: C
+Çocuk doğurma potansiyeli bulunan kadınlar/ Doğum kontrolü (Kontrasepsiyon)
+ANAGLYN oral yolla alınan doğum kontrol ilaçları ile etkileşime geçmektedir. Anagrelid,
+hormonal oral kontraseptiflerin absorpsiyonunu zayıflatabilir.
+6Çocuk doğurma potansiyeli olan kadınlar, anagrelid tedavisi sırasında uygun doğum kontrol
+yöntemlerini kullanmalıdır.
+Gebelik dönemi
+Hamile kadınlarda anagrelid kullanımı ile ilgili yeterli veri bulunmamaktadır. Hayvanlarda
+yürütülen çalışmalar, üreme toksisitesi göstermiştir (Bkz. Bölüm 5.3). İnsanlar için potansiyel
+risk bilinmemektedir. Bu yüzden ANAGLYN hamilelik esnasında önerilmemektedir.
+Eğer hamilelik esnasında anagrelid kullanılırsa ya da anagrelid kullanan hasta hamile kalırsa,
+ilacın fetüse vereceği potansiyel zararlar ile ilgili hasta bilgilendirilmelidir.
+Laktasyon dönemi
+Anagrelidin/metabolitlerinin, insan sütüne geçip geçmediği bilinmemektedir. Hayvanlardan
+elde edilen mevcut veri, anagrelid/metabolitlerinin süte geçtiğini göstermektedir. Yeni
+doğan/infantlar için risk göz ardı edilemez. Anagrelid ile tedavi esnasında emzirme
+kesilmelidir.
+Üreme yeteneği/ Fertilite
+Anagrelidin insan fertilitesi üzerindeki etkileri ile ilgili veri bulunmamaktadır. Erkek
+sıçanlarda, fertilite ya da üreme performansında anagrelidin bir etkisi görülmemiştir. Dişi
+sıçanlarda, terapötik aralığın eksez dozu verildiğinde, anagrelid uygulaması döllenmiş
+yumurtanın implantasyonunu engellemiştir. (Bkz. Bölüm 5.3).
+4.7. Araç ve makine kullanımı üzerindeki etkiler
+Klinik geliştirme esnasında, yaygın olarak baş dönmesi raporlanmıştır. Anagrelid aldığında baş
+dönmesi yaşayan hastalara araç sürmemeleri ve makine kullanmamaları önerilir.
+4.8. İstenmeyen etkiler
+Güvenlilik profili özeti
+Anagrelidin güvenliliği, 4 açık etiketli klinik çalışma ile çalışılmıştır. Bu çalışmalardan 3’ünde
+yaklaşık 2 mg/gün ortalama anagrelid dozu alan 942 hasta güvenlilik için değerlendirilmiştir.
+Bu çalışmalardan 22 hasta, 4 yıla kadar anagrelid almıştır.
+Diğer çalışmada yaklaşık 2 mg/gün ortalama dozunda anagrelid 3660 hastaya verilmiş ve
+güvenlilik değerlendirilmiştir. Bu çalışmada 34 hasta, anagrelidi 5 yıla kadar kullanmıştır.
+Anagrelid alımında raporlanan en temel advers etkiler: Yaklaşık %14 kişide baş ağrısı, yaklaşık
+%9’da çarpıntı, yaklaşık %6’da hem mide bulantısı hem de sıvı tutulumu birlikte, %5’te ishal
+olmuştur. Bu advers ilaç reaksiyonları, anagrelid farmakolojisine bağlı olarak beklenir (PDE
+III’ün engellenmesi). Kademeli doz titrasyonu, bu etkilerin hafifletilmesine yardımcı olabilir
+(Bkz. Bölüm 4.2).
+Advers etkiler tablosu
+Klinik çalışmalardan, güvenlik çalışmalarından ve raporlardan ortaya çıkan advers etkiler
+aşağıdaki tabloda özetlenmiştir.
+7Çok yaygın (≥ 1/10), yaygın (≥ 1/100 ila < 1/10), yaygın olmayan (≥ 1/1.000 ila < 1/100),
+seyrek (≥ 1/10.000 ila < 1/1.000) ve çok seyrek (< 1/10.000), bilinmiyor: eldeki verilerden
+hareketle tahmin edilemiyor.
+MedDRA Advers etki görülme sıklığı
+Sistem Organ Çok Yaygın Yaygın olmayan Seyrek Bilinmiyor
+Sınıfı yaygın
+Kan ve lenf Anemi Pansitopeni
+sistemi Trombositopeni
+hastalıkları Ekimoz
+Kanama
+Metabolizma Sıvı Kilo kaybı Kilo artışı
+ve beslenme tutulumu Ödem
+hastalıkları
+Sinir sistemi Baş ağrısı Baş dönmesi Depresyon Migren Serebral
+hastalıkları Amnezi Dizartri enfarktüs*
+Konfüzyon Uyuklama
+Insomnia Koordinasyon
+Parestezi bozukluğu
+Hipoestezi
+Sinirlilik
+Ağız kuruluğu
+Göz Diplopi
+hastalıkları Görme bozukluğu
+Kulak ve iç Kulak çınlaması
+kulak
+hastalıkları
+Kardiyak Taşikardi Ventriküler Miyokard Torsade de
+hastalıklar Çarpıntı taşikardi enfarktüsü pointes
+Konjestif kalp Kardiyomiyopati
+yetmezliği Kardiomegali
+Atrial fibrilasyon Perikard efüzyonu
+Supraventriküler Anjina pektoris
+taşikardi Postural
+Aritmi hipotansiyon
+Hipertansiyon Vazodilatasyon
+Senkop Prinzmetal anjina
+Solunum, Pnömoni Pulmoner Pnömonit ve
+göğüs Plevral efüzyon infiltratlar alerjik alveolit
+bozuklukları ve Nefes darlığı dahil interstisyel
+mediastinal Burun kanaması akciğer hastalığı
+hastalıklar Pulmoner
+hipertansiyon
+Gastrointestina İshal Gastrointestinal Kolit
+l hastalıklar Kusma kanama Gastrit
+Karın ağrısı Pankreatit Dişeti kanaması
+Bulantı Anoreksi
+Midede gaz Dispepsi
+Kabızlık
+Gastrointestinal
+rahatsızlık
+Hepato-biliyer Hepatik enzimlerde Hepatit
+8hastalıklar artış
+Deri ve deri altı Döküntü Saç dökülmesi Deride kuruluk
+doku Kaşıntı
+hastalıkları Deride renk
+değişikliği
+Kas iskelet Artralji
+bozuklukları,b Miyalji
+ağ doku ve Sırt ağrısı
+kemik
+hastalıkları
+Böbrek ve Cinsel güçsüzlük Böbrek Tubulointerstisyel
+idrar yolu yetmezliği nefrit
+hastalıkları Noktüri
+Genel Yorgunluk Göğüs ağrısı Grip benzeri
+bozukluklar ve Ateş semptomlar
+uygulama Üşüme Ağrı
+bölgesine Halsizlik Asteni
+ilişkin Fiziksel zayıflık
+hastalıklar
+Araştırmalar Kan kreatininde
+artış
+*Serebral enfarktüs (bkz. Bölüm 4.4 Trombotik risk)
+Pediyatrik popülasyon
+6-17 yaş aralığında 48 hasta (19 çocuk ve 29 adölesan), klinik çalışmalar ya da hastalık kaydının
+bir parçası olarak 6,5 yıl anagrelid almışlardır (Bkz. Bölüm 5.1).
+Gözlenen advers etkilerin büyük kısmı KÜB’de listelenenler arasındadır. Ancak, güvenlilik
+verisi sınırlıdır ve yetişkinler ile pediyatrik hastalar arasında anlamlı bir karşılaştırma yapmaya
+izin vermemektedir (Bkz. Bölüm 4.4).
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TÜFAM)’ne bildirilmesi gerekmektedir (www.titck.gov.tr; e-posta:
+tufam@titck.gov.tr; tel: 0 800 314 00 08; faks: 0 312 218 35 99).
+4.9. Doz aşımı ve tedavisi
+Pazarlama sonrası kasıtlı anagrelid doz aşımı vakaları raporlanmıştır. Raporlanan belirtiler,
+sinüs taşikardi ve kusmayı içermektedir. Semptomlar, belirtilere yönelik destek tedavi ile
+çözülmüşlerdir.
+Tavsiye edilenden daha yüksek dozlarda anagrelidin, kan basıncında düşüşe ve nadiren de
+görülse hipotansiyon durumuna sebep olduğu gösterilmiştir. Tek doz 5 mg anagrelid, genellikle
+baş dönmesi ile birlikte kan basıncında düşüşe sebep olabilir.
+Anagrelid için spesifik bir antidot belirlenmemiştir. Doz aşımı durumunda, hasta için yakın
+klinik gözetim gerekmektedir; bu da trombositopeni için trombosit sayımının takibini içerir.
+Trombosit sayısı normal aralığa ulaşana dek uygun olduğu şekilde doz azaltılmalı ya da
+durdurulmalıdır.
+95. FARMAKOLOJİK ÖZELLİKLER
+5.1.Farmakodinamik özellikler
+Farmakoterapötik grup: Antineoplastikler ve immünomodülatör ajanlar, Diğer antineoplastik
+ajanlar
+ATC kodu: L01XX35
+Etki mekanizması
+Anagrelidin, kan trombosit sayısını düşürme mekanizması bilinmemektedir. Hücre kültür
+çalışmalarında, anagrelid, nihai olarak trombosit üretimini düşürmeyle sonuçlanacak,
+megakaryositopoiez için gerekli GATA-1 ve FOG-1’i de içeren transkripsiyon faktörlerinin
+ekspresyonunu baskılamıştır.
+İn vitro, insan megakaryositopoiez çalışmaları, insanda trombosit oluşumu üzerindeki inhibitör
+etkinliğinin, megakaryositlerin olgunlaşmasının geciktirilmesi ve boyutlarını ve ploidi
+küçülterek olduğunu göstermiştir. Benzer in vivo etkinlikler, tedavi edilen hastalardan, kemik
+iliği biyopsi örneklerinde de gözlenmiştir.
+Anagrelid, siklik AMP fosfodiesteraz III’ün bir inhibitörüdür.
+Klinik etkililik ve güvenlilik
+Bir trombosit sayısını azaltıcı ajan olarak anagrelidin etkililik ve güvenliliği 4.000’den fazla
+miyeloproliferatif rahatsızlığı (MPD) olan hastada, dört açık etiketli, kontrolsüz çalışmada
+değerlendirilmiştir (çalışma numaraları 700-012, 700-014, 700-999 ve 13970-301). Esansiyel
+trombositemi hastalarında tam cevap, trombosit sayısında ≤ 600 x 109/l değerine düşüş ya da
+temel seviyeden ≥%50 azalma ve en az 4 hafta boyunca bu azalmanın muhafaza edilmesi olarak
+tanımlanmıştır. 700-012, 700-014, 700-999 ve 13970-301 çalışmalarında, tam cevap süresi 4-
+12 hafta aralığında değişmektedir. Trombohemorajik olaylar anlamında klinik fayda tatmin
+edici bir şekilde gösterilmemiştir.
+Kalp atım hızı ve QTc aralığına etkisi
+Sağlıklı yetişkin kadın ve erkeklerde yapılan, çift kör, randomize, plasebo ve aktif kontrollü
+çapraz bir çalışmada anagrelidin 0,5 mg ve 2,5 mg (tek doz) doz düzeylerinin kalp atım hızı ve
+QTc intervaline etkileri değerlendirilmiştir.
+Doza bağlı kalp atım hızında artış, anagrelidin maksimum konsantrasyona ulaştığı zaman en
+yüksek olmak üzere, ilk 12 saatte gözlenmiştir. Ortalama kalp atım hızında maksimum değişim
+uygulamadan 2 saat sonra meydana gelmiş ve 0,5 mg için +7,8 bpm (dakikadaki atış sayısı),
+2,5 mg için +29,1 bpm olmuştur.
+QTc’de geçici artış her iki doz için de kalp atım hızının arttığı periyot süresince gözlemlenmiş
+olup, ortalama QTcF’de (Friderya düzeltmesi) maksimum değişim 0,5 mg için 2 saatte +5,0
+msn, 2,5 mg için 1 saatte +10,0 msn’dir.
+Pediyatrik popülasyon
+8 çocuk ve 10 adölesanda (hastalar arasında anagrelid tedavisi görmemiş ve çalışmadan önce 5
+yıl boyunca anagrelid almış hastalar bulunmaktadır) gerçekleştirilen açık etiketli bir klinik
+10çalışmada, 12 haftalık tedavi sonrasında ortalama trombosit sayısı kontrol düzeyine inmiştir.
+Ortalama günlük doz, adölesanlarda daha yüksek olma eğilimi göstermiştir.
+Bir pediyatrik kayıt çalışmasında, anagrelid tedavisi ile ortalama trombosit sayısı tanıdakine
+göre azaltılmış ve 18 aya kadar 14 pediyatrik ET hastasında (4 çocuk ve 10 adölesan) sağlanan
+düzeyde tutulabilmiştir. Daha öncesinde, açık etiketli çalışmalarda, 3 ay ve 6,5 yıllık tedavide
+7 çocuk ve 9 adölesanda ortalama trombosit sayısında düşüş gözlenmiştir.
+Pediyatrik ET hastalarında tüm çalışmalarda ortalama toplam günlük anagrelid dozu son derece
+değişkendi, fakat genelde veriler, adölesanların, yetişkinler ile benzer başlangıç ve idame dozu
+takip edebileceğini ve 6 yaş üzeri çocuklar için 0,5 mg/gün’lük daha düşük başlangıç dozunun
+daha uygun olacağını göstermiştir (Bkz. Bölüm 4.2, 4.4, 4.8, 5.2). Tüm pediyatrik hastalarda,
+hasta-spesifik bir günlük doza dikkatle titrasyon yapılması gerekmektedir.
+5.2.Farmakokinetik özellikler
+Genel özellikler
+Emilim:
+Anagrelidin oral alımını takiben, en az %70’i, gastrointestinal yoldan absorbe olur. Açlık
+koşullarında, pik plazma düzeyine ilacın alımından yaklaşık 1 saat sonra ulaşılır. Sağlıklı
+gönüllülerden elde edilen farmakokinetik veriye göre, gıda alımı anagrelid C değerini %14
+maks
+düşürürken, EAA değerini %20 artırmaktadır. Gıda aynı zamanda aktif metabolit 3-hidroksi
+anagrelide ait C değerini %29 düşürürken, EAA değeri üzerinde herhangi bir etki
+maks
+göstermemiştir.
+Dağılım:
+Anagrelid yüksek dağılım hacmine sahiptir (12 l/kg). Plazma proteinine bağlanması gibi, farklı
+komponentlerdeki dağılımı konusunda yeterli bilgi bulunmamaktadır.
+Biyotransformasyon:
+Anagrelid başlıca CYP1A2 tarafından metabolize edilir ve 3-hidroksi anagrelidi oluşturur, bu
+metabolit de CYP1A2 tarafından metabolize edilir ve inaktif metabolit olan 2-amino-5,6-
+dikloro-3,4-dihidrokuinazoline dönüştürülür.
+Bir CYP1A2 indükleyicisi olan omeprazolün anagrelidin farmakokinetiği üzerindeki etkisi, 20
+sağlıklı gönüllüde çoklu dozu takiben günde 40 mg doz ile araştırılmıştır. Sonuçlar omeprazol
+varlığının, anagrelidin EAA , EAA ve C değerlerini sırasıyla %27, %26 ve %36
+(0-∞) (0-t) maks
+azalttığını ve anagrelidin metaboliti olan 3-hidroksi anagrelide karşılık olan değerleri sırasıyla
+%13, %14 ve %18 düşürdüğünü göstermektedir.
+Eliminasyon:
+Anagrelidin yarılanma ömrü kısadır, yaklaşık 1,3 saattir ve yarılanma ömründen beklendiği
+üzere, anagrelidin plazmada biriktiğine dair bir kanıt bulunmamaktadır. %1’den az bir miktarı
+idrarda anagrelid olarak geri kazanılır. İdrarda 2-amino-5,6-dikloro-3,4-dihidrokuinazolin’in
+ortalama geri kazanımı alınan dozun yaklaşık %18-35’idir.
+Ek olarak, bu sonuçlar anagrelid klerensinin otoindüksiyonu olmadığını göstermiştir.
+Doğrusallık/ doğrusal olmayan durum:
+0,5 mg – 2 mg doz aralığında doz orantısallık gözlenmektedir.
+11Hastalardaki karakteristik özellikler
+Pediyatrik popülasyon
+Esansiyel trombositopenisi olan çocuk ve adolesanlarla (yaş aralığı: 7-16) açlık koşullarında
+elde edilen farmakokinetik veriler, anagrelidin C ve EAA için alınan doza göre normalize
+maks
+edilmiş maruziyetinin, çocuk ve adolesanlarda, yetişkinlere kıyasla daha yüksek olma
+eğiliminde olduğunu göstermektedir. Benzer şekilde, aktif metabolit için de doza göre
+normalize edilmiş maruziyetin daha yüksek olma eğilimi gözlenmiştir.
+Geriyatrik popülasyon
+Esansiyel trombositopenili yaşlı hastalarda (yaş aralığı: 65-75) aç karnına elde edilen
+farmakokinetik veriler, açlık koşullarındaki yetişkin hastalar (yaş aralığı 22-50) ile
+karşılaştırılmış ve yaşlı hastalarda anagrelid C ve EAA değeri sırasıyla %36 ve %61 daha
+maks
+yüksek çıkarken, aktif metabolit 3-hidroksi anagrelid için %42 ve %37 daha düşük
+bulunmuştur. Bu farklılıkların sebebi, yaşlı hastalarda anagrelidin, 3-hidroksi anagrelide daha
+düşük presistemik metabolizasyonu olabilir.
+5.3.Klinik öncesi güvenlilik verileri
+Tekrarlanan doz toksisitesi
+Anagrelidin 1 mg/kg/gün ya da daha yüksek dozlarda tekrarlanan uygulamasının ardından,
+erkek ve dişi köpeklerde (erkeklerde daha hassas şekilde) subendokardiyal hemoraji ve fokal
+miyokardiyal nekroz oluşmuştur. Erkek köpekler için gözlemlenmeyen etki seviyesi (NOEL)
+(0,3 mg/kg/gün), insanlarda 2 mg/gün dozda görülen anagrelid, BCH24426 ve RL603 EAA
+değerleri için sırasıyla 0,1, 0,1 ve 1,6 katına karşılık gelmektedir.
+Üreme toksisitesi
+Fertilite
+Erkek sıçanlarda, 240 mg/kg/gün (vücut yüzey alanına göre, 2 mg/gün’ün >1000 katı) oral
+anagrelid dozunun, fertilite ve üreme performansı üzerinde bir etkisi görülmemiştir. Dişi
+sıçanlarda 30 mg/kg/gün dozda implantasyon öncesi ve sonrası kayıplarda artış ve ortalama
+canlı embriyo sayısında düşüş gözlenmiştir. Bu etki için NOEL (10 mg/kg/gün), insanda 2
+mg/gün oral anagrelid alımındaki EAA değerinin, anagrelid ve metabolitler BCH24426 ve
+RL603 dozlarında sırasıyla 143, 12 ve 11 kat yükseğiydi.
+Embriyofetal geliştirme çalışmaları
+Anagrelidin sıçanlar ve tavşanlarda maternal olarak toksik düzeyleri, artan embriyo
+rezorpsiyonu ve fetal mortalite ile ilişkilidir.
+Dişi sıçanlarda yürütülen doğum öncesi ve sonrası geliştirme çalışmalarında, anagrelidin oral
+≥10 mg/kg dozlarında, gebelik süresinde non-advers artış görülmüştür. NOEL dozunda (3
+mg/kg/gün), anagrelid, metabolitleri BCH24426 ve RL603 için EAA değerleri 2 mg/gün
+anagrelid oral dozu alımında insandaki EAA’nin, 14, 2 ve 2 kat fazlası görülmüştür.
+≥60 mg/kg dozda anagrelid, anne hayvan ve fetüste sırasıyla doğum süresini ve mortaliteyi
+artırmıştır. NOEL dozda (30 mg/kg/gün), anagrelid ve metabolitleri BCH24426 ve RL603 için
+12EAA değerleri, 2 mg/gün anagrelid oral dozu alan insanda EAA değerinin sırasıyla 425-, 31-
+ve 13- kat daha fazlasıdır.
+Mutajenik ve karsinojenik potansiyel
+Anagrelidin genotoksik potansiyeli üzerinde yapılan çalışmalar, mutajenik veya klastojenik
+etkiler göstermemiştir.
+İki yıllık sıçan karsinojenite çalışmasında neoplastik ve neoplastik olmayan bulgular gözlenmiş
+olup, abartılı bir farmakolojik etkiye bağlanmış ya da atfedilmiştir. Bunlar arasında, adrenal
+feokromositoma insidansı tüm doz düzeylerinde (≥3 mg/kg/gün) erkeklerde ve 10 mg/kg/gün
+ve üzerinde doz alan kadınlarda, kontrole göre göreceli olarak artmıştır. Erkeklerdeki en düşük
+doz (3 mg/kg/gün), günde iki kez 1 mg’lık dozdan sonra oluşan insan EAA’sının 37 katına
+karşılık gelmektedir. Uterus adenokarsinomlarının epigenetik kaynağı, CYP1 ailesinin bir
+enzim indüksiyonuyla ilişkili olabilir. Bunlar günde iki kez 1 mg dozdan sonra oluşan insan
+EAA’sının 572 katına karşılık gelen 30 mg/kg/gün doz alan kadınlarda gözlendi.
+6. FARMASÖTİK ÖZELLİKLER
+6.1 Yardımcı maddeleri listesi
+Povidon K-30
+Laktoz anhidröz
+Laktoz monohidrat
+Mikrokristalin selüloz
+Krospovidon Tip A
+Sert jelatin kapsül*
+* Sert jelatin kapsül içeriği:
+Titanyum dioksit
+Jelatin (sığır kaynaklı)
+6.2. Geçimsizlikler
+Bu ürün için geçerli değildir.
+6.3. Raf ömrü
+36 aydır.
+6.4. Saklamaya yönelik özel tedbirler
+25°C altındaki oda sıcaklığında saklanmalıdır.
+6.5. Ambalajın niteliği ve içeriği
+100 kapsül içeren PP çocuk korumalı kapaklı, HDPE şişelerde kullanma talimatı ile birlikte
+karton kutuda ambalajlanır.
+6.6. Beşeri tıbbi ürünlerden arta kalan maddelerin imhası ve diğer özel önlemler
+Kullanılmamış olan ürünler ya da atık materyaller “Tıbbi Atıkların Kontrolü Yönetmeliği” ve
+13“Ambalaj Atıklarının Kontrolü Yönetmelikleri”ne uygun olarak imha edilmelidir.
+7. RUHSAT SAHİBİ
+Ardi Farma İlaç Pazarlama Tic. Ltd. Şti.
+Teknopark İstanbul Sanayi Mah.
+Teknopark Bulvarı No: 1/4A 101
+Pendik 34906 İstanbul
+Tel: 0216 518 83 90
+Faks: 0216 518 83 92
+8. RUHSAT NUMARASI(LARI)
+2019/136
+9. İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi: 27.03.2019
+Ruhsat yenileme tarihi:
+10. KÜB’ÜN YENİLEME TARİHİ
+14

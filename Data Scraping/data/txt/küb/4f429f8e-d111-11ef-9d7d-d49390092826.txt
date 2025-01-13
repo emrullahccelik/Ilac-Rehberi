@@ -1,0 +1,856 @@
+KISA ÜRÜN BİLGİSİ
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+RAPAMUNE® 0,5 mg tablet
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etken madde: Her tablet 0,5 mg sirolimus içerir.
+Yardımcı maddeler:
+Laktoz monohidrat………………86,4 mg/tablet (sığır kaynaklı)
+Sukroz………………………… ..215,7 mg/tablet
+Yardımcı maddeler için 6.1’e bakınız.
+3. FARMASÖTİK FORM
+Tablet
+Bir yüzünde “RAPAMUNE 0,5 mg” yazan ten renkli üçgen şekilli tablet.
+4. KLİNİK ÖZELLİKLER
+4.1. Terapötik endikasyonlar
+RAPAMUNE, düşük ve orta düzeyde immünolojik risk altındaki böbrek nakli olan
+yetişkin hastalarda organ rejeksiyonundan korunmada endikedir. RAPAMUNE’ün
+başlangıçta 2-3 aya kadar siklosporin mikroemülsiyonu ve kortikosteroidlerle birlikte
+kullanılması önerilmektedir. Siklosporin mikroemülsiyonu kademeli olarak
+bırakılabiliyorsa RAPAMUNE’e kortikosteroidlerle idame tedavisi olarak devam
+edilebilir (bkz. bölüm 4.2 ve 5.1).
+4.2. Pozoloji ve uygulama şekli
+Tedavi transplantasyon konusunda deneyimli hekimler tarafından başlatılmalı ve devam
+ettirilmelidir.
+Pozoloji/uygulama sıklığı ve süresi:
+Organ naklinin profilaksisi
+Başlangıç tedavisi (Nakil sonrası 2-3 aya kadar)
+RAPAMUNE için normal doz rejimi transplantasyondan sonra mümkün olan en kısa
+zamanda uygulanan 6 mg’lık tek oral yükleme dozunu takiben ürünün terapötik izlem
+sonuçları görülene kadar günde bir kez 2 mg olarak uygulanan devam dozudur (Tıbbi
+ürünün terapötik izlemi ve doz ayarlanması bölümüne bakınız). Daha sonra 4–12 ng/mL
+(kromatografik analiz) tam kan çukur seviyeleri elde etmek üzere RAPAMUNE dozu
+kişiye özgü olarak ayarlanmalıdır. RAPAMUNE tedavisi, steroidler ve siklosporinin
+gittikçe azalan dozajlarına göre optimize edilmelidir. Transplantasyondan sonraki ilk 2-3
+ay için önerilen siklosporin çukur konsantrasyon aralıkları 150-400 ng/mL’dir
+(monoklonal analiz ya da eşdeğerlik tekniği) (bkz. bölüm 4.5).
+Değişkenliği minimuma indirmek için, RAPAMUNE hep aynı zaman diliminde,
+siklosporin dozundan 4 saat sonra; sürekli yemekler ile birlikte veya aç karnına
+alınmalıdır (bkz. bölüm 5.2).
+1İdame tedavi
+Siklosporin 4-8 hafta boyunca kademeli olarak kesilmeli ve tam kan çukur seviyeleri 12–
+20 ng/mL (kromatografik analiz; Tıbbi ürünün terapötik izlemi ve doz ayarlanması
+başlığına bakınız) olacak şekilde RAPAMUNE dozu ayarlanmalıdır. RAPAMUNE
+kortikosteroidler ile birlikte verilmelidir. Siklosporin kesilmesi başarısız olmuş veya
+denenememiş hastalarda siklosporin ve RAPAMUNE kombinasyonuna transplantasyon
+sonrası 3 aydan daha fazla devam edilmemelidir. Bu tür hastalarda klinik açıdan uygun
+olduğunda RAPAMUNE bırakılmalı ve alternatif bir immünosüpresif rejime
+başlanmalıdır.
+Tıbbi ürünün terapötik izlemi ve doz ayarlanması
+Tam kan sirolimus seviyeleri aşağıdaki popülasyonlarda yakından takip edilmelidir:
+(1) Hepatik yetmezliği olan hastalarda
+(2) CYP3A4 ve/veya P-glikoprotein (P-gp) indükleyicileri ya da inhibitörlerinin eş
+zamanlı olarak uygulanması ve bırakılmaları sonrasında (bkz. bölüm 4.5) ve/veya
+(3) Muhtemel özel dozlama gereksinimi sebebiyle, siklosporin dozu belirgin şekilde
+azaltıldığında veya sonlandırıldığında
+Tıbbi ürünün terapötik izlemi sirolimus tedavisinin ayarlanması için tek dayanak
+olmamalıdır. Klinik belirtilere/semptomlara, doku biyopsilerine ve laboratuvar
+parametrelerine önemle dikkat edilmelidir.
+Siklosporinden 4 saat sonra 2 mg RAPAMUNE alan hastaların çoğu hedef aralık olan 4-
+12 ng/mL (kromatografik analiz değerleri ile ifade edildiği gibi) sirolimus tam kan çukur
+konsantrasyonlarına ulaşmıştır. Optimum tedavi tüm hastalarda tıbbi ürünün terapötik
+konsantrasyon izlemini gerektirir.
+İdeal olarak RAPAMUNE dozunun ayarlanması, bir önceki doz değişiminin en az 5 gün
+sonrasında elde edilen birden fazla çukur seviyesi değerlerine dayandırılmalıdır.
+Hastalar mg başına mg hesabına dayanarak RAPAMUNE oral çözeltiden tablet
+formülasyonuna geçirilebilir. Çukur konsantrasyonunun önerilen hedef aralıkta olduğunu
+doğrulamak için formülasyonlar arası geçiş yapıldıktan veya tablet dozu değiştirildikten 1
+veya 2 hafta sonra çukur konsantrasyonun alınması önerilir.
+Siklosporin tedavisinin bırakılmasını takiben hedef çukur aralığı olarak 12 ila 20 ng/mL
+(kromatografik analiz) önerilir. Siklosporin sirolimus metabolizmasını inhibe eder. Bunun
+sonucunda sirolimus dozu arttırılmazsa siklosporin bırakıldığında sirolimus seviyeleri
+azalacaktır. Ortalama olarak; hem farmakokinetik etkileşimin eksikliğini (2 kat artış) hem
+de siklosporinin eksikliğinde artmış immunosupresif gerekliliğini (2 kat artış) karşılamak
+için sirolimus dozunun 4 kat daha fazla olması gerekecektir. Sirolimus dozunun arttırılma
+oranı siklosporinin eliminasyon oranına karşılık gelmelidir.
+İdame tedavisi boyunca (siklosporinin bırakılması sonrasında) daha ileri doz ayarlaması
+(ayarlamaları) gerekirse, bu ayarlamalar çoğu hastada basit orantıya dayandırılabilir: yeni
+RAPAMUNE dozu= şu an uygulanan doz x (hedef konsantrasyon/şu anki
+konsantrasyon). Sirolimus çukur konsantrasyonlarının önemli ölçüde arttırılması gerekli
+olduğunda yeni idame dozuna ek olarak yükleme dozu da düşünülmelidir: RAPAMUNE
+yükleme dozu= 3 x (yeni idame dozu–şu anki idame dozu). Herhangi bir günde
+uygulanan maksimum RAPAMUNE dozu 40 mg’ı aşmamalıdır. Yükleme dozunun
+eklenmesine bağlı olarak hesaplanan günlük doz eğer 40 mg’ı aşarsa yükleme dozu 2 gün
+2boyunca verilmelidir. Yükleme dozundan (dozlarından) en az 3 ila 4 gün sonra sirolimus
+çukur konsantrasyonları izlenmelidir.
+Sirolimus için önerilen 24 saatlik çukur konsantrasyon aralıkları kromatografik metotlara
+dayanır. Sirolimusun tam kan konsantrasyonlarını ölçmek için çeşitli analiz metotları
+kullanılmıştır. Günümüzde klinik uygulamada sirolimus tam kan konsantrasyonları hem
+kromatografik hem de immünolojik tayin metotları ile ölçülmektedir. Bu farklı
+metotlardan elde edilen konsantrasyon değerleri birbirine dönüştürülebilir değildir. Bu
+kısa ürün bilgilerinde raporlanmış tüm sirolimus konsantrasyonları ya kromatografik
+metotlar kullanılarak ölçülmüş ya da kromatografik metot eşdeğerlerine
+dönüştürülmüştür. Hedef aralığa göre ayarlamalar, sirolimus çukur konsantrasyonlarını
+belirlemek için kullanılan analize göre yapılmalıdır. Sonuçlar analiz ve laboratuvara bağlı
+olduğundan ve zamanla değişebileceğinden dolayı, hedef terapötik aralığa göre
+ayarlamalar kullanılan merkeze özgü analizlere ait detaylı bilgi doğrultusunda
+yapılmalıdır. Bu sebeple hekimler, sirolimus konsantrasyonlarının belirlenmesinde lokal
+olarak kullanılan metodun performansı hakkında lokal laboratuvardan sorumlu temsilciler
+tarafından sürekli bilgilendiriliyor olmalıdır.
+Uygulama şekli:
+RAPAMUNE sadece oral kullanım içindir.
+Tabletler kırıldıktan, çiğnendikten veya bölündükten sonra biyoyararlanımları
+belirlenmediğinden bu uygulamalar önerilmemektedir.
+Değişkenliği minimuma indirmek için, sürekli yemekler ile birlikte veya aç karnına
+alınmalıdır.
+Greyfurt suyu tüketiminden kaçınılmalıdır (bkz. bölüm 4.5).
+Birden fazla 0,5 mg’ lık tablet, 1 mg’ lık ya da diğer farklı dozlar için alternatif olarak
+kullanılmamalıdır (bkz. bölüm 5.2).
+Özel popülasyonlara ilişkin ek bilgiler:
+Böbrek yetmezliği:
+Herhangi bir doz ayarlaması yapılmasına gerek yoktur (bkz. bölüm 5.2).
+Karaciğer yetmezliği:
+Karaciğer fonksiyonlarında yetersizlik olan hastalarda sirolimus klerensi azalabilir (bkz.
+bölüm 5.2). Şiddetli karaciğer yetmezliği olan hastalarda, idame dozun yaklaşık yarısı
+oranında azaltılması önerilir.
+Karaciğer fonksiyonlarında yetmezlik olan hastalarda sirolimus tam kan çukur
+seviyelerinin yakından izlenmesi önerilmektedir (“Tıbbi ürünün terapötik izlemi ve doz
+ayarlanması” başlığına bakınız). RAPAMUNE yükleme dozunda değişiklik yapılmasına
+gerek yoktur.
+Şiddetli karaciğer yetmezliği olan hastalar, uzamış yarılanma ömründen dolayı kararlı
+duruma ulaşmadaki gecikme sebebiyle doz yüklemesi veya doz ayarlamasının ardından 3
+ardışık ölçümde çukur düzeyleri kararlı sirolimus konsantrasyonu gösterene kadar her 5-7
+günde bir izlenmelidir.
+3Pediyatrik popülasyon:
+RAPAMUNE’ün 18 yaşın altındaki ergen ve çocuklardae kullanımının etkililiği ve
+güvenliliği belirlenmemiştir. Mevcut veriler 4.8, 5.1 ve 5.2 bölümlerinde sunulmuştur,
+ancak pozoloji konusunda herhangi bir öneri yapılamaz.
+Geriyatrik popülasyon:
+65 yaş üstündeki hastaların daha genç hastalardan daha farklı cevap verip
+vermeyeceklerine karar vermek için RAPAMUNE oral çözelti ile yapılan klinik
+araştırmalar, yeterli sayıda 65 yaş üstü hasta içermemektedir (bkz. bölüm 5.2).
+Siyah ırk:
+Siyah ırktan, böbrek transplantasyonu uygulanmış hastaların (ağırlıklı olarak Afrikan-
+Amerikan) siyah olmayan ırktan hastalara göre aynı etkililiğe ulaşmak için daha yüksek
+sirolimus dozu ve çukur seviyelerine ihtiyaç duyacağına dair kısıtlı bilgi bulunmaktadır.
+Siyah ırktan hastalarda sirolimus kullanımı için spesifik öneriler için etkililik ve
+güvenlilik verileri çok kısıtlıdır.
+4.3. Kontrendikasyonlar
+RAPAMUNE, sirolimus veya 6.1’de listelenen yardımcı maddelerden herhangi birine
+karşı aşırı duyarlılığı olan hastalarda kontrendikedir.
+4.4. Özel kullanım uyarıları ve önlemleri
+RAPAMUNE yüksek immünolojik riske sahip böbrek nakli hastalarında yeterince
+çalışılmamıştır. Bu sebeple bu grup hastalarda kullanılması önerilmemektedir (bkz.
+bölüm 5.1).
+Graft fonksiyonu gecikmiş olan böbrek nakli hastalarında sirolimus renal fonksiyonun
+iyileşmesini geciktirebilir.
+Aşırı duyarlılık reaksiyonları
+Sirolimusun uygulanması ile anaflaktik/anaflaktoid reaksiyonlar, anjiyoödem, eksfoliatif
+dermatit ve aşırı duyarlılığa bağlı vaskülitin de dahil olduğu aşırı duyarlılık reaksiyonları
+görülmüştür (bkz. bölüm 4.8).
+Eş zamanlı tedavi
+İmmünosüpresif ajanlar (Sadece böbrek nakli hastalarında)
+Sirolimus klinik araştırmalarda eş zamanlı olarak şu ajanlar ile birlikte uygulanmıştır:
+takrolimus, siklosporin, azatioprin, mikofenolat mofetil, kortikosteroidler ve sitotoksik
+antikorlar. Sirolimusun diğer immünosüpresif ajanlar ile birlikte kombine kullanımı
+kapsamlı şekilde araştırılmamıştır.
+Renal fonksiyon, RAPAMUNE ve siklosporinin eş zamanlı uygulaması boyunca
+izlenmelidir. Serum kreatinin seviyeleri yükselmiş hastalarda immünosüpresyon rejiminin
+uygun şekilde ayarlanması düşünülmelidir. Renal fonksiyon üzerine zararlı etkisi olduğu
+bilinen diğer ajanlar ile birlikte uygulandığında dikkatli olunmalıdır.
+RAPAMUNE ve siklosporin ile 3 aydan fazla tedavi edilen hastalarda, siklosporin ile
+plasebo veya azatioprin kullanan kontrol hastalarına kıyasla daha yüksek serum kreatinin
+seviyesi ve daha düşük glomerüler filtrasyon hızı saptanmıştır. Siklosporini başarılı
+şekilde bırakan hastalar siklosporine devam eden hastalara kıyasla, daha düşük serum
+kreatinin seviyesi ve daha yüksek glomerüler filtrasyon hızına sahip olmalarının yanı sıra
+4aynı zamanda daha düşük malignite insidansına sahip olmuşlardır. Siklosporin ve
+RAPAMUNE’ün idame tedavi olarak birlikte uygulanmasına devam edilmesi önerilemez.
+Daha sonra yapılan klinik araştırmalara dayanan bilgilere göre de novo böbrek nakli
+gruplarında (bkz. bölüm 5.1) RAPAMUNE, mikofenolat mofetil ve kortikosteroidlerin
+IL-2 reseptör antikor (IL2R Ab) indüksiyonu ile kombine şekilde kullanımı önerilmez.
+Üriner protein atılmasının periyodik kantitatif izlemi önerilir. Böbrek nakli hastalarının
+idame tedavisinde kalsinörin inhibitörlerinden RAPAMUNE’e geçişin araştırıldığı bir
+çalışmada; RAPAMUNE’e geçtikten sonraki 6-24 aylık dönemde yaygın olarak üriner
+protein atılmasında artış gözlenmiştir (bkz. bölüm 5.1). Çalışmadaki hastaların %2’sinde
+yeni başlayan nefroz (nefrotik sendrom) bildirilmiştir (bkz. bölüm 4.8). Açık-etiketli,
+randomize bir çalışmadan elde edilen bilgilere dayanarak; böbrek nakli hastalarının idame
+tedavisinde bir kalsinörin inhibitörü olan takrolimustan RAPAMUNE’e geçiş, etkililik
+yararı olmaksızın olumsuz bir güvenlik profili ile ilişkilendirilmiştir. Bu nedenle
+önerilmemektedir (bkz. bölüm 5.1).
+RAPAMUNE’ün bir kalsinörin inhibitörü ile eş zamanlı kullanımı kalsinörin inhibitörü
+ile indüklenmiş hemolitik üremik sendrom/trombotik trombositopenik purpura/trombotik
+mikroanjiyopati (HÜS/TTP/TMA) riskini artırabilir.
+HMG-CoA redüktaz inhibitörleri
+Klinik çalışmalarda, HMG-CoA redüktaz inhibitörleri ve/veya fibratlarının RAPAMUNE
+ile eş zamanlı uygulanması iyi tolere edilmiştir. CsA ile birlikte ya da CsA olmaksızın
+RAPAMUNE tedavisi boyunca hastalar yükselmiş lipit seviyeleri açısından izlenmelidir.
+HMG-CoA redüktaz inhibitörü ve/veya fibrat uygulanan hastalar, olası rabdomiyoliz
+gelişimi ve bu ajanlara ilişkin ürün bilgilerinde tanımlanmış diğer advers etkiler açısından
+izlenmelidir.
+Sitokrom P450 izoenzimleri ve P-glikoproteini
+Sirolimusun güçlü CYP3A4 inhibitörleri ve/veya çoklu ilaç effluks pompa P-glikoprotein
+(P-gp) (ketokonazol, vorikonazol, itrakonazol, telitromisin ya da klaritromisin gibi) ile
+birlikte uygulanması sirolimus kan seviyelerini arttırabilir ve önerilmez.
+Güçlü CYP3A4 ve/veya P-gp indükleyicileri (rifampin, rifabutin gibi) ile birlikte
+uygulanması önerilmez
+Eğer güçlü CYP3A4 ve/veya P-gp birlikte kullanımından kaçınılamaması söz konusu ise
+sirolimusun tam kan çukur konsantrasyonu ve hastanın klinik durumu sirolimus ile
+birlikte kullanım boyunca ve ilaçlar bırakıldıktan sonra izlenmelidir. Sirolimus doz
+ayarlaması gerekebilir (bkz. bölüm 4.2 ve 4.5)
+Anjiyoödem
+RAPAMUNE’un anjiyotensin dönüştürücü enzim (ACE) inhibitörleri ile eş zamanlı
+uygulanması anjiyonörotik ödem tipi reaksiyonlara sebep olmuştur. Artmış sirolimus
+düzeyleri de anjiyoödemi, örn. güçlü CYP3A4 inhibitörleri ile (ACE inhibitörleri ile
+birlikte/yokken) etkileşimden dolayı güçlendirebilir (bkz. bölüm 4.5). Bazı vakalarda
+anjiyoödem, RAPAMUNE tedavisinin kesilmesi veya dozunun azaltılmasıyla
+düzelmiştir.
+5Sirolimusun ACE inhibitörleri ile eş zamanlı kullanımında biyopsi ile kanıtlanmış akut
+rejeksiyon (BCAR) oranında artış gözlemlenmiştir (bkz. bölüm 5.1). Sirolimus ile eş
+zamanlı olarak ACE inhibitörü alan hastalar yakından takip edilmelidir.
+Aşılanma
+İmmünosüpresanlar aşılamaya verilen cevabı etkileyebilir. RAPAMUNE dahil
+immünosüpresanlar ile tedavi boyunca aşılama daha az etkili olabilir. RAPAMUNE ile
+tedavi boyunca canlı aşıların kullanımından kaçınılmalıdır.
+Malignite
+İmmünosüpresyon, lenfoma ve özellikle ciltte olmak üzere diğer malignitelerin gelişme
+olasılığını ve de enfeksiyona karşı hassasiyeti artırabilir (bkz. bölüm 4.8). Deri kanserine
+yakalanma riski artmış hastaların güneş ışığı ve ultraviyole (UV) ışığa maruziyeti,
+koruyucu kıyafetler giymeleri ve yüksek koruma faktörlü güneş kremi kullanmaları
+sağlanarak sınırlandırılmalıdır.
+Enfeksiyonlar
+İmmün sistemin aşırı baskılanması, fırsatçı enfeksiyonlar (bakteriyel, fungal, viral ya da
+protozoal), fatal enfeksiyonlar ve sepsis dahil, enfeksiyonlara karşı duyarlılığı da
+arttırabilir.
+Böbrek nakli hastalarında bu durumlar arasında, BK virüs ile ilişkili nefropati ve JC virüs
+ile ilişkili progresif multifokal lökoensefalopati (PML) bulunmaktadır. Bu enfeksiyonlar,
+genellikle yüksek total immünosupresif yük ile ilişkilidir ve renal fonksiyonu ya da
+nörolojik semptomları bozulan immünosupresif hastaların ayırıcı tanısında hekimler
+tarafından göz önünde bulundurulması gereken ciddi ya da fatal durumlara yol açabilir.
+Profilaktik antimikrobiyal tedavi almayan böbrek nakli hastalarında Pneumocystis
+carinii’nin yol açtığı pnömoni olguları bildirilmiştir. Bu sebeple, transplantasyonu takip
+eden ilk 12 ay Pneumocystis carinii pnömonisine karşı profilaktik antimikrobiyal tedavi
+uygulanmalıdır.
+Özellikle cytomegalovirus (CMV) hastalığı riski artmış olan hastalarda, böbrek naklinden
+sonraki 3 ay CMV profilaktik tedavisinin uygulanması önerilir.
+Hepatik yetmezlik
+Hepatik yetmezliği olan hastalarda sirolimus tam kan çukur seviyelerinin yakından takip
+edilmesi önerilir. Ağır hepatik yetmezliği olan hastalarda azalan klirense bağlı olarak
+idame dozunun yaklaşık yarısı oranında azaltılması önerilir (bkz. bölüm 4.2 ve 5.2). Bu
+hastalarda yarılanma ömrü uzadığından dolayı, yükleme dozu ya da doz değişimi
+sonrasında tıbbi ürünün terapötik izlemi kararlı konsantrasyonlara ulaşılana kadar uzun
+bir süre boyunca yapılmalıdır (bkz. bölüm 4.2 ve 5.2).
+Akciğer ve karaciğer transplantasyonu yapılmış popülasyonlar
+İmmünosüpresif tedavi olarak RAPAMUNE’nün etkililiği ve güvenliliği akciğer ya da
+karaciğer transplantasyonu olmuş hastalarda belirlenmemiştir. Bu sebeple bu tür bir
+kullanım önerilmemektedir.
+De novo karaciğer transplantasyon hastalarında yürütülmüş ve sirolimusun siklosporin ya
+da takrolimus ile birlikte kullanıldığı iki klinik araştırmada, çoğunlukla graft kaybına ya
+da ölüme kadar giden hepatik arter trombozunda artış görülmüştür.
+6Karaciğer transplantasyon hastaları üzerinde yapılan bir klinik araştırmada hastalar
+karaciğer transplantasyonu sonrası 6-144 aylık kalsinörin inhibitörü (KNI)-temelli bir
+tedavi rejiminden sirolimus-temelli bir tedavi rejimine geçildiği gruba karşı kalsinörin
+inhibitörü (KNI)-temelli tedavi rejimine devam edilen gruba randomize edilmiştir ve bu
+çalışmada 12. ayda bazal değere göre ayarlanmış glomerüler filtrasyon hızı (GFR)
+bakımından üstünlük göstermemiştir (sırasıyla -4,45 mL/dk ve -3,07 mL/dk). Aynı
+zamanda bu çalışmada KNI’nün devam edildiği gruba kıyasla sirolimusa geçilen grup;
+kombine graft kaybı, eksik sağkalım verisi ya da ölüm oranının düşüklüğünü göstermekte
+başarısız olmuştur. Sirolimusa geçilen grupta ölüm oranı KNI’nün devam edildiği gruptan
+daha yüksek olmakla birlikte; bu oranlar önemli ölçüde farklı değildir. Araştırmadan
+erken ayrılma, tüm advers olaylar (özellikle enfeksiyonlar) ve biyopsi ile kanıtlanmış akut
+karaciğer graft rejeksiyonunun 12. aydaki oranları KNI’nün devam edildiği gruba kıyasla
+sirolimusa geçilen grupta önemli derecede daha yüksektir.
+İmmünosüpresif tedavinin bir parçası olarak sirolimus kullanıldığında, de novo akciğer
+transplantasyon hastalarında çoğu fatal, bronşiyal anastomoz açıklık vakaları
+bildirilmiştir.
+Sistemik etkiler
+RAPAMUNE kullanan böbrek nakli hastalarında lenfosel ve yara açılması da dahil olmak
+üzere, yara iyileşmesinde bozulma ve gecikmelerin meydana geldiğine dair raporlar
+vardır. Tıbbi literatürden elde edilen verilere göre vücut kütle indeksi (VKİ) 30 kg/m2
+üzerinde olan hastalar artmış anormal yara iyileşmesi riski altında olabilirler.
+RAPAMUNE kullanan hastalarda aynı zamanda, periferik ödem, lenfödem, plevral
+efüzyon ve perikardiyal efüzyonların da (çocuklarda ve yetişkinlerde hemodinamik
+açıdan önemli efüzyonlar dahil) dahil olduğu sıvı birikimleri de bildirilmiştir.
+RAPAMUNE kullanımı, tedavi gerektirebilecek artan serum kolesterol ve trigliseritlerle
+ilişkilendirilmiştir. RAPAMUNE uygulanan hastalar laboratuvar testleri kullanılarak
+hiperlipidemi açısından izlenmelidir. Hiperlipideminin saptanması durumunda diyet,
+egzersiz ve lipit düşürücü ajanlar gibi müdahale yöntemlerine başlanmalıdır.
+Hiperlipidemisi olan hastalarda, RAPAMUNE dahil immünosüpresif rejime başlanmadan
+önce risk/yarar oranı değerlendirilmelidir. Benzer olarak ağır inatçı hiperlipidemisi olan
+hastalarda devam edilen RAPAMUNE tedavisinin risk/yarar oranı tekrar
+değerlendirilmelidir.
+Sirolimus tabletler 215,7 mg sükroz içerir. Nadir kalıtımsal fruktoz intoleransı, glukoz-
+galaktoz malabsorpsiyon veya sükraz-izomaltaz yetmezliği problemi olan hastaların bu
+ilacı kullanmamaları gerekir.
+Sirolimus tabletler 86,4 mg laktoz içerir. Nadir kalıtımsal galaktoz intoleransı, Lapp
+laktoz yetmezliği ya da glukoz-galaktoz malabsorpsiyon problemi olan hastaların bu ilacı
+kullanmamaları gerekir.
+74.5. Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+Sirolimus CYP3A4 izoenzimleri tarafından büyük ölçüde bağırsak duvarı ve karaciğerde
+metabolize edilir. Sirolimus aynı zamanda çoklu ilaç efluks pompası olan ince
+bağırsaklardaki P-glikoprotein (p-gp) için bir substrattır. Bu sebeple sirolimusun
+absorpsiyonu ve bunu takiben eliminasyonu, bu proteinleri etkileyen maddelerden
+etkilenebilir. CYP3A4 inhibitörleri (ketokonazol, vorikonazol, itrakonazol, telitromisin ya
+da klaritromisin gibi) sirolimusun metabolizmasını azaltarak sirolimus seviyelerini artırır.
+CYP3A4 indükleyicileri (rifampin, rifabutin gibi) sirolimusun metabolizmasını artırarak
+sirolimus seviyelerini azaltır. Sirolimusun güçlü CYP3A4 inhibitörleri ya da CYP3A4
+indükleyicileri ile birlikte uygulanması önerilmez (bkz. bölüm 4.4).
+Rifampisin (CYP3A4 indükleyicisi)
+Tek doz 10 mg RAPAMUNE oral çözelti dozunun uygulanmasını takiben rifampisinin
+çoklu doz olarak uygulanması sirolimusun tam kan konsantrasyonunu düşürmüştür.
+Rifampisin sirolimus klirensini yaklaşık 5,5 kat artırmıştır ve EAA ve C ’ı sırası ile
+maks
+yaklaşık %82 ve %71 kadar düşürmüştür. Sirolimusun rifampisin ile birlikte uygulanması
+önerilmez (bkz. bölüm 4.4).
+Ketokonazol (CYP3A4 inhibitörü)
+Çoklu doz ketokonazol uygulanması, sirolimusun C , t ve EAA’sında sırası ile 4,4
+maks maks
+kat, 1,4 kat ve 10,9 kat artış ile gösterildiği şekilde; absorpsiyon hız ve oranını ve
+RAPAMUNE oral çözeltilerinden sirolimus maruziyetini önemli ölçüde etkilemiştir.
+Sirolimusun ketokonazol ile birlikte uygulanması önerilmez (bkz. bölüm 4.4).
+Vorikonazol (CYP3A4 inhibitörü)
+Sirolimusun (tek doz 2 mg) çoklu doz oral vorikonazol (1 gün için 12 saate bir 400 mg,
+daha sonra 8 gün için her 12 saate bir 100 mg) ile birlikte uygulandığı sağlıklı
+gönüllülerde sirolimus C ve EAA’sında ortalama olarak sırasıyla 7 kat ve 11 kat artış
+maks
+bildirilmiştir. Sirolimusun vorikonazol ile birlikte uygulanması önerilmez (bkz. bölüm
+4.4).
+Diltiazem (CYP3A4 inhibitörü)
+10 mg RAPAMUNE oral çözeltinin 120 mg diltiazem ile eş zamanlı oral uygulanması
+sirolimusun biyoyararlanımını önemli ölçüde etkilemiştir. Sirolimus C , t ve EAA
+maks maks
+değerleri sırası ile 1,4 kat, 1,3 kat ve 1,6 kat artmıştır. Sirolimus ne diltiazemin ne de
+metabolitleri olan desasetildiltiazem ve desmetildiltiazemin farmakokinetiklerini
+etkilemiştir. Eğer diltiazem uygulanacak ise sirolimus kan seviyeleri izlenmelidir ve bu
+durumda bir doz ayarlanmasına gerek duyulabilir.
+Verapamil (CYP3A4 inhibitörü)
+Verapamilin ve sirolimus oral çözeltinin çoklu doz uygulamaları her iki tıbbi ürünün
+absorpsiyon hızını ve oranını önemli ölçüde etkilemiştir. Tam kan sirolimus C , t ve
+maks maks
+EAA değerleri sırası ile 2,3 kat, 1,1 kat ve 2,2 kat artmıştır. Plazma S-(-) verapamil C
+maks
+ve EAA değerlerinin her ikisi 1,5 kat artmış, t değeri %24 azalmıştır. İki ürünün
+maks
+birlikte uygulandığı durumlarda sirolimus seviyeleri izlenmeli ve her iki tıbbi ürün için
+uygun şekilde doz azaltılması düşünülmelidir.
+Eritromisin (CYP3A4 inhibitörü)
+Eritromisinin ve sirolimus oral çözeltinin çoklu doz uygulamaları her iki tıbbi ürünün
+absorpsiyon hızını ve oranını önemli ölçüde artırmıştır. Tam kan sirolimus C , t ve
+maks maks
+EAA değerleri sırası ile 4,4 kat, 1,4 kat ve 4,2 kat artmıştır. Plazma eritromisin C , t
+maks maks
+ve EAA baz değerleri sırası ile 1,6 kat, 1,3 kat ve 1,7 kat artmıştır. İki ürünün birlikte
+8uygulandığı durumlarda sirolimus seviyeleri izlenmeli ve her iki tıbbi ürün için uygun
+şekilde doz azaltılması düşünülmelidir.
+Siklosporin (CYP3A4 substratı)
+Siklosporin A (CsA), sirolimusun absorpsiyon hızını ve oranını önemli derecede
+artırmıştır. Sirolimusun eş zamanlı (5 mg) olarak, CsA (300 mg)’dan 2 saat sonra (5 mg)
+ve CsA’dan 4 saat sonra (10 mg) uygulaması, sirolimus EAA değerlerinde sırasıyla
+yaklaşık olarak %183, %141 ve %80 artışa sebep olmuştur. CsA’nın etkisi ayrıca
+sirolimusun C ve t değerlerindeki artışa da yansımıştır. CsA uygulamasından 2 saat
+maks maks
+önce verildiğinde sirolimusun C ve EAA değerleri etkilenmemiştir. Sağlıklı
+maks
+gönüllülere siklosporin ile eş zamanlı ya da 4 saat arayla uygulandığında, tek doz
+sirolimus siklosporinin (mikroemülsiyon) farmakokinetiğini etkilememiştir.
+RAPAMUNE’ün siklosporin (mikroemülsiyon) dozundan 4 saat sonra uygulanması
+önerilir.
+Kannabidiol (P-gp inhibitörü)
+Kannabidiol ile beraber kullanılması sırasında sirolimusun kan değerlerinde artış
+raporlanmıştır. Kannabidiol ve farklı bir oral mTOR inhibitörünün birlikte uygulandığı
+sağlıklı gönüllülerle yapılan bir çalışmada, kannabidiol bağırsak P-gp effluks
+inhibisyonuna sebep olarak hem Cmaks hem de EAA’da yaklaşık 2,5 kat artışa yol açmış,
+mTOR inhibitör maruziyetini arttırmıştır. Kannabidiol ve RAPAMUNE birlikte
+uygulandığında dikkatli olunmalı ve yan etkiler yakından izlenmelidir. Sirolimus kan
+düzeylerini izleyiniz ve dozu gerektiği gibi ayarlayınız (bkz. bölüm 4.2 ve 4.4).
+Oral kontraseptifler
+RAPAMUNE oral çözelti ile 0,3 mg norgestrel/0,03 mg etinil estradiol kullanımı arasında
+klinik açıdan önemli herhangi bir farmakokinetik etkileşim görülmemiştir. Oral
+kontraseptiflerle yapılan tek doz ilaç etkileşim çalışmalarının sonuçlarında herhangi bir
+farmakokinetik etkileşim bulunmamış olmasına rağmen; bulgular, uzun süreli
+RAPAMUNE tedavisi boyunca oral kontraseptiflerin etkililiğini etkileyebilecek
+farmakokinetik özelliklerdeki olası değişiklikleri göz ardı edebilecek nitelikte değildir.
+Diğer olası etkileşimler
+CYP3A4 inhibitörleri sirolimusun metabolizmasını azaltarak sirolimus kan seviyelerini
+artırabilir. Bazı antifungaller (örneğin klotrimazol, flukonazol, itrakonazol, vorikonazol),
+bazı antibiyotikler (örneğin troleandomisin, telitromisin, klaritromisin), bazı proteaz
+inhibitörleri (örneğin ritonavir, indinavir, boceprevir, telaprevir), nikardipin,
+bromokriptin, simetidin, danazol ve letermovir gibi inhibitörler bu gruba dahildir.
+CYP3A4 indükleyiciler sirolimus metabolizmasını arttırarak sirolimus kan seviyelerini
+azaltabilir (örneğin St. John's Wort (Hypericum perforatum), antikonvülsan ajanlar:
+karbamazepin, fenobarbital, fenitoin).
+İnhibisyon oluşturmak için gerekli sirolimus konsantrasyonu RAPAMUNE’ün terapötik
+dozlarını alan hastalarda gözlenenden çok daha yüksek olduğundan dolayı, sirolimusun in
+vitro koşullarda insan karaciğer mikrozomal sitokrom P CYP2C9, CYP2C19, CYP2D6
+450
+ve CYP3A4/5’i inhibe etmesine rağmen, aktif maddenin in vivo olarak bu izoenzimlerin
+aktivitelerini inhibe etmesi beklenmemektedir. P-gp inhibitörleri bağırsak hücrelerinden
+sirolimusun çıkışını azaltabilir ve sirolimus seviyelerini arttırabilir.
+Greyfurt suyu CYP3A4-aracılı metabolizmayı etkiler. Bu nedenle greyfurt suyu
+tüketiminden kaçınılmalıdır.
+9Sisaprid ve metoklopramid gibi gastrointestinal prokinetik ajanlar ile farmakokinetik
+etkileşimler gözlenebilir.
+Şu maddelerin herhangi birisi ile sirolimus arasında klinik açıdan önemli herhangi bir
+farmakokinetik etkileşim gözlemlenmemiştir: asiklovir, atorvastatin, digoksin,
+glibenklamid, metilprednizolon, nifedipin, prednizolon ve trimetoprim/sülfametaksazol.
+Özel popülasyonlara ilişkin ek bilgiler:
+Pediyatrik popülasyon
+Etkileşim çalışmaları sadece yetişkinlerde gerçekleştirilmiştir.
+4.6. Gebelik ve laktasyon
+Genel tavsiye
+Gebelik Kategorisi: C
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon)
+RAPAMUNE ile tedavi süresince ve RAPAMUNE tedavisini bıraktıktan sonra 12 hafta
+süre ile etkili bir doğum kontrol yöntemi kullanılmalıdır (bkz. bölüm 4.5).
+Gebelik dönemi
+Sirolimusun gebe kadınlarda kullanımına ilişkin verilersınırlıdır ya da hiç yoktur.
+Hayvanlar üzerinde yapılan araştırmalar üreme toksisitesinin bulunduğunu göstermiştir
+(bkz. bölüm 5.3). İnsanlara yönelik potansiyel risk bilinmemektedir. Açıkça gerekli
+olmadıkça hamilelik boyunca RAPAMUNE kullanılmamalıdır. RAPAMUNE ile tedavi
+süresince ve RAPAMUNE tedavisini bıraktıktan sonra 12 hafta süre ile etkili bir doğum
+kontrol yöntemi kullanılmalıdır.
+Laktasyon dönemi
+Sıçanlarda, radyoaktif etiketli sirolimusun uygulanmasının ardından radyoaktivite
+emziren sıçanın sütüyle atılır. Sirolimusun insan sütüyle atılıp atılmadığı
+bilinmemektedir. Sirolimus kaynaklı advers reaksiyonların emzirilen bebeklerde görülme
+olasılığından dolayı, RAPAMUNE tedavisi süresince emzirme bırakılmalıdır.
+Üreme yeteneği/ Fertilite:
+RAPAMUNE ile tedavi edilmiş bazı hastalarda sperm parametrelerinde bozukluklar
+gözlemlenmiştir. Çoğu olguda bu etkilerin RAPAMUNE’ün kesilmesi ile geriye dönebilir
+olduğu görülmüştür (bkz. bölüm 5.3).
+4.7. Araç ve makine kullanımı üzerindeki etkiler
+RAPAMUNE’ün araç ve makine kullanımı yeteneği üzerine bilinen bir etkisi yoktur.
+Araç ve makine kullanımına etkisini saptayacak bir çalışma yapılmamıştır.
+4.8. İstenmeyen etkiler
+Böbrek naklinde organ reddinin profilaksisinde gözlenen istenmeyen etkiler
+En sık bildirilmiş advers reaksiyonlar (>%10’dan fazla hastada görülen) trombositopeni,
+anemi, pireksi, hipertansiyon, hipokalemi, hipofasfotemi, idrar yolu enfeksiyonu,
+hiperkolesterolemi, hiperglisemi, hipertrigliseridemi, abdominal ağrı, lenfosel, periferik
+ödem, artralji, akne, diyare, ağrı, konstipasyon, mide bulantısı, baş ağrısı, kandaki
+10kreatinin seviyelerinde yükselme ve kandaki laktat dehidrogenaz (LDH) seviyelerinde
+yükselmedir.
+Herhangi bir advers olayın (olayların) insidansı sirolimus çukur seviyesi arttığı zaman
+artabilir.
+Aşağıda belirtilen advers reaksiyonları içeren liste klinik araştırmalardan elde edilen
+deneyimlere ve pazarlama sonrası deneyimlere dayanmaktadır.
+Sistem organ sınıflandırması içinde advers reaksiyonlar, şu kategoriler kullanılarak
+görülme sıklığı (advers reaksiyonu yaşaması beklenen hastaların sayısı) başlıkları altında
+sınıflandırılır: çok yaygın (≥1/10); yaygın (≥1/100 ila <1/10); yaygın olmayan (≥1/1.000
+ila <1/100); seyrek (≥1/10.000 ila <1/1.000); çok seyrek (<1/10.000); bilinmiyor (eldeki
+verilerden hareketle tahmin edilemiyor).
+Her sıklık grubunun içerisinde advers reaksiyonlar azalan ciddiyet sırası ile belirtilmiştir.
+Hastaların çoğu diğer immünosüpresif ajanlar ile birlikte RAPAMUNE’ün dahil olduğu
+immünosüpresif rejimler ile tedavi edilmiştir.
+Enfeksiyonlar ve enfestasyonlar
+Çok yaygın :Pnömoni, fungal enfeksiyon, viral enfeksiyon, bakteriyel
+enfeksiyon, herpes simplex enfeksiyonu, idrar yolu enfeksiyonu
+Yaygın :Sepsis, pyelonefrit, sitomegalovirüs enfeksiyonu, varicella zoster
+virüsüne bağlı herpes zoster
+Yaygın olmayan :Clostridium difficile’e bağlı kolit, tüberküloz dahil mikobakteriyel
+enfeksiyon, Epstein-Barr virüsü enfeksiyonu
+İyi huylu ve kötü huylu neoplazmalar (Kist ve polipler de dahil olmak üzere)
+Yaygın : Melanoma olmayan cilt kanseri*
+Yaygın olmayan : Lenfoma*, malign melanoma*, transplantasyon sonrası
+lenfoproliferatif bozukluklar
+Bilinmiyor : Cildin nöroendokrin karsinomu*
+Kan ve lenf sistemi hastalıkları
+Çok yaygın : Trombositopeni, anemi, lökopeni
+Yaygın : Hemolitik üremik sendromu, nötropeni
+Yaygın olmayan : Pansitopeni, trombotik trombositopenik purpura
+Bağışıklık sistemi hastalıkları
+Yaygın :Anjiyoödemin, anafilaktik reaksiyon ve anafilaktoid reaksiyonların
+dahil olduğu hipersensitivite reaksiyonları
+Metabolizma ve beslenme hastalıkları
+Çok yaygın :Hipokalemi, hipofosfatemi, hiperkolesterolemiyi içeren
+hiperlipidemi, hiperglisemi, hipertrigliseridemi, diabetes mellitus
+Sinir sistemi hastalıkları
+Çok yaygın : Baş ağrısı
+Bilinmiyor : Geriye dönüşlü posterior ensefalopati sendromu
+11Kardiyak hastalıklar
+Çok yaygın : Taşikardi
+Yaygın : Perikard efüzyonu
+Vasküler hastalıklar
+Çok yaygın : Hipertansiyon, lenfosel
+Yaygın : Derin ven trombozunu içeren venöz tromboz
+Yaygın olmayan : Lenfödem
+Solunum, göğüs bozuklukları ve mediastinal hastalıklar
+Yaygın : Pulmoner emboli, pnömoni*, plevral efüzyon, epistaksis
+Yaygın olmayan : Pulmoner hemoraji
+Seyrek : Alveolar proteinozis
+Gastrointestinal hastalıklar
+Çok yaygın : Abdominal ağrı, konstipasyon, diyare, bulantı
+Yaygın : Pankreatit, stomatit, assit
+Hepato-biliyer hastalıklar
+Çok Yaygın : Alanin aminotransferaz ve aspartat aminotransferaz artışı dahil
+karaciğer fonsiyon testlerinde anormallik
+Yaygın olmayan : Hepatik yetmezlik*
+Deri, ve deri altı doku hastalıkları
+Çok yaygın : Döküntü, akne
+Yaygın olmayan : Eksfoliyatif dermatit
+Seyrek : Hipersensitivite vasküliti
+Kas-iskelet bozuklukları, bağ doku ve kemik hastalıkları
+Çok yaygın : Artralji
+Yaygın : Osteonekroz
+Böbrek ve idrar yolu hastalıkları
+Çok yaygın : Proteinüri
+Yaygın olmayan :Nefrotik sendrom (bkz. bölüm 4.4), fokal segmental
+glomerüloskleroz*
+Üreme sistemi ve meme hastalıkları
+Çok yaygın : Menstrual bozukluklar (amenore ve menoraji dahil)
+Yaygın : Over kistleri
+Genel bozukluklar ve uygulama bölgesine ilişkin hastalıklar
+Çok yaygın : Ödem, periferik ödem, pireksi, ağrı, yetersiz iyileşme*
+Araştırmalar
+Çok yaygın : Kanda laktat dehidrogenazda artış (LDH), kanda kreatininde artış
+*Aşağıdaki bölüme bakınız
+Seçilmiş advers reaksiyonların tanımı
+12İmmünosüpresyon lenfoma ve diğer malignitelerin (özellikle deri) gelişmesine karşı
+duyarlılığı artırır (bkz. bölüm 4.4).
+RAPAMUNE dahil immünosüpresanlar ile tedavi edilen hastalarda BK virüs ile ilişkili
+nefropati ve aynı zamanda JC virüs ile ilişkili progresif multifokal lökoensefalopati
+(PML) vakaları raporlanmıştır.
+Hepatoksisite bildirilmiştir. Çukur sirolimus seviyesi arttıkça risk artabilir. Yükselmiş
+çukur sirolimus seviyeleri ile birlikte nadir fatal hepatik nekroz vakaları bildirilmiştir.
+RAPAMUNE dahil, immünosüpresif tedavi rejimlerini alan hastalarda, bazıları ölümcül
+olan ve herhangi bir enfeksiyöz etiyolojisi tanımlanmamış interstisyel akciğer hastalığı
+vakaları (pnömonit ve seyrek olarak tıkayıcı bronşite yol açan pnömoni [BOOP] ve
+pulmoner fibroz dahil) görülmüştür. Bazı vakalarda interstisyel akciğer hastalığı
+RAPAMUNE tedavisinin kesilmesi veya dozunun azaltılmasıyla ortadan kaldırılmıştır.
+Çukur sirolimus seviyesi arttıkça risk artabilir.
+Fasyal dehisens, insizyonel hemi ve anastomoz disrupsiyonu (örneğin yara, vasküler,
+havayolu, üreter, safra) dahil transplantasyon cerrahisini takiben iyileşmenin bozulduğu
+bildirilmiştir.
+RAPAMUNE ile tedavi edilmiş bazı hastalarda sperm parametrelerinde bozukluklar
+gözlemlenmiştir. Çoğu olguda bu etkilerin RAPAMUNE’ün kesilmesi ile geri-dönüşlü
+olduğu görülmüştür (bkz. bölüm 5.3).
+Graft fonksiyonu gecikmeli olan hastalarda sirolimus renal fonksiyonun iyileşmesini
+geciktirebilir.
+Sirolimusun kalsinörin ile eş zamanlı kullanımı, kalsinörin inhibitörü ile indüklenmiş
+HUS/TTP/TMA riskini artırabilir.
+Fokal segmental glomerüloskleroz bildirilmiştir.
+RAPAMUNE kullanan hastalarda aynı zamanda, periferik ödem, lenfödem, plevral
+efüzyon ve perikardiyal efüzyonların da (çocuklarda ve yetişkinlerde hemodinamik
+açıdan önemli efüzyonlar dahil) dahil olduğu sıvı birikimleri bildirilmiştir.
+Kalsinörin inhibitörlerinden sirolimusa geçişin güvenlilik ve etkililiğinin değerlendirildiği
+çalışmada (böbrek nakli hastalarındaki idame hedef seviyeleri 12 ila 20 ng/mL) bazal
+glomerüler filtrasyon oranı 40 mL/dk’dan daha düşük olan hastalara ait alt gruba (n= 90)
+hasta alımı durdurulmuştur (bkz. bölüm 5.1). Sirolimus tedavi kolunda (n=60,
+transplantasyon sonrası ortanca (medyan) zaman 36 ay) pnömoni, akut rejeksiyon, graft
+kaybı ve ölüm dahil ciddi advers olaylar daha yüksek oranda görülmüştür.
+Over kistleri ve menstrual bozukluklar (amenore ve menoraji dahil) bildirilmiştir.
+Semptomatik over kisti olan hastalar ileri değerlendirmeye yönlendirilmelidir.
+Postmenopozal kadınlara kıyasla premenopozal kadınlarda over kisti insidansı daha
+büyük olabilir. Bazı vakalarda over kistleri ve bu menstrual bozukluklar RAPAMUNE’ün
+kesilmesi ile çözümlenmiştir.
+13Pediyatrik popülasyon
+Yetişkinlerde yürütülen RAPAMUNE’ün güncel endikasyonu için doz kıyaslamalı
+kontrollü klinik çalışmalar, 18 yaşın altındaki çocuklarda veya adölesanlarda
+yürütülmemiştir. Güvenlilik, 18 yaşının altında immünolojik açıdan yüksek riskli olarak
+düşünülen, bir veya birden fazla akut allograft rejeksiyon epizodları geçmişine sahip
+olarak tanımlanan ve/veya renal biyopside kronik allograft nefropatisi var olan böbrek
+nakli hastalarının dahil edildiği kontrollü bir çalışmada değerlendirilmiştir (bkz. bölüm
+5.1). RAPAMUNE’ün kalsinörin inhibitörleri ve kortikosteroidler ile birlikte kullanımı;
+renal fonksiyonlarda bozulma riskinin artmasına, serum lipid seviyelerinde anormalliklere
+(serum trigliserit ve total kolesterol seviyelerinde artış dahil fakat bunlarla sınırlı değildir)
+ve idrar yolu enfeksiyonlarına sebep olmuştur. Bu araştırmada çalışılan tedavi rejimi
+(sürekli kalsinörin inhibitörü ile kombine olarak RAPAMUNE kullanımı) yetişkin ya da
+pediyatrik hastalar için endike değildir (bkz. bölüm 4.1).
+Basiliksimab indüksiyonu kombinasyonu ile birlikte hem RAPAMUNE hem de
+kalsinörin inhibitörü ile tam doz immünosupresyon içeren ve uygulamaya
+transplantasyonda başlanan immünosupresif rejimden progresif kortikosteroid
+çıkarılmasının (transplantasyon sonrası 6 ayda başlanan) güvenliliğinin
+değerlendirilmesinin amaçlandığı ve 20 yaş ve altındaki böbrek nakli hastalarının dahil
+edildiği başka bir araştırmaya dahil edilen 274 hastanın 19’unda (%6,9) post-transplant
+lenfoproliferatif hastalık (PTLD) geliştiği bildirilmiştir. Transplantasyon öncesi Epstein-
+Barr virüsü (EBV) yönünden seronegatif olduğu bilinen 89 hastadan 13’ünde (%15,6)
+PTLD geliştiği raporlanmıştır. PTLD gelişen hastaların tamamı 18 yaşından küçüktür.
+RAPAMUNE’ün çocuklar ve adolesanlarda kullanımını önermek için yeterli deneyim
+bulunmamaktadır (bkz. bölüm 4.2).
+Şüpheli advers reaksiyonların bildirilmesi
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar / risk dengesinin sürekli olarak
+izlenmesine olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers
+reaksiyonu Türkiye Farmakovijilans Merkezi (TUFAM)'ne bildirmeleri gerekmektedir
+(www.titck.gov.tr; e- posta: tufam@titck.gov.tr; tel: 0 800 314 00 08; faks: 0 312 218 35
+99)
+4.9. Doz aşımı ve tedavisi
+Aşırı doz ile ilgili deneyimler kısıtlıdır. Bir hasta ağız yolundan 150 mg RAPAMUNE
+aldıktan sonra bir atriyal fibrilasyon epizotu deneyimlemiştir. Genelde doz aşımında
+gözlenen etkiler, advers etkiler bölümünde listelenmiş etkiler ile aynıdır. Aşırı doz
+durumunda genel destek tedavisi başlanmalıdır. Sirolimusun sudaki çözünürlüğü az
+olduğundan ve eritrositlere ve plazma proteinlerine bağlanma oranı yüksek olduğundan
+diyaliz ile vücuttan uzaklaştırılamayacağı düşünülmektedir.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1. Farmakodinamik özellikler
+Farmakoterapötik grup: Selektif immünosüpresanlar
+ATC Kodu: L04AA10
+14Etki mekanizması
+Sirolimus kalsiyum-bağımlı ve kalsiyumdan bağımsız intrasellüler sinyal
+transdüksiyonunu bloke ederek, çoğu uyaranın indüklediği T-hücresi aktivasyonunu
+inhibe eder. Çalışmalar sirolimusun etkilerinin, siklosporin, takrolimus ve diğer
+immünosupresif ajanlardan farklı bir mekanizma aracılığı ile gerçekleştiğini göstermiştir.
+Deneysel sonuçlara göre sirolimus spesifik sitozolik protein FKPB-12’ye bağlanır ve bu
+FKPB-12-sirolimus kompleksi, hücre döngüsü progresyonu için kritik bir kinaz olan
+memeli “Target Of Rapamycin”i (mTOR) inhibe eder. mTOR’un inhibisyonu çeşitli
+spesifik sinyal transdüksiyon yolaklarının blokajı ile sonuçlanır. Net sonuç
+immünosupresyon ile sonuçlanan lenfosit aktivasyonunun inhibisyonudur.
+Sirolimusun hayvanlarda T-hücresi ve B-hücresi aktivasyonu üzerine, allograft
+rejeksiyonu gibi immün-aracılı reaksiyonları baskılamak gibi doğrudan bir etkisi vardır.
+Klinik çalışmalar
+Organ reddi profilaksisi
+Kadavra ya da canlı donörden renal allograft alan hastaların dahil edildiği siklosporin
+eliminasyon–RAPAMUNE idamesi faz 3 araştırmasında düşük ve orta derece
+immünolojik riske sahip hastalar incelenmiştir. Ek olarak transplantasyon sonrası en az 6
+ay boyunca bir önceki graftları dayanmış retransplantasyon hastaları da dahil edilmiştir.
+Diyalize bağlı hastalar, 400 mikromol/L’den daha yüksek serum kreatinin seviyesine
+sahip olan hastalar ya da siklosporin kesilmesini destekleyecek renal fonksiyonun yetersiz
+olduğu, 3. derece Banff epizodları yaşayan hastalarda siklosporin kesilmemiştir.
+Siklosporin eliminasyon–RAPAMUNE idamesi araştırmalarına graft kaybetme riski
+immünolojik olarak yüksek olan yeterli sayıda hasta dahil edilememiştir. Bu hastalar için
+bu tedavi rejimi önerilmez.
+12, 24 ve 36. aylarda graft ve hasta sağkalımları her iki grup için aynıdır. 48. ayda graft
+sağkalımlarında, RAPAMUNE ile birlikte siklosporin tedavisi grubuna kıyasla,
+siklosporin eliminasyonunu izleyen RAPAMUNE grubunun lehinde istatistiksel açıdan
+önemli bir farklılık ortaya çıkmıştır (izleme kadar kayıpların dahil olduğu ve olmadığı).
+Randomizasyon sonrası dönemden 12. aya kadar olan periyot boyunca siklosporin idame
+grubuna kıyasla siklosporin eliminasyon grubunda ilk biyopsi ile kanıtlanan rejeksiyon
+oranı önemli ölçüde daha yüksektir (sırası ile %4,2’e karşı %9,8). Bundan sonraki
+zamanlarda iki grup arasındaki fark anlamlı olmamıştır.
+12, 24, 36, 48 ve 60. aylarda ortalama hesaplanmış glomerüler filtrasyon oranı (GFR),
+siklosporin eliminasyonunu izleyen RAPAMUNE grubunda, RAPAMUNE ile birlikte
+siklosporin tedavisi grubuna göre önemli ölçüde daha yüksektir. Graft sağkalımda ve
+renal fonksiyonda artan farkın yanı sıra, siklosporin eliminasyon grubunda önemli ölçüde
+daha düşük kan basıncı olduğunu gösteren 36 ay ve daha sonraya ait verilerin analizlerine
+dayanarak; siklosporin ile birlikte RAPAMUNE alan gruptaki hastalarla devam etmeme
+kararı verilmiştir. 60. ayda siklosporini kesmiş olan kohorttaki hastalar ile
+kıyaslandığında, siklosporine devam eden kohortta cilt haricinde gelişen malignitelerin
+insidansı önemli ölçüde daha yüksektir (sırası ile %3,8’e karşı %8,4). Deri karsinomunun
+ilk oluşumu için ortanca (medyan) zaman önemli ölçüde geciktirilmiştir.
+İdame tedavisindeki böbrek nakli hastalarında (transplantasyondan 6-120 ay sonra)
+kalsinörin inhibitörlerinden RAPAMUNE’e geçişin güvenlilik ve etkililiği, bazalda
+hesaplanmış GFR ile gruplara ayrılmış (20-40 mL/dk’ya karşı 40 mL’dk üstü),
+randomize, çok merkezli, kontrollü bir çalışma ile değerlendirilmiştir. Eş zamanlı
+15immünosupresif ajanlar mikofenolat mofetil, azatioprin ve kortikosteroidlerdir.
+Güvenlilik olaylarındaki tutarsızlık sebebi ile hesaplanmış bazal GFR değeri
+40mL/dk’nın altında olan gruba hasta alımına devam edilmemiştir (bkz. bölüm 4.8).
+Hesaplanmış bazal GFR değeri 40mL/dk’nın üzerinde olan hasta grubunda renal
+fonksiyon tamamen düzelmemiştir. 1 ve 2. yılda akut rejeksiyon, graft kaybı ve ölüm
+oranları aynıdır. Tedavi sonrası ortaya çıkan advers olaylar daha sıklıkla RAPAMUNE’e
+geçildikten sonraki ilk 6 ay boyunca gözlemlenmiştir. Hesaplanmış bazal GFR değeri
+40mL/dk’nın üzerinde olan kohortta 24 aydaki ortalama ve mediyan üriner proteinin
+kreatinin oranı, kalsinörin inhibitörüne devam eden gruba kıyasla RAPAMUNE’e geçilen
+grupta önemli derecede daha yüksektir (bölüm 4.4’e bakınız). Aynı zamanda yeni gelişen
+nefroz (nefrotik sendrom) bildirilmiştir (bkz. bölüm 4.8).
+2. yılda melanom dışı cilt malignitelerinin oranı kalsinörin inhibitörüne devam eden
+gruba kıyasla RAPAMUNE’e geçilen grupta önemli derecede daha düşüktür (%6,9 ve
+%1,8). Bazalda GFR değeri 40mL/dk’dan yüksek olan ve normal üriner protein atılımı
+olan çalışma hastaları alt grubunda, 1. ve 2. yılda GFR değerleri tedavisi RAPAMUNE’e
+geçirilen hastalarda, kalsinörin inhibitörüne devam eden hastaların alt grubundan daha
+yüksektir. Akut rejeksiyon, graft kaybı ve ölüm oranları aynıdır. Fakat bu alt grubun
+RAPAMUNE ile tedavi edilen kolunda üriner protein atılımı artmıştır.
+Böbrek nakli hastalarının, transplanttan 3 ila 5 ay sonra takrolimus’tan sirolimus’a geçtiği
+veya takrolimus’ta kaldığı açık etiketli, randomize, karşılaştırmalı, çok merkezli bir
+çalışmada, 2 yılda böbrek fonksiyonlarında anlamlı bir fark yoktur. Takrolimus grubuyla
+karşılaştırıldığında, sirolimus’a geçen grupta advers olay (%99,2 vs. %91,1, p=0,002*) ve
+advers olaylara bağlı tedavi kesme oranı (%2,7 vs. %4,1, p<0,001*) daha yüksektir.
+Biyopsi ile kanıtlanmış akut rejeksiyon insidansı, 2 yıl boyunca takrolimus grubuna
+kıyasla (2, %1,6) sirolimus grubundaki hastalarda (11, %8,4) daha yüksek (p=0,020*)
+bulunmuştur; sirolimus grubunda çoğu rejeksiyonun şiddeti hafif derecededir (9'undan 8'i
+[%89] T-hücresi BCAR, 4'ünden 2'si [%50] antikor aracılı BCAR). Aynı biyopside hem
+antikor aracılı rejeksiyon hem de T hücre aracılı rejeksiyonu olan hastalar, her kategori
+için birer kez sayılmıştır. Sirolimus’a geçen daha fazla sayıda hastada randomizasyondan
+sonra ≥126 mg/dL açlık glukoz veya ≥200 mg/dL tokluk glukoz düzeyi ile herhangi bir
+diyabetik tedavinin 30 gün veya daha fazla devamlı olarak veya en az 25 gün kesintisiz
+(aralık olmadan) olarak kullanılması olarak tanımlanan yeni diabetes mellitus başlangıcı
+gelişmiştir (%18,3 vs. %5,6, p=0,025*). Sirolimus grubunda skuamöz hücreli deri
+karsinom insidansı daha düşük bulunmuştur (%0 vs. %4,9). *Not: p-değerleri birden fazla
+test için kontrol edilmemiştir.
+İki çok merkezli çalışmada, sirolimus, mikofenolat mofetil (MMF), kortikosteroidler ve
+IL-2 reseptör antagonisti ile tedavi edilen de novo böbrek nakli hastalarında; kalsinörin
+inhibitörleri MMF, kortikostreoidler ve IL-2 reseptör antagonisti ile tedavi edilen
+hastalara kıyasla önemli ölçüde daha yüksek akut rejeksiyon ve numerik olarak daha
+yüksek ölüm oranları gözlemlenmiştir (bkz. bölüm 4.4). Kalsinörin inhibitörü olmadan
+sirolimusun de novo hastalardaki tedavisi renal fonksiyon açısından daha iyi değildir. Bu
+çalışmaların birinde daklizumabın kısaltılmış dozlama programı kullanılmıştır.
+Kalsinörin inhibitörlerinden sirolimusa geçilen böbrek transplantasyonu hastalarında
+proteinürinin önlenmesinde ramiprilin plasebo ile karşılaştırıldığı randomize bir
+araştırmada, 52 hafta içerisinde biyopsi ile kanıtlanmış akut rejeksiyon oranına (BCAR)
+sahip hastaların sayısında bir farklılık gözlemlenmiştir [sırasıyla;13 (%9,5)’e karşı 5
+(%3,2); p=0,073]. 10 mg ramipril başlanan hastalar (%15), 5 mg ramipril başlanan
+16hastalara (%5) kıyasla daha yüksek BCAR oranına sahip olmuştur. Çoğu rejeksiyon,
+RAPAMUNE’e geçişi takiben ilk 6 ay içerisinde oluşmuştur ve orta şiddettedir.
+Araştırma boyunca herhangi bir graft kaybı bildirilmemiştir (bkz. bölüm 4.4).
+Pediyatrik popülasyon
+RAPAMUNE, 18 yaşının altında immünolojik açıdan yüksek riskli olarak düşünülen, bir
+veya birden fazla akut allograft rejeksiyon epizodları geçmişine sahip olarak tanımlanan
+ve/veya renal biyopside kronik allograft nefropatisi var olan böbrek nakli hastalarının
+dahil edildiği 36 aylık kontrollü bir çalışmada değerlendirilmiştir. Gönüllüler, kalsinörin
+inhibitörü ve kortikosteroidler ile kombine olarak RAPAMUNE (sirolimus hedef
+konsantrasyonları 5 ila 15 ng/mL) ya da RAPAMUNE olmadan kalsinörin inhibitörüne
+dayanan immünosupresyon almıştır. RAPAMUNE grubu, biyopsi ile onaylanmış akut
+rejeksiyon, graft kaybı ya da ölümün ilk bu grupta oluşması sebebi ile kontrol grubuna
+göre üstünlüğünü göstermekte başarısız olmuştur. Her grupta birer ölüm olmuştur.
+RAPAMUNE’ün kalsinörin inhibitörleri ve kortikosteroidler ile birlikte kullanımı; renal
+fonksiyonlarda bozlama riskinin artmasına, serum lipit seviyelerinde anormalliklere
+(serum trigliserit ve total kolesterol seviyelerinde artış dahil fakat bunlarla sınırlı değildir)
+ve idrar yolu enfeksiyonlarına sebep olmuştur (bkz. bölüm 4.8).
+Çocuklara ve adolesanlara basiliksimab ve kortikosteroidlerle birlikte tam doz kalsinörin
+inhibitörlerinin tam doz RAPAMUNE’e ek olarak uygulandığı bir pediyatrik
+transplantasyon klinik araştırmasında, kabul edilemez derecede yüksek frekanslı PTLD
+görülmüştür (bkz. bölüm 4.8).
+Miyeloablatif kök hücre transplantasyonu geçirmiş, siklofosfamid kullanan ve tüm gövde
+ışınlanması yapılan hastalarda hepatik veno-Okluziv Hastalığın (VOD) retrospektif
+incelemesinde, özellikle metotreksat ile eş zamanlı kombine olarak tedavi edilen
+hastalarda hepatik VOD insidansında artış gözlemlenmiştir.
+5.2. Farmakokinetik özellikler
+Genel özellikler:
+0,5 mg tablet; C açısından karşılaştırıldığında 1 mg tabletlerle tam olarak biyoeşdeğer
+maks
+değildir. Bu nedenle 0,5 mg tabletin katları diğer tablet yitiliklerinin yerine
+kullanılmamalıdır.
+Emilim:
+Tablet formülasyonunun sağlıklı gönüllülerde tek doz olarak uygulanması sonrası
+sirolimusun ortalama biyoyararlanım oranı %27’ dir ve oral çözeltiye göre daha
+yüksektir. Ortalama C %35 kadar düşmüş, ortalama t %82 kadar artmıştır. Renal
+maks maks
+transplantasyon hastalarına kararlı durumda uygulandığında biyoyararlanımdaki farklılık
+daha az gözlenmiştir ve 477 hastalık bir randomize araştırmada terapötik eşdeğerlik
+gösterilmiştir. Hastalarda oral çözelti ile tablet formülasyonları arasında geçiş yapılırken
+aynı dozun verilmesi ve 1 ila 2 hafta sonrasında önerilen hedef aralıkta kalmasını garanti
+etmek için sirolimus çukur konsantrasyonunun doğrulanması önerilmektedir. Farklı tablet
+dozajları arasında geçiş yapılırken de çukur konsantrasyonların doğrulanması
+önerilmektedir.
+Dağılım:
+Dengeli böbrek nakli hastalarında çoklu oral doz uygulamasını takiben sirolimusun
+terminal yarılanma ömrü 62±16 saattir. Bunun yanısıra etkili yarılanma ömrü çok daha
+17kısa olup ortalama kararlı durum konsantrasyonuna 5 ila 7 gün içinde ulaşılır.
+Kan/plazma oranının 36 olması, sirolimusun önemli miktarda oluşmuş kan elementlerine
+bölündüğünü göstermektedir.
+Biyotransformasyon:
+Sirolimus, hem sitokrom P450 IIIA4 (CYP3A4) hem de P-glikoprotein substratıdır.
+Sirolimus geniş çapta O-demetilasyon ve/veya hidroksilasyona uğrayarak metabolize
+edilir. Hidroksil, demetil ve hidroksidemetil dahil yedi ana metaboliti tam kanda
+saptanabilmektedir. Sirolimus insan tam kanındaki ana bileşik olup, immünosupresif
+etkide %90’dan fazla payı vardır.
+Eliminasyon:
+Sağlıklı gönüllülere tek doz [14C] sirolimus verildiğinde, radyoaktivitenin çoğunluğu
+(%91) feçes, az miktarı da (%2,2) idrarda saptanır.
+Doğrusallık/Doğrusal olmayan durum:
+RAPAMUNE tabletlerin (5 mg) tek dozlar olarak sağlık gönüllülere uygulanmasını
+takiben sirolimus konsantrasyonları 5 ve 40 mg arasında doz orantısaldır.
+Yiyeceklerin Etkisi:
+Yüksek yağlı yemek ile birlikte RAPAMUNE uygulanan 24 sağlıklı gönüllüde C , t
+maks maks
+ve EAA sırasıyla %65, %32, ve %23 artış göstermiştir. Değişkenliği minimuma indirmek
+için RAPAMUNE tabletler sürekli yemekler ile birlikte ya da yemeklerden bağımsız
+olarak alınmalıdır. Greyfurt suyu CYP3A4 aracılı metabolizmayı etkiler. Bu sebeple
+greyfurt suyu tüketiminden kaçınılmalıdır.
+Hastalardaki karakteristik özellikler
+Yaşlılar:
+RAPAMUNE ile yapılan klinik araştırmalar, 65 yaş üstündeki hastaların daha genç
+hastalardan daha farklı cevap verip vermeyeceklerini belirlemek için yeterli sayıda 65 yaş
+üstü hasta içermemektedir. 65 yaş üzerinde RAPAMUNE uygulanmış 12 böbrek nakli
+hastası, 18–65 yaş arası yetişkin popülasyon (n=167) ile benzer sonuçlar vermiştir.
+Başlangıç Tedavisi (Transplantasyon sonrası 2 ila 3 ay): Yükleme dozu olarak 6 mg’lık
+RAPAMUNE tablet alan hastaların çoğu başlangıç idame dozu olarak 2 mg’lık tabletler
+ile devam eder ve tam kan sirolimus çukur konsantrasyonları önerilen hedef aralığı
+içerisindeki (4 ila 12 ng/ mL, kromatografik analiz) kararlı durum konsantrasyonlarına
+ulaşılır. Siklosporin (RAPAMUNE tabletten 4 saat önce) ve kortikosteroidlerin kombine
+olarak 2 mg’lık RAPAMUNE tabletlerin günlük dozu ile birlikte uygulandığı 13 renal
+transplantasyon hastasında transplantasyon sonrası 1. ve 3. aydaki toplanan verilere
+dayanarak sirolimus farmakokinetik verileri: C 7,39±2,18 ng/mL; C 15±
+min,ss maks,ss
+4,9 ng/mL; t 3,46±2,4 saat; EAA 230±67 ng.h/mL; CL/F/WT, 139±63 mL/h/kg
+maks,ss τ,ss
+(bu parametreler LC-MS/MS miktar tayini sonuçlarından hesaplanmıştır). Aynı klinik
+çalışmadan oral çözeltiye ilişkin sonuçlar: C 5,4±2,5 ng/mL, C 14,4±5,3 ng/mL,
+min,ss maks,ss
+t 2,12±0,84 saat, EAA 194±78 ng.h/mL, CL/F/W 173±50 mL/h/kg. LC/MS/MS
+maks,ss τ,ss
+ile ölçülen tam kan çukur sirolimus konsantrasyonları EAA ile önemli ölçüde koreledir
+τ,ss
+(r2=0,85).
+Siklosporin ile eş zamanlı tedavi periyodu boyunca tüm hastalarda izlenen ortalama (10.
+ve 90. persentil) çukur konsantrasyonlar (kromatografik miktar tayini değerleri olarak
+18ifade edilmiş) ve günlük dozlar: sırasıyla 8,6±3 ng/mL (5 ila 13 ng/mL) ve 2,1±0,7 mg
+(1,5 ila 2,7 mg) (bkz., bölüm 4.2).
+İdame tedavi: 3. aydan 12 aya kadar siklosporinin bırakılması ardından, ortalama (10., 90.
+persentil) çukur konsantrasyonlar (kromatografik miktar tayini değerleri olarak ifade
+edilmiş) ve günlük dozlar: sırasıyla 19±4,1 ng/mL (14 ila 24 ng/mL) ve 8,2±4,2 mg (3,6
+ila 13,6 mg) (bkz., bölüm 4.2). Bu sebeple hem siklosporin ile farmakokinetik etkileşimin
+eksikliğini (2 kat artış) hem de siklosporinin eksikliğinde artmış immünosupresif
+gerekliliği (2 kat artış) karşılamak için sirolimus dozu yaklaşık 4 kat daha yüksektir.
+5.3. Klinik öncesi güvenlilik verileri
+Klinik araştırmalarda gözlemlenmemiş ancak klinik olarak maruz kalınan seviye ile aynı
+maruziyet seviyesinde hayvan çalışmalarında görülmüş olan ve klinik kullanımla ilişkisi
+mümkün olan advers reaksiyonlar: pankreas adacık hücrelerinde vaküol boşluk oluşumu,
+testiküler tübüler dejenerasyon, gastrointestinal sistemde ülser oluşumu, kemik kırıkları
+ve kalluslar, hepatik hematopoiez ve pulmoner fosfolipidozis.
+Sirolimusun, in vitro bakteriyel ters mutasyon testinde, Çin hamster ovaryum hücresinin
+kromozomal aberasyon testinde, fare lenfoma hücre ileri mutasyon testinde ve de in vivo
+fare mikronükleus testinde mutajenik olmadığı saptanmıştır.
+Fare ve sıçanlarda yürütülen karsinojenite çalışmalarında lenfoma (erkek ve dişi fareler),
+hepatosellüler adenom ve karsinom (erkek fare) ve granülositik lösemi (dişi fare)
+görülmüştür. Malignitelerin (lenfoma) immünosupresif ajanların kronik kullanımına bağlı
+olduğu bilinmektedir. Ender olarak bu hastalarda maligniteler bildirilmiştir. Farelerde
+kronik ülseratif deri lezyonları artmıştır. Değişimler kronik immünosupresyon ile
+ilişkilendirilebilir. Sıçanlarda testiküler interstistiyal hücre adenomları lüteinleyici
+hormon seviyelerine tür bağımlı verilen yanıtın olası belirleyicisidir ve genel olarak klinik
+açıdan belirginliğinin sınırlı olduğu düşünülür.
+Üreme toksisitesi çalışmalarında erkek sıçanların fertilitesinde azalma gözlemlenmiştir.
+13 haftalık bir sıçan çalışmasında sperm sayılarında kısmen geri-dönüşlü azalmalar
+olduğu bildirilmiştir. Sıçan çalışmalarında ve bir maymun çalmasında testiküler
+ağırlıklarda ve/ veya histolojik lezyonlarda (örneğin tübüler atrofi ve tübüler dev
+hücreler) azalma gözlemlenmiştir. Sirolimus sıçanlarda mortalite ya da fetal ağırlıkta
+azalma (iskelet osifikasyonundaki gecikmeler nedeniyle) olarak ortaya çıkmış
+embriyotoksisite/ fetaltoksisiteye sebep olmuştur (bkz. bölüm 4.6).
+6. FARMASÖTİK ÖZELLİKLER
+6.1. Yardımcı maddelerin listesi
+Tablet çekirdeği
+• Laktoz Monohidrat
+• Polietilen glikol (E1521)
+• Magnezyum stearate (E572)
+• Talk
+Kaplama
+• Polietilen Glikol (Macrogol)
+• Gliserol monooleat
+• Farmasötik cila (Gıdada kullanılabilir saf şellak, ethanol ve su)
+• Kalsiyum sülfat anhidrus
+• Mikrokristalin Selüloz (E460i)
+19• Sukroz
+• Saf su
+• Vitamin E
+• Povidon
+• Poloxamer 188
+• Karnauba mumu
+• Titanyum dioksit (E171)
+• Kırmızı opakod (Bileşimi; Etanol içerisinde Şellak Cila, kırmızı demir oksit,
+izopropil alkol, N-butil alkol, propilen glikol, amonyum hidroksit, simetikon)
+• Sarı demir oksit (E172iii)
+• Kırmızı demir oksit (E172ii)
+• Siyah demir oksit (E172i)
+6.2. Geçimsizlikler
+Geçerli değildir.
+6.3. Raf ömrü
+24 ay
+6.4. Saklamaya yönelik özel tedbirler
+25°C ’nin altında oda sıcaklığında saklanmalıdır. Işıktan korumak için blisteri karton kutu
+içerisinde saklanmalıdır.
+6.5. Ambalajın niteliği ve içeriği
+RAPAMUNE tabletler ısı ile aktive olan yapışkan ile aluminyum folyo levhaya veya
+“kapak” a yapıştırılmış şeffaf plastik kaplama veya “kubbe” den oluşan, çekilerek açılan
+veya tablet itilerek çıkarılan (PVC/PE/ACLAR) blister ambalaj içerisinde
+ambalajlanacaktır. Blisterler karton kutu içerisine yerleştirilecektir.
+6.6. Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+Kullanılmamış olan ürünler ya da atık materyaller ‘Tıbbi Atıkların Kontrolü Yönetmeliği’
+ve Ambalaj Atıklarının Kontrolü Yönetmelikleri’ne uygun olarak imha edilmelidir.
+7. RUHSAT SAHİBİ
+Pfizer PFE İlaçları A.Ş.
+Esentepe Mah. Büyükdere Cad.
+Levent 199 Blok No: 199 İç Kapı No: 106
+Şişli / İstanbul
+8. RUHSAT NUMARASI
+2014/875
+9. İLK RUHSAT TARİHİ / RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi: 11.12.2014
+Ruhsat yenileme tarihi: 12.11.2019
+10. KÜB’ÜN YENİLENME TARİHİ
+20

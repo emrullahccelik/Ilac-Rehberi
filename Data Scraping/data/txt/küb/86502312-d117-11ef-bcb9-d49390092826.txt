@@ -1,0 +1,856 @@
+KISA ÜRÜN BİLGİSİ
+Bu ilaç ek izlemeye tabidir. Bu üçgen yeni güvenlilik bilgisinin hızlı olarak belirlenmesini
+sağlayacaktır. Sağlık mesleği mensuplarının şüpheli advers reaksiyonları TÜFAM’a
+bildirmeleri beklenmektedir. Bakınız Bölüm 4.8 Advers reaksiyonlar nasıl raporlanır?
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+SAXENDA® 6 mg/mL enjeksiyonluk çözelti içeren kullanıma hazır kalem
+Steril
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde:
+1 mL çözelti, 6 mg liraglutid* içerir. Bir kullanıma hazır kalem, 3 mL’de 18 mg liraglutid
+içerir.
+* Saccharomyces cerevisiae’de rekombinant DNA teknolojisi ile üretilen insan glukagon-
+benzeri peptid-1 (GLP-1) analoğu.
+Yardımcı maddeler:
+Sodyum hidroksit (pH ayarı için) y.m.
+Disodyum fosfat dihidrat 1,42 mg/mL
+Yardımcı maddelerin tam listesi için Bölüm 6.1’e bakınız.
+3. FARMASÖTİK FORM
+Enjeksiyonluk çözelti.
+Berrak ve renksiz veya renksize yakın, izotonik çözelti; pH = 8,15.
+4. KLİNİK ÖZELLİKLER
+4.1. Terapötik endikasyonlar
+SAXENDA®, başlangıç vücut kitle indeksi (VKİ) aşağıdaki gibi olan erişkin hastaların, vücut
+ağırlığı yönetiminde düşük kalorili diyet ve artırılmış fiziksel aktiviteye ek tedavi olarak
+endikedir:
+• ≥ 30 kg/m² (obez), veya
+• Disglisemi (pre-diyabet veya tip 2 diyabet), hipertansiyon, dislipidemi ya da obstruktif
+uyku apnesi gibi kilo ile ilişkili en az bir komorbidite varlığında ≥ 27 kg/m² ila < 30
+kg/m² (fazla kilolu).
+Eğer hastalar, 3,0 mg/gün dozunda 12 haftalık tedavinin sonunda başlangıçtaki vücut
+ağırlıklarının en az %5’ini kaybetmemişlerse, SAXENDA® tedavisi kesilmelidir.
+14.2. Pozoloji ve uygulama yöntemi
+Pozoloji/uygulama sıklığı ve süresi:
+Başlangıç dozu günde tek doz 0,6 mg’dır. Doz, gastro-intestinal toleransı artırmak için en az
+bir hafta aralıklarla her seferinde 0,6 mg artışla günde tek doz 3,0 mg’a yükseltilmelidir
+(bakınız Tablo1). Eğer bir sonraki doz artışı ardışık 2 hafta için tolere edilemezse, tedaviyi
+kesmek düşünülebilir. Günlük dozun 3,0 mg’dan yüksek olması önerilmez.
+Tablo 1 Doz yükseltme şeması
+Doz Hafta
+0,6 mg 1
+Doz yükseltme 1,2 mg 1
+4 hafta 1,8 mg 1
+2,4 mg 1
+İdame dozu 3,0 mg
+Unutulan dozlar
+Eğer doz atlanmışsa ve normalde alınan saati takip eden 12 saatlik zaman dilimi içinde
+bulunuluyorsa, hasta, mümkün olan en kısa sürede dozu almalıdır. Eğer bir sonraki doza 12
+saatten daha az bir süre kalmışsa, hasta atlanan dozu almamalıdır ve bir sonraki planlı dozu ile
+günde bir kez rejime devam etmelidir. Atlanan bir dozu telafi etmek için ekstra bir doz ya da
+daha yüksek bir doz alınmamalıdır.
+Tip 2 diyabetli hastalar
+SAXENDA® , başka bir GLP-1 reseptör agonisti ile kombinasyon halinde kullanılmamalıdır.
+SAXENDA®’ya başlanırken, hipoglisemi riskini azaltmak için, eşzamanlı uygulanan insülin
+ya da insülin salgılatıcı ilaçların (sülfonilüreler gibi) dozunun azaltılması düşünülmelidir.
+İnsülin veya insülin sekretagoglarının dozunu ayarlamak için hastanın kendi kendine kan
+glukoz ölçümleri yapması gerekir (bkz. Bölüm 4.4).
+Uygulama şekli:
+SAXENDA® sadece subkutan uygulama içindir. İntravenöz veya intramusküler yolla
+kesinlikle uygulanmamalıdır.
+SAXENDA® günde bir kez herhangi bir saatte, yemeklerden bağımsız olarak uygulanır. Karın
+bölgesine, uyluk bölgesine ya da üst kola enjekte edilmelidir. Doz ayarlaması gerekmeksizin
+enjeksiyon yer ve uygulama zamanında değişiklik yapılabilir. Ancak, günün en elverişli saati
+seçildikten sonra, SAXENDA®’nın her gün yaklaşık olarak aynı saatte uygulanması tercih
+edilir.
+Uygulamaya ilişkin daha fazla talimat için bkz. Bölüm 6.6.
+Özel popülasyonlara ilişkin ek bilgiler:
+Böbrek yetmezliği:
+2Hafif ila orta dereceli böbrek yetmezliği (kreatinin klirensi ≥30 mL/dk) olan hastalarda
+herhangi bir doz ayarlaması gerekmez. SAXENDA®, son dönem böbrek hastalığı dahil
+şiddetli böbrek yetmezliği (kreatinin klirensi <30 mL/dk) olan hastalarda önerilmez (bkz.
+bölüm 4.4, 4.8 ve 5.2).
+Karaciğer yetmezliği:
+Hafif ila orta dereceli karaciğer yetmezliği olan hastalarda herhangi bir doz ayarlaması
+gerekmez. SAXENDA®, şiddetli karaciğer yetmezliği olan hastalarda önerilmez ve hafif ila
+orta dereceli karaciğer yetmezliği olan hastalarda dikkatli kullanılmalıdır (bkz. Bölüm 4.4 ve
+5.2).
+Pediatrik popülasyon:
+SAXENDA®’nın çocuklar ve 18 yaşın altındaki adölesanlardaki güvenliliği ve etkililiği
+ortaya konmamıştır (bkz. Bölüm 5.1). Veri bulunmamaktadır. Bu tıbbi ürünün pediatrik
+hastalarda kullanımı önerilmez.
+Geriyatrik popülasyon: (≥65 yaş)
+Yaşa dayalı bir doz ayarlaması gerekmemektedir. ≥75 yaş hastalarda terapötik deneyim
+sınırlıdır ve bu hastalarda kullanım önerilmez (bkz. Bölüm 4.4 ve 5.2).
+4.3. Kontrendikasyonlar
+Liraglutide ya da Bölüm 6.1’de listelenen yardımcı maddelerin herhangi birine karşı aşırı
+duyarlılık.
+Kendisinde veya aile öyküsünde medüler tiroid karsinomu olan hastalarda veya çoklu
+endokrin neoplazma sendromu tip 2 olan hastalarda kontrendikedir.
+4.4. Özel kullanım uyarıları ve önlemleri
+Kalp yetmezliği bulunan hastalar
+NYKD (New York Kalp Derneği) sınıf IV olarak değerlendirilen konjestif kalp
+yetmezliği hastalarında klinik deneyim bulunmamaktadır, bu nedenle bu hastalarda
+liraglutidin kullanımı önerilmemektedir.
+Özel popülasyonlar
+Aşağıdaki hastalarda liraglutidin vücut ağırlığı yönetimindeki güvenliliği ve etkililiği
+gösterilmemiştir:
+– 75 yaş ve üzeri hastalar,
+– Vücut ağırlığı yönetimi için başka ürünlerle tedavi edilen hastalar,
+– Endokrinolojik veya yeme bozukluklarına veya kilo artışına neden olabilecek tıbbi
+ürünlerle tedaviye sekonder obezitesi olan hastalar,
+– Şiddetli böbrek yetmezliği olan hastalar,
+– Şiddetli karaciğer yetmezliği olan hastalar.
+Bu hastalarda kullanılması önerilmez (bkz. Bölüm 4.2).
+3Hafif ve orta dereceli karaciğer yetmezliği olan hastalarda liraglutid, vücut ağırlığı yönetimi
+açısından araştırılmamış olduğundan bu hastalarda dikkatli kullanılmalıdır (bkz. Bölüm 4.2 ve
+5.2).
+Enflamatuvar bağırsak hastalığı ve diyabetik gastroparezisi olan hastalarda sınırlı deneyim
+bulunmaktadır. Bulantı, kusma ve ishal gibi geçici gastrointestinal advers reaksiyonlarla
+ilişkilendirildiğinden bu hastalarda liraglutid kullanımı önerilmez.
+Pankreatit
+Akut pankreatit, GLP-1 reseptör agonistleri kullanımıyla gözlenmiştir. Hastalar akut
+pankreatitin karakteristik semptomları hakkında bilgilendirilmelidirler. Pankreatitten
+şüpheleniliyorsa, liraglutid tedavisi kesilmelidir; eğer akut pankreatit teyit edilirse, liraglutide
+tekrar başlanmamalıdır.
+Kolelitiazis ve kolesistit
+Vücut ağırlığı yönetimine yönelik klinik çalışmalarda, plasebo ile karşılaştırıldığında
+liraglutid ile tedavi edilen hastalarda daha yüksek bir kolelitiazis ve kolesistit oranı
+gözlenmiştir. Yüksek miktarda kilo kaybının kolelitiazis riskini ve dolayısıyla kolesistit
+riskini artırabilmesi, liraglutid ile daha sık görülen bu durumu sadece kısmen
+açıklayabilmektedir. Kolelitiazis ve kolesistit, hastaneye yatış ve kolesistektomi gerektirebilir.
+Hastalar, kolelitiazis ve kolesistitin karakteristik semptomları hakkında bilgilendirilmelidir.
+Tiroid hastalığı
+Tip 2 diyabete yönelik klinik çalışmalarda, özellikle önceden tiroid hastalığı geçirmiş
+hastalarda, guatr gibi tiroid ile ilgili advers olaylar rapor edilmiştir. Liraglutid bu nedenle
+tiroid hastalığı olan kişilerde dikkatli kullanılmalıdır.
+Kalp atım hızı
+Klinik çalışmalarda liraglutid ile kalp atım hızında bir artış gözlenmiştir (bkz. Bölüm 5.1).
+Kalp atım hızı, standart klinik uygulama doğrultusunda düzenli aralıklarla izlenmelidir.
+Hastalar, artmış kalp atım hızının semptomları (çarpıntılar veya istirahat halinde kalbin hızlı
+attığı hissi) hakkında bilgilendirilmelidir. İstirahat halinde kalp atım hızında klinik olarak
+anlamlı ve uzamış bir artış deneyimleyen hastalarda liraglutid ile tedavi kesilmelidir.
+Dehidratasyon
+GLP-1 reseptör agonistleri ile tedavi edilen hastalarda dehidratasyonun renal bozukluk ve
+akut böbrek yetmezliğini de içeren bulgu ve belirtileri bildirilmiştir. Liraglutid ile tedavi
+edilen hastalar, gastrointestinal yan etkiler ile ilişkili potansiyel dehidratasyon riskine karşı
+uyarılmalı ve sıvı kaybına karşı önlem almaları önerilmelidir.
+Tip 2 diyabet hastalarında hipoglisemi
+İnsülin ve/veya sülfonilüre grubu bir ilaç ile kombinasyon halinde liraglutid kullanan tip 2
+diyabetli hastalar daha yüksek hipoglisemi riski altında olabilir. Hipoglisemi riski insülin
+ve/veya sülfonilüre dozunun düşürülmesiyle azaltılabilir.
+Tip 2 diyabet hastalarında hiperglisemi
+4SAXENDA® diyabet hastalarında insülin yerine kullanılmamalıdır. İnsülin kullanan
+hastalarda, insülinin birden kesilmesi veya dozunun azaltılmasından sonra diyabetik
+ketoasidoz bildirilmiştir (bkz. Bölüm 4.2).
+Takip edilebilirlik
+Biyoteknolojik ürünlerin takip edilebilirliğinin sağlanması için uygulanan ürünün ticari ismi
+ve seri numarası mutlaka hasta dosyasına kaydedilmelidir.
+Bu tıbbi ürün her “doz”unda 1 mmol (23 mg)’dan az sodyum ihtiva eder; yani aslında
+“sodyum içermez”.
+4.5. Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+In vitro koşullarda liraglutidin sitokrom P450 ve plazma proteinlerine bağlanma ile ilişkili
+farmakokinetik etkileşimlerde yer alma potansiyelinin çok düşük olduğu gösterilmiştir.
+Liraglutid ile gastrik boşalmadaki küçük gecikme, eşzamanlı olarak oral uygulanan tıbbi
+ürünlerin emilimini etkileyebilmektedir. Etkileşim çalışmaları emilimde klinik olarak
+anlamlı bir gecikme göstermemiştir ve dolayısıyla herhangi bir doz ayarlaması
+gerekmemektedir.
+Etkileşim çalışmaları 1,8 mg liraglutid ile yürütülmüştür. Gastrik boşalma hızı üzerindeki
+etki, liraglutid 1,8 mg ile 3,0 mg (parasetamol EAA ) arasında eşit olmuştur.
+0-300 dakika
+Liraglutid ile tedavi edilen az sayıda hasta en az bir şiddetli ishal epizodu bildirmiştir. İshal,
+eşzamanlı alınan oral tıbbi ürünlerin emilimini etkileyebilir.
+Varfarin ve diğer kumarin türevleri
+Herhangi bir etkileşim çalışması yapılmamıştır. Varfarin gibi çözünürlüğü zayıf veya
+terapötik indeksi dar olan etkin maddeler ile klinik olarak anlamlı etkileşimler dışlanamaz.
+Varfarin veya başka kumarin türevlerini kullanan hastalarda liraglutid tedavisine
+başlandığında daha sık INR (uluslararası normalize edilmiş oran) takibi önerilmektedir.
+Parasetamol (Asetaminofen)
+1000 mg tek dozu takiben liraglutid, toplam parasetamol maruziyetini değiştirmemiştir.
+Parasetamol C değeri %31 azalmış ve medyan t 15 dakikaya kadar gecikmiştir. Eş
+maks maks
+zamanlı parasetamol uygulamasında doz ayarlaması gerekmemektedir.
+Atorvastatin
+40 mg tek doz atorvastatin uygulamasını takiben liraglutid, toplam atorvastatin maruziyetini
+değiştirmemiştir. Bu nedenle, liraglutid ile birlikte verildiğinde, atorvastatin için doz
+ayarlaması gerekmemektedir. Liraglutid ile atorvastatin C %38 azalmış ve medyan t 1
+maks maks
+ila 3 saate kadar gecikmiştir.
+Griseofulvin
+Liraglutid, 500 mg tek doz griseofulvin uygulamasını takiben toplam griseofulvin
+maruziyetini değiştirmemiştir. Griseofulvin C değeri %37 artarken, medyan t
+maks maks
+değişmemiştir. Griseofulvin ile düşük çözünürlük ve yüksek geçirgenliğe sahip diğer
+bileşiklerin dozunun ayarlanması gerekmemektedir.
+5Digoksin
+Tek bir doz 1 mg digoksinin liraglutid ile birlikte uygulanması, digoksinin EAA’sında %16
+azalma göstermiştir; C %31 azalmıştır. Digoksinin medyan t ’ı 1 ila 1,5 saat
+maks maks
+gecikmiştir. Bu sonuçlara göre digoksin dozunda herhangi bir ayarlamaya gerek yoktur.
+Lisinopril
+Tek bir doz 20 mg lisinoprilin liraglutid ile birlikte uygulanması, lisinoprilin EAA’sında %15
+azalma göstermiştir. C %27 azalmıştır. Lisinopril medyan t ’ı liraglutid ile 6 ila 8 saat
+maks maks
+gecikmiştir. Bu sonuçlara göre lisinopril dozunda herhangi bir ayarlamaya gerek yoktur.
+Oral kontraseptifler
+Liraglutid, oral kontraseptif bir ürünün tek doz uygulanmasını takiben etinilestradiol ve
+levonorgestrel C değerlerini sırasıyla %12 ve %13 azaltmıştır. t , liraglutid ile her iki
+maks maks
+bileşik için 1,5 saat kadar gecikmiştir. Etinilestradiol veya levonorgestrelin her birine toplam
+maruziyet üzerinde klinik olarak anlamlı etki olmamıştır. Bu nedenle, liraglutid ile beraber
+uygulandığında, kontraseptif etkide değişiklik olmaması beklenmektedir.
+Özel popülasyonlara ilişkin ek bilgiler
+Özel popülasyonlarda etkileşim çalışması mevcut değildir.
+Pediyatrik Popülasyon:
+Pediyatrik hastalarda etkileşim çalışması mevcut değildir.
+4.6. Gebelik ve laktasyon
+Genel tavsiye
+Gebelik kategorisi X’tir.
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon)
+Etinilestradiol veya levonorgestrelin her birine toplam maruziyet üzerinde klinik olarak
+anlamlı etki olmamıştır. Bu nedenle, liraglutid ile beraber uygulandığında, kontraseptif etkide
+değişiklik olmaması beklenmektedir.
+Çocuk doğurma potansiyeli olan kadınlara SAXENDA® kullanımı sırasında gebeliği önlemek
+için etkili kontrasepsiyon kullanmaları tavsiye edilir.
+Gebelik dönemi
+Liraglutidin gebe kadınlarda kullanıma ilişkin sınırlı veri mevcuttur. Hayvanlarda yapılan
+çalışmalarda üreme toksisitesi gösterilmiştir (bkz. Bölüm 5.3). İnsanlara yönelik potansiyel
+risk bilinmemektedir.
+Liraglutid gebelik döneminde kullanılmamalıdır. Eğer hasta gebe kalmak istiyorsa veya
+tedavi sırasında gebelik oluşursa, liraglutid tedavisi kesilmelidir.
+Laktasyon dönemi
+Liraglutidin anne sütüne geçip geçmediği bilinmemektedir. Hayvan çalışmaları liraglutid ve
+yakın yapısal benzerlikteki metabolitlerinin süte geçişlerinin düşük olduğunu göstermiştir.
+Klinik dışı çalışmalar, emzirme dönemindeki sıçan yavrularının neonatal gelişiminde
+6tedaviyle ilişkili azalma göstermiştir (bkz. Bölüm 5.3). Deneyim eksikliği nedeniyle;
+SAXENDA® emzirme döneminde kullanılmamalıdır.
+Üreme yeteneği/Fertilite
+Canlı implant sayısında hafif azalma dışında, hayvan çalışmaları fertiliteyle ilgili zararlı
+etkiler göstermemiştir (bkz. bölüm 5.3).
+4.7. Araç ve makine kullanımı üzerindeki etkiler
+SAXENDA®’nın araç ve makine kullanımı üzerinde etkisi yoktur veya göz ardı edilebilir
+etkiye sahiptir. Bununla birlikte, baş dönmesi SAXENDA® ile tedavinin daha çok ilk 3 ayında
+görülebilir. Baş dönmesi meydana gelirse araç veya makine kullanımında dikkatli
+olunmalıdır.
+4.8. İstenmeyen etkiler
+Güvenlilik profilinin özeti:
+SAXENDA® , güvenlilik kapsamında 5.813 obez veya kilo ile ilişkili en az bir komorbiditesi
+olan fazla kilolu hastanın kaydedildiği 5 çift-kör, plasebo kontrollü çalışmada incelenmiştir.
+Genel olarak, SAXENDA ile tedavi sırasında gastrointestinal reaksiyonlar en sık bildirilen
+advers reaksiyonlar olmuştur (% 67,9) (bkz. Bölüm ‘Seçili advers reaksiyonların listesi’).
+Advers reaksiyonların tablo halinde listesi
+Tablo 2’de yetişkinlerde yapılan uzun süreli faz 2 ve faz 3 kontrollü çalışmalarda ve
+pazarlama sonrası raporlarda bildirilen advers reaksiyonlar listelenmektedir. Advers
+reaksiyonlar sistem organ sınıfına ve sıklığa göre sıralanmaktadır. Advers reaksiyonların
+sıklığı faz 2 ve faz 3 klinik çalışma havuzuna dayanmaktadır. Sıklıklar şu şekilde
+tanımlanmaktadır: Çok yaygın (≥1/10); yaygın (≥1/100 ila <1/10); yaygın olmayan (≥1/1.000
+ila <1/100); seyrek (≥1/10.000 ila <1/1.000); çok seyrek (<1/10.000), bilinmiyor (eldeki
+verilerden hareketle tahmin edilemiyor). Her bir sıklık gruplamasında, istenmeyen etkiler,
+azalan ciddiyet sırasına göre sunulmaktadır.
+Tablo 2 Bildirilen advers reaksiyonlar
+MedDRA sistem Çok yaygın Yaygın Yaygın olmayan Seyrek
+organ sınıfları
+Bağışıklık sistemi Anafilaktik
+hastalıkları reaksiyonlar
+Metabolizma ve Hipoglisemi* Dehidratasyon
+beslenme
+hastalıkları
+Psikiyatrik İnsomnia**
+hastalıklar
+Sinir sistemi Baş ağrısı Sersemlik
+hastalıkları Disguzi
+Kardiyak Taşikardi
+hastalıklar
+Gastrointestinal Bulantı Ağız kuruluğu Pankreatit***
+hastalıklar Kusma Dispepsi Gecikmiş gastrik
+7İshal Gastrit boşalma****
+Kabızlık Gastroözofagal
+reflü hastalığı
+Üst karın ağrısı
+Flatulans
+Erüktasyon
+Abdominal
+distansiyon
+Hepatobiliyer Kolelitiazis*** Kolesistit***
+hastalıklar
+Deri ve deri altı Ürtiker
+doku hastalıkları
+Böbrek ve idrar Akut böbrek
+yolu hastalıkları yetmezliği
+Renal
+bozukluk
+Genel Enjeksiyon yeri Halsizlik
+bozukluklar ve reaksiyonları
+uygulama Asteni
+bölgesine ilişkin Yorgunluk
+hastalıklar
+Lipaz düzeyinde
+Araştırmalar artış
+Amilaz düzeyinde
+artış
+* Diyet ve egzersiz ile kombinasyon halinde SAXENDA® ile tedavi edilen, tip 2 diyabeti
+olmayan hastalarda bildirilen hipoglisemi (hastaların kendi bildirdiği ve kan glukoz ölçümleri
+ile doğrulanmamış semptomlara dayalı). Daha fazla bilgi için bkz. bölüm ‘Seçili advers
+reaksiyonların listesi’.
+**İnsomnia ağırlıklı olarak tedavinin ilk 3 ayında görülmüştür.
+***Bkz. Bölüm 4.4.
+**** Kontrollü faz 2, 3a ve 3b klinik çalışma sonuçlarına göre
+Seçili advers reaksiyonların listesi:
+Tip 2 diyabeti olmayan hastalarda hipoglisemi
+Diyet ve egzersiz ile kombinasyon halinde SAXENDA® ile tedavi edilen tip 2 diyabeti
+olmayan aşırı kilolu veya obez hastalarla yürütülen klinik çalışmalarda hiç şiddetli
+hipoglisemik olay (üçüncü şahıstan yardım gerektiren) bildirilmemiştir. Hipoglisemik olay
+semptomları, SAXENDA® ile tedavi edilen hastaların %1,6’sı ve plasebo uygulanan
+hastaların %1,1’i tarafından bildirilmiştir; ancak bu olaylar kan glukoz ölçümleri ile
+doğrulanmamıştır. Olayların büyük çoğunluğu hafif olmuştur.
+Tip 2 diyabeti olan hastalarda hipoglisemi
+Diyet ve egzersiz ile kombinasyon halinde SAXENDA® ile tedavi edilen tip 2 diyabetli aşırı
+kilolu veya obez hastalarla yürütülen klinik çalışmalarda şiddetli hipoglisemi(üçüncü şahıstan
+yardım gerektiren), SAXENDA® ile tedavi edilen hastaların %0,7’si tarafından ve sadece
+sülfonilüre ile eşzamanlı tedavi edilen hastalarda bildirilmiştir. Ayrıca, bu hastalarda
+kaydedilmiş semptomatik hipoglisemi, SAXENDA® ile tedavi edilen hastaların %43,6’sı ve
+8plasebo ile tedavi edilen hastaların %27,3’ü tarafından bildirilmiştir. Sülfonilüre ile eşzamanlı
+tedavi görmeyen hastalardan, SAXENDA® ile tedavi edilen hastaların %15,7’si ve plasebo ile
+tedavi edilen hastaların %7,6’sı tarafından kaydedilmiş semptomatik hipoglisemi
+(semptomların eşlik ettiği ≤3,9 mmol/L plazma glukozu olarak tanımlı) bildirilmiştir.
+İnsülin ile tedavi edilen tip 2 diyabeti olan hastalarda hipoglisemi
+Diyet ve egzersiz ile birlikte insülin ve liraglutid 3,0 mg/gün ve 2 OAD'ye kadar tedavi edilen
+tip 2 diyabetli aşırı kilolu veya obez hastalarda yürütülen bir klinik çalışmada, ciddi
+hipoglisemi (üçüncü taraf yardımı gerektiren) vakaları liraglutid 3,0 mg/gün ile tedavi edilen
+hastaların % 1,5’inde bildirilmiştir. Bu çalışmada, belgelenmiş semptomatik hipoglisemi
+vakaları (semptomlar eşliğinde plazma glukozu ≤3,9 mmol/L olarak tanımlanan) liraglutid 3,0
+gün/gün ile tedavi edilen hastaların % 47,2'sinde ve plasebo ile tedavi edilen hastaların %
+51,8'inde rapor edilmiştir. Eşzamanlı olarak sülfonilüre ile tedavi edilen hastalar arasında,
+liraglutid 3,0 mg/gün ile tedavi edilen hastaların % 60,9'unda ve plasebo ile tedavi edilen
+hastaların % 60,0'ında belgelenmiş semptomatik hipoglisemik olaylar olduğu rapor edilmiştir.
+Gastrointestinal advers reaksiyonlar
+Gastrointestinal olayların çoğu epizodu hafif ila orta şiddette, geçici olmuş ve büyük
+çoğunluğunda tedavinin kesilmesi gerekmemiştir. Reaksiyonlar genellikle tedavinin ilk
+haftasında ortaya çıkmış ve tedavi devam ettikçe birkaç gün veya hafta içinde kaybolmuştur.
+≥65 yaşın üzerindeki hastalar SAXENDA® ile tedavi edildiklerinde daha fazla gastrointestinal
+etki yaşayabilir.
+Hafif ila orta dereceli böbrek yetmezliği (kreatinin klirensi ≥30 mL/dk) olan hastalar
+SAXENDA® ile tedavi edildiklerinde daha fazla gastrointestinal etki deneyimleyebilir.
+Akut böbrek yetmezliği
+GLP-1 reseptör agonistleri ile tedavi edilen hastalarda akut böbrek yetmezliği bildirimleri
+olmuştur. Bildirilen olayların büyük çoğunluğu önceden, hacim kaybına neden olan bulantı,
+kusma ve ishal yaşamış hastalarda görülmüştür (bkz. Bölüm 4.4).
+Alerjik reaksiyonlar
+Liraglutidin ticari kullanımı ile hipotansiyon, taşikardi, dispne ve ödem gibi semptomların
+eşlik ettiği az sayıda anafilaktik reaksiyon olgusu bildirilmiştir. Anafilaktik reaksiyonlar
+potansiyel olarak yaşamı tehdit edici olabilir. Eğer anafilaktik reaksiyondan şüpheleniyorsa,
+liraglutid kesilmelidir ve tedaviye yeniden başlanmamalıdır (bkz. Bölüm 4.3).
+Enjeksiyon yeri reaksiyonları
+SAXENDA® ile tedavi edilen hastalarda enjeksiyon yeri reaksiyonları bildirilmiştir. Bu
+reaksiyonlar genellikle hafif ve geçicidir ve büyük çoğunluğu devam eden tedavi sırasında
+kaybolmuştur.
+Taşikardi
+Klinik çalışmalarda taşikardi, SAXENDA® ile tedavi edilen hastaların %0,6’sında ve plasebo
+uygulanan hastaların %0,1’inde bildirilmiştir. Olayların büyük kısmı hafif ila orta dereceli
+olmuştur. Olaylar izoledir ve büyük çoğunluğu SAXENDA® ile devam eden tedavi sırasında
+düzelmiştir.
+9Pediatrik Popülasyon
+SAXENDA® pediyatrik hastaların kullanımında önerilmemektedir. Gastrointestinal
+rahatsızlıklar bugüne kadar tamamlanan iki doz yükseltme çalışmasında en sık bildirilen
+advers olaylardır.
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar / risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir. (www.titck.gov.tr; e-
+posta: tufam@titck.gov.tr; tel: 0 800 314 00 08; faks: 0 312 218 35 99)
+4.9. Doz aşımı ve tedavisi
+Liraglutidin klinik çalışmalar ve ticari kullanımında 72 mg’a (vücut ağırlığı yönetiminde
+önerilen dozun 24 katı) ulaşan doz aşımları bildirilmiştir. Bildirilen olaylar şiddetli bulantı,
+şiddetli kusma ve şiddetli hipoglisemiyi içermektedir.
+Doz aşımı durumunda, hastanın klinik belirti ve semptomlarına göre gerekli destekleyici
+tedavi başlatılmalıdır. Hasta, dehidratasyonun klinik belirtileri açısından gözlemlenmelidir ve
+kan glukozu izlenmelidir.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1. Farmakodinamik özellikler
+Farmakoterapötik grup: Diyabette kullanılan ilaçlar, Glukagon benzeri peptid-1 (GLP-1)
+analogları
+ATC kodu: A10BJ02
+Etki mekanizması
+Liraglutid, endojen insan GLP-1’inin aminoasit dizilişine %97 homoloji gösteren, açillenmiş
+bir glukagon benzeri peptid-1 (GLP-1) analoğudur. Liraglutid, GLP-1 reseptörüne (GLP-1R)
+bağlanır ve aktive eder.
+GLP-1, iştah ve besin alımının bir fizyolojik regülatörüdür; fakat etki mekanizması bütünüyle
+net değildir. Hayvan çalışmalarında, liraglutidin periferik uygulaması, iştah regülasyonunda
+rolü olan spesifik beyin bölgelerinde, liraglutidin spesifik GLP-1R aktivasyonu yoluyla
+spesifik tokluk sinyallerini artırdığı ve spesifik açlık sinyallerini azalttığı, böylelikle daha
+düşük vücut ağırlığına yol açtığı gözlenmiştir.
+GLP-1 reseptörleri, kalp, damarlar, bağışıklık sistemi ve böbreklerdeki spesifik lokasyonlarda
+konumlanmaktadır. Aterosklerotik fare modellerinde liraglutid, aortik plak progresyonunu
+önlemiştir ve plaktaki enflamasyonu azaltmıştır. Ayrıca liraglutidin, plazma lipidleri üzerine
+de faydalı etkisi olmuştur. Liraglutid, halihazırda yerleşmiş plakların boyutunu azaltmamıştır.
+Farmakodinamik etkiler
+10Liraglutid insanda vücut ağırlığını; temelde viseral yağdaki kayıpların subkutan yağ
+kaybından daha büyük olduğu yağ kütlesi kaybı yoluyla düşürür. Liraglutid, doygunluk ve
+tokluk duygularını artırarak, aynı zamanda da açlık ve ileriye dönük gıda tüketim beklentisi
+hissini azaltarak ve bu şekilde besin alımında azalmaya yol açarak iştahı düzenler. Liraglutid,
+plasebo ile karşılaştırıldığında enerji tüketimini artırmaz.
+Liraglutid glukoza bağımlı bir şekilde insülin salgısını uyarır ve glukagon salgısını azaltır,
+bunun neticesinde açlık ve tokluk glukoz düzeyi düşer. Glukoz düşürücü etki, pre-diyabet ve
+diyabet hastalarında, normoglisemili hastalara kıyasla daha belirgindir. Klinik çalışmalar,
+liraglutidin HOMA-B’ye göre beta hücresi fonksiyonunu ve pro-insülin/insülin oranını
+iyileştirdiğini ve koruduğunu öne sürmektedir.
+Klinik etkililik ve güvenlilik
+Vücut ağırlığı yönetiminde azalmış kalori alımı ve artmış fiziksel aktivite ile bir arada
+liraglutidin etkililiği ve güvenliliği, toplam 5.358 hastayı içeren dört adet faz 3 randomize, çift
+kör, plasebo kontrollü çalışmada incelenmiştir.
+• Çalışma 1 (SCALE Obezite & Pre-Diyabet - 1839):
+Obeziteli (BMI ≥30 kg/m²), ya da dislipidemi ve/veya hipertansiyon ile birlikte aşırı
+kilolu (BMI ≥27 kg/m²) 3.731 hasta, başlangıçtaki BMI (≥30 kg/m² or <30 kg/m²) ve
+taramadaki pre-diyabet durumuna göre belirlenmiştir. 3.731 hastanın tümü tedavinin 56.
+haftasında randomize edilmiştir ve taramadaki pre-diyabetik 2.254 hasta tedavinin 160.
+haftasında randomize edilmiştir. Her iki tedavi periyodu, 12 haftalık ilaçsız/plasebo
+gözlemsel takip süreci ile takip edilmiştir. Enerji kısıtlı diyet ve egzersiz
+danışmanlığının yaşam tarzına etkisi tüm hastalar için tedavinin arka planını
+oluşturmuştur. Çalışma 1’in 56 haftalık bölümü, 3.731 randomize hastanın tümünde
+(tamamlayan 2.590 ) vücut ağırlığı kaybını değerlendirmiştir. Çalışma 1’in 160 haftalık
+bölümü, pre-diyabetli 2.254 randomize hastada (tamamlayan 1.128) tip 2 diyabet
+başlama zamanını değerlendirmiştir.
+• Çalışma 2 (SCALE Diyabet - 1922): Yeterli düzeyde kontrol edilmemiş tip 2 diyabetli
+(HbA aralık %7-10) 846 randomize (628’i tamamlamıştır) obez ve aşırı kilolu hastada
+1c
+kilo kaybının değerlendirildiği 56 haftalık çalışma. Çalışma başlangıcındaki mevcut
+tedavi ya yalnızca diyet ve egzersiz, tek ajanlar olarak metformin, bir sülfonilüre, bir
+glitazon ya da bunların herhangi bir kombinasyonudur.
+• Çalışma 3 (SCALE Uyku Apnesi- 3970): Orta veya şiddetli obstrüktif uyku apnesi
+olan 359 randomize (276’sı tamamlamıştır) obez hastada uyku apnesi şiddeti ve kilo
+kaybının değerlendirildiği 32 haftalık bir çalışma.
+• Çalışma 4 (SCALE İdame - 1923): 422 randomize (305’i tamamlamıştır) obez ve
+hipertansiyonu veya dislipidemisi olan aşırı kilolu hastada düşük kalori diyeti ile
+sağlanan önceki ≥%5 kilo kaybından sonra, kilo idamesinin ve kilo kaybının
+değerlendirildiği 56 haftalık çalışma.
+Vücut ağırlığı
+Çalışılan tüm gruplarda obez/aşırı kilolu hastalarda plasebo ile karşılaştırıldığında liraglutid
+ile daha üstün kilo kaybı elde edilmiştir. Tüm çalışma popülasyonlarında, plaseboya kıyasla
+liraglutid ile daha yüksek bir oranda hasta ≥ %5 ve >%10 kilo kaybı elde etmiştir (Tablo 3-5).
+Çalışma 1’in 160. haftalık kısmında kilo kaybı esasen ilk yılda meydana gelmiştir ve 160
+11hafta boyunca sürdürülmüştür. Çalışma 4’te, plasebo ile karşılaştırıldığında liraglutid ile daha
+fazla hasta tedavi başlangıcı öncesindeki kilo kaybını korumuştur (sırasıyla %48,9 ve %81,4).
+Çalışmalar 1-4 için kilo kaybı, yanıt veren hastalar, süre ve kilo değişikliğinin kümülatif
+dağılımı (%) ile ilgili spesifik veriler Tablo 3-7 ve Şekil 1, 2, ve 3’te gösterilmektedir.
+Liraglutid (3,0 mg) tedavisi ile 12 hafta sonra kilo kaybı yanıtı
+Erken dönemde yanıt veren hastalar, liraglutidin tedavi dozunda kalınan 12 hafta sonunda
+(doz yükseltme fazında 4 hafta ve tedavi dozunda 12 hafta) ≥%5 kilo kaybına ulaşan hastalar
+olarak tanımlanmıştır. Çalışma 1’in 56 haftalık bölümünde, hastaların %67,5’i 12 hafta
+sonrasında ≥%5 kilo kaybına ulaşmıştır. Çalışma 2’de, hastaların %50,4’ü 12 hafta sonra ≥%5
+kilo kaybı elde etmiştir. Liraglutid ile tedaviye devam edilen, 1 yıllık tedavi sonrası erken
+dönemde yanıt veren bu hastaların %86,2’sinin ≥%5 kilo kaybına ve %51’inin ≥%10 kilo
+kaybına ulaşacağı öngörülmektedir. 1 yıllık tedaviyi tamamlayan erken dönemde yanıt veren
+hastalarda öngörülen ortalama kilo kaybı, başlangıçtaki vücut ağırlıklarının %11,2’sidir
+(erkekler için 9,7 ve kadınlar için %11,6). Liraglutidin tedavi dozunda kalınan 12 hafta
+sonunda <%5 kilo kaybına ulaşan hastalar arasında, 1 yıl sonra ≥%10 kilo kaybı elde etmeyen
+hastaların oranı %93,4’tür.
+Glisemik kontrol
+Liraglutid ile tedavi, normoglisemi, pre-diyabet ve tip 2 diyabetli alt popülasyonlarda
+glisemik parametrelerde anlamlı ölçüde düzelme sağlamıştır. Çalışma 1’in 56 haftalık
+bölümünde, plasebo ile karşılaştırıldığında liraglutid ile tedavi edilen daha az sayıda hastada
+tip 2 diyabet gelişmiştir (%1,1 karşısında %0,2). Plasebo ile karşılaştırıldığında, başlangıçta
+pre-diyabeti olan daha fazla hastada pre-diyabet tersine döndürülmüştür (%69,2 karşısında
+%32,7). Çalışma 1’in 160 haftalık bölümünde primer etkinlik sonlanım noktası, tip 2
+diyabetes mellitus gelişen hastaların oranıdır ki burada tip 2 diyabetes mellitus başlangıcına
+kadar geçen süre değerlendirilmiştir. 160. haftada, tedavi süresince, SAXENDA® tedavisi
+alan hastaların %3’ü ve plasebo tedavisi alanların %11’i tip 2 diyabetes mellitus tanısı
+almıştır. 3,0 mg liraglutid ile tedavi edilen hastalar için tip 2 diyabetes mellitusun tahmini
+başlama zamanı 2,7 kat daha uzun olmuştur (% 95 güven aralığı [1,9- 3,9] ve pleaseboya karşı
+liraglutid için tip 2 diyabetes mellitus gelişme riski oranı 0,2’dir.
+Kardiyometabolik risk faktörleri
+Liraglutid ile tedavi sistolik kan basıncında ve bel çevresinde, plaseboya kıyasla anlamlı
+derecede düzelme sağlamıştır (Tablo 3, 4 ve 5).
+Apne-Hipopne İndeksi (AHI)
+Plasebo ile karşılaştırıldığında liraglutid ile tedavi, obstrüktif uyku apnesinin AHI’de
+başlangıçtaki değerden değişme ile değerlendirilen şiddetini anlamlı ölçüde azaltmıştır (Tablo
+6).
+Tablo 3 Çalışma 1: 56 haftada vücut ağırlığı, glisemi ve kardiyometabolik
+parametrelerde başlangıca göre değişiklik
+12SAXENDA Plasebo (N=1225) SAXENDA vs.
+(N=2437) plasebo
+Vücut ağırlığı
+Başlangıç, kg (SS) 106,3 (21,2) 106,3 (21,7) -
+56 haftada ortalama değişiklik, % -8,0 -2,6 -5,4** (-5,8;
+(%95 GA) -5,0)
+56 haftada ortalama değişiklik, kg -8,4 -2,8 -5,6** (-6,0;
+(%95 GA) -5,1)
+56 haftada ≥%5 kilo veren
+63,5 26,6 4,8** (4,1; 5,6)
+hastaların oranı, % (%95 GA)
+56 haftada >%10 kilo veren
+32,8 10,1 4,3** (3,5; 5,3)
+hastaların oranı, % (%95 GA)
+Glisemi ve kardiyometabolik Başlangıç Değişiklik Başlangıç Değişiklik
+faktörler
+HbA1c, % 5,6 -0,3 5,6 -0,1 -0,23** (-0,25;
+-0,21)
+FPG, mmol/L 5,3 -0,4 5,3 -0,01 -0,38** (-0,42;
+-0,35)
+Sistolik kan basıncı, mmHg 123,0 -4,3 123,3 -1,5 -2,8** (-3,6;
+-2,1)
+Diyastolik kan basıncı, mmHg 78,7 -2,7 78,9 -1,8 -0,9*
+(-1,4; -0,4)
+Bel çevresi, cm 115,0 -8,2 114,5 -4,0 -4,2** (-4,7;
+-3,7)
+Tam Analiz Seti. Vücut ağırlığı için, HbA , FPG, kan basıncı ve bel çevresi, başlangıç
+1c
+değerleri ortalamalardır, hafta 56’da başlangıca göre değişiklikler, öngörülen ortalamalardır
+(en düşük kareler) ve hafta 56’daki tedavi kontrastları öngörülen tedavi farklarıdır. Vücut
+ağırlığının ≥%5/>%10’unu kaybeden hastaların oranları için öngörülen olasılık oranları
+verilmektedir. Kayıp başlangıç sonrası değerleri, ileri taşınan en son gözlem kullanılarak
+girilmiştir. * p<0,05.** p<0,0001 GA= güven aralığı. FPG=açlık plazma glukozu. SS=
+standart sapma.
+Tablo 4 Çalışma 1: 160. haftada vücut ağırlığı, glisemi ve kardiyometabolik
+parametrelerde başlangıca göre değişiklik,
+Saxenda (N=1472) Plasebo (N=738) Plasebo karşı
+Saxenda
+Vücut ağırlığı
+B aşlangıç, kg (SS) 107,6 (21,6) 108,0 (21,8)
+160. haftada ortalama değişim, % (95% -6,2 -1,8 - 4,3** (-4,9; -3,7)
+CI)
+160. haftada ortalama değişim, kg (95% -6,5 -2,0 -4,6** (-5,3; -3,9)
+CI)
+13160. haftada ≥5% vücut ağırlığı kaybeden
+49,6 23,4 3,2** (2,6; 3,9)
+h asta oranı, % (95% CI)
+160. haftada >10% vücut ağırlığı
+kaybeden hasta oranı, % (95% CI) 24,4 9,5 3,1** (2,3; 4,1)
+Glisemik and kardiyometabolik Başlangıç Değişim Başlangıç Değişim
+faktörler
+HbA1c, % 5,8 -0,4 5,7 -0,1 -0,21** (-0,24; -
+0 ,18)
+FPG, mmol/L 5,5 -0,4 5,5 0,04 - 0,4** (-0,5; -0,4)
+Sistolik kan basıncı, mmHg 124,8 -3,2 125,0 -0,4 - 2,8** (-3,8; -1,8)
+Diastolik kan basıncı, mmHg 79,4 -2,4 79,8 -1,7 - 0,6 (-1,3; 0,1)
+Bel çevresi, cm 116,6 -6,9 116,7 -3,4 - 3,5** (-4,2; -2,8)
+Tam Analiz Seti: Vücut ağırlığı için, HbA FPG, kan basıncı ve bel çevresi başlangıç
+1c,
+değerleri ortalamalardır, hafta 160’da başlangıca göre değişiklikler, öngörülen ortalamalardır
+(en düşük kareler) ve hafta 160’daki tedavi kontrastları öngörülen tedavi farklarıdır. Vücut
+ağırlığının ≥%5/>%10’unu kaybeden hastaların oranları için öngörülen olasılık oranları
+verilmektedir. Kayıp başlangıç sonrası değerleri, ileri taşınan en son gözlem kullanılarak
+girilmiştir. ** p<0,0001. GA= güven aralığı. FPG=açlık plazma glukozu. SS= standart
+sapma.
+)%
+k(
+ilk
+işiğ
+ed
+ad
+n
+ığ
+ılrığ
+a
+n
+ed
+eB
+Süre (hafta)
+Saxenda Plasebo İleri taşınan son gözlem (LOCF)
+Tüm planlı vizitleri tamamlayan hastalar için gözlenen değerler
+Şekil 1 Çalışma 1 (0-56 hafta)’de vücut ağırlığında zamana göre başlangıç değerinden
+değişiklik
+)%
+k(
+ılık
+ıS
+fita
+lü
+m
+ü
+K
+Beden Ağırlığında Değişiklik (%)
+Saxenda Plasebo
+İleri taşınan son gözlem.
+Şekil 2 Çalışma 1’de 56 haftalık tedaviden sonra kilo değişikliğinin yüzde dağılımı (%)
+14Tablo 5 Çalışma 2: 56 haftada vücut ağırlığı, glisemi ve kardiyometabolik
+parametrelerde başlangıca göre değişiklik
+SAXENDA Plasebo (N=211) SAXENDA vs.
+(N=412) plasebo
+Vücut ağırlığı
+Başlangıç, kg (SS) 105,6 (21,9) 106,7 (21,2) -
+56 haftada ortalama değişiklik, % -5,9 -2,0 -4,0** (-4,8;
+(%95 GA) -3,1)
+56 haftada ortalama değişiklik, kg -6,2 -2,2 -4,1** (-5,0;
+(%95 GA) -3,1)
+56 haftada ≥%5 kilo veren 6,4** (4,1;
+49,8 13,5
+hastaların oranı, % (%95 GA) 10,0)
+56 haftada >%10 kilo veren 6,8** (3,4;
+22,9 4,2
+hastaların oranı, % (%95 GA) 13,8)
+Glisemi ve kardiyometabolik Başlangıç Değişiklik Başlangıç Değişiklik
+faktörler
+HbA1c, % 7,9 -1,3 7,9 -0,4 -0,9** (-1,1;
+-0,8)
+FPG, mmol/L 8,8 -1,9 8,6 -0,1 -1,8** (-2,1;
+-1,4)
+Sistolik kan basıncı, mmHg 128,9 -3,0 129,2 -0,4 -2,6* (-4,6;
+-0,6)
+Diyastolik kan basıncı, mmHg 79,0 -1,0 79,3 -0,6 -0,4 (-1,7; 1,0)
+Bel çevresi, cm 118,1 -6,0 117,3 -2,8 -3,2** (-4,2;
+-2,2)
+Tam Analiz Seti. Vücut ağırlığı için, HbA , FPG, kan basıncı ve bel çevresi, başlangıç
+1c
+değerleri ortalamalardır, hafta 56’da başlangıca göre değişiklikler, öngörülen ortalamalardır
+(en düşük kareler) ve hafta 56’daki tedavi kontrastları öngörülen tedavi farklarıdır. Vücut
+ağırlığının ≥%5/>%10’unu veren hastaların oranları için öngörülen olasılık oranları
+verilmektedir. Kayıp başlangıç sonrası değerleri, ileri taşınan en son gözlem kullanılarak
+girilmiştir. * p<0,05. ** p<0,0001. GA= güven aralığı. FPG=açlık plazma glukozu. SS=
+standart sapma.
+15Tablo 6 Çalışma 3: 32 haftada vücut ağırlığı ve Apne- Hipopne İndeksinde başlangıca
+göre değişiklikler
+SAXENDA Plasebo (N=179) SAXENDA vs.
+(N=180) plasebo
+Vücut ağırlığı
+Başlangıç, kg (SS) 116,5 (23,0) 118,7 (25,4) -
+32 haftada ortalama değişiklik, % -5,7 -1,6 -4,2** (-5,2;
+(%95 GA) -3,1)
+32 haftada ortalama değişiklik, kg -6,8 -1,8 -4,9** (-6,2;
+(%95 GA) -3,7)
+32 haftada ≥%5 kilo veren
+46,4 18,1 3,9** (2,4; 6,4)
+hastaların oranı, % (%95 GA)
+32 haftada >%10 kilo veren 19,0** (5,7;
+22,4 1,5
+hastaların oranı, % (%95 GA) 63,1)
+Başlangıç Değişiklik Başlangıç Değişiklik
+Apne-Hipopne İndeksi, olay 49,0 -12,2 49,3 -6,1 -6,1* (-11,0; -
+sayısı/saat 1,2)
+Tam Analiz Seti. Başlangıç değerleri ortalamalardır, hafta 32’de başlangıca göre değişiklikler,
+öngörülen ortalamalardır (en düşük kareler) ve hafta 32’deki tedavi kontrastları öngörülen
+tedavi farklarıdır. (%95 GA). Vücut ağırlığının ≥%5/>%10’unu veren hastaların oranları için
+öngörülen olasılık oranları verilmektedir. Kayıp başlangıç sonrası değerleri, ileri taşınan en
+son gözlem kullanılarak girilmiştir. * p<0,05. ** p<0,0001. GA= güven aralığı. SS= standart
+sapma.
+Tablo 7 Çalışma 4: 56 haftada vücut ağırlığında başlangıca göre değişiklikler
+SAXENDA Plasebo SAXENDA vs.
+(N=207) (N=206) plasebo
+Başlangıç, kg (SS) 100,7 (20,8) 98,9 (21,2) -
+56 haftada ortalama değişiklik, % -6,3 -0,2 -6,1** (-7,5; -4,6)
+(%95 GA)
+56 haftada ortalama değişiklik, kg -6,0 -0,2 -5,9** (-7,3; -4,4)
+(%95 GA)
+56 haftada ≥%5 kilo veren
+50,7 21,3 3,8** (2,4; 6,0)
+hastaların oranı, % (%95 GA)
+56 haftada >%10 kilo veren
+27,4 6,8 5,1** (2,7; 9,7)
+hastaların oranı, % (%95 GA)
+Tam Analiz Seti. Başlangıç değerleri ortalamalardır, hafta 56’da başlangıca göre değişiklikler,
+öngörülen ortalamalardır (en düşük kareler) ve hafta 56’daki tedavi kontrastları öngörülen
+tedavi farklarıdır. Vücut ağırlığının ≥%5/>%10’unu veren hastaların oranları için öngörülen
+olasılık oranları verilmektedir. Kayıp başlangıç sonrası değerleri, ileri taşınan en son gözlem
+kullanılarak girilmiştir. ** p<0,0001. GA= güven aralığı. SS= standart sapma.
+16)%
+k(
+ilk
+iş
+iğ
+e
+D
+a
+d
+n
+ığ
+ılrığ
+A
+n
+e
+d
+e
+B
+Süre (hafta)
+Saxenda Plasebo İleri taşınan son gözlem (LOCF)
+Tüm planlı vizitleri tamamlayan hastalar için gözlenen değerler
+Şekil 3 Çalışma 4’te vücut ağırlığında zamana göre randomizasyondaki değere kıyasla
+değişiklik
+Hafta 0’dan önce hastalar sadece düşük kalori diyeti ve egzersiz ile tedavi edilmiştir. Hafta
+0’da hastalar SAXENDA® veya plasebo almak üzere randomize edilmiştir.
+İmmünojenisite
+Protein veya peptid içeren tıbbi ürünlerin potansiyel immünojenik özellikleriyle uyumlu
+olarak, liraglutid ile tedaviyi takiben hastalar anti-liraglutid antikorları geliştirebilirler. Klinik
+çalışmalarda liraglutid ile tedavi edilen hastaların %2,5’i anti-liraglutid antikorları
+geliştirmiştir. Antikor oluşumu liraglutidin etkililiğinin azalmasıyla ilişkilendirilmemiştir.
+Kardiyovasküler değerlendirme
+Majör advers kardiyovasküler olaylara (MACE), harici bağımsız bir uzmanlar grubu
+tarafından karar verilmiş olup, ölümcül olmayan miyokard enfarktüsü, ölümcül olmayan inme
+ve kardiyovasküler ölüm şeklinde tanımlanmıştır. SAXENDA® ila uzun süreli klinik
+çalışmalarda liraglutid ile tedavi edilen hastalarda 6 MACE ve plasebo verilen hastalarda 10
+MACE gözlenmiştir. Olasılık oranı ve %95 GA liraglutid için plasebo karşısında 0,33 [0,12;
+0,90] bulunmuştur. Faz 3 klinik çalışmalarda liraglutid ile kalp atım hızında başlangıca göre
+dakikada ortalama 2,5 atımlık bir artış gözlenmiştir (çalışmalarda 1,6 ila 3,6 atım/dakika
+aralığında). Kalp atım hızı yaklaşık 6 hafta sonra pik değere ulaşmıştır. Kalp atım hızındaki
+bu ortalama artışın uzun vadedeki klinik etkisi tespit edilmemiştir. Kalp atım hızındaki
+değişiklik, liraglutid kesildikten sonra geri dönüşlü olmuştur (bkz. Bölüm 4.4).
+Liraglutid’in Diyabetteki Etkisi ve Etkinliği - Kardiyovasküler Sonuçların Değerlendirilmesi:
+Liraglutidin uzun dönemli kardiyovasküler sonuç çalışması olan LEADER çalışmasına, tip 2
+diyabeti yeterince kontrol edilemeyen 9.340 hasta dahil edilmiştir. Bunların büyük çoğunluğu
+kardiyovasküler hastalığa sahiptir. Hastalar, standart tedaviye ek olarak ya günlük 1,8 mg
+doza kadar (4.668) liraglutid ya da plasebo (4.672) koluna randomize olarak dağıtılmıştır.
+Gözlem süresi 3,5 yıl- 5 yıl arasıdır. Yaş ortalaması 64 olup, ortalama BKİ 32,5 kg/m²’dir.
+Başlangıçta ortalama HbA1c 8,7’dir ve 3 yıl sonra liraglutid verilen hastalarda % 1,2, plasebo
+verilen hastalarda % 0,8 oranında iyileşmiştir. Primer sonlanım noktası, randomizasyondan
+itibaren herhangi bir majör kardiyovasküler advers olayın ((MACE): kardiyovasküler ölüm,
+ölümcül olmayan miyokard enfarktüsü veya ölümcül olmayan inme) ilk meydana geldiği
+zamana dek geçen süredir.
+17Liraglutid % 13'lük bir risk azalması ile, HR 0,87, [0,78, 0,97] [% 95 CI] (p = 0,005)
+plaseboya kıyasla (sırasıyla liraglutid ve plasebo gruplarında gözlenen 100 hasta yılı başına
+3,90 a karşın 3,41) majör kardiyovasküler olayların (primer sonlanım noktası, MACE) oranını
+anlamlı ölçüde azaltmıştır (Bakınız şekil 4).
+Plasebo
+Liraglutid
+)%
+Hralatsa(
+nelüröG
+HR: 0.87
+yalO p<9 05 .0%
+01
+C eI
+ş
+0 d. e7 ğ8 e;
+r
+0 li. k9 7
+iç in
+p=0.005 üstünlük için
+Randomizasyon zamanı (ay)
+Riskli Hastalar
+Plasebo 4672 4587 4473 4352 4237 4123 4010 3914 1543 407
+Liraglutid 4668 4593 4496 4400 4280 4172 4072 3982 1562 424
+Şekil 4: İlk MACE’ye dek geçen sürenin Kaplan-Meier Analizi-Tam Analiz Seti
+Popülasyonu
+5.2. Farmakokinetik özellikler
+Genel özellikler
+Emilim:
+Subkutan uygulama sonrasında liraglutidin emilimi yavaş olmuş, dozdan sonraki yaklaşık 11
+saatte maksimum konsantrasyona ulaşmıştır. Obez (VKİ 30-40 kg/m2) hastalarda 3 mg
+liraglutid uygulamasının ardından erişilen ortalama liraglutid kararlı durum konsantrasyonu
+(EAA ) yaklaşık 31 nmol/L’dir. Liraglutid maruziyeti doz ile orantılı şekilde artmıştır.
+τ/24
+Subkutan uygulama sonrasında liraglutidin mutlak biyoyararlanımı yaklaşık %55’tir.
+Dağılım:
+Subkutan uygulamayı takiben ortalama görünür dağılım hacmi 20-25 L’dir (yaklaşık 100 kg
+ağırlığında bir kişi için). Liraglutid büyük oranda plazma proteinine bağlanır (>%98).
+Biyotransformasyon:
+Sağlıklı gönüllülere tek bir [3H]-liraglutid dozunun uygulanmasından 24 saat sonra
+plazmadaki başlıca bileşen değişmemiş liraglutid olmuştur. İki minör metabolit tespit
+edilmiştir (toplam plazma radyoaktivite maruziyetinin %9 ve %5’i).
+Eliminasyon:
+Liraglutid, ana atılım yolu olarak spesifik bir organ olmaksızın büyük proteinlere benzer
+biçimde endojen olarak metabolize olur. Bir [3H]-liraglutid dozundan sonra idrarda ya da
+feçeste değişmemiş liraglutid bulunmamıştır. Uygulanan radyoaktivitenin sadece minör bir
+kısmı idrarda veya feçeste liraglutid ile ilişkili metabolitler şekilde atılmıştır (sırasıyla %6 ve
+18%5). İdrar ve feçes radyoaktivitesi büyük oranda ilk 6-8 gün süresince atılmıştır ve sırasıyla
+üç minör metabolite karşılık gelmiştir.
+Liraglutidin subkutan uygulanmasının ardından ortalama klirens, yaklaşık 13 saatlik bir
+eliminasyon yarı ömrü ile yaklaşık 0,9-1,4 L/saattir.
+Hastalardaki karakteristik özellikler
+Geriyatrik popülasyon:
+Aşırı kilolu ve obez hastalara (18 ila 82 yaş) ait verilerin popülasyon farmakokinetiği
+analizine dayalı olarak yaşın liraglutidin farmakokinetiği üzerinde klinik olarak anlamlı bir
+etkisi olmamıştır. Yaşa dayalı herhangi bir doz ayarlaması gerekmemektedir.
+Cinsiyet:
+Popülasyon farmakokinetiği analizlerinin sonuçlarına dayalı olarak kadınlarda ağırlığa göre
+düzeltilmiş liraglutid klirensi erkeklere kıyasla %24 daha düşüktür. Maruziyet-yanıt verilerine
+göre, cinsiyete dayalı herhangi bir doz ayarlaması gerekmemektedir.
+Etnik köken:
+Beyaz, Siyah, Asyalı ve Hispanik/Hispanik harici gruplardan aşırı kilolu ve obez hastaları
+içeren popülasyon farmakokinetik analizinin sonuçlarına dayalı olarak etnik kökenin,
+liraglutidin farmakokinetiği üzerinde klinik olarak anlamlı herhangi bir etkisi olmamıştır.
+Vücut ağırlığı:
+Liraglutide maruziyet, başlangıç vücut ağırlığındaki artış ile azalmaktadır. Liraglutidin 3,0 mg
+günlük dozu, klinik çalışmalarda maruziyet yanıtı açısından değerlendirilen 60-234 kg vücut
+ağırlığı aralığında yeterli sistemik maruziyetler sağlamıştır. Liraglutid maruziyeti >234 kg
+vücut ağırlığına sahip hastalarda çalışılmamıştır.
+Karaciğer yetmezliği:
+Liraglutidin farmakokinetiği, bir tek doz (0,75 mg) çalışmasında çeşitli derecelerde karaciğer
+yetmezliği olan hastalarda değerlendirilmiştir. Sağlıklı olgular ile karşılaştırıldığında hafif ila
+orta dereceli karaciğer bozukluğu olan hastalarda liraglutid maruziyeti %13-23 azalmıştır.
+Şiddetli karaciğer bozukluğu (Child Pugh skoru >9) olan hastalarda ise maruziyet önemli
+oranda daha düşük olmuştur (%44).
+Böbrek yetmezliği:
+Bir tek doz (0,75 mg) çalışmasında liraglutide maruziyet, böbrek fonksiyonu normal olan
+kişiler ile karşılaştırıldığında böbrek yetmezliği olan hastalarda daha düşük bulunmuştur.
+Liraglutid maruziyeti, hafif (kreatinin klirensi, CrCl 50-80 mL/dk), orta (CrCl 30-50 mL/dk)
+ve şiddetli (CrCl <30 mL/dk) böbrek yetmezliği olan hastalarda ve diyaliz gerektiren son
+dönem böbrek hastalığı olan olgularda sırasıyla %33, %14, %27 ve %26 azalmıştır.
+Pediatrik popülasyon:
+Farmakokinetik özellikler sırasıyla 12-17 yaş (14 hasta, vücut ağırlığı 80-122 kg) ve 7-11 yaş
+(16 hasta, vücut ağırlığı 45-87 kg) olan obeziteli pediyatrik popülasyondaki klinik farmakoloji
+çalışmalarında değerlendirilmiştir.
+19Adölesanlardaki (12-17 yaş) liraglutid maruziyeti obeziteli yetişkinlerdeki ile benzer
+olmuştur. 3,0 mg liraglutid ile ilişkili maruziyetin, 7 ila 11 yaş arası çocuklar, adölesanlar ve
+yetişkin gönüllüler arasında, vücut ağırlığı doğrulanmasından sonra karşılaştırılabilir olduğu
+bulunmuştur.
+5.3. Klinik öncesi güvenlilik verileri
+Güvenlilik farmakolojisi, tekrarlı doz toksisitesi veya genotoksisite için yapılan
+konvansiyonel çalışmalardan elde edilen klinik dışı veriler, insana özel bir tehlike ortaya
+koymamıştır.
+Sıçan ve faredeki iki yıllık karsinojenite çalışmalarında ölümcül olmayan tiroid C hücresi
+tümörleri görülmüştür. Sıçanda, advers etkinin görülmediği düzey (NOAEL) gözlenmemiştir.
+Bu tümörler 20 ay süreyle tedavi edilen maymunlarda görülmemiştir. Kemirgenlerdeki bu
+bulgulara kemirgenlerin özellikle hassas oldukları genotoksik olmayan, spesifik GLP-1
+reseptörü aracılı bir mekanizma neden olmaktadır. İnsanlar için anlamlılığı olasılıkla düşüktür
+fakat tamamen olasılık dışı bırakılamamaktadır. Tedavi ile ilişkili başka tümör bulunmamıştır.
+Hayvan çalışmaları, fertilite bakımından doğrudan zararlı etkiler göstermemektedir fakat en
+yüksek dozda erken embriyonik ölümlerde hafif bir artış olduğuna işaret etmektedir.
+Gestasyonun ortasına denk gelen dönemde liraglutid uygulaması maternal ağırlıkta ve fetüs
+büyümesinde azalmaya neden olmuş, sıçanda kaburga kemikleri ve tavşanda iskelet
+varyasyonları üzerinde şüpheli etkiler söz konusu olmuştur. Sıçanda liraglutid maruziyeti
+sırasında neonatal büyüme azalmış ve yüksek doz grubunda sütten kesme sonrasında bu etki
+devam etmiştir. Yavruların büyümesindeki yavaşlamaya, doğrudan bir GLP-1 etkisine bağlı
+yavru süt alımında azalmanın mı yoksa azalmış kalori alımına bağlı olarak maternal süt
+üretiminde azalmanın neden olup olmadığı bilinmemektedir.
+6. FARMASÖTİK ÖZELLİKLER
+6.1. Yardımcı maddelerin listesi
+Disodyum fosfat dihidrat
+Propilen glikol
+Fenol
+Hidroklorik asit (pH ayarlaması için)
+Sodyum hidroksit (pH ayarlaması için)
+Enjeksiyonluk su
+6.2. Geçimsizlikler
+SAXENDA®’ya eklenen maddeler liraglutidin bozunmasına neden olabilir. Geçimlilik
+çalışmaları bulunmadığından, bu tıbbi ürün diğer tıbbi ürünlerle karıştırılmamalıdır.
+6.3. Raf ömrü
+30 ay.
+20İlk kullanımdan sonra: 1 ay.
+6.4. Saklamaya yönelik özel tedbirler
+Buzdolabında (2-8°C'de) saklanmalıdır.
+Dondurulmamalıdır.
+Dondurucu kısmın uzağında tutulmalıdır.
+İlk kullanımdan sonra: 30°C’nin altında veya buzdolabında (2°C - 8°C’de) saklanmalıdır.
+Işıktan korumak için, kalemin kapağı kapalı tutulmalıdır.
+6.5. Ambalajın niteliği ve içeriği
+Polipropilen, poliasetal, polikarbonat ve akrilonitril bütadien stirenden oluşan çok dozlu, tek
+kullanımlık, kullanıma hazır kalem içinde bir piston (bromobütil) ve bir lamine kauçuk kapak
+(bromobütil/poliizopren) ile kapatılmış bir kartuş (tip 1 cam).
+Her bir kalem, 3 mL çözelti içerir ve 0,6 mg, 1,2 mg, 1,8 mg, 2,4 mg ve 3,0 mg dozlarını
+verebilir.
+1, 3 ya da 5 adet kullanıma hazır kalemden oluşan ambalaj boyutları.
+Tüm ambalaj boyutları pazarda olmayabilir.
+6.6. Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+Kullanılmamış olan ürünler ya da atık materyaller “Tıbbi Atıkların Kontrolü Yönetmeliği” ve
+“Ambalaj Atıklarının Kontrolü Yönetmeliği” gereklerine uygun olarak imha edilmelidir.
+Eğer berrak ve renksiz veya renksize yakın görünümde değilse çözelti kullanılmamalıdır.
+Eğer donmuş ise SAXENDA® kullanılmamalıdır.
+Enjeksiyon kalemi, 8 mm boya ve 32G inceliğe kadar olan NovoFine® veya NovoTwist® tek
+kullanımlık iğne uçlarıyla kullanılmak üzere tasarlanmıştır.
+İğne uçları kutunun içinde bulunmamaktadır.
+Hastaya her enjeksiyon sonrasında kullanılan enjeksiyon iğnesini “Tıbbi Atıkların Kontrolü
+Yönetmeliği” gerekliliklere uygun olarak atması gerektiği ve enjeksiyon kalemini ucunda
+iğne takılı olmaksızın saklaması gerektiği bildirilmelidir. Bu, kontaminasyon, enfeksiyon ve
+ilacın kalemden sızıntı yapmasını önleyecektir. Ayrıca, dozlamanın doğru olmasını da
+sağlayacaktır.
+7. RUHSAT SAHİBİ
+Novo Nordisk Sağlık Ürünleri Tic. Ltd. Şti.
+Nispetiye Cad. Akmerkez E3 Blok Kat:7
+2134335 Etiler - İstanbul Türkiye
+Tel: 0 212 385 40 40
+Faks: 0 212 282 21 20
+8. RUHSAT NUMARASI
+2017/452
+9. İLK RUHSAT TARİHİ / RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi: 21.06.2017
+Ruhsat yenileme tarihi:
+10. KÜB’ÜN YENİLENME TARİHİ
+22

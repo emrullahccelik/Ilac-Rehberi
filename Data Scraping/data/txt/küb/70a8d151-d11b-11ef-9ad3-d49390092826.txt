@@ -1,0 +1,585 @@
+KISA ÜRÜN BİLGİSİ
+▼Bu ilaç ek izlemeye tabidir. Bu üçgen yeni güvenlilik bilgisinin hızlı olarak belirlenmesini
+sağlayacaktır. Sağlık mesleği mensuplarının şüpheli advers reaksiyonları TÜFAM’a
+bildirmeleri beklenmektedir. Bakınız Bölüm 4.8 Advers reaksiyonlar nasıl raporlanır?
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+SIGNIFOR 0.6 mg / 1 ml enjeksiyonluk çözelti
+Steril
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde:
+Pasireotid diaspartat 0,752 mg
+(0,6 mg Pasireotid serbest baza karşılık gelmektedir)
+Yardımcı maddeler:
+Sodyum hidroksit yeteri miktar (pH 4,2)
+Yardımcı maddelerin tam listesi için bölüm 6.1’e bakınız.
+3. FARMASÖTİK FORM
+Enjeksiyonluk çözelti.
+Bir ucundan kesilen 1 ml renksiz cam ampul içinde berrak, renksiz bir çözeltidir.
+4. KLİNİK ÖZELLİKLER
+4.1 Terapötik endikasyonlar
+Cerrahi müdahalenin bir tedavi seçeneği olmadığı ya da başarısız olduğu, Cushing hastalığı
+olan erişkin hastaların tedavisinde endikedir.
+4.2 Pozoloji ve uygulama şekli
+Uygulama sıklığı ve süresi:
+SIGNIFOR’un önerilen başlangıç dozu, günde iki kere subkutan (s.c.) enjeksiyon yoluyla 0,6
+mg’dır.
+SIGNIFOR tedavisine başlandıktan iki ay sonra hastalar, klinik fayda açısından
+değerlendirilmelidir. Üriner serbest kortizol [UFC] düzeylerinde klinik açıdan anlamlı
+azalmanın olduğu hastalar, fayda elde ettikleri müddetçe SIGNIFOR ile tedavi almaya devam
+etmelidir. 0,6 mg dozaj hasta tarafından iyi tolere edildiği sürece, tedaviye verilen yanıta göre
+dozu 0,9 mg’a yükseltmek düşünülebilir. günde iki kez 0,9 mg’a doz artışı düşünülebilir. İki
+ay tedavi sonrası SIGNIFOR’a yanıt vermeyen hastalar için tedavinin bırakılması
+düşünülmelidir.
+Şüpheli advers reaksiyonların tedavisi, SIGNIFOR dozunun geçici olarak azaltılmasını
+gerektirebilir. Günde iki kere 0,3 mg’lık adımlarla doz azaltımı önerilmektedir.
+1Bir SIGNIFOR dozu atlanırsa, bir sonraki enjeksiyon planlandığı saatte uygulanmalıdır.
+Atlanan bir dozu telafi etmek için çift doz uygulanmamalıdır.
+Uygulama şekli:
+Subkutan (s.c.) enjeksiyon şeklinde uygulanır. Hastalar, SIGNIFOR’un subkutan yolla nasıl
+enjekte edileceğine dair hekimden ya da bir sağlık profesyonelinden talimat almalıdır.
+Arka arkaya iki enjeksiyon için aynı enjeksiyon bölgesinin kullanılması önerilmemektedir.
+Enflamasyon ya da iritasyon belirtileri gösteren bölgelerde uygulamadan kaçınılmalıdır.
+Subkutan enjeksiyon için tercih edilen enjeksiyon bölgeleri, uyluk kemiğinin üst kısmı ve
+karındır (göbek ve bel çizgisi hariç).
+Özel popülasyonlara ilişkin ek bilgiler:
+Böbrek yetmezliği:
+Böbrek fonksiyonu bozulmuş olan hastalarda doz ayarlaması gerekli değildir (bkz. bölüm
+5.2).
+Karaciğer yetmezliği:
+Hafif şiddette bozulmuş karaciğer fonksiyonuna (Child-Pugh A) sahip hastalarda doz
+ayarlaması gerekli değildir. Orta şiddette bozulmuş karaciğer fonksiyonu (Child-Pugh B) olan
+hastalar için önerilen başlangıç dozu günde iki kere 0,3 mg’dır (bkz. bölüm 5.2). Orta şiddette
+karaciğer yetmezliği olan hastalar için maksimum önerilen doz günde iki kere 0,6 mg’dır.
+SIGNIFOR şiddetli karaciğer yetmezliği (Child Pugh C) olan hastalarda kullanılmamalıdır
+(bkz. bölüm 4.3 ve 4.4).
+Pediyatrik popülasyon:
+SIGNIFOR’un18 yaşın altındaki çocuk ve ergen hastalarda güvenliği ve etkililiği ile ilgili veri
+mevcut değildir.
+Geriyatrik popülasyon:
+65 yaşından büyük hastalarda SIGNIFOR kullanımı ile ilgili veriler sınırlıdır; fakat yaşlı
+hastalarda bir doz ayarlamasının gerekli olduğuna işaret eden kanıtlar mevcut değildir (bkz.
+bölüm 5.2)
+4.3 Kontrendikasyonlar
+- Etkin maddeye ya da bölüm 6.1’de listesi yer alan yardımcı maddelerin herhangi birine aşırı
+duyarlılığı ve,
+- Şiddetli karaciğer yetmezliği (Child Pugh C) olan hastalarda kontrendikedir.
+4.4 Özel kullanım uyarıları ve önlemleri
+Glukoz metabolizması
+Pasireotid ile tedavi edilen sağlıklı gönüllüler ve hastalarda sıklıkla kan glukoz düzeylerinde
+değişiklikler gözlenmiştir. Pasireotid ile yapılan klinik çalışmalara katılanlarda hiperglisemi
+ve daha seyrek olarak hipoglisemi gözlenmiştir (bkz. Bölüm 4.8).
+Hiperglisemi derecesinin, prediyabetik durumlar ya da tanı almış diyabeti olan hastalarda daha
+yüksek olduğu görülmektedir. Pivot çalışma sırasında HbA1c düzeyleri anlamlı düzeyde
+yükselmiş ve stabilize olmuş, fakat başlangıç değerlerine geri dönmemiştir (bkz. bölüm 4.8).
+2Günde iki kez 0,9 mg dozu uygulanan hastalarda, hiperglisemi nedeniyle daha fazla
+çalışmadan ayrılma ve daha yüksek şiddetli advers olaylar bildirme oranı bildirilmiştir.
+Hiperglisemi gelişimi, insülin (özellikle doz sonrası dönemde) ve ayrıca inkretin hormonların
+(yani, glukagon benzeri peptid-1 [GLP-1] ve glukoza bağlı insülinotropik polipeptid [GIP])
+salgısında azalma ile bağlantılı görünmektedir.
+Glisemik durum (açlık plazma glukozu/hemoglobin A [AKŞ/HbA1c]), pasireotid ile
+1c
+tedaviye başlanmadan önce değerlendirilmelidir. Tedavi sırasında AKŞ /HbA1c takibinde
+mevcut kılavuzlar takip edilmelidir. Kan glukozu ve/veya AKŞ değerlendirmelerinin hasta
+tarafından takibi, ilk iki ila üç ayda haftada bir ve ardından klinik olarak endike olduğu şekilde
+periyodik olarak ve yine dozda herhangi bir artırmadan sonraki ilk iki ila dört haftada
+yapılmalıdır. Tedavinin bırakılmasından 4 hafta sonra FGP ve 3 ay sonra HbA1c
+monitörizasyonu yapılmalıdır.
+Eğer SIGNIFOR ile tedavi edilen bir hastada hiperglisemi gelişirse, hiperglisemi tedavisine
+yönelik bilinen tedavi kılavuzları takip edilerek anti-diyabetik tedavinin başlatılması ya da
+ayarlanması önerilmektedir. Eğer uygun tıbbi tedaviye rağmen kontrol edilemeyen
+hiperglisemi devam ederse, SIGNIFOR dozu azaltılmalı ya da tedavi bırakılmalıdır (bkz.
+Bölüm 4.5).
+SIGNIFOR kullanan, diyabet öyküsü olan ve olmayan hastalarda pazarlama sonrası
+ketoasidoz vakaları görülmüştür. Şiddetli metabolik asidoz ile uyumlu belirti ve bulgular
+görülen hastalar, diyabet geçmişine bakılmaksızın ketoasidoz yönünden değerlendirilmelidir.
+Glisemik kontrolü zayıf olan hastalarda (anti-diyabetik tedavi görürken HbA1c değerleri >%8
+olarak tanımlanmaktadır), pasireotid tedavisi başlatılmadan önce ve tedavi sırasında diyabet
+kontrolü ve izlemi yoğunlaştırılmalıdır.
+Karaciğer testleri
+Pasireotid ile tedavi edilmiş hastalarda, aminotransferazlarda hafif ve geçici yükselmeler
+yaygın olarak gözlenmiştir. Birkaç vakada ALT’de (alanin aminotransferaz) 3 x normalin üst
+sınırından (ULN) daha yüksek ve bilirubinde 2 x ULN’den daha yüksek eşzamanlı
+yükselmeler de gözlenmiştir (bkz. bölüm 4.8). SIGNIFOR ile tedaviden önce ve tedavi
+sırasında bir, iki, dört, sekiz ve on ikinci haftadan sonra karaciğer fonksiyonunun takibi
+önerilmektedir. Bundan sonra karaciğer fonksiyonu klinik açıdan gerekli olduğu durumlarda
+takip edilmelidir.
+Transaminaz düzeyleri artan hastalar bulgunun doğrulanması için ikinci bir karaciğer
+fonksiyonu değerlendirmesi ile takip edilmelidir. Eğer bulgu doğrulanırsa, hastaya, değerler
+tedavi öncesi düzeylere gerileyene kadar sık sık karaciğer fonksiyonu takibi yapılmalıdır.
+Hasta sarılık geliştirirse veya klinik açıdan anlamlı karaciğer fonksiyon bozukluğuna işaret
+eden semptomlar ortaya çıkarsa (AST [aspartat aminotransferaz] ya da ALT’de 5 x ULN ya
+da daha yüksek sürekli bir artış veya 3 x ULN’den daha yüksek ALT veya AST yükselmeleri
+2 x ULN’den daha yüksek bilirubin yükselmeleri ile eşzamanlı meydana gelirse) pasireotid ile
+tedavi bırakılmalıdır. Pasireotid ile tedavinin bırakılmasını takiben, hastalar durumları
+düzelene kadar takip edilmelidir. Tedavi yeniden başlatılmamalıdır.
+Kardiyovasküler bağlantılı olaylar
+3Pasireotid kullanımı ile bağlantılı bradikardi bildirilmiştir (bkz. Bölüm 4.8). Kalp hastalığı
+ve/veya bradikardi için risk faktörleri olan hastalar (örn., klinik açıdan anlamlı bradikardi ya
+da akut miyokard infarktüsü öyküsü, yüksek dereceli kalp bloku, konjestif kalp yetmezliği
+(NYHA Sınıf III ya da IV), stabil olmayan angina, devamlı (sustained) ventriküler taşikardi,
+ventriküler fibrilasyon) dikkatli bir şekilde takip edilmelidir. Beta-blokörler, kalsiyum kanal
+blokörleri ya da elektrolit dengesini kontrol eden ajanlar gibi ilaçlarda doz ayarlaması gerekli
+olabilir.
+Sağlıklı gönüllüler üzerinde yapılan iki çalışmada pasireotidin EKG üzerinde QT aralığını
+uzattığı gösterilmiştir. Bu uzamanın klinik önemi bilinmemektedir.
+Cushing hastalığı olan hastalar üzerinde gerçekleştirilen klinik çalışmalarda, 201 hastanın
+ikisinde >500 msn QTcF gözlenmiştir. Bu epizotlar sporadiktir ve klinik sonuç gözlenmeden
+bir kez meydana gelmiştir. Bu çalışmalarda ya da diğer hasta popülasyonları üzerinde yapılan
+klinik çalışmalarda torsade de pointes epizotları gözlenmemiştir.
+Pasireotid, aşağıdakiler gibi QT uzaması geliştirme için anlamlı risk altında olan hastalarda
+dikkatli kullanılmalıdır:
+• konjenital uzun QT sendromu
+• kısa zaman önce meydana gelmiş miyokard infarktüsü, konjestif kalp yetmezliği, stabil
+olmayan angina ya da klinik açıdan anlamlı bradikardi dahil olmak üzere kontrol
+edilemeyen ya da önemli kalp hastalığı
+• QT uzamasına yol açtığı bilinen anti-aritmik tıbbi ürünlerin ya da diğer maddelerin
+alınması
+• hipokalemi ve/veya hipomagnezemi
+QTc aralığındaki olası bir etkinin izlenmesi önerilir ve SIGNIFOR ile tedavi başlatılmadan
+önce, tedavi başladıktan bir hafta sonra ve sonrasında klinik açıdan endike olduğu durumlarda
+EKG uygulanmalıdır.
+Hipokalemi ve/veya hipomagnezemi SIGNIFOR tedavisine başlanmadan önce düzeltilmelidir
+ve tedavi sırasında periyodik olarak izlenmelidir.
+Hipokortizolizm
+SIGNIFOR ile tedavi Cushing hastalığında ACTH (adrenokortikotropik hormon) salgısının
+hızlı bir şekilde baskılanmasına yol açar. Hızlı ve tam ya da tama yakın ACTH baskılanması
+dolaşımdaki kortizol düzeylerinde bir azalmaya neden olabilir ve geçici
+hipokortizolizm/hipoadrenalizme yol açabilir.
+Dolayısıyla hastaları hipokortizolizm ile bağlantılı işaretler ve semptomlar (örn., güçsüzlük,
+yorgunluk, anoreksi, mide bulantısı, kusma, hipotansiyon, hiperkalemi, hiponatremi ya da
+hipoglisemi) açısından takip etmek ve bilgilendirmek gerekmektedir. Belgelenmiş
+hipokortizolizm durumunda, geçici ekzojen steroid (glukokortikoid) replasman tedavisi
+ve/veya doz azaltımı ya da SIGNIFOR ile tedavinin kesilmesi gerekli olabilir.
+Safra kesesi ve bağlantılı olaylar
+4Kolelitiyazis (safra kesesi taşı), somatostatin analoglarının uzun süreli kullanımı ile bağlantılı
+iyi bilinen bir advers ilaç reaksiyonudur ve pasireotid ile yapılan klinik çalışmalarda sıklıkla
+bildirilmiştir (bkz. Bölüm 4.8).
+SIGNIFOR kullanan hastalarda pazarlama sonrası kolanjit vakaları görülmüştür, bu vakaların
+çoğu, safra taşı komplikasyonu olarak bildirilmiştir. SIGNIFOR tedavisinden önce ve
+SIGNIFOR tedavisi sırasında 6 ila 12 ay aralıklarla safra kesesinin ultrasonla incelenmesi
+önerilmektedir. SIGNIFOR ile tedavi edilen hastalarda safra taşlarının varlığı büyük oranda
+asemptomatiktir; semptomatik taşlar klinik uygulamaya göre tedavi edilmelidir.
+Hipofiz hormonları
+Pasireotidin farmakolojik aktivitesi somatostatini taklit ettiğinden, ACTH dışındaki hipofiz
+hormonlarının inhibisyonu da olasılıdır. Dolayısıyla, SIGNIFOR ile tedavi başlatılmadan önce
+ve tedavi sırasında periyodik olarak hipofiz fonksiyonunun (örn., TSH/serbest T , GH/IGF-1)
+4
+takibi yapılmalıdır.
+Kadın fertilitesi üzerindeki etki
+Cushing hastalığı olan kadın hastalarda serum kortizol düzeylerinin azaltılması veya
+normalleştirilmesinin terapötik faydaları fertiliteyi olasılıkla eski haline getirebilir. Gebe
+kalma potansiyeline sahip kadın hastalara, Signifor ile tedavi süresince yeterli doğum kontrolü
+uygulamaları tavsiye edilmelidir (bkz. bölüm 4.6).
+Böbrek yetmezliği
+Bağlanmamış ilaca maruziyetteki artış sebebiyle SIGNIFOR, şiddetli böbrek yetmezliği ya da
+son evre böbrek hastalığı olan kişilerde dikkatle kullanılmalıdır (bkz. bölüm 5.2).
+Yardımcı maddeler
+Bu tıbbi ürün her “doz”unda 1 mmol (23 mg)’dan daha az sodyum ihtiva eder; yani aslında
+“sodyum içermez”.
+4.5 Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+Pasireotid üzerinde etkilere yol açacak, beklenen farmakokinetik etkileşimler
+P-gp inhibitörü verapamilin subkutan pasireotidin farmakokinetiği üzerindeki etkisi sağlıklı
+gönüllülerde yürütülen bir ilaç-ilaç etkileşimi çalışmasında test edilmiştir. Pasireotidin
+farmakokinetiğinde (maruziyet hızı veya boyutu) bir değişiklik gözlenmemiştir.
+Diğer tıbbi ürünler üzerinde etkilere yol açacak, beklenen farmakokinetik etkileşimler
+Pasireotid siklosporinin bağıl biyoyararlanımını düşürebilir. SIGNIFOR ve siklosporinin
+eşzamanlı uygulanması, ilacın terapötik düzeylerinin korunması amacıyla siklosporin dozunda
+bir ayarlamanın yapılmasını gerektirebilir.
+Beklenen farmakodinamik etkileşimler
+QT aralığını uzatan tıbbi ürünler:
+Sınıf Ia antiaritmikler (örn., kinidin, prokainamid, disopiramid), sınıf III antiaritmikler (örn.,
+amiodaron, dronedaron, sotalol, dofetilid, ibutilid), belirli antibakteriyeller (intravenöz
+eritromisin, pentamidin enjeksiyonu, klaritromisin, moksifloksasin), belirli antipsikotikler
+(örn., klorpromazin, tioridazin, flufenazin, pimozid, haloperidol, tiaprid, amisülpirid,
+sertindol, metadon), belirli antihistaminikler (örn., terfenadin, astemizol, mizolastin),
+antimalaryaller (örn., klorokin, halofantrin, lumefantrin), belirli antifungaller (ketokonazol,
+5şampuan içinde olduğu durumlarda hariç) gibi, QT aralığında uzamaya yol açan ürünleri
+eşzamanlı olarak alan hastalarda pasireotid dikkatle kullanılmalıdır (ayrıca bkz. bölüm 4.4).
+Bradikardik tıbbi ürünler:
+Pasireotid ile beta blokörler (örn., metoprolol, karteolol, propranolol, sotalol),
+asetilkolinesteraz inhibitörleri (örn., rivastigmin, fizostigmin), belirli kalsiyum kanal
+blokörleri (örn., verapamil, diltiazem, bepridil), belirli antiaritmatikler gibi bradikardik tıbbi
+ürünleri bir arada alan hastalarda, özellikle tedavinin başında olmak üzere, kalp hızının klinik
+takibi önerilmektedir (ayrıca bkz. bölüm 4.4).
+İnsülin ve antidiyabetik tıbbi ürünler:
+Pasireotid ile eşzamanlı uygulandığında, insülin ve antidiyabetik tıbbi ürünlerin (örn.,
+metformin, liraglutid, vildagliptin, nateglinid) dozunda ayarlamalar (azaltma veya artırma)
+gerekli olabilir (ayrıca bkz. bölüm 4.4).
+Özel popülasyonlara ilişkin ek bilgiler
+Özel popülasyonlara ilişkin veri bulunmamaktadır.
+Pediyatrik popülasyon:
+Pediyatrik popülasyonlara ilişkin veri bulunmamaktadır.
+4.6 Gebelik ve laktasyon
+Genel tavsiye
+Gebelik kategorisi C’dir.
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon)
+SIGNIFOR kullanan kadınların tedavi süresince etkin bir doğum kontrol yöntemi
+kullanmaları tavsiye edilir.
+Gebelik dönemi
+Pasireotidin gebe kadınlarda kullanımı hakkında sınırlı veri mevcuttur. Hayvanlar üzerinde
+yapılan çalışmalar üreme toksisitesine işaret etmiştir (bkz. bölüm 5.3). Pasireotidin gebelik
+süresince ve çocuk doğurma potansiyeli bulunan ve doğum kontrolü uygulamayan kadınlarda
+kullanılması önerilmemektedir (bkz. bölüm 4.4).
+Laktasyon dönemi
+Pasireotidin insanda anne sütüne geçip geçmediği bilinmemektedir. Sıçanlardan elde edilen
+veriler pasireotidin süte geçtiğini göstermiştir (bkz. bölüm 5.3). SIGNIFOR bebek emziren
+kadınlarda kullanılmamalıdır.
+Üreme yeteneği/Fertilite
+Sıçanlar üzerinde gerçekleştirilen çalışmalarda, dişi üreme parametreleri üzerinde etkiler
+gösterilmiştir (bkz. bölüm 5.3). Bu etkilerin insanlar açısından klinik ilgisi bilinmemektedir.
+4.7 Araç ve makine kullanımı üzerindeki etkiler
+6SIGNIFOR’un araç ve makine kullanma yeteneği üzerindeki etkileri yok sayılabilecek
+derecede azdır. Hastalar, yorgunluk veya başağrısı hissetmeleri durumunda, araç ve makine
+kullanırken dikkatli olmaları konusunda uyarılmalıdır.
+4.8 İstenmeyen etkiler
+Güvenlilik profilinin özeti
+Faz II ve Faz III çalışmalarda toplam 201 Cushing hastalığı olan hasta SIGNIFOR almıştır.
+SIGNIFOR’un güvenlilik profili, hipokortizolizm oluşumu ve hiperglisemi derecesi dışında
+somatostatin analog sınıfı ile tutarlıdır.
+Aşağıda tarif edilmiş olan veriler, bir Faz III çalışmada, 162 Cushing hastalığı olan hastanın
+SIGNIFOR’a maruziyetini yansıtmaktadır. Çalışmaya girişte hastalar günde iki kere (b.i.d.)
+0,6 mg ya da 0,9 mg SIGNIFOR dozları alacak şekilde randomize edilmiştir. Hastaların
+ortalama yaşı 40’tır ve hastaların büyük kısmı kadınlardan oluşmaktadır (%77,8). Hastaların
+çoğunda (%83,3) persistan ya da nükseden Cushing hastalığı vardır ve her iki tedavi grubunda
+birkaç hastaya (≤%5) daha önce hipofiz radyoterapisi uygulanmıştır. Birincil etkililik ve
+güvenlilik analizinin veri kesme tarihine kadar tedaviye medyan maruziyet 10,37 aydır (0,03
+ila 37,8) ve hastaların % 66’sında en az altı aylık maruziyet vardır.
+Hastaların %57,4’ünde 1. ve 2. derece ADR (Advers İlaç Reaksiyonu)’ler bildirilmiştir.
+Hastaların %35,8’inde 3. derece yan etkiler ve hastaların %2,5’inde 4. derece yan etkiler
+gözlenmiştir. 3. ve 4. derece yan etkiler çoğunlukla hiperglisemi ile ilişkilidir. En yaygın yan
+etkiler (insidans ≥%10) şunlardır: ishal, mide bulantısı, abdominal ağrı, kolelitiyazis,
+enjeksiyon bölgesi reaksiyonları, hiperglisemi, diyabetes mellitus, yorgunluk, glikozile
+hemoglobin miktarında artış.
+Yan etkiler MedDRA primer Sistem Organ Sınıfı’na göre listelenmektedir. Her bir Sistem
+Organ Sınıfı içinde yan etkiler sıklığa göre sıralanmış ve en sık reaksiyonlar ilk olarak
+gösterilmiştir. Çok yaygın (≥1/10); yaygın (≥1/100 ila <1/10); yaygın olmayan (≥1/1.000 ila
+<1/100); seyrek (≥1/10.000 ila <1/1000); çok seyrek (<1/10.000), bilinmiyor (eldeki
+verilerden hareketle tahmin edilemiyor).
+Cushing hastalığı olan hastalar üzerinde gerçekleştirilen bir Faz III çalışmadaki ve pazarlama
+sonrası deneyimlerden elde edilen advers ilaç reaksiyonları aşağıda belirtilmektedir.
+Kan ve lenf sistemi hastalıkları
+Yaygın olmayan: Anemi
+Endokrin hastalıkları
+Yaygın: Adrenal yetmezlik
+Metabolizma ve beslenme hastalıkları
+Çok yaygın: Hiperglisemi, diyabetes mellitus
+Yaygın: İştah azalması, tip 2 diyabetes mellitus, bozulmuş glukoz toleransı
+Bilinmiyor: Diyabetik ketoasidoz
+Sinir sistemi hastalıkları
+Yaygın: Baş ağrısı, baş dönmesi
+7Kardiyak hastalıklar
+Yaygın: Sinüs bradikardisi, QT uzaması
+Vasküler hastalıklar
+Yaygın: Hipotansiyon
+Gastrointestinal hastalıklar
+Çok yaygın: İshal, abdominal ağrı, mide bulantısı
+Yaygın: Kusma, üst abdominal ağrı
+Hepato-bilier hastalıklar
+Çok yaygın: Kolelitiyazis
+Yaygın: Kolesistit*, kolestaz
+Deri ve deri altı doku hastalıkları
+Yaygın: Alopesi, prurit
+Kas-iskelet bozukluklar, bağ doku ve kemik hastalıkları
+Yaygın: Miyalji, artralji
+Genel bozukluklar ve uygulama bölgesine ilişkin rahatsızlıklar
+Çok yaygın: Enjeksiyon yeri reaksiyonu, yorgunluk
+Araştırmalar
+Çok yaygın: Glikozile hemoglobinde artış
+Yaygın: Gama-glutamiltransferazda artış, alanin aminotransferazda artış, artmış aspartat
+aminotransferaz, lipazda artış, kan glukozunda artış, kan amilazda artış,
+protrombin zamanında uzama
+* Kolesistit akut kolesistiti içerir.
+İstenmeyen etkilerden bazılarına ilişkin açıklama
+Glukoz metabolizması bozuklukları:
+Yüksek glukoz seviyeleri, Cushing hastalığı olan hastalar üzerinde gerçekleştirilen Faz III
+çalışmada en sık bildirilen 3. derece laboratuvar anormalliğidir (hastaların %23,2’si). Pre
+diyabetik ya da diyabetik hastalarla karşılaştırıldığında, çalışmaya girişte normal glisemisi
+olan hastalarda ortalama HbA1c artışları daha az belirgindir (Tablo 1).
+Tablo 1 Çalışmaya girişteki glisemik duruma göre 6. ayda ortalama HbA1c’deki
+değişiklikler
+Çalışmaya girişte glisemik durum 600 µg b.i.d. 900 µg b.i.d.
+(n = hastaların toplam sayısı) Başlangıç 6. ay Başlangıç 6. ay
+Normoglisemik hastalar (n = 62) 5,29 6,50 5,22 6,75
+Pre diyabetik hastalar (n = 38) 5,77 7,45 5,71 7,13
+Diyabetik hastalar (n = 54) 6,50 7,95 6,42 8,30
+Ortalama açlık plazma glukoz (FPG) düzeylerinin, yaygın olarak tedavinin ilk ayında artış
+gösterdiği ve takip eden aylarda azaldığı ve kararlı hale geldiği gözlenmiştir. Açlık plazma
+glukozu ve HbA1c değerleri genel olarak pasireotidin bırakılmasını takiben 28 günlük
+8dönemde azalmış, fakat başlangıç değerlerinin üzerinde kalmıştır. Uzun vadeli veriler mevcut
+değildir. Başlangıçta HbA1c değeri ≥%7 olan ya da randomizasyon öncesinde antidiyabetik
+tıbbi ürünler alan hastalarda, diğer hastalara göre, açlık plazma glukozu ve HbA1c
+değerlerinde daha yüksek ortalama değişiklikler yönünde bir eğilim olmuştur. Hiperglisemi ve
+diyabetes mellitus advers reaksiyonları, sırasıyla 5 (%3,1) ve 4 (%2,5) hastada çalışmanın
+bırakılmasına neden olmuştur. SIGNIFOR’un insani amaçlı ilaca erken erişim programı
+dahilinde bir ketoz olgusu ve bir ketoasidoz olgusu bildirilmiştir.
+SIGNIFOR ile tedavi edilmiş hastalarda kan glukoz düzeylerinin takip edilmesi
+önerilmektedir (bkz. bölüm 4.4).
+Gastrointestinal bozukluklar:
+Diğer somatostatin analoglarıyla olduğu gibi, SIGNIFOR kullanımıyla bağlantılı olarak sık sık
+gastrointestinal bozukluklar bildirilmiştir. Bu olaylar genellikle düşük derecelidir, girişim
+gerektirmez ve tedavinin sürdürülmesi neticesinde iyileşmiştir.
+Enjeksiyon yeri reaksiyonları:
+Cushing hastalığı olan kişilerde yapılan Faz III çalışmaya kaydolmuş hastaların %13,6’sında
+enjeksiyon yeri reaksiyonları bildirilmiştir. Enjeksiyon yeri reaksiyonları diğer
+popülasyonlarda yapılan klinik çalışmalarda da bildirilmiştir. En sık bildirilen olaylar lokal
+ağrı, eritem, hematom, hemoraji ve prurittir. Bu olaylar kendi kendine ortadan kalkmıştır ve
+girişim gerekmemiştir.
+Karaciğer enzimleri:
+Somatostatin analoglarının kullanımı ile birlikte karaciğer enzimlerinde geçici yükselmeler
+bildirilmiştir; bu durum aynı zamanda pasireotid ile yapılan klinik çalışmalardaki hastalarda
+da gözlenmiştir. Yükselmeler genellikle asemptomatiktir, düşük derecelidir ve tedavinin
+devam ettirilmesini takiben ortadan kalkmaktadır. Birkaç vakada ALT’de 3 x ULN’den daha
+yüksek ve bilirubinde 2 x ULN’den daha yüksek eşzamanlı yükselmeler gözlenmiştir. Tüm
+eşzamanlı yükselme vakaları SIGNIFOR ile tedavi başlatıldıktan sonraki on gün içinde
+belirlenmiştir. Hastalar klinik sekel olmadan iyileşmiş ve karaciğer fonksiyon testi sonuçları
+tedavi bırakıldıktan sonra başlangıç düzeylerine dönmüştür.
+SIGNIFOR ile tedavi başlatılmadan önce ve tedavi sırasında karaciğer enzimlerinin izlenmesi
+önerilmektedir (bkz. bölüm 4.4).
+Pankreatik enzimler:
+Klinik çalışmalarda pasireotid alan hastalarda lipaz ve amilazda asemptomatik yükselmeler
+gözlenmiştir. Yükselmeler büyük oranda düşük derecelidir ve tedavinin sürdürülmesi
+neticesinde ortadan kalkmıştır. Pankreatit; kolelitiyazis ve akut pankreatit arasındaki ilişki
+nedeniyle somatostatin analoglarının kullanımı ile bağlantılı potansiyel bir advers
+reaksiyondur.
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar / risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+9Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir. (www.titck.gov.tr; e-
+posta: tufam@titck.gov.tr; tel: 0 800 314 00 08; faks: 0 312 218 35 99)
+4.9 Doz aşımı ve tedavisi
+Sağlıklı gönüllülerde günde iki kere 2,1 mg’a kadar olan dozlar sağlıklı gönüllüler üzerinde
+kullanılmış ve en sık gözlenen advers reaksiyon ishal olmuştur.
+Doz aşımı durumunda semptomlar ortadan kalkana kadar hastanın klinik durumuna uygun
+destekleyici tedavinin başlatılması önerilmektedir.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1 Farmakodinamik özellikler
+Farmakoterapötik grup: Hipofiz ve hipotalamus hormonları ve analogları, somatostatin ve
+analogları
+ATC kodu: H01CB05
+Etki mekanizması
+Pasireotid yeni bir sikloheksapeptid, enjektabl somatostatin analogudur. Doğal peptid
+hormonlar somatostatin-14 ve somatostatin-28 (Somatotropin Salım İnhibitör Faktör [SRIF]
+olarak da bilinmektedir) ve diğer somatostatin analoglar gibi, pasireotid de farmakolojik
+aktivitesini somatostatin reseptörlerine bağlanarak göstermektedir. Beş insan somatostatin
+reseptör alt tipi bilinmektedir: hsst 1, 2, 3, 4 ve 5. Bu reseptör alt tiplerinin ekspresyonu
+normal fizyolojik koşullarda farklı dokularda gerçekleştirilmektedir. Somatostatin analogları
+hsst reseptörlerine farklı potenslerle bağlanmaktadır (Tablo 2). Pasireotid beş hsst’nin dördüne
+yüksek afinite ile bağlanmaktadır.
+Tablo 2 Somatostatin (SRIF-14), pasireotid, oktreotid ve lanreotidin, beş insan sst
+reseptör alt tipine (hsst 1-5) bağlanma afiniteleri
+Bileşik hsst1 hsst2 hsst3 hsst4 hsst5
+Somatostatin 0,93 ± 0,12 0,15 ± 0,02 0,56 ± 0,17 1,5 ± 0,4 0,29 ± 0,04
+(SRIF-14)
+Pasireotid 9,3 ± 0,1 1,0 ± 0,1 1,5 ± 0,3 > 1.000 0,16 ± 0,01
+Oktreotid 280 ± 80 0,38 ± 0,08 7,1 ± 1,4 > 1.000 6,3 ± 1,0
+Lanreotid 180 ± 20 0,54 ± 0,08 14 ± 9 230 ± 40 17 ± 5
+Bulgular, nmol/L olarak ifade edilen IC değerlerinin ortalama + SEM’sidir.
+50
+Farmakodinamik etkiler
+Somatostatin reseptörleri özellikle, Cushing hastalığındaki adrenokortikotropik hormonların
+(ACTH) aşırı salgılandığı nöroendokrin tümörler dahil olmak üzere birçok dokuda eksprese
+edilmektedir.
+İn vitro çalışmalarda, Cushing hastalığı olan hastalardan elde edilen kortikotrof tümör
+hücrelerinin yüksek hsst5 ekspresyonu sergilediği gösterilmiştir; bununla birlikte, diğer
+reseptör alt tipleri ya eksprese edilmemekte ya da düşük düzeylerde eksprese edilmektedir.
+Pasireotid ACTH üreten adenomların kortikotroflarında özellikle hsst5 olmak üzere beş
+hssst’den dördüne bağlanıp, aktive ederek ACTH salgısının inhibisyonuna neden olur.
+Klinik etkililik ve güvenlilik
+Persistan ve nükseden Cushing hastalığında ya da cerrahinin endike olmadığı veya cerrahiyi
+reddeden de novo hastalıkta on iki ay süren ve SIGNIFOR’un farklı doz düzeylerinin
+10güvenlilik ve etkililiğinin değerlendirildiği bir faz III, çok merkezli, randomize çalışma
+gerçekleştirilmiştir.
+Çalışmaya başlangıç UFC (Üriner Serbest Kortizol) düzeyi >1,5 x ULN (normalin üst sınırı)
+olan 162 hasta kaydedilmiştir; hastalar, 1:1 oranında SIGNIFOR 0,6 mg s.c. b.i.d. ya da 0,9
+mg s.c. b.i.d. alacak şekilde randomize edilmiştir. Üç aylık tedaviden sonra, 24 saatlik
+ortalama UFC değeri ≤ 2 x ULN ve daha düşük ya da başlangıç değerlerine eşit olan hastalar
+6. aya kadar randomize dozda körlenmiş tedaviye devam etmiştir. Bu kriterleri sağlamamış
+olan hastaların körlüğü kaldırılmış ve doz 0,3 mg b.i.d. arttırılmıştır. Çalışmadaki ilk 6 aydan
+sonra hastalar ilave bir 6 aylık açık etiketli tedavi dönemine girmiştir. Eğer 6. ayda yanıta
+ulaşılamazsa ya da yanıt açık etiketli tedavi döneminde sürdürülmezse, dozajın 0,3 mg s.c.
+b.i.d. arttırılmasına izin verilmiştir. Hastalara uygulanan maksimum doz 1,2 mg s.c. b.i.d.
+olmuştur. Doz, tolerabilite nedeniyle çalışma sırasında herhangi bir zamanda 0,3 mg b.i.d.
+adımlarla azaltılabilir.
+Birincil etkililik sonlanım noktası her bir tedavi kolunda 6 aylık tedaviden sonra ortalama 24
+saatlik UFC düzeyleri normale dönmüş (UFC ≤ ULN) ve bu dönemde (randomize doza göre)
+bir doz artışı yapılmamış hastaların oranı olarak belirlenmiştir. İkincil sonlanım noktaları,
+diğerlerinin yanında aşağıdakilerde başlangıca göre değişiklikleri kapsamaktadır: 24 saatlik
+UFC, plazma ACTH, serum kortizol düzeyleri, Cushing hastalığının klinik işaretleri ve
+semptomları. Tüm analizler randomize doz gruplarına dayalı olarak gerçekleştirilmiştir.
+Başlangıç demografikleri iki randomize doz grubu arasında iyi dengelenmiştir ve hastalık
+epidemiyolojisi ile tutarlıdır. Hastaların ortalama yaşı yaklaşık olarak 40’tır ve büyük oranda
+kadınlardan oluşmaktadır (%77,8). Hastaların çoğunda persistan ya da nükseden Cushing
+hastalığı (%83,3) vardır ve her iki tedavi grubunda birkaç hastaya (≤%5) daha önce hipofiz
+radyoterapisi uygulanmıştır.
+Başlangıç 24 saatlik UFC’nin ortalama değerindeki belirgin farklılıklar dışında iki randomize
+doz grubu arasında başlangıç özellikleri iyi dengelenmiştir (0,6 mg b.i.d. için 1156 nmol/24
+saat ve 0,9 mg b.i.d. grubu için 782 nmol/24 saat); normal aralık 30 ila 145 nmol/24 saat).
+Sonuçlar:
+6. ayda, pasireotid 0,6 mg b.i.d. ve 0,9 mg b.i.d.’ye randomize edilmiş hastaların %14,6 (%95
+GA 7,0 ila 22,3) ve %26,3’ünde (%95 GA 16,6 ila 35,9) ortalama UFC düzeylerinin normale
+döndüğü gözlenmiştir. Çalışma 0,9 mg b.i.d. grubu için birincil etkililik hedefini sağlamıştır;
+çünkü %95 GA’nın alt sınırı önceden belirlenmiş %15 sınırından daha yüksektir. 0,9 mg doz
+kolundaki yanıt, başlangıçta daha düşük ortalama UFC’si olan hastalar için daha yüksek
+görünmektedir. 6. ayda yanıt verenlerin büyük kısmı (%55,6) 12. ayda da yanıt vermiştir. 12.
+ayda yanıt verme oranı 6. aydaki orana benzerdir; 0,6 mg b.i.d. ve 0,9 mg b.i.d.’de sırasıyla
+%13,4 ve %25,0.
+Destekleyici bir etkililik analizi gerçekleştirilmiş ve hastalar, 3. aydaki yukarı titrasyondan
+bağımsız olarak 3 yanıt kategorisi altında sınıflandırılmıştır: tam kontrol altında (UFC ≤ 1,0 x
+ULN), kısmen kontrol altında (UFC >1,0 x ULN; fakat başlangıca kıyasla UFC’de ≥ %50
+azalma) ya da kontrol altında değil (tüm diğer hastalar). 6. ayda tam kontrol altında ve kısmen
+kontrol altında olarak sınıflandırılan yanıt veren hastaların oranı, tüm randomize hastaların
+sırasıyla %34 ve %41’ini (sırasıyla 0,6 mg b.i.d. ve 0,9 mg b.i.d.) oluşturmuştur. 1. ve 2. ayda
+11kontrol altında olmayan hastalar 6. ve 12. aylarda da büyük olasılıkla (%90) kontrol altında
+olmamıştır.
+Her iki doz grubunda SIGNIFOR, 1 aylık tedaviden sonra ortalama UFC’de hızlı ve kalıcı bir
+azalmaya yol açmıştır ve bu durum tedavi süresince sürdürülmüştür (Şekil 1).
+Aylar
+Pasireotid 0,9 mg b.i.d.
+Pasireotid 0,6 mg b.i.d.
+Başlangıç değerleri ile karşılaştırıldığında 6. ve 12. ayda ortalama ve medyan UFC
+düzeylerinde genel değişim yüzdesine göre kalıcı azalmaların olduğu gösterilmiştir (Tablo 3).
+Ayrıca her bir doz grubu için her bir zaman noktasında ortalama serum kortizol ve plazma
+ACTH düzeylerindeki azalmalar gözlenmiştir.
+Tablo 3 Başlangıç değerleri ile karşılaştırıldığında 6. ve 12. aylarda randomize doz
+grubuna göre ortalama ve medyan UFC düzeylerinde yüzde değişim
+Pasireotid 0,6 mg b.i.d. Pasireotid 0,9 mg b.i.d.
+% değişim (n) % değişim (n)
+UFC’de ortalama değişim 6. ay -27,5* (52) -48,4 (51)
+(başlangıca göre % değişim)
+12. ay -41,3 (37) -54,5 (35)
+UFC’de medyan değişim 6. ay -47,9 (52) -47,9 (51)
+(başlangıca göre % değişim)
+12. ay -67,6 (37) -62,4 (35)
+* Anlamlı aykırı değerlere sahip bir hastayı kapsamaktadır; bu hastada başlangıca göre ortalama değişim
++%542,2’dir.
+6. ayda her iki doz grubunda, oturur durumda sistolik ve diyastolik kan basıncı, BMI (beden-
+kütle indeksi) ve toplam kolesterolde klinik açıdan anlamlı azalmalar gözlenmiştir. Bu
+parametrelerdeki genel azalmaların, UFC’si normale dönmüş hastalarda daha yüksek olma
+eğilimi vardır. 12. ayda da benzer eğilimler gözlenmiştir.
+12
+CFU5.2 Farmakokinetik özellikler
+Emilim: Sağlıklı gönüllülerde, pasireotid hızlı bir şekilde emilir ve 0,25-0,5 saat içinde pik
+plazma konsantrasyonlarına ulaşılır. C ve EAA, tek ve çoklu dozları takiben yaklaşık
+maks
+olarak dozla orantılıdır.
+İnsanlarda pasireotidin biyoyararlanımını değerlendirmek üzere çalışma yapılmamıştır.
+Dağılım: Sağlıklı gönüllülerde pasireotid, yüksek bir görünür dağılım hacmiyle (V /F >100 L)
+z
+yaygın bir şekilde dağılmaktadır. Kan ve plazma arasındaki dağılım konsantrasyondan
+bağımsızdır ve pasireotidin büyük oranda (%91) plazmada konumlandığına işaret etmektedir .
+Plazma proteini bağlama oranı orta düzeydedir (%88) ve konsantrasyondan bağımsızdır.
+İn vitro verilere göre pasireotidin dışa akım taşıyıcısı P-gp’nin bir substratı olduğu
+görülmektedir; Pasireotid BCRP (meme kanseri direnç proteini), OCT1 (organik katyon
+taşıyıcısı 1) ya da OATP (organik anyon-taşıyıcı polipeptidler) 1B1, 1B3 ya da 2B1’in
+substratı değildir. Terapötik doz düzeylerinde pasireotid UGT1A1, OATP, 1B1 ya da 1B3, P-
+gp, BCRP, MRP2 ve BSEP inhibitörü değildir.
+Biyotransformasyon: Pasireotid metabolik açıdan oldukça stabildir ve in vitro veriler
+pasireotidin CYP450’nin majör enzimlerinden hiçbirisinin substratı, inhibitörü veya
+indükleyicisi olmadığını göstermiştir. Sağlıklı gönüllülerde pasireotid plazma, idrar ve dışkıda
+temel olarak değişmemiş formda bulunur.
+Eliminasyon: Pasireotid büyük oranda hepatik klerens yoluyla (biliyer atılım) elimine
+edilmektedir; renal yolun küçük bir katkısı vardır. Bir insan farmakokinetik (ADME)
+çalışmasında, radyoaktivite dozunun %55,9 ± 6,63’ü doz uygulamasından sonra ilk 10 gün
+içinde geri kazanılır; bu değer, radyoaktivitenin dışkıdaki %48,3 ± 8,16’lık kısmından ve
+idrardaki %7,63 ± 2,03’lük kısmından oluşmaktadır.
+Sağlıklı gönüllülerde ve Cushing hastalığı olan hastalarda pasireotidin klerensi (CL/F)
+sırasıyla ~7,6 litre/saat ve ~3,8 litre/saat’tir. EAA birikim oranları doğrultusunda, sağlıklı
+gönüllülerde hesaplanan etkili yarı ömür (t1/2,eff) yaklaşık 12 saat bulunmuştur.
+Doğrusallık/doğrusal olmayan durum:
+Cushing hastalığı olan hastalarda pasireotid, günde iki kere 0,3 mg ila 1,2 mg aralığında da,
+doğrusal ve zamandan bağımsız farmakokinetik göstermektedir. Popülasyon farmakokinetiği
+analizi, Cushing hastalığı olan hastalarda kararlı durumun %90’ına C ve EAA bazında
+maks
+sırasıyla yaklaşık 1,5 ve 15 gün sonra ulaştığını düşündürmektedir.
+Hastalardaki karakteristik özellikler
+Böbrek yetmezliği olan hastalar:
+Renal klerensin insanlarda pasireotidin eliminasyonuna küçük bir katkısı bulunmaktadır.
+Böbrek fonksiyonunda bozukluk olan hastalarda 900 µg pasireotidin tek doz subkutan
+uygulaması ile yürütülen bir klinik çalışmada hafif, orta ve şiddetli böbrek yetmezliği ya da
+son evre böbrek hastalığının (SEBH) toplam pasireotid plazma maruziyetine anlamlı bir etkisi
+olmamıştır. Böbrek yetmezliği olan hastalarda bağlanmamış plazma pasireotid maruziyeti
+(EAAinf,u), gönüllü kontrol olgularıyla karşılaştırıldığında yükselmiştir (hafif: %33; orta:
+%25, şiddetli: %99, SEBH: %143).
+13Karaciğer yetmezliği olan hastalar:
+Karaciğer fonksiyon bozulmuş olan (Child-Pugh A, B ve C) gönüllüler üzerinde
+gerçekleştirilen bir klinik çalışmada, orta ve şiddetli karaciğer yetmezliği olan gönüllüler
+(Child-Pugh B ve C) normal karaciğer fonksiyonuna sahip gönüllülerden anlamlı oranda daha
+yüksek maruziyet sergilemiştir. Eşdeğişken etkisi (yaş, beden-kütle indeksi ve albümin) için
+düzeltme yapıldıktan sonra kontrol grubu ile karşılaştırıldığında orta ve şiddetli karaciğer
+yetmezliği olan gruplarda sırasıyla EAA %60 ve %79 artmış, C %67 ve %69 artmış ve
+inf maks
+CL/F %37 ve %44 azalmıştır.
+Yaşlı hastalar (65 yaş ve üzeri):
+Cushing hastaları üzerinde yapılan bir popülasyon farmakokinetik analizinde yaşın bir
+eşdeğişken olduğu bulunmuştur. Artan yaşla birlikte toplam vücut klerensinin azaldığı ve
+farmakokinetk (FK) maruziyetlerinin arttığı görülmüştür. İncelenmiş yaş aralığı olan 18 ila 73
+arasında, 12 saatlik bir doz aralığı için kararlı durumda eğri altındaki alanın (EAA ) 41
+ss
+yaşındaki tipik bir hastanın %86’sı ila %111’i arasında olduğu öngörülmektedir. Bu
+değişkenlik orta düzeydedir ve etkinin gözlendiği geniş yaş aralığı göz önüne alındığında çok
+önemli olmadığı düşünülmüştür.
+65 yaşın üzerinde Cushing hastalığı olan hastalar ile ilgili veriler sınırlıdır; fakat daha genç
+hastalarla karşılaştırıldığında güvenlilik ve etkililikte klinik açıdan anlamlı farklılıklara işaret
+etmemektedir.
+Pediyatrik hastalar:
+Pediyatrik hastalarda çalışma gerçekleştirilmemiştir.
+Demografikler:
+SIGNIFOR üzerinde yapılan popülasyon farmakokinetik analizleri, ırk ya da cinsiyetin
+farmakokinetik parametrelerini etkilemediğini göstermektedir.
+Beden ağırlığının, Cushing hastalığı olan hastalar üzerinde yapılan popülasyon farmakokinetik
+analizinde bir eşdeğişken olduğu bulunmuştur. 60-100 kg aralığında EAAss değerinde artan
+kilo ile birlikte oluşan düşüşün yaklaşık %27 olacağı öngörülmekte olup bu fark orta
+düzeylidir ve minör klinik öneme sahiptir.
+5.3 Klinik öncesi güvenlilik verileri
+Klinik olmayan güvenlilik çalışmaları, güvenlilik farmakolojisi, tekrarlı doz toksisitesi,
+genotoksisite, karsinojenik potansiyel, üreme ve gelişim üzerindeki toksisiteyi kapsamaktadır.
+Tekrarlı toksisite çalışmalarında gözlenen bulguların büyük kısmı geri dönüşümlüdür ve
+pasireotidin farmakolojisine bağlanabilir. Klinik olmayan çalışmalardaki etkiler, yalnızca
+maksimum insan maruziyetinin yeteri kadar üzerinde olduğu düşünülen maruziyetlerde
+gözlenmiştir; bu durum elde edilen bulguların klinik kullanım açısından fazla bir öneme sahip
+olmadığını göstermektedir.
+İn vitro ve in vivo deneylerde pasireotid genotoksik etki göstermemiştir.
+Sıçanlarda ve transgenik farelerde gerçekleştirilen karsinojenisite çalışmalarında karsinojenik
+potansiyel belirlenmemiştir.
+14Pasireotid, erkek sıçanlarda fertiliteyi etkilememiştir fakat pasireotidin farmakolojisinden de
+bekleneceği gibi, dişi sıçanlarda anormal veya asiklik sikluslar ve korpus luteum ve
+implantasyon yerlerinin sayısında azalma görülmüştür. Sıçanlarda ve tavşanlarda, maternal
+toksisiteye yol açan dozlarda embriyo toksisitesi görülmüş ancak herhangi bir teratojen
+potansiyel tespit edilmemiştir. Sıçanlardaki prenatal ve postnatal çalışmada, pasireotid, doğum
+sancısı ve doğumu etkilememiş ancak pinna ayrılması oluşumunda hafif bir gecikme ve
+yavrularda beden ağırlığında düşüşe neden olmuştur.
+Hayvanlardaki mevcut toksikoloji verileri, pasireotidin süte geçtiğini göstermiştir.
+6. FARMASÖTİK BİLGİLER
+6.1 Yardımcı maddelerin listesi
+Mannitol
+Tartarik asit
+Sodyum hidroksit
+Enjeksiyonluk su
+Azot*
+* (işlem esnasında uzaklaştırılmaktadır)
+6.2 Geçimsizlikler
+Diğer ürünlerle geçimlilik verileri mevcut değildir. Enjeksiyonluk pasireotid çözeltisi diğer
+tıbbi ürünlerle karıştırılmamalıdır.
+6.3 Raf ömrü
+36 ay
+6.4 Saklamaya yönelik özel tedbirler
+30°C’nin altındaki oda sıcaklığında saklayınız. Işıktan korumak için orijinal ambalajında
+saklayınız.
+6.5 Ambalajın niteliği ve içeriği
+1 ml’lik, kırarak açılan, renksiz, hidrolitik sınıf I (Ph. Eur., USP) cam ampul
+6.6 Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+Kullanılmamış olan ürünler ya da atık materyaller “Tıbbi Atıkların Kontrolü Yönetmeliği” ve
+“Ambalaj ve Ambalaj Atıklarının Kontrolü Yönetmeliği”ne uygun olarak imha edilmelidir.
+7. RUHSAT SAHİBİ
+Recofarma İlaç ve Hammaddeleri San. ve Tic. Ltd. Şti.
+Sarıyer / İstanbul
+Tel: 0 212 401 91 00
+8. RUHSAT NUMARASI:
+2021/230
+9. İLK RUHSAT TARİHİ / RUHSAT YENİLEME TARİHİ:
+İlk ruhsat tarihi: 13.08.2021
+Ruhsat yenileme tarihi:
+1510. KÜB’ÜN YENİLENME TARİHİ:
+13.08.2021
+16

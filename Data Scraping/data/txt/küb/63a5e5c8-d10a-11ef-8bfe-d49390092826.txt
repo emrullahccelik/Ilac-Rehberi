@@ -1,0 +1,2347 @@
+KISA ÜRÜN BİLGİSİ
+Bu ilaç ek izlemeye tabidir. Bu üçgen yeni güvenlilik bilgisinin hızlı olarak
+belirlenmesini sağlayacaktır. Sağlık mesleği mensuplarının şüpheli advers reaksiyonları
+TÜFAM’a bildirmeleri beklenmektedir. Bakınız Bölüm 4.8 Advers reaksiyonlar nasıl
+raporlanır?
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+MABTHERA 100 mg/10 mL IV İnfüzyon İçin Konsantre Çözelti İçeren Flakon
+Steril
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde:
+Her bir flakon 10 mL’lik çözelti içinde 100 mg rituximab içerir.
+Çözeltinin her mL’sinde 10 mg rituximab bulunur.
+Rituximab insan IgG1 sabit bölgeleri ve sırasıyla değişken mürin hafif zincir ve ağır zincir
+içeren bir glikozile immunoglobulin sunan, genetik mühendisliği ile üretilen kimerik
+fare/insan monoklonal antikorudur. Antikor, memelilerin (Çin hamster over hücresi) hücre
+süspansiyon kültüründe üretilir ve spesifik viral inaktivasyon ve çıkarma prosedürlerini
+içerecek şekilde afinite kromotografisi ve iyon değiştirme ile saflaştırılır.
+Yardımcı maddeler:
+1 mL konsantre çözelti’ de
+ Sodyum sitrat dihidrat: 7,35 mg/mL
+ Sodyum klorür : 9 mg/ mL
+ Sodyum hidroksit : pH ayarı için y.m.
+Yardımcı maddeler için Bölüm 6.1’e bakınız.
+3. FARMASÖTİK FORM
+İnfüzyon için konsantre çözelti içeren flakon.
+Çözelti, pH değeri 6,2 - 6,8; osmolaritesi 324 - 396 mOsmol/kg olan, berrak, renksiz bir
+sıvıdır.
+4. KLİNİK ÖZELLİKLER
+4.1 Terapötik endikasyonlar
+Hodgkin-dışı Lenfoma (NHL)
+- Daha önce tedavi edilmemiş evre III-IV foliküler lenfomalı yetişkin hastalarda
+kemoterapi ile kombinasyon halinde
+1/60- İndüksiyon tedavisine yanıt veren foliküler lenfomalı yetişkin hastalarda idame
+tedavisi olarak
+- Kemoterapiye dirençli veya kemoterapiden sonra ikinci kez veya daha fazla nüks
+oluşan evre III-IV foliküler lenfomalı yetişkin hastalarda monoterapi olarak
+- CD20 pozitif, difüz büyük B hücreli lenfomalı yetişkin hastalarda CHOP
+(siklofosfamid, doksorubisin, vinkristin,prednizolon) kemoterapi şemasına ek
+olarak
+- Daha önce tedavi edilmemiş ileri evre CD20 pozitif difüz büyük B hücreli lenfoma
+(DBBHL), Burkitt lenfoma (BL) / Burkitt lösemi (olgun B hücreli akut lösemi)
+(BAL), Burkitt-like lösemisi (BLL) olan pediyatrik hastaların (≥6 ay <18 yaş)
+tedavisinde kemoterapi ile birlikte kullanılması endikedir.
+Kronik Lenfositik Lösemi (KLL)
+MABTHERA daha önce tedavi edilmemiş ve relaps/refrakter KLL hastalarının
+tedavisinde kemoterapi ile kombinasyon halinde endikedir. Daha önce MABTHERA
+dahil monoklonal antikorlarla tedavi edilen hastalar veya önceki MABTHERA ile
+kombine kemoterapi tedavisine dirençli hastalar için etkililik ve güvenlilik konusunda
+yalnızca kısıtlı veri mevcuttur.
+Daha fazla bilgi için Bölüm 5.1’ e bakınız.
+Granulamatoz Polianjiitis (Wegener) (GPA) ve Mikroskobik Polianjiitis (MPA)
+Siklofosfamide dirençli veya siklofosfamid tedavisi verilemeyen ciddi, aktif granulamatoz
+polianjiitis (GPA, Wegener granülomatozu olarak da bilinir) ve mikroskobik polianjiitis
+(MPA)’i olan yetişkin hastaların tedavisinde glukokortikoidlerle kombine olarak
+MABTHERA kullanılır.
+Ciddi, aktif GPA (Wegener) ve MPA'sı olan pediyatrik hastalarda (≥ 2 ila < 18 yaş)
+remisyon indüksiyonu için glukokortikoidlerle kombinasyon halinde endikedir.
+Pemfigus Vulgaris
+Orta ila şiddetli Pemfigus Vulgarisli (PV) hastaların tedavisinde endikedir.
+4.2 Pozoloji ve uygulama şekli
+MABTHERA, acil uygulama için tüm resüsitasyon olanaklarının bulunduğu bir ortamda
+deneyimli bir sağlık mesleği mensubunun yakın gözetimi altında uygulanmalıdır (bkz.
+Bölüm 4.4).
+Premedikasyon ve profilaksi:
+Her MABTHERA infüzyonundan önce, antipiretik (örn. parasetamol) ve antihistaminik
+ilaçtan (örn. difenhidramin) oluşan bir premedikasyon her zaman yapılmalıdır.
+Hodgkin dışı lenfoma ve kronik lenfositik lösemili (KLL) yetişkin hastalarda, MABTHERA
+glukortikoid içeren kemoterapiyle kombinasyon halinde verilmiyorsa, glukokortikoidlerle
+2/60premedikasyon göz önünde bulundurulmalıdır.
+Hodgkin dışı lenfomalı pediyatrik hastalarda, parasetamol ve H1 antihistaminik
+(difenhidramin veya eşdeğeri) ile premedikasyon, MABTHERA infüzyonunun
+başlamasından 30 ila 60 dakika önce uygulanmalıdır. Ayrıca Tablo 1' de belirtildiği şekilde
+prednizon verilmelidir.
+KLL hastaları için, tümör lizis sendromu (TLS) riskini azaltmak amacıyla tedavi
+başlangıcından 48 saat öncesinde yeterli hidrasyon ve ürikostatik uygulanmaya başlanması
+ile profilaksi önerilmektedir. Lenfosit sayıları > 25 x109/L olan tüm KLL hastalarında akut
+infüzyon reaksiyonları ve/veya sitokin salınım sendromunun oranını ve ciddiyetini
+azaltmak amacıyla, MABTHERA infüzyonundan kısa bir süre önce 100 mg i.v.
+prednizon/prednizolon uygulanması önerilmektedir.
+Granulamatoz polianjiitis (Wegener) ve Mikroskobik polianjiitis hastaları ve Pemfigus
+Vulgaris hastalarında infüzyonla ilişkili reaksiyonların görülme sıklığını ve şiddetini
+azaltmak için her MABTHERA infüzyonundan 30 dakika önce tamamlanacak şekilde 100
+mg i.v. metilprednizolon uygulanmalıdır.
+Yetişkin Granulamatoz polianjiitis (Wegener) ve Mikroskobik polianjiitis hastalarında
+MABTHERA’nın ilk infüzyonundan önce 1 ila 3 günlük 1.000 mg i.v./gün
+metilprednizolon uygulanması önerilmektedir (metilprednizolonun son dozu
+MABTHERA’nın ilk infüzyonu ile aynı günde verilebilir). Ardından 4 haftalık
+MABTHERA indüksiyon tedavisi sırasında ve sonrasında oral prednizon 1 mg/kg/gün (en
+fazla 80 mg/gün ve daha sonra klinik duruma göre mümkün olduğunca hızlı bir şekilde
+azaltılır) uygulanmalıdır.
+Uygun görülürse, yetişkin GPA, MPA ve PV hastalarına MABTHERA tedavisi sırasında
+ve sonrasında Pnömosistis jiroveci pnömoni (PJP) profilaksisi önerilmektedir.
+Pediyatrik popülasyon
+GPA veya MPA'sı olan pediyatrik hastalarda, ilk MABTHERA IV infüzyonundan önce,
+şiddetli vaskülit semptomlarını tedavi etmek için metilprednizolon üç gün süreyle 30
+mg/kg/gün (1 g/gün'ü geçmemek üzere) IV yolla verilmelidir.
+I.v. metilprednizolon uygulamasının tamamlanmasının ardından, hastalar oral prednizon 1
+mg/kg/gün (60 mg/gün'ü geçmemek üzere) almalı ve klinik ihtiyaca göre mümkün
+olduğunca hızlı bir şekilde doz azaltılmalıdır (bkz. Bölüm 5.1).
+Pneumocystis jirovecii pnömonisi (PJP) profilaksisi, uygun olduğu şekilde MABTHERA
+tedavisi sırasında ve sonrasında GPA veya MPA'sı olan pediyatrik hastalar için önerilir.
+Pozoloji/uygulama sıklığı ve süresi
+Hastaya reçete edilen uygun formülasyonun (intravenöz veya subkutan formülasyon)
+verildiğinden emin olmak için tıbbi ürünün etiketleri kontrol edilmelidir.
+Hodgkin-dışı lenfoma
+3/60Foliküler Hodgkin-dışı lenfoma:
+Kombinasyon tedavisi:
+Daha önce tedavi edilmemiş veya relaps/refrakter foliküler lenfoma hastaları için herhangi
+bir kemoterapi ile kombinasyon halinde önerilen MABTHERA dozu, 8 küre kadar her kürde
+375 mg/m2 vücut yüzey alanıdır.
+Eğer uygulanabilirse, MABTHERA, kemoterapinin glukokortikoid bileşeninin i.v. yolla
+verilmesinden sonra her bir kemoterapi kürünün ilk gününde uygulanmalıdır.
+İdame tedavisi:
+Daha önce tedavi edilmemiş foliküler lenfoma
+Daha önce tedavi edilmemiş ve indüksiyon tedavisine yanıt vermiş foliküler lenfomalı
+hastalarda idame tedavisi olarak önerilen MABTHERA dozu: hastalık progresyonuna kadar
+2 ayda bir (son doz indüksiyon tedavisinden 2 ay sonra başlayarak) veya maksimum iki
+yıllık bir süre boyunca (toplam 12 infüzyon) 375 mg/m2 vücut yüzey alanıdır.
+Relaps/Refrakter (Nükseden/Dirençli) foliküler lenfoma
+İndüksiyon tedavisine yanıt vermiş olan relaps/refrakter foliküler lenfomalı hastalarda
+idame tedavisi olarak önerilen MABTHERA dozu: hastalık ilerleyene kadar ya da
+maksimum iki yıl süresince (en çok 8 kür olarak), üç ayda bir (son doz indüksiyon
+tedavisinden 3 ay sonra başlayarak) 375 mg/m2 vücut yüzey alanıdır.
+Monoterapi:
+Relaps/Refrakter (Nükseden/Dirençli) foliküler lenfoma
+Evre III-IV foliküler lenfoma olan, kemoterapiye dirençli veya kemoterapiden sonra ikinci
+kez veya daha fazla nüks oluşan yetişkin hastalar için indüksiyon tedavisi olarak kullanılan
+MABTHERA monoterapisinin önerilen dozu: 4 hafta süreyle haftada bir kere i.v. infüzyon
+yoluyla verilen 375 mg/m2 vücut yüzey alanıdır.
+Relaps/refrakter foliküler lenfoma için MABTHERA monoterapisi ile geçmiş tedaviye yanıt
+veren hastalarda MABTHERA monoterapisiyle yeniden tedavi için önerilen doz: 4 hafta
+süreyle haftada bir kere i.v. infüzyon yoluyla verilen 375 mg/m2 vücut yüzey alanıdır (bkz.
+Bölüm 5.1).
+Yetişkin Difüz büyük B hücreli Hodgkin-dışı lenfoma
+MABTHERA, CHOP kemoterapisi ile kombinasyon şeklinde kullanılmalıdır. Önerilen
+MABTHERA dozu, her kemoterapi kürünün 1. gününde, 8 kür için, CHOP rejiminin
+glukokortikoid bileşeni i.v. yoldan uygulandıktan sonra verilmek üzere, 375 mg/m2 vücut
+yüzey alanıdır. Difüz büyük B hücreli Hodgkin-dışı lenfoma olgularında MABTHERA'nın
+diğer kemoterapilerle kombinasyon halinde kullanımının güvenliliği ve etkililiğine ait veri
+yoktur.
+4/60Tedavi sırasında doz ayarlamaları
+MABTHERA dozunda herhangi bir azaltma önerilmemektedir. MABTHERA, kemoterapi
+ile kombine halde uygulandığında, kemoterapötik ilaçlar için geçerli standart doz
+azaltmaları yapılmalıdır.
+Kronik Lenfositik Lösemi (KLL)
+Daha önce tedavi edilmemiş ve relaps/refrakter hastalar için kemoterapiyle kombinasyon
+halinde önerilen MABTHERA dozu, toplam 6 kür olmak üzere, ilk tedavi kürünün 0.
+gününde uygulanan 375 mg/m2 vücut yüzey alanı ve sonrasındaki her kürün 1. gününde
+uygulanan 500 mg/m2 vücut yüzey alanıdır. Kemoterapi, MABTHERA infüzyonundan
+sonra verilmelidir.
+Granulamatoz polianjiitis (Wegener) (GPA) ve Mikroskobik polianjiitis (MPA)
+Yetişkin remisyon indüksiyonu
+GPA ve MPA'sı olan yetişkin hastalarda remisyon tedavisinin başlatılması için önerilen
+MABTHERA dozu, 4 hafta boyunca haftada bir intravenöz infüzyon olarak uygulanan 375
+mg/m2 vücut yüzey alanıdır (toplam 4 infüzyon).
+Yetişkin idame tedavisi
+MABTHERA ile remisyon indüksiyonunu takiben, GPA ve MPA'sı olan yetişkin hastalarda
+idame tedavisine son MABTHERA infüzyonundan en geç 16 hafta sonra başlanmalıdır.
+Diğer standart bakım immunosupresanları ile remisyon indüksiyonunu takiben, hastalık
+remisyonunu takip eden 4 haftalık dönemde MABTHERA idame tedavisine başlanmalıdır.
+MABTHERA, iki hafta arayla iki 500 mg i.v. infüzyonu olarak uygulanmalı ve ardından
+her 6 ayda bir 500 mg i.v. infüzyonu olarak uygulanmalıdır. Hastalar, remisyon sağlandıktan
+(klinik belirti ve semptomların olmaması) sonra en az 24 ay boyunca MABTHERA
+almalıdır. Nüks açısından daha yüksek risk altında olabilecek hastalar için, doktorlar 5 yıla
+kadar daha uzun bir MABTHERA idame tedavisini düşünmelidir.
+Pemfigus Vulgaris
+Pemfigus vulgaris tedavisi için önerilen MABTHERA dozu 1000 mg'dır, i.v. infüzyon
+olarak uygulanır, ardından iki hafta sonra glukokortikoidlerin giderek azaltılması ile
+kombinasyon halinde ikinci bir 1000 mg i.v. infüzyonu yapılır.
+İdame tedavisi
+500 mg i.v. idame infüzyonu 12. ve 18. aylarda ve daha sonra gerekirse klinik
+değerlendirmeye göre 6 ayda bir uygulanmalıdır.
+Nüks tedavisi
+5/60Nüks durumunda hastalara 1000 mg i.v. verilebilir. Hekim, klinik değerlendirmeye
+dayanarak hastanın glukokortikoid dozunu sürdürmeyi veya artırmayı da düşünmelidir.
+Sonraki infüzyonlar, önceki infüzyonu takip eden 16 haftadan daha erken olmamak kaydıyla
+uygulanabilir.
+Uygulama şekli:
+MABTHERA sadece ona ayrılmış damar yoluyla, tek başına intravenöz infüzyonla,
+tüm resüsitasyon olanaklarının eksiksiz olarak hazır bulunduğu bir ortamda ve
+uzman bir hekimin yakın gözetimi altında uygulanmalıdır.
+Hazırlanmış infüzyon çözeltilerini i.v. puşe veya bolus yoluyla uygulamayınız (bkz.
+Bölüm 6.6).
+Hastalar, sitokin salınım sendromu başlangıcı açısından yakından izlenmelidir (bkz. Bölüm
+4.4). Özellikle şiddetli dispne, bronkospazm veya hipoksi şeklinde şiddetli reaksiyon
+belirtileri gelişen hastalarda infüzyon derhal kesilmelidir. Hodgkin-dışı lenfomalı hastalar
+daha sonra, uygun laboratuvar testleri ile tümör lizis sendromu belirtileri açısından ve göğüs
+röntgeni ile pulmoner infiltrasyon açısından değerlendirilmelidir. Tüm hastalarda
+semptomlar tamamen düzelene kadar ve laboratuvar değerleriyle göğüs röntgeni bulguları
+normalleşene dek infüzyona tekrar başlanmamalıdır. Ayrıca infüzyona başlangıç olarak
+daha önce uygulananın en fazla yarısı kadar bir hızda yeniden başlanmalıdır. Aynı şiddetli
+advers reaksiyonlar ikinci kez meydana gelirse tedavinin durdurulması yönünde bir karar
+vaka bazında ciddi olarak düşünülmelidir.
+Hafif veya orta dereceli infüzyonla ilişkili reaksiyonlar (İİR) (Bölüm 4.8), genelde infüzyon
+hızının azaltılmasına yanıt vermektedir. Semptomlar düzeldikten sonra infüzyon hızı
+arttırılabilir.
+İlk infüzyon
+Önerilen ilk infüzyon hızı 50 mg/saat’tir; ilk 30 dakikadan sonra, 30 dakikada bir 50
+mg/saat’lik artışlarla hız maksimum 400 mg/saat’e çıkarılabilir.
+İzleyen infüzyonlar
+Tüm endikasyonlar
+Sonraki MABTHERA infüzyonlarına 100 mg/saat hızıyla başlanabilir ve daha sonra her 30
+dakikada bir 100 mg/saat’lik artışlarla oran maksimum 400 mg/saat’e çıkarılabilir.
+Pediyatrik hastalar - Hodgkin-dışı lenfoma
+İlk infüzyon
+Önerilen ilk infüzyon hızı 0,5 mg/kg/saat’tir (maksimum 50 mg/saat); ilk 30 dakikadan
+sonra, eğer aşırı duyarlılık veya infüzyonla ilişkili reaksiyon gözlenmezse 30 dakikada bir
+0,5 mg/kg/saat’lik artışlarla hız maksimum 400 mg/saat’e çıkarılabilir.
+6/60İzleyen infüzyonlar
+Sonraki MABTHERA infüzyonlarına 1 mg/kg/saat hızıyla başlanabilir (maksimum 50
+mg/saat) ve daha sonra her 30 dakikada bir 1 mg/kg/saat’lik artışlarla oran maksimum 400
+mg/saat’e çıkarılabilir.
+Özel popülasyonlara ilişkin ek bilgiler:
+Böbrek/Karaciğer yetmezliği:
+Böbrek/karaciğer yetmezliği olan hastalarda özel bir kullanım söz konusu değildir.
+Pediyatrik popülasyon:
+Hodgkin-dışı lenfoma
+Daha önce tedavi görmemiş, ileri evre CD20 pozitif DBBHL/BL/BAL/BLL olan ≥ 6 ay ila
+< 18 yaş arasındaki pediyatrik hastalarda, MABTHERA sistemik Lenfom Malin B (LMB)
+kemoterapisi ile kombinasyon halinde kullanılmalıdır (bkz. Tablo 1 ve 2 ). Önerilen
+MABTHERA dozu, i.v. infüzyon olarak uygulanan 375 mg/m2 vücut yüzey alanıdır. Vucüt
+yüzey alanı dışında MABTHERA doz ayarlaması gerekli değildir.
+MABTHERA’nın ≥6 ay ila <18 yaş arasındaki pediyatrik hastalarda güvenliliği ve etkililiği
+için daha önce tedavi edilmemiş ileri evre CD20 pozitif DBBHL/BL/BAL/BLL dışındaki
+endikasyonlarda veri bulunmamaktadır. Yalnızca 3 yaşın altındaki hastalar için kısıtlı veri
+mevcuttur (bkz. Bölüm 5.1).
+MABTHERA 6 aydan küçük CD20 pozitif difüz büyük B hücreli lenfomalı pediyatrik
+hastalarda kullanılmamalıdır (bkz. Bölüm 5.1).
+Tablo 1 Hodgkin-dışı lenfomalı pediyatrik hastalarda MABTHERA pozolojisi
+Kür Tedavi günü Uygulama detayları
+Ön faz (COP) MABTHERA verilmez -
+İndüksiyon kürü 1 2. gün 1. indüksiyon kürü
+(COPDAM1) (ön fazın 6. gününe karşılık sırasında, prednizon
+gelir) kemoterapi kürünün bir
+1. MABTHERA infüzyonu parçası olarak verilir ve
+MABTHERA'dan önce
+uygulanmalıdır.
+1.gün MABTHERA, ilk
+2. MABTHERA infüzyonu MABTHERA
+infüzyonundan 48 saat
+sonra verilecektir.
+İndüksiyon kürü 2 2. gün 2. indüksiyon küründe,
+(COPDAM2) 3. MABTHERA infüzyonu MABTHERA uygulaması
+sırasında prednizon
+verilmez.
+1. gün Üçüncü MABTHERA
+4. MABTHERA infüzyonu infüzyonundan 48 saat
+7/60sonra MABTHERA
+verilecektir.
+Konsolidasyon kürü 1 1. gün MABTHERA uygulaması
+(CYM/CYVE) 5. MABTHERA infüzyonu sırasında prednizon
+verilmez.
+Konsolidasyon kürü 2 1. gün MABTHERA uygulaması
+(CYM/CYVE) 6. MABTHERA infüzyonu sırasında prednizon
+verilmez.
+İdame kürü 1 (M1) Konsolidasyon kürü 2'nin Konsolidasyon kürü 2
+(CYVE) 25 ila 28. günleri (CYVE) den sonra periferik
+MABTHERA verilmez. değerler MNS>1 x 109/L ve
+trombositler> 100 x 109/L
+olduğunda idame kürü 1 e
+başlanabilir.
+İdame kürü 2 (M2) İdame kürünün 1’in (M1) -
+28. Günü
+MABTHERA verilmez.
+MNS = Mutlak Nötrofil Sayısı; COP = Siklofosfamid, Vinkristin, Prednizon; COPDAM
+= Siklofosfamid, Vinkristin, Prednizolon, Doksorubisin, Metotreksat; CYM =
+CYtarabine (Aracytine, Ara-C), Metotreksat; CYVE = CYtarabine (Aracytine, Ara-C),
+VEposide (VP16)
+Tablo 2 Hodgkin-dışı lenfomalı pediyatrik hastalar için tedavi planı: MABTHERA ile
+Eşzamanlı Kemoterapi
+Tedavi planı Hasta evrelemesi Uygulama detayları
+Grup B LDH düzeyi yüksek (>N x Ön faz ve takiben 4 kür:
+2) Evre III, 3g/m2 HDMTX ile 2
+Evre IV MS negatif indüksiyon kürü ve 2
+konsolidasyon kürü
+Grup C Grup C1: Ön faz ve takiben 6 kür:
+B-AL MS negatif, Evre IV 8g/m2 HDMTX ile
+ve BAL MS pozitif ve BOS indüksiyon kürü
+negatif (COPADM), 2
+konsolidasyon kürü
+(CYVE) ve 2 idame kürü
+(M1 ve M2)
+Grup C3:
+BAL BOS pozitif, Evre IV
+BOS pozitif
+28 gün aralıklarla verilen idame kürleri dışında, kan sayımı düzelip hastanın durumu izin
+verir vermez ardışık kürler verilmelidir.
+BAL = Burkitt lösemi (olgun B hücreli akut lüsemi); BOS = Beyin Omurilik Sıvısı; MS
+= Merkezi Sinir Sistemi; HDMTX = Yüksek doz Metotreksat; LDH = Laktik Asit
+Dehidrojenaz
+Granulamatoz polianjiitis (Wegener) (GPA) ve Mikroskobik polianjiitis (MPA)
+Remisyon indüksiyonu
+8/60Şiddetli, aktif GPA veya MPA'sı olan pediyatrik hastalarda remisyon tedavisinin
+başlatılması için önerilen MABTHERA dozu, 4 hafta boyunca haftada bir i.v. infüzyon
+olarak uygulanan 375 mg/m2 vücut yüzey alanıdır.
+Pediyatrik hastalarda (≥ 2 ila < 18 yaş) MABTHERA'nın güvenliliği ve etkililiği, şiddetli,
+aktif GPA veya MPA dışındaki endikasyonlarda belirlenmemiştir.
+Yaygın, aşı ile önlenebilir çocukluk çağı hastalıkları (örn. kızamık, kabakulak, kızamıkçık
+ve çocuk felci) aşılarına karşı yetersiz bir bağışıklık yanıtı olasılığı bulunduğundan, şiddetli,
+aktif GPA veya MPA'sı olan 2 yaşından küçük pediyatrik hastalarda MABTHERA
+kullanılmamalıdır (bkz. Bölüm 5.1).
+Geriyatrik popülasyon:
+Yaşlı hastalarda ( 65 yaş) herhangi bir doz ayarlaması gerekli değildir.
+4.3 Kontrendikasyonlar
+MABTHERA’nın Hodgkin-dışı lenfoma ve kronik lenfositik lösemide kullanım için
+kontrendike olduğu durumlar:
+ Etkin maddeye veya ürünün içindeki herhangi bir maddeye veya mürin proteinlerine
+aşırı duyarlılık olması durumunda
+ Aktif, ciddi enfeksiyonlarda (bkz. Bölüm 4.4)
+ İmmün sistemi ciddi şekilde baskılanmış hastalarda
+MABTHERA’nın Granulamatoz polianjiitis (Wegener) (GPA), Mikroskobik polianjiitiste
+(MPA) ve Pemfigus vulgaris kullanımı için kontrendike olduğu durumlar:
+ Etkin maddeye veya ürünün içindeki herhangi bir maddeye veya mürin proteinlerine
+aşırı duyarlılık olması durumunda
+ Aktif, ciddi enfeksiyonlarda (bkz. Bölüm 4.4)
+ İmmün sistemi ciddi şekilde baskılanmış hastalarda
+ Ciddi kalp yetmezliğinde (New York Kalp Birliği sınıflandırılmasında Sınıf IV)
+veya ciddi, kontrol edilemeyen kalp hastalığında (diğer kardiyovasküler hastalıklar
+için bkz. Bölüm 4.4)
+4.4 Özel kullanım uyarıları ve önlemleri
+UYARILAR
+Ölümcül İnfüzyon Reaksiyonları
+MABTHERA infüzyonları ciddi, ölümcül olabilen infüzyon reaksiyonları ile
+sonuçlanabilir. MABTHERA infüzyonu sonrasındaki 24 saat içinde ölüm vakaları
+görülmüştür. Ölümcül infüzyon reaksiyonlarının yaklaşık % 80’i ilk infüzyonla
+ilişkili olarak görülmüştür. İnfüzyon sırasında hastaları dikkatlice gözlemleyiniz.
+Derece 3 veya 4 infüzyon reaksiyonları gelişirse MABTHERA infüzyonunu kesiniz
+9/60ve tıbbi tedavi uygulayınız (bkz. Bölüm 4.4 Özel kullanım uyarıları ve önlemleri, 4.8
+İstenmeyen etkiler).
+Tümör Lizis Sendromu (TLS)
+Hodgkin dışı lenfoma (NHL) hastalarının MABTHERA tedavisi sonrasında, TLS
+sonucu, diyaliz gerektiren ve ölümle sonuçlanan akut renal yetmezlik görülebilir.
+Ciddi Mukokütanöz Reaksiyonlar
+MABTHERA kullanan hastalarda ölümcül olabilen, ciddi mukokütanöz
+reaksiyonlar meydana gelebilir (bkz. Bölüm 4.4 Özel kullanım uyarıları ve
+önlemleri, 4.8 İstenmeyen etkiler).
+Progresif Multifokal Lökoensefalopati (PML)
+MABTHERA kullanan hastalarda PML ile sonuçlanan John Cunningham (JC)
+virüsü aktivasyonu ve ölüm meydana gelebilir.
+Hepatit B Virüs (HBV) Reaktivasyonu
+MABTHERA ile tedavi edilen hastalarda fulminan hepatit, hepatik yetmezlik ve
+ölümle sonuçlanabilen hepatit B reaktivasyonu gerçekleşebilir. MABTHERA
+tedavisine başlamadan önce bütün hastalar HBV enfeksiyonu açısından taranmalı
+ve tedavi süresince ve sonrasında hastalar izlenmelidir. HBV reaktivasyonu gelişen
+hastalarda acilen MABTHERA ve birlikte kullanılan kemoterapi ilaçları
+kesilmelidir.
+Progresif multifokal lökoensefalopati
+MABTHERA’nın kullanımı sonrasında çok seyrek ölümcül PML vakaları bildirilmiştir.
+Hastalar, herhangi yeni veya kötüleşen nörolojik semptomlar açısından veya PML’yi
+düşündürebilecek belirtiler açısından düzenli aralıklarla izlenmelidir. PML’den
+şüphelenilmesi durumunda, PML olasılığı dışlanana kadar doz uygulaması askıya
+alınmalıdır. Klinisyen, semptomların nörolojik disfonksiyonu gösterip göstermediğine ve
+nörolojik disfonksiyon varsa, bu semptomların PML’yi düşündürüp düşündürmediğine
+karar vermek için hastayı değerlendirmelidir. Klinik gereklilik nedeniyle, bir nörolog
+tarafından konsültasyon yapılması da dikkate alınmalıdır.
+Herhangi bir şüphe olması durumunda tercihen kontrastlı MRG, JC Viral DNA için beyin
+omurilik sıvısı (BOS) testi ve tekrarlı nörolojik değerlendirmeler dahil detaylı muayene
+dikkate alınmalıdır.
+Hekim, özellikle hastanın fark etmeyebileceği PML semptomları (örn. bilişsel, nörolojik
+veya psikiyatrik semptomlar) açısından dikkatli olmalıdır. Hastanın farkında olmadığı
+semptomları fark edebilmeleri nedeniyle, hastaların ayrıca eşleri ve hastaya bakanlar tedavi
+konusunda bilgilendirilmelidirler.
+Eğer bir hastada PML gelişirse, dozlama kalıcı şekilde durdurulmalıdır.
+10/60PML olan bağışıklığı zayıflamış hastalarda immün sistemin yeniden düzenlenmesi ardından,
+stabilizasyon veya sonuçlarda iyileşme olduğu görülmüştür. PML’nin erken saptanmasının
+ve MABTHERA tedavisinin askıya alınmasının benzer stabilizasyon veya sonuçlarda
+iyileşme sağlayıp sağlamayacağı bilinmemektedir.
+Hodgkin-dışı lenfoma ve kronik lenfositik lösemi
+İnfüzyonla ilişkili reaksiyonlar
+MABTHERA sitokinler ve/veya diğer kimyasal aracıların salımı ile ilişkili olabilen
+infüzyona bağlı reaksiyonlar ile ilişkilendirilmektedir. Sitokin salınım sendromu klinik
+olarak akut aşırı duyarlılık reaksiyonlarından ayırt edilemeyebilir.
+Sitokin salınım sendromu, tümör lizis sendromu ve anafilaktik ve aşırı duyarlılık
+reaksiyonlarını içeren bu reaksiyon dizisi aşağıda tanımlanmaktadır. Bu reaksiyonlar,
+spesifik olarak MABTHERA'nın uygulama yoluyla ilişkili değildir ve her iki formülasyon
+ile de gözlenebilmektedir.
+MABTHERA'nın intravenöz formülasyonunun pazarlama sonrası kullanımı sırasında ilk
+intravenöz MABTHERA infüzyonunun başlangıcından sonra 30 dakika ila 2 saat arasında
+değişen sürelerde başlayan, ölümcül sonucu olan şiddetli infüzyona bağlı reaksiyonlar
+bildirilmiştir. Bu reaksiyonlar pulmoner olaylar ile karakterizedir ve bazı durumlarda hızlı
+tümör lizis sendromunu ve ateş, üşüme, sertlik, hipotansiyon, ürtiker, anjiyoödem ve diğer
+semptomlara ek olarak tümör lizis sendromu özelliklerini içermiştir (bkz. Bölüm 4.8).
+Şiddetli sitokin salınım sendromu ateş, titreme, kasılma, ürtiker ve anjiyoödeme ek olarak
+sıklıkla bronkospazm ve hipoksinin eşlik ettiği şiddetli dispne ile karakterizedir. Bu
+sendrom tümör lizis sendromunun hiperürisemi, hiperkalemi, hipokalemi, hiperfosfatemi,
+akut böbrek yetmezliği, laktat dehidrojenaz (LDH) artışı gibi bazı özellikleriyle ilişkili
+olabilir ve akut solunum yetmezliğine ve ölüme yol açabilir. Akut solunum yetmezliğine,
+göğüs röntgeninde görünebilen pulmoner interstisyel infiltrasyon veya ödem gibi olaylar
+eşlik edebilir. Sendrom, genellikle ilk infüzyonun başlatılmasından sonraki bir ya da iki saat
+içinde kendini gösterir. Geçmişte pulmoner yetmezliği olan hastalar veya pulmoner tümör
+infiltrasyonu bulunan hastalar daha fazla risk altında olabilirler ve bu hastalar daha dikkatli
+tedavi edilmelidirler. Şiddetli sitokin salınım sendromu gelişen hastaların infüzyonu derhal
+kesilmelidir (bkz. Bölüm 4.2) ve bu hastalara agresif semptomatik tedavi uygulanmalıdır.
+Klinik semptomlarda başta görülen iyileşmenin ardından kötüleşme olabileceğinden, bu
+hastalar tümör lizis sendromu ve pulmoner infiltrasyon geçene kadar veya dışlanana kadar
+yakından izlenmelidir. Belirtilerin ve semptomların tamamen ortadan kalkması ardından
+hastalara uygulanan tedavi, nadiren şiddetli sitokin salınım sendromunun tekrarlamasıyla
+sonuçlanmıştır.
+Özellikle şiddetli sitokin salınım sendromu açısından yüksek risk altında olabilecek, KLL’si
+olan hastalar gibi yüksek tümör yükü veya dolaşımda yüksek sayıda malign hücresi (≥25 x
+109/L) olan hastalar aşırı dikkatle tedavi edilmelidir. Bu hastalar ilk infüzyonun başından
+sonuna kadar çok yakından gözlemlenmelidir. Bu hastalarda, ilk infüzyon sırasında düşük
+bir infüzyon hızının kullanılması veya ilk kür sırasında ve lenfosit sayısının hala >25 x 109/L
+olması durumunda takip eden kürlerde dozun iki güne bölünerek verilmesi göz önünde
+bulundurulmalıdır.
+11/60İnfüzyonla ilişkili tüm advers reaksiyon tipleri, tedavi uygulanan hastaların %77’sinde
+gözlenmiştir (hastaların %10’unda hipotansiyon ve bronkospazmın eşlik ettiği sitokin
+salınım sendromu dahil, bkz. Bölüm 4.8). Bu semptomlar genellikle MABTHERA
+infüzyonunun kesilmesiyle ve bir antipiretik, bir antihistaminik ve bazı durumlarda oksijen,
+intravenöz serum fizyolojik veya bronkodilatörlerin ve gerektiğinde glukokortikoidlerin
+uygulanmasıyla geri döndürülebilir olmuştur. Şiddetli reaksiyonlar için yukarıda yer alan
+sitokin salınım sendromuna bakınız.
+Hastalara intravenöz yolla protein verilmesinden sonra anafilaktik reaksiyonlar veya diğer
+aşırı duyarlılık reaksiyonları bildirilmiştir. Sitokin salınım sendromunun tersine, gerçek aşırı
+duyarlılık reaksiyonları tipik şekilde infüzyona başlanmasından sonra dakikalar içinde
+oluşur. MABTHERA uygulaması sırasındaki alerjik reaksiyon olgularında acil kullanım
+için, aşırı duyarlılık reaksiyonlarının tedavisine yönelik tedaviler örn., epinefrin (adrenalin),
+antihistaminikler ve glukokortikoidler kullanıma hazır bulundurulmalıdır. Anafilaksinin
+klinik belirtileri, sitokin salınım sendromunun klinik belirtilerine (yukarıda tanımlanmıştır)
+benzer görünebilir. Aşırı duyarlılığa bağlı reaksiyonlar, sitokin salınımına bağlı
+reaksiyonlardan daha az sıklıkta bildirilmiştir.
+Bazı vakalarda bildirilen diğer reaksiyonlar miyokard enfarktüsü, atriyal fibrilasyon,
+pulmoner ödem ve akut geri döndürülebilir trombositopeni olmuştur.
+MABTHERA infüzyon sırasında hipotansiyon oluşabileceğinden, MABTHERA
+infüzyonundan önceki 12 saatlik süre boyunca herhangi bir antihipertansif ilacın alınmamış
+olmasına dikkat edilmelidir.
+Kardiyak hastalıklar
+MABTHERA ile tedavi edilen hastalarda anjina pektoris, atriyal flatter ve fibrilasyon gibi
+kardiyak aritmiler, kalp yetmezliği ve/veya miyokard enfarktüsü meydana gelmiştir. Bu
+nedenle kardiyak hastalık ve/veya kardiyotoksik kemoterapi öyküsü olan hastalar yakından
+izlenmelidir.
+Hematolojik toksisiteler
+Monoterapi şeklinde uygulanan MABTHERA miyelosupresif olmadığı halde, nötrofil
+sayısı <1,5 x 109/L ve/veya trombosit sayısı <75 x 109/L olan hastalar MABTHERA ile
+tedavi edilirken dikkatli olunmalıdır, çünkü bu tip hastalarla ilgili klinik deneyimler
+sınırlıdır. MABTHERA, otolog kemik iliği transplantasyonu olan 21 hastada ve
+miyelotoksisite indüklenmediği halde kemik iliği fonksiyonlarında azalma olan diğer risk
+gruplarında kullanılmıştır.
+MABTHERA tedavisi sırasında düzenli olarak nötrofil ve trombosit sayımı dahil, kan
+hücrelerinin sayımı yapılmalıdır.
+Enfeksiyonlar
+MABTHERA tedavisi sırasında ölümcül, ciddi enfeksiyonlar meydana gelebilir (bkz.
+Bölüm 4.8). MABTHERA aktif, şiddetli enfeksiyonu (örn. tüberküloz, sepsis ve fırsatçı
+enfeksiyonlar, bkz. Bölüm 4.3) bulunan hastalara uygulanmamalıdır.
+12/60Doktorlar, tekrarlayan veya kronik enfeksiyon öyküsü bulunan veya hastayı ciddi
+enfeksiyonlara eğilimli hale getirecek şekilde altta yatan koşullara sahip hastalarda
+kullanırken dikkatli olmalıdırlar (bkz. Bölüm 4.8).
+MABTHERA tedavisi alan olgularda, ölümle sonuçlanan fulminan hepatit de dahil olmak
+üzere hepatit B reaktivasyonu vakaları bildirilmiştir. Bu vakaların büyük çoğunluğu ayrıca
+sitotoksik kemoterapiye maruz kalmıştır. Relaps/refrakter KLL hastalarında yapılan bir
+çalışmadan sağlanan kısıtlı veriler, MABTHERA tedavisinin ayrıca primer hepatit B
+enfeksiyonlarının sonucunu kötüleştirebildiğini göstermektedir. MABTHERA ile tedaviye
+başlanmadan önce bütün hastalar (sadece HBV enfeksiyon riski olanlar değil) hepatit B
+virüsü (HBV) açısından taranmalıdır. Bu ölçümler en azından hepatit B yüzey antijeni
+(HBsAg)-durumu ve hepatit B çekirdek antikoru (HBcAb)-durumunu içermelidir. Bunlar
+yerel kılavuzlara göre diğer uygun markörler ile tamamlanmalıdır. Aktif hepatit B hastalığı
+olan hastalar MABTHERA ile tedavi edilmemelidir. Pozitif hepatit B serolojisi olan hastalar
+(HBsAg veya HBcAb) tedavi başlangıcından önce karaciğer hastalıkları uzmanına
+danışmalıdır ve bu hastalar hepatit B reaktivasyonunun önlenmesi için yerel medikal
+standartlara göre takip edilmeli ve yönetilmelidir.
+NHL ve KLL’de MABTHERA’nın pazarlama sonrası kullanımı sırasında çok seyrek PML
+vakaları bildirilmiştir (bkz. Bölüm 4.8). Hastaların büyük çoğunluğu MABTHERA’ yı
+kemoterapi ile birlikte veya hematopoetik kök hücre transplantasyonunun bir parçası olarak
+almışlardır.
+İmmünizasyonlar
+NHL ve KLL hastalarında, MABTHERA tedavisini takiben canlı viral aşılarla yapılan
+immünizasyonun güvenliliği üzerinde çalışma yapılmamıştır ve canlı virüs aşılarıyla
+aşılama yapılması önerilmemektedir. MABTHERA ile tedavi edilen hastalar canlı olmayan
+aşılarla aşılanabilirler ancak canlı olmayan aşılara yanıt oranları düşebilir. Randomize
+olmayan bir çalışmada monoterapi olarak MABTHERA alan relaps, düşük evreli NHL
+hastaları ile sağlıklı, tedavi görmemiş kontrol vakaları karşılaştırıldığında, tetanoz hatırlatıcı
+antijenine (%16’ya karşılık %81) ve Keyhole Limpet Haemocyanin (KLH) neoantijenine
+(antikor titrelerinde >2 katı artışa göre değerlendirildiğinde %4’e karşılık %76) düşük
+oranda yanıt gerçekleşmiştir. Her iki hastalık arasındaki benzerlikler dikkate alındığında,
+KLL olan hastalar için benzer bulgular öngörülebilir fakat klinik çalışmalarda
+incelenmemiştir.
+Bir grup antijene karşı (Streptokokus pnömoni, influenza A, kabakulak, kızamıkçık ve
+suçiçeği) ortalama tedavi öncesi antikor titreleri MABTHERA tedavisi sonrasında en az 6
+ay süreyle korunmuştur.
+Deri reaksiyonları
+Toksik Epidermal Nekroliz (Lyell Sendromu) ve Stevens-Johnson Sendromu gibi
+bazılarının ölümcül sonuçları olabilen ciddi cilt reaksiyonları bildirilmiştir (bkz. Bölüm 4.8).
+MABTHERA ile ilişkili olmasından şüphelenilen bu gibi durumlarda tedavi kalıcı olarak
+durdurulmalıdır.
+Pediyatrik popülasyon
+13/603 yaşının altındaki hastalar için kısıtlı veri mevcuttur (bkz. Bölüm 5.1).
+Granulamatoz Polianjiitis (Wegener) (GPA),Mikroskobik Polianjiitis (MPA) ve Pemfigus
+Vulgaris
+İnfüzyonla ilişkili reaksiyonlar
+MABTHERA, sitokinlerin ve/veya diğer kimyasal mediyatörlerin salıverilmesine bağlı
+olabilen infüzyonla ilişkili reaksiyonlarla ilişkilendirilmiştir.
+Pazarlama sonrası koşullarda, romatoid artrit olan hastalarda ölümcül sonuçlara neden
+olabilen infüzyonla ilişkili şiddetli reaksiyonlar bildirilmiştir. Klinik çalışmalarda romatoid
+artrit hastalarında bildirilen infüzyona bağlı olguların çoğu hafif ve orta ciddiyette olmuştur.
+En yaygın semptomlar baş ağrısı, kaşıntı, boğazda tahriş, kızarıklık, döküntü, ürtiker,
+hipertansiyon ve pireksidir. Genel olarak, herhangi bir tedavi kürünün birinci infüzyonunun
+ardından herhangi bir infüzyon reaksiyonu yaşayan hastaların oranı, ikinci infüzyonun
+ardından görülene oranla daha yüksek olmuştur. İİR insidansı sonraki kürlerle azalmıştır
+(bkz. Bölüm 4.8). Bildirilen reaksiyonlar MABTHERA infüzyonunun hızının azaltılması ya
+da kesilmesine ve bir antipiretik, antihistaminik ve seyrek olarak oksijen, intravenöz serum
+fizyolojik veya bronkodilatörün ve gerektiğinde glukokortikoidlerin uygulanmasına bağlı
+olarak genellikle geri dönüşümlü olmuştur. Önceden kalp sorunları bulunan ve önceden
+kardiyopulmoner advers reaksiyon yaşamış olan hastalar dikkatlice izlenmelidir. İnfüzyonla
+ilişkili reaksiyonun ciddiyetine göre ve gereken müdahaleye göre, MABTHERA kullanımı
+geçici veya kalıcı olarak bırakılmalıdır. Olguların çoğunda, semptomlar tamamen
+giderildiğinde, infüzyon hızı %50 oranında (örn. 100 mg/saatten 50 mg/saat hızına)
+azaltılarak infüzyona devam edilebilir.
+MABTHERA uygulaması sırasındaki alerjik reaksiyon olgularında acil kullanım için, aşırı
+duyarlılık reaksiyonlarının tedavisine yönelik tedaviler örn. epinefrin (adrenalin),
+antihistaminikler ve glukokortikoidler kullanıma hazır bulundurulmalıdır.
+Orta şiddette kalp yetmezliği (NYHA sınıf III) veya ciddi, kontrol altına alınmamış
+kardiyovasküler hastalığı olan hastalarda MABTHERA kullanımıyla ilgili güvenlilik verisi
+bulunmamaktadır. MABTHERA ile tedavi edilen hastalarda, atriyal fibrilasyon ve flatter ile
+anjina pektoris gibi önceden mevcut olan iskemik kardiyak koşulların belirti verdiği
+gözlemlenmiştir. Bu sebeple, MABTHERA tedavisinden önce, bilinen bir kardiyak öyküsü
+olan ve önceden kardiyopulmoner advers reaksiyon yaşamış olan hastalarda, infüzyon
+reaksiyonlarından kaynaklanan kardiyovasküler komplikasyonların riski dikkate alınmalı
+ve hastalar uygulama sırasında dikkatle gözlenmelidir. MABTHERA infüzyonu sırasında
+hipotansiyon oluşabileceğinden, MABTHERA infüzyonu öncesindeki 12 saatlik süre
+boyunca herhangi bir antihipertansif ilacın alınmamış olmasına dikkat edilmelidir.
+GPA ve MPAve pemfigus vulgarisi olan hastalarda infüzyonla ilgili reaksiyonlar, klinik
+çalışmalarda ve pazarlama sonrası deneyimde Romatoid artrit hastalarında görülenlere
+benzer olmuştur (bkz. Bölüm 4.8).
+Kardiyak hastalıklar
+MABTHERA ile tedavi edilen hastalarda anjina pektoris, atriyal çarpıntı ve fibrilasyon gibi
+kardiyak aritmiler, kalp yetmezliği ve/veya miyokard enfarktüsü meydana gelmiştir. Bu
+14/60nedenle kardiyak hastalık öyküsü olan hastalar yakından izlenmelidir (bkz. yukarıda
+İnfüzyonla ilişkili reaksiyonlar).
+Enfeksiyonlar
+MABTHERA’nın etki mekanizması ve B hücrelerinin normal immün cevabın
+sürdürülmesindeki önemli rol oynaması bilgisine dayanarak, MABTHERA tedavisi
+ardından hastalarda artan enfeksiyon riski taşımaktadır (bkz. Bölüm 5.1). MABTHERA
+tedavisi sırasında ölümcül, ciddi enfeksiyonlar meydana gelebilir (bkz. Bölüm 4.8).
+MABTHERA aktif, şiddetli enfeksiyonu (örn. tüberküloz, sepsis ve fırsatçı enfeksiyonlar,
+bkz. Bölüm 4.3) bulunan veya bağışıklığı ciddi düzeyde baskılanmış (örn. CD4 veya CD8
+düzeyleri çok düşük olan) hastalara uygulanmamalıdır. Doktorlar, tekrarlayan veya kronik
+enfeksiyon öyküsü bulunan veya hastayı ciddi enfeksiyonlara eğilimli hale getirecek şekilde
+altta yatan koşullara (örn. hipogamaglobulinemi) sahip hastalarda kullanırken dikkatli
+olmalıdırlar (bkz. Bölüm 4.8). MABTHERA tedavisine başlanmadan önce immunoglobulin
+düzeylerinin saptanması önerilir.
+MABTHERA tedavisi ardından enfeksiyon belirti ve semptomları bildiren hastalar dikkatli
+şekilde değerlendirilmeli ve uygun şekilde tedavi edilmelidir. Sonraki MABTHERA kürü
+uygulanmadan önce, hastalar potansiyel enfeksiyon riski açısından tekrar
+değerlendirilmelidir.
+Romatoid artrit ve Sistemik Lupus Eritematozus (SLE) ile vaskülit dahil otoimmün
+hastalıkların tedavisi için MABTHERA kullanımı ardından çok seyrek ölümcül PML
+vakaları bildirilmiştir.
+Hepatit B Enfeksiyonları
+MABTHERA alan, GPA ve MPAhastalarında, ölümcül sonuçlanan da dahil olmak üzere
+hepatit B reaktivasyonu vakaları bildirilmiştir.
+MABTHERA ile tedaviye başlanmadan önce bütün hastalar hepatit B virüsü (HBV)
+açısından taranmalıdır. Bu ölçümler en azından hepatit B yüzey antijeni (HBsAg)-durumu
+ve hepatit B çekirdek antikoru (HBcAb)-durumunu içermelidir. Bunlar yerel kılavuzlara
+göre diğer uygun markörler ile tamamlanmalıdır. Aktif hepatit B hastalığı olan hastalar
+MABTHERA ile tedavi edilmemelidir. Pozitif hepatit B serolojisi olan hastalar (HBsAg
+veya HBcAb) tedavi başlangıcından önce karaciğer hastalıkları uzmanına danışmalıdır ve
+bu hastalar hepatit B reaktivasyonunun önlenmesi için yerel medikal standartlara göre takip
+edilmeli ve yönetilmelidir.
+Geç nötropeni
+Her MABTHERA küründen önce ve tedavinin sonlandırılması ardından 6 aya kadar düzenli
+olarak ve enfeksiyon belirti veya semptomlarının görülmesi üzerine, kan nötrofil ölçümü
+yapılmalıdır (bkz. Bölüm 4.8).
+Deri reaksiyonları
+Toksik Epidermal Nekroliz (Lyell Sendromu) ve Stevens-Johnson Sendromu gibi
+bazılarının ölümcül sonuçları olabilen ciddi cilt reaksiyonları bildirilmiştir (bkz. Bölüm 4.8).
+15/60MABTHERA ile ilişkili olmasından şüphelenilen bu gibi durumlarda tedavi kalıcı olarak
+durdurulmalıdır.
+İmmünizasyon
+Hekimler, MABTHERA tedavisinden önce hastanın aşılanma durumunu değerlendirmelidir.
+Hastaların MABTHERA tedavisine başlamadan önce güncel aşılama kılavuzlarına uygun
+olarak aşılanması önerilmektedir. Aşılama, ilk MABTHERA uygulamasından en az 4 hafta
+önce tamamlanmış olmalıdır.
+MABTHERA tedavisini takiben canlı viral aşılarla yapılan immünizasyonun güvenliliği
+üzerinde çalışma yapılmamıştır. Bu nedenle MABTHERA tedavisi sırasında veya periferik
+B hücre deplesyonu varken, canlı virüs aşılarıyla aşılama yapılması önerilmemektedir.
+MABTHERA ile tedavi edilen hastalar canlı olmayan aşılarla aşılanabilirler ancak canlı
+olmayan aşılarla yanıt oranları düşebilir. Randomize bir çalışmada, MABTHERA ve
+metotreksat ile tedavi edilen RA hastaları ile yalnızca metotreksat alan hastalar
+MABTHERA kullanımından en az 6 ay sonra aşılandıklarında, tetanoz hatırlatıcı antijenine
+karşı benzer yanıt oranı (%39’a karşılık %42), pnömokokkal polisakkarid aşısı (en az 2
+pnömokokkal antikor serotipine karşı %43’e karşılık %82) ve KLH neoantijenine (%47’ye
+karşılık %93) karşı ise azalmış yanıt oranı göstermişlerdir. MABTHERA tedavisi sırasında
+canlı olmayan aşılama gerekli olursa, bunlar sonraki MABTHERA kürüne başlanmadan en
+az 4 hafta önce tamamlanmalıdır.
+Malignite
+İmmunomodülatör ilaçlar malignite riskini arttırabilir. Bununla birlikte, mevcut veriler,
+otoimmün endikasyonlarda kullanılan rituximab için, altta yatan otoimmün durumla
+halihazırda ilişkili olan malignite riskinin ötesinde, artan bir malignite riskini işaret
+etmemektedir.
+Yardımcı maddeler
+MABTHERA, flakon başına 11,5 mmol (263,2 mg) sodyum ihtiva eder. Sodyum miktarı
+1 mmol’den (23 mg) fazladır. Bu durum, kontrollü sodyum diyetinde olan hastalar için göz
+önünde bulundurulmalıdır.
+Biyoteknolojik ürünlerin takip edilebilirliği
+Biyoteknolojik ürünlerin takip edilebilirliğinin sağlanması için uygulanan ürünün ticari ismi
+ve seri numarası mutlaka hasta dosyasına kaydedilmelidir.
+4.5 Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+MABTHERA ile olası ilaç etkileşimleri konusunda sınırlı veri vardır.
+KLL hastalarında, MABTHERA ile kombine kullanımın fludarabin veya siklofosfamidin
+farmakokinetiği üzerine bir etkisinin olmadığı, bununla birlikte fludarabin veya
+siklofosfamidin de MABTHERA farmakokinetiği üzerine görünür bir etkisinin olmadığı
+görülmüştür.
+16/60İnsan anti-mürin antikoru (HAMA) veya anti-ilaç antikoru (ADA) titrelerine sahip hastalar
+tanı veya tedavi amacıyla başka monoklonal antikorlarla tedavi edildiklerinde alerjik
+reaksiyonlar veya aşırı duyarlılık reaksiyonları geliştirebilirler.
+Özel popülasyonlara ilişkin ek bilgiler
+Herhangi bir etkileşim çalışması yapılmamıştır.
+4.6 Gebelik ve laktasyon
+Genel tavsiye
+Gebelik kategorisi: C
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (kontrasepsiyon)
+B hücre deplesyonu olan hastalarda rituximabın uzun retansiyon süresi nedeniyle, üreme
+çağındaki kadınlar MABTHERA tedavisi sırasında ve bu tedaviyi takip eden 12 ay boyunca
+etkili doğum kontrol yöntemleri kullanmalıdır.
+Gebelik dönemi
+IgG immunoglobulinlerinin plasenta engelini geçtiği bilinmektedir.
+MABTHERA’nın gebe kadınlarda kullanımına ilişkin yeterli veri mevcut değildir.
+Hayvanlar üzerinde yapılan araştırmalar üreme toksisitesinin bulunduğunu göstermiştir
+(bkz. Bölüm 5.3). İnsanlara yönelik potansiyel risk bilinmemektedir.
+Anne vasıtasıyla MABTHERA’ya maruz kalan yenidoğandaki B hücre seviyeleri klinik
+çalışmalarla araştırılmamıştır. Gebe kadınlarda yapılmış çalışmalarda yeterli ve kontrollü
+veri elde edilememiştir, ancak gebelik süresince anneleri rituximaba maruz kalmış olan bazı
+yenidoğanlarda geçici B hücre deplesyonu ve lenfositopeni bildirilmiştir. Benzer etkiler
+hayvan çalışmalarında da gözlemlenmiştir (bkz. Bölüm 5.3). Bu sebeplerle MABTHERA,
+potansiyel fayda riskten fazla olmadığı sürece gebe kadınlarda uygulanmamalıdır.
+Laktasyon dönemi
+Rituximabın anne sütüne geçip geçmediğine dair sınırlı veriler sütte çok düşük rituximab
+konstrasyonlarının (göreceli bebek dozu %0,4’ten az) olduğunu göstermektedir. Anne sütü
+ile beslenen bebeklerin takip edildiği az sayıda vaka, 2 yıla kadar normal büyüme ve
+gelişmeyi tamamlamıştır. Ancak bu veriler sınırlı olduğundan ve emzirilen bebeklerin uzun
+vadeli sonuçları bilinmediğinden MABTHERA tedavisi sırasında ve bu tedaviden 6 ay
+sonrasına kadar emzirme önerilmez.
+Üreme yeteneği/ Fertilite
+Hayvan çalışmaları, rituximabın üreme organları üzerine zararlı etkileri olduğunu
+göstermemiştir.
+17/604.7 Araç ve makine kullanımı üzerindeki etkiler
+MABTHERA’nın araç veya makine kullanma becerisine etkisini belirleyecek çalışmalar
+yapılmamıştır, ancak farmakolojik aktivite ve bugüne kadar bildirilen yan etkiler bu etkinin
+beklenmesi gerektiğini göstermez.
+4.8 İstenmeyen etkiler
+Hodgkin-dışı lenfoma ve kronik lenfositik lösemi hastalarından edinilen deneyimler
+Güvenlilik profilinin özeti
+Hodgkin-dışı lenfoma ve kronik lenfositik lösemide MABTHERA’nın genel güvenlilik
+profili, klinik çalışmalarda ve pazarlama sonrası gözetimde yer alan hastalardan gelen
+verilere dayanmaktadır. Bu hastalar MABTHERA monoterapisiyle (indüksiyon tedavisi
+şeklinde veya indüksiyon tedavisini takiben idame tedavi şeklinde) veya kemoterapi ile
+kombinasyonuyla tedavi edilmiştir.
+MABTHERA alan hastalarda en sık gözlenen advers ilaç reaksiyonları (AİR’ler), hastaların
+çoğunluğunda ilk infüzyon sırasında oluşan infüzyonla ilişkili reaksiyonlar olmuştur.
+İnfüzyonla ilişkili semptomların insidansı, sonraki infüzyonlarla belirgin şekilde azalmıştır
+ve sekiz doz MABTHERA’dan sonra %1’den düşük olmuştur.
+Enfeksiyöz olaylar (ağırlıklı şekilde bakteriyel ve viral), yapılan klinik çalışmalar sırasında
+NHL hastalarının yaklaşık %30-55’inde ve KLL hastalarının %30-50’sinde meydana
+gelmiştir.
+En sık bildirilen veya gözlenen ciddi advers reaksiyonlar:
+ İnfüzyonla ilişkili reaksiyonlar (sitokin salınım sendromu, tümör lizis sendromu dahil),
+bkz. Bölüm 4.4
+ Enfeksiyonlar, bkz. Bölüm 4.4
+ Kardiyovasküler olaylar, bkz. Bölüm 4.4 olmuştur.
+Bildirilen diğer ciddi AİR’ler hepatit B reaktivasyonunu ve PML’yi içermektedir (bkz.
+Bölüm 4.4).
+Advers reaksiyonların tablo halinde listesi
+Tek başına veya kemoterapiyle kombinasyon halinde MABTHERA ile bildirilen AİR’lerin
+sıklıkları aşağıdaki tabloda özetlenmektedir. Görülme sıklığı çok yaygın (≥1/10), yaygın
+(≥1/100 ila <1/10), yaygın olmayan (≥1/1.000 ila <1/100), seyrek (≥1/10.000 ila <1/1.000),
+çok seyrek (<1/10.000) ve bilinmiyor (eldeki verilerden hareketle tahmin edilemiyor) olarak
+belirtilmiştir. Yalnızca pazarlama sonrası gözetim sırasında belirlenen ve sıklıkları tahmin
+edilemeyen AİR’ler, “bilinmiyor” şeklinde listelenmektedir. Her sıklık grubunda,
+istenmeyen etkiler azalan ciddiyet sırasında gösterilmiştir.
+18/60Tablo 3 NHL ve KLL hastalığı olan, monoterapi/idame şeklinde veya
+kemoterapiyle kombinasyon halinde MABTHERA ile tedavi uygulanan hastalarda
+klinik çalışmalarda veya pazarlama sonrası gözetim sırasında bildirilen AİR’ler
+Sistem Organ Sınıfı Çok Yaygın Yaygın Yaygın Seyrek Çok Seyrek Bilinmiyor
+Olmayan
+Enfeksiyonlar ve bakteriyel sepsis, ciddi viral PML
+enfestasyonlar enfeksiyonlar, +pnömoni, enfeksiyo
+viral +febril n2
+enfeksiyonlar, enfeksiyon, Pnömositi
++bronşit +herpes zoster, s jiroveci
++solunum yolu
+enfeksiyonu,
+mantar
+enfeksiyonları,
+etiyolojisi
+bilinmeyen
+enfeksiyonlar,
++akut bronşit,
++sinüzit, hepatit
+B1
+Kan ve lenf sistemi nötropeni, anemi, pıhtılaşma serum IgM geç
+hastalıkları lökopeni, +pansitopeni, bozuklukları düzeylerinde nötropeni3
++febril +granülositopeni , aplastik geçici artış3
+nötropeni, anemi,
++trombositope hemolitik
+ni anemi,
+lenfadenopa
+ti
+Bağışıklık sistemi infüzyonla aşırı duyarlılık anafilaksi tümör lizis infüzyonla
+hastalıkları ilişkili sendromu, ilişkili akut
+reaksiyonlar4, sitokin geri
+anjiyoödem salınım döndürülebili
+sendromu4, r
+serum trombositope
+hastalığı ni4
+Metabolizma ve hiperglisemi,
+beslenme hastalıkları kilo kaybı,
+periferik ödem,
+yüz ödemi,
+LDH artışı,
+hipokalsemi
+Psikiyatrik depresyon,
+hastalıklar sinirlilik
+Sinir sistemi parestezi, disgözi periferik kraniyal
+hastalıkları hipostezi, nöropati, nöropati,
+ajitasyon, fasiyal sinir diğer
+insomnia, felci5 duyuların
+vazodilatasyon, kaybı5
+baş dönmesi,
+anksiyete
+Göz hastalıkları lakrimasyon şiddetli
+bozukluğu, görme
+konjonktivit kaybı5
+Kulak ve iç kulak kulak çınlaması, işitme kaybı5
+hastalıkları kulak ağrısı
+19/60Kardiyak hastalıklar +miyokard +sol şiddetli kalp
+enfarktüsü4 ve 6, ventrikül kardiyak yetmezliği4
+aritmi, +atriyal yetmezliği, bozuklukl ve 6
+fibrilasyon, +supraventri ar4 ve 6
+taşikardi, küler
++kardiyak taşikardi,
+bozukluk +ventriküler
+taşikardi,
++anjina,
++miyokardiy
+al iskemi,
+bradikardi
+Vasküler hastalıklar hipertansiyon, vaskülit
+ortostatik (ağırlıklı
+hipotansiyon, olarak
+hipotansiyon kütanöz),
+lökositoklast
+ik vaskülit
+Solunum, göğüs bronkospazm4, astım, interstisy solunum akciğer
+bozuklukları ve solunum bronşiyolit el akciğer yetmezliği4 infiltrasyonu
+mediastinal hastalığı, göğüs obliterans, hastalığı7
+hastalıklar ağrısı, dispne, akciğer
+öksürükte artış, hastalığı,
+rinit hipoksi
+Gastrointestinal bulantı kusma, diyare, karın gastrointesti
+hastalıklar karın ağrısı, genişlemesi nal
+disfaji, stomatit, perforasyon7
+konstipasyon,
+dispepsi,
+anoreksi, boğaz
+iritasyonu
+Deri ve deri altı doku kaşıntı, ürtiker, terleme, şiddetli
+hastalıkları döküntü, gece terlemeleri, bullöz deri
++alopesi +deri hastalığı reaksiyonları
+, Stevens-
+Johnson
+sendromu,
+toksik
+epidermal
+nekroliz
+(Lyell
+senromu)7
+Kas-iskelet hipertoni,
+bozuklukları, bağ miyalji, artralji,
+doku ve hastalıkları sırt ağrısı,
+boyun ağrısı,
+ağrı
+Böbrek ve idrar yolu böbrek
+hastalıkları yetmezliği4
+Genel bozukluklar ve ateş, titreme, tümör ağrısı, infüzyon
+uygulama bölgesine asteni, baş kızarıklık, yeri ağrısı
+ilişkin hastalıklar ağrısı kırıklık, soğuk
+algınlığı
+sendromu,
++yorgunluk,
++nöbet titremesi,
++çoklu organ
+yetmezliği4
+20/60Laboratuvar azalmış IgG
+bulguları düzeyleri
+Her bir istenmeyen etki için görülme sıklığı, sadece ciddi (derece ≥3 Ulusal Kanser
+Enstitüsü (NCI) yaygın toksisite kriterleri) reaksiyonların dayandırıldığı “+” ile
+işaretlenmiş terimler haricinde, her dereceden (hafif şiddetten ciddiye kadar) reaksiyona
+dayandırılmıştır. Sadece çalışmalarda gözlenen en yüksek sıklık rapor edilmektedir.
+1 Reaktivasyonu ve primer enfeksiyonları içerir; sıklık, nüks eden/refrakter KLL’de R-FC
+rejimine dayanmaktadır.
+2 Ayrıca aşağıdaki enfeksiyon bölümüne bakınız
+3 Ayrıca aşağıdaki hematolojik advers reaksiyonlar bölümüne bakınız
+4 Ayrıca aşağıdaki infüzyonla ilişkili reaksiyonlar bölümüne bakınız. Nadiren ölümcül
+vakalar bildirilmiştir.
+5 Kraniyal nöropati belirti ve semptomları. MABTHERA tedavisinin tamamlanmasından
+sonra çeşitli zamanlardan birkaç aya kadar oluşmuştur.
+6 Başlıca geçmiş kardiyak hastalığı olan ve/veya kardiyotoksik kemoterapi almış
+hastalarda gözlenmiş ve çoğunlukla infüzyonla ilişkili reaksiyonlarla bağlantılı olmuştur.
+7 Ölümcül vakaları içerir
+Aşağıdaki istenmeyen etkiler, klinik çalışmalar sırasında advers olaylar olarak rapor
+edilmiştir, bununla birlikte, kontrol kollarına kıyasla MABTHERA kollarında benzer ya da
+daha düşük oranda rapor edilmiştir: hematotoksisite, nötropenik infeksiyon, üriner sistem
+infeksiyonu, duyusal bozukluk, pireksi.
+MABTHERA ile ilgili klinik çalışmalarda hastaların %50’sinden fazlasında infüzyon ile
+ilişkili bir reaksiyonu düşündüren belirtiler ve semptomlar bildirilmiş ve bunlar çoğunlukla
+ilk infüzyon sırasında ve genelde ilk bir iki saat içinde görülmüştür. Bu belirtiler çoğunlukla
+ateş, titreme ve kasılmadan oluşmaktadır. Diğer semptomlar ise kızarma, anjiyoödem,
+bronkospazm, kusma, bulantı, ürtiker/döküntü, yorgunluk, baş ağrısı, boğazda tahriş, rinit,
+kaşıntı, ağrı, taşikardi, hipertansiyon, hipotansiyon, dispne, dispepsi, asteni ve tümör lizis
+sendromuna ilişkin belirleyici özelliklerdir. Vakaların %12’sinde infüzyonla ilişkili şiddetli
+reaksiyonlar (bronkospazm, hipotansiyon gibi) meydana gelmiştir.
+Bazı vakalarda bildirilen diğer reaksiyonlar ise miyokard enfarktüsü, atriyal fibrilasyon,
+pulmoner ödem ve akut reversibl trombositopenidir. Anjina pektoris veya konjestif kalp
+yetmezliği veya şiddetli kardiyak bozukluklar (kalp yetmezliği, miyokard enfarktüsü, atriyal
+fibrilasyon) gibi önceden var olan kardiyak hastalıkların, pulmoner ödemin, çoklu organ
+yetmezliğinin, tümör lizis sendromunun, sitokin salınım sendromunun, böbrek
+yetmezliğinin ve solunum yetmezliğinin şiddetlenmesi çok az veya bilinmeyen bir sıklıkta
+bildirilmiştir. İnfüzyon ile ilgili semptomların insidansı, sonraki infüzyonlarla önemli
+ölçüde azalmış ve MABTHERA (içeren) tedavinin sekizinci kürüyle %1’den daha aza
+inmiştir.
+Seçilmiş advers reaksiyonların tanımlanması
+Enfeksiyonlar
+MABTHERA hastaların %70 ila %80’inde B hücre sayısında düşmeye neden olmuş, ancak
+hastaların sadece küçük bir kısmında serum immunoglobülinlerinde azalma olmuştur.
+21/60Randomize çalışmaların MABTHERA içeren kolunda Herpes zoster’in yanı sıra lokalize
+olmuş kandida enfeksiyonları daha yüksek bir insidansta bildirilmiştir. MABTHERA
+monoterapisi ile tedavi edilen hastaların %4’ünde şiddetli enfeksiyonlar raporlanmıştır.
+Gözlem grubu ile karşılaştırıldığında, MABTHERA ile 2 yıla kadarki idame tedavisi
+sırasında derece 3 veya 4 enfeksiyonlar dahil genel enfeksiyon sıklığı daha yüksektir. 2
+yıllık tedavi periyodu boyunca rapor edilen enfeksiyonlar bakımından hiçbir kümülatif
+toksisite bulunmamaktadır. Ek olarak MABTHERA tedavisiyle bir kısmı ölümle
+sonuçlanan yeni, reaktive olan veya şiddetlenen diğer ciddi viral enfeksiyonlar rapor
+edilmiştir. Hastaların büyük çoğunluğu MABTHERA’yı kemoterapi ile birlikte veya
+hematopoetik kök hücre transplantasyonunun bir parçası olarak almışlardır. Bu çeşitli ciddi
+viral enfeksiyonlara herpes virüsleri nedeniyle oluşan enfeksiyonlar (sitomegalovirüs,
+Varisella zoster virüs ve Herpes simpleks virüs), JC virüs (PML) ve hepatit C virüsü örnek
+verilebilir. Klinik çalışmalarda hastalık progresyonundan ve tekrar tedaviden sonra ölüme
+neden olabilen PML vakaları bildirilmiştir. Hepatit B reaktivasyonu vakaları bildirilmiştir,
+bu vakaların çoğunluğu sitotoksik kemoterapi ile birlikte MABTHERA alan hastalarda
+görülmüştür. Relaps/refrakter KLL hastalarında, derece 3/4 hepatit B enfeksiyonunun
+(reaktivasyon ve primer enfeksiyon) insidansı R-FC’de %2’ye karşı FC’de %0 olmuştur.
+Önceden Kaposi sarkomu olan ve rituximab kullanan hastalarda Kaposi sarkomu’nda
+ilerleme gözlenmiştir. Bu vakalar, onaylı olmayan endikasyonlara bağlı kullanım sonucu
+meydana gelmiştir ve hastaların da çoğu HIV pozitif hastalardır.
+Hematolojik advers reaksiyonlar
+4 hafta boyunca MABTHERA monoterapisi verilerek yapılan klinik çalışmalarda,
+hastaların küçük bir kısmında hematolojik anormallikler meydana gelmiştir ve bunlar
+genelde hafif ve geri dönüşümlüdür. Hastaların %4,2’sinde ciddi nötropeni (derece
+3/4), %1,1’inde anemi ve %1,7’sinde trombositopeni bildirilmiştir. MABTHERA ile
+yapılan 2 yıla kadarki idame tedavisi sırasında, gözlem ile karşılaştırıldığında daha yüksek
+bir insidansta lökopeni (%2’ye karşı %5, derece 3/4) ve nötropeni (%4’e karşı %10, derece
+3/4) bildirilmiştir. Trombositopeni insidansı düşüktür (<1, derece 3/4) ve tedavi kolları
+arasında farklı değildir. MABTHERA’nın kemoterapi ile birlikte kullanıldığı çalışmalarda
+tek başına kemoterapi ile karşılaştırıldığında derece 3/4 lökopeni (%79 CHOP’a karşı %88
+R-CHOP, %12 FC karşı %23 R-FC), nötropeni (%14 CVP’ye karşı %24 R-CVP, %88
+CHOP’a karşı %97 R-CHOP, daha önce tedavi edilmemiş KLL’de %19 FC’ye karşı %30
+R-FC) , pansitopeni (daha önce tedavi edilmemiş KLL’de %1 FC’ye karşılık %3 R-FC)
+genelde daha yüksek sıklıklarda bildirilmiştir. Ancak MABTHERA ve kemoterapi ile tedavi
+edilen hastalarda daha yüksek insidansta görülen nötropeni, tek başına kemoterapi ile tedavi
+edilen hastalarla karşılaştırıldığında daha yüksek enfeksiyon ve enfestasyon insidansı ile
+ilişkili değildir. Daha önce tedavi uygulanmamış ve relaps/refrakter KLL’de yapılan
+çalışmalar, MABTHERA artı FC tedavisini takiben, R-FC ile tedavi edilen hastaların
+yaklaşık %25’inde nötropeninin (son dozun ardından 24. ve 42. gün arasında nötrofil
+sayısının 1x109/L altında olması şeklinde tanımlanmıştır) uzun sürdüğünü veya geç
+başlangıçlı (daha önce uzun süreli nötropeni olmayan veya 42. günden önce iyileşmiş
+hastalarda, son dozdan >42 gün sonra nötrofil sayısının 1x109/L altında olması şeklinde
+tanımlanmıştır) olduğunu göstermiştir. Anemi insidansı için bildirilmiş herhangi bir
+farklılık yoktur. MABTHERA’nın son infüzyonundan sonra dört haftadan uzun süren bazı
+geç nötropeni vakaları bildirilmiştir. KLL birinci basamak çalışmasında, Binet C
+evresindeki hastalarda FC kolu ile karşılaştırıldığında (%71 FC’ye karşı %83 R-FC) R-FC
+kolunda daha fazla advers olay yaşanmıştır. Relaps/refrakter KLL çalışmasında, FC
+22/60grubundaki hastaların %9’una karşılık R-FC grubunda hastaların %11’inde derece 3/4
+trombositopeni bildirilmiştir.
+Waldenström makroglobulinemi hastalarında MABTHERA ile yapılan çalışmalarda, tedavi
+başladıktan sonra serum IgM düzeylerinde hiperviskozite ve ilgili semptomlarla ilişkili
+olabilecek geçici artışlar gözlenmiştir. Bu geçici IgM artışları genellikle 4 ay içinde en
+azından başlangıç düzeyine dönmüştür.
+Kardiyovasküler advers reaksiyonlar
+MABTHERA monoterapisi ile yapılan klinik çalışmalar sırasında hastaların %18,8’inde en
+sık bildirilen kardiyovasküler reaksiyonlar hipotansiyon ve hipertansiyondur. İnfüzyon
+sırasında derece 3 veya 4 aritmi (ventriküler ve supraventriküler taşikardi dahil) ve anjina
+pektoris bildirilmiştir. İdame tedavisi sırasında, derece 3/4 kardiyak bozukluk insidansı
+MABTHERA ile tedavi edilen hastalar ve gözlem hastaları arasında karşılaştırılabilirdir.
+Gözlem grubunda görülen <%1 değer ile karşılaştırıldığında, MABTHERA ile tedavi edilen
+hastaların %3’ünde ciddi advers olay (atriyal fibrilasyon, miyokard enfarktüsü, sol ventrikül
+yetersizliği, miyokardiyal iskemi dahil) olarak kardiyak olaylar bildirilmiştir. Kemoterapi
+ile birlikte MABTHERA’nın değerlendirildiği çalışmalarda derece 3 ve 4 kardiyak aritmi
+insidansı, çoğunlukla taşikardi ve atriyal ritim bozukluğu/fibrilasyon gibi supraventriküler
+aritmiler CHOP grubuna kıyasla (3 hasta, %1,5) R-CHOP grubunda daha yüksektir (14
+hasta, %6,9). Bu aritmilerin tümü ya bir MABTHERA infüzyonu ile ilişkili olarak meydana
+gelmiş ya da ateş, enfeksiyon, akut miyokard enfarktüsü veya önceden var olan solunum ve
+kardiyovasküler hastalık gibi predispozan koşullarla bağlantılıdır. R-CHOP ve CHOP grubu
+arasında kalp yetmezliği, miyokardiyal hastalık ve koroner arter hastalığı belirtilerini
+kapsayan diğer derece 3 ve 4 kardiyak olayların insidansında hiçbir farklılık gözlenmemiştir.
+KLL’de, birinci basamak çalışma (%4 R-FC, %3 FC) ve relaps/refrakter çalışmanın (%4 R-
+FC, %4 FC) her ikisinde de derece 3 veya 4 toplam kardiyak bozukluk insidansı düşüktür.
+Solunum sistemi
+Bazıları ölümle sonuçlanabilen interstisyel akciğer hastalığı vakaları bildirilmiştir.
+Nörolojik bozukluklar
+Tedavi periyodu sırasında (en çok sekiz kür boyunca R-CHOP'tan oluşan indüksiyon
+tedavisi aşaması), R-CHOP ile tedavi edilen hepsi kardiyovasküler risk faktörlü dört hastada
+(%2) ilk tedavi kürü sırasında tromboembolik serebrovasküler olaylar görülmüştür. Diğer
+tromboembolik olayların insidansında tedavi grupları arasında hiçbir farklılık olmamıştır.
+Buna karşın CHOP grubunda üç hastanın (%1,5) hepsinde takip döneminde meydana gelen
+serebrovasküler olaylar olmuştur. KLL’de, birinci basamak çalışması (%4 R-FC, %4 FC)
+ve relaps/refrakter çalışmanın (%3 R-FC, %3 FC) her ikisinde de derece 3 veya 4 toplam
+sinir sistemi bozukluğu insidansı düşüktür.
+Posterior reversibl ensefalopati sendromu (PRES)/reversibl posterior lökoensefalopati
+sendromu (RPLS) bildirilmiştir. Belirti ve semptomlar; hipertansiyon ile ilişkili veya
+ilişkisiz görme bozukluğu, baş ağrısı, nöbet ve mental durumda değişikliği kapsamaktadır.
+PRES/RPLS tanısının beyin görüntülemesi ile doğrulanması gerekmektedir. Raporlanan
+vakalarda, hastanın altta yatan hastalığı, hipertansiyon, immunosupresif tedavi ve/veya
+kemoterapi dahil PRES/RPLS için bilinen risk faktörleridir.
+23/60Gastrointestinal hastalıklar
+Hodkgin-dışı lenfoma tedavisi için MABTHERA alan hastalarda bazı vakalarda ölüme
+neden olabilen gastrointestinal perforasyon gözlenmiştir. Bu vakaların çoğunda
+MABTHERA, kemoterapi ile beraber uygulanmıştır.
+IgG düzeyleri
+Relaps/refrakter foliküler lenfomada MABTHERA idame tedavisinin değerlendirildiği
+klinik bir çalışmada, medyan IgG seviyeleri hem gözlem grubunda hem de MABTHERA
+grubunda indüksiyon tedavisinden sonra normal değerin alt limitinin (LLN) (<7 g/L)
+altındadır. Gözlem grubunda IgG seviyeleri sonradan medyan LLN’nin üzerine kadar
+artmıştır ancak MABTHERA grubunda sabit kalmıştır. IgG seviyeleri LLN’nin altında olan
+hastaların oranı gözlem grubunda azalırken (2 yıl sonra %36), 2 yıllık tedavi periyodunun
+başından sonuna kadar MABTHERA grubunda yaklaşık %60 olmuştur.
+MABTHERA ile tedavi edilen pediyatrik hastalarda hipogammaglobulinemi
+gözlemlenmiştir. Bazı vakalar şiddetlidir ve uzun-vadeli immunoglobulin ikame tedavisi
+gerekmiştir. Pediyatrik hastalarda uzun vadeli B hücresi eksikliğinin sonuçları
+bilinmemektedir.
+Deri ve deri altı doku hastalıkları
+Toksik Epidermal Nekroliz (Lyell Sendromu) ve Stevens-Johnson Sendromu gibi
+bazılarının ölümcül sonuçları olabilen ciddi cilt reaksiyonları çok nadir olarak bildirilmiştir.
+Özel popülasyonlara ilişkin ek bilgiler
+MABTHERA monoterapisi
+Geriyatrik popülasyon ( 65 yaş)
+Tüm derecelerde AİR ve derece 3/4 AİR görülme insidansı, daha genç (< 65 yaş) hastalar
+ile karşılaştırıldığında yaşlı hastalarda benzer bulunmuştur.
+Büyük hacimli (bulky) hastalık (tutulan lenf nodunun çok büyük olması):
+Büyük hacimli hastalığı olan kişilerde, derece 3/4 AİR görülme insidansı, büyük hacimli
+hastalığı olmayanlardan daha yüksektir (%15,4’e karşı %25,6). Herhangi bir derecede AİR
+görülme insidansı bu iki grupta benzerdir.
+Tedavinin tekrarlanması
+MABTHERA kürleri ile tekrarlanan tedavi sırasında AİR raporlanan hasta yüzdesi, ilk
+maruziyetten sonra AİR raporlanan hasta yüzdesi ile benzerdir (herhangi bir derecede AİR
+ve derece 3/4 AİR)
+MABTHERA kombinasyon tedavisi
+24/60Geriyatrik popülasyon ( 65 yaş)
+Daha önce tedavi uygulanmamış veya relaps/refrakter KLL olan yaşlı hastalarda derece 3/4
+kan ve lenf sistemi advers olaylarının insidansı, daha genç (<65 yaş) hastalar ile
+karşılaştırıldığında yüksek bulunmuştur.
+Pediyatrik DBBHL/BL/BAL/BLL deneyimleri
+Güvenlilik profilinin özeti
+Daha önce tedavi edilmemiş ileri evre CD20 pozitif DBBHL/BL/BAL/BLL ‘li pediyatrik
+hastalarda (≥ 6 ay ila < 18 yaş) MabThera ile birlikte veya tek başına Lenfom Malin B
+kemoterapisinin (LMB) çok merkezli, açık etiketli bir randomize çalışması yapılmıştır.
+Toplam 309 pediyatrik hastaya MABTHERA verilmiş ve güvenlilik analizi popülasyonuna
+dahil edilmiştir. MABTHERA ile LMB kemoterapi koluna randomize edilen veya
+çalışmanın tek kol kısmına kaydedilen pediyatrik hastalara 375 mg/m2 vucüt yüzey alanı
+dozunda MABTHERA verilerek ve toplam altı MABTHERA i.v. infüzyonu uygulanmıştır
+(iki başlangıç kürünün her birinde iki tane ve LMB planının iki konsolidasyon kürünün her
+birinde bir tane).
+MABTHERA'nın daha önce tedavi edilmemiş ileri evre CD20 pozitif
+DBBHL/BL/BAL/BLL'li pediyatrik hastalarda (≥ 6 ay ila < 18 yaş arası) güvenlilik profili,
+yetişkin NHL ve KLL hastalarında bilinen güvenlik profili ile genel olarak tip, yapı ve şiddet
+açısından tutarlıdır. MABTHERA'nın kemoterapiye eklenmesi tek başına kemoterapiye
+kıyasla enfeksiyonlar (sepsis dahil) dahil olmak üzere bazı olayların riskinde artışa neden
+olmuştur.
+Granulamatoz Polianjiitis (GPA) ve Mikroskobik Polianjiitis (MPA) deneyimleri
+Yetişkin remisyon indüksiyonu (GPA/MPA çalışma 1)
+GPA/MPA klinik çalışmasında (çalışma 1), 99 hasta MABTHERA (375 mg/m2, 4 hafta
+boyunca haftada bir) ve glukokortikoidler ile GPA/MPA remisyon indüksiyonu için tedavi
+edilmiştir (bkz. Bölüm 5.1).
+Advers reaksiyonların tablo halinde listesi
+Tablo 4’de listelenen AİR’ler, MABTHERA grubunda ≥%5 insidansında oluşan advers
+olaylardır.
+Tablo 4 GPA/MPA klinik çalışmasında (çalışma 1) 6 ay içinde, MABTHERA alan
+hastaların ≥%5’inde (Rituximab n=99, karşılaştırma grubundan daha yüksek
+sıklıkta) veya pazarlama sonrası gözetim boyunca oluşan advers ilaç reaksiyonları
+MedDRA Sistem organ sınıfı Sıklık
+Advers reaksiyon
+Enfeksiyonlar ve enfestasyonlar
+İdrar yolu enfeksiyonları %7
+Bronşit %5
+25/60Herpes zoster %5
+Nazofarenjit %5
+Ciddi viral enfeksiyon1 Bilinmiyor
+Kan ve lenf sistemi hastalıkları
+Trombositopeni %7
+Bağışıklık sistemi hastalıklar
+Sitokin salınım sendromu %5
+Metabolizma ve beslenme hastalıkları
+Hiperkalemi %5
+Psikiyatrik hastalıklar
+Uykusuzluk %14
+Sinir sistemi hastalıkları
+Baş dönmesi %10
+Titreme %10
+Vasküler hastalıklar
+Hipertansiyon %12
+Kızarıklık %5
+Solunum, göğüs bozuklukları ve mediastinal hastalıklar
+Öksürük %12
+Dispne %11
+Epistaksis %11
+Burun tıkanıklığı %6
+Gastrointestinal hastalıklar
+İshal %18
+Dispepsi %6
+Konstipasyon %5
+Deri ve deri altı doku hastalıkları
+Akne %7
+Kas-iskelet bozuklukları, bağ doku ve kemik hastalıkları
+Kas spazmları %18
+Artralji %15
+Sırt ağrısı %10
+Kas zayıflığı %5
+Kas-iskelet ağrısı %5
+Ekstremitelerde ağrı %5
+Genel bozukluklar ve uygulama bölgesine ilişkin hastalıklar
+Periferik ödem %16
+Laboratuvar bulguları
+Hemoglobinde azalma %6
+1Pazarlama sonrası gözetim boyunca gözlemlenmiştir. Ayrıca aşağıdaki
+enfeksiyonlar bölümüne bakınız.
+26/60Yetişkin idame tedavisi (GPA/MPA çalışma 2)
+GPA/MPA klinik çalışmasında (çalışma 2) şiddetli, aktif GPA ve MPA'sı olan toplam 57 yetişkin
+hasta, remisyonun sürdürülmesi için MABTHERA ile tedavi edilmiştir (bkz. Bölüm 5.1).
+Tablo 5 GPA/MPA klinik çalışmasında (çalışma 2) MABTHERA alan hastaların
+≥%5’inde (Rituximab=57) ve karşılaştırma grubundan daha yüksek sıklıkta veya
+pazarlama sonrası gözetim boyunca oluşan advers ilaç reaksiyonları
+MedDRA Sistem organ sınıfı Sıklık
+Advers reaksiyon
+Enfeksiyonlar ve enfestasyonlar
+Bronşit %14
+Rinit %5
+Ciddi viral enfeksiyon1 Bilinmiyor
+Solunum, göğüs bozuklukları ve mediastinal hastalıklar
+Dispne %9
+Gastrointestinal hastalıklar
+İshal %7
+Genel bozukluklar ve uygulama bölgesine ilişkin hastalıklar
+Pireksi %9
+Grip benzeri hastalık %5
+Periferik ödem %5
+Yaralanma, zehirlenme ve prosedürle ilgili komplikasyonlar
+İnfüzyonla ilişkili reaksiyonlar2 %12
+1Pazarlama sonrası gözetim boyunca gözlemlenmiştir. Ayrıca aşağıdaki
+enfeksiyonlar bölümüne bakınız.
+2İnfüzyonla ilişkili reaksiyonlarla ilgili ayrıntılar, seçilmiş advers
+reaksiyonlar bölümünde verilmektedir.
+Genel güvenlilik profili, GPA/MPA dahil olmak üzere onaylanmış otoimmün endikasyonlarda
+MABTHERA için iyi oluşturulmuş güvenlilik profili ile tutarlıdır. Genel olarak, MABTHERA
+kolundaki hastaların %4'ü tedavinin kesilmesine neden olan advers olaylar yaşamıştır.
+MABTHERA kolundaki yan etkilerin çoğu hafif veya orta şiddettedir. MABTHERA kolundaki
+hiçbir hastada ölümcül yan etki görülmemiştir.
+Advers olay olarak kabul edilen ve en yaygın olarak bildirilen olaylar, infüzyonla ilgili
+reaksiyonlar ve enfeksiyonlardır.
+Uzun dönem takip (GPA/MPA çalışma 3)
+Uzun dönem gözleme dayalı bir güvenlilik çalışmasında, 97 GPA/MPA hastası, doktorlarının
+standart uygulamasına ve takdirine göre 4 yıla kadar MABTHERA (ortalama 8 infüzyon [aralık
+1-28]) ile tedavi görmüştür. Genel güvenlik profili, MABTHERA'nın RA ve GPA/MPA'daki
+yerleşik güvenlilik profili ile tutarlıdır ve yeni advers reaksiyon bildirilmemiştir.
+27/60Pediyatrik popülasyon
+Ciddi, aktif GPA veya MPA'sı olan 25 pediyatrik hastada açık etiketli, tek kollu bir çalışma
+yürütülmüştür. Genel çalışma periyodu, toplamda 4,5 yıla kadar en az 18 aylık takip ile 6 aylık
+bir remisyon indüksiyon aşamasından oluşmaktadır. Takip aşamasında, araştırmacının takdirine
+bağlı olarak MABTHERA verilmiştir (25 hastadan 17'si ek MABTHERA tedavisi almıştır).
+Diğer immünosupresif tedavilerle eş zamanlı tedaviye izin verilmiştir (bkz. Bölüm 5.1).
+Advers ilaç reaksiyonları ≥ %10'luk bir insidansta meydana gelen advers olaylar olarak kabul
+edilmiştir. Bunlara şunlar dahildir: enfeksiyonlar (remisyon indüksiyon aşamasında 17 hasta
+[%68]; genel çalışma süresinde 23 hasta [%92]), İİR'ler remisyon indüksiyon aşamasında (15
+hasta [%60]; 17 hasta [%68] genel çalışma periyodunda) ve bulantı (remisyon indüksiyon
+fazında 4 hasta [%16]; genel çalışma periyodunda 5 hasta [%20]).
+Genel çalışma dönemi boyunca, MABTHERA'nın güvenlilik profili, remisyon indüksiyon
+aşamasında bildirilenle tutarlıdır.
+MABTHERA'nın pediyatrik GPA veya MPA hastalarındaki güvenlilik profili, yetişkin GPA
+veya MPA dahil olmak üzere onaylanmış otoimmün endikasyonlarda yetişkin hastalarda bilinen
+güvenlilik profili ile tip, yapı ve şiddet açısından tutarlıdır.
+Seçilmiş advers reaksiyonlar
+İnfüzyonla ilişkili reaksiyonlar
+GPA/MPA klinik çalışmasında (çalışma 1; remisyon indüksiyonu çalışması) infüzyonla
+ilişkili reaksiyonlar (İİR’ler), güvenlilik popülasyonunda infüzyon sonrası 24 saat içinde
+oluşan ve araştırmacı tarafından infüzyonla ilgili kabul edilen herhangi bir advers olay olarak
+tanımlanmıştır. 99 hasta MABTHERA ile tedavi edilmiş ve %12’sinde en az bir İİR
+oluşmuştur. Tüm İİR’ler, CTC Derece 1 veya 2 olmuştur. En yaygın İİR’ler; sitokin salınım
+sendromu, kızarıklık, boğaz tahrişi ve titreme olmuştur. MABTHERA, bu olayların
+insidansını ve şiddetini azaltabilen intravenöz glukokortikoidlerle kombinasyon halinde
+verilmiştir.
+GPA/MPA Çalışması 2'de (yetişkin idame çalışması), MABTHERA kolundaki 7/57 (%12)
+hasta infüzyonla ilişkili en az bir reaksiyon yaşamıştur. İİR semptomlarının insidansı, ilk
+infüzyon sırasında veya sonrasında (%9) en yüksektir ve sonraki infüzyonlarla azalmıştır
+(<%4). Tüm İİR semptomları hafif veya orta derecededir ve çoğu sistem organ
+sınıflandırmasının Solunum, Göğüs bozuklukları ve Mediastinal bozukluklardan ve Deri ve
+Deri Altı Doku bozukluğu advers olaylarından rapor edilmiştir.
+GPA veya MPA'lı pediyatrik hastalarda yapılan klinik çalışmada, bildirilen İİR'ler ağırlıklı
+olarak ilk infüzyonda (8 hasta [%32]) görülmüştür ve daha sonra MABTHERA
+infüzyonlarının sayısıyla zamanla azalmıştır (ikinci infüzyonla %20, üçüncü infüzyonla %12
+ve dördüncü infüzyonla %8). Remisyon indüksiyon fazı sırasında bildirilen en yaygın İİR
+semptomları şunlardır: baş ağrısı, döküntü, burun akıntısı ve ateş (her semptom için %8).
+İİR'lerin gözlenen semptomları, MABTHERA ile tedavi edilen yetişkin GPA veya MPA
+28/60hastalarında bilinenlere benzerdir. İİR'lerin çoğunluğu Derece 1 ve Derece 2 idir, ciddi
+olmayan iki Derece 3 İİR vardır ve herhangi bir Derece 4 veya 5 İİR rapor edilmemiştir. Bir
+hastada ciddi bir Derece 2 İİR (tedaviyle düzelen genel ödem) bildirilmiştir (bkz. Bölüm
+4.4).
+Enfeksiyonlar
+GPA/MPA klinik çalışmasında (çalışma 1), 99 MABTHERA hastasında genel enfeksiyon
+oranı, 6 aylık primer sonlanım noktasında 100 hasta yılında yaklaşık 237 olmuştur (%95
+GA 197-285). Enfeksiyonlar ağırlıklı olarak hafif ila orta şiddette olmuş ve çoğunlukla üst
+solunum yolu enfeksiyonları, herpes zoster ve idrar yolu enfeksiyonlarını içermiştir. Ciddi
+enfeksiyonların oranı 100 hasta yılında yaklaşık 25 olmuştur. MABTHERA grubunda en
+sık bildirilen ciddi enfeksiyon, sıklık %4 olmak üzere pnömonidir.
+GPA/MPA klinik çalışmasında (çalışma 2), MABTHERA kolundaki 30/57 (%53) hasta
+enfeksiyon yaşamıştır. Tüm dereceli enfeksiyonların insidansı kollar arasında benzerdir.
+Enfeksiyonlar ağırlıklı olarak hafif ila orta şiddettedir. MABTHERA kolundaki en yaygın
+enfeksiyonlar arasında üst solunum yolu enfeksiyonları, gastroenterit, idrar yolu
+enfeksiyonları ve herpes zoster yer almaktadır. Ciddi enfeksiyon insidansı her iki kolda da
+benzerdir (yaklaşık %12). MABTHERA grubunda en sık bildirilen ciddi enfeksiyon, hafif
+veya orta derecede bronşittir.
+Şiddetli, aktif GPA ve MPA'sı olan pediyatrik hastalarda yapılan klinik çalışmada, bildirilen
+enfeksiyonların %91'i ciddi değildir ve %90'ı hafif ila orta derecedir.
+Genel fazdaki en yaygın enfeksiyonlar şunlardır: üst solunum yolu enfeksiyonları (ÜSYE)
+(%48), grip (%24), konjonktivit (%20), nazofarenjit (%20), alt solunum yolu enfeksiyonları
+(%16), sinüzit (%16), viral ÜSYE (%16), kulak enfeksiyonu (%12), gastroenterit (%12),
+farenjit (%12), idrar yolu enfeksiyonu (%12). 7 hastada (%28) ciddi enfeksiyonlar
+bildirilmiştir ve en sık bildirilen olaylar olarak grip (2 hasta [%8]) ve alt solunum yolu
+enfeksiyonu (2 hasta [%8]) dahil edilmiştir.
+Pazarlama sonrası deneyimde, MABTHERA ile tedavi edilen GPA/MPA hastalarında ciddi
+viral enfeksiyonlar bildirilmiştir.
+Maligniteler
+GPA/MPA klinik çalışmasında (çalışma 1), MABTHERA tedavisi uygulanan hastalarda
+malignite insidansı, çalışmanın ortak kapatılma tarihinde (son hasta takip dönemini
+tamamladığında) 100 hasta yılında 2 olmuştur. Standardize insidans oranları temelinde
+malignitelerin insidansı, ANCA ile ilişkili vaskülit olan hastalarda daha önce bildirilene
+benzer görünmektedir.
+Pediyatrik klinik çalışmada, 54 aya kadar takip süresi olan hiçbir malignite bildirilmemiştir.
+Kardiyovasküler advers reaksiyonlar
+GPA/MPA klinik çalışmasında (çalışma 1), kardiyak olaylar, 6 aylık primer sonlanım
+noktasında 100 hasta yılı başına yaklaşık 273 oranında (%95 GA 149-470) oluşmuştur.
+29/60Ciddi kardiyak olayların oranı 100 hasta yılı başına 2,1 olmuştur (%95 GA 3-15). En sık
+bildirilen olaylar taşikardi (%4) ve atriyal fibrilasyon (%3) olmuştur (bkz. Bölüm 4.4).
+Nörolojik olaylar
+Otoimmün koşullarda posterior geri dönüşümlü ensefalopati sendromu (PRES) / Posterior
+geri dönüşümlü lökoensefalopati sendromu (RPLS) olguları bildirilmiştir. Belirti ve
+semptomlar ilişkili hipertansiyon ile birlikte veya olmaksızın, görme bozuklukları, baş
+ağrısı, nöbetler ve mental durum değişikliğini içermiştir. PRES/RPLS tanısı beyin
+görüntülemesi ile doğrulama gerektirmektedir. Bildirilen olgularda hastaların altta yatan
+hastalığı, hipertansiyon, immunosupresif tedavi ve/veya kemoterapi dahil olmak üzere
+PRES/RPLS açısından bilinen risk faktörleri görülmüştür.
+Hepatit B reaktivasyonu
+Pazarlama sonrası koşullarda MABTHERA alan Granulamatoz Polianjiitis (GPA) ve
+Mikroskobik Polianjiitis (MPA) hastalarında, bazıları ölümcül olan az sayıda hepatit B
+reaktivasyonu vakaları bildirilmiştir.
+Hipogamaglobulinemi
+MABTHERA ile tedavi edilen yetişkin ve pediyatrik Granulamatoz Polianjiitis (GPA) ve
+Mikroskobik Polianjiitis hastalarında hipogamaglobulinemi (IgA, IgG veya IgM
+düzeylerinin normal alt limitten düşük olması) gözlenmiştir.
+GPA/MPA klinik çalışmasının (çalışma 1) 6. ayında; başlangıçta immunoglobulin düzeyleri
+normal olan MABTHERA grubundaki hastaların %27, %58 ve %51’inde sırasıyla IgA, IgG
+ve IgM düzeyleri düşük bulunmuş, bu değerler siklofosfamid grubunda sırasıyla %25, %50
+ve %46 olmuştur. IgA, IgG ve IgM düzeyleri düşük olan hastalarda genel enfeksiyonların
+veya ciddi enfeksiyonların oranında artış olmamıştır.
+GPA/MPA klinik çalışmasında (çalışma 2), deneme boyunca iki tedavi kolu arasında klinik
+olarak anlamlı farklılıklar veya toplam immunoglobulin, IgG, IgM veya IgA seviyelerinde
+azalma gözlenmemiştir.
+Pediyatrik klinik çalışmada, genel çalışma süresi boyunca, 3/25 (%12) hasta bir
+hipogamaglobulinemi olayı bildirmiştir, 18 hasta (%72) uzamış (en az 4 ay boyunca
+normalin alt sınırının altında Ig seviyeleri olarak tanımlanmıştır) düşük IgG seviyeleri (15
+hastada ayrıca uzun süreli düşük IgM vardı) gözlenmiştir.
+Üç hasta intravenöz immunoglobulin (IV-IG) ile tedavi görmüştür. Sınırlı verilere
+dayanarak, uzun süreli düşük IgG ve IgM'nin bu hastalarda ciddi enfeksiyon riskinde artışa
+yol açıp açmadığı konusunda kesin sonuçlara varılamaz. Pediyatrik hastalarda uzun süreli
+B hücre tükenmesinin sonuçları bilinmemektedir.
+Nötropeni
+GPA/MPA klinik çalışmasında (çalışma 1), MABTHERA grubundaki hastaların (tek
+kür) %24’ünde ve siklofosfamid grubundaki hastaların %23’ünde CTC Derece 3 veya daha
+30/60yüksek nötropeni gelişmiştir. Nötropeni, MABTHERA uygulanan hastalarda ciddi
+enfeksiyonlarda gözlenen bir artışla ilişkili olmamıştır.
+GPA/MPA klinik çalışmasında (çalışma 2), tüm dereceli nötropeni insidansı, MABTHERA
+ile tedavi edilen hastalar için %0 iken, azatioprin ile tedavi edilen hastalar için %5 olmuştur.
+Deri ve deri altı hastalıkları
+Toksik Epidermal Nekroliz (Lyell Sendromu) ve Stevens-Johnson Sendromu gibi
+bazılarının ölümcül sonuçları olabilen ciddi cilt reaksiyonları çok nadir olarak bildirilmiştir.
+Pemfigus vulgaris (PV) deneyimleri
+PV Çalışması 1 (Çalışma ML22196) ve PV Çalışması 2'deki (Çalışma WA29330)
+güvenlilik profilinin özeti
+Pemfigus vulgarisli hastaların tedavisinde kısa süreli, düşük dozlu glukokortikoidlerle
+kombinasyon halinde MABTHERA'nın güvenlilik profili, randomize, kontrollü, çok
+merkezli, açık etiketli MABTHERA grubuna randomize edilmiş 38 pemfigus vulgaris (PV)
+hastasını içeren Faz 3 çalışmada incelenmiştir (PV Çalışması 1). MABTHERA grubuna
+randomize edilen hastalara 1. Çalışma Günü'nde ilk 1000 mg i.v. ve 15. Çalışma Günü'nde
+ikinci 1000 mg i.v. verilmiştir. 500 mg ,.v. idame dozları 12. ve 18. aylarda uygulandı.
+Hastalar nüks anında 1000 mg i.v. alabilmiştir (bkz. Bölüm 5.1).
+PV Çalışması 2'de, oral kortikosteroid gerektiren orta-şiddetli PV'li hastalarda
+MABTHERA'nın etkililiğini ve güvenliliğini mikofenolat mofetil (MMF) ile karşılaştıran
+randomize, çift kör, çift plasebo, aktif karşılaştırmalı, çok merkezli bir çalışmada, 67 PV
+hastası, 52 haftaya kadar MABTHERA (İlk Çalışma Günü 1'de ilk 1000 mg i.v. ve Çalışma
+Günü 15'te ikinci 1000 mg i.v., 24. ve 26. haftalarda tekrarlandı) ile tedavi gördü (bkz.
+Bölüm 5.1).
+MABTHERA'nın PV'deki güvenlilik profili, diğer onaylanmış otoimmün endikasyonlarda
+yerleşik güvenlilik profiliyle tutarlıdır.
+Advers reaksiyonların tablo halinde listesi
+PV Çalışmaları 1 ve 2'den gelen advers reaksiyonlar Tablo 6'da sunulmaktadır. PV
+Çalışması 1'de, AİR'ler, 24 aya kadar MABTHERA ile tedavi edilen PV hastaları arasında
+≥ %5 oranında meydana gelen ve MABTHERA ile tedavi edilen grup ile standart doz
+prednizon grubu arasında insidans açısından ≥ %2 mutlak fark bulunan advers olaylar olarak
+tanımlanmıştır. Çalışma 1'deki AİR'ler nedeniyle hiçbir hastanın tedavisi kesilmemiştir. PV
+Çalışması 2'de AİR'ler, MABTHERA kolundaki hastaların ≥%5'inde meydana gelen advers
+olaylar olarak tanımlanmış ve ilişkili olarak değerlendirilmiştir.
+31/60Tablo 6 PV çalışması 1 (24 ay'a kadar) ve PV çalışması 2'de (52 haftaya kadar) veya
+pazarlama sonrası gözetim boyunca MABTHERA ile tedavi edilen Pemfigus vulgaris
+hastalarında advers reaksiyonlar
+Sistem Organ Sınıfı Çok Yaygın Yaygın Bilinmiyor
+Enfeksiyonlar ve üst solunum yolu herpes virüsü Ciddi viral
+enfestasyonlar enfeksiyonu enfeksiyonu enfeksiyon1
+zona
+oral uçuk
+konjonktivit
+nazofarenjit
+oral kandidiyaz
+idrar yolu enfeksiyonu
+Benign, malign ve cilt papillomu
+belirtilmemiş
+neoplazmlar (kistler ve
+polipler dahil)
+Psikiyatrik hastalıklar kalıcı depresif bozukluk majör depresyon
+sinirlilik
+Sinir sistemi hastalıkları baş ağrısı baş dönmesi
+Kardiyak hastalıklar taşikardi
+Gastrointestinal üst karın ağrısı
+hastalıklar
+Deri ve deri altı doku alopesi kaşıntı
+hastalıkları ürtiker
+cilt bozukluğu
+Kas-iskelet bozuklukları, kas-iskelet ağrısı
+bağ doku hastalıkları artralji
+sırt ağrısı
+Genel bozukluklar ve tükenmişlik
+uygulama bölgesine asteni
+ilişkin hastalıklar ateş
+Yaralanma, zehirlenme İnfüzyonla ilişkili
+ve prosedürle ilgili reaksiyonlar2
+komplikasyonlar
+1Pazarlama sonrası gözetim boyunca gözlemlenmiştir. Ayrıca
+aşağıdaki enfeksiyonlar bölümüne bakınız.
+2PV Çalışması 1 için infüzyonla ilişkili reaksiyonlar, her infüzyondan
+sonraki planlanmış ziyarette toplanan semptomları ve infüzyonun
+yapıldığı gün veya bir gün sonra meydana gelen advers olayları
+içermektedir. En yaygın infüzyonla ilgili reaksiyon semptomları/PV
+Çalışması 1 için Tercih Edilen Terimler baş ağrısı, titreme, yüksek
+tansiyon, mide bulantısı, asteni ve ağrıyı içermektedir.
+En yaygın infüzyonla ilişkili reaksiyon semptomları/PV Çalışması 2
+için Tercih Edilen Terimler dispne, eritem, hiperhidroz, kızarma/sıcak
+basması, hipotansiyon/düşük kan basıncı ve döküntü/döküntü
+kaşıntısıdır.
+Seçilmiş advers reaksiyonlar
+İnfüzyonla ilişkili reaksiyonlar
+32/60PV Çalışması 1'de infüzyonla ilişkili reaksiyonlar yaygındır (%58). Neredeyse tüm infüzyonla
+ilişkili reaksiyonlar hafif ila orta derecelidir. İnfüzyonla ilişkili reaksiyon yaşayan hastaların
+oranı sırasıyla birinci, ikinci, üçüncü ve dördüncü infüzyonları takiben %29 (11 hasta), %40 (15
+hasta), %13 (5 hasta) ve %10 (4 hasta)’dur. İnfüzyonla ilişkili reaksiyonlar nedeniyle hiçbir
+hastanın tedavisi kesilmemiştir. İnfüzyonla ilişkili reaksiyonların semptomları, tip ve şiddet
+olarak RA ve GPA/MPA hastalarında görülenlere benzerdi.
+PV Çalışması 2'de, İİR'ler öncelikle ilk infüzyonda meydana gelmiştir ve İİR'lerin sıklığı sonraki
+infüzyonlarla azalmıştır: hastaların sırasıyla birinci, ikinci, üçüncü ve dördüncü
+infüzyonlarda %17,9, %4,5, %3 ve %3'ü İİR yaşamıştır. En az bir İİR yaşayan 11/15 hastada
+İİR'ler Derece 1 veya 2'dir. 4/15 hastada Derece ≥3 İİR'ler rapor edilmiş ve MABTHERA
+tedavisinin kesilmesine yol açmıştır; dört hastadan üçü ciddi (hayatı tehdit eden) İİR'ler
+yaşamıştır. İlk (2 hasta) veya ikinci (1 hasta) infüzyonda ciddi İİR'ler meydana gelmiştir ve
+semptomatik tedavi ile düzelmiştir.
+Enfeksiyonlar
+PV Çalışması 1'de, standart doz prednizon grubundaki 15 hasta (%42) ile karşılaştırıldığında,
+MABTHERA grubundaki 14 hasta (%37) tedaviye bağlı enfeksiyonlar yaşamıştır. MABTHERA
+grubunda en sık görülen enfeksiyonlar herpes simpleks ve zoster enfeksiyonları, bronşit, idrar
+yolu enfeksiyonu, mantar enfeksiyonu ve konjonktivittir. MABTHERA grubundaki üç hasta
+(%8) toplam 5 ciddi enfeksiyon (pneumocystis jirovecii pnömonisi, enfektif tromboz,
+intervertebral diskit, akciğer enfeksiyonu, stafilokokal sepsis) yaşamıştır ve standart doz
+prednizon grubunda bir hasta (%3) ciddi enfeksiyon (Pneumocystis jirovecii pnömonisi)
+yaşamıştır.
+PV Çalışması 2'de MABTHERA kolundaki 42 hastada (%62,7) enfeksiyon görülmüştür.
+MABTHERA grubunda en sık görülen enfeksiyonlar üst solunum yolu enfeksiyonu, nazofarenjit,
+oral kandidiyazis ve idrar yolu enfeksiyonudur MABTHERA kolundaki altı hastada (%9) ciddi
+enfeksiyonlar görülmüştür.
+Pazarlama sonrası deneyimde, MABTHERA ile tedavi edilen PV hastalarında ciddi viral
+enfeksiyonlar bildirilmiştir.
+Laboratuvar anormallikleri
+PV Çalışması 2, MABTHERA kolunda, periferik T-hücre popülasyonlarındaki azalmanın neden
+olduğu lenfosit sayısında geçici düşüşler ve ayrıca fosfor seviyesinde geçici bir düşüş
+infüzyondan sonra çok yaygın olarak gözlenmiştir. Bunların i.v. metilprednizolon
+premedikasyon infüzyonu ile indüklendiği kabul edilmiştir.
+PV Çalışması 2'de düşük IgG seviyeleri yaygın olarak ve düşük IgM seviyeleri çok yaygın
+olarak gözlemlenmiştir; bununla birlikte, düşük IgG veya IgM'nin gelişmesinden sonra ciddi
+enfeksiyon riskinde artış olduğuna dair bir kanıt yoktur.
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+33/60Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir (www.titck.gov.tr; e-
+posta: tufam@titck.gov.tr; tel: 0 800 314 00 08; faks: 0312 218 35 99)
+4.9 Doz aşımı ve tedavisi
+İnsanlar ile yürütülen klinik çalışmalarda intravenöz MABTHERA formülasyonunun
+onaylanan dozundan daha yüksek dozlar ile deneyim kısıtlıdır. Bugüne kadar insanlarda test
+edilen en yüksek intravenöz MABTHERA dozu, KLL hastaları ile yürütülen doz artırma
+çalışmasında test edilen 5000 mg'dır (2250 mg/m2). Ek bir güvenlilik sinyali tespit
+edilmemiştir.
+Doz aşımı görülen hastalarda infüzyon derhal kesilmelidir ve hastalar yakından izlenmelidir.
+Pazarlama sonrası koşullarda rituximab doz aşımına ilişkin beş vaka bildirilmiştir. Üç vaka
+advers olay rapor etmemiştir. Bildirilen iki advers olay, 1,8 g rituximab dozuyla grip benzeri
+semptomlar ve 2 g rituximab dozuyla ölümcül solunum yetmezliği ile ilgilidir.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1 Farmakodinamik özellikler
+Farmakoterapötik grubu: Antineoplastik ajanlar, monoklonal antikorlar
+ATC kodu: L01FA01
+Etki mekanizması
+Rituximab spesifik olarak bir nonglikolize fosfoprotein olan CD20 adlı transmembran
+antijenine bağlanan kimerik fare/insan monoklonal antikorudur. Bu antijen pre-B ve olgun B
+lenfositlerinde bulunur ancak hematopoetik kök hücrelerde, pro-B hücrelerde, normal plazma
+hücrelerinde veya diğer normal dokuda bulunmaz. Tüm B hücreli Hodgkin-dışı lenfomaların
+(NHL) >%95’inde bu antijene rastlanır. Antikora bağlandıktan sonra CD20 hücre içine
+alınmaz veya hücre membranından çevreye yayılmaz. CD20 plazmada serbest antijen olarak
+dolaşmaz ve dolayısıyla antikora bağlanmak için yarışmaz.
+Rituximabın fab alanı B lenfositlerdeki CD20 antijenine bağlanır ve B hücresinin lizisine
+yol açan bağışıklık reaksiyonlarını başlatır. Hücre yıkımındaki olası mekanizmalar
+komplemana bağımlı sitotoksisite (CDC), antikora bağımlı hücresel sitotoksisite (ADCC)
+ve apopitozun indüklenmesidir. Son olarak, in vitro çalışmalar rituximabın ilaca dirençli
+insan B lenfoma hücre serilerini bazı kemoterapötik ajanların sitotoksik etkilerine karşı
+duyarlılaştırdığını göstermiştir.
+Periferdeki B hücre sayısı ilk MABTHERA dozundan sonra normalin altına düşer.
+Hematolojik malignite tedavisi gören hastalarda B hücrelerinin normal düzeyine dönmesi
+tedavinin 6. ayı içinde başlar, bazı hastalarda daha uzun sürse bile (indüksiyon tedavisi sonrası
+medyan iyileşme zamanı olarak 23 aya kadar), genellikle tedavi tamamlandıktan sonraki 12
+ay içinde de normal düzeylere döner (bkz. Bölüm 4.8 Hemato-Onkoloji klinik çalışmaları).
+Romatoid artrit hastalarında, 14 gün arayla iki 1000 mg MABTHERA infüzyonunun ardından
+periferik kandaki B hücrelerinin hemen tükendiği gözlenmiştir. Periferik kan B hücre sayıları
+24. haftadan itibaren artmaya başlamıştır ve MABTHERA monoterapi olarak veya
+34/60metotreksat ile kombinasyon halinde uygulanmış olsa bile, hastaların çoğunda 40. haftaya
+kadar repopülasyon kanıtı gözlenmiştir. Hastaların küçük bir kısmında, son MABTHERA
+dozundan sonra 2 yıl veya daha fazla süren uzun süreli periferik B hücre tükenmesi
+görülmüştür.GPA ve MPA hastalarında, iki haftalık 375 mg/m2 rituximab infüzyonu
+sonrasında periferik kan B-hücreleri 10 hücre/mcL’nin altına düşmüştür ve 6 ay boyunca
+hastaların çoğunda aynı seviyede kalmıştır. Hastaların çoğu (%81), 12. ayda >10 hücre/mcL
+sayısı ile, 18. ay itibarıyla hastaların % 87’sine çıkarak B hücre geri dönüşü işaretleri
+göstermiştir
+Hodgkin-dışı lenfoma ve kronik lenfositik lösemide klinik deneyim
+Foliküler Lenfoma
+Monoterapi
+Başlangıç tedavisi, haftada bir uygulama, toplam 4 doz
+Ana çalışmada, nüksetmiş veya kemorezistan düşük seviyeli ya da foliküler B hücreli
+NHL'ye sahip 166 hastaya haftada bir, toplam dört doz olarak i.v. infüzyon halinde 375
+mg/m2 MABTHERA verilmiştir. ITT popülasyonunda genel yanıt oranı (GYO) %48
+(GA %41 - %56) olup tam yanıt (TY) oranı %6 ve kısmi yanıt (KY) oranı %42 olarak
+%95
+gerçekleşmiştir. Yanıt veren hastalarda hastalığın ilerlemesine kadar geçen medyan süre
+(TTP) 13 ay’dır.Yapılan bir alt-grup analizinde GYO, IWF B, C ve D histolojik alt-
+tiplerinde IWF A alt-tipine kıyasla daha yüksek (%58’e karşılık %12), en büyük lezyonu <5
+cm olan hastalarda, >7 cm olan hastalara kıyasla daha yüksek (%53’e karşılık %38) ve
+kemorezistan nüks grubu ile karşılaştırıldığında kemoduyarlı nüks hastalarında (yanıt süresi
+<3 ay olarak tanımlanır) daha yüksek (%22’ye karşılık %50) bulunmuştur. Önceden otolog
+kemik iliği transplantasyonu (OKİT) ile tedavi edilmiş hastalarda GYO %78 iken, OKİT
+tedavisi görmeyenlerde %43 olmuştur. Yaş, cinsiyet, lenfoma derecesi, başlangıçtaki tanı,
+büyük hacimli hastalık varlığı ya da yokluğu, normal ya da yüksek LDH düzeyleri veya
+ekstranodal hastalık varlığının MABTHERA'ya karşı verilen yanıt üzerinde istatistik olarak
+anlamlılık (Fischer'in exact testi) taşıyan bir etkisi bulunmamaktadır. Yanıt oranları ile
+kemik iliği tutulumu arasında istatistiksel olarak anlamlı bir bağıntı kaydedilmiştir. Kemik
+iliği tutulumu olan hastaların %40'ı yanıt verirken, kemik iliği tutulumu olmayan
+hastaların %59'u yanıt vermiştir (p=0,0186). Histolojik tip, başlangıçta bcl-2 pozitifliği, son
+kemoterapiye karşı direnç ve ağır hastalık faktörlerinin prognostik faktörler olarak
+tanımlandığı kademeli lojistik regresyon analizi bu bulguyu desteklememiştir.
+Başlangıç tedavisi, haftada bir uygulama, toplam 8 doz
+Çok merkezli, tek kollu bir çalışmada nüksetmiş veya kemorezistan, düşük dereceli veya
+foliküler B hücreli NHL'si olan 37 hastaya, toplam sekiz doz olacak şekilde, i.v. infüzyon
+yoluyla haftada bir kere 375 mg/m2 MABTHERA verilmiştir. GYO %57 (GA %41–%73;
+%95
+TY %14, KY %43) ve medyan TTP 19,4 ay (aralık 5,3 ila 38,9 ay) bulunmuştur.
+Başlangıç tedavisi, büyük hacimli (bulky) hastalık, haftada bir uygulama, toplam 4 doz
+Üç çalışmanın bir araya getirilmiş verilerinde, nüksetmiş veya kemorezistan, bulky hastalık
+(tek lezyon  10 cm çapında) özelliklerini taşıyan düşük dereceli veya foliküler B hücreli
+NHL'si olan 39 hastaya toplam dört doz, haftada bir kere 375 mg/m2 MABTHERA, i.v.
+35/60infüzyon yoluyla verilmiştir. GYO %36 (GA %21-%51; TY %3, KY %33) ve yanıt veren
+%95
+hastalarda medyan TTP 9,6 ay olmuştur (aralık 4,5 ila 26,8 ay).
+Tekrarlanan tedavi, haftada bir uygulama, toplam 4 doz
+Çok merkezli, tek kollu bir çalışmada, önceki bir MABTHERA küründe objektif klinik yanıt
+alınan, nüksetmiş veya kemorezistan düşük evreli veya foliküler B hücreli NHL'si olan 58
+hasta toplam dört doz, haftada bir kere, i.v. infüzyon yoluyla 375 mg/m2 MABTHERA ile
+yeniden tedavi edilmiştir. Hastaların üçü çalışmaya kaydolmadan önce iki seans
+MABTHERA tedavisi gördüğünden, bunlara çalışmada üçüncü bir seans uygulanmıştır.
+Çalışmada iki hasta, iki kez yeniden tedavi edilmiştir. Çalışmadaki 60 yeniden tedavi
+vakasında, yanıt veren hastalar için GYO %38 (GA %26–%51; TY %10, KY %28) ve
+%95
+yanıt veren hastalarda projekte edilen ortalama TTP, 17,8 ay (aralık 5,4 ila 26,6 ay) olmuştur.
+Bu değerler, önceki MABTHERA küründe elde edilen sonuçlar (12,4 ay) ile olumlu yönde
+karşılaştırılabilir niteliktedir.
+Kemoterapi ile kombinasyon halinde başlangıç tedavisi
+Randomize, açık tasarımlı bir çalışmada, daha önce tedavi görmemiş foliküler lenfoması
+olan 322 hasta, 8 kür, her 3 haftada bir CVP kemoterapisi (siklofosfamid 750 mg/m2, 1. gün
+maksimum 2 mg doza kadar, vinkristin 1,4 mg/m2 ve 1-5. gün arasında prednizolon 40
+mg/m2/gün) ya da CVP ile kombinasyon halinde MABTHERA 375 mg/m2 (R-CVP) alacak
+şekilde randomize edilmiştir. MABTHERA her tedavi kürünün ilk gününde uygulanmıştır.
+Toplam 321 hasta (162 R-CVP, 159 CVP) tedavi görmüş ve etkililik bakımından analiz
+edilmiştir. Hastaların medyan takip süresi 53 aydır. R-CVP, primer sonlanma noktası olan
+tedavi başarısızlığına kadar geçen süre açısından CVP’ye göre önemli bir üstünlük
+sağlamıştır (27 aya karşılık 6,6 ay, p < 0,0001, log-sıra testi). Tümör cevabı bulunan
+hastaların oranı (TY, TYo, KY), R-CVP grubunda (%80,9) CVP grubundan (%57,2) önemli
+oranda daha yüksek olmuştur (p< 0,0001, Ki-Kare testi). R-CVP ile yapılan tedavi, hastalık
+ilerlemesi veya ölüme kadar geçen süreyi belirgin bir şekilde artırmıştır (33,6 ay ve 14,7 ay)
+(p < 0,0001, log-sıra testi). R-CVP grubunda medyan yanıt süresi 37,7 ayken, CVP
+grubunda bu süre 13,5 ay olarak bulunmuştur (p < 0,0001, log-sıra testi).
+Genel sağkalım açısından tedavi grupları arasındaki farklılık güçlü bir klinik yarar
+göstermiştir (p=0,029, log-sıra testi): 53. aydaki sağkalım oranları R-CVP grubunda %80,9
+iken, CVP grubunda %71,1’dir.
+CVP dışındaki kemoterapi rejimleriyle (CHOP, MCP, CHVP/İnterferon-α) yapılan diğer 3
+çalışmadan elde edilen sonuçlar yanıt oranlarında ve zamana bağlı parametrelerde olduğu
+gibi genel sağkalımda da belirgin iyileşmeler göstermiştir. Bu dört çalışmadan elde edilen
+anahtar sonuçlar aşağıdaki tabloda özetlenmektedir.
+36/60Tablo 7 MABTHERA’nın foliküler lenfomada farklı kemoterapi rejimleriyle
+yararlarının değerlendirildiği dört faz III randomize çalışmadan elde edilen
+sonuçların özetleri
+Medyan
+Medyan OS
+Tedavi, takip GYO, TY,
+Çalışma TTF/PFS/ EFS oranları,
+n süresi, % %
+ay %
+ay
+Medyan TTP:
+53 ay
+14,7
+CVP, 159 57 10 71,1
+M39021 53 33,6
+R-CVP, 162 81 41 80,9
+p<0,0001
+p=0,029
+Medyan TTF:
+18 ay
+2,6 yıl
+CHOP, 205 90 17 90
+GLSG’00 18 Ulaşılamamıştır
+R-CHOP, 223 96 20 95
+p < 0,001
+p = 0,016
+Medyan PFS:
+48 ay
+28,8
+MCP, 96 75 25 74
+OSHO-39 47 Ulaşılamamıştır
+R-MCP, 105 92 50 87
+p < 0,0001
+p = 0,0096
+Medyan EFS:
+CHVP-IFN, 42 ay
+36
+183 85 49 84
+FL2000 42 Ulaşılamamıştır
+R-CHVP-IFN, 94 76 91
+p<0,0001
+175 p=0,029
+Kısaltmalar:
+EFS: Olaysız sağkalım
+TTP: Progresyona veya ölüme kadar geçen süre
+PFS: Progresyonsuz sağkalım
+TTF: Tedavinin başarısızlığına kadar geçen süre
+OS oranları: Analiz zamanlarında genel sağkalım oranları
+İdame tedavisi
+Önceden tedavi edilmemiş foliküler lenfoma
+Prospektif, açık etiketli, uluslararası, çok merkezli bir faz III çalışmada 1193 daha önce
+tedavi edilmemiş ileri seviye foliküler lenfoma hastası, R-CHOP (n=881), R-CVP (n=268)
+vey R-FCM (n=44) ile indüksiyon tedavisi almıştır. 1018’i MABTHERA idame tedavisine
+(n=505) veya gözleme (n=513) randomize edilmiş olan toplam 1.078 hasta indüksiyon
+tedavisine yanıt vermiştir. İki tedavi grubu, başlangıç karakteristiklerine ve hastalık
+durumuna göre iyi dengelenmiştir. MABTHERA idame tedavisi, maksimum iki sene
+süresince ya da hastalık ilerleyene kadar, iki ayda bir 375 mg/m2 vücut yüzey alanı dozunda
+verilen tek MABTHERA uygulamasından ibarettir.
+37/60Randomizasyondan 25 aylık bir medyan gözlem süresinde yapılan, önceden belirlenmiş bir
+primer analiz sırasında, önceden tedavi edilmemiş foliküler lenfoma hastalarında gözleme
+kıyasla MABTHERA ile idame tedavisi araştırmacı tarafından değerlendirilen
+progresyonsuz sağkalım (PFS) primer sonlanım noktasında klinik olarak anlamlı ve
+istatistiksel olarak dikkate değer bir gelişme ile sonuçlanmıştır (Bkz. Tablo 7).
+Primer analizde MABTHERA ile idame tedavisiyle, sekonder sonlanım noktaları olan
+olaysız sağkalım (EFS), bir sonraki anti-lenfoma tedavisine kadar geçen süre (TNLT), bir
+sonraki kemoterapiye kadar geçen süre (TNCT) ve toplam yanıt oranında (ORR) dikkate
+değer yarar sağlanmıştır (Tablo 8).
+Çalışmadaki hastaların uzatılmış takip verileri (9 yıllık medyan takip süresi),
+MABTHERA’nın idame tedavisinde uzun süreli faydasını PFS, EFS, TNLT ve TNCT
+bakımından doğrulamıştır (Tablo 8).
+Tablo 8 MABTHERA idame tedavisine karşı protokolle belirtilmiş primer
+analizde ve 9 yıllık medyan takibi (sonuç analizi) sonrasında etkililik sonuçlarına genel
+bakış
+Primer analiz Sonuç analizi
+(medyan takip: 25 ay) (medyan takip: 9 yıl)
+Gözlem MABTHERA Gözlem MABTHERA
+N=513 N=505 N=513 N=505
+Primer etkililik
+Progresyonsuz sağkalım NR NR 4,06 yıl 10,49 yıl
+(medyan)
+log-sıra p değeri <0,0001 <0,0001
+risk oranı (%95 GA) 0,5 (0,39; 0,64) 0,61 (0,52; 0,73)
+risk azalması %50 %39
+Sekonder etkililik
+Genel sağkalım (medyan) NR NR NR NR
+log-sıra p değeri 0,7246 0,7948
+risk oranı (%95 GA) 0,89 (0,45; 1,74) 1,04 (0,77; 1,40)
+risk azalması %11 %-6
+Olaysız geçen sağkalım
+(medyan) 38 ay NR 4,04 yıl 9,25 yıl
+log-sıra p değeri <0,0001 <0,0001
+risk oranı (%95 GA) 0,54 (0,43; 0,69) 0,64 (0,54; 0,76)
+risk azalması %46 %36
+TNLT (medyan) NR NR 6,11 yıl NR
+log-sıra p değeri 0,0003 <0,0001
+risk oranı (%95 GA) 0,61 (0,46; 0,8) 0,66 (0,55; 0,78)
+risk azalması %39 %34
+TNCT (medyan) NR NR 9,32 yıl NR
+log-sıra p değeri 0,0011 0,0004
+risk oranı (%95 GA) 0,60 (0,44; 0,82) 0,71 (0,59; 0,86)
+risk azalması %40 %39
+Genel yanıt oranı* %55 %74 %61 %79
+38/60ki-kare test p değeri <0,0001 <0,0001
+olasılık oranı (%95 GA) 2,33 (1,73; 3,15) 2,43 (1,84; 3,22)
+Tam yanıt (TY/TYo) %48 %67 %53 %67
+oranı*
+ki-kare test p değeri <0,0001 <0,0001
+Olasılık oranı (%95 GA) 2,21 (1,65; 2,94) 2,34 (1,80; 3,03)
+*İdame/gözlemin sonunda; 73 aylık medyan takibine dayanan son analiz sonuçları.
+FU:Takip; NR: klinik veri kesimi zamanında ulaşılamamıştır, TNCT: bir sonraki
+kemoterapiye kadar geçen süre; TNLT: bir sonraki anti-lenfoma tedavisine kadar geçen
+süre;
+MABTHERA idame tedavisi, test edilen bütün önceden belirlenmiş alt gruplarda; cinsiyet
+(erkek, kadın), yaş (<60 yaş, ≥60 yaş), FLIPI skoru (≤1, 2 ya da ≥ 3), indüksiyon terapisi
+(R-CHOP, R-CVP veya R-FCM), ve indüksiyon tedavisine yanıtın kalitesinden bağımsız
+olarak (TY/TYo ya da KY) devamlı yarar sağlamıştır. İdame tedavisinin sağladığı yarara
+ilişkin keşif analizleri, yaşlı hastalarda (>70 yaş) daha az belirgin etki gözlendiğini
+göstermiştir, bununla birlikte örneklem sayısı azdır.
+Relaps/Refrakter Foliküler Lenfoma
+Prospektif, açık etiketli, uluslararası, çok merkezli bir faz III çalışmada 465 relaps/refrakter
+foliküler NHL hastası, CHOP (siklofosfamid, doksorubisin, vinkristin, prednizolon; n=231)
+veya MABTHERA + CHOP (R-CHOP, n=234) ile yapılan indüksiyon tedavisine ilk
+basamakta randomize edilmiştir. İki tedavi grubu, başlangıç karakteristiklerine ve hastalık
+durumuna göre iyi dengelenmiştir. İndüksiyon tedavisinden sonra tam ya da kısmi remisyon
+sağlanan toplam 334 hasta, ikinci aşamada MABTHERA idame tedavisi (n=167) veya
+gözlem koluna (n=167) randomize edilmiştir. MABTHERA idame tedavisi, maksimum iki
+sene süresince ya da hastalık ilerleyene kadar, üç ayda bir 375 mg/m2 vücut yüzey alanı
+dozunda verilen tek MABTHERA uygulamasından ibarettir.
+Son etkililik analizi, çalışmanın her iki bölümüne randomize edilen tüm hastaları içerir.
+İndüksiyon fazına randomize edilen hastaların 31 aylık medyan gözlem süresi sonunda, R-
+CHOP’ın, CHOP ile kıyaslandığında relaps/refrakter foliküler NHL hastalarının klinik
+sonuçlarını belirgin olarak iyileştirdiği görülmüştür (Bkz. Tablo 9).
+Tablo 9 İndüksiyon fazı: CHOP ile R-CHOP’ın karşılaştırmalı etkililik
+sonuçlarına genel bakış (31 aylık medyan gözlem süresi)
+CHOP R-CHOP p değeri Risk Azaltımı1)
+Primer Etkililik
+GYO2) %74 %87 0,0003 yok
+TY2) %16 %29 0,0005 yok
+KY2) %58 %58 0,9449 yok
+1) Tahminler, risk oranlarına göre hesaplanmıştır.
+2) Araştırmacı tarafından değerlendirilen son tümör yanıtı. “Yanıt” için yapılan “primer”
+istatistiksel test, tam yanıt, kısmi yanıt ve hiç yanıt olmaması durumlarını karşılaştıran
+bir eğilim testidir (p < 0,0001)
+Kısaltmalar: NR: ulaşılamamıştır; GYO: genel yanıt oranı; TY: tam yanıt; KY: kısmi
+yanıt; OS: genel sağkalım; PFS: progresyonsuz sağkalım
+39/60Çalışmanın idame fazına randomize edilen hastalar için medyan gözlem süresi, idame
+randomizasyonundan itibaren 28 aydır. MABTHERA ile idame tedavisi, sadece gözlem
+koluna kıyasla, primer sonlanma noktası olan PFS’de (idame randomizasyonundan
+nükse, hastalık ilerlemesine ya da ölüme kadar olan süre) klinik olarak anlamlı ve
+istatistiksel olarak belirgin düzelme ile sonuçlanmıştır (p<0,0001, log-sıra testi). Medyan
+PFS, MABTHERA idame kolunda 42,2 ayken gözlem kolunda 14,3 aydır. Cox regresyon
+analizi kullanıldığında, hastalık ilerlemesi ya da ölüm riski, MABTHERA idame tedavisi
+ile gözleme göre %61 oranında azalmıştır (GA ; %45-%72). 12 ayda Kaplan-Meier
+%95
+yöntemiyle hesaplanan progresyonsuz oranlar, MABTHERA idame grubunda %78 iken
+gözlem grubunda %57’dir. Genel sağkalım analizi, MABTHERA idamesinin, gözleme
+göre belirgin fayda sağladığını kanıtlamıştır. MABTHERA idame tedavisi, ölüm riskini
+%56 azaltmıştır (GA ; %22-%75).
+%95
+Tablo 10 İdame fazı: MABTHERA ile gözlem gruplarının karşılaştırmalı
+etkililik sonuçlarına genel bakış (28 aylık medyan gözlem süresi)
+Etkililik Parametresi Olaya Kadar Medyan Sürenin (ay) Risk
+Kaplan-Meier Yöntemiyle Azaltımı
+Hesaplanması
+Gözlem MABTHERA Log-sıra
+(n = 167) (n=167) p değeri
+Progresyonsuz sağkalım 14,3 42,2 <0,0001 %61
+(PFS)
+Genel sağkalım NR NR 0,0039 %56
+Yeni lenfoma tedavisine 20,1 38,8 <0,0001 %50
+kadar geçen süre
+Hastalıksız sağkalıma 16,5 53,7 0,0003 %67
+Alt Grup Analizi
+PFS
+CHOP 11,6 37,5 <0,0001 %71
+R-CHOP 22,1 51,9 0,0071 %46
+TY 14,3 52,8 0,0008 %64
+KY 14,3 37,8 <0,0001 %54
+OS
+CHOP NR NR 0,0348 %55
+R-CHOP NR NR 0,0482 %56
+NR: ulaşılamamıştır; a: sadece TY’ye ulaşan hastalar için
+MABTHERA idame tedavisinin faydası, indüksiyon rejimi (CHOP ya da R-CHOP) ya da
+indüksiyon tedavisine verilen yanıtların niteliğiyle (TY ya da KY) ilgili olmaksızın tüm alt
+gruplarda analiz edilmiştir (Tablo 10). MABTHERA idame tedavisi, CHOP indüksiyon
+tedavisine yanıt veren hastalarda (medyan PFS 37,5 aya karşılık 11,6 ay; p<0,0001) olduğu
+kadar R-CHOP indüksiyon tedavisine yanıt veren hastalarda da (medyan PFS 51,9 aya
+karşılık 22,1 ay; p=0,0071) medyan PFS’yi önemli ölçüde uzatmıştır. MABTHERA idame
+tedavisi ayrıca, çalışmanın indüksiyon fazında toplam sağkalım açısından CHOP’a yanıt
+40/60veren hastalarda ve R-CHOP’a yanıt veren hastalarda klinik açıdan anlamlı fayda
+sağlamıştır.
+Yetişkin Difüz büyük B hücreli Hodgkin-dışı lenfoma (DBBHL)
+Randomize, açık tasarımlı bir çalışmada, difüz büyük B hücreli lenfoması olan önceden
+tedavi görmemiş, yaşları 60 ile 80 arası değişen 399 hastaya, sekiz kür boyunca her üç
+haftada bir standart CHOP kemoterapisi (1. günde siklofosfamid 750 mg/m2, doksorubisin
+50 mg/m2, vinkristin 1,4 mg/m2 ile maksimum 2 mg'a kadar ve 1-5. günlerde prednizolon
+40 mg/m2/gün) veya 375 mg/m2 MABTHERA + CHOP (R-CHOP) verilmiştir.
+MABTHERA tedavi kürünün birinci gününde uygulanmıştır.
+Nihai etkililik analizi randomize edilen tüm hastaları (197 CHOP, 202 R-CHOP)
+kapsamıştır ve ortalama izleme süresi yaklaşık 31 aydır. İki tedavi grubu, başlangıç düzeyi
+özellikleri ve hastalık durumu bakımından iyi dengelenmiştir. Nihai analiz, R-CHOP
+tedavisinin olaysız geçen sağkalım süresini (primer etkililik parametresi, buradaki olaylar
+ölüm, nüks veya lenfoma ilerlemesi ya da yeni bir anti-lenfoma tedavisinin tesis edilmesidir)
+önemli oranda uzattığını doğrulamıştır (p=0,0001). Medyan olaysız sağkalım süresine
+ilişkin Kaplan-Meier tahminlerine göre, CHOP kolundaki 13 ay ile, R-CHOP kolunda 35
+ayın karşılaştırılması riskin %41 azaldığını göstermektedir. 24. ayda, genel sağkalıma ilişkin
+tahminler CHOP kolundaki %57,4’lük orana kıyasla R-CHOP kolunda %68,2 olarak
+bulunmuştur. Medyan 60 aylık izleme süresi ile gerçekleştirilen daha sonraki bir genel
+sağkalım süresi analizi, R-CHOP tedavisinin CHOP tedavisinden daha yararlı olduğunu
+doğrulamış (p=0,0071) ve riskin %32 azaldığını göstermiştir.
+Tüm sekonder parametrelerin analizi (yanıt oranları, progresyonsuz sağkalım, hastalıksız
+sağkalım, yanıt süresi), CHOP ile karşılaştırıldığında R-CHOP tedavisinin etkisini
+doğrulamıştır. 8. kürden sonra tam yanıt oranı, R-CHOP grubunda %76,2 ve CHOP
+grubunda %62,4 bulunmuştur (p=0,0028). Hastalığın ilerleme riski %46 ve nüks riski %51
+oranında azaltılmıştır. Tüm hasta alt gruplarında (cinsiyet, yaş, yaşa göre ayarlanmış IPI,
+Ann Arbor evresi, ECOG, Beta 2 Mikroglobulin, LDH, Albümin, B-semptomları, büyük
+hacimli hastalık, ekstranodal hastalık, kemik iliği tutulumu), olaysız sağkalım ve genel
+sağkalıma ilişkin risk oranları (R-CHOP’ye karşılık CHOP) sırasıyla 0,83 ve 0,95’den daha
+az bulunmuştur. Yaşa göre ayarlanmış IPI’ye göre R-CHOP, hem yüksek hem de düşük risk
+taşıyan hastalarda, sonuçta ulaşılan iyileşme düzeyiyle ilişkili bulunmuştur.
+Klinik laboratuvar bulguları
+İnsan anti-fare antikoru (HAMA) açısından değerlendirilen 67 hastanın hiçbiri için yanıt
+bildirilmemiştir. Anti-ilaç antikoru (ADA) açısından değerlendirilen 356 hastanın %1,1’i (4
+hasta) pozitif çıkmıştır.
+Kronik lenfositik lösemi
+Açık etiketli randomize iki çalışmada, daha önce tedavi görmemiş toplam 817 KLL hastası
+ve 552 relaps/refrakter KLL hastası, 6 kür için 4 haftada bir FC kemoterapi (fludarabin 25
+mg/m2, siklofosfamid 250 mg/m2, 1-3. günler) veya FC ile kombinasyon halinde
+MABTHERA (R-FC) alacak şekilde randomize edilmiştir. MABTHERA, ilk kür
+sırasında kemoterapiden bir gün önce 375 mg/m2 dozunda ve sonraki her tedavi
+kürünün 1. gününde 500 mg/m2 dozunda uygulanmıştır. Etkililik için birinci basamak
+41/60çalışmasında (Tablo 11a) ve (Tablo 11b) toplam 810 hasta (403 R-FC, 407 FC),
+relaps/refrakter çalışmada da (Tablo 12) 552 hasta (276 R-FC, 276 FC) analiz edilmiştir.
+Birinci basamak çalışmasında 48,1 aylık medyan gözlem süresinden sonra medyan PFS R-
+FC grubunda 55 ay ve FC grubunda 33 ay olmuştur (p<0,0001, log-sıra testi). Genel
+sağkalım analizi, yalnızca FC kemoterapisi kullanılan kola göre, R-FC kolu için anlamlı bir
+fayda göstermiştir (p=0,0319; log-sıra testi) (Tablo 11a). PFS açısından fayda, başlangıçtaki
+hastalık riskine göre (yani Binet A-C evreleri) (Tablo 11b) analiz edilen hasta alt gruplarının
+çoğunda tutarlı olarak gözlenmiştir.
+Tablo 11a Kronik lenfositik löseminin birinci basamak tedavisi - Tek başına FC’ye
+kıyasla MABTHERA+FC için etkililik sonuçlarına genel bakış – 48,1 aylık medyan
+gözlem süresi
+Etkililik Parametresi Olaya Kadar Geçen Medyan Süre Risk
+için Kaplan-Meier Tahmini (Ay) Azaltımı
+FC R-FC Log-Sıra
+(N = 409) (N=408) p değeri
+Progresyonsuz sağkalım 32,8 55,3 <0,0001 %45
+(PFS)
+Genel Sağkalım NR NR 0,0319 %27
+Olaysız Sağkalım 31,3 51,8 <0,0001 %44
+Yanıt oranı (TY, nKY veya %72,6 %85,8 <0,0001 n.a.
+KY)
+TY oranları %16,9 %36,0 <0,0001 n.a.
+Yanıt süresi* 36,2 57,3 <0,0001 %44
+Hastalıksız sağkalım (DFS)** 48,9 60,3 0,0520 %31
+Yeni tedaviye kadar geçen 47,2 69,7 <0,0001 %42
+süre
+Yanıt oranı ve TY oranları Ki-kare Testi kullanılarak analiz edilmiştir. NR: ulaşılmadı;
+n.a.: uygulanamaz.
+*: Yalnızca TY, nKY veya KY elde edilen hastalar için geçerlidir
+**: Yalnızca TY elde edilen hastalar için geçerlidir.
+Tablo 11b. Kronik lenfositik löseminin birinci basamak tedavisi Binet evresine
+gore (ITT) progresyonsuz sağkalım tehlike oranı - medyan gözlem suresi 48,1 ay
+Progresyonsuz sağkalım (PFS) Hasta sayısı Tehlike Oranı p-değeri (Wald
+(%95 GA) testi,
+FC R-FC ayarlanmamış)
+Binet evre A 22 18 0,39 (0,15; 0,98) 0,0442
+Binet evre B 259 263 0,52 (0,41; 0,66) <0,0001
+Binet evre C 126 126 0,68 (0,49; 0,95) 0,0224
+GA:Güven aralığı
+Relaps/refrakter çalışmada, R-FC grubunda medyan progresyonsuz sağkalım (primer
+sonlanım noktası) 30,6 ay iken FC grubunda 20,6 aydır (p = 0,0002, log-rank testi). PFS
+açısından fayda, başlangıçtaki hastalık riskine göre analiz edilen hasta alt gruplarının
+42/60çoğunda gözlenmiştir. R-FC kolunda FC koluna kıyasla, genel sağkalımda (OS) az fakat
+belirgin olmayan bir artış bildirilmiştir.
+Tablo 12 Relaps/refrakter kronik lenfositik löseminin tedavisi - Tek başına
+FC’ye kıyasla MABTHERA-FC için etkililik sonuçlarına genel bakış (medyan
+g özlem süresi 25,3 ay)
+Etkililik Parametresi Olaya Kadar Geçen Medyan Risk
+Süre için Kaplan-Meier Azaltımı
+Tahmini (Ay)
+FC R-FC Log-sıra
+(n=276) (n=276) p değeri
+Progresyonsuz sağkalım
+20,6 30,6 0,0002 %35
+(PFS)
+Genel Sağkalım
+51,9 ulaşılamadı 0,2874 %17
+Olaysız Sağkalım
+19,3 28,7 0,0002 %36
+Yanıt oranı (TY, nKY veya uygulanabilir
+%58 %69,9 0,0034
+KY) değil
+TY uygulanabilir
+%13 %24,3 0,0007
+oranları değil
+Yanıt süresi* 27,6 39,6 0,0252 %31
+Hastalıksız sağkalım (DFS)**
+42,2 39,6 0,8842 -%6
+Yeni KLL tedavisine
+kadar geçen süre 34,2 ulaşılamadı 0,0024 %35
+Yanıt oranı ve TY oranları Ki-kare Testi kullanılarak analiz edilmiştir
+*: Yalnızca TY, nKY, KY elde edilen hastalar için geçerlidir
+**: Yalnızca TY elde edilen hastalar için geçerlidir
+Önceden tedavi edilmemiş ve/veya relaps/refrakter KLL hastalarının tedavisinde diğer
+kemoterapi rejimleriyle (CHOP, FCM, PC, PCM, bendamustin ve kladribin dahil)
+kombinasyon halinde MABTHERA kullanılan diğer destekleyici çalışmalardan elde edilen
+sonuçlara göre, hafif yükselmiş toksisiteye (özellikle miyelotoksisite) rağmen yüksek genel
+yanıt oranları ile birlikte anlamlı PFS değerleri elde edilmiştir. Bu çalışmalar
+MABTHERA’nın herhangi bir kemoterapi ile kullanımını desteklemektedir.
+Daha önce MABTHERA ile tedavi edilmiş yaklaşık 180 hastaya ait veriler klinik fayda
+göstermiştir (TY dahil) ve bu veriler MABTHERA ile yeniden tedaviyi destekler niteliktedir.
+Pediyatrik popülasyon
+Daha önce tedavi görmemiş ileri evre CD20 pozitif DBBHL/BL/BAL/BLL olan pediyatrik
+hastalarda tek başına veya MABTHERA ile kombinasyon halinde Lymphome Malin B
+(LMB) kemoterapisinin (kortikosteroidler, vinkristin, siklofosfamid, yüksek doz
+metotreksat, sitarabin, doksorubisin, etoposid ve üçlü ilaç [metotreksat/sitarabin/
+kortikosteroid] intratekal tedavi) çok merkezli, açık etiketli, randomize bir çalışması
+yapılmıştır. İleri evre, yüksek LDH seviyesi ("B-yüksek"), [LDH > yetişkin normal
+değerlerinin enstitüsel üst sınırının iki katı (> Nx2)] veya herhangi bir evre IV veya BAL
+43/60ile Evre III olarak tanımlanır. Hastalar, LMB şemasına göre LMB kemoterapisi (iki
+indüksiyon kürünün her biri sırasında ve iki konsolidasyon kürünün her biri sırasında bir)
+ile kombinasyon halinde LMB kemoterapisi veya 375mg/m2 vücut yüzey alanı dozunda altı
+MABTHERA IV infüzyonu almak üzere randomize edilmiştir. Etkililik analizlerine bir
+tanesi 3 yaşından küçük olmak üzere toplam 328 randomize hasta dahil edilmiş ve LMB
+kemoterapisi ile birlikte MABTHERA almıştır.
+İki tedavi kolu, LMB (LMB kemoterapisi) ve R-LMB (MABTHERA ile LMB
+kemoterapisi), temel özellikler açısından iyi dengelenmiştir. Hastaların ortalama yaşı LMB
+kolunda ve R-LMB kolunda sırasıyla 7 ve 8 dir. Hastaların yaklaşık yarısı Grup B'de (LMB
+kolunda %50,6 ve R-LMB kolunda %49,4), Grup C1'de her iki kolda %39,6 ve Grup C3'te
+LMB ve R-LMB kollarında sırasıyla %9,8 ve %11’dir. Murphy evrelemesine göre,
+hastaların çoğu ya BL evre III (LMB kolunda %45,7 ve R-LMB kolunda %43,3) ya da BAL,
+merkezi sinir sistemi negatiftir (LMB kolunda %21,3 ve R-LMB kolunda %24,4).
+Hastaların yarısından azında (her iki kolda %45,1) kemik iliği tutulumu vardı ve çoğu
+hastada (LMB kolunda %72,6 ve R-LMB kolunda %73,2) merkezi sinir sistemi tutulumu
+yoktur.
+Birincil etkililik sonlanım noktası EFS’dir; burada bir olay, hangisi önce gerçekleşirse,
+ikinci CYVE küründen sonra kalıntıda canlı hücrelerin saptanmasıyla kanıtlandığı gibi
+ilerleyici hastalık, nüks, ikinci malignite, herhangi bir nedenden ölüm veya yanıt vermeme
+olarak tanımlanmıştır. İkincil etkililik sonlanım noktaları OS ve CR (tam remisyon) dir.
+Yaklaşık 1 yıllık medyan takip ile önceden belirlenmiş ara analizde, EFS'nin birincil
+sonlanım noktasında klinik olarak anlamlı iyileşme gözlemlenmiş ve 1 yıllık oran tahminleri
+94,2 (%95 GA, %88,5 - %97,2) LMB kolunda R-LMB koluna karşı %81,5 (%95 GA, %73
+- %87,8) ve ayarlanmış Cox HR 0,33 (%95 GA, 0,14 – 0,79) olmuştur. Bu sonuca dayalı
+olarak IDMC (bağımsız veri izleme komitesi) tavsiyesi üzerine, randomizasyon
+durdurulmuş ve LMB kolundaki hastaların MABTHERA almak için çapraz geçiş
+yapmasına izin verimiştir.
+Birincil etkililik analizleri, medyan takip süresi 3,1 yıl olan 328 randomize hastada
+gerçekleştirilmiştir. Sonuçlar Tablo 13'de verilmektedir.
+Tablo 13 Birincil Etkililik Sonuçlarına Genel Bakış (ITT popülasyonu)
+Analiz LMB R-LMB
+(N=164) (N=164)
+EFS 28 vaka 10 vaka
+Tek taraflı log-sıra testi p değeri 0,0006
+Ayarlanmış Cox HR 0,32 (%90 GA: 0,17, 0,58)
+3 yıllık EFS oranları %82,3 93,9%
+(%95 GA: %75,7, %87,5) (%95 GA: %89,1, %96,7)
+OS 20 ölüm 8 ölüm
+Tek taraflı log-sıra testi p değeri 0,0061
+Ayarlanmış Cox modeli HR 0,36 (95% GA: 0,16; 0,81)
+3 yıllık OS oranları %87,3 %95,1
+(%95 GA: %81,2, %91,6) (%95 GA: %90,5, %97,5)
+CR oranı %93,6 (%95 GA:%88,2; %97) %94 (%95 GA:%88,8, %97,2)
+44/60Birincil etkililik analizi, ulusal grup, histoloji ve terapötik grup için ayarlanan bir Cox
+regresyon analizinden EFS HR 0,32 (%90 GA 0,17 – 0,58) ile tek başına LMB
+kemoterapisine kıyasla LMB kemoterapisine eklenen MABTHERA' nın bir EFS faydası
+olduğunu göstermiştir. İki tedavi grubu arasında CR'ye ulaşan hasta sayısında büyük bir fark
+gözlenmezken, LMB kemoterapisine eklenen MABTHERA'nın yararı OS'nin ikincil
+sonlanım noktasında OS HR 0,36 (%95 GA, 0,16 – 0,81) ile gösterilmiştir.
+Avrupa İlaç Ajansı, foliküler lenfoma ve KLL'li pediyatrik popülasyonun tüm alt
+gruplarında ve CD20 pozitif difüz büyük B hücreli lenfomalı pediyatrik popülasyonda
+doğumdan 6 aylık olana kadar MABTHERA ile yapılan çalışmaların sonuçlarını sunma
+zorunluluğundan feragat etmiştir.
+Granulamatoz polianjiitis (Wegener’s) (GPA) ve Mikroskobik polianjiitis (MPA)’te Klinik
+Deneyim
+Yetişkin remisyon indüksiyonu
+GPA/MPA klinik çalışmasına (Çalışma 1), ciddi aktif GPA (%75) ve MPA (24)’sı olan 15
+yaş ve üzeri toplam 197 hasta dahil edilerek aktif karşılaştırmalı, randomize, çift-kör, çok
+merkezli, non-inferior bir çalışmada tedavi edilmiştir.
+Hastalar 3-6 ay boyunca her gün oral siklofosfamid (2 mg/kg/gün) ve ardından azatioprin
+veya 4 hafta boyunca haftada bir MABTHERA (375 mg/m2) almak üzere 1:1 oranında
+randomize edilmişlerdir. Siklofosfamid kolundaki tüm hastalar takip süresince azatioprin
+idame tedavisi almıştı. Her iki koldaki hastalar 1 ila 3 gün boyunca günde 1000 mg pulse
+intravenöz (i.v.) metilprednizolon (veya eşdeğer-dozda başka bir glukokortikoid) ve
+ardından oral prednizon (1 mg/kg/gün, en fazla 80 mg/gün) almıştır. Prednizon azaltımı
+çalışma tedavisinin başlamasından itibaren 6 ayda tamamlanmıştır.
+Primer sonuç ölçütü 6. ayda tam remisyon sağlanmasıdır ve bu da Wegener Granülomatozisi
+için Birmingham Vaskülit Aktivite Skorunda (BVAS/WG) “0” ve glukokortikoid
+kullanımının bırakılması olarak tanımlanmaktadır. Tedavi farkı için önceden belirlenen
+non-inferiorite marjini yüzde 20 olarak saptanmıştır. Çalışma, 6. ayda tam remisyon
+açısından MABTHERA’nın siklofosfamide non-inferiorite göstermiştir (Tablo 14).
+Etkililik hem yeni teşhis konan hastalarda hem de nükseden hastalığı olan hastalarda
+gözlenmiştir (Tablo 15).
+Tablo 14 6. ayda tam remisyona erişen hastaların yüzdesi (tedavi amaçlı popülasyon)
+MABTHERA Siklofosfamid Tedavi farkı
+(n  99) (n  98) (MABTHERA –
+Siklofosfamid)
+Oran %63,6 %53,1 %10,6
+%95,1b GA
+(%3,2, %24,3) a
+GA = güven aralığı.
+*En kötü durum isnadı
+45/60a Non-inferiorite gösterilmiştir, çünkü daha düşük sınır (-%3,2) önceden belirlenmiş non-
+inferiorite marjinine (-%20) nazaran daha yüksektir.
+b %95,1 güven seviyesi ara etkililik analizini açıklamak için ek bir 0,001 alfayı
+yansıtmaktadır.
+Tablo 15 Hastalık durumuna göre 6 aydaki tam remisyon
+MABTHERA Siklofosfamid Fark (%95 GA)
+Tüm hastalar n=99 n=98
+Yeni teşhis n=48 n=48
+koyulmuş hastalar
+Relaps görülen n=51 n=50
+hastalar
+Tam remisyon
+Tüm hastalar %63,6 %53,1 %10,6
+(-3,2, 24,3)
+Yeni teşhis %60,4 %64,6 − %4,2
+koyulmuş hastalar (− 23,6, 15,3)
+Relaps görülen %66,7 %42 %24,7
+hastalar (5,8, 43,6)
+Verileri eksik olan hastalar için en kötü durum modeli geçerlidir.
+12 ve 18. aylarda tam remisyon
+MABTHERA grubunda hastaların %48’i 12 ayda ve %39’u 18 ayda tam remisyona
+ulaşmıştır. Siklofosfamid (ve ardından tam remisyonun idamesi için azatioprin) ile tedavi
+edilen hastalarda, hastaların %39’u 12 ayda ve %33’ü 18 ayda tam remisyona ulaşmıştır.
+12. aydan 18. aya kadar MABTHERA grubunda 8 relaps görülürken siklofosfamid
+grubunda dört relaps görülmüştür.
+Laboratuvar Değerlendirmeleri
+Çalışmada MABTHERA ile tedavi edilen toplam 99 hastanın 23’ü (%23) 18 aya kadar ADA
+açısından pozitif bulunmuştur. MABTHERA ile tedavi edilen 99 hastanın hiçbiri taramada
+ADA açısından pozitif değildir. Remisyon çalışmasının indüksiyonunda ADA varlığının
+güvenlilik veya etkililik üzerinde belirgin bir eğilim veya olumsuz etkisi yoktur.
+Yetişkin idame tedavisi
+Hastalık remisyonundaki toplam 117 hasta (88'i GPA'lı, 24'ü MPA'lı ve 5'i renal-sınırlı
+ANCA ile ilişkili vaskülitli) prospektif, çok merkezli, kontrollü, açık etiketli bir çalışmada
+azatioprin (59 hasta) veya MABTHERA (58 hasta) almak üzere randomize edilmiştir. Dahil
+edilen hastalar 21 ila 75 yaşları arasındadır ve glukokortikoidler ve pulse siklofosfamid ile
+kombine tedaviden sonra yeni teşhis edilmiş veya tam remisyonda nükseden hastalığı
+vardır. Hastaların çoğu tanı anında veya hastalıklarının seyri sırasında ANCA pozitiftir;
+histolojik olarak doğrulanmış nekrotizan küçük damar vasküliti ve klinik GPA veya MPA
+fenotipi veya renal sınırlı ANCA ile ilişkili vaskülit ya da her ikisi de vardır.
+Remisyon indüksiyon tedavisi, araştırmacının takdirine göre uygulanan i.v. prednizonu,
+bazı hastalarda öncesinde metilprednizolon uygulaması ve 4 ila 6 ay sonra remisyon elde
+46/60edilene kadar siklofosfamid uygulaması içermiştir. O sırada ve son siklofosfamid
+uygulamasından sonra maksimum 1 ay içinde, hastalar rastgele ya MABTHERA (1. ve 15.
+günlerde iki hafta arayla iki 500 mg i.v. infüzyonu) ve ardından 18 ay süreyle her 6 ayda bir
+500 mg i.v. almak üzere) veya azatioprin (12 ay süreyle 2 mg/kg/gün dozunda, daha sonra
+6 ay süreyle 1.5 mg/kg/gün dozunda ve son olarak 4 ay süreyle 1 mg/kg/gün dozunda oral
+olarak uygulanır (tedavinin kesilmesi bu 22 ayda sonra)) almak üzere atanmıştır. Prednizon
+tedavisi azaltılmıştır ve ardından randomizasyondan sonra en az 18 ay boyunca düşük bir
+dozda (günde yaklaşık 5 mg) tutulmuştur. Prednizon dozunun azaltılması ve 18. aydan sonra
+prednizon tedavisinin durdurulması kararı araştırmacının takdirine bırakılmıştır.
+Tüm hastalar 28. aya kadar (son MABTHERA infüzyonu veya azatioprin dozundan sonra
+sırasıyla 10 veya 6 ay) takip edilmiştir. CD4+ T-lenfosit sayısı milimetre küpte 250'den az
+olan tüm hastalar için Pneumocystis jirovecii pnömoni profilaksisi gerekli olmuştur.
+Birincil sonuç ölçütü, 28. ayda majör nüks oranıdır.
+Sonuçlar
+28. ayda, 3 hastada (%5) majör relaps (vaskülit aktivitesinin klinik ve/veya laboratuvar
+bulgularının ([BVAS] > 0) yeniden ortaya çıkması ile tanımlanan, organ yetmezliğine veya
+hasarına yol açabilecek veya yaşamı tehdit edebilecek) meydana gelmiştir. MABTHERA
+grubunda ve azatioprin grubunda 17 hasta (%29) (p=0,0007). MABTHERA grubundaki
+yedi hastada (%12) ve azatioprin grubundaki sekiz hastada (%14) minör nüksler (hayatı
+tehdit etmeyen ve majör organ hasarı içermeyen) meydana gelmiştir.
+Kümülatif insidans hızı eğrileri, MABTHERA hastalarında ilk majör relapsa kadar geçen
+sürenin 2. aydan itibaren daha uzun olduğunu ve 28. aya kadar devam ettiğini göstermiştir
+(Şekil 1).
+47/60Laboratuvar değerlendirmeleri
+İdame tedavisi klinik çalışmasında MABTHERA ile tedavi edilen hastaların toplam 6/34' ü
+(%18) ADA geliştirmiştir. İdame tedavisi klinik çalışmasında ADA varlığının güvenlilik
+veya etkililik üzerinde belirgin bir eğilim veya olumsuz etkisi olmamıştır.
+Pediyatrik popülasyon
+Polianjiit (GPA) ve mikroskobik polianjiitis (MPA) ile granülomatozis çalışması WA25615
+(PePRS), şiddetli, aktif GPA veya MPA'sı olan 25 pediyatrik hastada (≥ 2 ila < 18 yaş) çok
+merkezli, açık etiketli, tek kollu, kontrolsüz bir çalışmadır. Çalışmadaki hastaların medyan
+yaşı: 14 yıl (aralık: 6-17 yıl) ve hastaların çoğu (20/25 [%80]) kadındır. Toplam 19 hastada
+(%76) GPA ve 6 hastada (%24) başlangıçta MPA vardı. Çalışmaya girişte on sekiz hasta
+(%72) yeni teşhis edilmiş hastalığa sahipti (13 hasta GPA'lı ve 5 hasta MPA'lı) ve 7 hastada
+nükseden hastalık vardı (6 hasta GPA'lı ve 1 hasta MPA'lı).
+Çalışma tasarımı, toplamda en fazla 54 aya (4,5 yıl) kadar en az 18 aylık bir takip ile ilk 6
+aylık bir remisyon indüksiyon aşamasından oluşmaktadır. Hastalar, ilk MABTHERA i.v.
+infüzyonundan önce en az 3 doz i.v. metilprednizolon (30 mg/kg/gün, 1 g/gün'ü geçmeyecek
+şekilde) almıştır. Klinik olarak gerekliyse, IV metilprednizolonun ek günlük dozları (üçe
+kadar) verilebilir. Remisyon indüksiyon rejimi, 1, 8, 15 ve 22 numaralı çalışma günlerinde
+oral prednizolon veya prednizon ile kombinasyon halinde 1 mg/kg/gün (maks 60 mg/gün)
+6. ayda minimum 0a2 mg/kg/gün'e (maks. 10 mg/gün) azaltılabilir. Remisyon indüksiyon
+aşamasından sonra, hastalar, araştırmacının takdirine bağlı olarak, PVAS remisyonunu
+sürdürmek ve hastalık aktivitesini kontrol etmek (ilerleyici hastalık veya alevlenme dahil)
+48/60veya ilk remisyona ulaşmak için 6. Ayda veya sonrasında sonraki MABTHERA
+infüzyonlarını alabilirler.
+25 hastanın tümü, 6 aylık remisyon indüksiyon fazı için haftada bir kez dört i.v. infüzyonunu
+tamamlamıştır. 25 hastadan toplam 24'ü en az 18 aylık takibi tamamlamıştır.
+Bu çalışmanın amaçları, pediyatrik GPA ve MPA hastalarında (≥ 2 ila < 18 yaş)
+MABTHERA'nın güvenliliğini, FK parametrelerini ve etkililiğini değerlendirmektir.
+Çalışmanın etkililik hedefleri keşif amaçlıdır ve temel olarak Pediyatrik Vaskülit Aktivite
+Skoru (PVAS) kullanılarak değerlendirilmiştir (Tablo 16).
+6. Aya kadar kümülatif Glukokortikoid dozu (I.v. ve Oral):
+Çalışma WA25615’teki 25 hastadan 24’ü (%96), prrotokol tarafından tanımlanan oral
+steroid azaltımı sırasında 6. ayda veya bu tarihe kadar oral glukokortikoid azaltımı 0,2
+mg/kg/gün’e (veya 10 mg/gün’e eşit veya daha az, hangisi daha düşükse) ulaşmıştır.
+1. haftadan (medyan = 45 mg prednizon eşdeğer dozu [IQR: 35-60]) 6. aya (medyan = 7,5
+mg [IQR: 4-10]) kadar medyan genel oral glukokortikoid kullanımında bir düşüş
+gözlemlenmiştir ve daha sonra bu düşüş 12. ay (medyan = 5 mg [IQR: 2-10]) ve 18. ayda
+(medyan =5 mg [IQR: 1-5]) devam etmiştir.
+Takip Tedavisi
+Genel Çalışma Dönemi boyunca, hastalara 4 ila 28 arasında MABTHERA infüzyonu
+uygulanmıştır (4,5 yıla kadar [53,8 ay]). Hastalar, araştırmacının takdirine bağlı olarak
+yaklaşık her 6 ayda bir 375 mg/m2 x 4’e kadar MABTHERA almıştır. Toplamda 25 hastadan
+17’si (%68) 6. ayda veya sonrasında ortak Kapanış tarihine kadar ek rituximab tedavisi
+almıştır, bu 17 hastadan 14’ü 6. ay ile 18. ay arasında ek rituximab tedavisi almıştır.
+Tablo 16 Çalışma WA25615 (PePRS) - 1, 2, 4, 6, 12 ve 18. aylarda PVAS Remisyonu
+Çalışma PVAS Remisyonunda Yanıt Verenlerin 95% GAα
+ziyareti Sayısı* (yanıt oranı [%])
+n=25
+1. Ay 0 %0, %13,7
+2. Ay 1 (%4) %0,1, %20,4
+4. Ay 5 (%20) %6,8, %%40,7
+6. Ay 13 (%52) %31,3, %72,2
+12. Ay 18 (%72) %50,6, %87,9
+18. Ay 18 (%72) %50,6, %87,9
+*PVAS 0 ve değerlendirme zaman noktasında 0,2 mg/kg/gün'e (veya 10 mg/gün, hangisi
+daha düşükse) glukokortikoid azaltması sağlanmıştır.
+α etkililik sonuçları keşif amaçlıdır ve bu son noktalar için resmi bir istatistiksel test
+yapılmamıştır.
+MABTHERA tedavisi (375 mg/m2 x 4 infüzyon) 6. aya kadar tüm hastalar için aynıdır.
+6. aydan sonraki takip tedavisi araştırmacının takdirindedir.
+Laboratuvar değerlendirmeleri
+49/60Toplam çalışma süresi boyunca toplam 4/25 hasta (%16) ADA geliştirmiştir. Sınırlı veriler,
+ADA pozitif hastalarda bildirilen advers reaksiyonlarda herhangi bir eğilim
+gözlemlenmediğini göstermektedir.
+Pediyatrik GPA ve MPA klinik çalışmalarında ADA varlığının güvenlilik veya etkililik
+üzerinde belirgin bir eğilim veya olumsuz etkisi olmamıştır.
+Avrupa İlaç Ajansı (EMA), şiddetli, aktif GPA veya MPA'da 2 yaşından küçük pediyatrik
+popülasyonda MABTHERA ile yapılan çalışmaların sonuçlarını sunma zorunluluğundan
+feragat etmiştir. Pediyatrik kullanım hakkında bilgi için Bölüm 4.2'ye bakınız.
+Pemfigus vulgariste klinik deneyim
+PV Çalışması 1 (Çalışma ML22196)
+Kısa süreli, düşük dozlu glukokortikoid (prednizon) tedavisi ile kombinasyon halinde
+MABTHERA'nın etkililiği ve güvenliliği, randomize açık etiketli, kontrollü, çok merkezli
+çalışmada orta ila şiddetli pemfiguslu (74 pemfigus vulgaris [PV] ve 16 pemfigus foliaceus
+[PF]) yeni tanı almış hastalarda değerlendirilmiştir. Hastalar 19 ile 79 yaşları arasındaydı ve
+daha önce pemfigus tedavisi almamıştı. PV popülasyonunda, MABTHERA grubundaki 5
+(%13) hasta ve standart prednizon grubundaki 3 (%8) hasta orta derecede hastalığa sahipti
+ve MABTHERA grubunda 33 (%87) hasta ve standart doz prednizon grubunda 33 (%92)
+hasta Harman kriterlerinde tanımlanan hastalık şiddetine göre ciddi hastalığa sahipti.
+Hastalar başlangıçtaki hastalık şiddetine göre (orta veya şiddetli) gruplara ayrılmıştır ve
+MABTHERA ve düşük doz prednizon veya standart doz prednizon almak üzere 1:1
+oranında randomize edilmiştir. MABTHERA grubuna randomize edilen hastalar, orta
+derecede hastalıkları var ise 3 ay boyunca azaltarak devam eden 0,5 mg/kg/gün oral
+prednizon ile kombinasyon halinde veya şiddetli hastalıkları var ise 6 ay boyunca azaltarak
+devam eden 1 mg/kg/gün oral prednizon ile kombinasyon halinde 1. Çalışma Günü'nde 1000
+mg'lık bir MABTHERA intravenöz infüzyonu ve 15. Çalışma Gününde 1000 mg'lık ikinci
+bir MabThera intravenöz infüzyonu almıştır. MABTHERA 500 mg idame infüzyonları 12.
+ve 18. aylarda uygulanmıştır. Standart doz prednizon grubuna randomize edilen hastalara,
+orta derecede hastalıkları varsa 12 ay boyunca azaltılarak ilk 1 mg/kg/gün oral prednizon
+veya şiddetli hastalıkları varsa 18 ay boyunca oral prednizon azaltılarak verilmiştir.
+MABTHERA grubunda nükseden hastalar, yeniden başlanan veya artırılan prednizon dozu
+ile kombinasyon halinde ilave 1000 mg MABTHERA infüzyonu alabildiler. İdame ve
+relaps infüzyonları, önceki infüzyonu takiben 16 haftadan daha kısa sürede
+uygulanmamıştır.
+Çalışmanın birincil amacı, 24. ayda iki ay veya daha fazla prednizon tedavisi kullanılmadan
+tam remisyondu (tam epitelizasyon ve yeni ve/veya yerleşik lezyonların yokluğu) (≥2 ay
+için CRoff).
+PV Çalışması 1 Sonuçları
+Çalışma, PV hastalarında 24. ayda CRoff ≥2 ayda standart doz prednizona kıyasla
+MABTHERA ve düşük doz prednizonun istatistiksel olarak anlamlı sonuçlarını göstermiştir
+(bkz. Tablo 17).
+50/60Tablo 17 24. ayda iki ay veya daha uzun süre kortikosteroid tedavisi ile tam remisyona
+ulaşan PV hastalarının yüzdesi (Tedavi Amaçlı Popülasyon - PV)
+Rituximab + Prednizon
+prednizon N=36 p-degeria %95 GAb
+N=38
+Yanıt verenlerin sayısı 34 (%89,5) 10 (%27,8) <0,0001 %61,7 (38,4,
+76,5)
+(yanıt oranı [%])
+ap-değeri, Fisher'in orta-p düzeltmeli kesin testinden alınmıştır
+b %95 güven aralığı Newcombe aralığı ile düzeltildi
+24 aylık tedavi süresi boyunca standart doz prednizon hastalarına kıyasla prednizon tedavisi
+görmeyen veya minimal tedavi gören (günde 10 mg veya daha az prednizon dozu) rituximab
+artı düşük doz prednizon hastalarının sayısı, MABTHERA'nın steroidden koruyucu bir
+etkisi olduğunu göstermektedir. (Şekil 2).
+Şekil 2: Zaman içinde minimal kortikosteroid (≤10mg/gün) tedavisi gören veya
+bırakan hasta sayısı
+Post-hoc geriye dönük laboratuvar değerlendirmesi
+MABTHERA ile tedavi edilen PV'li toplam 19/34 (%56) hasta, 18 aya kadar ADA
+antikorları için pozitif test sonucu almışlardır. MABTHERA ile tedavi edilen PV
+hastalarında ADA oluşumunun klinik önemi belirsizdir.
+PV Çalışması 2 (Çalışma WA29330)
+Randomize, çift kör, çift plasebo, aktif karşılaştırmalı, çok merkezli bir çalışmada, günde
+60-120 mg oral prednizon alan orta-şiddetli PV'li hastalarda MABTHERA'nın mikofenolat
+mofetil (MMF) ile karşılaştırıldığında etkililiği ve güvenliliği değerlendirilmiştir.
+Çalışmaya girişte oral prednizon veya eşdeğeri (1-1,5 mg/kg/gün) 1. Günde 60 veya 80
+mg/gün doza ulaşacak şekilde azaltılmıştır. Hastaların önceki 24 ay içinde doğrulanmış bir
+51/60PV teşhisi ve orta ila şiddetli hastalık kanıtı (toplam Pemfigus Hastalığı Alan İndeksi, PDAI,
+aktivite skoru ≥15 olarak tanımlanmıştır) vardı.
+Yüz otuz beş hasta, 24. Haftaya kadar prednizonu 0 mg/gün azaltmak amacıyla. 60 veya 80
+mg oral prednizon ile kombinasyon halinde 1. Gün, 15. Gün, 24. Hafta ve 26. Haftada
+uygulanan 1000 mg MABTHERA veya 52 hafta boyunca oral 2 g/gün MMF tedavisine
+randomize edilmiştir.
+Bu çalışmanın birincil etkililik amacı, 52. haftada, 0 mg/gün prednizon veya eşdeğeri alırken
+ve bu yanıtı 52 haftalık tedavi süresi boyunca en az 16 ardışık hafta boyunca korurken,
+MMF ile karşılaştırıldığında MABTHERA'nın etkililiğini, yeni aktif lezyonu olmayan
+lezyonların iyileşmesini sağlamak olarak tanımlanan (yani, PDAI aktivite skoru 0) sürekli
+tam remisyon sağlamada değerlendirmekti.
+PV Çalışması 2 Sonuçları
+Çalışma, PV hastalarında 52. Haftada ≥16.haftada CRoff kortikosteroidine ulaşmada oral
+kortikosteroidlerin azaltılan kürü ile kombinasyon halinde MMF'ye göre MABTHERA'nın
+üstünlüğünü göstermiştir (Tablo 18). mITT popülasyonundaki hastaların çoğuna yeni tanı
+konmuştur (%74) ve hastaların %26'sında yerleşik hastalık vardır (hastalık süresi ≥6 ay ve
+PV için önceden tedavi görmüştür).
+Tablo 18 52. Haftada 16 Hafta veya Daha Fazla Kortikosteroid Tedavisi Dışında Tam
+Remisyon Sağlayan PV Hastalarının Yüzdesi (Tedavi Amaçlı Popülasyonu
+Değiştirilmiştir)
+MABTHERA MMF Fark (%95 GA) p-degeri
+(N=62) (N=63)
+Yanıt 25 (%40,3) 6 (%9,5) %30,8 (%14,7, <0,0001
+verenlerin %45,15)
+sayısı
+(yanıt oranı
+[%])
+Yeni teşhis 19 (%39,6) 4 (%9,1)
+edilen hastalar
+Yerleşik 6 (%42,9) 2 (%10,5)
+hastalığı olan
+hastalar
+MMF = Mikofenolat mofetil. GA = Güven Aralığı.
+Yeni teşhis edilen hastalar = hastalık süresi < 6 ay veya PV için önceden tedavi görmemiş.
+Belirlenmiş hastalığı olan hastalar = hastalık süresi ≥6 ay ve PV için önceden tedavi
+görmüş hastalar.
+p değeri için Cochran-Mantel-Haenszel testi kullanılır.
+Tüm ikincil parametrelerin analizi (kümülatif oral kortikosteroid dozu, toplam hastalık
+alevlenme sayısı ve Dermatoloji Yaşam Kalitesi İndeksi ile ölçülen sağlıkla ilgili yaşam
+kalitesindeki değişiklik dahil), MMF'ye kıyasla MABTHERA'nın istatistiksel olarak
+52/60anlamlı sonuçlarını doğrulamıştır. İkincil uç noktaların test edilmesi, çeşitlilik açısından
+kontrol edilmiştir.
+Glukokortikoid maruziyeti
+MABTHERA ile tedavi edilen hastalarda kümülatif oral kortikosteroid dozu önemli ölçüde
+daha düşüktür. 52. haftada medyan (min, maks) kümülatif prednizon dozu, MMF grubunda
+4005 mg (900, 19920) ile karşılaştırıldığında MABTHERA grubunda 2775 mg (450, 22180)
+olmuştur (p=0,0005).
+Hastalık alevlenmesi
+MMF ile karşılaştırıldığında MABTHERA ile tedavi edilen hastalarda toplam hastalık
+alevlenme sayısı önemli ölçüde daha düşüktür (6'ya karşı 44, p<0,0001) ve en az bir hastalık
+alevlenmesi olan daha az hasta vardır (%8,1'e karşı %41,3).
+Laboratuvar değerlendirmeleri
+52. haftaya kadar, toplam 20/63 (%31,7) (19 tedaviyle indüklenen ve 1 tedaviyle
+güçlendirilen) MABTHERA ile tedavi edilen PV hastalarının ADA testi pozitif çıkmıştır.
+PV Çalışması 2'de ADA varlığının güvenlilik veya etkililik üzerinde belirgin bir olumsuz
+etkisi olmamıştır.
+5.2 Farmakokinetik özellikler
+Emilim
+Yetişkin Hodgkin-dışı lenfoma
+Tekli ajan olarak ya da CHOP tedavisi ile kombinasyon halinde tek veya çok sayıda
+MABTHERA infüzyonu alan (uygulanan MABTHERA dozları 100 ile 500 mg/m2 arasında
+değişmiştir) 298 NHL hastasında yürütülen bir popülasyon farmakokinetiği analizi
+temelinde, spesifik olmayan klerens (CL ), B hücreleri veya tümör yüküne katkıda
+1
+bulunması olası spesifik klerens (CL ) ve santral kompartıman dağılım hacmi (V ) için tipik
+2 1
+popülasyon tahminleri sırasıyla 0,14 L/gün, 0,59 L/gün ve 2,7 L’dir. MABTHERA’nın
+hesaplanan medyan terminal eliminasyon yarılanma ömrü 22 gündür (aralık, 6,1 ila 52 gün).
+Başlangıç CD19-pozitif hücre sayımları ve ölçülebilir tümör lezyonlarının boyutu, 4 haftalık
+doz boyunca intravenöz infüzyon olarak 375 mg/m2 verilen 161 hastadan verilerde
+MABTHERA’nın CL ’sindeki değişkenliğin bir kısmına katkıda bulunmuştur. Daha yüksek
+2
+CD19-pozitif hücre sayımlarına veya tümör lezyonlarına sahip hastalar daha yüksek CL ’ye
+2
+sahiptir. Bununla birlikte, CD19-pozitif hücre sayımları ve tümör lezyon boyutu için
+düzeltme sonrası CL için bireyler arası değişkenliğin büyük kısmı devam etmiştir. V vücut
+2 1
+yüzey alanı (BSA) ve CHOP tedavisine göre değişmiştir. Sırasıyla BSA’daki aralık (1,52
+ila 2,32 m2) ve eşzamanlı CHOP tedavisinin katkıda bulunduğu V ’deki bu değişkenlik
+1
+(%27,1 ve %19) nispeten küçüktür. Yaş, cinsiyet ve WHO performans durumu
+MABTHERA’nın farmakokinetiği üzerinde bir etkiye sahip değildir. Bu analiz test edilen
+kovaryatlardan herhangi biri ile MABTHERA dozunun ayarlanmasının farmakokinetik
+değişkenliğinde anlamlı bir azalma ile sonuçlanmasının beklenmediğini düşündürmektedir.
+53/60Daha önce MABTHERA kullanmamış NHL’li 203 hastaya 4 doz boyunca haftada bir
+aralıklarla 375 mg/m2 dozda intravenöz infüzyon olarak uygulanan MABTHERA dördüncü
+infüzyonu takiben 486 mcg/mL’lik (aralık, 77,5 ila 996,6 mcg/mL) ortalama bir C
+maks
+vermiştir. Rituximab son tedavinin tamamlanmasından 3-6 ay sonra hastaların serumunda
+tespit edilebilmiştir.
+MABTHERA’nın NHL’li 37 hastaya 8 doz boyunca haftada bir aralarla intravenöz infüzyon
+olarak 375 mg/m2’lik bir dozda uygulanmasından sonra, ortalama C her bir ardışık
+maks
+infüzyon ile artmış olup, ilk infüzyondan sonra ortalama 243 mcg/mL (aralık, 16 – 582
+mcg/mL) ve sekizinci infüzyondan sonra 550 mcg/mL (aralık, 171 – 1,177 mcg/mL)
+arasında değişmiştir.
+6 siklus CHOP kemoterapisi ile kombinasyon halinde 375 mg/m2’lik 6 infüzyon olarak
+uygulandığında MABTHERA’nın farmakokinetik profili tek başına MABTHERA ile
+görülene benzerdir.
+Pediyatrik DBBHL/BL/BAL/BLL
+Emilim
+Pediyatrik DBBHL/BL/BAL/BLL'yi inceleyen klinik çalışmada farmakokinetik 3 yaş ve
+üzeri 35 hastadan oluşan bir alt grupta incelenmiştir. Farmakokinetik iki yaş grubu arasında
+karşılaştırılabilirdir (≥3 ila <12 yaş vs. ≥12 ila <18 yaş). İki indüksiyon kürünün (kür 1 ve
+2) her birinde 375 mg/m2'lik iki MABTHERA i.v. infüzyonu ve ardından konsolidasyon
+kürlerinin her birinde (kür 3 ve 4) 375 mg/m2'lik bir MABTHERA i.v. infüzyonundan sonra
+maksimum konsantrasyon dördüncü infüzyondan sonra en yüksek (kür2) 347mcg/mL
+geometrik ortalaması ve ardından daha düşük geometrik ortalama maksimum
+konsantrasyonlar (Döngü 4: 247mcg/mL). Bu doz rejimi ile dip seviyeler korunmuştur
+(geometrik ortalamalar: 41,8 mcg/mL (1 kürden sonra doz öncesi 2. kür), 67,7 mcg/mL (2
+kürden sonra doz öncesi 3. kür) ve 58,5 mcg/mL (3 kürden sonra doz öncesi 4. kür)). 3 yaş
+ve üzeri pediyatrik hastalarda medyan eliminasyon yarı ömrü 26 gündür.
+DBBHL/BL/BAL/BLL'li pediyatrik hastalarda MABTHERA'nın farmakokinetik özellikleri,
+yetişkin NHL hastalarında gözlemlenenlere benzerdir.
+≥ 6 ay ila < 3 yaş grubunda herhangi farmakokinetik verisi mevcut değildir, ancak
+popülasyon farmakokinetik tahmini, ≥3 yaşına kıyasla bu yaş grubunda karşılaştırılabilir
+sistemik maruziyeti (EAA, C ) desteklemektedir (Tablo 19). Daha küçük bazal tümör
+çukur
+boyutu, daha düşük zamana bağlı klerens nedeniyle daha yüksek maruziyetle ilişkilidir,
+ancak farklı tümör boyutlarından etkilenen sistemik maruziyetler, etkili olan ve kabul
+edilebilir bir güvenlilik profiline sahip olan maruziyet aralığında kalır.
+Tablo 19 Pediyatrik DBBHL/BL/BAL/BLL'de rituximab dozlama rejimini takiben
+tahmini farmakokinetik parametreleri
+Yaş grubu ≥ 6 ay < 3 yaş ≥ 3 yaş < 12 yaş ≥ 12 yaş < 18 yaş
+C (mcg/mL) 47,5 (0,01-179) 51,4 (0,00-182) 44,1 (0,00-149)
+çukur
+EAA 13501 (278-31070) 11609 (135-31157) 11467 (110-27066)
+1-4 kür
+(mcg*gün/mL)
+Sonuçlar ortalama (min-maks) olarak sunulmuştur; C , doz öncesi kür 4'tür.
+çukur
+54/60Kronik Lenfositik Lösemi
+Rituximab KLL hastalarında, fludarabin ve siklofosfamid ile kombinasyon halinde, i.v.
+infüzyon olarak ilk kürde 375 mg/m2, sonraki 5 kürün her birinde 500 mg/m2’ye artırılarak
+uygulanmıştır. Beşinci 500 mg/m2’lik infüzyondan sonra ortalama C (n=15), 408
+maks
+mcg/mL’dir (97-764 mcg/mL aralığında), ortalama terminal yarılanma ömrü de 32 gündür
+(14-62 gün aralığında).
+Granulamatoz Polianjiitis (Wegener) (GPA) ve Mikroskobik Polianjiitis (MPA)
+Yetişkin Popülasyon
+Dört doz boyunca haftada bir kez 375 mg/m2 MABTHERA almış polianjiit ile granülomatoz
+ve mikroskobik polianjiit görülen 97 hastada popülasyon farmakokinetiği analizi temelinde
+hesaplanmış ortalama terminal eliminasyon yarılanma ömrü 23 gündür (9 ila 49 gün
+aralığında). Rituximab ortalama klerensi ve dağılım hacmi sırasıyla 0,313 L/gün (0,116 ila
+0,726 L/gün aralığında) ve 4,50 L’dir (2,25 ila 7,39 L aralığında). İlk 180 gün boyunca
+maksimum konsantrasyon (C ) sırasıyla, 180. Günde minimum konsantrasyon (C180) ve
+maks
+180 gün boyunca eğrinin altındaki kümülatif alan (EAA180) (medyan [aralık]) 372,6
+(252,3-533,5) mcg/mL, 2,1 (0-29,3) mcg/mL ve 10302 (3653-21874) mcg/mL/gün’dür. Bu
+hastalarda rituximabın FK parametreleri romatoid artrit hastalarında gözlenene benzer
+görünmektedir.
+Pediyatrik Popülasyon
+Dört doz için haftada bir kez 375 mg/m2 MABTHERA alan GPA ve MPA'lı 25 çocuğun (6-
+17 yaş) popülasyon farmakokinetik analizine göre, tahmini medyan terminal eliminasyon
+yarı ömrü 22 gündür (aralık, 11 ila 42). günler). Rituximab ortalama klerensi ve dağılım
+hacmi sırasıyla 0,221 L/gün (aralık, 0,0996 ila 0,381 L/gün) ve 2,27 L (1,43 ila 3,17 L
+aralığında) idir. İlk 180 gün boyunca maksimum konsantrasyon (C ), 180. günde
+maks
+minimum konsantrasyon (C180) ve 180 gün boyunca eğrinin altındaki kümülatif alan
+(EAA180) (medyan [aralık]) sırasıyla 382,8 (270,6-513,6) mcg/mL, 0,9 ( 0-17,7) mcg/mL
+ve 9787 (4838-20446) mcg/mL*gündür. GPA veya MPA'lı pediyatrik hastalarda
+rituximabın PK parametreleri, bir zamanlar klerens ve dağılım parametrelerinin hacmi
+üzerindeki BSA etkisi hesaba katıldığında, GPA veya MPA'lı yetişkinlerdekine benzerdir.
+Pemfigus Vulgaris
+1., 15., 168 ve 182. Günlerde 1000 mg MABTHERA alan yetişkin PV hastalarındaki FK
+parametreleri Tablo 20'de özetlenmiştir.
+Tablo 20 PV Çalışması 2'den yetişkin PV hastalarında popülasyon PK'si
+Parametre İnfüzyon siklusu
+1. döngü 1000 mg 2. döngü 1000 mg
+1. gün ve 15. gün 168. gün ve 182. gün
+N=67 N=67
+Terminal Yarı Ömrü (gün)
+Medyan 21 26,5
+55/60(Aralık) (9,3-36,2) (16,4-42,8)
+Klerens (L/gün)
+Ortalama 391 247
+(Aralık) (159-1510) (128-454)
+Merkezi Dağıtım Hacmi
+(L) 3,52 3,52
+Ortalama (2,48-5,22) (2,48-5,22)
+(Aralık)
+İlk iki rituximab uygulamasını takiben (1. ve 15. günde, döngü 1'e karşılık gelir), PV'li
+hastalarda rituximabın PK parametreleri, GPA/MPA'lı hastalarda ve RA'lı hastalardakine
+benzerdir. Son iki uygulamayı takiben (2. döngüye karşılık gelen 168. ve 182. günlerde),
+merkezi dağılım hacmi değişmeden kalırken rituximab klerensi azalmıştır.
+Biyotransformasyon
+Hodgkin-dışı lenfoma
+Veri bulunmamaktadır.
+Kronik Lenfositik Lösemi
+Veri bulunmamaktadır.
+Granulamatoz Polianjiitis (Wegener) (GPA) ve Mikroskobik Polianjiitis (MPA)
+Veri bulunmamaktadır.
+Pemphigus vulgaris
+Veri bulunmamaktadır.
+Dağılım
+Hodgkin-dışı lenfoma
+Tek bir ajan olarak ya da CHOP tedavisi ile kombinasyonda rituximabın tek ya da çoklu
+infüzyonlarını alan 298 NHL hastasının farmakokinetik analizine dayanarak, muhtemelen
+B hücreleri ya da tümör yükünün katkıda bulunduğu spesifik olmayan klerensin (KL ),
+1
+spesifik klerensin (KL ) tipik hasta grubu tahminleri ve santral dağılım hacmi (V ), sırasıyla
+2 1
+0,14 L/gün, 0,59 L/gün ve 2,7 L’dir.
+Kronik Lenfositik Lösemi
+Veri bulunmamaktadır.
+Granulamatoz Polianjiitis (Wegener) (GPA) ve Mikroskobik Polianjiitis (MPA)
+Rituximab ortalama klerensi ve dağılım hacmi sırasıyla 0,313 L/gün (0,116 ila 0,726 L/gün)
+ve 4,50 L (2,25 ila 7,39 L) olarak bulunmuştur.
+56/60Pemphigus vulgaris
+Veri bulunmamaktadır.
+Eliminasyon
+Hodgkin-dışı lenfoma
+Rituximabın tahmin edilen medyan terminal eliminasyon yarı ömrü 22 gündür (aralık, 6,1
+ila 52 gün). Rituximabın, 4 haftalık dozlar halinde 375 mg/m2 i.v. infüzyon olarak verildiği
+161 hastadan elde edilen verilerde KL ’sindeki değişkenliğin bir kısmına başlangıç CD19-
+2
+pozitif hücre sayısı ve ölçülebilir tümör lezyonlarının boyutu katkıda bulunmuştur. Daha
+yüksek CD19-pozitif hücre sayısı ya da tümör lezyonları olan hastaların daha yüksek KL ’si
+2
+olmuştur. Bununla birlikte, CD19-pozitif hücre sayısı ve tümör lezyonu boyutu için
+düzeltme yapıldıktan sonra, KL için bireyler arası değişkenliğin büyük kısmı aynen
+2
+kalmıştır. V , vücut yüzey alanı (BSA) ve CHOP tedavisi ile değişmiştir. Sırasıyla,
+1
+BSA’daki aralık (1,53 ila 2,32 m2) ve eşzamanlı CHOP tedavisinin katkıda bulunduğu
+V ’deki (%27,1 ve %19) bu değişkenlik, göreceli olarak küçüktür.
+1
+Pediyatrik DBBHL/BL/BAL/BLL
+3 yaşından büyük pediyatrik hastalarda medyan eliminasyon yarılanma ömrü 26 gün
+olmuştur.
+Kronik Lenfositik Lösemi
+Rituximab KLL hastalarında, fludarabin ve siklofosfamid ile kombinasyon halinde, i.v.
+infüzyon olarak ilk kürde 375 mg/m2, sonraki 5 kürün her birinde 500 mg/m2’ye artırılarak
+uygulanmıştır. Beşinci 500 mg/m2’lik infüzyondan sonra ortalama C (n=15), 408
+maks
+mcg/mL (97-764 mcg/mL aralığında), ortalama terminal yarılanma ömrü de 32 gündür (14-
+62 gün aralığında).
+Granulamatoz polianjiitis (Wegener) (GPA) ve Mikroskobik polianjiitis (MPA)
+Dört doz boyunca haftada bir kere 375 mg/m2 rituximab alan 97 GPA ve MPA hastasındaki
+verilerin popülasyon farmakokinetik analizine dayanılarak, tahmini medyan terminal
+eliminasyon yarı ömrü 23 gündür (aralık, 9 ila 49 gün). Rituximab ortalama klerensi ve
+dağılım hacmi sırasıyla 0,313 L/gün (0,116 ila 0,726 L/gün) ve 4,50 L (2,25 ila 7,39 L)
+olarak bulunmuştur.
+Pemphigus vulgaris
+Veri bulunmamaktadır.
+Doğrusallık/doğrusal olmayan durum
+Dört çalışmada, iki hafta aralıklarla 1. gün ve 15. günde uygulanan 500 mg ve 1000 mg
+dozlardaki iki intravenöz rituximab infüzyonunu takiben, rituximab farmakokinetiği
+araştırılmıştır. Bu çalışmaların hepsinde, rituximab farmakokinetiği araştırılan limitli doz
+aralığı için doz ile orantılı olmuştur.
+57/60Hastalardaki karakteristik özellikler
+Böbrek veya karaciğer yetmezliği olan hastalara ait farmakokinetik veri bulunmamaktadır.
+Rituximabın farmakokinetiği üzerine yaş, cinsiyet, ırk ve DSÖ performans statüsünün
+herhangi bir etkisi olmamıştır. Bu analiz, test edilen eşdeğişken faktörlerin herhangi biriyle
+rituximabın doz ayarlamasının, farmakokinetik değişkenlikte anlamlı bir azalmayla
+sonuçlanmasının beklenmediğini belirtmektedir.
+5.3 Klinik öncesi güvenlilik verileri
+Rituximabın B hücrelerindeki CD20 antijenine yüksek düzeyde spesifik olduğu
+gösterilmiştir. Sinomolgus maymunlarında yapılan toksisite çalışmaları, periferik kanda ve
+lenfoid dokuda B hücrelerinin beklenen farmakolojik tüketiminden başka bir etki
+göstermemiştir.
+100 mg/kg’a kadarki dozlarda (gestasyonun 20-50. günleri arasında tedavi) sinomolgus
+maymunları üzerinde gelişimsel toksisite çalışmaları yapılmış ve fetüs için rituximabdan
+kaynaklanan herhangi bir toksisite kanıtının olmadığı gösterilmiştir. Ancak fetüsün lenfoid
+organlarında B hücrelerinin doza bağlı farmakolojik tüketimi gözlenmiş olup bu doğumdan
+sonra da devam etmiş ve buna etkilenen yeni doğan hayvanlarda IgG düzeylerinde bir
+azalma da eşlik etmiştir. B hücre sayısı, bu hayvanlarda doğumu takip eden 6 ay içerisinde
+normale dönmüş ve immünizasyon reaksiyonunu riske atmamıştır.
+Bu molekül için bu tür testler konu ile ilişkili olmadığından mutanejisiteyi araştıran standart
+testler yürütülmemiştir. Rituximabın karsinojenik potansiyelini belirlemek için uzun süreli
+hayvan çalışmaları yapılmamıştır. Rituximabın fertilite üzerindeki etkilerinin belirlenmesi
+için spesifik çalışmalar yürütülmemiştir. Genel toksisite çalışmalarında, erkek ve dişi
+sinomolgus maymunlarında üreme organları üzerinde zararlı etkiler gözlenmemiştir.
+6. FARMASÖTİK ÖZELLİKLERİ
+6.1 Yardımcı maddelerin listesi
+ Sodyum sitrat dihidrat: 7,35 mg/mL
+ Sitrik asit, susuz : 0,14 mg/mL
+ Sodyum klorür : 9 mg/ mL
+ Sodyum hidroksit : pH ayarı için y.m.
+ Polisorbat 80
+ Hidroklorik asit (pH ayarlaması için)
+ Enjeksiyonluk su
+6.2 Geçimsizlikler
+MABTHERA ile polivinilklorür veya polietilen torbalar veya infüzyon seti arasında
+geçimsizlik gözlenmemiştir.
+6.3 Raf ömrü
+Açılmamış flakon:
+58/6036 ay
+Seyreltilmiş ürün:
+ Sodyum klorür çözeltisinde aseptik seyreltme sonrasında
+%0,9’luk sodyum klorür çözeltisinde hazırlanan MABTHERA infüzyon çözeltisi fiziksel
+ve kimyasal olarak 30 gün süresince 2C-8C’de ve sonra da 24 saat süresince 30°C’de ve
+altındaki sıcaklıklarda stabildir.
+ D-glukoz çözeltisinde aseptik seyreltme sonrasında
+%5’lik D-glukoz çözeltisinde hazırlanan MABTHERA infüzyon çözeltisi fiziksel ve
+kimyasal olarak 24 saat süresince 2C-8C’de ve sonra da 12 saat süresince oda sıcaklığında
+stabildir.
+Mikrobiyolojik açıdan, seyreltilmiş ürünlerin hemen kullanılması gerekir. Bu ürünler hemen
+kullanılmazsa, seyreltme işlemi kontrollü ve valide edilmiş aseptik koşullar altında
+gerçekleştirilmediği takdirde kullanım sırasındaki saklama süreleri ve kullanım öncesindeki
+koşullar kullanıcının sorumluluğundadır ve normal olarak 2C-8C’de 24 saati aşmamalıdır.
+6.4 Saklamaya yönelik özel tedbirler
+Flakonları 2-8C’de (buzdolabında) saklayınız. Flakonları direkt güneş ışığından korumak
+için ambalajında saklayınız.
+Ürünün seyreltme işleminden sonraki saklama koşulları için Bölüm 6.3’e bakınız.
+6.5 Ambalajın niteliği ve içeriği
+10 mL’de 100 mg rituximab (10 mg/mL) içeren, bütil kauçuk tıpalı Tip I cam flakon.
+2 flakon içeren ambalajlarda.
+6.6 Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+MABTHERA infüzyonları, acil uygulama için tüm resüsitasyon olanaklarının
+bulunduğu merkezlerde ve deneyimli bir onkolog/hematoloğun gözetimi altında
+uygulanmalıdır.
+MABTHERA’ yı hazırlamak için steril bir iğne ve şırınga kullanılmalıdır. MABTHERA
+berrak ve renksiz bir sıvı olup steril, koruyucu maddeler içermeyen, tek dozluk flakonlarda
+bulunur. Gerekli miktarda MABTHERA’yı aseptik koşullarda çekiniz ve içinde steril,
+pirojen bulundurmayan, %0,9’luk sodyum klorürün veya %5’lik dekstrozun sudaki
+çözeltisinden bulunan bir infüzyon torbasında, hesaplanmış olan 1-4 mg/mL’lik rituximab
+konsantrasyonuna ulaşıncaya dek seyreltiniz. Çözeltiyi karıştırmak için, torbayı köpük
+oluşumunu önleyecek şekilde nazikçe ters çeviriniz.
+Parenteral ilaçlar uygulanmadan önce, partiküllü maddeler ve renk değişikliğine dikkat
+edilmelidir.
+59/60Seyreltilen ürün fiziksel ve kimyasal olarak 24 saat süresince 2C-8C’de ve sonra da 12
+saat süresince oda sıcaklığında stabildir.
+Farmasötik ürünlerin çevreye bırakılmasından kaçınılmalıdır. İlaçlar, atık suları ve evsel
+atık ile imha edilmemelidir. Varsa bulunduğunuz yerdeki donanımlı atık toplama
+sistemlerini kullanınız.
+Kullanılmamış olan ürünler ya da atık materyaller “Tıbbi Atıkların Kontrolü Yönetmeliği”
+ve “Ambalaj Atıklarının Kontrolü Yönetmeliği’ne” uygun olarak imha edilmelidir.
+7. RUHSAT SAHİBİ
+Roche Müstahzarları Sanayi Anonim Şirketi
+Uniq İstanbul, Ayazağa Cad. No:4, D/101
+Maslak 34396, Sarıyer- İstanbul
+Tel: (0 212) 366 90 00 Faks: (0 212) 285 22 00
+8. RUHSAT NUMARASI
+112/17
+9. İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ
+İlk ruhsatlandırma tarihi: 3 Nisan 2002
+Ruhsat yenileme tarihi: 17 Aralık 2009
+10. KÜB’ÜN YENİLENME TARİHİ
+. .
+60/60

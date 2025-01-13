@@ -1,0 +1,1426 @@
+KISA ÜRÜN BİLGİSİ
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+TİVİCAY 50 mg film kaplı tablet
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde:
+Her bir film kaplı tablet 50 mg dolutegravire eşdeğer 52,6 mg dolutegravir sodyum
+içermektedir.
+Yardımcı maddeler:
+Yardımcı maddeler için Bölüm 6.1’e bakınız.
+3. FARMASÖTİK FORM
+Film kaplı tablet.
+Bir tarafında “SV 572” ve diğer tarafında “50” yazıları basılı, sarı, yuvarlak, bikonveks şeklinde
+tablet.
+4. KLİNİK ÖZELLİKLER
+4.1. Terapötik endikasyonlar
+TİVİCAY; diğer antiretroviral ajanlarla kombinasyon halinde kullanılmak üzere İnsan
+Bağışıklık Yetmezliği Virüsü (HIV) ile enfekte yetişkinler, adolesanlar ve en az 14 kg
+ağırlığındaki 6 yaş veya üzerindeki çocukların tedavisinde endikedir.
+4.2. Pozoloji ve uygulama şekli
+TİVİCAY, HIV enfeksiyonunun tedavisinde deneyimli bir hekim tarafından başlatılmalıdır.
+Pozoloji:
+Yetişkinler
+HIV-1 ile enfekte olan ve belgelenen ya da klinik olarak şüphelenilen integraz sınıfı direnci
+olmayan hastalar
+TİVİCAY’in önerilen dozu günde bir kere 50 mg’dır.
+Bu hasta popülasyonunda dolutegravir bazı ilaçlar (örneğin; efavirenz, nevirapin,
+tipranavir/ritonavir veya rifampisin) ile birlikte kullanıldığında günde iki kere alınmalıdır (bkz.
+Bölüm 4.5).
+HIV-1 ile enfekte olan ve integraz sınıfına direnci olan (belgelenmiş ya da klinik olarak
+şüphelenilen) hastalar
+TİVİCAY’in önerilen dozu günde iki kere 50 mg’dır.
+Q148 + G140A/C/S, E138A/K/T, L74I’dan ≥2 sekonder mutasyonu içeren belgelenmiş direnç
+varlığında, model ileri evre birçok sınıfa direnç nedeniyle kısıtlı tedavi seçeneklerine sahip
+1(2’den az aktif ajan) hastalar için artırılmış bir dozun dikkate alınabileceğini düşündürmektedir
+(bkz. Bölüm 5.2).
+Bu hastalarda dolutegravir kullanma kararı integraz direnci türüne göre belirlenmelidir (bkz.
+Bölüm 5.1).
+Unutulan dozlar
+Bir doz TİVİCAY unutulursa, bir sonraki doza 4 saat ve daha az bir süre olmaması koşuluyla,
+hatırlandığı anda alınmalıdır. Buna karşın, bir sonraki doza 4 saat ve daha az bir süre varsa,
+atlanan doz alınmaz ve bir sonraki doz zamanında alınır.
+Uygulama şekli:
+TİVİCAY, aç veya tok karnına ağız yoluyla alınabilir (bkz. Bölüm 5.2). İntegraz sınıf direnci
+olması durumunda TİVİCAY, maruziyeti artırmak için, tercihen yemeklerle birlikte alınmalıdır
+(özellikle Q148 mutasyonu olan hastalarda) (bkz. Bölüm 5.2).
+Boğulma riskini azaltmak için, hastalar birden fazla tableti aynı anda yutmamalıdır.
+Özel popülasyonlara ilişkin ek bilgiler:
+Pediyatrik popülasyon:
+12 yaş ve üzerindeki ve 18 yaşından küçük, en az 20 kg ağırlığındaki adolesanlar
+HIV-1 ile enfekte olup integraz sınıfına direnci olmayan hastalarda önerilen dolutegravir dozu,
+günde bir kere 50 mg’dir. Alternatif olarak, tercihen günde iki kez 25 mg alınabilir (bkz. Bölüm
+5.2). İntegraz inhibitörü direnci varlığında adolesanlarda dolutegravir için bir doz önerebilmek
+için yetersiz veri bulunmaktadır.
+6 yaş ve üzerindeki ve 12 yaşından küçük, en az 14 kg ağırlığındaki çocuklar
+HIV-1 ile enfekte, integraz sınıfına dirençsiz hastalarda dolutegravirin önerilen dozuna çocuğun
+beden ağırlığına göre karar verilir (bkz. Tablo 1 ve Bölüm 5.2).
+Tablo 1 Pediyatrik doz önerileri
+Beden ağırlığı (kg) Doz
+14 ila <20 Günde bir kez 40 mg
+20 veya üzeri Günde bir kez 50 mg
+Alternatif olarak, tercihen doz biri sabah biri akşam alınmak üzere iki eşit doza bölünebilir (bkz.
+Tablo 2 ve Bölüm 5.2)
+Tablo 2 Alternatif pediyatrik doz önerileri
+Beden ağırlığı (kg) Doz
+14 ila <20 Günde iki kez 20 mg
+20 veya üzeri Günde iki kez 25 mg
+İntegraz inhibitör direnci varlığında, çocuklarda dolutegravir için bir döz önerisinde
+bulunabilmek için yetersiz veri bulunmaktadır.
+4 haftanın altında ve beden ağırlığı 3 kg’dan düşük olan çocuklarda dolutegravirin güvenliliği
+2ve etkililiği henüz saptanmamıştır. İntegraz inhibitörü direnci varlığında çocuklarda ve
+adolesanlarda dolutegravir için bir doz önerebilmek için yetersiz veri bulunmaktadır. Şu an
+itibariyle eldeki veriler Bölüm 4.8, 5.1 ve 5.2’de tarif edilmektedir, fakat pozoloji ile ilgili bir
+öneride bulunulamamaktadır.
+Geriyatrik popülasyon:
+65 yaş ve üzerindeki hastalarda TİVİCAY’in kullanımı ile ilgili mevcut veriler sınırlıdır. Yaşlı
+hastaların daha genç yetişkin hastalara göre farklı bir doza gereksinim duyduğuna dair bir kanıt
+yoktur (bkz. Bölüm 5.2).
+Böbrek yetmezliği:
+Hafif, orta veya şiddetli (CrCl <30 mL/dak, diyalizde değil) böbrek yetmezliği olan hastalarda
+doz ayarlamasına gerek yoktur. Diyaliz gören gönüllülerle ilgili veri mevcut değildir; diğer
+yandan, bu popülasyonda farmakokinetik açısından farklılıklar beklenmemektedir (bkz. Bölüm
+5.2).
+Karaciğer yetmezliği:
+Hafif veya orta karaciğer yetmezliği (Child-Pugh derece A veya B) olan hastalarda doz
+ayarlamasına gerek yoktur. Şiddetli karaciğer yetmezliği (Child-Pugh derece C) olan hastalarda
+veri mevcut değildir. Bu nedenle, dolutegravir bu hastalarda dikkatli kullanılmalıdır (bkz.
+Bölüm 5.2).
+4.3. Kontrendikasyonlar
+TİVİCAY’in, etkin maddesine veya içerisinde bulunan diğer yardımcı maddelerden herhangi
+birine karşı aşırı duyarlılığı olan hastalarda kullanımı kontrendikedir (bkz. Bölüm 6.1).
+TİVİCAY, dalfampridin olarak da bilinen fampridin dahil olmak üzere, organik katyon
+taşıyıcısı 2 (OCT2)’nin substratları olan ve dar terapötik pencereli tıbbi ürünlerle birlikte eş
+zamanlı olarak uygulanmamalıdır (bkz. Bölüm 4.5).
+4.4. Özel kullanım uyarıları ve önlemleri
+Özel ilgili integraz sınıf direnci
+İntegraz sınıf direnci olması durumunda dolutegravir kullanma kararı; G140A/C/S,
+E138A/K/T, L74I’dan ikincil Q148+≥2 mutasyonu barındıran viral suşlarda dolutegravirin
+etkililiğinin belirgin olarak azaldığı göz önünde bulundurularak verilmelidir (bkz. Bölüm 5.1).
+Bu tür integraz sınıf direncinde dolutegravirin ne derece etki göstereceği bilinmemektedir (bkz.
+Bölüm 5.2).
+Aşırı duyarlılık reaksiyonları
+Dolutegravir dahil olmak üzere integraz inhibitörleri ile aşırı duyarlılık reaksiyonları
+bildirilmiştir ve bunlar deri döküntüsü, yapısal bulgular ve şiddetli karaciğer reaksiyonları dahil
+olmak üzere kimi zaman organ disfonksiyonu ile karakterizedir. Eğer aşırı duyarlılık
+reaksiyonları işaretleri veya semptomları gelişirse TİVİCAY ve diğer şüpheli ilaçlar hemen
+bırakılmalıdır (bu reaksiyonlar, sınırlı olmamak üzere, şunları kapsamaktadır: Şiddetli deri
+döküntüsü veya karaciğer enzim yükselmelerinin eşlik ettiği deri döküntüsü, ateş, genel
+halsizlik, yorgunluk, kas veya eklem ağrıları, pullanma, oral lezyonlar, konjunktivit, yüzde
+ödem, hepatit, eozinofili, anjiyödem). Karaciğer aminotransferazları ve bilirubin dahil olmak
+üzere klinik durum takip edilmelidir. Aşırı duyarlılık ortaya çıktıktan sonra TİVİCAY veya
+3diğer şüpheli ajanlarla tedavinin durdurulmasında gecikme yaşamı tehdit eden alerjik bir
+reaksiyona neden olabilir.
+İmmün Reaktivasyon Sendromu
+Kombinasyon antiretroviral tedavisinin (KART) başlatılması sırasında şiddetli immün
+yetmezliği olan HIV ile enfekte hastalarda asemptomatik veya rezidüel fırsatçı patojenlere karşı
+bir enflamatuvar reaksiyon gelişebilir ve bu ciddi klinik durumlara veya semptomların
+şiddetlenmesine yol açabilir. Tipik olarak bu tip reaksiyonlar KART başlatıldıktan sonraki ilk
+haftalar veya aylar içinde gözlenmiştir. Önemli örnekler şunlardır: Sitomegalovirüs retiniti,
+jeneralize ve/veya fokal mikobakteriyel enfeksiyonları ve Pneumocystis jirovecii pnömonisi.
+Tüm enflamatuvar semptomlar değerlendirilmeli ve gerekli olduğunda tedavi başlatılmalıdır.
+İmmün rekonstitüsyon durumunda otoimmün hastalıkların (örneğin, Graves hastalığı ve
+otoimmün hepatit) meydana geldiği bildirilmiştir; diğer yandan bu olayların ortaya çıkma süresi
+değişkendir, tedavi başlatıldıktan aylar sonra görülebilir ve kimi zaman atipik bir klinik tablo
+ortaya çıkabilir.
+TİVİCAY tedavisinin başlangıcında bazı hepatit B ve/veya C ile ko-enfekte hastalarda immün
+rekonstitüsyon sendromu ile tutarlı karaciğer biyokimyası yükselmeleri gözlenmiştir. Hepatit
+B ve/veya C ile ko-enfekte hastalarda karaciğer biyokimyasının izlenmesi önerilmektedir.
+Hepatit B ile ko-enfekte hastalarda dolutegravir bazlı tedavi başlatılırken etkili hepatit B
+tedavisinin (tedavi kılavuzlarına başvurarak) başlatılması veya sürdürülmesine özel bir önem
+verilmelidir (bkz. Bölüm 4.8).
+Fırsatçı enfeksiyonlar
+Hastalara, TİVİCAY veya başka bir antiretroviral tedavinin HIV enfeksiyonunu tam olarak
+iyileştirmediği ve hastaların halen fırsatçı enfeksiyonlar ve HIV enfeksiyonunun diğer
+komplikasyonlarını geliştirebilecekleri söylenmelidir. Dolayısıyla hastalar, bu HIV ilişkili
+hastalıkların tedavisinde deneyimli hekimler tarafından yakın klinik gözetim altında
+tutulmalıdır.
+İlaç etkileşimleri
+İntegraz sınıf direnci olması durumunda dolutegravirin maruziyetini azaltacak faktörlerden
+kaçınılmalıdır. Bunlar dolutegravir maruziyetini azaltan tıbbi ürünlerle birlikte kullanımı
+içermektedir (örneğin; magnezyum/alüminyum içeren antasit, demir ve kalsiyum takviyeleri,
+multivitaminler ve indükleyici ilaçlar, etravirin (güçlendirilmiş proteaz inhibitörleri olmadan),
+tipranavir/ritonavir, rifampisin, sarı kantaron ve bazı anti-epileptik ilaçlar) (bkz. Bölüm 4.5).
+Dolutegravir, metformin konsantrasyonlarını artırmıştır. Metformin ile dolutegravirin eş
+zamanlı uygulamasına başlanırken veya durdurulurken glisemik kontrolün sürdürülmesi için
+metformin dozunda ayarlama göz önünde bulundurulmalıdır (bkz. Bölüm 4.5). Metformin
+böbrekler yoluyla atılır ve dolayısıyla dolutegravir ile eş zamanlı tedavi sırasında renal
+fonksiyonun izlenmesi önem arz eder. Orta dereceli böbrek bozukluğu (aşama 3a kreatinin
+klirensi [CrCl] 45– 59 mL/dk) olan hastalarda bu kombinasyon laktik asidoz riskini artırabilir
+ve dikkatli bir yaklaşım önerilir. Metformin dozunun azaltılması ön planda göz önünde
+bulundurulmalıdır.
+Osteonekroz
+Etiyolojinin çok faktörlü olduğu düşünülse de (kortikosteroid kullanımı, bifosfonatlar, alkol
+tüketimi, şiddetli immünosüpresyon, yüksek vücut kitle indeksi), ilerlemiş HIV hastalığı olan
+ve/veya kombinasyon antiretroviral tedaviye (KART) uzun süreli maruziyeti olan hastalarda
+4osteonekroz vakaları bildirilmiştir. Hastalara eklem ağrıları, eklem katılığı veya hareket
+güçlüğü yaşamaları durumunda tıbbi yardım almaları önerilmelidir.
+Kilo ve metabolik parametreler
+Antiretroviral tedavi sırasında kiloda ve kan lipitlerinin ve glukozunun düzeylerinde artış
+görülebilir. Bu tür değişiklikler kısmen hastalık kontrolü ve yaşam tarzı ile ilişkili olabilir.
+Lipitler ve kilo için bazı vakalarda tedavi etkisine ilişkin kanıt bulunmaktadır. Kan lipitlerinin
+ve glukozunun takibi mevcut HIV tedavi kılavuzları referans alınarak yapılmalıdır. Lipit
+bozuklukları klinik açıdan uygun olduğu şekilde yönetilmelidir.
+Lamivudin ve dolutegravir
+Günde bir kez 50 mg dolutegravir ve günde bir kez 300 mg lamivudin ikili tedavi rejimi
+randomize, kör iki çalışmada (GEMINI 1 ve GEMINI 2) incelenmiştir (bkz. Bölüm 5.1). Bu
+rejim yalnızca integraz inhibitör sınıfına veya lamivudine bilinen veya şüpheli direncin
+olmadığı HIV-1 enfeksiyonlarının tedavisinde uygundur.
+4.5. Diğer tıbbi ürünlerle etkileşim ve diğer etkileşim şekilleri
+Diğer ajanların dolutegravirin farmakokinetiği üzerindeki etkisi
+İntegraz sınıf direnci varlığında dolutegravir maruziyetini azaltan tüm faktörlerden
+kaçınılmalıdır.
+Dolutegravir büyük oranda UGT1A1 yoluyla gerçekleştirilen metabolizma aracılığıyla elimine
+edilir. Dolutegravir aynı zamanda UGT1A3, UGT1A9, CYP3A4, Pgp ve BCRP’nin bir
+substratıdır; dolayısıyla, bu enzimleri indükleyen ilaçlar dolutegravir plazma konsantrasyonunu
+düşürebilir ve dolutegravirin terapötik etkisini azaltabilir (bkz. Tablo 3). TİVİCAY’in ve bu
+enzimleri inhibe eden diğer tıbbi ürünlerin eş zamanlı uygulanması dolutegravir plazma
+konsantrasyonunu artırabilir (bkz. Tablo 3).
+Bazı antiasitler dolutegravir absorpsiyonunu düşürmektedir (bkz. Tablo 3).
+Dolutegravirin diğer ajanların farmakokinetiği üzerindeki etkisi
+İn vivo koşullarda dolutegravir, bir CYP3A4 probu olan midazolam üzerinde bir etki
+göstermemiştir. İn vivo ve/veya in vitro verilere dayalı olarak dolutegravirin CYP3A4, CYP2C9
+ve P-gp gibi majör enzimlerin veya taşıyıcıların substratları olan tıbbi ürünlerin
+farmakokinetiğini etkilemesi beklenmemektedir.
+İn vitro koşullarda dolutegravir renal organik katyon taşıyıcısı 2 (OCT2)’yi ve çoklu ilaç ve
+toksin ekstrüzyon taşıyıcısı (MATE) 1’i inhibe etmiştir. İn vivo koşullarda, hastalarda kreatinin
+klirensinde %10-14 azalma (sekretuvar fraksiyon OCT2 ve MATE-1 taşınmasına bağlıdır)
+gözlenmiştir. Bu gözleme dayalı olarak in vivo koşullarda dolutegravir, atılımın OCT2 ve/veya
+MATE-1’e bağlı olduğu tıbbi ürünlerin (fampridin (dalfampridin olarak da bilinir), metformin)
+plazma konsantrasyonlarını artırabilir (bkz. Tablo 3).
+İn vitro koşullarda dolutegravir renal alım taşıyıcıları, organik anyon taşıyıcıları (OAT1) ve
+OAT3’ü inhibe etmiştir. OAT substratı tenofovirin in vivo farmakokinetiği üzerinde etki
+görülmemesi temelinde, in vivo OAT1 inhibisyonu olası değildir. OAT3’ün inhibisyonu in vivo
+koşullarda araştırılmamıştır. Dolutegravir, atılımın OAT3’e bağımlı olduğu tıbbi ürünlerin
+plazma konsantrasyonlarını artırabilir.
+5Seçili antiretroviraller ve antiretroviral olmayan tıbbi ürünler ile bilinen ve teorik etkileşimler
+Tablo 3’te listelenmektedir.
+İlaç etkileşimleri tablosu
+Dolutegravir ve birlikte kullanılan ilaçlar arasındaki etkileşimler Tablo 3’te listelenmiştir.
+Kısaltmalar: ↑=artma; ↓=azalma; ↔=anlamlı değişiklik yok; EAA=konsantrasyon-zaman
+eğrisi altındaki alan; C = maksimum gözlenen konsantrasyon; Cτ= doz uygulama aralığının
+maks
+sonundaki konsantrasyon.
+Tablo 3: İlaç Etkileşimleri
+Tedavi alanlarına göre Etkileşim Eş zamanlı kullanım önerileri
+tıbbi ürünler Geometrik ortalama
+değişimi (%)
+HIV-1 ANTİVİRAL AJANLAR
+Non-nükleozid Revers Transkriptaz İnhibitörleri
+Etravirin, güçlendirilmiş Dolutegravir ↓ Güçlendirilmiş proteaz inhibitörleri
+proteaz inhibitörleri EAA ↓ %71 olmadan etravirin plazma
+olmadan C ↓ %52 dolutegravir konsantrasyonunu
+maks
+Cτ ↓ %88 düşürmüştür. Dolutegravirin önerilen
+erişkin dozu, güçlendirilmiş proteaz
+Etravirin ↔ inhibitörleri olmadan etravirin ile bir
+(UGT1A1 ve CYP3A arada uygulandığında günde iki kez
+enzim indüksiyonu) 50 mg’dır. Pediyatrik hastalarda
+vücut ağırlığına bağlıgünde bir doz,
+günde iki kez olarak uygulanmalıdır.
+Dolutegravir, INI dirençli hastalarda
+eş zamanlı atazanavir/ritonavir,
+darunavir/ritonavir veya
+lopinavir/ritonavir uygulaması
+olmadan etravirin ile birlikte
+kullanılmamalıdır (tablonun ileriki
+kısımlarına bakınız).
+Lopinavir/ritonavir + Dolutegravir ↔ Herhangi bir doz ayarlaması gerekli
+etravirin EAA ↑ %11 değildir.
+C ↑ %7
+maks
+Cτ ↑ %28
+LPV ↔
+RTV ↔
+Darunavir/ritonavir + Dolutegravir ↓ Herhangi bir doz ayarlaması gerekli
+etravirin EAA ↓ %25 değildir.
+C ↓ %12
+maks
+Cτ ↓ %36
+DRV ↔
+RTV ↔
+6Efavirenz Dolutegravir ↓ Efavirenz ile birlikte kullanıldığında
+EAA ↓ %57 TİVİCAY’ın önerilen erişkin dozu
+C ↓ %39 günde iki kere 50 mg’dir. Pediyatrik
+maks
+Cτ ↓ %75 hastalarda vücut ağırlığına
+bağlıgünde bir doz, günde iki kez
+Efavirenz ↔ (tarihsel olarak uygulanmalıdır. İntegraz sınıf
+kontroller) direnci varsa, efavirenz içermeyen
+(UGT1A1 ve CYP3A alternatif kombinasyonlar
+enzim indüksiyonu) kullanılmalıdır (bkz. Bölüm 4.4).
+Nevirapin Dolutegravir ↓ Nevirapin ile birlikte kullanıldığında
+(Bu ilaçların eş zamanlı TİVİCAY’ın önerilen erişkin dozu
+kullanımı henüz günde iki kere 50 mg’dir. Pediyatrik
+çalışılmamıştır. hastalarda vücut ağırlığına bağlı
+İndüksiyon nedeniyle günde bir doz, günde iki kez olarak
+efavirenz ile gözlenen uygulanmalıdır. İntegraz sınıf direnci
+maruziyet düşüşü varlığında, nevirapin içermeyen
+beklenir.) kombinasyonlar düşünülmelidir
+(bkz. Bölüm 4.4).
+Rilpivirin Dolutegravir ↔ Doz ayarlaması gerektirmez.
+EAA ↑%12
+C ↑%13
+maks
+Cτ ↑%22
+Rilpivirin ↔
+Nükleozid Revers Transkriptaz İnhibitörleri
+Tenofovir Dolutegravir ↔ Doz ayarlaması gerektirmez.
+EAA ↑ %1
+C ↓ %3
+maks
+Cτ ↓ %8
+Tenofovir ↔
+Proteaz İnhibitörleri
+Atazanavir Dolutegravir ↑ Doz ayarlaması gerektirmez.
+EAA ↑ %91
+C ↑ %50 Veri eksikliği nedeniyle TİVİCAY,
+maks
+Cτ ↑ %180 atazanavir ile kombinasyon halinde
+günde iki kez 50 mg’dan daha
+Atazanavir ↔ (tarihsel yüksek dozda verilmemelidir (bkz.
+kontroller) Bölüm 5.2)
+(UGT1A1 ve CYP3A
+enzim inhibisyonu)
+Atazanavir+ritonavir Dolutegravir ↑ Doz ayarlaması gerektirmez.
+EAA ↑ %62
+C ↑ %34 Veri eksikliği nedeniyle TİVİCAY,
+maks
+Cτ ↑ %121 atazanavir ile kombinasyon halinde
+günde iki kez 50 mg’dan daha
+Atazanavir ↔ yüksek dozda verilmemelidir (bkz.
+Ritonavir ↔ Bölüm 5.2).
+(UGT1A1 ve CYP3A
+enzim inhibisyonu)
+7Tipranavir+ritonavir Dolutegravir ↓ Tipranavir/ritonavir ile birlikte
+(TPV+RTV) EAA ↓ %59 kullanıldığında TİVİCAY’ın
+C ↓ %47 önerilen erişkin dozu günde iki kere
+maks
+Cτ ↓ %76 50 mg’dir. Pediyatrik hastalarda
+vücut ağırlığına bağlı günde bir doz,
+(UGT1A1 ve CYP3A günde iki kez olarak uygulanmalıdır.
+enzim indüksiyonu) İntegraz sınıf direnci varlığında bu
+kombinasyondan kaçınılmalıdır
+(bkz. Bölüm 4.4).
+Fosamprenavir+ritonavir Dolutegravir ↓ İntegraz sınıf direnci
+(FPV+RTV) EAA ↓ %35 bulunmadığında, doz ayarlaması
+C ↓ %24 gerektirmez. İntegraz sınıf direnci
+maks
+Cτ ↓ %49 varsa, fosamprenavir/ritonavir
+içermeyen alternatif kombinasyonlar
+(UGT1A1 ve CYP3A düşünülmelidir.
+enzim indüksiyonu)
+Darunavir+ritonavir Dolutegravir ↓ Doz ayarlaması gerektirmez.
+EAA ↓ %22
+C ↓ %11
+maks
+C ↓ %38
+24
+(UGT1A1 ve CYP3A
+enzim indüksiyonu)
+Lopinavir+ritonavir Dolutegravir ↔ Doz ayarlaması gerektirmez.
+EAA ↓ %4
+C ↔ %0
+maks
+C ↓ %6
+24
+DİĞER ANTİVİRAL AJANLAR
+Daklatasvir Dolutegravir ↔ Daklatasvir, dolutegravir plazma
+EAA ↑ %33 konsantrasyonunu klinik olarak
+C ↑ %29 anlamlı ölçüde değiştirmemiştir.
+maks
+Cτ ↑ %45 Dolutegravir, daklatasvir plazma
+konsantrasyonunu değiştirmemiştir.
+Daklatasvir ↔
+Herhangi bir doz ayarlaması gerekli
+değildir.
+DİĞER AJANLAR
+Potasyum kanalı blokerleri
+Fampridin Fampridin ↑ OCT2 taşıyıcısının inhibisyonu ile
+(Dalfampridine olarak da artmış fampridin plazma
+bilinir.) konsantrasyonu nedeniyle,
+dolutegravirin birlikte
+uygulanmasının nöbetlere yol açma
+potansiyeli vardır; birlikte uygulama
+çalışılmamıştır. Fampridinin
+dolutegravir ile birlikte uygulanması
+kontrendikedir.
+Antikonvülsanlar
+8Karbamazepin Dolutegravir ↓ Karbamazepin ile bir arada
+EAA ↓ %49 uygulandığında dolutegravir için
+C ↓ %33 önerilen erişkin dozu günde iki kez
+maks
+Cτ ↓ %73 50 mg’dır. Pediyatrik hastalarda
+vücut ağırlığına bağlı günde bir doz,
+günde iki kez olarak uygulanmalıdır.
+INI dirençli hastalarda mümkünse
+karbamazepine alternatifler
+kullanılmalıdır.
+Okskarbazepin Dolutegravir ↓ Bu metabolik indükleyiciler ile bir
+Fenitoin (Bu ilaçların eş zamanlı arada uygulandığında dolutegravir
+Fenobarbital kullanımı henüz için önerilen erişkin dozu günde iki
+çalışılmamıştır. kez 50 mg’dır. Pediyatrik hastalarda
+UGT1A1 ve CYP3A vücut ağırlığına bağlı günde bir doz,
+enzim indüksiyonu günde iki kez olarak uygulanmalıdır.
+nedeniyle düşüş INI dirençli hastalarda mümkünse
+beklenir. Maruziyette, (bu metabolik indükleyicileri
+karbamazepin ile içermeyen) alternatif
+gözlenene benzer bir kombinasyonlar kullanılmalıdır.
+azalma beklenir.)
+Azol antifungal ajanlar
+Ketokonazol Dolutegravir ↔ Doz ayarlaması gerektirmez. Diğer
+Flukonazol (Bu ilaçların eş zamanlı CYP3A4 inhibitörleri ile elde edilen
+İtrakonazol kullanımı henüz mevcut verilere dayanarak, belirgin
+Posakonazol çalışılmamıştır.) bir artış beklenmez.
+Vorikonazol
+Bitkisel ürünler
+Sarı kantaron Dolutegravir ↓ Sarı kantaron ile bir arada
+(St. John’s wort) (Bu ilaçların eş zamanlı uygulandığında dolutegravir için
+kullanımı henüz önerilen erişkin dozu günde iki kez
+çalışılmamıştır. 50 mg’dır. Pediyatrik hastalarda
+UGT1A1 ve CYP3A vücut ağırlığına bağlı günde bir doz,
+enzim indüksiyonu günde iki kez olarak uygulanmalıdır.
+nedeniyle düşüş INI dirençli hastalarda mümkün
+beklenir. Maruziyette, olduğunca Sarı kantaron içermeyen
+karbamazepin ile alternatif kombinasyonlar
+gözlenene benzer bir kullanılmalıdır.
+azalma beklenir.)
+Antasitler ve takviyeler
+Magnezyum/alüminyum Dolutegravir ↓ Magnezyum/alüminyum içeren
+içeren antasitler EAA ↓ %74 antiasitler, dolutegravir
+C ↓ %72 uygulamasının belirli bir zaman
+maks
+(Polivalan iyonlara aralığı dışında(minimum 2 saat sonra
+kompleks bağlanma) veya 6 saat önce) alınmalıdır.
+9Kalsiyum takviyeleri Dolutegravir ↓ Kalsiyum takviyeleri, dolutegravir
+EAA ↓ %39 uygulamasının belirli bir zaman
+C ↓ %37 aralığı dışında (minimum 2 saat
+maks
+C ↓ %39 sonra veya 6 saat önce) alınmalıdır.
+24
+(Polivalan iyonlara
+kompleks bağlanma)
+Demir takviyeleri Dolutegravir ↓ Demir takviyeleri, dolutegravir
+EAA ↓ %54 uygulamasının belirli bir zaman
+C ↓ %57 aralığı dışında (minimum 2 saat
+maks
+C ↓ %56 sonra veya 6 saat önce) alınmalıdır.
+24
+(Polivalan iyonlara
+kompleks bağlanma)
+Multivitaminler Dolutegravir ↓ Multivitaminler, dolutegravir
+EAA ↓ %33 uygulamasının belirli bir zaman
+C ↓ %35 aralığı dışında (minimum 2 saat
+maks
+C ↓ %32 sonra veya 6 saat önce) alınmalıdır.
+24
+(Polivalan iyonlara
+kompleks bağlanma)
+Kortikosteroidler
+Prednizon Dolutegravir ↔ Doz ayarlaması gerektirmez.
+EAA ↑ %11
+C ↑ %6
+maks
+C ↑ %17
+24
+Antidiyabetikler
+Metformin Metformin ↑ Metformin ile dolutegravirin eş
+zamanlı uygulamasına başlanırken
+Günde bir kez veya durdurulurken glisemik
+dolutegravir 50 mg ile kontrolün sürdürülmesi için
+bir arada metformin dozunda ayarlama göz
+uygulandığında: önünde bulundurulmalıdır.
+Metformin Orta dereceli böbrek bozukluğu olan
+EAA ↑ %79 hastalarda dolutegravir ile eş zamanlı
+C ↑ %66 uygulamada, artmış metformin
+maks
+Günde iki kez konsantrasyonuna bağlı olarak orta
+dolutegravir 50 mg ile dereceli böbrek bozukluğu olan
+bir arada hastalardaki daha yüksek laktik
+uygulandığında: asidoz riski sebebiyle, metformin
+Metformin dozunda ayarlama göz önünde
+EAA ↑ %145 bulundurulmalıdır
+C ↑ %111 (bkz. Bölüm 4.4).
+maks
+Antimikobakteriyeller
+10Rifampisin Dolutegravir ↓ İntegraz sınıf direnci
+EAA ↓ %54 bulunmadığında rifampisin ile
+C ↓ %43 birlikte kullanıldığında TİVİCAY’ın
+maks
+Cτ ↓ %72 önerilen erişkin dozu günde iki kere
+50 mg’dir. Pediyatrik hastalarda
+(UGT1A1 ve CYP3A vücut ağırlığına bağlı günde bir doz,
+enzim indüksiyonu) günde iki kez olarak uygulanmalıdır.
+İntegraz sınıf direnci varsa, bu
+kombinasyon kullanılmamalıdır
+(bkz. Bölüm 4.4).
+Rifabutin Dolutegravir ↔ Doz ayarlaması gerektirmez.
+EAA ↓ %5
+C ↑ %16
+maks
+Cτ ↓ %30
+(UGT1A1 ve CYP3A
+enzim indüksiyonu)
+Oral kontraseptifler
+Etinil estradiyol (EE) ve Dolutegravir ↔ Dolutegravirin luteinizan hormon
+norgestromin (NGMN) EE ↔ (LH), folikül stimülan hormon
+EAA ↑ %3 (FSH) ve progesteron üzerinde
+C ↓ %1 farmakodinamik bir etkisi mevcut
+maks
+değildir. TİVİCAY ile birlikte
+NGMN ↔ kullanıldığında, oral kontraseptif
+EAA ↓ %2 dozunun ayarlanması gerekmez.
+C ↓ %11
+maks
+Analjezikler
+Metadon Dolutegravir ↔ Her iki ilacın da dozunun
+Metadon ↔ ayarlanması gerekmez.
+EAA ↓ %2
+C ↔ %0
+maks
+Cτ ↓%1
+Özel popülasyonlara ilişkin ek bilgiler
+Veri yoktur.
+Pediyatrik popülasyon
+Etkileşim çalışmaları yalnızca yetişkinlerde gerçekleştirilmiştir.
+4.6. Gebelik ve laktasyon
+Genel tavsiye
+Gebelik kategorisi: 1. trimesterde D, 2 ve 3. trimesterde C
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon)
+Çocuk doğurma potansiyeli bulunan kadınlar, etkili bir kontrasepsiyon yönteminin
+düşünülmesi de dahil olmak üzere, dolutegravir ile nöral tüp defektlerinin olası riski hakkında
+uyarılmalıdır (aşağıya bakınız).
+Eğer bir kadın hasta gebe kalmayı planlıyorsa, dolutegravir tedavisine devam edilmesinin
+yararları ve riskleri hasta ile tartışılmalıdır.
+11Gebelik dönemi
+Dolutegravirin gebelik ve/veya fetus/yeni doğan üzerinde zararlı farmakolojik etkileri
+bulunmaktadır.
+TİVİCAY kullanımından birinci trimesterde kaçınılmalıdır ve gebelikte ancak anneye olan
+yararı fetüse olan potansiyel riskinden fazla ise kullanılmalıdır.
+Gebe kadınlar üzerinde yapılan çalışmalar yetersizdir, buna ilişkin yeterli veri
+bulunmamaktadır. Dolutegravirin insan gebeliği üzerindeki etkisi bilinmemektedir.
+Botswana’daki bir doğum sonuç sürveyans çalışmasından elde edilen insan deneyimi nöral tüp
+defektleri için küçük bir artış göstermektedir: Gebe kalım (konsepsiyon) zamanında
+dolutegravir içeren tedavi rejimleri kullanan annelerde 3.591 doğumda 7 vaka (%0,19; 95% GA
+%0,09, %0,40) (gebe kalım (konsepsiyon) zamanında dolutegravir içermeyen tedavi
+rejimlerine maruz kalan annelerde 19.361 doğumda 21 vakaya kıyasla (%0,11: 95% GA %0,07,
+%0,17).
+Genel popülasyonda nöral tüp defekti insidansı 1.000 canlı doğumda 0,5-1 vakadır (%0,05-
+0,1). Çoğu nöral tüp defektleri, gebe kalım (konsepsiyon) sonrasında (son menstrüal periyottan
+yaklaşık 6 hafta sonra) embriyonik gelişimin ilk 4 haftası içerisinde ortaya çıkar. Dolutegravir
+tedavisi sırasında gebelik ilk trimesterde tespit edilirse, başka bir antiretroviral rejime geçişe
+kıyasla dolutegravir tedavisine devam edilmesinin yararları ve riskleri gestasyonal yaş ve nöral
+tüp defekti gelişiminin kritik zaman periyodu hesaba katılarak hasta ile tartışılmalıdır.
+Antiretroviral Gebelik Kaydından elde edilen veriler, gebelik sırasında dolutegravire maruz
+kalan 600’den fazla kadında majör doğum kusurlarının riskinde bir artış göstermemektedir,
+ancak bu veriler mevcut durumda nöral tüp defektlerinin riskini belirlemek için yeterli değildir.
+Hayvanlar üzerinde yapılan üreme toksisitesi çalışmalarında, nöral tüp defektleri de dahil olmak
+üzere, bir advers gelişim sonucu belirlenmemiştir (bkz. Bölüm 5.3).
+Gebeliğin ikinci ve üçüncü trimesterindeki maruziyetten elde edilen 1.000’den fazla sonuç,
+föto/neonatal toksisite risklerinin artışına dair kanıt göstermemektedir. Dolutegravir, beklenen
+yarar fetüs üzerindeki olası riskten fazlaysa gebeliğin ikinci ve üçüncü trimesterinde
+kullanılabilir.
+Dolutegravir, insanlarda plasentayı geçer. HIV ile yaşayan gebe kadınlarda, dolutegravirin
+medyan fetal göbek kordonu konsantrasyonu, maternal periferal plazma konsantrasyonu ile
+karşılaştırıldığında yaklaşık 1,3 kat daha fazla olmuştur.
+Dolutegravirin yenidoğanlar üzerindeki etkisine dair yeterli bilgi bulunmamaktadır.
+Laktasyon dönemi
+Dolutegravir, anne sütüne küçük miktarlarda geçmektedir. (Maternal plazmaya medyan
+dolutegravir anne sütü oranı 0,033 olarak gösterilmiştir). Dolutegravirin
+neonatlardaki/infantlardaki etkileri üzerine yeterli bilgi bulunmamaktadır.
+HIV ile yaşayan kadınların, HIV bulaşmasını önlemek amacıyla, bebeklerini emzirmemesi
+önerilmektedir.
+12Üreme yeteneği/Fertilite
+TİVİCAY’in insan erkek veya dişi fertilitesi üzerindeki etkileri ile ilgili bir veri mevcut
+değildir. Hayvan çalışmaları, dolutegravirin erkek veya dişi fertilitesi üzerinde bir etkisi
+olmadığına işaret etmektedir (bkz. Bölüm 5.3).
+4.7. Araç ve makine kullanımı üzerinde etkiler
+Dolutegravir tedavisi sırasında hastalara baş dönmesinin raporlandığı konusunda bilgi
+verilmelidir. Hastaların araç veya makine kullanma yeteneği üzerine karar verirken, hastaların
+klinik durumu ve TİVİCAY’in advers reaksiyon profili de göz önünde bulundurulmalıdır.
+4.8. İstenmeyen etkiler
+Güvenlilik profilinin özeti
+Bir hastada görülen en şiddetli advers reaksiyon, döküntülü aşırı duyarlılık reaksiyonu ve
+şiddetli karaciğer etkileridir (bkz. Bölüm 4.4). En sık görülen tedavi sırasında ortaya çıkan
+advers reaksiyonlar bulantı (%13), diyare (%18) ve baş ağrısı (%13) olmuştur.
+En azından dolutegravirle ilişkili olma olasılığı bulunduğu düşünülen advers reaksiyonlar vücut
+sistemi, organ sınıfı ve mutlak sıklığa göre listelenmektedir. Sıklıklar şu şekildedir: Çok yaygın
+(≥1/10), yaygın (≥1/100 ila <1/10), yaygın olmayan (≥1/1.000 ila <1/100), seyrek (≥1/10.000
+ila <1/1.000), çok seyrek (<1/10.000), bilinmiyor (eldeki verilerden hareketle tahmin
+edilemiyor).
+Bağışıklık sistemi hastalıkları
+Yaygın olmayan: Aşırı duyarlılık (bkz. Bölüm 4.4), İmmün Rekonstitüsyon Sendromu (Bölüm
+4.4’e ve aşağıdaki “Seçilmiş advers reaksiyonların tanımı” başlığına bakınız.)
+Psikiyatrik hastalıkları
+Yaygın: Uykusuzluk, anormal rüyalar, depresyon, anksiyete
+Yaygın olmayan: İntihar düşüncesi*, intihara teşebbüs*, panik atak
+*Özellikle depresyon ya da psikiyatrik hastalık geçmişi olan hastalarda.
+Seyrek: Ölümle sonuçlanan intihar*
+*Özellikle depresyon veya psikiyatrik hastalık geçmişi olan hastalarda.
+Sinir sistemi hastalıkları
+Çok yaygın: Baş ağrısı
+Yaygın: Sersemlik
+Gastrointestinal hastalıkları
+Çok yaygın: Mide bulantısı, ishal
+Yaygın: Kusma, flatulans, üst abdominal ağrı, abdominal ağrı, abdominal rahatsızlık
+Hepato-bilier hastalıkları
+Yaygın: Alanin aminotransferaz (ALT) ve/veya aspartat aminotransferaz (AST) düzeylerinde
+artış
+Yaygın olmayan: Hepatit
+Seyrek: Akut hepatik yetmezlik, bilirubinde artış (transaminaz düzeylerinde artış ile birlikte)
+13Deri ve deri altı doku hastalıkları
+Yaygın: Döküntü, kaşıntı
+Kas-iskelet bozuklukları, bağ doku ve kemik hastalıkları
+Yaygın olmayan: Artralji, miyalji
+Genel bozukluklar ve uygulama bölgesine ilişkin hastalıkları
+Yaygın: Yorgunluk
+Araştırmalar
+Yaygın: Kreatin fosfokinaz (CPK) düzeyinde artış, kilo artışı
+Seçilmiş advers reaksiyonların tanımı:
+Laboratuvar biyokimyasındaki değişiklikler
+Serum kreatinin artışları dolutegravir ile tedavinin ilk haftası içinde ortaya çıkmış ve 48 hafta
+boyunca sabit kalmıştır. 48 haftalık tedaviden sonra başlangıca göre ortalama 9,96 mikromol/L
+değişim gözlenmiştir. Kreatin artışları, çeşitli arkaplan rejimlerinde benzer bulunmuştur.
+Glomerüler filtrasyon hızında bir değişimi yansıtmadıkları için bu değişiklikler klinik açıdan
+anlamlı kabul edilmemiştir.
+Hepatit B veya C ile eş zamanlı enfeksiyon
+Eş zamanlı olarak hepatit B ve/veya C enfeksiyonu olan hastaların, başlangıçtaki karaciğer
+kimyası testleri normalin üst sınırını (ULN) 5 kattan fazla aşmadıkları sürece Faz III
+çalışmalarına katılmalarına izin verilmiştir. Tüm tedavi gruplarında eş zamanlı olarak hepatit B
+ve/veya C enfeksiyonlu alt grupta AST ve ALT anormalliklerinin oranları daha yüksek olsa da,
+genelde eş zamanlı olarak hepatit B ve/veya C enfeksiyonu olan hastaların güvenlilik profili eş
+zamanlı olarak hepatit B ve/veya C enfeksiyonu olmayan hastalarda gözlemlenene benzer
+olmuştur. Eş zamanlı olarak hepatit B ve/veya C enfeksiyonu olan bazı kişilerden özellikle de
+anti-hepatit B tedavisini bırakanlarda olmak üzere, dolutegravir tedavisinin başında immün
+rekonstitüsyon sendromu ile uyumlu karaciğer kimyası artışları gözlenmiştir (bkz. Bölüm 4.4).
+İmmün reaktivasyon sendromu
+Kombinasyon antiretroviral tedavinin (KART) başladığı sırada şiddetli bağışıklık yetmezliği
+bulunan HIV ile enfekte hastalarda asemptomatik ya da rezidüel fırsatçı enfeksiyonlara karşı
+bir enflamasyon reaksiyonu ortaya çıkabilir. Otoimmün bozukluklar (Graves hastalığı ve
+otoimmün hepatit gibi) da bildirilmiştir; bununla birlikte, bildirilen başlangıç zamanı daha
+değişkendir ve bu olaylar tedaviye başlanmasından aylar sonra oluşabilir (bkz. Bölüm 4.4).
+Metabolik parametreler
+Antiretroviral tedavi sırasında kiloda ve kan lipitlerinin ve glukozunun düzeylerinde artış
+olabilir (bkz. Bölüm 4.4).
+Özel popülasyonlara ilişkin ek bilgiler:
+Pediyatrik popülasyon
+Önerilen günde bir kez film kaplı tablet veya çözünür tablet dozunu alan 172 bebek, çocuk ve
+ergen (4 hafta ve üzeri ve 18 yaşından küçük ve en az 3 kg ağırlığında) üzerinde yapılan ve hala
+devam eden P1093 (ING112578) ve ODYSSEY (201296) çalışmalarından elde edilen verilere
+dayalı olarak, yetişkin popülasyonda gözlenenlerin ötesinde ilave advers reaksiyon tipleri
+bulunmamaktadır.
+14Şüpheli advers reaksiyonların raporlanması:
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir (www.titck.gov.tr; e- posta:
+tufam@titck.gov.tr; tel: 0 800 314 00 08; faks: 0 312 218 35 99).
+4.9. Doz aşımı ve tedavisi
+TİVİCAY’in doz aşımı ile ilgili mevcut deneyim sınırlıdır.
+Tekli yüksek dozlarla ilgili sınırlı deneyim (sağlıklı gönüllülerde 250 mg’a kadar), istenmeyen
+etkiler olarak listelenmiş olanlar dışında spesifik semptomlar veya işaretler ortaya koymamıştır.
+İlave tedavi klinik olarak endike olduğu durumlarda ve mevcut olduğu durumda ulusal
+zehirlenme merkezinin önerilerine uygun olarak gerçekleştirilmelidir. TİVİCAY doz aşımı için
+spesifik bir tedavi bulunmamaktadır. Eğer doz aşımı meydana gelirse, hasta gerekli olduğu
+durumlarda uygun takiple birlikte destekleyici şekilde tedavi edilmelidir. TİVİCAY plazma
+proteinlerine yüksek oranda bağlandığından, diyalizle anlamlı oranda uzaklaştırılması olası
+değildir.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1. Farmakodinamik özellikler
+Farmakoterapötik grup: Sistemik kullanılan antienfektifler, sistemik kullanılan antiviraller,
+direkt etkili antiviraller,integraz inhibitörleriATC kodu: J05AJ03
+Etki mekanizması
+Dolutegravir, integraz aktif bölgesine bağlanarak ve HIV replikasyon döngüsü açısından çok
+önemli olan retroviral deoksiribonükleik asit (DNA) integrasyonu zincir transferi adımını bloke
+ederek HIV integrazı inhibe eder.
+Farmakodinamik etkiler
+Hücre kültüründe antiviral aktivite
+Dolutegravir için IC değeri, periferik kan mononükleer hücreleri (PBMC) kullanılan çeşitli
+50
+laboratuvar suşlarında 0,5 nM iken MT-4 hücreleri kullanıldığında 0.,7-2 nM arasında
+görülmüştür. Alt tipler arasında herhangi bir majör farklılık olmadan klinik izolatlar için benzer
+IC ’ler görülmüştür; A, B, C, D, E, F ve G türlerinden ve O grubundan oluşan 24 HIV-1
+50
+izolatlık bir panelde ortalama IC değeri 0,2 nM (aralık 0,02-2,14) olarak görülmüştür. 3 HIV-
+50
+2 izolatında ortalama IC değeri 0,18 nM (aralık 0,09-0,61) olmuştur.
+50
+Diğer antiviral ajanlarla kombinasyon halinde antiviral aktivite
+Dolutegravir ve diğer test edilen antiretrovirallerle in vitro olarak antagonistik etkiler
+görülmemiştir (stavudin, abakavir, efavirenz, nevirapin, lopinavir, amprenavir, enfuvirtid,
+maravirok ve raltegravir). Ek olarak, dolutegravir ve adefovir için antagonistik etkiler
+görülmemiş ve ribavirinin dolutegravir aktivitesi üzerinde belirgin bir etkisi olmamıştır.
+İnsan serumunun etkisi
+İnsan serumunun %100’ünde ortalama protein katı geçişi 75 kat olmuş, proteine göre
+15ayarlanmış IC90 0,064 mikrogram/mL bulunmuştur.
+Direnç
+İn vitro direnç
+İn vitro direnç gelişimini incelemek için seri pasajlama kullanılmıştır. 112 gün boyunca
+pasajlama sırasında HIV-1 IIIB laboratuvar suşu kullanıldığında mutasyonların seçilimi yavaş
+olarak ortaya çıkmıştır, S153Y ve F pozisyonlarındaki yer değişimi ile birlikte duyarlılıkta
+maksimum katlanma değişimi 4 olarak bulunmuştur (aralık: 2-4). Bu mutasyonlar, klinik
+çalışmalarda dolutegravir ile tedavi edilen hastalarda seçilmemiştir. NL432 suşu kullanılarak
+E92Q (FC 3) ve G193E (yine FC 3) mutasyonları seçilmiştir. Daha önceden raltegravire karşı
+direnç görülmüş ve dolutegravir ile tedavi edilmiş hastalarda E92Q mutasyonu seçilmiştir
+(dolutegravir için ikincil mutasyon olarak listelenmiştir).
+Alt-tip B’nin klinik izolatlarının kullanıldığı ileri seçim deneylerinde beş izolatın tümünde
+R263K mutasyonu görülmüştür (başladıktan 20 hafta sonra ve devamında). Alt-tip C (n=2) ve
+A/G (n=2) izolatlarından bir izolatta R263K integraz ikamesi ve iki izolatta G118R seçilmiştir.
+INI bulunmayan ART deneyimli, klinik programda alt-tip B ve C ile birlikte olmak üzere iki
+hastada R263K bildirilmiş, ancak in vitro olarak dolutegravir duyarlılığı üzerinde etkisi
+olmamıştır. G118R, yönlendirilmiş mutant bölgesinde (FC 10) dolutegravirin duyarlılığını
+azaltmaktadır, ancak Faz III program sırasında dolutegravir alan hastalarda tespit edilmemiştir.
+Raltegravir/elvitegravir (Q148H/R/K, N155H, Y143R/H/C, E92Q ve T66I) için primer
+mutasyonlar, tekli mutasyonlar halinde in vitro olarak dolutegravirin duyarlılığını
+etkilememektedir. Yönlendirilmiş bölgeli mutant deneylerinde bu primer mutasyonlara,
+sekonder integraz inhibitörü ilişkili mutasyonlar (raltegravir/elvitegravir için) eklendiğinde,
+dolutegravir duyarlılığı yine de değişmemiştir (vahşi tip virüse karşı FC <2); bunun bir istisnası,
+bazı sekonder mutasyonlarla kombinasyonlarla birlikte FC’nin 5-10 ya da daha fazla olduğu
+Q148-mutasyonları olmuştur. Q148-mutasyonlarının (H/R/K) etkisi ayrıca yönlendirilmiş
+mutant bölgeli deneylerdeki pasajda da doğrulanmıştır. N155H ya da E92Q içeren
+yönlendirilmiş bölgeli mutantlarla başlanan, NL432 suşu ile seri pasajda başka direnç seçimi
+görülmemiştir (FC 1 civarında değişmemiştir). Bunun aksine, Q148H (FC 1) mutasyonu içeren
+mutantlarla başlandığında çeşitli sekonder mutasyonlar görülmüş, sonuçta FC >10 değerlerine
+yükselmiştir.
+Klinik olarak anlamlı bir fenotipik kesme değeri (vahşi tip virüse karşı FC) tespit edilmemiştir;
+genotipik direnç sonuç açısından daha iyi bir belirleyici olmuştur.
+Dolutegravir duyarlılığı için raltegravir deneyimli hastalardan elde edilen 705 raltegravire
+dirençli izolat analiz edilmiştir. Dolutegravir, 705 klinik izolatın %94’üne karşı <10 FC
+sergilemiştir.
+İn vivo direnç
+Faz IIb ve Faz III’de dolutegravir + 2 NRTI alan daha önce tedavi edilmemiş hastalarda,
+integraz sınıfına ya da NRTI sınıfına karşı direnç görülmemiştir (n=1118, 48-96 hafta takip).
+GEMINI çalışmalarında dolutegravir + lamivudin alan daha önce tedavi edilmemiş hastalarda
+(n=716), 144. haftada integraz sınıfına ya da NRTI sınıfına karşı direnç gelişimi görülmemiştir.
+Daha önceki tedavisi başarısız olmuş ancak integraz sınıfı almamış hastalarda (SAILING
+çalışması), araştırıcı tarafından seçilen bir arkaplan rejimi (BR) ile kombinasyon halinde
+dolutegravir ile tedavi edilen 4/354 hastada integraz inhibitörü ikamesi gözlenmiştr (48 hafta
+16takip). Bu dört hastadan ikisinde, 1,93’lük maksimum FC ile birlikte özgün bir R263K integraz
+ikamesi, birinde 0,92’lik maksimum FC ile birlikte polimorfik V151V/I integraz ikamesi ve bir
+hastada daha önceden mevcut integraz mutasyonları saptanmış ve integraz deneyimi olduğu ya
+da bulaşma yoluyla integraza dirençli bir virüs ile enfekte olduğu düşünülmüştür. İn vitro olarak
+R263K mutasyonu da seçilmiştir (bkz. Bölüm 5.1 - in vitro direnç).
+İntegraz sınıfı direncinin varlığında (VIKING-3 çalışması), 24 hafta boyunca protokol
+tarafından tanımlanmış virolojik başarısızlık (PDVF) ve eşleştirilmiş genotipler bulunan 32
+hastada şu mutasyonlar seçilmiştir (tümü günde iki kez 50 mg dolutegravir + optimize arkaplan
+ajanlarıyla tedavi edilmiştir): L74L/M (n=1), E92Q (n=2), T97A (n=9), E138K/A/T (n=8),
+G140S (n=2), Y143H (n=1), S147G (n=1), Q148H/K/R (n=4) ve N155H (n=1) ve E157E/Q
+(n=1). Tedaviyle ortaya çıkan integraz direnci tipik olarak Q148-mutasyonu öyküsü olan
+hastalarda (başlangıçta ya da geçmişte) ortaya çıkmıştır. Başka beş hasta daha 24 ve 48. haftalar
+arasında PDVF yaşamış ve bu 5 hastadan 2’sinde tedaviyle ortaya çıkan mutasyonlar olmuştur.
+Gözlemlenen tedaviyle ortaya çıkan mutasyonlar ya da mutasyon karışımları L74I (n=1),
+N155H (n=2) olmuştur.
+VIKING-4 çalışması, tarama sırasında INI’lara karşı primer genotipik direnç bulunan 30
+hastada dolutegraviri (artı optimize arkaplan tedavisi) incelemiştir. Gözlemlenen tedaviyle
+oraya çıkan mutasyonlar VIKING-3 çalışmasında gözlemlenenlerle uyumlu olmuştur.
+Daha önce tedavisi başarısız olmuş ama integraz sınıfına naif olan pediyatrik hastalarda,
+araştırmacı tarafından seçilen arka plan rejimi ile kombinasyon halinde verilen dolutegravir ile
+tedavi edilen 5/159 hastada G118R integraz inhibitör substitüsyonu görülmüştür. Bu beş
+hastanın 4’ünde şu ek integraz ilişkili substitüsyonlar olmuştur: L74M, E138E/K, E92E/Q ve
+T66I. G118R’nin ortaya çıktığı 5 hastanın 4’ünün fenotip verisi olmuştur. Bu 4 hasta için
+dolutegravir FC (yabani virüse kıyasla kat değişimi) 6 ile 25 kat arasında olmuştur.
+Elektrokardiyogarm üzerindeki etkiler
+Klinik dozu yaklaşık üç kat aşan dozlarda QTc aralığı üzerinde anlamlı etkiler görülmemiştir.
+Klinik etkililik ve güvenlilik
+Daha önce tedavi edilmemiş hastalar
+Dolutegravirin; HIV-enfeksiyonlu, tedavi almamış kişilerdeki etkililiği iki randomize,
+uluslararası, çift-kör, aktif-kontrollü çalışma olan SPRING-2 (ING113086) ve SINGLE
+(ING114467)’den elde edilen 96 haftalık verilerinin analizine dayanmaktadır. Bu; açık-etiketli,
+randomize ve aktif-kontrollü çalışma FLAMINGO (ING114915)’in 96 haftalık verileri ve
+SINGLE’ın 144 haftaya kadar olan açık-etiketli uzatmasından elde edilen ilave verilerle
+desteklenmektedir. Erişkinlerde dolutegravirin lamivudin ile birlikte kullanımının etkililiği 148
+haftalık, randomize, çok merkezli, çift-kör, birbirine benzer iki eş etkililik çalışmaları GEMINI-
+1 (204861) ve GEMINI-2’nin (205543), 144. hafta verileriyle desteklenmektedir.
+SPRING-2’de 822 erişkin randomize edilmiş ve ABC/3TC ya da TDF/FTC ile birlikte olmak
+üzere günde bir kez dolutegravir 50 mg ya da günde iki kez raltegravir (RAL) 400 mg’dan en
+az bir doz almıştır. Başlangıçta medyan hasta yaşı 36 yıldır; hastaların %14’ü kadın, %15’i
+beyaz olmayanlardan oluşur, %11’inde eş zamanlı olarak hepatit B ve/veya C enfeksiyonu
+saptanmış ve %2’si CDC Sınıf C bulunmuştur ve bu özellikler tedavi grupları arasında benzer
+olmuştur.
+SINGLE’de 833 kişi randomize edilmiş ve sabit-doz abakavir-lamivudin (dolutegravir +
+ABC/3TC) ile en az bir doz günde bir kez dolutegravir 50 mg ya da sabit-doz efavirenz-
+17tenofovir emtrisitabin (EFV/TDF/FTC) almıştır. Başlangıçta medyan hasta yaşı 35 yıldır;
+hastaların %16’sı kadın, %32’si beyaz olmayanlardan oluşur, %7’sinde eş zamanlı olarak
+hepatit C enfeksiyonu saptanmış ve %4’ü CDC Sınıf C bulunmuştur ve bu özellikler tedavi
+grupları arasında benzer olmuştur.
+SPRING-2 ve SINGLE için birincil sonlanma noktası ve diğer 48 haftalık sonuçlar (anahtar
+başlangıç değişkeni sonuçları dahil) Tablo 4’te gösterilmektedir.
+Tablo 4: 48. haftada SPRING-2 ve SINGLE çalışmalarında elde edilen yanıtlar (anlık
+algoritma, <50 kopya/mL)
+SPRING-2 SINGLE
+Günde bir kez Günde iki kez Dolutegravir Günde bir kez
+Dolutegravir RAL 400 mg 50 mg + günde EFV/TDF/FTC
+50 mg + 2 NRTI + 2 NRTI bir kez N=419
+N=411 N=411 ABC/3TC
+N=414
+HIV-1 RNA <50 kopya/mL %88 %85 %88 %81
+Tedavi Farkı* %2,5 (%95 GA: -%2,2, %7,1) %7,4 (%95 GA: %2,5, %12,3)
+Virolojik yanıtsızlık† %5 %8 %5 %6
+Başlangıç değişkenlerine göre HIV-1 RNA <50 kopya/mL
+Başlangıçta Viral Yük (cps/mL)
+≤100.000 267 / 297 (%90) 264 / 295 (%89) 253 / 280 (%90) 238 / 288 (%83)
+>100.000 94 / 114 (%82) 87 / 116 (%75) 111 / 134 (%83) 100 / 131 (%76)
+Başlangıçta CD4+ (hücre/ mm3)
+<200 43 / 55 (%78) 34 / 50 (%68) 45 / 57 (%79) 48 / 62 (%77)
+200 ila <350 128 / 144 (%89) 118 / 139 (%85) 143 / 163 (%88) 126 / 159 (%79)
+≥350 190 / 212 (%90) 199 / 222 (%90) 176 / 194 (%91) 164 / 198 (%83)
+NRTI temeli
+ABC/3TC 145 / 169 (%86) 142 / 164 (%87) N/A N/A
+TDF/FTC 216 / 242 (%89) 209 / 247 (%85) N/A N/A
+Cinsiyet
+Erkek 308 / 348 (%89) 305 / 355 (%86) 307 / 347 (%88) 291 / 356 (%82)
+Kadın 53 / 63 (%84) 46 / 56 (%82) 57 / 67 (%85) 47 / 63 (%75)
+Irk
+Beyaz 306 / 346 (%88) 301 / 352 (%86) 255 / 284 (%90) 238 /285 (%84)
+Afrikalı-Amerikalı/Afrika
+55 / 65 (%85) 50 / 59 (%85) 109 / 130 (%84) 99 / 133 (%74)
+Kökenli /Diğer
+Yaş (yıl)
+<50 324/370 (%88) 312/365 (%85) 319/361 (%88) 302/375 (%81)
+≥50 37/41 (%90) 39/46 (%85) 45/53 (%85) 36/44 (%82)
+Başlangıca göre medyan CD4
+230 230 246‡ 187‡
+değişimi
+* Başlangıçtaki sınıflama faktörleri için düzeltilmiştir.
+† Hafta 48’den önce etkililik olmaması nedeniyle BR’den yeni bir sınıfa geçiş yapan ya da protokole göre izin
+verilmeyen BR değişikliği yapan kişileri (sadece SPRING-2 için), etkililik olmadığı için Hafta 48’den önce ayrılanları
+ve 48 hafta penceresinde ≥50 kopya bulunan kişileri içerir.
+‡ Düzeltilmiş ortalama tedavi farkı istatistiksel olarak anlamlı olmuştur (p <0,001).
+N/A: Uygulanabilir değildir
+SPRING-2 çalışmasında 48. haftada dolutegravir, raltegravire eşdeğer bulunmuştur ve SINGLE
+çalışmasında dolutegravir + ABC/3TC, efavirenz/TDF/FTC’den üstün olmuştur (p=0,003)
+(yukarıda Tablo 4). SINGLE’da viral baskılamaya kadar olan medyan süre dolutegravir ile
+tedavi edilen hastalarda daha kısa olmuştur (84 güne karşı 28 gün, (p<0,0001, önceden
+tanımlanmış ve çokluluk açısından düzeltilmiş analiz).
+1896. haftadaki sonuçlar 48. haftada görülenlere uyumlu olmuştur. SPRING-2’de dolutegravir,
+264 hücre/mm3’e karşı 276 hücre/mm3 medyan CD4 sayısı değişimi ile yine raltegravire
+eşdeğer bulunmuştur (hastaların %76’sına karşı %81’inde viral baskılama). SINGLE’da
+dolutegravir + ABC/3TC, 281 hücre/mm3’e karşı 325 hücre/mm3 düzeltilmiş ortalama CD4
+sayısı değişimi ile yine EFV/TDF/FTC’den üstün olmuştur (viral baskılama %72’ye karşı %80,
+tedavi farkı %8 (2,3, 13,8), p=0,006). SINGLE’ın açık-etiketli fazında 144. haftada virolojik
+baskılama korunmuş, dolutegravir + ABC/3TC kolu (%71) EFV/TDF/FTC kolundan (%63)
+üstün olmuştur; tedavi farkı %8,3 (2, 14,6) bulunmuştur.
+Açık-etiketli, randomize ve aktif kontrollü bir çalışma olan FLAMINGO’da (ING114915) 484
+HIV-1 enfeksiyonlu antiretroviral kullanmamış erişkin, her ikisi de ABC/3TC ya da TDF/FTC
+ile birlikte uygulanan bir doz günde bir kezlik dolutegravir 50 mg (n=242) ya da günde bir
+kezlik darunavir/ritonavir (DRV/r) 800 mg/100 mg (n=242) almıştır. Başlangıçta medyan hasta
+yaşı 34 yıldır; hastaların %15’i kadın, %28’i beyaz olmayanlardan oluşur, %10’unda eş zamanlı
+olarak hepatit B ve/veya C enfeksiyonu saptanmış ve %3’sü CDC Sınıf C bulunmuştur; bu
+özellikler tedavi grupları arasında benzer olmuştur. 48. haftada dolutegravir grubundaki (%90)
+virolojik baskılama (HIV-1 RNA <50 kopya/mL) DRV/r grubundan (%83) üstün olmuştur.
+Oranlardaki düzeltilmiş fark ve % 95 GA %7,1 (0,9, 13,2) olmuştur, p=0,025. 96. haftada
+dolutegravir grubundaki (%80) virolojik baskılama, DRV/r grubundan (%68) üstün olmuştur
+(düzeltilmiş tedavi farkı [dolutegravir-(DRV+RTV)]: %12,4; %95 GA: [4,7, 20,2].
+Birbirine benzer, 148 haftalık, randomize, çift kör GEMINI-1 (204861) ve GEMINI-2 (205543)
+çalışmalarında, daha önceden antiretroviral kullanmamış HIV-1 enfekte 1433 erişkin, günde bir
+kez dolutegravir 50 mg + lamivudin 300 mg ikili tedavi rejimi veya sabit doz TDF/FTC ile
+birlikte günde bir kez 50 mg dolutegravirden oluşan üçlü tedavi rejimine randomize edilmiştir.
+Çalışmaya katılımda plazma HIV-1 RNA 1000 kopya/mL ila ≤500.000 kopya/mL’ye göre
+eleme yapılmıştır. Başlangıçta bütünleşik analizde hastaların ortalama yaşı 33, %15’i kadın,
+%31’i beyaz ırk olmayan, %6’sı hepatit C ko-enfekte ve %9’u CDC Sınıf 3’tür. Hastaların
+yaklaşık üçte biri HIV B-olmayan altgrup ile enfekteydi; bu özellikler tedavi grupları arasında
+benzer olmuştur. Tablo 5’te gösterildiği gibi, 48. haftada virolojik süpresyon (HIV-1 RNA <50
+kopya/mL) dolutegravir + TDF/FTC ile dolutegravir + lamivudin arasında benzer etkililikte
+olmuştur. Bütünleşik analiz bulguları, primer sonlanım noktasına (anlık algoritmaya göre 48.
+haftada plazma HIV-1 RNA <50 kopya/mL oran farkı) ulaşılan çalışmaların bireysel
+bulgularıyla uyumlu olmuştur. Ayarlanmış fark, önceden belirlenmiş benzer etkililik aralığı
+%10 olmakla birlikte, GEMINI-1 için -%2,6 (%95 GA: -6,7; 1,5), GEMINI-2 için -%0,7 (%95
+GA: -4,3; 2,9) olmuştur.
+19Tablo 5: GEMINI 1 + 2’de cevap (<50 kopya/mL, anlık), 48. haftada bütünleşik veri
+Dolutegravir + 3TC Dolutegravir +
+(N=716) TDF/FTC
+n/N (%) (N=717)
+n/N (%)
+Tüm hastalar 655/716 (91) 669/717 (93)
+ayarlanmış fark -%1,7 (GA 95-4,4, 1,1)a
+BL HIV-1 RNA’ya göre
+≤100.000 kopya/mL 526/576 (91) 531/564 (94)
+>100.000 kopya/mL 129/140 (92) 138/153 (90)
+CD4+’ya göre
+≤200 kopya/mm3 50/63 (79) 51/55 (93)
+>200 kopya/mm3 605/653 (93) 618/662 (93)
+HIV-1 altgrubuna göre
+B 424/467 (91) 452/488 (93)
+B-olmayan 231/249 (93) 217/229 (95)
+48. haftaya kadar geri tepme 6 (<1) 4 (<1)
+Başlangıçtan 48. haftaya kadar CD4 sayımında ortalama 224 217
+değişiklik, kopya/mm3
+a BL tabakalandırma faktörlerine göre ayarlanmıştır: Plazma HIV-1 RNA (≤100.000 kopya/mL’ye karşılık
+>100.000 kopya/mL) ve CD4+ hücre sayımı (≤200 kopya/mm3’ye karşılık >200 kopya/mm3)
+b Doğrulanmış HIV-1 RNA seviyelerinin önceden <200 kopya/mL olmasına rağmen ≥200 kopya/mL olması
+GEMINI çalışmalarındaki 96. ve 144. haftalarda, HIV-1 RNA <50 kopya/mL (anlık) olan
+bireylerin oranının ayarlanmış tedavi farkı için %95 güven aralığının alt sınırı -%10’luk eşit
+etkinlik marjininden daha yüksek olmuştur. Ayrı çalışmalar ve bütünleşik analiz için Tablo 6’ya
+bakınız.
+20Tablo 6: GEMINI 1+2 çalışmalarında virolojik sonuçlar (anlik algoritma), 96. ve 144.
+haftalarda bütünleşik veri
+GEMINI-1 ve GEMINI-2 bütünleşik veri*
+DTG + DTG + DTG + DTG +
+3TC TDF/FTC 3TC TDF/FTC
+N=716 N=717 N=716 N=717
+96. hafta 144. hafta
+HIV-1 RNA <50 kopya/mL %86 %90 %82 %84
+Tedavi farkı†
+-%3,4 (-6,7, 0,0) -%1,8 (-5,8; 2,1)
+(%95 güven aralıkları)
+Virolojik yanıtsızlık %3 %2 %3 %3
+Nedenler
+Veri penceresi, ≥50 kopya/mL <%1 <%1 <%1 <%1
+Sonlandırma, etkililik olmaması %1 <%1 %1 <%1
+Sonlandırma, diğer nedenler, ≥50 kopya/mL <%1 <%1 <%1 %2
+ART’de değişiklik <%1 <%1 <%1 <%1
+96./144. hafta penceresinde virolojik veri 11% 9% 15% 14%
+olmaması
+Nedenler
+Advers olay veya ölüm nedeniyle sonlandırma %3 %3 %4 %4
+Diğer nedenlerle sonlandırma %8 %5 %11 %9
+Takip kaybı %3 %1 %3 %3
+Geri çekilmiş onam %3 %2 %4 %3
+Protokol sapmaları %1 %1 %2 %1
+Hekim kararı %1 <%1 %2 %1
+Missing data in window, on study %0 <%1 <%1 <%1
+DTG=Dolutegravir
+* Bütünleşik analizin sonuçları ayrı çalışmaların sonuçları ile uyumludur.
+† Şu başlangıç sınıflandırma faktörleri için ayarlanan CMH sınıflandırma analizine göre: Plazma HIV-1
+RNA (>100.000 kopya/mL’ye karşı ≤100.000 kopya/mL) ve CD4+ hücre sayısı (>200 cells/mm3’e karşı
+≤200 hücre/mm3). Bütünleşik analiz çalışmaya göre de sınıflandırılmıştır. %10 eşdeğerlik marjini
+kullanılarak değerlendirilmiştir.
+N = Her bir tedavi grubundaki bireylerin sayısı.
+144. hafta itibari ile CD4+ T hücresi sayılarındaki ortalama artış dolutegravir + lamivudin
+kolunda 302 hücre/mm3 ve dolutegravir + tenofovir/emtrisitabin kolunda 300 hücre/mm3
+olmuştur.
+Daha önce tedavi edilmemiş hastalarda tedaviyle ortaya çıkan direnç
+SPRING-2 ve FLAMINGO’da 96 hafta boyunca ve SINGLE’da 144 hafta boyunca,
+dolutegravir içeren kollarda integraz ya da NRTI sınıfına karşı tedaviyle ortaya çıkan primer
+direnç olguları ortaya çıkmamıştır. Karşılaştırma kolları için FLAMINGO’da darunavir/r ile
+tedavi edilen hastalarda da tedaviyle ortaya çıkan direnç görülmemiştir. SPRING-2’de RAL
+kolundan dört hasta majör NRTI mutasyonları ve biri raltegravir direnciyle başarısız olmuştur;
+SINGLE’da EFV/TDF/FTC-kolundan altı hasta NNRTI direnciyle ilişkili mutasyonlar ve biri
+majör NRTI mutasyonu gelişmesi nedeniyle başarısız olmuştur. GEMINI-1 ve GEMINI-2
+çalışmalarında 144 hafta boyunca, dolutegravir+3TC veya dolutegravir+TDF/FTC kollarında
+integraz veya NRTI sınıflarına direnç ortaya çıkmamıştır.
+Daha önce tedavi başarısızlığı yaşanan, ancak integraz sınıfına maruz kalmayan hastalar
+Uluslararası çok merkezli, çift-kör SAILING çalışmasında (ING111762), 719 HIV-1
+enfeksiyonlu, antiretroviral tedavi (ART) deneyimli erişkin randomize edilmiş ve araştırmacı
+tarafından seçilen 2 ajana kadar arkaplan tedavisiyle (en az bir tam aktif ajanı içeren) birlikte
+21günde bir kez dolutegravir 50 mg ya da günde iki kez raltegravir 400 mg almıştır. Başlangıçta
+medyan hasta yaşı 43 yıldır; hastaların %32’si kadın, %50’si beyaz olmayanlardan oluşur,
+%16’sında eş zamanlı olarak hepatit B ve/veya C enfeksiyonu saptanmış ve %46’sı CDC Sınıf
+C bulunmuştur. Tüm hastalarda en az iki sınıf ART direnci saptanmıştır ve hastaların %49’unda
+başlangıçta en az 3-sınıf ART direnci vardır.
+SAILING için 48. hafta sonuçları (anahtar başlangıç değişkenlerine göre sonuçlar dahil) Tablo
+7’de gösterilmektedir.
+Tablo 7: 48. haftada SAILING çalışmasında elde edilen yanıtlar (anlık algoritma, <50
+kopya/mL)
+Günde bir kez Günde iki kez RAL
+Dolutegravir 50 mg + BR 400 mg + BR
+N=354§ N=361§
+HIV-1 RNA <50 kopya/mL %71 %64
+Düzeltilmiş tedavi farkı‡ %7,4 (%95 GA: %0,7, %14,2)
+Virolojik yanıtsızlık %20 %28
+Başlangıç değişkenlerine göre HIV-1 RNA <50 kopya/mL
+Başlangıçta Viral Yük (kopya/mL)
+≤50.000 kopya/mL 186 / 249 (%75) 180 / 254 (%71)
+>50.000 kopya/mL 65 / 105 (%62) 50 / 107 (%47)
+Başlangıçta CD4+ (hücre/ mm3)
+<50 33 / 62 (%53) 30 / 59 (%51)
+50 ila <200 77 / 111 (%69) 76 / 125 (%61)
+200 ila <350 64 / 82 (%78) 53 / 79 (%67)
+≥350 77 / 99 (%78) 71 / 98 (%72)
+Arkaplan Rejimi
+Genotipik Duyarlılık Skoru* <2 155 / 216 (%72) 129 / 192 (%67)
+Genotipik Duyarlılık Skoru* =2 96 / 138 (%70) 101 / 169 (%60)
+Arkaplan rejimde DRV kullanımı
+DRV kullanımı yok 143 / 214 (%67) 126 / 209 (%60)
+Primer PI mutasyonları ile birlikte DRV kullanımı 58 / 68 (%85) 50 / 75 (%67)
+Primer PI mutasyonları olmadan DRV kullanımı 50 / 72 (%69) 54 / 77 (%70)
+Cinsiyet
+Erkek 172 / 247 (%70) 156 / 238 (%66)
+Kadın 79 / 107 (%74) 74 / 123 (%60)
+Irk
+Beyaz 133 / 178 (%75) 125 / 175 (%71)
+Afrikalı-Amerikalı/Afrika Kökenli /Diğer 118 / 175 (%67) 105 / 185 (%57)
+Yaş (yıl)
+<50 196 / 269 (%73) 172 / 277 (%62)
+≥50 55 / 85 (%65) 58 / 84 (%69)
+HIV alt-tipi
+Genetik tip B 173 / 241 (%72) 159 / 246 (%65)
+Genetik tip C 34 / 55 (%62) 29 / 48 (%60)
+Diğer† 43 / 57 (%75) 42 / 67 (%63)
+CD4+ T hücrelerinde ortalama artış (hücre/mm3) 162 153
+‡ Başlangıçtaki sınıflama faktörleri için düzeltilmiştir.
+§ 4 kişi bir çalışma merkezinde veri bütünlüğü nedeniyle etkililik analizinden çıkarılmıştır.
+*Genotipik Duyarlılık Skoru (GSS), bir kişinin viral izolatının genotipik direnç testlerine göre başlangıçta
+duyarlılık gösterdiği BR’deki toplam ART sayısı şeklinde tanımlanmıştır.
+†Diğer sınıflar şunları içermiştir: Kompleks (43), F1 (32), A1 (18), BF (14), tüm diğerleri <10.
+SAILING çalışmasında, 48. haftada TİVİCAY grubunda (%71) virolojik süpresyon (HIV-1
+RNA <50 kopya/mL), raltegravir grubuna (%64) kıyasla, istatistiksel olarak üstün (p=0,03)
+olmuştur.
+22Raltegravire kıyasla (17/361, %5), istatistiksel olarak daha az sayıda tedaviye bağlı integraz
+direnci olan hastada TİVİCAY tedavisi başarısız olmuştur (4/354, %1) (p=0,003) (bkz. Bölüm
+5.1 - İn vivo direnç).
+İntegraz inhibitörü (ve integraz sınıf direnci) dahil daha önceki tedavilere yanıt vermeyen
+hastalar
+Çok merkezli, açık etiketli, tek kollu VIKING-3 çalışmasında (ING112574), HIV-1 ile enfekte
+olup, daha önce ART verilmiş ve raltegravir ve/veya elvitegravire karşı virolojik yanıtsızlığı ve
+mevcut veya geçmiş kanıtı olan erişkinlere, 7 gün boyunca başarısız olan mevcut arka plan
+rejimi ile birlikte günde iki kere 50 mg TİVİCAY verilmiştir, ancak arka plan ART 8. gün
+itibariyle optimize edilmiştir. Çalışmaya 183 hasta alınmıştır. Bunların 133’ünde başlangıç
+taramasında INI direnci, 50’sinde ise dirence ilişkin geçmiş kanıt (taramada değil) saptanmıştır.
+Raltegravir/elvitegravir 98/183 hastanın mevcut yanıt vermeyen tedavi rejiminin bir parçası
+olmuştur (diğerlerinde daha önce başarısız olan tedavilerin bir parçası). Başlangıçta medyan
+hasta yaşı 48’dir; hastaların %23’ü kadın, %29’u beyaz olmayan ırktan ve %20’sinde hepatit B
+ve/veya C enfeksiyonu mevcuttur. Başlangıç CD4+, 140 hücre/mm3’tür. Daha önceki ART’nin
+medyan süresi 14 yıldır. Hastaların %56’sı CDC Sınıf C’dir. Hastalarda başlangıçta birden fazla
+ART sınıf direnci mevcuttur: %79’unda ≥2 NRTI, %75’inde ≥1 NNRTI ve %71’inde ≥2 PI
+majör mutasyon, %62’sinde R5 dışı virüs vardır.
+8. günde başlangıca kıyasla HIV RNA’da ortalama değişiklik -1,4 log kopya/mL’dir (95%
+10
+GA -1,3 – -1,5 log , p<0,001). Tablo 8’de gösterildiği üzere, yanıt başlangıç INI mutasyon
+10
+yolağı ile ilişkilidir.
+Tablo 8: Mevcut başarısız tedavinin bir parçası olarak RAL/EVG verilen hastalarda 7
+günlük fonksiyonel monoterapi sonrasında elde edilen virolojik yanıt (8. gün) – VIKING
+3 çalışması
+Başlangıç parametreleri Günde iki kere 50 mg dolutegravir
+n=88*
+n Ortalama (SD) Plazma Medyan
+HIV-1 RNA log c/mL
+10
+Devam eden RAL/EVG ile birlikte
+başlangıçta türetilmiş IN
+mutasyonu grubu
+Q148H/K/R dışında primer 48 -1,59 (0,47) -1,64
+mutasyona
+Q148+1 sekonder mutasyonb 26 -1,14 (0,61) -1,08
+Q148+≥2 sekonder mutasyonb 14 -0,75 (0,84) -0,45
+*Güncel başarısız tedavinin bir parçası olarak RAL/EVG altındaki 98’den 88’inde başlangıçta saptanabilir
+primer INI mutasyonları ve değerlendirme için bir 8. gün Plazma HIV-1 RNA sonucu mevcuttur.
+a Primer IN dirençli mutasyonları N155H, Y143C/H/R, T66A, E92Q içerir.
+b G140A/C/S, E138A/K/T, L74I’den sekonder mutasyonlar.
+Başlangıçta primer mutasyonu olmayan hastalarda (n=60) (mevcut başarısız tedavinin bir
+parçası olmayan RAL/EVG), 8. günde viral yükte 1,63 log ’luk bir azalma görülmüştür.
+10
+Fonksiyonel monoterapi fazından sonra hastaların mümkün olduğunda arkaplan tedavilerini
+yeniden optimize etme fırsatları olmuştur. 24 haftalık tedavi sırasında %69 (126/183) olan genel
+yanıt oranı, HIV-1 RNA <50 kopya/mL olan hastalarda 116/183 (%63) olarak genellikle 48.
+haftaya kadar devam etmiştir (ITT-E, anlık algoritma). Etkililik dışı nedenlerle tedaviyi bırakan
+ve majör protokol sapmaları bulunan hastalar (yanlış dolutegravir dozu, yasak eş zamanlı ilaç
+alınması) dışlandığında, yani “Virolojik Sonuç (VO) popülasyonu”, karşılık gelen yanıt oranları
+23%75 (120/161, 24. hafta) ve %69 (111/160, 48. hafta) olmuştur.
+Başlangıçta Q148-mutasyonu mevcut olduğunda ve özellikle ≥2 sekonder mutasyon olduğunda
+yanıt daha düşük olmuştur (Tablo 9). Optimize edilmiş arkaplan rejimin (OBR) genel duyarlılık
+skoru (OSS) 24. hafta yanıtı ve 48. hafta yanıtı ile ilişkili olmamıştır.
+Tablo 9: Başlangıç direnci ile elde edilmiş yanıt, VIKING-3. VO popülasyonu (HIV-1
+RNA <50 kopya/mL, anlık algoritma)
+48. hafta
+24. hafta (N=161)
+(N=160)
+Türetilmiş IN Mutasyonu Toplam
+Grubu OSS=0 OSS=1 OSS=2 OSS>2 Total
+Primer IN mutasyonu yok1 45/55 38/55
+2/2 (%100) 15/20 (%75) 19/21 (%90) 9/12 (%75)
+(%82) (%69)
+Q148H/K/R dışında primer 51/59 50/58
+2/2 (%100) 20/20 (%100) 21/27 (%78) 8/10 (%80)
+mutasyon2 (%86) (%86)
+Q148 + 1 sekonder 20/31 19/31
+2/2 (%100) 8/12 (%67) 10/17 (%59) -
+mutasyon3 (%65) (%61)
+Q148 +≥2 sekonder
+1/2 (%50) 2/11 (%18) 1/3 (%33) - 4/16 (%25) 4/16 (%25)
+mutasyon3
+1 Sadece INI direnciyle ilgili geçmiş ya da fenotipik kanıt.
+2 N155H, Y143C/H/R, T66A, E92Q
+3 G140A/C/S, E138A/K/T, L74I
+OSS: kombine genotipik ve fenotipik direnç (Monogram Biyobilim Net Değerlendirmesi)
+Gözlemsel verilere dayanarak, VIKING-3 için başlangıca göre CD4+ T hücre sayımında
+medyan değişim, 24. haftada 61 hücre/mm3 ve 48. haftada 110 hücre/mm3 olmuştur.
+Çift kör, plasebo kontrollü VIKING-4 çalışmasında (ING116529), önceden ART tedavisi
+görmüş olan ve tarama zamanında INI’lara primer genotipik direnci olan 30 HIV enfekte
+gönüllü 7 gün süreyle ya günde iki kez dolutegravir 50 mg ya da halihazırda başarısız olan
+rejimle birlikte plasebo almak ve ardından tüm gönüllülerin dolutegravir kullanacakları açık
+etiketli faza geçmek üzere randomize edilmiştir. Çalışma başlangıcında medyan hasta yaşının
+49 olduğu, hastaların %20’sinin kadın, %58’inin beyaz dışı ırka mensup olduğu, %23’ünde
+hepatit B ve/veya C ko-enfeksiyonu olduğu belirlenmiştir. Medyan başlangıç CD4+ değeri 160
+hücre/mm3, önceki ART tedavisinin medyan süresi 13 yıl bulunmuş ve %63’ünün CDC Sınıf
+C olduğu görülmüştür. Gönüllüler başlangıçta çoklu sınıf ART direnci göstermiştir: %80’inde
+≥2 NRTI, %73’ünde ≥1 NNRTI ve %67’sinde ≥2 PI majör mutasyonlar; %83’ünde non-R5
+virüsü. 30 hastadan 16’sının (%53) başlangıçta Q148 virüsü taşımakta olduğu saptanmıştır. Gün
+8’deki birincil sonlanma noktası, Plazma HIV-1 RNA değerinde başlangıca göre değişiklik için
+-1,2 log kopya/mL (%95 GA -1,5 - -0,8log kopya /mL, p<0,001) düzeyindeki düzeltilmiş
+10 10
+ortalama tedavi farkı ile günde iki kez 50 mg dolutegravirin plasebodan üstün olduğunu
+göstermiştir. Plasebo kontrollü bu çalışmada gün 8’deki yanıtlar, integraz direnci kategorileri
+de dahil olmak üzere VIKING-3 çalışmasında (plasebo kontrollü değil) görülenler ile tamamen
+paralel bulunmuştur. Hafta 48’de 30 gönüllünün 12’sinde (%40) HIV-1 RNA <50 kopya/mL
+ölçülmüştür (ITT-E, anlık algoritma).
+VIKING-3 ve VIKING-4’ün birleştirilmiş analizinde (n=186, VO popülasyonu), hafta 48’de
+HIV RNA <50 kopya/mL olan gönüllülerin oranı 123/186 (%66) olmuştur. HIV RNA <50
+kopya/mL olan gönüllülerin oranı No Q148 mutasyonları için 96/126 (%76), Q148+1 için 22/41
+(%54) ve Q148+≥2 sekonder mutasyonları için 5/19 (%26) bulunmuştur.
+24Pediyatrik popülasyon
+Devam eden, Faz I/II, 48 haftalık, çok merkezli, açık etiketli bir çalışmada
+(P1093/ING112578); günde bir kez doz uygulamasını takip eden dolutegravir film kaplı
+tabletin ve çözünür tabletin farmakokinetik parametreleri, güvenliliği, tolerabilitesi ve etkililiği
+çoğunun daha önce tedavi deneyimi olduğu HIV-1 ile enfekte bebeklerde, çocuklarda ve
+adolesanlarda (≥4 hafta ila <18 yaş) değerlendirilmiştir.
+Etkililik sonuçları, ya film kaplı tablet ya da çözünür tabletin önerilen günde bir kez dozunu
+almış hastaları içermektedir (Tablo 10).
+Tablo 10: Pediyatrik hastalarda 24. ve 48. haftada antiviral ve immünolojik aktivite
+24. hafta 48. hafta
+N=75 N=66
+n/N % (%95 GA) n/N % (%95 GA)
+HIV RNA <50 kopya/mLa, b olan 56 65,2
+42/75 43/66
+hastaların oranı (44,1, 67,5) (52,4, 76,5)
+HIV RNA <400 kopya/mLb olan 82,7 80,3
+62/75 53/66
+hastaların oranı (72,2, 90,4) (68,7, 89,1)
+Medyan (n) (Q1, Q3) Medyan (n) (Q1, Q3)
+CD4+ hücre sayısında (hücre/mm3)
+145 (72) (-64, 489) 184 (62) (-179, 665)
+başlangıca göre değişiklik
+CD4+ yüzdesinde başlangıca göre
+6 (72) (2,5, 10) 8 (62) (0,4, 11)
+değişiklik
+Q1, Q3=Sırasıyla birinci ve üçüncü çeyrek
+aBu analizde, LLOD kullanılan HIV-1 RNA testinden <200 kopya/mL sonuçları >50 kopya/mL’ye
+sansürlenmiştir.
+bBu analizlerde anlık algoritma kullanılmıştır.
+Virolojik başarısızlık yaşayan hastalarda, 5/36’sında G118R integraz inhibitör substitüsyonu
+oluşmuştur. Bu beş hastanın 4’ünde şu ek integraz ilişkili substitüsyonlar olmuştur: L74M,
+E138E/K, E92E/Q ve T66I. G118R’nin ortaya çıktığı 5 hastanın 4’ünün fenotip verisi olmuştur.
+Bu 4 hasta için dolutegravir FC (yabani virüse kıyasla kat değişimi) 6 ile 25 kat arasında
+olmuştur.
+Avrupa İlaç Ajansı, 4 hafta ila <6 yaş arası HIV enfeksiyonu olan pediyatrik hastalarda
+TİVİCAY ile yapılan çalışmaların sonuçlarının yayınlanması zorunluluğunu ertelemiştir.
+(pediyatrik kullanıma yönelik bilgiler için bkz. Bölüm 4.2).
+Lamivudin ile birlikte dolutegravirin ikili tedavi rejimi şeklinde pediyatrik hastalarda
+kullanımına dair veri bulunmamaktadır.
+5.2. Farmakokinetik özellikler
+Genel Özellikler
+Dolutegravir farmakokinetiği sağlıklı ve HIV ile enfekte gönüllüler arasında benzerdir.
+Dolutegravirin PK (farmakokinetik) değişkenliği düşük ila orta düzeyde olmuştur. Sağlıklı
+gönüllüler üzerinde yapılan Faz 1 çalışmalarda, EAA ve C için gönüllüler arası CVb% ~%20
+maks
+ile 40 arasında değişmiştir ve Cτ %30 ile 65 arasında olmuştur. Dolutegravirin gönüllüler arası
+PK değişkenliği sağlıklı gönüllülere göre HIV ile enfekte gönüllülerde daha yüksek olmuştur.
+Gönüllü içi değişkenlik (CVw%) gönüllüler arası değişkenlikten daha düşüktür.
+25Film kaplı tabletler ve çözünür tabletler aynı biyoyararlanıma sahip değildir. Çözünür
+tabletlerin bağıl biyoyararlanımı film kaplı tabletlere kıyasla yaklaşık 1,6 kat daha yüksektir.
+Bu nedenle, film kaplı tablet şeklinde uygulanan bir 50 mg dolutegravir dozu, altı 5 mg çözünür
+tablet şeklinde uygulanan bir 30 mg dolutegravir dozuna benzer maruziyete sahip olacaktır.
+Benzer şekilde, dört 10 mg film kaplı tablet şeklinde uygulanan bir 40 mg dolutegravir dozu,
+beş 5 mg çözünür tablet şeklinde uygulanan bir 25 mg dolutegravir dozuna benzer maruziyet
+sağlayacaktır.
+Emilim:
+Dolutegravir oral uygulamayı takiben hızlı bir şekilde emilir; medyan T ’a tablet
+maks
+formülasyon için doz sonrası 2 ila 3 saat içinde ulaşılır.
+Besinler dolutegravirin emilim kapsamını artırmış ve hızını yavaşlatmıştır. Dolutegravirin
+biyoyararlanımı öğün içeriğine bağlıdır: Düşük, orta ve yüksek yağlı öğünler EAA değerini
+(0-∞)
+film kaplı tablet için sırasıyla %33, %41 ve %66 artırmış, C değerini sırasıyla %46, %52 ve
+maks
+%67 yükseltmiş ve T ’ı açlık durumundaki 2 saate göre sırasıyla 3, 4 ve 5 saate çıkarmıştır.
+maks
+Bu artışlar klinik açıdan bazı integraz sınıf direnci varsa anlamlı olabilir. Bu nedenle,
+TİVİCAY’in integraz sınıf direnci olan HIV ile enfekte hastalarda yemeklerle birlikte alınması
+önerilmektedir (bkz. Bölüm 4.2).
+Dolutegravirin mutlak biyoyararlanımı belirlenmemiştir.
+Dağılım:
+İn vitro verilere dayalı olarak dolutegravir insan plazma proteinlerine kuvvetli bir şekilde
+(>%99) bağlanmaktadır. Popülasyon farmakokinetik analizine göre HIV ile enfekte hastalarda
+belirgin dağılım hacminin 17 ila 20 L olduğu belirlenmiştir. Dolutegravirin plazma
+proteinlerine bağlanması konsantrasyondan bağımsızdır. Toplam kan ve plazma ilaçla
+bağlantılı radyoaktivite konsantrasyonu ortalama 0,441 ila 0,535 aralığındadır; bu durum
+radyoaktivitenin kandaki hücresel bileşenlerle minimal bağlantısına işaret etmektedir. Orta
+düzeyde karaciğer yetmezliği olan hastalarda görüldüğü üzere düşük serum albümin
+seviyelerinde (<35 g/L) dolutegravirin plazmadaki serbest fraksiyonu artmaktadır.
+Dolutegravir beyin omurilik sıvısına (BOS) geçmektedir. Stabil dolutegravir artı
+abakavir/lamivudin rejimi uygulanan, daha önce tedavi uygulanmamış 13 gönüllüde BOS’taki
+dolutegravir konsantrasyonunun ortalama 18 ng/mL olduğu belirlenmiştir (bağlanmamış
+plazma konsantrasyonuna benzer ve IC50’nin üzerinde).
+Dolutegravir erkek ve dişi genital sistemine geçmektedir. Servikovajinal sıvı, servikal doku ve
+vajinal dokudaki EAA kararlı durumdaki ilgili plazma konsantrasyonunun %6-10’u
+arasındadır. Semendeki EAA kararlı durumdaki ilgili plazma konsantrasyonunun %7’si ve
+rektal dokudaki EAA kararlı durumdaki ilgili plazma konsantrasyonunun %17’si olmuştur.
+Biyotransformasyon:
+Dolutegravir primer olarak, minör bir CYP3A bileşeni ile birlikte UGT1A1 yoluyla metabolize
+edilir (bir insan kütle denge çalışmasında uygulanan toplam dozun %9,7’si). Dolutegravir
+plazmadaki baskın bileşiktir; değişmemiş ilacın renal eliminasyonu düşüktür (dozun %<1’i).
+Toplam oral dozun %53’ü feçesle değişmeden atılır. Bunun tamamının veya bir kısmının
+emilmemiş etkin madde veya glukuronidat konjugatının biliyer atılımı meydana gelip
+gelmediği bilinmemektedir (glukuronidat konjugatı bağırsak lümeninde ana bileşiğe
+bozunabilmektedir). Toplam oral dozun %32’si idrarla atılmaktadır; bu miktar, dolutegravirin
+26eter glukuronidi (toplam dozun %18,9’u), N-dealkilasyon metaboliti (toplam dozun %3,6) ve
+benzilik karbonda oksidasyonla oluşan bir metabolitle (toplam dozun %3’ü) temsil
+edilmektedir.
+İlaç etkileşimleri:
+İn vitro olarak dolutegravir, sitokrom P enzimlerinden (CYP)1A2, CYP2A6, CYP2B6,
+450
+CYP2C8, CYP2C9, CYP2C19, CYP2D6 CYP3A, üridin difosfat glukuronosil transferaz
+(UGT)1A1 veya UGT2B7 enzimleri veya Pgp, BCRP, BSEP, OATP1B1, OATP1B3, OCT1,
+MATE2-K, MRP2 veya MRP4 taşıyıcıları üzerinde direkt inhibisyonu yoktur veya zayıftır
+(IC50>50 µM). İn vitro olarak dolutegravir CYP1A2, CYP2B6 veya CYP3A4’ü
+indüklememiştir. Bu verilere dayanarak, dolutegravirin majör enzimlerin veya taşıyıcıların
+substratı olan tıbbi ürünlerin farmakokinetiklerine etkisi olması beklenmemektedir (bkz. Bölüm
+4.5).
+İn vitro olarak dolutegravir insan OATP 1B1, OATP 1B3 veya OCT 1’in substratı değildir.
+Eliminasyon:
+Dolutegravirin yarılanma ömrü yaklaşık 14 saattir. Popülasyon farmakokinetik analizinde
+görünen oral klirens (CL/F), HIV ile enfekte hastalarda yaklaşık 1 L/saattir.
+Doğrusallık/Doğrusal olmayan durum:
+Dolutegravir farmakokinetiğinin doğrusallığı doz ve formülasyona bağlıdır. Film kaplı tablet
+formülasyonun oral uygulamasını takiben genel olarak dolutegravir doğrusal olmayan bir
+farmakokinetik sergilemiştir; 2’den 100 mg’a kadar plazma maruziyetinde dozla orantılı
+artışlardan daha düşük değerler gözlenmiştir; diğer yandan, film kaplı tablet formülasyonu için
+dolutegravirde 25 mg’dan 50 mg’a kadar olan dozlarda maruziyet dozla orantılı görünmektedir.
+Günde 2 kez 50 mg film kaplı tablet verilmesi halinde 24 saatteki maruziyet, günde 1 kez 50
+mg film kaplı tablet ile karşılaştırıldığında, yaklaşık iki kat olmuştur
+Farmakokinetik/farmakodinamik ilişki(ler):
+Bir randomize, doz aralığı belirleme çalışmasında; dolutegravir monoterapisi ile tedavi edilmiş
+HIV-1 ile enfekte gönüllüler (ING111521), hızlı ve dozla bağlantılı antiviral aktivite
+sergilemiştir; 50 mg dozu için 11. günde HIV-1 RNA’daki ortalama azalma 2,5 log10 olmuştur.
+Bu antiviral yanıt 50 mg film kaplı tablet grubunda son dozdan sonraki 3 ila 4 gün boyunca
+sürdürülmüştür.
+İntegraz dirençli hastalardaki klinik çalışmaların birleştirilmiş verilerinin kullanıldığı PK/PD
+modellemesi, integraz direnci bulunan ve ileri düzeyde çoklu sınıf direnci nedeniyle tedavi
+seçenekleri sınırlı olan hastalarda dozun günde iki kez 50 mg film kaplı tabletten günde iki kez
+100 mg film kaplı tablete çıkarılmasının dolutegravirin etkililiğini artırabileceğine işaret
+etmektedir. Hafta 24’te yanıt veren (HIV-1 RNA <50 kopya/mL) hastaların oranının
+G140A/C/S, E138A/K/T, L74I’den Q148 + ≥2 sekonder mutasyonları olan gönüllülerde %4-
+18 civarı artacağı öngörülmüştür. Her ne kadar bu simülasyon sonuçları klinik çalışmalarda
+doğrulanmamış olsa da, ileri düzeyde çoklu sınıf direnci nedeniyle tedavi seçenekleri sınırlı
+olan hastalarda G140A/C/S, E138A/K/T, L74I’den Q148 + ≥2 sekonder mutasyonlar varlığında
+bu yüksek doz göz önünde bulundurulabilir. Günde iki kez 100 mg film kaplı tablet dozunun
+güvenliliği ya da etkililiğine dair klinik veri bulunmamaktadır. Atazanavir ile eş zamanlı tedavi
+dolutegravir maruziyetini belirgin şekilde artırır ve elde edilecek dolutegravir maruziyeti ile
+güvenlilik saptanmamış olduğundan bu yüksek dozla kombinasyon halinde kullanılmamalıdır.
+27Özel hasta grupları:
+Pediyatrik popülasyon
+HIV-1 ile enfekte ≥4 hafta ila <18 yaş bebeklerde, çocuklarda ve adolesanlarda film kaplı tablet
+ve çözünür tablet şeklinde günde bir kez verilen dolutegravirin farmakokinetiği devam eden iki
+çalışmada (P1093/ING112578 ve ODYSSEY/201296) değerlendirilmiştir. Günde bir kez
+ağırlık bandı dozlarında kararlı durum temsili plazma maruziyeti Tablo 11’de özetlenmektedir:
+Tablo 11: HIV-1 ile enfekte pediyatrik hastalarda ağırlık bandına göre günde bir kez
+dozlarda temsili dolutegravir farmakokinetik parametrelerinin özeti
+Farmakokinetik parametre
+Günde bir Geometrik ortalama (%90 GA)
+Ağırlık bandı Dolutegravir
+(kg) doz formua
+kez doz Cmaks EAA0-24saat C24saat
+(mg) (mikrogram/ (microgram (nanogram/m
+mL) *saat/mL) L)
+4,02 49,4 1070
+3 ila <6 ÇT 5
+(2,12, 7,96) (21,6, 115) (247, 3830)
+5,90 67,4 1240
+6 ila <10b ÇT 10
+(3,23, 10,9) (30,4, 151) (257, 4580)
+6,67 68,4 964
+6 ila <10c ÇT 15
+(3,75, 12,1) (30,6, 154) (158, 4150)
+6,61 63,1 719
+10 ila <14 ÇT 20
+(3,80, 11,5) (28,9, 136) (102, 3340)
+7,17 69,5 824
+25
+ÇT (4,10, 12,6) (32,1, 151) (122, 3780)
+14 ila <20
+FCT 6,96 72,6 972
+40
+(3,83, 12,5) (33,7, 156) (150, 4260)
+7,37 72,0 881
+30
+ÇT (4,24, 12,9) (33,3, 156) (137, 3960)
+20 ila <25
+FKT 7,43 78,6 1080
+50
+(4,13, 13,3) (36,8, 171) (178, 4690)
+6,74 71,4 997
+25 ila <30 FKT 50
+(3,73, 12,1) (33,2, 154) (162, 4250)
+6,20 66,6 944
+30 ila <35 FKT 50
+(3,45, 11,1) (30,5, 141) (154, 4020)
+4,93 54,0 814
+≥35 FKT 50
+(2,66, 9,08) (24,4, 118) (142, 3310)
+Hedef: Geometrik ortalama 46 (37-134) 995 (697-2260)
+ÇT=Çözünür tablet
+FKT=Film kaplı tablet
+aDolutegravir çözünür tabletin biyoyararlanımı dolutegravir film kaplı tabletin yaklaşık 1,6 katıdır.
+b<6 aydan küçük yaş
+c≥6 aydan büyük yaş
+Alternatif günde iki kez ağırlık bandı dozlarında kararlı durum temsili plazma maruziyeti Tablo
+12’de özetlenmektedir. Günde bir kez doz uygulamasının aksine, alternatif günde iki kez doz
+uygulaması için temsili veriler klinik çalışmalarda doğrulanmamıştır.
+28Tablo 12: HIV-1 ile enfekte pediyatrik hastalarda ağırlık bandına göre alternatif günde
+Farmakokinetik parametre
+Günde iki Geometrik ortalama (%90 GA)
+Ağırlık bandı Dolutegravir
+kez doz Cmaks EAA
+(kg) doz formua 0-12saat C
+(mg) (mikrogram/ (mikrogram* 12saat
+(nanogram/mL)
+mL) saat/mL)
+4,28 31,6 1760
+6 ila <10b ÇT 5
+(2,10, 9,01) (14,6, 71,4) (509, 5330)
+ÇT 6,19 43,6 2190
+6 ila <10c 10
+(3,15, 12,6) (19,4, 96,9) (565, 6960)
+ÇT 4,40 30,0 1400
+10 ila <14 10
+(2,27, 8,68) (13,5, 66,0) (351, 4480)
+5,78 39,6 1890
+15
+ÇT (2,97, 11,4) (17,6, 86,3) (482, 6070)
+14 ila <20
+FKT 4,98 35,9 1840
+20
+(2,55, 9,96) (16,5, 77,4) (496, 5650)
+5,01 34,7 1690
+15
+ÇT (2,61, 9,99) (15,8, 76,5) (455, 5360)
+20 ila <25
+FKT 5,38 39,2 2040
+25
+(2,73, 10,8) (18,1, 85,4) (567, 6250)
+4,57 32,0 1580
+15
+ÇT (2,37, 9,05) (14,6, 69,1) (414, 4930)
+25 ila <30
+FKT 4,93 35,9 1910
+25
+(2,50, 9,85) (16,4, 77,4) (530, 5760)
+4,54 33,3 1770
+30 ila <35 FKT 25
+(2,31, 9,10) (15,3, 72,4) (494, 5400)
+3,59 26,8 1470
+≥35 FKT 25
+(1,76, 7,36) (12,1, 58,3) (425, 4400)
+ÇT=Çözünür tablet
+FKT=Film kaplı tablet
+aDolutegravir çözünür tabletin biyoyararlanımı dolutegravir film kaplı tabletin yaklaşık 1,6 katıdır.
+b<6 aydan küçük yaş
+c≥6 aydan büyük yaş
+iki kez dozlarda temsili dolutegravir farmakokinetik parametrelerinin özeti
+Geriyatrik popülasyon
+HIV-1 ile enfekte yetişkinlerden elde edilen veriler kullanılarak dolutegravir üzerinde
+popülasyon farmakokinetiği analizi gerçekleştirildiğinde yaşın dolutegravir maruziyeti
+üzerinde klinik açıdan anlamlı bir etkisi olmadığı görülmüştür.
+>65 yaşındaki gönüllülerde dolutegravir ile ilgili farmakokinetik veriler sınırlıdır.
+Böbrek yetmezliği
+Değişmemiş aktif maddenin renal klirensi dolutegravir için bir minör eliminasyon yolağıdır.
+Şiddetli böbrek yetmezliği (CLcr <30 mL/dak) olan hastalarda tek bir 50 mg dolutegravir film
+kaplı tablet dozunun farmakokinetiği ile ilgili bir çalışma gerçekleştirilmiştir ve sağlıklı
+kontrollerle karşılaştırılmıştır. Dolutegravir maruziyeti, şiddetli böbrek bozukluğu olan
+kişilerde yaklaşık %40 azalmıştır. Bu azalmanın mekanizması bilinmemektedir. Böbrek
+bozukluğu olan hastalarda doz ayarlamasına gerek yoktur. TİVİCAY, diyaliz altındaki
+hastalarda incelenmemiştir.
+Karaciğer yetmezliği
+Dolutegravir primer olarak karaciğer yoluyla metabolize ve elimine edilir. Orta düzeyde
+karaciğer bozukluğu (Child-Pugh sınıf B) olan 8 hastaya ve buna karşılık gelen 8 sağlıklı erişkin
+29kontrol gönüllüsüne tek bir 50 mg dolutegravir film kaplı tablet dozu uygulanmıştır.
+Plazmadaki toplam dolutegravir konsantrasyonu benzer olurken, sağlıklı kontrollerle
+karşılaştırıldığında orta düzeyde karaciğer bozukluğu olan hastalarda bağlanmamış
+dolutegravir maruziyetinde 1.5 ila 2 katlık bir artış gözlenmiştir. Hafif ila orta düzeyde
+karaciğer bozukluğu olan hastalarda dozaj ayarlaması gerekli görülmemektedir. Şiddetli
+karaciğer bozukluğunun TİVİCAY farmakokinetiği üzerindeki etkisi çalışılmamıştır.
+İlaç metabolize eden enzimlerdeki polimorfizmler
+İlaç metabolize eden enzimlerdeki yaygın polimorfizmlerin dolutegravirin farmakokinetiğini
+klinik açıdan anlamlı bir düzeyde değiştirdiğine dair kanıt bulunmamaktadır. Sağlıklı
+gönüllüler üzerinde gerçekleştirilen klinik çalışmalarda toplanmış farmakogenomik örnekler
+kullanılarak yapılan bir meta-analizde, zayıf dolutegravir metabolizmasına yol açan UGT1A1
+(n=7) genotiplerine sahip gönüllülerde, UGT1A1 (n=41) yoluyla normal metabolizma ile
+ilişkili genotipleri olan gönüllülerle karşılaştırıldığında %32 daha düşük dolutegravir klirensi
+ve %46 daha yüksek EAA gözlenmiştir. CYP3A4, CYP3A5 ve NR1I2’deki polimorfizmler
+dolutegravir farmakokinetiğindeki farklılıklarla ilişkilendirilmemiştir.
+Cinsiyet
+Yetişkinler üzerinde yapılan Faz IIb ve Faz III çalışmalardan elde edilen birleştirilmiş
+farmakokinetik veriler kullanılarak yapılan popülasyon PK analizlerinde cinsiyetin dolutegravir
+maruziyeti üzerinde klinik açıdan anlamlı bir etkisi olmadığı görülmüştür.
+Irk
+Yetişkinler üzerinde yapılan Faz IIb ve Faz III çalışmalardan elde edilen birleştirilmiş
+farmakokinetik veriler kullanılarak yapılan popülasyon PK analizlerinde ırkın dolutegravir
+maruziyeti üzerinde klinik açıdan anlamlı bir etkisi olmadığı görülmüştür. Japon gönüllülere
+tekli doz oral uygulamayı takiben dolutegravir farmakokinetiği Batılı (ABD) gönüllülerde
+gözlenen parametrelere benzerdir.
+Hepatit B veya C ile eş zamanlı enfeksiyon
+Popülasyon farmakokinetiği analizi, hepatit C virüsü ile eş zamanlı enfeksiyonun dolutegravir
+maruziyeti üzerinde klinik açıdan anlamlı bir etki yapmadığına işaret etmiştir. Hepatit B eş
+zamanlı enfeksiyonu olan gönüllülerle ile ilgili veriler sınırlıdır.
+5.3. Klinik öncesi güvenlilik verileri
+Bakteriler ve memeli hücre kültürleri ile yapılan in vitro testler ve kemiricilerde yapılan in vivo
+mikroçekirdek testinde dolutegravirin mutajenik veya klastojenik olmadığı görülmüştür.
+Sıçanlar ve fareler üzerinde yapılan uzun süreli çalışmalarda dolutegravirin karsinojenik
+etkisinin olmadığı görülmüştür.
+Dolutegravir, test edilen en yüksek doz olan 1000 mg/kg/gün’e (EAA’ye dayalı olarak 50 mg
+insan klinik maruziyetinin 24 katı) kadar olan dozlarda sıçanlarda erkek veya dişi fertilitesini
+etkilememiştir.
+Gestasyonun 6. ila 17. günleri arasında günde bir kere 1000 mg/kg’a kadar dozlarda gebe
+sıçanlara oral dolutegravir uygulaması maternal toksisite, gelişimsel toksisite veya
+teratojenisite meydana getirmemiştir (EAA’ye dayalı olarak günde iki kez 50 mg insan klinik
+maruziyetinin 27 katı).
+30Hayvanlarda yapılan üreme toksisitesi çalışmalarında dolutegravirin plasentayı geçtiği
+gösterilmiştir.
+Gestasyonun 6. ila 18. günleri arasında günde bir kere 1000 mg/kg’a kadar dozlarda gebe
+tavşanlara oral dolutegravir uygulaması, gelişimsel toksisite veya teratojenisite meydana
+getirmemiştir (EAA’ye dayalı olarak günde iki kez 50 mg insan klinik maruziyetinin 0,40 katı).
+Tavşanlarda 1000 mg/kg’da (EAA’ye dayalı olarak günde iki kez 50 mg insan klinik
+maruziyetinin 0,4 katı) maternal toksisite gözlenmiştir (azalmış besin tüketimi,
+sınırlı/dışkı/idrar yok, vücut ağırlığı kazanımında baskılanma).
+Sıçanlardaki bir jüvenil toksisite çalışmasında dolutegravir uygulaması, 75 mg/kg/gün dozunda
+sütten kesilme öncesi dönemdeki iki hayvanda ölüm ile sonuçlanmıştır. Sütten kesilme öncesi
+tedavi döneminde bu grupta ortalama beden ağırlığı artışı azalmıştır ve bu azalma dişilerde
+sütten kesilme sonrası döneminde çalışma boyunca devam etmiştir. Bu dozda dolutegravire
+sistemik maruziyet (EAA temel alınarak), önerilen pediyatrik dozda insanlardakinin ~17-20
+katı daha yüksek olmuştur. Erişkinler ile karşılaştırıldığında genç hayvanlarda yeni hedef organ
+tanımlanmamıştır. Sıçan prenatal/postnatal gelişim çalışmasında, maternal toksik dozda
+(maksimum önerilen insan dozunda insandaki maruziyetin yaklaşık 27 katı) laktasyon sırasında
+büyüyen yavruların beden ağırlığında azalma gözlenmiştir.
+Sıçanlarda (26 haftaya kadar) ve maymunlarda (38 haftaya kadar) yapılan tekrarlı oral doz
+toksisite çalışmalarında yüksek dolutegravir dozları ile uzatılmış günlük tedavinin etkisi
+değerlendirilmiştir. Sıçan ve maymunlarda dolutegravirin primer etkisi, EAA değerlerine göre
+50 mg insan klinik maruziyetinin sırasıyla yaklaşık 21 ve 0,82 katı sistemik maruziyet
+oluşturacak dozlarda gastrointestinal (Gİ) intolerans ve iritasyon olmuştur. Gastrointestinal
+intoleransın lokal etkin madde uygulaması ile ilgili olduğu düşünülmektedir. mg/kg veya
+mg/m2 metrik sistem, bu toksisitenin uygun güvenlilik belirleyicileridir. Maymunlarda Gİ
+intolerans, 50 mg’lik toplam günlük klinik doza eşdeğer insan mg/kg’nin 15 katı (50 kg’lik
+insanlarda) ve mg/m2’nin 5 katında gözlenmiştir.
+6. FARMASÖTİK ÖZELLİKLER
+6.1. Yardımcı maddelerin listesi
+D-Mannitol (E241)
+Mikrokristalin selüloz (E460)
+Povidon K29/32 (E1201)
+Sodyum nişasta glikolat
+Sodyum stearil fumarat (E365)
+Opadry® II Sarı 85F92461 (Polivinil alkol-kısmi hidrolize (E1203), titanyum dioksit (E171),
+makrogol/PEG (E1521), talk (E553b) ve sarı demir oksit (E172))
+6.2. Geçimsizlikler
+Geçerli değildir.
+6.3. Raf ömrü
+60 ay
+316.4. Saklamaya yönelik özel tedbirler
+25 °C’nin altındaki oda sıcaklığında saklanmalıdır.
+6.5. Ambalajın niteliği ve içeriği
+30 tablet içeren, kutuda, PP (polipropilen) vidalı kapaklı HDPE (yüksek yoğunluklu polietilen)
+şişe.
+6.6. Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+Kullanılmamış olan ürünler ya da atık materyaller “Tıbbi Atıkların Kontrolü Yönetmeliği” ve
+“Ambalaj Atıklarının Kontrolü Yönetmeliği”ne uygun olarak imha edilmelidir.
+7. RUHSAT SAHİBİ
+GlaxoSmithKline İlaçları San. ve Tic. A.Ş.
+Büyükdere Cad. No: 173 1. Levent Plaza B Blok
+34394 1. Levent/İstanbul
+Tel: 0 212 339 44 00
+Faks: 0 212 339 45 00
+8. RUHSAT NUMARASI
+2021/27
+9. İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi: 20.02.2021
+Ruhsat yenileme tarihi: 20.02.2021
+10. KÜB’ÜN YENİLENME TARİHİ
+32

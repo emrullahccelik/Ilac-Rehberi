@@ -1,0 +1,295 @@
+KISA ÜRÜN BİLGİSİ
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+PK-MERZ® i.v. İnfüzyon Çözeltisi
+2. KALİTATİF VE KANTİTATİF BİLEŞİMİ
+Etken madde: 200 mg Amantadin sülfat
+Yardımcı maddeler: 4500 mg Sodyum klorür
+Yardımcı maddeler için 6.1’e bakınız.
+3. FARMASÖTİK FORM
+PK-MERZ®, intravenöz infüzyon çözeltisi formundadır.
+Renksiz, partikül içermeyen çözeltinin pH’ı 4.5 ile 7.5 arasındadır.
+4. KLİNİK ÖZELLİKLER
+4.1 Terapötik Endikasyonları
+• Parkinson hastalığının şiddetli ve yaşamı tehdit eden vakalarında ve semptomların
+akut alevlenmesi sırasında acil ve yoğun bakım tedavisi olarak
+• Oral tedaviyi geçici olarak bırakma durumunda
+• Uyanıklığı ve sensoriyel parlaklığı sağlamak amacıyla (değişik orijinli koma
+hastalarında adjuvan tedavi ajanı olarak; kraniyoserebral travma / ameliyat, anestezi
+sonrası gecikmiş uyanma durumunda ve benzer durumlarda
+4.2 Pozoloji ve Uygulama Şekli
+Pozoloji/Uygulama sıklığı ve süresi:
+Parkinson hastalığı: Parkinson semptomlarının akut alevlenmesi sırasında, özellikle akinetik
+kriz durumunda 500 ml’lik i.v. çözelti içindeki 200 mg amantadin sülfat günde 1-3 kez i.v.
+yolla infüze edilmelidir.
+Koma sonrası uyanmada zorluk: Değişik etiyolojilere bağlı koma sonrası uyanmanın
+iyileştirilmesi amacıyla, 3-5 gün boyunca 200 mg amantadin sülfat, 500 ml’lik infüzyon
+çözeltisi içinde i.v. yoldan uygulanabilir (>3 saat).
+Klinik gidişe uygun olarak, amantadin tedavisine devam edebilir. Hasta oral beslenmeye
+geçmişse amantadin tedavisine günde 200 mg tablet formuyla devam edilebilir.
+Koma sonrası amantadin sülfat tedavisinin 4 haftayı aşmaması önerilir.
+Uygulama şekli:
+PK-MERZ®, intravenöz yolla uygulanmalıdır. İnfüzyon hızı dakikada 55 damlayı
+aşmamalıdır ve bu miktar, 3 saatlik bir infüzyon periyoduna karşılık gelmektedir.
+Özel popülasyonlara ilişkin ek bilgiler
+Böbrek yetmezliği:
+Amantadinin ana itrah yolu böbrekler olduğu için renal fonksiyon bozukluklarında,
+amantadinin plazmada birikimi söz konusu olur. Bu nedenle böbrek fonksiyonları bozuk
+hastalarda doz azaltılmalıdır.
+1-8Renal bozukluğu olan hastalar: Bu hastalarda amantadin sülfat kullanılacaksa, glomerül
+filtrasyon hızının en iyi göstergesi olan kreatin klirens ölçümleri dikkate alınarak tedavi
+planlanmadır. Bu amaçla aşağıdaki formülün (yalnız erkekler için) kullanımı önerilir:
+(140-yaş) x hastanın ağırlığı
+Kreatin Klirensi (ml/dk) = ------------------------------------------------
+72 x serum kreatinin (mg/100ml)
+Bayan hastalar için bu formülle bulunan değerin %85’i alınır. Bulunan kreatin klirensi
+değerine göre aşağıdaki tablo esas alınarak uygulama dozu ve sıklığı belirlenir:
+Kreatin klirens Amantadin dozu
+Doz intervali
+(ml/dk) (200mg/500ml)
+80-60 100 mg Her 12 saatte bir
+60-50 200 mg veya 100 mg Gün aşırı
+50-30 100 mg Günde bir kez
+30-20 200 mg Haftada iki kez
+20-10 100 mg Haftada 3 kez
+<10 ve hemodiyaliz
+200 mg veya 100 mg Haftada bir veya iki haftada bir
+hastaları
+Hemodiyaliz kandan amantadinin yeteri kadar uzaklaştırılmasını sağlayamaz.
+Kalp yetmezliği:
+Aynı şekilde konjestif kalp hastalığı, periferik ödem, ortostatik hipertansiyonu olan hastalarda
+da doz azaltılmalıdır.
+EKG tedavi öncesi ile tedavinin 1. ve 3 haftalarında kaydedilmelidir. Doz azaltılmasından
+önce ve 2 hafta sonra da EKG kaydedilmelidir. Daha sonraları en azından yılda bir kez EKG
+kontrolleri yapılmalıdır. Taban QT değerleri 420ms’nin üzerinde olan ve amantadin tedavisi
+sırasında 60ms’den daha fazla QT değerinde artış gösteren veya amantadin tedavisi altında
+QT zamanı 480 ms’den daha fazla olan ve negatif U dalgasının ortaya çıktığı hastalara tedavi
+başlanmamalı veya başlandı ise kesilmelidir.
+Pediyatrik popülasyon:
+Pediyatrik popülasyonda kullanımına ilişkin bir veri bulunmamaktadır.
+Geriyatrik popülasyon:
+65 yaşın üzerindeki hastalarda doz azaltılmalıdır
+4.3 Kontrendikasyonlar
+PK-MERZ® kullanımı aşağıdaki durumların varlığında kontrendikedir:
+• PK-MERZ®’e veya ilacın formülasyonunda bulunan herhangi bir içeriğe karşı aşırı
+duyarlı olduğu bilinen kişilerde
+• Şiddetli dekompanse kalp yetmezliği
+• Kardiyomiyopati ve miyokardit varlığında
+• II. veya III. derece AV blok varlığında
+• Dakikada 55 atımdan daha düşük bir kalp atımının (bradikardi) varlığında
+• Uzamış QT intervalinin varlığında, konjenital QT sendromu varlığında
+• Şiddetli ventriküler aritmi varlığında (torsade de pointes)
+• Ciddi böbrek yetmezliği durumunda (kreatinin klirensi <10 ml/dak.)
+2-84.4 Özel Kullanım Uyarıları ve Önlemleri
+PK-MERZ®’i aşağıdaki durumlara sahip hastalarda dikkatli kullanınız:
+• Prostat hipertrofisi
+• Dar açılı glakom
+• Renal yetmezlik (çeşitli derecelerde; renal filtrasyon performansındaki kötüleşme
+sebebiyle birikme riski, bakınız bölüm 4.2 ve 4.4)
+• Ajitasyon ve konfüzyon durumlarında
+• Geçmişinde delirium sendromlarının veya eksojen psikoz varlığında
+• Memantin ile eşzamanlı tedavi
+Parkinson hastalarının amantadin tedavisini aniden kesmemeleri önerilir. Bu durumda küçük
+bir hasta gurubunda Parkinson krizinin ortaya çıktığı bildirilmiştir. Atropin benzeri etki ortaya
+çıkarsa amantadin dozu veya kullanılan antikolinerjiklerin dozu azaltılmalıdır.
+Amantadinin ani kesilmesine bağlı olarak sporadik vakalarda nöroleptik malign sendrom
+ortaya çıkabileceği bildirilmiştir. Bu nedenle amantadin tedavisi aniden sonlandırılacaksa ve
+hasta özellikle nöroleptikler de kullanılıyorsa, hastanın yakın takibi gerekir.
+Palpitasyon, baş dönmesi veya senkop durumunda amantadin tedavisi kesilmeli ve hasta
+EKG’de QT aralığının uzaması açısından 24 saat kontrol edilmelidir. QT aralığında uzama
+yoksa tedaviye devam edebilir.
+Kardiyak pacemaker taşıyan hastalarda EKG’de QT mesafesinin tayini tam olarak
+yapılamayacağı için amantadin tedavisi, kişisel değerlendirmenin yapıldığı doktor kararı ile
+kullanılır.
+Diüretiklerle kullanımı, sık kusma veya diyare nedeniyle elektrolit denge bozukluğu olan
+hastalarda laboratuar parametreleri moniterize edilmeli ve uygun elektrolit replasmanı
+(özellikle potasyum ve magnezyum replasmanı) yapılmalıdır.
+500 ml’lik infüzyon çözeltisi 1770 mg sodyum içerir, sodyum kısıtlaması yapılan hastalarda
+dikkatli olunmalıdır.
+4.5 Diğer Tıbbi Ürünlerle Etkileşim ve Diğer Etkileşim Biçimleri
+EKG’de QT mesafesinin uzamasına neden olduğu bilinen aşağıdaki ilaçlarla beraber
+amantadin kullanılmamalıdır:
+∗ Bazı Sınıf I antiaritmikler (kinidin, disopiramid, prokainamid) ve Sınıf III
+antiaritmikler (amidaron, sotalol)
+∗ Bazı antipsikotikler (tioridazin, klorpromazin, haloperidol, pimozid)
+∗ Bazı trisiklik ve tetrasiklik antidepresanlar (amitriptilin)
+∗ Bazı antihistaminikler (astemizol, terfenadin)
+∗ Bazı makrolid antibiyotikler (eritromisin, klaritromisin)
+∗ Bazı giraz inhibitörleri (sparfloksasin)
+∗ Azol grubu antimikotikler ve diğer ilaçlar (budipin, halofantrin, co-trimoksazol,
+pentamidin, sisaprid ve bepridil)
+Merkezi sinir sistemine uyarıcı olduğu bilinen ilaçlarla beraber kullanılırken özel dikkat
+gerekir. Antikolinerjikler amantadinin etkisini ve yan etkisini artırabilir. Yaşlı hastalarda
+tioridazin ile beraber amantadin kullanımı sırasında Parkinsona ait tremorun kötüleştiği rapor
+edilmiştir. Ancak diğer fenotiyazinlerin benzer bir etki oluşturduğu saptanmamıştır.
+3-8Trimetoprim-sulfometaksazol ile beraber amantadin kullanıldığında, amantadinin idrar
+klirensi azalabilir ve plazma seviyesi artabilir. Benzer şekilde kinin ve kinidinin de
+amantadinin idrarla atılımının azaldığı rapor edilmiştir.
+Benzodiyazepinler, trisiklik timoleptikler ve nöroleptikler yalnızca kan basıncı kontrolü
+altında kullanılmalı, kullanılırken dikkat gösterilmelidir.
+Amantadin kullanımı sırasında başka bir ajanla tedavi durumunda hekime danışılmalıdır.
+Amantadin diğer anti-parkinson ilaçlarla kombine olarak kullanılabilir. Kombinasyon
+durumunda dozların ayarlanması gerekir.
+Antikolinerjikler: Amantadin ile beraber kullanıldığında antikolinerjiklerin (triheksifenidil,
+benztropin, skopolamin, biperiden, orfenadrin) konfüzyon ve halüsinasyon gibi yan etkileri
+artabilir.
+Dolaylı yoldan SSS’ne etkili aktif sempatomimetikler: Amantadinin merkezi etkilerini
+potansiyelize ederler.
+Alkol: Amantadin, alkole karşı toleransı azaltabilir.
+Levodopa: Tedavi edici etkiyi karşılıklı olarak artırırlar. Bu nedenle kombine tedavi önerilir.
+Memantin: Amantadinin etkisini ve yan etkisini potansiyelize edebilir.
+Özel popülasyonlara ilişkin ek bilgiler:
+Özel popülasyonlarla ilgili olarak herhangi bir etkileşim çalışması bulunmamaktadır.
+Pediyatrik popülasyonlara ilişkin ek bilgiler:
+Pediyatrik popülasyonlara ilişkin etkileşim çalışması bulunmamaktadır.
+4.6 Gebelik ve Laktasyon
+Genel Tavsiye
+Gebelik Kategorisi: C
+Çocuk doğurma potansiyeli olan kadınlar/ Doğum Kontrolü (Kontrasepsiyon)
+Hayvanlar üzerinde yapılan çalışmalar, gebelik ve-veya embriyonal/fetal gelişim ve-veya
+doğum ve-veya doğum sonrası gelişim üzerindeki etkiler bakımından yetersizdir. İnsanlara
+yönelik potansiyel risk bilinmemektedir. Gerekli olmadıkça kullanılmamalıdır.
+Gebelik dönemi
+Amantadinin gebe kadınlarda kullanımına ilişkin yeterli veri mevcut değildir. Hayvanlar
+üzerinde yapılan araştırmalar üreme toksisitesinin bulunduğunu göstermiştir (bkz. kısım 5.3).
+İnsanlara yönelik potansiyel risk bilinmemektedir.
+Laktasyon dönemi
+Amantadin anne sütüne geçmektedir. Emzirmenin durdurulup durdurulmayacağına ya da PK-
+MERZ® tedavisinin durdurulup durdurulmayacağına ilişkin karar verirken ortaya çıkabilecek
+semptomlar açısından (deri döküntüsü, idrar retansiyonu, kusma) bebek dikkatlice izlenmeli
+ve gerekli durumlarda emzirme bırakılmalıdır.
+Üreme yeteneği/Fertilite
+Amantadin sülfatın üreme yeteneği üzerine etkisi ile ilgili kontrollü çalışmalar
+bulunmamaktadır.
+4-84.7 Araç ve Makine Kullanma Yeteneği Üzerindeki Etkiler
+PK-MERZ® ile tedavi edilen hasta genellikle yoğun bakım hastasıdır. Bu nedenle araç ve
+makine kullanması söz konusu değildir.
+4.8 İstenmeyen etkiler
+Advers reaksiyonların sıklığı aşağıdaki gibi sıralanmıştır:
+[Çok yaygın (≥1/10); yaygın (≥1/100 ila ≤1/10); yaygın olmayan (≥1/1.000 ila ≤1/100);
+seyrek (≥1/10.000 ila ≤1/1.000); çok seyrek (≤1/10.000), bilinmiyor (eldeki verilerle tahmin
+edilemiyor)]
+Sinir sistemi rahatsızlıkları:
+Yaygın: Baş dönmesi
+Çok seyrek: Genellikle önerilen dozun fazlası ile tedaviden sonra epilepsi krizleri,
+miyoklonus, periferal nöropati semptomları
+Psikiyatrik rahatsızlıklar:
+Yaygın: Uyku bozuklukları, motor ve psikiyatrik ajitasyon. Özellikle predispozan yaşlı
+hastalarda görsel halüsinasyonlarla birlikte paranoid ekzojen psikoz
+tetiklenebilir. Bu tür yan etkiler PK-MERZ®’in diğer anti-parkinson ilaçları
+(levodopa, bromokriptin gibi) veya memantin ile kombinasyonunda daha
+yüksek sıklıkta meydana gelmektedir.
+Renal ve üriner rahatsızlıklar:
+Yaygın: Prostat hipertrofisinde üriner retansiyon
+Cilt ve deri altı doku rahatsızlıkları:
+Yaygın: Bazen alt bacak veya ayak bileğinde ödem ile birlikte, livedo retikülaris
+(değişik renkte cilt)
+Gastrointestinal rahatsızlıklar:
+Yaygın: Bulantı, ağız kuruluğu
+Kardiyak rahatsızlıklar:
+Çok seyrek: Ventriküler taşikardi, ventriküler fibrilasyon, torsade de pointes ve QT uzaması
+gibi kardiyak aritmiler. Bu vakaların pek çoğu doz aşımı veya diğer ilaçlarla
+birlikte kullanımda veya kardiyak aritmi için diğer risk faktörleri sonrasında
+meydana gelir (bakınız bölüm 4.3 ve 4.5). Taşikardi ile kardiyak aritmi.
+Vasküler rahatsızlıklar:
+Yaygın: Ortostatik disregulasyon
+Göz rahatsızlıkları:
+Seyrek: Bulanık görme*
+Çok seyrek: Geçici görme kaybı*, ışık hassasiyetinde artış
+Bilinmiyor: Korneal ödem, ilacın kullanılması bırakıldıktan sonra geri dönüşümlü
+∗ Görüş keskinliğinde kayıp veya bulanık görme meydana geldiğinde, korneal ödem muhtemel riskini ortadan
+kaldırmak için hasta göz doktoru tarafından muayene edilmelidir (bakınız bölüm 4.4).
+Kan ve lenfatik sistem rahatsızlıkları:
+Çok seyrek: Lökopeni ve trombositofeni gibi hematolojik yan etkiler
+İmmün sistem rahatsızlıkları:
+Çok seyrek: İnfüzyon tedavisi sonrasında anafilaktik reaksiyonlar
+5-84.9 Doz aşımı ve tedavisi
+Amantadinin yüksek dozu ile ortaya çıkan akut intoksikasyon bulguları arasında bulantı,
+kusma, hipereksitabilite, tremor, ataksi, bulanık görme, letarji, depresyon, dizartri ve
+konvülsiyonlar görülebilir.
+Bu etkiler çok yüksek amantadin dozu ile birlikte diğer anti-parkinson ilaçlarının kullanımı
+sırasında görülmüştür.
+Önlemler: İntoksikasyonu düzeltmek için bilinen spesifik bir ilaç tedavisi veya antidot yoktur.
+Amantadin ile intoksikasyon durumunda hastanın kusması sağlanmalı ve gastrik lavaj
+yapılmalıdır.
+Yaşamı tehdit eden intoksikasyon durumunda hastanın yoğun bakımının yapılması gerekir.
+İlgili terapötik önlemler arasında, sıvı alımının düzenlenmesi, Amantadinin hızlı ıtrahı için
+idrarın asitleştirilmesi, hastanın sedasyonu, antikonvülsif önlemler ve antiaritmikler (örneğin,
+lidokain gibi) yararlı olabilir.
+Yukarıda tarif edilen nörotoksik semptomların tedavisi için fizostigminin intravenöz
+uygulanmasının (yetişkinlerde her 2 saatte bir 1-2 mg, çocuklarda 5-10 dakikalık
+intervallerle doz toplam 2 mg’a ulaşacak şekilde 0.5 mg’lık dozlar intravenöz olarak
+verilebilir) amantadinin santral sinir sistemi toksisitesini geri çevirmek için etkili olduğu
+bildirilmektedir.
+Aşırı dozda amantadin alan hastalarda isoproteronel gibi adrenerjik ajanların kullanımı
+sırasında dikkatli olunmalıdır. Çünkü amantadinin dopaminerjik aktivite nedeniyle malign
+aritmi görülme riskinden bahsedilmektedir.
+5. FARMAKOLOJİK ÖZELLİKLERİ
+5.1 Farmakodinamik Özellikleri
+Farmakoterapötik grup: Anti-parkinson ilaçlar
+ATC kodu: N04BB01
+Amantadinin çeşitli farmakolojik etkileri vardır. Striatal dopamin reseptörlerde dolaylı olarak
+agonistik etkiye sahiptir. Hayvan çalışmalarında, amantadinin hem presinaptik nöronlardan
+geri alımı azaltarak ve hem de artmış dopamin sentezinden ekstraselüler dopamin
+konstrasyonunu artırdığı görülmüştür. Terapötik konsantrasyonlarda amantadin NMDA
+reseptörler aracılığıyla asetilkolin serbestlenmesini engeller ve böylece antikolinerjik etkisini
+arttırabilir. Bu madde L-dopa ile sinerjistik etkiye sahiptir.
+5.2 Farmakokinetik Özellikleri
+Dağılım
+200 mg amantadin sülfat’ın 3 saat boyunca infüzyonu ile ortalama plazma konsantrasyonu
+0.54 µg/ml olarak saptanmıştır. Günlük 200 mg tedavi ile 6. günün sonunda ortalama plazma
+konsantrasyonu 0.76 µg/ml’dir. Ortalama klirensi 3.6 L/saat’dir. Plazma ortalama yarılanma
+ömrü 7-23 saat arasında değişmekte olup ortalama 10 saattir.
+Amantadin, %67 oranında plazma proteinlerine bağlanır. Geri kalanı plazmada serbest halde
+bulunur. Doyurulabilir transport sistemi ile kan-beyin bariyerini de geçer.
+Eliminasyon
+60 yaşın üzerindeki hastalarda amantadin klirensi azalmakta, plazma yarılanma ömrü ve
+plazma konsantrasyonu artmaktadır. Amantadin, primer olarak glomerüler filtrasyon ve
+6-8tübüler sekresyon ile idrar yoluyla atılır. Amantadinin neredeyse tamamen (tek dozun %90’ı)
+metabolize olmamış formda idrar ile çok az bir kısmı da feçes ile atılır.
+İdrar pH’sı amantadinin atımını etkilemektedir. İdrar asitleştirildiğinde eliminasyon hızı
+artmaktadır. Bu nedenle idrarı asitleştirilen gıdalar veya ilaçlar, amantadinin ıtrahını
+hızlandırabilirler.
+5.3 Klinik Öncesi Güvenilirlik Verileri
+Amantadin, repolarize edici potasyum iyonlarının inflüksünün (içeri akımının) inhibisyonu
+aracılığıyla aksiyon potansiyeli süresinin uzamasını içeren kardiyak elektrofizyoloji üzerine
+etkilere sahiptir. İnsanlarda, seyrek olarak bu etkiler özel kardiyak aritmi türlerinin
+görülmesine sebep olabilir (apikal resiprokal taşikardi veya torsade de pointes aritmi).
+Kronik toksisite çalışmaları öncelikle MSS uyarıcı etkilerle ortaya çıkarmıştır. Köpekler ve
+maymunlarda izole vakalarda ekstrasistoller gözlenmiş, köpeklerde miyokartta hafif yağ
+infiltrasyonu görülmüştür.
+In vitro ve in-vivo testler ile gerçekleştirilen mutajenite çalışmasında amantadinin herhangi
+bir genotoksik potansiyeline dair kanıt bulunamamıştır.
+Amantadinle yapılan uzun süreli karsinojenisite çalışması bulunmamaktadır.
+Sıçanlar, fareler ve tavşanlarla yapılan embriyotoksisite çalışmalarında, sadece sıçanlarda
+yüksek dozlarda embriyoletal etkiler ve malformasyonlar gösterilmiştir. Artan sıklıkta ödem,
+arka bacaklarda malpozisyon ve iskelet anomalileri gözlenmiştir. Üreme üzerine yapılan
+araştırmalar yetersizdir; sıçanlarda üreme bozukluğuna dair kanıt bulunmaktadır.
+Perinatal/postnatal dönemde yapılan herhangi bir çalışma bulunmamaktadır.
+6. FARMASÖTİK ÖZELLİKLERİ
+6.1 Yardımcı Maddelerin Listesi
+Sodyum klorür
+Enjeksiyon için su
+6.2 Geçimsizlikler
+Bilinen bir geçimsizlik bulunmamaktadır.
+6.3 Raf ömrü
+60 ay
+6.4 Saklamaya yönelik özel tedbirler
+25oC'ın altındaki oda sıcaklığında saklayınız.
+6.5 Ambalajın Niteliği ve İçeriği
+Her biri 500 ml’lik infüzyon çözelti içeren 2 plastik şişede, karton kutusunda, kullanma
+talimatı ile beraber satışa sunulur.
+6.6 Tıbbi beşeri üründen arta kalan maddelerin imhası ve diğer özel önlemler
+Kullanılmamış olan ürünler ya da atık materyaller ‘Tıbbi atıkların kontrolü yönetmeliği’ ve
+‘Ambalaj Atıklarının Kontrolü Yönetmelikleri’ne uygun olarak imha edilmelidir.
+7-87. RUHSAT SAHİBİ
+ASSOS İlaç, Kimya, Gıda Ürünleri Üretim ve Tic. A.Ş.
+ÜMRANİYE 34773, İSTANBUL
+Tel: 216 612 9191
+Fax: 216 612 9192
+8. RUHSAT NUMARASI
+13.03.2008, 124/21
+9. İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi: 13.08.2008
+Ruhsat yenileme tarihi: -
+10. KÜB’ÜN YENİLENME TARİHİ
+8-8

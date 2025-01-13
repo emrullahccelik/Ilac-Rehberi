@@ -1,0 +1,531 @@
+KISA ÜRÜN BİLGİSİ
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI:
+MON.MIBG-131I-TEDAVİ 370 -3700 MBq i.v. enjeksiyonluk çözelti içeren flakon
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde :
+(131I)-İyobenguan sülfat (MIBG-131I) 370-3700 MBq
+Etkin madde içeriğinde bulunan I-131 radyoizotopunun fiziksel yarılanma ömrü 8.04
+gündür. - ve  ışıması yaparak bozunur. Ortalama yaydığı - ışını ve  ışınlarının enerjileri
+aşağıda verilmektedir.
+Enerji (keV) Yoğunluk (%)
+80,183 2,63
+284,30 6,2
+Yayılan foton
+364,48 81.6
+() gamma
+636,973 7,12
+722,893 1,78
+247,9 2,11
+309,9 0,63
+Yayılan (-) 333,8 7,21
+beta partikülleri 606,3 89,9
+629,7 0,072
+806,9 0,1
+Yardımcı madde(ler):
+Benzil alkol 0,01mg/mL
+Sodyum hidroksit pH 3,5 – 8,0 için yeterli miktarda
+Yardımcı maddeler için 6.1’e bakınız.
+3. FARMASÖTİK FORM
+Enjeksiyonluk çözelti.
+Berrak renksiz veya hafif sarı renkli radyoaktif çözelti
+4. KLİNİK ÖZELLİKLER
+4.1 Terapötik endikasyonlar
+MON.MIBG-I31l-TEDAVİ kanser tedavisinde kullanılan bir radyofarmasötiktir.
+Özellikle feokromasitoma, nöroblastoma, paraganglioma, medular tiroid karsinomu,
+karsinoid tümör olmak üzere nöroektodermal/nöroendokrin tümörlerinin lokal, lezyona
+1özgü tedavisinde kullanılır.
+4.2 Pozoloji ve uygulama şekli
+Pozoloji/ Uygulama sıklığı ve süresi:
+Bir uygulama için önerilen hasta dozu 3,2 GBq ile 11,2 GBq arasında değişmektedir.
+Çocuklar ve yetişkinler için önerilen dozlar aynıdır. Terapötik doz, dozimetrik bir
+çalışmaya dayanarak ayrı ayrı belirlenmektedir. Dozun boyutu, olası çoklu uygulamalar
+arasındaki aralıkların yanı sıra, temel olarak hematolojik radyotoksisite ve tümör türüne
+göre belirlenmektedir. Tümörün ilerleme oranı ne kadar hızlıysa, aralık da o kadar kısadır.
+Tekrarlı tedaviler, 6-8 aylık aralıklarda düşünülebilir. 29.6 GBq’ya kadar kümülatif dozlar
+bildirilmiş olup, kemik iliği toksisitesi sınırlayıcı faktördür.
+Uygulama şekli:
+MON.MIBG-131I-TEDAVİ 370 MBq/mL İ.V. enjeksiyonluk çözelti içeren flakon
+ambalaj içeriği bir hasta için verilecek dozu temsil eder. Çözelti hastaya direkt
+uygulanmamalıdır. Enjeksiyon için 10 mL MIBG-131I çözeltisi izotonik sodyum klorür (%
+0,9 NaCl) ile 50 mL’ye tamamlanarak 1-4 saat yavaşça verilmelidir. Artan dozlarda
+eklenen serum fizyolojik de aynı oranda artırılmalıdır. MIBG-131I’ın hızlı verilmesi kan
+basıncı artışıyla, alerjik semptomlarla, ateşle veya astımlı spazmlarla sonuçlanabilir.
+Görüntü elde etme:
+MIBG-131I’nin biyolojik dağılımını incelemek ve tümör odaklarında alımın miktarını ölçmek
+amacıyla yaklaşık 1 hafta boyunca tüm vücut sintigramı gerçekleştirilmesi önerilmektedir
+fakat zorunlu değildir.
+Özel popülasyonlara ilişkin ek bilgiler:
+Böbrek yetmezliği:
+MIBG-131I glomerüler filtrasyonla vücuttan uzaklaştırılmaktadır ve diyaliz
+edilememektedir. Bu nedenle böbrek fonksiyonu bozuk hastalarda artan radyasyon
+maruziyeti ihtimali nedeni ile dikkatle kullanılması, anefrik hastalarda ise kullanılmaması
+önerilmektedir.
+Karaciğer yetmezliği:
+MIBG-131I’ın karaciğer yetmezliği bulunan hastalardaki güvenlilik ve etkililiği
+incelenmemiştir.
+Pediyatrik popülasyon:
+MON.MIBG-131I-TEDAVİ kullanımı, nöroblastoma endikasyonu hariç, prematüre
+bebeklerde veya yeni doğanlarda kontrendikedir. Nöroblastomalı çocuklarda kullanılan
+minimum doz 3700 MBq (100 mCi)’dir.
+Geriyatrik popülasyon:
+Geriyatrik hasta grubu ile yapılmış olan bir çalışma bulunmamaktadır. Yapılan
+çalışmalarda bu hasta grubu ile ilgili bir üst sınır belirtilmemiştir.
+4.3 Kontrendikasyonlar
+- Etkin maddeye veya bölüm 6.1 de listelenen yardımcı maddelerden herhangi birine karşı
+2hipersensitivite olanlarda,
+- Prematüre ve yenidoğanda,
+- Gebelik veya emzirme döneminde,
+kontrendikedir.
+4.4 Özel kullanım uyarıları ve önlemleri
+RADYOFARMASÖTİKLER SADECE NÜKLEER TIP UZMANLARI TARAFINDAN
+NÜKLEER TIP MERKEZLERİNDE UYGULANIR.
+Gebelik, bkz. bölüm 4.6
+Bireysel avantaj/risk gerekçelendirmesi
+Her bir hasta için, öngörülen yarar ile radyasyonun zararının karşılaştırılması yapılarak,
+elde edilecek faydanın fazla olması durumunda radyasyon hastaya uygulanmalıdır. Verilen
+aktivite her durumda, gerekli optimum terapötik etkiyi elde etmek için mümkün olan en
+düşük doz (ALARA ) olmalıdır.
+Genel uyarı
+Bu müstahzar radyoaktif izotop içerir. Bu nedenle alınması, saklanması, kullanımı,
+taşınması ve atıkların bertarafı özel yönetmeliklere tabidir. (Bkz. 6.6) Radyofarmasötikler,
+hem radyasyon güvenliğini hem de farmasötik kalite gerekliliklerini karşılayan bir şekilde
+kullanıcı tarafından hazırlanmalıdır. MON.MIBG-131I-TEDAVİ steril ve apirojen olarak
+üretilmiştir. Ürünün bu niteliğinin bozulmaması için bütün işlemler ve uygulama aseptik
+tekniklerle yapılmalıdır.
+Hastaların, çalışanların ve diğer insanların gereksiz radyasyona maruz kalmaması için
+uygun zırhlama yapılmalıdır.
+Anefrik hastalara verilen radyasyon dozu, ilacın biyolojik eliminasyonunun gecikmesi
+nedeniyle oldukça yükselecektir; ayrıca vücuttan uzaklaştırılmasındaki yetersizlik
+nedeniyle hedef- geri plan (background) aktivite oranları ile çalışmanın sonucu dikkatle
+değerlendirilmelidir.
+Feokromasitoma hastası olduğu bilinen veya şüphelenilen hastalarda MIBG-131I
+enjeksiyonu esnasında hasta, hipertansif kriz geçirme olasılığına karşı dikkatle
+gözlenmelidir.
+İyotlu kontrast madde içeren ilaçların anaflaktik şoka varan aşırı duyarlık reaksiyonları
+geliştirdiği bilinmesine rağmen MIBG-131I’nın neden olduğu aşırı duyarlık reaksiyonlarının
+sıklığı oldukça düşüktür. Ancak görülme olasılığına karşı, acil müdahale gereçleri hazır
+bulundurulmalıdır. Aşırı duyarlık reaksiyonları dozdan bağımsız görülmektedir.
+Radyasyona maruz kalan kanser dokusuna bitişik normal doku hasar görebilir (örneğin,
+pelvik metastazları bulunan hastalarda üreme organlarında çalışma bozukluğu).
+Kemoterapideki hastalarda ek toksisite meydana gelebilir (örneğin; akciğer fibrozisi,
+hipergonadotrofik hipogonadizm).
+MIBG-131I ile tedavi edilen çocuklar, geri dönüşümü mümkün olmayan tiroit fonksiyonu
+3kaybı, büyüme geriliği ve hipergonadotrofik hipogonadizm oluşma riski altındadır. Bu
+nedenle, takip sırasında endokrin durumlarına özel dikkat gösterilmesi önerilir.
+MIBG-131I alımı ve tutulumu ile etkileşime girebilecek ilaçlar, tedavi öncesinde
+durdurulmalıdır (bakınız bölüm 4.5).
+Yüksek kan basıncı tedavisinde ve psikiyatride kullanılan çeşitli ilaçlar MIBG-131I ile
+etkileşime girer. Bu nedenle, beraberinde kullanım, MIBG-131I alımı ve tutulumu ile
+etkileşime girebilir ve böylece hem normal dokuya hem de tümör dokusuna verilen
+radyasyon dozunu etkileyebilir. Bu ilaçlar, tedaviden önce durdurulmalıdır (genellikle dört
+biyolojik yarı ömür için).
+Tiroit blokajı MIBG-131I uygulanmadan 24-48 saat önce başlatılır ve en az 5 gün boyunca
+devam ettirilir. Potasyum perklorat yoluyla blokaj, yaklaşık olarak 400 mg/gün uygulanarak
+elde edilir. Potasyum iyodid, potasyum-iyodat veya Lugol solüsyonu yoluyla blokaj, 100
+mg iyodin/gün eşdeğeri ile gerçekleştirilmelidir.
+Hastalara, en az ilk 24 saat boyunca bolca su içirilmelidir.
+MIBG-131I tedavisi, sadece otolog kemik iliği (çok az tümör hücresi içeren ya da hiç tümör
+hücresi içermeyen) transplantasyonunun mümkün olduğu hastalarda düşünülmelidir.
+Kemik iliği üzerindeki toksik etkiler (trombositopeni), dikkatli bir şekilde ve sıklıkla
+izlenmelidir.
+Kan sayımları, ilk hafta boyunca her 2 günde bir ve daha sonra son uygulamanın ardından
+ay içinde haftada bir defa kontrol edilmelidir.
+Ajanın biyolojik dağılımını incelemek ve tümör odaklarında tutulum miktarını ölçmek
+amacıyla yaklaşık 1 hafta boyunca tüm vücut sintigramı gerçekleştirilmesi önerilir fakat
+zorunlu değildir.
+Tekrarlanan tedaviler 6-8 ay aralıklarla kabul edilebilir. 29,6 GBq’ya kadar kümülatif
+dozlar bildirilmiş olup, kemik iliği toksisitesi sınırlayıcı faktördür.
+Uygulama öncesinde, acil kardiyak antihipertansif tedavi araçlarının kolayca bulunabilir
+olduğundan emin olunmalıdır.
+Kromafin granüllerinde MIBG-131I alımı, nadiren de olsa, böyle bir olayın meydana gelme
+olasılığının aşırı derecede düşük olduğuna inanılmasına rağmen, hipertansif krizi
+tetikleyebilen hızlı noradrenalin salgılanmasına yol açabilir. Bu durum, uygulama sırasında
+hastanın sürekli olarak izlenmesini gerektirir. Uygulama sırasında hem ECG hem de kan
+basıncının izlenmesi bazı hastalarda gerekli olabilir.
+Tanı değerlendirmesinin difüz kemik iliği için MIBG-131I alımı gösterdiği hastalarda,
+terapötik dozun uygulanmasından sonra kemik iliği baskılaması meydana gelebilir.
+Feokromasitoma için terapötik uygulama planlandığında, hipertansiyon kontrolüne yönelik
+ilaç tedavisi ile MIBG-131I alımı arasındaki olası etkileşime dikkat edilmelidir (bakınız
+bölüm 4.5). Geçimsiz ilaç tedavisi, planlanan terapötik uygulamadan en az 2 hafta önce
+durdurulmalıdır. Gerekli olması halinde, bunun yerine propranolol kullanılabilir.
+4Yüksek dozda radyoiyot uygulanması, önemli çevresel zararla sonuçlanabilir.
+Kontaminasyonu önlemek amacıyla hastalar tarafından vücuttan atılan aktiviteye ilişkin
+olarak uygun önlemler alınmalıdır.
+Terapötik dozların ardından radyasyondan koruma amacayla, en az bir hafta boyunca anne
+ile çocuk arasında yakın temastan kaçınılması önerilir.
+MIBG-131I alan kadınlara, uygulamayı takiben en az 6-12 ay süresince hamile kalmamaları
+önerilmelidir.
+Ürünün belirgin böbrek yetmezliği bulunan hastalarda terapötik uygulaması, verilen
+aktiviteye ilişkin olarak özel dikkat gerektirir.
+Düşük böbrek fonksiyonu ile sonuçlanan sitostatik ilaçlarla (örneğin; sisplatin bileşimleri)
+ön tedaviden geçen hastalar için, dozajların bu doğrultuda ayarlanması gerekebilir.
+Çocuklardaki başlıca ters reaksiyonlar, trombositopeni (izole) ya da kemik iliğinde tümör
+infiltrasyonu olması halinde daha çok kemik iliği baskılanmasıdır. Tükürük bezlerinin ya da
+miyokardiyumun fonksiyonu ile ilgili ters reaksiyonlar ya da karaciğer üzerindeki toksik
+etkiler tanımlanmamıştır.
+MON.MIBG-131I-TEDAVİ, her mL’sinde 0,01 mg benzil alkol içermektedir. Bu nedenle
+bebeklerde ve 3 yaşına kadar olan çocuklarda anaflaktoid reaksiyonlara sebebiyet verebilir.
+Bu husus nöroblastoma endikasyonu amacıyla kullanımlarda gözönüne alınmalıdır.
+Bu tıbbi ürün her mL’sinde 1 mmol (23 mg)’dan daha az sodyum içermektedir. Bu nedenle
+sodyuma bağlı herhangi bir uyarı gerekmemektedir.
+4.5 Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+MIBG-131I tutulumu ve birikimi pek çok ilaç tarafından etkilenmektedir. Bu nedenle
+aşağıda belirtilen ilaçların kullanılıp kullanılmadığı uygulama öncesinde kontrol
+edilmelidir.
+- Nifedipinin (Ca-kanal brokeri) MIBG-131I tutulumunu uzattığı bildirilmiştir.
+- Kalsiyum kanal blokerleri (diltiazem, nifedipin, verapamil), labetalol, rezerpin,
+sempatomimetik ajanlar (fenilefrin, efedrin veya fenilpropanolamin ) ve simetidin
+MIBG-131I tutulumunu inhibe edebilir. Bu ilaçlar birlikte kullanılmamalıdır. Tedavi
+öncesi dönemde verilmelerinin durdurulması tavsiye edilir.
+- Kokain
+- Amitiriptilin ve türevleri, imipramin ve türevleri, doksepin, amoksepin ve loksapin gibi
+trisiklik antidepresanlar MIBG-131I tutulumunu inhibe edebilir.
+Aşağıdaki ilaçlar için MIBG-131I alımının engellenmesi beklenir, fakat henüz bir kanıt
+mevcut değildir:
+- Adrenerjik nöron blokajı yoluyla faaliyet gösteren antihipertansifller (betanidin,
+debrisokin, bretilyum ve guanetidin).
+- Maprotilin ve trazolon gibi antidepresanlar.
+Bu ilaçlar, tedaviden önce durdurulmalıdır (genellikle dört biyolojik yarı ömür için).
+Antiemetikler:
+5- Genellikle terapötik miktarlarda MIBG-131I uygulamasının beraberinde gelen mide
+bulantısını bastırmak için sıklıkla verilen antiemetiklerin seçimine özel dikkat
+gösterilmelidir. Dopamin/serotonin reseptör antagonistler olan antiemetikler, klinik
+uygulamada kullanılan konsantrasyonlarda MIBG-131I alımı ile etkileşime girmez.
+Ancak metabolik olarak aktif feokromasitoma ve paraganglioma hastalarında, hastaların
+kan basınçlarının stabilize edilmesi ve kliniklerinin bozulmaması amacıyla kullanılan
+kalsiyum kanal blokörleri, beta ve alfa blokörler tedavi etkinliğini azaltması göz önünde
+bulundurularak kesilmeyebilir. Aksi takdirde metabolik olarak aktif tümörlerden salgılanan
+hormonların etkileri hastaların kliniklerinin alevlenmesine yol açacaktır.
+Özel popülasyonlara ilişkin ek bilgiler
+Özel popülasyon ile ilgili etkileşim çalışması yapılmamıştır.
+Pediyatrik popülasyon
+Pediyatrik popülasyonda diğer ürünlerle ilgili etkileşim çalışması yapılmamıştır.
+4.6 Gebelik ve laktasyon
+Genel tavsiye
+Gebelik kategorisi : X
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon)
+Radyofarmasötikler çocuk doğurma potansiyeli olan kadınlara uygulanmak istendiğinde,
+kadının hamile olup olmadığının belirlenmesi çok önemlidir. Aksi ispatlanmadığı sürece
+adet döneminde gecikme olan bir kadın hamile varsayılmalıdır. Eğer kadının hamile olup
+olmadığı konusunda şüphe duyulursa (eğer kadının adet döneminde gecikme varsa veya
+adet dönemi çok düzensizse, vs.), hastaya eğer varsa iyonize edici radyasyon
+kullanılmayan alternatif teknikler önerilmelidir.
+Çocuk doğurma potansiyeli olan kadınlar tedavi süresince (ve tedavinin ardından 6-12 aya
+kadar) etkili doğum kontrolü uygulamak zorundadırlar.
+Gebelik dönemi
+MIBG-131I gebelik döneminde kullanımı kontrendikedir. Gebelik döneminde uygulandığı
+takdirde ciddi doğum kusurlarına yol açmaktadır.
+Laktasyon dönemi
+MIBG-131I anne sütünde, MON.MIBG- 131I-TEDAVİ’nin terapötik dozları emziren
+kadınlara uygulandığı takdirde, emzirme esnasında çocuk üzerinde etkiye neden olabilecek
+ölçüde atılmaktadır.
+Emzirme dönemindeki kadınlara radyofarmasötikler uygulanmadan önce, annenin
+emzirmeyi bırakması veya radyonüklid uygulamasının ertelenmesi veya anne sütüne
+aktivite geçişi dikkate alınarak en uygun radyafarmasötiğin seçilmesi alternatifleri dikkate
+alınmalıdır. Eğer MON.MIBG-131I-TEDAVİ uygulaması gerekli görüldü ise, tedavi
+süresince emzirme kesilmeli ve anne sütü sağılarak atılmalıdır.
+Üreme yeteneği /Fertilite
+6MIBG-131I’nın üreme sistemi üzerine etkileri incelenmemiştir.
+4.7 Araç ve makine kullanımı üzerindeki etkiler
+MIBG-131I’ın araç sürme becerisi veya tehlikeli makineleri kullanma üzerinde hiçbir
+doğrudan etkisi bulunmamaktadır. Beklenmeyen advers reaksiyonların meydana gelmesi
+halinde, sürüş ve/veya makinelerle çalışma yeniden değerlendirilmelidir.
+4.8 İstenmeyen etkiler
+MIBG-131I enjeksiyonu, madde 4.2’ye uygun olarak yavaşça verildiğinde uygulamaya
+bağlı istenmeyen etkilerin veya semptomların görülmesi beklenmez. Hızlı verilmesi kan
+basıncı artışıyla, alerjik semptomlarla, ateşle veya astımlı spazmla sonuçlanabilir.
+MIBG-131I kullanımı ile hastaların yaklaşık % 45-50'sinde yan etkiler görülmektedir ve
+hipotiroidi dışındaki yan etkiler geçicidir.
+Gastrointestinal yan etkiler genellikle tedaviden iki gün sonra gözlenmektedir.
+Hematolojik yan etkilerin sıklığı ise hastaya daha önce uygulanan tedavilerin (kemoterapi,
+radyoterapi veya kök hücre nakli gibi) varlığı ve sıklığına bağlı olarak değişmektedir.
+Vasküler sistem yan etkileri ise metabolik olarak aktif feokromasitoma ve paraganglioma
+hastalarındaki tümör aktivasyonuna bağlıdır.
+Hipotiroidi ise hastanın tiroid bezinin iyot açlığına ve tedavi öncesi ve sonrası tiroid
+blokajının iyi yapılmamasına bağlı olarak gelişebilmektedir.
+İstenmeyen etkiler aşağıdaki sıklık derecesine göre sıralanır.
+Çok yaygın(≥1/ 10); yaygın (≥1/100 ila <1/10 ) ; yaygın olmayan ( ≥1/1000 ila <1/100 ) ;
+seyrek (≥1/ 10.000 ila <1/1000 ) ; çok seyrek (< 1/10.000 ); bilinmiyor.
+Enfeksiyon ve enfestasyonlar
+Bilinmiyor: Enfeksiyon hassasiyetinde artış
+(Kist ve polipler de dahil olmak üzere) iyi huylu ve kötü huylu neoplazmalar
+Bilinmiyor: Lösemi, malign ikincil kanserler
+Kan ve lenf sistemi hastalıkları
+Bilinmiyor: Kemik iliği depresyonu, trombositopeni, nötropeni, anemi
+Endokrin hastalıkları
+Seyrek: Hipotiroidi (Çocuklarda gelişim gecikmesine neden olabilir.)
+Bilinmiyor: Hipertiroidi
+Gastrointestinal hastalıklar
+Çok yaygın: Bulantı, kusma
+Bilinmiyor: Tükrük bezi ile ilgili sorunlar
+Vasküler hastalıkları
+Seyrek: Hipertansiyon
+7Yaralanma ve zehirlenme
+Bilinmiyor: Radyasyon yaralanması (radyasyona bağlı ağrı), interstisyel akciğer hastalığı,
+hipogonadizm, over yetmezliği, geçici tükürük bezi iltihabı
+İyonize edici radyasyona maruziyetde kanser oluşumuna neden olma ve kalıtımsal
+kusurların gelişimi potansiyeli vardır. Ancak bu etkiler, etkinliğin uygulanan düşük miktarı
+göz önüne alındığında nadiren beklenir. Terapötik maruziyetten kaynaklanan radyasyon
+dozu kanser ve mutasyon sıklığında artışa sebep olabilir. Her durumda radyasyonun
+risklerinin hastalığın kendisinden kaynaklanan risklerden daha düşük olduğunun garanti
+edilmesi gerekir. Maksimum önerilen doz olan 11,2 GBq için efektifdoz eşdeğeri 2240
+mSv dir.
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu
+Türkiye Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir.
+(www.titck.gov.tr; e-posta: tufam@titck.gov.tr; tel: 0 800 314 00 08; faks:0312 218 35 99)
+4.9 Doz aşımı ve tedavisi
+İyobenguanın aşırı doz etkisi, adrenalin salımından kaynaklanır. Bu etki kısa süreli olup,
+kan basıncını düşürmeyi amaçlayan destekleyici önlemler gerektirir. Örneğin bir beta-
+blokerinin (propranolol) hızlı enjeksiyonunu takiben çabuk etki gösteren bir alfa-adrenerjik
+blokaj ajanının (fentolamin) hızlı enjeksiyonu. Aşırı radyasyon dozunun verilmesi
+durumunda mümkün olduğunca zorlu diürez ve sık mesane boşaltma ile radyonüklidin
+vücuttan atılımı hızlandırılmalı ve absorbe edilen doz azaltılmalıdır. Uygulanmış olan
+efektif dozun tahmin edilmesi yararlı olabilir.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1 Farmakodinamik özellikler
+Grup: Diğer Terapötik Radyofarmasötikler
+ATC kodu: V10XA02
+Adrenal medullada üretilen hormonlar ketakolamin sentezinde ve depolanmasında rol
+oynamaktadır. Nöroendokrin tümörler (feokromasitoma, nöroblastoma, paraganglioma,
+medüller tiroid kanseri ve karsinoid) adrenal medulla dokusuna benzer olan hücrelerden
+oluşmaktadır ve köken almaktadır. Adrenerjik nöronlarda bulunan reseptörlere
+bağlanabilen moleküller anti-adrenerjik özelliklere sahiptir ve aynı zamanda adrenal
+medulla ve adrenal medulla hücrelerine benzer özellikte hücreler içeren tümörlerde,
+adrenerjik nöronlara olan fonksiyonel benzerlikleri ve adrenal medullanın kromaffin
+hücrelerini içermeleri nedeni ile tutulurlar. Bu nedenle, adrenerjik nöronlarda tutulma
+eğiliminde olan moleküllere benzer maddeler olan bretilyum, guanetidin ve MIBG’nin de
+nöroendokrin tümörlerde tutulması beklenmektedir.
+İşaretli bretilyumun stabil olmaması ve guanetidinin yalnızca karbon, nitrojen veya
+hidrojen ile işaretlenebiliyor olmasına karşın MIBG’nin radyoiyot ile kolayca işaretlenmesi
+ve stabil olması klinik pratik uygulamalarda kullanılmasına neden olmuştur. MIBG-131I
+8adrenal medullanın kromaffin hücrelerine hızlı ve sıkıca bağlanır ve tutulumu
+nöroendokrin reseptör yoğunluğu ile orantılıdır. MIBG tutulumu kokain ve desmetil-
+imipramin ile inhibe edilebilmektedir.
+Tedavi esnasında verilen en yüksek MIBG miktarı 10 mg olmakla birlikte bu miktarda
+MIBG ile uygulanan I-131 3700 MBq’dur. Bu nedenle tedavi MIBG’nin farmakolojik
+etkisi ile değil, MIBG sayesinde tümör dokusuna giden I-131’in beta partikül salınımı
+sonucu elde edilmektedir. Beta partikülünün enerjisinin dokuya aktarılması ise hücre
+ölümü ile sonuçlanmaktadır.
+5.2 Farmakokinetik özellikler
+Genel Özellikler
+Emilim:
+İntravenöz enjeksiyonu takiben kandan hızla temizlenerek adrenerjik innervasyonu olan
+dokularda tutulmaktadır.
+Dağılım:
+Verilen dozun toplamda %10-15’i fonksiyonel olarak adrenal medullaya benzeyen
+dokularda tutulmaktadır. Enjeksiyondan sonra ilk 1 saatte akciğerlerde ve takibinde 1-2
+saat içerisinde de miyokarddaki nöroendokrin reseptörlere bağlanmakta ve kalpte
+birikmektedir. Kalp kasındaki maksimum aktivite enjeksiyondan sonra 2-3 saat içerisinde
+görülmektedir. 24. saatte ise adrenal bezdeki maksimum aktiviteye erişilir ve 24-96 saat
+içerisinde de nöroendokrin tümörler ve metastazlarında tutulur.
+Biyotransformasyon:
+Metabolik çözünmenin ardından şu ürünler idrarda ortaya çıkmıştır: iyodür-131, [131I]
+metaiyodohipürik asit, [131I] hidroksi-iyodobenzilguanidin ve [131I] metaiyodobenzoik asit.
+Eliminasyon:
+MIBG-131I vücuttan % 82’si değişmeden, %16’sı meta-iodohuppirik asite metabolize
+edilerek, %2’si ise serbest iyot olarak idrarla atılmaktadır.
+MIBG-131I’nin reseptörlere bağlanmayan kısmı böbrekler ve üriner sistem yoluyla vücudu
+terk eder (24 saat içinde % 55 ve 4 gün içinde % 90).
+MIBG-131I’nin fiziksel yarı ömrü 8,04 gün, biyolojik yarı ömrü 5 gün
+Doğrusallık / Doğrusal Olmayan Durum:
+Veri bulunmamaktadır.
+5.3 Klinik öncesi güvenlilik verileri
+Köpeklerde letal doz 20 mg/kg’dır. Daha düşük doz seviyeleri (14 mg/kg) geçici klinik
+toksik etki belirtilerine yol açar. Sıçanlarda 20 ila 40 mg/kg tekrarlı intravenöz
+uygulamalar, ciddi klinik toksisite belirtilerine neden olur. 5 ila 20 mg/kg tekrarlı
+intravenöz uygulamalar, solunum yetmezliğini içeren etkilere neden olur, fakat uzun süreli
+etkiler sadece karaciğer ve kalp ağırlığında hafif bir artıştır. Köpeklerde 2.5 ila 10 mg/kg
+tekrarlı uygulama, yüksek kan basıncı ve kalp atış hızındaki ve kardiyak nabız
+yayılımındaki anormallikleri içeren klinik etkilere neden olur, fakat bütün belirtiler geçici
+9niteliktedir.
+Farelerde yapılan akut toksisite çalışmaları, 1,8 mg/kg’dan daha düşük dozlarda MIBG-131I
+uygulaması ile klinik semptom görülmediğini göstermiştir. MIBG-131I’nin en yüksek dozu
+0,0857 mg/kg olup bu doz yetişkin bir insanda 6 mg MIBG-131I / 70 kg dır. Bu miktar da
+yetişkin bir insanda klinik etki gösterecek miktarın % 4,8’idir. (Ref: Radyofarmasötik ürün
+spesifikasyonu, Isopharma AS, Institutedeien 18, N2007 Kjeller, Norveç, 1996., s.74.)
+Verilen iyoobenguan miktarları (özellikle terapötik dozlarda) ile istenmeyen ikincil
+etkilerin ortaya çıkabileceği seviye arasındaki güvenlik sınırı çok geniş değildir. Bu
+nedenle, hastalar, ilacın infüzyonu veya enjeksiyonu sırasında ya da ilacın infüzyonundan
+veya enjeksiyonunda en az birkaç saat sonra yakın gözetim altında tutulmalıdır.
+Kullanılan test sistemlerinde, mutajenik etki kanıtlanamamıştır. MIBG-131I’in karsinojenik
+potansiyeli çalışmaları yayınlanmamıştır.
+6. FARMASÖTİK ÖZELLİKLER
+6.1 Yardımcı maddelerin listesi
+Benzil alkol
+Enjeksiyonluk su
+Hidroklorik asit
+Sodyum hidroksit
+6.2 Geçimsizlikler
+MIBG-131I klinik olarak ilaç etkileşimleri kısmında belirtilenler dışında kimyasal olarak
+oksitleyici maddeler ve klorür iyonları ile geçimsizdir çünkü bu maddeler radyoaktif
+131I’un MIBG-131I molekülünden eliminasyonunu kolaylaştırır. Aynı nedenden ötürü ürün
+dondurulmuş halde -15°C’nin altında saklanmalıdır. İlave olarak, güçlü asidik ortam başka
+bir riski, uçucu radikal veya elementer iyot haline gelen radyoaktif iyotun salınımına neden
+olur. Bu maddeler, ürün flakonunun açılması ile birlikte çevrenin radyoaktif
+kontaminasyonuna neden olabilmektedir.
+6.3 Raf ömrü
+Üretim tarihinden itibaren 4 gün.
+6.4 Saklamaya yönelik özel tedbirler
+Kurşun zırhı içinde dondurucuda ( -15 °C’nin altında) saklayınız.
+Radyofarmasötikler, radyoaktif maddeler ile ilgili ulusal mevzuata uygun olarak
+saklanmalıdır.
+6.5 Ambalajın niteliği ve içeriği
+İç ambalaj: Kauçuk tıpa ve alüminyum kapaklı, 10 mL hacimli, renksiz, TİP I cam flakon.
+Dış ambalaj (Dıştan içe): Teneke kova içinde strofor ısı yalıtım malzemesi ile korumalı
+kuru buz içinde plastik torbada plastik kaplı kurşun zırh.
+10Ambalaj içeriği: 1 flakon /Kutu
+6.6 Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+Genel uyarılar
+Radyofarmasötikler belirlenmiş klinik ortamlarda sadece yetkili kişiler tarafından teslim
+alınmalı, kullanılmalı ve uygulanmalıdır. Teslim alma, saklanma, kullanım, transfer ve
+imha edilmeleri. Türkiye Atom Enerjisi Kurumu mevzuat ve lisanslarına göre
+yürütülmelidir.
+Radyofarmasötikler hem radyasyon güvenliği hem de farmasötik kalite gerekliliklerini
+yerine getirecek şekilde hazırlanmalıdır. Uygun aseptik önlemler alınmalıdır.
+Herhangi kullanılmamış bir ürün veya atık materyal Tıbbi Atık Yönetmeliği ve Türkiye
+Atom Enerjisi Kurumu’nun Radyoaktif Madde Kullanımından Oluşan Atıklara İlişkin
+Yönetmelik kurallarına uygun olarak bertaraf edilmelidir.
+Radyofarmasötiklerin uygulanması diğer kişiler için, harici radyasyondan veya idrar
+saçılmasından, kusmadan vs. gelen kontaminasyondan kaynaklanan riskler oluşturur. Bu
+nedenle ulusal mevzuata uygun olarak radyasyondan korunma önlemleri alınmalıdır.
+Hastaları ve hastane personelini korumak için MON.MIBG-131I –TEDAVİ uygulanırken
+uygun zırhlama yapılmalıdır.
+7. RUHSAT SAHİBİ
+Eczacıbaşı Monrol Nükleer Ürünler San. ve Tic.A.Ş.
+TÜBİTAK MAM Teknoparkı
+41470 Gebze – Kocaeli / TÜRKİYE
+Tel.: + 90 0262 648 02 00
+Faks: + 90 0262 644 40 39
+E-posta: monrol@monrol.com
+8. RUHSAT NUMARASI(LARI)
+2014/806
+9. İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi:12.11.2014
+Ruhsat yenileme tarihi:
+10. KÜB’ÜN YENİLENME TARİHİ
+11. DOZİMETRİ
+MIBG-131I uygulamasını takiben sağlıklı bireylerde çeşitli organlara tahmini radyasyon
+absorbe doz aşağıdaki tabloda verilmiştir. Veriler ICRP 60 ağırlıklandırma faktörleri
+(ağırlık) dikkate alınarak ICRP 53 yaklaşımı ile hesaplanır.
+11Uygulanan birim aktivite başına absorbe doz (mGy/MBq)
+Organ Çocuk
+Yetişkin
+15 yaş 10 yaş 5 yaş 1 yaş
+Kemik yüzeyi 6,1E-02 7.2E-02 1.1E-01 1.8E-01 3.6E-01
+Meme 6,9E-02 6.9E-02 1.1E-01 1.8E-01 3.5E-01
+Böbrek 1,2E-01 1.4E-01 2.1E-01 3.0E-01 5.1E-01
+Akciğer 1,9E-01 2.8E-01 3.9E-01 6.0E-01 1.2E+00
+Yumurtalık 6.6E-02 8.8E-02 1.4E-01 2.3E-01 4.2E-01
+Testis 5.9E-02 7.0E-02 1.1E-01 1.9E-01 3.6E-01
+Kırmızı kemik iliği 6.7E-02 8.3E-02 1.3E-01 1.9E-01 3.5E-01
+Tiroid 5.0E-02 6.5E-02 1.1E-01 1.8E-01 3.5E-01
+Böbrek üstü bezi 1.7E-01 2.3E-01 3.3E-01 4.5E-01 6.9E-01
+Mesane duvarı 5.9E-01 7.3E-01 1.1E+00 1.7E+00 3.3E+00
+Karaciğer 8.3E-01 1.1E-00 1.6E+00 2.4E+00 4.6E+00
+Tükrük bezleri 2.3E-01 2.8E-01 3.8E-01 5.1E-01 7.5E-01
+Dalak 4.9E-01 6.9E-01 1.1E+00 1.7E+00 3.2E+00
+Uterus 8.0E-02 1.0E-01 1.6E-01 2.6E-01 4.8E-01
+Effektif doz (ED) 6,1E-01 1,1E+00
+2,0E-01 2,6E-01 4,0E-01
+(mSv/MBq)
+Tedavi hedeflenen organlar arasında yer almayan spesifik organların aldığı radyasyon
+dozu, hastalık sürecinin neden olduğu patofizyolojik değişikliklerden anlamlı bir biçimde
+etkilenebilir. Takip eden bilgiyi kullanırken bu konu dikkate alınmalıdır.
+MIBG-131I tedavisi için hedef organ olan tümör dokusu için hedeflenen radyasyon miktarı
+en az 150 Gydir. Endikasyon popülasyonu göz önünde bulundurulduğunda hastalığın
+kemik metastazı nedeniyle kemik yüzeyindeki tutulum ön plana çıkabilir. 3700 MBq
+aktivite için 2257mGy olan bu değer hastadan hastaya hastalığın şiddeti ile orantılı olarak
+çok fazla değişkenlik gösterir. MIBG-131I tedavisi için kritik organ kırmızı kemik iliğidir
+ve 3700 MBq uygulanan aktivite için 247,9 mGy dir.
+12. RADYOFARMASÖTİKLERİN HAZIRLANMASINA YÖNELİK
+TALİMATLAR
+MON.MIBG-131I–TEDAVİ uygulamaya hazır formda üretilmektedir. Ancak hastaya
+uygulanacak doz “ 4.2 Pozoloji ve uygulama şekli” bölümünde belirtilen miktarlara göre
+ayarlanır.
+MON.MIBG-131I –TEDAVİ enjeksiyonluk çözeltisi steril apirojen ve radyoaktif bir
+üründür. Bu nedenle hastaya uygulanıncaya kadar sterilitesini korumak için aseptik
+koşullarda hazırlanmalıdır. Hasta ve çalışanların radyasyona maruziyetini en az düzeyde
+tutmak için uygun kurşun korumalı ortamlarda çalışılmalıdır.
+Hasta uygulama dozu hazırlanması sırasında su geçirmez eldivenler giyilmeli ve kurşun
+zırhlı enjektörler kullanılmalıdır.
+12Uygun bir koruyucu zırh altında çözeltinin yabancı madde içerip içermediği ve berraklığı
+görsel olarak kontrol edilmelidir. Berrak olmayan ve/veya içinde herhangi bir madde
+görülen çözelti kullanılmamalıdır.
+Hasta dozu, hastaya uygulanmadan hemen önce bir doz kalibratöründe ölçülmelidir.
+Hazırlama yöntemi:
+1 flakon içeriği bir hasta dozunu içermektedir. Çözelti hastaya doğrudan
+uygulanmamalıdır. Enjeksiyon için 10 mL MON.MIBG- 131I-TEDAVİ çözeltisi izotonik
+sodyum klorür (%0,9 NaCl) ile 50 mL’e tamamlanarak 1-4 saat yavaşça verilmelidir.
+(bkn:4.2)
+Kullanılmayan kısımların ve kullanım sonrası oluşan atıkların, “Radyoaktif Madde
+Kullanımından Oluşan Atıklara İlişkin Yönetmelik” kapsamında değerlendirilmesi
+gerekmektedir.
+Kalite kontrol değerleri ve analiz yöntemi:
+Radyonüklidik saflık: Toplam radyoaktivitenin minimum %99.9’u
+Spesifik Radyoaktivite: Minimum 400 GBq/g iyobenguan
+Radyokimyasal saflık: MIBG-131I ≥ %92 131I-kaynaklı radyoaktivite
+İyodür (131I) ≤ %7 131I-kaynaklı radyoaktivite
+Diğer safsızlıklar ≤ %1 131I-kaynaklı radyoaktivite
+Kromatografik yöntemle (HPLC) radyokimyasal saflık tayini:
+ Mobil Faz Hazırlanması: 1 hacim 80 g/l amonyum nitrat çözeltisi, 2 hacim seyreltik
+amonyak R2 çözeltisi ve 27 hacim metanol R karıştırılır. 0,45 µm membran filtreden
+süzülerek degaze edilir.
+ Seyreltik Amonyak R2 çözeltisi: 100 mL’lik bir balon jojeye 14 g konsantre amonyak
+R (%32’lik) ilave edilir. 100 mL hacme su ile tamamlanır. (Not: Hacim kullanarak
+hazırlamak için 15,6 mL %32’lik amonyak, 100 mL hacme su ile tamamlanır.
+d = 0,9 g/mL)
+NH3
+ Kromatografik Koşullar :
+Cihaz HPLC, Shimadzu LC-20AD
+Kolon SILICA (SIL 100A) 250 mm* 4,6 mm* 3 µm
+Enjeksiyon Hacmi 10 µL
+Akış 1.0 mL/dk
+Kolon Sıcaklığı 25 °C
+Dedektör Radyoaktivite dedektörü (RAD) ve DAD dedektör
+Dalga Boyu 254 nm, PDA (Photo Diode Array) Dedektör
+RAD Dedektör 7 sarımlı ve 12 M CPM, NaI/PMT ışıma dedektörü
+Enjeksiyon Süresi 20 dakika
+Kullanılan Standart Çözeltilerinin Hazırlanması:
+Referans a çözeltisinin hazırlanması: 0,100 g sodyum iyodür 100 mL balon jojeye tartılır.
+Hacmine mobil faz ile tamamlanır. 0,45 µm filtreden süzülerek enjekte edilir.
+Referans b çözeltisinin hazırlanması: 2,0 mg Iobenguane sulphate CRS, 10 mL’lik balon
+jojeye tartılır. 5 mL mobil fazda çözüldükten sonra hacmine mobil faz ile tamamlanır. 0,45
+µm filtreden süzülerek enjekte edilir.
+13Test çözeltisi: Numune, 1 mL ’de 1 mCi aktivite içerecek şekilde, gerekli ise,
+enjeksiyonluk su ile seyreltilir. 0,45 µm filtreden süzülerek enjekte edilir.
+Not: Test çözeltisi ışıktan korunmalıdır. Numune, -15 °C’nin altında saklandığından ve
+HPLC enjeksiyonu yapılmadan önce çözünmesi gerektiğinden, enjeksiyondan yaklaşık 1
+saat önce oda sıcaklığına alınmalı ve çözünme gerçekleştikten sonra bekletilmeden
+enjeksiyon yapılmalıdır.
+ Enjeksiyon sıralaması ve enjeksiyon sayıları aşağıdaki gibi olmalıdır.
+- Mobil faz çözeltisi (1 adet)
+- Referans a çözeltisi (1 adet)
+- Referans b çözeltisi (3 adet), HPLC alanları arasındaki % RSD, maksimum % 5.0
+olmalıdır.
+- Mobil faz çözeltisi (1 adet). “Mobil fazda Referans a ya da Referans b’den gelen her
+hangi bir taşınma gözlenirse, temiz bir baseline görülene kadar tekrar mobil faz
+enjeksiyonu yapılmalıdır.”
+- Numune çözeltisi (2 adet)
+ Analiz Sonuçlarının Değerlendirilmesi:
+- PDA dedektörden alınan kromatogramlarda, Referans a çözeltisinde, mobil faz
+çözeltisinden gelen bir pik ile iyodür piki yakın RT’lerde gözlenmektedir. İki pikin
+girişim yapmamasına dikkat edilmelidir.
+- PDA dedektörden alınan numune kromatogramlarında, iyodür piki ile yakın
+RT’lerde bir pik gözlenmektedir. Bu pik numune sentezi sırasında kullanılan
+bileşenlerden birinden kaynaklanmaktadır.
+- Radyoaktif dedektörden elde edilen radyokromatogramdaki piklerin % değerleri
+hesaplanır.
+Spesifik Radyoaktivite
+Radyokimyasal saflık analizinden elde edilen sonuçlar kullanılarak hesaplanır. İyobenguan
+sülfatın içeriği, numune ve referans b kromatogramlarındaki iyobenguan pik alanlarından
+belirlenir. Konsantrasyon hesaplanırken iyobenguan cinsinden hesaplanmalıdır. Bu
+nedenle belirlenmiş iyobenguan sülfat içeriği 0,85 ile çarpılmalıdır. (Not: 0,85; iyobenguan
+sülfat ve iyobenguan molekül ağırlıkları arasındaki farktan gelen bir katsayıdır.)
+Aşağıdaki formüle değerler yazıldığında spesifik radyoaktivite sonucu GBq/g iyobenguan
+cinsinden bulunmaktadır.
+[(RAD % MIBG)/100* (1mL’deki num. radyoaktivitesi) µCi /1mL* 1mL/1000 µL *10µL) * 1000 mg* 37*10-6 GBq]
+[(Ref b tartımı) mg/10mL * 1mL/1000 µL) *10 µL * 0,85 * ( PDA num. Alanı/PDA Ref b Alan Ort.) * 1g]
+14

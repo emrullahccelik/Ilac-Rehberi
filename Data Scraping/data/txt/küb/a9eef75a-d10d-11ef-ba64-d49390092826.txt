@@ -1,0 +1,678 @@
+KISA ÜRÜN BİLGİSİ
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+VANKURAİS® 500 mg I.V. infüzyonluk ve oral çözelti hazırlamak için liyofilize toz
+Steril
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde: Her flakon 500 mg vankomisin baza eşdeğer miktarda 525 mg liyofilize
+vankomisin hidroklorür (500.000 IU) içerir. 10 mL enjeksiyonluk su ile sulandırıldığında
+solüsyon 50 mg/mL vankomisin içerir.
+Yardımcı madde(ler): Yardımcı maddeler için 6.1'e bakınız.
+3. FARMASÖTİK FORM
+İnfüzyon ve oral solüsyon için liyofilize toz içeren flakon
+Flakon, beyaz veya beyaza yakın liyofilize madde içerir.
+4. KLİNİK ÖZELLİKLER
+4.1. Terapötik endikasyonlar
+İntravenöz uygulama
+VANKURAİS tüm yaş gruplarında aşağıdaki enfeksiyonların tedavisinde endikedir:
+- Komplike deri ve yumuşak doku enfeksiyonları
+- Kemik ve eklem enfeksiyonları
+- Toplum kaynaklı pnömoni
+- Ventilatör ilişkili pnömoniler de dahil hastane kaynaklı pnömoniler
+- İnfektif endokardit
+Ayrıca tüm yaş gruplarında, ciddi cerrahi operasyonlarda bakteriyel endokardit gelişme riskinin
+yüksek olduğu hastalarda, perioperatif antibakteriyel profilaksiste kullanılır.
+Oral kullanım:
+Tüm yaş gruplarında Clostridium difficile enfeksiyonlarında (CDI) kullanılabilir (Bkz. Bölüm
+4.2, 4.4 ve 5.1).
+Antibakteriyel ajanların uygun kullanımıyla ilgili resmi kılavuzlar göz önünde
+bulundurulmalıdır.
+4.2. Pozoloji ve uygulama şekli
+Pozoloji
+Uygun olduğunda diğer antibakteriyel ajanlarla kombinasyonları şeklinde kullanılabilir.
+İntravenöz uygulama
+Başlangıç dozu toplam vücut ağırlığı baz alınarak seçilmelidir. Hedef terapötik
+konsantrasyonlara ulaşmak için bir sonraki doz ayarlaması serum konsantrasyon değeri baz
+1/19alınarak yapılmalıdır. Sonraki dozlar ve uygulama aralığı için böbrek fonksiyonu dikkate
+alınmalıdır.
+12 yaş ve üstü hastalar:
+Önerilen doz vücut ağırlığına göre her 8 – 12 saatte bir 15 – 20 mg/kg şeklindedir. Günlük doz
+2 g’ı aşmamalıdır.
+Durumu ciddi olan hastalarda hedeflenen serum vankomisin konsantrasyonuna hızlı bir şekilde
+ulaşılmasını kolaylaştırmak için 25-30 mg/kg vücut ağırlığı olan bir yükleme dozu
+kullanılabilir.
+İnfantlar ve 1 ay ile 12 yaş arasındaki çocuklarda:
+Önerilen doz vücut ağırlığına göre 6 saatte bir 10 – 15 mg/kg şeklindedir.
+Yenidoğanlarda (doğumdan 27 gün sonrasına kadar olan dönem) ve erken doğumda (doğum
+tarihinden beklenen doğum tarihi +27 güne kadar olan dönem):
+Yenidoğanlar için dozaj rejiminin oluşturulması için, yeni doğanların yönetiminde deneyimli
+bir hekimin tavsiyesi alınmalıdır. Yenidoğanda vankomisin dozlamanın olası bir yolu,
+aşağıdaki tabloda gösterilmiştir:
+PMD(haftalar) Doz(mg/kg) Uygulama aralığı(saat)
+<29 15 24
+29-35 15 12
+>35 15 8
+PMD: Post-menstrüel dönem (son adet tarihinin başlangıç günü ile doğum (gestasyonel dönem)
+artı doğumdan sonraki dönem (post-natal dönem) arasında geçen süre)
+Tüm yaş gruplarında perioperatif bakteriyel endokardit profilaksisi:
+Önerilen doz, anestezi indüksiyonundan önce 15 mg / kg başlangıç dozudur. Ameliyat süresine
+bağlı olarak, ikinci bir vankomisin dozu gerekebilir.
+Tedavi süresi
+Önerilen tedavi süresi aşağıdaki tabloda gösterilmiştir. Her durumda, tedavi süresi,
+enfeksiyonun tipi ve şiddetine ve bireysel klinik cevaba göre ayarlanmalıdır.
+Endikasyon Tedavi Süresi
+Komplike cilt ve yumuşak doku
+enfeksiyonları
+-Nekroz yoksa 7 ila 14 gün
+-Nekroz durumunda 4 ila 6 hafta*
+2/19Kemik ve eklem enfeksiyonları 4 ila 6 hafta**
+Toplum kökenli pnömoni 7 ila 14 gün
+Hastane kaynaklı pnömoni, ventilatörle 7 ila 14 gün
+ilişkili pnömoni de dahil
+İnfektif endokardit 4 ila 6 hafta***
+* Hastaya daha fazla debridman gerekmediği, hastanın klinik olarak iyileşme gösterdiği ve 48-72 saat aralığında
+ateş olmadığı durumlarda devam edilir.
+** Prostetik eklem enfeksiyonları için daha uzun oral supresyon tedavisi düşünülmelidir.
+*** Gerekli olan kombine tedavi ve süreç valf tipine ve organizmaya bağlıdır.
+Özel popülasyonlara ilişkin ek bilgiler
+Geriyatrik popülasyon:
+Böbrek fonksiyonlarında yaşa bağlı azalmaya bağlı olarak daha düşük idame dozları
+gerekebilir.
+Böbrek yetmezliği:
+Böbrek yetmezliği olan erişkin ve pediatrik hastalarda, başlangıç dozunun ardından planlı bir
+doz rejiminden ziyade serum vankomisin düzeyleri göz önünde bulundurulmalıdır. Özellikle
+şiddetli böbrek yetmezliği olan hastalarda veya renal replasman tedavisi (RRT) uygulanan
+hastalarda vankomisin seviyesini etkileyebilecek çeşitli faktörler olabileceğinden dikkat
+edilmelidir.
+Hafif veya orta dereceli böbrek yetmezliği olan hastalarda başlangıç dozu azaltılmamalıdır.
+Şiddetli böbrek yetmezliği olan hastalarda, daha düşük günlük dozları uygulamaktan ziyade
+uygulama aralığını uzatmak tercih edilir.
+Vankomisin klerensini azaltabilecek ve / veya istenmeyen etkilerini artırabilecek tıbbi ürünlerin
+eşzamanlı uygulanmasına uygun bir şekilde dikkat edilmelidir.
+Vankomisin aralıklı hemodiyaliz ile zayıf şekilde diyaliz edilebilir. Bununla birlikte, yüksek
+akımlı membranların kullanımı ve sürekli renal replasman tedavisi (SRRT), vankomisin
+klerensini arttırır ve genellikle replasman dozunu gerektirir (genellikle aralıklı hemodiyaliz
+durumunda hemodiyaliz seansından sonra).
+Yetişkinler:
+Yetişkin hastalarda doz ayarlamaları, aşağıdaki formülle belirlenen glomerüler filtrasyon
+oranına (eGFR) dayanabilir.
+Erkekler: [Ağırlık (kg) x 140 – yaş (yıl)] / 72 x serum kreatinin (mg/dL)
+Kadınlar: 0,85 x yukarıdaki formül ile hesaplanan değer
+Yetişkin hastalar için olağan başlangıç dozu, 20 ila 49 mL/dk arasında kreatinin klerensi olan
+hastalarda 24 saatte bir uygulanabilen 15 ila 20 mg/kg'dır. Şiddetli böbrek yetmezliği olan
+(kreatinin klerensi 20 mL/dk altında) veya renal replasman tedavisi gören hastalarda, uygun
+zamanlama ve birbirini takip eden dozların miktarı büyük ölçüde RRT'nin modalitesine bağlıdır
+3/19ve serum vankomisin dip düzeylerine ve rezidüel renal fonksiyonuna dayandırılmalıdır. Klinik
+duruma bağlı olarak, vankomisin düzeylerinin sonuçlarını beklerken bir sonraki dozun
+verilmemesine dikkat edilmelidir.
+Böbrek yetmezliği olan kritik hastalarda, başlangıç yükleme dozu (25 ila 30 mg/kg)
+azaltılmamalıdır.
+Pediatrik Popülasyon:
+1 yaş ve üzeri pediatrik hastalarda doz ayarlaması, revize Schwartz formülü ile tahmin edilen
+glomerüler filtrasyon oranına(eGFR) bağlı olmalıdır.
+eGFR(mL/dk/1,73m2)=(yükseklik cm x 0,413) / serum kreatinin (mg/dL)
+eGFR(mL/dk/1,73m2)=(yükseklik cm x 36,2) / serum kreatinin (mg/dL)
+1 yaş altı bebekler ve yeni doğanlar için, revize Schwartz formülü uygulanamayacağından,
+uzman tavsiyesi alınmalıdır.
+Pediyatrik popülasyon için yetişkin hastalarla aynı prensipleri takip eden, oryantasyon dozaj
+önerileri aşağıdaki tabloda verilmiştir:
+GFR (mL/dk/1,73m2) I.V. doz Sıklık
+50-30 15 mg/kg 12 saatte bir
+29-10 15 mg/kg 24 saatte bir
+<10 10-15 mg/kg Seviyelere* bağlı olarak
+Aralıklı hemodiyaliz tekrar doz
+Periton diyaliz
+Sürekli renal replasman 15 mg/kg Seviyelere* bağlı olarak
+tedavi tekrar doz
+*Uygun zamanlama ve sonraki dozların miktarı büyük oranda RRT'nin modalitesine bağlıdır ve dozlamadan önce
+ve rezidüel böbrek fonksiyonunda elde edilen serum vankomisin seviyelerine dayanmalıdır. Klinik duruma bağlı
+olarak, vankomisin düzeylerinin sonuçlarını beklerken bir sonraki dozun verilmemesine dikkat edilmelidir.
+Karaciğer yetmezliği:
+Karaciğer yetmezliği olan hastalarda doz ayarlaması gerekli değildir.
+Gebelik:
+Gebe kadınlarda terapötik serum konsantrasyonları elde etmek için önemli ölçüde artan dozlar
+gerekebilir.
+Obez hastalar:
+Obez hastalarda başlangıç dozu, obez olmayan hastalardaki gibi toplam vücut ağırlığına göre
+ayrı ayrı belirlenmelidir.
+Oral Uygulama
+12 yaş ve üzeri hastalarda
+Clostridium difficile enfeksiyonu tedavisi (CDI):
+4/19Tavsiye edilen vankomisin dozu, ciddi olmayan CDI’nin ilk evresi için 10 gün boyunca her 6
+saatte 125 mg’dır. Şiddetli veya komplike hastalık durumunda, bu doz 10 gün için her 6 saatte
+bir 500 mg’a kadar arttırılabilir. Maksimum günlük doz, 2 g’ı geçmemelidir.
+Çoklu nüksleri olan hastalarda, CDI atak durumunda vankomisin ile tedavi 10 gün boyunca
+günde dört kez 125 mg, bunu takiben ya dozu azaltarak, örneğin, günde 125 mg olana kadar
+veya nabız rejimine göre, örneğin, en az 3 hafta boyunca her 2-3 günde bir 125-500 mg/gün
+olarak düşünülebilir.
+Yenidoğan, bebek ve 12 yaşından küçük çocuklar
+Tavsiye edilen vankomisin dozu, 10 gün için her 6 saatte bir oral olarak 10 mg/kg’dır.
+Maksimum günlük doz, 2 g’ı geçmemelidir.
+Vankomisin ile tedavi süresi, bireysel hastaların klinik seyrine göre ayarlanması gerekebilir.
+Antibiyotik kullanımının CDI’ya sebep olduğu şüphesi var ise antibiyotik kesilmelidir. Yeterli
+miktarda sıvı ve elektrolitin değiştirilmesi sağlanmalıdır.
+Vankomisin serum konsantrasyonlarının izlenmesi
+Terapötik ilaç düzeyi izlemi (TİDİ) sıklığı klinik duruma ve tedaviye yanıt temel alınarak
+kişiselleştirilmelidir. Bazı hemodinamik olarak stabil olmayan hastalarda günlük örnekleme
+gerekirken, tedaviye yanıt gösteren stabil hastalarda haftada en az bir kez yapılır. Normal
+böbrek fonksiyonu olan hastalar, vankomisin serum konsantrasyonu bir sonraki dozdan hemen
+önce tedavinin ikinci gününde izlenmelidir.
+Aralıklı hemodiyaliz alan hastalarda, vankomisin düzeyleri genellikle hemodiyaliz seansı
+başlamadan önce elde edilmelidir.
+Oral uygulamadan sonra inflamatuar bağırsak bozuklukları olan hastalarda vankomisin serum
+konsantrasyonlarının izlenmesi yapılmalıdır.
+Terapötik değer (minimum) vankomisin kan seviyeleri enfeksiyon bölgesine ve patojenin
+duyarlılığına bağlı olarak normalde 10-20 mg/L olmalıdır.
+15-20 mg/L dip değerleri genellikle klinik laboratuvarlar tarafından MIC (minimum inhibitör
+konsantrasyonu) ≥1 mg/L olan duyarlı-sınıflandırılmış patojenleri daha iyi kapsamak için
+tavsiye edilir.
+Model bazlı yöntemler, bireysel doz gereksinimlerinin tahmininde yeterli AUC'ye ulaşmak için
+yararlı olabilir. Model-bazlı yaklaşım hem kişiselleştirilmiş doz başlangıcını hesaplamada hem
+de TDM sonuçlarına göre doz ayarlamasında kullanılabilir.
+Uygulama yöntemi:
+İntravenöz uygulama
+İntravenöz vankomisin genellikle aralıklı infüzyon olarak uygulanır ve intravenöz yol için bu
+bölümde sunulan doz tavsiyeleri bu tip bir uygulamaya karşılık gelir.
+5/19Yeterince sulandırılan Vankomisin (her 500 mg için en az 100 mL ya da her 1000 mg için en
+az 200 mL), sadece en az bir saatlik bir süre boyunca veya maksimum 10 mg / dakikalık (hangisi
+daha uzunsa) bir hızda yavaş intravenöz infüzyon olarak uygulanmalıdır.
+Sıvı alımları sınırlı olan hastalar, infüzyon ilişkili istenmeyen etkilerin yüksek
+konsantrasyonlarda artma riskine rağmen 500 mg/50 mL ya da 1000 mg/100 mL çözeltileri
+alabilir.
+Sürekli vankomisin infüzyonu, örneğin vankomisin klerensi stabil olmayan hastalarda
+düşünülebilir.
+Oral Uygulama
+Parenteral uygulama için flakon içerikleri kullanılabilir.
+Her bir doz 30 mL suda rekonstitüe edilebilir ve hastaya içmesi için verilebileceği gibi
+nazogastrik tüp ile de uygulanabilir.
+Yaygın tatlandırıcı şuruplar uygulama sırasında tadı iyileştirmek için çözeltiye eklenebilir.
+4.3. Kontrendikasyonlar
+VANKURAİS, vankomisine duyarlılığı olduğu bilinen hastalarda kontrendikedir.
+Vankomisin, uygulama yerindeki nekroz riski nedeniyle intramüsküler olarak
+uygulanmamalıdır.
+4.4. Özel kullanım uyarıları ve önlemleri
+Aşırı duyarlılık reaksiyonları:
+Ciddi ve nadiren ölümcül aşırı duyarlılık reaksiyonları mümkündür (Bkz. Bölüm 4.3 ve 4.8).
+Aşırı duyarlılık reaksiyonları durumunda vankomisin tedavisi derhal durdurulmalı ve gerekli
+acil durum önlemleri başlatılmalıdır.
+Uzun süreli periyotlarda veya eş zamanlı olarak nötropeni veya agranülositoza neden olabilen
+diğer ilaçlarla birlikte vankomisin alan hastalarda lökosit sayısı düzenli aralıklarla izlenmelidir.
+Vankomisin alan tüm hastalarda, periyodik olarak hematolojik tetkikler, idrar analizi, karaciğer
+ve böbrek fonksiyon testleri yapılmalıdır.
+Vankomisin, çapraz aşırı duyarlılık nedeni ile teikoplanine alerjisi olan hastalarda, ölümcül
+anaflaktik şok da dahil olmak üzere reaksiyonlar oluşabileceğinden dikkatle kullanılmalıdır.
+Antibakteriyel etki spektrumu
+Vankomisin Gram-pozitif organizmalarla sınırlı bir antibakteriyel etki spektrumuna sahiptir.
+Patojenin duyarlı olduğu bilinmiyorsa veya belgelenmemişse ve patojenin vankomisinle
+tedavisinin uygun olacağına dair ciddi bir kanıt yoksa bazı tip enfeksiyonların tedavisinde tek
+ajan olarak kullanılması uygun değildir.
+6/19Bakteriyel aktivite spektrumu, güvenlilik profili ve standart antibakteriyel tedaviye uygunluğu
+vankomisinin akılcı kullanımında her bir hasta için göz önünde bulundurulmalıdır.
+Ototoksisite:
+Aşırı intravenöz doz alıp önceden işitme kaybı görülen hastalarda ya da aminoglikozidler gibi
+başka bir ototoksik etkin madde ile eşzamanlı olarak kullanımında geçici ya da kalıcı olabilen
+ototoksisite (Bkz.Bölüm 4.8) rapor edilmiştir. Daha önce işitme kaybı olan hastalarda
+vankomisin kullanımından kaçınılmalıdır. İşitme kaybından önce kulak çınlaması meydana
+gelebilir. Diğer antibiyotiklerle yapılan çalışmalar tedavi kesilmesine rağmen sağırlığın
+ilerleyici olabileceğini düşündürmektedir. Ototoksisite riskini azaltmak için periyodik olarak
+kan düzeylerinin belirlenmesi ve işitme fonksiyonlarının test edilmesi tavsiye edilmektedir.
+Özellikle yaşlılar işitme ile ilgili hasara duyarlıdır. Yaşlılarda, tedavi süresince ve sonrasında
+vestibuler ve işitsel fonksiyonlar izlenmelidir. Eş zamanlı olarak veya art arda diğer ototoksik
+maddelerin kullanımından kaçınılmalıdır.
+İnfüzyon ile ilişkili reaksiyonlar:
+Hızlı bolus uygulama (örn. birkaç dakikadan fazla, aşırı hipotansiyona (şok ve nadiren kardiyak
+arrest dahil), histamin benzeri cevap ve makulopapular veya eritamatöz döküntü (‘red man
+(kırmızı adam) sendromu’ ya da ‘red neck sendromu’) ile ilişkili olabilir. Hızlı infüzyon ile
+ilişkili reaksiyonlardan kaçınmak için, vankomisin 10 mg/dk’dan daha hızlı ve 60 dakikadan
+daha az olmayacak şekilde, seyreltilmiş çözelti (2,5 ile 5 mg/mL) olarak yavaşça infüze
+edilmelidir. İnfüzyonu durdurmak genellikle bu reaksiyonların çabuk kesilmesi ile sonuçlanır.
+İnfüzyon ile ilişkili reaksiyonların sıklığı (hipotansiyon, flushing, eritema, ürtiker ve pruritus)
+eş zamanlı anestezik ajanların uygulanması ile artar (Bkz. Bölüm 4.5). Bu, anestezik
+indüksiyondan en az 60 dakika önce vankomisin infüzyonu yapılarak azaltılabilir.
+Şiddetli kutanöz advers reaksiyonlar (SKAR'lar):
+Stevens-Johnson sendromu (SJS), toksik epidermal nekroliz (TEN), eozinofili ve sistemik
+semptomların eşlik ettiği ilaç döküntüsü sendromu (DRESS) ve yaşamı tehdit edici veya
+ölümcül olabilen akut generalize ekzantematöz püstülozis (AGEP) dahil şiddetli kutanöz advers
+reaksiyonlar (SKAR'lar) , vankomisin tedavisi ile bağlantılı olarak bildirilmiştir (Bkz. Bölüm
+4.8). Bu reaksiyonların çoğu, vankomisin tedavisine başlandıktan sonraki birkaç gün ila sekiz
+hafta içerisinde meydana gelmiştir.
+Hastalara, reçete anında bulgu ve semptomlar hakkında bilgi verilmeli ve cilt reaksiyonları
+açısından hastalar yakından takip edilmelidir. Bu reaksiyonları düşündüren bulgu ve
+semptomlar ortaya çıkarsa, vankomisin derhal kesilmeli ve alternatif bir tedavi düşünülmelidir.
+Hasta vankomisin kullanımıyla bir SKAR geliştirdiyse, vankomisin ile tedaviye hiçbir zaman
+yeniden başlanmamalıdır.
+Uygulama yeri ile ilişkili reaksiyonlar:
+İntravenöz vankomisin alan birçok hastada ağrı ve tromboflebit görülebilir ve nadiren ciddidir.
+Tromboflebitin sıklığı ve şiddeti medikal ürünü yavaşça seyreltilmiş çözelti şeklinde
+7/19uygulayarak (Bkz. Bölüm 4.2) ve infüzyon yerini düzenli olarak değiştirerek minimize
+edilebilir.
+Vankomisinin etkililiği ve güvenliliği intratekal, intralumbar ve intraventrikülar uygulama
+yolları için saptanmamıştır.
+Nefrotoksisite:
+Vankomisin, uzun süreli yüksek kan konsantrasyonlarına maruziyet nedeni ile toksik etki
+oluşma ihtimali daha yüksek olan anüri durumu da dahil, böbrek yetmezliği olan hastalarda
+dikkatle kullanılmalıdır. Toksisite riski, yüksek kan konsantrasyonları ve uzun süreli tedavi ile
+artar.
+Yüksek doz tedavide ve uzun süreli kullanımda, özellikle böbrek disfonksiyonu olan hastalarda
+veya işitme yetisi bozulmuş olan hastalarda ve ayrıca nefrotoksik ya da ototoksik maddelerin
+eş zamanlı kullanımında, vankomisinin kan seviyelerinin düzenli olarak izlenmesi
+gerekmektedir (Bkz. Bölüm 4.2 ve 4.5).
+Göz hastalıkları:
+Vankomisin, endoftalmi profilaksisi dahil intrakameral veya intravitreal kullanım için
+onaylanmamıştır.
+Katarakt cerrahisi sırasında veya sonrasında vankomisinin intrakameral veya intravitreal
+kullanımını takiben bireysel vakalarda kalıcı görme kaybı dahil olmak üzere hemorajik oklüzif
+retinal vaskülit (HORV) gözlenmiştir.
+Pediyatrik popülasyon:
+Pediyatrik popülasyon için geçerli intravenöz dozaj önerileri, özellikle 12 yaş altı çok sayıda
+çocukta sub-terapötik vankomisin seviyelerine neden olabilir. Bununla birlikte, artırılmış
+vankomisin dozunun güvenliliği uygun şekilde değerlendirilmemiştir ve 60 mg/kg/gün’den
+daha yüksek dozlar çoğunlukla önerilmez.
+Vankomisin, prematüre neonatlar ve genç infantlarda, böbreklerin yeterince gelişmemiş olması
+ve vankomisinin serum konsantrasyonlarının yükselmesi ihtimali nedeni ile titizlikle
+kullanılmalıdır. Bu nedenle vankomisinin kan konsantrasyonları bu çocuklarda dikkatle
+izlenmelidir. Çocuklarda vankomisinin ve anestezik ajanların eş zamanlı kullanımı eritem ve
+histamin benzeri flushing ile ilişkilendirilmiştir. Benzer olarak, aminoglikozid antibiyotikler,
+NSAİİ’ler (örn. patent duktus arteriozus’un kapanması için ibuprofen gibi) veya amfoterisin B
+gibi nefrotoksik ajanlar ile eş zamanlı kullanımı, yüksek nefrotoksisite riski ile
+ilişkilendirilmiştir (Bkz. Bölüm 4.5) ve bu nedenle vankomisinin serum düzeyleri ve renal
+fonksiyonun sık takibi gerekmektedir.
+Yaşlılarda kullanımı:
+Doz ayarlanmadığı takdirde, artan yaş ile glomerüler filtrasyonun doğal olarak azalması,
+vankomisinin serum konsantrasyonlarında artışa sebep olabilir (Bkz. Bölüm 4.2).
+8/19Anestezik ajanlar ile ilaç etkileşimleri:
+Anestezik ajanlarla indüklenmiş miyokardiyal depresyon vankomisin tarafından artırılabilir.
+Anestezi sırasında, dozlar iyice seyreltilmeli ve sıkı kardiyak izlemle birlikte yavaşça
+uygulanmalıdır. Pozisyon değişimleri infüzyon tamamlanıp postural ayarlamaya izin verinceye
+kadar ertelenmelidir (Bkz. Bölüm 4.5).
+Psödomembranöz enterokolit:
+Şiddetli persistan diyare durumunda, hayatı tehdit edebilen psödomembranöz enterokolitin
+olabilme ihtimali göz önünde bulundurulmalıdır (Bkz. Bölüm 4.8). Anti-diyareik ilaçlar
+verilmemelidir.
+Süperenfeksiyonlar:
+Vankomisinin uzun süreli kullanımı duyarlı olmayan organizmaların aşırı çoğalması ile
+sonuçlanabilir. Hastanın dikkatle gözlemlenmesi şarttır. Tedavi süresince süperenfeksiyon
+görülürse gerekli önlemler alınmalıdır.
+Oral uygulama:
+Vankomisin intravenöz olarak uygulandığında Clostridium difficile enfeksiyonlarında etkili
+değildir. Vankomisin bu endikasyon için oral olarak uygulanmalıdır.
+Clostridium difficile kolonizasyonu veya toksini için test, 1 yaşından küçük çocuklarda,
+Hirschsprung hastalığı, opere edilmiş anal atrezi ve ciddi motilite hastalıkları gibi stasis risk
+faktörlerinin eşlik ettiği şiddetli diyare görülmedikçe, yüksek asemptomatik kolonizasyon riski
+nedeni ile önerilmemektedir. Alternatif etiyolojiler mutlaka aranmalı ve Clostridium difficile
+enterekoliti kanıtlanmalıdır.
+Potansiyel sistemik absorbsiyon:
+İntestinal mukozanın inflamatuar hastalıkları ve ya Clostridium difficile ile indüklenen
+psödomembranöz kolit olan hastalarda absorbsiyon artabilir. Bu hastalar özellikle beraberinde
+renal bozukluk var ise advers reaksiyon gelişimi açısından risk altında olabilirler. Vankomisinin
+parenteral uygulaması ile ilişkili advers reaksiyonların gelişme riski, renal bozukluğun
+artmasıyla artar. İntestinal mukozanın inflamatuar hastalıklarına sahip hastalarda serum
+vankomisin konsantrasyonları izlenmelidir.
+Nefrotoksisite:
+Altta yatan renal disfonksiyonu olan veya eş zamanlı olarak bir aminoglikozid veya diğer
+nefrotoksik ilaç alan hastalar tedavi edilirken böbrek fonksiyonları belirli aralıklarla
+izlenmelidir.
+Ototoksisite:
+Daha önce işitme kaybı olan veya eş zamanlı olarak aminoglikozidler gibi başka bir ototoksik
+ajan ile tedavi gören hastalarda belirli aralıklarla işitme fonksiyon testi, ototoksisite riskini
+minimize etmek için faydalı olabilir.
+9/19Proton pompa inhibitörleri ve antimotilite ajanları ile ilaç etkileşimleri:
+Antimotilite ajanlarından kaçınılmalı ve proton pompa inhibitörlerinin kullanımı tekrar
+değerlendirilmelidir.
+İlaç-Dirençli Bakteri gelişimi:
+Oral vankomisin kullanımı gastrointestinal sistemde vankomisine dirençli Enterococci
+popülasyonu oluşma şansını artırır. Bu nedenle vankomisinin oral kullanımında ihtiyatlı
+olunması tavsiye edilir.
+4.5. Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+Vankomisinin anestezik ajanlarla eş zamanlı kullanımı, eritem, histamin benzeri flushing ve
+anaflaktoid reaksiyonlarla ilişkilendirilmiştir (Bkz. Bölüm 4.4).
+Anestezik ajanlarla eş zamanlı kullanımda infüzyon ilişkili olayların sıklığının artığı rapor
+edilmiştir. İnfüzyon ile ilişkili olaylar, vankomisinin anestezik indüksiyondan 60 dakika önce
+infüzyonu ile minimize edilebilir. Anestezi sırasında uygulandığında doz 5 mg/mL'ye veya
+daha azına seyreltilmelidir ve sıkı kardiyak izlemle yavaşça uygulanmalıdır. Pozisyon
+değişiklikleri infüzyon tamamlanıp postural düzenlemeye izin verinceye kadar ertelenmelidir.
+Eş zamanlı ya da ardışık olarak amfoterisin B, aminoglikozidler, basitrasin, polimiksin B,
+kolistin, viomisin, sisplatin, kıvrım diüretikleri (furosemid, etakrinik asit vb),
+piperasilin/tazobaktam ve NSAİİ gibi sistemik ya da topikal diğer potansiyel ototoksik veya
+nefrotoksik ilaçların kullanımı vankomisin toksisitesini artırabilir ve eğer bu ilaçların verilmesi
+gerekli ise, dikkatli kullanılmalı ve uygun bir şekilde izlenmelidir.
+Oral uygulama: Clostridium difficile enfeksiyonları için lokal kılavuzlara uygun olarak proton
+pompa inhibitörlerinin ve anti-motilite ajanlarının kullanımının durdurulması göz önünde
+bulundurulmalıdır.
+4.6. Gebelik ve laktasyon
+Genel tavsiye
+Gebelik kategorisi: C
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon)
+VANKURAİS’in çocuk doğurma potansiyeli bulunan kadınlarda kullanımına ilişkin yeterli
+veri mevcut değildir.
+Gebelik dönemi
+VANKURAİS’in gebe kadınlarda kullanımına ilişkin yeterli veri mevcut değildir.
+Hayvanlar üzerinde yapılan çalışmalar, gebelik /ve-veya/ embriyonal/fetal gelişim /ve-veya/
+doğum /ve-veya/ doğum sonrası gelişim üzerindeki etkiler bakımından yetersizdir (Bkz. Bölüm
+5.3). İnsanlara yönelik potansiyel risk bilinmemektedir.
+Sıçanlarda insan dozunun 5 katı ve tavşanlarda insan dozunun 3 katı ile teratoloji çalışmaları
+yapılmış ve fetüsün vankomisinden kaynaklanan zarar gördüğüne ilişkin kanıt bulunamamıştır.
+Kontrollü klinik bir çalışmada, vankomisin hidroklorürün bebekler üzerindeki potansiyel
+ototoksik ve nefrotoksik etkileri, intravenöz ilaç kullanımını zorlaştıran ciddi stafilokok
+10/19enfeksiyonları için gebe kadınlara uygulandığında değerlendirilmiştir. Vankomisin hidroklorür
+kordon kanında bulunmuştur. Vankomisine atfedilebilen bir sensörinöral işitme kaybı veya
+nefrotoksisite kaydedilmemiştir. Annesi üçüncü trimesterde vankomisin almış bir infantta
+iletim tipi işitme kaybı deneyimlenmiş ancak bu vankomisinle ilişkilendirilmemiştir.
+Vankomisinin yalnızca ikinci ve üçüncü trimesterde uygulanması nedeni ile fetal zarara sebep
+olup olmadığı bilinmemektedir. Vankomisin gebelikte yalnızca gerekli durumlarda verilmeli
+ve fetal toksisiteyi minimize etmek amacıyla kan düzeyleri dikkatle izlenmelidir. Bununla
+birlikte gebe hastalarda terapötik serum konsantrasyonlarına ulaşmak için daha yüksek
+vankomisin dozlarının gerektiği rapor edilmiştir.
+VANKURAİS gerekli olmadıkça gebelik döneminde kullanılmamalıdır.
+Laktasyon dönemi
+Vankomisin hidroklorür süte geçer. Emziren kadınlara vankomisin uygulandığında ihtiyatlı
+olunmalıdır. Emzirilen bir infantın gastro-intestinal kanaldan çok fazla vankomisin alması olası
+değildir.
+Üreme yeteneği / Fertilite
+Üreme yeteneği üzerine etkisi ile ilgili yeterli veri yoktur.
+4.7. Araç ve makine kullanımı üzerindeki etkiler
+Araç ve makine kullanımı üzerine bir etkisi yoktur.
+4.8. İstenmeyen etkiler
+Güvenlik profilinin özeti
+En yaygın görülen advers reaksiyonlar flebit, pseudo-alerjik reaksiyonlar ve hızlı vankomisin
+infüzyonuna bağlı olarak vücudun üst kısmında kızarıklar olarak ortaya çıkan RNS (“Red-neck
+sendromu”)’dur.
+Vankomisinin gastrointestinal sistemden emilimi ihmal edilebilir düzeydedir. Ancak,
+vankomisin parenteral olarak uygulandığında, özellikle böbrek yetmezliğinin eşlik ettiği
+bağırsak mukozasının şiddetli iltihaplanması durumunda advers reaksiyonlar ortaya çıkabilir.
+Vankomisin tedavisi ile ilişkili olarak Stevens-Johnson sendromu (SJS), toksik epidermal
+nekroliz (TEN), eozinofili ve sistemik semptomların eşlik ettiği ilaç döküntüsü sendromu
+(DRESS) ve akut generalize ekzantematöz püstülozis (AGEP) dahil olmak üzere şiddetli
+kutanöz advers reaksiyonlar (SKAR'lar) bildirilmiştir (Bkz. Bölüm 4.4).
+Advers reaksiyonların tablo haline getirilmiş listesi:
+Her bir sıklık grubunda istenmeyen etkiler azalan sıklık sırasına göre sunulmuştur. İstenmeyen
+etkiler MedDRA sistem organ sınıfına göre sıralanmıştır.
+Çok yaygın (≥1/10); yaygın (≥1/100 ila <1/10), yaygın olmayan (≥1/1.000 ila <1/100), seyrek
+(≥1/10.000 ila <1/1.000); çok seyrek (<1/10.000), bilinmiyor (eldeki verilerden hareketle
+tahmin edilemiyor)
+11/19Sistem organ sınıfı
+Sıklık Advers Reaksiyon
+Kan ve lenf sistemi hastalıkları
+Seyrek Geri dönüşümlü nötropeni, agranülositoz,
+eozinofili, trombositopeni, pansitopeni.
+Bağışıklık sistemi hastalıkları
+Seyrek Anaflaktik reaksiyonlar, hipersensitivite
+reaksiyonları
+Kulak ve iç kulak hastalıkları
+Yaygın olmayan Geçici ya da geçici olmayan işitme kaybı
+Seyrek Kulak çınlaması, baş dönmesi, vertigo
+Kardiyak hastalıklar
+Çok seyrek Kardiyak arrest
+Vasküler hastalıklar
+Yaygın Kan basıncında düşme
+Seyrek Vaskülit
+Solunum, göğüs bozuklukları ve
+mediastinal hastalıklar
+Yaygın Dispne, stridor
+Gastrointestinal bozukluklar
+Seyrek Bulantı
+Çok seyrek Psödomembranöz enterekolit
+Bilinmiyor Kusma, ishal
+Deri ve deri altı doku hastalıkları
+Yaygın Vücudun üst kısmında görülen kızarıklar
+(“Red Man Sendromu”) Ekzantem ve
+mukozal inflamasyon, kaşıntı, ürtiker
+Çok seyrek Eksfoliyatif dermatit, Stevens-Johnson
+sendromu, lineer IgA büllöz dermatit, Toksik
+epidermal nekroliz (TEN)
+Bilinmiyor Eozinofili ve sistemik semptomlar (DRESS
+sendromu), Akut generalize ekzantematöz
+püstüloz (AGEP)
+Böbrek ve idrar yolu hastalıkları
+Yaygın Başlıca serum kreatinin ve serum üre
+konsantrasyonlarının artışına bağlı olarak
+böbrek yetmezliği
+Seyrek İnterstisyel nefrit, akut böbrek yetmezliği
+Bilinmiyor Akut tübüler nekroz
+Genel bozukluklar ve uygulama bölgesine ilişkin hastalıklar
+Yaygın Flebit, üst vücut ve yüz kızarıklığı.
+Seyrek İlaç ateşi, titreme, göğüs ve sırt kaslarının
+ağrı ve kas spazmı
+12/19Seçili advers reaksiyonların tanımı:
+Geri-dönüşümlü nötropeni genellikle intravenöz tedavi başlangıcından bir hafta veya daha
+sonra veya toplam doz 25 g’dan fazla olduğunda başlar.
+Hızlı infüzyon sırasında veya hemen ardından, hırıltı dahil olmak üzere anafilaktik /
+anafilaktoid reaksiyonlar oluşabilir. Reaksiyonlar, uygulama durdurulduğunda, genellikle 20
+dakika ila 2 saat arasında azalır. Vankomisin yavaşça infüze edilmelidir (Bkz. Bölüm 4.2 ve
+4.4). Kas içi enjeksiyondan sonra nekroz oluşabilir.
+Olası işitme kaybı başlangıcından önce meydana gelen tinnitus (kulak çınlaması), tedaviyi
+bırakma gerekliliğinin bir göstergesi olarak görülmelidir.
+Ototoksisite özellikle yüksek doz verilen veya aminoglikozidler gibi diğer ototoksik tıbbi
+ürünlerle birlikte kombine tedavi kullanan hastalarda veya öncesinde böbrek fonksiyonunda
+azalma veya işitme kaybı var olan hastalarda bildirilmiştir.
+Pediyatrik popülasyon
+Güvenlik profili çoğunlukla çocuk ve yetişkin hastalarda benzerlik göstermektedir.
+Nefrotoksisite, çocuklarda, genellikle aminoglikozidler gibi diğer nefrotoksik ajanlarla birlikte
+kullanımı ile ilişkili olarak tarif edilmiştir.
+Şüpheli advers reaksiyonların raporlanması:
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TÜFAM)'ne bildirmeleri gerekmektedir (www.titck.gov.tr; e- posta:
+tufam@titck.gov.tr; tel: 0 800 314 00 08; faks: 0 312 218 35 99).
+4.9. Doz aşımı ve tedavisi
+Glamerüler filtrasyon devamını sağlayan destekleyici bakım önerilmektedir. Vankomisin
+hemodiyaliz ve peritoneal diyaliz ile çok az miktarda kandan uzaklaştırılır. Amberlite resin
+XAD-4 ile hemoperfüzyonun kısıtlı yararı olduğu bildirilmiştir.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1. Farmakodinamik özellikler
+Farmakoterapötik grup: Glikopeptid antibakteriyeller
+ATC kodu: J01XA01(İntravenöz kullanım için)
+Etki mekanizması:
+Vankomisin, duyarlı bakterilerde, hücre duvarının prekürsör birimi D-Alanil-D-alanin
+terminaline yüksek afinite ile bağlanarak hücre duvarı sentezini inhibe eden trisiklik glikopeptid
+antibiyotiktir.
+Bu ilaç bölünen mikroorganizmalar için yavaş bakterisidal etkilidir. Ayrıca, RNA sentezini ve
+bakteriyel hücre duvarının geçirgenliğini bozar.
+Farmakokinetik / Farmakodinamik İlişki:
+13/19Vankomisin, konsantrasyondan bağımsız aktivite gösterir, efikasite için, eğri altında kalan
+alanın (EAA) hedef organizmanın minimum inhibitör konsantrasyonuna bölünmesi temel
+parametredir. İn vitro, hayvan ve sınırlı insan çalışmalarından elde edilen verilere göre
+vankomisin ile klinik etkinliğe ulaşmada FK/FD hedefi, EAA/MİK (AUC/MIC) oranı 400
+olarak belirlenmiştir. MIC ≥ 1 mg/L olduğunda bu hedef değeri elde edebilmek için üst dozlama
+aralığı ve yüksek çukur serum konsantrasyonları (15 – 20 mg/L) gerekir.
+Direnç Mekanizması:
+Enterokoklarda glikopeptidlere kazanılmış direnç oluşması çok yaygındır ve D-alanil-D-alanin
+hedefini vankomisine zayıf bağlanan D-alanil-D-laktat ya da D-alanil-D-serin’e modifiye eden
+çeşitli van genlerinin kazanılmasına dayanır. Bazı ülkelerde özellikle enterokoklarda direnç
+vakalarında artış gözlenmiştir, bilhassa çoklu direnç gösteren Enterococcus faecium suşları
+endişe vericidir.
+Van genleri, hücre duvarı yapısında genellikle çoklu değişimle sonuçlanan orta duyarlı
+Staphylococcus aureus’ta nadiren bulunmaktadır. Ayrıca, vankomisine duyarlılığı azalmış
+metisiline dirençli Staphylococcus suşları (MRSA) rapor edilmiştir. Staphylococcus’ta azalmış
+duyarlılık veya vankomisine direnç tam olarak anlaşılamamıştır. Bir dizi genetik unsur ve çoklu
+mutasyonlar gereklidir.
+Vankomisin ile farklı sınıflardaki antibiyotikler arasında çapraz bir direnç söz konusu değildir.
+Teikoplanin gibi diğer glikopeptid antibiyotiklerle çapraz direnç görülebilmektedir. Tedavi
+süresince ikincil direnç gelişimi nadirdir.
+Sinerjizm:
+Vankomisinin aminoglikozid antibiyotiklerle kombinasyonu, Staphylococcus aureus’un birçok
+suşuna, enterokokal olmayan grup D-streptokoklara, enterokok ve viridans grup streptokoklara
+karşı sinerjistik etkiye sahiptir.
+Vankomisinin sefalosporin ile kombinasyonu bazı oksalisin dirençli Staphylococcus
+epidermidis suşlarına ve vankomisinin ripampisin ile kombinasyonu Staphylococcus
+epidermidis suşları ve kısmen bazı Staphylococcus aureus suşlarına karşı sinerjistik etki
+gösterir. Sefalosporin ile vankomisinin kombinasyonunda ayrıca bazı Staphylococcus
+epidermidis suşlarına ve rifampisin ile kombinasyonunda bazı Staphylococcus aureus suşlarına
+karşı antagonist etki görülebilir, sinerjizm testinin yapılması faydalıdır.
+Sebep olan organizmaların izole edilmesi, tanımlanması ve vankomisine duyarlılığının
+belirlenmesi için bakteriyel kültür örnekleri alınmalıdır.
+Duyarlılık testi veri kesim noktaları:
+Vankomisin stafilokok, streptokok, enterokok, pnömokok ve clostridyalar gibi gram pozitif
+bakterilere karşı etkili bir ajandır. Gram negatif bakteriler dirençlidir.
+Kazanılan direncin prevelansı coğrafik olarak değişkenlik gösterebilir ve özellikle şiddetli
+enfeksiyonların tedavisinde, seçilmiş türler için zaman ve dirençle ilgili lokal bilgi talep
+edilebilir. Gerektiğinde, direncin lokal prevelansının, en azından bazı enfeksiyon türleri için
+14/19sorgulanabilir olduğu durumda uzman tavsiyesi alınmalıdır. Bu bilgiler mikroorganizmaların
+vankomisine duyarlı olup olmadığı konusunda yalnızca yaklaşık olarak yol göstericidir.
+Avrupa Antimikrobiyal Duyarlılık Testi Komisyonuna (EUCAST) göre hesaplanmış, minimum
+inhibitör konsantrasyon (MIC) kesim noktaları aşağıdaki gibidir:
+Duyarlı Dirençli
+Staphylococcus aureus1 ≤ 2 mg/L > 2 mg/L
+Koagülaz-negatif stafilokoklar1 ≤4 mg/L >4 mg/L
+Enterococcus spp. ≤4 mg/L >4 mg/L
+Streptococcus grup A, B, C ve G ≤2 mg/L >2 mg/L
+Streptococcus pneumoniae ≤2 mg/L >2 mg/L
+Gram pozitif anaeroblar ≤2 mg/L >2 mg/L
+1 S.aureus için 2 mg/mL olan MIC değeri vahşi tür dağılımı için sınırdadır ve bozulmuş klinik
+yanıt görülebilir.
+Yaygın duyarlı türler
+Gram pozitif
+Enterococcus faecalis
+Staphylococcus aureus
+Metisilin-dirençli Staphylococcus aureus
+Koagülaz-negatif Staphylococci
+Streptococcus spp.
+Streptococcus pneumoniae
+Enterococcus spp.
+Staphylococcus spp.
+Anaerobic türler:
+Clostridium innocuum hariç Clostridium spp.
+Eubacterium spp.
+Peptostreptococcus spp.
+Kazanılmış direncin problem olabileceği türler
+Enterococcus faecium
+Doğal dirençliler
+15/19Tüm gram negatif bakteriler
+Gram pozitif aerobic türler
+Erysipelothrix rhusiopathiae,
+Heterofermentative Lactobacillus,
+Leuconostoc spp.
+Pediococcus spp.
+Anaerobic türler
+Clostridium innocuum
+Vankomisine karşı direncin ciddiyeti hastaneden hastaneye değişmektedir ve lokal
+mikrobiyoloji laboratuvarı ilgili lokal bilgiler için iletişim halinde olmalıdır.
+5.2. Farmakokinetik özellikler
+Emilim:
+Vankomisin sistemik enfeksiyonların tedavisi için intravenöz olarak uygulanır.
+Normal renal fonksiyonu olan hastalarda, 1 g vankomisinin (15 mg/kg) çoklu dozlarının 60
+dakika boyunca intravenöz infüzyonu, infüzyon tamamlandıktan hemen, 2 saat ve 11 saat sonra
+sırasıyla yaklaşık 50-60 mg/L, 20-25 mg/L ve 5-10 mg/L oranında ortalama plazma
+konsantrasyonları oluşturur. Çoklu dozlardan sonra elde edilen plazma seviyeleri, tek bir
+dozdan sonra ulaşılanlara benzerdir.
+Vankomisin genellikle oral uygulamadan sonra kanda emilmez. Ancak (psödomembranöz)
+kolitli hastalarda oral uygulamadan sonra emilim görülebilir. Bu durum, eşlik eden böbrek
+yetmezliği olan hastalarda vankomisin birikmesine yol açabilir.
+Dağılım:
+Dağılım hacmi, yaklaşık 60 L/1,73 m2 vücut yüzeyidir. Vankomisinin 10 mg/L ila 100 mg/L
+serum konsantrasyonlarında, ilacın plazma proteinlerine bağlanması, ultra-filtrasyon ile
+ölçüldüğünde yaklaşık %30-55’tir.
+Vankomisin, plasenta boyunca hızla yayılır ve kordon kanına geçer. İltihaplı olmayan
+meninkslerde, vankomisin yalnızca düşük bir ölçüde kan-beyin bariyerini geçer.
+Biyotransformasyon:
+İlacın metabolizması çok azdır. Parenteral uygulamadan sonra böbrekler aracılığıyla
+glomerüler filtrasyon yoluyla mikrobiyolojik olarak etkin madde olarak neredeyse tamamen
+atılır (24 saat içinde yaklaşık %75-90).
+Eliminasyon:
+Vankomisinin eliminasyon yarı ömrü normal böbrek fonksiyonlarına sahip hastalarda 4 – 6 saat
+ve çocuklarda 2,2 – 3 saattir. Plazma klerensi yaklaşık olarak 0,058 L/kg/sa ve renal klerensi
+yaklaşık 0,048 L/kg/sa’dir. İlk 24 saatte, uygulanan dozun yaklaşık olarak %80’i glomerüler
+filtrasyonla idrara geçer. Renal disfonksiyon vankomisinin atılımını geciktirir. Anefrik
+hastalarda, ortalama yarı ömür 7,5 gündür. Vankomisinin ototoksisitesi nedeni ile plazma
+konsantrasyonlarının tedaviye destek olmak için izlenmesi gerektiği belirtilmiştir.
+Safraya atılımı çok azdır (dozun %5’inden az).
+16/19Vankomisin, hemodiyaliz veya peritoneal diyaliz de efektif olarak elimine edilememesine
+rağmen vankomisinin klerensinin hemoperfüzyon ve hemofiltrasyon ile arttığı rapor edilmiştir.
+Oral uygulamadan sonra, uygulanan dozun yalnızca bir fraksiyonu idrarda görülmüştür. Buna
+karşın, feçeste vankomisinin yüksek konsantrasyonları bulunmuştur (2 g/gün dozda >3100
+mg/kg).
+Doğrusallık / Doğrusal olmayan durum:
+Vankomisinin konsantrasyonları genellikle artan doz ile birlikte artar. Çoklu doz uygulamaları
+sırasında plazma konsantrasyonları, tek doz uygulamasından sonrakilerle benzerdir.
+Özel popülasyonlar:
+Böbrek yetmezliği:
+Vankomisin birincil olarak glomerüler filtrasyon ile atılır. Böbrek yetmezliği olan hastalarda
+terminal eliminasyon yarı ömrü uzar ve total vücut atılımı azalır. Bu nedenle, optimal doz
+bölüm 4.2 Pozoloji’de verilen tavsiyelere uygun olarak hesaplanmalıdır.
+Karaciğer yetmezliği:
+Karaciğer yetmezliği olan hastalarda vankomisin farmakokinetiği değişmez.
+Gebeler:
+Gebelerde terapötik serum konsantrasyonlarını elde etmek için yüksek dozlar gerekebilir (Bkz.
+Bölüm 4.6).
+Obez hastalar:
+Vankomisin dağılımı, obez hastalarda dağılım hacmindeki, renal klerensteki artışlar ve plazma
+protein bağlanmasındaki olası değişiklikler nedeniyle değişebilir. Bu alt popülasyonlarda
+vankomisinin serum konsantrasyonları erkek sağlıklı erişkenlerde beklenenden daha yüksek
+bulunmuştur (Bkz. Bölüm 4.2).
+Pediyatrik popülasyon:
+Vankomisinin PK (farmakokinetiği) erken doğan ve zamanında doğan neonatlarda bireyler
+arası geniş bir değişiklik göstermiştir. Neonatlarda, intravenöz uygulamadan sonra
+vankomisinin atılımının 0,63 – 1,4 mL/kg/dk arasında değiştiği görülürken dağılım hacminin
+yetişkin değerlerine benzer şekilde 0,38 ile 0,97 L/kg arasında değiştiği görülmüştür. Yarı ömrü
+3,5 - 10 saat arasında değişmektedir ve klerensin neonatlarda daha düşük olması ile bağlantılı
+olarak, yetişkinlerden daha uzundur.
+İnfantla ve daha büyük çocuklarda klerens 0,33 – 1,87 mL/kg/dk arasında değişirken dağılım
+hacmi 0,26 – 1,05 L/kg arasında değişmektedir.
+5.3. Klinik öncesi güvenlilik verileri
+Karsinojenik potansiyeli değerlendirmek için hayvanlarda uzun süreli çalışmalar
+yapılmamasına rağmen, standart laboratuvar testlerinde vankomisinin mutajenik potansiyeli
+bulunmamıştır. Tanımlayıcı bir fertilite çalışması yapılmamıştır.
+17/196. FARMASÖTİK ÖZELLİKLER
+6.1. Yardımcı maddelerin listesi
+Yoktur. Flakon sadece vankomisin hidroklorür içermektedir.
+6.2. Geçimsizlikler
+Vankomisin solüsyonunun pH’sı düşüktür bu yüzden diğer bileşiklerle karıştırıldığında
+kimyasal ve fiziksel instabiliteye yol açar. Alkali çözeltilerle karıştırmaktan kaçınılmalıdır.
+Vankomisin ve beta-laktam antibiyotik çözeltilerinin karışımlarının fiziksel olarak geçimsiz
+olduğu görülmüştür. Vankomisinin konsantrasyonu arttıkça çökme ihtimali artar. Bu
+antibiyotiklerin uygulanma aralığında intravenöz setlerinin yeterince temizlenmesi önerilir.
+Ayrıca vankomisin çözeltilerinin 5 mg/mL ya da daha azına seyreltilmesi önerilmektedir.
+İntravitreal enjeksiyon, vankomisin için onaylanmış bir uygulama yolu olmamasına rağmen,
+farklı şırıngalar ve iğneler kullanılarak endoftalmi için intravitreal vankomisin ve seftazidim
+enjeksiyonundan sonra çökelme bildirilmiştir. Çökeltiler kademeli olarak, iki ay boyunca vitröz
+boşluğun tam olarak temizlenmesi ve görme keskinliğinin iyileştirilmesiyle çözülmüştür.
+6.3. Raf ömrü
+24 ay.
+Uygulamadan önce, parenteral ilaç ürünleri, çözelti veya kap izin verdiği her durumda
+partiküler madde ve renk değişikliği açısından görsel olarak incelenmelidir.
+Rekonstitüsyon süresince ürün tamamen çözününceye kadar çalkalayınız/döndürünüz.
+Ayrıca enjeksiyonluk su ile sulandırılan ürün, %0,9 sodyum klorür ve %5 dekstroz çözeltileri
+ile seyreltildiğinde 25 oC’de 24 saat ve 2-8 oC’de 96 saat fiziksel ve kimyasal olarak stabildir.
+6.4. Saklamaya yönelik özel tedbirler
+Açılmamış flakon 25 °C altındaki oda sıcaklığında saklanmalıdır. Dış ambalajında saklayınız.
+6.5. Ambalajın niteliği ve içeriği
+VANKURAİS renksiz cam flakonlara doldurulur. Flakonlar bromobutil kauçuk tıpa ve plastik
+başlıklı alüminyum kapakla kapatılır.
+6.6. Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+Solüsyonun hazırlanması
+0,5 g içeren flakonlar için 10 mL Enjeksiyonluk Su EP ya da 1 g içeren flakonlar için ise 20
+mL Enjeksiyonluk Su EP ekleyin. Bu şekilde sulandırılan şişeler 50 mg / mL'lik bir çözelti
+verecektir. SEYRELTME İÇİN DAHA FAZLA BİLGİ GEREKLİDİR. Takip eden
+açıklamaları lütfen okuyunuz.
+Tercih edilen uygulama yöntemi aralıklı infüzyondur. 500 mg vankomisin içeren yeni
+hazırlanmış solüsyon, en az 100 mL dilüe edici ile seyreltilmelidir. Sodyum Klorür İntravenöz
+18/19İnfüzyon BP veya % 5 dekstroz intravenöz infüzyon uygun dilüe edicilerdir.1 g vankomisin
+içeren yeni hazırlanmış solüsyon, en az 200 mL dilüe edici ile seyreltilmelidir. Uygulanacak
+olan dozlar en az 60 dakikalık bir süre boyunca intravenöz infüzyon yoluyla uygulanmalıdır.
+Daha kısa zaman periyodunda veya daha yüksek konsantrasyonlarda uygulanırsa, tromboflebite
+ek olarak belirgin tansiyon düşmesine neden olma olasılığı vardır. Hızlı infüzyon ayrıca
+kızarıklık, boyun ve omuzlar üstünde geçici döküntülere de neden olabilir.
+Devamlı infüzyon (yalnız aralıklı infüzyon mümkün olmadığında kullanılmalıdır): 24 saatlik
+bir süre boyunca intravenöz yoluyla yavaş bir şekilde uygulanma yapılarak istenilen dozu elde
+etmek için yeterli miktardaki Sodyum Klorür İntravenöz İnfüzyon BP veya %5 dekstroz
+intravenöz infüzyon sudaki glikoza 1000 mg veya 2000 mg vankomisin eklenebilir.
+Oral kullanım
+Paranteral uygulama için olan flakonların içeriği kullanılabilir.
+Oral kullanımda tadı düzeltmek için çözeltiye yaygın kullanılan tatlandırıcı şuruplar eklenebilir.
+Tek kullanımlıktır. Kullanılmamış olan ürünler ya da atık materyaller “Tıbbi Atıkların
+Kontrolü Yönetmeliği“ ve “Ambalaj Atıklarının Kontrolü Yönetmeliği” ne uygun olarak imha
+edilmelidir.
+7. RUHSAT SAHİBİ
+AROMA İLAÇ SANAYİ LTD. ŞTİ.
+Vakıflar OSB Mahallesi,
+Sanayi Caddesi No:22/1 Kat:2
+Ergene/TEKİRDAĞ
+Tel: 0282 675 10 06 Faks: 0282 675 14 05
+e-mail: info@aispharma.com.tr
+8. RUHSAT NUMARASI
+2021/65
+9. İLK RUHSAT TARİHİ / RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi: 22.03.2021
+Ruhsat yenileme tarihi:
+10. KÜB'ÜN YENİLENME TARİHİ
+19/19

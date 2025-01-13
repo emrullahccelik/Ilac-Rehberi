@@ -1,0 +1,921 @@
+KISA ÜRÜN BİLGİSİ
+▼
+Bu ilaç ek izlemeye tabidir. Bu üçgen yeni güvenlilik bilgisinin hızlı olarak belirlenmesini
+sağlayacaktır. Sağlık mesleği mensuplarının şüpheli advers reaksiyonları TÜFAM’a
+bildirmeleri beklenmektedir. Bakınız Bölüm 4.8 Advers reaksiyonlar nasıl raporlanır?
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+CYRAMZA 500 mg/50 mL infüzyonluk çözelti konsantresi içeren flakon
+Steril
+2. KALİTATİF VE KANTİTATİF BİLEŞİMİ
+Etkin madde:
+İnfüzyon için konsantre çözeltinin bir mL’si 10 mg ramucirumab içerir.
+Her 50 mL flakon 500 mg ramucirumab içerir.
+Ramucirumab rekombinant DNA teknolojisiyle murin (NS0) hücrelerinde üretilen bir
+insan IgG1 monoklonal antikordur.
+Yardımcı maddeler:
+Her 50 mL flakon yaklaşık 85 mg sodyum içerir.
+Yardımcı maddelerin tamamı için Bölüm 6.1’e bakınız.
+3. FARMASÖTİK FORM
+İnfüzyonluk çözelti konsantresi (steril konsantre).
+Konsantre berrak ila hafif opak ve renksiz ila hafif sarı renkte pH’ı 6 olan çözeltidir.
+4. KLİNİK ÖZELLİKLER
+4.1. Terapötik endikasyonlar
+Mide kanseri ve gastroözofagial bileşke (GEJ) adenokarsinomu
+CYRAMZA paklitaksel ile kombinasyon halinde, önceki platin ve floropirimidin
+kemoterapisi sonrasında hastalık progresyonu bulunan ileri evre mide kanseri veya
+gastroözofagial bileşke adenokarsinomu olan ECOG peformans skoru 0-1 olan hastaların
+tedavisinde endikedir (bkz. Bölüm 5.1).
+Küçük hücreli dışı akciğer kanseri (KHDAK)
+CYRAMZA, erlotinib ile kombinasyon halinde, ekson 19 delesyonu ve/veya ekson 21
+(L858R) epidermal büyüme faktörü reseptörü (EGFR) mutasyonlu, ECOG performans
+durumu 0 veya 1 olan, beyin metastazı olmayan metastatik küçük hücreli dışı akciğer
+kanseri olan ve nüks hastalar için adjuvan/neoadjuvan tedavi bitiminden en az 12 ay sonra
+metastaz gelişen yetişkin hastaların birinci basamak tedavisinde endikedir.
+1/224.2. Pozoloji ve uygulama şekli
+Pozoloji/uygulama sıklığı ve süresi
+Ramucirumab tedavisi onkoloji alanında deneyimli hekimler tarafından başlatılmalı ve
+takip edilmelidir.
+Mide kanseri ve gastroözofagial bileşke (GEJ) adenokarsinomu
+Paklitaksel ile kombinasyon halinde CYRAMZA
+Ramucirumabın önerilen dozu 28 günlük siklusun 1. ve 15. günlerinde, paklitaksel
+infüzyonu öncesinde 8 mg/kg’dır. Paklitakselin önerilen dozu 28 günlük siklusun 1., 8. ve
+15. günlerinde yaklaşık 60 dakika boyunca intravenöz infüzyon yoluyla uygulanan 80
+mg/m2’dir. Her bir paklitaksel infüzyonu öncesinde, hastaların karaciğer fonksiyonunun
+değerlendirilmesi için tam kan sayımı ve kan kimyası testlerinin yapılması gerekir. Her bir
+paklitaksel infüzyonu öncesinde yerine getirilmesi gereken kriterler Tablo 1’de
+sunulmaktadır.
+Tablo 1: Her bir paklitaksel infüzyonu öncesinde yerine getirilmesi gereken kriterler
+Kriterler
+Nötrofiller Gün 1: ≥ 1,5 x 109/ L
+Gün 8 ve 15: ≥ 1 x 109/ L
+Trombositler Gün 1: ≥ 100 x 109/ L
+Gün 8 ve 15: ≥ 75 x 109/ L
+Bilirubin ≤ 1,5 x normal üst sınır (ULN)
+Aspartat aminotransferaz (AST) / Karaciğer metastazı yoksa: ALT/AST ≤ 3
+Alanin aminotransferaz (ALT) x ULN
+Karaciğer metastazı varsa: ALT/AST ≤ 5
+x ULN
+EGFR aktive edici mutasyonlu KHDAK tedavisi için erlotinib ile kombinasyon halinde
+CYRAMZA
+Erlotinib ile kombinasyon halinde önerilen ramucirumab dozu iki haftada bir 10 mg/kg'dır.
+EGFR mutasyon durumu, ramucirumab ve erlotinib ile tedaviye başlamadan önce valide
+edilmiş bir test yöntemi kullanılarak belirlenmelidir. Erlotinibin pozolojisi ve uygulama
+şekli için erlotinibin kısa ürün bilgilerine bakınız.
+Tedavi süresi
+Tedavinin hastalık progresyonuna kadar veya kabul edilemeyen toksisite görülene kadar
+sürdürülmesi tavsiye edilir.
+Premedikasyon
+Ramucirumab infüzyonu öncesinde bir histamin H1 antagonisti (örneğin difenhidramin) ile
+premedikasyon tavsiye edilir. Hasta Grade 1 veya 2 infüzyon kaynaklı reaksiyon yaşarsa,
+takip eden tüm infüzyonlar için premedikasyon verilmelidir. Hasta ikinci bir Grade 1 veya
+2 infüzyon kaynaklı reaksiyon (IRR) yaşarsa, deksametazon (veya eşdeğeri) uygulanır;
+sonrasında takip eden infüzyonlar için, aşağıda belirtilen veya eşdeğeri tıbbi ürünlerle
+premedikasyon uygulanır: Bir intravenöz histamin H1 antagonisti (örneğin difenhidramin
+hidroklorür), parasetamol ve deksametazon.
+2/22Premedikasyon gereklilikleri ve ilave bilgiler için paklitakselin kullanma talimatına
+bakınız.
+Ramucirumabın pozoloji ayarlamaları
+İnfüzyon kaynaklı reaksiyonlar
+Eğer hasta Grade 1 veya 2 IRR yaşarsa, infüzyon süresince ve takip eden tüm infüzyonlarda
+ramucirumabın infüzyon hızı % 50 azaltılmalıdır. Grade 3 veya 4 IRR yaşanması halinde
+ramucirumab hemen ve kalıcı olarak kesilmelidir (bkz. Bölüm 4.4).
+Hipertansiyon
+Hastaların kan basıncı her bir ramucirumab uygulaması öncesinde ölçülmeli ve hastalar
+klinik olarak endike olduğu şekliyle tedavi edilmelidir. Şiddetli hipertansiyon durumunda,
+tıbbi tedavi ile kontrol altına alınana kadar ramucirumab tedavisi geçici olarak
+kesilmelidir. Antihipertansif tedavi ile güvenli şekilde kontrol edilemeyen tıbben anlamlı
+hipertansiyon olması durumunda, ramucirumab tedavisi kalıcı olarak sonlandırılmalıdır
+(bkz. Bölüm 4.4).
+Proteinüri
+Hastalar ramucirumab tedavisi sırasında proteinürinin gelişimi veya kötüleşmesi yönünden
+izlenmelidir. İdrarda dipstick protein testinde ≥2+ bulunması halinde 24 saatlik idrar
+toplama yapılmalıdır. İdrar protein düzeyinin ≥2 g/24 saat olması halinde, ramucirumab
+tedavisinin geçici olarak kesilmesi gerekir. İdrar protein düzeyi bir kez <2 g/24 saat
+düzeyine döndüğünde, tedavi azaltılan bir doz düzeyinde (bkz. Tablo 2) sürdürülmelidir.
+≥2 g/24 saat idrar protein düzeyi yeniden ortaya çıkarsa, ikinci bir doz azaltması yapılması
+tavsiye edilir (bkz. Tablo 2).
+Tablo 2: Proteinüri için CYRAMZA Doz Azaltımı
+Başlangıç CYRAMZA İlk Azaltılmış Doz: İkinci Azaltılmış Doz:
+Dozu
+8 mg/kg 6 mg/kg 5 mg/kg
+10 mg/kg 8 mg/kg 6 mg/kg
+İdrar protein düzeyinin >3 g/24 saat olması halinde veya nefrotik sendrom durumunda,
+ramucirumab tedavisinin kalıcı olarak kesilmesi gerekir.
+Elektif cerrahi veya yara iyileşmesinde bozulma
+Ramucirumab tedavisi elektif cerrahiden önce en az 4 hafta süreyle geçici olarak
+kesilmelidir. Ramucirumab tedavisi yara iyileşmesi komplikasyonları olması halinde yara
+tamamen iyileşene kadar geçici olarak kesilmelidir (bkz. Bölüm 4.4).
+Kalıcı olarak kesilme
+Ramucirumab tedavisi aşağıdaki durumlarda kalıcı olarak kesilmelidir:
+Şiddetli arteriyel tromboembolik olaylar (bkz. Bölüm 4.4).
+Gastrointestinal perforasyonlar (bkz. Bölüm 4.4).
+Şiddetli kanama: NCI Advers Olaylar İçin Ortak Terminoloji Kriterleri (CTCAE) Grade 3
+veya 4 kanama (bkz. Bölüm 4.4).
+Spontan fistül gelişimi (bkz. Bölüm 4.4).
+3/22Paklitaksel doz ayarlamaları
+Hastanın yaşadığı toksisite derecesine uygun şekilde paklitaksel doz azaltmaları
+uygulanabilir. NCI CTCAE Grade 4 hematolojik toksisitesi veya Grade 3 paklitaksel
+kaynaklı hematolojik olmayan toksisitede, paklitaksel dozunun takip eden tüm sikluslarda
+10 mg/m2 oranında düşürülmesi tavsiye edilir. Bu toksik etkilerin devamlılık göstermesi
+veya yeniden ortaya çıkması halinde 10 mg/m2 oranında ikinci bir azaltma yapılması
+önerilir.
+Uygulama şekli:
+CYRAMZA intravenöz kullanım içindir. Seyreltme sonrasında, CYRAMZA yaklaşık 60
+dakika süreyle intravenöz infüzyon olarak uygulanmaktadır. İntravenöz bolus veya puşe
+olarak uygulanmamalıdır. Gereken yaklaşık 60 dakikalık infüzyon süresine ulaşmak için,
+25 mg/dakika maksimum infüzyon hızı aşılmamalıdır, bunun yerine infüzyon süresi
+artırılmalıdır. Hasta infüzyon sırasında infüzyon reaksiyonlarına ilişkin işaretler açısından
+izlenmelidir (bkz. Bölüm 4.4) ve uygun resüsitasyon ekipmanının mevcut olduğundan
+emin olunmalıdır.
+Söz konusu tıbbi ürünün uygulama öncesinde seyreltilmesi hakkındaki talimatlar için
+Bölüm 6.6’ya bakınız.
+Özel popülasyonlara ilişkin bilgiler
+Böbrek yetmezliği:
+Böbrek yetmezliği olan hastalarda CYRAMZA ile yapılan hiçbir klinik araştırma
+bulunmamaktadır. Klinik veriler hafif, orta veya şiddetli derecede böbrek yetmezliği olan
+hastalarda hiçbir doz ayarlamasına gerek olmadığını öne sürmektedir. (bkz. Bölüm 4.4 ve
+5.2). Doz azaltması önerilmez.
+Karaciğer yetmezliği:
+Karaciğer yetmezliği olan hastalarda CYRAMZA ile yapılan hiçbir klinik araştırma
+bulunmamaktadır. Klinik veriler hafif veya orta derecede karaciğer yetmezliği olan
+hastalarda hiçbir doz ayarlamasına gerek olmadığını öne sürmektedir. Şiddetli karaciğer
+yetmezliği olan hastalarda ramucirumab uygulamasına ilişkin hiçbir veri bulunmamaktadır
+(bkz. Bölüm 4.4 ve 5.2). Doz azaltması önerilmez.
+Pediyatrik popülasyon:
+CYRAMZA’nın çocuklarda ve adolesanlardaki (<18 yaş) güvenliliği ve etkililiği
+saptanmamıştır. Mevcut veriler Bölüm 4.8, 5.1 ve 5.2'de açıklanmıştır. Sınırlı veriler
+nedeniyle pozoloji konusunda herhangi bir öneri yapılamamaktadır.
+Ramucirumabın ileri evre mide kanseri veya gastroözofagial adenokarsinomu
+endikasyonlarıyla ilişkili pediyatrik popülasyonda kullanımı bulunmamaktadır.
+Geriyatrik popülasyon:
+Pivot çalışmalarda, 65 yaş ve üzeri hastaların 65 yaş altındaki hastalara kıyasla advers
+olaylara yönelik artmış risk taşıdığına dair sınırlı bilgi bulunmaktadır. Doz azaltması
+önerilmez (bkz. Bölüm 4.4 ve 5.1).
+4/224.3. Kontrendikasyonlar
+Ramucirumab veya Bölüm 6.1’de belirtilen yardımcı maddelerin herhangi birine karşı aşırı
+duyarlılık.
+KHDAK hastalarında ramucirumab, tümör kavitasyonu veya majör damarlarda tümör
+tutulumu var ise kontrendikedir (bkz. Bölüm 4.4).
+4.4. Özel kullanım uyarıları ve önlemleri
+Arteriyel tromboembolik olaylar
+Klinik çalışmalarda miyokard enfarktüsü, kardiyak arrest, serebrovasküler olay ve serebral
+iskemi dahil ciddi, bazen de fatal olabilen arteriyel tromboembolik olaylar (ATO’lar)
+bildirilmiştir. Ramucirumab şiddetli ATO yaşayan hastalarda kalıcı olarak kesilmelidir
+(bkz. Bölüm 4.2.).
+Gastrointestinal perforasyonlar
+Ramucirumab antianjiyojenik bir tedavi olup, gastrointestinal perforasyon riskini
+artırabilir. Gastrointestinal perforasyon vakaları ramucirumab ile tedavi gören hastalarda
+rapor edilmiştir. Ramucirumab gastrointestinal perforasyon yaşayan hastalarda kalıcı
+olarak kesilmelidir (bkz. Bölüm 4.2).
+Şiddetli kanama
+Ramucirumab antianjiyojenik bir tedavi olup, şiddetli kanama riskini artırabilir.
+Ramucirumab Grade 3 veya 4 kanama yaşayan hastalarda kalıcı olarak kesilmelidir (bkz.
+Bölüm 4.2). Kanamaya zemin hazırlayan durumu bulunan hastalarda ve antikoagülanlarla
+veya kanama riskini artıran diğer eşzamanlı tıbbi ürünler ile tedavi edilen hastalarda kan
+sayımları ve koagülasyon parametreleri izlenmelidir.
+Paklitaksel ile kombinasyon halinde ramucirumab ile tedavi edilen mide kanseri
+hastalarında fatal olaylar da dahil olmak üzere şiddetli gastrointestinal kanama rapor
+edilmiştir.
+KHDAK’de pulmoner hemoraji
+Skuamöz histolojisi olan hastalarda ciddi pulmoner kanama gelişme riski daha yüksektir.
+Yakın zamanda pulmoner kanaması olan (>2,5 ml veya parlak kırmızı kan) KHDAK
+hastalarının yanı sıra histolojiden bağımsız temel tümör kavitasyonu kanıtı olan hastalar
+veya majör kan damarlarının kapandığı veya majör kan damarlarında tümor invazyonu
+olan hastalar klinik çalışmalara dahil edilmemiştir. (bkz. Bölüm 4.3). Non-steroidal
+antienflamatuar ilaçlar veya anti-platelet ajanlar ile kronik tedavi gören hastalar RELAY
+KHDAK klinik çalışmasına dahil edilmemiştir. 325 mg/gün’e kadar dozlarda aspirin
+kullanımına izin verilmiştir.
+İnfüzyon kaynaklı reaksiyonlar
+Ramucirumab ile yapılan klinik çalışmalarda infüzyon kaynaklı reaksiyonlar rapor
+edilmiştir. Olayların büyük çoğunluğu ilk veya ikinci ramucirumab infüzyonu sırasında
+veya bu infüzyonları takiben ortaya çıkmıştır. Hastalar infüzyon sırasında aşırı duyarlılık
+belirtileri açısından izlenmelidir. Bulgular arasında ürperme/titreme, sırt ağrısı/spazm,
+göğüs ağrısı ve/veya daralması, üşüme, cilt kızarması, dispne, hırıltılı solunum, hipoksi ve
+parestezi yer almıştır. Şiddetli vakalarda bronkospazm, supraventriküler taşikardi ve
+hipotansiyonu içeren bulgular görülmüştür. Ramucirumab, Grade 3 veya 4 infüzyon
+kaynaklı reaksiyon yaşayan hastalarda derhal ve kalıcı olarak kesilmelidir (bkz. Bölüm
+4.2).
+5/22Hipertansiyon
+Ramucirumab alan hastalarda plaseboya kıyasla şiddetli hipertansiyon insidansında artış
+rapor edilmiştir. Vakaların çoğunda, hipertansiyon standart antihipertansif tedavisi
+kullanılarak yönetilmiştir. Kontrol edilemeyen hipertansiyonu olan hastalar çalışmalarda
+kapsam dışı bırakılmıştır: Önceden var olan hipertansiyonu kontrol edilene kadar, bu tip
+hastalarda ramucirumab tedavisi başlatılmamalıdır. Ramucirumab ile tedavi edilen
+hastaların kan basıncı izlenmelidir. Şiddetli hipertansiyon durumunda tıbbi tedavi ile
+kontrol sağlanana kadar ramucirumab geçici olarak kesilmelidir. Tıbben anlamlı
+hipertansiyonun antihipertansif tedavi ile kontrol edilememesi halinde ramucirumab kalıcı
+olarak kesilmelidir (bkz. Bölüm 4.2).
+Posterior geri dönüşlü (reversıbl) ensefalopati sendromu
+Ramucirumab alan hastalarda, ölümcül vakalar da dahil olmak üzere posterior reversibl
+ensefalopati sendromu (PRES) vakaları nadiren bildirilmiştir. PRES semptomları nöbet,
+baş ağrısı, mide bulantısı/kusma, körlük veya ilişkili hipertansiyon olsun veya olmasın
+bilinç değişikliklerini içerebilir. PRES teşhisi, beyin görüntüleme (örneğin, manyetik
+rezonans görüntüleme) ile doğrulanabilir. PRES yaşayan hastalarda ramucirumab
+kesilmelidir. PRES gelişen ve iyileşen hastalarda ramucirumabı yeniden başlatmanın
+güvenliliği bilinmemektedir.
+Anevrizmalar ve arter diseksiyonları
+VEGF yolak inhibitörlerinin, hipertansiyonu olan veya olmayan hastalarda kullanılması,
+anevrizmalar ve/veya arter diseksiyonları oluşumunu kolaylaştırabilir. CYRAMZA
+başlamadan önce hipertansiyon veya anevrizma öyküsü gibi risk faktörleri olan hastalarda
+bu risk dikkatle değerlendirilmelidir.
+Yara iyileşmesinde bozulma
+Ciddi veya iyileşmeyen yaraları olan hastalarda ramucirumab etkisi değerlendirilmemiştir.
+Hayvanlarda yürütülen bir çalışmada, ramucirumab yara iyileşmesini azaltmamıştır.
+Ancak, ramucirumabın antianjiyojenik bir tedavi olması ve yara iyileşmesini olumsuz
+etkileme potansiyelinin bulunması nedeniyle, planlanmış cerrahi operasyon öncesinde en
+az 4 hafta süreyle ramucirumab tedavisi verilmemelidir. Cerrahi müdahalenin ardından
+ramucirumaba yeniden başlama kararı yeterli yara iyileşmesine ilişkin klinik
+değerlendirmeye dayalı olmalıdır.
+Bir hastanın tedavi sırasında yara iyileşmesi komplikasyonları geliştirmesi halinde,
+ramucirumab tedavisinin yara tamamen iyileşene kadar kesilmesi gerekir (bkz. Bölüm
+4.2).
+Karaciğer yetmezliği
+Ramucirumab ciddi karaciğer sirozu (Child-Pugh B veya C), hepatik ensefalopatinin eşlik
+ettiği sirozu, sirozdan kaynaklanan klinik olarak anlamlı assit veya hepatorenal sendromu
+olan hastalarda dikkatle kullanılmalıdır. Bu hastalarda çok sınırlı etkinlik ve güvenlilik
+verileri mevcuttur ve ramucirumab yalnızca tedavinin potansiyel yararlarının progresif
+karaciğer yetmezliğine yönelik potansiyel riske karşı ağır bastığı yönünde değerlendirme
+yapılması halinde kullanılmalıdır.
+Kalp yetmezliği
+Ramucirumab klinik çalışmalarında toplanan verilere göre, tek başına kemoterapi veya
+erlotinib alanlara kıyasla çeşitli kemoterapi rejimleri veya erlotinib ile kombinasyon
+6/22halinde ramucirumab alan hastalarda sayısal olarak daha yüksek insidansta kalp yetmezliği
+bildirilmiştir. Tek ajanlı klinik çalışmalarda, plaseboya kıyasla ramucirumab alan
+hastalarda bu artmış insidans gözlenmemiştir. Pazarlama sonrasında, çoğunlukla
+paklitaksel ile kombinasyon halinde ramucirumab için kalp yetmezliği gözlenmiştir.
+Hastalar tedavi sırasında kalp yetmezliğinin klinik belirti ve semptomları açısından
+izlenmelidir ve kalp yetmezliğinin klinik belirti ve semptomları gelişirse tedavinin askıya
+alınması düşünülmelidir (bkz. Bölüm 4.8).
+Fistül
+CYRAMZA ile tedavi edildiklerinde hastalarda fistül gelişme riski artmış olabilir.
+Ramucirumab tedavisi fistül gelişen hastalarda kesilmelidir (bkz. Bölüm 4.2).
+Proteinüri
+Ramucirumab alan hastalarda plasebo ile karşılaştırıldığında proteinüri insidansında artış
+rapor edilmiştir. Hastalar ramucirumab tedavisi sırasında proteinüri gelişimi veya
+kötüleşmesi bakımından izlenmelidir. İdrarda dipstick protein testinde ≥2+ bulunması
+halinde, 24 saatlik idrar toplama yapılmalıdır. İdrar protein düzeyinin ≥2 g/24 saat olması
+halinde, ramucirumab tedavisi geçici olarak kesilmelidir. İdrar protein düzeyi <2 g/24
+saat’e döndüğünde, tedavi azaltılan bir doz seviyesinde sürdürülmelidir. İdrar protein
+düzeyi yeniden ≥2 g/24 saat’e çıkarsa, ikinci bir doz azaltması yapılması tavsiye edilir.
+İdrar protein düzeyinin >3 g/24 saat olması halinde veya nefrotik sendrom durumunda,
+ramucirumab tedavisinin kalıcı olarak kesilmesi gerekir (bkz. Bölüm 4.2).
+Stomatit
+Kemoterapi ile kombine halde ramucirumab alan hastalar plasebo artı kemoterapi ile
+tedavi gören hastalarla karşılaştırıldığında stomatit insidansında artış rapor edilmiştir.
+Stomatit gelişmesi durumunda derhal semptomatik tedaviye başlanmalıdır.
+Böbrek yetmezliği
+Ramucirumab ile tedavi edilen ciddi böbrek yetmezliği olan hastalarda sınırlı güvenlilik
+verisi bulunmaktadır (kreatinin klirensi15 ila 29 mL/dak) (bkz. Bölüm 4.2 ve 5.2).
+KHDAK’lı geriyatrik popülasyon
+EGFR aktive edici mutasyonlu KHDAK'ın birinci basamak tedavisi için erlotinib ile
+kombinasyon halinde kullanılan ramucirumab için, 70 yaşın altındaki hastalara kıyasla 70
+yaş ve üstü hastalarda, Grade ≥3 advers olayların ve tüm Grade’lerdeki ciddi advers
+olayların insidansı daha yüksektir.
+Sodyum kısıtlı diyet
+Her 50 ml'lik flakon yaklaşık 85 mg sodyum içerir. Bu, bir yetişkin için Dünya Sağlık
+Örgütü tarafından önerilen günlük maksimum 2 g sodyum alımının yaklaşık % 4'üne
+eşdeğerdir.
+Biyolojik tıbbi ürünlerin takip edilebilirliğinin sağlanması için uygulanan ürünün ticari
+ismi ve seri numarası mutlaka hasta dosyasına kaydedilmelidir.
+4.5. Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+Ramucirumab ve paklitaksel arasında hiçbir ilaç etkileşimi gözlenmemiştir. Paklitakselin
+farmakokinetiği ramucirumab ile eşzamanlı uygulandığında etkilenmemiştir aynı şekilde
+ramucirumab farmakokinetiği de paklitaksel ile eşzamanlı uygulandığında
+7/22etkilenmemiştir. Ramucirumab ile birlikte uygulandığında erlotinibin farmakokinetiği
+etkilenmemiştir.
+4.6. Gebelik ve laktasyon
+Genel tavsiye
+Gebelik kategorisi C’dir.
+Çocuk doğurma potansiyeli olan kadınlar/doğum kontrolü (Kontrasepsiyon)
+Çocuk doğurma potansiyeli bulunan kadınlara CYRAMZA tedavisi sırasında hamile
+kalmaktan kaçınmaları tavsiye edilmelidir ve gebeliğe ve fetusa yönelik potansiyel tehlike
+hakkında bilgilendirme yapılmalıdır. Çocuk doğurma potansiyeli bulunan kadınlar
+ramucirumab tedavisi sırasında ve tedavinin son dozundan sonra 3 aya kadar etkin bir
+kontrasepsiyon kullanmalıdır.
+Gebelik dönemi
+Ramucirumabın gebe kadınlarda kullanımına ilişkin yeterli veri mevcut değildir.
+Hayvanlar üzerinde yapılan araştırmalar üreme toksisitesinin bulunduğunu göstermistir
+(bkz. Bölüm 5.3). İnsanlara yönelik potansiyel risk bilinmemektedir.
+Gebeliğin sürdürülmesi ve fötal gelişim açısından anjiyogenezin kritik olması nedeniyle,
+ramucirumab uygulamasını takiben anjiyogenez inhibisyonu fetus da dahil olmak üzere
+gebelik üzerine olumsuz etkilerle sonuçlanabilmektedir. CYRAMZA yalnızca anneye
+yönelik potansiyel faydaların gebelik sırasında potansiyel riski mazur göstermesi halinde
+kullanılabilir. Hasta ramucirumab ile tedavi edilirken hamile kalırsa, gebeliğin sürmesine
+yönelik potansiyel risk ve fetusa yönelik risk hakkında bilgilendirilmelidir. CYRAMZA
+gebelik sırasında ve kontrasepsiyon kullanmayan çocuk doğurma potansiyeli olan
+kadınlarda tavsiye edilmez.
+Laktasyon dönemi
+Ramucirumabın anne sütüne geçip geçmediği bilinmemektedir. Sütle atılımının ve oral
+emiliminin düşük olması beklenir. Anne sütüyle beslenen yeni doğanlara/bebeklere
+yönelik risk göz ardı edilemeyeceği için, CYRAMZA ile tedavi sırasında ve son dozdan
+sonra en az 3 ay süreyle emzirme kesilmelidir.
+Üreme yeteneği (fertilite)
+Ramucirumabın insan fertilitesi üzerindeki etkisi hakkında herhangi bir veri
+bulunmamaktadır. Hayvanlarda yapılan çalışmalara dayanarak, ramucirumab tedavisi
+sırasında dişi fertilitesinin riske girmesi olasıdır (bkz. Bölüm 5.3).
+4.7. Araç ve makine kullanımı üzerindeki etkiler
+CYRAMZA’nın araç ve makine kullanma yeteneği üzerinde etkisi yoktur veya etkisi
+gözardı edilebilir. Hastaların konsantre olma ve tepki verme yeteneklerini etkileyen
+semptomları yaşaması halinde, etki azalana kadar araç veya makine kullanmamaları
+önerilir.
+4.8. İstenmeyen etkiler
+Ramucirumab tedavisi (sitotoksik kemoterapi ile kombinasyon halinde) ile ilişkili en ciddi
+advers reaksiyonlar şunlar olmuştur:
+8/22Gastrointestinal perforasyon (bkz. Bölüm 4.4)
+Şiddetli gastrointestinal kanama (bkz. Bölüm 4.4)
+Arteriyel tromboembolik olaylar (bkz. Bölüm 4.4)
+Posterior geri dönüşlü(reversıbl) ensefalopati sendromu (bkz. Bölüm 4.4)
+Kemoterapi ile kombinasyon halinde ramucirumab ile tedavi edilen hastalarda gözlenen
+en yaygın advers reaksiyonlar: Yorgunluk/asteni, nötropeni, diyare, epistaksis ve
+stomatittir.
+Erlotinib ile kombinasyon halinde ramucirumab ile tedavi edilen hastalarda gözlenen en
+yaygın advers reaksiyonlar: Enfeksiyonlar, diyare, hipertansiyon, stomatit, proteinüri, saç
+dökülmesi ve epistaksistir.
+Advers İlaç Reaksiyonları (ADR’ler) MedDRA sistem organ sınıfına, sıklığına ve
+şiddetine göre listelenmiştir: Çok yaygın (≥ 1/10); yaygın (≥ 1/100 ila < 1/10); yaygın
+olmayan (≥ 1/1.000 ila < 1/100); seyrek (≥ 1/10.000 ila < 1/1.000); çok seyrek (<
+1/10.000), bilinmiyor (eldeki verilerden hareketle tahmin edilemiyor).
+Her bir sıklık grubunda, ADR’ler azalan şiddet düzeyine göre sıralanmıştır.
+Mide kanserinde paklitaksel ile kombinasyon halinde ramucirumab
+Aşağıdaki tabloda paklitaksel ile kombinasyon halinde ramucirumabın bir faz 3 mide
+kanseri çalışması olan RAINBOW çalışmasında ramucirumab ile tedavi edilen hastaların
+≥5'inde bildirilen ADR’lerin sıklığı ve şiddeti sunulmaktadır.
+Tablo 3: Mide Kanseri için paklitaksel ile kombinasyon halinde ramucirumab alan
+hastalarda görülen insidans oranı ≥% 5 olan advers reaksiyonlar
+CYRAMZA artı Plasebo artı paklitaksel
+paklitaksel (N=327) (N=329)
+MedDRA
+Tüm Grade ≥ 3 Tüm Grade ≥ 3
+sistem organ Sıklık ADR
+Gradelerde toksisite Gradelerdeki toksisite
+sınıfı
+ki (%) toksisiteler (%)
+toksisiteler
+Çok 54,4 40,7 31 18,8
+Nötropeni
+yaygın
+Kan ve lenf
+Çok 33,9 17,4 21 6,7
+sistemi Lökopeni
+yaygın
+hastalıkları
+Çok 13,1 1,5 6,1 1,8
+Trombositopeni
+yaygın
+Metabolizma 11 1,2 4,9 0,9
+Çok
+ve beslenme Hipoalbuminemi
+yaygın
+hastalıkları
+Vasküler Çok 25,1 14,7 5,8 2,7
+Hipertansiyona
+hastalıklar yaygın
+Solunum, 30,6 0 7 0
+göğüs
+Çok
+bozuklukları Epistaksis
+yaygın
+ve mediastinal
+hastalıklar
+9/22Gastrointestinal 10,1 3,7 6,1 1,5
+Çok
+kanama
+yaygın
+olaylarıb
+Gastrointestin
+Çok 19,6 0,6 7,3 0,6
+al hastalıklar Stomatit
+yaygın
+Çok 32,4 3,7 23,1 1,5
+Diyare
+yaygın
+Böbrek ve 16,8 1,2 6,1 0
+Çok
+idrar yolu Proteinüri
+yaygın
+hastalıkları
+Genel Çok Yorgunluk 56,9 11,9 43,8 5,5
+bozuklular ve yaygın / Asteni
+uygulama 25,1 1,5 13,7 0,6
+bölgesine Çok
+Periferal ödem
+ilişkin yaygın
+hastalıklar
+a Hipertansif kardiyomiyopatiyi içerir.
+b MedDRA tercih edilen terimleri arasında anal kanama, kanamalı diyare, mide kanaması,
+gastrointestinal kanama, hematemez, hematokezi, hemoroidal kanama, Mallory-Weiss
+sendromu, melena, özofageal kanama, rektal kanama ve üst gastrointestinal kanama yer
+alır.
+RAINBOW’da ramucirumab artı paklitaksel ile tedavi edilen hastaların ≥% 1’inde ve <%
+5’inde rapor edilen klinik ilgisi olan ADR’ler gastrointestinal perforasyon (ramucirumab
+artı paklitaksel’de %1,2’ye karşı plasebo artı paklitaksel’de % 0,3) ve sepsis (ramucirumab
+artı paklitaksel’de %3,1’e karşı plasebo artı paklitaksel’de % 1,8) olmuştur.
+KHDAK’da erlotinib ile kombinasyon halinde ramucirumab
+Tablo 4, EGFR aktive edici mutasyonlu KHDAK’da erlotinib ile kombinasyon halinde
+ramucirumabın plasebo kontrollü bir faz 3 çalışması olan RELAY çalışmasında
+ramucirumab ile tedavi edilen hastaların ≥5'inde bildirilen ADR'lerin sıklığı ve şiddeti
+sunulmaktadır.
+Tablo 4: KHDAK için erlotinib ile kombinasyon halinde ramucirumab alan
+hastalarda görülen insidans oranı ≥% 5 olan advers reaksiyonlar
+CYRAMZA artı erlotinib Plasebo artı erlotinib
+(N=221) (N=225)
+Sistem organ sınıfı Sıklık Olay Tüm Grade ≥ 3 Tüm Grade ≥ 3
+Gradelerdeki toksisite Gradelerdeki toksisite
+toksisiteler (%) toksisiteler (%)
+Enfeksiyonlar ve Çok
+Enfeksiyonlara 80,5 17,2 76 6,7
+enfestasyonlar yaygın
+Çok
+Trombositopeni 16,3 1,4 2,7 0
+yaygın
+Kan ve lenf sistemi Çok
+Nötropeni 12,7 2,7 8 1,3
+hastalıkları yaygın
+Çok
+Anemi 10 1,8 4,9 0,4
+yaygın
+Sinir sistemi Çok
+Baş ağrısı 14,9 0,9 7,1 0
+hastalıkları yaygın
+10/22Çok
+Vasküler hastalıklar Hipertansiyon 45,2 23,5 12 5,3
+yaygın
+Çok
+Solunum, göğüs Epistaksis 33,5 0 12 0
+yaygın
+bozuklukları ve
+Pulmoner
+mediastinal
+Yaygın kanama 6,8 0,5 1,8 0,4
+hastalıklar
+olaylarıb
+Çok
+Diyare 70,1 7,2 71,1 1,3
+yaygın
+Çok
+Gastrointestinal Stomatit 41,6 1,8 36,4 1,3
+yaygın
+hastalıklar
+Çok Gastrointestinal
+10,4 1,4 2,7 0,4
+yaygın kanama olaylarıc
+Yaygın Diş eti kanaması 8,6 0 1,3 0
+Cilt ve cilt-altı doku Çok
+Alopesid 33,9 G/D 19,6 G/D
+hastalıkları yaygın
+Böbrek ve idrar yolu Çok
+Proteinüri 34,4 2,7 8,4 0
+hastalıkları yaygın
+Genel bozuklular ve
+Çok
+uygulama bölgesine Periferal ödem 22,6 0,9 4,4 0
+yaygın
+ilişkin hastalıklar
+Kısaltma: G/D= Geçerli değildir.
+a MedDRA tercih edilen terimleri arasında anal kanama, hemoroidal kanama,
+hematokezi, alt gastrointestinal kanama, rektal kanama, ince bağırsak kanaması, melena,
+duodenal ülser kanaması ve üst gastrointestinal kanama yer alır.
+b Enfeksiyonlar, sistem organ sınıfı enfeksiyonları ve enfestasyonlarının bir parçası olan
+tercih edilen tüm terimleri içerir. En yaygın (≥1%) Grade ≥3 enfeksiyonları arasında
+pnömoni, selülit, paronişya, cilt enfeksiyonu ve idrar yolu enfeksiyonu bulunur.
+c MedDRA tercih edilen terimleri arasında hemoptiz, larinjeal kanama, hemotoraks,
+pulmoner hemoraj yer alır.
+d Grade ≥3 CTCAE'de mevcut değildir.
+Diğer kaynaklardan advers reaksiyonlar
+Tablo 5: Klinik çalışmalarda ve pazarlama sonrası raporlama yoluyla rapor edilen
+ramucirumab ile ilişkili pazarlama sonrası ADR'ler
+Sistem organ sınıfı Yaygın Yaygın Seyrek Bilinmiyor
+olmayan
+Benign, malign ve Hemanjiyom
+tanımlanmamış
+neoplazmalar (kistler
+ve polipler dahil)
+Kan ve lenf sistemi Trombotik
+hastalıkları mikroanjiyopati
+Endokrin hastalıkları Hipotiroidizm
+11/22Sinir sistemi Posterior geri
+hastalıkları dönüşlü
+(reversıbl)
+ensefalopati
+sendromu
+Kardiyak hastalıkları Kalp yetmezliği a
+Vasküler hastalıklar Anevrizmalar ve
+arter diseksiyonları
+Solunum, göğüs Disfoni
+bozuklukları ve
+mediastinal
+hastalıklar
+a Pazarlama sonrasında kalp yetmezliği, ramucirumab için çoğunlukla paklitaksel ile
+kombinasyon halinde gözlenmiştir (bkz. Bölüm 4.4).
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu
+Türkiye Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir
+(www.titck.gov.tr, e-posta: tufam@titck.gov.tr; tel: 0 800 314 00 08; faks: 0 312 218 35
+99)
+Pediyatrik popülasyon:
+I4T-MC-JVDA çalışmasında sadece ramucirumab ile tedavi edilen sınırlı sayıda
+pediyatrik hastaya dayalı olarak yeni güvenlilik endişeleri tanımlanmamıştır (bkz. Bölüm
+5.1). Bu çalışmadaki bir hastada distal femoral büyüme plakasında progresif genişleme
+olmuştur. Bu bulgunun büyüme üzerindeki etkisi bilinmemektedir.
+4.9. Doz aşımı ve tedavisi
+İnsanlarda doz aşımı hakkında herhangi bir veri bulunmamaktadır. CYRAMZA, bir Faz 1
+çalışmasında maksimum tolere edilen doza ulaşmadan iki haftada bir 10 mg/kg’a kadar
+olan dozlarda uygulanmıştır. Doz aşımı durumunda, destekleyici tedavi uygulanmalıdır.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1. Farmakodinamik özellikler
+Farmakoterapötik grup: Antineoplastik ajanlar, VEGF/VEGFR (Vasküler Endotelyal
+Büyüme Faktörü) inhibitörleri
+ATC kodu: L01FG02
+Etki mekanizması
+Vasküler Endotelyal Büyüme Faktörü (VEGF) Reseptörü 2, VEGF ile indüklenen
+anjiyogenezin anahtar mediyatörüdür. Ramucirumab insan reseptörü hedefli bir antikor
+olup, spesifik olarak VEGF reseptörü 2’ye bağlanır ve VEGF-A, VEGF-C ve VEGF-D
+bağlanmasını bloke eder. Bunun sonucunda, ramucirumab ligandın stimüle ettiği VEGF
+12/22Reseptörü 2’nin ve buna ait p44/p42 mitojen aktivasyonlu protein kinazlar, nötralizan
+ligand uyarımlı proliferasyon ve insan endotelyal hücrelerinin migrasyonu da dahil, aşağı
+akım (downstream) sinyal bileşenlerinin aktivasyonunu inhibe eder.
+Klinik etkililik ve güvenlilik
+Mide kanseri:
+RAINBOW
+RAINBOW CYRAMZA artı paklitaksel’in plasebo artı paklitaksel ile karşılaştırmalı
+global, randomize, çift-kör bir çalışması olup, antrasiklin ile veya antrasiklin olmaksızın
+platin ve floropirimidin içeren kemoterapiyi takiben lokal reküran ve rezekte edilemeyen
+veya metastatik mide kanseri (GEJ adenokarsinomu dahil) bulunan 665 hastada
+yürütülmüştür. Birincil sonlanım noktası genel sağkalım (OS) ve ikincil sonlanım
+noktaları progresyonsuz sağkalım (PFS) ve genel yanıt oranıdır (ORR). Hastaların birinci
+basamak tedavi sırasında veya tedavinin son dozundan sonra 4 ay içerisinde hastalık
+progresyonu yaşamış olması ve ECOG PS skorunun 0-1 olması gerekmektedir. Hastalar
+CYRAMZA artı paklitaksel (n=330) veya plasebo artı paklitaksel (n=335) almak üzere 1:1
+oranında randomize edilmiştir. Randomizasyon coğrafik bölgeye, birinci basamak
+tedavisinin başlangıcından progresyona kadar geçen süre (<6 ay’a karşı ≥6 ay) ve hastalık
+ölçülebilirliğine göre sınıflandırılmıştır. 28 günlük bir siklusun her 2 haftasında (1. ve 15.
+günlerde) intravenöz infüzyon yoluyla 8 mg/kg dozunda CYRAMZA veya plasebo
+uygulanmıştır. Her 28 günlük siklusun 1., 8. ve 15. günlerinde intravenöz infüzyon yoluyla
+80 mg/m2 dozunda paklitaksel uygulanmıştır.
+Söz konusu çalışmada randomize edilen hastaların büyük çoğunluğu (% 75) öncesinde
+antrasiklin olmaksızın platin ve floropirimidin kombinasyon tedavisini almıştır. Geriye
+kalan hasta grubu (% 25) öncesinde antrasiklin ile birlikte platin ve floropirimidin
+kombinasyon tedavisini almıştır. Hastaların üçte ikisi hala birinci basamak tedaviyi alırken
+hastalıkta ilerleme görülmüştür.(% 66,8). Temel hasta demografileri ve hastalık özellikleri
+kollar arasında genelde dengelenmiştir: Medyan yaş 61’dir; hastaların % 71’i erkektir; %
+61’i beyaz, % 35’i Asyalı’dır; ECOG PS skoru hastaların % 39’unda 0, hastaların %
+61’inde 1’dir; hastaların % 81’inde ölçülebilir hastalık, % 79’unda mide kanseri ve %
+21’inde GEJ adenokarsinomu vardır. Hastaların çoğunluğunda (% 76) birinci basamak
+tedavisinin başlangıcından itibaren 6 ay içerisinde hastalık ilerlemiştir. CYRAMZA artı
+paklitaksel ile tedavi edilen hastalarda medyan tedavi süresi 19 hafta ve plasebo artı
+paklitaksel ile tedavi edilen hastalarda medyan tedavi süresi 12 hafta olmuştur.
+CYRAMZA’nın medyan göreceli doz yoğunluğu % 98,6 ve plasebonunki % 99,6’dır.
+Paklitaksel’in medyan göreceli doz yoğunluğu CYRAMZA artı paklitaksel kolunda %
+87,7 ve plasebo artı paklitaksel kolunda % 93,2’dir. Benzer oranda hasta advers olaylar
+nedeniyle tedaviye devam etmemiştir: CYRAMZA artı paklitaksel ile tedavi edilen
+hastaların % 12’si ve buna karşılık plasebo artı paklitaksel ile tedavi edilen hastaların %
+11’i. Tedavi sonlandırıldıktan sonra CYRAMZA artı paklitaksel alan hastaların %
+47,9’una ve plasebo artı paklitaksel alan hastaların % 46’ına sistemik anti-kanser tedavisi
+verilmiştir.
+Genel sağkalım CYRAMZA artı paklitaksel alan hastalarda, plasebo artı paklitaksel alan
+hastalara kıyasla istatistiksel olarak anlamlı şekilde iyileşmiştir (HR 0,807; % 95 CI: 0,678
+ila 0,962; p=0,0169). CYRAMZA artı paklitaksel kolu lehine 2,3 ay medyan sağkalımda
+bir artış söz konusu olmuştur: CYRAMZA artı paklitaksel kolunda 9,63 ay ve plasebo artı
+paklitaksel kolunda 7,36 ay. Progresyonsuz sağkalım CYRAMZA artı paklitaksel alan
+13/22hastalarda, plasebo artı paklitaksel alan hastalara kıyasla istatistiksel olarak anlamlı şekilde
+iyileşmiştir (HR 0,635; % 95 CI: 0,536 ila 0,752; p<0,0001). 1,5 ay medyan PFS’de
+CYRAMZA artı paklitaksel kolu lehine bir artış olduğu bulunmuştur: CYRAMZA artı
+paklitaksel kolunda 4,4 ay ve plasebo artı paklitaksel kolunda 2,9 ay. Objektif yanıt oranı
+[ORR (tam yanıt [CR] + kısmi yanıt [PR])] CYRAMZA artı paklitaksel alan hastalarda,
+plasebo artı paklitaksel alan hastalara kıyasla istatistiksel olarak anlamlı şekilde
+iyileşmiştir (tahmini risk oranı 2,140; % 95 CI: 1,499 ila 3,160; p=0,0001). CYRAMZA
+artı paklitaksel kolunda ORR % 27,9 ve plasebo artı paklitaksel kolunda % 16,1’di. OS ve
+PFS iyileşmeleri yaşa, cinsiyete ve ırka dayalı önceden belirtilmiş alt gruplarda ve diğer
+çoğu önceden belirtilmiş alt gruplarda tutarlı şekilde gözlenmiştir. Etkililik sonuçları
+Tablo 6’da gösterilmektedir.
+Tablo 6: Etkililik verilerinin özeti – Tedavisi amaçlanan (ITT) popülasyonu
+CYRAMZA artı paklitaksel Plasebo artı
+N=330 paklitaksel
+N=335
+Genel sağkalım, ay
+Medyan (% 95 GA) 9,6 (8,5; 10,8) 7,4 (6,3; 8,4)
+Tehlike oranı (TO) (% 95 GA) 0,807 (0,678; 0,962)
+Sınıflandırılmış log-sıra 0,0169
+p-değeri
+Progresyonsuz sağkalım, ay
+Medyan (% 95 GA) 4,4 (4,2; 5,3) 2,9 (2,8; 3,)
+Tehlike oranı (TO) (% 95 GA) 0,635 (0,536; 0,752)
+Sınıflandırılmış log-sıra <0,0001
+p-değeri
+Objektif yanıt oranı (TY + KY)
+Oran yüzdesi (% 95 GA) 27,9 (23,3; 33,) 16,1 (12,6; 20,4)
+Tahmini risk oranı 2,140 (1,449; 3,160)
+Sınıflandırılmış CMH p-değeri 0,0001
+Kısaltmalar: GA (Confidence Interval): Güven aralığı, TY = Tam yanıt, KY= Kısmi yanıt,
+CMH=Cochran-Mantel-Haenszel
+14/22Şekil 1: CYRAMZA artı paklitaksel ve plasebo artı paklitaksel’in RAINBOW’da
+genel sağkalıma ilişkin karşılaştırmalı Kaplan-Meier eğrileri
+ığ
+ılısa
+lO
+m
+ıla
+k
+ğ
+a
+S
+le
+n
+e
+G
+Cyramza+Paklitaksel
+Plasebo+Paklitaksel
+Risk Altındaki Hasta Sayısı Randomizasyondan İtibaren Geçen Süre (ay)
+Cyramza+Paklitaksel
+Plasebo+Paklitaksel
+Şekil 2: CYRAMZA artı paklitaksel ve plasebo artı paklitaksel’in RAINBOW’da
+progresyonsuz sağkalıma ilişkin karşılaştırmalı Kaplan-Meier eğrileri
+1.0
+ığ ılısa
+lO
+ti aby
+li 0.8
+mob
+ılaPr
+k ğ
+a S zu
+snla
+uv Sv ri 0.6
+o y
+se
+rg
+o
+rPonee
+s-rf
+i
+0.4
+s
+e
+gr
+Po r 0.2
+CyCrayrmamzaza++PPaacklliittaaxkseell
+PlaPclaesbeob+o+PPaacklliittaaxkesell
+0.0
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23
+TimeSinceRandomization(Months)
+Risk Altındaki Hasta Sayısı Randomizasyondan İtibaren Geçen Süre (ay)
+NumberatRisk
+CyrCamyrzaam+zPaa+klPitaacklsiteal xel 330 259 188 104 70 43 28 15 11 7 3 1
+PlaPselabcoe+bPoa+kPlitaacklsitealx el 335 214 124 50 34 21 12 8 5 3 3 3
+Küçük hücreli dışı akciğer kanseri:
+RELAY
+RELAY, CYRAMZA artı erlotinibe karşı plasebo artı erlotinibin, epidermal büyüme
+faktörü reseptörü (EGFR) aktive edici ekson 19 delesyonlu veya ekson 21 (L858R)
+15/22mutasyonlu metastatik küçük hücreli dışı akciğer kanseri (KHDAK) olan, çalışma
+başlangıcından önce tedavi edilmemiş 449 hastanın randomize edildiği (1:1) global,
+randomize, çift-kör bir faz 3 çalışmasıdır. Uygun hastalar ECOG PS 0 veya 1'dir. MSS
+metastazı olan veya başlangıçta bilinen T790M EGFR mutasyonları olan hastalar
+çalışmaya dahil edilmemiştir. Kanama riski yüksek hastalar ve kaydı izleyen 6 ay içinde
+herhangi bir arteriyel trombotik olay yaşayanlar da dahil olmak üzere kardiyovasküler olay
+riski yüksek olan hastalar çalışmaya dahil edilmemiştir. Demografik özellikler ve
+başlangıçtaki özellikler kollar arasında dengelenmiştir. Hastaların % 77'si Asyalı ve %
+22'si beyaz ırktandır. CYRAMZA artı erlotinib ile tedavi edilen hastalarda, plasebo artı
+erlotinib ile tedavi edilen hastalara kıyasla progresyonsuz sağkalımda (PFS) istatistiksel
+olarak anlamlı bir iyileşme görülmüştür (Tablo 7). Ekson 19 delesyonları ve ekson 21
+(L858R) substitüsyonu, yaş, ırk (beyaz ırk TO: 0,618, Asyalı TO: 0,638), sigara içenler ve
+hiç sigara içmeyenler dahil olmak üzere alt gruplar arasında sonuçların tutarlı olduğu
+gözlenmiştir. Genel sağkalım verileri, nihai PFS analizi sırasında olgunlaşmamıştır (%
+17,6 olgunluk). RELAY etkililik sonuçları Tablo 7 ve Şekil 3'de gösterilmektedir.
+Tablo 7: RELAY çalışmasının etkililik verilerinin özeti – ITT (tedavisi amaçlanan)
+popülasyonu
+CYRAMZA artı erlotinib Plasebo artı erlotinib
+N=224 N=225
+Progresyonsuz Sağkalım
+Olay sayısı (%) 122 (54,5) 158 (70,2)
+Medyan – ay (% 95 GA) 19,4 (15,38; 21,55) 12,4 (10,97; 13,50)
+Tehlike oranı (TO) (% 95 0,591 (0,461; 0,760)
+GA)
+Sınıflandırılmış log-sıra <0,0001
+p-değeri
+Ara dönem Genel Sağkalım
+Ölüm sayısı (%) 37 (16,5) 42 (18,7)
+Medyan – ay (% 95 GA) NR NR
+Tehlike oranı (% 95 GA) 0,832 (0,532; 1,303)
+Sınıflandırılmış log-sıra 0,4209
+p-değeri
+Objektif Yanıt Oranı (Tam yanıt + Kısmi yanıt)
+Hız – yüzde (% 95 GA) 76 (70,8; 81,9) 75 (69; 80,3)
+TY, n (%) 3 (1,3) 2 (0,9)
+KY, n (%) 168 (75) 166 (73,8)
+Yanıt Süresi N = 171 N = 168
+Olay sayısı (%) 101 (59,1) 128 (76,2)
+Medyan – ay (% 95 GA) 18 (13,86; 19,78) 11,1 (9,69; 12,29)
+Tehlike oranı (TO) (% 95 0,619 (0,477; 0,805)
+GA)
+Sınıflandırılmamış log-sıra 0,0003
+p-değeri
+16/22Kısaltmalar: GA= Güven aralığı, NR= Ulaşılmamıştır, TY = Tam yanıt, KY = Kısmi yanıt.
+Genel sağkalımı test etmek için hiyerarşik bir test prosedürü uygulanmıştır. Genel
+sağkalım, yalnızca progresyonsuz sağkalım anlamlı olduğunda test edilmiştir. Her iki
+sonlanım noktası da alfa- korumalıdır.
+Şekil 3: CYRAMZA artı erlotinib ve plasebo artı erlotinibin RELAY’da
+progresyonsuz sağkalıma ilişkin karşılaştırmalı Kaplan-Meier eğrileri
+TO= 0,591
+%95 GA: 0,461 ; 0,760
+p<,0001
+Doğu Kooperatif Onkoloji Grubu (ECOG) Performans Durumu (PS) ≥ 2 olan hastalar
+ECOG skoru ≥ 2 olan hastalar pivot çalışmalarında kapsam dışı bırakılmıştır, bu nedenle
+CYRAMZA’nın bu hasta popülasyonundaki güvenliliği ve etkililiği bilinmemektedir.
+İmmünojenisite
+RAINBOW ve REGARD isimli iki Faz 3 çalışmasında hastalar anti-ilaç antikorları
+(ADA’lar) yönünden birden fazla zaman noktasında test edilmiştir. Numuneler 956
+hastada test edilmiştir: Ramucirumab ile tedavi edilen 527 hasta ve kontrol tedavisi yapılan
+429 hasta. Ramucirumab ile tedavi edilen on bir (% 2,2) hasta ve kontrol tedavisi yapılan
+iki (% 0,5) hasta ADA geliştirmiştir. ADA görülen hastaların hiçbiri IRR yaşamamıştır.
+Hiçbir hastada ramucirumaba karşı oluşmuş nötralizan antikorlara rastlanmamıştır.
+ADA’ların ramucirumabın etkililiği ve güvenliliği üzerine etkilerini değerlendirmek üzere
+yeterli veri mevcut değildir.
+Önerilen Faz 2 dozunu (RP2D) belirlemek için, tek ajan olarak ramucirumabın güvenliliği
+ve farmakokinetiği (PK), 1 ila 21 yaşları arasındaki pediyatrik ve genç yetişkin hastalarda
+çok merkezli, açık etiketli bir Faz 1 çalışma olan I4T-MC-JVDA'da değerlendirilmiştir.
+Çalışma 2 bölümden oluşmuştur. Bölüm A'da ramucirumab, tekrarlayan veya dirençli
+MSS dışı tümörleri olan 23 hastaya her 2 haftada bir 60 dakika boyunca intravenöz olarak
+8 mg/kg veya 12 mg/kg dozunda uygulanmıştır. Maksimum tolere edilen doza
+17/22ulaşılamamıştır. RP2D, 2 haftada bir verildiğinde 12 mg/kg olarak belirlenmiştir. Bölüm
+B'de, bu popülasyonda tolere edilebilirliğin değerlendirilmesi için nüks eden veya dirençli
+MSS tümörleri olan 6 hastaya RP2D'de ramucirumab uygulanmıştır. Kısım A veya B'de
+hiçbir tümör cevabı gözlemlenmemiştir.
+5.2. Farmakokinetik özellikler
+Genel özellikler:
+İki haftada bir uygulanan 8 mg/kg doz kürünü takiben, ramucirumab C geometrik
+min
+ortalamaları, ileri evre mide kanseri olan hastaların serumlarında ramucirumabın tek ajan
+olarak verilen dördüncü ve yedinci doz uygulaması öncesinde sırasıyla 49,5 mikrog/mL
+(6,3-228 mikrog/mL) ve 74,4 mikrog/mL (13,8-234 mikrog/mL) olarak saptanmıştır.
+KHDAK hastalarının serumlarında, 2 haftada bir 10 mg/kg ramucirumab doz rejimini
+takiben, erlotinib ile kombinasyon halinde verilen ramucirumabın C geometrik
+min
+ortalamaları dördüncü ve yedinci dozun uygulanmaları öncesi sırasıyla 68,5 mikrog/ml
+(20,3-142 mikrog/ml aralığında) ve 85,7 mikrog/ml’dir (36-197 mikrog/ml aralığında).
+Emilim:
+CYRAMZA intravenöz infüzyon halinde uygulanır. Diğer uygulama yolları ile
+gerçekleştirilen hiçbir çalışma bulunmamaktadır.
+Dağılım:
+Popülasyon farmakokinetik modeline (PopPK) dayanarak, ramucirumabın kararlı durumda
+ortalama (% varyasyon katsayısı [% CV]) dağılım hacmi 5,4 L (% 15) olarak bulunmuştur.
+Biyotransformasyon:
+Ramucirumabın metabolizması incelenmemiştir. Antikorlar başlıca katabolizmayla
+temizlenmektedir.
+Eliminasyon:
+PopPK analizine dayanarak, ramucirumabın ortalama klirensi (% CV) 0,015 L/saat (% 30)
+ve ortalama yarılanma ömrü 14 gündür (% 20).
+Doğrusallık/doğrusal olmayan durum:
+Ramucirumabın 6 mg/kg ila 20 mg/kg doz aralığındaki farmakokinetiğinde doz
+oransallığından bariz herhangi bir sapmaya rastlanmamıştır. Ramucirumab için iki haftada
+bir dozlandığında 1,5’lik akümülasyon (birikme) oranı gözlenmiştir. PopPK modelinin
+kullanıldığı simülasyonlara dayanarak kararlı duruma altıncı dozda ulaşılacaktır.
+Hastalardaki karakteristik özellikler
+Geriyatrik popülasyon:
+PopPK analizine dayanarak, ≥65 yaş hastalarda <65 yaş hastalar ile karşılaştırıldığında
+ramucirumab maruziyetinde herhangi bir farklılığa rastlanmamıştır.
+Böbrek yetmezliği:
+Böbrek yetmezliğinin ramucirumab farmakokinetiği üzerine etkisinin değerlendirilmesine
+yönelik yürütülmüş hiçbir klinik araştırma bulunmamaktadır. PopPK analizine dayanarak,
+ramucirumab maruziyeti, normal böbrek fonksiyonu olan hastalara göre (kreatinin klirensi
+18/22[KrKl] ≥90 mL/dak), hafif böbrek yetmezliği (KrKl ≥60 ila < 90 mL/dak) ve orta derecede
+böbrek yetmezliği (KrKl ≥ 30 ila < 60 mL/dak) veya şiddeli böbrek yetmezliği (KrKl 15
+ila 29 ml/dak) olan hastalarda benzer bulunmuştur.
+Karaciğer yetmezliği:
+Karaciğer yetmezliğinin ramucirumab farmakokinetiği üzerine etkisinin
+değerlendirilmesine yönelik yürütülmüş hiçbir klinik araştırma bulunmamaktadır. PopPK
+analizine dayanarak, hafif karaciğer yetmezliği (NCI kriterleri kullanılarak
+tanımlandığında, toplam bilirubin > 1-1,5 normal üst sınır (ULN) ve herhangi AST veya
+toplam bilirubin ≤ 1 ULN ve AST > ULN) ya da orta seviyede karaciğer yetmezliği
+(toplam bilirubin > 1,5-3 ULN ve herhangi AST) olan hastalardaki ramucirumab
+maruziyeti, normal karaciğer fonksiyonu (toplam bilirubin ve AST ≤ ULN) olan
+hastalardaki maruziyete benzer bulunmuştur. Ramucirumab orta veya şiddetli karaciğer
+yetmezliği (sırasıyla toplam bilirubin > 3 ULN ve herhangi AST) olan hastalarda
+incelenmemiştir.
+Pediyatrik popülasyon:
+8 mg/kg veya 12 mg/kg'lık tek bir dozun veya çoklu dozların ardından MSS tümörleri de
+dahil olmak üzere refrakter katı tümörleri olan pediyatrik ve genç yetişkin hastalarda (>12
+ay çocuklar ve <21 yaş) ramucirumaba maruziyet, yetişkin hastalarda elde edilen
+maruziyete benzerdir.
+Ayrıca, 12 mg/kg dozun ardından ramucirumab maruziyeti >12 ay ila <21 yaş aralığında
+benzerdir.
+Diğer özel popülasyonlar
+PopPK analizine dayanarak, şu eşdeğişken faktörlerin ramucirumab dispoziyonu (emilim,
+dağılım ve eliminasyon) üzerine hiçbir etkisinin olmadığı bulunmuştur: Yaş, cinsiyet, ırk,
+, albümin düzeyleri . Bu ve araştırılan diğer faktörlerin ramucirumab dispoziyonu üzerinde
+< % 20 etkisi olmuştur. Vücut ağırlığı, ramucirumab farmakokinetiğinde anlamlı bir
+kovaryat olarak kabul edilmektedir ve vücut ağırlığına dayalı dozlama yaklaşımını
+desteklemektedir. Bu nedenle, ramucirumab dozajının vücut ağırlığına göre belirlenmesi
+uygun görülmektedir.
+Maruziyet yanıt ilişkileri:
+Etkililik
+Maruziyet-yanıt analizleri ramucirumabın etkililiğinin tüm pivot çalışmalarında
+ramucirumab maruziyeti ile bağlantılı olduğunu göstermiştir. OS ve PFS’deki iyileşmelere
+göre ölçülen etkililik, her 2 haftada bir verilen 8 mg/kg ramucirumab ve her 3 haftada bir
+verilen 10 mg/kg ramucirumab ile elde edilen artan ramucirumab maruziyeti ile ilişkili
+bulunmuştur. İleri evre mide kanseri için PFS'deki iyileşme, artan ramucirumab maruziyeti
+ile de ilişkilendirilmiştir.
+Güvenlilik
+RAINBOW’da, Grade ≥ 3 hipertansiyon, nötropeni ve lökopeni insidansları daha yüksek
+ramucirumab maruziyeti ile artmıştır.
+19/22RELAY’da, Grade ≥ 3 hipertansiyon, ishal, proteinüri ve akneiform dermatit dahil olmak
+üzere seçilmiş güvenlik sonlanım noktaları için maruziyet-güvenlilik ilişkisi
+saptanmamıştır.
+5.3. Klinik öncesi güvenlilik verileri
+Ramucirumabın karsinojenite veya genotoksisite potansiyeli açısından test edilmesine
+yönelik hiçbir hayvan çalışması yapılmamıştır.
+Cynomolgus maymununda yapılan tekrarlanan doz toksisite çalışmalarında tanımlanmış
+hedef organlar böbrek (glomerulonefrit), kemik (kalınlaşma ve epifizbüyüme plakasının
+anormal endokondral ossifikasyonu (kemikleşmesi)) ve dişi üreme organlarıydı (overlerde
+ve uterusta ağırlık azalması). Birçok organda minimal Grade enflamasyon ve/veya
+mononükleer hücre infiltrasyonu görülmüştür.
+Ramucirumab ile üreme toksisite çalışması yapılmamıştır, ancak hayvan modellerinde
+anjiyogenez, VEGF ve VEGF Reseptörü 2 ile dişilerde üreme, embriyo-fötal gelişim ve
+postnatal gelişimin kritik yönleri arasında bağlantı kurulmaktadır. Ramucirumabın etki
+mekanizmasına dayanarak, hayvanlarda ramucirumabın anjiyogenezi inhibe etmesi ve
+fertilite (ovülasyon), plasental gelişim, gelişen fetuslar ve postnatal gelişim üzerinde
+advers etkilere yol açması muhtemeldir.
+Ramucirumabın tek dozu, tam kalınlıkta insizyonel model kullanılan maymunlarda yara
+iyileşmesini bozmamıştır.
+6. FARMASÖTİK ÖZELLİKLER
+6.1. Yardımcı maddelerin listesi
+L-Histidin
+L-Histidin monohidroklorür
+Sodyum klorür
+Glisin (E640)
+Polisorbat 80 (E433)
+Enjeksiyonluk su
+6.2. Geçimsizlikler
+CYRAMZA dekstroz çözeltileri ile uygulanmamalı veya karıştırılmamalıdır.
+Bu tıbbi ürün Bölüm 6.6’da belirtilenler dışında diğer tıbbi ürünler ile karıştırılmamalıdır.
+6.3. Raf ömrü
+Açılmamış flakon
+24 ay.
+Seyreltme sonrasında
+Gösterildiği şekilde hazırlandığında, CYRAMZA’nın infüzyon çözeltileri hiçbir
+antimikrobiyal koruyucu içermez.
+CYRAMZA’nın enjeksiyonluk 9 mg/mL (% 0,9) sodyum klorür içerisindeki kimyasal ve
+fiziksel kullanım stabilitesi 2ºC - 8ºC’de 24 saat süreyle veya 25 ºC’de 4 saat süreyle
+gösterilmiştir. Mikrobiyolojik yönden, ürünün hemen kullanılması gerekir. Hemen
+kullanılmaması halinde, kullanım sırasındaki saklama süreleri ve kullanım öncesi koşulları
+20/22kullanıcının sorumluluğundadır ve seyreltme, kontrollü ve onaylanmış aseptik koşullarda
+gerçekleşmediği sürece, normalde 2ºC - 8ºC’de 24 saatten uzun olmayacaktır.
+6.4. Saklamaya yönelik özel tedbirler
+Buzdolabında (2ºC - 8ºC’de) saklayınız.
+Dondurmayınız.
+Işıktan korumak için flakonu dış ambalajı içerisinde saklayınız.
+Tıbbi ürünün seyreltme sonrası saklama koşulları için, bkz. Bölüm 6.3.
+6.5. Ambalajın niteliği ve içeriği
+50 mL çözelti, klorobütil kauçuk tıpası, alüminyum conta ve polipropilen kapağı bulunan
+bir flakon (Tip I cam) içerisinde 1’lik ambalajda.
+6.6. Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+Flakonu çalkalamayınız.
+Hazırlanan çözeltinin sterilitesinden emin olmak için, infüzyon çözeltisi aseptik teknik
+kullanılarak hazırlanmalıdır.
+Her flakon yalnızca tek kullanım içindir. Flakonların içeriği seyreltme öncesinde parçacık
+madde ve renk değişimi açısından incelenmelidir (infüzyon için konsantre çözelti berrak
+ila hafif opak ve renksiz ila hafif sarı olmalı ve görünür parçacık içermemelidir). Flakonda
+parçacık madde veya renk değişikliği fark ettiğiniz durumda , flakonu atınız.
+İnfüzyon çözeltisinin hazırlanması için gerek duyulan ramucirumab dozu ve hacmi
+hesaplanır. Flakonlar 10 mg/mL ramucirumab çözeltisi olarak 500 mg içeriğe sahiptir. 9
+mg/mL (% 0,9) sodyum klorür enjeksiyonluk çözeltisi yalnızca seyreltici olarak kullanılır.
+Kullanıma hazır intravenöz infüzyon kabının kullanılması durumunda
+Hesaplanan ramucirumab hacmine dayalı olarak, kullanıma hazır 250 mL intravenöz
+kaptan 9 mg/mL (% 0,9) sodyum klorür enjeksiyonluk çözeltisinin karşılık gelen hacmi
+çekilir. Hesaplanan hacimde ramucirumab intravenöz kaba aseptik olarak aktarılır. Kaptaki
+final toplam hacim 250 mL olmalıdır. Kap yeterli karışmanın sağlandığından emin olunması
+için dikkatlice ters çevrilir. İnfüzyonluk çözeltiyi DONDURMAYINIZ VE
+ÇALKALAMAYINIZ. Diğer çözeltilerle SEYRELTMEYİNİZ ve diğer elektrolitler ya da
+ilaçlarla birlikte infüzyon şeklinde UYGULAMAYINIZ.
+Boş intravenöz infüzyon kabının kullanılması durumunda
+Ramucirumabın hesaplanan hacmi boş bir intravenöz infüzyon kabı içerisine aseptik
+olarak aktarılır. Kaba toplam hacim 250 mL olacak şekilde yeterli miktarda 9 mg/mL (%
+0,9) sodyum klorür enjeksiyonluk çözeltisi ilave edilir. Kap yeterli karışmanın
+sağlandığından emin olunması için dikkatlice ters çevrilir. İnfüzyonluk çözeltiyi
+DONDURMAYINIZ VE ÇALKALAMAYINIZ. Diğer çözeltilerle SEYRELTMEYİNİZ
+ve diğer elektrolitler ya da ilaçlarla birlikte infüzyon şeklinde UYGULAMAYINIZ.
+Parenteral tıbbi ürünler uygulama öncesinde parçacık madde açısından görsel olarak
+incelenmelidir. Parçacık madde saptanması halinde, infüzyon çözeltisi atılır.
+Söz konusu ürünün hiçbir antimikrobiyal koruyucu içermemesi nedeniyle bir flakonda kalan
+kullanılmamış ramucirumab atılmalıdır.
+21/22İnfüzyon pompası kullanarak uygulayınız.İnfüzyon için protein tutucu 0,22 mikron filtreli
+ayrı bir infüzyon hattı kullanılmalıdır ve hattın infüzyon sonunda 9 mg/mL (% 0,9) sodyum
+klorür enjeksiyonluk çözeltisi ile yıkanması gerekmektedir.
+Kullanılmamış olan ürünler ya da atık materyaller “Tıbbi Atıkların Kontrolü Yönetmeliği”
+ve “ Ambalaj Atıklarının Kontrolü Yönetmelik”’lerine uygun olarak imha edilmedir.
+7. RUHSAT SAHİBİ
+Lilly İlaç Ticaret Ltd Şti
+Acıbadem Mah. Çeçen Sokak
+Akasya Acıbadem Kent Etabı
+A Blok Kat: 3
+34660 Üsküdar / İstanbul
+Tel : 0 216 554 00 00
+Faks : 0 216 474 71 99
+8. RUHSAT NUMARASI (LARI)
+2017/158
+9. İLK RUHSAT TARİHİ / RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi: 29.03.2017
+Ruhsat yenileme tarihi:
+10. KÜB’ÜN YENİLENME TARİHİ
+22/22

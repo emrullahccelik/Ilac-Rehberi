@@ -1,0 +1,663 @@
+KISA ÜRÜN BİLGİSİ
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+PROLİA® 60 mg/ml SC enjeksiyonluk çözelti içeren kullanıma hazır enjektör.
+Steril
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde: Her bir kullanıma hazır enjektör 1 ml çözelti içinde 60 mg denosumab içerir
+(60 mg/ml).
+Denosumab, rekombinant DNA teknolojisi kullanılarak bir memeli hücre dizisinde
+(CHO-Çin Hamster Over hücresinden) üretilen bir insan monoklonal IgG2 antikorudur.
+Yardımcı madde(ler): Her 1 ml’lik çözelti, sodyum hidroksit (pH düzenleyici madde-
+sodyum içeriği, doz başına yaklaşık 0,013 mmol veya 0,3 mg'dır) ve 47 mg sorbitol (E420)
+içerir.
+Yardımcı maddelerin tam listesi için, bölüm 6.1’e bakınız.
+3. FARMASÖTİK FORM
+Enjeksiyonluk çözelti.
+Berrak, renksiz ile hafif sarı renk arası çözelti.
+4. KLİNİK ÖZELLİKLER
+4.1 Terapötik endikasyonlar
+Yüksek kırık riski olan postmenopozal osteoporozlu kadın ve erkek hastaların tedavisinde
+endikedir.
+Hormon ablasyonu uygulanmış olan nonmetastatik prostat kanserli veya meme kanseri
+nedeniyle adjuvan aromataz inhibitörü tedavisi gören yüksek kırık riskine sahip hastalardaki
+osteoporoz tedavisinde endikedir.
+Yüksek kırık riski olan yetişkin hastalarda uzun dönem glukokortikoid tedavisiyle ilişkili
+kemik kaybının tedavisinde endikedir (bkz. Bölüm 5.1).
+4.2 Pozoloji ve uygulama şekli
+Pozoloji/uygulama sıklığı ve süresi:
+PROLİA®’nın 6 ayda bir, tek doz halinde (60 mg) subkutan enjeksiyon olarak uyluğa, karın
+duvarına ya da üst kola uygulanması önerilmektedir.
+Hastalara yeterli kalsiyum ve D vitamini desteği verilmelidir (bkz. Bölüm 4.4).
+1Osteoporoz için antirezorptif tedavinin (denosumab ve bifosfonatlar dahil) optimal toplam
+süresi henüz belirlenmemiştir. Tedaviye devam etme ihtiyacı denosumabın bireysel hasta
+bazında yararları ve olası riskleri dikkate alınarak, özellikle 5 yıl veya daha uzun süreli
+kullanımdan sonra, periyodik olarak yeniden değerlendirilmelidir (bkz. Bölüm 4.4).
+Uygulama şekli:
+Uygulamanın enjeksiyon teknikleri konusunda yeterli eğitim almış biri tarafından yapılması
+gereklidir. Subkutan kullanıma yöneliktir.
+Kullanım, taşıma ve imha talimatları bölüm 6.6’da verilmiştir.
+Özel popülasyonlara ilişkin ek bilgiler:
+Böbrek yetmezliği:
+Böbrek yetmezliği olan hastalarda doz ayarlaması gerekli değildir (kalsiyumun izlenmesi ile
+ilgili tavsiyeler için bkz. Bölüm 4.4).
+Uzun dönem glukokortikoid tedavisi alan ve şiddetli böbrek yetmezliği (GFR < 30 ml/dak)
+bulunan hastalara ilişkin veri yoktur.
+Karaciğer yetmezliği:
+Denosumabın karaciğer yetmezliği bulunan hastalardaki güvenliliği ve etkililiği
+incelenmemiştir (bkz. Bölüm 5.2).
+Pediyatrik popülasyon:
+PROLİA®'nın pediyatrik hastalardaki güvenliliği ve etkililiği kanıtlanmadığı için bu
+hastalarda (18 yaşından küçük) kullanılması tavsiye edilmemektedir. Hayvan çalışmalarında
+RANK/RANK ligandının (RANKL) inhibisyonu, kemik büyümesinin inhibisyonuyla ve diş
+sürmesinde eksiklikle eşleştirilmiştir (bkz. Bölüm 5.3).
+Geriyatrik popülasyon:
+Yaşlı hastalarda doz ayarlaması gerekmemektedir.
+4.3 Kontrendikasyonlar
+- Hipokalsemi (bkz. Bölüm 4.4).
+- Etkin maddeye ya da bölüm 6.1’de listelenen yardımcı maddelerin herhangi birine karşı
+aşırı duyarlılık.
+4.4 Özel kullanım uyarıları ve önlemleri
+Kalsiyum ve D Vitamini Takviyesi
+Tüm hastalar için yeterli kalsiyum ve D vitamini alımı önemlidir.
+Hipokalsemi
+Hipokalsemi riski olan hastaların belirlenmesi önemlidir. Hipokalsemi tedaviye başlamadan
+önce yeterli kalsiyum ve D vitamini alımıyla düzeltilmelidir. Her dozdan önce ve
+hipokalsemiye yatkınlık gösteren hastalarda ilk dozdan sonraki iki hafta içinde kalsiyum
+seviyelerinin klinik olarak izlenmesi önerilmektedir. Tedavi sırasında herhangi bir hastada
+hipokalsemiden şüphelenilmesine neden olan semptomlar (semptomlar için bkz. Bölüm 4.8)
+2görülürse kalsiyum düzeyleri ölçülmelidir. Hastaların hipokalsemiyi işaret eden semptomları
+bildirmeleri teşvik edilmelidir.
+Pazarlama sonrası deneyimde şiddetli semptomatik hipokalsemi bildirilmiş olup (bkz.
+Bölüm 4.8 İstenmeyen etkiler) bu olguların çoğunluğu tedavinin ilk haftalarında görülmüştür
+ancak tedavinin ilerleyen dönemlerinde de görülebilir.
+Eşzamanlı glukokortikoid tedavisi, hipokalsemi için ilave bir risk faktörüdür.
+Böbrek Yetmezliği
+Şiddetli böbrek yetmezliği (kreatinin klerensi < 30 ml/dak) olan hastalarda veya diyaliz
+hastalarında hipokalsemi gelişme riski daha yüksektir. Böbrek yetmezliğinin derecesi arttıkça
+hipokalsemi gelişme riski ve beraberinde paratiroid hormonlarında yükselme riski artar.
+Yeterli düzeyde kalsiyum ve D vitamini alımı ile kalsiyum düzeylerinin düzenli olarak
+izlenmesi, bu hastalarda özellikle önemlidir (yukarıda “Hipokalsemi” bölümüne bakınız).
+Cilt Enfeksiyonları
+PROLİA® alan hastalarda hastaneye yatırılmaya yol açabilecek cilt enfeksiyonları (ağırlıklı
+olarak selülit) ortaya çıkabilir (bkz. Bölüm 4.8). Hastaların selülit belirtileri ve semptomları
+gelişmesi halinde hemen tıbbi kontrole gitmeleri tavsiye edilmelidir.
+Çene Osteonekrozu (ÇO)
+Osteoporoz için PROLİA® alan hastalarda ÇO ender olarak bildirilmiştir (bkz. Bölüm 4.8).
+Ağzında iyileşmemiş açık yumuşak doku lezyonları bulunan hastalarda tedaviye
+başlama/yeni tedavi kürü ertelenmelidir. Eşlik eden risk faktörleri olan hastalarda PROLİA®
+tedavisinden önce koruyucu diş hekimliği uygulamalarını içeren diş muayenesi ve bireysel
+fayda-risk değerlendirilmesinin yapılması önerilmektedir.
+Bir hastanın ÇO gelişme riski değerlendirilirken aşağıdaki risk faktörleri dikkate alınmalıdır:
+• Kemik rezorpsiyonunu inhibe eden tıbbi ürünün potensi (potensi yüksek bileşiklerde
+daha yüksek risk), uygulama yolu (parenteral uygulama için daha yüksek risk) ve
+kemik rezorpsiyon tedavisinin kümülatif dozu.
+• Kanser, eşlik eden hastalık durumu (örn. anemi, koagülopatiler, enfeksiyon), sigara
+kullanımı.
+• Eşzamanlı tedaviler: Kortikosteroidler, kemoterapi, anjiyojenez inhibitörleri, başa ve
+boyna uygulanan radyoterapi.
+• Ağız hijyeninin kötü olması, periodontal hastalıklar, uyum sorunu olan diş protezleri,
+önceden var olan dental hastalıklar, invazif dental prosedürler örn. diş çekimi.
+Tüm hastalara ağız hijyenine özen göstermeleri, rutin dental kontrollerini yaptırmaları ve
+PROLİA® ile tedavi sırasında dental mobilite, ağrı veya şişme ya da iyileşmeyen yaralar veya
+akıntı gibi herhangi bir oral semptom görüldüğü takdirde derhal bildirmeleri tavsiye
+edilmelidir. Tedavi sırasında, invazif dental prosedürler dikkatle değerlendirildikten sonra
+uygulanmalıdır ve invazif dental prosedürlerin PROLİA® uygulamasına yakın zamanda
+gerçekleştirilmesinden kaçınılmalıdır.
+ÇO gelişen hastalarda, tedavi yönetim planı; tedaviyi gerçekleştiren doktor ve ÇO konusunda
+uzman bir diş hekimi veya ağız cerrahı ile yakın işbirliği içerisinde yapılmalıdır. Durum
+3düzelene kadar ve mümkünse katkıda bulunan risk faktörleri hafifletilene dek PROLİA®
+tedavisinin geçici olarak durdurulması düşünülmelidir.
+Dış Kulak Kanalı Osteonekrozu
+Denosumab ile dış kulak kanalı osteonekrozu bildirilmiştir. Dış kulak kanalı osteonekrozuna
+ilişkin olası risk faktörleri arasında steroid kullanımı ve kemoterapi ve/veya enfeksiyon ya da
+travma gibi lokal risk faktörleri yer alır. Denosumab alan ve kronik kulak enfeksiyonlarının
+da aralarında olduğu kulak semptomları sergileyen hastalarda dış kulak kanalı osteonekrozu
+olasılığı düşünülmelidir.
+Atipik Femur Kırıkları
+PROLİA® kullanan hastalarda atipik femur kırıkları bildirilmiştir (bkz. Bölüm 4.8). Atipik
+femur kırıkları hafif travma ile veya travma yokluğunda femurun subtrokanterik ve diafizer
+bölgelerinde ortaya çıkabilir. Bu olaylar spesifik radyografik bulgularla karakterizedir. Atipik
+femur kırıkları belli birtakım ko-morbid hastalıkları (örn. D vitamini eksikliği, romatoid
+artrit, hipofosfatazya) olan hastalarda ve bazı farmasötik maddeleri (örn. bifosfonatlar,
+glukokortikoidler, proton pompası inhibitörleri) kullananlarda da bildirilmiştir. Bu olaylar
+antirezorptif tedavi yokluğunda da ortaya çıkabilir. Bifosfonatlarla ilişkili olarak bildirilen
+benzer kırıklar genellikle bilateraldir; bu nedenle, femoral şaft kırığı bulunan ve PROLİA®
+tedavisi alan hastalarda kontralateral femur da incelenmelidir. Atipik femur kırığından
+şüphelenilen hastalarda PROLİA® tedavisine ara verilmesiyle ilgili karar hastaya özgü
+bireysel fayda-risk değerlendirmesi temelinde değerlendirilmelidir. PROLİA® tedavisi
+sırasında hastalara baldır, kalça veya kasık bölgesindeki yeni veya anormal ağrılarını
+bildirmeleri önerilmelidir. Bu tip semptomları olan hastalar kısmi femur kırığı bakımından
+değerlendirilmelidir.
+PROLİA® Tedavisinin Kesilmesini Takiben Çoklu Vertebra Kırıkları
+PROLİA® tedavisinin kesilmesini takiben, çoklu vertebra kırıkları dahil olmak üzere kırık
+riski artar. PROLİA® tedavisi, kemik döngüsünün anlamlı derecede baskılanmasına yol açar
+ve PROLİA® tedavisinin sonlandırılması, son PROLİA® dozundan 9 ay sonra kemik
+döngüsünün tedavi öncesi değerlerin üzerine çıkmasına neden olur. Son PROLİA® dozundan
+24 ay sonra kemik döngüsü değerleri tedavi öncesi değerlere geri döner. Buna ek olarak, son
+enjeksiyon uygulandıktan sonra 18 ay içinde kemik mineral yoğunluğu tedavi öncesi
+değerlere geri döner. [Bkz. Farmakodinamik özellikler (5.1)]
+Son PROLİA® dozu uygulandıktan en erken 7 ay (ortalama 19 ay) sonra yeni vertebra
+kırıkları oluşmuştur. Daha önce oluşmuş bir vertebra kırığı, PROLİA® tedavisinin kesilmesini
+takiben çoklu vertebra kırıkları oluşacağının bir öngöstergesidir. PROLİA® tedavisine
+başlamadan önce kişinin fayda-risk durumunu değerlendiriniz.
+Eğer PROLİA® tedavisi kesilirse, hastalar alternatif bir antirezorptif tedaviye geçirilmelidir.
+[Bkz. İstenmeyen etkiler (4.8)]
+Uzun Dönem Antirezorptif Tedavi
+Uzun dönem antirezorptif tedavi (denosumab ve bifosfonatlar dahil) kemiğin yeniden
+yapılanmasındaki anlamlı baskılanma sebebiyle çene osteonekrozu ve atipik femur kırıkları
+gibi advers sonuçlara ilişkin riskin artmasına katkıda bulunabilir (bkz. Bölüm 4.2).
+4Kuru Doğal Kauçuk
+Kullanıma hazır enjektörün iğne başlığı alerjik reaksiyonlara yol açabilecek kuru, doğal
+kauçuk (bir lateks türevi) içerir.
+Denosumab İçeren Diğer Tıbbi Ürünlerle Eşzamanlı Tedavi
+PROLİA® tedavisi gören hastalara denosumab içeren diğer tıbbi ürünlerle eşzamanlı tedavi
+uygulanmamalıdır (solid tümörden kemik metastazı bulunan erişkinlerde iskeletle ilişkili
+olayların önlenmesi için).
+Yardımcı Maddelerle ilgili Uyarılar
+Bu tıbbi ürün, bir ml çözeltide 47 mg sorbitol içerir. Sorbitol (veya fruktoz) içeren ürünlerin
+eşzamanlı uygulanması ve sorbitolün (veya fruktozun) yiyecekler yoluyla alınması
+sonucunda oluşan ilave etki dikkate alınmalıdır.
+Bu tıbbi ürün her 60 mg’da 1 mmol (23 mg)’dan daha az sodyum ihtiva eder; yani aslında
+“sodyum içermez”.
+Biyoteknolojik ürünlerin takip edilebilirliğinin sağlanması için uygulanan ürünün ticari ismi
+ve seri numarası mutlaka hasta dosyasına kaydedilmelidir.
+4.5 Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+Bir etkileşim çalışmasında PROLİA® sitokrom P450 3A4 (CYP3A4) tarafından metabolize
+edilen midazolamın farmakokinetiğini etkilememiştir. Bu, PROLİA®’nın CYP3A4 tarafından
+metabolize edilen ilaçların farmakokinetiğini değiştirmemesi gerektiğini göstermektedir.
+Denosumabın ve hormon replasman tedavisinin (östrojen) birlikte uygulanmasına ilişkin
+herhangi bir klinik veri bulunmamaktadır ancak farmakodinamik etkileşim potansiyelinin
+düşük olduğu öngörülmektedir.
+Bir transisyon çalışmasının (alendronattan denosumaba) verilerine göre daha önce alendronat
+tedavisi uygulanmış olması osteoporozu olan postmenopozal kadınlarda denosumabın
+farmakokinetiğini ve farmakodinamiğini değiştirmemiştir.
+Özel popülasyonlara ilişkin ek bilgiler
+Pediyatrik popülasyon:
+Pediyatrik popülasyonda etkileşim çalışmaları yapılmamıştır.
+4.6 Gebelik ve laktasyon
+Genel tavsiye
+Gebelik kategorisi: C
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon)
+Kontrasepsiyon kullanmayan, çocuk doğurma potansiyeli bulunan kadınlarda PROLİA®
+kullanımı önerilmez. Kadınlara, PROLİA® tedavisi sırasında ve tedaviden sonra en az 5 ay
+boyunca hamile kalmamaları gerektiği bilgisi verilmelidir.
+5Gebelik dönemi
+Denosumabın gebe kadınlarda kullanımına ilişkin yeterli veri mevcut değildir. Hayvanlar
+üzerinde yapılan araştırmalar üreme toksisitesinin bulunduğunu göstermiştir (bkz.
+Bölüm 5.3). İnsanlara yönelik potansiyel risk bilinmemektedir.
+Gebelik sırasında PROLİA® kullanımı önerilmez. Gebelik ilerlerken monoklonal antikorlar
+plasentadan doğrusal şekilde geçtiği için, en büyük miktarda geçiş üçüncü trimester
+döneminde gerçekleşir ve bu nedenle gebeliğin ikinci ve üçüncü trimester dönemlerinde
+PROLİA®’nın tüm etkileri daha fazla olabilir.
+Laktasyon dönemi
+Denosumabın insan sütüne geçip geçmediği bilinmemektedir. RANKL'nin gen
+uzaklaştırılmasıyla kapatıldığı genetik mühendisliğiyle üretilen farelerde ("knockout fare")
+yapılan çalışmalar gebelik sırasında RANKL (denosumab hedefi bkz. Bölüm 5.1)
+yokluğunun meme bezinin olgunlaşmasını engelleyebileceğini ve buna bağlı olarak doğum
+sonrası laktasyona zarar verebileceğini öne sürmektedir (bkz. Bölüm 5.3). Emzirmenin
+durdurulup durdurulmayacağına ya da PROLİA® tedavisinin durdurulup
+durdurulmayacağına/tedaviden kaçınılıp kaçınılmayacağına ilişkin karar verilirken
+emzirmenin çocuk açısından faydası ve PROLİA® tedavisinin emziren anne açısından faydası
+dikkate alınmalıdır.
+Üreme yeteneği/Fertilite
+Denosumabın insan fertilitesine etkileri hakkında veri mevcut değildir. Hayvan çalışmaları,
+fertiliteyle ilgili doğrudan ya da dolaylı zararlı etkileri hakkında bir kanıt sunmamaktadır
+(bkz. Bölüm 5.3).
+4.7 Araç ve makine kullanımı üzerindeki etkiler
+PROLİA®'nın araç ve makine kullanımı üzerine önemli ölçüde bir etkisi yoktur.
+4.8 İstenmeyen etkiler
+Genel güvenlik profili özeti
+PROLİA®’nın en yaygın (on hastada birden fazla görülen) yan etkileri kas-iskelet ağrısı ve
+ekstremitelerde ağrıdır. PROLİA® kullanan hastalarda yaygın olmayan selülit olguları ile
+seyrek görülen hipokalsemi, aşırı duyarlılık, çene osteonekrozu ve atipik femur kırığı olguları
+gözlenmiştir (bkz. Bölüm 4.4 ve Bölüm 4.8 – seçilmiş advers reaksiyonların açıklamaları).
+Advers reaksiyonların tablo halinde listesi
+Aşağıda yer alan Tablo 1'deki veriler osteoporozlu hastaların ve hormon ablasyonu
+uygulanan meme veya prostat kanseri olan hastaların faz II ve faz III klinik araştırmalarında
+veya spontane olarak bildirilen advers etkileri tanımlamaktadır.
+Advers etkilerin sınıflandırılmasında aşağıdaki yöntem kullanılmıştır (bkz. tablo 1): Çok
+yaygın (≥ 1/10), yaygın (≥ 1/100 ila < 1/10), yaygın olmayan (≥ 1/1.000 ila < 1/100), seyrek
+(≥ 1/10.000 ila < 1/1.000), çok seyrek (< 1/10.000), bilinmiyor (eldeki verilerden hareketle
+tahmin edilemiyor). Advers reaksiyonlar her sıklık grubu ve sistem organ sınıfı için azalan
+ciddiyet sırasına göre sunulmuştur.
+6Tablo 1 Osteoporozu olan veya hormon ablasyonu uygulanan meme veya prostat
+kanserli hastalarda bildirilen advers etkiler
+MedDRA sistem organ sınıfı Sıklık kategorisi Advers etkiler
+Enfeksiyonlar ve enfestasyonlar Yaygın İdrar yolu enfeksiyonu
+Yaygın Üst solunum yolu enfeksiyonu
+Yaygın olmayan Divertikülit1
+Yaygın olmayan Selülit1
+Yaygın olmayan Kulak enfeksiyonu
+Bağışıklık sistemi hastalıkları Seyrek İlaç hipersensitivitesi1
+Seyrek Anafilaktik reaksiyon1
+Metabolizma ve beslenme Seyrek Hipokalsemi1
+hastalıkları
+Sinir sistemi hastalıkları Yaygın Siyatik
+Gastrointestinal hastalıklar Yaygın Kabızlık
+Yaygın Karın rahatsızlıkları
+Deri ve deri altı doku hastalıkları Yaygın Döküntü
+Yaygın Egzama
+Yaygın Alopesi
+Yaygın olmayan Likenoid ilaç erüpsiyonları1
+Çok seyrek Hipersensitivite vasküliti
+Kas-iskelet bozuklukları, bağ doku Çok yaygın Ekstremitelerde ağrı
+ve kemik hastalıkları Çok yaygın Kas-iskelet ağrısı1
+Seyrek Çene osteonekrozu1
+Seyrek Atipik femur kırıkları1
+Bilinmiyor Dış kulak kanalı osteonekrozu2
+1 Bkz. Bölüm - Seçilmiş advers reaksiyonların açıklamaları.
+2 Bölüm 4.4’e bakınız.
+Tüm faz II ve faz III plasebo kontrollü çalışma verilerinin toplu analizinde grip benzeri
+hastalık ham insidans oranı denosumab için %1,2 ve plasebo için %0,7 olarak bildirilmiştir.
+Bu eşitsizlik bir toplu analiz yoluyla tanımlanmış olsa da, bir katmanlı analiz yoluyla
+tanımlanmamıştır.
+Seçilmiş advers reaksiyonların açıklamaları
+Hipokalsemi
+Osteoporozu olan postmenopozal kadınlardaki faz III plasebo kontrollü iki klinik araştırmada
+hastaların yaklaşık %0,05'inde (4.050'de 2) PROLİA® uygulamasının ardından serum
+kalsiyum seviyelerinde düşüşler (1,88 mmol/l’den az) olmuştur. Faz III plasebo kontrollü iki
+klinik araştırmada hormon ablasyonu alan hastalarda ve osteoporozlu erkeklerin yer aldığı
+faz III plasebo kontrollü klinik çalışmada serum kalsiyum seviyesi azalmaları
+(1,88 mmol/l’den düşük) bildirilmemiştir.
+Pazarlama sonrası deneyimde çoğunlukla PROLİA® alan hipokalsemi riski yüksek olan
+hastalarda seyrek olarak şiddetli semptomatik hipokalsemi vakaları bildirilmiş olup olguların
+büyük bir kısmı tedavinin ilk haftalarında meydana gelmiştir. Örnek olarak şiddetli
+semptomatik hipokalseminin klinik belirtileri arasında QT aralığında uzama, tetani, nöbet ve
+mental durumda değişiklik yer almıştır (bkz. Bölüm 4.4). Denosumab ile yapılan klinik
+7çalışmalardaki hipokalsemi semptomları ise parestezi veya kas sertliği, tik, spazm ve kas
+krampları olmuştur.
+Cilt enfeksiyonları
+Faz III plasebo kontrollü klinik araştırmalarda cilt enfeksiyonlarının genel insidansı
+osteoporozu olan postmenopozal kadınların plasebo ve PROLİA® gruplarında (plasebo
+[%1,2, 4.041'de 50] ve PROLİA® [%1,5, 4.050'de 59]),; osteoporozlu erkeklerde
+(plasebo[%0,8, 1’de 120] ve PROLİA® [%0, 0’da 120], hormon ablasyonu alan meme veya
+prostat kanserli hastalarda (plasebo [%1,7, 845'te 14] ve PROLİA® [%1,4, 860'ta 12]) benzer
+olmuştur. Hastaneye yatırmaya yol açan cilt enfeksiyonları osteoporozu olan postmenopozal
+kadınların plasebo verilenlerinde %0,1 (4.041'de 3), PROLİA® alanlarında %0,4 (4.050'de
+16) olarak rapor edilmiştir. Vakalar ağırlıklı olarak selülit olmuştur. Meme ve prostat kanseri
+çalışmalarında, ciddi olarak rapor edilen cilt enfeksiyonlarının oranı plasebo (%0,6, 845'te 5)
+ve PROLİA® (%0,6, 860'ta 5) gruplarında benzer olmuştur.
+Çene osteonekrozu (ÇO)
+Toplamda 23.148 hastayı içeren osteoporozlu ve hormon ablasyonu alan meme veya prostat
+kanserli hastalarda yürütülen klinik araştırmalarda ÇO seyrek olarak, 16 hastada,
+bildirilmiştir (bkz. Bölüm 4.4). Bu ÇO vakalarının on üçü osteoporozu olan menopoz sonrası
+kadınlarda faz III klinik araştırmanın uzatmasında 10 yıla kadar uygulanan PROLİA®
+tedavisinin ardından meydana gelmiştir. PROLİA® tedavisiyle ÇO insidansının 3 yılda
+%0,04, 5 yılda %0,06 ve 10 yılda %0,44 olduğu belirlenmiştir. ÇO riski PROLİA®
+maruziyetinin süresiyle birlikte artmıştır.
+Atipik femur kırıkları
+Osteoporoz klinik araştırma programında, PROLİA® kullanan hastalarda seyrek olarak atipik
+femur kırıkları bildirilmiştir (bkz. Bölüm 4.4).
+PROLİA® Tedavisinin Kesilmesini Takiben Çoklu Vertebra Kırıkları (MVF)
+Osteoporoz klinik araştırma programında, PROLİA® tedavisinin kesilmesini takiben çoklu
+vertebra kırıkları bildirilmiştir. Postmenopozal osteoporozlu kadınlarla yapılan faz 3
+araştırmada, PROLİA® tedavisini bırakan ve çalışmaya katılımı devam eden kadınların
+%6'sında yeni vertebra kırıkları oluşmuştur. PROLİA® tedavisini bırakan ve çalışmaya
+katılımı devam eden kadınların %3'ünde ise yeni çoklu vertebra kırıkları oluşmuştur. Son
+PROLİA® enjeksiyonunun uygulanmasını takiben, çoklu vertebra kırıkları oluşumunun
+başlangıcı arasındaki süre ortalama 17 aydır (aralık: 7-43 ay). Daha önce oluşmuş bir vertebra
+kırığı, tedavinin bırakılmasını takiben çoklu vertebra kırıkları oluşacağının bir
+öngöstergesidir [bkz. Özel kullanım uyarıları ve önlemleri (4.4)]
+Onay sonrası PROLİA® kullanımı sırasında, PROLİA® tedavisinin kesilmesini takiben çoklu
+vertebra kırıkları tanımlanmıştır.
+Divertikülit
+Androjen deprivasyonu tedavisi (ADT) alan prostat kanserli hastalardaki tek faz III plasebo
+kontrollü klinik araştırmada, divertikülit advers olaylarında bir dengesizlik gözlenmiştir
+(%1,2 denosumab, %0 plasebo). Osteoporozu olan postmenopozal kadınlardaki veya
+erkeklerdeki ve aromataz inhibitörü tedavisi uygulanan metastatik olmayan meme kanserli
+kadınlardaki tedavi gruplarında görülen divertikülit insidansı karşılaştırılabilir olmuştur.
+8İlaçla ilişkili aşırı duyarlılık reaksiyonları
+Pazarlama sonrasında PROLİA® alan hastalarda döküntü, ürtiker, yüzde şişme, eritem ve
+anafilaktik reaksiyonları içeren, ilaçla ilgili seyrek aşırı duyarlılık reaksiyonları bildirilmiştir.
+Kas-iskelet ağrısı
+Pazarlama sonrasında PROLİA® alan hastalarda şiddetli olgular dahil kas-iskelet ağrısı
+bildirilmiştir. Klinik çalışmalarda kas-iskelet ağrısı, hem denosumab hem de plasebo
+gruplarında çok yaygın olmuştur. Çalışma tedavisinin bırakılmasına yol açan kas-iskelet
+ağrısının yaygın olmadığı görülmüştür.
+Likenoid ilaç erüpsiyonları
+Pazarlama sonrasında likenoid ilaç erüpsiyonları (örneğin, liken planus benzeri reaksiyonlar)
+gözlenmiştir.
+Özel popülasyonlara ilişkin ek bilgiler:
+Böbrek yetmezliği:
+Şiddetli böbrek yetmezliği (kreatinin klerensi < 30 ml/dakika) bulunan ya da diyaliz alan
+hastalarla yapılan bir klinik çalışmada kalsiyum takviyesi olmaması durumunda, hipokalsemi
+gelişimi riskinin daha fazla olduğu görülmüştür. Şiddetli böbrek yetmezliği olan veya diyaliz
+uygulanan hastalarda yeterli kalsiyum ve D vitamini alımı önemlidir. (bkz. Bölüm 4.4).
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir (www.titck.gov.tr;
+e-posta: tufam@titck.gov.tr; tel: 0 800 314 00 08; faks: 0 312 218 35 99).
+4.9 Doz aşımı ve tedavisi
+Klinik çalışmalarda doz aşımıyla ilgili bir deneyim yoktur. Klinik çalışmalarda 4 haftada bir
+180 mg'a kadar dozlarda (kümülatif doz 6 ayda 1.080 mg'a kadar ulaşmıştır) denosumab
+uygulanmış ve herhangi bir ek advers reaksiyon görülmemiştir.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1 Farmakodinamik özellikler
+Farmakoterapötik grup: Kemik hastalıklarının tedavisinde kullanılan ilaçlar - Kemik yapısı ve
+mineralizasyonunu etkileyen diğer ilaçlar.
+ATC kodu: M05BX04.
+Etki mekanizması
+Denosumab; RANKL'yi hedefleyen ve yüksek afiniteyle ve spesifiklikle bağlanarak
+osteoklast öncüllerinin ve osteoklastların yüzeyinde, reseptörü olan RANK aktivasyonunu
+engelleyen bir insan monoklonal antikorudur (IgG2). RANKL/RANK etkileşiminin
+önlenmesi osteoklast oluşumunu, fonksiyonunu ve sağkalımını inhibe eder ve böylece
+kortikal ve trabeküler kemikte rezorpsiyonu azaltır.
+9Farmakodinamik etkiler
+PROLİA® tedavisi kemik döngüsü hızını hemen azaltarak 3 günde kemik rezorpsiyonu
+göstergesi serum tip 1 C-telopeptidleri (CTX) en alt noktaya (%85 azalma) indirmiştir,
+azalmalar dozlama süresince korunmuştur. Her dozlama aralığının sonunda, CTX
+azalmalarında ≥ %87'lik maksimal azalmadan yaklaşık ≥ %45 (%45-80 aralığı) azalmaya
+kadar kısmi zayıflamalar görülmüş ve bu durum serum seviyeleri düştüğünde PROLİA®'nın
+kemik yeniden modellenmesi üzerindeki etkilerinin tersine çevrilebilirliğini yansıtmıştır. Bu
+etkiler devam eden tedavide sürmüştür. Kemik döngüsü göstergeleri son dozdan sonraki 9 ay
+içerisinde genellikle tedavi öncesi seviyelere ulaşmıştır. Yeniden başlamayla birlikte
+denosumabla CTX azalmaları primer denosumab tedavisine başlayan hastalarda görülenlerle
+benzer olmuştur.
+İmmünojenisite
+Klinik çalışmalarda PROLİA® için nötralize edici antikorlar gözlemlenmemiştir. Hassas bir
+immünolojik miktar tayini kullanılarak yapılan testlerde, 5 yıla kadar sürelerle denosumab
+tedavisi verilen hastaların %1’inden azı nötralize edici olmayan bağlayıcı antikorlar
+bakımından pozitif bulunmuş ve bunlarda farmakokinetik, toksisite ya da klinik yanıt
+bakımından bir farklılık kanıtına rastlanmamıştır.
+Postmenopozal osteoporozlu kadınlarda klinik etkililik ve güvenlilik
+Bel omurgası veya tüm kalça başlangıç kemik mineral yoğunluğu (KMY) T-skorları −2,5 ile
+−4 olan ve 10 yıllık ortalama mutlak kırık olasılığı majör osteoporotik kırık için %18,6 (desil:
+%7,9-32,4) ve kalça kırığı için %7,22 (desil: %1,4-14,9.) olan postmenopozal kadınlarda
+(%23,6'sında prevalan vertebra kırığı olan 60-91 yaş arası 7.808 kadın), 3 yıl süreyle her
+6 ayda bir uygulanan PROLİA®'nın etkililiği ve güvenliliği araştırılmıştır. Başka hastalıkları
+olan veya kemiği etkileyebilecek diğer tedaviler uygulanan kadınlar çalışmadan hariç
+tutulmuştur. Kadınlar günlük kalsiyum (en az 1.000 mg) ve D vitamini (en az 400 IU)
+takviyesi almıştır.
+Vertebra kırıkları üzerindeki etki
+PROLİA® 1., 2. ve 3. yıllarda yeni vertebra kırığı riskini anlamlı ölçüde düşürmüştür
+(p < 0,0001) (bkz. tablo 2).
+Tablo 2 PROLİA®'nın yeni vertebra kırığı riski üzerindeki etkisi
+Kırığı olan kadınların oranı (%) Mutlak risk Rölatif risk
+Plasebo PROLİA® azalması (%) azalması (%)
+N = 3.906 N = 3.902 (%95 GA) (%95 GA)
+0-1 yıl 2,2 0,9 1,4 (0,8, 1,9) 61 (42, 74)**
+0-2 yıl 5 1,4 3,5 (2,7, 4,3) 71 (61, 79)**
+0-3 yıl 7,2 2,3 4,8 (3,9, 5,8) 68 (59, 74)*
+*p < 0,0001, **p < 0,0001 – araştırma analizi
+Kalça kırıkları üzerindeki etki
+PROLİA®, 3 yılda kalça kırığı riskinde %40 rölatif azalma (%0,5 mutlak risk azalması)
+sergilemiştir (p < 0,05). 3 yılda, kalça kırığı insidansı plasebo grubunda %1,2'ye karşı
+PROLİA® grubunda %0,7 olmuştur.
+75 yaş üzerindeki kadınlarda yapılan bir post-hoc analizde PROLİA® ile %62 rölatif risk
+azalması (%1,4 mutlak risk azalması, p < 0,01) gözlenmiştir.
+10Tüm klinik kırıklar üzerindeki etki
+PROLİA® tüm kırık tiplerinde/gruplarında kırıkları anlamlı ölçüde azaltmıştır (bkz. tablo 3).
+Tablo 3 PROLİA®'nın 3 yılda klinik kırık riski üzerindeki etkisi
+Kırığı olan kadınların oranı Mutlak risk Rölatif risk
+(%)+ azalması (%) azalması (%)
+Plasebo PROLİA® (%95 GA) (%95 GA)
+N = 3.906 N = 3.902
+Tüm klinik kırıklar1 10,2 7,2 2,9 (1,6, 4,2) 30 (19, 41)***
+Klinik vertebra kırığı 2,6 0,8 1,8 (1,2, 2,4) 69 (53, 80)***
+Vertebra dışı kırık2 8 6,5 1,5 (0,3, 2,7) 20 (5, 33)**
+Majör vertebra dışı kırık3 6,4 5,2 1,2 (0,1, 2,2) 20 (3, 34)*
+Majör osteoporotik kırık4 8 5,3 2,7 (1,6, 3,9) 35 (22, 45)***
+*p ≤ 0,05; **p = 0,0106 (sekonder sonlanım noktası multiplisite ayarlamasını içermiştir), ***p ≤ 0,0001
++ 3 yıllık Kaplan-Meier tahminlerine dayanan olay oranları.
+(1) Klinik vertebra ve vertebra dışı kırıkları içerir.
+(2) Omurga, kafatası, yüz, altçene, metakarpus ve parmak ve ayak parmağı falanksı içermez.
+(3) Pelvis, distal femur, proksimal tibya, kaburga, proksimal humerus, ön kol ve kalçayı içerir.
+(4) WHO tarafından tanımlandığı gibi klinik vertebra, kalça, ön kol ve humerus kırıklarını içerir.
+Başlangıç femoral boyun KMY'si ≤ -2,5 olan kadınlarda PROLİA® vertebra dışı kırık riskini
+azaltmıştır (%35 rölatif risk azalması, %4,1 mutlak risk azalması, p < 0,001, araştırma
+analizi).
+PROLİA® ile 3 yılda yeni vertebra kırığının, kalça kırıklarının ve vertebra dışı kırıkların
+insidansındaki azalma başlangıç dönemindeki 10 yıllık kırık riskinden bağımsız olarak tutarlı
+olmuştur.
+Kemik mineral yoğunluğu üzerindeki etki
+PROLİA® 1, 2 ve 3 yılda ölçüm yapılan tüm klinik bölgelerde KMY'yi plaseboya kıyasla
+anlamlı ölçüde artırmıştır. PROLİA® 3 yılda KMY'yi bel omurgasında %9,2, tüm kalçada
+%6, femur boynunda %4,8, kalça trokanterinde %7,9, distal 1/3 radiusta %3,5 ve tüm vücutta
+%4,1 arttırmıştır (tüm p'ler < 0,0001).
+PROLİA® tedavisinin kesilmesinin etkilerini araştıran klinik çalışmalarda KMY yaklaşık
+tedavi öncesi seviyelere dönmüş ve son dozdan 18 ay sonraya kadar plasebonun üzerinde
+kalmıştır. Veriler tıbbi ürünün etkisini sürdürmesi için PROLİA® ile sürekli tedavinin gerekli
+olduğunu göstermektedir. PROLİA® ile yeniden tedaviye başlama KMY’de PROLİA® ilk
+uygulandığında görülene benzer kazanımlar sağlamıştır.
+Postmenopozal osteoporoz tedavisinde açık etiketli uzatma çalışması
+Yukarıda tanımlanan pivotal çalışmada yer alan, araştırma ürününün bir dozundan fazlasını
+atlamamış ve 36 aylık vizitlerini tamamlamış toplam 4.550 kadın (2.343 PROLİA® ve
+2.207 plasebo) PROLİA®'nın uzun süreli etkililiğini ve güvenliliğini değerlendiren 7 yıllık,
+çok uluslu, çok merkezli, açık etiketli ve tek kollu bir uzatma çalışmasına katılmayı kabul
+etmiştir. Uzatma çalışmasındaki tüm kadınların 6 ayda bir 60 mg PROLİA® ve ayrıca günlük
+olarak kalsiyum (en az 1 g) ve D vitamini (en az 400 IU) almıştır. Toplam 2.626 gönüllü
+(uzatma çalışmasına dahil edilen kadınların %58'i, yani pivotal çalışmaya dahil edilen
+kadınların %34'ü) uzatma çalışmasını tamamlamıştır.
+1110 yıla kadar PROLİA® ile tedavi edilen hastalarda KMY pivotal çalışmanın başlangıcına
+göre bel omurgada %21,7, total kalçada %9,2, femur boynunda %9, trokanterde %13 ve
+distal 1/3 radiusta %2,8 artmıştır. Çalışma sonunda, 10 yıl tedavi alan hastalarda ortalama
+lomber vertebra KMY T skorunun −1,3 olduğu saptanmıştır.
+Kırık insidansı bir güvenlilik sonlanım noktası olarak değerlendirilmiş ancak tedaviyi
+bırakanların sayısı yüksek olduğu için ve açık etiketli tasarımdan dolayı kırıkların önlenmesi
+bakımından etkililik belirlenememiştir. Denosumab tedavisine 10 yıl devam eden hastalarda
+(n = 1.278) yeni vertebra kırıkları ile vertebra dışı kırıkların kümülatif insidansı sırasıyla
+%6,8 ve %13,1 olarak kaydedilmiştir. Çalışmayı herhangi bir nedenle tamamlamayan
+hastalarda tedavi sırasındaki kırık oranlarının daha yüksek olduğu görülmüştür.
+Uzatma çalışması sırasında on üç çene osteonekrozu (ÇO) tanısı koyulmuş olgu ve iki atipik
+femur kırığı tanısı koyulmuş olgu meydana gelmiştir.
+Osteoporozlu erkeklerde klinik etkililik ve güvenlilik
+Bir yıl süreyle 6 ayda bir uygulanan PROLİA®’nın etkililik ve güvenliliği, 31-84 yaş
+grubundaki 242 erkekte değerlendirilmiştir. Çalışmaya eGFR < 30 ml/dak/1,73 m2 olan
+hastalar dahil edilmemiştir. Tüm erkeklere günlük kalsiyum (en az 1.000 mg) ve D vitamini
+(en az 800 IU) takviyesi verilmiştir.
+Primer etkililik değişkeni olarak lomber vertebra KMY’deki yüzde değişiklik
+değerlendirilmiş, kırık bakımından etkililik değerlendirilmemiştir. PROLİA® 12. ayda ölçüm
+yapılan tüm klinik bölgelerde KMY’yi plaseboya kıyasla anlamlı derecede artırmıştır: lomber
+vertebrada %4,8, total kalçada %2, femur boynunda %2,2, kalça trokanterinde %2,3 ve distal
+1/3 radiusta %0,9 (tümü için p <0,05). PROLİA® erkeklerin %94,7’sinde 1. yıldaki lomber
+vertebra KMY değerini başlangıca göre arttırmıştır. Altıncı ay itibarıyla lomber vertebra,
+total kalça, femur boynu ve kalça trokanterinde KMY bakımından anlamlı artışlar
+gözlenmiştir (p <0,0001).
+Osteoporozlu erkeklerde ve postmenopozal kadınlardaki kemik histolojisi
+Önceden osteoporoz tedavisi görmemiş veya 1-3 yıl PROLİA® tedavisinden sonra alendronat
+tedavisinden geçen, osteoporozlu ve düşük kemik kütlesi olan 62 postmenopozal kadında
+kemik histolojisi değerlendirilmiştir. Osteoporozlu postmenopozal kadınlarda yapılan uzatma
+çalışmasının 24. ayında (n = 41) ve/veya 84. ayında (n = 22) kemik biyopsisi alt çalışmasına
+59 kadın katılmıştır. PROLİA® ile bir yıllık tedavi sonrası osteoporozlu 17 erkekte kemik
+histolojisi de değerlendirildi. Kemik biyopsisi sonuçlarında herhangi bir mineralizasyon
+kusuru, örgü kemik veya kemik iliği fibrozu kanıtı olmaksızın normal kemik yapısı ve
+kalitesi ortaya konulmuştur. Osteoporozlu postmenopozal kadınlarda yapılan uzatma
+çalışmasında histomorfometri bulguları, aktivasyon sıklığı ve kemik oluşum hızlarıyla
+ölçülen PROLİA®'nın antirezorptif etkilerinin zaman içinde korunduğunu göstermiştir.
+Androjen deprivasyonuyla ilişkili kemik kaybı görülen hastalarda klinik etkililik ve
+güvenlilik
+3 yıl süreyle 6 ayda bir uygulanan PROLİA®'nın etkililiği ve güvenliliği kırık riski artmış
+(> 70 yaşında veya bel omurgasında, tüm kalça veya femur boynunda KMY T-skoru < -1olan
+veya osteoporotik kırık geçmişi olan < 70 yaşında olarak tanımlanmıştır) olan ve metastatik
+olmayan prostat kanseri histolojik olarak doğrulanmış, ADT alan erkeklerde (48-97 yaş arası
+121.468 erkek) araştırılmıştır. Tüm erkekler günlük kalsiyum (en az 1.000 mg) ve D vitamini
+(en az 400 IU) takviyesi almıştır.
+PROLİA® 3 yılda KMY'yi bel omurgasında %7,9, tüm kalçada %5,7, femur boynunda %4,9,
+kalça trokanterinde %6,9, distal 1/3 radiusta %6,9 ve tüm vücutta %4,7 olmak üzere ölçülen
+tüm klinik bölgelerde anlamlı ölçüde arttırmıştır (tüm p'ler < 0,0001). İleriye dönük olarak
+planlanan bir araştırma analizinde bel omurgasında, toplam kalçada, femur boynunda ve
+kalça trokanterinde ilk dozdan 1 ay sonra anlamlı KMY artışları gözlenmiştir.
+PROLİA® yeni vertebra kırıkları için 1 yılda %85 (%1,6 mutlak risk azalması), 2 yılda %69
+(%2,2 mutlak risk azalması) ve 3 yılda %62 (%2,4 mutlak risk azalması ) olmak üzere
+anlamlı rölatif risk azalması sergilemiştir (tüm p'ler < 0,01).
+Adjuvan aromataz inhibitörü tedavisiyle ilişkili kemik kaybı görülen hastalarda etkililik ve
+güvenlilik
+Metastatik olmayan meme kanserli (35-84 yaş arasında 252 kadın) ve bel omurgasında, tüm
+kalça veya femur boynu başlangıç KMY T-skorları −1 ile −2,5 arasında olan kadınlarda 2 yıl
+süreyle 6 ayda bir uygulanan PROLİA®'nın etkililiği ve güvenliliği araştırılmıştır. Tüm
+kadınlar günlük kalsiyum (en az 1.000 mg) ve D vitamini (en az 400 IU) takviyesi almıştır.
+Primer etkililik değişkeni bel omurgasında KMY'sindeki yüzde değişim olmuş, kırık etkililiği
+değerlendirilmemiştir. PROLİA® 2 yılda KMY'yi bel omurgasında %7,6, tüm kalçada %4,7,
+femur boynunda %3,6, kalça trokanterinde %5,9, distal 1/3 radiusta %6,1 ve tüm vücutta
+%4,2 olmak üzere ölçülen tüm klinik bölgelerde anlamlı ölçüde arttırmıştır (tüm
+p'ler < 0,0001).
+Sistemik glukokortikoid tedavisiyle ilişkili kemik kaybının tedavisi
+PROLİA®’nın etkililik ve güvenliliği günde en az 7,5 mg oral prednizon (veya eşdeğeri) alan
+20-94 yaş grubundaki 795 hastada (%70 kadın ve %30 erkek) değerlendirilmiştir.
+İki alt popülasyon değerlendirilmiştir: glukokortikoid tedavisine devam edenler (çalışmaya
+alınmadan önce 3 ay veya daha uzun süredir günde en az 7,5 mg oral prednizon ya da
+eşdeğeri; n = 505) ve glukokortikoid tedavisine başlayanlar (çalışmaya alınmadan önce
+3 aydan kısa süredir günde en az 7,5 mg oral prednizon ya da eşdeğeri; n = 290). Hastalar
+2 yıl süresince 6 ayda bir subkütan yoldan 60 mg PROLİA® veya günde bir kez 5 mg
+risedronat (aktif kontrol) almak üzere (1:1) randomize edilmiştir. Hastalara günlük kalsiyum
+(en az 1.000 mg) ve D vitamini (en az 800 IU) takviyesi verilmiştir.
+Kemik Mineral Yoğunluğu (KMY) Üzerine Etki
+Glukokortikoid tedavisine devam eden alt popülasyonda, PROLİA® 1. yıl (PROLİA® %3,6,
+risedronat %2; p < 0,001) ve 2. yıl itibarıyla (PROLİA® %4,5, risedronat %2,2; p < 0.001)
+lomber vertebra KMY değerinde risedronata kıyasla daha fazla artış sağlamıştır.
+Glukokortikoid tedavisine başlayan alt popülasyonda, PROLİA® 1. yıl (PROLİA® %3,1,
+risedronat %0,8; p < 0,001) ve 2. yıl itibarıyla (PROLİA® %4,6, risedronat %1,5; p < 0.001)
+lomber vertebra KMY değerinde risedronata kıyasla daha fazla artışla ilişkilendirilmiştir.
+Ayrıca, risedronata kıyasla PROLİA® total kalça, femur boynu ve kalça trokanteri KMY
+değerleri bakımından başlangıca göre anlamlı derecede daha fazla ortalama yüzde artış
+sağlamıştır.
+13Bu çalışma kırıklarla ilgili farkın ortaya konması bakımından güçlendirilmemiştir. Birinci
+yılda, yeni radyolojik vertebra kırıklarına ilişkin hasta insidansı %2,7 (denosumab) ve %3,2
+(risedronat) olarak kaydedilmiştir. Vertebra dışı kırıklara ilişkin hasta insidansının %4,3
+(denosumab) ve %2,5 (risedronat) olduğu görülmüştür. İkinci yılda, bu rakamlara karşılık
+gelen oranlar yeni radyolojik vertebra kırıkları için %4,1 ve %5,8, vertebra dışı kırıklar için
+%5,3 ve %3,8 olarak kaydedilmiştir. Kırıkların çoğu glukokortikoid tedavisine devam eden
+alt popülasyonda ortaya çıkmıştır.
+5.2 Farmakokinetik özellikler
+Genel özellikler
+Emilim:
+Onaylı 60 mg dozuna yakın olan 1 mg/kg subkutan doz uygulamasının ardından EAA’ya
+(Eğri Altındaki Alan) dayalı maruziyet aynı doz seviyesinde intravenöz uygulamaya kıyasla
+%78 olmuştur. 60 mg subkutan doz için, maksimum serum denosumab konsantrasyonları
+(C ) olan 6 mikrogram/ml (1-17 mikrogram/ml aralığında) 10 günde (2-28 gün aralığında)
+maks
+görülmüştür.
+Dağılım:
+Her 6 ayda birden fazla 60 mg subkutan doz alımı ile denosumabın farmakokinetiğinde
+zamanla bir birikim veya değişim gözlenmemiştir.
+Biyotransformasyon:
+Denosumab yalnızca amino asitlerden ve doğal immünoglobulin halinde karbonhidratlardan
+oluşmuştur ve hepatik metabolik mekanizmalarla elimine edilmesi mümkün değildir.
+Metabolizması ve eliminasyonunun immünoglobulin klerensi yollarını takip etmesi ve küçük
+peptitlerle tekil amino asitlere bozunmayla sonuçlanması beklenmektedir.
+Eliminasyon:
+C sonrasında, serum seviyeleri 26 günlük (6-52 gün aralığında) yarılanma ömrüyle ve
+maks
+3 ay (1,5-4,5 ay aralığında) süreyle azalmıştır. Hastaların %53’ünde dozdan 6 ay sonra
+ölçülebilir miktarda denosumab olmadığı saptanmıştır.
+Denosumab farmakokinetiği denosumaba bağlanan antikorlar oluşmasından etkilenmemiş ve
+erkeklerle kadınlarda benzer olmuştur. Yaş (28-87 yaş), ırk ve hastalık durumunun (düşük
+kemik kütlesi veya osteoporoz; prostat veya meme kanseri) denosumab farmakokinetiğini
+anlamlı ölçüde etkilemediği görülmektedir.
+EAA ve C 'a dayalı olarak vücut ağırlığı artışıyla düşük maruziyet arasında bir eğilim
+maks
+gözlemlenmiştir. Bununla birlikte kemik döngüsü göstergelerini ve KMY artışlarını baz alan
+farmakodinamik etkiler geniş bir vücut ağırlığı aralığında tutarlı olduğundan eğilim klinik
+açıdan anlamlı olarak değerlendirilmemiştir.
+Doğrusallık/doğrusal olmayan durum:
+Doz aralığı çalışmalarında denosumab yüksek dozlarda veya konsantrasyonlardaki düşük
+klerensle doğrusal olmayan, doza bağlı farmakokinetik özellikler sergilemiş ancak 60 mg ve
+üzeri dozlarda yaklaşık olarak doz orantısal artışlar göstermiştir.
+14Hastalardaki karakteristik özellikler
+Böbrek yetmezliği:
+Farklı derecelerde böbrek işlevleri bulunan 55 hastayı kapsayan, diyaliz hastalarının da
+bulunduğu bir çalışmada böbrek yetmezliğinin denosumabın farmakokinetiğine bir etkisi
+olmadığı görülmüştür.
+Karaciğer yetmezliği:
+Karaciğer yetmezliği bulunan gönüllülerde özel bir çalışma yapılmamıştır. Genel olarak,
+monoklonal antikorlar hepatik metabolik mekanizmalarla elimine edilmezler. Denosumabın
+farmakokinetiğinin karaciğer yetmezliğinden etkilenmesi beklenmemektedir.
+Pediyatrik popülasyon:
+İlacın pediyatrik popülasyondaki farmakokinetik profili değerlendirilmemiştir.
+5.3 Klinik öncesi güvenlilik verileri
+Sinomolgus maymunlarıyla yapılan tek ya da tekrarlı doz toksisite çalışmalarında insanlar
+için tavsiye edilen dozun 100 ila 150 katı sistemik maruziyetle sonuçlanan denosumab
+dozlarının kardiyovasküler fizyolojiye ve erkek ya da dişi fertilitesine bir etkisi olmamış ve
+spesifik hedef organ toksisitesi yaratmamıştır.
+Denosumabın genotoksisite potansiyelini araştırmak için yapılan standart testler bu molekül
+için geçerli olmadıklarından dolayı değerlendirilmemiştir. Bununla birlikte denosumabın
+özelliklerinden dolayı bir genotoksisite potansiyeli bulunması çok mümkün değildir.
+Denosumabın karsinojenik potansiyeli uzun vadeli hayvan çalışmalarında
+değerlendirilmemiştir.
+RANK veya RANKL eksikliği olan knockout farelerinde yürütülen klinik öncesi
+çalışmalarda fetusta lenf nodu oluşumu bozukluğu gözlenmiştir. RANK veya RANKL
+eksikliği olan knockout farelerinde meme bezi matürasyonundan (gebelik sırasında
+lobulo-alveolar bez gelişimi) dolayı laktasyon eksikliği de gözlenmiştir.
+İlk üç aylık döneme eşdeğer periyotta insan dozunun (her 6 ayda bir 60 mg) 99 katına ulaşan
+EAA maruziyetlerine eşit denosumab dozu verilen sinomolgus maymunlarında yapılan bir
+çalışmada maternal veya fötal hasara ilişkin herhangi bir kanıt görülmemiştir. Bu çalışmada
+fötal lenf nodları araştırılmıştır.
+Gebelik boyunca insan dozunun (6 ayda bir 60 mg) 119 katı EAA maruziyeti seviyelerinde
+denosumab dozu uygulanan sinomolgus maymunlarıyla yapılan bir başka çalışmada ölü
+doğum ve postnatal mortalite oranlarında artış, düşük kemik gücüne neden olan anormal
+kemik büyümesi, düşük hematopoez ve diş yer değişimi, periferik lenf nodlarında eksiklik ve
+neonatal büyümede azalma görülmüştür. Üreme etkileri konusunda ‘hiç advers etki
+gözlemlenmemiştir’ seviyesi elde edilememiştir. Doğumdan sonraki 6 ayın ardından kemikle
+ilişkili değişimlerde düzelme görülmüştür ve diş sürmesinde bir etki ortaya çıkmamıştır.
+Bununla birlikte, lenf nodları ve diş yer değişimi üzerindeki etkiler devam etmiş ve bir
+hayvanda çeşitli dokularda minimal ila orta dereceli mineralizasyon görülmüştür (çalışmayla
+ilişkisi kesin değildir). Doğum öncesinde maternal zarara ilişkin bir kanıta rastlanmamıştır;
+15doğum sırasında sık olmayan advers maternal etkiler ortaya çıkmıştır. Maternal meme bezi
+gelişimi normal olmuştur.
+Uzun süreli denosumab tedavisi verilen maymunlarla yapılan klinik öncesi kemik kalitesi
+çalışmalarında kemik döngüsündeki azalmalar kemik gücünde ve normal kemik
+histolojisindeki iyileşmelerle ilişkilendirilmiştir. Denosumab verilen overektomili
+maymunlarda kalsiyum seviyeleri geçici olarak düşmüş ve paratiroid hormonu seviyeleri
+geçici olarak yükselmiştir.
+huRANKL’yi eksprese edecek şekilde genetik mühendisliğiyle üretilen ve transkortikal
+kırığa maruz bırakılan erkek farelerde (knock-in fareler), denosumab kartilajın alınmasını ve
+kırık kalusunun yeniden şekillenmesini kontrol grubuna kıyasla ertelemiş, ancak
+biyomekanik güç olumsuz şekilde etkilenmemiştir.
+RANK veya RANKL eksikliği olan knockout farelerinde (bkz. Bölüm 4.6) vücut ağırlığında
+azalma, kemik büyümesinde azalma ve diş sürmesinde eksiklik görülmüştür. Neonatal
+sıçanlarda Fc'ye (OPG-Fc) bağlı osteoprotegerin yapısının yüksek dozlarıyla RANKL
+inhibisyonu (denosumab tedavisinin hedefi) kemik büyümesi ve diş sürmesinde
+inhibisyonuyla ilişkilendirilmiştir. Bu değişiklikler RANKL inhibitörleri dozlamasının
+kesilmesiyle bu modelde kısmen tersine çevrilebilir olmuştur. Klinik maruziyetin 27 ila
+150 katı (10 ve 50 mg/kg doz) denosumab dozu verilen adolesan primatlarda anormal
+büyüme plakları görülmüştür. Bu nedenle denosumab tedavisi büyüme plakları açık olan
+çocuklarda kemik büyümesine zarar verebilir ve diş çıkarmayı engelleyebilir.
+6. FARMASÖTİK ÖZELLİKLER
+6.1 Yardımcı maddelerin listesi
+Asetik asit (saf)*
+Sodyum hidroksit (pH ayarlaması için)*
+Sorbitol (E420)
+Polisorbat 20
+Enjeksiyonluk su
+* Asetat tamponu, asetik asit ve sodyum hidroksit karıştırılarak hazırlanır
+6.2 Geçimsizlikler
+Geçimlilik çalışmaları bulunmadığından bu tıbbi ürün diğer tıbbi ürünlerle
+karıştırılmamalıdır.
+6.3 Raf ömrü
+36 ay.
+PROLİA®, orijinal kabında ve oda sıcaklığında (25°C’ye kadar) 30 güne kadar saklanabilir.
+PROLİA® buzdolabından çıkarıldığında 30 gün içinde kullanılmalıdır.
+6.4 Saklamaya yönelik özel tedbirler
+2°C-8°C arasında buzdolabında saklayınız.
+16Dondurmayınız.
+Kullanıma hazır enjektörü ışıktan korumak için orijinal ambalajında saklayınız.
+6.5 Ambalajın niteliği ve içeriği
+Tip I cam ve paslanmaz çelik 27 numara iğneden oluşan, iğne muhafazası ile birlikte tek
+kullanımlık kullanıma hazır enjektör içinde 1 ml çözelti.
+Kullanıma hazır enjektörün iğne başlığı alerjik reaksiyonlara yol açabilecek bir lateks türevi
+olan kuru doğal kauçuk içerir (bkz. Bölüm 4.4).
+Blisterli olarak sunulan bir adet kullanıma hazır enjektör (iğne koruma sistemli) içeren
+ambalaj.
+6.6 Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+PROLİA® çözeltisi, uygulanmadan önce görsel olarak kontrol edilmelidir. Çözelti partiküller
+içeriyorsa, bulanıksa ya da rengi değişmişse enjekte etmeyiniz. Çalkalamayınız. Enjeksiyon
+bölgesinde rahatsızlık oluşmasını önlemek için, enjekte etmeden önce kullanıma hazır
+enjektörü oda sıcaklığına (25°C’ye kadar) ısınmaya bırakınız ve yavaş yavaş enjekte ediniz.
+Kullanıma hazır enjektörün tüm içeriğini enjekte ediniz. Kullanıma hazır enjektörde kalan
+tüm tıbbi ürün içeriğini atınız.
+Kullanılmamış olan ürünler ya da atık materyaller ‘Tıbbi Atıkların Kontrolü Yönetmeliği’ ve
+‘Ambalaj ve Ambalaj Atıklarının Kontrolü Yönetmelikleri’ne uygun olarak imha edilmelidir.
+7. RUHSAT SAHİBİ
+Amgen İlaç Tic. Ltd. Şti.
+İş Kuleleri, Levent Mah., Meltem Sok.
+No: 10 Kule: 2 Kat: 25, 4. Levent, Beşiktaş,
+İstanbul
+8. RUHSAT NUMARASI(LARI)
+2022/446
+9. İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi: 12.08.2022
+Ruhsat yenileme tarihi:
+10. KÜB’ÜN YENİLENME TARİHİ
+17

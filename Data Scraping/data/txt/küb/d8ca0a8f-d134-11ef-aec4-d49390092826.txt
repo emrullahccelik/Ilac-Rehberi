@@ -1,0 +1,431 @@
+KISA ÜRÜN BİLGİSİ
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+GENOTROPİN MİNİQUİCK® S.C. enjeksiyonluk çözelti için toz ve çözücü içeren 2.4 IU
+(0.8 mg) tek doz enjektör
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde:
+Somatropin 0.8 mg (2.4 IU)
+Somatropin, rekombinant DNA teknolojisiyle Escherichia Coli hücrelerinde üretilmiştir.
+Yardımcı madde(ler):
+Sodyum dihidrojen fosfat susuz 0.050 mg
+Disodyum fosfat susuz 0.027 mg
+Mannitol 13.8 mg
+Yardımcı maddeler için 6.1’e bakınız.
+3. FARMASÖTİK FORM
+Enjeksiyonluk çözelti için toz ve çözücü içeren tek doz enjektör.
+İki kompartımanlı kartuşun ön kompartımanında beyaz toz ve arka kompartımanında berrak
+çözelti bulunmaktadır.
+4. KLİNİK ÖZELLİKLER
+4.1 Terapötik endikasyonlar
+ Büyüme hormonunun yetersiz salgılanmasına bağlı çocuklardaki büyüme bozukluklarında;
+büyüme hormonunun yetersizliği iki ayrı dinamik büyüme hormonu uyarı testi ile
+doğrulanarak;
+ Gonadal disgenezi (Turner Sendromu) ile birlikte bulunan büyüme bozukluklarında;
+ Kronik böbrek yetersizliği olan prepubertal çocuklardaki büyüme bozukluklarında;
+ SGA tedavisinde;
+ Doğum ağırlığı ve/veya uzunluğu -2 SD olan ve 4 yaşı ve sonrasında gerekli büyümeyi
+yakalayamamış (son 1 yılda yıllık boy kazanımı SDS<0)çocuklarda
+ Gestasyonel yaşına göre küçük doğmuş olan (SGA) kısa çocuklardaki büyüme
+bozukluklarında (uzunluk SDS<-2.5 ve ebeveyne uyarlanmış uzunluk SDS<-1);
+ Hipotalamus-hipofizer hastalığı saptanan hipofizer cerrahi-girişim geçirmiş, kraniyal
+radyoterapi görmüş veya çocuklukta başlamış büyüme hormonu
+yetmezliği olan erişkinler ile hipofizde adenomu olan hastalarda büyüme hormonu
+eksikliği varsa veya büyüme hormonu yetersizliğini düşündüren bulguların bulunması
+durumunda biyokimyasal tanı testleri ile büyüme hormonu eksikliği kesin olarak saptanan
+yetişkinlerde, özetle:
+1 Konjenital veya idiopatik hipofiz hastalıkları,
+ Hipotalamus hipofiz tümörleri ve tedavileri sonunda,
+ Kraniofarenjioma tedavisinden sonra,
+ Cerrahi girişim hasarlarında,
+ Sheehan sendromu ve vasküler sebeple gelişen iskemik sebepli büyüme hormonu
+yetersizlikleri, radyasyon, travma, kronik otoimmun, bakteriyel veya viral enflamasyonlar ile
+hemokromatozis ve amiloidoziste görülen hipofizer yetmezliklerde,
+ Septo-optik displazide
+meydana gelebilen aşikar büyüme hormonu eksikliğinin replasmanı için büyüme
+hormonu replasman tedavisi endikasyonu vardır.
+Yetişkinlerde büyüme hormonu eksikliği tanısı dikkatle konulmalıdır. Bunun için
+değerlendirmeye başlamadan önce diğer hormonlar yönünden hasta stabil olarak yeterli
+hormon replasman tedavisine alınmış olmalıdır. Büyüme hormonu yetersizliğinin tanısı için
+tanı testi; insülin tolerans testidir (ITT). Bu test deneyimli endokrinoloji ünitelerinde
+yapılmalıdır. ASKH ile ilgili EKG bulgusu veya hikayesi olanlarda, felçli hastalarda bu test
+kontrendikedir. 60 yaş üstünde hastalarda riskli olabileceğinden tercih edilmemelidir.
+Normal cevap pik büyüme hormonu değeri 5 mcg/l üstünde olmalıdır. Pik büyüme hormonu
+değerinin 3 mcg/l’nin altında olması ciddi büyüme hormonu yetersizliğini düşündürür. Bu
+değerler polikonal kompetetif RIA ile çalışılan büyüme hormonu metodları için geçerlidir.
+Alternatif testler arginin ve GHRH testlerinin kombine kullanılması veya tek başına arginin,
+glukagon veya L-Dopa testi olabilir. Ancak, tanı değerleri düşüktür. Hipotalamo-hipofizer
+hastalığı veya bir tane daha hipofiz hormonu eksikliği olanlarda, çocuk yaşta başlayan
+büyüme hormonu yetersizliği olanlarda bir provokatif test yeterlidir. Izole BHY (büyüme
+hormonu yetersizliği) tanısı için 2 test gereklidir. IGF-1 düzeyinin normal bulunması BHY’ni
+ekarte ettirmez. IGF-1 seviyeleri yaşa göre düzeltilmiş olmalıdır.
+4.2 Pozoloji ve uygulama şekli
+Pozoloji/uygulama sıklığı ve süresi
+Çocuklardaki büyüme hormonu salgılanma yetersizliğine bağlı büyüme bozukluğunda:
+Genellikle 0.025 – 0.035 mg/kg veya 0.7 –1.0 mg/m² önerilmektedir. Daha yüksek dozların
+da kullanıldığı olmuştur.
+Çocukluk çağı başlangıçlı BHY ergenlik çağında da devam ederse, tam somatik gelişim
+(örneğin vücut kompozisyonu, kemik kütlesi) elde edilinceye dek tedavi sürdürülmelidir.
+Takip için, geçiş döneminde T skoru > - 1 (cinsiyet ve etnik köken hesaba katılarak dual
+enerjili X-ışını absorpsiyometrisi ile ölçülen ortalama yetişkin pik kemik kütlesine
+standartlaştırılarak) olarak tanımlanan normal pik kemik kütlesine erişim terapötik
+hedeflerden bir tanesidir. Dozlama ile ilgili öneriler için aşağıdaki yetişkinler bölümüne
+bakınız.
+Turner Sendromuna bağlı büyüme bozukluğu: 0.045–0.050 mg/kg veya 1.4 mg/m² veya
+önerilir.
+Kronik böbrek yetmezliğine bağlı büyüme bozukluğu: 0.045–0.050 mg/kg (1.4 mg/m²)
+önerilir. Büyüme hızı çok düşükse daha yüksek dozlar gerekebilir. 6 aylık tedavi sonrasında
+dozun yeniden düzenlenmesi gerekebilir.
+2Gestasyonel yaşa göre küçük doğmuş (SGA) olan kısa boylu çocukların büyüme
+bozukluklarında: Final uzunluğa erişinceye kadar genellikle vücut ağırlığına göre günlük
+0.035 mg/kg (1.0 mg/m²) önerilmektedir. Tedavinin ilk yılından sonra uzama hızı +1
+(SDS)’in altında ise tedavi bırakılmalıdır. Uzama hızı <2 cm/yıl ise tedavi bırakılmalıdır.
+Bununla ilgili bir onaya ihtiyaç duyuluyorsa; epifizyel büyüme plaklarının kapanmasına bağlı
+olarak kemik yaşı >14 yaş(kızlar için) veya >16 yaş (erkekler için)’ dır.
+Pediyatrik hastalarda doz önerileri
+Endikasyon mg/kg vücut ağırlığına göre mg/m² vücut yüzey alanına
+günlük doz göre günlük doz
+Çocuklarda büyüme 0.025 - 0.035 0.7 - 1.0
+hormonu eksikliği
+Turner sendromu 0.045 - 0.050 1.4
+Kronik böbrek yetmezliği 0.045 - 0.050 1.4
+Gestasyonel yaşına göre 0.035 1.0
+küçük doğan çocuklar
+Yetişkinlerdeki büyüme hormonu eksikliği: Çocukluk çağı BHY sonrasında büyüme hormonu
+tedavisine devam eden hastalarda önerilen yeniden başlangıç dozu 0.2-0.5 mg/gün’ dür. Doz,
+IGF-I konsantrasyonuyla belirlenen bireysel hasta ihtiyaçlarına göre aşamalı olarak artırılmalı
+veya azaltılmalıdır.
+Yetişkin başlangıçlı BHY olan hastalarda tedavi düşük doz (0.15-0.3 mg/gün) ile
+başlamalıdır. Doz, IGF-I konsantrasyonuyla belirlenen bireysel hasta ihtiyaçlarına göre
+aşamalı olarak artırılmalıdır.
+Her iki durumda da tedavi hedefi, IGF-I konsantrasyonlarının yaşa göre düzeltilmiş
+ortalamanın 2 SDS içinde olmasıdır. Tedavinin başlangıcında normal IGF-I konsantrasyonları
+olan hastalar 2 SDS’i aşmayacak şekilde normalin üst sınırında IGF-I seviyesine dek büyüme
+hormonu almalıdır. Klinik yanıt ve yan etkiler de doz titrasyonu için yönlendiricidir. İyi bir
+klinik yanıta rağmen, IGF-I seviyeleri normalleşemeyen ve doz artırımına gerek duyulmayan
+BHY hastaları olduğu bilinmektedir. İdame dozu nadiren günde 1.0 mg’ı aşmaktadır.
+Erkeklerin IGF-I duyarlılığının zamanla arttığı göz önünde bulundurulursa, kadınlara daha
+yüksek doz gerekebilir. Yani kadınlarda; özellikle oral östrojen replasmanı alanlarda, yetersiz
+tedavi riski varken; erkeklerde aşırı tedavi riski vardır. Bu nedenle büyüme hormonu dozunun
+kesinliği altı ayda bir kontrol edilmelidir. Normal fizyolojik büyüme hormonu üretimi yaşla
+beraber azaldıkça, doz gereksinimleri de azalmaktadır. Altmış yaş üzeri hastalarda tedaviye
+günde 0.1 - 0.2 mg dozla başlanmalı ve bireysel gereksinimlere göre yavaşça artırılmalıdır.
+Minimum etkili doz kullanılmalıdır. Bu hastalardaki idame dozu nadiren günde 0.5 mg’ı
+aşmaktadır.
+Uygulama şekli
+Dozlama ve uygulama sıklığı bireyselleştirilmelidir.
+Enjeksiyonlar subkütan enjeksiyon şeklinde ve lipoatrofi gelişmesini önleyebilmek için her
+seferinde yeri değiştirilerek uygulanır.
+3Özel popülasyonlara ilişkin ek bilgiler:
+Böbrek/Karaciğer yetmezliği:
+Kronik böbrek yetmezliğinde, tedavi başlamadan önce renal fonksiyon yüzde 50’nin altında
+olmalıdır. Büyüme bozukluğunu doğrulamak için tedaviden önceki yıl boyunca büyüme
+değerlendirilmelidir. Bu dönemde böbrek yetmezliği için konservatif tedavi verilmeli (asidoz
+kontrolü, hiperparatiroidizm ve beslenme durumunun kontrolü) ve tedavi boyunca idame
+edilmelidir. Böbrek nakli sırasında tedavi kesilmelidir.
+Bugüne kadar GENOTROPİN MİNİQUİCK ile tedavi edilen kronik böbrek yetmezliği olan
+hastaların nihai boyu ile ilgili veriler bulunmamaktadır.
+Karaciğer yetmezliğine ilişkin mevcut veri bulunmamaktadır.
+Pediatrik popülasyon:
+Pediatrik kullanım ile ilgili bilgi üstte verilmiştir.
+Geriyatrik popülasyon:
+80 yaş üstündeki hastalarda yeterli deneyim yoktur. Yaşlı hastalar GENOTROPİN
+MİNİQUİCK’ in etkilerine karşı daha hassas olabilir ve dolayısıyla advers reaksiyon
+gelişimine daha eğilimli olabilirler.
+4.3 Kontrendikasyonlar
+Etkin madde veya yardımcı maddelerden herhangi birine karşı aşırı duyarlılık durumunda
+kullanılmamalıdır.
+Somatropin, tümör aktivitesini gösteren herhangi bir bulgunun bulunması durumunda
+kullanılmamalıdır. Büyüme hormonu tedavisine başlanmadan önce intrakraniyal tümörler
+inaktif olmalı ve antitümör tedavi tamamlanmış olmalıdır. Tümör büyümesine ilişkin kanıt
+olması halinde tedavi sonlandırılmalıdır.
+GENOTROPİN MİNİQUİCK epifizleri kapanmış çocuklarda büyümenin uyarılması için
+kullanılmamalıdır.
+Açık kalp ameliyatı, abdominal cerrahi, kazaya bağlı multipl travma, akut solunum yetmezliği
+veya benzeri durumları izleyen komplikasyonların bulunduğu akut kritik hastalığı olan
+hastalara GENOTROPİN MİNİQUİCK uygulanmamalıdır (idame tedavisine giren hastalarla
+ilgili olarak Bölüm 4.4’ e bakınız).
+4.4 Özel kullanım uyarıları ve önlemleri
+Hastalığın tanısı ve GENOTROPİN MİNİQUİCK tedavisi, terapötik kullanım
+endikasyonunda; hastaların tanı ve tedavisinde yeterli nitelikte ve tecrübeli doktorlar
+tarafından başlatılmalı ve takip edilmelidir.
+Maksimum önerilen günlük doz aşılmamalıdır (bkz. Bölüm 4.2).
+4İnsülin hassasiyeti
+Somatropin insülin hassasiyetini azaltabilir. Diabetes mellitus olan hastalarda somatropin
+tedavisine başlandıktan sonra insülin dozunun ayarlanması gerekebilir. Diyabeti olan, glukoz
+intoleransı veya diyabetle ilgili ilave risk faktörleri bulunan hastalar somatropin tedavisi
+sırasında yakından takip edilmelidir.
+Tiroit fonksiyonu
+Büyüme hormonu T4’ün T3’e tiroit dışı dönüşümünü artırabilir ve bu durum serum T4’ünün
+azalmasına ve serum T3’ünün artmasına yol açabilir. Periferik tiroit hormon seviyeleri
+sağlıklı olguların büyük bölümünde referans aralığında kalırken, subklinik hipotiroidizmi olan
+olgularda teorik olarak hipotiroidizm gelişebilir. Sonuç olarak, tiroit fonksiyonu tüm
+hastalarda takip edilmelidir. Standart replasman tedavisi sırasında hipopitüitarizm olan
+hastalarda büyüme hormonu tedavisinin tiroit fonksiyonu üzerindeki potansiyel etkisi
+yakından izlenmelidir.
+Malign bir hastalığın tedavisine sekonder büyüme hormonu yetersizliğinde malignitenin
+relaps belirtilerine dikkat edilmesi önerilmektedir.
+Büyüme hormonu yetersizliği dahil, endokrin bozukluğu olan hastalarda kalça ekleminde
+epifiz kayması genel popülasyondan daha sık görülebilir. Somatropin tedavisi sırasında
+topallama görülen çocuklar klinik olarak incelenmelidir.
+Benign intrakraniyal hipertansiyon
+Şiddetli ve tekrarlayan baş ağrısı, görme sorunları, bulantı ve/veya kusma gelişmesi halinde
+papilla ödemi için fundoskopi yapılması önerilmektedir. Papilla ödemi doğrulandığında
+benign intrakraniyal hipertansiyon düşünülmeli ve eğer uygun ise büyüme hormonu tedavisi
+sonlandırılmalıdır. Günümüzde, intrakraniyal hipertansiyonu düzelmiş hastalarda büyüme
+hormonu tedavisinin sürdürülmesi konusunda öneride bulunulacak yeterlilikte veri mevcut
+değildir. Büyüme hormonu tedavisine tekrar başlanırsa, intrakraniyal hipertansiyon
+semptomlarının dikkatli şekilde takibi gerekir.
+Lösemi
+Büyüme hormonu eksikliği olan az sayıda hastada lösemi bildirilmiştir ve bu hastalardan
+bazıları somatropin ile tedavi edilmiştir. Ancak, predispozan faktörler bulunmaksızın büyüme
+hormonu alan hastalarda lösemi indidansının arttığı yönünde kanıt yoktur.
+Antikorlar
+Somatropin içeren ürünlerin hepsinde olduğu gibi, hastaların düşük bir yüzdesinde
+GENOTROPİN MİNİQUİCK’e karşı antikorlar gelişebilir. GENOTROPİN MİNİQUİCK,
+hastaların yaklaşık %1’inde antikor oluşumuna neden olabilmektedir. Bu antikorların
+bağlanma kapasiteleri düşüktür ve büyüme hızı üzerinde etkili değildir. Etki kaybı başka türlü
+açıklanamayan hastalarda somatropine karşı antikorlar test edilmelidir.
+Akut kritik hastalık
+Açık kalp ameliyatı, abdominal cerrahi, kazaya bağlı multipl travma veya akut solunum
+yetmezliğini izleyen komplikasyonların bulunduğu 552 kritik yetişkin hastayı içeren iki
+plasebo kontrollü çalışmada GENOTROPİN MİNİQUİCK’in iyileşme üzerindeki etkileri
+incelenmiştir. Günde 5.3 veya 8 mg GENOTROPİN MİNİQUİCK alan hastalarda plasebo
+alanlara göre mortalite daha yüksek olmuştur (%42 ve %19). Bu bilgiler temelinde, bu tip
+5hastalar GENOTROPİN MİNİQUİCK ile tedavi edilmemelidir. Akut kritik hastalığı
+bulunanlarda büyüme hormonu idame tedavisinin güvenliliğine dair bilgi olmadığından, bu
+durumda tedaviye devamın faydaları potansiyel risklerine karşı değerlendirilmelidir.
+Diğer veya benzer akut kritik hastalığı olan tüm hastalarda GENOTROPİN MİNİQUİCK
+tedavisinin potansiyel faydası, söz konusu potansiyel riske karşı değerlendirilmelidir.
+Gestasyonel yaşı küçük olanlar
+SGA olarak doğan kısa boylu çocuklarda tedaviye başlamadan önce büyüme bozukluğuna
+neden olacak diğer tıbbi nedenler veya tedaviler ekarte edilmelidir.
+SGA çocuklarda tedaviye başlamadan önce ve daha sonra yılda bir kez, açlık insülin ve kan
+glukozu düzeyleri ölçülmelidir. Diabetes mellitus riski yüksek olan hastalarda (mesela ailede
+diyabet hikayesi, obezite, şiddetli insülin direnci, akantozis nigrikans öyküsü) oral glukoz
+tolerans testi (OGTT) yapılmalıdır. Aşikar diyabet varsa, büyüme hormonu
+uygulanmamalıdır.
+SGA çocuklarda tedaviye başlamadan önce ve daha sonra yılda iki kez, IGF-I değerleri
+ölçülmelidir. Eğer tekrarlanan ölçümlerde IGF-I seviyeleri ilgili yaş ve pubertal durum
+referanslarını +2 SD aşarsa doz ayarı için IGF-I/IGFBP-3 oranı hesaba katılmalıdır.
+Puberteye yakın SGA hastalarında tedaviye başlanmasına ilişkin deneyimler kısıtlıdır. Bu
+nedenle tedavinin puberteye yakın başlatılması önerilmemektedir. Silver-Russell sendromu
+olan hastalarda deneyimler kısıtlıdır.
+SGA doğan kısa boylu çocukların büyüme hormonu tedavisiyle kazanılan boy artışının bir
+kısmı, nihai boya ulaşmadan önce tedavinin kesilmesi halinde kaybedilebilir.
+Bu tıbbi ürün, doz başına 1 mmol (23 mg)’dan daha az sodyum ihtiva eder; yani esasında
+“sodyum içermez”.
+Bu tibbi ürün, doz başına 13.8 mg mannitol ihtiva etse de, uygulama yolu nedeniyle herhangi
+bir uyarı gerekmemektedir.
+4.5 Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+Glukokortikoidlerle eş zamanlı tedavi somatropin içeren ürünlerin büyümeyi tetikleyici
+etkilerini engelleyebilir. Bu nedenle glukokortikoidlerle tedavi edilen hastaların gelişim
+durumu, glukokortikoid tedavisinin büyüme üzerindeki potansiyel etkisinin değerlendirilmesi
+için dikkatli bir şekilde takip edilmelidir.
+Büyüme hormonu eksikliği olan yetişkinlerde yapılan bir etkileşim çalışmasında somatropin
+uygulamasının sitokrom P450 izoenzimleriyle metabolize olduğu bilinen bileşiklerin
+klirensini artırdığı belirtilmektedir. Sitokrom P450 3A4 ile metabolize edilen bileşiklerin (örn.
+seks steroidleri, kortikosteroidler, antikonvülzanlar ve siklosporin) klirensi özellikle artabilir
+ve bu bileşiklerin daha düşük plazma seviyelerine yol açabilir. Bu durumun klinik anlamlılığı
+bilinmemektedir.
+Ayrıca diabetes mellitus ve tiroit bozukluğu konusunda bölüm 4.4’e ve oral östrojen
+replasman tedavisi konusunda bölüm 4.2’ye bakınız.
+64.6 Gebelik ve laktasyon
+Genel tavsiye
+Gebelik kategorisi: B
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon)
+Kontrasepsiyon kullanmayan çocuk doğurma potansiyeline sahip kadınlarda somatropin
+içeren ürünler önerilmemektedir.
+Gebelik dönemi
+Hayvanlar üzerinde yapılan çalışmalar; gebelik, embriyofetal gelişim, doğum veya doğum
+sonrası gelişim üzerindeki etkiler bakımından yetersizdir (bkz. Bölüm 5.3). Maruziyet olan
+gebeliklere ilişkin klinik çalışmalar bulunmamaktadır. Bu nedenle, gebelik sırasında
+somatropin içeren ürünler önerilmemektedir.
+Laktasyon dönemi
+Emziren kadınlarda somatropin içeren ürünlerle ilgili klinik çalışmalar yapılmamıştır.
+Somatropinin anne sütüne geçip geçmediği bilinmemektedir, ancak yeni doğanlarda intakt
+proteinin gastrointestinal kanaldan emilme olasılığı oldukça düşüktür. Bu yüzden emziren
+kadınlara somatropin içeren ürünler verilirken dikkatli olunmalıdır.
+Üreme yeteneği/ Fertilite
+Genel toksisite, lokal tolerans ve üreme toksisitesi ile ilgili çalışmalarda klinik olarak anlamlı
+etkilere sahip etkilerle karşılaşılmamıştır (bkz. Bölüm 5.3).
+4.7 Araç ve makine kullanımı üzerindeki etkiler
+GENOTROPİN MİNİQUİCK’ in araç ve makine kullanımı üzerinde etkisi bulunmamaktadır.
+4.8 İstenmeyen etkiler
+Büyüme hormonu eksik olan hastalar, ekstraselüler hacmin azalması ile karakterizedir.
+Somatropin tedavisine başlandığında bu sorun hızla düzelir. Yetişkin hastalarda periferik
+ödem, kas-iskelet sertliği, artralji, miyalji ve parestezi gibi sıvı retansiyonuna bağlı advers
+etkiler yaygındır. Genelde bu advers etkiler hafif ila orta şiddette olup tedavinin ilk aylarında
+ortaya çıkar ve kendiliğinden veya dozun azaltılmasıyla hafifler.
+Bu advers etkilerin insidansı uygulanan doz ve hastanın yaşı ile ilişkilidir ve muhtemelen,
+hastanın büyüme hormonu eksikliği başladığındaki yaşı ile ters olarak ilişkilidir. Bu advers
+etkiler çocuklarda yaygın değildir.
+GENOTROPİN MİNİQUİCK, hastaların yaklaşık %1’inde antikor oluşumuna neden
+olabilmektedir. Bu antikorların bağlanma kapasiteleri düşüktür ve antikorların oluşumu ile
+klinik değişimler ilişkilendirilmemiştir (bkz. Bölüm 4.4).
+GENOTROPİN MİNİQUİCK tedavisi sırasında aşağıdaki istenmeyen etkiler belirtilen
+sıklıklarla gözlenmiş ve bildirilmiştir: çok yaygın (≥ 1/10), yaygın (≥ 1/100 ila < 1/10),
+7yaygın olmayan (≥ 1/1,000 ila < 1/100), seyrek (≥ 1/10,000 ila <1/1,000), çok seyrek
+(<1/10,000), bilinmiyor(eldeki verilerden hareketle temin edilemiyor).
+İyi huylu ve kötü huylu neoplazmalar (Kist ve polipler de dahil olmak üzere)
+Çok seyrek Lösemi*
+Bağışıklık sistemi hastalıkları
+Yaygın Antikor oluşumu
+Endokrin hastalıklar
+Seyrek Tip II diabetes mellitus
+Sinir sistemi hastalıkları
+Yaygın Yetişkinlerde parestezi
+Yaygın olmayan Yetişkinlerde karpal tünel sendromu,
+çocuklarda parestezi
+Seyrek Benign intrakraniyal hipertansiyon
+Deri ve deri altı doku hastalıkları
+Yaygın Çocuklarda geçici enjeksiyon bölgesi
+reaksiyonları
+Kas-iskelet bozuklukları, bağ doku ve kemik
+hastalıkları
+Yaygın Yetişkinlerde kas-iskelet sertliği, artralji,
+miyalji
+Yaygın olmayan Çocuklarda kas-iskelet sertliği, artralji,
+miyalji
+Genel bozukluklar ve uygulama bölgesine
+ilişkin hastalıklar
+Yaygın Yetişkinlerde periferik ödem
+Yaygın olmayan Çocuklarda periferik ödem
+Somatropinin muhtemelen taşıyıcı proteinleri etkileyerek veya karaciğer klirens artışıyla
+serum kortizol düzeylerini azalttığı rapor edilmiştir. Bu bulguların klinik önemi sınırlıdır.
+Bununla beraber, GENOTROPİN MİNİQUİCK tedavisine başlamadan önce kortikosteroid
+replasman tedavisi optimize edilmelidir.
+*GENOTROPİN MİNİQUİCK ile tedavi edilen, büyüme hormonu eksikliği olan çocuklarda
+çok seyrek olarak lösemi vakaları rapor edilmiştir ancak insidans, büyüme hormonu eksikliği
+olmayan çocuklardakine benzer bulunmuştur (bkz. Bölüm 4.4).
+4.9 Doz aşımı
+Akut doz aşımı başlangıçta hipoglisemi ve takiben hiperglisemiye neden olabilir.
+Uzun süreli doz aşımı fazla miktardaki insan büyüme hormonunun bilinen etkilerine benzer
+belirti ve bulgulara neden olabilir.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1 Farmakodinamik özellikler
+Farmakoterapötik grup: Ön hipofiz lobu hormonları ve analogları
+ATC kodu: H01A C01
+8Somatropin lipid, karbonhidrat ve protein metabolizması açısından önemli, potent bir
+metabolik hormondur. Somatropin yeterli endojen büyüme hormonu olmayan çocuklarda
+uzunlamasına büyümeyi ve büyüme hızındaki artışı uyarır. Yetişkinlerde ve çocuklarda
+somatropin azot tutulmasının artırarak ve iskelet kasının büyümesini uyararak ve vücut yağını
+mobilize ederek normal vücut kompozisyonunu korur. Viseral adipoz doku somatropine
+özellikle duyarlıdır. Lipolizin artmasınına ek olarak somatropin trigliseritlerin vücut yağı
+depolarına alımını azaltır. Büyüme hormonu yetersizliği olan hastalarda somatropin tedavisi
+serum IGF-I (İnsülin benzeri Büyüme Faktörü-I) ve IGFBP3 (İnsülin benzeri Büyüme
+Faktörü Bağlayıcı Protein 3) seviyelerini yükseltir. Ayrıca aşağıdaki etkiler görülür:
+ Lipit metabolizması: Somatropin hepatik LDL kolesterol reseptörlerini indükler, serum
+lipit ve lipoproteinlerinin profilini etkiler. Genel olarak, büyüme hormonu yetersizliği olan
+hastalarda somatropin uygulaması serum LDL ve apolipoprotein B’yi azaltır. Serum total
+kolesterolünde de azalma görülebilir.
+ Karbonhidrat metabolizması: Somatropin insülini artırır ancak açlık kan şekeri genellikle
+değişmez. Hipofiz bezi yetersizliği olan çocuklarda açlık kan şekerinin düşüşü görülebilir
+ve bu durum somatropin tedavisi ile düzelir.
+ Su ve mineral metabolizması: Büyüme hormonu eksikliğinde plazma ve ekstraselüler
+hacim azalır. Somatropin tedavisi ile her ikisi de hızla artar Somatropin sodyum, potasyum
+ve fosfor retansiyonunu indükler.
+ Kemik metabolizması: Somatropin iskelet kemik yıkım ve yapımını artırır. Osteopenisi
+olan hastalarda uzun süreli somatropin uygulanması kemiğin mineral içeriğinin ve ağırlık
+alanlarının dansitesinin artmasına neden olur.
+ Fiziksel kapasite: Kas gücü ve fizik egzersiz kapasitesi uzun dönemli somatropin tedavisi
+ile iyileşir. Somatropin aynı zamanda kardiyak debiyi artırır, ancak bu mekanizma henüz
+tam olarak anlaşılamamıştır. Periferik vasküler rezistansın düşüşünün bu etkiye bir katkısı
+olabilir.
+Klinik çalışmalarda SGA doğan kısa çocuklarda son nihai uzunluğa dek günde 0.033 ve 0.067
+mg/kg dozlar kullanılmıştır. Sürekli tedavi edilen ve nihai boya erişen (yaklaşan) 56 hastada
+tedavinin başından itibaren ortalama boy değişimi +1.90 SDS (0.033 mg/kg vücut
+ağırlığı/gün) ve +2.19 SDS (0.067 mg/kg vücut ağırlığı/gün) olarak bulunmuştur. Tedavi
+edilmemiş SGA doğan kısa çocuklardan elde edilen literatür verilerine göre kendiliğinden
+yaşıtlara yetişme durumu yoksa geç büyüme oranı 0.5 SDS’dir. Uzun dönem güvenlilik
+verileri henüz kısıtlıdır.
+5.2 Farmakokinetik özellikler
+Emilim:
+Subkutan uygulamadan sonra somatropin biyoyararlanım, hem sağlıklı kişilerde hem de
+büyüme hormonu eksikliği olan kişilerde yaklaşık %80’ dir. 0.035 mg/kg'lık bir subkutan
+somatropin dozu plazma C ve t düzeylerinin sırasıyla 13-35 ng/ml ve 3-6 saat olmasını
+max max
+sağlar.
+9Dağılım:
+Büyüme hormonu eksikliği olan kişilerde GENOTROPİN MİNİQUİCK uygulamasını takiben
+ortalama dağılım hacminin 1,3 (±0,8) L olması beklenmektedir.
+Biyotransformasyon:
+GENOTROPİN MİNİQUİCK’ in metabolik akıbeti hem karaciğer hem de böbreklerdeki
+klasik protein katabolizmasını içerir. Renal hücrelerde, yıkım ürünlerinin en azından bir kısmı
+sistemik dolaşıma geri döndürülür.
+Eliminasyon:
+İntravenöz uygulamadan sonra somatropinin ortalama terminal yarı ömrü büyüme hormonu
+eksikliği olan erişkinlerde 0.4 saat civarındadır. Ancak subkutan uygulamadan sonra 2-3
+saatlik yarı ömre ulaşılır. Gözlenen fark subkutan uygulamayı takiben muhtemelen enjeksiyon
+bölgesinden yavaş emiliminden dolayıdır.
+Hastalardaki karekteristik özellikler
+Somatropinin subkutan uygulamayı takiben mutlak biyoyararlanımının erkeklerde ve
+kadınlarda benzer olduğu görülmektedir.
+Geriyatrik ve pediatrik popülasyonlarda, farklı ırklarda ve böbrek, karaciğer veya kardiyak
+yetmezliği olan hastalarda somatropinin farmakokinetiği hakkında bilgi bulunmamaktadır
+veya yetersizdir.
+5.3 Klinik öncesi güvenlilik verileri
+Genel toksisite, lokal tolerans ve üreme toksisitesi ile ilgili çalışmalarda klinik olarak anlamlı
+etkilere sahip etkilerle karşılaşılmamıştır.
+Gen mutasyonları ve kromozom aberasyonlarının indüksiyonu ile ilgili in vitro ve in vivo
+genotoksisite çalışmaları negatiftir.
+Lenfositlerle ilgili in vitro bir çalışmada somatropin ile uzun vadeli tedavi alan bir hastada
+radyomimetik ilaç bleomisin ilavesinin ardından artmış kromozom frajilitesi gözlenmiştir. Bu
+çalışmanın klinik anlamı bilinmemektedir.
+Başka bir çalışmada, uzun vadeli somatropin tedavisi alan hastaların hiçbirinin lenfositlerinde
+kromozomal anomali artışı saptanmamıştır.
+6. FARMASÖTİK ÖZELLİKLER
+6.1 Yardımcı maddelerin listesi
+Toz (ön kompartıman):
+Glisin (E640)
+Sodyum dihidrojen fosfat anhidroz (E339) (monohidrat olarak eklenmiştir)
+Disodyum fosfat anhidroz (E339) (dodekahidrat olarak eklenmiştir)
+Mannitol (E421)
+10Çözücü (arka kompartıman):
+Enjeksiyonluk su
+Mannitol (E421)
+6.2 Geçimsizlikler
+Geçimlilik çalışmaları bulunmadığından, bu tıbbi ürün diğer tıbbi ürünlerle
+karıştırılmamalıdır.
+6.3 Raf ömrü
+25°C’nin altında oda sıcaklığında 6 Ay, (2°C – 8°C)’de buzdolabında 36 ay
+Sulandırıldıktan sonra (2°C – 8°C) ‘de buzdolabında 24 saat.
+Ürün, ışıktan ve donmaktan korunarak saklanmalıdır.
+6.4 Saklamaya yönelik özel tedbirler
+Sulandırılmadan önce:
+Buzdolabında saklayınız (2°C - 8°C’de). Dondurmayınız. Işıktan korumak için enjektörü
+ambalajında saklayınız.
+Ürün açılmadan önce yeri değiştirilmemek suretiyle maksimum 6 ay süresinde 25°C’den
+yüksek olmayan sıcaklıklarda saklanabilir. Ürünün çıkarıldığı tarih ve yeni son kullanma
+tarihi ambalajın üstüne yazılmalıdır. Bu yeni son kullanma tarihi ambalajda en başta belirtilen
+son kullanma tarihini asla geçmemelidir. Tıbbi ürün, yeni son kullanma tarihinden önce
+kullanılmazsa atılmalıdır.
+Sulandırıldıktan sonra:
+Dondurmayınız. Işıktan korumak için enjektörü ambalajında saklayınız. Sulandırılmış tıbbi
+ürünün saklama koşulları için Bölüm 6.3’ e bakınız.
+6.5 Ambalajın niteliği ve içeriği
+7 adet 2.4 IU’lik (0.8 mg) tek doz uygulamaya uygun, kuru toz(I) ile eritici (II) içeren iki
+kompartımanlı (I+II) kartuş ve 7 adet enjeksiyon iğnesi içeren ambalajlarda.
+6.6 Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+Tozu sadece paketteki çözücü ile sulandırın.
+Çözelti, piston kolunun içeri doğru döndürülmesiyle hazırlanır. Böylece çözücü iki odacıklı
+kartuştaki tozla karışır. Güçlü bir şekilde çalkalamayın, aksi takdirde etkin madde denatüre
+olabilir. Enjeksiyon iğnesi sulandırmadan önce yerine takılmalıdır. Sulandırılan çözelti
+renksiz ve biraz opelasan olmalıdır. Kullanmadan önce enjeksiyon için sulandırdığınız
+çözeltiyi inceleyin; sadece berrak ve zerre içermeyen çözeltileri kullanın.
+Hazırlanış ve sulandırılan GENOTROPİN MİNİQUİCK’ in uygulanışı için kapsamlı bilgi
+kullanma talimatı ve kullanım klavuzunda bulunmaktadır.
+11Kullanılmamış olan ürünler ya da atık materyaller “Tıbbi Atıkların Kontrolü Yönetmeliği” ve
+“Ambalaj ve Ambalaj Atıklarının Kontrolü Yönetmeliği” ne uygun olarak imha edilmelidir.
+7. RUHSAT SAHİBİ
+PFIZER İLAÇLARI LTD.ŞTİ
+Muallim Naci Cad. No: 55
+34347 Ortaköy/ İSTANBUL
+Tel : (0-212) 310 70 00
+Faks : (0-212) 310 70 58
+8. RUHSAT NUMARASI
+120/76
+9. İLK RUHSAT TARİHİ / RUHSATIN YENİLENME TARİHİ
+İlk ruhsat tarihi: 21.08.2006
+Ruhsat yenileme tarihi:
+10. KÜB’ÜN YENİLENME TARİHİ
+12

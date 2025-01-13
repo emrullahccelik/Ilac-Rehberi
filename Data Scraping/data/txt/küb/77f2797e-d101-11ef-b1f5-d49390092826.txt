@@ -1,0 +1,885 @@
+KISA ÜRÜN BİLGİSİ
+▼ Bu ilaç ek izlemeye tabidir. Bu üçgen yeni güvenlilik bilgisinin hızlı olarak belirlenmesini
+sağlayacaktır. Meydana gelen herhangi bir yan etkiyi raporlayarak yardımcı olabilirsiniz. Yan
+etkilerin nasıl raporlanacağını öğrenmek için 4. Bölümün sonuna bakabilirsiniz.
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+BALVERSA3mg Film Kaplı Tablet
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde:
+Her bir tablet 3mgerdafitinib içerir.
+Yardımcı maddeler:
+Yardımcı maddeler için Bölüm6.1’e bakınız.
+3. FARMASÖTİK FORM
+Film kaplı tablet
+Sarı renkli, bir yüzünde kabartmalı “3”, diğer yüzünde “EF” yazılı yuvarlak bikonveks film kaplı
+tabletler.
+4. KLİNİK ÖZELLİKLER
+4.1. Terapötik endikasyonlar
+BALVERSA lokal olarak ilerlemiş veya metastatik ürotelyal karsinomlu, ECOG performans
+durumu 0-2 olan;
+ Tümörlerinde duyarlı fibroblast büyüme faktörü reseptörü FGFR2 veya FGFR3 genetik
+alterasyonları olan,
+ Neoadjuvan veya adjuvan kemoterapi aldıktan sonra 12 ay içerisinde nüks veya metastaz
+gelişen hastalarda veya metastatik hastalık için en az bir basamak platin bazlı kemoterapi
+sırasında veya sonrasında hastalık progresyonu meydana gelmiş olan yetişkin hastaların
+tedavisinde endikedir.
+BALVERSA tedavisine, valide edilmiş bir test kullanılarak duyarlı FGFR genetik
+alterasyonunun doğrulanmasının ardından başlanmalıdır.
+4.2. Pozoloji ve uygulama şekli
+BALVERSA ile tedavi, antikanser ajanların kullanımında deneyimli uzman doktorlar
+tarafından reçete edilmeli ve yönetilmelidir.
+BALVERSA reçete edilmeden önce, valide edilmiş bir testle hastalarda duyarlı FGFR2 veya
+FGFR3 gen alterasyonlarının olduğu doğrulanmalıdır.
+1Pozoloji/uygulama sıklığı ve süresi:
+Pozoloji:
+BALVERSA için önerilen başlangıç dozu günde bir kez oral olarak 8 mg'dır. BALVERSA
+tedavisine başlandıktan 14 ila 21 gün sonra değerlendirilerek, serum fosfat seviyeleri ve tolere
+edilebilirliğe bağlı olarak günde bir kez olacak şekilde dozu 9 mg'a yükseltilir.
+Serum fosfat konsantrasyonuna göre doz artışı
+Tedaviye başlandıktan sonraki 14. ve 21. günler arasında serum fosfat konsantrasyonları
+değerlendirilir. Serum fosfat konsantrasyonu < 5,5 mg/dL ise ve ilaçla ilişkili toksisite yoksa,
+BALVERSA dozu günde bir kez 9 mg’a yükseltilir. Serum fosfat düzeylerine bağlı olarak,
+serum fosfat düzeylerini değiştiren ajanların ilk doz artış periyodu öncesinde BALVERSA ile
+birlikte uygulanmasından kaçınılmalıdır.
+Uygulama şekli:
+Film kaplı tabletler, oral kullanım içindir.
+Tabletler, her gün hemen hemen aynı saatte, aç ya da tok karnına ve bütün halde yutulmalıdır.
+(bkz. Bölüm 5.2.)
+BALVERSA aldıktan sonra herhangi bir zamanda kusma meydana gelirse, bir sonraki doz
+planlanmış sonraki zamanında alınmalıdır.
+Tedaviye hastalık progresyonu veya kabul edilemez toksisite meydana gelene kadar devam
+edilmelidir.
+Doz değişiklikleri
+Olası doz azaltmaları ve advers reaksiyonların kontrolü için bkz. Tablo 1-4.
+Tablo 1:BALVERSA doz azaltma planı
+Doz 1. doz 2. doz azaltma 3. doz azaltma 4. doz azaltma 5. doz azaltma
+azaltma
+9 mg → 8 mg 6 mg 5 mg 4 mg Tedavi
+durdurulur.
+8 mg → 6 mg 5 mg 4 mg Tedavi
+durdurulur.
+Serum fosfat konsantrasyonunda yükselme, BALVERSA'nın beklenen bir etkisidir. Bu nedenle,
+tedaviye başlandıktan sonra 14. ve 21. günler arasında yapılan serum fosfat değerlendirmesinin
+ardından, hastaların serum fosfat konsantrasyonları aylık olarak izlenmelidir (bkz. Bölüm 5.1.).
+Tüm hastalar için fosfat tüketimi günlük 600-800 mg ile sınırlandırılmalıdır(bkz. Bölüm 4.4.).
+BALVERSA ile tedavi edilen hastalarda yükselen fosfat konsantrasyonları için (≥ 7,0 mg/dL)
+Tablo 2’deki doz değişikliği kılavuzları takip edilir ve kalsiyum içermeyen bir fosfat
+bağlayıcının tedaviye eklenmesi (örn. sevelamer karbonat) düşünülmelidir.
+Tablo 2:Kademeli olarak doz arttırılmasının ardından BALVERSA ile serum fosfat
+konsantrasyonlarına göre önerilen doz değişiklikleri
+Serum fosfat konsantrasyonu BALVERSA Doz Yönetimia
+<6,9 mg/dL BALVERSA’ya mevcut dozla devam edilir.
+(<2,2 mmol/L)
+7,0-9,0 mg/dL BALVERSA tedavisi durdurulur ve fosfat konsantrasyonu <
+2(2,3-2,9 mmol/L) 5,5 mg/dL’ye dönene kadar haftalık olarak tekrar
+değerlendirilir. BALVERSA’ya aynı doz düzeyinde tekrar
+başlanır. Dirençli hiperfosfatemib için doz azaltma
+yapılabilir.
+>9,0 mg/dL BALVERSA tedavisi 28 güne kadar durdurulur ve
+(>2,9 mmol/L) konsantrasyon < 5,5 mg/dL’ye (veya başlangıç değerine)
+dönene kadar fosfat konsantrasyonları haftalık olarak tekrar
+değerlendirilir. Ardından mevcut doz düzeyinin bir altındaki
+dozla BALVERSA’ye tekrar başlanır.
+>10,0 mg/dL BALVERSA tedavisi durdurulur ve düzey < 5,5 mg/dL’ye
+(>3,2 mmol/L) ve/veya renal dönene kadar haftalık olarak tekrar değerlendirmeler yapılır.
+fonksiyonda anlamlı değişiklik ya Ardından mevcut doz düzeyinin 2 altındaki dozla
+da 3. derece hipokalsemi BALVERSA’ya tekrar başlanır.
+a Tüm hastalar için, fosfat alımı günlük 600-800 mg/gün olarak sınırlandırılır.
+b Dirençli hiperfosfatemi, 1’den fazla sıralı (en az 1 hafta arayla) >7 mg/dL fosfat değeri olarak
+kabul edilir.
+Göz bozukluğu kontrolü
+Santral seröz retinopati/retinal pigment epiteli dekolmanı (SSR/RPED) dahil olmak üzere,
+BALVERSA uygulamasıyla oküler bozukluklar meydana gelebilir. BALVERSA tedavisine
+başlanmadan önce, Amsler grid testi, fundoskopi, görme keskinliği ve varsa optik koherans
+tomografisi (OKT) dahil olmak üzere bir başlangıç oftalmolojik muayenesi yapılır (bkz. Bölüm
+4.4.). Bunun ardından hastalar Amsler grid testi kullanılarak aylık olarak muayene edilir ve
+anormal bulgu görülmesi veya görmede herhangi bir anormallik olması halinde Tablo 3’teki
+kılavuzlar takip edilir.
+Göz kuruluğunu önlemek ve tedavi etmek üzere, uyanık olunan saatlerde en az 2 saatte bir
+uygulanacak şekilde yapay gözyaşı, nemlendirici veya kayganlaştırıcı göz jelleri veya
+merhemleri kullanılır. Tedaviyle ilişkili şiddetli göz kuruluğu, bir göz uzmanı (optometrist veya
+oftalmolojist) tarafından değerlendirilmelidir.
+Tablo 3:BALVERSA kullanımı ile göz bozukluklarının tedavisine ilişkin kılavuz
+Şiddet Derecelendirmesi BALVERSA Doz Yönetimi
+1. Derece: Oftalmolojik muayene (OM) için sevk edilir. 7 gün içinde bir OM
+Asemptomatik veya hafif yapılamıyorsa, OM yapılana kadar BALVERSA tedavisi durdurulur.
+semptomlar; sadece klinik Oftalmolojik muayene sırasında ilaçla ilişkili kornea veya retina
+veya tanısal gözlemler patolojisi kanıtı tespit edilmezse, BALVERSA tedavisine aynı doz
+veya anormal Amsler grid düzeyinde devam edilir.
+testi. Oftalmolojik muayene sonucunda keratit veya retinal anormallik
+tanısı konursa (yani SSRa/RPEDb), rahatsızlık geçene kadar
+BALVERSA tedavisi durdurulur. OM’de 4 hafta içinde reversibl ise,
+bir sonraki düşük dozdan tedaviye devam edilir.
+Bir ay süreyle nüks yönünden takip edilir. Nüks yoksa, dozun tekrar
+yükseltilmesi düşünülür.
+2. Derece: Derhal BALVERSA kesilir ve bir oftalmolojik muayene için sevk
+Orta dereceli; yaşa uygun, yapılır.
+aletli günlük yaşam Oftalmolojik muayenede ilaçla ilişkili kornea veya retina patolojisi
+aktivitelerini kısıtlayıcı. görülmezse, iyileşene kadar BALVERSA’ya ara verilir. Ardından bir
+sonraki düşük dozda BALVERSA’ya devam edilir.
+3Oftalmolojik muayene sonucunda keratit veya retinal anormallik
+tanısı konursa (yani SSR/RPED), rahatsızlık geçene kadar
+BALVERSA tedavisine ara verilir.
+Oftalmolojik muayeneden sonraki 4 hafta içinde iyileşirse (tam
+iyileşme ve asemptomatik), bir sonraki düşük dozda BALVERSA’ya
+devam edilir. Bir ay boyunca 1 ila 2 haftada bir nüks yönünden takip
+edilir.
+3. Derece: İyileşene kadar BALVERSA derhal kesilir.
+Şiddetli veya tıbbi olarak 4 hafta içerisinde iyileşirse (tam iyileşme ve asemptomatik), 2 düzey
+anlamlı ancak görme daha düşük dozda BALVERSA’ya devam edilir. Bir ay boyunca 1 ila
+açısından acil bir tehdit 2 haftada bir nüks yönünden takip edilir. Nüks varsa,
+teşkil etmeyen, günlük öz BALVERSA’nın kalıcı olarak kesilmesi düşünülmelidir.
+bakım yaşam aktivitilerini
+kısıtlayan.
+4. Derece: BALVERSA kalıcı olarak kesilmelidir.
+Görmeyi tehdit eden
+sonuçlar; körlük (20/200
+veya daha kötü).
+aSSR-santral seröz retinopati
+bRPED-retinal pigment epiteli dekolmanı
+Santral seröz retinopatinin (SSR) tanı ve tedavisinde yardımcı olacak eğitim materyalleri, üretici
+aracılığıyla sağlıkçalışanları için temin edilebilir.
+Diğer advers reaksiyonlar için doz değişikliği
+Tablo 4:BALVERSA kullanımı ile ortaya çıkan diğer advers reaksiyonlar için önerilen doz
+değişiklikleri
+Advers Reaksiyonun BALVERSADoz Yönetimi
+Şiddetia
+1. Derece Mevcut dozda devam edilir.
+2. Dereceb Mevcut dozda devam edilir.
+3. Derece BALVERSA’ya ara verilir.
+≤1. Derece veya başlangıca döndüğünde, BALVERSA’ya 1 düşük
+doz düzeyinden tekrar başlanır.
+4. Derece BALVERSA kalıcı olarak kesilmelidir.
+a Doz ayarlamaları Advers Olaylara İlişkin Ulusal Kanser Enstitüsü Ortak Terminoloji
+Kriterleri (NCI CTCAE) kullanılarak derecelendirilmiştir.
+b 2. Derece deri bozuklukları ve mukozit için, 1 haftada iyileşme yoksa tedaviye ara verilmesi
+düşünülmelidir. ≤1. Derece veya başlangıca döndüğünde, BALVERSA’ya aynı doz düzeyinden
+veya 1 düşük doz düzeyinden tekrar başlanır.
+Unutulan Doz
+Bir BALVERSA dozu unutulursa, aynı gün içinde, mümkün olan en kısa sürede alınabilir. Bir
+sonraki gün normal günlük doz ile BALVERSA’ya devam edilir. Unutulan dozları telafi etmek
+için ekstra tablet alınmamalıdır. Eğer BALVERSA’yı aldıktan sonra kusma meydana gelirse,
+sonraki doz planlanan bir sonraki doz zamanında alınmalıdır.
+4Özel popülasyonlara ilişkin ek bilgiler:
+Karaciğer yetmezliği:
+Farmakokinetik (PK) analizleri doğrultusunda, hafif (Child-Pugh A) ila orta şiddetli (Child-Pugh
+B) karaciğer işlev bozukluğu olan hastalarda doz ayarlaması gerekli değildir (bkz. Bölüm 5.2.).
+Şiddetli (Child-Pugh C) karaciğer işlev bozukluğu olan hastalara ilişkin veriler sınırlıdır; bu
+nedenle bu hastalarda dikkatli olunmalıdır.
+Böbrek yetmezliği:
+Popülasyon farmakokinetiği analizleri doğrultusunda, hafif (eGFR-MDRD 60 ila 89
+mL/dak/1,73 m²) ila orta dereceli böbrek işlev bozukluğu olan hastalar için (eGFR-MDRD 30 ila
+59 mL/dak/1,73 m²) doz ayarlaması gerekli değildir. Şiddetli böbrek yetmezliği olan hastalara
+ilişkin veri yoktur; bu nedenle bu hastalarda dikkatli olunmalıdır.
+Pediyatrik popülasyon (< 18 yaş):
+Pediatrik kullanımına ilişkin onaylı endikasyon bilgisi mevcut değildir.
+Sıçanlarda ve köpeklerde tekrarlanan doz toksikoloji çalışmalarında, önerilen maksimum klinik
+dozda insan maruziyetinden daha az maruziyetlerde kemik ve dişlerde toksisiteler gözlenmiştir
+(bkz. Genel Toksikoloji). İki türde de birçok kemikte kondroid displazi/metaplazi ve
+anormal/düzensiz dentini içeren diş anormallikleri rapor edilmiştir. Sıçanlarda odontoblastların
+renk değişikliği ve dejenerasyonu rapor edilmiştir.
+Geriatrik popülasyon (≥ 65 yaş):
+BLC2001 çalışmasında BALVERSA ile tedavi edilen 87 hastanın 53’ü 65 yaş ve üstüydü. Yaşlı
+ve genç hastalar arasında güvenlilik ve etkililik açısından genel bir fark gözlenmemiştir. Yaşlı
+hastalar için herhangi bir spesifik doz ayarlaması gerekli görülmemiştir(bkz. Bölüm 5.2.).
+4.3. Kontrendikasyonlar
+BALVERSA ilaç dışı içerik maddeleri veya ilaç kabının bileşenleri dahil olmak üzere, bu ilaca
+veya ilacın formülasyonundaki herhangi bir maddeye karşı aşırı duyarlı olan hastalarda
+kontrendikedir(bkz. Bölüm 6.1.).
+4.4. Özel kullanım uyarıları ve önlemleri
+Genel
+BALVERSA almadan önce hastaların duyarlı FGFR gen alterasyonları olduğu, onaylanmış bir
+testle doğrulanmalıdır. Çalışma BLC2001’e kaydedilen hastalarda tümör dokularında aşağıdaki
+gen alterasyonlarından en az birinin doğrulanması gereklidir:
+ FGFR3 Mutasyonları: FGFR3-S249C, FGFR3-Y373C, FGFR3-R248C, FGFR3-G370C,
+ FGFR2 veya FGFR3 Füzyonları: FGFR3-TACC3_V1, FGFR3-TACC3_V3, FGFR3-
+BAIAP2L1, FGFR2-CASP7, FGFR2-BICC1
+Endokrin ve Metabolizma
+Hiperfosfatemi ve yumuşak doku mineralizasyonu
+BALVERSA yumuşak doku mineralizasyonu, kutanöz kalsinozis, üremik olmayan kalsiflaksi ve
+vasküler kalsifikasyona yol açan hiperfosfatemiye neden olabilir. Fosfat düzeylerindeki artış,
+BALVERSA’nın bir farmakodinamik etkisidir (bkz. Bölüm 5.1.). BALVERSA ile tedavi edilen
+hastaların % 76’sında hiperfosfatemi bir advers olay olarak bildirilmiştir. Herhangi bir derecede
+hiperfosfatemi olayı başlangıcına kadar geçen medyan süre, BALVERSA tedavisine
+5başlandıktan sonra 20 gündü (aralık: 8-116 gün). Hiçbir ciddi hiperfosfatemi olayı
+bildirilmemiştir. Hiperfosfatemi, doz değişikliği ve fosfat bağlayıcı tedaviyle kontrol edilmiştir.
+Hastaların % 24'ünde tedavinin kesildiği, % 7’sinde dozun azaltıldığı bildirilmiştir ve hastaların
+%34'ü BALVERSA tedavisi sırasında fosfatbağlayıcılarla tedavi görmüştür.
+Hastalar BALVERSA kullanırken düşük fosfat içerikli diyete bağlı kalmalı (günde 600-800
+mg/gün) ve serum fosfat düzeylerini artırabilecek ilaçların kullanımından kaçınılmalıdır
+(potasyum fosfat takviyeleri, D vitamini takviyeleri, anti asitler, fosfat içeren lavman ve
+laksatifler). Hastalardaki serum fosfat konsantrasyonları aylık olarak izlenmelidir. Gerektiğinde
+doz değişikliği kılavuzlarına uyulmalıdır(bkz. Bölüm 4.2.).
+Gastrointestinal stomatit
+BLC2001 çalışmasında, BALVERSA ile tedavi edilen hastaların % 56’sında stomatit bildirilmiş
+olup, hastaların % 8’sinde 3. derece olaylar bildirilmiştir. Hastaların sırasıyla % 17 ve % 15'inde
+doz kesintileri ve doz azaltma bildirilmiştir.
+Eğer stomatit görülürse, Tablo 4’teki doz değişikliği kılavuzlarına uyulmalıdır(bkz. Bölüm 4.2.).
+Oftalmolojik
+Görme alanında defekte neden olan santral seröz retinopati/retinal pigment epiteli dekolmanı
+(SSR/RPED) dahil olmak üzere, klinik çalışmalarda BALVERSA alan hastalarda oküler
+bozukluklar bildirilmiştir.
+BLC2001 çalışmasında, 8 mg günlük dozda BALVERSA ile tedavi edilen hastaların % 25'inde
+SSR gözlenmiş olup, başlangıca kadar medyan süresi 50 gündür. En yaygın bildirilen SSR
+olayları korioretinopati (% 9), retina dekolmanı (% 6) ve retinal pigment epiteli dekolmanıdır (%
+6). SSR gelişen hastaların çoğunda (% 70) anormal Amsler grit test sonuçları tespit edilmiştir.
+Klinik çalışmalarda SSR çoğunlukla doz değişikliğiyle modifiye edilmiş ve hastaların % 9'unda
+dozun kesilmesine, % 14'ün dozun azaltılmasına neden olmuştur. Hastaların % 3’ü, SSR
+nedeniyle BALVERSA tedavisini bırakmıştır. Hastaların % 53'ünde göz kuruluğu (% 20) ve
+bulanık görme (%17) dahil olmak üzere SSR dışında oküler bozuklular meydana gelmiştir.
+Hastalar, BALVERSA ile tedaviye başlanmadan önce Amsler grid testi, fundoskopi, görme
+keskinliği ve eğer mümkünse optik koherans tomografisi (OKT) kullanılarak göz bozuklukları
+yönünden taranmalıdır. Bunun ardından hastalar Amsler grid testi kullanılarak aylık olarak
+muayene edilir ve anormal bulgu görülmesi veya görmede herhangi bir anormallik görülmesi
+halinde Tablo3’teki kılavuzlar takip edilir(bkz. Bölüm 4.2).
+Göz kuruluğunu önlemek ve tedavi etmek üzere, uyanık olunan saatlerde en az 2 saatte bir
+uygulanacak şekilde yapay gözyaşı, nemlendirici, kayganlaştırıcı göz jelleri veya merhemleri
+kullanılır. Tedaviyle ilişkili şiddetli göz kuruluğu halinde, değerlendirme için hasta bir göz
+uzmanına (optometrist veya oftalmolog) sevk edilmelidir.
+Santral seröz retinopatinin (SSR) tanı ve tedavisinde yardımcı olacak eğitim materyalleri, üretici
+aracılığıyla sağlık çalışanları için temin edilebilir.
+İzlem ve Laboratuvar Testleri
+Serum fosfat
+BALVERSA tedavisine başlandıktan sonraki 14 ila 21 gün içinde fosfat konsantrasyonları
+değerlendirilmeli ve sonrasında aylık olarak izlenmelidir. BALVERSA ile tedavi edilen
+hastalarda fosfat konsantrasyonları yükselirse, Tablo 2’deki doz değişikliği kılavuzları takip
+edilmelidir(bkz. Bölüm 4.2.).
+6Oküler takip
+Hastalar, BALVERSA ile tedaviye başlanmadan önce Amsler grid testi, fundoskopi, görme
+keskinliği ve eğer mümkünse OKT kullanılarak göz bozuklukları yönünden taranmalıdır. Bunun
+ardından hastalar Amsler grid testi kullanılarak aylık olarak muayene edilir. Anormal bulgu
+görülmesi veya görmede herhangi bir anormallik olması halinde Tablo 3’teki kılavuzlar takip
+edilir (bkz. Bölüm 4.2). Hastalara, hekim ziyaretleri arasında görme bozukluklarını tespit
+edebilmeleri için Amsler grid testini kendi kendilerine uygulamaları için yönergeler verilmelidir.
+4.5. Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+Erdafitinib, insanlarda öncelikli olarak CYP2C9 ve CYP3A4 tarafından O-demetile majör
+metabolitine metabolize olur. Erdafitinibin toplam klirensine CYP2C9 ve CYP3A4'ün katkısının
+sırasıyla % 39 ve % 20 olduğu tahmin edilmektedir. Değişmemiş haldeki erdafitinib, plazmadaki
+ilaçla ilişkili majör kısımdır ve dolaşımda metabolit yoktur.
+CYP2C9 veya CYP3A4 inhibitörleri
+Orta düzeyde etkili CYP2C9 veya güçlü CYP3A4 inhibitörlerinin birlikte uygulanmasının
+erdafitinibin kararlı durum maruziyetini arttıracağı öngörülmektedir. BALVERSA’nın orta
+düzeyde etkili CYP2C9 veya güçlü CYP3A4 inhibitörleriyle birlikte uygulanmasından
+kaçınılmalıdır.
+CYP2C9veya CYP3A4 indükleyiciler
+CYP2C9 veya CYP3A4 indükleyicilerinin birlikte kullanılmasının erdafitinib farmakokinetiği
+üzerindeki etkileri in vivo değerlendirilmemiştir. Güçlü CYP3A4 veya CYP2C9
+indükleyicilerinin birlikte uygulanmasının erdafitinibin kararlı durum maruziyetini azaltacağı
+öngörülmektedir. Güçlü CYP2C9 veya CYP3A4 indükleyicilerinin BALVERSA ile birlikte
+uygulanmasından kaçınılmalı ve enzim indükleme potansiyeli olmayan veya minimal düzeyde
+olan alternatif ajanlar düşünülmelidir.
+Asit düşürücü ajanlar
+Erdafitinib, 1 ila 7.4 pH aralığında yeterli çözünürlük sergiler. Asit düşürücü ajanların (örn. anti
+asitler, H -antagonistleri veya proton pompası inhibitörleri) erdafitinibin biyoyararlanımını
+2
+etkilemesi beklenmez.
+Taşıyıcıları etkileyen ilaçlar
+Erdafitinib P-gp'nin substratıdır ancak BCRP, OATP1B1 ve OATP1B3'in değildir. P-gp
+inhibitörlerinin erdafitinib PK’sini klinik olarak anlamlı biçimde etkilemesi beklenmez.
+Sevelamer
+Sevelamer alan hastalarda erdafitinib farmakokinetiğinde klinik olarak anlamlı farklılık meydana
+gelmemiştir (kalsiyum dışı, fosfat temizleyici).
+İlaç metabolize edici enzimler
+Erdafitinib in vitro ortamda CYP3A4’ün zamana bağlı bir inhibitörü ve indükleyicisidir.
+Erdafitinibin duyarlı bir CYP3A4 substratı üzerindeki etkisi bilinmemektedir. Erdafitinib, klinik
+olarak anlamlı konsantrasyonlarda diğer majör CYP izoenzimlerinin bir inhibitörü değildir.
+7İlaç taşıyıcıları
+Erdafitinib in vitro ortamda OCT2 ve P-Glikoproteinin (P-gp) bir inhibitörüdür. Erdafitinib,
+klinik olarak anlamlı konsantrasyonlarda BCRP, OATP1B1, OATP1B3, OAT1, OAT3, OCT1,
+MATE1 veya MATE-2K’yi inhibe etmez.
+Tablo 5’de listelenen ilaçlarda ilaç etkileşim çalışmaları veya etkileşimin beklenen şiddeti ve
+ciddiyeti nedeniyle potansiyel etkileşimler baz alınmıştır.
+Tablo 5 -Gösterilmiş veya Potansiyel İlaç-İlaç Etkileşimleri
+İlaç İsmi Kanıt Etki Klinik açıklama
+Kaynağı
+Aşağıdakiler gibi orta düzeyde etkili CYP2C9 veyagüçlü CYP3A4 inhibitörlerin
+erdafitinib üzerindeki etkisi:
+Flukonazol CT ↑ erdafitinib maruziyeti Güçlü CYP2C9 veya CYP3A4
+(orta düzeyde  C için ortalama oran inhibitörlerinin BALVERSA ile
+maks
+etkili CYP2C9 ve (%90 GA) %121’dir birlikte uygulanmasından
+CYP3A4 (99,9, 147) kaçınılmalıdır.Orta düzeyde etkilibir
+inhibitörü)  EAA∞ için ortalama CYP2C9 veya güçlü CYP3A4
+oran (%90 GA) inhibitörüyle birlikte
+%148’dir (120, 182) uygulanmasından kaçınılamıyorsa,
+İlaçla ilişkili toksisitede advers reaksiyonlar yakından
+artışa neden olabilir. izlenmeli,Tablo 4’te önerilen
+biçimde BALVERSA dozu
+düşürülmelidir(bkz. Bölüm 4.2.).
+İtrakonazol CT ↑ erdafitinib maruziyeti
+(güçlü CYP3A4  C için ortalama oran
+maks
+inhibitörü ve P-gp (%90 GA) %105’tir Orta düzeyde etkili CYP2C9 veya
+inhibitörü) (86,7, 127) güçlü CYP3A4 inhibitörleri kesilirse,
+ EAA∞ için ortalama ilaçla ilişkili toksisite olmaması
+oran (%90 GA) % halinde BALVERSA dozu
+134’tür (109, 164) ayarlanabilir.
+İlaçla ilişkili toksisitede
+artışa neden olabilir.
+Aşağıdakiler gibi CYP2C9 veya CYP3A4 indükleyicilerin erdafitinib üzerindeki etkisi:
+Rifampin T ↓ erdafitinib maruziyeti Birlikte uygulanmasından kaçınılmalı
+(güçlü CYP3A4 ve enzim indükleme potansiyeli
+indükleyicisi ve olmayan veya minimal düzeyde olan
+orta dereceli Aktivitede azalmaya alternatif ajanlar düşünülmelidir.
+CYP2C9 neden olabilir. BALVERSAorta dereceli bir
+indükleyicisi) CYP2C9 veya CYP3A4 indükleyici
+ile birlikte uygulanacaksa, advers
+reaksiyonlar ve serum fosfatın klinik
+izlemi ışığında doz dikkatli bir
+şekilde 9 mg'ye çıkarılabilir.
+İndükleyici kesilirse, BALVERSA
+dozu tolere edilen şekilde
+ayarlanabilir.
+Erdafitinibin aşağıdaki gibi CYP3A4 substratları üzerindeki etkisi:
+8Alprazolam, T CYP3A4 substratının BALVERSA ile dar terapötik indeksi
+Siklosporin, plazma konsantrasyonu olan duyarlı CYP3A4 substratlarının
+Dihidroergotamin değişebilir. birlikte uygulanmasından
+kaçınılmalıdır.
+Erdafitinibin aşağıdaki gibi OCT2 substratları üzerindeki etkisi:
+Metformin T OCT2 substratının OCT2 substratı olmayan alternatif
+plazma konsantrasyonu tedaviler düşünülmelidir.
+değişebilir.
+Erdafitinibin aşağıdakiler gibi P-Glikoprotein (P-gp) substratları üzerindeki etkisi:
+Digoksin T P-gp substratlarının Oral dar terapötik indeksi P-gp
+sistemik maruziyeti substratları, etkileşim potansiyelini
+artabilir. mimimuma indirmek için,
+erdafitinibden en az 6 saat önce veya
+sonra alınmalıdır.
+Açıklama: CT= Klinik Çalışma; T=Teorik (simülasyon)
+BALVERSA aç veya tok karnına uygulanabilir.
+İlaç-bitkisel ilaç etkileşimleri araştırılmamıştır.
+Sarı kantaron güçlü bir CYP3A indükleyicisi olduğu için eş zamanlı kullanımından
+kaçınılmalıdır.
+Laboratuvar testleriyle etkileşimler gösterilmemiştir.
+Özel popülasyonlara ilişkin ek bilgiler:
+Herhangi bir etkileşim çalışması yapılmamıştır.
+Pediyatrik popülasyon:
+Herhangi bir etkileşim çalışması yapılmamıştır. Erdafitinibe ait pediyatrik popülasyonda klinik
+etkililik ve güvenlilik verisi yoktur.
+4.6. Gebelik ve laktasyon
+Genel tavsiye
+Gebelik kategorisi:D
+BALVERSA’nın gebelik ve/veya fetus/yeni doğan üzerinde zararlı farmakolojik etkileri
+bulunmaktadır.
+BALVERSA gerekli olmadıkça gebelik döneminde kullanılmamalıdır.
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon)
+BALVERSA gebelikte ve etkili bir doğum kontrol yöntemi kullanmayan çocuk doğurma
+potansiyeline sahip kadınlarda kullanılmamalıdır.
+Çocuk doğurma potansiyeli olan kadın hastalara BALVERSA ile tedavi öncesi ve sırasında ve
+son dozdan 3 ay sonrasına kadar yüksek düzeyde etkili doğum kontrol yöntemi kullanmaları
+tavsiye edilmelidir. Erkek hastalar etkili bir doğum kontrol yöntemi (örn. kondom) kullanmalı
+ve BALVERSA ile tedavi sırasında ve son dozdan 3 ay sonrasına kadar sperm bağışlamamalı
+veya saklamamalıdır.
+BALVERSA ile tedaviye başlamadan önce, çocuk doğurma potansiyeli olan kadın hastalara
+yüksek duyarlılıklı tayini olan bir gebelik testi yapılması önerilir.
+9Gebelik dönemi
+BALVERSA gebe kadınlara uygulandığında fetal zarara yol açabilir.
+Erdafitinible ilgili riske ilişkin bilgi veren insan verileri yoktur. Gebe sıçanlarla yapılan bir
+çalışmada, erdafitinib maternal toksisiteye yol açmazken embriyo-fetal toksik ve teratojeniktir.
+Hayvanlarla yapılan çalışmalar ve etki mekanizması doğrultusunda, BALVERSA gebe kadınlara
+uygulandığında fetal zarara yol açabilir.
+BALVERSA gebelik sırasında kullanılırsa ya da hasta BALVERSA alırken hamile kalırsa, fetüs
+için potansiyel risk açısından hasta bilgilendirilmeli ve hastanın klinik ve terapötik seçenekleri
+hastayla tartışılmalıdır. Hastaya BALVERSA tedavisi sırasında ve tedavi bitiminden 3 ay
+sonrasına kadar gebe kalırsa veya gebelikten şüphe edilirse, doktoruyla iletişime geçmesi
+söylenmelidir.
+Laktasyon dönemi
+Erdafitinibin anne sütüne geçip geçmediğine, BALVERSA’nın anne sütü alan bebeklerdeki
+etkilerine veya süt üretimine etkilerine ilişkin bilgi yoktur. Anne sütü alan bebeklerde
+BALVERSA’nın ciddi advers reaksiyon potansiyeli nedeniyle, kadınlara BALVERSA tedavisi
+sırasında ve son BALVERSA dozundan sonraki 3 ay boyunca emzirmemeleri tavsiye
+edilmelidir.
+Üreme yeteneği/Fertilite
+BALVERSA’nın fertilite üzerindeki etkilerine dair insan verileri mevcut değildir. Hayvanlarla
+yapılan çalışmalar ışığında, BALVERSA çocuk doğurma potansiyeli olan kadınlarda fertiliteyi
+bozabilir.
+4.7. Araç ve makine kullanımı üzerindeki etkiler
+Erdafitinibin araç sürme ve makine kullanma kabiliyeti üzerindeki etkilerini ortaya koyan
+herhangi bir çalışma yapılmamıştır. Ancak FGFR inhibitörleriyle ve BALVERSA tedavisiyle
+santral seröz retinopati veya keratit gibi göz bozuklukları bildirilmiştir. Hastalarda görmelerini
+etkileyen semptomlar meydana gelirse, etkiler ortadan kaybolana kadar araç sürmemeleri veya
+makine kullanmamaları önerilir.
+4.8. İstenmeyen etkiler
+Advers Reaksiyonların Genel Özeti
+BALVERSA’nın güvenliliği, Faz 2 Çalışma BLC2001’de 87 hastada değerlendirilmiştir. Tüm
+hastalarda en az bir tedaviyle birlikte ortaya çıkan advers olay bildirilmiştir. En yaygın bildirilen
+TEAE’ler (≥ % 20) hiperfosfatemi, stomatit, diyare, ağız kuruluğu, iştahsızlık, disguzi, deride
+kuruluk, yorgunluk, konstipasyon, alopesi, palmar-plantar eritrodistezi sendromu, asteni, mide
+bulantısı, onikoliz, göz kuruluğu ve anemidir. Hastaların % 41'inde ciddi TEAE’ler meydana
+gelmiş olup, buna hastaların % 10’unda görülen göz bozuklukları dahildir. 3. Derece TEAE’ler
+hastaların % 67’sinde bildirilmiştir. En yaygın 3-4. Derece advers reaksiyonlar (≥ % 2) şunlardır:
+stomatit, tırnak distrofisi, palmar-plantar eritrodistezi sendromu, paronişi, tırnak bozukluğu,
+keratit, onikoliz ve hiperfosfatemidir.
+Hastaların sırasıyla % 68 ve % 53’ünde TEAE’ler nedeniyle doz kesintileri ve doz azaltma
+bildirilmiştir. En yaygın olarak doz değişikliklerine neden olan TEAE’ler (kesinti veya azaltma)
+hiperfosfatemi, stomatit, göz bozuklukları ve palmar-plantar eritrodisestezi sendromudur.
+1 hastada ölümle sonuçlanan akut miyokard enfarktüsü advers olayı meydana gelmiştir.
+10Klinik Çalışma Advers Reaksiyonları
+Klinik çalışmalar çok spesifik koşullarda gerçekleştirildiğinden, klinik çalışmalarda gözlenen
+advers reaksiyon oranları, uygulamada gözlenen oranları yansıtmayabilir ve bir başka ilaçla
+yapılan klinik çalışmalardaki oranlarla kıyaslanmamalıdır. Klinik çalışmalardan elde edilen
+advers reaksiyon bilgileri, ilaçla ilişkili advers olayların tespit edilmesinde ve oranların tahmin
+edilmesinde yararlıdır.
+Aşağıda tanımlanan güvenlilik verileri, Çalışma BLC2001’de BALVERSA’ya maruziyeti
+yansıtmaktadır. Bu, lokal olarak ilerlemiş veya metastatik ürotelyal karsinomlu, tümörlerinde
+FGFR2 veya FGFR3 gen füzyonları veya FGFR3 gen mutasyonları olan ve 12 aylık neoadjuvan
+veya adjuvan kemoterapi dahil olmak üzere daha önceki en az bir basamak kemoterapi sırasında
+hastalık progresyonu meydana gelmiş 87 hastanın dahil edildiği bir Faz 2 çalışmadır. Hastalar,
+fosfat konsantrasyonları 1. kür, 14. günde < 5,5 mg/dL olan hastalarda 9 mg’a doz artışı ile,
+günde bir kez, oral yoldan 8 mg BALVERSA ile tedavi edilmişlerdir. Medyan tedavi süresi 5,3
+aydı (aralık: 0-17 ay).
+Tablo 6’da Çalışma BLC2001’de günde bir kez 8 mg BALVERSA ile tedavi edilen hastaların ≥
+%10’unda bildirilen TEAE’ler verilmiştir.
+Sıklıklar; çok yaygın (≥ 1/10), yaygın (≥ 1/100 ila < 1/10); yaygın olmayan (≥ 1/1.000 ila <
+1/100); seyrek (≥ 1/10.000 ila < 1/1.000) ve çok seyrek (< 1/10.000), bilinmiyor (eldeki
+verilerden hareketle tahmin edilemiyor) şeklinde tanımlanmıştır. Advers reaksiyonlar, her sıklık
+grubunda ilgili olduğu yerde azalan ciddiyet sırasında sunulmaktadır.
+Tablo 6: BALVERSA ile Tedavi Edilen Hastaların ≥ % 10’unda Bildirilen Tedaviyle
+Birlikte Ortaya Çıkan Advers Olaylar (Tüm Dereceler)
+MedDRA sistem organ Günlük 8 mg (n = 87)
+sınıfı (SOS) Advers Sıklık Tüm Sıklık Derece 3–
+reaksiyon dereceler 4 (%)
+(%)
+Enfeksiyon ve Paronişi Çok yaygın 15 (%17) Yaygın 3 (%3)
+enfestasyonlar İdrar yolları Çok yaygın 15 (%17) Yaygın 5 (%6)
+enfeksiyonları
+Konjonktivit Çok yaygın 10 (%11) Görülmemektedir 0
+Kan ve lenf sistemi Anemi Çok yaygın 17 (%19) Yaygın 4 (%5)
+hastalıkları
+Metabolizma ve Hiperfosfatemi Çok yaygın 66 (%76) Yaygın 1 (%1)
+beslenme hastalıkları İştahsızlık Çok yaygın 33 (% 38) Görülmemektedir 0
+Hiponatremi* Çok yaygın 10 (%11) Çok yaygın 9 (%10)
+Hipomagneze- Çok yaygın 9 (%10) Görülmemektedir 0
+mi
+Sinir sistemi Disgüzi Çok yaygın 32 (%37) Yaygın 1 (%1)
+hastalıkları
+Göz hastalıkları Göz kuruluğu Çok yaygın 17 (%19) Yaygın 1 (%1)
+Bulanık görme Yaygın 15 (%17) Görülmemektedir 0
+Gözyaşı Çok yaygın 9 (%10) Görülmemektedir 0
+salgısında artış
+Solunum, göğüs Orofaringeal Çok yaygın 10 (% 11) Yaygın 1 (% 1)
+bozuklukları ve ağrı
+11mediastinal hastalıklar
+Gastrointestinal Stomatit Çok yaygın 49 (% 56) Yaygın 8 (% 9)
+hastalıklar
+Diyare Çok yaygın 41 (% 47) Yaygın 2 (% 2)
+Ağız kuruluğu Çok yaygın 39 (% 45) Görülmemektedir 0
+Kabızlık Çok yaygın 24 (% 28) Yaygın 1 (% 1)
+Bulantı Çok yaygın 18 (% 21) Yaygın 1 (% 1)
+Kusma Çok yaygın 11 (% 13) Yaygın 2 (% 2)
+Dispepsi Çok yaygın 10 (% 11) Görülmemektedir 0
+Deri ve deri altı doku Deride kuruluk Çok yaygın 30 (% 34) Görülmemektedir 0
+hastalıkları Alopesi Çok yaygın 23 (% 26) Görülmemektedir 0
+Palmar-plantar Çok yaygın 23 (% 26) Yaygın 5 (% 6)
+eritrodisestezi
+sendromu
+Onikoliz Çok yaygın 17 (% 19) Yaygın 1 (% 1)
+Tırnak distrofisi Çok yaygın 12 (% 14) Yaygın 4 (% 5)
+Tırnakta renk Çok yaygın 10 (% 11) Görülmemektedir 0
+değişimi
+Kas-iskelet Ekstremitelerde Çok yaygın 11 (%13) Görülmemektedir 0
+bozukluklar, bağ doku ağrı
+ve kemik hastalıkları
+Böbrek ve idrar Hematüri Çok yaygın 10 (%11) Yaygın 2 (% 2)
+hastalıkları
+Genel bozukluklar ve Yorgunluk Çok yaygın 29 (% 33) Yaygın 2 (% 2)
+uygulama bölgesine Asteni Çok yaygın 20 (% 23) Yaygın 7 (% 8)
+ilişkin hastalıkları Pireksi Çok yaygın 12 (% 14) Görülmemektedir 0
+Periferik ödem Çok yaygın 9 (% 10) Yaygın 1 (% 1)
+Araştırmalar Alanin amino- Çok yaygın 15 (% 17) Yaygın 1 (% 1)
+transferaz artışı
+Kilo kaybı Çok yaygın 14 (% 16) Görülmemektedir 0
+Kan kreatini Çok yaygın 10 (% 11) Görülmemektedir 0
+artışı
+Not: *En az 1 hastada4. derece advers olay meydana geldiğini gösterir.
+BLC2001 ve bazı vakalarda, diğer çalışmalarda BALVERSA uygulaması ile aşağıdaki advers
+reaksiyonlar (AR) bildirilmiştir.
+Santral seröz retinopati (SSR)
+BALVERSA ile tedavi edilen hastaların % 25'inde SSR advers reaksiyonları bildirilmiştir.
+SSR’ye koryoretinopati, retina dekolmanı, maküler retinal pigment epiteli dekolmanı, retinal
+pigment epiteli dekolmanı, retinal ödem, retinopati ve vitreus dekolmanı dahildir (bkz. Bölüm
+4.4.).
+Tırnak hastalıkları
+Hastaların % 56’sında tırnak hastalıkları bildirilmiş olup bunlara onikoliz, paronişi, tırnak
+distrofisi, tırnakta renk değişimi, onikalji, tırnakta bombeleşme, onikoklasi, onikomadezis, tırnak
+yatağında kanama ve tırnakta rahatsızlık dahildir. Tırnak hastalıkları insidansı, artan maruziyetle
+birlikte artış göstermiştir. Herhangi bir derece tırnak hastalığına kadar olan medyan süre 63
+gündür.
+12Deri hastalıkları
+Hastaların %52’sinde deri hastalıkları bildirilmiştir ve bunlara deride kuruluk ve palmar-plantar
+eritrodisestezi sendromu, prürit, deride fissürler, egzama, hiperkeratoz, deride eksfoliasyon, deri
+lezyonları, kseroderma, deri atrofisi, nummular egzama ve deri toksisitesi dahildir. Herhangi bir
+derecede deri hastalığına kadar olan medyan süresi 37 gündü.
+Hiperfosfatemi ve yumuşak doku mineralizasyonu
+BALVERSA yumuşak doku mineralizasyonu, kutanöz kalsinozis, üremik olmayan kalsiflaksi ve
+vasküler kalsifikasyona yol açan hiperfosfatemiye neden olabilir. BALVERSA ile tedavi edilen
+hastalarda, fosfat konsantrasyonlarındaki artışlar beklenen bir laboratuvar anormalliğidir (bkz.
+Bölüm 5.1). BALVERSA ile tedavi edilen hastaların %76’sında advers olay olarak
+hiperfosfatemi bildirilmiştir. Hiçbir hiperfosfatemi olayı ciddi olay olarak bildirilmemiştir.
+Herhangi bir derecede hiperfosfatemi olayı için medyan başlangıç süresi 20 gündü. Ortalama
+fosfat yükselmeleri, BALVERSA tedavisinin başlamasından yaklaşık 6 hafta sonra pik düzeye
+erişmiş ve yaklaşık 5. ayda 4,5 mg/dL’nin altına düşmüştü. Havuzlanmış klinik çalışmalarda
+BALVERSA ile tedavi edilen hastaların %0,3'ünde kutanöz kalsinozis, üremik olmayan
+kalsiflaksi ve vasküler kalsifikasyon gözlemlenmiştir.
+Daha Az Yaygın Görülen Klinik Çalışma Advers Reaksiyonları
+BALVERSA alan hastaların %10'undan azında bildirilen klinik olarak anlamlı advers
+reaksiyonlar aşağıdaki gibidir:
+Deri ve deri altı doku hastalıkları: Tırnak hastalığı, onikalji, prurit, deride fissürler, tırnakta
+bombeleşme, onikoliz, onikomadezis, egzema, hiperkeratoz, deride eksfoliasyon, deri lezyonu
+Göz hastalıkları: Konjonktivit, koryoretinopati, retinal pigment epiteli dekolmanı, keratit, retina
+dekolmanı, retinal ödem, kseroftalmi, retinopati, ülseratif keratit, vitreus dekolmanı
+Solunum, torasik ve mediastinal hastalıklar: Burunda kuruluk
+Genel hastalıklar ve uygulama yeri rahatsızlıkları: Mukozal kuruluk
+Anormal Laboratuvar Bulguları: Hematolojik, Klinik Kimya ve Diğer Kantitatif Veriler
+Tablo 7’de BLC2001 çalışmasındaki laboratuvar anormallikleri verilmiştir.
+Tablo 7: BALVERSA ile tedavi edilen hastaların ≥ % 10'unda bildirilen Laboratuvar
+Anormallikleri
+8 mg (N=86a)
+Laboratuvar Anormalliği Tüm Dereceler (%) Derece3–4 (%)
+Hematoloji
+Anemi 35 3
+Trombositopeni 19 1
+Lökopeni 17 0
+Nötropeni 10 2
+Kimya
+Hiperfosfatemib 76 1
+Kreatinin artışı 52 5
+Alanin aminotransferaz artışı 41 1
+Alkalen fosfataz artışı 41 1
+13Hiponatremi 40 16
+Hipoalbüminemi 37 0
+Aspartat aminotransferaz artışı 30 0
+Hipomagnezemi 30 1
+Hipofosfatemi 24 9
+Hiperkalsemi 22 3
+Hiperkalemi 16 0
+Hipoglisemi 10 0
+a 87 hastadan birinin laboratuvar testleri yoktur.
+b 3. Derece hiperfosfatemi 9 mg/dl < PO < 10 mg/dl olarak tanımlanmıştır; 4. derece
+4
+hiperfosfatemi PO >10 mg/dl veya 3. derece hipokalsemi ile başlangıç renal fonksiyonunda
+4
+anlamlı alterasyon olarak tanımlanmıştır.
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir (www.titck.gov.tr; e-posta:
+tufam@titck.gov.tr; tel: 0 800 314 00 08; faks: 0 312 218 35 99).
+4.9. Doz aşımı ve tedavisi
+BALVERSA ile doz aşımına ilişkin bilgi yoktur.
+BALVERSA doz aşımı için bilinen spesifik bir antidot mevcut değildir. BALVERSA doz aşımı
+tedavisi genel destekleyici önlemleri içermelidir.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1. Farmakodinamik özellikler
+Farmakoterapötik grup: Antineoplastik ajanlar, protein kinaz inhibitörleri, fibroblast büyüme
+faktörü reseptörü (FGFR)tirozin kinaz inhibitörleri
+ATC kodu: L01EN01
+Etki mekanizması
+Erdafitinib FGFR ailesinin üyeleri olan FGFR 1, 2, 3 ve 4'e bağlanan ve bunları inhibe eden bir
+oral pan-fibroblast büyüme faktörü reseptörü (FGFR) tirozin kinaz inhibitörüdür. Erdafitinib,
+FGFR fosforilasyonu ve sinyallemesini inhibe etmiş ve nokta mutasyonlar, amplifikasyonlar ve
+füzyonlar dahil olmak üzere aktive edilmiş FGFR genetik alterasyonlarını eksprese eden kanser
+hücre hatlarında hücre canlılığını azaltmıştır. FGFR yolağının aktive ettiği kanser hücre
+hatlarında % 50 tümör büyümesi inhibisyonu için gereken konsantrasyon (IC50) 0,1 ila 129,2
+nM düşük nanomolar aralıktadır.
+Erdafitinib, mesane kanseri dahil olmak üzere çoklu tümör tiplerinden türetilen FGFR kaynaklı
+hücre hatlarında ve ksenogreft modellerinde antitümör aktivite sergilemiştir.
+Kardiyak elektrofizyoloji
+Kanserli 187 hasta ile yapılan bir açık etkiletli, doz yükseltme ve doz ekspansiyonu
+çalışmasındaki Qtc aralığı doğrultusunda, erdafitinibin Qtc aralığı üzerinde büyük bir etkisi
+yoktur (yani >20 ms).
+In vitro, erdafitinibin 183 ng/mL IC50 değeri ile insan potasyum kanal geni (hERG) blokeri
+olduğu ve 44,7 ng/mL’den başlayarak tavşan ventriküler uç preparatlarında aritmiyi indükleme
+14potansiyeli olduğu gösterilmiştir. Hayvanlarla yapılan çalışmalarda, erdafitinib anestezi
+uygulanmış köpeklerde ve kobaylarda tek intravenöz dozdan sonra ve bilinci açık köpeklerde tek
+oral dozdan sonra QTc aralığını uzatmıştır. Ayrıca bilinci açık köpeklerde idiyoventriküler ritm,
+ventriküler kaçış ritmi ve kalp hızında düşüş de gözlenmiştir. Hayvanlarda tek doz
+uygulamalarının ardından erdafitinib için bağlanmamış C değerleri, önerilen maksimum
+maks
+klinik dozda insanlardaki bağlanmamış maruziyetlerden en az 2,4 kat daha yüksektir.
+Serum fosfat
+Bir popülasyon farmakokinetik/farmakodinamik (Pop PK/PD) modelinde, erdafitinibin FGFR
+inhibisyonunun bir farmakodinamik biyobelirteci olan serum fosfat konsantrasyonunu arttırdığı
+gösterilmiştir. Tedaviye başlandıktan 14 ve 21 gün sonra değerlendirildiği üzere, 5,5 – 7,0 mg/dL
+hedef serum fosfat konsantrasyonlarına ulaşmak üzere, önerilen doz aralığında sürekli günlük
+BALVERSA dozajı uygulaması yapılmalıdır(bkz. Bölüm 4.2).
+5.2. Farmakokinetik özellikler
+Genel özellikler
+Tablo 9: Kanserli Hastalarda 8 mg QD BALVERSAUygulamasının Ardından Kararlı
+Durumda Erdafitinibin Aritmetik Ortalama (SD) Farmakokinetik Parametreleri
+Kısım Cmax EAA t Pik-dip Vd/F (L) CL/F Etkili
+tau maks
+µg/mL) (µg.sa/mL (sa) a oranı (L/sa) t (sa)
+1/2
+)
+Erdafitinib 1,4 (0,71) 29 (18) 2,5 (2-6) 1,47 (0,34) 28,8 0,362 58,9
+a Açlık koşullarında t için medyan ve aralık
+maks
+Tek ve günde bir kez tekrarlı dozaj uygulamasının ardından erdafitinib maruziyeti (gözlenen
+maksimum plazma konsantrasyonu [C ] ve konsantrasyon eğrisi altındaki alan [EAA]) 0,5 ila
+maks
+12 mg doz aralığında dozla orantılı bir şekilde artmıştır. Günde bir kez dozaj uygulamasının
+ardından, kararlı duruma 2 hafta sonra ulaşılmıştır ve ortalama akümülasyon oranı tek doza
+kıyasla 4 kattır.
+Emilim:
+Tek doz oral uygulamadan sonra pik plazma konsantrasyonuna ulaşmak için geçen medyan süre
+(t ) 2,5 saatti (aralık: 2 ila 6 saat).
+maks
+Erdafitinib açlık koşullarında ve yüksek yağ içerikli bir öğünden sonra sağlıklı gönüllülere
+uygulandığında, C ve EAA değerlerinde klinik olarak anlamlı değişiklikler meydana
+maks
+gelmemiştir. T ’a ulaşmak için geçen medyan süre yemekle birlikte alındığında yaklaşık 1,5
+maks
+saat gecikmiştir.
+Dağılım:
+Kanserli hastalarda erdafitinibin ortalama görünür dağılım hacmi 28,8 L olup, ekstravasküler
+boşluk dışında dağılımın sınırlı olduğunu göstermektedir. Kanserli hastalarda, erdafitinib %
+99,76 oranında insan plazma proteinlerine, tercihen α1-asit glikoprotein AGP’ye bağlanmıştır.
+Biyotransformasyon:
+Erdafitinibin başlıca eliminasyon yolu metabolizmadır. Erdafitinib, insanlarda öncelikli olarak
+CYP2C9 ve CYP3A4 tarafından O-demetile majör metabolitine metabolize olur. CYP2C9 ve
+CYP3A4'ün erdafitinib toplam klirensine katkısının sırasıyla % 39 ve % 20 olduğu tahmin
+15edilmektedir. Değişmemiş haldeki erdafitinib plazmadaki ilaçla ilişkili majör kısımdır ve dolaşımda
+metabolit yoktur.
+Eliminasyon:
+Erdafitinibin ortalama toplam klirensi (CL/F) hastalarda 0,362 L/saattir. Erdafitinibin
+hastalardaki ortalama etkili yarı ömrü 58,9 saatti.
+Radyolojik olarak işaretlenmiş [14C]-erdafitinibin tek bir oral uygulamasından 16 gün sonrasına
+kadar, dozun % 69’u dışkıda (% 14-21 değişmemiş erdafitinib olarak) ve % 19’u idrarda (% 13'ü
+değişmemiş erdafitinib olarak) tespit edilmiştir.
+Doğrusallık /Doğrusal Olmayan Durum:
+Erdafitinib doğrusal farmakokinetik özelliklere sahiptir.
+Hastalardaki karakteristik özellikler
+Özel popülasyonlar:
+Yaş (21-88 yaş), cinsiyet, ırk (Hispanik veya Asyalı), kilo (36 ila 132 kg), hafif ila orta şiddetli
+böbrek işlev bozukluğu ve hafif ila orta şiddetli karaciğer işlev bozukluğu doğrultusunda,
+erdafitinib farmakokinetiğinde klinik olarak anlamlı farklılık gözlenmemiştir.
+Pediyatrik popülasyon (< 18 yaş)
+Erdafitinibin farmakokinetiği pediyatrik hastalarda incelenmemiştir.
+Geriyatrik popülasyon (≥ 65 yaş)
+Popülasyon PK analizinde, temel PK parametrelerinde istatistiksel olarak anlamlı yaş etkisi (21-
+88 yaş aralığında) belirgin değildir.
+Cinsiyet
+Popülasyon PK analizinde, cinsiyet ışığında erdafitinibin farmakokinetiğinde klinik olarak
+anlamlı farklılık gözlenmemiştir.
+Genetik Polimorfizm
+CYP2C9 zayıf metabolize edici
+Simülasyon, erdafitinib maruziyetinin CYP2C9 *3/*3 genotipi olan hastalarda artacağının
+tahmin edildiğini düşündürmektedir. Bu genotipi olduğu bilinen hastalar, advers reaksiyonlarda
+artış yönünden izlenmelidir.
+Böbrek yetmezliği
+Popülasyon PK analizine göre, normal böbrek fonksiyonu olan gönüllülerle (eGFR-MDRD
+[tahmini glomerüler filtrasyon hızı, renal hastalıkta diyet değişikliği] ≥ 90 mL/dak/1,73 m²) ve
+hafif (eGFR-MDRD 60 ila 89 mL/dak/1,73 m²) ve orta şiddetli böbrek işlev bozukluğu (eGFR-
+MDRD 30 ila 59 mL/dak/1,73 m²) olan gönüllüler arasında erdafitinib farmakokinetiğinde klinik
+olarak anlamlı farklılık gözlenmemiştir. Şiddetli böbrek yetmezliği olan hastalara ilişkin veri
+yoktur; bu nedenle bu hastalarda BALVERSA dikkatle uygulanmalıdır. Advers reaksiyonlar
+yakından izlenmeli ve Tablo 4’te önerilen biçimde BALVERSA dozu düşürülmelidir (bkz.
+Bölüm 4.2).
+Karaciğer yetmezliği
+PK analizleri doğrultusunda, hafif (Child-Pugh A) veya orta şiddetli (Child-Pugh B) karaciğer
+işlev bozukluğu olan hastalarda ve normal karaciğer işlevi olan gönüllülerde erdafitinib
+farmakokinetiği açısından klinik olarak anlamlı farklılık gözlenmemiştir. Şiddetli (Child-Pugh C)
+16karaciğer işlev bozukluğu olan hastalara ilişkin veriler sınırlıdır; bu nedenle BALVERSA bu
+hastalarda dikkatle uygulanmalıdır. Advers reaksiyonlar yakından izlenmeli ve Tablo 4’te
+önerilen biçimde BALVERSA dozu düşürülmelidir(bkz. Bölüm 4.2).
+Irk
+Irk/etnik kökenin erdafitinib PK’sine potansiyel etkileri, popülasyon PK analizi kapsamında ve
+klinik çalışmalarda araştırılmıştır. Popülasyon PK analizi veri setinde, erdafitinible tedavi edilen
+gönüllülerin çoğu beyazdı (Beyaz, Hispanik veya Latin, % 79,4). Hispanikler % 9,9 ve Asyalılar
+% 10,2’ye karşılık gelmektedir. Irk/etnik köken (Hispanik, Asyalı) ve erdafitinibin PK
+parametreleri arasında istatistiksel olarak anlamlı ilişki gözlenmemiştir.
+Vücut Ağırlığı
+Popülasyon PK analizinde, vücut ağırlığına göre (36 ila 132 kg) erdafitinibin farmakokinetiğinde
+klinik olarak anlamlı farklılık gözlenmemiştir.
+5.3. Klinik öncesi güvenlilik verileri
+Genel Toksikoloji
+Sıçanlarda ve köpeklerde 3 aya kadar tekrarlı doz oral toksisite çalışmaları yapılmıştır.
+Sıçanlarda (32 mg/kg, aralıklı dozaj programı, 7 gün tedavi/7 gün ara) ve köpeklerde (1,5 mg/kg,
+7 gün tedavi/ 7 gün ara) test edilen en yüksek dozlar bağlanmamış EAA karşılaştırmaları
+ışığında, önerilen maksimum klinik dozun sırasıyla yaklaşık olarak 1,4 ve 1,3 katıdır. Her iki
+türde de, esas olarak fosfat, FGF-23 ve 1,25 dihidroksivitamin D3’ün yüksek serum
+konsantrasyonları ile karakterize fosfat homeostazı bozukluğu gözlenmiştir. Sıçanlarda ve
+köpeklerde ilaçla ilişkili birincil toksisiteler olarak hiperfosfatemiyle ilişkili kondroid
+displazisi/metaplazisi ve yumuşak doku mineralizasyonu gözlenmiştir.
+Kondroid displazisi/metaplazisi büyüme plaklarında veya birçok kemikte sinkondrozlarda
+(sternum, femur) mevcut olup, klinik topallama ve sternum/kuyruk deformasyonlarına neden
+olmaktadır (sıçanlarda). Kalp, aort ve mide dahil olmak üzere, çoklu organ ve dokularda
+yumuşak doku mineralizasyonları gözlenmiştir. 32 mg/kg dozunda, bir erkek sıçanın ölümü (7
+gün tedavi/7 gün ara ile aralıklı dozaj programı) aort ve miyokardiyal mineralizasyondan
+kaynaklanmıştır.
+Sıçan ve köpeklerde anormal/düzensiz dentin ve sıçanlarda renk değişikliği ve odontoblastlarda
+dejenerasyon dahil olmak üzere diş anormallikleri gözlenmiştir. Başta kornea epitelinde atrofi
+(incelme) (sıçanlarda) ve gözyaşı bezi atrofisi (sıçanlarda ve köpeklerde) olmak üzere gözle
+ilişkili bulgular gözlenmiştir. Sıçanlarda veya köpeklerde glandüler dokularda (meme, tükürük
+bezi ve Harderian bezi) ve epitel yapılarda (dil ve ağız mukozası) ek atrofiler ve tüylerde
+(piloereksiyon, sert, ince tüyler veya tüylerde lokal dökülmeler) ve tırnaklarda (malformasyon,
+renk değişikliği veya kırılma) değişiklikler gözlenmiştir.
+4 haftalık ilaçsız iyileşme periyodunun sonunda sıçanlarda ve köpeklerde yumuşak doku
+mineralizasyonları (köpeklerde aort mineralizasyonu dışında), kondroid displazisi ve sıçanlarda
+meme bezi atrofisi kısmen veya tamamen iyileşmiştir. Mekanik bir çalışmada, sıçanlara fosfat
+temizleyici sevelamerle takviye edilmiş bir diyet verildiğinde, yumuşak doku mineralizasyonları
+azalmıştır.
+Tek dozun ardından modifiye Irwin testiyle nörofonksiyonal bütünlüğün değerlendirmesini
+içeren 1 aylık bir sıçan oral toksisite çalışmasında, erdafitinib ≥ 8 mg/kg dozunda minimal
+17nörofonksiyonel aberasyonları (kablo testi manevralarında bozulmalar ve vücut tonusunun sarkık
+olması) indüklemiştir. 8 mg/kg doz düzeylerinde, erdafitinib C önerilen klinik dozda insan
+maks
+maruziyetlerinden daha azdır.
+Karsinojenisite
+Hayvanlarda erdafitinibin karsinojenik potansiyelinin değerlendirilmesi için uzun süreli
+çalışmalar yapılmamıştır.
+Genotoksisite
+Erdafitinib bakteriyel ters mutasyon (Ames) tayininde mutasyonları indüklememiştir ve in vitro
+mikronükleus veya in vivosıçan kemik iliği mikronükleus tayininde genotoksik değildir.
+Üreme ve Gelişimsel Toksisite
+Fertilite
+Erdafitinible hayvanlarda ayrıca fertilite çalışmaları yapılmamıştır. Ancak 3 aylık tekrarlı doz
+sıçan toksisite çalışmasında, erdafitinib, önerilen maksimum klinik dozda insanlarda
+bağlanmamış EAA’nın 7,3 katına yakın maruziyette sıçanlarda dişi üreme organlarında etkiler
+göstermiştir (korpora luteada nekroz).
+Embriyo-fetal toksisite
+Erdafitinib maternal toksisite görülmeksizin sıçanlarda teratojenik ve embriyo-fetal açıdan
+toksiktir. Gebe sıçanlara organojenez periyodu süresince 1, 4 veya 8 mg/kg/gün oral dozlarında
+erdafitinib uygulanmıştır. 8 mg/kg/gün dozunda maternal toksisite gözlenmemiştir ancak fetal
+sağkalımda anlamlı azalma ve fetal ağırlıkta düşüş gözlemlenmiştir. ≥ 4 mg/kg/gün dozları
+bacak/pati defektleri (ektrodaktili, eksik veya şekilsiz uzun kemikler), malforme torasik ve
+lomber omurlar, büyük kan damarı anormallikleri (yüksek arklı/retroözofageal aort,
+retroözofageal subklavyan arteri) ve osifikasyon gerilikleri dahil olmak üzere fetal malformasyon
+ve varyasyonlarda artışla ilişkilendirilmiştir. Sıçanlarda 4 mg/kg/gün ve 8 mg/kg/gün dozlarında,
+maternal sistemik maruziyet, bağlanmamış EAA’ya bağlı olarak önerilen klinik dozda insan
+maruziyetlerinden daha düşüktü.
+Çalışma Tasarımı ve Çalışma Demografik Verileri
+Belirli FGFR Genetik Alterasyonları Olan, Lokal Olarak İlerlemiş veya Metastatik Ürotelyal
+Karsinom
+BLC2001 çalışması, lokal olarak ilerlemiş veya metastatik ürotelyal karsinomlu hastalarda
+BALVERSA’nın etkililiği ve güvenliliğini değerlendirmek üzere tasarlanmış çok merkezli, açık
+etiketli bir Faz 2 çalışmadır. Tüm hastalar araştırmanın ölçülebilir hastalık değerlendirmesine
+göre kaydedilmiştir Hastaların tümör dokularında aşağıdaki FGFR3 geni mutasyonlarından en az
+1’inin olması: R248C, S249C, G370C, Y373C veya aşağıdaki FGFR gen füzyonlarından 1’inin
+olması: Merkezi laboratuvar tarafından yapılan klinik çalışma tayiniyle belirlenen FGFR3-
+TACC3, FGFR3-BAIAP2L1, FGFR2-BICC1, FGFR2-CASP7 gerekliydi.
+Etkililik analizinde, hastalığı önceden en az bir kemoterapi sırasında veya sonrasında progresyon
+gösteren 87 hasta esas alınmıştır. Hastalar günde bir kez 8 mg BALVERSA başlangıç dozu almış
+ve doz, 14-17. günler arasında ölçülen serum fosfat düzeyleri 5,5 mg/dL hedefinin altında olan
+hastalarda günde bir kez 9 mg’ye çıkarılmıştır. Bu doz artışı, hastaların % 41'inde
+gerçekleşmiştir. BALVERSA hastalık progresyonu veya kabul edilemez toksisite meydana
+gelene kadar uygulanmıştır.
+18Temel hasta demografik verilerinin ve başlangıç hastalık özelliklerinin özeti aşağıda Tablo 10’da
+verilmiştir.
+Tablo 10: Temel Demografik Veriler ve Başlangıç Hastalık Özellikleri: BLC2001’de 8 mg
+günlük rejimde kemo-relaps/refrakter ürotelyal karsinomlu hastalar
+BALVERSA
+N 87
+Yaş (yıl)
+Ortalama 65
+Medyan (aralık) 67 (36, 87)
+< 65 34 (%39,1)
+>= 65 53 (%60,9)
+Cinsiyet
+Kadın 18 (%20,7)
+Erkek 69 (%79,3)
+Irk
+Beyaz 64 (%73,6)
+Beyaz ırk dışı 7 (%8)
+Bilinmiyor/bildirilmemiş 16 (%18,4)
+ECOG Performans Durumu Skoru
+0 44 (%50,6)
+1 36 (%41,4)
+2 7 (%8,0)
+Hemoglobin Düzeyi
+< 10 g/dL 14 (%16,1)
+>= 10 g/dL 73 (%83,9)
+Kreatinin klirensi (mL/dak)
+< 60 41 (%47,1)
+>= 60 46 (%52,9)
+Primer Tümör Bölgesi
+Üst idrar yolları (renal pelvis, üreter) 22 (%25,3)
+Alt idrar yolları (mesane, üretra, prostatik üretra) 65 (%74,7)
+Viseral metastazlar (akciğer, karaciğer ve kemik)
+Mevcut 69 (%79,3)
+Karaciğer 18 (%20,7)
+Akciğer 49 (%56,3)
+Kemik 18 (%20,7)
+Yok 18 (%20,7)
+Daha Önceki Sistemik Tedavi Basamaklarının Sayısı*
+1 44 (%50,6)
+2 29 (%33,3)
+>=3 14 (%16)
+Not: * Önceki tedaviler gemsitabin/gemsitabin HCl, sisplatin, karboplatin, anti-PD-(L)1’lerdir.
+Çalışma Bulguları
+Majör etkililik sonuç ölçütleri, Solid Tümörlerde Yanıt Değerlendirme Kriterleri (RECIST) v1.1
+kullanılarak araştırmacı tarafından belirlenen objektif yanıt oranı (ORR) ve yanıt süresidir
+19(DoR). Ayrıca, etkililik sonuçları bağımsız radyolojik inceleme kurulu (IRRC) tarafından da
+değerlendirilmiştir.
+Medyan yanıt süresi 5,3 ay ve medyan etkililik takip süresi 11,3 aydır.
+Bildirilmiş etkililik bulguları aşağıda Tablo 11 ve Tablo 12’de özetlenmiştir.
+Tablo 11: BLC2001 Çalışması için Etkililik bulguları
+Sonlanım noktası Araştırmacı değerlendirmesi
+N=87
+Objektif Yanıt Oranı (ORR) (%) %95 GA (%) 40,2
+(29,9, 50,5)
+Tam yanıt (CR) (%) 3,4
+Kısmi yanıt (PR) (%) 36,8
+Medyan Yanıt Süresi (ay) %95 GA (ay) 5,6
+(4,2, 7)
+ORR = CR+PR
+GA = Güven Aralığı
+IRRC değerlendirmesi, hastaların % 2,3'ünde CR’ler dahil olmak üzere % 32,2 ORR ile
+destekleyicidir (% 95 GA: 22,4, 42). IRRC tarafından değerlendirilen DoR'nin 5,4 ay olduğu
+tespit edilmiştir (% 95 GA: 4,2, 6,9).
+Tablo 12: FGFR Genetik Alterasyonuna Göre Etkililik Bulguları
+Araştırması değerlendirmesi
+FGFR mutasyonua(N=64) %48,4 (36,2, 60,7)
+ORR (% 95 GA)
+FGFR3 füzyonb (N=18)
+ORR (% 95 CI) %22,2 (3, 41,4)
+FGFR2 füzyonc (N=6)
+ORR (% 95 CI) 0
+a FGFR3-S249C, FGFR3-Y373C, FGFR3-R248C, FGFR3-G370C
+b FGFR3-TACC3_V1, FGFR3-TACC3_V3, FGFR3-BAIAP2L1, FGFR2-
+CASP7/FGFR3_TACC3_V3
+c FGFR2-CASP7, FGFR2-BICC1, FGFR2-CASP7/FGFR3_TACC3_V3
+6. FARMASÖTİK ÖZELLİKLER
+6.1. Yardımcı maddelerin listesi
+Çekirdek tablet
+Kroskarmelloz sodyum
+Magnezyum stereat (bitkisel kaynaklı)
+Mannitol
+Meglumin
+Mikrokristalin selüloz
+Film kaplaması
+Gliserol monokaprilokaprat Tip I
+Sarı demir oksit
+20Kısmenhidrolize polivinil alkol
+Sodyum lauril sülfat
+Talk
+Titanyum dioksit
+6.2. Geçimsizlikler
+Bilinen herhangi bir geçimsizliği bulunmamaktadır.
+6.3. Raf ömrü
+36 ay
+6.4. Saklamaya yönelik özel tedbirler
+30 ºC’nin altındaki oda sıcaklığında saklayınız.
+6.5. Ambalajın niteliği ve içeriği
+BALVERSA (erdafitinib) tabletler aşağıda belirtilen şekillerde 28 günlük veya 7 günlük tedarik
+içerecek şekilde, çocuk kilitli blister ambalajdatakdim edilir:
+ 3 mg tablet:
+ Her kutuda iki blister olmak üzere 28 tabletlik blister ambalajlar (toplam 56 tablet)
+[28 günlük, 6 mg günlük doz içeren tedarik]
+ Her kutuda iki blister olmak üzere 42 tabletlik blister ambalajlar (toplam 84 tablet)
+[28 günlük, 9 mg günlük doz içeren tedarik]
+6.6. Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+Kullanılmamış olan ürünler ya da atık materyaller “Tıbbi Atıkların Kontrolü Yönetmeliği” ve
+“Ambalaj Atıklarının Kontrolü Yönetmelik”lerine uygun olarak imha edilmelidir.
+7. RUHSAT SAHİBİ
+Johnson and Johnson Sıhhi Mal. San. ve Tic. Ltd. Şti.
+Kavacık/Beykoz/İstanbul
+8. RUHSAT NUMARASI
+2022/596
+9. İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi: 18.10.2022
+Ruhsat yenileme tarihi:
+10.KÜB’ÜN YENİLENME TARİHİ
+21

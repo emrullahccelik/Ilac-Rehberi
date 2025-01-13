@@ -1,0 +1,292 @@
+KISA ÜRÜN BİLGİSİ
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+MAKRO-ALBUMON, radyofarmasötik hazırlama kiti
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde:
+Her flakon 2 mg insan serum albumin makroagregatı içerir.
+Yardımcı Maddeler:
+Sodyum Klorür 4.5mg/flakon
+Yardımcı maddeler için 6.1.’e bakınız.
+3. FARMASÖTİK FORM
+Radyofarmasötik hazırlama kiti.
+Beyaz liyofilize tozdur.
+Kit, azot altında kapatılmış, steril ve pirojen olmayan bir üründür. 99mTc-perteknetat ile
+işaretlenerek intravenöz enjeksiyon için uygun hale getirilir.
+1 flakon 2-4x106 partikül içerir, boyutları 10-90 μm arasında değişir. İşaretlenmiş partiküller
+intravenöz olarak enjekte edildiği zaman partiküllerin çoğunluğu pulmoner kapiller yataktan ilk
+geçişte dolaşımdan uzaklaştırılır. Böylece pulmoner sintigrafi sağlanır. İşaretlenmiş materyal alt
+bacak veya pelviste radyonüklid venografi uygulaması için de uygundur.
+Kit, 6 flakon, işaretlenmiş preparatın parametrelerini gösteren 6 adet kendinden yapışkanlı etiket ve
+kullanım talimatı içerir.
+4. KLİNİK ÖZELLİKLER
+4.1. Terapötik endikasyonlar
+Kit, steril 99mTc perteknetat ile işaretledikten sonra aşağıdaki tetkikler için kullanılır:
+• Akciğer perfüzyon sintigrafisi
+• Pulmoner emboli
+• Akciğer kanseri
+• Diğer akciğer hastalıklarında post operatif solunum fonksiyonlarının tahmini
+• Venöz dolaşımın görüntülenmesi
+• Abdominal ve retroperitoneal organların arteriyel perfüzyon sintigrafisi
+• Alt ekstremitelerde ve pelviste derin ven trombozunun tesbiti
+• Vena kava inferiyor oklüzyonu
+14.2. Pozoloji ve uygulama şekli
+99mTc-MAKRO-ALBUMON sadece intravenöz bolus enjeksiyon şeklinde kullanılır. Bir flakon
+MAKRO-ALBUMON 5-6 tetkik için partikül içerir. Dolayısı ile bir flakonun tüm içeriğinin hiçbir
+zaman tek bir hastaya verilemeyeceğine dikkat edilmesi önemlidir. Aynı zamanda, hiçbir zaman,
+işaretlenmemiş insan serum albumini de uygulanmamalıdır. Uygulamadan önce, işaretlenmiş
+MAKRO-ALBUMON’un flakondan çekilip tekrar flakona bırakılarak homojen bir solüsyon elde
+edilmesi gereklidir. Bu işlem sırasında köpük oluşumundan kaçınılmalıdır.
+Erişkin dozları
+Erişkinlerde akciğer sintigrafisi için 37-185 MBq 99mTc-MAKRO-ALBUMON intravenöz olarak
+uygulanmalıdır. Enjeksiyon mutlaka istirahat halindeki iyi ve güçlü solunumu olan hastalara
+uygulanmalıdır. Rutin olarak akciğer sintigrafisi planar projeksiyonda; anteriyor, posteriyor, sağ
+lateral, sol lateral, sağ oblik (30o, 70o), sol oblik (30o, 70o) pozisyonlarda yapılır.
+Akciğer perfüzyon sintigrafisi için minimal partikül sayısı 50 000 partiküldür. Tanısal olarak yeterli
+ve risk yaratmayan bir tetkik için önerilen optimal partikül sayısı 100-150.000, maksimum partikül
+sayısı 500.000’dir.
+Özel popülasyonlara ilişkin ek bilgiler:
+Pediyatrik popülasyon
+Çocuklardaki aktivite erişkinler için önerilen aktiviteden kilo veya yüzey alanına göre
+hesaplanabilir.
+Ancak, EANM (Avrupa Nükleer Tıp Topluluğu) Pediyatrik Görev Grubu, uygulanacak
+aktivitenin vücut ağırlığından aşağıdaki tablo kullanılarak hesaplanmasını önermektedir:
+Erişkin dozlarının fraksiyonu
+3 kg = 0.10 22 kg = 0.50 42 kg = 0.78
+4 kg = 0.14 24 kg = 0.53 44 kg = 0.80
+6 kg = 0.19 26 kg = 0.56 46 kg = 0.82
+8 kg = 0.23 28 kg = 0.58 48 kg = 0.85
+10 kg = 0.27 30 kg = 0.62 50 kg = 0.88
+12 kg = 0.32 32 kg = 0.65 52-54 kg = 0.90
+14 kg = 0.36 34 kg = 0.68 56-58 kg = 0.92
+16 kg = 0.40 36 kg = 0.71 60-62 kg = 0.96
+18 kg = 0.44 38 kg = 0.73 64-66 kg = 0.98
+20 kg = 0.46 40 kg = 0.76 68 kg = 0.99
+1 yaşındaki bir çocuk için agrege partiküllerin önerilen miktarı 165.000’dir ve bebeklerde bu miktar
+50.000 partikülü geçmemelidir.
+2Tüm vakalarda görüntüleme enjeksiyondan hemen sonra yapılmalıdır.
+99mTc-MAKRO-ALBUMON hastalara genellikle bir kez uygulanır, ancak gerekirse, herhangi
+bir
+allerjik reaksiyona yol açmadan tekrarlanabilir. Tekrarlanan enjeksiyon, ilk enjeksiyonu takiben 36-
+48 saat sonra yapılabilir (99mTc’un 6-8 saatlik yarılanma ömrüne göre).
+4.3. Kontrendikasyonlar
+MAKRO-ALBUMON şu durumlarda kontrendikedir:
+• Etkin madde veya yardımcı maddelerden herhangi birine karşı hipersensitivite
+• Doğal veya agrege insan serum albuminine karşı belirlenmiş allerjik reaksiyonlar
+• Hemodinamik etki, sağ-sol şant
+• Ciddi pulmoner hipertansiyon
+• Status astmatikus
+• Gebelik
+4.4. Özel kullanım uyarıları ve önlemleri
+99mTc ile işaretlenerek kullanılan bu preparat, insan serum albuminine karşı hipersensitivite öyküsü
+olan hastalara uygulanmamalıdır.
+Gebe veya emziren kadınlara ve 18 yaşından küçük çocuklara, elde edilecek klinik bilginin yararı
+hastanın aldığı radyasyonun oluşturduğu riskten fazla olmadıkça, uygulanmamalıdır.
+Çocuk doğurma potansiyeli olan kadınlarda uygulama menstrüasyonun başlamasından sonraki ilk
+10 günde yapılmalıdır.
+İşaretlenen ürün sulandırma yapıldıktan sonra 8 saat içinde kullanılabilir. Süspansiyon her zaman
+flakonun içine enjekte edip tekrar çekilerek karıştırılmalıdır. Eğer ihtiyaç olursa işaretli preparat
+steril, izotonik salin çözeltisi kullanılarak seyreltilebilir. İşaretli peparat 25 ºC’ın altında ve
+oksidanlardan korunarak saklanmalıdır.
+Sulandırmadan önce her flakon 4.5 mg sodyum içerir. Bu tıbbi ürün her dozu başına 1 mmol
+(23 mg)’dan daha az sodyum ihtiva eder; yani esasında “sodyum içermez”.
+Bu ürünün işaretlenmesi ve uygulanması, radyasyon güvenliği ve farmasötik gereklilikleri
+karşılayacak şekilde yapılmalıdır.
+RADYOFARMASÖTİKLER SADECE NÜKLEER TIP UZMANLARI TARAFINDAN
+NÜKLEER TIP MERKEZLERİNDE UYGULANMALIDIR.
+MAKRO-ALBUMON, 99mTc ile işaretlenmeden hastaya uygulanmamalıdır.
+Akciğer perfüzyonu uygulamalarında enjekte edilen işaretli partiküllerin sayısı 600.000’i
+geçmemelidir.
+34.5. Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+99mTc-MAKRO-ALBUMON’un biyolojik dağılımı bazı ilaçlar tarafından değiştirilebilir. Heparin,
+kemoterapötik ajanlar, eroin, busulfan, nitrofurantoin, siklofosfamid veya bronkodilatatörler orijinal
+biyolojik dağılımı değiştirebilirler.
+4.6. Gebelik ve laktasyon
+Gebelik kategorisi: C
+Çocuk doğurma potansiyeli bulunan kadınlar / Doğum kontrolü (Kontrasepsiyon)
+Çocuk doğurma potansiyeli olan bir kadına bu radyoaktif ilacın uygulanması gerektiğinde, mutlaka
+gebelik olasılığı düşünülmelidir. Bir periyodunda gecikme olan tüm kadınlar, aksi kanıtlanmadıkça,
+hamile olarak kabul edilmelidir. Herhangi bir şüphe halinde, istenen klinik bilgiye ulaşılmasını
+sağlayacak en düşük radyasyon maruziyeti sağlanmalıdır. İyonize radyasyonu içermeyen diğer
+alternatif teknikler de göz önüne alınmalıdır.
+Gebelik dönemi
+Gebe bir kadına radyoaktif bir madde ile tetkik yapıldığında fetüs de radyasyon dozu alır. Bu
+nedenle, hamilelik sırasında bu tür tetkikler sadece zorunlu ise ve tetkikten elde edilecek yarar anne
+ve fetüse olan risklerden açık olarak daha fazla ise yapılmalıdır.
+Laktasyon dönemi
+Emziren bir kadına radyoaktif bir ürün verilmesinden önce, yapılacak olan incelemenin emzirme
+döneminin sonuna ertelenme olasılığı mutlaka düşünülmelidir. Ayrıca, radyoaktivitenin anne sütüne
+geçtiği de dikkate alınarak, en uygun radyofarmasötik seçimi yapılmalıdır. Radyofarmasötik ilacın
+uygulanması gerektiğine karar verilmişse, ilaç verilmeden önce süt biriktirilmeli ve enjeksiyondan
+itibaren 12 saat süreyle emzirmeye son verilmelidir. Bu süre içinde sağılan süt atılmalıdır. Sütteki
+radyasyon düzeyi bebeğe 1 mSv’den daha fazla radyasyon dozu vermeyecek seviyeye indiğinde
+yeniden emzirmeye başlanabilir.
+Üreme yeteneği ve fertilite:
+MAKRO-ALBUMON’un üreme yeteneği ve fertilite üzerine bilinen bir etkisi yoktur.
+4.7. Araç ve makine kullanımı üzerindeki etkiler
+Bir etkisi yoktur.
+4.8. İstenmeyen etkiler
+99mTc- MAKRO-ALBUMON gibi protein içeren radyofarmasötiklerin kullanılması halinde
+hipersensitivite reaksiyonları gelişebilir. Bu nedenle, uygulama sırasında gerekli ilaçlar ve
+reanimasyon cihazları mutlaka hazır bulundurulmalıdır.
+İyonize radyasyona maruziyet, elde edilecek yarar açısından hasta bazında
+gerekçelendirilebilmelidir. Uygulanan aktivite, istenen tanısal sonuçları elde etmeye yeterli olacak
+mümkün olan en düşük radyasyon dozu olmalıdır.
+44.9. Doz aşımı ve tedavisi
+Hayvan deneylerinde MAKRO-ALBUMON’un doz aşımı ile ilişkili bir risk tesbit edilmemiştir.
+Klasik olarak doz aşımı kelimesinin düşündürdüğü anlamda (bir üründen kilogram başına aşırı
+miktarda almak) bir maruziyet bu preparat için söz konusu değildir. Ancak, 99mTc-MAKRO-
+ALBUMON için doz aşımı, aşırı fazla sayıda partikülün enjeksiyonu şeklinde düşünülmelidir.
+Erişkinler için enjekte edilebilecek maksimum partikül sayısı, 1.5x106’yı aşmamalıdır. Dikkatsizlik
+sonucu doz aşımı meydana gelen vakalarda yüksek radyoaktivite maruziyetini azaltabilmek için
+destekleyici diürez (yani sık idrara çıkma) sağlanabilir.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1. Farmakodinamik özellikler
+ATC kodu : V09DB
+Grup : Teknesyum (99mTc), partiküller ve kolloidler
+99mTc-MAKRO-ALBUMON, önerilen dozlarda ve uygulama yoluyla herhangi bir farmakodinamik
+etki göstermez.
+5.2. Farmakokinetik özellikler
+Dağılım:
+99mTc-MAKRO-ALBUMON i.v. enjeksiyonundan 5-10 dakika sonra mikroemboliye yol açan
+işaretlenmiş makroagregatların %80’den fazlası pulmoner kapillerlerde bloke edilir. Bunların
+büyüklüğü 10-90 μm aralığındadır. Önerilen (3-5x105) agrege albumin partikül sayısı ile oluşan
+mikroemboli çok küçüktür ve pulmoner dolaşımda herhangi bir sorun oluşturmaz.
+Intravenöz uygulamadan sonra, partikül büyüklüğü 1-10 μm’dan küçük partiküller (yani pulmoner
+kapillerlerden küçük boyutta olanlar) doğrudan retiküloendoteliyal sistem organlarına (karaciğer,
+dalak ve kemik iliği) geçerler.
+Eliminasyon:
+Akciğerdeki makroagregatların efektif yarılanma ömürleri yaklaşık 3-5 saat, biyolojik yarılanma
+ömürleri ise 3-15 saattir. Bu süre boyunca bu makroagregatlar daha küçük partiküllere parçalanır ve
+retiküloendoteliyal sistem hücreleri tarafından fagositozla yok edilirler.
+1-10 μm’dan küçük partiküller böbrekler yolu ile atılır.
+5.3. Klinik öncesi güvenlilik verileri
+Preklinik çalışmalar sırasında yapılan patolojik incelemelerde deney hayvanlarının organlarında
+herhangi bir patoloji tesbit edilmemiştir. Konu ile ilgili yayınlarda teratojenite, mutajenite veya
+karsinojenite bildirilmemiştir.
+56. FARMASÖTİK ÖZELLİKLER
+6.1. Yardımcı maddelerin listesi
+Kalay klorür dihidrat
+Sodyum klorür
+Askorbik asit
+Glikoz
+6.2 Geçimsizlikler
+Bilinen bir geçimsizliği yoktur.
+6.3. Raf ömrü
+24 ay
+Sodyum 99mTc perteknetat ile işaretlenmiş ürün 25°C’nin altındaki sıcaklıklarda saklanmak
+koşuluyla 8 saat içinde kullanılmalıdır.
+Sodium perteknetat [99mTc] enjeksiyon Avrupa Farmakopesi spesifikasyonları ile uyumlu olmalıdır.
+6.4 Saklamaya yönelik özel tedbirler
+25°C’nin altında ışıktan koruyarak saklanmalıdır.
+İşaretlenmiş ürünlerin saklanması radyoaktif maddeler için ulusal mevzuatla uyumlu olmalıdır.
+Flakon içeriği, sadece, kullanma talimatında belirtildiği şekilde radyoaktif 99mTc işaretli
+preparatın hazırlanmasında kullanılması için planlanmıştır.
+Çocukların göremeyeceği, erişemeyeceği yerlerde ve ambalajında saklayınız.
+6.5 Ambalajın niteliği ve içeriği
+8 ml şeffaf, steril, Tip I cam flakonlar, steril lastik tıpa ile ve köşesi yukarı kıvrılmış
+plastik-aluminyum kapakla kapatılmıştır.
+6.6 Beşeri tıbbi üründen arta kalan maddelerin imhası ve diger özel önlemler
+Radyoaktif atıklar, Türkiye Atom Enerjisi Kurumu mevzuatı doğrultusunda ve ayrıca “Tıbbi
+Atıkların Kontrolü Yönetmeliği” ve “Ambalaj Atıklarının Kontrolü Yönetmeliği” ne uygun olarak
+imha edilmelidir.
+7. RUHSAT SAHİBİ
+6Can Radyofarmasötik Ürünler Sanayi ve Ticaret
+A.Ş. Ali Paşa Sanayi Bölgesi 12. Sokak, No: 19
+Silivri-İstanbul
+Tel: 0090(212) 716 53 45
+Faks: 0090(212) 716 53 51
+8. RUHSAT NUMARASI
+136/11
+9. İLK RUHSAT TARİHİ / RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi:22/05/2013
+Ruhsat yenileme tarihi:
+10. KÜB’ÜN YENİLENME TARİHİ
+711. DOZİMETRİ
+Erişkin ve çocuklar için radyasyon dozu
+99mTc-MAKRO-ALBUMON uygulanmasından sonra tahmini absorbe edilen radyasyon dozu
+Absorbe Edilen Doz
+Organ Yetişkin 15 yaş 10 yaş 5 yaş 1 yaş Yeni doğan
+(µGy/MBq) (µGy/MBq) (µGy/MBq) (µGy/MBq) (µGy/MBq) (µGy/MBq)
+Akciğer 70.8 104 145 220 420 1120
+Mesane duvarı 37.1 46.9 68.2 102 186 446
+Kalp duvarı 9.24 12.2 16.9 23.6 35.8 69.6
+Karaciğer 8.24 10.9 15.3 21.6 38.0 77.5
+Timus 6.06 7.61 10.8 14.6 21.2 39.0
+Adrenaller 5.67 7.47 11.0 16.4 27.5 59.1
+Meme 4.91 5.43 9.76 13.8 20.5 39.3
+Uterus 4.88 5.93 9.18 13.4 23.2 43.5
+Kemik yüzeyi 4.73 5.98 8.51 12.9 24.1 48.8
+Pankreas 4.58 6.23 9.05 14.1 24.7 48.8
+Tüm vücut 3.95 5.03 7.36 11.3 20.3 44.9
+Dalak 3.87 5.05 7.59 12.0 20.7 41.1
+Safra kesesi duvarı 3.33 4.35 7.10 10.6 15.2 38.6
+Mide 3.19 4.50 6.80 7.14 11.3 35.3
+Kırmızı kemik iliği 3.07 3.63 5.03 6.74 10.9 22.1
+Kas dokusu 2.85 3.64 5.16 7.67 13.6 28.6
+Kolon duvarı üst segment 2.71 3.38 5.29 7.72 13.4 26.2
+Overler 2.69 3.44 5.19 7.90 13.6 27.3
+Böbrekler 2.36 3.22 5.00 7.78 13.8 29.3
+Tiroid 2.33 3.04 5.26 8.30 14.9 27.1
+Bağırsaklar 1.91 2.51 4.13 10.20 16.9 25.5
+Kolon duvarı alt segment 1.85 2.47 4.28 6.65 12.1 26.0
+Testisler 1.78 2.45 4.17 6.47 12.1 23.8
+Cilt 1.34 1.55 2.51 3.91 7.07 16.1
+Beyin 0.70 0.88 1.46 2.36 4.10 9.46
+Doz hesaplamaları standart MIRD metodu ile yapılmıştır (MIRD Kitapçık No.1, Nükleer Tıp
+Topluluğu, 1976). Etkin doz eşdeğerliği (EDE) ICRP 53 (Ann. ICRP 18 (1-4), 1988)’de belirlendiği
+şekilde tesbit edilmiştir. Bu değerler; erişkinler için: 1.45 x 10-2 mSv/MBq ve 15, 10, 5, 1
+yaşlarındaki çocuklar ve yenidoğan bebekler için sırası ile: 2.00 x 10-2 mSv/MBq, 2.85 x 10-2
+mSv/MBq, 4.26 x 10-2 mSv/MBq, 7.81 x 10-2 mSv/MBq and 19.4 x 10-2 mSv/MBq’dir.
+8Kadınlarda ve hamile kadınlarda radyasyon dozu
+99mTc MAKRO-ALBUMON enjeksiyonunu takiben absorbe edilen tahmini radyasyon dozu
+Absorbe edilen doz
+Doz hesaplamaları standart MIRD metodu ile yapılmıştır (MIRD Kitapçık No.1, Nükleer Tıp
+Topluluğu, 1976). Etkin doz eşdeğerliği (EDE) ICRP 80 (Ann. ICRP 18 (1-4), 1988)’de belirlendiği
+şekilde tesbit edilmiştir. Bu değerler; kadınlar için: 1.87 x 10-2 mSv/MBq ve 3, 6 ve 9 aylık gebelik
+dönemleri için sırası ile:
+1.86x10-2
+mSv/MBq,
+1.87x10-2
+mSv/MBq and
+2.32x10-2
+mSv/MBq’dir.
+912. RADYOFARMASÖTİKLERİN HAZIRLANMASINA YÖNELİK TALİMATLAR
+Hazırlama metodu:
+Bu ilaç flakonunu, 3 mm kalınlığındaki kurşun zırhın içine yerleştiriniz. Daha sonra steril bir
+enjektör kullanarak aseptik koşullarda gerekli aktiviteyi içeren (maksimum 3.7 GBq) sahip 2-8 ml
+99mTc perteknetat’ı lastik kapaktan flakona enjekte ediniz. Enjektörü flakondan çıkarmadan önce
+çözeltinin üstündeki boşluk kısmından 2-8 cm3 hava çekerek flakonun içindeki basıncı
+dengeleyiniz. Hava alan (Breather) iğne kullanmayınız. Dondurularak kurutulmuş toz tamamen
+çözününceye kadar flakonu karıştırınız. 20 dk boyunca 20-25 ºC’da bekletiniz, bu süre içinde
+periyodik olarak flakonu karıştırınız. Verilen etiketteki bilgileri doldurunuz ve flakona yapıştırınız.
+Kalite kontrolü:
+İşaretlemenin kalitesi (radyokimyasal saflık) aşağıda verilen işlemlere göre kontrol edilir:
+Metod: Yükselen ince-tabaka kromatografisi
+Materyal ve reaktifler:
+1. 2.0x20 cm ince tabaka kromatografi bandı
+2. Mobil faz: Metil-Etil-Keton (MEK)
+3. Yürütücü tankı
+4. Enjektör, iğne, makaslar, maşa ve aktivite ölçümü için gerekli cihazlar
+Prosedür:
+Mobil fazı 2 cm derinliğinde olacak şekilde tankın içine koyun.
+Jel üstüne yaklaşık 5-10 μl hacimde preparat ve referans 99mTc perteknetat çözeltisi damlatın ve
+havada kurutun. Dik pozisyonda tankın içine yerleştirin ve kapağı kapatın. Test örneğinin
+(damlatılan bölge) çözücü seviyesinin üstünde kalacağı şekilde bandı mobil fazın içine daldırın.
+Maşa ile yürütülmüş ince tabaka bandını tanktan alın, bandı kurutun ve uygun ekipmanla aktivite
+dağılımını tesbit edin.
+MEK ile yürütme sırasında, işaretlenmiş preparat başlangıç çizgisinde kalır (Rf=0.0), buna karşılık
+bağlanmamış perteknetat mobil fazın üst çizgisi ile hareket eder (Rf=0.9-1.0). Radyoaktivite
+dağılımını tesbit edin ve preparata bağlanmış olan total radyoaktivite yüzdesini ve serbest
+perteknetat veya radyoaktif safsızlıkları tayin edin.
+İşaretleme etkinliğinin ölçümü:
+R = 0.0’da aktivite (cpm)
+f
+99mTc- MAKRO-ALBUMON (%) = ------------------------------------------- x100
+İnce tabakada total aktivite (cpm)
+Radyokimyasal safsızlığın tayini:
+R = 1.0’da aktivite (cpm)
+f
+Radyokimyasal safsızlık (%) = ---------------------------------------- ------x100
+İnce tabakada total aktivite (cpm)
+Radyokimyasal saflılık en az %90 olmalıdır ve safsızlıkların yüzdesi %10’u aşmamalıdır.
+10

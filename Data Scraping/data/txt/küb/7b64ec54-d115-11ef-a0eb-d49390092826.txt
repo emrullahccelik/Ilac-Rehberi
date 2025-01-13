@@ -1,0 +1,622 @@
+KISA ÜRÜN BİLGİSİ
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+INFANRIX HEXA 0,5 ml IM Enjeksiyon İçin Liyofilize Toz ve Süspansiyon İçeren Kullanıma
+Hazır Enjektör
+Steril
+Difteri (D), Tetanoz (T), Aselüler Boğmaca komponenti (Pa), Hepatit B (rDNA) (HBV), Çocuk
+felci (inaktif) (IPV) ve Haemophilus influenzae tip b (Hib) konjuge aşısı (adsorbe)
+2. KALİTATİF VE KANTİTATİF BİLEŞİMİ
+Etkin madde:
+1 doz (0.5 mL) içerisinde:
+Difteri toksoidi1 en az 30 Uluslararası Ünite (IU)
+Tetanoz toksoidi 1 en az 40 Uluslararası Ünite (IU)
+Bordetella pertussis antijenleri
+Pertussis toksoidi (PT)1 25 mikrogram
+Filamentöz Hemaglutinin (FHA)1 25 mikrogram
+Pertaktin (PRN)1 8 mikrogram
+Hepatit B yüzey antijeni (HBs)2,3 10 mikrogram
+Polio virüsü (inaktif) (IPV)
+tip 1 (Mahoney suşu)4 40 D-antijen ünite
+tip 2 (MEF-1 suşu)4 8 D-antijen ünite
+tip 3 (Saukett suşu)4 32 D-antijen ünite
+Haemophilus influenzae tip b polisakkarid (PRP) 10 mikrogram
+(poliribosilribitol fosfat)3
+Taşıyıcı protein olarak tetanoz toksoidine konjuge yaklaşık 25 mikrogram
+1aluminyum hidroksid üzerine adsorbe edilmiş, hidrate (Al(OH) ) 0.5 miligram Al3+
+3
+2rekombinan DNA teknolojisi ile maya hücrelerinde (Saccharomyces cerevisiae) üretilmiş
+3aluminyum fosfat üzerine (AlPO ) adsorbe edilmiş 0.32 miligram Al3+
+4
+4VERO hücrelerinde çoğaltılmış
+Yardımcı maddeler:
+Sodyum klorür 4.5 mg
+Bu aşı eser miktarda, üretim prosesinde kullanılan, formaldehit, neomisin ve polimiksin
+içerebilir (Bkz. Bölüm 4.3)
+Yardımcı maddeler için 6.1’e bakınız.
+3. FARMASÖTİK FORM
+Enjeksiyonluk süspansiyon için toz ve süspansiyon.
+Sterildir.
+Difteri, tetanoz, aselüler boğmaca, hepatit B ve çocuk felci (inaktif) (DTPa-HBV-IPV)
+komponenti, bulanık beyaz süspansiyon halinde sunulmaktadır. Saklama sırasında beyaz bir
+tortu ve şeffaf bir süzüntü gözlenebilir. Bu normal bir gözlemdir. Liyofilize Haemophilus
+influenzae tip b (Hib) komponenti, beyaz toz olarak sunulmaktadır.
+14. KLİNİK ÖZELLİKLER
+4.1. Terapötik endikasyonlar
+INFANRIX HEXA bebekler ve çocukların difteri, tetanoz, boğmaca, hepatit B, çocuk felci ve
+Haemophilus influenza tip b’nin neden olduğu hastalıklara karşı primer ve rapel aşılamasında
+endikedir. INFANRIX HEXA 36 aylıktan büyük çocuklarda kullanım için endike değildir.
+INFANRIX HEXA resmi tavsiyeler doğrultusunda kullanılmalıdır.
+4.2. Pozoloji ve uygulama şekli
+Pozoloji / Uygulama sıklığı ve süresi
+Primer aşılama şeması iki veya üç dozdan (0.5 ml) oluşur ve bu dozlar resmi önerilere göre
+uygulanmalıdır (klinik çalışmalarda değerlendirilen şemalar için bkz. Tablo 1 ve 5.1
+Farmakodinamik özellikleri).
+Rapel dozlar resmi öneriler ile uyumlu olarak verilmelidir, ancak en azından bir doz konjuge
+Hib aşısı uygulanmış olmalıdır. Antijen bileşimi resmi öneriler ile uyumlu ise INFANRIX
+HEXA, rapel doz olarak uygulanabilir.
+Tablo 1: Aşılama şeması
+Primer aşılama Rapel aşılama Göz önünde bulundurulması gereken genel
+konular
+Zamanında doğmuş bebekler
+3 doz Rapel doz • Primer dozlar arasında en az 1 ay olmalıdır.
+uygulanmalıdır. • Rapel doz, son primer dozdan en az 6 ay sonra ve
+tercihen bebek 18 aylık olmadan uygulanmalıdır.
+2 doz Rapel doz • Primer dozlar arasında en az 2 ay olmalıdır.
+uygulanmalıdır. • Rapel doz, son primer dozdan en az 6 ay sonra ve
+tercihen bebek 11 ila 13 aylıkken uygulanmalıdır.
+Gebeliğin 24. Haftasından sonra doğan preterm bebekler
+3 doz Rapel doz • Primer dozlar arasında en az 1 ay olmalıdır.
+uygulanmalıdır. • Rapel doz, son primer dozdan en az 6 ay sonra ve
+tercihen bebek 18 aylık olmadan uygulanmalıdır.
+Not: Uygulanabilir resmi önerilere göre aşı dozları düzenlenebilir.
+EPI (The Expanded Program on Immunisation – Genişletilmiş Bağışıklama Programı)
+programı (yaşamın 6, 10, 14 haftalarında) sadece doğumda tek doz hepatit B aşısı yapıldıysa
+kullanılabilir.
+Hepatit B aşısının bir dozunun doğumda uygulandığı durumda, INFANRIX HEXA, yaşın 6.
+haftasından itibaren hepatit B aşısının tamamlayıcı dozlarının yerine kullanılabilir. Eğer bu
+yaştan önce hepatit B aşısının ikinci dozu gerekiyorsa, monovalan hepatit B aşısı
+kullanılmalıdır.
+Hepatit B’ye karşı lokal olarak oluşturulan immünoprofilaktik uygulamalar devam
+ettirilmelidir.
+INFANRIX HEXA ile primer aşılamanın ardından klinik çalışmalarda antijenlerin diğer
+kombinasyonları araştırılmıştır ve rapel doz için kullanılabilir: difteri, tetanoz, aselüler
+boğmaca (DTPa), difteri, tetanoz, aselüler boğmaca, Haemophilus influenzae tip b
+2(DTPa+Hib), difteri, tetanoz, aselüler boğmaca, inaktif poliomiyelit, Haemophilus influenzae
+tip b (DTPa-IPV+Hib) ve difteri, tetanoz, aselüler boğmaca, hepatit B, inaktive poliomiyelit,
+Haemophilus influenzae tip b (DTPa-HBV-IPV+Hib).
+Uygulama şekli:
+INFANRIX HEXA derin intramüsküler enjeksiyon içindir, takip eden enjeksiyonlar tercihen
+farklı bölgelere yapılmalıdır.
+Özel popülasyona ilişkin ek bilgiler
+Böbrek/Karaciğer yetmezliği:
+Böbrek/karaciğer yetmezliği olan hastalarla ilgili çalışma mevcut değildir.
+Pediyatrik popülasyon:
+INFANRIX HEXA’nın 36 aylıktan büyük çocuklarda güvenlilik ve etkililiğine ilişkin çalışma
+mevcut değildir.
+Geriatrik popülasyon:
+Uygulanmaz.
+4.3. Kontrendikasyonları
+Etkin maddelerden veya bileşenlerden herhangi birine veya formaldehit, neomisin ve
+polimiksine aşırı duyarlılık.
+Daha önce yapılan difteri, tetanoz, boğmaca, hepatit B, çocuk felci ya da Hib aşılamalarından
+sonra aşırı duyarlılık.
+INFANRIX HEXA, bir önceki aşılamada boğmaca bileşeni içeren aşının uygulanmasını
+takiben 7 gün içerisinde etyolojisi bilinmeyen ensefalopati geçiren bebek veya çocuklarda
+kontrendikedir. Böyle durumlarda boğmaca aşılaması kesilmeli ve aşılama programına difteri-
+tetanoz, hepatit B, polio ve Hib aşıları ile devam edilmelidir.
+Diğer aşılarda olduğu gibi akut ciddi ateşli hastalığı olan bireylerde INFANRIX HEXA
+uygulaması ertelenmelidir. Minör bir enfeksiyonun varlığı bir kontrendikasyon değildir.
+4.4. Özel kullanım uyarıları ve önlemleri
+Aşılama tıbbi geçmişin gözden geçirilmesi (özellikle daha önceki aşılama ve istenmeyen
+olayların ortaya çıkma ihtimali ile ilişkili olarak) ve bir klinik muayeneden sonra yapılmalıdır.
+Herhangi bir aşıda olabileceği gibi, aşılanan tüm bireylerde koruyucu bir bağışıklık cevabı
+oluşmayabilir (bkz. Farmakodinamik Özellikleri)
+INFANRIX HEXA, Corynebacterium diphtheriae, Clostridium tetani, Bordetella pertussis,
+hepatit B virüsü, polio virüs ya da Haemophilus influenzae tip b haricindeki patojenlerin neden
+olduğu hastalıkları önlemez. Ancak, aşılama ile hepatit D’nin önlenmesi beklenir çünkü hepatit
+D (delta ajan tarafından oluşan) hepatit B enfeksiyonu yokluğunda olmamaktadır.
+Aşağıdaki olayların herhangi biri boğmaca içeren aşının alımı ile zamansal olarak ilişkili
+şekilde ortaya çıkarsa boğmaca içeren aşının daha sonraki dozlarının verilmesi kararı dikkatle
+gözden geçirilmelidir.
+3• 48 saat içerisinde tanımlanabilir başka bir nedene bağlı olmadan gelişen ve 40.0°C ve
+üzerinde ateş
+• Aşılamayı izleyen 48 saat içinde kolaps ya da şok-benzeri durum (hipotonik-düşük yanıt
+atak).
+• Aşılamayı izleyen 48 saat içinde sürekli, yatıştırılamayan ve 3 saat veya daha uzun süren
+ağlama.
+• Aşılamayı izleyen 3 gün içinde ateşli veya ateşsiz konvülsiyonlar.
+Boğmaca insidansının yüksek olması gibi potansiyel faydaların olası risklerinden daha üstün
+olduğu durumlar olabilir.
+Bütün enjektabl aşılarda olduğu gibi aşının uygulamasından sonra ortaya çıkabilecek nadir
+anafilaktik olay için gerekli tıbbi tedavi ve gözetim olanakları hazır bulundurulmalıdır.
+Tüm aşılarda olduğu gibi, yeni ortaya çıkmış veya ilerlemiş ciddi nörolojik hastalığı olan
+bebeklerde veya çocuklarda INFANRIX HEXA ile bağışıklamanın veya bu aşılamayı
+ertelemenin risk ve faydası dikkatle değerlendirilmelidir.
+İntramüsküler uygulamanın ardından kanama oluşabileceğinden INFANRIX HEXA
+trombositopeni ya da kanama bozukluğu olan kişilere dikkatle uygulanmalıdır.
+INFANRIX HEXA, hiçbir koşulda damar içine veya intradermal uygulanmamalıdır.
+INFANRIX HEXA eser miktarda neomisin ve polimiksin içerir. Aşı, bu antibiyotiklerden
+birine aşırı duyarlılığı olduğu bilinen hastalarda dikkatli kullanılmalıdır.
+Febril konvülsiyon öyküsü, aile öyküsünde konvülsiyonların veya Ani Bebek Ölümü
+Sendromu’nun (SIDS) olması INFANRIX HEXA kullanımı için bir kontrendikasyon
+oluşturmaz. Febril konvülsiyon öyküsü olan aşılanan bireyler, bu tarz istenmeyen olaylar
+aşılamayı takiben 2-3 gün içinde meydana gelebileceği için, yakından takip edilmelidir.
+Hekimler, tek başına INFANRIX HEXA uygulamasından sonra görülen oran ile
+karşılaştırıldığında, INFANRIX HEXA’nın bir konjuge pnömokok aşısı (PCV7, PCV10,
+PCV13) ya da kızamık-kızamıkçık-kabakulak-suçiçeği (MMRV) aşısı ile bir arada uygulandığı
+durumda, febril reaksiyonların oranının daha yüksek olduğunu bilmelidir. Bu reaksiyonlar
+çoğunlukla orta şiddetli (≤39ºC) ve geçici olmuştur (bkz. 4.5 Diğer tıbbi ürünler ile etkileşimler
+ve diğer etkileşim şekilleri ve 4.8 İstenmeyen etkiler).
+INFANRIX HEXA ve PCV13'ün eşzamanlı kullanımıyla konvülsiyonlar (ateşli veya ateşsiz)
+ve hipotonik düşük-yanıt dönemi (HHE) bildirme oranlarında artış gözlenmiştir (Bkz. 4.8
+İstenmeyen etkiler).
+Aşılamadan önce veya aşılamadan hemen sonra profilaktik amaçla antipiretik uygulanması,
+aşılama sonrası febril reaksiyonlarının yoğunluğunu ve insidansını azaltır. Parasetamol ve
+ibuprofen ile elde edilen klinik veriler profilaktik parasetamol kullanımının ateş oranını
+azaltırken, profilaktik ibuprofen kullanımının ateş oranını azaltmada kısıtlı etki gösterdiğini
+düşündürmektedir. Nöbet bozukluğu ve ateşli nöbet hikayesi olan çocuklarda profilaktik
+antipiretik uygulaması önerilmektedir.
+Lokal tedavi kılavuzlarına uygun antipiretik tedavi başlatılmalıdır.
+4Herhangi bir aşılama sırasında ve hatta öncesinde iğne ile enjeksiyona karşı psikojenik cevap
+olarak senkop (bayılma) olabilir. Bayılmaya bağlı yaralanmalardan kaçınmak için gerekli
+prosedürlerin hazır olması önemlidir.
+Özel popülasyonlar
+İnsan İmmünyetmezlik Virüsü (HIV) enfeksiyonu bir kontrendikasyon olarak
+değerlendirilmemektedir. İmmün sistemi baskılanmış hastalarda aşı uygulanmasından sonra
+beklenen immünolojik yanıt alınamayabilir.
+Klinik veriler INFANRIX HEXA’nın preterm bebeklere uygulanabileceğini göstermiştir.
+Ancak, bu popülasyondan beklendiği üzere bazı antijenler için daha düşük bağışıklama cevabı
+görülmüştür (Bkz. 4.8 İstenmeyen etkiler ve 5.1 Farmakodinamik özellikleri)
+Çok erken doğan bebekler (gebeliğin 28. haftasında veya öncesinde doğanlar) ve özellikle
+solunum sistemi gelişimi eksikliği hikayesi olanlarda primer bağışıklama serilerinin
+uygulanmasında potansiyel apne riskine karşı 48-72 saat solunum sisteminin izlenmesi
+gerekmektedir. Bu bebeklerde aşılamanın yararı yüksek olduğundan, aşılama alıkonmamalı ve
+ertelenmemelidir.
+Laboratuar testleriyle etkileşim
+Hib kapsüler polisakkarid antijeni idrarla atıldığı için, aşı uygulamasından sonraki 1-2 hafta
+içinde pozitif idrar testi görülebilir. Bu dönem içinde Hib enfeksiyonunu teyid etmek için başka
+testler uygulanmalıdır.
+INFANRIX HEXA her dozunda 1 mmol (23 mg)’dan az sodyum ihtiva eder, yani esasında
+“sodyum içermez”.
+INFANRIX HEXA her dozunda 1 mmol (39 mg)’dan az potasyum ihtiva eder, yani esasında
+“potasyum içermez”.
+4.5. Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+INFANRIX HEXA konjuge pnömokok aşısı (PCV7, PCV10 ve PCV13), konjuge meningokok
+serogrup C aşısı (CRM ve TT konjuge), meningokok serogrupları A, C, W-135 ve Y konjuge
+197
+aşısı (TT konjuge), meningokokkal serogrup B aşısı (MenB), oral rotavirus aşısı ve kızamık-
+kızamıkçık-kabakulak-suçiçeği (MMRV) aşısı ile eşzamanlı verilebilir.
+Veriler, ayrı antijenlerden herhangi birine antikor yanıtında klinik açıdan anlamlı etkileşimin
+olmadığını göstermiş olmakla birlikte, konjuge pnömokok aşısı (PCV10) ile bir arada
+uygulamada polio virüsü tip 2’ye karşı değişken antikor yanıtı gözlenmiştir (serolojik korunma
+oranı %78-%100 aralığında). Bununla birlikte 2 ve 4 aylıkken verilen 2 dozdan sonra
+INFANRIX HEXA’nın PRP (Hib) antijenine bağışıklık yanıtı oranları, bir tetanoz toksoidine
+konjuge pnömokok veya meningokok aşısı ile bir arada uygulandığında daha yüksek
+bulunmuştur (Bkz. 5.1 Farmakodinamik özellikleri). Bu gözlemlerin klinik anlamlılığı halen
+bilinmemektedir.
+INFANRIX HEXA, MenB ve pnömokokkal konjüge aşılarla eşzamanlı olarak uygulandığında,
+inaktive poliovirüs tip 2, konjuge pnömokok serotip 6B antijeni ve boğmaca pertaktin antijenine
+yanıtlar açısından çalışmalar arasında uyumsuz sonuçlar görülmüştür, ancak bu veriler klinik
+açıdan anlamlı etkileşimi göstermemektedir.
+5Klinik çalışmalarda elde edilen veriler, tek başına INFANRIX HEXA uygulamasından sonra
+görülen oran ile karşılaştırıldığında, INFANRIX HEXA’nın konjuge pnömokok aşılar ile bir
+arada uygulandığı durumda, febril reaksiyonların oranının daha yüksek olduğuna işaret
+etmektedir. Bir klinik çalışmadan bildirilen veriler, INFANRIX HEXA’nın MMRV aşısı ile bir
+arada uygulandığında, febril reaksiyonların oranının tek başına INFANRIX HEXA
+uygulamasından sonra görülen orandan daha yüksek olduğunu ve tek başına MMRV aşısının
+uygulamasından sonra görülen ile benzer olduğunu işaret etmektedir (bkz. 4.4 Özel kullanım
+uyarıları ve önlemleri ve 4.8 İstenmeyen etkiler). Bağışıklık yanıtları etkilenmemiştir.
+INFANRIX HEXA, MenB aşısı ve 7-değerliklikonjuge pnömokok aşı ile eşzamanlı olarak
+uygulandığında, ateş, enjeksiyon yerinde ağrı, iştah kaybı riskinde artış olması nedeniyle
+mümkün olduğunda aşılamaların birbirinden ayrı yapılması düşünülebilir.
+Diğer aşılarda olduğu gibi, bağışıklık sistemini baskılayan tedavi gören hastalarda yeterli yanıt
+alınamayabilir.
+4.6. Gebelik ve laktasyon
+Genel tavsiye
+Gebelik kategorisi: C
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon)
+Gebelik dönemi
+Hayvanlar üzerinde yapılan çalışmalar, gebelik ve-veya embriyonal/fetal gelişim ve-veya doğum
+ve-veya doğum sonrası gelişim üzerindeki etkiler bakımından yetersizdir. İnsanlara yönelik
+potansiyel risk bilinmemektedir. Gerekli olmadıkça gebelik döneminde kullanılmamalıdır.
+INFANRIX HEXA erişkinlerde kullanım amaçlı değildir, hamilelik esnasında kullanılan aşının
+emniyetiyle ilgili bilgi mevcut değildir.
+Laktasyon dönemi
+INFANRIX HEXA erişkinlerde kullanım amaçlı değildir, laktasyon esnasında kullanılan aşının
+emniyetiyle ilgili bilgi mevcut değildir.
+Üreme yeteneği/ Fertilite
+Veri mevcut değildir.
+4.7. Araç ve makine kullanımı üzerine etkiler
+Geçerli değildir.
+4.8. İstenmeyen etkiler
+Güvenlilik profili özeti
+DTPa ve DTPa-içeren kombinasyonlar için gözlendiği üzere, INFANRIX HEXA ile primer
+aşılamaya kıyasla, rapel aşılamanın ardından lokal reaktojenisite ve ateşte bir artış bildirilmiştir.
+İstenmeyen etkilerin sıklığı aşağıdaki gibi sınıflandırılmıştır:
+6Çok yaygın : (≥1/10)
+Yaygın (≥1/100 ila <1/10)
+Yaygın olmayan (≥1/1000 ila <1/100)
+Seyrek (≥1/10000 ila <1/1000)
+Çok seyrek (<1/10000)
+Bilinmiyor (Eldeki verilerden hareketle tahmin edilemiyor)
+Aşağıda sunulan ilaca bağlı yan etkiler 16,000’den fazla kişiden elde edilen klinik çalışma
+verilerine ve pazarlama sonrası verilere dayanmaktadır.
+Enfeksiyonlar ve enfestasyonlar
+Yaygın olmayan: Üst solunum yolu enfeksiyonları
+Metabolizma ve beslenme hastalıkları
+Çok yaygın: İştah kaybı
+Psikiyatrik hastalıklar
+Çok yaygın: Huzursuzluk, anormal ağlama, hareketlilik
+Yaygın: Sinirlilik
+Sinir sistemi hastalıkları
+Yaygın olmayan: Somnolans (uyuklama)
+Çok seyrek: Konvülsiyonlar (ateşli veya ateşsiz)
+Solunum, göğüs bozuklukları ve mediastinal hastalıkları
+Yaygın olmayan: Öksürük
+Seyrek: Bronşit
+Gastrointestinal hastalıklar
+Yaygın: Kusma, diyare
+Deri ve deri altı doku hastalıkları
+Seyrek: Döküntü
+Çok seyrek: Dermatit
+Genel bozukluklar ve uygulama bölgesine ilişkin hastalıklar
+Çok yaygın: Ağrı, kızarıklık, enjeksiyon bölgesinde lokal şişme (≤ 50 mm), 38°C ve üzeri ateş,
+Yaygın: Enjeksiyon yerinde lokal şişme (> 50 mm)1, 39.5°C’den yüksek ateş, sertleşmeyi de
+içeren enjeksiyon bölgesi reaksiyonları
+Yaygın olmayan: Enjeksiyon yapılan uzvu ve bazen komşu eklemleri de kapsayacak şekilde
+yaygın şişkinlik 1, halsizlik
+7Pazarlama sonrası veriler
+Kan ve lenf sistemi hastalıkları
+Seyrek: Lenfadenopati2, trombositopeni2
+Bağışıklık sistemi hastalıkları
+Seyrek: Anafilaktik reaksiyonlar2, anafilaktoid reaksiyonlar (ürtiker dahil)2, alerjik
+reaksiyonlar (kaşıntı dahil)2
+Sinir sistemi hastalıkları
+Seyrek: Kolaps veya şok benzeri durum (hipotonik-düşük yanıt dönemi)2
+Solunum, göğüs bozuklukları ve mediastinal hastalıkları
+Seyrek: Apne2[bkz. Özel kullanım uyarıları ve önlemleri – çok prematür (gebeliğin
+28.haftasında veya önce doğan) bebeklerde apne]
+Deri ve deri altı doku hastalıkları
+Seyrek: Anjiyonörotik ödem2
+Genel bozukluklar ve uygulama bölgesine ilişkin hastalıklar
+Seyrek: Yaygın şişme reaksiyonları1,2, enjeksiyonun yapılan uzvun tamamen şişmesi2,
+enjeksiyon bölgesinde vezikül2, enjeksiyon bölgesinde kitle2
+1 Aşılanmaya aselüler boğmaca aşılarıyla başlamış çocuklar, tam hücreli aşılar ile başlamış
+çocuklara göre rapel doz uygulamasından sonra daha fazla şişlik reaksiyonu yaşayabilirler. Bu
+reaksiyonlar ortalama 4 gün içerisinde çözümlenir.
+2 Spontan raporlama sonucu oluşan istenmeyen etkiler
+Eşzamanlı uygulamalara yönelik deneyim
+Aşılanan bireylerden bazılarının, her iki aşının da rapel (4.) dozu olarak PCV7ile eşzamanlı
+INFANRIX HEXA aldığı klinik çalışmalarda, PCV7 ve INFANRIX HEXA’nın bir arada
+uygulandığı bebeklerdeki dozların %43.4’ünden sonra ateş ≥ 38.0°C bildirilirken aynı oran
+sadece hekzavalan aşının uygulandığı bebeklerde %30.5 olmuştur. Prevenar ile birlikte veya
+tek başına INFANRIX HEXA uygulanan bebeklerde dozların sırasıyla %2.6 ve %1.5’i
+sonrasında 39.5ºC ve üzerinde yüksek ateş gözlenmiştir (bkz. 4.4 Özel kullanım uyarıları ve
+önlemleri ve 4.5 Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri). Primer
+serilerde bu iki aşının bir arada uygulanmasını takiben yüksek ateş insidansı ve şiddeti, rapel
+dozundan sonra gözlenen ile karşılaştırıldığında daha düşük olmuştur.
+Klinik çalışmalardan elde edilen verilere göre INFANRIX HEXA başka bir konjuge
+pnömokokaşı ile eş zamanlı uygulandığında benzer ateş insidansları göstermektedir.
+Aşılananlardan bazılarının kızamık-kızamıkçık-kabakulak-suçiçeği (MMRV) aşısı ile
+eşzamanlı olarak INFANRIX HEXA rapel dozu aldığı bir klinik çalışmada, MMRV aşısı ile
+INFANRIX HEXA’yı aynı zamanda alan çocukların %76.6’sında 38.0°C ve üzeri ateş
+8bildirilirken, tek başına INFANRIX HEXA alan çocukların %48’sinde ve tek başına MMRV
+aşısı alan çocukların %74.7’sinde 38.0°C ve üzeri ateş bildirilmiştir. MMRV aşısı ile birlikte
+INFANRIX HEXA alan çocukların %18’sinde, tek başına INFANRIX HEXA alan çocukların
+%3.3’ünde ve tek başına MMRV alan çocukların da %19.3’ünde 39.5ºC’nin üzerinde ateş
+bildirilmiştir (Bkz. 4.4 Özel kullanım uyarıları ve önlemleri ve 4.5 Diğer tıbbi ürünler ile
+etkileşimler ve diğer etkileşim şekilleri).
+Preterm bebeklerde güvenlilik:
+Primer aşılama çalışmalarında INFANRIX HEXA, 1.000’in üzerinde preterm bebeğe (24 ila 36
+haftalık gebelik döneminden sonra doğan) uygulanmış ve 200’den fazla preterm bebeğe
+yaşamın ikinci yılında rapel doz olarak verilmiştir. Karşılaştırmalı klinik çalışmalarda preterm
+ve zamanında doğmuş bebeklerde benzer semptom oranları gözlenmiştir (apne ile ilgili bilgi
+için bkz. 4.4 Özel kullanım uyarıları).
+Hepatit B aşısı ile deneyim:
+Çok seyrek durumlarda serum hastalığı benzeri alerjik reaksiyonlar, felç, nöropati, nevrit,
+hipotansiyon, vaskülit, liken planus, eritema multiforme, artrit, kas zayıflığı, Guillain-Barré
+sendromu, ensefalopati, ensefalit ve menenjit bildirilmiştir. Aşı ile nedensel ilişki
+kurulmamıştır.
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar / risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir. (www.titck.gov.tr; e- posta:
+tufam@titck.gov.tr; tel: 0 800 314 00 08; faks: 0 312 218 35 99)
+4.9 Doz aşımı ve tedavisi
+Yeterli veri mevcut değildir.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1. Farmakodinamik özellikleri
+Farmakoterapötik grubu: Kombine bakteriyel ve viral aşılar
+ATC Kodu: J07CA09
+İmmünojenisite (Bağışıklık sağlayıcılık)
+INFANRIX HEXA’nın immünojenisitesi 6 haftalık yaştan itibaren yapılan klinik çalışmalarda
+incelenmiştir. Aşı, 2 ve 3 dozluk primer aşılama (Genişletilmiş Bağışıklama Programı da dahil)
+ve rapel aşılama şemasına göre değerlendirilmiştir. Bu klinik çalışmaların sonuçları aşağıda yer
+alan tablolarda özetlenmiştir.
+3 dozluk primer aşılama şeması sonrasında, bebeklerin en az %95.7’si aşı antijenlerinin her
+birine karşı seroprotektif veya seropozitif antikor düzeyleri geliştirmiştir. Rapel aşılama
+sonrasında (4. doz sonrası) çocukların en az %98.4’ü aşı antijenlerinin her birine karşı
+seroprotektif veya seropozitif antikor düzeyleri geliştirmiştir.
+9INFANRIX HEXA ile 3 dozluk primer ve rapel aşılamadan bir ay sonra antikor titreleri
+seroproteksiyon/seropozitiflik gösteren gönüllülerin yüzdesi
+Antikor Doz 3 sonrası Doz 4 sonrası
+(eşik değer) (3 dozluk primer
+aşılamadan sonra
+yaşamın ikinci
+yılında uygulanan
+rapel doz)
+2-3-4 ay 2-4-6 ay 3-4-5 ay 6-10-14
+N= 196 N= 1693 N= 1055 hafta N=2009
+(2 çalışma) (6 çalışma) (6 N= 265 (12 çalışma)
+çalışma) (1 çalışma)
+% % % % %
+Anti-difteri 100.0 99.8 99.7 99.2 99.9
+(0.1 IU/ml) †
+Anti-tetanoz 100.0 100.0 100.0 99.6 99.9
+(0.1 IU/ml) †
+Anti-PT 100.0 100.0 99.8 99.6 99.9
+(5 EL.U/ml)
+Anti-FHA 100.0 100.0 100.0 100.0 99.9
+(5 EL.U/ml)
+Anti-PRN 100.0 100.0 99.7 98.9 99.5
+(5 EL.U/ml)
+Anti-HBs 99.5 98.9 98.0 98.5* 98.4
+(10 mIU/ml) †
+Anti-Polio tip 1 100.0 99.9 99.7 99.6 99.9
+(1/8 seyreltme) †
+Anti-Polio tip 2 97.8 99.3 98.9 95.7 99.9
+(1/8 seyreltme) †
+Anti- Polio tip 3 100.0 99.7 99.7 99.6 99.9
+(1/8 seyreltme) †
+Anti-PRP 96.4 96.6 96.8 97.4 99.7**
+(0.15 µg/ml) †
+N = gönüllü sayısı
+* doğumda hepatit B aşısı uygulanmamış bir bebek alt grubunda, aşılananların %77.7’sinde anti-HBs titreleri ≥ 10
+mIU/mL olmuştur.
+** Rapel doz sonrasında gönüllülerin %98.4’ünde anti-PRP konsantrasyonu, uzun süreli korumaya işaret eden ≥1
+µg/ml olmuştur
+† eşik değer, korumanın göstergesi olarak kabul edilmiştir
+İki dozluk primer aşılama şemasından sonra bebeklerin en az %84.3’ü aşı antijenlerinin her
+birine karşı seroprotektif veya seropozitif antikor düzeyleri geliştirmiştir. INFANRIX HEXA
+ile 2 doz primer ve rapel şemasına göre tam aşılama yapıldıktan sonra gönüllülerin en az
+%97.9’u aşı antijenlerinin her birine karşı seroprotektif veya seropozitif antikor düzeyleri
+geliştirmiştir.
+Farklı çalışmalara göre, 2 ve 4 aylıkken verilen 2 dozdan sonra INFANRIX HEXA’nın PRP
+antijenine bağışıklık yanıtı, eğer konjuge tetanoz toksoid aşısı ile birlikte verilmişse,
+değişkenlik gösterecektir. INFANRIX HEXA bebeklerin en az %84’ünde bir anti-PRP
+bağışıklık yanıtı oluşturacaktır (eşik değer ≥ 0.15µg/ml). Bu değer, taşıyıcı olarak tetanoz
+toksoid içeren bir pnömokok aşısı ile eşzamanlı uygulandığında %88’e ve INFANRIX
+HEXA’nın bir TT konjuge meningokok aşısı ile eşzamanlı uygulandığında %98
+yükselmektedir (bkz. 4.5 Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri).
+10INFANRIX HEXA ile 2 doz primer ve rapel aşılamadan bir ay sonra antikor titreleri
+seroproteksiyon/seropozitiflik gösteren gönüllülerin yüzdesi
+Doz 2 sonrası Doz 3 sonrası
+2-4-12 aylık 3-5-11 aylık 2-4-12 aylık 3-5-11 aylık
+Antikor
+N=223 N=530 N=196 N=532
+(eşik değer)
+(1 çalışma) (4 çalışma) (1 çalışma) (3 çalışma)
+% % % %
+Anti-difteri 99.6 98.0 100.0 100.0
+(0.1 IU/ml) †
+Anti-tetanoz 100 100.0 100.0 100.0
+(0.1 IU/ml) †
+Anti-PT 100 99.5 99.5 100.0
+(5 EL.U/ml)
+Anti-FHA 100 99.7 100.0 100.0
+(5 EL.U/ml)
+Anti-PRN 99.6 99.0 100.0 99.2
+(5 EL.U/ml)
+Anti-HBs 99.5 96.8 99.8 98.9
+(10 mIU/ml) †
+Anti-Polio tip 1 89.6 99.4 98.4 99.8
+(1/8 seyreltme) †
+Anti- Polio tip 2 85.6 96.3 98.4 99.4
+(1/8 seyreltme) †
+Anti- Polio tip 3 92.8 98.8 97.9 99.2
+(1/8 seyreltme) †
+Anti-PRP 84.3 91.7 100.0* 99.6*
+(0.15 µg/ml) †
+N = gönüllü sayısı
+† eşik değer, korumanın göstergesi olarak kabul edilmiştir
+* Rapel doz sonrasında 2-4-12 ay şemasına göre aşılanan gönüllülerin %94.4’ü ve 3-5-11 ay şemasına göre
+aşılanan gönüllülerin %97.0’sinde anti-PRP konsantrasyonu, uzun süreli korumaya işaret eden ≥1 µg/ml olmuştur.
+Korumanın serolojik olarak difteri, tetanoz, çocuk felci, Hepatit B ve Hib için ilişkili olduğu
+belirlenmiştir. Boğmaca için koruma ile ilişkili serolojik faktör bulunmamaktadır. Ancak,
+INFANRIX HEXA uygulanmasının ardından boğmaca antijenlerine verilen bağışıklık yanıtı
+INFANRIX'inkiyle eşdeğer olduğundan iki aşının koruyucu etkinliğinin eşdeğer olması
+beklenmektedir.
+Boğmacaya karşı korunmada etkililik
+INFANRIX'in boğmaca bileşeninin WHO-tanımlı tipik boğmacaya (≥ 21 gün paroksismal
+öksürük) karşı koruyucu etkinliği aşağıda tablo halinde verilen çalışmalardaki 3-doz primer
+bağışıklama sonrasında gösterilmiştir:
+Aşı Göz önünde bulundurulması
+Çalışma Ülke Program
+etkinliği gerekenler
+Evde temas Almanya 3,4,5 ay %88.7 Tipik boğmaca bulunan indeks bir
+çalışması (ileriye olgunun bulunduğu evlerde ikincil
+dönük, temaslardan elde edilen verilere
+körlenmiş) dayalıdır
+Etkililik çalışması İtalya 2,4,6 ay %84 Aynı kohortun takibinde etkililik
+(NIH boğmaca için bir rapel dozu
+sponsorluğunda) uygulamadan primer aşılamanın
+11tamamlanmasından sonra 60 aya kadar
+teyit edilmiştir.
+Bağışıklık yanıtının kalıcılığı
+INFANRIX HEXA ile 3 dozluk primer (2-3-4, 3-4-5 veya 2-4-6 aylık) ve rapel (yaşamın ikinci
+yılında) doz şemasına göre bağışıklık yanıtının kalıcılığı, 4-8 yaş çocuklarda
+değerlendirilmiştir. Üç polio virüsü tipine ve PRP’ye karşı koruyucu bağışıklık çocukların en
+az %91.0’ında ve difteri ve tetanoza karşı koruyucu bağışıklık çocukların en az %64.7’sinde
+gözlenmiştir. Çocukların en az 25.4’ü (anti-PT), %97.5’i (anti-FHA) ve %87.0’si (anti-PRN)
+boğmaca bileşenlerine karşı seropozitif bulunmuştur.
+INFANRIX HEXA ile primer ve rapel aşılama sonrasında antikor titreleri
+seroproteksiyon/seropozitiflik gösteren gönüllülerin yüzdesi
+Antikor 4-5 yaş çocuklar 7-8 yaş çocuklar
+(eşik değer) N % N %
+Anti-difteri
+198 68.7* 51 66.7
+(0.1 IU/ml)
+Anti-tetanoz
+198 74.7 51 64.7
+(0.1 IU/ml)
+Anti-PT
+197 25.4 161 32.3
+(5 EL.U/ml)
+Anti-FHA
+197 97.5 161 98.1
+(5 EL.U/ml)
+Anti-PRN
+198 90.9 162 87.0
+(5 EL.U/ml)
+Anti-HBs 250§ 85.3 207§ 72.1
+(10 mIU/ml) 171§ 86.4 149§ 77.2
+Anti-Polio tip 1
+185 95.7 145 91.0
+(1/8 seyreltme)
+Anti- Polio tip 2
+187 95.7 148 91.2
+(1/8 seyreltme)
+Anti- Polio tip 3
+174 97.7 144 97.2
+(1/8 seyreltme)
+Anti-PRP
+198 98.0 193 99.5
+(0.15 µg/ml)
+N = gönüllü sayısı
+* ELISA ile test edilip anti-difteri antikor konsantrasyonları <0.1 IU/ml bulunan örnekler, Vero hücresi
+nötralizasyon tayini kullanılarak yeniden test edilmiştir (seroproteksiyon için eşik değer ≥ 0.016 IU/ml):
+gönüllülerin %96.5’sinde seroproteksiyon tespit edilmiştir.
+§ İki klinik çalışmadaki gönüllü sayısı
+Hepatit B açısından, INFANRIX HEXA ile 3 dozluk primer ve rapel doz şeması ile seroprotektif
+antikor düzeylerinin, 4-5 yaş gönüllülerin ≥%85’inde ve 7-8 yaş gönüllülerin ≥%72’sinde, 12-
+13 yaş gönüllülerin %60’ında ve 14-15 yaş gönüllülerin %53,7’sinde kalıcı olduğu
+gösterilmiştir. Ayrıca, 2 dozluk primer ve rapel doz şemasından sonra hepatit B’ye karşı
+koruyucu bağışıklık 11-12 yaş gönüllülerin ≥%48’inde kalıcı olmuştur.
+Hepatit B immünolojik bellek, 4-15 yaş çocuklarda doğrulanmıştır. Bu çocuklar bebeklikte
+primer ve rapel doz olarak INFANRIX HEXA almıştır ve ek bir monovalan HBV aşısı
+uygulandığında, gönüllülerin en az %93’inde koruyucu bağışıklık gözlemlenmiştir.
+12Preterm bebeklerde immünojenisite
+INFANRIX HEXA’nın immünojenisitesi, 2, 4 ve 6. aylardaki 3 dozluk primer aşılama
+şemasından sonra yaklaşık 300 preterm bebeği (24-36 haftalık gebelik döneminde doğan)
+içeren üç çalışmada değerlendirilmiştir. 18 ila 24 aylıkken uygulanan rapel dozun
+immünojenisitesi yaklaşık 200 preterm bebekte değerlendirilmiştir.
+Primer aşılamadan bir ay sonra gönüllülerin en az %98.7’sinde difteri, tetanoz ve polio virüs
+tip 1 ve 2’ye karşı seroproteksiyon belirlenmiştir; en az %90.9’unda hepatit B, PRP ve polio
+virüs tip 3 antijenlerine karşı seroprotektif antikor düzeyleri tespit edilmiştir; tüm gönüllüler
+FHA ve PRN antikorlarına karşı seropozitif iken %94.9’u anti-PT antikorlarına karşı seropozitif
+bulunmuştur.
+Rapel dozdan bir ay sonra gönüllülerin en az %98.4’ünün, PT (en az %96.8) ve hepatit B (en
+az %88.7) hariç, antijenlerin herbirine karşı seroprotektif veya seropozitif antikor düzeylerine
+sahip olduğu görülmüştür. Antikor konsantrasyonlarındaki katlı artış (15 ila 235 kat)
+bakımından rapel doza verilen yanıt, primer aşılamanın preterm bebeklerde tüm INFANRIX
+HEXA antijenlerine karşı yeterli olduğunu göstermektedir.
+74 çocuk ile gerçekleştirilen bir takip çalışmasında, rapel dozdan yaklaşık 2.5 ila 3 yıl sonra
+çocukların %85.3’ünün halen hepatit B’ye karşı seroproteksiyon altında ve en az %95.7’sinin
+polio virüsü tip 1, tip 2, tip 3 ve PRP’ye karşı seroproteksiyon altında olduğu görülmüştür.
+Pazarlama sonrası deneyim
+İsveç’te yürütülen uzun dönemli takibin sonuçları, aselüler boğmaca aşılarının, 3 ve 5 aylık
+primer aşılama şemasına göre aşı uygulanan ve yaklaşık 12 ay sonra rapel doz uygulanan
+bebeklerde yüksek seviyede etkili olduğunu göstermektedir. Ancak veriler, 3-5-12 aylık şema
+uygulandığında boğmacaya karşı korumanın 7-8 yaşlarında azalmaya başladığını
+göstermektedir. Bu da, daha önce bu şemaya göre aşılanan 5-7 yaşlarındaki çocuklarda ikinci
+bir rapel aşılama gerektiğini düşündürmektedir.
+INFANRIX HEXA’nın Hib bileşeninin etkinliği Almanya’da yürütülen geniş çaplı pazarlama
+sonrası gözlem çalışması ile araştırılmıştır. Yedi yıllık bir takip döneminde, biri INFANRIX
+HEXA olan iki heksavalan aşının Hib bileşenlerinin etkinliği, tam primer seriler için %89.6 ve
+(başlangıçta kullanılan Hib aşısından bağımsız olarak) tam primer seriler artı rapel doz için
+%100 olmuştur.
+İtalya’da devam etmekte olan rutin ulusal izlem sonuçları, INFANRIX HEXA’nın 3 ve 5 aylık
+primer doz uygulamasından yaklaşık 11 ay sonra rapel dozu uygulandığında bebeklerde Hib
+hastalığını korumada etkili olduğunu göstermektedir. INFANRIX HEXA 2006 yılından bu
+yana %95’i aşan aşılanma oranı ile İtalya’da bulunan başlıca Hib içerikli aşıdır. Pasif izlem
+yoluyla 5 yaşın altındaki İtalyan çocuklarda doğrulanan dört Hib vakasının olması, Hib invazif
+hastalığının iyi düzeyde kontrol edilebilirliğinin devam ettiğine işaret etmektedir.
+5.2. Farmakokinetik özellikler
+Aşılar için farmakokinetik özelliklerin değerlendirilmesi gerekmemektedir.
+135.3.Klinik öncesi güvenlilik verileri
+Güvenlilik, spesifik toksisite, tekrarlanan doz toksisitesi ve bileşenlerin geçimliliği üzerine
+yapılan konvansiyonel çalışmalardan elde edilen verilere dayanan klinik öncesi veriler
+insanlara yönelik bir tehlike ortaya koymamaktadır.
+6. FARMASÖTİK ÖZELLİKLER
+6.1. Yardımcı maddelerin listesi
+Hib tozu:
+Laktoz (sığır sütünden elde edilir)
+DTPa, HBV, IPV süspansiyon:
+Sodyum klorür
+Medium 199 (stabilizatör olarak amino asidleri, mineralleri ve vitaminleri içerir)
+Enjeksiyonluk su
+6.2.Geçimsizlikler
+INFANRIX HEXA, aynı enjektör içerisinde başka aşılarla karıştırılmamalıdır.
+6.3. Raf ömrü
+36 ay.
+6.4.Saklamaya yönelik özel tedbirler
+INFANRIX HEXA +2˚C ila +8˚C arası sıcaklıkta saklanmalıdır.
+Saklama sırasında berrak bir üstfaz ile beyaz bir çökelti gözlenebilir.
+DTPa-HBV-IPV süspansiyonunu ve sulandırılmış aşıyı dondurmayınız. Eğer donmuşsa
+kullanmadan atınız.
+Işıktan koruyunuz.
+Taşınma sırasında, önerilen saklama koşullarına uyulmalıdır.
+Dayanıklılık verileri aşının bileşenlerinin 72 saat süreyle 25°C'ye kadar olan sıcaklıklarda stabil
+olduğuna işaret etmektedir. Bu veriler sadece geçici ısı sapmaları durumunda sağlık sektörü
+çalışanlarını yönlendirme amacı taşımaktadır.
+6.5.Ambalajın niteliği ve içeriği
+DTPa-HBV-IPV komponenti, bir şırınga içerisinde sunulmaktadır. Hib komponenti, bir cam
+flakon içerisinde beyaz toz olarak sunulmaktadır. Flakonlar ve enjektörler, Avrupa
+Farmakopesi gereklerine uygun olarak nötral cam tip I’den yapılmıştır.
+146.6 Tıbbi ürünlerden arta kalan maddelerin imhası ve diğer özel önlemler
+Kullanılmamış olan ürünler ya da atık materyaller “Tıbbi Atıkların Kontrolü Yönetmeliği” ve
+“Ambalaj ve Ambalaj Atıkları Kontrolü Yönetmeliği”ne uygun olarak imha edilmelidir.
+DTPa-HBV-IPV komponenti homojen bulanık beyaz bir süspansiyon elde etmek için iyice
+çalkalanmalıdır. DTPa-HBV-IPV komponenti ve Hib tozu herhangi bir yabancı parçacık
+ve/veya fiziksel görünümünde değişiklik açısından görsel olarak kontrol edilmelidir. Bunlardan
+birinin görülmesi durumunda aşıyı kullanmadan atınız.
+Toz, süspansiyon içerisinde tamamen çözününceye kadar karışım çalkalanmalıdır.
+Aşının rekonstitüye edilmesine ilişkin talimatlar aşağıda listelenmiştir:
+1. DTPa-HBV-IPV süspansiyon içeren kullanıma hazır enjektörü çalkalayınız.
+2. İğneyi kullanıma hazır enjektöre takınız ve enjektörün tüm içeriğini Hib içeren flakona
+enjekte ediniz.
+3. İğne takılı halde Hib içeren flakonu güçlü bir şekilde çalkalayınız ve çözünmenin
+tamamlandığına emin olunuz.
+4. Tüm karışımı enjektöre geri çekiniz.
+5. Takılı iğneyi enjeksiyon için uygun boyda bir iğneyle değiştiriniz ve aşıyı uygulayınız.
+Aşıyı sadece oda sıcaklığına eriştiğinde uygulamak iyi klinik uygulamasıdır. Ek olarak, oda
+ısısındaki flakon, lastik parçacıklarının içeri kaçmasını en aza indirmek için lastik tıpanın
+yeterli esnekliğe sahip olmasını sağlar. Bunu sağlamak için, kullanıma hazır enjektörü
+birleştirerek aşıyı sulandırmadan önce, flakon oda sıcaklığında (25±3°C) en az beş dakika
+tutulmalıdır.
+Sulandırılan aşı sıvı komponentten biraz daha bulanık bir süspansiyondur. Bu normaldir.
+Sulandırılan aşı herhangi bir yabancı partikül ve/veya anormal bir fiziksel görünüm olup
+olmadığını anlamak için gözle kontrol edilmelidir. Başka bir değişiklik gözlenirse, aşıyı
+kullanmadan atınız.
+Sulandırıldıktan sonra aşı hemen uygulanmalıdır. Ancak aşı oda sıcaklığında (21°C) 8 saate
+kadar saklanabilir.
+Flakonun tüm içeriğini çekiniz.
+Kullanıma hazır enjektör, luer tipli seramik kaplama uç (CCT) veya luer kilit adaptörlü plastik
+sabit başlı (PRTC) olarak tedarik edilebilir.
+15Luer kilit adaptörlü hazır enjektör (PRTC) için özel talimatlar
+İğne
+İğne koruyucu
+Enjektör
+Enjektör pistonu
+Enjektör gövdesi
+Enjektör kapağı
+1. Enjektör gövdesini bir elde tutarak (enjektör pistonundan tutmadan), enjektör kapağını
+saat yönünün tersine çevirerek açınız.
+2. İğneyi enjektöre takmak için, iğneyi saat yönünde kilitlendiğini hissedene kadar
+çeviriniz (bkz. resim).
+3. İğnenin koruyucu kapağını çıkartınız, bazen biraz sert olabilir.
+4. Aşıyı uygulayınız.
+7. RUHSAT SAHİBİ
+GlaxoSmithKline İlaçları Sanayi ve Ticaret A.Ş.
+Büyükdere Cad. No:173 1.Levent Plaza B Blok
+34394, 1.Levent / İSTANBUL
+Tel no: 0 212 339 44 00
+Faks no: 0 212 339 45 00
+8. RUHSAT NUMARASI
+2022/239
+9. İLK RUHSAT TARİHİ / RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi: 07.05.2022
+Ruhsat yenileme tarihi: --
+10. KÜB’ÜN YENİLENME TARİHİ
+16

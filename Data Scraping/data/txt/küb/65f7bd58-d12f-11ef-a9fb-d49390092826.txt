@@ -1,0 +1,480 @@
+KISA ÜRÜN BİLGİSİ
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+METOPRİM 400 mg/80 mg tablet
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Her tablet:
+Etkin madde:
+Sülfametoksazol (SMZ) 400 mg
+Trimetoprim (TMP) 80 mg
+Yardımcı madde(ler):
+Sodyum nişasta glikolat 3.35 mg
+Yardımcı maddelerin listesi için 6.1’ e bakınız.
+3. FARMASÖTİK FORM
+Tablet
+İki yüzü bombeli, yuvarlak tabletler.
+4. KLİNİK ÖZELLİKLER
+4.1. Terapötik endikasyonlar
+METOPRİM, duyarlı organizmaların neden olduğu aşağıdaki enfeksiyonların tedavisi için
+endikedir (bkz. bölüm 5.1).
+ Pneumocystis jiroveci (P.carinii) pnömonitisin önlenmesi ve tedavisi
+ Toksoplazmozisin profilaksisi ve tedavisi
+ Nokardiozisin tedavisi
+METOPRİM’e karşı bakteriyel duyarlılık bulgusu varsa ve METOPRİM içinde bulunan
+antibiyotik kombinasyonunun tek bir antibiyotiğe tercih edilmesi için iyi bir neden varsa, şu
+enfeksiyonlar METOPRİM ile tedavi edilebilir:
+ Akut komplikasyonsuz üriner sistem enfeksiyonu
+ Akut otitis media
+ Kronik bronşitin akut alevlenmesi
+ Antibakteriyel ajanların uygun kullanımı ile ilgili resmi kılavuzlar göz önüne
+alınmalıdır.
+4.2. Pozoloji ve uygulama şekli
+Pozoloji/uygulama sıklığı ve süresi:
+Akut enfeksiyonlar için standart doz önerileri
+Erişkinler ve 12 yaşın üzerindeki çocuklar:
+1 / 14Tabletler 12 saatte bir 2 tablet
+Bu doz, 24 saatte vücut ağırlığı kilogramı başına 6 mg trimetoprim ve 30 mg
+sülfametoksazole denktir.
+Tedaviye hasta iki gün süre ile semptomsuz kalana kadar devam edilmelidir; hastaların
+çoğunda en az 5 gün süreyle tedavi gerekli olacaktır. 7 günlük tedaviden sonra klinik iyileşme
+görülmezse, hasta tekrar değerlendirilmelidir.
+Akut komplikasyonsuz alt üriner sistem enfeksiyonları için standart doza alternatif olarak 1-3
+gün süreyle kısa süreli tedavinin etkili olduğu gösterilmiştir.
+Uygulama şekli:
+Gastrointestinal rahatsızlığı en aza indirmek için METOPRİM’i bir miktar yiyecek veya
+içecek ile almak tercih edilebilir.
+Özel popülasyonlara ilişkin ek bilgiler
+Karaciğer yetmezliği:
+Karaciğer fonksiyonu bozuk olan hastalarda dozla ilişkili veri yoktur.
+Özel doz önerileri
+(Başka bir şekilde belirlenmediği sürece standart doz geçerlidir)
+Dozaj “tablet” olarak ifade edildiği zaman, erişkin tabletine atıfta bulunulmaktadır (80 mg
+trimetoprim BP ve 400 mg Sülfametoksazol BP). Başka formülasyonlar kullanılacaksa, uygun
+doz ayarlaması yapılmalıdır.
+Böbrek yetmezliği:
+Erişkinler ve 12 yaşın üzerindeki çocuklar (12 yaşından küçük çocuklar için bilgi yoktur):
+Kreatinin klirensi (ml/dk) Önerilen doz
+>30 Standart doz
+15 - 30 Standart dozun yarısı
+<15 Önerilmez
+METOPRİM verildikten 12 saat sonra elde edilen örneklerde 2 ila 3 gün aralıklarla
+sülfametoksazolün plazma konsantrasyonunun ölçülmesi önerilir. Toplam sülfametoksazol
+konsantrasyonu 150 mikrogram/ml’i aşarsa, değer 120 mikrogram/ml’nin altına düşene kadar
+tedavi kesilmelidir.
+Pneumocystis jiroveci (P.carinii) pnömonisi:
+Tedavi: Daha yüksek bir doz önerilir; 2 hafta süre ile iki veya daha fazla sayıda bölünmüş
+dozda günde kg başına 20 mg trimetoprim ve 100 mg sülfametoksazol kullanılır. Amaç, pik
+plazma veya serum trimetoprim düzeylerinin 5 mikrogram/ml veya daha yüksek olmasıdır (1
+saatlik intravenöz METOPRİM infüzyonu alan hastalarda doğrulanmıştır) (Bkz. 4.8
+İstenmeyen Etkiler).
+2 / 14Önleme:
+Erişkinler: Aşağıdaki doz programı kullanılabilir:
+Haftada 7 gün günde 160 mg trimetoprim/800 mg sülfametoksazol
+Haftada üç kere gün aşırı 160 mg trimetoprim/800 mg sülfametoksazol
+Haftada üç kere gün aşırı iki doza bölünmüş olarak günde 320 mg trimetoprim/1600 mg
+sülfametoksazol.
+Pediyatrik popülasyon:
+Risk söz konusu olan dönem boyunca aşağıdaki doz programları kullanılabilir (bkz. 4.2 alt
+bölüm akut enfeksiyonlar için standart doz önerileri):
+ Haftada yedi gün ikiye bölünmüş olarak standart doz
+ Haftada üç kere gün aşırı olarak ikiye bölünmüş standart doz
+ Haftada üç kere ardışık günlerde ikiye bölünmüş standart doz
+ Haftada üç kere ardışık günlerde tek doz olarak standart doz
+Bir tedavi gününde verilen günlük doz yaklaşık olarak 150 mg trimetoprim/m2/gün ve 750
+mg sülfametoksazol/m2/gün’e denktir. Toplam günlük doz 320 mg trimetoprim ve 1600 mg
+sülfametoksazolü geçmemelidir.
+Nokardiozis: En uygun dozla ilgili olarak bir fikir birliği yoktur. Günde 6-8 tablet şeklinde
+erişkin dozları 3 aya kadar kullanılmıştır.
+Toksaplazmozis: bu hastalığın tedavi veya profilaksisi için en uygun dozla ilgili fikir birliği
+yoktur. Karar, klinik deneyime dayanmalıdır. Ancak, profilaksi için Pneumocystis jiroveci
+pnömonisinin prevansiyonu için önerilen dozlar uygun olabilir.
+Geriyatrik popülasyon:
+Böbrek fonksiyonu normal olan yaşlı hastalarda önerilen yetişkin dozları uygulanmalıdır.
+4.3. Kontrendikasyonlar
+METOPRİM, sülfonamidlere, trimetoprime, ko-trimoksazole veya METOPRİM’in içindeki
+yardımcı maddelerden herhangi birisine karşı aşırı duyarlılık öyküsü olan hastalara
+verilmemelidir.
+Karaciğerde belirgin parenkimal hasarı olan hastalarda kontrendikedir.
+Plazma konsantrasyonunun tekrarlanan ölçümlerinin yapılamadığı ciddi böbrek yetmezliği
+olan hastalarda kontrendikedir.
+4 haftalık ve daha büyük olan bebeklerde PCP tedavi/profilaksisi hariç olmak üzere
+METOPRİM prematüre bebeklere uygulanmamalıdır ve miyadında doğan bebeklere ise
+yaşamın ilk 6 ayı içinde uygulanmamalıdır.
+3 / 144.4 Özel kullanım uyarıları ve önlemleri
+Çok nadir olmasına rağmen, Stevens-Johnson sendromu, Lyell sendromu (toksik epidermal
+nekroliz), fulminan hepatik nekroz, agranülositoz, aplastik anemi, diğer kan diskrazileri ve
+solunum yollarında aşırı duyarlılık gibi şiddetli reaksiyonlara bağlı olarak ölümler olmuştur.
+Cilt döküntüsü görülür görülmez METOPRİM kesilmelidir (bkz. 4.8 İstenmeyen Etkiler).
+Yaşlı hastaların tedavisi sırasında özellikle dikkatli olunması her zaman tavsiye edilir, çünkü
+bu hastalar grup olarak advers reaksiyonlar açısından daha duyarlıdır ve özellikle
+komplikasyon oluşturan durumlar varsa (bozuk karaciğer ve/veya böbrek fonksiyonu ve/veya
+diğer ilaçların eş zamanlı kullanılması) ciddi etkilerin ortaya çıkma olasılığı daha yüksektir.
+Yeterli idrar çıkışı her zaman korunmalıdır. Tedavi edilen hastaların soğutulmuş idrarlarında
+sülfonamid kristalleri görülmüş olmasına rağmen, in vivo kristalüri bulgusu nadirdir.
+Beslenme bozukluğu olan hastalarda risk daha yüksek olabilir.
+METOPRİM uzun süre verildiğinde veya folat eksikliği olan hastalara verildiğinde ya da
+yaşlılara verildiğinde, düzenli aylık kan sayımı yapılması önerilir, çünkü mevcut folat
+eksikliğine bağlı olarak hematolojik laboratuar göstergelerinde asemptomatik değişiklik
+olasılığı vardır. Bu değişiklikler, folinik asit (5-10 mg/gün) uygulanması ile antibakteriyel
+aktiviteye engel olmaksızın geri döndürülebilir.
+Glikoz-6-fosfat dehidrojenaz (G-6-PD) eksikliği olan hastalarda hemoliz olabilir.
+Ciddi alerji veya bronşiyal astımı olan hastalarda, METOPRİM dikkatli bir şekilde
+verilmelidir.
+METOPRİM, A grubu beta-hemolitik streptokoklara bağlı streptokokkal farenjit tedavisinde
+kullanılmamalıdır; bu organizmaların orofarenksten eradikasyonunda, penisiline göre daha az
+etkilidir.
+Trimetoprimin, fenilalanin metabolizmasını bozduğu bildirilmiştir, ama uygun diyet
+kısıtlaması yapan fenilketonürik hastalarda bunun önemi yoktur.
+Akut porfiri riskinden şüphe edilen veya akut porfiri olduğu bilinen hastalara METOPRİM
+verilmesinden kaçınılmalıdır. Hem trimetoprim, hem de sülfonamidler (özellikle
+sülfametoksazol olmasa da), porfirinin klinik alevlenmesi ile ilişkili bulunmuştur.
+Hiperkalemi riski olan hastalarda serum potasyum düzeyinin yakın olarak takibi gereklidir.
+Dikkatli gözlem yapılmaksızın METOPRİM, ciddi hematolojik bozukluğu olan hastalara
+verilmemelidir (bkz. 4.8 İstenmeyen etkiler). METOPRİM, sitotoksik tedavi gören hastalara,
+kemik iliği veya periferik kan üzerinde ilave etki olmaksızın veya çok az etki ile
+uygulanmıştır.
+4 / 14METOPRİM içindeki antibiyotik kombinasyonu, sadece, doktorun değerlendirmesine göre
+tedavinin, olası risklere ağır bastığı durumlarda kullanılmalıdır; etkili tek bir antibakteriyel
+ajanın kullanılması dikkate alınmalıdır.
+Bu tıbbi ürün sodyum ihtiva eder. Bu tıbbi ürün her dozunda 1 mmol (23 mg)’dan daha az
+sodyum ihtiva eder; yani esasında “sodyum içermez”.
+4.5. Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+Trimetoprim, alkalen pikrat reaksiyonu kullanıldığı zaman serum/plazma kreatinin değerinin
+yanlış hesaplamasına neden olabilir. Bunun sonucunda serum/plazma kreatinin düzeyi
+gerçekte olduğundan %10 daha yüksek bulunabilir. Kreatinin klirensi düşer: kreatinin renal
+tübüler sekresyonu, %23’ten %9’a düşerken, glomerüler filtrasyon değişmeden kalır.
+Bazı durumlarda, zidovudin ile eş zamanlı tedavi, ko-trimoksazole karşı hematolojik advers
+reaksiyon gelişme riskini artırabilir. Eş zamanlı tedavi gerekli ise, hematolojik parametrelerin
+takip edilmesi göz önüne alınmalıdır.
+Böbrek transplantasyonunu takiben ko-trimoksazol ve siklosporin ile eş zamanlı olarak tedavi
+edilen hastalarda, böbrek fonksiyonunda reversibl bozulma gözlenmiştir.
+Rifampisin ve METOPRİM’in birlikte kullanılması, bir haftalık bir dönemden sonra
+trimetoprimin plazma yarı-ömründe kısalma ile sonuçlanır. Bunun klinik önemi olmadığı
+düşünülmektedir.
+Trimetoprim, fizyolojik pH’da katyon oluşturan ve kısmen aktif renal sekresyonla atılan
+(prokainamid, amantadin) ilaçlarla birlikte kullanıldığında, bu sürecin kompetetif inhibisyonu
+olasılığı söz konusudur ve bu durum, ilaçlardan birisinin veya her ikisinin birden plazma
+konsantrasyonunun artmasına yol açar.
+Eş zamanlı olarak diüretik (esas olarak tiazidler) kullanan yaşlı hastalarda, purpura ile birlikte
+olan veya olmayan trombositopeni riskinde artış görülmektedir.
+Bazı bildirimlere göre eş zamanlı olarak ko-trimoksazol reçete edildiğinde, haftada 25 mg’dan
+fazla primetamin alan hastalarda megaloblastik anemi gelişebilir.
+Ko-trimoksazol’ün varfarinin antikoagülan etkisini, bunun metabolizmasını stereo-selektif
+olarak inhibe ederek potansiyalize ettiği gösterilmiştir. Sülfametoksazol, in vitro olarak
+varfarini plazma- albümin protein bağlayıcı bölgelerden ayırabilir. METOPRİM tedavisi
+esnasında antikoagülan tedavinin dikkatli bir şekilde kontrol edilmesi tavsiye edilir.
+Ko-trimoksazol fenitoinin yarı-ömrünü uzatır ve eş zamanlı olarak uygulanırsa, aşırı fenitoin
+etkisi ile sonuçlanabilir. Hastanın durumunun ve serum fenitoin düzeylerinin yakından takibi
+tavsiye edilir.
+Trimetoprim ile digoksinin eş zamanlı kullanılmasının, yaşlı hastaların bir bölümünde plazma
+digoksin düzeylerini yükselttiği gösterilmiştir.
+5 / 14Ko-trimoksazol metotreksatın serbest plazma düzeylerini yükseltebilir.
+Testte, Lactobacillus casei’nin dihidrofolat redüktazı kullanıldığı zaman trimetoprim, serum
+metotreksat düzeyi testlerine engel olur. Metotreksat radyoimmünassay ile ölçüldüğünde
+engelleme söz konusu değildir.
+Trimetroprim/sülfametoksazol 160 mg/800 mg (ko-trimoksazol) uygulanması, trimetoprim
+öğesine bağlı olarak lamivudin maruziyetinde % 40 artışa neden olur. Lamivudinin
+trimetroprim veya sülfametoksazol farmakokinetiği üzerinde etkisi yoktur.
+Sülfonilüre hipoglisemik ajanlarla etkileşim nadir olmakla birlikte, potansiyalizasyon
+bildirilmiştir.
+Hiperkalemiye neden olabilen diğer ilaçları alan hastalarda dikkatli olmak gereklidir.
+METOPRİM, metotreksat gibi diğer anti-folat ilaçları alan hastalarda uygun tedavi olarak
+kabul edilirse, folat desteği verilmesi düşünülmelidir.
+Özel popülasyonlara ilişkin ek bilgiler
+Herhangi bir etkileşim çalışması yapılmamıştır.
+Pediyatrik popülasyon
+Çocuklarda herhangi bir etkileşim çalışması yapılmamıştır.
+4.6. Gebelik ve laktasyon
+Genel Tavsiye
+Gebelik kategorisi: C
+Çocuk Doğurma Potansiyeli Bulunan Kadınlar/Doğum Kontrolü (Kontrasepsiyon)
+METOPRİM verildiği zaman neonatal hiperbilirübinemi ortaya çıkması, alevlenmesi riski
+veya teorik olarak kernikterus riski nedeniyle çocuk doğurma potansiyeli olan kadınlar uygun
+kontrasepsiyon yöntemlerini kullanmalıdır.
+Gebelik dönemi
+METOPRİM’in gebe kadınlarda kullanımına ilişkin yeterli veri mevcut değildir.
+Gebe kadınlarda METOPRİM kullanımı konusunda yeterli veri yoktur. Vaka-kontrol
+çalışmaları, folat antagonistlerine maruziyet ile insanda doğum defektleri arasında bir ilişki
+olabileceğini göstermiştir.
+Trimetoprim, bir folat antagonistidir ve hayvan çalışmalarında her iki ajanın folat
+bozukluklarına neden olduğu gösterilmiştir (bkz. 5.3 Klinik Öncesi Güvenlilik Verileri).
+METOPRİM, açık olarak gerekli olmadığı sürece özellikle birinci trimestrda olmak üzere
+gebelikte kullanılmamalıdır. Gebelikte METOPRİM kullanılacaksa, folat ilavesi göz önüne
+alınmalıdır.
+Sülfametoksazol, plazma albüminine bağlanmak için bilirubin ile yarışır. Yenidoğanda birkaç
+6 / 14gün süre ile anlamlı maternal kaynaklı ilaç düzeyleri devam ettiği için anneye doğuma yakın
+METOPRİM verildiği zaman neonatal hiperbilirübinemi ortaya çıkması veya alevlenmesi
+riski olabilir (teorik olarak kernikterus riski ile birlikte). Bu teorik risk, preterm olan ve
+glukoz-6- fosfat dehidrojenaz eksikliği olan bebekler gibi hiperbilirübinemi riski yüksek olan
+bebeklerde özellikle önemlidir.
+Laktasyon Dönemi
+METOPRİM’in öğeleri (trimetoprim ve sülfametoksazol) anne sütüne geçer. Anne veya
+bebeğin hiperbilirübinemisinin olduğu veya hiperbilirübinemi geliştirme riskinin bulunduğu
+gebeliğin geç döneminde ve süt veren annelerde METOPRİM uygulamasından kaçınılmalıdır.
+Ayrıca, küçük bebeklerde hiperbilirübinemi predispozisyonu göz önüne alınarak sekiz
+haftadan daha küçük bebeklerde, METOPRİM uygulamasından kaçınılmalıdır.
+Üreme yeteneği/Fertilite
+Hayvanlar üzerinde yapılan araştırmalar üreme toksisitesinin bulunduğunu göstermiştir.
+İnsanlara yönelik potansiyel risk bilinmemektedir.
+4.7. Araç ve makine kullanımı üzerindeki etkiler
+METOPRİM’in araç ve makine kullanımı üzerindeki etkisini araştıran çalışma
+yürütülmemiştir. Bu aktiviteler üzerinde olumsuz etki, ilacın farmakolojisinden öngörülemez.
+Yine de, hastaların araç kullanma becerisi göz önüne alınırken, hastanın klinik durumu ve
+METOPRİM’in advers olay profili akılda tutulmalıdır.
+4.8. İstenmeyen etkiler
+Aşağıdaki advers olaylarla ilişkili sıklık kategorileri tahmini hesaplamalardır. Çoğu olay için
+insidansı hesaplamak üzere uygun veri mevcut değildir. Ayrıca, advers olaylar, endikasyona
+bağlı olarak insidansta farklılık gösterebilir.
+Çok yaygından seyreğe kadar değişen advers olayların sıklığını saptamak üzere geniş klinik
+çalışmalarının verileri kullanılmıştır. Çok nadir advers olaylar, primer olarak pazarlama
+sonrası deneyimlerden elde edilen verilerden saptanmış olup, bu nedenle “gerçek” bir
+sıklıktan ziyade bildirim oranını yansıtır.
+Klinik çalışmalarda rapor edilen istenmeyen etkilerin sıklık sıralaması aşağıdaki gibidir:
+Çok yaygın (≥1/10); Yaygın (≥1/100 ila <1/10); Yaygın Olmayan (≥1/1000 ila <1/100);
+Seyrek (≥1/10000 ila <1/1000); Çok seyrek (<1/10000), bilinmiyor (eldeki verilerden
+hareketle tahmin edilemiyor)
+Enfeksiyonlar ve enfestasyonlar
+Yaygın: Monilial çoğalma
+Kan ve lenf sistemi hastalıkları
+Çok seyrek: Belli duyarlı G-6-PD eksikliği olan hastalarda, lökopeni, nötropeni,
+trombositopeni, agranülositoz, megaloblastik anemi, aplastik anemi, hemolitik anemi,
+methemoglobinemi, eozinofili, purpura, hemoliz
+7 / 14Hematolojik değişikliklerin çoğu hafiftir ve tedavi kesildiğinde tersine çevrilebilir. Özellikle
+yaşlılarda, karaciğer veya böbrek fonksiyonu bozuk olanlarda veya folat durumu zayıf olan
+hastalarda, izole vakalarda şiddetli olabilse dahi, değişikliklerin çoğu klinik semptomlara
+neden olmaz. Risk taşıyan hastalarda ölümler kaydedilmiştir ve riskli hastalar dikkatli bir
+şekilde gözlemlenmelidir (bkz. 4.3 Kontrendikasyonlar)
+Bağışıklık sistemi hastalıkları
+Çok seyrek: Serum hastalığı, anafilaksi, alerjik miyokardit, anjiyoödem, ilaç ateşi, Henoch-
+Schönlein purpurasına benzeyen alerjik vaskülit, periareteritis nodoza, sistemik lupus
+eritematozus
+Metabolizma ve beslenme hastalıkları
+Çok yaygın: Hiperkalemi
+Çok seyrek: Hipoglisemi, hiponatremi, anoreksi
+Ko-trimoksazol yaşlı hastalarda kullanıldığında veya yüksek doz ko-trimoksazol alan
+hastalarda, bu hastalar, hiperkalemi ve hiponatremiye daha duyarlı olabilecekleri için yakın
+gözetim önerilir.
+Psikiyatrik hastalıklar
+Çok seyrek: Depresyon, halüsinasyonlar
+Sinir sistemi hastalıkları
+Yaygın : Baş ağrısı
+Çok seyrek: Aseptik menenjit, konvülsiyonlar, periferik nörit, ataksi, vertigo, tinnitus, baş
+dönmesi
+İlaç kesildiği zaman aseptik menenjit hızla geri dönmüştür, ama ko-trimoksazol veya tek
+başına trimetroprime tekrar maruziyet olduğunda bir dizi vakada tekrar ortaya çıkmıştır.
+Göz hastalıkları
+Çok seyrek: Üveit
+Solunum, göğüs bozuklukları ve mediastinal hastalıklar
+Çok seyrek: Öksürük, nefes darlığı, pulmoner infiltrasyonlar
+Öksürük, nefes darlığı ve pulmoner infiltrasyonlar, çok seyrek olsa da fatal olan respiratuvar
+aşırı duyarlılığın erken göstergeleri olabilir.
+Gastrointestinal hastalıklar
+Yaygın: Bulantı, diyare
+Seyrek: Kusma
+Çok seyrek: Glossit, stomatit, psödomembranöz kolit, pankreatit
+8 / 14Hepato-bilier hastalıklar
+Çok seyrek: Serum transaminazlarda yükselme, bilirubin düzeylerinde yükselme, kolestatik
+sarılık, hepatik nekroz
+Kolestatik sarılık ve hepatik nekroz ölümcül olabilir.
+Deri ve deri altı doku hastalıkları
+Yaygın: Cilt döküntüleri
+Çok seyrek: Fotosensitivite, eksfoliatif dermatit, sabit ilaç erüpsiyonu, eritema multiforme,
+Stevens-Johnson sendromu, Lyell sendromu (toksik epidermal nekroliz)
+Lyell’s sendromu yüksek mortalite oranına sahiptir.
+Kas-iskelet bozuklukları, bağ doku ve kemik hastalıkları
+Çok seyrek: Artralji, miyalji
+Böbrek ve idrar hastalıkları
+Çok seyrek: Böbrek fonksiyonunda bozukluk (bazen böbrek yetmezliği olarak bildirilir),
+intersitisyel nefrit
+Pneumocystis jiroveci (P.carinii) pnömonisi (PCP) tedavisi ile ilişkili etkiler
+Çok seyrek: Ciddi aşırı duyarlılık reaksiyonları, döküntü, ateş, nötropeni, trombositopeni,
+yüksek karaciğer enzimleri, hiperkalemi, hiponatremi
+PCP tedavisinde kullanılan yüksek dozlarda, tedavinin kesilmesine neden olan ciddi aşırı
+duyarlılık reaksiyonları bildirilmiştir. Kemik iliği depresyonu belirtileri ortaya çıkarsa,
+hastaya kalsiyum folinat desteği verilmelidir (5-10 mg/gün). Ko-trimoksazole tekrar
+maruziyet olduğunda PCP hastalarında ciddi aşırı duyarlılık reaksiyonları bildirilmiştir (bazen
+birkaç günlük bir doz aralığından sonra).
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar / risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplannın herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TÜFAM)'ne bildirmleri gerekmektedir. (www.titck.gov.tr; eposta:
+tufam@titck.gov.tr; tel: 0 314 00 08; faks: 0312 218 35 99).
+4.9. Doz aşımı ve tedavisi
+Bulantı, kusma, baş dönmesi ve konfüzyon, aşırı dozun olası belirti ve bulgularıdır. Akut
+trimetoprim aşırı dozunda kemik iliği depresyonu bildirilmiştir.
+Kusma olmamışsa, kusmanın uyarılması istenebilir. Mide lavajı yararlı olabilir, ancak
+gastrointestinal sistemden emilim normalde çok hızlıdır ve yaklaşık olarak iki saat içinde
+tamamlanır. Çok fazla aşırı doz alındığında durum böyle olmayabilir. Böbrek fonksiyonunun
+durumuna bağlı olarak, idrar çıkışı azsa, sıvı uygulaması önerilir.
+9 / 14Hem trimetoprim, hem de aktif sülfametoksazol, hemodiyaliz ile orta derecede diyaliz
+edilebilirdir. Peritonal diyaliz etkili değildir.
+5. FARMAKOLOJİK ÖZELLİKLERİ
+5.1 Farmakodinamik özellikler
+Farmakoterapötik grup: Sülfonamidler ve trimetoprim kombinasyonları (türevler dâhil
+olmak üzere)
+ATC kodu: J01EE01
+Etki mekanizması:
+METOPRİM, iki aktif maddeden (sülfametoksazol ve trimetoprim) oluşan antibakteriyel bir
+ilaçtır. Sülfametoksazol, dihidropteroat sentetaz enziminin kompetetif bir inhibitörüdür.
+Sülfametoksazol, dihidrofolat sentezinde para-aminobenzoik asidin (PABA) bakteriyel hücre
+tarafından kullanılmasını kompetetif olarak inhibe eder ve sonuçta bakteriyostaz oluşur.
+Trimetroprim, bakteriyel dihidrofolat redüktaza (DHFR) bağlanır, bunu reversibl olarak
+inhibe eder ve tetrahidrofolat üretimini bloke eder. Koşullara bağlı olarak etki bakterisit
+olabilir. Bu şekilde, trimetoprim ve sülfametoksazol, pürinlerin biyosentezinde iki ardışık
+adımı bloke eder ve bu nedenle birçok bakteri için gerekli olan nükleik asitleri bloke eder. Bu
+etki, iki ajan arasında in vitro olarak aktivitenin belirgin olarak potansiyalizasyonuna neden
+olur.
+Direnç mekanizmaları:
+In vitro çalışmalar, bakteriyel direncin, sülfametoksazol ve trimetoprim kombinasyonunda,
+daha yavaş gelişebileceğini göstermiştir (tek başına sülfametoksazol veya tek başına
+trimetoprim ile karşılaştırıldığında).
+Sülfametoksazole karşı direnç, farklı mekanizmalarla oluşabilir. Bakteriyel mutasyonlar,
+PABA konsantrasyonunda artışa neden olur, böylece sülfametoksazol ile yarışır ve böylece
+dihidropteroat sentetaz enzimi üzerinde inhibitör etkide azalmaya neden olur. Diğer bir direnç
+mekanizması, plazmide bağımlıdır ve değişmiş bir dihidropteroat sentetaz enzimi
+üretilmesinden kaynaklanır. Bu değişmiş enzim, vahşi tip enzimle karşılaştırıldığında
+sülfametoksazole karşı afinitesi düşüktür.
+Trimetoprime karşı direnç, plazmid bağımlı bir mutasyon vasıtası ile gerçekleşir. Bu
+mutasyon, vahşi tip enzimle karşılaştırıldığında trimetropime karşı daha düşük bir afiniteye
+sahip olan farklı bir dihidrofolat redüktaz (DHFR) enzimi üretilmesi ile sonuçlanır.
+Trimetoprim, plazmoidal DHFR’e bağlanır, ama bakteriyel enzime bağlandığından daha az
+sıkı bir şekilde bağlanır. Memeli DHFR için afinitesi, ilgili bakteriyel enzim için afinitesine
+göre 50,000 kat daha azdır.
+Birçok sık görülen patojen bakteri, in vitro olarak trimetoprim ve sülfametoksazole karşı
+duyarlıdır (önerilen dozlar uygulandıktan sonra kan, doku sıvıları ve idrarda ulaşılan
+konsantrasyonların çok altındaki konsantrasyonlarda). Ancak, diğer antibiyotiklerde olduğu
+10 / 14gibi in vitro aktivite, her zaman klinik etkililiğin ortaya konduğu anlamına gelmez ve
+tatminkar duyarlılık testinin, önerilen ve sadece inhibitör maddelerin (özellikle timidin ve
+timin) bulunmadığı vasatlar ile gerçekleştirildiği belirtilmelidir.
+Kırılma noktaları:
+EUCAST (Antifungal Duyarlılık Testi Avrupa Konfederasyonu)
+Enterobacteriaceae: S ≤ 2 R> 4
+S. maltophilia: S ≤ 4 R> 4
+Acinetobacter: S ≤ 2 R> 4
+Staphylococcus: S ≤ 2 R> 4
+Enterococcus: S ≤ 0.032R> 1
+Streptococcus ABCG: S ≤ 1 R> 2
+Streptococcus pneumoniae: S ≤ 1 R> 2
+Hemophilus influenza: S ≤ 0.5 R> 1
+Moraxella catarrhalis: S ≤ 0.5 R>1
+Psuedomonas aeruginosa ve diğer non-enterobacteriaceae: S ≤ 2* R> 4*
+S= duyarlı, R= dirençli. * Bu organizmalar için henüz EUCAST kırılma noktaları
+bulunmadığı için bunlar CLSI kırılma noktalarıdır.
+Trimetoprim: sülfametoksazol 1:19 oranındadır. Kırılma noktaları trimetoprim
+konsantrasyonu olarak ifade edilmiştir.
+Antibakteriyel spektrum:
+Direnç prevalansı coğrafi olarak farklılık gösterebilir ve belli türler için zamana göre farklılık
+gösterebilir. Dirençle ilgili yerel bilgilerin bilinmesi, özellikle ciddi enfeksiyonlar tedavi
+edilirken önemlidir. Direncin lokal prevalansının, en azından bazı enfeksiyon tiplerinde,
+ajanın kullanılmasının sorgulanabilir olduğuna işaret eden durumlarda, gerektiğinde uzman
+tavsiyesi alınmalıdır. Bu bilgiler, mikroorganizmaların trimetoprim/sülfametoksazole duyarlı
+olup olmayacağı olasılığı ile ilgili olarak sadece tahmini bir kılavuz sağlar.
+Bir dizi bakteriye karşı trimetoprim/sülfametoksazol duyarlılığı aşağıdaki tabloda
+gösterilmiştir:
+Genel olarak duyarlı olan türler:
+Gram-pozitif aeroblar:
+Staphylococcus aureus
+Staphylococcus saprophyticus
+Streptococcus pyogenes
+11 / 14Gram-negatif aeroblar:
+Enterobacter cloacae
+Haemophilus influenzae
+Klebsiella oxytoca
+Moraxella catarrhalis
+Salmonella spp.
+Stenotrophomonas maltophilia
+Yersinia spp.
+Edinilmiş direncin problem oluşturabileceği türler:
+Gram-pozitif aeroblar:
+Enterococcus faecalis
+Enterococcus faecium
+Nocardia spp.
+Staphylococcus epidermidis
+Streptococcus pneumoniae
+Gram-negatif aeroblar:
+Citrobacter spp.
+Enterobacter aerogenes
+Escherichia coli
+Klebsiella pneumoniae
+Klebsiella pneumonia
+Proteus mirabilis
+Proteus vulgaris
+Providencia spp.
+Serratia marcesans
+Doğal olarak dirençli organizmalar:
+Gram-negatif aeroblar:
+Pseudomonas aeruginosa
+Shigella spp.
+Vibrio cholera
+5.2 Farmakokinetik özellikler
+Genel özellikler:
+Emilim:
+Oral uygulamadan sonra trimetoprim ve sülfametoksazol hızlı bir şekilde ve hemen hemen
+tamamen emilir. Besinlerin varlığı emilimi geciktirmez. Kanda pik düzeyler ilacın
+alınmasından bir ve dört saat sonra gerçekleşir ve elde edilen düzey dozla ilişkilidir. Terapötik
+bir dozdan sonra kanda etkin düzeyler 24 saate kadar devam eder. Erişkinlerde, sabit durum
+düzeylerine doz verildikten 2-3 gün sonra ulaşılır. İki öğeden hiçbirisinin diğerinin kanda elde
+edilen konsantrasyonu üzerinde önemli etkisi yoktur.
+12 / 14Dağılım:
+Trimetoprim pKa 7.4 olan zayıf bir bazdır. Lipofiliktir. Trimetoprim doku düzeyleri genel
+olarak ilgili plazma düzeylerinden daha yüksektir (akciğerler ve böbrekler özellikle yüksek
+konsantrasyonlar gösterir). Trimetorpim konsantrasyonları, safrada, prostatik sıvıda ve
+dokuda, tükürükte, balgamda ve vajinal sekresyonlarda plazma konsantrasyonlarını aşar.
+Aköz humor, anne sütü, beyin-omurilik sıvısı, orta kulak sıvısı, sinoviyal sıvı ve doku
+(intestinal) sıvısındaki düzeyler, antibakteriyel aktivite için uygundur. Trimetoprim amniyoitk
+sıvıya ve fetal dokulara geçer (maternal serum konsantrasyonlarına yakın konsantrasyonlara
+ulaşır).
+Plazmada trimetoprimin %50’si poteine bağlıdır. İnsanda yarı-ömür, böbrek fonksiyonu
+normal olduğu zaman 8,6-17 saattir. Kreatinin klirensi 10 ml/dk’dan düşükse, yarı-ömür 1,5-
+3,0 kat uzar. Yaşlılarda, gençlere göre anlamlı fark görünmemektedir.
+Biyotransformasyon:
+Glukuronid konjugasyonu tespit edilmesine rağmen sülfametoksazol metabolizması, N4-
+asetilasyonu ile baskın olarak ortaya çıkar. Trimetoprimin ana metabolitleri 1 - ve 3-oksitler,
+ve 3 - ve 4-hidroksi türevleridir.
+Eliminasyon:
+Trimetoprimin temel atılma yolu renaldir ve dozun yaklaşık olarak %50’si idrardan 24 saat
+içinde değişmeden atılır. İdrarda bazı metabolitler tanımlanmıştır. Trimetoprimin idrar
+konsantrasyonları oldukça değişkenlik gösterir.
+Sülfametoksazol pKa 6.0 olan zayıf bir asittir. Çeşitli vücut sıvılarında aktif
+sülfametoksazolün konsantrasyonu, plazma konsantrasyonunun %20-50’si kadardır.
+Plazmada sülfametoksazolün yaklaşık olarak %66’sı proteine bağlıdır. İnsanda yarı-ömür,
+böbrek fonksiyonu normal olduğunda 9-11 saattir. Böbrek fonksiyonunda azalma varsa, aktif
+sülfametoksazolün yarı-ömründe değişiklik olmaz, ama kreatinin klirensi 25 ml/dk’nın altında
+olduğu zaman majör, asetilenmiş metabolitin yarı ömrü uzar.
+Sülfametoksazolün temel atılma yolu renaldir; dozun %15-30’u (idrarda elde edilen) aktif
+formdadır. Yaşlı hastalarda, sülfametoksazolün böbrek klirensi düşüktür.
+5.3. Klinik öncesi güvenlilik verileri
+Reprodüktif toksikoloji:
+Önerilen insan terapötik dozunun üzerindeki dozlarda, trimetoprim ve sülfametoksazolün,
+sıçanlarda damak yarığı ve diğer fetal bozukluklara (folat antagonisiti için tipik bulgular)
+neden olduğu bildirilmiştir. Diyete folat eklenmesi ile trimetorpimin etkileri önlenebilmiştir.
+Tavşanlarda, insan trimetoprim terapötik dozlarının üzerindeki dozlarda fetal kayıplar
+görülmüştür.
+13 / 146. FARMASÖTİK ÖZELLİKLER
+6.1. Yardımcı maddelerin listesi
+Mısır nişastası,
+Povidon K 30,
+Mikrokristalin selüloz (pH 101),
+Sodyum nişasta glikolat,
+Magnezyum stearat,
+6.2. Geçimsizlikler
+Yoktur
+6.3. Raf ömrü
+60 ay
+6.4. Saklamaya yönelik özel tedbirler
+25oC'nin altındaki oda sıcaklığında saklayınız.
+6.5. Ambalajın niteliği ve içeriği
+METOPRİM 30 tablet içeren blister ambalajda ve karton kutuda.
+6.6. Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+Kullanılmamış olan ürünler ya da atık materyaller ‘Tıbbi atıkların kontrolü yönetmeliği’ ve
+‘Ambalaj ve Ambalaj Atıklarının Kontrolü Yönetmelikleri’ ne uygun olarak imha edilmelidir.
+7. RUHSAT SAHİBİ
+Biofarma İlaç Sanayi ve Ticaret A.Ş.
+Akpınar Mah. Osmangazi Cad. No: 156
+34885 Sancaktepe/İstanbul
+Telefon: (0216) 398 10 63 (Pbx)
+Faks: (0216) 398 10 20
+8. RUHSAT NUMARASI
+9. İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ
+10. KÜB’ÜN YENİLENME TARİHİ
+14 / 14

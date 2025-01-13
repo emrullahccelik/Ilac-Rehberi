@@ -1,0 +1,2872 @@
+KISA ÜRÜN BİLGİSİ
+Bu ilaç ek izlemeye tabidir. Bu üçgen yeni güvenlilik bilgisinin hızlı olarak belirlenmesini
+sağlayacaktır. Sağlık mesleği mensuplarının şüpheli advers reaksiyonları TÜFAM'a
+bildirmeleri beklenmektedir. Bakınız Bölüm 4.8 Advers reaksiyonlar nasıl raporlanır?
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+VIEKIRAX 12,5 mg / 75 mg / 50 mg film kaplı tablet
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde:
+Her film kaplı tablet 12,5 mg ombitasvir ve 75 mg paritaprevir ve 50 mg ritonavir içerir.
+Yardımcı madde(ler):
+Yardımcı maddeler için 6.1'e bakınız.
+3. FARMASÖTİK FORM
+Film kaplı tablet
+18,8 mm x 10,0 mm boyutlarında, bir yüzü “AV1” baskılı, pembe renkli, oblong, bikonveks,
+film kaplı tabletler.
+4. KLİNİK ÖZELLİKLER
+4.1 Terapötik endikasyonlar
+VIEKIRAX, diğer tıbbi ürünler ile kombine, yetişkinlerde kronik hepatit C'nin (KHC)
+tedavisi için endikedir (bakınız, bölümler 4.2, 4.4, ve 5.1).
+Hepatit C virüsü (HCV) genotip spesifikliği için, 4.4 ve 5.1 bölümlerine bakınız.
+4.2 Pozoloji ve uygulama şekli
+VIEKIRAX, kronik hepatit C tedavisinde deneyimli bir hekim tarafından başlatılmalı ve
+izlenmelidir.
+Pozoloji/uygulama sıklığı ve süresi:
+VIEKIRAX'ın önerilen oral dozu, günde bir defa yemek ile birlikte iki adet 12,5 mg / 75 mg /
+50 mg tablettir.
+VIEKIRAX, HCV tedavisi için diğer tıbbi ürünler ile kombine kullanılmalıdır (bakınız Tablo
+1).
+Tablo 1. Hasta popülasyonuna göre önerilen tedavi rejimi ve süresi
+Hasta popülasyonu Tedavi* Süre
+Genotip 1b, sirozsuz veya 12 hafta
+VIEKIRAX +dasabuvir
+kompanse sirozu olan
+Sayfa 1/59Daha önce tedavi
+edilmemiş, genotip 1b ile
+enfekte olmuş ve minimal
+ile orta derecede fibrozisi
+bulunan hastalarda 8 hafta
+düşünülebilir. ** (bakınız,
+bölüm 5.1, GARNET
+çalışması)
+Genotip 1a, sirozsuz VIEKIRAX+dasabuvir+ribavirin* 12 hafta
+Genotip 1a,
+VIEKIRAX+dasabuvir+ribavirin* 24 hafta
+kompanse sirozlu
+(bakınız, bölüm 5.1)
+Genotip 4, sirozsuz veya
+VIEKIRAX +ribavirin 12 hafta
+kompanse sirozlu
+*Not: Bilinmeyen bir genotip 1 alt tipine sahip olan veya karma genotip 1 enfeksiyonu olan
+hastalarda, genotip 1a doz uygulaması önerilerini takip ediniz.
+** İnvaziv olmayan yöntemlerle karaciğer hastalığının ciddiyetini değerlendirirken, kan
+biyobelirteçleri kombinasyonu veya karaciğer sertlik ölçümü ile kan testi kombinasyonu
+doğruluğu artırır ve orta derecede fibrozisli tüm hastalarda 8 hafta tedaviden önce
+yapılmalıdır.
+Dasabuvir ve Ribavirin doz modifikasyonu dahil spesifik dozaj talimatları için, ilgili Kısa
+Ürün Bilgisine başvurunuz.
+Uygulama şekli:
+Film kaplı tabletler, oral kullanım içindir. Hastalara, tabletleri bütün olarak yutmaları
+öğütlenmelidir (örn., hastalar, tableti çiğnememelidir, kırmamalıdır veya çözmemelidir).
+Absorpsiyonu maksimize etmek amacıyla, VIEKIRAX tabletler, yemeğin yağ ve kalori
+içeriğinden bağımsız olarak, yemek ile birlikte alınmalıdır (bakınız, bölüm 5.2).
+Kaçırılan dozlar
+Bir VIEKIRAX dozunun kaçırılması halinde, reçete edilen doz 12 saat içerisinde alınabilir.
+VIEKIRAX'ın alınması gereken zamanın üzerinden 12 saatten fazla geçmesi halinde,
+kaçırılan doz ALINMAMALIDIR ve hasta bir sonraki dozu, olağan doz uygulama takvimine
+göre almalıdır. Hastalara, çift doz almamaları öğütlenmelidir.
+Özel popülasyonlara ilişkin ek bilgiler:
+Böbrek yetmezliği:
+Diyaliz gerektiren son evre böbrek hastalığı dahil olmak üzere, hafif şiddetli, orta şiddetli
+veya şiddetli böbrek yetmezliği olan hastalarda EXVIERA için doz ayarlanması gerekli
+değildir (bakınız, bölüm 5.2). Böbrek yetmezliği olan ve ribavirin kullanımı gereken
+hastalarda ribavirin kullanımına ilişkin bilgi için ribavirinin Kısa Ürün Bilgisine bakınız.
+Karaciğer yetmezliği:
+Hafif şiddette karaciğer yetmezliği (Child-Pugh A) olan hastalarda, VIEKIRAX dozunun
+ayarlanması gerekli değildir. VIEKIRAX, orta şidette ve şiddetli karaciğer yetmezliği olan
+hastalarda (Child-Pugh B ve C) kontrendikedir (bakınız, bölüm 4.3, 4.4, 4.8 ve 5.2).
+Sayfa 2/59Pediyatrik popülasyon:
+VIEKIRAX’ın 18 yaşından küçük çocuklardaki etkililiği ve güvenliliği değerlendirilmemiştir.
+Hiçbir veri mevcut değildir.Bu sebeple 18 yaş altı çocuklarda kullanılmaz.
+Geriyatrik popülasyon:
+Yaşlı hastalarda, VIEKIRAX doz ayarlaması gerekli değildir (bakınız, bölüm 5.2).
+HIV-1 Ko-enfeksiyonu:
+Tablo 1'deki doz uygulama önerilerini takip ediniz. HIV antiviral ajanlar ile doz uygulama
+önerileri için, bölüm 4.4'e (HIV ko-enfeksiyonu olan hastaların tedavisi) ve bölüm 4.5'e
+başvurunuz. Daha fazla bilgi için bölüm 5.1'e bakınız.
+Karaciğer transplantı alıcıları:
+VIEKIRAX ve ribavirin ile kombine dasabuvirin, genotip 1 HCV enfeksiyonu olan karaciğer
+transplantı alıcılarında 24 hafta süreyle alınması önerilmektedir. Genotip 4 ile enfekte
+hastalarda VIEKIRAX’ın ribavirin ile kombinasyonu önerilmektedir. Başlangıçta daha düşük
+bir ribavirin dozu uygun olabilir. Karaciğer nakli sonrası yapılan çalışmada, ribavirin dozu
+kişiye göre ayarlanmıştır. Hastaların çoğu, günde 600 ila 800 mg ribavirin kullanmıştır
+(bakınız, bölüm 5.1). Kalsinörin inhibitörleri ile birlikte doz uygulaması önerileri için bölüm
+4.5'e bakınız.
+4.3 Kontrendikasyonlar
+Etkin maddelere veya bölüm 6.1'de listelenen yardımcı maddelerden herhangi birine karşı
+aşırı hassasiyet.
+Orta şidette ve şiddetli karaciğer yetmezliği olan hastalar (Child-Pugh B ve C) (bakınız,
+bölüm 5.2).
+İçeriğinde etinilestradiol bulunan tıbbi ürünler ile birlikte kullanım (pek çok kombine oral
+kontraseptif veya kontraseptif vajinal halka gibi) (bakınız, bölüm 4.4 ve 4.5).
+Vücuttan eliminasyonu için CYP3A’ya yüksek düzeyde bağımlı olan tıbbi ürünlerin plazma
+düzeyleri ciddi olaylara yol açacak şekilde yükselebileceğinden VIEKIRAX ile birlikte
+kullanılmamalıdır (bakınız, bölüm 4.5). Örnekler aşağıda listelenmiştir.
+CYP3A4 substratları:
+ alfuzosin hidroklorür
+ amiodaron, disopiramit, dronedaron, kinidin, ranolazin
+ astemizol, terfenadin
+ sisaprid
+ kolşisin (renal veya hepatik yetmezliği olan hastalar)
+ ergotamin, dihidroergotamin, ergonovin, metilergometrin
+ fusidik asit
+ lovastatin, simvastatin, atorvastatin
+ lurasidon
+ oral midazolam, triazolam
+ pimozid
+ ketiapin
+Sayfa 3/59 salmeterol
+ sildenafil (pulmoner arteriyel hipertansiyon tedavisinde kullanıldığında)
+ tikagrelor
+Kuvvetli veya orta kuvvette enzim indükleyicileri olan tıbbi ürünler ile VIEKIRAX’ın
+(dasabuvir ile birlikte veya dasabuvir olmadan) birlikte kullanımında ombitasvir, paritaprevir
+ve ritonavirin plazma konsantrasyonlarının düşmesi ve terapötik etkilerinin azalması beklenir.
+Bu sebeple birlikte uygulanmamalıdır (bakınız, bölüm 4.5). Kontrendike olan kuvvetli yeya
+orta kuvvette enzim indükleyicileri aşağıda sunulmaktadır.
+Enzim indükleyicileri:
+ karbamazepin, fenitoin, fenobarbital
+ efavirenz, nevirapin, etravirin
+ enzalutamid
+ mitotan
+ rifampisin
+ Sarı kantaron (St. John’s Wort, Hypericum perforatum)
+Kuvvetli inhibitörleri olan tıbbi ürünler ile VIEKIRAX’ın (dasabuvir ile birlikte veya
+dasabuvir olmadan) birlikte kullanımında paritaprevir plazma konsantrasyonlarının artırması
+beklenir. Bu sebeple birlikte uygulanmamalıdır (bakınız, bölüm 4.5). Kontrendike olan
+kuvvetli CYP3A4 inhibitörleri aşağıda sunulmaktadır.
+ kobisistat
+ indinavir, lopinavir/ritonavir, sakinavir, tipranavir
+ itrakonazol, ketokonazol, posakonazol, vorikonazol
+ klaritromisin, telitromisin
+ konivaptan
+4.4 Özel kullanım uyarıları ve önlemleri
+Genel
+VIEKIRAX'ın monoterapi olarak uygulanması önerilmez. VIEKIRAX hepatit C
+enfeksiyonunun tedavisi için diğer tıbbi ürünler ile kombine kullanılmalıdır (bakınız, bölüm
+4.2 ve 5.1).
+Sirozu olan hastalarda karaciğer dekompansasyonu ve karaciğer yetmezliği riski
+Pazarlama sonrasında, ribavirinli veya ribavirinsiz VIEKIRAX ve dasabuvir ile tedavi edilen
+hastalarda karaciğer transplantasyonu ya da fatal sonuçlar da dahil olmak üzere karaciğer
+yetmezliği ve karaciğer dekompansasyonu bildirilmiştir. Bu ciddi sonuçların bildirildiği
+hastaların çoğunda, tedaviye başlamadan önce ilerlemiş siroz kanıtı olduğu belirlenmiştir.
+Bildirilen olgular tipik olarak tedavinin başlangıcından sonraki bir ila dört hafta içinde ortaya
+çıkmış ve karaciğer dekompansasyonunun klinik belirti ve semptomlarıyla bağlantılı olarak,
+ALT artışları olmaksızın, direkt serum bilirubin düzeylerinde akut başlangıçlı bir artışla
+karakterize olduğu kaydedilmiştir. Temelde yatan ileri karaciğer hastalığı nedeniyle
+nedensellik ilişkisi kurabilmek zor olmakla birlikte, olası bir riskin varlığı dışlanamaz.
+VIEKIRAX orta şiddette ve şiddetli karaciğer yetmezliği (Child-Pugh B ve C) olan hastalarda
+kontrendikedir (bakınız, bölüm 4.2, 4.3, 4.8 ve 5.2).
+Sayfa 4/59Sirozu olan hastalar için:
+ Hasta klinik karaciğer dekompansasyonu belirti ve semptomları (assit, hepatik
+ensefalopati, varis kanaması gibi) açısından takip edilmelidir.
+ Tedavi başlangıcından önce, tedavinin başlatılmasından sonraki ilk 4 haftada ve klinik
+olarak endike olduğu durumda, direkt bilirubin düzeylerini de içeren karaciğerle ilgili
+laboratuvar testleri yapılmalıdır.
+ Karaciğer dekompansasyonu gelişen hastalarda tedavi durdurulmalıdır.
+ALT'de yükselmeler
+Ribavirin ile birlikte veya ribavirin olmadan VIEKIRAX ve dasabuvir tedavisinin
+değerlendirildiği klinik çalışmalarda, hastaların yaklaşık %1'inde (3,039’un 35 ‘inde) ALT
+düzeylerinde normal üst limitin 5 katından daha fazlasına kadar geçici yükselmeler meydana
+gelmiştir. ALT'deki yükselmeler asemptomatik seyretmiş, bilirubinde eşlik eden yükselmeler
+olmaksızın sıklıkla tedavinin ilk 4 haftasında meydana gelmiştir ve ribavirin ile birlikte veya
+ribavirin olmadan VIEKIRAX ve dasabuvir tedavisinin sürdürülmesi üzerine, ALT yüksekliği
+yaklaşık iki hafta içerisinde azalmıştır.
+ALT'deki bu yükselmeler, hastaların, kombine oral kontraseptifler veya kontraseptif vajinal
+halkalar gibi etinilestradiol içeren tıbbi ürünler kullanan alt grubunda (25 hastanın 6'sı)
+anlamlı olarak daha sık idi (bakınız, bölüm 4.3). Bunun aksine, hormonal replasman
+tedavisinde tipik olarak kullanılan farklı tipte östrojenler (oral ve topikal estradiol ve konjüge
+östrojenler) kullanan hastalardaki ALT yükselmelerinin oranı, östrojen içeren ürün
+kullanmayan hastalardakine benzer bulunmuştur (her grupta yaklaşık %1).
+Etinilestradiol içeren tıbbi ürünler (çoğu kombine oral kontraseptif (KOK) veya kontraseptif
+vajinal halkalar) kullanan hastalar, VIEKIRAX ve dasabuvir tedavisine başlamadan önce
+alternatif bir kontrasepsiyon yöntemine (örn., yalnızca progestin içeren kontrasepsiyon veya
+hormonal olmayan yöntemler) geçiş yapmalıdır (bakınız, bölüm 4.3 ve 4.5).
+VIEKIRAX ve dasabuvir ile ilişkilendirilen ALT yükselmeleri asemptomatik olmasına karşın,
+eğer hastalarda karaciğer enflamasyonunun erken işaretleri (yorgunluk, güçsüzlük, iştahsızlık,
+bulantı ve kusma gibi) ya da geç işaretleri (sarılık ve dışkı renginde değişiklik gibi)
+mevcutsa gecikmeden bir doktora başvurmaları tavsiye edilmelidir. Sirozu olmayan
+hastalarda karaciğer enzimlerinin rutin olarak izlenmesi gerekli değildir (sirotik hastalar için
+yukarıda yer alan bilgilere bakınız). Tedavinin erken kesilmesi, ilaca direnç gelişmesine yol
+açabilir, ancak gelecekteki tedaviye etkileri bilinmemektedir.
+Gebelik ve ribavirin ile birlikte kullanım
+Ayrıca bakınız, Bölüm 4.6.
+VIEKIRAX ve ribavirin kombinasyon halinde kullanıldığında, tedavi edilen kadın hastalarda
+ve tedavi edilen erkek hastaların kadın partnerlerinde gebeliğin önlenmesi açısından son
+derece dikkatli davranılmalıdır. İlave bilgi için, bölüm 4.6’ya ve ribavirinin Kısa Ürün
+Bilgisine başvurunuz.
+Takrolimus, Sirolimus ve Everolimus ile Kullanım
+VIEKIRAX ve dasabuvirin sistemik takrolimus, sirolimus ve everolimus ile birlikte
+kullanımı, ritonavirin CYP3A'yı inhibe etmesi nedeniyle immünosupresantların
+konsantrasyonlarını artırmaktadır (bakınız, bölüm 4.5). VIEKIRAX ve dasabuvir sistemik
+takrolimus ile birlikte uygulandığında ciddi ve/veya yaşamı tehdit edici olaylar gözlenmiştir
+ve benzer bir risk sirolimus ve everolimus ile de beklenebilir.
+Sayfa 5/59Sağlanacak fayda risklerin üzerinde olmadığı sürece VIEKIRAX ve dasabuvirin takrolimus
+ile eşzamanlı kullanımından kaçınılmalıdır. VIEKIRAX ve dasabuvirin takrolimus yada
+sirolimus ile eşzamanlı kullanımında dikkatli olunması önerilir, ve önerilen dozlar ve gözlem
+stratejileri için 4.5 Bölümüne bakınız. Doz ayarlamaları için uygun dozaj olmaması nedeniyle
+everolimus kullanılamaz.
+VIEKIRAX ve dasabuvirin, takrolimus ve sirolimus ile birlikte kullanımında, uygulama
+başlangıcında ve birlikte uygulama süresince takrolimus yada sirolimusun tam kan
+konsantrasyonları izlenmelidir ve gerekli durumlarda doz ve/veya doz uygulama sıklığı
+ayarlanmalıdır. Hastalar böbrek fonksiyonundaki veya takrolimus yada sirolimus ile ilişkili
+advers olaylardaki değişiklikler açısından sık sık izlenmelidir. Ek doz uygulama ve izleme
+talimatları için takrolimus yada sirolimus Kısa Ürün Bilgisi'ne bakınız.
+Genotip-spesifik aktivite
+Farklı HCV genotipleri ile önerilen rejimler ile ilgili olarak, bölüm 4.2'ye bakınız. Genotip-
+spesifik virolojik ve klinik aktivite ile ilgili olarak, bölüm 5.1'e bakınız.
+VIEKIRAX'ın etkililiği ve güvenliliği, HCV 2, 3, 5 ve 6 genotiplerine sahip hastalarda
+değerlendirilmemiştir; bu nedenle VIEKIRAX, bu genotipler ile enfekte olmuş hastaların
+tedavisi için kullanılmamalıdır.
+HCV'ye karşı diğer doğrudan etkili antiviraller ile birlikte uygulama
+VIEKIRAX’ın güvenliliği ve etkililiği, dasabuvir ve/veya ribavirin ile kombine olarak
+belirlenmiştir. VIEKIRAX’ın, diğer antiviraller ile birlikte kullanımı araştırılmamıştır ve
+dolayısı ile tavsiye edilemez.
+Yeniden tedavi
+Daha önce VIEKIRAX'a veya VIEKIRAX ile aynı sınıflara ait tıbbi ürünlere (NS3/4A-
+inhibitörleri veya NS5A inhibitörleri) maruz kalmış hastalarda VIEKIRAX etkililiği
+gösterilmemiştir. Çapraz direnç ile ilgili olarak, ayrıca bölüm 5.1'e bakınız.
+CYP3A tarafından metabolize edilen glukokortikoitler (e.g. flutikazon) ile birlikte kullanım
+VIEKIRAX'ın, flutikazon ile veya CYP3A tarafından metabolize edilen diğer
+glukokortikoitler ile birlikte uygulanması sırasında dikkatli olunmalıdır. CYP3A tarafından
+metabolize edilen inhale glukokortikoidler ile beraber kullanımda glukokortikoidlerin
+sistemik maruziyeti artabilir. Ritonavir içeren rejimler ile birlikte kullanıldığında çeşitli
+vakalarda Cushing sendromu ve takip eden adrenal süpresyon rapor edilmiştir. VIEKIRAX ve
+glukokortikoidlerin özellikle uzun süreli kullanımı sadece tedavinin potansiyel faydasının,
+sistemik kortikosteroide bağlı risklere ağır basması durumunda başlatılmalıdır (bakınız,
+bölüm 4.5).
+Kolşisin ile birlikte kullanım
+VIEKIRAX (dasabuvir ile birlikte veya dasabuvir olmadan) ile kolşisin arasındaki etkileşim
+değerlendirilmemiştir. Bu nedenle tedavinin gerekli olması durumunda, normal renal veya
+hepatik fonksiyona sahip hastalarda kolşisin dozunun azaltılması veya kolşisin tedavisine ara
+verilmesi önerilmektedir (bakınız, bölüm 4.5). Renal veya hepatik bozukluğu olan hastalarda,
+VIEKIRAX (dasabuvir ile birlikte veya dasabuvir olmadan) ile kolşisin kontrendikedir
+(bakınız, bölüm 4.3 ve 4.5).
+Statinler ile kullanım
+Simvastatin, lovastatin ve atorvastatin kontrendikedir (bakınız, bölüm 4.3 ve 4.5).
+Sayfa 6/59Rosuvastatin
+Dasabuvir ile birlikte alınan VIEKIRAX'ın rosuvastatin maruziyetini 3 katın üzerinde
+artırması beklenmektedir. Tedavi süresince rosuvastatin tedavisinin gerekli olması halinde,
+rosuvastatinin maksimum günlük dozu 5 mg olmalıdır (bakınız, bölüm 4.5, Tablo 2).
+Dasabuvir olmadan VIEKIRAX ile kombine kullanıldığında rosuvastatin maruziyetindeki
+artış, daha az belirgindir. Bu kombinasyonda, rosuvastatinin maksimum günlük dozu 10 mg
+olmalıdır (bakınız, bölüm 4.5, Tablo 2).
+Pitavastatin ve fluvastatin
+VIEKIRAX ile pitavastatin ve fluvastatin arasındaki etkileşimler araştırılmamıştır. Teorik
+olarak, dasabuvir ile birlikte veya dasabuvir olmadan VIEKIRAX'ın, pitavastatin ve
+fluvastatin maruziyetlerini artırması beklenmektedir. VIEKIRAX ile tedavi süresince,
+pitavastatin/fluvastatine geçici bir süre ara verilmesi önerilmektedir. VIEKIRAX ile tedavi
+sırasında statin tedavisinin gerekli olması durumunda, dozu azaltılmış
+pravastatin/rosuvastatine geçilebilir (bakınız, bölüm 4.5, Tablo 2).
+HIV ko-enfeksiyonu olan hastaların tedavisi
+VIEKIRAX sabit doz kombinasyonunun bir parçası olan düşük doz ritonavir halihazırda
+antiretroviral tedavi almayan HIV ile ko-enfekte PI direnci olan hastalarda seçilebilir.
+Süpresif antiretroviral tedavi almayan HIV ile ko-enfekte hastalar VIEKIRAX ile tedavi
+edilmemelidir.
+HIV ko-enfeksiyonu varlığında ilaç etkileşimlerinin dikkatle göz önünde bulundurulması
+gerekmektedir (detaylar için, bakınız, bölüm 4.5, Tablo 2).
+Atazanavir, aynı anda almak kaydıyla VIEKIRAX ve dasabuvir ile kombine kullanılabilir.
+Günde bir defa 100 mg ritonavir VIEKIRAX tedavisinin bir parçası olarak alındığında,
+atazanavirin ritonavir olmadan alınması gerektiği belirtilmelidir. Özellikle ribavirin, Hepatit C
+tedavi rejiminin bir parçası olduğunda kombinasyon, hiperbilirubinemi (oküler ikterus dahil)
+için artan risk taşımaktadır.
+İleri derecede PI direnci olmadığında, aynı anda almak kaydıyla VIEKIRAX ve dasabuvir
+günde bir defa 800 mg darunavir ile kombine olarak kullanılabilir (darunavir maruziyeti
+düşer). Günde bir defa 100 mg ritonavir, VIEKIRAX tedavisinin bir parçası olarak
+alındığından, darunavirin ritonavir olmadan alınması gerektiği belirtilmelidir.
+Atazanavir ve darunavir dışındaki HIV proteaz inhibitörleri (örn., indinavir, sakuinavir,
+tipranavir, lopinavir/ritonavir), kontrendikedir. (bakınız, bölüm 4.3)
+Raltegravir maruziyeti önemli ölçüde (2 kat) artmaktadır. Kombinasyon, 12-24 hafta süreyle
+tedavi edilen sınırlı bir hasta grubunda belirli bir güvenlilik sorunu ile ilişkilendirilmemiştir.
+VIEKIRAX ve dasabuvir, rilpivirin ile birlikte verildiğinde rilpivirin maruziyeti önemli
+ölçüde (3 kat) artar ve bunun sonucunda potansiyel olarak QT uzaması gözlenebilir. Tedaviye
+bir HIV proteaz inhibitörünün eklenmesi halinde (atazanavir, darunavir), rilpivirin maruziyeti
+daha da artabilir ve bu nedenle önerilmemektedir. Rilpivirin, rutin EKG takibi ile dikkatli
+kullanılmalıdır.
+Rilpivirin dışındaki diğer NNRTI'ler (efavirenz, etravirin ve nevirapin) kontrendikedir
+(bakınız, bölüm 4.3)
+Sayfa 7/59Hepatit B Virüsü Reaktivasyonu
+Direkt etkili antiviral ajanlar ile tedavi sırasında veya sonrasında bazıları ölümcül olan
+hepatit B virüsü (HBV) reaktivasyonu olguları bildirilmiştir. Tedavinin başlangıcından önce
+tüm hastalarda HBV taraması yapılmalıdır. HBV/HCV koenfekte hastalar HBV
+reaktivasyonu açısından risk altındadır ve bu nedenle mevcut klinik kılavuzlara uygun
+olarak izlenmeli ve yönetilmelidir.
+Depresyon ve psikiyatrik hastalıklar
+Olguların çoğunda ribavirin ile kombine olarak dasabuvir ile birlikte veya dasabuvir
+olmaksızın VIEKIRAX kullanımında, depresyon vakaları ve nadiren görülen intihar
+düşüncesi ve intihar girişimi bildirilmiştir. Bazı vakalarda daha önce depresyon öyküsü,
+psikiyatrik hastalık ve / veya maddenin kötüye kullanımı olsa da, VIEKIRAX ile veya
+VIEKIRAX ile birlikte dasabuvir tedavisi ile nedensellik ilişkisi dışlanamaz. Önceden var
+olan bir depresyon öyküsü veya psikiyatrik hastalığı bulunan hastalarda dikkatli olunmalıdır.
+Hastalar ve sağlık görevlileri, davranış veya ruh halinde değişiklik ve intihar düşüncesi gibi
+herhangi bir değişiklik durumunda doktoru bilgilendirmeleri konusunda yönlendirilmelidir.
+4.5 Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+VIEKIRAX, dasabuvir ile birlikte veya dasabuvir olmadan uygulanabilir. Birbirlerine olan
+etkileri beraber uygulandıklarında değişmektedir. (bakınız, bölüm 5.2). Bu etkileşimden
+dolayı bir kombinasyon olarak değerlendirilmelidir.
+Farmakodinamik etkileşimler
+Enzim indükleyicilerin birlikte uygulanması, advers olaylarda artışa ve ALT yükselmesine yol
+açabilir (Tablo 2'ye bakınız). Etinilestradiol ile birlikte uygulama, ALT yükselmesine yol
+açabilir (bakınız, bölüm 4.3 ve 4.4). Kontrendike enzim indükleyicilerinin örnekleri, bölüm
+4.3'de verilmiştir.
+Farmakokinetik etkileşimler
+VIEKIRAX'ın diğer tıbbi ürünlerin farmakokinetiğini etkileme potansiyeli
+Ritonavirin dahil olduğu kombinasyon tedavisinin net etkisi in vivo ilaç etkileşim
+çalışmalarında değerlendirilmiştir.
+Aşağıdaki bölüm, dasabuvir ile birlikte veya dasabuvir olmadan VIEKIRAX tarafından
+etkilenen spesifik taşıyıcıları ve metabolize edici enzimleri tanımlamaktadır. Diğer tıbbi
+ürünler ile potansiyel ilaç etkileşimlerine ve doz uygulamasına ilişkin tam bir yönlendirme
+için, Tablo 2'ye bakınız.
+CYP3A4 tarafından metabolize edilen tıbbi ürünler
+Ritonavir, kuvvetli bir CYP3A inhibitörüdür. Dasabuvir ile birlikte veya dasabuvir olmadan
+VIEKIRAX'ın, başlıca CYP3A tarafından metabolize edilen tıbbi ürünler ile birlikte
+uygulanması, bu tıbbi ürünlerin plazma konsantrasyonlarında artışa yol açabilir. Vücuttan
+eliminasyonu için CYP3A’ya yüksek düzeyde bağımlı olan tıbbi ürünlerin plazma düzeyleri
+ciddi olaylara yol açacak şekilde yükselebileceğinden VIEKIRAX ile birlikte kullanımı
+kontrendikedir (bakınız, bölüm 4.3 ve Tablo 2).
+İlaç etkileşim çalışmalarında değerlendirilen CYP3A substratlarından doz ayarlaması ve/veya
+klinik izlem gerektirebilecek olanlardan bazıları; siklosporin, sirolimus, takrolimus,
+amlodipin, rilpivirin ve alprazolam (Tablo 2'ye bakınız). Doz ayarlaması ve/veya klinik izlemi
+Sayfa 8/59gerektirebilecek diğer CYP3A4 substratlarının örnekleri kalsiyum kanal blokerlerini (örn.,
+nifedipin) ve trazodonu içermektedir. Buprenorfinin ve zolpidemin de yine CYP3A tarafından
+metabolize edilmesine karşın, ilaç etkileşim çalışmaları, bu tıbbi ürünlerin, dasabuvir ile
+birlikte veya dasabuvir olmadan VIEKIRAX ile birlikte uygulanması sırasında doz
+ayarlamasının gerekli olmadığını göstermektedir (Tablo 2'ye bakınız).
+OATP ailesi ve OCT1 tarafından taşınan tıbbi ürünler
+Paritaprevir, OATP1B1 ve OATP1B3 hepatik uptake taşıyıcılarının bir inhibitörüdür.
+Paritaprevir ve ritonavir, OATP2B1 inhibitörleridir. Ritonavir, OCT1’in in vitro inhibitörü
+olmakla birlikte bunun klinik yansıması bilinmemektedir. Dasabuvir ile birlikte veya
+dasabuvir olmadan VIEKIRAX'ın OATP1B1, OAT1B3, OATP2B1 veya OCT1 substratları
+ile birlikte uygulanması, bu tür tıbbi ürünlerin plazma konsantrasyonlarını artırabilir ve bu
+taşıyıcı substratlarının doz ayarlaması ve/veya klinik izlem gerektirebilir. Bazı statinler
+(bakınız, tablo 2), feksofenadin , repaglinid ve anjiyotensin II reseptör antagonistleri (örn.
+valsartan) bu sınıfa girmektedir.
+İlaç etkileşim çalışmalarında değerlendirilen OATP1B1/3 substratları, pravastatin ve
+rosuvastatin içermektedir (Tablo 2'ye bakınız).
+BCRP tarafından taşınan tıbbi ürünler
+Paritaprevir, ritonavir ve dasabuvir, in vivo BCRP inhibitörleridir. Dasabuvir ile birlikte veya
+dasabuvir olmadan VIEKIRAX'ın, BCRP için substrat olan tıbbi ürünler ile birlikte eş
+zamanlı uygulanması, bu taşıyıcı substratlarının plazma konsantrasyonlarını artırabilir ve doz
+ayarlaması/klinik izlem gerektirebilir. Bu tür tıbbi ürünler, sülfasalazin, imatinib ve bazı
+diğer statinleri (Tablo 2'ye bakınız) içermektedir.
+İlaç etkileşim çalışmalarında değerlendirilen BCRP substratları, rosuvastatini içermektedir
+(Tablo 2'ye bakınız).
+Bağırsaktaki P-gp tarafından taşınan tıbbi ürünler
+Paritaprevir, ritonavir ve dasabuvirin, in vitro P-gp inhibitörü olmalarına karşın, P-gp substratı
+olan digoksinin VIEKIRAX ve dasabuvir ile birlikte uygulandığında, digoksin maruziyetinde
+anlamlı bir değişiklik gözlenmemiştir. Ancak, dasabuvir olmadan VIEKIRAX'ın, digoksin ile
+birlikte uygulanması, bu tür tıbbi ürünlerin plazma konsantrasyonlarında artışa yol açabilir.
+(Tablo 2'ye bakınız). VIEKIRAX, intestinal P-gp aktivitesine karşı hassas tıbbi ürünlerin
+(dabigatran eteksilat gibi) plazma maruziyetini artırabilir.
+Glukuronidasyon (UGT1A1) ile metabolize edilen tıbbi ürünler
+Paritaprevir, ombitasvir ve dasabuvir, UGT1A1 inhibitörleridir. Dasabuvir ile birlikte veya
+dasabuvir olmadan VIEKIRAX'ın, başlıca UGT1A1 tarafından metabolize edilen tıbbi ürünler
+ile birlikte uygulanması, bu tür tıbbi ürünlerin plazma konsantrasyonlarında artışa yol açar.
+Levotiroksin gibi dar terapötik indekse sahip ilaçlar için, rutin klinik izlem önerilmektedir.
+İlaç etkileşim çalışmalarında değerlendirilmiş olan raltegravire ve buprenorfine ilişkin
+spesifik tavsiye için, ayrıca Tablo 2'ye bakınız.
+CYP2C19 tarafından metabolize edilen tıbbi ürünler
+CYP2C19 tarafından metabolize edilen tıbbi ürünlerin (örn. lansoprazol, esomeprazol, s-
+mefenitoin), dasabuvir ile birlikte veya dasabuvir olmadan VIEKIRAX ile birlikte
+uygulanmaları durumunda, bu tıbbi ürünlerin maruziyetleri azalabilir, doz ayarlaması/klinik
+izlem gerekli olabilir. İlaç etkileşim çalışmalarında değerlendirilen CYP2C19 substratları,
+omeprazolü ve essitalopramı içermektedir (Tablo 2'ye bakınız).
+Sayfa 9/59CYP2C9 tarafından metabolize edilen tıbbi ürünler
+Dasabuvir ile birlikte veya dasabuvir olmadan uygulanan VIEKIRAX, CYP2C9 substratı olan
+varfarinin maruziyetini etkilememiştir. Diğer CYP2C9 substratları için doz ayarlama
+gerekliliği beklenmemektedir (NSAİİ'ler (örn. ibuprofen), antidiyabetikler (örn. glimepirid,
+glipizid).
+CYP2D6 veya CYP1A2 tarafından metabolize edilen tıbbi ürünler
+Dasabuvir ile birlikte veya dasabuvir olmadan uygulanan VIEKIRAX, CYP2D6 /CYP1A2
+substratı olan duloksetin maruziyetini etkilememiştir. CYP1A2’nin bir substratı olan
+siklobenzaprin maruziyeti azalmıştır. Diğer CYP1A2 substratları (örn. siprofloksasin,
+siklobenzaprin, teofilin ve kafein) için klinik gözlem ve doz ayarlaması gerekebilir. CYP2D6
+substratları (örn. desipramin, metoprolol ve dekstrometorfan) için doz ayarlama gerekliliği
+beklenmemektedir.
+Transport proteinleri tarafından renal yoldan atılan tıbbi ürünler
+Ombitasvir, paritaprevir ve ritonavir, organik anyon taşıyıcısını (OAT1) in vivo ortamda
+inhibe etmez. Bu durum bir OAT1 substratı olan tenofovir ile etkileşim olmamasından da
+anlaşılmaktadır. In vitro çalışmalar, ombitasvir, paritaprevir ve ritonavirin klinik geçerli
+konsantrasyonlarda organik katyon taşıyıcı (OCT2), organik anyon taşıyıcıları (OAT3) veya
+çoklu ilaç ve toksin ekstrüzyon proteinleri (MATE1 ve MATE2K) inhibitörü olmadığını
+göstermektedir.
+Bu nedenle, dasabuvir ile birlikte veya dasabuvir olmadan VIEKIRAX'ın, bu transport
+proteinleri aracılığı ile başlıca renal yoldan atılan tıbbi ürünleri etkilemesi beklenmemektedir
+(bakınız, bölüm 5.2).
+Ombitasvir, paritaprevir ve dasabuvirin farmakokinetiğini etkileme potansiyeli olan diğer
+tıbbi ürünler
+CYP3A4'ü inhibe eden tıbbi ürünler
+Dasabuvir ile birlikte veya dasabuvir olmadan VIEKIRAX'ın, kuvvetli CYP3A inhibitörleri
+ile birlikte uygulanması, paritaprevir konsantrasyonlarını artırabilir (bakınız, bölüm 4.3 ve
+Tablo 2).
+Enzim indükleyicileri
+Orta veya kuvvetli enzim indükleyicilerinin VIEKIRAX ve dasabuvir ile birlikte uygulanması
+durumunda, ombitasvir, paritaprevir, ritonavir ve dasabuvirin plazma konsantrasyonlarının
+düşmesi ve terapötik etkilerinin azalması beklenmektedir. Kontrendike enzim indükleyicileri,
+bölüm 4.3 Tablo 2’de sunulmaktadır.
+CYP3A4 ve transport proteinlerini inhibe eden tıbbi ürünler
+Paritaprevir, CYP3A4 aracılı metabolizma ve biliyer atılım ile elimine edilmektedir (hepatik
+taşıyıcılar OATP1B1, P-gp ve BCRP'nin substratı). VIEKIRAX'ın hem orta kuvvetli
+CYP3A4 inhibitörleri hem de çoklu taşıyıcı inhibitörü (P-gp, BCRP ve/veya OATP1B1/
+OATP1B3) olan ajanlarla birlikte kullanılırken dikkatli olunmalıdır. Bu tıbbi ürünler
+paritaprevirin (örn., ritonavir ile birlikte atazanavir , eritromisin, diltiazem veya verapamil)
+maruziyetinde klinik açıdan anlamlı artışlar gösterebilir.
+Transport proteinlerini inhibe eden tıbbi ürünler
+P-gp, BCRP, OATP1B1 ve/veya OATP1B3'ün kuvvetli inhibitörleri, paritaprevire maruziyeti
+artırma potansiyeline sahiptir. Bu taşıyıcılar inhibe olduklarında, ombitasvir ve dasabuvirin
+maruziyetlerinde klinik açıdan anlamlı artışlar beklenmemektedir.
+Sayfa 10/59Vitamin K antagonistleri ile tedavi edilen hastalar
+Dasabuvir ile birlikte veya dasabuvir olmadan VIEKIRAX tedavisi sırasında karaciğer
+fonksiyonu değişebilir, Uluslararası Normalleştirilmiş Oran (INR) değerlerinin yakından
+izlenmesi önerilir.
+İlaç etkileşim çalışmaları
+Dasabuvir ile birlikte veya dasabuvir olmadan VIEKIRAX'ın diğer tıbbi ürünler ile birlikte
+kullanımına dair öneriler Tablo 2’de sunulmuştur.
+Dasabuvir ile birlikte veya dasabuvir olmadan VIEKIRAX kullanan hasta için, potansiyel ilaç
+etkileşimi olabilecek bir ilacı(ları) hali hazırda alıyor olması veya almaya başlaması
+durumunda eşlik eden ilaç(lar) için doz ayarlaması veya uygun klinik izlem düşünülmelidir
+(bakınız, Tablo 2).
+Dasabuvir ile birlikte veya dasabuvir olmadan VIEKIRAX tedavisi nedeniyle eşlik eden tıbbi
+ürünlerin doz ayarlaması durumunda, VIEKIRAX (dasabuvir ile birlikte veya dasabuvir
+olmaksızın) tedavisi tamamlandıktan sonra eşlik eden ilaçların dozları yeniden ayarlanmalıdır.
+VIEKIRAX tedavisinin (dasabuvir ile birlikte veya dasabuvir olmadan) eşlik eden ilaçların
+konsantrasyonu üzerinde En Küçük Kareler Ortalaması Oranı (%90 Güven Aralığı ile) etkisi
+Tablo 2’de sunulmaktadır.
+Dasabuvir içeren veya içermeyen VIEKIRAX rejimleri Tablo 2'de liste halinde verilen ilaçlar
+ile birlikte uygulandıklarında aralarıındaki etkileşimin büyüklüğü aksi belirtilmedikçe
+benzerdir (En Küçük Kareler Ortalaması oranında ≤%25'lik fark). Karbamazepin, furosemid,
+zolpidem, darunavir günde iki kez, darunavir (akşam uygulaması), atazanavir (akşam
+uygulaması), rilpivirin, abakavir/lamivudin, doltegravir, metformin, sülfametaksazol/
+trimetoprim, siklobenzaprin, karisoprodol, hidrokodon/parasetamol ya da
+diyazepam ile birlikte kullanıldığında dasabuvir ile birlikte VIEKIRAX rejimi ilaç etkileşimi
+için değerlendirilmiştir, ancak dasabuvir içermeyen VIEKIRAX rejimi için
+değerlendirilmemiştir. Dolayısı ile bu ilaçlar için, VIEKIRAX ve dasabuvir rejiminin
+sonuçları ve doz uygulama önerileri, dasabuvir içermeyen VIEKIRAX rejimine ekstrapole
+edilebilir.
+Okların yönü, paritaprevir, ombitasvir, dasabuvir ve birlikte uygulanan ilaçta,
+maruziyetlerdeki (C , EAA, ve C ) değişikliklerin yönünü göstermektedir ( = artış
+maks min
+(%20'den daha fazla),  = azalma (%20'den daha az),  = değişiklik yok veya %20'den daha
+az değişiklik var). Etkileşimler bu liste ile sınırlı değildir.
+Tablo 2 – Dasabuvir ile birlikte veya dasabuvir olmadan VIEKIRAX ile diğer tıbbi
+ürünler arasındaki etkileşimler
+Tıbbi Ürün/Olası BİRLİKTE
+Etkileşim VERİLEN ETKİ C EAA C Klinik Açıklamalar
+maks trough
+Mekanizması İLAÇ
+ALFA-1 ADRENORESEPTÖR ANTAGONİSTLERİ
+Alfuzosin Dasabuvir ile Araştırılmamıştır. Birlikte kullanımı
+veya dasabuvir Beklenen: kontrendikedir (bkz
+Mekanizma: olmadan bölüm 4.3)
+Ritonavir VIEKIRAX ↑ alfuzosin
+tarafından CYP3A
+inhibisyonu
+AMİNOSALİSİLAT
+Sayfa 11/59Sulfasalazin Dasabuvir ile Araştırılmamıştır. Dasabuvir ile veya
+veya dasabuvir Beklenen: dasabuvir olmadan
+Mekanizma: olmadan VIEKIRAX ile
+paritaprevir, VIEKIRAX beraber sulfasalazin
+ritonavir ve ↑ sulfasalazin kullanımında
+dasabuvir dikkatli olmak
+tarafından BCRP gerekir.
+inhibisyonu.
+ANJİYOTENSİN RESEPTÖR BLOKERLERİ
+Valsartan Dasabuvir ile Araştırılmamıştır. Dasabuvir ile veya
+veya dasabuvir Beklenen: dasabuvir olmadan
+Losartan olmadan VIEKIRAX ile
+VIEKIRAX beraber anjiyotensin
+↑ valsartan reseptör blokerleri
+Kondesartan
+↑ losartan kullanımında doz
+↑ kondesartan azaltımı ve klinik
+Mekanizma:
+izlem önerilir.
+CYP3A4 ve/veya
+paritaprevir
+tarafından
+OATP1B
+inhibisyonu
+ANTİARİTMİKLER
+Amiodaron Dasabuvir ile Araştırılmamıştır. Birlikte kullanımı
+Dronedaron veya dasabuvir Beklenen: kontrendikedir (bkz
+Kinidin olmadan bölüm 4.3)
+Ranolazin VIEKIRAX ↑ amiodaron
+Disopiramit ↑ disopiramit
+↑dronedaron
+Mekanizma: ↑ kinidin
+ritonavir tarafından ↑ ranolazin
+CYP3A4
+inhibisyonu
+Digoksin VIEKIRAX +  1,15 1,16 1,01 Digoksin için doz
+0,5 mg tek doz dasabuvir digoksin (1,04- (1,09- (0,97- ayarlaması gerekli
+1,27) 1,23) 1,05) olmamakla birlikte,
+Mekanizma:  ombitasvir 1.03 1.00 0.99 serum digoksin
+Paritaprevir, (0.97- (0.98- (0.96- düzeylerinin uygun
+ritonavir ve 1.10) 1.03) 1.02) şekilde izlenmesi
+dasabuvire bağlı önerilmektedir.
+P-gp inhibisyonu.  0,92 0,94 0,92
+paritaprevir (0,80- (0,81- (0,82-
+1,06) 1,08) 1,02)
+ 0.99 0.97 0.99
+dasabuvir (0.92- (0.91- (0.92-
+1.07) 1.02) 1.07)
+Dasabuvir  1,58 1,36 1,24 Digoksin dozu
+olmadan digoksin (1,43- (1,21- (1,07- yaklaşık %30-50
+VIEKIRAX 1,73) 1,54) 1,43) azaltılır. Serum
+ ombitasvir Etkileşimin büyüklüğü, digoksin
+ VIEKIRAX + dasabuvir ile düzeylerinin uygun
+paritaprevir gözlemlenene benzer idi. şekilde izlenmesi
+önerilmektedir.
+SİSTEMİK ANTİBİYOTİKLER
+Klaritromisin Dasabuvir ile Araştırılmamıştır. Birlikte kullanımı
+veya dasabuvir Beklenen: kontrendikedir (bkz
+Telitromisin olmadan bölüm 4.3)
+VIEKIRAX ↑ klaritromisin
+Mekanizma: ↑ telitromisin
+klaritromisin ve
+Sayfa 12/59ritonavir tarafından ↑ paritaprevir
+CYP3A4/P-gp ↑ dasabuvir
+inhibisyonu.
+Eritromisin Dasabuvir ile Araştırılmamıştır. Beklenen: Dasabuvir ile veya
+veya dasabuvir dasabuvir olmadan
+Mekanizma: olmadan ↑ eritromisin VIEKIRAX ile
+eritromisin, VIEKIRAX beraber eritromisin
+paritaprevir, ↑ paritaprevir kullanımı
+ritonavir ve ↑ dasabuvir eritromisin ve
+dasabuvir paritaprevir
+tarafından konsantrasyonlarınd
+CYP3A4/P-gp a artışa neden
+inhibisyonu olabilir. Dikkatli
+kullanım önerilir.
+Fusidik asit Dasabuvir ile Araştırılmamıştır. Beklenen: Birlikte kullanımı
+veya dasabuvir kontrendikedir (bkz
+Mekanizma: olmadan ↑ fusidic acid bölüm 4.3).
+ritonavir tarafından VIEKIRAX
+CYP3A4
+inhibisyonu
+↑Sulfamet- 1,21 1,17 1,15 Dasabuvir ile ya da
+VIEKIRAX + oksazole (1,15- (1,14- (1,10- dasabuvir olmadan
+Sulfametoksazol, dasabuvir 1,28) 1,20) 1,20) VIEKIRAX için doz
+trimetoprim ↑trimetoprim 1,17 1,22 1,25 ayarlaması gerekli
+(1,12- (1,18- (1,19- değildir.
+800/160 mg 1,22) 1,26 1,31)
+Günde iki defa ombitasvir 0,88 0,85 Mevcut
+(0,83- (0,80-0. değil
+Mekanizma: 0,94) ,90)
+Dasabuvirde artış, ↓paritaprevir 0,78 0,87 Mevcut
+olasılıkla (0,61- (0,72- değil
+trimetoprim 1,01) 1,06)
+tarafından ↑dasabuvir 1,15 1,33 Mevcut
+CYP2C8 (1,02- (1,23- değil
+inhibisyonundan 1,31) 1,44)
+kaynaklanmaktadır. Araştırılmamıştır. VIEKIRAX + dasabuvir ile
+Dasabuvir gözlemlenene benzer etkiler beklenmektedir.
+olmadan
+VIEKIRAX
+ANTİ KANSER İLAÇLARI
+Enzalutamid Dasabuvir ile Araştırılmamıştır. Birlikte kullanımı
+veya dasabuvir ↓ombitasvir kontrendikedir (bkz
+Mitotan olmadan ↓ paritaprevir bölüm 4.3)
+VIEKIRAX ↓ dasabuvir
+Mekanizma:
+enzalutamid veya
+mitotan tarafından
+CYP3A4
+indüksiyonu
+Imatinib Dasabuvir ile Araştırılmamıştır. Beklenen: Klinik izlem ve
+veya dasabuvir düşük doz imatinib
+Mekanizma: olmadan önerilir.
+paritaprevir, VIEKIRAX ↑ imatinib
+ritonavir ve
+dasabuvir
+tarafından BCRP
+inhibisyonu
+ANTİKOAGÜLANLAR
+Varfarin VIEKIRAX +  1,05 0,88 0,94 Varfarinin
+dasabuvir R-varfarin (0,95- (0,81- (0,84- farmokinetiğinde bir
+5 mg tek doz ve 1,17) 0,95) 1,05) değişiklik
+Sayfa 13/59diğer vitamin K  0,96 0,88 0,95 beklenmemekle
+antagonistleri S-varfarin (0,85- (0,81- (0,88- birlikte tüm vitamin
+1,08) 0,96) 1,02) K antagonistleriyle
+ ombitasvir 0,94 0,96 0,98 INR’nin yakın takibi
+(0,89- (0,93- (0,95- tavsiye
+1,00) 1,00) 1,02) edilmektedir. Bunun
+ 0,98 1,07 0,96 nedeni, VIEKİRAX
+paritaprevir (0,82- (0,89- (0,85- ± dasabuvir ile
+1,18) 1,27) 1,09) tedavi sırasında
+ dasabuvir 0,97 0,98 1,03 karaciğer
+(0,89- (0,91- (0,94- fonksiyonunda
+1,06) 1,06) 1,13) değişikliklerin
+Dasabuvir  Etkileşimin büyüklüğü, meydana gelmesidir.
+olmadan R-varfarin VIEKIRAX + dasabuvir ile
+VIEKIRAX  gözlemlenene benzer idi.
+S-varfarin
+
+paritaprevir
+ ombitasvir
+Dabigatran Dasabuvir ile Araştırılmamıştır. Beklenen: Dasabuvir olmadan
+eteksilat veya dasabuvir VIEKIRAX,
+olmadan ↑ dabigatran eteksilat dabigatran eteksilat
+Mekanizma: VIEKIRAX konsantrasyonunu
+paritaprevir ve artırabilir. Dikkatli
+ritonavir tarafından kullanım önerilir.
+intestinal P-gp
+inhibisyonu
+ANTİKONVÜLSANLAR
+Karbamazepin VIEKIRAX +  1,10 1,17 1,35 Birlikte kullanımı
+dasabuvir karbamazepin (1,07- (1,13- (1,27- kontrendikedir
+Günde bir defa 1,14) 1,22) 1,45) (bölüm 4.3'e
+200 mg ve  0,84 0,75 0,57 bakınız).
+ardından günde iki karbamazepin (0,82- (0,73- (0,54-
+defa 200 mg 10,11 epoksit 0,87) 0,77) 0,61)
+ ombitasvir 0,69 0,69 Mevcut
+(0,61- (0,64- değil
+Mekanizma: 0,78) 0,74)
+Karbamazepin ile  paritaprevir 0,34 0,30 Mevcut
+CYP3A4 (0,25- (0,23- değil
+indüksiyonu 0,48) 0,38)
+ dasabuvir 0,45 0,30 Mevcut
+(0,41- (0,27- değil
+0,50) 0,33)
+Dasabuvir Araştırılmamıştır:
+olmadan VIEKIRAX + dasabuvir ile gözlemlenene
+VIEKIRAX benzer etki beklenmektedir.
+Fenobarbital Dasabuvir ile Araştırılmamıştır. Beklenen: Birlikte kullanımı
+veya dasabuvir kontrendikedir (bkz
+Mekanizma: olmadan ↓ ombitasvir bölüm 4.3)
+Fenobarbital VIEKIRAX ↓ paritaprevir
+tarafından ↓ dasabuvir
+CYP3A4
+indüksiyonu
+Fenitoin Dasabuvir ile Araştırılmamıştır. Beklenen: Birlikte kullanım
+veya dasabuvir kotrendikedir (bkz
+Mekanizma: olmadan ↓ ombitasvir bölüm 4.3)
+fenitoin VIEKIRAX ↓ paritaprevir
+tarafından ↓ dasabuvir
+CYP3A4
+indüksiyonu
+Sayfa 14/59S-mefenitoin Dasabuvir ile Araştırılmamıştır. Beklenen: Klinik izlem ve s-
+veya dasabuvir mefenitoin için doz
+Mekanizma: olmadan ↓ S-mefenitoin ayarlaması
+ritonavir tarafından VIEKIRAX gerekebilir
+CYP2C19
+indüksiyonu
+ANTİDEPRESANLAR
+Essitalopram VIEKIRAX +  1,00 0,87 Mevcut Essitalopram için
+10 mg tek doz dasabuvir essitalopram (0,96- (0,80- değil doz ayarlaması
+1,05) 0,95) gerekli değildir.
+ S-Dezmetil 1,15 1,36 Mevcut
+sitalopram (1,10- (1,03- değil
+1,21) 1,80)
+ ombitasvir 1,09 1,02 0,97
+(1,01- (1,00- (0,92-
+1,18) 1,05) 1,02)
+ 1,12 0,98 0,71
+paritaprevir (0,88- (0,85- (0,56-
+1,43) 1,14) 0,89)
+ dasabuvir 1,10 1,01 0,89
+(0,95- (0,93- (0,79-
+1,27) 1,10) 1,00)
+Dasabuvir  Etkileşimin büyüklüğü,
+olmadan essitalopram VIEKIRAX + dasabuvir ile
+VIEKIRAX gözlemlenene benzer idi.
+ 1,17 1,07 Mevcut
+S-Dezmetil (1,08- (1,01- değil
+sitalopram 1,26) 1,13)
+ ombitasvir Etkileşimin büyüklüğü,
+VIEKIRAX + dasabuvir ile
+paritaprevir gözlemlenene benzer idi.
+Duloksetin VIEKIRAX +  duloksetin 0,79 0,75 Mevcut
+dasabuvir (0,67- (0,67- değil Duloksetin için doz
+60 mg tek doz 0,94) 0,83) ayarlaması gerekli
+ ombitasvir 0,98 1,00 1,01 değildir.
+(0,88- (0,95- (0,96-
+1,08) 1,06) 1,06)
+ paritaprevir 0,79 0,83 0,77 Dasabuvir ile
+(0,53- (0,62- (0,65- birlikte veya
+1,16) 1,10) 0,91) dasabuvir olmadan
+ dasabuvir 0,94 0,92 0,88 VIEKIRAX için doz
+(0,81- (0,81- (0,76- ayarlaması gerekli
+1,09) 1,04) 1,01) değildir.
+Dasabuvir  Etkileşimin büyüklüğü,
+olmadan Duloksetin VIEKIRAX + dasabuvir ile
+VIEKIRAX gözlemlenene benzer idi.
+ ombitasvir Etkileşimin büyüklüğü,
+VIEKIRAX + dasabuvir ile
+gözlemlenene benzer idi.
+ 1,07 0,96 0,93
+paritaprevir (0,63- (0,70- (0,76-
+1,81) 1,32) 1,14)
+Trazodon Dasabuvir ile Araştırılmamıştır. Beklenen: Trazodon dikkatli
+veya dasabuvir kullanılmalıdır.
+Mekanizma: olmadan ↑ trazodon Düşük doz trazodon
+ritonavir tarafından VIEKIRAX düşünülebilir.
+CYP3A4
+inhibisyonu
+ANTİ DİÜRETİK HORMON
+Sayfa 15/59Konivaptan Dasabuvir ile Araştırılmamıştır.Beklenen: Birlikte kullanımı
+veya dasabuvir kontrendikedir (bkz
+Mekanizma: olmadan ↑ konivaptan bölüm 4.3)
+konivaptan ve VIEKIRAX ↑ paritaprevir
+paritaprevir/ ↑ dasabuvir
+ritonavir/ombitasvi
+r tarafından
+CYP3A4/P-gp
+inhibisyonu
+ANTİFUNGALLER
+Ketokonazol VIEKIRAX +  ketokonazol 1,15 2,17 Mevcut
+400 mg günde bir dasabuvir (1,09- (2,05- değil Birlikte kullanımı
+defa 1,21) 2,29) kontrendikedir (bkz
+ ombitasvir 0,98 1,17 Mevcut bölüm 4.3)
+Mekanizma: (0,90- (1,11- değil
+Ketokonazol ve 1,06) 1,24)
+paritaprevir/  paritaprevir 1,37 1,98 Mevcut
+ritonavir/ombitasvi (1,11- (1,63- değil
+re bağlı CYP3A4 / 1,69) 2,42)
+P-gp inhibisyonu  1,16 1,42 Mevcut
+Dasabuvir (1,03- (1,26- değil
+1,32) 1,59)
+Dasabuvir  ketokonazol Etkileşimin büyüklüğü,
+olmadan VIEKIRAX + dasabuvir ile
+VIEKIRAX gözlemlenene benzer idi.
+ ombitasvir Etkileşimin büyüklüğü,
+VIEKIRAX + dasabuvir ile
+gözlemlenene benzer idi.
+ paritaprevir 1,72 2,16 Mevcut
+(1,32- (1,76- değil
+2,26) 2,66)
+Itrakonazol VIEKIRAX + Araştırılmamıştır. Beklenen:
+Posakonazol dasabuvir
+↑ itrakonazol Birlikte kullanımı
+Mekanizma: ↑ posakonazol kontrendikedir (bkz
+Itrakonazol, ↑ paritaprevir bölüm 4.3)
+posakonazol ve ↑ dasabuvir
+paritaprevir/
+r/ombitasvire bağlı
+Dasabuvir
+CYP3A4 ve/veya
+olmadan
+P-gp inhibisyonu
+VIEKIRAX
+Vorikonazol VIEKIRAX + Araştırılmamıştır. Beklenen
+dasabuvir CYP2C19 aşırı metabolize edicilerde Birlikte kullanımı
+Mekanizma: kontrendikedir (bkz
+ritonavire bağlı ↓ vorikonazole bölüm 4.3)
+CYP2C19 ↑ paritaprevir
+indüksiyonu ve ↑ dasabuvir
+CYP3A4 Dasabuvir
+inhibisyonu olmadan Araştırılmamıştır.
+VIEKIRAX CYP2C19 zayıf metabolize edicilerde
+beklenen:
+↑ vorikonazol
+↑ dasabuvir
+↑ paritaprevir
+ANTİ – GUT
+Sayfa 16/59Kolşisin Dasabuvir ile Araştırılmamıştır. Beklenen: Renal veya hepatik
+veya dasabuvir fonksiyonları
+Mekanizma: olmadan ↑ kolşisin normal olan
+ritonavir tarafından VIEKIRAX hastalarda dasabuvir
+CYP3A4 ile veya dasabuvir
+inhibisyonu olmadan
+VIEKIRAX ile
+kullanım gerekli ise
+kolşisin dozunda
+azaltma ya da
+kolşisin tedavisine
+ara verilmesi
+önerilir.
+Renal veya hepatik
+yetmezliği olan
+hastalarda
+Dasabuvir ile veya
+dasabuvir olmadan
+VIEKIRAX ile
+kolşisin kullanımı
+kontrendikedir.
+(bkz.bölüm 4.3 ve
+4.4)
+ANTİHİSTAMİNİKLER
+Astemizol Dasabuvir ile Araştırılmamıştır.Beklenen: Birlikte kullanımı
+Terfenadin veya dasabuvir kontrendikedir (bkz
+olmadan ↑ astemizol/terfenadin bölüm 4.3)
+Mekanizma: VIEKIRAX
+ritonavir tarafından
+CYP3A4
+inhibisyonu
+Feksofenadin Dasabuvir ile Araştırılmamıştır.Beklenen: Dasabuvir ile veya
+veya dasabuvir dasabuvir olmadan
+Mekanizma: olmadan ↑ feksofenadin VIEKIRAX ile
+paritaprevir VIEKIRAX feksofenadin
+tarafından kullanımında
+OATP1B1 dikkatli olunmalıdır
+inhibisyonu
+ANTİHİPERLİPİDEMİKLER
+Gemfibrozil Paritaprevir/  paritaprevir 1,21 1,38 Mevcut Dasabuvir ile
+600 mg günde iki ritonavir + (0,94- (1,18- değil birlikte
+defa dasabuvir 1,57) 1,61) VIEKIRAX'ın eşlik
+ dasabuvir 2,01 11,25 Mevcut eden kullanımı
+Mekanizma: (1,71- (9,05- değil kontrendikedir
+Dasabuvir 2,38) 13,99) (bölüm 4.3'e
+maruziyetindeki bakınız).
+Sayfa 17/59artış, olasılıkla Dasabuvir Araştırılmamıştır; Gemfibrozil doz
+CYP2C8 olmadan Gemfibrozil, dasabuvir olmadan VIEKIRAX ile ayarlaması gerekli
+inhibisyonundan VIEKIRAX birlikte kullanıldığında, etkileşim değildir.
+kaynaklanmaktadır beklenmemektedir.
+ve paritaprevirdeki VIEKIRAX için doz
+artış, olasılıkla ayarlaması gerekli
+gemfibrozil değildir.
+tarafından
+OATP1B1
+inhibisyonundan
+kaynaklanmaktadır
+ANTİMİKOBAKTERİYELLER
+Rifampisin Dasabuvir ile Araştırılmamıştır.. Beklenen: Birlikte kullanımı
+veya dasabuvir kontrendikedir (bkz
+Mekanizma: olmadan ↓ ombitasvir bölüm 4.3)
+Rifampisin VIEKIRAX ↓ paritaprevir
+tarafından ↓ dasabuvir
+CYP3A4
+indüksiyonu
+ANTİPSİKOTİKLER
+Lurasidon Dasabuvir ile Araştırılmadı. Araştırılmamıştır. Beklenen: Birlikte kullanımı
+Pimozid veya dasabuvir kontrendikedir (bkz
+Ketiapin olmadan ↑ pimozid bölüm 4.3)
+VIEKIRAX ↑ ketiapin
+Mekanizma: ↑ lurasidon
+ritonavir tarafından
+CYP3A4
+inhibisyonu
+ANTITROMBOSİT AJANLAR
+Tikagrelor Dasabuvir ile Araştırılmamıştır.Beklenen: Birlikte kullanımı
+veya dasabuvir kontrendikedir (bkz
+Mekanizma: olmadan ↑ tikagrelor bölüm 4.3)
+ritonavir tarafından VIEKIRAX
+CYP3A4
+inhibisyonu
+BİGUANİD ORAL ANTİHİPERGLİSEMİKLER
+Metformin VIEKIRAX +  metformin 0,77 0,90 Mevcut Dasabuvir ile veya
+500 mg tek doz dasabuvir (0,71- (0,84- değil dasabuvir olmadan
+0,83) 0,97) VIEKIRAX
+ ombitasvir 0.92 1,01 1,01 alındığında
+(0.87- (0,97- (0,98- metformin için doz
+0.98) 1,05) 1,04) ayarlanması gerekli
+ paritaprevir 0,63 0,80 1,22 değildir.
+(0,44- (0,61- (1,13-
+0,91) 1,03) 1,31)
+ 0,83 0,86 0,95
+Dasabuvir (0,74- (0,78- (0,84-
+0,93) 0,94) 1,07)
+Dasabuvir Araştırılmamıştır.
+Sayfa 18/59olmadan VIEKIRAX + dasabuvir ile gözlemlenene
+VIEKIRAX benzer etkiler beklenmektedir.
+KALSİYUM KANAL BLOKERLERİ
+Amlodipin VIEKIRAX +  amlodipin 1,26 2,57 Mevcut Amlodipin dozunu
+5 mg tek doz dasabuvir (1,11- (2,31- değil %50 oranında
+1,44) 2,86) azaltınız ve klinik
+Mekanizma:  ombitasvir 1,00 1,00 1,00 etkileri izleyiniz.
+ritonavire bağlı (0,95- (0,97- (0,97-
+CYP3A4 1,06) 1,04) 1,04)
+inhibisyonu.  paritaprevir 0,77 0,78 0,88
+(0,64- (0,68- (0,80-
+0,94) 0,88) 0,95)
+ 1,05 1,01 0,95
+Dasabuvir (0,97- (0,96- (0,89-
+1,14) 1,06) 1,01)
+Dasabuvir Araştırılmamıştır:
+olmadan VIEKIRAX + dasabuvir ile gözlemlenene
+VIEKIRAX benzer etkiler beklenmektedir.
+Diltiazem Dasabuvir ile Araştırılmamıştır.Beklenen: Paritaprevir
+Verapamil veya dasabuvir maruziyetinde artış
+olmadan ↑ diltiazem, verapamil beklendiğinden
+Mekanizma: VIEKIRAX dikkatli kullanım
+CYP3A4/P-gp ↑ paritaprevir önerilir.
+inhibisyonu ↑/↔ dasabuvir
+Dasabuvir ile veya
+dasabuvir olmadan
+VIEKIRAX ile
+kullanılacağı
+durumda düşük doz
+kalsiyum kanal
+blokerleri kullanımı
+ve klinik izlem
+önerilir.
+Nifedipin Dasabuvir ile Araştırılmamıştır.Beklenen: Dasabuvir ile veya
+veya dasabuvir dasabuvir olmadan
+Mekanizma: olmadan VIEKIRAX ile
+CYP3A4 VIEKIRAX ↑ nifedipin kullanılacağı
+inhibisyonu. durumda düşük doz
+kalsiyum kanal
+blokerleri kullanımı
+ve klinik izlem
+önerilir.
+KONTRASEPTİFLER
+etinilestradiol/ Dasabuvir ile  1,16 1,06 1,12 Etinilestradiol
+norgestimat birlikte veya etinil estradiol (0,90- (0,96- (0,94- içeren oral
+dasabuvir 1,50) 1,17) 1,33) kontraseptifler
+0,035/0,25 mg olmadan Norgestimat metabolitleri: kontrendikedir
+günde bir defa VIEKIRAX  2,26 2,54 2,93 (bölüm 4.3'e
+Mekanizma: norgestrel (1,91- (2,09- (2,39- bakınız).
+olasılıkla, 2,67) 3,09) 3,57)
+paritaprevir,  2,01 2,60 3,11
+ombitasvir ve nor- (1,77- (2,30- (2,51-
+dasabuvire bağlı elgestromine 2,29) 2,95) 3,85)
+UGT inhibisyonu  ombitasvir 1,05 0,97 1,00
+(0,81- (0,81- (0,88-
+1,35) 1,15) 1,12)
+ 0,51 0,48 0,53
+Sayfa 19/59dasabuvir (0,22- (0,23- (0,30-
+1,18) 1,02) 0,95)
+ paritaprevir 0,70 0,66 0,87
+(0,40- (0,42- (0,67-
+1,21) 1,04) 1,14)
+Noretindron VIEKIRAX +  0,83 0,91 0,85 Viekirax (dasabuvir
+(yalnızca progestin dasabuvir Nor-etindron (0,69- (0,76- (0,64- ile birlikte veya
+içeren ilaç) 1,01) 1,09) 1,13) dasabuvir olmadan)
+ ombitasvir 1,00 0,99 0,97 ve noretindron için
+0.35 mg günde bir (0,93- (0,94- (0,90- doz ayarlaması
+defa 1,08) 1,04) 1,03) gerekli değildir.
+ paritaprevir 1,24 1,23 1,43
+(0,95- (0,96- (1,13-
+1,62) 1,57) 1,80)
+ dasabuvir 1,01 0,96 0,95
+(0,90- (0,85- (0,80-
+1,14) 1,09) 1,13)
+Dasabuvir Araştırılmamıştır.
+olmadan VIEKIRAX + dasabuvir ile gözlemlenene
+VIEKIRAX benzer etkiler beklenmektedir.
+DİÜRETİKLER
+Furosemid VIEKIRAX + furosemid 1,42 1,08 Mevcut Hastalar, klinik
+dasabuvir (1,17- (1,00- değil etkiler açısından
+20 mg tek doz 1,72) 1,17) izlenmelidir;
+ ombitasvir 1,14 1,07 1,12 furosemid dozunda
+Mekanizma: (1,03- (1,01- (1,08- %50'ye kadar bir
+olasılıkla, 1,26) 1,12) 1,16) azalma gerekli
+paritaprevir, paritaprevir 0,93 0,92 1,26 olabilir.
+ombitasvir ve (0,63- (0,70- (1,16-
+dasabuvire bağlı 1,36) 1,21) 1,38) Dasabuvir ile
+UGT1A1  dasabuvir 1,12 1,09 1,06 birlikte veya
+inhibisyonundan (0,96- (0,96- (0,98- dasabuvir olmadan
+dolayı. 1,31) 1,23) 1,14) Viekirax için doz
+Dasabuvir Araştırılmamıştır. ayarlaması gerekli
+olmadan VIEKIRAX + dasabuvir ile gözlemlenene değildir.
+VIEKIRAX benzer etkiler beklenmektedir.
+ERGOT ALKALOİDLERİ
+Ergotamin Dasabuvir ile Araştırılmamıştır. Beklenen: Birlikte kullanımı
+Dihidroergotamin veya dasabuvir kontrendikedir (bkz
+Ergonovin olmadan ↑ ergot derivatifleri bölüm 4.3)
+Metilergometrin VIEKIRAX
+Mekanizma:
+ritonavir tarafından
+CYP3A4
+inhibisyonu
+İNHALE GLUKOKORTİKOİDLER
+Flutikazon Dasabuvir ile Araştırılmamıştır. Beklenen: Birlikte kullanım
+veya dasabuvir sistemik flutikazon
+Mekanizma: olmadan ↑ flutikazon maruziyetini
+ritonavir tarafından VIEKIRAX artırabilir.
+CYP3A4
+inhibisyonu. Özellikle uzun
+dönem
+kullanılacaksa
+sadece muhtemel
+yararın sistemik
+kortikosteroid
+etkilerinin riskinden
+Sayfa 20/59daha fazla olduğu
+durumda
+başlatılmalıdır.
+(bkz. bölüm 4.4).
+GASTROİNTESTİNAL ÜRÜNLER (PROPULSİF)
+Sisaprid Dasabuvir ile Araştırılmamıştır. Beklenen: Birlikte kullanımı
+veya dasabuvir kontrendikedir (bkz
+Mekanizma: olmadan ↑ sisaprid bölüm 4.3).
+ritonavir tarafından VIEKIRAX
+CYP3A4
+inhibisyonu
+HCV ANTİVİRAL
+Sofosbuvir VIEKIRAX + ↑ sofobuvir 1,61 2,12 Mevcut Dasabuvir ile
+dasabuvir (1,38- (1,91- değil birlikte veya
+400 mg 1,88) 2,37) dasabuvir olmadan
+Günde bir defa ↑ GS-331007 1,02 1,27 Mevcut VIEKIRAX ile
+(0,90- (1,14- değil uygulandığında
+Mekanizma: 1,16) 1,42) sofosbuvir için doz
+Paritaprevir,  ombitasvir 0,93 0,93 0,92 ayarlaması gerekli
+ritonovir ve (0,84- (0,87- (0,88- değildir.
+dasabuvir 1,03) 0,99) 0,96)
+tarafından BCRP  paritaprevir 0,81 0,85 0,82
+ve P-gp (0,65- (0,71- (0,67-
+inhibisyonu 1,01) 1,01) 1,01)
+ dasabuvir 1,09 1,02 0,85
+(0,98- (0,95- (0,76-
+1,22) 1,10) 0,95)
+Dasabuvir Etkileşimin büyüklüğü, VIEKIRAX + dasabuvir
+olmadan ile gözlemlenene benzerdir.
+VIEKIRAX
+BİTKİSEL ÜRÜNLER
+Sarı kantaron (St. Dasabuvir ile Araştırılmamıştır. Beklenen: Birlikte kullanımı
+John's Wort - veya dasabuvir kontrendikedir (bkz
+hypericum olmadan ↓ dasabuvir bölüm 4.3)
+perforatum) VIEKIRAX ↓ ombitasvir
+↓ paritaprevir
+Mekanizma:
+Sarı kantaron
+tarafından
+CYP3A4
+indüksiyonu
+HIV ANTİVİRALLER: PROTEAZ İNHİBİTÖRLERİ
+HIV ile enfekte olmuş hastalar için genel bir öneri ve kullanılan diğer antiretroviral rejimler için bölüm 4.4’e
+bakınız.
+Atazanavir VIEKIRAX +  atazanavir 0,91 1,01 0,90 VIEKIRAX +
+dasabuvir (0,84- (0,93- (0,81- dasabuvir
+300 mg Günde bir 0,99) 1,10) 1,01) kombinasyonuna
+defa (beraber ombitasvir 0,77 0,83 0,89 eklenen
+alındığında) (0,70- (0,74- (0,78- atazanavirin
+0,85) 0,94) 1,02) önerilen dozu, eş
+Mekanizma:  paritaprevir 1,46 1,94 3,26 zamanlı almak
+Paritaprevir (1,06- (1,34- (2,06- kaydıyla ritonavir
+maruziyetlerindeki 1,99) 2,81) 5,16) olmaksızın günde
+artış, OATP1B1/B3 dasabuvir 0,83 0,82 0,79 bir defa 300 mg’dır
+and CYP3A’nın (0,71- (0,71- (0,66- (Viekirax'daki
+Sayfa 21/59atazanavir 0,96) 0,94) 0,94) ritonavir dozu,
+tarafından Dasabuvir  atazanavir Etkileşimin büyüklüğü, atazanavirin
+inhibisyonundan olmadan VIEKIRAX + dasabuvir ile farmakokinetik
+kaynaklanabilir. VIEKIRAX gözlemlenene benzer idi. açıdan etkisini
+ paritaprevir 2,74 2,87 3,71 artıracaktır).
+(1,76- (2,08- (2,87-
+4,27) 3,97) 4,79) VIEKIRAX ile
+ Etkileşimin büyüklüğü, dasabuvir
+Ombitasvir VIEKIRAX + dasabuvir ile kombinasyonunda
+gözlemlenene benzer idi. dasabuvir doz
+ayarlamasına gerek
+yoktur.
+Atazanavir,
+paritaprevir
+konsantrasyonlarını
+artırmaktadır.
+Atazanavir
+kullanımı,
+VIEKIRAX
+olmadan dasabuvir
+ile
+önerilmemektedir.
+VIEKIRAX +
+dasabuvirin
+atazanavir ile
+kombinasyonu,
+özellikle ribavirin
+Hepatit C
+tedavisinin bir
+parçası ise biluribin
+düzeyini yükseltir.
+(Bakınız bölüm 4.4
+ve 4.8.)
+Atazanavir / VIEKIRAX +  atazanavir 1,02 1,19 1,68
+ritonavir dasabuvir (0,92- (1,11- (1,44-
+1,13) 1,28) 1,95)
+ombitasvir 0,81 0,81 0,80
+300/100 mg günde (0,73- (0,71- (0,65-
+bir defa 0,91) 0,92) 0,98)
+(12 saat zaman  paritaprevir 2,19 3,16 11,95
+farkı ile) (1,61- (2,40- (8,94-
+2,98) 4,17) 15,98)
+Mekanizma: dasabuvir 0,83 0,90 1,00
+Paritaprevir (0,72- (0,78- (0,89-
+maruziyetindeki 0,96) 1,02) 1,13)
+artış, OATP1B1/B3 Dasabuvir Araştırılmamıştır.
+ve CYP3A'nın olmadan Beklenen: VIEKIRAX + dasabuvir ile
+atazanavir VIEKIRAX gözlemlenene benzer etki beklenmeketdir.
+tarafından
+inhibisyonundan ve
+ilave ritonavir dozu
+ile CYP3A
+inhibisyonundan
+kaynaklanabilir.
+Darunavir VIEKIRAX + darunavir 0,92 0,76 0,52 VIEKIRAX +
+dasabuvir (0,87- (0,71- (0,47- dasabuvir
+800 mg günde bir 0,98) 0,82) 0,58) kombinasyonuna
+Sayfa 22/59defa (eşzamanlı ombitasvir 0,86 0,86 0,87 eklenen
+alındığında) (0,77- (0,79- (0,82- darunavirin önerilen
+0,95) 0,94) 0,92) dozu, eş zamanlı
+ paritaprevir 1,54 1,29 1,30 almak koşuluyla
+(1,14- (1,04- (1,09- ritonavir olmaksızın
+Mekanizma: 2,09) 1,61) 1,54) günde bir defa
+Bilinmiyor dasabuvir 1,10 0,94 0,90 800 mg’dır
+(0,88- (0,78- (0,76- (VIEKIRAX 'daki
+1,37) 1,14) 1,06) ritonavir dozu,
+Dasabuvir darunavir 0,99 0, 92 0,74 darunavirin
+olmadan (0,92- (0,84- (0,63- farmakokinetik
+VIEKIRAX 1,08) 1,00) 0,88) açıdan etkisini
+ombitasvir Etkileşimin büyüklüğü, artıracaktır). Bu
+VIEKIRAX + dasabuvir ile rejim, ileri derecede
+gözlemlenene benzer idi. PI direnci
+ paritaprevir 2,09 1,94 1,85 olmadığında (örn.
+(1,35- (1,36- (1,41- darunavir ile ilişkili
+3,24) 2,75) 2,42) RAM'ların
+olmaması)
+kullanılabilir, bölüm
+4.4'e bakınız.
+Viekirax +
+dasabuvir ile
+kombine darunavir,
+ileri derecede PI
+direnci olan
+hastalarda
+önerilmemektedir.
+VIEKIRAX ve
+dasabuvir için doz
+ayarlaması gerekli
+değildir.
+Dasabuvir ile
+birlikte veya
+dasabuvir olmadan
+darunavir +
+VIEKIRAX ile
+tedavi
+önerilmemektedir-(↑
+paritaprevir).
+Darunavir/ VIEKIRAX + darunavir 0,87 0,80 0,57
+ritonavir dasabuvir (0,79- (0,74- (0,48-
+0,96) 0,86) 0,67)
+ombitasvir 0,76 0,73 0,73
+600/100 mg günde (0,65- (0,66- (0,64-
+iki defa 0,88) 0,80) 0,83)
+ paritaprevir 0,70 0,59 0,83
+(0,43- (0,44- (0,69-
+Mekanizma: 1,12) 0,79) 1,01)
+Bilinmiyor. dasabuvir 0,84 0,73 0,54
+(0,67- (0,62- (0,49-
+1,05) 0,86) 0,61)
+Dasabuvir Araştırılmamıştır.
+olmadan Beklenen: VIEKIRAX + dasabuvir ile
+VIEKIRAX gözlemlenene benzer etki.
+Darunavir/ VIEKIRAX + darunavir 0,79 1,34 0,54
+ritonavir dasabuvir (0,70- (1,25- (0,48-
+Sayfa 23/590,90) 1,43) 0,62)
+800/100 mg günde  0,87 0,87 0,87
+bir defa (12 saat ombitasvir (0,82- (0,81- (0,80-
+zaman farkı ile) 0,93) 0,93) 0,95)
+ paritaprevir 0,70 0,81 1,59
+(akşamları (0,50- (0,60- (1,23-
+uygulanır) 0,99) 1,09) 2,05)
+dasabuvir 0,75 0,72 0,65
+Mekanizma: (0,64- (0,64- (0,58-
+Bilinmiyor. 0,88) 0,82) 0,72)
+Dasabuvir Araştırılmamıştır.
+olmadan Beklenen: VIEKIRAX + dasabuvir ile
+VIEKIRAX gözlemlenene benzer etki
+Lopinavir/ ritonavir VIEKIRAX +  0,87 0,94 1,15
+400/100 mg günde dasabuvir lopinavir (0,76- (0,81- (0,93- Birlikte kullanımı
+iki defa1 0,99) 1,10) 1,42) kontrendikedir (bkz
+ ombitasvir 1,14 1,17 1,24 bölüm 4.3)
+Mekanizma: (1,01- (1,07- (1,14-
+Paritaprevir 1,28) 1,28) 1,34)
+maruziyetlerindeki  paritaprevir 2,04 2,17 2,36
+artış, CYP3A/dışa (1,30- (1,63- (1,00-
+akış taşıyıcılarının, 3,20) 2,89) 5,55)
+lopinavir ve  dasabuvir 0,99 0,93 0,68
+ritonavirin yüksek (0,75- (0,75- (0,57-
+dozları tarafından 1,31) 1,15) 0,80)
+inhibisyonundan Dasabuvir  lopinavir Etkileşimin büyüklüğü,
+kaynaklanabilir. olmadan VIEKIRAX + dasabuvir ile
+VIEKIRAX gözlemlenene benzer idi.
+ ombitasvir Etkileşimin büyüklüğü,
+VIEKIRAX + dasabuvir ile
+gözlemlenene benzer idi.
+ paritaprevir 4,76 6,10 12,33
+(3.54- (4.30- (7.30-
+6,39) 8,67) 20,84)
+Indinavir Dasabuvir ile Araştırılmamıştır. Beklenen: Birlikte kullanımı
+Sakinavir veya dasabuvir kontrendikedir (bkz
+Tipranavir olmadan ↑ paritaprevir bölüm 4.3)
+VIEKIRAX
+Mekanizma:
+Proteaz
+inhibitörleri
+tarafından
+CYP3A4
+inhibisyonu
+HIV ANTİVİRALLER: NON-NÜKLEOZİT REVERS TRANSKRİPTAZ İNHİBİTÖRLERİ
+Rilpivirin2 VIEKIRAX +  2,55 3,25 3,62 VIEKIRAX'ın
+dasabuvir rilpivirin (2,08- (2,80- (3,12- günde bir defa
+25 mg günde bir 3,12) 3,77) 4,21) rilpivirin ile birlikte
+defa  1,11 1,09 1,05 uygulaması,
+ombitasvir (1,02- (1,04- (1,01- yalnızca, bilinen QT
+Sabahları, yemek 1,20) 1,14) 1,08) uzaması olmayan ve
+ile birlikte  paritaprevir 1,30 1,23 0,95 QT uzamasına yol
+(0,94- (0,93- (0,84- açacak başka ko-
+1,81) 1,64) 1,07) medikasyon
+Mekanizma:  1,18 1,17 1,10 almayan hastalarda
+ritonavire bağlı dasabuvir (1,02- (0,99- (0,89- düşünülmelidir.
+CYP3A4 1,37) 1,38) 1,37) Kombinasyonun
+inhibisyonu. Dasabuvir Araştırılmamıştır. Beklenen: kullanılması
+olmadan VIEKIRAX + dasabuvir ile gözlemlenene halinde, rutin EKG
+VIEKIRAX benzer etki. izlem
+gerçekleştirilmelidir
+Sayfa 24/59, bölüm 4.4'e
+bakınız.
+Dasabuvir ile
+birlikte veya
+dasabuvir olmadan
+VIEKIRAX için doz
+ayarlaması gerekli
+değildir.
+Efavirenz/emtrisita Dasabuvir ile Efavirenz (enzim indükleyicisi) bazlı Efavirenzin birlikte
+bin/tenofovir birlikte veya rejimlerin, paritaprevir /ritonavir + dasabuvir ile kullanımı
+disoproxil fumarate dasabuvir birlikte uygulanması, ALT'de yükselmelere ve kontrendikedir
+600/300/200 mg olmadan bu nedenle, çalışmadan erken ayrılmalara yol (bölüm 4.3'e
+günde bir defa VIEKIRAX açmıştır. bakınız).
+Mekanizma:
+efavirenze bağlı
+CYP3A4
+indüksiyonu.
+Nevirapin Dasabuvir ile Araştırılmamıştır. Beklenen: Birlikte kullanımı
+etravirin veya dasabuvir kontrendikedir (bkz
+olmadan ↓ ombitasvir bölüm 4.3)
+VIEKIRAX ↓ paritaprevir
+↓ dasabuvir
+HIV ANTİVİRALLER: İNTEGRAZ İPLİKÇİK TRANSFER İNHİBİTÖRÜ
+Dolutegravir VIEKIRAX + dolutegravir 1,22 1,38 1,36 Dasabuvir ile veya
+dasabuvir (1,15- (1,30- (1,19- dasbuvir olmadan
+50 mg 1,29) 1,47) 1,55) VIEKIRAX ile
+Günde bir defa ombitasvir 0,96 0,95 0,92 birlikte
+(0,89- (0,90- (0,87- uygulandığında
+Mekanizma: 1,03) 1,00) 0,98) dolutegravir için doz
+Paritaprevir, paritaprevir 0,89 0,84 0,66 ayarlaması gerekli
+dasabuvir ve (0,69- (0,67- (0,59- değildir.
+ombitasvir 1.14) 1.04) 0.75)
+tarafından  dasabuvir 1,01 0,98 0,92
+UGT1A1 (0,92- (0,92- (0,85-
+inhibisyonu ve 1,11) 1,05) 0,99)
+ritonavir tarafından Dasabuvir Araştırılmamıştır.Beklenen: VIEKIRAX +
+CYP3A4 olmadan dasabuvir ile gözlemlenene benzer etki
+inhibisyonundan VIEKIRAX
+kaynaklanabilir.
+Raltegravir VIEKIRAX +  raltegravir 2,33 2,34 2,00 Dasabuvir ile
+dasabuvir (1,66- (1,70- (1,17- birlikte veya
+400 mg günde iki 3,27) 3,24) 3,42) dasabuvir olmadan
+defa Birlikte uygulama sırasında, dasabuvir, raltegravir veya
+paritaprevir ve ombitasvir maruziyetlerinde VIEKIRAX için doz
+klinik açıdan önemli değişiklikler (geçmiş ayarlaması gerekli
+Mekanizma: veriler ile karşılaştırmaya dayanılarak) değildir.
+Raltegravir gözlemlenmemiştir.
+maruziyetindeki Dasabuvir  raltegravir 1,22 1,20 1,13
+artış, paritaprevir, olmadan (0,78- (0,74- (0,51-
+ombitasvir ve VIEKIRAX 1,89) 1,95) 2,51)
+dasabuvir ile Birlikte uygulama sırasında, dasabuvir,
+UGT1A1 paritaprevir ve ombitasvir maruziyetlerinde
+inhibisyonundan klinik açıdan önemli değişiklikler (geçmiş
+kaynaklanabilir. veriler ile karşılaştırmaya dayanılarak)
+gözlemlenmemiştir.
+HIV ANTİVİRALLER: NÜKLEOZİT İNHİBİTÖRLERİ
+Sayfa 25/59Abakavir/ VIEKIRAX+ abakavir 0,87 0,94 Mevcut Dasabuvir ile ya da
+lamivudin dasabuvir (0,78- (0,90- değil dasabuvir olmadan
+0,98) 0,99) VIEKIRAX ile
+600/300 mg lamivudin 0,78 0,88 1,29 birlikte alındığında
+Günde bir kez (0,72- (0,82- (1,05- abakavir veya
+0,84) 0,93) 1,58) lamivudin için doz
+ombitasvir 0,82 0,91 0,92 ayarlamasına gerek
+(0,76- (0,87- (0,88- yoktur.
+0,89) 0,95) 0,96)
+paritaprevir 0,84 0,82 0,73
+(0,69- (0,70- (0,63-
+1,02) 0,97) 0,85)
+dasabuvir 0,94 0,91 0,95
+(0,86- (0,86- (0,88-
+1,03) 0,96) 1,02)
+Dasabuvir Araştırılmamıştır.
+olmadan VIEKIRAX + dasabuvir ile gözlemlenene
+VIEKIRAX benzer etkiler beklenmektedir.
+emtrisitabin/ VIEKIRAX +  1,05 1,07 1,09 Emtrisitabin/tenofov
+tenofovir dasabuvir emtrisitabin (1,00- (1,00- (1,01- ir ve dasabuvir ile
+1,12) 1,14) 1,17) birlikte veya
+günde bir defa  1,07 1,13 1,24 dasabuvir olmadan
+200 mg / günde bir tenofovir (0,93- (1,07- (1,13- VIEKIRAX için doz
+300 mg defa 1,24) 1,20) 1,36) ayarlaması gerekli
+ 0,89 0,99 0,97 değildir.
+ombitasvir (0,81- (0,93- (0,90-
+0,97) 1,05) 1,04)
+ paritaprevir 0,68 0,84 1,06
+(0,42- (0,59- (0,83-
+1,11) 1,17) 1,35)
+ 0,85 0,85 0,85
+dasabuvir (0,74- (0,75- (0,73-
+0,98) 0,96) 0,98)
+Dasabuvir  Etkileşimin büyüklüğü,
+olmadan emtrisitabin VIEKIRAX + dasabuvir ile
+VIEKIRAX gözlemlenene benzer idi.
+ 0,80 1,01 1,13
+tenofovir (0,71- (0,96- (1,06-
+0,90) 1,07) 1,21)
+ Etkileşimin büyüklüğü,
+ombitasvir VIEKIRAX + dasabuvir ile
+gözlemlenene benzer idi.
+ 1,02 1,04 1,09
+paritaprevir (0,63- (0,74- (0,88-
+1,64) 1,47) 1,35)
+HIV ANTİVİRALLER: FAMAKOKİNETİK GÜÇLENDİRİCİ
+Kobisistat içeren Dasabuvir ile Araştırılmamıştır.Beklenen: Birlikte kullanımı
+rejimler veya dasabuvir kontrendikedir (bkz
+olmadan bölüm 4.3)
+Mekanizma: VIEKIRAX ↑ ombitasvir
+Kobisistat ↑ paritaprevir
+tarafından ↑ dasabuvir
+CYP3A4
+inhibisyonu
+HMG CoA REDÜKTAZ İNHİBİTÖRÜ
+Rosuvastatin VIEKIRAX +  rosuvastatin 7,13 2,59 0,59 Rosuvastatinin
+dasabuvir (5,11- (2,09- (0,51- maksimum günlük
+5 mg günde bir 9,96) 3,21) 0,69) dozu, 5 mg
+defa ombitasvir 0,92 0,89 0,88 olmalıdır (bölüm
+(0,82- (0,83- (0,83-
+Sayfa 26/59Mekanizma: 1,04) 0,95) 0,94) 4.4'e bakınız).
+Paritaprevire bağlı  paritaprevir 1,59 1,52 1,43
+OATP1B (1,13- (1,23- (1,22- Dasabuvir ile
+inhibisyonu ve 2,23) 1,90) 1,68) birlikte VIEKIRAX
+paritaprevir,  1,07 1,08 1,15 için doz ayarlaması
+ritonavir veya dasabuvir (0,92- (0,92- (1,05- gerekli değildir.
+dasabuvire bağlı 1,24) 1,26) 1,25)
+BCRP inhibisyonu. Dasabuvir  rosuvastatin 2,61 1,33 0,65 Rosuvastatinin
+olmadan (2,01- (1,14- (0,57- maksimum günlük
+VIEKIRAX 3,39) 1,56) 0,74) dozu, 10 mg
+ombitasvir Etkileşimin büyüklüğü, olmalıdır (bölüm
+VIEKIRAX + dasabuvir ile 4.4'e bakınız).
+gözlemlenene benzerdir.
+ paritaprevir 1,40 1,22 1,06 VIEKIRAX için doz
+(1,12- (1,05- (0,85- ayarlaması gerekli
+1,74) 1,41) 1,32) değildir.
+Pravastatin  pravastatin 1,37 1,82 Mevcut Pravastatin dozu
+VIEKIRAX + (1,11- (1,60- değil %50 azaltılmalıdır.
+10 mg günde bir dasabuvir 1,69) 2,08)
+defa  0,95 0,94 0,94
+ombitasvir (0,89- (0,89- (0,89- Dasabuvir ile
+Mekanizma: 1,02) 0,99) 0,99) birlikte veya
+paritaprevire bağlı  1,00 0,96 1,03 dasabuvir olmadan
+OATP1B1 dasabuvir (0,87- (0,85- (0,91- VIEKIRAX için doz
+inhibisyonu. 1,14) 1,09) 1,15) ayarlaması gerekli
+ 0,96 1,13 1,39 değildir.
+paritaprevir (0,69- (0,92- (1,21-
+1,32) 1,38) 1,59)
+Dasabuvir  pravastatin Etkileşimin büyüklüğü,
+olmadan VIEKIRAX + dasabuvir ile
+VIEKIRAX gözlemlenene benzerdir.
+ Etkileşimin büyüklüğü,
+Ombitasvir VIEKIRAX + dasabuvir ile
+gözlemlenene benzerdir.
+ paritaprevir 1,44 1,33 1,28
+(1,15- (1,09- (0,83-
+1,81) 1,62) 1,96)
+Fluvastatin Dasabuvir ile Araştırılmamıştır. Beklenen: Fluvastatin ve
+birlikte veya pitavastatin ile
+Mekanizma: dasabuvir ↑ fluvastatin birlikte kullanımı
+Paritaprevire bağlı olmadan önerilmemektedir
+OATP1B/ VIEKIRAX ↑ pitavastatin (bölüm 4.4'e
+BCRP inhibisyonu bakınız).
+Pitavastatin VIEKIRAX ile
+tedavi süresince,
+Mekanizma: fluvastatin ve
+Paritaprevire bağlı pitavastatine geçici
+OATP1B ara verilmesi
+inhibisyonu önerilmektedir.
+VIEKIRAX ile
+tedavi sırasında
+statin tedavisinin
+gerekli olması
+durumunda, dozu
+azaltılmış
+pravastatin veya
+rosuvastatine
+geçilmesi
+mümkündür.
+Sayfa 27/59Lovastatin Dasabuvir ile Araştırılmamıştır. Beklenen: Birlikte kullanımı
+Simvastatin birlikte veya kontrendikedir (bkz
+atorvastatin dasabuvir ↑ lovastatin, simvastatin, atorvastatin bölüm 4.3)
+olmadan
+Mekanizma: VIEKIRAX
+CYP3A4/OATP1B
+inhibisyonu
+İMMÜNOSÜPRESANLAR
+Siklosporin VIEKIRAX +  siklosporin 1,01 5,82 15,8 VIEKIRAX ile eş
+dasabuvir (0,85- (4,73- (13,8- zamanlı siklosporin
+30 mg günde bir 1,20) 7,14) 18,09) uygulamasını
+defa tek doz3 ombitasvir 0,99 1,08 1,15 başlatırken,
+(0,92- (1,05- (1,08- siklosporinin toplam
+Mekanizma: 1,07) 1,11) 1,23) günlük dozunun
+siklosporin  paritaprevir 1,44 1,72 1,85 beşte birini günlük
+üzerindeki etki, (1,16- (1,49- (1,58- VIEKIRAX dozu ile
+ritonavire bağlı 1,78) 1,99) 2,18) birlikte veriniz.
+CYP3A4 dasabuvir 0,66 0,70 0,76 Siklosporin
+inhibisyonundan (0,58- (0,65- (0,71- düzeylerini izleyin
+kaynaklanmaktadır 0,75) 0,76) 0,82) ve dozu ve/veya doz
+ve paritaprevir Dasabuvir  siklosporin 0,83 4,28 12,8 uygulama sıklığını
+maruziyetindeki olmadan (0,72- (3,66- (10,6- gerekli şekilde
+artışın nedeni, VIEKIRAX 0,94) 5,01) 15,6) ayarlayın.
+siklosporin ombitasvir Etkileşimin büyüklüğü,
+tarafından VIEKIRAX + dasabuvir ile Dasabuvir ile
+OATP/BCRP/P-gp gözlemlenene benzer idi. birlikte veya
+inhibisyonu  paritaprevir 1,39 1,46 1,18 dasabuvir olmadan
+olabilir. (1,10- (1,29- (1,08- VIEKIRAX için doz
+1,75) 1,64) 1,30) ayarlaması gerekli
+değildir.
+Everolimus VIEKIRAX +  everolimus 4,74 27,1 16,1 Mevcut dozlar ile
+0,75 mg dasabuvir (4,29- (24,5- (14,5- doz ayarlaması
+Tek doz 5,25) 30,1) 17,9)4 yapılamadığı için
+ ombitasvir 0,99 1,02 1,02 everolimusa
+Mekanizma: (0,95- (0,99- (0,99- maruziyet ciddi
+Everolimus 1,03) 1,05) 1,06) derecede
+üzerindeki etki arttığından,
+ritonavir tarafından VIEKIRAX’ın
+ 1,22 1,26 1,06
+CYP3A4- everolimus
+paritaprevir (1,03- (1,07- (0,97-
+inhibisyonundan ile eş zamanlı
+1,43) 1,49) 1,16)
+kaynaklanmaktadır. kullanılması
+ dasabuvir 1,03 1,08 1,14
+önerilmemektedir.
+(0,90- (0,98- (1,05-
+1,18) 1,20) 1,23)
+Dasabuvir Araştırılmamıştır.
+olmadan Beklenen: VIEKIRAX + dasabuvir ile
+VIEKIRAX gözlemlenene benzer etki.
+Sirolimus VIEKIRAX +  sirolimus 6,40 38.0 19,6 Sağlanacak fayda
+0.5 mg dasabuvir (5,34- (31,5- (16,7- risklerin üzerinde
+Tek doz5 7,68) 45,8) 22,9)6 olmadığı sürece
+ ombitasvir 1,03 1,05 VIEKIRAX +
+Mekanizma: (0,93- 1,02 (0,98- dasabuvir’in
+Sirolimus 1,15) (0,96- 1,12) sirolimus ile
+üzerindeki etki 1,09) eşzamanlı kullanımı
+ritonavir tarafından  1,18 1,19 1,16 önerilmemektedir
+CYP3A4- paritaprevir (0,91- (0,97- (1,00- (bk. bölüm 4.4).
+inhibisyonundan 1,54) 1,46) 1,34) VIEKIRAX +
+kaynaklanmaktadır.  dasabuvir 1,04 1,07 1,13 dasabuvir’in
+(0,89- (0,95- (1,01- sirolimus ile
+1,22) 1,22) 1,25) eşzamanlı olarak
+Sayfa 28/59Dasabuvir Araştırılmamıştır. Beklenen: kullanılması
+olmadan VIEKIRAX + dasabuvir ile gözlemlenene durumunda,
+VIEKIRAX benzer etki. sirolimus haftada 2
+kez 0,2 mg olarak
+uygulanmalıdır (her
+hafta aynı günler
+olması koşuluyla 3
+yada 4 gün ara ile).
+Sirolimus kan
+konsantrasyonları,
+ardışık 3
+uygulamada stabil
+sirolimus
+konsantrasyonu
+gözlemlenene dek
+her 4 ila 7 günde bir
+izlenmelidir.
+Gerektiğinde,
+sirolimus dozu
+ve/veya dozlama
+sıklığı
+ayarlanmalıdır.
+VIEKIRAX +
+dasabuvir
+tedavisinin
+tamamlanmasından
+5 gün sonra;
+VIEKIRAX tedavisi
+öncesi sirolimus
+dozu ve dozlama
+sıklığı, rutin
+sirolimus kan
+konsantrasyon takibi
+ile devam
+ettirilmelidir
+Takrolimus VIEKIRAX +  3,99 57,1 16,6 Sağlanacak fayda
+2 mg tek doz 7 dasabuvir takrolimus (3,21- (45,5- (13,0- risklerin üzerinde
+4,97) 71,7) 21,2) olmadığı sürece
+↔ ombitasvir 0,93 0,94 0,94 VIEKIRAX ve
+Mekanizma: (0,88- (0,89- (0,91- dasabuvirin
+Takrolimus 0,99) 0,98) 0,96) takrolimus ile
+üzerindeki etki,  paritaprevir 0,57 0,66 0,73 eşzamanlı kullanımı
+ritonavire bağlı (0,42- (0,54- (0,66- önerilmemektedir
+CYP3A4 0,78) 0,81) 0,80) (bk. bölüm 4.4).
+inhibisyonundan dasabuvir 0,85 0,90 1,01 VIEKIRAX ve
+kaynaklanmaktadır (0,73- (0,80- (0,91- dasabuvirin
+0,98) 1,02) 1,11) takrolimus ile
+Dasabuvir takrolimus 4,27 85,8 24,6 eşzamanlı olarak
+olmadan (3,49- (67,9- (19,7- kullanılması
+VIEKIRAX 5,22) 108) 30,8) durumunda,
+↔ ombitasvir Etkileşimin büyüklüğü, takrolimus
+VIEKIRAX + dasabuvir ile VIEKIRAX ve
+ paritaprevir gözlemlenene benzer idi. dasabuvir
+tedavisinin
+başlatıldığı günde
+uygulanmamalıdır.
+Takrolimus
+tedavisine
+VIEKIRAX ve
+dasabuvir
+tedavisinin
+başlatıldığı günün
+Sayfa 29/59ertesi gününden
+itibaren takrolimus
+kan
+konsantrasyonlarına
+göre azaltılmış
+dozda başlanmalıdır.
+Önerilen takrolimus
+dozu 7 günde bir 0,5
+mg'dır.
+VIEKIRAX ve
+dasabuvir ile birlikte
+uygulamanın
+başlangıcında ve
+birlikte uygulama
+süresince takrolimus
+tam kan
+konsantrasyonları
+izlenmelidir ve
+gerekli durumlarda
+doz ve/veya doz
+uygulama sıklığı
+ayarlanmalıdır.
+VIEKIRAX ve
+dasabuvir tedavisi
+tamamlandığında,
+takrolimusun uygun
+dozu ve doz
+uygulama sıklığı
+takrolimus kan
+konsantrasyonlarını
+n değerlendirmesine
+göre belirlenmelidir.
+İNHALE BETA AGONİSTLER
+Salmeterol Dasabuvir ile Araştırılmamıştır. Beklenen: Birlikte kullanımı
+birlikte veya kontrendikedir (bkz
+Mekanizma: dasabuvir ↑ salmeterol bölüm 4.3)
+ritonavir tarafından olmadan
+CYP3A4 VIEKIRAX
+inhibisyonu.
+İNSÜLİN SALGILATICILAR
+Repaglinid Dasabuvir ile Araştırılmamıştır. Beklenen: Dasabuvir ile
+birlikte veya birlikte veya
+Mekanizma: dasabuvir dasabuvir olmadan
+paritaprevir olmadan ↑ repaglinid VIEKIRAX ile
+tarafından VIEKIRAX repaglinid
+OATP1B1 kullanımında
+inhibisyonu dikkatli olunmalıdır.
+Repaglinid için doz
+azaltma gerekebilir.
+KAS GEVŞETİCİLER
+Karisoprodol Dasabuvir ile ↓ karisoprodol 0,54 0,62 Mevcut Karisoprodol için
+birlikte (0,47- (0,55- değil doz ayarlaması
+250 mg VIEKIRAX 0,63) 0,70) gerekli değildir.
+Tek doz ↔ ombitasvir 0,98 0,95 0,96
+(0,92- (0,92- (0,92- Klinik olarak endike
+Mekanizma: 1,04) 0,97) 0,99) olması durumunda
+ritonavir tarafından ↔ 0,88 0,96 1,14 doz arttırılır.
+CYP2C19 paritaprevir (0,75- (0,85- (1,02-
+indüksiyonu 1,03) 1.08) 1.27)
+↔ dasabuvir 0,96 1.02 1.00
+Sayfa 30/59(0,91- (0.97- (0.92-
+1,01) 1.07) 1.10)
+Dasabuvir Araştırılmamıştır. Beklenen:
+olmadan VIEKIRAX + dasabuvir ile gözlemlenene
+VIEKIRAX benzer etki.
+Siklobenzaprin Dasabuvir ile ↓ 0,68 0,60 Mevcut Doz ayarlaması için
+5 mg birlikte Siklobenzap (0,61- (0,53- değil siklobenzaprin
+Tek doz VIEKIRAX rin 0,75) 0,68) gerekli değildir.
+↔ 0,98 1,00 1,01
+Mekanizma: ombitasvir (0,92- (0,97- (0,98- Klinik olarak endike
+ritonavire bağlı 1,04) 1,03) 1,04) olması durumunda
+CYP1A2 ↔ 1,14 1,13 1,13 doz arttılır.
+indüksiyondan paritaprevir (0,99- (1,00- (1,01-
+kaynaklanabilen 1,32) 1,28) 1,25)
+düşüş ↔ 0,98 1,01 1,13
+dasabuvir (0,90- (0,96- (1,07-
+1,07) 1,06) 1,18)
+Dasabuvir Araştırılmamıştır.Beklenen: VIEKIRAX +
+olmadan dasabuvir ile gözlemlenene benzer etki.
+VIEKIRAX
+NARKOTİK AĞRI KESİCİLER
+Parasetamol (sabit VIEKIRAX + ↔ parasetamol 1,02 1,17 Mevcut Dasabuvir ile
+doz dasabuvir (0,89- (1,09- değil birlikte veya
+hidrokodon/paraseta 1,18) 1,26) dasabuvir olmadan
+mol) ↔ ombitasvir 1,01 0,97 0,93 VIEKIRAX ile
+(0,93- (0,93- (0,90- birlikte
+300 mg 1,10) 1,02) 0,97) uygulandığında
+Tek doz ↔ paritaprevir 1,01 1,03 1,10 parasetamol için doz
+(0,80- (0,89- (0,97-
+ayarlaması gerekli
+değildir.
+1,27) 1,18) 1,26)
+↔ dasabuvir 1,13 1,12 1,16
+(1,01- (1,05- (1,08-
+1,26) 1,19) 1,25)
+Dasabuvir Araştırılmamıştır.Beklenen: VIEKIRAX +
+olmadan dasabuvir ile gözlemlenene benzer etki.
+VIEKIRAX
+Hidrokodon (sabit VIEKIRAX + ↑ hidrokodon 1,27 1,90 Mevcu Dasabuvir ile
+doz dasabuvir (1,14- (1,72- t birlikte veya
+hidrokodon/paraseta 1,40) 2,10) değil dasabuvir olmadan
+mol) Dasabuvir, ombitasvir ve paritaprevir VIEKIRAX ile
+değişimleri yukarıda parasetamol için birlikte
+5 mg gösterildiği gibidir. uygulandığında
+Tek doz hidrokodon
+Dasabuvir Araştırılmamıştır.
+dozunun %50’ye
+olmadan Beklenen: VIEKIRAX + dasabuvir ile
+Mekanizma: kadar azaltılması
+VIEKIRAX gözlemlenene benzer etki.
+ritonavir tarafından ve/veya klinik izlem
+CYP3A4 düşünülmelidir.
+inhibisyonu
+OPİOİDLER
+Metadon VIEKIRAX +  R-metadon 1,04 1,05 0,94 Dasabuvir ile
+20-120 mg günde dasabuvir (0,98- (0,98- (0,87- birlikte veya
+bir defa8 1,11) 1,11) 1,01) dasabuvir olmadan
+ S-metadon 0,99 0,99 0,86 VIEKIRAX
+(0,91- (0,89- (0,76- tedavisinde metadon
+1,08) 1,09) 0,96) için doz ayarlaması
+ paritaprevir/ombitasvir/dasabuvir (çapraz- gerekli değildir.
+çalışma karşılaştırmasına göre)
+Sayfa 31/59Dasabuvir Etkileşimin büyüklüğü, VIEKIRAX + dasabuvir
+olmadan ile gözlemlenene benzer idi.
+VIEKIRAX
+Buprenorfin/ VIEKIRAX + buprenorfin 2,18 2,07 3,12 Buprenorfin/nalokson
+nalokson dasabuvir (1,78- (1,78- (2,29- ve VIEKIRAX
+2,68) 2,40) 4,27) (dasabuvir ile birlikte
+4-24 mg/1-6 mg norbuprenor 2,07 1,84 2,10 veya dasabuvir
+günde bir defa 8 fin (1,42- (1,30- (1,49- olmadan) için doz
+3,01) 2,60) 2,97) ayarlaması gerekli
+Mekanizma:  nalokson 1,18 1,28 Mevcut değildir.
+Ritonavire bağlı (0,81- (0,92- değil
+CYP3A4 1,73) 1,79)
+inhibisyonu ve  ombitasvir/paritaprevir/dasabuvir (çapraz-
+paritaprevir, çalışma karşılaştırmasına göre)
+ombitasvir ve Dasabuvir  1,19 1,51 1,65
+dasabuvire bağlı olmadan buprenorfin (1,01- (1,27- (1,30-
+UGT inhibisyonu. VIEKIRAX 1,40) 1,78) 2,08)
+norbuprenor Etkileşimin büyüklüğü,
+fin VIEKIRAX + dasabuvir ile
+ nalokson gözlemlenene benzer idi.
+ ombitasvir/paritaprevir/dasabuvir (çapraz-
+çalışma karşılaştırmasına göre)
+FOSFODİESTERAZ (PDE-5) İNHİBİTÖRLERİ
+Sildenafil Dasabuvir ile Araştırılmamıştır. Beklenen: Birlikte kullanımı
+(Pulmoner birlikte veya kontrendikedir (bkz
+hipertansiyon dasabuvir ↑ sildenafil bölüm 4.3)
+tedavisinde) olmadan
+VIEKIRAX
+Mekanizma:
+ritonavir tarafından
+CYP3A4
+inhibisyonu
+PROTON POMPA İNHİBİTÖRLERİ
+Omeprazol VIEKIRAX +  omeprazol 0,62 0,62 Mevcut Klinik olarak endike
+dasabuvir (0,48- (0,51- değil olması durumunda,
+40 mg günde bir 0,80) 0,75) daha yüksek
+defa ombitasvir 1,02 1,05 1,04 omeprazol dozları
+(0,95- (0,98- (0,98- kullanılmalıdır.
+Mekanizma: 1,09) 1,12) 1,11)
+Ritonavire bağlı paritaprevir 1,19 1,18 0,92 Dasabuvir ile
+CYP2C19 (1,04- (1,03- (0,76- birlikte veya
+indüksiyonu 1,36) 1,37) 1,12) dasabuvir olmadan
+dasabuvir 1,13 1,08 1,05 VIEKIRAX için doz
+(1,03- (0,98- (0,93- ayarlaması gerekli
+1,25) 1,20) 1,19) değildir.
+Dasabuvir  omeprazol 0,48 0,46 Mevcut
+olmadan (0,29- (0,27- değil
+VIEKIRAX 0,78) 0,77)
+paritaprevir Etkileşimin büyüklüğü,
+ VIEKIRAX + dasabuvir ile
+ombitasvir gözlemlenene benzer idi.
+Esomeprazol Dasabuvir ile Araştırılmamıştır. Beklenen: Klinik olarak
+Lansoprazol birlikte veya endike olması
+dasabuvir ↓ esomeprazol, lansoprazol durumunda, daha
+Mekanizma: olmadan yüksek dozlarda
+Ritonavire bağlı VIEKIRAX esomeprazol/lansopr
+Sayfa 32/59CYP2C19 azol kullanımı
+indüksiyonu gerekebilir.
+SEDATİFLER / HİPNOTİKLER
+Zolpidem VIEKIRAX +  zolpidem 0,94 0,95 Mevcut Zolpidem için doz
+dasabuvir (0,76- (0,74- Değil ayarlaması gerekli
+5 mg tek doz 1,16) 1,23) değildir.
+ 1,07 1,03 1,04
+ombitasvir (1,00- (1,00- (1,00- VIEKIRAX
+1,15) 1,07) 1,08) (dasabuvir ile
+ paritaprevir 0,63 0,68 1,23 birlikte veya
+(0,46- (0,55- (1,10- dasabuvir olmadan )
+0,86) 0,85) 1,38) için doz ayarlaması
+ 0,93 0,95 0,92 gerekli değildir.
+dasabuvir (0,84- (0,84- (0,83-
+1,03) 1,08) 1,01)
+Dasabuvir Araştırılmamıştır.
+olmadan Etkileşimin büyüklüğü, VIEKIRAX + dasabuvir
+VIEKIRAX ile gözlemlenene benzer idi.
+Alprazolam VIEKIRAX +  alprazolam 1,09 1,34 Mevcut Klinik izlem
+0.5 mg tek doz dasabuvir (1,03- (1,15- Değil önerilmektedir.
+1,15) 1,55) Klinik yanıta göre,
+Mekanizma: ombitasvir 0,98 1,00 0,98 alprazolam dozunda
+ritonavire bağlı (0,93- (0,96- (0,93- bir azalma
+CYP3A4 1,04) 1,04) 1,04) düşünülebilir.
+inhibisyonu paritaprevir 0,91 0,96 1,12
+(0,64- (0,73- (1,02-
+1,31) 1,27) 1,23) Dasabuvir ile
+dasabuvir 0,93 0,98 1,00 birlikte veya
+(0,83- (0,87- (0,87- dasabuvir olmadan
+1,04) 1,11) 1,15) VIEKIRAX için doz
+Dasabuvir Araştırılmamıştır. ayarlaması gerekli
+olmadan Etkileşimin büyüklüğü, VIEKIRAX + dasabuvir değildir.
+VIEKIRAX ile gözlemlenene benzer idi.
+Oral midazolam Dasabuvir ile Araştırılmamıştır. Beklenen: Birlikte kullanımı
+Triazolam birlikte veya kontrendikedir (bkz
+dasabuvir ↑ midazolam veya triazolam bölüm 4.3)
+Mekanizma: olmadan
+ritonavire bağlı VIEKIRAX Eğer parenteral
+CYP3A4 midazolam
+inhibisyonu dasabuvir ile birlikte
+veya dasabuvir
+olmadan
+VIEKIRAX ile
+uygulanırsa,
+respiratuar
+depresyon ve/veya
+uzamış sedasyon
+açısından yakın
+klinik izlem
+yapılmalıdır ve doz
+ayarlaması
+düşünülmelidir.
+Diyazepam VIEKIRAX + ↓diyazepam 1,18 0,78 Doz ayarlaması
+Mevcut
+dasabuvir (1,07- (0,73- diyazepam için
+değil
+2 mg 1,30) 0,82) gerekli değildir.
+Tek doz ↓ 1,10 0,56 Mevcut
+nordiazepam (1,03- (0,45- değil Klinik olarak endike
+Mekanizma: 1,19) 0,70) olması durumunda
+Sayfa 33/59ritonavir ↔ 1,00 0,98 0,93 doz arttılır.
+tarafından ombitasvir (0,93- (0,93- (0,88-
+CYP2C19 1,08) 1,03) 0,98)
+indüksiyonu ↔ 0,95 0,91 0,92
+paritaprevir (0,77- (0,78- (0,82-
+1,18) 1,07) 1,03)
+↔ dasabuvir 1,05 1,01 1,05
+(0,98- (0,94- (0,98-
+1,13) 1,08) 1,12)
+Dasabuvir Araştırılmamıştır.
+olmadan Beklenen: VIEKIRAX + dasabuvir ile
+VIEKIRAX gözlemlenene benzer etki.
+TİROİD HORMONU
+Levotiroksin Dasabuvir ile Araştırılmamıştır. Beklenen: Levotiroksin için
+birlikte veya klinik izlem ve doz
+Mekanizma: dasabuvir ↑ levotiroksin ayarlaması
+paritaprevir, olmadan gerekebilir.
+ombitasvir ve VIEKIRAX
+dasabuvir
+tarafından
+UGT1A1
+inhibisyonu
+1. VIEKIRAX (dasabuvir ile birlikte veya dasabuvir olmadan) ile 800/200 mg lopinavir/ritonavir günde
+bir defa akşamları uygulanmıştır. DAA'ların ve lopinavirin Cmaks ve EAA üzerindeki etkisi, dasabuvir
+ile birlikte veya dasabuvir olmadan VIEKIRAX ile birlikte günde iki defa uygulanan 400/100 mg
+lopinavir/ritonavir ile gözlemlenene benzer idi.
+2. Çalışmanın diğer iki kolunda, rilpivirin de, yine akşamları yemek ile birlikte ve akşam yemeğinden 4
+saat sonra VIEKIRAX + dasabuvir ile birlikte uygulandı. Rilpivirin maruziyetine etkisi, rilpivirinin
+sabah yemek ile beraber VIEKIRAX + dasabuvir ile birlikte alındığındaki maruziyetine benzer idi.
+(yukarıdaki tabloda gösterilmiştir).
+3. Siklosporin, tek başına 100 mg dozunda, VIEKIRAX ile birlikte 10 mg dozunda ve VIEKIRAX +
+dasabuvir ile birlikte 30 mg dozunda uygulandı. Dasabuvir ile birlikte veya dasabuvir olmadan
+VIEKIRAX için doza göre normalize edilmiş siklosporin oranları gösterilmiştir.
+4. C = Tek doz everolimusu takiben 12. saatteki konsantrasyon.
+12
+5. Sirolimus, tek başına 2 mg dozunda ve VIEKIRAX + dasabuvir ile birlikte 0.5 mg dozunda uygulandı.
+VIEKIRAX + dasabuvir ile etkileşim için doza göre normalize edilmiş sirolimus oranları gösterilmiştir.
+6. C = Tek doz siklosporin, takrolimus yada sirolumusu takiben 24. saatteki konsantrasyon.
+24
+7. Takrolimus, tek başına 2 mg dozunda ve VIEKIRAX ile birlikte 0,5 mg dozunda ve VIEKIRAX +
+dasabuvir ile birlikte 2 mg dozunda uygulandı. Dasabuvir ile birlikte veya dasabuvir olmadan
+VIEKIRAX ile etkileşim için doza göre normalize edilmiş takrolimus oranları gösterilmiştir.
+8. Metadon, buprenorfin ve nalokson için doza göre normalize edilmiş parametreler bildirilmiştir.
+Not: VIEKIRAX ve dasabuvir için kullanılan dozlar şu şekilde idi: ombitasvir 25 mg, paritaprevir 150 mg,
+ritonavir 100 mg, günde bir defa, dasabuvir 400 mg günde iki defa veya 250 mg günde iki defa. 400mg
+formülasyon ve 250 mg tablet Dasabuvir için maruziyet ölçümleri benzerdir. Dasabuvir ile birlikte veya
+dasabuvir olmadan VIEKIRAX, karbamazepin, gemfibrozil, ketokonazol ve sulfametoksazol/trimetoprim, ile
+ilaç etkileşimi çalışmaları haricinde, bütün ilaç etkileşimi çalışmalarında çoklu doz olarak uygulandı.
+Pediyatrik popülasyon
+İlaç etkileşimi çalışmaları, yalnızca yetişkinlerde gerçekleştirilmiştir.
+Sayfa 34/594.6 Gebelik ve laktasyon
+Genel tavsiye
+Gebelik kategorisi: B
+Çocuk doğurma potansiyeli bulunan kadınlar / Doğum kontrolü (Kontrasepsiyon)
+VIEKIRAX’ın ribavirin ile kombine alınması sırasında, kadın hastalarda ve erkek hastaların
+kadın partnerlerinde gebeliğin önlenmesi yönünde aşırı dikkatli olunmalıdır (Ek bilgi için
+ribavirin Kısa Ürün Bilgilerine bakınız). Ribavirine maruz kalan bütün hayvan türlerinde
+önemli teratojenik ve/veya embriyosidal etkileri gösterilmiştir. VIEKIRAX, etkili bir
+kontrasepsiyon kullanmayan çocuk doğurma potansiyeline sahip kadınlarda
+kullanılmamalıdır.
+Kadın hastalar: Çocuk doğurma potansiyeline sahip kadınlar tedavi sırasında ve tedaviden
+sonra 4 ay boyunca güvenilir bir kontrasepsiyon yöntemi kullanmadıkları sürece, tedavi
+boyunca ribavirin almamalıdır. VIEKIRAX ile etinilestradiol kombinasyonu kontrendikedir
+(bakınız, bölüm 4.3 ve 4.4)
+Erkek hastalar ve kadın partnerleri: Erkek hastaların veya çocuk doğurma potansiyeline sahip
+kadın partnerlerinin, ribavirin tedavisi süresince ve tedaviden sonra 7 ay boyunca etkili bir
+doğum kontrol yöntemi kullanmaları gereklidir.
+Gebelik dönemi
+VIEKIRAX’ın, hamile kadınlardaki kullanımından elde edilen veriler çok sınırlıdır
+Hayvanlarda ombitasvir ve paritaprevir/ritonavir ile gerçekleştirilen çalışmalarda
+malformasyonlar gözlenmiştir (bakınız, bölüm 5.3). İnsanlara yönelik potansiyel risk
+bilinmemektedir. VIEKIRAX, gebelik sırasında kullanılmamalıdır.
+Ribavirinin, VIEKIRAX ile birlikte uygulanması durumunda, gebelik sırasında ribavirin
+kullanımı ile ilgili kontrendikasyonlar geçerlidir (ayrıca, ribavirinin Kısa Ürün Bilgilerine
+bakınız).
+Laktasyon dönemi
+Paritaprevir/ritonavirin veya ombitasvirin ve bunların metabolitlerinin, insanda anne sütüne
+geçip geçmediği bilinmemektedir. Hayvanlardaki mevcut farmakokinetik veriler, etkin
+maddenin ve metabolitin sütte atılımını göstermiştir (bakınız, bölüm 5.3). Emzirilen
+bebeklerde tıbbi üründen kaynaklanan advers reaksiyonlar potansiyeli nedeniyle, terapinin
+anne için önemi dikkate alınarak, emzirmenin kesilmesi veya VIEKIRAX ile tedavinin
+kesilmesi yönünde bir karar alınmalıdır. Ribavirinin birlikte uygulandığı hastalar için,
+ribavirinin Kısa Ürün Bilgilerine başvurunuz.
+Üreme yeteneği / Fertilite
+VIEKIRAX’ın, fertilite üzerindeki etkisine ilişkin insan verileri mevcut değildir. Hayvan
+çalışmaları, fertilite üzerinde zararlı etkileri göstermemektedir (bakınız, bölüm 5.3).
+4.7 Araç ve makine kullanımı üzerindeki etkiler
+Dasabuvir ve ribavirin ile kombine VIEKIRAX tedavisi sırasında yorgunluk bildirilmiştir.
+Hastalar bu konuda bilgilendirilmelidir (bakınız, bölüm 4.8). Kendinizi yorgun hissedecek
+olursanız, araç veya herhangi bir makine kullanmayınız.
+Sayfa 35/594.8 İstenmeyen etkiler
+Güvenlilik profili özeti
+Güvenlilik özeti, ribavirin ile birlikte veya ribavirin olmadan VIEKIRAX ve dasabuvir alan
+2.600'den fazla hastadaki faz 2 ve 3 klinik çalışmalardan elde edilen havuzlanmış verilere
+dayanmaktadır.
+Ribavirin ile birlikte VIEKIRAX ve dasabuvir alan hastalarda, en yaygın rapor edilen advers
+reaksiyonlar (hastaların %20'sinden daha fazlası), yorgunluk ve bulantı idi. Advers
+reaksiyonlar nedeniyle tedaviyi kalıcı olarak bırakan hastaların oranı, %0.2 (5/2,044) idi ve
+hastaların %4.8'inde (99/2,044), advers reaksiyonlar nedeniyle ribavirin dozu azaltıldı.
+Ribavirin olmaksızın VIEKIRAX ve dasabuvir tedavisi alan hastalarda, tipik olarak ribavirin
+ile ilişkilendirilen advers reaksiyonlara (örneğim bulantı, uykusuzluk, anemi) daha az
+rastlanmıştır ve hiçbir hasta (0/588) advers olaylara bağlı olarak tedaviyi kalıcı olarak
+bırakmamıştır.
+VIEKIRAX ve ribavirin ile birlikte dasabuvirin, sirozu olmayan ve kompanse sirozu olan
+hastalardaki güvenlilik profili ribavirinin tedavi rejiminin bir parçası olması durumunda geçici
+hiperbilirubinemi oranlarındaki artış haricinde benzerdir.
+Advers reaksiyonların tablo halindeki listesi
+Dasabuvir ve/veya ribavirin ile kombine paritaprevir/ombitasvir/ritonavir kullanımındaki
+advers reaksiyonlar Tablo 3’de verilmiştir. Bu reaksiyonlar, VIEKIRAX ile en azından
+makul bir olasılık dahilinde ve arasında nedensel bir ilişki bulunan advers reaksiyonlardır.
+Tablo 3'te sunulan advers reaksiyonların büyük çoğunluğu, VIEKIRAX ve dasabuvir içeren
+rejimlerdeki derece 1 şiddetindedir.
+Aşağıdaki advers reaksiyonlar, sistem organ sınıfına ve sıklığa göre liste halinde
+verilmektedir. Sıklıklar, aşağıdaki gibi tanımlanmıştır: çok yaygın (≥ 1/10), yaygın (≥ 1/100
+ila < 1/10), yaygın olmayan (≥ 1/1.000 ila <1/100), seyrek (≥ 1/10.000 ila < 1/1.000), veya
+çok seyrek (< 1/10.000), bilinmiyor (eldeki verilerden hareketle tahmin edilemiyor)
+Tablo 3 – Ribavirin ile birlikte veya ribavirin olmadan VIEKIRAX ile kombine
+dasabuvir ile belirlenen istenmeyen etki reaksiyonları
+VIEKIRAX VIEKIRAX
+Sıklık + dasabuvir + ribavirin* + dasabuvir
+N = 2,044 N = 588
+Kan ve lenfatik sistem hastalıkları
+Yaygın Anemi
+Psikiyatrik hastalıkları
+Çok yaygın Uykusuzluk
+Gastrointestinal hastalıkları
+Çok yaygın Bulantı
+Deri ve deri altı doku hastalıkları
+Çok yaygın Pirurit
+Yaygın Pirurit
+Seyrek Anjiyoödem Anjiyoödem
+Genel bozukluklar ve uygulama veya uygulama yeri ile ilgili durumlar
+Çok yaygın Asteni
+Yorgunluk
+Sayfa 36/59* Veriler , sirozu olan hastalar dahil, Faz 2 ve 3 çalışmalardaki bütün genotip 1 enfeksiyonu
+olan hastaları içermektedir.
+Not: Laboratuvar anormallikleri için, Tablo 4'e başvurunuz.
+Seçilmiş advers etkilerin tanımı
+Laboratuvar Anormallikleri
+Seçili laboratuvar parametrelerindeki değişiklikler, Tablo 4'de tanımlanmaktadır.
+Basitleştirmek amacıyla, yan yana tablo halinde gösterim kullanılmıştır; çalışma
+tasarımlarındaki farklılıklar nedeniyle, çalışmalar arasında doğrudan karşılaştırma
+yapılmamalıdır.
+Tablo 4 – Seçili laboratuvar parametrelerindeki değişiklikler
+TURQUOISE II
+SAPPHIRE I ve II PEARL II, III ve IV
+(sirozlu hastalar)
+VIEKIRAX ve VIEKIRAX ve VIEKIRAX ve
+Laboratuvar
+dasabuvir + ribavirin dasabuvir dasabuvir + ribavirin
+parametreleri
+12 Hafta 12 Hafta 12 veya 24 Hafta
+N = 770 N = 509 N = 380
+n (%) n (%) n (%)
+ALT
+>5-20 × ULN* (Derece 3) 6/765 (%0,8) 1/509 (%0,2) 4/380 (%1,1)
+>20 × ULN (Derece 4) 3/765 (%0,4) 0 2/380 (%0,5)
+Hemoglobin
+<100-80 g/L (Derece 2) 41/765 (%5,4) 0 30/380 (%7,9)
+<80-65 g/L (Derece 3) 1/765 (%0,1) 0 3/380 (%0,8)
+<65 g/L (Derece 4) 0 0 1/380 (%0,3)
+Toplam Bilirubin
+>3-10 × ULN (Derece 3) 19/765 (%2,5) 2/509 (%0,4) 37/380 (%9,7)
+>10 × ULN (Derece 4) 1/765 (%0,1) 0 0
+*ULN: Test laboratuvarına göre normalin üst limiti.
+Serum ALT yükselmeleri
+VIEKIRAX ve ribavirin ile birlikte ve ribavirin olmadan dasabuvir ile klinik çalışmaların
+havuzlanmış bir analizinde, hastaların %1'inde, tedaviye başlanmasından sonra, normalin üst
+limitinin (ULN) 5 katından daha yüksek serum ALT düzeyleri meydana geldi. Bu tür
+yükselmelerin insidansı, eşlik eden bir etinilestradiol içeren ilaç kullanmakta olan kadınlarda
+%26 olduğundan, bu tür ilaçlar, dasabuvir ile birlikte veya dasabuvir olmadan VIEKIRAX ile
+kontrendikedir. Hormon replasman tedavisi için yaygın olarak kullanılan diğer tipteki
+sistemik östrojenler (örn., estradiol ve konjüge östrojenler) ile ALT yükselmelerinin
+insidansında bir artış gözlenmemiştir. ALT yükselmeleri tipik olarak asemptomatik idi,
+genellikle tedavinin ilk 4 haftası içerisinde meydana geldi (ortalama süre 20 gün, aralık 8-57
+gün) ve çoğu devam eden tedavi ile iyileşti. İki hasta ALT yükselmesi nedeniyle VIEKIRAX
+ve dasabuviri bıraktı, bunlardan biri etinilestradiol de kullanıyordu. Üç hasta VIEKIRAX ve
+dasabuvire bir ila yedi gün süreyle ara verdi, bunlardan biri etinilestradiol de kullanıyordu.
+ALT'deki yükselmeler, genellikle, bilirubin yükselmeleri ile ilişkili değildi. Siroz ALT
+yükselmesi için bir risk faktörü değildi (bakınız, bölüm 4.4).
+Serum bilirubin yükselmeleri
+Ribavirin ile birlikte VIEKIRAX ve dasabuvir alan hastalarda, paritaprevir tarafından
+OATP1B1/1B3 bilirubin taşıyıcılarının inhibisyonu ve ribavirin tarafından indüklenen
+hemoliz ile bağlantılı, serum bilirubin düzeyinde geçici yükselmeler (sıklıkla indirek)
+gözlenmiştir. Bilirubin artışları tedavinin başlatılmasından sonra meydana geldi ve 1. çalışma
+Sayfa 37/59haftasında doruk yaptı ve genellikle devam eden tedavi ile birlikte iyileşti. Bilirubin
+yükselmeleri aminotransferaz yükselmeleri ile ilişkilendirilmedi. İndirek bilirubin
+yükselmelerinin sıklığı, ribavirin almamış hastalar arasında daha düşüktü.
+Karaciğer transplantı alıcıları
+VIEKIRAX, dasabuvir ve ribavirin uygulanan (immünosüpresan ilaçlarına ek olarak), HCV
+ile enfekte transplant alıcılarındaki genel güvenlilik profili, bazı istenmeyen etkilerin sıklığı
+artış olmasına karşın, faz 3 klinik çalışmalarda VIEKIRAX, dasabuvir ve ribavirin ile tedavi
+edilen hastalardakine benzerdi. 10 hastada (%29,4), başlangıç hemoglobin düzeyi sonrasında
+10 g/dL'nin altında olan en az bir hemoglobin düzeyi saptandı. 34 hastadan 10'unda (%29,4),
+hemoglobin düşüşüne bağlı ribavirin dozu modifiye edildi ve %2,9'unda (1/34) ribavirine ara
+verildi. Ribavirin dozunun modifikasyonu, KVY (kalıcı virolojik yanıt) oranlarını etkilemedi.
+5 hastada eritropoetin gerekli oldu ve bu hastaların tümünde ribavirin başlangıç dozu günde
+1000 ila 1200 mg idi. Hiçbir hasta kan nakli almadı.
+HIV/HCV ile ko-enfekte hastalar
+HCV/HIV-1 ile ko-enfekte hastalardaki genel güvenlilik profili, HCV mono-enfeksiyonu olan
+hastalardakine benzer idi. 17 hastada (%27,0), total bilirubinde >3 x ULN geçici yükselmeler
+(çoğunlukla indirek) meydana geldi; bu hastalardan 15'i atazanavir alıyordu.
+Hiperbilirubinemisi olan hastaların hiçbirinde, aminotransferazlarda eşlik eden yükselmeler
+olmadı.
+Şiddetli böbrek yetmezliği olan veya son evre böbrek hastalıği (SEBH) görülen sirozu
+olmayan GT1 ile enfekte hastalar
+Ribavirin ile birlikte veya ribavirin olmaksızın VIEKIRAX ve dasabuvir, şiddetli böbrek
+yetmezliği olan veya SEBH görülen sirozu olmayan genotip 1 ile enfekte 68 hastada
+değerlendirilmiştir (bakınız, bölüm 5.1). Ribavirin kullanımı durumunda buna bağlı serum
+hemoglobinindeki düşüş nedeniyle müdahale gereken hastalar dışında, şiddetli böbrek
+yetmezliği olan hastalardaki genel güvenlilik profili şiddetli böbrek yetmezliği olmayan
+hastalar ile yürütülen önceki Faz 3 çalışmalarda görülen güvenlilik profili ile benzerdir.
+Ortalama başlangıç hemoglobin seviyesi 12,1 g/dL idi ve ribavirin alan hastalar için tedavi
+sonundaki hemoglobinde ortalama düşüş 1,2 g/dL idi. Ribavirin alan 50 hastadan 39’unda
+ribavirin tedavisinin kesilmesi gerekmiştir ve bu hastaların 11’i eritropoetin ile tedavi
+edilmiştir. Dört hastada < 8 g/dL hemoglobin düzeyi görülmüştür. İki hasta kan transfüzyonu
+almıştır. Ribavirin almayan GT1b ile enfekte 18 hastada anemi yan etkisi görülmemiştir.
+Ribavirin olmaksızın dasabuvir ile birlikte veya dasabuvir olmaksızın VIEKIRAX tedavisi,
+18 GT1a ve GT4 ile enfekte hastada değerlendirilmiştir, bu hastalarda anemi yan etkisi
+görülmemiştir.
+Pazarlama sonrası advers reaksiyonlar
+Aşağıda yer alan pazarlama sonrası advers reaksiyonlar, dasabuvir ile birlikte veya dasabuvir
+olmaksızın ve ribavirin ile birlikte veya ribavirin olmaksızın VIEKIRAX tedavisi sırasında
+gözlenmiştir. Bu olayların sıklığı bilinmemektedir. Advers reaksiyonlar, sistem organ sınıfına
+göre sunulmaktadır.
+Bağışıklık sistemi bozuklukları: Anafilaktik reaksiyonlar.
+Hepatobiliyer bozukluklar: Hepatik dekompansasyon ve hepatik yetmezlik (bakınız, bölüm
+4.4).
+Sayfa 38/59Pediyatrik Popülasyon
+VIEKIRAX’ın 18 yaşından küçük çocuk ve ergenlerde güvenliliği değerlendirilmemiştir.
+Hiçbir veri mevcut değildir.
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir (www.titck.gov.tr; e-
+posta: tufam@titck.gov.tr; tel 0 800 314 00 08; faks: 0 312 218 35 99).
+4.9 Doz aşımı ve tedavisi
+Sağlıklı hastalara uygulanan en yüksek dokümante edilmiş tek doz, paritaprevir için, 400 mg
+(100 mg ritonavir ile birlikte), ritonavir için, 200 mg (100 mg paritaprevir ile birlikte), ve
+ombitasvir için 350 mg idi. Paritaprevir, ritonavir veya ombitasvir ile çalışmayla ilgili
+istenmeyen etkiler gözlenmemiştir. Paritaprevir/ritonavirin en yüksek dozlarında indirek
+bilirubinde geçici artışlar gözlenmiştir. Doz aşımı durumunda, hastanın, herhangi bir advers
+reaksiyon veya etki belirtisi veya bulgusu açısından izlenmesi ve hemen uygun semptomatik
+tedavinin başlatılması önerilmektedir.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1 Farmakodinamik özellikler
+Farmakoterapötik grup: Sistemik kullanım için direkt etkili antiviraller
+ATC kodu: J05AP53
+Etki mekanizması:
+VIEKIRAX, dasabuvir ile birlikte uygulandığında, ayrı etki mekanizmaları ile hedef HCV'ye
+karşı, viral yaşam döngüsünün birden çok adımında, örtüşmeyen direnç profillerine sahip üç
+doğrudan etkili antiviral ajanı içermektedir. Dasabuvirin farmakolojik özellikleri için
+Dasabuvir Kısa Ürün Bilgisine başvurunuz.
+Ritonavir
+Ritonavir, HCV'ye karşı aktif değildir. Ritonavir, CYP3A substratı olan paritaprevirin
+sistemik maruziyetini artıran bir CYP3A inhibitörüdür.
+Ombitasvir
+Ombitasvir, viral replikasyon için temel önem taşıyan HCV NS5A'nın bir inhibitörüdür.
+Paritaprevir
+Paritaprevir, viral replikasyon için temel önem taşıyan ve HCV tarafından kodlanan
+poliproteinlerin proteolitik yıkımı için gerekli olan HCV NS3/4A proteazın bir inhibitörüdür.
+NS3/4A proteaz bu viral proteinlerin NS3, NS4A, NS4B, NS5A ve NS5B olgun formlarına
+dönüşmesinde etkilidir.
+Hücre kültüründe ve/veya biyokimyasal çalışmalarda aktivite
+Ombitasvir
+HCV replikon hücre kültürü analizlerinde, ombitasvirin, genotip 1a-H77 ve 1b-Con1 suşlarına
+karşı EC değeri, sırasıyla, 14,1 ve 5 pM idi. Ombitasvirin aktivitesi, %40 insan plazması
+50
+varlığında, 11 ila 13 kat azaldı. Ombitasvirin, HCV replikon hücre kültürü analizinde, tedavi
+Sayfa 39/59almamış genotip 1a ve 1b izolatlarının bir panelinden elde edilen NS5A'yı içeren replikonlara
+karşı ortalama EC değeri, sırasıyla, 0,66 pM (aralık 0.35 ila 0.88 pM; n=11) ve 1.0 pM
+50
+(aralık 0,74 ila 1,5 pM; n=11) idi. Ombitasvir, 2a, 2b, 3a, 4a, 5a ve 6a genotiplerini temsil
+eden tekli izolatlardan elde edilen NS5A'dan oluşturulan replikon hücre dizilerine karşı
+sırasıyla, 12, 4.3, 19, 1.7, 3.2 ve 366 pM EC değerlerine sahipti.
+50
+Paritaprevir
+HCV replikon hücre kültürü analizlerinde, paritaprevirin, genotip 1a-H77 ve 1b-Con1
+suşlarına karşı EC değeri sırasıyla, 1,0 ve 0,21 nM idi. Paritaprevirin aktivitesi, %40 insan
+50
+plazması varlığında 24 ila 27 kat azaldı. Paritaprevirin HCV replikon hücre kültürü
+analizinde, tedavi almamış genotip 1a ve 1b izolatlarının bir panelinden elde edilen NS3'ü
+içeren replikonlara karşı ortalama EC değeri, sırasıyla, 0,86 nM (aralık 0,43 ila 1,87 nM;
+50
+n=11) ve 0,06 nM (aralık 0,03 ila 0,09 nM; n=9) idi. Paritaprevir, 2a-JFH-1 replikon hücre
+dizisine karşı 5,3 nM EC değerine sahipti ve 3a, 4a, ve 6a genotiplerinin her birine ait tek bir
+50
+izolattan elde edilen NS3'ü içeren replikon hücre dizilerine karşı, sırasıyla 19, 0,09, ve 0,68
+nM EC değerlerine sahipti.
+50
+Ritonavir, HCV subgenomik replikonlarının replikasyonu üzerinde doğrudan bir antiviral etki
+göstermedi ve ritonavirin varlığı, paritaprevirin in vitro antiviral aktivitesini etkilemedi.
+Direnç
+Hücre kültüründe
+Genotip 1
+Paritaprevire ve ombitasvire karşı direnç gelişimi sırasıyla NS3 ve NS5A varyantları
+tarafından gerçekleşmektedir. Bunlar hücre kültürlerinde yada Faz 2b ve 3 klinik çalışmalarda
+fenotipik olarak uygun genotip 1a yada 1b replikonlarına karakterize edilmiştir.
+Genotip 1a'da, HCV NS3'deki F43L, R155K, A156T ve D168A/F7H/V/Y sübstitüsyonları,
+paritaprevire hassasiyeti azalttı. Genotip 1a replikonunda, paritaprevirin aktivitesi, F43L,
+R155K ve A156T sübstitüsyonları tarafından, sırasıyla 20, 37, ve 17kat azaltıldı.
+Paritaprevirin aktivitesi, D168V tarafından 96kat ve diğer D168 sübstitüsyonlarının her biri
+tarafından 50- ila 219kat azaltıldı. Paritaprevirin genotip 1a'daki aktivitesi, V36A/M, V55I,
+Y56H, Q80K veya E357K tekli sübstitüsyonları tarafından anlamlı olarak etkilenmedi (3-
+kattan daha az veya 3kata eşit). V36LM, F43L, Y56H, Q80K veya E357K'nin, R155K ile
+veya bir D168 sübstitüsyonu ile kombinasyonlarını da içeren ikili varyantlar, paritaprevirin
+aktivitesini, tekli R155K veya D168 sübstitüsyonu ile karşılaştırıldığında, ilave 2 ila 3kat daha
+azalttı. Genotip 1b replikonda, paritaprevirin aktivitesi D168A, D168H, D168V ve D168Y
+tarafından, sırasıyla, 76, 159 ve 337kat azaltıldı. Düşük replikasyon kapasitesinden dolayı tek
+başına Y56H değerlendirilemedi. aAncak, Y56H ile D168A/V/Y'nin kombinasyonu,
+paritaprevirin aktivitesini 700 ila 4118kat azalttı.
+Genotip 1a'da, HCV NS5A'daki M28T/V, Q30E/R, L31V, H58D, Y93C/H/N, ve M28V +
+Q30R sübstitüsyonları, ombitasvire hassasiyeti azalttı. Genotip 1a replikonunda ombitasvirin
+aktivitesi, M28V ve H58D sübstitüsyonlarına karşı, sırasıyla 896, 5 ve 243kat ve Q30E/R,
+L31V ve Y93C/H/N sübstitüsyonları tarafından, sırasıyla 1326, 800, 155kat 1675 ila
+66740kat azaltıldı. Q30R ile kombine Y93H, Y93N veya M28V ombitasvirin aktivitesini,
+42.802kattan daha fazla azalttı. Genotip 1b'de, L28T, L31F/V ve ayrıca, tek başına veya
+L28M, R30Q, L31F/M/V veya P58S ile kombine Y93H sübstitüsyonları, ombitasvire
+hassasiyeti azalttı. Genotip 1b replikonunda, ombitasvirin aktivitesi 30 ve 31 amino asit
+pozisyonlarındaki varyantlar tarafından 10kattan daha az azaltıldı. Ombitasvirin aktivitesi,
+L28T, Y93H, Y93H ile kombine R30Q ve Y93H ile kombine L31M genotip 1b
+Sayfa 40/59sübstitüsyonları tarafından, sırasıyla 661, 77, 284, ve 142kat azaltıldı. Y93H'nin 28, 31, veya
+58 pozisyonlarındaki sübstitüsyonlar ile kombine bütün diğer ikili sübstitüsyonları,
+ombitasvirin aktivitesini 400kattan daha fazla azalttı.
+Genotip 4
+Genotip 4a'da, hücre kültüründe seçilen, sırasıyla,NS3 veya NS5A'daki varyantlar tarafından
+kazandırılan, paritaprevire veya ombitasvire karşı direnç, fenotipik olarak karakterize edildi.
+HCV NS3'deki R155C, A156T/V ve D168H/V sübstitüsyonları, paritaprevire karşı
+hassasiyeti, 40 ila 323kat azalttı. HCV NS5A'daki L28V sübstitüsyonu, ombitasvire karşı
+hassasiyeti, 21kat azalttı.
+Başlangıçtaki HCV sübstitüsyonlarının/polimorfizmlerinin, tedavi sonucu üzerindeki etkisi
+Başlangıçtaki NS3/4A, NS5A veya NS5B sübstitüsyonları/polimorfizmleri ile, önerilen
+rejimlerdeki tedavi sonucu arasındaki ilişkiyi araştırmak amacıyla, Faz 2b ve 3 klinik
+çalışmalarda, ribavirin ile birlikte veya ribavirin olmadan ombitasvir, paritaprevir ve
+dasabuvir (bir nükleotid olmayan NS5B inhibitörü) ile tedavi edilen, genotip 1 HCV
+enfeksiyonu olan hastaların havuzlanmış bir analizi yürütüldü.
+Bu analizdeki 500'ün üzerindeki genotip 1a başlangıç numunesinde, en sık gözlemlenen
+direnç-ilişkili varyantlar, NS5A'da M28V (%7,4) ve NS5B'de S556G (%2,9) idi. NS3'de
+büyük ölçüde yaygın bir polimorfizm (örneklerin %41,2'si) olmasına karşın, Q80K,
+paritaprevir'e karşı minimal direnç kazandırmaktadır. NS3'de, R155 ve D168 amino asit
+pozisyonlarındaki direnç-ilişkili varyantlar, başlangıçta nadiren (%1'den daha az)
+gözlemlendi. Bu analizde yer alan 200'ün üzerindeki genotip 1b başlangıç numunesinde, en
+sık gözlemlenen direnç-ilişkili varyantlar, NS5A'da Y93H (%7,5) ve NS5B'de C316N
+(%17,0) ve S556G (%15) idi. HCV genotip 1a ve 1b ile enfekte hastalarda, önerilen tedavi
+rejimleri ile gözlenen düşük virolojik başarısızlık oranları göz önüne alındığında, başlangıç
+varyantlarının varlığının, KVY elde edilmesi olasılığı üzerindeki az bir etkiye sahip olduğu
+görülmektedir.
+Klinik çalışmalar
+Faz 2b ve 3 kinik çalışmalarda, ribavirin ile birlikte veya ribavirin olmadan ombitasvir,
+paritaprevir, ve dasabuvir içeren rejimler ile (8, 12, veya 24 hafta süreyle) tedavi edilen, HCV
+genotip 1 ile enfekte 2.510 hastadan, toplam 74 hasta (%3) virolojik başarısızlık (başlıca,
+tedavi-sonrası nüks) yaşadı. Tedavi ile birlikte ortaya çıkan varyantlar ve bunların virolojik
+başarısızlık popülasyonlarındaki prevalansları, Tablo 5'de gösterilmektedir. Genotip 1a ile
+enfekte olmuş 67 hasta içerisinde 50 hastada NS3 varyantları gözlemlendi, 46 hastada NS5A
+varyantları gözlemlendi, 37 hastada NS5B varyantları gözlemlendi, 30 hastada, her 3 ilaç
+hedefinin tedavi ile birlikte ortaya çıkan varyantları gözlemlendi. Genotip 1b ile enfekte
+olmuş 7 hasta içerisinde tedavi ile birlikte ortaya çıkan varyantlar, 4 hastada NS3'de ve 1
+hastada hem NS3'de hem de NS5A'da gözlemlendi. Genotip 1b ile enfekte hiçbir hastada, her
+3 ilaç hedefinin tedavi ile birlikte ortaya çıkan varyantları gözlemlenmedi.
+Tablo 5 – Faz 2b ve 3 klinik çalışmalarda RBV ile birlikte veya RBV olmadan
+VIEKIRAX ve dasabuvir rejimlerinin havuzlanmış analizinde, tedavi ile birlikte ortaya
+çıkan amino asit sübstitüsyonları (N=2510)
+Genotip 1a Genotip 1b
+Ortaya çıkan aminoasit
+Hedef N=67 b N=7
+sübstitüsyonları a
+% (n) % (n)
+Sayfa 41/59V551c 6 (4) --
+Y56Hc 9 (6) 42,9 (3)d
+I132Vc 6 (4) --
+R155K 13,4 (9) --
+NS3
+D168A 6 (4) --
+D168V 50,7 (34) 42,9 (3)d
+D168Y 7,5 (5) --
+V36Ac, V36Mc, F43Lc, D168H, E357Kc < %5 --
+M28T 20,9 (14) --
+M28Ve 9 (6) --
+NS5A Q30Re 40,3 (27) --
+Y93H 28,6 (2)
+H58D, H58P, Y93N < %5 --
+A553T 6,1 (4) --
+S556G 33,3 (22) --
+NS5B
+C316Y, M414T, G554S, S556R,
+< %5 --
+G558R, D559G, D559N, Y561H
+a. Aynı alt tipe sahip en az 2 hastada gözlemlenmiştir.
+b. NS5B hedefi için N=66.
+c. Sübstitüsyonlar, NS3 pozisyon R155 veya D168'deki diğer ortaya çıkan varyantlar ile kombine gözlemlendi.
+d. Genotip 1b ile enfekte hastalarda kombine gözlemlendi.
+e. Hastaların %6'sında (4/67) kombine gözlemlendi.
+Not: Aşağıdaki varyantlar, hücre kültürü içerisinde seçilmiştir, ancak tedavi ile birlikte ortaya çıkmamıştır: NS3
+varyantları, genotip 1a'da A156T ve genotip 1b'de R155Q ve D168H; NS5A varyantları, genotip 1a'da Y93C/H,
+ve genotip 1b'de L28M, L31F/V veya P58S ile kombine L31F/V veya Y93H; ve NS5B varyantları, genotip 1a'da
+Y448H, ve genotip 1b'de M414T ve Y448H.
+Direnç ile ilişkili sübstitüsyonların persistansı
+NS3, NS5A, ve NS5B'deki, sırasıyla, paritaprevir, ombitasvir, ve dasabuvir direnci ile ilişkili
+amino asit sübstitüsyonlarının persistansı, Faz 2b çalışmalarda, genotip 1a ile enfekte
+hastalarda değerlendirildi. 47 hastada, NS3'de, paritaprevir tedavisi ile birlikte ortaya çıkan
+V36A/M, R155K veya D168V varyantları gözlemlendi. 32 hastada, NS5A'da, ombitasvir
+tedavisi ile birlikte ortaya çıkan M28T, M28V veya Q30R varyantları gözlendi. 34 hastada,
+NS5B'de, dasabuvir tedavisi ile birlikte ortaya çıkan M414T, G554S, S556G, G558R veya
+D559G/N varyantları gözlendi.
+NS3 varyantları V36A/M ve R155K ile NS5B varyantları M414T ve S556G, tedavi sonrası
+48. haftada hala saptanabilir iken, NS3 varyantı D168V ile bütün diğer NS5B varyantları,
+tedavi sonrası 48. haftada gözlenmedi. NS5A'daki bütün tedavi ile birlikte ortaya çıkan
+varyantlar, tedavi sonrası 48. haftada hala saptanabilir idi. Genotip 1b'deki yüksek KVY
+oranları nedeniyle, bu genotipteki, tedavi ile birlikte ortaya çıkan varyantların persistansı
+belirlenemedi.
+Direnç ile ilişkili bir sübstitüsyon içeren virüsün saptanmaması, dirençli virüsün artık klinik
+olarak anlamlı düzeylerde mevcut olmadığını göstermemektedir. VIEKIRAX ve dasabuvir
+direnci ilişkili sübstitüsyonları içeren virüsün ortaya çıkmasının veya persistansının uzun
+süreli klinik etkisi bilinmemektedir.
+Çapraz-direnç
+NS5A inhibitörleri, NS3/4A proteaz inhibitörleri ve non-nükleozit NS5B inhibitörleri
+arasında sınıfa göre çapraz-direnç beklenmektedir. Daha önceki ombitasvir, paritaprevir veya
+dasabuvir tedavisi deneyiminin, diğer NS5A inhibitörlerinin, NS3/4A proteaz inhibitörlerinin,
+ve NS5B inhibitörlerinin etkililiği üzerindeki etkisi araştırılmamıştır.
+Sayfa 42/59Klinik etkililik ve güvenlik
+Genotip 1 hepatit C enfeksiyonu olan hastalardaki klinik çalışmalar
+Ribavirin ile birlikte veya ribavirin olmadan, dasabuvir ile kombine VIEKIRAX’ın etkililiği
+ve güvenliliği, Tablo 6'da özetlendiği üzere, genotip 1 kronik hepatit C enfeksiyonu olan
+2,360’ın üzerindeki hastada gerçekleştirilen, sirozu (Child-Pugh A) olan hastalara özel iki
+çalışmayı da içeren, randomize edilmiş sekiz Faz 3 klinik çalışmada değerlendirildi.
+Tablo 6 – Ribavirin (RBV) ile birlikte veya RBV olmadan VIEKIRAX ve dasabuvir ile
+yürütülen Faz 3, global çok-merkezli çalışmalar
+Tedavi
+edilen HCV genotipi
+Çalışma Çalışma tasarımının özeti
+hastaların (GT)
+sayısı
+Daha önce tedavi almamış, sirozu olmayan
+Kol A: VIEKIRAX ve dasabuvir + RBV
+SAPPHIRE I 631 GT1
+Kol B: Plasebo
+Kol A: VIEKIRAX ve dasabuvir+ RBV
+PEARL III 419 GT1b
+Kol B: VIEKIRAX ve dasabuvir
+Kol A: VIEKIRAX ve dasabuvir+ RBV
+PEARL IV 305 GT1a
+Kol B: VIEKIRAX ve dasabuvir
+GARNET
+166 GT1b VIEKIRAX ve dasabuvir (8 hafta)
+(açık etiket)
+Peginteferon+ribavirin deneyimi olan, sirozu olmayan
+Kol A: VIEKIRAX ve dasabuvir + RBV
+SAPPHIRE II 394 GT1
+Kol B: Plasebo
+PEARL II Kol A: VIEKIRAX ve dasabuvir+ RBV
+179 GT1b
+(açık-etiketli) Kol B: VIEKIRAX ve dasabuvir
+Tedavi deneyimi olmayan ve peginterferon+ribavirin deneyimi olan, kompanse sirozu olan
+TURQUOISE II Kol A: VIEKIRAX ve dasabuvir + RBV (12 hafta)
+380 GT1
+(açık-etiketli) Kol B: VIEKIRAX ve dasabuvir + RBV (24 hafta)
+TURQUOISE III
+60 GT1b VIEKIRAX ve dasabuvir (12 hafta)
+(açık etiketli)
+Sekiz çalışmada da, VIEKIRAX ritonavir dozu, günde bir defa 25 mg / 150 mg / 100 mg idi
+ve dasabuvir dozu günde iki defa 250 mg idi. Ribavirin alan hastalar için, ribavirin dozu,
+vücut ağırlığı 75 kg'nin altındaki hastalar için günde 1000 mg veya vücut ağırlığı 75 kg'ye eşit
+veya daha fazla olan hastalar için günde 1200 mg idi.
+Kalıcı virolojik yanıt (KVY), Faz 3 çalışmalarda HCV iyileşme oranının tayin edilmesi
+amaçlı primer sonlanım noktası idi ve tedavinin sona ermesinden 12 hafta sonra kantifiye
+edilemeyen veya saptanamayan HCV RNA düzeyleri (KVY12) olarak tanımlanmıştı. Tedavi
+süresi her çalışmada sabitlenmişti ve hastaların HCV RNA düzeyleri tarafından
+yönlendirilmedi (yanıt yönlendirmeli algoritma yok). Plazma HCV RNA değerleri, klinik
+çalışmalar sırasında, High Pure System ile birlikte kullanım amaçlı COBAS TaqMan HCV
+testi (versiyon 2.0) kullanılarak (Garnet hariç) ölçüldü. Analiz, mL'de 25 IU'luk bir alt
+kantitasyon limitine (LLOQ) ve AmpliPrep testi mL başına 15 IU'luk bir LLOQ'ya sahiptir.
+sahipti.
+Daha önce tedavi almamış yetişkinlerdeki klinik çalışmalar
+SAPPHIRE-I - genotip 1, tedavi almamış, sirozsuz
+Tasarım: randomize, global çok merkezli, çift-kör, plasebo kontrollü
+Sayfa 43/59Tedavi: 12 hafta süreyle, VIEKIRAX ve dasabuvir ile kiloya göre ribavirin
+Tedavi edilen hastaların (n=631) medyan yaşı 52 yıl (aralık: 18 ila 70) idi; hastaların %54,5'i
+erkek idi; %5,4'ü, siyah idi; %15,2'sinin, bir depresyon veya bipolar bozukluk geçmişi vardı;
+%79,1'inin başlangıç HCV RNA düzeyleri en az 800,000 IU/mL idi; %15,4'ünde, portal
+fibrozisi (F2) vardı ve %8,7'sinde köprüleşme fibrozisi (F3) vardı; %67,7'sinde HCV genotip
+1a enfeksiyonu vardı; %32,3'ünde HCV genotip 1b enfeksiyonu vardı.
+Tablo 7 – Daha önce tedavi deneyimi olmayan, genotip 1 ile enfekte hastalar için
+SAPPHIRE-I'deki KVY12
+Tedavi Sonucu 12 hafta süreyle RBV ile birlikte VIEKIRAX ve dasabuvir
+n/N % %95 CI
+Genel KVY12 456/473 96,4 94,7, 98,1
+HCV genotip 1a 308/322 95,7 93,4, 97,9
+HCV genotip 1b 148/151 98,0 95,8, 100,0
+KVY12 elde edemeyen hastalar için
+sonuç
+Tedavide virolojik başarısızlıka 1/473 0,2
+Nüks 7/463 1,5
+Diğerb 9/473 1,9
+CI = güven aralığı
+a. Tedavi sırasında HCV RNA < 25 IU/mL, tedavinin ilerleyen döneminde konfirme edilmiş HCV RNA ≥ 25
+IU/mL, HCV RNA'da konfirme edilmiş en az 1 log IU/mL’lik artış, veya en az 6 hafta tedavi ile kalıcı olarak
+10
+HCV RNA ≥ 25 IU/mL olarak tanımlanmıştır.
+b. Diğer, virolojik başarısızlık nedeni ile olmayan erken dönem ilacı kesme ve KVY12 penceresinde eksik HCV
+RNA değerlerini içermektedir.
+HCV genotip 1b enfeksiyonu olan hiçbir hasta, tedavide virolojik başarısızlık yaşamadı ve
+HCV genotip 1b enfeksiyonu olan bir hastada nüks meydana geldi.
+PEARL-III - genotip 1b, tedavi almamış, sirozu olmayan
+Tasarım: randomize, global çok merkezli,çift-kör,dozaj kontrollü
+Tedavi: ribavirin olmadan VIEKIRAX ve dasabuvir veya 12 hafta süreyle kiloya göre
+ribavirin
+Tedavi edilen hastaların (n=419) medyan yaşı 50 yıl (aralık: 19 ila 70) idi; hastaların %45,8'i
+erkek idi; %4,8'i Siyah idi; %9,3'ünün bir depresyon veya bipolar bozukluk geçmişi vardı;
+%73,3'ünün başlangıç HCV RNA düzeyleri, en az 800.000 IU/mL idi; %20,3'ünde portal
+fibrozis (F2) vardı ve %10,0'ında köprüleşme fibrozisi (F3) vardı.
+Tablo 8 – Daha önce tedavi almamış, genotip 1b enfeksiyonu olan hastalar için, PEARL
+III'deki KVY12
+Tedavi Sonucu 12 hafta süreyle VIEKIRAX ve dasabuvir
+RBV ile birlikte RBV olmadan
+n/N % %95 CI n/N % %95 CI
+Genel KVY12 209/210 99,5 98,6, 100,0 209/209 100,0 98,2, 100,0
+KVY12 elde edilemeyen hastalar için
+sonuç
+Tedavide VB 1/210 0,5 0/209 0
+Nüks 0/210 0 0/209 0
+Sayfa 44/59Diğer 0/210 0 0/209 0
+CI = güven aralığı, VB = virolojik başarısızlık
+PEARL-IV - genotip 1a, tedavi almamış, sirozsuz
+Tasarım: randomize, global çok merkezli,çift-kör,dozaj kontrollü
+Tedavi: kiloya göre ribavirin veya ribavirin olmadan 12 hafta boyunca VIEKIRAX ve
+dasabuvir
+Tedavi edilen hastaların (N=305) medyan yaşı 54 yıl (aralık: 19 ila 70) idi; hastaların %65,2'si
+erkek idi; %11,8'i Siyah idi; %20,7'sinin bir depresyon veya bipolar bozukluk geçmişi vardı;
+%86,6'sının başlangıç HCV RNA düzeyleri en az 800.000 IU/mL idi; %18,4'ünde portal
+fibrozis (F2) vardı ve %17,7'sinde köprüleşme fibrozisi (F3) vardı.
+Tablo 9 – Daha önce tedavi almamış, genotip 1a enfeksiyonu olan hastalar için PEARL
+IV'deki KVY12
+Tedavi Sonucu 12 hafta süreyle VIEKIRAX ve dasabuvir
+RBV ile birlikte RBV olmadan
+n/N % %95 CI n/N % %95 CI
+Genel KVY12 97/100 97,0 93,7, 100,0 185/205 90,2 86,2, 94,3
+KVY12 elde edilemeyen hastalar için
+sonuç
+Tedavide VB 1/100 1,0 6/205 2,9
+Nüks 1/98 1,0 10/194 5,2
+Diğer 1/100 1,0 4/205 2,0
+CI = güven aralığı, VF = virolojik başarısızlık
+GARNET – Genotip 1b, Siroz görülmeyen tedavi deneyimi bulunmayan
+Tasarım: açık etiketli, tek kollu, global çok merkezli
+Tedavi: 8 hafta boyunca VIEKIRAX ve dasabuvir
+Tedavi edilen hastaların (N=166) medyan yaşı 53 (aralık: 22 ila 82); %56,6'sı kadın; %3,0'ı
+Asyalı; %0,6'sı siyahi; %14,5'inin vücut kitle indeksi en az 30 kg/m2; %68,5'inde IL28B CC
+dışı genotip görülmekte; %7,2'sinin başlangıç HCV RNA düzeyleri en az 6,000,000 IU/mL;
+%9'unda ileri evre fibroz (F3) görülmekte ve %98.2'sinde HCV genotip 1b enfeksiyonu
+görülmektedir (bir hastada genotip 1a, 1d ve 6 enfeksiyonu görülmüştür).
+Tablo 10. Siroz görülmeyen daha önce tedavi edilmemiş genotip 1b enfekte ait KVY 12
+8 hafta boyunca VIEKIRAX ve dasabuvir
+n/N (%)
+SVR 160/163 (98,2)
+12
+%95 CIa 96,1, 100,0
+F0-F1 138/139 (99.3)b
+F2 9/9 (100)
+F3 13/15 (86,7)c
+CI = güven aralığı
+a. Binom dağılımının normal dağılıma yakınsaması kullanılarak hesaplanmıştır.
+b. 1 hastada tedaviye uyumsuzluk nedeniyle tedavi sonlandırılmıştır.
+c. 2/15 hastada relaps (en az 51 günlük tedavi ile son gözlemde HCV RNA düzeyi < 15 IU/ml olan hastalarda
+SVR12 aralığı öncesinde veya sırasında tedaviden sonra doğrulanmış HCV RNA ≥ 15 IU/ml).
+Sayfa 45/59Peginterferon+ribavirin ile tedavi deneyimi bulunan erişkinler ile yürütülen klinik çalışmalar
+SAPPHIRE-II – genotip 1, pegIFN+RBV deneyimi olan, sirozu olmayan
+Tasarım : randomize, global çok merkezli, çift-kör, plasebo kontrollü
+Tedavi: 12 hafta boyunca kiloya göre ribavirin ile VIEKIRAX ve dasabuvir
+Tedavi edilen hastaların (N=394) medyan yaşı 54 yıl (aralık: 19 ila 71) idi; hastaların %49,0'ı
+daha önce pegIFN/RBV'ye tam yanıtsız idi; %21,8'i daha önce pegIFN/RBV'ye kısmi yanıt
+vermişti; ve %29,2'si daha önce pegIFN/RBV'de nüks etmişti; hastaların %57,6'sı erkek idi;
+%8,1'i Siyah idi; %20,6'sının bir depresyon veya bipolar bozukluk geçmişi vardı; %87,1'inin
+başlangıç HCV RNA düzeyleri en az 800,000 IU/mL idi; %17,8'inde portal fibrozisi (F2)
+vardı %14,5'inde köprüleşme fibrozisi (F3) vardı; %58,4'ünde HCV genotip 1a enfeksiyonu
+vardı; %41,4'ünde HCV genotip 1b enfeksiyonu vardı.
+Tablo 11 – SAPPHIRE-II'de peginterferon+ribavirin -deneyimi olan, genotip 1 enfekte
+olmuş hastalar için KVY12
+Tedavi Sonucu 12 hafta süreyle RBV ile birlikte VIEKIRAX ve
+dasabuvir
+n/N % %95 CI
+Genel KVY12 286/297 96,3 94,1, 98,4
+HCV genotip 1a 166/173 96,0 93,0, 98,9
+Daha önce pegIFN/RBV'ye tam yanıtsız 83/87 95,4 91,0, 99,8
+Daha önce pegIFN/RBV'ye kısmi yanıt veren 36/36 100,0 100,0, 100,0
+Daha önce pegIFN/RBV ile nüks eden 47/50 94,0 87,4, 100,0
+HCV genotip 1b 119/123 96,7 93,6, 99,9
+Daha önce pegIFN/RBV'ye tam yanıtsız 56/59 94,9 89,3, 100,0
+Daha önce pegIFN/RBV'ye kısmi yanıt veren 28/28 100,0 100,0, 100,0
+Daha önce pegIFN/RBV ile nüks eden 35/36 97,2 91,9, 100,0
+KVY12'si olmayan hastalar için sonuç
+Tedavide VB 0/297 0,0
+Nüks 7/293 2,4
+CI = Güven Aralığı, VB = virolojik başarısızlık
+HCV genotip 1b enfeksiyonu olan hiçbir hasta, tedavide virolojik başarısızlık yaşamadı ve
+HCV genotip 1b enfeksiyonu olan 2 hastada nüks meydana geldi.
+PEARL-II – genotip 1b, pegIFN+RBV deneyimi olan, sirozsuz
+Tasarım : randomize, global çok merkezli, çift-kör, açık etiketli
+Tedavi: ribavirin olmadan VIEKIRAX ve dasabuvir veya kiloya göre ribavirin ile birlikte 12
+hafta boyunca
+Tedavi edilen hastaların (N=179) medyan yaşı 57 yıl (aralık: 26 ila 70) idi; hastaların %35,2'si
+daha önce pegIFN/RBV'ye tam yanıtsız idi; %28,5'i daha önce pegIFN/RBV'ye kısmi yanıt
+vermişti; ve %36,3'ü daha önce pegIFN/RBV'de nüks etmişti; hastaların %54,2'si erkek idi;
+%3,9'u Siyah idi; %12,8'inin bir depresyon veya bipolar bozukluk geçmişi vardı; %87,7'sinin
+başlangıç HCV RNA düzeyleri en az 800,000 IU/mL idi; %17,9'unda portal fibrozis (F2)
+vardı %14,0'ında köprüleşme fibrozisi (F3) vardı.
+Sayfa 46/59Tablo 12 – PEARL II'de peginterferon+ribavirin -deneyimi olan, genotip 1b-ile enfekte
+hastalar için KVY12
+12 hafta süreyle VIEKIRAX ve dasabuvir
+Tedavi Sonucu
+RBV ile birlikte RBV olmadan
+n/N % %95 CI n/N % %95 CI
+Genel KVY12 86/88 97,7 94,6, 100,0 91/91 100 95,9, 100,0
+Daha önce pegIFN/RBV'ye tam yanıtsız 30/31 96,8 90,6, 100,0 32/32 100 89,3, 100,0
+Daha önce pegIFN/RBV'ye kısmi yanıt veren 24/25 96,0 88,3, 100,0 26/26 100 87,1, 100,0
+Daha önce pegIFN/RBV ile nüks eden 32/32 100 89,3, 100,0 33/33 100 89,6, 100,0
+KVY12'si olmayan hastalar için sonuç
+Tedavide VB 0/88 0 0/91 0
+Nüks 0/88 0 0/91 0
+Diğer 2/88 2,3 0/91 0
+CI = Güven Aralığı, VB = virolojik başarısızlık
+Kompanse sirozu olan hastalarda klinik çalışma
+TURQUOISE-II–tedavi deneyimi olmayan veya pegIFN+RBV deneyimi olan, kompanse
+sirozlu
+Tasarım : randomize, global çok merkezli, açık etiketli
+Tedavi: 12 veya 24 hafta boyunca kiloya göre ribavirin ile VIEKIRAX ve dasabuvir
+Tedavi edilen hastaların (N=380) medyan yaşı 58 yıl (aralık: 21 ila 71) idi; hastaların %42,1'i
+daha önce tedavi almamıştı, %36,1'i daha önce pegIFN/RBV'ye tam yanıtsız idi; %8,2'si daha
+önce pegIFN/RBV'ye kısmi yanıt vermişti; ve %13,7'si daha önce pegIFN/RBV'de nüks
+etmişti; hastaların %70,3 erkek idi; %3,2'si Siyah idi; %14,7'sinin trombosit sayımları 90 x
+109/L'den az idi; %49,7'sinin albumini 40 g/L'den az idi; %86,1'inin başlangıç HCV RNA
+düzeyleri en az 800,000 IU/mL idi; %24,7'sinin bir depresyon veya bipolar bozukluk geçmişi
+vardı; %68,7'sinde HCV genotip 1a enfeksiyonu vardı; %31,3'ünde HCV genotip 1b
+enfeksiyonu vardı.
+Tablo 13 – Daha önce tedavi almamış veya pegIFN/RBV ile daha önce tedavi edilmiş
+olan, genotip 1 ile enfekte, kompanse sirozlu hastalar için KVY12
+RBV ile VIEKIRAX ve dasabuvir
+Tedavi Sonucu
+12 Hafta süreyle 24 Hafta süreyle
+n/N % %95 CIa n/N % %95 CIa
+Genel KVY12 191/208 91.8 87.6, 96.1 166/172 96,5 93,4, 99,6
+HCV genotip 1a 124/140 88,6 83.3, 93.8 115/121 95,0 91,2, 98,9
+Daha önce tedavi almamış 59/64 92,2 53/56 94,6
+Daha önce pegIFN/RBV'ye tam yanıtsız 40/50 80,0 39/42 92,9
+Daha önce pegIFN/RBV'ye kısmi yanıt 11/11 100 10/10 100
+veren
+Daha önce pegIFN/RBV ile nüks eden 14/15 93,3 13/13 100
+HCV genotip 1b 67/68 98,5 95,7, 100 51/51 100 93,0, 100
+Daha önce tedavi almamış 22/22 100 18/18 100
+Daha önce pegIFN/RBV'ye tam yanıtsız 25/25 100 20/20 100
+Daha önce pegIFN/RBV'ye kısmi yanıt 6/7 85,7 3/3 100
+veren
+Daha önce pegIFN/RBV ile nüks eden 14/14 100 10/10 100
+Sayfa 47/59KVY12'si olmayan hastalar için sonuç
+Tedavide VB 1/208 0,5 3/172 1,7
+Nüks 12/203 5,9 1/164 0,6
+Diğer 4/208 1,9 2/172 1,21
+CI = Güven Aralığı, VB = virolojik başarısızlık
+a. Primer etkililik sonlanım noktaları (genel KVY12 oranı) için, %97,5 güven aralığı kullanılmıştır; diğer
+etkililik sonlanım noktaları (HCV genotip 1a ve 1b ile enfekte hastalarda KVY12 oranları) için ise %95 güven
+aralığı kullanılmıştır.
+GT1a sirotik hastalardaki, başlangıç laboratuvar değerlerine göre nüks oranları, Tablo 14'de
+sunulmaktadır.
+Tablo 14. TURQUOISE-II: Genotip 1a Enfeksiyonu ve Kompanse Sirozu Olan
+Hastalarda 12 ve 24 Hafta Süreli Tedavinin Ardından başlangıç laboratuvar değerlerine
+göre nüks oranları
+VIEKIRAX ve VIEKIRAX ve
+dasabuvir+ RBV ile dasabuvir+ RBV ile
+birlikte birlikte
+12 hafta kolu 24 hafta kolu
+Tedavinin Sonunda Yanıt Verenlerin Sayısı 135 113
+Tedaviden önce AFP* < 20 ng/mL, trombosit ≥ 90 x 109/L ve albümin ≥ 35 g/L
+Evet (yukarıda verilen üç parametrenin hepsi için) 1/87 (%1) 0/68 (%0)
+Hayır (yukarıda verilen herhangi bir parametre için) 10/48 (%21) 1/45 (%2)
+* AFP= serum alfa fetoprotein
+Her üç başlangıç laboratuvar değerleri (AFP < 20 ng/mL, trombosit ≥ 90 x 109/L, ve albümin
+≥ 35 g/L) olumlu olan hastalar ile, nüks oranları, 12 veya 24 hafta süreyle tedavi edilen
+hastalar ile benzer idi.
+TURQUOISE-III: Tedavi almamış veya veya pegIFN+RBVdeneyimi olan, kompanse sirozlu
+Tasarım: global çok merkezli, açık etiketli
+Tedavi: 12 hafta boyunca ribavirin olmadan VIEKIRAX ve dasabuvir
+60 hasta randomize edilmiş ve tedavi edilmiştir ve 60/60(%100) hastada KVY12 elde
+edilmiştir. Ana karakteristik özellikler aşağıdaki tabloda sunulmaktadır.
+Tablo 15. TURQUOISE-III Ana Demografik Yapısı
+Özellikler N=60
+Yaş, medyan yaş (aralık) 60,5 (26-78)
+Erkek cinsiyet, % n 37(61)
+HCV tedavisi öncesi
+Naif, n(%) 27(45)
+PEG-INF + RBV, n (%) 33(55)
+Baseline albumin, medyan g/L 40,0
+<35, n (%) 10 (17)
+≥35, n (%) 50 (83)
+Baseline platelet sayısı, medyan (x 132,0
+109/L)
+<90, n (%) 13 (22)
+≥90, n (%) 47 (78)
+Sayfa 48/59Klinik çalışmaların birleştirilmiş analizleri
+Yanıtın kalıcılığı
+Genel olarak, Faz 2 ve 3 klinik çalışmalardaki 660 hasta, hem KVY12 hem de KVY24
+noktaları için HCV RNA sonuçları elde etti. Bu hastalar arasında, KVY12'nin KVY24
+üzerindeki pozitif öngörü değeri %99,8 idi.
+Birleştirilmiş etkililik analizi
+Faz 3 klinik çalışmalarda, 1075 hasta (sirozu olan 181 hasta dahil), önerilen rejimi aldı
+(bakınız bölüm 4.2). Tablo 16, bu hastalar için KVY oranlarını göstermektedir.
+Önerilen rejimi alan hastaların %97'si KVY elde ederken (bunlar içerisinden, sirozu olan 181
+hasta %97 KVY elde etti), %0,5'i virolojik alevlenme gösterdi ve %1,2’sinde tedavi sonrası
+nüks meydana geldi.
+Tablo 16 – Hasta popülasyonuna göre, önerilen tedavi rejimlerine göre KVY12 oranları
+HCV Genotip 1b HCV Genotip 1a
+VIEKIRAX ve dasabuvir VIEKIRAX ve dasabuvir ve RBV
+Sirozu Kompanse Sirozu Kompanse
+Olmayan Sirozlu Olmayan Sirozlu
+12 Hafta 12 Hafta 12 Hafta 24 Hafta
+Daha önce tedavi almamış %100 (210/210) %100 (27/27) %96 (403/420) %95 (53/56)
+pegIFN + RBV deneyimi %100 (91/91) % 100 (33/33) %96 (166/173) %95 (62/65)
+olan
+Daha önce nüks %100 (33/33) %100 (3/3) %94 (47/50) %100 (13/13)
+Daha önce kısmi yanıt %100 (26/26) %100 (5/5) %100 (36/36) %100 (10/10)
+Daha önce tam yanıtsızlık %100 (32/32) %100 (7/7) %95 (83/87) %93 (39/42)
+Diğer pegINF/RBV 0 %100 (18/18)+ 0 0
+başarısızlıkları
+TOPLAM %100 (301/301) %100 (60/60) %96 (569/593) %95 (115/121)
++ Diğer pegINF/RBV başarısızlıklarının türü, daha az iyi dokümante edilmiş yanıtsız, nüks/ilerleme yada
+pegINF başarızızlığını içermektedir.
+VIEKIRAX, ribavirin ve dasabuvir olmadan genotip 1b ile enfekte hastalarda, M13-393
+(PEARL-I) ve M12-536 Faz 2 çalışmalarında değerlendirildi. PEARL I ABD ve Avrupa'da
+gerçekleştirildi, M12-536 Japonya'da gerçekleştirildi. Araştırılan, daha önce tedavi deneyimi
+olan hastalar, ağırlıklı olarak pegIFN+RBV'e tam yanıtsız kişiler idi. PEARL-I'de ombitasvir,
+paritaprevir, ritonavir dozları günde bir defa 25 mg, 150 mg ve 100 mg idi ve M12-536
+çalışmasında paritaprevir dozu 100 mg veya 150 mg idi. Tedavi süresi, daha önce tedavi
+görmemiş hastalar için 12 hafta idi, daha önce tedavi deneyimi olan hastalar için 12-24 hafta
+idi ve sirozu olan hastalar için 24 hafta idi. Toplamda, sirozu olmayan 113 hastadan 107'si ve
+sirozu olan 155 hastadan 147'si 12-24 haftalık tedavinin ardından SVR12 elde etti.
+Faz 2 M11-652 (AVIATOR) çalışmasında genotip 1 tedavi deneyimli ve tedavi deneyimsiz,
+sirozu olmayan hastalar 12 haftalık dasabuvir içermeyen VIEKIRAX ve ribavirin rejimi
+almışlardır. Paritaprevir dozu 100 mg ve 200 mg, ombitasvir dozu 25 mg, ribavirin dozu ise
+kiloya göre (1000 mg – 1200 mg/gün) kullanılmıştır.Toplamda tedavi deneyimi olmayan 79
+hastanın 72’si (45/52 GT1a ve 27/27 GT1b), tedavi deneyimli 45 hastanın 40’ı (21/26 GT1a
+ve 19/19 GT1b) 12 haftalık tedavi ile KVY12 elde etmişlerdir.
+Ribavirinin doz ayarlamasının, KVY olasılığı üzerindeki etkisi
+Faz 3 klinik çalışmalarde, hastaların %91,5'inde tedavi sırasında ribavirin dozunun
+ayarlanması gerekli olmadı. Hastaların tedavi sırasında ribavirin dozunun ayarlanması gerekli
+Sayfa 49/59olan %8,5'inde, KVY oranı (%98,5), tedavi boyunca başlangıç ribavirin dozunu koruyan
+hastalar ile karşılaştırılabilirdi.
+TURQUOISE-I:tedavi almamış veya pegIFN+RBV HIV-1 ko-enfeksiyonu deneyimli
+olan,sirozsuz veya kompanse sirozlu
+Tasarım: randomize, global çok merkezli,açık etiketli
+Tedavi: 12 veya 24 hafta boyunca kiloya göre ribavirin ile VIEKIRAX ve dasabuvir
+HCV/HIV-1 ile ko-enfekte hastalarda doz uygulaması önerileri için bölüm 4.2'ye bakınız.
+Hastalar, bir tenofovir artı emtrisitabin veya lamivudin temeli ile birlikte uygulanan ritonavir
+destekli atazanavir veya raltegravir içeren stabil bir HIV-1 antiretroviral terapi (ART) rejimi
+almakta idi.
+Tedavi edilen hastaların (N = 63) medyan yaşı 51 yıl (aralık: 31 ila 69) idi; hastaların %24'ü
+siyah idi; hastaların %19'unda kompanse siroz vardı; hastaların %67'si daha önce HCV
+tedavisi almamıştı; hastaların %33'ünde pegIFN/RBV ile daha önceki tedavi başarısız
+olmuştu; hastaların %89'unda HCV genotip 1a enfeksiyonu vardı.
+Tablo 17 – TURQUOISE-I'de HIV-1 ile ko-enfekte hastalar için KVY12
+RBV ile VIEKIRAX ve dasabuvir
+Kol A - 12 Hafta Kol B - 24 Hafta
+Sonlanım noktası N=31 N=32
+KVY12, n/N (%) [%95 CI] 29/31 (93,5) [79,3, 98,2] 29/32 (90,6) [75,8, 96,8]
+KVY12’siz hastalar için sonuç
+Tedavide virolojik başarısızlık 0 1
+Tedavi sonrası nüks 1 2a
+Diğer 1 0
+a Bu virolojik başarısızlıklar, yeniden enfeksiyon ile ilişkili gözükmektedir. Bu durum virolojik başarısızlık
+numuneleri ile başlangıç düzeyi analizine dayanmaktadır.
+TURQUOISE-I'de, HCV/HIV-1 ile ko-enfekte hastalardaki KVY12 oranları, HCV ile
+monoenfekte hastalardaki faz 3 çalışmalardaki KVY12 oranları ile uyumlu idi. Genotip 1b
+enfeksiyonu olan 7 hastanın 7'si ve genotip 1a enfeksiyonu olan 56 hastanın 51'i KVY12 elde
+etmiştir. Her kolda, kompanse sirozu olan 6 hastanın 5'i KVY12 elde etmiştir.
+CORAL-I: Tedavi almamış veya veya pegIFN+RBVdeneyimi olan, karaciğer naklinden en az
+12 ay sonrası
+Tasarım: randomize, global çok merkezli, açık etiketli
+Tedavi: 24 hafta boyunca, araştırmacı tarafından seçilen ribavirin dozu ile VIEKIRAX ve
+dasabuvir
+Ribavirin dozu, araştırıcının insiyatifi ile kişiye özel şekilde ayarlandı; çoğu hasta, başlangıç
+dozu olarak 600 ila 800 mg aldı ve hastaların çoğu, tedavinin sonuna gelindiğinde günde 600
+ila 800 mg almakta idi.
+Daha önce, nakil sonrasında HCV enfeksiyonu için tedavi almamış olan ve METAVIR
+fibrozis skoru F2 veya daha düşük olan 34 hasta (HCV genotip 1a enfeksiyonu olan 29 ve
+HCV genotip 1b enfeksiyonu olan 5) kaydedildi. 34 hastadan 33'ü (%97,1) KVY12 elde etti
+Sayfa 50/59(genotip 1a enfeksiyonu olan hastalarda %96,6 ve genotip 1b enfeksiyonu olan hastalarda
+%100). HCV genotip 1a enfeksiyonu olan bir hastada tedavi sonrasında nüks meydana geldi.
+Opioid sübstitüsyon tedavisi alan hastalarda klinik çalışma
+Bir Faz 2, çok merkezli, açık etiketli, tek kollu çalışmada, daha önce tedavi almamış veya
+pegIFN/RBV ile tedavi deneyimi olan, sirotik olmayan, genotip 1 enfeksiyonu olan, stabil
+dozlarda metadon (N=19) veya nalokson ile birlikte veya nalokson olmadan buprenorfin
+(N=19) almakta olan 38 hasta, 12 hafta süreyle VIEKIRAX ve ribavirin ile birlikte dasabuvir
+aldı. Tedavi edilen hastaların medyan yaşı 51 yıl (aralık: 26 ila 64) idi; %65,8'i erkek idi, ve
+%5,3'ü Siyah idi. Çoğunluğunun (%86,8) başlangıç HCV RNA düzeyleri en az
+800.000 IU/mL idi ve çoğunluğunda (%84,2) genotip 1a enfeksiyonu vardı; %15,8'inde portal
+fibrozisi (F2) vardı ve %5,3'ünde köprüleşme fibrozisi (F3) vardı; ve %94,7'si daha önce
+HCV tedavisi almamıştı.
+Toplamda, 38 hastanın 37'si (%97,4) KVY12 elde etti. Hiçbir hastada tedavi sırasında
+virolojik başarısızlık veya nüks meydana gelmedi.
+RUBY-I, Şiddetli Böbrek Yetmezliği veya Son Evre Böbrek Hastalığı (SEBH) Görülen
+Hastalar ile Yürütülen Klinik Çalışma
+Tasarım: Çok merkezli, açık etiketli
+Tedavi: 12 hafta veya 24 hafta ribavirin ile veya ribavirin olmaksızın VIEKIRAX ve
+dasabuvir
+Şiddetli böbrek yetmezliği veya SEBH, KBH (kronik böbrek hastalığı) Evre 4 eGFR <30-15
+mL/dk/1,73 m2 olarak tanımlanmış veya KBH Evre 5 <15 mL/dk/1,73 m2 olarak veya
+hemodiyaliz gerekliliği olarak tanımlanmıştır.Tedavi edilen hastaların (N=68) medyan yaşı
+58’dir (aralık: 32-77); %83,8’i erkekdir; %58,8’i siyahidir; %73,5’i HCV GT1a ile enfektedir;
+%75,0’i IL28B non-CC genotipindedir; %70,0’inde Evre 5 KBH görülmüştür ve hemodiyaliz
+uygulanmıştır.
+68 hastanın 64’ü (%94,1) KVY12 elde etmiştir. Bir hastada tedaviden sonraki 4. haftada nüks
+görülmüştür, 2 hasta çalışma ilacını erken bırakmıştır ve 1 hastanın KVY12 verileri eksiktir.
+RUBY-I’in güvenlilik bilgilerinin tartışması için Bölüm 4.8’e bakınız.
+12 hafta boyunca RBV olmaksızın dasabuvir ile birlikte veya dasabuvir olmaksızın
+VIEKIRAX’ın etkililiğinin değerlendirildiği, tedavi deneyimi olmayan KBH Evre 4 veya 5
+GT1a ve GT4 hastaların yer aldığı bir başka açık etiketli faz 3b çalışmasında, KVR12 oranı
+%94,4’dür (17/18) ve hiçbir hasta tedavi sırasında virolojik başarısızlık veya nüks
+yaşamamıştır.
+Genotip 4 kronik hepatit C hastalarındaki klinik çalışma
+PEARL-I - genotip 4, daha önce tedavi almamış veya pegIFN +RBV deneyimi olan, sirozu
+olmayan
+Tasarım : randomize, global çok merkezli, açık etiketli
+Tedavi : tedavi deneyimi olmayan: 12 hafta boyunca ribavirin olmadan VIEKIRAX
+veya kiloya göre ribavirin
+Sayfa 51/59pegIFN + RBV ile tedavi deneyimli olanlar: 12 hafta boyunca kiloya göre
+ribavirin ile VIEKIRAX
+Tedavi edilen hastaların (N=135) medyan yaşı 51 yıl (aralık: 19 ila 70) idi; hastaların %63,7'si
+daha önce tedavi almamıştı, %17,0'sı daha önce pegIFN/RBV tedavisine tam yanıtsız, %6,7'sı
+daha önce pegIFN/RBV ile tedaviye kısmi yanıt vermişti, %12,6'sı daha önce pegIFN/RBV
+ile nüks etmişti; %65,2'si erkek idi; %8,9'u siyah idi; %69,6'sının başlangıç HCV RNA
+düzeyleri en az 800,000 IU/mL idi; %6,7'sinde köprüleşme fibrozisi (F3) vardı.
+Tablo 18 – PEARL I'de, daha önce tedavi almamış veya daha önce pegIFN/RBV ile
+tedavi edilmiş, genotip 4 enfeksiyonu olan hastalar için KVY12
+12 hafta süreyle ombitasvir + paritaprevir + ritonavir*
+Daha önce tedavi Daha önce tedavi pegIFN + RBV
+almamış almamış deneyimi olan
+Tedavi sonucu
+RBV ile RBV olmadan RBV ile birlikte
+birlikte
+n/N % n/N % n/N %
+Genel KVY12 42/42 100% 40/44 90,9% 49/49 100%
+KVY12 elde edilemeyen hastalar için
+sonuç
+Tedavide VB 0/42 0 1/44 2,3% 0/49 0
+Nüks 0/42 0 2/44 4,5% 0/49 0
+Diğer 0/42 0 1/44 2,3% 0/49 0
+* Ombitasvir tabletler, paritaprevir tabletler ve ritonavir kapsüller, ayrı ayrı uygulandı.
+AGATE-I: tedavi almamış veya pegIFN+RBV deneyimli hastalar, kompanse sirozu olan
+Tasarım: randomize, global çok merkezli, açık etiketli
+Tedavi:12 ya da 16 hafta boyunca kiloya göre ribavirin ile VIEKIRAX
+Tedavi edilen hastaların medyan yaşı 56 (aralık: 32 ila 81) idi; hastaların %50’si daha önce
+tedavi almamıştı, %28’i daha önce pegIFN/RBV'ye tam yanıtsız idi; %10’u daha önce
+pegIFN/RBV'ye kısmi yanıt vermişti; ve %13'ü daha önce pegIFN/RBV'de nüks etmişti;
+hastaların %70,’i erkek idi; %17'si Siyah idi; %73’ünün başlangıç HCV RNA düzeyleri en az
+800.000 IU/mL idi; %17'sinin trombosit sayımları 90 x 109/L'den az idi; %4'ünün albumini
+3,5 mg/dL'den az idi.
+Tablo 19. HCV Genotip 4 ile enfeksiyonu olan kompanse sirozlu hastalar için
+KVY12
+RBV ile Ombitasvir+ Paritaprevir + Ritonavir
+12 hafta 16 hafta
+KVY12 %(n/N) 97% (57/59) 98% (60/61)
+KVY12’si olmayan hastalar için sonuç
+Tedavide virolojik başarısızlık 2 (1/59) 0 (0/61)
+Tedavi sonrası nüks 0 (0/57) 0 (0/59)
+Diğer 2 (1/59) 2 (1/61)
+Sayfa 52/59Pediyatrik popülasyon
+Avrupa İlaç Ajansı, kronik hepatit C'nin tedavisinde çocuk popülasyonlarının bir veya daha
+fazla alt kümesinde Viekirax ile yapılan çalışmaların sonuçlarını sunma yükümlülüğünü
+ertelemiştir (bakınız, bölüm 4.2 Pozoloji ve uygulama şekli - Pediyatrik popülasyon).
+5.2 Farmakokinetik özellikler
+VIEKIRAX’ın, dasabuvir ile kombinasyonunun farmakokinetik özellikleri, sağlıklı yetişkin
+hastalarda ve kronik hepatit C hastalarında değerlendirilmiştir. Tablo 20, sağlıklı hastalarda
+yemek ile birlikte alınan dozların ardından, günde iki defa dasabuvir 250 mg ile birlikte
+günde bir defa VIEKIRAX 25mg/150mg/100mg için ortalama C ve EAA değerlerini
+maks
+göstermektedir.
+Tablo 20– Sağlıklı hastalarda, yemek ile birlikte uygulandığında, günde iki defa
+dasabuvir 250 mg ile birlikte günde bir defa VIEKIRAX 150 mg/100 mg/25 mg'nin
+birden çok dozununun Geometrik Ortalama C , EAA değerleri
+maks
+C (ng/ml) (%CV) EAA (ng*s/ml) (%CV)
+maks
+Ombitasvir 127(31) 1420(36)
+Paritaprevir 1470(87) 6990(96)
+Ritonavir 1600(40) 9470(41)
+Emilim:
+Oral uygulamanın ardından emilen Ombitasvir, paritaprevir ve ritonavir, ortalama 4 ila 5
+saatlik bir sürede T değerine ulaştılar. Dasabuvir maruziyeti doza orantılı bir şekilde
+maks
+artarken, paritaprevirin ve ritonavirin maruziyetleri doz ile orantısız bir şekilde daha fazla
+arttı. Akümülasyon, ombitasvir için miminal idi ve ritonavir ve paritaprevir için yaklaşık 1,5
+ila 2 kat idi. Kombinasyon için farmakokinetik kararlı durum doz uygulamasından yaklaşık
+12 gün sonra elde edildi.
+Ombitasvir ve paritaprevirin mutlak biyoyararlanımı, yemekle birlikte VIEKIRAX olarak
+uygulandıklarında yaklaşık %50 idi.
+Paritaprevir/ritonavirin, ombitasvir ve dasabuvir üzerindeki etkisi
+Paritaprevir/ritonavir varlığında dasabuvir maruziyeti yaklaşık %50 ila %60 azalırken,
+ombitasvir maruziyeti %31-47 oranında arttı.
+Ombitasvirin, paritaprevir/ritonavir ve dasabuvir üzerindeki etkisi
+Ombitasvir varlığında paritaprevir maruziyeti minimal olarak etkilenirken (%5 ila %27
+değişiklik), dasabuvir maruziyeti yaklaşık %30 arttı.
+Dasabuvirin paritaprevir/ritonavir ve ombitasvir üzerindeki etkisi
+Dasabuvir varlığında paritaprevir maruziyeti %50 ila %65 artarken, ombitasvir maruziyetinde
+değişiklik olmadı.
+Yiyecek etkisi
+Ombitasvir, paritaprevir ve ritonavir yemek ile birlikte uygulanmalıdır. Ombitasvir,
+paritaprevir ve ritonavir ile bütün klinik çalışmalar, yemek ile birlikte uygulamanın ardından
+yürütülmüştür.
+Sayfa 53/59Yiyecek, ombitasvir, paritaprevir ve ritonavirin maruziyetini (EAA) açlık durumuna göre
+sırasıyla, yaklaşık %82, %211 ve %49 oranında artırdı. Maruziyetteki artış, yemek tipinden
+(örn., yüksek yağlı vs. orta yağlı) veya kalori içeriğinden (yaklaşık 600 kcal vs. yaklaşık 1000
+kcal) bağımsız olarak benzer idi. En yüksek emeilim oranına ulaşmak amacıyla, VIEKIRAX,
+spesifik yağ veya kalori içeriğinden bağımsız olarak yemek ile birlikte alınmalıdır.
+Dağılım:
+Ombitasvir, paritaprevir ve ritonavir plazma proteinlerine yüksek oranda bağlanmaktadır.
+Plazma proteinlerine bağlanma, böbrek veya karaciğer yetmezliği olan hastalarda anlamlı
+olarak değişmez. İnsandaki kan/plazma konsantrasyon oranları 0,6 ila 0,8 aralığında yer
+almıştır. Bu durum ombitasvir ve paritaprevirin tam kanın plazma kompartımanında yer alma
+eğiliminde olduğunu göstermektedir. Ombitasvir, insan plazma proteinlerine yaklaşık %99,9
+oranında bağlandı. Paritaprevir, insan plazma proteinlerine yaklaşık %97-98,6 oranında
+bağlandı. Ritonavir, insan plazma proteinlerine %99'dan daha yüksek oranda bağlandı.
+İn vitro veriler paritaprevirin insan hepatik alım taşıyıcıları, OATP1B1 ve OATP1B3 için bir
+substrat olduğunu göstermektedir.
+Biyotransformasyon:
+Ombitasvir
+Ombitasvir, amit hidrolizi ve ardından oksidatif metabolizma yolu ile metabolize
+edilmektedir. 14C-ombitasvirin, tek başına verilen 25 mg'lik bir tek bir dozunun ardından,
+değişmemiş ana ilaç, insan plazmasındaki toplam radyoaktivitenin %8,9'sından sorumlu idi;
+insan plazmasında toplam 13 metabolit belirlenmiştir. Bu metabolitlerin antiviral aktiviteye
+veya hedef dışı farmakolojik aktiviteye sahip olması beklenmemektedir.
+Paritaprevir
+Paritaprevir ağırlıklı olarak CYP3A4 tarafından ve daha düşük bir ölçüde CYP3A5 tarafından
+metabolize edilmektedir. 14C paritaprevir /ritonavirin insanlara uygulanan 200 mg/100 mg'lik
+tek bir oral dozunun ardından, plazma radyoaktivitesinin %90'ını açıklayan öncü ilaç,
+dolaşımdaki başlıca bileşen idi. Dolaşımda paritaprevirin plazma radyoaktivitesinin yaklaşık
+%10'unu oluşturan en az 5 minör metaboliti belirlenmiştir. Bu metabolitlerin, herhangi bir
+antiviral aktiviteye sahip olması beklenmemektedir.
+Ritonavir
+Ritonavir, ağırlıklı olarak CYP3A tarafından ve daha düşük bir ölçüde CYP2D6 tarafından
+metabolize edilmektedir. 14C-ritonavir oral çözeltisinin insanlara uygulanan tek bir oral 600
+mg dozunun ardından, plazma radyoaktivitesinin neredeyse tamamı değişmemiş ritonavir
+tarafından açıklanmıştır.
+Eliminasyon:
+Ombitasvir
+Dasabuvir ile birlikte veya dasabuvir olmadan ombitasvir/paritaprevir/ritonavir ile doz
+uygulamasının ardından, ombitasvirin ortalama plazma yarılanma ömrü yaklaşık 21 ila 25
+saattir. 14C-ombitasvirin, tek başına verilen 25 mg'lik bir tek bir dozunun ardından,
+radyoaktivitenin yaklaşık %90'ı feçeste ve %2’si idrarda geri kazanıldı. Değişmemiş ana ilaç,
+insan dışkısındaki toplam radyoaktivitenin %88'inden sorumlu idi; bu durum, biliyer atılımın
+ombitasvir için ana eliminasyon yolağı olduğunu göstermektedir.
+Sayfa 54/59Paritaprevir
+Ombitasvir/paritaprevir/ritanovir ile birlikte veya dasabuvir olmadan ritonavir ile doz
+uygulamasının ardından, paritaprevirin ortalama plazma yarılanma ömrü yaklaşık 5,5 saat idi.
+100 mg ritonavir ile birlikte 200 mg'lik bir 14C -paritaprevir dozunun ardından,
+radyoaktivitenin yaklaşık %88'i feçeste geri kazanıldı, ve idrardaki radyoaktivite sınırlı idi
+(%8,8). Öncü ilacın metabolizması ve ayrıca biliyer atılımı, paritaprevirin eliminasyonuna
+katkıda bulunmaktadır.
+Ritonavir
+Ombitasvir/paritaprevir/ritonavir ile doz uygulamasının ardından, ritonavirin ortalama plazma
+yarılanma ömrü, yaklaşık 4 saat idi. 14C-ritonavir oral çözeltisinin 600 mg'lik bir dozunun
+ardından, radyoaktivitenin yaklaşık %86,4'ü feçeste geri kazanıldı ve dozun yaklaşık %11,3'ü
+idrarda atıldı.
+İn vitro etkileşim verileri
+Ombitasvir ve paritaprevir, organik anyon taşıyıcıyı (OAT1) in vivo ortamda inhibe etmez ve
+klinik olarak ilgili konsantrasyonlarda, organik katyon taşıyıcılarını (OCT1 ve OCT2),
+organik anyon taşıyıcılarını (OAT3) veya çoklu ilaç veya toksin ekstrüzyon proteinlerini
+(MATE1 ve MATE2K) inhibe etmesi beklenmez. Ritonavir klinik olarak anlamlı
+konsantrasyonlarda OAT1'i inhibe etmez ve OCT2, OAT3, MATE1 ve MATE2K'yi inhibe
+etmesi beklenmez.
+Hastalardaki karakteristik özellikler
+Yaşlılar:
+Faz 3 klinik çalışmalardan elde edilen verilerin popülasyon temelli farmakokinetik analizinde,
+54 yaşına göre (faz 3 çalışmalardaki ortalama yaş) 10 yıllık azalma/artma ombitasvir
+maruziyetinde %10, paritaprevir maruziyetinde %20 veya daha az değişikliğe neden olmuştur.
+75 yaş ve üzerindeki hastalara dair farmakokinetik bilgi mevcut değildir.
+Cinsiyet veya vücut ağırlığı:
+Cinsiyete veya vücut ağırlığına göre VIEKIRAX’ın doz ayarlaması gerekli değildir.
+Faz 3 klinik çalışma datalarından elde edilen verilerin popülasyon temelli farmakokinetik
+analizinde, erkek hastalara oranla kadın hastalarda %55, %100 ve %15 daha yüksek
+ombitasvir, paritaprevir ve ritonavir maruziyeti gözlenmiştir. Yine de cinsiyete göre doz
+ayarlaması önerilmemektedir.Vücut ağırlığında 76 kg’a göre (faz 3 çalışmalardaki ortalama
+kilo) 10 kiloluk değişim ombitasvir maruziyetinde %10’un altında paritaprevir maruziyetinde
+ise bir değişikliğe yol açmamıştır. Ritonavir maruziyetinde kilonun belirleyici bir etkisi
+yoktur.
+Irk ve etnik köken:
+Faz 3 klinik çalışmalardan elde edilen verilerin popülasyon farmakokinetik analizine
+dayanarak , Asyalı hastalar Asyalı olmayan hastalara göre %18’den %21’e kadar daha yüksek
+ombitasvire ve %37’den %39’a kadar daha yüksek paritaprevire maruz kalmış. Ritonavir
+maruziyeti Asyalı ve Asyalı olmayanlar arasında benzerdi.
+Böbrek yetmezliği:
+Hafif şiddette, orta şiddette ve şiddetli böbrek yetmezliği olan hastalarda, ombitasvir,
+paritaprevir ve ritonavir maruziyetlerindeki değişiklikler, klinik açıdan anlamlı kabul
+edilmemektedir. Son evre böbrek hastalığı olan hastalardaki sınırlı veriler, bu hasta grubunun
+maruziyetlerindeki değişikliklerin klinik olarak anlamlı olmadığını göstermektedir. Diyaliz
+gerektiren son evre böbrek hastalığı dahil olmak üzere, hafif şiddetli, orta şiddetli veya
+Sayfa 55/59şiddetli böbrek yetmezliği olan hastalarda VIEKIRAX için doz ayarlanması gerekli değildir
+(bakınız, bölüm 4.2) .
+400 mg dasabuvir ile birlikte veya dasabuvir olmadan, ombitasvir 25 mg, paritaprevir 150 mg
+ve ritonavir 100 mg kombinasyonunun farmakokinetiği, hafif (CrCl: 60 ila 89 ml/dakika), orta
+(CrCl: 30 ila 59 ml/dakika) ve şiddetli (CrCl: 15 ila 29 ml/dakika) böbrek yetmezliği olan
+hastalarda değerlendirildi.
+VIEKIRAX ve dasabuvir uygulanmasının ardından
+Normal böbrek fonksiyonuna sahip hastalar ile karşılaştırıldığında, ombitasvir maruziyeti,
+hafif, orta derecede ve şiddetli böbrek yetmezliği olan hastalarda karşılaştırılabilir idi. Normal
+böbrek fonksiyonuna sahip hastalar ile karşılaştırıldığında, paritaprevir C değerleri
+maks
+karşılaştırılabilir idi, ancak EAA değerleri, hafif, orta derecede ve şiddetli böbrek
+yetmezliğinde, sırasıyla, %19, %33 ve %45 daha yüksek idi. Böbrek fonksiyonu azaldığında,
+ritonavir plazma konsantrasyonları arttı:C ve EAA değerleri, hafif, orta derecede ve
+maks
+şiddetli böbrek yetmezliği olan hastalarda, sırasıyla, %26 ile %42 daha yüksekti, %48 ila %80
+daha yüksekti ve %66 ila %114 daha yüksekti.
+VIEKIRAX uygulanmasının ardından
+VIEKIRAX uygulanmasının ardından, hafif şiddette, orta şiddette ve şiddetli böbrek
+yetmezliği olan hastalarda, ombitasvir, paritaprevir ve ritonavir maruziyetlerindeki
+değişiklikler, VIEKIRAX’ın dasabuvir ile birlikte uygulandığı zaman gözlemlenenlere benzer
+idi ve bunlar, klinik açıdan anlamlı kabul edilmemektedir.
+Karaciğer yetmezliği
+VIEKIRAX ve dasabuvir uygulanmasının ardından
+Dasabuvir 400 mg ile ombitasvir 25 mg, paritaprevir 200 mg ve ritonavir 100 mg
+kombinasyonunun farmakokinetiği hafif şiddette (Child Pugh A), orta şiddette (Child Pugh B)
+ve şiddetli (Child Pugh C) karaciğer yetmezliği olan hastalarda değerlendirildi.
+Normal karaciğer fonksiyonu olan hastalar ile karşılaştırıldığında, hafif şiddette karaciğer
+yetmezliği olan hastalarda, paritaprevir, ritonavir ve ombitasvir ortalama C ve EAA
+maks
+değerleri, sırasıyla %29 ila %48, %34 ila %38 ve %8'e kadar azaldı.
+Normal karaciğer fonksiyonu olan hastalar ile karşılaştırıldığında, orta şiddette karaciğer
+yetmezliği olan hastalarda, ombitasvir ve ritonavir ortalama C ve EAA değerleri, sırasıyla,
+maks
+%29 ila %30, ve %30 ila %33 azalırken, paritaprevir ortalama C ve EAA değerleri, %26
+maks
+ila %62 arttı (bakınız, bölüm 4.2, 4.4 ve 4.8).
+Normal karaciğer fonksiyonu olan hastalar ile karşılaştırıldığında, şiddetli karaciğer
+yetmezliği olan hastalarda, paritaprevir ortalama C ve EAA değerleri, 3,2 ila 9,5 kat arttı;
+maks
+ritonavir ortalama C değerleri %35 daha düşük idi ve EAA değerleri %13 daha yüksek idi,
+maks
+ve ombitasvir ortalama C ve EAA değerleri sırasıyla, %68 ila %54 azaldı, dolayısı ile,
+maks
+VIEKIRAX, orta şiddette ve şiddetli karaciğer yetmezliği olan hastalarda
+kullanılmamalıdır(bakınız, bölüm 4.2 ve 4.4).
+VIEKIRAX uygulanmasının ardından
+Ombitasvir 25 mg, paritaprevir 200 mg ve ritonavir 100 mg kombinasyonunun
+farmakokinetiği, hafif şiddette (Child Pugh A), orta şiddette (Child Pugh B) ve şiddetli (Child
+Pugh C) karaciğer yetmezliği hastalarında değerlendirilmemiştir. Dasabuvir 400 mg ile
+ombitasvir 25 mg, paritaprevir 200 mg ve ritonavir 100 mg kombinasyonunun farmakokinetik
+Sayfa 56/59değerlendirmesinden elde edilen sonuçlar, ombitasvir 25 mg, paritaprevir 200 mg ve ritonavir
+100 mg kombinasyonuna ekstrapole edilebilir.
+Pediyatrik popülasyon:
+VIEKIRAX'ın, pediyatrik hastalardaki farmakokinetiği belirlenmemiştir (bakınız, bölüm 4.2).
+5.3 Klinik öncesi güvenlilik verileri
+Ombitasvir
+Ombitasvir ve insandaki ana inaktif metabolitleri (M29, M36), bakteriyel mutajenisite, insan
+periferik kan lenfositlerinin kullanıldığı kromozom aberasyonu dahil bir in vitro veya in vivo
+analiz grubunda, ve in vivo fare mikronükleus analizlerinde genotoksik değildir.
+Ombitasvir, transgenik fare çalışmasında karsinojenik değildi. İnsanda önerilen 25 mg’lık
+klinik dozda elde edilen EAA maruziyetine kıyasla 150 mg/kg/gün’lük dozajda EAA
+maruziyeti 26 kat artmıştır.
+Benzer şekilde, ombitasvir 2-yıllık sıçan çalışmasında insandaki 25 mg’lık dozdan 16-kat
+daha yüksek ombitasvir maruziyetine yol açan, test edilen en yüksek doza (30 mg/kg/gün)
+kadar karsinojenik bulunmamıştır
+Ombitasvir, önerilen klinik dozdaki EAA maruziyetinden 4 kat daha yüksek olan maksimum
+elde edilebilir maruziyetlerde, tavşanlarda malformasyonlar göstermiştir. Düşük insidanstaki
+malformasyonlar esasen gözlerde (mikroftalmi) ve dişlerde (kesici dişlerin olmaması)
+gözlemlendi. Farelerde, ombitasvir uygulanan annelerin fetüslerinde açık göz kapağı
+insidansıda bir artış vardı; ancak, ombitasvir tedavisi ile ilişkisi belirsizdir.Ombitasvirin major
+inaktif metabolitleri, farelerde, insanlarda önerilen klinik dozdaki maruziyetten yaklaşık 26
+kat daha yüksek maruziyette teratojenik değildir. Ombitasvir, farelerde değerlendirildiğinde,
+fertilite üzerinde bir etkiye sahip değildir.
+Emziren sıçanların sütünde ombitasvir, ağırlıklı olarak değişmemiş formda gözlemlenmiştir
+ve emzirilen yavrular üzerinde bir etkisi olmamıştır. Ombitasvir kaynaklı molekül, minimal
+düzeyde hamile sıçanlarda plasenta yoluyla transfer edilmiştir.
+Paritaprevir/ritonavir
+Paritaprevir, bir in vitro insan kromozom aberasyon testinde pozitif idi. Bir bakteriyel
+mutasyon analizinde ve iki in vivo genetik toksikoloji analizinde (sıçan kemik iliği
+mikronükleus ve sıçan karaciğer Comet testleri) paritaprevir negatiftir.
+Paritaprevir/ritonavir, 6-aylık transgenik fare çalışmasında insandaki 150 mg'lik önerilen
+klinik dozda elde edilenden yaklaşık 38-kat daha yüksek paritaprevir EAA maruziyetlerine
+yol açmıştır. Test edilen en yüksek doza (300 mg/30 mg/kg/gün) kadar karsinojenik değildi.
+Benzer şekilde, paritaprevir/ritonavir, insandaki 150 mg'lik önerilen klinik dozda elde
+edilenden yaklaşık 8-kat daha yüksek paritaprevir EAA maruziyetlerine yol açtı. Test edilen
+en yüksek doza (300 mg/30 mg/kg/gün) kadar, 2 yıllık sıçan çalışmasında karsinojenik
+değildir.
+Paritaprevir/ritonavir, insanlarda önerilen klinik dozdaki maruziyetten 32/8 kat daha yüksek
+maruziyetlerde, farelerde, düşük insidansta malformasyonlar (açık göz kapağı) göstermiştir.
+Paritaprevir/ritonavir, insanlarda önerilen klinik dozdaki maruziyetten 2 ila 8 kat daha yüksek
+maruziyetlerde değerlendirildiğinde, sıçanlarda embriyo-fetal canlılığın sürdürülebilmesinde
+veya fertilite üzerinde etkiye sahip değildi.
+Sayfa 57/59Paritaprevir ve onun hidroliz ürünü olan M13, emziren sıçanların sütünde gözlemlenen major
+bileşenlerdir. ve emzirilen yavrular üzerinde bir etkisi olmadı. Paritaprevir kaynaklı molekül,
+hamile sıçanlarda plasenta yoluyla minimal düzeyde transfer edilmiştir.
+6. FARMASÖTİK ÖZELLİKLER
+6.1 Yardımcı maddelerin listesi
+Tablet çekirdeği
+Kopovidon
+Vitamin E polietilen glikol süksinat
+Propilen glikol monolaurat
+Sorbitan monolaurat
+Kolloidal susuz silika (E551)
+Sodyum stearil fumarat
+Film-kaplama:
+Polivinil alkol (E1203)
+Polietilen glikol 3350
+Talk (E553)
+Titanyum dioksit (E171)
+Demir oksit kırmızı (E172)
+6.2 Geçimsizlikler
+Geçerli değil.
+6.3 Raf ömrü
+36 ay
+6.4 Saklamaya yönelik özel tedbirler
+30 °C’nin altındaki oda sıcaklığında saklayınız.
+6.5 Ambalajın niteliği ve içeriği
+2 adet film kaplı tablet içeren PVC/PE/PCTFE alüminyum folyo blister ambalajlar. 56 adet
+(14'lük 4 paket) film kaplı tablet içeren çoklu ambalaj sunumunda 14 film kaplı tablet
+içermektedir.
+6.6 Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+Kullanılmamış olan ürünler ya da atık materyaller “Tıbbi Atıkların Kontrolü Yönetmeliği” ve
+“Ambalaj ve Ambalaj Atıklarının Kontrolü Yönetmeliği”ne uygun olarak imha edilmelidir.
+7. RUHSAT SAHİBİ
+AbbVie Tıbbi İlaçlar Sanayi ve Ticaret Limited Şirketi
+Saray Mah. Dr. Adnan Büyükdeniz Cad. No:2 Akkom Ofis Park,
+Kelif Plaza 3. Blok Kat:16-17 34768 Ümraniye/İstanbul
+Sayfa 58/59Tel : 0-216-633 23 00
+Faks : 0-216-425 09 69
+8. RUHSAT NUMARASI(LARI)
+2015/91
+9. İLK RUHSAT TARİHİ / RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi : 07.02.2015
+Ruhsat yenileme tarihi :
+10. KÜB’ÜN YENİLENME TARİHİ
+Sayfa 59/59

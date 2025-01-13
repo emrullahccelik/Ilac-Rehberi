@@ -1,0 +1,762 @@
+KISA ÜRÜN BİLGİSİ
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+BETMİGA® 25 mg uzatılmış salımlı film tablet
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde:
+Oral uygulama için her tablet 25 mg mirabegron içerir
+Yardımcı madde(ler):
+Yardımcı maddeler için 6.1’e bakınız.
+3. FARMASÖTİK FORM
+Uzatılmış salımlı film tablet
+25 mg tablet: Aynı yüzde firma logosu ile “325” işaretinin bulunduğu oval, kahverengi
+tabletler
+4. KLİNİK ÖZELLİKLER
+4.1 Terapötik endikasyonlar
+Aşırı aktif mesane (AAM) sendromu bulunan yetişkin hastalarda meydana gelebilen acil idrar
+sıkışıklığına, idrar yapma sıklığında artışa ve/veya acil idrar tutamama durumlarına karşı
+semptomatik tedavi
+4.2 Pozoloji ve uygulama şekli
+Pozoloji/uygulama sıklığı ve süresi:
+Yetişkinler (yaşlı hastalar dahil olmak üzere):
+BETMİGA’nın önerilen dozu, yemeklerle birlikte veya aç karnına, günde bir kez 50 mg’dır.
+Uygulama şekli:
+Tabletler günde bir kez sıvı ile birlikte alınmalı, bütün olarak yutulmalı, çiğnenmemeli,
+bölünmemeli veya kırılmamalıdır.
+Özel popülasyonlara ilişkin ek bilgiler:
+Böbrek/Karaciğer yetmezliği:
+BETMİGA, son evre böbrek yetmezliği (GFR < 15 mL/dak/1,73m2 veya hemodiyaliz
+gerektiren hastalar) ve ciddi karaciğer yetmezliği (Child-Pugh Sınıf C) olan hastalarda
+çalışılmamıştır; bu nedenle bu hasta gruplarında kullanılması önerilmez (bkz. Bölüm 4.4 ve
+5.2).
+Aşağıdaki tabloda güçlü CYP3A4 inhibitörlerinin varlığında ve yokluğunda, böbrek ve
+karaciğer yetmezliği olan hastalar için günlük doz önerileri verilmektedir (bkz. Bölüm 4.4, 4.5
+ve 5.2).
+1/18Tablo 1: Güçlü CYP3A4 inhibitörlerinin varlığında ve yokluğunda, böbrek ve karaciğer
+yetmezliği olan hastalar için günlük doz önerileri
+Güçlü CYP3A4 inhibitörleri(3)
+İnhibitörsüz İnhibitörlü
+Hafif 50 mg 25 mg
+Böbrek yetmezliği(1) Orta 50 mg 25 mg
+Ciddi 25 mg Önerilmez
+Hafif 50 mg 25 mg
+Karaciğer yetmezliği(2)
+Orta 25 mg Önerilmez
+1. Hafif: GFR 60 - 89 mL/dak./1,73 m2; orta: GFR 30-59 mL/dak./1,73 m2; ciddi: GFR
+15 - 29 mL/dak./1,73 m2.
+2. Hafif: Child-Pugh Sınıf A; Orta: Child-Pugh Sınıf B.
+3. Güçlü CYP3A inhibitörleri bkz. Bölüm 4.5
+Pediyatrik popülasyon:
+Mirabegronun 18 yaşın altındaki çocuklardaki güvenliliği ve etkililiği henüz belirlenmemiştir.
+Herhangi bir veri mevcut değildir.
+Geriyatrik popülasyon:
+Erişkinler için önerilen doza göre bir farklılık göstermemektedir.
+Cinsiyet:
+Cinsiyete göre doz ayarlaması gerekmemektedir.
+4.3. Kontrendikasyonlar
+Mirabegron aşağıdaki hastalarda kontrendikedir
+- Etkin maddeye veya bölüm 6.1’de listelenen yardımcı maddelerden herhangi birine
+aşırı duyarlılığı olanlar,
+- Sistolik kan basıncı > 180 mm Hg ve/veya diyastolik kan basıncı > 110 mm Hg olarak
+ifade edilen, kontrol dışı ciddi hipertansiyonu olanlar
+4.4 Özel kullanım uyarıları ve önlemleri
+Böbrek yetmezliği
+BETMİGA, son evre böbrek yetmezliği (GFR < 15 mL/dak./1,73m2 veya hemodiyaliz
+gerektiren hastalar) olan hastalarda çalışılmamıştır; bu nedenle bu hasta gruplarında
+kullanılması önerilmez. Ciddi böbrek yetmezliği (GFR15-29 mL/dak./1,73 m2); olan
+hastalarda veriler sınırlıdır; bir farmakokinetik çalışmasına dayanılarak (bkz. Bölüm 5.2), bu
+popülasyonda dozun 25 mg’a düşürülmesi önerilmektedir. Birlikte güçlü CYP3A
+inhibitörlerini kullanan, ciddi böbrek yetmezliği (GFR 15-29 mL/dak./1,73 m2) olan
+hastalarda BETMİGA önerilmemektedir (bkz. Bölüm 4.5).
+Karaciğer yetmezliği
+BETMİGA, ciddi karaciğer yetmezliği (Child-Pugh Sınıf C) olan hastalarda çalışılmamıştır ve
+bu nedenle de bu hasta guruplarında kullanılması önerilmez. Birlikte güçlü CYP3A
+inhibitörlerini kullanan, orta derecede karaciğer yetmezliği (Child-Pugh B) olan hastalarda
+BETMİGA’nın kullanılması önerilmez (bkz. Bölüm 4.5).
+2/18Hipertansiyon
+Mirabegron kan basıncını arttırabilir. Özellikle hipertansiyon hastalarında olmak üzere, kan
+basıncı, tedavi başlangıcında ve periyodik olarak, BETMİGA ile tedavi süresince
+ölçülmelidir.
+2. Basamak hipertansiyon hastalarında (sistolik kan basıncı ≥ 160 mm Hg veya diyastolik kan
+basıncı ≥ 100 mm Hg) veriler sınırlıdır.
+Konjenital veya edinilmiş QT uzaması olan hastalar
+Klinik çalışmalarda, terapötik dozlardaki BETMİGA’nın, QT uzaması ile klinik olarak ilişkili
+olduğu gösterilmemiştir (bkz. Bölüm 5.1). Bununla birlikte, bilinen QT uzaması hikayesi olan
+veya QT aralığını uzattığı bilinen tıbbi ürünleri alan hastalar bu çalışmaya dahil edilmediği
+için mirabegronun bu hastalara olan etkileri bilinmemektedir. Bu hastalarda mirabegron
+uygulanırken dikkatli olunmalıdır.
+Mesane çıkım obstrüksiyonu olan hastalar ve aşırı aktif mesane için antimuskarinik ilaç
+kullanan hastalar
+Pazarlama sonrasındaki süreçte mirabegron kullanmakta olan, mesane çıkım obstrüksiyonu
+olan hastalarda ve aşırı aktif mesane tedavisi için antimuskarinik ilaç kullanan hastalarda,
+üriner retansiyon bildirilmiştir. Mesane çıkım obstrüksiyonu olan hastalarla yapılan kontrollü
+klinik güvenlilik çalışmasında, BETMİGA ile tedavi edilen hastalarda üriner retansiyonda
+artış gözlenmemiştir, fakat, klinik olarak anlamlı derecede mesane çıkım obstrüksiyonu olan
+hastalarda BETMİGA uygulanırken dikkatli olunmalıdır. Ayrıca BETMİGA, aşırı aktif
+mesane tedavisi için antimuskarinik ilaç kullanan hastalarda uygulanırken de dikkatli
+olunmalıdır.
+Anjiyoödem
+BETMİGA ile ilgili olarak yüz, dudaklar, dil ve/veya larinks anjiyoödemi bildirilmiştir. Bazı
+olgularda ilk dozdan sonra anjiyoödem gelişmiştir. Anjiyoödem olguları ilk dozdan saatler
+sonra veya tekrarlayan dozlardan sonra bildirilmiştir. Üst solunum yolu şişliği ile ilintili
+anjiyoödem hayatı tehtit edici olabilir. Eğer dil, hipofarinks veya larinks tutulumu gelişirse
+hemen BETMİGA kesilmeli ve uygun tedavi ve/veya hava yolunun açık kalmasını sağlayacak
+gerekli önlemler alınmalıdır.
+4.5 Diğer tıbbi ürünlerle etkileşimler ve diğer etkileşim şekilleri
+In vitro veriler
+Mirabegron, birden çok yolla taşınır ve metabolize olur. Mirabegron, sitokrom P450 (CYP)
+3A4, CYP2D6, butirilkolinesteraz, üridin difosfo-glukuronosiltransferazlar (UGT), efluks
+taşıyıcı P-glikoprotein (P-gp) ve influks organik katyon taşıyıcıları (OCT) OCT1, OCT2 ve
+OCT3 için bir substrattır. İnsan karaciğer mikrozomları ve rekombinant insan CYP enzimleri
+kullanılarak yapılan mirabegron çalışmaları, mirabegronun CYP2D6’nın orta derecede ve
+zamana bağlı ve CYP3A’nın zayıf bir inhibitörü olduğunu göstermiştir. Mirabegron, yüksek
+konsantrasyonlarda P-gp aracılığı ile yapılan ilaç taşınmasını inhibe eder.
+In vivo veriler
+CYP2D6 polimorfizm
+CYP2D6 genetik polimorfizmin, mirabegrona olan ortalama plazma maruz kalımı üzerine
+minimal etkisi bulunmaktadır (bkz. Bölüm 5.2). Mirabegronun bilinen bir CYP2D6 inhibitörü
+ile etkileşimi beklenmemektedir ve çalışılmamıştır. CYP2D6 inhibitörleri ile uygulandığında
+3/18veya CYP2D6 zayıf metabolizörleri olan hastalarda mirabegron için doz ayarlaması
+gerekmemektedir.
+İlaç-ilaç etkileşimleri
+Birlikte uygulanan tıbbi ürünlerin mirabegronun farmakokinetiği üzerine olan etkisi ve
+mirabegronun diğer tıbbi ürünlerin farmakokinetiği üzerine olan etkisi, tekli ve çoklu doz
+çalışmalarında incelenmiştir. En fazla ilaç-ilaç etkileşimleri, oral kontrollü emilim sistemi
+(OKES) tabletleri olarak verilen 100 mg mirabegron’luk dozu kullanılarak incelenmiştir.
+Mirabegronun metoprolol ve metformin ile etkileşim çalışmalarında, 160 mg mirabegron
+hemen salımlı (HS) tabletler kullanılmıştır.
+Mirabegronun, CYP2D6 substratlarının metabolizması üzerine inhibe edici etkisinin dışında,
+CYP izoenzimlerini veya taşıyıcılarını inhibe eden, indükleyen veya CYP izoenzimlerden
+veya taşıyıcılardan biri için bir substrat olan tıbbi ürünler ile mirabegron arasında klinik
+olarak ilişkili ilaç etkileşimleri beklenmemektedir.
+Enzim inhibitörlerinin etkisi
+Mirabegron maruz kalımı (EAA), sağlıklı gönüllülerde CYP3A/P-gp’in güçlü inhibitörü olan
+ketokonazolün varlığında, 1,8 kat artmıştır. BETMİGA’nın CYP3A ve/veya P-gp inhibitörleri
+ile kombine edildiğinde doz ayarlaması gerekmemektedir. Bununla birlikte, beraberinde
+itrakonazol, ketokonazol, ritonavir ve klaritromisin gibi güçlü CYP3A inhibitörlerini alan,
+hafif-orta derecede böbrek yetmezliği (GFR 30-89 mL/dak./1,73 m2) veya hafif karaciğer
+yetmezliği (Child-Pugh Sınıf A) olan hastalarda, önerilen doz yemeklerle birlikte veya aç
+karnına günde bir kez 25 mg’dır (bkz. Bölüm 4.2). BETMİGA, ciddi böbrek yetmezliği (GFR
+15 - 29 mL/dak./1,73 m2) olan veya beraberinde güçlü CYP3A inhibitörlerini alan orta
+derecede karaciğer (Child-Pugh Sınıf B) yetmezliği olan, hastalarda önerilmemektedir (bkz.
+Bölüm 4.2 ve 4.4).
+Enzim indükleyicilerin etkisi
+CYP3A veya P-gp indükleyicileri olan maddeler mirabegronun plazma konsantrasyonlarını
+azaltmaktadırlar. Terapötik dozlardaki rifampisin veya diğer CYP3A veya P-gp
+indükleyicileri ile uygulandığında, mirabegron için doz ayarlaması gerekmez.
+Mirabegronun CYP2D6 substratları üzerine etkisi
+Sağlıklı gönüllülerde, mirabegronun CYP2D6’ya karşı inhibe edici potensi orta derecededir
+ve CYP2D6 aktivitesi, mirabegronun kesilmesinden sonra 15 gün içinde geri kazanılır.
+Mirabegron IR’nin günde bir kez çoklu dozlaması, tek doz metoprololün C ’ında %90’lık
+maks
+ve EAA’sında %229’luk bir artış ile sonuçlanmıştır. Mirabegron’un günde bir kez çoklu
+dozlaması, tek doz desipraminin C ’ında %79’luk ve EAA’sında %241’lik bir artış ile
+maks
+sonuçlanmıştır.
+Mirabegron, tioridazin, Tip 1C antiaritmiler (örn. flekainid, propafenon) ve trisiklik
+antidepresanlar (örn. imipramin, desipramin) gibi dar bir terapötik indekse sahip ve önemli
+ölçüde CYP2D6 tarafından metabolize edilen tıbbi ürünler ile birlikte uygulandığında dikkatli
+olunması önerilmektedir. Mirabegron’un, tek tek doz titre edilen CYP2D6 substratları ile
+birlikte uygulandığında da dikkatli olunması önerilmektedir.
+Mirabegronun taşıyıcılar üzerine etkisi
+Mirabegron P-gp’nin zayıf bir inhibitörüdür. Mirabegron sağlıklı gönüllülerde, P-gp substratı
+olan digoksinin C ve EAA değerlerini sırası ile %29 ve %27 oranlarında artırmıştır.
+maks
+BETMİGA ve digoksin kombinasyonuna başlayan hastalar için başlangıçta digoksinin en
+4/18düşük dozu reçete edilmelidir. Serum digoksin konsantrasyonları izlenmeli ve istenilen klinik
+etkiyi elde etmek için digoksin dozunun titrasyonu için kullanılmalıdır. BETMİGA, örn.
+dabigatran gibi duyarlı P-gp substratları ile kombine edildiğinde, P-gp’nin mirabegron
+tarafından potansiyel inhibisyonu dikkate alınmalıdır.
+Diğer etkileşimler
+Mirabegron, terapötik dozlardaki solifenasin, tamsulosin, varfarin, metformin veya
+etinilestradiol ve levonorgestrel içeren kombine kontraseptif tıbbi ürünler ile birlikte
+uygulandığında, klinik olarak anlamlı etkileşimler gözlenmemiştir. Doz ayarlaması
+önerilmemektedir.
+İlaç-ilaç etkileşimlerine bağlı mirabegron maruziyetindeki artış, nabız sayısındaki artışlar ile
+ilişkilendirilebilir.
+4.6 Gebelik ve laktasyon
+Genel tavsiye:
+Gebelik kategorisi: C
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon)
+Hayvanlardaki çalışmalar üreme toksisitesini göstermiştir (bkz. Bölüm 5.3). BETMİGA,
+doğum kontrolü yöntemi kullanmayan, çocuk doğurma potansiyeli olan kadınlarda
+önerilmemektedir.
+Gebelik dönemi
+Mirabegronun gebe kadınlarda kullanımından elde edilen sınırlı sayıda veri bulunmaktadır.
+Hayvan çalışmaları üreme toksisitesini göstermiştir (bkz. Bölüm 5.3). İnsanlara yönelik
+potansiyel risk bilinmememektedir. BETMİGA, gebelik sırasında ve doğum kontrolü yöntemi
+kullanmayan, çocuk doğurma potansiyeli olan kadınlarda önerilmemektedir.
+Laktasyon dönemi
+Mirabegron kemirgenlerin sütüne geçmektedir ve bu nedenle insan sütünde de bulunması
+öngörülmektedir (bkz. Bölüm 5.3). Mirabegronun insanlardaki süt üretimi, insan sütünde
+bulunması veya anne sütü ile beslenen çocuklardaki etkilerini değerlendirmek üzere
+çalışmalar yapılmamıştır. BETMİGA laktasyon döneminde uygulanmamalıdır.
+Üreme yeteneği/Fertilite
+Mirabegronun, hayvanlardaki fertilite üzerine tedavi ile ilişkili etkileri bulunmamıştır (bkz.
+Bölüm 5.3). Mirabegronun insan fertilitesi üzerine etkisi belirlenmemiştir.
+4.7 Araç ve makine kullanma üzerindeki etkiler
+BETMİGA’nın araç ve makine kullanım yeteneği üzerine ihmal edilebilir derecede bir etkisi
+bulunmakta veya hiç etkisi bulunmamaktadır.
+5/184.8 İstenmeyen etkiler
+Güvenlilik Profili Özeti
+BETMİGA’nın güvenliliği, 5648’inin faz 2/3 klinik programında en az bir doz mirabegron
+aldığı ve 622’sinin en az 1 yıl boyunca (365 gün) BETMİGA aldığı, AAM’si (yakınmaları)
+olan 8433 hastada değerlendirilmiştir. 12 haftalık, faz 3 çift kör, plasebo kontrollü 3
+çalışmada hastaların %88’i tedaviyi BETMİGA ile tamamlamış ve hastaların %4’ü advers
+olaylardan ötürü tedaviyi kesmiştir. Advers olayların çoğu hafif-orta şiddette olmuştur.
+12 haftalık, faz 3 çift kör, plasebo kontrollü üç çalışma sırasında, BETMİGA 50 mg ile tedavi
+edilen hastalar için en yaygın olarak bildirilen advers reaksiyonlar taşikardi ve idrar yolu
+enfeksiyonlarıdır. Taşikardinin görülme sıklığı, BETMİGA 50 mg alan hastalarda %1,2
+olmuştur. BETMİGA 50 mg alan hastalarda taşikardi, hastaların %0,1’inin tedaviyi
+bırakmasına neden olmuştur. BETMİGA 50 mg alan hastalarda, idrar yolu enfeksiyonlarının
+görülme sıklığı %2,9 olmuştur. BETMİGA 50 mg alan hastaların hiçbirinde idrar yolu
+enfeksiyonları, tedaviyi bırakma nedeni olmamıştır. Ciddi advers reaksiyonlar atriyal
+fibrilasyonları içermektedir (%0,2).
+1 yıllık (uzun dönem) aktif kontrollü (muskarinik antagonist) çalışma sırasında gözlenen
+advers reaksiyonlar, 12 haftalık, faz 3 çift kör, plasebo kontrollü üç çalışmada gözlenenler ile
+tip ve şiddet açısından benzer olmuşlardır.
+Advers Etkilerin Liste Tablosu
+Aşağıdaki tablo, 12 haftalık, faz 3, çift kör plasebo kontrollü üç çalışmada, mirabegron ile
+gözlenen advers reaksiyonları yansıtmaktadır.
+Advers reaksiyonların sıklığı aşağıdaki gibi sıralanmıştır:
+Çok yaygın (≥1/10), yaygın (≥1/100 ila <1/10), yaygın olmayan (≥1/1000 ila <1/100), seyrek
+(≥1/10.000 ila <1/1000), çok seyrek (<1/10.000), bilinmeyen (Eldeki verilerden tahmin
+edilemez). Her sıklık grubu içinde, advers olaylar azalan ciddiyet derecesine göre ifade
+edilmiştir.
+6/18MedDRA Yaygın Yaygın olmayan Seyrek Çok seyrek Bilinmeyen
+Sistem Organ (Eldeki
+Sınıf verilerden
+tahmin
+edilemez)
+Enfeksiyon ve İdrar yolu Vajinal
+enfestasyonlar enfeksiyonu enfeksiyon
+Sistit
+Psikiyatrik Uykusuzluk*
+hastalıklar Zihin
+bulanıklığı*
+Sinir sistemi Baş ağrısı*
+hastalıkları Baş dönmesi*
+Göz Göz kapağı
+hastalıkları ödemi
+Kardiyak Taşikardi Çarpıntı
+hastalıkları Artiyal
+fibrilasyon
+Vasküler Hipertansif kriz*
+hastalıklar
+Gastrointestinal Bulantı* Dispepsi Dudak ödemi
+hastalıklar Konstipasyon* Gastrit
+Diyare*
+Deri ve Deri Ürtiker Lökositoklastik
+altı doku Döküntü vaskülit
+hastalıkları Makula döküntü Purpura
+Papüler döküntü Anjiyoödem*
+Kaşıntı
+Kas-iskelet Eklem şişliği
+bozuklukları,
+bağ dokusu ve
+kemik
+hastalıkları
+Böbrek ve idrar Üriner
+yolu Retansiyon*
+hastalıkları
+Üreme sistemi Vulvovajinal
+ve meme kaşıntı
+hastalıkları
+Araştırmalar Kan basıncında
+artış
+GGT’de artış
+AST’de artış
+ALT’de artış
+*Pazarlama sonrası deneyim sırasında gözlemlenen
+7/18Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar / risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir. (www.titck.gov.tr; e-
+posta: tufam@titck.gov.tr; tel: 0 800 314 00 08; faks: 0 312 218 35 99)
+4.9 Doz aşımı ve tedavisi
+Mirabegron 400 mg’a kadar olan tekli dozlarda sağlıklı gönüllülere uygulanmıştır. Bu dozda
+bildirilen advers olaylar, çarpıntı (6 gönüllüden 1’i) ve dakikada 100 nabız atımı (nabız
+dakika sayısı: NDS) aşan nabız sayısında artışı (6 gönüllüden 3’ü) içermektedir. 10 gün
+boyunca günde 300 mg’a kadar olan çoklu mirabegron dozları sağlıklı gönüllülere
+uygulandığında, nabız sayısında ve sistolik kan basıncında artışlar gözlenmiştir.
+Doz aşımı tedavisi semptomatik ve destekleyici olmalıdır. Doz aşımı durumunda nabız
+sayısının, kan basıncının ve EKG’nin izlenmesi önerilmektedir.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1 Farmakodinamik özellikler
+Farmakoterapötik grup: Ürolojikler, üriner antispazmotikler
+ATC Kodu: G04BD12
+Etki mekanizması
+Mirabegron bir potent ve seçici beta 3-adrenoreseptörü agonistidir. Mirabegron, sıçanda ve
+insan izole dokusunda mesane düz kas gevşemesi, sıçan mesane dokusunda siklik adenozin
+monofosfat (cAMP) konsantrasyonlarında artış ve sıçan üriner mesane fonksiyonu
+modellerinde mesane gevşetici etki göstermiştir.
+Mirabegron, aşırı mesane aktivitesi olan sıçan modellerinde idrar yapma basıncını veya
+rezidüel idrarı etkilemeksizin, idrar yapma başına ortalama idrar hacmini artırmış ve idrar
+yapmaksızın olan kasılmaların sıklığını azaltmıştır. Bir maymun modelinde mirabegron, idrar
+yapma sıklığında azalma göstermiştir. Bu sonuçlar, mirabegronun, mesanedeki beta 3-
+adrenoreseptörlerini uyararak idrar depolama fonksiyonunu artırdığını göstermektedir.
+İdrar depolama fazı sırasında, idrar mesanede biriktiğinde, sempatik sinir uyarımı hakim
+olmaktadır. Sinir terminallerinden noradrenalin salınarak, mesane kasında ağılıklı olarak beta
+adrenoreseptör aktivasyonuna yol açmakta ve böylece mesane düz kas gevşemesi
+sağlanmaktadır. İdrar yapma fazında, mesane ağırlıklı olarak parasempatik sinir sistemi
+kontrolü altındadır. Pelvik sinir terminallerinden salınan asetilkolin, kolinerjik M2 ve M3
+reseptörlerini stimüle ederek mesanenin kasılmasına yol açar. M2 yolunun aktivasyonu
+ayrıca, beta 3-adrenoreseptörünün indüklediği cAMP’deki artışları inhibe etmektedir. Bu
+nedenle, beta 3-adrenoreseptör uyarımı idrar yapma sürecine engel olmamaktadır. Bu durum,
+mirabegronun, idrar yapma başına idrar hacmini, idrar yapma basıncını veya rezidüel idrar
+hacmini etkilemeden, idrar yapmaksızın olan kasılmaların sıklığını azalttığı, sıçanlardaki
+kısmi üretral obstrüksiyon ile doğrulanmıştır.
+8/18Farmakodinamik etkiler
+Ürodinamikler
+Günde bir kez, 50 mg ve 100 mg dozlarındaki BETMİGA’nın 12 hafta boyunca alt üriner
+sistem semptomları (AÜSS) ve mesane çıkım obstrüksiyonu (MÇO) olan erkeklerde
+uygulanmasının sistometrik parametreler üzerine bir etkisi olmadığı, güvenliliği ve iyi tolere
+edildiği gösterilmiştir. Mirabegronun maksimum akış hızı ve maksimum akış hızındaki
+detrusor basıncı üzerine olan etkileri, alt üriner sistem semptomları (AÜSS) ve mesane çıkım
+obstrüksiyonu (MÇO) olan 200 erkek hastanın bulunduğu bu ürodinamik çalışmada
+değerlendirilmiştir. 50 mg ve 100 mg’lık dozlardaki mirabegronun 12 hafta süre ile
+uygulanması, maksimum akış hızını ve maksimum akış hızındaki detrusor basıncını olumsuz
+yönde etkilememiştir. Bu çalışmadaki alt üriner sistem semptomları (AÜSS) ve mesane çıkım
+obstrüksiyonu (MÇO) olan erkek hastalarda, idrar sonrası rezidüel hacimde (ml), başlangıçtan
+tedavinin sonuna kadar olan düzeltilmiş ortalama değişiklik (OD), plasebo, mirabegron 50 mg
+ve mirabegron 100 mg için 0,55 (10,702), 17,89 (10,190), 30,77 (10,598) olmuştur.
+QT aralığının etkisi
+Cinsiyete göre veya genel grup olarak değerlendirildiğinde, 50 ve 100 mg dozlardaki
+BETMİGA’nın, kalp hızı (QTcI aralığı) için ayrı ayrı düzeltilmiş QT aralığı üzerine etkisi
+olmamıştır.
+Tam bir QT çalışmasında (TQT) (ortalama 33 yaşında, n= 164 sağlıklı erkek ve n= 153
+sağlıklı kadın gönüllü), endikasyonda önerilen dozda (günde 50 mg tek doz) ve iki, tedavi
+edici dozun üzerindeki dozda (supra-terapötik dozda) (günde 100 ve 200 mg tek doz)
+mirabegronun tekrar oral dozlamasının QTcI aralığı üzerine etkisini değerlendirilmiştir.
+Supra-terapötik dozlar, terapötik dozun sırası ile yaklaşık 2,6 ve 6,5 katı etkiyi
+göstermektedir. Pozitif kontrol olarak 400 mg’lık tek doz moksifloksasin kullanılmıştır.
+Mirabegronun ve moksifloksasinin her doz seviyesi, her birinin plasebo kontrolü içerdiği ayrı
+tedavi kollarında değerlendirilmiştir (paralel çapraz geçişli çalışma). 50 mg ve 100 mg
+mirabegronun uygulandığı hem erkekler, hem de kadınlar için tek taraflı %95 güven aralığının
+üst sınırı, QTcI aralığında plasebodan olan en büyük zaman-eşleşmeli ortalama fark için her
+hangi bir zaman noktasında 10 milisaniyeyi aşmamıştır.
+50 mg’lık dozda mirabegron uygulanan kadınlarda, dozdan 5 saat sonra, QTcI aralığı üzerine
+plasebodan olan ortalama fark 3,67 milisaniye olmuştur (tek taraflı %95 GA’nın üst sınırı
+5,72 milisaniye). Erkeklerde fark 2,89 milisaniye olmuştur (tek taraflı %95 GA’nın üst sınırı
+4,9 milisaniye).
+Erkeklerde, 200 mg’lık mirabegron dozundaki QTcI aralığı herhangi bir zaman noktasında 10
+msan.’yi aşmamışken kadınlarda tek taraflı %95 güven aralığının üst sınırı, 0,5–6 saat
+arasında 10 milisaniyeyi aşmıştır, ortalama etkinin 10,42 milisaniye olduğu 5 saatte
+plasebodan maksimum fark meydana gelmiştir (tek taraflı %95 güven aralığının üst sınırı
+13,44 milisaniye). QTcF ve QTcIf sonuçları QTcI ile uyumlu olmuştur. Bu TQT çalışmasında
+mirabegron, incelenen 50-200 mg’lık doz aralığında, EKG’de kalp hızını doza bağlı bir
+şekilde artırmıştır. Sağlıklı gönüllülerde kalp hızındaki, plasebodan olan maksimum ortalama
+fark, mirabegron 50 mg ile 6,7 nabız dakika sayısından (NDS)mirabegron 200 mg ile 17,3
+NDS’ye kadar olan aralıkta değişiklik göstermiştir.
+9/18AAM’si olan hastalarda nabız sayısı ve kan basıncı üzerine etkiler
+12 haftalık faz 3, çift kör, plasebo kontrollü çalışmalarda günde bir kez BETMİGA 50 mg
+alan AAM hastalarında (ortalama 59 yaşındaki), nabız dakika sayısı için ortalama farkta
+plasebodan yaklaşık 1 NDS artış ve sistolik kan basıncı/diastolik kan basıncında (SKB/DKB)
+ise yaklaşık 1 mmHg’lık veya daha az bir artış gözlenmiştir. Nabız dakika sayısındaki ve kan
+basıncındaki değişim, tedavinin kesilmesi ile tersinirdir.
+İntraoküler basınç (İOB) üzerine etki
+Günde bir kez 100 mg mirabegron, 56 günlük tedavinin ardından sağlıklı gönüllülerdeki
+IOB’yi artırmamıştır. 310 sağlıklı gönüllüde Goldmann aplanasyon tonometresi kullanarak
+mirabegronun IOB üzerine etkisini değerlendiren bir faz 1 çalışmasında, 100 mg’lık bir
+mirabegron dozu, gönüllü-ortalama IOB’de başlangıçtan 56. güne kadar olan ortalama
+değişiklikteki tedavi farkına ilişkin birincil sonlanma noktası için plasebodan aşağı
+olmamıştır; mirabegron 100 mg ve plasebo arasındaki tedavi farkının iki taraflı %95 güven
+aralığının üst sınırı 0,3 mmHg olmuştur.
+Klinik etkililik ve güvenlilik
+BETMİGA’nın etkililiği, inkontinans olmaksızın veya inkontinans ile birlikte acillik ve sıklık
+semptomplarının olduğu aşırı aktif mesane tedavisi için 12 haftalık, faz 3 randomize, çift kör,
+plasebo kontrollü üç çalışmada değerlendirilmiştir. Ortalama 59 yaşındaki (18-95 yaş
+aralığında) kadın (%72) ve erkek (%28) hastalar dahil edilmiştir.
+Çalışma popülasyonu, daha önce antimuskarinik ilaçlarla tedavi edilmiş yaklaşık %52
+hastanın yanı sıra, hiç antimuskarinik tedavisi almamış yaklaşık %48 hastadan oluşmuştur.
+Bir çalışmada, 495 hasta bir aktif kontrol almıştır (tolterodin uzatılmış salımlı formülasyon).
+Eş-birincil (Co-primer) etkililik sonlanma noktaları (1) 24 saatteki inkontinans olaylarının
+ortalama sayısındaki başlangıçtan tedavinin sonuna kadar olan değişiklik, (2) 3 günlük idrar
+yapma günlüğüne dayanılarak 24 saatteki ortalama idrar yapma sayısındaki başlangıçtan
+tedavi sonuna kadar olan değişikliktir. Mirabegron, hem eş-birincil sonlanım noktaları, hem
+de ikincil sonlanım noktaları için plasebo ile kıyasla istatistiksel olarak daha anlamlı
+gelişmeler göstermiştir (bkz. Tablo 2 ve 3).
+Tablo 2: Havuzlanmış Çalışmalar için Tedavinin Sonundaki Eş-birincil ve Seçilmiş
+İkincil Etkililik Sonlanım Noktaları
+Parametre Havuzlanmış Çalışmalar (046, 047, 074)
+Plasebo Mirabegron 50 mg
+24 saat içindeki inkontinans epizotlarının ortalama sayısı (FAS-I) (Eş-birincil)
+n 878 862
+Ortalama başlangıç 2,73 2,71
+Başlangıçtan olan ortalama değişim † -1,1 -1,49
+Plasebodan olan ortalama fark † (%95 GA) … -0,4 (-0,58, -0,21)
+p-değeri … <0,001#
+24 saat içindeki ortalama idrar yapma sayısı (FAS) (Eş-birincil)
+n 1328 1324
+Ortalama başlangıç 11,58 11,7
+Başlangıçtan olan ortalama değişim † -1,2 -1,75
+Plasebodan olan ortalama fark † (%95 GA) … -0,55 (-0,75 , -0,36)
+p-değeri … <0,001#
+İdrar yapma başına ortalama idrar hacmi (ml) (FAS) (İkincil)
+10/18n 1328 1322
+Ortalama başlangıç 159,2 159
+Başlangıçtan olan ortalama değişim † 9,4 21,4
+Plasebodan olan ortalama fark † (%95 GA) … 11,9 (8,3 , 15,5)
+p-değeri … <0,001#
+Ortalama aciliyet seviyesi (FAS) (İkincil)
+n 1325 1323
+Ortalama başlangıç 2,39 2,42
+Başlangıçtan olan ortalama değişim † -0,15 -0,26
+Plasebodan olan ortalama fark † (%95 GA) … -0,11 (-0,16, -0,07)
+p-değeri … <0,001#
+24 saat içindeki aciliyet inkontinans epizotlarının ortalama sayısı (FAS-I) (İkincil)
+n 858 834
+Ortalama başlangıç 2,42 2,42
+Başlangıçtan olan ortalama değişim † -0,98 -1,38
+Plasebodan olan ortalama fark † (%95 GA) … -0,4 (-0,57 , -0,23)
+p-değeri … <0,001#
+24 saat içindeki aciliyet dereceleri 3 veya 4 olan epizotların ortalama sayısı (FAS) (İkincil)
+n 1324 1320
+Ortalama başlangıç 5,61 5,8
+Başlangıçtan olan ortalama değişim † -1,29 -1,93
+Plasebodan olan ortalama fark † (%95 GA) … -0,64 (-0,89 , -0,39)
+p-değeri … <0,001#
+Tedavi memnuniyeti – görsel analog ölçeği (FAS) (İkincil)
+n 1195 1189
+Ortalama başlangıç 4,87 4,82
+Başlangıçtan olan ortalama değişim † 1,25 2,01
+Plasebodan olan ortalama fark † (%95 GA) … 0,76 (0,52 , 1,01)
+p-değeri … <0,001*
+Havuzlanmış çalışmalar, 046 (Avrupa/Avustralya), 047 (Kuzey Amerika [NA]) ve 074 (Avrupa / NA)
+çalışmalarından oluşmuştur.
+† Başlangıç, cinsiyet ve çalışma için düzeltilmiş en küçük kareler ortalaması
+* Çeşitlilik (çokluk) ayarlaması olmaksızın 0,05 seviyesinde plasebo ile kıyasla istatiksel olarak anlamlı üstünlük
+# Çeşitlilik (çokluk) ayarlamasının olduğu 0,05 seviyesinde plasebo ile kıyasla istatiksel olarak anlamlı üstünlük.
+FAS: Tam analiz seti; çift kör çalışma ilacından en az 1 doz alan ve başlangıçta ve en az 1 başlangıç sonrası
+ziyarette bir idrar yapma ölçümünün olduğu tüm randomize hastalar.
+FAS-I: Başlangıçta en az 1 inkontinans epizotu olmuş olan FAS altkümesi.
+GA: Güven aralığı.
+Tablo 3: 046, 047 ve 074 Çalışmaları için Tedavi Sonunda Eş-birincil ve Seçilmiş İkincil
+Etkililik Sonlanım Noktaları
+Parametre Çalışma 046 Çalışma 047 Çalışma 074
+Plasebo Mirabegron Tolterodin Plasebo Mirabegron Plasebo Mirabegron
+50 mg ER 4 mg 50 mg 50 mg
+24 saat içindeki inkontinans epizotlarının ortalama sayısı (FAS-I) (Eş-birincil)
+n 291 293 300 325 312 262 257
+Ortalama 2,67 2,83 2,63 3,03 2,77 2,43 2,51
+başlangıç
+Başlangıçtan olan -1,17 -1,57 -1,27 -1,13 -1,47 -0,96 -1,38
+ortalama değişim
+†
+Plasebodan olan … -0,41 -0,1 … -0,34 … -0,42
+ortalama fark †
+%95 Güven … (-0,72 , (-0,42 , … (-0,66 , … (-0,76 ,
+aralığı -0,09) 0,21) -0,03) -0,08)
+p-değeri … 0,003# 0,11 … 0,026# … 0,001#
+11/1824 saat içindeki idrar yapma sayısının ortalaması (FAS) (Eş-birincil)
+n 480 473 475 433 425 415 426
+Ortalama 11,71 11,65 11,55 11,51 11,8 11,48 11,66
+başlangıç
+Başlangıçtan olan -1,34 -1,93 -1,59 -1,05 -1,66 -1,18 1,6
+ortalama değişim
+†
+Plasebodan olan … -0,6 -0,25 … -0,61 … -0,42
+ortalama fark †
+%95 Güven … (-0,9 , (-0,55 , … (-0,98 , … (-0,76 ,
+aralığı -0,29) 0,06) -0,24) -0,08)
+p-değeri … <0,001# 0,11 … 0,001# … 0,015#
+İdrar yapma başına ortalama yapılan idrar hacmi (ml) (FAS) (İkincil)
+n 480 472 475 433 424 415 426
+Ortalama 156,7 161,1 158,6 157,5 156,3 164,0 159,3
+başlangıç
+Başlangıçtan olan 12,3 24,2 25,0 7,0 18,2 8,3 20,7
+ortalama değişim
+†
+Plasebodan olan … 11,9 12,6 … 11,1 … 12,4
+ortalama fark †
+%95 Güven … (6,3 , 17,4) (7,1 , 18,2) … (4,4 , 17,9) … (6,3 , 18,6)
+aralığı
+p-değeri … <0,001# <0,001* … 0,001# … <0,001#
+Ortalama aciliyet seviyesi (FAS) (İkincil)
+n 480 472 473 432 425 413 426
+Ortalama 2,37 2,4 2,41 2,45 2,45 2,36 2,41
+başlangıç
+Başlangıçtan olan -0,22 -0,31 -0,29 -0,08 -0,19 -0,15 -0,29
+ortalama değişim
+†
+Plasebodan olan … -0,09 -0,07 … -0,11 … -0,14
+ortalama fark †
+%95 Güven … (-0,17 , (-0,15 , … (-0,18 … (-0,22 ,
+aralığı -0,02) 0,01) -0,04) -0,06)
+p-değeri … 0,018* 0,085 … 0,004* … <0,001‡
+24 saat içindeki acil inkontinans epizotlarının ortalama sayısı (FAS-I) (İkincil)
+n 283 286 289 319 297 256 251
+Ortalama 2,43 2,52 2,37 2,56 2,42 2,24 2,33
+başlangıç
+Başlangıçtan olan -1,11 -1,46 -1,18 -0,89 -1,32 -0,95 -1,33
+ortalama değişim
+†
+Plasebodan olan … -0,35 -0,07 … -0,43 … -0,39
+ortalama fark †
+%95 Güven … (-0,65 , (-0,38 , … (-0,72 , … (-0,69 ,
+aralığı -0,05) 0,23) -0,15) -0,08)
+p-değeri … 0,003* 0,26 … 0,005* … 0,002‡
+24 saat içindeki aciliyet dereceleri 3 veya 4 olan epizotların ortalama sayısı (FAS) (İkincil)
+n 479 470 472 432 424 413 426
+Ortalama 5,78 5,72 5,79 5,61 5,9 5,42 5,8
+başlangıç
+Başlangıçtan olan -1,65 -2,25 -2,07 -0,82 -1,57 -1,35 -1,94
+ortalama değişim
+†
+Plasebodan olan … -0,6 -0,42 … -0,75 … -0,59
+ortalama fark †
+%95 Güven … (-1,02 , (-0,84 , … (-1,2 , … (-1,01 ,
+aralığı -0,18) -0,00) -0,3) -0,16)
+12/18p-değeri … 0,005* 0,05* … 0,001* … 0,007‡
+Tedavi memnuniyeti – görsel analog ölçeği (FAS) (İkincil)
+n 428 414 25 390 387 377 388
+Ortalama 4,11 3,95 3,87 5,5 5,4 5,13 5,13
+başlangıç
+Başlangıçtan olan 1,89 2,55 2,44 0,7 1,5 1,05 1,88
+ortalama değişim
+†
+Plasebodan olan … 0,66 0,55 … 0,8 … 0,83
+ortalama fark †
+%95 Güven … (0,25 , (0,14 , … (0,4 , 1,3) … (0,41 ,
+aralığı 1,07) 0,95) 1,25)
+p-değeri … 0,001* 0,008* … <0,001* … <0,001*
+† Başlangıç, cinsiyet ve coğrafi bölge için düzeltilmiş en küçük kareler ortalaması.
+* Çeşitlilik (çokluk) ayarlaması olmaksızın 0,05 seviyesinde plaseboya göre istatiksel olarak anlamlı üstünlük
+# Çeşitlilik (çokluk) ayarlamasının olduğu 0,05 seviyesinde plaseboya göre istatiksel olarak anlamlı üstünlük.
+‡ Çeşitlilik (çokluk) ayarlamasının olduğu 0,05 seviyesinde plaseboya göre istatiksel olarak anlamlı olmayan
+üstünlük
+FAS: Tam analiz seti; çift kör çalışma ilacından en az 1 doz alan ve başlangıçta ve en az 1 başlangıç sonrası
+ziyarette bir idrar yapma ölçümünün olduğu tüm randomize hastalar.
+FAS-I: Başlangıçta en az 1 inkontinans epizodu olmuş olan FAS altkümesi.
+Günde bir kez BETMİGA 50 mg, 4. haftanın ölçülen ilk zaman noktasında etkili olmuştur ve
+etkililik 12 haftalık tedavi süresince korunmuştur. Aktif kontrollü, randomize bir uzun dönem
+çalışması etkililiğin 1 yıllık bir tedavi periyodu boyunca korunduğunu göstermiştir.
+Sağlıkla ilişkili yaşam kalitesi ölçümlerindeki sübjektif gelişim
+12 haftalık faz 3 çift kör, plasebo kontrollü üç çalışmada, günde bir kez mirabegron ile AAM
+semptomlarının tedavisi, sağlıkla ilişkili yaşam kalitesi (tedavi memnuniyeti ve semptom
+sıkıntısı) ölçümleri üzerine plaseboya göre istatistiksel olarak anlamlı bir gelişme ile
+sonuçlanmıştır.
+Daha önce AAM antimuskarinik tedavi almış veya almamış hastalarda etkililik
+Daha önce AAM antimuskarinik tedavisi almış veya almamış hastalarda etkililik
+gösterilmiştir. İlave olarak mirabegron, yetersiz etki nedeni ile daha önce AAM
+antimuskarinik tedavisini bırakmış olan hastalarda da etki göstermiştir (bkz. Tablo 4).
+Tablo 4: Daha önce AAM antimuskarinik tedavisi almış hastalar için eş-birincil etkililik
+sonlanım noktaları
+Parametre Havuzlanmış çalışmalar Çalışma 046
+(046, 047, 074)
+Plasebo Mirabegron 50 Plasebo Mirabegron 50 Tolterodin
+mg mg ER 4 mg
+Daha önce AAM antimuskarinik tedavisi almış hastalar
+24 saat içindeki inkontinans epizotlarının ortalama sayısı (FAS-I)
+n 518 506 167 164 160
+Ortalama başlangıç 2,93 2,98 2,97 3,31 2,86
+Başlangıçtan olan ortalama -0,92 -1,49 -1,00 -1,48 -1,1
+değişim †
+Plasebodan olan ortalama fark † … -0,57 … -0,48 -0,1
+%95 Güven aralığı … (-0,81 , -0,33) … (-0,9 , -0,06) (-0,52 , 0,32)
+24 saat içindeki idrar yapma sayısının ortalaması (FAS)
+n 704 688 238 240 231
+Ortalama başlangıç 11,53 11,78 11,9 11,85 11,76
+Başlangıçtan olan ortalama -0,93 -1,67 -1,06 -1,74 -1,26
+değişim †
+13/18Plasebodan olan ortalama fark † … -0,74 … -0,68 -0,2
+%95 Güven aralığı … (-1,01 , -0,47) … (-1,12 , -0,25) (-0,64 , 0,23)
+Daha önce AAM antimuskarinik tedavisi almış olup yetersiz etkiden ötürü tedaviyi bırakmış olan hastalar
+24 saat içindeki inkontinans epizotlarının ortalama sayısı (FAS-I)
+n 336 335 112 105 102
+Ortalama başlangıç 3,03 2,94 3,15 3,5 2,63
+Başlangıçtan olan ortalama -0,86 -1,56 -0,87 -1,63 -0,93
+değişim †
+Plasebodan olan ortalama fark † … -0,7 … -0,76 -0,06
+%95 Güven aralığı … (-1,01, -0,38) … (-1,32, -0,19) (-0,63, 0,5)
+24 saat içindeki idrar yapma sayısının ortalaması (FAS)
+n 466 464 159 160 155
+Ortalama başlangıç 11,6 11,67 11,89 11,49 11,99
+Başlangıçtan olan ortalama -0,86 -1,54 -1,03 -1,62 -1,11
+değişim †
+Plasebodan olan ortalama fark † … -0,67 … -0,59 -0,08
+%95 Güven aralığı … (-0,99 , -0,36) … (-1,15 , -0,04) (-0,64 , 0,47)
+Havuzlanmış çalışmalar, 046 (Avrupa/Avustralya), 047 (Kuzey Amerika [NA]) ve 074 (Avrupa / NA)
+çalışmalarından oluşmuştur.
+† Başlangıç, cinsiyet, çalışma, alt grup ve Havuzlanmış Çalışmalar için tedavi etkileşimi ile alt grup için
+düzeltilmiş en küçük kareler ortalaması ve başlangıç, cinsiyet, coğrafi bölge, alt grup ve Çalışma 046 için tedavi
+etkileşimi ile alt grup için düzeltilmiş en küçük kareler ortalaması
+FAS: Tam analiz seti; çift kör çalışma ilacından en az 1 doz alan ve başlangıçta ve en az 1 başlangıç sonrası
+ziyarette bir idrar yapma ölçümünün olduğu tüm randomize hastalar.
+FAS-I: Başlangıçta en az 1 inkontinans epizodu olmuş olan FAS altkümesi.
+Pediyatrik popülasyon
+Avrupa İlaç Ajansı, “İdiyopatik aşırı aktif mesane tedavisi”nde ve “Nörojenik detrusor aşırı
+aktivitesi tedavisi”ndeki pediyatrik popülasyona ilişkin bir veya daha fazla alt kümede,
+BETMİGA ile yapılan çalışmaların sonuçlarını sunma zorunluluğunu ertelemiştir (pediyatrik
+kullanıma ilişkin bilgiler için bkz. Bölüm 4.2).
+5.2 Farmakokinetik özellikler
+Genel özellikler
+Emilim:
+Sağlıklı gönüllülerde mirabegron, oral uygulamayı takiben, emilerek, 3 ila 4 saat arasında
+doruk plazma konsantrasyonlarına (C ) ulaşır. Mutlak biyoyararlanım 25 mg’lık dozda
+maks
+%29’dan, 50 mg’lık dozda %35’e kadar artış göstermiştir. Ortalama C ve EAA doz
+maks
+aralığında doz oransallığından daha fazla artış göstermiştir. Kadınların ve erkeklerin
+bulunduğu genel popülasyonda, 50 mg mirabegrondan 100 mg mirabegrona olan dozdaki 2
+kat artış, C ’ı ve EAA’yı sırası ile yaklaşık olarak 2,9 ve 2,6 kat artırmıştır; bunun yanında,
+maks
+50 mg mirabegrondan 200 mg mirabegrona olan dozdaki 4 kat artış C ’ı ve EAA’yı
+maks
+yaklaşık olarak 8,4 ve 6,5 kat artırmıştır. Kararlı durum konsantrasyonlarına, mirabegronun
+günde bir kez verilmesi ile 7 gün içinde ulaşılmaktadır. Günde bir kez uygulamanın ardından,
+mirabegronun kararlı durumdaki plazma maruz kalımı, tekli doz uygulamasının ardından
+görülen maruz kalımın yaklaşık iki katı olmuştur.
+Besinlerin emilim üzerine etkisi
+50 mg tabletin yüksek yağlı yiyecekler ile birlikte uygulanması mirabegronun C ve EAA
+maks
+değerlerini sırası ile %45 ve %17 oranlarında azaltmıştır. Düşük yağlı yiyecekler
+mirabegronun C ve EAA değerlerini sırası ile %75 ve %51 oranlarında azaltmıştır. Faz 3
+maks
+14/18çalışmalarında, mirabegron yiyeceklerle birlikte veya yiyecek olmaksızın uygulanmıştır ve
+hem güvenlilik hem de etkililik göstermiştir. Bu nedenle, mirabegron önerilen dozlarda
+yemeklerle birlikte veya aç karnına alınabilir.
+Dağılım:
+Mirabegron geniş ölçüde dağılım gösterir. Kararlı durumdaki dağılım hacmi (V ) yaklaşık
+ss
+1670 litredir. Mirabegron insan plazma proteinlerine bağlanır (yaklaşık %71) ve albümin ve
+alfa-1 asit glikoproteini için orta derecede afinite gösterir. Mirabegron eritrositlere dağılır.
+14C-mirabegron’un in vitro eritrosit konsantrasyonları plazmadakinden yaklaşık 2 kat daha
+yüksek olmuştur.
+Biyotransformasyon:
+Mirabegron; dealkilasyonu, oksidasyonu, (doğrudan) glukuronidasyonu ve amid hidrolizini
+kapsayacak şekilde birden çok yolla metabolize olur. Mirabegron, 14C-mirabegronun tekli
+dozunun ardından dolaşımdaki ana bileşendir. İnsan plazmasında iki majör metabolit
+gözlenmiştir; her ikisi de toplam maruz kalımın %16’sını ve %11’ini temsil eden faz 2
+glukuronidlerdir. Bu metabolitler farmakolojik olarak aktif değillerdir.
+In vitro çalışmalara dayanılarak, mirabegronun aşağıdaki sitokrom P450 enzimleri ile
+metabolize olan birlikte uygulandığı tıbbi ürünlerin metabolizmasını inhibe etmesi olası
+değildir: CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19 ve CYP2E1, çünkü mirabegron
+klinik olarak kullanıldığı konsantrasyonlarda bu enzimlerin aktivitesini inhibe etmemiştir.
+Mirabegron CYP1A2’yi veya CYP3A’yı indüklememiştir. Mirabegronun OCT-aracılı ilaç
+transferinin ilişkin klinik açıdan anlamlı inhibisyonuna neden olmaması öngörülmektedir.
+In vitro çalışmalar, mirabegronun oksidatif metabolizmasında CYP2D6 ve CYP3A4 için bir
+rol öne sürdükleri halde, in vivo sonuçlar bu izoenzimlerin genel eliminasyonda sınırlı bir rol
+oynadığını göstermektedir. In vitro ve ex vivo çalışmalar, mirabegronun metabolizmasında
+CYP3A4 ve CYP2D6’ya ilave olarak, butirilkolinestreaz’ın, UGT’nin ve muhtemelen alkol
+dehidrojenaz’ın rol aldığını göstermiştir.
+CYP2D6 polimorfizmi
+CYP2D6 substratlarının (CYP2D6 inhibisyonu için yedek olarak kullanılan) genotipik olarak
+yavaş metabolize eden sağlıklı gönüllülerde, mirabegron IR formülasyonunun 160 mg’lık
+tekli dozuna ilişkin ortalama C ve EAA değerleri, hızlı metabolize eden kişilere ait
+maks
+değerlerden %14 ve %19 daha yüksek olmuştur. Bu da CYP2D6’nın genetik polimorfizminin,
+mirabegrona olan ortalama plazma maruz kalımı üzerine minimal bir etkisi olduğunu
+göstermektedir. Mirabegronun bilinen CYP2D6 inhibitörleri ile etkileşimi beklenmemektedir
+ve çalışılmamıştır. CYP2D6 inhibitörleri ile uygulandığında veya CYP2D6 yavaş metabolize
+eden hastalarda mirabegron için doz ayarlaması gerekmemektedir.
+Eliminasyon:
+Plazmadan gelen toplam vücut klirensi (CL ) yaklaşık 57 l/sa’dır. Terminal eliminasyon
+tot
+yarılanma ömrü (t ) yaklaşık 50 saattir. Renal klirens (CLR) yaklaşık 13 L/sa’tir ve CL ’un
+1/2 tot
+hemen hemen %25’ine karşılık gelmektedir. Mirabegronun renal eliminasyonu öncelikle,
+glomerüler filtrasyonun beraberinde aktif tübüler sekresyon ile olmaktadır. Değişmemiş
+mirabegronun üriner atılımı doza bağlıdır ve 25 mg’lık günlük dozun ardından %6 ila 100
+mg’lık bir günlük dozun ardından %12,2 aralığında değişiklik göstermektedir. 160 mg 14C-
+mirabegron’un sağlıklı gönüllülere uygulanmasından sonra, idrarda yaklaşık %55’lik ve
+feçesde ise %34’lük radyoaktif iz saptanmıştır. Değişmemiş mirabegron üriner
+15/18radyoaktivitenin %45’inden sorumlu olmuştur, bu da metabolitlerin olduğunu göstermektedir.
+Değişmemiş mirabegron, fekal radyoaktivitenin çoğunluğundan sorumlu olmuştur.
+Hastalarda karakteristik özellikler
+Yaş:
+Yaşlı gönüllülerde (≥ 65 yaş) çoklu oral dozların ardından mirabegronun ve metabolitlerinin
+C ve EAA değerleri genç gönüllüler (18-45 yaş) ile benzer olmuştur.
+maks
+Cinsiyet:
+Kadınlardaki C ve EAA değerleri erkeklerdekinden yaklaşık %40-%50 daha yüksektir.
+maks
+C ve EAA değerlerindeki cinsiyet farklılıkları, vücut ağırlığı ve biyoyararlanımdaki
+maks
+farklılıklara bağlanmaktadır.
+Irk:
+Irk, mirabegronun farmakokinetiğini etkilememektedir.
+Böbrek yetmezliği:
+100 mg BETMİGA’nın hafif böbrek yetmezliği (eGFR-MDRD 60-89 mL/dak/1,73 m2) olan
+gönüllülere tekli doz halinde uygulamasının ardından, ortalama mirabegron C ve EAA
+maks
+değerleri, normal böbrek fonksiyonları olan gönüllülere nazaran %6 ve %31 artmıştır. Orta
+derecede böbrek yetmezliği (eGFR-MDRD 30-59 mL/dak/1,73 m2) olan gönüllülerde C
+maks
+ve EAA değerleri sırası ile %23 ve %66 artmıştır.
+Ciddi böbrek yetmezliği (eGFR-MDRD 15- 29 mL/dak/1,73 m2) olan gönüllülerde ortalama
+C ve EAA değerleri %92 ve %118 daha yüksek olmuştur. Mirabegron, son safha böbrek
+maks
+hastalığı olan hastalarda çalışılmamıştır (GFR < 15 mL/dak/1,73 m2 veya hemodiyaliz
+gerektiren hastalar).
+Karaciğer yetmezliği:
+Hafif derecede karaciğer yetmezliği (Child-Pugh Sınıf A), olan gönüllülerde 100 mg
+BETMİGA’nın tekli doz olarak uygulanmasının ardından ortalama mirabegron C ve EAA
+maks
+değerleri, normal karaciğer fonksiyonları olan gönüllülere nazaran %9 ve %19 artmıştır. Orta
+derecede karaciğer yetmezliği olan gönüllülerde (Child-Pugh Sınıf B), ortalama C ve EAA
+maks
+değerleri %175 ve %65 daha yüksek olmuştur. Mirabegron ciddi karaciğer yetmezliği olan
+hastalarda çalışılmamıştır (Child-Pugh Sınıf C).
+5.3 Klinik öncesi güvenlilik verileri
+Klinik öncesi çalışmalar, klinik gözlemler ile uyumlu olan, toksisiteye ilişkin hedef organları
+tanımlamıştır. Sıçanlarda karaciğer enzimlerinde geçici artışlar ve hepatosit değişiklikler
+(glikojen partiküllerinde azalma ve nekroz) görülmüştür. Sıçanlarda, tavşanlarda, köpeklerde
+ve maymunlarda kalp hızında bir artış görülmüştür. Genotoksisite ve karsinojenite
+çalışmaları, in vivo genotoksik veya karsinojenik potansiyeli olmadığını göstermiştir. Subletal
+dozlarda (insan eşdeğer dozu önerilen maksimum insan dozundan (MHRD) 19 kat fazla
+olmuştur) fertilite üzerine etkiler görülmemiştir. Tavşan embriyofetal gelişim çalışmalarındaki
+ana bulgular, MHRD’de gözlenenden 36 kat daha yüksek olan sistemik maruz kalımlarda,
+kalp malformasyonlarını (dilate aorta, kardiyomegali) içermiştir. İlave olarak, tavşanlarda,
+MHRD’de gözlenenden 14 kat daha yüksek olan sistemik maruz kalımlarda akciğer
+malformasyonlarında (akciğerin aksesuar lobunun yokluğu) ve implantasyon sonrası kayıpta
+16/18artış gözlenmiştir. Bunun yanında sıçanda, MHRD’de gözlenenden 22 kat daha yüksek olan
+sistemik maruz kalımlarda, kemikleşme üzerine tersinir etkiler belirtilmiştir (dalgalı kaburga,
+gecikmiş kemikleşme, kemikleşmiş sternebrae sayısında azalma, metakarpi veya metatarsi).
+Gözlenen embriyofetal toksisite, maternal toksisite ile ilişkili dozlarda meydana gelmiştir.
+Tavşanda gözlenen kardiyovasküler malformasyonların beta 1-adrenoseptör’ün aktivasyonu
+aracılığı ile olduğu gösterilmiştir.
+Radyoaktif olarak etiketlenmiş mirabegron ile yapılan farmakokinetik çalışmalar, ana
+bileşiğin ve/veya metabolitlerinin, sıçanların sütüne, uygulamadan 4 saat sonraki plazma
+seviyelerinden yaklaşık 1,7 kat daha yüksek seviyelerde geçtiğini göstermiştir (bkz. Bölüm
+4.6).
+6. FARMASÖTİK ÖZELLİKLER
+6.1 Yardımcı maddelerin listesi
+Çekirdek tablet
+Makrogoller
+Hidroksipropilselüloz
+Butilhidroksitoluen
+Magnezyum stearat
+Film kaplama
+Hipromelloz
+Makrogol
+Sarı demir oksit (E172)
+Kırmızı demir oksit (172)
+6.2 Geçimsizlikler
+Geçerli değil.
+6.3 Raf ömrü
+36 ay
+6.4 Saklamaya yönelik özel tedbirler
+30 0C altındaki oda sıcaklığında saklanmalıdır.
+6.5 Ambalajın Niteliği ve İçeriği
+Kutular içinde 10 tablet, 20 tablet, 30 tablet, 50 tablet, 60 tablet, 90 tablet, 100 tablet içeren
+Alu-Alu blister.
+6.6 Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+Kullanılmamış olan ürünler ya da atık materyaller “Tıbbi Atıkların Kontrolü Yönetmeliği” ve
+“Ambalaj ve Ambalaj Atıklarının Kontrolü Yönetmelik”lerine uygun olarak imha edilmelidir.
+7. RUHSAT SAHİBİ
+Astellas Pharma İlaç Ticaret ve Sanayi A.Ş.
+Esentepe Mah. Bahar Sk.
+Özdilek River Plaza Vyndham Grand Blok
+No:13 İç Kapı No:39
+34394 Şişli, İstanbul
+17/18Tel: (0212) 440 08 00
+Faks: (0212) 438 36 71
+8. RUHSAT NUMARASI
+2016/ 683
+9. İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi: 29.09.2016
+Ruhsat yenileme tarihi:
+10. KÜB’ÜN YENİLENME TARİHİ
+14.05.2020
+18/18

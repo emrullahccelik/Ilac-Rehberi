@@ -1,0 +1,1603 @@
+KISA ÜRÜN BİLGİSİ
+Bu ilaç ek izlemeye tabidir. Bu üçgen yeni güvenlilik bilgisinin hızlı olarak belirlenmesini
+sağlayacaktır. Sağlık mesleği mensuplarının şüpheli advers reaksiyonları TÜFAM’a
+bildirmeleri beklenmektedir. Bakınız Bölüm 4.8 Advers reaksiyonlar nasıl raporlanır?
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+KANJİNTİ® 150 mg infüzyonluk çözelti hazırlamada kullanılacak konsantre için toz
+Steril
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde:
+Herbir flakon 150 mg trastuzumab içerir. 1 mL konsantre çözelti 21 mg trastuzumab içerir.
+Trastuzumab, memeli (Çin hamster yumurtalığı) hücre süspansiyon kültüründen üretilen ve
+özel viral inaktivasyon ve uzaklaştırma işlemlerini içeren iyon değişim ve afinite
+kromotografisi ile saflaştırılan biyobenzer bir humanize IgGI monoklonal antikorudur.
+Yardımcı madde(ler):
+Yardımcı maddeler için 6.1’e bakınız.
+3. FARMASÖTİK FORM
+İnfüzyonluk çözelti hazırlamada kullanılacak konsantre için toz.
+Liyofilize toz, beyaz ila açık sarı renktedir.
+4. KLİNİK ÖZELLİKLER
+4.1 Terapötik endikasyonlar
+Meme kanseri
+Metastatik Meme Kanseri (MMK):
+KANJİNTİ®, HER2’yi yüksek düzeyde eksprese eden (immünohistokimya ile 3+ veya FISH
++) metastatik meme kanserli hastaların tedavisinde aşağıdaki durumlarda endikedir:
+a) Metastatik hastalığı için bir veya daha çok kez kemoterapi gören hastaların
+tedavisinde tek ajan olarak.
+b) Metastatik hastalığı için kemoterapi görmemiş hastaların tedavisinde paklitaksel veya
+dosetaksel ile kombine olarak.
+Erken Evre Meme Kanseri (EEMK):
+İmmünohistokimyasal yöntemlerle HER2 (+++) veya FISH/CISH yöntemi ile HER2 (+)
+meme kanserli hastaların adjuvant veya neoadjuvant tedavisinde endikedir. Bu alanda
+kullanımda aşağıdaki hasta özellikleri esas alınmalıdır:
+1-Lenf nodu tutulumu olan veya lokal ileri hastalık bulguları olan hastaların neoadjuvant
+tedavisinde
+2-Lenf nodu tutulumu olan hastaların adjuvant tedavisinde
+3-Lenf nodu tutulumu olmayan hastalarda, aşağıdaki bulgulardan biri olması durumunda
+1a) Hormon reseptörlerin negatif olması
+b) Tümör büyüklüğünün 2 cm’den fazla olması
+c) Grad 2 veya 3 olması
+d) Yaşın 35’den küçük olması
+İleri Evre Gastrik Kanser:
+HER2 neu pozitifliği, hem immunhistokimyasal yöntemle +2/+3 ve hem FISH-CISH ile
+pozitif olarak saptanan metastatik mide veya özofagogastrik bileşke yerleşimli adenokanserli
+ve daha önce metastatik hastalığı için kemoterapi uygulanmamış olan hastalarda sisplatin ile
+kapesitabin ya da 5-Florourasil içeren kemoterapi rejimleri ile kombine olarak kullanımı
+endikedir. Doğru ve valide edilmiş tayin yöntemleri kullanılmalıdır (bkz. bölüm 4.4 ve 5.1).
+4.2 Pozoloji ve uygulama şekli
+Pozoloji/uygulama sıklığı ve süresi:
+KANJİNTİ® tedavisine başlamadan önce HER2 testi yapılması şarttır. KANJİNTİ® tedavisi
+sadece sitotoksik kemoterapi uygulamalarında deneyimli klinisyen tarafından başlatılmalıdır
+ve yalnızca bir doktor veya hemşire tarafından uygulanmalıdır.
+Metastatik meme kanseri
+Haftalık doz rejimi:
+Yükleme dozu:
+Başlangıç için önerilen 4 mg/kg vücut ağırlığı yükleme dozundaki KANJİNTİ®, 90 dakikalık
+intravenöz infüzyon olarak uygulanır.
+Sonraki dozlar:
+Önerilen, haftalık idame KANJİNTİ® dozu 2 mg/kg (vücut ağırlığı)’dır. Başlangıçtaki
+yükleme dozu iyi tolere edilirse, doz 30 dakikalık infüzyon olarak uygulanabilir.
+3 haftalık doz rejimi:
+Başlangıç için önerilen 8 mg/kg (vücut ağırlığı) yükleme dozu ve 3 hafta sonrasında 3 haftalık
+aralıklarla tekrarlanan 6 mg/kg (vücut ağırlığı) doz 90 dakika süresince infüzyon olarak
+uygulanır. Başlangıçtaki yükleme dozu iyi tolere edilirse, doz 30 dakikalık infüzyon olarak
+uygulanabilir.
+Paklitaksel veya dosetaksel ile kombine olarak uygulanması:
+Pivotal çalışmalarda (H0648g, M77001), ilk doz trastuzumabı takiben ve önceki trastuzumab
+dozu iyi tolere edilmiş ise uygulanan sonraki trastuzumab dozlarının hemen akabinde,
+paklitaksel veya dosetaksel uygulanmıştır.
+Erken evre meme kanseri
+2Haftalık doz rejimi:
+Yükleme dozu:
+Başlangıç için önerilen 4 mg/kg vücut ağırlığı yükleme dozundaki KANJİNTİ®, 90 dakikalık
+intravenöz infüzyon olarak uygulanır.
+Sonraki dozlar:
+Önerilen, haftalık idame KANJİNTİ® dozu 2 mg/kg (vücut ağırlığı)’dır. Başlangıçtaki
+yükleme dozu iyi tolere edilirse, doz 30 dakikalık infüzyon olarak uygulanabilir.
+3 haftalık doz rejimi:
+Başlangıç için önerilen 8 mg/kg (vücut ağırlığı) yükleme dozu ve 3 hafta sonrasında 3
+haftalık aralıklarla tekrarlanan 6 mg/kg (vücut ağırlığı) doz 90 dakika süresince infüzyon
+olarak uygulanır. Başlangıçtaki yükleme dozu iyi tolere edilirse, doz 30 dakikalık infüzyon
+olarak uygulanabilir.
+İleri evre gastrik kanser
+3 haftalık doz rejimi:
+Başlangıç için önerilen 8 mg/kg (vücut ağırlığı) yükleme dozu ve 3 hafta sonrasında 3 haftalık
+aralıklarla tekrarlanan 6 mg/kg (vücut ağırlığı) doz 90 dakika süresince infüzyon olarak
+uygulanır. Başlangıçtaki yükleme dozu iyi tolere edilirse, doz 30 dakikalık infüzyon olarak
+uygulanabilir.
+Tedavi süresi:
+Klinik çalışmalarda, metastatik meme kanserli veya ileri evre gastrik kanserli hastalar,
+hastalık progresyonuna kadar trastuzumab ile tedavi edilmişlerdir. Erken evre meme kanserli
+hastalar 1 yıl boyunca veya hastalık progresyonuna kadar (hangisi önce ortaya çıkarsa) tedavi
+edilmelidir. Erken evre meme kanseri HER2 IHC ile 3+ veya FISH/CISH ile pozitif olan
+hastaların adjuvan tedavisinde bir yılı aşmayacak şekilde hekimin uygun göreceği süre kadar
+kullanılmalıdır. Hastalık progresyonunda kullanılmaz. Hekim hasta ve hastalıkla ilgili
+nedenlerle tedaviyi daha erken sonlandırabilir.
+Kaçırılan dozlar:
+Eğer hasta, bir hafta ya da daha kısa bir süre KANJİNTİ® dozunu kaçırırsa, her zamanki
+KANJİNTİ® idame dozu (haftalık rejimde 2 mg/kg; 3 haftalık rejimde 6 mg/kg) en kısa
+sürede verilmelidir. Bir sonraki planlanan tarih beklenmemelidir. Sonraki KANJİNTİ® idame
+dozları (haftalık rejimde 2 mg/kg; 3 haftalık rejimde 6 mg/kg) haftalık veya 3 haftalık doz
+rejimine uygun olarak 7 gün ya da 21 gün sonra uygulanmaya devam edilmelidir.
+Eğer hasta, bir haftadan fazla bir süre için KANJİNTİ® dozunu kaçırırsa en kısa sürede
+KANJİNTİ® yükleme dozu (haftalık rejimde 4 mg/kg; 3 haftalık rejimde 8 mg/kg) 90 dakika
+süresince tekrar verilmelidir. Müteakip KANJİNTİ® idame dozları (haftalık rejimde 2 mg/kg;
+33 haftalık rejimde 6 mg/kg) o noktadan itibaren (haftalık rejimde: her hafta; 3 haftalık
+rejimde: 3 haftada bir) uygulanmaya devam edilmelidir.
+Doz azaltımı:
+Klinik çalışmalar sırasında trastuzumab dozunda hiçbir azaltma yapılmamıştır. Hastalar
+reverzibl, kemoterapinin indüklediği miyelosupresyon dönemlerinde KANJİNTİ® tedavisine
+devam edebilirler, fakat bu süre içerisinde hastalar, nötropeni komplikasyonlarının oluşumuna
+karşı dikkatle takip edilmelidirler. Kemoterapinin azaltılması veya doza ara verilmesi ile ilgili
+spesifik talimatlara uyulmalıdır.
+Eğer sol ventrikül ejeksiyon fraksiyonu (LVEF) için düşüş oranı, başlangıç değerinden 10
+birim ya da daha fazlasıysa ve %50’nin altına düşüyorsa, tedavi durdurulmalı ve yaklaşık 3
+hafta içerisinde yeniden LVEF değerlendirmesi yapılmalıdır. LVEF değeri düzelmiyorsa veya
+daha da azalıyorsa veya semptomatik kardiyak yetmezlik gelişirse, hastanın tedaviden elde
+edeceği fayda riskten fazla olmadığı sürece KANJİNTİ® tedavisinin sona erdirilmesi ciddi
+olarak düşünülmelidir. Bu gibi hastalar, bir kardiyolog tarafından değerlendirilmek üzere sevk
+edilmeli ve takip edilmelidir.
+Uygulama şekli:
+KANJİNTİ® yükleme dozu 90 dakikalık intravenöz infüzyon olarak uygulanmalıdır.
+İntravenöz yükleme veya bolus olarak uygulanmamalıdır. KANJİNTİ® intravenöz infüzyonu
+anaflaksiyi yönetecek şekilde hazırlanmış bir sağlık mesleği mensubu tarafından
+uygulanmalıdır ve bir acil durum kiti bulunmalıdır. Hastalar ilk infüzyonun başlangıcından 6
+saat sonrasına ve devam eden infüzyonların başlangıcından 2 saat sonrasına kadar ateş ve
+titreme gibi semptomlar ve infüzyonla ilişkili diğer semptomlar için gözlenmelidir. Ara verme
+veya infüzyon hızını azaltma bu çeşit semptomların kontrol altına alınmasına yardımcı
+olabilir. Semptomlar hafiflediğinde infüzyona devam edilebilir. Eğer başlangıç dozu iyi tolere
+edilirse, devam eden dozlar 30 dakikalık infüzyon şeklinde uygulanabilir. Uygulamadan önce
+KANJİNTİ®’nin rekonstitüsyon talimatı için ‘bölüm 6.6 Beşeri tıbbi üründen arta kalan
+maddelerin imhası ve diğer özel önlemler’ bölümüne bakınız.
+Özel popülasyonlara ilişkin ek bilgiler:
+Böbrek/Karaciğer yetmezliği:
+Özel bir kullanım durumu bulunmamaktadır.
+Pediyatrik popülasyon:
+Pediyatrik hastalarda trastuzumabın güvenliliği ve etkililiği belirlenmemiştir.
+Pediyatrik popülasyonda KANJİNTİ®’nin kullanımı yoktur.
+Geriyatrik popülasyon:
+Veriler trastuzumabın atılımının yaşa göre değişmediğini ortaya koymaktadır (bkz. bölüm 5.2
+Farmakokinetik özellikler; Hastalardaki karakteristik özellikler). Klinik çalışmalarda, yaşlı
+hastalarda trastuzumab dozu azaltılmamıştır.
+44.3 Kontrendikasyonlar
+Trastuzumab, murin proteinleri veya KANJİNTİ®’nin içerisinde bulunan yardımcı
+maddelerden herhangi birine karşı aşırı duyarlılık.
+İlerlemiş maligniteye bağlı olarak dinlenme esnasında ciddi dispne veya destekleyici oksijen
+tedavisi gereksinimi.
+4.4 Özel kullanım uyarıları ve önlemleri
+Diğer tüm terapötik proteinlerde olduğu gibi KANJİNTİ® için de potansiyel immunojenesite
+riski söz konusudur.
+HER2 testi, test prosedürlerinin mutlaka uygun validasyon koşullarını sağlayan uzman
+laboratuvarlarda yaptırılmalıdır (bkz. bölüm 5.1 Farmakodinamik özellikler).
+Adjuvan koşullarda daha önce trastuzumab kullanmış olan hastaların, trastuzumab ile yeniden
+tedavi edilmesine ilişkin klinik çalışmalardan elde edilmiş veri bulunmamaktadır.
+Kardiyak fonksiyon bozukluğu
+Genel bilgiler
+KANJİNTİ® ile tedavi edilen hastalarda kalp yetmezliği (New York Kalp Birliği [NYHA]
+Sınıf II-IV) veya asemptomatik kardiyak fonksiyon bozukluğu riski daha yüksektir. Bu
+durumlar tek başına veya paklitaksel ya da dosetaksel ile kombinasyon halinde, özellikle
+antrasiklin (doksorubisin veya epirubisin) içeren kemoterapi ardından trastuzumab alan
+hastalarda gözlenmiştir. Bu orta ila ileri derecede olabilir ve ölüm ile ilişkilendirilmiştir (bkz.
+bölüm 4.8 İstenmeyen etkiler). İlave olarak, artmış kardiyak riski bulunan hastaların (örn.
+hipertansiyon, koroner arter hastalığı, kalp yetmezliği (CHF), LVEF< %55, ileri yaş) tedavisi
+sırasında çok dikkat edilmelidir.
+KANJİNTİ® ile tedavi edilmeye aday hastalar, özellikle önceden antrasikline ve
+siklofosfamide (AC) maruz kalanlar, anamnez ve fiziksel muayene, EKG, ekokardiyogram
+ve/veya multigated acquisition (MUGA) taraması veya manyetik rezonans görüntüleme içeren
+kapsamlı temel kardiyak incelemelerine tabi tutulmalıdır. Monitorizasyon, kardiyak bozukluk
+geliştirme ihtimali olan hastaların saptanmasına yardımcı olabilir. Başlangıçta yapılan
+kardiyak değerlendirmeler, tedavi sırasında her 3 ayda bir, tedavinin bitiminin ardından ise
+her 6 ayda bir, son KANJİNTİ® uygulamasından sonraki 24. aya kadar tekrarlanmalıdır.
+KANJİNTİ® ile tedaviye karar verilmeden önce dikkatli bir risk-yarar değerlendirmesi
+yapılmalıdır.
+Trastuzumab, tüm mevcut verilerin popülasyon farmakokinetik analizine dayanarak
+KANJİNTİ® tedavisinin sonlandırılmasının ardından 7 aya kadar dolaşım sisteminde kalabilir
+(bkz. bölüm 5.2 Farmakokinetik özellikler). KANJİNTİ® tedavisinin sonlandırılmasından
+sonra antrasiklin tedavisi alan hastalar kardiyak fonksiyon bozukluğu bakımından yüksek risk
+altında olabilirler. Eğer mümkünse, hekimler KANJİNTİ® tedavisi sonlandırıldıktan sonra 7.
+aya kadar antrasiklin bazlı tedaviden kaçınmalıdır. Antrasiklinler kullanılıyorsa, hastanın
+kardiyak işlevi dikkatle gözlenmelidir.
+5Başlangıçtaki taramanın ardından kardiyovasküler endişelerin bulunduğu hastalarda resmi
+kardiyolojik değerlendirme dikkate alınmalıdır. Tüm hastalarda kardiyak işlev tedavi boyunca
+(her 12 haftada bir) gözlenmelidir. Bu gözlem, kardiyak işlev bozukluğu gelişen hastaların
+saptanmasına yardımcı olabilir. Asemptomatik kardiyak işlev bozukluğu gelişen hastalarda
+daha sık gözlem (her 6-8 haftada bir) faydalı olabilir. Eğer hastalarda sol ventriküler işlevde
+düşüş devam ediyor ancak asemptomatik olarak kalıyorsa ve hastalar KANJİNTİ®
+tedavisinden klinik fayda göremiyorsa tedavinin kesilmesi düşünülmelidir.
+Kardiyak fonksiyon bozukluğu yaşayan hastalarda trastuzumab kullanımına devam edilmesi
+veya yeniden başlanmasının güvenliliği prospektif olarak çalışılmamıştır. Eğer LVEF düşüş
+oranı, başlangıç değerinden 10 birim ya da daha fazlasıysa ve %50’nin altına düşüyorsa,
+tedavi durdurulmalı ve yaklaşık 3 hafta içerisinde yeniden LVEF değerlendirmesi
+yapılmalıdır. LVEF değeri düzelmiyorsa veya daha da azalıyorsa veya semptomatik kardiyak
+yetmezlik gelişirse, hastanın tedaviden elde edeceği fayda riskten fazla olmadığı sürece
+KANJİNTİ® tedavisinin sona erdirilmesi ciddi olarak düşünülmelidir. Bu gibi hastalar, bir
+kardiyolog tarafından değerlendirilmek üzere sevk edilmeli ve takip edilmelidir.
+KANJİNTİ® tedavisi sırasında semptomatik kardiyak yetmezlik gelişirse, kalp yetmezliği için
+standart tedavi seçenekleriyle tedavi edilmelidir. Pivotal çalışmalarda kalp yetmezliği veya
+asemptomatik, kardiyak fonksiyon bozukluğu gelişen çoğu hasta, anjiyotensin dönüştürücü
+enzim (ACE) inhibitörü veya anjiyotensin reseptör blokeri (ARB) ve bir betablokör içeren
+standart tıbbi tedaviyle iyileşmiştir. Kardiyak semptomları olan ve trastuzumab tedavisinden
+klinik fayda gören hastaların çoğu, ilave klinik kardiyak olaylar yaşamaksızın trastuzumab
+tedavisine devam etmiştir.
+Metastatik meme kanseri:
+Metastatik meme kanserinde KANJİNTİ® ve antrasiklinler kombinasyon halinde eş zamanlı
+verilmemelidir.
+Daha önce antrasiklin alan metastatik meme kanserli hastalar ayrıca KANJİNTİ® tedavisi ile
+kardiyotoksisite riski altındadır ancak bu risk KANJİNTİ® ve antrasiklinlerin eş zamanlı
+kullanımıyla oluşan riskten düşüktür.
+Erken evre meme kanseri (EEMK):
+Erken evre meme kanseri hastalarında kardiyak değerlendirme, başlangıçta yapıldığı şekilde
+tedavi boyunca her 3 ayda bir ve en son KANJİNTİ® uygulamasından itibaren 24 ay boyunca
+her 6 ayda bir tekrarlanmalıdır. Antrasiklin içeren kemoterapi gören hastalarda daha fazla
+gözlem yapılması önerilmektedir. Son KANJİNTİ® uygulamasından itibaren 5 yıl boyunca
+veya LVEF’te devam eden düşüş gözleniyorsa daha uzun süre boyunca yılda bir kez gözlem
+yapılmalıdır.
+Miyokard enfarktüs (MI), tıbbi tedavi gerektiren angina pectoris, geçmişte veya halihazırda
+devam eden kalp yetmezliği (NYHA sınıf II-IV), LVEF < %55, diğer kardiyomiyopatiler,
+tıbbi tedavi gerektiren kardiyak aritmi, klinik açıdan önemli valvüler hastalık, aktif olarak
+kontrol edilmeyen hipertansiyon (standart, uygun tıbbi tedaviyle kontrol edilen hipertansiyonu
+olan hastalar uygun) ve hemodinamik etkili perikardiyal efüzyon geçmişi olan hastalar,
+trastuzumab ile yapılan adjuvan ve neoadjuvan EEMK pivot çalışmalarına dahil edilmemiştir
+ve bu sebeple bu hastalarda tedavi önerilmemektedir.
+6Adjuvan tedavi:
+KANJİNTİ® ve antrasiklinler kombinasyon halinde adjuvan tedavide eş zamanlı
+verilmemelidir.
+EEMK hastalarında trastuzumabın antrasiklin içeren kemoterapi sonrasında uygulanması ile,
+antrasiklin içermeyen dosetaksel ve karboplatinli rejimle uygulanması karşılaştırıldığında,
+semptomatik ve asemptomatik kardiyak olayların insidansında artış gözlenmiştir. İnsidans,
+trastuzumab taksanlarla eş zamanlı uygulandığında, taksanlar sonrasında uygulanmasına
+kıyasla daha belirgin olmuştur. Kullanılan tedavi rejiminden bağımsız olarak, semptomatik
+kardiyak olayların çoğu ilk 18 ay içinde meydana gelmiştir. Yapılan üç pivotal çalışmadan,
+5,5 yıllık medyan takip verileri bulunan birinde (BCIRG006), iki karşılaştırma kolunda
+(antrasiklin artı siklofosfamid ardından taksan ve taksan, karboplatin ve trastuzumab) yaklaşık
+%1 oranına kıyasla antrasiklin tedavisi ardından bir taksan ile eş zamanlı trastuzumab
+uygulanan hastalarda semptomatik kardiyak veya LVEF olaylarının kümülatif oranında
+%2,37 sürekli artış gözlenmiştir.
+Kardiyak olaylarla ilgili risk faktörleri dört büyük adjuvan çalışmada, ileri yaş (> 50 yaş),
+paklitaksel tedavisinin başlangıcında, tedavinin başlatılmasının önce veya sonraki düşük
+LVEF (< %55) seviyesi, LVEF’nin 10-15 puan düşmesi ve öncesinde veya eş zamanlı anti
+hipertansif tıbbi ilaçların kullanılması olarak saptanmıştır. Adjuvan kemoterapinin
+tamamlanmasının ardından trastuzumab alan hastalarda, kardiyak fonksiyon bozukluk riski,
+trastuzumabın başlanmasından önce kullanılan yüksek kümülatif doz antrasiklin ve vücut kitle
+indeksi ile (VKİ) > 25 kg/m2 ilişkili olduğu düşünülmektedir.
+Neoadjuvan-adjuvan tedavi:
+Neoadjuvan-adjuvan tedaviye uygun EEMK hastaları için, KANJİNTİ® antrasiklinlerle eş
+zamanlı olarak sadece kemoterapi-naif hastalarda ve sadece düşük doz antrasiklin rejimleri ile
+birlikte kullanılmalıdır (maksimum kümülatif dozlar: 180 mg/m2 doksorubisin veya
+360 mg/m2 epirubisin).
+Eğer hastalar neoadjuvan koşulda tam kür düşük doz antrasiklinlerle ve KANJİNTİ® ile eş
+zamanlı olarak tedavi edilmişse, cerrahiden sonra ilave sitotoksik kemoterapi verilmemelidir.
+Diğer durumlarda, ilave sitotoksik kemoterapi ihtiyacı olup olmadığına dair karar bireysel
+faktörlere göre verilir.
+Trastuzumabın düşük doz antrasiklin rejimi ile eş zamanlı uygulanması ile ilgili deneyim iki
+çalışma ile sınırlıdır (MO16432 ve BO22227).
+Pivot çalışma MO16432’de trastuzumab, üç siklus doksorubisin (kümülatif doz 180 mg/m2)
+içeren neoadjuvan kemoterapi ile eşzamanlı uygulanmıştır.
+Trastuzumab kolundaki semptomatik kardiyak fonksiyon bozukluğu insidansı %1,7’dir.
+Pivot çalışma BO22227; eş primer farmakokinetik ve etkililik sonlanım noktaları (sırasıyla,
+8.siklus doz öncesi trastuzumab C ve kesin cerrahide pCR oranı) doğrultusunda
+çukur
+trastuzumab subkütan formülasyonuyla tedavinin, trastuzumab intravenöz formülasyonu
+tedavisine göre eşit etkili olduğunu göstermek üzere tasarlanmıştır. Pivot çalışma
+BO22227’de trastuzumab dört siklus epirubisin (kümülatif doz 300 mg/m2) içeren neoadjuvan
+7kemoterapiyle eşzamanlı uygulanmıştır; 70 ayı aşan bir medyan takipte, intravenöz
+trastuzumab kolunda kalp yetmezliği / konjestif kalp yetmezliği insidansı %0,3 olarak
+belirlenmiştir.
+Neoadjuvan-adjuvan kurulumda klinik deneyim 65 yaş üzeri hastalar ile sınırlıdır.
+İnfüzyonla ilişkili reaksiyonlar (IRR’ler) ve aşırı duyarlılık:
+Trastuzumab infüzyonu ile dispne, hipotansiyon, hırıltı, hipertansiyon, bronkospazm,
+supraventriküler taşiaritmi, düşük oksijen saturasyonu, anafilaksi, solunum zorluğu, ürtiker ve
+anjiyoödemi de içeren infüzyonla ilişkili ciddi reaksiyonlar (IRR) raporlanmıştır (bkz. bölüm
+4.8 İstenmeyen etkiler). Bu olayların oluşma riskini önlemek için pre-medikasyon yapılabilir.
+Bu olayların büyük bölümü ilk infüzyon sırasında veya ilk infüzyonun başlangıcından sonra
+2,5 saat içinde meydana gelir. İnfüzyon reaksiyonu oluşması halinde infüzyon durdurulmalı
+veya infüzyon hızı yavaşlatılmalıdır ve gözlenen tüm semptomlar ortadan kalkana kadar hasta
+gözlenmelidir (bkz. bölüm 4.2 Pozoloji ve uygulama şekli). Bu semptomlar meperidin veya
+parasetamol gibi bir analjezik/antipiretik ile veya difenhidramin gibi bir antihistaminik ile
+tedavi edilebilirler. Hastaların büyük bölümünde semptomlar kaybolmuş ve ardından, sonraki
+trastuzumab infüzyonları uygulanmıştır. Ciddi reaksiyonlar oksijen, beta agonistleri ve
+kortikosteroid gibi destekleyici tedavilerle başarılı bir şekilde tedavi edilmmektedir. Nadir
+vakalarda, bu reaksiyonlar ölümcül sonuçlar doğuran klinik süreçle ilişkilendirilmektedir.
+İlerlemiş malignansi ve komorbidite komplikasyonlarına bağlı olarak, dinlenme esnasında
+dispne yaşayan hastalar, artan ölümcül infüzyon reaksiyonu riski altındadır. Bu nedenle, bu
+hastalar KANJİNTİ® ile tedavi edilmemelidir (bkz. bölüm 4.3 Kontrendikasyonlar ).
+Başlangıçta iyileşmenin ardından klinik kötüleşme ve hızlı klinik kötüleşmeyle birlikte
+gecikmiş reaksiyonlar da bildirilmiştir. Ölümler, infüzyonun ardından saatler içinde ve bir
+haftaya kadar olan sürede gerçekleşmiştir. Çok nadir durumlarda, hastalar trastuzumab
+infüzyonunun başlangıcı ardından altı saatten fazla süre sonra infüzyon semptomları ve
+pulmoner semptomlar yaşamıştır. Hastalar bu tip geç başlangıç olabileceği konusunda
+uyarılmalı ve bu semptomların oluşması halinde hekimleriyle temasa geçmeleri
+söylenmelidir.
+Pulmoner olaylar:
+Trastuzumabın pazarlama sonrası koşullarda kullanımı ile birlikte şiddetli pulmoner olaylar
+bildirilmiştir (bkz. bölüm 4.8 İstenmeyen etkiler). Bu olaylar zaman zaman ölümcül sonuçlar
+doğurmuştur. Buna ek olarak; akciğer infiltratları, akut solunum zorluğu sendromu, pnömoni,
+pnömonit, plevral efüzyon, solunum zorluğu, akut pulmoner ödem ve solunum yetmezliğini
+de içeren interstisyel akciğer hastalığı vakaları bildirilmiştir. İnterstisyel akciğer hastalığı ile
+ilişkili risk faktörleri, ilişkili olduğu bilinen taksanlar, gemsitabin, vinorelbin ve radyasyon
+tedavisi gibi diğer anti-neoplastik tedavilerle geçmişte veya eş zamanlı tedaviyi içerir. Bu
+olaylar infüzyonla ilişkili reaksiyonların bir parçası olarak veya sonradan ortaya
+çıkabilmektedir. İlerlemiş malignansi ve komorbidite komplikasyonlarına bağlı olarak,
+dinlenme esnasında dispne yaşayan hastalar pulmoner olaylar açısından yüksek risk altında
+olabilirler. Bu nedenle bu hastalar KANJİNTİ® ile tedavi edilmemelidir (bkz. bölüm 4.3
+Kontrendikasyonlar). Özellikle taksanlarla eş zamanlı tedavi edilmekte olan hastalarda
+pnömonit açısından dikkatli olunmalıdır.
+8Biyobenzer ürünlerin takip edilebilirliğinin sağlanması için uygulanan ürünün ticari ismi ve
+seri numarası mutlaka hasta dosyasına kaydedilmelidir.
+4.5 Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+Resmi bir ilaç etkileşim çalışması gerçekleştirilmemiştir. Klinik çalışmalarda trastuzumab ve
+eşzamanlı kullanılan tıbbi ürünler arasında klinik olarak anlamlı etkileşimler gözlenmemiştir.
+Trastuzumabın diğer antineoplastik ajanların farmakokinetik özellikleri üzerindeki etkisi:
+HER2-pozitif metastatik meme kanserli kadınlarda yapılan BO15935 ve M77004
+çalışmalarından elde edilen farmakokinetik veriler, paklitaksel ve doksorubisine (ve
+metabolitleri 6-α hidroksi-paklitaksel, POH ve doksorubisinol, DOL) maruziyetin
+trastuzumab varlığında (8 mg/kg veya 4 mg/kg IV yükleme dozu ardından sırasıyla 6 mg/kg 3
+haftada 1 kez veya 2 mg/kg haftada 1 kez IV) değişmediğini göstermektedir.
+Bununla birlikte trastuzumab, bir doksorubisin metabolitine (7-deoksi-13 dihidro-
+doksorubisinon, D7D) genel maruziyeti artırabilir. D7D’nin biyoaktivitesi ve bu metabolitin
+klinik etkisi bilinmemektedir.
+HER2-pozitif metastatik meme kanserli Japon kadınlarda, trastuzumab (4 mg/kg IV yükleme
+dozu ve 2 mg/kg IV haftalık) ve dosetakseli (60 mg/m2 IV) içeren tek kollu bir çalışma olan
+JP16003 çalışması, trastuzumabın eş zamanlı uygulamasının dosetakselin tek doz
+farmakokinetik özellikleri üzerinde etkisi olmadığını göstermiştir. JP19959 çalışması
+BO18255 çalışmasının (ToGA) alt çalışması olup, ileri evre gastrik kanserli kadın ve erkek
+Japon hastalarda, trastuzumabla birlikte veya trastuzumab olmaksızın kullanılan kapesitabin
+ve sisplatinin farmakokinetik özelliklerinin araştırılmasına yönelik bir çalışmadır. Bu küçük
+alt çalışmadan elde edilen veriler, kapesitabinin biyoaktif metabolitlerine (örn. 5-FU)
+maruziyetin, sisplatin veya sisplatin artı trastuzumab ile eş zamanlı kullanımından
+etkilenmediğini ortaya koymaktadır. Bununla birlikte, trastuzumab ile kombine edildiğinde
+kapesitabinin kendisi daha yüksek konsantrasyonlar ve daha uzun bir yarılanma ömrü
+göstermiştir. Veriler ayrıca sisplatinin farmakokinetiğinin, kapesitabin veya kapesitabin artı
+trastuzumab ile eş zamanlı kullanımından etkilenmediğini ortaya koymaktadır.
+Metastatik veya lokal ileri, opere edilemeyen HER2 pozitif kanser hastalarındaki
+H4613g/GO01305 çalışmasından elde edilen farmakokinetik veriler, trastuzumabın
+karboplatin PK’sı üzerinde etkisi olmadığını göstermektedir.
+Antineoplastik ajanların trastuzumabın farmakokinetiği üzerindeki etkisi:
+Trastuzumab monoterapisinden (4 mg/kg yükleme/2 mg/kg haftada 1 kez IV) sonra simüle
+serum trastuzumab konsantrasyonları ve HER2 pozitif metastatik meme kanserli Japon
+kadınlarda (çalışma JP16003) gözlenen serum konsantrasyonları karşılaştırıldığında, eş
+zamanlı dosetaksel uygulamasının, trastuzumab farmakokinetiği üzerinde PK etkisine ilişkin
+kanıt belirlenmemiştir.
+HER2 pozitif MMK olan kadınlarda, iki Faz II çalışmanın (BO15935 ve M77004) ve
+hastalara eş zamanlı trastuzumab ve paklitaksel uygulanan bir Faz III çalışmanın (H0648g) ve
+trastuzumabın monoterapi olarak uygulandığı iki Faz II çalışmanın (W016229 ve MO16982)
+PK bulguları karşılaştırıldığında, ayrı ve ortalama trastuzumab düşük nokta serum
+9konsantrasyonlarının çalışmalar içinde ve arasında farklılık gösterdiği fakat eş zamanlı
+paklitaksel uygulamasının trastuzumab farmakokinetik özellikleri üzerinde açık etkisi
+olmadığı gözlenmiştir. HER2-pozitif metastatik meme kanserli kadınlarda eş zamanlı
+trastuzumab, paklitaksel ve doksorubisin ile tedavi edildiği M77004 çalışmasına ait
+trastuzumb farmakokinetik verileri ile trastuzumabın monoterapi olarak uygulandığı H0649g
+çalışmasına veya antrasiklin artı siklofosfamid veya paklitaksel ile kombinasyon halinde
+uygulandığı H0648g çalışmasına ait farmakokinetik verilerinin karşılaştırılması sonucunda
+doksorubisin ve paklitakselin trastuzumabın farmakokinetiği üzerinde hiçbir etkiye sahip
+olmadığı gösterilmiştir.
+H4613g/GO01305 çalışmalarından elde edilen farmakokinetik veriler ile karboplatinin
+trastuzumab farmakokinetiği üzerinde hiçbir etkiye sahip olmadığı gösterilmiştir.
+Eş zamanlı anastrozol uygulanmasının trastuzumab farmakokinetiği üzerinde etkisi olmadığı
+görülmüştür.
+Özel popülasyonlara ilişkin ek bilgiler:
+Özel popülasyonlara ilişkin herhangi bir etkileşim çalışması yapılmamıştır.
+Pediyatrik popülasyon:
+Pediyatrik popülasyona ilişkin herhangi bir etkileşim çalışması yapılmamıştır.
+4.6 Gebelik ve laktasyon
+Genel tavsiye
+Gebelik kategorisi: D
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon):
+Çocuk sahibi olma potansiyeli olan kadınlara KANJİNTİ® ile tedavileri boyunca ve
+KANJİNTİ® tedavisi sonlandırıldıktan sonra en az 7 ay boyunca etkili bir kontrasepsiyon
+yöntemi kullanmaları önerilmelidir.
+KANJİNTİ® tedavisi sırasında hamile kalan kadınlar fetüsün zarar görmesi ihtimali
+konusunda bilgilendirilmelidir. Eğer hamile bir kadın KANJİNTİ® ile tedavi ediliyorsa veya
+KANJİNTİ® kullanırken veya KANJİNTİ®’nin son dozundan sonraki 7 ay içinde hamile
+kalırsa, multidisipliner bir ekip tarafından yakından izlenmesi gerekmektedir.
+Gebelik dönemi
+KANJİNTİ® anneye yönelik potansiyel fayda fetüse yönelik potansiyel riskten fazla olmadığı
+sürece gebelikte kullanılmamalıdır. Pazarlama sonrasıdeneyimde, trastuzumab kullanan
+hamile kadınlarda oligohidramniyoz ile ilişkili fetal renal büyüme ve/veya fonksiyon
+bozukluğu vakaları rapor edilmiştir. Oligohidramniyoz vakalarının bazıları fetüsün fatal
+pulmoner hipoplazisi ile ilişkilendirilmiştir.
+Haftalık insan idame dozu 2 mg/kg trastuzumabın 25 katı doz uygulanan Sinomolgus
+maymunlarla yürütülen üreme çalışmalarında, üremenin veya fetusun zarar gördüğüne dair
+herhangi bir kanıta rastlanmamıştır. Erken (gebeliğin 20-50’inci günlerinde) ve geç (gebeliğin
+120-150’inci günlerinde) fetal gelişim periyodu sırasında, trastuzumabın plasental transferi
+10gözlenmiştir. Hayvan üreme çalışmaları her zaman insanlardaki yanıtı öngörmediğinden,
+anneye yönelik potansiyel fayda fetüse yönelik potansiyel riskten fazla olmadığı sürece
+KANJİNTİ® gebelikte kesinlikle kullanılmamalıdır.
+Laktasyon dönemi
+Haftalık insan idame dozu 2 mg/kg intravenöz trastuzumabın 25 katı doz uygulanan
+Sinomolgus maymunlarla yürütülen çalışma, trastuzumabın süte geçtiğini göstermiştir. Bebek
+maymunların serumlarında trastuzumabın yer alması, doğumdan 1 aylık olana kadar geçen
+sürede büyümelerinde veya gelişimlerinde herhangi bir advers etkiye sebep olmamıştır.
+Trastuzumabın insan sütüne geçip geçmediği bilinmemektedir. İnsan immünoglobulin G’si
+(IgG) anne sütüne geçtiğinden ve bebeğe yönelik zarar potansiyeli bilinmediğinden
+KANJİNTİ® tedavisi sırasında ve tedavinin bitmesinden sonraki 7 ay süresince emzirmeden
+kaçınılmalıdır (bkz. bölüm 5.3 Klinik öncesi güvenlilik verileri).
+Üreme yeteneği/Fertilite
+KANJİNTİ®’nin üreme yeteneğini etkileyip etkilemediği bilinmemektedir.
+4.7 Araç ve makine kullanımı üzerindeki etkiler
+KANJİNTİ®’nin araç ve makine kullanma becerisi üzerine çok küçük bir etkisi olabilir.
+İnfüzyon kaynaklı belirtiler görülen hastalara (bkz. bölüm 4.4 Özel kullanım uyarıları ve
+önlemleri), bu belirtiler tamamen yok olana kadar araç ve makine kullanmamaları
+önerilmelidir.
+4.8 İstenmeyen etkiler
+Trastuzumab kullanımıyla bildirilen en ciddi ve/veya yaygın advers reaksiyonlar arasında
+kardiyak fonksiyon bozukluğu, infüzyonla ilişkili reaksiyonlar, hematolojik toksisite
+(özellikle nötropeni), enfeksiyonlar ve pulmoner advers reaksiyonlar yer almaktadır.
+Bu bölümde advers ilaç reaksiyonları için aşağıdaki sıklık kategorileri kullanılmıştır:
+Çok yaygın (≥ 1/10); yaygın (≥ 1/100 ile < 1/10); yaygın olmayan (≥ 1/1.000 ile < 1/100);
+seyrek (≥ 1/10.000 ile < 1/1.000); çok seyrek (< 1/10.000), bilinmiyor (eldeki verilerden
+hareketle tahmin edilemiyor). Her bir sıklık sınıfı ile birlikte, advers reaksiyonlar azalan
+ciddiyet sıralamasına göre verilmelidir.
+Tablo 1’de verilen advers reaksiyonlar, pivotal klinik çalışmalarda tek başına veya kemoterapi
+ile kombinasyon halinde kullanılan trastuzumab ile ilişkili olarak rapor edilmiş olan advers
+reaksiyonlardır. Dahil edilen tüm terimler pivotal klinik çalışmalarda görülen en yüksek
+yüzdede görülenlere dayanmaktadır. Pazarlama sonrası dönemde raporlanan advers
+reaksiyonlar da Tablo 1’e dahil edilmiştir.
+11Tablo 1- Trastuzumab IV monoterapisi veya kemoterapi kombinasyonu ile yapılan
+pivotal klinik çalışmalardan (n = 8.386) ve pazarlama sonrası deneyimden elde edilen
+advers ilaç reaksiyonları
+Sistem organ sınıfı Advers reaksiyon * Sıklık
+Enfeksiyonlar ve enfestasyonlar Enfeksiyon Çok yaygın
+Nazofarenjit Çok yaygın
+Nötropenik sepsis Yaygın
+Sistit Yaygın
+Herpes zoster Yaygın
+İnfluenza Yaygın
+Sinüzit Yaygın
+Deri enfeksiyonu Yaygın
+Rinit Yaygın
+Üst solunum yolu enfeksiyonu Yaygın
+İdrar yolu enfeksiyonu Yaygın
+Erizipel Yaygın
+Selülit Yaygın
+Farenjit Yaygın
+Sepsis Yaygın olmayan
+(Kist ve polipler de dahil olmak Malign neoplazm progresyonu Bilinmiyor
+üzere) iyi huylu, kötü huylu ve
+Neoplazm progresyonu Bilinmiyor
+belirlenmemiş neoplazmlar
+Kan ve lenf sistemi hastalıkları Febril nötropeni Çok yaygın
+Akyuvar sayısında azalma/lökopeni Çok yaygın
+Anemi Çok yaygın
+Trombositopeni Çok yaygın
+Nötropeni Çok yaygın
+Hipoprotrombinemi Bilinmiyor
+İmmün trombositopeni Bilinmiyor
+Bağışıklık sistemi hastalıkları Hipersensitivite Yaygın
++Anafilaktik reaksiyon Bilinmiyor
++Anafilaktik şok Bilinmiyor
+Metabolizma ve beslenme Kiloda azalma/Kilo kaybı Çok yaygın
+hastalıkları Anoreksi Çok yaygın
+Tümor lizis sendromu Bilinmiyor
+Hiperkalemi Bilinmiyor
+Psikiyatrik hastalıklar Uykusuzluk Çok yaygın
+Anksiyete Yaygın
+Depresyon Yaygın
+Anormal düşünme Yaygın
+Sinir sistemi hastalıkları Baş dönmesi Çok yaygın
+1Tremor Çok yaygın
+Baş ağrısı Çok yaygın
+Parestezi Çok yaygın
+Disguzi Çok yaygın
+12Sistem organ sınıfı Advers reaksiyon * Sıklık
+Periferal nöropati Yaygın
+Hipertoni Yaygın
+Somnolans Yaygın
+Ataksi Yaygın
+Parezi Seyrek
+Beyin ödemi Bilinmiyor
+Göz hastalıkları Artmış lakrimasyon Çok yaygın
+Konjonktivit Çok yaygın
+Göz kuruluğu Yaygın
+Papilla ödemi Bilinmiyor
+Retinal kanama Bilinmiyor
+Kulak ve iç kulak hastalıkları Sağırlık Yaygın olmayan
+Kardiyak hastalıklar 1Azalan kan basıncı Çok yaygın
+1Artan kan basıncı Çok yaygın
+1Düzensiz kalp atışı Çok yaygın
+1Kardiyak flutter Çok yaygın
+1Palpitasyon Çok yaygın
+*Ejeksiyon fraksiyonunda azalma Çok yaygın
++Kardiyak yetmezlik (konjestif) Yaygın
+Kardiyomiyopati Yaygın
++1Supraventriküler taşiaritmi Yaygın
+Perikardiyal efüzyon Yaygın olmayan
+Kardiyojenik şok Bilinmiyor
+Perikardit Bilinmiyor
+Bradikardi Bilinmiyor
+Gallop ritmi Bilinmiyor
+Vasküler hastalıklar Sıcak basması
+Çok yaygın
++1Hipotansiyon Yaygın
+Vazodilatasyon Yaygın
+Solunum, göğüs hastalıkları +1Hırıltı Çok Yaygın
+ve mediastinal hastalıklar +Dispne Çok Yaygın
+Öksürük Çok Yaygın
+Epistaksis Çok Yaygın
+Rinore Çok Yaygın
++Pnömoni Yaygın
+Astım Yaygın
+Akciğer hastalığı Yaygın
++Plevral efüzyon Yaygın
+Pnömonit Seyrek
++Pulmoner fibrozis Bilinmiyor
++Solunum zorluğu Bilinmiyor
++Solunum yetmezliği Bilinmiyor
++Akciğer infiltrasyonu Bilinmiyor
++Akut pulmoner ödem Bilinmiyor
+13Sistem organ sınıfı Advers reaksiyon * Sıklık
++Akut solunum zorluğu sendromu Bilinmiyor
++Bronkospazm Bilinmiyor
++Hipoksi Bilinmiyor
++Oksijen saturasyonunda azalma Bilinmiyor
+Laringeal ödem Bilinmiyor
+Ortopne Bilinmiyor
+Pulmoner ödem Bilinmiyor
+İnterstisiyel akciğer hastalığı Bilinmiyor
+Gastrointestinal hastalıklar Diyare Çok yaygın
+Kusma Çok yaygın
+Bulantı Çok yaygın
+1Dudaklarda şişkinlik Çok yaygın
+Abdominal ağrı Çok yaygın
+Dispepsi Çok yaygın
+Kabızlık Çok yaygın
+Stomatit Çok yaygın
+Hemoroid Yaygın
+Ağız kuruluğu Yaygın
+Hepatobiliyer hastalıklar Hepatobiliyer zedelenme Yaygın
+Hepatit Yaygın
+Karaciğer hassasiyeti Yaygın
+Sarılık Seyrek
+Karaciğer yetmezliği Bilinmiyor
+Deri ve deri altı doku hastalıkları Eritem Çok yaygın
+Döküntü Çok yaygın
+1Yüzde şişkinlik Çok yaygın
+Alopesi Çok yaygın
+Tırnak bozukluğu Çok yaygın
+Palmarplantar eritrodizestesi
+sendromu Çok yaygın
+Akne Yaygın
+Ekimoz Yaygın
+Kuru cilt Yaygın
+Hiperhidroz Yaygın
+Makülopapüler döküntü Yaygın
+Kaşıntı Yaygın
+Onikoliz Yaygın
+Dermatit Yaygın
+Ürtiker Yaygın olmayan
+Anjiyo ödem Bilinmiyor
+Kas-iskelet bozuklukları, bağ Artralji Çok yaygın
+doku ve kemik hastalıkları Miyalji Çok yaygın
+1Kas gerginliği Çok yaygın
+Artrit Yaygın
+14Sistem organ sınıfı Advers reaksiyon * Sıklık
+Sırt ağrısı Yaygın
+Kemik ağrısı Yaygın
+Kas spazmları Yaygın
+Boyun Ağrısı Yaygın
+Ekstremitelerde ağrı Yaygın
+Böbrek ve idrar hastalıkları Renal bozukluk Yaygın
+Membranöz glomerülonefrit Bilinmiyor
+Glomerülonefropati Bilinmiyor
+Böbrek yetmezliği Bilinmiyor
+Gebelik, puerperium ve perinatal Oligohidramniyoz Bilinmiyor
+hastalıklar Renal hipoplazi Bilinmiyor
+Pulmoner hipoplazi Bilinmiyor
+Üreme sistemi ve meme
+Meme iltihabı/mastit Yaygın
+hastalıkları
+Genel bozukluklar ve uygulama Asteni Çok yaygın
+bölgesine ilişkin hastalıklar Göğüs ağrısı Çok yaygın
+Üşüme Çok yaygın
+Yorgunluk Çok yaygın
+İnfluenza benzeri semptomlar Çok yaygın
+İnfüzyon reaksiyonları Çok yaygın
+Ağrı Çok yaygın
+Pireksi Çok yaygın
+Mukozal enflamasyon Çok yaygın
+Periferal ödem Çok yaygın
+Ödem Yaygın
+Keyifsizlik Yaygın
+Yaralanma ve zehirlenme Çürük Yaygın
++ Ölümcül sonuçla ilişkili olarak rapor edilen advers reaksiyonlara işaret etmektedir.
+1 Genelikle infüzyon reaksiyonları ile ilişkili olarak rapor edilen advers reaksiyonlara işaret
+etmektedir. Bu advers reaksiyonlar için spesifik yüzdeler bulunmamaktadır.
+* Antrasiklinler ardından ve taksanlarla kombine olarak kombinasyon tedavisiyle gözlenmiştir.
+Seçilmiş advers olayların tanımı:
+Kardiyak fonksiyon bozukluğu
+Konjestif kalp yetmezliği (NYHA sınıf II - IV) trastuzumab kullanımı ile ilişkili yaygın bir
+advers reaksiyondur ve ölümcül sonuçla ilişkilendirilmiştir (bkz. bölüm 4.4 Özel kullanım
+uyarıları ve önlemleri). Trastuzumab ile tedavi edilen hastalarda, dispne, nefes darlığı,
+öksürük artışı, pulmoner ödem, S3 gallop veya ventriküler ejeksiyon fraksiyonu azalması gibi
+kardiyak fonksiyon bozukluğu belirtileri gözlemlenmiştir (bkz. bölüm 4.4 Özel kullanım
+uyarıları ve önlemleri).
+Trastuzumabın adjuvan olarak kemoterapi ile kombinasyon halinde verildiği 3 pivotal klinik
+çalışmada, derece 3/4 kardiyak işlev bozukluğu (özellikle semptomatik konjestif kalp
+yetmezliği) insidansı, sadece kemoterapi uygulanan (yani trastuzumab almayan) hastalar ve
+15bir taksanı takiben trastuzumab uygulanan hastalarda benzer olmuştur (%0,3 – 0,4). Oran
+trastuzumabın bir taksan ile eş zamanlı uygulandığı hastalarda en yüksektir (%2). Neoadjuvan
+koşulda trastuzumab ile düşük doz antrasiklin rejiminin eş zamanlı uygulanması ile ilgili
+deneyim sınırlıdır (bkz. bölüm 4.4 Özel kullanım uyarıları ve önlemleri).
+Trastuzumab adjuvan kemoterapinin tamamlanması ardından uygulandığında, bir yıllık
+koldaki hastaların %0,6’sında medyan 12 aylık takipten sonra NYHA sınıf III-IV kalp
+yetmezliği gözlenmiştir. 8 yıllık medyan takip ardından, 1 yıllık trastuzumab tedavisi
+kolundaki BO16348 çalışmasında şiddetli konjestif kalp yetmezliği KKY (NYHA sınıf III ve
+IV) insidansı %0,8 olmuş, hafif semptomatik ve asemptomatik sol ventrikül disfonksiyonu
+oranı %4,6 olarak belirlenmiştir.
+Trastuzumab uygulanan hastaların %71,4’inde, şiddetli KKY’nin geri dönebildiği
+(reversibilite) (olaydan sonra en az iki ardışık LVEF değerinin ≥ %50 olması şeklinde
+tanımlanmıştır) gösterilmiştir. Hafif semptomatik ve asemptomatik sol ventrikül
+disfonksiyonunda geri dönebilme (reversibilite) hastaların %79,5’inde gösterilmiştir.
+Kardiyak fonksiyon bozukluğu ile ilişkili olayların yaklaşık %17’si trastuzumab tedavisinin
+tamamlanmasının ardından oluşmuştur.
+İntravenöz trastuzumab ile yapılmış pivotal metastatik çalışmalarda kardiyak disfonksiyon
+insidansı, paklitaksel ile kombinasyonda %9 ila %12 ve tek başına paklitaksel ile %1 ila %4
+arasında gerçekleşmiştir. Monoterapide bu oran %6 - %9 olmuştur. En yüksek kardiyak
+disfonksiyon oranı, antrasiklin/siklofosfamid ile eşzamanlı trastuzumab alan hastalarda (%27)
+görülmüş ve tek başına antrasiklin/siklofosfamide (%7 - %10) kıyasla anlamlı ölçüde yüksek
+bulunmuştur. Kardiyak fonksiyon için prospektif izlem yapılan sonraki bir çalışmada
+semptomatik KKY insidansı, trastuzumab ve dosetaksel alan hastalarda %2,2, buna kıyasla
+tek başına dosetaksel alan hastalarda %0 olmuştur. Bu çalışmalarda kardiyak disfonksiyon
+gelişen hastaların büyük bölümünde (%79) KKY için standart tedavi uygulanması ardından
+iyileşme görülmüştür.
+İnfüzyon reaksiyonları, alerji benzeri reaksiyonlar ve aşırı duyarlılık
+Trastuzumab tedavisi uygulanan hastaların yaklaşık %40’ında infüzyonla ilişkili bazı
+reaksiyonlar bazı oluşması beklenmektedir. Bununla birlikte, infüzyonla ilişkili reaksiyonların
+büyük bölümü hafif ila orta yoğunluktadır (NCI-CTC derecelendirme sistemi) ve tedavinin
+erken evrelerinde yani birinci, ikinci ve üçüncü infüzyonlar sırasında oluşma eğilimi gösterir
+ve sıklığı sonraki infüzyonlarda azalır. Reaksiyonlar üşüme, ateş, dispne, hipotansiyon, hırıltı,
+bronkospazm, taşikardi, oksijen satürasyonunda azalma, solunum güçlüğü, döküntü, bulantı
+ve kusma ile baş ağrısını içerir ancak bunlarla sınırlı değildir (bkz. bölüm 4.4 Özel kullanım
+uyarıları ve önlemleri). Tüm derecelerden infüzyonla ilişkili reaksiyonların oranı;
+endikasyona, veri toplama yöntemine ve trastuzumabın kemoterapiyle eşzamanlı veya
+monoterapi şeklinde verilmesine bağlı olarak çalışmalar arasında farklılık göstermiştir.
+Acil ilave girişim gereken şiddetli anafilaktik reaksiyonlar genellikle birinci veya ikinci
+trastuzumab infüzyonu sırasında oluşabilir (bkz. bölüm 4.4 Özel kullanım uyarıları ve
+önlemleri) ve ölümcül sonuçla ilişkilendirilmiştir.
+İzole olgularda anafilaktoid reaksiyonlar gözlenmiştir.
+16Hematolojik toksisite
+Febril nötropeni, lökopeni, anemi, trombositopeni ve nötropeni çok yaygın olarak meydana
+gelmektedir. Hipoprotrombinemi meydana gelme sıklığı bilinmemektedir. Nötropeni riski,
+trastuzumabın antrasiklin tedavisi ardından dosetaksel ile uygulanması halinde hafif şekilde
+artabilmektedir.
+Pulmoner olaylar
+Trastuzumab kullanımı ile ilişkili olarak şiddetli pulmoner advers reaksiyonlar meydana
+gelmektedir ve ölümcül sonuçla ilişkilendirilmiştir. Bu reaksiyonlar akciğer infiltratları, akut
+solunum zorluğu sendromu, pnömoni, pnömonit, plevral efüzyon, solunum zorluğu, akut
+pulmoner ödem ve solunum yetmezliğini içerir fakat bunlarla sınırlı değildir (bkz. bölüm 4.4
+Özel kullanım uyarıları ve önlemleri).
+Avrupa Birliği Risk Yönetim Planı ile uyumlu risk minimizasyonu tedbirlerinin detayları
+‘Bölüm 4.4 Özel Kullanım Uyarıları ve Önlemleri’ bölümünde sunulmaktadır.
+İmmünojenisite
+Neoadjuvan-adjuvan erken evre meme kanseri çalışmasında (B022227) 70 ayı aşan bir
+medyan takipte, intravenöz trastuzumab tedavisi uygulanan hastaların %10,1’inde (30/296)
+trastuzumaba karşı antikorlar gelişmiştir. İntravenöz trastuzumab alan 30 hastadan 2’sinde,
+başlangıç sonrası örneklerde nötralizan anti-trastuzumab antikorları saptanmıştır.
+Bu antikorların klinik önemi bilinmemektedir. Anti-trastuzumab antikorlarının varlığının,
+intravenöz trastuzumabın farmakokinetiği, etkililiği (patolojik Tam Yanıta [pCR] göre
+belirlenen yanıta ve olaysız sağkalıma göre belirlenen) ve uygulamayla ilişkili reaksiyonların
+(ARR’ler) oluşmasına göre belirlenen ilaç güvenliliği üzerinde hiçbir etkisi yoktur.
+Mide kanserinde trastuzumab ile ilgili immünojenisite verileri bulunmamaktadır.
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir. (www.titck.gov.tr;
+e-posta: tufam@titck.gov.tr; tel: 0 800 314 00 08; faks: 0 312 218 35 99).
+4.9 Doz aşımı ve tedavisi
+İnsanlarla yapılan klinik çalışmalarda doz aşımıyla ilgili bir deneyim yoktur. Trastuzumabın
+10 mg/kg’dan yüksek tek dozları klinik çalışmalarda uygulanmamıştır; metastatik mide
+kanseri hastalarında yapılan bir klinik çalışmada 8 mg/kg yükleme dozu takiben her üç
+haftada bir 10 mg/kg idame dozu çalışılmıştır. Bu düzeye kadar dozlar iyi tolere edilmiştir.
+175. FARMAKOLOJİK ÖZELLİKLER
+5.1 Farmakodinamik özellikler
+Farmakoterapötik grubu: Antineoplastik ve immunomodülatör ajanlar, antineoplastik ajanlar,
+monoklonal antikorlar ve antikor ilaç konjugatları
+ATC kodu: L01FD01
+KANJİNTİ® biyobenzer bir tıbbi üründür.
+Trastuzumab, insan epidermal büyüme faktörü reseptör 2 (HER2)’ye karşı olan bir
+rekombinant humanize IgG1 monoklonal antikorudur. Primer meme kanserlerinin %20-
+%30’unda yüksek miktarda HER2 ekspresyonu gözlenmiştir. İmmünohistokimya (ICH),
+floresan in situ hibridizasyon (FISH) yada kromojenik in situ hibridizasyon (CISH) kullanılan
+gastrik kanserdeki HER2 pozitiflik oranları çalışmaları; IHC için %6,8 ila %34 ve FISH için
+%7,1 ila %42,6 arasında değişen geniş bir HER2 pozitiflik değişkenliği olduğunu
+göstermiştir. Çalışmalar, tümörlerinde yüksek düzeyde HER2 ekspresyonu veya
+amplifikasyonu olan meme kanserili hastaların hastalıksız sağkalımlarının, tümörlerinde
+yüksek düzeyde HER2 ekspresyonu veya amplifikasyonu olmayan hastalara kıyasla daha kısa
+olduğunu göstermektedir. Reseptörün hücre dışı alanı (ECD p105) kan dolaşımına dağılabilir
+ve serum örneklerinde ölçülebilir.
+Etki mekanizması
+Trastuzumab yüksek afinite ve özgüllükle HER2’nin hücre dışı alanının juksta membran
+bölgesi olan alt-alan IV’e bağlanır. Trastuzumabın HER2’ye bağlanması liganddan bağımsız
+HER2 sinyalizasyonunu inhibe eder ve HER2’nin aktivasyon mekanizması olan hücre dışı
+alanın proteolitik parçalanmasını önler. Sonuç olarak, hem in vitro deneyler ve hayvanlardaki
+çalışmalar trastuzumabın HER2’yi yüksek düzeyde eksprese eden insan tümör hücrelerinin
+proliferasyonunu inhibe ettiğini göstermiştir. Ayrıca trastuzumab, antikora-bağlı hücresel
+sitotoksisite (ADCC) için güçlü bir aracıdır. Trastuzumabın aracılık ettiği ADCC’nin, yüksek
+düzeyde HER2 eksprese eden kanser hücrelerini, yüksek düzeyde HER2 eksprese etmeyen
+hücrelere kıyasla seçici olarak etkilediği in vitro olarak gösterilmiştir.
+Yüksek düzeyde HER2 ekspresyonu veya HER2 gen amplifikasyonu tespiti
+Meme kanserinde yüksek düzeyde HER2 ekspresyonunu veya HER2 gen amplifikasyonu
+tespiti
+KANJİNTİ® yalnızca tümörlerinde, doğru ve valide edilmiş bir test ile belirlenmiş, yüksek
+düzeyde HER2 ekspresyonu veya amplifikasyonu olan hastalarda, kullanılmalıdır. Yüksek
+düzeyde HER2 ekspresyonu, imünohistokimya (IHC)-bazlı bir değerlendirme veya fikse
+edilmiş tümör blokları kullanılarak tespit edilmelidir (bkz. bölüm 4.4.) HER2 gen
+amplifikasyonu floresan in situ hibridizasyon (FISH) veya sabit tümör bloklarının kromojenik
+in situ hibridizasyonu (CISH) kullanılarak tespit edilmelidir. Hastalar IHC ile +3 değeri ile
+tanımlanan yüksek düzeyde HER2 ekspresyonu veya pozitif bir FISH veya CISH sonucu
+gösteriyorsa KANJİNTİ® tedavisi için uygundurlar.
+Doğru ve tekrarlanabilir sonuçların sağlanabilmesi için testler, test prosedürlerinin valide
+edilmesinin mümkün olduğu, özel bir laboratuvarda gerçekleştirilmelidir.
+18IHC boyanma paternlerini değerlendirmek için önerilen skor sistemi Tablo 2’de belirtilmiştir:
+Tablo 2 Meme Kanserinde IHC Boyanma Paternlerini Değerlendirmede Önerilen Skor
+Sistemi
+Skor Boyanma paterni Yüksek düzeyde
+HER2 ekspresyonu
+değerlendirmesi
+Tümör hücrelerinin < %10’unda hiçbir boyanma veya
+0 Negatif
+membran boyanması gözlenmemiştir.
+Tümör hücrelerinin > %10’unda zayıf/çok az algılanabilir
+1+ Negatif
+membran boyanması tespit edilmiştir. Hücreler
+membranlarının yalnızca bir bölümünde boyanmıştır.
+Tümör hücrelerinin > %10’unda zayıftan orta seviyeye
+2+ Tartışmalı
+tam membran boyanması tespit edilmiştir.
+Tümör hücrelerinin > %10’unda kuvvetli tam membran
+3+ Pozitif
+boyanması tespit edilmiştir.
+Genel olarak, tümör hücresi başına HER2 gen kopya sayısının kromozom 17 kopya sayısına
+oranı 2’den büyük veya ona eşitse veya kromozom 17 kontrolü kullanılmadıysa tümör hücresi
+başına HER2 geninden 4 kopyadan daha fazla varsa, FISH pozitif olarak değerlendirilir.
+Genelde, tümör hücrelerinin %50’sinden fazlasında çekirdek başına 5 taneden fazla HER2
+gen kopyası varsa CISH pozitif olarak değerlendirilir.
+Analiz performansı ve yorumlama hakkında tüm talimatlar için doğrulanmış FISH ve CISH
+analizlerinin prospektüslerine başvurulmalıdır. HER2 testi hakkındaki resmi öneriler de
+uygulanabilir.
+HER2 proteinin veya gen ekspresyonunun değerlendirmesi için kullanılabilecek başka
+herhangi bir metot, yalnızca doğrulanmış metotlara dair uygun ve en gelişmiş performansı
+sağlayan laboratuvarlar tarafındanyapılmalıdır. Bu tür metotlar, yüksek düzeyde HER2
+ekspresyonunu göstermeye yetecek kadar açık bir biçimde kesin ve doğru olmalıdır ve orta
+seviyeyüksek düzeyde HER2 ekpsresyonu ile (2+ ile uyumlu) kuvvetli (3+ ile uyumlu)
+yüksek düzeyde HER2 ekspresyonunu ayırt edebilmelidir.
+Gastrik kanserde yüksek düzeyde HER2 ekspresyonu veya HER2 gen amplifikasyonunun
+tespiti
+Yüksek düzeyde HER2 ekspresyonunun veya HER2 gen amplifikasyonunun tespitinde
+yalnızca kesin ve valide edilmiş bir analiz kullanılmalıdır. İlk test yöntemi olarak IHC
+önerilmektedir, HER2 gen amplifikasyon durumu da gerektiğinde ya gümüşlü in situ
+hibridizasyon (SISH) ya da bir FISH tekniği uygulanmalıdır. Bununla beraber, tümör
+histolojisinin ve morfolojisinin paralel değerlendirmesine imkan sağlaması açısından SISH
+teknolojisi önerilmektedir. Test prosedürlerinin validasyonunu ve doğru ve tekrarlanabilir
+sonuçların elde edilmesinin sağlanabilmesi için HER2 testi eğitimli personel istihdam eden bir
+laboratuvarda yapılmalıdır. Miktar tayini hakkında tüm talimatlar ve sonuç yorumlaması
+kullanılan HER2 test analizleri ile verilmiş ürün bilgi broşürlerinden alınmalıdır.
+19ToGA (BO18255) denemesinde, tümörleri IHC3+ veya FISH pozitif olan hastalar HER2
+pozitif olarak tanımlanmış ve bu nedenle denemeye dahil edilmiştir. Klinik çalışma
+sonuçlarına dayanarak, yararlı etkiler, IHC skoru +3veya IHC skoru +2 ve bir pozitif FISH
+sonucu olanlar şeklinde tanımlanan en yüksek seviye HER2 protein aşırı ekspresyonu
+hastalarıyla sınırlı tutulmuştur.
+Bir metot karşılaştıma çalışmasında (çalışma D008548) gastrik kanser hastalarında HER2 gen
+amplifikasyonunun tespitinde SISH ve FISH teknikleri için yüksek derece uygunluk (> %95)
+gözlemlenmiştir.
+Yüksek düzeyde HER2 ekspresyonu, sabit tümör bloklarının immünohistokimya (IHC)-bazlı
+değerlendirmesi kullanarak tespit edilmelidir; HER2 gen amplifikasyonu, sabit tümör
+bloklarında SISH veya FISH kullanılarak in situ hibridizasyon yoluyla tespit edilmelidir.
+IHC boyanma paternlerini değerlendirmek için önerilen skor sistemi Tablo 3’te belirtilmiştir:
+Tablo 3- Gastrik Kanserde IHC Boyanma Paternlerini Değerlendirmede Önerilen Skor
+Sistemi
+Skor Cerrahi örnek – boyanma Biyopsi örneği – boyanma Yüksek düzeyde
+paterni paterni HER2 ekspresyonu
+değerlendirmesi
+Tümör hücrelerinin Hiçbir tümör hücresinde
+< %10’unda hiçbir reaktivite reaktivite veya membranöz
+0 Negatif
+veya membranöz reaktivite reaktivite yoktur
+yoktur
+Tümör hücrelerinin Boyanmış tümör hücresi
+≥ %10’unda zayıf/çok az yüzdesinden bağımsız olarak
+algılanabilir membranöz zayıf/çok az algılanabilir
+1+ Negatif
+reaktivite; hücreler yalnızca membranöz reaktiviteli tümör
+membranlarının bir hücre dizisi
+bölümünde reaktiftir.
+Tümör hücrelerinin Boyanmış tümör hücresi
+≥ %10’unda zayıftan orta yüzdesinden bağımsız olarak
+seviyeye tam, bazolateral zayıftan orta seviyeye tam,
+2+ Tartışmalı
+veya lateral membranöz bazolateral veya lateral
+reaktivite membranöz reaktiviteli tümör
+hücre dizisi
+Tümör hücrelerinin Boyanmış tümör hücresi
+≥ %10’unda kuvvetli, yüzdesinden bağımsız olarak,
+3+ tam, bazolateral veya lateral kuvvetli tam, bazolateral veya Pozitif
+membranöz reaktivite lateral membranöz reaktiviteli
+tümör hücre dizisi
+Genel olarak, tümör hücresi başına HER2 gen kopya sayısının kromozom 17 kopya sayısına
+oranı 2’den büyük veya ona eşitse, SISH veya FISH pozitif olarak değerlendirilir.
+20Klinik etkililik ve güvenlilik çalışmaları:
+KANJİNTİ® etkililik verileri:
+KANJİNTİ® ile trastuzumab arasında karşılaştırma çalışması (20120283 Çalışması):
+20120283 çalışması, HER2+ erken evre meme kanserli (EEMK) yetişkin kadın gönüllülerde
+KANJİNTİ® ve trastuzumabın güvenliliği, etkililiği, farmakokinetiği (PK) ve
+immünojenisitesini karşılaştırmak üzere tasarlanmış randomize, çift kör, aktif kontrollü klinik
+benzerlik çalışmasıdır. Bu çalışmanın temel amacı, HER2+ EEMK’lı kadınlarda KANJİNTİ®
+ve trastuzumabın patolojik tam yanıt (pCR) üzerindeki tedavi etkisini karşılaştırmaktır.
+20120283 çalışması hazırlık amaçlı kemoterapi fazı, neoadjuvan faz ve adjuvan fazdan
+oluşmuştur. Trastuzumab ile tedavi edilen HER2+ EEMK’li hastalara yönelik güncel standart
+tedavi doğrultusunda, çalışmaya alınan gönüllüler 4 siklus boyunca 3 haftada bir 90 mg/m2
+epirubisin ve 600 mg/m2 siklofosfamidden oluşan hazırlık amaçlı kemoterapi almışlardır.
+Hazırlık amaçlı kemoterapi tamamlandıktan sonra kalp fonksiyonu yeterli olan gönüllüler
+4 siklus boyunca 3 haftada bir araştırma ürünü (KANJİNTİ® veya trastuzumab) artı
+175 mg/m2 paklitaksel (yerel standart tedavi bu yönde olduğunda, 12 siklus boyunca haftada
+bir 80 mg/m2 paklitaksel uygulamasına izin verilmiştir) almak üzere randomize edilmiştir.
+Araştırma ürünü toplam 4 siklus boyunca 8 mg/kg IV tek yükleme dozundan sonra 3 haftada
+bir 6 mg/kg IV infüzyon idame dozlarda (neoadjuvan faz) uygulanmıştır. Cerrahinin (sentinel
+lenf nodu diseksiyonu veya aksiller lenf nodu diseksiyonu ile birlikte lumpektomi veya
+mastektomi) neoadjuvan fazda araştırma ürününün son dozundan 3-7 hafta sonra
+tamamlanması gerekmiştir ve ardından primer etkililik sonlanım noktası olarak meme ve lenf
+nodlarında pCR analizi gerçekleştirilmiştir.
+Cerrahinin ardından gönüllüler adjuvan faza alınmış ve neoadjuvan fazda araştırma ürününün
+uygulandığı ilk günden itibaren 1 yıla kadar 3 haftada bir araştırma ürününü (KANJİNTİ®
+veya trastuzumab) almışlardır. Neoadjuvan faz boyunca ilk olarak KANJİNTİ® alan
+gönüllüler adjuvan faz boyunca 3 haftada bir KANJİNTİ® 6 mg/kg IV almaya devam etmiştir
+(KANJİNTİ®/KANJİNTİ® grubu olarak belirtilir). Neoadjuvan faz boyunca ilk olarak
+trastuzumab alan gönüllüler adjuvan faz boyunca 3 haftada bir trastuzumab 6 mg/kg IV
+almaya devam edecek (trastuzumab/trastuzumab grubu olarak belirtilir) veya adjuvan faz
+boyunca 3 haftada bir KANJİNTİ® 6 mg/kg IV alacak (trastuzumab/KANJİNTİ® grubu
+olarak belirtilir) şekilde randomize edilmiştir. Trastuzumabdan KANJİNTİ®’ye tek geçiş, söz
+konusu geçişin güvenlilik veya immünojenisite üzerindeki potansiyel etkisini değerlendirmek
+üzere çalışma tasarımına dahil edilmiştir.
+Çalışmanın yardımcı primer sonlanım noktaları cerrahi sırasında örnekleri alınan meme
+dokusu ve aksiller lenf nodlarında pCR’ye (rezidüel duktal karsinoma in situdan [DCIS]
+bağımsız olarak meme dokusu ve aksiller lenf nodlarında invaziv tümör hücresi bulunmaması
+olarak tanımlanır) ilişkin risk farkı (RD) ve risk oranıdır (RR). Yardımcı primer etkililik
+sonlanım noktalarının analizinde ardışık test yöntemi uygulanmıştır; buna göre, eşdeğerlik ilk
+olarak KANJİNTİ® ile trastuzumab arasında sabit bir sınırla (-%13, %13) pCR’ye ilişkin RD
+için 2 yönlü %90 CI karşılaştırılarak, 0,05 olarak tanımlanan 2 yönlü anlam düzeyinde
+pCR’ye ilişkin RD açısından test edilmiştir. RD’ye ilişkin eşdeğerlik testi başarılı olduğu
+takdirde, eşdeğerlik KANJİNTİ® ile trastuzumab arasında sabit bir sınırla (0,7586, 1/0,7586)
+pCR’ye ilişkin RR için 2 yönlü %90 CI karşılaştırılarak, 0,05 olarak tanımlanan 2 yönlü
+anlam düzeyinde pCR’ye ilişkin RR açısından test edilmiştir.
+21Yardımcı primer etkililik sonlanım noktalarının primer istatistiksel analizi pCR açısından
+değerlendirilebilir popülasyon kullanılarak, tümör örneklerine ilişkin yerel laboratuvar
+değerlendirmesi doğrultusunda yapılmıştır. pCR açısından değerlendirilebilir popülasyon
+herhangi bir miktarda araştırma ürünü alan, cerrahi uygulanan ve yerel laboratuvarda eksiksiz
+değerlendirilebilir pCR incelemesi yapılan tüm randomize edilmiş gönüllüleri içermiştir. pCR
+açısından değerlendirilebilir popülasyona toplam 696 gönüllü (KANJİNTİ® tedavi grubunda
+358, trastuzumab tedavi grubunda 338) dahil edilmiştir.
+Tümör örneklerine ilişkin yerel laboratuvar değerlendirmesi doğrultusunda, yardımcı primer
+sonlanım noktalarının primer istatistiksel analizinin sağlamlığını değerlendirmeye yönelik
+önceden belirlenmiş duyarlılık analizleri gerçekleştirilmiştir. Ayrıca patologlar arası
+değişkenliği azaltmak ve yerel laboratuvar değerlendirmesine göre daha tutarlı bir
+değerlendirme sağlamak amacıyla, bağımsız körlemeli patologlar tümör örneklerine ilişkin
+merkezi laboratuvar değerlendirmesi gerçekleştirmiştir. Primer analizlerin ve duyarlılık
+analizlerinin bulguları Tablo 4’te özetlenmiştir.
+Tablo 4 Meme Dokusu ve Aksiller Lenf Nodlarında Patolojik Tam Yanıta İlişkin Risk
+Farkı ve Risk Oranı (Çalışma 20120283)
+Lokal Laboratuvar Merkezi Laboratuvar
+Değerlendirmesi Değerlendirmesi
+pCR Değerlendirilebilir KANJİNTİ®a Trastuzumaba KANJİNTİ® Trastuzumab
+Popülasyon (N = 358) (N = 338) (N = 339) (N = 330)
+pCRb, n (%)
+Uygun 172 (48) 137 (40,5) 162 (47,8) 138 (41,8)
+RD (KANJİNTİ® -
+7,3 5,8
+trastuzumab)c (%)
+RDc için %90 CI (1,2, 13,4) (-0,5, 12)
+RR (KANJİNTİ®
+1,1877 1,1419
+/trastuzumab)c
+RRc için %90 CI (1,0327, 1,3660) (0,9934, 1,3124)
+PP Popülasyon KANJİNTİ® Trastuzumab KANJİNTİ® Trastuzumab
+(N = 351) (N = 328) (N = 333) (N = 321)
+pCRb, n (%)
+Uygun 166 (47,3) 134 (40,9) 156 (46,8) 137 (42,7)
+RD (KANJİNTİ® -
+6,4 4,1
+trastuzumab)c (%)
+RDc için %90 CI (0,2, 12,6) (-2,3, 10,4)
+RR (KANJİNTİ®
+1,1623 1,0986
+/trastuzumab)c
+RRc için %90 CI (1,0084, 1,3396) (0,9545, 1,2644)
+22Lokal Laboratuvar Merkezi Laboratuvar
+Değerlendirmesi Değerlendirmesi
+NRI Kullanan ITT KANJİNTİ® Trastuzumab KANJİNTİ® Trastuzumab
+Popülasyonu (N = 364) (N = 352) (N = 364) (N = 352)
+pCRb, n (%)
+Uygun 172 (47,3) 137 (38,9) 162 (44,5) 138 (39,2)
+RD (KANJİNTİ® -
+8,1 5,1
+trastuzumab)c (%)
+RDc için %90 CI (2, 14,1) (-0,9, 11,1)
+RR (KANJİNTİ®
+1,2096 1,1370
+/trastuzumab)c
+RRc için %90 CI (1,0501, 1,3933) (0,9854, 1,3118)
+ITT = tedavi amaçlı grup; NRI = yanıt vermeyen impütasyonu; pCR = patolojik tam yanıt; PP = protokole göre;
+RD = risk farkı; RR = risk oranı
+a Primer analiz bulgusu.
+b pCR, rezidüel duktal karsinoma in situdan bağımsız olarak meme dokusu ve aksiller lenf nodlarında invaziv
+tümör hücresi bulunmaması olarak tanımlanır.
+c Nokta tahminleri ve CI’lar randomizasyon gruplama faktörleri olan T evresi, nod durumu, hormon reseptör
+durumu, planlanan paklitaksel dozlama programı ve coğrafi bölge için ayarlanmış jeneralize lineer model
+kullanılarak hesaplanmıştır.
+Primer analiz ve yerel ve merkezi değerlendirmelere dayalı tüm duyarlılık analizleri eşit
+etkililik bulgusunu doğrulamış ancak yerel laboratuvarın sonuçları %13 düzeyindeki üst sınır
+açısından tutarsız bulunmuştur. Tümör örneklerine ilişkin merkezi laboratuvar
+değerlendirmesine dayalı tüm duyarlılık analizlerinde (pCR açısından değerlendirilebilir
+popülasyon, PP popülasyon ve NRI kullanılarak ITT popülasyon), %90 CI’lar pCR’ye ilişkin
+RD ve RR açısından önceden belirlenmiş sınırlar dahilinde bulunmuştur. Primer etkililik
+analizinin bulguları KANJİNTİ®’nin trastuzumab ile eşit etkililik sergilediğini göstermiş
+ancak üstün olmama açısından istatistiksel olarak sonuçsuz kalmıştır.
+Genel olarak, 20120283 çalışmasında KANJİNTİ® ile trastuzumab arasında pCR oranı
+açısından gözlemlenen sayısal farklar klinik açıdan anlamlı kabul edilmemiştir; bu nedenle,
+KANJİNTİ® etkililik açısından trastuzumaba klinik olarak benzer kabul edilmektedir.
+İmmunojenisite
+HER2+ EEMK’li hastalarla yapılan 20120283 çalışmasında, immunoassay kullanıldığında
+KANJİNTİ®’ye karşı antikor insidansı trastuzumaba benzer bulunmuştur. ABP 980/ABP 980,
+trastuzumab/trastuzumab ve trastuzumab/ABP 980 tedavi gruplarında sırasıyla 2 (%0,6),
+2 (%1,1) ve 4 (%2,3) gönüllü olmak üzere toplam 8 (%1,1) gönüllü çalışma sırasında
+herhangi bir zamanda bağlayıcı ADA’lar açısından pozitif test sonucu vermiştir. ABP
+980/ABP 980, trastuzumab/trastuzumab ve trastuzumab/ABP 980 tedavi gruplarında sırasıyla
+2 (%0,6), 1 (%0,5) ve 2 (%1,2) gönüllü olmak üzere toplam 5 (%0,7) gönüllüde çalışma
+sırasında herhangi bir zamanda bağlayıcı ADA’lar (başlangıçta negatif sonuç veren veya
+başlangıçta sonucu olmayan başlangıç sonrası bağlayıcı ADA) gelişmiştir; tüm pozitif
+bağlayıcı ADA sonuçları geçici olmuştur. Tüm çalışma boyunca herhangi bir zamanda
+nötralizan ADA’lar açısından pozitif test sonucu veren gönüllü yoktur. ABP 980’in
+immünojenisitesi düşüktür ve trastuzumab ile tutarlıdır. KANJİNTİ®’ye yönelik bu anti-ürün
+antikor yanıtlarının klinik anlamı bilinmemektedir.
+23İmmünojenisite tayin sonuçları büyük ölçüde test yönteminin duyarlılığı ve spesifikliğine
+bağlıdır ve örnek işleme, örnek alma zamanı, eş zamanlı tedaviler ve altta yatan hastalık gibi
+birçok faktörden etkilenebilir. Bu nedenle, KANJİNTİ®’ye karşı antikorların insidansı ile
+diğer ürünlere karşı antikorların insidansının karşılaştırması yanıltıcı olabilir.
+Trastuzumab etkililik verileri:
+Metastatik Meme Kanseri
+Klinik çalışmalarda trastuzumab, yüksek düzeyde HER2 eksprese eden ve bir veya daha fazla
+sayıda kemoterapi rejimi başarısız olan metastatik meme kanserli hastalıklarda, monoterapi
+olarak kullanılmıştır (tek başına trastuzumab).
+Trastuzumab, ayrıca, metastatik meme kanseri için kemoterapi almamış hastaların tedavisinde
+paklitaksel veya dosetaksel ile birlikte kullanılmıştır. Önceden antrasiklin temelli adjuvan
+kemoterapi alan hastalar, trastuzumab ile beraber veya trastuzumab olmadan paklitaksel (3
+saat süreyle infüzyonla verilen 175 mg/m2) tedavisi görmüşlerdir. Trastuzumab ile beraber
+veya trastuzumab olmadan dosetaksel (1 saatsüreyle verilen 100 mg/m2 infüzyon) ile yapılan
+pivotal çalışmada, hastaların %60’ı önceden antrasiklin temelli adjuvan kemoterapi
+almışlardır. Hastalar, hastalık progresyonuna kadar trastuzumab ile tedavi edilmişlerdir.
+Daha önce adjuvan antrasiklin almamış hastalarda, trastuzumabın paklitaksel ile kombinasyon
+halinde etkililiği araştırılmamıştır. Bununla birlikte, trastuzumab artı dosetaksel tedavisi, daha
+önceki adjuvan antrasiklin kullanımından bağımsız olarak etkili bulunmuştur.
+Pivotal trastuzumab monoterapisi ve trastuzumab artı paklitaksel klinik çalışmalarında
+hastaların uygunluğunu belirlemede kullanılan HER2 aşırı ekspresyonu için test yönteminde
+fare monoklonal antikorları CB11 ve 4D5 kullanılarak meme tümörlerinden fikse edilmiş
+materyalin HER2’si için immünohistokimyasal boyama kullanılmıştır. Bu dokular formalin
+veya Bouin sabitleyicisinde fikse edilmiştir. Bir merkez laboratuvarında yürütülen bu
+araştırma klinik çalışma analizinde 0 ila 3+ ölçek kullanılmıştır. 2+ veya 3+ boyama olarak
+sınıflandırılan hastalar dahil edilirken, 0 veya 1+ boyama olarak sınıflandırılan hastalar hariç
+tutulmuştur. Kaydedilen hastaların %70’inden fazlası 3+ aşırı ekspresyon göstermiştir. Veriler
+faydalı etkilerin HER2 aşırı ekspresyon düzeyleri daha yüksek olan (3+) hastalarda daha fazla
+olduğunu düşündürmektedir.
+Dosetaksele ilişkin pivotal çalışmada, trastuzumab varlığında veya trastuzumab olmadan,
+HER2 pozitifliğini belirlemede kullanılan başlıca test yöntemi immünohistokimya olmuştur.
+Hastaların küçük bir kısmı floresan in situ hibridizasyon (FISH) kullanılarak test edilmiştir.
+Bu çalışmada, hastaların %87’sinde IHC3+ hastalık varken, hastaların %95’inde IHC3+
+ve/veya FISH-pozitif hastalık mevcuttur.
+Metastatik meme kanserinde haftalık doz uygulama
+Monoterapi ve kombinasyon tedavisinden elde edilen etkililik bulguları Tablo 5’te
+özetlenmektedir.
+24Tablo 5- Monoterapi ve Kombinasyon Tedavisi Çalışmalarından Etkililik Bulguları
+Parametre Monoterapi Kombinasyon tedavisi
+Trastuzumab1 Trastuzumab Paklitaksel2 Trastuzumab Dosetaksel3
+N = 172 artı N = 77 artı N = 94
+paklitaksel2 dosetaksel3
+N = 68 N = 92
+Yanıt oranı %18 %49 %17 %61 %34
+(%95 GA) (13-25) (36-61) (9-27) (50-71) (25-45)
+Medyan yanıt 9,1 8,3 4,6 11,7 5,7
+süresi (ay) (5,6-10,3) (7,3-8,8) (3,7-7,4) (9,3–15) (4,6-7,6)
+(%95 GA)
+Medyan 3,2 7,1 3 11,7 6,1
+progresyona (2,6-3,5) (6,2-12) (2-4,4) (9,2-13,5) (5,4-7,2)
+kadar
+geçen süre
+(TTP) (ay)
+(%95 GA)
+Medyan 16,4 24,8 17,9 31,2 22,74
+Sağkalım (12,3-ne) (18,6-33,7) (11,2-23,8) (27,3-40,8) (19,1-30,8)
+(ay) (%95 GA)
+TTP = progresyona kadar geçen süre; “ne”hesaplanamamış ya da henüz erişilmemiş anlamına gelir.
+1. Çalışma H0649g: IHC3+ hasta alt grubu
+2. Çalışma H0648g: IHC3+ hasta alt grubu
+3. Çalışma M77001: Tüm analiz grubu (tedavi amaçlı), 24 aylık bulgular
+Trastuzumab ve anastrozol ile kombinasyon tedavisi
+Trastuzumab, HER2 aşırı ekspresyonu yapan, hormon reseptörü (yani östrojen reseptörü (ER)
+ve/veya progesteron reseptörü (PR)) pozitif postmenopozal hastalarda birinci basamak mMK
+tedavisi için anastrozol ile kombinasyon halinde araştırılmıştır. Progresyonsuz sağkalım,
+anastrozole kıyasla trastuzumab artı anastrozol kolunda iki katına çıkmıştır (2,4 aya karşı 4,8
+ay). Diğer parametrelerde kombinasyonlu tedavi ile genel yanıt (%6,7’ye karşı %16,5); klinik
+fayda oranı (%27,9’a karşı %42,7); progresyona kadar geçen sürede (2,4 aya karşı 4,8 ay)
+iyileşmeler görülmüştür. Yanıta kadar geçen süre ve yanıt süresi için kollar arasında bir fark
+kaydedilmemiştir. Medyan genel sağkalım kombinasyon kolundaki hastalar için 4,6 ay
+uzamıştır. Fark istatistiksel olarak anlamlı değildir, bununla birlikte tek başına anastrozol
+kolundaki hastaların yarısından fazlası hastalık progresyonundan sonra trastuzumab içeren
+rejime çapraz geçiş yapmıştır.
+Metastatik meme kanserinde haftada üç kez doz uygulama
+Karşılaştırmalı olmayan monoterapi ve kombinasyon tedavisinden etkililik bulguları Tablo
+6’da özetlenmektedir:
+Tablo 6- Karşılaştırmalı Olmayan Monoterapi ve Kombinasyon Tedavisi
+Çalışmalarından Etkililik Bulguları
+Parametre Monoterapi Kombinasyon Tedavisi
+Trastuzumab1 Trastuzumab2 Trastuzumab Trastuzumab
+N=105 N=72 artı artı
+paklitaksel3 dosetaksel4
+N=32 N=110
+Yanıt oranı %24 %27 %59 %73
+25(%95 GA) (15-35) (14-43) (41-76) (63-81)
+Medyan yanıt 10,1 7,9 10,5 13,4
+süresi (ay) (2,8-35,6) (2,1-18,8) (21) (2,1-55,1)
+(aralık)
+Medyan TTP 3,4 7,7 12,2 13,6
+(ay) (%95 GA) (2,8-4,1) (4,2-8,3) (6,2-ne) (11-16)
+Medyan ne ne ne 47,3 (32-ne)
+Sağkalım (ay)
+(%95 GA)
+TTP = progresyona kadar geçen süre; “ne” hesaplanamadığını veya henüz erişilmediğini gösterir.
+1. Çalışma WO16229: yükleme dozu 8 mg/kg, ardından 3 haftada bir 6 mg/kg
+2. Çalışma MO16982: 3 haftada bir yükleme dozu 6 mg/kg; ardından 3 haftada bir 6 mg/kg
+3. Çalışma BO15935
+4. Çalışma MO16419
+Progresyon bölgeleri
+Karaciğerde progresyon sıklığı tek başına paklitaksele kıyasla trastuzumab ve paklitaksel
+kombinasyonu ile tedavi edilen hastalarda anlamlı olarak azalmıştır (%45,7’e karşı %21,8;
+p=0,004). Tek başına paklitaksel ile tedavi edilenlere kıyasla trastuzumab ve paklitaksel ile
+tedavi edilen daha fazla hasta merkezi sinir sisteminde progresyon göstermiştir (%6,5’e karşı
+%12,6; p=0,377).
+Erken Evre Meme Kanseri (adjuvan tedavi)
+Erken evre meme kanseri metastatik olmayan invazif meme karsinomu olarak tanımlanır.
+Adjuvan tedavide trastuzumab, 4 büyük çok merkezli, randomize çalışmada araştırılmıştır:
+- HERA çalışması (BO16348), HER2-pozitif erken evre meme kanserli hastalarda, cerrahi,
+standart kemoterapi ve radyoterapiyi (eğer uygulanabiliyorsa) takiben, bir ve iki yıl
+boyunca 3 haftada bir verilen trastuzumab tedavisi ile gözlem grubunu karşılaştırmak üzere
+tasarlanmıştır. Ayrıca, trastuzumab tedavisinin 2 yıl uygulanması ile 1 yıl uygulanması
+karşılaştırılmış, hastalara 1 ya da 2 yıl boyunca her üç hafta başlangıç dozu olarak 8 mg/kg,
+idame doz olarak 6 mg/kg trastuzumab verilmiştir.
+- Birleşik analiz oluşturan NCCTG N9831 ve NSAPB B31 çalışmaları AC kemoterapisini
+takiben paklitaksel ile trastuzumab kombinasyonunun klinik yararlılığını araştırmak
+amacıyla tasarlanmıştır, ayrıca NCCTG N9831 çalışmasında HER2-pozitif erken evre
+meme kanserli hastalarda cerrahi sonrası AC-paklitaksel kemoterapisine ardışık olarak
+tedaviye trastuzumab eklenmesi araştırılmıştır.
+- BCIRG 006 çalışması, HER2-pozitif erken evre meme kanserli kadınlarda cerrahi sonrası
+trastuzumabın dosetaksel ile kombinasyonunu AC kemoterapisinin takiben veya dosetaksel
+ve karboplatin kombinasyonu ile araştırmak üzere tasarlanmıştır.
+HERA çalışmasında erken evre meme kanseri, aksillar lenf nodları pozitif ya da aksillar lenf
+nodları negatif en az 1 cm çapında tümörü olan, operabl, primer, memenin invaziv
+adenokarsinomu ile sınırlıydı.
+NSAPB B31 ve NCCTG N9831 çalışmalarının birleşik analizinde, erken evre meme kanseri
+yüksek riskli operabl kadınlarla sınırlandırılmıştır; yüksek risk özellikleri HER2-pozitif ve
+aksillar lenf nodları pozitif ya da HER2-pozitif ve lenf nodları negatif [tümör boyutu >1 cm
+26ve ER negatif ya da hormonal durumdan bağımsız tümör boyutu >2 cm] olarak
+tanımlanmaktadır.
+BCIRG 006 çalışmasında HER2-pozitif erken evre meme kanseri, lenf nodları pozitif ya da
+lenf nodu tutulumu olmaksızın (pN0) aşağıdaki faktörlerden en az 1’inin bulunduğu yüksek
+riskli nod negatif olarak tanımlanmıştır: tümör boyutu 2 cm’den büyük, östrojen reseptörü ve
+progesteron reseptörü negatif, histolojik ve/veya nükleer derece 2-3 veya yaş < 35.
+HERA (BO16348) çalışmasından elde edilen 12 aylık* ve 8 aylık** medyan takip sonrası
+etkililik sonuçları aşağıdaki tabloda özetlenmiştir:
+Tablo 7- BO16348 Çalışmasından Elde Edilen Etkililik Sonuçları
+Medyan takip Medyan takip
+12 ay* 8 yıl**
+Parametre Gözlem Trastuzumab Gözlem Trastuzumab
+N = 1.693 1 Yıl N = 1.697*** 1 Yıl
+N = 1.693 N = 1.702***
+Hastalıksız sağkalım
+- Olay görülen hasta sayısı 219 (%12,9) 127 (%7,5) 570 (%33,6) 471 (%27,7)
+- Olay görülmeyen hasta sayısı 1.474 (%87,1) 1.566 (%92,5) 1.127 (%66,4) 1.231 (%72,3)
+Gözleme göre p değeri < 0,0001 < 0,0001
+Gözleme göre risk oranı 0,54 0,76
+Rekürrenssiz sağkalım
+- Olay görülen hasta sayısı 208 (%12,3) 113 (%6,7) 506 (%29,8) 399 (%23,4)
+- Olay görülmeyen hasta sayısı 1.485 (%87,7) 1.580 (%93,3) 1.191(%70,2) 1.303 (%76,6)
+Gözleme göre p değeri < 0,0001 < 0,0001
+Gözleme göre risk oranı 0,51 0,73
+Uzak hastalıksız sağkalım
+- Olay görülen hasta sayısı 184 (%10,9) 99 (%5,8) 488 (%28,8) 399 (%23,4)
+- Olay görülmeyen hasta sayısı 1.508 (%89,1) 1.594 (%94,6) 1.209 (%71,2) 1.303 (%76,6)
+Gözleme göre p değeri < 0,0001 < 0,0001
+Gözleme göre risk oranı 0,5 0,76
+Genel sağkalım (ölüm)
+- Olay görülen hasta sayısı 40 (%2,4) 31 (%1,8) 350 (%20,6) 278 (%16,3)
+- Olay görülmeyen hasta sayısı 1.653 (%97,6) 1.662 (%98,2) 1.347 (%79,4) 1.424 (%83,7)
+Gözleme göre P değeri 0,24 0,0005
+Gözleme göre risk oranı 0,75 0,76
+* ko-primer sonlanım noktası olarak gözleme karşı 1 yıllık DFS önceden tanımlanmış istatistiksel sınırı karşıladı.
+**Final analiz (gözlem kolundan trastuzumab koluna geçen %52 oranındaki çapraz geçişi içeren)
+***12 aylık medyan takip analizi için veri kesim tarihinden sonra randomize edilen hasta sayısının az
+olmasından dolayı tüm örnek boyutunda bir uyumsuzluk vardır,
+Ara etkililik analizinden elde edilen etkililik bulguları, gözleme karşı 1 yıllık trastuzumab
+değerlendirilmesinde protokolde önceden belirlenmiş istatistiksel sınırı geçmiştir. 12 aylık
+medyan takip sonrasında hastalıksız sağkalım (DFS) için risk oranı (HR) 0,54 olup (%95 GA
+0,44, 0,67), bu 2 yıllık hastalıksız sağkalım oranı açısından trastuzumab kolu lehine yüzde 7,6
+puanlık (%78,2’ye karşı %85,8) mutlak bir fayda anlamına gelmektedir.
+8 yıllık medyan takip sonrasında bir final analiz yapılmıştır ve bu analiz 1 yıllık trastuzumab
+tedavisinin sadece gözleme kıyasla %24 risk azalması ile ilişkili olduğunu göstermiştir
+27(HR=0,76, %95 GA 0,67, 0,86). Bu, 8 yıllık hastalıksız sağkalım oranı açısından 1 yıllık
+trastuzumab tedavisi lehine yüzde 6,4 puanlık bir mutlak fayda anlamına gelmektedir.
+Bu final analizde, trastuzumab tedavisinin iki yıla uzatılması 1 yıllık tedaviye karşı ilave
+fayda göstermemiştir [1 yıla karşı 2 yıllık tedavi amaçlı (ITT) popülasyonda DFS HR=0,99
+(%95 GA: 0,87, 1,13), p-değeri=0,9 ve OS HR=0,98 (0,83, 1,15); p-değeri=0,78].
+Asemptomatik kardiyak fonksiyon bozukluğu oranı 2 yıllık tedavi kolunda artmıştır (1 yıllık
+tedavi kolunda %4,6’ya karşı %8,1). 1 yıllık tedavi koluna (%16,3) kıyasla 2 yıllık tedavi
+kolunda (%20,4) daha fazla hasta en az bir derece 3 veya 4 yan etki yaşamıştır.
+NSABP B-31 ve NCCTG N9831 çalışmalarında, trastuzumab AC kemoterapisini takiben
+paklitaksel ile kombinasyon halinde uygulanmıştır.
+Doksorubisin ve siklofosfamid aşağıdaki şekilde eşzamanlı olarak uygulanmıştır:
+- 4 siklus boyunca her 3 haftada bir verilen 60 mg/m2 intravenöz puşe doksorubisin.
+- 4 siklus boyunca her 3 haftada bir verilen 30 dakikada 600 mg/m2 intravenöz
+siklofosfamid
+Trastuzumab ile kombinasyon halinde paklitaksel aşağıdaki şekilde uygulanmıştır:
+- intravenöz paklitaksel – 12 hafta boyunca her hafta verilen kesintisiz intravenöz
+infüzyon olarak 80 mg/m2.
+veya
+- intravenöz paklitaksel – 4 siklus boyunca her 3 haftada bir verilen (her siklusun 1. günü)
+kesintisiz intravenöz infüzyon olarak 175 mg/m2.
+DFS* tanımlayıcı analizi sırasında NSABP B-31 ve NCCTG 9831 çalışmalarının birleşik
+analizinden elde edilen etkililik sonuçları Tablo 8’de özetlenmektedir. Medyan takip süresi
+AC→P kolundaki hastalar için 1,8 yıl iken, AC→PH kolundaki hastalar için 2 yıldır.
+Tablo 8- DFS tanımlayıcı analizi sırasında NSABP B-31 ve NCCTG N9831
+çalışmalarının birleşik analizinden elde edilen etkililik bulgularının özeti
+Parametre AC→P AC→PH AC→P’ye karşı
+(n = 1.679) (n = 1.672) Tehlike Oranı
+(%95 GA) p-değeri
+Hastalıksız sağkalım 261 (15,5) 133 (8) 0,48 (0,39, 0,59)
+Olay görülen hasta sayısı (%) p < 0,0001
+Uzak Nüks 193 (11,5) 96 (5,7) 0,47 (0,37, 0,6)
+Olay görülen hasta sayısı p < 0,0001
+Ölüm (OS olayı): 92 (5,5) 62 (3,7) 0,67 (0,48, 0,92)
+Olay görülen hasta sayısı p = 0,014**
+A: doksorubisin; C: siklofosfamid; P: paklitaksel; H: trastuzumab
+* AC→P kolundaki hastalar için 1,8 yıl ve AC→PH kolundaki hastalar için 2 yıla varan medyan takip süresinde
+** OS için p değeri AC→P’ye karşı AC→PH karşılaştırması için önceden belirlenmiş istatistiksel sınırı
+geçmemiştir.
+Primer sonlanım noktası olan DFS açısından, paklitaksel kemoterapisine trastuzumab ilavesi
+hastalığın tekrarlama riskinde %52’lik bir azalma ile sonuçlanmıştır (risk oranı: 0,48 [95%
+GA: 0,39, 0,59]; p < 0,0001). 3 yıllık hastalıksız sağkalım oranı bakımından risk oranı,
+28AC→PH (trastuzumab) kolu lehine, %11,8’lik farkla (%87,2’ye karşılık %75,4) mutlak bir
+faydaya dönüşür.
+3,5-3,8 yıllık takipten sonra güvenlilik güncellemesi zamanında, bir DFS analizi, DFS
+tanımlayıcı analizinde gösterilen faydanın büyüklüğünü doğrulamıştır. Kontrol kolunda
+trastuzumaba çapraz geçişe rağmen paklitaksel kemoterapisine trastuzumab ilavesi hastalık
+nüksü riskinde %52 azalma ile sonuçlanmıştır. Paklitaksel kemoterapisine trastuzumab ilavesi
+aynı zamanda ölüm riskinde %37 azalma ile sonuçlanmıştır.
+NSABP B-31 ve NCCTG N9831 çalışmalarının birleşik analizinden elde edilen önceden
+planlanmış nihai OS analizi, 707 ölüm meydana geldiğinde gerçekleştirilmiştir (AC→PH
+grubunda medyan takip 8,3 yıl). AC→PH ile tedavi AC→P’ye kıyasla OS’de istatistiksel
+olarak anlamlı bir iyileşme görülmüştür (sınıflandırılmış HR=0,64; %95 GA [0,55, 0,74]; log-
+sıra p-değeri < 0,0001). 8. yılda, sağkalım oranının AC→PH kolunda %86,9 ve AC→P
+kolunda %79,4 olduğu hesaplanmış olup, mutlak fayda %7,4’tür (%95 GA %4,9, %10).
+NSABP B-31 ve NCCTG N9831 çalışmalarının birleşik analizinden elde edilen nihai OS
+bulguları aşağıda Tablo 9’da özetlenmektedir.
+Tablo 9- NSABP B-31 ve NCCTG N9831 çalışmalarının birleşik analizinden elde edilen
+Nihai Genel Sağkalım Analizi
+Parametre AC→P AC→PH AC→P’ye AC→P’ye
+(N = 2.032) (N = 2.031) karşı p karşı Risk
+değeri Oranı
+(%95 GA)
+Ölüm (OS olayı): 418 (%20,6) 289 < 0,0001 0,64
+Olay görülen hasta sayısı (%14,2) (0,55, 0,74)
+(%)
+A: doksorubisin; C: siklofosfamid; P: paklitaksel; H: trastuzumab
+DFS analizi, NSABP B-31 ve NCCTG N9831 çalışmalarının birleşik analizinden elde edilen
+nihai OS analizinde yapılmıştır. Güncellenmiş DFS analizi bulguları (sınıflandırılmış HR =
+0,61; %95 GA [0,54, 0,69]), trastuzumaba çapraz geçiş yapmış AC→P kolundaki %24,8
+hastaya rağmen tanımlayıcı birincil DFS analizine kıyasla benzer DFS faydası göstermiştir. 8
+yılda, hastalıksız sağkalım oranı, AC→PH kolunda %77,2 (GA %95: 75,4, 79,1) olarak
+hesaplanmış olup AC→P koluna kıyasla mutlak fayda % 11,8’dir.
+BCIRG 006 çalışmasında trastuzumab ya AC kemoterapisini takiben dosetaksel ile
+kombinasyon halinde (AC→DH) ya da dosetaksel ve karboplatin ile kombinasyon halinde
+(DCarbH) uygulanmıştır.
+Dosetaksel aşağıdaki şekilde uygulanmıştır:
+- intravenöz dosetaksel - 4 siklus boyunca her 3 haftada bir verilen 1 saatte intravenöz
+infüzyon olarak 100 mg/m2 (ilk dosetaksel siklusunun 2. günü, ardından her bir ardışık
+siklusun 1. günü)
+veya
+- intravenöz dosetaksel – 6 siklus boyunca her 3 haftada bir verilen 1 saatte intravenöz
+infüzyon olarak 75 mg/m2 (1. siklusun 2. günü, ardından her bir siklusun 1. günü)
+ardından:
+29- karboplatin – hedef EAA’da = toplam altı siklus boyunca her 3 haftada bir tekrar
+edilen 30-60 dakikada intravenöz infüzyon ile uygulanan 6 mg/mL/dakika
+Trastuzumab kemoterapi ile birlikte haftada bir ve ardından toplam 52 hafta boyunca her 3
+haftada bir uygulanmıştır.
+BCIRG 006’dan elde edilen etkililik bulguları Tablo 10 ve 11’de özetlenmektedir. Medyan takip
+süresi AC→D kolunda 2,9 yıl ve AC→DH ve DCarbH kollarının her birinde 3 yıldır.
+Tablo 10- Etkililik analizlerinin genel özeti BCIRG 006 AC→DH’ye karşı AC→D
+Parametre AC→D AC→DH AC→D’ye karşı
+(n = 1.073) (n = 1.074) Risk Oranı
+(%95 GA)
+p-değeri
+Hastalıksız sağkalım 195 134 0,61 (0,49, 0,77)
+Olay görülen hasta sayısı p < 0,0001
+Uzak nüks 144 95 0,59 (0,46, 0,77)
+Olay görülen hasta sayısı p < 0,0001
+Ölüm (OS olay) 80 49 0,58 (0,40, 0,83)
+Olay görülen hasta sayısı p = 0,0024
+AC→D = doksorubisin artı siklofosfamid ardından dosetaksel; AC→DH = doksorubisin artı siklofosfamid
+ardından dosetaksel artı trastuzumab; GA = güven aralığı
+Tablo 11- Etkililik analizlerinin genel özeti BCIRG 006 DCarbH’ye karşı AC→D
+Parametre AC→D DCarbH AC→D’ye karşı Risk
+(n = 1.073) (n = 1.074) Oranı
+(%95 GA)
+Hastalıksız sağkalım 195 145 0,67 (0,54, 0,83)
+Olay görülen hasta sayısı p = 0,0003
+Uzak nüks 144 103 0,65 (0,50, 0,84)
+Olay görülen hasta sayısı p = 0,0008
+Ölüm (OS olayı) 80 56 0,66 (0,47, 0,93)
+Olay görülen hasta sayısı p = 0,0182
+AC→D = doksorubisin artı siklofosfamid ardından dosetaksel; DCarbH = dosetaksel, karboplatin ve
+trastuzumab; GA = güven aralığı
+BCIRG 006 çalışmasında primer sonlanım noktası olan hastalıksız sağkalım (DFS) için risk
+oranı, 3 yıllık hastalıksız sağkalım oranı açısından, AC→D kolu ile karşılaştırıldığında,
+AC→DH (trastuzumab) kolu lehine yüzde 5,8 puanlık (%86,7’ ye karşılık %80,9) ve DKarbH
+(trastuzumab) kolu lehine yüzde 4,6 puanlık (%85,5’e karşılık %80,9) mutlak bir faydaya
+dönüşür.
+BCIRG 006 çalışmasında DCarbH (TCH) kolundaki 213/1.075 hasta, AC→DH (AC→TH)
+kolundaki 221/1.074 hasta ve AC→D (AC→T) kolundaki 217/1.073 hastada Karnofsky
+performans durumu ≤90 (ya 80 ya da 90)’dır. Bu hasta alt grubunda hiçbir hastalıksız
+sağkalım (DFS) faydası fark edilmemiştir (risk oranı = AC→D’ye (AC→T) karşı DCarbH
+(TCH) için 1,16, %95 GA [0,73, 1,83]; risk oranı = AC→D’ye karşı AC→DH (AC→TH)
+için 0,97, %95 GA [0,6, 1,55]).
+30Buna ilaveten, BCIRG006 çalışması ve NSABP B-31/NCCTG N9831* klinik çalışmalarının
+birleşik analizinden elde edilen veri setinde DFS olayları ve semptomatik kardiyak olayları
+birleştiren post-hoc açıklayıcı analiz yürütülmüş olup, Tablo 12’de özetlenmektedir:
+Tablo 12- NSABP B-31/NCCTH N831* Birleşik Analizi ve BCIG006 Klinik
+Çalışmalarından DFS Olayları ve Semptomatik Kardiyak Olayları Birleştiren Post-Hoc
+Açıklayıcı Analiz Bulguları
+AC→PH AC→DH DCarbH
+(AC→P’ye karşı) (AC→D’ye karşı) (AC→D’ye karşı)
+(NSABP B-31 ve (BCIRG 006) (BCIRG 006)
+NCCTG N9831)*
+Birincil etkililik analizi 0,48 0,61 0,67
+DFS Risk oranları (0,39, 0,59) (0,49, 0,77) (0,54, 0,83)
+(%95 GA) p < 0, 0001 p < 0, 0001 p = 0, 0003
+p-değeri
+Uzun süreli takip etkililik 0,61 0,72 0,77
+analizi** (0,54, 0,69) (0,61, 0,85) (0,65, 0,9)
+DFS risk oranları p<0,0001 p<0,0001 p=0,0011
+(%95 GA)
+p-değeri
+DFS ve semptomatik 0,67 0,77 0,77
+kardiyak olaylarla post-hoc (0,6, 0,75) (0,66, 0,9) (0,66, 0,9)
+açıklayıcı analiz
+Uzun süreli takip**
+Risk oranları
+(%95 GA)
+A: doksorubisin; C: siklofosfamid; P: paklitaksel; D: dosetaksel; Carb: karboplatin; H: trastuzumab; GA = güven
+aralığı
+*Tanımlayıcı DFS analizi zamanında. Medyan takip süresi AC→P kolunda 1,8 yıl ve AC→PH kolunda 2 yıldır.
+**Birleşik analiz klinik çalışmaları için uzun süreli medyan takip süresi AC→PH kolu için 8,3 yıl (aralık: 0,1 ila
+12,1) ve AC→P kolu için 7,9 yıldır (aralık: 0 ila 12,2); BCIRG 006 çalışması için uzun süreli medyan takip
+süresi hem AC→D kolunda (aralık: 0 ila 12,6) hem de DCarbH kolunda (aralık: 0 ila 13,1) 10,3 yıl ve AC→DH
+kolunda 10,4 yıldır (aralık: 0 ila 12,7).
+Erken evre meme kanseri (neoadjuvan-adjuvan tedavi)
+Şuana kadar, adjuvan tedavide kemoterapi ile uygulanan trastuzumabın etkililiğini neo
+adjuvan/adjuvan tedavide elde edilenle karşılaştıran sonuçlar mevcut değildir.
+Neoadjuvan-adjuvan durumda yapılmış çok merkezli randomize bir çalışma olan MO16432
+çalışması, trastuzumabın bir antrasiklin ve bir taksan içeren neoadjuvan kemoterapi ile eş
+zamanlı olarak uygulanmasının klinik faydasını araştırmak üzere dizayn edilmiştir (AP+H
+takiben P+H, takiben CMF+H, takiben adjuvan trastuzumab, toplam tedavi süresi 1 yıla
+kadar). Çalışmaya teşhisi yeni konulmuş lokal ileri (Evre III) ya da inflamatuvar meme
+kanserli hastalar alınmıştır. HER2+ tümörlü hastalar neoadjuvan-adjuvan trastuzumab ile eş
+zamanlı neoadjuvan kemoterapi veya yalnızca neoadjuvan kemoterapi almak üzere randomize
+edilmiştir.
+31MO16432 çalışmasında, trastuzumab (8 mg/kg yükleme dozu ardından her 3 haftada bir 6
+mg/kg idame) 10 siklus neoadjuvan kemoterapi ile eş zamanlı olarak aşağıdaki şelikde
+uygulanmıştır.
+• 3 siklus boyunca 3 haftada bir uygulanan doksorubisin 60 mg/m2 ve paklitaksel
+150 mg/m2,
+ardından
+• 4 siklus boyunca 3 haftada bir uygulanan paklitaksel 175 mg/m2,
+ardından
+• 3 siklus boyunca her 4 haftada bir 1 ve 8. günlerde CMF
+ardından cerrahi sonrası
+• ilave adjuvan trastuzumab siklusları (1 yıllık tedaviyi tamamlamak için)
+MO16432 çalışmasından elde edilen etkililik sonuçları aşağıdaki tabloda özetlenmiştir.
+Trastuzumab kolunda medyan takip süresi 3,8 yıldır.
+Tablo 13- MO16432 Etkililik Analizine Genel Bakış
+Parametre Kemoterapi + Kemoterapi Risk Oranı
+trastuzumab (n=116) ( %95 GA)
+(n=115)
+Olaysız sağkalım (EFS) 0,65
+(0,44, 0,96)
+Olaylı hasta sayısı 46 59
+p=0,0275
+Toplam patolojik tam yanıt* %40 %20,7 P=0,0014
+(%95 GA) (31, 49,6) (13,7, 29,2)
+Genel sağkalım (OS) 0,59
+(0,35, 1,02)
+Olaysız hasta sayısı 22 33
+p=0,0555
+*meme ve aksillar nodların her ikisinde birden herhangi bir invaziv kanserin bulunmaması olarak tanımlanmıştır.
+3 yıllık bir olaysız sağkalım oranı bakımından, risk oranı trastuzumab kolu lehine tahmini
+yüzde 13’lük (%65’e karşılık %52) mutlak bir faydaya dönüşür.
+İleri Evre Gastrik Kanser
+İleri evre gastrik kanserde trastuzumab, kemoterapiye karşılık, kemoterapi ile kombinasyon
+şeklinde kullanılarak randomize, açık etiketli, faz III çalışma olan ToGA (BO18255)
+çalışmasında araştırılmıştır.
+Kemoterapi aşağıdaki şekilde uygulanmıştır:
+- kapesitabin – 6 siklus boyunca her 3 haftada bir 14 gün boyunca günde iki kez oral
+yolla 1000 mg/m2
+veya
+- intravenöz 5-florourasil – 6 siklus boyunca her 3 haftada bir verilen 5 günde kesintisiz
+intravenöz infüzyon olarak 800 mg/m2/gün (her bir siklusun 1 ila 5. günleri)
+32İkisi de aşağıdakilerle uygulanmıştır:
+- sisplatin – her bir siklusun 1. gününde 6 siklus boyunca her 3 haftada bir 80 mg/m2.
+BO18225 çalışmasının etkililik sonuçları aşağıdaki Tablo 14’te özetlenmiştir:
+Tablo 14- BO18225’den Etkililik Sonuçları
+Parametre FP FP +H HR (%95 GA) p değeri
+N = 290 N = 294
+0,74
+11,1 13,8 0,0046
+Genel sağkalım, Medyan ay (0,6-0,91)
+Progresyonsuz Sağkalım, 0,71
+5,5 6,7 0,0002
+Medyan ay (0,59-0,85)
+Progresyona kadar geçen süre, 0,7
+5,6 7,1 0,0003
+Medyan ay (0,58-0,85)
+1,7a
+%34,5 %47,3 0,0017
+Toplam Yanıt Oranı, % (1,22, 2,38)
+0,54
+4,8 6,9 < 0,0001
+Yanıt süresi, Medyan ay (0,4-0,73)
+FP + H: Floropirimidin/sisplatin + trastuzumab
+FP: Floropirimidin/sisplatin
+a Risk oranı
+Çalışmaya HER2-pozitif ameliyat edilemeyen, lokal ileri veya nüks eden ve/veya metastatik,
+küratif tedaviye uygun olmayan mide ya da gastro-özofageal bağlantı adenokarsinomu için
+daha önce tedavi görmemiş hastalar alınmıştır. Birincil sonlanım noktası randomizasyon
+tarihinden herhangi bir nedenle ölüm tarihine kadar geçen süre olarak tanımlanmış genel
+sağkalımdır. Analiz zamanında; toplamda randomize edilmiş 349 hasta ölmüştür: kontrol
+kolunda 182 hasta (%62,8) ve tedavi kolunda 167 hasta (%56,8). Ölümlerin çoğu altta yatan
+kanserle ilişkili olaylardan kaynaklanmıştır.
+Post-hoc alt grup analizleri, daha yüksek seviyede HER2 proteini (IHC 2+/FISH+ ve IHC
+3+/FISH durumundan bağımsız) içeren hedef tümörlerde tedavinin daha etkili olduğunu
+göstermiştir. Yüksek düzeyde HER2 eksprese eden grupta medyan genel sağkalım
+trastuzumab + kapesitabin/5-FU + sisplatin ve kapesitabin/5-FU + sisplatin için sırasıyla 16
+aya karşın 11,8 ay, risk oranı 0,65 (%95 GA 0,51-0,83) ve medyan progresyonsuz sağkalım
+7,6 aya karşın 5,5 ay, risk oranı 0,64’tür (% 95 GA 0,51-0,79). Genel sağkalım için, HR IHC
+2+/FISH+ grubunda 0,75 (%95 GA 0,51-1,11) ve IHC 3+/FISH+ grubunda 0,58’dir (%95 GA
+0,41-0,81).
+TOGA (BO18255) çalışmasında yürütülen açıklayıcı alt grup analizinde, başlangıçta ECOG
+performans durumu 2 olan hastalarda trastuzumab ilavesi ile genel sağkalım üzerinde belirgin
+bir fayda görülmemiştir [HR 0,96 (%95 GA 0,51-1,79], ölçülebilir olmayan [HR 1,78 (%95
+GA 0,87-3,66)] ve lokal ileri hastalık [HR 1,2 (%95 GA 0,29- 4,97)].
+Pediyatrik popülasyon
+Pediyatrik kullanıma ilişkin bilgiler için bkz. bölüm 4.2.
+335.2 Farmakokinetik özellikler
+Genel özellikler
+Trastuzumabın farmakokinetiği, 18 adet Faz I, II ve III çalışmada trastuzumab kullanan HER2
+pozitif metastatik meme kanseri, erken meme kanseri, atipik glandüler hücre veya diğer tümör
+tipleri olan hastalar ile sağlıklı gönüllüleri içeren 1.582 vakadan elde edilen havuz verileri
+kullanılarak bir popülasyon farmakokinetik model analizinde değerlendirilmiştir. Santral
+bölmeden paralel lineer ve lineer olmayan eliminasyonlu iki bölmeli model trastuzumab
+konsantrasyonu-zaman profilini oluşturmuştur.
+Emilim:
+Santral bölme hacmi, metastatik ve erken meme kanseri hastaları için 2,62 L, atipik glandüler
+hücre hastaları içinse 3,63 L olmuştur. Final popülasyon farmakokinetik modelinde, primer
+tümör tipine ek olarak, trastuzumab maruziyetini etkileyen ve istatiksel olarak anlamlı
+eşdeğişkenler olarak vücut ağırlığı, serum aspartat aminotransferaz ve albumin belirlenmiştir.
+Buna karşın, trastuzumab maruziyeti üzerindeki etkilerinin büyüklüğü bu eşdeğişkenlerin
+trastuzumab konsantrasyonları üzerinde klinik olarak anlamlı bir etkilerinin olmadığını
+göstermektedir.
+Popülasyona bağlı farmakokinetik maruziyeti değerleri (5. ve 95. Persantiller ile medyan) ve
+onaylı haftada bir ve üç haftada bir doz rejiminde tedavi edilen metastatik meme kanseri,
+erken meme kanseri ve atipik glandüler hücre hastaları için klinik olarak anlamlı
+konsantrasyonlarda farmakokinetik parametre değerleri (Cmin, Cmaks) Tablo 15’te (1.
+siklus), Tablo 16’da (kararlı durum) ve Tablo 17’de (FKparametreleri) gösterilmektedir.
+Tablo 15- Metastatik meme kanseri, erken meme kanseri ve atipik glandüler hücre
+hastalarında trastuzumab IV doz rejimleri için popülasyona bağlı birinci siklus
+farmakokinetik değerleri (5. ve 95. Persantiller ile medyan)
+Primer tümör C C EAA
+min maks 0-21gün
+Doz Rejimi N
+tipi (mcg/mL) (mcg/mL) (mcg.gün/mL)
+8 mg/kg + Metastatik 28,7 182 1.376
+805
+6 mg/kg m eme kanseri (2,9-46,3) (134-280) (728 -1.998)
+üç haftada Erken meme 30,9 176 1.390
+390
+b ir k anseri (18,7-45,5) (127-227) (1.039-1.895)
+Atipik
+23,1 132 1.109
+glandüler 274
+(6,1-50,3) (84,2-225) (588-1.938)
+h ücre
+4 mg/kg + Metastatik 37,4 76,5 1.073
+805
+2 mg/kghaft m eme kanseri (8,7-58,9) (49,4-114) (597-1.584)
+ada bir Erken meme 38,9 76 1.074
+390
+k anseri (25,3-58,8) (54,7-104) (783-1.502)
+34Tablo 16- Metastatik meme kanseri, erken meme kanseri ve atipik glandüler hücre
+hastalarında trastuzumab IV doz rejimleri için popülasyona bağlı kararlı durum
+farmakokinetik maruziyeti parametre değerleri (5. ve 95. Persantiller ile medyan)
+Doz rejimi Primer N C C EAA Kararlı duruma
+min,ss* maks,ss** ss,0-
+tümör tipi (mcg/mL) (mcg/mL) (mcg.gün/ dek
+21gün
+mL) olansüre***
+(hafta)
+8 mg/kg + Metastatik
+44,2 179 1.736
+6 mg/kg meme 805 12
+(1,8-85,4) (123-266) (618-2.756)
+üç k anseri
+haftada Erken
+53,8 184 1.927
+bir meme 390 15
+(28,7-85,8) (134-247) (1.332-2.771)
+k anseri
+Atipik
+32,9 131 1.338
+glandüler 274 9
+(6,1-88,9) (72,5-251) (557-2.875)
+h ücre
+4 mg/kg + Metastatik
+63,1 107 1.710
+2 mg/kg meme 805 12
+(11,7-107) (54,2-164) (581-2.715)
+h aftada bir k anseri
+Erken
+72,6 115 1.893
+meme 390 14
+(46-109) (82,6-160) (1.309-2.734)
+k anseri
+C , *Kararlı durumda C
+minss* min
+C , ss**Kararlı durumda C
+maks maks
+***: kararlı durumun %90’ına dek olan süre
+Tablo 17- Metastatik meme kanseri, erken meme kanseri ve atipik glandüler hücre
+hastalarında trastuzumab IV doz rejimleri için popülasyona bağlı kararlı durum
+farmakokinetik parametre değerleri (5. ve 95. Persantiller ile medyan)
+C ’den C ’den
+maks,ss maks,ss
+C ’ye C ’ye
+min,ss min,ss
+Primer tümör
+Doz rejimi N toplam klerens yarılanma ömrü
+tipi
+aralığı aralığı
+(L/gün) (gün)
+8 mg/kg + 6 mg/kg Metastatik
+805 0,183-0,302 15,1-23,3
+üç haftada bir m eme kanseri
+Erken meme
+390 0,158-0,253 17,5-26,6
+k anseri
+Atipik glandüler
+274 0,189-0,337 12,6-20,6
+h ücre
+4 mg/kg + 2 mg/kg Metastik meme
+805 0,213-0,259 17,2-20,4
+h aftada bir k anseri
+Erken meme
+390 0,184-0,221 19,7-23,2
+k anseri
+Dağılım:
+Veri bulunmamaktadır.
+Metabolizma:
+35Veri bulunmamaktadır.
+Eliminasyon:
+Lineer olmayan eliminasyon nedeniyle, konsantrasyonun azalması ile toplam klerens
+artmıştır. Bu nedenle, trastuzumab için kararlı bir yarılanma ömrü değeri
+belirlenememektedir. Yarılanma ömrü, bir doz aralığı içinde konsantrasyonun azalmasıyla
+azalmaktadır (Tablo 17). Metastatik ve erken evre meme kanseri hastaları benzer
+farmakokinetik (PK) parametreleri (örneğin: klerens (CL)), santral bölme hacmi (VC) ve
+popülasyona bağlı kararlı durum maruziyeti (Cmin, Cmaks ve (EAA) göstermiştir. Lineer
+klerens metastatik meme kanseri için 0,136 L/gün, erken meme kanseri için 0,112 L/gün ve
+atipik glandüler hücre için 0,176 L/gün olmuştur. Lineer olmayan eliminasyon parameter
+değerleri maksimum eliminasyon hızı (Vmaks) için 8,81 mg/gün ve metastatik meme kanseri,
+erken meme kanseri ve atipik glandüler hücre hastaları için Michaelis-Menten sabiti (KM)
+için 8,92 mcg/mL olmuştur.
+Trastuzumab atılımı:
+Trastuzumab atılım periyodu haftada bir veya üç haftada bir intravenöz uygulamayı takiben
+popülasyon farmakokinetik modeli ile değerlendirilmiştir. Bu simülasyonlarınsonuçları,
+hastaların en az %95’inde yedinci Aya kadar < 1 mcg/mL (popülasyona bağlı C , ‘nin
+min ss
+yaklaşık %3’ü veya atılımın yaklaşık %97’si) konsantrasyonlarına ulaşılacağını
+göstermektedir.
+Dolaşan artık HER2 ECD:
+Eşdeğişkenlerin hastaların yalnızca bir grubuna ait bilgiler ile analizi daha fazla artık HER2-
+ECD seviyesine sahip hastaların daha hızlı doğrusal olmayan klerense sahip olduğunu
+göstermektedir (daha düşük K ) p < 0,001). Artık antijen ve SGOT/AST seviyeleri arasında
+M
+bir korelasyon vardır ve artık antijenin klerens üzerindeki etkisi kısmen SGOT/AST seviyeleri
+ile açıklanabilmektedir.
+Metastatik gastrik kanseri hastalarında görülen artık HER2-ECD’nin başlangıç seviyeleri
+metastatik ve erken meme kanseri hastalarında görülen ile benzerolmuştur ve trastuzumab
+klerensi üzerinde belirgin bir etki görülmemiştir.
+KANJİNTİ®’nin farmakokinetiği trastuzumaba benzerdir.
+Doğrusallık/Doğrusal olmayan durum:
+Veri bulunmamaktadır.
+Hastalardaki karakteristik özellikler:
+Geriyatrik popülasyon:
+Yaşlı hastalarda detaylı farmakokinetik çalışmalar yapılmamıştır. Trastuzumabın dağılımında
+yaşın herhangi bir etkisinin olmadığı gösterilmiştir (bkz. bölüm 4.2 Pozoloji ve uygulama
+şekli).
+Böbrek/Karaciğer yetmezliği:
+36Böbrek ve karaciğer yetmezliği olanlarda detaylı farmakokinetik çalışmalar yapılmamıştır.
+5.3 Klinik öncesi güvenlilik verileri
+Teratojenite:
+6 aya kadar yapılan çalışmalarda akut veya çoklu dozla ilişkili toksisite veya teratoloji,
+doğurganlık ya da geç gestasyonel toksisite/plasental transfer çalışmalarında üreme
+toksisitesine dair bir kanıt görülmemiştir. Trastuzumab genotoksik değildir. Formülasyonda
+önemli bir yardımcı madde olan trehaloz ile ilgili yapılan çalışmada, herhangi bir toksisite
+ortaya konulmamıştır.
+Trastuzumabın karsinojenik potansiyelini veya erkeklerde üreme üzerine etkilerini belirlemek
+için uzun süreli hayvan çalışmaları yapılmamıştır.
+6. FARMASÖTİK ÖZELLİKLER
+6.1 Yardımcı maddelerin listesi
+Histidin
+Histidin monohidroklorür
+Trehaloz dihidrat
+Polisorbat 20
+6.2 Geçimsizlikler
+KANJİNTİ® ile polivinilklorür, polietilen veya polipropilen torbalar arasında hiçbir
+geçimsizlik gözlenmemiştir.
+% 5’lik dekstroz solüsyonu, protein agregasyonuna yol açtığından kullanılmamalıdır.
+KANJİNTİ® bölüm 6.6’da bahsedilen tıbbi ürünler dışında diğer ilaçlarla karıştırılmamalı
+veya seyreltilmemelidir.
+6.3 Raf ömrü
+36 ay.
+6.4 Saklamaya yönelik özel tedbirler
+Flakonları 2°C - 8°C arasında buzdolabında saklayınız.
+Dondurmayınız.
+Işıktan korumak için flakonu orijinal ambalajında saklayınız.
+Steril enjeksiyonluk su ile çözüldükten sonra hazırlanan KANJİNTİ® solüsyonu, fiziksel ve
+kimyasal olarak 2°-8°C’de saklandığında 48 saat süreyle dayanıklıdır. Hazırlanan solüsyonu
+dondurmayınız.
+Mikrobiyolojik açıdan, hazırlanan solüsyon hemen seyreltilmelidir. Solüsyon hazırlığı
+kontrollü ve onaylanmış aseptik koşullarda yapılmadığı sürece, eğer hemen seyreltme
+37yapılmazsa ürünün uygun saklama süresi ve koşullarında seyreltilmesinden kullanıcı
+sorumludur ve bu süre 2°-8°C’de 24 saati geçmemelidir.
+Seyreltilen ürünü içeren infüzyon solüsyonu (% 0,9 sodyum klorür infüzyon solüsyonu)
+30°C’yi geçmeyen sıcaklıklarda saklandığında fiziksel ve kimyasal olarak 24 saat süreyle
+dayanıklıdır.
+Mikrobiyolojik açıdan, KANJİNTİ® infüzyon solüsyonu hemen kullanılmalıdır. Solüsyon
+hazırlığı ve seyreltme işlemi kontrollü ve onaylanmış aseptik koşullarda yapılmadığı sürece,
+eğer ürün hemen kullanılmazsa, ürünün uygun saklama süresi ve koşullarında kullanımından
+kullanıcı sorumludur ve bu süre 2°-8°C’de 24 saati geçmemelidir.
+6.5 Ambalajın niteliği ve içeriği
+Flor-reçine film ile lamine edilmiş butil kauçuk kapaklı 20 mL’lik şeffaf Tip I cam flakon.
+Her kutu 1 adet tek kullanımlık flakon içermektedir.
+6.6 Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+KANJİNTİ®’nin solüsyonu hazırlanırken dikkatli olunmalıdır. Hazırlama sırasında aşırı
+köpüklenme ya da hazırlanmış ilacın çalkalanması, flakondan çekilecek KANJİNTİ®
+miktarıyla ilgili problemlere yol açabilir.
+Uygun aseptik teknik kullanılmalıdır. 150 mg trastuzumab içeren her KANJİNTİ® flakonu
+7,2 mL steril enjeksiyonluk su (tedarik edilmemiştir) ile rekonstitüye edilir. Diğer
+rekonstitüsyon çözücülerinin kullanımından kaçınılmalıdır.
+Rekonstitüsyon sonucunda, yaklaşık 6,1 pH değeri olan ve 21 mg/mL trastuzumab içeren
+7,4 mL tek doz kullanımlık çözelti elde edilir. %4 oranındaki hacim fazlalığı her bir
+flakondan etikette belirtilen doz olan 150 mg’ın çekilmesini sağlar.
+Hazırlama talimatları:
+1) Steril enjektör kullanılarak, 7,2 mL enjeksiyonluk steril suyu, liyofilize KANJİNTİ® içeren
+flakona yavaşça enjekte ediniz. Bunu yaparken steril suyu (iğneyi) liyofilize maddenin içine
+yönlendiriniz.
+2) Çözünmeye yardımcı olmak üzere flakonu yavaşça çeviriniz. ÇALKALAMAYINIZ!
+Hazırlama sırasında ürünün hafifçe köpüklenmesi normaldir. Flakonu sarsmadan 5 dakika
+bekletiniz. Hazırlanmış KANJİNTİ®, renksiz ya da açık sarı saydam bir solüsyondur ve
+görülebilir partikül içermemesi gerekir.
+Seyreltme için talimatlar:
+38Gereken solüsyonun hacmi;
+• 4 mg /kg (vücut ağırlığı) trastuzumab yükleme dozuna veya 2 mg /kg (vücut ağırlığı)
+trastuzumab idame dozuna göre belirlenir:
+Vücut ağırlığı (kg) x doz (yükleme dozu için 4 mg/kg veya idame için 2 mg/kg)
+Hacim (mL) =
+21 (mg/mL, hazırlanan solüsyonun konsantrasyonu)
+• 8 mg /kg (vücut ağırlığı) trastuzumab yükleme dozuna veya 3 haftada bir uygulanan 6 mg
+/kg (vücut ağırlığı) trastuzumab idame dozuna göre belirlenir.
+Vücut ağırlığı (kg) x doz (yükleme için 8 mg/kg veya idame için 6 mg/kg)
+Hacim (mL) =
+21 (mg/mL, hazırlanan solüsyonun konsantrasyonu)
+Uygun solüsyon volümü flakondan çekilmeli ve 250 mL %0,9 sodyum klorür içeren bir
+infüzyon torbasına eklenmelidir. Dekstroz solüsyonu (%5) kullanılmamalıdır (bkz. bölüm 6.2
+Geçimsizlikler). Köpüklenmenin önlenmesi için, torba yavaşça ters döndürülerek solüsyon
+karıştırılmalıdır. Uygulamadan önce, parenteral ilaç ürünleri partikül ve renk değişiklikleri
+açısından gözle incelenmelidir. İnfüzyon hazırlandığında hemen uygulanması gerekir.
+Kullanılmamış olan ürünler ya da atık materyaller “Tıbbi Atıkların Kontrolü Yönetmeliği” ve
+“Ambalaj Atıklarının Kontrolü Yönetmeliği”’ne uygun olarak imha edilmelidir.
+7. RUHSAT SAHİBİ
+Amgen İlaç Tic. Ltd. Şti.
+İş Kuleleri, Levent Mah., Meltem Sok.
+No: 10 Kule: 2 Kat: 25
+4. Levent, Beşiktaş, İstanbul
+8. RUHSAT NUMARASI
+2020/270
+9. İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi: 22.12.2020
+Ruhsat yenileme tarihi:
+10. KÜB’ÜN YENİLENME TARİHİ
+39

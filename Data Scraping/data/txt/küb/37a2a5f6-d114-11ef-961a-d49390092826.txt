@@ -1,0 +1,420 @@
+KISA ÜRÜN BİLGİSİ
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+OCTANINE F 500 IU/5 ml IV enjeksiyonluk çözelti hazırlamak için toz ve çözücü
+Steril
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde:
+Her bir flakonda:
+500 IU insan koagülasyon faktörü IX
+5 mL enjeksiyonluk su ile rekonstitüe edilen ürün yaklaşık 100 IU/mL insan koagülasyon
+faktörü FIX içerir.
+OCTANINE F insan donörlerin plazmasından elde edilir.
+Potens (IU), bir DSÖ uluslararası standardı ile karşılaştırılmak suretiyle Avrupa Farmakopesi
+tek aşamalı pıhtılaşma testi kullanılarak tayin edilir.
+OCTANINE F spesifik aktivitesi yaklaşık 100 IU/mg proteindir.
+Yardımcı madde:
+1 flakon OCTANINE F 500 IU/5 ml, 69 mg‟a kadar sodyum içerir.
+Yardımcı maddeler için 6.1‟e bakınız.
+3. FARMASÖTİK FORM
+Enjeksiyonluk çözelti için toz ve çözücü.
+Toz beyaz veya soluk sarı, ayrıca ufalanabilir katı görünümündedir.
+4. KLİNİK ÖZELLİKLER
+4.1. Terapötik endikasyonlar
+OCTANINE F, hemofili B‟li (konjenital faktör IX yetmezliği olan) hastalarda kanama
+profilaksisi ve tedavisinde kullanılır.
+4.2. Pozoloji ve uygulama şekli
+Tedaviye, hemofili tedavisinde uzman bir hekim gözetiminde başlanmalıdır.
+Pozoloji/Uygulama sıklığı ve süresi:
+Daha önce tedavi edilmemiş hastalar:
+OCTANINE F‟in daha önce tedavi edilmemiş hastalardaki etkililiği ve güvenliliği henüz
+belirlenmemiştir.
+1Tedavinin izlenmesi:
+Tedavi süresince, uygulanacak doz ve tekrarlanacak infüzyon sıklığının belirlenmesi için
+faktör IX düzeylerinin uygun şekilde tayin edilmesi tavsiye edilir. Her bir hastanın faktör IX‟a
+cevabı değişik olabilir, iyileşme farklı derecelerde olabilir ve farklı yarılanma ömrü
+gösterebilir. Vücut ağırlığına dayanan dozun, vücut ağırlıkları normalin altında ve üstünde
+olan hastalarda ayarlanması gerekebilir. Özellikle majör cerrahi müdahalelerde, yerine koyma
+tedavisinin, koagülasyon analizi (plazma faktör IX aktivitesi) yoluyla tam olarak izlenmesi
+zorunludur.
+Pozoloji:
+Yerine koyma tedavisinin dozu ve süresi faktör IX eksikliğinin şiddetine, kanamanın yeri ve
+büyüklüğüne ve hastanın klinik durumuna bağlıdır.
+Uygulanan faktör IX ünite miktarı, faktör IX ürünleri için güncel DSÖ standardı ile ilgili
+„International Units (IU)‟ ile ifade edilir. Plazmada faktör IX aktivitesi ise yüzde oranı
+(normal insan plazmasına göre) veya International Unit (plazmadaki faktör IX için
+uluslararası standarda göre) olarak ifade edilir.
+Bir International Unit (IU) faktör IX aktivitesi, 1 mL normal insan plazmasında bulunan
+faktör IX miktarına denktir.
+Gereksinim duyulan tedavi
+Gerekli faktör IX dozu, 1 IU faktör IX/kg vücut ağırlığının plazma faktör IX aktivitesini
+normal aktivitenin %1‟i kadar yükselttiği şeklindeki ampirik bilgi esas alınarak hesaplanır.
+Gerekli doz aşağıdaki formül kullanılarak belirlenir:
+Gerekli ünite = vücut ağırlığı (kg) x istenen faktör IX artışı (%) (IU/dL) x 0,8
+Uygulanacak miktar ve uygulama sıklığı her zaman her bir hastadaki klinik etkinliğe bağlıdır.
+Aşağıdaki kanama durumlarında, faktör IX aktivitesi söz konusu sürede, tabloda verilen
+plazma aktivite seviyesinin (normalin %‟si) altına düşmemelidir.
+Aşağıdaki tablo, kanamalarda ve cerrahide doz ayarlama rehberi olarak kullanılabilir:
+Kanama derecesi/ Gerekli faktör IX Doz sıklığı (saat)/
+Cerrahi işlem türü seviyesi (%) (IU/dL) Tedavi süresi (gün)
+Kanama
+Erken hemartroz, 20 – 40 Her 24 saatte bir tekrarlanır. En az 1
+kas kanaması veya oral kanama gün olmak üzere, ağrı ile kendini belli
+eden kanama durana veya iyileşme
+elde edilene kadar
+Daha yoğun hemartroz, kas 30 – 60 İnfüzyon, 3-4 gün veya daha uzun
+kanaması veya hematom süreyle ağrı veya akut bozukluk
+geçinceye kadar her 24 saatte bir
+tekrarlanır.
+Hayati tehlike taşıyan kanama 60 – 100 Tehlike ortadan kalkıncaya kadar her
+8–24 saatte bir infüzyon tekrarlanır.
+Cerrahi
+Minör cerrahi 30 – 60 Her 24 saatte bir, en az 1 gün olmak
+2Diş çekimi dahil üzere, iyileşme elde edilene kadar.
+Majör cerrahi 80 – 100 Yara yeterince iyileşene kadar her 8-
+(operasyon 24 saatte bir infüzyon tekrarlanır.
+öncesi/sonrası) Daha sonra en az 7 gün daha FIX
+aktivitesini %30 - %60‟ta (IU/dL)
+tutmak için tedavi uygulanır.
+Profilaksi
+Ağır Hemofili B hastalarında kanamaya karşı uzun vadeli profilaksi için olağan doz, vücut
+ağırlığının kilogramı başına 20–40 IU faktör IX‟dur ve 3-4 günlük aralıklarla verilmelidir.
+Bazı durumlarda, özellikle daha genç hastalarda, daha kısa doz aralıkları veya daha yüksek
+doz uygulaması gerekebilir.
+Sürekli infüzyon
+Cerrahi prosedürlerde OCTANINE F‟nin devamlı infüzyonunun önerilmesi için yeterli veri
+yoktur.
+Uygulama şekli:
+Intravenöz yolla uygulanır.
+Uygulama hızının dakikada 2-3 mL‟yi geçmemesi tavsiye edilir.
+Ürün, ambalaj içinde sunulan enjeksiyonluk su (çözücü) ile çözünerek kullanılır. Bu ilacın
+uygulanmasından önceki sulandırma talimatları için Bölüm 6‟ya bakınız.
+Özel popülasyonlara ilişkin ek bilgiler:
+Böbrek/Karaciğer yetmezliği:
+Böbrek ve karaciğer yetmezliği olan hastalarda minimum konsantrasyonda ve pratik olarak
+mümkün en yavaş infüzyon hızıyla uygulanmalıdır.
+Pediyatrik popülasyon:
+6 yaş altındaki 25 çocukta yürütülen çalışma, her bir maruziyet günü için uygulanan medyan
+dozun kanamanın tedavisi ve profilaksisi için aynı olduğunu göstermiştir (yani 35-40 IU/kg
+VA).
+Geriyatrik popülasyon:
+65 yaşının üzeri yaşlı kişilerde doz ayarlaması ve minimum infüzyon hızıyla uygulama
+gereklidir.
+4.3. Kontrendikasyonlar
+- Etkin maddeye veya diğer bileşenlerin (Bkz. Bölüm 6.1) herhangi birine karşı aşırı
+duyarlılık durumunda
+- Heparin tedavisi sırasında trombosit azalmasına bağlı bilinen alerjisi olan hastalarda
+(heparine bağlı trombositopeni [HT] tip II) kontrendikedir.
+4.4. Özel kullanım uyarıları ve önlemleri
+Aşırı duyarlılık
+3OCTANINE F ile alerjik tipte aşırı duyarlılık reaksiyonları olasıdır. Ürün, faktör IX ve
+heparin dışında eser miktarlarda insan proteinleri içerir. Hastalara, hipersensitivite
+semptomları oluştuğunda ürün kullanımını derhal durdurmaları ve hekimleri ile temasa
+geçmeleri öğütlenmelidir. Hastalar, kurdeşen, jeneralize ürtiker, göğüste daralma, hırıltılı
+solunum, düşük tansiyon ve anafilaksiyi de içine alan aşırı duyarlılık reaksiyonlarının erken
+belirtileri konusunda bilgilendirilmelidir.
+Şok durumunda, şok tedavisi için geçerli standart tıbbi tedavi uygulanmalıdır.
+Virüs güvenliliği:
+İnsan kanı veya plazmasından hazırlanan tıbbi ürünlerin kullanımından kaynaklanan
+enfeksiyonları önlemek için alınan standart tedbirler arasında, donörlerin seçimi, her
+bir bağışın ve plazma havuzlarının spesifik enfeksiyon ajanlarına ait belirteçler
+açısından taranması, virüslerin inaktivasyonu/uzaklaştırılması için etkili üretim
+aşamalarının dahil edilmesi bulunur. Buna rağmen insan kan veya plazmasından
+hazırlanan tıbbi ürünler kullanıldığında, enfeksiyon ajanlarının bulaşması olasılığı
+tamamen saf dışı bırakılamayabilir. Bu durum henüz bilinmeyen veya yeni çıkan
+virüsler ile diğer patojenler için de geçerlidir.
+Alınan önlemlerin HIV, HBV ve HCV gibi zarflı virüsler ile zarfsız virüs HAV için etkili
+olduğu kabul edilir. Alınan önlemlerin parvovirüs B19 gibi zarfsız virüslere karşı etkisi
+sınırlı olabilir. Parvovirüs B19 enfeksiyonu hamile kadınlar (fötal enfeksiyon) ve immün
+yetersizliği veya yükselmiş eritropoiezi (örneğin, hemolitik anemi) olan kişilerde ciddi
+olabilir.
+Düzenli/tekrarlanan sürelerle insan plazma derivesi faktör IX konsantresi alan hastalara uygun
+aşılamanın (hepatit A ve B) yapılması önerilmektedir.
+Hasta ile uygulanan ilaç arasında bir bağlantı kurulabilmesi için, hastaya her OCTANINE F
+uygulanışında ürünün adının ve seri numarasının kaydedilmesi önerilir.
+İnhibitörler
+İnsan koagülasyon faktör IX ürünleri ile tekrarlanan tedavi sonrasında, hastalar uygun
+biyolojik testler kullanılarak miktarı Bethesda Units (BU) cinsinden belirlenen nötralize edici
+antikorların (inhibitörler) gelişmesine karşı izlenmelidir.
+Faktör IX inhibitörü ve alerjik reaksiyonlar arasındaki ilişkiyi gösteren raporlar literatürde
+mevcuttur. Bu nedenle, alerjik reaksiyon gösteren hastalar inhibitör varlığı açısından
+değerlendirilmelidir. Faktör IX inhibitörü taşıyan hastalarda müteakip faktör IX
+uygulamasında anafilaksi riskinin artmış olabileceği dikkate alınmalıdır.
+Faktör IX ürünlerinin kullanımına bağlı alerjik reaksiyon riski nedeniyle, tedaviyi yürüten
+hekimin görüşüne bağlı olarak, faktör IX başlangıç uygulaması, alerjik reaksiyonlar için
+uygun tıbbi bakımın sağlanabileceği bir yerde tıbbi gözlem altında yapılmalıdır.
+Tromboembolizm
+Tromboembolik komplikasyonlar açısından potansiyel risk bulunduğundan, (karaciğer
+hastalığı olanlarda, ameliyat sonrasında, yeni doğanlarda veya trombotik olay veya dissemine
+intravasküler koagülasyon (DIC) riski taşıyan hastalarda bu ürün uygulanırken, uygun
+4biyolojik testlerle trombotik ve konsumptif koagülopatinin erken belirtilerini saptayabilmek
+için klinik gözetim uygulanmalıdır. Bu durumların her birinde, OCTANINE F uygulamasının
+yararı, söz konusu komplikasyonların riskine göre hesaplanmalıdır.
+Kardiyovasküler olaylar
+Kardiyovasküler risk faktörleri olan hastalarda, Faktör IX ile yerine koyma tedavisi
+kardiyovasküler riski arttırabilir.
+Kateter ile ilişkili komplikasyonlar
+Eğer bir santral venöz giriş cihazı (CVAD) gerekli ise, bu cihaza bağlı riskler (örneğin, lokal
+enfeksiyonlar, bakteremi ve kateter bölgesinde tromboz) dikkate alınmalıdır.
+Kontrollü sodyum diyetinde olan hastalar
+Bu tıbbi ürünün her bir dozunda (69 mg‟a kadar sodyum bulunur. Bu miktar, DSÖ‟nün bir
+yetişkin için önerdiği günlük maksimum sodyum alım miktarı olan 2 gramın %3,45‟idir. Bu
+durum, kontrollü sodyum diyetinde olan hastalar için göz önünde bulundurulmalıdır.
+Pediyatrik popülasyon
+Yukarıda listelenen uyarılar ve önlemler gerek yetişkinler ve gerekse çocuklar için geçerlidir.
+4.5. Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+OCTANINE F‟nin diğer tıbbi ürünlerle etkileşimi bildirilmemiştir.
+4.6. Gebelik ve laktasyon
+Genel tavsiye
+Gebelik kategorisi: C
+Çocuk doğurma potansiyeli bulunan kadınlar/doğum kontrolü (kontrasepsiyon)
+OCTANINE F‟nin, çocuk doğurma potansiyeli bulunan kadınlarda kullanımına ilişkin özel
+bir öneri veya tedavi sırasında veya sonrasında doğum kontrolünün gerekli olduğuna dair
+herhangi bir bilgi söz konusu değildir.
+Gebelik dönemi
+Faktör IX ile hayvanlarda üreme çalışmaları yapılmamıştır. Hemofili B‟nin kadınlarda
+görülme sıklığının çok düşük olması nedeniyle, gebelerde faktör IX kullanımına ait deneyim
+bulunmamaktadır. Bu nedenle OCTANINE F gebe kadınlarda kesin gerekli ise
+kullanılmalıdır.
+Laktasyon dönemi
+OCTANINE F‟nin süt ile atılımı hayvanlar üzerinde araştırılmamıştır. Hemofili B‟nin
+kadınlarda görülme sıklığının çok düşük olması nedeniyle, emziren annelerde faktör IX
+kullanımına ait deneyim bulunmamaktadır. Emzirmenin durdurulup durdurulmayacağına ya
+da OCTANINE F tedavisinin durdurulup durdurulmayacağına/tedaviden kaçınılıp
+kaçınılmayacağına ilişkin karar verilirken, emzirmenin çocuk açısından faydası ve
+OCTANINE F tedavisinin emziren anne açısından faydası dikkate alınmalıdır.
+Üreme yeteneği/fertilite
+5Hayvan üreme çalışmaları yürütülmemiştir. İnsanlardaki üreme yeteneği/fertiliteyi etkileyip
+etkilemediği bilinmemektedir.
+4.7. Araç ve makine kullanımı üzerindeki etkiler
+OCTANINE F‟in araba veya makine kullanabilme üzerinde bir etkisi yoktur.
+4.8. İstenmeyen etkiler
+Güvenlilik profilinin özeti
+Hipersensitivite veya alerjik reaksiyonlar (bunlar arasında anjiyoödem, infüzyon yerinde
+yanma ve batma, ürperme, sıcak basması (flushing), jeneralize ürtiker, baş ağrısı, kurdeşen,
+hipotansiyon, letarji, mide bulantısı, huzursuzluk, taşikardi, göğüste sıkışma hissi,
+karıncalanma, kusma, hırıltılı nefes alma bulunabilir) seyrek olarak gözlenmiştir ve bazı
+vakalarda, şok dahil, şiddetli anafilaksiye kadar ilerleyebilir. Bazı vakalarda, bu reaksiyonlar
+şiddetli anafilaksiye kadar ilerlemiş ve bu durum Faktör IX inhibitörlerinin gelişmesiyle sıkı
+bir zamansal ilişki göstermiştir (Bölüm 4.4‟e de bakınız). Faktör IX inhibitörleri ve alerjik
+reaksiyon öyküsü olan hemofili B hastalarında immün tolerans indüklenmesi girişimini
+takiben nefrotik sendrom bildirilmiştir.
+Seyrek olarak ateş gözlenmiştir.
+Hemofili B hastalarında faktör IX‟a karşı nötralize edici antikorlar (inhibitörler) gelişebilir.
+Eğer bu inhibitörler oluşursa, durum kendisini yetersiz klinik cevap şeklinde gösterecektir. Bu
+durumlarda, uzmanlaşmış bir hemofili merkezine başvurulması önerilir. Hemofili B hastası 25
+çocukla bir çalışma yürütülmüştür. Bu çocuklardan 6‟sı daha önce tedavi edilmemiştir ve
+OCTANINE F‟e medyan maruziyet günü sayısı 38‟dir (aralık 8-90). Tüm hastalarda
+başlangıç faktör IX inhibitör düzeyi <0,4 BU‟dur. Çalışma boyunca inhibitör gözlenmemiştir.
+Faktör IX ürünlerinin uygulanması sonrasında potansiyel bir tromboembolik olay riski vardır.
+Düşük saflıktaki preparatlarda bu risk daha yüksektir. Düşük saflıktaki faktör IX ürünlerinin
+kullanımı, miyokardiyal enfarktüs, dissemine intravasküler koagülasyon, venöz tromboz ve
+pulmoner embolizm vakaları ile ilişkili bulunmuştur. Yüksek saflıkta faktör IX kullanımı bu
+tip advers reaksiyonlarla seyrek olarak ilişkilendiirilmiştir.
+Bulaşıcı ajanlarla ilgili güvenlilik bilgileri için Bkz. Bölüm 4.4.
+Advers reaksiyonların tablolu listesi
+Aşağıdaki tablo, MedDRA sistem organ sınıflarına göre ve Tercih Edilen Terimler ullanılarak
+hazırlanmıştır.
+Sıklıklar, şu tanımlara göre belirlenmiştir: Çok yaygın (≥1/10); yaygın (≥1/100 ila <1/10);
+yaygın olmayan (≥1/1.000 ila <1/100); seyrek (≥1/10.000 ila <1/1.000); çok seyrek
+(<1/10.000), bilinmiyor (eldeki verilerden hareketle tahmin edilemiyor).
+6MedDRA Standardı Sistem Advers reaksiyonlar
+Organ Sınıfları
+Seyrek Çok seyrek
+Bağışıklık sistemi hastalıkları hipersensitivite Anafilaktik şok
+Vasküler hastalıklar tromboembolik olay*
+Böbrek ve idrar hastalıkları nefrotik sendrom
+Genel bozukluklar ve heparine bağlı
+uygulama bölgesine ilişkin trombositopeni
+hastalıklar
+ateş
+Araştırmalar anti faktör IX antikor pozitif
+*MedDRA en düşük düzey terimi (LLT)
+Seçilmiş advers reaksiyonların açıklanması
+OCTANINE F „nin içerdiği heparin miktarı nedeniyle, seyrek olarak, ani ve alerjinin
+indüklemesiyle, kan platelet sayısının 100.000/μl değerinin altına veya başlangıçtaki sayının
+%50‟sinin altına düşmesi durumu gözlenebilir (trombositopeni tip II). Daha önce heparine
+hipersensitivite göstermemiş hastalarda trombositlerdeki bu düşme, tedavinin başlamasından 6-
+14 gün sonra ortaya çıkabilir. Daha önce heparine hipersensitivite göstermiş hastalarda bu
+azalma, tedaviyi izleyen birkaç saat içinde ortaya çıkabilir.
+Kan platelet azalmasının bu ağır formu, arteriyel ve venöz tromboz, tromboembolizm, şiddetli
+pıhtılaşma bozukluğu (konsumptif koagülopati), enjeksiyon yerinde deri nekrozu, sinek
+ısırığına benzer kanama (peteşiyal kanamalar), purpura ve katran renkli feçes durumlarıyla
+birlikte görülebilir veya bu durumlarla sonuçlanabilir. Eğer spesifik alerjik reaksiyonlar
+gözlenirse, OCTANINE F enjeksiyonları derhal durdurulmalıdır. Hasta, gelecekte, heparin
+içeren ilaçları kullanmaması konusunda uyarılmalıdır. Kan plateletleri üzerinde seyrek ortaya
+çıkan ve heparinden kaynaklanan bu etki nedeniyle, hastanın kan platelet sayıları, özellikle
+tedavinin başlangıcında, sıkı bir şekilde izlenmelidir.
+Pediyatrik popülasyon
+Çocuklardaki advers reaksiyonların sıklık, tip ve şiddet açısından yetişkinlerinki ile aynı olması
+beklenir.
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TÜFAM)‟ne bildirmeleri gerekmektedir. (www.titck.gov.tr;
+e- posta: tufam@titck.gov.tr; tel: 0 800 314 00 08; faks: 0 312 218 35 99)
+4.9. Doz aşımı ve tedavisi
+İnsan koagülasyon faktörü IX ile ilgili doz aşımı rapor edilmemiştir.
+75. FARMAKOLOJİK ÖZELLİKLER
+5.1. Farmakodinamik özellikler
+Farmakoterapötik grup: Antihemorajikler, kan koagülasyon faktörü IX
+ATC-Kodu: B02BD04
+Etki mekanizması:
+Faktör IX, moleküler kütlesi yaklaşık 68.000 Dalton olan tek zincirli glikoproteindir.
+Karaciğerde sentezlenen K-vitaminine bağımlı bir koagülasyon faktörüdür. Faktör IX, faktör
+XIa ile intrinsik koagülasyon yolağında ve faktör VII/doku faktörü kompleksi ile de ekstrinsik
+yolakta aktive edilir. Aktive edilmiş faktör IX, aktive edilmiş faktör VIII ile kombinasyon
+halinde, faktör X‟u aktive eder. Bu da protrombinini trombine çevirir. Trombin daha sonra
+fibrinojeni fibrine çevirir ve pıhtı oluşur.
+Hemofili B, düşük faktör IX seviyesi nedeniyle spontan olarak ya da kaza veya cerrahi
+travmalar sonucu oluşan eklem içi, kas içi veya iç organlarda aşırı kanama ile sonuçlanan, kan
+koagülasyonunun cinsiyete bağlı kalıtımsal bir bozukluğudur. Yerine koyma tedavisi ile
+faktör IX‟un plazmadaki seviyesi yükseltilerek, geçici olarak faktör IX yetersizliği ve kanama
+eğilimi düzeltilir.
+Pediyatrik popülasyon
+6 yaş altı 25 çocukta bir çalışma yapılmıştır. Bunların içinden 6 hasta daha önce tedavi
+görmemiş hastadır. Kilogram vücut ağırlığı başına >25 IU OCTANINE F uygulamasının
+ardından tedavinin ilk 3 ayında ve 12-24 ay sonra iyileşme araştırılmıştır. İnkremental
+iyileşme (geometrik ortalama ± s.d., tek aşamalı tayin, gerçek potens) 1. ve 2.
+değerlendirmede sırasıyla %0,8±1,4 ve 0,9±1,3 /IU/kg olacak şekilde hesaplanmıştır.
+5.2. Farmakokinetik özellikler
+12 yaş üstü 13 Hemofili B hastası ile yapılan bir farmakokinetik çalışmada OCTANINE F
+için aşağıdaki sonuçlar elde edilmiştir (ortalama yaş 28, yaş aralığı 12 - 61):
+N=13 Medyan Ortalama SD* Minimum Maksimum
+İnkremental iyileşme 1,2 1,3 0,5 0,8 2,4
+[IU/dl]/[IU/kg]
+EAA*norm 32,4 37,7 13 24,5 64
+(IU x dl-1 x h x IU-1 x kg)
+Yarılanma-ömrü (saat =s) 27,8 29,1 5,2 22 36,8
+MRT* (saat) 39,4 40 7,3 30,2 51,6
+Klerens (mL x s-1 x kg) 3,1 2,9 0,9 1,6 4,1
+*EAA = eğri altındaki alan
+*MRT = ortalama rezidans süresi
+*SD = standart sapma
+İnkremental iyileşme ikinci bir çalışmada da test edilmiştir. Tüm iyileşme
+değerlendirmelerinin meta-analizi (n=19) ortalama 1,1 [IU/dl]/[IU/kg] iyileşme ile
+sonuçlanmıştır.
+8OCTANINE F intravenöz uygulama sonrası kan dolaşımında hemen ve tam olarak mevcuttur.
+OCTANINE F‟nin yarılanma ömrü yaklaşık 29,1 saattir (standart sapma 5,2 saattir).
+Emilim:
+İntravenöz uygulama sonrası, uygulanan faktör IX miktarının tamamı dolaşımda tespit
+edilebilir.
+İntravenöz uygulama sonrası absorbsiyon tam ve hızlıdır.
+Dağılım:
+Plazma ve ekstravasküler sıvı arasında nispeten hızlı dağıldığından, preparatın miktarı
+uygulamadan 3-5 gün sonra intravasküler ve ekstravasküler kompartmanlar arasında dengeye
+ulaşır.
+Eliminasyon:
+Eliminasyon yarı ömrü yaklaşık 24 saattir.
+Doğrusallık / Doğrusal olmayan durumlar:
+Eliminasyonu dozla orantılı olarak lineerdir.
+5.3. Klinik öncesi güvenlilik verileri
+İnsan plazması koagülasyon faktörü IX (konsantreden) insan plazmasının normal bir
+bileşenidir ve endojen faktör IX gibi davranır. Hayvan çalışmaları sınırlıdır ve KÜB‟ün diğer
+bölümlerinde bahsedilmiş olan risklere ilave risk göstermez.
+6. FARMASÖTİK ÖZELLİKLER
+6.1. Yardımcı maddelerin listesi
+Toz
+Heparin
+Sodyum klorür
+Sodyum sitrat
+Arjinin hidroklorür
+Lisin hidroklorür
+Çözücü
+Enjeksiyonluk su
+6.2. Geçimsizlikler
+Geçimsizlik çalışmaları bulunmadığından, OCTANINE F diğer ilaçlarla karıştırılmamalıdır.
+Sadece ürünle birlikte sağlanan enjeksiyon/infüzyon setleri kullanılmalıdır. Çünkü bazı
+enjeksiyon/infüzyon ekipmanının iç yüzeyine insan koagülasyon faktörü IX‟un adsorbe
+olması sonucunda tedavi başarısızlığa uğrayabilir.
+96.3. Raf ömrü
+Raf ömrü 24 aydır.
+Biyokimyasal ve fiziksel kullanım stabilitesi, 25oC‟de 72 saat olarak gösterilmiştir.
+Mikrobiyolojik açıdan, sulandırılan ürün derhal kullanılmalıdır. Ürün sulandırıldıktan sonra
+derhal kullanılmazsa, sulandırılmış ürünün saklama süresi ve koşulları uygulayıcının
+sorumluluğundadır. Sulandırılmış ürünün oda sıcaklığında (25oC) 8 saatten daha uzun süreyle
+saklanması önerilmez.
+6.4. Saklamaya yönelik özel tedbirler
+25oC‟nin altında oda sıcaklığında saklayınız.
+Dondurmayınız.
+Donmuş ürünleri çözüp kullanmayınız. Flakonu ışıktan korumak için dış ambalajı içinde
+saklayınız.
+Sulandırıldıktan sonraki saklama koşulları için Bkz. Bölüm 6.3.
+6.5. Ambalajın niteliği ve içeriği
+OCTANINE F 500 IU/5 ml ambalajı içinde;
+- 1 adet 30 mL toz flakonu (tip I cam), bromobütil lastik tıpalı ve flip-off kapaklı
+(aluminyum) + kullanım talimatı
+- 1 adet çözücü flakonu (5 mLenjeksiyonluk su) (tip I veya tip II cam), klorobütil veya
+bromobütil lastik tıpalı ve flip-off kapaklı (aluminyum)
+- Tıbbi cihaz içeren ekipman paketi (1 tek kullanımlık enjektör, 1 transfer seti [1 iki
+uçlu iğne ve 1 filtre iğnesi ], 1 infüzyon seti ([kelebek set])
+2 alkollü mendil
+6.6. Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+Lütfen tüm talimatları okuyunuz ve dikkatle uygulayınız!
+Aşağıda açıklanan işlem süresince sterilite korunmalıdır!
+Ürünün karton ambalajı ve etiketi üzerinde belirtilen son kullanma tarihinden sonra
+kullanmayınız.
+Enjektör içindeki çözelti berrak veya hafif incimsi ışıltılı görünümde olmalıdır. Bulanık veya
+tortu içeren çözeltileri enjekte etmeyiniz.
+Mikrobiyal kontaminasyonu önlemek için, sulandırılan çözeltiyi derhal kullanınız.
+Sadece size bu ürünün ambalajı ile birlikte sağlanan enjeksiyon setini kullanınız. Başka
+enjeksiyon/infüzyon ekipmanının kullanılması, ek risklere ve tedavinin başarısız olmasına
+neden olabilir.
+Sulandırma talimatları:
+1. Buzdolabından çıkan toz ve çözücü flakonlarını doğrudan kullanmayınız. Kapağı
+açılmamış flakonlardaki toz ve çözücüyü önce oda sıcaklığına getiriniz. Sulandırma süresince
+bu sıcaklığı muhafaza ediniz.
+102. Tozun ve suyun bulunduğu flakonların koruma kapaklarını çıkarınız ve her iki şişenin
+lastik tıpalarını alkollü mendille temizleyiniz.
+3. İki uçlu iğnenin kısa ucunun koruma kapağını çıkartınız ve iğnenin açıkta kalan kısmının
+hiçbir yere değmemesine dikkat ediniz.
+Daha sonra suyun bulunduğu flakonun lastik tıpasını tam ortadan, iğneyi dik tutarak deliniz.
+Su flakonundan sıvıyı tamamen çekmek için iğne tıpayı tam olarak delecek ve flakonun
+içinden görülecek şekilde batırılmalıdır.
+4. İki uçlu iğnenin uzun olan diğer ucunun koruma kapağını çıkarınız, iğnenin açıkta kalan
+kısmının hiçbir yere temas etmemesine dikkat ediniz.
+Su flakonunu başaşağı pozisyonda tozun bulunduğu flakonun üzerine doğru getiriniz ve hızlı
+bir şekilde iğnenin uzun olan ucuyla toz flakonunun lastik tıpasını tam ortadan deliniz. Toz
+flakonundaki vakum suyu çekecektir.
+5. İki uçlu iğneyi boş su flakonu ile birlikte tozun bulunduğu flakondan çekiniz. Toz
+flakonunu, konsantre tamamıyla çözününceye kadar yavaşça döndürerek çeviriniz.
+OCTANINE F oda sıcaklığında çok çabuk çözünür ve berrak bir çözelti oluşturur.
+Sulandırılmış ürünler, hastaya uygulanmadan önce, partükül ve renk değişikliği olmadığından
+emin olmak için gözle kontrol edilmelidir.
+Eğer konsantre tam olarak çözünmezse veya topaklanma olursa bu preparat
+kullanılmamalıdır.
+Sulandırılarak hazırlanan çözelti derhal ve sadece tek seferde kullanılmalıdır.
+Enjeksiyon için talimatlar:
+Faktör IX enjeksiyonu öncesinde ve enjeksiyon sırasında, önlem olarak, hastanın kalp atım
+hızı ölçülmelidir. Kalp atım hızında belirgin bir artış görüldüğü takdirde enjeksiyon hızı
+azaltılmalı veya uygulama kısa bir süre için esilmelidir.
+1. Toz yukarıda bahsedildiği gibi sulandırıldıktan sonra, filtre iğnesinin koruma kapağını
+çıkarınız ve konsantre flakonunun lastik tıpasını deliniz.
+2. Filtre iğnesinin kapağını çıkartınız ve enjektöre takınız.
+3. Flakonu ekli olan enjektörle birlikte başaşağı çeviriniz ve çözeltiyi enjektöre çekiniz.
+4. Enjeksiyon bölgesini alkollü mendille dezenfekte ediniz.
+5. Filtre iğnesini enjektörden ayırınız ve kelebek infüzyon iğnesini enjektöre takınız.
+6. Kelebek infüzyon iğnesini seçilmiş olan damarın içine sokunuz.
+7. Damarın daha kolay görülmesini sağlamak için turnike kullanılacak ise, faktör IX
+enjeksiyonuna başlamadan önce turnike çıkarılmalıdır. Enjeksiyon öncesinde ve enjeksiyon
+sırasında kalp atım hızı izlenmelidir.
+8. Çözeltiyi dakikada 2-3 mL hızla iv olarak enjekte ediniz.
+Bir tedavide bir flakondan fazla OCTANINE F konsantresi kullanılacak hastalarda, aynı
+kelebek infüzyon iğnesi ve enjektör kullanılabilir. Filtre iğnesi tek kullanım içindir. Çözelti
+enjektöre çekilirken her zaman yeni bir filtre iğnesi kullanılır.
+Kullanılmamış olan ürünler ya da atık materyaller, “Tıbbi Atıkların Kontrolü Yönetmeliği” ve
+“Ambalaj ve Ambalaj Atıklarının Kontrolü Yönetmeliği”ne uygun olarak imha edilmelidir.
+117. RUHSAT SAHİBİ
+Berk İlaç İthalat ve Pazarlama A.Ş.
+Poligon Mah. Sarıyer Cad. ABC Plaza
+No: 117/B Kat: 2
+İstinye-Sarıyer / İstanbul
+Telefon: 0 212 277 33 03
+Faks: 0 212 277 30 36
+8. RUHSAT NUMARASI(LARI)
+2022/380
+9. İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi: 06.07.2022
+Ruhsat yenileme tarihi:
+10. KÜB’ÜN YENİLENME TARİHİ
+12

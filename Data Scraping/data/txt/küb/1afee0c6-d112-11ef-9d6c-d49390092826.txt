@@ -1,0 +1,542 @@
+KISA ÜRÜN BİLGİSİ
+Bu ilaç ek izlemeye tabidir. Bu üçgen yeni güvenlilik bilgisinin hızlı olarak belirlenmesini
+sağlayacaktır. Sağlık mesleği mensuplarının şüpheli advers reaksiyonları TÜFAM’a
+bildirmeleri beklenmektedir. Bakınız Bölüm 4.8 Advers reaksiyonlar nasıl raporlanır?
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+LUMAKRAS® 120 mg film kaplı tablet
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde:
+Her bir film kaplı tablet 120 mg sotorasib içerir.
+Yardımcı madde(ler):
+Her bir film kaplı tablet 114 mg laktoz monohidrat (sığır sütünden elde edilen) ve 18 mg
+kroskarmelloz sodyum içerir.
+Yardımcı maddelerin listesi için bölüm 6.1’e bakınız.
+3. FARMASÖTİK FORM
+Film kaplı tablet.
+Bir yüzünde “AMG” ve diğer yüzünde “120” baskılı, sarı, oblong, film kaplı tablet.
+4. KLİNİK ÖZELLİKLER
+4.1 Terapötik endikasyonlar
+LUMAKRAS®, KRAS G12C mutasyonu bulunan, daha öncesinde en az bir basamak
+kemoterapi almış ve kemoterapi ile beraber veya tek başına immünoterapi almış olan, ECOG
+performans durumu 0 veya 1 olan, aktif beyin metastazı olmayan, anrezektabl lokal ileri veya
+metastatik küçük hücreli dışı akciğer kanseri (KHDAK) bulunan hastaların tedavisinde
+endikedir.
+4.2 Pozoloji ve uygulama şekli
+Pozoloji/uygulama sıklığı ve süresi:
+LUMAKRAS® ile tedavi, antikanser tıbbi ürünlerin kullanımında deneyimli bir hekim
+tarafından başlatılmalıdır.
+KRAS G12C mutasyonu varlığı, LUMAKRAS® tedavisi başlatılmadan önce valide edilmiş
+bir test ile gösterilmelidir.
+Önerilen doz her gün aynı saatte, günde bir kez 960 mg sotorasib şeklindedir (sekiz adet
+120 mg tablet).
+1Tedavi süresi
+LUMAKRAS® ile tedavi, hastalık progresyonuna veya yönetilemeyen toksisite görülene
+kadar önerilmektedir.
+Atlanan dozlar veya kusma
+Dozun planlanan saatinden 6 saatten kısa bir süre geçtiyse hasta dozu normal şekilde
+almalıdır. Dozun planlanan saatinden 6 saatten uzun bir süre geçtiyse hasta bu dozu
+almamalıdır. Tedavi, ertesi gün reçete edildiği şekilde sürdürülmelidir.
+LUMAKRAS® alındıktan sonra kusma yaşanırsa hasta aynı gün ilave bir doz almamalıdır ve
+tedavi, ertesi gün reçete edildiği şekilde sürdürülmelidir.
+Doz modifikasyonları:
+Doz modifikasyonları LUMAKRAS® toksisitesine bağlı olarak gerçekleştirilmelidir.
+Bölüm 4.2’de ana hatlarıyla belirtilen doz azaltım kuralları klinik verilere dayanmaktadır.
+Farmakokinetik veriler, daha düşük sotorasib dozlarında benzer bir maruziyet olduğunu
+düşündürmektedir. Doz azaltım düzeyleri tablo 1’de özetlenmektedir. Advers reaksiyonlara
+yönelik doz modifikasyonları tablo 2’de sunulmaktadır (bkz. bölüm 5.2).
+Toksisite olayları meydana gelirse en fazla iki doz azaltımına izin verilir. Hastalar günde bir
+kez minimum 240 mg dozu tolere edemiyorsa LUMAKRAS® kesilmelidir.
+Tablo 1. Önerilen sotorasib doz azaltım düzeyleri
+Doz azaltım düzeyi Doz
+Başlangıç dozu 960 mg (sekiz adet 120 mg tablet), günde bir
+kez
+Birinci doz azaltımı 480 mg (dört adet 120 mg tablet), günde bir kez
+İkinci doz azaltımı 240 mg (iki adet 120 mg tablet), günde bir kez
+Tablo 2. Sotorasib için önerilen doz modifikasyonları
+Advers reaksiyonlar Ciddiyeta Doz modifikasyonu
+Hepatotoksisite Semptomlu Derece 2 AST • ≤ derece 1 seviyesine
+veya ALT veya başlangıç derecesine
+veya gerileyinceye kadar tedavi
+Derece ≥ 3 AST veya ALT durdurulur.
+• İyileşmenin ardından
+tedaviye bir sonraki düşük
+doz ile devam edilir.
+Alternatif sebeplerin • Tedavi kalıcı olarak
+yokluğunda, total bilirubin sonlandırılır.
+> 2 × NÜS olacak şekilde
+AST veya ALT > 3 × NÜS
+İnterstisyel Akciğer Hastalığı Herhangi bir derece • İAH/pnömoni şüphesi
+(İAH)/pnömoni varsa tedavi durdurulur.
+• İAH/pnömoni
+doğrulanırsa tedavi kalıcı
+olarak sonlandırılır.
+2Advers reaksiyonlar Ciddiyeta Doz modifikasyonu
+Destekleyici bakıma (kusmayı Derece ≥ 3 • ≤ derece 1 seviyesine
+veya diyareyi önleyen ilaç veya başlangıç derecesine
+tedavisi dahil) karşın devam gerileyinceye kadar tedavi
+eden bulantı, kusma veya durdurulur.
+diyare • İyileşmenin ardından
+tedaviye bir sonraki düşük
+doz ile devam edilir.
+Diğer tıbbi ürünle ilişkili Derece ≥ 3 • ≤ derece 1 seviyesine
+toksisite veya başlangıç derecesine
+gerileyinceye kadar tedavi
+durdurulur.
+• İyileşmenin ardından
+tedaviye bir sonraki düşük
+doz ile devam edilir.
+ALT = alanin aminotransferaz; AST = aspartat aminotransferaz; NÜS = normalin üst sınırı
+a Derecelendirme Ulusal Kanser Enstitüsü Advers Olaylar için Ortak Terminoloji Kriterleri
+(NCI CTCAE) versiyon 5.0 ile tanımlanmıştır
+LUMAKRAS®’ın asit azaltıcı ajanlar ile birlikte uygulanması
+LUMAKRAS® ile proton pompa inhibitörlerinin (PPİ’ler) veya H reseptör antagonistlerinin
+2
+birlikte uygulanması önerilmemektedir. Asit azaltıcı bir ajan ile tedavi gerekliyse lokal bir
+antasit kullanılabilir; LUMAKRAS®, lokal antasit uygulamasından 4 saat önce veya 10 saat
+sonra alınmalıdır (bkz. bölüm 4.5).
+Uygulama şekli:
+LUMAKRAS®, oral kullanım içindir. Tabletler bütün halinde yutulmalıdır. Tabletlerin
+çiğnenmesi, ezilmesi veya bölünmesi durumunda LUMAKRAS® uygulamasını destekleyen
+herhangi bir veri bulunmamaktadır ancak tabletler su içinde çözündürülebilir (aşağı bakınız).
+Tabletler, aç veya tok karnına alınabilir.
+Katı maddeleri yutmakta güçlük çeken hastalara uygulanması:
+Hastalar tabletleri, 120 ml karbonatsız, oda sıcaklığında suyun içinde onları ezmeden
+çözündürmelidir. Başka sıvılar kullanılmamalıdır. Hastalar, tabletler küçük parçalar halinde
+çözülünceye kadar (tablet tamamen çözünmeyecektir) suyu karıştırmalı ve hemen içmelidir.
+Karışımın görünümü soluk ile parlak sarı arasında olabilir. Kap, ilave 120 ml su ile
+çalkalanmalı ve hemen içilmelidir. Hemen içilmezse hastalar, tabletlerin çözünmesini
+sağlamak için tekrar karıştırmalıdır. Çözelti 2 saat içerisinde içilmezse atılmalıdır.
+Özel popülasyonlara ilişkin ek bilgiler:
+Böbrek yetmezliği:
+Hafif böbrek yetmezliği (kreatinin klerensi, CrCL, ≥ 60 ml/dak) bulunan hastalarda doz
+ayarlaması önerilmemektedir. LUMAKRAS®, orta ila şiddetli böbrek yetmezliği (CrCL
+< 60 ml/dak) bulunan hastalarda çalışılmamıştır. Bu nedenle, orta, şiddetli ve son evre böbrek
+yetmezliği bulunan hastalar tedavi edilirken dikkatli olunmalıdır (bkz. bölüm 5.2).
+3Karaciğer yetmezliği:
+Hafif karaciğer yetmezliği (AST veya ALT < 2,5 × NÜS veya total bilirubin < 1,5 × NÜS)
+bulunan hastalar için doz ayarlaması önerilmemektedir. Sotorasibin orta ve şiddetli karaciğer
+yetmezliği bulunan hastalarda çalışılmamıştır, bu hastalara uygulanması önerilmemektedir.
+Pediyatrik popülasyon:
+Pediyatrik popülasyonda küçük hücreli dışı akciğer kanseri tedavisinde LUMAKRAS®’ın
+ilgili kullanımı bulunmamaktadır.
+Geriyatrik popülasyon:
+75 yaş ve üzeri hastalarda LUMAKRAS®’ın güvenliliği ve etkililiğine ilişkin sınırlı veriler,
+yaşlı hastalarda doz ayarlamasının gerekli olduğunu düşündürmemektedir (bkz. bölüm 4.8 ve
+5.2).
+4.3 Kontrendikasyonlar
+Etkin maddeye ya da bölüm 6.1’de listelenen yardımcı maddelerin herhangi birine karşı aşırı
+duyarlılık.
+4.4 Özel kullanım uyarıları ve önlemleri
+Hepatotoksisite
+Sotorasib, ilaca bağlı karaciğer hasarı (İBKH) ve hepatite yol açabilen hepatotoksisiteye
+neden olabilir. Sotorasib, serum transaminazlarda (ALT ve AST) geçici artışlarla
+ilişkilendirilmiştir. Bu artışlar, doz modifikasyonu veya tedavinin kalıcı olarak
+sonlandırılması neticesinde iyileşmiş veya düzelmiştir ve klinik çalışmalarda karaciğer
+yetmezliği veya ölümcül vakalar ile sonuçlanmamıştır. Hepatotoksisite yaşayan hastaların
+%38’inde doz kesintisine veya doz azaltımına yol açan hepatotoksisite görülmüştür. Genel
+olarak, hepatotoksisite bulunan hastaların %26’sı eş zamanlı kortikosteroidler almıştır.
+Karaciğer enziminde artış olan olgular asemptomatik olabilir. Hastalar, LUMAKRAS®’a
+başlamadan önce, tedavinin ilk 3 ayı boyunca her 3 haftada bir, daha sonra ayda bir veya
+klinik olarak endike olduğu şekilde karaciğer fonksiyonları (ALT, AST ve total bilirubin)
+açısından izlenmelidir; transaminaz ve/veya bilirubin artışı olan hastalarda bu testler daha sık
+gerçekleştirilmelidir. Laboratuvar anomalilerinin ciddiyetine bağlı olarak LUMAKRAS® ile
+tedavi, ≤ derece 1 seviyesine veya başlangıç derecesine gerileyinceye kadar mutlaka tedaviye
+ara verilmelidir ve doz, öneriler doğrultusunda modifiye edilmeli veya tedavi kalıcı olarak
+sonlandırılmalıdır (bkz. bölüm 4.2).
+İnterstisyel Akciğer Hastalığı (İAH)/pnömoni
+İAH/pnömoni, daha önce immünoterapi veya radyoterapiye maruz kalmış olan
+LUMAKRAS® ile tedavi uygulanmış hastalarda meydana gelmiştir (bkz. bölüm 4.8).
+Hastaları, İAH’nın/pnömoninin belirtisi olan yeni veya kötüleşen pulmoner semptomlar (ör.
+dispne, öksürük, ateş) açısından izleyiniz. İAH/pnömoni şüphesi olan hastalarda
+4LUMAKRAS®’ı hemen kesiniz ve başka olası İAH/pnömoni nedenleri tanımlanmaması
+halinde LUMAKRAS® kullanımını kalıcı olarak sonlandırınız (bkz. bölüm 4.2).
+Laktoz
+LUMAKRAS®, laktoz içerir. Nadir kalıtımsal galaktoz intoleransı, Lapp laktaz yetmezliği ya
+da glukoz-galaktoz malabsorpsiyon problemi olan hastaların bu ilacı kullanmamaları gerekir.
+Sodyum
+Bu tıbbi ürünün her bir tableti 1 mmol (23 mg)’dan daha az sodyum ihtiva eder; yani aslında
+“sodyum içermez”.
+4.5 Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+In vitro çalışmalar, sotorasibin sitokrom P450 (CYP) 2C8, CYP3A4 ve CYP3A5 tarafından
+metabolize edildiğine ve bir P-glikoprotein (P-gp) substratı olduğuna işaret etmektedir.
+Sotorasib, in vitro olarak CYP3A4, CYP2B6, CYP2C8, CYP2C9 ve CYP2C19
+indükleyicisidir. Sotorasib, in vitro bir CYP2C8, CYP2D6 ve CYP3A inhibitörüdür. In vitro
+çalışmalar, sotorasibin bir insan organik anyon taşıyıcısı (OAT)1/3, OATP1B1, Meme
+Kanseri Direnç Proteini (BCRP) ve P-gp inhibitörü olduğuna işaret etmektedir.
+Diğer ilaçların LUMAKRAS® üzerindeki etkileri
+Asit azaltıcı ajanlar
+Sotorasibin bir PPİ (omeprazol) veya bir H reseptör antagonisti (famotidin) ile birlikte
+2
+uygulanması, sotorasib konsantrasyonlarında azalmaya yol açmıştır.
+Tokluk koşullarında (standart kalorili orta yağlı öğünler) birden fazla omeprazol dozunun tek
+doz 960 mg sotorasib ile birlikte uygulanması, sotorasib C değerini %65 ve EAA değerini
+maks
+%57 oranında azaltmıştır. Tek doz 960 mg sotorasib uygulamasından 10 saat önce ve 2 saat
+sonra tek doz famotidin uygulanması, sotorasib C değerini %35 ve EAA değerini %38
+maks
+azaltmıştır.
+Açlık koşullarında birden fazla omeprazol dozunun tek doz 960 mg sotorasib ile birlikte
+uygulanması, sotorasib C değerini %57 ve EAA değerini %42 azaltmıştır.
+maks
+Sotorasib etkililiği üzerindeki etkisi bilinmediğinden PPİ’ler ve H reseptör antagonistlerinin
+2
+LUMAKRAS® ile birlikte uygulanması önerilmemektedir. Asit azaltıcı bir ajan ile tedavi
+gerekliyse LUMAKRAS®, lokal bir antasitin uygulanmasından 4 saat önce veya 10 saat sonra
+alınmalıdır (bkz. bölüm 4.2).
+Birden fazla itrakonazol (güçlü bir CYP3A4 ve P-gp inhibitörü) dozunun birlikte
+uygulanması, sotorasib maruziyetlerini klinik olarak anlamlı bir ölçüde artırmamıştır.
+CYP3A4 inhibitörleri ile birlikte uygulandığında LUMAKRAS® doz ayarlaması
+önerilmemektedir.
+Güçlü CYP3A4 indükleyicileri
+Sotorasibin birden fazla dozda güçlü CYP3A4 indükleyici (rifampisin) ile birlikte
+uygulanması, sotorasib C değerini %35 ve EAA değerini %51 azaltmıştır. Sotorasib
+maks
+5maruziyetini azaltabileceklerinden güçlü CYP3A4 indükleyicilerinin (ör. rifampisin,
+karbamazepin, enzalutamid, mitotan, fenitoin ve sarı kantaron otu) LUMAKRAS® ile birlikte
+uygulanması önerilmemektedir.
+Sotorasibin diğer tıbbi ürünler üzerindeki etkileri
+CYP3A4 substratları
+Sotorasib, orta düzeyde bir CYP3A4 indükleyicisidir. Sotorasibin CYP3A4 substratları ile
+birlikte uygulanması, plazma konsantrasyonlarında azalmaya sebep olmuştur ve bu durum da
+bu substratların etkililiğini azaltabilir.
+Sotorasibin midazolam (duyarlı bir CYP3A4 substratı) ile birlikte uygulanması, midazolam
+C değerini %48 ve EAA değerini %53 azaltmıştır.
+maks
+LUMAKRAS®’ın, alfentanil, siklosporin, dihidroergotamin, ergotamin, fentanil, hormonal
+kontraseptifler, pimozid, kinidin, sirolimus ve takrolimus dahil ancak bunlarla sınırlı
+olmamak üzere dar terapötik indeksleri bulunan CYP3A4 substratları ile birlikte
+uygulanmasından kaçınınız. Birlikte uygulanmaları kaçınılmaz ise CYP3A4 substratı dozunu,
+geçerli kısa ürün bilgileri doğrultusunda ayarlayınız.
+CYP2B6, CYP2C8, CYP2C9 ve CYP2C19 substratları
+In vitro veriler, sotorasibin CYP2B6, CYP2C8, CYP2C9 ve CYP2C19’u indükleme
+potansiyeli bulunabileceğine işaret etmektedir; bu bulguların klinik anlamlılığı
+bilinmemektedir. Sotorasib, bu enzimler tarafından metabolize edilen tıbbi ürünler ile birlikte
+uygulandığında uygun şekilde izleme gerçekleştirilmesi önerilmektedir.
+CYP2D6 substratları
+In vitro veriler, sotorasibin CYP2D6’yı inhibe etme potansiyeli bulunabileceğine işaret
+etmektedir; bu bulguların klinik anlamlılığı bilinmemektedir. LUMAKRAS®, CYP2D6
+substratları (ör. flekainid, propafenon, metoprolol) ile birlikte uygulandığında uygun şekilde
+izleme gerçekleştirilmesi önerilmektedir.
+BCRP substratları
+In vitro veriler, sotorasibin BCRP’yi inhibe etme potansiyeli bulunabileceğine işaret
+etmektedir; bu bulguların klinik anlamlılığı bilinmemektedir. LUMAKRAS®, BCRP
+substratları (ör. metotreksat, mitoksantron, topotekan ve lapatinib) ile birlikte uygulandığında
+uygun şekilde izleme gerçekleştirilmesi önerilmektedir.
+Sotorasibin P-gp substratları üzerindeki etkisi
+Sotorasibin digoksin [bir P-glikoprotein (P-gp) substratı] ile birlikte uygulanması, digoksin
+C değerini 1,9 kat ve EAA değerini tek başına uygulanan digoksinin 1,2 katı kadar
+maks inf
+artırmıştır. LUMAKRAS®’ın dar terapötik indeksleri bulunan P-gp substratları ile birlikte
+uygulanması önerilmemektedir. Birlikte uygulanmaları kaçınılmaz ise P-gp substratı dozajını,
+geçerli kısa ürün bilgileri doğrultusunda ayarlayınız.
+Özel popülasyonlara ilişkin ek bilgiler:
+Veri bulunmamaktadır.
+6Pediyatrik popülasyon:
+Veri bulunmamaktadır.
+4.6 Gebelik ve laktasyon
+Genel tavsiye
+Gebelik Kategorisi: C
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon)
+Çocuk doğurma potansiyeli bulunan kadınlara LUMAKRAS® kullanırken gebelikten
+kaçınmaları tavsiye edilmelidir. Çocuk doğurma potansiyeli bulunan ve LUMAKRAS® alan
+kadın hastalar, tedavi sırasında ve son LUMAKRAS® dozunu takiben en az 7 gün boyunca
+yüksek oranda etkili bir doğum kontrol yöntemi kullanmalıdır. LUMAKRAS®, hormonal
+kontraseptiflerin etkinliğini azaltabilir ve bu nedenle hormonal kontraseptif kullanan kadınlar
+buna bir de bariyer yöntemi dahil etmelidir.
+Gebelik dönemi
+Sotorasibin gebe kadınlarda kullanımına ilişkin yeterli veri bulunmamaktadır. Hayvanlar
+üzerinde yapılan çalışmalar üreme toksisitesinin bulunduğunu göstermiştir (bkz. bölüm 5.3).
+İnsanlar üzerindeki potansiyel riski bilinmemektedir. LUMAKRAS®, gebelik dönemi
+sırasında ve çocuk doğurma potansiyeli bulunan ancak doğum kontrol yöntemi kullanmayan
+kadınlarda önerilmemektedir. Hastalar, gebelik sırasında LUMAKRAS® kullanımının veya
+LUMAKRAS® kullanımı esnasında hamile kalmanın potansiyel tehlikeleri konusunda
+bilgilendirilmelidir.
+Laktasyon dönemi
+Sotorasib veya metabolitlerinin anne sütüne geçip geçmediği bilinmemektedir. Emzirilen
+yenidoğanlar/infantlar üzerindeki riski göz ardı edilemez. LUMAKRAS®, emzirme sırasında
+kullanılmamalıdır.
+Üreme yeteneği/Fertilite
+Sotorasibin fertilite üzerindeki etkisini değerlendirmeye yönelik herhangi bir klinik çalışma
+bulunmamaktadır.
+4.7 Araç ve makine kullanımı üzerindeki etkiler
+LUMAKRAS®’ın araç ve makine kullanımı üzerinde etkisi yoktur veya göz ardı edilebilecek
+düzeydedir.
+4.8 İstenmeyen etkiler
+LUMAKRAS®’ın güvenliliği, KRAS G12C mutasyonlu solid tümörleri bulunan ve
+monoterapi olarak günde bir kez oral yolla 960 mg alan 359 hastada değerlendirilmiştir.
+LUMAKRAS® maruziyetinin medyan süresi, 4,1 ay olmuştur (aralık: 0,02 ila 21).
+7En yaygın advers reaksiyonlar diyare (%34), bulantı (%25) ve bitkinlik (%21) olmuştur. En
+yaygın şiddetli (derece ≥ 3) advers reaksiyonlar ALT artışı (%5), AST artışı (%4) ve diyare
+(%4) olmuştur. Tedavinin kalıcı olarak sonlandırılmasına sebep olan en yaygın advers
+reaksiyonlar ALT artışı (%1) ve AST artışı (%1) ile İBKH (%1) olmuştur. Doz
+modifikasyonuna sebep olan en yaygın advers reaksiyonlar ALT artışı (%6), diyare (%6),
+AST artışı (%6), bulantı (%3), kan alkalen fosfataz artışı (%3) ve kusma (%2) olmuştur.
+Advers reaksiyonların tablo halinde listesi
+LUMAKRAS® klinik çalışmalarında bildirilen advers reaksiyonlar, aşağıda tablo 3’te
+gösterilmektedir. Sıklık kategorileriaşağıdaki gibi tanımlanmıştır: çok yaygın (≥ 1/10),
+yaygın (≥ 1/100 ila < 1/10), yaygın olmayan (≥ 1/1.000 ila < 1/100), seyrek (≥ 1/10.000 ila
+< 1/1.000), çok seyrek (< 1/10.000) ve bilinmiyor (mevcut verilerle tahmin edilemiyor). Her
+sistem organ sınıfı içerisinde advers reaksiyonlar, azalan ciddiyet sırasına göre sunulmuştur.
+Tablo 3. Advers reaksiyonlar
+MedDRA sistem organ Çok yaygın Yaygın Yaygın olmayan
+sınıfı (≥ 1/10) (≥ 1/100 ila < 1/10) (≥ 1/1.000 ila
+< 1/100)
+Kan ve lenf sistemi Anemi
+hastalıkları
+Sinir sistemi hastalıkları Baş ağrısı
+Solunum, göğüs Öksürük İAH/pnömoni
+bozuklukları ve Dispne
+mediastinal hastalıkları
+Gastrointestinal Diyare
+hastalıkları Bulantı
+Kusma
+Kabızlık
+Abdominal ağrıa
+Hepato-bilier İlaca bağlı karaciğer
+hastalıkları hasarı
+Kas-iskelet bozuklukları Artralji
+ve bağ doku ve kemik Sırt ağrısı
+hastalıkları
+8MedDRA sistem organ Çok yaygın Yaygın Yaygın olmayan
+sınıfı (≥ 1/10) (≥ 1/100 ila < 1/10) (≥ 1/1.000 ila
+< 1/100)
+Genel bozukluklar ve Bitkinlik
+uygulama bölgesine Pireksi (ateş)
+ilişkin hastalıkları
+Araştırmalar Aspartat Kan alkalen fosfataz
+aminotransferaz artışı
+artışı Kan bilirubin artışı
+Alanin Gamma-glutamil
+aminotransferaz transferaz artışı
+artışı
+a Abdominal ağrı; abdominal ağrıyı, üst abdominal ağrıyı ve alt abdominal ağrıyı içerir
+Özel popülasyonlara ilişkin ek bilgiler:
+Karaciğer enzimlerinde artış:
+Klinik çalışmalarda serum transaminazlarında geçici artışlar gözlenmiştir (bkz. bölüm 4.4).
+ALT artışları gönüllülerin %14’ünde ve AST artışları gönüllülerin %16’sında meydana
+gelmiştir ve medyan başlangıç süresi sırasıyla 8 hafta (aralık: 1 ila 42) ve 8 hafta (aralık: 0
+ila 42) olmuştur. Hem ALT artışları hem de AST artışları gönüllülerin %6,1’inde doz
+kesintisine ve/veya doz azaltımına yol açmıştır.
+İAH/pnömoni
+Klinik çalışmalarda LUMAKRAS® alan 359 hastanın %0,8’inde İAH/pnömoni meydana
+gelmiştir; tüm olgular başlangıçta derece 3 veya 4 şeklinde olmuştur. İAH/pnömoni için ilk
+medyan başlangıç süresi 2 hafta (aralık: 2 ila 18 hafta) olmuştur. Hastaların %0,6’sında
+İAH/pnömoni meydana gelmesi nedeniyle LUMAKRAS® kesilmiştir (bkz. bölüm 4.2 ve
+4.4).
+Yaşlılar
+Klinik çalışmalarda yaşlı hastalar (≥ 65 yaş) ve daha genç hastalar arasında güvenlilik veya
+etkililik açısından genel farklılıklar gözlenmemiştir (bkz. bölüm 4.2 ve 5.2).
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli advers ilaç reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın risk/yarar dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir (www.titck.gov.tr;
+e-posta: tufam@titck.gov.tr; tel: 0 800 314 00 08; faks: 0 312 218 35 99).
+4.9 Doz aşımı ve tedavisi
+Doz aşımı durumunda hastaya semptomatik olarak tedavi uygulanmalıdır ve gerekli
+destekleyici tedbirler alınmalıdır. LUMAKRAS® ile doz aşımı için spesifik bir antidot
+bulunmamaktadır.
+95. FARMAKOLOJİK ÖZELLİKLER
+5.1 Farmakodinamik özellikler
+Farmakoterapötik grup: Antineoplastik ajan
+ATC kodu: L01XX73
+Etki mekanizması
+Sotorasib, seçici bir KRAS G12C (Kirsten sıçan sarkoma viral onkogen homoloğu)
+inhibitörüdür ve KRAS G12C'nin sisteinin molekülüne kovalent ve geri dönüşümsüz olarak
+özel bir şekilde bağlanır. KRAS G12C’nin sotorasib ile inaktivasyonu, tümör hücresi sinyalini
+ve sağkalımını engeller, hücre büyümesini inhibe eder ve tümör oluşumunun onkojenik bir
+etkeni olan KRAS G12C’yi barındıran tümörlerde seçici olarak apoptoza katkıda bulunur.
+Klinik etkililik ve güvenlilik
+Daha önceden tedavi uygulanmış, KRAS G12C mutasyonlu, KHDAK hastalarının
+(CodeBreaK 100) tedavisi için LUMAKRAS®
+LUMAKRAS®’ın etkililiği; daha önce tedavi uygulandıktan sonra hastalık ilerlemesi
+görülen, KRAS G12C mutasyonlu lokal olarak ilerlemiş veya metastatik KHDAK hastalarının
+kaydedildiği tek kollu, açık etiketli, çok merkezli bir araştırmada (CodeBreaK 100)
+çalışılmıştır. Temel uygunluk kriterleri; bir immün kontrol noktası inhibitörü ve/veya platin
+bazlı kemoterapi ile ve hedeflenebilir onkojenik etken mutasyonları tanımlanmışsa hedefe
+yönelik tedaviden sonra progresyon, 0 veya 1 derece Doğu Kooperatif Onkoloji Grubu
+Performans Durumunu (ECOG PS) ve Solid Tümörlerde Yanıt Değerlendirme Kriterleri
+(RECIST v1.1) ile tanımlandığı şekilde en az bir ölçülebilir lezyon bulunmasını içermiştir.
+Tüm hastalarda, merkezi bir laboratuvarda gerçekleştirilen valide edilmiş bir test (Qiagen
+therascreen® KRAS RGQ PCR Kiti) kullanılarak tümör örneklerinde prospektif olarak
+tanımlanmış KRAS G12C mutasyonlu KHDAK bulunması gerekmiştir. Böbrek yetmezliği,
+karaciğer yetmezliği ve aktif beyin metastazları bulunan hastalar dahil edilmemiştir.
+Toplamda 126 hasta kaydedilmiş ve hastalık progresyonuna veya yönetilemeyen toksisite
+görülene kadar monoterapi olarak günde bir kez 960 mg LUMAKRAS® ile tedavi
+uygulanmıştır; 124 hastada RECIST v1.1 uyarınca Kör Bağımsız Merkezi İnceleme (BICR)
+ile değerlendirildiği şekilde başlangıçta en az bir ölçülebilir lezyon bulunmuş ve bu hastalar
+yanıtla ilgili etkililik sonuçları için analize dahil edilmiştir. Tedavinin medyan süresi 5,5 ay
+(aralık: 0 ila 15) olmuştur ve hastaların %48’ine ≥ 6 ay boyunca ve %33’üne de ≥ 9 ay
+boyunca tedavi uygulanmıştır.
+Majör etkililik sonuç ölçütü, RECIST v1.1 uyarınca BICR ile değerlendirildiği şekilde CR
+veya PR elde edilen hastaların oranı olarak tanımlanan objektif yanıt oranı (ORR) olmuştur.
+Ek etkililik sonuç ölçütleri arasında yanıt süresi (DOR), CR, PR ve stabil hastalık elde edilen
+hastaların oranı olarak tanımlanan hastalık kontrol oranı (DCR), yanıta kadar geçen süre
+(TTR), progresyonsuz sağkalım (PFS) ve genel sağkalım (OS) yer almıştır.
+Çalışma popülasyonunun başlangıç demografik ve hastalık özellikleri şöyle olmuştur:
+medyan yaş 64 yaş (aralık: 37 ila 80); %50 Kadın; %82 Beyaz, %15 Asyalı, %2 Siyahi; %70
+10ECOG PS 1; %96’da evre IV hastalık; %99 nonskuamöz histoloji; %81 eskiden sigara içen
+kişi, %12 halen sigara içen kişi, %5 hiç sigara içmemiş kişi.
+Tüm hastalar metastatik KHDAK için daha önce en az 1 basamak sistemik tedavi almıştır;
+daha önce %43’ü yalnızca 1 basamak tedavi, %35’i 2 basamak tedavi ve %22’si 3 basamak
+tedavi almıştır, daha önce %91’i anti-PD-1/PD-L1 immünoterapi, %90’ı platin bazlı
+kemoterapi ve %81’i de hem platin bazlı kemoterapi hem de anti-PD-1/PD-L1 almıştır.
+Bilinen toraks dışı metastaz bölgeleri arasında %48 kemik, %21 beyin ve %21 karaciğer
+bulunmuştur.
+Etkililik sonuçları tablo 4’te özetlenmektedir.
+Tablo 4. KRAS G12C mutasyonlu KHDAK hastaları için CodeBreaK 100 etkililik
+sonuçları
+Etkililik parametreleri LUMAKRAS®
+N = 124
+ORR, % (%95 GA)a,c 37,14 (28,6; 46,2)
+Tam yanıt (CR), % 2,4
+Kısmi yanıt (PR), % 34,7
+DORa,d
+Yanıt verenlerin sayısı 46
+Medyanb, ay (aralık) 11,1 (6,9; 15,0)
+Sansürlü, % 39,0
+Süresi ≥ 6 ay olan hastalar, % 63,0
+GA = güven aralığı; DOR = yanıt süresi; ORR = objektif yanıt oranı;
+a Yanıtla ilişkili etkililik sonucu
+b Kaplan-Meier yöntemiyle hesaplanmıştır
+c 01 Aralık 2020 veri kesim tarihine dayanmaktadır
+d 20 Haziran 2021 veri kesim tarihine dayanmaktadır
+5.2 Farmakokinetik özellikler
+Genel özellikler
+Sotorasibin farmakokinetiği, KHDAK dahil KRAS G12C mutasyonlu solid tümörleri olan
+hastalarda ve sağlıklı gönüllülerde karakterize edilmiştir.
+Emilim
+Sotorasib, oral, tek doz uygulamayı takiben, doruk plazma konsantrasyonuna ulaşana kadar
+1 saat medyan sürede emilmiştir.
+Gıda etkisi
+Sotorasibin yüksek yağlı ve yüksek kalorili bir öğün ile birlikte uygulanmasının ardından
+C değeri üzerinde herhangi bir etki gözlenmemiş ve bu, açlık koşullarında uygulamaya
+maks
+kıyasla EAA değerinde %38 artışa neden olmuştur. Sotorasib yiyecekler ile birlikte veya
+yiyecek olmadan uygulanabilir.
+11Dağılım
+Sotorasibin 8 ardışık gün boyunca 960 mg PO QD sonrası geometrik ortalama görünür
+dağılım hacmi 211 l olmuştur (non-kompartmantal analiz kullanılarak belirlenmiştir).
+Sotorasibin in vitro plazma protein bağlanması %89 olmuştur ve sotorasib, tercihen in vitro
+olarak alfa-1-asit glikoproteine bağlanmıştır.
+Biyotransformasyon
+Sotorasibin ana metabolik yolakları, enzimatik olmayan konjügasyon ve oksidatif
+metabolizma olmuştur. In vitro veriler, sotorasibin CYP2C8, CYP3A4 ve CYP3A5
+tarafından metabolize edildiğine ve bir P-glikoprotein (P-gp) substratı olduğuna işaret
+etmektedir. 720 mg’lık bir radyoaktif sotorasib dozunun tek oral uygulamasını takiben bir
+sistein eklentisi (bir glutatyon eklentisinin hidrolizi yoluyla oluşturulur) ve piperazin
+akrilamid kısmının CYP3A aracılı bölünmesinden kaynaklanan bir oksidatif metabolit,
+dolaşımdaki birincil metabolitler olmuştur. Bu metabolitlerin her ikisi de farmakolojik olarak
+aktif değildir.
+Eliminasyon
+Sotorasibin 8 ardışık gün boyunca 960 mg PO QD sonrası geometrik ortalama görünür
+klerensi 26,2 l/saat olmuştur (non-kompartmantal analiz kullanılarak belirlenmiştir).
+Ortalama yarılanma ömrü 5 saattir. Kararlı duruma 22 gün içerisinde ulaşılmıştır ve bu durum
+stabil kalmıştır. Sotorasib temelde feçes ile atılır; dozun yaklaşık %74’ü feçeste ve %6’sı
+(%1’i değişmeden) idrarda gözlenmiştir.
+Doğrusallık/doğrusal olmayan durum
+C ve EAA değerleri dozla orantılı olan değerlerden daha düşük olduğundan
+maks 0-24 saat
+sotorasib, 180 ila 960 mg QD arasında çalışılan bir dizi tek ve çoklu oral uygulama dozunda
+doğrusal olmayan farmakokinetik özellikler sergilemiştir. Çoklu dozlara takiben ortalama
+C ve EAA değerleri, 180 mg QD ila 960 mg QD arasında değişen tüm doz rejimleri
+maks 0-24 saat
+için benzer olmuştur. Sotorasib maruziyeti, kararlı durum plazma konsantrasyonuna ulaşılana
+kadar 960 mg QD doz rejimini takiben zamanla azalmıştır. Tüm sotorasib dozlarındaki faz 1
+ve faz 2 klinik çalışmalarda kararlı durum plazma konsantrasyonlarına yaklaşık 3 haftada
+ulaşılmıştır.
+Hastalardaki karakteristik özellikler
+Özel popülasyonlardaki farmakokinetik
+Bir popülasyon FK analizinin ilk sonuçları yaş, cinsiyet, ırk veya etnik köken, vücut ağırlığı,
+tedavi basamağı, ECOG PS, serum albumin düzeyi, hafif böbrek yetmezliği (CrCL:
+≥ 60 ml/dak) veya hafif karaciğer yetmezliği (AST veya ALT < 2,5 × NÜS veya total
+bilirubin < 1,5 × NÜS) bakımından sotorasibin farmakokinetiğinde klinik olarak anlamlı
+farklar olmadığını düşündürmektedir. Orta ila şiddetli böbrek veya karaciğer yetmezliğinin
+sotorasib farmakokinetiği üzerindeki etkisi hakkında çalışma yürütülmemiştir.
+125.3 Klinik öncesi güvenlilik verileri
+Mutajenisite
+Sotorasib, bakteriyel bir mutajenisite (Ames) analizinde mutajenik bulunmamıştır. Sotorasib,
+in vivo sıçan mikronükleus ve komet analizlerinde genotoksik bulunmamıştır.
+Karsinojenisite
+Sotorasib ile karsinojenisite çalışmaları yürütülmemiştir.
+Üreme toksisitesi
+Sıçanlarda ve tavşanlarda yapılan embriyonal-fetal gelişim çalışmalarında oral sotorasib,
+teratojenik bulunmamıştır.
+Sıçanlarda, test edilen en yüksek doza kadar (eğrinin altında kalan alana [EAA] göre
+insanlarda önerilen maksimum doz [MRHD] olan 960 mg’a kıyasla 3,9 kat daha yüksek
+maruziyet) embriyonal-fetal gelişim üzerinde herhangi bir etki oluşmamıştır.
+Tavşanlarda, yalnızca test edilen en yüksek doz düzeyinde (EAA’ya göre 960 mg MRHD’ye
+kıyasla 2,2 kat daha yüksek maruziyet) daha düşük fetal vücut ağırlıkları ve fetüslerde
+kemikleşmiş metakarpal sayısında azalma gözlenmiştir; bunlar, doz uygulama aşamasında
+kilo alımındaki ve besin tüketimindeki azalma gibi anneyle ilgili etkilerle ilişkili olmuştur.
+Fetal vücut ağırlığındaki azalmayla ilişkili büyüme geriliğinin bir kanıtı olarak
+ossifikasyonda azalma, anlamlı düzeyde maternal toksisite varlığındaki bir nonspesifik etki
+olarak yorumlanmıştır.
+Fertilitede bozulma
+Sotorasib ile fertilite/erken embriyonik gelişim çalışmaları yürütülmemiştir. Köpeklerde ve
+sıçanlarda gerçekleştirilen genel toksikoloji çalışmalarında erkek veya dişi üreme organları
+üzerinde herhangi bir advers etki belirlenmemiştir.
+Genel toksisite
+Sıçanlarda, 960 mg'lık klinik dozla insanlarda kaydedilen EAA değerinin yaklaşık ≥0.5 katı
+maruziyetlerle sonuçlanan dozlarda minimal ila belirgin histolojik tübüler
+dejenerasyon/nekroz ve böbrek ağırlığı, üre azot değeri, kreatinin ve renal tübüler hasarın
+üriner biyobelirteçlerinde artış dahil olmak üzere renal toksisite saptanmıştır. İnsanlarla
+karşılaştırıldığında sıçanlarda sistein S-konjugat beta-liyaz yolağının metabolizmasındaki
+artışlar, varsayılan sülfür içerikli metabolitinn lokal oluşumuna bağlı olarak sıçanların renal
+toksisiteye insanlardan daha yatkın olmasına yol açıyor olabilir.
+Köpeklerde yapılan 3 aylık toksikoloji çalışmasında sotorasib, 960 mg'lık klinik dozdaki
+EAA değerine dayalı olarak insanlarda kaydedilen maruziyetin yaklaşık 0.4 katı
+maruziyetlerle karaciğerde (sentrilobüler hepatoselüler hipertrofi), hipofiz bezinde (bazofil
+hipertrofisi) ve tiroid bezinde (belirgin foliküler hücre atrofisi, orta ile belirgin kolloid
+deplesyonu ve foliküler hücre hipertrofisi) ortaya çıkan bulgular indüklemiştir. Bu bulgular,
+hepatoselüler enzim indüksiyonuna ve bunu takiben tiroid hormonu düzeylerinin azalmasına
+13(sekonder hipotiroidi) karşı gelişen adaptif bir yanıttan kaynaklanmış olabilir. Köpeklerde
+tiroid düzeyleri ölçülmemiş olmakla birlikte, üridin difosfat glukoronosil transferaz
+indüksiyonunun tiroid hormon metabolizmasıyla ilişkili olduğu in vitro köpek hepatosit
+tayiniyle doğrulanmıştır.
+Diğer klinik dışı güvenlilik verileri
+Klinik çalışmalarda gözlenmemiş ancak klinik maruziyet düzeylerine benzer maruziyet
+düzeylerinde hayvanlarda görülen ve klinik kullanımla anlamlılığı olabilen advers
+reaksiyonlar aşağıdaki gibi olmuştur:
+• Sıçanlarda yinelenen doz toksisitesi çalışmalarında gözlenmiş böbrek toksisitesi.
+Çevresel risk değerlendirmesi
+Çevresel risk değerlendirmesi çalışmaları, sotorasibin çevrede oldukça kalıcı olma
+potansiyeline sahip olduğunu göstermiştir (bkz. bölüm 6.6). Biyobirikim veya toksisite
+potansiyeli bulunmamaktadır.
+6. FARMASÖTİK ÖZELLİKLER
+6.1 Yardımcı maddelerin listesi
+Tablet çekirdeği
+• Mikrokristalin selüloz
+• Laktoz monohidrat
+• Kroskarmelloz sodyum
+• Magnezyum stearat
+Film kaplaması
+• Opadry®II Sarı (polivinil alkol [E1203], titanyum dioksit [E171], polietilen glikol
+[E1521], talk [E553b], sarı demir oksit [E172])
+6.2 Geçimsizlikler
+Geçimlilik çalışmalarının olmaması nedeniyle bu tıbbi ürün, bölüm 4.2’de belirtilen
+sıvılardan başka sıvılarla birlikte çözündürülmemelidir. Asitli içeceklerle (ör. meyve suları)
+de çözündürülmemelidir.
+6.3 Raf ömrü
+24 ay
+6.4 Saklamaya yönelik özel tedbirler
+30°C altındaki oda sıcaklığında saklayınız
+146.5 Ambalajın niteliği ve içeriği
+Karton kutu içerisinde, alüminyum folyo kaplı PVC/PE/PVDC blisterler. Her blister 8 adet
+film kaplı tablet içerir. 240 film kaplı tablet bulunan bir paket (30 blister içeren 1 karton)
+şeklindedir.
+6.6 Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+Kullanılmamış olan ürünler ya da atık materyaller ‘Tıbbi Atıkların Kontrolü Yönetmeliği’ ve
+‘Ambalaj Atıklarının Kontrolü Yönetmeliği’ne uygun olarak imha edilmelidir.
+7. RUHSAT SAHİBİ
+Amgen İlaç Tic. Ltd. Şti.
+İş Kuleleri, Levent Mah., Meltem Sok.
+No: 10 Kule: 2 Kat: 25, 4. Levent, Beşiktaş,
+İstanbul
+8. RUHSAT NUMARASI(LARI)
+2022/620
+9. İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi: 28.10.2022
+Ruhsat yenileme tarihi:
+10. KÜB’ÜN YENİLENME TARİHİ
+15

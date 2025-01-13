@@ -1,0 +1,394 @@
+KISA ÜRÜN BİLGİSİ
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+MİLRİCOR 10mg/10ml İ.V. enjeksiyon/infüzyon için çözelti içeren ampul
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde:
+Her 1 ml çözelti, 1 mg milrinon etkin maddesini içerir.
+Yardımcı maddeler:
+Susuz dekstroz (glukoz)………...51,71 mg
+Sodyum hidroksit………………..y.m.
+Yardımcı maddeler için 6.1.’e bakınız.
+3. FARMASÖTİK FORM
+Steril enjeksiyon/infüzyon için çözelti içeren ampul.
+Berrak, renksiz-soluk sarı, partikülsüz çözelti.
+4. KLİNİK ÖZELLİKLER
+4.1. Terapötik endikasyonlar
+MİLRİCOR klasik bakım tedavisine yanıt vermeyen şiddetli konjestif kalp yetmezliğinin kısa
+süreli tedavisinde ve kalp cerrahisi sonrası düşük çıkış (output) durumlarını da içeren akut
+kalp yetmezliği olan hastaların tedavisi için endikedir.
+MİLRİCOR, pediyatrik popülasyonda, klasik idame tedavisine (glikozidler, diüretikler,
+vazodilatörler, ve/veya ADE inhibitörlerine) yanıt vermeyen şiddetli konjestif kalp
+yetmezliğinin kısa süreli tedavisinde (en fazla 35 saat) ve kalp cerrahisi sonrası düşük
+kardiyak çıkış (output) durumlarının da dahil olduğu akut kalp yetmezliğinin kısa süreli
+tedavisinde (en fazla 35 saat) endikedir.
+4.2. Pozoloji ve uygulama şekli
+Pozoloji/uygulama sıklığı ve süresi:
+Yetişkinler için, MİLRİCOR’un önce 10 dakikalık sürede 50 mcg/kg yükleme dozu
+verilmelidir, ardından hemodinamik ve klinik yanıta göre, sürekli infüzyon şeklinde, 0,375
+1mcg/kg/dk. ve 0,750 mc/kg/dk. dozla devam edilmelidir. Toplam doz 1,13 mg/kg/gün’ü
+geçmemelidir.
+MİLRİCOR’un 200 mcg/ml’lik infüzyonluk çözeltisini hazırlamak için; her bir 10 ml’lik
+ampule 40 ml seyreltici (her bir 100 ml ‘lik ampule 400 ml seyreltici) kullanılmalıdır.
+Kullanılan seyrelticiler: %0,45 sodyum klorür, %0,9 sodyum klorür veya %5 dekstroz’dur.
+Uygulanırken aşağıdaki tablo esas alınmalıdır.
+MİLRİCOR enjeksiyon dozu İnfüzyon hızı
+(mcg/kg/dk.) (ml/kg/saat)
+0,375 0,11
+0,400 0,12
+0,500 0,15
+0,600 0,18
+0,700 0,21
+0,750 0,22
+Çözeltilerin farklı konsantrasyonları, hastanın sıvı gereksinimlerine uygun olarak
+kullanılmalıdır. Tedavi süresi hastanın verdiği cevaba bağlı olmalıdır. Konjestif kalp
+yetmezliği olan hastalarda, en fazla 5 gün tedavi devam ettirilmesine rağmen normal süre 48-
+72 saattir.
+Kalp cerrahisini takiben akut durumlarda 12 saatten fazla tedavi sürdürülmemelidir.
+Uygulama şekli:
+İntravenöz uygulama içindir.
+Özel popülasyonlara ilişkin ek bilgiler:
+Böbrek yetmezliği:
+Doz ayarlaması gereklidir.
+Ciddi böbrek yetmezliği olan ancak kalp rahatsızlığı olmayan hastalardan elde edilmiş
+verilerde, böbrek yetmezliğinin varlığında milrinonun terminal eliminasyon yarı ömrünün
+önemli ölçüde arttığı gösterilmiştir. Böbrek yetmezliği klinik olarak kanıtlanmış olan
+hastalarda yükleme dozu etkili değildir fakat MİLRİCOR’un aşağıdaki tabloda gösterildiği
+şekilde kullanılması önerilir:
+2Kreatinin klerensi MİLRİCOR enjeksiyon Sürdürülen infüzyonun
+(ml/dk/1,73m2) dozu hızı (ml/kg/saat)
+(mcg/kg/dk)
+5 0,20 0,06
+10 0,23 0,07
+20 0,28 0,08
+30 0,33 0,10
+40 0,38 0,11
+50 0,43 0,13
+İnfüzyon hızı hemodinamik yanıta göre ayarlanmalıdır.
+Pediyatrik popülasyon:
+Yayınlanan çalışmalarda infantlar ve çocuklar için seçilen dozlar:
+- İntravenöz yükleme dozu: 30-60 dakika boyunca uygulanan 50-75 mcg/kg’dır.
+- İntravenöz sürekli infüzyon: Hemodinamik yanıta ve olası yan etkilerin başlamasına göre
+en fazla 35 saatlik bir süre boyunca 0,25-0,75 mcg/kg/dk’dır.
+İnfantlarda ve 6 yaşından küçük çocuklarda konjenital kalp rahatsızlığı için olan düzeltici
+ameliyatlardan sonraki düşük kardiyak output sendromu ile ilgili klinik çalışmalarda, 60
+dakika boyunca uygulanan 75 mcg/kg yükleme dozu ve onu takiben 35 saat boyunca
+uygulanan 0,75 mcg/kg/dk infüzyonun düşük kardiyak output sendromu gelişim riskini
+azaltmıştır.
+Farmakokinetik çalışma sonuçları da dikkate alınmalıdır (Bölüm 5.2’ye bakınız).
+Böbrek yetmezliği:
+Veri eksikliği nedeniyle, milrinonun kullanımı böbrek yetmezliği olan pediyatrik hastalarda
+önerilmemektedir (Bölüm 4.4’e bakınız).
+Patent duktus arteriyoz:
+Eğer patent duktus arteriyoz riski olan veya patent duktus arteriyoz hastası olan preterm ve
+term infantlarda milrinon kullanımı isteniyorsa, terapötik gereklilik/potansiyel risk oranı
+tartılarak kullanılmalıdır (Bölüm 4.4, 4.8, 5.2 ve 5.3’e bakınız).
+3Geriyatrik popülasyon:
+Özel bir doz ayarlaması gerekmemektedir.
+4.3. Kontrendikasyonlar
+ MİLRİCOR, içindeki etkin maddeye veya yardımcı maddelerden herhangi birine karşı aşırı
+duyarlılığı olanlarda,
+ Ciddi hipovolemi durumlarında kullanılmamalıdır.
+4.4. Özel kullanım uyarıları ve önlemleri
+Miyokard infarktüsünün akut aşamasında milrinon gibi inotropik ajanların kullanımı,
+miyokard oksijen tüketiminin istenilmeyen artışına neden olabilir.
+Akut miyokard infarktüsünden hemen sonra, güvenlilik ve etkililik sağlanıncaya kadar
+MİLRİCOR’un, kullanılması önerilmez.
+MİLRİCOR’la tedavi esnasında; kan basıncının, kalp atım hızının, klinik durumun, elektro-
+kardiyogramın, sıvı dengesinin, elektrolitler ve böbrek fonksiyonun (örneğin serum kreatinin)
+dikkatle izlenmesi gerekmektedir.
+Şiddetli obstrüktif aort veya akciğer kapak hastalığı veya hipertrofik subaortik darlığı olan
+hastalarda MİLRİCOR, obstrüksiyonun cerrahi olarak rahatlatılması yerine kullanılmamalıdır.
+Bu koşullarda, MİLRİCOR gibi inotropik/vazodilatatör özeliğinde olan bir ilaç kan akış
+tıkanıklığını arttırabilir.
+Milrinon ile tedavi edilen yüksek risk grubu popülasyonunda, supraventriküler ve ventriküler
+aritmi, gözlemlenmiştir. Bazı hastalarda, hastanın güvenliğini veya tedavinin sonucunu
+etkilemeyecek biçimde, sürekli olmayan ventriküler taşikardi de dahil olmak üzere ventriküler
+ektopide artış gözlemlenmiştir.
+A-V nodül iletişiminde az miktarda artışa neden olduğundan, atriyal çarpıntı/fibrilasyon
+kontrolü yapılmayan hastalarda, ventriküler cevap verme hızında artış olma ihtimali vardır.
+Bu nedenle, MİLRİCOR ile tedaviye başlamadan önce, A-V nodül iletişim süresini uzatmak
+amacıyla diğer ajanlarla tedavi veya dijitalizasyon düşünülmelidir ve aritmi durumunda tedavi
+kesilmelidir.
+4Kalp yetmezliğinin kendisinde mevcut olan aritmi potansiyeli birçok ilaçla veya ilaçların
+kombinasyonu ile artabilir. MİLRİCOR alan hastalar infüzyon esnasında yakından takip
+edilmeli ve aritmi geliştiği takdirde infüzyon sonlandırılmalıdır.
+Vazodilatör etkisinden dolayı milrinon hipotansiyona neden olabilir, bu yüzden MİLRİCOR
+uygulanacak hipotansiyonlu hastalar tedavi öncesinde dikkatlice incelenmelidir. Kan
+basıncında aşırı düşme görülen hastalarda enjeksiyon hızı yavaşlatılmalı veya kesilmelidir.
+Eğer önceden yapılan güçlü bir diüretik tedavinin kardiyak dolum basıncında önemli bir
+azalmaya neden olduğu şüphesi var ise, MİLRİCOR enjeksiyonu; kan basıncı, kalp atışı ve
+kliniksel semptomatoloji gözlemlenerek yapılmalıdır.
+Diüretiklerle tedavide, kardiyak çıktılarında görülen bir iyileşmede diüretik dozunun
+azaltılması gerekir. Aşırı diüretik alımıyla görülen potasyum kaybında, diüretik dozunda bir
+azaltma gerekli görülür. Aşırı diüretikler nedeniyle görülen potasyum kaybı, dijitalize
+hastaları aritmiye doğru yatkınlaştırabilir. Bu nedenle, MİLRİCOR’la tedaviye başlamadan
+evvel veya uygulama esnasında potasyum desteği ile hipokalemi düzeltilmelidir.
+Milrinon enjeksiyonunda infüzyon bölgesinde reaksiyon vakaları rapor edilmiştir (Bkz.
+Bölüm 4.8). Sonuç olarak, muhtemel bir ekstravazasyon vakasını önlemek için infüzyon
+bölgesi dikkatlice gözlemlenmelidir.
+Aneminin de dahil olduğu hemoglobindeki düşüş çoğu kez kalp yetmezliği durumunda
+gerçekleşir. Trombositopeni ve anemi riski nedeniyle, düşük platelet sayımı veya düşük
+hemoglobini olan hastalarda ilgili laboratuvar parametrelerinin dikkatle takip edilmesi
+gerekmektedir.
+Kontrollü çalışmalarda milrinonun infüzyonu ile ilgili 48 saati aşan periyotlar için çalışma
+mevcut değildir.
+Pediyatrik popülasyon:
+Yetişkinler için anlatılan uyarılara ve önlemlere ek olarak aşağıdaki bilgiler de dikkate
+alınmalıdır:
+5Yenidoğanlarda, MİLRİCOR tedavisi sırasında, açık kalp ameliyatını takiben, izleme, kalp
+hızı ve ritmi, umbilikal arter kateteri veya periferik kateter ile sistemik arteriyel kan basıncı,
+santral venöz basınç, kalp indeksi, kalp debisi, sistemik vasküler rezistans, pulmoner arter
+basıncı, atriyal basınç içermelidir. İzlenmesi gereken laboratuvar değerleri, platelet sayımı,
+serum potasyumu, karaciğer fonksiyonları ve böbrek fonksiyonlarıdır. Frekans ölçme ve
+değerlendirilmesi taban çizgisi değerlerine göre ve yeni doğanların tedavideki değişikliklere
+yanıtlarının değerlendirilmesi gerekmektedir.
+Literatür, bozulmuş böbrek fonksiyonu olan pediyatrik hastalarda, milrinon klerensinde
+belirgin azalma ve klinik olarak önemli yan etkilerin olduğunu ortaya koyar. Fakat pediyatrik
+hastalarda, dozun hangi spesifik kreatinin klerensinde ayarlanması gerektiği henüz belli
+değildir. Bu nedenle, milrinon kullanımı bu popülasyonda önerilmemektedir (Bakınız Bölüm
+4.2).
+Pediyatrik hastalarda milrinon kullanımına hasta hemodinamik açıdan stabil ise başlanmalıdır.
+Milrinon trombositopeniye neden olabileceğinden, intraventriküler hemoraji riski olan
+yenidoğanlarda (prematüre bebek, düşük doğum ağırlığı) dikkatli olunmalıdır. Pediyatrik
+hastalarla yapılan klinik çalışmalarda, trombositopeni riski infüzyon süresi ile önemli ölçüde
+artmıştır. Klinik veriler milrinon ilişkili trombositopeninin çocuklarda yetişkinlere oranla
+daha sık olduğunu göstermektedir (Bölüm 4.8’e bakınız).
+Klinik çalışmalarda milrinonun pediyatrik hastalarda duktus arteriyozunun kapanmasını
+yavaşlattığı görülmüştür. Bu nedenle, eğer patent duktus arteriyozu olan veya olma riski olan
+preterm veya term infantlarda milrinonun kullanımı isteniyorsa, terapötik gerekler potansiyel
+risklere karşı değerlendirilmelidir. (Bölüm 4.2, 4.8, 5.2 ve 5.3’e bakınız).
+MİLRİCOR her dozda (10 ml) 0.5 g dekstroz (glukoz) içerir. Bu yüzden glukoza bağlı
+herhangi bir etki oluşması beklenmez.
+4.5. Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+Karışımda çökelti oluşacağından MİLRİCOR içeren intravenöz enjeksiyon hatlarına
+furosemid veya bumetanid uygulanmamalıdır.
+6İntravenöz infüzyonla uygulamada seyreltme için sodyum bikarbonat kullanılmamalıdır.
+Kalsiyum kanal blokerleri ile teorik bir potansiyel etkileşim var olmasına rağmen bugüne
+kadar klinik olarak anlamlı bir etkileşim için hiçbir kanıt yoktur.
+Kanda tedavi için gerekli dijital seviyesi sağlanmış olan hastalarda glikozid toksisitesi
+belirtilerine neden olmadan milrinonun uygun inotropik etkisi vardır.
+Uyumlu oldukları tespit edilmiş ilaçlarda dahil MİLRİCOR enjeksiyonuna başka ilaçlar
+karıştırılmamalıdır.
+Milrinon ile tedavi sırasında sıvı ve elektrolit değişimleri ve serum kreatinin seviyeleri
+dikkatlice takip edilmelidir. Kalp debisindeki iyileşme ve böylece diürez bir diüretik ajanın
+dozunda azalma gerektirebilir. Aşırı diüreze bağlı potasyum kaybı, dijitalleştirilmiş hastalarda
+aritmiye önceden hazırlayabilir. Bu nedenle, milrinon kullanımı öncesinde veya sırasında
+hipokalemi, potasyum takviyesi ile düzeltilmelidir.
+Özel popülasyonlara ilişkin ek bilgiler:
+Veri yoktur.
+Pediyatrik popülasyon:
+Veri yoktur.
+4.6. Gebelik ve laktasyon
+Genel tavsiye
+Gebelik Kategorisi: C
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon)
+MİLRİCOR ile çocuk doğurma potansiyeli bulunan kadınlarda çalışma yapılmamıştır.
+MİLRİCOR’un çocuk doğurma potansiyeli bulunan kadınlar veya doğum kontrolü üzerindeki
+etkisi bilinmemektedir.
+7Gebelik dönemi
+MİLRİCOR için, gebeliklerde maruz kalmaya ilişkin klinik veri mevcut değildir. Hayvanlar
+üzerinde yapılan çalışmalar, gebelik / embriyonal / fetal gelişim / doğum ya da doğum sonrası
+gelişim ile ilgili olarak doğrudan ya da dolaylı zararlı etkiler olduğunu göstermemektedir
+(Bkz. Bölüm 5.3).
+Gebelik sırasında ancak risk/fayda oranı tartılarak kullanılmalıdır.
+Laktasyon dönemi
+Milrinonun insan sütüyle atılıp atılmadığı bilinmemektedir. Milrinonun süt ile atılımı
+hayvanlar üzerinde araştırılmamıştır. Emzirmenin durdurulup durdurulmayacağına ya da
+MİLRİCOR tedavisinin durdurulup durdurulmayacağına/tedaviden kaçınılıp
+kaçınılmayacağına ilişkin karar verilirken, emzirmenin çocuk açısından faydası ve
+MİLRİCOR tedavisinin emziren anne açısından faydası dikkate alınmalıdır.
+Üreme yeteneği / Fertilite
+MİLRİCOR için, gebeliklerde maruz kalmaya ilişkin klinik veri mevcut değildir.
+4.7. Araç ve makine kullanımı üzerindeki etkiler
+Araç ve makine kullanımını etkilediğine dair herhangi bir veri mevcut değildir.
+4.8. İstenmeyen etkiler
+Aşağıdaki istenmeyen etkiler MİLRİCOR ile tedavide meydana gelebilir.
+Sıklık sıralaması şu şekilde tanımlanmıştır:
+Çok yaygın (≥1/10); yaygın (≥1/100 ila <1/10); yaygın olmayan (≥1/1.000 ila <1/100); seyrek
+(≥1/10.000 ila <1/1.000); çok seyrek (<1/10.000), bilinmiyor (eldeki verilerden hareketle
+tahmin edilemiyor).
+Kan ve lenf sistemi hastalıkları
+Yaygın olmayan: Trombositopeni*
+Bilinmiyor: Hemoglobin konsantrasyonu ve/veya kırmızı kan hücresi sayısında azalma.
+*Bebeklerde ve çocuklarda, trombositopeni riski infüzyon süresi ile birlikte önemli ölçüde
+artmıştır. Klinik veriler milrinon ile ilişkili trombositopeninin çocuklarda yetişkinlere göre
+daha yaygın olduğunu gösterir. (Bölüm 4.4’e bakınız.)
+8Bağışıklık sistemi hastalıkları
+Çok seyrek: Anafilaktik şok.
+Metabolizma ve beslenme hastalıkları
+Yaygın olmayan: Hipokalemi
+Sinir sistemi hastalıkları
+Yaygın: Genellikle orta hafif şiddette baş ağrısı.
+Yaygın olmayan: Tremor.
+Kardiyak hastalıklar
+Yaygın: Ventriküler ektopik aktivite, sürekli olmayan veya sürekli ventriküler taşikardi,
+supraventriküler aritmiler, hipotansiyon.
+Yaygın olmayan: Ventriküler fibrilasyon, anjina/göğüs ağrısı.
+Çok seyrek: Torsades de pointes (TdP) (kendi kendini sonlandırabilen ya da ventrikül
+fibrilasyonuna dejenere olabilen bir polimorf ventrikül taşikardisi türü).
+Aritmi insidansı, doz veya milrinonun plazma düzeyleri ile ilgili değildir. Bu aritmiler nadiren
+hayatı tehdit edicidir. Aritmi mevcut ise, bu önceden var olan aritmilerle, metabolik
+anormalliklerle (örneğin hipokalemi), anormal digoksin düzeyleri ile ve kateter ekleme gibi
+bazı temel faktörler ile genellikle ilişkilidir. Klinik veriler, milrinon ile ilişkili aritminin
+çocuklarda yetişkinlere göre daha az yaygın olduğunu gösterir.
+Solunum, göğüs hastalıkları ve mediastinal hastalıklar
+Çok seyrek: Bronkospazm
+Hepato-bilier hastalıklar
+Yaygın olmayan: Anormal karaciğer fonksiyon testleri
+Deri ve deri altı doku hastalıkları
+Çok seyrek: Döküntü gibi deri reaksiyonları.
+Böbrek ve idrar yolu hastalıkları
+Bilinmiyor: Böbrek yetmezliği (hipotansiyona sekonder)
+9Genel ve uygulama bölgesine ilişkin hastalıklar:
+Bilinmiyor: İnfüzyon bölgesi reaksiyonu.
+Pediyatrik popülasyon:
+Sinir sistemi hastalıkları
+Bilinmiyor: İntraventriküler kanama (Bölüm 4.4’e bakınız).
+Konjenital ve kalıtımsal/genetik hastalıklar
+Bilinmiyor: Patent duktus arteriyoz*** (Bölüm 4.2, 4.4 ve 5.3’e bakınız)
+***Patent duktus arteriyozun kritik sonuçları, literatürde anlatıldığı gibi aşırı pulmoner
+dolaşımın ardışık pulmoner ödem ve kanama ile kombinasyonu ve ardışık intraventriküler
+kanamalı ve olası ölümcül sonuçlu nekrotize enterokolitli azalmış organ perfüzyonu ile
+ilgilidir.
+Pediyatrik popülasyon için uzun süreli güvenilirlik verileri henüz mevcut değildir.
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir (www.titck.gov.tr; e-
+posta: tufam@titck.gov.tr; tel: 0 800 314 00 08; faks: 0 312 218 35 99)
+4.9. Doz aşımı ve tedavisi
+MİLRİCOR’un intravenöz aşırı dozu, hipotansiyon (çünkü vazodilatatör etkisi vardır) ve
+kardiyak aritmiye neden olabilir. Bunlar oluşmuşsa MİLRİCOR’un uygulaması azaltılmalıdır
+veya hastanın durumu stabil hale gelinceye kadar durdurulmalıdır. Bilinen spesifik bir
+antidotu yoktur, ama dolaşım desteği için genel tedbirler alınmalıdır.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1. Farmakodinamik özellikler
+Farmakoterapötik grup: Fosfodiesteraz inhibitörleri
+ATC kodu: C01CE02
+1 0Etki mekanizması:
+Milrinon düşük kronotrop aktivitesi olan, pozitif inotrop ve vazodilatatördür. Ayrıca sol
+ventriküler diyastolik gevşemeyi de artırır. Yapısı ve etki şekli dijital glikozidlerinden,
+katekolaminler veya anjiyotensin dönüştürücü enzim inhibitörlerinden farklıdır. Kalpte ve
+vasküler kasta pik III fosfodiesteraz izoenziminin selektif inhibitörüdür. Milrinon, A-V
+nodunun iletiminin hafif artmasını sağlar, ancak başka önemli elektro-fizyolojik etkisi yoktur.
+Milrinon enjeksiyonuyla yapılan klinik çalışmalarda, kardiyak output, pulmoner kapiller
+oklüzyon basıncı ve damar direncini de içeren konjestif kalp yetmezliğinde, kalp atım hızı
+üzerinde klinik olarak önemli etkisi olmadan veya miyokard oksijen tüketimi olmadan
+hemodinamik endekslerinde hemen düzeltme yaptığı gösterilmiştir. İntravenöz milrinon
+tedavisi sırasında hemodinamik düzelmeye, New York Kalp Birliğinin sınıflandırması ile
+ölçüldüğü gibi, konjestif kalp yetmezliğinde klinik semptomatik düzelme eşlik eder.
+Pediyatrik popülasyon
+Literatür taraması ile kardiyak cerrahi operasyonu, septik şok veya pulmoner hipertansiyonu
+takiben düşük kardiyak output sendromu olan hastalar ile ilgili klinik çalışmalar bulunmuştur.
+Uygulanan dozlar 30-60 dakika boyunca 50-75 mcg/kg yükleme dozu ve onu takiben 35 saate
+kadar 0,25-0,75 mcg/kg/dakika sürekli intravenöz infüzyondur. Bu çalışmalarda, milrinon ile
+kardiyak outputta artış, kardiyak dolum basıncında azalma, kalp hızında ve miyokardial
+oksijen tüketiminde küçük değişiklikler ile sistemik ve pulmoner vasküler dirençte azalma
+gözlenmiştir.
+Uzun süreli milrinon kullanımı ile ilgili çalışmalar 35 saatten daha uzun süre MİLRİCOR
+uygulanmasını önermek için yeterli değildir.
+Bazı çalışmalarda, milrinonun pediyatrik kullanımı, nonhiperdinamik septik şoku olan
+hastalarda, (Barton ve arkadaşları, 1996; Lindsay ve arkadaşları, 1998); Fallot onarımının
+tetrolojisinden sonra milrinonun postbypass pulmoner hipertansiyon üzerindeki etkisi (Chu ve
+arkadaşları, 2000); Fanton tipinde prosedürden sonra nitrik oksidin ve milrinonun pulmoner
+dolaşım üzerindeki kombine etkisi (Cai ve arkadaşları, 2008) araştırılmıştır.
+Bu çalışmaların sonuçları yetersizdir. Bu nedenle, milrinonun bu endikasyonlarda kullanımı
+önerilmez.
+1 15.2. Farmakokinetik özellikler
+Genel Özellikler
+Dağılım:
+Konjestif kalp yetmezliği olan hastalara, MİLRİCOR’un 12,5-125 mcg/kg intravenöz
+enjeksiyonunu takiben; dağılım hacmi 0,38 litre/kg/saattir, ortalama terminal eliminasyon yarı
+ömrü 2,3 saat ve klerensi 0,13 litre/kg/saattir. Konjestif kalp yetmezliği olan hastalara 0,2–0,7
+mcg/kg/dakika intravenöz infüzyonunu takiben; dağılım hacmi 0,45 litre/kg, ortalama
+terminal eliminasyon yarı ömrü 2,4 saat ve klerensi 0,14 litre/kg/saattir. Bu farmakokinetik
+parametreler doza bağımlı değildir ve enjeksiyonları takiben plazma konsantrasyonuna karşı
+zaman eğrisi altındaki alan önemli ölçüde doza bağımlıdır.
+MİLRİCOR’un yaklaşık % 70’nin (denge diyalizi tarafından) insan plazma protein
+bağlandığı gösterilmiştir.
+Biyotransformasyon:
+5 metaboliti vardır fakat O-glukuronid metaboliti biyotrasformasyonun önemli kısmını temsil
+eder.
+Eliminasyon:
+Oral uygulanan milrinonun başlıca atılımı idrar yolu ile (%83) ve onun metaboliti olan O-
+glukuronid (%12) ile gerçekleşir.
+Normal bireylerde eliminasyon idrar yolu ile hızlıdır, ilacın verilmesini takiben, ilk iki saat
+içinde geri kazanım yaklaşık %60 ve ilk sekiz saat içinde geri kazanım yaklaşık % 90’dır.
+Milrinonun ortalama renal klerensi yaklaşık 0,3 litre/dk’dır, bu aktif salgının göstergesidir.
+Doğrusallık/Doğrusal olmayan durum:
+Bilgi bulunmamaktadır.
+Pediyatrik popülasyon
+Milrinon, çocuklarda, yetişkinlere kıyasla daha hızlı temizlenir. Ancak infantların klerensi
+çocuklarınkinden önemli ölçüde daha düşüktür. Preterm bebeklerde ise klerens daha düşüktür.
+Yetişkinlere göre daha hızlı olan klerens nedeniyle milrinonun kararlı durum plazma
+konsantrasyonu çocuklarda yetişkinlere göre daha düşüktür. Renal fonksiyonları normal olan
+pediyatrik popülasyonda 6-12 saatlik 0,5-0,75 mcg/kg/dk sürekli infüzyondan sonra kararlı
+durum milrinon plazma konsantrasyonu yaklaşık olarak 100-300 ng/ml’dir.
+1 2Açık kalp ameliyatı sonrası, yenidoğanlarda, infantlarda ve çocuklarda 0,5-0,75 mcg/kg/dk’lık
+intravenöz infüzyonu takiben milrinonun dağılım hacmi, yaş grupları arasında anlamlı bir
+değişiklik olmadan, 0,35-0,9 litre/kg arasındadır. Çok erken doğmuş bebeklere doğumdan
+sonra düşük sistemik çıkışı önlemek için uygulanan 0,5 mcg/kg/dk intravenöz infüzyonu
+takiben milrinonun dağılım hacmi yaklaşık olarak 0,5 litre/kg’dır.
+Birçok farmakokinetik çalışma, pediyatrik popülasyonda klerensin artan yaş ile birlikte
+arttığını göstermiştir. İnfantların klerensi (3,4-3,8 ml/kg/dk) çocuklarınkinden (5,9-6,7
+ml/kg/dakika) önemli ölçüde daha düşüktür. Yenidoğanlarda milrinon klerensi yaklaşık olarak
+1,64 ml/kg/dk; preterm infantlarda ise klerens daha düşüktür (0,64 ml/kg/dk).
+Milrinonun ortalama terminal eliminasyon yarı ömrü infantlarda ve çocuklarda 2-4 saat ve
+preterm infantlarda 10 saattir.
+Pediyatrik hastalarda, farmakodinamik etkinliğin eşik değerinin üzerinde değer elde etmek
+için milrinonun optimum dozu yetişkinlere göre daha fazla olduğu sonucuna varılmıştır;
+ancak preterm bebeklerde farmakodinamik etkinliğin eşik değerinin üzerinde değer elde
+etmek için uygulanması gereken optimum doz çocuklardakine göre daha düşüktür.
+Patent duktus arteriyoz
+Milrinon böbrekler yoluyla atılır ve ekstraselüler boşluk ile sınırlı olan dağılım hacmi vardır.
+Bu durum, patent duktus arteriyoz ile ilişkili olan aşırı sıvı ve hemodinamik değişikliklerin
+milrinonun dağılımı ve atılımı üzerinde etkisi olduğunu gösterir. (Bölüm 4.2, 4.4, 4.8 ve 5.3’e
+bakınız.)
+5.3. Klinik öncesi güvenlik verileri
+Juvenil hayvanlar:
+PDE 3 inhibitörlerin duktus-genişleten etkilerini yakın dönem sıçan yavrularında ve onların
+diferansiyel etkilerini yakın dönem ve preterm fetal sıçanlarda açıklamak için bir klinik öncesi
+çalışma yürütülmüştür. Milrinon ile postnatal duktus dilatasyonu 3 dozda çalışılmıştır (10,1ve
+0,1 mg/kg). Milrinonun dilatör etkisi, indometazin ile daraltılan fetal duktusa, milrinonun
+(10,1 ve 0,1 mg/kg) ve indometazinin (10 mg/kg) D21 (yakın dönem) ve D19 (preterm) anne
+sıçana eş zamanlı olarak uygulanması ile çalışılmıştır. Bu in vivo çalışma, milrinonun fetal ve
+postnatal daralmış duktus arteriyozun doza-bağımlı dilatasyonunu başlattığını göstermiştir.
+Enjeksiyon ile uygulanan doğumdan hemen sonra uygulanmasının dilatör etkilerinin
+1 3doğumdan 1 saat sonra uygulanmasına kıyasla daha potent olduğu görülmüştür. Ayrıca bu
+çalışma olgun olmayan duktus arteriyozun olgun duktus arteriyoza göre milrinona daha
+duyarlı olduğunu göstermiştir (Bölüm 4.2,4.4,4.8 ve 5.2’ye bakınız).
+6. FARMASÖTİK ÖZELLİKLER
+6.1. Yardımcı maddelerin listesi
+Laktik asit
+Susuz dekstroz (glukoz)
+Sodyum hidroksit
+Enjeksiyonluk su
+6.2 Geçimsizlikler
+Karışımda çökelti oluşacağından MİLRİCOR içeren intravenöz enjeksiyon hatlarına
+furosemid veya bumetanid uygulanmamalıdır. İntravenöz infüzyonla uygulamada seyreltme
+için sodyum bikarbonat kullanılmamalıdır.
+MİLRİCOR enjeksiyonuna başka ilaçlar karıştırılmamalıdır.
+6.3. Raf ömrü
+48 ay
+İnfüzyonluk çözeltiler; tavsiye edilen %0,45 sodyum klorür, %0,9 sodyum klorür veya %5
+dekstroz ile seyreltilerek 24 saat içinde kullanılmalıdır.
+6.4. Saklamaya yönelik özel tedbirler
+25°C altındaki oda sıcaklığında saklayınız, dondurmayınız.
+6.5. Ambalajın niteliği ve içeriği
+10 ml çözelti içeren 10 ml’lik tip 1 renksiz cam ampullerde - 1 adet ampul /kutu.
+6.6. Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+İlaç görsel olarak incelenmeli, partiküler madde içeren veya renklenmiş çözeltiler
+kullanılmamalıdır.
+“Tıbbi Atıkların Kontrolü Yönetmeliği” ve “Ambalaj ve Ambalaj Atıklarının Kontrolü
+Yönetmeliği”ne uygun olarak imha edilmelidir.
+1 47. RUHSAT SAHİBİ
+VEM İLAÇ San. ve Tic. A.Ş
+Söğütözü Mahallesi 2177. Cadde
+No:10B/49 Çankaya/ANKARA
+8. RUHSAT NUMARASI
+248/18
+İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi: 11.02.2013
+Ruhsat yenileme tarihi:
+1 5

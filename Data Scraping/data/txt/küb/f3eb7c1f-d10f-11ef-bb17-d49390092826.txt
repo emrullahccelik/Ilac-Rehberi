@@ -1,0 +1,1543 @@
+KISA ÜRÜN BİLGİSİ
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+SOVALDI® 400 mg film kaplı tablet
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde:
+Her bir film kaplı tablet 400 mg sofosbuvir içerir.
+Yardımcı maddeler:
+Yardımcı maddeler için Bölüm 6.1’e bakınız.
+3. FARMASÖTİK FORM
+Film kaplı tablet.
+Bir yüzünde “GSI”, diğer yüzünde ise “7977” damgası bulunan yaklaşık 20 mm x 9 mm
+boyutunda, sarı renkte, kapsül şeklinde, film kaplı tablet.
+4. KLİNİK ÖZELLİKLER
+4.1. Terapötik endikasyonlar
+SOVALDI yetişkinlerde ve 12 yaşından 18 yaşına kadar olan adölesanlarda kronik hepatit C
+(KHC) tedavisi için diğer tıbbi ürünlerle kombinasyon halinde endikedir (bkz. Bölüm 4.2, 4.4
+ve 5.1).
+Hepatit C virüsü (HCV) genotipine özgü aktivite için, bkz. Bölüm 4.4 ve 5.1.
+4.2. Pozoloji ve uygulama şekli
+SOVALDI tedavisi, KHC'li hastaların yönetiminde deneyimli bir hekim tarafından başlatılmalı
+ve izlenmelidir.
+Pozoloji/uygulama sıklığı ve süresi:
+SOVALDI’nin yetişkinlerde ve 12 yaşından 18 yaşına kadar olan adölesanlarda önerilen dozu
+günde bir kez yemekle oral yoldan alınan 400 mg’lık bir tablettir (bkz. Bölüm 5.2).
+SOVALDI, diğer tıbbi ürünlerle kombinasyon halinde kullanılmalıdır. SOVALDI
+monoterapisi önerilmemektedir (bkz. Bölüm 5.1). Ayrıca SOVALDI ile kombinasyon halinde
+kullanılan tıbbi ürünlerin Kısa Ürün Bilgisi’ne bakınız. SOVALDI kombinasyon tedavisi için
+birlikte uygulanması önerilen tıbbi ürünler ve tedavi süresi Tablo 1’de sunulmaktadır.
+1Tablo 1: SOVALDI kombinasyon tedavisi ile tedavi edilen yetişkinler ve 12 yaş ve üzeri
+adölesan hastalar için birlikte uygulanması önerilen tıbbi ürün(ler) ve tedavi süresi
+Hasta popülasyonu* Tedavi Süre
+12 haftaa,b
+Genotip 1, 4, 5 veya 6 KHC SOVALDI + ribavirinc +
+hastaları peginterferon alfa
+SOVALDI + ribavirin 24 hafta
+Sadece peginterferon alfa tedavisi
+için uygun olmayan ya da intoleransı
+olan hastalarda kullanım için (bkz.
+Bölüm 4.4)
+Yetişkin ve 12 yaş ve üzeri SOVALDI + ribavirinc, d 12 haftab
+adölesan genotip 2 KHC
+hastaları
+Yetişkin genotip 3 KHC SOVALDI + ribavirinc + 12 haftab
+hastaları peginterferon alfa
+SOVALDI + ribavirinc 24 hafta
+Yetişkin hastalar ve 12 yaş SOVALDI + ribavirind 24 hafta
+ve üzeri genotip 3 KHC
+hastaları
+Karaciğer transplantasyonu SOVALDI + ribavirinc Karaciğer
+bekleyen yetişkin KHC transplantasyonuna kadare
+hastaları
+* İnsan immün yetmezlik virüsü (HIV) ile ko-enfekte olan hastaları içerir.
+a. Daha önce tedavi görmüş HCV genotip 1 enfeksiyon hastaları için SOVALDI, ribavirin ve
+peginterferon alfa kombinasyonuna dair veri yoktur (bkz. Bölüm 4.4).
+b. Tedavi süresinin 12 haftayı geçecek ve 24 haftaya kadar gidecek şekilde potansiyel olarak
+uzatılması dikkate alınmalıdır. Bu durum özellikle geçmişte interferon tabanlı tedavilere düşük yanıt
+oranlarıyla ilişkilendirilen bir ya da daha fazla faktörün bulunduğu alt gruplar için geçerlidir (örn.
+ilerlemiş fibroz/siroz, yüksek başlangıç viral konsantrasyonları, siyah ırk, IL28b CC harici genotip,
+daha önce peginterferon alfa ve ribavirin tedavisine yanıt vermeyen).
+c. Yetişkinler: vücut ağırlığına göre belirlenen ribavirin (< 75 kg = 1.000 mg ve ≥ 75 kg = 1.200 mg);
+iki bölünmüş doz halinde yemekle birlikte oral yoldan uygulanır.
+d. Ribavirinin 12 yaş ve üzeri adölesan hastalarda vücut ağırlığına dayalı dozlama önerileri için bkz.
+Tablo 3.
+e _ .Bakınız Özel hasta popülasyonları – Aşağıda karaciğer transplantasyonu bekleyen hastalar.
+212 yaş ve üzeri adölesan hastalar için ribavirinin günlük ikiye bölünmüş doz halinde yemekle
+birlikte uygulandığında aşağıdaki dozlama önerilmektedir:
+Tablo 2: HCV enfeksiyonlu 12 yaş ve üzeri adölesan hastalarda SOVALDI ile
+kombinasyon halinde uygulama için ribavirin dozlama rehberi
+Vücut ağırlığı kg (Ibs) Ribavirin günlük dozu*
+< 47 (< 103) 15 mg/kg/gün
+47-49 (103-108) 600 mg/gün
+800 mg/gün
+50-65 (110-143)
+1.000 mg/gün
+66-80 (145-176)
+> 81 (178) 1.200 mg/gün
+* Ribavirin in günlük dozu, ağırlık bazlıdır ve yemeklerle ikiye bölünmüş olarak ağızdan alınmaktadır.
+HCV'ye karşı doğrudan etkili diğer antivirallerde birlikte uygulamaya ilişkin olarak, bakınız
+Bölüm 4.4.
+Yetişkinlerde doz modifikasyonu
+SOVALDI doz azaltımı önerilmemektedir.
+Sofosbuvir, peginterferon alfa ile kombinasyon halinde kullanılırsa ve bir hasta bu tıbbi ürün
+ile ilgili olabilecek ciddi bir advers reaksiyon yaşarsa, peginterferon alfa dozu azaltılmalı veya
+kesilmelidir. Peginterferon alfa dozunun nasıl azaltılacağı ve/veya kesileceğiyle ilgili ek bilgi
+için peginterferon Kısa Ürün Bilgisine bakınız.
+Bir hasta ribavirin ile ilgili olabilecek bir ciddi advers reaksiyon yaşarsa, uygun durumda
+advers reaksiyon hafifleyene veya reaksiyonun şiddeti azalana kadar ribavirin dozu
+değiştirilmeli veya kesilmelidir. Tablo 3’te, hastanın hemoglobin konsantrasyonuna ve
+kardiyak durumuna bağlı olarak doz modifikasyonları ve kesilmesi için kılavuzlar
+sunulmaktadır.
+Tablo 3: Yetişkinlerde SOVALDI ile birlikte uygulama için ribavirin doz modifikasyonu
+kılavuzu
+Laboratuvar değerleri Aşağıdaki durumda ribavirin Aşağıdaki durumda
+dozunu 600 mg/gün olarak ribavirin kullanımını
+azaltın: kesin:
+Kardiyak hastalığı olmayan < 10 g/dL < 8,5 g/dL
+hastalarda hemoglobin
+Stabil kardiyak hastalık geçmişi 4 haftalık tedavi süresinde 4 hafta boyunca düşük doz
+olan hastalarda hemoglobin hemoglobinde ≥ 2 g/dL düşüş verilmesine rağmen < 12 g/dL
+Bir laboratuvar anormalliği veya klinik manifestasyon nedeniyle ribavirin verilmediyse, günlük
+600 mg ile ribavirini yeniden başlatmak ve daha sonra dozu günlük 800 mg’a çıkarmak
+denenebilir. Ancak ribavirinin başlangıçta atanan doza (günlük 1.000 mg ila 1.200 mg)
+arttırılması önerilmez.
+312 yaş ve üzeri adölesan hastalarda doz modifikasyonu
+SOVALDI dozunun azaltılması önerilmemektedir.
+Bir hasta ribavirin ile ilgili olabilecek bir ciddi advers reaksiyon yaşarsa, uygun durumda
+advers reaksiyon hafifleyene veya reaksiyonun şiddeti azalana kadar ribavirin dozu
+değiştirilmeli veya kesilmelidir.
+Ribavirin dozunun nasıl azaltılacağı ve/veya kesileceğiyle ilgili bilgi için ribavirin Kısa Ürün
+Bilgisine bakınız.
+Dozlamanın kesilmesi
+SOVALDI ile kombinasyon halinde kullanılan diğer ajanlar tamamen kesilirse, SOVALDI’nin
+de kesilmesi gerekir (bkz. Bölüm 4.4).
+Kusma ve unutulan dozlar
+Hastalara dozlamadan sonraki 2 saat içinde kusma olursa ek bir doz alınması gerektiği bilgisi
+verilmelidir. Dozlamanın üstünden 2 saatten daha fazla süre geçtikten sonra kusma meydana
+gelirse, ek doz gerekmez. Bu öneriler, dozun büyük bölümünün dozlamadan sonraki 2 saat
+içinde absorbe edildiğini öne süren sofosbuvirin ve GS-331007’nin absorpsiyon kinetiğini
+temel alır.
+Bir doz atlanırsa ve normal zamanından sonraki 18 saat içinde fark edilirse, hastalara dozu en
+kısa sürede almaları ve sonraki dozu normal saatinde almaları gerektiği söylenmelidir. 18
+saatten sonra fark edilirse, hastalara beklemeleri ve sonraki dozu normal saatinde almaları
+gerektiği söylenmelidir. Hastalara çift doz almamaları gerektiği söylenmelidir.
+Uygulama şekli:
+Film kaplı tablet, oral kullanım içindir.
+Hastalar tableti bütün halde yutmaları konusunda yönlendirilmelidir. Etkin maddenin acı tadı
+nedeniyle, film kaplı tablet çiğnenmemeli veya ezilmemelidir. Tablet yemekle birlikte
+alınmalıdır (bkz. Bölüm 5.2).
+Özel popülasyonlara ilişkin ek bilgiler:
+Böbrek yetmezliği:
+Hafif veya orta derecede böbrek yetmezliği olan hastalar için SOVALDI doz ayarlaması
+gerekli görülmemektedir.
+Hemodiyaliz gerektiren şiddetli böbrek yetmezliği (tahmini glomerüler filtrasyon hızı [eGFR]
+< 30 mL/dak/1,73 m2) ve son evre böbrek hastalığı (SEBH) bulunan hastalarda güvenlilik
+verileri sınırlıdır. SOVALDI bu hastalarda diğer ilgili tedavi seçenekleri bulunmuyorsa, doz
+ayarlaması yapılmadan kullanılabilir (bkz. Bölüm 4.4, 4.8, 5.1 ve 5.2).
+Karaciğer yetmezliği:
+Hafif, orta veya şiddetli karaciğer yetmezliği olan hastalar için SOVALDI doz ayarlaması
+gerekli değildir (Child-Pugh-Turcotte [CPT] A, B veya C Sınıfı) (bkz. Bölüm 5.2).
+Dekompanse sirozlu hastalarda SOVALDI’nin güvenliliği ve etkililiği belirlenmemiştir.
+Karaciğer transplantasyonu bekleyen hastalar:
+Karaciğer transplantasyonu bekleyen hastalarda SOVALDI’nin uygulamasının süresi, her bir
+hasta için potansiyel fayda ve risklerin değerlendirmesiyle belirlenmelidir (bkz. Bölüm 5.1).
+4Karaciğer transplantasyonu yapılan yetişkinler:
+Karaciğer transplantasyonu yapılan yetişkinlerde SOVALDI, ribavirin ile kombinasyon halinde
+kullanıldığında 24 hafta için önerilmektedir. Yetişkinlerde, 400 mg’lık başlangıç ribavirin
+dozunun ikiye bölünmüş doz halinde yemekle birlikte oral yoldan uygulanması önerilir.
+Başlangıç ribavirinin dozu iyi tolere edilirse, doz günlük olarak maksimum 1.000-1.200 mg’a
+kadar titre edilebilir (ağırlığı < 75 kg hastalar için 1.000 mg ve ≥ 75 kg hastalar için 1.200 mg).
+Başlangıç dozu iyi tolere edilmezse, hemoglobin seviyeleri temel alınarak klinik olarak
+belirtildiği üzere doz azaltılmalıdır (bkz. Bölüm 5.1).
+Pediyatrik popülasyon:
+12 yaşın altındaki çocuklarda SOVALDI’nin güvenliliği ve etkililiği belirlenmemiştir.
+Geriyatrik popülasyon:
+Yaşlı hastalar için doz ayarlaması gerekli görülmemektedir (bkz. Bölüm 5.2).
+4.3. Kontrendikasyonlar
+Etkin maddeye veya Bölüm 6.1’de listelenen yardımcı maddelerden herhangi birine karşı aşırı
+duyarlılık halinde kontrendikedir.
+Bağırsakta güçlü P-glikoprotein (P-pg) indükleyici olan tıbbi ürünlerle (karbamazepin,
+fenobarbital, fenitoin, rifampisin ve sarı kantaron) birlikte kullanım, sofosbuvirin plazma
+konsantrasyonlarını anlamlı bir şekilde düşürecektir ve bu durum SOVALDI’nin etkililiğinin
+azalması ile sonuçlanabilir (bkz. Bölüm 4.5).
+4.4. Özel kullanım uyarıları ve önlemleri
+Genel
+SOVALDI’nin monoterapi olarak uygulanması önerilmez ve hepatit C enfeksiyonunun
+tedavisine yönelik diğer tıbbi ürünlerle kombinasyon halinde reçete edilmesi gerekir.
+SOVALDI ile kombinasyon halinde kullanılan diğer ajanlar tamamen kesilirse, SOVALDI’nin
+de kesilmesi gerekir (bkz. Bölüm 4.2). SOVALDI ile tedaviye başlamadan önce birlikte reçete
+edilen ilaçlar için Kısa Ürün Bilgisine bakınız.
+Şiddetli bradikardi ve kalp bloğu
+Sofosbuvir içeren tedavi rejimleri amiodaron ile kombinasyon halinde kullanıldığında, hayatı
+tehdit edici şiddetli bradikardi ve kalp bloğu vakaları gözlemlenmiştir. Bradikardi genellikle
+saatler ila günler içinde ortaya çıkmış; ancak, çoğunlukla HCV tedavisine başlandıktan sonra 2
+haftaya kadar olmak üzere, olayın daha uzun bir süre sonra başladığı vakalar da
+gözlemlenmiştir.
+SOVALDI kullanan hastalarda amiodaron yalnızca, diğer alternatif anti-aritmik tedaviler tolere
+edilemediğinde veya kontrendike olduğunda kullanılmalıdır.
+Amiodaronun eş zamanlı kullanımının gerekli görülmesi halinde, eş zamanlı uygulamanın ilk
+48 saati boyunca hastaların yatarak tedavi koşullarında kardiyak izleme alınmaları önerilir;
+ardından, tedavinin en az ilk 2 haftası süresince olmak üzere, kalp atım hızı günlük olarak
+ayakta tedavi koşullarında veya kendi kendine takip yoluyla izlenmelidir.
+Amiodaronun yarı ömrünün uzun olması nedeniyle, son birkaç ay içinde amiodaronu bırakmış
+ve SOVALDI kullanmaya başlayacak olan hastalar için de yukarıda açıklanan şekilde kardiyak
+izlem yapılmalıdır..
+5Yakın zamanda veya eş zamanlı olarak amiodaron kullanan tüm hastalar, bradikardi ve kalp
+bloğunun semptomları açısından uyarılmalı ve bu tip belirtileri olduğu takdirde acil tıbbi
+yardım almaları gerektiği konusunda bilgilendirilmelidir.
+HCV/HBV (hepatit B virüsü) koenfeksiyonu
+Direkt etkili antiviral ajanlarla tedavi sırasında ya da sonrasında bazıları ölümcül olan Hepatit
+B virüsü (HBV) reaktivasyonu olguları bildirilmiştir. Tedaviye başlamadan önce tüm
+hastalarda HBV taraması yapılmalıdır. HBV/HCV koenfekte hastalar, HBV reaktivasyonu
+açısından risk altındadır ve bu nedenle mevcut klinik kılavuzlara uygun olarak izlenmeli ve
+yönetilmelidir.
+Tedavi görmüş HCV genotip 1, 4, 5 veya 6 enfeksiyonlu hastalar
+SOVALDI tedavi görmüş genotip 1, 4, 5 ve 6 enfeksiyonlu hastalarda yapılan bir Faz 3
+çalışmasında incelenmemiştir. Dolayısıyla bu popülasyonda optimum tedavi süresi
+belirlenmemiştir (ayrıca bkz. Bölüm 4.2. ve 5.1).
+Bu hastaların, özellikle geçmişte interferon tabanlı tedavilere düşük yanıt oranlarıyla
+ilişkilendirilen bir ya da daha fazla faktörün bulunduğu alt grupların (ilerlemiş fibroz/siroz,
+yüksek başlangıç viral konsantrasyonları, siyah ırk, IL28B CC harici genotip) sofosbuvir,
+peginterferon alfa ve ribavirin ile tedavi edilmesi ve tedavi süresinin 12 haftayı geçebileceği ve
+24 haftaya kadar potansiyel olarak uzatılabileceği dikkate alınmalıdır.
+HCV genotip 5 ya da 6 enfeksiyonu olan hastaların tedavisi
+HCV Genotip 5 ve 6 enfeksiyonu olan hastalarda SOVALDI kullanımını destekleyen klinik
+veriler çok sınırlıdır (bkz. Bölüm 5.1).
+HCV genotip 1, 4, 5 ve 6 enfeksiyonu için interferonsuz tedavi
+SOVALDI ile HCV genotip 1, 4, 5 ve 6 için interferonsuz rejimler Faz 3 çalışmalarda
+araştırılmamıştır (bkz. Bölüm 5.1). Optimum rejim ve tedavi süresi belirlenmemiştir. Bu
+rejimler sadece interferon tedavisi için uygun olmayan ya da intoleransı olan ve acil tedavi
+ihtiyacı duyan hastalarda kullanılmalıdır.
+HCV’ye karşı doğrudan etkili diğer antivirallerle birlikte uygulama
+SOVALDI ancak mevcut verilere göre faydasının risklere ağır bastığı değerlendirilirse diğer
+doğrudan etkili antiviral ajanlarla birlikte kullanılmalıdır. SOVALDI ve telaprevir ya da
+boseprevirin birlikte uygulanmasını destekleyen hiçbir veri yoktur. Böyle bir birlikte uygulama
+önerilmez (ayrıca bkz. Bölüm 4.5).
+Gebelik ve ribavirin ile eş zamanlı kullanım
+SOVALDI ribavirin veya peginterferon alfa/ribavirin ile kombinasyon halinde kullanıldığında
+çocuk doğurma potansiyeli olan kadınların ve erkek partnerlerinin tedavi sırasında ve
+tedaviden sonra bir süre için ribavirin Kısa Ürün Bilgisinde önerildiği şekilde etkili bir doğum
+kontrol yöntemi kullanmaları gerekir. Ek bilgi için ribavirin Kısa Ürün Bilgisine bakınız.
+Orta güçlü P-gp indükleyicilerle kullanım
+Bağırsakta orta güçlü P-gp indükleyici tıbbi ürünler (örn. modafinil, okskarbazepin ve
+rifapentin), sofosbuvirin plazma konsantrasyonlarını düşürerek SOVALDI’nin terapötik
+etkisinde azalmaya neden olabilir. Bu tür tıbbi ürünlerin SOVALDI ile birlikte kullanılması
+önerilmemektedir (bkz. Bölüm 4.5).
+6Diyabetik hastalarda kullanım
+Diyabetikler, HCV doğrudan etkili antiviral tedaviye başladıktan sonra potansiyel olarak
+semptomatik hipoglisemi ile sonuçlanan iyileşmiş glukoz kontrolü yaşayabilir. Doğrudan etkili
+antiviral tedavisine başlayan diyabetik hastaların glukoz düzeyleri, özellikle ilk 3 ayda ve
+diyabetik ilaçların değiştirilmesi gerektiğinde yakından izlenmelidir. Doğrudan etkili antiviral
+tedavisine başlandığında, hastanın diyabet tedavisinden sorumlu olan doktor
+bilgilendirilmelidir.
+Böbrek yetmezliği
+SOVALDI’nin hemodiyaliz gerektiren şiddetli böbrek yetmezliği (eGFR
+< 30 mL/dak/1,73 m2) olan ve SEBH’li hastalarda güvenlilik verileri sınırlıdır. SOVALDI bu
+hastalarda diğer ilgili tedavi seçenekleri bulunmuyorsa, doz ayarlaması yapılmadan
+kullanılabilir (bkz. Bölüm 4.8, 5.1 ve 5.2). SOVALDI ribavirin veya peginterferon
+alfa/ribavirin ile kombinasyon halinde kullanıldığında CrCl < 50 mL/dak olan hastalar için
+ayrıca ribavirin Kısa Ürün Bilgisine bakınız (ayrıca bkz. Bölüm 5.2).
+4.5. Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+Sofosbuvir, bir nükleotid ön ilaçtır. SOVALDI’nin oral uygulamasından sonra, sofosbuvir
+hızla absorbe edilir ve kapsamlı ilk geçişli hepatik ve bağırsak metabolizmasına tabi olur.
+Karboksilesteraz 1 gibi enzimlerle ve nükleotid kinazların katalize ettiği ardışık fosforilasyon
+adımlarıyla katalize olan hidrolitik ön ilaç yarılması, farmakolojik olarak etkin üridin
+nükleozid analog trifosfat oluşumuyla sonuçlanır. İlaçla ilgili materyal sistemik maruziyetinin
+% 90’ından fazlasını oluşturan dolaşımdaki baskın inaktif metabolit olan GS-331007, aktif
+metabolitin oluşumuna paralel ve ardışık yolaklar ile oluşmaktadır. Ana sofosbuvir, ilaçla ilgili
+materyal sistemik maruziyetinin yaklaşık % 4’ünü oluşturur (bkz. Bölüm 5.2). Klinik
+farmakoloji çalışmalarında hem sofosbuvir hem de GS-331007 farmakokinetik analiz amacıyla
+izlenmiştir.
+Sofosbuvir, ilaç taşıyıcı P-gp ve meme kanseri direnç proteininin (BCRP) substratıdır, ancak
+GS-331007 değildir.
+Bağırsakta güçlü P-gp indükleyicileri olan tıbbi ürünler (karbamazepin, fenobarbital, fenitoin,
+rifampisin ve sarı kantaron), sofosbuvir plazma konsantrasyonunu anlamlı bir şekilde
+düşürerek SOVALDI’nin terapötik etkisinde azalmaya neden olabilir, SOVALDI ile birlikte
+kullanılmamalıdır (bkz. Bölüm 4.3). Bağırsakta orta güçlü P-gp indükleyicileri olan tıbbi
+ürünler (örn. modafinil, okskarbazepin ve rifapentin), sofosbuvir plazma konsantrasyonunu
+düşürerek SOVALDI’nin terapötik etkisinde azalmaya neden olabilir. SOVALDI ile bu tür
+tıbbi ürünlerin birlikte uygulanması önerilmemektedir (bkz. Bölüm 4.4). SOVALDI’nin P-gp
+ve/veya BCRP’yi inhibe eden tıbbi ürünlerle birlikte uygulanması, GS-331007’nin plazma
+konsantrasyonunu yükseltmeden sofosbuvir plazma konsantrasyonunu artırabilir, buna bağlı
+olarak SOVALDI, P-gp ve/veya BCRP inhibitörleriyle birlikte uygulanabilir. Sofosbuvir ve
+GS-331007, P-gp ve BCRP’nin inhibitörleri değildir ve dolayısıyla bu taşıyıcıların substratları
+olan tıbbi ürünlerin maruziyetlerini artırmaları beklenmemektedir.
+Sofosbuvirin intrasellüler metabolik aktivasyon yolağına, eş zamanlı tıbbi ürünlerin
+etkilenmesi muhtemel olmayan, genellikle düşük afiniteli ve yüksek kapasiteli hidrolaz ve
+nükleotid fosforilasyon yolakları aracılık eder (bkz. Bölüm 5.2).
+Vitamin K antagonistleri ile tedavi edilen hastalar
+SOVALDI ile tedavi sırasında karaciğer fonksiyonu değişebileceğinden, Uluslararası
+Normalize Oran (INR) değerlerinin yakın takibi önerilir.
+7Karaciğerde metabolize olan ilaçlar üzerinde DAA tedavisinin etkisi
+Karaciğerde metabolize olan ilaçların farmakokinetiği (örneğin, kalsineurin inhibitörleri gibi
+immünosupresif ajanlar), HCV virüsünün temizlenmesiyle bağlantılı olarak DAA tedavisi
+süresince karaciğer fonksiyonlarındaki değişiklikten etkilenebilir.
+Diğer etkileşimler:
+SOVALDI’nin potansiyel eş zamanlı tıbbi ürünlerle birlikte kullanımı için ilaç etkileşim
+bilgileri, aşağıdaki Tablo 4’te özetlenmiştir (geometrik en küçük kareler ortalaması (GLSM)
+oranının % 90 güven aralığı (GA), önceden belirlenmiş eşdeğerlik sınırları dahilinde “↔”,
+üzerinde “↑” veya altındadır “↓”). Bu tablo geniş kapsamlı değildir.
+8Tablo 4: SOVALDI ve diğer tıbbi ürünler arasındaki etkileşimler
+İlaç düzeyleri üzerindeki
+etkileri.
+Terapötik alanlara göre
+tıbbi ürün
+EAA, Cmaks, Cmin SOVALDI ile birlikte uygulamaya ilişkin öneriler
+için Ortalama Oran
+(% 90 güven aralığı) a,b
+ANALEPTİKLER
+Modafinil Etkileşim araştırılmamıştır. SOVALDI’nin modafinil ile birlikte uygulanmasının
+Beklenen: sofosbuvir konsantrasyonunu düşürerek
+↓ Sofosbuvir SOVALDI’nin terapötik etkisini azaltması
+↔ GS-331007 beklenmektedir. Bu tür birlikte uygulama önerilmez.
+(P-gp’nin indüksiyonu)
+ANTİARİTMİKLER
+Amiodaron AMIODARON VE Amiodaronun sofosbuvir içeren bir rejimle birlikte
+SOFOSBUVIR uygulanması ciddi semptomatik bradikardi ile
+KONSANTRASYONLARI sonuçlanabilir.
+ÜZERINDEKI ETKISI Sadece başka bir alternatifi yoksa kullanılmalıdır. Bu
+BILINMEMEKTEDIR. tıbbi ürün SOVALDI ile birlikte uygulanırsa
+yakından izleme önerilmektedir (bkz. Bölüm 4.4 ve
+4.8).
+ANTİKOAGÜLANLAR
+Vitamin K Antagonistleri Etkileşim çalışılmamıştır. Tüm K vitamini antagonistleriyle INR’nin yakın
+takibi tavsiye edilmektedir. Bunun nedeni,
+SOVALDI ile tedavi sırasında karaciğer
+fonksiyonunda değişikliklerin meydana gelmesidir.
+ANTİKONVÜLSANLAR
+Fenobarbital Etkileşim araştırılmamıştır. SOVALDI, fenobarbital ve fenitoin ile birlikte
+Fenitoin Beklenen: kullanılmamalıdır (bkz. Bölüm 4.3).
+↓ Sofosbuvir
+↔ GS-331007
+(P-gp’nin indüksiyonu)
+Karbamazepin Sofosbuvir SOVALDI, karbamazepin ile birlikte
+↓ C 0,52 (0,43, 0,62) kullanılmamalıdır (bkz. Bölüm 4.3).
+maks
+↓ AUC 0,52 (0,46, 0,59)
+C (NA)
+min
+GS 331007
+↔ C 1,04 (0,97, 1,11)
+maks
+↔ AUC 0,99 (0,94, 1,04)
+C (NA)
+min
+(P-gp’nin indüksiyonu)
+Okskarbazepin Etkileşim araştırılmamıştır. SOVALDI’nin okskarbazepin ile birlikte
+Beklenen: uygulanmasının sofosbuvir konsantrasyonunu
+↓ Sofosbuvir düşürerek SOVALDI’nin terapötik etkisini azaltması
+↔ GS-331007 beklenmektedir. Bu tür birlikte uygulama önerilmez
+(bkz. Bölüm 4.4).
+(P-gp’nin indüksiyonu)
+ANTİMİKOBAKTERİYELLER
+9İlaç düzeyleri üzerindeki
+etkileri.
+Terapötik alanlara göre
+tıbbi ürün
+EAA, Cmaks, Cmin SOVALDI ile birlikte uygulamaya ilişkin öneriler
+için Ortalama Oran
+(% 90 güven aralığı) a,b
+Rifampisinf Sofosbuvir SOVALDI, rifampisin ile birlikte kontraendikedir
+(600 mg tek doz) ↓ C 0,23 (0,19 – 0,29) (bkz. Bölüm 4.3).
+maks
+↓ EAA 0,28 (0,24 – 0,32)
+C (NA)
+min
+GS-331007
+↔ C 1,23 (1,14 – 1,34)
+maks
+↔ EAA 0,95 (0,88 – 1,03)
+C (NA)
+min
+(P-gp’nin indüksiyonu)
+Rifabutin Sofosbuvir Rifabutin ile birlikte kullanıldığında SOVALDI için
+↓ C 0,64 (0,53, 0,77) doz ayarlaması gerekmez.
+maks
+↓ AUC 0,76 (0,3, 0,91)
+C (NA)
+min
+GS 331007
+↔ C 1,15 (1,03, 1,27)
+maks
+↔ AUC 1,03 (0,95, 1,12)
+C (NA)
+min
+(P-gp’nin indüksiyonu)
+Rifapentin Etkileşim araştırılmamıştır. SOVALDI’nin rifapentin ile birlikte uygulanmasının
+Beklenen: sofosbuvir konsantrasyonunu düşürerek
+↓ Sofosbuvir SOVALDI’nin terapötik etkisini azaltması
+↔ GS-331007 beklenmektedir. Bu tür birlikte uygulama önerilmez
+(bkz. Bölüm 4.4).
+(P-gp’nin indüksiyonu)
+BİTKİSEL TAKVİYELER
+Sarı kantaron Etkileşim araştırılmamıştır. SOVALDI, sarı kantaron ile birlikte
+Beklenen: kullanılmamalıdır (bkz. Bölüm 4.3).
+↓ Sofosbuvir
+↔ GS-331007
+(P-gp’nin indüksiyonu)
+HCV ANTİVİRAL AJANLARI: HCV PROTEAZ İNHİBİTÖRLERİ
+Boseprevir (BOC) Etkileşim araştırılmamıştır. SOVALDI'nin boseprevir veya telaprevir ile birlikte
+Telaprevir (TPV) Beklenen: uygulanmasına ilişkin olarak hiçbir ilaç-ilaç
+etkileşimi verisi yoktur.
+↑ Sofosbuvir (TPV)
+↔ Sofosbuvir (BOC)
+↔ GS-331007 (TPV veya
+BOC)
+10İlaç düzeyleri üzerindeki
+etkileri.
+Terapötik alanlara göre
+tıbbi ürün
+EAA, Cmaks, Cmin SOVALDI ile birlikte uygulamaya ilişkin öneriler
+için Ortalama Oran
+(% 90 güven aralığı) a,b
+NARKOTİK ANALJEZİKLER
+Metadonf R-metadon Sofosbuvir ile metadon eş zamanlı kullanıldığında
+(Metadon idame tedavisi (30 ↔ C 0,99 (0,85 – 1,16) sofosbuvir veya metadon için doz ayarlaması gerekli
+maks
+- 130 mg/günlük)) ↔ EAA 1,01 (0,85 – 1,21) değildir.
+↔ C 0,94 (0,77 – 1,14)
+min
+S-metadon
+↔ C 0,95 (0,79 – 1,13)
+maks
+↔ EAA 0,95 (0,77 – 1,17)
+↔ C 0,95 (0,74 – 1,22)
+min
+Sofosbuvir
+↓ C 0,95c (0,68 – 1,33)
+maks
+↑ EAA 1,30c (1,00 – 1,69)
+C (NA)
+min
+GS-331007
+↓ C 0,73c (0,65 – 0,83)
+maks
+↔ EAA 1,04c (0,89 – 1,22)
+C (NA)
+min
+İMMÜNOSÜPRESANLAR
+Siklosporine Siklosporin Birlikte uygulamasının başlangıcında sofosbuvir veya
+(600 mg tek doz) ↔ C 1,06 (0,94 – 1,18) siklosporin için doz ayarlaması gerekli değildir. Daha
+maks
+↔ EAA 0,98 (0,85 – 1,14) sonra yakından izleme ve muhtemelen siklosporin
+C (NA) için doz ayarlaması gerekebilir.
+min
+Sofosbuvir
+↑ C 2,54 (1,87 – 3,45)
+maks
+↑ EAA 4,53 (3,26 – 6,30)
+C (NA)
+min
+GS-331007
+↓ C 0,60 (0,53 – 0,69)
+maks
+↔ EAA 1,04 (0,90 – 1,20)
+C (NA)
+min
+Takrolimuse Takrolimus Birlikte uygulamasının başlangıcında sofosbuvir ile
+(5 mg tek doz) ↓ C 0,73 (0,59 – 0,90) takrolimus eş zamanlı kullanıldığında sofosbuvir veya
+maks
+↔ EAA 1,09 (0,84 – 1,40) takrolimus için doz ayarlaması gerekli değildir. Daha
+C (NA) sonra yakından izleme ve muhtemelen takrolimus için
+min
+doz ayarlaması gerekebilir.
+Sofosbuvir
+↓ C 0,97 (0,65 – 1,43)
+maks
+↑ EAA 1,13 (0,81 – 1,57)
+C (NA)
+min
+GS-331007
+↔ C 0,97 (0,83 – 1,14)
+maks
+↔ EAA 1,00 (0,87 – 1,13)
+C (NA)
+min
+HIV ANTİVİRAL AJANLARI: REVERS TRANSKRİPTAZ İNHİBİTÖRLERİ
+11İlaç düzeyleri üzerindeki
+etkileri.
+Terapötik alanlara göre
+tıbbi ürün
+EAA, Cmaks, Cmin SOVALDI ile birlikte uygulamaya ilişkin öneriler
+için Ortalama Oran
+(% 90 güven aralığı) a,b
+Efavirenzf Efavirenz Sofosbuvir ile efavirenz eş zamanlı kullanıldığında
+(Günde bir kez 600 mg)d ↔ C 0,95 (0,85 – 1,06) sofosbuvir veya efavirenz için doz ayarlaması gerekli
+maks
+↔ EAA 0,96 (0,91 – 1,03) değildir.
+↔ C 0,96 (0,93 – 0,98)
+min
+Sofosbuvir
+↓ C 0,81 (0,60 – 1,10)
+maks
+↔ EAA 0,94 (0,76 – 1,16)
+C (NA)
+min
+GS-331007
+↓ C 0,77 (0,70 – 0,84)
+maks
+↔ EAA 0,84 (0,76 – 0,92)
+C (NA)
+min
+Emtrisitabinf Emtrisitabin Sofosbuvir ile emtrisitabin eş zamanlı kullanıldığında
+(Günde bir kez 200 mg)d ↔ C 0,97 (0,88 – 1,07) sofosbuvir veya emtrisitabin için doz ayarlaması
+maks
+↔ EAA 0,99 (0,94 – 1,05) gerekli değildir.
+↔ C 1,04 (0,98 – 1,11)
+min
+Sofosbuvir
+↓ C 0,81 (0,60 – 1,10)
+maks
+↔ EAA 0,94 (0,76 – 1,16)
+C (NA)
+min
+GS-331007
+↓ C 0,77 (0,70 – 0,84)
+maks
+↔ EAA 0,84 (0,76 – 0,92)
+C (NA)
+min
+Tenofovir disoproksilf Tenofovir Sofosbuvir ile tenofovir disoproksil eş zamanlı
+(Günde bir kez 245 mg)d ↑ C 1,25 (1,08 – 1,45) kullanıldığında sofosbuvir veya tenofovir disoproksil
+maks
+↔ EAA 0,98 (0,91 – 1,05) için doz ayarlaması gerekli değildir.
+↔ C 0,99 (0,91 – 1,07)
+min
+Sofosbuvir
+↓ C 0,81 (0,60 – 1,10)
+maks
+↔ EAA 0,94 (0,76 – 1,16)
+C (NA)
+min
+GS-331007
+↓ C 0,77 (0,70 – 0,84)
+maks
+↔ EAA 0,84 (0,76 – 0,92)
+C (NA)
+min
+12İlaç düzeyleri üzerindeki
+etkileri.
+Terapötik alanlara göre
+tıbbi ürün
+EAA, Cmaks, Cmin SOVALDI ile birlikte uygulamaya ilişkin öneriler
+için Ortalama Oran
+(% 90 güven aralığı) a,b
+Rilpivirinf Rilpivirin Sofosbuvir ile rilpivirin eş zamanlı kullanıldığında
+(günde bir kez 25 mg) ↔ C 1,05 (0,97 – 1,15) sofosbuvir veya rilpivirin için doz ayarlaması gerekli
+maks
+↔ EAA 1,06 (1,02 – 1,09) değildir.
+↔ C 0,99 (0,94 – 1,04)
+min
+Sofosbuvir
+↑ C 1,21 (0,90 – 1,62)
+maks
+↔ EAA 1,09 (0,94 – 1,27)
+C (NA)
+min
+GS-331007
+↔ C 1,06 (0,99 – 1,14)
+maks
+↔ EAA 1,01 (0,97 – 1,04)
+C (NA)
+min
+HIV ANTİVİRAL AJANLARI: HIV PROTEAZ İNHİBİTÖRLERİ
+Ritonavir takviyeli Darunavir Sofosbuvir ile darunavir eş zamanlı kullanıldığında
+darunavirf ↔ C 0,97 (0,94 – 1,01) sofosbuvir veya darunavir (ritonavir takviyeli) için
+maks
+(günde bir kez 800/100 mg) ↔ EAA 0,97 (0,94 – 1,00) doz ayarlaması gerekli değildir.
+↔ C 0,86 (0,78 – 0,96)
+min
+Sofosbuvir
+↑ C 1,45 (1,10 – 1,92)
+maks
+↑ EAA 1,34 (1,12 – 1,59)
+C (NA)
+min
+GS-331007
+↔ C 0,97 (0,90 – 1,05)
+maks
+↔ EAA 1,24 (1,18 – 1,30)
+C (NA)
+min
+HIV ANTİVİRAL AJANLARI: İNTEGRAZ İNHİBİTÖRLERİ
+Raltegravirf Raltegravir Sofosbuvir ile raltegravir eş zamanlı kullanıldığında
+(günde iki kez 400 mg) ↓ C 0,57 (0,44 – 0,75) sofosbuvir veya raltegravir için doz ayarlaması
+maks
+↓ EAA 0,73 (0,59 – 0,91) gerekli değildir.
+↔ C 0,95 (0,81 – 1,12)
+min
+Sofosbuvir
+↔ C 0,87 (0,71 – 1,08)
+maks
+↔ EAA 0,95 (0,82 – 1,09)
+C (NA)
+min
+GS-331007
+↔ C 1,09 (0,99 – 1,20)
+maks
+↔ EAA 1,03 (0,97 – 1,08)
+C (NA)
+min
+ORAL KONTRASEPTİFLER
+13İlaç düzeyleri üzerindeki
+etkileri.
+Terapötik alanlara göre
+tıbbi ürün
+EAA, Cmaks, Cmin SOVALDI ile birlikte uygulamaya ilişkin öneriler
+için Ortalama Oran
+(% 90 güven aralığı) a,b
+Norgestimat/etinil estradiol Norgestromin Sofosbuvir ile norgestimat/etinil estradiol eş zamanlı
+↔ C 1,06 (0,93 – 1,22) kullanıldığında norgestimat/ etinil estradiol için doz
+maks
+↔ EAA 1,05 (0,92 – 1,20) ayarlaması gerekli değildir.
+C (NA)
+min
+Norgestrel
+↔ C 1,18 (0,99 – 1,41)
+maks
+↔ EAA 1,19 (0,98 – 1,44)
+C (NA)
+min
+Etinil estradiol
+↔ C 1,14 (0,96 – 1,36)
+maks
+↔ EAA 1,08 (0,93 – 1,25)
+C (NA)
+min
+NA = yok/uygulanamaz
+a. Birlikte uygulanan ilaç farmakokinetiğinin sofosbuvir ile/sofosbuvir olmadan ortalama oranı (% 90 CI) ve
+sofosbuvir ile GS-331007’nin birlikte uygulanan ilaçla birlikte/birlikte uygulanan ilaç olmadan ortalama oranı.
+Etki yok = 1
+b. Tüm etkileşim çalışmaları sağlıklı gönüllüler üzerinde gerçekleştirilmiştir
+c. Karşılaştırma, geçmiş kontrole dayanmaktadır
+d. Atripla olarak uygulanır
+e. Biyoeşdeğerlik sınırı % 80-% 125
+f. Eşdeğerlik sınırı % 70-% 143
+Özel popülasyonlara ilişkin ek bilgiler:
+Özel popülasyonlarda ilaç etkileşimlerine ilişkin ek bilgi konusunda veri bulunmamaktadır.
+Pediyatrik popülasyon:
+12 yaşın altındaki pediyatrik hastalarda ilaç etkileşimlerine ilişkin ek bilgi konusunda veri
+bulunmamaktadır.
+4.6. Gebelik ve laktasyon
+Genel tavsiye
+Gebelik kategorisi: B
+PEG ve/veya ribavirin ile kombinasyon halinde kullanıldığında gebelik kategorisi: X
+Çocuk doğurma potansiyeli olan kadınlar/Doğum kontrolü (Kontrasepsiyon)
+Ribavirin veya peginterferon alfa/ribavirin ile kombinasyon halinde SOVALDI
+kullanıldığında, kadın hastalarda ve erkek hastaların kadın partnerlerinde gebelikten kaçınmak
+için azami özen gösterilmelidir. Ribavirine maruz bırakılan tüm hayvan türlerinde önemli
+teratojenik ve/veya embriyosidal etkiler görülmüştür (bkz. Bölüm 4.4). Çocuk doğurma
+potansiyeli olan kadınların ve erkek partnerlerinin tedavi sırasında ve tedavinin
+sonlandırılmasının ardından bir süre için ribavirin Kısa Ürün Bilgisinde önerildiği şekilde etkili
+bir doğum kontrol yöntemi kullanmaları gerekir. Ek bilgi için ribavirin Kısa Ürün Bilgisine
+bakınız.
+Gebelik dönemi
+Sofosbuvirin gebelerde kullanımına ilişkin veri yoktur veya sınırlı miktarda (300’den az
+gebelik sonucu) veri vardır.
+14Hayvanlar üzerinde yapılan çalışmalar, üreme toksisitesi ile ilgili olarak doğrudan ya da dolaylı
+zararlı etkiler olduğunu göstermemektedir.Sıçanlarda ve tavşanlarda test edilen en yüksek
+dozlarda fetal gelişim üzerinde hiçbir etki gözlemlenmemiştir. Ancak, önerilen klinik dozda
+insanlardaki maruziyete göre sıçanlarda sofosbuvir için elde edilen maruziyet marjlarını tam
+olarak tahmin etmek mümkün olmamıştır (bkz. Bölüm 5.3).
+Önleyici bir tedbir olarak, gebelik sırasında SOVALDI kullanımından kaçınılması tercih edilir.
+Ancak sofosbuvir ile birlikte ribavirin uygulanırsa, gebelik sırasında ribavirin kullanımıyla
+ilgili kontrendikasyonlar geçerlidir (ayrıca bkz. ribavirin Kısa Ürün Bilgisi).
+Laktasyon dönemi
+Sofosbuvir ve metabolitlerinin insan sütüne geçip geçmediği bilinmemektedir.
+Hayvanlarda mevcut farmakokinetik veriler, dolaşımdaki başlıca metabolitlerin süte geçtiğini
+göstermiştir (ayrıntılar için bkz. Bölüm 5.3).
+Yenidoğanlar/bebekler üzerindeki risk göz ardı edilemez. Bu yüzden, SOVALDI emzirme
+sırasında kullanılmamalıdır.
+Üreme yeteneği/Fertilite
+SOVALDI’nin fertilite üzerindeki etkisine ilişkin insan verileri bulunmamaktadır. Hayvan
+çalışmaları, fertilite üzerinde zararlı etkileri olduğunu göstermemektedir.
+4.7. Araç ve makine kullanımı üzerindeki etkiler
+SOVALDI araç ve makine kullanma yetisi üzerinde orta düzeyde etkilidir. Hastalar;
+peginterferon alfa ve ribavirin ile kombinasyon halinde sofosbuvir tedavisi sırasında
+yorgunluk, dikkat bozukluğu, baş dönmesi ve bulanık görmenin rapor edildiği konusunda
+bilgilendirilmelidir (bkz. Bölüm 4.8).
+4.8. İstenmeyen etkiler
+Yetişkinlerde güvenlilik profilinin özeti
+Advers reaksiyonların değerlendirilmesi, beş Faz 3 klinik çalışmadan (kontrollü ve kontrolsüz)
+elde edilen havuzlanmış verileri temel alır.
+SOVALDI peginterferon ile veya peginterferon olmadan, ribavirin ile kombinasyon halinde
+incelenmiştir. Bu bağlamda sofosbuvire özgü advers ilaç reaksiyonları tanımlanmamıştır.
+Sofosbuvir ve ribavirin veya sofosbuvir, ribavirin ve peginterferon alfa alan hastalarda
+meydana gelen en yaygın advers ilaç reaksiyonları yorgunluk, baş ağrısı, bulantı ve
+uykusuzluktur.
+Advers reaksiyonların tablo halindeki özeti
+Ribavirinle veya peginterferon alfa ve ribavirinle kombinasyon halinde sofosbuvir ile ilgili
+olarak aşağıdaki advers ilaç reaksiyonları tanımlanmıştır (Tablo 5). Advers reaksiyonlar vücut
+sistem organ sınıfı ve sıklığa göre aşağıda listelenmektedir. Sıklıklar aşağıdaki gibi
+tanımlanmaktadır: çok yaygın (≥ 1/10), yaygın (≥ 1/100 ila < 1/10), yaygın olmayan (> 1/1.000
+ila < 1/100), seyrek (> 1/10.000 ila < 1/1.000), çok seyrek (< 1/10.000), bilinmiyor (eldeki
+verilerden hareketle tahmin edilemiyor).
+15Tablo 5: Ribavirinle veya peginterferon alfa ve ribavirinle kombinasyon halinde
+sofosbuvir ile ilgili olarak tanımlanan advers ilaç reaksiyonları
+Sıklık SOFa + RBVb SOF + PEGc + RBV
+Enfeksiyonlar ve enfestasyonlar:
+Yaygın nazofarenjit
+Kan ve lenf sistemi hastalıkları:
+anemi, nötropeni, lenfosit sayımında
+Çok yaygın hemoglobinde düşüş
+düşüş, trombosit sayımında düşüş
+Yaygın anemi
+Metabolizma ve beslenme hastalıkları:
+Çok yaygın iştahta azalma
+Yaygın kilo kaybı
+Psikiyatrik hastalıklar:
+Çok yaygın uykusuzluk uykusuzluk
+Yaygın depresyon depresyon, anksiyete, ajitasyon
+Sinir sistemi hastalıkları:
+Çok yaygın baş ağrısı baş dönmesi, baş ağrısı
+migren, bellek zayıflığı, dikkat
+Yaygın dikkat bozukluğu
+bozukluğu
+Göz hastalıkları:
+Yaygın bulanık görme
+Solunum, göğüs hastalıkları ve mediastinal hastalıklar:
+Çok yaygın dispne, öksürük
+Yaygın dispne, efor dispnesi, öksürük efor dispnesi
+Gastrointestinal hastalıklar:
+Çok yaygın bulantı ishal, bulantı, kusma
+karında rahatsızlık, kabızlık, kabızlık, ağız kuruluğu,
+Yaygın
+dispepsi gastroözofageal reflü
+Hepatobiliyer hastalıklar:
+Çok yaygın kan bilirubininde artış kan bilirubininde artış
+Deri ve deri altı doku hastalıkları:
+Çok yaygın döküntü, pruritus
+Yaygın alopesi, kuru cilt, pruritus alopesi, kuru cilt
+Kas iskelet bozuklukları, bağ doku ve kemik hastalıkları:
+Çok yaygın artralji, miyalji
+artralji, sırt ağrısı, kas spazmları,
+Yaygın sırt ağrısı, kas spazmları
+miyalji
+Genel bozukluklar ve uygulama bölgesine ilişkin hastalıklar:
+ürperme, yorgunluk, grip benzeri
+Çok yaygın yorgunluk, sinirlilik
+hastalık, sinirlilik, ağrı, pireksi
+Yaygın pireksi, asteni göğüs ağrısı, asteni
+a. SOF = sofosbuvir; b. RBV = ribavirin; c. PEG = peginterferon alfa.
+Seçilen advers reaksiyonların tanımlanması
+Kardiyak aritmiler
+Sofosbuvir içeren tedavi rejimleri, kalp hızını düşüren başka tıbbi ürünlerle ve/veya amiodaron
+ile kombinasyon halinde kullanıldığında, şiddetli bradikardi ve kalp bloğu vakaları
+gözlemlenmiştir (bakınız Bölüm 4.4 ve 4.5).
+Deri Hastalıkları
+Sıklık bilinmiyor: Stevens-Johnson sendromu
+16Özel popülasyonlara ilişkin ek bilgiler
+HIV/HCV koenfeksiyonu
+HCV/HIV koenfeksiyonlu yetişkin hastalarda sofosbuvir ve ribavirinin güvenlilik profili, Faz 3
+klinik çalışmalarda sofosbuvir ve ribavirin ile tedavi edilen monoenfekte HCV’li hastalarda
+gözlemlenenle benzer niteliktedir (bkz. Bölüm 5.1).
+Karaciğer transplantasyonu bekleyen hastalar
+HCV enfeksiyonlu hastalarda karaciğer transplantasyonundan önce sofosbuvir ve ribavirinin
+güvenlilik profili, Faz 3 klinik çalışmalarda sofosbuvir ve ribavirin ile tedavi edilen hastalarda
+gözlemlenenle benzer niteliktedir (bkz. Bölüm 5.1).
+Böbrek yetmezliği olan hastalar
+Ledipasvir ile sabit doz kombinasyonunda sofosbuvir, açık etiketli bir çalışmada şiddetli
+böbrek yetmezliği ve genotip 1 KHC’li 18 hastaya 12 hafta uygulanmıştır (Çalışma 0154).
+Ledipasvir veya velpatasvir ile sabit doz kombinasyonunda sofosbuvirin güvenliliği diyaliz
+gerektiren SEBH'li 154 hastada çalışılmıştır (Çalışma 4062 ve Çalışma 4063). Bu durumda,
+sofosbuvir metaboliti GS-331007 maruziyeti, klinik öncesi çalışmalarda gözlemlenen advers
+reaksiyonların düzeyini geçmiş, 20 kat artmıştır. Bu sınırlı klinik güvenlilik veri serisinde, yan
+etki oranı ve ölümler, SEBH hastalarında beklenilenden açıkça daha fazla yükselmemiştir.
+Karaciğer transplantasyonu yapılan yetişkinler
+Kronik hepatit C olan karaciğer transplantasyonu yapılan yetişkinlerde sofosbuvir ve
+ribavirinin güvenlilik profili, Faz 3 klinik çalışmalarda sofosbuvir ve ribavirin ile tedavi edilen
+hastalarda gözlemlenenle benzer niteliktedir (bkz. Bölüm 5.1). Çalışma 0126’da, tedavi
+süresince hemoglobindeki düşüş, hemoglobinde < 10 g/dL’ye kadar düşüş yaşanma oranı
+% 32,5 (13/40 hasta) ile çok yaygındır; bunlardan 1’inde < 8,5 g/dL’ye kadar düşüş olmuştur. 8
+hasta (% 20) epoetin ve/veya bir kan ürünü almıştır. 5 hastada (% 12,5) advers olay nedeniyle
+çalışma ilacı erken bırakılmış, değiştirilmiş veya kesilmiştir.
+Pediyatrik popülasyon
+SOVALDI’nin12 yaşından 18 yaşına kadar olan adölesanlarda güvenliliği ve etkililiği, açık
+etiketli bir Faz 2 klinik çalışmasında 12 hafta (genotip 2 hastalar) SOVALDI ve ribavirin ve 24
+hafta süreyle (genotip 3 hastaları) SOVALDI ile tedavi edilen 52 hastadan elde edilen verilere
+dayanmaktadır. Gözlenen advers reaksiyonlar, yetişkinlerin yer aldığı SOVALDI ve ribavirin
+klinik çalışmalarında gözlenenler ile tutarlı bulunmuştur (bakınız Tablo 5).
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporların yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir (www.titck.gov.tr; e-
+posta:tufam@titck.gov.tr; tel: 0800 314 00 08; faks: 0 312 218 35 99).
+4.9. Doz aşımı ve tedavisi
+Sofosbuvirin belgelenen en yüksek dozu, 59 sağlıklı gönüllüye uygulanan tek bir
+supraterapötik sofosbuvir 1.200 mg dozudur. Söz konusu çalışmada bu doz düzeyinde olumsuz
+bir etki gözlenmemiştir ve advers reaksiyonlar, sıklık ve şiddet açısından plasebo ve sofosbuvir
+400 mg tedavi gruplarında raporlananlara benzer niteliktedir. Daha yüksek dozların etkileri
+bilinmemektedir.
+17SOVALDI’nin doz aşımı için belirli bir antidot bulunmamaktadır. Doz aşımı meydana gelirse,
+toksisite kanıtı için hastanın izlenmesi gerekir. SOVALDI ile doz aşımı tedavisi, hastanın
+klinik durumunun gözlenmesinin yanı sıra yaşamsal bulguların izlenmesini de içeren genel
+destekleyici önlemlerden oluşmaktadır. Hemodiyaliz, dolaşımdaki baskın metabolit olan
+GS-331007’yi etkili bir şekilde ortadan kaldırabilir (% 53’lük bir ekstraksiyon oranıyla).
+4 saatlik hemodiyaliz seansı, uygulanan dozun % 18'ini ortadan kaldırmıştır.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1. Farmakodinamik özellikler
+Farmakoterapötik grup: Sistemik kullanılan antiviraller, direkt etkili antiviral, Hepatit C (HCV)
+enfeksiyonlarının tedavisinde kullanılan antiviraller
+ATC kodu: J05AP08
+Etki mekanizması
+Sofosbuvir, viral replikasyon için vazgeçilmez olan HCV NS5B RNA’ya bağımlı RNA
+polimerazının pangenotipik bir inhibitörüdür. Sofosbuvir, intrasellüler metabolizmaya
+uğrayarak HCV RNA, NS5B polimerazı tarafından birleştirilebilen ve zincir sonlandırıcısı
+görevi gören, farmakolojik olarak aktif trifosfat üridin analoğunu (GS-461203) oluşturan bir
+nükleotid ön ilaçtır. Biyokimyasal miktar tayininde, 0,7 ila 2,6 mikroM aralığında % 50
+inhibitör konsantrasyon (IC ) değeriyle HCV 1b, 2a, 3a ve 4a genotipinden rekombinant
+50
+NS5B’nin polimeraz aktivitesi GS-461203 tarafından inhibe edilmiştir. GS-461203
+(sofosbuvirin etkin metaboliti) insan DNA ve RNA polimerazlarının inhibitörü veya
+mitokondriyal RNA polimeraz inhibitörü değildir.
+Antiviral aktivite
+HCV replikon miktar tayinlerinde, sofosbuvirin 1a, 1b, 2a, 3a ve 4a genotipinden tam
+uzunluktaki replikonlara göre etkili konsantrasyon (EC ) sırasıyla 0,04, 0,11, 0,05, 0,05 ve
+50
+0,04 mikroM ve 2b, 5a veya 6a genotipinden NS5B’yi kodlayan kimerik 1b replikonlarına göre
+etkili konsantrasyon (EC ) değerleri 0,014 ila 0,11 mikroM aralığında yer almıştır. Klinik
+50
+izolatlardan NS5B dizilerini kodlayan kimerik replikonlara göre sofosbuvir ortalama ± SD
+EC değeri genotip 1a için 0,068 ± 0,024 mikroM (n = 67), genotip 1b için
+50
+0,11 ± 0,029 mikroM (n = 29), genotip 2 için 0,035 ± 0,018 mikroM (n = 15) ve genotip 3a için
+0,085 ± 0,034 mikroM’dir (n = 106). Bu miktar tayinlerinde, sofosbuvirin daha az yaygın olan
+genotip 4, 5 ve 6'ya karşı in vitro antiviral aktivitesi, genotip 1, 2 ve 3 için gözlemlenen ile
+benzer olmuştur.
+% 40 insan serumunun varlığının sofosbuvirin anti-HCV aktivitesi üzerinde herhangi bir etkisi
+olmamıştır.
+Direnç
+Hücre kültüründe
+Hücre kültüründe, 1b, 2a, 2b, 3a, 4a, 5a ve 6a da dahil olmak üzere çok sayıda genotip için,
+sofosbuvire karşı duyarlılığı düşük HCV replikonları seçilmiştir. Sofosbuvire karşı düşük
+duyarlılık, incelenen tüm replikon genotiplerinde birincil NS5B substitüsyonu S282T ile
+ilişkilendirilmiştir. 8 genotipin replikonunda S282T substitüsyonunun bölge hedefli
+mutajenezi, sofosbuvire 2 ila 18 kat düşük duyarlılık sergilemiş ve replikasyonun viral
+kapasitesini, ilgili doğal türe kıyasla % 89 ila % 99 azaltmıştır. Biyokimyasal miktar
+tayinlerinde, S282T substitüsyonunu eksprese eden 1b, 2a, 3a ve 4a genotiplerinden elde edilen
+rekombinant NS5B polimerazı, ilgili doğal türlere kıyasla GS-461203’e karşı düşük duyarlılık
+sergilemiştir.
+18Klinik çalışmalarda - Yetişkinler
+Faz 3 çalışmalarda sofosbuvir alan 991 hastanın havuzlanmış analizinde, 226 hasta virolojik
+başarısızlık veya çalışma ilacının erken bırakılması ve HCV RNA değerlerinin > 1000 IU/ml
+olması nedeniyle, direnç analizi için uygun bulunmuştur. 226 hastadan 225’inde başlangıç
+sonrası NS5B dizileri bulunurken bu hastalardan 221’inde derin dizileme verileri (miktar tayini
+eşiği % 1) bulunmuştur. Bu hastaların hiç birinde derin dizileme veya popülasyon dizilemesi
+yoluyla, sofosbuvirle ilişkili direnç substitüsyon S282T saptanmamıştır. NS5B'de S282T
+sübstitüsyonu, bir Faz 2 çalışmada SOVALDI monoterapisi alan tek bir gönüllüde
+saptanmıştır. Bu gönüllü, başlangıçta < % 1 S282T barındırmış ve tedaviden 4 hafta sonra
+S282T (> % 99) geliştirmiştir. Bu da sofosbuvir EC değerinde 13,5 kat değişikliğe neden
+50
+olmuş ve viral replikasyon kapasitesini azaltmıştır. S282T sübstitüsyonu, sonraki 8 haftada
+doğal tipe dönmüş ve tedaviden 12 hafta sonra artık derin dizilemeyle saptanamaz olmuştur.
+Faz 3 klinik çalışmalarda çoklu genotip 3 HCV ile enfekte olmuş hastalardan alınan tedavi
+sonrası nüks numunelerinde iki NS5B substitüsyonu olan L159F ve V321A saptanmıştır. Bu
+substitüsyonların olduğu gönüllü izolatlarının sofosbuvir veya ribavirine fenotipik
+duyarlılığında hiçbir kayma saptanmamıştır. Ayrıca, kısmi tedavi yanıtı veren bir transplant
+öncesi gönüllüde derin dizilemeyle tedavi sırasında S282R ve L320F substitüsyonları
+saptanmıştır. Bu bulguların klinik önemi bilinmemektedir.
+Başlangıç HCV polimorfizmlerinin tedavi sonucu üzerindeki etkisi
+Yetişkin popülasyon
+Faz 3 çalışmalardaki 1292 hasta için popülasyon dizilemesi yoluyla başlangıç NS5B dizileri
+elde edilmiştir ve başlangıç dizisi mevcut olan hiçbir gönüllüde S282T substitüsyonu
+saptanmamıştır. Başlangıç polimorfizmlerinin tedavi sonucu üzerindeki etkisinin
+değerlendirildiği bir analizde, başlangıçta herhangi bir HCV NS5B varyantının varlığı ile
+tedavi sonucu arasında istatistiksel olarak anlamlı bir ilişki gözlenmemiştir.
+Pediyatrik popülasyon
+Başlangıç NS5B sekansı Faz 2 çalışmasında 47 hastada elde edilmiştir. Bunlar arasında bir
+hastanın NS5B RAV substitüsyonu (F289L) olduğu bulunmuştur. Bu hasta KVY12’ye
+ulaşmıştır.
+Çapraz direnç
+Sofosbuvirle ilişkili direnç substitüsyonu S282T’yi eksprese eden HCV replikonları diğer anti-
+HCV ajanı sınıflarına tam olarak duyarlıdır. Sofosbuvir, diğer nükleozid inhibitörlerine
+dirençle ilişkili NS5B substitüsyonları L159F ve L320F’ye karşı aktivitesini korumuştur.
+Sofosbuvir, NS5B non-nükleozid inhibitörleri, NS3 proteaz inhibitörleri ve NS5A inhibitörleri
+gibi farklı etki mekanizmalarına sahip doğrudan etkili diğer antivirallere karşı direnç ile ilişkili
+substitüsyonlara karşı tam olarak aktiftir.
+Klinik etkililik ve güvenlilik
+Sofosbuvir’in etkililiği, genotip 1 ila 6 kronik hepatit C’si olan toplam 1.568 yetişkin hastada
+yapılan beş Faz 3 çalışmada değerlendirilmiştir. Bir çalışma daha önce tedavi görmemiş
+genotip 1, 4, 5 veya 6 kronik hepatit C hastalarında peginterferon alfa 2a ve ribavirin ile
+kombinasyon halinde yürütülmüş, diğer dört çalışma ise, biri tedavi görmemiş hastalarda, biri
+interferon intoleransı olan, uygun olmayan veya katılmak istemeyen hastalarda, biri ise daha
+önce interferon temelli bir rejimle tedavi görmüş hastalarda ve biri tedavi öncesi geçmişe ya da
+interferon alma yetisine bakılmaksızın tüm hastalarda olmak üzere, genotip 2 veya 3 kronik
+hepatit C’li hastalarda ribavirin ile kombinasyon halinde yürütülmüştür. Bu çalışmalara katılan
+hastaların siroz dahil olmak üzere kompanse karaciğer hastalıkları vardır. Sofosbuvir, günde
+bir kez 400 mg dozuyla uygulanmıştır. Ribavirin dozu vücut ağırlığına dayalı olarak iki
+bölünmüş doz halinde günde 1.000-1.200 mg şeklinde uygulanmış ve peginterferon alfa 2a
+19dozu, uygun olan hallerde, haftada 180 microgram olarak belirlenmiştir. Tedavi süresi her
+çalışmada sabittir ve hastaların HCV RNA düzeylerine göre belirlenmemiştir (yanıta dayalı
+algoritma yoktur).
+Plazma HCV RNA değerleri, High Pure System ile kullanıma yönelik COBAS TaqMan HCV
+testinin (versiyon 2.0) kullanıldığı klinik çalışmalarda ölçülmüştür. Miktar tayininin ölçüm alt
+limiti (LLOQ) 25 IU/mL’dir. Tüm çalışmalar için HCV tedavi oranını belirlemek üzere birincil
+sonlanım noktası kalıcı virolojik yanıttır (KVY) ve tedavi sona erdikten 12 hafta sonra
+LLOQ’nin altında HCV RNA olarak tanımlanmıştır (KVY12).
+Genotip 1, 4, 5 ve 6 kronik hepatit C’li hastalarda yapılan klinik çalışmalar
+Daha önce tedavi görmemiş yetişkin hastalar - NEUTRINO (çalışma 110)
+NEUTRINO, HCV genotip 1, 4, 5 veya 6 enfeksiyonu olan, daha önce tedavi görmemiş
+hastalarda peginterferon alfa 2a ve ribavirin ile kombinasyon halinde sofosbuvir ile yapılan 12
+haftalık tedavinin değerlendirildiği açık etiketli, tek kollu bir çalışmadır.
+Tedavi edilen hastaların (n = 327) medyan yaşı 54’tür (aralık: 19 ila 70); hastaların % 64’ü
+erkektir; % 79’u beyaz, % 17’si siyah; % 14’ü Hispanik veya Latin’dir; ortalama vücut kitle
+endeksi 29 kg/m2’dir (aralık: 18 ila 56 kg/m2); % 78’inin başlangıç HCV RNA düzeyi
+6 log IU/mL’nin üzerindedir; % 17’sinde siroz, % 89’unda HCV genotip 1 ve % 11’inde
+10
+HCV genotip 4, 5 veya 6 vardır. Tablo 6’da, sofosbuvir + peginterferon alfa + ribavirin tedavi
+grubu için yanıt oranları sunulmaktadır.
+Tablo 6: NEUTRINO çalışmasındaki yanıt oranları
+SOF+PEG+RBV
+12 hafta
+(n = 327)
+Genel KVY12 % 91 (296/327)
+KVY12 görülmeyen hastalarda sonuç
+Tedavi sırasında virolojik 0/327
+başarısızlık
+Nüksa % 9 (28/326)
+Diğerb % 1 (3/327)
+a. Nüks paydası, tedavi sırasındaki son değerlendirmelerinde HCV RNA düzeyi < LLOQ olan hastaların sayısıdır.
+b. Diğer tanımı, KVY12 elde edemeyen ve virolojik başarısızlık kriterlerini karşılamayan hastaları (örn. takip
+edilemeyen) içerir.
+Seçili alt gruplar için yanıt oranları Tablo 7’de sunulmuştur.
+Tablo 7: NEUTRINO’da seçili alt gruplar için KVY12 oranları
+SOF+PEG+RBV
+12 hafta
+(n = 327)
+Genotip
+Genotip 1 % 90 (262/292)
+Genotip 4, 5 veya 6 % 97 (34/35)
+Siroz
+Hayır % 93 (253/273)
+Evet % 80 (43/54)
+Irk
+Siyah % 87 (47/54)
+Siyah olmayan % 91 (249/273)
+KVY12 oranları, başlangıç IL28B C/C aleli [94/95 (% 99)] ve non-C/C (C/T veya T/T) aleli
+[202/232 (% 87)] olan hastalarda benzer derecede yüksektir.
+20HCV genotip 4'lü 27/28 hastada KVY12 elde edilmiştir. Bu çalışmada, HCV genotip 5
+enfeksiyonlu tek bir gönüllüde ve genotip 6’lı 6 hastanın hepsinde KVY12 elde edilmiştir.
+Genotip 2 ve 3 kronik hepatit C’li hastalarda yapılan klinik çalışmalar
+Daha önce tedavi görmemiş yetişkinler - FISSION (çalışma 1231)
+FISSION, daha önce tedavi görmemiş HCV genotip 2 veya 3 enfeksiyonlu hastalarda
+peginterferon alfa 2a ve ribavirin ile 24 haftalık tedaviye kıyasla sofosbuvir ve ribavirin ile
+12 haftalık tedavinin karşılaştırıldığı randomize, açık etiketli, aktif kontrollü bir çalışmadır.
+Sofosbuvir + ribavirin ve peginterferon alfa 2a + ribavirin kollarında kullanılan ribavirin
+dozları, sırasıyla vücut ağırlığına dayalı olarak 1000-1200 mg/gün ve vücut ağırlığından
+bağımsız olarak 800 mg/gündür. Hastalar 1:1 oranında randomize edilmiş ve siroz (varlığı veya
+yokluğu), HCV genotipi (2 veya 3) ve başlangıç HCV RNA düzeyine (< 6 log IU/mL’ye
+10
+karşı ≥ 6 log IU/mL) göre tabakalandırılmıştır. Genotip 2 veya 3 HCV’li hastalar yaklaşık 1:3
+10
+oranında kaydedilmiştir.
+Tedavi edilen hastaların (n = 499) medyan yaşı 50’dir (aralık: 19 ila 77); hastaların % 66’sı
+erkektir; % 87’si beyaz, % 3’ü siyah; % 14’ü Hispanik veya Latin’dir; ortalama vücut kitle
+endeksi 28 kg/m2’dir (aralık: 17 ila 52 kg/m2); % 57’sinin başlangıç HCV RNA düzeyleri
+6 log IU/mL’nin üzerindedir; % 20’sinde siroz, % 72’sinde HCV genotip 3 vardır.
+10
+Tablo 8’da, sofosbuvir + ribavirin ve peginterferon alfa + ribavirin tedavi grupları için yanıt
+oranları sunulmaktadır.
+Tablo 8: FISSION çalışmasındaki yanıt oranları
+SOF+RBV PEG+RBV
+12 hafta 24 hafta
+(n = 256)a (n = 243)a
+Genel KVY12 % 67 (171/256) % 67 (162/243)
+Genotip 2 % 95 (69/73) % 78 (52/67)
+Genotip 3 % 56 (102/183) % 63 (110/176)
+KVY12 görülmeyen hastalarda sonuç
+Tedavi sırasında virolojik başarısızlık < % 1 (1/256) % 7 (18/243)
+Nüksb % 30 (76/252) % 21 (46/217)
+Diğerc % 3 (8/256) % 7 (17/243)
+a. Etkililik analizi, rekombinant HCV genotip 2/1 enfeksiyonu olan 3 hastayı içerir .
+b. Nüks paydası, tedavi sırasındaki son değerlendirmelerinde HCV RNA düzeyi < LLOQ olan hastaların sayısıdır.
+c. Diğer tanımı, KVY12 elde edemeyen ve virolojik başarısızlık kriterlerini karşılamayan hastaları (örn. takip
+edilemeyen) içerir.
+Sofosbuvir + ribavirin ve peginterferon alfa + ribavirin tedavi gruplarının genel KVY12
+oranları arasındaki fark % 0,3’tür (% 95 güven aralığı: -% 7,5 ila % 8) ve çalışma önceden
+tanımlanan noninferiorite kriterini karşılamıştır.
+Başlangıçta sirozu olan hastalar için yanıt oranları Tablo 9’da HCV genotipine göre
+belirtilmiştir.
+Tablo 9: FISSION çalışmasında siroz ve genotipe göre KVY12 oranları
+Genotip 2 Genotip 3
+SOF+RBV PEG+RBV SOF+RBV PEG+RBV
+12 hafta 24 hafta 12 hafta 24 hafta
+(n = 73)a (n = 67) (n = 183) (n = 176)
+Siroz
+Yok % 97 (59/61) % 81 (44/54) % 61 (89/145) % 71 (99/139)
+Var % 83 (10/12) % 62 (8/13) % 34 (13/38) % 30 (11/37)
+a. Etkililik analizi, rekombinant HCV genotip 2/1 enfeksiyonu olan 3 hastayı içerir.
+21İnterferonu tolere edemeyen, interferona uygun olmayan veya interferon almak istemeyen
+yetişkinler- POSITRON (çalışma 107)
+POSITRON, interferonu tolere edemeyen, interferona uygun olmayan veya interferon almak
+istemeyen hastalarda plaseboya (n = 71) kıyasla sofosbuvir ve ribavirin ile 12 haftalık
+tedavinin (n = 207) değerlendirildiği randomize, çift kör, plasebo kontrollü bir çalışmadır.
+Hastalar 3:1 oranında randomize edilmiş ve siroza göre (varlığı veya yokluğu)
+tabakalandırılmıştır.
+Tedavi edilen hastaların (n = 278) medyan yaşı 54’tür (aralık: 21 ila 75); hastaların % 54’ü
+erkektir; % 91’i beyaz, % 5’i siyah; % 11’i Hispanik veya Latin’dir; ortalama vücut kitle
+endeksi 28 kg/m2’dir (aralık: 18 ila 53 kg/m2); % 70’inin başlangıç HCV RNA düzeyleri
+6 log IU/mL’nin üzerindedir; % 16’sında siroz, % 49’unda HCV genotip 3 vardır. İnterferonu
+10
+tolere edemeyen, interferona uygun olmayan veya interferon almak istemeyen hastaların oranı,
+sırasıyla % 9, % 44, ve % 47’dir. Hastaların çoğu daha önce HCV tedavisi görmemiştir
+(% 81,3). Tablo 10’de sofosbuvir + ribavirin ve plasebo tedavi grupları için yanıt oranları
+sunulmaktadır.
+Tablo 10: POSITRON çalışmasındaki yanıt oranları
+SOF+RBV Plasebo
+12 hafta 12 hafta
+(n = 207) (n = 71)
+Genel KVY12 % 78 (161/207) 0/71
+Genotip 2 % 93 (101/109) 0/34
+Genotip 3 % 61 (60/98) 0/37
+KVY12 görülmeyen hastalarda
+sonuç
+Tedavi sırasında virolojik 0/207 % 97 (69/71)
+başarısızlık
+Nüksa % 20 (42/205) 0/0
+Diğerb % 2 (4/207) % 3 (2/71)
+a. Nüks paydası, tedavi sırasındaki son değerlendirmelerinde HCV RNA düzeyi < LLOQ olan hastaların sayısıdır.
+b. Diğer tanımı, KVY12 elde edemeyen ve virolojik başarısızlık kriterlerini karşılamayan hastaları (örn. takip edilemeyen)
+içerir.
+Sofosbuvir + ribavirin tedavi grubundaki KVY12 oranı plaseboya kıyasla istatistiksel olarak
+anlamlıdır (p < 0,001).
+Tablo 11’de siroz ve interferon sınıflandırması için genotipe göre alt grup analizi
+sunulmaktadır.
+Tablo 11: POSITRON’da seçili alt gruplar için KVY12 oranları
+SOF+RBV
+12 hafta
+Genotip 2 Genotip 3
+(n = 109) (n = 98)
+Siroz
+Yok % 92 (85/92) % 68 (57/84)
+Var % 94 (16/17) % 21 (3/14)
+İnterferon sınıflandırması
+Uygun değil % 88 (36/41) % 70 (33/47)
+Tolere edemiyor % 100 (9/9) % 50 (4/8)
+İsteksiz % 95 (56/59) % 53 (23/43)
+Daha önce tedavi edilen yetişkinler - FUSION (çalışma 108)
+FUSION, daha önceki interferon bazlı tedavide KVY elde edemeyen hastalarda (nüks
+yaşayanlar ve yanıt vermeyenler) sofosbuvir ve ribavirin ile 12 veya 16 haftalık tedavinin
+22değerlendirildiği randomize, çift kör bir çalışmadır. Hastalar 1:1 oranında randomize edilmiş
+ve siroza (varlığı veya yokluğu) ve HCV genotipine (2 veya 3) göre tabakalandırılmıştır.
+Tedavi edilen hastaların (n = 201) medyan yaşı 56’dır (aralık: 24 ila 70); hastaların % 70’i
+erkektir; % 87’si beyaz, % 3’ü siyah; % 9’u Hispanik veya Latin’dir; ortalama vücut kitle
+endeksi 29 kg/m2’dir (aralık: 19 ila 44 kg/m2); % 73’ünün başlangıç HCV RNA düzeyleri
+6 log IU/mL’nin üzerindedir; % 34’ünde siroz, % 63’ünde HCV genotip 3 vardır; % 75’i
+10
+daha önce nüks yaşamıştır. Tablo 12’de, 12 ve 16 haftalık sofosbuvir + ribavirin tedavi grupları
+için yanıt oranları sunulmaktadır.
+Tablo 12: FUSION çalışmasındaki yanıt oranları
+SOF+RBV SOF+RBV
+12 hafta 16 hafta
+(n = 103)a (n = 98)a
+Genel KVY12 % 50 (51/103) % 71 (70/98)
+Genotip 2 % 82 (32/39) % 89 (31/35)
+Genotip 3 % 30 (19/64) % 62 (39/63)
+KVY12 görülmeyen hastalarda sonuç
+Tedavi sırasında virolojik 0/103 0/98
+başarısızlık
+Nüksb % 48 (49/103) % 29 (28/98)
+Diğerc % 3 (3/103) 0/98
+a. Etkililik analizi, rekombinant genotip HCV 2/1 enfeksiyonu olan 6 hastayı içerir .
+b. Nüks paydası, tedavi sırasındaki son değerlendirmelerinde HCV RNA düzeyi < LLOQ olan hastaların sayısıdır.
+c. Diğer tanımı, KVY12 elde edemeyen ve virolojik başarısızlık kriterlerini karşılamayan hastaları (örn. takip
+edilemeyen) içerir.
+Tablo 13’de, siroz için genotipe ve önceki HCV tedavisine verilen yanıta göre alt grup analizi
+sunulmaktadır.
+Tablo 13: FUSION çalışmasında genotipe göre seçili alt gruplar için KVY12 oranları
+Genotip 2 Genotip 3
+SOF+RBV SOF+RBV SOF+RBV SOF+RBV
+12 hafta 16 hafta 12 hafta 16 hafta
+(n = 39) (n = 35) (n = 64) (n = 63)
+Siroz
+Yok % 90 (26/29) % 92 (24/26) % 37 (14/38) % 63 (25/40)
+Var % 60 (6/10) % 78 (7/9) % 19 (5/26) % 61 (14/23)
+Önceki HCV
+tedavisine yanıt
+Nüks yaşayan % 86 (25/29) % 89 (24/27) % 31 (15/49) % 65 (30/46)
+Yanıt vermeyen % 70 (7/10) % 88 (7/8) % 27 (4/15) % 53 (9/17)
+Daha önce tedavi görmemiş ve daha önce tedavi görmüş yetişkinler - VALENCE (çalışma 133)
+VALENCE çalışması, kompanse sirozu olan hastalar dahil olmak üzere, daha önce tedavi
+görmemiş veya daha önce interferon bazlı tedaviyle KVY elde etmemiş hastalarda HCV
+genotip 2 veya 3 enfeksiyonunun tedavisi için vücut ağırlığına dayalı ribavirinle kombinasyon
+halinde sofosbuvirin değerlendirildiği bir Faz 3 çalışmadır. Çalışma, 12 hafta süreyle
+sofosbuvir ve ribavirinin doğrudan plaseboyla karşılaştırması olarak tasarlanmıştır. Ancak
+ortaya çıkan verilere dayanılarak çalışmanın körleşmesi kaldırılmış ve tüm HCV genotip 2
+hastalar 12 hafta süreyle sofosbuvir ve ribavirin almaya devam etmiş, HCV genotip 3
+hastalarının tedavisi 24 haftaya uzatılmıştır. On bir HCV genotip 3 hastası değişikliğin
+yapıldığı tarihte 12 haftalık sofosbuvir ve ribavirin tedavisini zaten tamamlamış durumdadır
+Tedavi edilen hastaların (n = 419) medyan yaşı 51'dir (aralık: 19 ila 74); hastaların % 60'ı
+erkektir; medyan vücut kütle indeksi 25 kg/m2'dir (aralık: 17 ila 44 kg/m2); ortalama başlangıç
+23HCV RNA düzeyi 6,4 log IU/mL'dir; % 21'inde siroz vardır; % 78'inde HCV genotip 3
+10
+vardır; % 65'inde daha önce nüks olmuştur. Tablo 14'te 12 haftalık ve 24 haftalık sofosbuvir +
+ribavirin tedavi grupları için yanıt oranları sunulmaktadır.
+Plasebo alanların hiçbirinde KVY12 elde edilmediği için bunlar tablolara dahil edilmemiştir.
+Tablo 14: VALENCE çalışmasındaki yanıt oranları
+Genotip 2 Genotip 3 Genotip 3
+SOF+RBV 12 hafta SOF+RBV 12 hafta SOF+RBV 24 hafta
+(n = 73) (n = 11) (n = 250)
+Genel KVY 12 % 93 (68/73) % 27 (3/11) % 84 (210/250)
+KVY 12 görülmeyen
+hastalarda sonuç
+Tedavi sırasında % 0 (0/73) % 0 (0/11) % 0,4 (1/250)
+virolojik başarısızlık
+Nüksa % 7 (5/73) % 55 (6/11) % 14 (34/249)
+Diğerb % 0 (0/73) % 18 (2/11) % 2 (5/250)
+a. Nüks paydası, tedavi sırasındaki son değerlendirmelerinde HCV RNA düzeyi < LLOQ olan hastaların
+sayısıdır.
+b. Diğer tanımı, KVY12 elde edemeyen ve virolojik başarısızlık kriterlerini karşılamayan hastaları (örn. takip
+edilemeyen) içerir.
+Tablo 15'te siroz genotipine ve önceki HCV tedavisine yanıta göre alt grup analizi
+sunulmaktadır.
+Tablo 15: VALENCE çalışmasında genotipe göre seçilmiş alt gruplar için KVY12
+oranları
+Genotip 2 Genotip 3
+SOF+RBV 12 hafta SOF+RBV 24 hafta
+(n = 73) (n = 250)
+Tedavi görmemiş % 97 (31/32) % 93 (98/105)
+Sirotik olmayan % 97 (29/30) % 94 (86/92)
+Sirotik % 100 (2/2) % 92 (12/13)
+Tedavi görmüş % 90 (37/41) % 77 (112/145)
+Sirotik olmayan % 91 (30/33) % 85 (85/100)
+Sirotik % 88 (7/8) % 60 (27/45)
+KVY12 ile KVY24 uyumu
+Ribavirinle veya ribavirin ve pegile interferon kombinasyon halinde sofosbuvir ile tedavinin
+ardından KVY12 ile KVY24 arasındaki uyum (tedavinin sonundan 24 hafta sonraki KVY)
+arasındaki, % 99’luk bir pozitif kestirim değeri ve % 99’luk bir negatif kestirim değeri sergiler.
+Özel popülasyonlarda klinik etkililik ve güvenlilik
+HCV/HIV ile koenfekte yetişkin hastalar- PHOTON-1 (çalışma 123)
+Sofosbuvir, HIV-1 ile koenfekte genotip 1, 2 veya 3 kronik hepatit C olan HCV hastalarında
+sofosbuvir ve ribavirin ile 12 veya 24 haftalık tedavinin güvenliliğini ve etkililiğini
+24değerlendiren açık etiketli bir klinik çalışmada araştırılmıştır. Genotip 2 ve 3 hastaları ya daha
+önce tedavi görmemiş ya da görmüştür, genotip 1 hastaları daha önce tedavi görmemiştir.
+Tedavi süresi, HCV genotip 2 veya 3 enfeksiyonu olan daha önce tedavi görmemiş hastalarda
+12 hafta ve HCV genotip 3 enfeksiyonu olan daha önce tedavi görmüş hastaların yanı sıra HCV
+genotip 1 enfeksiyonu olan hastalarda 24 haftadır. Hastalar 400 mg sofosbuvir ve vücut
+ağırlığına göre ribavirin (vücut ağırlığı < 75 kg olan hastalar için 1000 mg veya vücut ağırlığı ≥
+75 kg olan hastalar için 1200 mg) almıştır. Hastalar ya CD4+ hücre sayımı > 500 hücre/mm3 ile
+antiretroviral tedavi almıyorlardır ya da CD4+ hücre sayımı > 200 hücre/mm3 ile virolojik
+olarak suprese edilmiş HIV-1'leri vardır. Hastaların % 95'i kayıt sırasında antiretroviral tedavi
+alıyordu. 210 hasta için ön KVY12 verileri mevcuttur.
+Tablo 16'da genotipe ve daha önceki HCV tedavisine maruziyete göre yanıt oranları
+sunulmaktadır.
+Tablo 16: PHOTON-1 çalışmasındaki yanıt oranları
+Genotip 2/3 daha Genotip 1 daha
+Genotip 2/3 daha önce
+önce tedavi önce tedavi
+tedavi görmüş
+görmemiş görmemiş
+SOF+RBV 24 hafta
+SOF+RBV 12 SOF+RBV 24
+(n = 28)
+hafta (n = 68) hafta (n = 114)
+Genel KVY12 % 75 (51/68) % 93 (26/28) % 76 (87/114)
+KVY12 elde etmeyen
+hastalarda sonuç
+Tedavi sırasında % 1 (1/68) 0/28 % 1 (1/114)
+virolojik başarısızlık
+Nüksa % 18 (12/67) % 7 (2/28) % 22 (25/113)
+Diğerb % 6 (4/68) 0/28 % 1 (1/114)
+a. Nüks paydası, tedavi sırasındaki son değerlendirmelerinde HCV RNA düzeyi < LLOQ olan hastaların sayısıdır
+b. Diğer tanımı, KVY12 elde edemeyen ve virolojik başarısızlık kriterlerini karşılamayan hastaları (örn. takip edilemeyen)
+içerir.
+Tablo 17’de siroz için genotipe göre alt grup analizi sunulmaktadır.
+Tablo 17: PHOTON 1 çalışmasında genotipe göre seçilen alt gruplar için KVY12 oranları
+HCV genotip 2 HCV genotip 3
+SOF+RBV SOF+RBV SOF+RBV SOF+RBV
+12 hafta 24 hafta 12 hafta 24 hafta
+TN (n = 26) TE (n = 15) TN (n = 42) TE (n = 13)
+Genel % 88 (23/26) % 93 (14/15) % 67 (28/42) % 92 (12/13)
+Siroz yok % 88 (22/25) % 92 (12/13) % 67 (24/36) % 100 (8/8)
+Siroz % 100 (1/1) % 100 (2/2) % 67 (4/6) % 80 (4/5)
+TN = daha önce tedavi görmemiş; TE = daha önce tedavi görmüş.
+25Karaciğer transplantasyonu bekleyen yetişkin hastalar- Çalışma 2025
+Sofosbuvir, transplant sonrası HCV yeniden enfeksiyonunu önlemek için transplant öncesi
+uygulanan sofosbuvir ve ribavirinin güvenliliği ve etkililiğini değerlendiren bir açık etiketli
+klinik çalışmada HCV enfeksiyonlu hastalarda karaciğer transplantasyonu yapılmadan önce
+incelenmiştir. Çalışmadaki birincil sonlanım noktası transplant sonrası virolojik yanıttır
+(transplant sonrası 12. haftada pTVR, HCV RNA düzeyleri < LLOQ). Genotipinden bağımsız
+olarak, hepatosellüler karsinomu (HSK) bulunan ve MILAN kriterlerini karşılayan HCV ile
+enfekte hastalar en fazla 24 hafta, (sonra 48 hafta olarak düzeltilmiştir) veya karaciğer
+transplantasyonun kadar (hangisi önce olursa) günlük 400 mg sofosbuvir ve 1000-1200 mg
+ribavirin almıştır. Sofosbuvir ve ribavirin alan 61 hastada bir ara analiz yapılmıştır; hastaların
+çoğunluğunda HCV genotipi 1 vardır, 44 hastanın Child Pugh Turcotte (CPT) skoru sınıf A
+ve 17 hastanın CPT skoru sınıf B'dir. Bu 61 hasta içinde 44 hastaya sofosbuvir ve ribavirinle
+48 haftaya kadar süren tedavinin ardından karaciğer transplantasyonu yapılmıştır; 41 hastada
+transplantasyon zamanında HCV RNA düzeyleri < LLOQ olmuştur. HCV RNA düzeyi
+< LLOQ iken transplantasyon uygulanan 41 hastadaki virolojik yanıt oranları Tablo 18’de
+açıklanmaktadır. Transplantasyon öncesi viral süpresyonun süresi, transplantasyon sırasında
+HCV RNA < LLOQ olanlarda pTVR için en önemli gösterge faktörüdür.
+Tablo 18: Karaciğer transplantasyonu zamanında HCV RNA düzeyleri < LLOQ olan
+transplant sonrası hastalarda virolojik yanıt
+Transplant sonrası
+12. Hafta (pTVR)b
+Değerlendirilebilir
+hastalarda virolojik 23/37 (% 62)
+yanıta
+a. Değerlendirilebilir hastalar, ara analiz zamanında belirtilen zaman noktasına ulaşmış olanlar olarak
+tanımlanmıştır.
+b. pTVR: transplant sonrası virolojik yanıt (operasyon sonrası 12. haftada -HCV RNA düzeyleri < LLOQ).
+Tedaviyi 24. haftada bırakan hastalarda, protokole göre, nüks oranı 11/15'tir.
+Karaciğer transplantasyonu yapılan yetişkinler- çalışma 0126
+Sofosbuvir, kronik hepatit C’li karaciğer transplantasyonu yapılanlarda sofosbuvir ve ribavirin
+ile 24 haftalık tedavinin etkililiği ve güvenliliğinin değerlendirilmesinde açık uçlu klinik
+çalışmada çalışılmıştır.
+Uygun hastalar ≥ 18 yaş ve görüntülemeden 6-150 ay önce karaciğer transplantasyonu
+geçirmiştir. Hastalar görüntülemede HCV RNA ≥ 104 IU/mL’ değere sahiptir ve
+transplantasyon öncesi kronik HCV enfeksiyonunun kanıtı dokümante edilmiştir. Ribavirinin
+başlangıç dozu günlük doza bölünerek alınan 400 mg’dır. Hastalar hemoglobin düzeylerini ≥
+12 g/dL olarak düzenlerse, ribavirin dozu 2, 4 ve her 4 haftada uygun vücut ağırlığı dozuna
+ulaşana kadar artırılmıştır (< 75 kg olan gönüllülerde günlük 1.000 mg ve ≥ 75 kg olan
+hastalarda 1200 mg). Medyan ribavirin dozu 4 ila 24 haftada günlük 600 mg ila 800 mg’dır.
+40 hasta (33’ü HCV genotip 1 enfeksiyonu, 6’sı HCV genotip 3 enfeksiyonu ve 1’i HCV
+genotip 4 enfeksiyonu) kayıt edilmiştir, bunların 35’i daha önce interferon bazlı tedavide
+başarısız olmuş ve 16’sının sirozu vardır. 40 hastanın 28’i (% 70) KVY12’ye ulaşmıştır: 22/33
+(% 73)’ü HCV genotip 1 enfeksiyonlu, 6/6’sı (% 100) HCV genotip 3 enfeksiyonlu ve 0/1’i (%
+0) HCV genotip 4 enfeksiyonludur. KVY12’ye ulaşan tüm hastalar KVY24 ve KVY48’ye
+ulaşmıştır.
+Terapötik rejime ve tedavi süresine göre sonuçlara genel bakış, çalışmalar arası karşılaştırma
+Aşağıdaki tablolarda (Tablo 19 - 22), klinisyenlerin her hasta için en iyi rejimi belirlemesine
+yardımcı olmak için dozlamaya ilişkin Faz 2 ve Faz 3 çalışmalarının verileri sunulmaktadır.
+26Tablo 19: Rejime ve süreye göre sonuçlar, HCV genotip 1 enfeksiyonunda çalışmalar
+arası karşılaştırma.
+Hasta Popülasyonu Rejim/Süre Alt Grup KVY12 aralığı % (n/N)
+(Çalışma numarası/adı)
+Daha önce tedavi SOF+PEG+RBV 12 hafta Genel % 90 (262/292)
+görmemişa Genotip 1a % 92 (206/225)
+(NEUTRINO) Genotip 1b % 83 (55/66)
+Sirozsuz % 93 (253/273)
+Siroz % 80 (43/54)
+Daha önce tedavi SOF+RBV 24 hafta Genel % 76 (87/114)
+görmemiş ve HIV ile Genotip 1a % 82 (74/90)
+koenfekte (PHOTON-1) Genotip 1b % 54 (13/24)
+Sirozsuz % 77 (84/109)
+Siroz % 60 (3/5)
+Daha önce tedavi SOF+RBV 24 hafta Genelc % 65 (104/159)
+görmemiş Genotip 1ac % 69 (84/121)
+(QUANTUMb ve 11-1- Genotip 1bc % 53 (20/38)
+0258b) Sirozsuzc % 68 (100/148)
+Sirozc % 36 (4/11)
+n = KVY12 yanıtı olan hasta sayısı; N = grup başına toplam hasta sayısı.
+a. Daha önce tedavi görmüş HCV genotip 1 enfeksiyon hastaları için, sofosbuvir, peginterferon alfa ve ribavirin
+kombinasyonuna dair veri yoktur. Bu hastaların, özellikle geçmişte interferon tabanlı tedavilere düşük yanıt
+oranlarıyla ilişkilendirilen bir ya da daha fazla faktörün bulunduğu alt grupların (daha önce peginterferon alfa ve
+ribavirin tedavisine yanıt vermemiş, ilerlemiş fibroz/siroz, yüksek başlangıç viral konsantrasyonları, siyah ırk,
+IL28b CC harici genotip) sofosbuvir, peginterferon alfa ve ribavirin ile tedavi edilmesi ve tedavi süresinin 12
+haftayı geçecek ve 24 haftaya kadar gidecek şekilde potansiyel olarak uzatılması dikkate alınmalıdır.
+b. Bunlar keşfedici ya da faz II çalışmalardır. Sayılar küçük olduğu ve KVY oranları hasta seçiminden
+etkilenebileceği için, sonuçlar dikkatle yorumlanmalıdır.
+c. Her iki çalışmanın özet verileri.
+27Tablo 20: Rejime ve süreye göre sonuçlar, HCV genotip 2 enfeksiyonunda çalışmalar
+arası karşılaştırma
+Hasta Popülasyonu Rejim/Süre Alt grup KVY12 aralığı % (n/N)
+(Çalışma numarası/adı)
+Tedavi görmemiş SOF+RBV Genel % 95 (69/73)
+(FISSION) 12 hafta Sirozsuz % 97 (59/61)
+Siroz % 83 (10/12)
+İnterferona intoleransı olan, SOF+RBV Genel % 93 (101/109)
+uygun olmayan ya da isteksiz 12 hafta Sirozsuz % 92 (85/92)
+(POSITRON)
+Siroz % 94 (16/17)
+Tedavi görmüş (FUSION) SOF+RBV Genel % 82 (32/39)
+12 hafta Sirozsuz % 90 (26/29)
+Siroz % 60 (6/10)
+Tedavi görmemiş (VALENCE) SOF+RBV Genel % 97 (31/32)
+12 hafta Sirozsuz % 97 (29/30)
+Siroz % 100 (2/2)
+Tedavi görmüş (VALENCE) SOF+RBV Genel % 90 (37/41)
+12 hafta Sirozsuz % 91 (30/33)
+Siroz % 88 (7/8)
+Tedavi görmüş (FUSION) SOF+RBV Genel % 89 (31/35)
+16 hafta Sirozsuz % 92 (24/26)
+Siroz % 78 (7/9)
+Tedavi görmemiş ve HIV ile SOF+RBV Genel % 88 (23/26)
+ko-enfekte (PHOTON-1) 12 hafta
+Sirozsuz % 88 (22/25)
+Siroz % 100 (1/1)
+Tedavi görmüş ve HIV ile ko- SOF+RBV Genela % 93 (14/15)
+enfekte (PHOTON-1) 24 hafta Sirozsuza % 92 (12/13)
+Siroza % 100 (2/2)
+Tedavi görmemiş SOF+PEG+RBV Genelc % 96 (25/26)
+(ELECTRONb ve PROTONb) 12 hafta
+Tedavi görmüş SOF+PEG+RBV Genel % 96 (22/23)
+(LONESTAR-2b) 12 hafta Sirozsuz % 100 (9/9)
+Siroz % 93 (13/14)
+n = KVY12 yanıtı veren hasta sayısı; N = grup başına toplam hasta sayısı
+a.Bunlar ön verilerdir.
+b.Bunlar keşfedici ya da faz 2 çalışmalardır. Sayılar küçük olduğu ve KVY oranları hasta seçiminden
+etkilenebileceği için, sonuçlar dikkatle yorumlanmalıdır. ELECTRON çalışmasında (N=11), peginterferon alfa
+süresi, sofosbuvir+ribavirin ile kombinasyon halinde 4-12 hafta arasında değişmiştir.
+c.Bu iki çalışmada sadece sirotik olmayan hastalar kullanılmıştır.
+28Tablo 21: Rejime ve süreye göre sonuçlar, HCV genotip 3 enfeksiyonunda çalışmalar
+arası karşılaştırma
+Hasta Popülasyonu Rejim/Süre Alt grup KVY12 aralığı %
+(Çalışma numarası/adı) (n/N)
+Tedavi görmemiş SOF+RBV Genel % 56 (102/183)
+(FISSION) 12 hafta Sirozsuz % 61 (89/145)
+Siroz % 34 (13/38)
+İnterferona intoleransı olan, SOF+RBV Genel % 61 (60/98)
+uygun olmayan ya da isteksiz 12 hafta Sirozsuz % 68 (57/84)
+(POSITRON) Siroz % 21 (3/14)
+Tedavi görmüş (FUSION) SOF+RBV Genel % 30 (19/64)
+12 hafta Sirozsuz % 37 (14/38)
+Siroz % 19 (5/26)
+Tedavi görmüş (FUSION) SOF+RBV Genel % 62 (39/63)
+16 hafta Sirozsuz % 63 (25/40)
+Siroz % 61 (14/23)
+Tedavi görmemiş (VALENCE) SOF+RBV Genel % 93 (98/105)
+24 hafta Sirozsuz % 94 (86/92)
+Siroz % 92 (12/13)
+Tedavi görmüş (VALENCE) SOF+RBV Genel % 77 (112/145)
+24 hafta Sirozsuz % 85 (85/100)
+Siroz % 60 (27/45)
+Tedavi görmemiş ve HIV ile ko- SOF+RBV Genel % 67 (28/42)
+enfekte (PHOTON-1) 12 hafta Sirozsuz % 67(24/36)
+Siroz % 67 (4/6)
+Tedavi görmüş ve HIV ile ko- SOF+RBV Genela % 92 (12/13)
+enfekte (PHOTON-1) 24 hafta Sirozsuza % 100(8/8)
+Sirotika % 80 (4/5)
+Tedavi görmemiş (ELECTRONb SOF+PEG+RBV 12 hafta Genelc % 97 (38/39)
+ve PROTONb) Genel % 83 (20/24)
+Tedavi görmüş (LONESTAR-2b) SOF+PEG+RBV 12 hafta Sirozsuz % 83 (10/12)
+Siroz % 83 (10/12)
+n = KVY12 yanıtı veren hasta sayısı; N = grup başına toplam hasta sayısı
+a. Bunlar ön verilerdir.
+b.Bunlar keşfedici ya da faz 2 çalışmalardır. Sayılar küçük olduğu ve KVY oranları hasta seçiminden
+etkilenebileceği için, sonuçlar dikkatle yorumlanmalıdır. ELECTRON çalışmasında (N=11), peginterferon alfa
+süresi, sofosbuvir+ribavirin ile kombinasyon halinde 4-12 hafta arasında değişmiştir.
+c. Bu iki çalışmada sadece sirotik olmayan hastalar kullanılmıştır.
+Tablo 22: Rejime ve süreye göre sonuçlar, HCV genotip 4, 5 ve 6 enfeksiyonunda
+çalışmalar arası karşılaştırma
+Hasta Popülasyonu Rejim/Süre Alt grup KVY12 aralığı
+(Çalışma % (n/N)
+numarası/adı)
+Tedavi görmemiş SOF+PEG+RBV Genel % 97 (34/35)
+(NEUTRINO) 12 hafta Sirozsuz % 100 (33/33)
+Siroz % 50 (1/2)
+n = KVY12 yanıtı veren hasta sayısı; N = grup başına toplam hasta sayısı
+29Böbrek yetmezliği bulunan hastalar
+Çalışma 0154, diyaliz gerektirmeyen ciddi böbrek yetmezliği olan genotip 1 veya 3 HCV ile
+enfekte olan 20 hastada ribavirin ile kombinasyon halinde 24 haftalık sofosbuvir tedavisinin
+güvenliliğini ve etkililiğini değerlendiren açık etiketli bir klinik çalışmadır. Ribavirin ile
+kombinasyon halinde sofosbuvir 200 mg veya 400 mg ile tedavinin ardından SEBH'li
+hastalarda KVY12 oranı sırasıyla % 40 ve % 60 olmuştur. Diyaliz gerektirmeyen ciddi böbrek
+yetmezliği olan genotip 1 HCV ile enfekte 18 hastada 12 haftalık ledipasvir/sofosbuvir
+tedavisinin güvenliliği ve etkililiği Çalışma 0154'te araştırılmıştır. Başlangıçta iki hastada siroz
+vardır ve ortalama eGFR 24,9 mL/dakikadır (aralık: 9,0-39,6). Ledipasvir/sofosbuvir ile tedavi
+edilen hastaların % 100'ünde (18/18) KVY12 elde edilmiştir.
+Çalışma 4063, HCV enfeksiyonu olan ve diyaliz gerektiren SEBH'li 95 hastada sofosbuvir ve
+ledipasvirin bir sabit dozlu kombinasyonunu değerlendiren açık etiketli bir çalışmadır.
+Ledipasvir/sofosbuvir tedavi gruplarının 8, 12 ve 24 haftalık KVY oranları sırasıyla % 93
+(42/45), % 100 (31/31) ve % 79 (15/19) idi. KVY12 elde edemeyen 7 hastanın hiçbirinde
+virolojik başarısızlık veya nüks görülmemiştir.
+Çalışma 4062, HCV ile enfekte ve diyaliz gerektiren SEBH'li 59 hastada sofosbuvir ve
+velpatasvirin bir sabit dozlu kombinasyonunu açık etiketli bir çalışmadır. SVR oranı % 95
+(56/59) olmuştur; KVY12'ye ulaşamamış olan üç hastanın biri velpatasvir tedavisi ile
+sofosbuviri tamamlamış ve nüks yaşamıştır.
+Pediyatrik popülasyon
+12 yaş ve üzeri HCV-enfekte hastalarda sofosbuvirin etkililiği, genotip 2 (n=13) veya genotip 3
+(n=39) kronik HCV enfeksiyonu olan, çalışmaya dahil edilen 52 hastada açık etiketli Faz 2
+klinik çalışmasında değerlendirilmiştir. Çalışmada HCV genotip 2 veya 3 enfeksiyonlu hastalar
+sırasıyla 12 veya 24 hafta ribavirin ve sofosbuvir ile tedavi edilmiştir.
+Tedavi edilen 52 hastanın medyan yaşı 15 (aralık: 12 ila 17); hastaların % 40’ı kadın; % 90’ı
+beyaz, % 4’ü siyah ve % 2’si Asyalı; % 4 ’ü Hispanik/Latin; ortalama vücut ağırlığının 60,4 kg
+(aralık: 29,6 ila 75,6 kg) olduğu kaydedilmiş;; % 17’si tedavi deneyimli; % 65’inin başlangıç
+HCV RNA düzeyi 800.000 IU/mL’ye eşit veya üzerinde olduğu ve hiçbir hastada bilinen siroz
+olmadığı görülmüştür. Hastaların büyük çoğunluğu (% 69) dikey geçişle enfekte olmuştur.
+Genotip 2 hastalarda KVY12 oranı genel olarak % 98 (% 100 [13/13]) ve genotip 3 hastalarda
+% 97 (38/39)’dir. Hiçbir hasta tedavi sırasında virolojik başarısızlık veya nüks
+deneyimlememiş; genotip 3 HCV enfeksiyonu olan bir hasta, KVY4 elde etmiş ancak KVY12
+vizitine gelmemiştir.
+5.2. Farmakokinetik özellikler
+Genel özellikler
+Sofosbuvir, yaygın şekilde metabolize olan bir nükleotid ön ilaçtır. Aktif metabolit,
+hepatositlerde oluşur ve plazmada gözlenmez. Baskın (> % 90) metabolit olan GS 331007
+inaktiftir. Aktif metabolitin oluşumuna giden sıralı ve paralel yolaklarda oluşur.
+Emilim:
+Sofosbuvirin ve dolaşımdaki baskın metaboliti GS-331007’nin farmakokinetik özellikleri
+sağlıklı yetişkin gönüllülerde ve kronik hepatit C’li hastalarda değerlendirilmiştir. Oral
+uygulamanın ardından sofosbuvir hızla absorbe edilmiş ve doz düzeyinden bağımsız olarak pik
+plazma konsantrasyonu doz sonrası yaklaşık 0,5 - 2. saatte gözlenmiştir. GS-331007’nin pik
+plazma konsantrasyonu doz sonrası 2 ila 4. saatte gözlenmiştir. HCV genotip 1 ila 6
+30enfeksiyonlu hastalarda (n = 986) popülasyon farmakokinetik analizine göre, sofosbuvir ve
+GS-331007 için kararlı durum EAA değeri sırasıyla 1010 ng•sa/mL ve 7200 ng•sa/mL
+0-24
+çıkmıştır. Sağlıklı gönüllülere kıyasla (n = 284), sofosbuvir ve GS-331007 EAA değerleri
+0-24
+HCV enfekte hastalarda sırasıyla % 57 daha yüksek ve % 39 daha düşük çıkmıştır.
+Gıdanın etkileri
+Açlık koşullarına göre, standart bir yağ içeriği yüksek yiyecekle tek bir sofosbuvir dozunun
+uygulanması, sofosbuvirin absorpsiyon hızını yavaşlatmıştır. Sofosbuvirin absorpsiyon
+derecesi yaklaşık 1,8 kat artmış, pik konsantrasyon çok az etkilenmiştir. GS-331007’nin
+maruziyeti yüksek yağ içerikli öğün varlığında değişmemiştir.
+Dağılım:
+Sofosbuvir, organik anyon taşıyıcı polipeptid (OATP) 1B1 ya da 1B3, ve organik katyon
+taşıyıcı (OCT) 1 dahil olmak üzere hepatik taşıyıcılara yönelik bir substrat değildir. Aktif
+tübüler sekresyona tabi olmakla birlikte, GS-331007, organik anyon taşıyıcı (OAT) 1 ya da 3,
+OCT2, MRP2, P-gp, BCRP veya MATE1 dahil olmak üzere renal taşıyıcılara yönelik bir
+substrat değildir. Sofosbuvir ve GS 331007, ilaç taşıyıcıları olan P-gp, BCRP, MRP2, BSEP,
+OATP1B1, OATP1B3 ve OCT1'in inhibitörleri değildir. GS 331007; OAT1, OCT2 ve
+MATE1'in inhibitörü değildir.
+Sofosbuvir insan plazma proteinlerine (ex vivo veriler) yaklaşık % 85 oranında bağlanır ve
+bağlanma 1 mikrog/mL ila 20 mikrog/mL aralığında ilaç konsantrasyonundan bağımsızdır.
+GS-331007’nin proteine bağlanması insan plazmasında minimum düzeydedir. Sağlıklı
+gönüllülerde tek 400 mg [14C]-sofosbuvir dozundan sonra 14C-radyoaktivitesinin kan:plazma
+oranı yaklaşık 0,7 olmuştur.
+Biyotransformasyon:
+Sofosbuvir karaciğerde büyük ölçüde metabolize olarak farmakolojik olarak aktif nükleozid
+analog trifosfat GS-461203’ü oluşturur. Metabolik aktivasyon yolağı, insan katepsin A (CatA)
+veya karboksilesteraz 1 (CES1) ile katalize olan karboksil ester kısmının ardışık hidrolizini ve
+histidin triad nükleotid bağlayan protein 1 (HINT1) tarafından fosforamidat bölünmeyi içerir
+ve ardından pirimidin nükleotid biyosentez yolağı tarafından fosforilasyon oluşur.
+Defosforilasyon, etkili bir şekilde yeniden fosforile edilemeyen ve in vitro anti-HCV aktivitesi
+olmayan nükleozid metabolit GS-331007’nin oluşmasıyla sonuçlanır. Sofosbuvir ve GS-
+331007; UGT1A1 veya CYP3A4, CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19 ve
+CYP2D6 enzimlerinin substratı veya inhibitörü değildir.
+Tek 400 mg oral [14C]-sofosbuvir dozundan sonra, sofosbuvir ve GS-331007 ilaçla ilgili
+materyalin sistemik maruziyetinin sırasıyla yaklaşık % 4 ve > % 90’ını oluşturmuştur
+(sofosbuvir ve metabolitlerinin moleküler ağırlıkla düzeltilmiş EAA toplamı).
+Eliminasyon:
+Tek 400 mg oral [14C]-SOF dozunun ardından, dozun ortalama toplam geri kazanımı % 92’den
+yüksektir, yaklaşık % 80, % 14 ve % 2,5’i sırasıyla idrar, dışkı ve dışarı verilen havada geri
+kazanılmıştır. İdrarda geri kazanılan sofosbuvir dozunun çoğu (% 78) GS-331007 şeklindedir,
+% 3,5’i sofosbuvir olarak geri kazanılmıştır. Bu veriler, büyük bölümü aktif biçimde salgılanan
+GS-331007 için ana eliminasyon yolağının renal klirens olduğunu göstermektedir. Sofosbuvir
+ve GS-331007’nin medyan terminal yarı ömrü sırasıyla 0,4 ve 27 saattir.
+31Doğrusallık/doğrusal olmayan durum:
+Sofosbuvir ve primer metaboliti GS-331007’nin doz doğrusallığı sağlıklı aç gönüllülerde
+değerlendirilmiştir. Sofosbuvir ve GS-331007’nin EAA düzeyleri 200 ila 400 mg doz
+aralığında yaklaşık olarak dozla orantılıdır.
+Hastalardaki karakteristik özellikler
+Cinsiyet ve ırk
+Sofosbuvir ve GS-331007 için cinsiyete veya ırka bağlı klinik olarak anlamlı farmakokinetik
+farklılıklar tanımlanmamıştır.
+Yaşlılar
+HCV ile enfekte hastalarda popülasyon farmakokinetik analizi, analiz edilen yaş aralığı
+dahilinde (19 ila 75 yaş) yaşın sofosbuvir ve GS-331007’ye maruziyet üzerinde klinik olarak
+anlamlı bir etkisi olmadığını göstermiştir. Sofosbuvir klinik çalışmalarında 65 yaş ve üzeri 65
+hasta yer almıştır. 65 yaş üzeri hastalarda gözlenen yanıt oranları tedavi grupları arasında genç
+hastalarda gözlenenle benzerdir.
+Böbrek yetmezliği
+Sofosbuvir ve GS-331007 maruziyetleri üzerinde, normal böbrek fonksiyonuna sahip
+gönüllülerde karşılaştırıldığında böbrek yetmezliğinin (BY) değişken derecelerinin etkisinin
+özeti aşağıdaki metinde tanımlandığı gibi, Tablo 23’te sunulmaktadır.
+Tablo 23: Sofosbuvir ve GS-331007 maruziyeti üzerinde (AUC) Normal Böbrek
+Fonksiyonlu Gönüllülere kıyasla Böbrek Yetmezliğinin Değişik Derecelerinin Etkisi
+HCV-Negatif Gönüllüler HCV Enfekte
+Gönüllüler
+Hafif derece Orta derece Şiddetli Diyaliz Gerektiren Şiddetli BY Diyaliz
+BY BY derece BY SEBH (eGFR < 30 Gerektiren
+(eGFR ≥ 50 (eGFR ≥ 30 (eGFR < 30 Diyalizden Diyalizden mL/dak/1,7 SEBH
+ve < 80 ve < 50 mL/dak/1,7 1 saat önce 1 saat sonra 3m2)
+mL/dak/1,73 mL/dak/1,73 3m2) doz alımı doz alımı
+m2) m2)
+Sofosbuvir 1,6 kat↑ 2,1 kat↑ 2,7 kat↑ 1,3 kat↑ 1,6 kat↑ ~2 kat↑ 1,9 kat↑
+GS-
+1,6 kat↑ 1,9 kat↑ 5,5 kat↑ ≥ 10 kat↑ ≥ 20 kat↑ ~7 kat↑ 21 kat↑
+331007
+Sofosbuvirin farmakokinetiği böbrek fonksiyonu normal olan (eGFR > 80 mL/dak/1.73 m2)
+yetişkin hastalara göre hafif (eGFR ≥ 50 ve < 80 mL/dak/1,73 m2), orta (eGFR ≥ 30 ve
+< 50 mL/dak/1,73 m2), şiddetli (eGFR < 30 mL/dak/1,73 m2) böbrek yetmezliği olan HCV
+negatif yetişkin hastalarda ve hemodiyaliz gerektiren SEBH olan hastalarda tek 400 mg
+sofosbuvir dozunun ardından araştırılmıştır. GS- 331007, yaklaşık % 53'lük bir ekstraksiyon
+katsayısıyla hemodiyalizle etkili şekilde uzaklaştırılmıştır. 400 mg'lık tek bir sofosbuvir dozu
+sonrasında 4 saatlik bir hemodiyalizle uygulanan sofosbuvir dozunun % 18'i uzaklaştırılmıştır.
+24 hafta ribavirin ile birlikte 200 mg sofosbuvir (n=10) veya ribavirin ile birlikte 400 mg
+sofosbuvir (n=10) veya 12 hafta 90/400 mg ledipasvir/sofosbuvir (n=18) ile tedavi edilen
+şiddetli böbrek yetmezliği bulunan HCV enfekte yetişkin hastalarda, sofosbuvir ve GS-
+331007'nin farmakokinetiği, şiddetli böbrek yetmezliği bulunan HCV negatif yetişkin
+hastalarda gözlenen ile tutarlıdır.
+32Sofosbuvir ve GS-331007'nin farmakokinetiği, 8, 12 veya 24 hafta ledipasvir/sofosbuvir ile
+tedavi edilen HCV ile enfekte, diyaliz gerektiren SEBH'li hastalarda (n=94) veya 12 hafta
+sofosbuvir/velpatasvir ile tedavi edilen yetişkin hastalarda (n = 59) araştırılmış ve
+ledipasvir/sofosbuvir ve sofosbuvir/velpatasvir ile yapılan Faz 2/3 çalışmalarda böbrek
+yetmezliği olmayan hastalarla karşılaştırılmıştır (bkz. Bölüm 4.4).
+Karaciğer yetmezliği
+Sofosbuvirin farmakokinetiği orta ila şiddetli karaciğer yetmezliği (Child-Pugh Sınıf B ve C)
+olan HCV-enfekte yetişkin hastalarda 7 günlük 400 mg sofosbuvir dozlamasının ardından
+incelenmiştir. Böbrek fonksiyonu normal olan hastalara kıyasla orta ve şiddetli böbrek
+yetmezliğinde sırasıyla sofosbuvir EAA % 126 ve % 143 daha yüksek bulunmuştur,
+0-24
+GS-331007 EAA ise % 18 ve % 9 daha yüksektir. HCV-enfekte yetişkin hastalarda
+0-24
+popülasyon farmakokinetik analizi, sirozun sofosbuvir ve GS-331007’ye maruziyet üzerinde
+klinik olarak anlamlı bir etkisi olmadığını göstermiştir. Hafif, orta veya şiddetli karaciğer
+yetmezliği olan hastalar için sofosbuvir doz ayarlaması önerilmemektedir (bkz. Bölüm 4.2).
+Pediyatrik popülasyon
+12 yaşından 18 yaşına kadar olan adölesanlarda sofosbuvir ve GS-331007 maruziyeti,
+sofosbuvir (400mg) uygulamasını takiben Faz 2/3 çalışmalarında yetişkinlerden elde edilenlere
+benzerdi. Sofosbuvir ve GS-221007’nin farmakokinetikleri 12 yaşın altındaki pediyatrik
+hastalarda belirlenmemiştir (bkz. Bbölüm 4.2).
+Farmakokinetik/farmakodinamik ilişkiler
+Hızlı virolojik yanıt açısından etkililiğin sofosbuvirin yanı sıra GS 331007'ye maruziyetle
+ilişkili olduğu gösterilmiştir. Ancak bu iki maddenin de 400 mg terapötik dozda etkililik
+(KVY12) için genel bir temsili belirteç olduğu kanıtlanmamıştır.
+5.3 Klinik öncesi güvenlilik verileri
+Sıçanlarda ve köpeklerde yürütülen tekrarlı doz toksikolojisi çalışmalarında, 1:1 diastereomerik
+karışımın yüksek dozları karaciğer (köpekler) ve kalpte (sıçanlar) advers etkilere ve
+gastrointestinal reaksiyonlara (köpekler) neden olmuştur. Kemirgen çalışmalarında,
+muhtemelen yüksek esteraz aktivitesi nedeniyle, sofosbuvire maruziyet saptanamamıştır; ancak
+advers dozda majör metabolit olan GS 331007'ye maruziyet, 400 mg sofosbuvir dozundaki
+klinik maruziyetten 29 kat (sıçanlar) ve 123 kat (köpekler) daha yüksektir. Klinik maruziyetten
+9 kat (sıçanlar) ve 27 kat (köpekler) yüksek maruziyetlerde kronik toksisite çalışmalarında
+karaciğer veya kalp bulguları gözlenmemiştir.
+Sofosbuvir, bakteriyel mutajenisite, insan periferik kan lenfositlerinin kullanıldığı kromozom
+aberasyon testi dahil bir dizi in vitro ve in vivo miktar tayininde ve in vivo fare mikronükleus
+miktar tayininde genotoksik bulunmamıştır.
+Farelerde ve sıçanlarda karsinojenisite çalışmalarında farelerde 600 mg/kg/gün ve sıçanlarda
+750 mg/kg/güne kadar dozlarda uygulanan sofosbuvirde herhangi bir karsinojenisite
+potansiyeli görülmemiştir. Bu çalışmalarda GS 331007'ye maruziyet, 400 mg sofosbuvir
+dozunda klinik maruziyetten 30 kat (fareler) ve 15 kat (sıçanlar) daha yüksektir.
+Sofosbuvir sıçanlarda embriyofetal viabilitesi veya fertilitesi üzerinde hiçbir etki
+göstermemiştir ve sıçan ve tavşan gelişim çalışmalarında teratojenik bulunmamıştır. Sıçanlarda
+yavruların davranışı, üremesi veya gelişimi üzerinde hiçbir advers etki rapor edilmemiştir.
+Tavşan çalışmalarında sofosbuvire maruziyet, beklenen klinik maruziyetten 9 kat yüksektir.
+Sıçan çalışmalarında sofosbuvire maruziyet saptanamamıştır fakat majör insan metabolitine
+dayalı maruziyet marjları 400 mg sofosbuvir dozundaki klinik maruziyetten 8 ila 28 kat daha
+yüksektir.
+33Sofosbuvirden elde edilen materyal, gebe sıçanlarda plasentaya ve emziren sıçanlarda süte
+aktarılmıştır.
+6. FARMASÖTİK ÖZELLİKLER
+6.1 Yardımcı maddelerin listesi
+Tablet çekirdeği:
+Mannitol (E421)
+Mikrokristalin selüloz (E460(i))
+Kroskarmelloz sodyum
+Kolloidal silikon dioksit (E551)
+Magnezyum stearat (E470b)
+Kaplama maddesi:
+Polivinil alkol (E1203)
+Titanyum dioksit (E171)
+Makrogol 3350 (E1521)
+Talk (E553b)
+Sarı demir oksit (E172)
+6.2 Geçimsizlikler
+Geçerli değil.
+6.3 Raf ömrü
+60 ay
+6.4 Saklamaya yönelik özel tedbirler
+25ºC’nin altındaki oda sıcaklığında saklanmalıdır.
+6.5 Ambalajın niteliği ve içeriği
+SOVALDI tablet, polipropilen çocuk emniyetli kapağı bulunan ve bir silika jel desikan ve
+polyester sarmalla birlikte 28 film kaplı tablet içeren yüksek yoğunluklu polietilen (HDPE)
+şişeler içinde tedarik edilir.
+Şu ambalaj boyutları bulunmaktadır: 1 şişe 28 film kaplı tablet içeren kutular ve 84 (28’lik 3
+şişe) film kaplı tablet içeren kutular. Tüm ambalaj boyutları piyasaya sürülmemiş olabilir.
+6.6 Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+Kullanılmayan tüm tıbbi ürün veya atık maddeler “Tıbbi Atıkların Kontrolü Yönetmeliği” ve
+“Ambalaj Atıklarının Kontrolü Yönetmelikleri” uyarınca imha edilmelidir.
+347. RUHSAT SAHİBİ
+Gilead Sciences İlaç Tic. Ltd. Şti.
+İçerenköy Mah. Umut Sk. Quick Tower Sitesi No: 10-12 İç Kapı No: 21
+Ataşehir/İstanbul
+Tel: 0216 559 03 00
+Faks: 0216 504 87 39
+8. RUHSAT NUMARASI(LARI)
+2014/117
+9. İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi: 13 Şubat 2014
+Ruhsat yenileme tarihi: 24 Haziran 2019
+10. KÜB’ÜN YENİLENME TARİHİ
+35

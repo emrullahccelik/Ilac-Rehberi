@@ -1,0 +1,904 @@
+KISA ÜRÜN BİLGİSİ
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+ONEPTUS 24 mg / 26 mg film kaplı tablet
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde:
+Her film kaplı tablet 24,3 mg sakubitril ve 25,7 mg valsartan (sakubitril valsartan sodyum tuz
+kompleksi olarak) içerir.
+Yardımcı maddeler:
+Yardımcı maddeler için bölüm 6.1’e bakınız.
+3. FARMASÖTİK FORM
+Film kaplı tablet.
+Bir yüzünde “NVR”, diğer yüzünde “LZ” baskısı olan, kenarları eğimli, çentiksiz, eflatun,
+oval, bikonveks film kaplı tablet
+4. KLİNİK ÖZELLİKLER
+4.1 Terapötik endikasyonlar
+ONEPTUS, kronik kalp yetersizliği olan erişkin hastalarda kardiyovasküler ölüm ve kalp
+yetersizliği nedeniyle hastaneye yatış riskini azaltmak için endikedir. Yararları en açık şekilde
+sol ventrikül ejeksiyon fraksiyonu (LVEF) normalin altında olan hastalarda görülür.
+4.2 Pozoloji ve uygulama şekli
+Pozoloji:
+ONEPTUS’un hedef dozu günde iki kez 97 mg /103 mg’dır.
+ONEPTUS’un önerilen başlangıç dozu, aşağıda belirtilen durumlar hariç, günde iki kez 49 mg
+/ 51 mg’dır. Hastanın toleransına göre ONEPTUS’un dozu 2-4 haftada bir iki katına
+çıkarılarak günde iki kez 97 mg /103 mg hedef dozuna yükseltilmelidir.
+Eğer hastalar tolerabilite sorunları yaşarsa (sistolik kan basıncı [SKB] ≤ 95 mmHg,
+semptomatik hipotansiyon, hiperkalemi, böbrek fonksiyon bozukluğu), eşzamanlı verilen
+ilaçlarda ayarlama yapılması, ONEPTUS dozunun geçici olarak azaltılması ya da ONEPTUS
+tedavisine ara verilmesi önerilir (bkz. bölüm 4.4).
+Halen bir anjiyotensin-dönüştürücü enzim (ADE) inhibitörü veya anjiyotensin II reseptör
+blokeri (ARB) kullanmayan ya da bu tıbbi ürünlerin düşük dozlarını alan hastalarda günde iki
+kez 24 mg / 26 mg başlangıç dozu ve yavaş doz titrasyonu (3-4 haftada bir iki katına çıkarma)
+önerilir (bkz. bölüm 5.1).
+Serum potasyum düzeyi >5,4 mmol/L veya SKB <100 mmHg olan hastalarda tedavi
+başlatılmamalıdır (bkz. bölüm 4.4). SKB değeri 100-110 mmHg arasında olan hastalarda
+günde iki kez 24 mg / 26 mg başlangıç dozu düşünülmelidir.
+ONEPTUS bir ADE inhibitörü veya bir ARB ile eşzamanlı uygulanmamalıdır. Bir ADE
+inhibitörü ile eş zamanlı uygulandığında potansiyel olarak anjiyoödem riski söz konusu
+olduğundan, ADE inhibitörü tedavisi kesildikten sonra 36 saat geçene kadar ONEPTUS
+tedavisine başlanmamalıdır (bkz. bölüm 4.3, 4.4 ve 4.5).
+ONEPTUS formülasyonunda yer alan valsartanın biyoyararlanımı, piyasada bulunan diğer
+tablet formülasyonlarındakinden daha fazladır (bkz. bölüm 5.2).
+1 / 21Uygulama sıklığı ve süresi:
+Bir doz atlanırsa, hasta ek bir doz almamalı, reçetede belirtilen bir sonraki dozunu almalıdır.
+Uygulama şekli:
+ONEPTUS oral kullanım içindir. Aç veya tok karnına alınabilir (bkz. bölüm 5.2). Tabletler bir
+bardak su ile yutulmalıdır. Tabletler bölünmemeli veya kırılmamalıdır.
+Özel popülasyonlara ilişkin ek bilgiler:
+Böbrek yetmezliği:
+Hafif böbrek bozukluğu (eGFR (Tahmini Glomerüler Filtrasyon Hızı) 60-90 mL/dk/1,73 m2)
+olan hastalar için herhangi bir doz ayarlaması gerekli değildir.
+Orta dereceli böbrek bozukluğu (eGFR 30-60 mL/dk/1,73 m2) olan hastalarda günde iki kez
+24 mg / 26 mg başlangıç dozu düşünülmelidir. Şiddetli böbrek bozukluğu (eGFR < 30
+mL/dk/1,73 m2) olan hastalarda sınırlı veri mevcuttur; bu nedenle bu hastalarda ONEPTUS
+kullanılırken dikkatli olunması ve günde iki kez 24 mg / 26 mg başlangıç dozu kullanılması
+önerilir (bkz. bölüm 5.2).
+Son dönem böbrek hastalığı olan kişilerde deneyim bulunmadığından ONEPTUS kullanımı
+önerilmez.
+Karaciğer yetmezliği:
+Hafif dereceli karaciğer bozukluğu (Child-Pugh A sınıflandırması) olan hastalara ONEPTUS
+uygulanırken herhangi bir doz ayarlaması gerekmemektedir.
+Orta dereceli karaciğer bozukluğu (Child-Pugh B sınıfı) veya AST/ALT değerleri normal
+aralığın üst sınırının iki katından fazla olan hastalarda sınırlı klinik deneyim bulunmaktadır.
+ONEPTUS bu hastalarda dikkatle kullanılmalıdır ve önerilen başlangıç dozu günde iki kez 24
+mg / 26 mg’dır (bkz. bölüm 4.4 ve 5.2).
+Şiddetli karaciğer bozukluğu (Child-Pugh C sınıfı), safra sirozu veya kolestazı olan hastalarda
+kontrendikedir (bkz. bölüm 4.3).
+Pediyatrik popülasyon:
+ONEPTUS’un 18 yaşın altındaki pediyatrik hastalardaki güvenliliği ve etkililiği henüz
+belirlenmemiştir. Veri bulunmamaktadır.
+Geriyatrik popülasyon:
+Doz, yaşlı hastaların böbrek fonksiyonuna göre ayarlanmalıdır.
+4.3 Kontrendikasyonlar
+• Sakubitrile, valsartana veya yardımcı maddelerin herhangi birine aşırı duyarlılık (bkz.
+bölüm 6.1).
+• ADE inhibitörleri ile eşzamanlı kullanım (bkz. bölüm 4.4, bölüm 4.5). ADE inhibitörü
+tedavisi kesildikten sonra 36 saat geçene kadar ONEPTUS uygulanmamalıdır.
+• Önceki ADE inhibitörü veya ARB tedavisine bağlı olarak bilinen anjiyoödem öyküsü
+(bkz. bölüm 4.4).
+• Herediter veya idiyopatik anjiyoödem (bkz. bölüm 4.4).
+• Diyabeti veya böbrek fonksiyon bozukluğu (eGFR < 60 mL/dk/1,73 m2) olan hastalarda
+aliskiren ile eşzamanlı kullanım (bkz. bölüm 4.4 ve 4.5).
+• Şiddetli karaciğer bozukluğu, biliyer siroz ve kolestaz (bkz. bölüm 4.2).
+2 / 21• Gebelikte kontrendikedir (bkz. bölüm 4.6).
+4.4 Özel kullanım uyarıları ve önlemleri
+Renin-Anjiyotensin-Aldosteron Sisteminin (RAAS) ikili blokajı:
+• Duyarlı kişilerde, özellikle bu sistemi etkileyecek kombinasyon kullanımlarında
+hipotansiyon, senkop, inme, hiperkalemi ve renal fonksiyonlarda değişiklikler (akut renal
+yetmezlik dahil) rapor edilmiştir. RAAS’ın dual blokajına yol açtığından ARB veya ADE
+inhibitörlerinin aliskiren ile beraber kullanımı önerilmemektedir. Aliskirenin ARB’ler
+veya ADE inhibitörleri ile beraber kullanımı diyabetes mellitus veya böbrek yetmezliği
+(GFR<60 mL/dak/1,73 m2) olan hastalarda kontrendikedir (bkz. bölüm 4.3).
+• Anjiyoödem riski nedeniyle ONEPTUS, bir ADE inhibitörü ile birlikte uygulanmamalıdır.
+ADE inhibitörü tedavisinin son dozundan sonra 36 saat geçene kadar ONEPTUS
+tedavisine başlanmamalıdır. ONEPTUS ile tedavi durdurulursa, ONEPTUS’un son
+dozundan sonra 36 saat geçene kadar ADE inhibitörü tedavisine başlanmamalıdır (bkz.
+bölüm 4.2, 4.3 ve 4.5).
+• ONEPTUS’un, aliskiren gibi direkt renin inhibitörleri ile birlikte kullanılması önerilmez
+(bkz. bölüm 4.3 ve 4.5). ONEPTUS, diyabeti veya böbrek fonksiyon bozukluğu (eGFR <
+60 mL/dk/1,73 m2) olan hastalarda aliskiren ile birlikte uygulanmamalıdır (bkz. bölüm
+4.3).
+• ONEPTUS’un anjiyotensin II reseptörlerini bloke edici (valsartan) aktivitesi nedeniyle
+ONEPTUS, bir ARB ile bir arada uygulanmamalıdır (bkz. bölüm 4.2 ve 4.5).
+Hipotansiyon:
+SKB ≥ 100 mmHg olmadığı sürece tedaviye başlanmamalıdır. SKB <100 mmHg olan hastalar
+araştırılmamıştır (bkz. bölüm 5.1). Klinik çalışmalar sırasında ONEPTUS ile tedavi edilen
+hastalarda, özellikle de ≥ 65 yaş hastalarda, böbrek hastalığı olanlarda ve SKB değeri düşük
+(<112 mmHg) olan hastalarda semptomatik hipotansiyon vakaları bildirilmiştir (bkz. bölüm
+4.8). ONEPTUS ile tedaviye başlanırken ve doz titrasyonu sırasında kan basıncı rutin olarak
+izlenmelidir. Hipotansiyon gelişirse, dozun geçici olarak düşürülmesi veya ONEPTUS
+tedavisinin durdurulması önerilir (bkz. bölüm 4.2). Diüretiklerin ve eşzamanlı antihipertansif
+ilaçların dozunda ayarlama yapılması ve hipotansiyonun diğer sebeplerinin (örn., hipovolemi)
+tedavi edilmesi düşünülmelidir. Hastada hacim deplesyonu (örn., diüretik tedaviye, diyette tuz
+kısıtlamasına, diyareye ve kusmaya bağlı olarak) söz konusu olmuşsa, semptomatik
+hipotansiyonun ortaya çıkma olasılığı daha fazladır. ONEPTUS ile tedaviye başlanmadan
+önce sodyum ve/veya hacim deplesyonu düzeltilmelidir ancak yapılacak müdahale aşırı hacim
+yüklemesi riskine karşı dikkatle değerlendirilmelidir.
+Böbrek yetmezliği:
+Kalp yetersizliği olan hastaların değerlendirmesi her zaman böbrek fonksiyonunu da
+içermelidir. Hafif ve orta dereceli böbrek bozukluğu olan hastalar hipotansiyon gelişimi
+açısından daha yüksek risk altındadır (bkz. bölüm 4.2). Şiddetli böbrek bozukluğu (tahmini
+GFR <30 mL/dk/1,73m2) olan hastalar ile çok sınırlı klinik deneyim mevcuttur ve bu hastalar
+daha yüksek hipotansiyon riski altında olabilir (bkz. bölüm 4.2). Son dönem böbrek hastalığı
+olan kişilerde deneyim bulunmamaktadır ve ONEPTUS kullanımı önerilmez.
+Böbrek fonksiyonunun kötüleşmesi
+ONEPTUS kullanımı, böbrek fonksiyonunda azalma ile ilişkili olabilir. Dehidratasyon veya
+steroid yapıda olmayan antiinflamatuvar ilaçların (NSAID) kullanımı ile birlikte bu risk daha
+da artabilir (bkz. bölüm 4.5). Böbrek fonksiyonunda klinik olarak anlamlı düşüş gelişen
+hastalarda dozun azaltılması düşünülmelidir.
+3 / 21Hiperkalemi:
+Serum potasyum düzeyi >5,4 mmol/L ise tedaviye başlanmamalıdır. ONEPTUS’un kullanımı
+hiperkalemi riskinde artış ile ilişkili olabilir fakat hipokalemi de görülebilir (bkz. bölüm 4.8).
+Özellikle şiddetli böbrek bozukluğu, diyabet, hipoaldosteronizm gibi risk faktörleri olan ya da
+yüksek oranda potasyum içeren diyet uygulayan veya mineralokortikoid antagonistleri
+kullanan hastalarda olmak üzere, serum potasyum düzeylerinin izlenmesi önerilir (bkz. bölüm
+4.2 Pozoloji ve uygulama şekli). Şayet hasta klinik olarak anlamlı hiperkalemi yaşarsa, eşlik
+eden ilaçların dozunun ayarlanması ya da ONEPTUS dozunun geçici olarak azaltılması veya
+tedavinin kesilmesi göz önünde bulundurulmalıdır. Serum potasyum düzeyi >5,4 mmol/L ise
+tedavinin durdurulması düşünülmelidir.
+Anjiyoödem:
+ONEPTUS ile tedavi edilen hastalarda anjiyoödem bildirilmiştir. Anjiyoödem gelişirse
+ONEPTUS tedavisi derhal kesilmeli; bulgu ve semptomlarda tam ve kalıcı düzelme olana
+kadar uygun tedavi verilmeli ve izlem sürdürülmelidir. ONEPTUS bir daha
+uygulanmamalıdır. Şişliğin yüz ve dudaklar ile sınırlı kaldığı doğrulanmış anjiyoödem
+olgularında bu durum genellikle tedavi verilmeksizin ortadan kalkmışsa da semptomların
+rahatlatılmasında antihistaminikler faydalı olmuştur.
+Larenks ödemi ile ilişkili anjiyoödem ölümcül olabilir. Solunum yolu tıkanmasına neden
+olabilecek dil, glotis veya larenks tutulumunun söz konusu olduğu durumlarda derhal
+subkutan 1 mg/1mL adrenalin çözeltisi (0,3-0,5 mL) gibi uygun bir tedavi ve/veya solunum
+yolunun açık kalmasının sağlanması için gereken önlemler uygulanmalıdır.
+Önceden anjiyoödem öyküsü olan hastalar araştırılmamıştır. Anjiyoödem açısından daha
+yüksek risk altında olduklarından, bu hastalarda ONEPTUS kullanılacaksa dikkatli olunması
+önerilir. Önceki ADE inhibitörü veya ARB tedavisine bağlı olarak bilinen anjiyoödem öyküsü
+olan hastalarda veya kalıtsal veya idiyopatik anjiyoödemi olan hastalarda ONEPTUS
+kullanılmamalıdır (bkz. bölüm 4.3).
+Siyahi hastalarda anjiyoödem gelişimine yatkınlık daha fazladır (bkz. bölüm 4.8).
+Renal arter stenozu olan hastalar:
+ONEPTUS çift veya tek taraflı renal arter stenozu olan hastalarda kan üre ve serum kreatinin
+düzeylerini yükseltebilir. Renal arter stenozu olan hastalarda dikkatli olunması gerekir ve
+böbrek fonksiyonunun izlenmesi önerilir.
+New York Kalp Derneği (NYHA) fonksiyonel sınıf IV hastalar:
+Bu popülasyondaki sınırlı deneyim nedeniyle, NYHA fonksiyonel sınıf IV hastalarda
+ONEPTUS tedavisine başlanırken dikkatli olunmalıdır.
+B tipi natriüretik peptid (BNP):
+Neprilisin substratı olduğundan BNP, ONEPTUS ile tedavi edilen hastalarda kalp yetersizliği
+için uygun bir belirteç değildir (bkz. bölüm 5.1).
+Karaciğer bozukluğu olan hastalar:
+Orta dereceli karaciğer bozukluğu (Child-Pugh B sınıfı) veya AST/ALT değerleri normal
+aralığın üst sınırının iki katından fazla olan hastalarda klinik deneyim sınırlıdır. Bu hastalarda
+maruziyet daha yüksek olabilir ve güvenlilik kanıtlanmamıştır. Bu nedenle, bu hastalarda
+ONEPTUS kullanılırken dikkatli olunması önerilir (bkz. bölüm 4.2 ve 5.2). ONEPTUS
+şiddetli karaciğer bozukluğu, biliyer sirozu veya kolestazı (Child-Pugh C sınıfı) olan
+hastalarda kontrendikedir (bkz. bölüm 4.3).
+4 / 21Psikiyatrik bozukluklar
+Psikotik olaylar bağlamında halüsinasyonlar, paranoya ve uyku bozuklukları gibi psikiyatrik
+olaylar, sakubitril/valsartan kullanımı ile ilişkilendirilmiştir. Bir hasta bu tür olaylar yaşarsa,
+sakubitril/valsartan tedavisinin kesilmesi düşünülmelidir.
+4.5 Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+Kontrendikasyona neden olan etkileşimler
+ADE inhibitörleri
+ONEPTUS’un ADE inhibitörleri ile eşzamanlı uygulanması kontrendikedir; zira neprilisin
+(NEP) ve ADE inhibitörü tedavisinin eşzamanlı inhibisyonu, anjiyoödem riskini artırabilir.
+ADE inhibitörü tedavisinin son dozundan sonra 36 saat geçene kadar ONEPTUS tedavisine
+başlanmamalıdır. ONEPTUS’un son dozundan sonra 36 saat geçene kadar ADE inhibitörü
+tedavisine başlanmamalıdır (bkz. bölüm 4.2 ve 4.3).
+Aliskiren
+Diyabeti veya böbrek fonksiyon bozukluğu (eGFR < 60 mL/dk/1,73 m2) olan hastalarda
+ONEPTUS’un aliskiren ile birlikte kullanılması kontrendikedir (bkz. bölüm 4.3).
+ONEPTUS’un aliskiren gibi direkt renin inhibitörleri birlikte kullanılması önerilmez (bkz.
+bölüm 4.4). ONEPTUS’un aliskiren ile kombinasyonu; hipotansiyon, hiperkalemi ve böbrek
+fonksiyonunda azalma (akut böbrek yetmezliği dahil) gibi advers reaksiyonların potansiyel
+olarak daha yüksek sıklıkta görülmesi ile ilişkilidir (bkz. bölüm 4.3 ve 4.4).
+Eşzamanlı kullanımın önerilmemesine neden olan öngörülen etkileşimler
+ONEPTUS valsartan içerir ve bu nedenle başka bir ARB ile bir arada uygulanmamalıdır (bkz.
+bölüm 4.4).
+Önlem gerektiren etkileşimler
+OATP1B1 ve OATP1B3 substratları, örn.statinler
+İn vitro veriler sakubitrilin OATP1B1 ve OATP1B3 taşıyıcılarını inhibe ettiğine işaret
+etmektedir. Dolayısıyla ONEPTUS, statinler gibi OATP1B1 ve OATP1B3 substratlarının
+sistemik maruziyetini artırabilir. ONEPTUS’un eşzamanlı uygulanması atorvastatin ve
+metabolitlerinin C değerini 2 kata kadar ve EAA değerini 1,3 kata kadar
+maks
+artırmıştır. Dolayısıyla, ONEPTUS’un statinler ile bir arada uygulanmasında dikkatli
+olunmalıdır. ONEPTUS simvastatin ile bir arada uygulandığında klinik olarak anlamlı
+herhangi bir etkileşim görülmemiştir.
+Sildenafil dahil PDE5 inhibitörleri
+Hipertansiyon hastalarında sildenafilin tek dozunun kararlı durumda ONEPTUS’a eklenmesi,
+ONEPTUS’un tek başına uygulanması ile karşılaştırıldığında kan basıncında daha büyük bir
+düşüşle ilişkilendirilmiştir. Bu nedenle, ONEPTUS ile tedavi edilen hastalarda sildenafil veya
+başka bir PDE-5 inhibitörü ile tedavi başlatıldığında dikkatli olunmalıdır.
+Potasyum
+Potasyum tutucu diüretiklerin (örn., triamteren, amilorid), mineralokortikoid antagonistlerinin
+(örn., spironolakton, eplerenon), potasyum desteklerinin ve potasyum içeren tuz yerine geçen
+maddelerin ve diğer ajanların (örn. heparin) eşzamanlı kullanımı, serum potasyum düzeyinde
+yükselmelere ve serum kreatinin düzeylerinde artışa yol açabilir. Eğer ONEPTUS bu ajanlarla
+bir arada uygulanacaksa, serum potasyum düzeylerinin izlenmesi önerilir (bkz. bölüm 4.4).
+5 / 21Steroid yapıda olmayan anti-inflamatuvar ajanlar (NSAİİ’ler) (selektif siklooksijenaz-2
+inhibitörleri [COX-2 İnhibitörleri] dahil
+Yaşlı hastalarda, hacim deplesyonu olan hastalarda (diüretik tedavi görmekte olan hastalar
+dahil) veya böbrek fonksiyonu riskli olan hastalarda ONEPTUS’un ve NSAİİ’lerin eşzamanlı
+kullanımı sonucunda böbrek fonksiyonunda kötüleşme riskinde artış olabilir. Bu nedenle,
+ONEPTUS tedavisinin yanı sıra NSAİİ alan hastalarda tedaviye başlanırken veya tedavi
+düzenlenirken böbrek fonksiyonunun takibi önerilmektedir (bkz. Bölüm 4.4).
+Lityum
+Lityum ile ADE inhibitörleri veya anjiyotensin II reseptör antagonistleri birlikte
+kullanıldığında serum lityum konsantrasyonlarında artışlar ve toksisite bildirilmiştir. Bu
+nedenle, bu kombinasyon önerilmemektedir. Birlikte kullanımları zorunlu olduğunda serum
+lityum düzeylerinin dikkatle izlenmesi önerilir. Eğer bir diüretik de kullanılacaksa, lityum
+toksisitesi riski daha da artabilir.
+Furosemid
+ONEPTUS ve furosemidin birlikte uygulanmasının, ONEPTUS farmakokinetiği üzerinde bir
+etkisi olmamıştır fakat furosemidin C ve EAA değerlerini sırasıyla %50 ve %28
+maks
+azaltmıştır. İdrar hacminde bir değişiklik olmamıştır ancak eşzamanlı uygulamadan sonraki 4
+saat ve 24 saat içinde idrarla sodyum atılımı azalmıştır. ONEPTUS ile tedavi edilen hastalarda
+PARADIGM-HF çalışmasının başlangıcından sonuna kadar ortalama günlük furosemid
+dozunda değişiklik olmamıştır.
+Nitratlar, örn. Nitrogliserin
+ONEPTUS ile intravenöz yolla uygulanan nitrogliserin arasında, kan basıncında azalma
+açısından klinik olarak anlamlı herhangi bir etkileşim söz konusu olmamıştır. Nitrogliserin ile
+ONEPTUS’un bir arada uygulanması, tek başına nitrogliserin uygulaması ile
+karşılaştırıldığında kalp atım hızında 5 atım/dakika’lık bir fark ile ilişkilendirilmiştir.
+ONEPTUS dilaltı, oral veya transdermal nitratlar ile birlikte kullanıldığında kalp atım hızında
+benzer bir etki ortaya çıkabilir. Genel olarak herhangi bir doz ayarlaması gerekli değildir.
+OATP ve MRP2 taşıyıcıları
+Sakubitrilin aktif metaboliti (LBQ657) ve valsartan OATP1B1, OATP1B3, OAT1 ve OAT3
+substratlarıdır; valsartan ayrıca MRP2 substratıdır. Bu nedenle, ONEPTUS’un OATP1B1,
+OATP1B3, OAT3 (örn., rifampisin, siklosporin), OAT1 (örn. tenofovir, sidofovir) veya
+MPR2 inhibitörleri (örn., ritonavir) ile bir arada uygulanması LBQ657 veya valsartan sistemik
+maruziyetini artırabilir. Bu gibi ilaçlarla tedaviye başlanırken veya tedavi sonlandırılırken
+gerekli dikkat gösterilmelidir.
+Metformin
+ONEPTUS’un metformin ile birlikte uygulanması metforminin hem C hem de EAA
+maks
+değerini %23 düşürmüştür. Bu bulgunun klinik önemi bilinmemektedir. Bu nedenle,
+metformin kullanan hastalarda ONEPTUS ile tedaviye başlanırken hastanın klinik durumu
+değerlendirilmelidir.
+Anlamlı olmayan etkileşimler
+ONEPTUS’un ve digoksin, varfarin, hidroklorotiyazid, amlodipin, omeprazol, karvedilol veya
+levonorgestrel/etinil estradiol kombinasyonu ile birlikte kullanıldığında klinik olarak anlamlı
+herhangi bir etkileşim gözlenmemiştir.
+6 / 21Özel popülasyonlara ilişkin ek bilgiler
+Böbrek yetmezliği
+Böbrek yetmezliği olan hastalarla ilgili bir etkileşim çalışması yapılmamıştır.
+Karaciğer yetmezliği
+Karaciğer yetmezliği olan hastalarla ilgili bir etkileşim çalışması yapılmamıştır.
+Pediyatrik popülasyon:
+Pediyatrik hastalarla ilgili bir etkileşim çalışması yapılmamıştır.
+4.6 Gebelik ve laktasyon
+Genel tavsiye
+Gebelik kategorisi D.
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon)
+Çocuk doğurma potansiyeli bulunan kadınlar ONEPTUS ile tedavi süresince ve son
+dozlarından sonraki 1 hafta boyunca etkili doğum kontrol yöntemleri kullanmalıdır.
+Gebelik dönemi
+ONEPTUS, gebeliğin ilk üç ayında önerilmez; gebeliğin ikinci ve üçüncü üç aylık
+dönemlerinde kontrendikedir (bkz. bölüm 4.3).
+Valsartan
+Gebeliğin ilk üç ayında ADE inhibitörlerine maruziyet sonrasındaki teratojenisite riskine
+ilişkin epidemiyolojik kanıtlar kesin bir sonuca işaret etmemektedir, ancak küçük bir artışı
+olasılık dışı bırakılamamaktadır. ARB’ler ile ilişkili riske dair kontrollü epidemiyolojik veriler
+olmamakla birlikte, bu tıbbi ürün sınıfı için de benzer riskler bulunabilir. ARB tedavisine
+devam edilmesi zorunlu değilse; gebelik planlayan hastalar, gebelikte kullanımının güvenli
+olduğu gösterilmiş alternatif antihipertansif tedavilere geçirilmelidir. Gebelik tanısı
+konulduğunda, ARB’ler ile tedavi hemen durdurulmalı ve alternatif bir tedaviye
+başlanmalıdır. Gebeliğin ikinci ve üçüncü üç aylık dönemlerinde ARB’lere maruziyetin
+insanlarda fetotoksisiteye (böbrek fonksiyonunda azalma, oligohidramniyoz ve kafatası
+osifikasyonu geriliği) ve neonatal toksisiteye (böbrek yetmezliği, hipotansiyon, hiperkalemi)
+neden olduğu bilinmektedir.
+Gebeliğin ikinci üç aylık döneminden itibaren ARB’lere maruziyet söz konusu olmuşsa,
+böbrek fonksiyonunun ve kafatasının USG ile incelenmesi önerilir. Anneleri ARB kullanmış
+olan bebekler hipotansiyon açısından yakından izlenmelidir (bkz. bölüm 4.3).
+Sakubitril
+Gebe kadınlarda sakubitril kullanımı hakkında veri bulunmamaktadır. Hayvanlarla
+gerçekleştirilen çalışmalar üreme toksisitesi göstermiştir (bkz. bölüm 5.3).
+Sakubitril/Valsartan
+ONEPTUS’un gebe kadınlarda kullanımı hakkında veri bulunmamaktadır. ONEPTUS ile
+gerçekleştirilen hayvan çalışmaları üreme toksisitesi göstermiştir (bkz. bölüm 5.3).
+Laktasyon dönemi
+ONEPTUS’un insan sütü ile atılıp atılmadığı bilinmemektedir. ONEPTUS’un bileşenleri olan
+sakubitril ve valsartan, laktasyondaki sıçanların sütü ile atılmıştır (bkz. bölüm 5.3). Emzirilen
+yenidoğanlarda/bebeklerde advers ilaç reaksiyonları potansiyeli nedeniyle, emzirme sırasında
+ONEPTUS önerilmemektedir. ONEPTUS’un anne için faydası dikkate alınarak, emzirmeden
+7 / 21kaçınılıp kaçınılmayacağı veya emzirme sırasında ONEPTUS tedavisinin kesilip
+kesilmeyeceği yönünde bir karar verilmelidir.
+Üreme yeteneği/Fertilite
+ONEPTUS’un insan fertilitesi üzerindeki etkisine dair mevcut veri yoktur. Erkek ve dişi
+sıçanlarda ONEPTUS ile yürütülen çalışmalarda fertilitede herhangi bir bozukluk
+gösterilmemiştir (bkz. bölüm 5.3).
+4.7 Araç ve makine kullanımı üzerindeki etkiler
+Araç ve makine kullanma yeteneği üzerinde minör etkiye sahiptir.
+Araç ve makine kullanma durumlarında, seyrek olarak baş dönmesi ve yorgunluk
+görülebileceği konusunda dikkatli olunmalıdır.
+4.8 İstenmeyen etkiler
+Güvenlilik profilinin özeti:
+ONEPTUS ile tedavi sırasında en yaygın olarak bildirilen advers reaksiyonlar hipotansiyon
+(%17,6), hiperkalemi (%11,6) ve böbrek bozukluğu (%10,1) olmuştur (bkz. bölüm 4.4).
+ONEPTUS ile tedavi edilen hastalarda anjiyoödem (%0,5) bildirilmiştir (bkz. seçili advers
+reaksiyonların tanımı).
+ONEPTUS’un kronik kalp yetersizliği olan hastalardaki güvenliliği, günde iki kez ONEPTUS
+97 mg/103 mg (n=4.203) veya enalapril 10 mg (n=4.229) ile tedavi edilen hastaların
+karşılaştırıldığı PARADIGM-HF pivot faz 3 çalışmasında değerlendirilmiştir. ONEPTUS
+koluna randomize edilen hastalar 4,3 yıla kadar süreyle tedavi görmüş olup ortanca maruziyet
+süresi 24 aydır; 3.271 hasta bir yıldan uzun süreyle tedavi edilmiştir.
+PARADIGM-HF çalışmasında hastalar önceden ADE inhibitörleri ve/veya ARB’ler ile tedavi
+edilmiş, ayrıca randomize çift kör dönem öncesinde ardışık enalapril ve ONEPTUS alıştırma
+fazını (medyan ilaç maruziyet sırasıyla 15 ve 29 gün) başarıyla tamamlamıştır. Enalapril
+alıştırma fazında, 1.102 hasta (%10,5) çalışmadan ayrılmıştır; %5,6 hastada çalışmayı bırakma
+nedeni advers reaksiyondur: En yaygın görülenler böbrek fonksiyon bozukluğu (%1,7),
+hiperkalemi (%1,7) ve hipotansiyon (%1,4). ONEPTUS alıştırma fazında hastaların %10,4’ü
+çalışmadan ayrılmış olup hastaların %5,9’unda sebep advers reaksiyondur: En yaygın
+görülenler böbrek fonksiyon bozukluğu (%1,8), hipotansiyon (%1,7) ve hiperkalemi (%1,3)
+olmuştur. Alıştırma döneminde çalışmadan ayrılan hastalar nedeniyle aşağıdaki listede
+sunulan advers reaksiyon oranları, klinik pratikte beklenen advers reaksiyon oranlarından
+düşük olabilir.
+PARADIGM-HF çalışmasının çift kör döneminde ONEPTUS ile tedavi edilen 450 (%10,7) ve
+enalapril alan 516 (%12,2) hasta advers reaksiyon nedeniyle çalışmadan ayrılmıştır.
+Advers ilaç reaksiyonları Sistem Organ Sınıfına ve ardından sıklığa göre, en sık reaksiyon ilk
+belirtilecek şekilde, aşağıdaki sistem kullanılarak sıralanmıştır: çok yaygın (≥1/10); yaygın
+(≥1/100 ila <1/10); yaygın olmayan (≥1/1,000 ila <1/100); seyrek (≥1/10,000 ila <1/1,000);
+çok seyrek (<1/10,000) (izole raporlar dahil). Her bir sıklık gruplandırması içinde advers
+olaylar azalan ciddilik derecesine göre sıralanmaktadır.
+Liste 1 Advers İlaç Reaksiyonları
+Kan ve lenf sistemi hastalıkları
+Yaygın: Anemi
+Bağışıklık sistemi hastalıkları
+Yaygın olmayan: Aşırı duyarlılık
+8 / 21Metabolizma ve beslenme hastalıkları
+Çok yaygın: Hiperkalemi*
+Yaygın: Hipokalemi, hipoglisemi
+Yaygın olmayan: Hiponatremi
+Psikiyatrik hastalıklar
+Seyrek: Halüsinasyonlar**, uyku bozuklukları
+Çok seyrek: Paranoya
+Sinir sistemi hastalıkları
+Yaygın: Sersemlik hali, baş ağrısı, senkop
+Yaygın olmayan: Postüral sersemlik hali
+Kulak ve iç kulak hastalıkları
+Çok yaygın: Vertigo
+Vasküler hastalıklar
+Çok yaygın: Hipotansiyon*
+Yaygın: Ortostatik hipotansiyon
+Solunum, göğüs hastalıkları ve mediastinal hastalıklar
+Yaygın: Öksürük
+Gastrointestinal hastalıklar
+Yaygın: Diyare, bulantı, gastrit
+Deri ve deri altı doku hastalıkları
+Yaygın olmayan: Kaşıntı, döküntü, anjiyoödem*
+Böbrek ve idrar yolu hastalıkları
+Çok yaygın: Böbrek bozukluğu
+Yaygın: Böbrek yetmezliği (böbrek yetmezliği, akut böbrek yetmezliği)
+Genel bozukluklar ve uygulama bölgesine ilişkin hastalıklar
+Yaygın: Yorgunluk, asteni
+*bkz. seçili advers reaksiyonların tanımı.
+**işitsel ve görsel halüsinasyonlar dahil
+Seçili advers reaksiyonların tanımı
+Anjiyoödem
+ONEPTUS ile tedavi edilen hastalarda anjiyoödem bildirilmiştir. PARADIGM-HF
+çalışmasında anjiyoödem, ONEPTUS ile tedavi edilen hastaların %0,5’inde, enalapril ile
+tedavi edilen hastaların ise %0,2’sinde bildirilmiştir. ONEPTUS (%2,4) ve enalapril (%0,5) ile
+tedavi edilen Siyahi hastalarda daha yüksek bir anjiyoödem insidansı gözlenmiştir (bkz.
+bölüm 4.4).
+9 / 21Hiperkalemi ve serum potasyum
+PARADIGM-HF çalışmasında, hiperkalemi ve >5,4 mmol/L serum potasyum
+konsantrasyonları ONEPTUS ile tedavi edilen hastaların sırasıyla %11,6’sı ve %19,7’sinde;
+enalapril ile tedavi edilenlerin ise sırasıyla %14,0’ü ve %21,1’inde bildirilmiştir.
+Kan basıncı
+PARADIGM-HF çalışmasında, hipotansiyon ve klinik açıdan anlamlı düşük sistolik kan
+basıncı (<90 mmHg ve başlangıca göre >20 mmHg azalma), ONEPTUS ile tedavi edilen
+hastaların sırasıyla %17,6 ve %4,76’sında, enalapril ile tedavi edilen hastaların ise %11,9 ve
+%2,67’sinde bildirilmiştir.
+Böbrek bozukluğu
+PARADIGM-HF çalışmasında böbrek bozukluğu, ONEPTUS ile tedavi edilen hastaların
+%10,1’inde, enalapril ile tedavi edilen hastaların ise %11,5’inde bildirilmiştir.
+PARAGON-HF çalışmasında daha önceki çalışmalardakilere ek herhangi bir yeni advers
+reaksiyon bildirilmemiştir.
+Şüpheli advers reaksiyonların raporlanması:
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar / risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir. (www.titck.gov.tr; e-
+posta: tufam@titck.gov.tr; tel: 0 800 314 00 08; faks: 0 312 218 35 99)
+4.9 Doz aşımı ve tedavisi
+İnsanlarda ONEPTUS ile doz aşımına dair sınırlı veri mevcuttur. Sağlıklı gönüllülerde
+ONEPTUS’un 583 mg sakubitril/617 mg valsartan’lık tek dozu ve 437 mg sakubitril/463 mg
+valsartan’lık çoklu dozları (14 gün) çalışılmıştır ve iyi tolere edilmiştir.
+ONEPTUS’un kan basıncını düşürücü etkisi nedeniyle doz aşımının en olası semptomu
+hipotansiyondur. Semptomatik tedavi verilmelidir.
+Yüksek oranda proteine bağlanması nedeniyle ONEPTUS’un hemodiyaliz ile uzaklaştırılması
+olası değildir (bkz. bölüm 5.2).
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1 Farmakodinamik özellikler
+Farmakoterapötik grup: Renin-anjiyotensin sistemi üzerinde etki eden ajanlar; anjiyotensin II
+reseptör blokerleri (ARB’ler) ve kombine formları, valsartan ve sakubitril
+ATC kodu: C09DX04
+Etki mekanizması
+ONEPTUS, eşzamanlı olarak bir anjiyotensin reseptörü olan neprilisini (nötral endopeptidaz;
+NEP) ön ilaç sakubitrilin aktif metaboliti olan LBQ657 yoluyla inhibe etmek ve anjiyotensin
+II tip 1 (AT1) reseptörünü valsartan ile bloke etmek suretiyle anjiyotensin reseptörü neprilisin
+inhibitörü etki mekanizması sergiler. ONEPTUS’un kalp yetersizliği olan hastalardaki
+tamamlayıcı kardiyovasküler faydaları natriüretik peptidler (NP) gibi, neprilisin tarafından
+parçalanan peptidlerin LBQ657 tarafından korunmasına ve eşzamanlı olarak anjiyotensin
+II’nin zararlı etkilerinin valsartan tarafından inhibisyonuna bağlanmaktadır. NP’ler etkilerini
+membrana bağlanan guanilil siklaza bağlı reseptörü aktive ederek gösterir ve bunun
+sonucunda ikincil mesajcı siklik guanozin monofosfat (cGMP) konsantrasyonlarını artırarak
+ve bu şekilde vazodilatasyonu, natriürezi ve diürezi, artmış glomerüler filtrasyon hızını ve
+10 / 21renal kan akışını, renin ve aldosteron salımının inhibisyonunu, sempatik aktivitenin azalmasını
+ve anti-hipertrofik ve anti-fibrotik etkilerin azalmasını destekleyerek gösterir.
+Valsartan, AT1 reseptörünü selektif olarak bloke ederek anjiyotensin II’nin zararlı
+kardiyovasküler ve renal etkilerini inhibe eder ve ayrıca anjiyotensin II’ye bağımlı aldosteron
+salımını da inhibe eder. Bu sayede vasokonstiksiyona, renal sodyum ve sıvı tutulumuna, hücre
+büyümesi ve proliferasyonunun aktivasyonuna ve buna bağlı maladaptif kardiyovasküler
+remodelling neden olacak renin-anjiyotensin-aldosteron sisteminin sürekli aktivasyonu
+önlenir.
+Farmakodinamik etkiler:
+ONEPTUS’un farmakodinamik etkileri sağlıklı gönüllülerde ve kalp yetersizliği olan
+hastalarda tek ve çoklu doz uygulamalarından sonra değerlendirilmiştir ve eşzamanlı
+neprilisin inhibisyonu ve RAAS blokajı ile uyumludur. Ejeksiyon fraksiyonu azalmış (DEF-
+KY: Düşük ejeksiyon fraksiyonlu kalp yetersizliği) hastalarda valsartan kontrollü 7 günlük bir
+çalışmada, valsartan ile karşılaştırıldığında ONEPTUS uygulaması, natriürezde anlamlı fakat
+sürekli olmayan artış, idrar cGMP değerinde artış ve plazma MR-proANP (orta bölge pro-
+atriyal natriüretik peptid) ve NT-proBNP (N terminal prohormon beyin natriüretik peptid)
+değerlerinde azalma ile sonuçlanmıştır. DEF-KY hastalarındaki 21 günlük bir çalışmada
+ONEPTUS, başlangıç değerlerine göre idrar ANP (atriyal natriüretik peptid) ve cGMP ile
+plazma cGMP değerini anlamlı düzeyde artırmış; plazma NT-proBNP, aldosteron ve
+endotelin-1 düzeylerini düşürmüştür. ONEPTUS ayrıca plazma renin aktivitesindeki ve
+plazma renin konsantrasyonlarındaki artıştan anlaşıldığı üzere AT1-reseptörünü bloke
+etmiştir. PARADIGM-HF çalışmasında, ONEPTUS, enalapril ile karşılaştırıldığında, plazma
+NT-proBNP değerini düşürmüş ve plazma BNP ve idrar cGMP değerlerini yükseltmiştir. BNP
+bir neprilisin substratı iken, NT-proBNP neprilisin substratı değildir. Bu nedenle, ONEPTUS
+ile tedavi edilen kalp yetersizliği hastalarının izleminde NT-proBNP uygun bir biyolojik
+belirteçtir (BNP değildir).
+LVEF ≥ %45 olan kalp yetersizliği olan hastalarda günde iki kez 97/103 mg ONEPTUS
+(n=149) ile 160 mg valsartanı (n=152) karşılaştıran randomize, çift kör, 36 haftalık bir çalışma
+olan PARAMOUNT’ta 12. haftada ONEPTUS, NT-proBNP’yi %17 azaltırken valsartan, NT-
+proBNP’yi %8 artırmıştır (p = 0,005).
+PARAGON-HF’de ONEPTUS NT-proBNP’yi %24 (16. Hafta) ve %19 (48. Hafta) oranında
+azaltırken bu değerler valsartan ile sırasıyla %6 ve %3 olmuştur.
+QT Uzaması: Sağlıklı erkek gönüllülerde yürütülen detaylı bir QTc klinik çalışmasında tek
+doz olarak uygulanan 194 mg sakubitril / 206 mg valsartan ve 583 mg sakubitril / 617 mg
+valsartan ONEPTUS’un kardiyak repolarizasyon üzerinde herhangi bir etkisi olmamıştır.
+Neprilisin, amiloid-β’nin (Aβ) beyin ve beyin-omurilik sıvısından (BOS) temizlenmesinde
+rolü olan çok sayıda enzimden biridir. Sağlıklı gönüllülere 2 hafta süreyle ONEPTUS’un
+günde bir kez 194 mg sakubitril / 206 mg valsartan dozunda uygulanması, plasebo ile
+karşılaştırıldığında BOS Aβ 1-38 değerinde artış ile ilişkilendirilmiştir; BOS Aβ 1-40 ve 1-42
+konsantrasyonlarında herhangi bir değişiklik olmamıştır. Bu bulgunun klinik anlamı
+bilinmemektedir (bkz. bölüm 5.3).
+Kan Basıncı: Hipertansiyonlu hastalarda kararlı durumda ONEPTUS’a 50 mg tek doz
+sildenafil eklenmesi (5 gün boyunca günde bir kez 194 mg sakubitril/206 mg valsartan), tek
+başına ONEPTUS uygulamasına kıyasla, ilave kan basıncı (KB) düşüşü (~5/4 mmHg,
+sistolik/diyastolik KB) ile ilişkilendirilmiştir.
+ONEPTUS’un birlikte uygulanması, intravenöz nitrogliserinin BP etkisini önemli ölçüde
+değiştirmemiştir.
+11 / 21Klinik etkililik ve güvenlilik:
+PARADIGM-HF (enalaprile karşı) ve PARAGON-HF (valsartana karşı) klinik çalışmalarında
+toplam 6.622 kalp yetersizliği hastası ONEPTUS ile tedavi edilmiştir. Bunlardan 5.085’inde
+maruziyet süresi en az 1 yıl olmuştur.
+PARADIGM-HF
+PARADIGM-HF, 8.442 hastayı içeren çok uluslu, randomize, çift kör bir çalışma olup NYHA
+sınıf II – IV kronik kalp yetersizliği ve sistolik disfonksiyonu (sol ventriküler ejeksiyon
+fraksiyonu ≤%40; daha sonra ≤%35 olarak düzeltilmiştir) olan hastalara, her ikisi de başka
+kalp yetersizliği tedavilerine ek olarak verilen ONEPTUS ile enalaprili karşılaştırmıştır.
+Birincil birleşik sonlanım noktası kardiyovasküler ölüm veya kalp yetersizliği sebebiyle
+hastaneye yatış olmuştur. SKB değeri <100 mmHg, şiddetli böbrek bozukluğu (eGFR <30
+mLl/dk/1,73 m2) ve şiddetli karaciğer bozukluğu olan hastalar tarama sırasında çalışmadan
+hariç tutulmuş dolayısıyla prospektif olarak incelenmemişlerdir.
+Çalışmaya katılmadan önce hastalar, ADE inhibitörleri/ARB’leri (>%99), beta-blokerleri
+(%94), mineralokortikoid antagonistlerini (%58) ve diüretikleri (%82) içeren standart
+tedaviler ile iyi düzeyde tedavi edilmiştir. Medyan takip süresi 27 ay olup hastalar 4,3 yıla
+varan sürelerle tedavi edilmiştir.
+Hastaların mevcut ADE inhibitörü veya ARB tedavilerini bırakmaları gerekmiştir ve hastalar,
+günde iki kez 10 mg enalapril, daha sonra günde iki kez 100 mg ve ardından günde iki kez
+200 mg’a artırılan ONEPTUS ile tedavi edildikleri ardışık, tek kör alıştırma fazına
+girmişlerdir (bu dönemde çalışmadan ayrılmalar için bkz. bölüm 4.8). Hastalar daha sonra
+günde iki kez ONEPTUS 200 mg (n=4.209) veya enalapril 10 mg (n=4.233) alacakları çift
+kör fazına randomize edilmiştir.
+İncelenen popülasyonun ortalama yaşı 64 olup %19’u 75 yaş ve üzeridir. Randomize
+edildikleri tarihte hastaların %70’i NYHA Sınıf II ve %24’ü Sınıf II-I ve %0,7’si IV’tür
+Ortalama sol ventrikül ejeksiyon fraksiyonu %29 olup 963 (%11,4) hastanın sol ventrikül
+ejeksiyon fraksiyonu >%35 ve ≤%40’tır.
+ONEPTUS grubunda hastaların %76’sı çalışmanın sonunda hedef doz olan günde iki kez 200
+mg dozunda kalmıştır (ortalama günlük doz 375 mg). Enalapril grubunda hastaların %75’i
+çalışmanın sonunda hedef doz olan günde iki kez 10 mg dozunda kalmıştır (ortalama günlük
+doz 18,9 mg).
+ONEPTUS, kardiyovasküler ölüm riskini veya kalp yetersizliğine bağlı hastaneye yatışları
+%21,8’e indirmiş ve enalaprile göre üstün (enalapril için %26,5) bulunmuştur. Mutlak risk
+azalması birleşik KV ölüm veya kalp yetersizliğine bağlı hastaneye yatış sonlanımı için %4,7,
+tek başına KV ölüm için %3,1 ve tek başına kalp yetersizliğine bağlı hastaneye yatış için %2,8
+olmuştur. Rölatif risk azalması enalapril karşısında %20 olmuştur (bkz. Tablo 1). Bu etki
+erken dönemde görülmüş ve çalışma boyunca devam etmiştir (bkz. Şekil 1). Her iki bileşen
+risk azalmasına katkıda bulunmuştur (bkz. Tablo 1).Ani ölüm, kardiyovasküler ölümlerin
+%45’ini oluşturmuştur ve enalapril ile tedavi edilen hastalar ile karşılaştırıldığında ONEPTUS
+ile tedavi edilen hastalarda %20 oranında düşmüştür (Tehlike oranı (HR) 0,80, p= 0,0082).
+Pompa yetmezliği, kardiyovasküler ölümlerin %26’sından sorumlu olmuştur ve enalapril ile
+tedavi edilen hastalar ile karşılaştırıldığında ONEPTUS ile tedavi edilen hastalarda %21
+oranında azaltılmıştır (HR 0,79, p = 0,0338).
+Yaş, cinsiyet, ırk, coğrafi bölge, NYHA sınıfı (II/III), ejeksiyon fraksiyonu, böbrek
+fonksiyonu, diyabet veya hipertansiyon öyküsü, kalp yetersizliği öyküsü ve atriyal
+fibrilasyonu içeren farklı alt gruplarda riskte tutarlı azalma gözlenmiştir.
+12 / 21ONEPTUS, tüm nedenlere bağlı mortalitede %2,8’lik anlamlı azalma ile sağkalımı
+iyileştirmiştir (ONEPTUS %17, enalapril %19,8). ONEPTUS ayrıca enalaprile kıyasla tüm
+nedenlere bağlı mortaliteyi %16 oranında azaltmıştır.
+Tablo 1 Birincil birleşik sonlanım noktası, bileşenleri ve tüm nedenlere bağlı
+mortalite için tedavi etkisi
+ONEPTUS E nalapril T e hlike Bağıl p
+N = 4187♯ N = 4212♯ o r a n ı risk
+değeri ***
+n (%) n (%) (%95 GA) azalması
+Kardiyovasküler 914 (21,83) 1117 0,80 (0,73, %20 0,0000002
+ölüm ve kalp (26,52) 0,87)
+yetersizliğine bağlı
+hastaneye yatıştan
+oluşan birincil
+kompozit sonlanım
+noktası *
+Birincil sonlanım noktasının ayrı bileşenleri
+Kardiyovasküler 558 (13,33) 693 (16,45) 0,80 (0,71, %20 0,00004
+ölüm ** 0,89)
+Kalp yetersizliğine 537 (12,83) 658 (15,62) 0,79 (0,71, %21 0,00004
+bağlı ilk hastaneye 0,89)
+yatış
+İkincil sonlanım noktası
+Tüm nedenlere 711 (16,98) 835 (19,82) 0,84 (0,76, %16 0,0005
+bağlı mortalite 0,93)
+*Birincil sonlanım noktası, ilk olaya kadar geçen süre olarak tanımlanmıştır.
+** KV ölüm, önceden hastane yatıp yatmaması fark etmeksizin veri kesme tarihine kadar ölen
+tüm hastaları içerir
+*** Tek yönlü p değeri
+♯ Tam analiz seti
+13 / 21Şekil 1 Birincil birleşik sonlanım noktası ve kardiyovasküler ölüm bileşeni için
+Kaplan-Meier eğrileri
+Time to First Occurrence of CV Death or
+Heart Failure Hospitalizations in PARADIGM-HF
+40
+30 Enalapril(N=4212) TRADENAME(N=4187)
+20 P<0.0001 HR (95%CI): 10 0.798 (0.731, 0.871)
+0
+0 180 360 540 720 900 1080 1260
+Time since randomization (days)
+14 / 21
+evitalumuc
+fo etamitse
+MK
+)%( etar
+eruliaf
+Time to Occurrence of CV death in PARADIGM-HF
+40 P<0.0001
+30 Enalapril (N=4212) HR (95%CI): 0.799 (0.715, 0.893) TRADENAME (N=4187)
+20 10
+0
+0 180 360 540 720 900 1080 1260
+Time since randomization (days) No. at risk
+TRADENAME 4187 3922 3663 3018 2257 1544 896 249
+Enalapril 4212 3883 3579 2922 2123 1488 853 236
+evitalumuc
+fo etamitse
+MK
+)%( etar
+eruliaf
+PARADIGM-HF’de KV Ölüme kadar geçen Süre
+No. at risk
+TRADENAME4187 4056 3891 3282 2478 1716 1005 280
+Enalapril 4212 4051 3860 3231 2410 1726 994 279
+TITRATION
+TITRATION, önceden ADE inhibitörü veya ARB tedavisi görmemiş ya da çeşitli dozlarda
+ADE inhibitörleri veya ARB’ler ile tedavi edilmiş, kronik kalp yetersizliği (NYHA sınıf II –
+IV) ve sistolik disfonksiyonu (sol ventriküler ejeksiyon fraksiyonu ≤%35) olan 538 hasta ile
+gerçekleştirilmiş olan 12 haftalık bir güvenlilik ve tolerabilite çalışmasıdır. Hastalara günde
+iki kez ONEPTUS 50 mg başlanmış, dozları günde iki kez 100 mg’a ve ardından hedef doz
+olan günde iki kez 200 mg’a yükseltilmiştir (3 veya 6 haftalık rejim ile).
+Toplamda hastaların %76’sı ONEPTUS’un günde iki kez 200 mg’lık hedef dozuna ulaşmıştır
+ve 12 haftalık dönemde doza ara verilmeden veya dozda azaltma yapılmadan bu dozda
+kalmıştır. Önceden ADE inhibitörü veya ARB tedavisi görmemiş veya düşük dozla (<10 mg
+enalapril/güne eşdeğer) tedavi edilmiş hastalardan, 3 haftalık rejimle karşılaştırıldığında, 6
+haftalık rejimle doz titrasyonu yapılanların daha büyük bölümü (sırasıyla %73,6 ve %84,8)
+ONEPTUS 200 mg dozuna ulaşabilmiş ve bu dozda kalabilmiştir.
+PARAGON-HF
+PARAGON-HF, sol ventrikül ejeksiyon fraksiyonu ≥ %45, semptomatik kalp yetersizliği ve
+yapısal kalp hastalığı [ya sol atriyal genişleme (LAE) ya da sol ventrikül hipertrofisi (LVH)]
+olan 4.796 erişkin hastada ONEPTUS ile valsartanı karşılaştıran çok merkezli, randomize, çift
+kör bir çalışmadır. Tarama sırasında sistolik kan basıncı <110 mmHg olan hastalar ve önceden
+herhangi bir ekokardiyografik LVEF’si <%40 olan hastalar çalışma dışı bırakılmıştır.
+PARAGON-HF’nin birincil amacı, ONEPTUS’un toplam (ilk ve tekrarlayan) kalp yetersizliği
+(HF) nedenli hastaneye yatışları ve kardiyovasküler (CV) ölümden oluşan bileşik sonlanım
+noktası oranını azaltıp azaltmadığını belirlemek olmuştur.
+Mevcut ADE inhibitörü veya ARB tedavisini bıraktıktan sonra hastalar, günde iki kez 80 mg
+valsartan ve ardından günde iki kez 100 mg ONEPTUS aldıkları sıralı tek kör alıştırma
+dönemlerine girmişlerdir. Önceden düşük dozlarda ADEi veya ARB alan hastalar, 1-2 hafta
+boyunca günde iki kez 40 mg valsartan alan alıştırma dönemine başlamıştır. Sıralı alıştırma
+dönemlerini başarıyla tamamlayan hastalar, günde iki kez ONEPTUS 200 mg (N = 2.419)
+veya günde iki kez 160 mg valsartan (N = 2.403) almak üzere randomize edilmiştir. Ortanca
+takip süresi 35 ay olup hastalar 4,7 yıla kadar tedavi edilmiştir.
+Popülasyon %81 Kafkas, %13 Asyalı ve %2 Siyahtır; ortalama yaş 73 olup %52’si kadındır.
+Randomizasyonda, hastaların %77’si NYHA Sınıf II, %19’u NYHA Sınıf III ve %0,4’ü
+NYHA Sınıf IV’tür. Ortanca sol ventrikül ejeksiyon fraksiyonu %57’dir. Kalp yetersizliğinin
+altta yatan nedeni, hastaların %36’sında iskemik etiyolojidir. Ayrıca, %96’sında hipertansiyon
+evita lumuc
+fo etamitse
+MK
+)%(
+etar eruliaf
+PARADIGM-HF’de İlk KV Ölüm veya KY Nedenli Yatışa kadar geçen
+Süre
+Enalapril (N=4212)
+HRP (< %0. 90 50 0 G1
+A): 0.799 (0.715, 0.893) TİCARİ AD (N=4187)
+Randomizasyondan itibaren geçen süre (gün)
+Enalapril
+fitalümük
+inimhat MK
+)%( ınaro
+kilzisretey
+Enalapril (N=4212) TİCARİ AD (N=4187)
+P<0.0001 HR (%95 GA): 0.798 (0.731, 0.871)
+Randomizasyondan itibaren geçen süre (gün) Risk altındaki sayı
+TİCARİ AD
+Enalapril
+fitalümük
+inimhat MK
+)%( ınaro
+kilzisretey
+Risk altındaki sayı
+TİCARİ ADöyküsü, %23’ünde miyokard enfarktüsü öyküsü, %46’sında eGFR <60 mL/dk/1,73 m2 ve
+%43’ünde diyabet vardır. Hastaların çoğunun beta bloker (%80) ve diüretik (%95) almakta
+olduğu belirlenmiştir.
+PARAGON-HF, orantılı oranlar modelinin (oran oranı [RR] % 95 GA [0,75, 1,01], p = 0,06)
+kullanıldığı bir analize dayalı olarak, ONEPTUS’un toplam (ilk ve tekrarlayan) KY hastaneye
+yatışları ve KV ölüm bileşik son noktası oranında sayısal bir azalmaya sahip olduğunu
+göstermiştir (Tablo 2’ye bakınız). Tedavi etkisi öncelikle ONEPTUS’a randomize edilen
+hastalarda KY hastaneye yatışları (RR 0,85; %95 GA [0,72, 1,00]) toplam sayısında azalma
+eşlik etmiştir.
+Tablo 2: PARAGON-HF’de Birincil Bileşik Sonlanım Noktası ve Bileşenleri için
+Tedavi Etkisi
+ONEPTUS N = 2.407 Valsartan N = 2.389 Etki Boyutu
+(%95 GA)
+Etkililik Sonlanım Noktaları N Olay Oranıa N Olay Oranıa
+Toplam (ilk ve tekrarlayan) 894 12,8 1.009 14,6 RR = 0,87
+KY nedenli hastaneye yatışlar (0,75, 1,01) p-
+ve KV ölümlerin bileşimi değeri 0,06
+Toplam KY Nedenli 690 9,9 797 11,6 RR = 0,85
+Hastaneye Yatış Sayısı (0,72, 1,00)
+KV Ölümb 204 2,9 212 3,1 HR = 0,95
+(0,79, 1,16)
+Kısaltmalar: RR = oran oranı, HR = tehlike oranı.
+a100 hasta yılı başına bir olay oranı.
+b KY nedenli hastaneye yatış olayını takiben KV ölümü olan hastaları içerir.
+Şekil 2’de, zaman içinde toplam KY hastaneye yatışların ve KV ölümlerden oluşan
+bileşik sonlanım noktası olaylarının ortalama sayısı gösterilmektedir.
+PARAGON-HF’de KY Nedenli Yatış ve KV Ölümlerin Toplamı
+Valsartan
+ONEPTUS
+15 / 21
+amalatro
+anışab
+atsah
+001
+ısıyas
+yalo
+Randomizasyondan itibaren geçen süre (gün)
+Risk Altındaki sayı
+ONEPTUS
+ValsartanBileşik Sonlanım Noktası için Zaman İçinde Ortalama Olay Sayısı
+Çok çeşitli demografik özellikler, başlangıç hastalık özellikleri ve başlangıçtaki eşzamanlı
+ilaçlar, sonuçlar üzerindeki etkileri açısından incelenmiştir (Şekil 3).
+Şekil 3: Toplam KV Nedenli Hastaneye Yatışlar ve KV Ölümlerden Oluşan Birincil
+Bileşik Sonlanım Noktası - Alt Grup Analizi (PARAGON-HF)
+ONEPTUS
+ONEPTUS Better
+Not: Yukarıdaki şekil, tümü başlangıç karakteristikleri olan çeşitli alt gruplardaki etkileri
+göstermektedir. Gösterilen %95 güven sınırlarında, yapılan karşılaştırmaların sayısı hesaba
+katılmamaktadır ve diğer tüm faktörler için düzeltme yapıldıktan sonra belirli bir faktörün etkisini
+yansıtmayabilir.
+LVEF ile PARADIGM-HF ve PARAGON-HF’deki sonuç arasındaki ilişkinin bir analizinde,
+ONEPTUS ile tedavi edilen LVEF normalin altında olan hastalarda daha fazla risk azalması
+görülmüştür (Şekil 4).
+16 / 21Şekil 4: PARADIGM-HF ve PARAGON-HF’de İlk KY Nedenli Yatış veya LVEF
+Nedenli KV Ölüme kadar geçen Sürenin Birincil Bileşik Sonlanım Noktası için Tedavi
+Etkisi
+PARAGON-HF
+ONEP PA TR UA SD vI sG
+.
+M en- aH lF
+april
+ONEPTUS vs. valsartan
+%95 GA
+Tehlike Oranı
+Laboratuvar Anormallikleri
+Hemoglobin ve Hematokrit
+PARADIGM-HF’de çift kör dönem sırasında hem ONEPTUS hem de enalapril ile tedavi
+edilen hastaların yaklaşık %5’inde hemoglobin/hematokritte > %20’lik düşüşler gözlenmiştir.
+PARAGON-HF’de çift kör dönem sırasında ONEPTUS ile tedavi edilen hastaların yaklaşık
+%7’sinde ve valsartan ile tedavi edilen hastaların yaklaşık %9’unda hemoglobin/hematokritte
+> %20’lik düşüşler gözlenmiştir.
+Serum kreatinin
+PARADIGM-HF’de çift kör dönem sırasında, hem ONEPTUS hem de enalapril ile tedavi
+edilen hastaların yaklaşık %16’sında serum kreatininde >%50’lik artışlar olmuştur.
+PARAGON-HF’de çift kör dönem sırasında, ONEPTUS ile tedavi edilen hastaların yaklaşık
+%17’si ve valsartan ile tedavi edilen hastaların yaklaşık %21’inde serum kreatininde >
+%50’lik artışlar olmuştur.
+Serum Potasyum
+PARADIGM-HF’nin çift kör dönemi sırasında, hem ONEPTUS hem de enalapril ile tedavi
+edilen hastaların yaklaşık %16’sında potasyum konsantrasyonları > 5,5 mEq/L olmuştur.
+PARAGON-HF’nin çift kör dönemi sırasında, ONEPTUS ile tedavi edilen hastaların yaklaşık
+%18’inde ve valsartan ile tedavi edilen hastaların %20’sinde potasyum konsantrasyonları >
+5,5 mEq/L olmuştur.
+5.2 Farmakokinetik özellikler
+Genel özellikler
+ONEPTUS formülasyonunda yer alan valsartanın biyoyararlanımı, piyasada bulunan diğer
+tablet formülasyonlarına kıyasla daha fazladır; ONEPTUS içindeki 26 mg, 51 mg ve 103 mg
+valsartan, başka tablet formülasyonlarında sırasıyla 40 mg, 80 mg ve 160 mg’a eşdeğerdir.
+Emilim:
+Oral uygulama sonrasında, ONEPTUS, ön ilaç sakubitril ve valsartan şeklinde ayrışır.
+Sakubitril ve valsartanın oral mutlak biyoyararlanımı sırasıyla ≥%60 ve %23 şeklinde
+hesaplanmaktadır. Sakubitril aktif metaboliti LBQ657’ye metabolize olur. Bu metabolitler
+maksimum plazma konsantrasyonuna sırasıyla 2, 1 ve 2 saatte ulaşır.
+17 / 21
+ınarO
+ekilheT
+Taramada sol ventriküler ejeksiyon fraksiyonu (%)ONEPTUS’un günde iki kez uygulanmasının ardından sakubitril, LBQ657 ve valsartanın
+kararlı durum düzeylerine 3 gün içinde ulaşılır. Kararlı durumda, sakubitril ve valsartan
+önemli düzeyde birikmezken LBQ657 1,6 kat birikme gösterir. ONEPTUS’un yiyecek ile
+birlikte uygulanmasının sakubitril, LBQ657 ve valsartanın sistemik maruziyetleri üzerinde
+klinik olarak anlamlı bir etkisi bulunmamaktadır. ONEPTUS aç veya tok karnına
+uygulanabilir.
+Dağılım:
+ONEPTUS, plazma proteinlerine yüksek oranda bağlanır (%94-%97). Plazma ve BOS
+maruziyetleri arasındaki karşılaştırmaya göre, LBQ657 kan beyin bariyerini sınırlı oranda
+(%0,28) geçer. Valsartan ve sakubitrilin ortalama görünür dağılım hacmi sırasıyla 75 L ila 103
+L’dir.
+Biyotransformasyon:
+Sakubitril karboksilesteraz lb ve lc’ler tarafından LBQ657’ye kolaylıkla dönüştürülür;
+LBQ657 önemli düzeyde başka bir metabolizasyona uğramaz. Valsartan minimal düzeyde
+metabolize olur; dozun sadece %20’si metabolitler şeklinde tespit edilir. Plazmada düşük
+düzeylerde (<%10) bir hidroksil metaboliti tanımlanmıştır.
+Sakubitril ve valsartanın CYP450 enziminin aracılık ettiği metabolizmaları minimal düzeyde
+olduğundan, CYP450 enzimlerini etkileyen ilaçlarla bir arada uygulamanın farmakokinetiği
+etkilemesi beklenmez.
+İn vitro metabolizma çalışmaları, CYP450 bazlı ilaç etkileşimleri potansiyelinin düşük
+olduğuna işaret etmektedir zira ONEPTUS’un CYP450 enzimleri ile metabolizması sınırlıdır.
+ONEPTUS CYP450 enzimlerini indüklemez veya inhibe etmez.
+Eliminasyon:
+Oral uygulama sonrasında, sakubitrilin %52-68’i (temelde LBQ657 olarak), valsartan ve
+metabolitlerinin yaklaşık %13’ü idrara atılır; sakubitrilin %37-48’i (temelde LBQ657
+şeklinde), valsartan ve metabolitlerinin %86’sı feçese atılır.
+Sakubitril, LBQ657 ve valsartan plazmadan sırasıyla yaklaşık 1,43, 11,48 ve 9,90 saatlik
+ortalama eliminasyon yarı ömrü (T ) ile atılır.
+1/2
+Doğrusallık/doğrusal olmayan durum:
+Sakubitril, LBQ657 ve valsartanın farmakokinetik özellikleri test edilen doz aralığında
+(ONEPTUS 24 mg / 26 mg’dan 97 mg / 103 mg’a) doğrusaldır.
+Hastalardaki karakteristik özellikler
+Yaşlılar:
+LBQ657 ve valsartanın maruziyetleri yaşlı hastalarda, daha gençler ile karşılaştırıldığında
+sırasıyla %42 ve %30 oranlarında daha yüksektir.
+Pediyatrik popülasyon (<18 yaş):
+ONEPTUS pediyatrik hastalarda çalışılmamıştır.
+Böbrek yetmezliği:
+Hafif ila şiddetli böbrek bozukluğu olan hastalarda böbrek fonksiyonu ile LBQ657’ye
+sistemik maruziyet arasında bir korelasyon gözlenmiştir. Orta dereceli böbrek bozukluğu (30
+mL/dk/1,73 m2 ≤eGFR< 60 mL/dk/1,73 m2) ve şiddetli böbrek bozukluğu (15 mL/dk/1,73 m2
+≤eGFR <30 mL/dk/1,73 m2) olan hastalarda LBQ657’ye maruziyet, hafif böbrek bozukluğu
+(60 mL/dk/1,73 m2 ≤eGFR< 90 mL/dk/1,73 m2) olan hastalar (PARADIGM-HF çalışmasına
+kaydedilen en büyük hasta grubu) ile karşılaştırıldığında 1,4 kat ve 2,2 kat daha yüksek
+18 / 21olmuştur. Hafif veya orta dereceli böbrek bozukluğu olan hastalarda herhangi bir doz
+ayarlaması gerekmemektedir. Şiddetli böbrek bozukluğu, safra sirozu veya kolestazı olan
+hastalarda sınırlı veri mevcuttur; bu hastalara ONEPTUS uygulanması önerilmemektedir.
+Valsartana maruziyet, hafif böbrek bozukluğu olan hastalar ile karşılaştırıldığında orta
+dereceli ve şiddetli böbrek bozukluğu olan hastalarda benzer bulunmuştur. Diyalize giren
+hastalarda herhangi bir çalışma gerçekleştirilmemiştir. Bununla birlikte, LBQ657 ve valsartan
+yüksek oranda plazma proteinlerine bağlanmaktadır ve bu nedenle diyaliz ile etkin bir şekilde
+uzaklaştırılması olası değildir.
+Karaciğer yetmezliği:
+Sağlıklı gönüllüler ile karşılaştırıldığında, hafif ila orta dereceli karaciğer bozukluğu olan
+hastalarda sakubitrile maruziyet sırasıyla 1,5 ve 3,4 kat, LBQ657’ye maruziyet 1,5 ve 1,9 kat
+ve valsartana maruziyet 1,2 ve 2,1 kat artmıştır. Diğer yandan, hafif ile orta dereceli karaciğer
+bozukluğu olan hastalarda serbest LBQ657 konsantrasyonlarına maruziyet, benzer özelliklere
+sahip sağlıklı gönüllüler ile karşılaştırıldığında sırasıyla 1,47 ve 3,08 kat artmış ve serbest
+valsartan konsantrasyonlarına maruziyet de sırasıyla 1,09 ve 2,20 kat yükselmiştir. ONEPTUS
+şiddetli karaciğer bozukluğu, biliyer sirozu veya kolestazı olan hastalarda çalışılmamıştır (bkz.
+bölüm 4.3 ve 4.4).
+Cinsiyet etkisi:
+ONEPTUS’un (sakubitril, LBQ657 ve valsartan) farmakokinetiği erkek ve kadın gönüllüler
+arasında benzerdir.
+5.3 Klinik öncesi güvenlilik verileri
+Güvenlilik farmakolojisi, tekrarlı doz toksisitesi, genotoksisite, karsinojenik potansiyel,
+fertilite açısından konvansiyonel çalışmalara dayalı klinik dışı veriler (sakubitril ve valsartan
+bileşenleri ve/veya ONEPTUS ile çalışmaları içerir) insanlar için özel bir tehlike ortaya
+koymamaktadır.
+Fertilite, üreme ve gelişim:
+Organogenez sırasında ONEPTUS tedavisi sıçanlarda ≥49 mg sakubitril / 51 mg
+valsartan/kg/gün dozlarda [valsartan ve LBQ657’nin EAA değeri bazında MRHD’nin ≤0,72
+katı] ve tavşanda ≥4,9 mg sakubitril / 5,1 mg valsartan /kg/gün dozlarda [EAA bazında
+MRHD’nin sırasıyla 2 ve 0,03 katı] embriyo-fetal letalitede artış ile sonuçlanmıştır.
+Tavşanlarda ≥4,9 mg sakubitril / 5,1 mg valsartan/kg/gün ONEPTUS dozunda gözlenen,
+maternal toksik dozlarla ilişkili olan düşük insidanslı fetal hidrosefaliye dayalı olarak
+ONEPTUS teratojeniktir. Anne için toksik olmayan dozda (1,46 mg sakubitril/1,54 mg
+valsartan/kg/gün) tavşan fetüslerinde kardiyovasküler anomaliler (başlıca kalp büyümesi)
+gözlenmiştir. Tavşanlarda 4,9 mg sakubitril / 5,1 mg valsartan/kg/gün ONEPTUS dozunda
+fetal iskelet varyasyonlarında (deforme sternebra, sternebra bipartit osifikasyonu) hafif bir
+artış gözlenmiştir. ONEPTUS’un advers embriyo-fetal etkileri anjiyotensin reseptör antagonist
+aktivitesine bağlanmaktadır (bkz. bölüm 4.6 Gebelik ve laktasyon).
+Organogenez sırasında sakubitril tedavisi, tavşanda maternal toksisite ile ilişkili dozlarda (500
+mg/kg/gün; LBQ657 EAA değeri bazında MRHD’nin 5,7 katı) embriyo-fetal letalite ve
+embriyo-fetal toksisite ile sonuçlanmıştır (fetal beden ağırlığında azalma ve iskelet
+malformasyonları). >50 mg/kg/gün dozlarında osifikasyonda genel ve hafif bir gecikme
+gözlenmiştir. Bu bulgu advers olarak değerlendirilmemiştir. Sakubitril ile tedavi edilen
+sıçanlarda herhangi bir embriyo-fetal toksisite ya da teratojenisite gözlenmemiştir. Sakubitril
+için embriyo-fetal advers etki gözlenmeyen düzey sıçanda en az 750 mg/kg/gün ve tavşanda
+ve 200 mg/kg/gün olmuştur (LBQ657 EAA değeri bazında MRHD’nin 2,2 katı).
+19 / 21750 mg/kg/gün [EAA bazında MRHD’nin 2,2 katı] dozuna kadar sakubitril ve 600 mg/kg/dün
+[EAA bazında MRHD’nin 0,86 katı] dozuna kadar valsartan ile sıçanlarda gerçekleştirilen
+prenatal ve postnatal gelişim çalışmaları organogenez, gestasyon ve laktasyon sırasında
+ONEPTUS ile tedavinin yavru gelişimini ve sağkalımını etkileyebileceğine işaret etmektedir.
+Diğer klinik öncesi bulgular:
+Sakubitril/valsartan
+ONEPTUS’un beyin-omurilik sıvısındaki (BOS) ve beyin dokusundaki amiloid-β
+konsantrasyonları üzerindeki etkisi iki hafta süreyle ONEPTUS (24 mg sakubitril / 26 mg
+valsartan /kg/gün) ile tedavi edilen genç (2-4 yaş) sinomolgus maymunlarında
+değerlendirilmiştir. Bu çalışmada sinomolgus maymunlarında ONEPTUS’un BOS Aβ
+klerensi üzerinde farmakodinamik etkisi olmuş, BOS Aβ 1-40, 1-42 ve 1-38 düzeylerini
+yükseltmiştir; beyindeki Aβ düzeylerinde buna karşılık gelen bir artış olmamıştır. BOS Aβ 1-
+40 ve 1-42 düzeylerindeki artışlar insandaki iki haftalık sağlıklı gönüllü çalışmasında
+gözlenmemiştir (bkz. bölüm 5.1 Farmakodinamik özellikler). Ayrıca, 39 hafta süreyle 146 mg
+sakubitril/154 mg valsartan/kg/gün dozunda ONEPTUS ile tedavi edilen sinomolgus
+maymunları ile gerçekleştirilen bir çalışmada beyinde amiloid plakları görülmemiştir. Fakat
+bu çalışmada amiloid içeriği kantitatif olarak ölçülmemiştir.
+Sakubitril
+Sakubitril ile tedavi edilen juvenil sıçanlarda (postnatal 7-70 gün) yaşla ilişkili kemik kütlesi
+gelişiminde ve kemik uzamasında azalma olmuştur. Sıçanlardaki bir çalışma kemik mineral
+yoğunluğunda sadece minimal geçici bir inhibitör etki göstermiş; fakat aynı etki, kemik
+büyümesi ile ilişkili diğer parametrelerde görülmeyerek normal koşullar altında erişkin hasta
+popülasyonlarında sakubitrilin kemik üzerinde anlamlı bir etkisinin olmayacağını
+düşündürmüştür. Diğer yandan, erişkinlerde kırk iyileşmesinin erken fazında sakubitrilin
+geçici, hafif bir etkisi olasılık dışı bırakılamamaktadır.
+Valsartan
+Sakubitril ile tedavi edilen juvenil sıçanlarda (postnatal 7-70 gün) 1 mg/kg/gün kadar düşük
+dozlar tübüler nefropati (bazen tübüler epitelyum nekrozunun eşlik ettiği) ve pelvis
+dilatasyonunu içeren kalıcı, geri dönüşsüz böbrek değişikliklerine neden olmuştur. Bu böbrek
+değişiklikleri, anjiyotensin dönüştürücü enzim inhibitörlerinin ve anjiyotensin II tip I
+blokerlerinin beklenen abartılı farmakolojik etkisini yansıtmaktadır; bu tür etkiler, sıçanlar
+yaşamın ilk 13 gününde tedavi edildiğinde görülmektedir. Bu dönem, insanda gestasyonun 36
+haftası ile örtüşmektedir ve insanda bu süre bazı durumlarda doğumdan sonraki 44 haftaya
+uzayabilmektedir.
+6. FARMASÖTİK ÖZELLİKLER
+6.1 Yardımcı maddelerin listesi
+Tablet çekirdeği:
+Selüloz, mikrokristalin
+Düşük-sübstitüe hidroksipropilselüloz
+Krospovidon
+Magnezyum stearat
+Talk
+Koloidal silikon dioksit
+Film kaplama:
+20 / 21Hipromelloz
+Titanyum dioksit (E 171)
+Makrogol 4000
+Talk
+Kırmızı demir oksit (E 172)
+Siyah demir oksit (E 172)
+6.2 Geçimsizlikler
+Geçerli değildir
+6.3 Raf ömrü
+24 ay
+6.4 Saklamaya yönelik özel tedbirler
+30°C’nin üzerindeki sıcaklıklarda saklamayınız, nemden koruyunuz. Orijinal ambalajı
+içerisinde saklayınız.
+ONEPTUS çocukların erişemeyeceği ve göremeyeceği yerlerde saklanmalıdır.
+6.5 Ambalajın niteliği ve içeriği
+28 adet tablet içeren PVC/PVDC blister ambalajlar
+6.6 Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+Kullanılmamış olan ürünler ya da atık materyaller “Tıbbi Atıkların Kontrolü Yönetmeliği” ve
+“Ambalaj Atıklarının Kontrolü Yönetmeliği”ne uygun olarak imha edilmelidir.
+7. RUHSAT SAHİBİ
+Farmanova Sağlık Hizmetleri Limited Şirketi
+Suryapı & Akel İş Merkezi
+Rüzgarlıbahçe Mah.
+Şehit Sinan Eroğlu Cad. No:6 34805
+Kavacık / Beykoz / İstanbul
+8. RUHSAT NUMARASI
+2017/307
+9. İLK RUHSAT TARİHİ / RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi: 12.05.2017
+Ruhsat yenileme tarihi: 28.03.2022
+10. KÜB’ÜN YENİLEME TARİHİ
+21 / 21

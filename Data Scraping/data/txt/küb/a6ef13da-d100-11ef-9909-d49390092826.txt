@@ -1,0 +1,665 @@
+KISA ÜRÜN BİLGİSİ
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+REGAPEN 300 mg kapsül
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde:
+Pregabalin…………………….300 mg
+Yardımcı maddeler:
+Laktoz monohidrat (inek sütünden elde edilmiştir)…………...12 mg
+Yardımcı maddeler için 6.1'e bakınız.
+3. FARMASÖTİK FORM
+Oral kullanım için kapsül.
+Kızıl kahve-beyaz opak, sert jelatin kapsül.
+4. KLİNİK ÖZELLİKLER
+4.1. Terapötik endikasyonlar
+Nöropatik ağrı
+REGAPEN periferik nöropatik ağrıda endikedir.
+Epilepsi
+REGAPEN sekonder jeneralize konvülsiyonların eşlik ettiği ya da etmediği parsiyel
+konvülsiyonlu yetişkin hastalarda ek tedavi olarak endikedir.
+Yaygın anksiyete bozukluğu
+REGAPEN yaygın anksiyete bozukluğunda endikedir.
+4.2. Pozoloji ve uygulama şekli
+Pozoloji:
+Günlük doz aralığı 150-600 mg aç ya da tok karnına alınabilir.
+Uygulama sıklığı ve süresi:
+Nöropatik ağrı
+REGAPEN tedavisinin önerilen başlangıç dozu, aç ya da tok karnına günde iki kez 75 mg'dır
+(150 mg/gün).
+Her bir hastanın yanıtına ve tolere edilebilirliğine göre doz, 3 ila 7 günlük bir aralıktan sonra
+günde iki kez 150 mg'a ve gerekirse, ek bir haftadan sonra günde iki kez 300 mg'lık maksimum
+doza çıkartılabilir.
+1Epilepsi
+REGAPEN tedavisinin önerilen başlangıç dozu, aç ya da tok karnına günde iki kez 75 mg'dır
+(150 mg/gün). Her bir hastanın yanıtına ve tolere edilebilirliğine göre doz, 1 haftadan sonra
+günde iki kez 150 mg'a ve gerekirse, ek bir haftadan sonra günde iki kez 300 mg'lık maksimum
+doza çıkartılabilir.
+Yaygın anksiyete bozukluğu
+Doz aralığı ikiye bölünmüş dozlar halinde, günlük 150 - 600 mg'dır. Tedaviye devam edilmesinin
+gerekliliği düzenli olarak tekrar değerlendirilmelidir.
+REGAPEN tedavisi günlük 150 mg dozunda başlatılabilir. Hastaların tedaviye bireysel yanıtına
+ve tolere edebilirliklerine göre 1 hafta sonra doz günlük 300 mg'a çıkartılabilir. Bu haftayı takip
+eden, ilave 1 hafta sonrasında günlük doz 450 mg'a artırılabilir ve ek 1 haftadan sonra 600 mg'lık
+maksimum günlük doza ulaşılabilir.
+Uygulama şekli:
+Ağızdan alınır.
+Pregabalin tedavisine son verilmesi:
+Nöropatik ağrı, epilepsi, yaygın anksiyete bozukluğu için uygulanan pregabalin tedavisinin sona
+erdirilmesi gerekirse, en az bir haftaya yayılarak, kademeli şekilde sonlandırılması tavsiye edilir.
+Özel popülasyonlara ilişkin ek bilgiler:
+Böbrek yetmezliği:
+Pregabalin sistemik dolaşımdan başlıca renal yolla değişmemiş ilaç şeklinde atılır. Pregabalin
+klerensi kreatinin klerensi ile doğru orantılı olduğundan (bkz. Bölüm 5.2), renal fonksiyonları
+yetersiz hastalarda doz, Tablo 1'de gösterildiği şekilde, aşağıdaki formül kullanılarak kreatinin
+klerensine (CL ) göre bireyselleştirilmelidir (bkz. Bölüm 5.2).
+cr
+1,23 [140 - yaş (yıl)] x ağırlık (kg)
+CL (mL/dak) = (x 0,85 kadın hastalar için)
+cr
+serum kreatinin (µmol/L)
+Pregabalin hemodiyaliz yoluyla etkin şekilde plazmadan uzaklaştırılır (4 saat içinde ilacın
+%50'si). Hemodiyaliz gören hastalarda, pregabalinin günlük dozu renal fonksiyonlara göre
+ayarlanmalıdır. Günlük doza ek olarak, her bir 4 saatlik hemodiyaliz tedavisinin hemen
+sonrasında ek bir doz verilmelidir (bkz. Tablo 1).
+2Tablo 1. Renal Fonksiyonlara Bağlı Olarak Pregabalin Dozunun Ayarlanması
+Kreatinin
+Klerensi Toplam Pregabalin Günlük
+Doz Rejimi
+(CL ) Dozu*
+cr
+(mL/dak)
+Başlangıç Dozu Maksimum
+(mg/gün) Doz (mg/gün)
+≥ 60 150 600 BID veya TID
+≥ 30 -<60 75 300 BID veya TID
+≥ 15 - <30 25 - 50 150 QD veya BID
+< 15 25 75 QD
+Hemodiyaliz sonrası ek doz (mg)
+25 100 Tek doz+
+TID = Günde üç doz
+BID = Günde iki doz
+QD = Günde tek doz
+* Toplam günlük doz (mg/gün) mg/doz sağlayacak şekilde doz rejimiyle belirtildiği gibi
+bölünmelidir
++ Ek doz, tek bir ilave dozdur
+Karaciğer yetmezliği:
+Karaciğer yetmezliği olan hastalarda herhangi bir doz ayarlamasına gerek yoktur (bkz. Bölüm
+5.2).
+Pediyatrik popülasyon:
+REGAPEN’in 12 yaş altı pediyatrik hastalarda ve adolesanlarda (12-17 yaş arası) güvenlilik ve
+etkililiği belirlenmemiştir. Mevcut verilere Bölüm 4.8, 5.1 ve 5.2’de yer verilmiştir ancak
+pozoloji tavsiyesinde bulunmak mümkün değildir.
+Geriyatrik popülasyon (≥65yaş):
+Böbrek fonksiyonları normal olan yaşlı hastalarda herhangi bir doz ayarlamasına gerek yoktur
+(Bkz. Tablo 1). Böbrek fonksiyonları azalan yaşlı hastalarda pregabalinin dozunun azaltılması
+gerekebilir (bkz. Bölüm 5.2).
+4.3. Kontrendikasyonlar
+Etken maddeye veya içeriğindeki herhangi bir maddeye karşı aşırı duyarlılığı olan hastalarda
+kontrendikedir.
+4.4. Özel kullanım uyarıları ve önlemleri
+Diyabet hastaları
+Şimdiye kadarki klinik deneyimlere göre, pregabalin tedavisi nedeniyle kilo artışı görülen diyabet
+hastalarında, hipoglisemik ilaçların dozu tekrar gözden geçirilmelidir.
+3Aşırı duyarlılık reaksiyonları
+Pazarlama sonrasında anjiyoödemi de içeren aşırı duyarlılık reaksiyonları bildirilmiştir. Yüzde,
+ağız içinde veya üst solunum yolunda şişme gibi anjiyoödem belirtileri ortaya çıkarsa pregabalin
+derhal kesilmelidir.
+Şiddetli kutanöz advers reaksiyonlar (SCAR’lar)
+Pregabalin tedavisi ile ilişkili olarak, yaşamı tehdit edici veya ölümcül olabilen Stevens- Johnson
+sendromu (SJS) ve toksik epidermal nekroliz (TEN) gibi SCAR’lar nadiren bildirilmiştir. Reçete
+sırasında hastalar belirti ve semptomlar konusunda bilgilendirilmeli ve cilt reaksiyonları
+açısından yakından izlenmelidir. Bu reaksiyonları düşündüren belirti ve semptomlar ortaya
+çıkarsa, pregabalin derhal kesilmeli ve uygun olan alternatif bir tedavi düşünülmelidir.
+Baş dönmesi, uykusuzluk, bilinç kaybı, konfüzyon ve zihinsel bozukluk
+Pregabalin tedavisi, somnolans (uyku hali) ve baş dönmesine neden olabileceğinden, yaşlı
+hastalarda kaza sonucu yaralanmaların (düşme) oranını artırabilir. Pazarlama sonrası raporlarda
+bilinç kaybı, konfüzyon ve zihinsel bozukluk bildirilmiştir. Dolayısıyla hastalar, ilacın tüm
+potansiyel etkileri konusunda yeterli deneyime sahip oluncaya kadar dikkatli olmaları konusunda
+uyarılmalıdır.
+Görme ile ilgili etkiler
+Kontrollü klinik çalışmalarda, pregabalin ile tedavi gören hastalarda plasebo ile tedavi gören
+hastalara kıyasla bulanık görme daha yüksek oranda bildirilmiştir. Ancak tedaviye devam
+edilmesi ile bu yan etki hastaların büyük bir kısmında ortadan kalkmıştır. Oftalmolojik testlerin
+değerlendirildiği klinik çalışmalarda, görüş keskinliğinde azalma ve görme alanında değişiklikler,
+pregabalin tedavi grubunda plasebo grubuna göre daha sık bildirilmiştir. Plasebo tedavi grubunda
+ise, fundoskopik değişiklikler daha fazla bildirilmiştir (bkz. Bölüm 5.1).
+Pazarlama sonrası deneyimde, pregabalin ile tedavi gören hastalarda çoğunluğu geçici olarak
+görme kaybı, görmede bulanıklık veya görme netliğini etkileyen başka değişiklikler gibi görme
+ile ilişkili advers reaksiyonlar bildirilmiştir. Pregabalinin kesilmesi ile bu görsel semptomlar
+iyileşebilir veya sona erebilir.
+Renal bozukluklar
+Böbrek yetmezliği vakaları bildirilmiştir ve bazı vakalarda pregabalinin kesilmesi bu advers
+reaksiyonun geri dönüşümlü olduğunu göstermiştir.
+Eşlik eden antiepileptik tıbbi ürünlerin kesilmesi
+Antiepileptik ilaç tedavisine pregabalin eklenmesi ile nöbet kontrolü sağlandıktan sonra,
+pregabalin ile monoterapiye geçilirken eş zamanlı kullanılan antiepileptiklerin kesilmesine ilişkin
+yeterli bilgi bulunmamaktadır.
+Yoksunluk semptomları
+Pregabalinle kısa ve uzun dönem tedavinin kesilmesinden sonra, bazı hastalarda yoksunluk
+semptomları görülmüştür. Bu semptomlar:
+4Uykusuzluk, baş ağrısı, bulantı, ishal, grip benzeri semptomlar, anksiyete, sinirlilik, depresyon,
+ağrı, konvülsiyon, hiperhidroz, baş dönmesi ve anlamlı fiziksel bağımlılık. Tedaviye başlarken
+hasta bunlar hakkında bilgilendirilmelidir.
+Pregabalin tedavisi süresince veya tedavinin kesilmesinden kısa bir süre sonra, status epileptikus
+ve grand mal nöbetleri de dahil olmak üzere, konvülsiyonlar meydana gelebilir.
+Uzun süreli pregabalin tedavisinin sonlandırılması ile ilgili olarak veriler, yoksunluk
+semptomlarının sıklığı ve şiddetinin pregabalin dozuyla ilişkili olabileceğini göstermektedir.
+Konjestif kalp yetmezliği
+Pazarlama sonrası raporlarda, pregabalin alan bazı hastalarda konjestif kalp yetmezliğinin
+geliştiği rapor edilmiştir. Bu etkiler çoğunlukla, nöropatik bir endikasyon için pregabalin tedavisi
+gören kardiyovasküler sorunu olan yaşlı hastalarda görülür. Bu hastalarda pregabalin dikkatle
+kullanılmalıdır (Bkz. Bölüm 4.8). Pregabalinin kesilmesi ile semptomlar iyileşebilir.
+Omurilik yaralanmasına bağlı merkezi nöropatik ağrı tedavisi
+Spinal kord hasarına bağlı santral nöropatik ağrı tedavisinde, özellikle somnolans olmak üzere
+merkezi sinir sisteminde görülen advers reaksiyonların görülme sıklığı artmıştır. Bu artış tedavide
+birlikte kullanılan diğer ilaçların (anti-spastik ajanlar gibi) ilave etkisi ile oluşabilir. Spinal kord
+hasarına bağlı santral nöropatik ağrı tedavisinde pregabalin reçetelendirilirken bu durum göz
+önüne alınmalıdır.
+Solunum depresyonu
+Pregabalin kullanımına bağlı olarak şiddetli solunum depresyonu bildirilmiştir. Solunum
+fonksiyonu risk altında olan, solunum veya nörolojik hastalığı, böbrek yetmezliği, eşzamanlı
+MSS depresan kullanımı olan hastaların ve yaşlıların, bu ciddi advers reaksiyonu yaşama riski
+daha yüksek olabilir. Bu hastalarda doz ayarlaması gerekebilir (bkz. Bölüm 4.2).
+İntihar düşüncesi ve davranışı
+Çeşitli endikasyonlarda, antiepileptik ilaçlarla tedavi edilen hastalarda intihar düşüncesi ve
+davranışı bildirilmiştir. Antiepileptik ilaçların randomize plasebo kontrollü çalışmalarının bir
+meta-analizinde, intihar düşüncesi ve davranış riskinde az da olsa artış olduğu gözlenmiştir. Bu
+riskin mekanizması bilinmemektedir.
+Pazarlama sonrası deneyimde pregabalin ile tedavi edilen hastalarda intihar düşüncesi ve
+davranışı vakaları gözlenmiştir (bkz. Bölüm 4.8). Birey içi kontrollü çalışma tasarımı kullanan
+bir epidemiyolojik çalışma (Bir bireyde tedavi periyodlarını tedavi edilmeyen periyotlarla
+karşılaştırmak), pregabalin ile tedavi edilen hastalarda yeni başlayan intihar davranışı ve intihar
+nedeniyle ölüm riskinin arttığına dair kanıtlar göstermiştir.
+İntihar düşüncesi veya davranışı belirtileri ortaya çıkarsa, hastalara (ve hasta bakıcıları) tıbbi
+yardım almaları tavsiye edilmelidir. Hastalar intihar düşüncesi ve davranışları açısından izlenmeli
+ve uygun tedavi düşünülmelidir. İntihar düşüncesi ve davranışı durumunda pregabalin tedavisinin
+kesilmesi düşünülmelidir.
+5Alt gastrointestinal sistem fonksiyonunun azalması
+Pazarlama sonrası deneyimlerde, pregabalinin opioid analjezikler gibi konstipasyon yapma
+potansiyeli olan ilaçlar ile birlikte kullanımı sonucunda alt gastrointestinal kanal fonksiyonlarında
+azalma (intestinal tıkanma, paralitik ileus, konstipasyon gibi) bildirilmiştir. Pregabalin ve
+opioidler birlikte kullanılacak ise, konstipasyonu önleyici tedbirler alınması düşünülmelidir.
+(özellikle kadın hastalarda ve yaşlı hastalarda)
+Opioidlerle birlikte kullanım
+MMS depresyonu riski nedeniyle opioidlerle birlikte pregabalin reçete edilirken dikkatli
+olunması önerilir (bkz. Bölüm 4.5). Opioid kullananlar ile yapılan bir vaka kontrol çalışmasında
+opioidle birlikte pregabalin alan hastaların, sadece opioid kullanımına kıyasla opioid ilişkili ölüm
+riski daha fazla olmuştur (düzeltilmiş odds oranı [DOO], 1,68 [%95 GA, 1,19–2,36]). Bu artmış
+risk, düşük pregabalin dozlarında (≤300 mg, DOO 1,52 [%95 GA, 1,04-2,22]) gözlenmiş olup,
+yüksek pregabalin dozlarında (>300 mg, DOO 2,51 [%95 GA, 1,24-5,06]) ise daha yüksek risk
+eğilimi oluşmuştur.
+İlaç suistimali, kötüye kullanım ve bağımlılık
+İlaç suistimali, kötüye kullanım ve bağımlılık vakaları bildirilmiştir. Daha önce madde
+suistimali hikayesi olan hastalar pregabalinin suistimali, kötüye kullanımı ya da bağımlılık
+belirtilerine (tolerans gelişimi, doz artırımı, ilaç arama davranışları bildirilmiştir) karşı
+gözlenmelidir.
+Ensefalopati
+Çoğunlukla ensefalopatiye zemin hazırlayan koşullar altındaki hastalarda, ensefalopati raporları
+bildirilmiştir.
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon)
+Hamileliğin ilk üç ayında REGAPEN kullanımı, doğmamış çocukta büyük doğumsal kusurlara
+neden olabilir. Anneye sağlayacağı yarar, fetüse yönelik potansiyel riskinden açıkça daha fazla
+olmadıkça hamilelik sırasında pregabalin kullanılmamalıdır. Çocuk doğurma potansiyeli olan
+kadınlar, tedavi sırasında etkili bir kontrasepsiyon kullanmalıdır (bkz. Bölüm 4.6).
+Bu tıbbi ürün laktoz ihtiva eder. Nadir kalıtımsal galaktoz intoleransı, Lapp laktoz yetmezliği ya
+da glukoz-galaktoz malabsorpsiyon problemi olan hastaların bu ilacı kullanmamaları gerekir.
+4.5. Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+Pregabalin çoğunlukla idrarla değişmeden atıldığı, önemsiz derecede metabolize olduğu (dozun
+<%2’si metabolit şeklinde idrarla atılır), in vitro olarak ilaç metabolizmasını inhibe etmediği ve
+plazma proteinlerine bağlanmadığı için farmakokinetik etkileşim yaratma veya farmakokinetik
+etkileşime uğrama olasılığı düşüktür.
+In vivo çalışmalar ve popülasyon farmakokinetik analizi
+Buna göre, in vivo çalışmalarda pregabalin ile fenitoin, karbamazepin, valproik asit, lamotrijin,
+gabapentin, lorazepam, oksikodon veya etanol arasında klinik açıdan önemli bir farmakokinetik
+etkileşim gözlenmemiştir. Popülasyon farmakokinetik analizi; oral antidiyabetikler, diüretikler,
+6insülin, fenobarbital, tiagabin ve topiramatın pregabalin klerensi üzerinde klinik olarak anlamlı
+bir etkisi olmadığını göstermiştir.
+Oral kontraseptifler, noretisteron ve/veya etinil östradiol
+Pregabalinin noretisteron ve/veya etinil östradiol içeren oral kontraseptifler ile birlikte alınması
+her iki ilacın da kararlı durum farmakokinetiğini etkilemez.
+Merkezi sinir sistemini etkileyen tıbbi ürünler
+Pregabalin etanol ve lorazepamın etkilerini güçlendirebilir.
+Pazarlama sonrası edinilen deneyimlerde, pregabalin ve opioid ve/veya diğer merkezi sinir
+sistemini baskılayan ilaçları alan hastalarda solunum yetmezliği, koma ve ölüm rapor edilmiştir.
+Pregabalin, kognitif ve gros motor fonksiyonlarda oksikodonun yol açtığı bozukluğa katkı sağlar
+gibi görünmektedir.
+Özel popülasyonlara ilişkin ek bilgiler:
+Pediyatrik popülasyon:
+Etkileşim çalışmaları sadece yetişkinlerde gerçekleştirilmiştir.
+Geriyatrik popülasyon:
+Yaşlı gönüllülerde spesifik bir farmakodinamik etkileşim çalışması yürütülmemiştir.
+4.6. Gebelik ve laktasyon
+Genel tavsiye
+Gebelik Kategorisi: C.
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon)
+Çocuk doğurma potansiyeli olan kadınlar, tedavi sırasında etkili bir kontrasepsiyon kullanmalıdır
+(bkz. bölüm 4.4).
+Gebelik dönemi
+Hayvanlar üzerinde yapılan araştırmalar üreme toksisitesinin bulunduğunu göstermiştir (bkz.
+Bölüm 5.3).
+Pregabalinin sıçanlarda plasentaya geçtiği gösterilmiştir (bkz. Bölüm 5.2). Pregabalin insan
+plasentasına geçebilir.
+Majör konjenital anomaliler
+İlk trimesterde pregabaline maruz kalan 2.700’den fazla gebeyi kapsayan bir İskandinav gözlem
+çalışmasından elde edilen veriler, pregabaline maruz kalan pediatrik popülasyonda (canlı veya
+ölü doğmuş) maruz kalmayan popülasyona kıyasla majör konjenital anomalilerin (MKA)
+prevalansının daha yüksek olduğunu göstermiştir (%5,9’a karşı %4,1).
+İlk trimesterde pregabaline maruz kalan pediatrik popülasyonda MKA riski; maruz kalmayan
+popülasyona (düzeltilmiş prevalans oranı ve %95 güven aralığı: 1,14 (0,96- 1,35)) ve lamotrijine
+7(1,29 (1,01-1,65)) veya duloksetine (1,39 (1,07-1,82)) maruz kalan popülasyona göre kısmen
+daha yüksektir.
+Spesifik anomaliler ile ilgili yapılan analizlerde, sinir sistemi, göz, orofasiyal yarıklar, üriner
+anomaliler ve genital anomaliler için daha yüksek risk olduğu görülmüştür ancak sayıları azdır ve
+hesaplamalar kesin değildir.
+Anneye sağlayacağı yarar fetüse gelebilecek risk potansiyelinden fazla olmadıkça, gebelik
+sırasında pregabalin kullanılmamalıdır.
+Laktasyon dönemi
+Pregabalin insanlarda anne sütüne geçmektedir (bkz Bölüm 5.2). Pregabalinin yeni doğanlar
+/infantlar üzerine etkisi bilinmemektedir. Emzirmeye mi yoksa tedaviye mi son verileceği kararı,
+emzirmenin bebek için faydası ile tedavinin emziren kadın için faydası arasında değerlendirme
+yapılarak verilmelidir.
+Üreme yeteneği/ Fertilite
+Pregabalinin kadın fertilitesi üzerine etkisi ile ilgili klinik veri bulunmamaktadır. Pregabalinin
+sperm hareketliliği üzerine etkisini değerlendirmek için yürütülen bir klinik çalışmada, sağlıklı
+erkek deneklere 600 mg/gün dozunda pregabalin verilmiştir. 3 aylık tedavi sonrası sperm
+hareketliliği üzerinde bir etkisi olmamıştır.
+Dişi sıçanlarda yürütülen fertilite çalışmasında üreme üzerine advers etkiler gözlenmiştir. Erkek
+sıçanlardaki fertilite çalışmalarında üreme ve gelişme üzerine advers etkiler gözlenmiştir. Bu
+bulgulardaki klinik ilişki bilinmemektedir. (bkz. Bölüm 5.3).
+4.7. Araç ve makine kullanımı üzerindeki etkiler
+REGAPEN’in araç ve makine kulanımı üzerinde hafif ya da orta şiddette bir etkisi olabilir.
+REGAPEN baş dönmesi ve uyku haline neden olabilir ve bu nedenle araç veya makine kullanma
+yeteneğini etkileyebilir. İlacın bu gibi aktiviteleri etkileyip etkilemediği bilinene kadar, hastalara
+araba kullanmaları, karmaşık makineleri çalıştırmaları veya tehlike potansiyeli barındıran başka
+aktivitelerde bulunmaları tavsiye edilmez.
+4.8. İstenmeyen etkiler
+Pregabalin klinik programına, plasebo kontrollü çift kör çalışmalardaki 5600'den fazla hasta dahil
+olmak üzere toplam 8900'den fazla hasta katılmıştır. En yaygın şekilde bildirilen advers
+reaksiyonlar baş dönmesi ve uyku halidir. Advers etkiler genelde hafif ve orta şiddettedir. Bütün
+kontrollü çalışmalarda, advers etkiler yüzünden çalışmadan ayrılma oranı pregabalin alan
+hastalarda %12 iken, bu oran plasebo alan hastalarda %5'tir. Pregabalin tedavi gruplarında
+çalışmadan ayrılmaya neden olan en yaygın advers reaksiyonlar baş dönmesi ve uyku halidir.
+Klinik çalışmaların toplu analizinde tedavi ile ilişkili olan istenmeyen etkiler aşağıdaki
+kategorilere göre listelenmiştir: Çok yaygın ≥1/10; yaygın ≥1/100 ila <1/10; yaygın olmayan
+≥1/1.000 ila <1/100; seyrek ≥1/10.000 ila <1/1.000; çok seyrek <1/10.000; bilinmiyor: eldeki
+verilerden hareketle tahmin edilemiyor.
+8İstenmeyen etkiler, her sıklık grubu içinde azalan ciddiyet sırasına göre sunulmuştur.
+Listede yer alan advers etkiler altta yatan bir hastalıktan veya birlikte kullanılan ilaçlardan da
+kaynaklanıyor olabilir.
+Spinal kord hasarına bağlı santral nöropatik ağrı tedavisinde, özellikle somnolans olmak üzere
+merkezi sinir sisteminde görülen advers reaksiyonların görülme sıklığı artmıştır (bkz. Bölüm
+4.4).
+Pazarlama sonrası deneyimlerde bildirilen advers reaksiyonlar italik olarak gösterilmiştir.
+Vücut Sistemi Advers İlaç Reaksiyonları
+Enfeksiyonlar ve enfestasyonlar
+Yaygın Nazofarenjit
+Kan ve lenf sistemi hastalıkları
+Yaygın olmayan Nötropeni
+Bağışıklık sistemi hastalıkları
+Yaygın olmayan Aşırı duyarlılık
+Seyrek Anjiyoödem, alerjik reaksiyon
+Metabolizma ve beslenme hastalıkları
+Yaygın İştah artışı
+Yaygın olmayan Anoreksi, hipoglisemi
+Psikiyatrik hastalıklar
+Yaygın Öfori hali, konfüzyon, irritabilite, dezoryantasyon, insomnia,
+libidoda azalma
+Yaygın olmayan Halüsinasyon, panik atak, huzursuzluk, ajitasyon, depresyon*,
+depresif duygu durumu, yükselmiş duygu durumu, agresyon,
+duygu durum dalgalanmaları, depersonalizasyon, kelime
+bulmada zorluk, anormal rüyalar, libidoda artış, anorgazm,
+apati
+Seyrek Disinhibisyon, intihar davranışı, intihar düşüncesi
+Sinir sistemi hastalıkları
+Çok yaygın Baş dönmesi, uyku hali, baş ağrısı
+Yaygın Ataksi, koordinasyon bozukluğu, denge bozukluğu, amnezi,
+dikkat bozukluğu, hafıza bozukluğu, tremor, dizartri, parestezi,
+sedasyon, letarji, hipoestezi
+Yaygın olmayan Senkop stupor, miyoklonus, bilinç kaybı,
+psikomotor hiperaktivite, diskinezi, postural baş dönmesi,
+amaçlı hareketlerde tremor, nistagmus, kognitif bozukluk,
+zihinsel bozukluk, konuşma bozukluğu, hiporefleksi, hiperestezi,
+yanma duygusu, tat alamama, malaz (halsizlik, kırıklık)
+9Seyrek Konvülsiyon, hipokinezi, parozmi, disgrafi, parkinsonizm
+Göz hastalıkları
+Yaygın Bulanık görme, diplopi
+Yaygın olmayan Periferal görme kaybı, görme bozuklukları, görme alanında
+bozukluklar, göz kuruluğu, gözlerde şişme, görsel keskinlikte
+azalma, gözlerde ağrı, astenopi, fotopsi, gözyaşında artma,
+gözlerde iritasyon
+Seyrek Görme kaybı, keratit, osilopsi, görsel derinlik algısında
+değişme, midriyazis, şaşılık, görsel parlaklık
+Kulak ve iç kulak hastalıkları
+Yaygın Vertigo
+Yaygın olmayan Hiperakuzi
+Kardiyak hastalıklar
+Yaygın olmayan Taşikardi, birinci derece AV blok, sinüs bradikardisi, konjestif
+kalp yetmezliği
+Seyrek QT uzaması, sinüs taşikardisi, sinüs aritmisi
+Vasküler hastalıklar
+Yaygın olmayan Hipotansiyon, hipertansiyon, yüz kızarması, sıcak basması,
+periferal soğukluk
+Solunum, göğüs bozuklukları ve mediastinal hastalıklar
+Yaygın Solunum güçlüğü
+Yaygın olmayan Dispne, epistaksis, öksürük, nazal konjesyon, rinit, horlama,
+burunda kuruluk
+Seyrek Pulmoner ödem, boğazda sıkışma hissi
+Bilinmiyor Solunum depresyonu
+Gastrointestinal hastalıklar
+Yaygın Kusma, bulantı, abdominal şişkinlik, konstipasyon, diyare, ağız
+kuruluğu, gaz
+Yaygın olmayan Tükürük salgısında artma, gastroözofageal reflü, oral hipoestezi
+Seyrek Asit, disfaji, pankreatit, dilde şişme
+Hepato-biliyer hastalıklar
+Yaygın olmayan Karaciğer enzimlerinde artışβ
+Seyrek Sarılık
+Çok seyrek Karaciğer yetmezliği, hepatit
+Deri ve deri altı doku hastalıkları
+Yaygın olmayan Aşırı terleme, papüler döküntü, ürtiker, kaşıntı, dekübitus ülseri
+Seyrek Toksik epidermal nekroliz, Stevens-Johnson sendromu, soğuk
+terleme
+Kas-iskelet bozuklukları, bağ doku ve kemik hastalıkları
+10Yaygın Kas krampları, artralji, sırt ağrısı, kol ve bacaklarda ağrı,
+servikal spazm, miyasteni
+Yaygın olmayan Kas seğirmesi, eklemlerde şişme, miyalji, kas sertliği, boyunda
+ağrı
+Seyrek Rabdomiyoliz
+Böbrek ve idrar yolu hastalıkları
+Yaygın olmayan Dizüri, üriner inkontinans
+Seyrek Oligüri, böbrek yetmezliği, üriner retansiyon
+Üreme sistemi ve meme hastalıkları
+Yaygın Erektil disfonksiyon
+Yaygın olmayan Cinsel disfonksiyon, ejakülasyonda gecikme, dismenore, meme
+ağrısı
+Seyrek Amenore, memede akıntı, meme büyümesi, jinekomasti
+Genel ve uygulama bölgesine ilişkin hastalıklar
+Yaygın Periferik ödem, ödem, yürüyüşte anormallik, sarhoşluk hissi,
+anormallik hissi, yorgunluk, düşme, sarhoşluk hissi, anormallik
+hissi, yorgunluk, grip benzeri semptomlar
+Yaygın olmayan Yaygın ödem, göğüste sıkışma, yüz ödemi, ağrı, üşüme, asteni,
+pireksi, susuzluk
+Araştırmalar
+Yaygın Kilo artışı
+Yaygın olmayan Kan kreatinin fosfokinazda yükselme, alanin aminotransferazda
+yükselme, aspartat aminotransferazda yükselme, trombosit
+sayısında azalma, kan glukozunda yükselme, kan kreatininde
+artma, kan potasyumunda düşme, kilo kaybı
+Seyrek Lökosit sayısında azalma
+β Alanin aminotransferazda yükselme ve aspartat aminotransferazda yükselme
+Kısa ve uzun süreli pregabalin tedavisi sonrası, ilacın kesilmesinin ardından bazı hastalarda
+yoksunluk semptomları görülmüştür. Bu semptomlar; insomnia, baş ağrısı, bulantı, anksiyete,
+diyare, grip sendromu, konvülsiyon, sinirlilik, depresyon, ağrı, hiperhidroz, sersemlik,baş
+dönmesi ve anlamlı fiziksel bağımlılıktır. Hastalar tedaviye başlamadan bu durum konusunda
+bilgilendirilmelidir.
+Pregabalinin uzun süreli kullanımındaki veriler, yoksunluk semptomlarının sıklığının ve
+şiddetinin kullanım dozuna bağlı olabileceğini göstermektedir.
+Pediyatrik popülasyon:
+Pregabalinin, sekonder jeneralize olan veya olmayan parsiyel nöbetli hastalardaki 5 pediyatrik
+çalışmada (4-16 yaş arası hastalarda 12 haftalık etkililik ve güvenlilik çalışması n=295; 1 ay ile 4
+yaş arası hastalarda 14 günlük etkililik ve güvenlilik çalışması n=175; farmakokinetik ve
+tolerabilite çalışması n=65 ve 1 yıl süreli yapılan 2 açık etiketli güvenlilik çalışması n=54 ve
+11n=431) gözlenen güvenlilik profili, epilepsi hastası yetişkin çalışmalarında gözlenen profil ile
+benzerdir. Pregabalin tedavisi ile yapılan 12 haftalık çalışmada gözlenen en yaygın yan etkiler
+uyku hali, ateş, üst solunum yolu enfeksiyonu, iştah artışı, kilo artışı ve nazofarenjittir. Pregabalin
+tedavisi ile yapılan 14 günlük çalışmada en sık görülen yan etkiler, uyku hali, üst solunum yolu
+enfeksiyonu ve pireksidir (bkz. Bölüm 4.2, 5.1 ve 5.2).
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine olanak
+sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TÜFAM)'ne bildirmeleri gerekmektedir (www.titck.gov.tr; e- posta:
+tufam@titck.gov.tr; tel: 0 800 314 00 08; faks: 0 312 218 35 99).
+4.9. Doz aşımı ve tedavisi
+Klinik geliştirme programında alınan ölümle sonuçlanmayan 1 hastadaki en yüksek
+pregabalin dozu 15.000 mg’dır.
+Pazarlama sonrası edinilen deneyimde, pregabalinin aşırı dozda alındığında gözlenen en yaygın
+advers etkiler olarak, somnolans, konfüzyon durumu, ajitasyon ve huzursuzluk bildirilmiştir.
+Ayrıca nöbetler de bildirilmiştir.
+Nadir olarak koma vakaları bildirilmiştir.
+Pregabalin doz aşımının tedavisinde genel destekleyici önlemler alınmalı, gerekirse hemodiyalize
+de başvurulmalıdır (bkz. Bölüm 4.2 Tablo 1).
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1. Farmakodinamik özellikler
+Farmakoterapötik grup: Sinir sistemi, analjezikler, diğer analjezikler ve antipiretikler, gabapentinoidler
+ATC kodu: N02BF02
+Etken madde pregabalin, bir gama-aminobütirik asit (GABA) analoğudur ((S)-3-(aminometil)-5-
+metilheksanoik asit).
+Etki mekanizması:
+Pregabalin santral sinir sistemindeki voltaja duyarlı kalsiyum kanallarının yardımcı alt ünitesine
+(α -δ proteini) bağlanır.
+2
+Klinik etkililik ve güvenlilik:
+Nöropatik ağrı
+Etkinlik, diyabetik nöropati, postherpetik nevralji ve omurilik yaralanmaları çalışmalarında
+gösterilmiştir. Etkinlik nöropatik ağrının diğer modellerinde çalışılmamıştır.
+12Pregabalin, 10 kontrollü klinik araştırmada; 13 haftaya kadar günde iki kez (BID) ve 8 haftaya
+kadar günde üç kez (TID) dozunda çalışılmıştır. BID ve TID doz rejimlerinin tümü, güvenlilik ve
+etkinlik profilleri açısından benzer bulunmuştur.
+Hem santral hem de periferik nöropatik ağrı için 12 haftaya kadar yürütülen klinik çalışmaların
+1.haftasında ağrıda azalma görülmüş ve bu düzelme tedavi süresince devam etmiştir.
+Periferik nöropatik ağrı için yürütülen kontrollü klinik çalışmalarda pregabalin ile tedavi edilen
+hastaların %35'i ve plasebo ile tedavi edilen hastaların %18'i, ağrı skorlarında %50'lik bir
+iyileşme göstermiştir. Somnolans gözlenmeyen pregabalin kullanan hastalarda ilgili iyileşme
+%33, plasebo kullananlarda ise %18 bulunmuştur. Somnolans gözlenen hastalarda yanıt oranı
+pregabalin için %48 plasebo için %16 olmuştur.
+Santral nöropatik ağrı için yürütülen kontrollü klinik çalışmalarda pregabalin kullanan hastaların
+%22'si ve plasebo kullananların %7'si, ağrı skorlarında %50'lik bir iyileşme göstermiştir.
+Epilepsi
+Ekleme tedavi:
+Pregabalin, 3 kontrollü klinik araştırmada, 12 haftaya kadar günde iki kez veya günde üç kez
+dozunda çalışılmıştır. BID ve TID doz rejimlerinin tümü, güvenlilik ve etkililik profilleri
+açısından benzer bulunmuştur.
+1. haftada nöbet sıklığında anlamlı bir azalma gözlenmiştir.
+Pediyatrik popülasyon:
+Pregabalinin epilepside 12 yaş altındaki pediyatrik hastalarda ve adölesanlarda ekleme tedavi
+olarak kullanılmasına ilişkin etkililik ve güvenliliği belirlenmemiştir. 3 aylıktan 16 yaşına kadar
+olan parsiyel başlangıçlı epilepsi hastalarının katıldığı (n=65) farmakokinetik ve tolerabilite
+çalışmasında gözlenen advers reaksiyonlar, yetişkinlerinki ile benzer olmuştur. Pregabalinin
+parsiyel başlangıçlı epilepsi nöbetlerinin tedavisinde adjuvan olarak kullanılmasının etkililiği ve
+güvenliliğinin 4 ila 16 yaş arasındaki 295 pediyatrik hastada 12 hafta süreyle plasebo kontrollü
+olarak değerlendirildiği çalışma ve 1 ay ila 4 yaş altı arasındaki 175 pediyatrik hastada 14 gün
+süreyle plasebo kontrollü olarak değerlendirildiği çalışma ile 3 ay-16 yaş aralığındaki sırasıyla 54
+ve 431 pediyatrik epilepsi hastasının dahil edildiği 1 yıl süreli yapılan açık etiketli 2 güvenlilik
+çalışmasının sonuçlarına göre, ateş ve üst solunum yolu enfeksiyonları yan etkileri yetişkin
+epilepsi hastalarında yapılan çalışmalardakine kıyasla daha sık gözlenmiştir. 3 aylık- 16 yaş
+aralığındaki 54 pediyatrik epilepsi hastasının katıldığı bir yıllık açık etiketli güvenlilik
+çalışmasının sonucunda, advers olaylardan pireksi ve üst solunum yolları enfeksiyonları
+pediyatrik hastalarda yetişkin hastalara göre daha sık gözlenmiştir (bkz. Bölüm 4.2, 4.8 ve 5.2).
+12 haftalık plasebo kontrollü çalışmada pediyatrik hastalara (4 ila 16 yaş arası), 2,5 mg/kg/gün
+pregabalin (en fazla 150 mg/gün), 10 mg/kg/gün pregabalin (en fazla 600 mg/gün) veya plasebo
+uygulandı. 10 mg/kg/gün pregabalin ile tedavi edilen hastaların %40,6'sının (plaseboya karşı
+p=0,0068), 2,5 mg/kg/gün pregabalin ile tedavi edilen hastaların %29,1'inin (plaseboya karşı
+13p=0,2600) ve plasebo alanların %22,6'sının parsiyel başlangıçlı nöbetlerinde başlangıca göre en
+az %50 azalma olmuştur.
+14 günlük plasebo kontrollü çalışmada pediyatrik hastalara (1 ay ila 4 yaş altı arasındaki), 7
+mg/kg/gün pregabalin, 14 mg/kg/gün pregabalin veya plasebo uygulandı. Başlangıçta ve son
+ziyarette ortalama 24 saatlik nöbet sıklığı sırasıyla 7 mg/kg/gün pregabalin için 4,7 ve 3,8, 14
+mg/kg/gün pregabalin için 5,4 ve 1,4 ve plasebo için 2,9 ve 2,3’dür. 14 mg/kg/gün pregabalin,
+log dönüşümlü parsiyel başlangıçlı epilepsi nöbet sıklığını plaseboya göre anlamlı olarak
+azaltırken (p=0,0223); 7 mg/kg/gün pregabalin ise plaseboya göre iyileşme göstermemiştir.
+Primer jenerize tonik-klonik (PGTC) nöbetleri olanlarda yapılan 12 haftalık plasebo kontrollü
+bir çalışmada 219 hastaya ek tedavi olarak (66’sının 5 ila 16 yaş arası olduğu 5 ila 65 yaş arası) 5
+mg/kg/gün pregabalin (maksimum 300 mg/gün), 10 mg/kg/gün pregabalin (maksimum 600
+mg/gün) veya plasebo uygulanmıştır. PGTC nöbet oranında en az %50 azalma olan hastaların
+yüzdesi, 5 mg/kg/gün pregabalin, 10 mg/kg/gün pregabalin ve plasebo için sırasıyla %41,3,
+%38,9 ve %41,7’dir.
+Monoterapi (yeni tanı alan hastalar)
+Pregabalin, 1 kontrollü klinik çalışmada BID dozlama ile 56 hafta süreyle çalışılmıştır.
+Pregabalin 6 ay süreyle nöbet geçirmeme sonlanım noktası baz alındığında lamotrijine kıyasla
+non-inferiorite sağlayamamıştır. Pregabalin ve lamotrijin benzer şekilde güvenli ve iyi tolere
+edilmiştir.
+Yaygın anksiyete bozukluğu
+Pregabalin 4 - 6 hafta süreli 6 kontrollü araştırmada, 8 hafta süreli yaşlılarda yürütülen bir
+çalışmada ve 6 ay süreli bir çift-kör, uzun dönemde relaps önleme araştırmasında çalışılmıştır.
+Yaygın anksiyete bozukluğu semptomlarında 1 hafta içinde düzelme olduğu Hamilton Anksiyete
+Değerlendirme Skalasında (HAM-A) gözlenmiştir.
+4-8 hafta süren kontrollü klinik araştırmalarda, pregabalin ile tedavi edilen hastaların %52'si ve
+plasebo alan hastaların %38'i başlangıçtan çalışma sonuna kadar HAM-A toplam puanında en az
+%50 iyileşme kaydetmiştir.
+Kontrollü klinik çalışmalarda pregabalin ile tedavi gören hastalarda plasebo ile tedavi görenlere
+göre daha yüksek oranda bulanık görme bildirilmiş olup, vakaların çoğunluğunda devam eden
+dozlarda son bulmuştur.
+Kontrollü klinik çalışmalarda 3.600'ü aşkın hastada oftalmolojik testler (görsel keskinlik, formal
+görme alanı testi ve dilate funduskobik incelemeyi içerecek şekilde) değerlendirilmiştir.
+Pregabalin ile tedavi gören hastaların %6,5'i ve plasebo ile tedavi gören hastaların %4,8'inde
+görsel keskinlik azalmıştır. Pregabalin ile tedavi gören hastaların %12,4'ünde ve plasebo ile
+tedavi gören hastaların %11,7'sinde görme alanı değişiklikleri belirlenmiştir. Pregabalin ile tedavi
+gören hastaların %1,7'sinde ve plasebo ile tedavi gören hastaların %2,1'inde funduskobik
+değişiklikler gözlenmiştir.
+145.2. Farmakokinetik özellikler
+Genel özellikler
+Pregabalinin kararlı durum farmakokinetiği sağlıklı gönüllülerde, antiepileptik ilaç alan epilepsi
+hastalarında ve kronik ağrısı olan hastalarda benzerdir.
+Emilim:
+Pregabalin aç olarak uygulandığı zaman süratle emilip, hem tek hem de çoklu doz uygulama
+sonrasında doruk plazma konsantrasyonlarına 1 saat içinde ulaşılır. Pregabalinin oral
+biyoyararlanımı ≥%90 olup dozdan bağımsızdır. Tekrarlanan uygulama sonrasında, kararlı
+duruma 24 ila 48 saat içinde ulaşılır. Pregabalinin emilim hızı gıdalarla birlikte alındığında düşer
+ve C 'ta yaklaşık %25-30 bir azalmaya, T 'ta ise yaklaşık 2,5 saatlik bir gecikmeye yol açar.
+maks maks
+Yine de pregabalinin gıdalarla birlikte alınmasının emilen pregabalin miktarı üzerinde klinik
+açıdan önemli bir etkisi bulunmamaktadır.
+Dağılım:
+Preklinik çalışmalarda, pregabalinin fareler, sıçanlar ve maymunlarda kan beyin bariyerini geçtiği
+gösterilmiştir. Pregabalinin sıçanlarda plasentayı geçtiği ve laktasyon dönemindeki sıçanların
+sütünde var olduğu gösterilmiştir. İnsanlarda, pregabalinin oral uygulama sonrasındaki görünen
+dağılım hacmi yaklaşık 0,56 L/kg'dır. Pregabalin plazma proteinlerine bağlanmaz.
+Biyotransformasyon:
+Pregabalin insanlarda göz ardı edilebilir bir miktarda metabolizmaya uğrar. Radyoaktif işaretli
+pregabalin dozu sonrasında, idrardaki radyoaktivitenin yaklaşık %98'i değişmemiş pregabalindir.
+Pregabalinin idrarda bulunan ana metaboliti olan N-metillenmiş türevi, dozun %0,9'unu
+oluşturur. Preklinik çalışmalarda, pregabalin (S-enantiomer) rasemizasyon ile R-enantiomere
+dönüşmemiştir.
+Eliminasyon:
+Pregabalin sistemik dolaşımdan esas olarak renal eliminasyon yoluyla değişmemiş ilaç şeklinde
+atılır. Pregabalinin ortalama eliminasyon yarı ömrü 6,3 saattir. Pregabalinin plazma klerensi ve
+renal klerensi kreatinin klerensi ile doğru orantılıdır (bkz. Bölüm 5.2 Farmakokinetik Özellikler,
+Hastalardaki Karakteristik Özellikler, Böbrek Yetmezliği). Böbrek fonksiyonlarında azalma olan
+veya hemodiyaliz gören hastalarda doz ayarlaması gereklidir (bkz. Bölüm 4.2 Tablo 1),
+Doğrusallık / Doğrusal Olmayan Durum:
+Pregabalinin farmakokinetiği, tavsiye edilen günlük doz aralığında doğrusaldır. Pregabalinin
+gönüllüler arasındaki farmakokinetik değişkenliği düşüktür (<%20). Çoklu doz farmakokinetiği
+tek doz verilerinden tahmin edilebilir. Dolayısıyla, pregabalinin plazma konsantrasyonlarının
+rutin kontrolüne gerek yoktur.
+Hastalardaki karakteristik özellikler
+Cinsiyet:
+Klinik çalışmalar, cinsiyetin pregabalinin plazma konsantrasyonları üzerinde klinik açıdan
+önemli bir etkisinin bulunmadığını göstermektedir.
+15Böbrek yetmezliği:
+Pregabalinin klerensi kreatinin klerensiyle doğru orantılıdır. Buna ek olarak, pregabalin
+plazmadan hemodiyalizle etkin şekilde uzaklaştırılmaktadır (4 saatlik hemodiyaliz sonrasında
+plazma pregabalin konsantrasyonları yaklaşık olarak %50 düşmüştür). Böbrek ana atılım yolu
+olduğu için, böbrek yetmezliği olan hastalarda dozun azaltılması ve hemodiyalizin ardından doz
+ilavesi gereklidir (bkz. Bölüm 4.2).
+Karaciğer yetmezliği:
+Karaciğer yetmezliği olan hastalarda spesifik farmakokinetik çalışmalar yürütülmemiştir.
+Pregabalin önemli oranda metabolize edilmediği ve idrarla çoğunlukla değişmemiş ilaç şeklinde
+atıldığı için karaciğer fonksiyon bozukluğunun pregabalin plazma konsantrasyonlarını önemli
+derecede değiştirmesi beklenmemektedir.
+Pediyatrik popülasyon:
+Pregabalin farmakokinetiği, pediyatrik popülasyondaki (yaş grupları: 1 ila 23 aylık, 2 ila 6 yaş, 7
+ila 11 yaş ve 12 ila 16 yaş) epilepsi hastalarında bir farmakokinetik ve tolerabilite çalışmasında
+2,5, 5, 10 ve 15 mg/kg/gün doz seviyelerinde değerlendirilmiştir.
+Açlık durumunda pregabalinin oral alımını takiben plazma pik konsantrasyonuna ulaşma zamanı
+pediyatrik hastalarda genellikle tüm yaş gruplarınınki ile benzer olmuştur ve 0,5 saat ila 2 saat
+arasındadır.
+Pregabalinin C ve eğri altı alan (EAA) parametreleri her yaş grubunda artan doz ile doğrusal
+maks
+olarak artmıştır. 30 kg'ın altındaki pediyatrik hastalarda pregabalinin EAA'sı, artmış vücut
+ağırlığı klerensi bu hastalar için %43'e ayarlandığından, ≥ 30 kg olan hastalara göre %30 daha
+düşük olmuştur.
+Pregabalinin terminal yarılanma ömrü 6 yaşına kadar olan çocuklarda ortalama 3 ila 4 saat
+arasında, 7 ve daha büyük yaş grubundaki hastalarda ise 4 ila 6 saat arasında olmuştur.
+Popülasyon farmakokinetiği analizleri; kreatinin klerensi ile pregabalinin oral klerensinin belirgin
+şekilde eş değişken olduğunu, vücut ağırlığı ile de pregabalinin görünür oral dağılım hacmininin
+belirgin şekilde eş değişken olduğunu göstermiştir ve bu ilişkiler pediyatrik ve yetişkin hastalar
+için benzer olmuştur.
+Pregabalinin farmakokinetiği 3 aydan küçük hastalar için çalışılmamıştır (bkz. Bölüm 4.2, 4.8 ve
+5.1)
+Geriyatrik popülasyon:
+Pregabalin klerensi yaş ilerledikçe azalma eğilimi gösterir. Pregabalinin oral klerensindeki
+azalma, yaş ilerlemesine bağlı olarak kreatinin klerensinde meydana gelen değişikliklerle
+tutarlılık göstermektedir. Yaşa bağlı olarak renal fonksiyonları azalan hastalarda pregabalin
+dozunun azaltılması gerekebilir (bkz. bölüm 4.2 Tablo 1).
+Emziren anneler:
+Pregabalinin farmakokinetiği, en az 12 haftalık doğum sonrası dönemindeki 10 emziren annede,
+her 12 saatte bir 150 mg pregabalin (300 mg günlük doz) verilerek değerlendirilmiştir.
+Emzirmenin, pregabalinin farmakokinetiği üzerine çok az etkisi olmuş ya da hiç etkisi
+olmamıştır. Pregabalin maternal plazmada ortalama kararlı durum konsantrasyonları yaklaşık
+16%76 olan hastalarda anne sütüne geçmektedir. 300 mg/gün veya maksimum doz olan 600 mg/gün
+dozlarında pregabalin kullanan hastaların anne sütünden (ortalama süt tüketiminin 150
+mL/kg/gün olduğu varsayılmıştır) geçen tahmini infant dozunun sırasıyla 0,31 veya 0,62
+mg/kg/gün olması beklenmektedir. Bu tahmini dozlar, mg/kg bazında toplam günlük maternal
+dozunun yaklaşık %7'sidir.
+5.3. Klinik öncesi güvenlilik verileri
+Hayvanlardaki konvansiyonel güvenlilik farmakoloji çalışmalarında, pregabalin klinik olarak
+ilgili dozlarda iyi tolere edilmiştir. Sıçanlarda ve maymunlarda tekrarlanan doz toksisite
+çalışmalarında hipoaktivite, hiperaktivite ve ataksi de dahil olmak üzere MSS etkileri
+görülmüştür. İnsanlara önerilen maksimum klinik doz uygulamasının ≥5 katı doza, yaşlı albino
+sıçanların uzun dönem maruziyeti sonrasında, retinal atrofi insidansında artış genel olarak
+gözlenmiştir.
+Teratojenite:
+Pregabalin fareler, sıçanlar veya tavşanlarda teratojen değildir. Sıçanlarda ve tavşanlarda fetal
+toksisite yalnızca insan maruziyetinin üzerindeki dozlarda ortaya çıkmıştır. Prenatal/postnatal
+toksisite çalışmalarında, pregabalin tavsiye edilen maksimum insan maruziyet seviyesinin >2
+katı maruz kalma seviyelerinde sıçanlarda yavru gelişim toksisitesine yol açmıştır.
+Fertilite:
+Erkek ve dişi sıçanlarda fertilite üzerine advers etki yalnızca terapötik maruziyeti aşan maruziyet
+ile gözlenmiştir. Erkek üreme organlarında ve sperm parametreleri üzerine advers etkiler geri
+dönüşlüdür ve yalnızca terapötik maruziyeti aşan yeterli maruziyet sonrası oluşmuş veya sıçanda
+erkek üreme organının spontan dejeneratif gelişimleri ile ilişkilendirilmiştir. Bu nedenle etkinin
+çok az olduğu ya da hiç olmadığı düşünülmüştür.
+Mutajenite:
+Pregabalin bir dizi in vitro ve in vivo testlerin sonuçlarına göre genotoksik değildir.
+Karsinogenez:
+Pregabalin ile fareler ve sıçanlar üzerinde iki yıllık karsinogenez çalışmaları yürütülmüştür.
+Önerilen maksimum klinik doz olan 600 mg/gün'deki ortalama insan dozu maruziyetinin 24
+katında sıçanlarda tümör gözlenmemiştir. Farelerde, ortalama insan dozu uygulaması benzeri
+maruziyetlerde tümör insidansında artış gözlenmemiştir, ancak artan maruziyette
+hemanjiosarkom insidansında artış gözlenmiştir. Farelerde pregabalin ile ilgili genotoksik
+olmayan tümör oluşma mekanizması trombosit değişiklikleri ve endotel hücre proliferasyonunu
+içermektedir. Kısa dönem ve sınırlı sayıda uzun dönem klinik veriler doğrultusunda bu trombosit
+değişiklikleri sıçanlarda veya insanlarda bulunmamıştır. İnsanlarla ilgili bir risk olduğu
+izlenimini oluşturacak bir kanıt bulunmamaktadır.
+Genç sıçanlarda görülen toksisite tipleri kalitatif olarak yetişkin sıçanlarda görülenlerden farklı
+olmamıştır. Ancak genç sıçanlar daha hassastır. Terapötik dozlarda MSS klinik belirtileri
+hiperaktivite ve bruksizm ve büyümede bazı değişiklikler (kilo almanın geçici olarak
+baskılanması) bulunmaktadır. Çiftleşme dönemlerine olan etkisi insan terapötik doz
+uygulamasının 5 katında incelenmiştir. Genç sıçanlar üzerinde maruziyetten 1-2 hafta sonra insan
+17terapötik dozlarının >2 katında (akustik irkilme yanıtı) veya >5 katında (öğrenme/hafıza)
+nörodavranışsal/kognitif etkileri izlenmiştir. Genç sıçanlarda, insan terapötik dozlarının >2
+katında maruziyetten 1-2 hafta sonra gözlenen azalmış akustik irkilme yanıtı, maruziyetten 9
+hafta sonra artık gözlenmemiştir.
+6. FARMASÖTİK ÖZELLİKLER
+6.1. Yardımcı maddelerin listesi
+Laktoz monohidrat (inek sütünden elde edilmiştir)
+Prejelatinize mısır nişastası
+Talk
+Jelatin (sığır jelatini)
+Titanyum dioksit
+FD&C mavi 2
+FD&C kırmızı 3
+6.2. Geçimsizlikler
+Geçerli değildir.
+6.3. Raf ömrü
+36 ay
+6.4. Saklamaya yönelik özel tedbirler
+25°C altındaki oda sıcaklığında saklayınız.
+6.5. Ambalajın niteliği ve içeriği
+PVC / Alüminyum folyo blisterlerde, 56 kapsül
+6.6. Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+Kullanılmamış olan ürünler ya da atık materyaller "Tıbbi Atıkların Kontrolü yönetmeliği" ve
+"Ambalaj Atıklarının Kontrolü Yönetmeliği"ne uygun olarak imha edilmelidir.
+7. RUHSAT SAHİBİ
+İlko İlaç San. ve Tic. A.Ş.
+Veysel Karani Mah. Çolakoğlu Sok. No:10
+34885 Sancaktepe /İstanbul
+Tel: 0216 564 80 00
+Fax: 0216 564 80 99
+8. RUHSAT NUMARASI
+243/91
+189. İLK RUHSAT TARİHİ/ RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi: 27.07.2012
+Ruhsat yenileme tarihi: 03.05.2018
+10. KÜB'ÜN YENİLENME TARİHİ
+19

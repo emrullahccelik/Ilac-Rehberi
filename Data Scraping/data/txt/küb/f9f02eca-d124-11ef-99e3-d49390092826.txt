@@ -1,0 +1,954 @@
+KISA ÜRÜN BİLGİSİ
+▼ Bu ilaç ek izlemeye tabidir. Bu üçgen yeni güvenlilik bilgisinin hızlı olarak belirlenmesini
+sağlayacaktır. Sağlık mesleği mensuplarının şüpheli advers reaksiyonları TÜFAM’a
+bildirmeleri beklenmektedir. Bakınız Bölüm 4.8 Advers reaksiyonlar nasıl raporlanır?
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+TEVAGRASTİM® 30 MIU/0.5 mL SC/IV Enjeksiyon/İnfüzyon İçin Çözelti İçeren Kullanıma
+Hazır Enjektör
+Steril
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde: Her bir kullanıma hazır enjektör, 0,5 mL enjeksiyonluk çözelti veya infüzyon
+çözeltisi içerisinde 30 milyon uluslararası ünite (30 MIU = 300 mikrogram) filgrastim (r-
+metHuG-CSF, rekombinant metiyonil insan granulosit koloni-uyarıcı faktörü) içerir.
+Filgrastim yüksek derecede saflaştırılmış non-glikolize bir protein olup, 175 amino asit içerir.
+Filgrastim, Escherichia coli bakterisinin genetik olarak değiştirilmiş laboratuvar suşunda,
+granülosit koloni-uyarıcı faktör için bir gen eklenmesiyle üretilmiş bir biyobenzerdir.
+Yardımcı maddeler (mL başına):
+Sorbitol: 50 mg
+Sodyum hidroksit: pH ayarı için yeterli miktarda içerir.
+Yardımcı maddeler için 6.1’e bakınız.
+3. FARMASÖTİK FORM
+Kullanıma hazır dolu enjektör, 0,5 mL
+Partikülsüz, berrak ve renksiz çözelti
+4. KLİNİK ÖZELLİKLER
+4.1. Terapötik endikasyonlar
+Sitotoksik kemoterapi
+TEVAGRASTİM® kronik miyeloid lösemi ve miyelodisplastik sendromlar dışındaki malign
+hastalık nedeniyle sitotoksik kemoterapi gören hastalarda, febril nötropeni oluşma sıklığının ve
+nötropeni süresinin azaltılmasında ve miyeloablatif tedaviden sonra kemik iliği nakli uygulanan
+uzun süreli ciddi nötropeni riskinin artmış olduğu düşünülen hastalarda nötropeni süresinin
+azaltılmasında ve klinik komplikasyonlarında endikedir (bkz. Bölüm 4.2. Pozoloji ve uygulama
+şekli/ Özel popülasyonlara ilişkin ek bilgiler/Pediyatrik popülasyon).
+Periferik kan progenitör hücre (PKPH) mobilizasyonu
+TEVAGRASTİM®, allojeneik periferik kan progenitör hücrelerinin harekete geçirilmesi
+amacıyla sağlıklı gönüllü donörlerde tek başına veya otolog periferik kan progenitör
+hücrelerinin harekete geçirilmesi amacıyla veya kemik iliği baskılayıcı kemoterapiyi takip eden
+periferik kan progenitör hücre infüzyonu ile sağlanan hematopoetik iyileşmeyi hızlandırmaya
+yönelik uygulamalar için endikedir.
+1 / 24Ciddi kronik nötropeni (AKN)
+Uzun süreli TEVAGRASTİM® kullanımı, mutlak nötrofil sayısı (MNS) ≤ 0,5 x 109/L olan,
+ciddi konjenital, siklik veya idiyopatik nötropenisi olan çocuk veya erişkin hastalarda, ciddi
+veya tekrarlayan enfeksiyon hikayesi bulunan hastalarda nötrofil sayısının artırılması ve
+enfeksiyonla ilişkili olayların sıklık ve süresinin azaltılmasında endikedir.
+HIV enfeksiyonu
+TEVAGRASTİM®, ilerlemiş HIV enfeksiyonu olan hastalarda bakteriyel enfeksiyon riskini
+azaltmak için, kalıcı nötropeninin (MNS ≤ 1,0 x 109/L) tedavisinde endikedir.
+Akut miyeloid lösemi (AML)
+TEVAGRASTİM®, indüksiyon veya konsolidasyon kemoterapisi gören hastalarda nötropeni
+süresinin ve ilgili klinik sekelin azaltılmasında endikedir.
+4.2. Pozoloji ve uygulama şekli
+TEVAGRASTİM® tedavisi, granülosit koloni-uyarıcı faktörü (G-CSF) tedavisinde ve
+hematoloji alanında deneyimli, gerekli diyagnostik donanıma sahip onkoloji merkezleriyle
+işbirliği halinde uygulanmalıdır. Mobilizasyon ve aferez prosedürleri bu alanda kabul edilebilen
+deneyime sahip ve de hematopoetik progenitör hücrelerin doğru olarak monitörize edilebildiği
+onkoloji-hematoloji merkezleriyle işbirliği içinde yapılmalıdır.
+Pozoloji/uygulama sıklığı ve süresi:
+Sitotoksik kemoterapi uygulanmakta olan hastalarda kullanımı
+Tavsiye edilen TEVAGRASTİM® dozu 0,5 MIU (5 mikrogram)/kg/gün’dür. İlk
+TEVAGRASTİM® dozu, sitotoksik kemoterapiyi izleyen 24 saatten daha kısa bir süre içinde
+uygulanmamalıdır. TEVAGRASTİM® günlük subkutan enjeksiyon ya da %5 glukoz çözeltisi
+içinde seyreltilmiş halde 30 dakika süre ile verilen günlük intravenöz infüzyon şeklinde
+uygulanabilir (bkz. Bölüm 4.2 Uygulama şekli/Seyreltme talimatları).
+Çoğu durumda subkutan yol tercih edilmektedir. Tek doz uygulama çalışmasında, intravenöz
+uygulamanın etki süresini kısaltabileceği yönünde bulgular elde edilmiştir. Bu bulgunun çoklu
+doz uygulaması ile olan klinik ilişkisi açık değildir. Uygulama yolu seçimi, bireysel klinik
+koşullara göre yapılmalıdır.
+Günlük TEVAGRASTİM® uygulamaları, beklenen nötrofil alt düzeyi geçinceye ve nötrofil
+sayısı normal sınırlara ulaşıncaya kadar sürdürülmelidir. Solid tümörler, lenfomalar ve lenfoid
+lösemi için uygulanan yerleşik kemoterapi sonrasında, bu kriterleri karşılayacak tedavi
+süresinin, 14 güne kadar olması beklenir. Akut miyeloid lösemide indüksiyon ve konsolidasyon
+terapisi sonrasında, tedavi süresi, kullanılan sitotoksik kemoterapinin türüne, dozuna ve
+şemasına bağlı olarak, önemli oranda daha uzun (38 güne kadar) olabilir.
+Sitotoksik kemoterapi almakta olan hastalarda, TEVAGRASTİM® tedavisi başlatıldıktan 1 ile
+2 gün sonra, nötrofil sayılarında tipik olarak geçici bir artış görülür. Ancak, kalıcı bir terapötik
+yanıt için, TEVAGRASTİM® tedavisi, beklenen alt düzeyi geçmeden ve nötrofil sayısı normal
+sınırlara ulaşmadan durdurulmamalıdır. Hedeflenen nötrofil alt düzeyi elde edilmeden önce
+TEVAGRASTİM® tedavisinin erken kesilmemesi tavsiye edilir (Çocuklarda kullanım için bkz.
+Bölüm 4.2. Pozoloji ve uygulama şekli/ Özel popülasyonlara ilişkin ek bilgiler/Pediyatrik
+popülasyon).
+2 / 24Miyeloablatif tedaviden sonra kemik iliği nakli uygulanan hastalarda kullanımı
+TEVAGRASTİM®’in tavsiye edilen başlangıç dozu, 30 dakika veya 24 saat intravenöz
+infüzyon yoluyla verilen 1,0 MIU (10 mikrogram)/kg/gün veya 24 saat sürekli subkutan
+infüzyon yoluyla verilen 1,0 MIU (10 mikrogram)/kg/gündür. TEVAGRASTİM®, 20 mL
+%5’lik glukoz çözeltisi içinde seyreltilmelidir (bkz. Bölüm 4.2 Uygulama şekli/Seyreltme
+talimatları).
+TEVAGRASTİM®’in ilk dozu, sitotoksik kemoterapiden sonra 24 saatten önce verilmemelidir,
+kemik iliği infüzyonundan sonra ise 24 saat içinde uygulanmalıdır. Bu endikasyonlarda 28
+günden daha uzun süreyle verilen filgrastimin etkililik ve güvenliliği belirlenmemiştir.
+Nötrofil alt düzeyi geçildikten sonra, TEVAGRASTİM® günlük dozu, nötrofil cevabına göre
+aşağıdaki gibi ayarlanmalıdır (bkz. Bölüm 4.2. Pozoloji ve uygulama şekli/Özel popülasyonlara
+ilişkin ek bilgiler/Pediyatrik popülasyon).
+Nötrofil Sayısı TEVAGRASTİM® Doz Ayarlaması
+0,5 MIU (5 mikrogram)/kg/gün’e
+Ardarda 3 gün >1,0x109/L
+düşürülmelidir
+Sonra, MNS, ardarda 3 gün daha >1,0x109/L’de TEVAGRASTİM® uygulamasına son
+kalırsa verilmelidir.
+MNS, tedavi sırasında <1,0x109/L’ye düştüğü takdirde, TEVAGRASTİM® dozu yukarıdaki
+aşamalara göre yeniden artırılmalıdır.
+MNS= Mutlak nötrofil sayısı
+Periferik kan progenitör hücrelerinin (PKPH) mobilizasyonu amaçlanan hastalarda kullanımı
+Miyelosupresif ya da miyeloablatif tedavi uygulanan ve bunu izleyerek kemik iliği nakli
+yapılsın ya da yapılmasın, otolog PKPH nakli gerçekleştirilen hastalarda PKPH’ lerinin
+mobilizasyonunu sağlamak amacıyla kullanılır.
+PKPH mobilizasyonunu amaçlayan tek başına kullanımında, önerilen TEVAGRASTİM® dozu
+24 saat kesintisiz subkutan infüzyon ya da 5-7 gün süreyle, günlük tek doz subkutan enjeksiyon
+şeklinde 1,0 MIU (10 mikrogram)/kg/gün’dür. TEVAGRASTİM®,infüzyon yoluyla kullanım
+için 20 mL %5 glukoz çözeltisi içinde seyreltilmelidir (bkz. Bölüm 4.2 Uygulama şekli/
+Seyreltme talimatları). Lökoferezin zamanlaması: 5 ve 6. günlerde bir ya da iki lökoferez
+sıklıkla yeterli olur. Diğer koşullarda, ek lökoferezlere gerek duyulabilir. TEVAGRASTİM®
+uygulamasına son lökofereze kadar devam edilmelidir.
+Miyelosupresif kemoterapi sonrasında PKPH’lerin mobilizasyonu için tavsiye edilen
+TEVAGRASTİM® dozu, kemoterapinin tamamlanmasından sonraki ilk günden başlayarak,
+hedeflenen nötrofil alt düzeyi elde edilene ve nötrofil sayısı normal düzeye ulaşana kadar
+devam edilmek üzere günlük subkutan enjeksiyon şeklinde 0,5 MIU (5 mikrogram)/kg/gün’dür.
+Lökoferez, MNS<0,5x109/L’den >5,0x109/L’ye çıktığı dönem içinde uygulanmalıdır. Yaygın
+kemoterapi uygulanmamış hastalarda, genellikle bir lökoferez yeterli olmaktadır. Diğer
+durumlarda, ek lökoferez uygulamaları önerilmektedir.
+Sağlıklı donörlerde allojeneik periferik kan progenitör hücre transplantasyonu öncesinde PKPH
+mobilizasyonu
+Sağlıklı donörlerde PKPH mobilizasyonu için, TEVAGRASTİM® ardarda 4 ile 5 gün süreyle
+subkutan 1,0 MIU (10 mikrogram)/kg/gün dozunda uygulanmalıdır. Lökoferez 5. gün
+3 / 24başlatılmalı ve 4x106 CD34+ hücre/kg-alıcı vücut ağırlığı kadar hücre toplamak için 6. güne
+kadar sürdürülmelidir.
+Sağlıklı donörlerde allojeneik periferik kan progenitör hücre transplantasyonu öncesinde PKPH
+mobilizasyonu için olan endikasyonda TEVAGRASTİM®’in 16 yaşından küçük veya 60
+yaşından büyük sağlıklı donörlerde güvenliliği ve etkililiği değerlendirilmemiştir (bkz. 4.2.
+Pozoloji ve uygulama şekli/Özel popülasyonlara ilişkin ek bilgiler/Pediyatrik popülasyon).
+Ciddi kronik nötropenili hastalarda kullanımı
+Konjenital nötropeni
+Tavsiye edilen başlangıç dozu, tek defada veya birkaç enjeksiyona bölünerek subkutan yolla
+verilen 1,2 MIU (12 mikrogram)/kg/gün’dür.
+İdiyopatik veya siklik nötropeni
+Tavsiye edilen başlangıç dozu, tek defada veya birkaç enjeksiyona bölünerek subkutan yolla
+verilen 0,5 MIU (5 mikrogram)/kg/gün’dür.
+Doz ayarlaması
+TEVAGRASTİM®, nötrofil sayısı 1,5x109/L’ye ulaşıncaya ve bu düzeyde tutuluncaya kadar
+subkutan enjeksiyonlar halinde her gün verilmelidir. Bu cevap elde edildikten sonra, bu düzeyin
+korunması için gereken en düşük etkili doz belirlenmelidir. Yeterli nötrofil sayısının
+korunabilmesi için uzun bir süre günlük enjeksiyonların sürdürülmesi gerekir. 1-2 haftalık
+tedaviden sonra, başlangıç dozu hastanın cevabına göre iki katına çıkarılabilir veya yarıya
+düşürülebilir. Bundan sonra doz, nötrofil sayısı 1,5x109/L ile 10x109/L arasında olacak şekilde,
+her 1-2 haftada bir, her hasta için bireysel olarak ayarlanabilir. Ciddi enfeksiyonu olan
+hastalarda, doz artırımı için daha hızlı bir şema izlenebilir.
+Klinik deneylerde, tedaviye cevap veren hastaların %97’sinde ≤2,4 MIU (24
+mikrogram)/kg/gün düzeyindeki dozlarla tam bir cevap elde edilmiştir.
+Ciddi kronik nötropenili hastalara 2,4 MIU (24 mikrogram)/kg/gün’ü aşan dozlarda filgrastim
+verilmesinin uzun dönem güvenliliği belirlenmemiştir.
+(Çocuklarda kullanım için bkz. Bölüm 4.2. Pozoloji ve uygulama şekli/ Özel popülasyonlara
+ilişkin ek bilgiler/ Pediyatrik popülasyon).
+HIV enfeksiyonu
+Nötropeninin düzeltilmesi
+Önerilen TEVAGRASTİM® başlangıç dozu, günlük subkutan enjeksiyonlar yoluyla verilen 0.1
+MIU (1 mikrogram)/kg/gündür. Bu doz normal bir nötrofil sayısına (MNS>2,0x109/L)
+ulaşılıncaya kadar ve bu düzey sürdürülmek üzere, en fazla 0,4 MIU (4 mikrogram)/kg/gün’e
+kadar titre edilebilir.
+Klinik çalışmalarda, hastaların %90’dan fazlası bu dozlarda yanıt vermiş ve nötropeninin
+ortanca değeri olarak 2 gün içerisinde düzelmesi sağlanmıştır.
+Az sayıda hastada (<%10), nötropeninin düzelmesini sağlamak için 1,0 MIU (10
+mikrogram)/kg/güne kadar olan dozlar gerekmiştir.
+Normal nötrofil sayılarının sürdürülmesi için
+4 / 24Nötropenide düzelme elde edildiğinde, normal bir nötrofil sayısını sürdürecek en düşük etkili
+doz belirlenmelidir. Başlangıç dozunun ayarlanması için, subkutan enjeksiyon yoluyla 30 MIU
+(300 mikrogram)/gün dozunda uygulama önerilmektedir. >2,0x109/L düzeyinde nötrofil
+sayısını koruyabilmek için, hastanın MNS değerine bağlı olarak daha başka doz ayarlamaları
+gerekli olabilir. Klinik çalışmalarda, >2,0x109/L MNS düzeyini sürdürebilmek için, ortanca
+uygulama sıklığı haftada 3 gün olmak üzere, haftada 1 gün ile 7 gün arasında, 30 MIU (300
+mikrogram)/gün dozunda verilmesi gerekmiştir. >2,0x109/L’lik MNS düzeyinin korunması için
+uzun dönem uygulama gerekli olabilir.
+Uygulama şekli:
+İntravenöz infüzyon veya subkutan enjeksiyon.
+Ürünün uygulanması ile ilgili talimatlar:
+• Şiddetli çalkalamadan kaçınınız.
+• Kullanmadan önce çözelti görsel olarak incelenmelidir. Sadece partikülsüz, berrak çözeltiler
+kullanılmalıdır.
+• TEVAGRASTİM® kullanıma hazır enjektörler bir defalık kullanım içindir.
+Seyreltme talimatları:
+TEVAGRASTİM® çökme (presipitasyon) olasılığı nedeniyle hiçbir zaman fizyolojik serum
+(%0,9 NaCl) içinde seyreltilmez.
+Gerektiğinde, TEVAGRASTİM® 50 mg/mL %5 glukoz çözeltisi içinde seyreltilebilir. 0,2
+MIU/mL’den (2 mikrogram/mL) daha düşük konsantrasyona seyreltilmesi hiçbir zaman tavsiye
+edilmez.
+TEVAGRASTİM® 1,5 MIU/mL’nin (15 mikrogram/mL) altında konsantrasyonlara
+seyreltilmiş ise, 2 mg/mL’lik son konsantrasyon elde edilecek şekilde insan serum albümini
+(HSA) ilave edilmelidir. Böylece, plastik yüzeylere adsorpsiyon önlenir.
+Bu çözelti, 2-8°C sıcaklıkta 7 gün boyunca stabil kalabilir, ancak bakteriyel kontaminasyon
+riski nedeniyle ilk 24 saat içinde kullanılmalıdır.
+Örnek: 20 mL’lik son enjeksiyon hacminde, 30 MIU’den (300 mikrogram) az toplam filgrastim
+dozları, %20 (200 mg/mL) insan albümin solüsyonunun (Ph. Eur.) 0,2 mL’si eklenerek
+verilmelidir. 0,2 MIU (2 mikrogram)/mL’den daha düşük konsantrasyona seyreltilmesi hiçbir
+zaman tavsiye edilmez.
+Kullanıma hazır enjektörlerin iğne emniyet muhafazası ile kullanılması
+Kullanıma hazır enjektörler iğne emniyet muhafazası içerir. İğne emniyet muhafazası
+enjeksiyondan sonra iğne batmalarını önlemek için iğnenin kapatılmasında kullanılır. Bu
+enjektörün normal işlevini engellemez.
+Tüm doz verilinceye kadar pistona yavaşça ve eşit şekilde, sonuna kadar bastırılır. Pistona baskı
+uygulanırken, enjektör hastadan çıkartılır. Piston serbest bırakıldığında, iğne emniyet
+muhafazası ile iğne kapatılır.
+5 / 24Özel popülasyonlara ilişkin ek bilgiler:
+Böbrek/Karaciğer yetmezliği:
+Böbrek ya da karaciğer fonksiyonları ağır derecede bozulmuş olan hastalarda yürütülen
+filgrastim çalışmalarında, bu ajanın normal bireylerdekine benzer bir farmakokinetik ve
+farmakodinamik profil gösterdiği ortaya konulmuştur. Bu durumlarda doz ayarlaması gerekli
+değildir.
+Pediyatrik popülasyon:
+Sitotoksik kemoterapi uygulanan hastalarda
+TEVAGRASTİM®’in güvenlilik ve etkililiği, sitotoksik kemoterapi alan yetişkinlerde ve
+çocuklarda benzerdir.
+Miyelosupresif veya miyeloablatif tedavinin ardından otolog periferik kan progenitör hücre
+transplantasyonu yapılan hastalarda TEVAGRASTİM®’in güvenlilik ve etkililiği, 16 yaşından
+küçük sağlıklı donörlerde incelenmemiştir.
+Ciddi kronik nötropeni hastalarında
+Yenidoğanlarda güvenlilik ve etkililiği incelenmemiştir.
+Uzun dönem TEVAGRASTİM® kullanımı, mutlak nötrofil sayısı (MNS) ≤ 0,5 x 109/L olan
+ciddi konjenital, siklik veya idiyopatik nötropenisi olan çocuklarda, ciddi ve tekrarlayan
+enfeksiyon hikayesi olan hastalarda nötrofil sayısının artırılması ve enfeksiyonlara bağlı
+olayların sıklık ve süresinin azaltılmasında endikedir (bkz. Bölüm 4.1 Terapotik
+endikasyonlar).
+Çocuklarda ciddi kronik nötropeni ve kanser tedavisi alanında kullanımı
+Ciddi kronik nötropeni çalışmalarına katılan hastaların %65’i 18 yaşın altındadır. Hastaların
+çoğunun konjenital nötropeni hastası olduğu bu yaş grubunda tedavinin etkili olduğu açıktır.
+Ciddi kronik nötropeni nedeniyle tedavi gören pediyatrik hastalarda güvenlilik profilinde bir
+farklılık saptanmamıştır.
+Pediyatrik hastalarla yapılan klinik çalışmaların verileri filgrastimin sitotoksik kemoterapi alan
+çocuklarda kullanımının etkililiğinin ve güvenliliğinin erişkinlerdekine benzer olduğunu
+göstermektedir.
+Pediyatrik hastalardaki tavsiye edilen doz miyelosupresif sitotoksik kemoterapi gören
+yetişkinlerle aynıdır.
+Geriyatrik popülasyon:
+Miyelosupresif veya miyeloablatif tedavinin ardından otolog periferik kan progenitor hücre
+transplantasyonu yapılan hastalarda TEVAGRASTİM®’in güvenlilik ve etkililiği, 60 yaşından
+büyük sağlıklı donörlerde incelenmemiştir.
+TEVAGRASTİM® ile yapılan klinik deneyler az sayıda yaşlı hastayı da içermiş, ancak bu grup
+üzerinde özel araştırmalar yapılmamıştır. Bu nedenle kesin doz tavsiyesi yapılamamaktadır.
+6 / 244.3. Kontrendikasyonlar
+E. coli kaynaklı proteinlere, filgrastim veya ilacın içerdiği diğer yardımcı maddelerden herhangi
+birine karşı aşırı duyarlılığı olduğu bilinen hastalarda TEVAGRASTİM® kullanımı
+kontrendikedir.
+4.4. Özel kullanım uyarıları ve önlemleri
+TEVAGRASTİM®, sitotoksik kemoterapinin dozunu artırmak amacıyla belirlenmiş doz
+şemaları dışında kullanılmamalıdır.
+TEVAGRASTİM®, anormal sitogenetik bulguları ve ciddi konjenital nötropenisi (Kostman
+sendromu) olan hastalarda kullanılmamalıdır.
+Sağlıklı gönüllüler ve kanser hastalarında G-CSF uygulamasının ardından aortit raporlanmıştır.
+Karşılaşılan semptomlar, ateş, abdominal ağrı, halsizlik, sırt ağrısı ve enflamatuvar
+belirteçlerde (CRP (C-reaktif protein) ve lökosit sayısı gibi) artışı içermektedir. Çoğu vakada
+aortit, bilgisayarlı tomografi taraması ile teşhis edilir ve genellikle G-CSF’in sonlandırılmasıyla
+ortadan kalkar (bkz. Bölüm 4.8).
+Akut miyeloid lösemi hastalarında özel önlemler
+Malign hücre gelişmesi
+Granülosit koloni-uyarıcı faktör miyeloid hücrelerin gelişmesini in vitro olarak artırabilir ve
+bazı non-miyeloid hücrelerde de in vitro benzer etkiler görülebilir.
+Filgrastimin miyelodisplastik sendromda veya kronik miyeloid lösemide etkililik ve güvenliliği
+tespit edilmemiştir. TEVAGRASTİM® bu durumlarda endike değildir. Kronik miyeloid
+löseminin blast transformasyonunun tanısını akut miyeloid lösemiden ayırt etmek için özel
+dikkat gösterilmelidir.
+Sekonder AML hastalarında güvenlilik ve etkililik verilerinin kısıtlı olması nedeniyle,
+TEVAGRASTİM® dikkatle uygulanmalıdır.
+55 yaşından küçük ve sitogenetik profili iyi [t(8;21), t(15;17) ve inv(16)] olan yeni AML
+hastalarında, TEVAGRASTİM® uygulamasının güvenlilik ve etkililiği tespit edilmemiştir.
+Diğer özel önlemler
+Altı aydan fazla TEVAGRASTİM tedavisi gören osteoporotik kemik hastalıkları olan
+hastalarda kemik yoğunluğunun izlenmesi tavsiye edilir.
+G-CSF uygulanması sonrasında pulmoner advers etkiler, özellikle de interstisyel akciğer
+hastalığı bildirilmiştir. Akciğer infiltratları veya pnömoni hikayesi olan hastalarda risk daha
+yüksek olabilir. Bazı olgularda, fatal olabilen solunum yetmezliği ya da erişkin respiratuvar
+distres sendromu (ARDS) ile sonuçlanan interstisyel pnömoni, pulmoner ödem ve pulmoner
+infiltratlar dahil seyrek pulmoner advers etkiler bildirilmiştir. Öksürük ateş gibi pulmoner
+belirtilerin başlangıcı ve dispne ile birlikte pulmoner infiltrasyonun radyolojik bulgularının
+ortaya çıkması ve pulmoner fonksiyonda bozulma ARDS ön işaretleri olabilir.
+TEVAGRASTİM® tedavisi sonlandırılmalı ve uygun tedavi uygulanmalıdır.
+Granülosit koloni-stimüle edici faktör uygulamasından sonra kapiller kaçış sendromu rapor
+edilmiştir ve hipotansiyon, hipoalbüminemi, ödem ve hemokonsantrasyon ile karakterize bir
+7 / 24sendromdur. Kapiller kaçış sendromu semptomlarını sergileyen hastalar yakından izlenmeli ve
+aralarında yoğun bakım ihtiyacının da bulunabileceği standart semptomatik tedavi
+uygulanmalıdır (bkz. Bölüm 4.8).
+Glomerülonefrit
+Filgrastim, lenograstim veya pegfilgrastim alan hastalarda glomerülonefrit bildirilmiştir. Genel
+olarak, filgrastim, lenograstim ve pegfilgrastim dozunun azaltılmasından veya ilacın
+bırakılmasından sonra glomerülonefrite ilişkin olaylar düzelmektedir. İdrar tahlili izlemesi
+önerilmektedir (bkz. Bölüm 4.8).
+Kanser hastalarında özel önlemler
+Lökositoz
+0,3 MIU/kg/gün (3 mikrogram/kg/gün)’ün üzerindeki dozlarda filgrastim alan hastaların
+%5’inden daha azında 100x109/L veya daha yüksek lökosit (beyaz kan hücresi) sayısı
+görülmüştür. Bu lökosit sayısına bağlanabilecek direkt bir istenmeyen etki bildirilmemiştir.
+Bununla birlikte, ciddi lökositoz riski göz önünde bulundurularak, TEVAGRASTİM® tedavisi
+sırasında düzenli aralıklarla lökosit sayımı yapılmalıdır. Lökosit sayısı beklenen alt seviyenin
+50x109/L üzerinde ise, TEVAGRASTİM® tedavisi derhal kesilmelidir. Öte yandan lökosit
+sayısının >70x109/L’ye yükselmesi halinde PKPH mobilizasyonu için uygulanan
+TEVAGRASTİM® tedavisinin kesilmesi veya dozunun azaltılması uygundur.
+Yüksek doz kemoterapi ile ilgili riskler
+Hastalar yüksek doz kemoterapötikler ile tedavi edilirken çok dikkatli olunmalıdır; çünkü tümör
+iyileşmesinin bu tedavi ile arttığı tespit edilmemiştir ve yoğunlaştırılmış dozlarda
+kemoterapötik ilaçlar kardiyak, pulmoner, nörolojik ve dermatolojik etkiler dahil toksisite
+artışına yol açabilir. Kullanılan spesifik kemoterapi ajanlarının kısa ürün bilgileri dikkate
+alınmalıdır.
+Tek başına TEVAGRASTİM® ile tedavi miyelosupresif kemoterapiye bağlı anemi ve
+trombositopeniyi önlemez. Yüksek dozda kemoterapi alma riskinden dolayı (örn. ürün
+bilgilerinde belirtilen ilacın tam dozu), hasta daha büyük anemi ve trombositopeni riski altında
+olabilir. Trombosit sayısının ve hematokritin düzenli izlenmesi tavsiye edilir. Ciddi
+trombositopeniye neden oldukları bilinen ve tek başına veya kombine edilerek kullanılan
+kemoterapötik maddeler verilirken çok dikkatli olunmalıdır.
+Filgrastim ile mobilize edilen PKPH’lerin kullanımı, miyelosupresif ya da miyeloablatif
+kemoterapiyi takiben gelişen trombositopeninin derinliğinde ve süresinde azalma sağlamıştır.
+Diğer özel önlemler
+Filgrastimin miyeloid progenitörün önemli düzeyde azaldığı hastalarda etkisi araştırılmamıştır.
+Filgrastim, nötrofil sayısını artırıcı etki gösterirken esas olarak nötrofil prekürsörleri üzerine
+etki eder. Bu nedenle prekürsörleri azalmış olan hastalarda nötrofil cevabı düşebilir (yoğun
+radyoterapi veya kemoterapi ile tedavi edilenler veya tümörle kemik iliği infiltre edilenler gibi).
+Allojenik kemik iliği naklinden sonra G-CSF alan hastalarda GvHD ve ölüm bildirilmiştir (bkz.
+Bölüm 4.8 ve 5.1).
+8 / 24Büyüme faktörü tedavisine bağlı kemik iliğinin artan hematopoetik aktivitesi, geçici pozitif
+kemik görüntü değişiklikleri ile ilişkilendirilmiştir. Bu, kemik görüntü sonuçları yorumlanırken
+göz önünde bulundurulmalıdır.
+Periferik kan progenitör hücrelerinin mobilizasyonu amaçlanan hastalarda özel önlemler
+Mobilizasyon
+Önerilen iki mobilizasyon yöntemini (tek başına ya da kemik iliğini baskılayıcı kemoterapiyle
+kombine filgrastim uygulaması) aynı hasta grubu üzerinde karşılaştıran herhangi bir prospektif
+randomize çalışma yürütülmemiştir. Gerek hastalar arasında, gerek CD34+ hücrelerinin
+laboratuvar tahlil sonuçları arasındaki değişkenlik düzeyi, çalışmalar arasında bir karşılaştırma
+yapmanın güçlüğünü ortaya koymaktadır. Bu nedenle uygun bir yöntem önermek zordur.
+Mobilizasyon yönteminin seçiminde, her hasta için bireysel olarak yürütülen tedavinin
+amaçlarıyla paralel bir yaklaşım sağlanmalıdır.
+Daha önce sitotoksik ilaç kullananlar
+Daha önce yoğun miyelosupresif tedavi görmüş hastalarda, öngörülen minimum hücre düzeyini
+(≥ 2,0x106/CD34+ hücre/kg) sağlamaya ya da trombosit artışını aynı düzeyde hızlandırmaya
+yetecek seviyede PKPH mobilizasyonu gerçekleşmeyebilir.
+Bazı sitotoksik ilaçlar, özellikle hematopoetik progenitör havuzu üzerinde toksisite yaratır ve
+progenitör mobilizasyonunu ters yönde etkileyebilir. Melfalan, karmustin (BCNU) ve
+karboplatin gibi ilaçların progenitör mobilizasyonu girişiminden önce uzun süre kullanılmış
+olması, tedavinin verimini düşürebilir. Öte yandan, melfalan, karboplatin ya da BCNU ile
+TEVAGRASTİM®’in birlikte uygulanmasının, progenitör mobilizasyonunda etkili olduğu
+gösterilmiştir. Bir hastaya periferik kan progenitör hücre nakli düşünülüyorsa, kök hücre
+mobilizasyonunun tedavinin erken dönemlerinde gerçekleştirilmesi önerilmektedir. Bu gibi
+hastalarda, yüksek doz kemoterapi uygulamasına geçilmeden önce dolaşımdaki progenitör
+sayısına özellikle dikkat edilmelidir. Eğer harekete geçirilen progenitör sayısı, yukarıda verilen
+ölçüm kriterlerine göre yetersizse, progenitör desteği sağlanmasını gerektirmeyen alternatif
+tedavi şekilleri düşünülmelidir.
+Progenitör hücre miktarının ölçülmesi
+TEVAGRASTİM® tedavisi uygulanan hastalarda progenitör hücre sayısının ölçülmesi
+aşamasında, kullanılan kantitatif yönteme özen gösterilmelidir. CD34+ hücre sayısına ilişkin
+akım sitometrik analiz sonuçları, kullanılan yönteme özgü değişkenlikler içermektedir ve başka
+laboratuvarlarda yürütülen çalışmalara dayanarak önerilen rakamlar dikkatle yorumlanmalıdır.
+İstatistiksel analiz, infüzyon yoluyla geri verilen CD34+ hücrelerinin sayısı ile yüksek doz
+kemoterapiyi takiben trombosit sayısında görülen artış hızı arasındaki bağıntının, karmaşık
+ancak sürekli bir ilişki olduğunu göstermektedir.
+Minimum artışın ≥ 2,0x106 CD34+ hücre/kg olması önerisi, yeterli düzeyde hematolojik
+yeniden yapılanma sağlandığı görülen yayınlara dayanmaktadır. Daha yüksek miktarlar
+iyileşme hızını artırmakta, bunun altında kalan değerler ise daha yavaş bir iyileşme sağlamakta
+gibi görünmektedir.
+PKPH mobilizasyonu amaçlanan normal donörlerde özel önlemler
+PKPH mobilizasyonu sağlıklı donörlerde doğrudan bir klinik yarar sağlamaz ve yalnızca
+allojeneik kök hücre transplantasyonu amaçlandığında düşünülmelidir.
+9 / 24PKPH mobilizasyonu yalnızca, kök hücresi bağışı için normal klinik ve laboratuvar elverişlilik
+kriterlerine sahip donörlerde, hematolojik değerler ve enfeksiyöz hastalık konularına özel bir
+dikkat gösterilerek düşünülmelidir.
+16 yaşın altında veya 60 yaşın üzerinde normal donörlerde TEVAGRASTİM®'in güvenliği ve
+etkililiği değerlendirilmemiştir.
+İncelenen kişilerin %35’inde, filgrastim uygulaması ve lökoferezden sonra geçici
+trombositopeni (trombositler<100x109/L) gözlenmiştir. Bunlar arasında, trombositlerin
+<50x109/L olduğu iki olgu bildirilmiştir ve bu durum lökoferez yöntemine bağlanmıştır.
+Eğer birden fazla lökoferez gerekiyorsa, lökoferez öncesinde trombositleri <100x109/L olan
+donörlere özel bir dikkat gösterilmelidir; genel olarak, eğer trombositler <75x109/L ise aferez
+uygulanmamalıdır.
+Antikoagülan tedavi almakta olan veya hemostaz defektleri olduğu bilinen donörlerde
+lökoferez uygulanmamalıdır.
+Eğer lökosit sayıları >70x109/L düzeyine yükselirse, TEVAGRASTİM® uygulaması
+durdurulmalı ya da dozu azaltılmalıdır.
+PKPH mobilizasyonu amacıyla G-CSF’ler alan donörler, hematolojik göstergeler normale
+dönünceye kadar izlenmelidirler.
+Normal donörlerde G-CSF kullanılmasının ardından, geçici sitogenetik modifikasyonlar
+gözlemlenmiştir. Bu değişikliklerin hematolojik malignite gelişimi açısından anlamlılığı
+bilinmemektedir. Donörlerin uzun dönem takibi devam etmektedir. Yine de, malign miyeloid
+bir klona dönüşme riski göz ardı edilemez. Uzun dönem güvenliliğin izlenmesini sağlamak
+amacıyla aferez merkezini en az 10 yıl boyunca kök hücre donörlerinin sistematik bir kaydını
+tutması ve takip etmesi tavsiye edilmektedir.
+Hem sağlıklı donörlerde hem de kanserli hastalarda, granülosit-koloni uyarıcı faktörlerin (G-
+CSF’ler) uygulanmasından sonra, yaygın ancak genellikle asemptomatik dalak büyümesi ve
+çok seyrek dalak yırtılması vakaları bildirilmiştir. Bazı dalak rüptürü vakaları ölümcüldür. Bu
+nedenle, dalak büyüklüğü dikkatli şekilde izlenmelidir (örn. klinik muayene, ultrason).
+donörlerde veya hastalarda sol üst abdominal ağrı ya da omuz başı ağrısı görüldüğünde dalak
+rüptürü tanısı düşünülmelidir.
+Pazarlama sonrası deneyimde normal donörlerde pulmoner advers olaylar (hemoptiz, pulmoner
+kanama, akciğer infiltratları, dispne ve hipoksi) çok seyrek şekilde bildirilmiştir. Şüphelenilen
+veya teyit edilmiş pulmoner advers olaylar halinde TEVAGRASTİM® tedavisinin kesilmesi
+düşünülmeli ve gerekli tıbbi tedavi uygulanmalıdır.
+TEVAGRASTİM® ile mobilize edilmiş allojeneik periferik kan progenitör hücreleri
+alıcılarında özel önlemler
+Güncel veriler, allojeneik PKPH grefti ve alıcı arasındaki immünolojik etkileşimlerin, kemik
+iliği transplantasyonu ile kıyaslandığında, akut ve kronik “graft versus host” hastalığı (GvHD)
+riskindeki artış ile ilişkili olabileceğini göstermektedir.
+10 / 24Ciddi kronik nötropeni hastalarında özel önlemler
+Kan hücresi sayımları
+Trombosit sayısı, özellikle TEVAGRASTİM® tedavisinin ilk haftalarında yakından
+izlenmelidir. Trombositopeni geliştiren, yani trombosit sayısı 100.000/mm3’ün altına düşen
+hastalarda TEVAGRASTİM® dozunun azaltılması veya tedaviye ara verilmesi düşünülmelidir.
+Hücre sayısının yakından izlenmesini gerektiren, anemi ve miyeloid progenitör hücrelerin
+sayısında geçici artışlar gibi başka kan hücresi değişiklikleri meydana gelebilir.
+Lösemi veya miyelodisplastik sendroma (MDS) dönüşüm
+Ciddi kronik nötropenilere tanı koyulurken, aplastik anemi, miyelodisplazi ve miyeloid lösemi
+gibi diğer hematolojik hastalıklardan ayrım yapılması için özel bir dikkat gösterilmelidir. Tam
+kan sayımları, trombosit sayısı ve kemik iliği morfolojisi ile karyotip değerlendirilmesi
+tedaviye başlamadan önce yapılmalıdır.
+Filgrastim ile tedavi edilen ciddi kronik nötropeni hastalarında düşük sıklıkta (yaklaşık %3)
+miyelodisplastik sendrom (MDS) veya lösemi vakasına rastlanmıştır. Bu sadece konjenital
+nötropenisi olan hastalarda gözlenmiştir. MDS ve lösemi bu hastalığın doğal
+komplikasyonlarıdır ve TEVAGRASTİM® tedavisiyle ilişkileri belirsizdir. Başlangıçta
+sitogenetik değerlendirmeleri normal olan yaklaşık %12’lik bir hasta alt grubunda daha sonraki
+rutin değerlendirme tekrarlarında monozomi 7’yi de içeren anomaliler saptanmıştır. Ciddi
+kronik nötropeni hastalarında anormal sitogenetik gelişimle karşılaşıldığında,
+TEVAGRASTİM® tedavisini sürdürmenin riskleri ile yararları dikkatle değerlendirilmelidir;
+MDS veya lösemi ortaya çıkması halinde TEVAGRASTİM® tedavisi kesilmelidir. Ciddi kronik
+nötropeni hastalarının uzun süreli tedavisinin, hastaları sitogenetik anomaliler, MDS veya
+lösemiye dönüşüm açısından duyarlı hale getirip getirmediği henüz belirgin değildir. Hastalarda
+morfolojik ve sitogenetik kemik iliği incelemelerinin düzenli aralıklarla (yaklaşık olarak her 12
+ayda bir kez) yapılması tavsiye edilir.
+Diğer özel önlemler
+Viral enfeksiyonlar gibi, geçici nötropeniye yol açan nedenler dışlanmalıdır.
+Splenomegali, doğrudan doğruya filgrastim tedavisinin bir sonucudur. Araştırmalarda,
+hastaların %31’inin palpabl splenomegalisi olduğu saptanmıştır. Radyografik olarak saptanan
+dalaktaki hacim artışı, filgrastim tedavisinin ilk döneminde ortaya çıkar ve daha sonra belirli
+bir düzeyde sabit kalır. Dozun azaltılmasının, splenomegalinin ilerlemesini yavaşlattığı veya
+durdurduğu görülmüş, hastaların %3’ünde ise splenektomi yapılması gerekmiştir. Dalağın
+boyutları düzenli olarak kontrol edilmelidir. Batın palpasyonu, dalak büyümesinin ortaya
+koyulması için yeterli bir yöntemdir.
+Hematüri/proteinüri hastaların küçük bir bölümünde meydana gelmiştir. Bu olayların izlenmesi
+amacıyla düzenli idrar incelemeleri yapılmalıdır.
+Yenidoğanda ve otoimmün nötropenisi olan hastalarda güvenliliği ve etkililiği
+belirlenmemiştir.
+11 / 24HIV enfeksiyonlu hastalarda özel önlemler
+Kan sayımları
+Filgrastim tedavisinin özellikle ilk birkaç haftasında, mutlak nötrofil sayısı (MNS) yakından
+izlenmelidir. Bazı hastalar filgrastimin başlangıç dozuna çok hızla yanıt verebilirler ve nötrofil
+sayıları önemli oranda artabilir. Filgrastim uygulamasının ilk 2-3 gününde MNS’nin her gün
+ölçülmesi önerilmektedir. Daha sonrasında, ilk iki hafta için en az haftada iki kez ve sonraki
+idame tedavisi süresince ise haftada bir ya da iki haftada bir MNS ölçümü yapılması önerilir.
+Günde 30 MIU (300 mikrogram) dozunda aralıklı filgrastim uygulaması sırasında, hastanın
+MNS düzeylerinde zaman içinde geniş dalgalanmalar ortaya çıkabilir. Hastanın en düşük ya da
+alt MNS düzeylerini belirleyebilmek için, MNS ölçümü yapılacak kan örneklerinin, planlanmış
+filgrastim uygulamasının hemen öncesinde alınması önerilmektedir.
+Artan dozlarda miyelosupresif ilaçlar ile ilişkili risk
+Tek başına filgrastim ile tedavi, miyelosupresif tıbbi ürünlere bağlı trombositopeni ve anemiyi
+düzeltmez. Filgrastim tedavisiyle birlikte, bu tıbbi ürünlerin daha yüksek dozlarda veya daha
+çok sayıda alınması olasılığı sonucunda, hastada trombositopeni ve anemi gelişme riski daha
+yüksek olabilir. Kan sayımlarının düzenli olarak izlenmesi önerilmektedir (bkz. HIV
+enfeksiyonlu hastalarda özel önlemler; Kan sayımları).
+Miyelosüpresyona yol açan enfeksiyonlar ve maligniteler
+Nötropeni, kemik iliğini infiltre eden Mycobacterium avium kompleks gibi fırsatçı
+enfeksiyonlar ya da lenfoma gibi malignitelere bağlı olabilir. Kemik iliğini infiltre edici
+enfeksiyonlar ya da malignitesi olduğu bilinen hastalarda nötropeni tedavisi için, filgrastim
+uygulanmasına ek olarak, altta yatan hastalığın da uygun bir şekilde tedavisi düşünülmelidir.
+Filgrastimin kemik iliğini infiltre eden enfeksiyon ya da maligniteye bağlı nötropeni üzerindeki
+etkileri tam olarak belirlenmemiştir.
+Orak hücre hastalığında özel önlemler
+Orak hücre hastalığı bulunan olgularda filgrastim kullanımı ile bazı vakalarda ölümcül olan
+orak hücre krizleri bildirilmiştir. Hekimler, orak hücre hastalığı bulunan hastalarda sadece
+potansiyel risk ve yararların dikkatli değerlendirilmesinden sonra filgrastim kullanımını göz
+önüne almalıdır.
+TEVAGRASTİM® sorbitol içerir. Nadir kalıtımsal fruktoz intolerans problemi olan hastaların
+bu ilacı kullanmamaları gerekir.
+TEVAGRASTİM® her dozunda 1 mmol’den (23 mg) daha az sodyum ihtiva eder; yani esasında
+“sodyum içermez”.
+Diğer tüm terapötik proteinlerde olduğu gibi TEVAGRASTİM® için de potansiyel
+immunojenisite riski söz konusudur. Filgrastime karşı antikor oluşma oranı genellikle düşüktür.
+Tüm biyolojik ajanlarda oluşması beklenen bağlayıcı antikorlar oluşabilir, ancak bu nötralize
+edici aktivite ile ilişkilendirilmemiştir.
+Biyobenzer ürünlerin takip edilebilirliğinin sağlanması için uygulanan ürünün ticari ismi ve seri
+numarası mutlaka hasta dosyasına kaydedilmelidir.
+12 / 24Özel popülasyonlara ilişkin ek bilgiler:
+Böbrek/Karaciğer yetmezliği:
+(Bkz. Bölüm 4.2 Pozoloji ve uygulama şekli; Özel popülasyonlara ilişkin ek bilgiler)
+Pediyatrik popülasyon:
+(Bkz. Bölüm 4.2 Pozoloji ve uygulama şekli; Özel popülasyonlara ilişkin ek bilgiler)
+Geriyatrik popülasyon:
+(Bkz. Bölüm 4.2 Pozoloji ve uygulama şekli; Özel popülasyonlara ilişkin ek bilgiler)
+4.5. Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+Miyelosupresif sitotoksik kemoterapiyle aynı gün verilen filgrastimin güvenlilik ve etkililiği
+kesin olarak belirlenmemiştir. Hızla bölünen miyeloid hücrelerin miyelosupresif sitotoksik
+kemoterapiye olan duyarlılığı göz önüne alındığında, TEVAGRASTİM®’in, sitotoksik
+kemoterapiden 24 saat öncesi ile 24 saat sonrası arasındaki sürede kullanılmaması tavsiye edilir.
+Filgrastim ile 5-floro-urasilin birlikte uygulandığı az sayıdaki hastadan elde edilen ön
+bulgularına göre nötropeninin ağırlığı artabilir.
+Diğer hematopoetik büyüme faktörleri ve sitokinlerle olası etkileşimleri henüz klinik
+deneylerde araştırılmamıştır.
+Lityumun nötrofil salınımını artırması nedeniyle, filgrastimin etkisini potansiyalize etme
+olasılığı vardır. Her ne kadar bu etkileşme tam olarak araştırılmamış ise de, böyle bir
+etkileşmenin zararlı olduğu yönünde hiçbir veri bulunmamaktadır.
+Özel popülasyonlara ilişkin ek bilgiler
+Özel popülasyonlara ilişkin hiçbir etkileşim çalışması yürütülmemiştir.
+Pediyatrik popülasyon:
+Pediyatrik popülasyona ilişkin hiçbir etkileşim çalışması yürütülmemiştir.
+4.6. Gebelik ve laktasyon
+Genel tavsiye
+Gebelik kategorisi C’dir.
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon)
+Çocuk doğurma potansiyeli bulunan kadınlarda ve doğum kontrolü (kontrasepsiyon)
+uygulayanlarda ilacın kullanımı yönünden bir öneri bulunmamaktadır.
+Gebelik dönemi
+Filgrastimin gebe kadınlarda kullanımına ilişkin yeterli veri mevcut değildir. Literatürde,
+filgrastimin gebe kadınlarda plasentadan geçtiğini gösteren raporlar bulunmaktadır. Hayvanlar
+üzerinde yapılan çalışmalar üreme toksisitesinin bulunduğunu göstermiştir (bkz. Bölüm 5.3).
+İnsanlara yönelik potansiyel risk bilinmemektedir.
+Gebelikte ancak TEVAGRASTİM® ile beklenen terapötik yarar fetusun karşılaşabileceği riski
+mazur gösterebildiği takdirde kullanılmalıdır.
+13 / 24Laktasyon dönemi
+Filgrastim/metabolitlerinin insan sütüyle atılıp atılmadığı bilinmemektedir. Hayvan
+çalışmalarında filgrastimin süt ile atılıp atılmadığı çalışılmamıştır. Emzirmenin veya filgrastim
+tedavisinin durdurulup durdurulmayacağına karar verilirken; emzirmenin çocuğa yararı ve
+filgrastim tedavisinin anneye yararı göz önünde bulundurulmalıdır.
+Üreme yeteneği/Fertilite
+Hayvanlarda yapılan çalışmalar üreme toksisitesi göstermiştir (bkz. Bölüm 5.3). Sıçanlar ve
+tavşanlarda yapılan çalışmalarda filgrastimin teratojenik olduğuna dair kanıt yoktur.
+Tavşanlarda embriyo kaybında artış insidansı gözlenmiştir ancak malformasyon görülmemiştir.
+4.7. Araç ve makine kullanımı üzerindeki etkiler
+Filgrastimin araç ve makine kullanma üzerinde hafif veya geçici bir etkisi vardır. Eğer hasta
+halsizlik hissediyorsa, araç veya makine kullanırken dikkatli olunması konusunda
+uyarılmalıdır.
+4.8. İstenmeyen etkiler
+Güvenlik profilinin özeti
+Klinik çalışmalar sırasında 541 kanser hastası ve 188 sağlıklı gönüllü TEVAGRASTİM®’e
+maruz bırakıldı. Bu klinik çalışmalarda gözlenen TEVAGRASTİM®’in güvenilirlik profili, bu
+çalışmalarda kullanılan referans ürün için rapor edilenler ile uyumluydu.
+Tedavi gecikirse hayati tehlikesi olan kapiller kaçış sendromu, granülosit koloni-stimüle
+edici faktörlerin uygulanmasından sonra, kemoterapi alan kanser hastalarında ve periferik
+kan projenitör hücre mobilizasyonu amaçlanan sağlıklı donörlerde yaygın olmayan
+(≥1/1.000 ila <1/100) şekilde bildirilmiştir; bkz. Bölüm 4.4 ve Bölüm 4.8)
+Yayınlanan bilgilere göre filgrastim ile tedavi altında gözlenen istenmeyen etkiler ve sıklıkları
+aşağıdaki gibidir.
+İstenmeyen etkiler, aşağıda tanımlanan sıklığa göre listelenmiştir:
+Çok yaygın (≥ 1/10); yaygın (≥ 1/100 ila < 1/10); yaygın olmayan (≥ 1/1.000 ila < 1/100);
+seyrek (≥ 1/10.000 ila < 1/1.000); çok seyrek (< 1/10.000); bilinmiyor (eldeki verilerden
+hareketle tahmin edilemiyor).
+Kanser hastaları
+Kanser hastalarındaki klinik çalışmalarda en yaygın istenmeyen etki, hastaların %10’unda hafif
+veya orta ve %3’ünde şiddetli olan kas-iskelet ağrısıdır. Kas-iskelet ağrısı genellikle standard
+ağrı kesicilerle kontrol altına alınabilmektedir. Daha seyrek istenmeyen olaylar arasında üriner
+sorunlar yer almaktadır (daha çok hafif ya da orta şiddette dizüri).
+Randomize, plasebo kontrollü klinik araştırmalarda, filgrastim'in, sitotoksik kemoterapiye bağlı
+yan etkilerin sıklığını artırmadığı saptanmıştır. Filgrastim/kemoterapi ve plasebo/kemoterapi
+ile tedavi edilen hastalarda eşit sıklıkta görülen istenmeyen etkiler arasında bulantı ve kusma,
+alopesi, ishal, yorgunluk, anoreksi (iştahta azalma), mukozal inflamasyon, baş ağrısı, öksürük,
+deri döküntüsü, göğüs ağrısı, genel güçsüzlük, boğaz ağrısı, kabızlık ve spesifik olmayan ağrılar
+bildirilmiştir.
+14 / 24Filgrastimin önerilen dozlarında, laktat dehidrogenaz (LDH), alkali fosfataz, serum ürik asit ve
+gamaglutamil transpeptidaz (GGT) düzeylerinde, geri dönüşümlü, doza bağımlı ve genellikle
+hafif ya da orta derecede artışlara, hastaların sırası ile %50, %35, %25 ve %10’unda sık olarak
+karşılaşılmaktadır.
+Nadiren, kan basıncında, klinik tedavi gerektirmeyen, geçici düşüşler bildirilmiştir.
+Allojenik kemik iliği naklinden sonra G-CSF alan hastalarda GvHD ve ölüm bildirilmiştir (bkz.
+Bölüm 5.1.)
+Yüksek doz kemoterapi ve ardından otolog kemik iliği nakli uygulanan bazı vakalarda veno-
+oklusif hastalık ve sıvı hacmi bozukluklarını içeren vasküler hastalıklar bildirilmiştir. Bu
+hastalıkların filgrastim ile neden-sonuç ilişkisi belirlenememiştir.
+Filgrastim ile tedavi edilen hastalarda çok seyrek kütanöz vaskulit olayları bildirilmiştir.
+Filgrastim alan hastalardaki vaskulitin mekanizması bilinmemektedir.
+Zaman zaman Sweet sendromu (akut febril dermatoz) bildirilmiştir. Ancak bu hastaların önemli
+bir yüzdesi Sweet sendromunun eşlik ettiği bir durum olan lösemiden muzdarip olduğundan
+filgrastim ile nedensel ilişkisi bilinmemektedir.
+Bireysel olgularda, romatoid artritte alevlenmeler gözlenmiştir.
+Filgrastim ile tedavi edilen kanser hastalarında psödogut bildirilmiştir.
+Bazı vakalarda, fatal olabilen solunum yetmezliği ya da akut respiratuvar distres sendromu
+(ARDS) ile sonuçlanan interstisyel akciğer hastalığı, pulmoner ödem ve akciğer infiltrasyonu
+dahil pulmoner advers etkiler bildirilmiştir (bkz. Bölüm 4.4).
+Alerjik reaksiyonlar: anafilaksi, deri döküntüsü, ürtiker, anjiyoödem, dispne ve hipotansiyon
+gibi alerjik tipte reaksiyonlar ile ilgili semptomlar tedavinin başlangıcında veya devamında
+bildirilmiştir. Genelde bildirimler i.v. uygulama sonrasında daha fazladır. Bazı vakalarda ilacın
+tekrar verilmesi ile semptomlar tekrarlamıştır; bu da nedensel bir ilişkiyi düşündürmektedir.
+Ciddi alerjik reaksiyon yaşayan hastalarda filgrastim tedavisi kesilmelidir.
+Orak hücreli anemi taşıyıcısı veya orak hücreli anemi hastalığı olan hastalarda izole orak hücre
+krizleri bildirilmiştir (bkz. Bölüm 4.4).
+Sistem organ Advers reaksiyonlar
+sınıfı
+Çok yaygın Yaygın Yaygın Seyrek Çok seyrek
+(≥ 1/10) (≥ 1/100 olmayan (≥ 1/10.000 (<1/10.000)
+ila <1/10) (≥ 1/1.000 ila ila
+<1/100) <1/1.000)
+Metabolizma ve Yükselmiş
+beslenme alkali fosfataz,
+hastalıkları kan LDH
+(laktat
+dehidrojenaz)
+15 / 24artışı, kan ürik
+asit artışı
+Sinir sistemi Baş ağrısı
+hastalıkları
+Vasküler Kapiller kaçış Vasküler
+hastalıklar sendromu* bozukluk,
+aortit
+Solunum, göğüs Öksürük, Akciğer
+bozuklukları ve boğaz infiltrasyonu
+mediastinal ağrısı
+hastalıklar
+Gastrointestinal Kusma/bulantı Kabızlık,
+hastalıklar anoreksi,
+ishal,
+mukozit
+Hepatobiliyer Gamma-
+hastalıklar glutamil
+transferazda
+artış
+Deri ve deri altı Deri Sweet
+doku döküntüsü, Sendromu,
+hastalıkları alopesi kutanöz
+vaskulit
+Kas-iskelet Göğüs ağrısı, Romatoid artrit
+bozuklukları, kas-iskelet alevlenmesi
+bağ doku ve ağrısı
+kemik
+hastalıkları
+Böbrek ve idrar İdrar
+yolu anormalliği
+hastalıkları
+Genel Yorgunluk, Spesifik Alerjik
+bozukluklar ve genel olmayan ağrı reaksiyon
+uygulama güçsüzlük
+bölgesine ilişkin
+hastalıklar
+*Aşağıdaki “Seçici advers reaksiyonların tanımı” bölümüne bakınız.
+Normal donörlerde PKPH mobilizasyonu
+En yaygın bildirilen istenmeyen etki, hafif ile orta derecede geçici kas-iskelet sistemi ağrılarıdır.
+Lökositoz (BKH>50x109/L) donörlerin %41'inde gözlenmiştir ve filgrastim ve lökoferez
+sonrasında donörlerin %35'inde geçici trombositopeni (trombosit sayısı <100x109/L)
+gözlenmiştir.
+Filgrastim verilen sağlıklı donörlerde, alkali fosfataz, LDH, SGOT (serum glutamik
+oksaloasetik transaminaz) ve ürik asitte geçici ve minör artışlar bildirilmiştir; bunlar klinik sekel
+bırakmamıştır.
+Artrit semptomlarında alevlenmeler, çok seyrek şekilde bildirilmiştir.
+16 / 24Şiddetli alerjik reaksiyonları düşündüren semptomlar çok seyrek bildirilmiştir.
+PKPH donör çalışmalarında filgrastimin neden olduğuna inanılan baş ağrıları bildirilmiştir.
+Hem sağlıklı donörlerde hem de hastalarda granülosit-koloni uyarıcı faktörlerin (G-CSF’ler)
+uygulanmasından sonra, yaygın ancak genellikle asemptomatik splenomegali ve çok seyrek
+dalak rüptürü vakaları bildirilmiştir (bkz. Bölüm 4.4).
+Pazarlama sonrası deneyimde normal donörlerde pulmoner advers olaylar (hemoptizi,
+pulmoner kanama, akciğer infiltrasyonu, dispne ve hipoksi) bildirilmiştir (bkz. Bölüm 4.4).
+Sistem organ Advers reaksiyonlar
+sınıfı
+Çok yaygın Yaygın Yaygın Seyrek Çok seyrek
+(≥ 1/10) (≥ 1/100 ila olmayan (≥ (<1/10.000)
+<1/10) (≥ 1/1.000 ila 1/10.000
+<1/100) ila
+<1/1.000)
+Kan ve lenf Trombositopeni, Dalak
+sistemi lökositoz bozukluğu
+hastalıkları
+Metabolizma Alkalin Artmış SGOT,
+ve beslenme fosfataz artışı, hiperürisemi
+hastalıkları kan LDH (Kan ürik asit
+(laktat artışı)
+dehidrojenaz)
+artışı
+Sinir sistemi Baş ağrısı
+hastalıkları
+Vasküler Kapiller kaçış Aortit
+hastalıklar sendromu*
+Kas-iskelet Kas-iskelet Romatoid artrit
+bozuklukları, ağrısı alevlenmesi
+bağ doku ve
+kemik
+hastalıkları
+Genel Şiddetli alerjik
+bozukluklar reaksiyon
+ve uygulama
+bölgesine
+ilişkin
+hastalıklar
+*Aşağıdaki “Seçici advers reaksiyonların tanımı” bölümüne bakınız.
+Ciddi kronik nötropeni hastaları
+Ciddi kronik nötropeni hastalarında filgrastim tedavisi ile ilgili istenmeyen reaksiyonlar
+bildirilmiştir ve söz konusu reaksiyonların sıklığı zaman içinde azalmıştır.
+Filgrastimle ilişkili olabilecek klinik advers reaksiyonlar içinde en yaygın olarak karşılaşılanlar
+kemik ağrısı ve genel kas-iskelet sistemi ağrılarıdır.
+17 / 24Görülen diğer yan etkiler arasında, az sayıda vakada ilerleyici olabilen splenomegali ve
+trombositopeni vardır. Hastaların %10'dan daha azında, filgrastim tedavisine başlandıktan kısa
+bir süre sonra baş ağrısı ve diyare bildirilmiştir. Anemi ve burun kanaması da bildirilmiştir.
+Serum ürik asit, laktik dehidrojenaz ve alkali fosfataz düzeylerinde klinik belirtilere yol
+açmayan geçici yükselmeler gözlenmiştir. Tokluk kan şekeri düzeyinde geçici ve orta derecede
+düşüşler de gözlenmiştir.
+Olasılıkla filgrastim tedavisi ile ilgili olan ve tipik olarak CKN hastalarının %2'sinden daha
+azında görülen istenmeyen etkiler, enjeksiyon yerindeki reaksiyonlar, baş ağrısı, karaciğer
+büyümesi, artralji, alopesi, osteoporoz ve döküntüdür.
+Uzun süreli kullanım sırasında ciddi kronik nötropeni (CKN) hastalarının %2'sinde kutanöz
+vaskulit bildirilmiştir. Çok düşük insidansta proteinüri/hematüri gözlenmiştir.
+Sistem organ Advers reaksiyonlar
+sınıfı
+Çok yaygın Yaygın Yaygın Seyrek Çok seyrek
+(≥ 1/10) (≥ 1/100 ila olmayan (≥ (<1/10.000)
+<1/10) (≥ 1/1.000 ila 1/10.000
+<1/100) ila
+<1/1.000)
+Kan ve lenf Splenomegali, Trombositopeni Dalak
+sistemi anemi bozukluğu
+hastalıkları
+Metabolizma ve Kan glukoz
+beslenme azalışı, artmış
+hastalıkları alkali fosfataz,
+kan LDH
+(laktat
+dehidrojenaz)
+artışı,
+hiperürisemi
+Sinir sistemi Baş ağrısı
+hastalıkları
+Vasküler Aortit
+hastalıklar
+Solunum, göğüs Epistaksis
+bozuklukları ve
+mediastinal
+hastalıklar
+Gastrointestinal Diyare
+hastalıklar
+Hepatobiliyer Karaciğer
+hastalıklar büyümesi
+Deri ve deri altı Alopesi,
+doku kütanöz
+hastalıkları vaskulit,
+enjeksiyon
+18 / 24bölgesinde ağrı,
+döküntü
+Kas-iskelet Kas-iskelet Osteoporoz
+bozuklukları, ağrısı
+bağ doku ve
+kemik
+hastalıkları
+Böbrek ve idrar Hematüri,
+yolu hastalıkları proteinüri
+HIV hastaları
+Klinik çalışmalarda, filgrastim uygulamasına bağlı olduğu düşünülen istenmeyen etkiler, kas-
+iskelet sistemi ağrıları, genel olarak hafif ile orta derecede kemik ağrısı ve miyalji olmuştur. Bu
+olayların sıklığı, kanser hastaları için bildirilenlere benzemektedir.
+Hastaların %3'ten azında, splenomegalinin filgrastim tedavisine bağlı olduğu bildirilmiştir.
+Bütün olgularda bu durum, fiziksel muayenede hafif ya da orta derecelidir ve selim bir klinik
+seyir izlemiştir; hiçbir hastaya hipersplenizm tanısı konulmamış ve hiçbir hastada splenektomi
+yapılmamıştır. Dalak büyümesinin HIV enfeksiyonlu hastalarda yaygın bir bulgu olması ve
+AIDS hastalarının çoğunda değişen derecelerde bulunması nedeniyle, filgrastim tedavisi ile
+ilişkisi net değildir.
+Sistem organ sınıfı Advers reaksiyonlar
+Çok Yaygın Yaygın Seyrek Çok seyrek
+yaygın (≥ 1/100 ila olmayan (≥ 1/10.000 (<1/10.000)
+(≥ 1/10) <1/10) (≥ 1/1.000 ila ila
+<1/100) <1/1.000)
+Kan ve lenf sistemi Dalak
+hastalıkları bozukluğu
+Vasküler hastalıklar Aortit
+Kas-iskelet Kas-
+bozuklukları, bağ iskelet
+doku ve kemik ağrısı
+hastalıkları
+Seçilmiş advers reaksiyonların tanımı
+Granülosit koloni-stimüle edici faktör kullanımı ile pazarlama sonrası dönemde kapiller kaçış
+sendromu vakaları bildirilmiştir. Bunlar genellikle ileri seviye malign hastalıkları olan, sepsis
+geçiren, birden çok kemoterapi ilacı alan veya aferez uygulanan hastalarda meydana
+gelmiştir (bkz. Bölüm 4.4.).
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TÜFAM)’ ne bildirmeleri gerekmektedir (www.titck.gov.tr; e-posta:
+tufam@titck.gov.tr; tel: 0 800 314 00 08; faks: 0 312 218 35 99)
+19 / 244.9. Doz aşımı ve tedavisi
+Filgrastimin doz aşımı durumundaki etkileri tespit edilmemiştir.
+Filgrastim tedavisinin kesilmesi halinde, genelde, dolaşımdaki nötrofil sayısı 1-2 gün içinde
+%50 oranında düşer ve 1-7 günde normal seviyelere döner.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1. Farmakodinamik özellikler
+Farmakoterapötik grup: Antineoplastik ve immüno-modülatörler, immünostimülanlar,
+koloni uyarıcı faktörler
+ATC Kodu: L03AA02
+TEVAGRASTİM® biyobenzer bir ilaçtır.
+Etki Mekanizması
+İnsan granülosit koloni-uyarıcı faktörü (hG-CSF), kemik iliğindeki fonksiyonel nötrofil
+üretimini ve salımını düzenleyen bir glikoproteindir. r-metHuG-CSF (filgrastim) içeren
+TEVAGRASTİM®, periferik kandaki nötrofil sayısında 24 saat içinde önemli bir artış
+sağlarken, monosit sayısında ancak küçük bir artışa neden olur. Bazı ciddi kronik nötropeni
+hastalarında filgrastim dolaşımdaki eozinofil ve bazofil sayısında minör bir artışa neden olur.
+Bu hastalardan bazılarında tedaviden önce eozinofili veya bazofili mevcuttur. Tavsiye edilen
+dozlarda nötrofil sayısındaki artış doza bağımlıdır. Filgrastime cevap olarak insan vücudu
+tarafından üretilen nötrofiller, kemotaktik ve fagositik işlevlere yönelik testlerle gösterildiği
+gibi, normal veya artmış işleve sahiptir. Filgrastim tedavisinin kesilmesini takiben, dolaşımdaki
+nötrofil sayısı 1-2 gün içinde %50 oranında azalır ve 1-7 gün içinde normal seviyelere gelir.
+Filgrastimin, sitotoksik kemoterapi alan hastalarda kullanımı, nötropeninin ve febril
+nötropeninin insidansında, şiddetinde ve süresinde anlamlı azalmalara yol açar. Filgrastim
+tedavisi, akut miyeloid lösemi için indüksiyon kemoterapisi veya kemik iliği transplantasyonu
+takiben miyeloablatif tedavi sonrası febril nötropeni, antibiyotik kullanımını ve hastaneye yatış
+süresini anlamlı ölçüde azaltır. Ateş ve tespit edilen enfeksiyonların insidansı her iki durumda
+da azalmamıştır. Miyeloablatif tedavi gören ve ardından kemik iliği nakli yapılan hastalarda
+ateş süresinde azalma görülmemiştir.
+Tek başına veya kemoterapiden sonra filgrastim kullanımı, hematopoetik progenitör hücrelerin
+periferik kana geçmesini sağlar. Sayıca artırılan otolog periferik kan progenitör hücreleri
+(PKPH) toplanarak, yüksek doz sitotoksik tedavi sonrasında, kemik iliği nakli yerine ya da
+kemik iliği nakline ek olarak infüzyonla verilebilir. PKPH infüzyonu, hemorajik
+komplikasyonların gelişme riskinin süresini ve trombosit transfüzyon ihtiyacını azaltarak
+hematopoetik iyileşmeyi hızlandırır.
+Filgrastim ile harekete geçirilmiş allojeneik periferik kan progenitör hücrelerinin uygulandığı
+alıcılar, anlamlı olarak daha hızlı hematolojik, iyileşme süreci geçirmişlerdir; bu durum
+allojeneik kemik iliği transplantasyonu ile karşılaştırıldığında, destek gerektirmeyen trombosit
+iyileşme süresinin anlamlı ölçüde kısalmasıyla sonuçlanmıştır.
+Akut lösemisi olan hastalarda allojenik kemik iliği naklinden sonra G-CSF kullanımını
+değerlendiren bir retrospektif Avrupa çalışmasında, G-CSF uygulandığında, GvHD, tedavi
+ilişkili mortalite (TRM) ve mortalite riskinde bir artış gösterilmiştir. Akut ve kronik miyelojen
+lösemili hastalarda yapılan retrospektif uluslararası çalışmada, GvHD, TRM ve mortalite
+20 / 24riskinde bir etki görülmemiştir. Dokuz prospektif randomize çalışma, 8 retrospektif çalışma ve
+1 vaka kontrollü çalışma dahil olmak üzere yapılan bir allojenik nakil çalışması meta-
+analizinde, akut GvHD, kronik GvHD veya erken dönem tedavi ilişkili mortalite riskleri
+üzerinde bir etki tespit edilmemiştir.
+Kemik iliği naklinden sonra G-CSF ile tedaviyi takiben GvHD ve TRM Rölatif Riski
+(%95 GA)
+Yayın Çalışma N Akut evre II- Kronik TRM
+dönemi IV GvHD GvHD
+Meta-analiz 1986-2001a 1198 1,08 1,02 0,70
+(2003) (0,87, 1,33) (0,82, 1,26) (0,38, 1,31)
+Avrupa 1992-2002b 1789 1,33 1,29 1,73
+retrospektif (1,08, 1,64) (1,02, 1,61) (1,30, 2,32)
+çalışması
+(2004)
+Uluslararası 1995-2000b 2110 1,11 1,10 1,26
+retrospektif (0,86, 1,42) (0,86, 1,39) (0,95, 1,67)
+çalışma
+(2006)
+aAnaliz, bu dönemde kemik iliği naklini içeren çalışmaları içermektedir; bazı çalışmalarda GM-CSF kullanmıştır.
+bAnaliz bu dönem boyunca kemik iliği transplantını olan hastaları içermektedir.
+Filgrastimin normal donörlerde allojeneik periferik kan progenitör hücre transplantasyonu
+öncesinde PKPH mobilizasyonu için kullanılması
+Allojeneik PBPC transplantasyonu öncesi, normal donörlerde 4 ila 5 ardışık gün boyunca
+subkutan olarak 10 mikrogram/kg/gün dozunda uygulama, PBPC mobilizasyonu için filgrastim
+kullanımı, iki lökoferez sonrasında donörlerin çoğunluğunda 4x106 CD34+ hücre/kg birey vücut
+ağırlığı şeklinde bir örnek alınmasını sağlamıştır.
+Ciddi kronik nötropenisi (ciddi konjenital nötropeni, siklik nötropeni ve idiyopatik nötropeni)
+olan çocuk ve erişkin hastalarda filgrastim kullanımı, periferik kandaki mutlak nötrofil
+sayısında uzun süre devam eden bir artışa yol açar; enfeksiyonlar ve buna bağlı olaylarda
+azalma görülür.
+HIV enfeksiyonu olan hastalarda figrastim kullanımı, normal nötrofil sayılarının kalıcı olmasını
+sağlayarak, antiviral ve/veya diğer miyelosupresif ilaçların planlanmış doz uygulamalarının
+yapılabilmesine imkan verir. Filgrastim ile tedavi edilen HIV enfeksiyonlu hastalarda, HIV
+replikasyonunun arttığı yönünde herhangi bir kanıt yoktur.
+Diğer hematopoetik büyüme faktörleri ile olduğu gibi, G-CSF insan endotel hücreleri üzerinde
+in vitro ortamda uyarıcı özellik göstermiştir.
+TEVAGRASTİM®’in etkililiği ve güvenliliği meme kanserinde, akciğer kanserinde ve
+Hodgkin-dışı lenfomada randomize, kontrollü faz III çalışmalarda değerlendirilmiştir.
+TEVAGRASTİM® ve referans ürün arasında şiddetli nötropeni süresi ve febril nötropeni
+insidansı yönünden anlamlı farklar yoktur.
+21 / 245.2. Farmakokinetik özellikler
+Yüz doksan altı sağlıklı gönüllüde yapılan randomize, tek kör, tek dozlu, çapraz çalışmalar
+TEVAGRASTİM®’in farmakokinetik profilinin subkutan ve intravenöz uygulamadan sonra
+referans ürünle karşılaştırılabilir olduğunu göstermiştir.
+Kanser hastalarında, TEVAGRASTİM® ve referans ürünün farmakokinetik profili tek ve
+yinelenen subkutan uygulamadan sonra karşılaştırılabilirdir.
+Genel özellikler
+Emilim:
+Subkutan uygulama sonrasında, filgrastim hızla absorbe olur ve uygulama sonrasında 2-8 saat
+içinde pik serum konsantrasyonlarına ulaşılır. Subkutan uygulama sonrasında filgrastimin
+mutlak biyoyararlanımının, 375 mikrogram doz için %62 ve 750 mikrogram doz için %72
+olması beklenir.
+Dağılım:
+Uygulama yolundan bağımsız olarak filgrastim dozu ile serum konsantrasyonu arasında pozitif
+doğrusal korelasyon vardır. Kanda dağılım hacmi yaklaşık 150 mL/kg'dır.
+Biyotransformasyon:
+Biyotransformasyon hakkında bilgi mevcut değildir.
+Eliminasyon:
+Otolog kemik iliği naklinden sonra iyileşmekte olan hastalara uygulanan (28 güne kadar)
+kesintisiz filgrastim infüzyonu, ilaç birikimine dair bir kanıt göstermemiş, eliminasyon
+yarılanma ömürleri genel olarak 2-4 saat arasında olmuştur. İster intravenöz, ister subkutan
+yoldan verilmiş olsun, filgrastim klerensinin birinci derece farmakokinetiği izlediği
+gözlenmiştir. Filgrastimin ortalama serum eliminasyon yarılanma ömrü yaklaşık olarak 3,5
+saat, klerensi ise yaklaşık 0,6 mL/dak/kg'dır.
+Uygulamanın sonlandırılmasını takiben, filgrastim konsantrasyonları 24 saat içerisinde endojen
+konsantrasyonlara düşer. Filgrastimin serum konsantrasyonlarındaki azalma, sağlıklı bireylerde
+ve kemoterapi öncesi kanserli olgularda yapılan çoklu dozlama ile kanıtlanmaktadır. Filgrastim
+kleresindeki bu artma doza bağlıdır ve artışın büyüklüğü, alıcılardaki nötrofilinin derecesiyle
+yakından ilişkili görünür. Bu durum, nötrofil aracılı klerensin genişlemiş nötrofil havuzu
+tarafından artırılması ile tutarlı gözükmektedir.
+Kemoterapi sonrasında filgrastim alan bireylerde, plato serum konsantrasyonları hematopoetik
+iyileşmenin başlamasına dek korunur.
+Doğrusallık/doğrusal olmayan durum:
+İster intravenöz, ister subkutan yolla verilmiş olsun, filgrastim dozu ile serum konsantrasyonu
+arasında pozitif lineer bir bağlantı vardır. Tavsiye edilen dozların subkutan yolla verilmesinden
+sonra, serum konsantrasyonları 8-16 saat süreyle 10 ng/mL'nin üzerinde kalır.
+Hastalardaki karakteristik özellikler
+Böbrek/Karaciğer yetmezliği:
+Şiddetli böbrek veya karaciğer fonksiyon bozukluğu olan hastalarda yapılan filgrastim
+çalışmaları, ilacın bu hastalarda sağlıklı bireyler ile benzer farmakokinetik ve farmakodinamik
+22 / 24profil sergilediğini göstermiştir. Bu koşullarda doz ayarlamasına gerek yoktur. Sağlıklı
+bireylere ve kreatin klerensi 30-60 mL/dak olan bireylere kıyasla, ESRD’li hastalarda
+filgrastime yüksek sistemik maruziyete doğru bir eğilim gözlenmiştir.
+Pediyatrik popülasyon:
+Kemoterapi sonrasında pediyatrik hastalardaki filgrastim farmakokinetiğinin, vücut ağırlığına
+göre normalize edilen, aynı dozları alan yetişkinlerdekiler ile benzer olması, filgrastim
+farmakokinetiğinde yaşla ilişkili farklılık olmadığını göstermektedir.
+Geriyatrik popülasyon:
+Geriyatrik (65 yaşından büyük) hastalarda farmakokinetik veriler mevcut değildir.
+5.3. Klinik öncesi güvenlilik verileri
+Klinik dışı veriler güvenlilik farmakolojisi, genotoksisite ve lokal toleransla ilgili
+konvansiyonel çalışmalara dayalı olarak insanlar için özel bir tehlikenin söz konusu olmadığını
+göstermektedir.
+Tekrarlanan doz toksisitesi:
+Tekrarlanan doz toksisitesiyle ilgili konvansiyonel çalışmaların klinik öncesi verileri lökosit
+sayısında artış, kemik iliğinde miyeloid hiperplazi, ekstramedüller hematopoez ve dalak
+büyümesi dahil beklenen farmakolojik etkilerin varlığını göstermiştir.
+Üreme toksisitesi:
+Filgrastimin, erkek veya dişi sıçanlarda fertilite veya gestasyon üzerinde gözlenen bir etkisi
+olmamıştır.
+Teratojenisite:
+Sıçanlarda ve tavşanlarda gerçekleştirilen çalışmalarda filgrastimin teratojenik olduğuna dair
+herhangi bir bulgu elde edilmemiştir. Tavşanlarda embriyo kaybının insidansında artış
+gözlenmiştir, ancak herhangi bir malformasyon mevcut değildir.
+6. FARMASÖTİK ÖZELLİKLER
+6.1. Yardımcı maddelerin listesi
+Asetik asit, glasiyel
+Sodyum hidroksit
+Sorbitol (E420)
+Polisorbat 80
+Enjeksiyonluk Su
+6.2. Geçimsizlikler
+TEVAGRASTİM®, tuzlu çözeltilerle karıştırılmamalıdır. Gerekiyorsa TEVAGRASTİM®
+%5’lik glukoz çözeltisinde seyreltilebilir.
+Seyreltilmiş TEVAGRASTİM® cam ve plastik malzemelere adsorbe olabilir. Ancak %5 (50
+mg/mL) glukoz çözeltisi içinde seyreltildiğinde, TEVAGRASTİM® cam ve PCV, poliolefin
+(bir polipropilen ve polietilen ko-polimeri) ve polipropilen dahil çeşitli plastik türleri ile
+geçimlidir.
+23 / 246.3. Raf ömrü
+30 ay
+Seyreltilmiş TEVAGRASTİM® çözeltileri hazırlandıktan sonra 2°C-8°C arasında
+buzdolabında saklanmalı ve 24 saat içinde kullanılmalıdır.
+6.4. Saklamaya yönelik özel tedbirler
+2°C-8°C arasında (buzdolabında) saklayınız.
+Dondurmayınız.
+Seyreltilmiş TEVAGRASTİM® çözeltilerinin saklama koşulu için Bölüm 6.3’e bakınız.
+6.5. Ambalajın niteliği ve içeriği
+Kutuda; polipropilen piston çubuklu, gri bromobutil kauçuk piston tıpalı, paslanmaz silikonize
+27 gauge çelik iğneli, iğne emniyet muhafazası, elastomer iğne kılıflı, çözelti içeren kullanıma
+hazır Tip I cam enjektör (1’lik ve 5’lik ambalajlarda)
+6.6. Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+Kullanıma hazır enjektörü şiddetli bir şekilde çalkalamayınız.
+Kullanımdan önce çözeltinin berraklığı gözden geçirilmeli, berrak olmayan, partikül içeren
+çözeltiler kullanılmamalıdır.
+TEVAGRASTİM® kullanıma hazır enjektörler bir defalık kullanım içindir.
+TEVAGRASTIM® kullanıma hazır enjektörler iğne emniyet muhafazası içerir. İğne emniyet
+muhafazası enjeksiyondan sonra iğne batmalarını önler.
+Farmasötik ürünlerin çevreye bırakılmasından kaçınılmalıdır. İlaçlar, atık suları ve evsel atık
+ile imha edilmemelidir. Varsa bulunduğunuz yerdeki donanımlı atık toplama sistemlerini
+kullanınız.
+Kullanılmamış olan ürünler ya da atık materyaller “Tıbbi Atıkların Kontrolü Yönetmeliği” ve
+“Ambalaj ve Ambalaj Atıklarının Kontrolü Yönetmeliği’ne” uygun olarak imha edilmelidir.
+7. RUHSAT SAHİBİ
+Teva İlaçları San. ve Tic. A.Ş.
+Fatih Sultan Mehmet Mah. Poligon Cad.
+Buyaka 2 Sitesi No:8 C-Blok Kat:3
+Ümraniye/İstanbul
+8. RUHSAT NUMARASI
+2015/263
+9. İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi: 18.03.2015
+Ruhsat yenileme tarihi:
+10. KÜB’ün YENİLENME TARİHİ
+24 / 24

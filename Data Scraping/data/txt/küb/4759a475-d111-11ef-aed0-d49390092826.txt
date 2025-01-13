@@ -1,0 +1,638 @@
+KISA ÜRÜN BİLGİSİ
+Bu ilaç ek izlemeye tabidir. Bu üçgen yeni güvenlilik bilgisinin hızlı olarak belirlenmesini
+sağlayacaktır. Sağlık mesleği mensuplarının şüpheli advers reaksiyonları TÜFAM’a
+bildirmeleri beklenmektedir. Bakınız Bölüm “4.8 Şüpheli advers reaksiyonların
+raporlanması”.
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+OCTAGAM 5 g/50 mL IV infüzyonluk çözelti
+Steril
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin maddeler:
+İnsan normal immünglobulini (IVIg)
+1 mL çözelti içeriği:
+İnsan normal immünglobulini (IVIg) 100 mg
+(En az %95 IgG içeren saflıktadır)
+Her bir 50 mL’lik flakon, 5 g insan normal immünglobulini içerir.
+IgG alt gruplarının dağılımı (yaklaşık değerler)
+IgG yaklaşık %60
+1
+IgG yaklaşık %32
+2
+IgG yaklaşık %7
+3
+IgG yaklaşık %1
+4
+Maksimum IgA içeriği 400 mikrogram/mL’dir.
+İnsan donörlerin plazmasından üretilmiştir.
+Yardımcı maddeler:
+Bu tıbbi ürün her 100 mL’de 69 mg sodyum içerir. Bu miktar, Dünya Sağlık Örgütü’nün
+erişkin bir kişi için önerdiği günlük maksimum sodyum alım miktarı olan 2 g’ın %3,45’ine
+eşdeğerdir.
+Yardımcı maddeler için 6.1’e bakınız.
+3. FARMASÖTİK FORM
+İnfüzyonluk çözelti
+Sıvı preparat berrak ya da hafif opelasan ve renksiz veya hafif sarı renklidir. Sıvı preparatın
+pH değeri 4,5- 5 ozmolalitesi ≥240 mosmol/kg dır.
+4. KLİNİK ÖZELLİKLER
+4.1. Terapötik endikasyonlar
+1. İmmün yetmezlik durumlarında replasman tedavisi için;
+1a. Antikor üretiminin bozulduğu primer (Konjenital) immün yetmezliklerde,
+b. Şiddetli veya tekrarlayan enfeksiyonlar gelişen, antimikrobiyal tedavinin
+yetersiz kaldığı ve kanıtlanmış spesifik antikor yetmezliği (SAE)* olan ya da
+serum IgG düzeyi <4 g/L olan hastalarda sekonder immün yetmezliklerde
+(SİY) kullanılır.
+* Kanıtlanmış SAE: lgG antikor titresinde pnömokokal polisakkarit ve polipeptit antijen
+aşılarına en az 2 kat artış sağlanamaması
+2. İmmünomodülatuar etki için;
+a. Kanama riski yüksek olan veya cerrahi müdahale öncesi trombosit sayısının
+yükseltilmesi gereken immün trombositopeni (ITP) olgularında,
+b. Guillain-Barré sendromunda,
+c. Kawasaki hastalığında,
+d. Multifokal Motor Nöropati (MMN) hastalığında,
+e. Kronik Enflamatuvar Demiyelinizan Polinöropatinin (KIDP) tedavisinde
+f. Bulber tutulumu olan Myastenia Gravis tedavisinde uygulanır.
+4.2. Pozoloji ve uygulama şekli
+Replasman tedavisi, immün yetmezlikliğin tedavisi konusunda deneyimli bir uzman hekimin
+denetiminde başlatılmalı ve izlenmelidir.
+Pozoloji/uygulama sıklığı ve süresi:
+Pozoloji ve uygulama sıklığı endikasyona göre değişir.
+Replasman tedavisinde hastadaki farmakokinetik ve klinik yanıta bağlı olarak dozun bireysel
+olarak ayarlanması gerekebilir. Vücut ağırlığı normalin altında ve üstünde olan hastalarda,
+vücut ağırlığına dayalı dozun ayarlanması gerekebilir. Aşırı kilolu hastalarda doz, fizyolojik
+standart vücut ağırlığına dayanmalıdır.
+Bir rehber olarak aşağıdaki doz şemaları verilmektedir.
+Primer immün yetmezliklerde replasman tedavisi
+Doz, bir sonraki infüzyondan önce ölçülen serum IgG düzeyinin en az 500-600 mg/dL
+düzeyinde kararlı olarak sürdürülmesini sağlayacak şekilde ayarlanmalıdır. Bu dengenin
+sağlanabilmesi için tedavinin başlangıcından itibaren 3-6 ay gereklidir.
+Önerilen başlangıç dozu bir seferde verilen 0,4-0,8 g/kg infüzyonu takiben her 3-4 haftada bir
+uygulanan en az 0,2 g/kg’dır.
+Serum immünglobulin düzeyinin 500-600 mg/dL olacak şekilde sabit tutulabilmesi için
+gereken doz ortalama 0,2-0,8 g /kg/ay düzeyindedir.
+Kararlı serum düzeyi sağlandıktan sonra doz aralığı 3 ile 4 hafta arasında değişir.
+Hastanın klinik yanıtı ile birlikte kararlı serum düzeyleri ölçülmeli ve değerlendirilmelidir.
+Klinik yanıta bağlı olarak (örneğin, enfeksiyon sıklığı) daha yüksek kararlı serum
+düzeylerinin sağlanması amacıyla doz ve/veya doz aralığının ayarlanması düşünülebilir.
+2Sekonder immün yetmezlikte replasman tedavisi:
+Sekonder immün yetmezlikte replasman tedavisinde tavsiye edilen doz 3-4 haftada bir
+uygulanan 0,2-0,4 g/kg'dır.
+Primer immün trombositopeni
+İki alternatif doz şeması vardır:
+ Birinci gün 0,8-1 g/kg dozunda uygulanır; doz, 3 gün içinde bir kez tekrarlanabilir
+veya
+ 2-5 gün süreyle 0,4 g/kg/gün dozunda uygulanır.
+Relaps olursa, tedavi tekrarlanabilir.
+Guillain Barré Sendromu
+5 gün süreyle 0,4 g/kg/gün dozunda uygulanır.
+Kawasaki Hastalığı
+8-12 saat süreyle tek doz olarak uygulanan 2 g/kg’dır ve asetil salisilik asit ile kombine olarak
+verilir.
+Multifokal Motor Nöropati (MMN) Hastalığında
+Başlangıç dozu: 2-5 gün süreyle bölünmüş dozlarda toplam 2 g/kg
+İdame dozu: 2-6 haftada bir 1-2 g/kg
+Kronik enflamatuvar demiyelinizan polinöropati (KIDP)
+Önerilen başlangıç dozu: 2-5 ardışık günde bölünmüş dozlarda toplam 2 g/kg’dır. Yanıt
+alınamaması durumunda 3 haftada bir 1 g/kg total doz 1-2 günde verilir ve 2 ay sonunda yanıt
+alınamazsa tedavi kesilir.
+İdame dozu: Başlangıç tedavisine yanıt alınmışsa 3 haftada bir 0,4-1 g/kg total doz 1-2 günde
+uygulanır. Maksimum yarar elde edilen doz önerilir ve doz doktor tarafından belirlenir. En
+düşük etkin idame dozu belirlenene kadar doz azaltılır ve uygulama sıklığı ayarlanır.
+Myastenia Gravis
+Diğer özel tedavilere cevap vermeyen kritik fazda 5 gün süreyle 0,4 g/kg/gün dozunda
+uygulanır.
+Pediyatrik popülasyon
+Çocuklarda ve adolesanlardaki (0-18 yaş) pozoloji her bir endikasyon için, erişkinlerden farklı
+değildir ve yukarıda belirtilen durumlardaki klinik sonlanımlara göre ayarlanır.
+Uygulama Şekli
+İntravenöz yoldan uygulanır.
+OCTAGAM [100mg/ml] ilk 30 dakika süresince dakikada 0,01 mL/kg başlangıç hızıyla
+intravenöz olarak uygulanmalıdır (Bkz. Bölüm 4.4). Yan etki görülmesi durumunda infüzyon
+hızı azaltılmalı ya da infüzyon durdurulmalıdır. İyi tolere edilirse uygulama hızı kademeli
+olarak maksimum dakikada 0,12 mL/kg’a kadar arttırılabilir.
+İnfüzyondan sonra infüzyon setinde kalan ürünü infüze etmek için set, %0,9 sodyum klorür
+veya %5 dekstroz steril çözeltisi ile yıkanabilir.
+3Özel popülasyonlara ilişkin ek bilgiler:
+Böbrek/Karaciğer yetmezliği:
+IVIG tedavisi uygulanan hastalarda akut böbrek yetmezliği vakaları bildirilmiştir. Böbrek
+yetmezliği riski bulunan hastalarda, IVIG preparatları uygulanabilir en düşük infüzyon
+hızında ve dozda kullanılmalıdır (Bkz.Bölüm 4.4).
+Karaciğer yetmezliği olan hastalara ilişkin ek bir bilgi bulunmamaktadır.
+Pediyatrik popülasyon:
+Yukarıda bahsedilen her durumda pozoloji vücut ağırlığına göre ve klinikte alınan yanıta göre
+verildiğinden, çocuklarda ve adolesanlarda (0-18 yaş) pozoloji değişmez.
+Geriyatrik popülasyon:
+IVIG tedavisi uygulanan hastalarda akut böbrek yetmezliği vakaları bildirilmiştir. Bu
+vakaların çoğunda kişinin 65 yaşın üzerinde olması dahil belirli risk faktörlerinin olduğu
+bildirilmiştir.
+Ayrıca IVIG uygulaması ile yüksek riskli hastalarda tromboembolik olaylar arasında
+bağlantıyı gösteren klinik kanıtlar mevcuttur. Bu nedenle ileri yaş dahil trombotik olay
+açısından risk faktörlerini taşıyan hastalarda IVIG reçetelenip infüzyon uygulanırken dikkatli
+hareket edilmeli, uygulanabilir en düşük infüzyon hızında ve dozda kullanılmalıdır. (Bkz.
+Bölüm 4.4)
+4.3. Kontrendikasyonlar
+OCTAGAM %10’nun etkin maddesi (insan immünglobulinleri) veya yardımcı maddelerinden
+herhangi birine karşı aşırı duyarlılık (Bkz. Bölüm 4.4 ve 6.1).
+IgA’ya karşı antikor gelişen selektif IgA eksikliği bulunan hastalarda. Bu hastalarda IgA
+içeren ürünlerin kullanılması anafilaksiye neden olabilir.
+4.4. Özel kullanım uyarıları ve önlemleri
+Virüs güvenliliği
+OCTAGAM, insan plazmasından elde edilmektedir. İnsan plazmasından elde edilen
+ilaçlar, virüsler ve teorik olarak varyant Creutzfeldt-Jacob (v-CJD) gibi, çeşitli
+hastalıklara yol açabilen enfeksiyon yapıcı ajanlar içerebilirler. OCTAGAM'da varyant
+Creutzfeldt-Jacob hastalığının bulaşma riski teorik olarak minimumken, klasik
+Creutzfeldt-Jacob hastalığının bulaşma riski hiçbir kanıtla desteklenmez. Alınan
+önlemlere rağmen, bu tür ürünler halen potansiyel olarak hastalık bulaştırabilir.
+Bu tip ürünlerin enfeksiyon yapıcı ajanları bulaştırma riski, donör seçimi, donörlerin ve
+plazma havuzlarının spesifik enfeksiyon markırları açısından izlenmesi ve virüslerin
+yok edilmesi ve/veya inaktivasyonu için etkili üretim basamaklarının eklenmesi ile
+azaltılmıştır. Bütün bu önlemlere rağmen, bu ürünler hala potansiyel olarak hastalık
+bulaştırabilirler. Ayrıca, henüz bilinmeyen enfeksiyon yapıcı ajanların bu ürünlerin
+içinde bulunma ihtimali mevcuttur.
+Bu önlemlerin HIV, HBV, HCV gibi zarflı virüsler için etkili olduğu kabul edilir. Bu
+önlemlerin HAV ve Parvovirüs B19 gibi zarflı olmayan virüslere karşı etkisi sınırlı
+olabilir.
+4İmmünoglobulinler ile hepatit A ve parvovirüs B19 bulaşması ile ilgili klinik
+deneyimlerin olmaması güven vericidir ve ayrıca antikor içeriğinin de viral güvenliliğe
+önemli katkı sağladığı varsayılmaktadır.
+Parvovirüs B19 enfeksiyonu, gebelikte (fetal infeksiyon) ve immün yetmezlik ya da
+kırmızı kan hücre üretiminde artış olan hastalarda tehlikeli olabilir (hemolitik anemi
+gibi).
+Doktor, bu ilacı hastaya reçete etmeden veya uygulamadan önce hastası ile risk ve
+yararlarını tartışmalıdır.
+Bu ilaç, yardımcı madde olarak 90 mg/mL maltoz içerir. Maltoz, kan glikoz testleri ile
+etkileşebilir ve hatalı yüksek glikoz sonuçları okunabilir. Bunun sonucunda, hatalı insülin
+uygulanmasına ve takiben hayati tehlike oluşturan hipoglisemiye ve ölüme yol açabilir.
+Ayrıca, hatalı olarak yüksek okunan glikoz düzeyleri nedeniyle hipoglisemik durum
+maskelenirse, gerçek hipoglisemi vakaları tedavisiz kalabilir (Bkz. Bölüm 4.5). Akut renal
+yetmezlik için aşağıya bakınız.
+İzlenebilirlik
+Biyolojik tıbbi ürünlerin izlenebilirliğini mümkün kılmak için, uygulanan ilacın ismi ve seri
+numarası açık bir şekilde kaydedilmelidir.
+Kullanım sırasında alınacak önlemler
+Potansiyel komplikasyonlar, hastalar için aşağıda belirtilen önlemlerin alınması halinde
+genellikle önlenebilir:
+ Ürün uygulamasına yavaş infüzyon hızı ile başlanması (0,01-0,02 mL/kg/dk). Böylece
+hastanın insan normal immünglobuline duyarlılık durumu anlaşılabilir.
+ İnfüzyon süresince hastanın herhangi bir semptoma karşı dikkatle takip edilmesi.
+Özellikle, insan normal immünglobulini ile daha önce tedavi görmemiş hastalar, bir
+IVIg ürününden başka bir IVIg ürününe geçiş yapmış hastalar ya da bir önceki
+infüzyondan sonra uzun bir ara vermiş olan hastalar, potansiyel advers belirtilerin
+tespit edilebilmesi için ilk infüzyon süresince ve ilk infüzyondan sonraki bir saat
+boyunca izlenmelidir. Diğer tüm hastalar, infüzyondan sonra en az 20 dakika
+gözlemlenmelidir.
+Tüm hastalarda, IVIg kullanımı şunları gerektirir:
+ IVIg infüzyonuna başlamadan önce yeterli hidrasyon
+ İdrar çıkışının izlenmesi
+ Serum kreatinin düzeylerinin izlenmesi
+ Loop diüretiklerin birlikte kullanımından kaçınılması (Bkz. 4.5)
+Advers reaksiyon ortaya çıkması durumunda, uygulama hızı düşürülmeli veya infüzyon
+durdurulmalıdır. Gerekli tedavi, advers reaksiyonun doğasına ve şiddetine bağlıdır.
+İnfüzyon reaksiyonu
+Bazı advers reaksiyonlar (örneğin, baş ağrısı, flushing, ürperme, miyalji, hırıltılı nefes alma,
+taşikardi, alt sırt ağrısı, bulantı ve hipotansiyon) infüzyon hızı ile bağlantılı olabilir. “4.2
+Pozoloji ve Uygulama Şekli” bölümünde tavsiye edilen infüzyon hızı yakından takip
+edilmelidir. Hastalar infüzyon süresince yakından izlenmeli ve herhangi bir semptoma karşı
+dikkatle gözlenmelidir.
+Bazı advers reaksiyonlar daha sık meydana gelebilir:
+5 İnsan normal immünglobulinini ilk kez alan hastalarda veya nadir durumlarda insan
+normal immünglobulin ürününün değiştirilmesi ya da önceki infüzyondan sonra uzun
+bir süre geçmesi durumunda
+ Tedavi edilmemiş bir enfeksiyonu bulunan veya altta yatan kronik inflamasyonu olan
+hastalarda.
+Hipersensitivite
+Hipersensitivite reaksiyonları seyrektir.
+Anafilaksi aşağıdaki durumlarda gelişebilir:
+ Anti-IgA antikorları olan ve IgA saptanamayan hastalar
+ İnsan normal immünglobulinleri ile önceki tedaviyi tolere etmiş hastalar
+Şok gelişmesi halinde, standart şok tedavisi uygulanmalıdır.
+Tromboembolizm
+IVIg uygulanması ile miyokardiyal enfarktüs, serebrovasküler olay (inme dahil), pulmoner
+emboli ve derin ven trombozu gibi tromboembolik olaylar arasında ilişki olduğunu gösteren
+klinik kanıtlar mevcuttur. Bu durumun, risk altındaki hastalarda immünoglobulinin yüksek
+influksu nedeniyle kan vizkozitesinde göreceli bir artışa bağlı olduğu düşünülmektedir. Obez
+hastalarda ve trombotik olaylar açısından risk faktörleri bulunan hastalarda (ileri yaş,
+hipertansiyon, diabetes mellitus ve bir damar hastalığı veya trombotik olay hikayesi,
+kazanılmış veya kalıtımsal trombofilik bozuklukları olan hastalar, uzun süredir hareketsiz
+olan hastalar, ağır hipovolemik hastalar, kan viskozitesini artıran hastalıkları olan hastalar ve
+oral kontraseptifler gibi belirli hormonları birlikte kullanan hastalar gibi) IVIg reçetelenmesi
+ve infüzyonu dikkatle yapılmalıdır.
+IVIg ürünleri, tromboembolik advers reaksiyonlar açısından risk altında bulunan hastalarda
+mümkün olan en düşük infüzyon hızında ve dozda kullanılmalıdır.
+Akut renal yetmezlik
+IVIg tedavisi alan hastalarda akut böbrek yetmezliği vakaları bildirilmiştir. Vakaların
+çoğunda, önceden var olan böbrek yetmezliği, diabetes mellitus, hipovolemi, aşırı kilo,
+birlikte kullanılan nefrotoksik ilaçlar veya 65 üzeri yaş gibi risk faktörleri tanımlanmıştır.
+IVIg infüzyonu öncesinde renal parametreler değerlendirilmeli ve sonrasında uygun
+aralıklarla tekrarlanmalıdır. Bu değerlendirme, potansiyel olarak akut renal yetmezlik
+gelişmesi riskinin artmış olduğu düşünülen hastalarda özellikle yapılmalıdır. Akut renal
+yetmezlik riski bulunan hastalarda, IVIg ürünleri, mümkün olan en düşük infüzyon hızında ve
+dozda uygulanmalıdır.
+Böbrek bozukluğu durumlarında, IVIg’nin kesilmesi düşünülmelidir.
+Böbrek disfonksiyonu ve akut böbrek yetmezliği raporları, sukroz, glikoz ve maltoz gibi
+çeşitli yardımcı maddeler içeren ruhsatlı birçok IVIg ürününün kullanımı ile ilişkili bulunmuş
+olmasına rağmen, stabilizör olarak sukroz içerenler toplam sayının büyük kısmını
+oluşturmaktadır. Risk altındaki hastalarda bu yardımcı maddeleri içermeyen IVIg ürünlerinin
+kullanılması düşünülebilir. OCTAGAM %10 [100 mg/mL] maltoz içerir (Yukarıdaki, Bölüm
+4.4 kısmına bakınız).
+Aseptik Menenjit Sendromu (AMS)
+6IVIg tedavisi ile ilişkili olarak aseptik menenjit sendromunun ortaya çıktığı bildirilmiştir.
+Sendrom, genellikle, IVIg tedavisini izleyen birkaç saat ile iki gün içinde başlar. Beyin
+omurilik sıvısı (BOS) çalışmaları sıklıkla pozitiftir ve çoğunlukla granülositik serilerden
+olmak üzere, mm3 başına birkaç bin hücreye kadar pleositoz ve birkaç yüz mg/dL’ye kadar
+artan protein düzeyleri mevcuttur.
+AMS, yüksek doz IVIg tedavisi (2g/kg) ile ilişkili olarak daha sık ortaya çıkabilir.
+Bu belirti ve bulguları gösteren hastalara, diğer menenjit nedenlerini ekarte etmek için BOS
+çalışmaları dahil olmak üzere, tam kapsamlı bir nörolojik muayene yapılmalıdır.
+IVIg tedavisinin kesilmesi, birkaç gün içinde, AMS durumunun sekelsiz olarak iyileşmesi ile
+sonuçlanmıştır.
+Hemolitik anemi
+IVIg ürünleri, hemolizinler gibi davranabilen ve kırmızı kan hücrelerinin in vivo olarak
+immünglobülinle kaplanmasına ve bunun sonucunda da pozitif direkt antiglobulin
+reaksiyonuna (Coomb’s testi) ve nadiren hemolize neden olan kan grubu antikorlarını
+içerebilir. IVIg tedavisinden sonra, kırmızı kan hücrelerinin sekestrasyonundaki artışa bağlı
+olarak hemolitik anemi gelişebilir. IVIg alan hastalar, hemolizin klinik belirtileri ve
+semptomları açısından takip edilmelidir (Bkz. Bölüm 4.8).
+Nötropeni/Lökopeni
+IVIg tedavisinden sonra, bazen şiddetli olabilen, nötrofil sayısında geçici bir azalma ve/veya
+nötropeni atakları bildirilmiştir. Bu durum tipik olarak, IVIg uygulamasından saatler veya
+günler sonra ortaya çıkar ve 7-14 günde kendiliğinden düzelir.
+Transfüzyonla ilişkili akut akciğer hasarı (TRALI)
+IVIg ürünleri ile tedavi edilen hastalarda, nonkardiyojenik pulmoner ödem (transfüzyonla
+ilişkili akut akciğer hasarı -TRALI-) görüldüğünü bildiren raporlar mevcuttur. Bu nedenle,
+her ne kadar bugüne kadar OCTAGAM ile gözlenmemiş olsa da, bu yan etki OCTAGAM
+için tamamen dışlanamaz. TRALI; şiddetli hipoksi, dispne, takipne, siyanoz, ateş ve
+hipotansiyon ile karakterizedir. Semptomlar tipik olarak tedavi sırasında veya tedaviden sonra
+sıklıkla 1-2 saat içinde olmak üzere 6 saat içinde ortaya çıkar. Bu nedenle, IVIg tedavisi alan
+hastalar izlenmeli ve pulmoner advers reaksiyonların ortaya çıkması halinde IVIg infüzyonu
+derhal durdurulmalıdır. TRALI, potansiyel olarak hayatı tehdit eden bir durumdur ve derhal
+yoğun bakım ünitesinde tedavi gerektirir.
+Serolojik testlerle etkileşim
+İmmünglobulin enjeksiyonundan sonra, pasif olarak geçen çeşitli antikorların hastanın
+kanında geçici olarak yükselmesi, serolojik testlerde yanıltıcı pozitif sonuçlara yol açabilir.
+Antikorların, A, B, D gibi eritrosit antijenlerine pasif geçişi, kırmızı hücre antikorları için
+yapılan direkt antiglobulin testi (DAT, direkt Coombs testi) gibi bazı serolojik testlerle
+etkileşebilir.
+Eritrosit sedimentasyon hızında (hatalı) yükselme
+Tedavide IVIg kullanan hastalarda eritrosit sedimentasyon hızı hatalı olarak yüksek çıkabilir
+(enflamatuvar olmayan yükselme).
+Dolaşım (hacim) yüklenmesi
+7İnfüze edilen IVIg hacmi (veya herhangi bir başka kan veya plazma kaynaklı ürün) ve diğer
+eşzamanlı infüzyonlar akut hipervolemiye ve akut pulmoner ödeme yol açtığı zaman, dolaşım
+(hacim) yüklenmesi ortaya çıkabilir.
+Lokal enjeksiyon yeri reaksiyonları
+Enjeksiyon yerinde lokal reaksiyonlar tanımlanmıştır. Bu reaksiyonlar arasında
+ekstravazasyon, infüzyon yerinde eritem, infüzyon yerinde prurit ve benzer semptomlar
+bulunabilir.
+Pediyatrik popülasyon
+Belirtilen uyarı ve önlemler hem erişkinler hem de çocuklar için geçerlidir.
+Sodyum içeriği
+Bu tıbbi ürün, her 100 mL’de 69 mg sodyum içerir. Bu miktar, DSÖ’nün erişkin bir kişide
+günlük maksimum sodyum alımı için önerdiği 2 g’ın %3,45’ine eşdeğerdir. Bu durum
+kontrollü sodyum diyetinde olan hastalar için göz önünde bulundurulmalıdır.
+4.5. Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+Canlı atenüe aşılar
+İmmünglobulin kullanımı, kızamık, kızamıkçık, kabakulak ve suçiçeği gibi canlı atenüe virüs
+aşılarının etkinliğini en az 6 haftadan 3 aya kadar bir süre için azaltabilir. Bu ürünün
+uygulanmasından sonra canlı atenüe virüs aşıları ile aşılanmadan önce 3 aylık bir süre
+geçmelidir. Kızamık durumunda bu süre 1 yıla kadar uzayabilir. Bu nedenle kızamık aşısı
+uygulanan hastalar antikor durumlarını kontrol ettirmelidirler.
+Loop diüretikler
+Loop diüretiklerin eş zamanlı kullanımından kaçınılmalıdır.
+Kan glikoz testi
+Bazı glikoz test sistemleri (örneğin, glikoz dehidrogenaz pirolokinolinkinon (GDH-PQQ)
+veya glikoz–boya-oksidoreduktaz yöntemlerine dayananlar gibi) OCTAGAM %10’daki
+maltozu (90 mg/mL) yanlışlıkla glikoz olarak algılamaktadır. Bu durum, infüzyon sırasında
+veya infüzyon sonlandıktan yaklaşık 15 saatlik bir süre için hatalı yüksek glikoz okumalarının
+alınmasına ve dolayısı ile hayati tehlike taşıyan ve hatta ölümcül hipoglisemi ile sonuçlanacak
+yanlış insülin uygulamasına sebep olabilmektedir. Ayrıca, hipoglisemik durumun, hatalı
+yüksek glikoz okuması ile maskelenmesi durumunda gerçek hipoglisemi vakalarında tedavi
+uygulanmamasına sebep olabilir. Buna bağlı olarak, OCTAGAM %10 veya maltoz içeren
+parenteral diğer ürünler uygulandığında, kan glikoz ölçümü glikoza özgün bir yöntemle
+yapılmalıdır.
+Kan glikozu test sisteminin, test çubukları da dahil ürün bilgisi, sistemin maltoz içeren
+parenteral ürünlerle kullanım için uygun olup olmadığının belirlenmesi açısından dikkatle
+incelenmelidir. Herhangi bir şüphe olduğunda, maltoz içeren parenteral ürünlerle
+kullanımının uygun olup olmadığını tayin etmek için test sistemi üreticisi ile temasa
+geçilmelidir.
+Pediyatrik popülasyon
+Listelenen etkileşimler hem erişkinler hem de çocuklar için geçerlidir.
+4.6. Gebelik ve laktasyon
+8Genel tavsiye:
+Gebelik kategorisi: C
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon)
+IVIg uygulaması ile tromboembolik olaylar arasında ilişki olduğunu gösteren klinik kanıtlar
+bulunmaktadır. Oral kontraseptif kullanımı trombotik olaylar açısından bir risk faktörü
+olduğundan, bu tür ilaçları kullanan kadınlara IVIg reçetelenmesi ve infüzyonu dikkatle
+yapılmalıdır. IVIg ürünleri, bu hastalarda, mümkün olan en düşük infüzyon hızında ve dozda
+kullanılmalıdır.
+Gebelik Dönemi
+Bu tıbbi ürünün hamilelikte kullanımının güvenliliği kontrollü klinik çalışmalarla
+saptanmamıştır ve bu nedenle gebe kadınlarda dikkatle kullanılmalıdır. IVIg ürünlerinin
+plasentaya geçtiği ve bu geçişin 3. trimesterde arttığı gösterilmiştir. İmmünglobulinlerle klinik
+deneyimler, gebelik süreci, fötus ve yeni doğanda zararlı bir etki beklenmediğini
+düşündürmektedir.
+Laktasyon Dönemi
+İmmünglobulinler anne sütüne salgılanmaktadır. Anne sütü alan yeni doğanlar/infantlarda
+negatif bir etkisi beklenmemektedir.
+Üreme yeteneği /Fertilite
+İmmünglobulinlerle klinik deneyimler, fertilite üzerinde zararlı bir etki beklenmediğini
+düşündürmektedir.
+4.7 Araç ve makina kullanımı üzerindeki etkiler
+OCTAGAM’ın araç ve makine kullanma yeteneği üzerinde ya hiç etkisi yoktur ya da etkisi
+ihmal edilebilir düzeydedir. Bununla birlikte, tedavi sırasında advers reaksiyon yaşayan
+hastalar, araç ve makine kullanmadan önce bu belirtilerin düzelmesini beklemelidir.
+4.8. İstenmeyen etkiler
+Güvenlilik profili özeti
+İnsan normal immünglobulinlerinin neden olduğu advers reaksiyonlar şunları kapsar (Bkz.
+Bölüm 4.4) (sıklıktaki azalmaya göre):
+ Ürperme, baş ağrısı, baş dönmesi, ateş, kusma, alerjik reaksiyonlar, bulantı, artralji,
+kan basıncında düşme ve orta derecede alt sırt ağrısı
+ Geri dönüşlü hemolitik reaksiyonlar (özellikle kan grubu A, B ve AB olanlarda) ve
+seyrek olarak, transfüzyon gerektiren hemolitik anemi
+ Seyrek olarak, kan basıncında ani düşme ve izole vakalarda, önceki uygulamalarda
+hipersensitivite görülmemiş olsa bile, anafilaktik şok
+ Seyrek olarak, geçici kütanöz reaksiyonlar (kütanöz lupus eritematozus dahil-sıklığı
+bilinmiyor)
+ Çok seyrek sıklıkta, miyokard enfarktüsü, inme, pulmoner emboli, derin ven trombozu
+gibi tromboembolik reaksiyonlar
+ Geri dönüşlü aseptik menenjit vakaları
+ Serum kreatinin düzeyinde artma ve/veya akut renal yetmezlik vakaları
+ Transfüzyon ile ilişkili akut akciğer hasarı (TRALI) vakaları
+Advers reaksiyonların çizelgeli listesi
+9Aşağıdaki tablo MedDRA sistem organ sınıflamasına göre (sistem organ sınıfı ve tercih
+edilen terim düzeyinde) sunulmuştur.
+Kullanılan terimler ve sıklık dereceleri şöyle tanımlanmıştır: Çok yaygın (≥1/10), yaygın
+(≥1/100 ila <1/10), yaygın olmayan (≥1/1.000 ila <1/100), seyrek (≥1/10,000 ila <1/1.000);
+çok seyrek (<1/10.000), bilinmiyor (eldeki verilerden hareketle tahmin edilemiyor).
+Her bir organ gruplamasında istenmeyen etkiler azalan ciddiyet sıralamasına göre
+sunulmuştur.
+Klinik çalışmalarda OCTAGAM ile advers ilaç reaksiyonlarının sıklığı:
+MedDRA Advers reaksiyon Sıklık/hasta Sıklık/infüzyon
+Sistem organ
+sınıflaması
+Kan ve lenf sistemi lökopeni Yaygın olmayan Yaygın olmayan
+hastalıkları
+Bağışıklık sistemi Aşırı duyarlılık Çok yaygın Yaygın
+hastalıkları
+(Bkz. Bölüm 4.4)
+Sinir sistemi hastalıkları Baş ağrısı Çok yaygın Yaygın
+Kalp hastalıkları Taşikardi Yaygın olmayan Yaygın olmayan
+Damar hastalıkları Hipertansiyon Yaygın Yaygın olmayan
+Gastrointestinal Bulantı Yaygın Yaygın olmayan
+hastalıklar Kusma Yaygın Yaygın olmayan
+Kas-iskelet ve bağ Sırt ağrısı Yaygın Yaygın olmayan
+dokusu hastalıkları
+Genel rahatsızlıklar ve Ateş, yorgunluk, enjeksiyon Yaygın Yaygın olmayan
+uygulama bölgesine yeri reaksiyonu, ürperme
+ilişkin hastalıklar Göğüs ağrısı Yaygın olmayan Yaygın olmayan
+Hepatik enzimlerde Yaygın Yaygın olmayan
+Araştırmalar
+yükselme
+Aşağıda verilen reaksiyonlar OCTAGAM ile pazarlama sonrası deneyimlerine
+dayanmaktadır. Pazarlama sonrası dönemde bildirilen reaksiyonların sıklıkları mevcut
+verilerden hareketle tahmin edilememektedir.
+MedDRA sistem organ sınıfı Advers reaksiyon (PT) Sıklık
+Kan ve lenf sistemi hastalıkları Hemolitik anemi Bilinmiyor
+Bağışıklık sistemi hastalıkları Anafilaktik şok Bilinmiyor
+(Bkz. Bölüm 4.4) Anafilaktik reaksiyon Bilinmiyor
+Anafilaktoid reaksiyon Bilinmiyor
+Anjiyoödem Bilinmiyor
+Yüzde ödem Bilinmiyor
+Metabolizma ve beslenme hastalıkları Sıvı yüklenmesi Bilinmiyor
+(pseudo) hiponatremi Bilinmiyor
+Psikiyatrik hastalıklar Konfüzyon durumu Bilinmiyor
+Ajitasyon Bilinmiyor
+Anksiyete Bilinmiyor
+Sinirlilik Bilinmiyor
+10Sinir sistemi hastalıkları Serebrovasküler olay Bilinmiyor
+(Bkz. Bölüm 4.4)
+Aseptik menenjit Bilinmiyor
+Bilinç kaybı Bilinmiyor
+Konuşma bozuklukları Bilinmiyor
+Migren Bilinmiyor
+Baş dönmesi Bilinmiyor
+Hipoestezi Bilinmiyor
+Parestezi Bilinmiyor
+Fotofobi Bilinmiyor
+Tremor Bilinmiyor
+Göz hastalıkları Görmede bozukluk Bilinmiyor
+Kardiyak hastalıklar Miyokard enfarktüsü Bilinmiyor
+(Bkz. Bölüm 4.4)
+Anjina pektoris Bilinmiyor
+Bradikardi Bilinmiyor
+Palpitasyonlar Bilinmiyor
+Siyanoz Bilinmiyor
+Vasküler hastalıklar Tromboz (Bkz. Bölüm Bilinmiyor
+4.4)
+Dolaşım kollapsı Bilinmiyor
+Periferal dolaşım Bilinmiyor
+yetmezliği
+Flebit Bilinmiyor
+Hipotansiyon Bilinmiyor
+Solukluk Bilinmiyor
+Solunum, göğüs bozuklukları ve Solunum yetmezliği Bilinmiyor
+mediastinal hastalıklar Pulmoner emboli Bilinmiyor
+(Bkz. Bölüm 4.4)
+Pulmoner ödem Bilinmiyor
+Bronkospazm Bilinmiyor
+Hipoksi Bilinmiyor
+Dispne Bilinmiyor
+Öksürük Bilinmiyor
+Gastrointestinal hastalıklar Diyare Bilinmiyor
+Abdominal ağrı Bilinmiyor
+Deri ve deri altı doku hastalıkları Ciltte eksfoliyasyon Bilinmiyor
+Ürtiker Bilinmiyor
+Döküntü Bilinmiyor
+Eritematöz döküntü Bilinmiyor
+Dermatit Bilinmiyor
+Prurit Bilinmiyor
+Alopesi Bilinmiyor
+Eritem Bilinmiyor
+Kas-iskelet bozuklukları, bağ doku ve Artralji Bilinmiyor
+kemik hastalıkları Miyalji Bilinmiyor
+Ekstremitelerde ağrı Bilinmiyor
+Boyun ağrısı Bilinmiyor
+Kas spazmları Bilinmiyor
+Kaslarda zayıflık Bilinmiyor
+Kas-iskelet sertliği Bilinmiyor
+11Böbrek ve idrar yolu hastalıkları Akut renal yetmezlik Bilinmiyor
+(bkz. Bölüm 4.4)
+Renal ağrı Bilinmiyor
+Genel bozukluklar ve uygulama Ödem Bilinmiyor
+bölgesine ilişkin hastalıklar İnfluenza benzeri hastalık Bilinmiyor
+Sıcak basması Bilinmiyor
+Flushing Bilinmiyor
+Soğukluk hissetme Bilinmiyor
+Sıcaklık hissetme Bilinmiyor
+Hiperhidroz Bilinmiyor
+Halsizlik Bilinmiyor
+Göğüste rahatsızlık hissi Bilinmiyor
+Asteni Bilinmiyor
+Letarji Bilinmiyor
+Yanma hissi Bilinmiyor
+Araştırmalar Kan glikozunda hatalı Bilinmiyor
+pozitif sonuç
+(Bkz. Bölüm 4.4)
+Seçilmiş advers reaksiyonların açıklanması
+Hipersensitivite reaksiyonları, tromboembolizm, akut renal yetmezlik, aseptik menenjit
+sendromu ve hemolitik anemi gibi seçilmiş advers reaksiyonların açıklaması için Bkz. Bölüm
+4.4.
+Pediyatrik popülasyon
+OCTAGAM ile yürütülen klinik çalışmalarda çocuklarda gözlenen advers reaksiyonların
+çoğu hafif olarak değerlendirilmiştir. Bu reaksiyonların çoğu, infüzyon hızının düşürülmesi
+veya infüzyona bir süre ara verilmesi gibi basit önlemlere yanıt vermiştir. Gözlenen tüm
+advers reaksiyonlar, IVIg preparatları için bilinen reaksiyonlardır. Pediyatrik popülasyonda en
+sık gözlenen advers reaksiyon baş ağrısıdır.
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir. (www.titck.gov.tr; e-
+posta: tufam@titck.gov.tr; tel: 0 800 314 00 08; faks: 0 312 218 35 99)
+4.9. Doz aşımı ve tedavisi
+Doz aşımı, özellikle yaşlı hastalar veya kardiyak ya da renal yetmezliği olan hastalar da dahil
+risk altındaki hastalarda aşırı sıvı yüklemesine ve hiperviskositeye neden olabilir (Bkz. Bölüm
+4.4).
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1 Farmakodinamik özellikler
+Farmakoterapötik grup: immün serum ve immünglobulinler: immünglobulinler, normal insan,
+intravasküler kullanım için,
+ATC kodu: J06BA02.
+12İnsan normal immünglobulini esas olarak, enfeksiyöz ajanlara karşı geniş spektrumlu antikor
+dağılımına sahip immünglobulin G (IgG) içerir.
+İnsan normal immünglobulinleri, normal popülasyonda bulunan IgG antikorlarını içerir.
+Genellikle 1000’den daha az olmayan bağıştan oluşan plazma havuzundan hazırlanır. Doğal
+insan plazmasına benzer oranlarda immünglobulin G altsınıfı dağılımına sahiptir. Bu tıbbi
+ürünün yeterli dozları, anormal derecede düşük IgG seviyesini normal değerlere çıkarabilir.
+Replasman tedavisi dışındaki endikasyonlardaki etki mekanizması tam olarak
+anlaşılamamıştır.
+Klinik çalışmalar
+Prospektif, açık etiketli çok merkezli faz III çalışmasında OCTAGAM %10’nun (100 mg/mL)
+etkililiği ve güvenliliği idiyopatik (immün) trombositopenik purpura (ITP) hastalarında
+çalışılmıştır. OCTAGAM %10, 1gram/kg/gün dozunda ardışık 2 gün infüze edilmiştir.
+Hastalar 21 gün boyunca gözlenmiş ve infüzyon sonrasında 63. günde takip ziyareti
+yapılmıştır. Hematoloji parametreleri 2-7,14 ve 21. günlerde değerlendirilmiştir.
+Analize toplam 116 gönüllü dahil edilmiştir; bunlardan 66’sı kronik ITP hastasıdır, 49’unun
+tanısı yeni konmuş ve biri de yanlışlıkla çalışmaya dahil edilmiştir (ITP’si yoktur) ve bu
+nedenle etkililik analizinden çıkarılmıştır.
+Toplamda gönüllülerin %80’i klinik bir yanıt göstermiştir (%95 güven aralığı: %73-%87).
+Klinik yanıt oranı 2 kohorta da benzerdir: kronik ITP kohortunda %82 ve yeni tanı konmuş
+kohortta %78’dir. Yanıt veren hastalarda medyan platelet yanıt süresi 2 gün olup 1-6 gün
+arasında değişir.
+Genel maksimum infüzyon hızı 0,12 mL/kg/dk’dır. Maksimum 0,12 mL/kg/dk infüzyon
+hızına izin verilen gönüllü grubunda (n=90), medyan maksimum infüzyon hızı olan 0,12
+mL/kg/dk (ortalama 0,10 mL/kg/dk) hızına ulaşılmıştır. Genel olarak gönüllülerin %55’i
+ilaçla ilişkili advers olay yaşamıştır, insidans kronik ITP ve yeni tanı almış ITP kohortlarında
+benzerdir. İlaçla ilişkili advers olayların tümü hafif veya orta şiddettedir ve hepsi düzelmiştir.
+En yaygın aders olaylar, baş ağrısı, kalp hızında artış (nabız hızında ˃10 atış/dk gibi küçük
+değişiklikler bildirilmiştir) ve ateştir. ≤0,08 mL/kg/dk hızındaki infüzyon sırasında veya 1
+saat içinde ortaya çıkan ilaçla ilişkili infüzyonel advers olaylar, 116 gönüllünün 32’sinde
+(%28) ortaya çıkmıştır, buna karşılık 0,12 mL/kg/dk hız uygulanan 54 gönüllünün sadece
+6’sında (%11) bu tip advers olaylar gözlenmiştir (eğer advers olay infüzyon bittikten sonra
+başlarsa, advers olay için en son uygulanan hız dikkate alınmıştır). Çalışma ilacına bağlı
+hemoliz vakası yoktur. 1 gönüllü haricinde hiç kimseye infüzyona bağlı intolerabiliteyi
+gidermek için infüzyon öncesi tedavi verilmemiştir.
+Kronik enflamatuvar demiyelinizan polinöropati (KEDP)
+Bir retrospektif çalışma, OCTAGAM %5 ile tedavi edilen 46 kronik enflamatuvar
+demiyelinizan polinöropati hastasından elde edilen verileri dahil etmiştir. Etkililik analizine
+24 hasta dahil edilmiştir. Bu hastaların 11’i tedavi edilmemiş hastadır (grup 1), 13’ü ise
+OCTAGAM %5 tedavisine başlamadan önceki 12 hafta boyunca immünglobulin tedavisi
+almamıştır (grup 2). Grup 3, önceden immünglobulinlerle tedavi edilmiş (immünglobulinler,
+OCTAGAM %5 tedavisine başlamadan önceki 12 hafta içinde verilmiştir) 13 hastayı kapsar.
+Tedavi, tedavinin başlamasından sonra 4 ay içinde ONLS (Overall Neuropathy Limitation
+Scale - Genel Nöropati Sınırlama Ölçeği) değerinde en az 1 puan düşme olması halinde etkili
+olarak kabul edilmiştir. Grup 1 ve Grup 2’de skor, hastaların %41,7’sinde anlamlı olarak
+düşmüştür (p=0,02). Grup 3’teki (önceden IVIg ile tedavi edilmiş hastalar) 13 hastanın sadece
+133’ü (%23,08) ONLS değerinde bir iyileşme göstermiş, 10 hasta ise stabil kalmıştır. Önceden
+IVIg tedavisi almış hastalarda ONLS değerinde daha başka belirgin bir iyileşme
+beklenmemiştir.
+İncelenen hastaların ortalama yaşı 65’tir. Bu, diğer KEDP çalışmalarına göre ileri bir yaştır.
+65 yaşın üstündeki hastalarda yanıt oranı, daha genç hastalara göre daha düşüktür. Bu durum
+yayınlanmış verilerle uyumludur.
+Pediyatrik popülasyon
+OCTAGAM %10 ile özel pediyatrik bir çalışma yürütülmemiştir.
+Bununla birlikte, primer immün yetmezliği olan 17 çocuk/adolesan (medyan yaş 14 yıldır,
+aralık: 10,5-16,8) hastada, OCTAGAM %5 ile, prospektif, açık etiketli, bir Faz III çalışma
+yürütülmüştür. Hastalar 6 aylık bir süreyle tedavi edilmiştir. Enfeksiyonlu ve ateşli geçirilen
+ve okula gidilemeyen günlerin sayısı düşük olduğu ve enfeksiyonların tipi ve şiddeti normal
+popülasyonda görülenlerle karşılaştırılabilir bulunduğu için, klinik etkililik tatmin edici
+bulunmuştur. Hastaneye yatmaya yol açan şiddetli enfeksiyonlar gözlenmemiştir. IgG plazma
+düzeyleri yaklaşık 6 g/L düzeyinde tutulduğunda, plazma IgG düzeyleri yaklaşık 4 g/L olması
+durumuna göre, enfeksiyon ataklarının sayısının daha düşük olması da kayda değer
+bulunmuştur.
+5.2 Farmakokinetik özellikler
+Genel özellikler
+Emilim:
+İnsan normal immünglobulini intravenöz olarak verildikten sonra, alıcının dolaşımındaki
+biyoyararlanımı hızlı ve tamdır.
+Dağılım:
+Plazma ve ekstravasküler sıvı arasında nispeten hızla dağılır, intra- ve ekstravasküler
+kompartmanlar arasındaki dengeye yaklaşık 3- 5 gün sonra ulaşılır.
+Biyotransformasyon:
+IgG ve IgG-kompleksleri retiküloendotelial sistem hücrelerinde yıkıma uğrarlar.
+Eliminasyon:
+İnsan normal immünglobulinin ortalama yarılanma ömrü immün yetmezliği olan hastalarda
+26–41 gün olarak ölçülmüştür. Bu yarılanma ömrü, özellikle primer immün yetmezlikte,
+hastadan hastaya, değişebilmektedir.
+OCTAGAM %10 için, immün yetmezlik hastalarında formal farmakokinetik veriler mevcut
+değildir.
+Pediyatrik popülasyon:
+Pediyatrik popülasyonda OCTAGAM %10 ile özel bir çalışma yapılmamıştır.
+Bununla birlikte, primer immün yetmezliği olan 17 çocuk/adolesan (medyan yaş 14 yıldır,
+aralık: 10,5-16,8) hastada, OCTAGAM %5 ile, prospektif, açık etiketli, bir Faz III çalışma
+yapılmıştır. Hastalar 6 ay süreyle tedavi edilmiştir.
+14Tedavi dönemi sırasında, kararlı durumda C 11,1±1,9 g/L, ortalama çukur düzeyi 6,2±1,8
+maks
+g/L bulunmuştur. Toplam IgG’nin terminal yarılanma ömrü 36±11 gündür (medyan 34 gün).
+Toplam IgG’nin dağılım hacmi 3,7±1,4 L ve toplam vücut klerensi 0,07±0,02 L/gündür.
+5.3. Klinik öncesi güvenlilik verileri
+İmmünglobulinler insan vücudunun normal bileşenleridir. Hayvanlardaki tekrarlı doz
+toksisitesi, genotoksisite ve üreme toksisitesi çalışmaları, heterolog proteinlere karşı gelişen
+antikorların indüksiyonu ve etkileşimi nedeniyle pratik değildir.
+Klinik deneyimler immünglobulinlerin karsinojkenik veya mutajenik potansiyeli açısından bir
+kanıt ortaya koymadığından, deneysel çalışmalar, heterolog türlerde gerekli görülmemiştir.
+6. FARMASÖTİK ÖZELLİKLER
+6.1. Yardımcı maddelerin listesi
+Maltoz
+Enjeksiyonluk su
+6.2. Geçimsizlikler
+Geçimsizlik çalışmaları bulunmadığından, bu ürün, diğer ilaçlarla veya diğer herhangi bir
+IVIg ürünü ile karıştırılmamalıdır.
+6.3. Raf ömrü
+24 aydır.
+6.4. Saklamaya yönelik özel tedbirler
+Buzdolabında saklayınız (2oC - 8oC). Dondurmayınız.
+Işıktan korumak için flakonu dış kartonu içinde saklayınız.
+Son kullanma tarihinden sonra kullanmayınız.
+Raf ömrü içinde olmak koşuluyla, buzdolabından çıkarılan açılmamış ürün, tekrar
+buzdolabına konmamak üzere, 25oC’nin altındaki sıcaklıkta 9 aya kadar saklanabilir. Ürün, bu
+süre sonunda tekrar buzdolabına konmamalı ve atılmalıdır. Ürünün buzdolabından çıkarıldığı
+günün tarihi dış ambalaj üzerine yazılmalıdır.
+6.5. Ambalajın niteliği ve içeriği
+50 mL içinde 5 g
+50 mL çözelti 70 ml infüzyon şişesi içindedir.
+Primer ambalaj, bromobutil lastik tıpa ile kapatılan tip II camdan yapılmıştır.
+Ayrıca, OCTAGAM %10 10g/100 mL içeren 100 mL ambalaj büyüklüğündeki formu da
+bulunmaktadır.
+15Tüm ambalaj büyüklükleri piyasada bulunmayabilir.
+6.6. Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+Ürün kullanım öncesi oda veya vücut sıcaklığına getirilmelidir.
+Çözelti berrak veya hafif opalesan ve renksiz veya açık sarı renkte olmalıdır.
+Bulanık veya tortulu çözeltileri kullanmayınız.
+Kullanılmamış olan ürünler ya da atık materyal, “Tıbbi Atıkların Kontrolü Yönetmeliği” ve
+“Ambalaj ve Ambalaj Atıkları Kontrolü Yönetmeliği”ne uygun olarak imha edilmelidir.
+Bakteriyel kontaminasyon olasılığından dolayı kalan kısımlar atılmalıdır.
+7. RUHSAT SAHİBİ
+Berk İlaç İthalat ve Pazarlama A.Ş.
+Poligon Mah. Sarıyer Cad. ABC Plaza
+No: 117/B Kat: 2
+İstinye-Sarıyer / İstanbul
+Telefon: 0 212 277 33 03
+Faks: 0 212 277 30 36
+8. RUHSAT NUMARASI
+2022/689
+9. İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi: 29.11.2022
+Ruhsat yenileme tarihi:
+10. KÜB’ÜN YENİLENME TARİHİ
+16

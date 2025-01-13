@@ -1,0 +1,1099 @@
+KISA ÜRÜN BİLGİSİ
+▼
+Bu ilaç ek izlemeye tabidir. Bu üçgen yeni güvenlilik bilgisinin hızlı olarak belirlenmesini
+sağlayacaktır. Sağlık mesleği mensuplarının şüpheli advers reaksiyonları TÜFAM’a
+bildirmeleri beklenmektedir. Bakınız Bölüm 4.8 Advers reaksiyonlar nasıl raporlanır?
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+RYDAPT 25 mg yumuşak kapsül
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde:
+Midostaurin 25 mg
+Yardımcı maddeler:
+Etanol anhidröz 83,3 mg
+Yardımcı maddelerin tam listesi için bölüm 6.1’e bakınız.
+3. FARMASÖTİK FORM
+Yumuşak kapsül
+Üzerinde kırmızı mürekkeple “PKC NVR” yazan, soluk turuncu, oblong kapsül.
+4. KLİNİK ÖZELLİKLER
+4.1 Terapötik endikasyonlar
+RYDAPT aşağıdaki endikasyonlarda kullanılır:
+• FLT-3 mutasyonu pozitif akut miyeloblastik lösemi tanısı konulmuş olan ve yoğun
+kemoterapiye (standart doz 3+7 remisyon indüksiyonu ve yüksek doz ARA-C ile
+konsolidasyon tedavisi) uygun hastalarda remisyon indüksiyon tedavisi ve
+postremisyon tedavisi ile kombine olarak,
+• İlerlemiş sistemik mastositozlu erişkin hastaların tedavisinde.
+4.2 Pozoloji ve uygulama şekli
+Pozoloji/uygulama sıklığı ve süresi:
+RYDAPT tedavisi, anti-kanser tedavilerinin kullanımında deneyimli bir hekim tarafından
+başlatılmalıdır.
+Midostaurin almadan önce AML hastalarında, valide edilmiş bir test kullanılarak FLT3
+mutasyonu (internal tandem duplikasyonu [ITD] veya tirozin kinaz domaini [TKD])
+doğrulanmalıdır.
+Pozoloji:
+Akut miyeloid lösemi (AML)
+Önerilen RYDAPT dozu günde iki kere 50 mg’dır.
+RYDAPT, indüksiyon ve konsolidasyon kemoterapi sikluslarının 8.-21. günlerinde
+kemoterapi ile kombine olarak kullanılır. Hematopoetik kök hücre nakli (SCT) almakta olan
+hastalarda RYDAPT, SCT’ye hazırlık tedavisinden 48 saat önce kesilmelidir.
+1AML’de doz değişiklikleri:
+AML’li hastalarda RYDAPT için doz değişikliklerine yönelik öneriler Tablo 1’de
+sunulmaktadır.
+Tablo 1 AML’li hastalarda RYDAPT için doz kesintisi, azaltılması ve
+bırakılmasına yönelik öneriler
+Faz Kriterler RYDAPT dozu
+İndüksiyon ve Derece 3/4 Siklusun kalanında RYDAPT’a ara verin. İnfiltrat
+konsolidasyon pulmoner Derece ≤ 1’e düzeldiğinde RYDAPT’a aynı dozdan
+infiltratlar devam edin.
+RYDAPT ile ilişkili olabileceği değerlendirilen
+Diğer hematolojik
+toksisiteler Derece ≤ 2’ye düzelene kadar
+olmayan Derece
+RYDAPT’a ara verin. Daha sonra RYDAPT’a devam
+3/4 toksisiteler
+edin.
+Siklusun kalanında RYDAPT dozunu günde bir kez
+QTc aralığının 50 mg’a düşürün. Bir sonraki siklusun başında QTc
+>470 milisaniye ve aralığının ≤ 470 milisaniyeye düzelmesi koşuluyla bu
+≤ 500 milisaniye siklusun başında RYDAPT’a başlangıç dozundan
+olması devam edin. Aksi halde günde bir kez RYDAPT 50
+mg’a devam edin.
+Siklusun kalanında RYDAPT dozlarını durdurun
+veya ara verin. Eğer bir sonraki siklustan hemen önce
+QTc aralığı ≤ 470 milisaniyeye düzelirse,
+QTc aralığının
+RYDAPT’a başlangıç dozundan devam edin. Eğer
+>500 milisaniye
+bir sonraki siklusun başlayacağı zamanda QTc
+olması
+aralığında düzelme olmazsa, o siklus sırasında
+RYDAPT uygulamayın. RYDAPT, QTc düzelene
+kadar gereken siklus sayısınca durdurulabilir.
+İlerlemiş SM, SM-AHN ve MCL:
+RYDAPT’ın önerilen başlangıç dozu günde iki kez oral yolla 100 mg’dır.
+Klinik fayda gözlendiği sürece ya da kabul edilemez toksisite medyana gelene kadar tedaviye
+devam edilmelidir.
+İlerlemiş SM, SM-AHN ve MCL’de doz değişiklikleri:
+İlerlemiş SM’li hastalarda RYDAPT için doz değişikliklerine yönelik öneriler Tablo 2’de
+sunulmaktadır.
+Tablo 2 İlerlemiş SM, SM-AHN ve MCL’li hastalarda RYDAPT için doz kesintisi,
+azaltılması ve bırakılmasına yönelik öneriler
+Kriterler RYDAPT dozu
+MCL’si olmayan hastalarda ANC ≥1 x 109/l olana kadar RYDAPT’a ara verin
+RYDAPT ile ilişkili ANC <1 x 109/l ve ardından günde iki kez 50 mg ile devam edin ve
+veya başlangıçtaki ANC değeri 0,5- tolere edildiği takdirde günde iki kez 100 mg’a
+1,5 x 109/l olan hastalarda RYDAPT yükseltin.
+ile ilişkili ANC <0,5 x 109/l Eğer düşük ANC >21 gün devam ederse ve
+RYDAPT ile ilişkili olduğundan şüphe ediliyorsa
+2Kriterler RYDAPT dozu
+RYDAPT’ı kesin.
+MCL’si olmayan hastalarda Trombosit sayısı ≥ 50 x 109/l olana kadar
+RYDAPT ile ilişkili 50 x 109/l’den RYDAPT’a ara verin ve ardından günde iki kez 50
+düşük trombosit sayısı veya mg ile devam edin ve tolere edildiği takdirde günde
+başlangıçtaki trombosit sayısı 25-75 iki kez 100 mg’a yükseltin.
+x 109/l olan hastalarda RYDAPT ile Eğer düşük trombosit sayısı >21 gün devam ederse
+ilişkili 25 x 109/l’den düşük ve RYDAPT ile ilişkili olduğundan şüphe ediliyorsa
+trombosit sayısı RYDAPT’ı kesin.
+MCL’si olmayan hastalarda Hemoglobin ≥ 8 g/dL olana kadar RYDAPT’a ara
+RYDAPT ile ilişkili 8 g/dL’nin verin ve ardından günde iki kez 50 mg ile devam
+altında hemoglobin veya edin ve tolere edildiği takdirde günde iki kez 100
+başlangıçtaki hemoglobin değeri 8- mg’a yükseltin.
+10 g/dL olan hastalarda RYDAPT Eğer düşük hemoglobin >21 gün devam ederse ve
+ile ilişkili yaşamı tehdit edici anemi RYDAPT ile ilişkili olduğundan şüphe ediliyorsa
+RYDAPT’ı kesin.
+Optimal antiemetik tedaviye rağmen RYDAPT’a 3 gün (6 doz) ara verin, ardından günde
+Derece 3/4 bulantı ve/veya kusma iki kez 50 mg ile devam edin ve tolere edildiği
+takdirde aşamalı olarak günde iki kez 100 mg’a
+yükseltin.
+Diğer Derece 3/4 hematolojik Olay Derece ≤2 olana kadar RYDAPT’a ara verin
+olmayan toksisiteler ve ardından günde iki kez 50 mg ile devam edin ve
+tolere edildiği takdirde günde iki kez 100 mg’a
+yükseltin.
+Eğer toksisite 21 gün içinde Derece ≤2’ye
+düzelmezse veya azaltılmış bir RYDAPT dozunda
+şiddetli toksisite tekrar meydana gelirse RYDAPT’ı
+kesin.
+ANC: Mutlak Nötrofil Sayısı
+CTCAE şiddet derecesi: Derece 1 = hafif semptomlar; 2 = orta şiddetli semptomlar; 3 =
+ağır semptomlar; 4 = yaşamı tehdit edici semptomlar.
+Uygulama şekli:
+Oral kullanım içindir.
+RYDAPT, yaklaşık 12 saat aralıklarla günde iki kere oral yolla alınmalıdır. Kapsüller yemekle
+birlikte alınmalıdır (bkz. Bölüm 4.5 ve 5.2).
+Hastanın toleransına göre yerel tıbbi uygulamalara uygun olarak profilaktik antiemetikler
+uygulanmalıdır.
+RYDAPT kapsüller bir bardak suyla bütün olarak yutulmalıdır. Dozu doğru uygulamak ve
+kapsül içeriğinin hoş olmayan tadından kaçınmak için kapsüller açılmamalı, ezilmemeli ya da
+çiğnenmemelidir.
+Eğer bir doz kaçırılırsa, hasta bir sonraki dozu planlanmış olan zamanda almalıdır.
+Eğer kusma meydana gelirse, hasta ilave bir RYDAPT dozu almamalı, fakat bir sonraki
+planlanmış dozu almalıdır.
+3Özel popülasyonlara ilişkin ek bilgiler:
+Böbrek yetmezliği:
+Hafif veya orta şiddette böbrek yetmezliği olan hastalarda doz ayarlaması gerekli değildir.
+Şiddetli böbrek yetmezliği olan hastalarda klinik deneyim sınırlıdır. Son evre böbrek hastalığı
+olan hastalarda veri mevcut değildir (bkz. Bölüm 4.4 ve 5.2).
+Karaciğer yetmezliği:
+Hafif ila orta şiddette (Child-Pugh A ya da B) karaciğer yetmezliği olan hastalarda doz
+ayarlaması gerekli değildir. Şiddetli karaciğer yetmezliği olan hastalarda midostaurin ve aktif
+metaboliti CGP62221’e maruziyet, normal karaciğer fonksiyonu olan hastalara göre önemli
+ölçüde daha düşüktür (bkz. Bölüm 5.2). Bununla birlikte, şiddetli karaciğer yetmezliği olan
+hastalarda doz ayarlamasının gerekli olduğunu düşündürecek yeterli etkililik verisi
+bulunmamaktadır.
+Pediyatrik popülasyon:
+RYDAPT, hematolojik iyileşmenin gecikmesi (uzun süreli şiddetli nötropeni ve
+trombositopeni gibi) riski nedeniyle antrasiklinler, fludarabin ve sitarabin dahil olmak üzere
+yoğun pediyatrik AML kombinasyon kemoterapi rejimleriyle kombinasyon halinde
+kullanılmamalıdır (bkz. Bölüm 4.4 ve 5.1)
+Geriyatrik popülasyon:
+65 yaş üzerindeki hastalarda doz rejimi ayarlaması gerekli değildir (bkz. Bölüm 5.2). ≥60 yaş
+hastalarda RYDAPT sadece yoğun indüksiyon kemoterapisi almaya uygun olup yeterli
+performans durumuna sahip olan ve önemli eşlik eden hastalıkları bulunmayan hastalarda
+kullanılmalıdır.
+Akut premiyelositik lösemi:
+RYDAPT, akut premiyelositik lösemisi olan hastalarda çalışılmamıştır ve bu nedenle bu hasta
+popülasyonunda kullanımı önerilmez.
+4.3 Kontrendikasyonlar
+• Etkin maddeye ya da bölüm 6.1’de listesi bulunan yardımcı maddelerin herhangi
+birine karşı aşırı duyarlılığı olan hastalarda ve
+• Kuvvetli CYP3A4 indükleyicileri (örn. rifampisin, Sarı kantaron (Hypericum
+perforatum), karbamazepin, enzalutamid, fenitoin) ile eşzamanlı kullanımı (bkz.
+Bölüm 4.5) kontrendikedir.
+4.4 Özel kullanım uyarıları ve önlemleri
+Nötropeni ve enfeksiyonlar
+Monoterapi olarak ve kemoterapi ile kombinasyon halinde RYDAPT alan hastalarda
+nötropeni meydana gelmiştir (bkz. Bölüm 4.8). Şiddetli nötropeninin (ANC <0,5 x 109/l),
+ilerlemiş SM, SM-AHN ve MCL çalışmalarında RYDAPT uygulamasına düzelene kadar ara
+verilmesi ya da tedavinin bırakılması ile genellikle reversibl olduğu görülmüştür. Özellikle
+tedavi başlangıcında olmak üzere lökositler düzenli olarak takip edilmelidir.
+Açıklanamayan şiddetli nötropeni geliştiren hastalarda, Tablo 1 ve 2’de önerildiği şekilde,
+ANC ≥1x109/l olana kadar RYDAPT tedavisine ara verilmelidir. RYDAPT ile bağlantılı
+olduğundan şüphelenilen, rekürren ya da uzun süreli şiddetli nötropeni geliştiren hastalarda
+RYDAPT tedavisi kesilmelidir (bkz. Bölüm 4.2).
+4RYDAPT monoterapisi başlatılmadan önce tüm aktif ciddi enfeksiyonlar kontrol altına
+alınmalıdır. Hastalar enfeksiyon işaretleri ve semptomları açısından takip edilmelidir ve
+enfeksiyon tanısı konulursa, gerekli olması durumunda RYDAPT’ın bırakılması dahil olmak
+üzere, uygun tedavi geciktirilmeden başlatılmalıdır.
+Kardiyak disfonksiyon
+Semptomatik konjestif kalp yetmezliği olan hastalar klinik çalışmaların dışında tutulmuştur.
+İlerlemiş SM, SM-AHN ve MCL çalışmalarında, konjestif kalp yetmezliği (KKY) (bazı
+ölümler dahil olmak üzere) ve sol ventriküler ejeksiyon fraksiyonunda (LVEF) geçici
+azalmalar gibi kardiyak disfonksiyon vakaları meydana gelmiştir. AML çalışmasında
+RYDAPT + kemoterapi ve plasebo + kemoterapi arasında KKY ya da LVEF disfonksiyonu
+açısından farklılık gözlenmemiştir. Risk altındaki hastalarda RYDAPT dikkatli bir şekilde
+kullanılmalı ve hastalar yakından takip edilmelidir (başlangıçta ve tedavi sırasında).
+Midostaurin ile tedavi edilen hastalarda QTc uzama sıklığının arttığı kaydedilmiştir (bkz.
+Bölüm 4.8); ancak bu gözlem için mekanistik bir açıklama bulunmamıştır. QTc uzaması
+açısından risk altında olan hastalara (örn. eşzamanlı tıbbi ürünler ve/veya elektrolit
+bozuklukları nedeniyle) dikkat etmek gereklidir. Eğer RYDAPT, QT aralığını uzatan tıbbi
+ürünlerle bir arada alınıyorsa, EKG ile QT aralığı değerlendirmeleri düşünülmelidir.
+Pulmoner toksisite
+RYDAPT monoterapisi ya da kemoterapiyle kombinasyon halinde RYDAPT ile tedavi edilen
+hastalarda, bazı vakalarda ölümcül olmak üzere interstisyel akciğer hastalığı (İAH) ve
+pnömonit meydana gelmiştir. Hastalar İAH/pnömonite işaret eden pulmoner semptomlar
+açısından takip edilmeli ve ≥3. derece (NCI CTCAE) enfeksiyon kaynaklı bir etiyoloji
+olmayan İAH /pnömonite işaret eden pulmoner semptomlar yaşayan hastalarda RYDAPT
+bırakılmalıdır.
+Embriyofetal toksisite ve emzirme
+Gebe kadınlar, fetusun maruz kalacağı potansiyel risk konusunda bilgilendirilmelidir; gebe
+kalma potansiyeline sahip kadınlara, RYDAPT ile tedaviye başlamadan önceki 7 gün içinde
+gebelik testi yapmaları ve RYDAPT tedavisi sırasında ve tedavi durdurulduktan sonra en az 4
+ay boyunca etkili doğum kontrol yöntemleri kullanmaları önerilmelidir.
+Emzirilen bebeklerde RYDAPT kaynaklı ciddi advers etki potansiyeli nedeniyle, kadınlara
+RYDAPT tedavisi sırasında ve tedavi sonlandırıldıktan sonra en az 4 ay boyunca çocuk
+emzirmeyi bırakmaları önerilmelidir (bkz. Bölüm 4.6).
+Pediyatrik popülasyon
+RYDAPT, hematolojik iyileşmenin gecikmesi (uzun süreli şiddetli nötropeni ve
+trombositopeni gibi) riski nedeniyle antrasiklinler, fludarabin ve sitarabin dahil olmak üzere
+yoğun pediyatrik AML kombinasyon kemoterapi rejimleriyle kombinasyon halinde
+kullanılmamalıdır (bkz. Bölüm 4.2 ve 5.1)
+Şiddetli böbrek bozukluğu
+Şiddetli böbrek bozukluğu olan hastalarda ve son dönem böbrek hastalığı olanlarda
+midostaurinin uygulanması düşünülürken dikkatli olunmalıdır ve hastalar toksisite açısından
+izlenmelidir (bkz. Bölüm 5.2)
+Etkileşimler
+5Midostaurin, bunlarla sınırlı olmamakla birlikte antifungaller (örn. ketokonazol), belirli
+antiviraller (örn. ritonavir), makrolid antibiyotikler (örn. klaritromisin) ve nefazodon gibi
+güçlü CYP3A4 inhibitörleri ile bir arada reçete edilirken dikkatli olmak gerekir çünkü bunlar,
+özellikle de midostaurin tedavisine (yeniden) başlanırken, midostaurinin plazma
+konsantrasyonunu artırabilirler (bkz. Bölüm 4.5). CYP3A4 aktivitesini güçlü bir şekilde
+inhibe etmeyen alternatif tıbbi ürünler düşünülmelidir. Tatmin edici terapötik alternatiflerin
+mevcut olmadığı durumlarda hastalar midostaurin ile ilişkili toksisite bakımından yakından
+izlenmelidir.
+Yardımcı maddeler
+RYDAPT, hidrojenize hint yağı içermektedir. Hidrojenize hint yağı, mide bulantısına ve
+ishale sebep olabilir.
+Günlük 100 mg kullanım dozu:
+RYDAPT’ın 100 mg’lık bir dozu, 333 mg’a alkole karşılık gelen yaklaşık %14 hacim susuz
+etanol içerir. Bu değer, 8,5 mL bira veya 3,5 mL şaraba eşdeğerdir. Alkol; alkol ile ilişkili
+sorunları, epilepsisi veya karaciğer sorunları olan hastalarda veya gebelik ya da emzirme
+sırasında zararlı olabilir.
+Günlük 200 mg kullanım dozu:
+RYDAPT’ın 200 mg’lık bir dozu, 666 mg’a alkole karşılık gelen yaklaşık %14 hacim susuz
+etanol içerir. Bu değer, 17 mL bira veya 7,0 mL şaraba eşdeğerdir. Alkol; alkol ile ilişkili
+sorunları, epilepsisi veya karaciğer sorunları olan hastalarda veya gebelik ya da emzirme
+sırasında zararlı olabilir.
+4.5 Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+Midostaurin, bir dizi eşzamanlı tıbbi ürün tarafından indüklenen ya da inhibe edilen CYP3A4
+enzimleri aracılığıyla kapsamlı bir hepatik metabolizmaya uğrar.
+Diğer tıbbi ürünlerin RYDAPT üzerindeki etkisi
+CYP3A4 aktivitesini etkilediği bilinen tıbbi ürünler ya da maddeler, midostaurinin plazma
+konsantrasyonlarını ve dolayısıyla RYDAPT’ın güvenlilik ve/veya etkililiğini etkileyebilir.
+Kuvvetli CYP3A4 indükleyicileri:
+RYDAPT’ın kuvvetli CYP3A4 indükleyicileri (örn. karbamazepin, rifampisin, enzalutamid,
+fenitoin, Sarı kantaron [Hypericum perforatum]) ile eşzamanlı kullanımı kontrendikedir (bkz.
+Bölüm 4.3). Kuvvetli CYP3A4 indükleyicileri midostaurin ve metabolitlerine (CGP52421 ve
+CGP62221) maruziyeti azaltır. Sağlıklı gönüllüler üzerinde gerçekleştirilen bir çalışmada,
+kuvvetli CYP3A4 indükleyicisi rifampisinin (günde 600 mg) tek bir 50 mg’lık midostaurin
+dozuyla eşzamanlı olarak uygulanması, midostaurin C değerini %73 ve EAA değerini
+maks sonsuz
+%96 düşürmüştür. CGP62221 de benzer bir patern sergilemiştir. CGP52421’in EAA değeri
+son
+%60 azalmıştır.
+Kuvvetli CYP3A4 inhibitörleri:
+Kuvvetli CYP3A4 inhibitörleri midostaurinin kandaki konsantrasyonlarını arttırabilir. 36
+sağlıklı gönüllü üzerinde gerçekleştirilen bir çalışmada, kuvvetli CYP3A4 inhibitörü
+ketokonazol ile tek bir RYDAPT dozunun eşzamanlı uygulanması, midostaurin maruziyetinde
+anlamlı bir artışa (1,8 kat C artışı ve 10 kat EAA artışı) yol açmıştır; diğer yandan,
+maks sonsuz
+aktif metabolitler CGP62221 ve CGP52421’in pik konsantrasyonları yarı yarıya azalmıştır
+(bkz. Bölüm 5.2). Bir hasta alt kümesinde (N=7) midostaurin, güçlü CYP3A4 inhibitörü
+6itrakonazol ile birlikte kararlı plazma konsantrasyonuna ulaşmış iken (21 gün süreyle günde
+iki kez 50 mg), midostaurin kararlı durum maruziyeti (C ) 2.09-kat artmıştır. CGP52421’in
+min
+C değeri 1,3 kat artmış, CGP62221 maruziyeti üzerinde ise herhangi bir etki
+min
+gözlenmemiştir (bkz. Bölüm 4.4).
+RYDAPT’ın diğer tıbbi ürünler üzerindeki etkisi
+CYP enzimlerinin substratları
+Sağlıklı gönüllülerde, kararlı durumda çoklu dozlarda midostaurin (günde iki kez 50 mg) ile
+tek doz bupropionun (CYP2B6 substratı) birlikte uygulanması, tek başına bupropion
+uygulaması ile karşılaştırıldığında bupropion EAA ve EAA değerlerini sırasıyla %48 ve
+inf son
+%49 ve C değerini %55 azaltmıştır. Bu, midostaurinin hafif bir CYP2B6 indükleyicisi
+max
+olduğunu göstermektedir. CYP2B6’nın substratları olan dar bir terapötik aralığa sahip tıbbi
+ürünler (örn. bupropion veya efavirenz), midostaurin ile birlikte uygulandığında dikkatli
+kullanılmalılardır ve optimal maruziyeti sürdürmek için doz ayarlaması gerektirebilirler.
+İn vitro verilere göre, midostaurin ve aktif metabolitleri CGP52421 ve CGP62221, CYP1A2
+ve CYP2E1 inhibitörleri ve CYP1A2 indükleyicileridir. Bu nedenle, CYP1A2 (örn. tizanidin)
+ve CYP2E1’in (örn. klorzoksazon) substratları olan dar bir terapötik aralığa sahip tıbbi
+ürünler, midostaurin ile birlikte uygulandığında dikkatli kullanılmalılardır ve optimal
+maruziyeti sürdürmek için doz ayarlaması gerektirebilirler.
+Taşıyıcıların substratları
+Sağlıklı gönüllülerde, tek doz rosuvastatinin (BCRP substratı) tek doz midostaurin (100 mg)
+ile birlikte uygulanması, rosuvastatin EAA ve EAA değerlerini sırasıyla %37 ve %48
+inf son
+oranında artırmıştır; Tek başına rosuvastatin uygulamasına kıyasla C yaklaşık iki kat (2,01
+max
+kat) artmıştır. Bu, midostaurinin BCRP substratları üzerinde hafif bir inhibitör etkiye sahip
+olduğunu göstermektedir. Taşıyıcı BCRP’nin substratları olan dar bir terapötik aralığa sahip
+tıbbi ürünler (örn. rosuvastatin veya atorvastatin), midostaurin ile birlikte uygulandıklarında
+dikkatli kullanılmalıdırlar ve optimal maruziyeti sürdürmek için doz ayarlaması
+gerektirebilirler.
+Hormonal kontraseptifler
+Sağlıklı kadınlarda, kararlı durumda çoklu midostaurin dozları (günde iki kez 50 mg) ile etinil
+estradiol ve levonorgestrel içeren oral kontraseptifler arasında klinik olarak anlamlı
+farmakokinetik ilaç-ilaç etkileşimi olmamıştır. Bu nedenle, midostaurinin birlikte
+uygulanmasının bu kombinasyonun kontraseptif güvenilirliğini tehlikeye atması
+beklenmemektedir.
+Besinlerle etkileşimler
+Sağlıklı gönüllülerde midostaurin emilimi (EAA), RYDAPT standart bir öğünle birlikte
+uygulandığında ortalama % 22 ve yağ açısından zengin bir öğünle birlikte uygulandığında
+ortalama % 59 artmıştır. Pik midostaurin konsantrasyonu (C ), açken yapılan uygulamayla
+maks
+karşılaştırıldığında, standart bir öğünle %20 ve yağ açısından zengin bir öğünle % 27
+azalmıştır (bkz. Bölüm 5.2).
+RYDAPT’ın yemek ile alınması önerilir.
+74.6 Gebelik ve laktasyon
+Genel tavsiye
+Gebelik kategorisi: D
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon)
+Çocuk doğurma potansiyeline sahip kadınlar, hayvan çalışmalarında midostaurinin gelişen
+fötus açısından zararlı olduğunun gösterildiği konusunda bilgilendirilmelidir. Çocuk doğurma
+potansiyeline sahip cinsel açıdan aktif kadınların RYDAPT tedavisine başlamadan önceki 7
+gün içinde bir gebelik testi yaptırmaları ve RYDAPT kullanırken ve RYDAPT ile tedavi
+sonlandırıldıktan sonra en az 4 ay boyunca etkili doğum kontrol yöntemleri (%1’den daha
+düşük gebelik oranlarına neden olan yöntemler) kullanmaları önerilmektedir.
+Gebelik dönemi
+Midostaurin, gebe bir kadına uygulandığında fetal hasara yol açabilir. Gebe kadınlarda yeterli
+ve iyi kontrollü çalışmalar yapılmamıştır. Sıçanlar ve tavşanlar üzerinde gerçekleştirilen
+üreme çalışmalarında, midostaurinin fetotoksisiteye neden olduğu gösterilmiştir (bkz. Bölüm
+5.3). RYDAPT gebelik sırasında ya da doğum kontrol yöntemleri kullanmayan, çocuk
+doğurma potansiyeline sahip kadınlarda önerilmemektedir. Gebe kadınlar, fetusun maruz
+kalacağı potansiyel risk konusunda bilgilendirilmelidir.
+RYDAPT gerekli olmadıkça gebelik döneminde kullanılmamalıdır.
+Laktasyon dönemi
+Midostaurinin insan sütüyle atılıp atılmadığı bilinmemektedir. Hayvanlar üzerinde yapılan
+çalışmalar midostaurinin sütle atıldığını göstermektedir. Emzirmenin durdurulup
+durdurulmayacağına ya da RYDAPT tedavisinin durdurulup durdurulmayacağına/tedaviden
+kaçınılıp kaçınılmayacağına ilişkin karar verilirken, emzirmenin çocuk açısından faydası ve
+RYDAPT tedavisinin emziren anne açısından faydası dikkate alınmalıdır.
+RYDAPT ile tedavi sırasında ve tedavi sonlandırıldıktan sonra 4 ay boyunca bebek
+emzirilmemelidir.
+Üreme yeteneği/Fertilite
+RYDAPT’ın insan fertilitesi üzerindeki etkisine ilişkin veri bulunmamaktadır. Midostaurin ile
+gerçekleştirilen hayvan çalışmaları bozulmuş fertilite göstermiştir (bkz. Bölüm 5.3).
+4.7 Araç ve makine kullanımı üzerindeki etkiler
+RYDAPT’ın araç ve makine kullanımı üzerinde minör etkileri bulunmaktadır. RYDAPT
+kullanan hastalarda sersemlik hali ve vertigo bildirilmiştir ve hastanın araç ve makine
+kullanma becerisi değerlendirilirken bunların göz önünde bulundurulması gerekir.
+4.8 İstenmeyen etkiler
+Güvenlilik profilinin özeti
+AML
+Yeni tanısı konmuş FLT3-mutasyonlu AML’si olan hastalarda RYDAPT’ın güvenlilik
+değerlendirmesi (günde iki kere 50 mg), 717 hastadan oluşan bir faz III, randomize, çift kör,
+plasebo kontrollü çalışmayı temel almaktadır. RYDAPT artı standart kemoterapi kolundaki
+hastalar için toplam medyan maruziyet süresi 42 gün (aralık 2 ila 576 gün) ve plasebo artı
+standart kemoterapi kolundaki hastalar için 34 gündür (aralık 1 ila 465 gün). İdame fazına
+8girmiş 205 hasta için (RYDAPT kolunda 120 ve plasebo kolunda 85) medyan maruziyet
+süresi her iki kol için 11 ay (RYDAPT kolundaki hastalar için 16 ila 520 gün; plasebo
+kolundaki hastalar için 22 ila 381 gün) olarak belirlenmiştir.
+RYDAPT kolunda en sık gözlenen advers reaksiyonlar febril nötropeni (% 83,4), mide
+bulantısı (% 83,4), eksfolyatif dermatit (% 61,6), kusma (% 60,7), baş ağrısı (% 45,9), peteşi
+(% 35,8) ve yüksek ateş (% 34,5) olmuştur. En sık derece 3/4 advers reaksiyonlar febril
+nötropeni (% 83,5), lenfopeni (% 20,0), cihazla ilişkili enfeksiyon (% 15,7), eksfolyatif
+dermatit (% 13,6), hiperglisemi (% 7) ve bulantı (% 5,8) olmuştur. En sık laboratuvar
+anormalliklerinin hemoglobin düşüşü (% 97,3), ANC düşüşü (% 86,7), ALT artışı (% 84,2),
+AST artışı (% 73,9) ve hipokalemi (% 61,7) olduğu belirlenmiştir. En sık derece 3/4
+laboratuvar anormalliklerinin ANC düşüşü (% 85,8), hemoglobin düşüşü (% 78,5), ALT artışı
+(% 19,4) ve hipokalemi (% 13,9) olduğu görülmüştür.
+Ciddi advers reaksiyonlar RYDAPT ve plasebo kollarında benzer oranda hastalarda meydana
+gelmiştir. Her iki kolda da en sık görülen advers reaksiyon febril nötropeni (% 16) olmuştur.
+Herhangi bir advers reaksiyon nedeniyle çalışma bırakma, RYDAPT kolundaki hastaların %
+3,1’inde ve plasebo kolundaki hastaların % 1,3’ünde meydana gelmiştir. RYDAPT kolunda
+çalışmanın bırakılmasına yol açan ve en sık gözlenen Derece 3/4 advers reaksiyon eksfolyatif
+dermatittir (% 1,2).
+İlerlemiş SM, SM-AHN ve MCL
+142 hastayı kapsayan tek kollu, açık etiketli, çok merkezli iki çalışmada, ilerlemiş SM’si olan
+hastalarda tekli ajan olarak RYDAPT’ın güvenliliği (günde iki kere 100 mg)
+değerlendirilmiştir. RYDAPT’a medyan maruziyet süresi 11,4 aydır (aralık: 0 ila 81 ay).
+En sık gözlenen advers reaksiyonlar mide bulantısı (% 82), kusma (% 68), ishal (% 51),
+periferik ödem (% 35) ve yorgunluktur (% 31). En sık gözlenen Derece 3/4 advers
+reaksiyonlar yorgunluk (% 8,5), sepsis (% 7,7), pnömoni (% 7), febril nötropeni (% 7) ve
+ishaldir (% 6,3). En sık gözlenen ve hematolojik olmayan laboratuar anormallikleri
+hiperglisemi (% 93,7), toplam bilirubin artışı (% 40,1), lipaz artışı (% 39,4), AST artışı (%
+33,8) ve ALT artışı (% 33,1) olarak belirlenmiştir; diğer yandan, en sık gözlenen hematolojik
+laboratuar anormallikleri mutlak lenfosit sayısında düşüş (% 73,2) ve ANC düşüşü (% 58,5)
+olduğu görülmüştür. En sık gözlenen Derece 3/4 laboratuar anormallikleri mutlak lenfosit
+sayısında düşüş (% 45,8), ANC düşüşü (% 26,8), hiperglisemi (% 19) ve lipaz artışı (% 17,6)
+olmuştur.
+Hastaların % 31’inde advers reaksiyonlar nedeniyle doz değişiklikleri (kesinti ya da ayarlama)
+yapılmıştır. Doz değişikliğine yol açan (insidans ≥% 5) ve en sık gözlenen advers reaksiyonlar
+mide bulantısı ve kusmadır.
+Hastaların % 9,2’sinde tedavinin bırakılmasına yol açan advers reaksiyonlar meydana
+gelmiştir. En sık gözlenenler (insidans ≥%1) febril nötropeni, mide bulantısı, kusma ve plevra
+efüzyonudur.
+Tablo haline getirilmiş advers reaksiyonların listeleri
+Advers reaksiyonlar MedDRA sistem organ sınıfına göre listelenmektedir. Her bir sistem
+organ sınıfı içinde, advers reaksiyonlar sıklığa göre sıralanmaktadır ve en sık reaksiyonlar ilk
+olarak yazılmaktadır. Buna ek olarak, aşağıdaki terimler (CIOMS III) kullanılarak, her bir
+advers reaksiyon için ilgili sıklık kategorisi de sunulmaktadır:
+Çok yaygın (≥1/10); yaygın (≥1/100 ila <1/10); yaygın olmayan (≥1/1.000 ila <1/100); seyrek
+9(≥1/10.000 ila <1/1000); çok seyrek (<1/10.000), bilinmiyor (eldeki verilerden hareketle
+tahmin edilemiyor).
+AML:
+Tablo 3’te, yeni tanısı konmuş, FLT3-mutasyonlu AML hastaları üzerinde gerçekleştirilen faz
+III çalışmada ve pazarlama sonrası elde edilen deneyimler esnasında bildirilen advers
+reaksiyonların sıklık kategorileri gösterilmektedir.
+Tablo 3 AML’de gözlenen advers reaksiyonlar
+Advers reaksiyon Tüm dereceler Derece 3/4 Sıklık kategorisi
+Rydapt + Rydapt +
+kemoterapi kemoterapi
+n=2291 n=3451
+% %
+Enfeksiyonlar ve enfestasyonlar
+Cihazla bağlantılı 24 15,7 Çok yaygın
+enfeksiyonlar
+Üst solunum yolu 5,2 0,6 Yaygın
+enfeksiyonu
+Nötropenik sepsis 0,9 3,5 Yaygın olmayan
+Kan ve lenf sistemi hastalıkları
+Febril nötropeni 83,4 83,5 Çok yaygın
+Peteşi 35,8 1,2 Çok yaygın
+Lenfopeni 16,6 20 Çok yaygın
+Bağışıklık sistemi hastalıkları
+Aşırı duyarlılık 15,7 0,6 Çok yaygın
+Metabolizma ve beslenme hastalıkları
+Hiperürikasemi 8,3 0,6 Yaygın
+Psikiyatrik hastalıklar
+İnsomnia 12,2 0 Çok yaygın
+Sinir sistemi hastalıkları
+Baş ağrısı 45,9 2,6 Çok yaygın
+Senkop 5,2 4,6 Yaygın
+Tremor 3,9 0 Yaygın
+Göz hastalıkları
+Göz kapağı ödemi 3,1 0 Yaygın
+Kardiyak hastalıkları
+Hipotansiyon 14,4 5,5 Çok yaygın
+Sinüs taşikardisi 9,6 1,2 Yaygın
+Hipertansiyon 7,9 2,3 Yaygın
+Perikard efüzyonu 3,5 0,6 Yaygın
+Solunum, göğüs bozuklukları ve mediastinal hastalıklar
+Epistaksis 27,5 2,6 Çok yaygın
+Laringeal ağrı 11,8 0,6 Çok yaygın
+İnterstisyel akciğer hastalığı 11,4 4,9 Çok yaygın
+ve pnömonit2
+Dispne 10,9 5,5 Çok yaygın
+Nazofarenjit 5,7 0,9 Yaygın
+Plevral efüzyon 8,7 0 Yaygın
+10Akut respiratuvar distres 2,2 2,3 Yaygın
+sendromu
+Gastrointestinal hastalıklar
+Mide bulantısı 83,4 5,8 Çok yaygın
+Kusma 60,7 2,9 Çok yaygın
+Stomatit 21,8 3,5 Çok yaygın
+Üst abdominal ağrı 16,6 0 Çok yaygın
+Hemoroidler 15,3 1,4 Çok yaygın
+Anorektal rahatsızlık 7 0,9 Yaygın
+Abdominal rahatsızlık 3,5 0 Yaygın
+Deri ve derialtı doku hastalıkları
+Eksfolyatif dermatit 61,6 13,6 Çok yaygın
+Hiperhidroz 14,4 0 Çok yaygın
+Deride kuruma 7 0 Yaygın
+Keratit 6,6 0,3 Yaygın
+Akut febril nötrofilik - - Bilinmiyor
+dermatoz3
+Kas-iskelet bozukluklar, bağ doku ve kemik hastalıkları
+Sırt ağrısı 21,8 1,4 Çok yaygın
+Artralji 14 0,3 Çok yaygın
+Kemik ağrısı 9,6 1,4 Yaygın
+Uzuvlarda ağrı 9,6 1,4 Yaygın
+Boyun ağrısı 7,9 0,6 Yaygın
+Genel bozukluklar ve uygulama bölgesine ilişkin hastalıklar
+Pireksi 34,5 3,2 Çok yaygın
+Kateter ile bağlantılı tromboz 3,5 2 Yaygın
+Araştırmalar
+Hemoglobin düşüşü* 97,3 78,5 Çok yaygın
+ANC düşüşü* 86,7 85,8 Çok yaygın
+ALT artışı* 84,2 19,4 Çok yaygın
+AST artışı* 73,9 6,4 Çok yaygın
+Hipokalemi* 61,7 13,9 Çok yaygın
+Hiperglisemi* 20,1 7 Çok yaygın
+Hipernatremi* 20 1,2 Çok yaygın
+Elektrokardiyogramda 19,7 5,8 Çok yaygın
+uzamış QT süresi3
+Aktive parsiyel tromboplastin 12,7 2,6 Çok yaygın
+zamanı uzaması
+Hiperkalsemi* 6,7 0,6 Yaygın
+Kilo artışı 6,6 0,6 Yaygın
+1 Kuzey Amerika'daki deneme merkezleri için, önceden belirlenmiş 13 advers olay için tüm
+dereceler derlenmiştir. Diğer tüm advers olaylar için sadece 3. ve 4. dereceler derlenmiştir.
+Bu nedenle, tüm dereceli advers olaylar yalnızca Kuzey Amerika dışındaki araştırma
+merkezlerindeki hastaları kapsayacak şekilde özetlenirken, Derece 3 ve 4 tüm deneme
+merkezlerindeki hastaları kapsamaktadır.
+2 Bu advers reaksiyon, pazarlama sonrası ortamda belirlendikten sonra dahil edilmiştir.
+İnterstisyel akciğer hastalığı, spontan vaka raporları ve literatür vakaları yoluyla RYDAPT
+ile pazarlama sonrası deneyimlerden elde edilmiştir. Faz III çalışmasında hiçbir interstisyel
+11akciğer hastalığı vakası bildirilmemiştir.
+3 Bu advers reaksiyonlar, pazarlama sonrası ortamda belirlendikten sonra dahil edilmiştir.
+*Sıklık, laboratuvar değerlerine dayanmaktadır.
+İlerlemiş SM, SM-AHN ve MCL:
+Tablo 4’te, ilerlemiş SM, SM-AHN ve MCL’si olan hastalarda gerçekleştirilen iki çalışmadan
+elde edilen birleştirilmiş verilere dayalı advers reaksiyonların sıklık kategorileri
+gösterilmektedir.
+Tablo 4 İlerlemiş SM, SM-AHN ve MCL’de gözlenen advers reaksiyonlar
+Advers reaksiyon Rydapt (günde 2 kez 100 mg) Sıklık kategorisi
+N=142
+Tüm Derece ¾
+dereceler %
+%
+Enfeksiyonlar ve enfestasyonlar
+İdrar yolu enfeksiyonu 13 2,8 Çok yaygın
+Üst solunum yolu enfeksiyonu 11 1,4 Çok yaygın
+Pnömoni 8,5 7,0 Yaygın
+Sepsis 7,7 7,7 Yaygın
+Bronşit 5,6 0 Yaygın
+Oral herpes 4,9 0 Yaygın
+Sistit 4,2 0 Yaygın
+Sinüzit 4,2 0,7 Yaygın
+Erizipel 3,5 1,4 Yaygın
+Herpes zoster 3,5 0,7 Yaygın
+Kan ve lenf sistemi hastalıkları
+Febril nötropeni 7,7 7,0 Yaygın
+Bağışıklık sistemi hastalıkları
+Aşırı duyarlılık 2,1 0 Yaygın
+Anafilaktik şok 0,7 0,7 Yaygın olmayan
+Sinir sistemi hastalıkları
+Baş ağrısı 26 1,4 Çok yaygın
+Sersemlik 13 0 Çok yaygın
+Dikkat dağınıklığı 7 0 Yaygın
+Tremor 6,3 0 Yaygın
+Kulak ve iç kulak hastalıkları
+Vertigo 4,9 0 Yaygın
+Vasküler hastalıklar
+Hipotansiyon 9,2 2,1 Yaygın
+Hematom 6,3 0,7 Yaygın
+Solunum, göğüs bozuklukları ve mediastinal hastalıklar
+Dispne 18 5,6 Çok yaygın
+Öksürük 16 0,7 Çok yaygın
+Plevral efüzyon 13 4,2 Çok yaygın
+Epistaksis 12 2,8 Çok yaygın
+12Orofaringeal ağrı 4,2 0 Yaygın
+İnterstisyel akciğer hastalığı ve 2,1 0 Yaygın
+pnömonit1
+Gastrointestinal hastalıklar
+Mide bulantısı 82 5,6 Çok yaygın
+Kusma 68 5,6 Çok yaygın
+İshal 51 6,3 Çok yaygın
+Kabızlık 29 0,7 Çok yaygın
+Dispepsi 5,6 0 Yaygın
+Gastrointestinal kanama 4,2 3,5 Yaygın
+Genel hastalıklar ve uygulama bölgesine ilişkin hastalıklar
+Periferik ödem 35 3,5 Çok yaygın
+Yorgunluk 31 8,5 Çok yaygın
+Pireksi 27 4,2 Çok yaygın
+Asteni 4,9 0,7 Yaygın
+Titreme 4,9 0 Yaygın
+Ödem 4,2 0,7 Yaygın
+Araştırmalar
+Hiperglisemi (açken değil)* 93,7 19,0 Çok yaygın
+Mutlak lenfosit düşüşü* 73,2 45,8 Çok yaygın
+ANC düşüşü* 58,5 26,8 Çok yaygın
+Total bilirubin artışı* 40,1 4,9 Çok yaygın
+Lipaz artışı* 39,4 17,6 Çok yaygın
+AST artışı* 33,8 2,8 Çok yaygın
+ALT artışı* 33,1 3,5 Çok yaygın
+Amilaz artışı* 20,4 7,0 Çok yaygın
+Elektrokardiyogramda uzamış 10,6 0,7 Çok yaygın
+QT süresi 1
+Kilo artışı 5,6 2,8 Yaygın
+Yaralanma, zehirlenme ve prosedür komplikasyonları
+Konfüzyon 6,3 0 Yaygın
+Düşme 4,2 0,7 Yaygın
+*Sıklık, laboratuvar değerlerine dayanmaktadır.
+1 Bu advers reaksiyonlar, pazarlama sonrası ortamda belirlendikten sonra dahil edilmiştir.
+Seçilen advers reaksiyonların tanımı
+Gastrointestinal hastalıklar
+AML, İlerlemiş SM, SM-AHN ve MCL hastalarında bulantı, kusma ve ishal gözlenmiştir.
+İlerlemiş SM, SM-AHN ve MCL hastalarında bu olaylar, hastaların % 26’sında doz
+ayarlamasına veya dozlara ara verilmesine ve hastaların % 4,2’sinde tedavinin kesilmesine yol
+açmıştır. Olayların büyük kısmı tedavinin ilk 6 ayında meydana gelmiştir ve destekleyici
+profilaktik ilaçlarla iyi bir şekilde kontrol altına alınmıştır.
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar / risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+13Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir. (www.titck.gov.tr; e-
+posta: tufam@titck.gov.tr; tel: 0 800 314 00 08; faks: 0 312 218 35 99)
+4.9 Doz aşımı ve tedavisi
+İnsanlarda doz aşımıyla ilgili olarak bildirilen deneyim sınırlıdır. 600 mg’a kadar tekli dozlar
+kabul edilebilir bir akut tolerabiliteyle uygulanmıştır. Gözlenen advers reaksiyonlar ishal,
+karın ağrısı ve kusma olmuştur.
+Midostaurin için bilinen spesifik bir antidot bulunmamaktadır. Doz aşımı durumunda hasta,
+advers reaksiyonların işaret ve belirtileri bakımından yakından izlenmeli ve uygun
+destekleyici tedavi başlatılmalıdır.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1 Farmakodinamik özellikler
+Farmakoterapötik grup: Antineoplastik ajanlar, protein kinaz inhibitörleri
+ATC kodu: L01EX10
+Etki mekanizması:
+Midostaurin FLT3 ve KIT kinaz dahil olmak üzere birden fazla reseptör tirozin kinazı inhibe
+eder. Midostaurin, ITD ve TKD mutant reseptörlerin ekspresyonunu ya da yabanıl tip
+reseptörlerin aşırı ekspresyonunu yapan lösemik hücrelerde FLT3 reseptör sinyalleşmesini
+inhibe eder ve hücre döngüsünü durdurarak apoptozu indükler. In vitro veriler midostaurinin
+hastalarda elde edilen maruziyet düzeylerinde D816V mutant KIT reseptörlerini inhibe ettiğini
+göstermektedir (ortalama elde edilen maruziyet > IC ). In vitro veriler KIT yabanıl tip
+50
+reseptörlerinin, bu konsantrasyonlarda çok daha düşük ölçüde inhibe edildiğine işaret
+etmektedir (ortalama elde edilen maruziyet < IC ). Midostaurin, aberan KIT D816V aracılı
+50
+sinyalleşmeye müdahale eder ve mast hücre proliferasyonunu, sağkalımını ve histamin
+serbestlenmesini inhibe eder.
+Midostaurin ayrıca PDGFR (trombosit türevli büyüme faktörü reseptörü) ya da VEGFR2
+(vasküler endotelyal büyüme faktörü reseptörü 2) gibi birçok diğer reseptör tirozin kinazı ve
+ayrıca serin/treonin kinaz ailesi PKC’nin (protein kinaz C) bazı üyelerini de inhibe eder.
+Midostaurin bu kinazların katalitik alanına bağlanır ve hücrelerdeki ilgili büyüme faktörlerinin
+mitojenik sinyalleşmesini inhibe ederek büyümenin durmasına yol açar.
+Midostaurin, kemoterapötik ajanlarla (sitarabin, doksorubisin, idarubisin ve daunorubisin)
+kombinasyon halinde, FLT3-ITD ekspresyonu yapan AML hücre hatlarında sinerjik büyüme
+inhibisyonuna yol açmıştır.
+Farmakodinamik etkiler:
+Mürin modellerinde ve insanlarda iki temel metabolit belirlenmiştir: CGP62221 ve
+CGP52421. FLT3-ITD ekspresyonu yapan hücrelerle gerçekleştirilen proliferasyon
+deneylerinde, CGP62221 ana bileşiğe benzer bir potens sergilemiştir; diğer yandan,
+CGP52421 yaklaşık 10 kat daha az potent bulunmuştur.
+Kardiyak elektrofizyoloji:
+Günde iki kere 75 mg dozla 192 sağlıklı gönüllü üzerinde gerçekleştirilen bir QT
+çalışmasında, midostaurin ve CGP62221 ile klinik açıdan anlamlı QT uzaması
+gözlenmemiştir; ancak çalışma süresi, uzun etkili metabolit CGP52421’in QTc uzaması
+etkilerini tahmin etmek için yeterince uzun değildir. Dolayısıyla midostaurinin ve her iki
+metabolitin konsantrasyonuyla birlikte QTcF’deki başlangıca göre değişim, ilerlemiş SM,
+14SM-AHN ve MCL’si olan 116 hastada gerçekleştirilen bir faz II çalışmada daha ayrıntılı
+olarak araştırılmıştır. Günde iki kere 100 mg dozda ulaşılan medyan pik C
+min
+konsantrasyonlarda, midostaurin, CGP62221 ya da CGP52421, klinik açıdan anlamlı QTcF
+uzamasına yol açma potansiyeli sergilememiştir; çünkü bu konsantrasyon düzeylerinde
+öngörülen değişimin üst sınırları 10 milisaniyeden düşüktür (sırasıyla 5,8, 2,4 ve 4 ms).
+İlerlemiş SM, SM-AHN ve MCL popülasyonunda hastaların %25,4’ü 450 ms’den yüksek ve
+%4,7’si 480 ms’den yüksek QTcF ile en az bir EKG ölçümüne sahiptir.
+Klinik etkililik:
+AML
+Plasebo artı standart kemoterapi karşısında standart kemoterapiyle kombinasyon halinde ve
+ayrıca tekli ajan idame tedavisi olarak midostaurinin etkililik ve güvenliliği, bir randomize,
+çift kör, faz III çalışmada 717 hasta üzerinde (18 ila 60 yaş) araştırılmıştır. Bir klinik çalışma
+deneyimi ile belirlenmiş, yeni tanı konmuş FLT3-mutasyonlu AML hastaları, ardışık olarak,
+standart daunorubisin (1.-3. günlerde günlük 60 mg/m2) / sitarabin (1.-7. günlerde günlük 200
+mg/m2) indüksiyonu ve yüksek doz sitarabin (1., 3., 5. günlerde 12 saatte 1 3 g/m2)
+konsolidasyonu ile kombinasyon halinde günde iki kere 50 mg midostaurin (n=360) veya
+plasebo (n=357) (1:1) ve bunu takiben 12 siklusa kadar (28 gün/siklus) başlangıç
+randomizasyonuna göre kesintisiz midostaurin ya da plasebo tedavisi alacak şekilde
+randomize edilmiştir. Çalışma çeşitli AML ile ilişkili sitogenetik anormallikleri olan hastaları
+içerse de, akut premiyelositik lösemisi (M3) ya da tedaviye bağlı AML’si olan hastalar hariç
+tutulmuştur. Hastalar FLT3 mutasyon durumuna göre sınıflandırılmıştır: TKD, <0,7 allelik
+oranla ITD ve ≥0,7 allelik oranla ITD.
+İki tedavi grubu, hastalık özellikleriyle ilgili başlangıç demografikleri açısından genel olarak
+dengelenmiştir. Hastaların medyan yaşı 47’dir (aralık: 18 ila 60 yıl), hastaların çoğunda
+ECOG performans durumu 0 veya 1’dir (% 88,3) ve hastaların çoğunluğunda yeni tanı AML
+söz konusudur (% 95). Irk bilgisi bildirilmiş olan hastalar arasında % 88,1’i beyaz ırka
+mensuptur. Hastaların çoğunda (% 77,4) FLT3-ITD mutasyonları olduğu, çoğunluğunda (%
+47,6) allelik oranının düşük olduğu (<0,7) hastaların % 22,6’sında FLT3-TKD mutasyonları
+olduğu belirlenmiştir. Midostaurin kolunda hastaların % 48’i, plasebo kolunda ise hastaların
+% 41’i erkektir.
+Hematopoietik kök hücre nakline (SCT) devam eden hastalar, kök hücre infüzyonundan önce
+ya da infüzyon sırasında çalışma tedavisi almayı bırakmıştır. Genel SCT oranı midostaurin artı
+standart kemoterapi kolunda % 59,4 (214/360) ve plasebo artı standart kemoterapi kolunda %
+55,2 (197/357) olarak belirlenmiştir. Tüm hastalar sağkalım açısından takip edilmiştir.
+Çalışmanın birincil sonlanım noktası, randomizasyon tarihinden herhangi bir nedenle ölüme
+kadar geçen süre olarak ölçülen genel sağkalımdır (OS). Birincil analiz, son hastanın
+randomizasyonundan itibaren minimum yaklaşık 3,5 yıllık bir takipten sonra yapılmıştır.
+Çalışmada, plasebo artı standart kemoterapi karşısında midostaurin artı standart kemoterapi
+için ölüm riskinde % 23’lük bir azalmaya birlikte OS’de istatistiksel olarak anlamlı bir
+iyileşme olduğu gösterilmiştir (bkz. Tablo 6 ve Şekil 1).
+15Şekil 1 Genel sağkalım için Kaplan-Meier eğrisi, SCT için sansürlenmemiş
+Kritik ikincil sonlanım noktası olaysız sağkalımdır (EFS; bir EFS olayı, protokol tedavisi
+başlatıldıktan sonraki 60 gün içinde tam remisyon (CR) elde edememe, relaps ya da herhangi
+bir nedenle ölüm olarak tanımlanmıştır). EFS, plasebo artı standart kemoterapi ile
+karşılaştırıldığında midostaurin artı standart kemoterapiyle istatistiksel olarak anlamlı bir
+iyileşme göstermiştir (HR: 0,78 [% 95 GA, 0,66 ila 0,93] p = 0,0024), ve medyan EFS
+sırasıyla 3 ay ila 8,2 ay; bkz. Tablo 5.
+Tablo 5 Midostaurinin AML’de etkililiği
+Etkililik Parametresi Midostaurin Plasebo HR* P-
+n=360 n=357 (%95 GA) değeri¥
+Genel Sağkalım (OS)1
+Medyan OS (ay) (%95 GA) 74,7 25,6 0,77 0,0078
+(31,5-NE) (18,6-42,9) (0,63-0,95)
+5. yılda Kaplan-Meier tahminleri (%95 GA) 0,51 0,43
+(0,45-0,56) (0,38-0,49)
+Olaysız Sağkalım (EFS)2
+Tedavi başlangıcından sonraki 60 gün içinde 8,2 3,0 0,78 0,0024
+CR’ler göz önünde bulundurularak medyan (5,4-10,7) (1,9-5,9) (0,66-0,93)
+EFS (ay) (%95 GA)
+İndüksiyon sırasında herhangi bir zamandaki 10,2 5,6 0,73 0,0001
+CR’ler göz önünde bulundurularak medyan (8,1-13,9) (2,9-6,7) (0,61-0,87)
+EFS (ay) (%95 GA)
+16Hastalıksız Sağkalım (DFS)
+Medyan DFS (ay) (%95 GA) 26,7 15,5 0,71 0,0051
+(19,4-NE) (11,3-23,5) (0,55-0,92)
+Tam Remisyon (CR)
+Tedavi başlangıcından sonraki 60 gün içinde 212 (58,9) 191 (53,5) NE 0,073§
+(%)
+İndüksiyon sırasında herhangi bir zamanda 234 (65,0) 207 (58,0) NE 0,027§
+(%)
+Kümülatif relaps insidansı (CIR)
+Medyan (%95 GA) NE 17,6 0,68 0,0023
+(25,7-NE) (12,7-46,3) (0,52-0,89)
+1 birincil sonlanım noktası. 2 kilit ikincil sonlanım noktası; NE: Hesaplanmamıştır
+*Randomizasyon FLT3 mutasyon faktörüne göre sınıflandırılmış Cox regresyon modeli kullanılarak
+tahmin edilmiş tehlike oranı (HR)
+¥Randomizasyon FLT3 mutasyon faktörüne göre sınıflandırılmış log-sıra testi kullanılarak hesaplanmış
+tek taraflı p-değeri
+§ Anlamlı değil
+Midostaurin kolu için gün 60 itibariyle CR oranı bakımından midostaurin lehine olan (% 58,9
+karşısında % 53,5; p=0,073), indüksiyon sırasındaki tüm CR’ler göz önünde
+bulundurulduğunda devam eden (% 65 karşısında % 58; p=0,027) bir trend söz konusu
+olmuştur. Buna ek olarak, indüksiyon sırasında tam remisyon elde eden hastalarda, 12. aydaki
+kümülatif relaps insidansı midostaurin kolunda % 26 karşısında plasebo kolunda % 41
+bulunmuştur.
+SCT zamanında sansürlenen gerek OS gerekse EFS için duyarlılık analizleri de, plaseboya
+kıyasla midostaurin artı standart kemoterapi ile klinik faydayı desteklemiştir.
+SCT durumuna göre OS sonuçları Şekil 2’de gösterilmektedir. EFS için, çalışma tedavisi
+başladıktan sonraki 30 gün içindeki remisyonlar göz önünde bulundurulduğunda, HR değeri
+SCT’li hastalar için 0,602 (% 95 GA: 0,372-0,974) ve SCT’siz hastalar için 0,827 (% 95 GA:
+0,689-0,993) olarak midostaurin lehine sonuç vermiştir.
+17Şekil 2 AML’de SCT durumuna göre genel sağkalım için Kaplan Meier eğrisi
+Bir alt grup analizinde kadınlarda göze çarpan bir OS faydası gözlenmemiştir ancak tüm
+ikincil etkililik sonlanım noktalarında bir tedavi faydası gözlenmiştir (bkz. Tablo 6).
+Tablo 6 AML’de cinsiyete göre OS, EFS, CR, DFS ve CIR’a genel bakış
+Sonlanım noktası Genel Erkekler Kadınlar
+%95 GA %95 GA %95 GA
+OS (HR) 0,774 0,533 1,007
+(0,629-0,953) (0,392-0,725) (0,757-1,338)
+EFS (CR indüksiyon) 0,728 0,660 0,825
+(HR) (0,613-0,866) (0,506-0,861) (0,656-1,037)
+CR indüksiyon (OR) 0,743* 0,675* 0,824*
+(0,550-1,005) (0,425-1,072) (0,552-1,230)
+DFS (CR indüksiyon) 0,663 0,594 0,778
+(HR) (0,516-0,853) (0,408-0,865) (0,554-1,093)
+CIR (CR indüksiyon) 0,676 0,662 0,742
+(HR) (0,515-0,888) (0,436-1,006) (0,516-1,069)
+*Olasılık oranı şu şekilde hesaplanmıştır (Tedavide tam remisyon yok/ Tedavide tam
+remisyon var) / (Plaseboda tam remisyon yok/ Plaseboda tam remisyon var
+HR= Tehlike oranı; OR=olasılık oranı
+60-70 yaş arası hastalardaki etkililik ve güvenlilik, FLT3-ITD mutasyonlu AML hastalarında
+allojenik SCT dahil konsolidasyon, tekli ajan idame tedavisi ve yoğun indüksiyon ile
+kombinasyon halinde midostaurinin incelendiği faz II, tek kollu, araştırmacı tarafından
+başlatılan bir çalışmada değerlendirilmiştir. Nihai analize göre, 2 yılda (birincil sonlanım
+18notası) EFS oranı %34 (%95 CI: 27, 44) ve 60 yaşından büyük hastalarda (440 hastadan
+128’i) medyan genel sağkalım 22,7 aydır.
+İlerlemiş SM, SM-AHN ve MCL
+Hep birlikte ilerlemiş sistemik mastositoz (SM) olarak anılan ilerlemiş SM, SM-AHN ve
+MCL’li hastalarda midostaurinin etkililiği, açık etiketli, tek kollu ve çok merkezli iki
+çalışmada (toplam 142 hasta) değerlendirilmiştir.
+Pivotal çalışma, ilerlemiş SM’si olan 116 hasta üzerinde gerçekleştirilen çok merkezli, tek
+kollu bir faz II çalışmadır (Çalışma CPKC412D2201). Midostaurin, hastalık progresyonu ya
+da tolere edilemeyen toksisiteye kadar günde iki kere 100 mg olarak oral yoldan
+uygulanmıştır. Kaydedilen 116 hastanın 89’u yanıt değerlendirmesi için uygun kabul
+edilmiştir ve birincil etkililik popülasyonunu oluşturmuştur. Bunların içinde 73 hastada
+ilerlemiş SM (57’sinde AHNMD) ve 16’sında MCL (6’sında AHNMD) tespit edilmiştir.
+Birincil etkililik popülasyonunda medyan yaş 64’tür ve hastaların yarısı ≥65’tir. Hastaların
+yaklaşık üçte biri (%36) ilerlemiş SM, SM-AHN veya MCL için daha önce anti-neoplastik
+tedavi görmüştür. Başlangıçta birincil etkililik popülasyonunda, hastaların % 65’inde ≥1
+ölçülebilir C bulgusu (trombositopeni, hipoalbuminemi, anemi, yüksek total bilirubini,
+transfüzyona bağımlı anemi, kilo kaybı, nötropeni, yüksek ALT veya AST) belirlenmiştir.
+Hastaların % 82’sinde KIT D816V mutasyonu tespit edilmiştir.
+Birincil sonlanım noktası toplam yanıt oranıdır (ORR). Yanıt oranları değiştirilmiş Valent ve
+Cheson kriterlerine göre değerlendirilmiş ve yanıtlar bir çalışma yürütme komitesi tarafından
+doğrulanmıştır. İkincil sonlanım noktaları şunları kapsamaktadır: yanıt süresi, yanıta kadar
+geçen süre ve toplam sağkalım. Midostaurinin yanıtları Tablo 7’de sunulmaktadır. KIT
+D816V durumundan, daha önceki tedavilerin sayısından ve bir AHNMD’nin varlığı ya da
+yokluğundan bağımsız olarak aktivite gözlenmiştir. Gerek KIT D816V mutasyonu pozitif
+hastalarda (ORR=% 63) gerekse KIT D816V yabanıl tip veya bilinmeyen hastalarda (ORR=%
+43,8) doğrulanmış yanıtlar gözlenmiştir. Bununla birlikte KIT D816V pozitif hastalar 33,9 ay
+(% 95 GA: 20,7-42) için medyan sağkalım KIT D816V yabanıl tip veya bilinmeyen hastalara
+kıyasla (10 ay (% 95 GA: 6,9-17,4) daha uzun olmuştur. Hastaların % 46’sında kemik iliği
+filtrasyonunda % 50’yi aşan azalma ve % 58’sinde serum triptaz düzeylerinde % 50’yı aşan
+azalma olmuştur. Dalak hacmi, en az 1 başlangıç sonrası değerlendirmesi olan hastaların %
+68,9’unda ≥%10 azalmıştır (hastaların % 26,7’sinde ≥% 35 azalma vardır; bu da palpasyonla
+% 50 azalmaya tekabül etmektedir).
+Yanıta kadar geçen medyan süre 0,3 aydır (aralık: 0,1 ila 3,7 ay). Medyan takip süresi 43
+aydır.
+Tablo 7 İlerlemiş SM, SM-AHN ve MCL’de RYDAPT’ın etkililiği: birincil etkililik
+popülasyonu
+Tümü İlerlemiş SM-AHN MCL
+N=89 SM N=57 N=16
+N=16
+Birincil sonlanım noktası
+Genel yanıt, n (%) 53 (59,6) 12 (75,0) 33 (57,9) 8 (50,0)
+(%95 GA) (48,6-69,8) (47,6-92,7) (44,1-70,9) (24,7-75,3)
+Majör yanıt, n (%) 40 (44,9) 10 (62,5) 23 (40,4) 7 (43,8)
+Kısmi yanıt, n (%) 13 (14,6) 2 (12,5) 10 (17,5) 1 (6,3)
+Stabil hastalık, n (%) 11 (12,4) 1 (6,3) 7 (12,3) 3 (18,8)
+19Tümü İlerlemiş SM-AHN MCL
+N=89 SM N=57 N=16
+N=16
+Progresif hastalık, n (%) 10 (11,2) 1 (6,3) 6 (10,5) 3 (18,8)
+İkincil sonlanım noktaları
+Medyan yanıt süresi, ay (%95 18,6 36,8 10,7 NR
+GA) (9,9-34,7) (5,5-NE) (7,4-22,8) (3,6-NE)
+Medyan genel sağkalım, ay 26,8 51,1 20,7 9,4
+(%95 GA) (17,6-34,7) (28,7-NE) (16,3-33,9) (7,5-NE)
+5 yılda Kaplan-Meier 26,1 34,8 19,9 33,7
+tahminleri (%95 GA) (14,6-39,2) (1,7-76,2) (8,6-34,5) (12,3-56,8)
+NE: Tahmin Edilmemiştir; NR: Ulaşılmamıştır
+Çalışma dışı anti-neoplastik tedavi alan hastaların, yeni tedavide progrese olduğu kabul
+edilmiştir.
+Her ne kadar çalışma, modifiye Valent ve Cheson kriterlerine göre değerlendirilmek üzere
+tasarlanmış olsa da, post hoc açıklayıcı analiz olarak etkililik 2013 International Working
+Group - Myeloproliferative Neoplasms Research ve Treatment - European Competence
+Network on Mastocytosis (IWG-MRT-ECNM) konsensus kriterlerine göre de
+değerlendirilmiştir. RYDAPT’a yanıt herhangi bir hüküm olmadan uygulanan bir
+kompütasyonel algoritma kullanılarak tespit edilmiştir. 116 hastanın 113’ünde IWG yanıt
+kriterlerine göre belirlenen C bulguları söz konusu olmuştur (C bulgusu olarak assit hariç
+tutularak). Tüm yanıtlar göz önünde bulundurulmuş ve 12 haftalık doğrulama gerektirmiştir
+(bkz. Tablo 8).
+Tablo 8 Algoritmik yaklaşım kullanılarak IWG-MRT-ECNM konsensus kriterlerine
+göre midostaurinin ilerlemiş SM, SM-AHN ve MCL’de etkililiği
+Değerlendirilen İlerlemiş SM-AHN MCL Bilinmeyen
+tüm hastalar SM alt tip
+N=113 N=15 N=72 N=21 N=5
+Genel yanıt oranı, n 32 (28,3) 9 (60) 15 (20,8) 7 (33,3) 1 (20)
+(%)
+(%95 GA) (20,2-37,6) (32,3- (12,2-32) (14,6-57) (0,5-71,6)
+83,7)
+En iyi genel yanıt, n
+(%)
+Tam remisyon 1 (0,9) 0 0 1 ( 4,8) 0
+Kısmi remisyon 17 (15) 5 (33,3) 8 (11,1) 3 (14,3) 1 (20)
+Klinik düzelme 14 (12,4) 4 (26,7) 7 (9,7) 3 (14,3) 0
+Yanıt süresi *
+n/N (%) 11/32 (34,4) 4/9 (44,4) 4/15 3/7 (42,9) 0/1 (0)
+(26,7)
+medyan (%95 GA) NE 36,8 NE NE NE
+(27-NE) (10,3- (17,3-NE) (4,1-NE)
+36,8)
+Genel sağkalım
+n/N (%) 65/113 4/15 49/72 12/21 0/5 (0)
+(57,5) (26,7) (68,1) (57,1)
+20medyan (%95 GA) 29,9 51,1 22,1 22,6 NE
+(20,3-42) (34,7-NE) (16,8- (8,3-NE)
+32,2)
+* Yanıtlar için doğrulama süresi: 12 hafta
+Analizde C bulgusu olarak assit dışlanmaktadır.
+Çalışma dışı anti-neoplastik tedavi alan hastaların, yeni tedavide progrese olduğu kabul
+edilmiştir.
+Destekleyici çalışma, ilerlemiş SM, SM-AHN ve MCL’si olan 26 hasta üzerinde
+gerçekleştirilmiş bir tek kollu, çok merkezli, açık etiketli bir faz II çalışmadır
+(CPKC412A2213). Midostaurin 28 günden oluşan sikluslarda günde iki kere 100 mg olarak
+oral yoldan uygulanmıştır. İkinci siklus sonunda majör yanıt (MR) ya da kısmı yanıtın (PR)
+olmaması, çalışma tedavisinin bırakılmasına yol açmıştır. 20 (% 76,9) hastada ilerlemiş SM
+(17’sinde [% 85] AHNMD) ve 6 hastada (% 23,1) MCL vardır (2’sinde [% 33,3] AHNMD).
+Medyan yaş 64,5’tir ve hastaların yarısı ≥65 yaşındadır. Başlangıçta hastaların % 88,5’inde >1
+C bulgusu belirlenmiştir ve hastaların % 69,2’sine daha önce en az bir tane anti-neoplastik
+rejim uygulanmıştır.
+Birincil sonlanım noktası, tedavinin ilk iki siklusu sırasında Valent kriterleri tarafından
+değerlendirilmiş ORR’dir. On dokuz hasta (% 73,1; % 95 GA = [52,2-88,4]), tedavinin ilk iki
+siklusu sırasında bir yanıta ulaşmıştır (13 MR; 6 PR). Medyan takip süresi 73 aydır ve medyan
+yanıt süresine ulaşılmamıştır. Medyan genel sağkalım 40 aydır (hastalar, tedavi bırakıldıktan
+sonra sağkalım için yalnızca en fazla bir yıl takip edilmiştir).
+Pediyatrik popülasyon
+Bir Faz II çalışmada, midostaurin, FLT3 mutasyonlu yeni tanı konmuş AML’li pediyatrik
+hastalarda kemoterapi ile kombinasyon halinde araştırılmıştır. Çalışmaya katılan üç FLT3
+mutasyonlu AML hastasından, 2 hastada (10 ve 14 yaş) kemoterapi (1-5 günde 2 g/m2/gün
+sitarabin, 1-5 günde 30 mg/m2/gün fludarabin ve 2.,4. ve 6. günlerde 12 mg/m2/gün idarubisini
+içeren) ile kombinasyon halinde midostaurinin ikinci indüksiyon döngüsünden sonra (günde
+iki kez 30 mg/m2) doz sınırlayıcı toksisiteler (DLT’ler) gözlemlenmiştir. Her iki hasta da,
+belirgin şekilde gecikmiş hematolojik iyileşmeler göstermiştir (örn., birinci hastada tedavide
+44 gün , ikinci hastada tedavide 51 gün süren uzun süreli 4. derece trombositopeni ve ikinci
+hastada tedavide 46 gün süren 4. derece nötropeni). Her iki hastaya da birinci indüksiyon
+döngüsünde sitarabin, etoposid ve idarubisin ile kombinasyon halinde midostaurin
+uygulanmıştır.
+5.2 Farmakokinetik özellikler
+Genel özellikler
+Midostaurin iyi emilim ve kötü çözünürlüğe sahip bir bileşiktir. Metabolitlerinden ikisi
+farmakolojik aktiviteler göstermiştir (CGP52421 ve CGP62221). Çoklu dozlardan sonra
+midostaurin ve CGP62221’in farmakokinetiği zamana bağlı olmuş, yaklaşık ilk haftada bir ilk
+artış gözlenmiş, bunu 28. günde konsantrasyonlarda kararlı duruma ulaşana dek bir düşüş
+izlemiştir. CGP52421 konsantrasyonlarının midostaurin ve CGP62221 kadar anlamlı ölçüde
+azaldığı görülmemektedir.
+Emilim:
+Oral uygulama sonrasında midostaurinin mutlak biyoyararlanımı bilinmemektedir.
+İnsanlarda midostaurinin oral uygulama sonrası emilimi hızlıdır ve toplam radyoaktivitenin
+t ’ı dozdan 1-3 saat sonra gözlenmiştir. Popülasyon farmakokinetik analizi hastalarda
+maks
+21emilimin günde iki kez 50 mg’ın üzerindeki dozlarda dozla orantılı değerden düşük olduğunu
+göstermiştir.
+Sağlıklı gönüllülerde, tek doz 50 mg midostaurinin tok karnına uygulanmasından sonra
+midostaurinin EAA değeri 20800 ng*s/mL’ye yükselmiş ve C değeri 963 ng/mL’ye
+maks
+düşmüştür (bkz. Bölüm 4.5). Benzer şekilde CGP52421 ve CGP62221 için de EAA değeri
+sırasıyla 19000 ve 29200 ng*s/mL’ye yükselmiş ve C değeri 172 ve 455 ng/mL’ye
+maks
+düşmüştür. Ayrıca, yüksek oranda yağ içeren bir öğünle birlikte pik konsantrasyona kadar
+geçen süre uzamıştır. t tüm entiteler için uzamış, midostaurin medyan t değeri 3 saat
+maks maks
+olmuş, CGP52421 ve CGP62221 için t değeri sırasıyla 6 ve 7 saate uzamıştır.
+maks
+Klinik çalışmalarda RYDAPT’ın etkililiği ve güvenliliği, hafif bir öğünle uygulama
+sonrasında incelenmiştir. İlerlemiş SM, SM-AHN ve MCL hastalarında tok karnına
+midostaurinin 100 mg’lık tek dozunun uygulanmasının ardından midostaurinin EAA ,
+sonsuz
+C ve t değerleri sırasıyla 49600 ng*s/mL, 2940 ng/mL ve 3 saat olmuştur. CGP52421
+maks maks
+için EAA ve C değerleri sırasıyla 2770 ng*s/mL ve 299 ng/mL bulunmuştur.
+0-12s maks
+CGP62221 için ise EAA ve C değerleri sırasıyla 8700 ng*s/mL ve 931 ng/mL
+0-12s maks
+olmuştur. Midostaurinin günde iki kez 100 mg oral dozlarından sonra AML ve İlerlemiş SM,
+SMAHN, MCL hastalarında C plazma midostaurin değerleri sırasıyla 919 ve 1060 ng/mL
+min,ss
+olmuştur. AML ve ilerlemiş SM, SM-AHN, MCL popülasyonunda CGP62221’in C
+min,ss
+değeri sırasıyla 1610 ng/mL ve 2020 ng/mL bulunmuştur. AML ve ilerlemiş SM, SM-AHN,
+MCL popülasyonunda ise CGP52421’in değeri sırasıyla 8630 ng/mL ve 2860
+ng/mLölçülmüştür.
+Dağılım:
+Midostaurin, 95,2 L (Vz/F) geometrik ortalamasıyla yüksek bir doku dağılımına sahiptir.
+Midostaurin ve metabolitleri, eritrositlerden ziyade büyük oranda plazmada dağılır. In vitro
+veriler, midostaurinin, albümin, α1-asit glikoprotein (AGP) ve lipoprotein gibi plazma
+proteinlerine % 98’den yüksek bir oranda bağlandığını göstermiştir.
+Biyotransformasyon:
+Midostaurin temelde oksidatif yolaklarla olmak üzere CYP3A4 aracılığıyla metabolize edilir.
+Başlıca plazma bileşenleri midostaurin ve iki majör aktif metabolit olan CGP62221 (O-
+demetilasyon yoluyla) ve CGP52421’i (hidroksilasyon yoluyla) içermiş olup bunlar,
+midostaurinin 50 mg’lık tek dozundan 96 saat sonra toplam plazma maruziyetinin sırasıyla %
+27,7 ± 2,7’si ve % 38 ± 6,6’sını oluşturmaktadır.
+Eliminasyon:
+Midostaurin, CGP62221 ve CGP52421’in plazmadaki medyan terminal yarı-ömrü yaklaşık
+olarak 20,9, 32,3 ve 471 saattir. Sağlıklı gönüllülerde görünür plazma klirensi (CL/F) 2,4-3,1
+l/saat bulunmuştur. AML ve ilerlemiş SM, SM-AHN ve MCL hastalarında kararlı durumda
+midostaurin klirens için popülasyon farmakokinetiği tahminleri 5,9 l/s ve 4,4 l/s olmuştur.
+İnsan Kütle Denge çalışmasının bulguları, fekal atılımın, büyük oranda metabolitleri şeklinde
+(dozun % 73’ü) olmak üzere, temel atılım yolu olduğunu göstermiştir (dozun % 78’i); diğer
+yandan değişmemiş midostaurin, dozun % 3’ünü oluşturmaktadır. Dozun yalnızca % 4’ü
+idrarda tespit edilmiştir.
+Doğrusallık/doğrusal olmayan durum:
+Genel olarak midostaurin ve metabolitleri, 25 mg ila 100 mg aralığındaki tek bir dozdan sonra
+doz-oransallığından önemli bir sapma göstermemiştir. Diğer yandan, günde 50 mg ila 225 mg
+22aralığındaki çoklu dozlardan sonra maruziyette doz oransallığından daha düşük bir artış
+olmuştur.
+Çoklu oral dozları takiben, midostaurin zamana bağlı bir farmakokinetik sergilemiştir; ilk
+haftada plazma konsantrasyonlarında bir başlangıç artışı olmuş (pik C ) ve daha sonra bunu,
+min
+yaklaşık 28 gün sonraki kararlı duruma kadar zaman içinde bir azalma takip etmiştir (2,5 kat
+azalma). Midostaurinin azalan konsantrasyonlarının kesin mekanizması net olmamakla
+birlikte olasılıkla midostaurin ve iki aktif metaboliti CGP52421 ve CGP62221’in CYP3A4
+üzerindeki oto-indüksiyon özelliklerinden kaynaklanmaktadır. CGP62221 metabolitinin
+farmakokinetiği benzer bir eğilim sergilemiştir. Diğer yandan, bir aylık tedaviden sonra
+midostaurin ile karşılaştırıldığında, CGP52421 konsantrasyonları, ilerlemiş SM, SM-AHN ve
+MCL için 2,5 kata kadar ve AML için 9 kata kadar artış göstermiştir.
+İlaç-ilaç etkileşim potansiyelinin in vitro değerlendirmesi
+In vitro verilere dayanarak, midostaurin ve aktif metabolitleri olan, CGP52421 ve
+CGP62221’in CYP1A2 ve CYP2E1’nin inhibitörleri ve CYP2B6 (CAR aracılı indüksiyon)
+ve CYP1A2’nin (AhR aracılı indüksiyon) indükleyicileri oldukları kabul edilir.
+In vitro deneyler, midostaurinin, CGP52421 ve CPG62221’in BCRP ve BSEP’yi potansiyel
+olarak inhibe edebileceğini göstermiştir. Fizyolojik temelli farmakokinetik (PBPK)
+modellerinin kullanıldığı simülasyonlar, kararlı durumda günde iki kez 50 mg veya 100 mg
+dozda verilen midostaurinin klinik olarak anlamlı OATP1B inhibisyonuna neden olmasının
+olası olmadığını öngörmüştür.
+Hastalardaki karakteristik özellikler
+Yaşlı hastalar:
+Farmakokinetik analizlere dayalı olarak, 65 ile 85 yaş arası hastalarda midostaurin ve iki aktif
+metabolitinin farmakokinetiği üzerinde yaşın önemli bir etkisi tanımlanmamıştır. İlerlemiş
+SM, SM-AHN ve MCL ya da AML’si olan yetişkin hastalarda, herhangi bir midostaurin doz
+ayarlaması gerekli değildir.
+Pediyatrik hastalar
+RYDAPT’ın çocuklar ve adölesanlarda kullanımı önerilmemektedir (bkz. Bölüm 4.2).
+Pediyatrik hastalarda midostaurinin farmakokinetiği, bir popülasyon farmakokinetiği
+yaklaşımı kullanılarak, AML ya da MLL-rearranged ALL’li 22 hastada (12’si 0-2 yaş ve 10’u
+10-17 yaş) gerçekleştirilen bir faz I, doz yükseltme monoterapi çalışmasında araştırılmıştır.
+Midostaurinin farmakokinetiği, tek ve çoklu dozlardan sonra 30 mg/m2 ve 60 mg/m2 dozları
+ile doz orantısaldan düşük olmuştur. Pediyatrik hastalardaki sınırlı farmakokinetik veriler
+nedeniyle, erişkinlerdeki midostaurin farmakokinetiği ile bir karşılaştırma yapılamamaktadır.
+Cinsiyet
+Midostaurin ve aktif metabolitlerinin klirensi üzerinde cinsiyetin etkisiyle ilgili popülasyon
+farmakokinetik model analizlerine dayalı olarak, istatistiksel olarak anlamlı bir bulgunun
+olmadığı görülmüş ve maruziyette beklenen değişikliklerin (<%20) klinik açıdan önemli
+olmadığı düşünülmüştür. Cinsiyete dayalı olarak midostaurin doz ayarlaması gerekli değildir.
+Irk
+Beyaz ve Siyah gönüllüler arasında farmakokinetik profil açısından farklılık yoktur. Sağlıklı
+Japon gönüllüler üzerinde gerçekleştirilen bir faz I çalışmaya göre, Beyazlar ve Siyahlar
+üzerinde gerçekleştirilen diğer farmakokinetik çalışmalarda gözlenenlerle karşılaştırıldığında,
+23midostaurinin ve metabolitlerinin (CGP62221 ve CGP52421) farmakokinetik profilleri
+benzerdir. Etnisiteye dayalı olarak midostaurin doz ayarlaması gerekli değildir.
+Karaciğer yetmezliği olan hastalar
+Özel bir karaciğer yetmezliği çalışmasında, başlangıçta hafif veya orta derecede karaciğer
+yetmezliği (sırasıyla, Child-Pugh Sınıf A veya B) olan hastalarda 6 gün boyunca günde iki kez
+50 mg ve 7. günde tek bir 50 mg dozun oral yoldan uygulanmasından sonra ve şiddetli
+karaciğer yetmezliği olan hastalarda (Child-Pugh Sınıf C) 50 mg’lık tek doz uygulamasını
+takiben midostaurinin sistemik maruziyeti, normal karaciğer fonksiyonuna sahip kontroller ile
+karşılaştırmalı olarak değerlendirilmiştir. Tüm gruplar için tek veya tekrarlanan dozların
+ardından 2 ila 3 saat sonra maksimum midostaurin konsantrasyonuna ulaşılmıştır. 1. günde,
+EAA ve C , sağlıklı gönüllüler için sırasıyla 8130 ng*sa/mL ve 1206 ng/mL olmuştur.
+0-12 maks
+EAA , hafif ve orta derecede karaciğer yetmezliği olan hastalarda sırasıyla %39 ve %36
+0-12
+oranında azalmıştır. 7. günde, EAA (1. günden 7. güne C eğrisi altındaki maruziyet)
+Cçukur çukur
+sağlıklı gönüllülerde 5410 ng*sa/mL iken hafif ve orta derecede karaciğer yetmezliği olan
+hastalarda sırasıyla %35 ve %20 azalmıştır. EAA da 7. günde sırasıyla %28 ve %20
+tau
+azalmıştır.
+Şiddetli karaciğer yetmezliği olan gönüllülerin, kontrol grubuna kıyasla daha düşük geometrik
+ortalama C ve midostaurin EAA değerlerine sahip olduğu görülmüştür (C : 1360
+max inf maks
+ng/mL, EAA : 30100 ng.sa/mL). Midostaurinin C ve EAA değerleri şiddetli karaciğer
+inf max inf
+yetmezliği olan hastalarda sırasıyla ortalama %78 ve %59 azalmıştır.
+Son olarak, hastalardan elde edilen uzun vadeli veriler bir popülasyon farmakokinetiği
+yaklaşımı kullanılarak analiz edilmiştir. İlerlemiş SM, SM-AHN, MCL ve AML
+popülasyonlarında hafif veya orta derecede karaciğer yetmezliği olan hastalarda karaciğer
+yetmezliğinin herhangi bir etkisi tanımlanamamıştır.
+Genel olarak, normal karaciğer fonksiyonu olan gönüllülere kıyasla hafif, orta veya şiddetli
+karaciğer yetmezliği olan hastalarda plazma midostaurin ve metabolitlerine (CGP62221 ve
+CGP52421) maruziyette (EAA) bir artış olmamıştır. Başlangıçta hafif veya orta derecede
+karaciğer yetmezliği olan hastalarda doz ayarlaması gerekli değildir. Şiddetli karaciğer
+yetmezliği olan hastalarda midostaurin ve aktif metaboliti CGP62221’e maruziyet, normal
+karaciğer fonksiyonu olan hastalara göre önemli ölçüde daha düşüktür (bkz. Bölüm 4.2).
+Bununla birlikte, şiddetli karaciğer yetmezliği olan hastalarda doz ayarlamasının gerekli
+olduğunu düşündürecek yeterli etkililik verisi bulunmamaktadır.
+Böbrek yetmezliği olan hastalar
+Renal eliminasyon, midostaurin eliminasyonu için minör bir yolaktır. Midostaurin için özel bir
+böbrek yetmezliği çalışması yürütülmemiştir. Popülasyon farmakokinetiği analizleri, AML’li
+(n=180) ve ilerlemiş SM, SM-AHN ve MCL’li (n=141) hastalarda yapılan klinik çalışmalarda
+elde edilen veriler kullanılarak yürütülmüştür. Dahil edilen 321 hastanın 177’sinde daha
+önceden var olan hafif (n=113), orta (n=60) ya da şiddetli (n=4) böbrek yetmezliği (15
+mL/dak. ≤ kreatinin klirensi [CrCL] <90 mL/dak.) bulunduğu görülmüştür. 144 hastada
+başlangıçta normal böbrek fonksiyonu (CrCL>90 mL/dak.) görülmüştür. Popülasyon
+farmakokinetiği analizlerine dayalı olarak, midostaurin klirensi böbrek yetmezliğinden
+anlamlı oranda etkilenmemiştir ve dolayısıyla hafif ila orta şiddetli böbrek yetmezliği olan
+hastalarda doz ayarlaması gerekli değildir.
+245.3 Klinik öncesi güvenlilik verileri
+Doz sınırlayıcı toksisite nedeniyle hayvanlarda klinik terapötik maruziyet düzeylerine
+ulaşılamamıştır. Aşağıda tarif edilen tüm hayvan bulguları, terapötik düzeylerin önemli ölçüde
+altındaki midostaurin maruziyetinde gözlenmiştir.
+Güvenlilik farmakolojisi ve tekli/tekrarlı doz toksisitesi
+Güvenlilik farmakolojisi çalışmaları, midostaurinin merkezi sinir sisteminin hayati
+fonksiyonlarını etkileme olasılığının olmadığına işaret etmektedir. In vitro şartlarda
+midostaurin, 12 µM çözünürlük sınırına kadar hERG kanal aktivitesini inhibe etmemektedir.
+İki temel insan metaboliti GGP52421 ve CGP6221 (bunlar da çözünürlük sınırında test
+edilmiştir), hERG akımını ılıman güvenlilik marjları ile inhibe etmiştir. Köpeklerde yapılan
+tekrarlı doz çalışmalarında, ayrı hayvanlarda kalp atım hızında düşüş, P-Q aralığında uzama
+ve düzensiz bir şekilde ortaya çıkan atriyoventriküler blok görülmüştür.
+Tekrarlı doz çalışmalarında toksisite için hedef organlar; gastrointestinal sistem (köpeklerde
+ve maymunlarda emezis, ishal ve mukozal değişim), testisler (spermatogenezde azalma),
+kemik iliği (hiposelülarite) ve lenfoid organlardır (deplesyon/atrofi). Kemik iliği ve lenfoid
+organlar üzerindeki etkiye, lökositleri, lenfositler ve eritrositik parametrelerde düşme gibi
+hematolojik değişimler eşlik etmiştir. ≥3 aylık süreye sahip uzun vadeli çalışmalarda, sıçanlar,
+köpekler ve maymunlarda tutarlı olarak karaciğer enzimlerinde (ALT ve AST) histopatolojik
+karşılığı olmayan bir artış görülmüştür.
+Üreme toksisitesi
+Sıçanlardaki fertilite çalışmasında midostaurin, fertilitede azalma, testiküler dejenerasyon ve
+atrofi, sperm motilitesinde azalma, oligospermi ve aspermi, rezorpsiyon artışı, gebelik
+oranında azalma, implant sayısında ve canlı embriyo sayısında azalma ile ilişkilendirilmiştir.
+Sıçan ve tavşanlardaki embriyo-fetal gelişim çalışmalarında geç rezorpsiyon sayısında artış,
+fetal ağırlıkta azalma ve iskelet ossifikasyonunda azalma gözlenmiştir.
+Bir prenatal ve postnatal gelişim çalışmasında maternal distosi ve doğrulan yavru sayısında
+azalma, daha düşük yavru beden ağırlıkları, hızlanmış tam göz açılması ve gecikmiş auriküler
+ürkme ontogenezi kaydedilmiştir.
+Jüvenil hayvan çalışmaları
+Jüvenil sıçanlarda gerçekleştirilen bir toksisite çalışmasında, midostaurin doğumdan sonraki 7.
+gün ila 70. günler arasında uygulanmıştır. Vücut ağırlığında azalma, akciğerlerde hemoraji ve
+mikst hücre infiltrasyonu ve mezenterik lenf nodlarında eritrositoz/eritrofagositoz
+görülmüştür. Fiziksel gelişim, duyusal fonksiyon, davranışsal veya üreme fonksiyonu
+üzerinde etki olmamıştır. Çiftleşme indeksi, fertilite indeksi ve konsepsiyon oranları 0, 5 ve 15
+mg/kg/gün dozlarında azalırken 2 mg/kg/dozunda bu etkiler görülmemiştir.
+Genotoksisite
+Önemli genotoksisite sonlanım noktalarını içeren in vitro ve in vivo genotoksisite çalışmaları,
+mutajenik ya da klastojenik aktivite kanıtına işaret etmemiştir. Karsinojenisite çalışmaları
+yürütülmemiştir.
+Çevresel risk değerlendirmesi (ERA)
+Çevresel risk değerlendirmesi çalışmalarında, midostaurinin kalıcı, biyoakümülatif ve çevreye
+toksik etki potansiyeli olduğu gözlemlenmiştir.
+256. FARMASÖTİK BİLGİLER
+6.1 Yardımcı maddelerin listesi
+Makrogolgliserol hidroksistearat
+Makrogol
+Susuz etanol
+Mısır yağı mono-di-trigliseritleri
+All-rac-α-tokoferol
+Jelatin (Domuz kaynaklı)
+Gliserol
+Titanyum dioksit (E171)
+Demir oksit sarı (E172)
+Demir oksit kırmızı (E172)
+Saf su
+Karmin (E120) (Cochenille louse kaynaklı)
+Hipromelloz 2910
+Propilen glikol
+6.2 Geçimsizlikler
+Geçerli değildir.
+6.3 Raf ömrü
+36 ay
+6.4 Saklamaya yönelik özel tedbirler
+30oC'nin altında oda sıcaklığında saklayınız. Nemden korumak için orijinal ambalajında
+saklayınız.
+6.5 Ambalajın niteliği ve içeriği
+Kutuda; 4 yumuşak kapsül içeren PA/AL/PVC blisterler
+112 (4x28) yumuşak kapsül içeren çoklu paketler
+6.6 Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+Kullanılmamış olan ürünler ya da atık materyaller “Tıbbi Atıkların Kontrolü Yönetmeliği” ve
+“Ambalaj Atıklarının Kontrolü Yönetmeliği”ne uygun olarak imha edilmelidir.
+7. RUHSAT SAHİBİ
+Novartis Sağlık, Gıda ve Tarım Ürünleri San. ve Tic. A.Ş.
+Kavacık/Beykoz/İstanbul
+8. RUHSAT NUMARASI
+2018/499
+9. İLK RUHSAT TARİHİ / RUHSAT YENİLEME TARİHİ
+2617.09.2018
+10. KÜB’ÜN YENİLEME TARİHİ
+27

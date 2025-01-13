@@ -1,0 +1,736 @@
+KISA ÜRÜN BİLGİSİ
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+DUODOPA 20 mg/ml + 5 mg/ml intestinal jel
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde:
+1 ml’sinde:
+Levodopa 20 mg
+Karbidopa 5 mg
+Yardımcı maddeler:
+Yardımcı maddeler için Bölüm 6.1’e bakınız.
+3. FARMASÖTİK FORM
+İntestinal jel
+Beyazımsı hafif sarı jeldir.
+4. KLİNİK ÖZELLİKLER
+4.1. Terapötik endikasyonlar
+Mevcut Parkinson ilaçlarıyla yeterli sonuç alınamayan, şiddetli motor dalgalanmalar ve
+hiperkinezi/diskinezi ile seyreden levodopaya cevap veren ilerlemiş Parkinson hastalığının
+tedavisinde kullanılır.
+4.2. Pozoloji ve uygulama şekli
+Pozoloji/uygulama sıklığı ve süresi:
+DUODOPA, kesintisiz intestinal uygulama için geliştirilmiş bir jeldir. Uzun süreli uygulama
+için jel, taşınabilir bir pompa ile, kalıcı bir boru vasıtasıyla duodenum ya da üst jejenum içine
+doğrudan uygulanır. Bunun için perkutan endoskopik gastrostomi, bir dış transabdominal tüp
+ve bir iç intestinal tüp kullanılır. Eğer herhangi bir nedenle perkutan endoskopik gastrostomi
+uygun değilse, alternatif olarak bir radyolojik gastrojejunostomi düşünülebilir. Transabdominal
+portun yerleştirilmesi ve doz ayarlamaları bir nöroloji kliniği ile birlikte gerçekleştirilmelidir.
+Geçici nazoduodenal/nazojejunal tüp, kalıcı perkutan endoskopik gastrostomi (PEG-J) ile
+jejunal tüp yerleştirilmeden önce hastanın bu tedavi yöntemine daha iyi yanıt verip
+vermeyeceğini belirlemek için dikkate alınmalıdır. Doktorların bu değerlendirmenin gerekli
+olmadığını düşündüğü durumlarda, nazojejunal test fazından vazgeçilebilir ve tedavi direkt
+olarak PEG-J yerleştirmesi ile başlayabilir.
+Doz, her bir hasta için optimum klinik yanıtı sağlayacak şekilde ayarlanmalıdır. Bu klinik yanıt,
+gün içinde OFF episodların (bradikinezi) sayısının ve süresinin minimize edilmesini,
+engelleyici nitelikteki diskinezi ile seyreden ON süresinin minimize edilmesini ve böylece
+fonksiyonel ON süresinin maksimize edilmesini kapsar. “Dozaj” bölümündeki önerilere
+bakınız.
+1DUODOPA başlangıçta monoterapi olarak verilmelidir. Gerekirse, Parkinson hastalığı için
+diğer ilaçlarla birlikte alınabilir. DUODOPA uygulaması için sadece “CADD-legacy 1400
+pump” (CE işaretli) ticari markalı pompa kullanılmalıdır. Portatif pompa kullanımı için
+kullanma talimatı pompa ile birlikte verilir.
+Kalıcı boru kullanılan DUODOPA tedavisi her an borunun çıkartılması ile kesilebilir ve yaranın
+iyileşmesi beklenir. Tedaviye daha sonra levodopa/karbidopa içeren oral ilaçlarla devam
+edilmelidir.
+Uygulama şekli:
+Dozaj
+DUODOPA günlük doz toplamı üç ayrı doza bölünür: sabah bolus dozu, kesintisiz idame dozu
+ve ekstra bolus dozu, yaklaşık 16 saatte uygulanır. Tıbbi açıdan gerekçelendirildiği takdirde,
+DUODOPA 24 saate kadar uygulanabilir.
+İlaç kasetleri tek kullanımlıktır ve içerisinde tıbbi ürün kalsa dahi 24 saatten uzun süreyle
+kullanılmamalıdır. Açılmış bir kaset tekrar kullanılmamalıdır
+Raf ömrünün sonuna doğru jel hafif sarımsı hale gelebilir. Bu ilacın konsantrasyonunu veya
+tedaviyi etkilemez.
+Sabah dozu: Sabah bolus dozu, terapötik doz seviyesine çok hızlı ulaşmak (10-30 dakika içinde)
+için pompayla uygulanır. Doz, hastanın bir gün önceki sabah aldığı levodopa dozu + tüpü
+dolduracak hacme dayanmalıdır. Sabah dozu toplamı genellikle 5-10 ml olup 100-200 mg
+levodopaya eşdeğerdir. Toplam sabah dozu 15 ml’yi (300 mg levodopa) aşmamalıdır.
+Kesintisiz idame dozu: İdame dozu, 2 mg/saat (0,1ml/saat)’lik adımlarla ayarlanabilir. Doz
+hastanın bir önceki gündeki levodopa alımına göre hesaplanmalıdır. Tamamlayıcı ilaçlar
+bırakıldığında DUODOPA dozu ayarlanmalıdır. Kesintisiz idame doz bireysel olarak ayarlanır.
+Doz, 1-10 ml/saat (20-200 mg levodopa/saat) aralığında tutulmalıdır ve bu genellikle 2-6
+ml/saattir (40-120 mg levodopa/saat). İstisnai durumlarda daha yüksek dozlar gerekebilir.
+Örnek:
+DUODOPA olarak günlük levodopa alımı: 1640 mg/gün
+Sabah bolus dozu: 140 mg = 7 ml (intestinal boruyu dolduracak hacim hariç)
+Kesintisiz idame dozu: 1500 mg/gün
+1500 mg/gün: 20 mg/ml = 75 ml DUODOPA/gün
+Alınan miktar 16 saat üzerinden hesaplanır: 75 ml/16 saat = 4,7 ml/ saat
+Ekstra bolus dozu: Hastanın gün içinde hipokinetik hale gelmesi durumunda gerektiği şekilde
+verilmelidir. Ekstra doz bireysel olarak ayarlanmalıdır, normalde 0,5-2,0 ml dir. Seyrek
+vakalarda daha yüksek dozlara ihtiyaç olabilir. Ekstra bolus dozuna ihtiyaç günde 5’i aşarsa
+idame dozu yükseltilmelidir.
+Başlangıç doz ayarlamasından sonra, birkaç hafta boyunca sabah bolus dozu, idame dozu ve
+eksta bolus dozlarında ince ayarlama yapılmalıdır.
+Tedavinin izlenmesi: Motor dalgalanmalarının yinelenmesi ile tedaviye yanıtın aniden
+kötüleşmesi, tüpün distal kısmının duodenum/jejunumdan mideye kayması şüphesini
+2uyandırmalıdır. Tüpün yeri X-ışınlarıyla tespit edilmeli ve tüpün ucu tekrar
+duodenum/jejunuma yerleştirilmelidir.
+Özel popülasyonlara ilişkin ek bilgiler
+Böbrek/Karaciğer yetmezliği:
+Böbrek veya karaciğer yetmezliği olan hastalarda karbidopa ve levodopanın
+farmakokinetiklerine ilişkin çalışma yoktur. DUODOPA dozu, kişide optimal etki elde edilene
+kadar titre edilir (bu durum, ayrı ayrı optimize edilmiş levodopa ve karbidopa plazma
+maruziyetlerine karşılık gelir); bu nedenle böbrek ve karaciğer yetmezliğinin levodopa ve
+karbidopa maruziyeti üzerindeki potansiyel etkileri doz titrasyonunda dolaylı olarak göz
+önünde bulundurulur. Doz titrasyonu, şiddetli böbrek ve karaciğer yetmezliği olan hastalarda
+dikkatli bir şekilde gerçekleştirilmelidir (bkz. Bölüm 4.4).
+Pediyatrik popülasyon:
+DUODOPA’nın pediyatrik popülasyondaki ciddi motor dalgalanmaları ve
+hiperkinezi/diskinezi ile levodopaya yanıt veren ilerlemiş Parkinson hastalığında kullanımı
+yoktur.
+DUODOPA’nın 18 yaşın altındaki hastalardaki güvenliği kanıtlanmamış olup 18 yaşın
+altındaki hastalara kullanımı önerilmemektedir.
+Geriyatrik popülasyon:
+Yaşlı hastalarda levodopa/karbidopa kullanımına dair oldukça fazla deneyim vardır.
+Geriyatrik popülasyon dahil tüm hastalarda dozlar titrasyon ile bireye göre ayarlanır.
+Tedavinin kesilmesi
+Dozun ani şekilde azaltılması veya DUODOPA tedavisinin kesilmesi gerekli olduğunda,
+hastalar dikkatle gözlenmelidir. Antipsikotik alan hastalarda bu özellikle önemlidir (bkz.
+Bölüm 4.4).
+Konfüzyon eşiğinin düştüğü şüphe edilen veya tanısı konmuş demans durumunda, hastanın
+pompası sadece hasta bakımı konusunda deneyimli bir kişi veya bir hasta bakıcı tarafından
+kullanılmalıdır.
+Kaset kullanılacağı zaman, verilen talimatlara göre, portatif pompaya takılmalı ve
+sistem uygulama için nazoduodenal tüpe veya duodenal/jejunal tüpe bağlanmalıdır.
+4.3. Kontrendikasyonlar
+DUODOPA şu hastalarda kontrendikedir:
+ İlacın etkin maddelerine veya bölüm 6.1’de listelenen yardımcı maddelerin herhangi birine
+karşı aşırı duyarlılık
+ Dar açılı glokom
+ Şiddetli kalp yetmezliği
+ Şiddetli kardiyak aritmi
+ Akut inme
+ Selektif olmayan MAO inhibitörleri ve selektif MAO tip A inhibitörleri DUODOPA ile
+birlikte kullanımda kontrendikedir. Bu inhibitörler DUODOPA tedavisine başlamadan en az
+iki hafta önce kesilmelidir. DUODOPA, MAO tip B'ye (örn. selejilin HCl) yönelik seçiciliğe
+3sahip MAO inhibitörünün üretici tarafından önerilen dozuyla birlikte uygulanabilir (bkz.
+Bölüm 4.5).
+ Adrenerjiklerin kontrendike olduğu durumlar (feokromositoma, hipertiroidizm ve Cushing
+sendromu).
+Levodopa malign melanomu aktive edebileceğinden, DUODOPA tanı konmamış şüpheli cilt
+lezyonlarına veya melanom geçmişine sahip hastalarda kullanılmamalıdır.
+4.4. Özel kullanım uyarıları ve önlemleri
+Aşağıdaki uyarılar ve önlemler levodopa için genel uyarılardır ve DUODOPA için de
+geçerlidir:
+ DUODOPA, ilaca bağlı ekstrapiramidal reaksiyonların tedavisi için önerilmez.
+ DUODOPA tedavisi, ileri kardiyovasküler veya pulmoner hastalığı, bronşiyal astımı, renal,
+hepatik veya endokrin hastalığı veya peptik ülser hastalığı olanlarla konvülsiyon hikayesi
+olan hastalarda dikkatle uygulanmalıdır.
+ Miyokard enfarktüsü hikayesi olan ve rezidüel atriyal nodal veya ventriküler aritmisi
+bulunan hastalarda, başlangıç dozu ayarlaması sırasında kardiyak fonksiyonlar titizlikle
+izlenmelidir.
+ DUODOPA ile tedavi edilen bütün hastalar, mental değişiklikler, intihar eğilimi
+gösteren depresyon ve diğer ciddi mental değişikliklerin gelişimi açısından dikkatle
+izlenmelidir. Geçmişinde veya mevcut psikozu olan hastaların tedavisinde dikkatli
+olunmalıdır.
+ Dopamin reseptör bloke edici özelliklere sahip antipsikotiklerin, özellikle de D2
+reseptör antagonistlerinin birlikte kullanımında çok dikkatli olunmalı ve hasta, antiparkinson
+etkilerin ortadan kalkması veya Parkinson semptomlarının kötüleşmesi açısından dikkatle
+gözlemlenmelidir (bkz. Bölüm 4.5).
+ Kronik geniş açılı glokomu olan hastalar DUODOPA ile tedavi edilebilir. Ancak, intra-
+oküler basınç iyi kontrol edilmeli ve basınçtaki değişmelerin saptanabilmesi için hasta
+dikkatle izlenmelidir.
+ DUODOPA ortostatik hipotansiyonu indükleyebilir. Bu nedenle DUODOPA, ortostatik
+hipotansiyona neden olabilen diğer ilaçları alan hastalara dikkatle verilmelidir (bkz. Bölüm
+4.5).
+ Levodopa, Parkinson hastalığı olan hastalarda uyku hali ve aniden uykuya dalma episodları
+ile ilişkilendirilmiştir. Bu nedenle, araba ve makine kullanırken dikkatli olunmalıdır (bkz.
+Bölüm 4.7).
+ Anti-Parkinson ilaçların aniden bırakılması halinde, kas rijiditesi, vücut sıcaklığında
+artış, mental değişiklikler (ajitasyon, konfüzyon, koma) ve serum kreatin fosfokinaz
+düzeylerinde artışla görülen Nöroleptik Malign Sendromuna (NMS) benzeyen semptom
+kompleksi bildirilmiştir. Parkinson hastalığı olan hastalarda Nöroleptik Malign
+Sendromuna sekonder rabdomiyoliz veya şiddetli diskinezi seyrek olarak gözlenmiştir. Bu
+nedenle, özellikle antipsikotik alan hastalarda, levodopa/karbidopa kombinasyonlarının ani
+doz azaltımı veya kesilmesi durumlarında hastalar dikkatle gözlenmelidir. DUODOPA ile
+ilişkilendirilen herhangi bir NMS veya rabdomiyoliz vakası bildirilmemiştir.
+ Hastalar dürtü kontrol bozukluklarının gelişimi açısından düzenli bir şekilde
+izlenmelidir. Dopamin agonistleri ve/veya DUODOPA dahil levodopa içeren diğer
+dopaminerjik tedaviler ile tedavi edilen hastalarda patolojik kumar oynama, libidoda
+artış ve hiperseksüalite, kompulsif harcama veya alma, aşırı yeme ve kompulsif yeme
+dahil dürtü kontrol bozuklukların davranışsal semptomlarının meydana gelebileceği konusu
+4hastalara ve bakım veren kişilere söylenmelidir. Bu gibi semptomlar gelişirse tedavinin
+yeniden gözden geçirilmesi önerilmektedir.
+ Epidemiyolojik çalışmalar, Parkinson hastalığına sahip hastaların genel popülasyonla
+karşılaştırıldığında melanom geliştirmeye ilişkin daha yüksek risk taşıdıklarını göstermiştir.
+Gözlemlenen yüksek riskin, Parkinson hastalığından mı yoksa Parkinson hastalığını tedavi
+etmek için kullanılan ilaçlar gibi diğer faktörlerden mi kaynaklandığı net değildir. Bu
+nedenle hasta ve sağlayıcılarına, herhangi bir endikasyon için DUODOPA kullanırken
+düzenli olarak melanom açısından izlem yapılması önerilir. İdeal olarak, uygun yeterliliğe
+sahip bireylerce (örn. dermatologlar), periyodik cilt muayenelerinin gerçekleştirilmesi
+önerilir.
+ Genel anestezi gerektiğinde, hastanın ağızdan sıvı ve ilaç almasına izin verildiği sürece
+DUODOPA tedavisi sürdürülebilir. Eğer tedavi geçici olarak kesilirse, hastanın ağızdan sıvı
+almasına izin verildiğinde DUODOPA uygulamasına daha önceki aynı dozda tekrar
+başlanabilir.
+ Levodopanın indüklediği diskineziyi önlemek için DUODOPA dozunda azaltma gerekebilir.
+ DUODOPA ile uzun süreli tedavi sırasında hepatik, hematopoetik, kardiyovasküler ve renal
+fonksiyonların periyodik değerlendirmelerinin yapılması önerilir.
+ DUODOPA karbidopanın bir bozunma ürünü olan, genotoksik ve muhtemelen karsinojenik
+olan hidrazin içermektedir. DUODOPA’nın ortalama günlük dozu 2 gr levodopa ve 0,5 gr
+karbidopa içeren 100 ml’dir. Önerilen maksimum günlük doz 200 ml’dir. Bu durumda,
+ortalama 4 mg/gün ve maksimum 8 mg/gün’e kadar hidrazine maruz kalınmaktadır. Hidrazin
+maruziyetinin klinik önemi bilinmemektedir.
+ Üst karın bölgesinde daha önce geçirilmiş bir ameliyat, gastrostomi veya jejunostomi
+yapılırken zorluklara yol açabilir.
+ Klinik çalışmalarda rapor edilen ve pazarlama sonrası gözlenen komplikasyonlar; apse,
+bezoar, ileus, implant bölgesi erozyonu/ülseri, bağırsak hemorajisi, bağırsak iskemisi,
+bağırsakta tıkanma, bağırsakta delinme, intususepsiyon, pankreatit, peritonit, pnömoni
+(aspirasyon pnömonisi dahil), pnömoperitoneum, ameliyat sonrası yara enfeksiyonu ve
+sepsisi kapsamaktadır. Bezoarlar, bağırsak yolundaki hazmı güç yemeklerin (örneğin
+sebzeler ve sindirilmesi zor lifli meyveler) sindirim sisteminde betonlaşması sonucu
+oluşurlar. Çoğu bezoarlar midede bulunur ancak bazıları bağırsak yolunun başka bir yerinde
+bulunabilir. Jejunal tübün ucu etrafındaki bezoar intestinal tıkanıklık veya intususepsiyon
+oluşumunu başlatabilir. Karın ağrısı yukarıda belirtilen komplikasyonların bir semptomu
+olabilir. Bazı olaylar, ameliyat ve/veya ölüm gibi ciddi sonuçlara neden olabilir. Hastalara
+yukarıdaki olaylarla bağlantılı semptomların herhangi birini yaşamaları durumunda,
+hekimleri bilgilendirmeleri tavsiye edilmektedir.
+ Sistemi idare etme (pompa, tüp bağlantıları gibi) yeteneğinde azalma komplikasyonlara
+neden olabilir. Bu tip hastalarda bir bakıcı (hemşire, sağlık görevlisi veya yakın akraba)
+hastaya yardımcı olmalıdır.
+ Bradikinezinin ani veya kademeli kötüleşmesi, cihazda herhangi bir nedenle oluşan bir
+tıkanmaya işaret edebilir. Bu nedenin bulunması gerekir.
+ Dopamin Disregülasyon Sendromu (DDS), DUODOPA ile tedavi edilen bazı hastalarda
+görülen aşırı kullanıma neden olan bir bağımlılık bozukluğudur. Hasta ve hasta bakıcılar,
+tedaviye başlamadan önce DDS gelişme olasılığı konusunda uyarılmalıdır (bkz. Bölüm 4.4).
+ Levodopa / karbidopa intestinal jel ile tedavi edilen hastalarda polinöropati bildirilmiştir.
+Tedaviye başlamadan önce hastalar polinöropati öyküsü veya belirtileri ve bilinen risk
+faktörleri açısından ve daha sonra periyodik olarak değerlendirilmelidir.
+54.5. Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+DUODOPA ile etkileşim çalışmaları yapılmamıştır. Aşağıdaki etkileşimler levodopa/karbidopa
+jenerik kombinasyonuna ait bilgilerdir.
+Aşağıdaki ilaçlarla DUODOPA birlikte kullanıldığında dikkatli olunması gerekir:
+Antihipertansifler
+Antihipertansif alan hastalarda tedaviye levodopa ve bir dekarboksilaz inhibitörü
+kombinasyonu eklendiğinde semptomatik postural hipotansiyon ortaya çıkmıştır.
+Antihipertansif ilaç dozunun ayarlanması gerekebilir.
+Antidepresanlar
+Trisiklik antidepresanlarla karbidopa/levodopa preparatlarının birlikte kullanılması sonucunda
+hipertansiyon ve diskinezi de dahil, advers reaksiyonlar seyrek olarak bildirilmiştir.
+Antikolinerjikler
+Antikolinerjikler, tremoru azaltma yönünde levodopa ile sinerjistik etki gösterebilir. Ancak bu
+kombine kullanım anormal istemsiz hareketleri şiddetlendirebilir. Antikolinerjikler
+levodopanın absorpsiyonunu geciktirerek etkisini azaltabilir. DUODOPA dozunda ayarlama
+gerekebilir.
+COMT inhibitörleri (tolkapon, entakapon)
+COMT (katekol-O-metil transferaz) inhibitörleri ile DUODOPA’nın birlikte kullanımı
+levodopanın biyoyararlanımını arttırabilir. DUODOPA dozunda ayarlama gerekebilir.
+Diğer ilaçlar
+Dopamin reseptör antagonistleri (fenotiyazinler, butirofenonlar ve risperidon gibi bazı
+antipsikotikler ve metoklopramid gibi antiemetikler), benzodiazepinler, izoniazid, fenitoin ve
+papaverin, levodopanın terapötik etkisini azaltabilir. DUODOPA ile birlikte bu ilaçları alan
+hastalar terapötik yanıtın kaybı açısından dikkatle izlenmelidir.
+DUODOPA, MAO tip B (örn. selejilin HCl) için selektif olan, önerilen dozda bir MAO
+inhibitörü ile birlikte alınabilir. Tip B’ye yönelik seçiciliği olan MAO inhibitörü eklenildiğinde
+levodopa dozu azaltılmalıdır.
+Ancak selejilin ve levodopa-karbidopa’nın birlikte kullanımı ciddi ortostatik hipotansiyon ile
+ilişkilendirilmiştir.
+Amantadin, levodopa ile sinerjik bir etki oluşturarak levodopayla ilişkili advers olayları
+arttırabilir. DUODOPA dozunda ayarlama gerekebilir.
+Sempatomimetikler levodopaya bağlı kardiyovasküler advers olayları arttırabilirler.
+Levodopa, gastrointestinal kanalda demirle bir şelat oluşturur. Bu şelat levodopa
+absorbsiyonunda azalmaya yol açar.
+Levodopa belirli amino asitlerle yarıştığı için, proteince zengin diyet uygulayan hastalarda
+levodopa absorpsiyonu etkilenebilir.
+6DUODOPA’nın anti asitlerle birlikte kullanılmasının levodopanın biyoyararlanımı üzerindeki
+etkisi çalışılmamıştır.
+4.6. Gebelik ve laktasyon
+Genel tavsiye
+Gebelik kategorisi: C
+Çocuk doğurma potensiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon)
+DUODOPA, yüksek derecede etkili bir doğum kontrol yöntemi kullanmayan çocuk doğurma
+potansiyeli olan kadınlarda tedavinin anne açısından faydası, fötüs açısından olası risklere ağır
+basmadığı takdirde önerilmemektedir.
+Yüksek derecede etkili doğum kontrolü, ovülasyonun inhibisyonuyla bağlantılı kombine
+(östrojen ve progesteron içeren) hormonal kontrasepsiyon, rahim içi araç (RİA), intrauterin
+hormon salım sistemi (İUS), bilateral tüp oklüzyonu, partnere vazektomi uygulanması ya da
+cinsel ilişkiden kaçınma olarak tanımlanmaktadır.
+Gebelik dönemi
+Levodopa/karbidopanın gebe kadınlarda kullanımına ilişkin veri yoktur veya sınırlı veri
+bulunmaktadır. Hayvanlar üzerinde yapılan çalışmalar üreme toksisitesinin bulunduğunu
+göstermiştir (bkz. Bölüm 5.3). DUODOPA’nın gebelik döneminde ve doğum kontrol yöntemi
+kullanmayan çocuk doğurma potansiyeli olan kadınlarda kullanımı tedavinin anne açısından
+faydası, fötüs açısından olası risklere ağır basmadığı takdirde önerilmemektedir.
+Laktasyon dönemi
+Levodopa ve olası levodopa metabolitleri anne sütüne geçmektedir. Levodopa tedavisi
+sırasında laktasyonun baskılandığına dair kanıtlar bulunmaktadır.
+Karbidopanın veya metabolitlerinin anne sütüne geçip geçmediği bilinmemektedir. Hayvanlar
+üzerinde yapılan çalışmalar karbidopanın anne sütüne geçtiğini göstermektedir.
+Levodopa/karbidopanın veya metabolitlerinin yenidoğan/infantlardaki etkisi hakkında yeterli
+bilgi bulunmamaktadır. DUODOPA ile tedavi sırasında emzirme bırakılmalıdır.
+Üreme yeteneği /Fertilite
+Hayvanlar üzerinde yapılan çalışmalar üreme toksisitesi göstermiştir (bkz. Bölüm 5.3).
+Tek başına karbidopa veya levodopa ile gerçekleştirilen klinik öncesi çalışmalarda fertilite
+üzerinde bir advers reaksiyon gözlenmemiştir. Hayvanlardaki fertilite çalışmaları levodopa ve
+karbidopa kombinasyonu ile gerçekleştirilmemiştir.
+4.7. Araç ve makine kullanımı üzerindeki etkiler
+DUODOPA’nın araç ve makine kullanımı üzerinde önemli bir etkisi bulunmaktadır. Levodopa
+ve karbidopa baş dönmesine ve ortostatik hipotansiyona neden olabilir. Bu nedenle araç veya
+makine kullanırken dikkat edilmelidir. DUODOPA ile tedavi edilen ve uyku hali ve/veya ani
+uykuya dalma episodları gösteren hastalar, kendilerini ve başkalarını riske atmamak açısından,
+bu durumları iyileşinceye kadar, araba ve dikkat gerektiren araç ve makineleri kullanmamaları
+konusunda uyarılmalıdır. (bkz. Bölüm 4.4).
+74.8. İstenmeyen etkiler
+DUODOPA (levodopa/karbidopa) ile sıklıkla oluşan ilaç ilişkili istenmeyen etkiler, bulantı ve
+diskineziyi kapsar.
+DUODOPA cihazları ve uygulama prosedürü ile ilişkili istenmeyen etkiler; karın ağrısı, cihaz
+takma komplikasyonları, aşırı granülasyon dokusu, kesim bölgesi eritem, ameliyat sonrası yara
+enfeksiyonu, uygulama sonrası akıntı, uygulamayla ilgili ağrı ve uygulama bölgesi
+reaksiyonunu kapsar.
+Advers reaksiyonların çoğu, çalışmaların erken döneminde rapor edilmiştir. Bu advers
+reaksiyonlar perkütan endoskopik gastrostomi uygulaması sonrasındaki ilk 28 gün içerisinde
+oluşmaktadır.
+DUODOPA ile rapor edilen istenmeyen etkiler
+DUODOPA'nın güvenliliği, 12 haftalık randomize, çift kör, çift plasebo, etkin kontrollü
+çalışmaya katılan ileri derece Parkinson hastalığı olan 71 hastada levodopa/karbidopanın
+standart oral formülasyonu (100 mg/25 mg) ile karşılaştırılmıştır. İlave güvenlilik bilgisi, 354
+ileri derecedeki Parkinson hastasında açık etiketli, 12 aylık çalışmada ve açık etiketli uzatılmış
+çalışmalarla elde edilmiştir.
+İlaçla ilgili advers reaksiyonların özetlenmesi amacıyla çalışma tasarımından bağımsız olarak
+(çift kör veya açık etiketli) tüm çalışmalarda DUODOPA alan hastalar için bir analiz
+gerçekleştirilmiştir. Çalışma tasarımından bağımsız olarak (çift kör veya açık etiketli) tüm
+çalışmalardaki uygulamayla ilgili ve cihazla ilgili advers reaksiyonları özetlemek amacıyla
+PEG-J ile DUODOPA veya plasebo jel alan tüm hastalarda başka bir analiz gerçekleştirilmiştir.
+DUODOPA'nın onay sonrası kullanımı sırasında tanımlanan advers reaksiyonların yanı sıra,
+tedavi ile ortaya çıkan sıklıklara dayanarak ve atanan nedensellikten bağımsız olarak ilaçla,
+uygulamayla ve cihazla ilgili advers reaksiyonlar Tablo 1'de verilmiştir.
+Sıklık kategorileri şu şekildedir; Çok yaygın (≥1/10); yaygın (≥1/100 ila <1/10); yaygın
+olmayan (≥1/1.000 ila <1/100); seyrek (≥1/10.000 ila <1/1.000); çok seyrek (<1/10.000, izole
+raporlar dahil); bilinmiyor (eldeki verilerden hareketle tahmin edilemiyor).
+Tablo 1. Klinik Deneylerden ve Pazarlama Sonrası Deneyimden Elde edilen Advers
+Reaksiyon Verileri
+MedDRA Çok Yaygına Yaygına Yaygın Seyrekb Sıklığı
+Sistemi Olmayanb Bilinmeyen
+Organ Pazarlama
+Sınıfı sonrası
+İlaçla İlgili Advers Reaksiyonlar
+Enfeksiyonlar İdrar yolu
+ve enfeksiyonları
+enfestasyonlar
+8MedDRA Çok Yaygına Yaygına Yaygın Seyrekb Sıklığı
+Sistemi Olmayanb Bilinmeyen
+Organ Pazarlama
+Sınıfı sonrası
+Kan ve lenf Anemi Lökopeni,
+sistemi Trombositopeni
+hastalıkları
+Bağışıklık Anafilaktik
+sistemi reaksiyon
+hastalıkları
+Metabolizma ve Kilo kaybı Kilo artışı,
+beslenme Amino asit
+hastalıkları düzeyi artışı
+(Metilmalonik
+asit artışı),
+Kan homo-
+sistein artışı,
+İştah kaybı,
+Vitamin B6
+eksikliği,
+Vitamin B12
+eksikliği
+Psikiyatrik Anksiyete, Anormal rüyalar, İntihar, Anormal Dopamin
+hastalıklar Depresyon, Ajitasyon, Bunama, düşünme Disregülasyon
+Uykusuzluk Konfüzyon, Oryantasyon Sendromud
+Halüsinasyon, bozukluğu,
+Fevri davranışc, Öforik ruh hali,
+Psikotik Korku,
+bozukluk, Yüksek libido
+Uyku atakları, (bkz. Bölüm
+Uyku bozukluğu 4.4),
+Kabus,
+İntihar girişimi
+Sinir sistemi Diskinezi, Baş dönmesi, Ataksi,
+hastalıkları Parkinson Distoni, Konvülsiyon,
+hastalığı Baş ağrısı, Yürüme
+Hipoestezi, güçlüğü
+On/off fenomeni,
+Paraestezi,
+Polinöropati,
+Somnolans,
+Senkop,
+Tremor
+9MedDRA Çok Yaygına Yaygına Yaygın Seyrekb Sıklığı
+Sistemi Olmayanb Bilinmeyen
+Organ Pazarlama
+Sınıfı sonrası
+Göz hastalıkları Dar açılı
+glokom,
+Blefarospazm,
+Diplopi,
+Optik iskemik
+nöropati,
+Bulanık görme
+Kardiyak Düzensiz kalp Palpitasyonlar
+hastalıkları atışı
+Vasküler Ortostatik Hipertansiyon,
+hastalıklar hipotansiyon Hipotansiyon Flebit
+Solunum, göğüs Dispne, Göğüs ağrısı, Anormal
+hastalıkları ve Orofaringeal Disfoni solunum
+mediastinal ağrı
+hastalıkları
+Gastro-intestinal Bulantı, Abdominal Aşırı tükürük Bruksizm,
+hastalıklar Kabızlık distansiyon, salgısı Tükürükte
+Diyare, renklenme,
+Ağız kuruluğu, Glosodini,
+Disguzi, Hıçkırık
+Dispepsi,
+Disfaji,
+Flatulans,
+Kusma
+Deri ve deri altı Kontakt dermatit Alopesi, Terde
+doku hastalıkları Hiperhidroz, Eritem, renklenme,
+Periferal ödem, Ürtiker Malign
+Prurit, melanom
+Döküntü (bkz. Bölüm
+4.4)
+Kas-iskelet, bağ Kas spazmları,
+doku ve kemik Boyun ağrısı
+hastalıkları
+Böbrek ve idrar Üriner Kromatüri Priapizm
+yolu hastalıkları inkontinans,
+Üriner
+retansiyon
+10MedDRA Çok Yaygına Yaygına Yaygın Seyrekb Sıklığı
+Sistemi Olmayanb Bilinmeyen
+Organ Pazarlama
+Sınıfı sonrası
+Genel Yorgunluk, Malez
+bozukluklar ve Ağrı,
+uygulama Asteni
+bölgesine ilişkin
+hastalıkları
+Yaralanma, Düşme
+zehirlenme ve
+uygulamayla
+ilgili
+komplikasyonlar
+Cihaz ve Uygulamayla İlgili Advers Reaksiyonlar
+MedDRA Çok Yaygına Yaygına Yaygın Seyrekb Sıklığı
+Sistemi Olmayanb Bilinmeyen
+Organ Pazarlama
+Sınıfı sonrası
+Enfeksiyonlar ve Ameliyat İnsizyon bölgesi Uygulama Sepsis
+enfestasyonlar sonrası yara selüliti, sonrası apse
+enfeksiyonu Uygulama
+sonrası
+enfeksiyon
+Solunum, göğüs Pnömoni/
+hastalıkları ve Aspirasyon
+mediastinal pnömonisi
+hastalıkları
+Gastro-intestinal Abdominal Abdominal Bezoar (bkz. Gastrik
+hastalıklar ağrı rahatsızlık, Bölüm4.4), perforasyon,
+Üst abdominal İskemik kolit, Gastrointestinal
+ağrı, Gastrointestinal perforasyon,
+iskemi, İnce bağırsak
+Peritonit,
+Gastrointestinal iskemisi,
+Pnömo-
+tıkanıklık, İnce bağırsak
+peritoneum
+İntususepsiyon, perforasyonu,
+Pankreatit,
+İnce bağırsak
+hemorajisi,
+İnce bağırsak
+ülseri,
+Kalın bağırsak
+perforasyonu
+11MedDRA Çok Yaygına Yaygına Yaygın Seyrekb Sıklığı
+Sistemi Olmayanb Bilinmeyen
+Organ Pazarlama
+Sınıfı sonrası
+Deri ve deri altı Aşırı
+doku hastalıkları granülasyon
+dokusu
+Genel Cihaz Cihaz
+bozukluklar ve yerleştirme dislokasyonu,
+uygulama komplikas- Cihaz tıkanması
+bölgesine ilişkin yonlarıe
+hastalıklar
+Yaralanma, İnsizyon Gastrointestinal
+zehirlenme ve bölgesi stoma
+uygulamayla eritemi, komplikasyonu,
+ilgili Uygulama İnsizyon bölgesi
+komplikasyonlar sonrası akıntı, ağrısı,
+Uygulama ile Ameliyat sonrası
+ilgili ağrı, ileus,
+Uygulama Uygulama
+bölgesi sonrası
+reaksiyonu komplikasyon,
+Uygulama
+sonrası
+rahatsızlık,
+Uygulama
+sonrası hemoraji
+a Klinik deneylerde gözlemlenen advers reaksiyonlar. Atanan sıklıklar advers olay sıklıklarını
+yansıtmakta olup, araştırmacı tarafından nedeni belirlenenlerden bağımsızdır.
+b Sıklık hesaplamalarının mevcut olmadığı DUODOPA için gözlemlenen advers reaksiyonlar. Atanan
+sıklıklar, oral levodopa/karbidopaya ilişkin geçmiş verilere dayanır.
+c Dürtü kontrol bozuklukları: Dopamin agonistleri ve/veya DUODOPA dahil levodopa içeren diğer
+dopaminerjik tedaviler ile tedavi edilen hastalarda patolojik kumar oynama, libidoda artış ve
+hiperseksüalite, kompulsif harcama veya alma, aşırı yeme ve kompulsif yeme oluşabilir. (bkz. Bölüm
+4.4 Özel kullanım uyarıları ve önlemleri)
+d Dopamin Disregülasyon Sendromu (DDS), DUODOPA ile tedavi edilen bazı hastalarda görülen bir
+bağımlılık bozukluğudur. Etkilenen hastalar, motor semptomlarını kontrol altına almak için yeterli
+dozlardan fazla dopaminerjik ilacın kötüye kullanımı ile ilgili kompulsif bir davranış göstermektedir;
+bazı durumlarda şiddetli diskinezi ile sonuçlanabilir. (bkz. Bölüm 4.4).
+e Cihaz yerleştirilmesiyle ilgili komplikasyon, hem nazojejunal tüp hem de PEG-J için yaygın bir
+şekilde rapor edilen bir advers reaksiyondur. Bu advers reaksiyon nazojejunal tüpe ilişkin aşağıdaki
+advers reaksiyonlardan bir veya daha fazlasıyla birlikte rapor edilmiştir: Orofaringeal ağrı, abdominal
+distansiyon, abdominal ağrı, abdominal rahatsızlık, ağrı, boğazda tahriş, gastrointestinal yaralanma,
+özofajiyal hemoraji, anksiyete, disfaji ve kusma. PEG-J için bu advers reaksiyon aşağıdaki advers
+reaksiyonlardan bir veya daha fazlasıyla birlikte rapor edilmiştir: Abdominal ağrı, abdominal
+rahatsızlık, abdominal distansiyon, flatulans veya pnömoperitoneum. Cihaz yerleştirilmesine ilişkin
+komplikasyonla birlikte rapor edilen diğer ciddi olmayan advers reaksiyonlar abdominal rahatsızlık,
+üst abdominal ağrı, duodenal ülser, duodenal ülser hemorajisi, eroziv duodenit, eroziv gastrit,
+gastrointestinal hemoraji, peritonit, pnömoperitoneum, ince bağırsak ülseri.
+12Bağırsak tüpünün geriye doğru karına dislokasyonu veya cihazdaki tıkanma motor
+dalgalanmalarının tekrar ortaya çıkmasına neden olur.
+Oral levodopa/karbidopa ile aşağıdaki ilave advers reaksiyonlar (MedDRA tarafından tercih
+edilen terimlerle listelenmiştir) gözlenmiş olup bunlar DUODOPA ile de meydana gelebilir:
+Tablo 2. Oral Levodopa/Karbidopa ile Gözlemlenen Advers Reaksiyonlar
+MedDRA sistemi Organ Sınıfı Seyrek Çok Seyrek
+(≥1/10.000 ila <1/1000) (<1/10.000)
+Kan ve lenf sistemi hastalıkları Hemolitik anemi Agranülositoz
+Sinir sistemi hastalıkları Trismus,
+Nöroleptik malign sendrom
+(bkz. Bölüm 4.4)
+Göz hastalıkları Horner sendromu,
+Midriyazis,
+Okülojirik kriz
+Deri ve deri altı doku hastalıkları Anjiyoödem,
+Henoch-Schönlein purpurası
+Laboratuvar değerleri: Levodopa/karbidopa tedavisi ile bazı laboratuvar anormallikleri
+görülmüştür. Bu nedenle DUODOPA ile tedavi edilen hastalarda bunlar göz önünde
+tutulmalıdır: yüksek üre nitrojeni, alkalin fosfataz, S-AST, S-ALT, LDH, bilirubin, kan şekeri,
+kreatinin, ürik asit ve pozitif Coomb’s testi ve hemoglobin ve hematokrit değerlerinde düşme.
+İdrarda lökosit, bakteri ve kan bildirilmiştir. Levodopa/karbidopa ve dolayısıyla DUODOPA,
+üriner keton testi için test çubuğu kullanıldığında hatalı pozitif sonuca neden olabilir. Bu
+reaksiyon idrar numunesinin kaynatılmasıyla değişmez. Glikozüri için glikoz oksidaz
+yöntemlerinin kullanılması hatalı negatif sonuçlar verebilir.
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir (www.titck.gov.tr; e-posta:
+tufam@titck.gov.tr; tel: 0 800 314 00 08; faks: 0312 218 35 99)
+4.9. Doz aşımı ve tedavisi
+Levodopa/ karbidopa ile doz aşımının en belirgin klinik semptomları distoni ve diskinezidir.
+Blefarospazm doz aşımının erken belirtilerinden olabilir.
+DUODOPA’nın akut doz aşımının tedavisi genelde levodopa akut doz tedavisi ile aynıdır.
+Ancak, piridoksinin DUODOPA etkisinin geri çevirilmesi üzerine etkisi yoktur. Kardiyak
+aritmi gelişmesi açısından elektrokardiyografik izleme yapılmalı ve hasta dikkatle
+gözlenmelidir. Gerek görülmesi halinde uygun antiaritmik tedavi verilmelidir. Hastanın
+DUODOPA ile birlikte başka ilaçları da almış olabileceği göz önünde tutulmalıdır. Bugüne
+kadar diyaliz ile ilgili deneyim bildirilmemiştir, bu nedenle doz aşımı tedavisindeki yeri
+bilinmemektedir.
+135. FARMAKOLOJİK ÖZELLİKLER
+5.1. Farmakodinamik özellikler
+Farmakoterapötik grup: Anti-Parkinson ilaçlar, levodopa ve dekarboksilaz inhibitörü.
+ATC kodu: N04BA02.
+Etki mekanizması:
+DUODOPA, şiddetli motor dalgalanmalar ve hiperkinezi/diskinezi ile seyreden ileri derecedeki
+Parkinson hastalığında kullanılmak üzere geliştirilen sürekli intestinal infüzyon için jel şeklinde
+levodopa ve karbidopa (oran 4:1) kombinasyonudur. Levodopa, beyinde dekarboksilasyonu
+takiben dopamine çevrilen ve Parkinson hastalığı semptomlarını azaltan dopaminin metabolik
+öncülüdür. Kan-beyin bariyerini geçmeyen karbidopa, levodopanın periferik
+dekarboksilasyonunu engeller, böylece daha fazla miktarda levodopa beyne geçerek dopamine
+dönüşür. Karbidopanın birlikte verilmemesi halinde, istenilen etkiyi elde etmek için daha fazla
+miktarlarda levodopa gerekir. DUODOPA’nın kişiye özel ayarlanmış dozlarının intestinal
+infüzyonu, terapötik pencerede levodopa plazma konsantrasyonlarını kararlı düzeyde tutar.
+Farmakodinamik etkiler:
+DUODOPA ile intestinal tedavi, yıllarca levodopa/dekarboksilaz inhibitörü içeren tabletlerle
+tedavi gören ileri derecedeki Parkinson hastalığı olan hastalarda motor dalgalanmaları azaltır
+ve “OFF” süresini kısaltır. Dar terapötik bir pencerede tedaviye izin veren oral
+karbidopa/levodopaya oranla daha az değişken plazma konsantrasyonlarına sahip olması
+sayesinde motor dalgalanmalar ve hiperkinezi/diskinezi azalır. Motor dalgalanmalar ve
+hiperkinezi/diskinezi üzerindeki terapötik etki çoğu zaman tedavinin ilk gününde elde edilir.
+Klinik etkililik ve güvenlilik:
+Levodopa/karbidopa 100/25 mg tabletleri ile karşılaştırılarak DUODOPA’nın etkililiği,
+güvenliliği ve tolerabilitesini değerlendirmeye yönelik iki aynı tasarlanmış, Faz 3, 12 haftalık,
+randomize, çift kör, çift plasebolu, etkin kontrollü, paralel grup, çok merkezli çalışmalarda
+doğrulanmıştır. Çalışmalar, levodopaya yanıt veren ve oral levodopa karbidopa ve diğer mevcut
+anti Parkinson tedavileri ile yapılan optimize tedaviye rağmen kalıcı motor dalgalanmaları
+yaşayan ileri derecedeki 71 Parkinson hastasıyla gerçekleştirilmiştir. İki çalışmanın sonuçları
+birleştirilmiş ve tek bir analiz gerçekleştirilmiştir.
+Primer etkililik sonlanım noktasının (başlangıçtan sonlanım noktasına) normalize "OFF"
+zamanındaki değişimin, son süregelen gözlem verilerine dayanan ‘Parkinson Hastalığı
+Günlüğü©’ne göre en küçük kareler yöntemi (LS) ile istatistiksel olarak anlamlı biçimde
+DUODOPA tedavi grubunun lehine olduğu görülmüştür. (Tablo 3)
+Primer sonlanım noktası sonuçları, başlangıçtan, tüm başlangıç sonrası çalışma ziyaretlerindeki
+değişiklikleri inceleyen Karışık Model Tekrarlı Ölçümler (MMRM) analizi ile desteklenmiştir.
+Bu "OFF" süresi analizi, 4. Haftada LC oral grubu ile karşılaştırıldığında DUODOPA grubunun
+istatistiksel olarak anlamlı bir şekilde daha fazla geliştiğini göstermiş olup, bu gelişmenin 8, 10
+ve 12. haftalarda da istatistiksel olarak anlamlı olduğu gösterilmiştir.
+"OFF" süresindeki bu değişiklik, ‘’Parkinson Hastalığı Günlüğü©’’ verilerine dayanarak
+DUODOPA tedavi grubu ile etkin kontrol grubu arasındaki çok şiddetli diskinezi olmaksızın
+ortalama günlük "ON" süresindeki başlangıca göre istatistiksel olarak anlamlı LS ortalama
+farkıyla bağlantılıdır. Başlangıç değerleri, randomizasyonun üç gün öncesinde ve oral tedavi
+standardizasyonundan 28 gün sonra toplanmıştır.
+14Tablo 3. Çok Şiddetli Diskinezi Olmaksızın "OFF" Süresi ve "ON" Süresinde
+Başlangıçtan Sonlanım Noktasına Değişim
+Başlangıç Sonlanım LS Ortalama LS Ortalama
+Ortalaması Noktası Değişiklik Fark
+(SD) (SD) (SE) (SE)
+Tedavi Grubu N (saat) (saat) (saat) (saat) P değeri
+Primer Ölçüm
+"OFF" süresi
+Aktif Kontrola 31 6,90 (2,06) 4,95 (2,04) –2,14 (0,66)
+DUODOPA 35 6,32 (1,72) 3,05 (2,52) –4,04 (0,65) –1,91 (0,57) 0,0015
+Sekonder Ölçüm
+Çok şiddetli diskinezi
+olmadan"ON"süresi
+Aktif Kontrol 31 8,04 (2,09) 9,92 (2,62) 2,24 (0,76)
+DUODOPA 35 8,70 (2,01) 11,95 (2,67) 4,11 (0,75) 1,86 (0,65) 0,0059
+SD = standart sapma; SE = standart hata;
+a. Aktif kontrol, oral levodopa/karbidopa 100/25 mg tabletler
+Hiyerarşik test prosedürüne göre diğer sekonder etkililik sonlanım noktalarının analizleri,
+Parkinson Hastalığı Anketi (PDQ-39) Özet İndeksi (Parkinson Hastalığı kaynaklı hayat kalitesi
+indeksi), Klinik Global İzlenim (CGI-I) ölçeği ve Birleşik Parkinson Hastalığı Derecelendirme
+Ölçeği (UPDRS) Bölüm II skoruna (Günlük Yaşam Aktiviteleri) ilişkin olarak oral levodopa/-
+karbidopa ile karşılaştırıldığında DUODOPA için istatistiksel olarak anlamlı sonuçlar
+göstermiştir. PDQ-39 Özet İndeksi başlangıca göre 12. haftada 10,9 puanlık bir düşüş
+göstermiştir. Diğer sekonder sonlanım noktaları olan UPDRS Bölüm III puanı, EQ-5D Özet
+İndeksi ve ZBI toplam skoru, hiyerarşik test prosedürüne dayanarak istatistiksel anlamlılığı
+karşılamamıştır.
+354 hastada 12 ay boyunca DUODOPA’nın uzun süreli güvenlilik ve tolerabilitesini
+değerlendirmek için bir Faz 3, açık etiketli, tek kollu, çok merkezli bir çalışma
+gerçekleştirilmiştir. Hedef popülasyon, mevcut Parkinson hastalığı medikal tedavileri ile
+optimize tedaviye rağmen ileri derecede Parkinson hastalığına sahip olan ve motor
+dalgalanmaları yaşayan levodopaya yanıt veren hastalardı. Ortalama günlük normalize "OFF"
+süresi, diskinezi olmadan “ON” süresinde 4,8 saate karşılık gelecek şekilde Başlangıçtan
+Sonlanım Noktasına – 4,44 saat değişiklik göstermiştir (Başlangıçta 6,77 saat ve Sonlanım
+Noktasında 2,32 saat).
+DUODOPA'nın diskinezi üzerindeki etkisini değerlendirmek amacıyla 61 hastanın katılımıyla
+12 hafta boyunca optimal medikal tedaviye (OMT) kıyasla açık etiketli, randomize, çok
+merkezli bir Faz 3 çalışması yürütülmüştür. Hedef popülasyon; levodopaya yanıtı olan, motor
+dalgalanmaları ve ileri evre Parkinson hastalığı (İEPH) OMT ile yetersiz şekilde kontrol edilen
+ve başlangıçtaki Birleşik Diskinezi Değerlendirme Skalası (UDysRS) Toplam Skoru ≥30 olan
+hastalardır. Başlangıçtan 12. haftaya kadar olan süreçte UDysRS toplam skorundaki değişiklik
+(primer etkililik sonlanım noktası), OMT grubuna kıyasla DUODOPA tedavi grubu lehinde
+istatistiksel olarak önemli bir LS Ortalama farkı (-15,05; P < 0,0001) ortaya koymuştur. Sabit
+sekans test prosedürü kullanılarak sekonder etkililik sonlanım noktalarının analizi; Parkinson
+hastalığı günlüğüyle ölçülen özürleyici diskinezi olmaksızın "On" süresi, Parkinson Hastalığı
+15Anketi-8 (PDQ 8) özet indeksi, Klinik Global İzlenim Değişikliği (CGI-C) skoru, Birleşik
+Parkinson Hastalığı Değerlendirme Skalası (UPDRS) Bölüm II skoru ve Parkinson hastalığı
+günlüğüyle ölçülen "Off" süresi bakımından OMT'ye kıyasla DUODOPA lehine istatistiksel
+olarak önemli sonuçlar ortaya koymuştur. UPDRS Bölüm III skoru istatistiksel anlamlılık
+gerekliliklerini karşılamamıştır.
+Pediyatrik popülasyon
+DUODOPA’nın 18 yaşın altındaki hastalardaki güvenliliği kanıtlanmamış olup 18 yaşın
+altındaki hastalarda kullanımı önerilmemektedir.
+5.2. Farmakokinetik özellikler
+Genel özellikler
+Emilim:
+DUODOPA, doğrudan duedonuma veya jejunuma takılan bir tüp aracılığıyla uygulanır.
+Levodopa aminoasitler için yüksek kapasiteli bir taşıma sistemi sayesinde bağırsaklardan çok
+çabuk ve etkili bir şekilde absorbe edilir.
+Oral levodopa/karbidopa çabuk salımlı tabletlerden levodopanın mutlak biyoyararlanımının
+%84-99 olduğu rapor edilmiştir. Yapılan çapraz çalışma popülasyonlu farmakokinetik
+analiz raporu, DUODOPA’nın oral levodopa/karbidopa (100/25 mg) tabletlerle
+karşılaştırılabilir levodopa biyoyararlanımına sahip olduğunu ortaya koymuştur.
+Faz I çalışmasında, DUODOPA’nın intrajejunal uygulaması ile, levodopa hızla terapötik
+plazma düzeylerine ulaşmıştır ve infüzyon süresi boyunca tutarlı levodopa düzeyleri
+sürdürülmüştür. İnfüzyonun tamamlaması üzerine levodopa düzeyleri hızlı bir şekilde
+düşmüştür (Şekil 1). İnfüzyonunun başlamasından itibaren 2. saatten 16. saate kadar levodopa
+plazma konsantrasyonlarındaki kişiye bağlı değişkenlik düşüktü (%13).
+Şekil 1. DUODOPA’nın 16 Saatlik İnfüzyonu ile Levodopa’nın Plazma
+Konsantrasyonları (ortalama ± standart sapma) ve Zaman Profili
+DUODOPA, çift kör, aktif kontrollü, Faz 3 Çalışmasında, levodopa plazma
+konsantrasyonlarında kişiye bağlı değişkenliği DUODOPA ile tedavi edilen hastalarda (%21)
+16oral levodopa/karbidopa 100/25 mg tabletler ile tedavi edilen hastalar (%67) ile
+karşılaştırıldığında daha düşüktü.
+Dağılım:
+Levodopa, bir dekarboksilaz inhibitörü olan karbidopa ile birlikte uygulanır. Karbidopa
+levodopanın biyoyararlanımını arttırır, klerensini azaltır. Dekarboksilaz inhibitörü ile birlikte
+uygulandığında levodopa için klerens ve dağılım hacmi, sırasıyla, 0,3 L/saat/kg ve 0,9-1,6
+L/kg’dır. Eritrositler ve plazma arasında levodopa için ayrılma oranı yaklaşık 1'dir.
+Levodopanın plazmada proteinlere bağlanması ihmal edilebilir düzeydedir (yaklaşık %10-
+%30). Levodopa, büyük nötral amino asitler için taşıyıcı mekanizma ile beyne taşınır.
+Karbidopa plazma proteinine yaklaşık %36 oranında bağlanır. Karbidopa kan beyin bariyerini
+geçmez.
+Biyotransformasyon:
+Bilinen dört metabolik yolak vardır, ancak levodopa temel olarak aromatik amino asit
+dekarboksilaz (AAAD) ve katekol-O-metil-transferaz (COMT) enzimleri ile metabolize
+edilerek elimine olur. Diğer metabolizma yolları transaminasyon ve oksidasyondur.
+Levodopanın AAAD ile dopamine dekarboksilasyonu enzim inhibitörü uygulanmadığında
+temel enzimatik yoldur.
+Levodopa, karbidopa ile birlikte uygulandığında dekarboksilaz enzimi inhibe edilir, böylece
+katekol-O-metil-transferaz (COMT) aracılığıyla olan metabolizma baskın metabolik yolak
+haline gelir. Levodopanın COMT ile O-metilasyonu 3-O-metildopayı oluşturur.
+Karbidopa iki ana metabolite metabolize edilir (α-metil-3-metoksi-4-hidroksifenilpropionik
+asit ve α-metil-3,4-dihidroksifenilpropiyonik asit).
+Eliminasyon:
+Karbidopa ile birlikte uygulandığında, levodopanın eliminasyon yarı ömrü yaklaşık 1,5 saattir.
+Levodopa tamamen metabolize olur ve oluşan metabolitler çoğunlukla idrarla atılır.
+Karbidopa’nın iki metaboliti primer olarak, değişmeden veya glukuronit konjugatları olarak
+idrarda elimine edilir. Değişmemiş karbidopa, toplam idrar atılımının %30'unu oluşturur.
+Karbidopanın eliminasyon yarı ömrü yaklaşık 2 saattir.
+Doğrusallık/Doğrusal olmayan durum:
+DUODOPA için geçerli değildir.
+Farmakokinetik/farmakodinamik ilişkiler
+Levodopanın plazma konsantrasyonundaki dalgalanmalardaki azalma, tedaviye yanıtın
+dalgalanmalarını azaltır. İleri derecedeki Parkinson hastalığında levodopa dozu oldukça değişik
+olabilir ve dozun klinik yanıta dayanarak bireysel olarak ayarlanması önem taşır. Zamanla
+tolerans gelişmesi DUODOPA ile gözlenmemiştir.
+5.3. Klinik öncesi güvenlilik verileri
+Konvansiyonel güvenlilik, farmakoloji, tekrarlanan doz toksisitesi, genotoksisite, ve
+karsinojenik potansiyel çalışmalarına dayanan klinik dışı veriler insanlara yönelik özel bir
+tehlike ortaya koymamaktadır. Üreme toksisitesi çalışmalarında levodopa ve
+17karbidopa/levodopa kombinasyonu tavşanlarda iç organlar ve iskeletle ilgili malformasyonlara
+yol açmıştır.
+Hidrazin karbidopanın bir bozunma ürünüdür. Hayvan çalışmalarında, hidrazin özellikle
+inhalasyon yoluyla maruz kalışta dikkat çeken sistemik toksisite göstermiştir. Bu çalışmalar ile
+hidrazinin hepatotoksik olduğu, merkezi sinir sistemi toksisiteleri gösterdiği (oral tedaviden
+sonra görülmemiş olsa da) ve karsinojenik ve genotoksik olduğu raporlanmıştır (bkz. Bölüm
+4.4).
+6. FARMASÖTİK ÖZELLİKLER
+6.1. Yardımcı maddelerin listesi
+Karmelloz sodyum
+Saf su
+6.2.Geçimsizlikler
+Geçerli değildir.
+6.3. Raf ömrü
+15 hafta
+Açıldıktan sonra: Hemen kullanınız. Ürün buzdolabından çıkarıldıktan sonra 24 saate kadar
+kullanılmalıdır. Kullanılmayan kısım atılmalıdır.
+6.4. Saklamaya yönelik özel tedbirler
+Buzdolabında saklayınız (2ºC-8°C) ve sevkiyatını 2ºC-8°C’de yapınız.
+Kasetleri ışıktan korumak için dış karton ambalajında saklayınız.
+Tıbbi ürünün ilk açıldıktan sonraki saklama koşulları için bkz. Bölüm 6.3.
+6.5. Ambalajın niteliği ve içeriği
+Koruma amaçlı sert plastik kaset içerisinde toplam miktar olarak 100 ml jel içeren PVC torba,
+7 kaset içeren karton kutu.
+6.6. Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+Kasetler sadece tek kullanımlıktır.
+Açılmış kaseti tekrar kullanmayınız.
+Kullanılmamış olan ürünler ya da atık materyaller "Tıbbi Atıkların Kontrolü Yönetmeliği" ve
+"Ambalaj ve Ambalaj Atıkları Kontrolü Yönetmeliği"'ne uygun olarak imha edilmelidir.
+Boş/kullanılmış kasetler imha için eczaneye getirilmelidir.
+187. RUHSAT SAHİBİ
+AbbVie Tıbbi İlaçlar Sanayi ve Ticaret Limited Şirketi
+Barbaros Mah. Begonya Sk.
+Nidakule Ataşehir Batı blok No:1 İç Kapı No:33
+Ataşehir/İstanbul
+Tel: 0216 633 23 00
+Faks: 0216 425 09 69
+8. RUHSAT NUMARASI
+134/30
+9. İLK RUHSAT TARİHİ / RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi: 03.10.2012
+Ruhsat yenileme tarihi:
+10. KÜB’ÜN YENİLENME TARİHİ
+28.10.2022
+19

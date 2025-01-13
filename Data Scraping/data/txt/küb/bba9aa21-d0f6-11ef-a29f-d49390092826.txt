@@ -1,0 +1,680 @@
+KISA ÜRÜN BİLGİSİ
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+AMİKAVER 250 mg/2 mL IM/IV enjeksiyonluk çözelti
+Steril
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde:
+Her 2 mL’lik ampul, 250 mg amikasine eşdeğer miktarda amikasin sülfat içerir.
+Yardımcı maddeler:
+Sodyum metabisülfit ....................... 6,5 mg
+Sodyum sitrat ................................... 25 mg
+Yardımcı maddeler için 6.1’e bakınız.
+3. FARMASÖTİK FORM
+Enjeksiyon / infüzyon çözeltisi.
+Berrak, renksiz ila açık saman renginde çözelti.
+4. KLİNİK ÖZELLİKLER
+4.1. Terapötik endikasyonlar
+Amikasin, yetişkinlerde ve yenidoğanlar da dahil olmak üzere pediatrik hastalarda aşağıdaki
+enfeksiyonların tedavisinde endikedir (bkz. bölüm 5.1)
+- Ventilatörle ilişkili pnömoni dahil olmak üzere hastane kaynaklı pnömoni
+- Piyelonefrit dahil komplike ürogenital sistem enfeksiyonları
+- Komplike intraabdominal enfeksiyonlar
+- Endokardit (sadece diğer antibiyotiklerle kombinasyon halinde)
+- Enfekte yanıklar
+Yukarıda listelenen enfeksiyonlardan herhangi biriyle ilişkili olarak ortaya çıkan veya ilişkili
+1 / 24olduğundan şüphelenilen bakteriyemi hastalarının tedavisi.
+Amikasin, bakteriyel bir enfeksiyona bağlı olduğundan şüphelenilen ateşi olan nötropenik
+hastaların tedavisinde kullanılabilir.
+Tedavide, antibakteriyel ilaçların doğru kullanımına ilişkin resmi kılavuzlar dikkate
+alınmalıdır.
+4.2. Pozoloji ve uygulama şekli
+Pozoloji / Uygulama sıklığı ve süresi
+Doz, vücut ağırlığına ve böbrek fonksiyonuna göre bireysel olarak ayarlanmalı ve serum
+konsantrasyonu düzenli olarak izlenmelidir.
+Böbrek fonksiyonu, serum kreatinin konsantrasyonu ölçülerek veya endojen kreatinin klirens
+değeri hesaplanarak tahmin edilmelidir. BUN (kan üre azotu) testi bu amaç için çok daha az
+güvenilirdir. Tedavi sırasında düzenli olarak böbrek fonksiyonları değerlendirilmelidir.
+Amikasin intramüsküler veya intravenöz olarak aynı dozda verilebilir. İntravenöz uygulama
+için, doz uygun infüzyon çözeltisine eklenir (bkz. bölüm 6.6) ve 30-60 dakika boyunca
+infüzyonla uygulanır.
+Amikasin diğer ilaçlarla karıştırılmamalı, önerilen doz ve uygulama yöntemine göre ayrı ayrı
+uygulanmalıdır.
+Çocuklarda intravenöz uygulama için özel öneri:
+Pediyatrik hastalarda, seyreltici miktarı hasta tarafından ne kadar amikasin tolere
+edilebileceğine göre ayarlanır. Çözelti genellikle 30 ila 60 dakika boyunca infüze edilmelidir.
+Bebeklerde ise 1 ila 2 saatlik bir infüzyonla verilmelidir.
+Yetişkinler ve 12 yaş üzeri çocuklar:
+Normal böbrek fonksiyonuna sahip (kreatinin klirensi ≥50 mL/dak) yetişkinler ve
+ergenler için önerilen intramusküler ya da intravenöz doz, günde tek bir doz olarak ya da
+birkaç eşit doza bölünerek (12 saatte bir 7,5 mg/kg veya her 8 saatte bir 5 mg/kg)
+uygulanabilen 15 mg/kg/gün’dür.
+Toplam günlük doz 1,5 gramı geçmemelidir. Günde bir kere uygulamayı destekleyen
+yeterli veri mevcut olmadığı için, endokarditi olan hastalarda ve ateşli nötropenik hastalarda
+doz uygulaması günde iki kere gerçekleştirilmelidir.
+2 / 244 haftalıktan 12 yaşına kadar olan çocuklar:
+Normal böbrek fonksiyonu olan çocuklar için önerilen intramüsküler veya intravenöz (yavaş
+intravenöz infüzyon) doz 15-20 mg/kg/gün’dür. Bu doz ya tek bir günlük 15-20 mg/kg doz
+olarak verilir ya da her 12 saatte bir 7,5 mg/kg’lık iki doza bölünür. Endokardit ve ateşli
+nötropenik hastalar için, günde bir kez dozlamayı desteklemek için yeterli veri olmadığından
+bu doz günde iki defada verilmelidir.
+Kreatinin klirensi 20 mL/dakika/1,73 m2’den az olan 1 aylıktan büyük çocuklarda günde bir
+kez / uzatılmış aralıklı doz rejiminden kaçınılmalıdır.
+Yenidoğanlar:
+10 mg/kg’lık bir başlangıç bolus dozu, daha sonra her 12 saatte bir 7,5 mg/kg (bkz. bölüm 4.4
+"Özel kullanım uyarıları ve önlemleri" ve 5.2 "Farmakokinetik özellikler").
+Erken doğmuş bebekler:
+Erken doğmuş bebekler için önerilen doz her 12 saatte bir 7,5 mg/kg’dır (bakınız bölüm 4.4
+"Özel kullanım uyarıları ve önlemleri" ve 5.2 "Farmakokinetik özellikler").
+Normal tedavi süresi 7-10 gündür. Her iki uygulama yolu için toplam günlük doz 15-20
+mg/kg/gün’ü geçmemelidir. 10 günden fazla tedavinin düşünüldüğü şiddetli ve komplike
+enfeksiyonlarda, amikasin kullanımı yeniden değerlendirilmeli ve tedaviye devam edilirse,
+böbrek, işitme ve vestibüler fonksiyonların yanı sıra amikasin kan seviyeleri izlenmelidir.
+3-5 gün içinde net bir klinik yanıt oluşmazsa, tedavi durdurulmalı ve etken organizmanın
+antibiyotik duyarlılığı tekrar kontrol edilmelidir. Yanıt vermeme, organizmanın direncine veya
+cerrahi drenaj gerektiren bir septik odağın varlığına bağlı olabilir.
+14 günden daha uzun tedavinin güvenliği belirlenmemiştir.
+Endokardit:
+Enterococcus faecalis veya alfa streptokokların neden olduğu endokarditte, amikasin sırasıyla
+ampisilin ve benzil penisilin ile kombine edilmelidir.
+Stafilokokların neden olduğu endokardit durumunda, amikasin bir izoksazolil penisilin
+(Oksasilin, Kloksasilin, Dikloksasilin) ile kombine edilmelidir.
+3 / 24Nötropenik hastalar:
+Nötropenik hastaları tedavi ederken, amikasin piperasilin ve tazobaktam ile kombine
+edilmelidir.
+Etiyolojisi bilinmeyen ciddi enfeksiyonlarda, kültür ve direnç raporu beklenirken amikasin bir
+beta-laktam antibiyotik ile kombine edilmelidir.
+Pseudomonas’ın neden olduğu sistemik enfeksiyonlar:
+Yetişkin dozu her sekiz saatte bir 500 mg’a çıkarılabilir, ancak günde 1,5 g’ı geçmemeli ya
+da 10 günden fazla bir süre uygulanmamalıdır. Maksimum toplam günlük doz olan 1,5 g
+yetişkin dozu aşılmamalıdır.
+Pseudomonas aeruginosa’nın neden olduğu sistemik enfeksiyon durumunda, amikasin,
+Pseudomonas aeruginosa’ya karşı etkili bir beta-laktam antibiyotik ile kombine edilebilir.
+Hem aerobik hem de anaerobik bakterilerin neden olduğu enfeksiyonları tedavi ederken,
+amikasin anaerobik bakterilere karşı aktif bir preparat ile birleştirilmelidir.
+İdrar yolu enfeksiyonları (psödomonal enfeksiyonlar dışında):
+İki eşit bölünmüş dozda 7,5 mg/kg/gün (yetişkinlerde günde iki kez 250 mg’a eşdeğer).
+Amikasinin aktivitesi pH’ın artırılması ile yükseldiği için, üriner alkalileştirici bir ajan eş
+zamanlı olarak uygulanabilir.
+Bozulmuş böbrek fonksiyonu
+Böbrek fonksiyon bozukluğu durumunda, amikasin serum konsantrasyonunun düzenli olarak
+izlenmesi özellikle önemlidir.
+Amikasin esas olarak glomerüler filtrasyon ile böbrek tarafından elimine edildiğinden,
+eliminasyon oranı hastanın böbrek fonksiyonuna bağlıdır ve bu nedenle önerilen günlük doz
+böbrek fonksiyonuna uyarlanmalıdır. Böbrek fonksiyonu bozulursa ve doz azaltılmazsa
+ve/veya doz aralıkları uzatılmazsa, birikim nedeniyle kan ve dokularda anormal derecede
+yüksek ve muhtemelen toksik konsantrasyonlar oluşabilir. Böbrek yetmezliğinin derecesi,
+serum kreatinin veya kreatinin klirensi ile kontrol edilmelidir.
+Aminoglikozitlerin etkisi C ile ilişkili olduğundan (bkz. bölüm 5.1), tüm hastalara
+maks
+başlangıçta normal doz (15 mg/kg vücut ağırlığı) verilir.
+4 / 24Hafif ila orta derecede böbrek yetmezliği olan hastalarda, dozlama aralığı çukur değerine
+dayanır (“Tedavi kontrolü” ne bakınız. Ciddi böbrek yetmezliği olan hastalarda, yani 48 saat
+içinde yeterli bir çukur değerine ulaşılmadığında, tekrarlanan doz önerileri için veri yoktur.
+Hemodiyaliz
+Hemodiyaliz almakta olan hastalarda doz için veriler yetersizdir. Yaygın olarak kullanılan doz,
+her diyaliz seansından sonra verilen 5 mg/kg vücut ağırlığıdır.
+Peritoneal diyaliz
+Haftada iki kez periton diyalizi uygulanan hastalara her diyaliz seansından sonra 5 mg/kg
+dozunda verilir. Gün aşırı periton diyalizi uygulanan hastalara ilk diyaliz seansından sonra 5
+mg/kg, sonraki diyaliz seanslarından sonra 2,5 mg/kg verilir.
+Günde bir kez / uzatılmış aralıklı dozlama
+Böbrek fonksiyonlarının normal olması durumunda günde bir kez dozlamanın uygun olacağı
+düşünülen böbrek yetmezliği olan hastalara uzun aralıklı dozlama yapılabilir. Başlangıç dozu
+normal böbrek fonksiyonundakiyle aynı olabilir. Doz aralığı en az 24 saat olmalı ve böbrek
+yetmezliğinin derecesine ve serum amikasin seviyesi ölçümlerinin sonuçlarına göre
+uzatılmalıdır. Şiddetli böbrek yetmezliğinde, başlangıç dozunun azaltılması gerekebilir.
+Kreatinin klirensi 20 mL/dakikadan az olan hastalarda günde bir kez veya uzun aralıklı
+dozlamadan kaçınılmalıdır.
+Sabit aralıklarla azaltılmış doz:
+Böbrek yetmezliği olan hastalara belirli zaman aralıklarında amikasin verilirse, doz
+azaltılmalıdır. Bu hastalarda, doğru uygulamayı sağlamak ve aşırı serum konsantrasyonlarını
+önlemek için serum amikasin konsantrasyonu ölçülmelidir. Serum konsantrasyonunun
+belirlenmesi mümkün değilse ve hastanın durumu stabil ise, serum kreatinin ve kreatinin
+klirens oranları, böbrek fonksiyon bozukluğunun derecesinin ve bunun sonucunda dozdaki
+azaltmanın en kolay uygulanabilecek göstergeleridir.
+Çoklu günlük doz uygulaması
+Böbrek fonksiyonu normal olsaydı, sabit aralıklarla birden fazla günlük dozun uygun olduğu
+düşünülen böbrek yetmezliği olan hastalarda, doz aralığı korunurken doz azaltılmalıdır.
+Serum amikasin konsantrasyonları ölçülmeli ve kreatinin klirensi düzenli olarak
+hesaplanmalıdır. Tedavi, yükleme dozu olarak 7,5 mg/kg’lık normal bir doz uygulanarak
+5 / 24başlatılmalıdır. Bu doz, normal böbrek fonksiyonu olan bir hasta için hesaplanacak olan
+normalde önerilen doz ile aynıdır. Başlangıçtan 12 saat sonra uygulanacak idame dozlarını
+belirlemek için, yükleme dozu hastanın kreatinin klirens oranındaki azalma ile orantılı olarak
+azaltılmalıdır:
+mL/dakika cinsinden bulunan CrCl x mg cinsinden başlangıç dozu
+Her 12 saatte bir idame dozu =
+mL/dakika cinsinden normal CrCl
+(CrCl = kreatinin klirens hızı)
+İntraperitoneal kullanım
+Amikasin yerleşik peritonit için eksplorasyon sonrası veya ameliyat sırasında dışkı
+bulaşmasına bağlı periton kontaminasyonundan sonra, anestezi sonrası iyileşmeden sonra
+%0,25 (2,5 mg/mL) konsantrasyonlarda irigasyon için kullanılabilir. Yetişkinlerde
+instilasyonla uygulama istenirse, 500 mg’lık tek bir doz 20 mL steril distile su içinde seyreltilir
+ve cerrahi kapama sırasında yaraya dikilmiş bir polietilen kateter yoluyla damlatılabilir.
+Mümkünse, hasta anestezi ve kas gevşetici ilaçların etkilerinden tamamen kurtulana kadar
+instilasyon ertelenmelidir.
+Monitorizasyon
+Böbrek fonksiyon durumu, serum kreatinin konsantrasyonunun ölçülmesi veya tercihen
+kreatinin klirensinin hesaplanmasıyla değerlendirilmelidir. Kan üre azotu (BUN) bu amaç için
+çok daha az güvenilirdir. Böbrek fonksiyonunun değerlendirilmesi tedavinin başlangıcında
+yapılmalı ve tedavi sırasında düzenli aralıklarla yeniden değerlendirilmelidir.
+Serumdaki amikasin konsantrasyonları, parenteral amikasin alan tüm hastalarda ve obezitede
+ölçülmelidir. Yaşlılarda ve kistik fibrozda yüksek dozlar veriliyorsa ölçülmelidir. Yeterli ancak
+aşırı olmayan serum seviyelerini sağlamak için hem tepe hem de çukur serum
+konsantrasyonları tedavi sırasında aralıklı olarak ölçülmelidir. Günlük dozunu birden fazla
+defada alan hastalarda 35 μg/mL’nin üzerinde tepe konsantrasyonu (enjeksiyondan 30-90
+dakika sonra) ve 10 μg/mL’nin üzerinde çukur konsantrasyonları (bir sonraki dozdan hemen
+önce) olmasından kaçınılmalıdır.
+Günde bir kez (veya uzun aralıklı) doz alan hastalarda, doz öncesi “çukur” konsantrasyon
+5mcg/mL’den az olmalıdır. Uygulamadan yaklaşık 60 dakika sonra tepe konsantrasyonlar 35
+mcg/mL’yi aşabilir.
+6 / 24Doz öncesi çukur konsantrasyon yüksekse, dozlar arasındaki aralık arttırılmalıdır. Doz sonrası
+tepe konsantrasyon yüksekse, doz azaltılmalıdır.
+İşitsel ve vestibüler fonksiyon da tedavi sırasında, özellikle daha uzun tedavi süresi (7-10
+günden fazla) düşünülürse izlenmelidir.
+Tedavi Kontrolü
+Terapötik, ancak aşırı yüksek olmayan seviyeleri sağlamak için serum amikasin
+konsantrasyonları izlenmelidir. Serum örneklerinin tedavinin ikinci gününde ve daha sonra
+tedavi sırasında haftada 2-3 kez düzenli olarak alınması önerilir. Çukur değerleri (bir sonraki
+dozlama seansından hemen önce) 10 mikrogram/mL’yi geçmemelidir. Çukur değerindeki
+ilerleyici artış devam eden bir birikimi ortaya çıkarır, bu durumda dozlama aralığının
+uzatılması gerekir.
+Diğer aminoglikozidler gibi amikasin de potansiyel olarak nefrotoksik ve ototoksiktir.
+Amikasin tedavisi sırasında böbrek, işitme ve denge fonksiyonları mümkünse düzenli olarak
+kontrol edilmelidir. Dozaj önerilerine uymak ve hastanın hidrasyonunun iyi olmasının
+sağlamak son derece önemlidir.
+Uygulama şekli
+İntramusküler kullanım veya seyreltme sonrası intravenöz kullanım.
+İntravenöz kullanım için çözelti, istenen dozun 100 mL veya 200 mL %0,9 sodyum klorür
+veya %5 dekstroz gibi steril bir çözeltiye veya başka herhangi bir uyumlu çözeltiye
+eklenmesiyle hazırlanır. Çözelti, yetişkinlere 30 ila 60 dakikalık bir süre boyunca uygulanır.
+Pediyatrik hastalarda, kullanılan seyreltici miktarı, hasta tarafından tolere edilen amikasin
+miktarına bağlı olacaktır. Çözelti normalde 30 ila 60 dakikalık bir süre boyunca infüze
+edilmelidir. Bebeklere 1 ila 2 saatlik bir infüzyonla uygulanmalıdır.
+Amikasin diğer ilaçlarla karıştırılmamalı, ancak önerilen doz ve uygulama yoluna göre ayrı
+ayrı uygulanmalıdır.
+Amikasin seyreltilmesi için bölüm 6.6’ya bakınız.
+Diğer uygulama yolları
+Amikasin %0,25 (2,5 mg/mL) konsantrasyonlarda, apse boşluklarında, plevral boşlukta,
+peritonda ve serebral ventriküllerde irigasyon çözeltisi olarak etkili bir şekilde kullanılabilir.
+7 / 244.3. Kontrendikasyonlar
+- Ürünün bileşenlerinden herhangi birine karşı aşırı duyarlılık.
+- Bilinen çapraz duyarlılıklar nedeniyle, önceki aşırı duyarlılık reaksiyonları veya herhangi
+bir aminoglikozit ile ciddi toksik reaksiyonlar, diğer aminoglikozitlerin kullanımı için bir
+kontrendikasyon olabilir.
+- Sülfit içeriği nedeniyle, sülfit aşırı duyarlılığı olan astımlılarda kullanılmamalıdır.
+4.4. Özel kullanım uyarıları ve önlemleri
+Alerjik reaksiyonlar
+Amikasin, anafilaktik semptomlar ve hayatı tehdit eden bronşiyal spazmlar (bronkospazm)
+dahil olmak üzere duyarlı bireylerde ciddi aşırı duyarlılık reaksiyonlarına neden olabilen
+sodyum metabisülfit içerir. Sülfit duyarlılığı genellikle nadirdir ve astımlı olmayanlara göre
+astımlılarda daha sık görülür.
+Mevcut böbrek yetmezliği olan veya mevcut işitsel veya vestibüler hasarı olan hastalara dikkat
+edilmelidir. Parenteral aminoglikozitlerle tedavi edilen hastalar, tedavi ile ilişkili potansiyel
+ototoksisite ve nefrotoksisite nedeniyle yakın klinik gözlem altında olmalıdır. 14 günden daha
+uzun süre tedavinin güvenliği belirlenmemiştir.
+Nörotoksisite / Ototoksisite
+Aminoglikozitlerle tedavi edilen hastalarda vestibüler ve/veya bilateral işitsel ototoksisite
+olarak ortaya çıkan nörotoksisite ortaya çıkabilir. Aminoglikozit kaynaklı ototoksisite riski,
+böbrek fonksiyon bozukluğu olan hastalarda veya sağlıklı hastalarda bile tedavi süresinin 5-7
+günden fazla uzadığı hastalarda daha fazladır. Genellikle ilk önce yüksek frekanslarda sağırlık
+ortaya çıkar ve yalnızca odyometrik testlerle tespit edilebilir.
+Baş dönmesi ortaya çıkabilir ve vestibüler hasarın kanıtı olabilir. Diğer nörotoksisite belirtileri
+arasında uyuşma, ciltte karıncalanma, kas seğirmesi ve kasılmalar yer alabilir. Koklear veya
+vestibüler hasar gelişen hastaların, tedavi sırasında onları sekizinci kraniyal sinir hasarı
+konusunda uyaran semptomları olmayabilir. İlacın kesilmesinden sonra tamamen veya kısmen
+geri dönüşümsüz bilateral sağırlık veya kısıtlayıcı vertigo ortaya çıkabilir.
+Aminoglikozit kaynaklı ototoksisite genellikle geri döndürülemez.
+8 / 24Mitokondriyal DNA mutasyonları (özellikle 12S rRNA genindeki nükleotid 1555 Ato G
+substitüsyonu) olan hastalarda, tedavi sırasında aminoglikozit serum seviyeleri önerilen
+aralıkta olsa bile ototoksisite riski artar. Bu tür hastalarda alternatif tedavi seçenekleri
+düşünülmelidir.
+Ailesinde ilgili mutasyonlar veya aminoglikozit kaynaklı sağırlık öyküsü olan hastalarda,
+uygulamadan önce alternatif tedaviler veya genetik testler düşünülmelidir.
+Nöromüsküler toksisite
+Aminoglikozitlerin parenteral enjeksiyonu, topikal instilasyon (ortopedik yıkama ve abdominal
+lavaj veya lokal ampiyem tedavisi gibi) ve oral uygulamasından sonra nöromüsküler blokaj ve
+solunum felci bildirilmiştir.
+Uygulama yolundan bağımsız olarak aminoglikozitleri uygularken solunum felci riski,
+özellikle anestezik veya nöromüsküler bloker alan hastalarda göz önünde bulundurulmalıdır
+(bkz. bölüm 4.5 “Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri").
+Nöromüsküler blokaj meydana gelirse, kalsiyum tuzları solunum felcini hafifletebilir, ancak
+mekanik ventilasyon gerekli olabilir.
+Hayvan çalışmalarında, yüksek dozda amikasin uygulandıktan sonra nöromüsküler blokaj ve
+kas felci bildirilmiştir.
+Aminoglikozitler, myastenia gravis veya parkinsonizm gibi kas bozuklukları olan hastalarda
+dikkatli kullanılmalıdır, çünkü bu ilaçlar nöromüsküler kavşak üzerindeki potansiyel kürar
+benzeri etkileri nedeniyle kas zayıflığını şiddetlendirebilir.
+Böbrek toksisitesi:
+Aminoglikozitler potansiyel olarak nefrotoksiktir. Renal toksisite, elde edilen zirve plazma
+düzeylerinden (C ) bağımsız olarak ortaya çıkar.
+maks
+Böbrek fonksiyon bozukluğu olan hastalarda ve yüksek doz veya uzun süreli tedavi alan
+hastalarda nefrotoksisite riski artar.
+Hastalarda amikasin tedavisi sırasında yeterli hidratasyon sağlanmalı ve tedaviye başlamadan
+önce ve tedavi süresince günlük olarak böbrek fonksiyonları olağan yöntemlerle
+9 / 24değerlendirilmelidir.
+İdrar tahlillerinde silindir, lökosit, eritrosit ve albüminüri görülmesi, azalmış kreatinin klirensi,
+azalmış idrar özgül ağırlığı, artmış BUN, serum kreatinin veya oligüri gibi böbrek fonksiyon
+bozukluğu kanıtı ortaya çıkarsa, dozajın azaltılması gerekir. Azotemi artarsa veya idrar
+çıkışında ilerleyici bir azalma meydana gelirse tedavi durdurulmalıdır.
+Yaşlı hastalarda BUN (kan üre azotu) veya serum kreatinin gibi rutin tarama testlerinde
+görülmeyebilecek şekilde böbrek fonksiyonlarında azalma olabilir. Kreatinin klirensi tayini
+daha fazla yardımcı olabilir. Aminoglikozitlerle tedavi sırasında yaşlı hastalarda böbrek
+fonksiyonunun izlenmesi özellikle önemlidir.
+Böbrek fonksiyonu ve sekizinci kraniyal sinirin işlevi, özellikle tedavinin başlangıcında bilinen
+veya şüphelenilen böbrek yetmezliği olan hastalarda ve ayrıca böbrek fonksiyonu başlangıçta
+normal olan ancak tedavi sırasında böbrek yetmezliği belirtileri gelişen hastalarda yakından
+izlenmelidir.
+Yeterli seviyeleri sağlamak ve potansiyel toksik seviyelerden kaçınmak için serum amikasin
+konsantrasyonları izlenmelidir (mümkün olduğunda). İdrar, azalmış yoğunluk, artan protein
+atılımı ve hücrelerin veya silindirlerin varlığı açısından incelenmelidir. BUN (kan üre azotu),
+serum kreatinin veya kreatinin klirensi periyodik olarak ölçülmelidir. Özellikle yüksek riskli
+hastalarda odyogramlar tekrarları (mümkünse) yapılmalıdır. Ototoksisite (baş dönmesi, kulak
+çınlaması, kulak çınlaması ve işitme kaybı) veya nefrotoksisite kanıtları görülürse, ilaç
+kesilmeli ya da dozu ayarlanmalıdır.
+Diğer nörotoksik veya nefrotoksik ürünlerin, özellikle bazitrasin, sisplatin, amfoterisin B,
+sefaloridin, paromomisin, viomisin, polimiksin B, kolistin, vankomisin veya diğer
+aminoglikozitlerin eşzamanlı ve/veya sıralı sistemik, oral veya topikal kullanımından
+kaçınılmalıdır. Toksisite riskini artırabilecek diğer faktörler ileri yaş ve dehidrasyondur.
+Aminoglikozitlerin inaktivasyonu sadece ciddi böbrek yetmezliği olan hastalarda klinik olarak
+anlamlıdır. Analiz için toplanan vücut sıvısı örneklerinde inaktivasyon devam edebilir ve bu da
+yanlış aminoglikozit düzey okumalarına neden olabilir. Bu tür numuneler uygun şekilde ele
+alınmalıdır (hemen analiz edilmeli, dondurulmalı veya beta-laktamaz ile muamele edilmelidir).
+Clostridium difficile’nin neden olduğu diyare/psödomembranöz kolit oluşur. Bu nedenle ishalli
+10 / 24hastalar yakından izlenmelidir.
+Diğer
+Aminoglikozitler, mesane dışındaki cerrahi prosedürlerde topikal olarak uygulandıklarında
+hızlı ve neredeyse tamamen emilirler. Hem küçük hem de büyük cerrahi alanların bir
+aminoglikozit preparatı ile irige edilmesinden sonra geri dönüşümsüz sağırlık, böbrek
+yetmezliği ve nöromüsküler blokaja bağlı ölüm bildirilmiştir.
+Uzun süreli antibiyotik kullanımı bazen dirençli patojenlerin aşırı büyümesine neden olabilir.
+Hasta bu konuda sürekli izlenmelidir. Tedavi sırasında bir süper enfeksiyon meydana gelirse,
+uygun önlemler alınmalıdır.
+Amikasinin intravitreal uygulamasını (göze enjeksiyon) takiben bazen kalıcı görme kaybına
+yol açan makula enfarktüsü bildirilmiştir.
+Bu ürün her bir ampulünde 13 mg sodyum metabisülfit içerir. Nadir olarak şiddetli alerjik
+reaksiyonlara (muhtemelen gecikmiş) ve bronkospazma neden olabilir.
+Bu tıbbi ürün her dozunda 1 mmol (23 mg)’dan daha az sodyum ihtiva eder; yani sodyum
+içermediği kabul edilebilir.
+Pediyatrik kullanım
+Aminoglikozitler, bu hastaların renal immatüritesi ve sonuçta bu ilaçların serum yarılanma
+ömründe ortaya çıkan uzama nedeniyle prematüre ve yenidoğan bebeklerde dikkatle
+kullanılmalıdır.
+4.5. Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+Diğer nörotoksik, ototoksik veya nefrotoksik ajanların, özellikle bazitrasin, sisplatin,
+amfoterisin B, siklosporin, takrolimus, sefaloridin, paromomisin, viomisin, polimiksin B,
+kolistimetat / kolistin, vankomisin veya diğer aminoglikozitlerin eşzamanlı veya tekrarlanan
+kullanımından, ilave etki riski nedeniyle sistemik veya lokal uygulamadan kaçınılmalıdır.
+Aminoglikozit antibiyotiklerin ve sefalosporinlerin eşzamanlı parenteral uygulamasını takiben
+artmış nefrotoksisite bildirilmiştir. Bir sefalosporin ile eşzamanlı tedavi, yanlış yüksek
+kreatinin serum seviyesi tayinlerine de neden olabilir.
+11 / 24Amikasin hızlı etkili diüretik ilaçlarla birlikte kullanıldığında, özellikle de diüretik intravenöz
+olarak uygulandığında, ototoksisite riski artmaktadır. Diüretikler, serum ve dokudaki
+antibiyotik konsantrasyonlarını değiştirerek aminoglikozit toksisitesini artırabilir. Bu tür
+ajanlar arasında furosemid ve kendisi de ototoksik bir ajan olan etakrinik asit bulunur. Geri
+dönüşü olmayan sağırlık ortaya çıkabilir.
+Penisilin tipi ilaçların eş zamanlı kullanımı ile aminoglikozitlerin aktivitesinde bir azalma
+meydana gelebilir.
+Aminoglikozitler bifosfonatlarla uygulandığında hipokalsemi riski artar.
+Aminoglikozitler platin bileşikleri ile uygulandığında nefrotoksisite ve muhtemelen
+ototoksisite riski artar.
+Eşzamanlı olarak uygulanan tiamin (B vitamini), amikasin sülfat formülasyonunun reaktif
+1
+sodyum metabisülfit bileşeni tarafından yok edilebilir.
+Anestezik veya kas gevşetici ilaçlar (d-tubokurarin, süksinilkolin, dekametonyum, atrakuryum,
+roküronyum, vekuronyum gibi) alan hastalarda veya masif sitrat-antikoagüle kan transfüzyonu
+alan hastalarda nöromüsküler blokaj ve buna bağlı solunum depresyonu oluşabilir.
+Bazı antibiyotikler, nadir durumlarda, bağırsaktaki steroid konjugatlarının bakteriyel
+hidrolizine ve dolayısıyla konjuge olmayan steroidin yeniden emilmesine müdahale ederek
+oral kontraseptiflerin etkinliğini azaltabilir.
+Böylece, aktif steroidin plazma seviyeleri azalacaktır. Bu olağandışı etkileşim, steroid
+konjugatlarının biliyer atılımı yüksek olan kadınlarda ortaya çıkacaktır. Bu etkileşim amikasin
+için bildirilmemiştir.
+İndometazin yenidoğanlarda amikasinin plazma konsantrasyonunu artırabilir.
+4.6. Gebelik ve laktasyon
+Genel tavsiye
+Gebelik kategorisi: D
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü/Kontrasepsiyon
+Amikasin gebelik sırasında kullanılırsa ya da bu ilacı kullanırken hasta gebe kalırsa, hasta
+fetusta meydana gelebilecek potansiyel hasar konusunda uyarılmalıdır.
+12 / 24Gebelik dönemi
+Aminoglikozitlerin gebelik sırasında kullanımına ilişkin sınırlı düzeyde veri mevcuttur.
+Aminoglikozitler fetusa zarar verebilir. Aminoglikozitler plasentayı geçebildiğinden,
+anneleri gebelik sırasında streptomisin kullanan çocuklarda total, geri dönüşümsüz, iki taraflı
+konjenital sağırlık vakaları bildirilmiştir. Diğer aminoglikozitlerle tedavi edilen gebe
+kadınlarda fetus ya da yenidoğan üzerinde advers etkiler bildirilmemiş olsa da hasar görme
+potansiyeli mevcuttur.
+Amikasin hamile kadınlarda ve yenidoğanlarda yalnızca kesin olarak endike olduğu
+durumlarda ve tıbbi gözetim altında kullanılmalıdır (bkz. bölüm 4.4).
+Hamilelik sırasında amikasin kullanılırsa veya hasta bu ilaçla tedavi sırasında hamile kalırsa,
+hasta fetüs için olası riskler konusunda bilgilendirilmelidir.
+Laktasyon dönemi
+Amikasinin anne sütüne geçip geçmediği bilinmemektedir. Emzirmeye mi yoksa tedaviye mi
+son verilmesi gerektiği konusunda bir karar verilmelidir.
+Üreme yeteneği/Fertilite
+Farelerde ve sıçanlarda üreme toksisitesi çalışmalarında, fertilite üzerinde herhangi bir etki
+veya fetal toksisite bildirilmemiştir.
+4.7 Araç ve makine kullanımı üzerindeki etkiler
+Araç kullanma yeteneği ve makine kullanımı ile ilgili herhangi bir çalışma yapılmamıştır.
+Bununla birlikte, bazı yan etkilerin ortaya çıkması (bkz. bölüm 4.8) araç ve makine kullanma
+yeteneğini bozabilir.
+4.8 İstenmeyen etkiler
+Tüm aminoglikozidler ototoksisite, renal toksisite ve nöromüsküler blokajı indükleyebilir.
+Bu toksisitelerin riski, böbrek fonksiyon bozukluğu olan, önerilen dozdan daha fazla alan,
+uzun süreli tedavi alan hastalarda ve diğer ototoksik veya nefrotoksik ilaçlarla tedavi edilen
+hastalarda daha fazladır (bkz. bölüm 4.4 "Özel kullanım uyarıları ve önlemleri").
+AMİKAVER kullanımına ilişkin istenmeyen etkiler için aşağıdaki terimler ve sıklık dereceleri
+kullanılmıştır: Çok yaygın (≥/10); yaygın (≥1/100 ila <1/10); yaygın olmayan (≥ 1/1.000
+13 / 24ila <1/100); seyrek (≥ 1/10.000 ila <1/1.000); çok seyrek (<1/10.000), bilinmiyor (eldeki
+verilerden hareketle tahmin edilemiyor).
+Enfeksiyon ve enfestasyonlar
+Yaygın olmayan : Süper enfeksiyon ya da dirençli bakteri veya maya ile kolonizasyon*
+Kan ve lenf sistemi hastalıkları
+Seyrek : Anemi, eozinofili, granülositopeni, lökopeni, trombositopeni
+Bağışıklık sistemi hastalıkları
+Bilinmiyor : Anafilaktik yanıt (anafilaktik reaksiyon, anafilaktik şok ve anafilaktoid
+reaksiyon), aşırı duyarlılık
+Metabolizma ve beslenme hastalıkları
+Seyrek : Hipomagnezemi
+Sinir sistemi hastalıkları
+Yaygın : Baş dönmesi
+Seyrek: Tremor*, parestezi*, başağrısı, denge bozuklukları
+Bilinmiyor : Akut musküler paralizi*
+Göz hastalıkları
+Seyrek: Körlük**, retina enfarktüsü**
+Kulak ve iç kulak hastalıkları
+Yaygın: Bulantılı vestibüler bozukluklar
+Seyrek : Kulak çınlaması*, işitme kaybı*
+Bilinmiyor : Sağırlık*, nörosensoryel sağırlık*
+Kardiyak hastalıklar
+Seyrek : Hipotansiyon, tromboflebit
+Vasküler hastalıklar
+Seyrek : Hipotoni, taşikardi, miyokardit
+14 / 24Solunum, göğüs bozuklukları ve mediastinal hastalıklar
+Bilinmiyor : Apne, bronkospazm
+Gastrointestinal hastalıklar
+Bilinmiyor: Kusma, bulantı
+Hepato-biliyer hastalıklar
+Yaygın olmayan : Plazmada karaciğer fonksiyon testlerinde yükselme (SGOT, SGPT,
+LDH, alkalen fosfataz ve bilirubin)
+Deri ve deri altı doku hastalıkları
+Yaygın olmayan : Döküntü
+Seyrek : Kaşıntı; ürtiker
+Kas-iskelet sistemi ve bağ dokusu hastalıkları
+Seyrek : Artralji, adale kasılmaları*
+Böbrek ve idrar yolu hastalıkları
+Yaygın : Proteinüri, üre düzeylerinde artış
+Seyrek : Oligüri*, serum kreatin düzeylerinde artış*, albüminüri*, idrarda
+eritrosit ve lökosit görülmesi*
+Bilinmiyor : Akut böbrek yetmezliği, toksik nefropati, idrarda hücre görülmesi*
+Genel bozukluklar ve uygulama bölgesine ilişkin hastalıklar:
+Seyrek : Ateş
+Bilinmiyor: Enjeksiyon bölgesinde ağrı
+* Bkz. bölüm 4.4 "Özel kullanım uyarıları ve önlemleri"
+** Amikasin intravitreal kullanım için formüle edilmemiştir. Amikasinin intravitreal
+uygulanmasından (göze enjeksiyon) sonra körlük ve retina enfarktüsü bildirilmiştir.
+Seçili istenmeyen etkilerin tanımı
+Stevens-Johnson sendromu ve toksik epidermal nekroliz dahil olmak üzere deri ve
+mukozal reaksiyon vakaları bildirilmiştir, ancak belirsiz bir bağlantı vardır.
+Böbrek ve idrar yolu hastalıkları
+15 / 24Nefrotoksisite, tübül epitelinin atılımının artması, silindirüri, β2-mikroglobulin atılımında artış,
+idrar yoluyla enzim atılımı (örn. alanin aminopeptidaz, glutamin transferaz, β-galaktosidaz, N-
+asetil-glukozaminidaz), azotemi, idrar ozmolaritesinde azalma, kan üre azotu ve serum
+kreatinininde artış, kreatinin klirensinde azalma ile kendini gösterir. Küçük tahrişlerde
+(albümin, eritrositler, lökositler veya idrarda silindirler) sıvı alımı arttırılmalıdır. İlacın
+kesilmesinden sonra, böbrek yetmezliği genellikle geri dönüşümlüdür.
+Tüm aminoglikozidlerde olduğu gibi, amikasinin ruhsatlandırılmasını takiben nefrotoksisite ve
+akut böbrek yetmezliğini bildiren raporlar vardır.
+Kulak ve labirent bozuklukları
+Tedavi edilen hastaların yaklaşık %0,5-5’inde 8. kraniyal siniri tutan ototoksik reaksiyonlar
+görülür. Bu reaksiyonlar vestibüler veya koklear fonksiyonu içerebilir (bkz. bölüm 4.4 "Özel
+kullanım uyarıları ve önlemleri").
+Amikasin ile tedavi edilirken koklear hasara özel dikkat gösterilmelidir. Bunlar kulak
+çınlaması, kulaklarda basınç ve akustik algıların başlangıçta sadece konuşma aralığının
+üzerindeki yüksek frekans aralığında (> 4000 Hertz) odyometrik olarak tespit edilebilir
+azalması olarak kendini gösterir. Ancak aminoglikozidin kesilmesine rağmen işitme kaybı,
+tam, geri dönüşü olmayan sağırlığa dönüşebilir. Vestibüler bozukluklar baş dönmesi, bulantı ve
+kusma gibi ilk semptomlarla kendini gösterir. Klinik muayenede genellikle bir nistagmus tespit
+edilir. İşitme veya denge bozukluklarının ilk belirtisinde, amikasin tedavisi kesilmelidir.
+Sinir sistemi bozukluğu
+Nöromüsküler blokajlar:
+Aminoglikozitleri kullanırken spesifik riskler çok nadirdir. Solunum durmasına yol açabilen
+nöromüsküler blokaj oluşumu, özellikle intraplevral veya intraperitoneal uygulama ile ortaya
+çıkabilir. Aminoglikozitlerin nöromüsküler bloke edici özellikleri, soluma, narkotikler veya
+kas gevşeticiler veya kürar benzeri ilaçlar ile arttırılır. Özellikle myastenia gravis hastaları risk
+altındadır. Solunum felci suni solunum gerektirir. Ek olarak, potasyum tuzlarının uygulanması
+bir karşı önlem olarak düşünülebilir.
+Bağışıklık sistemi bozuklukları
+Sülfit içeriği nedeniyle özellikle bronşiyal astımda, bireysel vakalarda kusma, ishal, hırıltılı
+solunum, akut astım krizi, bilinç bozukluğu veya şok olarak ortaya çıkabilen aşırı duyarlılık
+reaksiyonlarına yol açabilir. Bu reaksiyonlar bireysel olarak büyük ölçüde değişebilir ve
+16 / 24yaşamı tehdit eden durumlara yol açabilir.
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TÜFAM)’ne bildirilmeleri gerekmektedir. (www.titck.gov.tr;
+e-posta: tufam@titck.gov.tr; tel: 0 800 314 00 08; faks: 0 312 218 35 99)
+4.9. Doz aşımı ve tedavisi
+Doz aşımı durumunda, nefrotoksik, ototoksik ve nörotoksik (nöromüsküler blokaj)
+reaksiyonlar için önemli bir risk vardır. Solunumsal nöromüsküler blokaj, kalsiyumun iyonize
+formda kalsiyum (örneğin %10-20 çözelti içinde glukonat veya laktobiyonat olarak)
+uygulanması da dahil olmak üzere derhal tedavi edilmelidir (bkz. bölüm 4.4 "Özel kullanım
+uyarıları ve önlemleri"). Doz aşımı veya toksik reaksiyon durumlarında, amikasin peritoneal
+diyalizle ya da hemodiyaliz ile kandan uzaklaştırılabilir. Sürekli arteriyo-venöz hemofiltrasyon
+da amikasinin düzeylerinde azalmaya yol açar. Yenidoğanlarda değişim transfüzyonu
+düşünülebilir.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1. Farmakodinamik özellikler
+Farmakoterapötik grup: Sistemik kullanılan antiinfektifler, aminoglikozid antibakteriyeller
+ATC Kodu: J01GB06
+Amikasin, bakterinin protein sentezini durdurarak çalışan kanamisinin türevi yarı sentetik
+aminoglikozit bir antibiyotiktir. Bakterisidal bir etkisi vardır.
+Etki mekanizması
+Amikasinin etki mekanizması, rRNA ile etkileşim ve ardından translasyonun inhibisyonu ile
+bakteriyel ribozom üzerindeki protein biyosentezinin bozulmasından kaynaklanır.
+Bu bakterisidal bir etkiye neden olur.
+Farmakokinetik ve farmakodinamik arasındaki ilişki
+Etkinlik, esas olarak patojenin maksimum serum konsantrasyonu (C ) ve minimum inhibitör
+maks
+17 / 24konsantrasyonu (MIK) oranına bağlıdır.
+Direnç mekanizmaları
+Amikasine direnç, aşağıdaki mekanizmalara bağlı olabilir:
+• Enzimatik inaktivasyon: Aminoglikozit moleküllerinin enzimatik modifikasyonu,
+direncin en yaygın mekanizmasıdır. Bundan asetiltransferazlar, fosfotransferazlar veya
+nükleotidiltransferazlar sorumludur ve bunların çoğu plazmid kodludur. Amikasin,
+aminoglikozit inaktive edici enzimlere karşı oldukça kararlıdır. Bu nedenle gentamisin ve
+diğer aminoglikozidlere dirençli olan bakterileri inhibe edebilir.
+• Azaltılmış penetrasyon ve aktif dışa akış: Bu direnç mekanizmaları esas olarak
+Pseudomonas aeruginosa’da bulunur.
+• Hedef yapının değişmesi: Ribozomlardaki değişiklikler direncin nedenidir.
+Amikasinin diğer aminoglikozit antibiyotiklerle kısmi çapraz direnci vardır.
+Eşik değerler
+Amikasin testi, olağan seri seyreltme kullanılarak gerçekleştirilir. Hassas ve dirençli patojenler
+için aşağıdaki minimum inhibitör konsantrasyonlar belirlenmiştir:
+Amikasin için EUCAST Klinik MIK Kesme Noktaları (EUCAST Klinik Kesme Noktası
+tablosu sürüm 13.0, 01-01-2023 tarihinden itibaren geçerlidir).
+Patojen Türle ilgili kırılma noktaları, mg/L amikasin
+(Duyarlı ≤ / Dirençli >)
+Enterobakteriler (sistemik enfeksiyonlar) 8/8 1
+Enterobakteriler (idrar yolu kaynaklı 8/8
+enfeksiyonlar)
+Pseudomonas türleri (sistemik 16/16 1
+enfeksiyonlar)
+Pseudomonas türleri (idrar yolu kaynaklı 16/16
+enfeksiyonlar)
+Acinetobacter türleri (sistemik 8/8 1
+enfeksiyonlar)
+Acinetobacter türleri (idrar yolu kaynaklı 8/8
+18 / 24enfeksiyonlar)
+Staphylococcus türleri (S. aureus) 16/16 1
+Staphylococcus türleri (koagülaz-negatif 16/16
+stafilokoklar)
+Enterococcus türleri Not 2 / Not 2
+Viridans grubu streptokoklar Not 2 / Not 2
+Haemophilus influenzae YK / YK
+Morexella catarrhalis YK / YK
+Farmakokinetik-farmakodinamikle ilişkili 1 / 1
+(türden bağımsız) kırılma noktaları
+1 Sistemik enfeksiyonlar için, aminoglikozidler diğer aktif tedavi ile kombinasyon
+halinde kullanılmalıdır. Bu durumda, parantez içindeki değer, yabanıl (wild) tip
+organizmalar ile edinilmiş direnç mekanizmalarına sahip organizmaları ayırt etmek
+için kullanılabilir.
+Not2 İzolatın penisilin veya glikopeptide duyarlı olması durumunda penisilinler veya
+glikopeptidlerle sinerji beklenebilir.
+YK Yetersiz kanıt
+Bireysel türlerin edinilmiş direncinin prevalansı, yere ve zamana göre değişebilir. Bu nedenle,
+özellikle ciddi enfeksiyonların yeterli tedavisi için direnç durumu hakkında yerel bilgi
+gereklidir. Lokal direnç durumu nedeniyle amikasinin etkililiği şüpheli ise, uzman
+danışmanlığına başvurulmalıdır. Özellikle ciddi enfeksiyonlar veya tedavi başarısızlıkları
+durumunda, patojenin tespiti ve amikasine duyarlılığı ile mikrobiyolojik bir tanı aranmalıdır.
+Duyarlı Türler
+Aerop gram-pozitif mikroorganizmalar
+Staphylococcus aureus
+Staphylococcus haemolyticus
+Staphylococcus hominis
+Aerop gram-negatif mikroorganizmalar
+Koagülaz negatif stafilokoklar
+Citrobacter freundii
+19 / 24Enterobacter aerogenes
+Enterobacter cloacae
+Escherichia coli
+Haemophilus influenzae
+Klebsiella oxytoca
+Klebsiella pneumoniae
+Morganella morganii
+Proteus mirabilis
+Proteus vulgaris
+Providencia
+Pseudomonas aeruginosa 1
+Salmonella enterica (enteritis salmonella)
+Serratia liquefaciens °
+Serratia marcescens
+Shigella türleri
+Kazanılmış direncin problem olabileceği türler
+Anaerop gram-pozitif mikroorganizmalar
+Staphylococcus epidermis
+Anaerop gram-negatif mikroorganizmalar
+Acinetobacter baumannii
+Doğal dirençli türler
+Aerop gram-pozitif mikroorganizmalar
+Enterococcus türleri
+Streptococcus türleri
+Pneumococcus
+Aerop gram-negatif mikroorganizmalar
+Burkholderia cepacia
+Stenotrophomonas maltophilia
+Meningococcus
+20 / 24Anaerop mikroorganizmalar
+Bacteroides türleri
+Prevotella türleri
+Clostridium difficile
+Legionella
+Diğer mikroorganizmalar
+Chlamydia türleri
+Chlamydophila türleri
+Mycoplasma türleri
+Urea plasma urealyticum
+o Tablolar yayınlandığında en son veri bulunmuyordu. Duyarlılık düzeyi birincil literatür,
+standart çalışmalar ve tedavi önerileri dikkate alınarak varsayılmıştır.
+1 Belirli hasta gruplarındaki izolatlar için, örneğin kistik fibrozisli hastalar için, direnç oranı
+≥%10’dır.
+Direnç Pseudomonas aeruginosa’da %1 ila %10 oranında oluşur ve koagülaz negatif
+stafilokoklarda sık görülür (>%10).
+Bir beta-laktam antibiyotik ile kombinasyon halinde, streptokok ve enterokoklar dahil olmak
+üzere çoğu bakteriye karşı sinerjik bir etki elde edilir.
+5.2. Farmakokinetik özellikler
+Genel özellikler
+Emilim:
+Amikasin intramusküler enjeksiyonu takiben hızla emilir. İntramusküler olarak 250 mg ve 500
+mg’lık dozların uygulanmasından 1 saat sonra sırasıyla yaklaşık 12 mikrogram/mL ve 21
+mikrogram/mL’lik pik serum düzeylerine ulaşılır. Enjeksiyondan 10 saat sonra gözlenen
+düzeyler sırasıyla 0,3 mikrogram/mL ve 2,1 mikrogram/mL’dir.
+Otuz dakika boyunca 500 mg (7,5 mg/kg) intravenöz infüzyonunda, infüzyondan hemen sonra
+ortalama 38 mikrogram/mL maksimum serum konsantrasyonu ve infüzyonun bitiminden 30
+dakika sonra 24 mikrogram/mL’lik bir konsantrasyon elde edilir. 15 mg/kg infüzyon
+durumunda, karşılık gelen konsantrasyonlar sırasıyla 77 mikrogram/mL ve 47
+21 / 24mikrogram/mL’dir.
+Dağılım:
+Amikasinin plazma proteinlerine bağlanması düşüktür ve %0 ila %11 arasında değişir.
+Dağılım hacmi bir yetişkinde yaklaşık 24 litre veya vücut ağırlığının yaklaşık %28’idir.
+Amikasin, parenteral uygulamadan sonra hızla farklı dokulara dağılır. Sağlam meninkslerde
+amikasin küçük miktarlarda beyin omurilik sıvısına geçerken, menenjitte kan-BOS bariyerini
+daha kolay geçer. Tekrarlanan dozlar ile birikim yoktur.
+Biyotransformasyon:
+Amikasin metabolize edilmez ve hemen hemen sadece glomerüler filtrasyon ile aktif formda
+atılır. Normal böbrek fonksiyonunda, yarılanma ömrü yaklaşık 2 saattir.
+Birden fazla günlük dozla yapılan çalışmalardan elde edilen veriler, normal çocuklarda beyin
+omurilik sıvısı seviyelerinin serum konsantrasyonunun yaklaşık %10-20’si olduğunu ve
+menenjitte %50’ye kadar çıkabileceğini göstermektedir.
+Eliminasyon:
+Amikasin hemen hemen sadece glomerüler filtrasyon ile aktif formda atılır. Belirli bir dozun
+%92’si 8 saat içinde idrarda değişmeden atılır ve %98’i 24 saat içinde idrarla atılır.
+Böbrek fonksiyon bozukluğu durumunda, atılım önemli ölçüde gecikir.
+İntramusküler ve intravenöz uygulama
+Yenidoğanlarda ve özellikle de prematüre bebeklerde, amikasinin renal eliminasyonu
+azalmaktadır.
+Çocuklarda deneyimler
+Günlük olarak yapılan doz çalışmalarından elde edilen veriler, normal çocuklarda BOS
+seviyelerinin serum konsantrasyonlarının yaklaşık %10 ila 20’si olduğunu ve menenjitte
+%50’ye ulaşabileceğini göstermektedir.
+Yenidoğanlarda ve özellikle de prematüre bebeklerde, amikasinin renal eliminasyonu
+azalmaktadır.
+Yenidoğanlarda (1-6 günlük) yapılan bir çalışmada, çocuklar doğum ağırlığına göre
+gruplandırıldı (<2000 g, 2000-3000 g ve >3000 g). Amikasin intramüsküler ve/veya intravenöz
+olarak 7,5 mg/kg’lık bir dozda verildi. 3000 g’ın üzerindeki neonatal klirens 0,84 mL/dak/kg
+22 / 24ve terminal yarılanma ömrü yaklaşık 7 saat olarak bulunmuştur. Bu grupta, başlangıç dağılım
+hacmi 0,3 mL/kg ve kararlı durumda dağılım hacmi 0,5 mL/kg idi. Düşük doğum ağırlığı
+gruplarında, klirens/kg daha düşüktü ve yarılanma ömrü daha uzundu. Belirtilen tüm gruplarda
+her 12 saatte bir tekrarlanan dozlamayla, 5 gün sonra birikim göstermedi.
+5.3. Klinik öncesi güvenlilik verileri
+Amikasinin kanserojen veya mutajenik potansiyeli değerlendirmek için uzun süreli bir çalışma
+yapılmamıştır.
+Sıçanlarda yapılan çalışmalar, insanlar için önerilen dozun 10 katına kadar günlük dozların
+erkek ve kadın doğurganlığı üzerinde herhangi bir olumsuz etkiye neden olmadığını
+göstermiştir.
+Laboratuvar hayvanlarında yüksek dozlardan sonra nöromüsküler blokaj görülmüştür (bkz.
+bölüm 4.4).
+6. FARMASÖTİK ÖZELLİKLER
+6.1. Yardımcı maddelerin listesi
+Sodyum metabisülfit (E223)
+Sodyum sitrat dihidrat
+Enjeksiyonluk su
+Sülfürik asit (pH ayarı için)
+6.2. Geçimsizlikler
+Amikasin gibi aminoglikozidler diğer ilaçlarla birlikte uygulanmamalı, ayrı olarak
+uygulanmalıdır. Aminoglikozidler ve penisilinler, antibakteriyel aktivite kaybı ile in vitro
+olarak birbirlerini etkisiz hale getirebilir.
+6.3. Raf ömrü
+24 ay.
+Tek kullanımlıktır. Kalan miktarlar atılmalıdır.
+Seyreltmeden sonra:
+25 °C’de 36 saat, -15 °C’de 30 gün ve 4 °C’de 60 gün boyunca kimyasal ve fiziksel kullanım
+stabilitesi gösterilmiştir.
+23 / 24Mikrobiyolojik açıdan bakıldığında, ürün hemen kullanılmalıdır. Hemen kullanılmazsa,
+kullanım sırasındaki saklama süreleri ve kullanımdan önceki koşullar kullanıcının
+sorumluluğundadır ve kontrollü ve doğrulanmış aseptik koşullarda seyreltme
+gerçekleşmedikçe, normalde 2 °C ila 8 °C arasında 24 saatten uzun olmayacaktır.
+6.4. Saklamaya yönelik özel tedbirler
+Özel bir saklama koşulu bulunmamaktadır.
+15-30 °C arasında saklanmalıdır. Ampul dondurulmamalıdır.
+6.5. Ambalajın niteliği ve içeriği
+2 mL’lik renksiz cam ampul (hidrolitik sınıf, tip I)
+2 mL’lik ampuller 1, 50 veya 100 ampul içeren kutularda sunulmaktadır.
+6.6. Tıbbi ürünlerden arta kalan maddelerin imhası ve diğer özel önlemler
+Kullanılmamış olan ürünler ya da atık materyaller “Tıbbi Atıkların Kontrolü Yönetmeliği” ve
+“Ambalaj ve Ambalaj Atıkları Kontrolü Yönetmeliği”ne uygun olarak imha edilmelidir.
+7. RUHSAT SAHİBİ
+OSEL İlaç San. ve Tic. A.Ş.
+Akbaba Mah. Maraş Cad. No:52
+Beykoz/İSTANBUL
+Tel: (0216) 320 45 50
+Faks: (0216) 320 45 56
+8. RUHSAT NUMARASI
+192/3
+9. İLK RUHSAT TARİHİ / RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi: 30.06.1999
+Ruhsat yenileme tarihi: --
+10. KÜB’ÜN YENİLENME TARİHİ
+24 / 24

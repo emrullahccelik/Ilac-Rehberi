@@ -1,0 +1,359 @@
+KISA ÜRÜN BİLGİSİ
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+REGIOCIT 5,03 g/L + 5,29 g/L renal replasman ve bölgesel antikoagülasyon çözeltisi
+Steril
+2. KALİTATİF ve KANTİTATİF BİLEŞİM
+Etkin madde:
+Sodyum klorür 5,03 g/L
+Sodyum sitrat 5,29 g/L
+Sodyum, Na+ 140 mmol/L
+Klorür, Cl- 86 mmol/L
+Sitrat, C H O 3- 18 mmol/L
+6 5 7
+Teorik osmolarite : 244 mOsm/L
+pH ≈ 7.4
+Yardımcı madde:
+Yardımcı maddeler için bölüm 6.1’e bakınız.
+3. FARMASÖTİK FORM
+Hemofiltrasyon çözeltisi
+Çözelti steril, berrak ve renksizdir ve bakteriyel endotoksin içermez.
+4. KLİNİK ÖZELLİKLER
+4.1. Terapötik endikasyonlar
+REGIOCIT bölgesel sitrat pıhtılaşma önlemesi kullanan sürekli renal replasman tedavisi (CRRT) için
+replasman sıvısı olarak endikedir. Sitrat özellikle örneğin kanama riski artmış hastalarda sistemik
+pıhtılaşma önleyicisinin, yani heparinin kontrendike olduğu durumlarda önemlidir.
+REGIOCIT pediatrik hastalarda kullanılan ekipmanın çocuğun ağırlığına adapte edilmiş olması
+şartıyla tüm yaş gruplarında endikedir.
+4.2. Pozoloji ve uygulama şekli
+1Pozoloji/uygulama sıklığı ve süresi:
+REGIOCIT'in uygulanma oranı, hedeflenen sitrat dozuna ve öngörülen kan akış hızına (BFR)
+bağlıdır. REGIOCIT reçetesinde atık su ve diğer terapötik sıvıların akış hızları, hastanın sıvı alma
+gereksinimleri, ek sıvı giriş ve çıkışları ve istenen asit-baz ve elektrolit dengesi dikkate alınmalıdır.
+Yoğun bakım tıbbında ve CRRT’de REGIOCIT ancak deneyimli bir hekim tarafından reçetelenmeli
+ve uygulanmalıdır (doz, infüzyon hızı ve kümülatif hacim).
+REGIOCIT'in ön filtre infüzyon hızı 3 ila 4 mmol / lt kan sitrat konsantrasyonu hedefine ulaşacak
+şekilde reçete edilmeli ve uygulama kan akış hızına göre uyarlanmalıdır.
+Ekstrakorporeal devrenin antikoagülasyonu için akış hızı 0,25 ila 0,35 mmol / lt aralığında filtrasyon
+sonrası iyonize kalsiyum konsantrasyonu elde edilecek şekilde titre edilmelidir. Hastanın sistemik
+iyonize kalsiyum konsantrasyonu, kalsiyum desteği ayarlanarak normal fizyolojik aralıkta
+tutulmalıdır.
+Sitrat ayrıca bir tampon kaynağı olarak da işlev görür (bikarbonat'a dönüşüm nedeniyle).
+REGIOCIT'in infüzyon hızı, diğer kaynaklardan (örneğin, diyalizat ve / veya replasman sıvısı)
+sağlanan tampon uygulaması hızına bağlı olarak düşünülmelidir. REGIOCIT, uygun bikarbonat
+konsantrasyonuna sahip bir diyaliz çözeltisi / replasman çözeltisi ile birlikte kullanılmalıdır.
+Her zaman ayrı bir kalsiyum infüzyonu gerekir. Antikoagülasyon durdurulduğunda doktorun
+reçetesine göre kalsiyum infüzyonunu ayarlayın veya durdurun.
+Filtrasyon sonrası kan iyonize kalsiyum (iCa), sistemik kan iCa ve toplam kan kalsiyum seviyelerinin
+diğer laboratuvar ve klinik parametrelerle birlikte izlenmesi, istenen antikoagülasyon seviyesine bağlı
+olarak uygun REGIOCIT dozajını belirlemek için esastır (bkz. Bölüm 4.4).
+Plazma sodyum, magnezyum, potasyum ve fosfat seviyeleri düzenli olarak izlenmeli ve gerektiğinde
+desteklenmelidir.
+Erişkinler: Erişkin ve adölesanlarda REGIOCIT için akış hızları:
+• Sürekli venö venöz hemofiltrasyonda
+• 100 ila 200 ml/dak arasında kan akış hızında 1-2,5 L/saat
+• Sürekli veno-venöz hemodiyafiltrasyonda
+• 100 ila 200 ml/dak arasında kan akış hızında 1-2 L/saat
+Uygulama şekli:
+2İntravenöz kullanım içindir. REGIOCIT yalnızca ön-seyreltme modunda, CRRT’ye yönelik uygun
+ekstrakorporeal renal replasman ekipmanıyla birlikte, çözelti akış hızının operatör tarafından
+belirlenmiş hedef doza (mmol sitrat/lt kan) göre otomatik olarak uyarlandığı sitrat
+antikoagülasyonuna özel bir pompa kullanılarak uygulanmalıdır.
+REGIOCIT, CRRT'de bölgesel sitrat antikoagülasyonu uygulamasında uzman bir doktor tarafından
+veya bu doktorun yönlendirmesi altında kullanılmalıdır.
+Özel popülasyonlara ilişkin ek bilgiler:
+Böbrek/Karaciğer yetmezliği:
+Hafif ve orta şiddette karaciğer yetmezliği olan hastalarda (örneğin Child-Pugh ≤12) doz azaltımı
+gerekebilir. Karaciğer yetmezliği durumunda (örneğin karaciğer sirozu dahil), metabolizma yetersiz
+olabileceğinden başlangıç sitrat dozu düşürülmelidir. (Bkz. Bölüm 4.4). Sitrat birikiminin sıkça
+izlenmesi önerilir. REGIOCIT, sınırlı sitrat metabolizması nedeniyle karaciğer fonksiyonu ciddi
+şekilde azalmış veya kas hipoperfüzyon şoku (örneğin septik şok ve laktik asidoz gibi koşullar) olan
+hastalara uygulanmamalıdır.(Bkz. Bölüm 4.3).
+Pediyatrik popülasyon:
+REGIOCIT yenidoğanlar ve bebeklerde (0 ila 23 ay arası) sürekli veno-venöz hemofiltrasyon veya
+hemodiafiltrasyon ile her bir litre kan akışı için 3 mmol sitrat dozu hedeflenmelidir. Çocuklarda (2
+ila 11 yaş) dozaj hastanın ağırlığına ve kan akış hızına göre uyarlanmalıdır.
+Geriyatrik popülasyon:
+Yaşlılarda yetişkinlere kıyasla dozajda belirli bir değişiklik yoktur.
+4.3. Kontrendikasyonlar
+REGIOCIT’in etkin maddelerine ya da bölüm 6.1’de listelenmiş olan yardımcı maddelerden herhangi
+birisine aşırı duyarlılık,
+Ağır derecede hasar görmüş karaciğer fonksiyonu,
+Kas hiperfüzyon şoku durumlarında kullanılmamalıdır.
+4.4. Özel kullanım uyarıları ve önlemleri
+REGIOCIT doğrudan intravenöz infüzyon için değildir. CRRT için tasarlanan uygun ekstrakorporeal
+renal replasman ekipmanı ile, sadece önceden seyreltilerek kullanılmalıdır. Diyaliz makinesi sitrat
+antikoagülasyonu için uygun olmalıdır.
+3REGIOCIT hastanın konforunu arttırmak için 37° C'ye kadar ısıtılabilir. Çözeltinin kullanımdan önce
+ısıtılması sadece kuru sıcaklıkta yapılmalıdır. Hastanın yaralanmasına veya rahatsız hissetmesine
+neden olabileceğinden, çözeltiler su veya mikrodalga fırında ısıtılmamalıdır. REGIOCIT,
+uygulamadan önce, çözeltinin ve kabın izin verdiği hallerde partikül madde ve renk değişikliği
+olmadığından emin olmak için görsel olarak kontrol edilmelidir. Çözelti berrak değilse ve kapağı
+sağlam değilse uygulama yapmayın.
+Dış ambalaj ve çözelti torbası hasarlı değilse görmemişse kullanın. Kontamine olmuş bir çözeltinin
+kullanılması sepsise ve şoka neden olabilir.
+REGIOCIT'in bileşimi göz önüne alındığında, tedavide kullanılan diğer çözeltiler uygun hidrojen
+karbonat konsantrasyonuna sahip olmalıdır.
+REGIOCIT, hastanın elektrolitini ve asit-baz dengesini etkileyebilen sitrat içerir. Hastanın
+hemodinamik durumu, sıvı dengesi, glikoz seviyesi, elektrolit ve asit / baz dengesi tedavi öncesi ve
+tedavi sırasında yakından izlenmelidir.
+Sodyum, magnezyum, potasyum, fosfat ve kalsiyumu yakından izleyin. İnfüzyon girişleri ve tüm
+çıkışların değerlendirilmesi de dahil olmak üzere kan konsantrasyonu ve hastaların ihtiyaçları günde
+birkaç kez değerlendirilmelidir. Herhangi bir kaybı tamamlamak için elektrolitlerin infüzyonu
+gerekebilir (bkz. Bölüm 4.8 ve 4.9).
+REGIOCIT kalsiyum içermez ve atık sudaki sitratla bağlı kalsiyum kaybı ve / veya sistemik sitrat
+birikmesi durumunda sistemik iyonlaşmış hipokalsemiye yol açabilir.
+REGIOCIT magnezyum içermez. REGIOCIT kullanımı, CRRT atık su kayıpları nedeniyle
+hipomagnezemi ile sonuçlanabilir. Magnezyum infüzyonu gerekebileceği için hasta izlenmelidir.
+REGIOCIT glukoz içermez. REGIOCIT uygulaması hipoglisemiye neden olabilir. Kan şekeri
+düzeyleri düzenli olarak izlenmelidir.
+REGIOCIT potasyum içermez. Serum potasyum konsantrasyonu, CRRT’den önce ve CRRT
+sırasında izlenmelidir.
+Metabolik yetmezlik nedeniyle sitrat birikimi:
+Karaciğer yetmezliği (örn., Karaciğer sirozu veya akut karaciğer yetmezliği dahil) veya şoku (bkz.
+Bölüm 4.2 ve 4.3) olan, sitrat metabolizması belirgin şekilde azalmış ve sitrat birikimine maruz kalan
+hastalarda özel dikkat gereklidir. Bu hastalarda sitrat ile hemofiltrasyon uygulanırsa, sitrat birikiminin
+daha sık izlenmesi önerilir. Karaciğer ve iskelet kasları sitratı metabolize edemezse, hidrojen karbonat
+üretilmez ve sitrat birikebilir. Metabolik asidoz ve iyonize hipokalsemi oluşabilir. Sitrat birikimi,
+4kandaki iyonize kalsiyum, toplam kalsiyum ve hidrojen karbonat konsantrasyonunun izlenmesi ile
+tespit edilebilir. Sitrat birikirse, kandaki toplam iyonize kalsiyum oranı artar. Toplam / iyonize
+kalsiyum oranı 2.3'ün üzerine çıkarsa, sitrat tamponu azaltılmalı veya durdurulmalıdır. Metabolik
+asidozu düzeltmek için hidrojen karbonat replasmanı gerekir. CRRT’ye antikoagülasyon olmadan
+devam edilebilir veya diğer antikoagülasyon araçları dikkate alınmalıdır.
+Uygun olmayan infüzyon nedeniyle sitrat birikimi:
+Fazla miktarda sitratın uygunsuz infüzyonu (ayrıca bölüm 4.9'a bakınız) akut hipokalsemi ve
+metabolik alkaloza neden olur ve hastayı nörolojik ve kardiyak komplikasyonlara maruz bırakabilir.
+Tedavi sitrat infüzyonunun kesilmesi ve kalsiyum infüzyonundan oluşur.
+Sistemik hipokalsemi (düşük iyonlaşmış kalsiyum) iki farklı mekanizmanın sonucu olarak ortaya
+çıkabilir:
+• Kalsiyum çözeltisinin akış hızının ayarlanmasını gerektiren filtre (düşük iyonize kalsiyum ve
+düşük toplam kalsiyum) vasıtasıyla sitrat ile kalsiyum kaybının yetersiz telafisi;
+• Karaciğerde ve kaslarda zayıf metabolizma nedeniyle REGIOCIT’in kısmen veya tümüyle
+durdurularak sitratsız bir replasman sıvısına (sürekli venovenöz hemofiltrasyon) geçişi veya
+REGIOCIT akış hızı azaltılır veya durdurulurken sitrat atımını sağlamak için diyalizat akış
+hızının artırılmasını (sürekli venovenöz hemodiyafiltrasyon) gerektiren sitrat birikimi.
+Sistemik hiperkalsemi
+Kalsiyum replasman çözeltisinin aşırı perfüzyonu nedeniyle yüksek iyonize kalsiyum içeren yüksek
+toplam kalsiyum meydana gelebilir. Bu durum kalsiyum çözeltisi akış hızının azaltılmasını gerektirir.
+Toplam kalsiyumun iyonize kalsiyuma oranının yüksek oranda olduğu yüksek kalsiyum durumu
+sitratın aşırı akış hızına bağlı olarak kalsiyum sitrat birikiminden veya sitratın yeterli miktarda
+metabolize edilememesinden kaynaklanabilir. Bu durumda sitrat infüzyonu azaltılmalı veya
+kesilmelidir.
+Metabolik asidoz
+Karaciğer ve iskelet kasları, karaciğer sirozunda veya akut karaciğer yetmezliğinde meydana
+gelebilecek yeterli sitrik asit metabolizmasını sağlayamazsa sitrat birikimi ortaya çıkabilir. Bu
+durumlarda sitrik asit birikir ve metabolik asidoz oluşur. Bu hastalarda, iyonlaşmış sitrattaki artışı
+yansıtan klasik anyon açığı da artar. Çoğu durumda, laktat da birikir.
+Sitrik asidi metabolize edememe sonucu ortaya çıkan metabolik asidoz rutin metabolik izleme ile
+erken teşhis edilebilir.
+5REGIOCIT ile tedavi sırasında sitrat birikimi ve/veya metabolik asidoz gelişir veya kötüleşirse,
+infüzyon hızının azaltılması veya uygulamasının kesilmesi gerekebilir.
+Metabolik alkaloz
+Bazı hastalarda ekstrakorporeal devrede iyonize kalsiyum seviyelerini istenen aralıkta tutmak için
+yüksek sitrat infüzyon hızları gerekir ve bu hastalar bunu tolere eder. Reciocit, toplam tampon yüküne
+katkıda bulunan sitrat içerir. CRRT sıvılarında veya tedavi sırasında uygulanan diğer sıvılarda
+bulunan ilave sodyum hidrojen karbonat (veya tampon kaynağı) metabolik alkaloz riskini artırabilir.
+Net sitrat uygulama hızı asit-baz dengesini korumak için gerekli olanı aşarsa metabolik alkaloz
+oluşabilir (bkz. Bölüm 4.2).
+Bu, kan akış hızını düşürerek yönetilebilir, böylece hastaya uygulanan sitrat infüzyon hızının
+azaltılması mümkün olur. Metabolik alkaloz, CRRT dozunu da koruyan diyalizat akış hızının
+arttırılması ve filtreden sonraki% 0.9 sodyum klorürün infüze edilmesi veya CRRT çözeltisinin
+kompozisyonunun değiştirilmesi ile de yönetilebilir. Metabolik alkaloz ve hipokalsemi ile sitrat
+birikimi, eğer hasta kan ürünleri içeren yüksek miktarda sitrat almışsa ve CRRT dozu çok düşükse de
+oluşabilir.
+Metabolik alkaloz hastalarında kan kalsiyum seviyeleri düzenli olarak izlenmelidir, çünkü bu durum
+hipokalsemiyi güçlendirir.
+Karaciğer Yetmezliği Olan Hastalarda Kullanım
+Sitrat metabolizması (bikarbonata), karaciğer yetmezliği olan hastalarda, sitrat birikimine neden
+olarak bozulmuş olabilir. REGIOCIT hafif ila orta dereceli karaciğer yetmezliği olan hastalara (örn.
+Child-Pugh ≤12) uygulandığında elektrolit ve / veya asit-baz dengesizliğini önlemek için pH,
+elektrolitler, toplam iyonize kalsiyum oranı ve sistemik iyonize kalsiyumun sık izlenmesi önemlidir
+(bkz. Bölüm 4.2). REGIOCIT, şiddetli karaciğer yetmezliği olan hastalarda kullanılmamalıdır (bkz.
+Bölüm 4.3).
+Hemodinamik Durum ve Sıvı Dengesi
+Hastanın hemodinamik durumu ve sıvı dengesi tedavi boyunca izlenmelidir.
+• Hipervolemi durumunda CRRT cihazı için öngörülen net ultrafiltrasyon oranı arttırılabilir ve
+/ veya replasman sıvısı ve / veya diyalizat dışındaki çözeltilerin uygulama oranı azaltılabilir.
+• Hipovolemi durumunda CRRT cihazı için öngörülen net ultrafiltrasyon oranı azaltılabilir ve
+/ veya replasman sıvısı ve / veya diyalizat dışındaki çözeltilerin uygulama oranı artırılabilir.
+Hipoosmolarite / Hipotonisin
+REGIOCIT, standart CRRT replasman sıvılarına göre hipoosmolar / hipotoniktir ve travmatik beyin
+hasarı, beyin ödemi veya kafa içi basıncı artışı olan hastalarda dikkatle kullanılmalıdır.
+6Kullanım talimatlarına kesinlikle uyulmalıdır. Erişim bağlantı noktalarının yanlış kullanılması veya
+sıvı akışını kısıtlayan diğer durumlar hasta ağırlığının yanlış şekilde düşmesine ve makine alarmlarına
+neden olabilir. Bu tür durumları çözüme kavuşturmadan tedaviye devam edilmesi hastanın
+yaralanmasına veya ölümüne neden olabilir.
+Çözeltiyi yalnızca berraksa ve içinde görünür parçacıklar yoksa kullanın.
+CRRT, plazma suyu sodyum içeriği ile orantılı sodyum giderimi sağlar. Kandaki seviyenin düşmesini
+önlemek için (hiponatremi) hastanın sodyum seviyesi genel sıvı ve elektrolit yönetiminin bir parçası
+olarak dengelenmelidir (bkz. Bölüm 4.8). Hem CRRT ile ilişkili diyaliz sıvılarının hem de CRRT
+reçetesi dışındakilerin uygulanması dikkatli bir değerlendirme gerektirir.
+4.5. Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+Filtrelenebilir / diyaliz edilebilir ilaçların kan konsantrasyonu, ekstrakorporeal filtre tarafından
+çıkarılmaları nedeniyle tedavi sırasında azalabilir. Tedavi sırasında çıkartılan ilaçlar için istenen kan
+konsantrasyonlarını belirlemek için gerekirse uygun düzeltici tedavi başlatılmalıdır.
+REGIOCIT'in bileşenleri arasında farmakodinamik ilaç etkileşimi beklenmemektedir. Etkileşimler
+ancak çözeltinin yetersiz veya yanlış terapötik kullanımıyla beklenebilir (bkz. Bölüm 4.4 ve 4.9).
+Bununla birlikte, aşağıdakileri içeren tıbbi ürünler ile etkileşim olasıdır:
+• D vitamini ve diğer D vitamini analoglarının yanı sıra kalsiyum içeren tıbbi ürünler (örneğin sitrat
+antikoagülasyonu alan CRRT hastalarında kalsiyum homeostazının bakımı için kullanılan kalsiyum
+klorür veya kalsiyum glukonat) hiperkalsemi riskini artırabilir ve antikoagülasyon etkisinde azalmaya
+neden olabilir.
+• Kandaki yüksek konsantrasyonda hidrojen karbonat riskini artırabilen sodyum hidrojen karbonat
+(metabolik alkaloz - bkz. Bölüm 4.8).
+4.6. Gebelik ve laktasyon
+Genel tavsiye
+Gebelik kategorisi: C
+Çocuk doğurma potansiyeli bulunan kadınlar / Doğum kontrolü (Kontrasepsiyon)
+Çocuk doğurma potansiyeli bulunan kadınlara verilirken dikkatli olunmalıdır.
+7Gebelik dönemi
+REGIOCIT’in gebe kadınlarda kullanımına ilişkin yeterli veri mevcut değildir.
+Hayvanlar üzerinde yapılan çalışmalar, gebelik/embriyonal/fetal gelişim/doğum ya da doğum
+sonrası gelişim üzerindeki etkiler bakımından yetersizdir (bkz. Bölüm 5.3). İnsanlara yönelik
+potansiyel risk bilinmemektedir.
+REGIOCIT gebe kadınlara ancak açıkça gerekli olması durumunda uygulanmalıdır.
+Laktasyon dönemi
+REGIOCIT'in emzirme döneminde kullanımı hakkında belgelenmiş klinik veri yoktur. REGIOCIT,
+emziren kadınlara yalnızca açıkça ihtiyaç duyulduğunda uygulanmalıdır.
+Üreme yeteneği/ Fertilite
+Üreme üzerinde bir etki beklenmez; çünkü sodyum, klorür ve sitrat vücudun normal bileşenleridir.
+4.7. Araç ve makine kullanımı üzerindeki etkiler
+REGIOCIT’in araç veya makine kullanma yeteneğini etkilediğine dair herhangi bir bulgu yoktur.
+4.8. İstenmeyen etkiler
+REGIOCIT çözeltisinden veya diyaliz tedavisinden istenmeyen etkiler kaynaklanabilir. Kullanım için
+özel önlemler bölüm 4.4'te açıklanmıştır.
+Aşağıdaki istenmeyen etkiler yayınlanmış literatürde açıklanmıştır (Çok yaygın (≥1 / 10); Yaygın (≥1
+/ 100 ila <1/10); Yaygın olmayan (≥1 / 1,000 ila <1/100); Seyrek (≥1) / 10,000 ila <1 / 1,000); Çok
+seyrek (<1 / 10,000); Bilinmiyor (mevcut verilerden tahmin edilemiyor):
+Metabolizma ve beslenme hastalıkları
+Yaygın Elektrolit dengesizlikleri, örneğin hipomagnezemi (bölüm 4.4'e
+bakınız), hipokalsemi (bölüm 4.4 ve 4.9'a bakınız), hiperkalsemi
+(bölüm 4.4'e bakınız), hiponatremi (bölüm 4.4'e bakınız),
+hipokalemi (bölüm 4.4'e bakınız), hipofosfataemi (bölüm 4.4'e
+bakınız)
+Metabolik asidoz (bakınız bölüm 4.4 ve 4.9) ve metabolik
+alkaloz dahil olmak üzere asit-baz dengesindeki bozukluklar
+(bakınız bölüm 4.4, 4.5 ve 4.9)
+Bilinmiyor Sıvı tutulumu
+Sıvı dengesizliği, ör. dehidratasyon (bakınız bölüm 4.4)
+Vasküler hastalıklar
+Bilinmiyor Hipotansiyon*
+8Gastrointestinal hastalıklar
+Bilinmiyor Bulantı*
+Kusma*
+Kas-iskelet bozuklukları, bağ doku ve kemik hastalıkları
+Bilinmiyor Kas spazmları*
+• Diyaliz tedavisine bağlı istenmeyen etkiler
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem taşımaktadır.
+Raporlama yapılması, ilacın yarar / risk dengesinin sürekli olarak izlenmesine olanak sağlar. Sağlık
+mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye Farmakovijilans Merkezi
+(TÜFAM)’ne bildirmeleri gerekmektedir. (www.titck.gov.tr; e- posta: tufam@titck.gov.tr; tel: 0 800
+314 00 08; faks: 0 312 218 35 99)
+4.9. Doz aşımı ve tedavisi
+İstenmeyen şekilde çok yüksek hacimli ikame çözeltisinin tatbik edilmesi, hastanın yaşamını tehdit
+edebilecek bir aşırı doza neden olabilir. Bu durum kan akışına aşırı sitrat yüklenmesi nedeniyle
+pulmoner ödem ve konjestif kalp yetmezliğiyle birlikte aşırı sıvı yüklenmesi ve hipokalsemi ve
+metabolik alkaloz ile sonuçlanabilir. Bu düzensizliğin aşağıdaki şekillerde düzeltilmesi gerekir.
+ikame çözeltisi derhal kesilerek ve intravenöz kalsiyum uygulamasıyla derhal düzeltilmesi gerekir.
+Dikkatli bir kalsiyum takviyesi doz aşımı etkilerini tersine çevirebilir. Tedavi sırasında yakın izleme
+ile risk en aza indirilebilir.
+Sitrat metabolizması (karaciğer yetmezliği veya şok) bozukluğu olan hastalarda aşırı doz sitrat
+birikimi, artan toplam kalsiyum/iyonize kalsiyum oranının eşlik ettiği metabolik asidoz (bkz. Bölüm
+4.4), sistemik total hiperkalsemi (bkz. Bölüm 4.4) ve iyonize hipokalsemi (bkz. Bölüm 4.4 ve 4.8)
+şeklinde görülebilir.
+REGIOCIT bu durumda azaltılmalı veya durdurulmalıdır.
+Metabolik asidozu düzeltmek için hidrojen karbonat replasmanı gerekir. Sürekli renal replasman
+tedavisine antikoagülasyonsuz devam edilebilieceği gibi diğer antikoagülasyon yöntemleri dikkate
+alınmalıdır.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1. Farmakodinamik özellikler
+Farmakoterapötik grup: Hemofiltratlar
+ATC Kodu: B05ZB
+9Sitrat, iyonize kalsiyumlu kompleksler oluşturarak kalsiyumun pıhtılaşma uyarımını etkisiz hale
+getirme yeteneği sayesinde antikoagülasyon sağlar. REGIOCIT'te kritik konsantrasyonda hastalar
+ciddi hiponatremi geliştirmeye eğilimli olduklarından sodyum konsantrasyonu 140 mmol / l olarak
+ayarlanmıştır. Klorür, çözelti hidrojen karbonatsız olduğu için katyonları dengelemek için gereken
+seviyeye ayarlanır. Sodyum ve klorür, insan vücudunun normal bileşenleridir ve farmakolojik olarak
+inaktif oldukları kabul edilir. Sitrat, Krebs döngüsünde ilk ara madde olarak hareket eden, insan
+vücudunda bulunan normal bir metabolittir. REGIOCIT, potasyum ve glukoz içermez. REGIOCIT
+kullanımına bağlı toksik etkiler, terapötik dozda beklenmemektedir.
+5.2. Farmakokinetik özellikler
+Genel özellikler
+Sitrat, Krebs döngüsünde bir ara madde ve insan vücudunda bulunan normal bir metabolittir. Bu
+fizyolojik yol, düşük konsantrasyonlarda meydana geldiği sürece yüksek miktarda sitrik asit
+işleyebilir. Krebs döngüsü mitokondride gerçekleşir ve bu hücresel organelleri içeren tüm hücreler
+sitratı metabolize edebilir. Karaciğer, iskelet kasları ve böbrek gibi mitokondri bakımından zengin
+dokular bu nedenle daha yüksek sitrat oluşumu ve eliminasyonu kapasitesine sahiptir.
+Emilim ve Dağılım
+Sodyum ve klorürlerin absorpsiyonu ve dağılımı, hastanın klinik durumu, metabolik durumu ve
+rezidüel böbrek fonksiyonu ile belirlenir. Hücre dışı sitrat, kandan plazma zarı boyunca bir grup
+protein, yani plazma zarı sitrat taşıyıcılarını (PMCT'ler) hücrelere taşıyabilir ve daha sonra çeşitli
+organlarda ve dokularda metabolize edilebilir.
+Biyotransformasyon
+İnsanlarda sitrat, yukarıda belirtilen Krebs döngüsü olarak adlandırılan merkezi metabolik yolda bir
+ara maddedir. Sitrat, esas olarak karaciğerde hızlı bir şekilde metabolize edilir, ancak diğer organlar
+/ dokular tarafından da metabolize edilebilir.
+Eliminasyon
+Dolaşan sitrat fazlalığı normal olarak böbrekler yoluyla atılır.
+5.3. Klinik öncesi güvenlilik verileri
+Diğer bölümlerde yer alan verilerin ötesinde klinik güvenliğiyle ilişkili olduğu düşünülen preklinik
+veriler yoktur.
+6. FARMASÖTİK ÖZELLİKLER
+106. 1. Yardımcı maddelerin listesi
+Enjeksiyonluk su
+Seyreltik hidroklorik asit (pH ayarlaması için) E 507
+6.2. Geçimsizlikler
+Uyumluluk çalışmalarının bulunmadığı hallerde bu tıbbi ürün, diğer tıbbi ürünler ile
+karıştırılmamalıdır.
+Olası renk değişimi ve / veya olası çökeltme olup olmadığını kontrol ederek, ilave bir ilacın bu ilaçla
+uyumluluğunu belirlemek hekimin sorumluluğundadır. Bir ilaç eklemeden önce, bu ilacın
+REGIOCIT’te çözünür ve stabil olup olmadığını kontrol edin.
+6.3. Raf ömrü
+18 ay
+6.4. Saklamaya yönelik özel tedbirler
+30°C altındaki oda sıcaklığında saklayınız. Buzdolabına koymayınız veya dondurmayınız.
+6.5. Ambalajın niteliği ve içeriği
+Kap, poliolefinler ve elastomerler içeren çok katmanlı bir filmden yapılmış tek bölmeli bir torbadır.
+Torbaya bir enjeksiyon konektörü (veya spike konektörü) ve uygun bir hemofiltrasyon çözelti hattı
+veya kan öncesi pompa hattıyla bağlantı için bir luer konektörü takılmıştır. Torba 5000 ml'lik bir
+çözelti içerir ve üzeri polimer filmden yapılmış şeffaf bir ambalaj ile sarılıdır.
+Ambalaj Ebadı: 5000 ml
+6.6. Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+Kullanılmamış olan ürünler ya da atık materyaller “Tıbbi Atıkların Kontrolü Yönetmeliği” ve
+“Ambalaj ve Ambalaj Atıklarının Kontrolü Yönetmelikleri”ne uygun olarak imha edilmelidir.
+Çözelti çevreye zarar vermeden atık su yolu ile bertaraf edilebilir.
+Aşağıdaki kullanma talimatları izlenmelidir:
+Hastaya tedavi ve uygulama boyunca aseptik teknik kullanılmalıdır. Kullanımdan hemen önce üst
+bantı torbadan çıkarın. Sadece üst sargı hasar görmemişse, tüm kapaklar sağlamsa ve çözelti berraksa
+11kullanın. Herhangi bir sızıntı olup olmadığını test etmek için torbayı sıkıca bastırın. Sızıntı tespit
+edilirse, artık sterilite garanti edilemeyeceğinden çözeltiyi hemen atın. Mikrobiyolojik
+kontaminasyonu önlemek için çözelti açıldıktan hemen sonra kullanılmalıdır.
+I. Luer konektörü kullanılıyorsa, kapağı çevirip çekme hareketiyle yerinden çıkartın. Ön kan pompası
+hattındaki erkek luer kilidini bir itme ve döndürme hareketi kullanarak torbadaki dişi luer
+konektörüne bağlayın. Bağlantının tamamen oturduğundan ve sıkıldığından emin olun. Konektör
+şimdi açıktır. Sıvının serbestçe aktığını doğrulayın. Kan öncesi pompa hattı luer konektöründen
+çıkarıldığında, konektör kapanacak ve çözelti akışı duracaktır. Luer iğnesiz ve değiştirilebilir bir
+porttur.
+II. Enjeksiyon konnektörü (veya spike konektör) kullanılıyorsa, kırılır kapağı çıkarın. Enjeksiyon
+portu temizlenebilir bir porttur. Spike konektörü kauçuk septumdan geçirin. Sıvının serbestçe aktığını
+doğrulayın.
+Bir madde veya ilaç eklemeden önce, bunun REGIOCIT'te çözünür ve stabil olduğunu ve ürünün pH
+aralığının uygun olduğunu doğrulayın. Uyumsuz olduğu bilinen veya belirlenen katkı maddeleri
+eklenmemelidir.
+Eklenecek ilacın kullanım kılavuzuna ve diğer ilgili literatüre başvurulmalıdır.
+Eklemeden sonra, bir renk bozulması ve / veya çökelti, çözünmeyen kompleks veya kristal görünümü
+varsa ilacı kullanmayın.
+Herhangi bir katkı eklediğinizde çözeltiyi iyice karıştırın. Çözeltiye katkı maddesi eklenecek veya
+karıştırılacaksa bu işlem mutlaka çözelti torbasını ekstrakorporeal devreye bağlanmadan önce
+gerçekleştirilmelidir.
+Çözelti yalnızca tek kullanımlıktır. Kullanılmayan kısımları atın.
+7. RUHSAT SAHİBİ
+Vantive Sağlık Hizmetleri Ltd. Şti.
+Yenimahalle / Ankara
+8. RUHSAT NUMARASI
+2024/340
+9. İLK RUHSAT TARİHİ/ RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi: 12.09.2024
+Ruhsat yenileme tarihi:
+10. KÜB’ÜN YENİLENME TARİHİ
+12

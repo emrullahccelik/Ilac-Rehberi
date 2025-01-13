@@ -1,0 +1,560 @@
+KISA ÜRÜN BİLGİSİ
+▼
+Bu ilaç ek izlemeye tabidir. Bu üçgen yeni güvenlilik bilgisinin hızlı olarak belirlenmesini
+sağlayacaktır. Sağlık mesleği mensuplarının şüpheli advers reaksiyonları TÜFAM’a
+bildirmeleri beklenmektedir. Bakınız Bölüm 4.8 Şüpheli advers reaksiyonların raporlanması.
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+ARGAZEM 250 mg/2,5 mL I.V. infüzyonluk çözelti hazırlamak için konsantre
+Steril
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde:
+Her bir flakon,
+250 mg argatroban monohidrat içerir.
+Yardımcı madde(ler):
+Susuz alkol…………………………..…………….1000 mg (hacmin %50’si)
+D-sorbitol………………………………………..…750 mg
+Yardımcı maddeler için 6.1’e bakınız.
+3. FARMASÖTİK FORM
+İnfüzyonluk çözelti hazırlamak için konsantre
+Berrak renksiz ila soluk sarı arası renkte çözelti
+4. KLİNİK ÖZELLİKLER
+4.1. Terapötik endikasyonlar
+Parenteral antitrombotik tedaviye gereksinim duyan, heparin kaynaklı trombositopeni (HIT)
+tip II’li erişkin hastalarda antikoagülan olarak kullanılır.
+Tanı, HIPAA (heparin kaynaklı trombosit aktivasyon testi) ile veya eşdeğer bir test ile teyit
+edilmelidir. Ancak, bu tür doğrulama işlemleri tedavi başlangıcının gecikmesine neden
+olmamalıdır.
+4.2. Pozoloji ve uygulama şekli
+Pozoloji/uygulama sıklığı ve süresi:
+1 / 20Başlangıç dozu
+ARGAZEM ile tedavi koagülasyon hastalıkları konusunda deneyimli bir hekimin gözetimi
+altında başlatılmalıdır.
+Karaciğer yetmezliği olmayan yetişkin HIT tip II’li hastalarda başlangıç dozu, devamlı
+infüzyon şeklinde uygulanan 2 mikrogram/kg/dk’dır. ARGAZEM uygulamadan önce, heparin
+tedavisi kesilmelidir ve bazal aPTT (aktive parsiyel tromboplastin zamanı) değeri elde edilmiş
+olmalıdır.
+Standart öneriler
+İzleme:
+Genel olarak, ARGAZEM ile tedavi aPTT kullanılarak izlenir.
+Antikoagülan etkiye yönelik testler (aPTT dahil olmak üzere), genellikle ARGAZEM’in
+başlatılmasından sonraki 1-3 saat içinde kararlı durum düzeylerine ulaşır.
+Kararlı durum aPTT için hedeflenen aralık, başlangıç bazal değerin 1,5-3 katıdır fakat bu
+değer 100 saniyeyi geçmez.
+Hedef aPTT’yi elde etmek için doz ayarlaması gerekebilir (bkz. Doz değişimleri).
+aPTT’nin hedeflenen aralıkta olduğunu teyit etmek için infüzyon başlangıcından 2 saat sonra
+aPTT değeri kontrol edilmelidir. Bundan sonra, aPTT en az günde bir kez izlenmelidir.
+Doz değişimleri:
+ARGAZEM’in başlangıç dozundan sonra, doz, kararlı durum aPTT değeri istenen terapötik
+aralıkta (100 saniyeyi geçmeyecek şekilde ilk bazal değerin 1,5-3 katı) olana kadar klinik
+gidişe göre ayarlanabilir. aPTT’nin yüksek bulunması durumunda (bazal değerin 3 katından
+fazla veya 100 saniyeden fazla), infüzyon, aPTT değeri istenen aralık içinde yani bazal
+değerin 1,5-3 katı oluncaya kadar kesilmeli ve infüzyona önceki infüzyon hızının yarısı hızda
+tekrar başlanmalıdır. aPTT değeri 2 saat sonra tekrar kontrol edilmelidir.
+Önerilen maksimum doz 10 mikrogram/kg/dk’dır. Daha uzun süreli uygulamaya dair sınırlı
+klinik deneyim bulunsa da önerilen maksimum tedavi süresi 14 gündür (bkz. Bölüm 5.1).
+2 / 20Kritik hasta/karaciğer yetmezliği
+Standart doz programı olan hastalar
+Başlangıç infüzyon hızı 2 mikrogram/kg/dk Başlangıç infüzyon hızı 0,5
+mikrogram/kg/dk
+aPTT (s) İnfüzyon hızı İnfüzyon hızı
+Sonraki aPTT Sonraki aPTT
+değişimi değişimi
+< bazal değerin 0,5 0,1
+1,5 katı mikrogram/kg/dk 2 saat mikrogram/kg/dk 4 saat
+olarak artırılır olarak artırılır
+2 saat; art arda 4 saat; art arda
+ölçülen 2 aPTT ölçülen 2 aPTT
+Bazal değerin değeri değeri
+1,5-3 katı (100 Değişiklik yok hedeflenen Değişiklik yok hedeflenen
+saniyeden az) aralıkta ise. aralıkta ise.
+Günde en az 1 Günde en az 1
+kez ölçülür kez ölçülür
+aPTT bazal aPTT, bazal
+değerin 1,5-3 değerin 1,5-3
+katı olana kadar katı olana kadar
+> bazal değerin infüzyon infüzyon
+3 katı veya durdurulur; 2 saat durdurulur; 4 saat
+>100 saniye önceki infüzyon önceki infüzyon
+hızının yarısı hızının yarısı
+hızda devam hızda devam
+edilir. edilir.
+Uygulama şekli:
+ARGAZEM, konsantre (250 mg/2,5 mL) çözeltidir ve çözelti infüzyondan önce
+konsantrasyon 1 mg/mL olacak şekilde, 100 kat seyreltilmelidir (bkz. Bölüm 6.6).
+2 mikrogram/kg/dk olarak tavsiye edilen başlangıç dozu (1 mg/mL son konsantrasyon) için
+standart infüzyon hızı aşağıdaki tabloda detaylı olarak verilmiştir. Başlangıçtaki infüzyon 0,5
+mikrogram/kg/dk hızında uygulanan, orta derecede karaciğer yetmezliği olan hastalar (Child-
+Pugh Sınıf B), kalp ameliyatı geçirmiş ve kritik hastalar için standart infüzyon hızları da
+aşağıdaki tabloda verilmiştir:
+3 / 20Vücut ağırlığı (kg) İnfüzyon hızı (mL/saat)
+2 mikrogram/kg/dk 0,5 mikrogram/kg/dk
+50 6 1,5
+60 7 1,8
+70 8 2,1
+80 10 2,4
+90 11 2,7
+100 12 3
+110 13 3,3
+120 14 3,6
+130 16 3,9
+140 17 4,2
+Özel popülasyonlara ilişkin ek bilgiler:
+Böbrek yetmezliği:
+Erişkinler için tavsiye edilen başlangıç dozu böbrek yetmezliği olan hastalar için de geçerlidir
+(bkz. Bölüm 5.2).
+Hemodiyalizde argatrobanın kullanımına ilişkin sınırlı veri bulunmaktadır. Bu verilere
+dayanarak, tedaviye bir bolus enjeksiyon (250 mikrogram/kg) ile başlanır, ardından 2
+mikrogram/kg/dk’lık sürekli infüzyon ile devam edilir. İşlemin bitmesinden 1 saat önce
+infüzyon durdurulur. Hedeflenen ACT (etkinleştirilmiş pıhtılaşma zamanı) aralığı 170-230
+saniyedir (Haemotec cihazı kullanılarak ölçülür).
+Önceden ARGAZEM ile tedavi edilen hastalarda bolus dozu gerekmemektedir.
+Argatrobanın hemodiyaliz ve devamlı venövenöz hemofiltrasyon sırasında kullanılan yüksek
+akışlı membranlar tarafından klirensi klinik olarak önemsizdir.
+Karaciğer yetmezliği:
+Orta derecede karaciğer yetmezliği olan hastalar (Child-Pugh Sınıf B) için tavsiye edilen
+başlangıç dozu 0,5 mikrogram/kg/dk’dır (bkz. Bölüm 4.4 ve 5.2). aPTT yakından izlenmelidir
+ve dozaj, klinik durumun gerektirdiği biçimde ayarlanmalıdır. ARGAZEM, ağır karaciğer
+fonksiyon bozukluğu olan hastalarda kontrendikedir.
+4 / 20Pediyatrik popülasyon:
+On sekiz çocuğun katıldığı (yenidoğandan 16 yaşına kadar) prospektif bir klinik çalışmaya ait
+sınırlı veriler ve yayımlanmış veriler mevcuttur. Bu hasta popülasyonunda, argatrobanın
+güvenli ve etkili dozu veya aPTT veya etkinleştirilmiş pıhtılaşma zamanı (ACT) için etkili
+hedef aralığı açıkça ortaya konmamıştır. Mevcut veriler bölüm 5.1 ve 5.2’de açıklanmıştır,
+ancak pozolojiye ilişkin herhangi bir öneri yapılamamaktadır.
+Geriyatrik popülasyon:
+Erişkinlerde kullanım için standart başlangıç dozajına ilişkin öneriler yaşlı hastalar için de
+geçerlidir.
+Kalp ameliyatı sonrası HIT tip II’li hastalar ve kritik hastalar
+Kalp ameliyatı geçirmiş HIT tip II’li hastalar ve çoklu organ sistemi yetmezliği olan kritik
+hastaların veya yoğun bakım ünitesi (YBÜ) hastalarının argatroban kullanımı ile ilgili sınırlı
+veri mevcuttur. Verilere dayanarak, tedaviye 0,5 mikrogram/kg/dk (en fazla 10
+mikrogram/kg/dk) başlangıç infüzyon hızında başlanabilir ve infüzyon hızı, hedef aPTT
+aralığı bazal değerin 1,5-3 katı (100 saniyeden az) olacak şekilde ayarlanır.
+Ciddi (çoklu) organ yetmezliği olan (SOFA-II APACHE-II ile veya benzeri ölçütlerle
+değerlendirilen) kritik hastalar / YBÜ hastaları için azaltılmış bir idame dozu önerilir.
+Özellikle hepatik fonksiyondaki akut değişiklikler başta olmak üzere, hastanın klinik durumu
+göz önüne alınmalı ve aPTT'yi hedeflenen aralıkta tutmak için infüzyon hızı dikkatlice
+ayarlanmalıdır.
+Hedef aPTT değerine ulaşılması ve sürdürülmesi için izleme sıklığı artırılmalıdır.
+Perkütan koroner girişim (PKG) uygulanan HIT tip II’li hastalar
+Perkütan koroner girişim uygulanan HIT tip II’li hastalarda argatrobanın kullanımı ile ilgili
+sınırlı veri mevcuttur. Verilere dayanarak, başka alternatif olmadığında, 3-5 dakikada
+uygulanan 350 mikrogram/kg bolus dozu ve ardından 25 mikrogram/kg/dk infüzyon dozu ile
+tedavi başlatılabilir. ACT, bolus doz tamamlandıktan 5-10 dakika sonra kontrol edilmelidir.
+İşleme, ACT 300 saniyeden büyükse devam edilebilir. ACT 300 saniyenin altında ise, 150
+mikrogram/kg'lık ilave bir bolus doz uygulanmalı, infüzyon hızı 30 mikrogram/kg/dk’ya
+yükseltilmeli ve ACT, 5 ila 10 dakika sonra tekrar kontrol edilmelidir. ACT 450 saniyeden
+daha büyükse infüzyon hızı 15 mikrogram/kg/dk’ya düşürülmeli ve ACT değerleri 5 ila 10
+dakika sonra kontrol edilmelidir. 300 ila 450 arasındaki terapötik bir ACT değeri elde
+5 / 20edildiğinde, infüzyon dozu işlem süresince sürdürülmelidir. ACT ölçümleri Haemotec ve
+Haemochrom cihazları kullanılarak kaydedilmiştir.
+GPIIb / IIIa inhibitörleri ile kombinasyon halinde argatroban kullanımının etkililiği ve
+güvenliliği henüz belirlenmemiştir.
+Vücut ACT değeri >450
+ACT değeri 300-450 saniye iken ACT değeri < 300 saniye ise doz
+ağırlığı saniye ise doz ayarlama
+başlangıç dozu 25 mikrogram/kg/dk ayarlama* 30 mikrogram/kg/dk
+(kg) 15 mikrogram/kg/dk
+İnfüzyon İnfüzyon İnfüzyon
+İnfüzyon Bolus İnfüzyon İnfüzyon
+Bolus doz dozu dozu dozu
+hızı doz Hızı Hızı
+(mikrogram) (mikrogram/ (mikrogram/ (mikrogram/
+(mL/sa) (mikrogram) (mL/sa) (mL/sa)
+dk) dk) dk)
+50 17500 1250 75 7500 1500 90 750 45
+60 21000 1500 90 9000 1800 108 900 54
+70 24500 1750 105 10500 2100 126 1050 63
+80 28000 2000 120 12000 2400 144 1200 72
+90 31500 2250 135 13500 2700 162 1350 81
+100 35000 2500 150 15000 3000 180 1500 90
+110 38500 2750 165 16500 3300 198 1650 99
+120 42000 3000 180 18000 3600 216 1800 108
+130 45500 3250 195 19500 3900 234 1950 117
+140 49000 3500 210 21000 4200 252 2100 126
+NOT: Konsantre ARGAZEM, kullanılmadan önce 1 mg/mL = 1000 mikrogram/mL olacak
+şekilde seyreltilir.
+* ACT değeri < 300 saniye ise 150 mikrogram/kg ek IV bolus doz uygulanabilir.
+PKG uygulanan karaciğer yetmezliği olan hastalar için spesifik dozlam bilgisi mevcut
+değildir. Bu nedenle, PKG gereken karaciğer yetmezliği olan hastaların tedavisi için
+ARGAZEM kullanımı önerilmemektedir.
+Oral antikoagülana geçişi planlanan hastalarda kullanım için öneriler
+Kumarin ile ilişkili mikrovasküler trombozu ve venöz ekstremite kangrenini önlemek için,
+trombositopeni belirgin olarak düzelinceye (ör., plateletler > 100x109/L) kadar kumarin tipi
+6 / 20oral antikoagülanların kullanımı ertelenmelidir. İdame dozuna, yükleme dozu olmaksızın
+başlanmalıdır.
+Quick tip PT (protrombin zamanı) tayin Owren tip PT (protrombin zamanı) tayin
+yöntemi yöntemi
+Quick tip PT tayininde aşağıdaki tavsiyeler Bir Owren tip PT tayin yöntemi
+dikkate alınmalıdır: kullanıldığında, plazma numuneleri analizden
+Quick tip PT tayin yöntemi kullanıldığında önce önemli derecede seyreltilir ve aşağıdaki
+argatroban ve kumarin tipi oral tavsiyeler dikkate alınmalıdır:
+antikoagülanların birlikte uygulanması, INR In vitro testler argatrobanın, yaklaşık 2
+(Uluslararası Normalleştirilmiş Oran) mikrogram/kg/dk dozundan kaynaklanan tipik
+üzerinde aditif bir etki yaratır. bir plazma konsantrasyonunda INR değeri
+INR hem argatroban dozuna, hem de üzerinde klinik olarak anlamlı bir etkisinin
+kullanılan tromboplastin reaktifinin olmadığını göstermektedir. Bununla birlikte,
+Uluslararası Duyarlılık İndeksine (ISI) argatrobanın daha yüksek konsantrasyonları,
+bağlıdır. INR değerlerinde bir artışa neden olabilir.
+Genel olarak, kombine tedavide 2 Kombine tedavide INR için hedef değer, tek
+mikrogram/kg/dk’ya kadar olan argatroban başına oral antikoagülan için önerilen değer
+dozlarıyla, INR değeri minimum 4'e kadar, yani 2-3 gibi olmalıdır.
+ulaştığında argatroban durdurulabilir.
+Quick ve Owren tip PT tayin yöntemlerinin her ikisi için;
+ARGAZEM ve oral antikoagülanların (kumarin tipi) en az 5 gün süreyle birlikte uygulanması
+önerilir. ARGAZEM ve oral antikoagülanlar birlikte uygulanıyorken, INR günlük olarak
+ölçülmelidir. INR için hedef değer, ARGAZEM’in kesilmesinden en az 2 gün öncesine kadar
+kullanılan tayin yönteminin türüne göre kombine tedavi için belirlenen terapötik aralıkta
+olmalıdır (yukarıya bakınız).
+INR ölçümü ARGAZEM’in kesilmesinden 4-6 saat sonra tekrarlanmalıdır. Tekrarlanan INR,
+istenen terapötik aralığın altındaysa, ARGAZEM infüzyonuna yeniden başlanmalı ve tek
+başına oral antikoagülanlar ile istenen terapötik aralık elde edilinceye kadar prosedür
+tekrarlanmalıdır.
+2 mikrogram/kg/dk’dan yüksek dozlar için, tek başına oral antikoagülanlar ile INR arasındaki
+veya oral antikoagülanlar ve ARGAZEM’in birlikte uygulanması ile INR arasındaki ilişki
+daha az öngörülebilir durumdadır. Böyle daha yüksek dozlarla, tek başına oral
+antikoagülanlar ile INR öngörüsünü yükseltmek için ARGAZEM dozu geçici olarak 2
+7 / 20mikrogram/kg/dk'ya düşürülmelidir (yukarıya bakınız). ARGAZEM ve oral antikoagülanların
+birlikte kullanımında INR, ARGAZEM dozunun azaltılmasından 4-6 saat sonra ölçülmelidir.
+4.3. Kontrendikasyonlar
+- Kontrol edilemeyen kanaması olan hastalarda,
+- Argatroban veya içeriğinde bulunan herhangi bir yardımcı maddeye karşı aşırı duyarlılığı
+olanlarda,
+- Ağır karaciğer yetmezliği olan hastalarda ARGAZEM kontrendikedir.
+4.4. Özel kullanım uyarıları ve önlemleri
+ARGAZEM genellikle kanama eğiliminin artmasına neden olur. Hematokrit değerinde
+açıklanamayan bir düşüş, kan basıncında azalma veya açıklanamayan başka bir semptom,
+nedenin bir hemorajik olay olabileceğini düşündürmelidir.
+ARGAZEM, hastalık durumlarında ve kanama riskinin artmış olduğu diğer durumlarda çok
+dikkatli kullanılmalıdır. Bu durumlar, ağır hipertansiyon tedavisi, diyabetik retinopati, lomber
+ponksiyondan hemen sonra, spinal anestezi, özellikle beyin, spinal kord ve göz gibi
+ameliyatları içeren majör cerrahi işlemler, konjenital veya edinilmiş kanama bozuklukları gibi
+artan kanama eğilimleriyle ilişkili hematolojik koşulları, ülser gibi gastrointestinal lezyonları
+içerir.
+Parenteral antikoagülanlar: Tüm parenteral antikoagülanlar ARGAZEM’in uygulanmasından
+önce kesilmelidir. ARGAZEM uygulamasına, heparin tedavisinin kesilmesinden sonra
+başlanacağı zaman, heparinin aPTT üzerindeki etkisinin azalması için arada yeterli süre
+(yaklaşık 1-2 saat) bırakılmalıdır.
+Karaciğer yetmezliği: Karaciğer hastalığı olan hastalara ARGAZEM uygulanırken gereken
+önlemler alınmalı; daha düşük bir doz ile başlanarak istenen antikoagülasyon seviyesine
+ulaşılıncaya kadar dikkatlice titrasyon yapılmalıdır (bkz. Bölüm 4.2). Ayrıca, karaciğer
+yetmezliği bulunan hastada ARGAZEM infüzyonunun kesilmesinden sonra argatroban
+klirensindeki azalma nedeniyle antikoagülan etkilerin geriye dönmesi için 4 saatten daha uzun
+süreye ihtiyaç duyulabilir.
+8 / 20Laboratuvar testleri: İnfüzyonun izlenmesi için aPTT ölçümleri önerilir. Protrombin zamanı
+(örneğin Uluslararası Normalleştirilmiş Oran (INR) olarak ifade edilen PT), etkinleştirilmiş
+pıhtılaşma zamanı (ACT) ve trombin zamanı (TT) gibi diğer plazma koagülasyon testleri
+argatroban uygulamasından etkilense de bu testler için terapötik aralıklar tanımlanmamıştır
+(ACT hariç). Plazma argatroban konsantrasyonları ile antikoagülan etkiler arasında iyi
+korelasyon bulunur.
+ARGAZEM ve kumarin tipi oral antikoagülanların birlikte kullanılması, PT (INR)’yi tek
+başına oral antikoagülanlar ile oluşturulandan daha çok uzatabilir. Eş zamanlı ARGAZEM ve
+oral antikoagülan tedavinin izlemi için alternatif yaklaşımlar için Bölüm 4.2'ye bakınız.
+ARGAZEM’de hacmin %50’si kadar etanol (alkol) vardır; örneğin, günlük maksimum dozda
+yaklaşık 4 grama kadar, her dozda 100 mL biraya eş değer, her dozda 40 mL şaraba eş değer
+gibi. Alkol bağımlılığı olanlar için zararlı olabilir.
+Hamile veya emziren kadınlar, çocuklar ve karaciğer hastalığı ya da epilepsi gibi yüksek risk
+grubundaki hastalarda dikkate alınmalıdır.
+Bu tıbbi üründeki alkol miktarı diğer ilaçların etkilerinin değişmesine sebep olabilir.
+Bu tıbbi üründeki alkol miktarı araç ve makine kullanım yeteneğini etkileyebilir.
+Bu tıbbi ürün sorbitol içerir. Nadir kalıtımsal fruktoz intolerans problemi olan hastaların bu
+ilacı kullanmamaları gerekir.
+ARGAZEM için spesifik bir antidot bulunmamaktadır.
+4.5. Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+Antiplatelet ajanlar, trombolitikler ve diğer antikoagülanlar ile birlikte kullanım, kanama
+riskini artırabilir.
+Oral antikoagülan ajanlar: Argatroban ve varfarin (7,5 mg tek oral doz) arasında
+farmakokinetik ilaç etkileşimleri gösterilmemiştir. Bununla birlikte, argatroban ve varfarinin
+birlikte kullanılması (başlangıçtaki 5-7,5 mg oral dozu takiben 2,5-6 mg/gün doz 6-10 gün
+boyunca oral olarak kullanımı) INR artışına neden olmuştur. ARGAZEM’den oral
+antikoagülanlara geçiş sürecinin yönetimi konusundaki diğer öneriler için Bölüm 4.2’ye
+bakınız.
+9 / 20Trombolitik, anti platelet ve diğer ajanlar: Argatrobanın trombolitik ajanlarla kullanımında
+güvenliliği ve etkililiği belirlenmemiştir.
+Argatroban ile etkileşim bakımından riskler değerlendirilmemiştir. Eş zamanlı tıbbi ilaçlar ilk
+kez başlandığında dikkatli olunmalıdır.
+ARGAZEM alkol içerdiğinden, metronidazol veya disülfiram ile etkileşimi dikkate
+alınmalıdır.
+Özel popülasyonlara ilişkin ek bilgiler:
+Özel popülasyonlara ilişkin etkileşim çalışması yapılmamıştır.
+Pediyatrik popülasyon
+Pediyatrik popülasyona ilişkin etkileşim çalışması yapılmamıştır.
+4.6. Gebelik ve laktasyon
+Genel tavsiye
+Gebelik kategorisi: C
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon)
+Argatrobanın çocuk doğurma potansiyeli bulunan kadınlar/doğum kontrolü üzerindeki etkisi
+ile ilgili yeterli veri bulunmamaktadır.
+Gebelik dönemi
+Hamile kadınlarda argatrobanın kullanımı ile ilgili yeterli veri yoktur. Hayvanlar üzerinde
+yapılan çalışmalar, gebelik/ve-veya/embriyonal/fetal gelişim/ve-veya/doğum/ve-veya/doğum
+sonrası gelişim üzerindeki etkiler bakımından yetersizdir (bkz. Bölüm 5.3). ARGAZEM ile
+artmış kanama riski, gebelik sırasında tedavide bir risk teşkil edebilir. ARGAZEM alkol
+içerir. 70 kg bir hasta, tavsiye edilen maksimum doz ile yaklaşık günde 4 g alkol almış olur.
+ARGAZEM mutlaka gerekli olmadıkça gebelik döneminde kullanılmamalıdır.
+Laktasyon dönemi
+Argatroban ve metabolitlerinin insan sütüne geçip geçmediği bilinmemektedir. Radyoaktif
+işaretlenmiş argatroban kullanılarak yapılan hayvan çalışmaları, radyoaktivitenin anne
+sütünde anne kanındakinden daha fazla seviyede olduğunu göstermiştir. Emzirmenin
+durdurulup durdurulmayacağına veya ARGAZEM tedavisinin durdurulup
+10 / 20durdurulmayacağına emzirmenin çocuk için yararı ve tedavinin anne için yararı dikkate
+alınarak karar verilecektir.
+Üreme yeteneği/fertilite
+Üreme yeteneği/fertilite üzerindeki potansiyel etkiler hakkında veri yoktur.
+4.7. Araç ve makine kullanımı üzerindeki etkiler
+ARGAZEM alkol içermektedir. Bu tıbbi üründeki alkol miktarı hastanın araba sürmesini,
+dikkat gerektiren işler yapma ve diğer makineleri kullanma yeteneğini etkileyebilir.
+4.8. İstenmeyen etkiler
+Argatrobanın farmakolojik özellikleri göz önüne alındığında beklendiği üzere, asıl advers
+olayları kanama komplikasyonları oluşturur.
+Argatroban ile antikoagüle edilmiş HIT tip II'li hastaları içeren klinik araştırmalarda majör
+kanamaların insidansı 31/568 (%5,5) ve küçük kanamaların insidansı 221/568 (%38,9) olarak
+bulunmuştur. aPTT düzeyi, aPTT'nin terapötik aralıkta olanlara kıyasla, bazal değerinin üç
+katından fazla olan hastalarda majör kanama insidansı neredeyse üç kat fazladır.
+ARGAZEM’in dozu, hedef aPTT seviyesi olan bazal değerin 1,5-3 katı ve 100 saniyeyi
+geçmeyecek şekilde ayarlanmalıdır (bkz. Bölüm 4.2).
+Aşağıda, argatroban ile ilişkili olduğu düşünülen klinik araştırmalardaki muhtemel advers
+reaksiyonların sıklıkları (HIT tip II olan 568 hasta) belirtilmiştir.
+Çok yaygın (≥1/10); yaygın (≥1/100 ila <1/10); yaygın olmayan (≥1/1.000 ila <1/100); seyrek
+(≥1/10.000 ila <1/1.000); çok seyrek (<1/10.000); bilinmiyor (eldeki verilerden hareketle
+tahmin edilemiyor).
+Enfeksiyonlar ve enfestasyonlar
+Yaygın olmayan: Enfeksiyon, idrar yolu enfeksiyonu
+Kan ve lenf sistemi hastalıkları
+Yaygın: Anemi
+Yaygın olmayan: Koagülopati, trombositopeni, lökopeni
+Bilinmiyor: Serebral kanama
+11 / 20Metabolizma ve beslenme hastalıkları
+Yaygın olmayan: Anoreksi, hipoglisemi, hiponatremi
+Psikiyatrik hastalıklar
+Yaygın olmayan: Zihin bulanıklığı
+Sinir sistemi hastalıkları
+Yaygın olmayan: Baş dönmesi/sersemlik hali, baş ağrısı, senkop, serebrovasküler olay,
+hipotoni, konuşma bozukluğu
+Göz hastalıkları
+Yaygın olmayan: Görme bozukluğu
+Kulak ve iç kulak hastalıkları
+Yaygın olmayan: Sağırlık
+Kardiyak hastalıklar
+Yaygın olmayan: Atriyal fibrilasyon, taşikardi, kardiyak arrest, miyokart enfarktüsü,
+supraventriküler aritmi, perikardiyal efüzyon, ventriküler taşikardi, hipertansiyon,
+hipotansiyon
+Vasküler hastalıklar
+Yaygın: Derin ven trombozu, kanama
+Yaygın olmayan: Tromboz, flebit, tromboflebit, şok, periferik iskemi, periferik emboli
+Solunum, göğüs hastalıkları ve mediastinal hastalıklar
+Yaygın olmayan: Hipoksi, pulmoner emboli, dispne, pulmoner hemoraji, plevral efüzyon,
+hıçkırık
+Gastrointestinal hastalıklar
+Yaygın: Mide bulantısı
+Yaygın olmayan: Kusma, konstipasyon, diyare, gastrit, gastrointestinal kanama, melena,
+disfaji, dilde rahatsızlık
+12 / 20Hepato-bilier hastalıklar
+Yaygın olmayan: Hepatik fonksiyon bozukluğu, hiperbilirubinemi, hepatik yetmezlik,
+hepatomegali, sarılık
+Deri ve deri altı doku hastalıkları
+Yaygın: Purpura
+Yaygın olmayan: Döküntü, terlemede artış, büllöz dermatit, alopesi, deri hastalığı, ürtiker
+Kas-iskelet, bağ doku ve kemik hastalıkları
+Yaygın olmayan: Kas zayıflığı, miyalji
+Böbrek ve idrar yolu hastalıkları
+Yaygın olmayan: Hematüri, böbrek yetmezliği
+Genel hastalıklar ve uygulama bölgesine ilişkin hastalıklar
+Yaygın olmayan: Ateş, ağrı, yorgunluk, uygulama yeri reaksiyonu, enjeksiyon bölgesi
+reaksiyonu, periferik ödem
+Araştırmalar
+Yaygın olmayan: Protrombin kompleks seviyesinde azalma, pıhtılaşma faktörlerinde azalma,
+pıhtılaşma süresinde uzama, aspartat aminotransferaz artışı, alanin aminotransferaz artışı, kan
+alkalen fosfataz artışı, kan laktat dehidrogenaz artışı
+Yaralanma ve zehirlenme
+Yaygın olmayan: Yara sekresyonu
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir (www.titck.gov.tr; e-
+posta: tufam@titck.gov.tr; tel: 0 800 314 00 08; faks: 0 312 218 35 99).
+13 / 204.9. Doz aşımı ve tedavisi
+Kanamalı veya kanamasız aşırı antikoagülasyon, ARGAZEM kullanımını keserek veya
+infüzyon hızını azaltarak kontrol edilebilir. Klinik çalışmalarda, antikoagülasyon
+parametreleri, argatrobanın kesilmesinden sonra genelde 2-4 saat içerisinde bazal değerlere
+döner. Karaciğer yetmezliği olan hastalarda antikoagülan etkinin geriye dönmesi daha uzun
+sürebilir.
+ARGAZEM için spesifik bir antidot mevcut değildir. Yaşamı tehdit edecek kanama oluşursa
+ve argatroban plazma seviyesinde aşırı artıştan şüpheleniliyorsa, ARGAZEM hemen
+kesilmelidir ve aPTT ve diğer koagülasyon testleri yapılmalıdır. Hastaya semptomatik ve
+destekleyici tedavi uygulanmalıdır.
+Fareler, sıçanlar, tavşanlar ve köpekler için öldürücü tek intravenöz argatroban dozları
+sırasıyla 200, 124, 150 ve 200 mg/kg şeklindedir. Akut toksisite semptomları doğrulma
+refleksi kaybı, titreme, klonik konvülziyonlar, arka ekstremite felci ve komadır.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1. Farmakodinamik özellikler
+Farmakoterapötik grup: Antitrombotik ilaçlar, direkt trombin inhibitörleri
+ATC kodu: B01AE03
+Argatroban, sentetik bir L-arginin türevidir ve trombine geri dönüşlü olarak bağlanan bir
+direkt trombin inhibitörüdür (argatroban monohidratın molekül ağırlığı 526,65’tir).
+Argatroban antikoagülan etkisini antitrombin III'den bağımsız olarak gösterir ve fibrin
+oluşmasını, koagülasyon faktörleri V, VIII ve XIII’ün aktivasyonunu, protein C
+aktivasyonunu ve trombosit agregasyonunu inhibe eder.
+Argatroban, trombin için yüksek düzeyde seçicidir; in vitro çalışmalarda sentetik
+tripeptidlerin inhibisyon sabiti (Ki) değerleri 5 ila 39 nM arasındadır.
+Argatroban hem serbest hem de pıhtı ile ilişkili trombinin etkisini inhibe etme yeteneğindedir.
+Heparin ile indüklenen antikorlarla etkileşmez. Birden fazla dozda argatroban alan hastalarda
+argatrobana karşı antikor oluşmasına dair bir kanıt bulunmamaktadır.
+Argatrobanın HIT tip II’deki etkililiğine dair kanıt, argatroban ile tedavi edilen toplamda 568
+yetişkin hastanın katıldığı 2 çalışmadan elde edilen verilere dayanmaktadır. Bu klinik
+çalışmalarda uygulanan ortalama tedavi süresi 6 gündür ve maksimum süre 14 gündür. İlk
+prospektif çalışmada, argatroban grubunda, geçmiş kontrollere (n=46) kıyasla, 37 günde
+birleşik sonuçta (ölüm, amputasyon, yeni tromboz) bir iyileşme gözlenmiştir.
+14 / 20Birincil sonlanım noktasının görülme sıklığının azaltılması, tromboembolik komplikasyonsuz
+HIT tip II' li hastaların alt gruplarında (25,6%’ya karşı 38,8%, kategorik analiz ile p=0,014,
+etkinlik süresi analizi ile p=0,007) ve tromboembolik komplikasyonlu HIT tip II'li hastaların
+alt gruplarında (43,8%’e karşı 56,5%, kategorik analiz ile p=0,131, etkinlik süresi analizi ile
+p=0,018) tutarlıdır.
+Çalışmalar istatistiksel olarak bireysel sonlanım noktaları için güçlendirilmemiştir. Ancak ilk
+prospektif çalışmada, tromboembolik komplikasyon bulunmayan ve bulunan HIT tip II’li
+hastalar için bireysel sonlanım noktası insidansının azalması sırasıyla şu şekildedir: mortalite
+(%16,9 ile %21,8, n.s.*) ve (%18,1 ile %28,3, n.s.*), ampütasyon (%1,9 ile %2, n.s.*) ve
+(%11,1 ile %8,7, n.s.*), yeni trombozlar (%6,9 ile %15, p=0,027) ve (%14,6 ile %19,6, n.s).
+İkinci takip (izlem) çalışmasında da benzer sonuçlar gözlemlendi.
+*n.s.: İstatiksel olarak önemli (anlamlı) bulunmayan bulguları ifade eder.
+Pediyatrik popülasyon:
+On sekiz yaşın altındaki hastalarda argatrobanın kullanımının etkililiği ve güvenliliği henüz
+belirlenmemiştir. Bununla birlikte, ABD'de heparin antikoagülasyonuna alternatif bir ilaç
+gerektiren (şüpheli) HIT tip II’li 18 pediyatrik ağır hasta üzerinde prospektif bir klinik
+çalışmada sınırlı sonuçlar elde edilmiştir.
+Bu çalışmaya katılan hastaların yaş aralıkları şu şekildedir: altı aydan küçük (8 hasta), altı ay
+ila 8 yaş arası (6 hasta) ve 8 ila 16 yaş arası (4 hasta). Tüm hastalar ağır durumda ve birden
+fazla eşzamanlı ilaç almaktaydı.
+On üç hastaya argatroban sadece sürekli infüzyonla (bolus dozu olmadan) verilmiştir. Bu 13
+hastanın çoğunluğunda, bazal değerin 1,5 ila 3 katı (100 saniyeyi geçmeyen) aPTT elde etmek
+için dozaj 1 mikrogram/kg olarak başlatılmıştır. Çoğu hastada, antikoagülasyon
+parametrelerini istenen aralıkta tutmak için çok sayıda doz ayarlamalarının yapılması
+gerekmiştir.
+Otuz günlük çalışma periyodunda iki hastada argatroban uygulaması sırasında ve diğer üç
+hastada argatroban kesildikten sonra tromboz olayları meydana gelmiştir. İki hastada majör
+kanama meydana gelmiş; hastaların birinde sepsis ve trombositopeni zemininde uygulanan
+argatroban tedavisinden 4 gün sonra intrakranyal hemoraji oluşmuştur. Diğer bir hasta 14
+günlük tedaviyi tamamlamış, ancak tedavinin tamamlanmasının hemen ardından argatroban
+alırken intrakranyal hemoraji görülmüştür.
+Sınırlı veriler mevcut olduğu için, hepatik fonksiyonları normal olan ağır pediyatrik
+hastalarda, başlangıç olarak 0,75 mikrogram/kg/dk’lık sürekli infüzyon hızı önerilmiştir.
+15 / 20Karaciğer fonksiyon bozukluğu olan ağır pediyatrik hastalarda azaltılmış başlangıç dozu
+olarak: 0,2 mikrogram/kg/dk önerilir (bkz. Bölüm 5.2). Doz, hedef aPTT değerine yani bazal
+değerin 1,5 - 3 katına ulaşacak (100 saniyeyi geçmeyecek) şekilde ayarlanır.
+5.2. Farmakokinetik özellikler
+Genel özellikler
+Hem argatroban hem antikoagülan etki için kararlı durum seviyeleri tipik olarak 1-3 saat
+içinde elde edilir ve infüzyon kesilinceye veya dozaj ayarlanıncaya kadar sürer. Kararlı durum
+plazma argatroban konsantrasyonları, doz ile orantılı olarak artar (sağlıklı bireylerde 40
+mikrogram/kg/dk infüzyon dozları için) ve kararlı durum antikoagülan etkileri ile iyi
+korelasyon gösterir. Sağlıklı gönüllüler ve kalp hastalarında, 40 mikrogram/kg/dk’ya kadar
+infüzyon dozlarında argatroban, doza bağımlı olarak, aktif parsiyel tromboplastin zamanı
+(aPTT), aktive edilmiş pıhtılaşma zamanı (ACT), uluslararası normalleştirilmiş oran (INR) ve
+trombin zamanını (TT) artırır.
+Emilim:
+Argatroban intravenöz yolla uygulanır ve dolayısıyla hemen tam biyoyararlanıma ulaşır.
+Dağılım:
+Argatroban esas olarak ekstraselüler sıvıda dağılır. Dağılım hacmi (Vdβ) 391 ± 155 mL/kg
+(ortalama ± SD) bulunmuştur. Argatroban, albumine ve α -asit glikoproteinine sırasıyla %20
+1
+ve %34 olmak üzere, insan serum proteinlerine %54 oranında bağlanır.
+Biyotransformasyon:
+Argatrobanın metabolizması henüz tam olarak belirlenememiştir. Tanımlanan metabolitler
+(M1, M2 ve M3), karaciğerde 3-metil tetrahidrokinolin halkasının hidroksillenmesi ve
+aromatizasyonu ile oluşur. Metabolitlerin oluşması, in vitro sitokrom P450 CYP3A4/5
+enzimleri ile katalize edilir, ancak bu in vivo eliminasyonun önemli bir yolu değildir. Birincil
+metabolit (M1), argatrobandan 40 kat daha zayıf antitrombin etki göstermektedir. M1, M2 ve
+M3 metabolitleri idrarda tespit edilmiştir ve M1 metaboliti plazma ve dışkıda da tespit
+edilmiştir.
+21-(R) ve 21-(S) diastereoizomerleri arasında karşılıklı dönüşme yoktur. Diastereoizomerlerin
+oranı metabolizmayla veya karaciğer yetmezliği ile değişmez ve 65:35 (±%2) olarak sabit
+kalır.
+16 / 20Eliminasyon:
+İnfüzyonun sona ermesiyle, argatroban konsantrasyonu hızla azalır. Görünür terminal
+eliminasyon yarılanma ömrü (ortalama ± SD), 52 ± 16 dakikadır. Klirens (ortalama ± SD), 5,2
+± 1,3 mL/kg/dk’dır.
+Argatroban çoğunlukla feçesle, muhtemelen safra salgısı yoluyla atılır. 14C radyoaktif işaretli
+argatrobanın intravenöz infüzyonunu takiben, dozun %21,8 ± 5,8'i idrarla, %65,4 ± 7,1'i
+feçesle atılır.
+Doğrusallık/Doğrusal olmayan durum:
+Bilgi bulunmamaktadır.
+Hastalardaki karakteristik özellikler
+Yaşlı hastalar:
+Klirens, daha genç bireylere oranla %15 daha düşüktür. Yaşa bağlı doz ayarlaması gerekli
+değildir.
+Böbrek yetmezliği:
+Böbrek fonksiyonlarında ciddi bozulma (kreatinin klirensi ≤ 29 mL/dk) olan hastalar ile
+terminal yarılanma ömrü 47 ± 22 dakika bulunan, böbrek fonksiyonları normal olan (kreatinin
+klirensi ≥ 80 mL/dk) hastalar karşılaştırıldığında, bu değer (terminal yarılanma ömrü) sadece
+biraz uzamıştır (65 ± 35 dakika). Başlangıç doz rejimini böbrek işlevine göre ayarlamak
+gerekli değildir.
+Karaciğer yetmezliği:
+Karaciğer yetmezliği olan hastalarda (Child Pugh skoru 7-11) klirens, sağlıklı gönüllülerin
+%26’sı kadardır. Orta dereceli karaciğer yetmezliği olan hastalarda başlangıç dozunun
+azaltılması gereklidir. ARGAZEM, ciddi karaciğer yetmezliği olan hastalarda kontrendikedir.
+Pediyatrik hastalar:
+Ağır pediyatrik hastalarda argatroban klirensi azalmıştır. Popülasyon farmakokinetiği
+modellemesine dayanılarak pediyatrik hastalarda (0,17 L/saat/kg) klirens sağlıklı erişkinlere
+göre (0,31 L/saat/kg) %50 daha düşüktür. Popülasyonun farmakokinetik verileri, infüzyon
+hızının vücut ağırlığına göre ayarlanması gerektiğini de göstermektedir.
+17 / 20Diğer özel popülasyon:
+Popülasyon farmakokinetiği modellemesine dayanılarak, bilirubin düzeyleri normal olan
+pediyatrik hastalara kıyasla, bilirubin düzeyleri yüksek (kardiyak komplikasyonlara veya
+karaciğer yetmezliğine ikincil gelişen) olan hastalarda klirens ortalama %80 daha düşük
+bulunmuştur (0,03 L/saat/kg).
+5.3. Klinik öncesi güvenlilik verileri
+Klinik öncesi veriler, güvenlik farmakolojisi ve genotoksisite konvansiyonel çalışmalarına
+dayanarak insanlar için özel bir tehlike oluşturmadığını ortaya koymaktadır. Sürekli
+intravenöz infüzyonlarla toksisite çalışmaları ve günlük intravenöz bolus enjeksiyonlarını
+kullanarak üreme toksisitesi çalışmaları sadece argatrobana sınırlı sistemik maruz kalma
+sağlamıştır (insanlarda görülen maruziyetin 2 katı). Bu çalışmalar insanlar için herhangi bir
+risk teşkil etmese de, değeri düşük sistematik maruz kalma ile sınırlandırılmıştır.
+6. FARMASÖTİK ÖZELLİKLER
+6.1. Yardımcı maddelerin listesi
+D-sorbitol
+Susuz alkol
+Enjeksiyonluk su
+6.2. Geçimsizlikler
+Bu tıbbi ürün, bölüm 6.6’da belirtilenler hariç diğer tıbbi ürünlerle karıştırılmamalıdır.
+6.3. Raf ömrü
+24 ay
+6.4. Saklamaya yönelik özel tedbirler
+25˚C’nin altındaki oda sıcaklığında, ışıktan koruyarak saklayınız.
+ARGAZEM’in, 9 mg/mL (%0,9) sodyum klorür, glukoz 50 mg/mL (%5) çözeltisi veya
+sodyum laktat I.V infüzyonluk çözeltileri ile seyreltildiğinde (bkz. Bölüm 6.6), seyreltilmiş
+çözeltinin kimyasal, fiziksel olarak kullanım stabilitesi 25˚C ve 2-8˚C’de 14 güne kadardır.
+Ancak mikrobiyolojik açıdan, seyreltilmiş ürün hemen kullanılmalıdır, eğer hemen
+kullanılmıyorsa kullanımdaki saklama süresi ve kullanım öncesi şartları tamamen kullanıcının
+18 / 20sorumluluğundadır ve normalde bu süre, kontrollü ve valide edilmiş aseptik şartlarda
+seyreltme yapılmadığı sürece, 2 ila 8˚C’de 24 saati aşmayacak şekildedir.
+6.5. Ambalajın niteliği ve içeriği
+Her bir kutuda, 1 adet 2,5 mL konsantre çözelti içeren 5 mL’lik tip I renksiz cam flakon
+bulunmaktadır.
+6.6.Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+Kullanılmamış olan ürünler ya da atık materyaller ‘Tıbbi Atıkların Kontrolü Yönetmeliği’ ve
+‘Ambalaj ve Ambalaj Atıklarının Kontrolü Yönetmelikleri’ne uygun olarak imha edilmelidir.
+ARGAZEM, sodyum klorür 9 mg/mL (%0,9) infüzyon çözeltisi, glikoz 50 mg/mL (%5)
+infüzyon çözeltisi veya sodyum laktat intravenöz infüzyon çözeltisi ile son konsantrasyonu 1
+mg/mL olacak şekilde seyreltilir. Eğer çözelti bulanıksa veya çözünmeyen partiküller
+görünüyorsa kullanılmamalı ve atılmalıdır.
+Her 2,5 mL flakon 250 mL seyreltici ile 100 kat seyreltilmelidir. Flakon tek kullanımlıktır.
+Her 250 mL seyreltici için 250 mg (2,5 mL) veya her 500 mL seyreltici için 500 mg (5 mL)
+kullanılır. Oluşturulan çözelti seyreltici torbanın veya şişenin içinde bir dakika boyunca tekrar
+tekrar çevrilmesi ile karıştırılmalıdır. Seyreltilmiş çözelti berrak olmalıdır ve görünür
+parçacıklar içermemelidir. Hazırlama işleminden sonra, çözeltide hızla çözünen mikro-
+çökeltilerin oluşması nedeniyle hafif fakat kısa süreli bir bulanıklık görülebilir.
+İntravenöz hatların, ışığa karşı korunması için folyo ile kaplanması gerekli değildir.
+Korunmamış hatlarla uygulanmasından sonra, önemli bir potens kaybı kaydedilmemiştir.
+7. RUHSAT SAHİBİ
+VEM İLAÇ San. ve Tic. A.Ş
+Maslak Mahallesi AOS 55. Sokak
+42 Maslak A Blok Sit. No: 2/134
+Sarıyer/İSTANBUL
+8. RUHSAT NUMARASI
+2022/585
+19 / 209. İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi: 14.10.2022
+Ruhsat yenileme tarihi:
+10. KÜB’ÜN YENİLENME TARİHİ
+20 / 20

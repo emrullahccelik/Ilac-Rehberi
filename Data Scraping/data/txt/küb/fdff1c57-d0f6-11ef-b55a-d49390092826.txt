@@ -1,0 +1,807 @@
+KISA ÜRÜN BİLGİSİ
+▼
+Bu ilaç ek izlemeye tabidir. Bu üçgen yeni güvenlilik bilgisinin hızlı olarak belirlenmesini
+sağlayacaktır. Sağlık mesleği mensuplarının şüpheli advers reaksiyonları TÜFAM’a
+bildirmeleri beklenmektedir. Bakınız Bölüm 4.8 Advers reaksiyonlar nasıl raporlanır?
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+REXULTI 4 mg film kaplı tablet
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde:
+Brekspiprazol 4 mg
+Yardımcı maddeler:
+Laktoz monohidrat (sığır sütü kaynaklı) 44,4 mg
+Yardımcı maddeler için 6.1’e bakınız.
+3. FARMASÖTİK FORM
+Film tablet.
+Beyaz renkli, yuvarlak, yüzeyden konveks, eğik kenarlı, bir yüzünde “BRX” ve “4” yazılı
+tablet.
+4. KLİNİK ÖZELLİKLER
+4.1 Terapötik endikasyonlar
+REXULTI, yetişkin hastalarda şizofreni tedavisinde endikedir.
+4.2 Pozoloji ve uygulama şekli
+Pozoloji / uygulama sıklığı ve süresi:
+REXULTI için önerilen başlangıç dozu, aç veya tok karnına 1 ila 4. günler arasında günde bir
+kez 1 mg’dır.
+Önerilen hedef doz aralığı günde bir kez 2 mg ila 4 mg arasındadır.
+Hastanın klinik yanıtı ve tolerabilitesine bağlı olarak 5 ila 7. günler arasında günde bir kez 2
+mg ve daha sonra 8. günde 4 mg olarak titre edilebilir.
+Önerilen günlük maksimum doz 4 mg’dır.
+Diğer antipsikotiklerden brekspiprazole geçiş
+Diğer antipsikotiklerden brekspiprazole geçilirken aşamalı çapraz titrasyon düşünülmelidir.
+Brekspiprazol tedavisine başlanırken önceki tedavinin aşamalı olarak kesilmesi gerekir.
+Brekspiprazolden diğer antipsikotiklere geçiş
+Brekspiprazolden diğer antipsikotiklere geçilirken, kademeli bir çapraz titrasyon gerekmez.
+Brekspiprazol kesilirken yeni antipsikotik ilaca en düşük dozda başlanmalıdır.
+1 / 19Brekspiprazolün plazma konsantrasyonunun kademeli olarak düşeceği ve 1 ila 2 hafta içinde
+tamamen elimine edileceği dikkate alınmalıdır.
+Uygulama şekli
+Oral kullanım.
+REXULTI tabletler aç karnına veya yiyeceklerle birlikte alınabilir.
+Özel popülasyonlara ilişkin ek bilgiler:
+Böbrek yetmezliği: Orta ila şiddetli böbrek bozukluğu olan hastalar için önerilen maksimum
+doz şizofreni hastaları için günde bir kez 3 mg'a düşürülmelidir (bkz. Bölüm 5.2).
+Karaciğer yetmezliği: Orta ila şiddetli karaciğer bozukluğu olan hastalar (Child-Pugh skoru
+≥7) için önerilen maksimum doz şizofreni hastaları için günde bir kez 3 mg'a düşürülmelidir
+(bkz. Bölüm 5.2).
+Pediyatrik popülasyon:
+Brekspiprazolün 18 yaşından küçük çocuk ve ergenlerde güvenlilik ve etkililiği
+kanıtlanmamıştır. Veri mevcut değildir.
+Geriyatrik popülasyon: Brekspiprazolün, 65 yaş ve üstü şizofreni hastalarının tedavisindeki
+güvenliliği ve etkililiği henüz belirlenmemiştir (bkz. Bölüm 4.4 ve 5.2). Bu popülasyonda
+minimum etkili/güvenli bir doz önermek mümkün değildir.
+CYP2D6 zayıf metabolizörler: Bilinen CYP2D6 zayıf metabolizör durumu olan hastalar için
+önerilen dozun yarısına kadar doz modifikasyonu yapılması gerekir. Güçlü veya orta derecede
+CYP3A4 inhibitörleri alırken bilinen CYP2D6 zayıf metabolizörleri için önerilen dozun dörtte
+birine kadar daha fazla doz modifikasyonu yapılması gerekir (bkz. Bölüm 4.5 ve 5.2).
+Etkileşimler nedeniyle doz ayarlamaları: Doz ayarlamaları, eş zamanlı olarak güçlü
+CYP3A4 inhibitörleri/indüktörleri veya güçlü CYP2D6 inhibitörleri alan hastalarda
+yapılmalıdır. CYP3A4 inhibitörü/indüktörleri veya CYP2D6 inhibitörü geri çekilirse, dozu
+orijinal doza geri döndürmek gerekebilir (bkz. Bölüm 4.5). REXULTI doz ayarlamalarına
+rağmen advers reaksiyon oluşması durumunda, REXULTI ve CYP2D6 veya CYP3A4
+inhibitörünün birlikte kullanılmasının gerekliliği yeniden değerlendirilmelidir.
+Tablo 1-CYP2D6'yı zayıf metabolize eden hastalarda ve CYP inhibitörleri ile eş zamanlı
+kullanımda REXULTI'nin doz ayarlamaları
+Faktörleri Ayarlı doz
+CYP2D6 zayıf metabolizörleri
+Bilinen CYP2D6 zayıf metabolizörleri Önerilen dozun yarısı uygulanır
+Ciddi/orta CYP3A4 inhibitörlerini alan bilinen CYP2D6 Önerilen dozun çeyreği uygulanır
+zayıf metabolizörleri
+CYP2D6 inhibitörleri ve/veya CYP3A4 inhibitörleri alan hastalar
+Güçlü CYP2D6 inhibitörleri Önerilen dozun yarısı uygulanır
+Güçlü CYP3A4 inhibitörleri Önerilen dozun yarısı uygulanır
+Güçlü/orta CYP3A4 inhibitörleri ile güçlü/orta CYP2D6 Önerilen dozun çeyreği uygulanır
+inhibitörleri
+- “Ciddi/orta CYP3A4 inhibitörlerini alan bilinen CYP2D6 zayıf metabolizörü” olan kişiler
+veya “Güçlü/orta CYP3A4 inhibitörleri ile güçlü/orta CYP2D6 inhibitörleri” kullanan kişiler
+için 1 mg’lık doz kullanılması gerektiğinde; 0,25 mg’lık doz sağlanamadığından tedavi planı
+hekim tarafından yeniden değerlendirilmelidir.
+2 / 19- “Ciddi/orta CYP3A4 inhibitörlerini alan bilinen CYP2D6 zayıf metabolizörü” olan kişiler
+veya “Güçlü/orta CYP3A4 inhibitörleri ile güçlü/orta CYP2D6 inhibitörleri” kullanan hastalar
+için 0,5 mg’lık doz kullanılması gerektiğinde 0,125 mg’lık doz sağlanamadığından tedavi planı
+hekim tarafından yeniden değerlendirilmelidir.
+- “Ciddi/orta CYP3A4 inhibitörlerini alan bilinen CYP2D6 zayıf metabolizörü” olan kişiler
+veya “Güçlü/orta CYP3A4 inhibitörleri ile güçlü/orta CYP2D6 inhibitörleri” kullanan kişiler
+için 3 mg’lık doz kullanılması gerektiğinde 0,75 mg’lık doz sağlanamadığından tedavi planı
+ilgili hekim tarafından yeniden değerlendirilmelidir.
+- “Bilinen CYP2D6 zayıf metabolizörü” olan kişiler veya “Güçlü CYP2D6 inhibitörleri”
+kullanan veya “Güçlü CYP3A4 inhibitörleri” kullanan kişiler için 0,5 mg’lık doz kullanılması
+gerektiğinde 0,25 mg’lık doz sağlanamadığından tedavi planı hekim tarafından yeniden
+değerlendirilmelidir.
+Güçlü CYP3A4 indükleyici ilaçları kullanan hastalar: Brekspiprazol, güçlü CYP3A4
+indüktörleri (örn., rifampisin) ile birlikte kullanılıyorsa, brekspiprazol üzerinde stabilize
+edilmiş bir hastada, günlük brekspiprazol dozunun 1-2 hafta boyunca aşamalı olarak önerilen
+dozun iki katına kadar arttırılması gerekir. Sonrasında klinik yanıta göre ileri doz ayarlamaları
+gerekir; önerilen günlük dozun maksimum üç katına kadar artttırılabilir. Brekspiprazol, güçlü
+CYP3A4 indüktörleri ile birlikte kullanılıyorsa günlük doz 12 mg’ı aşmamalıdır. Günde bir kez
+dozlama, en yüksek dalgalanmalara yol açtığı için, günde iki kez bölünmüş brekspiprazol
+dozunun verilmesi tercih edilir (bkz. Bölüm 4.5).
+CYP3A4 indüktörleri etkilerini zamana bağlı bir şekilde ortaya çıkartır ve başlangıçtan sonra
+en yüksek etkiye ulaşmak için en az 2 hafta gerekebilir. Tersine, kesildiğinde, CYP3A4
+indüksiyonunun azalması en az 2 hafta sürebilir.
+4.3 Kontrendikasyonlar
+Brekspiprazole veya Bölüm 6.1’de listelenen yardımcı maddelerin herhangi birine karşı aşırı
+duyarlılığı olanlarda kontrendikedir.
+Bu reaksiyonlar; kaşıntı, anjiyoödem, yüzde şişlik, anafilaksi ve ürtikerdir.
+4.4 Özel kullanım uyarıları ve önlemleri
+Antipsikotik tedavi sırasında, hastanın klinik durumunun düzelmesi birkaç günden birkaç
+haftaya kadar sürebilir. Bu dönem boyunca hastalar yakından gözlenmelidir.
+İntihar düşüncesi ve davranışı
+İntihar davranışının ortaya çıkışı, psikotik hastalıklar ve duygudurum bozukluklarının
+doğasında vardır ve bazı durumlarda, brekspiprazol tedavisi de dahil olmak üzere antipsikotik
+tedavinin başlatılmasından veya değiştirilmesinden hemen sonra bildirilmiştir (bkz. Bölüm
+4.8). Yüksek risk altındaki hastaların yakından gözlenmesi antipsikotik tedaviye eşlik etmelidir.
+Kardiyovasküler bozukluklar
+Brekspiprazol, klinik çalışmalarda miyokard enfarktüsü/iskemik kalp hastalığı veya klinik
+olarak anlamlı bir kardiyovasküler hastalık öyküsü olan hastalar, hariç tutulduğu için bu
+hastalarda değerlendirilmemiştir.
+Brekspiprazol, bilinen kardiyovasküler hastalığı (miyokard enfarktüsü veya iskemik kalp
+hastalığı, kalp yetmezliği veya iletim anormallikleri öyküsü) olan, serebrovasküler hastalığı
+olan, hastaları hipotansiyona (dehidratasyon, hipovolemi ve antihipertansif tıbbi ürünlerle
+tedavi) veya hipertansiyona (hızlandırılmış veya malign dahil) yatkın hale getirecek
+koşullardaki hastalarda dikkatle kullanılmalıdır.
+3 / 19QT uzaması
+Antipsikotiklerle tedavi edilen hastalarda QT uzaması gelişebilir. Klinik çalışmalarda,
+brekspiprazol ile sadece birkaç ciddi olmayan QT uzaması bildirilmiştir. Bilinen
+kardiyovasküler hastalığı, ailede QT uzaması öyküsü, elektrolit dengesizliği veya QT aralığını
+uzattığı düşünülen diğer tıbbi ürünler ile birlikte kullanan hastalarda brekspiprazol reçete
+edildiğinde dikkatli olunmalıdır (bkz. Bölüm 4.8 ve 5.1).
+Venöz tromboembolizm
+Antipsikotik ilaçlar ile tedavide venöz tromboemboli (VTE) vakaları rapor edilmiştir.
+Antipsikotikler ile tedavi edilen hastalarda VTE riski oluşabileceğinden, brekspiprazol ile
+tedavi sırasında ve öncesinde VTE için tüm olası risk faktörleri belirlenmeli ve koruyucu
+önlemler alınmalıdır.
+Ortostatik hipotansiyon ve senkop
+Ortostatik hipotansiyon ile ilgili advers reaksiyonlar baş dönmesi, sersemlik ve taşikardi
+olabilir. Genellikle, bu riskler antipsikotiklerle tedavinin başlangıcında ve doz artışı sırasında
+en fazladır. Bu advers reaksiyon riski (örneğin yaşlı) veya hipotansiyon nedeniyle
+komplikasyon gelişme riski yüksek olan hastalar; dehidrasyon, hipovolemi, antihipertansif tıbbi
+ürünler ile tedavi, kardiyovasküler hastalık öyküsü (örneğin kalp yetmezliği, miyokard
+enfarktüsü, iskemi veya iletim anormallikleri), serebrovasküler hastalık öyküsü, aynı zamanda
+antipsikotik tedaviye duyarlı olan hastalarda da bu risk vardır. Bu tür hastalarda daha düşük
+başlangıç dozu ve daha yavaş titrasyon düşünülmeli ve ortostatik hayati belirtiler izlenmelidir
+(bkz. Bölüm 4.2).
+Nöroleptik Malign Sendrom (NMS)
+Brekspiprazol dahil antipsikotik tedaviyle ilişkili olarak Nöroleptik Malign Sendrom (NMS)
+olarak adlandırılan potansiyel olarak ölümcül bir semptom kompleksi bildirilmiştir (bkz. Bölüm
+4.8). NMS'nin klinik belirtileri hiperpreksi, kas sertliği, değişmiş zihinsel durum ve otonomik
+instabiliteye dair kanıtlardır (düzensiz nabız veya kan basıncı, taşikardi, diaforez ve kardiyak
+aritmi). Ek bulgular artmış kreatin fosfokinaz, miyoglobinüri (rabdomiyoliz) ve akut böbrek
+yetmezliğini içerebilir. Bir hasta NMS'yi gösteren belirti ve semptomlar geliştirirse veya
+NMS'in ek klinik belirtileri olmadan açıklanamayan yüksek ateşle hastaneye başvurursa, o
+hastada brekspiprazolün derhal kesilmesi gerekir.
+Ekstrapiramidal bulgular (EPB)
+Ekstrapiramidal bulgular (akut distoni dahil) antipsikotikler için bilinen sınıf etkileridir.
+Brekspiprazol, bilinen EPB geçmişi olan hastalarda dikkatli kullanılmalıdır.
+Tardif diskinezi
+Antipsikotiklerle tedavi edilen hastalarda potansiyel olarak geri dönüşümsüz, istemsiz,
+diskinetik hareketler sendromu gelişebilir. Her ne kadar sendromun prevalansı yaşlılar,
+özellikle yaşlı kadınlar arasında en yüksek gibi görünse de, antipsikotik tedavinin
+başlangıcında, hangi hastalarda sendromun gelişebileceğinin tahminlere dayandırılması
+imkansızdır. Brekspiprazol alan bir hastada geç dönem diskinezi belirti ve semptomları
+görülürse, doz azaltımı veya kesilmesi düşünülmelidir. Bu semptomlar geçici olarak
+kötüleşebilir veya tedavinin kesilmesinden sonra bile ortaya çıkabilir.
+Yaşlı hastalarda demansla ilişkili psikoz:
+Konvansiyonel ve atipik antipsikotik ilaçlar demansa bağlı psikozu olan yaşlı hastaların
+tedavisinde kullanıldığında ölüm riskinde artışa neden olmaktadır.
+4 / 19Brekspiprazol, demanslı yaşlı hastalarda klinik çalışma yapılmadığından ve genel mortalitenin
+artma riski nedeniyle demanslı yaşlı hastaların tedavisinde önerilmemektedir.
+Serebrovasküler advers olaylar:
+Demanslı yaşlı hastalarda bazı antipsikotiklerle yapılan plasebo kontrollü çalışmalarda, plasebo
+ile tedavi edilen deneklerle karşılaştırıldığında, ölümler de dahil olmak üzere, serebrovasküler
+advers reaksiyonlar (serebrovasküler olaylar ve geçici iskemik ataklar) daha sık görülmüştür.
+Hiperglisemi ve diabetes mellitus
+Atipik antipsikotiklerle tedavi edilen hastalarda bazı durumlarda şiddetli ve ketoasidoz ya da
+hiperozmolar koma veya ölümle ilişkili hiperglisemi bildirilmiştir. Hastaları ağır
+komplikasyonlara maruz bırakabilecek risk faktörleri arasında obezite ve ailede diyabet öyküsü
+bulunur. Brekspiprazol de dahil olmak üzere herhangi bir antipsikotik ile tedavi edilen hastalar,
+hipergliseminin belirti ve semptomları (polidipsi, poliüri, polifaji ve zayıflık gibi) açısından
+gözlem altında tutulmalıdır. Açlık plazma glukoz seviyeleri, antipsikotik tedavinin
+başlamasından önce veya hemen sonra değerlendirilmelidir. Uzun süreli tedavi sırasında,
+plazma glukoz seviyeleri, glukoz kontrolünün kötüleşmesi açısından düzenli olarak
+izlenmelidir.
+Kilo alma ve dislipidemi
+Brekspiprazol dahil antipsikotikler, kilo alımı ve dislipidemi dahil olmak üzere metabolik
+değişikliklerle ilişkilendirilmiştir. Brekspiprazol tedavisinin süresinin artmasıyla kilo alma
+sıklığında artış gözlenmiştir (bkz. Bölüm 4.8). Tedavinin başlangıcında lipid profili
+değerlendirilmelidir. Tedavi başında ve sırasında ağırlık ve lipid profilinin klinik olarak
+izlenmesi önerilir.
+Nöbetler
+Diğer antipsikotiklerde olduğu gibi, brekspiprazol, nöbet bozukluğu öyküsü olan veya nöbet
+eşiğini potansiyel olarak düşüren diğer durumları olan hastalarda dikkatli kullanılmalıdır.
+Brekspiprazol kullanımı sırasında nöbetler bildirilmiştir (bkz. Bölüm 4.8).
+Vücut sıcaklığı düzenlenmesi
+Antipsikotiklere bağlı olarak vücudun çekirdek vücut sıcaklığını düşürme kabiliyetinde
+bozulma görülebilir. Çekirdek vücut sıcaklığında yükselmeye katkıda bulunabilecek durumlar
+(örneğin yorucu egzersiz, aşırı sıcağa maruz kalma, antikolinerjik aktiviteye sahip tıbbi ürünleri
+birlikte alma veya dehidrasyona maruz kalma) yaşayan hastalara brekspiprazol reçete edilirken
+uygun bakım tavsiye edilir.
+Disfaji
+Antipsikotik ilaç kullanımı özofagus dismotilitesi ve aspirasyon, ile ilişkilendirilmiştir.
+Aspirasyon pnömonisi riski olan hastalarda brekspiprazol dikkatli kullanılmalıdır.
+Dürtü kontrol bozuklukları
+Brekspiprazol ile tedavi edilen hastalarda kumar oynama bozukluğu dahil dürtü kontrol
+bozuklukları bildirilmiştir. Brekspiprazol kullanırken hastalar, özellikle kumar oynamak için
+artan dürtüler yaşayabilir ve bu dürtüleri kontrol edemeyebilir. Bildirilen diğer dürtüler şunları
+içerir: kompulsif cinsel davranışlar, kompulsif alışveriş yapma, aşırı yemek yeme ve diğer
+dürtüsel ve kompulsif davranışlar. Önceden dürtü kontrol bozukluğu öyküsü olan hastalar
+yüksek risk altında olabilir ve dikkatle izlenmelidir. Hastalar bu davranışları anormal olarak
+tanımlamadıklarından brekspiprazol reçete eden hekimlerin hastalarına/hasta yakınlarına yeni
+başlayan ya da artış gösteren dürtü kontrol bozuklukları veya diğer kompulsif davranışlarla
+ilgili sorular sormaları önemlidir. Dürtü kontrol semptomlarının altta yatan bozuklukla ilişkili
+5 / 19olabileceği unutulmamalıdır; ancak, bazı durumlarda, doz azaltıldığında veya ilaç kesildiğinde
+dürtülerin durduğu bildirilmiştir. Kompulsif davranışlar, fark edilmediği takdirde hastaya ve
+başkalarına zarar verebilir. Brekspiprazol kullanırken bu tarz dürtüler gelişen hastalarda doz
+azaltılması veya tedavinin sonlandırılması düşünülmelidir (bkz. Bölüm 4.8).
+Lökopeni, nötropeni ve agranülositoz
+Antipsikotik tedavisi sırasında lökopeni, nötropeni ve agranülositoz (ölümcül vakalar dahil)
+bildirilmiştir. Lökopeni / nötropeni için olası risk faktörleri arasında önceden var olan düşük
+beyaz kan hücresi sayımı (BKH) ve ilaca bağlı lökopeni / nötropeni öyküsü yer alır. Önceden
+var olan düşük WBC veya ilaca bağlı lökopeni / nötropeni öyküsü olan hastaların tam kan
+sayımı (TKS) tedavinin ilk birkaç ayında sık sık izlenmeli ve WBC'de düşüşün ilk belirtisinde,
+eğer diğer nedensel faktörler yoksa brekspiprazol kesilmelidir. Nötropenili hastalar ateş veya
+diğer semptomlar veya enfeksiyon belirtileri açısından dikkatle izlenmeli ve bu tür semptomlar
+veya belirtiler ortaya çıkarsa derhal tedavi edilmelidir. Şiddetli nötropenisi olan hastalarda
+(mutlak nötrofil sayısı <1.000/mm3), brekspiprazol kesilmeli ve iyileşene kadar WBC'leri takip
+edilmelidir.
+Prolaktin
+Brekspiprazol prolaktin düzeylerini yükseltebilir. Brekspiprazol tedavisiyle ilişkili yükselmeler
+genellikle hafiftir ve uygulama sırasında düşebilir, ancak bazı nadir durumlarda etki uygulama
+sırasında devam edebilir (bkz. Bölüm 4.8).
+Uyku apnesi sendromu
+REXULTI kullanan hastalarda uyku apnesi sendromu rapor edilmiştir. Eş zamanlı olarak
+santral sinir sistemi depresanı kullanan hastalar ile uyku apnesi öyküsü olan ya da uyku apnesi
+riski taşıyan (örn; aşırı kilolu/obezler veya erkekler) hastalarda REXULTI kullanılırken dikkatli
+olunmalıdır.
+Laktoz
+İçeriğinde bulunan laktoz nedeniyle, nadir kalıtımsal galaktoz intoleransı, Lapp laktaz
+yetmezliği ya da glukoz-galaktoz malabsorpsiyon problemi olan hastaların bu ilacı
+kullanmamaları gerekir.
+4.5 Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+Brekspiprazol, ağırlıklı olarak CYP3A4 ve CYP2D6 ile metabolize edilir.
+Diğer tıbbi ürünlerin REXULTI üzerindeki etkisi:
+CYP3A4 inhibitörleri
+Güçlü bir CYP3A4 inhibitörü olan ketokonazolün (7 gün boyunca günde iki kez 200 mg) 2 mg
+oral tek doz brekspiprazol ile birlikte uygulanması, brekspiprazolün EAA'sını %97 oranında
+artırmış ve C 'da değişiklik olmamıştır. Etkileşim çalışmalarının sonuçlarına göre, güçlü
+maks
+CYP3A4 inhibitörleri (itrakonazol, ketokonazol, ritonavir ve klaritromisin) ile birlikte
+uygulandığında brekspiprazol dozunun yarıya kadar azaltılarak doz ayarlaması yapılması
+önerilir.
+CYP3A4 indükleyiciler
+Güçlü bir CYP3A4 indükleyicisi olan rifampisinin (12 gün boyunca günde iki kez 600 mg),
+oral tek doz 4 mg oral brekspiprazol ile birlikte uygulanması, brekspiprazolün C ve EAA
+maks
+değerlerinde sırasıyla yaklaşık %31 ve %73 düşüşle sonuçlanmıştır. Brekspiprazol, güçlü
+CYP3A4 indükleyicileri (örn. Rifampisin) ile birlikte kullanılırsa, brekspiprazolün toplam
+günlük doz gereksinimi, önerilen günlük dozun yaklaşık üç katı kadar artar (bkz.Bölüm 4.2).
+6 / 19CYP3A4 indükleyicileri uygulanırken günde bir kez dozlama yüksek pik düzeylerine ulaşma
+ve ani düşüş şeklinde dalgalanmaya neden olur, bu nedenle günde iki kez bölünmüş dozlama
+tercih edilir.
+CYP2D6 inhibitörleri
+Güçlü bir CYP2D6 inhibitörü olan kinidin (7 gün süreyle 324 mg / gün) ile oral 2 mg tek doz
+brekspiprazolün birlikte uygulanması, brekspiprazolün EAA'sını %94 artırmış ve C 'ta
+maks
+değişiklik olmamıştır. Etkileşim çalışmalarının sonuçlarına göre, güçlü CYP2D6 inhibitörleri
+(kinidin, paroksetin ve fluoksetin) ile birlikte uygulandığında, brekspiprazolün dozun yarısına
+ayarlanması önerilir.
+Popülasyon farmakokinetik analizinden elde edilen tahminlere göre, hem CYP3A4 hem de
+CYP2D6 inhibitörleri alan CYP2D6 hızlı metabolizörleri veya güçlü CYP3A4 inhibitörleri alan
+CYP2D6 zayıf metabolizörleri, brekspiprazol konsantrasyonlarında yaklaşık 4 kat ila 5 kat
+artışa sebep olabilir ve bu hastalarda brekspiprazol dozunun dörtte birine ayarlanması önerilir
+(bkz. Bölüm 4.2).
+REXULTI’nin diğer tıbbi ürünler üzerindeki etkisi:
+In vitro çalışmaların sonuçlarına dayanarak, brekspiprazolün sitokrom P450 enzimleri
+tarafından metabolize edilen tıbbi ürünlerle klinik olarak önemli farmakokinetik etkileşimlere
+neden olma olasılığı yoktur. Brekspiprazol, Meme Kanseri Dirençli Protein taşıyıcısı (BCRP)
+ve P-glikoprotein (P-gp) taşıyıcısının substratı olan tıbbi ürünlerin emilimini etkilemez.
+Brekspiprazol, QT uzamasına veya elektrolit dengesizliğine neden olduğu bilinen tıbbi
+ürünlerle birlikte dikkatli kullanılmalıdır.
+Brekspiprazol, kreatin fosfokinazını (CPK) arttırdığı bilinen tıbbi ürünlerle birlikte uygulanırsa,
+brekspiprazolün indüklediği CPK artışı ile olası ilave etki göz önüne alınmalıdır.
+Farmakodinamik etkileşimler
+Şu anda brekspiprazolün farmakodinamik etkileşimleri hakkında hiçbir bilgi mevcut değildir.
+Diğer tıbbi ürünler ile birlikte reçetelendirilirken dikkatli olunmalıdır. Brekspiprazolün primer
+Merkezi Sinir Sistemi (MSS) etkileri göz önüne alındığında, brekspiprazol alkol veya sedasyon
+gibi örtüşen advers reaksiyonlara sahip diğer MSS tıbbi ürünleri ile birlikte alındığında dikkatli
+olunmalıdır (bkz. Bölüm 4.8).
+Özel popülasyonlara ilişkin ek bilgiler
+Etkileşim çalışması yapılmamıştır.
+Pediyatrik popülasyon:
+Etkileşim çalışması yapılmamıştır.
+4.6 Gebelik ve laktasyon
+Genel tavsiye:
+Gebelik Kategorisi: C
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon):
+REXULTI, doğum kontrol yöntemi kullanmayan çocuk doğurma potansiyeli bulunan
+kadınlarda önerilmez.
+7 / 19Gebelik dönemi:
+Brekspiprazolün gebe kadınlarda kullanımına ilişkin yeterli veri mevcut değildir. Hayvanlar
+üzerinde yapılan araştırmalar üreme toksisitesinin bulunduğunu göstermiştir (bkz. Bölüm 5.3).
+Gebeliğin üçüncü trimesterinde antipsikotik ilaçlara maruz kalan yenidoğanlar, doğumu
+takiben şiddeti değişebilen, anormal kas hareketleri (ekstrapiramidal işaretler/ ekstrapiramidal
+semptomlar) ve/veya yoksunluk semptomları dahil olmak üzere advers reaksiyon riski
+altındadırlar. Bu semptomlar, ajitasyon, hipertoni, hipotoni, tremor, somnolans, respiratuar
+distres veya beslenme bozukluklarını içermektedir. Sonuç olarak yenidoğan bebekler dikkatle
+izlenmelidir.
+REXULTI kullanımı hamilelikte önerilmez.
+Laktasyon dönemi:
+Brekspiprazolün veya metabolitlerinin insan sütüyle atılıp atılmadığı bilinmemektedir.
+Hayvanlar üzerinde yapılan çalışmalarda mevcut farmakodinamik/toksikolojik veriler,
+sıçanlarda brekspiprazolün veya metabolitlerinin sütle atıldığını göstermektedir (bkz. Bölüm
+5.3). Yenidoğan ve bebekler için risk göz ardı edilemez. Emzirmenin durdurulup
+durdurulmayacağına ya da REXULTI tedavisinin durdurulup durdurulmayacağına ilişkin karar
+verilirken, emzirmenin çocuk açısından faydası ve REXULTI tedavisinin emziren anne
+açısından faydası dikkate alınmalıdır.
+Üreme yeteneği / Fertilite:
+Brekspiprazolün üreme üzerindeki etkisi değerlendirilmemiştir. Hayvanlar üzerinde yapılan
+çalışmalar kadınlarda fertilitenin azaldığını göstermektedir (bkz. Bölüm 5.3).
+4.7 Araç ve makine kullanımı üzerindeki etkiler
+Brekspiprazol, sedasyon ve baş dönmesi gibi potansiyel sinir sistemi etkileri nedeniyle araç ve
+makine kullanma yetisi üzerinde minör ya da orta düzeyde bozulmalara neden olabilir (bkz.
+Bölüm 4.8).
+4.8 İstenmeyen etkiler
+Güvenlik profili özeti
+En sık gözlenen advers reaksiyonlar (ADR’ler); akatizi (%5,6) ve kilo alımı (%3,9) olmuştur.
+Advers Reaksiyon Tablosu
+Brekspiprazol tedavisi ile ilişkili advers ilaç reaksiyonları sıklıkları aşağıdaki tabloda
+verilmektedir. Tabloda verilen advers reaksiyonlar kısa süreli plasebo kontrollü Faz 2 ve 3
+klinik çalışmalar sonrası raporlanmıştır.
+Çok yaygın (≥ 1/10); yaygın (≥ 1/100 ila <1/10); yaygın olmayan (≥1/1.000 ila <1/100); seyrek
+(≥1/10.000 ila <1/1.000); çok seyrek (<1/10.000), bilinmiyor (eldeki verilerden hareketle
+tahmin edilemiyor). Her sıklık grubunda istenmeyen etkiler daha ciddi istenmeyen etkilerle
+başlanıp istenmeyen olayın ciddiyeti azalacak şekilde devam edilmiştir.
+Tablo 2-Şizofreni Endikasyonu İçin Advers Reaksiyon Tablosu
+Çok Yaygın Yaygın Yaygın Olmayan Bilinmiyor
+Bağışıklık sistemi Döküntü Anjiyoödem
+hastalıkları Ürtiker
+Yüz şişmesi
+8 / 19Çok Yaygın Yaygın Yaygın Olmayan Bilinmiyor
+Metabolizma ve Kilo artışı
+beslenme hastalıkları
+Psikiyatrik İntihar girişimi Kumar
+hastalıkları İntihar düşüncesi oynama
+Dürtüsel
+davranış
+Aşırı yeme
+Kompulsif
+alışveriş
+yapma
+Kompulsif
+cinsel
+davranış
+Sinir sistemi Akatizi Parkinsonizm Nöbetler
+hastalıkları Baş dönmesi Nöroleptik
+Tremor malign
+Sedasyon sendrom
+(NMS)
+Kardiyak hastalıklar QT uzaması
+Vasküler hastalıkları Venöz
+tromboemboli
+(pulmoner emboli
+ve derin ven
+trombozu dahil)
+Ortostatik
+hipotansiyon
+Solunum, göğüs Öksürük
+bozuklukları ve
+mediastinal
+hastalıkları
+Gastrointestinal Diyare Diş çürüğü
+hastalıkları Bulantı Midede gaz
+Abdominal
+ağrı
+Kas-iskelet Sırt ağrısı Miyalji Rabdomiyoliz
+bozukluklar, bağ Ekstremitede
+doku ve kemik ağrı
+hastalıkları
+Gebelik, Neonatal
+puerperiyum yoksunluk
+durumları ve sendromu
+perinatal hastalıkları
+9 / 19Çok Yaygın Yaygın Yaygın Olmayan Bilinmiyor
+Araştırmalar Artmış kan Artmış kan Artmış kan
+prolaktini* kreatin basıncı
+fosfokinaz Artmış kan
+trigliseridi
+Artmış karaciğer
+enzimleri
+* Artan kan prolaktin kategorizasyonu > 1 x üst normal sınır (ULN) Potansiyel Klinik Olarak İlgili
+(PCR) kriterlerine dayanmaktadır.
+Seçilmiş advers reaksiyonların tanımları
+Ekstrapiramidal bulgular (EPB)
+Brekspiprazol 2 mg/gün ila 4 mg/gün grubunda (%5,6), plasebo %4,5 ile karşılaştırıldığında en
+sık bildirilen EPB ile ilişkili advers reaksiyon akatizidir, ardından tremor (%2,7)’ye karşı
+plaseboda %1,2’ye ulaşmıştır. Kısa süreli, kontrollü çalışmalarda bildirilen EPB ile ilişkili diğer
+advers reaksiyonların insidansı diskinezi (%0,4), ekstrapiramidal bozukluk (%1,8) ve
+Parkinsonizm (%0,4) olmuştur.
+Akatizi
+Sabit doz çalışmalarında, brekspiprazol ile tedavi edilen hastalarda akatizi için bir doz-yanıt
+ilişkisinin daha yüksek dozlarla artan bir sıklıkta olduğu görülmektedir. Akatizi insidansı,
+brekspiprazol 1 mg/gün, 2 mg/gün ve 4 mg/gün gruplarında, plasebo grubundaki deneklerin
+%5,2'si ile karşılaştırıldığında sırasıyla %3,0, %4,6 ve %6,5 olmuştur.
+Akatizi görülme sıklığı, kısa süreli, kontrollü çalışmalarda (%5,4) uzun süreli açık etiketli
+çalışmalarda (%5,7) görülme sıklığına benzer olmuştur.
+İntihar eğilimi
+Kısa süreli, kontrollü çalışmalarda, intihar ile ilgili Tedavide Ortaya Çıkan Advers Olaylar
+(TEAE), tüm brekspiprazol tedavi grubunda 8 denek (%0,5, 2 ciddi olay, 1'inin kesilmesine yol
+açan) ve plasebo grubunda 3 denekte (%0,4, hiçbiri ciddi değil) ortaya çıkmıştır. Uzun dönem
+açık etiketli çalışmalarda, 23 denek için (%1,6) intiharla ilgili TEAE'ler bildirilmiştir. Genel
+olarak şizofreni için brekspiprazol klinik gelişim programında, araştırmacı tarafından ilaçla
+ilgili olmadığı düşünülen intihar nedeniyle bir ölüm meydana gelmiştir. Pazarlama sonrası
+ortamda tamamlanmış intihar ve intihar girişimi bildirilen spontan vakalar bildirilmiştir.
+QT uzaması
+Brekspiprazol ile yapılan kısa süreli kontrollü çalışmalarda, 2 mg - 4 mg grubunda (%0,3) QT
+uzamasına bağlı 3 TEAE'ye karşı, plasebodaki deneklerde 3 TEAE (%0,5) bildirilmiştir. Uzun
+süreli çalışmalardaki TEAE insidansı, kısa dönemli çalışmalardakilere benzer olmuştur.
+Brekspiprazolün terapötik (4 mg) ve supra-terapötik (12 mg) dozlarda QT aralığına etkisi,
+randomize, çift kör, plasebo ve pozitif kontrollü (moksifloksasin) paralel kol çalışmadaki
+şizofreni veya şizoaffektif bozukluğu olan deneklerde değerlendirilmiştir. Bu çalışmanın alt
+grup analizleri, QTc uzamasının kadın deneklerde erkeklere göre daha büyük olduğunu
+göstermiştir (bkz. Bölüm 5.1).
+Kilo alma
+Kısa süreli, kontrollü çalışmalarda, klinik olarak anlamlı kilo alımı (vücut ağırlığında başlangıç
+düzeyinden ≥ %7 artış) olan deneklerin yüzdesi, brekspiprazol 2 mg/gün ila 4 mg/gün grubunda
+%9,1, plasebo grubunda ise %3,8 olmuştur.
+10 / 19Uzun dönem, açık etiketli çalışmada, klinik olarak anlamlı kilo artışı olan hastaların yüzdesi
+(vücut ağırlığında ≥%7 artış) herhangi bir ziyarette %20,7 gözlenmiştir ve hastaların %0,4’ü
+kilo alımı nedeniyle tedaviyi kesmiştir. Başlangıca göre ≥%7 kilo artışı olan hastalarda, kilo
+zamanla giderek artmış ve 52. haftada ortalama kilo artışı 10,2 kg olmuştur. Uzun dönem, açık
+etiketli çalışmada brekspiprazol grubu için vücut ağırlığındaki ortalama değişiklik 52. haftada
+2,1 kg olmuştur.
+Prolaktin
+Kısa süreli ve kontrollü çalışmalarda kan prolaktin insidansı 2 mg - 4 mg brekspiprazol
+grubunda %0,9 iken, plaseboda %0,5 olmuştur. Kısa dönem çalışmalarda kadınlarda erkeklere
+göre prolaktin sıklığı artışı (%1,5'e karşı %0,60), daha fazla gözlenmiştir. Ayrıca, 2 mg - 4 mg
+brekspiprazol grubunda prolaktin artışı sıklığı > 1 x ULN, kadınlarda %13,7, erkeklerde %6,4
+iken, plasebo grubunda kadınlarda %10,3, erkeklerde %11,1 olmuştur.
+Nöroleptik malign sendrom
+Brekspiprazol ile birlikte Nöroleptik Malign Sendromu (NMS) olarak adlandırılan potansiyel
+olarak ölümcül bir semptom kompleksi bildirilmiştir (bkz. Bölüm 4.4).
+Bulantı
+Bulantı için, 2 mg - 4 mg brekspiprazol grubundaki insidans, kısa süreli kontrollü çalışmalarda
+genel olarak %2,3 iken; plasebo grubunda bu oran %2,0'dır; kusma için bu insidanslar
+brekspiprazol ile tedavi edilen grupta %1,0 iken plasebo grubunda %1,2 idi.
+Cinsiyet farklılıkları açısından, kısa süreli çalışmalarda, plasebo alan deneklerde, brekspiprazol
+ile tedavi edilen deneklerdeki erkeklere kıyasla bulantı (%4,8'e karşı %2,8) ve kusma (%4,6'ya
+karşı %1,4) görülmüştür; bulantı sıklığı erkeklerde %2,8 iken, kadınlarda %3,2, kusma ise
+kadınlarda %3,0 iken kadınlarda %2,6'dır (bkz. Bölüm 5.2).
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonların raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir (www.titck.gov.tr; e-
+posta:tufam@titck.gov.tr; tel:0 800 314 00 08; faks: 0 312 218 35 99)
+4.9 Doz aşımı ve tedavisi
+Aşırı dozdan hemen sonra gastrik yıkama ve emetik ile tedavi faydalı olabilir. Doz aşımı
+durumunda bir elektrokardiyogram alınmalı ve QT aralığı uzaması mevcutsa kardiyak izleme
+yapılmalıdır.
+Diğer taraftan, doz aşımı yönetimi destekleyici tedaviye, yeterli hava yolu, oksijenasyon ve
+ventilasyon sürdürülmeli ve semptomların yönetimine odaklanmalıdır. Hasta iyileşene kadar
+yakın tıbbi izlem ve gözlem devam etmelidir.
+2 mg oral brekspiprazol dozunun alınmasından bir saat sonra uygulanan oral aktif kömür ve
+sorbitol (50 g / 240 mL), sırasıyla brekspiprazol C ve EAA'yı yaklaşık %5 ila %23 ve %31
+maks
+ila %39 azaltmıştır; bununla birlikte, aktif kömürün, brekspiprazol ile aşırı dozun tedavi
+edilmesinde terapötik potansiyeli hakkında yeterli bilgi yoktur.
+Hemodiyalizin brekspiprazol doz aşımı tedavisindeki etkisi hakkında bilgi bulunmamasına
+rağmen, hemodiyalizin doz aşımı tedavisinde yararlı olması muhtemel değildir, çünkü
+brekspiprazol plazma proteinlerine yüksek oranda bağlanır.
+11 / 195. FARMAKOLOJİK ÖZELLİKLER
+5.1 Farmakodinamik özellikler
+Farmakoterapötik grup: Psikoleptikler, Antipsikotikler, Diğer antipsikotikler
+ATC kodu: N05AX16
+Etki mekanizması:
+Brekspiprazol, atipik bir antipsikotik ajandır. Brekspiprazolün farmakolojisinin, serotonerjik 5-
+HT ve dopaminerjik D reseptörlerinde kısmi agonist aktiviteyi serotonerjik 5-HT
+1A 2 2A
+reseptörlerinde antagonist aktiviteyle benzer düzeyde yüksek reseptör afinitesi (Ki: 0,1 nM ila
+0,5 nM) ile birleştirerek serotonin ve dopamin sistemlerinde modüle edici bir aktivitenin
+aracılık ettiğine inanılmaktadır. Brekspiprazol ayrıca benzer sub-nanomolar Ki aralığında (Ki:
+0,2 nM ila 0,6 nM) afinite ile noradrenerjik α reseptörlerinde antagonist aktivite gösterir.
+1B/2C
+Farmakodinamik etkiler:
+Genetik varyasyonun brekspiprazole verilen farmakodinamik yanıtlar üzerindeki etkileri
+araştırılmamıştır.
+QT Üzerine Etkileri
+Şizofreni veya şizoaffektif bozukluğu olan hastalarda brekspiprazol'ün QT aralığı üzerindeki
+etkileri değerlendirilmiştir. Genel analizde, brekspiprazol, QT aralığını, terapötik ve supra-
+C
+terapötik dozları (4 mg / gün; n = 62 veya 12 mg / gün; n = 53) takiben klinik olarak anlamlı
+ölçüde uzatmamış ve brekspiprazol konsantrasyonları ve QT uzaması arasında bir ilişki
+C
+gözlenmemiştir.
+Kapsamlı QT çalışmasından elde edilen alt grup analizleri, QT uzamasının kadın deneklerde
+C C
+erkeklere göre daha büyük olduğunu göstermiştir. Brekspiprazol 4 mg/gün grubunda, QT
+C
+aralığında başlangıçtan itibaren plasebo ile ayarlanan maksimum ortalama değişim erkeklerde
+(n = 48) ve 15.0 ms (%90 GA: 7,7, 22,3) kadınlarda (n = 14) dozlamadan sonra 6 saatte 5,2 ms
+olmuştur (%90 GA: 1,5, 8,9). Brekspiprazol 12 mg/gün grubunda, QT aralığında taban
+C
+çizgisinden elde edilen maksimum plasebo-uyarlanmış ortalama değişim, dozlamadan 12 saat
+sonra erkeklerde (n = 40) 2,9 ms (%90 GA: -1,2, 6,9) ve dozlamadan sonra 24 saatte kadınlarda
+(n=13) 10.4 ms (%90 GA: 2,7, 18,2) olmuştur.
+Çalışmaya katılan kadın denek sayısının erkek denek sayısından az olması nedeniyle kesin
+sonuçlara varabilmek mümkün olmamaktadır.
+Klinik etkililik ve güvenlilik
+Brekspiprazolün şizofreni hastalarının tedavisindeki etkililiği ve güvenliliği iki çok uluslu ve
+bir bölgesel (Japonya), 6 haftalık, randomize, çift kör, plasebo kontrollü, sabit dozlu klinik
+çalışma (çalışmalar 1-3), çok uluslu bir 6 haftalık randomize, çift kör, plasebo kontrollü, aktif
+referans (ketiapin), esnek doz klinik çalışma (çalışma 4) ve birçok uluslu, plasebo kontrollü 52
+haftalık bakım deneyi (çalışma 5) ile çalışılmıştır. Çalışmalar 18-65 yaşları arasındaki 2.690
+hastayı içermiştir.
+1, 2 ve 3 numaralı çalışmalarda brekspiprazol, Bölüm 4.2'de açıklandığı üzere 4 gün boyunca
+1 mg, ardından 5-7 günlerde 2 mg'a titre edilmiştir. 8. günde, tedavi kollarının bazıları için doz
+4 mg'a yükseltilmiştir.
+Kısa süreli çalışmalar
+Üç sabit dozlu, kısa süreli çalışmada (1, 2 ve 3 numaralı çalışmalarda), denekler günde bir kez
+2 mg, günde bir kez 4 mg veya plasebo olmak üzere brekspiprazole randomize edilmiştir.
+12 / 19Çalışma 4, test duyarlılığı için 2 mg/gün ila 4 mg/gün ve 400 mg ila 800 mg ketiapin uzatılmış
+salımlı (XR) esnek bir dozda brekspiprazolün etkililiğini, güvenliliğini ve tolere edilebilirliğini
+değerlendirmiştir. Kısa dönem çalışmalarda, primer etkililik sonlanım noktası, Pozitif ve
+Negatif Sendrom Ölçeği (PANSS) toplam puanlarında başkangıç düzeyinden 6 haftaya kadar
+olan ortalama değişim, pozitif semptomları değerlendirmek için beş faktörden oluşan çok
+maddeli bir envanter, negatif semptomlar düzensiz düşünceler, kontrolsüz düşmanlık/heyecan
+ve kaygı/depresyon olarak tanımlanmıştır.
+Bir, iki ve dört numaralı çalışmalarda kilit sekonder sonlanım noktası, 7 noktalı bir klinisyenin
+hastalığın şiddetini değerlendirdiği klinik şizofreninin Klinik Global İzlenimi (CGI-S)
+olmuştur. CGI-S ayrıca Çalışma 3 ve 5'te sekonder sonlanım noktası olarak değerlendirilmiştir.
+Brekspiprazolün etkileri ayrıca önceden belirlenmiş birçok sekonder sonlanım noktası boyunca
+değerlendirilmiştir; şizofreni semptomlarının spesifik yönleri (PANSS Pozitif Abone skoru,
+PANSS Negatif Abone skoru, PANSS Uyarılmış Bileşen [PEC] puanı, PANSS Marder
+faktörleri pozitif, negatif, dağınık düşünceler, kontrolsüz düşmanlık/heyecan ve
+endişe/depresyon faktörleri) (başlangıç değerine kıyasla PANSS toplam puanında% 30
+iyileşme veya 1 [çok fazla iyileştirilmiş] veya 2 [çok iyileştirilmiş] CGI-I skoru olarak
+tanımlanır).
+Hem brekspiprazol 2 mg/gün hem de 4 mg/gün için çalışma 1'de etkililik gösterilmiştir ve
+çalışma 2'de sadece brekspiprazol 4 mg/gün için ve çalışma 3'te sadece brekspiprazol 2 mg/gün
+için replikasyon yapılmıştır.
+Esnek doz çalışmasında 4, 6. haftada, brekspiprazol tedavi grubundaki denekler, PANSS
+toplam puanında plasebo grubundaki deneklerden sayısal olarak daha büyük gelişmelere
+rağmen, 6. haftadaki fark primer etkililik analizi için istatistiksel olarak anlamlı olmamıştır (p
+= 0,0560) (bkz. Tablo 3). Aynı çalışmada, aktif referans, ketiapin XR, sadece test duyarlılığı
+için, plasebodan ayrılmış olarak ilave edilmiştir.
+Tablo 3- Şizofrenide 6 haftalık çalışmalar için primer etkililik sonuçları
+Çalışma Tedavi grubu n Primer etkinlik ölçümü: PANSS
+Ortalama başlangıç Başlangıç LS ortalama p-değeri
+düzeyi skoru (SS) düzeyinden farka,b
+LS ortalama (%95 GA)
+değişim
+(SH)
+1 Brekspiprazol 180 95.,85 -20.,73 -8.,72 < 0.,0001
+(2 mg/gün)* (13.,75) (1.,55) (-13.,1,-4.,37)
+Brekspiprazol 178 94.,7 -19.,65 -7.64 0.,0006
+(4 mg/gün)* (12.,06) (1.54) (-12.,0,-3.,30)
+Plasebo 178 95.,69 -12.,01 -- --
+(11.,46) (1.,6)
+2 Brekspiprazol 179 96.,3 -16.,61 -3.,08 0.,1448
+(2 mg/gün) (12.,91) (1.,49) (-7.,23,1.,07)
+Brekspiprazol 181 94.,99 -20 -6.,47 0.,0022
+(4 mg/gün)* (12.,38) (1.,48) (-10.,6,-2.,35)
+Plasebo 180 94.63 -13.,53 -- --
+(12.,84) (1.,52)
+3 Brekspiprazol 113 96.,55 -14.,95 -7.,32 0.,0124
+(2 mg/gün)* (19.,2) (2) (-13.,04,-
+1.,59)
+Brekspiprazol 109 96.,39 -11.,49 -3.,86 0.,1959
+13 / 19(4 mg/gün) (15.73) (2.10) (-9.,71,2)
+Plasebo 113 97.,19 -7.,63 -- --
+(19.,27) (2.,11)
+4 Brekspiprazol 150 97.,82 -19.,99 -4.,1 0.,056
+(2 mg/gün - 4 (10.,25) (1.,51) (-8.,2,0.,1)
+mg/gün)
+Plasebo 159 98.,38 -15.,93 -- --
+(10.3) (1.49)
+SS: Standart sapma
+SH: Standart hata
+LS Ortalama: En küçük kareler ortalaması.
+GA: Güven aralığı
+*: Tedavi, plaseboya göre istatistiksel olarak anlamlı derecede üstün
+a: Fark (brekspiprazol eksi plasebo), en az karelerde ortalamadan 6. haftada ortalama değişim
+b: Bireysel çalışmalar için LS Ortalaması, % 95 GA ve p değerleri, bir MMRM (karışık etkili tekrar
+ölçüm modeli) analizinden aşağıdaki gibi elde edilmiştir: tesis, tedavi, vizit ve vizit başına tedavi
+etkileşiminin, başlangıç düzeyi ile etkileşimle değişkenler olarak sabit etkileri. Yapısal olmayan
+varyans-kovaryans matris yapısı kullanılmıştır.
+Primer istatistiksel analiz, MAR (rastgele kayıp) imitasyonuna sahip bir MMRM modeli
+kullanılarak yapıldı. Plasebo bazlı çoklu imputasyon (PMI) kullanan bir duyarlılık analizinin
+sonuçları, primer analizle tutarlı olmuştur.
+(Anahtar) sekonder sonuç parametresi ve ek sonlanım noktaları için sonuçlar primer sonlanım
+noktasını desteklemiştir.
+Çalışma 1'de, 6. haftadaki temel sekonder etkililik ölçüsü olan CGI-S'de, plasebo doz gruplarına
+kıyasla 2 mg/gün ve 4 mg/gün için istatistiksel olarak anlamlı daha büyük bir gelişme
+gösterilmiştir. Test hiyerarşisi nedeniyle, CGI-S'de hem 2 mg/gün hem de 4 mg/gün için
+gösterilen daha büyük iyileşme sadece 2, 3 ve 4. çalışmalar için destekleyici olarak kabul
+edilebilir (bkz. Tablo 4).
+Tablo 4 - Şizofrenide 6 haftalık çalışmalar için anahtar sekonder etkililik sonuçları
+Çalışma Tedavi grubu n Anahtar sekonder etkililik ölçüsü: CGI-S
+Ortalama Başlangıç LS p-değeri
+başlangıç düzeyinden LS ortalama
+düzeyi skoru ortalama farka (%
+(SS) değişim (SH) 95 GA)
+1 Brekspiprazol 181 4.,9 -1.,15 -0.,33 0.,0056
+(2 mg/gün)* (0.,64) (0.,08) (-0.,56,-
+0.,1)
+Brekspiprazol 178 4.,81 -1.,2 -0.,38 0.,0012
+(4 mg/gün)* (0.,64) (0.,08) (-0.,61,-
+0.,15)
+Plasebo 181 4.,84 -0.,82 -- --
+(0.,66) (0.,09)
+2 Brekspiprazol 180 4.,96 -0.,99 -0.,19 0.,1269
+(2 mg/gün) (0.,65) (0.,09) (-
+0.,42,0.,05)
+Brekspiprazol 183 4.,85 -1.19 -0.,38 0.,0015
+(4 mg/gün)* (0.,64) (0.,08) (-0.,62,-
+0.,15)
+Plasebo 181 4.,87 -0.,81 -- --
+14 / 19(0.,61) (0.,09)
+3 Brekspiprazol 113 4.,80 -0.,84 -0.,35 0.,0308
+(2 mg/gün)* (0.,78) (0.,11) (-0.,67, -
+0.,03)
+Brekspiprazol 109 4.,71 -0.,64 -0.,16 0.,3461
+(4 mg/gün) (0.,75) (0.,12) (-
+0.,48,0.,17)
+Plasebo 113 4.,73 -0.,48 -- --
+(0.,71) (0.,12)
+4 Brekspiprazol * 150 4.,96 -1.,21 -0.,27 0.,0142
+(2 mg/gün - (0.,59) (0.,08) (-0.,49, -
+4 mg/gün)b 0.,06)
+Plasebo 159 4.,94 -0.,93 -- --
+(0.,57) (0.,08)
+SS: Standart sapma
+SH: Standart hata
+LS Ortalama: En küçük kareler ortalaması.
+GA: Güven aralığı
+*: Tedavi, plaseboya göre istatistiksel olarak anlamlı derecede üstün
+a: Fark (brekspiprazol eksi plasebo), en az karelerde ortalamadan 6. haftada ortalama değişim
+b: Ortalama doz 3.5 mg/gün
+Etkililik çalışmasının idamesi
+Çalışma 5'te, şizofreni relapsını geciktirmek için zaman gecikmesini değerlendirerek
+brekspiprazolün etkisinin sürdürülmesini değerlendirmek amacıyla, 1 mg/gün - 4 mg/gün
+brekspiprazol ile tedaviye cevap veren şizofreni hastaları üzerinde tasarlanmış uzun süreli bir
+çalışmadır, bu çalışmada 12-36 hafta boyunca denekler stabilize edilmiştir, ve brekspiprazolün
+stabilizasyon dozu (n = 96) ile tedaviye devam etmek veya 52 hafta boyunca plasebo (n = 104)
+almak için veya relaps gerçekleşene kadar çift kör olarak randomize edilmişlerdir.
+Relaps zamanının primer analizinde, brekspiprazol hastalarında plasebo hastalarına göre relaps
+için anlamlı olarak daha uzun süre gösterilmiştir (p <0,0001). 52. haftada, brekspiprazol
+(%13,5), plaseboya (%38,5) kıyasla relaps riskini %71 azaltmıştır. Stabilizasyon sırasında,
+brekspiprazol klinik semptomu (PANSS, CGI-S ve CGI-I [ANCOVA (Kovaryans Analizi)
+LOCF (Yapılan Son Gözlem)] tarafından değerlendirildiği şekilde) ve işleyişini (Fonksiyonel
+Global Değerlendirme (GAF) [ANCOVA LOCF] tarafından değerlendirildiği şekilde)
+iyileştirmiştir. Bu gelişmeler, brekspiprazol hastalarında 52 haftalık çift kör idame fazı boyunca
+sürdürülürken, plaseboya randomize edilen hastalar PANSS, CGI-S ve CGI-I ve GAF
+skorlarında bozulma göstermiştir [ANCOVA LOCF]). Brekspiprazol plasebo ile
+karşılaştırıldığında semptom kontrolü ve işleyişini sürdürmüştür.
+5.2 Farmakokinetik özellikler
+Genel özellikler
+Emilim:
+Brekspiprazol tablet uygulamasından sonra, en yüksek plazma konsantrasyonları tekli doz
+uygulamalarından 4 saat sonra ortaya çıkar; tablet formülasyonunun mutlak oral
+biyoyararlanımı %95,1'dir. Brekspiprazol sabit durum konsantrasyonları, dozlamanın 10-12
+gününde elde edilir. 4 mg'lık bir brekspiprazol tabletin standart olarak yüksek yağlı bir yemekle
+birlikte verilmesi, brekspiprazolün C veya EAA'sını önemli ölçüde etkilememiştir. Tekli ve
+maks
+çoklu günde bir kez doz uygulamasından sonra, brekspiprazol maruziyeti (C ve EAA)
+maks
+uygulanan doz ile orantılı olarak artar. In vitro çalışmalara dayanarak, brekspiprazol, ne bir
+substrat ne de Çoklu İlaç Direnci (MDR1) (P-gp) ve BCRP gibi bir atım transportör inhibitörü
+değildir.
+15 / 19Dağılım:
+İntravenöz uygulamayı takiben brekspiprazolün dağılım hacmi yüksektir (1,56 L/kg ± 0,418
+L/kg), bu da ekstravasküler dağılımı gösterir. Brekspiprazol, plazmada (%99'dan fazla) serum
+albümin ve αl-asit glikoproteine yüksek oranda protein bağlıdır ve protein bağlanması böbrek
+veya karaciğer yetmezliğinden etkilenmez. In vitro çalışmaların sonuçlarına dayanarak
+brekspiprazol protein bağlanması warfarin, diazepam ve digitoksinden etkilenmez.
+Biyotransformasyon:
+Rekombinant insan sitokrom P450'nin kullanıldığı in vitro metabolizma çalışmalarına
+dayanarak, brekspiprazolün metabolizmasına esas olarak oksidatif metabolitlerin oluşumuna
+yol açan CYP3A4 ve CYP2D6 aracılık ettiği gösterilmiştir. In vitro verilere göre, brexpiprazol,
+CYP450 izozimlerinin inhibisyonunu çok az göstermiştir veya hiç göstermemiştir. In vivo,
+brexpiprazol’ün metabolizmasına esas olarak CYP3A4 ve CYP2D6, plazma maruziyetinin
+%10'undan fazlası ile plazmada bulunan tek metabolit DM-3411 ile oksidatif metabolitlerin
+oluşumuna aracılık eder.
+Kararlı haldeki DM-3411, plazma içindeki brekspiprazol maruziyetinin (EAA) %23,1-
+%47,7'sini temsil eder. In vivo preklinik çalışmalarında brekspiprazolün klinik olarak ilgili
+plazma maruziyetlerinde, DM-3411 beyin maruziyetlerinin tespit limitinin altında olduğuna
+dikkat edilmelidir. Bu nedenle, DM-3411'in brekspiprazolün terapötik etkilerine katkıda
+bulunmadığı düşünülmektedir.
+Eliminasyon:
+Tek bir oral [14C] etiketli brekspiprazol dozunu takiben, uygulanan radyoaktivitenin yaklaşık
+olarak %24,6'sı ve %46'sı idrar ve dışkıda geri kazanılmıştır. Değişmeyen brekspiprazolün
+%1'inden azı idrarla atılır ve oral dozun yaklaşık %14'ü dışkıda değişmeden geri kazanılır.
+Günde bir kez uygulamadan sonra brekspiprazol tabletin belirgin oral klirensi 19,8 (± 11,4)
+mL/s/kg'dır. Günde birden fazla kez brekspiprazol uygulamasından sonra, brekspiprazolün ve
+ana metaboliti DM-3411'in terminal eliminasyon yarı ömrü sırasıyla 91,4 saat ve 85,7 saattir.
+Doğrusallık/Doğrusal Olmayan Durum:
+Brekspiprazolün farmakokinetiği, günde bir kez uygulama kullanılarak tek dozdan (0,2 mg-8
+mg) ve çoklu dozdan (0,5 mg-4 mg) sonra doz orantılı ve zamanla değişmezdir.
+Hastalardaki karakteristik özellikler
+Yaş:
+Brekspiprazolün (2 mg) tekli doz uygulamasından sonra, yaşlı denekler (65 yaşından büyük),
+yetişkin deneklere kıyasla (18-45 yaş) benzeri breksipiprazol sistemik maruziyeti (C ve
+maks
+EAA) göstermiştir (bkz. Bölümler 4.2 ve 4.4).
+Cinsiyet:
+Nüfus farmakokinetik değerlendirmesinde cinsiyet, istatistiksel olarak anlamlı değişken olarak
+belirlenmiştir. Kadınlarda brekspiprazol maruziyetinin (EAA) erkeklere göre %25 daha yüksek
+olduğu tahmin edilmiştir (bkz. Bölüm 4.8).
+Irk:
+Spesifik farmakokinetik bir çalışma yapılmamasına rağmen, popülasyon farmakokinetik
+değerlendirmesinde, brekspiprazolün farmakokinetiğinde klinik olarak anlamlı ırkla ilişkili
+farklılıkların kanıtı bulunmamıştır.
+16 / 19CYP2D6 genotip:
+Popülasyon farmakokinetik değerlendirmesi, CYP2D6 zayıf metabolizörlerin, geniş
+metabolizörlere kıyasla brekspiprazol maruziyet oranlarının %47 daha yüksek olduğunu
+göstermektedir (bkz. Bölüm 4.2).
+Sigara kullanımı:
+İnsan karaciğer enzimlerini in vitro kullanan çalışmalar temelinde, brekspiprazol, CYP1A2 için
+bir substrat değildir; bu nedenle, sigara içmenin brekspiprazolün farmakokinetiği üzerinde bir
+etkisi olmamalıdır.
+Böbrek yetmezliği:
+Şiddetli böbrek yetmezliği (CLcr <30 mL / dak) olan deneklerde (n=10), oral brekspiprazolün
+EAA değeri (3 mg tek doz), sağlıklı deneklere kıyasla %68 artarken, C değeri
+maks
+değişmemiştir. Orta ila şiddetli böbrek yetmezliği olan hastalar için (kreatinin klirensi CLcr
+<60 mL/dakika), önerilen maksimum doz günde bir kez 3 mg'a düşürülür (bkz. Bölüm 4.2).
+Karaciğer yetmezliği:
+Değişik derecelerde karaciğer yetmezliği olan deneklerde (n = 22) (Child-Pugh Sınıf A, B ve
+C), oral brekspiprazolün EAA'sı (2 mg tek doz), eşleşmiş sağlıklı deneklere kıyasla, hafif
+karaciğer yetmezliğinde %24 artarken, orta derecede karaciğer yetmezliğinde %60 artmış ve
+ciddi karaciğer yetmezliğinde değişmemiştir. Orta ila şiddetli karaciğer bozukluğu olan hastalar
+için (Child-Pugh Sınıf B ve C) önerilen maksimum doz günde bir kez 3 mg'a düşürülür (bkz.
+Bölüm 4.2).
+Pediyatrik popülasyon: Brekspiprazolün 18 yaşından küçük çocuk ve ergenlerde güvenlilik ve
+etkililiği kanıtlanmamıştır (bkz. Bölüm 4.2).
+5.3 Klinik öncesi güvenlilik verileri
+Sıçan ve maymunlarda tekrarlanan doz toksisite çalışmalarında gözlemlenen etkiler, esas
+olarak, brekspiprazolün aşırı farmakolojik aktivitesi ile ilgilidir. Hem dişi hem de erkek
+sıçanlarda ve maymunda, 4 mg/gün Maksimum Önerilen İnsan Dozunda (MRHD) EAA 0-24
+saate dayalı hiçbir güvenlik payı elde edilememiştir.
+Kardiyovasküler toksisite
+Oral uygulamanın ardından, brekspiprazol, bilinçli erkek köpeklerde yapılan güvenlik
+farmakoloji çalışmasında, erkek ve dişi maymunlarda yapılan tekrarlanan doz toksisite
+çalışmalarında ve erkek ve dişi köpeklerde yapılan jüvenil toksisite çalışmasında kan basıncını
+düşürmüş ve QT aralığını uzatmıştır. Brekspiprazolün kan basıncını düşürme üzerindeki etkisi,
+periferik kan damarlarında beklenen α-adrenoseptör blokajına atfedilebilir.
+l
+Genotoksisite, karsinojenisite
+Brekspiprazol, klinik olarak ilgili maruziyetler kullanarak hem in vitro hem de in vivo
+çalışmalarda herhangi bir genotoksik potansiyel göstermemiştir. Oral olarak uygulanan
+brekspiprazol, hem erkek hem de dişi sıçanlarda ve erkek farelerde 2 yıllık karsinojenisite
+çalışmasında, önerilen Maksimum İnsan Dozunun sırasıyla 4,4 katına ve 3,1 katına kadar
+maruziyetlerde tümör insidansını artırmamıştır. Dişi farelerde, benzer veya daha düşük klinik
+olarak anlamlı maruziyetlerde meme bezi adenokarsinomu ve adeno-skuamöz karsinom ile
+hipofiz bezinin pars distalis adenomu insidansında artış gözlenmiştir: bu prolaktin aracılı
+endokrin tümörler, kemirgenlerde diğer antipsikotiklerle de gözlenmiş olup bu durumun klinik
+önemi bilinmemektedir.
+17 / 19Üreme toksisitesi
+Oral uygulamanın ardından, brekspiprazol, erkek sıçanlarda fertiliteyi etkilememiştir, fakat
+uzun süren diestrus ve MRHD'de klinik olarak elde edilenlere benzer veya daha düşük
+maruziyet seviyelerinde dişi sıçanlarda doğurganlığı azaltmıştır. MRHD'deki klinik
+maruziyetin 4,1 katında belirgin artmış pre-implantasyon kayıpları gözlenmiştir. Embriyo-fetal
+gelişimsel toksisite çalışmalarında, brekspiprazol, MRHD'de klinik olarak elde edilen
+maruziyet seviyelerine kadar oral yolla tedavi edilen sıçanlarda (hamile olmayan sıçanlardaki
+verilere dayanarak) teratojen değildir.
+Tavşanda, MRHD’de klinik maruziyetin yaklaşık 16,5 katına karşılık gelen maternal toksik
+brekspiprazol oral dozda 2 yavrulamada 3 fetüste vertebral malformasyonlar görüldü.
+Sıçanlarda doğum öncesi/sonrası gelişimsel toksisite çalışmasında, oral yoldan uygulanan
+maternal olarak toksik brekspiprazol dozlarında gecikmiş büyüme, fiziksel gelişme ve
+yavruların yaşama kabiliyetinde bozulma gözlenmiştir.
+Gebe sıçanlarda oral yoldan uygulamanın ardından, brekspiprazolün fetüs ve süte geçişi,
+genellikle maternal kanda görülen seviyelerle karşılaştırılabilir konsantrasyonlarda
+gösterilmiştir.
+Çevresel risk değerlendirme
+Brekspiprazol çevrede çok kalıcıdır ve biyobirikim gösterir. Ancak çevre için toksik değildir.
+Toprakta yetişen (tarımsal) besin zincirinde birikmesi sorun yaratabilir (bkz. Bölüm 6.6).
+6. FARMASÖTİK ÖZELLİKLER
+6.1 Yardımcı maddelerin listesi
+Laktoz monohidrat (sığır sütü kaynaklı)
+Mısır nişastası
+Mikrokristalin selüloz
+Düşük yoğunluklu hidroksipropil selüloz
+Hidroksipropil selüloz
+Magnezyum stearat
+Opadry 03A480004 White*
+*Opadry 03A480004 White içeriği: hipromelloz 2910 (6cP), talk, titanyum dioksit
+6.2 Geçimsizlikler
+Geçerli değil.
+6.3 Raf ömrü
+36 ay
+6.4 Saklamaya yönelik özel uyarılar
+30°C’nin altındaki oda sıcaklığında ve ambalajında saklayınız.
+6.5 Ambalajın niteliği ve içeriği
+PVC/Al folyo blisterde ve 28 adet
+6.6 Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+Kullanılmamış olan ürünler ya da atık materyaller ‘Tıbbi Atıkların Kontrol Yönetmeliği’ ve
+‘Ambalaj Atıklarının Kontrolü Yönetmeliği”ne uygun olarak imha edilmelidir.
+18 / 197. RUHSAT SAHİBİ
+Otsuka Pharmaceutical Co.Ltd/Japonya lisansıyla
+Abdi İbrahim Otsuka İlaç San. ve Tic. A.Ş.
+Reşitpaşa Mah. Eski Büyükdere Cad. No: 4
+34467 Maslak / Sarıyer / İstanbul
+8. RUHSAT NUMARASI
+2023/369
+9. İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi: 10.09.2023
+Ruhsat yenileme tarihi:
+10. KÜB’ÜN YENİLENME TARİHİ
+19 / 19

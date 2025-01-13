@@ -1,0 +1,604 @@
+KISA ÜRÜN BİLGİSİ
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+Norditropin® NordiFlex® 15 mg/1.5 mL, enjeksiyonluk çözelti içeren kullanıma hazır kalem
+Steril
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde:
+Somatropin……..................................................................10 mg/mL
+(Somatropin, rekombinant DNA teknolojisi ile Eschericia coli kullanılarak üretilmiştir.)
+1 mg somatropin, 3 IU (İnternasyonel Ünite) somatropine eşdeğerdir.
+Yardımcı maddeler:
+Sodyum hidroksit (pH ayarı için)…………………………yeterli miktarda
+Yardımcı maddeler için 6.1’e bakınız.
+3. FARMASÖTİK FORM
+Enjeksiyonluk çözelti içeren kullanıma hazır kalem
+Berrak, renksiz çözelti
+4. KLİNİK ÖZELLİKLER
+4.1. Terapötik endikasyonlar
+Çocuklarda:
+Büyüme hormonu eksikliğine (BHE) bağlı büyüme geriliği,
+Kızlarda gonadal disgeneziye bağlı büyüme geriliği (Turner Sendromu),
+Puberte öncesi çocuklarda kronik böbrek hastalığına bağlı büyüme gecikmesi,
+Doğum boyu ve/veya ağırlığı -2 standart sapmanın (SS) altında olan ve 4 yaşına veya daha
+sonrasına kadar normal büyüme hızını yakalayamamış [son yıl süresince büyüme hızı standart
+sapma skoru (SSS) < 0] gebelik yaşına göre küçük (small for gestational age = SGA) doğmuş
+kısa boylu çocuklarda büyüme geriliği (şu anki boy SSS < -2.5 ve parental düzeltilmiş boy
+SSS < -1).
+Noonan sendromuna bağlı büyüme geriliği.
+1Erişkinlerde:
+Çocukluk döneminde başlayan büyüme hormonu eksikliği:
+Çocukluk döneminde başlayan büyüme hormonu eksikliği olanlar, büyüme tamamlandıktan
+sonra büyüme hormonu salgı kapasitesi bakımından tekrar değerlendirilmelidir. Üçten fazla
+hipofiz hormonu eksikliği olan kişilerde, tanımlanmış bir genetik sebebe, yapısal hipotalamo-
+hipofizer anomalilere, santral sinir sistemi tümörlerine veya yüksek doz kraniyal ışınlamaya
+bağlı şiddetli büyüme hormonu eksikliği (BHE) olan kişilerde ya da hipotalamo-hipofizer
+hastalık veya yetmezliğine sekonder BHE’li kişilerde, eğer büyüme hormonu tedavisini
+bıraktıktan en az dört hafta sonra serum insülin-benzeri büyüme faktörü-1 (IGF-1) < -2 SSS
+ise test gerekli değildir.
+Diğer tüm hastalarda IGF-1 ölçümü ve bir büyüme hormonu stimülasyon testi gereklidir.
+Erişkinlik döneminde başlayan büyüme hormonu eksikliği:
+Bilinen hipotalamo-hipofizer hastalıkta, kraniyal ışınlama ve travmatik beyin hasarında
+belirgin BHE. BHE, prolaktin haricinde başka bir aksta eksiklikle ilişkili olmalıdır. BHE,
+akstaki diğer eksiklikler için yeterli replasman tedavisinin başlatılmasından sonra bir
+provokatif test ile gösterilmelidir.
+Erişkinlerde, tercih edilen provokatif test, insülin tolerans testidir. İnsülin tolerans testi
+kontrendike olduğunda, alternatif provokatif testler uygulanmalıdır. Arjinin testi ile büyüme
+hormonu salıverdirici hormon testinin birlikte yapılması önerilmektedir. İnsülin tolerans testi
+kadar belirlenmiş tanısal değerleri olmasa da arjinin veya glukagon testleri de kullanılabilir.
+4.2. Pozoloji ve uygulama şekli
+Pozoloji/uygulama sıklığı ve süresi:
+Norditropin®, yalnızca, endikasyonları konusunda uzman doktorlar tarafından
+reçetelenmelidir.
+Doz hastaya göre belirlenir ve her zaman hastanın tedaviye verdiği klinik ve biyokimyasal
+yanıt göz önüne alınarak düzenlenmelidir.
+Genel olarak önerilen dozlar:
+Pediyatrik Popülasyon:
+Büyüme hormonu yetersizliği
+0.025-0.035 mg/kg/gün veya 0.7-1.0 mg/m2/gün
+Büyüme tamamlandıktan sonra BHE devam ediyorsa, yağsız beden kütlesi ve kemik mineral
+oluşumu dahil olmak üzere tam somatik erişkin gelişimi elde edilecek şekilde büyüme
+hormonu tedavisine devam edilmelidir (dozlamaya yol göstermesi için bakınız Erişkinlerde
+replasman tedavisi).
+Turner Sendromu
+0.045-0.067 mg/kg/gün veya 1.3-2.0 mg/m2/gün
+Kronik böbrek hastalığı
+0.050 mg/kg/gün veya 1.4 mg/m2/gün (bakınız Bölüm 4.4)
+2Gebelik yaşına göre küçük (SGA)
+0.47 mg/kg/hafta’ya kadar (0.067 mg/kg/gün’e kadar)
+Boy SSS < -3 olan çok kısa pediyatrik hastalarda ve yaşca daha büyük pubertal pediyatrik
+hastalarda, daha yüksek Norditropin® dozu (0.067 mg/kg/gün'e kadar) ile tedaviye başlanması
+düşünülebilir. Tedavinin ilk birkaç yılında önemli ölçüde büyüme yakalanırsa, dozajda
+kademeli bir azalma düşünülebilir. Boy kısalığı daha az şiddetli olan, başlangıç boy SSS
+değerleri -2 ile -3 arasında olan 4 yaşından küçük pediatrik hastalarda tedaviye 0.033
+mg/kg/gün ile başlanması ve dozun gerektiği gibi titre edilmesi düşünülebilir.
+Uzama hızı +1 SSS’nun altında ise, tedavinin ilk yılından sonra tedavi sonlandırılmalıdır.
+Uzama hızı < 2 cm/yıl ise ve onaylanması gerekirse, epifiz büyüme plaklarının kapanmasına
+uygun şekilde, kemik yaşı kızlarda > 14 ya da erkeklerde > 16 ise tedavi sonlandırılmalıdır.
+Noonan sendromu:
+Önerilen doz 0.066 mg/kg/gündür, ancak bazı vakalarda 0.033 mg/kg/gün yeterli olabilir
+(bakınız Bölüm 5.1).
+Epifizler kapandığında tedavi sonlandırılmalıdır (bakınız Bölüm 4.4).
+Erişkin popülasyonunda:
+Erişkinlerde replasman tedavisi
+Doz, hastanın gereksinimine göre belirlenmelidir. Çocukluk döneminde başlayan BHE’si olan
+hastalarda tedaviye 0.2-0.5 mg/gün dozla başlanması ve sonrasında IGF-1
+konsantrasyonlarına göre doz ayarlaması önerilmektedir.
+Erişkinlikte başlayan BHE hastalarında tedaviye düşük dozla başlanması önerilir: 0.1-0.3
+mg/gün. Dozun, hastanın tedaviye verdiği yanıt ve hastanın advers olaylar ile ilgili
+deneyimleri göz önüne alınarak birer aylık aralıklar ile artırılması önerilmektedir. Doz
+titrasyonuna kılavuz olarak serum IGF-1 kullanılabilir. Kadınlarda, erkeklere göre daha
+yüksek dozlar gerekebilir; erkekler zaman içinde artan IGF-1 duyarlılığı sergiler. Bu durum,
+özellikle oral östrojen replasman tedavisi almakta olan kadınlarda gerekenden az, erkeklerde
+ise gerekenden fazla tedavinin uygulanması riskinin söz konusu olduğu anlamına gelir.
+Doz gereksinimi yaşla birlikte azalır. İdame dozu kişiler arasında önemli değişkenlik gösterir
+fakat nadiren 1.0 mg/gün dozajını aşar.
+Uygulama şekli:
+Genellikle, her gün akşamları cilt altına uygulama önerilmektedir. Lipoatrofiyi önlemek için,
+enjeksiyon yeri değiştirilerek uygulanmalıdır.
+Özel popülasyonlara ilişkin ek bilgiler:
+Böbrek yetmezliği:
+Kronik böbrek hastalığı olan hastalarda, hastalığın doğal seyrinin bir parçası olarak böbrek
+fonksiyonlarında azalma gözlendiğinden, Norditropin® NordiFlex® tedavisi sırasında, önlem
+olarak, böbrek fonksiyonlarında aşırı bir düşme veya glomerüler filtrasyon hızında
+(hiperfiltrasyonu gösterebilecek) bir artış açısından böbrek fonksiyonları takip edilmelidir.
+Kronik böbrek yetmezliği olan çocuklarda, Norditropin® NordiFlex® tedavisi, renal
+transplantasyon yapılırken kesilmelidir.
+3Karaciğer yetmezliği:
+Karaciğer yetmezliği bulunan hastalarda kullanımına ilişkin deneyim bulunmamaktadır.
+Geriyatrik popülasyon:
+Altmış yaşın üzerindeki popülasyonda kullanımına ilişkin deneyim sınırlıdır.
+4.3. Kontrendikasyonlar
+Etkin madde ya da Bölüm 6.1’de listelenen preparatın bileşimindeki maddelerden herhangi
+birisine karşı aşırı duyarlılık.
+Somatropin, tümör aktivitesini gösteren herhangi bir bulgu varlığında kullanılmamalıdır.
+Büyüme hormonu tedavisi başlanmadan önce intrakraniyal tümörler inaktif olmalı ve anti-
+tümöral tedavi, tamamlanmış olmalıdır. Tümör büyümesini gösteren herhangi bir bulgu
+varlığında tedavi kesilmelidir.
+Somatropin, epifizleri kapanmış çocuklarda boy uzamasının uyarılması için
+kullanılmamalıdır.
+Açık kalp cerrahisi, abdominal cerrahi, kazaya bağlı çoklu travma, akut solunum yetmezliği
+veya benzer durumları takiben akut kritik hastalık komplikasyonları olan hastalar
+somatropinle tedavi edilmemelidir (bakınız Bölüm 4.4).
+Kronik böbrek yetmezliği olan çocuklarda, Norditropin® NordiFlex® tedavisi, renal
+transplantasyon yapılırken kesilmelidir.
+4.4. Özel kullanım uyarıları ve önlemleri
+Somatropin tedavisi gören çocuklar, çocuk gelişimi konusunda uzman doktorlar tarafından
+düzenli olarak değerlendirilmelidir. Somatropin tedavisi, her zaman, büyüme hormonu
+yetmezliği ve tedavisi konusunda uzman olan bir doktor tarafından yapılmalıdır. Bu koşullar,
+Turner sendromu, kronik böbrek hastalığı ,SGA ve Noonan Sendromu tedavisi için de
+geçerlidir. Norditropin® kullanımını takiben erişkin dönemdeki final boy uzunlukları ile
+ilgili; Noonan Sendromlu çocuklar için veri sınırlıdır, kronik böbrek hastalığı olan çocuklarda
+ise veri yoktur.
+Önerilen maksimum günlük doz aşılmamalıdır (bakınız 4.2.).
+Çocuklarda boy uzamasının uyarılması sadece epifiz kapanıncaya kadar beklenebilir.
+Çocuklar
+Prader-Willi Sendromu olan hastalarda BHE tedavisi
+Aşırı obezite, üst solunum yolu obstrüksiyonu veya uyku apnesi öyküsü yada tanımlanamamış
+solunum enfeksiyonu gibi risk faktörlerinden biri ya da birden fazlası olan Prader-Willi
+sendromlu hastalarda somatropin tedavisinin başlanması ile ani ölümler bildirilmiştir.
+Gebelik yaşına göre küçük (SGA)
+SGA’lı doğan kısa boylu çocuklarda, tedaviye başlamadan önce, büyüme bozukluğunu
+açıklayacak diğer tıbbi nedenler ya da tedaviler dışlanmalıdır.
+4Puberte başlangıcına yakın olan SGA’lı hastalarda tedaviye başlamak ile ilgili deneyimler
+sınırlıdır. Bu nedenle, puberte başlangıcına yakın hastalarda tedaviye başlanması
+önerilmemektedir.
+Silver-Russell sendromlu hastalarla ilgili deneyim sınırlıdır.
+Turner Sendromu
+Somatropin ile tedavi edilen Turner Sendromlu hastalarda el ve ayaklardaki büyümenin
+izlenmesi önerilmektedir. El ve ayaklarda büyüme artışı gözlenirse, dozun, doz aralığındaki
+daha düşük bir doza düşürülmesi düşünülmelidir.
+Turner Sendromlu kızlarda otitis media riski genellikle artmış olduğundan, en azından yılda
+bir defa kulak muayenesi yapılması önerilmektedir.
+Kronik böbrek hastalığı
+Kronik böbrek hastalığı olan çocuklarda doz, kişiye göre değişir ve kişinin tedaviye verdiği
+bireysel yanıta göre belirlenmelidir (bakınız Bölüm 4.2). Somatropin tedavisine başlamadan
+önce, böbrek hastalığı uygun şekilde tedavi edilirken, büyüme en az bir yıl takip edilmeli ve
+büyüme bozukluğu tam olarak belirlenmelidir. Somatropin tedavisi süresince, konservatif
+üremi tedavisi alışılmış tıbbi ürünlerle devam etmeli ve gerekiyorsa diyaliz sürdürülmelidir.
+Kronik böbrek hastalığı olan hastalarda, hastalığın doğal seyrinin bir parçası olarak, böbrek
+fonksiyonlarında azalma normal olarak gözlenir. Bununla birlikte, somatropin tedavisi
+sırasında, önlem olarak, böbrek fonksiyonlarında aşırı bir düşme veya glomerüler filtrasyon
+hızında (hiperfiltrasyonu gösterebilecek) bir artış açısından böbrek fonksiyonları takip
+edilmelidir.
+Skolyoz
+Somatropinle tedavi edilen bazı hasta gruplarında, örneğin Turner sendromu ve Noonan
+sendromu gibi, skolyozun daha sık görüldüğü bilinmektedir. Ayrıca, çocuklarda hızlı büyüme
+skolyoz ilerlemesine neden olabilir. Somatropinin skolyoz insidansında veya şiddetinde artışa
+neden olduğu gösterilmemiştir. Tedavi boyunca skolyoz bulguları izlenmelidir.
+Kan şekeri ve insülin
+Turner Sendromlu ve SGA’lı çocuklarda, tedaviye başlamadan önce ve sonrasında yılda bir
+kez açlık insülin ve kan glukoz değerlerinin ölçülmesi önerilmektedir. Diabetes mellitus riski
+yüksek olan hastalarda (örn. ailede diyabet öyküsü, obezite, ağır insülin direnci, akantozis
+nigrikans), oral glukoz tolerans testi (OGTT) yapılmalıdır. Belirgin diyabet ortaya çıkarsa
+büyüme hormonu tedavisi uygulanmamalıdır.
+Somatropinin karbonhidrat metabolizmasını etkilediği saptanmıştır. Bu nedenle, hastalar
+glukoz intoleransı kanıtları açısından gözlenmelidir.
+IGF-1
+Turner Sendromlu ve SGA’lı çocuklarda tedaviye başlamadan önce ve daha sonra yılda iki
+kez IGF-1 düzeylerinin ölçülmesi önerilmektedir. Tekrarlayan ölçümlerde IGF-1 düzeyleri,
+yaş ve puberte durumuna göre referanslarla karşılaştırıldığında, +2 SS’yı geçerse, normal
+sınırlarda bir IGF-1 düzeyi elde etmek için doz azaltılmalıdır.
+5SGA’lı doğmuş kısa boylu çocukların tedavisi boy uzaması tamamlanmadan sonlandırılırsa,
+büyüme hormonu tedavisi ile elde edilen boy kazanımlarının bir kısmı kaybedilebilir.
+Erişkinler
+Erişkinlerde büyüme hormonu eksikliği
+Erişkinlerde büyüme hormonu eksikliği hayat boyu süren bir hastalıktır ve buna göre tedavi
+edilmelidir. Ancak 60 yaşın üzerindeki hastalar ve beş yıldan uzun süre erişkin BHE tedavisi
+gören hastalar ile ilgili deneyimler hala sınırlıdır.
+Erişkinler ve Çocuklar
+Pankreatit
+Her ne kadar nadir görülüyor olsa da, somatropin ile tedavi edilen, karın ağrısı geliştiren
+hastalarda, özellikle çocuklarda pankreatit değerlendirilmelidir.
+Genel
+Neoplaziler
+Somatropin tedavisi gören yetişkinlerde veya çocuklarda yeni primer kanser riskinin arttığına
+dair bir kanıt yoktur. Tümörler veya malign hastalığı tamamen remisyonda olan hastalarda,
+somatropin tedavisi, relaps oranının artması ile ilişkili bulunmamıştır.
+En sık olarak intrakraniyal neoplaziler olmak üzere çocukluk çağı kanserini yenmiş, büyüme
+hormonu tedavisi gören kişilerde ikincil neoplazilerde hafif bir artış gözlenmiştir. İkincil
+neoplaziler için baskın olan risk faktörü, öncesinde radyasyona maruz kalınmasıdır.
+Malign hastalığı tamamen remisyonda olan hastalar relaps açısından somatropin tedavisinin
+başlangıcından itibaren yakından izlenmelidir.
+Lösemi
+Somatropin tedavisi gören büyüme hormonu eksikliği olan hastaların çok az bir kısmında
+lösemi gözlendiği bildirilmiştir. Ancak, somatropin tedavisi gören hastalarda predispozan
+faktörü olmayan lösemi gelişme riskinin arttığına dair bir kanıt yoktur.
+Benign intrakraniyal hipertansiyon
+Şiddetli veya tekrarlayıcı baş ağrısı, görme sorunları, bulantı ve/veya kusma gibi belirtilerin
+varlığında papil ödemi için fundoskopi önerilmektedir. Papil ödemi doğrulanırsa, tanıda
+benign intrakraniyal hipertansiyon düşünülmeli ve uygun görülürse, büyüme hormonu
+tedavisi sonlandırılmalıdır.
+İntrakraniyal hipertansiyonu düzelmiş hastalarda klinik kararı yönlendirecek yeterli kanıt
+halen yoktur. Büyüme hormonu tedavisine yeniden başlandığında, intrakraniyal hipertansiyon
+bulgularının dikkatle takip edilmesi gereklidir.
+İntrakraniyal bir lezyona sekonder olarak büyüme hormonu eksikliği olan hastalar, altta yatan
+hastalığın ilerlemesi veya nüks etmesi bakımından sık sık kontrol edilmelidir.
+Tiroid fonksiyonu
+Somatropin, tiroid dışında T4’ün T3'e dönüşümünü artırır, bu sayede başlangıç aşamasında
+olan hipotirodiyi ortaya çıkarabilir. Bu yüzden tüm hastalarda tiroid fonksiyonları
+izlenmelidir. Hipopitüer hastalığı olan hastalarda somatropin tedavisi sırasında standart
+replasman tedavisi yakından izlenmelidir.
+6İlerleyen hipofiz hastalığı olan hastalarda hipotiroidi gelişebilir.
+Turner Sendrom'lu hastalarda anti-tiroid antikorlarının görüldüğü primer hipotiroidi gelişme
+riski artmıştır. Hipotiroidi somatropine yanıtı etkileyeceği için, hastalara düzenli aralıklarla
+tiroid fonksiyon testleri uygulanmalı ve endike olduğunda, tiroid hormonu ile replasman
+tedavisi uygulanmalıdır.
+İnsülin duyarlılığı
+Somatropin insülin duyarlılığını azalttığı için, hastalar glukoz intoleransı bulguları açısından
+gözlenmelidir (bakınız Bölüm 4.5). Diabetes mellituslu hastalarda, somatropin tedavisi
+başladıktan sonra insülin dozunu ayarlamak gerekebilir. Diyabeti olan veya glukoz intoleransı
+olan hastalar somatropin tedavisi boyunca yakından izlenmelidir.
+Antikorlar
+Somatropin içeren tüm ürünlerde olduğu gibi, hastaların çok küçük bir grubunda somatropine
+karşı antikorlar gelişebilir. Bu antikorların bağlanma kapasiteleri düşüktür, ve büyüme hızının
+üzerine bir etkileri yoktur. Tedaviye cevap vermeyen her hastada somatropine karşı antikor
+testi yapılmalıdır.
+Akut adrenal yetmezlik
+Somatropin tedavisinin başlatılması 11βHSD-1 inhibisyonuna ve serum kortizol
+konsantrasyonlarının düşmesine neden olabilir. Somatropin uygulanan hastalarda daha önce
+teşhis edilmemiş olan santral (sekonder) hipoadrenalizm aşikar hale gelebilir ve
+glukokortikoid replasmanı gerekli olabilir. Ek olarak, daha önce teşhis edilmiş
+hipoadrenalizme yönelik glukokortikoid replasmanı tedavisi gören hastalar somatropin
+tedavisinin başlatılmasının ardından idame veya stres dozlarında artış yapılmasına gereksinim
+duyabilir (bakınız Bölüm 4.5).
+Oral östrojen tedavisiyle birlikte kullanım
+Somatropin almakta olan bir kadın oral östrojen tedavisine başladığı takdirde serum IGF-1
+düzeylerinin yaşa uygun normal aralık içinde tutulması için somatropin dozunun artırılması
+gerekebilir. Bunun aksine, somatropin almakta olan bir kadın oral östrojen tedavisini bıraktığı
+takdirde büyüme hormonu fazlalığının ve/veya yan etkilerin önlenmesi için somatropin
+dozunun azalması gerekebilir (bakınız Bölüm 4.5).
+Kapital femoral epifizin kayması
+Büyüme hormonu eksikliği dahil, endokrin bozuklukları olan hastalarda, kalçada epifiz
+kayması genel popülasyona göre daha sık görülebilir. Somatropinle tedavi edilen ve topallama
+ya da kalça veya diz ağrısı şikayeti geliştiren hastalar doktor kontrolünden geçmelidir.
+Klinik çalışma deneyimi
+Yoğun bakım ünitelerinde gerçekleştirilen iki adet plasebo kontrollü klinik çalışma, açık kalp
+veya abdominal cerrahi, kazaya bağlı çoklu travma veya akut solunum yetmezliğini izleyen
+komplikasyonlara bağlı akut kritik hastalık yakınması olan ve yüksek doz (5.3-8 mg/gün)
+somatropin uygulanan hastalarda mortalitenin arttığını göstermiştir. Onaylanmış
+endikasyonlar için replasman dozu alıp aynı zamanda bu hastalıkları geliştiren hastalarda,
+büyüme hormonu tedavisini sürdürmenin güvenliliği saptanmamıştır. Bu nedenle, akut kritik
+hastalıkları olanlarda büyüme hormonu tedavisini sürdürmenin potansiyel yararları ile olası
+riskleri değerlendirilmelidir.
+7Turner Sendromlu hastalarda gerçekleştirilen açık etiketli, randomize bir klinik çalışma
+(0.045-0.090 mg/kg/gün doz aralığı), doza bağlı otitis eksterna ve otitis media riskine eğilim
+olduğunu göstermiştir. Bu çalışmada, düşük doz grubuyla karşılaştırıldığında, kulak
+enfeksiyonlarındaki artış daha fazla kulak ameliyatı/tüp takılması ile sonuçlanmamıştır.
+İzlenebilirlik
+Biyolojik tıbbi ürünlerin takip edilebilirliğinin sağlanması için uygulanan ürünün ticari ismi
+ve seri numarası mutlaka hasta dosyasına açıkça kaydedilmelidir.
+Norditropin® her “1.5 mL”de 1 mmol (23 mg)’dan daha az sodyum ihtiva eder; yani aslında
+“sodyum içermez”.
+4.5. Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+Glukokortikoidlerle eşzamanlı tedavi, Norditropinin büyümeyi destekleyici etkisini inhibe
+eder. ACTH yetmezliği olan hastaların glukokortikoid replasman tedavisi, büyüme üzerine
+olası bir inhibitör etkiyi önleyecek şekilde dikkatle düzenlenmelidir.
+Büyüme hormonu kortizonun kortizole dönüşümünü azaltır ve daha önce keşfedilmemiş olan
+santral hipoadrenalizmi belirgin hale getirebilir veya düşük glukokortikoid replasmanı
+dozlarını etkisiz hale getirebilir (bakınız Bölüm 4.4).
+Oral östrojen replasmanı almakta olan kadınlarda tedavi hedefine erişilebilmesi için daha
+yüksek bir büyüme hormonu dozu gerekli olabilir (bakınız Bölüm 4.4).
+Büyüme hormonu eksikliği olan erişkinlerle gerçekleştirilmiş olan bir etkileşim çalışmasından
+bildirilen veriler, somatropin uygulamasının, sitokrom P450 izoenzimleri tarafından
+metabolize edilen bileşiklerin klerensini artırabileceğini göstermiştir. Sitokrom P450 3A4
+tarafından metabolize edilen bileşiklerin (örn. seks hormonları, kortikosteroidler,
+antikonvülzanlar ve siklosporin) klerensi özellikle artabilir, bunun sonucunda da bu
+bileşiklerin plazma düzeyleri düşer. Bu durumun klinik önemi bilinmemektedir.
+Somatropin büyüme hormonunun ulaşılan boy üzerindeki etkisi de gonadotropin, anabolik
+steroidler, östrojen ve tiroit hormonu gibi diğer hormonlarla ilave tedaviden etkilenebilir.
+İnsülin tedavisi almış hastalarda, somatropin tedavisi başlatıldıktan sonra insülin dozunun
+ayarlanması gerekli olabilir (bakınız Bölüm 4.4).
+Pediyatrik Popülasyon:
+Etkileşim çalışmaları yalnızca erişkinler için yapılmıştır.
+4.6. Gebelik ve laktasyon
+Genel tavsiye
+Gebelik kategorisi C’dir.
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon)
+Somatropin içeren ürünler çocuk doğurma potansiyeli olan kontrasepsiyon kullanmayan
+kadınlarda önerilmemektedir.
+8Gebelik dönemi
+Hayvanlar üzerinde yapılan çalışmalar, gebelik veya embriyonal-fetal gelişim veya doğum
+veya doğum sonrası gelişim üzerindeki etkiler bakımından yetersizdir (bakınız Bölüm 5.3).
+İnsanlara yönelik potansiyel risk bilinmemektedir.
+Hamile kadınlar üzerinde klinik veri yoktur. Dolayısıyla, somatropin içeren ürünler hamilelik
+sırasında önerilmemektedir.
+Laktasyon dönemi
+Emziren kadınlarda somatropin içeren ürünlere ilişkin klinik çalışma yapılmamıştır. Somatropinin
+insan sütüne geçip geçmediği bilinmemektedir. Dolayısıyla, somatropin içeren ürünler emziren
+kadınlara verileceği zaman dikkat edilmelidir.
+Üreme yeteneği/Fertilite
+Norditropin® NordiFlex® ile fertilite çalışmaları yapılmamıştır.
+4.7. Araç ve makine kullanımı üzerindeki etkiler
+Norditropin® NordiFlex®‘in araç ve makine kullanımı üzerine etkisi yok veya ihmal edilebilir
+düzeydedir.
+4.8. İstenmeyen etkiler
+Büyüme hormonu eksikliği olan hastaların özelliklerinden biri, ekstraselüler sıvı eksikliğidir.
+Somatropin tedavisine başlandığında, bu eksiklik düzeltilir. Özellikle erişkinlerde periferik
+ödem şeklinde sıvı tutulması oluşabilir. Karpal tünel sendromu yaygın değildir ama
+erişkinlerde gözlenebilir. Semptomlar, genellikle geçici ve doza bağlıdır ve bir süre için doz
+azaltılması gerekebilir.
+Hafif artralji, kas ağrısı ve paresteziler de oluşabilir ama genellikle sınırlıdır.
+Çocuklarda advers reaksiyonlar yaygın değildir ya da seyrektir.
+Klinik çalışmalarda gözlenen istenmeyen etkiler ve sıklıkları aşağıda verilmektedir. Sıklıklar
+şu şekilde tanımlanmıştır: Çok yaygın (≥1/10); yaygın (≥1/100 ila <1/10); yaygın olmayan
+(≥1/1,000 ila <1/100); seyrek (≥1/10,000 ila <1/1,000); çok seyrek (<1/10,000); bilinmiyor
+(eldeki verilerden hareketle tahmin edilemiyor).
+Metabolizma ve beslenme hastalıkları
+Yaygın olmayan: Erişkinlerde tip 2 Diabetes mellitus
+Sinir sistemi hastalıkları
+Yaygın: Erişkinlerde baş ağrısı ve parestezi
+Yaygın olmayan: Erişkinlerde karpal tünel sendromu. Çocuklarda baş ağrısı
+Deri ve deri altı doku hastalıkları
+Yaygın olmayan: Erişkinlerde kaşıntı
+Seyrek: Çocuklarda döküntü
+Kas-iskelet ve bağ doku hastalıkları
+Yaygın: Erişkinlerde artralji, eklem sertliği ve miyalji
+Yaygın olmayan: Erişkinlerde kas sertliği
+Seyrek: Çocuklarda artralji ve miyalji
+9Üreme sistemi ve meme hastalıkları
+Yaygın olmayan: Erişkinlerde ve çocuklarda jinekomasti
+Genel bozukluklar ve uygulama bölgesine ilişkin hastalıklar
+Çok yaygın: Erişkinlerde periferik ödem (yukarıdaki metne bakınız)
+Yaygın olmayan: Çocuklarda ve erişkinlerde enjeksiyon yerinde ağrı. Çocuklarda enjeksiyon
+yeri reaksiyonları
+Seyrek: Çocuklarda periferik ödem
+Turner Sendromlu çocuklarda büyüme hormonu tedavisi sırasında el ve ayaklarda büyümenin
+arttığı bildirilmiştir.
+Açık etiketli, randomize bir klinik çalışmada, yüksek doz Norditropin® ile tedavi edilen
+Turner sendromlu hastalarda otitis media sıklığında artış eğilimi olduğu gözlenmiştir. Ancak,
+çalışmada, düşük doz grubuyla karşılaştırıldığında, kulak enfeksiyonlarındaki artış daha fazla
+kulak ameliyatı/tüp takılması ile sonuçlanmamıştır.
+Pazarlama sonrası deneyim:
+Yukarıda belirtilen advers ilaç reaksiyonlarına ek olarak, aşağıdakiler spontan olarak
+bildirilmiş ve genel olarak Norditropin® tedavisiyle muhtemel ilişkili olarak
+değerlendirilmiştir. Bu advers etkilerin sıklıkları eldeki veriler ile tahmin edilemez.
+İyi huylu ve kötü huylu neoplazmlar (kist ve polipler de dahil olmak üzere)
+Büyüme hormonu eksikliği olan hastaların çok azında lösemi bildirilmiştir (bakınız Bölüm
+4.4).
+Bağışıklık sistemi hastalıkları
+Aşırı duyarlılık reaksiyonları (bakınız Bölüm 4.3).
+Somatropine karşı antikor oluşumu. Bu antikorların titreleri ve bağlanma kapasiteleri çok
+düşüktür ve büyüme hızının üzerine bir etkileri yoktur.
+Endokrin hastalıkları
+Hipotiroidi. Serum tiroksin düzeylerinde azalma (bakınız Bölüm 4.4).
+Metabolizma ve beslenme hastalıkları
+Hiperglisemi (bakınız Bölüm 4.4).
+Sinir sistemi hastalıkları
+Benign intrakraniyal hipertansiyon (bakınız Bölüm 4.4)
+Kas-iskelet ve bağ doku hastalıkları
+Legg-Calvé-Perthes. Kısa boylu hastalarda Legg-Calvé-Perthes daha sık görülebilir.
+Araştırmalar
+Kan alkalen fosfataz düzeyinde artış.
+10Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir. (www.titck.gov.tr; e-
+posta: tufam@titck.gov.tr; tel: 0 800 314 00 08; faks: 0 312 218 35 99)
+4.9. Doz aşımı ve tedavisi
+Akut doz aşımı, başlangıçta kan glukoz değerinde düşmeye ve daha sonra kan glukoz
+değerinde artışa neden olabilir. Glukoz düzeylerindeki bu düşüş, hipogliseminin klinik
+bulguları görülmeksizin, biyokimyasal olarak belirlenmektedir. Uzun süreli doz aşımı
+büyüme hormonu fazlalığının bilinen belirti ve bulgularıyla sonuçlanabilir.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1. Farmakodinamik özellikler
+Farmakoterapötik grup: Hipofiz ön lob hormonları ve analogları, somatropin ve somatropin
+agonistleri.
+ATC kodu: H01AC01
+Etki mekanizması
+Norditropin® NordiFlex®, rekombinant DNA teknolojisiyle üretilmiş insan büyüme hormonu
+olan somatropin içerir. İki disülfür köprüsüyle stabil hale getirilmiş 191 amino asidin
+oluşturduğu, molekül ağırlığı yaklaşık 22.000 dalton olan anabolik bir peptiddir.
+Somatropin’in temel etkisi, iskelet büyümesinin ve somatik büyümenin stimülasyonudur ve
+vücudun metabolik süreçlerine belirgin etkisi vardır.
+Farmakodinamik etkiler
+Büyüme hormonu eksikliği tedavi edildiğinde, vücut yapısında bir normalleşme meydana
+gelir, yağsız vücut kitlesinde artış ve yağ kitlesinde azalma olur.
+Somatropin, etkisinin çoğunu insülin benzeri büyüme faktörü 1 (IGF-1) aracılığı ile gösterir.
+IGF-1, başta karaciğer olmak üzere vücudun bütün dokularında üretilir.
+IGF-1'in % 90'dan fazlası, en önemlisi IGFBP-3 olan bağlayıcı proteinlere (IGFBP) bağlanır.
+Stres sırasında hormonun lipolitik ve protein koruyucu etkisi özellikle önemli hale gelir.
+Somatropin, aynı zamanda, kemik döngüsünü artırır ve bu, biyokimyasal kemik
+belirteçlerinin plazma düzeylerinde artış şeklinde gözlenir. Erişkinlerde, daha belirgin kemik
+rezorpsiyonuna bağlı olarak, tedavinin başlangıcındaki ilk birkaç ayda kemik kitlesi hafifçe
+azalır, ancak tedavinin devam etmesi ile kemik kitlesi artar.
+Klinik etkililik ve güvenlilik
+11SGA’lı doğmuş kısa boylu çocuklarda yapılan klinik çalışmalarda boy uzaması
+tamamlanıncaya kadar tedavi için 0.033 ve 0.067 mg/kg/gün dozları kullanılmıştır. Sürekli
+tedavi edilmiş ve boy uzaması hemen hemen tamamlanmış 56 hastada, tedavinin başlangıcına
+göre ortalama boy değişikliği +1.90 SSS (0.033 mg/kg/gün) ve +2.19 SSS (0.067 mg/kg/gün)
+bulunmuştur. Erken spontan büyüme hızını yakalayamamış, tedavi edilmemiş SGA’lı
+çocuklarla ilgili literatür verileri 0.5 SSS’lık bir geç büyümeyi akla getirmektedir. Uzun süreli
+güvenlilik verileri hala sınırlıdır.
+Noonan sendromuna bağlı boy kısalığı olan 3 ila <11 yaşındaki 51 çocukta 104 hafta (primer
+sonlanım noktası) ve 208 hafta boyunca günde bir kez 0.033 mg/kg/gün ve 0.066 mg/kg/gün
+Norditropin tedavisi uygulandıktan sonra, büyümeyi artırıcı bir etki görülmüştür.
+0.033 mg/kg/gün (0.84 SSS) ve 0.066 mg/kg/gün (1.47 SSS) dozlarında 104. haftada (primer
+sonlanım noktası) ortalama boy SSS değerinde başlangıca göre istatistiksel açıdan anlamlı bir
+artış görülmüştür. 104. haftada gruplar arasında ortalama 0.63 SSS [%95 GA: 0.38, 0.88] fark
+gözlemlenmiştir; fark 208 haftadan sonra daha büyüktür ve ortalama fark 0.99 SSS'dir [%95
+GA: 0.62; 1.36] (Şekil 1).
+2.0 2.0
+m m
+iş
+iğ
+e d
+iş
+iğ
+e
+n
+e 1.5 1.5
+d
+n
+d e
+n d
+is
+ig
+z
+iç
+n
+a b a t e d 'S 1.0 1.0
+n
+is
+ig
+z
+iç
+n a b a t e d
+S 'S
+S S
+k ilk
+e
+s k ü
+0.5 0.5 S k
+ilk
+e s k
+Y ü
+Y
+0.0 0.0
+0 12 26 39 52 65 78 91 104 117 130 143 156 169 182 195 208
+Norditropin 0.033 mg/kg/gün Norditropin 0.066 mg/kg/gün
+Tam analiz seti, Son gözlemin ileri taşınan örnek
+verisi (LOCF imputed data.)
+Hata çubukları 1*SEM(Standart Hata Ortalaması)
+Şekil 1 Başlangıçtan 208 haftaya kadar boy SSS (ulusal) değişimi
+12Tedavinin ilk yılında ortalama boy hızı ve boy hızı SSS değeri başlangıca göre belirgin
+biçimde artmıştır ve 0.066 mg/kg/gün dozunda 0.033 mg/kg/gün dozuna göre daha büyük bir
+artış olmuştur. Ortalama boy hızı SSS değeri iki yıllık tedaviden sonra her iki grupta ve ayrıca
+0.066 mg/kg/gün grubunda dört yıllık tedaviden sonra 0'ın üzerinde devam etmiştir. Çalışma
+dönemi boyunca boy hızı SSS değeri 0.066 mg/kg/gün dozunda 0.033 mg/kg/gün dozuna göre
+daha büyüktür (Şekil 2).
+Grup = Norditropin 0.033 mg/kg/gün Grup = Norditropin 0.066 mg/kg/gün
+Randomizasyondan bu yana geçen süre (hafta)
+Tam analiz seti, Son gözlemin ileri taşınan örnek verisi (LOCF imputed
+data.)
+Başlangıç:Tarama öncesi 1. yıldan 0. haftaya boy hızı.
+Hata çubukları 1*SEM(Standart Hata Ortalaması)
+13
+SSS
+ızıH
+yoB
+5.01
+2.80 2.65
+1.44
+0.92
+0.58
+-0.39
+-0.73
+-1.70
+-1.99
+Başlangıç Başlangıç
+Şekil 2 Başlangıçtan 208 haftaya kadar boy hızı SSS (ulusal)
+24 pediyatrik hastada (18'i iki yıllık ileriye dönük, açık etiketli, randomize, paralel gruplu
+çalışmaya dahil olmuş, altısı protokolü randomizasyonsuz izlemiştir) final boy verileri
+toplanmıştır. İlk iki yıllık ileriye dönük çalışmadan sonra, Norditropin tedavisi final boya
+kadar devam etmiştir. Tedavinin sonunda, hastların çoğunluğu (16/24) normal ulusal referans
+aralığı dahilinde (> 2 SSS) bir final boya ulaşmıştır.
+5.2. Farmakokinetik özellikler
+Genel özellikler
+Farklı dozlardaki Norditropin® NordiFlex®’in sağlıklı kişilere cilt altına enjeksiyonundan
+sonra, rekonstitüye Norditropin®’e ve birbirlerine biyoeşdeğer oldukları gösterilmiştir.
+Emilim:
+Norditropin® NordiFlex®’in (endojen somatropinleri sürekli somatostatin infüzyonu ile
+baskılanmış) 31 sağlıklı kişiye 2.5 mg/m2 cilt altı enjeksiyonundan yaklaşık 4 saat sonra 42-46
+nanogram/mL’lik maksimum büyüme hormonu konsantrasyonu sağlanmıştır.Dağılım:
+Büyüme hormonu eksikliği olan dokuz hastaya 3 saat süreyle 33 nanogram/kg/dak. i.v.
+Norditropin® infüzyonunu takiben dağılım hacmi 67.6 ± 14.6 mL/kg olarak saptanmıştır.
+Biyotransformasyon:
+Norditropin® NordiFlex®’in amino asit zinciri 22kDa insan somatropinine benzerdir.
+Norditropin® NordiFlex®’in degradasyonunun (bozunma) insan somatropininin degradasyonu
+(bozunması) ile benzer olması beklenmektedir.
+Eliminasyon:
+Büyüme hormonu eksikliği olan dokuz hastaya 3 saat süreyle 33 nanogram/kg/dak. i.v.
+Norditropin® infüzyonu sonrasında serum yarılanma ömrü 21.1 ± 1.7 dakika ve metabolik
+klerens hızı dakikada 2.33 ± 0.58 mL/kg bulunmuştur.
+Norditropin® NordiFlex®’in (endojen somatropinleri sürekli somatostatin infüzyonu ile
+baskılanmış) 31 sağlıklı kişiye 2.5 mg/m2 cilt altı enjeksiyonundan sonra insan büyüme
+hormonu yaklaşık 2.6 saatlik bir yarılanma ömrü ile azalmıştır.
+Doğrusallık/Doğrusal olmayan durum:
+Hiçbir farmakokinetik doz orantılılığı çalışması yürütülmemiştir.
+5.3. Klinik öncesi güvenlilik verileri
+Norditropin® NordiFlex® içindeki enjeksiyonluk çözelti içeren kartuşun degradasyon yapılmış
+veya yapılmamış şekilde uygulanmasından sonra merkezi sinir sistemi, kardiyovasküler
+sistem ve solunum sistemi üzerindeki genel farmakolojik etkileri fare ve sıçanlarda
+araştırılmıştır; böbrek fonksiyonları da değerlendirilmiştir., Norditropin® NordiFlex® içindeki
+enjeksiyonluk çözelti içeren kartuş (sıvı formülasyon) ve Norditropin® (dondurularak-
+kurutulmuş) ile karşılaştırıldığında degrade olmuş (bozunmuş) ürünün etkisinde herhangi bir
+farklılık görülmemiştir. Her üç ürün de, idrar hacminde, beklenen, doza bağımlı azalma ve
+sodyum ve klorür iyonlarında retansiyon göstermiştir.
+Sıçanlarda, Norditropin® NordiFlex® içindeki enjeksiyonluk çözelti içeren kartuş ile
+Norditropin®’in farmakokinetik özelliklerinin benzer olduğu gösterilmiştir. Degrade olmuş
+(bozunmuş) Norditropin® NordiFlex® içindeki enjeksiyonluk çözelti içeren kartuşun da,
+Norditropin® NordiFlex® içindeki enjeksiyonluk çözelti içeren kartuş ile biyoeşdeğer olduğu
+gözlenmiştir.
+Norditropin® NordiFlex® içindeki enjeksiyonluk çözelti içeren kartuş veya degrade olmuş
+(bozunmuş) ürünün tek dozda veya tekrarlanan dozlarda toksisite ve lokal tolerans
+çalışmalarında herhangi bir toksik etki veya kas dokusunda herhangi bir hasar görülmemiştir.
+Poloksamer 188'in toksisitesi fare, sıçan, tavşan ve köpeklerde araştırılmış ve toksikolojik
+herhangi bir bulgu elde edilmemiştir.
+Poloksamer 188, enjeksiyon bölgesinde belirgin bir birikim olmaksızın enjeksiyon
+bölgesinden hızla emilmiştir. Poloksamer 188 başlıca idrar ile atılmıştır.
+146. FARMASÖTİK ÖZELLİKLER
+6.1. Yardımcı maddelerin listesi
+Mannitol
+Histidin
+Poloksamer 188
+Fenol
+Enjeksiyonluk su
+Hidroklorik asit (pH ayarlayıcı)
+Sodyum hidroksit (pH ayarlayıcı)
+6.2. Geçimsizlikler
+Geçimsizlik çalışmalarının olmamasından dolayı, bu tıbbi ürün diğer tıbbi ürünlerle
+karıştırılmamalıdır.
+6.3. Raf ömrü
+24 ay.
+Açıldıktan sonra: Buzdolabında (2°C-8°C) maksimum 4 hafta saklayınız. Ürün, alternatif
+olarak, 25°C’nin altında maksimum 3 hafta saklanabilir.
+6.4. Saklamaya yönelik özel tedbirler
+Kullanmaya başlamadan önce: Işıktan korumak için, buzdolabında (2°C-8°C) dış kartonu
+içinde saklayınız. Dondurmayınız.
+Herhangi bir soğutma elemanının yakınında saklamayınız.
+İlk açıldıktan sonra ürün saklama koşulları için gerekli bilgi Bölüm 6.3’te yer almaktadır.
+Dondurmayınız.
+Kullanım sırasında, her enjeksiyondan sonra daima Norditropin® NordiFlex® kullanıma hazır
+kalemin üzerindeki kalem kapağını değiştiriniz. Her enjeksiyon için yeni bir iğne kullanınız.
+Kullanmaya başlamadan önce iğne kullanıma hazır kalem üzerine takılmamalıdır.
+6.5. Ambalajın niteliği ve içeriği
+Norditropin® NordiFlex® 15 mg/1.5 mL plastik kalem enjektöre sabit bir şekilde oturtulan
+kartuştan (Tip I renksiz cam) oluşan çok dozlu tek kullanımlık kullanıma hazır
+kalemdir.Kartuşun alt kısmı piston şeklinde kauçuk bir tıpa (Tip 1 kauçuk kapak) ve üst kısmı
+da alüminyum kapak ile contalanmış disk şeklinde ince kauçuk tıpa (Tip 1 kauçuk kapak) ile
+kapatılmıştır. Kalem enjektör üzerindeki basma düğmesi yeşil renktedir. 1 kullanıma hazır
+kalemlik ambalaj ve çoklu paketten (5 ve 10x1 kullanıma hazır kalem içeren) oluşan ambalaj
+boyutları bulunmaktadır. Tüm ambalaj boyutları pazarda bulunmayabilir.
+Kullanıma hazır kalem karton içerisinde paketlenmiştir.
+156.6. Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+Kullanılmamış olan ürünler ya da atık materyaller “Tıbbi Atıkların Kontrolü Yönetmeliği” ve
+“Ambalaj ve Ambalaj Atıklarının Kontrolü Yönetmeliği” gereklerine uygun olarak imha
+edilmelidir.
+Norditropin® NordiFlex® 8 mm’ye kadar uzunluktaki NovoFine® veya NovoTwist® tek
+kullanımlık iğneler ile kullanılacak şekilde tasarlanmış kullanıma hazır kalemdir.
+Norditropin® NordiFlex® 15 mg/1.5 mL 0.075 mg somatropin artışlarıyla doz başına
+maksimum 4.5 mg somatropin sağlar.
+Uygun dozajı sağlamak ve hava enjeksiyonunu engellemek için, ilk enjeksiyondan önce
+büyüme hormonu akışı kontrol edilmelidir. İğne ucunda büyüme hormonu damlası
+görünmüyorsa, Norditropin® NordiFlex®’i kullanmayınız. Dozu, doz seçiciyi istenen doz
+gözetleme penceresinde görünene kadar çevirerek seçiniz. Eğer yanlış dozu seçerseniz, doz
+seçiciyi ters yönde çevirerek dozu düzeltebilirsiniz. Doz enjekte etmek için basma düğmesine
+basınız.
+Norditropin® NordiFlex® hiçbir zaman şiddetle çalkalanmamalıdır.
+Norditropin® NordiFlex® enjeksiyonluk büyüme hormonu çözeltisi rengi değişmiş veya
+bulanık ise kullanmayınız. Kalemi bir veya iki kez ters çevirerek kontrol ediniz.
+7. RUHSAT SAHİBİ
+Novo Nordisk Sağlık Ürünleri Tic. Ltd. Şti.
+Nispetiye Cad. Akmerkez E3 Blok Kat 7
+34335 Etiler - İstanbul Türkiye
+Tel: 0 212 385 40 40
+Faks: 0 212 282 21 20
+8. RUHSAT NUMARASI
+111/44
+9. İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi: 25.12.2001
+Ruhsat yenileme tarihi:
+10. KÜB’ÜN YENİLENME TARİHİ
+.../.../...
+16

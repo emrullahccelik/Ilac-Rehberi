@@ -1,0 +1,831 @@
+KISA ÜRÜN BİLGİSİ
+Bu ilaç ek izlemeye tabidir. Bu üçgen yeni güvenlilik bilgisinin hızlı olarak belirlenmesini
+sağlayacaktır. Sağlık mesleği mensuplarının şüpheli advers reaksiyonları TÜFAM’a
+bildirmeleri beklenmektedir. Bakınız Bölüm 4.8 Advers reaksiyonlar nasıl raporlanır?
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+ELREXFIO 76 mg/1,9 mL enjeksiyonluk çözelti
+Steril
+Apirojen
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde:
+Her flakon 1,9 ml içerisinde 76 mg elranatamab içermektedir (40 mg/ml).
+Elranatamab, iki monoklonal antikordan (mAb'lar) üretilmiş bir IgG2 kappa bispesifik
+antikordur. Elranatamab, rekombinant DNA teknolojisi ile iki rekombinant Çin Hamster Over
+(CHO) hücre dizisi kullanılarak üretilmektedir.
+Yardımcı madde(ler):
+Yardımcı maddelerin tam listesi için bölüm 6.1'e bakınız.
+3. FARMASÖTİK FORM
+Enjeksiyonluk çözelti (enjeksiyon).
+Çözelti berrak ila hafif opalesan, renksiz ile soluk kahverengimsi bir çözelti olup, pH değeri
+5,8 ve ozmolaritesi yaklaşık 301 mOsm/L şeklindedir.
+4. KLİNİK ÖZELLİKLER
+4.1 Terapötik Endikasyonlar
+ELREXFIO, bir immünomodülatör ajan, bir proteazom inhibitörü ve bir anti-CD38 antikoru
+dahil olmak üzere daha önce en az dört sıra tedavi almış ve son tedavisi sırasında progresyon
+görülmüş olan, relaps veya refrakter multipl miyelomu bulunan erişkin hastaların tedavisinde
+monoterapi olarak endikedir.
+4.2 Pozoloji ve uygulama şekli
+Tedavi, multipl miyelom tedavisinde deneyimli hekimler tarafından başlatılmalı ve
+izlenmelidir.
+ELREXFIO, sitokin salıverme sendromu (CRS) ve immün efektör hücre ilişkili nörotoksisite
+sendromu (ICANS) dahil olmak üzere şiddetli reaksiyonların yönetimi için yeterli düzeyde
+eğitim almış olan tıbbi personeli ve uygun tıbbi ekipmanı bulunan bir sağlık hizmeti
+sağlayıcısı tarafından uygulanmalıdır (bkz. bölüm 4.4).
+Hastaların CRS riski nedeni ile 1. arttırma dozundan sonra en az 48 saat ve 2. arttırma
+dozundan sonra en az 24 saat hospitalize edilmesi gerekmektedir.
+1Tedaviye başlanmadan önce tam kan sayımı yapılmalıdır. Herhangi bir aktif enfeksiyon
+olasılığı ve/veya çocuk doğurma potansiyeli bulunan kadınlarda gebelik olasılığı
+dışlanmalıdır (bkz. Bölüm 4.4 ve 4.6).
+Pozoloji/uygulama sıklığı ve süresi
+Önerilen doz uygulama şeması
+Önerilen dozlar, 1. günde 12 mg ve 4. günde 32 mg'dan oluşan arttırma dozları ve ardından 2.
+haftadan 24. haftaya kadar haftada bir kez 76 mg şeklinde olan tam tedavi dozudur (bkz.
+Tablo 1).
+En az 24 hafta boyunca tedavi almış ve yanıt (en az kısmi yanıt =PR) elde edilen hastalarda,
+iki haftada bir uygulama şemasına geçilmelidir.
+ELREXFIO, CRS ve ICANS insidansını ve şiddetini azaltmak için Tablo 1'deki kademeli doz
+arttırma şemasına göre uygulanmalıdır. Hastalar CRS ve ICANS riski nedeniyle 1. arttırma
+dozundan sonra en az 48 saat ve 2. arttırma dozundan sonra en az 24 saat hospitalize edilmeli,
+belirti ve semptomlar açısından izlenmelidir. (bkz. bölüm 4.4).
+Tablo 1. ELREXFIO doz uygulama şeması
+Doz uygulama şeması Hafta/Gün Doz
+1. Hafta: 1. Gün 1. arttırma dozu 12 mg
+Kademeli doz arttırmaa,b
+1. Hafta: 4. Gün 2. arttırma dozu 32 mg
+Haftalık doz 76 mg, haftada bir
+2.-24. Hafta: 1. Gün Tam tedavi dozu
+uygulamasıa,c,d kez
+2 haftada bir doz 25. Haftadan itibaren: 1. 76 mg, iki haftada
+Tam tedavi dozu
+uygulamasıd,e Gün bir kez
+a. ELREXFIO'nun ilk üç dozundan önce tedavi öncesi tıbbi ürünler uygulanmalıdır.
+b. 1. arttırma dozu (12 mg) ve 2. arttırma dozu (32 mg) arasında en az 2 gün olmalıdır.
+c. 2. arttırma dozu (32 mg) ve ilk tam tedavi dozu (76 mg) arasında en az 3 gün olmalıdır.
+d. Dozlar arasında en az 6 gün olmalıdır.
+e. Yanıt elde edilen hastalar için.
+Not: Doz ertelemelerinden sonra ELREXFIO'ya yeniden başlanmasına yönelik öneriler için Tablo 5'e bakınız.
+Önerilen tedavi öncesi tıbbi ürünler
+CRS riskini azaltmak amacıyla ELREXFIO'nun Tablo 1'de açıklanan doz uygulama
+şemasındaki 1. arttırma dozu, 2. arttırma dozu ve ilk tam tedavi dozundan oluşan ilk üç
+dozundan yaklaşık 1 saat önce aşağıdaki tedavi öncesi tıbbi ürünler uygulanmalıdır (bkz.
+bölüm 4.4).
+• parasetamol 500 mg, oral (veya eşdeğeri)
+• deksametazon 20 mg, oral veya intravenöz (veya eşdeğeri)
+• difenhidramin 25 mg, oral (veya eşdeğeri)
+Profilaktik antimikrobiyaller ve antiviraller yerel kurumsal kılavuzlara göre
+değerlendirilmelidir (bkz. bölüm 4.4).
+Toksisiteye dayalı doz değişiklikleri
+ELREXFIO dozunun azaltılması önerilmemektedir. Toksisiteleri yönetmek için doz
+ertelemeleri gerekebilir (bkz. bölüm 4.4).
+2CRS ve ICANS advers reaksiyonlarında önerilen aksiyonlar için sırasıyla Tablo 2 ve 3'e
+bakınız.
+Diğer advers reaksiyonlara yönelik önerilen aksiyonlar için Tablo 4'e bakınız.
+Sitokin salıverme sendromu (CRS)
+CRS klinik tabloya göre tanımlanmalıdır (bkz. bölüm 4.4). Hastalar ateş, hipoksi ve
+hipotansiyonun diğer nedenleri açısından değerlendirilmeli ve tedavi edilmelidir. Gerekli
+durumlarda CRS'ye yönelik destekleyici tedavi (anti-piretik ajanlar, intravenöz sıvı desteği,
+vazopressörler, IL-6 veya IL-6 reseptör inhibitörleri, oksijen takviyesi vs. dahil ancak
+bunlarla sınırlı olmamak üzere) uygulanmalıdır. Dissemine intravasküler koagülasyon (DIC),
+hematoloji parametreleri ve akciğer, kalp, böbrek ve karaciğer fonksiyonunun izlenmesi için
+laboratuvar testleri değerlendirilmelidir.
+Tablo 2. CRS Yönetimine Yönelik Öneriler
+Derecea Ortaya çıkan belirtiler İşlemler
+Derece 1 Vücut sıcaklığı ≥38 °Cb • CRS düzelene kadar tedaviye ara
+verilmelidir.c
+• Destekleyici tedavi sağlanmalıdır.
+Derece 2 Vücut sıcaklığının ≥38 °C • CRS düzelene kadar tedaviye ara
+olmasıyla birlikte verilmelidir.c
+aşağıdakilerden biri: • Destekleyici tedavi sağlanmalıdır.
+• Sıvıya yanıt veren ve • ELREXFIO'nun sonraki dozunu takiben 48
+vazopressör gerektirmeyen saat süreyle hastalar günlük olarak
+hipotansiyon ve/veya izlenmelidir. Hastalara sağlık tesislerinin
+• Düşük akımlı nazal kanülled yakınında bulunmaları talimatı verilmelidir.
+ya da üfleme yöntemiyle
+oksijen gereksinimi
+Derece 3 (İlk Vücut sıcaklığının ≥38 °C • CRS düzelene kadar tedaviye ara
+ortaya çıkış) olmasıyla birlikte verilmelidir.c
+aşağıdakilerden biri: • Yoğun bakımı da içerebilen destekleyici
+• Vazopressin ile birlikte ya tedavi uygulanmalıdır.
+da vazopressin olmadan bir • Bir sonraki ELREXFIO dozundan önce tedavi
+vazopressörün gerekli öncesi tıbbi ürünler uygulanmalıdır.
+olduğu hipotansiyon ve/veya • ELREXFIO'nun sonraki dozunu takiben 48
+• Yüksek akımlı nazal kanüld, saat süreyle hastalar günlük olarak
+yüz maskesi, geri solumasız izlenmelidir. Hastalara sağlık tesislerinin
+maske veya Venturi yakınında bulunmaları talimatı verilmelidir.
+maskesiyle oksijen
+gereksinimi
+Derece 3 Vücut sıcaklığının ≥38 °C • Tedavi kalıcı olarak kesilmelidir.
+(Tekrarlayan) olmasıyla birlikte • Yoğun bakımı da içerebilen destekleyici tedavi
+aşağıdakilerden biri: uygulanmalıdır.
+• Vazopressin ile birlikte ya
+da vazopressin olmadan bir
+vazopressörün gerekli
+olduğu hipotansiyon ve/veya
+• Yüksek akımlı nazal kanüld,
+yüz maskesi, geri solumasız
+3maske veya Venturi
+maskesiyle oksijen
+gereksinimi
+Derece 4 Vücut sıcaklığının ≥38 °C • Tedavi kalıcı olarak kesilmelidir.
+olmasıyla birlikte • Yoğun bakımı da içerebilen destekleyici tedavi
+aşağıdakilerden biri: uygulanmalıdır.
+• Birden fazla vazopressör
+(vazopressin hariç)
+gerektiren hipotansiyon)
+ve/veya
+• Pozitif basınçlı (örneğin,
+sürekli pozitif hava yolu
+basıncı [CPAP], iki seviye
+pozitif hava yolu basıncı
+[BiPAP], entübasyon ve
+mekanik ventilasyon)
+oksijen gereksinimi
+a. Amerikan Transplantasyon ve Hücresel Tedavi Derneği (ASTCT) 2019 CRS derecelendirmesine göre.
+b. CRS'yle ilişkilendirilen. Antipiretik veya anti-sitokin tedavisi gibi müdahalelerle maskelenebileceği için ateş her
+zaman hipotansiyon veya hipoksiyle eş zamanlı olarak görülmeyebilir.
+c. Doz ertelemeleri sonrasında ELREXFIO'ya yeniden başlanmasına yönelik öneriler için Tablo 5'e bakınız.
+d. Düşük akımlı nazal kanül ≤6 L/dk ve yüksek akımlı nazal kanül >6 L/dk'dır.
+ICANS dahil nörolojik toksisiteler
+Nörolojik semptomların diğer nedenleri ekarte edilmelidir. Hastalar derhal değerlendirilmeli
+ve şiddetine göre tedavi edilmelidir. Şiddetli veya yaşamı tehdit edici nörolojik toksisiteler
+için yoğun bakımı da içerebilen destekleyici tedavi uygulanmalıdır. Daha önceki ELREXFIO
+dozuyla Derece 2 veya daha yüksek ICANS yaşayan hastalara, sonraki dozu takip eden 48
+saat boyunca bir sağlık tesisinin yakınında kalması talimatı verilmeli ve bu hastalar belirti ve
+semptomlar açısından günlük olarak izlenmelidir.
+Tablo 3. ICANS yönetimine yönelik öneriler
+Derecea Ortaya çıkan semptomlarb İşlemler
+Derece 1 ICE skoru 7-9c • ICANS düzelene kadar tedaviye ara
+verilmelidir.e
+Veya bilinç düzeyinde azalmad: • Nörolojik semptomlar izlenmeli ve ileri
+spontan şekilde uyanıyor. değerlendirme ve yönetim için nöroloğa
+konsültasyon düşünülmelidir.
+• Nöbet profilaksisi için sedatif olmayan, anti-
+nöbet tıbbi ürünleri (örneğin, levetirasetam)
+düşünülmelidir.
+4Derece 2 ICE skoru 3-6c • ICANS düzelene kadar tedaviye ara
+verilmelidir.e
+Veya bilinç düzeyinde azalmad: • Altı saatte bir intravenöz yoldan deksametazonf
+sesle uyanıyor. 10 mg uygulanmalıdır. Deksametazon
+kullanımına derece 1 veya daha altına düzelme
+görülene kadar devam edilmeli, sonrasında
+azaltılarak kesilmelidir.
+• Nörolojik semptomlar izlenmeli ve ileri
+değerlendirme ve yönetim için nörolog ve diğer
+uzmanlara konsültasyon düşünülmelidir.
+• Nöbet profilaksisi için sedatif olmayan, anti-
+nöbet tıbbi ürünleri (örneğin, levetirasetam)
+düşünülmelidir.
+• ELREXFIO'nun sonraki dozunu takiben 48
+saat süreyle hastalar günlük olarak
+izlenmelidir. Hastalara sağlık tesislerinin
+yakınında bulunmaları talimatı verilmelidir.
+Derece 3 (İlk ICE skoru 0-2c • ICANS düzelene kadar tedaviye ara
+ortaya çıkış) verilmelidir.e
+ya da bilinç düzeyinde azalmad: • Altı saatte bir intravenöz yoldan deksametazonf
+yalnızca taktil uyaranla 10 mg uygulanmalıdır. Deksametazon
+uyanıyor, kullanımına derece 1 veya daha altına düzelme
+görülene kadar devam edilmeli, sonrasında
+ya da aşağıdakilerden biri azaltılarak kesilmelidir.
+şeklinde nöbetlerd: • Nörolojik semptomlar izlenmeli ve ileri
+• hızla düzelen herhangi bir değerlendirme ve yönetim için nörolog ve diğer
+fokal veya jeneralize klinik uzmanlara konsültasyon düşünülmelidir.
+nöbet veya • Nöbet profilaksisi için sedatif olmayan, anti-
+• elektroensefalografide nöbet tıbbi ürünleri (örneğin, levetirasetam)
+(EEG) müdahale ile düzelen düşünülmelidir.
+konvülsif olmayan nöbetler, • Yoğun bakımı da içerebilen destekleyici tedavi
+uygulanmalıdır.
+ya da kafa içi basınç artışı: • ELREXFIO'nun sonraki dozunu takiben 48
+nörolojik görüntülemede saat süreyle hastalar günlük olarak
+fokal/lokal ödemd izlenmelidir. Hastalara sağlık tesislerinin
+yakınında bulunmaları talimatı verilmelidir.
+Derece 3 ICE skoru 0-2c • Tedavi kalıcı olarak kesilmelidir.
+(Tekrarlayan) • Altı saatte bir intravenöz yoldan deksametazonf
+ya da bilinç düzeyinde azalmad: 10 mg uygulanmalıdır. Deksametazon
+yalnızca taktil uyaranla kullanımına derece 1 veya daha altına düzelme
+uyanıyor, görülene kadar devam edilmeli, sonrasında
+azaltılarak kesilmelidir.
+ya da aşağıdakilerden biri • Nörolojik semptomlar izlenmeli ve ileri
+şeklinde nöbetlerd: değerlendirme ve yönetim için nörolog ve diğer
+• hızla düzelen herhangi bir uzmanlara konsültasyon düşünülmelidir.
+fokal veya jeneralize klinik • Nöbet profilaksisi için sedatif olmayan, anti-
+nöbet veya nöbet tıbbi ürünleri (örneğin, levetirasetam)
+• elektroensefalografide düşünülmelidir.
+(EEG) müdahale ile düzelen • Yoğun bakımı da içerebilen destekleyici tedavi
+konvülsif olmayan nöbetler, uygulanmalıdır.
+ya da kafa içi basınç artışı:
+nörolojik görüntülemede
+fokal/lokal ödemd
+5Derece 4 ICE skoru 0c • Tedavi kalıcı olarak kesilmelidir.
+• Altı saatte bir intravenöz yoldan deksametazonf
+Veya aşağıda belirtildiği şekilde 10 mg uygulanmalıdır. Deksametazon
+bilinç düzeyinde azalmad: kullanımına derece 1 veya daha altına düzelme
+• hasta uyarılabilir değil ya da görülene kadar devam edilmeli, sonrasında
+uyarılması için şiddetli veya azaltılarak kesilmelidir.
+tekrarlayan taktil uyaran • Alternatif olarak 3 gün boyunca intravenöz
+gerekiyor ya da yoldan günlük 1000 mg metilprednizolon
+• stupor veya koma, uygulanması düşünülmelidir.
+• Nörolojik semptomlar izlenmeli ve ileri
+ya da aşağıdakilerden biri değerlendirme ve yönetim için nörolog ve
+şeklinde nöbetlerd: diğer uzmanlara konsültasyon düşünülmelidir.
+• yaşamı tehdit edici uzamış • Nöbet profilaksisi için sedatif olmayan, anti-
+nöbet (> 5 dakika) veya nöbet tıbbi ürünleri (örneğin, levetirasetam)
+• aralarda başlangıca dönüş düşünülmelidir.
+olmadan tekrarlayıcı klinik • Yoğun bakımı da içerebilen destekleyici tedavi
+veya elektriksel nöbetler, uygulanmalıdır.
+veya motor bulgulard:
+• hemiparezi veya paraparezi
+gibi derin fokal motor
+güçsüzlük
+veya kafa içi basınç artışı /
+serebral ödemd ile birlikte
+aşağıdakiler gibi
+belirtiler/semptomlar:
+• nörolojik görüntülemede
+diffüz serebral ödem veya
+• deserebre veya dekortike
+postür veya
+• VI. kraniyal sinir felci veya
+• papilödem veya
+• Cushing triadı
+Kısaltmalar: İmmün efektör hücre ilişkili ensefalopati (ICE).
+a. Amerikan Transplantasyon ve Hücresel Tedavi Derneği (ASTCT) 2019 ICANS derecelendirmesine göre.
+b. Yönetim, başka herhangi bir nedenle ilişkilendirilebilir olmayan en şiddetli olaya göre belirlenmelidir.
+c. Hasta uyarılabilir durumdaysa ve ICE Değerlendirmesi gerçekleştirebiliyorsa şunlar değerlendirilmelidir:
+Oryantasyon (yıl, ay, şehir, hastane oryantasyonu=4 puan); İsimlendirme (örneğin, saate, kaleme, düğmeye işaret
+edilerek 3 nesne isimlendirilir=3 puan); Talimatlara Uyma (örneğin, “2 parmağını göster” veya “gözlerini kapat ve
+dilini çıkar”=1 puan); Yazım (standart bir cümle yazabilme kabiliyeti=1 puan) ve Dikkat (100'den geriye onar
+onar saydırılır=1 puan). Hasta uyarılabilir değilse ve ICE Değerlendirmesi gerçekleştiremiyorsa (Derece 4
+ICANS)=0 puan.
+d. Başka herhangi bir nedenle ilişkilendirilebilir olmayan.
+e. Doz ertelemeleri sonrasında ELREXFIO'ya yeniden başlanmasına yönelik öneriler için Tablo 5’e bakınız.
+f. Deksametazon uygulamasına yönelik tüm atıflar, deksametazon veya eşdeğeri ilaçlardır.
+6Tablo 4. Diğer advers reaksiyonlar için önerilen aksiyonlar
+Advers reaksiyonlar Şiddet Aksiyonlar
+Hematolojik Advers Mutlak nötrofil sayısı < • Mutlak nötrofil sayısı 0,5 x
+Reaksiyonlar 0,5 x 109/L 109/L'ye veya üzerine çıkana
+(bkz. bölüm 4.8) kadar tedaviye ara verilmelidir.b
+Febril nötropeni • Mutlak nötrofil sayısı 1 x 109/L
+olana veya üzerine çıkana ve
+ateş düzelene kadar tedaviye ara
+verilmelidir.b
+Hemoglobin < 8 g/dL • Hemoglobin düzeyi 8 g/dL'ye
+veya üzerine çıkana kadar
+tedaviye ara verilmelidir.b
+Trombosit sayısı < • Trombosit sayısı 25.000/mcL'ye
+25.000/mcL veya üzerine çıkana ve kanama
+kanıtı kalmayana kadar tedaviye
+Trombosit sayısının ara verilmelidir.b
+25.000/mcL ve
+50.000/mcL arasında
+olmasıyla birlikte kanama
+Diğer* Hematolojik Derece 3 ya da 4 • Derece 1 veya daha düşük ya da
+Olmayan Advers başlangıç değerlerine kadar
+Reaksiyonlara iyileşme görülene kadar tedaviye
+(bkz. bölüm 4.8) ara verilmelidir.b
+• İyileşme görülmemesi
+durumunda kalıcı olarak
+kesilmelidir.
+a. Ulusal Kanser Enstitüsü Advers Olaylar İçin Ortak Terminoloji Kriterleri (NCI-CTCAE), Versiyon 5.0'a göre.
+b. Doz ertelemeleri sonrasında ELREXFIO'ya yeniden başlanmasına yönelik öneriler için Tablo 5'e bakınız (bkz.
+bölüm 4.2).
+* CRS ve ICANS dışında.
+Doz ertelemesi sonrasında ELREXFIO'ya yeniden başlanması
+Bir dozun ertelenmesi durumunda tedaviye, Tablo 5'te sıralanan önerilere göre yeniden
+başlanmalı ve tedaviye doz uygulama şemasına göre devam edilmelidir (bkz. Tablo 1).
+Tedavi öncesi tıbbi ürünler, Tablo 5'te belirtildiği şekilde uygulanmalıdır.
+Tablo 5. Doz ertelenmesi sonrasında ELREXFIO tedavisine yeniden başlanmasına
+yönelik öneriler
+Uygulanan son doz Uygulanan son dozdan İşlem
+itibaren erteleme süresi
+1. arttırma dozu (12 mg) 2 hafta veya daha az (≤ 14 2. arttırma dozunda (32 mg)
+gün) yeniden başlanmalıdır.a
+Tolere edilmesi halinde 4 gün
+sonra 76 mg'a
+yükseltilmelidir.
+2 haftadan uzun (> 14 gün) Arttırma dozu şemasına 1.
+arttırma dozunda yeniden
+başlanmalıdır (12 mg).a
+2. arttırma dozu (32 mg) 2 hafta veya daha az (≤ 14 76 mg ile yeniden
+gün) başlanmalıdır.a
+2 haftadan uzun ila 4 haftaya 2. arttırma dozunda (32 mg)
+eşit veya daha az (15 gün ve yeniden başlanmalıdır.a
+≤ 28 gün) Tolere edilmesi halinde 1
+hafta sonra 76 mg'a
+7yükseltilmelidir.
+4 haftadan uzun (> 28 gün) Arttırma dozu şemasına 1.
+arttırma dozunda yeniden
+başlanmalıdır (12 mg).a
+Herhangi bir tam tedavi dozu 6 hafta veya daha az (≤ 42 76 mg ile yeniden
+(76 mg) gün) başlanmalıdır.
+6 haftadan uzun ila 12 2. arttırma dozunda (32 mg)
+haftaya eşit veya daha az (43 yeniden başlanmalıdır.a
+gün ila ≤ 84 gün)b Tolere edilmesi halinde 1
+hafta sonra 76 mg'a
+yükseltilmelidir
+12 haftadan uzun (> 84 gün)b Arttırma dozu şemasına 1.
+arttırma dozunda yeniden
+başlanmalıdır (12 mg).a
+a. ELREXFIO dozundan önce tedavi öncesi tıbbi ürünler uygulanmalıdır.
+b. Advers reaksiyon nedeniyle 42 günden fazla doz ertelemesi gereken hastalarda ELREXFIO'ya yeniden başlamanın
+yarar-riski değerlendirmelidir.
+Tedavi süresi
+Tedaviye hastalık ilerleyene veya kabul edilemez toksisite gözlemlenene kadar devam
+edilmelidir.
+Atlanan dozlar
+Bir dozun atlanması durumunda doz, mümkün olan en kısa zamanda uygulanmalı ve doz
+uygulama şeması belirtilen aralığın korunması için gerektiği şekilde ayarlanmalıdır (bkz.
+Tablo 1).
+Uygulama şekli:
+ELREXFIO, yalnızca subkutan enjeksiyon olarak ve bir sağlık mesleği mensubu tarafından
+uygulanmalıdır.
+Gerekli doz, karnın deri altı dokusuna (tercih edilen enjeksiyon bölgesi) enjekte edilmelidir.
+Alternatif olarak uyluğun deri altı dokusuna da enjekte edilebilir.
+ELREXFIO deride kızarık, morarmış, hassas, sert veya yara izlerinin olduğu bölgelere
+enjekte edilmemelidir.
+Uygulamadan önce tıbbi ürünün kullanımına ilişkin talimatlar için bölüm 6.6'ya bakınız.
+Özel popülasyonlara ilişkin ek bilgiler:
+Karaciğer yetmezliği:
+Hafif karaciğer yetmezliğinde doz ayarlaması gerekli değildir (toplam bilirubin > 1 ila 1,5 ×
+NÜS ve herhangi bir AST veya toplam bilirubin ≤ NÜS ve AST > NÜS bkz. bölüm 5.2).
+Böbrek yetmezliği:
+Hafif veya orta dereceli böbrek fonksiyon bozukluğu olan hastalarda doz ayarlaması
+önerilmemektedir (tahmini glomerüler filtrasyon hızı [eGFR] > 30 mL/dak/1,73 m2). Şiddetli
+böbrek yetmezliği olan hastalarda sınırlı veri mevcuttur (bkz. bölüm 5.2).
+8Pediyatrik popülasyon:
+ELREXFIO'nun pediyatrik popülasyonda multipl miyelom tedavisinde geçerli bir kullanımı
+yoktur.
+Geriyatrik popülasyon:
+Yaşlı hastalarda doz ayarlaması gerekmez (bkz. bölüm 5.1 ve 5.2).
+4.3 Kontrendikasyonlar
+Etkin maddeye veya Bölüm 6.1'de sıralanan yardımcı maddelerden herhangi birine karşı aşırı
+duyarlılık.
+4.4 Özel kullanım uyarıları ve önlemleri
+UYARILAR : SİTOKİN SALIVERME SENDROMU ve İMMÜN EFEKTÖR HÜCRE
+İLİŞKİLİ NÖROTOKSİSİTE SENDROMU dahil NÖROLOJİK TOKSİSİTE
+• ELREXFIO kullanan hastalarda yaşamı tehdit edici veya ölümcül reaksiyonlar
+da dahil olmak üzere Sitokin Salıverme Sendromu (CRS) ortaya çıkabilir. CRS
+riskini azaltmak için tedavi, ELREXFIO kademeli doz arttırma şemasına göre
+başlatılmalıdır. CRS düzelene kadar ELREXFIO’ya ara verilmeli veya
+şiddetine göre kalıcı olarak kesilmelidir (bkz. bölüm 4.2 ve bölüm 4.4)
+• ELREXFIO kullanan hastalarda İmmün Efektör Hücre İlişkili Nörotoksisite
+Sendromu (ICANS) dahil olmak üzere ciddi ve yaşamı tehdit edici nörolojik
+toksisite ortaya çıkabilir. Hastalar tedavi sırasında ICANS dahil nörolojik
+toksisitenin belirti ve semptomları açısından izlenmelidir. Nörolojik toksisite
+düzelene kadar ELREXFIO’ya ara verilmeli veya şiddetine göre kalıcı olarak
+kesilmelidir (bkz. bölüm 4.2 ve bölüm 4.4)
+Sitokin salıverme sendromu (CRS)
+ELREXFIO alan hastalarda yaşamı tehdit edici veya ölümcül reaksiyonlar dahil olmak üzere
+CRS görülebilir. CRS'nin klinik belirtileri ve semptomları arasında ateş, hipoksi, üşüme-
+titreme, hipotansiyon, taşikardi, baş ağrısı ve karaciğer enzimlerinde artış yer almaktadır
+ancak bunlarla sınırlı değildir (bkz. bölüm 4.8).
+CRS riskini azaltmak için tedavi, ELREXFIO kademeli doz arttırma şemasına göre
+başlatılmalı ve hastalar, ELREXFIO uygulamasından sonra uygun şekilde izlenmelidir. CRS
+riskini azaltmak için ELREXFIO'nun doz uygulama şemasındaki ilk üç dozundan önce tedavi
+öncesi tıbbi ürünler uygulanmalıdır (bkz. bölüm 4.2).
+Hastalara, CRS belirti veya semptomları görülmesi durumunda acil tıbbi yardıma
+başvurmaları konusunda danışmanlık verilmelidir.
+İlk CRS belirtisinde ELREXFIO'ya ara verilmeli ve hastalar derhal hastaneye yatış açısından
+değerlendirilmelidir. CRS, bölüm 4.2'deki önerilere göre yönetilmeli ve yerel kurumsal
+kılavuzlara göre ileri yönetim düşünülmelidir. Gerekli durumlarda CRS'ye yönelik
+destekleyici tedavi (anti-piretik ajanlar, intravenöz sıvı desteği, vazopressörler, IL-6 veya IL-
+6 reseptör inhibitörleri, oksijen takviyesi vs. dahil ancak bunlarla sınırlı olmamak üzere)
+uygulanmalıdır. Dissemine intravasküler koagülasyon (DIC), hematoloji parametreleri ve
+9akciğer, kalp, böbrek ve karaciğer fonksiyonunun izlenmesi için laboratuvar testleri
+değerlendirilmelidir.
+ICANS dahil nörolojik toksisiteler
+ELREXFIO tedavisini takiben ICANS dahil ciddi veya yaşamı tehdit edici nörolojik
+toksisiteler görülebilir (bkz. bölüm 4.8). Hastalar tedavi sırasında nörolojik toksisitelerin
+belirti ve semptomları (örn. bilinç düzeyinde azalma, nöbetler ve/veya motor güçsüzlük)
+açısından izlenmelidir.
+Hastalara, nörolojik toksisite belirti veya semptomları görülmesi durumunda acil tıbbi
+yardıma başvurması konusunda danışmanlık verilmelidir.
+ICANS dahil nörolojik toksisitenin ilk belirtisinde ELREXFIO’ya ara verilmeli ve nöroloji
+değerlendirmesi düşünülmelidir. Nörolojik toksisitenin (örneğin, ICANS) genel yönetimi
+Tablo 3'te özetlenmiştir (bkz. bölüm 4.2).
+ICANS potansiyeli nedeniyle hastalara kademeli doz arttırma şeması sırasında ve 2 arttırma
+dozunun her birinin tamamlanmasından sonraki 48 saat boyunca ve herhangi bir yeni
+nörolojik semptom başlangıcı durumunda araç ya da ağır veya potansiyel olarak tehlikeli
+makine kullanmamaları tavsiye edilmelidir (bkz. bölüm 4.2 ve 4.7).
+Enfeksiyonlar
+ELREXFIO alan hastalarda şiddetli, yaşamı tehdit edici veya ölümcül enfeksiyonlar
+bildirilmiştir (bkz. bölüm 4.8). ELREXFIO ile tedavi sırasında yeni veya yeniden aktifleşen
+viral enfeksiyonlar meydana gelmiştir. ELREXFIO ile tedavi sırasında progresif multifokal
+lökoensefalopati (PML) de meydana gelmiştir.
+Aktif enfeksiyonları olan hastalarda tedaviye başlanmamalıdır. Hastalar ELREXFIO tedavisi
+öncesinde ve sırasında enfeksiyon belirti ve semptomları açısından izlenmeli ve uygun
+şekilde tedavi edilmelidir. Hematolojik olmayan diğer advers reaksiyonlar için Tablo 4'te
+belirtilen şekilde enfeksiyonun şiddetine göre ELREXFIO'ya ara verilmelidir (bkz. bölüm
+4.2).
+Yerel kurumsal kılavuzlara göre profilaktik antimikrobiyaller (örn. pneumocystis jirovecii
+pnömonisinin önlenmesi) ve anti-viraller (örn. herpes zoster reaktivasyonunun önlenmesi)
+uygulanmalıdır.
+Nötropeni
+ELREXFIO alan hastalarda nötropeni ve febril nötropeni bildirilmiştir (bkz. bölüm 4.8).
+Tam kan hücre sayıları başlangıçta ve tedavi sırasında periyodik olarak izlenmelidir.
+ELREXFIO tedavisine Tablo 4'te belirtildiği şekilde ara verilmelidir (bkz. bölüm 4.2).
+Nötropeni gelişen hastalar enfeksiyon belirtileri açısından izlenmelidir. Yerel kurumsal
+kılavuzlara göre destekleyici tedavi uygulanmalıdır.
+Hipogamaglobulinemi
+ELREXFIO alan hastalarda hipogamaglobulinemi bildirilmiştir (bkz. bölüm 4.8).
+10Tedavi sırasında immünoglobulin düzeyleri izlenmelidir. IgG düzeylerinin 400 mg/dl'nin
+altına düşmesi durumunda, subkutan veya intravenöz immünoglobulin (IVIG) tedavisinin
+uygulanması düşünülmeli ve hastalar, enfeksiyon önlemleri ve antimikrobiyal profilaksisi
+dahil olmak üzere yerel kurumsal kılavuzlara göre tedavi edilmelidir.
+Aşılamalar
+ELREXFIO tedavisi sırasında veya sonrasında canlı viral aşılarla immünizasyonun
+güvenliliği araştırılmamıştır. İlk dozdan önceki 4 hafta içinde, tedavi sırasında ve tedaviden
+en az 4 hafta sonra canlı virüs aşılarıyla aşılama önerilmemektedir.
+Yardımcı maddeler
+Bu tıbbi ürün her dozunda 1 mmol (23 mg)’dan daha az sodyum ihtiva eder; yani aslında
+“sodyum içermez”.
+İzlenebilirlik
+Biyoteknolojik ürünlerin takip edilebilirliğinin sağlanması için uygulanan ürünün ticari ismi
+ve seri numarası mutlaka hasta dosyasına kaydedilmelidir.
+4.5 Diğer tıbbi ürünler ile etkileşim ve diğer etkileşim şekilleri
+ELREXFIO ile herhangi bir etkileşim çalışması yapılmamıştır.
+ELREXFIO tedavisine başlanmasıyla ilişkili olan ilk sitokin salıverilmesi, sitokrom P450
+(CYP) enzimlerini baskılayabilir. En yüksek etkileşim riskinin doz arttırma sırasında ve 14
+gün sonrasına kadar; ve CRS sırasında ve 14 gün sonrasına kadar görülmesi beklenmektedir.
+Bu süreçte eş zamanlı olarak terapötik indeksi dar olan duyarlı CYP substratları (örneğin,
+siklosporin, fenitoin, sirolimus ve varfarin) alan hastalarda tıbbi ürün konsantrasyonları takip
+edilmeli veya hastalar toksisite açısından izlenmelidir. Eş zamanlı tıbbi ürünün dozu gereken
+şekilde ayarlanmalıdır.
+Özel popülasyonlara ilişkin ek bilgiler:
+Özel popülasyonlara ilişkin herhangi bir etkileşim çalışması yapılmamıştır.
+Pediyatrik popülasyon:
+Pediyatrik popülasyona ilişkin herhangi bir etkileşim çalışması yapılmamıştır.
+4.6 Gebelik ve laktasyon
+Genel tavsiye
+Gebelik kategorisi: X
+Çocuk doğurma potansiyeli bulunan kadınlar/Erkek ve kadınlarda doğum kontrolü
+(Kontrasepsiyon)
+ELREXFIO tedavisine başlanmadan önce çocuk doğurma potansiyeli olan kadınların gebelik
+durumu kontrol edilmelidir.
+Çocuk doğurma potansiyeli olan kadınlar ELREXFIO tedavisi sırasında ve son dozdan sonra
+6 ay boyunca etkili bir doğum kontrol yöntemi kullanmalıdır.
+11Gebelik dönemi
+Gebelik döneminde elranatamab kullanımı riskini değerlendirmeye yönelik herhangi bir insan
+veya hayvan verisi bulunmamaktadır. İnsan immünoglobulininin (IgG) gebeliğin ilk üç
+ayından sonra plasentaya geçtiği bilinmektedir. Etki mekanizmasına göre, elranatamab gebe
+kadınlara uygulandığında fetal hasara yol açabilir ve bu nedenle ELREXFIO'nun gebelik
+döneminde kullanılması önerilmemektedir.
+ELREXFIO, hipogamaglobulinemiyle ilişkilidir, bu nedenle ELREXFIO ile tedavi edilen
+annelerin bebeklerinde immünoglobulin düzeylerinin değerlendirilmesi düşünülmelidir.
+Laktasyon dönemi
+Elranatamabın insan veya hayvan sütüne geçip geçmediği, annelerini emen yenidoğanları
+veya süt üretimini etkileyip etkilemediği bilinmemektedir. İnsan IgG'lerinin anne sütüne
+geçtiği bilinmektedir. Emzirilen çocuğa yönelik risk göz ardı edilmemelidir ve bu nedenle
+ELREXFIO tedavisi sırasında ve son dozdan sonraki 6 ay boyunca emzirme
+önerilmemektedir.
+Üreme yeteneği/Fertilite
+Elranatamabın insan fertilitesi üzerindeki etkisine ilişkin herhangi bir veri bulunmamaktadır.
+Elranatamabın erkek ve dişi fertilitesi üzerindeki etkileri hayvanlar üzerinde yapılan
+çalışmalarda değerlendirilmemiştir.
+4.7 Araç ve makine kullanımı üzerindeki etkiler
+ELREXFIO'nun araç ve makine kullanımı üzerinde majör bir etkisi bulunmaktadır.
+ICANS potansiyeli nedeniyle ELREXFIO kullanan hastalar, bilinç düzeyinde azalma
+açısından risk altındadır (bkz. bölüm 4.8). Hastalara 2 arttırma dozunun her biri sırasında ve
+tamamlanmasından sonraki 48 saat boyunca ve yeni başlangıçlı nörolojik toksisite
+durumunda nörolojik semptomlara düzelene kadar araç ya da ağır veya potansiyel olarak
+tehlikeli makine kullanmaktan kaçınmaları talimatı verilmelidir (bkz. bölümler 4.2 ve 4.4).
+4.8 İstenmeyen etkiler
+Güvenlilik profilinin özeti
+En sık görülen advers reaksiyonlar CRS (%57,9), anemi (%54,1), nötropeni (%44,8),
+yorgunluk (%44,3), üst solunum yolu enfeksiyonu (%38,8), enjeksiyon bölgesi reaksiyonu
+(%38,3) diyare (%37,7), pnömoni (%37,2), trombositopeni (%36,1), lenfopeni (%30,1),
+iştahta azalma (%26,8), pireksi (%27,3), döküntü (%26,2), artralji (%25,1), hipokalemi
+(%23), mide bulantısı (%21,3) ve deride kuruluk (%21,3) olmuştur.
+Ciddi advers reaksiyonlar pnömoni (%30,6), sepsis (%15,3), CRS (%12,6), anemi (%5,5), üst
+solunum yolu enfeksiyonu (%4,9), idrar yolu enfeksiyonu (%3,3), febril nötropeni (%2,7)
+dispne (%2,2) ve pireksiyi (%2,2) içermektedir.
+Advers reaksiyonların listesi
+Aşağıda önerilen doz uygulama rejimine göre ELREXFIO almış olan hastalarda bildirilen
+advers reaksiyonlar özetlenmektedir (önceden BCMA'ya yönelik antikor ilaç konjugatı
+[ADC] veya kimerik antijen reseptörü [CAR] T hücre tedavisi [destekleyici Kohort B] alan
+64 hasta dahil N=183). Medyan tedavi süresi 4,1 (aralık: 0,03 ila 20,3) ay olmuştur.
+12ELREXFIO'nun güvenlilik verileri tedavi alan tüm popülasyonda da (N=265)
+değerlendirilmiş ve ek bir advers reaksiyon tanımlanmamıştır.
+İstenmeyen etkiler MedDRA sistemi organ sınıflandırması baz alınarak aşağıdaki kategorilere
+göre listelenmiştir:
+Çok yaygın (≥1/10); yaygın (≥1/100 ila <1/10); yaygın olmayan (≥1/1.000 ila <1/100); seyrek
+(≥1/10.000 ila <1/1.000); çok seyrek (<1/10.000); bilinmiyor (eldeki verilerden hareketle
+tahmin edilemiyor) Her sıklık grubunda istenmeyen etkiler azalan ciddiyet sıralaması ile
+sunulmaktadır.
+MagnetisMM-3'te önerilen dozda ELREXFIO tedavisi alan multipl miyelomlu
+hastalarda görülen advers reaksiyonlar
+Enfeksiyonlar ve enfestasyonlar
+Çok yaygın : Pnömonia, Sepsisb, Üst solunum yolu enfeksiyonu, İdrar yolu enfeksiyonu
+Kan ve lenf sistemi hastalıkları
+Çok yaygın : Nötropeni, Anemi, Trombositopeni, Lenfopeni, Lökopeni
+Yaygın : Febril nötropeni
+Bağışıklık sistemi hastalıkları
+Çok yaygın : Sitokin salıverme sendromu, Hipogamaglobulinemi
+Metabolizma ve beslenme hastalıkları
+Çok yaygın : İştahta azalma, Hipokalemi
+Yaygın : Hipofosfatemi
+Sinir sistemi hastalıkları
+Çok yaygın : Periferik nöropatic, Baş ağrısı
+Yaygın : İmmün efektör hücre ilişkili nörotoksisite sendromu (ICANS)
+Solunum, göğüs bozuklukları ve mediastinal hastalıklar
+Çok yaygın : Dispne
+Gastrointestinal hastalıklar
+Çok yaygın : Diyare, Bulantı
+Deri ve deri altı doku hastalıkları
+Çok yaygın : Döküntüd, Deride kuruluk
+Kas-iskelet bozuklukları, bağ doku ve kemik hastalıkları
+Çok yaygın : Artralji
+Genel bozukluklar ve uygulama bölgesine ilişkin rahatsızlıklar
+Çok yaygın : Enjeksiyon bölgesi reaksiyonu, Pireksi, Yorgunluk
+Araştırmalar
+Çok yaygın : Transaminazlarda artış
+a. Pnömoni terimi pnömoni, COVİD-19 pnömonisi, bronkopulmoner aspergilloz, bakteriyel alt solunum yolu
+enfeksiyonu, viral alt solunum yolu enfeksiyonu, pneumocystis jirovecii pnömonisi, adenoviral pnömoni,
+bakteriyel pnömoni, sitomegaloviral pnömoni, fungal pnömoni, influenzal pnömoni, psödomonal pnömoni, viral
+pnömoni, atipik pnömoni, koronavirüs pnömonisi, hemofilus pnömonisi, pnömokok pnömonisi, respiratuvar
+13sinsityal virüs pnömonisini içermektedir.
+b. Sepsis terimi sepsis, bakteremi, cihazla ilişkili bakteremi, cihazla ilişkili sepsis, escherichia bakteremisi,
+escherichia sepsisi, klebsiella sepsisi, psödomonal sepsis, septik şok, stafilokoksik bakteremi, stafilokoksik sepsis,
+streptokoksik sepsis, ürosepsis ve campylobacter bakteremisini içermektedir.
+c. Periferik nöropati terimi periferik duyusal nöropati, parestezi, periferik sensörimotor nöropati, dizestezi, periferik
+nöropati, periferik motor nöropati, Guillain-Barre sendromu, hipoestezi, nevralji ve polinöropatiyi içermektedir.
+d. Döküntü terimi eksfolyatif dermatit, eksfolyatif jeneralize dermatit, eritem, palmar-plantar eritrodizestezi
+sendromu, döküntü, eritematöz döküntü, maküler döküntü, makülo-papüler döküntü, püstüler döküntü, simetrik
+ilaçla ilişkili intertrijinöz ve fleksural ekzantem ve epidermolizi içermektedir.
+Seçilmiş advers reaksiyonların tanımı
+Sitokin salıverme sendromu (CRS)
+Önerilen dozda ELREXFIO alan hastaların %57,9'unda CRS görülmüş ve hastaların
+%43,7'sinde Derece 1 CRS, %13,7'sinde Derece 2 CRS ve hastaların %0,5'inde Derece 3
+CRS görülmüştür. Çoğu hastada CRS, birinci arttırma dozundan (%43,2) veya ikinci arttırma
+dozundan (%19,1) sonra görülmüş, hastaların %7,1'inde ise ilk tam tedavi dozundan ve
+%1,6'sında ise sonraki bir dozdan sonra CRS görülmüştür. Tekrarlayan CRS, hastaların
+%13,1'inde görülmüştür. CRS başlangıcına kadar geçen medyan süre en son dozdan 2 (aralık:
+1 ila 9) gün sonra olup, medyan süresi 2 (aralık: 1 ila 19) gündür.
+CRS gelişen hastalarda görülen ilişkili semptomlar ateş (%99), hipotansiyon (%21) ve
+hipoksi (%11,4) içermiştir ve hastaların %33’üne CRS tedavisi için tosilizumab (veya
+siltuksimab) ve %15,1’ine kortikosteroid uygulanmıştır.
+İmmün efektör hücre ilişkili nörotoksisite sendromu (ICANS)
+Önerilen doz uygulama şemasına göre uygulanan ELREXFIO tedavisini takiben hastaların
+%3,3'ünde ICANS meydana gelmiştir ve hastaların %0,5'inde Derece 1 ICANS, %1,6'sında
+Derece 2 ve %1,1'inde Derece 3 ICANS görülmüştür. ICANS, hastaların çoğunda birinci
+arttırma dozundan sonra (%2,7), 1 (%0,5) hastada ikinci arttırma dozundan sonra ve 1 (%0,5)
+hastada sonraki bir dozdan sonra görülmüştür. Tekrarlayan ICANS, hastaların %1,1'inde
+görülmüştür. Başlangıca kadar geçen medyan süre en son dozdan 3 (aralık: 1 ila 4) gün sonra
+olup, medyan süresi 2 (aralık: 1 ila 18) gündür.
+ICANS, CRS'yle eş zamanlı olarak, CRS'nin düzelmesi sonrasında ya da CRS olmadan
+başlayabilir. ICANS'ın en sık semptomları bilinç düzeyinde azalma ve Derece 1 veya Derece
+2 İmmün Efektör Hücre İlişkili Ensefalopati (ICE) skorlarını içermiştir (bkz. tablo 3). ICANS
+gelişen hastaların %66,7’sine ICANS tedavisi için kortikosteroid, %33,3’üne tosilizumab
+(veya siltuksimab), %33,3’üne levetirasetam ve %16,7’sine anakinra uygulanmıştır.
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TÜFAM)'ne bildirmeleri gerekmektedir (www.titck.gov.tr; e-
+posta: tufam@titck.gov.tr; tel: 0 800 314 00 08; faks: 0 312 218 35 99)
+4.9 Doz Aşımı ve tedavisi
+Semptomlar ve belirtiler
+Klinik çalışmalarda doz aşımı deneyimi bulunmamaktadır. Elranatamabın tolere edilebilen
+maksimum dozu belirlenmemiştir.
+Klinik çalışmalarda haftada bir kez 76 mg’a kadar dozlar uygulanmıştır.
+14Tedavi
+Doz aşımı durumunda hasta, advers reaksiyonların belirti ve semptomları açısından izlenmeli
+ve uygun destekleyici tedavi derhal başlatılmalıdır.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1 Farmakodinamik özellikler
+Farmakoterapötik grup: Diğer monoklonal antikorlar ve antikor ilaç konjugatları
+ATC kodu: L01FX
+Etki mekanizması
+Elranatamab, T hücreleri üzerindeki CD3-epsilonu ve plazma hücreleri, plazmablastlar ve
+multipl miyelom hücreleri üzerindeki B hücresi olgunlaşma antijenini (BCMA) bağlayan, bi-
+spesifik bir T hücresi bağlayıcı antikordur. Elranatamab'ın tümör hücreleri üzerindeki
+BCMA'ya ve T hücreleri üzerindeki CD3'e bağlanması, doğal T hücresi reseptörü (TCR)
+spesifikliğinden veya majör doku uyumluluğu (MHC) Sınıf 1 moleküllerinden bağımsızdır.
+Elranatamab, T hücrelerini aktive etmiş, proenflamatuvar sitokin salımına neden olmuş ve
+multipl miyelom hücre lizisine yol açmıştır.
+Farmakodinamik etkiler
+İmmünojenisite
+Önerilen dozda elranatamab tedavisi sırasında katılımcıların %8,3'ünde anti-ilaç antikorları
+(ADA) tespit edilmiştir. ADA'nın farmakokinetik, etkililik veya güvenlilik üzerinde etkisine
+dair hiçbir kanıt gözlenmemiştir; ancak veriler hâlâ sınırlıdır.
+Klinik etkililik ve güvenlilik
+Relaps veya refrakter multipl miyelom
+ELREXFIO monoterapisinin etkililiği, açık etiketli, randomize olmayan, çok merkezli bir Faz
+2 çalışmada (MagnetisMM-3) relaps veya refrakter multipl miyelom hastalarında
+değerlendirilmiştir. Çalışmaya en az bir proteazom inhibitörüne (PI), bir immünomodülatör
+ajana (IMiD) ve bir anti-CD38 monoklonal antikora refrakter olan hastalar dahil edilmiştir.
+MagnetisMM-3'e daha önce BCMA'ya yönelik tedavi almamış 123 hasta (pivot Kohort A)
+dahil edilmiştir. Hastaların kayıt sırasında Uluslararası Miyelom Çalışma Grubu (IMWG)
+kriterlerine göre ölçülebilir hastalığı vardır. Çalışmaya ECOG skoru ≤ 2, başlangıçtaki kemik
+iliği (mutlak nötrofil sayısı ≥ 1 x 109/L, trombosit sayısı ≥ 25 x 109/L, hemoglobin düzeyi ≥ 8
+g/dl), böbrek (CrCL ≥ 30 ml/dk) ve karaciğer [aspartat aminotransferaz(AST) ve [alanin
+transaminaz (ALT) ≤ 2,5 x normalin üst sınırı (NÜS)], total bilirubin ≤ 2 x NÜS] fonksiyonu
+yeterli ve sol ventrikül ejeksiyon fraksiyonu ≥ %40 olan hastalar dahil edilmiştir. Smoldering
+multipl miyelom, aktif plazma hücreli lösemi, amiloidoz, POEMS (polinöropati,
+organomegali, endokrinopati, monoklonal plazma hücre bozukluğu, cilt değişiklikleri)
+sendromu olan, kayıttan önceki 12 hafta içinde kök hücre nakli yapılmış olan, aktif
+enfeksiyonları bulunan ve klinik olarak önemli nöropatisi ve kardiyovasküler hastalığı olan
+hastalar çalışmaya dahil edilmemiştir.
+Hastalara tedavinin 1. gününde 12 mg ve 4. gününde 32 mg şeklinde kademeli bir şekilde
+arttırılan ELREXFIO dozları ve takiben tedavinin 8. gününde ELREXFIO'nun ilk tam tedavi
+dozu (76 mg) subkutan yoldan uygulanmıştır. Sonrasında hastalara haftada bir kez 76 mg
+15uygulanmıştır. 24 hafta sonra yanıtların en az 2 ay sebat ettiği kısmi yanıt veya daha iyi yanıtı
+içeren IMWG yanıt kategorisi elde edilen hastalarda doz uygulama aralığı haftada bir yerine
+2 haftada bir olarak değiştirilmiştir (bkz. bölüm 4.2).
+Pivot Kohort A'da tedavi uygulanan 123 hastanın medyan yaşı 68 (aralık: 36 ila 89) olup
+hastaların %19,5'i ≥ 75 yaşındadır. %44,7'si kadın; %58,5'i Beyaz Irktan, %13’ü Asyalı,
+%8,9'u Hispanik/Latin ve %7,3'ü Siyah Irktandır. Çalışmaya girişteki hastalık evresi (R-ISS)
+%22,8'inde Evre I, %55,3'ünde Evre II ve %15,4'ünde Evre III olmuştur. İlk multipl miyelom
+tanısından kayıt zamanına kadar geçen medyan süre 72,9 (aralık: 16 ila 228) ay olmuştur.
+Hastalara daha önce medyan 5 tedavi basamağı (aralık: 2 ila 22) uygulanmış ve %96'sı daha
+önce ≥ 3 basamak tedavi almıştır. %96,7'si üç sınıfa refrakter ve %95,9'u son tedavi
+basamaklarına refrakter olmuştur. %68,3'üne daha önce otolog kök hücre nakli ve %5,7'sine
+daha önce allojenik kök hücre nakli uygulanmıştır. Hastaların %25,2'sinde yüksek riskli
+sitogenetik [t(4;14), t(14;16) veya del(17p)] bulunmuştur. Hastaların %31,7'sinde başlangıçta
+kör bağımsız merkezi incelemeye (BICR) göre ekstramedüller hastalık (herhangi bir
+plazmasitom varlığı (ekstramedüller ve/veya paramedüller) ile yumuşak doku bileşeni)
+bulunmuştur.
+Etkililik bulguları IMWG kriterlerine göre BICR tarafından değerlendirilen yanıt oranı ve
+yanıt süresine (DOR) dayandırılmıştır. Pivot Kohort A'daki etkililik bulguları Tablo 6’da
+gösterilmiştir. Yanıt verenler için ilk dozdan itibaren medyan (aralık) takip süresi 15,2 (2,4 -
+24,2) ay olmuştur.
+Tablo 6. MagnetisMM-3'te pivot Kohort A'dan elde edilen etkililik bulguları
+Daha önce BCMA'ya
+yönelik tedavi almamış
+olan hastalar
+(pivot Kohort A)
+Tedavi alanların tümü (N =
+123)
+Objektif Yanıt Oranı (ORR: sCR+CR+VGPR+PR), n (%) 75 (%61)
+(%95 GA)
+(51,8 - 69,6)
+Mükemmel tam yanıt (sCR) 19 (%15,4)
+Tam yanıt (CR) 25 (%20,3)
+Çok iyi kısmi yanıt (VGPR) 25 (%20,3)
+Kısmi yanıt (PR) 6 (%4,9)
+Tam Yanıt Oranı (sCR+CR), n (%) 44 (%35,8)
+(%95 GA)
+(27,3 - 44,9)
+İlk Yanıta Kadar Geçen Süre (ay)
+Tedaviye yanıt verenlerin sayısı 75
+Medyan 1,22
+Aralık (0,9 - 7,4)
+Yanıt Süresi (DOR) (ay)
+Tedaviye yanıt verenlerin sayısı 75
+Medyan (%95 GA) NE (NE, NE)
+6. aydaki oran (%95 GA) 89,1 (79,5 - 94,4)
+9. aydaki oran (%95 GA) 80,7 (69,5 - 88.1)
+12. aydaki oran (%95 GA) 74,3 (62,3 - 83)
+15. aydaki oran (%95 GA) 70,8 (58,2 - 80,2)
+16CR veya sCR elde edilen ve MRD açısından değerlendirilebilir
+olan hastalarda MRD negatifliği oranıa CR/CR'lere ulaşan 44
+hastanın 29'u MRD açısından değerlendirilebilir durumda olmuştur.
+n (%) 26 (%89,7)
+%95 GA (%) (72,7 - 97,8)
+Kısaltmalar: GA = Güven aralığı; NE = Hesaplanabilir değildir; MRD = Minimal rezidüel
+hastalık.
+a. Yeni Nesil Dizileme clonoSEQ analiziyle (Adaptive Biotechnologies) 10-5 eşiğine göre.
+5.2 Farmakokinetik özellikler
+Genel Özellikler
+Farmakokinetik parametreler, aksi belirtilmediği sürece bağlanmamış elranatamab için
+geometrik ortalama (varyasyon katsayısı [CV]%) olarak sunulmuştur. Elranatamabın ilk
+subkutan dozundan sonra C ve EAA değerleri, subkutan uygulama yoluyla
+maks tau
+değerlendirilen doz aralığında (~ 6 ila 76 mg) dozla orantılı bir şekilde artış göstermiştir. 24
+haftalık doz uygulamasından sonra ilk subkutan elranatamab 76 mg dozuna kıyasla ortalama
+birikim oranı C ve EAA için sırasıyla 6,6 kat ve 11,2 kat olmuştur. Elranatamabın
+maks tau
+öngörülen C , C veC değerleri Tablo 7’de sunulmuştur.
+ort maks çukur
+Tablo 7. Önerilen dozun ardından elranatamabın öngörülen farmakokinetik
+parametreleri
+Zaman Parametreler
+noktası
+C C C
+ort maks çukur
+(mcg/mL) (mcg/mL) (mcg/mL)
+Haftalık 32.7 (%49) 33.6 (%48) 31.2 (%50)
+dozun sonu
+(24. Hafta)
+Kararlı durum 18.4 (%57) 20.1 (%55) 15,9 (%64)
+(iki haftada
+bir dozlama)a,b
+a. Yanıt elde eden hastalarda.
+b. İki haftada bir elranatamab uygulamasıyla kararlı durum maruziyetine yaklaşık 48 haftada ulaşılmıştır.
+Emilim
+Subkutan yoldan uygulanan elranatamabın ortalama biyoyararlanımı %56,2 olmuştur. Tüm
+doz düzeyleri genelinde SC elranatamab uygulamasından sonraki medyan T değeri 3 ila 7
+maks
+gün olmuştur.
+Dağılım
+Popülasyon farmakokinetik modeline dayanarak, bağlanmamış elranatamabın tahmin edilen
+ortalama santral dağılım hacmi, 4,78 L, merkezi kompartman için %69 (CV) ve periferik
+kompartman için 2,83 L olmuştur.
+Eliminasyon
+Elranatamab'ın tahmin edilen geometrik ortalama yarı ömrü, haftalık 76 mg'lık dozlardan
+sonra 24. haftada 22, %64 (CV) gündür. Popülasyon farmakokinetik modeline göre tahmin
+edilen ortalama elranatamab klerensi 0,324 L/gün, %69 (CV) idi.
+17Doğrusallık / doğrusal olmayan durum
+Elranatamabın ilk subkutan dozundan sonra C ve EAA değerleri, subkutan uygulama
+maks tau
+yoluyla değerlendirilen doz aralığında (~ 6 ila 76 mg) dozla orantılı bir şekilde artış
+göstermiştir.
+Özel popülasyonlar
+Elranatamab farmakokinetiğinde yaş (36 ila 89 yaş), cinsiyet (167 erkek, 154 kadın), ırk (193
+Beyaz Irk, 49 Asyalı, 29 Siyah Irk) ve vücut ağırlığına (37 ila 160 kg) göre klinik açıdan
+önemli bir fark gözlenmemiştir.
+Böbrek yetmezliği
+Böbrek yetmezliği olan hastalarda elranatamab ile ilgili herhangi bir çalışma
+yürütülmemiştir. Popülasyon farmakokinetiği analizlerinin bulguları hafif böbrek
+yetmezliğinin (60 ml/dk/1,73 m2 ≤ eGFR < 90 ml/dk/1,73 m2) veya orta dereceli böbrek
+yetmezliğinin (30 ml/dk/1,73 m2 ≤ eGFR < 60 ml/dk/1,73 m2) elranatamab farmakokinetiğini
+anlamlı düzeyde etkilemediğine işaret etmektedir. Şiddetli böbrek yetmezliği olan hastalarda
+mevcut veriler sınırlıdır (eGFR < 30 ml/dk/1,73 m2).
+Karaciğer yetmezliği
+Karaciğer yetmezliği olan hastalarda elranatamab ile ilgili herhangi bir çalışma
+yürütülmemiştir. Popülasyon farmakokinetiği analizlerinden elde edilen bulgular hafif
+karaciğer yetmezliğinin (total bilirubin > 1 ila 1,5 x NÜS ve herhangi bir AST düzeyi ya da
+total bilirubin ≤ NÜS ve AST > NÜS) elranatamab farmakokinetiğini anlamlı düzeyde
+etkilemediğine işaret etmektedir. Orta dereceli (total bilirubin > 1,5 ila 3 x NÜS ve herhangi
+bir AST) veya şiddetli (total bilirubin > 3 x NÜS ve herhangi bir AST) karaciğer yetmezliği
+olan hastalarda veri mevcut değildir.
+5.3 Klinik öncesi güvenlilik verileri
+Karsinojenisite ve mutajenisite
+Elranatamabın karsinojenik veya genotoksik potansiyelinin değerlendirilmesi için hayvanlar
+üzerinde herhangi bir çalışma yapılmamıştır.
+Üreme toksikolojisi ve fertilite
+Elranatamabın fertilite ya da üreme ve fetal gelişim üzerindeki etkilerini değerlendirmek için
+hayvanlar üzerinde herhangi bir çalışma gerçekleştirilmemiştir.
+Cinsel açıdan olgun sinomolgus maymunlarında yapılan 13 haftalık tekrarlayan doz
+toksisitesi çalışmasında, 6 mg/kg/hafta düzeyine kadar subkutan dozların (EAA maruziyetine
+göre önerilen maksimum insan dozunun yaklaşık 6,5 katı) uygulanmasını takiben erkek ve
+dişi üreme organları üzerinde kayda değer bir etki görülmemiştir.
+6. FARMASÖTİK ÖZELLİKLER
+6.1 Yardımcı maddelerin listesi
+Edetat disodyum dihidrat
+L-histidin
+L-histidin hidroklorür monohidrat
+Polisorbat 80
+Sukroz
+Enjeksiyonluk su
+186.2 Geçimsizlikler
+Geçimlilik çalışmaları bulunmadığından bu tıbbi ürün başka tıbbi ürünlerle
+karıştırılmamalıdır.
+6.3 Raf ömrü
+Açılmamış flakon
+18 ay
+Hazırlanmış enjektör
+Hazırlanmış enjektör derhal uygulanmalıdır. Hazırlanan doz uygulama enjektörünün hemen
+kullanılmaması durumunda enjektör, en fazla 24 saat süreyle 2°C ila 30°C'de saklanmalıdır.
+Mikrobiyolojik açıdan bakıldığında, açma yöntemi mikrobiyal kontaminasyon riskini ortadan
+kaldırmıyorsa ürün hemen kullanılmalıdır. Hemen kullanılmazsa, kullanım öncesi saklama
+süreleri ve koşulları kullanıcının sorumluluğundadır.
+6.4 Saklamaya yönelik özel önlemler
+Buzdolabında (2°C – 8°C) saklayınız.
+Dondurmayınız. Çalkalanmamalıdır.
+Işıktan korumak için orijinal kartonunda saklayınız.
+Tıbbi ürünün ilk açılmasından sonraki saklama koşulları için bölüm 6.3'e bakınız.
+6.5 Ambalajın niteliği ve içeriği
+1,9 ml çözeltide 76 mg elranatamab içeren, klorobutil kauçuk tıpalı ve alüminyum geçme
+kapaklı tek kullanımlık 1 adet Tip 1 cam flakon
+6.6 Beşeri Tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+ELREXFIO 44 mg/1,1 ml (40 mg/ml) ve ELREXFIO 76 mg/1,9 ml (40 mg/ml)
+enjeksiyonluk çözelti uygulama öncesinde seyreltmeye gerek olmayan kullanıma hazır çözelti
+şeklinde tedarik edilmektedir. Çalkalamayınız.
+ELREXFIO berrak ila hafif opalesan ve renksiz ila soluk kahverengi bir çözeltidir. Renk
+değişikliği veya parçacıklı madde görülmesi durumunda çözelti uygulanmamalıdır.
+ELREXFIO'nun hazırlanması ve uygulanması için aseptik teknik kullanılmalıdır.
+Hazırlama talimatları
+ELREXFIO flakonları tek kullanımlıktır.
+ELREXFIO, gerekli olan doza istinaden değişen şekilde aşağıdaki talimatlara göre (bkz.
+Tablo 8 hazırlanmalıdır. Arttırma dozlarının her biri için 44 mg/1,1 ml (40 mg/ml) tek dozluk
+flakon kullanılması önerilir.
+19Tablo 8. ELREXFIO hazırlama talimatları
+Gerekli doz Doz hacmi
+12 mg (1. Arttırma
+0,3 mL
+dozu)
+32 mg (2. arttırma
+0,8 mL
+dozu)
+76 mg (Tam tedavi
+1,9 mL
+dozu)
+Ponksiyon yapıldığında flakon ve doz uygulama enjektörü hemen kullanılmalıdır. Hazırlanan
+doz uygulama enjektörünün hemen kullanılmaması durumunda enjektör, en fazla 24 saat
+süreyle 2°C ila 30°C'de saklanmalıdır.
+İmha
+Tek kullanımdan sonra flakon ve kalan tüm içerik atılmalıdır. Kullanılmamış olan tıbbi
+ürünler ya da atık materyaller, ‘Tıbbi Atıkların Kontrolü Yönetmeliği’ ve ‘Ambalaj
+Atıklarının Kontrolü Yönetmelikleri’ne uygun olarak imha edilmelidir.
+7. RUHSAT SAHİBİ
+Pfizer PFE İlaçları A.Ş.
+Esentepe Mah. Büyükdere Cad.
+Levent 199 Blok No: 199 İç Kapı No: 106
+Şişli / İstanbul
+8. RUHSAT NUMARASI
+2024/304
+9. İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi: 23.08.2024
+Ruhsat yenileme tarihi:
+10. KÜB’ÜN YENİLENME TARİHİ
+20

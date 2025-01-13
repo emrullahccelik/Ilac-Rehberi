@@ -1,0 +1,547 @@
+KISA ÜRÜN BİLGİSİ
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+PEXA XR 2.25 mg uzatılmış salımlı tablet
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde:
+Her bir uzatılmış salımlı tablet, 1,57 mg pramipeksole eşdeğer 2,25 mg pramipeksol
+dihidroklorür monohidrat içerir.
+DİKKAT:
+Literatürde yayınlanan pramipeksol dozları tuz formunu ifade etmektedir. Bu nedenle, dozlar
+hem pramipeksol tuz formunda hem de baz formunda (parantez içinde) sunulmuştur.
+Yardımcı maddeler:
+Yardımcı maddelerin tam bir listesi için, bölüm 6.1’e bakınız.
+3. FARMASÖTİK FORM
+Uzatılmış Salımlı Tablet
+Beyaz, yuvarlak, bikonveks tabletler
+4. KLİNİK ÖZELLİKLER
+4.1 Terapötik endikasyonlar
+PEXA XR, erişkinlerde idiyopatik Parkinson hastalığındaki bulgu ve belirtilerin tedavisinde
+endikedir. Tek başına (birlikte levodopa olmaksızın) kullanılabilir ya da hastalığın seyri içinde,
+geç evrelere doğru, levodopanın etkisi azalarak geçmeye başladığında veya değişken hale
+geldiği için terapötik etkide dalgalanmalar ortaya çıktığında (doz sonu ya da gelgit (on/off)
+dalgalanmalar), levodopa ile kombinasyon şeklinde kullanılabilir.
+4.2 Pozoloji ve uygulama şekli
+Pozoloji / uygulama sıklığı ve süresi:
+PEXA XR, pramipeksolün günde bir kez, ağızdan kullanılan formülasyonudur.
+Başlangıç tedavisi:
+Doz, aşağıda gösterildiği gibi, 0,375 mg tuz (0,26 mg baz) günlük başlangıç dozundan itibaren
+basamaklı olarak artırılmalı ve doz artışları 5-7 günlük aralıklar ile yapılmalıdır. Hastalarda
+tolere edilemeyen istenmeyen etkiler oluşmadığı sürece doz titrasyonu, maksimum terapötik
+etkinin elde edilebileceği şekilde yapılmalıdır.
+PEXA XR uzatılmış salımlı tablet doz arttırma şeması
+Hafta Günlük doz (mg, baz) Günlük doz (mg, tuz)
+1 0,26 0,375
+2 0,52 0,75
+3 1,05 1,5
+Eğer dozun daha da yükseltilmesi gerekli olursa, günlük doz, haftalık aralıklar ile 0,75 mg tuz
+(0,52 mg baz) dozda, maksimum günlük doz olan 4,5 mg tuz (3,15 mg baz) doza kadar
+1 / 14arttırılmalıdır. Bununla birlikte, günlük 1,5 mg tuz (1,05 mg baz) dozların üzerine çıkıldığında
+somnolans insidansının arttığı unutulmamalıdır. (bkz. Bölüm 4.8).
+Halen pramipeksol çabuk salım tablet almakta olan hastalar, ertesi sabah başlamak üzere, aynı
+günlük dozda PEXA XR’a geçiş yapabilirler. PEXA XR’a geçiş yapıldıktan sonra, hastanın
+tedaviye verdiği yanıta göre ilaç dozu ayarlanabilir (bkz. Bölüm 5.1).
+İdame tedavisi:
+Günlük bireysel dozlar, 0,375 mg tuz (0,26 mg baz) ile maksimum 4,5 mg tuz (3,15 mg baz)
+aralığında olmalıdır. Pivotal çalışmalarda, doz artırımı sırasında, etkililik günde 1,5 mg tuz
+(1,05 mg baz) dozdan itibaren gözlenmiştir. Daha ileri doz ayarlamaları, klinik yanıta ve ortaya
+çıkan advers etkilere göre yapılmalıdır. Klinik araştırmalarda hastaların yaklaşık %5’i, 1,5 mg
+tuz (1,05 mg baz) dozdan daha düşük dozlar ile tedavi edilmiştir İleri Parkinson hastalığında,
+levodopa dozunun düşürülmesi planlandığında, günlük 1,5 mg tuz (1,05 mg baz) dozdan daha
+yüksek dozlar yararlı olabilir. PEXA XR ile gerek doz artırımı gerekse idame tedavisi
+sırasında, hasta bireyin reaksiyonları doğrultusunda, levodopa dozunun azaltılması önerilir
+(bkz. Bölüm 4.5).
+Unutulan dozlar:
+Bir dozun alınması unutulursa, PEXA XR, unutulan dozun alınması gereken zamandan sonra
+12 saat içinde alınmalıdır. 12 saatten daha uzun zaman geçmişse, unutulan doz atlanmalı ve bir
+sonraki doz ertesi gün alınması gereken zamanda kullanılmalıdır.
+Tedavinin sonlandırılması:
+Dopaminerjik tedavinin aniden kesilmesi, nöroleptik malign sendrom gelişmesine yol açabilir.
+Pramipeksol günlük doz 0,75 mg tuza (0,52 mg baz) düşünceye kadar, günde 0,75 mg tuz (0,52
+mg baz), daha sonra ise günde 0,375 mg tuz (0,26 mg baz) dozlarla azaltılarak, basamak
+tarzında sonlandırılmalıdır (bkz. Bölüm 4.4).
+Uygulama şekli:
+Uzatılmış salımlı (XR) tabletler su ile bütün olarak yutulmalı, çiğnenmemeli, bölünmemeli ya
+da ezilmemelidir. Uzatılmış salımlı tabletler yiyeceklerle birlikte veya tek başına alınabilir. Her
+gün aynı saatte alınmalıdır.
+Özel popülasyonlara ilişkin ek bilgiler:
+Böbrek yetmezliği:
+Pramipeksolün eliminasyonu böbrek fonksiyonlarına bağımlıdır. Aşağıdaki doz şeması
+önerilir:
+Kreatinin klerensi 50 ml/dk'nın üzerinde olan hastalarda, günlük dozun ya da doz uygulama
+sıklığının azaltılması gerekli değildir.
+Kreatinin klerensi 30-50 mL/dk arasında olan hastalarda tedavi, günaşırı 0,375 mg tuz (0,26mg
+baz) PEXA XR ile başlatılmalıdır. Bir haftadan sonra, doz günlük uygulama dozuna
+yükseltilmeden önce, ihtiyatlı olunmalı ve terapötik yanıt ile tolerabilite dikkatle
+değerlendirilmelidir. Eğer dozun daha da yükseltilmesi gerekli olursa, günlük doz, haftalık
+aralıklar ile 0,375 mg pramipeksol tuz (0,26 mg baz) doz miktarlarıyla maksimum günlük doz
+olan 2,25 mg tuza (1,57 mg baz) kadar arttırılmalıdır.
+2 / 14Kreatinin klerensi 30 mL/dk’nın altında olan hastaların PEXA XR ile tedavisine ilişkin veri
+bulunmadığı için, bu hasta grubunda PEXA XR kullanımı önerilmemektedir. Bu hastalarda
+pramipeksol çabuk salım tablet kullanılması düşünülmelidir.
+Eğer idame tedavisi esnasında böbrek fonksiyonları azalırsa, yukarıda verilen öneriler
+izlenmelidir.
+Karaciğer yetmezliği:
+Absorbe edilen etkin maddenin yaklaşık %90’ı böbrekler yolu ile atıldığı için karaciğer
+yetmezliği olan hastalarda doz ayarlanması büyük olasılıkla gerekli olmayacaktır. Ancak,
+karaciğer yetmezliğinin PEXA XR farmakokinetiği üzerindeki potansiyel etkisi
+incelenmemiştir.
+Pediyatrik popülasyon:
+PEXA XR’ın 18 yaşından küçük çocuklardaki etkililiği ve güvenliliği belirlenmemiştir. PEXA
+XR’ın Parkinson hastalığında pediyatrik popülasyona ilişkin bir kullanım alanı
+bulunmamaktadır.
+Geriyatrik popülasyon:
+PEXA XR’ın eliminasyon yarı ömrü, yaşlılarda daha uzundur (bkz. Bölüm 5.2).
+4.3 Kontrendikasyonlar
+Etkin maddeye ya da ürünün herhangi bir bileşenine karşı aşırı duyarlılık halinde
+kontrendikedir (bkz. Bölüm 6.1).
+4.4 Özel kullanım uyarıları ve önlemleri
+Böbrek yetmezliği olan bir Parkinson hastasına PEXA XR reçete edilirken, “Pozoloji ve
+uygulama şekli” bölümünde (bkz. Bölüm 4.2) açıklandığı şekilde bir doz azaltımı önerilir.
+Halüsinasyonlar
+Halüsinasyonların, dopamin agonistleri ve levodopa tedavisinin bir yan etkisi olduğu
+bilinmektedir. Hastalar, halüsinasyonların (çoğunlukla görsel) oluşabileceği konusunda
+uyarılmalıdır.
+Diskinezi
+İlerlemiş Parkinson hastalığında, levodopa ile kombinasyon tedavisinde, PEXA XR’ın
+başlangıç titrasyonu sırasında diskinezi ortaya çıkabilir. Eğer diskinezi ortaya çıkarsa,
+levodopa dozu azaltılmalıdır.
+Distoni
+Pramipeksolün başlatılması veya doz artışı sonrasında, Parkinson hastalığı olan hastalarda
+antekollis, kamptokormi ve plörototonus da (Pisa Sendromu) dahil olmak üzere nadiren aksiyel
+distoni bildirilmiştir. Distoni, Parkinson hastalığının bir semptomu olabilse de bu hastalardaki
+semptomlar pramipeksolün azaltılması veya geri çekilmesinden sonra düzelmiştir. Eğer distoni
+ortaya çıkarsa dopaminerjik ilaç tedavisi gözden geçirilmeli ve pramipeksol dozunda bir
+ayarlama yapılması düşünülmelidir.
+Aniden uyuyakalma durumu ve somnolans
+Pramipeksol, özellikle Parkinson hastalarında, somnolans ve ani başlayan uyuyakalma
+olaylarıyla ilişkili bulunmuştur. Günlük aktiviteler sırasında ve bazı vakalarda hiçbir uyarı
+belirtisi vermeden ortaya çıkan aniden başlayan uyku nöbetleri yaygın olmayan sıklıkta
+3 / 14bildirilmiştir; bu durum, bazı olgularda farkında olmaksızın ya da uyarıcı belirtiler
+bulunmaksızın ortaya çıkabilir. Hastalar bu konu hakkında uyarılmalı ve bu ilacın kullanımı
+sırasında özellikle araç ve makine kullanımında dikkatli olmaları önerilmelidir. Somnolans
+ve/veya ani uyuyakalma nöbetleri yaşayan hastaların araç ve makine kullanımından
+kaçınmaları gereklidir. Ayrıca, dozun azaltılması ya da tedavinin sonlandırılması düşünülebilir.
+Olası additif etkiler nedeniyle, hastalar, pramipeksol içeren bir ilaç kullanımı sırasında diğer
+sedatif ilaçlar veya alkol alırken dikkatli olmaları gerektiği konusunda uyarılmalıdır (bkz.
+Bölüm 4.5, 4.7 ve 4.8).
+İmpuls kontrol bozuklukları
+Hastalar impuls kontrol bozuklukları gelişmesi olasılığı açısından düzenli olarak izlenmelidir.
+Hastalar ve hastaların bakım ve tedavisiyle ilgilenen kişiler, PEXA XR dahil dopamin
+agonistleriyle tedavi gören hastalarda, patolojik kumar oynama, libidoda artma,
+hiperseksüalite, kompulsif harcama ya da alışveriş yapma, tıkanırcasına yemek yeme ve aşırı
+yemek yeme gibi impuls kontrol bozukluklarının davranışsal semptomlarının görülebileceği
+konusunda uyarılmalıdır. Bu gibi semptomların gelişmesi durumunda dozun azaltılması ya da
+basamaklı şekilde azaltılarak sonlandırılması düşünülmelidir.
+Mani ve deliryum
+Hastalar, mani ve deliryum gelişme riski açısından düzenli olarak izlenmelidir. Hastalar ve
+hastanın bakımı ile ilgilenen kişiler, pramipeksol ile tedavi edilen hastalarda mani ve deliryum
+ortaya çıkabileceği hakkında mutlaka uyarılmalıdır. Bu gibi semptomlar gelişirse, doz
+azaltılması/dozun basamaklı şekilde azaltılması ile ilacın kesilmesi düşünülmelidir.
+Psikotik bozuklukları olan hastalar
+Psikotik bozuklukları olan hastalarda dopamin agonistleri ile tedavi sadece eğer tedaviden elde
+edilecek potansiyel yarar, olası riskten yüksek ise uygulanmalıdır. Pramipeksol ve antipsikotik
+ilaçların eş zamanlı kullanımından kaçınılmalıdır (bkz. Bölüm 4.5).
+Oftalmolojik izlem
+Düzenli aralıklarla ya da görme anormalliklerinin ortaya çıkması durumunda oftalmolojik
+izleme yapılması önerilmektedir.
+Ağır kardiyovasküler hastalık
+Ağır kardiyovasküler hastalık durumunda dikkatli olunmalıdır. Dopaminerjik tedavi ile genel
+olarak ilişkili postüral hipotansiyon riski nedeniyle, özellikle tedavinin başlangıcında kan
+basıncının izlenmesi önerilir.
+Nöroleptik malign sendrom
+Dopaminerjik tedavinin aniden kesilmesiyle, nöroleptik malign sendromu düşündüren
+semptomlar bildirilmiştir (bkz. Bölüm 4.2).
+Dopamin agonisti kesilme sendromu
+Parkinson hastalarında pramipeksol tedavisi, dozun basamaklı şekilde azaltılması yoluyla
+kesilmelidir (bkz. Bölüm 4.2). Pramipeksol dahil dopamin agonistlerinin dozu azaltılırken veya
+tedavi durdurulduğunda, motor olmayan advers etkiler ortaya çıkabilir. Semptomlar arasında,
+apati, anksiyete, depresyon, bitkinlik, terleme ve ağrı bulunur ve bunlar şiddetli olabilir.
+Dopamin agonistinin dozu azaltılmaya başlamadan önce hastalar bu konuda bilgilendirilmeli
+ve sonrasında da düzenli olarak izlenmelidir. Semptomların inatçı olması halinde, pramipeksol
+dozunun geçici olarak yükseltilmesi gerekebilir (bkz. Bölüm 4.8).
+4 / 14Dışkıda kalıntılar
+Bazı hastalar, dışkılarında, bozulmamış pramipeksol uzatılmış salımlı tabletlere benzeyen
+kalıntıların olduğunu bildirmiştir. Eğer hasta böyle bir gözlemi bildirirse, doktor, hastasının
+tedaviye yanıtını yeniden değerlendirmelidir.
+4.5 Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+Plazma proteinlerine bağlanma
+Pramipeksol plazma proteinlerine çok düşük bir düzeyde (<%20) bağlanır ve insanlarda düşük
+boyutlarda bir biyotransformasyon görülür. Bu nedenle plazma proteinlerine bağlanmayı
+etkileyen ya da biyotransformasyon yoluyla eliminasyon üzerinde etkili olan diğer ilaçlar ile
+etkileşim beklenmez. Antikolinerjik ilaçlar esas olarak biyotransformasyon yoluyla elimine
+edildiğinden, etkileşim potansiyeli düşüktür. Bununla birlikte, antikolinerjiklerle etkileşim
+konusu çalışılmamıştır. Selejilin ve levodopa ile farmakokinetik bir etkileşim göstermez.
+Aktif renal eliminasyon yolağı inhibitörleri/yarışmacıları
+Simetidin, muhtemelen böbrek tübüllerindeki katyonik sekretuar transport sistemini inhibe
+ederek, premipeksolün renal klerensini yaklaşık %34 oranında azaltmıştır. Bu nedenle, bu,
+aktif renal eliminasyon yolağını inhibe eden ya da bu yolak ile elimine olan simetidin,
+amantadin, meksiletin, zidovudin, sisplatin, kinin ve prokainamid gibi ilaçlar pramipeksol ile
+etkileşerek pramipeksol klerensinde azalmaya yol açabilir. Bu ilaçların PEXA XR ile eş
+zamanlı kullanılması halinde pramipeksol dozunun azaltılması düşünülmelidir.
+Levodopa ile kombinasyon
+PEXA XR, levodopa ile eşzamanlı veriliyorsa, levodopa dozunun azaltılması ve PEXA XR
+dozu arttırılırken diğer antiparkinson ilaçların dozlarının sabit tutulması önerilmektedir.
+Additif etki olasılığı nedeniyle, hastaların PEXA XR ile birlikte başka sedasyon yapıcı ilaçlar
+ya da alkol almaları durumunda dikkatli olmaları konusunda uyarılması gerekir (bkz. Bölüm
+4.4, 4.7 ve 4.8).
+Antipsikotik ilaçlar
+Antipsikotik ilaçların pramipeksol ile birlikte kullanımından kaçınılmalıdır (bkz. Bölüm 4.4),
+bu durumda antagonistik etkiler beklenebilir.
+Özel popülasyonlara ilişkin ek bilgiler
+Özel popülasyonlara ilişkin herhangi bir etkileşim çalışması bulunmamaktadır.
+Pediyatrik popülasyon:
+Pediyatrik popülasyona ilişkin herhangi bir etkileşim çalışması bulunmamaktadır.
+4.6 Gebelik ve laktasyon
+Genel tavsiye
+Gebelik kategorisi C’dir.
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon)
+Çocuk doğurma potansiyeli bulunan kadınlar, tedavi süresince tıbben etkili olduğu kabul edilen
+doğum kontrol yöntemleri kullanmalıdır.
+Gebelik dönemi
+İnsanlarda gebelik ve laktasyon üzerindeki etkileri araştırılmamıştır.
+5 / 14Pramipeksol sıçanlarda ve tavşanlarda teratojenik etki göstermemiş, ama sıçanlarda
+maternotoksik dozlarda embriyotoksik etki göstermiştir (bkz. Bölüm 5.3).
+PEXA XR gebelik sırasında açıkça gerekli olmadığı sürece kullanılmamalı, yalnızca potansiyel
+yararları, fetüs üzerindeki olası riske ağır bastığında kullanılmalıdır.
+Laktasyon dönemi
+İnsanlarda pramipeksol tedavisinin prolaktin sekresyonunu inhibe etmesi nedeniyle,
+laktasyonun inhibisyonu beklenir. Pramipeksolün kadınlarda süte geçip geçmediği üzerinde
+çalışılmamıştır. Sıçanlarda etkin maddeye ait radyoaktivitenin sütteki konsantrasyonu,
+plazmadakinden daha yüksek bulunmuştur.
+İnsanlarla ilgili veri bulunmaması nedeniyle, emzirme sırasında PEXA XR kullanılmamalıdır.
+Ancak kullanımından kaçınılamıyor ise, emzirmeye son verilmelidir.
+Üreme yeteneği/Fertilite
+İnsan fertilitesi üzerinde çalışma yapılmamıştır. Pramipeksol hayvan çalışmalarında, östrus
+döngülerini etkilemiş ve bir dopamin agonistinden beklendiği şekilde dişi fertilitesinde
+azalmaya neden olmuştur. Bu çalışmalarda, erkek fertilitesine yönelik, doğrudan ya da dolaylı
+zararlı etkiler gösterilmemiştir.
+4.7 Araç ve makine kullanımı üzerindeki etkiler
+PEXA XR araç ve makine kullanım yetenekleri üzerinde majör etkiler oluşturabilir.
+Halüsinasyonlar ya da somnolans ortaya çıkabilir.
+PEXA XR ile tedavi edilmekte olan ve somnolans ve/veya ani uyku episodları geçiren hastalar,
+bu sorunlar ortadan kalkıncaya kadar, araba ve makine kullanmak gibi dikkat gerektiren
+faaliyetlerden kaçınmaları, aksi takdirde dikkatteki bozulma nedeniyle kendisi ve başkaları için
+ciddi yaralanma veya ölüm riski bulunduğu konusunda uyarılmalıdır (bkz. Bölüm 4.4, 4.5 ve
+4.8).
+4.8 İstenmeyen etkiler
+Pramipeksol tedavisi alan 1.778 Parkinson hastası ile, plasebo alan 1.297 hastayı içeren
+plasebo kontrollü çalışmaların yer aldığı havuz analizlerine dayanılarak, her iki grupta da
+advers etkiler sık olarak bildirilmiştir. Pramipeksol alan hastaların %67’sinde ve plasebo
+grubunun %54’ünde en az bir advers etki bildirilmiştir.
+Advers ilaç reaksiyonlarının çoğunluğu tedavinin erken döneminde başlar ve çoğunluğu
+tedaviye devam edilirken kaybolma eğilimindedir.
+Advers reaksiyonlar, aşağıdaki sıklık kategorileri kullanılarak, sistem-organ sınıfları içinde şu
+sıklık tanımlarıyla bildirilmiştir (Advers reaksiyon ortaya çıkması beklenen hasta sayısı):
+Çok yaygın ≥ 1/10
+Yaygın ≥ 1/100 ilâ < 1/10
+Yaygın olmayan ≥ 1/1.000 ilâ < 1/100
+Seyrek ≥ 1/10.000 ilâ < 1/1.000
+Çok seyrek < 1/10.000
+Bilinmiyor eldeki verilerle hareketle tahmin edilemiyor.
+6 / 14Parkinson hastalarında en yaygın (≥%5) olarak bildirilen ve pramipeksol tedavisinde plasebo
+ile olduğundan daha sık görülen advers ilaç reaksiyonları şunlardır; bulantı, diskinezi,
+hipotansiyon, baş dönmesi, somnolans, uykusuzluk, konstipasyon, halüsinasyon, baş ağrısı ve
+bitkinlik. Somnolans insidansı günde 1,5 mg pramipeksol tuzundan daha yüksek dozlarda artar
+(bkz. Bölüm 4.2). Levodopa ile kombinasyonda daha sık bildirilen bir advers etki diskinezidir.
+Tedavinin başlangıcında, özellikle pramipeksol titrasyonu çok hızlı yapılırsa hipotansiyon
+ortaya çıkabilir.
+Vücut sistemi Çok Yaygın Yaygın Seyrek Bilinmiyor
+yaygın (≥1/100 -<1/10) olmayan (≥1/10.000 -
+(≥1/10) (≥1/1.000 - <1/1.000)
+< 1/100)
+Enfeksiyonlar Pnömoni
+ve
+enfestasyonlar
+Endokrin Uygun olmayan
+hastalıklar antidiüretik
+hormon salımı1
+Psikiyatrik Uykusuzluk Kompulsif Mani
+hastalıklar Halüsinasyonlar alışveriş
+Anormal rüyalar Patolojik kumar
+Konfüzyon oynama
+Huzursuzluk
+İmpuls kontrol Hiperseksüalite
+bozuklukları ve
+Delüzyon
+kompulsiyonlara
+Libido
+ilişkin
+bozuklukları
+davranışsal
+Paranoya
+semptomlar
+Deliryum
+Tıkanırcasına
+1
+yeme
+1
+Hiperfaji
+Sinir sistemi Somnolans Baş ağrısı Aniden
+hastalıkları Baş uyuyakalma
+dönmesi Amnezi
+Diskinezi
+Hiperkinezi
+Senkop
+Göz hastalıkları Diplopi,
+bulanık görme
+ve görme
+keskinliğinde
+azalma dahil
+görme
+bozuklukları
+Kardiyak Kalp
+hastalıklar Yetmezliği1
+Vasküler Hipotansiyon
+hastalıklar
+7 / 14Solunum, Dispne
+göğüs Hıçkırık
+bozuklukları ve
+mediyastinal
+hastalıklar
+Gastrointestinal Bulantı Konstipasyon
+hastalıklar Kusma
+Deri ve derialtı Aşırı duyarlılık
+dokusu Kaşıntı
+hastalıkları Döküntü
+Genel Bitkinlik Apati,
+bozukluklar ve Periferal ödem anksiyete,
+uygulama depresyon,
+bölgesine ilişkin bitkinlik,
+hastalıklar terleme ve
+ağrıyı da
+içine alan
+dopamin
+agonisti
+kesilme
+sendromu
+Araştırmalar İştahta azalma Kilo artışı
+dahil kilo kaybı
+1 Bu advers etki pazarlama sonrası deneyimlerde gözlenmiştir. %95 kesinlikle, “yaygın
+olmayan” kategorisinden daha sık değildir, ancak sıklık düzeyi daha düşük olabilir. Bu yan etki
+pramipeksol ile tedavi edilen 2,762 Parkinson hastasından oluşan klinik araştırma veri
+tabanında bulunmadığı için kesin bir sıklık tahmini yapılması mümkün değildir.
+Seçilmiş advers reaksiyonların açıklanması
+Somnolans
+Pramipeksol tedavisi ile somnolans yaygın sıklıkta ilişkili bulunmuş, gündüz vakti ortaya çıkan
+aşırı somnolans ve ani uyku vakaları ile yaygın olmayan sıklıkta ilişkili görülmüştür (bkz.
+Bölüm 4.4).
+Libido bozuklukları
+Pramipeksol, libido bozuklukları (artma ya da azalma) ile yaygın olmayan sıklıkta ilişkili
+olabilir.
+İmpuls kontrol bozuklukları
+PEXA XR dahil dopamin agonistleri ile tedavi edilen hastalarda, patolojik kumar oynama,
+libido artışı, hiperseksüalite, kompulsif harcama ya da alışveriş, tıkanırcasına yeme ve
+kompulsif yeme bulguları ortaya çıkabilir (bkz. Bölüm 4.4).
+3.090 Parkinson hastasını kapsayan, kesitsel (cross-sectional), retrospektif taramalı ve olgu-
+kontrollu (case-control) çalışmada, dopaminerjik ya da non-dopaminerjik tedavi alan tüm
+hastaların %13,6’sında, son altı ay içinde bir impuls kontrol bozukluğuna ait semptomlar
+görülmüştür. Gözlenen belirtiler arasında, patolojik kumar oynama, kompulsif alışveriş,
+tıkanırcasına yeme ve kompulsif seksüel davranışlar (hiperseksüalite) bulunur. İmpuls kontrol
+bozuklukları açısından olası bağımsız risk faktörleri arasında dopaminerjik tedaviler ve daha
+8 / 14yüksek dozlardaki dopaminerjik tedavi, daha genç yaşlar (≤65 yaş), bekar olma ve hasta
+tarafından bildirilen kumar oynama davranışları ile ilgili aile öyküsü yer alır.
+Dopamin agonistleri kesilme sendromu
+Pramipeksol dahil dopamin agonistlerinin dozu azaltılırken veya tedavi durdurulduğunda,
+motor olmayan advers etkiler ortaya çıkabilir. Semptomlar arasında, apati, anksiyete,
+depresyon, bitkinlik, terleme ve ağrı bulunur (bkz. Bölüm 4.4).
+Kalp yetmezliği
+Pramipeksol tedavisi alan hastalarda, klinik çalışmalar ve pazarlama sonrası deneyimlerde,
+kalp yetmezliği bildirilmiştir. Bir farmakoepidemiyolojik çalışmada pramipeksol kullanımı,
+pramipeksol kullanmayan hastalara göre kalp yetmezliği riskinde artış ile ilişkilendirilmiştir
+(gözlenen risk oranı 1,86; %95 GA, 1,21-2,85).
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının büyük önem taşımaktadır.
+Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine olanak sağlar.
+Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye Farmakovijilans
+Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir (www.titck.gov.tr; e-
+posta:tufam@titck.gov.tr ; tel:0 800 314 00 08; faks:0 312 218 35 99).
+4.9 Doz aşımı ve tedavisi
+Klinikte masif bir doz aşımı deneyimi bulunmamaktadır. Beklenen istenmeyen etkiler, bulantı,
+kusma, hiperkinezi, halüsinasyonlar, ajitasyon ve hipotansiyon dahil, bir dopamin agonistinin
+farmakodinamik profili ile ilişkili reaksiyonlar olacaktır.
+Bir dopamin agonistinin doz aşımı için belirlenmiş bir antidotu bulunmamaktadır. Eğer santral
+sinir sistemi stimülasyonu bulguları var ise, bir nöroleptik ajan endike olabilir. Doz aşımı
+tedavisinde gastrik lavaj, intravenöz sıvılar, aktif kömür uygulaması ve elektrokardiyografik
+izlemenin yanı sıra, genel destekleyici önlemler gerekli olabilir.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1 Farmakodinamik özellikler
+Farmakoterapötik grup: Anti-Parkinson ilaçlar, dopamin agonistleri
+ATC kodu: N04BC05
+Etki mekanizması:
+Pramipeksol bir dopamin agonistidir, dopamin D ailesi reseptörlerine yüksek bir selektivite ve
+2
+spesifite ile bağlanır; D reseptörlerine karşı seçici bir afinite gösterir. Ayrıca, tam bir intrinsik
+3
+aktiviteye sahiptir.
+Pramipeksol striatumda bulunan dopamin reseptörlerinin uyarılması yoluyla, parkinsondaki
+motor defisitleri hafifletir. Hayvan çalışmalarında pramipeksolün, dopamin sentezi,
+salıverilmesi ve çevrim hızını (turnover) inhibe ettiği gösterilmiştir.
+Farmakodinamik etkiler:
+Gönüllüler üzerinde yapılan çalışmalarda, prolaktinde doza bağlı bir azalma gözlenmiştir.
+Pramipeksol uzatılmış salımlı tablet formülasyonunun, günde 4,5 mg pramipeksol tuza kadar
+(3,15 mg baz), önerilenden daha hızlı titre edildiği (her 3 günde bir) sağlıklı gönüllüler
+9 / 14üzerinde yürütülen bir klinik araştırmada kan basıncı ve kalp hızında artış gözlenmiştir. Böyle
+bir etki, hastalar üzerinde yapılan çalışmalarda gözlenmemiştir.
+Parkinson hastalığında klinik etkililik ve güvenlilik
+Hastalarda pramipeksol tedavisi, idiyopatik Parkinson hastalığının belirti ve semptomlarını
+azaltır. Plasebo kontrollü klinik çalışmalarda Hoehn ve Yahr evre I-V olan yaklaşık 1.800 hasta
+pramipeksol ile tedavi edilmiştir. Bu hastalardan daha ileri evredeki yaklaşık 1.000 kişi,
+eşzamanlı levodopa tedavisi almıştır ve motor komplikasyonlardan şikayetçi olmuştur.
+Erken ve ilerlemiş Parkinson hastalığında kontrollü klinik araştırmalarda, pramipeksolün
+etkililiği yaklaşık altı ay süreyle devam etmiştir. Üç yıldan daha uzun süren açık tasarımlı
+devam çalışmalarında, etkililiğin azaldığını gösteren bir belirti bulunmamaktadır.
+İki yıl süreli, kontrollü, çift-kör bir klinik çalışmada pramipeksol ile başlangıç tedavisi,
+levodopa ile başlangıç tedavisine kıyasla, motor komplikasyonların ilk ortaya çıkmasını
+anlamlı oranda geciktirmiş ve bu komplikasyonların ortaya çıkışını azaltmıştır. Motor
+komplikasyonlarda pramipeksol ile bu gecikme, levodopa ile motor fonksiyonlarda sağlanacak
+daha büyük düzelme (UPDRS skorundaki ortalama değişim ile ölçüldüğü üzere) ile karşılıklı
+değerlendirilmelidir. Halüsinasyon ve somnolansın bütünsel insidansı, pramipeksol grubunda
+doz artırım fazında genel olarak daha yüksektir. Ancak idame döneminde anlamlı bir farklılık
+bulunmamaktadır. Parkinson hastalarında pramipeksol tedavisi başlatılırken bu noktalar
+dikkate alınmalıdır.
+Parkinson hastalığının tedavisinde Pramipeksol uzatılmış salımlı tabletlerin güvenlilik ve
+etkililiği, üç randomize, kontrollü çalışmadan oluşan, çok uluslu bir ilaç geliştirme
+programında değerlendirilmiştir. İki çalışma erken evre Parkinson hastalarında, bir araştırma
+ileri evre Parkinson hastaları üzerinde yürütülmüştür.
+Pramipeksol uzatılmış salımlı tabletlerin plaseboya üstünlüğü, erken evre Parkinson hastası
+olan toplam 539 gönüllüyü kapsayan çift-kör, plasebo kontrollü bir araştırmada 18 haftalık
+tedaviden sonra, hem primer (UPDRS Bölüm II+III skoru) ve hem de temel sekonder (CGI-I
+ve PGI-I yanıt veren oranları) etkililik sonlanım noktaları ile gösterilmiştir. Otuz üç hafta
+süreyle tedavi edilen hastalarda etkililiğin kalıcı olduğu gösterilmiştir. Pramipeksol uzatılmış
+salımlı tabletlerin, pramipeksol çabuk salım tabletlere göre daha az etkili olmadığı, 33. haftada
+UPDRS Bölüm II+III skorları ile yapılan değerlendirmelerle gösterilmiştir.
+Eşzamanlı levodopa almakta olan toplam 517 ileri dönemli Parkinson hastasının yer aldığı çift-
+kör, plasebo kontrollü bir araştırmada 18 haftalık tedaviden sonra, hem primer (UPDRS Bölüm
+II+III skoru) hem de temel sekonder (gün içinde semptomların geri döndüğü süreler) etkililik
+sonlanım noktalarında Pramipeksol uzatılmış salımlı tabletin plaseboya karşı üstün olduğu
+gösterilmiştir.
+Pramipeksol çabuk salımlı tabletten, aynı günlük dozda Pramipeksol uzatılmış salımlı
+tabletlere ertesi gün geçişin etkililik ve tolerabilitesi, erken dönemli Parkinson hastalığı olan
+kişiler üzerinde yürütülen çift-kör bir klinik çalışmada değerlendirilmiştir. Pramipeksol
+uzatılmış salımlı tablete geçiş yapan 103 hastanın 87’sinde etkililik sürekli olmuştur. Bu 87
+hastanın %82,8’i dozunu değiştirmemiş, %13,8’i arttırmış ve %3,4’ü ise azaltmıştır.
+UPDRS Bölüm II+III skorlarında etkililik sürekliliği kriterini karşılamayan 16 hastanın
+yarısında, başlangıç dönemine göre değişimin klinik olarak anlamlı olmadığı kabul edilmiştir.
+10 / 14Pramipeksol uzatılmış salımlı tablete geçiş yapan sadece bir hasta ilaca bağlı advers olay
+geçirmiş ve bu nedenle hasta çalışmadan ayrılmıştır.
+Pediyatrik popülasyon
+Avrupa İlaç Ajansı, Parkinson hastalığı için pediyatrik popülasyonun tüm alt gruplarında
+PEXA XR ile yapılan çalışma sonuçlarının sunulması zorunluluğunu kaldırmıştır (bkz. Bölüm
+4.2).
+5.2 Farmakokinetik özellikler
+Genel özellikler
+Emilim:
+Pramipeksol oral uygulama sonrasında tamamen emilir. Mutlak biyoyararlanım %90'dan daha
+büyüktür.
+Bir Faz I çalışmasında, pramipeksol çabuk salımlı ve uzatılmış salımlı tabletler açlık
+durumunda değerlendirilmiştir. Aynı günlük dozlarda günde bir kez kullanılan Pramipeksol
+uzatılmış salımlı tablet ve günde üç kez kullanılan Pramipeksol çabuk salımlı tablet ile ulaşılan
+minimum ve doruk plazma konsantrasyonları (C , C ) ve maruziyet düzeyleri (EAA)
+min maks
+eşdeğer bulunmuştur.
+Günde bir kez kullanılan Pramipeksol uzatılmış salımlı tablet uygulaması, günde üç kez
+pramipeksol çabuk salımlı tablet uygulaması ile karşılaştırıldığında, pramipeksol plazma
+konsantrasyonlarında 24 saat boyunca daha az dalgalanmaya yol açmaktadır.
+Günde bir kez Pramipeksol uzatılmış salımlı tablet ile maksimum plazma konsantrasyonlarına
+6 saat civarında ulaşılır. Maruziyet açısından kararlı duruma en geç 5 günlük bir sürekli
+uygulamadan sonra ulaşılmaktadır.
+Genel olarak, besinler pramipeksolün biyoyararlanımını etkilemez. Yağdan zengin bir öğün,
+sağlıklı gönüllülerde, doruk konsantrasyonda (C ) tek doz uygulamasından sonra %24, çoklu
+maks
+doz uygulamasından sonra %20 civarında bir yükselmeye ve doruk plazma konsantrasyonuna
+ulaşma zamanında yaklaşık 2 saatlik bir gecikmeye neden olmuştur. Total maruziyet (EAA)
+eşzamanlı yiyecek alımından etkilenmemiştir. C ’daki artış klinik açıdan önemli kabul
+maks
+edilmez. Pramipeksol uzatılmış salımlı tabletin etkililik ve güvenliliğinin belirlendiği Faz III
+çalışmalarında, hastalara ilaçlarını alırken yemek durumunu dikkate almalarına gerek olmadığı
+söylenmiştir.
+Vücut ağırlığının RAA üzerinde herhangi bir etkisi olmamasına rağmen, dağılım hacmini ve
+dolayısıyla doruk konsantrasyonu (C ) etkiler. Vücut ağırlığında 30 kg azalma, C ’da
+maks maks
+%45 oranında artış ile sonuçlanır. Bununla birlikte, Parkinson hastalarında yürütülen Faz III
+araştırmalarında, vücut ağırlığının, Pramipeksol uzatılmış salımlı tabletin terapötik etkisi ve
+tolerabilitesi üzerinde klinik olarak anlamlı bir etkisi olmadığı saptanmıştır.
+Pramipeksol lineer kinetik gösterir ve plazma düzeylerinde hastalar arası varyasyon düşüktür.
+Dağılım:
+İnsanlarda pramipeksolün proteinlere bağlanması çok düşük (<%20) ve dağılım hacmi
+yüksektir (400 L). Sıçanlarda beyin dokusunda yüksek konsantrasyonlar gözlenmiştir
+(plazmaya kıyasla yaklaşık 8 kat).
+11 / 14Biyotransformasyon:
+Pramipeksol insanlarda sadece küçük bir oranda metabolize olmaktadır.
+Eliminasyon:
+Pramipeksol asıl olarak değişmeden böbreklerle atılır. 14C ile işaretli bir dozun yaklaşık %90'ı
+böbrekler ile atılırken, feçeste %2'den daha az bulunur. Pramipeksolün total klerensi 500
+mL/dk civarında ve renal klerensi 400 mL/dk civarındadır. Eliminasyon yarı ömrü (t½),
+gençlerde 8 saatten, yaşlılarda 12 saate kadar değişmektedir.
+Doğrusallık/Doğrusal olmayan durum:
+Pramipeksol doğrusal bir farmakokinetik profil gösterir.
+Hastalardaki karakteristik özellikler
+Yaş:
+Pediyatrik popülasyon: Pramipeksolün çocuklar ve 18 yaşına kadar ergenlerdeki etkililiği ve
+güvenliliği belirlenmemiştir.
+Geriyatrik popülasyon: Pramipeksol yaşlılarda daha uzun bir eliminasyon yarı ömrüne sahiptir.
+Böbrek yetmezliği:
+Pramipeksolün eliminasyonu böbrek fonksiyonlarına bağımlıdır. Kreatinin klerensi 50
+mL/dk'nın üzerinde olan hastalarda, günlük dozun ya da doz uygulama sıklığının azaltılması
+gerekli değildir.
+Kreatinin klerensi 30-50 mL/dk arasında olan hastalar için, ‘4.2 Pozoloji ve uygulama şekli
+bölümü’ne bakınız.
+Kreatinin klerensi 30 mL/dk’nın altında olan hastaların Pramipeksol uzatılmış salımlı tablet ile
+tedavisine ilişkin veri bulunmamaktadır (bkz. Bölüm 4.2).
+Karaciğer yetmezliği:
+Karaciğer yetmezliğinin pramipeksol farmakokinetiği üzerindeki potansiyel etkisi
+incelenmemiştir. Ancak, karaciğer yetmezliği olan hastalarda doz azaltımının gerekli olduğu
+düşünülmemektedir, çünkü emilen etkin maddenin yaklaşık %90’ı böbrekler yoluyla
+atılmaktadır.
+5.3 Klinik öncesi güvenlilik verileri
+Tekrarlı doz toksisite çalışmalarında pramipeksolün temel olarak merkezi sinir sisteminde
+(MSS) ve dişi üreme sisteminde, muhtemelen pramipeksolün abartılı farmakodinamik
+etkisinden kaynaklanan, fonksiyonel etkiler oluşturduğu gösterilmiştir.
+Mini-domuzlarda, diyastolik ve sistolik basınçlar ve kalp hızında düşüşler kaydedilmiş;
+maymunlarda da hipotansif etkiye eğilim olduğu açığa çıkarılmıştır.
+Pramipeksolün reprodüktif fonksiyonlar üzerindeki olası etkileri sıçanlar ve tavşanlar üzerinde
+araştırılmıştır. Pramipeksol sıçanlarda ve tavşanlarda teratojenik değildir, ama sıçanlarda
+maternotoksik dozlarda embriyotoksik etki göstermiştir. Hayvan türlerinin seçimi ve araştırılan
+parametrelerin kısıtlı olması nedeniyle, pramipeksolün gebelik ve erkek fertilitesi üzerindeki
+advers etkileri tam olarak aydınlatılmamıştır.
+12 / 14Sıçanlarda cinsel gelişmede gecikme (yani, prepusyumun separasyonu ve vajinanın açılması)
+gözlenmiştir. Bu durumun insanlarla olan ilintisi bilinmemektedir.
+Pramipeksol genotoksik değildir. Bir karsinojenisite çalışmasında, erkek sıçanlarda gelişen
+Leydig hücresi hiperplazisi ve adenomalar, pramipeksolün prolaktini inhibe edici etkisi ile
+açıklanmıştır. Bu bulgunun insanlar için klinik geçerliliği bulunmamaktadır. Bu çalışmada aynı
+zamanda, 2 mg/kg ve daha yüksek dozlarda pramipeksolün (tuz formu), albino sıçanlarda
+retina dejenerasyonu ile ilişkili olduğu bulunmuştur. Söz konusu bu bulgu ne pigmente
+sıçanlarda ne albino farelerde yapılan 2 yıllık bir karsinojenisite çalışmasında, ne de araştırılan
+diğer türlerde gözlenmiştir.
+6. FARMASÖTİK ÖZELLİKLER
+6.1 Yardımcı maddelerin listesi
+Methocel K15M
+Kollidon SR
+Aerosil
+Etil Selüloz
+Magnezyum Stearat
+6.2 Geçimsizlikler
+Geçerli değil.
+6.3 Raf ömrü
+24 ay
+6.4 Saklamaya yönelik özel tedbirler
+25°C altında oda sıcaklığında saklanmalıdır.
+Nemden korumak için orijinal kutusu içinde saklayınız.
+6.5 Ambalajın niteliği ve içeriği
+PEXA XR, Al/Al blister ambalajlarda 30 tablet içerir.
+6.6 Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+Özel bir gereklilik yoktur.
+Kullanılmamış olan ürün ya da atık materyaller, ‘Tıbbi Atıkların Kontrolü’ ve ‘Ambalaj ve
+Ambalaj Atıklarının Kontrolü’ yönetmeliklerine uygun olarak imha edilmelidir.
+7. RUHSAT SAHİBİ
+ALİ RAİF İLAÇ SANAYİ. A.Ş.
+Yeşilce Mahallesi
+Doğa Sokak No:4
+34418 Kağıthane/İstanbul
+8. RUHSAT NUMARASI
+2017/617
+13 / 149. İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi: 17.08.2017
+Ruhsat yenileme tarihi:
+10. KÜB’ÜN YENİLENME TARİHİ
+14 / 14

@@ -1,0 +1,430 @@
+KISA ÜRÜN BİLGİSİ
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+KALSİGEN 5 mcg/ml İ.V. enjeksiyonluk çözelti içeren ampul
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde:
+1 ml'de:
+Parikalsitol (cid:9) 5 mikrogram
+Yardımcı maddeler:
+1 ml'de:
+• Etanol (cid:9) 158.000 mg
+Propilen glikol (cid:9) 310.500 mg
+Yardımcı maddeler için bölüm 6.1'e bakınız.
+3. FARMASÖTİK FORM
+Enjeksiyonluk Çözelti
+Steril, berrak, renksiz, sulu bir çözeltidir.
+4. KLİNİK ÖZELLIKLER
+4.1 Terapötik endikasyonlar
+• KALSİGEN hemodiyaliz gören kronik renal yetmezlikle birlikte olan sekonder
+hiperparatiroidizmin önlenmesinde ve tedavisinde endikedir.
+4.2 Pozoloji ve uygulama şekli
+Pozoloji/uygulama sıklığı ve süresi:
+Yetişkinler
+Başlangıç Dozu
+Parikalsitolün başlangıç dozunun belirlenmesi için önerilen iki yöntem vard ır. Klinik
+çalışmalarda güvenli bir şekilde uygulanan doz maksimum 40 mikrogram'a kadar
+çıkmıştır.
+1 / 141) Vücut ağırlığına göre başlangıç dozu
+Parikalsitolün önerilen başlangıç dozu, diyaliz sırasında herhangi bir zamanda gün aşırıdan
+daha sık verilmeyen 0.04 mikrogram/kg ile 0.1 mikrogram/kg (2.8 - 7 mikrogram)
+arasındaki bolus dozudur.
+2) Bazal iPTH (intakt paratiroid hormonu) düzeylerine göre ba şlangıç dozu
+Kronik böbrek yetmezliği (KBY Evre 5) olan hastalarda biyolojik olarak aktif olan PTH
+ölçümü için ikinci nesil paratiroid hormon miktar tayini (intakt PTH-iPTH) kullan ılmıştır.
+(cid:9)
+•
+Parikalsitolün başlangıç dozu aşağıdaki formüle göre belirlenir:
+Başlangıç dozu (mikrogram) = bazal iPTH düzeyi (pg/ml)
+80
+ve diyaliz sırasında herhangi bir zamanda gün aşırıdan daha sık olmamak üzere intravenöz
+(IV) bolus tarzında verilir.
+Uygulama şekli:
+KALSİGEN enjeksiyonluk çözeltinin normal uygulama yolu hemodiyaliz s ırasında kan
+tüpü yoluyladır. Hemodiyaliz girişi olmayan hastalara uygulamadaki ağrıyı en aza
+indirmek için KALSIGEN enjeksiyonluk çözeltisi 30 saniyeden az olmamak üzere yava ş
+intravenöz enjeksiyon ile verilmelidir.
+Doz titrasyonu:
+• (cid:9) Diyalize giren son dönem böbrek yetmezliğindeki hastalarda PTH düzeyleri için halen
+kabul edilen hedef sınırlar normal non-üremik üst sınırın 1.5 ile 3 katından fazla değildir
+(iPTH için 150-300 pg/ml). Uygun fizyolojik sonuca ulaşmak için yakın takip ve bireysel
+doz titrasyonu önemlidir.
+Herhangi bir doz ayarlama periyodunda serum kalsiyum (hipoalbüminemi için düzeltilmiş
+2 (cid:9) 2
+olan) ve fosfor daha sık izlenmelidir. Hiperkalsemi veya 65 mg /dl 'den fazla devaml ı
+yükselen düzeltilmiş Ca x P çarpımı saptanırsa bu parametreler normale dönünceye kadar
+ilacın dozu azaltılmalı ya da ilaç kesilmelidir. Daha sonra parikalsitol tedavisine daha
+düşük bir dozdan yine başlanabilir. Eğer bir hasta kalsiyum kaynaklı fosfat bağlayıcı
+kullanıyorsa doz azaltılabilir ya da verilmeyebilir veya hasta kalsiyum kaynakl ı olmayan
+bir fosfat bağlayıcıya geçirilebilir. Tedaviye yanıt olarak PTH düzeyleri düştüğünde
+dozların azaltılması gerekebilir. Bu nedenle kademeli dozlama bireysel olarak yap ılmalıdır.
+2 / 14Eğer tatmin edici bir yanıt gözlenmezse doz 2-4 haftalık aralarla 2 ile 4 mikrogram
+artırılabilir. Eğer herhangi bir zamanda iPTH seviyesi 150 pg/mrden daha az bir seviyeye
+düşerse, ilacın dozu azaltılmalıdır.
+Aşağıdaki tabloda doz titrasyonu için önerilen bir yakla şım sunulmuştur:
+Önerilen Dozaj Çizelgesi
+iPTH Düzeyi Parikalsitol Dozu
+Aynı veya artıyor 2-4 mikrogram artırımz
+<%30 azalma 2-4 mikrogram artırınız
+>%30 ile <%60 arasında azalma İdame ediniz
+>%60 azalma 2-4 mikrogram azaltınız
+iPTH<150 pg/ml 2-4 mikrogram azaltınız
+Normalin üst sınırının 1.5 ile 3 katı (150-300 pg/ml) İdame ediniz
+Özel popülasyonlara ilişkin ek bilgiler
+Karaciğer yetmezliği: Hafif ve orta şiddetli karaciğer bozukluğu olan hastalarda doz
+ayarlaması gerekmemektedir. Şiddetli karaciğer bozukluğunun parikalsitol
+farmakokinetiği üzerindeki etkisi incelenmemiştir.
+Böbrek yetmezliği: Periton diyaliz veya hemodiyaliz alan hastalarda doz ayarlamas ı
+gerekmemektedir. Önemli olarak, sağlıklı bireylerle kıyaslandığında Kronik Böbrek
+Yetmezliği (KBY) Evre 5 hastaları azalmış KL ve artmış yarı ömür göstermiştir.
+Pediyatrik popülasyon: Pediyatrik hastalardaki veriler sınırlıdır ve 5 yaşın altındaki
+çocuklar için veri bulunmamaktadır (bkz. Bölüm 5.1).
+Geriyatrik popülasyon: 65 yaş üzerindeki hastalarda veya Faz III çal ışmalarında
+parikalsitol alımı üzerine kısıtlı deneyim mevcuttur. Bu çalışmalarda 65 yaş ve üzerindeki
+hastalar ile genç hastalar arasında etkililik ya da güvenlilik yönünden farklar
+gözlenmemiştir.
+Parenteral ilaç ürünleri solüsyon ve ambalaj ın izin verdiği ölçüde partiküllü madde
+ve renk değişimi yönünden gözle incelenmelidir.
+TEK KULLANIMLIKTIR. KULLANILMAYAN KISMI ATILMALIDIR.
+3 / 144.3 Kontrendikasyonlar
+KALSİGEN enjeksiyonluk çözelti vitamin D toksisitesi, hiperkalsemi veya bu ürünün
+içeriklerinden birine karşı hipersensitivitesi olan hastalara verilmemelidir (bkz. Bölüm
+4.4).
+4.4 Özel kullanım uyarıları ve önlemleri
+Paratiroid hormonunun aşırı baskılanması, serum kalsiyum seviyelerinde artış ile
+sonuçlanabilir ve metabolik kemik hastal ığına yol açabilir. Uygun fızyolojik sonuca
+ulaşmak için hasta monitorizasyonu ve bireysel doz titrasyonu gereklidir.
+Eğer klinik olarak anlamlı bir hiperkalsemi gelişirse ve hasta kalsiyum kaynakl ı fosfat
+bağlayıcı alıyorsa, kalsiyum kaynaklı fosfat bağlayıcının dozu azaltılmalı ya da
+kesilmelidir.
+KALSİGEN'in akut aşırı dozu hiperkalsemiye neden olabilir ve acil müdahale gerektirir.
+Doz ayarlaması sırasında serum kalsiyum ve fosfor düzeyleri yakından izlenmelidir. Eğer
+klinik olarak anlamlı hiperkalsemi gelişirse doz azaltılmalı ya da kesilmelidir.
+KALSİGEN'in kronik kullanımı hastada hiperkalsemi, kalsiyum ve fosfor düzeylerinin
+çarpımının (Ca x P) yükselmesi ve metastatik kalsifikasyon riskine yol açabilir.
+Kronik hiperkalsemi yaygın vasküler kalsifikasyona ve diğer yumuşak doku
+kalsifıkasyonuna neden olabilir.
+Dijital toksisitesi herhangi bir nedenden hiperkalsemi ile potansiyelize olur, bu nedenle
+parakalsitol ile birlikte dijital reçetelendiğinde dikkatli olunmalıdır (bkz. bölüm 4.5).
+KALSİGEN'in kronik kullanımı seyrek olarak hiperkalsemiye bağlı potansiyel aritmi ve
+konvulziyon komplikasyonları ile sonuçlanabilir.
+PTH düzeyleri anormal düzeylere baskılandığında adinamik kemik lezyonları (düşük
+döngülü kemik hastalığı) gelişebilir.
+Parikalsitol, ketokonazol ile beraber kullan ılıyorsa dikkat edilmelidir.
+Laboratuar Testleri: KALSİGEN ile doz ayarlaması sırasında ve dozaj belirlenmeden
+önce laboratuar testlerinin daha s ık yapılması gerekebilir. Doz bir kez belirlendikten
+sonra serum kalsiyum ve fosfor en az ayda bir kez ölçülmelidir. Serum veya plazma
+intakt PTH ölçümünün her üç ayda bir yapılması önerilir (bkz. Bölüm 4.2).
+4 / 14KALSİGEN 5 ug/ml, Enjeksiyonluk Çözelti içeren Ampul, %20 (h/h) etanol (alkol)
+içerir. Her bir doz 1.3 g'a kadar etanol içerebilir. Alkolizm şikayeti olanlar için zararlıdır.
+KALSİGEN içeriğinde %30 propilen glikol içermektedir. Bundan dolay ı alkol benzeri
+semptomlara neden olabilir.
+Hamile veya emziren kadınlarda, çocuklarda ve karaciğer hastalığı veya epilepsisi olan
+hastalar gibi yüksek risk gruplarında bu durum dikkate alınmalıdır.
+4.5 Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+KALSİGEN'in, sitokrom P450 enzimleri (CYP1A2, CYP2A6, CYP2B6, CYP2C8,
+CYP2C9, CYP2C19, CYP2D6, CYP2E1 veya CYP3A) ile metabolize olan ilaçlar ı inhibe
+etmesi ve CYP2B6, CYP2C9 veya CYP3A ile metabolize olan ilaçlar ın klerensini
+• indüklemesi beklenmemektedir.
+Parikalsitol enjeksiyonluk çözelti ile spesifik etkileşim çalışmaları yapılmamıştır.
+Ketokonazol: Parikalsitol enjeksiyonluk çözelti ile çalışılmamış olmasına rağmen,
+ketokonazolün 200 mg'lık çoklu dozla, 5 gün boyunca günde 2 kez al ınmasının Parikalsitol
+kapsüllerin farmakokinetiği üzerindeki etkisi sağlıklı deneklerde çalışılmıştır. Ketokonazol
+varlığında parikalsitolün Cmaks değeri en az etkilenmiş, fakat EAA0-/) değeri yaklaşık
+olarak ikiye katlanmıştır. Parikalsitolün ortalama yarı ömrü, tek başına alındığındaki 9.8
+saate kıyasla, ketokonazol varlığında 17.0 saattir (bkz. Bölüm 5).
+Dijital toksisitesi herhangi bir nedene bağlı hiperkalsemi tarafından potansiyalize edilebilir;
+bu nedenle KALSİGEN ile birlikte dijital verildiğinde dikkatli olunmalıdır.
+• Fosfat veya vitamin D ilişkili tıbbi ürünler, artan hiperkalsemi riski ve kalsiyum fosfor
+çarpımı (CaxP) yükselmesi nedeniyle parikalsitol ile birlikte alınmamalıdır.
+Artmış alüminyum kan seviyesinden dolayı ve alüminyum kemik toksisitesi oluşabileceği
+için alüminyum içeren preparatlar (örn.antiasitler, fosfat ba ğlayıcılar) kronik bir şekilde
+vitamin D tıbbi ürünleri ile birlikte kullanılmamalıdır.
+Kalsiyum bağlayıcı preparatların veya tiyazid diüretiklerinin yüksek dozları hiperkalsemi
+riskini arttırabilir.
+Magnezyum içeren preparatlar (örn.antiasitler) vitamin D preparatlar ı ile beraber
+alınmamalıdır çünkü hipermagnezemi oluşabilir.
+5 / 144.6 Gebelik ve laktasyon
+Genel tavsiye
+Gebelik kategorisi: C.
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon)
+KALSİGEN hamilelikte ve doğum kontrolü kullanmayan çocuk doğurma potansiyeli
+bulunan kadınlarda önerilmemektedir.
+Gebelik dönemi
+Hayvan çalışmaları üreme toksisitesi göstermiştir (bkz. Bölüm 5.3).
+Gebe kadınlarda yeterli ve iyi kontrollü çal ışmalar yoktur. İnsanlardaki kullanımında
+potansiyel risk bilinmemektedir bundan dolayı KALSİGEN kesinlikle gerekli olmadıkça
+• kullanılmamalıdır.
+Laktasyon Dönemi
+Sıçanlardaki çalışmalar parikalsitolün süte geçtiğini göstermiştir. Parikalsitolün insan
+sütüne geçip geçmediği bilinmemektedir.
+Emziren annede ilacın annedeki önemi dikkate alınarak emzirmenin veya ilacın kesilip
+kesilmeyeceği kararının verilmesi gereklidir.
+4.7 Araç ve makine kullanımı üzerindeki etkiler
+Araç ve makine kullanma yeteneği üzerindeki etkileriyle ilgili çalışmalar yapılmamıştır.
+4.8 istenmeyen Etkiler
+• Parikalsitol ile Faz Il, III ve IV klinik çal ışmalarda yaklaşık 600 hasta tedavi edilmiştir.
+Bütünüyle, Parikalsitol ile tedavi edilen hastaların %6' sı advers reaksiyonlar bildirmiştir.
+Parikalsitol tedavisi ile ilişkilendirilen en yaygın advers reaksiyon hastaların %4.7' sinde
+oluşan hiperkalsemi'dir. Hiperkalsemi, PTH' ın aşırı baskılanma seviyesine bağlıdır ve
+uygun bir doz titrasyonu ile en aza indirgenebilir.
+Klinik ve laboratuar çalışmalarda, parikalsitol ile muhtemelen ilişkili olan advers
+reaksiyonlar MedDRA Organ Sistem S ınıflandırması, Tercih Edilen Terim ve sıklık
+olarak sunulmaktadır.
+6/14Sıklık kategorileri şu şekildedir: Çok yaygın (>1/10); yaygın (>1/100 ila <1/10); yaygın
+olmayan (>1/1.000 ila <1/100); seyrek (>1/10.000 ila <1/1.000); çok seyrek (<1/10.000),
+bilinmiyor (eldeki verilerden hareketle tahmin edilemiyor).
+Sistem Organ Sınıfı Sıklık Tercih Edilen Terim
+Enfeksiyonlar ve Yaygın olmayan Pnömoni, influenza, sepsis,
+enfestasyonlar enfeksiyon, faranjit, vajinal
+enfeksiyon
+İyi huylu ve kötü huylu Yaygın olmayan Meme kanseri
+neoplazmalar (kist ve polipler
+dahil)
+Kan ve lenf sistemi hastalıkları Yaygın olmayan Anemi, lökopeni, lenfadenopati,
+kanama zamanı
+Yaygın olmayan Aşırı duyarlılık
+Bağışıklık sistemi hastalıkları
+Bili nmiyor Larenjal ödem, anjiyoödem, ürtiker
+Yaygın Hipoparatiroidizm
+Endokrin hastalıkları
+Yaygın olmayan Hiperparatiroidizm
+Metabolizma ve beslenme Yaygın Hiperkalsemi, hiperfosfatemi
+hastalıkları
+Yaygın olmayan Hipokalsemi, hiperkalemi, anoreksi
+Psikiyatrik hastalıkları Yaygın olmayan Deliryum, konfüzyon, ajitasyon,
+insomni, sinirlilik, depersonalizasyon
+Yaygın Disgözi, baş ağrısı
+Sinir sistemi hastalıkları
+Yaygın olmayan Korna, serebrovasküler kaza, geçici
+iskemik atak, senkop, myoklonus,
+sersemlik hissi, hipoestezi, parestezi
+Göz hastalıkları Yaygın olmayan Konjonktivit, glokom
+Kulak ve iç kulak hastalıkları Yaygın olmayan Kulak hastalıkları
+Kardiyak hastalıkları Yaygın olmayan Kalp durması, atriyal flatter. aritmi
+Vasküler hastalıkları Yaygın olmayan Hipotansiyon, hipertansiyon
+Solunum, göğüs bozuklukları ve Yaygın olmayan Pulmoner ödem, astım, dispne, burun
+mediastinal hastalıkları kanaması, öksürük
+7/14Rektal kanama, kolit, diyare, gastrit,
+dispepsi, disfaji, konstipasyon, bulantı,
+Gastrointestinal hastalıkları Yaygın olmayan kusma, abdominal rahatsızlık, ağız
+kuruluğu, gastrointestinal bozukluk
+Bilinmiyor Gastrointestinal kanama
+Deri ve deri altı doku Yaygın Pruritus
+hastalıkları
+Yaygın olmayan Büloz dermatit, alopesi, hirsutizm,
+döküntü, hiperhidroz
+Kas-iskelet bozuklukları, bağ Yaygın olmayan Artralji, eklem sertliği, sırt ağrısı, kas
+doku ve kemik hastalıkları çekilmesi, miyalji
+•
+Üreme sistemi ve meme Yaygın olmayan Erektil disfonksiyon, meme ağrısı, vajinit
+hastalıkları
+Genel bozukluklar ve Yaygın olmayan Yürüme güçlüğü, ödem, periferal ödem,
+uygulama bölgesine ilişkin ağrı, enjeksiyon bölgesinde ağrı, ateş,
+hastalıkları göğüs ağrısı, asteni, halsizlik, ağırlaşan
+durum, susuzluk
+Araştırmalar Yaygın olmayan Uzamış kanama süresi, artmış aspartat
+aminotransferaz, anormal laboratuvar
+testleri, kiloda azalma
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+• Farmakovijilans Merkezi (TOFAM)'ne bildirmeleri gerekmektedir (www.titck.gov.tr ; e-
+posta: tufam(a),titck.gov.tr; tel: O 800 314 00 08; faks: O 312 218 35 99)
+4.9 Doz aşımı ve tedavisi
+KALSİGEN'in aşırı dozu hiperkalsemi, hiperkalsuri, hiperfosfatemi ve PTH'nin a şırı
+baskılanmasına yol açabilir (bkz. Bölüm 4.4).
+Parikalsitol belirgin bir şekilde diyaliz ile uzaklaştırılmaz. Klinik olarak anlamlı
+hiperkalsemisi olan hastaların tedavisi için KALSİGEN dozu derhal azaltılmalı ya da
+kesilmeli, düşük kalsiyumlu diyet uygulanmalı, kalsiyum desteği kesilmeli, hasta
+mobilize (cid:9) edilmeli, (cid:9) sıvı (cid:9) ve (cid:9) elektrolit (cid:9) dengesizliklerine (cid:9) dikkat (cid:9) edilmeli,
+elektrokardiyografik anormallikler değerlendirilmeli (dijital alan hastalarda kritik önem
+taşır) ve hemodiyaliz ya da gerekirse kalsiyumsuz bir diyalizat ile periton diyalizi
+8 / 14uygulanmalıdır.
+Serum kalsiyum düzeyleri normale döndüğünde KALSİGEN tedavisine en düşük dozda
+tekrar başlanabilir. Serum kalsiyum düzeyleri sürekli olarak ve önemli derecede yüksek
+ise farklı alternatif tedaviler uygulanabilir. Bu tedavilere fosfat ve kortikosteroid gibi
+ilaçlar ve idrar artışının uyarılması dahildir.
+KALSİGEN enjeksiyonluk çözelti, yardımcı madde olarak %30 (h/h) propilen glikol
+içerir. Yüksek dozlardaki uygulama sonrası izole vakalarda Merkezi Sinir Sistemi
+depresyonu, hemoliz ve laktik asidoz, propilen glikol ile ili şkili toksik etki olarak
+bildirilmiştir. Propilen glikol diyaliz işlemi sırasında elimine edildiği için bu etkilerin
+KALSİGEN uygulamasında bulunması beklenmemesine rağmen doz aşımı
+durumlarındaki toksik etki riski dikkate alınmalıdır.
+• (cid:9) 5. FARMAKOLOJİK ÖZELLIKLER
+5.1 Farmakodinamik özellikler
+Farmakoterapötik grup: Diğer Anti-Paratiroid Ilaçlar
+ATC kodu: HO5BX02
+Etki Mekanizması
+Parikalsitol, kalsitriolün yan zincirindeki (D 2) ve A (19-nor) halkasındaki değişimlerle
+sentetik, biyolojik olarak aktif bir D vitamini analogudur. Kalsitrolden farkl ı olarak,
+parikalsitol selektif D vitamini reseptörü (VDR) aktivatörüdür. Parikalsitol paratiroid
+bezlerdeki VDR'yi, barsaklardaki VDR'yi artırmadan selektif olarak upregüle eder ve
+kemik rezorpsiyonu üzerinde daha az aktiviteye sahiptir. Parikalsitol ayn ı zamanda
+paratiroid bezlerindeki kalsiyuma duyarlı reseptörleri de upregüle eder. Sonuç olarak,
+parikalsitol, paratiroid proliferasyonunu inhibe ederek ve PTH sentezini ve sekresyonunu
+azaltarak, kalsiyum ve fosfor düzeyleri üzerinde minimal bir etkiyle paratiroid hormon
+(PTH) düzeylerini düşürür ve kemik hacmini sürdürmek ve mineralizasyon yüzeylerini
+artırmak için kemik hücreleri üzerinde do ğrudan etki gösterebilir. Kalsiyum ve fosfor
+homeostazının normalizasyonu ile anormal PTH düzeylerinin düzeltilmesi, kronik böbrek
+hastalığı ile bağlantılı metabolik kemik hastalığını önleyebilir veya tedavi edebilir.
+Klinik Çalışmalar
+Pediyatrik hastalar:
+Parikalsitolün güvenliliği ve etkililiği 5-19 yaş arasında hemodiyalizdeki son dönem
+,
+böbrek hastalığı olan 29 pediyatrik hastanın 12 haftalık randomize, çift kör, plasebo
+kontrollü çalışmasında incelenmiştir. Çalışmada Parikalsitol ile tedavi edilen hastalardan
+en genç altısı 5-12 yaşları arasındadır. Parikalsitol' ün başlangıç dozu sırasıyla; bazal İPTH
+seviyesi 500 pg/ml'den az olanlarda haftada üç kez 0.04 mikrogram/kg veya bazal İPTH
+9/14seviyesi ? 500 pg/ml olanlarda haftada üç kez 0.08 mikrogram/kg'd ır. Serum İPTH,
+kalsiyum ve kalsiyum fosfor çarpımı (CaxP) seviyelerine göre Parikalsitol dozu 0.04
+mikrogram/kg'lık artışlarla ayarlanmıştır.
+Parikalsitol ile tedavi edilen hastaların %67'si ve plasebo ile tedavi edilen hastaların
+%14'ü tedaviyi tamamlamıştır. Parikalsitol grubundaki hastaların %60'ı ile plasebo
+grubundaki hastaların %21'i, bazal iPTH düzeyine göre arka arkaya iki kez %30'luk
+düşüş göstermiştir. Plasebo hastalarının %71'i iPTH seviyelerindeki aşırı yükselmelerden
+dolayı çalışmaya devam etmemiştir.
+Parikalsitol grubunda veya plasebo grubunda kimsede hiperkalsemi geli şmemiştir. 5 yaşın
+altındaki hastalar için veri mevcut değildir.
+• (cid:9) Karaciğer yetmezliği:
+Parikalsitol (0.24 mikrogram/kg) durumu hafif (n=5) ve orta şiddetli (n=5) hepatik
+bozukluğu (Child-Pugh metodunda belirtildiği gibi) olan hastalar ile normal karaci ğer
+fonksiyonu (n=10) olanlarda karşılaştırıldı. Bağlanmamış durumdaki parikalsitolün
+farmakokinetiği bu çalışmada değerlendirilen karaciğer fonksiyon aralığı boyunca benzer
+niteliktedir.
+Böbrek yetmezliği:
+Parikalsitol farmakokinetiği hemodiyaliz (HD) ve periton diyalizi (PD) gerektiren Kronik
+Böbrek Yetmezliği (KBY Evre 5) hastalarında incelenmiştir. Hemodiyaliz işleminin
+parikalsitol eliminasyonu üzerinde temel bir etkisi bulunmamaktad ır. Fakat sağlıklı bireylerle
+karşılaştırıldığında Kronik Böbrek Yetmezliği (KBY Evre 5) hastaları azalmış klerens (KL)
+ve artmış yarı ömür göstermiştir.
+5.2 Farmakokinetik özellikler
+41/ (cid:9)
+Genel özellikler
+Emilim:
+KALSİGEN IV formülasyon olduğundan geçerli değildir.
+Dağılım:
+Parikalsitolün farmakokineti ği hemodiyaliz gereken Kronik Böbrek Yetmezliği (KBY)
+olan hastalarda araştırılmıştır. KALSİGEN intravenöz bolus enjeksiyonla uygulanır.
+0.04 ile 0.24 mikrogram/kg arasındaki dozlarda verildikten iki saat sonra parikalsitol
+konsantrasyonları hızla düşer; ardından, parikalsitol konsantrasyonları yaklaşık 15 saatlik
+bir ortalama yarı-ömürle, log-lineer biçimde düşme gösterir. Çoklu uygulama sonrası
+parikalsitol birikimi gözlenmemiştir.
+10 / 14Parikalsitol büyük ölçüde plazma proteinlerine ba ğlanır (>%99). Sağlıklı bireylerde sabit
+durum dağılım hacmi yaklaşık 23.8 L'dir. Hemodiyaliz (HD) ve periton diyalizi (PD)
+gerektiren Kronik Böbrek Yetmezliği (KBY) Evre 5 hastalarında 0.24 mikrogram/kg
+parikalsitol dozunu takiben ortalama sanal dağılım hacmi 31 L — 35 L arasındadır.
+Metabolizma:
+İdrar ve dışkıda bazı bilinmeyen metabolitler saptanırken, idrarda parikalsitole
+rastlanmamıştır. Bu metabolitler karakterize edilmemi ş ve tanımlanmamıştır. Bu
+metabolitlerin birlikte uriner radyoaktivitenin %51'inde ve fekal radyoaktivitenin
+%59'unda payı bulunmaktadır. Parikalsitolün in vitro plazma protein bağlanması
+kapsamlıdır (>%99.9) ve 1 ila 100 ng/ml konsantrasyon aral ığında doymamıştır.
+• (cid:9) Eliminasyon:
+Parikalsitol primer olarak hepatobiliyer at ılımla elimine edilir. Sağlıklı kişilerde
+radyoaktif dozun %74'ü dışkıdan atılırken yalnızca %16'sı idrarda bulunmuştur. Sağlıklı
+kişilerde 0.04-0.16 mikrogram/kg'lık doz aralığında parikalsitolün ortalama eliminasyon
+yarı ömrü yaklaşık 5-7 saattir.
+Kronik Böbrek Yetmezliği (KBY) Evre 5 Hastalarında Tek 0.24 mikrogram/kg IV
+Bolus Dozundan sonra Parikalsitol Farmakokinet ık Parametreleri (Ortalama +
+KBY Evre 5 - Hemodiyaliz KBY Evre 5 - Peritonal Diyalizi
+(n=14) (n=8)
+Cmax (ng/ml) 1.680±0.511 1.8324.315
+EAA,0-x (ng•h/m1) 14.51+4.12 16.01+5.98
+13 (1/h) 0.050±0.023 0.045+0.026
+(ıı2 (h)* 13.9+7.3 15.4+10.5
+KL (1/h) 1.49+0.60 1.54+0.95
+Vdfi (1) 30.8+7.5 34.9+9.5
+* harmonik ortalama + psödo standart sapma
+Hastalardaki karakteristik özellikler
+Geriyatrik: Parikalsitol farmakokinetiği 65 yaşın üzerindeki geriyatrik hastalarda
+araştırılmamıştır.
+Pediyatrik: Parikalsitol farmakokinetiği 18 yaşın altındaki pediyatrik hastalarda
+araştırılmamıştır.
+Cinsiyet: Parikalsitol farmakokinetiği cinsiyete bağlı değildir.
+11 /145.3 Klinik öncesi güvenlilik verileri
+CD-1 farelerindeki 104-haftalık bir karsinojenisite çalışmasında, 1, 3, 10 mikrogram /
+kg dozlarında (14 mikrogram'lık insan dozundaki EAA'nin 2-15 katı, 0.24 mikrogram
+/kg.a eşdeğer dozlarda) subkutan yoldan verildi ğinde, uterus leiyomyoma ve
+leiyomyosarkom insidansında bir artış gözlemlenmiştir. Uterus leiyomyoma insidansı
+oranı, en yüksek doz olan 10 mikrogram / kg dozunda anlaml ı ölçüde farklıdır.
+Sıçanlarda yapılan 104-haftalık bir karsinojenisite çalışmasında, 0.15, 0.5, 1.5
+mikrogram /kg [14 mikrogram'lık (0.24 mikrogram/kg) insan dozunun EAA'sının <1 —
+7 katı] subkutan dozlarında benign adrenal feokromositoma insindans ında bir artış
+olmuştur. Sıçanlarda artmış feokromositoma insidansı, parikalsitolün kalsiyum
+homeostazını değiştirmesiyle ilgili olabilir.
+Kemirgen ve köpeklerdeki doz tekrarlı toksikoloji çalışmalarındaki belli başlı bulgular
+genellikle parikalsitolün kalsemik aktivitesine atfedilmekteydi. Hiperkalsemi ile tam
+olarak ilişkili olmayan etkiler arasında, köpeklerde düşük akyuvar sayımları ve timik
+atrofı, ayrıca APTT değerlerinde bozulmalar (köpeklerde yüksek, s ıçanlarda düşük)
+bulunmaktadır.
+Parikalsitolün klinik çalışmalarında beyaz kan hücrelerinde değişiklikler saptanmamıştır.
+Parikalsitol sıçanlarda fertiliteyi etkilememiştir ve sıçanlarda veya tavşanlarda teratojenik
+aktivite kanıtı bulunmamıştır. Hayvanlarda gebelik süresince uygulanan di ğer vitamin D
+preparatlarının yüksek dozları teratojenize yol açmıştır. Parikalsitol, maternal toksik
+dozlarda alındığında fetal yaşanabilirliği etkilemektedir ve yeni doğan sıçanlarda peri- natal
+ve post-natal mortalitede belirgin bir art ışa neden olmaktadır.
+Parikalsitol, bir takım in-vivo ve in-vitro genotoksisite miktar tayininde genotoksik
+potansiyel göstermemiştir.
+Kemirgenlerdeki karsinogenez çalışmaları insanlardaki kullanıma ilişkin özel bir risk
+göstermemiştir.
+Parikalsitol uygulanan dozlar ve/veya parikalsitole sistemik maruziyet, terapötik
+dozlar/sistemik maruziyetten biraz daha fazlayd ı.
+2
+Parikalsitolün vücut yüzeyine göre [mcg/m I insanda önerilen (14 mikrogram-0.24
+mikrogram/kg) dozun 13 katına eşdeğer olan 20 mikrogram/kg intravenöz dozunda
+sıçanlarda fertilite (erkek veya dişi) üzerinde etkisi yoktur.
+12 / 14(cid:9)
+2
+Parikalsitolün vücut yüzeyine göre [mcg/m ] insanda önerilen 0.24 mikrogram/kg dozun
+0.5 katına eşdeğer olan dozda tavşanlara ve insanda önerilen 0.24 mikrogram/kg dozun
+(maruziyetin plazma düzeylerine göre) 2 katına eşdeğer olan dozda sıçanlara verildiğinde
+fetal viabilitede minimal (%5) azalmalara neden oldu ğu gösterilmiştir. Test edilen en
+yüksek dozda (sıçanlarda haftada 3 defa 20 mikrogram/kg, vücut yüzey alan ına göre
+insandaki 0.24 mikrogram/kg dozunun 13 kat ı) maternal olarak toksik dozlarda
+(hiperkalsemi) yeni doğan sıçanlara mortalitede anlamlı bir artış olmuştur. Yavruların
+gelişiminde başka etkiler gözlenmemiştir. Parikalsitol test edilen dozlarda teratojenik
+değildir.
+Parikalsitol in vitro olarak metabolik aktivite olsun ya da olmas ın mikrobiyal mutagenez
+tayininde (Ames Tayini), fare lenfoması mutagenez tayininde (L5178Y) veya bir insan
+lenfoması hücre kromozom abrasyon tayininde genetik toksisite göstermemi ştir. Bir in
+410 (cid:9) vivo fare mikronükleus tayininde genetik toksisite kan ıtı yoktur.
+6. FARMASÖTİK ÖZELLIKLER
+6.1 Yardımcı maddelerin listesi
+Etanol
+Propilen glikol
+Enjeksiyonluk su
+6.2 Geçimsizlikler
+Propilen glikol, heparin ile etkileşir ve etkisini nötralize eder. KALSİGEN enjeksiyonluk
+çözelti yardımcı madde olarak propilen glikol içerir ve heparinden farkl ı bir enjeksiyon
+1111 (cid:9)
+setinden uygulanmalıdır.
+Bu tıbbi ürün diğer tıbbi ürünlerle karıştırılmamalıdır.
+6.3 Raf ömrü
+24 ay
+6.4 Saklamaya yönelik özel tedbirler
+25°C'nin altındaki oda sıcaklığında saklayınız.
+13 / 146.5 Ambalajın niteliği ve içeriği
+KALSİGEN 5 mcg/ml İ.V. enjeksiyonluk çözelti, 1 ml enjeksiyonluk çözelti içeren 2
+ml' lik ampullerde (Av. Farm. Tip I cam), seperatör ile ayrılmış 5 ampullük kutular halinde
+kullanıma sunulmuştur.
+6.6 Tıbbi üründen arta kalan maddelerin imhas ı ve diğer özel önlemler
+Parenteral ilaç ürünleri solüsyon ve ambalajın izin verdiği ölçüde partiküllü madde ve
+renk değişimi yönünden gözle incelenmelidir. Çözelti berrak ve renksizdir.
+TEK KULLANIMLIKTIR. KULLANILMAYAN KISMI ATILMALIDIR.
+• (cid:9) Geçerli olduğu takdirde kullanılmamış olan ürünler ya da atık materyaller 'Tıbbi Atıkların
+Kontrolü Yönetmeliği' ve 'Ambalaj ve Ambalaj Atıklarının Kontrolü Yönetmeliklerine
+uygun olarak imha edilmelidir.
+7. RUHSAT SAHIBI
+GENERİCA ILAÇ SAN. VE TİC. A.Ş.
+Dikilitaş Mah. Yıldız Posta Cad. 48/4
+34349-Esentepe-İSTANBUL
+Tel: O 212 376 65 00
+Faks: O 212 213 53 24
+8. RUHSAT NUMARASI
+2016/450
+9. İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi: 24.05.2016
+Ruhsat yenileme tarihi: -
+10. KÜB'eN YENİLENME TARİHİ
+14 / 14

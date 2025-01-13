@@ -1,0 +1,842 @@
+KISA ÜRÜN BİLGİSİ
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+LUCENTİS 10 mg/ml enjeksiyonluk çözelti içeren flakon
+Steril
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde:
+1 flakon (0,23 mL) içinde:
+Ranibizumab 2,3 mg
+Ranibizumab, rekombinant DNA teknolojisiyle Escherichia coli hücrelerinde üretilmiş
+insanlara uyarlanmış bir monoklonal antikor parçasıdır.
+Yardımcı maddeler:
+Yardımcı maddeler için 6.1’e bakınız.
+3. FARMASÖTİK FORM
+Enjeksiyonluk çözelti.
+Steril, koruyucu içermeyen, berrak, renksiz ile soluk sarı arasında sulu çözelti.
+4. KLİNİK ÖZELLİKLER
+4.1 Terapötik endikasyonlar
+LUCENTİS’in erişkinlerdeki endikasyonları aşağıdaki gibidir:
+- Neovasküler (yaş tip) yaşa bağlı makula dejenerasyonu (YBMD) tedavisinde,
+- Diyabetik maküler ödem (DMÖ)’den kaynaklanan görme bozukluğunun tedavisinde,
+- Proliferatif diyabetik retinopatinin (PDR) tedavisi
+- Retinal ven tıkanıklığına (RVT) bağlı maküler ödemden kaynaklanan görme bozukluğunun
+tedavisinde,
+- Koroidal neovaskülarizasyona (KNV) bağlı görme bozukluğunun tedavisinde,
+LUCENTİS’in erken doğmuş bebeklerdeki endikasyonları aşağıdaki gibidir:
+- Prematüre retinopatisinin (ROP) zon I (evre 1+, 2+, 3 veya 3+), zon II (evre 3+) veya AP-
+ROP (agresif posterior ROP) hastalığının tedavisi.
+4.2 Pozoloji ve uygulama şekli
+Pozoloji:
+Sadece intravitreal uygulama için tek kullanımlık flakondur. Bir flakonun birden fazla
+uygulama için kullanılması kontaminasyona ve buna bağlı enfeksiyona yol açabilir.
+LUCENTİS, intravitreal enjeksiyon deneyimi olan bir “göz hastalıkları uzmanı” tarafından
+uygulanmalıdır.
+1 / 21Erişkinler
+LUCENTİS’in erişkinlerde önerilen dozu, tek bir intravitreal enjeksiyon halinde uygulanacak
+olan 0,5 mg’dır. Bu doz 0,05 mL’lik bir enjeksiyon hacmine denk gelmektedir. Aynı göze
+yapılan iki uygulama arasında geçen süre 4 haftadan kısa olmamalıdır.
+Preterm bebekler
+Preterm bebeklerde LUCENTİS için önerilen doz, intravitreal enjeksiyon olarak 0,2 mg’dır.
+Bu, 0,02 mL’lik bir enjeksiyon hacmine karşılık gelir. Erken doğmuş bebeklerde ROP tedavisi
+göz başına tek bir enjeksiyonla başlatılır ve aynı gün içinde iki taraflı olarak verilebilir. Hastalık
+aktivitesi belirtileri varsa, tedavinin başlamasından sonraki altı ay içinde göz başına toplamda
+üç adede kadar enjeksiyon uygulanabilir. Klinik çalışmada çoğu hastaya (%78) göz başına bir
+enjeksiyon uygulanmıştır. Göz başına üçten fazla enjeksiyonun uygulanması araştırılmamıştır.
+Aynı göze enjekte edilen iki doz arasındaki aralık en az dört hafta olmalıdır.
+Uygulama sıklığı ve süresi:
+Erişkinlerde tedaviye ayda bir uygulama ile başlanır ve maksimum görme keskinliğine
+ulaşılana ve/veya hastalık aktivitesi belirtileri görülmeyene yani, devam eden tedavi altında
+görme keskinliğinde ve diğer hastalık belirti ve semptomlarında bir değişiklik olmayana kadar
+devam edilir. Yaş tip YBMD, DMÖ, PDR ve RVT’li hastalarda başlangıçta üç veya daha fazla
+ardışık aylık enjeksiyon gerekebilir.
+Sonrasında, izlem ve tedavi aralıkları hekim tarafından, görme keskinliği ve/veya anatomik
+parametrelere göre değerlendirilen hastalık aktivitesine göre belirlenmelidir.
+Eğer hekimin görüşüne göre görme ile ilgili ve anatomik parametreler hastanın devam eden
+tedaviden fayda sağlamadığını gösterirse, LUCENTİS tedavisi kesilmelidir.
+Hastalık aktivitesi izlemi klinik muayene, fonksiyonel test veya görüntüleme tekniklerini (optik
+koherens tomografi, fluoresein anjiyografi veya indosiyanin yeşili anjiyografi) içerebilir.
+Hastalar tedavi et ve uzat rejimine göre tedavi ediliyorsa, maksimum görme keskinliği elde
+edildiğinde ve/veya hastalık aktivitesi belirtileri yoksa, tedavi aralıkları hastalık aktivitesi veya
+görme bozukluğu belirtileri nüksedene kadar kademeli olarak uzatılabilir. Tedavi aralığı yaş tip
+YBMD için bir seferde en fazla iki hafta uzatılmalıdır ve DMÖ için bir seferde bir aya kadar
+uzatılabilir. RVT için tedavi aralıkları da kademeli olarak uzatılabilir, bununla birlikte bu
+aralıkların uzunluğuna dair bir sonuca varmak için yeterli veri yoktur. Hastalık aktivitesi
+nüksederse tedavi aralığı uygun şekilde kısaltılmalıdır.
+KNV’ye bağlı görme bozukluğunun tedavisi hastalık aktivitesi temelinde hastaya göre bireysel
+olarak belirlenmelidir. Bazı hastalar ilk 12 ay sırasında sadece bir enjeksiyona ihtiyaç duyabilir;
+diğerleri aylık enjeksiyon dahil daha sık tedaviye ihtiyaç duyabilir. Patolojik miyopiye (PM)
+bağlı KNV için, birçok hasta ilk yıl sırasında sadece bir ya da iki enjeksiyona ihtiyaç duyabilir
+(bkz. Bölüm 5.1 Farmakodinamik özellikler).
+DMÖ’de ve Dal RVT’de (DRVT-Retinal venin bir dalında tıkanıklık olması ve o dal
+tarafından kirli kanın toplandığı bölgede dolaşım sorunu ortaya çıkması) LUCENTİS ve lazer
+fotokoagülasyon:
+LUCENTİS, klinik çalışmalarda lazer fotokoagülasyonla eşzamanlı olarak uygulanmıştır. Aynı
+gün verilmesi durumunda LUCENTİS lazer fotokoagülasyondan en az 30 dakika sonra
+uygulanmalıdır. LUCENTİS, önceden lazer fotokoagülasyonu yapılmış olan hastalara
+uygulanabilir.
+2 / 21PM’ye sekonder KNV’de LUCENTİS ve verteporfin fotodinamik tedavi
+LUCENTİS ve verteporfinin eşzamanlı uygulanması ile deneyim bulunmamaktadır.
+Uygulama şekli:
+Parenteral kullanımlı bütün tıbbi ürünlerde olduğu gibi, uygulamadan önce LUCENTİS’in
+partiküllü madde ve renk değişimi açısından görsel olarak incelenmesi gerekmektedir.
+Enjeksiyon prosedürü cerrahi el dezenfeksiyonu, steril eldiven, bir steril örtü ve bir steril göz
+kapağı spekulumu (ya da eşdeğeri) ve steril parasentez mevcudiyetini (gerektiğinde) içeren
+steril koşullar altında yürütülmelidir. İntravitreal prosedür uygulanmadan önce hastanın aşırı
+duyarlılık reaksiyonları açısından tıbbi geçmişi dikkatle değerlendirilmelidir (Bkz. Bölüm 4.3
+Kontrendikasyonlar). Perioküler cilt, göz kapağı ve oküler yüzey steril edilmelidir.
+Enjeksiyondan önce yeterli anestezi uygulanmalı ve steril ortam sağlanmalıdır.
+LUCENTİS’i intravitreal uygulamaya hazırlamak için aşağıdaki talimatları uygulayınız:
+Flakon sterildir. Ambalajda hasar varsa flakonu kullanmayınız. Ambalaj yalıtımı sağlam
+kalmadığı sürece flakonun sterilitesi garanti edilemez. Çözeltinin rengi bozulmuşsa, bulanıksa
+veya partikül içeriyorsa flakonu kullanmayınız.
+Erişkinler
+Enjeksiyon iğnesi yatay meridyenden kaçınılarak, gözün merkezi hedeflenerek ve gözün
+aksiyal uzunluğu göz önünde bulundurularak vitreus boşluğuna doğru limbusun 3,5-4 mm
+açığına batırılmalıdır. Sonra 0,05 mL’lik enjeksiyon hacmi verilmelidir. Daha sonraki
+enjeksiyonlar farklı sklera kadranına uygulanmalıdır.
+A. 1. İlacı çekmeden önce flakonun lastik tıpasının dış kısmı
+dezenfekte edilmelidir.
+2. 5 mikrometrelik filtreli iğneyi (verilmiştir) 1mL’lik
+şırıngaya aseptik teknikle takınız. Küt uçlu iğneyi flakon
+tıpasının ortasına sokarak flakonun tabanına dokununcaya
+kadar itiniz.
+3. Flakondaki tüm sıvıyı flakonu dik pozisyonda tutarak
+çekiniz, sıvının tamamının çekilmesini kolaylaştırmak için
+flakonu hafifçe eğiniz.
+B.
+4. Flakonu boşaltırken iğne ucunun tamamen boşaltmak
+amacıyla piston çubuğun yeteri kadar geri çekildiğinden emin
+olun.
+5. Küt uçlu filtreli iğneyi flakon içinde bırakınız ve şırıngayı
+küt uçlu filtreli iğneden ayırınız. Filtreli iğne flakon içeriğinin
+çekilmesinden sonra atılmalı ve intrevitreal enjeksiyon için
+kullanılmamalıdır.
+3 / 21C. 6. Enjeksiyon iğnesini aseptik ve sıkı bir şekilde şırıngaya
+takınız.
+7. Şırıngadan enjeksiyon iğnesini ayırmadan dikkatlice
+enjeksiyon iğnesinin başlığını çıkarınız.
+Not: Başlığı çıkarırken enjeksiyon iğnesinin sarı göbek
+kısmından sıkıca tutunuz.
+D.
+8. Şırıngadaki havayı dikkatle çıkarınız ve dozu şırınga
+üzerindeki 0,05 mL işaretine ayarlayınız. Şırınga enjeksiyon
+için hazırdır.
+Not: Enjeksiyon iğnesini silmeyiniz. Pistonu geri çekmeyiniz.
+0,05 mL
+Enjeksiyon sonrasında, iğnenin kapağını geri takmayınız veya
+iğneyi enjektörden sökmeyiniz. Kullanılmış enjektörü, iğnesi
+ile birlikte sivri uçlu atıklar kutusuna atınız veya yerel
+gerekliliklere uygun şekilde imha ediniz.
+Pediyatrik popülasyon
+Preterm bebeklerde, enjeksiyon iğnesi, iğne optik sinire bakacak şekilde limbusun arka
+kısmından 1 ila 2 mm mesafede göz içine batırılmalıdır. Daha sonra 0,02 mL’lik enjeksiyon
+hacmi uygulanır.
+Özel popülasyonlara ilişkin ek bilgiler:
+Böbrek yetmezliği: Böbrek yetmezliği olan hastalarda doz ayarlaması gerekmemektedir (Bkz.
+Bölüm 5.2 Farmakokinetik özellikler).
+Karaciğer yetmezliği: Karaciğer yetmezliği olan hastalarda çalışma yapılmamıştır. Ancak,
+sistemik maruziyet dikkate değer olmadığı için bu popülasyonda özel önlemler gerekli
+görülmemiştir.
+Pediyatrik popülasyon: Prematüre retinopatisi dışında 18 yaşın altındaki popülasyonda
+güvenlilik ve etkililik verilerindeki eksiklik nedeniyle LUCENTİS’in çocuk ve adölesanlarda
+kullanımı önerilmemektedir. KNV’ye bağlı görme bozukluğu olan 12 ila 17 yaş
+adölesanlardaki mevcut veriler bölüm 5.1’de tarif edilmektedir ancak pozoloji hakkında
+herhangi bir öneride bulunulamamaktadır.
+Geriyatrik popülasyon: Yaşlılarda herhangi bir doz ayarlaması gerekmemektedir. 75 yaş
+üzerindeki DMÖ’lü hastalar üzerinde deneyim kısıtlıdır.
+4 / 214.3 Kontrendikasyonlar
+- Etkin maddeye ya da ilaç içindeki herhangi bir yardımcı maddeye karşı aşırı duyarlılık (Bkz.
+Bölüm 6.1 Yardımcı maddelerin listesi),
+- Aktif ya da şüpheli oküler ya da perioküler enfeksiyonlu hastalar,
+- Aktif şiddetli göz içi inflamasyonlu hastalarda kullanımı kontrendikedir.
+4.4 Özel kullanım uyarıları ve önlemleri
+LUCENTİS tedavisi sadece intravitreal enjeksiyon ile yapılır.
+İntravitreal enjeksiyon ile ilişkili reaksiyonlar:
+LUCENTİS ile olanları da içeren intravitreal enjeksiyonlar endoftalmi, göz içi inflamasyonu,
+yırtıklı retina dekolmanı, retina yırtılması ve iyatrojenik travmatik katarakt ile ilişkili olmuştur
+(Bkz. Bölüm 4.8 İstenmeyen etkiler). LUCENTİS uygulanırken her zaman uygun steril
+enjeksiyon teknikleri kullanılmalıdır. Ayrıca, bir enfeksiyon oluştuğunda erken tedaviye olanak
+sağlamak için hastalar enjeksiyonu takip eden hafta sırasında izlenmelidir. Hastalara endoftalmi
+ya da yukarıda sözü edilen vakaları çağrıştıracak herhangi bir semptomu gecikmeden
+bildirmeleri öğütlenmelidir.
+Göz içi basıncı artışları:
+Erişkinlerde LUCENTİS enjeksiyonundan sonra 60 dakika içinde göz içi basıncında (GİB)
+geçiçi artışlar, görülmüştür (Bkz. Bölüm 4.8 İstenmeyen etkiler). Kalıcı GİB artışları da
+bildirilmiştir. Hem göz içi basıncı hem de optik sinir başının perfüzyonu izlenmeli ve uygun
+şekilde tedavi edilmelidir.
+Hastalar, bu potansiyel advers reaksiyonların semptomları konusunda bilgilendirilmeli ve göz
+ağrısı ya da artan göz rahatsızlığı, göz kızarıklığında kötüleşme, görüşte bulanıklaşma veya
+azalma, görüşlerinde küçük partikül sayısında artış veya ışığa karşı hassasiyette artış gibi
+belirtiler geliştirmeleri halinde bu durumu hekimlerine bildirmeleri talimatı verilmelidir (Bkz.
+Bölüm 4.8 İstenmeyen etkiler).
+Bilateral tedavi:
+Mevcut kısıtlı veriler bilateral tedavi ile (aynı gün içinde uygulama dahil) sistemik advers
+olaylar açısından artmış bir riske işaret etmemektedir.
+İmmünojenisite:
+Bütün terapötik proteinlerde olduğu gibi, LUCENTİS ile immünojenisite için bir potansiyel
+bulunmaktadır. DMÖ’lü hastalarda artmış sistemik maruziyet potansiyeli söz konusu
+olduğundan, bu hasta popülasyonunda aşırı duyarlılık gelişimi riskindeki artış göz ardı
+edilemez. Hastalar, intraoküler antikor oluşumuna bağlı bir klinik belirti olabilecek; intraoküler
+inflamasyon şiddetindeki artışları bildirmeleri konusunda bilgilendirilmelidirler.
+Diğer anti-VEBF (vasküler endotelyal büyüme faktörü) ajanlarla eşzamanlı kulanım:
+LUCENTİS diğer anti-VEBF (vasküler endotelyal büyüme faktörü) ilaçlarla eşzamanlı olarak
+uygulanmamalıdır (sistemik veya oküler).
+Retinal pigment epitel yırtıkları:
+Yaş tip YBMD ve potansiyel olarak diğer KNV formları için anti-VEBF tedavisi sonrasında
+retinal pigment epitel yırtıklarının ortaya çıkması ile ilişkili risk faktörleri arasında büyük
+ve/veya yüksek pigment epitel retinal dekolmanı yer alır. LUCENTİS tedavisine başlarken,
+retinal pigment epitel yırtıkları açısından bu risk faktörlerine sahip hastalarda dikkatli
+olunmalıdır.
+5 / 21LUCENTİS tedavisine ara verilmesini gerektiren durumlar:
+Aşağıdaki durumlarda doz uygulamasına ara verilmeli ve bir sonraki planlı tedaviden daha önce
+tekrar başlanmamalıdır:
+- Son görme keskinliği değerlendirmesine göre, düzeltilmiş en iyi görme keskinliğinde
+(EDGK) ≥30 harf azalma;
+- ≥30 mmHg intraoküler basınç;
+- Retinal çatlama;
+- Fovea merkezini içeren subretinal hemoraji ya da eğer hemorajinin boyutu, toplam
+lezyon alanının ≥%50 ise;
+- Önceki veya sonraki 28 gün içinde gerçekleştirilmiş ya da planlanmış intraoküler
+cerrahi.
+Erişkinlerde regmatojenöz retina dekolmanı veya makula delikleri:
+Regmatojenöz retina dekolmanı veya evre 3 ya da 4 makula delikleri görülen hastalarda tedavi
+sonlandırılmalıdır.
+Pediyatrik popülasyon:
+Yetişkinler için uyarılar ve önlemler, ROP’lu preterm bebekler için de geçerlidir. ROP'lu
+preterm bebeklerde uzun süreli güvenlilik, RAINBOW uzatma çalışmasında 2 yıl boyunca
+araştırılmıştır ve yeni güvenlilik sinyali gözlenmemiştir. Preterm bebeklerde 2 yıldan daha uzun
+süreli güvenlilik profili belirlenmemiştir.
+Kısıtlı verilere sahip popülasyonlar:
+Önceden RVT epizodları olan hastaların ve iskemik dal RVT’si (DRVT) ile santral RVT’li
+(SRVT) olan hastaların tedavisi ile ilgili sınırlı deneyim mevcuttur. Geri dönüşümsüz iskemik
+görme işlevi kaybına dair klinik belirtiler ile başvuran RVT hastalarında tedavi önerilmez.
+Tip I diyabete bağlı DMÖ’sü olan gönüllülerin tedavisinde sadece kısıtlı deneyim söz
+konusudur. LUCENTİS, daha önce intravitreal enjeksiyon uygulanmış hastalarda, aktif
+sistemik enfeksiyonları olan hastalarda, proliferatif diyabetik retinopatili hastalarda veya retina
+dekolmanı ya da makula deliği gibi eşzamanlı göz hastalıkları olan hastalarda araştırılmamıştır.
+Ayrıca HbA1c değeri 108 mmol/mol (%12)’nin üzerinde olan ve kontrol edilemeyen
+hipertansiyon görülen diyabetik hastalarda LUCENTİS ile tedavi deneyimi yoktur. Bu tip
+hastaların tedavisinde hekim bu bilgi eksikliğini akılda bulundurmalıdır.
+PM’li hastalarda, daha önce verteporfin fotodinamik tedavinin (vFDT) başarısız olduğu
+hastalarda LUCENTİS’in etkisine ilişkin veriler kısıtlıdır. Ayrıca subfoveal ve jukstafoveal
+lezyonları olan hastalarda tutarlı bir etki gözlenirken, ekstrafoveal lezyonları olan PM’li
+hastalarda LUCENTİS etkisi hakkında yorum yapabilmek için yeterli veri yoktur.
+İntravitreal kullanım sonrasında sistemik etkiler:
+VEBF inhibitörlerinin intravitreal enjeksiyonu sonrasında oküler olmayan hemoraji ve arteriyel
+tromboembolik olaylar dahil sistemik advers olaylar bildirilmiştir.
+Önceden inme ya da geçici iskemik ataklar öyküsü bulunan DMÖ, RVT’ye bağlı maküler
+ödemi olan ve PM’ye sekonder KNV’li hastaların tedavisinde güvenlilikle ilgili sınırlı veri
+mevcuttur. Bu gibi hastalar tedavi edilirken dikkatli olunmalıdır (Bkz. Bölüm 4.8 İstenmeyen
+etkiler).
+6 / 21Silikon yağına bağlı olarak vitreusta uçuşan cisimler:
+Silikonlu enjektörlerden ve/veya iğnelerden silikon yağının sızması nedeniyle vitreusta uçuşan
+cisimlerin gelişmesi yönünde bir ihtimal vardır. Vitreusta uçuşan cisimler tolere edilebilirdir.
+Vitreusta uçuşan noktalar riskini azaltmak için intravitreal enjeksiyonda silikon içermeyen enjektör
+ve enjeksiyon iğnesi kullanılması önerilmektedir.
+Biyoteknolojik ürünlerin takip edilebilirliğinin sağlanması için uygulanan ürünün ticari ismi ve
+seri numarası mutlaka hasta dosyasına kaydedilmelidir.
+4.5 Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+Herhangi bir klinik etkileşim çalışması yürütülmemiştir.
+Neovasküler (yaş tip) yaşa bağlı makula dejenerasyonu (YBMD)’nda ve patolojik miyopi
+(PM)’de LUCENTİS ve verteporfin fotodinamik terapinin (FDT) birlikte kullanımı için bölüm
+5.1 Farmakodinamik özellikler başlığını inceleyiniz.
+DMÖ ve DRVT’de lazer fotokoagülasyon ve LUCENTİS’in birlikte kullanımı için bölüm 5.1
+Farmakodinamik özellikler ve 4.2 Pozoloji ve uygulama şekli başlığını inceleyiniz.
+DMÖ’den kaynaklanan görme bozukluğunun tedavisi ile ilgili klinik çalışmalarda LUCENTİS
+ile tedavi edilen hastalarda, görme keskinliği veya merkezi retina kalınlığı açısından sonuç,
+tiazolidindionlar ile eş zamanlı tedaviden etkilenmemiştir.
+Özel popülasyonlara ilişkin ek bilgiler
+Özel popülasyonlara ilişkin herhangi bir klinik etkileşim çalışması yürütülmemiştir.
+Pediyatrik popülasyon: Pediyatrik popülasyona ilişkin herhangi bir klinik etkileşim çalışması
+yürütülmemiştir.
+4.6 Gebelik ve laktasyon
+Genel tavsiye
+Gebelik kategorisi: C
+Çocuk doğurma potansiyeli bulunan kadınlar / Doğum kontrolü (Kontrasepsiyon)
+Çocuk doğurma potansiyeli olan kadınlar tedavi süresince etkili bir doğum kontrol yöntemi
+kullanmalıdır.
+Gebelik dönemi
+LUCENTİS’in gebe kadınlarda kullanımına ilişkin yeterli veri mevcut değildir. Hayvanlar
+üzerinde yapılan araştırmalar üreme toksisitesinin bulunduğunu göstermiştir (Bkz. Bölüm 5.3).
+İnsanlara yönelik potansiyel risk bilinmemektedir.
+Ranibizumabın gebelerde kullanımına ilişkin herhangi bir klinik veri mevcut değildir.
+Sinomolgus maymunlarında yapılan çalışmalar gebelik veya embriyonal/fetal gelişim açısından
+doğrudan ya da dolaylı herhangi bir zararlı etkiyi göstermemektedir (Bölüm 5.3 Klinik öncesi
+güvenlilik verileri’ne bakınız). Ranibizumaba sistemik maruziyet oküler uygulamanın ardından
+düşüktür fakat etki mekanizması nedeniyle ranibizumab, potansiyel olarak teratojenik ve
+embriyo/fetotoksik kabul edilmelidir. Bu nedenle, beklenen fayda, fetüse potansiyel riske ağır
+basmadığı sürece gebelik sırasında ranibizumab kullanılmamalıdır. Gebe kalmak isteyen ve
+ranibizumab tedavisi almış kadınların, gebe kalmadan önce, ranibizumabın son dozundan sonra
+en az 3 ay beklemeleri tavsiye olunur.
+7 / 21Laktasyon dönemi
+Çok sınırlı verilere dayanarak, ranibizumab insan sütüne düşük seviyelerde geçebilir.
+Ranibizumabın emzirilen yenidoğan/bebek üzerindeki etkisi bilinmemektedir. Önlem olarak,
+LUCENTIS kullanımı sırasında emzirme önerilmemektedir.
+Üreme yeteneği / Fertilite
+Üreme yeteneği üzerine etkileri hakkında çalışma yapılmamıştır.
+4.7 Araç ve makine kullanımı üzerindeki etkiler
+LUCENTİS tedavi prosedürü araç ya da makine kullanmayı etkileyebilecek geçici görme
+bozukluklarını indükleyebilir (Bkz. Bölüm 4.8 İstenmeyen etkiler). Bu belirtileri yaşayan
+hastalar bu geçici görme bozuklukları geçene kadar araç ya da makine kullanmamalıdır.
+4.8 İstenmeyen etkiler
+Güvenlilik profilinin özeti:
+LUCENTİS uygulamasını takiben bildirilen istenmeyen etkilerin çoğunluğu intravitreal
+enjeksiyon prosedürü ile ilişkilidir.
+LUCENTİS enjeksiyonunu takiben en sık bildirilen oküler istenmeyen reaksiyonlar şunlardır:
+göz ağrısı, oküler hiperemi, artmış intraoküler basınç, vitrit, vitreus dekolmanı, retinal hemoraji,
+görme bozukluğu, vitreusta uçuşan cisimler, konjonktival hemoraji, göz irritasyonu, gözlerde
+yabancı cisim hissi, artmış lakrimasyon, blefarit, göz kuruluğu ve göz kaşıntısı.
+En sık bildirilen oküler olmayan istenmeyen olaylar baş ağrısı, nazofarenjit ve eklem ağrısıdır.
+Daha seyrek olarak bildirilen ancak daha ciddi istenmeyen reaksiyonlar endoftalmi, körlük,
+retina dekolmanı, retina yırtığı ve iyatrojenik travmatik kataraktı içermektedir (Bkz. Bölüm 4.4
+Özel kullanım uyarıları ve önlemleri).
+Hastalar bu potansiyel istenmeyen reaksiyonların semptomları hakkında bilgilendirilmeli ve
+göz ağrısı ya da artmış rahatsızlık, kötüleşen göz kızarıklığı, bulanık veya zayıflamış görme,
+görüşlerinde artmış sayıda küçük partiküller veya ışığa artmış duyarlılık gibi semptomların
+gelişmesi durumunda hekimlerine haber vermeleri söylenmelidir.
+Klinik çalışmalarda LUCENTİS uygulamasını takiben yaşanan istenmeyen reaksiyonlar
+aşağıda özetlenmektedir.
+Klinik çalışmalardan bildirilmiş olan istenmeyen etkiler MedDRA sistemi organ sınıfına göre
+listelenmektedir. Her sistem organ sınıfı içerisinde istenmeyen etkiler sıklıklarına göre
+sıralanmakta olup en sık reaksiyonlar ilk başta verilmektedir. Her sıklık grubu içerisinde
+istenmeyen etkiler azalan ciddiyet sırasına göre sunulmaktadır. Ayrıca, her istenmeyen etkiye
+karşılık belirtilen sıklık kategorisi aşağıdaki sisteme dayanmaktadır (CIOMS III): çok yaygın
+( 1/10), yaygın ( 1/100 ila < 1/10), yaygın olmayan ( 1/1.000 ila < 1/100), seyrek ( 1/10.000
+ila < 1/1.000), çok seyrek (< 1/10.000) ve bilinmiyor (eldeki verilerden yola çıkılarak tahmin
+edilemiyor).
+Enfeksiyon ve enfestasyonlar
+Çok yaygın: Nazofarenjit
+Yaygın: İdrar yolu enfeksiyonu*
+8 / 21Kan ve lenf sistemi hastalıkları
+Yaygın: Anemi
+Bağışıklık sistemi hastalıkları
+Yaygın: Aşırı duyarlılık
+Psikiyatrik hastalıklar
+Yaygın: Anksiyete
+Sinir sistemi hastalıkları
+Çok yaygın: Baş ağrısı
+Göz hastalıkları
+Çok yaygın: Vitrit, vitreus dekolmanı, retina hemorajisi, görme bozukluğu, göz ağrısı, vitreusta
+uçuşan cisimcikler, konjonktiva hemorajisi, göz iritasyonu, gözlerde yabancı cisim hissi,
+gözyaşı artması, blefarit, göz kuruluğu, oküler hiperemi, göz kaşıntısı.
+Yaygın: Retina dejenerasyonu, retinal bozukluk, retina dekolmanı, retina yırtılması, retina
+pigment epitel dekolmanı, retina pigment epitelinin yırtılması, görme keskinliğinde azalma,
+vitreus hemorajisi, vitreus bozukluğu, üveit, iritis, iridosiklitis, katarakt, subkapsüler katarakt,
+posterior kapsül opasifikasyonu, punktat keratit, kornea abrazyonu, ön kamarada flare, bulanık
+görme, enjeksiyon yerinde hemoraji, gözde hemoraji, konjonktivit, alerjik konjonktivit, göz
+akıntısı, fotopsi, fotofobi, oküler rahatsızlık, göz kapağı ödemi, göz kapağında ağrı,
+konjonktival hiperemi.
+Yaygın olmayan: Körlük, endoftalmi, hipopion, hifemi, keratopati, iris adezyonu, korneal
+depozitler, kornea ödemi, korneada çizgiler, enjeksiyon yerinde ağrı, enjeksiyon yerinde
+iritasyon, gözde anormal his, gözkapağı iritasyonu.
+Solunum, göğüs bozuklukları ve mediastinal hastalıklar
+Yaygın: Öksürme
+Gastrointestinal hastalıklar
+Yaygın: Bulantı
+Deri ve deri altı doku hastalıkları
+Yaygın: Alerjik reaksiyonlar (döküntü, ürtiker, pruritus, eritem)
+Kas-iskelet bozukluklar, bağ doku ve kemik hastalıkları
+Çok yaygın: Eklem ağrısı
+Araştırmalar
+Çok yaygın: Göz içi basıncının yükselmesi
+Advers reaksiyonlar, kontrol tedavisi (sham veya verteporfin FDT) görenlere kıyasla
+LUCENTİS 0,5 mg ile tedavi gören hastalarda daha yüksek (en az yüzde 2) bir oranda meydana
+gelen advers olaylar (hastaların en az yüzde 0,5’inde) şeklinde tanımlanır.
+*Yalnızca Diyabetik Maküler Ödem (DMÖ) hasta popülasyonunda gözlenmiştir.
+Ürün sınıfı ile ilişkili advers reaksiyonlar:
+Yaş tip YBMD faz III çalışmalarında, sistemik VEGF (vasküler endotelyal büyüme faktörü)
+inhibisyonu ile potansiyel olarak ilişkili bir advers olay olan oküler dışı hemorajilerin genel
+sıklığı, ranibizumab ile tedavi edilen hastalarda biraz daha yüksek olmuştur. Diğer yandan,
+9 / 21farklı hemorajiler arasında tutarlı bir patern gözlenmemiştir. VEGF inhibitörlerinin intravitreal
+kullanımı sonrasında inme ve miyokart enfarktüsü dahil arteriyel tromboembolik olaylar
+açısından teorik bir risk söz konusudur. YBMD, DMÖ, PDR, RVT ve KNV’li hastalardaki
+LUCENTİS klinik çalışmalarında düşük bir arteriyel tromboembolik olaylar oranı gözlenmiştir
+ve kontrol ile karşılaştırıldığında ranibizumab ile tedavi edilen hastalarla arasında önemli
+farklılıklar görülmemiştir.
+Pediyatrik popülasyon:
+LUCENTİS 0,2 mg’ın güvenliliği, 0,2 mg ranibizumab ile tedavi edilen ROP olan 73 erken
+doğmuş bebeği içeren 6 aylık bir klinik çalışmada (RAINBOW) araştırılmıştır (Bkz. Bölüm 5.1
+Farmakodinamik özellikler). Ranibizumab 0,2 mg ile tedavi edilen birden fazla hastada
+bildirilen oküler advers reaksiyonlar retina kanaması ve konjonktival kanamadır. Ranibizumab
+0,2 mg ile tedavi edilen birden fazla hastada bildirilen oküler olmayan advers reaksiyonlar
+nazofarenjit, anemi, öksürük, idrar yolu enfeksiyonu ve alerjik reaksiyonlardır. Erişkin
+endikasyonları için belirlenen advers reaksiyonların ROP’lu erken doğmuş bebekler için geçerli
+olduğu düşünülmekle birlikte, tümü RAINBOW çalışmasında gözlenmemiştir. RAINBOW
+uzatma çalışmasında ROP’lu erken doğmuş bebeklerde uzun süreli güvenlilik 2 yıl boyunca
+incelenmiştir ve yeni güvenlilik sinyalleri belirlenmemiştir. Erken doğmuş bebeklerde 2 yılın
+ötesinde güvenlilik profili belirlenmemiştir.
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar / risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir. (www.titck.gov.tr; e-
+posta: tufam@titck.gov.tr; tel: 0 800 314 00 08; faks: 0 312 218 35 99)
+4. 9 Doz aşımı ve tedavisi
+Klinik çalışmalarda ve pazarlama sonrası verilerde kazayla ortaya çıkan doz aşımı vakaları
+bildirilmiştir. Rapor edilen bu vakalarla ilişkilendirilebilen en sık görülen advers etkiler göz içi
+basıncının yükselmesi, geçici körlük, görme keskinliğinin azalması, korneal ödem, korneal ağrı
+ve gözde ağrı hissidir. Eğer bir doz aşımı oluşursa, ilgili hekim tarafından gerekli görülmesi
+durumunda intraoküler basınç takip edilmeli ve tedavi edilmelidir.
+Klinik çalışmalarda, yaş tip YBMD ve DMÖ’lü hastalara 0,05 mL ila 0,1 mL’lik bir enjeksiyon
+hacminde 2 mg’a kadar ranibizumab dozları uygulanmıştır. Oküler ve sistemik advers olayların
+tipi ve sıklığı 0,5 mg (0,05 mL’de) LUCENTİS dozu için bildirilen doz ile tutarlıdır.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1 Farmakodinamik özellikler
+Farmakoterapötik grubu: Oftalmolojik ajanlar, oküler vasküler hastalıklarda kullanılan ajanlar,
+antineovaskülarizasyon ajanları
+ATC kodu: S01LA04
+Etki mekanizması:
+Ranibizumab insan vasküler endotelyal büyüme faktörü A’yı (VEBF-A) hedef alan bir insan
+rekombinant monoklonal antikor parçasıdır. VEBF-A izoformlarına (VEBF , VEBF ve
+110 121
+VEBF ) yüksek afiniteyle bağlanarak, VEBF-A’nın reseptörleri olan VEBFR-1 ve VEBFR-
+165
+2’ye bağlanmasını önlemektedir.
+10 / 21VEBF-A’nın reseptörlerine bağlanması, erişkinlerde neovasküler tip yaşa bağlı makula
+dejenerasyonu, patolojik miyopi ve KNV’nin progresyonuna ya da diyabetik maküler ödem ya
+da RVT’ye ve erken doğmuş bebeklerde prematüre retinopatisine sekonder maküler ödemin
+neden olduğu görme bozukluğuna katkı sağladığı düşünülen endotel hücre proliferasyonuna ve
+neovaskülarizasyona ve ayrıca vasküler sızıntıya yol açmaktadır.
+Klinik etkililik ve güvenlilik:
+Yaşa bağlı makula dejenerasyonu tedavisi
+LUCENTİS’in klinik güvenlilik ve etkililiği randomize, çift-kör, sham ya da aktif kontrollü
+pivotal çalışmalarda neovasküler YBMD’li hastalarda değerlendirilmiştir.
+FVF2598g (MARINA) çalışmasında minimal klasik ya da klasik komponenti olmayan okült
+KNV’li hastalara aylık 0,3 ya da 0,5 mg LUCENTİS veya sham intravitreal enjeksiyonlar
+verilmiştir. Bu çalışmaya toplam 716 hasta alınmıştır. FVF2587g (ANCHOR) çalışmasında
+baskın klasik KNV lezyonlu hastalara aylık 0,3 ya da 0,5 mg LUCENTİS veya aktif
+verteporfin/PDT verilmiştir. Bu çalışmaya toplam 423 hasta alınmıştır. Bulgular Tablo 1 ve
+Tablo 2’de özetlenmiştir.
+Tablo 1 FVF2598g (MARINA) çalışmasında 12. ve 24. aydaki sonuçlar
+Sonuç ölçümü Ay Sham LUCENTİS 0,5 mg
+(n=238) (n=240)
+Görme keskinliğinde < 15 harf kaybı (%)a 12. %62 %95
+(Görmenin idamesi)
+24. %53 %90
+(Primer sonlanım noktası)
+Görme keskinliğinde ≥ 15 harf kazanımı 12. %5 %34
+(%)a
+24. %4 %33
+Görme keskinliğinde ortalama harf 12. -10,5 (16,6) +7,2 (14,4)
+değişimi
+24. -14,9 (18,7) +6,6 (16,5)
+(Std. Sapma)a
+a p<0,01.
+Tablo 2 FVF2587g (ANCHOR) çalışmasında 12. ve 24. aydaki sonuçlar
+Sonuç ölçümü Ay Verteporfin/PDT LUCENTİS 0,5 mg
+(n=143) (n=140)
+Görme keskinliğinde < 15 harf kaybı (%)a 12. %64 %96
+(Görmenin idamesi)
+24. %66 %90
+(Primer sonlanım noktası)
+Görme keskinliğinde ≥ 15 harf kazanımı 12. %6 %40
+(%)a
+24. %6 %41
+Görme keskinliğinde ortalama harf 12. -9,5 (16,4) +11,3 (14,6)
+değişimi
+24. -9,8 (17,6) +10,7 (16,5)
+(Std. Sapma)a
+a p<0,01.
+11 / 21DMÖ’den kaynaklanan görme bozukluğunun tedavisi
+Diyabetik maküler ödeme bağlı sekonder görme bozukluğu olan hastalarda LUCENTİS’in
+klinik güvenlilik ve etkililiği randomize, çift kör, kontrollü pivotal çalışmalar olan D2301
+(RESTORE) ve D2201’de (RESOLVE) değerlendirilmiştir.
+Faz III Çalışma D2301’de (RESTORE) maküler ödem nedeniyle görme bozukluğu olan
+toplamda 345 hasta kaydedilmiştir. Hastalar, tek başına ya da lazerle kombine olarak 0,5 mg
+intravitreal ranibizumab veya tek başına lazer olmak üzere üç ayrı kola randomize edilmiştir.
+Ranibizumab ile tedavi, aylık intravitreal enjeksiyonlarla başlatılmış ve görme keskinliği art
+arda en az üç aylık değerlendirme boyunca stabil oluncaya kadar devam ettirilmiştir. Tedavi,
+EDGK’de DMÖ progresyonu nedeniyle azalma gözlendiğinde yeniden başlatılmıştır.
+Başlangıçta aynı gün içerisindeki ranibizumab enjeksiyonundan en az 30 dakika önce ve
+ardından ihtiyaç halinde, Diyabetik Retinopati Erken Tedavi Çalışması (ETDRS) kriterleri
+doğrultusunda lazer fotokoagülasyon uygulanmıştır.
+Daha önce 12 aylık RESTORE çalışmasını tamamlamış olan 240 hasta, açık etiketli, çok
+merkezli 24 aylık uzatma (RESTORE Uzatma) çalışmasına dahil edilmiştir. Hastalarda,
+çalışma D2301’de (RESTORE) çalışma gözü olarak seçilmiş olan göze ranibizumab 0,5 mg ile
+pro re nata (PRN) tedavi uygulanmıştır. EDGK’de DMÖ nedeniyle azalma olduğu takdirde
+tedavi yeniden başlatılmış ve stabil EDGK düzeyine ulaşılıncaya kadar devam ettirilmiştir.
+Ayrıca, araştırmacı tarafından gerekli görüldüğü takdirde ve ETDRS (Early Treatment Diabetic
+Retinopathy Study – Erken Tedavi Diyabetik Retinopati Çalışması) kriterlerine dayanılarak,
+lazer tedavisi de uygulanmıştır.
+Başlıca bulgular aşağıdaki Tablo 3’te özetlenmiştir:
+Tablo 3 Çalışma D2301’de (RESTORE) 12. aydaki ve Çalışma D2301-E1’de (RESTORE
+Uzatma) 36. aydaki sonuçlar
+Ranibizumab 0,5 mg Ranibizumab 0,5 mg Lazer
++ Lazer
+Sonuç ölçümü
+(D2301 n=115 (D2301 n=118 (D2301 n=110
+D2301-E1 n=83) D2301-E1 n=83) D2301-E1 n=74b)
+EDGK’de* başlangıca kıyasla 1.
+aydan 12. aya kadar meydana 6,1 (6,4) 5,9 (7,9) 0,8 (8,6)
+gelen ortalama değişim (SD)a
+EDGK’de 24. aydaki ortalama
+7,9 (9) 6,7 (7,9) 5,4 (9)
+değişim (SD)
+EDGK’de 36. aydaki ortalama
+8 (10,1) 6,7 (9,6) 6 (9,4)
+değişim (SD)
+*EDGK: En iyi düzeltilmiş görme keskinliği
+a ranibizumab ve lazer kollarında p0,0001
+D2301-E1 (RESTORE Uzatma) n değeri: hem D2301 (RESTORE) başlangıcı hem de 36. Ay değeri
+olan hasta sayısı
+b daha önce lazer tedavisi gören 74 hastadan 59’una (%79) uzatma çalışmasında ranibizumab
+uygulanmıştır.
+24 aylık uzatma çalışmasında gözlenen ranibizumabın uzun vadeli güvenlilik profili
+LUCENTIS’in bilinen güvenlilik profili ile tutarlıdır.
+12 / 21Faz II Çalışma D2201’e (RESOLVE) görme bozukluğuna neden olan maküler merkezi
+tutulumun görüldüğü toplam 151 hasta kaydedilmiş olup bu hastalara şu tedaviler
+uygulanmıştır:
+Hastalar 0,3 mg veya 0,5 mg LUCENTİS ya da sham kollarına randomize edilmiştir. Başlangıç
+ranibizumab dozu (0,3 mg veya 0,5 mg) çalışma sırasında ilk enjeksiyondan sonra araştırıcının
+tedaviye yanıtın yeterli olmadığına karar vermesi durumunda iki katına çıkarılabilmiştir.
+Çalışmanın 3. ayından sonra her iki tedavi kolunda lazer fotokoagülasyon kurtarma tedavisine
+izin verilmiştir. Çalışma 2 fazdan oluşmaktadır; araştırma fazı (6. ayda analizi yapılmış 42
+hasta) ve destekleyici faz (12. ayda analizi yapılmış geri kalan 109 hasta). EDGK’de başlangıca
+kıyasla 1. ay ila 12. ay arasında görülen ortalama değişim, çalışmanın her iki kısmında bulunan
+ve toplu halde değerlendirilen ranibizumab hastalarında (n=102) +7,8 (±7,72) harf, sham tedavi
+uygulanan hastalarda ise -0,1 (±9,77) harf olarak saptanmıştır (tedavi farkı için (p<0,0001)).
+Faz IIIb Çalışma D2304’te (RETAIN), DMÖ’ye bağlı görme bozukluğu olan hastalar aşağıdaki
+şekilde intravitreal enjeksiyon alımına randomize edilmiştir:
+- eşzamanlı lazer fotokoagülasyon ve tedavi et ve uzat (TU) rejimi ile ranibizumab 0,5 mg
+(n=121),
+- bir TU rejiminde ranibizumab 0,5 mg monoterapisi (n=128),
+- bir PRN (pro re nata) rejiminde ranibizumab 0,5 mg monoterapisi (n=123).
+Tüm gruplarda ranibizumab ile tedavi aylık intravitreal enjeksiyonlar ile başlatılmış ve EDGK
+en az üç ardışık aylık değerlendirmede stabil olana kadar sürdürülmüştür. Lazer
+fotokoagülasyon başlangıçta ilk ranibizumab enjeksiyonu ile aynı günde uygulanmış ve
+ardından ETDRS kriterleri temelinde gerektiğinde verilmiştir. TU’da ranibizumab daha sonra
+2-3 aylık aralıklarla planlı tedavi şeklinde uygulanmıştır. PRN’de EDGK ayda bir
+değerlendirilmiştir ve aynı vizitte gerektiğinde ranibizumab uygulanmıştır. Tüm gruplarda,
+aylık tedavi EDGK’de DMÖ progresyonuna bağlı bir azalma üzerine yeniden başlatılmış ve
+stabil EDGK’ye erişilene kadar sürdürülmüştür. Çalışma süresi 24 aydır.
+RETAIN çalışmasında ilk 3 aylık tedavi vizitinden sonra TU rejiminin gerektirdiği planlı tedavi
+viziti sayısı PRN rejiminin gerektirdiği 20 aylık vizitle karşılaştırılmıştır. Her iki rejimle de
+hastaların %70’inden fazlası ≥2 aylık bir vizit sıklığı ile EDGK’lerini korumuştur. 24 ayda
+ortalama (medyan) enjeksiyon sayısı TU ranibizumab + lazer için 12,4 (12), tek başına TU
+ranibizumab için 12,8 (12) ve PRN ranibizumab tedavi grubu için 10,7’dir (10). Lazer ilavesi
+TU rejiminde azalmış ortalama ranibizumab enjeksiyonu sayısı ile ilişkilendirilmemiştir.
+Başlıca bulgular aşağıdaki Tablo 4’te özetlenmiştir:
+Tablo 4 Çalışma D2304’de (RETAIN) sonuçlar
+PRN
+TU Ranibizumab 0,5 TU Ranibizumab 0,5
+Ranibizumab 0,5
+Sonuç ölçümü mg + Lazer mg
+mg
+n=117 n=125
+n=117
+EDGK’de 1. aydan 12. aya kadar
+meydana gelen ortalama değişim 5,9 (5,5) a 6,1 (5,7) a 6,2 (6)
+(SD)
+13 / 21EDGK’de 1. aydan 24. aya kadar
+meydana gelen ortalama değişim 6,8 (6) 6,6 (7,1) 7 (6,4)
+(SD)
+EDGK’de 24. aydaki ortalama
+8,3 (8,1) 6,5 (10,9) 8,1 (8,5)
+değişim (SD)
+24. ayda ≥10 harf kazanımı veya
+43,6 (8,1) 40,8 45,3
+EDGK ≥ 84 harf (%)
+24. ayda ≥15 harf kazanımı veya
+25,6 28 30,8
+EDGK ≥ 84 harf (%)
+a PRN ile eşdeğerlik değerlendirmesi için p<0,0001
+RVO’ya bağlı maküler ödemden kaynaklanan görme bozukluğunun tedavisi
+RVO’ya bağlı maküler ödemden kaynaklanan görme bozukluğu olan hastalarda LUCENTİS’in
+klinik güvenlilik ve etkililiği randomize, çift kör, kontrollü pivotal çalışmalar BRAVO ve
+CRUISE’da (sırasıyla BRAVO (n: 397) ve CRVO (n: 392) denek katılmıştır.)
+değerlendirilmiştir. İki çalışmada da hastalara ya 0,3 mg veya 0,5 mg intravitreal ranibizumab
+ya da sham** enjeksiyonları uygulanmıştır. Altı ay sonrasında sham-kontrol kollarındaki
+hastalar 0,5 mg ranibizumab koluna aktarılmıştır. BRAVO çalışmasında kurtarma tedavisi
+olarak lazer fotokoagülasyona 3. aydan itibaren tüm kollarda izin verilmiştir.
+BRAVO ve CRUISE için başlıca bulgular Tablo 5’te özetlenmiştir.
+Tablo 5 6. ve 12. aydaki bulgular (BRAVO - CRUISE)
+ÇALIŞMA Sham / LUCENTİS 0,5
+ADI LUCENTİS 0,5 mg
+mg(n=132) (n=131)
+Görme keskinliğinde 6. ayda BRAVO +7,3 +18,3
+başlangıca göre ortalama
+değişimb (Primer sonlanma
+noktası)
+Görme keskinliğinde 12. ayda BRAVO +12,1 +18,3
+başlangıca göre ortalama değişim
+Görme keskinliğinde 6. ayda CRUISE +0,8 +14,9
+başlangıca göre ortalama
+değişimb
+Görme keskinliğinde 12. ayda CRUISE +7,3 +13,9
+başlangıca göre ortalama değişim
+b: p<0,0001
+PDR tedavisi
+PDR’li hastalarda LUCENTİS’in klinik güvenliliği ve etkililiği, panretinal fotokoagülasyona
+(PRP) kıyasla ranibizumab 0,5 mg intravitreal enjeksiyonlarla tedavinin karşılaştırıldığı
+Protokol S’de değerlendirilmiştir. Birincil sonlanım noktası 2. yılda ortalama görme keskinliği
+değişikliğidir. Ek olarak, diyabetik retinopati (DR) şiddetindeki değişiklik DR şiddet skoru
+(DRSS) kullanılarak fundus fotoğraflarına göre değerlendirilmiştir.
+14 / 21Protokol S, başlangıçta DMÖ olan veya olmayan PDR’li 305 hastanın (394 çalışma gözü)
+kaydedildiği çok merkezli, randomize, aktif kontrollü, paralel atamalı, eşit etkililik konulu bir
+faz III çalışmadır. Çalışmada ranibizumab 0,5 mg intravitreal enjeksiyonları, PRP standart
+tedavisi ile karşılaştırılmıştır. Toplam 191 göz (%48,5) ranibizumab 0,5 mg’a randomize
+edilirken 203 göz (%51,5) PRP’ye randomize edilmiştir. Toplam 88 gözde (%22,3) başlangıçta
+DMÖ olduğu belirlenmiştir: ranibizumab ve PRP gruplarında sırasıyla 42 (% 22) ve 46 (%
+22,7) göz.
+Bu çalışmada, 2. yılda ortalama görme keskinliği değişikliği, ranibizumab grubunda +2,7 harf
+iken, PRP grubunda 0,7 harf olmuştur. En küçük karelerdeki fark 3,5 harftir (%95 GA: [0,2 ila
+6,7]).
+DRSS’de 1. yılda, PRP ile tedavi edilen gözlerin %14,6’sına (n = 199) kıyasla, ranibizumab (n
+= 189) ile tedavi edilen gözlerin %41,8’inde ≥ 2 adım iyileşme olmuştur. Ranibizumab ve lazer
+arasındaki tahmini fark %27,4’tür (%95 GA: [18,9, 35,9]).
+Tablo 6 Protokol S’de (LOCF Yöntemi) 1. yılda ≥ 2 veya ≥ 3 adım DRSS iyileştirilmesi
+veya kötüleşmesi
+Başlangıçtan Protocol S
+kategorize edilmiş Ranibizumab PRP Oran farkı (%), GA
+değişiklik 0,5 mg (N=199)
+(N=189)
+≥2 basamak iyileşme
+n (%) 79 29 27,4
+(%41,8) (%14,6) (18,9, 35,9)
+≥3 basamak iyileşme
+n (%) 54 6 25,7
+(%28,6) (%3) (18,9, 32,6)
+≥2 basamak kötüleşme
+n (%) 3 23 -9,9
+(%1,6) (%11,6) (-14,7, -5,2)
+≥3 basamak kötüleşme
+n (%) 1 8 -3,4
+(%0,5) (%4) (-6,3, -0,5)
+DRSS = diyabetik retinopati şiddet skoru, n = vizitte durumu karşılayan hasta sayısı, N =
+toplam çalışma gözü sayısı.
+1. yılda Protokol S’deki ranibizumab ile tedavi edilen grupta, DRSS’de ≥2 basamak iyileşme
+başlangıçta DMÖ’sü olmayan (%39,9) ve olan (%48,8) gözlerde tutarlı olmuştur.
+Protokol S’den elde edilen 2. yıl verilerinin analizi, PRP tedavisindeki gözlerin %23,1’ine (n =
+46) karşı ranibizumab ile tedavi edilen gruptaki gözlerin %42,3’ünde (n = 80) başlangıca göre
+DRSS’de ≥2 basamak iyileşme olduğunu göstermiştir. Ranibizumab ile tedavi edilen grupta,
+başlangıçta DMÖ’sü olan gözlerin %58,5’inde (n=24) ve DMÖ’sü olmayan gözlerin
+%37,8’inde (n = 56) başlangıca göre DRSS’de 2 basamak iyileşme gözlenmiştir.
+DRSS ayrıca, yaklaşık %75’i Asya kökenli olan toplam 875 hastayı içeren üç ayrı aktif
+kontrollü faz III DMÖ çalışmasında (ranibizumab 0,5 mg PRN’ye karşı lazer)
+değerlendirilmiştir. Bu çalışmaların bir meta-analizinde, tedavi başlangıcında orta derecede
+15 / 21şiddetli veya daha kötü proliferatif olmayan DR’li (NPDR) hasta alt grubundan
+derecelendirilebilir DRSS skorları olan 315 hastanın %48,4’ü (n = 192) ranibizumab ile tedavi
+edildiklerinde 12. ayda DRSS’de 2 basamak iyileşme yaşarken bu oran lazer ile tedavi edilen
+hastalar için %14,6’sında olmuştur (n = 123). Ranibizumab ile lazer arasındaki tahmini fark
+%29,9’dur (%95 GA: [20, 39,7]). Orta derece veya daha iyi NPDR’si olan DRSS açısından
+derecelendirilebilir 405 hastada, ranibizumab ve lazer gruplarının sırasıyla %1,4 ve %0,9’unda
+≥2 basamak DRSS iyileşmesi gözlenmiştir.
+KNV’ye bağlı (PM ve yaş tip YBMD’ye sekonder hariç) görme bozukluğu tedavisi
+KNV’ye bağlı görme bozukluğu olan hastalarda LUCENTİS’in klinik güvenliliği ve etkililiği,
+çift kör, plasebo kontrollü pivot çalışma G2301’in (MINERVA) 12 aylık verilerine dayalı
+olarak değerlendirilmiştir. Bu çalışmada 178 erişkin hasta 2:1 oranında aşağıdakilerden birini
+almak üzere randomize edilmiştir:
+ Başlangıçta ranibizumab 0,5 mg, ardından görme keskinliği ve/veya anatomik
+parametreler (örn. görme kesinliğinde bozukluk, intraretinal/subretinal sıvı, hemoraji
+veya sızıntı) ile değerlendirilen hastalık aktivitesinin yön verdiği hasta bazında
+düzenlenen doz rejimi;
+ Başlangıçta plasebo enjeksiyonu, ardından hastalık aktivitesinin yön verdiği hasta
+bazında düzenlenen doz rejimi.
+2. ayda tüm hastalar gereklilik bazında açık etiketli ranibizumab tedavisi almıştır.
+MINERVA çalışmasının önemli sonuç ölçümleri Tablo 7’de özetlenmektedir. Görmede bir
+iyileşme gözlenmiştir ve buna 12 aylık periyotta merkezi altalan kalınlığında bir azalma eşlik
+etmiştir.
+12 aylık sürede uygulanan enjeksiyon sayısı ranibizumab kolunda 5,8 iken 2. aydan itibaren
+ranibizumab almaya uygun olan plasebo kolu hastalarında 5,4’tür. Plasebo kolunda 59 hastanın
+7’si 12 aylık periyotta çalışma gözüne ranibizumab tedavisi almamıştır.
+Tablo 7 Ay 2’de sonuçlar (MINERVA)
+Ranibizumab Plasebo (n=59)
+0,5 mg (n=119)
+Başlangıçtan Ay 2’ye ortalama EDGK değişikliği 9,5 harf -0,4 harf
+a
+Ay 2’de başlangıca göre ≥15 harf kazanan ya da %31,4 %12,3
+84 harfe ulaşan hastalar
+Ay 2’de başlangıca göre >15 harf kaybetmeyen %99,2 %94,7
+hastalar
+Başlangıçtan Ay 2’ye a CSFT azalması b 77 mikrometre -9,8 mikrometre
+a Plasebo kontrolü ile tek yönlü p<0,001 karşılaştırması
+b CSFT – merkezi retina alt alan kalınlığı
+2. ayda plasebo kontrol karşısında ranibizumab karşılaştırıldığında gerek genel anlamda
+gerekse başlangıçtaki etiyoloji alt gruplarında tutarlı tedavi etkisi gözlemlenmiştir:
+16 / 21Tablo 8 Genel ve etyolojik alt gruplara göre tedavi etkisi
+Genel ve başlangıçtaki etiyolojiye Plaseboya kıyasla Hasta sayısı [n]
+göre tedavi etkisi [harf] (tedavi+plasebo)
+Genel 9,9 178
+Angioid çizgileri 14,6 27
+Post-enflamatuvar retinokoroidopati 6,5 28
+Santral seröz korioretinopati 5 23
+İdiyopatik korioretinopati 11,4 63
+Çeşitli etiyolojiler a 10,6 37
+a diğer alt gruplara dahil olmayan, düşük görülme sıklıklı farklı etiyolojileri kapsar
+Pivot çalışma G2301’de (MINERVA) KNV’ye sekonder görme bozukluğu olan 12-17
+yaşlarında beş adölesan hasta başlangıçta ranibizumab 0,5 mg ile açık etiketli tedavi, ardından
+erişkin popülasyonunda olduğu gibi bireyselleştirilmiş tedavi almıştır. EDGK beş hastanın
+tümünde başlangıçtan 12. aya 5 ila 38 harf (ortalama 16,6 harf) aralığında iyileşme göstermiştir.
+Görmedeki iyileşmeye 12 aylık periyotta merkezi alt alan kalınlığında stabilleşme veya azalma
+eşlik etmiştir. 12 aylık sürede çalışma gözüne verilen ranibizumab enjeksiyonlarının ortalama
+sayısı 3 olmuştur (aralık 2 ila 5). Genel olarak ranibizumab tedavisi iyi tolere edilmiştir.
+Pediyatrik popülasyon:
+Preterm bebeklerde ROP tedavisi
+Preterm bebeklerde ROP tedavisi için LUCENTİS 0,2 mg’ın klinik güvenliliği ve etkililiği,
+lazer tedavisi ile karşılaştırıldığında intravitreal enjeksiyon olarak verilen 0,2 mg ve 0,1 mg
+ranibizumabı değerlendirmek üzere tasarlanmış randomize, açık etiketli, 3 kollu, paralel gruplu
+üstün etkililik çalışması H2301’in (RAINBOW) 6 aylık verilerine dayanılarak
+değerlendirilmiştir. Her gözde aşağıdaki retina bulgularından birine sahip olan hastalar uygun
+kabul edilmiştir:
+• Zon I, evre 1+, 2+, 3 veya 3+ hastalık veya
+• Zon II, evre 3+ hastalık veya
+• Agresif posterior (AP) ROP
+Bu çalışmada 225 hasta, intravitreal ranibizumab 0,2 mg (n = 74), 0,1 mg (n = 77) veya lazer
+tedavisi (n = 74) almak üzere 1: 1: 1 oranında randomize edilmiştir.
+İlk çalışma tedavisinden 24 hafta sonra her iki gözde aktif ROP yokluğu ve olumsuz yapısal
+sonuçların yokluğu ile ölçülen tedavi başarısı, lazer tedavisine (%66,2) kıyasla 0,2 mg
+ranibizumab (%80) ile en yüksek düzeyde olmuştur (Bkz. Tablo 9). Ranibizumab 0,2 mg ile
+tedavi edilen hastaların çoğuna (%78,1) göz başına tek bir enjeksiyon yapılmıştır.
+17 / 21Tablo 9 24. Haftadaki Sonuçlar (RAINBOW)
+Tedavi başarısı
+Tedavi n/M (%) %95 GA Karşılaştırma Oran oranı %95 GA p değerib
+(OR)a
+Ranibizumab 56/70 (80) (0,6873, Lazer karş. 2,19 (0,9932, 0,0254
+0,2 mg 0,8861) Ranibizumab 4,8235)
+(N=74) 0,2 mg
+Lazer tedavisi 45/68 (0,5368,
+(N=74) (66,2) 0,7721)
+GA = güven aralığı, M = primer etkinlik sonucu ile ilgili eksik değeri olmayan toplam hasta
+sayısı (girilen değerler dahil), n = ilk çalışma tedavisinden 24 hafta sonra her iki gözde aktif
+ROP bulunmayan ve olumsuz yapısal sonuç bulunmayan hasta sayısı (girilen değerler dahil).
+Bir hasta 24. haftadan önce ya da 24. haftada ölmüş veya çalışma tedavisini değiştirmişse,
+hastanın 24. haftada aktif ROP ve olumsuz yapısal sonuçları olduğu kabul edilmiştir.
+a Oran oranı, tabaka faktörü olarak başlangıçta (bölge I ve II; CRF başına) ROP bölgesi
+ile Cochran Mantel Haenszel testi kullanılarak hesaplanır.
+b İkili karşılaştırma için p değeri tek taraflıdır. Birincil sonlanım noktası için, tek taraflı p
+değeri için önceden belirlenmiş anlamlılık seviyesi 0,025’tir.
+Çalışmada 24 hafta boyunca, ranibizumab 0,2 mg grubunda daha az hasta, lazer grubuna kıyasla
+yanıt eksikliğinden dolayı başka bir tedavi yöntemine geçmiştir (%14,9’a karşı %24,3). Lazer
+tedavisine (7 hasta, %10,1) kıyasla ranibizumab 0,2 mg (1 hasta, %1,4) için olumsuz yapısal
+sonuçlar daha az bildirilmiştir.
+Avrupa İlaç Ajansı, neovasküler YBMD, DMÖ’ye bağlı görme bozukluğu, RVT’ye sekonder
+maküler ödeme bağlı görme bozukluğu, KNV’ye bağlı görme bozukluğu ve diyabetik
+retinopatide pediyatrik popülasyonun tüm alt kümelerinde LUCENTİS ile çalışma sonuçlarını
+sunma zorunluluğunu iptal etmiştir (pediyatrik kullanım hakkında bilgi için bkz. Bölüm 4.2
+Pozoloji ve uygulama şekli). Ayrıca Avrupa İlaç Ajansı, ROP için pediyatrik popülasyonun
+aşağıdaki alt kümelerinde LUCENTİS ile yapılan çalışmaların sonuçlarını sunma
+yükümlülüğünü iptal etmiştir: yeni doğan bebekler, bebekler, çocuklar ve adölesanlar.
+5.2 Farmakokinetik özellikler
+Genel özellikler
+Emilim:
+Neovasküler YBMD’li hastalara aylık intravitreal LUCENTİS uygulamasını takiben serum
+ranibizumab konsantrasyonları, genellikle VEBF’nin biyolojik aktivitesini %50 inhibe etmesi
+için gerekli ranibizumab konsantrasyonlarının altındaki en yüksek değerlerden (C ) düşüktür
+maks
+(in vitro hücre proliferasyonu tayininde değerlendirildiği gibi 11-27 ng/ mL). C 0,05 ila 1
+maks
+mg/göz doz aralığında dozla orantılıdır. Sınırlı sayıdaki DMÖ hastasında serum
+konsantrasyonları, neovasküler YBMD’li hastalarda gözlenen değerler ile karşılaştırıldığında
+biraz daha yüksek bir sistemik maruziyetin olasılık dışı bırakılamayacağını göstermektedir.
+RVT hastalarında serum ranibizumab konsantrasyonları, neovasküler YBMD’li hastalarda
+gözlenenler ile karşılaştırıldığında benzer veya daha hafif yüksek bulunmuştur.
+Dağılım:
+Intravitreal yolla uygulandığından dağılım bilgisi mevcut değildir.
+18 / 21Biyotransformasyon:
+Intravitreal yolla uygulandığından biyotransformasyon bilgisi mevcut değildir.
+Eliminasyon:
+Popülasyon farmakokinetik analizine ve 0,5 mg dozla tedavi edilen, neovasküler YBMD
+hastalarında, ranibizumabın serumdan kaybolmasına göre, ranibizumabın vitreusta ortalama
+eliminasyon yarılanma ömrü yaklaşık 9 gündür. LUCENTİS 0,5 mg/göz aylık intravitreal
+uygulaması ile doz uygulamasından yaklaşık 1 gün sonra elde edilen serum ranibizumab C
+maks
+değerinin genellikle 0,79 ve 2,9 ng/ mL aralığında ve C değerinin genellikle 0,07 ve 0,49
+min
+ng/mL aralığında olduğu öngörülmektedir. Serum ranibizumab konsantrasyonlarının, vitreal
+ranibizumab konsantrasyonlarından yaklaşık 90.000 kat daha düşük olduğu belirtilmektedir.
+Doğrusallık / doğrusal olmayan durum:
+Intravitreal yolla uygulandığından bu bilgi mevcut değildir.
+Hastalardaki karakteristik özellikler
+Böbrek yetmezliği: Böbrek yetmezliği olan hastalarda LUCENTİS’in farmakokinetiğini
+incelemek için herhangi bir klinik çalışma yürütülmemiştir. Neovasküler YBMD hastalarına
+ilişkin bir popülasyon farmakokinetiği analizinde, hastaların %68’inde (136/200) böbrek
+yetmezliği (%46,5 hafif [50-80 mL/dakika], %20 orta [30-50 mL/dakika] ve %1,5 şiddetli [<
+30 mL/dakika]) bulunmuştur. RVT hastalarının % 48,2’sinde (253/525) renal bozukluk (% 36,4
+hafif, % 9,5 orta şiddette ve % 2,3 şiddetli) tespit edilmiştir. Sistemik klerens, hafif düşük olup
+klinik açıdan anlamlı değildir.
+Karaciğer yetmezliği: Karaciğer yetmezliği olan hastalarda LUCENTİS’in farmakokinetiğini
+incelemek için herhangi bir klinik çalışma yürütülmemiştir.
+Pediyatrik hastalar: 18 yaş altındaki hastalarda yeterli farmakokinetik veri mevcut değildir.
+Preterm ROP’lu bebeklere 0,2 mg (göz başına) dozunda intravitreal LUCENTİS uygulamasını
+takiben, serum ranibizumab konsantrasyonları, bir gözde 0,5 mg alan neovasküler YBMD’li
+erişkin hastalarda gözlenenden daha yüksek bulunmuştur. Bir popülasyon farmakokinetik
+analizine dayanarak, C ve EAA ’daki farklılıklar sırasıyla yaklaşık 16 kat ve 12 kat daha
+maks son
+yüksektir. Görünen sistemik yarılanma ömrü yaklaşık 6 gündür. Bir
+farmakokinetik/farmakodinamik analizi, sistemik ranibizumab konsantrasyonları ile sistemik
+VEBF konsantrasyonları arasında net bir ilişki göstermemiştir.
+Yaşlılar: Yaşlı hastalarda doz ayarlamasına gerek yoktur.
+Cinsiyet: Cinsiyet baz alınarak doz ayarlamasına gerek yoktur.
+Etnik köken: Beyaz ırk mensubu dışındaki gruplarda tedavi ile ilgili deneyimler kısıtlıdır.
+5.3 Klinik öncesi güvenlilik verileri
+Sinomolgus maymunlarına 26 haftaya kadar iki haftada bir 0,25 mg/göz ve 2 mg/göz arasındaki
+dozlarda uygulanan iki taraflı intravitreal ranibizumab doza bağlı oküler etkilerle
+sonuçlanmıştır.
+İntraoküler enjeksiyondan 2 gün sonra tepe noktasına ulaşan ön kamarada flare ve hücrelerde
+doza bağlı artışlar saptanmıştır. İnflamatuar yanıtın şiddeti genellikle takip eden enjeksiyonlarla
+ya da iyileşme sırasında azalmıştır. Arka bölmede doza bağlı azalma eğiliminde olan ve
+genellikle tedavi süresinin sonuna kadar süren vitreus hücre infiltrasyonu ve uçuşan noktalar
+saptanmıştır. 26 haftalık çalışmada vitreus inflamasyonunun şiddeti enjeksiyon sayısıyla
+artmıştır. Ancak bunun geri dönüşümlü olduğu ve iyileşmeden sonra ortadan kalktığı
+19 / 21gözlenmiştir. Arka kamara inflamasyonunun yapısı ve zamanlaması klinik açıdan önemli
+olmayabilen bir immün aracılı antikor yanıtını düşündürmektedir. Bazı hayvanlarda nispeten
+uzun olan şiddetli inflamasyon döneminden sonra, lensteki değişikliklerin şiddetli inflamasyona
+ikincil olduğunu gösteren katarakt oluşumu gözlenmiştir. İntravitreal enjeksiyonları takiben
+dozdan bağımsız olarak doz sonrası göz içi basıncında geçici bir yükselme gözlenmiştir.
+Mikroskopik göz değişiklikleri inflamasyonla ilişkili olmuş, dejeneratif süreç göstermemiştir.
+Bazı gözlerin optik diskinde granülomatöz inflamatuar değişiklikler kaydedilmiştir. İyileşme
+dönemi sırasında bu arka bölme değişiklikleri azalmış ve bazı vakalarda kaybolmuştur.
+İntravitreal uygulamayı takiben herhangi bir sistemik toksisite belirtisi saptanmamıştır.
+Uygulama yapılan hayvanların bir alt grubunda ranibizumaba karşı serum ve vitreus antikorları
+bulunmuştur.
+Herhangi bir karsinojenisite veya mutajenisite verisi bulunmamaktadır.
+Gebe maymunlarda, bir en kötü durum olarak klinik maruziyetin 0,9-7 katı maksimal sistemik
+maruziyetlere neden olan intravitreal ranibizumab tedavisi, gelişimsel toksisite veya
+teratojenisiteye yol açmamıştır ve plasentanın ağırlığı ya da yapısı üzerinde bir etki
+yapmamıştır; diğer yandan, farmakolojik etkisine dayalı olarak ranibizumab potansiyel olarak
+teratojenik ve embriyo-/fetotoksik olarak değerlendirilmelidir.
+Embriyo-fetal gelişim üzerinde ranibizumab aracılı etkilerin olmaması büyük olasılıkla Fab
+parçasının plasentayı geçememesi ile bağlantılıdır. Bununla birlikte yüksek maternal
+ranibizumab serum düzeyleri ve fetal serum ranibizumab varlığı ile bir vaka tanımlanmış olup,
+bu durum anti-ranibizumab antikorların ranibizumab için taşıyıcı bir protein olarak
+davrandığını (Fc bölgesini içeren) böylece maternal serum klirensini azaltarak, plasental
+aktarıma yol açtığını düşündürmektedir. Embriyo-fetal geliştirme araştırmaları sağlıklı gebe
+hayvanlarda yürütüldüğünden ve hastalık (diyabet gibi) plasentanın bir Fab parçacığına
+geçirgenliğini etkileyebileceğinden bu vakanın sonuçları dikkatle yorumlanmalıdır. (Bkz.
+Bölüm 4.6 Gebelik ve laktasyon)
+6. FARMASÖTİK ÖZELLİKLER
+6.1 Yardımcı maddelerin listesi
+,-trehaloz dihidrat
+L-Histidin hidroklorür monohidrat
+L-Histidin
+Polisorbat 20
+Enjeksiyonluk su
+6.2 Geçimsizlikler
+Geçimlilik araştırmaları bulunmadığından, bu tıbbi ürün başka tıbbi ürünlerle
+karıştırılmamalıdır.
+6.3 Raf ömrü
+36 ay
+6.4 Saklamaya yönelik özel tedbirler
+Buzdolabında (2-8ºC) saklayınız.
+20 / 21Kullanımdan önce açılmamış flakon oda sıcaklığında (25ºC) en fazla 24 saat saklanabilir.
+Ürün kesinlikle dondurulmamalıdır. Ürün donmuş ise çözüp kullanılmamalıdır.
+Bu ürün veya ambalajı herhangi bir bozukluk içeriyorsa kullanılmamalıdır.
+Flakonu ışıktan korumak için dış karton ambalajında saklayınız.
+6.5 Ambalajın niteliği ve içeriği
+Klorobutil kauçuk tapalı bir cam flakon (renksiz tip I cam) içinde 0,23 mL enjeksiyonluk
+LUCENTİS çözeltisi. Bir ambalaj; bir flakon ve şişe içeriğinin çekilmesi için bir filtreli iğne
+içermektedir.
+6.6 Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+Flakonlar sadece tek kullanım içindir (Bölüm 4.2 Pozoloji ve uygulama şekli’ne bakınız).
+Kullanılmamış olan ürünler ya da atık materyaller “Tıbbi Atıkların Kontrolü Yönetmeliği” ve
+“Ambalaj Atıklarının Kontrolü Yönetmelikleri”ne uygun olarak imha edilmelidir.
+7. RUHSAT SAHİBİ
+Novartis Sağlık, Gıda ve Tarım Ürünleri San. ve Tic. A.Ş.
+Kavacık/Beykoz/İstanbul
+8. RUHSAT NUMARASI
+124/44
+9. İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi: 27.03.2008
+Ruhsat yenileme tarihi: 06.05.2016
+10. KÜB’ÜN YENİLENME TARİHİ
+21 / 21

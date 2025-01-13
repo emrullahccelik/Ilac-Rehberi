@@ -1,0 +1,637 @@
+KISA ÜRÜN BİLGİSİ
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+GESİTA 500 mg / 50 ml konsantre infüzyonluk çözelti
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde:
+Her flakon 500 mg gemsitabine eşdeğer miktarda 569.5 mg gemsitabin hidroklorür içerir.
+Yardımcı maddeler:
+Her 500 mg’lık flakon 53.75 mg sodyum içerir.
+Sodyum asetat trihidrat 68 mg
+Sodyum hidroksit 74 mg
+Yardımcı maddeler için 6.1’e bakınız.
+3. FARMASÖTİK FORM
+Konsantre infüzyonluk çözelti
+GESİTA berrak, renksiz ya da neredeyse renksiz çözelti görünümündedir.
+4. KLİNİK ÖZELLİKLER
+4.1. Terapötik endikasyonlar
+Mesane kanseri: Gemsitabin, tek başına veya platin türevi ilaçlarla birlikte ileri evre (lokal ileri
+veya metastatik) mesane kanserinin tedavisinde endikedir.
+Küçük hücreli dışı akciğer kanseri: Gemsitabin, lokal ileri evre veya metastatik küçük hücreli
+dışı akciğer kanseri tedavisinde sisplatin ile birlikte ilk basamakta endikedir. Sisplatinin
+kontrendike olduğu hastalarda tek başına ya da sitostatik ilaçlarla birlikte kullanılabilir.
+Meme kanseri: Gemsitabin, lokal ileri evre veya metastatik meme kanserinde kombinasyon
+tedavisi bünyesinde endikedir. Klinik olarak kontrendike olmadığı takdirde, önceki tedavide
+antrasiklin uygulanmış olmalıdır.
+Pankreas kanseri: Gemsitabin, lokal olarak ilerlemiş veya metastatik pankreas adenokarsinomlu
+yeterli kemik iliği rezervi olan iyi durumdaki hastaların tedavisi için endikedir.
+Over kanseri: Gemsitabin, platin ya da taksana dirençli nüks over kanseri tedavisinde endikedir.
+1/174.2. Pozoloji ve uygulama şekli
+Sitotoksik ilaçlar konusunda deneyimli bir hekim tarafından veya onunla konsülte edilerek
+kullanılmalıdır.
+Pozoloji/uygulama sıklığı ve süresi:
+Mesane kanseri:
+Tek başına kullanım: Önerilen gemsitabin dozu 30 dakikalık intravenöz infüzyon ile uygulanmak
+üzere, 1250 mg/m²’dir. Doz her bir 28 günlük kürün 1., 8. ve 15. günlerinde verilmelidir.
+Ardından bu dört haftalık kür tekrarlanır. Hasta tarafından yaşanan toksisiteye bağlı olarak, bir
+kür sırasında veya kürler arasında doz azaltılmasına gidilebilir.
+Kombine kullanım: Önerilen gemsitabin dozu 30 dakikalık infüzyon ile uygulanmak üzere, 1000
+mg/m²’dir. Doz her bir 28 günlük kürün 1., 8. ve 15. günlerinde sisplatin ile birlikte verilmelidir.
+Sisplatin, 70 mg/m² gemsitabinin ardından 1. günde veya 28 günlük kürün 2. gününde verilmesi
+önerilmektedir. Ardından bu dört haftalık kür tekrarlanır. Hastada gözlenen toksisiteye bağlı
+olarak, bir kür sırasında veya kürler arasında doz azaltılmasına gidilebilir. Bir klinik çalışma
+sisplatin 100 mg/m² dozunda kullanıldığında daha fazla kemik iliği baskılanması olduğunu
+göstermiştir.
+Over kanseri:
+Tek başına kullanım: Önerilen gemsitabin dozu 30 dakikalık intravenöz infüzyon ile uygulanmak
+üzere, 800-1250 mg/m²’dir. Doz her bir 28 günlük kürün 1., 8. ve 15. günlerinde verilmelidir.
+Ardından bu dört haftalık kür tekrarlanır. Hastada gözlenen toksisiteye bağlı olarak, bir kür
+sırasında veya kürler arasında doz azaltılmasına gidilebilir.
+Kombine kullanım: Önerilen gemsitabin dozu 30 dakikalık intravenöz infüzyon ile uygulanmak
+üzere, 1000 mg/m²’dir. Doz karboplatin ile kombine olarak her bir 21 günlük kürün 1. ve 8.
+günlerinde verilmelidir. Gemistabinin ardından karboplatin 1. günde dakikada 4.0 mg/ml’lik
+EAA hedeflenerek verilir. Hastada gözlenen toksisiteye bağlı olarak, bir kür sırasında veya kürler
+arasında doz azaltılmasına gidilebilir.
+Meme kanseri:
+Kombine kullanım: Gemsitabin, paklitaksel ile kombine olarak: 1. günde intravenöz infüzyon
+olarak yaklaşık 3 saatlik sürede paklitaksel (175 mg/m²) uygulamasını takiben, her bir 21 günlük
+kürün 1. ve 8. günlerinde 30 dakikalık intravenöz infüzyon şeklinde gemsitabin (1250 mg/m²)
+dozunda verilir. Hastada gözlenen toksisiteye bağlı olarak, bir kür sırasında veya kürler arasında
+doz azaltılmasına gidilebilir. Gemsitabin + paklitaksel kombinasyonuna başlanmadan önce
+hastaların mutlak granülosit sayısı en az 1,500 (x106/l) olmalıdır.
+Küçük hücreli dışı akciğer kanseri:
+Tek başına kullanım: Önerilen gemsitabin dozu 30 dakikalık intravenöz infüzyon ile uygulanmak
+üzere, 1000 mg/m²’dir. Bu rejim üç hafta süreyle haftada bir kez tekrarlanmalı ve arkasından bir
+hafta dinlenme dönemine geçilmelidir. Bu dört haftalık siklus daha sonra tekrarlanır. Hastada
+gözlenen toksisiteye bağlı olarak, bir kür sırasında veya kürler arasında doz azaltılmasına
+gidilebilir.
+Kombine kullanım: Sisplatin ile birlikte gemsitabin iki doz rejimi kullanılarak araştırılmıştır. Bir
+rejimde üç haftalık takvim, diğerinde dört haftalık takvim kullanılmıştır. Üç haftalık takvimde
+2/17kullanılan gemsitabinin dozu 1250 mg/m²’dir ve 30 dakikalık intravenöz infüzyonla 21 günlük
+kürün 1. ve 8. günlerinde verilmiştir. Hastada gözlenen toksisiteye bağlı olarak, bir kür sırasında
+veya kürler arasında doz azaltılmasına gidilebilir.
+Dört haftalık sürede kullanılan gemsitabinin dozu 1000 mg/m²dir ve 30 dakikalık intravenöz
+infüzyonla 28 günlük kürün 1., 8. ve 15. günlerinde verilmiştir. Hastada gözlenen toksisiteye
+bağlı olarak, bir kür sırasında veya kürler arasında doz azaltılmasına gidilebilir.
+Pankreas kanseri:
+Önerilen gemsitabin dozu 30 dakikalık intravenöz infüzyon olarak uygulanan 1000 mg/m² vücut
+yüzey alanıdır. Bu uygulama 7 haftaya dek varan bir süre ile haftada bir olarak tekrarlanmalı ve
+ardından bir hafta ara verilmelidir. Bunu izleyen kürlerde gemsitabin üç haftalık dönemlerle
+haftada bir kez uygulanmalı ve ardından bir hafta ara verilmelidir. Hastada gözlenen toksisiteye
+bağlı olarak, devam etmekte olan bir kür sırasında veya bir sonraki kürde doz azaltılmasına
+gidilebilir.
+Toksisite izlenmesi ve toksisiteye bağlı olarak doz değişikliği
+Hematolojik olmayan toksisiteye bağlı olarak doz değişikliği
+Hematolojik olmayan toksisiteyi belirlemek için renal ve hepatik fonksiyonların periyodik olarak
+fiziksel muayene ve kontrolü yapılmalıdır. Hastada gözlenen toksisite derecesine bağlı olarak her
+kürle birlikte ya da kür süresince doz azaltılması yapılabilir. Genelde, ciddi (sınıf 3 veya 4)
+hematolojik olmayan toksisitede, bulantı/kusma haricinde gemsitabinle tedavi hekimin kararına
+bağlı olarak kesilir ya da azaltılır. Doz hekimin görüşüne göre toksisite konusu çözümleninceye
+kadar kesilmelidir.
+Kombinasyon tedavisinde sisplatin, karboplatin ve paklitakselin doz ayarlaması için ilgili Kısa
+Ürün Bilgisine başvurunuz.
+Hematolojik toksisiteye bağlı olarak doz değişikliği
+Kürün başlanması
+Tüm endikasyonlarda, her dozdan önce hastanın trombosit ve granülosit sayılarının izlenmesi
+gerekir. Kürün başlanmasından önce hastaların mutlak granülosit sayısının en az 1,500 (x106/l)
+ve trombosit sayısı da 100,000 (x106/l) olmalıdır.
+Kür boyunca
+Gemsitabinin kür boyunca doz değişikliği aşağıdaki tablolara göre yapılmalıdır:
+Tek başına ya da sisplatinle kombinasyon halinde verilen gemsitabinin mesane
+kanseri, küçük hücreli dışı akciğer kanseri, pankreas kanseri kürü boyunca doz
+değişikliği
+Mutlak granülosit sayısı Trombosit sayısı Standart Gesita dozu
+(x 106/l) (x 106/l) yüzdesi (%)
+>1,000 ve >100,000 100
+500-1,000 veya 50,000-100,000 75
+<500 veya <50,000 Dozu atla*
+3/17*Atlanan tedavi mutlak granülosit sayısı en az 500 (x106/l) ve trombosit sayısı 50,000
+(x106/l) e ulaşmadan önce küre dahil edilmemelidir.
+Paklitakselle kombinasyon halinde verilen gemsitabinin meme kanseri kürü boyunca doz
+değişikliği
+Mutlak granülosit Trombosit sayısı
+Standart Gesita dozu
+sayısı (x106/l)
+yüzdesi (%)
+(x106/l)
+>1,200 ve >75,000 100
+1000-<1,200 veya 50,000-75,000 75
+700-<1,000 ve ≥50,000 50
+<700 veya <50,000 Dozu atla*
+* Atlanan tedavi küre dahil edilmemelidir. Tedaviye bir sonraki kürün 1. gününde mutlak
+granülosit sayısı en az 1,500 (x106/l) ve trombosit sayısı 100,000 (x106/l) e ulaşınca yeniden
+başlanır.
+Karboplatinle kombinasyon halinde verilen gemsitabinin over kanseri kürü boyunca doz
+değişikliği
+Mutlak granülosit sayısı Trombosit sayısı Standart Gesita dozu
+(x106/l) (x106/l) yüzdesi (%)
+>1,500 ve ≥100,000 100
+1000-1,500 veya 75,000-100,000 50
+<1000 veya <75,000 Dozu atla*
+* Atlanan tedavi küre dahil edilmemelidir. Tedaviye bir sonraki kürün 1. gününde mutlak
+granülosit sayısı en az 1,500 (ve trombosit sayısı 100,000 (x106/l)’e ulaşınca yeniden başlanır.
+Tüm endikasyonlar için, sonraki kürlerde hematolojik toksisiteye bağlı olarak doz değişikliği
+Aşağıdaki hematolojik toksisiteler görüldüğünde gemsitabin dozu orijinal kür başlangıç dozunun
+%75’ine azaltılmalıdır:
+• Mutlak granülosit sayısı < 500 x106/l, 5 günden daha fazla
+• Mutlak granülosit sayısı <100 x106/l, 3 günden daha fazla
+• Febril nötropeni
+• Trombosit < 25,000 x 106/l
+• Toksisiteden dolayı kürün 1 haftadan daha fazla gecikmesi
+Uygulama şekli:
+Gemsitabin infüzyon sırasında iyi tolere edilmekte olup, ayaktan uygulanabilir. Eğer
+ekstravazasyon ortaya çıkacak olursa, genel olarak infüzyon derhal durdurulmalı ve başka bir
+damardan tekrar başlatılmalıdır. Uygulama sonrasında hasta dikkatle izlenmelidir.
+Gerekli miktarda çözelti aseptik koşullar altında uygun infüzyon torbasına veya şişesine
+konulmalıdır. Çözelti hazırlandığı gibi veya % 5 glukoz çözeltisi veya % 0.9’luk sodyum klorür
+çözeltisi ile daha fazla seyreltilerek uygulanabilir. Sıvılar elle çevrilerek karıştırılır.
+4/17Seyreltme talimatı:
+1. Seyreltme sırasında ve gemsitabinin intravenöz uygulaması için ileri seyreltmeleri aseptik
+teknik kullanılarak yapınız.
+2. Parenteral tıbbi ürünler uygulamadan önce renk değişikliği ve partikül madde açısından gözle
+kontrol edilmelidir. Eğer partikül madde gözlenirse, uygulanmamalıdır.
+Özel popülasyonlara ilişkin ek bilgiler:
+Böbrek/Karaciğer yetmezliği:
+Yapılan klinik çalışmalarda bu hasta popülasyonunda net doz tavsiyesine olanak verecek yeterli
+bilgi olmadığından gemsitabin böbrek veya karaciğer yetmezliği olan hastalarda dikkatle
+kullanılmalıdır (bkz. bölüm 4.4 ve 5.2).
+Pediyatrik popülasyon:
+Güvenlilik ve etkililikle ilgili yetersiz veri olduğundan gemsitabinin pediyatrik yaş grubunda (18
+yaş altındaki çocuklar) kullanılması tavsiye edilmemektedir.
+Geriyatrik popülasyon:
+Gemsitabin 65 yaş üzeri hastalarda iyi tolere edilmektedir. Diğer tüm hastalara yapılan
+tavsiyelerden ayrı olarak yaşlılarda doz değişikliği ile ilgili bir öneri yapacak bir kanıt
+bulunmamaktadır (bkz. bölüm 5.2).
+4.3. Kontrendikasyonlar
+Etkin madde veya yardımcı maddelerden herhangi birine karşı aşırı duyarlılık.
+Laktasyon (bkz. bölüm 4.6)
+4.4. Özel kullanım uyarıları ve önlemleri
+İnfüzyon süresinin 60 dakikadan fazla uzaması ve dozlama sıklığının artması toksisiteyi
+artırmaktadır.
+Hematolojik toksisite
+Gemsitabin lökopeni, trombositopeni ve anemi şeklinde görülen kemik iliği fonksiyonunu
+baskılayıcı etki gösterebilir.
+Her doz öncesinde gemsitabin alan hastalarda trombosit, lökosit ve granülosit sayıları kontrol
+edilmelidir. İlacın neden olduğu kemik iliği depresyonu tespit edildiğinde tedavinin durdurulması
+ya da değiştirilmesi düşünülmelidir (bkz. bölüm 4.2). Ancak, miyelosupresyon kısa süreli olup
+doz azaltmasına ve nadiren ilacın kesilmesine neden olmaz.
+Periferik kan sayımları gemsitabin tedavisi kesildikten sonra da düşmeye devam edebilir. Kemik
+iliği fonksiyon bozukluğu olan hastalarda, tedaviye dikkatle başlanmalıdır. Diğer sitotoksik
+tedavilerle olduğu gibi, gemsitabin tedavisi diğer kemoterapötiklerle birlikte uygulandığında
+kümülatif kemik iliği supresyonu riski göz önünde bulundurulmalıdır.
+Karaciğer yetmezliği
+Birlikte karaciğer metastazları veya hepatit, alkolizm veya karaciğer sirozu olan hastalarda
+gemsitabin uygulaması altta yatan hepatik yetmezliği alevlendirebilir.
+5/17Karaciğer ve böbrek fonksiyonlarının (virolojik testler dahil) laboratuvar değerlendirmeleri
+periyodik olarak yapılmalıdır.
+Karaciğer yetmezliği veya böbrek fonksiyon bozukluğu olan hasta popülasyonuna açık doz
+tavsiyesinde bulunmak için yetersiz klinik çalışma olduğundan gemsitabin dikkatle
+kullanılmalıdır (bkz. bölüm 4.2).
+Eşlik eden radyoterapi
+Eşlik eden radyoterapi (birlikte veya <7 gün arayla): Toksisite rapor edilmiştir (ayrıntı ve
+kullanım önerileri için bkz. bölüm 4.5).
+Canlı aşı
+Sarıhumma aşısı ve diğer atenüe aşılar gemsitabinle tedavi olan hastalara önerilmez (bkz. bölüm
+4.5).
+Kardiyovasküler
+Gemsitabinle birlikte kardiyak ve/veya vasküler bozukluk riski olduğundan, kardiyovasküler olay
+geçmişi olan hastalarda özel dikkat gerekir.
+Pulmoner
+Gemsitabin tedavisiyle ilişkili olarak bazen ağır pulmoner etkiler (pulmoner ödem, interstisyel
+pnömoni ya da yetişkin akut respiratuar distres sendromu (ARDS)) rapor edilmiştir. Bu etkilerin
+etiyolojisi bilinmemektedir. Eğer bu gibi etkiler oluşursa, gemsitabin tedavisinin bırakılması
+düşünülmelidir. Erken destekleyici bakım, durumun düzeltilmesinde yardımcı olur.
+Böbrek
+Hemolitik üremik sendromla (HÜS) uyumlu klinik bulgular gemsitabin tedavisi gören hastalarda
+nadiren bildirilmiştir (bkz. bölüm 4.8). Hemoglobin düzeylerinin sürekli trombositopeni ile
+birlikte hızla düşmesi, serum bilirubin, serum kreatinin, kan üre azotu veya LDH’nin yükselmesi
+gibi mikro-anjiyopatik hemolitik anemi belirtisi varsa gemsitabin tedavisi hemen kesilmelidir.
+Tedavinin kesilmesine rağmen renal yetmezlik geri dönüşümlü olmayabilir ve diyaliz gerekebilir.
+Sodyum:
+GESİTA 500 mg flakon 53.75 mg sodyum içerir. Bu hastalarca kontrollü sodyum diyeti
+yapılarak dikkate alınmalıdır.
+4.5. Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+Özel hiçbir etkileşim çalışması yapılmamıştır. (bkz. bölüm 5.2).
+Radyoterapi
+Eş zamanlı (birlikte veya ≤7 gün arayla)
+Çoklu model tedavisinde toksisite gemsitabin dozu, gemsitabin uygulama sıklığı, radyasyon
+dozu, radyoterapi planlama tekniği, hedef doku ve hedef hacim gibi birçok değişik faktöre
+bağlıdır. Yapılan klinik öncesi ve klinik çalışmalar gemsitabinin radyosensitizan özelliğini
+göstermiştir. Tek bir çalışmada, gemsitabin 1,000 mg/m² dozda birbirini izleyen 6 haftaya kadar
+küçük hücreli dışı akciğer kanserli torasik radyoterapi gören hastalara uygulandığında ciddi,
+potansiyel olarak hayatı tehdit eden mukozit, özellikle özofajit ve pnömoni bilhassa büyük
+6/17hacimde radyoterapi gören hastalarda gözlenmiştir (medyan tedavi hacmi 4,795 cm3). Sonradan
+yapılan çalışmalar düşük dozlardaki gemsitabinin öngörülebilen bir toksisiteye sahip radyoterapi
+ile eşzamanlı uygulanmasının mümkün olduğunu önermektedir. Örneğin küçük hücreli dışı
+akciğer kanserinin faz II çalışmasında 66 Gy torasik radyasyon dozu gemsitabin (600 mg/m², dört
+kez) ve sisplatin (80 mg/m² iki kez) ile eşzamanlı olarak 6 hafta boyunca uygulanmıştır. Tüm
+tümör tiplerinde gemsitabinin terapötik dozlarda radyoterapi ile birlikte güvenli uygulaması için
+ideal doz rejimi henüz belirlenmemiştir.
+Eş zamanlı olmayan (7 günden fazla)
+Radyoterapiden 7 gün önce ve sonra gemsitabin uygulanmasıyla elde edilen verilerin analizi
+sonucu toksisitenin eşzamanlı verilişe göre daha fazla artmadığını göstermektedir. Verilere göre,
+radyoterapinin akut etkileri geçtikten veya radyoterapiden 1 hafta sonra gemsitabinin başlanması
+önerilmektedir.
+Hedef dokularda (örn. özofajit, kolit ve pnömoni) radyasyon hasarının hem gemsitabinin eş
+zamanlı olan hem de eş zamanlı olmayan kullanımı durumunda meydana geldiği bildirilmiştir.
+Diğerleri
+Sarıhumma ve diğer canlı atenüe aşılar özellikle immünosuprese hastalarda sistemik, muhtemelen
+ölümcül hastalık riskinden dolayı önerilmemektedir.
+4.6. Gebelik ve laktasyon
+Genel tavsiye
+Gebelik Kategorisi: D
+Çocuk doğurma potansiyeli bulunan kadınlar / Doğum kontrolü (Kontrasepsiyon)
+Gemsitabinin gebelik ve/veya fetüs/yeni doğan üzerinde zararlı farmakolojik etkileri
+bulunmaktadır. Gemsitabinle tedavi sırasında kadınlara hamile kalmamaları, kontrol altında
+olduğu hekimin uyarılması ve tedavi sonrası gebe kalınması tavsiye edilmelidir.
+GESİTA gerekli olmadıkça gebelik döneminde kullanılmamalıdır. Gebe kadınlarda gemcitabin
+kullanımına yönelik yeterli veri yoktur. Hayvan çalışmalarında reproduktif toksisite gözlenmiştir.
+Gebelik dönemi
+Gemsitabinin gebelik ve/veya fetüs/yeni doğan üzerinde zararlı farmakolojik etkileri
+bulunmaktadır. GESİTA gerekli olmadıkça gebelik döneminde kullanılmamalıdır.
+Laktasyon dönemi
+Gemsitabinin insan ya da hayvan sütü ile atılmasına ilişkin yetersiz/sınırlı bilgi mevcuttur.
+Memedeki çocuk açısından bir risk olduğu göz ardı edilemez. Emzirme sırasında gemsitabin ile
+tedavinin mutlak gerekli olduğu durumlarda, çocuğun memeden kesilmesi gerekmektedir.
+Üreme yeteneği / Fertilite
+Fertilite çalışmalarında gemsitabin, erkek farelerde hipospermatogeneze neden olmuştur (bkz.
+bölüm 5.3). Bu nedenle, gemsitabin ile tedavi edilen erkeklerin tedavi sırasında ve sonrasında 6
+aya varan bir süre ile çocuk sahibi olmaması önerilmekte ve gemsitabin ile tedaviye bağlı
+infertilite olasılığı nedeniyle gerekirse tedavi öncesinde spermlerinin dondurularak muhafazası
+konusunda daha geniş bilgi edinmelidirler.
+7/174.7. Araç ve makine kullanımı üzerindeki etkiler
+Araç ve makine kullanımı üzerindeki etkilerle ilgili bir çalışma gerçekleştirilmemiştir. Ancak,
+gemsitabin özellikle alkol kullanımı ile birlikte hafif-orta derecede uyuklamaya neden olabilir.
+Hastalar uyuklama hali geçtikten sonra araç ve makine kullanmaları konusunda uyarılmalıdırlar.
+4.8. İstenmeyen etkiler
+GESİTA tedavisiyle ilgili olarak görülen en yaygın rapor edilen advers ilaç reaksiyonları:
+Hastaların %60’ında kusma ile birlikte olan veya olmayan bulantı, karaciğer transaminazlarda
+(AST/ALT) ve alkalen fosfataz düzeylerinde yükselmeler görülmüştür. Hastaların %50’sinde
+proteinüri ve hematüri, akciğer hastalarında en yüksek görülme sıklığı olan alerjik dispne,
+hastaların yaklaşık %25’inde alerjik deri döküntüleri ve %10’unda da kaşıntı görülmüştür.
+Advers reaksiyonların yaygınlık ve şiddeti doz, infüzyon hızı ve dozlar arası süreden
+etkilenmektedir (bkz.bölüm 4.4). Doz kısıtlayıcı advers reaksiyonlar trombosit, lökosit ve
+granülosit sayılarındaki düşüşlerdir (bkz. bölüm 4.2).
+İstenmeyen etkiler, aşağıda MedDRA sistem-organ sınıfına göre ve mutlak sıklık olarak
+verilmiştir.
+Çok yaygın (≥1/10); yaygın (≥1/100 ila <1/10); yaygın olmayan (≥1/1,000 ila < 1/100); seyrek
+(≥1/10,000 ila < 1/1,000); çok seyrek (< 1/10,000), bilinmiyor (eldeki verilerden hareketle tahmin
+edilemiyor) olarak sınıflandırılır.
+Sistem Organ Sınıfı
+Çok yaygın:
+• Lökopeni (Nötropeni Sınıf 3 = % 19.3 Sınıf 4 = %6)
+Kemik iliği supresyonu hafif ile orta derecede olup çoğunlukla
+granülosit sayımını etkiler (bkz. bölüm 4.2)
+• Trombositopeni
+Kan ve lenf sistemi
+• Anemi
+bozuklukları
+Yaygın:
+• Febril nötropeni
+Çok seyrek:
+• Trombositoz
+İmmün sistem Çok seyrek:
+bozuklukları • Anaflaktoid reaksiyon
+Metabolizma ve beslenme Yaygın:
+bozuklukları • Anoreksi
+Yaygın:
+• Baş ağrısı
+Sinir sistemi bozuklukları • Uykusuzluk
+• Uyuklama
+Yaygın olmayan:
+• Serebrovasküler olay
+Yaygın olmayan:
+Kardiyak bozukluklar • Aritmiler, çoğunlukla supraventriküler yapıda
+• Kalp yetmezliği
+8/17Seyrek:
+• Miyokard enfarktüsü
+Seyrek :
+Vasküler bozukluklar • Periferik vaskülit ve kangren bulguları
+• Hipotansiyon
+Çok yaygın:
+• Dispne – genellikle hafif olup tedavi gerektirmeden hızla
+geçer
+Yaygın:
+Solunum, göğüs • Öksürük
+mediyastinal bozukluklar • Rinit
+Yaygın olmayan:
+• İnterstisyel pnömoni (bkz. bölüm 4.4)
+• Bronkospazm – genellikle hafif ve geçicidir ancak parenteral
+tedavi gerektirebilir
+Seyrek:
+• Akciğer ödemi
+• ARDS (bkz. bölüm 4.4)
+Gastrointestinal Çok yaygın:
+bozukluklar • Bulantı
+• Kusma
+Yaygın:
+• Diyare
+• Stomatit ve ağızda ülserasyon
+• Konstipasyon
+Çok seyrek:
+• İskemik kolit
+Hepatobiliyer bozukluklar Çok yaygın:
+• Karaciğer transaminazları (AST/ALT) ve alkalen fosfatazda
+yükselme
+Yaygın:
+• Bilirubin artışı
+Yaygın olmayan:
+• Karaciğer yetmezliği ve ölüm dahil ağır karaciğer
+toksisitesi
+Seyrek:
+• Gama glutamil transferazda (GGT) artış
+Çok yaygın:
+Deri ve deri altı doku • Alerjik deri döküntüleri çoğu kez kaşıntıyla ilişkili
+bozuklukları • Alopesi
+Yaygın:
+• Kaşınma
+• Terleme
+Seyrek:
+• Deri ve büllöz deri döküntülerini içeren ağır deri
+reaksiyonları
+9/17• Ülserasyon
+• Vezikül ve iltihap oluşumu
+• Kepeklenme
+Çok seyrek:
+• Toksil epidermal nekrolizis
+• Stevens-Johnson sendromu
+Kas-iskelet bozuklukları, Yaygın:
+bağ doku ve kemik • Sırt ağrısı
+hastalıkları • Miyalji
+Böbrek ve idrar yolu Çok yaygın
+hastalıkları • Hematüri
+• Hafif proteinüri
+Yaygın olmayan:
+• Böbrek yetmezliği
+• Hemolitik üremik sendrom (bkz. bölüm 4.4)
+Genel ve uygulama Çok yaygın:
+bölgesine ilişkin • Grip benzeri semptomlar – en yaygın semptomlar ateş, baş
+bozukluklar ağrısı, üşütme, kas ağrısı, asteni, ve anoreksi. Öksürük, rinit,
+keyifsizlik, terleme ve uyumada zorluklar da rapor edilmiştir.
+• Ödem/periferik ödem – yüz ödemi dahil. Tedavi
+sonlandırıldıktan sonra ödem geri dönüşümlüdür
+Yaygın:
+• Ateş
+• Asteni
+• Üşüme
+Seyrek:
+• Enjeksiyon bölgesi reaksiyonları – genellikle hafif yapıda
+Yaralanma, zehirlenme, Seyrek:
+prosedürel • Radyasyon toksisitesi (bkz. bölüm 4.5)
+komplikasyonlar • Radyasyon recall
+Meme kanserinde kombine kullanım:
+Gemsitabinin paklitaksel ile kombine kullanımında, sınıf 3 ve 4 hematolojik toksisitelerin sıklığı,
+özellikle nötropeni artar. Ancak, bu advers reaksiyonlardaki artış enfeksiyon insidansındaki
+artışla veya hemorajik olaylarla ilişkili değildir. Gemsitabinin paklitakselle kombine
+kullanımında yorgunluk ve febril nötropeni daha sık oluşur. Anemi ile ilişkili olmayan
+yorgunluk, ilk kürden sonra düzelir.
+Sınıf 3 ve 4 Advers Olaylar
+Paklitaksele karşı gemsitabin artı paklitaksel
+Hasta sayısı (%)
+Paklitaksel kolu Gemsitabin artı paklitaksel
+(N=259) kolu (N=262)
+Sınıf 3 Sınıf 4 Sınıf 3 Sınıf 4
+Laboratuvar
+Anemi 5(1.9) 1(0.4) 15(5.7) 3(1.1)
+10/17Trombositopeni 0 0 14(5.3) 1(0.4)
+Nötropeni 11(4.2) 17(6.6)* 82(31.3) 45(17.2)*
+Laboratuvar dışı
+Febril nötropeni 3(1.2) 0 12(4.6) 1(0.4)
+Yorgunluk 3(1.2) 1(0.4) 15(5.7) 2(0.8)
+Diyare 5(1.9) 0 8(3.1) 0
+Motor nöropati 2(0.8) 0 6(2.3) 1(0.4)
+Duyusal nöropati 9(3.5) 0 14(5.3) 1(0.4)
+* 7 günden daha fazla süren Sınıf 4 nötropeni kombinasyon kolunda olan hastaların %12.6’sında
+paklitaksel kolunda olan hastaların da %5’inde oluşur,
+Mesane kanserinde kombine kullanım:
+Sınıf 3 ve 4 Advers Olaylar
+MVAC’a karşı gemsitabin artı sisplatin
+Hasta sayısı (%)
+MVAC (metotreksat, Gemsitabin artı sisplatin
+vinblastin, doksorubisin ve kolu (N=262)
+sisplatin) kolu
+(N=196)
+Sınıf 3 Sınıf 4 Sınıf 3 Sınıf 4
+Laboratuvar
+Anemi 30(16) 4(2) 47(24) 7(4)
+Trombositopeni 15(8) 25(13) 57(29) 57(29)
+Laboratuvar dışı
+Bulantı ve kusma 37(19) 3(2) 44(22) 0(0)
+Diyare 15(8) 1(1) 6(3) 0(0)
+Enfeksiyon 19(10) 10(5) 4(2) 1(1)
+Stomatit 34(18) 8(4) 2(1) 0(0)
+Over kanserinde kombine kullanım:
+Sınıf 3 ve 4 Advers Olaylar
+Karboplatine karşı gemsitabin artı karboplatin
+Hasta sayısı (%)
+Karboplatin kolu Gemsitabin artı
+(N=174) karboplatin kolu (N=175)
+Sınıf 3 Sınıf 4 Sınıf 3 Sınıf 4
+Laboratuvar
+Anemi 10(5.7) 4(2.3) 39(22.3) 9(5.1)
+Nötropeni 19(10.9) 2(1.1) 73(41.7) 50(28.6)
+Trombositopeni 18(10.3) 2(1.1) 53(30.3) 8(4.6)
+Lökopeni 11(6.3) 1(0.6) 84(48.0) 9(5.1)
+11/17Laboratuvar dışı
+Hemoraji 0(0.0) 0(0.0) 3(1.8) (0.0)
+Febril nötropeni 0(0.0) 0(0.0) 2(1.1) (0.0)
+Nötropeni olmadan 1(0.6)
+0(0.0) 0(0.0) (0.0)
+enfeksiyon
+Duyusal nöropati kombinasyon kolunda tek başına karboplatin ile olandan daha sıktı
+4.9. Doz aşımı ve tedavisi
+Gemsitabinin doz aşımında kullanılabilecek bir antidot yoktur. Tek doz uygulamaları iki haftada
+bir 30 dakikalık intravenöz infüzyon tarzında 5700 mg/m² dozuna varan dozlarla klinik olarak
+kabul edilebilir toksisite düzeyleri elde edilmiştir. Eğer doz aşımı şüphesi varsa, hastanın kan
+sayımları izlenmeli ve gereğinde destekleyici tedavi yapılmalıdır.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1. Farmakodinamik özellikler
+Farmakoterapötik grup: Pirimidin analogu
+ATC Kodu: L01BC05
+Hücre kültürlerindeki sitotoksik aktivite
+Gemsitabin çok sayıda murin ve insan tümör hücrelerini içeren çeşitli kültürlerde anlamlı
+sitotoksik etki gösterir. Etkisi faz-spesifik olup, gemsitabin esas olarak DNA sentez döneminde
+(S-fazı) olan hücreleri öldürmekte ve belirli koşullarda hücre siklusunu G /S fazı geçişinde bloke
+1
+etmektedir. Gemsitabinin in vitro sitotoksik etkisi hem konsantrasyona hem de zamana
+bağımlıdır.
+Preklinik modellerde antitümor aktivite
+Hayvanlarda, antitümoral aktivite gemsitabinin uygulama sıklığına bağlıdır. Gemsitabin günlük
+olarak uygulandığında, hayvanlarda yüksek mortalite görülmüş ancak minimal antitümoral
+aktivite gözlenmiştir. Fakat eğer, gemsitabin üç veya dört günde bir verilirse, fare tümörlerinin
+geniş bir spektrumuna karşı ölümcül olmayan dozlarda anti-tümor aktivitesi görülebilir.
+Etki mekanizması
+Bir pirimidin antimetaboliti olan gemsitabin (dFdC), hücre içinde nükleozid kinazlar yoluyla
+aktif difosfat (dFdCDP) ve trifosfat (dFdCTP) nükleozidlere metabolize olur. Gemsitabin
+sitotoksik etkisi dFdCDP ve dFdCTP’ye bağlı iki ayrı mekanizma ile DNA sentezinin
+inhibisyonuna bağlıdır. İlk olarak, dFdCDP DNA sentezi için deoksinükleozid trifosfat (dCTP)
+oluşturan reaksiyonları katalize eden ribonükleotid redüktazı inhibe eder. Bu enzimin dFdCDP ile
+inhibisyonu genel olarak deoksinükleozid konsantrasyonlarında, özellikle de dCTP’de azalmaya
+yol açar. İkinci olarak da, dFdCTP DNA’da yer almak için dCTP ile yarışmaya girer (bireysel-
+güçlenme).
+Aynı yolla, az miktarda gemsitabin RNA içinde de yer alabilir. Böylece, dCTP’nin hücre içi
+konsantrayonundaki azalma dFdCTP’nin DNA yapısına girmesini kolaylaştırır. DNA polimeraz
+epsilon gemsitabini uzaklaştıramaz ve oluşan DNA zincirini onaramaz. Gemsitabin DNA
+yapısına girdikten sonra, DNA zincirinde bir nükleotidlik artış olur. Prensip olarak bu artış, hücre
+ölümüne (apoptozis) yol açan ileri düzeyde DNA sentezinin tam inhibisyonu anlamına gelir.
+12/17Klinik veri
+Mesane kanseri
+İlerlemiş veya metastatik ürotelyal transisyonel hücre karsinomalı 405 hastada yapılan randomize
+faz III çalışmasında her iki tedavi kolu (gemsitabin/sisplatin’e karşı
+metotreksat/vinblastin/adriamisin/sisplatin (MVAC)) arasında medyan sağkalım (sırasıyla 12.8
+ve 14.8 ay, p=0.547), progresyona kadar geçen süre (sırasıyla 7.4 ve 7.6 ay, p=0.842) ve cevap
+oranı (sırasıyla %49.4 ve %45.7, p=0.512) arasında bir farklılık bulunmamıştır. Ancak,
+gemsitabin ve sisplatin kombinasyonunun MVAC’a göre daha iyi toksisite profili bulunmaktadır.
+Pankreas kanseri
+İlerlemiş veya metastatik pankreas kanseri olan 126 hastada yapılan randomize faz III
+çalışmasında gemsitabin 5-florourasilden istatistiksel olarak anlamlı yüksek klinik yarar cevap
+oranı göstermiştir (sırasıyla %23.8 ve %4.8, p=0.0022). Ayrıca, gemsitabinle tedavi edilen
+hastalar 5-florourasil ile tedavi edilen hastalarla karşılaştırıldığında istatistiksel olarak anlamlı
+sağkalım süresinin 0.9’dan 2.3 aya kadar (log-rank p<0.0002) ve istatistiksel olarak anlamlı
+medyan yaşam süresinin 4.4’den 5.7 aya kadar (log-rank p<0.0024) uzadığı gözlenmiştir.
+Küçük hücreli dışı akciğer kanseri
+Opere edilemeyen lokal ileri veya metastatik küçük hücreli dışı akciğer kanseri olan 522 hastada
+yapılan randomize faz III çalışmasında, gemsitabin sisplatinle kombine halde tek başına
+sisplatine göre istatistiksel olarak anlamlı daha yüksek cevap oranı (sırasıyla %31.0 ve %12.0,
+p=<0.0001) göstermiştir. Gemsitabin/sisplatinle tedavi edilen hastalar sisplatinle tedavi edilen
+hastalarla karşılaştırıldığında progresyon süresinde 3.7 aydan 5.6 aya (log-rank p<0.0012)
+değişen istatistiksel olarak anlamlı bir uzama ve medyan yaşam süresinde de 7.6’dan 9.1 aya
+(log-rank p<0.004) değişen istatistiksel olarak anlamlı bir uzama gözlenmiştir.
+Sınıf IIIB veya IV küçük hücreli dışı akciğer kanserli 135 hastada yapılan bir başka randomize
+faz III çalışmasında gemsitabin ve sisplatin kombinasyonu sisplatin ve etoposid kombinasyonuna
+göre istatistiksel olarak anlamlı bir cevap oranı (sırasıyla %40.6 ve %21.2, p=0.025) göstermiştir.
+Gemsitabin/sisplatin ile tedavi edilen hastalar etoposid/sisplatin ile tedavi edilen hastalarla
+karşılaştırıldığında progresyon süresinde 4.3 aydan 6.9 aya (p=0.014) değişen istatistiksel olarak
+anlamlı bir artış gözlenmiştir. Her iki çalışmada tolerans her iki tedavi kolunda benzerdir.
+Over kanseri
+Randomize faz III çalışmasında, ileri epitel over kanseri olan ve platin esaslı tedaviyi
+tamamladıktan sonra en az 6 ay sonra nüks olan 365 hastada gemsitabin ve karboplatin (GCb)
+veya karboplatin (Cb) ile tedavi randomize edilmiştir. GCb ile tedavi edilen hastalar Cb ile tedavi
+edilen hastalarla karşılaştırıldığında hastalık progresyon süresinde 5.8 aydan 8.6 aya (log-rank
+p=0.0038) değişen istatistiksel olarak anlamlı bir artış gözlenmiştir. Cevap oranlarındaki farklılık
+GCb kolunda %47.2 iken Cb kolunda %30.9 (p=0.0016), medyan sağkalımdaki farklılık da
+GCb’de 18 ayken Cb kolunda 17.3 (p=0.73) olup GCb kolu tercih edilmiştir.
+Meme kanseri
+Opere edilemeyen lokal reküran veya metastatik meme kanseri olan ve adjuvan/neoadjuvan
+kemoterapi sonrası nüks olan 529 hastada yapılan bir randomize faz III çalışmasında gemsitabin
+paklitaksel ile kombine halde tek başına paklitakselle karşılaştırıldığında dokümante edilen
+hastalık progresyonu süresinde 3.98 aydan 6.14 aya (log-rank p=0.0002) değişen istatistiksel
+olarak anlamlı bir artış olmuştur. 377 ölüm sonrası, genel sağkalım gemsitabin/paklitakselle
+13/17tedavi edilen hastalarda 18.6 ay iken paklitakselle tedavi edilen hastalarda 15.8 ay (log-rank
+p=0.0489, HR 0.82), genel cevap oranı da sırasıyla %41.4 ve %26.2 (p=0.0002) bulunmuştur.
+5.2. Farmakokinetik özellikler
+Genel özellikler
+Gemsitabinin farmakokinetiği 7 çalışmada, 353 hastada incelenmiştir. Bu çalışmalara, 29 ile 79
+yaşlar arasındaki, 121 kadın ve 232 erkek katılmıştır. Bu hastalardan yaklaşık %45’inde küçük
+hücreli dışı akciğer kanseri ve %35’inde pankreas kanseri tanısı vardı.
+Aşağıdaki farmakokinetik parametreler 0.4-1.2 saat süreyle infüzyonla verilen 500-2592 mg/m²
+arasındaki dozlarda elde edildi.
+Doruk plazma konsantrasyonu infüzyon sonlandırıldıktan sonra 5 dakika içinde ölçüldü: 3.2 ve
+45.5 μg/ml. 1000 mg/m²/30 dakika dozundan sonra ana bileşenin plazma konsantrasyonu
+infüzyon sonlandırıldıktan yaklaşık 30 dakika sonra 5 μg/ml’dan daha büyük ve ilave saat için
+0.4 μg/ml’dan daha büyük bulunmuştur.
+Dağılım:
+Merkezi kompartmanın dağılım hacmi: Kadınlarda 12.4 l/m² ve erkeklerde 17.5 l/m². Bireyler
+arası farklılık % 91.9 olmuştur.
+Periferik kompartman dağılım hacmi: 47.4 l/m² olup, erkek ve kadın arasında bir farklılık
+bulunmamıştır.
+İlacın plazma proteinlerine bağlanması ihmal edilebilir düzeyde bulunmuştur.
+Yarılanma ömrü: Yaş ve cinsiyete bağlı olarak 42 ila 94 dakika arasında değişmektedir. Önerilen
+doz takviminde gemsitabin eliminasyonu infüzyona başlandıktan sonra 5 ile 11 saat içinde
+tamamlanması gerekir. Gemsitabin haftada bir kez uygulandığında birikmemektedir.
+Biyotransformasyon:
+Gemsitabin karaciğer, böbrekler, kan ve diğer dokularda sitidin aminaz tarafından hızla
+metabolize edilmektedir. Hücre içinde gemsitabin tarafından monofosfatlar, difosfatlar ve
+trifosfatlar (dFdCMP, dFdCDP ve dFdCTP) oluşturulmaktadır. Gemsitabinin difosfat ve
+trifosfatlarının aktif olduğu kabul edilmektedir. Hücre içi olarak oluşan bu metabolitler plazma
+veya idrarda tespit edilememektedir. Ana metaboliti olan 2'-deoksi-2', 2'-diflorüridin (dFdU) aktif
+olmayıp, plazma ve idrarda saptanır.
+Eliminasyon:
+Sistemik klerens cinsiyet ve yaşa bağlı olarak 29.2 l/saat/m² ile 92.2 l/saat/m² arasında
+değişmiştir. Bireyler arası farklılık %52.2 bulunmuştur. Kadınlardaki klerens erkeklerdeki
+değerlerden yaklaşık olarak %25 daha düşüktür. Hızlı olmasına rağmen klerens hem erkeklerde
+hem de kadınlarda yaşla birlikte azalır. Tavsiye edilen 1000 mg/m² gemsitabin dozu 30 dakikalık
+infüzyon olarak uygulandığında, kadınlarda ve erkeklerde görülen düşük klerens değerleri
+gemsitabin dozunda azaltmayı gerektirmemektedir.
+İdrar ile değişmeden atılan gemsitabin oranı %10’dan daha azdır.
+14/17Renal klerens: 2-7 l/saat/m².
+Uygulamadan sonraki hafta boyunca, uygulanan gemsitabin dozunun %92 ile %98’i geri
+kazanılmakta, bunun %99’u idrarda başlıca dFdU formunda ve dozun %1’i de feçesle atılır.
+dFdCTP’nin kinetiği:
+Bu metabolit periferal kan mononükleer hücrelerinde bulunmuş olup, kinetikleri bu hücrelere
+aittir. Hücre içi konsantrasyonları, 0.4-5 μg/ml düzeyinde kararlılık durumu konsantrasyonları
+oluşturan, 35-350 mg/m²/30 dakikalık gemsitabin dozlarıyla orantılı olarak artmaktadır.
+Gemsitabin plazma konsantrasyonları 5 μg/ml düzeyini aştığında, dFdCTP düzeylerinin
+artmaması, hücrelerde oluşumun doygun olduğunu düşündürür.
+Terminal eliminasyon yarı ömrü: 0.7-12 saat.
+dFdU’nun kinetiği:
+Doruk plazma konsantrasyonu, 1000 mg/m²’lik dozun 30 dakika süreyle infüzyonu sona erdikten
+3-15 dakika sonra ortaya çıkar ve 28-52 μg/ml düzeyine ulaşır. Haftada bir doz uygulamasından
+sonraki en düşük konsantrasyon, birikme olmaksızın 0.07-1.12 μg/ml arasındadır. Trifazik
+plazma konsantrasyon-zaman eğrisi terminal yarılanma ömrü 65 saattir (33-84 saat aralığında).
+Ana bileşikten dFdU oluşumu: %91 - %98
+Merkezi kompartman dağılım hacmi 18 l/m²’dir (11 - 22 l/m² aralığı).
+Dağılım hacmi (kararlı durum, Vss) 150 l/m²’dir (96 - 228 l/m² aralığı).
+Doku dağılımı: kapsamlı
+Ortalama görünür klerens: 2.5 l/saat/m² (1-4 l/saat/m² aralığı)
+Üriner atılım: Tümü
+Gemsitabin ve paklitaksel kombinasyon tedavisi
+Kombinasyon tedavisi hem gemsitabinin hem de paklitakselin farmakokinetiğini değiştirmez.
+Gemsitabin ve karboplatin kombinasyon tedavisi
+Karboplatinle kombine olarak verildiğinde gemsitabinin farmakokinetiği değişmez.
+Hastalardaki karakteristik özellikler
+Renal yetmezlik:
+Hafif ila orta derecede böbrek yetmezliğinin (GFR 30 ml/dak’dan 80 ml/dak’a kadar) gemsitabin
+farmakokinetiği üzerinde sürekli ve anlamlı bir etkisi bulunmamaktadır.
+5.3. Klinik öncesi güvenlilik verileri
+Farelerde ve köpeklerde altı ay kadar süren tekrarlanan doz çalışmalarında esas bulgu uygulama
+şeması ve doza bağlı hematopoetik baskılanma olup bu geri dönüşlüdür.
+Gemsitabin, in vitro mutasyon testinde ve in vivo kemik iliği mikronukleus testinde mutajeniktir.
+Kalsijonik potansiyelini değerlendirmek için uzun süreli hayvan çalışmaları yapılmamıştır.
+Fertilite çalışmalarında, gemsitabin erkek farelerde geri dönüşlü, hipospermatogenez
+oluşturmuştur. Dişi fertilitesi üzerine etki göstermemiştir.
+15/17Deneysel hayvan çalışmalarının değerlendirmesinde üreme toksisitesi olduğu gösterilmiştir örn.
+doğum kusuru ve embriyo veya fetüsün gelişimi üzerine diğer etkiler, gebelik süresi veya peri ve
+postnatal gelişim değişikliği.
+6. FARMASÖTİK ÖZELLİKLER
+6.1. Yardımcı maddelerin listesi
+Sodyum asetat trihidrat
+Sodyum hidroksit
+Enjeksiyonluk su
+6.2. Geçimsizlikler
+Bu tıbbi ürün diğer tıbbi ürünlerle karıştırılmamalıdır.
+6.3. Raf ömrü
+Açılmamış flakonlar: 24 ay
+Seyreltilerek hazırlanan çözelti: Mikrobiyolojik açıdan, hazırlanan çözelti hemen kullanılmalıdır.
+Hemen kullanılmazsa, hazırlanan çözeltinin kullanım öncesi saklama süresi ve koşulları
+kullanıcının sorumluluğundadır. Seyreltme kontrollü ve aseptik koşullar altında gerçekleşmiyorsa
+normalde oda sıcaklığında en fazla 24 saat saklanabilir.
+Seyreltilerek hazırlanan gemsitabin çözeltisi kristalizasyona yol açacağından buzdolabında
+saklanmamalıdır.
+6.4. Saklamaya yönelik özel tedbirler
+Açılmamış flakonlar: 25° C’nin altında oda sıcaklığında saklayınız.
+Seyreltilerek hazırlanan tıbbi ürünün saklama koşulları için bölüm 6.3’e bakınız.
+6.5. Ambalajın niteliği ve içeriği
+Renksiz cam (tip I) flakonlar, gri floropolimer kaplı halobütil kauçuk tıpalarla ve alüminyum
+döner kapaklarla kapatılmış flakonlar.
+6.6. Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+Kullanılmamış olan ürünler ya da atık materyaller ‘Tıbbi Atıkların Kontrolü Yönetmeliği’ ve
+‘Ambalaj ve Ambalaj Atıklarının Kontrolü Yönetmelikleri’ne uygun olarak imha edilmelidir.
+Taşınması:
+İnfüzyon solüsyonunun hazırlanması ve atılmasında sitotoksik ürünlerin normal güvenlik
+önlemleri alınmalıdır. İnfüzyon solüsyonu özel bir kapta taşınmalı ve koruyucu eldiven ve giysi
+kullanılmalıdır. Eğer özel bir kap yoksa maske ve gözlük kullanımı sağlanmalıdır.
+Hazırlanan çözelti gözlerle temas ederse ciddi iritasyona yol açabilir. Gözler hemen bol su ile
+yıkanmalıdır. Eğer iritasyon devam ederse doktora danışılmalıdır. Solüsyon eğer ciltle temas
+ederse bol su ile yıkanmalıdır.
+16/177. RUHSAT SAHİBİ
+Sandoz İlaç San. ve Tic. A.Ş.
+Küçükbakkalköy Mh. Şehit Şakir Elkovan Cd. N:2
+34750 Kadıköy - İstanbul
+8. RUHSAT NUMARASI
+136/5
+9. İLK RUHSAT TARİHİ / RUHSAT YENİLEME TARİHİ
+Ruhsat tarihi: 09.05.2013
+Ruhsat yenileme tarihi: -
+10. KÜB’ÜN YENİLENME TARİHİ
+---
+17/17

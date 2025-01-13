@@ -1,0 +1,344 @@
+KISA ÜRÜN BİLGİSİ
+▼Bu ilaç ek izlemeye tabidir. Bu üçgen yeni güvenlilik bilgisinin hızlı olarak belirlenmesini
+sağlayacaktır. Sağlık mesleği mensuplarının şüpheli advers reaksiyonları TÜFAM’a
+bildirmeleri beklenmektedir. Bakınız Bölüm 4.8 Şüpheli advers reaksiyonların raporlanması.
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+VASOGUS 20 ünite/ml enjeksiyonluk çözelti
+Steril
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde:
+Her bir ampul etkin madde olarak 20 ünite vazopressine eşdeğer vazopressin asetat içerir.
+Yardımcı madde(ler):
+Sodyum hidroksit………..y.m.
+Yardımcı maddeler için 6.1’e bakınız.
+3. FARMASÖTİK FORM
+Enjeksiyonluk çözelti
+Berrak, renksiz çözelti.
+4. KLİNİK ÖZELLİKLER
+4.1. Terapötik endikasyonlar
+VASOGUS, sıvılara ve katekolaminlere rağmen hipotansif kalan vazodilatör şoklu (örn.
+kardiyotomi veya sepsis) erişkin hastalarda kan basıncını arttırmak için kullanılır.
+Ayrıca nefrojenik kökenli olmadığında diabetes insipidus tedavisi ile özofagus varis
+kanamasının kontrolü için kullanılmaktadır.
+4.2. Pozoloji ve uygulama şekli
+Pozoloji/uygulama sıklığı ve süresi:
+Vazodilatör şok
+Tedavinin amacı, kritik organlara perfüzyon optimizasyonunu sağlamaktır, ancak agresif
+tedavi, gastrointestinal sistem gibi işlevinin izlenmesi zor olan organların perfüzyonunu
+1 / 13tehlikeye atabilir. Genellikle, klinik olarak kabul edilebilir bir yanıtla uyumlu olarak, en düşük
+dozla titre edilir.
+Kardiyotomi sonrası şok için; tedaviye intravenöz yolla 0,03 ünite/dakika'lık bir dozla
+başlanmalıdır. Septik şok için; tedaviye 0,01 ünite/dakika'lık bir dozla başlanmalıdır.
+Hedeflenen kan basıncına ulaşılmazsa, 0,005 ünite/dakika ile 10-15 dakikalık aralıklarla titre
+edilmelidir. Kardiyotomi sonrası şok için maksimum doz 0,1 ünite/dakika ve septik şok için
+0,07 ünite/dakika’dır.
+Katekolamin kullanılmadan, hedeflenen kan basıncı 8 saat boyunca korunduktan sonra, kan
+basıncını korumak için VASOGUS her saatte 0,005 ünite/dakika azaltılmalıdır.
+Diabetes insipidus
+Diabetes insipidus için, her 4 saatte bir subkütan ya da intramüsküler enjeksiyonla 0,25 ml ila
+1 ml (5 ila 20 ünite) aralığında doz uygulanır.
+Özofagus varis
+Özofagus varis kanamasının ilk kontrolü için vazopressin intravenöz olarak verilmelidir.
+Uygulama şekli:
+VASOGUS, subkütan, intravenöz veya intramüsküler enjeksiyon olarak uygulanır.
+Vazodilatör şok tedavisi için seyreltik çözeltinin hazırlanması
+İntravenöz uygulama için kullanılmadan önce VASOGUS, %0,9 sodyum klorür veya %5
+dekstroz ile seyreltilmelidir. Kullanılmayan seyreltilmiş çözelti oda sıcaklığında 18 saate veya
+buzdolabında 24 saate kadar kullanılabilir.
+Seyreltik çözeltinin hazırlanması:
+Karışım
+Sıvı kısıtlaması Son konsantrasyon
+VASOGUS Seyreltici
+Yok 0,1 ünite/ml 2,5 ml (50 ünite) 500 ml
+Var 1 ünite/ml 5 ml (100 ünite) 100 ml
+Parenteral ilaçlar kullanımdan önce gözle görülür partiküller veya renk değişikliği açısından
+kontrol edilmelidir.
+2 / 13Özofagus varis
+20 ünite vazopressin 100 ml %5 dekstroz içinde seyreltilmiş olarak 15 dakikalık bir süre
+boyunca infüze edilebilir.
+Özel popülasyonlara ilişkin ek bilgiler:
+Böbrek/Karaciğer yetmezliği:
+Veri yoktur.
+Pediyatrik popülasyon:
+Vazodilatör şoku olan pediyatrik hastalarda VASOGUS’un güvenliliği ve etkililiği
+kanıtlanmamıştır.
+Özofagus varis ve diabetes insipidus tedavisi için 18 yaşın altındaki çocuklarda kullanımı
+önerilmemektedir.
+Geriyatrik popülasyon:
+Vazopressin ile yapılan klinik çalışmalarda 65 yaş ve üstü gönüllülerin genç gönüllülerden
+farklı tepki gösterip göstermediklerini anlamak için yeterli sayıda katılımcı ile çalışma
+yapılamamıştır.
+Bildirilen diğer klinik deneyimler yaşlı ve genç hastalar arasındaki tepkilerde farklılık
+olmadığını göstermiştir. Genelde yaşlı bir hasta için doz seçilirken dikkatli olunmalı ve
+karaciğer, böbrek ya da kalp fonksiyonlarında azalma, eş zamanlı bir hastalık ya da eş zamanlı
+başka bir ilaç tedavisi durumunda tedaviye dozlama aralığının düşük seviyesinden
+başlanmalıdır (Bkz. Bölüm 4.4 ve 4.8).
+4.3. Kontrendikasyonlar
+VASOGUS,
+• Vazopressin ya da klorobutanole karşı bilinen alerjisi veya aşırı duyarlılığı olan hastalarda
+(Bkz. Bölüm 6.1),
+• Özellikle koroner arter hastalığı olmak üzere herhangi bir vasküler hastalığı olan veya
+halojenli anestezik madde alması amaçlanan hastalarda,
+• Azot tutma özelliğine sahip kronik nefritte geçerli azot kan seviyelerine ulaşılana kadar
+kontrendikedir.
+3 / 134.4. Özel kullanım uyarıları ve önlemleri
+VASOGUS’un genellikle aşağıdaki durumlarda kullanılması önerilmez.
+• Kötüleşen kardiyak fonksiyon (Kardiyak cevap bozukluğu olan hastalarda kullanımı, kalp
+debisini çıkışını kötüleştirebilir.)
+• Sistemik hipertansiyonu veya özellikle koroner arter hastalığı olmak üzere vasküler
+hastalığı olan hastalarda kullanılmamalıdır. Bu tür hastalarda küçük dozlar bile ağrıyı
+artırabilir ve daha yüksek dozlarda miyokard enfarktüsü olasılığı düşünülmelidir.
+• Periferik vasküler bozukluk (Periferik vasküler hastalığı olan hastalarda kullanılması
+gerekiyorsa, cilt iskemi belirtileri dikkatle gözlenmelidir.)
+Vazopressin, su zehirlenmesine neden olabilir. Uyuşukluk, halsizlik ve baş ağrısı belirtileri
+terminal koma ve konvülsiyonları önlemek için tanınmalıdır.
+Hipofizektomi sonrası vakalarda dozaj ayarlaması idrar ozmolalitesi ölçümleri temelinde
+kontrol edilmelidir.
+Vazopressin, epilepsi, migren, astım, kalp yetmezliği varlığında veya ekstraselüler sıvı
+hacminin hızla arttırılması sonucu ani yüklenmiş bir sistem için tehlike oluşturabileceğinden
+dikkatli kullanılmalıdır.
+Yeterli seviyenin korunmasını sağlamak için kronik nefritli hastalarda kan üre azotu
+seviyelerinin düzenli olarak izlenmesi gerekir (Bkz. Bölüm 4.3).
+Hastalar, vazopressin ile tedavinin kesilmesinden sonra poliüri, seyreltik bir idrar ve
+hipernatremi gelişmesiyle kendini gösteren geri dönüşümlü diabetes insipidus yaşayabilir.
+Vazopressin ile tedavi kesildikten sonra serum elektrolitleri, sıvı durumu ve idrar çıkışı
+izlenmelidir. Bazı hastalarda, sıvı ve elektrolit kaymalarını düzeltmek için vazopressinin
+yeniden uygulanması veya desmopressin uygulanması gerekebilir.
+VASOGUS her bir ampulde 1 mmol (23 mg)’den daha az sodyum ihtiva eder; yani esasında
+“sodyum içermez”.
+4 / 134.5. Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+Katekolamin
+Katekolaminlerle kullanımının ortalama arteriyel kan basıncını ve diğer hemodinamik
+parametreleri arttırıcı bir etkiye neden olması beklenir. Hemodinamik izleme önerilir,
+vazopressin dozu gerektiği gibi ayarlanır.
+İndometazin
+İndometazin kullanımı, VASOGUS'un kardiyak indeksi ve sistemik vasküler direnç üzerindeki
+etkisini uzatabilir. Hemodinamik izleme önerilir, vazopressin dozu gerektiği gibi ayarlanır.
+İndometazin, sağlıklı bireylerde vazopressinin periferik vasküler direnç ve kardiyak verim
+üzerindeki etkisinin dengelenme süresini iki katından fazla artırır.
+Ganglionik bloke edici ajanlar
+Ganglionik bloke edici ajanlarla kullanılması, VASOGUS'un ortalama arteriyel kan basıncı
+üzerindeki etkisini artırabilir. Hemodinamik izleme önerilir, vazopressin dozu gerektiği gibi
+ayarlanır. Ganglionik bloke edici ajan tetra-etilamonyum, sağlıklı gönüllülerde vazopressinin
+baskılayıcı etkisini % 20 artırır.
+Furosemid
+Furosemid ile birlikte kullanmak, VASOGUS’un osmolar klerens ve idrar akışı üzerindeki
+etkisini artırmaktadır. Furosemid, sağlıklı bireylerde eksojen vazopressin ile birlikte
+uygulandığında osmolar klerensi 4 kat ve idrar akışını 9 kat artırır.
+Uygunsuz antidiüretik hormon salınımı sendromuna (UAHSS) yol açtığından şüphelenilen
+ilaçlarla kullanımı
+UAHSS'ye yol açtığından şüphelenilen ilaçlarla (örneğin, seçici serotonin geri alım
+inhibitörleri, karbamazepin, klofibrat, fludrokortizon, üre, trisiklik antidepresanlar, haloperidol,
+klorpropamid, enalapril, metildopa, pentamidin, vinkristin, siklofosfamid, ifosfamid, felbamat)
+birlikte kullanılması, VASOGUS’un antidiüretik etkisine ek olarak baskılayıcı etkisini
+artırabilir. Hemodinamik izleme önerilir, vazopressin dozu gerektiği gibi ayarlanır.
+Noradrenalin, alkol, lityum, demoklosiklin ve heparin ile eş zamanlı kullanımı, vazopressinin
+antidiüretik etkisini azaltabilir.
+5 / 13Diabetes insipidusa yol açtığından şüphelenilen ilaçlarla kullanımı
+Şekersiz diyabete yol açtığından şüphelenilen ilaçlarla (örn. demeklosiklin, lityum, foskarnet,
+klozapin) kullanılması, VASOGUS’un antidiüretik etkisine ek olarak, baskılayıcı etkisini
+azaltabilir. Hemodinamik izleme önerilir, vazopressin dozu gerektiği gibi ayarlanır.
+Halotan, morfin, fentanil, alfentanil ve sufentanil, endojen vazopressin maruziyetini etkilemez.
+4.6. Gebelik ve laktasyon
+Genel tavsiye
+Gebelik kategorisi: C
+Çocuk doğurma potansiyeli bulunan kadınlar/ Doğum kontrolü (Kontrasepsiyon)
+Vazopressinin gebe kadınlarda kullanımına ilişkin yeterli veri mevcut değildir. Bu nedenle,
+vazopressin kullanımı gereken dönemde, gerekiyorsa, uygun bir kontrasepsiyon yöntemi
+kullanarak gebelikten korunmalıdır.
+Gebelik dönemi
+Vazopressinin gebe kadınlarda kullanımına ilişkin yeterli veri mevcut değildir.
+Vazopressinin hamile bir kadına uygulandığında fetal zarara neden olup olmadığı
+bilinmemektedir. Klinik çalışmalarda ikinci ve üçüncü trimesterde vazopressin klerensinin
+artması nedeniyle, VASOGUS dozunun, kardiyotomi sonrası şokta 0,1 ünite/dakika’yı ve
+septik şokta 0,07 ünite/dakika’yı geçen dozlara titre edilmesi gerekebilir.
+VASOGUS’un 3. trimestirde oksitosik etkileri raporlandığından, gebeliğin devamını tehdit
+edebilecek tonik uterus kasılmaları üretebilir.
+VASOGUS gebelik sırasında sadece potansiyel yarar fetüs üzerindeki potansiyel risklerden
+üstünse kullanılmalıdır.
+Laktasyon dönemi
+Vazopressinin anne sütüne geçip geçmediği bilinmemektedir.
+Vazopressin gastrointestinal kanalda hızlı bir şekilde yıkıldığından bebekte oral emilim olası
+değildir. Bebeğin olası mazuriyetini en aza indirmek için, annenin ilacı aldıktan sonraki 1,5 saat
+boyunca sütünü pompalayarak atması tavsiye edilir.
+Emzirmenin veya tedavinin sonlandırılmasına çocuk ve anne için yararları dikkate alınarak
+karar verilmelidir.
+6 / 13Üreme yeteneği/Fertilite
+Vazopressinin hamile bir kadına uygulandığında üreme kapasitesini etkileyip etkilemediği
+bilinmemektedir. Hayvan üreme çalışmaları yapılmamıştır.
+4.7. Araç ve makine kullanımı üzerindeki etkiler
+Vazopressin, vertigoya sebep olabileceğinden araç ve makine kullanma üzerinde etkisi vardır.
+4.8. İstenmeyen etkiler
+Vazopressin kullanımı ile ilişkili aşağıdaki advers reaksiyonlar tanımlanmıştır. Bu reaksiyonlar
+isteğe bağlı olarak belirsiz büyüklükteki bir popülasyondan rapor edildiğinden, güvenilir bir
+şekilde sıklıklarını tahmin etmek veya ilaca maruz kalmayla nedensel bir ilişki kurmak mümkün
+değildir.
+İstenmeyen etkilerin görülme sıklığı aşağıdaki gibi derecelendirilmiştir.
+Çok yaygın (≥1/10), yaygın (≥1/100 ila <1/10), yaygın olmayan (≥1/1.000 ila <1/100), seyrek
+(≥1/10.000 ila <1/1.000), çok seyrek (<1/10.000), bilinmiyor (eldeki verilerden hareketle
+tahmin edilemiyor).
+Kan ve lenf sistemi hastalıkları
+Bilinmiyor: Hemorajik şok, trombosit sayısında azalma, inatçı kanama
+Bağışıklık sistemi hastalıkları
+Bilinmiyor: Hipersensitivite, anafilaksi
+Metabolizma ve beslenme hastalıkları
+Bilinmiyor: Hiponatremi, hiperhidrasyon/su zehirlenmesi
+Sinir sistemi hastalıkları
+Bilinmiyor: Baş ağrısı, baş dönmesi (vertigo), titreme
+Kardiyak hastalıklar
+Bilinmiyor: Sağ kalp yetmezliği, atriyal fibrilasyon, bradikardi, miyokard iskemisi, kalp
+durması, anjina nedeniyle göğüs ağrısı
+7 / 13Vasküler hastalıklar
+Bilinmiyor: Distal ekstremite iskemisi, periferik iskemi, solgunluk, hipertansiyon
+Solunum, göğüs hastalıkları ve mediastinal hastalıklar
+Bilinmiyor: Bronkospazm
+Gastrointestinal hastalıklar
+Bilinmiyor: Mezenterik iskemi, flatülans, bulantı, kusma, ishal, karın ağrısı
+Hepato-bilier hastalıklar
+Bilinmiyor: Bilirubin seviyelerinde artış
+Deri ve deri altı doku hastalıkları
+Bilinmiyor: İskemik lezyonlar, kangren, hiperhidroz, ürtiker
+Böbrek ve idrar yolu hastalıkları
+Bilinmiyor: Akut böbrek yetmezliği, ödem
+Genel ve uygulama bölgesine ilişkin hastalıklar
+Bilinmiyor: Kardiyak olmayan göğüs ağrısı
+Pazarlama sonrası deneyimler
+Geri dönüşümlü diabetes insipidus (Bkz. Bölüm 4.4)
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir (www.titck.gov.tr; e-posta:
+tufam@titck.gov.tr; tel: 0 800 314 00 08; faks: 0 312 218 35 99).
+4.9. Doz aşımı ve tedavisi
+VASOGUS’un doz aşımında çeşitli damar yollarında (periferik, mezenterik ve koroner)
+daralma ve hiponatremi şeklinde etki beklenebilir. Buna ilaveten doz aşımı daha az sıklıkta
+8 / 13ventriküler taşiaritmilere (Torsade de Pointes dahil), rabdomiyoliz ve spesifik olmayan
+gastrointestinal semptomlara da yol açabilir.
+Doğrudan etkiler, tedavinin geri çekilmesinden birkaç dakika sonra ortadan kalkar.
+Su zehirlenmesi olursa, sıvı verilmemelidir. Ağır vakalarda az miktarda hipertonik salin
+uygulanabilir. Üre ve mannitol infüzyonları, beyin ödemi durumlarında yardımcı olabilir. Eğer
+bir hasta vazopressin uygulamasından sonra anjinal ağrı yaşarsa, inhale amil nitrit veya dilaltı
+gliseril trinitrat verilebilir.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1. Farmakodinamik özellikler
+Farmakoterapötik grubu: Vazopressin ve analogları
+ATC kodu: H01BA01
+Etkin madde vazopressin, vasküler ve diğer düz kasların kasılmasına ve antidiüreze neden olan
+bir polipeptit hormondur.
+Terapötik dozlarda, eksojen vazopressin, splanknik, renal ve kutanöz dolaşımı içeren vasküler
+yatakta vazokonstriktif bir etki ortaya çıkarır. Ek olarak, baskılayıcı dozlardaki vazopressin,
+kas V reseptörleri aracılı gastrointestinal kanaldaki düz kasların kasılmalarını ve V
+1 3
+reseptörleri yoluyla prolaktin ve ACTH salınımını tetikler. Antidiüretik hormon için tipik olan
+düşük konsantrasyonlarda vazopressin, böbrek V reseptörleri yoluyla su diürezini inhibe eder.
+2
+Ek olarak, vazopressinin, V2, V3, oksitosin ve purinerjik P2 reseptörlerinin aracılık ettiği çok
+sayıda vasküler yatakta vazodilatasyona neden olduğu gösterilmiştir.
+Vazodilatör şoku olan hastalarda terapötik dozlarda vazopressin, sistemik vasküler direnci ve
+ortalama arteriyel kan basıncını artırır ve norepinefrin için gereken dozu azaltır. Vazopressin,
+kalp atım hızını ve kardiyak verimi azaltma eğilimindedir. Baskılayıcı etkisi, dışsal
+vazopressinin infüzyon hızı ile orantılıdır. Vazopressinin baskılayıcı etkisinin başlangıcı
+hızlıdır ve en yüksek etki 15 dakika içinde ortaya çıkar. İnfüzyon durdurulduktan sonra
+baskılayıcı etki 20 dakika içinde kaybolur. Taşifilaksi veya hastalarda vazopressinin baskılayıcı
+etkisine tolerans gösterildiğine dair kanıt yoktur.
+Etki mekanizması
+Vazopressinin vazokonstriktif etkilerine vasküler V reseptörleri aracılık eder. Vasküler V
+1 1
+reseptörleri doğrudan fosfolipaz C'ye bağlanır, kalsiyum salınımını tetikleyerek
+9 / 13vazokonstriksiyona neden olur. Ek olarak, vazopressin, adenil siklazın bağlandığı V
+2
+reseptörlerinin uyarılması yoluyla antidiürezi başlatır.
+Böbrek tübülleri tarafından suyun emiliminde vazopressinin antidiüretik etkisinin artış
+göstermesi istenmektedir. Vazopressin, gastrointestinal sistemin, safra kesesinin, idrar
+kesesinin ve vasküler yatağın tüm bölümlerinin, özellikle kılcal damarların, küçük arteriyollerin
+ve büyük damarların düz kas yapısı üzerinde daha az etkiye sahip olan venüllerin düz kaslarının
+kasılmasına neden olabilir. Kasılma elementleri üzerindeki doğrudan etki, ne adrenerjik bloke
+edici ajanlarla antagonize edilir ne de vasküler denervasyonla önlenir.
+5.2. Farmakokinetik özellikler
+İntravenöz uygulama:
+Vazopressin plazma konsantrasyonları, infüzyon hızlarının 10 µU/kg/dk'dan 200 µU/kg/dk'ya
+çıkmasıyla doğrusal olarak artar. Kararlı durum plazma konsantrasyonlarına 30 dakika sürekli
+intravenöz infüzyondan sonra ulaşılır.
+Dağılım:
+Vazopressin, plazma proteinine bağlanıyor gibi görünmemektedir. Dağılım hacmi 140
+ml/kg'dır.
+Biyotransformasyon:
+Hayvan deneyleri, vazopressin metabolizmasının temel olarak karaciğer ve böbrekte olduğunu
+göstermektedir. Serin proteaz, karboksipeptidaz ve disülfit oksido-redüktaz, vazopressini,
+hormonun farmakolojik aktivitesi ile ilgili bölgelerden ayırır. Bu nedenle, üretilen
+metabolitlerin önemli farmakolojik aktiviteyi sürdürmeleri beklenmemektedir.
+Eliminasyon:
+Vazodilatör şokta kullanılan infüzyon hızlarında (0,01-0,1 ünite/dakika), vazodilatör şoku olan
+hastalarda vazopressin klerensi 9 ila 25 ml/dk/kg'dır. Vazopressin için bu seviyelerdeki belirgin
+t değeri ≤10 dakikadır.
+1/2
+Vazopressin ağırlıklı olarak metabolize edilir ve dozun sadece yaklaşık %6'sı değişmeden
+idrarla atılır.
+10 / 13Hastalardaki karakteristik özellikler
+Gebelik:
+Plasental vazopressinazın kana yayılması nedeniyle, ekzojen ve endojen vazopressin klirensi,
+hamilelik süresince kademeli olarak artar. Hamileliğin ilk üç aylık döneminde klirens sadece
+biraz artar. Bununla birlikte, üçüncü trimesterde vazopressin klirensi yaklaşık 4 kat ve 5 kata
+kadar artmaktadır. Doğumdan sonra vazopressin klirensi iki hafta içinde gebe kalmadan önceki
+başlangıç düzeyine döner.
+Subkütan ya da intramüsküler uygulama:
+Emilim:
+Vazopressin enjeksiyonunun deri altından veya kas içinden uygulanmasından sonra,
+antidiüretik aktivite süresi değişkendir, ancak etkiler genellikle 2-8 saat boyunca korunur.
+Biyotransformasyon:
+Vazopressin dozunun çoğunluğu karaciğerde ve böbreklerde hızla metabolize edilir.
+Vazopressin, yaklaşık 10 ila 20 dakikalık bir plazma yarı ömrüne sahiptir.
+Eliminsayon:
+Subkutan bir vazopressin dozunun yaklaşık %5’i, uygulamadan dört saat sonra idrarla atılır.
+5.3. Klinik öncesi güvenlilik verileri
+Hayvanlarda vazopressin ile herhangi bir resmi karsinojenite veya fertilite çalışması
+yapılmamıştır. Vazopressin in vitro bakteriyel mutajenite (Ames) testinde ve in vitro Çin
+hamsteri yumurtalık (CHO) hücre kromozomu sapma testinde negatif olarak bulunmuştur.
+Farelerde, vazopressinin, spermatozoanın fonksiyonunu ve döllenme kabiliyetini etkilediği
+bildirilmiştir.
+6. FARMASÖTİK ÖZELLİKLERİ
+6.1. Yardımcı maddelerin listesi
+Klorobütanol
+Asetik asit ve/veya sodyum hidroksit
+Enjeksiyonluk su
+11 / 136.2. Geçimsizlikler
+Geçimlilik çalışmaları bulunmadığından bu tıbbi ürün diğer tıbbi ürünlerle karıştırılmamalıdır.
+6.3. Raf ömrü
+24 ay
+6.4. Saklamaya yönelik özel tedbirler
+Orijinal ambalajında 2°C ila 8°C arasında saklayınız. Dondurmayınız.
+VASOGUS buzdolabından oda sıcaklığındaki saklama koşuluna çıkarıldıktan sonra raf ömrü
+dahilinde 12 aya kadar tutulabilir. Buzdolabından çıkarıldıktan sonra, açılmamış VASOGUS
+revize edilmiş 12 aylık son kullanma tarihini belirtmek için işaretlenmelidir. Ürünün orijinal
+son kullanma tarihi, revize edilmiş son kullanma tarihinden daha kısa ise, o zaman kısa tarih
+kullanılmalıdır.
+VASOGUS’u, etiketinde belirtilen son kullanma tarihinden sonra kullanmayınız.
+Seyreltilmiş çözeltinin raf ömrü buzdolabında 24 saat ve oda sıcaklığında 18 saattir.
+Mikrobiyolojik açıdan ürün ilk açılıştan ve sulandırıldıktan hemen sonra kullanılmalıdır.
+Hemen kullanılmazsa, kullanıma hazır çözeltinin kullanımdaki saklama koşulları ve kullanım
+öncesindeki koşullar kullanıcının sorumluluğundadır.
+Saklama koşulları ve son kullanma süreleri aşağıdaki tabloda özetlenmiştir.
+Açılmamış Açılmamış
+Buzdolabında 2°C ila 8°C Oda sıcaklığında 20°C ile 25°C
+25°C üzerinde saklamayınız
+1 ml’lik Üreticinin orijinal son 12 ay ya da üreticinin orijinal son kullanma
+ampul kullanma tarihine kadar tarihine kadar, hangisi daha erkense
+6.5. Ambalajın niteliği ve içeriği
+VASOGUS 1 ml çözelti içeren 1 ml kapasiteli 25 adet tip I renksiz cam ampullerde kullanıma
+sunulmaktadır.
+6.6. Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+Kullanılmamış olan ürün “Tıbbi Atıkların Kontrolü Yönetmeliği” ve “Ambalaj Atıklarının
+Kontrol Yönetmelikleri”ne uygun olarak imha edilmelidir.
+12 / 137. RUHSAT SAHİBİ
+VEM İlaç San. ve Tic. A.Ş.
+Maslak Mahallesi AOS 55. Sokak
+42 Maslak A Blok Sit. No: 2/134
+Sarıyer/İSTANBUL
+8. RUHSAT NUMARASI
+2024/85
+9. İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi:25.03.2024
+Ruhsat yenileme tarihi:
+10. KÜB’ÜN YENİLENME TARİHİ
+13 / 13

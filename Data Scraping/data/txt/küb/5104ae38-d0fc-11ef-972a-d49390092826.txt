@@ -1,0 +1,924 @@
+KISA ÜRÜN BİLGİSİ
+Bu ilaç ek izlemeye tabidir. Bu üçgen yeni güvenlilik bilgisinin hızlı olarak belirlenmesini
+sağlayacaktır. Sağlık mesleği mensuplarının şüpheli advers reaksiyonları TÜFAM’a
+bildirmeleri beklenmektedir. Bakınız Bölüm 4.8 Advers reaksiyonlar nasıl raporlanır?
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+COTELLIC 20 mg film kaplı tablet
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde:
+Kobimetinib 20 mg
+Her tablet, 20 mg kobimetinibe eşdeğer 22 mg kobimetinib hemifumarat içerir.
+Yardımcı madde(ler):
+Laktoz monohidrat (inek sütünden elde edilmiştir) 36 mg
+Yardımcı maddeler için Bölüm 6.1’e bakınız.
+3. FARMASÖTİK FORM
+Film kaplı tablet.
+Bir yüzünde ‘COB’ kabartması olan, yaklaşık 6,6 mm çaplı, beyaz, yuvarlak film kaplı
+tabletler.
+4. KLİNİK ÖZELLİKLER
+4.1 Terapötik endikasyonlar
+COTELLIC’in, daha önce herhangi bir RAF yolağı inhibitörü kullanmamış, ECOG
+performans skoru 0 veya 1 olan, lokal tedaviler sonrası progresyon göstermiş ve lokal
+tedavilerin tekrar kullanılamadığı relaps veya metastatik BRAF V600 mutasyonu pozitif olan
+malign melanom hastalarında vemurafenib ile kombine olarak progresyona kadar kullanımı
+endikedir.
+Progresyon sonrası, tek ajan veya başka tedavilerle kombinasyon şeklinde kullanılamaz.
+COTELLIC’in tek ajan olarak ilgili endikasyonda kullanımı uygun değildir.
+4.2 Pozoloji ve uygulama şekli
+Vemurafenib ile kombine COTELLIC tedavisi, yalnızca kanser hastalarının tedavisinde
+deneyimli bir hekim tarafından başlatılmalı ve denetlenmelidir.
+COTELLIC almadan önce, geçerli bir test yoluyla hastanın tümöründe BRAF V600
+mutasyon pozitifliği tespit edilmelidir (bkz. Bölüm 4.4 ve 5.1).
+Pozoloji:
+COTELLIC için önerilen doz, günde bir kez 60 mg’dır (20 mg’lık 3 tablet)
+- 1 -COTELLIC, 28 günlük bir siklus şeklinde kullanılmaktadır. Her bir COTELLIC dozu 20
+mg'lık üç tabletten (60 mg) oluşmaktadır ve birbirini izleyen 21 gün boyunca günde bir kez
+alınmalıdır (1.-21. günler - tedavi dönemi); bunun ardından COTELLIC tedavisine 7 gün ara
+verilmektedir (22.-28. günler - tedavi arası). Her COTELLIC tedavi siklusu 7 günlük tedavi
+arası bittikten sonra başlatılmalıdır.
+Vemurafenib’in pozolojisi ile ilgili bilgi için vemurafenib Kısa Ürün Bilgisi’ne bakılmalıdır.
+Uygulama sıklığı ve süresi:
+Tedavi süresi:
+COTELLIC tedavisine, hasta tedaviden fayda sağlayamayana veya kabul edilemez toksisite
+oluşana kadar devam edilmelidir (bkz. Tablo 1).
+Unutulan dozlar:
+Bir dozun unutulması halinde, günde bir kez uygulama rejimini sürdürmek için, atlanan doz
+bir sonraki dozun kullanımından 12 saat öncesine kadar alınabilmektedir.
+Kusma:
+COTELLIC uygulanmasından sonra kusma olması durumunda, hasta o gün ek doz almamalı,
+ertesi gün tedaviye normal şekilde devam edilmelidir.
+Genel doz ayarlamaları
+COTELLIC veya vemurafenib dozunda yapılacak değişiklik, ilacı reçete eden hekimin hasta
+için bireysel olarak yapacağı güvenlilik ya da tolerabilite değerlendirmesine dayanmalıdır.
+COTELLIC dozunda yapılacak değişiklikler, vemurafenib dozundaki değişikliğe bağlı
+değildir.
+Dozların toksisite nedeniyle atlanması durumunda, atlanan dozlar alınmamalıdır. Doz
+azaltıldığında, daha sonraki bir dönemde doz artışı yapılmamalıdır.
+Tablo 1'de, COTELLIC dozunun değiştirilmesine ilişkin genel tavsiyeler sunulmaktadır.
+Tablo 1 Önerilen COTELLIC doz değişiklikleri
+Derece (CTC-AE)* Önerilen COTELLIC dozu
+Derece 1 ya da Derece 2 Doz azaltılmaz. COTELLIC dozu günde bir defa 60
+(tolere edilebilen) mg (3 tablet) olarak sürdürülür
+Derece 2 (tolere edilemeyen)
+ya da Derece 3/4
+Olayın 1. ortaya çıkışı Derece ≤1'e düşünceye kadar tedaviye ara verilir,
+tedaviye tekrar başlandığında günde bir kez 40 mg doz
+(2 tablet) kullanılır
+Olayın 2. ortaya çıkışı Derece ≤1'e düşünceye kadar tedaviye ara verilir,
+tedaviye tekrar başlandığında günde bir kez 20 mg doz
+(1 tablet) kullanılır
+Olayın 3. ortaya çıkışı Tedavinin tamamen bırakılması düşünülmelidir
+*Klinik advers olayların şiddeti, Advers Olaylar İçin Ortak Terminoloji Kriterleri v4.0'a
+(CTC-AE) göre derecelendirilmiştir.
+Hemoraji için doz modifikasyon önerisi:
+- 2 -Derece 4 olaylar veya serebral hemoraji: COTELLIC tedavisi durdurulmalıdır. COTELLIC
+ile ilişkili hemoraji olayları durumunda COTELLIC tedavisi tamamen bırakılmalıdır.
+Derece 3 olaylar: Olaya potansiyel katkısının olması durumuna karşı değerlendirme sırasında
+COTELLIC tedavisi kesilmelidir. Hemoraji olaylarında COTELLIC doz modifikasyonunun
+etkililiğine dair bir veri yoktur. COTELLIC tedavisine yeniden başlanacağı zaman klinik
+değerlendirme yapılmalıdır. COTELLIC tedavisi kesildiğinde, klinik olarak endike ise
+vemurafenib dozlamasına devam edilebilir.
+Sol ventrikül disfonksiyonu için doz değişikliği tavsiyeleri:
+Kardiyak semptomların COTELLIC tedavisine bağlı olduğu değerlendirilirse ve tedaviye ara
+verilmesini takiben düzelme sağlanmazsa COTELLIC tedavisinin tamamen bırakılması
+düşünülmelidir.
+Tablo 2 Sol ventrikül ejeksiyon fraksiyonunda (LVEF) başlangıca göre düşüş olan
+hastalarda COTELLIC için önerilen doz değişiklikleri
+COTELLIC Tedaviye ara
+Önerilen günlük
+LVEF İçin Önerilen verilmesinden
+Hasta COTELLIC
+değeri Doz sonraki LVEF
+dozu
+Değişikliği değeri
+≥%50
+(ya da
+%40 – 49
+ve Kullanılmakta
+Geçerli
+başlangıca olan doza Geçerli Değildir
+Değildir
+göre devam edilir
+<%10
+mutlak
+düşüş)
+Olayın 1. ortaya
+çıkışı: 40 mg
+Asemptomatik
+< %40 Olayın 2. ortaya
+Başlangıca
+(ya da çıkışı: 20 mg
+göre <%10
+%40 – 49 Olayın 3. ortaya
+mutlak düşüş
+ve çıkışı:
+Tedaviye 2
+başlangıca tedavi tamamen
+hafta ara verilir
+göre bırakılır
+≥ %10 < %40
+mutlak (ya da
+Tedavi tamamen
+düşüş) başlangıca
+bırakılır
+göre ≥ %10
+mutlak düşüş)
+Olayın 1. ortaya
+çıkışı: 40 mg
+Asemptomatik Olayın 2. ortaya
+Geçerli Tedaviye 4 ve başlangıca çıkışı: 20 mg
+Semptomatik
+Değildir hafta ara verilir göre <%10 Olayın 3. ortaya
+mutlak düşüş çıkışı:
+tedavi tamamen
+bırakılır
+- 3 -Asemptomatik
+ve
+< %40 (ya da Tedavi tamamen
+başlangıca bırakılır
+göre ≥ %10
+mutlak düşüş)
+LVEF
+değerinden
+Tedavi tamamen
+bağımsız
+bırakılır
+olarak
+semptomatik
+COTELLIC tedavisi değiştirildiğinde (klinik olarak endike olması durumunda), vemurafenib
+tedavisine devam edilebilir.
+Rabdomiyoliz ve kreatin fosfokinaz (CPK) yükselmeleri için doz modifikasyonu:
+Rabdomiyoliz veya semptomatik CPK yükselmeleri:
+COTELLIC tedavisine ara verilmelidir. Eğer rabdomiyoliz veya semptomatik CPK
+değerlendirmeleri 4 hafta içinde düzelme göstermezse, COTELLIC tedavisi tamamen
+bırakılmalıdır.
+4 hafta içinde olayın ciddiyeti 1 derece azalırsa, klinik olarak endike ise, 20 mg azaltılmış
+dozla COTELLIC tedavisine yeniden başlanabilir. Hastalar yakından takip edilmelidir.
+Vemurafenib dozlamasına COTELLIC tedavisi modifiye edilirken devam edilebilir.
+Asemptomatik CPK yükselmeleri:
+Derece 4: COTELLIC tedavisine ara verilmelidir. Eğer CPK yükselmeleri, dozun
+kesilmesinden 4 hafta sonraya kadar Derece ≤3’e gerilemiyorsa, COTELLIC tedavisi
+tamamen bırakılmalıdır.
+Eğer CPK 4 hafta içinde Derece ≤3’e gerilerse, klinik olarak endike ise 20 mg azaltılmış
+dozla ve hasta yakından izlenerek COTELLIC’e yeniden başlanabilir. Vemurafenib
+kullanımına COTELLIC tedavisi modifiye edildiğinde devam edebilir.
+Derece ≤3: Rabdomiyoliz engellendiğinde, COTELLIC dozunun modifiye edilmesine gerek
+yoktur.
+Vemurafenib ile birlikte kullanıldığında, COTELLIC için doz değişikliği tavsiyeleri:
+Karaciğerle ilgili laboratuvar değeri anormallikleri:
+Karaciğerle ilgili Derece 1 ve 2 laboratuvar değeri anormallikleri için, COTELLIC ve
+vemurafenib tedavisine reçete edilen dozda devam edilmelidir.
+Derece 3: COTELLIC tedavisine reçete edilen dozda devam edilmelidir. Vemurafenib dozu,
+klinik olarak uygun olduğu şekilde azaltılabilmektedir. Vemurafenib Kısa Ürün Bilgisi’ne
+bakınız.
+Derece 4: COTELLIC ve vemurafenib tedavisine ara verilmelidir. Karaciğerle ilgili
+laboratuvar değeri anormalliklerinin 4 hafta içerisinde Derece 1’e düzelmesi durumunda,
+- 4 -COTELLIC tedavisine 20 mg azaltılmış dozda ve vemurafenib tedavisine Kısa Ürün
+Bilgisi’ne göre klinik olarak uygun dozda tekrar başlanmalıdır.
+Karaciğerle ilgili laboratuvar değeri anormalliklerinin 4 hafta içinde Derece 1’e
+düzelmemesi ya da karaciğerle ilgili Derece 4 laboratuvar değeri anormalliklerinin ilk
+düzelmeyi takiben tekrar ortaya çıkması durumunda, COTELLIC tedavisi ve vemurafenib
+tedavisi tamamen bırakılmalıdır.
+Foto-duyarlılık:
+Derece ≤2 (tolere edilebilen) foto-duyarlılık, destekleyici bakım uygulanarak yönetilmelidir.
+Derece 2 (tolere edilemeyen) ya da Derece ≥3 foto-duyarlılık: Derece ≤1'e gerileyinceye
+kadar, COTELLIC ve vemurafenib tedavisine ara verilmelidir. Tedaviye, COTELLIC
+dozunda değişiklik yapılmadan tekrar başlanabilir. Vemurafenib dozu azaltılmalıdır; ayrıntılı
+bilgi için vemurafenib Kısa Ürün Bilgisi’ne bakınız.
+Döküntü:
+COTELLIC ya da vemurafenib tedavisi ile döküntü olayları ortaya çıkabilmektedir. Klinik
+olarak endike olduğu şekilde, COTELLIC ve/veya vemurafenib tedavisine ara verilebilir
+ve/veya doz azaltılabilir. Buna ek olarak, aşağıdaki durumlar için:
+Derece ≤2 (tolere edilebilen) döküntü, destekleyici bakım uygulanarak yönetilmelidir.
+COTELLIC dozlamasına değişiklik yapılmadan devam edilebilir.
+Derece 2 (tolere edilemeyen) ya da Derece ≥3 akneye benzer döküntü: Tablo 1'de
+COTELLIC için sunulan genel doz değişikliği önerileri izlenmelidir. COTELLIC tedavisi
+modifiye edildiğinde (klinik olarak endike olması durumunda), vemurafenib doz
+uygulamasına devam edilebilir.
+Derece 2 (tolere edilemeyen) ya da Derece ≥3 akneiform dışı ya da makülopapüler döküntü:
+Değişiklik yapılmaksızın, uygulanan COTELLIC dozuna devam edilebilmektedir (klinik
+olarak endike olması halinde). Vemurafenib tedavisine ara verilebilir ve/veya dozu
+azaltılabilir; ayrıntılı bilgi için vemurafenib Kısa Ürün Bilgisi’ne bakınız.
+QT uzaması:
+Tedavi esnasında, QTc’nin 500 milisaniyeyi geçmesi halinde vemurafenib doz
+modifikasyonları için vemurafenib KÜB’üne (Bölüm 4.2) başvurunuz. Vemurafenib ile
+kombinasyon halinde alındığında, COTELLIC için doz modifikasyonu gerekmemektedir.
+Uygulama şekli:
+COTELLIC tabletler suyla birlikte bütün olarak yutulmalıdır. COTELLIC tabletler, öğünlerle
+birlikte ya da öğün dışı zamanlarda alınabilmektedir.
+Özel popülasyonlara ilişkin ek bilgiler:
+Böbrek yetmezliği:
+Popülasyon farmakokinetiği sonuçlarına dayanarak (bkz. Bölüm 5.2), hafif veya orta şiddette
+böbrek yetmezliği olan hastalarda doz ayarlaması önerilmemektedir. Şiddetli böbrek
+yetmezliği olan hastalara ilişkin kısıtlı veri mevcuttur bu yüzden herhangi bir etki
+- 5 -değerlendirme dışı bırakılamaz. COTELLIC şiddetli böbrek yetmezliği olan hastalarda
+dikkatli kullanılmalıdır.
+Karaciğer yetmezliği:
+Karaciğer yetmezliği olan hastalarda doz ayarlaması gerekmemektedir. Şiddetli karaciğer
+yetmezliği olan hastalarda, bağlanmamış kobimetinib plazma konsantrasyonları, karaciğer
+fonksiyonu normal hastalara kıyasla daha yüksek olabilir (bkz. Bölüm 5.2). COTELLIC
+kullanımı esnasında karaciğer testleri sonuçlarında anormallikler görülebilir. Herhangi bir
+derece karaciğer bozukluğu olan hastalarda dikkatli kullanılmalıdır (bkz. Bölüm 4.4).
+Pediyatrik popülasyon:
+Çocuklarda ve adolesanlarda (<18 yaş) COTELLIC’in güvenliliği ve etkililiği
+belirlenmemiştir. Mevcut veriler Bölüm 4.8, 5.1 ve 5.2’de sunulmaktadır ancak herhangi bir
+pozoloji önerisi yapılamamaktadır.
+Geriyatrik popülasyon:
+>65 yaşındaki hastalarda özel bir doz ayarlaması gerekmemektedir.
+Beyaz ırktan olmayan hastalar:
+Beyaz ırktan olmayan hastalarda COTELLIC’in güvenliliği ve etkililiği belirlenmemiştir.
+4.3 Kontrendikasyonlar
+Etkin maddeye veya Bölüm 6.1’de listelenen yardımcı maddelerden herhangi birine karşı
+aşırı duyarlılık durumunda kontrendikedir.
+4.4 Özel kullanım uyarıları ve önlemleri
+COTELLIC ile kombinasyon halinde vemurafenib kullanımından önce, geçerli bir test ile
+hastaların BRAF V600 mutasyon-pozitif tümörlü oldukları doğrulanmalıdır.
+BRAF inhibitörü kullanırken progresyon görülen hastalarda vemurafenib ile kombinasyon
+halinde COTELLIC kullanımı:
+Daha önceden BRAF inhibitörü kullanırken progresyon görülmüş olan, vemurafenib ile
+kombinasyon halinde COTELLIC alan hastalarda sınırlı veri mevcuttur. Bu veriler, bu
+hastalarda kombinasyonun etkililiğinin daha düşük olacağını göstermektedir (bkz. Bölüm
+5.1). Bu nedenle, önceden BRAF inhibitörü ile tedavi edilmiş popülasyonda kombinasyonla
+tedavi öncesinde diğer tedavi seçenekleri düşünülmelidir. BRAF inhibitörü tedavisi alırken
+progresyonun ardından, tedavilerin sıralaması henüz belirlenmemiştir.
+Beyin metastazı olan hastalarda vemurafenib ile kombinasyon halinde COTELLIC kullanımı:
+Sınırlı veriler, beyne metastaz yapmış BRAF V600 mutasyon-pozitif melanom hastalarında
+COTELLIC ve vemurafenib kombinasyonunun güvenliliğinin, COTELLIC'in vemurafenib
+ile kombinasyon halindeki bilinen güvenlilik profiliyle tutarlı olduğunu göstermektedir.
+COTELLIC ve vemurafenib kombinasyonunun bu hastalardaki etkililiği
+değerlendirilmemiştir. Kobimetinibin intrakraniyal aktivitesi henüz bilinmemektedir (bkz.
+Bölüm 5.1 ve 5.2).
+Hemoraji:
+Major hemorajik olaylar da dahil, hemorajik olaylar meydana gelebilir (bkz. Bölüm 4.8)
+- 6 -Kanama riskini arttıran eşzamanlı tıbbi ürünleri kullanan (antiplatelet veya antikoagülan
+tedavisi de dahil) veya beyin metastazı gibi ilave kanama risk faktörleri bulunan hastalarda
+dikkatli olunmalıdır. Hemoraji yönetimi için Bölüm 4.2’ye bakınız.
+Seröz retinopati:
+COTELLIC de dahil olmak üzere, MEK inhibitörleri ile tedavi edilen hastalarda seröz
+retinopati (retina tabakaları içinde sıvı birikimi) gözlenmiştir (bkz. Bölüm 4.8). Olayların
+çoğu korioretinopati ya da retina dekolmanı olarak bildirilmiştir.
+Seröz retinopati olaylarının ilk olarak başlamasına kadar geçen medyan süre 1 ay (sınır
+aralığı 0 - 9 ay) olarak belirlenmiştir. Klinik çalışmalarda gözlenen olayların çoğu, tedaviye
+ara verilmesinden ya da dozun azaltılmasından sonra iyileşmiş ya da asemptomatik Derece
+1'e kadar düzelmiştir.
+Yeni ya da kötüleşen görme bozukluğu semptomları için hastalar her ziyaretlerinde
+değerlendirilmelidir. Yeni ya da kötüleşen görme bozuklukları tespit edilmesi durumunda
+oftalmolojik bir muayene önerilmektedir. Seröz retinopati tanısı konması durumunda, görme
+semptomları Derece ≤1'e düzelinceye kadar COTELLIC tedavisine ara verilmelidir. Seröz
+retinopati, tedaviye ara verilerek, doz azaltılarak ya da tedavi tamamen bırakılarak
+yönetilebilir (bkz. Bölüm 4.2, Tablo 1).
+Sol ventrikül disfonksiyonu:
+COTELLIC kullanan hastalarda, sol ventrikül ejeksiyon fraksiyonunda (LVEF) başlangıca
+göre düşüş ortaya çıktığı bildirilmiştir (bkz. Bölüm 4.8). Olayların ilk olarak başlamasına
+kadar geçen medyan süre 4 ay (1 - 13 ay) olarak belirlenmiştir.
+LVEF, başlangıç değerlerinin saptanması için tedaviye başlamadan önce ve ardından bir aylık
+tedaviden sonra ve tedavinin bırakılmasına kadar en az 3 ayda bir ya da klinik olarak endike
+olduğu şekilde değerlendirilmelidir. LVEF düzeyinde başlangıca göre ortaya çıkan azalma,
+tedaviye ara verilerek, doz azaltılarak ya da tedavi tamamen bırakılarak yönetilebilir (bkz.
+Bölüm 4.2).
+Doz azaltımı ile tedavilerine yeniden başlanan hastalar için LVEF ölçümleri 2 hafta, 4 hafta,
+10 hafta ve 16 hafta sonrasında ve devamında klinik olarak endike olduğu şekilde
+yapılmalıdır.
+Başlangıçtaki LVEF düzeyi, kurumsal olarak kullanılan normalin alt sınırından düşük ya da
+%50'nin altında olan hastalar araştırılmamıştır.
+Karaciğerle ilgili laboratuvar değeri anormallikleri:
+Karaciğerle ilgili laboratuvar değeri anormallikleri, COTELLIC, vemurafenib ile
+kombinasyon halinde kullanıldığında ve tek ajan olarak vemurafenib ile (ürünün Kısa Ürün
+Bilgisi’ne bakınız) ortaya çıkabilmektedir.
+COTELLIC artı vemurafenib ile tedavi edilen hastalarda, karaciğerle ilgili laboratuvar değeri
+anormallikleri, spesifik olarak alanin aminotransferaz (ALT), aspartat aminotransferaz (AST)
+ve alkalen fosfataz (ALP) düzeylerinde artışlar gözlenmiştir (bkz. Bölüm 4.8).
+- 7 -Kombinasyon tedavisine başlamadan önce ve tedavi sırasında ayda bir kez ya da klinik olarak
+endike olduğu şekilde daha sık olarak karaciğerle ilgili laboratuvar testleri takip edilmelidir
+(bkz. Bölüm 4.2).
+Karaciğerle ilgili Derece 3 laboratuvar değeri anormallikleri, vemurafenib tedavisine ara
+verilerek ya da dozu azaltılarak yönetilmelidir. Karaciğerle ilgili Derece 4 laboratuvar değeri
+anormallikleri, hem COTELLIC hem de vemurafenib tedavilerine ara verilerek, dozları
+düşürülerek ya da tedavi tamamen bırakılarak yönetilmelidir (bkz. Bölüm 4.2).
+Rabdomiyoliz ve CPK yükselmeleri:
+COTELLIC alan hastalarda rabdomiyoliz rapor edilmiştir (bkz Bölüm 4.8).
+Eğer rabdomiyoliz teşhis edilirse, COTELLIC tedavisine ara verilmeli ve CPK seviyeleri ve
+diğer semptomlarda düzelme olana kadar gözlemlenmelidir. Rabdomiyolizin ciddiyetine
+göre, doz azaltılması veya tedavinin tamamen bırakılması gerekebilir (bkz. Bölüm 4.2).
+Bazal değerin üzerindeki asemptomatik yükselmeler de dahil olmak üzere Derece 3 ve 4 CPK
+yükselmeleri, klinik çalışmalarda (bkz. Bölüm 4.8) COTELLIC ile vemurafenib alan
+hastalarda da meydana gelmiştir. Derece 3 ve 4 CPK yükselmelerinin ilk olarak başlamasına
+kadar geçen medyan süre 16 gündür (11 gün-10 ay); çözünürlüğü tamamlamak için medyan
+süre 16 gündür (2 gün-15 ay).
+Serum CPK ve kreatinin seviyeleri, bazal değerleri veya başlangıç değerlerini ortaya koymak
+için tedavi başlamadan önce ölçülmeli ve sonrasında aylık olarak veya klinik olarak
+gerektikçe tedavi sırasında gözlemlenmelidir. Eğer serum CPK yükselirse, rabdomiyoliz veya
+diğer nedenlerin belirtileri kontrol edilmelidir. Semptomların ciddiyeti ve CPK yükselmeleri
+nedeniyle, tedavinin durdurulması, doz azaltıması veya tamamen bırakılması gerekebilir (bkz.
+Bölüm 4.2).
+İshal:
+COTELLIC tedavisi gören hastalarda Derece ≥3 ve ciddi ishal bildirilmiştir. İshal, ishal
+önleyici ajanlarla ve destekleyici bakımla yönetilmelidir. Destekleyici bakıma rağmen
+görülen Derece ≥3 ishal durumlarında, ishal Derece ≤1’e gerileyene kadar COTELLIC ve
+vemurafenib tedavisine ara verilmelidir. Derece ≥3 ishalin tekrarlaması durumunda
+COTELLIC ve vemurafenib dozu azaltılmalıdır (bkz. Bölüm 4.2).
+İlaç-ilaç etkileşimleri - CYP3A inhibitörleri:
+Güçlü CYP3A inhibitörlerin COTELLİC tedavisi ile eş zamanlı kullanımından
+kaçınılmalıdır. COTELLIC ile beraber eş zamanlı orta derecede etkili CYP3A inhibitörlerinin
+kullanımı sırasında dikkatli olunmalıdır. Eğer eş zamanlı güçlü veya orta derecede etkili
+CYP3A inhibitörü kullanımı kaçınılmaz ise, hastalar güvenlilik için gözlem altında tutulmalı
+ve klinik olarak endike olduğu takdirde doz değişimi uygulanmalıdır.
+QT uzaması:
+Tedavi sırasında, QTc’nin 500 milisaniyeyi geçmesi halinde lütfen vemurafenib KÜB’ü
+Bölüm 4.2 ve 4.4’e başvurunuz.
+Yardımcı maddeler:
+COTELLIC tabletler, laktoz monohidrat içerir. Nadir kalıtımsal galaktoz intoleransı, Lapp
+laktoz yetmezliği ya da glikoz-galaktoz malabsorpsiyon problemi olan hastaların bu ilacı
+kullanmamaları gerekir.
+- 8 -COTELLIC her “doz”unda 1 mmol (23 mg)’dan daha az sodyum ihtiva eder; yani aslında
+“sodyum içermez”.
+4.5 Diğer tıbbi ürünlerle etkileşim ve diğer etkileşim şekilleri
+Diğer ilaçların kobimetinib üzerindeki etkileri:
+CYP3A inhibitörleri:
+Kobimetinib, CYP3A tarafından metabolize edilir ve sağlıklı deneklerde, güçlü bir
+CYP3A inhibitörü (itrakonazol) varlığında, kobimetinibin EAA'sı yaklaşık olarak 7 kat
+artmıştır. Etkileşimin boyutu hastalarda potansiyel olarak daha az olabilir.
+Güçlü CYP3A inhibitörleri (bkz. Bölüm 4.4):
+Güçlü CYP3A inhibitörlerinin tedavi ile eşzamanlı kullanımından kaçınılmalıdır. Güçlü
+CYP3A inhibitörleri ritonavir, kobisistat, telaprevir, lopinavir, itrakonazol, vorikonazol,
+klaritromisin, telitromisin, posakonazol, nefazodon ve greyfurt suyunu içermekle beraber
+bunlarla kısıtlı değildir. Eğer eş zamanlı güçlü CYP3A inhibitörü kullanımı kaçınılmaz ise,
+hastalar güvenlilik için gözlem altında tutulmalıdır. Kısa süre (7 gün veya daha kısa)
+kullanılan güçlü CYP3A inhibitörleriyle kullanım esnasında kobimetinib tedavisine ara
+verilmesi düşünülebilir.
+Orta derecede etkili CYP3A inhibitörleri (bkz. Bölüm 4.4):
+Orta derecede etkili CYP3A inhibitörleriyle kullanım esnasında dikkatli olunmalıdır. Orta
+derecede etkili CYP3A inhibitörleri amiodaron, eritromisin, flukonazol, mikonazol,
+diltiazem, verapamil, delavirdin, amprenavir, fosamprenavir, imatinibi içermekle beraber
+bunlarla kısıtlı değildir. Eş zamanlı orta derecede etkili CYP3A inhibitörü kullanımı halinde
+hastalar güvenlilik için gözlem altında tutulmalıdır.
+Hafif derecede etkili CYP3A inhibitörleri:
+Kobimetinib hafif derecede etkili CYP3A inhibitörleriyle, doz ayarlamasına gerek olmadan
+kullanılabilir.
+CYP3A indükleyicileri:
+Kobimetinibin güçlü bir CYP3A indükleyici ile birlikte kullanımı klinik araştırmalarda
+değerlendirilmemiştir; ancak kobimetinib maruziyetinin azalması olasıdır. Bu nedenle orta
+dereceli ve güçlü CYP3A indükleyicilerin (ör. karbamazepin, rifampisin, fenitoin ve St.
+John’s Wort [sarı kantaron]) birlikte kullanımından kaçınılmalıdır. CYP3A indüksiyonu
+yapmayan ya da minimal düzeyde yapan alternatif ajanlar düşünülmelidir. Orta dereceli-
+güçlü CYP3A indükleyicilerle birlikte uygulandığında kobimetinib konsantrasyonlarının
+muhtemelen anlamlı ölçüde azaldığı göz önünde bulundurulduğunda, hastaya sağlanan
+etkililik tehlikeye girebilmektedir.
+P-glikoprotein inhibitörleri:
+Kobimetinib P-glikoprotein (P-gp)’nin bir substratıdır. Siklosporin ve verapamil gibi P-gp
+inhibitörleriyle birlikte kullanımı kobimetinibin plazma konsantrasyonlarını artırma
+potansiyeline sahip olabilir.
+Kobimetinibin diğer ilaçlar üzerindeki etkileri:
+- 9 -CYP3A ve CYP2D6 substratları:
+Kanser hastalarında yapılan bir klinik ilaç-ilaç etkileşimi çalışmasında, kobimetinib
+varlığında plazma midazolam (duyarlı bir CYP3A substratı) ve dekstrometorpan (duyarlı bir
+CYP2D6 substratı) konsantrasyonlarının değişmediği belirlenmiştir.
+CYP1A2 substratları:
+İn vitro, kobimetinib potansiyel CYP1A2 uyarıcısıdır ve bu nedenle, bu enzimin
+substratlarının (örneğin; teofilin) maruziyetini azaltabilir. Bu bulgunun klinik ilgisini
+değerlendirmek için klinik ilaç-ilaç etkileşimi çalışmaları yapılmamıştır.
+BCRP substratları:
+Kobimetinib, in vitro olarak orta dereceli bir BCRP (Meme Kanseri Direnç Proteini)
+inhibitörüdür. Bu bulguyu değerlendirmek için klinik ilaç-ilaç etkileşimi çalışmaları
+yapılmamıştır ve intestinal BCRP inhibisyonunun klinik ilgisi dışlanamamaktadır.
+Diğer anti-kanser ajanlar:
+Vemurafenib:
+Cerrahi olarak çıkarılamayan ya da metastatik melanomu olan hastalarda COTELLIC ile
+vemurafenib arasında klinik olarak anlamlı herhangi bir ilaç-ilaç etkileşimi kanıtı mevcut
+değildir, bu nedenle doz ayarlaması önerilmez.
+Kobimetinibin ilaç transport sistemleri üzerindeki etkileri:
+İn vitro araştırmaların sonuçları, kobimetinibin, karaciğer alım transporterleri OATP1B1,
+OATP1B3 ve OCT1'nin substratı olmadığını, ancak bu transporterleri zayıf bir şekilde inhibe
+ettiğini göstermektedir. Bu bulguların klinik önemi araştırılmamıştır.
+Özel popülasyonlara ilişkin ek bilgiler
+Herhangi bir etkileşim çalışması yapılmamıştır.
+Pediyatrik popülasyon:
+Etkileşim çalışmaları yalnızca erişkinlerde yapılmıştır.
+4.6 Gebelik ve laktasyon
+Genel tavsiye
+Gebelik kategorisi: C
+Çocuk doğurma potansiyeli bulunan kadınlar / Doğum kontrolü (Kontrasepsiyon)
+Çocuk doğurma potansiyeli bulunan kadınlar COTELLIC tedavisi boyunca ve tedaviden
+sonra en az 3 ay süreyle prezervatif veya diğer bir bariyer metodu (mümkünse spermisidli)
+gibi iki etkili kontrasepsiyon yöntemi kullanmalıdır.
+Gebelik dönemi
+Gebe kadınlarda COTELLIC kullanımına ilişkin veri mevcut değildir. Hayvan çalışmalarında
+kobimetinib embriyoletaliteye ve fetüste büyük damar ve kafatası malformasyonlarına neden
+olmuştur (bkz. Bölüm 5.3). COTELLIC kesinlikle gerekli olmadıkça ve tedavinin anneye
+yararı ve fetüs üzerindeki riski dikkatlice değerlendirilmediği sürece gebelik döneminde
+kullanılmamalıdır.
+- 10 -Hayvanlar üzerinde yapılan çalışmalar, gebelik ve/veya embriyonal/fetal gelişim ve/veya
+doğum ve/veya doğum sonrası gelişim üzerindeki etkiler bakımından yetersizdir (bkz. Bölüm
+5.3). İnsanlara yönelik potansiyel risk bilinmemektedir.
+Laktasyon dönemi
+Kobimetinibin anne sütüne geçip geçmediği bilinmemektedir. Yenidoğanlar/bebekler
+üzerindeki risk göz ardı edilemez. Emzirmenin sonlandırılması veya COTELLIC tedavisinin
+sonlandırılması ile ilgili karar verilirken, emzirmenin çocuğa faydası ile tedavinin anneye
+sağladığı yarar dikkate alınmalıdır.
+Üreme yeteneği/Fertilite
+Kobimetinibin fertilite üzerine etkisi ile ilgili insanlarda yapılmış çalışma yoktur. Fertilite
+üzerindeki etkiyi değerlendirmek üzere hayvanlarda kobimetinib ile çalışma yapılmamıştır.
+Bununla birlikte, üreme organları üzerinde yan etkiler görülmüştür (bkz. Bölüm 5.3). Bu
+bulguların klinik önemi bilinmemektedir.
+4.7 Araç ve makine kullanımı üzerindeki etkiler
+COTELLIC’in araç ve makine kullanımı üzerinde çok az etkisi vardır. Klinik çalışmalar
+sırasında COTELLIC ile tedavi edilen bazı hastalarda görme bozuklukları bildirilmiştir (bkz.
+Bölüm 4.4 ve 4.8). Hastalara, görme bozuklukları yaşadıklarında veya görme yetilerini
+etkileyen herhangi bir yan etki yaşamaları durumunda araç veya makine kullanmamaları
+tavsiye edilmelidir.
+4.8 İstenmeyen etkiler
+Güvenlilik profilinin özeti
+COTELLIC'in vemurafenib ile kombinasyon halinde kullanımındaki güvenliliği,
+GO28141 çalışmasında, BRAF V600 mutasyonu saptanan ileri evre melanomu olan 247
+hastada değerlendirilmiştir. İlk Derece ≥3 advers olayların başlamasına kadar geçen süre,
+plasebo artı vemurafenib grubundaki 0,8 aya kıyasla, COTELLIC artı vemurafenib grubunda
+0,6 ay olarak saptanmıştır.
+COTELLIC'in vemurafenib ile kombinasyon halinde kullanımındaki güvenliliği, ayrıca
+NO25395 çalışmasında, BRAF V600 mutasyonu saptanan ileri evre melanomu olan 129
+hastada değerlendirilmiştir. NO25395 araştırmasındaki güvenlilik profili, GO28141
+araştırmasında gözlenen profille tutarlılık göstermiştir.
+Çalışma GO28141’de, COTELLIC artı vemurafenib grubunda daha yüksek sıklıkla
+gözlemlenen en yaygın advers reaksiyonlar (>%20), diyare, döküntü, bulantı, ateş, ışığa
+duyarlılık reaksiyonu, alanin aminotransferaz artışı, aspartat aminotransferaz artışı, kan
+kreatin fosfokinaz artışı ve kusma olarak belirtilmiştir. Plasebo artı vemurafenib grubunda
+daha yüksek sıklıkla gözlemlenen en yaygın advers reaksiyonlar (>%20), artralji, alopesi ve
+hiperkeratozis olmuştur. Her iki grupta da benzer sıklıklarda yorgunluk gözlemlenmiştir.
+Vemurafenib tedavisi ile ilişkili istenmeyen tüm etkilerin tam tanımı için vemurafenib
+KÜB’üne bakınız.
+Advers ilaç reaksiyonları (AİR’ler); daha önce tedavi edilmemiş, BRAF V600 mutasyonu
+pozitif, cerrahi olarak çıkarılamayan lokal ileri (Evre IIIc) veya metastatik melanomu (Evre
+- 11 -IV) bulunan hastalarda yapılan, COTELLIC’in vemurafenib ile kombinasyon halinde
+kullanımı esnasındaki güvenlilik ve etkililiğini sadece vemurafenib kullanımı ile karşılaştıran,
+çok merkezli, randomize, çift-kör, placebo-kontrollü bir Faz III çalışmaya (GO28141) ait
+bulgulara dayanmaktadır.
+AİR’lerin sıklığı, kobimetinib artı vemurafenib ile tedavi edilen hastalara ait, medyan 11,2
+aylık takip süresi ile yapılan bir güvenlilik analizi (veri alımının durdurulduğu tarih: 19 Eylül
+2014) sonuçlarına dayanmaktadır.
+Melanomlu hastalarda bildirilen AİR’ler, MedDRA vücut sistemi organ sınıfına, sıklığa ve
+şiddet derecesine göre aşağıda listelenmiştir. Sıklığın sınıflandırılmasında aşağıdaki kural
+kullanılmıştır:
+Çok yaygın (≥1/10), yaygın (≥1/100 ila <1/10), yaygın olmayan (≥1/1.000 ila <1/100), seyrek
+(≥1/10.000 ila <1/1.000), çok seyrek (<1/10.000), bilinmiyor (eldeki veriler ile tahmin
+edilemiyor).
+Aşağıda COTELLIC kullanımı ile ilişkilendirilen AİR’ler listelenmektedir. Herbir sıklık
+grubu içerisinde AİR’ler azalan şiddet sırasına göre belirtilmiş ve GO28141 çalışmasında
+toksisite değerlendirmesi için NCI-CTCAE v 4.0’a (genel toksisite kriterleri) göre
+raporlanmıştır.
+Faz III çalışmada (GO28141) ^ COTELLIC ile tedavi edilen hastalarda oluşan AİR’ler
+(Kist ve polipler de dahil olmak üzere) iyi huylu, kötü huylu ve sınıflandırılmamış
+neoplazmalar
+Yaygın : Bazal hücreli karsinom, kutanöz skuamöz hücreli karsinom**,
+keratoakantoma**
+Kan ve lenf sistemi hastalıkları
+Çok yaygın : Anemi
+Metabolizma ve beslenme hastalıkları
+Yaygın : Dehidratasyon, hipofosfatemi, hiponatremi, hiperglisemi
+Göz hastalıkları
+Çok yaygın : Seröz retinopatia, görme bulanıklığı
+Yaygın : Görme bozukluğu
+Vasküler hastalıklar
+Çok yaygın : Hipertansiyon, hemoraji*
+Solunum, göğüs bozuklukları ve mediastinal hastalıklar
+Yaygın : Pnömoni
+Gastrointestinal hastalıklar
+Çok yaygın : İshal, bulantı, kusma, stomatit
+Deri ve deri altı doku hastalıkları
+Çok yaygın : Foto-duyarlılıkb , döküntü, makülo-papüler döküntü, akneiform
+dermatit, hiperkeratoz**, kaşıntıc, cilt kuruluğuc
+- 12 -Kas-iskelet ve bağ doku hastalıkları
+Yaygın olmayan : Rabdomiyoliz***
+Genel bozukluklar ve uygulama bölgesine ilişkin hastalıkları
+Çok yaygın : Ateş, titreme, periferik ödemc
+Araştırmalar
+Çok yaygın : Kan kreatin fosfokinaz (CPK) yükselmesi, ALT yükselmesi, AST
+yükselmesi, Gamma-Glutamil transferaz (GGT) yükselmesi, kan ALP
+yükselmesi
+Yaygın : Ejeksiyon fraksiyonunda düşüş, kan bilirubininde yükselme
+^Veri alımının durdurulduğu tarih 19 Eylül 2014
+* Lütfen ‘Seçilmiş advers reaksiyonlara ilişkin açıklama’ başlıklı bölümdeki Hemoraji
+paragrafına bakınız.
+** Lütfen ‘Seçilmiş advers reaksiyonlara ilişkin açıklama’ başlıklı bölümdeki Kutanöz
+skuamöz hücreli karsinom, keratoakantoma ve hiperkeratosis paragrafına bakınız.
+a Seröz retinopatinin göstergesi olan korioretinopati ve retina dekolmanı olaylarını
+içermektedir (bkz. Bölüm 4.4)
+b Kombine şekil, ışığa duyarlılık reaksiyonu, güneş yanığı, solar dermatit, aktinik elastoz
+raporlarını içermektedir.
+c Bir kobimetinib monoterapi çalışmasında tanımlanan ADR'ler (ML29733; ABD çalışması).
+Ancak bu ADR’ler, rezeke edilemeyen veya metastatik melanomlu hastalarda yürütülen
+klinik çalışmalarda kobimetinib ve vemurafenib kombinasyonu için de bildirilmiştir.
+Seçilmiş advers reaksiyonlara ilişkin açıklama
+Hemoraji:
+COTELLIC artı vemurafenib grubunda kanama olayları, plasebo artı vemurafenib grubuna
+kıyasla daha sık olarak bildirilmiştir (tüm tipler ve dereceler: %7'ye kıyasla %13).
+COTELLIC artı vemurafenib grubunda ilk başlangıç ortalama zamanı 6,1 aydır.
+Olayların çoğu Derece 1 ya da 2 ve ciddi olmayan olaylardır. Çoğu olay COTELLIC dozunda
+değişiklik olmadan düzelmiştir. Pazarlama sonrası majör hemoraji olayları (intrakraniyal ve
+gastrointestinal sistem kanaması) raporlanmıştır. Hemoraji riski antiplatelet ve antikoagülan
+tedavisi ile birlikte kullanım sırasında artabilir. Eğer hemoraji meydana gelirse, klinik olarak
+belirtildiği şekilde tedavi edilmelidir (bkz. Bölüm 4.2 ve 4.4).
+Rabdomiyoliz:
+Pazarlama sonrası deneyimlerde rabdomiyoliz rapor edilmiştir. Advers reaksiyonun
+ciddiyetine göre, rabdomiyoliz belirtileri veya semptomları, belirtildiği gibi uygun bir klinik
+değerlendirme ve rabdomiyoliz tedavisinin kesilmesi ile kontrol altına alınır (bkz. Bölüm 4.2
+ve 4.4).
+Foto-duyarlılık:
+COTELLIC artı vemurafenib grubunda foto-duyarlılık, plasebo artı vemurafenib grubuna
+kıyasla daha yüksek bir sıklıkta gözlenmiştir (%35’e kıyasla %47). Olayların çoğu Derece 1
+- 13 -ya da 2 ve plasebo artı vemurafenib grubundaki hastaların %0'ına kıyasla COTELLIC artı
+vemurafenib grubundaki hastaların %4'ünde ortaya çıkan Derece ≥ 3 olayları içermiştir.
+Derece ≥3 olayların başlama zamanı açısından belirgin eğilimler ortaya çıkmamıştır.
+COTELLIC artı vemurafenib grubundaki Derece ≥3 foto-duyarlılık olayları, primer topikal
+ilaçla birlikte hem COTELLIC hem de vemurafenib doz uygulamasına ara verilerek tedavi
+edilmiştir (bkz. Bölüm 4.2).
+Tek ajan olarak COTELLIC kullanımıyla herhangi bir fototoksisite kanıtı gözlenmemiştir.
+Kutanöz skuamöz hücreli karsinom, keratoakantoma ve hiperkeratoz:
+COTELLIC artı vemurafenib grubunda kutanöz skuamöz hücreli karsinom, plasebo artı
+vemurafenib grubuna kıyasla daha düşük bir sıklıkta bildirilmiştir (tüm dereceler: %13'e
+kıyasla %3). COTELLIC artı vemurafenib grubunda keratoakantoma, plasebo artı
+vemurafenib grubuna kıyasla daha düşük bir sıklıkta bildirilmiştir (tüm dereceler: %9'a
+kıyasla %2). COTELLIC artı vemurafenib grubunda hiperkeratoz, plasebo artı vemurafenib
+grubuna kıyasla daha düşük bir sıklıkta bildirilmiştir (tüm dereceler: %30'a kıyasla %11).
+Seröz retinopati:
+COTELLIC ile tedavi edilen hastalarda seröz retinopati olguları bildirilmiştir (bkz. Bölüm
+4.4). Yeni ortaya çıkan ya da kötüleşen görme bozuklukları bildiren hastalar için oftalmolojik
+muayene önerilmektedir. Seröz retinopati, tedaviye ara verilerek, doz azaltılarak ya da tedavi
+tamamen bırakılarak yönetilebilmektedir (bkz. Bölüm 4.2, Tablo 1).
+Sol ventrikül disfonksiyonu:
+COTELLIC kullanan hastalarda, LVEF değerinde başlangıca göre düşüş olduğu bildirilmiştir
+(bkz. Bölüm 4.4). LVEF, başlangıç değerlerinin saptanması için tedaviye başlamadan önce,
+ardından ilk bir aylık tedaviden sonra ve tedavinin bırakılmasına kadar en az 3 ayda bir ya da
+klinik olarak endike olduğu şekilde değerlendirilmelidir. LVEF düzeyinde başlangıca göre
+ortaya çıkan azalma, tedaviye ara verilerek, doz azaltılarak ya da tedavi tamamen bırakılarak
+yönetilebilir (bkz. Bölüm 4.2).
+Laboratuvar değeri anormallikleri
+Karaciğerle ilgili laboratuvar değeri anormallikleri:
+Vemurafenib ile kombinasyon halinde COTELLIC tedavisi uygulanan hastalarda, karaciğerle
+ilgili laboratuvar değeri anormallikleri, özellikle ALT, AST ve ALP düzeylerinde
+gözlenmiştir (bkz. Bölüm 4.4). Karaciğerle ilgili laboratuvar testleri, kombinasyon tedavisine
+başlamadan önce ve tedavi sırasında ayda bir kez ya da klinik olarak endike olduğu şekilde
+daha sık olarak takip edilmelidir (bkz. Bölüm 4.2).
+Kan kreatinin fosfokinaz (CPK) artışı:
+GO28141 çalışmasında (bkz. Bölüm 4.2) COTELLIC artı vemurafenib grubunun tedavisinde
+plasebo artı vemurafenib grubu tedavisine kıyasla kandaki CPK seviyesinde asemptomatik
+artış gözlemlenmiştir. Çalışmanın herbir tedavi grubunda, kanda CPK düzeyinde eş zamanlı
+bir artışla birlikte bir rabdomiyaliz vakası gözlemlenmiştir.
+Tablo 3’te tüm Dereceler ve Derece 3-4 için, ölçülmüş karaciğer laboratuvar anomalileri ve
+kreatitin fosfataz yükselmesi sıklığı gösterilmektedir:
+- 14 -Tablo 3 GO28141 Faz III çalışmasında gözlenen karaciğer fonksiyonu ve diğer
+laboratuvar testleri
+Bildirilen Kobimetinib + vemurafenib Plasebo + vemurafenib
+laboratuvar (n=247) (n=246)
+verilerinde (%) (%)
+değişiklik
+Tüm Dereceler Derece 3-4 Tüm Dereceler Derece 3-4
+Karaciğer fonksiyon testi
+ALP yükselmesi 69 7 55 3
+ALT yükselmesi 67 11 54 5
+AST yükselmesi 71 7 43 2
+GGT yükselmesi 62 20 59 17
+Kan bilirubin 33 2 43 1
+yükselmesi
+Diğer laboratuvar anomalileri
+Kan CPK 70 12 14 <1
+yükselmesi
+Özel popülasyonlara ilişkin ek bilgiler
+Böbrek yetmezliği:
+Böbrek yetmezliği olan hastalarda farmakokinetik çalışma yapılmamıştır. Popülasyon
+farmakokinetiği analizine dayanarak, hafif ya da orta dereceli böbrek fonksiyon bozukluğu
+olan hastalarda doz ayarlaması önerilmemektedir. Ciddi böbrek fonksiyon bozukluğu olan
+hastalarda kısıtlı veri vardır. Ciddi böbrek fonksiyon bozukluğu olan hastalarda COTELLIC
+dikkatli kullanılmalıdır.
+Karaciğer yetmezliği:
+Karaciğer yetmezliği olan hastalarda doz ayarlaması gerekli değildir (bkz. Bölüm 5.2).
+Pediyatrik popülasyon:
+COTELLIC'in çocuklar ve ergenlerde güvenliliği tam olarak belirlenmemiştir. COTELLIC'in
+güvenliliği, solid tümörleri olan 2 ila 17 yaşları arasındaki 55 pediyatrik hastada yapılan çok
+merkezli, açık etiketli bir doz yükseltme çalışmasında değerlendirilmiştir. COTELLIC'in bu
+hastalardaki güvenlilik profili, yetişkin popülasyondaki ile tutarlı olmuştur (bkz. Bölüm 5.2).
+Geriyatrik popülasyon:
+Cerrahi olarak çıkarılamayan veya metastatik melanomlu hastalarda COTELLIC’in
+vemurafenib ile kombinasyonu Faz III çalışmasında (n=247), 183 hasta (%74) 65 yaşından
+küçük, 44 hasta (%18) 65-74 yaşları arasında, 16 hasta (%6) 75-84 yaşları arasında ve 4 hasta
+(%2) 85 yaş ile üstüdür. Advers etki görülme oranı 65 yaşından küçük ve 65 yaş ile üstü
+hastalarda benzerdir. 65 yaş ile üstü hastaların, 65 yaşından küçük hastalarla kıyaslandığında
+kobimetinib tedavisinin kesilmesine yol açan ciddi advers etkileri yaşamaları daha olasıdır.
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir (www.titck.gov.tr: e-
+posta: tufam@titck.gov.tr, tel: 0 800 314 00 08; faks: 0 312 218 35 99).
+- 15 -4.9 Doz aşımı ve tedavisi
+İnsanlarda yapılan klinik çalışmalarda herhangi bir doz aşımı deneyimi olmamıştır. Doz
+aşımından şüphelenilmesi durumunda, COTELLIC tedavisi durdurulmalı ve destekleyici
+bakım uygulanmalıdır. COTELLIC ile doz aşımı için spesifik bir antidot mevcut değildir
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1 Farmakodinamik özellikler
+Farmakoterapötik grup: Antineoplastik ajanlar, protein kinaz inhibitörleri, mitojen-aktive
+protein kinaz (MEK) inhibitörleri
+ATC kodu: L01EE02
+Etki mekanizması:
+COTELLIC, mitojen-aktive hücre dışı sinyal-regüle kinaz (MEK) 1 ve MEK 2'yi
+hedefleyerek ve sonucunda hücre dışı sinyal-regüle kinaz (ERK) 1 ve ERK 2’nin
+fosforilasyonunu inhibe ederek mitojen-aktive protein kinaz (MAPK) yolağını bloke eden,
+geri-dönüşümlü, selektif, allosterik, oral bir inhibitördür. Bu nedenle, kobimetinib, MEK1/2
+sinyal ağını inhibe etmek suretiyle, MAPK yolağı tarafından tetiklenen hücre
+proliferasyonunu bloke eder.
+Klinik öncesi modellerde, kobimetinib ve vemurafenib kombinasyonunun melanoma
+hücrelerindeki mutasyona uğramış BRAF V600 proteinleri ve MEK proteinlerini eşzamanlı
+olarak hedeflemesiyle, iki ürünü içeren bu kombinasyonun MEK1/2 aracılığıyla MAPK
+yolağının reaktivasyonunu inhibe ettiği ve bunun da, intraselüler sinyal iletiminin daha güçlü
+bir şekilde inhibisyonuna ve tümör hücresi proliferasyonunun azalmasına yol açtığı
+gösterilmiştir.
+Klinik etkililik ve güvenlilik:
+Santral sinir sistemi metastazı olan hastalarda vemurafenib ile kombinasyon halinde
+COTELLIC’in güvenliliği hakkında sınırlı veri bulunmakta olup etkililiği hakkında veri
+mevcut değildir. Non-kutanöz malign melanom hastalarında veri mevcut değildir.
+Çalışma GO28141 (coBRIM):
+GO28141 çalışması, BRAF V600 mutasyonu pozitif, cerrahi yöntemle çıkarılamayan lokal
+olarak ilerlemiş (evre IIIc) ya da metastatik melanomu (evre IV) olan önceden tedavi
+edilmemiş hastalarda vemurafenib ile kombinasyon halinde uygulanan COTELLIC'in
+sağladığı güvenlilik ve etkililiğin vemurafenib artı plasebo ile karşılaştırmalı olarak
+değerlendirildiği çok merkezli, randomize, çift-kör, plasebo kontrollü bir Faz III çalışmadır.
+Çalışma GO28141’e sadece ECOG performans durumu 0 ve 1 olan hastalar kaydedilmiştir.
+ECOG performans durumu 2 veya daha yüksek olan hastalar, çalışma dışında bırakılmıştır.
+Cobas® 4800 BRAF V600 mutasyon testi kullanılarak BRAF V600 mutasyonunun
+doğrulanmasını takiben, cerrahi yöntemle çıkarılamayan lokal olarak ilerlemiş ya da
+metastatik melanomu olan önceden tedavi edilmemiş 495 hasta, aşağıdaki tedaviler
+uygulanmak üzere randomize olarak gruplara ayrılmıştır:
+• Yirmi sekiz günlük her bir tedavi siklusunun 1.-21. günleri arasında günde bir kez
+plasebo ve 1.-28. günleri arasında günde iki kez 960 mg vemurafenib veya
+- 16 -• Yirmi sekiz günlük her bir tedavi siklusunun 1.-21. günleri arasında günde bir kez 60 mg
+COTELLIC ve 1.-28. günleri arasında günde iki kez 960 mg vemurafenib
+Araştırmacı (INV) tarafından değerlendirilen progresyonsuz sağkalım (PS) birincil sonlanım
+noktasını oluşturmuştur. İkincil sonlanım noktaları; genel sağkalım (GS), objektif yanıt
+oranı, araştırmacı tarafından değerlendirilmiş yanıt süresi (YS) ve bağımsız bir inceleme
+kuruluşu (IRF) tarafından değerlendirilen PS'yi içermiştir.
+Önemli başlangıç özellikleri aşağıdakileri içermiştir: hastaların %58'ini erkekler
+oluşturmuştur, medyan yaş 55'tir (sınır aralığı 23-88 yaş), %60'ında evre M1c metastatik
+melanom saptanmış ve LDH düzeyi yükselmiş olan hasta oranı, COTELLIC artı vemurafenib
+grubunda %46,3, plasebo artı vemurafenib grubunda ise %43 olarak belirlenmiştir.
+GO28141 çalışmasında 65-74 yaş aralığında 89 hasta (%18,1), 75-84 yaş aralığında 38 hasta
+(%7,7) ve 85 yaş ile üstü 5 hasta (%1) yer almıştır.
+Etkililik sonuçları Tablo 4’te özetlenmektedir.
+Tablo 4 GO28141 (coBRIM) çalışmasının etkililik sonuçları
+COTELLIC + Plasebo +
+vemurafenib vemurafenib
+N=247 N=248
+Birincil Sonlanım Noktasıa,f
+Progresyonsuz Sağkalım (PS)
+Medyan ( ay) 12,3 7,2
+%95 GA (9,5, 13,4) (5,6, 7,5)
+Tehlike oranı (%95 GA) b 0,58 (0,46 ; 0,72)
+Önemli İkincil Sonlanım Noktalarıa,f
+Genel Sağkalım (GS)g
+22,3 17,4
+Medyan ( ay)
+(20,3 ; NE) (15 ; 19,8)
+%95 GA
+0,7 (%95 GA: 0,55 ; 0,9)
+Tehlike oranı (%95 GA) b
+(p değeri 0,005e)
+Objektif Yanıt Oranı 172 (%69,6) 124 (%50)
+(OYO)
+Objektif yanıt oranı için (%63,5, %75,3) (%43,6, %56,4)
+%95 GAc
+OYO’daki fark (%95 GA) d 19,6 (11 ; 28,3)
+En İyi Genel Yanıt
+Tam Yanıt 39 (%15,8) 26 (%10,5)
+Kısmi Yanıt 133 (%53,8) 98 (%39,5)
+Stabil hastalık 44 (%17,8) 92 (%37,1)
+Yanıt süresi
+Medyan yanıt süresi (ay) 13 9,2
+Medyan için %95 GA (11,1 ; 16,6) (7,5 ; 12,8)
+NE= Değerlendirilebilir değildir.
+a RECIST v1.1 kullanılarak araştırmacı (INV) tarafından değerlendirilmiş ve doğrulanmıştır
+- 17 -b Coğrafi bölgeye ve metastaz sınıflamasına (hastalık evresi) göre katmanlandırılmış analiz
+c Clopper-Pearson yöntemi kullanılarak
+d Hauck-Anderson yöntemi kullanılarak
+e GS p-değeri (0,005), önceden belirlenmiş limiti (p<0,0499) geçmiştir
+f Bu güncellenmiş PS analizinin ve OYO, En İyi Genel Yanıt ve YS sekonder bitiş
+noktalarının veri alımının durdurulduğu tarih 16 Ocak 2015’tir. Medyan takip süresi 14,2
+aydır.
+g Final GS analizinin veri alımının durdurulduğu tarih 28 Ağustos 2015’tir. Medyan takip
+süresi 18,5 aydır.
+GO28141 çalışması için primer analiz, 09 Mayıs 2014 veri alımı durdurulma tarihiyle
+yürütülmüştür. COTELLIC artı vemurafenib verilen hastalar, plasebo artı vemurafenib
+verilen hastalarla karşılaştırıldığında, primer sonlanım noktası, araştırıcı tarafından
+değerlendirilmiş PS’de anlamlı gelişme gözlemlenmiştir (RO 0,51 (0,39; 0,68); p-değeri <
+0,0001). Araştırıcı tarafından değerlendirilmiş PS medyan tahmini, COTELLIC artı
+vemurafenib grubu için 9,9 ay ve plasebo artı vemurafenib grubu için 6,2 ay olmuştur. PS’nin
+bağımsız incelemesi için medyan tahmini, COTELLIC artı vemurafenib grubu için 11,3 ay ve
+plasebo artı vemurafenib grubu için 6 ay olmuştur (TO 0,60 (0,45; 0,79); p-değeri = 0,0003).
+Objektif yanıt oranı (OYO), COTELLIC artı vemurafenib grubunda %67,6; plasebo artı
+vemurafenib grubunda %44,8 olmuştur. OYO’daki fark %22,9 olmuştur (p-değeri<0,0001).
+GO28141 çalışmasının final analizi, veri alımı sonlandırılma tarihi 28 Ağustos 2015 olacak
+şekilde tamamlanmıştır. COTELLIC artı vemurafenib grubundaki hastalarda GS’de, plasebo
+artı vemurafenib grubundaki hastalara kıyasla önemli ölçüde iyileşme gözlenmiştir (bkz.
+Şekil 1). COTELLIC artı vemurafenib grubu için 1 yıllık (%75) ve 2 yıllık (%48) GS
+beklentileri plasebo artı vemurafenib grubundaki hastalardan daha yüksektir (sırasıyla %64
+ve %38).
+Şekil 1: Final Genel Sağkalıma Ait Kaplan-Meier Eğrileri – Tedavi Edilmesi
+Amaçlanan Popülasyon (veri alımının durdurulduğu tarih: 28 Ağustos 2015)
+Şekil 2: Progresyonsuz Sağkalım Alt-Grup Analizlerinin Tehlike Oranlarına Ait Forest
+Plot – Tedavi Edilmesi Amaçlanan Popülasyon (veri alımının durdurulduğu tarih: 28
+Ağustos 2015)
+- 18 -Genel sağlık durumu / sağlıkla ilişkili yaşam kalitesi, EORTC QLQ-C30 anketi kullanılarak,
+hasta bildirimi yoluyla ölçülmüştür. Tüm işlev alanlarına ait skorlar ve semptomların
+çoğunda (iştah kaybı, konstipasyon, bulantı ve kusma, dispne, ağrı, yorgunluk) klinik olarak
+anlamlı bir değişiklik (tüm skorlarda başlangıca göre ≤ 10 puan değişiklik) olmadığı ve iki
+tedavi grubu arasında başlangıçtan ortalama değişikliğin benzer olduğu gösterilmiştir.
+Çalışma NO25395 (BRIM7):
+COTELLIC'in etkililiği, Faz Ib araştırma olan NO25395'de değerlendirilmiştir; NO25395
+araştırması, COTELLIC'in BRAF V600 mutasyonu pozitif (Cobas® 4800 BRAF V600
+Mutasyon Testi ile saptanmıştır) cerrahi yöntemle çıkarılamayan ya da metastatik melanomu
+olan hastalarda vemurafenib tedavisine ek olarak kullanıldığında sağladığı güvenlilik,
+tolerabilite, farmakokinetik ve etkililiği değerlendirmek üzere tasarlanmıştır.
+Bu çalışmada COTELLIC ve vemurafenib ile 129 hasta tedavi edilmiştir: daha önce BRAF
+inhibitörü tedavisi (BRAFi) uygulanmamış olan 63 hasta ve daha önce uygulanan
+vemurafenib tedavisi sırasında progresyon görülen 66 hasta. Daha önce BRAFi kullanmamış
+ileri melanomu olan 63 hastadan 20’sine, çoğunluğu (%80) immunoterapi olmak üzere, daha
+önce sistemik tedavi uygulanmıştır.
+NO25395 araştırmasının daha önce BRAFi kullanmamış popülasyonundan elde edilen
+sonuçların, genel olarak GO28141 araştırmasının sonuçlarıyla tutarlı olduğu belirlenmiştir.
+Daha önce BRAFi kullanmamış hastalarda (n=63), %87 şeklindeki bir objektif yanıt oranı
+elde edilmiş ve bu oran, hastaların %16'sında elde edilen tam yanıtı da içermiştir. Medyan
+yanıt süresi 14,3 ay olarak belirlenmiştir. Daha önce BRAFi kullanmamış olan hastalar için
+medyan PS 13,8 ay ve medyan takip süresi 20,6 ay olmuştur.
+- 19 -Vemurafenib tedavisi sırasında progresyon görülen hastalarda (n=66), objektif yanıt oranı
+%15 olarak saptanmıştır. Medyan yanıt süresi 6,8 ay olarak belirlenmiştir. Vemurafenib
+tedavisi sırasında progresyon görülen hastalar için medyan PS, 8,1 aylık medyan takip süresi
+ile 2,8 ay olmuştur.
+BRAF inhibitörü ile tedavi edilmemiş hastalarda, medyan genel sağkalım 28,5 ay (%95 GA
+23,3-34,6) olmuştur. BRAF inhibitörü tedavisi sırasında progresyon görülen hastalarda,
+medyan genel sağkalım 8,4 ay (%95 GA 6,7-11,1) olmuştur.
+Pediyatrik popülasyon:
+COTELLIC'in güvenlilik, etkililik ve farmakokinetiğini değerlendirmek için pediyatrik
+hastalarda (< 18 yaş, n=55) bir faz I/II, çok merkezli, açık etiketli, doz artırma çalışması
+yapılmıştır. Çalışma, standart tedavinin etkisiz veya tolere edilemez olduğu kanıtlanmış veya
+hiçbir iyileştirici standart bakım tedavi seçeneğinin bulunmadığı, bilinen veya potansiyel
+RAS/RAF/MEK/ERK yolu aktivasyonlu solid tümörleri olan pediyatrik hastaları içermiştir.
+Hastalar, her 28 günlük döngünün 1-21. günlerinde, günde bir kez 60 mg'a kadar COTELLIC
+ile tedavi edilmiştir. Genel yanıt oranı, yalnızca 2 kısmi yanıtla (%3,6) düşük olmuştur.
+5.2 Farmakokinetik özellikler
+Emilim:
+Kanser hastalarında 60 mg oral doz uygulamasını takiben, kobimetinibin medyan 2,4 saatlik
+bir T ile orta dereceli bir absorpsiyon hızı olduğu gösterilmiştir. Ortalama sabit durum
+maks
+C ve EAA , sırasıyla 273 ng/mL ve 4340 ng.saat/mL olarak saptanmıştır. Sabit
+maks 0-24
+durumda ortalama birikim oranı yaklaşık 2,4 kat artmıştır. Kobimetinibin, ~3,5 mg ila 100
+mg doz aralığında doğrusal bir farmakokinetiği vardır.
+Kobimetinibin mutlak biyoyararlanımı, sağlıklı gönüllülerde %45,9 (%90 GA: %39,7,
+%53,1) olarak belirlenmiştir. Sağlıklı gönüllülerde bir insan kütle dengesi araştırması
+yapılmış ve kobimetinibin yaygın olarak metabolize edildiği ve feçes yoluyla atıldığı
+gösterilmiştir. Emilen fraksiyonun ~%88 olduğu belirlenmiştir ve bu da yüksek bir emilim
+düzeyi ve ilk geçiş metabolizmasını göstermektedir.
+Sağlıklı gönüllülerde tokluk durumunda (yağ içeriği yüksek bir öğün) uygulandığında,
+kobimetinibin farmakokinetiği açlık durumuna kıyasla değişiklik göstermemektedir.
+Farmakokinetiğinin besinlerden etkilenmemesi nedeniyle, kobimetinib besinlerle birlikte ya
+da öğün dışı zamanlarda kullanılabilmektedir.
+Dağılım:
+Kobimetinib, in vitro olarak insan plazma proteinlerine %94,8 oranında bağlanmaktadır.
+İnsan kırmızı kan hücrelerine ağırlıklı bir bağlanma gözlenmemiştir (kan/plazma oranı 0,93).
+2 mg'lık bir IV doz uygulanan sağlıklı gönüllülerde dağılım hacmi 1050 L olarak
+saptanmıştır. Popülasyon farmakokinetiği analizi temel alındığında, kanser hastalarındaki
+görünen dağılım hacmi 806 L olarak belirlenmiştir.
+Kobimetinib, P-gp in vitro substratıdır. Kan-beyin engelini geçip geçmediği bilinmemektedir.
+Biyotransformasyon:
+- 20 -CYP3A ile oksidasyon ve UGT2B7 ile glukuronidasyonun, kobimetinib metabolizmasının
+başlıca yolakları olduğu görülmektedir. Kobimetinib, plazmada ağırlıklı olan kısımdır.
+Plazmada, insana spesifik metabolitler ya da dolaşımdaki toplam radyoaktivitenin %10'undan
+daha yüksek oranda oksidatif metabolitler gözlenmemiştir. Feçes ve idrarda saptanan
+değişmemiş formdaki tıbbi ürün, uygulanan dozun sırasıyla %6,6 ve %1,6'sını oluşturmuştur
+ve bu da, kobimetinibin primer olarak metabolize edildiğini ve böbrek yoluyla atılımının çok
+düşük olduğunu göstermektedir. İn vitro veriler, kobimetinibin OAT1, OAT3 veya OCT2
+inhibitörü olmadığını göstermektedir.
+Eliminasyon:
+Kobimetinib ve metabolitleri sağlıklı denekler üzerinde kütle balans araştırması ile
+karakterize edilmiştir. Ortalama olarak dozun % 94’ü, 17 gün içerisinde geri alınır.
+Kobimetinibin metabolizasyonu ve eliminasyonu ağırlıklı olarak feçeste gerçekleşir.
+2 mg'lık kobimetinib dozunun IV yolla uygulanmasını takiben ortalama plazma klerensi 10,7
+L/saat olarak saptanmıştır. Kanser hastalarında 60 mg'lık oral dozu takiben ortalama
+görünen klerens 13.8 L/saat olmuştur. Kobimetinib dozunun oral yolla uygulanmasını takiben
+ortalama eliminasyon yarılanma ömrünün 43,6 saat (sınır aralığı: 23,1 - 69,6 saat) olduğu
+belirlenmiştir. Bu nedenle, kobimetinibin sistemik dolaşımdan tamamen temizlenmesi,
+tedavinin durdurulmasını takiben 2 hafta alabilmektedir.
+Doğrusallık/ doğrusal olmayan durum:
+Kobimetinibin, ~3,5 mg ila 100 mg doz aralığında doğrusal bir farmakokinetiği vardır.
+Özel popülasyonlara ilişkin ek bilgiler:
+Popülasyon farmakokinetiği analizine göre, cinsiyet, ırk, etnik köken, başlangıçtaki ECOG
+değeri, hafif ve orta dereceli böbrek fonksiyon bozukluğu, kobimetinibin farmakokinetiğini
+etkilememiştir. Başlangıçtaki yaş ve başlangıçtaki vücut ağırlığının, sırasıyla kobimetinib
+klerensi ve dağılım hacmi için istatistiksel olarak anlamlı ortak değişkenleri olduğu
+belirlenmiştir. Bununla birlikte duyarlılık analizi, bu ortak değişkenlerden hiçbirinin sabit
+durum maruziyeti üzerinde klinik olarak anlamlı bir etkisi olmadığını düşündürmektedir.
+Cinsiyet:
+210 kadın ve 277 erkeğin dahil edildiği bir popülasyon farmakokinetiği analizi temel
+alındığında, cinsiyet, kobimetinib maruziyeti üzerinde etki göstermemektedir.
+Geriyatrik popülasyon:
+65 yaş ve üstü 133 hastanın dahil edildiği bir popülasyon farmakokinetiği analizi temel
+alındığında, yaş, kobimetinib maruziyeti üzerinde etki göstermemektedir.
+Böbrek yetmezliği:
+Klinik öncesi veriler ve insanlardaki kütle dengesi araştırması temel alındığında, kobimetinib
+ağırlıklı olarak metabolize edilmektedir ve böbrek yoluyla atılımı minimal düzeydedir.
+Böbrek fonksiyon bozukluğu olan hastalarda resmi farmakokinetik araştırması yapılmamıştır.
+Hafif böbrek fonksiyon bozukluğu (kreatinin klerensi - KRKL 60 ila < 90 mL/dakika) olan
+151 hasta, orta dereceli böbrek fonksiyon bozukluğu (KRKL 30 ila < 60 mL/dakika) olan 48
+hasta ve böbrek fonksiyonu normal (KRKL ≥ 90 mL/dakika) olan 286 hastadan elde edilen
+verilerin kullanıldığı bir popülasyon farmakokinetik analizinin sonuçları, KRKL'nin
+kobimetinib maruziyeti üzerinde anlamlı bir etkisi olmadığını göstermiştir.
+- 21 -Popülasyon farmakokinetik analizine göre, hafif-orta dereceli böbrek fonksiyon bozukluğu
+kobimetinib maruziyetini etkilememektedir. Ciddi böbrek fonksiyon bozukluğu olan
+hastalarda COTELLIC kullanımına ilişkin sınırlı veri bulunmaktadır.
+Karaciğer yetmezliği:
+Kobimetinibin farmakokinetiği hafif derecede karaciğer bozukluğu (Child Pugh A) olan 6,
+orta derecede karaciğer bozukluğu (Child Pugh B) olan 6, şiddetli karaciğer bozukluğu (Child
+Pugh C) olan 6 ve 10 sağlıklı denekte incelenmiştir. Tek doz uygulamadan sonraki sistemik
+total kobimetinib maruziyeti, hafif ve orta derecede karaciğer bozukluğu olan deneklerde
+sağlıklı denekler ile benzerdir. Şiddetli karaciğer bozukluğu olan deneklerde total
+kobimetinib maruziyeti (sağlıklı deneklere kıyasla EAA geometrik ortalama oran 0,69),
+0-∞
+klinik olarak anlamlı olmayan derecede daha düşüktür. Hafif ve orta derecede karaciğer
+bozukluğu olan deneklerdeki bağlanmamış kobimetinib maruziyetleri, normal karaciğer
+fonksiyonu olan deneklerdekine benzerdir. Şiddetli karaciğer bozukluğu olan deneklerdeki
+bağlanmamış kobimetinib maruziyeti, normal karaciğer fonksiyonu olan deneklerdekinden
+yaklaşık 2 kat daha fazladır (bkz. Bölüm 4.2)
+Pediyatrik popülasyon
+Tablet ve süspansiyon formülasyonları için kanserli pediyatrik hastalarda maksimum tolere
+edilen doz (MTD) sırasıyla 0,8 mg/kg/gün ve 1 mg/kg/gün olarak bildirilmiştir. Pediyatrik
+hastalarda 1 mg/kg/gün (süspansiyon formülasyonu) olarak beyan edilen MTD'de geometrik
+ortalama (%CV) kararlı durum maruziyetleri C , 142 ng/mL (%79,5) ve EAA , 1862
+maks ss 0-24 ss
+ng.s /mL (%87) olmuştur. Bu, günde bir kez 60 mg'lık bir dozda yetişkinlere göre yaklaşık
+%50 daha düşüktür.
+5.3 Klinik öncesi güvenlilik verileri
+Kobimetinib ile karsinojenite çalışmaları yapılmamıştır. Kobimetinib ile yapılan standart
+genotoksisite araştırmalarının tümü negatif sonuç vermiştir.
+Hayvanlarda kobimetinib ile özel fertilite araştırmaları yapılmamıştır. Toksikoloji
+çalışmalarında, üreme dokularında dejeneratif değişiklikler gözlenmiş ve bu değişiklikler,
+sıçanlarda korpus luteumlar ve seminal vezikül, epididim ve vajinal epitel hücrelerinin ve
+köpeklerde epididim epitel hücrelerinin apoptoz/nekrozundaki artışı içermiştir. Bu bulguların
+klinik önemi bilinmemektedir.
+Kobimetinib önerilen dozda gebe sıçanlara uygulandığında, sistemik maruziyet
+insanlardakine benzer olmuş ve embriyoletaliteye ve fetüste büyük damar ve kafatası
+malformasyonlarına neden olmuştur.
+Kobimetinibin vemurafenib ile kombine kullanıldığındaki kardiyovasküler güvenliliği in vivo
+değerlendirilmemiştir. İn vitro olarak, kobimetinib, 60 mg dozdaki pik plazma
+konsantrasyonlarından (C ; bağlı olmayan C = 14 ng/mL [0,03 mcM]) yaklaşık 18 kat
+maks maks
+daha yüksek konsantrasyonlarında, orta dereceli bir hERG iyon kanalı inhibisyonu (IK =
+50
+0,5 mcM [266 ng/mL]) oluşturmuştur.
+Sıçanlar ve köpeklerde yapılan toksisite araştırmalarında, klinik olarak etkili düzeylerin
+altındaki plazma maruziyetlerinde, kemik iliği, gastrointestinal sistem, deri, timus, adrenal
+bez, karaciğer, dalak, lenf düğümü, böbrek, kalp, over ve vajinada genellikle geri dönüşlü
+olan dejeneratif değişiklikler ortaya çıktığı belirlenmiştir. Doz sınırlayıcı toksisiteler,
+- 22 -sıçanlarda deri ülserasyonları, yüzey eksüdatları ve akantozu, köpeklerde ise kronik aktif
+enflamasyon ve değişen derecelerde gastroenteropatiyle bağlantılı özofagus dejenerasyonunu
+içermiştir.
+Yavru sıçanlarda yapılan bir tekrarlanan doz toksisitesi araştırmasında, sistemik kobimetinib
+maruziyetleri erişkin sıçanlara benzer düzeyde olduğunda, doğum sonrası 10. gündeki
+sistemik kobimetinib maruziyetlerinin, erişkin sıçanlara benzer düzeyde olduğu doğum
+sonrası 38. güne kıyasla 2-11 kat daha yüksek olduğu saptanmıştır. Yavru sıçanlarda
+kobimetinib uygulaması, erişkinlerde yapılan pivotal toksisite araştırmalarında gözlenenlere
+benzer değişikliklere yol açmıştır - bunlar, timus ve karaciğerdeki geri dönüşlü dejeneratif
+değişiklikleri; dalak ve tiroid/paratiroid ağırlıklarının azalmasını; fosfor, bilirubin ve kırmızı
+kan hücre kütlesi artışlarını ve trigliserid düzeylerindeki düşüşü içermektedir. Yavru
+hayvanlarda ölüm oranı (3 mg/kg) dozajında gerçekleşmiştir, ki bu doz yetişkin hayvanlarda
+ölüme sebebiyet vermemiştir.
+6. FARMASÖTİK ÖZELLİKLER
+6.1 Yardımcı maddelerin listesi
+Tablet çekirdeği:
+Laktoz monohidrat (inek sütünden elde edilmiştir)
+Mikrokristalin selüloz (E460)
+Kroskarmelloz sodyum (E468)
+Magnezyum stearat (E470b)
+Film kaplama:
+Polivinil alkol
+Titanyum dioksit (E171)
+Macrogol 3950
+Talk (E553b)
+6.2 Geçimsizlikler
+Uygulanabilir değildir.
+6.3 Raf ömrü
+60 ay.
+6.4 Saklamaya yönelik özel tedbirler
+30°C altındaki oda sıcaklığında saklayınız.
+6.5 Ambalajın niteliği ve içeriği
+PVC/PVDC blisterler
+Ambalaj boyutu: 63 film kaplı tablet (21 tabletlik 3 blister)
+6.6 Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+- 23 -Kullanılmamış olan ürünler ya da atık materyaller “Tıbbi Atıkların Kontrolü Yönetmeliği’’
+ve “Ambalaj Atıklarının Kontrolü Yönetmelik”lerine uygun olarak imha edilmelidir.
+7. RUHSAT SAHİBİ
+Roche Müstahzarları Sanayi Anonim Şirketi
+Uniq İstanbul, Ayazağa Cad. No:4 D/101
+Maslak 34396 Sarıyer – İstanbul
+8. RUHSAT NUMARASI(LARI)
+2016/803
+9. İLK RUHSAT TARİHİ / RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi: 22.11.2016
+Ruhsat yenileme tarihi: 05.04.2022
+10. KÜB’ÜN YENİLENME TARİHİ
+- 24 -

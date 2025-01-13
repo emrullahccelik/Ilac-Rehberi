@@ -1,0 +1,558 @@
+KISA ÜRÜN BİLGİSİ
+▼Bu ilaç ek izlemeye tabidir. Bu üçgen yeni güvenlilik bilgisinin hızlı olarak belirlenmesini
+sağlayacaktır. Sağlık mesleği mensuplarının şüpheli advers reaksiyonları TÜFAM’a
+bildirmeleri beklenmektedir. Bakınız Bölüm 4.8. Şüpheli advers reaksiyonların raporlanması.
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+ZİEXTENZO® 6 mg/0,6 mL S.C. enjeksiyon için çözelti içeren kullanıma hazır enjektör
+Steril
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde:
+Bir enjeksiyon için kullanıma hazır enjektör 0,6 mL’de 6 mg pegfilgrastim (10 mg/mL*)
+içerir.
+* Yalnızca protein temel alınmıştır. Polietilen glikol (PEG) kısmı da dahil edildiğinde
+konsantrasyon 20 mg/mL olmaktadır.
+Pegfilgrastim, filgrastim (Rekombinant metiyonil insan G-CSF) ile N-terminal metiyonin
+kalıntısına kovalent bağla bağlanan 20 kDa PEG molekülünden oluşmaktadır.
+Filgrastim, E. coli içerisinde rekombinant DNA teknolojisi ile üretilmiş bir biyobenzerdir.
+Yardımcı madde(ler) (0,6 mL başına):
+Her bir kullanıma hazır enjektör 30 mg sorbitol (E420) ve sodyum hidroksit içermektedir.
+Yardımcı maddeler için Bölüm 6.1’e bakınız.
+3. FARMASÖTİK FORM
+Enjeksiyon için çözelti.
+Berrak, renksiz ila hafif sarımsı renkte enjeksiyon için çözelti.
+4. KLİNİK ÖZELLİKLER
+4.1 Terapötik endikasyonlar
+Malignite tanısı ile (kronik myelositer lösemi ve myelodisplastik sendrom hariç) sitotoksik
+kemoterapi verilen hastalarda, febril nötropeni ya da ağır nötropeni (mutlak nötrofil sayısı
+<500 μl) geliştiği gösterilen kürlerden sonra verilmesi uygundur.
+4.2 Pozoloji ve uygulama şekli
+Pozoloji/uygulama sıklığı ve süresi:
+ZİEXTENZO® tedavisi yalnızca onkoloji ve/veya hematoloji alanında deneyimli hekimler
+tarafından başlatılmalı ve yönetilmelidir.
+1Her kemoterapi kürü için, sitotoksik kemoterapiden en az 24 saat sonra uygulanan bir adet
+6 mg ZİEXTENZO® dozu (tek bir kullanıma hazır enjektör) önerilmektedir.
+Uygulanan ZİEXTENZO® dozu ile bir sonraki kemoterapi kürü arasında en az 14 gün süre
+olmalıdır.
+Uygulama şekli:
+ZİEXTENZO® subkutan olarak enjekte edilir. Enjeksiyonlar kalça, karın veya üst kola
+uygulanmalıdır. Uygulama öncesinde ürünün hazırlanmasıyla ilgili talimatlar için, Bkz.
+Bölüm 6.6.
+Özel popülasyonlara ilişkin ek bilgiler:
+Böbrek/Karaciğer yetmezliği:
+Böbrek hastalığının son evresi dahil, böbrek yetmezliği olan hastalarda doz değişikliği
+tavsiye edilmemektedir.
+Pediyatrik popülasyon:
+ZİEXTENZO®’in çocuklarda güvenlilik ve etkililiği henüz tespit edilmemiştir. Bölüm 4.8,
+5.1 ve 5.2’de güncel mevcut bilgiler anlatılmıştır, fakat pozolojiye ilişkin herhangi bir tavsiye
+yapılamamaktadır.
+Geriyatrik popülasyon:
+Bkz. Bölüm 5.2.
+4.3 Kontrendikasyonlar
+Etkin maddeye veya Bölüm 6.1’de verilen yardımcı maddelerden herhangi birisine karşı
+aşırı duyarlılık.
+4.4 Özel kullanım uyarıları ve önlemleri
+Genel uyarılar ve önlemler
+Sınırlı klinik veriler, pegfilgrastim ve filgrastimin ciddi nötropeninin iyileşme süresi
+üzerindeki etkisinin de novo Akut Miyeloid Lösemili (AML) hastalarda karşılaştırılabilir
+olduğunu göstermektedir (Bkz. Bölüm 5.1). Ancak ZİEXTENZO®'in uzun süreli etkileri
+AML’de tespit edilmemiştir; bu nedenle bu hasta popülasyonunda dikkatle kullanılmalıdır.
+Granülosit koloni uyarıcı faktörü, malign hücreler dahil miyeloid hücrelerin büyümesini
+in vitro olarak destekleyebilir ve benzer etkiler bazı miyeloid olmayan hücrelerde in vitro
+görülebilir.
+ZİEXTENZO®'in güvenliliği ve etkililiği, miyelodisplastik sendromlu, kronik miyeloid
+lösemili (KML) hastalarda ve sekonder AML’li hastalarda araştırılmamıştır; bu nedenle bu
+hastalarda kullanılmamalıdır. KML’nin blast transformasyon tanısını AML’den ayırmaya
+özen gösterilmelidir.
+Hücre genetiği t(15;17) olan 55 yaşın altındaki de novo AML hastalarında ZİEXTENZO®
+uygulamasının güvenliliği ve etkililiği tespit edilmemiştir.
+ZİEXTENZO®’in güvenliliği ve etkililiği yüksek doz kemoterapi uygulanmakta olan
+2hastalarda araştırılmamıştır. Bu tıbbi ürün, belirlenmiş doz şemaları dışında, sitotoksik
+kemoterapinin dozunu artırmak amacıyla kullanılmamalıdır.
+Pulmoner advers olaylar
+G-CSF uygulaması sonrasında, özellikle interstisiyel pnömoni gibi pulmoner advers
+reaksiyonlar bildirilmiştir. Yakın zamanda pulmoner infiltrasyon veya pnömoni geçirmiş
+olan hastalar daha yüksek bir risk altında bulunabilir (Bkz. Bölüm 4.8).
+Pulmoner infiltrasyona dair radyolojik belirtilerle birliktelik gösteren öksürük, ateş ve
+dispne gibi pulmoner belirtilerin ortaya çıkması ve artan nötrofil sayısı ile birlikte pulmoner
+fonksiyonların bozulması Akut Solunum Sıkıntısı Sendromunun (Acute Respiratory
+Distress Syndrome; ARDS) ön belirtileri olabilir. Bu gibi durumlarda ZİEXTENZO®
+hekimin takdirine bağlı olarak kesilmeli ve uygun tedavi uygulanmalıdır (Bkz. Bölüm 4.8).
+Glomerülonefrit
+Filgrastim ve pegfilgrastim alan hastalarda glomerülonefrit bildirilmiştir. Genel olarak,
+filgrastim ve pegfilgrastim dozunun azaltılmasından veya ilacın bırakılmasından sonra
+glomerülonefrite ilişkin olaylar düzelmektedir. İdrar tahlili izlemesi önerilmektedir.
+Kapiller kaçış sendromu
+Granülosit koloni uyarıcı faktör uygulamasından sonra kapiller kaçış sendromu (KKS)
+bildirilmiştir. KKS hipotansiyon, hipoalbüminemi, ödem ve hemokonsantrasyon ile
+karakterizedir. KKS semptomlarını sergileyen hastalar yakından izlenmeli ve aralarında
+yoğun bakım ihtiyacının da bulunabileceği, standart semptomatik tedavi uygulanmalıdır
+(Bkz. Bölüm 4.8).
+Splenomegali ve dalak rüptürü
+Pegfilgrastim uygulamasını takiben genellikle asemptomatik splengomegali vakaları ve bazı
+ölümcül vakalar da bildirilmiştir (Bkz. Bölüm 4.8). Bu nedenle dalak büyüklüğü dikkatlice
+izlenmelidir (Örneğin; klinik muayene, ultrason). Sol üst batın ağrısı veya omuz ucunda ağrı
+bildiren hastalar dalak yırtılması açısından değerlendirilmelidir.
+Trombositopeni ve anemi
+Tam doz miyelosupresif tedavi planlanan şemaya uygun olarak sürdürüldüğ için, tek başına
+ZİEXTENZO® ile tedavi, trombositopeni ve aneminin önüne geçmek için yeterli değildir.
+Düzenli trombosit sayısı ve hematokrit takibi önerilmektedir. Ciddi trombositopeniye neden
+oldukları bilinen tek veya kombinasyon halindeki kemoterapötik ajanların uygulanması
+sırasında özel dikkat gösterilmelidir.
+Meme ve akciğer kanseri hastalarında miyelodisplastik sendrom ve akut miyeloid lösemi
+Pazarlama sonrası çalışmalarda, meme ve akciğer kanseri hastalarında kemoterapi ve/veya
+radyoterapi ile birlikte pegfilgrastim kullanımı miyelodisplastik sendrom (MDS) ve
+akutmiyeloid lösemi (AML) gelişimi ile ilişkilendirilmiştir (Bkz. Bölüm 4.8). Meme ve
+akciğer kanseri hastaları MDS/AML belirtileri açısından izlenmelidir.
+3Orak hücreli anemi
+Orak hücre krizleri, orak hücreli anemi hastalığı bulunan hastalarda veya orak hücre
+taşıyıcılığında pegfilgrastim kullanımıyla ilişkilendirilmiştir (Bkz. Bölüm 4.8). Bu nedenle
+hekimler, orak hücreli anemi hastalığı bulunan hastalarda veya orak hücre taşıyıcılığında
+ZİEXTENZO® reçete ederken dikkatli olmalı, uygun klinik parametreleri ve laboratuvar
+durumunu gözlemlemeli ve bu ilacın dalak büyümesi ve vaso-oklusif krizlerle ilişkili
+olabileceği konusunda dikkatli olmalıdırlar.
+Lökositoz
+ZİEXTENZO® verilen hastaların % 1’inden daha azında 100 × 109/L veya daha yüksek
+akyuvar sayımı gözlenmiştir. Doğrudan bu düzeyde bir lökositoza bağlanabilecek hiçbir
+advers olay bildirilmemiştir. Akyuvar sayılarındaki bu tür yükselmeler geçici olup, tipik
+olarak uygulamanın 24 ile 48 saat sonrasında görülmektedir ve bu da bu ilacın
+farmakodinamik etkileri ile tutarlıdır. Klinik etkilerle tutarlı ve lökositoz için potansiyel
+olması sebebiyle, tedavi sırasında düzenli aralıklarla akyuvar sayımı yapılmalıdır. Lökosit
+sayısı beklenen alt seviyenin 50 × 109/L üzerinde ise, bu ilaç ile tedavi derhal kesilmelidir.
+Aşırı duyarlılık
+ZİEXTENZO® tedavisi gören hastalarda, tedavinin başlangıcında veya sonraki
+aşamalarında anafilaktik reaksiyonlar dahil aşırı duyarlılık bildirilmiştir. Klinik olarak
+anlamlı aşırı duyarlılık görülen hastalarda ZİEXTENZO® tedavisi kalıcı olarak
+bırakılmalıdır. Pegfilgrastim veya filgrastime aşırı duyarlılık öyküsü olan hastalara
+ZİEXTENZO® uygulanmamalıdır. Eğer ciddi alerjik bir reaksiyon gelişirse, uygun bir
+tedavi uygulanmalı ve hasta birkaç gün boyunca yakından izlenmelidir.
+Stevens-Johnson sendromu
+Pegfilgrastim tedavisi ile ilişkili olarak yaşamı tehdit edici veya ölümcül olabilen Stevens-
+Johnson sendromu (SJS) nadiren bildirilmiştir. Pegfilgrastim kullanımı nedeniyle hastada
+SJS gelişirse, bu hastada pegfilgrastim ile tedaviye hiçbir zaman tekrar başlanmamalıdır.
+İmmünojenite
+Tüm terapötik proteinlerle olduğu gibi immünojenite potansiyeli bulunmaktadır.
+Pegfilgrastime karşı antikor oluşma oranları genellikle düşüktür. Tüm biyolojik ürünlerde
+beklendiği gibi bağlayıcı antikorlar gelişir; ancak günümüzde bu antikorlar nötralizan
+aktivite ile ilişkilendirilmemiştir.
+Aortit
+Sağlıklı gönüllüler ve kanser hastalarına G-CSF uygulamasından sonra aortit bildirilmiştir.
+Ortaya çıkan semptomlar arasında ateş, karın ağrısı, kırıklık, sırt ağrısı yer alır ve
+enflamasyon belirteçleri (örneğin C-reaktif protein ve akyuvar sayısı) artmıştır. Çoğu
+vakada aortit, BT taraması ile teşhis edilmiş ve genellikle G-CSF kesildikten sonra
+düzelmiştir. (Bkz Bölüm 4.8)
+Diğer uyarılar
+Hastalarda veya sağlıklı donörlerde progenitör kan hücrelerinin mobilizasyonunda,
+4ZİEXTENZO®’nun güvenliliği ve etkililiği yeterince değerlendirilememiştir.
+Büyüme faktörü tedavisine yanıt olarak kemik iliğinin artan hematopoietik etkinliği geçici
+pozitif kemik görüntüleme değişiklikleriyle ilişkilendirilmiştir. Kemik görüntüleme
+sonuçları yorumlanırken bu durum dikkate alınmalıdır.
+Bu tıbbi ürün her kullanıma hazır enjektörde 50 mg/mL’ye eşdeğer 30 mg sorbitol içerir.
+Sorbitol (veya fruktoz) içeren ürünler ile diyetle sorbitol (veya fruktoz) alımının birlikte
+uygulanmasının katkı etkisi dikkate alınmalıdır. Nadir kalıtımsal fruktoz intolerans problemi
+olan hastaların bu ilacı kullanmamaları gerekir.
+ZİEXTENZO®, her 6 mg doz başına 1 mmol (23 mg)’dan daha az sodyum ihtiva eder; yani
+esasında “sodyum içermez” olarak kabul edilebilir.
+Biyobenzer ürünlerin takip edilebilirliğinin sağlanması için uygulanan ürünün ticari ismi ve
+seri numarası mutlaka hasta dosyasına kaydedilmelidir.
+4.5 Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+Hızlı bölünen miyeloid hücrelerin sitotoksik kemoterapiye karşı olan potansiyel
+duyarlılıkları nedeniyle, ZİEXTENZO® sitotoksik kemoterapi uygulamasından en az 24 saat
+sonra uygulanmalıdır. Klinik araştırmalarda, Pegfilgrastim kemoterapiden 14 gün önce
+güvenli şekilde uygulanmıştır. ZİEXTENZO®’nun herhangi bir kemoterapi ajanı ile eş
+zamanlı kullanımı hastalarda değerlendirilmemiştir. Hayvan modellerinde Pegfilgrastim ve
+5-florourasil (5-FU) veya diğer antimetabolitlerin eş zamanlı uygulanmasının
+miyelosupresyonu artırdığı gösterilmiştir.
+Diğer hematopoietik büyüme faktörleri ve sitokinler ile olası etkileşimler klinik
+araştırmalarda özel olarak araştırılmamıştır.
+Kendisi de nötrofil salıverilmesini artıran bir madde olan lityum ile potansiyel etkileşim özel
+olarak araştırılmamıştır. Böyle bir etkileşimin zararlı olabileceği konusunda hiçbir kanıt
+yoktur.
+ZİEXTENZO®’in güvenliliği ve etkililiği nitrozüreler gibi gecikmiş miyelosupresyon ile
+ilişkili kemoterapi görmekte olan hastalarda değerlendirilmemiştir.
+Spesifik etkileşim veya metabolizma çalışmaları gerçekleştirilmemiştir, bununla beraber
+klinik araştırmalar ZİEXTENZO®’in herhangi bir diğer tıbbi ürün ile etkileşimine işaret
+etmemiştir.
+Özel popülasyonlara ilişkin ek bilgiler
+Özel popülasyonlara ilişkin etkileşim çalışması yapılmamıştır.
+Pediyatrik popülasyon:
+Pediyatrik popülasyona ilişkin etkileşim çalışması yapılmamıştır.
+4.6 Gebelik ve laktasyon Genel tavsiye
+Gebelik kategorisi: C
+5Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon)
+ZİEXTENZO®’in çocuk doğurma potansiyeli bulunan kadınlarda ve doğum kontrolü
+(kontrasepsiyon) uygulamayan kadınlarda kullanılması tavsiye edilmemektedir.
+Gebelik dönemi
+Pegfilgrastimin gebe kadınlarda kullanımına ilişkin veri bulunmamaktadır veya sınırlı bilgi
+bulunmaktadır. Hayvanlar üzerinde yapılan çalışmalar üreme toksisitesinin bulunduğunu
+göstermiştir (Bkz. Bölüm 5.3).
+ZİEXTENZO® gebelik sırasında ve doğum kontrolü uygulamayan çocuk doğurma
+potansiyeli bulunan kadınlarda tavsiye edilmemektedir.
+Laktasyon dönemi
+ZİEXTENZO®’nun veya metabolitlerinin insan sütü ile atılmasına ilişkin bilgi yetersizdir.
+Yenidoğan veya infant açısından risk göz ardı edilemez. Emzirmenin ya da ZİEXTENZO®
+tedavisinin durdurulup durdurulmayacağına/tedaviden kaçınılıp kaçınılmayacağına ilişkin
+karar verilirken, emzirmenin çocuk açısından faydası ve ZİEXTENZO® tedavisinin emziren
+anne açısından faydası dikkate alınmalıdır.
+Üreme yeteneği/Fertilite
+Pegfilgrastim üreyebilirlik performansını veya erkek veya dişi sıçanlarda fertiliteyi önerilen
+insan dozundan yaklaşık olarak 6 ila 9 kat fazla kümülatif haftalık dozlarda (vücut yüzey
+alanı esas alınarak) etkilememiştir (Bkz. Bölüm 5.3).
+4.7 Araç ve makine kullanımı üzerindeki etkiler
+ZİEXTENZO®’nun araç ve makine kullanımı üzerine önemli ölçüde bir etkisi yoktur.
+4.8 İstenmeyen etkiler
+İstenmeyen etkiler, aşağıda tanımlanan sıklığa göre listelenmiştir:
+Çok yaygın (≥ 1/10); yaygın (≥ 1/100 ila < 1/10); yaygın olmayan (≥ 1/1.000 ila < 1/100);
+seyrek (≥ 1/10.000 ila < 1/1.000); çok seyrek (< 1/10.000); bilinmiyor (eldeki verilerden
+hareketle tahmin edilemiyor).
+Güvenlilik profilinin özeti
+En sık bildirilen advers olay kemik ağrısı (çok yaygın [≥ 1/10]) ve kas-iskelet sistemi
+ağrısıdır (yaygın [≥ 1/100 ila < 1/10]). Kemik ağrısı genel olarak hafif-orta şiddette, geçici
+olmuş ve çoğu hastada standart ağrı kesicilerle kontrol altına alınabilmiştir.
+Pegfilgrastimin ilk veya takip eden tedavisi sırasında, deri döküntüsü, ürtiker, anjiyoödem,
+dispne, eritem, yüzde kızarıklık ve hipotansiyonu içeren aşırı duyarlılık reaksiyonları
+bildirilmiştir (yaygın olmayan [≥ 1/1.000 ila < 1/100]). ZİEXTENZO® kullanan hastalarda
+anafilaksiyi içeren ciddi alerjik reaksiyonlar meydana gelebilir (yaygın olmayan) (Bkz.
+Bölüm 4.4).
+Tedavi gecikirse hayati tehlikesi olan KKS, granülosit koloni-uyarıcı faktörlerin
+uygulanmasından sonra kemoterapi alan kanser hastalarında seyrek (≥1/10.000 ila <1/1000)
+şekilde bildirilmiştir (Bkz. Bölüm 4.4).
+Genellikle asemptomatik, splenomegali vakaları yaygın olmayan sıklıktadır.
+6Pegfilgrastim uygulaması sonrasında bazıları ölümcül olabilen dalak rüptürü vakaları
+yaygın olmayan sıklıkta bildirilmiştir (Bkz. Bölüm 4.4).
+İnterstisyel pnömoni, pulmoner ödem, pulmoner infiltratlar ve pulmoner fibrozisi içeren
+pulmoner advers reaksiyonlar yaygın olmayan sıklıkta bildirilmiştir. Yaygın olmayan
+sıklıkta, bu vakaların bazıları, ölümcül olabilen ARDS veya solunum yetmezliği ile
+sonuçlanmıştır (Bkz. Bölüm 4.4).
+Orak hücre taşıyıcılığında veya orak hücreli anemi hastalığı bulunan hastalarda orak hücre
+krizleri izole vakaları bildirilmiştir (orak hücreli anemi hastalarında yaygın olmayan
+sıklıkta) (Bkz. Bölüm 4.4).
+Advers reaksiyonların tablo halinde özeti
+Aşağıdaki veriler, klinik araştırmalardan alınan ve spontan raporlama yoluyla bildirilen
+advers reaksiyonları tanımlamaktadır. Her bir sıklık gruplandırmasında, istenmeyen etkiler
+azalan ciddiyet sıralamasına göre sunulmuşlardır.
+7MedDRA sistem Advers reaksiyonlar
+organ sınıfı
+Çok yaygın Yaygın Yaygın olmayan Seyrek Çok seyrek
+(≥ 1/10) (≥ 1/100 ila (≥ 1/1.000 ila (≥ 1/10.000 (< 1/10.000)
+< 1/10) < 1/100) ila < 1/1.000)
+İyi huylu, Miyelodisplastik
+kötü huylu sendrom1
+ve Akut Miyeloid
+tanımlanm Lösemi1
+amış
+neoplazmal
+ar (kistler
+ve polipler
+dahil)
+Kan ve lenf Trombositopeni1 Orak hücre krizi2;
+sistemi Lökositoz1 Splenomegali2;
+hastalıkları Dalak rüptürü2
+Bağışıklık Aşırı
+sistemi duyarlılık;
+hastalıkları Anafilaksi
+Metabolizma ve Ürik asit
+beslenme seviyesinde
+hastalıkları yükselme
+Sinir sistemi Baş ağrısı1
+hastalıkları
+Vasküler Kapiller kaçış Aortit
+hastalıklar sendromu1
+Solunum, göğüs Akut solunum Pulmoner
+hastlıkları ve sendromu2; kanama
+mediastinal Pulmoner advers
+hastalıklar reaksiyonlar
+(intersitisyel
+pnömoni,
+pulmoner ödem,
+pulmoner
+infiltratlar ve
+pulmoner
+fibrozis)
+Hemoptizi
+Gastrointestinal Bulantı1
+hastalıklar
+Deri ve deri altı Sweet sendromu Stevens-
+dokusu (akut febril Johnson
+hastalıkları nötrofilik sendromu
+dermatoz)1,2;
+Kütanöz
+vaskülit1,2
+8MedDRA sistem Advers reaksiyonlar
+organ sınıfı
+Çok yaygın Yaygın Yaygın olmayan Seyrek Çok seyrek
+Kas-iskelet Kemik ağrısı Kas-iskelet ağrısı
+bozuklukları, (miyalji, artralji,
+bağ dokusu ve ekstremitelerde
+kemik ağrı, sırt ağrısı,
+hastalıkları kas-iskelet ağrısı,
+boyun ağrısı)
+Böbrek ve idrar Glomerülonefrit2
+yolu hastalıkları
+Genel Enjeksiyon Enjeksiyon
+bozukluklar ve yerinde ağrı1; yerinde
+uygulama Kalple ilişkisi reaksiyonlar2
+bölgesine ilişkin olmayan göğüs
+hastalıklar ağrısı
+Araştırmalar Laktat
+dehidrojenaz ve
+alkalen fosfataz
+seviyelerinde
+yükselme1;
+ALT veya
+AST’nin
+karaciğer
+fonksiyon
+testlerinde geçici
+yükselme1
+1Aşağıdaki “Seçilmiş advers reaksiyonların tanımı” bölümüne bakınız.
+2Bu advers reaksiyon pazarlama sonrası izleme çalışmalarında tespit edilmiş ancak
+yetişkinlerde yapılmış olan randomize, kontrollü klinik çalışmalarda gözlemlenmemiştir.
+Sıklık kategorisi, dokuz adet randomize klinik çalışmadaki Pegfilgrastim kullanan 1576
+hastadan elde edilen verilerin istatistiksel hesaplaması yoluyla tayin edilmiştir.
+Seçilmiş advers reaksiyonların tanımı
+Yaygın olmayan sıklıkta Sweet sendromu vakaları bildirilmiştir. Bu vakaların bazılarında
+hematolojik malignansilerin rolünün olabileceği düşünülmektedir.
+Pegfilgrastim ile tedavi edilen hastalarda yaygın olmayan sıklıkta kütanöz vaskülit vakaları
+bildirilmiştir. Pegfilgrastim kullanan hastalarda vaskülitin mekanizması bilinmemektedir.
+Pegfilgrastim’in ilk veya takip eden tedavilerinde, hem enjeksiyon bölgesinde eritemi
+(yaygın olmayan (≥ 1/1.000 ila < 1/100) hem de enjeksiyon bölgesinde ağrı (yaygın olaylar
+≥ 1/100 ila < 1/10) içerecek şekilde enjeksiyon bölgesi reaksiyonları meydana gelmiştir.
+Yaygın olarak (≥ 1/100 ila < 1/10) lökositoz (Beyaz Kan Sayımı [White Blood Count-
+WBC] > 100 × 109/L) bildirilmiştir (Bkz. Bölüm 4.4).
+Sitotoksik kemoterapi sonrasında, Pegfilgrastim verilen hastalarda, ürik asit ve alkalen
+fosfataz düzeylerinde, klinik etkisi olmayan, geri dönüşlü, yaygın olmayan oranda, hafif
+ile orta düzeylerde yükselmeler; laktat dehidrojenaz düzeylerinde klinik etkisi olmayan,
+geri dönüşlü, yaygın olmayan, hafif ile orta düzeylerde yükselmeler gözlenmiştir.
+9Kemoterapi alan hastalarda, çok yaygın sıklıkta bulantı ve baş ağrısı gözlenmiştir.
+Sitotoksik kemoterapi sonrası pegfilgrastim alan hastalarda, karaciğer fonksiyon
+testlerinden ALT (Alanin aminotransferaz) veya AST’de (Aspartat aminotransferaz)
+yaygın olmayan sıklıkta yükselmeler gözlenmiştir. Bu yükselmeler geçici olmuş ve
+sonradan başlangıç düzeyine dönmüştür.
+Meme ve akciğer kanseri hastalarında yapılan bir epidemiyolojik çalışmada, kemoterapi
+ve/veya radyoterapi ile birlikte ZİEXTENZO® tedavisini takiben MDS/AML riskinde artış
+gözlenmiştir (bkz. Bölüm 4.4.).
+Yaygın trombositopeni vakaları bildirilmiştir.
+Granülosit koloni-stimüle edici faktör kullanımı ile pazarlama sonrası dönemde kapiler
+kaçış sendromu vakaları bildirilmiştir. Bunlar genellikle ileri seviye malign hastalıkları
+olan, sepsis geçiren, birden çok kemoterapi ilacı alan veya aferez uygulanan hastalarda
+meydana gelmiştir (Bkz. Bölüm 4.4).
+Özel popülasyonlara ilişkin ek bilgiler:
+Pediyatrik popülasyon:
+Çocuklardaki deneyim sınırlıdır. 0-5 yaş arası çocuklarda (% 92), 6-11 ve 12-21 yaşındaki
+çocuklara (sırasıyla % 80 ve % 67) ve yetişkinlere kıyasla daha yüksek sıklıkta ciddi advers
+reaksiyonlar gözlemlenmiştir. Bildirilen en sık advers reaksiyon kemik ağrısıdır (Bkz.
+Bölüm 5.1 ve 5.2).
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir. (www.titck.gov.tr; e-
+posta: tufam@titck.gov.tr ; tel: 0 800 314 00 08; faks: 0 312 218 35 99).
+4.9 Doz aşımı ve tedavisi
+Sınırlı sayıda sağlıklı gönüllüye ve küçük hücreli olmayan akciğer kanseri hastalarına
+300 mikrogram/kg'lik tek dozlar, ciddi advers reaksiyonlar görülmeden subkutan
+uygulanmıştır. Advers olaylar, daha düşük dozda pegfilgrastim alan gönüllülerde
+görülenlere benzer düzeyde bulunmuştur.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1 Farmakodinamik özellikler
+Farmakoterapötik grubu: İmmünostimülanlar, koloni stimüle edici faktör
+ATC kodu: L03AA13
+Etki mekanizması
+10ZİEXTENZO® biyobenzer bir tıbbi üründür.
+İnsan granülosit koloni stimülan faktörü (G-CSF) kemik iliğinde nötrofil oluşumu ve
+salıverilmesini düzenleyen bir glikoproteindir. Pegfilgrastim rekombinant G-CSF’nin (r-
+metHuG-CSF) tek 20 kd polietilen glikol (PEG) moleküllü kovalent bileşiğidir.
+Pegfilgrastim azalmış renal klerens nedeniyle filgrastimin uzun etki süreli bir formudur.
+Pegfilgrastim ve filgrastimin, monositler ve/veya lenfositlerde minör yükselmelerle birlikte
+periferik kan nötrofil sayılarında 24 saat içinde belirgin bir artışa neden olan, aynı etki
+tarzına sahip oldukları gösterilmiştir. Kemotaktik ve fagositik fonksiyon testleri ile
+gösterildiği üzere, pegfilgrastime yanıt olarak üretilen nötrofiller, filgrastime benzer şekilde
+normal veya artmış fonksiyon göstermektedir. Diğer hematopoietik büyüme faktörleri ile
+olduğu gibi, G-CSF’nin insan endotelyel hücreleri üzerine in vitro stimülan özellikleri
+gösterilmiştir. G-CSF, in vitro malign hücreleri de içeren miyeloid hücrelerin gelişimini
+artırabilir, bazı in vitro non- miyeloid hücrelerde de benzer etkiler görülebilir.
+Klinik etkililik ve güvenlilik
+Doksorubisin ve dosetakselden oluşan miyelosupresif kemoterapi uygulanmakta olan
+yüksek riskli evre II-IV meme kanserli hastalarda gerçekleştirilen iki randomize, çift-kör
+pivotal çalışmada her kür başına tek doz olarak pegfilgrastim kullanılması, günlük filgrastim
+uygulamaları (ortanca değeri olarak 11 günlük uygulama) ile gözlenene benzer şekilde,
+nötropeni süresini ve febril nötropeni görülme sıklığını düşürmüştür. Büyüme faktörü
+desteği verilmediğinde, bu rejimin ortalama 5 ile 7 gün arasında evre 4 nötropeni süresine
+ve % 30-40 febril nötropeni görülme sıklığına neden olduğu bildirilmiştir.
+6 mg sabit doz pegfilgrastim kullanılan ilk çalışmada (n = 157), evre 4 nötropeni ortalama
+süresi pegfilgrastim grubunda 1,8 gün olurken, filgrastim grubunda 1,6 gün olmuştur (fark
+0,23 gün, % 95 GA -0,15, 0,63). Tüm çalışma boyunca febril nötropeni oranı pegfilgrastimle
+tedavi edilen hastalarda % 13 olurken, filgrastimle tedavi edilen hastalarda % 20 olmuştur
+(fark -% 7, % 95 GA -% 19, % 5).
+Vücut ağırlığına göre ayarlanmış (100 mikrogram/kg) doz kullanılan ikinci bir çalışmada (n
+= 310), evre 4 nötropeni ortalama süresi pegfilgrastim grubunda 1,7 gün, filgrastim
+grubunda 1,8 gün olmuştur (Fark 0,03 gün, % 95 GA -0,36, 0,30). Genel febril nötropeni
+oranı pegfilgrastimle tedavi edilen hastalarda % 9 ve filgrastimle tedavi edilen hastalarda %
+18 olmuştur (fark - % 9, % 95 GA -% 16,8, -% 1,1).
+Plasebo kontrollü çift kör bir çalışmada pegfilgrastimin febril nötropeni sıklığı üzerindeki
+etkisi, % 10-20'lik bir febril nötropeni oranıyla ilişkili olduğu bildirilen bir kemoterapi
+rejiminin (4 kür boyunca her 3 haftada bir 100 mg/m2 dosetaksel) uygulanmasından sonra
+değerlendirilmiştir. Bu çalışmada 928 hasta her döngüde kemoterapiden yaklaşık 24 saat
+(yani 2. günde) sonra tek bir doz pegfilgrastim veya plasebo almak üzere randomize
+edilmiştir. Febril nötropeni sıklığı, plaseboyla karşılaştırıldığında pegfilgrastim almak üzere
+randomize edilen hastalarda önemli ölçüde düşüktür (sırasıyla % 17’ye karşılık % 1, p <
+0,001). Febril nötropeni klinik tanısıyla ilişkili hastaneye yatma ve IV anti-infektif kullanımı
+sıklığı, pegfilgrastim grubunda plasebo grubuyla karşılaştırıldığında önemli ölçüde düşüktür
+(sırasıyla % 1'e karşılık % 14, p < 0,001 ve % 2'ye karşılık % 10, p < 0,001).
+De novo AML için kemoterapi alan hastalarda yapılan küçük bir (n = 83), Faz II, randomize,
+çift kör çalışmada, pegfilgrastim (tek doz 6 mg) indüksiyon kemoterapisi sırasında verilen
+filgrastimle karşılaştırılmıştır. Ciddi nötropeniden ortanca iyileşme süresinin her iki tedavi
+grubunda 22 gün olduğu tahmin edilmiştir. Uzun süreli sonuç çalışılmamıştır (Bkz. Bölüm
+4.4).
+11Vinkristin, doksorubisin ve siklofosfamid (VAdriaC/IE) kemoterapisinin bir küründen sonra
+100 mikrogram/kg pegfilgrastim alan pediyatrik sarkoma hastaları ile yapılan bir faz II
+(n = 37), çok merkezli, randomize, açık etiketli çalışmada, 6-11 yaş ve 12-21 yaş arası daha
+büyük çocuklarda (sırasıyla 6 gün ve 3,7 gün) ve erişkinlere kıyasla 0-5 yaş arası çocuklarda
+ciddi nötropeni (nötrofil < 0,5 × 109) süresi daha uzun olmuştur (8,9 gün). Buna ek olarak,
+6-11 yaş ve 12-21 yaş arası daha büyük çocuklara (sırasıyla % 70 ve % 33) ve erişkinlere
+kıyasla 0-5 yaş arası çocuklarda febril nötropeni insidansı daha yüksek (% 75) olmuştur
+(Bkz. Bölüm 4.8 ve 5.2).
+5.2 Farmakokinetik özellikler
+Genel özellikler
+Emilim:
+Tek bir deri altı pegfilgrastim dozu sonrasında, pegfilgrastim doruk serum
+konsantrasyonuna doz uygulamasının 16 ila 120 saat sonrasında ulaşır.
+Dağılım:
+Pegfilgrastim serum konsantrasyonları miyelosupresif kemoterapi sonrasındaki nötropeni
+dönemi boyunca korunur.
+Biyotransformasyon:
+Veri yoktur.
+Eliminasyon:
+Pegfilgrastimin eliminasyonu doza göre doğrusal değildir: Pegfilgrastimin serum klerensi
+doz arttıkça azalır. Pegfilgrastim başlıca olarak, yüksek dozlarda doyuma ulaşan, nötrofil
+aracılı klerens ile atılmaktadır. Kendini-düzenleyici bir klerens mekanizması ile uyumlu
+olarak, pegfilgrastim serum konsantrasyonu nötrofil tablosunda düzelmenin meydana
+gelmesi ile birlikte hızla düşer (Bkz. Şekil 1).
+12Şekil 1. Kemoterapi ile tedavi edilen hastalarda tek 6 mg enjeksiyonu sonrasında
+ortanca pegfilgrastim serum konsantrasyonu ve mutlak nötrofil sayısı (MNS) profili
+l
+) l
+m
+1000 100 9 1/ 0
+/ PePgefilggrafisltgimra kosntsimant rCasoyonncu. x
+g .n( MANSN C l sl
+c n o 100 10 c e(
+C t
+n
+i
+s
+rtm
+a
+u o
+C li
+g h
+l g eif 10 p rt
+u
+o
+P e
+um 1 N
+r t
+e
+e S 1 l u
+n
+i
+o
+s
+a
+d e
+b
+A n M ia
+0.1 0.1 d
+0 3 6 9 12 15 18 21
+Çalışma Günü
+Hastalardaki karakteristik özellikler
+Böbrek/Karaciğer yetmezliği:
+Nötrofil aracılı klerens mekanizmasına bağlı olarak, pegfilgrastimin farmakokinetiğinin
+böbrek veya karaciğer bozukluğundan etkilenmesi beklenmez. Açık etiketli bir tek doz
+çalışmasında (n = 31), son dönem böbrek yetmezliği dahil çeşitli evrelerdeki böbrek
+yetmezliğinin pegfilgrastimin farmakokinetiğini etkilemediği gözlenmiştir.
+Pediyatrik popülasyon:
+Pegfilgrastim’in farmakokinetiği VAdriaC/IE kemoterapisini tamamladıktan sonra
+100 mikrogram/kg ZİEXTENZO® alan sarkoma hastası olan 37 pediyatrik hastada
+çalışılmıştır. En genç yaş grubunun (0-5 yaş) (EAA) (±Standart Sapma) (47,9 ± 22,5
+mikrogram.saat/mL), en büyük çocuklardan (6-11 yaş ve 12-21 yaş) sırasıyla 22,0 ± 13,1
+mikrogram.saat/mL ve 29,3 ± 23,2 mikrogram.saat/mL daha yüksek ortalama pegfilgrastim
+maruziyeti olmuştur (Bkz. Bölüm 5.1. Farmakodinamik özellikler). En genç yaş grubu (0-5
+yaş) haricinde, pediyatrik gönüllülerdeki ortalama EAA, doksorubisin/dosetaksel tedavisini
+tamamladıktan sonra 100 mikrogram/kg pegfilgrastim alan yüksek riskli evre II-IV meme
+kanseri olan yetişkin hastalarla benzer bulunmuştur. (Bkz. Bölüm 4.8. İstenmeyen etkiler ve
+Bölüm 5.1).
+Geriyatrik popülasyon:
+Sınırlı veriler, yaşlı hastalardaki (> 65 yaş) pegfilgrastim farmakokinetiğinin erişkinlerdeki
+ile benzer olduğunu göstermiştir.
+5.3 Klinik öncesi güvenlilik verileri
+Tekrarlayan doz toksisitesiyle ilgili geleneksel çalışmalardan elde edilen klinik öncesi
+veriler, lökosit sayımında artışlar, kemik iliğinde miyeloid hiperplazi, ekstramedüller
+13
+)Lm/gn(
+unoysartnasnok
+mitsarglifgep
+mures
+acnatrO
+)L/901
+x
+relercüh(
+)SNM(
+ısıyas
+lifortön
+kaltum
+acnatrOhematopoez ve dalak büyümesi dahil beklenen farmakolojik etkiler göstermiştir.
+Subkutan olarak pegfilgrastim verilen gebe sıçanların yavrularında advers etkiler
+gözlenmemiştir. Ancak önerilen insan dozunun yaklaşık 4 katı kümülatif dozlarda,
+pegfilgrastim verilen tavşanlarda embriyo/fetal toksisite (embriyo kaybı) meydana geldiği
+gösterilmiştir. Gebe tavşanlar, insanlar için önerilen dozlara maruz bırakıldığında bu etkiler
+görülmemiştir. Sıçan çalışmalarında pegfilgrastimin plasentayı geçebileceği gösterilmiştir.
+Sıçanlarla yapılan çalışmalarda subkutan yol ile uygulanan pegfilgrastimin üreme
+performansını, fertiliteyi, östrus döngüsünü, çiftleşme ve koitus arasındaki günleri ve
+intrauterin sağkalımı etkilemediği gösterilmiştir. Bu bulguların insanlar için uygunluğu
+bilinmemektedir.
+6. FARMASÖTIK ÖZELLIKLER
+6.1 Yardımcı maddelerin listesi
+Asetik asit
+Sorbitol (E420)
+Polisorbat 20
+Sodyum hidroksit (pH 4’e ayarlamak için yeter miktar kullanılabilir)
+Enjeksiyonluk su
+6.2 Geçimsizlikler
+Bu tıbbi ürün özellikle sodyum klorür çözeltileri olmak üzere başka tıbbi ürünlerle
+karıştırılmamalıdır.
+6.3 Raf ömrü
+36 ay.
+6.4 Saklamaya yönelik özel tedbirler
+2-8°C’de (buzdolabında) saklayınız. Dondurmayınız.
+Işıktan korumak için kabı dış kartonu içerisinde saklayınız.
+ZİEXTENZO®, oda sıcaklığına (35°C’yi aşmayan) maksimum 120 saate kadar maruz
+bırakılabilir. 120 saatten fazla oda sıcaklığında bırakılan ZİEXTENZO® atılmalıdır.
+Tek seferde 24 saatten az süreyle dondurucu sıcaklıkta kazara kaldığı takdirde
+ZİEXTENZO®’nun stabilitesi olumsuz etkilenmez.
+6.5 Ambalajın niteliği ve içeriği
+Kauçuk piston tıpası, piston çubuğu, paslanmaz çelik 29 gauge iğne ve ve otomatik iğne
+emniyeti bulunan kauçuk iğne kapaklı kullanıma hazır enjektör (Tip I cam).
+Herbir kullanıma hazır enjektör 0,6 mL enjeksiyon için çözelti içermektedir. Herbir
+ambalajda, blisterlenmiş bir adet kullanıma hazır enjektör bulunmaktadır.
+146.6 Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+Kullanmadan önce, ZİEXTENZO® çözeltisi gözle görünen partiküller açısından
+incelenmelidir. Sadece berrak ve renksiz ila hafif sarımsı renkte olan çözelti enjekte
+edilmelidir.
+Aşırı çalkalama, pegfilgrastimi agrege ederek biyolojik olarak inaktif hale çevirebilir.
+Enjeksiyon öncesinde kullanıma hazır enjektörün oda sıcaklığına gelmesi için 15-30 dakika
+bekleyin.
+Kullanılmamış olan ürünler ya da atık malzemeler “Tıbbi Atıkların Kontrolü Yönetmeliği”
+ve “Ambalaj Atıklarının Kontrolü Yönetmeliği’ne” uygun olarak imha edilmelidir.
+7. RUHSAT SAHIBI
+Sandoz GmbH, Kundl/Avusturya adına
+Sandoz İlaç San. ve Tic. A.Ş.
+Suryapı & Akel İş Merkezi
+Rüzgarlıbahçe Mah. Şehit Sinan Eroğlu Cad. No: 6
+34805 Kavacık/Beykoz/İstanbul
+8. RUHSAT NUMARASI
+2023/200
+9. İLK RUHSAT TARİHİ /RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi: 23.05.2023
+10. KÜB’ÜN YENİLEME TARİHİ
+1516

@@ -1,0 +1,1563 @@
+KISA ÜRÜN BİLGİSİ
+Bu ilaç ek izlemeye tabidir. Bu üçgen yeni güvenlilik bilgisinin hızlı olarak
+belirlenmesini sağlayacaktır. Sağlık mesleği mensuplarının şüpheli advers reaksiyonları
+TÜFAM’a bildirmeleri beklenmektedir. Bakınız Bölüm 4.8 Advers reaksiyonlar nasıl
+raporlanır.
+1. BEŞERİ TIBBI ÜRÜNÜN ADI
+DELSTRIGO 100 mg/300 mg/300 mg film kaplı tablet
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin maddeler: 100 mg doravirin, 300 mg lamivudin (3TC) ve tenofovir disoproksil
+fumarat (TDF) olarak 245 mg tenofovir disoproksil.
+Yardımcı maddeler:
+Laktoz* (monohidrat şeklinde)…… 8,6 mg
+*Sığır sütünden elde edilmiştir.
+Yardımcı maddelerin tam listesi için Bölüm 6.1’e bakınız.
+3. FARMASÖTİK FORM
+Film kaplı tablet (tablet).
+Sarı, oval şekilli, 21,59 mm x 11,30 mm ebatlarında film kaplı tabletler şeklinde sunulur.
+Tabletlerin bir yüzüne firma logosu ve 776 rakamı basılmıştır, diğer yüzü baskısızdır.
+4. KLİNİK ÖZELLİKLER
+4.1 Terapötik endikasyonlar
+DELSTRIGO geçmişte veya halihazırda non-nükleozid revers transkriptaz inhibitörü
+(NNRTİ) sınıfına, lamivudine veya tenofovire direnç kanıtları bulunmayan insan bağışıklık
+yetmezliği virüsü tip 1 (HIV-1) enfeksiyonlu yetişkinlerin tedavisi için endikedir (bkz.
+Bölüm 4.4 ve 5.1).
+DELSTRIGO, NNRTİ sınıfı, lamivudin veya tenofovir'e karşı geçmişte veya şu anda direnç
+kanıtı olmayan ve tenofovir disoproksil içermeyen diğer rejimlerin kullanımını engelleyen
+toksisiteler yaşamış olan HIV-1 ile enfekte 12 yaş ve üzeri en az 35 kg ağırlığındaki
+ergenlerin tedavisinde de endikedir (bkz. Bölüm 4.4 ve 5.1).
+4.2 Pozoloji ve uygulama şekli
+Tedavi HIV enfeksiyonunun tedavisinde deneyimli bir hekim tarafından başlatılmalıdır.
+Pozoloji/uygulama sıklığı ve süresi:
+DELSTRIGO’nun tavsiye edilen dozu günde bir kez, gıdalarla birlikte veya ayrı olarak ağız
+yoluyla alınan bir 100/300/300 mg tablettir.
+Doz ayarlaması
+1Eğer DELSTRIGO rifabutin ile birlikte uygulanırsa, doravirin dozu günde iki kez 100 mg’a
+çıkarılmalıdır. Bunun için, DELSTRIGO dozundan yaklaşık 12 saat sonra alınmak üzere 100
+mg’lık bir doravirin (tekli ajan olarak) tableti tedavi rejimine eklenir (bkz. Bölüm 4.5).
+Doravirinin diğer orta düzeyde CYP3A indükleyicileriyle eş zamanlı uygulanması
+değerlendirilmemiştir ancak doravirin konsantrasyonlarında azalma beklenir. Eğer diğer orta
+düzeyde CYP3A indükleyicileriyle (örn., dabrafenib, lesinurad, bosentan, tioridazin, nafsilin,
+modafinil, telotristat etil) eş zamanlı uygulama zorunlu ise, DELSTRIGO’nun son dozundan
+yaklaşık 12 saat sonra günde bir kez 100 mg’lık bir doravirin tableti alınmalıdır (bkz. Bölüm
+4.5).
+Unutulan doz
+Eğer hasta DELSTRIGO’nun bir dozunu almayı unutursa ve normalde dozun alındığı
+zamanın üzerinden 12 saat veya daha kısa süre geçmişse hasta mümkün olan en kısa sürede
+DELSTRIGO’yu almalı ve ardından normal dozaj takvimine devam etmelidir. Eğer hasta
+DELSTRIGO’nun bir dozunu almayı unutmuş ve DELSTRIGO’nun alındığı zamanın
+üzerinden 12 saatten daha uzun bir süre geçmişse, hasta unutulan dozu almamalı ve sonraki
+dozu dozaj takvimindeki normal zamanında almalıdır. Hasta bir seferde 2 doz almamalıdır.
+Uygulama şekli:
+DELSTRIGO günde bir kez, gıdalarla birlikte veya ayrı olarak ağız yoluyla alınmalı ve tablet
+bütün olarak yutulmalıdır (bkz. Bölüm 5.2).
+Özel popülasyonlara ilişkin ek bilgiler
+Geriyatrik popülasyon:
+65 yaş ve üzeri hastalarda doravirin, lamivudin ve tenofovir disoproksilin kullanımına ilişkin
+sınırlı veri mevcuttur. Yaşlı hastaların daha genç yetişkin hastalardan farklı bir doza ihtiyaç
+duyduklarına dair hiçbir kanıt yoktur (bkz. Bölüm 5.2). Böbrek fonksiyonunda azalmalar gibi
+yaşlanmaya bağlı değişiklikler nedeniyle bu yaş grubunda özellikle dikkatli olunması önerilir
+(bkz. Bölüm 4.4).
+Böbrek yetmezliği:
+Hesaplanan kreatinin klerensi (CrCl) ≥ 50 mL/dak olan hastalarda DELSTRIGO dozunda
+ayarlama gerekmez.
+Hesaplanan CrCl < 50 mL/dak olan hastalara DELSTRIGO başlanmamalıdır (bkz. Bölüm 4.4
+ve 5.2). Hesaplanan kreatinin klerensi dakikada 50 mL’nin altına düşerse DELSTRIGO
+kesilmelidir (bkz. Bölüm 4.4). Orta derecede veya ağır böbrek yetmezliği olan hastalarda
+lamivudin ve tenofovir disoproksilin doz aralıklarında ayarlama yapılması gerekir ve bu
+ayarlama kombine tabletle yapılamaz (bkz. Bölüm 4.4 ve 5.2).
+Karaciğer yetmezliği:
+Hafif (Child-Pugh Sınıf A) veya orta derecede (Child-Pugh Sınıf B) karaciğer yetmezliği olan
+hastalarda doravirin/lamivudin/tenofovir disoproksil dozunda ayarlama gerekmez. Doravirin
+ağır karaciğer yetmezliği olan hastalarda (Child-Pugh Sınıf C) çalışılmamıştır. Ağır karaciğer
+yetmezliği olan hastalarda doravirine maruz kalımın artıp artmadığı bilinmemektedir. Bu
+nedenle, ağır karaciğer yetmezliği olan hastalara doravirin/lamivudin/tenofovir disoproksil
+uygulanırken dikkatli olunması önerilir (bkz. Bölüm 5.2).
+Pediyatrik popülasyon:
+DELSTRIGO’nun 12 yaşından küçük veya 35 kg’dan hafif çocuklarda güvenliliği ve etkililiği
+belirlenmemiştir.
+24.3 Kontrendikasyonlar
+Etkin maddelere veya Bölüm 6.1’de listelenen yardımcı maddelerden herhangi birine aşırı
+duyarlılık.
+Sitokrom P450 3A (CYP3A) enziminin güçlü indükleyicileri olan tıbbi ürünlerle eş zamanlı
+uygulama kontrendikedir çünkü doravirinin plazma konsantrasyonlarında anlamlı azalmaların
+görülmesi beklenir ve bu da DELSTRIGO’nun etkinliğini azaltabilir (bkz. Bölüm 4.4 ve 4.5).
+Bu tıbbi ürünler aşağıdakileri içerir ancak bunlarla sınırlı değildir:
+• Karbamazepin, okskarbazepin, fenobarbital, fenitoin
+• Rifampisin, rifapentin
+• St. John’s wort (Sarı kantaron-Hypericum perforatum)
+• Mitotan
+• Enzalutamid
+• Lumakaftor
+4.4 Özel kullanım uyarıları ve önlemleri
+Antiretroviral tedavi ile etkili viral baskılamanın cinsel yolla HIV-1 bulaşma riskini önemli
+ölçüde azalttığı kanıtlanmış olsa da, artık bir risk dışlanamamaktadır. Bulaşmayı önlemek için
+önlemler ulusal kılavuzlara uygun olarak alınmalıdır.
+NNRTİ substitüsyonları ve doravirin kullanımı
+Doravirin başka herhangi bir antiretroviral tedaviyle geçmişte virolojik başarısızlık yaşayan
+hastalarda değerlendirilmemiştir. Tarama sırasında saptanan NNRTİ ile ilişkili mutasyonlar
+Faz 2b/3 çalışmalarında dışlama kriterlerinin bir parçası olmuştur. Çeşitli NNRTİ
+substitüsyonlarının yol açtığı ve klinik etkililikte azalmayla ilişkili olan duyarlılık azalmasına
+dair bir eşik değer belirlenmemiştir (bkz. Bölüm 5.1). NNRTİ sınıfına direnç bulguları
+mevcut olan HIV-1 enfeksiyonlu hastalarda doravirin kullanımını destekleyen yeterli klinik
+kanıt yoktur.
+HIV-1 ve HBV koenfeksiyonlu hastalarda şiddetli akut hepatit B alevlenmesi
+Antiretroviral tedaviye başlamadan önce, HIV-1’li tüm hastalar hepatit B virüsünün (HBV)
+varlığı yönünden test edilmelidir.
+Lamivudin veya tenofovir disoproksili (DELSTRIGO’nun bileşenlerinden ikisi) almayı
+bırakan HIV-1 ve HBV ile koenfekte hastalarda hepatit B’nin şiddetli akut alevlenmeleri
+(örn., dekompanse karaciğer ve karaciğer yetmezliği) raporlanmıştır. HIV-1 ve HBV ile
+koenfekte hastalar DELSTRIGO tedavisini durdurmalarından sonra en azından birkaç ay
+süreyle hem klinik hem de laboratuvar tetkikleriyle yakından izlenmelidir. Eğer uygunsa,
+özellikle ilerlemiş karaciğer hastalığı veya sirozu olan hastalara anti-hepatit B tedavisi
+başlanması gerekebilir çünkü tedaviden sonra hepatitin alevlenmesi karaciğer
+dekompansasyonu ve karaciğer yetmezliğine yol açabilir.
+Yeni başlayan veya kötüleşen böbrek fonksiyon bozukluğu
+DELSTRIGO’nun bir bileşeni olan tenofovir disoproksilin kullanımıyla akut böbrek
+yetmezliği ve Fanconi sendromu (böbrek tübüllerinde hasar ile birlikte ağır hipofosfatemi)
+vakaları dahil böbrek fonksiyon bozukluğu bildirilmiştir.
+DELSTRIGO’nun eş zamanlı veya yakın tarihte uygulanan nefrotoksik ürünler (örn., yüksek
+doz veya çoklu non-steroid anti-inflamatuvar tıbbi ürünler [NSAİİ’ler]) ile birlikte
+kullanımından kaçınılmalıdır (bkz. Bölüm 4.5). Böbrek fonksiyon bozukluğu için risk
+faktörleri bulunan ve tenofovir disoproksil ile stabil seyreden HIV enfeksiyonlu hastalarda
+3yüksek dozda veya çoklu NSAİİ’lere başlandıktan sonra akut böbrek yetmezliği vakaları
+raporlanmıştır. Bazı hastaların hastaneye yatması ve renal replasman tedavisi alması
+gerekmiştir. Böbrek fonksiyon bozukluğu riski taşıyan hastalarda gerekirse NSAİİ’lere
+alternatifler düşünülmelidir.
+Devamlı veya kötüleşen kemik ağrısı, ekstremitelerde ağrı, kırıklar ve/veya kaslarda ağrı veya
+güçsüzlük proksimal renal tübülopatinin belirtileri olabilir ve riskli hastalarda böbrek
+fonksiyonunun değerlendirilmesi düşünülmelidir.
+DELSTRIGO tedavisine başlamadan önce ve klinik yönden uygun olduğunda tedavi sırasında
+tüm hastalarda tahmini kreatinin klerensinin değerlendirilmesi önerilir. Geçmişte adefovir
+dipivoksil alırken renal olaylar yaşayan hastalar dahil, böbrek fonksiyon bozukluğu için risk
+taşıyan hastalarda tahmini kreatinin klerensi, serum fosfor, idrarda glukoz ve idrarda proteinin
+DELSTRIGO’ya başlanmadan önce değerlendirilmesi önerilir ve DELSTRIGO tedavisi
+sırasında hastanın tıbbi durumuna uygun biçimde böbrek fonksiyonunun daha sık takibi
+yapılmalıdır.
+Lamivudin ve tenofovir disoproksil esas olarak böbrekler yoluyla atılır. Tahmini kreatinin
+klerensi dakikada 50 mL’nin altına düşerse DELSTRIGO kesilmelidir çünkü lamivudin ve
+tenofovir disoproksil için gereken doz aralığı ayarlaması sabit dozlu kombine tabletle
+yapılamamaktadır (bkz. Bölüm 4.2).
+Kemik kaybı ve mineralizasyon defektleri
+Kemik mineral yoğunluğu
+HIV-1 enfeksiyonlu yetişkinlerde yürütülen klinik çalışmalarda tenofovir disoproksil
+karşılaştırma yapılan ajanlara kıyasla kemik mineral yoğunluğunda (KMY) biraz daha fazla
+azalma ve kemik döngüsünde artışı gösteren biçimde, kemik metabolizmasının biyokimyasal
+belirteçlerinde artışlarla ilişkili bulunmuştur. Serum paratiroid hormon düzeyleri ve 1,25
+Vitamin D düzeyleri de tenofovir disoproksil alan hastalarda daha yüksekti. Diğer
+çalışmalarda (ileriye dönük ve kesitsel), en çarpıcı KMY azalmaları, güçlendirilmiş bir
+proteaz inhibitör rejimi kapsamında, tenofovir disoproksil ile tedavi edilen hastalarda
+görülmüştür.
+Kemik anormallikleri (kırıklara seyrek olarak katkıda bulunur) proksimal renal tübülopatiyle
+ilişkili olabilir.
+KMY ve biyokimyasal belirteçlerde tenofovir disoproksil ile ilişkili değişikliklerin uzun
+dönemli kemik sağlığı ve gelecekteki kırık riski üzerindeki etkileri bilinmemektedir. Geçmişte
+patolojik kemik kırığı yaşayan veya osteoporoz ya da kemik kaybı için başka risk faktörlerine
+sahip olan HIV-1 enfeksiyonlu yetişkin hastalarda KMY değerlendirmesi düşünülmelidir.
+Kalsiyum ve D vitamini takviyesinin etkisi çalışılmamışsa da, bu tip takviye tüm hastalara
+faydalı olabilir. Kemik anormalliklerinden kuşkulanılırsa, o zaman uygun konsültasyon
+yapılmalıdır.
+Mineralizasyon defektleri
+Proksimal renal tübülopatiyle ilişkili olarak, kemik ağrısı veya ekstremitelerde ağrıyla kendini
+gösteren ve kırıklara katkıda bulunabilen osteomalazi vakaları tenofovir disoproksil
+kullanımıyla bağlantılı olarak raporlanmıştır. Proksimal renal tübülopati vakalarında eklem
+ağrıları ve kaslarda ağrı veya güçsüzlük de bildirilmiştir. Tenofovir disoproksil içeren ürünler
+alırken devamlı veya kötüleşen kemik ya da kas semptomlarıyla başvuran ve böbrek
+fonksiyon bozukluğu riski taşıyan hastalarda proksimal renal tübülopatiye sekonder
+hipofosfatemi ve osteomalazi düşünülmelidir (bkz. Bölüm 4.4).
+4Diğer antiviral ürünlerle eş zamanlı uygulama
+Doravirin/lamivudin/tenofovir disoproksil, lamivudin içeren diğer tıbbi ürünlerle veya
+tenofovir disoproksil ya da tenofovir alafenamid içeren tıbbi ürünlerle veya adefovir
+dipivoksil ile eş zamanlı uygulanmamalıdır (bkz. Bölüm 4.5). Doz ayarlaması için gerek
+duyulmadıkça (örn., rifabutin ile kullanımda) doravirin/ lamivudin/ tenofovir disoproksil ile
+birlikte doravirin uygulanmamalıdır (bkz. Bölüm 4.2 ve 4.5).
+CYP3A indükleyicileriyle birlikte kullanım
+Doravirine maruz kalımı azaltabilen tıbbi ürünlerle birlikte doravirin reçetelerken dikkatli
+olunmalıdır (bkz. Bölüm 4.3 ve 4.5).
+İmmün reaktivasyon sendromu
+İmmün reaktivasyon sendromu kombine antiretroviral ilaçlarla tedavi edilen hastalarda
+bildirilmiştir. Kombine antiretroviral tedavinin ilk fazında, bağışıklık sistemi yanıt veren
+hastalarda sessiz veya rezidüel fırsatçı enfeksiyonlara (örn., Mycobacterium avium
+enfeksiyonu, sitomegalovirüs, Pneumocystis jirovecii pnömonisi [PCP] veya tüberküloz) karşı
+enflamatuvar yanıt gelişebilir ve bu yanıt daha ileri düzeyde değerlendirme ve tedavi
+gerektirebilir.
+İmmün reaktivasyon zemininde otoimmün hastalıkların da ortaya çıktığı bildirilmiştir (örn.,
+Graves hastalığı, otoimmün hepatit, polimyozit ve Guillain-Barré sendromu); ancak
+başlangıca kadar geçen zaman daha değişkendir ve tedaviye başlandıktan çok sonraki aylarda
+sonra gelişebilir.
+Yardımcı maddeler
+Laktoz: DELSTRIGO laktoz monohidrat içerir. Nadir kalıtımsal galaktoz intoleransı, total
+laktaz eksikliği ya da glukoz-galaktoz malabsorpsiyon problemi olan hastaların bu tıbbi ürünü
+kullanmamaları gerekir.
+4.5 Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+DELSTRIGO HIV-1 enfeksiyonunun tedavisine yönelik tam bir rejimdir; dolayısıyla
+DELSTRIGO diğer antiretroviral tıbbi ürünlerle birlikte uygulanmamalıdır. Diğer
+antiretroviral tıbbi ürünlerle potansiyel tıbbi ürün etkileşimleri sunulmamaktadır. Etkileşim
+çalışmaları yalnızca yetişkinlerde yapılmıştır.
+DELSTRIGO doravirin, lamivudin ve tenofovir disoproksil içerir; dolayısıyla bunlar için
+saptanan her türlü etkileşim DELSTRIGO için de geçerlidir ve Tablo 1’de sunulmaktadır.
+Diğer tıbbi ürünlerin doravirin, lamivudin ve tenofovir disoproksil üzerindeki etkileri
+Doravirin
+Doravirin esas olarak CYP3A ile metabolize edilir ve CYP3A’yı indükleyen veya inhibe eden
+tıbbi ürünlerin doravirin klerensini etkilemesi beklenir (bkz. Bölüm 5.2).
+Doravirin/lamivudin/tenofovir disoproksil, CYP3A enziminin güçlü indükleyicileri olan tıbbi
+ürünlerle eş zamanlı uygulanmamalıdır çünkü doravirinin plazma konsantrasyonlarında
+anlamlı azalma beklenir ve bu da doravirin/lamivudin/tenofovir disoproksilin etkililiğini
+azaltabilir (bkz. Bölüm 4.3 ve 5.2).
+Güçlü bir CYP3A indükleyicisi olan rifabutin ile birlikte uygulama doravirin
+konsantrasyonlarını azaltmıştır (bkz. Tablo 1). DELSTRIGO ile rifabutin eş zamanlı
+uygulandığında, doravirinin 100 mg’lık bir dozu günde bir kez, doravirin/lamivudin/tenofovir
+disoproksil dozundan yaklaşık 12 saat sonra verilmelidir (bkz. Bölüm 4.2).
+5Doravirin/lamivudin/tenofovir disoproksilin diğer orta düzeyde CYP3A indükleyicileriyle eş
+zamanlı uygulanması değerlendirilmemiştir ancak doravirin konsantrasyonlarında azalma
+beklenir. Eğer diğer orta düzeyde CYP3A indükleyicileriyle (örn., dabrafenib, lesinurad,
+bosentan, tioridazin, nafsilin, modafinil, telotristat etil) eş zamanlı uygulama zorunlu ise,
+doravirin/lamivudin/tenofovir disoproksil dozu uygulandıktan yaklaşık 12 saat sonra, günde
+bir kez doravirinin 100 mg’lık bir dozu alınmalıdır (bkz. Bölüm 4.2).
+Doravirin/lamivudin/tenofovir disoproksilin CYP3A inhibitörleri olan tıbbi ürünlerle eş
+zamanlı uygulanması doravirinin plazma konsantrasyonlarında artışa yol açabilir. Bununla
+birlikte, doravirin CYP3A inhibitörleri ile birlikte uygulandığında doz ayarlaması gerekmez.
+Lamivudin
+Lamivudin esas olarak böbrekler aracılığıyla ve glomerüler filtrasyon ve aktif tübüler
+sekresyonu içeren yollarla atıldığından (bkz. Bölüm 5.2), doravirin/lamivudin/tenofovir
+disoproksilin, böbrek fonksiyonunu azaltan veya aktif tübüler sekresyon için yarışan tıbbi
+ürünlerle birlikte uygulanması lamivudinin serum konsantrasyonlarını yükseltebilir.
+Tenofovir disoproksil
+Tenofovir esas olarak böbrekler aracılığıyla ve glomerüler filtrasyon ve aktif tübüler
+sekresyonu içeren yollarla atıldığından (bkz. Bölüm 5.2), doravirin/lamivudin/tenofovir
+disoproksilin, böbrek fonksiyonunu azaltan veya OAT1, OAT3 veya MRP4 yoluyla aktif
+tübüler sekresyon için yarışan tıbbi ürünlerle birlikte uygulanması tenofovirin serum
+konsantrasyonlarını yükseltebilir.
+Doravirin/lamivudin/tenofovir disoproksilin içerdiği tenofovir disoproksil bileşeni nedeniyle,
+ürünün yakın tarihte veya halihazırda nefrotoksik tıbbi ürünlerle birlikte kullanımından
+kaçınılmalıdır. Bazı örnekler aşağıdakileri içerir ancak bunlarla sınırlı değildir: asiklovir,
+sidofovir, gansiklovir, valasiklovir, valgansiklovir, aminoglikozidler (örn., gentamisin) ve
+yüksek dozda veya çoklu NSAİİ’ler (bkz. Bölüm 4.4).
+Doravirin, lamivudin ve tenofovir disoproksilin diğer tıbbi ürünler üzerindeki etkileri
+Doravirin
+Günde bir kez 100 mg dozunda doravirinin, emilim ve/veya atılım için taşıyıcı proteinlere
+bağımlı olan veya CYP enzimleriyle metabolize edilen tıbbi ürünlerin plazma
+konsantrasyonları üzerinde klinik yönden önemli bir etki gösterme olasılığı yoktur.
+Ancak doravirinin hassas bir CYP3A substratı olan midazolam ile eş zamanlı uygulanması
+midazolam maruz kalımında %18 azalmayla sonuçlanmıştır; bu, doravirinin zayıf bir CYP3A
+indükleyicisi olabileceğini düşündürmektedir. Bu nedenle, hassas CYP3A substratları olan ve
+aynı zamanda da terapötik penceresi dar olan tıbbi ürünler (örn., takrolimus ve sirolimus) ile
+birlikte doravirin uygulanırken dikkatli olunmalıdır.
+Lamivudin
+Lamivudin, CYP enzimlerini inhibe etmez veya indüklemez.
+Tenofovir
+İn vitro deneylerin sonuçlarına ve tenofovirin bilinen eliminasyon yolağına dayanarak,
+tenofovir ile diğer tıbbi ürünler arasında CYP aracılı etkileşim potansiyeli düşüktür.
+Etkileşimler tablosu
+Tablo 1 DELSTRIGO’nun ayrı bileşenleriyle bilinen ve diğer potansiyel tıbbi ürün
+etkileşimlerini göstermektedir ancak liste bütün etkileşimleri kapsamamaktadır (artış ↑ ile,
+6azalma ↓ ile ve değişiklik yok ↔ ile gösterilir). Tenofovir disoproksil veya lamivudin ile
+potansiyel tıbbi ürün etkileşimleri için bkz. Bölüm 4.4 ve 5.2.
+Tablo 1: DELSTRIGO’nun ayrı bileşenleri ve diğer tıbbi ürünler arasındaki
+etkileşimler
+Tıbbi ürün düzeyleri
+üzerindeki etkiler Doravirin/lamivudin/tenofovir
+Terapötik alanlarına
+disoproksil ile birlikte uygulama için
+göre tıbbi ürünler
+geometrik ortalama oran tavsiye
+(%90 GA)*
+Asit azaltıcı ajanlar
+antiasit (alüminyum
+↔ doravirin
+veya magnezyum
+hidroksit oral EAA 1,01 (0,92, 1,11)
+süspansiyonu) Doz ayarlaması gerekmez.
+C 0,86 (0,74, 1,01)
+maks
+(20 mL SD, doravirin
+C 1,03 (0,94, 1,12)
+100 mg SD) 24
+↓ doravirin
+pantoprazol
+EAA 0,83 (0,76, 0,91)
+Doz ayarlaması gerekmez.
+(40 mg QD, doravirin
+C 0,88 (0,76, 1,01)
+maks
+100 mg SD)
+C 0,84 (0,77, 0,92)
+24
+Doravirin veya
+doravirin/lamivudin/tenofovir
+disoproksil ile etkileşim
+çalışılmamıştır.
+omeprazol Doz ayarlaması gerekmez.
+Beklenen:
+↔ doravirin
+Anjiyotensin dönüştürücü enzim inhibitörleri
+Doravirin veya
+doravirin/lamivudin/tenofovir
+disoproksil ile etkileşim
+çalışılmamıştır.
+lisinopril Doz ayarlaması gerekmez.
+Beklenen:
+↔ lisinopril
+Antiandrojenler
+enzalutamid Doravirin veya Eş zamanlı uygulama kontrendikedir.
+7doravirin/lamivudin/tenofovir
+disoproksil ile etkileşim
+çalışılmamıştır.
+Beklenen:
+↓ doravirin
+(CYP3A indüksiyonu)
+Antibiyotikler
+Doravirin veya
+doravirin/lamivudin/tenofovir
+Eş zamanlı uygulamadan kaçınılmalıdır.
+disoproksil ile etkileşim
+Eş zamanlı uygulama zorunlu ise,
+çalışılmamıştır.
+doravirin/lamivudin/tenofovir disoproksil
+nafsilin
+Beklenen: dozu uygulandıktan yaklaşık 12 saat
+sonra, doravirinin 100 mg’lık bir dozu
+↓ doravirin günde bir kez alınmalıdır.
+(CYP3A indüksiyonu)
+Antikonvülsanlar
+Doravirin veya
+doravirin/lamivudin/tenofovir
+karbamazepin
+disoproksil ile etkileşim
+çalışılmamıştır.
+okskarbazepin
+Eş zamanlı uygulama kontrendikedir.
+Beklenen:
+fenobarbital
+fenitoin ↓ doravirin
+(CYP3A indüksiyonu)
+Antidiyabetikler
+↔ metformin
+metformin
+EAA 0,94 (0,88, 1) Doz ayarlaması gerekmez.
+(1000 mg SD,
+doravirin 100 mg QD)
+C 0,94 (0,86, 1,03)
+maks
+Doravirin veya
+doravirin/lamivudin/tenofovir
+disoproksil ile etkileşim
+kanagliflozin
+çalışılmamıştır.
+liraglutid Doz ayarlaması gerekmez.
+Beklenen:
+sitagliptin
+↔ kanagliflozin
+↔ liraglutid
+8↔ sitagliptin
+Antidiyareik ilaçlar
+telotristat etil Doravirin veya
+doravirin/lamivudin/tenofovir
+Eş zamanlı uygulamadan kaçınılmalıdır.
+disoproksil ile etkileşim
+Eş zamanlı uygulama zorunlu ise,
+çalışılmamıştır.
+doravirin/lamivudin/tenofovir disoproksil
+Beklenen: dozu uygulandıktan 12 saat sonra,
+doravirinin 100 mg’lık bir dozu günde bir
+↓ doravirin kez alınmalıdır.
+(CYP3A indüksiyonu)
+Antigut ve ürikozürik ajanlar
+Doravirin veya
+doravirin/lamivudin/tenofovir
+Eş zamanlı uygulamadan kaçınılmalıdır.
+disoproksil ile etkileşim
+Eş zamanlı uygulama zorunlu ise,
+çalışılmamıştır.
+doravirin/lamivudin/tenofovir disoproksil
+lesinurad
+Beklenen: dozu uygulandıktan yaklaşık 12 saat
+sonra, doravirinin 100 mg’lık bir dozu
+↓ doravirin günde bir kez alınmalıdır.
+(CYP3A indüksiyonu)
+Antimikobakteriyeller
+↔ doravirin
+EAA 0,91 (0,78, 1,06)
+Tek doz rifampisin C 1,40 (1,21, 1,63)
+maks
+(600 mg SD, doravirin C 0,90 (0,80, 1,01)
+24
+100 mg SD)
+↓ doravirin Eş zamanlı uygulama kontrendikedir.
+Çoklu doz rifampisin
+EAA 0,12 (0,10, 0,15)
+(600 mg QD, doravirin
+100 mg SD) C maks 0,43 (0,35, 0,52)
+C 0,03 (0,02, 0,04)
+24
+(CYP3A indüksiyonu)
+Doravirin veya
+doravirin/lamivudin/tenofovir
+disoproksil ile etkileşim
+rifapentin Eş zamanlı uygulama kontrendikedir.
+çalışılmamıştır.
+Beklenen:
+9↓ doravirin
+(CYP3A indüksiyonu)
+↓ doravirin
+Eğer doravirin/lamivudin/tenofovir
+EAA 0,50 (0,45, 0,55)
+rifabutin disoproksil rifabutin ile eş zamanlı
+uygulanırsa, doravirin/lamivudin/
+C 0,99 (0,85, 1,15)
+(300 mg QD, doravirin maks tenofovir disoproksil dozundan yaklaşık
+100 mg SD) 12 saat sonra doravirinin 100 mg’lık bir
+C 0,32 (0,28, 0,35)
+24
+dozu günde bir kez alınmalıdır.
+(CYP3A indüksiyonu)
+Antineoplastikler
+Doravirin veya
+doravirin/lamivudin/tenofovir
+disoproksil ile etkileşim
+çalışılmamıştır.
+mitotan Eş zamanlı uygulama kontrendikedir.
+Beklenen:
+↓ doravirin
+(CYP3A indüksiyonu)
+Antipsikotikler
+Doravirin veya
+doravirin/lamivudin/tenofovir
+Eş zamanlı uygulamadan kaçınılmalıdır.
+disoproksil ile etkileşim
+Eş zamanlı uygulama zorunlu ise,
+çalışılmamıştır.
+doravirin/lamivudin/tenofovir disoproksil
+tioridazin
+Beklenen: dozu uygulandıktan 12 saat sonra,
+doravirinin 100 mg’lık bir dozu günde bir
+↓ doravirin kez alınmalıdır.
+(CYP3A indüksiyonu)
+Azol antifungal ajanlar
+↑ doravirin
+EAA 3,06 (2,85, 3,29)
+ketokonazol
+C 1,25 (1,05, 1,49) Doz ayarlaması gerekmez.
+(400 mg QD, doravirin maks
+100 mg SD)
+C 2,75 (2,54, 2,98)
+24
+(CYP3A inhibisyonu)
+flukonazol Doravirin veya
+doravirin/lamivudin/tenofovir Doz ayarlaması gerekmez.
+itrakonazol
+disoproksil ile etkileşim
+10çalışılmamıştır.
+posakonazol
+Beklenen:
+vorikonazol
+↑ doravirin
+(CYP3A inhibisyonu)
+Kalsiyum kanal blokerleri
+Doravirin veya
+doravirin/lamivudin/tenofovir
+disoproksil ile etkileşim
+çalışılmamıştır.
+diltiazem
+Doz ayarlaması gerekmez.
+Beklenen:
+verapamil
+↑ doravirin
+(CYP3A inhibisyonu)
+Kistik fibrozis tedavisi
+Doravirin veya
+doravirin/lamivudin/tenofovir
+disoproksil ile etkileşim
+çalışılmamıştır.
+lumakaftor Eş zamanlı uygulama kontrendikedir.
+Beklenen:
+↓ doravirin
+(CYP3A indüksiyonu)
+Endotelin reseptör antagonistleri
+Doravirin veya
+doravirin/lamivudin/tenofovir
+Eş zamanlı uygulamadan kaçınılmalıdır.
+disoproksil ile etkileşim
+Eş zamanlı uygulama zorunlu ise,
+çalışılmamıştır.
+doravirin/lamivudin/tenofovir disoproksil
+bosentan
+Beklenen: dozu uygulandıktan 12 saat sonra,
+doravirinin 100 mg’lık bir dozu günde bir
+↓ doravirin kez alınmalıdır.
+(CYP3A indüksiyonu)
+Hepatit C antiviral ajanları
+elbasvir + grazoprevir
+↑ doravirin
+(50 mg elbasvir QD +
+EAA 1,56 (1,45, 1,68) Doz ayarlaması gerekmez.
+200 mg grazoprevir
+QD, doravirin 100 mg
+C 1,41 (1,25, 1,58)
+maks
+QD)
+11C 1,61 (1,45, 1,79)
+24
+(CYP3A inhibisyonu)
+↔ elbasvir
+EAA 0,96 (0,90, 1,02)
+C 0,96 (0,91, 1,01)
+maks
+C 0,96 (0,89, 1,04)
+24
+↔ grazoprevir
+EAA 1,07 (0,94, 1,23)
+C 1,22 (1,01, 1,47)
+maks
+C 0,90 (0,83, 0,96)
+24
+↑ doravirin
+EAA 1,15 (1,07, 1,24)
+C 1,11 (0,97, 1,27)
+maks
+C 1,24 (1,13, 1,36)
+24
+↔ ledipasvir
+EAA 0,92 (0,80, 1,06)
+ledipasvir + sofosbuvir C 0,91 (0,80, 1,02) Doravirin/lamivudin/tenofovirdisoproksili
+maks
+ledipasvir/sofosbuvir ile eş zamanlı alan
+(90 mg ledipasvir SD + ↔ sofosbuvir hastalar tenofovir disoproksil ile ilişkili
+400 mg sofosbuvir SD, advers reaksiyonlar yönünden
+doravirin 100 mg SD) EAA 1,04 (0,91, 1,18) izlenmelidir.
+C 0,89 (0,79, 1)
+maks
+↔ GS-331007
+EAA 1,03 (0,98, 1,09)
+C 1,03 (0.97, 1,09)
+maks
+Beklenen:
+↑ tenofovir
+Doravirin veya
+doravirin/lamivudin/tenofovir
+Doravirin/lamivudin/tenofovir
+disoproksil ile etkileşim
+disoproksili sofosbuvir/velpatasvir ile eş
+çalışılmamıştır.
+sofosbuvir/velpatasvir zamanlı alan hastalar tenofovir
+disoproksil ile ilişkili advers reaksiyonlar
+Beklenen:
+yönünden izlenmelidir.
+↔ doravirin
+12↑ tenofovir
+Doravirin veya
+doravirin/lamivudin/tenofovir
+disoproksil ile etkileşim
+çalışılmamıştır.
+sofosbuvir Doz ayarlaması gerekmez.
+Beklenen:
+↔ doravirin
+Doravirin veya
+doravirin/lamivudin/tenofovir
+disoproksil ile etkileşim
+çalışılmamıştır.
+daklatasvir Doz ayarlaması gerekmez.
+Beklenen:
+↔ doravirin
+Doravirin veya
+doravirin/lamivudin/tenofovir
+disoproksil ile etkileşim
+çalışılmamıştır.
+ombitasvir/paritaprevir/
+ritonavir ve dasabuvir Beklenen: Doz ayarlaması gerekmez.
++/- ritonavir
+↑ doravirin
+(ritonavir nedeniyle CYP3A
+inhibisyonu)
+Doravirin veya
+doravirin/lamivudin/tenofovir
+disoproksil ile etkileşim
+çalışılmamıştır.
+dasabuvir Doz ayarlaması gerekmez.
+Beklenen:
+↔ doravirin
+Doravirin veya
+doravirin/lamivudin/tenofovir
+disoproksil ile etkileşim
+çalışılmamıştır.
+glekaprevir,
+Doz ayarlaması gerekmez.
+pibrentasvir Beklenen:
+↑ doravirin
+(CYP3A inhibisyonu)
+Doravirin veya
+ribavirin doravirin/lamivudin/tenofovir Doz ayarlaması gerekmez.
+disoproksil ile etkileşim
+13çalışılmamıştır.
+Beklenen:
+↔ doravirin
+Bitkisel takviyeler
+Doravirin veya
+doravirin/lamivudin/tenofovir
+disoproksil ile etkileşim
+St. John’s wort (Sarı
+çalışılmamıştır.
+kantaron otu-
+Eş zamanlı uygulama kontrendikedir.
+Hypericum Beklenen:
+perforatum)
+↓ doravirin
+(CYP3A indüksiyonu)
+HIV antiviral ajanları
+↔ doravirin
+tenofovir disoproksil
+EAA 0,95 (0,80, 1,12)
+Doz ayarlaması gerekmez.
+(300 mg QD, doravirin
+C 0,80 (0,64, 1,01)
+maks
+100 mg SD)
+C 0,94 (0,78, 1,12)
+24
+↔ doravirin
+EAA 0,96 (0,87, 1,06)
+C 0,97 (0,88, 1,07)
+maks
+lamivudin + tenofovir
+C 0,94 (0,83, 1,06)
+24
+disoproksil
+↔lamivudin
+(300 mg lamivudin SD Doz ayarlaması gerekmez.
++ 245 mg tenofovir EAA 0,94 (0,88, 1)
+disoproksil SD,
+C 0,92 (0,81, 1,05)
+doravirin 100 mg SD) maks
+↔ tenofovir
+EAA 1,11 (0,97, 1,28)
+C 1,17 (0,96, 1,42)
+maks
+İmmün supresanlar
+Doravirin veya Takrolimus ve sirolimusun kan
+takrolimus
+doravirin/lamivudin/tenofovir konsantrasyonlarını izleyiniz çünkü bu
+disoproksil ile etkileşim ajanların dozunun ayarlanması
+sirolimus
+çalışılmamıştır. gerekebilir.
+14Beklenen:
+↔ doravirin
+↓ takrolimus, sirolimus
+(CYP3A indüksiyonu)
+Kinaz inhibitörleri
+Doravirin veya
+doravirin/lamivudin/tenofovir
+Eş zamanlı uygulamadan kaçınılmalıdır.
+disoproksil ile etkileşim
+Eş zamanlı uygulama zorunlu ise,
+çalışılmamıştır.
+doravirin/lamivudin/tenofovir disoproksil
+dabrafenib
+Beklenen: dozu uygulandıktan 12 saat sonra,
+doravirinin 100 mg’lık bir dozu günde bir
+↓ doravirin kez alınmalıdır.
+(CYP3A indüksiyonu)
+Çeşitli
+Tek doz lamivudin oral Doravirin/lamivudin/tenofovir
+solüsyonu 300 mg disoproksilin sorbitol veya diğer ozmotik
+etkili polialkoller (örn.,ksilitol, mannitol,
+lamivudin
+sorbitol solüsyonu (3,2 laktitol, maltitol) içeren tıbbi ürünler ile
+g, 10,2 g, 13,4 birlikte kronik uygulanmasından
+EAA ↓%14;%32;%35
+g)/lamivudin kaçınılmalıdır. Kronik eş zamanlı
+C ↓%28;%52;%55 uygulama kaçınılmaz ise HIV-1 viral
+maks
+yükünün daha sık izlenmesi
+düşünülmelidir.
+Opioid analjezikler
+↓ doravirin
+EAA 0,74 (0,61, 0,90)
+C 0,76 (0.63, 0,91)
+maks
+C 0,80 (0.63, 1,03)
+24
+metadon
+↔ R-metadon
+(20-200 mg QD Doz ayarlaması gerekmez.
+bireysel doz, doravirin EAA 0,95 (0,90, 1,01)
+100 mg QD)
+C 0,98 (0,93, 1,03)
+maks
+C 0,95 (0,88, 1,03)
+24
+↔ S-metadon
+EAA 0,98 (0,90, 1,06)
+15C 0,97 (0,91, 1,04)
+maks
+C 0,97 (0,86, 1,10)
+24
+Doravirin veya
+doravirin/lamivudin/tenofovir
+disoproksil ile etkileşim
+çalışılmamıştır.
+buprenorfin
+Doz ayarlaması gerekmez.
+Beklenen:
+nalokson
+↔ buprenorfin
+↔ nalokson
+Oral kontraseptifler
+↔ etinil estradiol
+EAA 0,98 (0,94, 1,03)
+0,03 mg etinil
+C 0,83 (0,80, 0,87)
+estradiol/ 0,15 mg maks
+Doz ayarlaması gerekmez.
+levonorgestrel SD,
+↑ levonorgestrel
+doravirin 100 mg QD
+EAA 1,21 (1,14, 1,28)
+C 0,96 (0,88, 1,05)
+maks
+Doravirin veya
+doravirin/lamivudin/tenofovir
+disoproksil ile etkileşim
+çalışılmamıştır.
+norgestimat/ etinil
+Doz ayarlaması gerekmez.
+estradiol
+Beklenen:
+↔ norgestimat/ etinil
+östradiol
+Psikostimülanlar
+Doravirin veya
+doravirin/lamivudin/tenofovir
+Eş zamanlı uygulamadan kaçınılmalıdır.
+disoproksil ile etkileşim
+Eş zamanlı uygulama zorunlu ise,
+çalışılmamıştır.
+doravirin/lamivudin/tenofovir disoproksil
+modafinil
+Beklenen: dozu uygulandıktan 12 saat sonra,
+doravirinin 100 mg’lık bir dozu günde bir
+↓ doravirin kez alınmalıdır.
+(CYP3A indüksiyonu)
+Sedatifler/Hipnotikler
+midazolam ↓ midazolam Doz ayarlaması gerekmez.
+16(2 mg SD, doravirin EAA 0,82 (0,70, 0,97)
+120 mg QD)
+C 1,02 (0,81, 1,28)
+maks
+Statinler
+↔ atorvastatin
+atorvastatin
+EAA 0,98 (0,90, 1,06) Doz ayarlaması gerekmez.
+(20 mg SD, doravirin
+100 mg QD)
+C 0,67 (0,52, 0,85)
+maks
+Doravirin veya
+doravirin/lamivudin/tenofovir
+disoproksil ile etkileşim
+çalışılmamıştır.
+rosuvastatin
+Doz ayarlaması gerekmez.
+Beklenen:
+simvastatin
+↔ rosuvastatin
+↔ simvastatin
+↑ = artış, ↓ = azalma, ↔ = değişiklik yok
+GA = Güven Aralığı; SD = Tek Doz; QD = Günde Bir Kez; BID = Günde İki Kez
+*tekli doz için EAA , günde bir kez uygulamada EAA .
+0-∞ 0-24
+Özel popülasyonlara ilişkin ek bilgiler:
+Pediyatrik popülasyon:
+Etkileşim çalışmaları sadece yetişkinlerde yapılmıştır.
+4.6 Gebelik ve laktasyon
+Genel tavsiye
+Gebelik Kategorisi: B
+Çocuk doğurma potansiyeli bulunan kadınlar/Erkeklerde ve kadınlarda doğum
+kontrolü (Kontrasepsiyon)
+DELSTRIGO kullanırken, hamile kalmayı planlamayan, çocuk doğurma potansiyeli olan
+kadınların doğum kontrolü ve diğer hamilelik önleme biçimleri hakkında doktorlarına
+danışması gerekir.
+Gebelik dönemi
+Gebe kadınlarda doravirin kullanımına ilişkin hiçbir veri yoktur veya sınırlı miktarda veri
+mevcuttur. Etkin bileşenlerden biri olan lamivudini diğer antiretroviraller ile birlikte alan gebe
+kadınlara ait büyük miktarda veri (ilk trimesterden elde edilen 3,000’den fazla gebelik
+sonucu) malformasyona yol açan toksisiteyi göstermemektedir. Gebe kadınlarda orta miktarda
+veri (300-1.000 gebelik sonucu) tenofovir disoproksil ile malformasyon veya fetus/yenidoğan
+toksisitesine işaret etmemektedir.
+Antiretroviral gebelik kayıt sistemi
+17Gebeyken antiretroviral tıbbi ürünlere maruz kalan hastalarda anne ve fetus sonuçlarını
+izlemek amacıyla bir Antiretroviral Gebelik Kayıt Sistemi oluşturulmuştur. Hekimlerin
+hastaları bu sisteme kaydetmeleri istenmektedir.
+Doravirin ile yürütülen hayvan çalışmaları üreme toksisitesi bakımından doğrudan veya
+dolaylı zararlı etkileri göstermemektedir (bkz. Bölüm 5.3).
+Tenofovir disoproksil ile yapılan hayvan çalışmaları üreme toksisitesi bakımından tenofovir
+disoproksilin doğrudan veya dolaylı zararlı etkilerini göstermemektedir (bkz. Bölüm 5.3).
+Lamivudin ile yürütülen hayvan çalışmaları tavşanlarda erken embriyo ölümlerinde artışı
+göstermiştir ancak sıçanlarda bu artış görülmemiştir (bkz. Bölüm 5.3). İnsanlarda lamivudinin
+plasentadan geçtiği gösterilmiştir. Lamivudin hücresel DNA replikasyonunu inhibe edebilir
+(bkz. Bölüm 5.3). Bu bulgunun klinik önemi bilinmemektedir.
+Tedbir amaçlı bir önlem olarak gebelik döneminde DELSTRIGO kullanımından kaçınılması
+tercih edilir.
+Laktasyon dönemi
+Doravirinin anne sütüne geçip geçmediği bilinmemektedir. Hayvanlardan elde edilen mevcut
+farmakodinamik/toksikolojik verileri doravirinin anne sütüne geçtiğini göstermiştir (bkz.
+Bölüm 5.3).
+Tedavi uygulanan kadınların emzirdikleri yenidoğanlarda/bebeklerde lamivudin tespit
+edilmiştir. HIV için tedavi edilen 200’den fazla anne/çocuk çiftine dayanarak, HIV için tedavi
+gören annelerin emzirdikleri bebeklerinde lamivudinin serum konsantrasyonları çok düşüktür
+(annenin serum konsantrasyonlarının <%4’ü) ve anne sütüyle beslenen bebekler 24 haftalık
+olduğunda kademeli olarak saptanamaz düzeylere iner. Üç aylıktan küçük bebeklere
+uygulandığında lamivudinin güvenliliğine dair hiçbir veri yoktur.
+Tenofovir anne sütüne geçer. Tenofovirin yenidoğanlarda/bebeklerdeki etkilerine ilişkin bilgi
+yetersizdir.
+Emzirilen bebeklerde hem HIV bulaşma potansiyeli hem de advers reaksiyon potansiyeli
+nedeniyle, kadınlar Delstrigo alıyorlarsa emzirmemelidir.
+Üreme yeteneği/Fertilite
+DELSTRIGO’nun fertiliteye etkisine dair insan verileri mevcut değildir. Hayvan çalışmaları,
+önerilen klinik dozda insanlardaki maruz kalımdan daha yüksek maruz kalım düzeylerinde
+doravirin, lamivudin veya tenofovir disoproksilin fertilite üzerinde zararlı etkilerini
+göstermemektedir (bkz. Bölüm 5.3).
+4.7 Araç ve makine kullanımı üzerindeki etkiler
+DELSTRIGO araç ve makine kullanma becerisini çok az etkiler. Hastalar DELSTRIGO
+tedavisi sırasında yorgunluk, baş dönmesi ve uyku hali raporlandığı konusunda
+bilgilendirilmelidir (bkz. Bölüm 4.8). Bir hastanın araç veya makine kullanma becerisi
+değerlendirilirken bu durum dikkate alınmalıdır.
+4.8 İstenmeyen etkiler
+Güvenlilik profilinin özeti
+Doravirin + 2 nükleozid analog revers transkriptaz inhibitörleri (NRTİ’ler) ile yapılan Faz 3
+klinik çalışmalarda en sık raporlanmış advers reaksiyonlar bulantı (%4) ve baş ağrısıdır (%3).
+18Advers reaksiyonların tablolaştırılmış özeti
+Faz 3 klinik çalışmalarından (DRIVE FORWARD, DRIVE SHIFT ve DRIVE AHEAD)
+doravirin + 2 NRTİ ile görülen advers reaksiyonlar aşağıda vücut sistem organ sınıfına ve
+sıklığa göre listelenmektedir. Her bir sıklık gruplamasında, istenmeyen etkiler azalan ciddiyet
+sırasına göre sunulmaktadır. Sıklıklar şu şekilde tanımlanmaktadır: Çok yaygın (≥ 1/10),
+yaygın (≥ 1/100 ila <1/10), yaygın olmayan (≥ 1/1.000 ila <1/100), seyrek (≥ 1/10.000 ila <
+1/1.000), çok seyrek (< 1/10.000), veya bilinmiyor (eldeki verilerden hareketle tahmin
+edilemiyor).
+Tablo 2: Doravirin/lamivudin/tenofovir disoproksil ile ilişkili advers reaksiyonların
+tablolaştırılmış özeti
+Sıklık Advers reaksiyonlar
+Enfeksiyonlar ve enfestasyonlar
+Seyrek Püstüler döküntü
+Kan ve lenf sistemi hastalıkları
+Yaygın olmayan nötropeni*, anemi*, trombositopeni*
+Çok seyrek saf eritrosit aplazisi*
+Metabolizma ve beslenme bozuklukları
+Yaygın olmayan hipofosfatemi, hipopotasemi*
+Seyrek hipomagnezemi, laktik asidoz*
+Psikiyatrik hastalıklar
+Yaygın anormal rüyalar, uykusuzluk1
+Yaygın olmayan kabuslar, depresyon2, anksiyete3,
+iritabilite, konfüzyon durumu, intihar
+düşüncesi
+Seyrek agresyon, halüsinasyon, uyum
+bozukluğu, ruh hali değişikliği,
+uyurgezerlik
+Sinir sistemi hastalıkları
+Yaygın baş ağrısı, baş dönmesi, uyku hali
+Yaygın olmayan dikkat bozukluğu, hafıza bozukluğu,
+parestezi, hipertoni, uyku kalitesinde
+azalma
+Çok seyrek periferik nöropati (veya parestezi)*
+19Vasküler hastalıklar
+Yaygın olmayan hipertansiyon
+Solunum, göğüs ve mediastinal hastalıkları
+Yaygın öksürük*, nazal semptomlar*
+Seyrek dispne, tonsiler hipertrofi
+Gastrointestinal hastalıklar
+Yaygın bulantı, diyare, abdominal ağrı4, kusma,
+flatülans
+Yaygın olmayan konstipasyon, abdominal rahatsızlık5,
+abdominal distansiyon, hazımsızlık,
+yumuşak feçes6, gastrointestinal motilite
+bozukluğu7, pankreatit*
+Seyrek rektal tenesmus
+Hepatobiliyer hastalıklar
+Seyrek hepatik steatoz*, hepatit*
+Deri ve deri altı doku hastalıkları
+Yaygın saç dökülmesi*, döküntü8
+Yaygın olmayan prurit
+Seyrek alerjik dermatit, rozase, anjiyoödem*
+Kas, iskelet ve bağ dokusu hastalıkları
+Yaygın kas hastalıkları*
+Yaygın olmayan miyalji, artralji, rabdomiyoliz*†, kas
+güçsüzlüğü*†
+Seyrek kas-iskelet ağrısı, osteomalazi (kemik
+ağrısı şeklinde kendini gösterir ve seyrek
+olarak kırıklara katkıda bulunur)*,
+miyopati*
+Böbrek ve idrar yolu hastalıkları
+Yaygın olmayan kreatinin artışı*, proksimal renal
+tübülopati (Fanconi sendromu dahil)*
+20Seyrek akut böbrek hasarı, böbrek hastalığı,
+idrar yollarında taş, böbrek taşı, akut
+böbrek yetmezliği*, böbrek yetmezliği*,
+akut tübüler nekroz*, nefrit (akut
+interstisyel nefrit dahil)*, nefrojenik
+diabetes insipidus*
+Genel rahatsızlıklar ve uygulama bölgesine ilişkin durumlar
+Yaygın yorgunluk, ateş*
+Yaygın olmayan asteni, kırıklık
+Seyrek göğüs ağrısı, üşüme, ağrı, susama hissi
+Tetkikler
+Yaygın alanin aminotransferaz artışı9
+Yaygın olmayan aspartat aminotransferaz artışı, lipaz
+artışı, amilaz artışı, hemoglobin azalması
+Seyrek kanda kreatin fosfokinaz artışı
+*Bu advers reaksiyon Faz 3 klinik çalışmalarda (DRIVE-FORWARD, DRIVE-AHEAD,
+DRIVE-SHIFT) doravirin ile ilişkili bir advers reaksiyon olarak tespit edilmemiş ancak 3TC
+ve/veya TDF’nin Kısa Ürün Bilgisine dayanarak bu tabloya bir advers reaksiyon olarak dahil
+edilmiştir. 3TC veya TDF’nin Kısa Ürün Bilgisinde yer alan en yüksek sıklığa sahip kategori
+kullanılmaktadır.
+† Bu advers reaksiyon proksimal renal tübülopatinin bir sonucu olarak ortaya çıkabilir. Bu
+durumun yokluğunda tenofovir disoproksil ile nedensel biçimde ilişkili olduğu kabul
+edilmemektedir.
+1uykusuzluk (insomnia) terimi şunları içerir: insomnia, uyku evresinin başında uykusuzluk ve
+uyku bozukluğu
+2depresyon terimi şunları içerir: depresyon, depresif duygudurum, majör depresyon ve
+persistan depresif bozukluk
+3anksiyete terimi şunları içerir: anksiyete ve genel anksiyete bozukluğu
+4abdominal ağrı terimi şunları içerir: abdominal ağrı ve üst abdominal ağrı
+5abdominal rahatsızlık terimi şunları içerir: abdominal rahatsızlık ve epigastrik rahatsızlık
+6yumuşak feçes terimi şunları içerir: yumuşak feçes ve anormal feçes.
+7gastrointestinal motilite bozukluğu terimi şunları içerir: gastrointestinal motilite bozukluğu
+ve sık bağırsak hareketleri
+8döküntü terimi şunları içerir: döküntü, maküler döküntü, eritematöz döküntü, yaygın
+döküntü, makülo-papüler döküntü, papüler döküntü ve ürtikaryal döküntü
+219alanin aminotransferaz artışı terimi şunları içerir: alanin aminotransferaz artışı ve
+hepatoselüler hasar
+Bağışıklık reaktivasyon sendromu
+Kombine antiretroviral tedavinin (KART) başlangıcında şiddetli immün yetmezliği olan HIV
+ile enfekte hastalarda, asemptomatik veya rezidüel fırsatçı enfeksiyonlara enflamatuar bir
+reaksiyon ortaya çıkabilir. Otoimmün bozukluklar (Graves hastalığı ve otoimmün hepatit
+gibi) da rapor edilmiştir; bununla birlikte, bildirilen başlama süresi daha değişkendir ve bu
+olaylar tedavinin başlamasından aylar sonra ortaya çıkabilir (bkz. Bölüm 4.4).
+Laktik asidoz
+Tenofovir disoproksil ile tek başına veya diğer antiretrovirallerle kombinasyon halinde laktik
+asidoz vakaları bildirilmiştir. Dekompanse karaciğer hastalığı olan hastalar veya laktik
+asidozu indüklediği bilinen eşzamanlı tıbbi ürünleri alan hastalar gibi predispozan faktörleri
+olan hastalar, ölümcül sonuçlar dahil olmak üzere tenofovir disoproksil tedavisi sırasında
+ciddi laktik asidoz yaşama riski altındadır.
+Pediyatrik popülasyon
+Doravirin/lamivudin/tenofovir disoproksilin güvenliliği, açık etiketli bir çalışmada
+(IMPAACT 2014 (Protocol 027)) 12 ila 18 yaşından küçük 45 HIV-1 ile enfekte, virolojik
+olarak baskılanmış veya daha önce tedavi görmemiş pediyatrik hastada değerlendirilmiştir.
+Pediyatrik gönüllülerdeki güvenlilik profili yetişkinlerdekine benzerdi.
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TÜFAM)'ne bildirmeleri gerekmektedir (www.titck.gov.tr; e-
+posta:tufam@titck.gov.tr; tel: 0 800 314 00 08; faks: 0 312 218 35 99).
+4.9 Doz aşımı ve tedavisi
+Doravirin
+Doravirin doz aşımının potansiyel akut semptom ve bulgularına dair hiçbir bulgu yoktur.
+Lamivudin
+İhmal edilebilir miktarda lamivudin (4 saatlik) hemodiyaliz, devamlı ambulatuvar periton
+diyalizi ve otomatik periton diyalizi ile uzaklaştırıldığından, bir lamivudin doz aşımı olayında
+devamlı hemodiyalizin klinik fayda sağlayıp sağlamayacağı bilinmemektedir.
+Tenofovir disoproksil
+Tenofovir disoproksil hemodiyalizle etkin biçimde uzaklaştırılır ve ekstraksiyon katsayısı
+yaklaşık %54’dür. Tenofovir disoproksilin tekli 245 mg dozundan sonra, 4 saat süren
+hemodiyaliz seansı uygulanan tenofovir dozunun yaklaşık %10’unu uzaklaştırmıştır.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1. Farmakodinamik özellikler
+Farmakoterapötik grup: Sistemik kullanıma yönelik antiviraller
+ATC kodu: J05AR24
+22Etki mekanizması
+Doravirin
+Doravirin, HIV-1’in bir piridinon non-nükleozid revers transkriptaz inhibitörüdür ve HIV-1
+revers transkriptazın (RT) yarışmasız inhibisyonu yoluyla HIV-1 replikasyonunu inhibe eder.
+Doravirin insanlarda hücresel DNA polimeraz α, ß ve mitokondriyal DNA polimeraz γ’yı
+inhibe etmez.
+Lamivudin
+Lamivudin bir nükleozid analoğudur. Hücre içinde, lamivudin aktif 5´- trifosfat metaboliti
+olan lamivudin trifosfata (3TC-TP) fosforillenir. 3TC-TP’nin ana etki mekanizması nükleotid
+analoğunun DNA’ya girmesinden sonra DNA zincirinin sonlanması yoluyla RT’nin
+inhibisyonudur.
+Tenofovir disoproksil
+Tenofovir disoproksil, adenozin monofosfatın asiklik bir nükleozid fosfonat diesteridir.
+Tenofovir disoproksilin tenofovire dönüşümü başlangıçta diester hidrolizini ve tenofovir
+difosfatın oluşması için hücresel enzimlerle sonraki fosforilasyonları gerektirir. Tenofovir
+difosfat HIV-1 RT aktivitesini doğal substrat deoksiadenozin 5´-trifosfat ile yarışarak ve
+DNA’ya girdikten sonra DNA zincirinin sonlanmasıyla inhibe eder. Tenofovir difosfat
+memeli DNA polimeraz α, β ve mitokondriyal DNA polimeraz γ’nın zayıf bir inhibitörüdür.
+Hücre kültüründe antiviral aktivite
+Doravirin
+Doravirin, MT4-GFP reporter hücreler kullanılarak %100 normal insan serumu varlığında test
+edildiğinde HIV-1’in vahşi tip laboratuvar suşlarına karşı 12±4,4 nM’lik EC değeri
+50
+sergilemiştir. Doravirin, primer HIV-1 izolatlarının geniş bir paneline (A, A1, AE, AG, B,
+BF, C, D, G, H) karşı 1,2 nM - 10 nM arasında değişen EC değerleriyle antiviral aktivite
+50
+göstermiştir. Lamivudin ve tenofovir disoproksil ile kombine edildiğinde doravirinin antiviral
+aktivitesi antagonistik olmamıştır.
+Lamivudin
+Lamivudinin HIV-1’e karşı antiviral aktivitesi standart duyarlılık testleri kullanılarak
+monositler ve periferik kan mononükleer hücrelerini (PKMH) içeren pek çok hücre dizisinde
+incelenmiştir. EC değerleri 0,003 - 15 microM aralığında bulunmuştur (1 mikroM = 0,23
+50
+mikrogram/mL). HIV-1 A-G kladları ve grup O virüslere (n = 3; yalnızca klad B için n = 2)
+karşı lamivudinin medyan EC değerleri sırasıyla 60 nM (aralık: 20 - 70 nM), 35 nM (aralık:
+50
+30 - 40 nM), 30 nM (aralık: 20- 90 nM), 20 nM (aralık: 3 -40 nM), 30 nM (aralık: 1 - 60 nM),
+30 nM (aralık: 20 -70 nM), 30 nM (aralık: 3- 70 nM) ve 30 nM (aralık: 20 - 90 nM) olarak
+saptanmıştır. Kronik HCV enfeksiyonunun tedavisinde kullanılan ribavirin (50 mikroM)
+lamivudinin anti-HIV-1 aktivitesini MT-4 hücrelerinde 3,5 kat azaltmıştır.
+Tenofovir disoproksil
+Tenofovirin HIV-1’in laboratuvar ve klinik izolatlarına karşı antiviral aktivitesi T
+lemfoblastoid hücre dizileri, primer monosit/makrofaj hücreleri ve periferik kan
+lenfositlerinde incelenmiştir. Tenofovirin EC değerleri 0,04-8,5 mikroM aralığında yer
+50
+almıştır. Tenofovir hücre kültüründe HIV-1 A, B, C, D, E, F, G ve O kladlarına karşı antiviral
+aktivite sergilemiştir (EC değerleri 0,5-2,2 mikroM aralığında saptanmıştır).
+50
+Direnç
+Hücre kültüründe
+Doravirin
+23Hücre kültüründe doravirine dirençli suşlar farklı kökenlerden ve alt tiplerden vahşi tip HIV-
+1’in yanısıra NNRTİ’ye dirençli HIV-1’den başlayarak seçilmiştir. RT’de gözlenen yeni
+aminoasit substitüsyonları şunlardı: V106A, V106M, V106I, V108I, F227L, F227C, F227I,
+F227V, H221Y, M230I, L234I, P236L ve Y318F. V106A, V106M, V108I, H221Y, F227C,
+M230I, P236L ve Y318F ikameleri, doravirine duyarlılıkta 3,4 ila 70 kat azalma sağlamıştır.
+V106A, V106M, V108I ve F227C ile kombinasyon halinde Y318F, doravirine duyarlılıkta
+tek başına Y318F'ye göre daha büyük düşüşler sağlamıştır, bu da doravirine duyarlılıkta 10
+kat azalma sağlamıştır. İn vitro çalışmada NNRTİ’ye dirençli yaygın mutasyonlar (K103N,
+Y181C) seçilmemiştir. V106A (yaklaşık 19 kat değişikliğe yol açan) alt tip B virüsünde
+başlangıçtaki substitüsyon ve alt tip A ve C virüslerinde V106A veya M olarak ortaya
+çıkmıştır. Daha sonra, V106 substitüsyonlarına ek F227(L/C/V) veya L234I ortaya çıkmıştır
+(> 100 kat değişikliğe yol açan ikili mutantlar).
+Lamivudin
+HIV-1’in lamivudine dirençli varyantları hücre kültüründe ve lamivudin ile tedavi edilen
+hastalarda seçilmiştir. Genotip analizi direncin HIV-1 RT’de kodon 184’de metiyonini
+izolösin veya valin ile değiştiren spesifik bir aminoasit substitüsyonundan (M184V/I)
+kaynaklandığını göstermiştir.
+Tenofovir disoproksil
+Tenofovir ile seçilen HIV-1 izolatları HIV-1 RT’de bir K65R substitüsyonu eksprese etmiş ve
+tenofovire duyarlılıkta 2-4 kat azalma sergilemiştir. Ayrıca, HIV-1 RT’deki bir K70E
+substitüsyonu tenofovir ile seçilmiştir ve abakavir, emtrisitabin, lamivudin ve tenofovire
+duyarlılıkta düşük düzeyde azalmaya yol açar.
+Klinik çalışmalarda Tedavi deneyimi olmayan yetişkin hastalar
+Doravirin
+Aşağıdaki NNRTİ substitüsyonlarının hariç bırakma kriterlerinin bir parçası olduğu DRIVE-
+FORWARD ve DRIVE-AHEAD isimli Faz 3 çalışmalar daha önce tedavi almayan hastaları
+içermiştir (n = 747): L100I, K101E, K101P, K103N, K103S, V106A, V106I, V106M, V108I,
+E138A, E138G, E138K, E138Q, E138R, V179L, Y181C,Y181I, Y181V, Y188C, Y188H,
+Y188L, G190A, G190S, H221Y, L234I, M230I, M230L, P225H, F227C, F227L, F227V.
+Direnç analizi alt grubunda (virolojik başarısızlık veya çalışmadan erken ayrılma sırasında
+HIV-1 RNA’sı 400 kopya/mL’den fazla olan ve direnç verileri mevcut olan hastalar)
+aşağıdaki yeni (de novo) gelişen direnç görülmüştür.
+Tablo 3: Protokolde tanımlanan virolojik başarısızlık popülasyonunda + çalışmadan
+erken ayrılan popülasyonda 96. haftaya kadar direnç gelişimi
+DRIVE-FORWARD DRIVE-AHEAD
+DOR + DRV+r + DOR/TDF/3TC EFV/TDF/FTC
+NRTİ’ler* NRTİ’ler*
+(364) (364)
+(383) (383)
+Başarılı genotip, n 15 18 32 33
+Aşağıdakilere genotipik
+direnç:
+DOR veya kontrol (DRV 2 (DOR) 0 (DRV) 8 (DOR) 14 (EFV)
+24veya EFV)
+Temel NRTİ (omurga) 2** 0** 6 5
+Sadece M184I/V 2 0 4 4
+Sadece K65R 0 0 1 0
+K65R + M184I/V 0 0 1 1
+* DOR kolunda NRTİs: FTC/TDF (333) veya ABC/3TC (50); DRV+r kolunda NRTİs:
+FTC/TDF (335) veya ABC/3TC (48)
+**Hastaların hepsi FTC/TDF almıştır
+ABC=abakavir; FTC=emtrisitabin; DRV=darunavir; r=ritonavir
+RT’de doravirin ile ilişkili yeni ortaya çıkan direnç substitüsyonları aşağıdakilerden birini
+veya daha fazlasını içermiştir: A98G, V106I, V106A, V106M/T, Y188L, H221Y, P225H,
+F227C, F227C/R ve Y318Y/F.
+Virolojik supresyona ulaşmış yetişkin hastalar
+DRIVE-SHIFT çalışması geçmişte tedavi başarısızlığı yaşamayan, virolojik supresyona
+ulaşmış hastaları (N=670) içermiştir (bkz. Klinik deneyim bölümü). Doravirin, lamivudin ve
+tenofovire genotipik direncin belgelenmiş yokluğu (ilk tedaviye başlamadan önce) Pİ (proteaz
+inhibitörü) veya İNİ’ye (integraz inhibitörü) dayalı bir rejimden geçiş yapan hastalarda dahil
+etme kriterlerinin bir parçasını oluşturmuştur. Hariç tutulan NNRTİ substitüsyonları yukarıda
+sıralananlardı (DRIVE-FORWARD ve DRIVE-AHEAD); istisna olarak RT K103N, G190A
+ve Y181C substitüsyonları DRIVE-SHIFT’de kabul edilmiştir. NNRTİ’ye dayalı bir rejimden
+geçiş yapan hastalarda tedavi öncesi direnç genotiplemesinin belgelenmesi şart
+koşulmamıştır.
+DRIVE-SHIFT klinik çalışmasında hiçbir hasta DELSTRIGO tedavisinin ilk 48 haftasında
+(erken geçiş, N=447) veya 24 haftasında (geç geçiş, N=209) DOR, 3TC veya TDF’ye
+genotipik veya fenotipik direnç geliştirmemiştir. Bir hastada başlangıçtaki rejimi sırasında bir
+RT M184M/I mutasyonu ve 3TC ve FTC’ye fenotipik direnç gelişmiştir. Başlangıçta NNRTİ
+mutasyonları (RT K103N, G190A veya Y181C) olan 24 hastadan hiçbiri (erken geçiş
+grubunda 11 hasta, geç geçiş grubunda 13 hasta) 48. haftanın sonuna kadar veya tedavinin
+bırakıldığı tarihte virolojik başarısızlık yaşamamıştır.
+Pediyatrik popülasyon
+IMPAACT 2014 (Protokol 027) klinik araştırmasında, başlangıçta virolojik olarak
+baskılanmış hiçbir gönüllü, direnç analizi kriterlerini karşılamamıştır. 24. Haftada veya
+sonrasında protokol tanımlı virolojik başarısızlık kriterlerini (2 ardışık plazma HIV-1 RNA
+testi sonucu ≥200 kopya/mL olarak tanımlanır) karşılayan, daha önce tedavi görmemiş bir
+gönüllü direnç gelişimi açısından değerlendirilmiştir; doravirin, lamivudin veya tenofovire
+genotipik veya fenotipik bir direnç ortaya çıkmamıştır.
+Çapraz direnç
+Doravirine dirençli HIV-1 varyantları ile lamivudin/emtrisitabin veya tenofovir arasında veya
+lamivudine veya tenofovire dirençli varyantlar ile doravirin arasında anlamlı çapraz direnç
+gösterilmemiştir.
+Doravirin
+25Doravirin NNRTİ direnci olan sınırlı sayıda hastada değerlendirilmiştir (K103N n = 7,
+G190A n = 1); tüm hastalar 48. haftada <40 kopya/mL’ye baskılanmıştır. Çeşitli NNRTİ
+substitüsyonlarının yol açtığı ve klinik etkililikte azalmayla ilişkili olan duyarlılık azalmasına
+dair bir eşik değer belirlenmemiştir.
+HIV-1’in RT’de NNRTİ ile ilişkili yaygın mutasyonları (K103N, Y181C veya K103N/Y181C
+substitüsyonları) barındıran laboratuvar suşları %100 normal insan serumu varlığında
+değerlendirildiğinde vahşi tip virüse kıyasla duyarlılıkta 3 kattan daha az bir azalma
+sergilerler. İn vitro çalışmalarda, doravirin klinik yönden önemli konsantrasyonlarda NNRTİ
+ile ilişkili şu substitüsyonları baskılayabilmiştir: K103N, Y181C ve G190A.
+NNRTİ ile ilişkili mutasyonları barındıran 96 farklı klinik izolatı içeren bir panel %10 fetal
+sığır serumu varlığında doravirine duyarlılık yönünden değerlendirilmiştir. Y188L
+substitüsyonu veya V106 substitüsyonları ile birlikte A98G, H221Y, P225H, F227C veya
+Y318F’yi içeren klinik izolatlar doravirine 1000 kattan daha fazla azalmış duyarlılık
+sergilemiştir. Diğer substitüsyonlar duyarlılıkta 5-10 kat arasında değişen azalmaya yol
+açmıştır: (G190S (5,7); K103N/P225H (7,9), V108I/Y181C (6,9), Y181V (5,1)). Duyarlılıkta
+5-10 kat azalmanın klinik önemi bilinmemektedir.
+Tedavi sırasında ortaya çıkan, doravirin direnciyle ilişkili substitüsyonlar efavirenz, rilpivirin,
+nevirapin ve etravirine çapraz direnç oluşturabilir. Referans niteliğindeki çalışmalarda
+doravirine yüksek düzeyde direnç gelişen 8 hastadan 6’sında Monogram Phenosense testiyle
+EFV ve nevirapine fenotipik direnç, 3’ünde rilpivirine fenotipik direnç ve 3’ünde etravirine
+kısmi direnç saptanmıştır.
+Lamivudin
+NRTİ’ler arasında çapraz direnç gözlenmiştir. M184I/V lamivudin direnç substitüsyonu
+emtrisitabine direnç oluşturur. Lamivudine dirençli HIV-1 mutantları didanozine (ddİ) de
+çapraz direnç sergiler. Zidovudin ve didanozin ile tedavi ediken bazı hastalarda lamivudin
+dahil çoklu RT inhibitörlerine dirençli izolatlar ortaya çıkmıştır.
+Tenofovir disoproksil
+NRTİ’ler arasında çapraz direnç gözlenmiştir. Tenofovir ile seçilen HIV-1 RT’de K65R
+substitüsyonu abakavir veya didanozin ile tedavi edilen bazı HIV-1 enfeksiyonlu hastalarda
+da seçilir. K65R substitüsyonu içeren HIV-1 izolatları emtrisitabin ve lamivudine azalmış
+duyarlılık da sergilemiştir. Dolayısıyla, virüsleri K65R substitüsyonunu barındıran hastalarda
+bu NRTİ’ler arasında çapraz direnç meydana gelebilir. Klinik olarak tenofovir disoproksil ile
+seçilen K70E substitüsyonu abakavir, didanozin, emtrisitabin, lamivudin ve tenofovire
+duyarlılığın azalmasına neden olur. HIV-1’i zidovudin ile ilişkili ortalama 3 RT aminoasit
+substitüsyonu (M41L, D67N, K70R, L210W, T215Y/F veya K219Q/E/N) eksprese eden
+hastalardan (n = 20) izole edilen HIV-1 suşları tenofovire duyarlılıkta 3,1 kat azalma
+göstermiştir. Virüsleri zidovudin direnciyle ilişkili substitüsyonların yokluğunda bir L74V RT
+substitüsyonu eksprese eden hastalarda (n = 8) tenofovir disoproksile yanıt azalmıştır.
+Virüsleri HIV-1 RT’de bir Y115F substitüsyonu (n = 3), Q151M substitüsyonu (n = 2) veya
+T69 insersiyonu (n = 4) eksprese eden hastalara ait sınırlı veriler mevcuttur ve bu hastaların
+tümü klinik çalışmalarda azalmış yanıt sergilemiştir.
+Klinik deneyim
+Tedavi deneyimi olmayan yetişkin hastalar
+Doravirinin etkinliği, antiretroviral tedavi deneyimi olmayan, HIV-1 enfeksiyonlu hastalarda
+(n = 1494) yürütülen iki randomize, çok-merkezli, çift-kör, aktif-kontrollü Faz 3 çalışmanın
+(DRIVE-FORWARD ve DRIVE-AHEAD) 96 haftalık verilerinin analizlerine dayanmaktadır.
+26Hariç bırakma kriterlerinin bir parçası olan NNRTİ substitüsyonları için Direnç bölümüne
+bakınız.
+DRIVE-FORWARD’da, 766 hasta randomize edilmiş ve araştırmacı tarafından seçilen
+emtrisitabin/tenofovir disoproksil (FTC/TDF) veya abakavir/lamivudin (ABC/3TC) ile
+birlikte, günde bir kez en az 1 doz doravirin 100 mg veya darunavir + ritonavir 800+100 mg
+almıştır. Başlangıçta hastaların medyan yaşı 33’dü (aralık 18 - 69), %86’sında CD4+ T hücre
+sayısı 200 hücre /mm3’den yüksekti, %84’ü erkekti, %27’si beyaz ırktan değildi, %4’ünde
+hepatit B ve/veya C virüs koenfeksiyonu ve %10’unda AIDS öyküsü mevcuttu, %20’sinde
+HIV-1 RNA 100.000 kopya /mL’den fazlaydı, %13’ü ABC/3TC almış ve %87’si FTC/TDF
+almıştı; bu karakteristikler tedavi gruplarında benzerdi.
+DRIVE-AHEAD’de, 728 hasta randomize edilmiş ve doravirin/lamivudin/tenofovir
+disoproksil 100/300/245 mg (DOR/3TC/TDF) veya efavirenz/emtrisitabin/tenofovir
+disoproksilin (EFV/FTC/TDF) en az bir dozunu günde bir kez almıştır. Başlangıçta hastaların
+medyan yaşı 31’di (aralık 18-70), %85’i erkekti, %52’si beyaz ırktan değildi, %3’ünde hepatit
+B veya C koenfeksiyonu ve %14’ünde AIDS öyküsü mevcuttu, %21’inde HIV-1 RNA >
+100.000 kopya /mL ve %12’sinde CD4+ T hücre sayısı < 200 hücre /mm3’dü; bu
+karakteristikler tedavi gruplarında benzerdi.
+DRIVE-FORWARD ve DRIVE-AHEAD’in 48. ve 96. haftalardaki sonuçları Tablo 4’de
+sunulmaktadır. Doravirine dayalı rejimler tüm demografik ve başlangıçtaki prognostik
+faktörlerde tutarlı etkililik göstermiştir.
+Tablo 4: Referans niteliğindeki çalışmalarda etkililik yanıtı (<40 kopya/mL, Snapshot
+yaklaşımı).
+DRIVE-FORWARD DRIVE-AHEAD
+DOR + 2 NRTİ DRV+r + 2 DOR/3TC/TDF EFV/FTC/TDF
+(383) NRTİ (383)
+(364) (364)
+48. Hafta %83 %79 %84 %80
+Fark (%95 GA) %4,2 (-%1,4, %9,7) %4,1 (-%1,5, %9,7)
+96. Hafta* %72 (N=379) %64 (N=376) %76 (N=364) %73 (N=364)
+Fark (%95 GA) %7,6 (%1, %14,2) %3,3 (-%3,1, %9,6)
+Başlangıçtaki faktörlere göre 48. haftadaki sonuç (<40 kopya/mL)
+HIV-1 RNA kopya/mL
+≤ 100.000 256/285 (%90) 248/282 (%88) 251/277 (%91) 234/258 (%91)
+> 100.000 63/79 (%80) 54/72 (%75) 54/69 (%78) 56/73 (%77)
+CD4 sayısı, hücre/µL
+≤ 200 34/41 (%83) 43/61 (%70) 27/42 (%64) 35/43 (%81)
+27> 200 285/323 (%88) 260/294 (%88) 278/304 (%91) 255/288 (%89)
+Mevcut NRTİ tedavisi
+TDF/FTC 276/316 (%87) 267/312 (%86) NA
+ABC/3TC 43/48 (%90) 36/43 (%84) NA
+Viral alt tip
+B 222/254 (%87) 219/255 (%86) 194/222 (%87) 199/226 (%88)
+B dışı 97/110 (%88) 84/100 (%84) 109/122 (%89) 91/105 (%87)
+Başlangıca göre ortalama CD4 değişimi
+48. Hafta 193 186 198 188
+96. Hafta 224 207 238 223
+*96. Haftada, HIV-1 RNA verisi eksik olan belirli hastalar analize alınmamıştır.
+Virolojik supresyona ulaşmış yetişkin hastalar
+İki nükleozid revers transkriptaz inhibitörü ile kombine olarak ritonavir veya kobisistat ile
+güçlendirilmiş bir Pİ veya kobisistat ile güçlendirilmiş elvitegravir veya bir NNRTİ içeren bir
+başlangıç rejiminden DELSTRIGO’ya geçişin etkinliği virolojik supresyona ulaşmış HIV-1
+enfeksiyonlu yetişkinlerde yürütülen bir randomize, açık etiketli çalışmada (DRIVE-SHIFT)
+değerlendirilmiştir. Çalışmaya girişten önce hastaların başlangıç rejimleriyle en az 6 ay
+süreyle virolojik supresyon yaşamış olmaları (HIV-1 RNA <40 kopya/mL), virolojik
+başarısızlık öyküsünün bulunmaması ve doravirin, lamivudin ve tenofovire direnç gelişmesine
+yol açan RT substitüsyonlarının yokluğunun belgelenmiş olması zorunluydu (bkz. Direnç
+bölümü). Hastalar başlangıçta DELSTRIGO’ya geçmek [N= 447, Erken Geçiş Grubu (EGG)]
+veya 24.haftaya kadar başlangıç rejimlerine devam etmek ve o haftada DELSTRIGO’ya [N=
+223, Geç Geçiş Grubu (GGG)] geçmek üzere randomize edilmiştir. Başlangıçta hastaların
+medyan yaşı 43’dü, %16’sı kadındı ve %24’ü beyaz ırktan değildi.
+DRIVE-SHIFT çalışmasında, 24. haftada başlangıç rejimine devam edilmesine kıyasla
+DELSTRIGO’ya erken geçişin 48. haftada daha geride olmadığı, HIV-1 RNA <40 kopya/mL
+olan hastaların oranıyla yapılan değerlendirmeyle gösterilmiştir. Tedavi sonuçları Tablo 5’de
+gösterilmektedir. Her bir tedavi grubunda çalışmanın 24. haftasında yapılan karşılaştırmada
+tutarlı sonuçlar görülmüştür.
+Tablo 5: DRIVE-SHIFT çalışmasında etkililik yanıtı (Snapshot yaklaşımı).
+Sonuç DELSTRIGO Başlangıç Rejimi
+GGG
+Günde bir kez EGG
+48. Hafta 24. Hafta
+N=447 N=223
+28HIV-1 RNA < 40 kopya/mL %90 %93
+EGG eksi GGG, Fark (%95 GA)* -%3,6 (-%8, %0,9)
+Alınan Başlangıç Rejimine göre HIV-1 RNA <40 kopya/mL olan Hastaların Oranı (%)
+Ritonavir veya Kobisistat ile güçlendirilmiş Pİ 280/316 (%89) 145/156 (%93)
+Kobisistat ile güçlendirilmiş elvitegravir 23/25 (%92) 11/12 (%92)
+NNRTİ 98/106 (%92) 52/55 (%95)
+Başlangıçtaki CD4+ T Hücre Sayısına (hücre/mm3) göre HIV-1 RNA <40 kopya/mL
+olan Hastaların Oranı (%)
+< 200 hücre/mm3 10/13 (%77) 3/4 (%75)
+≥ 200 hücre/mm3 384/426 (%90) 202/216 (%94)
+HIV-1 RNA ≥ 40 kopya/mL† %3 %4
+Zaman Penceresinde Virolojik Verileri %8 %3
+Olmayan Hastalar
+Advers olay veya ölüm nedeniyle çalışmadan %3 0
+çıkarılanlar‡
+Diğer nedenlerle çalışmadan ayrılanlar§ %4 %3
+Çalışmaya devam eden ancak zaman 0 0
+penceresinde verileri eksik olan hastalar
+* Tedavi farkına ait %95 GA, hastanın sınıfına göre düzeltme yapılan Mantel-Haenszel
+yöntemi kullanılarak hesaplanmıştır.
+†Çalışma tedaviyi veya çalışmayı EEG için 48. haftadan önce veya GGG için 24. haftadan
+önce etkililik yokluğu veya etkililik kaybı nedeniyle bırakan hastaları ve EEG için 48. hafta
+penceresinde ve GGG için 24. hafta penceresinde HIV-1 RNA ≥ 40 kopya/mL olan hastaları
+içerir.
+‡Advers olay (AO) veya ölüm nedeniyle ayrılan hastaları içerir (eğer bu durum tanımlanan
+zaman penceresinde tedavi döneminde hiçbir virolojik veri elde edilmemesine yol açmışsa).
+§Diğer nedenler şunlardır: takibe gelmemek, çalışma tedavisine bağlı kalmamak, hekim
+kararı, protokolden sapma, hastanın ayrılması.
+Başlangıç rejimi = ritonavir veya kobisistat ile güçlendirilmiş Pİ (spesifik olarak atazanavir,
+darunavir veya lopinavir) veya kobisistat ile güçlendirilmiş elvitegravir veya NNRTİ (spesifik
+olarak efavirenz, nevirapin veya rilpivirin); bunların her biri iki NRTİ ile birlikte uygulanır.
+Advers olaylar nedeniyle ayrılma
+29DRIVE-AHEAD’de EFV/FTC/TDF grubuna (%6,6) kıyasla DELSTRIGO grubunda (%3)
+48. hafta itibariyle bir advers olay nedeniyle tedaviyi bırakan hasta oranının daha düşük
+olduğu saptanmıştır.
+Pediyatrik popülasyon
+DOR/3TC/TDF'nin etkililiği, 12 ila 18 yaş arasındaki HIV-1 ile enfekte pediyatrik
+hastalarda açık etiketli, tek kollu bir çalışmada değerlendirilmiştir (IMPAACT 2014
+(Protokol 027)).
+Başlangıçta, gönüllülerin medyan yaşı 15 (aralık: 12 ila 17), %58'i kadın, %78'i Asyalı ve
+%22'si Siyahiydi ve medyan CD4+ T-hücre sayısı mm3 başına 713 hücreydi (aralık: 84 ila
+1.397). DOR/3TC/TDF'ye geçtikten sonra, virolojik olarak baskılanmış gönüllülerin %95'i
+(41/43) 24. haftada baskılanmış (HIV-1 RNA < 50 kopya/mL) ve %93'ü (40/43) 48. haftada
+baskılanmış (HIV-1 RNA < 50 kopya/mL) kalmıştır.
+Avrupa İlaç Ajansı, insan bağışıklık yetmezliği virüsü-1 (HIV-1) enfeksiyonunun
+tedavisinde pediyatrik popülasyonun bir veya daha fazla alt grubunda DELSTRIGO ile
+yürütülen çalışmaların sonuçlarını gönderme zorunluluğunu ertelemiştir. Pediyatrik
+kullanıma ilişkin bilgi için bkz. Bölüm 4.2.
+5.2 Farmakokinetik özellikler
+Sağlıklı kişilere (N = 24) açlık koşullarında bir doravirin/lamivudin/tenofovir disoproksil
+tabletin tek doz uygulanması, doravirin tabletleri (100 mg) ile birlikte lamivudin tabletleri
+(300 mg) ve tenofovir disoproksil tabletlerinin (245 mg) uygulanmasıyla benzer doravirin,
+lamivudin ve tenofovir maruz kalımları sağlamıştır. Tek bir DELSTRIGO tabletinin sağlıklı
+kişilere yüksek oranda yağ içeren bir öğünle uygulanması doravirinin C değerinde %26
+24
+artışa yol açarken EAA ve C anlamlı düzeyde etkilenmemiştir. Yüksek oranda yağ içeren
+maks
+bir öğünle uygulandığında lamivudinin C değeri %19 oranında azalmış ancak EAA
+maks
+anlamlı olarak etkilenmemiştir. Yüksek oranda yağ içeren bir öğünle uygulandığında
+tenofovirin C değeri %12 azalmış ve EAA %27 artmıştır. Farmakokinetikteki bu farklar
+maks
+klinik yönden önemli değildir.
+Doravirin
+Doravirinin farmakokinetiği sağlıklı kişilerde ve HIV-1 enfeksiyonlu hastalarda çalışılmıştır.
+Doravirinin farmakokinetiği sağlıklı kişilerde ve HIV-1 enfeksiyonlu hastalarda benzerdir.
+Kararlı duruma genellikle günde bir kez dozajın 2. gününde ulaşılmış ve EAA , C ve
+0-24 maks
+C için birikim oranları 1,2- 1,4 arasında bulunmuştur. Yapılan bir popülasyon
+24
+farmakokinetik analizine dayanarak, HIV-1 enfeksiyonlu hastalara günde bir kez 100 mg
+doravirin uygulandıktan sonra doravirinin kararlı durum farmakokinetiği aşağıda
+sunulmaktadır.
+Parametre EAA C C
+0-24 maks 24
+GM (%CV) μg.saat/mL μg/mL μg/mL
+Doravirin
+Günde bir kez 16,1 (29) 0,962 (19) 0,396 (63)
+100 mg
+GM: Geometrik ortalama, % CV: Geometrik varyasyon katsayısı
+30Emilim
+Oral dozajdan sonra zirve plazma konsantrasyonlarına dozajın ardından 2 saatte ulaşılır.
+Doravirinin hesaplanan mutlak biyoyararlanımı 100 mg tablet için yaklaşık %64’dür.
+Dağılım
+Bir intravenöz mikrodozun uygulanmasına dayanarak, doravirinin dağılım hacmi 60,5 L’dir.
+Doravirin plazma proteinlerine yaklaşık %76 oranında bağlanır.
+Biyotransformasyon
+İn vitro verilere göre doravirin esas olarak CYP3A tarafından metabolize edilir.
+Eliminasyon
+Doravirin
+Doravirinin terminal yarı ömrü (t ) yaklaşık 15 saattir. Doravirin esas olarak CYP3A4 aracılı
+1/2
+oksidatif metabolizma yoluyla elimine edilir. Değişmemiş tıbbi ürünün safrayla atılımı
+doravirinin eliminasyonuna katkıda bulunabilir fakat bu eliminasyon yolunun önemli olması
+beklenmemektedir. Değişmemiş tıbbi ürünün idrarla atılımı çok azdır.
+Lamivudin
+Oral uygulamadan sonra lamivudin hızla emilir ve kapsamlı biçimde dağılır. Sağlıklı 60
+kişiye 7 gün süreyle günde bir kez lamivudin 300 mg’nin çoklu dozlarının oral yolla
+uygulanmasından sonra kararlı durum C (C ) 2,04 ± 0,54 mcg /mL (ortalama ± SD)
+maks maks,ss
+ve 24 saatlik kararlı durum EAA (AUC ) 8,87 ± 1,83 mcg•saat /mL bulunmuştur. Plazma
+24,ss
+proteinlerine bağlanma düşük düzeydedir. Lamivudinin bir intravenöz dozunun yaklaşık
+%71’i değişmemiş tıbbi ürün şeklinde idrarda saptanmıştır. Lamivudinin metabolizması
+eliminasyonun daha az önem taşıyan bir yoludur. İnsanlarda bilinen tek metabolit trans-
+sülfoksit metabolitidir (12 saat sonra oral bir dozun yaklaşık %5’i). HIV-1 enfeksiyonlu
+hastalarda veya sağlıklı kişilerde dozajdan sonra 24 saat süreyle serum örneklerinin alındığı
+tek doz çalışmalarının çoğunda gözlenen ortalama eliminasyon yarı ömrü (t ) 5-7 saat
+½
+arasında değişmiştir. HIV-1 enfeksiyonlu hastalarda total klerens 398,5 ± 69,1 mL/dak
+(ortalama ± SD) bulunmuştur.
+Tenofovir disoproksil
+HIV-1-enfeksiyonlu hastalara tenofovir disoproksilin tek bir 245 mg dozunun açlık
+koşullarında oral yolla uygulanmasından sonra, C ’a bir saatte ulaşılmıştır. C ve EAA
+maks maks
+değerleri sırasıyla 0,30 ± 0,09 mikrogram /mL ve 2,29 ± 0,69 µg•saat /mL bulunmuştur. Aç
+hastalarda tenofovir disoproksilden gelen tenofovirin oral biyoyararlanımı yaklaşık %25’dir.
+Tenofovirin %0,7’den daha azı in vitro koşullarda insan plazma proteinlerine 0,01-25
+mikrogram/mL aralığında bağlanır. Tenofovirin intravenöz dozunun yaklaşık %70-80’i
+dozajdan sonra 72 saat içinde idrarda değişmemiş tıbbi ürün olarak saptanır. Tenofovir
+glomerüler filtrasyon ve aktif tübüler sekresyonun kombinasyonuyla elimine edilir ve
+kreatinin klerensi (CrCl) 80 mL /dak’dan yüksek olan hastalarda renal klerens dakikada 243,5
+± 33.3 mL’dir (ortalama ± SD). Oral uygulamadan sonra tenofovirin terminal yarı ömrü
+yaklaşık 12-18 saattir. İn vitro çalışmalar ne tenofovir disoproksilin ne de tenofovirin
+CYP450 enzimlerinin substraları olmadığını belirlemiştir.
+Özel popülasyonlardaki farmakokinetik
+Böbrek yetmezliği
+Doravirin
+Doravirinin böbrekler yoluyla atılımı çok azdır. Ağır böbrek bozukluğu olan 8 hastanın
+böbrek yetmezliği olmayan 8 hastayla karşılaştırıldığı bir çalışmada, doravirinin tekli doz
+31maruz kalımı ağır böbrek bozukluğu olan hastalarda %31 daha yüksek bulunmuştur. Kreatinin
+klerensi (CrCl) 17 - 317 mL/dak arasında olan hastaları içeren bir popülasyon farmakokinetik
+analizinde, böbrek fonksiyonu doravirinin farmakokinetiği üzerinde klinik yönden önemli bir
+etki göstermemiştir. Hafif, orta veya ağır böbrek bozukluğu olan hastalarda doz ayarlaması
+gerekmez. Doravirin son evre böbrek hastalığı olan hastalarda veya diyalize giren hastalarda
+çalışılmamıştır (bkz. Bölüm 4.2).
+Lamivudin
+Lamivudin ile yürütülen çalışmalar böbrek fonksiyon bozukluğu olan hastalarda azalmış
+klerens nedeniyle plazma konsantrasyonlarının (EAA) yükseldiğini göstermektedir.
+Lamivudin verilerine dayanarak, DELSTRIGO CrCl <50 mL/dak olan hastalara önerilmez.
+Tenofovir disoproksil
+Tenofovirin farmakokinetik parametreleri HIV enfeksiyonu olmayan ve başlangıçtaki CrCl’ye
+(CrCl >80 mL/dak olduğunda normal böbrek fonksiyonu; CrCl = 50-79 mL/dak ise hafif;
+CrCl = 30-49 mL/dak ise orta düzeyde ve CrCl = 10-29 mL/dak ise ağır böbrek yetmezliği)
+dayanarak tanımlanan farklı derecelerde böbrek fonksiyon bozukluğu olan 40 yetişkin
+gönüllüye tenofovir disoproksil 245 mg’nin tek bir dozunun uygulanmasından sonra
+belirlenmiştir. Böbrek fonksiyonu normal olan hastalarla karşılaştırıldığında, ortalama (%CV)
+tenofovir maruz kalımı CrCl >80 mL/dak olan hastalarda 2,185 (%12) ng·saat/mL iken hafif,
+orta veya ağır böbrek yetmezliği olan hastalarda sırasıyla 3,064 (%30) ng·saat/mL, 6,009
+(%42) ng·saat/mL ve 15,985 (%45) ng·saat/mL’ye yükselmiştir.
+Hemodiyalize girmeyen ve CrCl < 10 mL/dak olan yetişkin hastalarda ve periton diyalizi
+veya diğer diyaliz formlarıyla tedavi edilen son evre böbrek hastalığı olan hastalarda
+tenofovirin farmakokinetiği çalışılmamıştır.
+Karaciğer yetmezliği
+Doravirin
+Doravirin esas olarak karaciğer tarafından metabolize edilir ve atılır. Orta derecede karaciğer
+yetmezliği (özellikle artmış ansefalopati ve asites skorları nedeniyle Child-Pugh sınıf B olarak
+sınıflanmıştır) olan 8 hastanın karaciğer yetmezliği olan 8 gönüllüyle karşılaştırıldığı bir
+çalışmada doravirinin farmakokinetiğinde klinik yönden önemli fark saptanmamıştır. Hafif
+veya orta derecede karaciğer yetmezliği olan hastalarda doz ayarlaması gerekmez. Doravirin
+ağır karaciğer yetmezliği olan hastalarda (Child-Pugh sınıf C) çalışılmamıştır (bkz. Bölüm
+4.2).
+Lamivudin
+Lamivudinin farmakokinetik özellikleri orta ila ağır karaciğer yetmezliği olan hastalarda
+belirlenmiştir. Farmakokinetik parametreler azalan karaciğer fonksiyonuyla değişmemiştir.
+Dekompanse karaciğer hastalığı varlığında lamivudinin güvenliliği ve etkinliği ortaya
+konmamıştır.
+Tenofovir disoproksil
+Tenofovirin farmakokinetik özellikleri orta ila ağır karaciğer yetmezliği olan gönüllülerde ve
+sağlıklı gönüllülerde tenofovir disoproksilin 245 mg’lık bir dozundan sonra çalışılmıştır.
+Karaciğer yetmezliği olan hastalar ile sağlıklı gönüllüler arasında tenofovirin farmakokinetiği
+yönünden önemli klinik farklar gözlenmemiştir.
+Pediyatrik popülasyon
+Ortalama doravirin maruziyetleri, doravirin veya doravirin/lamivudin/tenofovir disoproksil
+uygulamasını takiben yetişkinlere göre doravirin veya doravirin/lamivudin/tenofovir
+32disoproksil IMPAACT 2014 (Protokol 027) alan 12 ila 18 yaşından küçük ve ağırlığı en az 35
+kg olan 54 pediyatrik hastada benzer olmuştur.
+Tablo 6: 12 ila 18 yaşından küçük ve en az 35 kg ağırlığındaki HIV ile enfekte pediyatrik
+hastalarda doravirin veya doravirin/lamivudin/tenofovir disoproksil uygulanmasını
+takiben doravirin, lamivudin ve tenofovir için kararlı durum farmakokinetiği
+Parametre* Doravirin† Lamivudin‡ Tenofovir‡
+EAA
+0-24
+16,4 (24) 11,3 (28) 2,55 (14)
+(μg•saat/mL)
+C
+maks
+1,03 (16) 2,1 (24) 0,293 (37)
+(μg/mL)
+C
+24
+0,379 (42) 0,0663 (55) 0,0502 (9)
+(μg/mL)
+*Geometrik ortalama olarak sunulmuştur (%CV: geometrik varyasyon katsayısı)
+†Popülasyon PK analizinden (n=54)
+‡ Popülasyon PK analizinden (n=10)
+Kısaltmalar: EAA=zaman konsantrasyon eğrisi altında kalan alan; C =maksimum
+maks
+konsantrasyon; C =24 saatteki konsantrasyon
+24
+Yaşlılar
+Bir Faz 1 çalışmada veya bir popülasyon farmakokinetik analizinde, 65 yaş ve üzeri sınırlı
+sayıda hasta dahil edilmiş olmasına karşın (n = 36), en az 65 yaşında olan hastalar ile 65 yaşın
+altındaki hastalar arasında doravirinin farmakokinetiği yönünden önemli klinik farklar
+saptanmamıştır. Lamivudin ve tenofovirin farmakokinetik özellikleri 65 yaş üzeri hastalarda
+çalışılmamıştır. Doz ayarlaması gerekmez.
+Cinsiyet
+Doravirin, lamivudin ve tenofovir için erkekler ve kadınlar arasında farmakokinetik özellikler
+bakımından önemli klinik farklar tespit edilmemiştir.
+Irk
+Doravirin
+Sağlıklı gönüllülerde ve HIV-1 enfeksiyonlu hastalarda doravirin ile yürütülen bir popülasyon
+farmakokinetik analizinde farmakokinetik özelliklerde klinik yönden önemli ırksal farklar
+saptanmamıştır.
+Lamivudin
+Lamivudinin farmakokinetiğinde anlamlı veya klinik yönden önemli ırksal farklar yoktur.
+Tenofovir disoproksil
+33Tenofovir disoproksil uygulandıktan sonra beyaz ırk dışındaki diğer ırk ve etnik gruplar
+arasında potansiyel farmakokinetik farkları belirlemek için bu popülasyonların sayısı yeterli
+değildi.
+5.3 Klinik öncesi güvenlilik verileri
+Üreme toksisitesi
+Doravirin
+Oral yolla uygulanan doravirin ile üreme çalışmaları sıçanlarda ve tavşanlarda, önerilen insan
+dozunda (ÖİD) insanlardaki maruz kalımdan yaklaşık 9 kat (sıçanlar) ve 8 kat (tavşanlar)
+daha yüksek maruz kalımlarda gerçekleştirilmiş ve embriyo-fetus (sıçanlar ve tavşanlar) veya
+doğum öncesi/sonrası (sıçanlar) gelişim üzerinde hiçbir etki saptanmamıştır. Gebe sıçanlarda
+ve tavşanlarda yürütülen çalışmalar doravirinin plasenta yoluyla fetusa geçtiğini ve
+gestasyonun 20. gününde fetal plazma konsantrasyonlarının annedeki konsantrasyonların %40
+(tavşanlar) ve %52 (sıçanlar) kadarı olduğu gözlenmiştir.
+Oral uygulamadan sonra doravirin emziren sıçanların sütüne geçmiş ve sütteki
+konsantrasyonların annenin plazma konsantrasyonlarının yaklaşık 1,5 katı olduğu
+belirlenmiştir.
+Lamivudin
+Hayvan çalışmalarında lamivudin teratojeniteye yol açmamış ancak insanlarda ulaşılan maruz
+kalımlara kıyasla görece düşük sistemik maruz kalımlarda tavşanlarda erken embriyo
+ölümlerinde artışa dair işaretler gözlenmiştir. Sıçanlarda çok yüksek bir sistemik maruz
+kalımda bile benzer bir etki görülmemiştir.
+Tenofovir disoproksil
+Sıçanlarda ve tavşanlarda yürütülen üreme toksisitesi çalışmaları çiftleşme, fertilite, gebelik
+veya fetal parametreler üzerinde hiçbir etkiyi göstermemiştir. Bununla birlikte, bir perinatal-
+posnatal toksisite çalışmasında anne hayvan için toksik dozlarda tenofovir disoproksil
+yavruların canlılık indeksini ve vücut ağırlığını azaltmıştır.
+Karsinogenez
+Doravirin
+Farelerde ve sıçanlarda doravirin ile yürütülen uzun dönemli oral karsinojenite çalışmaları,
+önerilen insan dozunda insanlardaki maruz kalımlarının 6 katına (fareler) ve 7 katına
+(sıçanlar) kadar olan tahmini maruz kalımlarda karsinojenik potansiyele dair hiçbir kanıt
+göstermemiştir.
+Lamivudin
+Farelerde ve sıçanlarda lamivudin ile yürütülen uzun dönemli oral karsinojenite çalışmaları,
+önerilen insan dozunda insanlardaki maruz kalımlarının 12 katına (fareler) ve 57 katına
+(sıçanlar) kadar olan tahmini maruz kalımlarda karsinojenik potansiyele dair hiçbir kanıt
+göstermemiştir.
+Tenofovir disoproksil
+Farelerde ve sıçanlarda yürütülen oral karsinojenite çalışmaları yalnızca farelerde aşırı yüksek
+bir dozda duodenal tümörlerin düşük insidansını ortaya koymuştur. Bu tümörlerin insanlar
+açısından önemli olma olasılığı yoktur.
+Mutagenez
+Doravirin
+Bir dizi in vitro veya in vivo analizde doravirin genotoksik bulunmamıştır.
+34Lamivudin
+Lamivudinin bir L5178Y fare lenfoma deneyinde mutajenik ve kültürdeki insan
+lenfositlerinin kullanıldığı bir sitogenetik deneyde klastojenik olduğu saptanmıştır. Lamivudin
+bir mikrobiyal mutajenite testinde, bir in vitro hücre transformasyon deneyinde, bir sıçan
+mikronukleus deneyinde, bir sıçan kemik iliği sitogenetik testinde ve sıçan karaciğerinde
+programlanmamış bir DNA sentezi deneyinde mutajenik bulunmamıştır.
+Tenofovir disoproksil
+Tenofovir disoproksil in vitro fare lenfoma deneyinde mutajenik ve bir in vitro bakteriyel
+mutajenite testinde (Ames testi) negatif bulunmuştur. Bir in vivo fare mikronukleus
+deneyinde, erkek farelere uygulandığında tenofovir disoproksil negatif sonuç vermiştir.
+Fertilitenin bozulması
+Doravirin
+Önerilen insan dozunda insanlardaki maruz kalımın 7 katına kadar maruz kalımlarda sıçanlara
+uygulandığında doravirin fertilite, çiftleşme performansı veya erken embriyo gelişimi
+üzerinde hiçbir etki göstermemiştir.
+Lamivudin
+Lamivudin sıçanlarda erkek veya dişi fertilitesini etkilememiştir.
+Tenofovir disoproksil
+Sıçanlarda ve tavşanlarda yürütülen üreme toksisitesi çalışmaları çiftleşme, fertilite, gebelik
+veya fetal parametreler üzerinde hiçbir etkiyi ortaya koymamıştır.
+Tekrarlı doz toksisitesi
+Doravirin
+Hayvan toksisite çalışmalarında doravirin uygulanması toksisiteyle ilişkili bulunmamıştır.
+Lamivudin
+Hayvan toksisite çalışmalarında yüksek dozlarda lamivudin uygulanması herhangi bir önemli
+organ toksisitesiyle ilişkili bulunmamıştır. En yüksek dozaj düzeylerinde, karaciğer ve
+böbrek fonksiyonu göstergeleri üzerinde hafif etkiler karaciğer ağırlığında zaman zaman
+azalmalar ile birlikte görülmüştür. Kaydedilen klinik yönden önemli etkiler kırmızı hücre
+sayısında azalma ve nötropeniydi.
+Tenofovir disoproksil
+Sıçanlar, köpekler ve maymunlarda klinik maruz kalım düzeylerine eşit veya daha yüksek
+maruz kalım düzeylerinde ve klinik kullanım yönünden önemli olabilecek maruz kalım
+düzeylerinde yürütülen tekrarlı doz toksisite çalışmalarının bulguları böbrek ve kemik
+değişiklikleri ve serum fosfat konsantrasyonunda azalmayı içermiştir. Kemik toksisitesi
+osteomalazi (maymunlar) ve kemik mineral yoğunluğunda (KMY) azalma (sıçanlar ve
+köpekler) ile teşhis edilmiştir. Genç yetişkin sıçanlarda ve köpeklerde kemik toksisitesi
+pediyatrik veya yetişkin hastalardaki maruz kalımın ≥ 5 katı maruz kalımlarda
+gerçekleşmiştir; enfekte juvenil maymunlarda kemik toksisitesi subkutan dozajın ardından
+çok yüksek maruz kalımlarda (hastalardaki maruz kalımın ≥ 40 katı) meydana gelmiştir. Sıçan
+ve maymun çalışmalarının bulguları, fosfatın barsaktan emiliminde maddeyle ilişkili bir
+azalma olduğunu ve KMY’de buna bağlı bir potansiyel azalma olduğunu göstermiştir.
+356. FARMASÖTİK ÖZELLİKLER
+6.1 Yardımcı maddelerin listesi
+Tablet çekirdeği
+Kroskarmeloz sodyum (E468)
+Hipromelloz asetat süksinat
+Magnezyum stearat (E470b)
+Mikrokristalin selüloz (E460)
+Susuz kolloidal silika (E551)
+Sodyum stearil fumarat
+Film kaplama
+Karnauba mumu (E903)
+Hipromelloz (E464)
+Sarı demir oksit (E172)
+Laktoz monohidrat (sığır sütünden elde edilmiştir.)
+Titanyum dioksit (E171)
+Triasetin (E1518)
+6.2 Geçimsizlikler
+Geçerli değil.
+6.3 Raf ömrü
+36 ay
+6.4 Saklamaya yönelik özel tedbirler
+İlacı orijinal şişede saklayın ve nemden korumak için şişeyi sıkıca kapatılmış biçimde
+saklayın. Nem gidericiyi şişeden çıkarmayın. 30oC’nin altında saklayınız.
+6.5 Ambalajın niteliği ve içeriği
+Her bir karton kutu çocukların açamayacağı tipte propilen kapaklı, yüksek dansiteli polietilen
+(HDPE) bir şişe içerir; ambalajda silika jel nem gidericiler mevcuttur.
+30 film kaplı tablet içeren 1 şişelik ambalajda bulunmaktadır.
+6.6 Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+Kullanılmamış ürünler ya da atık materyaller ‘Tıbbi Atıkların Kontrolü Yönetmeliği’ ve
+‘Ambalaj ve Ambalaj Atıklarının Kontrolü Yönetmelikleri’ne uygun olarak imha edilmelidir.
+7. RUHSAT SAHİBİ
+Merck Sharp Dohme İlaçları Ltd.Şti.
+Esentepe Mah. Büyükdere Cad.
+No:199 Levent 199 Ofis Blok Kat:13
+Levent 34394 İstanbul
+Tel: (0 212) 336 10 00
+Faks: (0 212) 355 02 02
+368. RUHSAT NUMARASI
+2023/70
+9. İLK RUHSAT TARİHİ /RUHSAT YENİLENME TARİHİ
+İlk ruhsat tarihi: 10.03.2023
+Ruhsat yenileme tarihi:
+10. KÜB’ÜN YENİLENME TARİHİ
+37

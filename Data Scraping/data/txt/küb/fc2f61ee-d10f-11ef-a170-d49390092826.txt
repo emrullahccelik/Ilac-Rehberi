@@ -1,0 +1,954 @@
+KISA ÜRÜN BİLGİSİ
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+COMBIVIR 150 mg/300 mg film kaplı tablet
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde:
+Her film tablette:
+Lamivudin ........................................ 150 mg
+Zidovudin ......................................... 300 mg
+Yardımcı madde:
+Yardımcı maddeler için bkz. Bölüm 6.1.
+3. FARMASÖTİK FORM
+Film kaplı tablet.
+Beyaz ila beyaza yakın, her bir yüzünde çentik ve “GXFC3” kabartmalı, film kaplı, kapsül
+şeklinde tabletlerdir.
+Tabletlerdeki çentik, tabletin iki parçaya bölünmesini ve her bir parçanın bir doz için gerekli
+miktarı içermesini sağlar. Bu durum, pediyatrik popülasyon için gerekli günlük doz miktarının
+ayarlanmasına yardımcı olur (bkz. Bölüm 4.2).
+4. KLİNİK ÖZELLİKLER
+4.1. Terapötik endikasyonlar
+COMBIVIR, HIV enfeksiyonu tedavisinde endikedir.
+4.2. Pozoloji ve uygulama şekli
+Pozoloji/uygulama sıklığı ve süresi:
+COMBIVIR tedavisine, HIV enfeksiyonu tedavisinde deneyimli bir hekim tarafından
+başlanmalı ve izlenmelidir.
+Dozun tamamıyla alındığından emin olmak için, ideal olarak tabletleri kırmadan yutmak
+gerekir. Ancak, tablet yutamayan hastalar tableti sıvı içinde çözündürerek kullanabilir. Tablet
+sıvıda çözündükten sonra derhal tüketilmelidir (bkz. Bölüm 5.2).
+COMBIVIR’in aktif bileşenlerinden birini (lamivudin veya zidovudin) kesmek ya da
+COMBIVIR’in veya bileşenlerinden birinin dozunu azaltmak gerekirse, lamivudinin ve
+zidovudinin ayrı ayrı tablet/kapsül ve oral solüsyon formları kullanılabilir.
+1Hematolojik advers reaksiyonları olan hastalarda doz ayarlaması:
+Hemoglobin seviyeleri 9 g/dl ya da 5,59 mmol/l’nin altına veya nötrofil sayısı 1,0x109/l’nin
+altına düştüğünde, zidovudin için doz ayarlaması gerekli olabilir (bkz. Bölüm 4.3 ve Bölüm
+4.4). COMBIVIR kullanımında doz ayarlaması mümkün olmadığından, lamivudin ve
+zidovudinin ayrı ayrı preparatları kullanılmalıdır.
+Yetişkinlerde:
+Erişkinler ve vücut ağırlığı en az 30 kg olan adolesanlar:
+COMBIVIR’in önerilen dozu günde iki kez bir tablettir.
+Uygulama şekli:
+COMBIVIR yiyecek ile beraber ya da aç karnına alınabilir.
+Özel popülasyonlara ilişkin ek bilgiler:
+Böbrek yetmezliği:
+Böbrek yetmezliği bulunan hastalarda azalmış klerens sebebiyle lamivudin ve zidovudin
+konsantrasyonları artar (bkz. Bölüm 4.4). Şiddetli böbrek yetmezliği (kreatinin klerensi 30
+ml/dakika ve daha az) olan kişilerde, lamivudin ve zidovudin dozunun ayarlaması gereklidir
+(bkz. Bölüm 5.2). Bu nedenle, bu tip hastalara lamivudin ve zidovudinin ayrı ayrı
+preparatlarının uygulanması önerilmektedir. Bu gibi durumlarda hekim, her ilacın kendi ürün
+bilgisine başvurmalıdır.
+Karaciğer yetmezliği:
+Sirozlu hastalardan temin edilen kısıtlı veriler, hepatik bozukluğu olan hastalarda azalmış
+glukuronidasyondan ötürü zidovudin birikiminin meydana gelebileceğini ortaya koymaktadır.
+Orta ila şiddetli hepatik bozukluğu olan hastalardan elde edilen veriler lamivudin
+farmakokinetiğinin hepatik fonksiyon bozukluğundan anlamlı olarak etkilenmediğini
+göstermektedir. Bununla birlikte, zidovudin için doz ayarlaması gerekebileceğinden, şiddetli
+hepatik bozukluğu olan hastalara lamivudin ve zidovudin preparatlarının ayrı ayrı uygulanması
+önerilmektedir. Bu gibi durumlarda hekim, her ilacın kendi ürün bilgisine başvurmalıdır.
+Pediyatrik popülasyon:
+Vücut ağırlığı 21 kg ile 30 kg arasında olan çocuklar:
+COMBIVIR’in önerilen oral dozu sabahları alınan bir yarım tablet ve akşamları alınan bir bütün
+tablettir.
+Vücut ağırlığı 14 kg ile 21 kg arasında olan çocuklar:
+COMBIVIR’in tavsiye edilen oral dozu günde iki kez alınan yarım tablettir.
+Vücut ağırlığı 14 kg ile 30 kg arasında olan pediyatrik hastaların doz rejimi tek başına lamivudin
+ve zidovudin kullanılan klinik çalışmalardan elde edilen verilere dayanmaktadır. Zidovudinin
+farmakokinetik aşırı maruziyeti gerçekleşebileceğinden bu hastalarda yakın güvenlilik takibi
+gereklidir. Vücut ağırlığı 21 kg ile 30 kg arasında olan hastalarda gastrointestinal intolerans
+görülürse, tolerabiliteyi artırmak amacıyla, günde üç kez alınan yarım tablet dozlamasına
+geçilebilir.
+Vücut ağırlığı 14 kg’ın altında olan çocuklarda, kiloya bağlı doz ayarlaması uygun bir şekilde
+yapılamayacağından, COMBIVIR tablet kullanılmamalıdır. Bu hastalarda, lamivudin ve
+2zidovudin tavsiye edilen dozlarda, ayrı formülasyonlar şeklinde kullanılmalıdır. Vücut ağırlığı
+14 kg’ın altında olan çocuklarda ve tabletleri bir bütün olarak yutamayan hastalar için,
+lamivudinin ve zidovudinin oral solüsyonları bulunmaktadır.
+Geriyatrik popülasyon:
+COMBIVIR’in yaşlılarda kullanımı ile ilgili özel bir veri bulunmamaktadır. Bununla beraber,
+bu yaş grubundaki hastalara, yaşa bağlı olarak böbrek işlevlerinde meydana gelebilecek
+azalmalar ve hematolojik parametrelerdeki değişiklikler nedeni ile özel dikkat önerilmektedir.
+4.3. Kontrendikasyonlar
+Zidovudin, lamivudin veya Bölüm 6.1’de listelenen yardımcı maddelerden herhangi birine
+karşı aşırı duyarlı olduğu bilinen kişilerde COMBIVIR kullanımı kontrendikedir.
+Nötrofil sayısı çok düşük olan (<0,75x109/L) ya da çok düşük hemoglobin seviyesi (<7,5 g/dL
+ya da <4,65 mmol/L) olan hastalarda zidovudin kullanımı kontrendikedir. Bu nedenle, bu
+hastalarda COMBIVIR kullanımı da kontrendikedir (bkz. Bölüm 4.4).
+4.4. Özel kullanım uyarıları ve önlemleri
+Bu bölüm, hem lamivudin hem de zidovudin ile ilgili özel uyarı ve önlemleri içermektedir.
+COMBIVIR kombinasyonu ile ilgili ilave uyarı ve önlem bulunmamaktadır.
+Doz ayarlaması gereken durumlarda lamivudin ve zidovudinin ayrı preparatlarının kullanılması
+önerilmektedir (bkz. Bölüm 4.2). Bu gibi durumlarda hekim, her ilacın kendi ürün bilgisine
+başvurmalıdır.
+Stavudinin zidovudin ile eş zamanlı kullanımından kaçınılmalıdır (bkz. Bölüm 4.5).
+Hastalar, COMBIVIR ile beraber aldıkları diğer tedaviler hakkında da uyarılmalıdır (bkz.
+Bölüm 4.5).
+Fırsatçı enfeksiyonlar:
+COMBIVIR ya da diğer antiretroviral tedavilerden birini kullanan hastalarda fırsatçı
+enfeksiyonlar ve HIV enfeksiyonunun diğer komplikasyonları gelişmeye devam edebilir. Bu
+nedenle, hastalar HIV enfeksiyonunun tedavisinde deneyimli doktorlar tarafından yakın klinik
+gözlem altında tutulmalıdır.
+Hematolojik advers reaksiyonlar:
+Zidovudin kullanan hastalarda anemi, nötropeni ve lökopeni (genellikle nötropeniye ikincil
+olarak) gelişmesi beklenebilir. Bunlar özellikle ilerlemiş HIV hastalığı bulunan ve tedavi öncesi
+kemik iliği rezervi çok az olan hastalarda ve yüksek dozlarda zidovudin (1200-1500 mg/gün)
+kullanımıyla daha sık görülmüştür. Bu nedenle, COMBIVIR kullanan hastalarda hematolojik
+parametreler dikkatle izlenmelidir (bkz. Bölüm 4.3). Bu hematolojik etkiler genellikle tedavi
+başladıktan sonra dört ila altı haftadan önce görülmez. İlerlemiş semptomatik HIV hastalığı
+olan kişilerde, genellikle, tedavinin ilk üç ayı için en az iki haftada bir, bundan sonra da en az
+ayda bir kan testlerinin yapılması önerilir.
+HIV hastalığının erken dönemlerindeki hastalarda hematolojik advers reaksiyonlar sık değildir.
+Hastanın genel durumuna bağlı olarak, kan testleri daha az sıklıkla, örneğin bir ila üç ayda bir
+3yapılabilir. COMBIVIR tedavisi sırasında şiddetli anemi ya da kemik iliği baskılanması
+meydana gelen ya da daha önceden kemik iliği baskılanması görülen, örneğin hemoglobin
+değeri <9 g/dL (5,59 mmol/L) ya da nötrofil sayısı <1,0x109/L olan hastalarda ilave olarak
+zidovudin için ek doz ayarlaması gerekebilir (bkz. Bölüm 4.2). Bu durumda, COMBIVIR için
+doz ayarlaması yapılamayacağından, zidovudin ve lamivudinin ayrı ayrı preparatları
+kullanılmalıdır ve hekim her ilacın kendi ürün bilgisine başvurmalıdır.
+Pankreatit:
+Lamivudin ve zidovudin ile tedavi edilen hastalarda nadiren pankreatit vakaları görülmüştür.
+Bununla beraber, bu vakaların antiretroviral ürünlerle tedaviye veya altta yatan HIV hastalığına
+bağlı olup olmadığı açık değildir. Hastalarda pankreatit oluşumunu düşündüren klinik işaretleri,
+belirtileri veya laboratuvar değerlerinde anormallik olması durumunda COMBIVIR tedavisi
+derhal durdurulmalıdır.
+Laktik asidoz:
+Zidovudin kullanımı ile birlikte, genellikle hepatomegali ve hepatik steatoz ile
+ilişkilendirilen, laktik asidoz bildirilmiştir. Erken semptomlar (semptomatik hiperlaktatemi);
+benign sindirim sistemi semptomları (bulantı, kusma ve karın ağrısı), spesifik olmayan
+kırıklığı, iştah kaybını, kilo kaybını, respiratuvar semptomları (hızlı ve/veya derin soluma)
+ya da nörolojik semptomları (motor zayıflık dahil) kapsar.
+Laktik asidoz yüksek mortaliteye sahiptir ve pankreatit, karaciğer yetmezliği veya böbrek
+yetmezliği ile ilişkili olabilir.
+Laktik asidoz genellikle tedavinin ilk birkaç ayında ya da sonraki aylarında ortaya çıkmıştır.
+Semptomatik hiperlaktatemi ve metabolik/laktik asidoz, progresif hepatomegali veya hızla
+yükselen aminotransferaz düzeyleri söz konusu olduğunda zidovudin tedavisi kesilmelidir.
+Hepatomegali, hepatit veya karaciğer hastalığı ve hepatik steatoz için bilinen başka risk
+faktörleri (belirli tıbbi ürünler ve alkol dahil) olan tüm hastalara (özellikle obez kadınlara)
+zidovudin uygulanırken dikkatli olunmalıdır. Eş zamanlı hepatit C enfeksiyonu olan ve alfa
+interferon ve ribavirin tedavisi gören hastalar özel risk teşkil edebilirler.
+Daha yüksek risk altında olan hastalar yakından izlenmelidir.
+Mitokondriyal işlev bozukluğu (in utero maruziyet sonrası):
+Çoğunlukla stavudin, didanozin ve zidovudin olmak üzere, nükleozit ve nükleotit analogları
+mitokondriyal fonksiyonu değişken derecelerde etkileyebilir. Rahimde ve/veya doğum
+sonrasında nükleozit analoglarına maruz kalan HIV negatif bebeklerde mitokondriyal işlev
+bozukluğu rapor edilmiştir ve bu durumda ağırlıklı olarak zidovudin içeren ilgili tedavi rejimleri
+söz konusudur. Bildirilen başlıca advers reaksiyonlar hematolojik bozukluklar (anemi,
+nötropeni) ve metabolik bozukluklar (hiperlaktatemi, hiperlipasemi) şeklindedir ve bu olaylar
+sıklıkla geçici olmuştur. Geç başlangıçlı nörolojik bozukluklar (hipertoni, havale, anormal
+davranış) seyrek olarak bildirilmiştir ve bu gibi nörolojik bozuklukların geçici mi yoksa kalıcı
+mı olduğu henüz bilinmemektedir. Bu bulgular, rahimde nükleozit ve nükleotit analoglarına
+maruz kalan; özellikle nörolojik bulgular olmak üzere, bilinmeyen etiyolojili şiddetli klinik
+bulguları olan her bir çocuk için göz önünde bulundurulmalıdır. Bu bulgular, HIV’in dikey
+geçişinin önlenmesinde gebe kadınlarda antiretroviral tedavi kullanımına ilişkin olan
+yürürlükteki ulusal önerileri etkilememektedir.
+4Lipoatrofi:
+Zidovudin tedavisi, mitokondriyal toksisite ile bağlantılı olan deri altı yağ kaybıyla
+ilişkilendirilmiştir. Lipoatrofi insidansı ve şiddeti kümülatif maruziyetle ilişkilidir. En çok yüz,
+uzuvlar ve kalçada belli olan bu yağ kaybı zidovudinsiz bir rejime geçildiğinde geri
+çevrilemeyebilir. Hastalar, zidovudin ve zidovudin içeren diğer ürünlerle (COMBIVIR,
+RETROVİR ve TRİZİVİR) tedavi görürken düzenli olarak lipoatrofi belirtileri açısından
+incelenmelidir. Lipoatrofi gelişimi kuşkusu olan durumlarda alternatif bir tedavi rejimine
+geçilmelidir.
+Kilo ve metabolik parametreler:
+Antiretroviral tedavi sırasında kan lipit ve glikoz seviyeleri ile kiloda artış gerçekleşebilir. Bu
+değişiklikler kısmen hastalık kontrolü ve yaşam biçimiyle ilişkili olabilir. Lipitler için bazı
+vakalarda tedavi etkisine dair kanıt bulunmaktadır, ancak kilo alımını herhangi bir tedaviyle
+ilişkilendirebilecek kuvvetli bir kanıt bulunmamaktadır. Kan lipitleri ve glikozun takibi için
+mevcut HIV tedavi kılavuzlarına başvurulmalıdır. Lipit bozuklukları klinik olarak uygun
+biçimde yönetilmelidir.
+İmmün reaktivasyon sendromu:
+Kombinasyon antiretroviral tedavisi (CART) başlangıcında ağır bağışıklık sistemi yetersizliği
+olan HIV ile enfekte hastalarda, asemptomatik ya da rezidüel fırsatçı enfeksiyonlara karşı
+enflamatuvar bir reaksiyon gelişebilir ve bu durum ciddi klinik durumlara ya da semptomların
+kötüleşmesine yol açabilir. Tipik olarak, bu tür reaksiyonlar CART başlangıcından sonraki ilk
+birkaç hafta ya da ay içinde gözlenir. İlişkili örnekler arasında sitomegalovirüs retiniti, genel
+ve/veya fokal mikobakteriyel enfeksiyonlar ve Pneumocystis jiroveci pnömonisi (sıklıkla PCP
+olarak bilinen) yer alır. Herhangi bir enflamatuvar semptom gecikmeksizin değerlendirilmeli
+ve gerektiğinde tedaviye başlanmalıdır.
+İmmün reaktivasyon durumunda otoimmün hastalıkların (örneğin, Graves hastalığı ve
+otoimmün hepatit) meydana geldiği de bildirilmiştir. Diğer yandan, ortaya çıkış süresi
+değişkendir; tedavi başlatıldıktan aylar sonra meydana gelebilir ve kimi zaman atipik bir klinik
+tablo sergileyebilir.
+Karaciğer hastalığı:
+Lamivudin, HIV ve hepatit B virüsünün (HBV) eş zamanlı tedavisi için kullanılıyorsa, hepatit
+B tedavisinde lamivudin kullanımıyla ilgili ilave bilgiye lamivudinin kısa ürün bilgisinden
+(KÜB) ulaşılabilir.
+Altta yatan ciddi karaciğer problemleri olan hastalarda zidovudinin etkililiği ve güvenliliği
+kanıtlanmamıştır.
+Kombinasyon antiretroviral tedavisi alan kronik hepatit B veya C hastalarında ciddi ve ölümle
+sonuçlanabilecek hepatik advers etki riskinde artış bulunmaktadır. Hepatit B veya C için eş
+zamanlı antiviral tedavi durumlarında, bu ürünlerin kısa ürün bilgilerine başvurulmalıdır.
+Kronik aktif hepatit dahil önceden karaciğer bozukluğu olan hastalarda, kombinasyon
+antiretroviral tedavi sırasında karaciğer fonksiyon anormallikleri frekansında artış vardır ve bu
+hastalar standart uygulamalara göre takip edilmelidir. Bu tip hastalarda karaciğer hastalığının
+kötüleşmesine dair bulgular varsa tedaviye ara verilmesi veya tedavinin sonlandırılması
+düşünülmelidir.
+5Aynı zamanda hepatit B ile enfekte hastalar:
+Lamivudin ile ilgili klinik çalışmalar ve pazarlama sonrası kullanıma yönelik veriler, kronik
+HBV hastalığı olan bazı hastalarda lamivudin tedavisinin kesilmesinden sonra yineleyen
+hepatite ait klinik bulguların ya da laboratuvar bulgularının ortaya çıkabileceğini göstermiştir.
+Bu durum, dekompanse karaciğer hastalığı bulunan hastalarda daha ağır sonuçlara neden
+olabilir. Eğer aynı zamanda HBV enfeksiyonu olan bir hastada COMBIVIR kullanımına ara
+verilecekse, hastanın karaciğer fonksiyon testlerinin ve HBV replikasyon göstergelerinin
+periyodik olarak 4 ay boyunca izlenmesi tavsiye edilir çünkü lamivudinin kesilmesi hepatitte
+akut kötüleşmeye neden olabilir.
+Aynı zamanda hepatit C virüsü ile enfekte olan hastalar:
+Zidovudin HIV tedavisinde kullanılan rejimin bir parçası olduğunda ribavirine bağlı anemi
+alevlenmesi bildirilmiştir, ancak tam mekanizması henüz bilinmemektedir. Anemi riskinde artış
+nedeniyle ribavirin ve zidovudinin birlikte uygulanması tavsiye edilmemektedir (bkz. Bölüm
+4.5). Böyle bir durum söz konusu olduğunda kombinasyon antiretroviral tedavi rejiminde
+zidovudinin yerine başka bir ilaç kullanılması düşünülmelidir. Bu durum özellikle zidovudin
+tarafından indüklenen anemi hikayesi olan hastalarda önemlidir.
+Osteonekroz:
+Etiyolojinin birden çok faktöre (kortikosteroid kullanımı, alkol kullanımı, şiddetli
+immünosupresyon, yüksek vücut kitle indeksi dahil) bağlı olduğu düşünülmekle birlikte, başta
+ilerlemiş HIV hastalığı olan ve/veya kombinasyon antiretroviral tedaviye (CART) uzun süre
+maruz kalmış kişilerde olmak üzere osteonekroz olguları bildirilmiştir. Hastalara; eklem acısı
+ve ağrısı, eklem sertliği veya hareket güçlüğü yaşamaları halinde doktora başvurmaları
+önerilmelidir.
+COMBIVIR, lamivudin içeren diğer tıbbi ürünlerin hiçbiri ile ya da emtrisitabin içeren tıbbi
+ürünlerle birlikte alınmamalıdır.
+Lamivudinin kladribin ile kombinasyonu önerilmemektedir (bkz. Bölüm 4.5).
+Orta şiddetli böbrek yetmezliği olan hastalarda kullanım:
+COMBIVIR kullanan ve kreatinin klerensi 30 ila 49 ml/dakika olan hastalarda lamivudin
+maruziyeti (EAA), kreatinin klerensi 50 mL/dakika ve üzeri olan hastalardakinden 1,6 ila 3,3
+kat daha yüksek olabilir. Dozu ayarlanmış lamivudin alan ve kreatinin klerensi 30 ila 49
+mL/dakika olan hastalarda COMBIVIR’i ayrı ayrı bileşenlerine kıyaslayan ve randomize,
+kontrollü çalışmalardan elde edilen güvenlilik verileri bulunmamaktadır. Zidovudin ile
+kombinasyon halindeki lamivudine ait orijinal ruhsatlandırma çalışmalarında, yüksek
+lamivudin maruziyetleri yüksek hematolojik toksisite (nötropeni, anemi) oranları ile bağlantılı
+olmuştur, ancak nötropeni veya anemiye bağlı tedavi sonlandırmasının her biri çalışmaya
+katılan bireylerin %1’inden daha azında görülmüştür. Lamivudinle ilişkili diğer advers olaylar
+(gastrointestinal ve hepatik bozukluklar gibi) görülebilir.
+Uzun süreli kreatinin klerensi 30 ila 49 mL/dakika olan ve COMBIVIR kullanan hastalar,
+lamivudinle ilişkili advers olaylar (özellikle hematolojik toksisiteler) açısından izlenmelidir.
+Yeni veya daha da kötüleşen nötropeni veya anemi gelişmesi durumunda lamivudin ürün
+bilgileri doğrultusunda lamivudinin dozunun ayarlanması gerekir ki bu COMBIVIR ile
+mümkün değildir. Tedavi rejiminin düzenlenmesi için COMBIVIR tedavisi sonlandırılmalı ve
+COMBIVIR’in ayrı ayrı bileşenleri kullanılmalıdır.
+64.5. Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+COMBIVIR, lamivudin ve zidovudin içerdiğinden bu ilaçların tek başına kullanımlarında
+belirtilmiş olan ilaç etkileşmeleri COMBIVIR kullanımında da meydana gelebilir. Klinik
+çalışmalar, lamivudin ve zidovudin arasında klinik açıdan anlamlı bir etkileşim olmadığını
+göstermiştir.
+Zidovudin, başlıca UGT enzimleri tarafından metabolize edilir; UGT enzimlerinin
+indükleyicileri ya da inhibitörleri ile eş zamanlı uygulama zidovudin maruziyetini değiştirebilir.
+Lamivudin klirensi renal yolla gerçekleşir. Lamivudinin idrarda aktif renal sekresyonuna
+organik katyon taşıyıcıları (OCT’ler) aracılık eder; lamivudinin OCT inhibitörleri ile veya
+nefrotoksik ilaçlarla eş zamanlı uygulanması lamivudin maruziyetini artırabilir.
+Lamivudin ve zidovudin, sitokrom P enzimleri (örneğin; CYP 3A4, CYP 2C9 veya CYP
+450
+2D6) tarafından önemli düzeyde metabolize edilmez ya da bu enzim sistemini inhibe etmez
+veya indüklemez. Bu nedenle; antiretroviral proteaz inhibitörleri, nükleozit olmayan bileşikler
+ya da başlıca P enzimleri tarafından metabolize olan diğer tıbbi ürünler arasında etkileşim
+450
+potansiyeli düşüktür.
+Etkileşim çalışmaları sadece yetişkinlerde gerçekleştirilmiştir. Aşağıdaki listenin eksiksiz
+olduğu düşünülmemeli, çalışılan sınıfları temsil ettiği kabul edilmelidir.
+Terapötik sınıfa göre ilaçlar Etkileşim Eş zamanlı uygulama ile
+Geometrik ortalama ilgili öneri
+değişikliği (%)
+(Olası mekanizma)
+ANTİRETROVİRAL TIBBİ ÜRÜNLER
+Didanozin/Lamivudin Etkileşim çalışılmamıştır. Herhangi bir dozaj
+Didanozin/Zidovudin Etkileşim çalışılmamıştır. ayarlaması
+gerekmemektedir.
+Stavudin/Lamivudin Etkileşim çalışılmamıştır. Kombinasyon
+Stavudin/Zidovudin Stavudin ile zidovudin önerilmemektedir.
+arasında anti-HIV
+aktivitesinin in vitro
+antagonizması iki ilacın da
+etkililiğinde azalmaya
+neden olabilir.
+ANTİ-ENFEKTİF ÜRÜNLER
+Atovakuon/Lamivudin Etkileşim çalışılmamıştır. Sadece sınırlı veri mevcut
+Atovakuon/Zidovudin Zidovudin EAA ↑%33 olduğundan klinik önemi
+(750 mg günde iki kez yemek Atovakuon EAA ↔ bilinmemektedir.
+ile/200 mg günde üç kez)
+Klaritromisin/Lamivudin Etkileşim çalışılmamıştır. COMBIVIR ile
+Klaritromisin/Zidovudin Zidovudin EAA ↓%12 klaritromisinin en az 2 saat
+(500 mg günde iki kez/100 mg arayla ayrı uygulanması
+4 saatte bir)
+Trimetoprim/sulfametoksazol Lamivudin: EAA ↑%40 Hastada böbrek bozukluğu
+(Ko-trimoksazol)/Lamivudin yoksa COMBIVIR
+(160 mg/800 mg 5 gün süreyle Trimetoprim: EAA ↔ dozajında herhangi bir
+günde bir kez/300 mg tek doz) Sulfametoksazol: EAA ↔ ayarlama gerekmemektedir
+(bkz. Bölüm 4.2).
+7(organik katyon taşıyıcı
+inhibisyonu) Ko-trimoksazol ile eş
+Trimetoprim/sulfametoksazol Etkileşim çalışılmamıştır. zamanlı uygulama şart
+(Ko-trimoksazol)/Zidovudin olduğunda hastalar klinik
+olarak izlenmelidir.
+Pneumocystis jirovecii
+pnömonisi (PCP) ve
+toksoplazmoz tedavisinde
+yüksek trimetoprim/
+sulfametoksazol dozları
+çalışılmamıştır ve
+kaçınılmalıdır.
+ANTİFUNGALLER
+Flukonazol/Lamivudin Etkileşim çalışılmamıştır. Sadece sınırlı veri mevcut
+Flukonazol/Zidovudin Zidovudin EAA ↑%74 olduğundan klinik önemi
+(400 mg günde bir bilinmemektedir. Zidovudin
+kez/200 mg günde üç kez) (UGT inhibisyonu) toksisitesi belirtilerine karşı
+takip önerilmektedir (bkz.
+Bölüm 4.8).
+ANTİMİKOBAKTERİYELLER
+Rifampisin/Lamivudin Etkileşim çalışılmamıştır. Veriler, dozaj ayarlaması
+Rifampisin/Zidovudin Zidovudin EAA ↓%48 önerisinde bulunmak için
+(600 mg günde bir yeterli değildir.
+kez/200 mg günde üç kez) (UGT indüksiyonu)
+ANTİKONVÜLSANLAR
+Fenobarbital/Lamivudin Etkileşim çalışılmamıştır. Veriler, dozaj ayarlaması
+Fenobarbital/Zidovudin Etkileşim çalışılmamıştır. önerisinde bulunmak için
+yeterli değildir.
+UGT indüksiyonu yoluyla
+zidovudin plazma
+konsantrasyonlarını hafif
+düşürme potansiyeli.
+Fenitoin/Lamivudin Etkileşim çalışılmamıştır. Fenitoin konsantrasyonları
+Fenitoin/Zidovudin Fenitoin EAA ↑↓ izlenir.
+Valproik asit/Lamivudin Etkileşim çalışılmamıştır. Sadece sınırlı veri mevcut
+Valproik asit/Zidovudin Zidovudin EAA ↑%80 olduğundan klinik önemi
+(250 mg veya 500 mg günde bilinmemektedir. Zidovudin
+üç kez/100 mg günde üç kez) (UGT inhibisyonu) toksisitesi belirtilerine karşı
+takip önerilmektedir (bkz.
+Bölüm 4.8).
+ANTİHİSTAMİNLER (HİSTAMİN H RESEPTÖR ANTAGONİSTLERİ)
+1
+Ranitidin/Lamivudin Etkileşim çalışılmamıştır. Herhangi bir dozaj
+ayarlaması
+Klinik açıdan anlamlı gerekmemektedir.
+etkileşim olası değildir.
+Ranitidin renal organik
+katyon taşıma sistemi
+tarafından sadece kısmen
+elimine edilir.
+Ranitidin/Zidovudin Etkileşim çalışılmamıştır
+8Simetidin/Lamivudin Etkileşim çalışılmamıştır. Herhangi bir dozaj
+ayarlaması
+Klinik açıdan anlamlı gerekmemektedir.
+etkileşim olası değildir.
+Simetidin renal organik
+katyon taşıma sistemi
+tarafından sadece kısmen
+elimine edilir.
+Simetidin/Zidovudin Etkileşim çalışılmamıştır.
+SİTOTOKSİKLER
+Kladribin/Lamivudin Etkileşim çalışılmamıştır. Bu nedenle, lamivudin ile
+kladribinin eş zamanlı
+İn vitro koşullarda kullanımı önerilmez (bkz.
+lamivudin, kladribinin hücre Bölüm 4.4).
+içi fosforilasyonunu inhibe
+ederek klinik ortamda
+kombinasyon kullanımı ile
+kladribin etkililiğinde kayıp
+riskine neden olmaktadır.
+Bazı klinik bulgular ayrıca
+lamivudin ile kladribin
+arasında olası bir etkileşime
+işaret etmektedir.
+OPİOİDLER
+Metadon/Lamivudin Etkileşim çalışılmamıştır. Sadece sınırlı veri mevcut
+Metadon/Zidovudin Zidovudin EAA ↑43% olduğundan klinik önemi
+(30 ila 90 mg günde bir Metadon EAA ↔ bilinmemektedir. Zidovudin
+kez/200 mg 4 saatte bir) toksisitesi belirtilerine karşı
+izlem gerekir (bkz. Bölüm
+4.8).
+Hastaların büyük
+çoğunluğunda metadon
+dozaj ayarlaması olasılıkla
+gerekmeyecektir; bazı
+durumlarda metadon
+dozunda yeniden titrasyon
+gerekli olabilir.
+ÜRİKOZÜRİK
+Probenesid/Lamivudin Etkileşim çalışılmamıştır. Sadece sınırlı veri mevcut
+Probenesid/Zidovudin Zidovudin EAA ↑106% olduğundan klinik önemi
+(500 mg günde dört bilinmemektedir. Zidovudin
+kez/2mg/kg günde üç kez) (UGT inhibisyonu) toksisitesi belirtilerine karşı
+takip önerilmektedir (bkz.
+Bölüm 4.8).
+DİĞER
+Sorbitol solüsyonu (3,2 g, Tek doz lamivudin oral Mümkünse, COMBIVIR’in
+10,2 g, 13,4 g)/Lamivudin solüsyonu 300 mg sorbitol veya diğer ozmotik
+polialkol veya
+Lamivudin: monosakkarit alkol içeren
+9EAA ↓ %14, %32, %36 ilaçlarla kronik birlikte
+C ↓ %28, %52, %55 kullanımından kaçınınız
+maks
+(örneğin; ksilitol, mannitol,
+laktitol, maltitol). Kronik
+birlikte kullanımdan
+kaçınmak mümkün değilse,
+HIV-1 viral yükü
+izlemesini sıklaştırmayı
+düşününüz.
+Kısaltmalar: ↑ = Artış; ↓=düşüş; ↔= anlamlı değişiklik yok; EAA=zaman karşısında konsantrasyon eğrisi
+altındaki alan; C =gözlenen maksimum konsantrasyon; CL/F=görünür oral klirens
+maks
+HIV için uygulanan tedavi rejimine zidovudin dahil edildiğinde, tam mekanizması henüz
+açıklanamamakla birlikte, anemide ribavirine bağlı alevlenme bildirilmiştir. Anemi riskindeki
+artış nedeniyle, ribavirin ve zidovudinin birlikte kullanımı tavsiye edilmemektedir (bkz. Bölüm
+4.4).
+Böyle bir durum söz konusu ise, bir kombinasyon ART’de zidovudinin yerine başka bir ilaç
+kullanılması düşünülmelidir. Bu durum, özellikle zidovudin tarafından indüklenen anemi
+hikayesi olan hastalarda önem kazanacaktır.
+Nefrotoksik veya kemik iliğini baskılama potansiyeli olan tıbbi ürünlerle (örneğin; sistemik
+pentamidin, dapson, primetamin, ko-trimoksazol, amfoterisin, flusitozin, gansiklovir,
+interferon, vinkristin, vinblastin ve doksorubisin), özellikle akut tedavi olmak üzere, birlikte
+uygulanan tedavi de zidovudine karşı advers reaksiyon riskini artırabilir. Eğer COMBIVIR
+tedavisiyle birlikte bu tıbbi ürünlerden herhangi birinin uygulanması gerekiyorsa, böbrek
+fonksiyonu ve hematolojik parametreler izlenirken ayrıca dikkat gösterilmeli ve gerekirse bir
+ya da birden çok ajanın dozajı azaltılmalıdır. Klinik çalışmalardan alınan sınırlı veriler,
+profilaksi için kullanılan dozlarda kotrimoksazol, aerosol pentamidin, primetamin ve asiklovir
+ile birlikte kullanıldığında, zidovudine karşı advers reaksiyon riskinde önemli bir artış
+olmadığını göstermiştir (yukarıda, lamivudin ve ko-trimoksazol ile ilgili etkileşim bilgisine
+bakınız).
+Özel popülasyonlara iliskin ek bilgiler:
+Özel popülasyonlarda herhangi bir etkileşim çalışması yürütülmemiştir.
+Pediyatrik popülasyon:
+Pediyatrik popülasyonda herhangi bir etkileşim çalışması yürütülmemiştir.
+4.6. Gebelik ve laktasyon
+Genel tavsiye
+Gebelik kategorisi: C
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon)
+Çocuk doğurma potansiyeli olan kadınların COMBIVIR kullanımı sırasında uygun korunma
+yöntemleri kullanarak korunması önerilmektedir.
+10Gebelik dönemi
+Hayvanlar üzerinde yapılan calışmalar, gebelik /ve-veya/ embriyonal/fetal gelişim /ve-veya/
+doğum /ve-veya/ doğum sonrası gelişim üzerindeki etkiler bakımından yetersizdir (bkz. Bölüm
+5.3). İnsanlara yönelik potansiyel risk bilinmemektedir.
+COMBIVIR, gerekli olmadıkça gebelik döneminde kullanılmamalıdır.
+Genel bir kural olarak; gebe kadınlarda HIV enfeksiyonunun tedavisi ve bunun bir sonucu
+olarak yenidoğana vertikal HIV geçişi riskinin azaltılması amacıyla antiretroviral ajan
+kullanılacağı zaman, hayvanlar üzerinde yapılan çalışmalardan elde edilen veriler ve gebe
+kadınlardaki klinik deneyimler göz önünde bulundurulmalıdır. Mevcut durumda, gebe
+kadınlarda zidovudin kullanımının ve dolayısıyla yenidoğan tedavisinin HIV’in maternal-fetal
+transmisyon oranını azalttığı gösterilmiştir. Lamivudin veya zidovudin kullanan gebe kadınlara
+ait çok sayıdaki veri malformasyon toksisitesi belirtmemektedir (lamivudin ve zidovudinin her
+biri için birinci trimesterden alınan 3000’in üzerindeki sonuca göre. Bu sonuçların 2000’den
+fazlası lamivudin ve zidovudinin her ikisine maruziyeti içermektedir). Bahsedilen bu büyük
+miktardaki verilere göre, insanlarda malformasyon riski pek mümkün görünmemektedir.
+Lamivudin ve zidovudin, Antiretroviral Gebelik Kaydında (AGK) gebelik sırasında 11.000 ve
+doğumdan sonra 13.000 kadında incelenmiştir. AGK'de mevcut olan insanlara yönelik veriler,
+arka plan oranıyla karşılaştırıldığında, lamivudin ya da zidovudin için majör doğum kusurları
+riskinde artış göstermemiştir (bkz. Bölüm 5.2).
+Lamivudin ve zidovudinin insan gebeliğinde güvenli kullanımı, konjenital anomalilerin
+incelendiği yeterli ve iyi kontrol edilen çalışmalarda kanıtlanmamıştır. Bu nedenle, lamivudin
+ve zidovudin tedavisi, gebelik sırasında yalnızca beklenen yarar fetüs için olası riskten ağır
+basıyorsa düşünülmelidir.
+Lamivudin ve zidovudinin insanlarda plasentayı geçtiği görülmüştür (bkz. Bölüm 5.2).
+Zidovudinin gebe kadınlarda kullanımı ve daha sonra yenidoğanlarda tedavi uygulanmasının
+HIV'in maternal-fetal aktarım oranını azalttığı görülmüştür.
+Lamivudin ve zidovudin, hayvanlarda yapılan üreme çalışmalarındaki bulgularla
+ilişkilendirilmiştir (bkz. Bölüm 5.3). Gebelik sırasında lamivudin-zidovudin kullanmayı
+düşünen kadınlara bu bulgular açıklanmalıdır.
+Rahimde veya doğuma yakın dönemde nükleozit revers transkriptaz inhibitörlerine (NRTİ)
+maruz kalan yenidoğanlar ve bebeklerdeki serum laktat düzeylerinde, mitokondriyal işlev
+bozukluğuna bağlı olabilecek hafif, geçici artışlar bildirilmiştir. Serum laktat düzeyindeki
+geçici artışların klinik önemi bilinmemektedir. Ayrıca; gelişim geriliği, nöbet ve diğer nörolojik
+hastalıklar da seyrek olarak bildirilmiştir. Buna karşın, bu olaylarla rahimde ya da doğuma
+yakın dönemde NRTİ’lere maruz kalma arasında bir nedensellik ilişkisi tanımlanmamıştır. Bu
+bulgular, hamile kadınlarda HIV’in vertikal geçişini önlemek amacıyla antiretroviral tedavi
+kullanımına ilişkin güncel önerileri etkilememelidir.
+COMBIVIR’in etkin maddeleri hücresel DNA replikasyonunu inhibe edebilir ve hayvanlarda
+üzerinde yapılan bir çalışmada zidovudinin transplasental karsinojen olduğu gösterilmiştir (bkz.
+Bölüm 5.3). Bu bulguların klinik açıdan önemi bilinmemektedir.
+11Hepatit ile koenfekte olan ve COMBIVIR gibi lamivudin içeren ilaçlarla tedavi edilirken gebe
+kalan hastalarda, lamivudin tedavisi durdurulduğunda hepatit hastalığının nüksetme olasılığı
+göz önünde bulundurulmalıdır.
+Mitokondriyal disfonksiyon:
+İn vitro ve in vivo koşullarda, nükleozit ve nükleotit analoglarının değişken derecelerde
+mitokondriyal hasara yol açabileceği gösterilmiştir. Rahimde ve/veya doğum sonrasında
+nükleozit analoglarına maruz kalan HIV negatif bebeklerde mitokondriyal işlev bozukluğu
+rapor edilmiştir (bkz. Bölüm 4.4).
+Laktasyon dönemi
+Lamivudin ve zidovudin, serumda bulundukları konsantrasyonlarla benzer miktarda anne
+sütüne geçer.
+HIV tedavisi gören 200’den fazla anne/çocuk çiftinden elde edilen verilere göre, HIV tedavisi
+gören annelerin emzirilen çocuklarında lamivudinin serum konsantrasyonları çok düşüktür
+(maternal serum konsantrasyonunun %4’ünden az) ve çocuklar 24 haftalık olana kadar tespit
+edilemeyecek kadar düşük seviyelere geriler. Üç aydan küçük bebeklerde lamivudin
+kullanımına ilişkin bir güvenlilik verisi bulunmamaktadır.
+HIV ile yaşayan kadınların, HIV geçişini önlemek amacıyla, emzirmemeleri önerilmektedir.
+Mama ile beslenme olanağı bulunmadığında, antiretroviral tedavi sırasında emzirme açısından
+yerel resmi emzirme ve tedavi prensipleri izlenmelidir.
+Günde iki kez 150 mg lamivudin (günde iki kez 300 mg zidovudin ile kombine olarak verilen)
+veya günde iki kez 300 mg lamivudinin oral tekrar dozlarını takip eden bir çalışmada,
+lamivudinin insanda anne sütüne serumda bulunduklarına benzer konsantrasyonda geçtiği
+gösterilmiştir (0,5 ila 8,2 mikrogram/ml). HIV ile enfekte olmuş kadınlarda, 200 mg’lık tek doz
+zidovudin verilmesini takiben ortalama zidovudin konsantrasyonunun insan sütünde ve
+serumda benzer olduğu gösterilmiştir. 150 mg lamivudinin (300 mg zidovudin ile kombinasyon
+halinde veya COMBIVIR ya da TRIZIVIR olarak) ve günde iki kez 300 mg zidovudinin (tek
+başına veya COMBIVIR ya da TRIZIVIR olarak) oral tekrar dozlarını takip eden diğer
+çalışmalarda, anne plazma:anne sütü oranları zidovudin için 0,4 ile 3,2 arasında, lamivudin
+içinse 0,6 ile 3,3 arasında bulunmuştur. Lamivudinin süt çocuğunda medyan serum
+konsantrasyonu 18 ile 28 ng/ml arasında değişirken çalışmaların birinde saptanabilir
+seviyelerde olmadığı görülmüştür (deney hassasiyeti 7 ng/ml). Bir çalışmada süt çocuğunda
+zidovudinin medyan konsantrasyonu 24 ng/ml iken bir başka çalışmada ise tahlil ölçüm
+sınırlarının (30 ng/ml) altında olmuştur. Anne sütü ile beslenen süt çocuklarında hücre içi
+zidovudin ve lamivudin trifosfat (zidovudin ve lamivudinin aktif metabolitleri) seviyeleri
+ölçülmemiştir. Bu nedenle, serumda ölçülen ana bileşik konsantrasyonlarının klinik açıdan
+önemi bilinmemektedir.
+Üreme yeteneği/Fertilite
+Erkek ve dişi sıçanlar üzerinde yapılan çalışmalarda, lamivudin ve zidovudinin fertilite
+bozukluğuna yol açtığına ilişkin herhangi bir bulgu tespit edilmemiştir. Lamivudin ve
+zidovudinin kadınlarda fertilite üzerine etkilerini gösteren bir veri bulunmamaktadır.
+Erkeklerde; zidovudinin sperm sayısı, morfolojisi ya da hareketliliğini etkilediği
+gösterilmemiştir.
+124.7. Araç ve makine kullanımı üzerindeki etkiler
+Lamivudin ve zidovudinin araba ve makine kullanma becerisi üzerine etkilerini araştıran bir
+çalışma bulunmamaktadır. Ek olarak, lamivudin ve zidovudinin yalnız farmakolojik
+özelliklerine dayanarak bu gibi aktiviteler üzerindeki etkisi tahmin edilememektedir. Buna
+karşın, makine ve araç kullanma becerisi dikkate alınırken hastanın klinik durumu ve lamivudin
+ile zidovudinin yan etki profili akılda bulundurulmalıdır.
+COMBIVIR, hastalarda baş dönmesine ve daha az dikkatli olmaya sebebiyet verebilecek diğer
+yan etkilere neden olabilir. Hastalar, iyi hissetmediği sürece araç ve makine kullanmamalıdır.
+4.8. İstenmeyen etkiler
+Lamivudin ve zidovudinin HIV hastalığının tedavisinde ayrı ayrı ya da kombine olarak
+kullanılmaları sırasında advers reaksiyonlar bildirilmiştir. Bu reaksiyonların çoğu için;
+olayların lamivudine, zidovudine ya da HIV hastalığının tedavisinde kullanılan çok sayıdaki
+tıbbi ürüne mi bağlı olduğu, yoksa altta yatan hastalıktan mı kaynaklandığı belli değildir.
+COMBIVIR hem lamivudin hem zidovudin içerdiğinden, ağırlık derecesi ve türü bu
+bileşiklerden herhangi biri ile ilişkili olan aşağıda belirtilen advers reaksiyonların ortaya
+çıkması beklenebilir. Bu iki bileşiğin eş zamanlı verilmesini takiben, tek başlarına
+kullanılmalarına göre, ilave bir toksisite bulgusu saptanmamıştır.
+Zidovudin kullanımı ile birlikte genellikle şiddetli hepatomegali ve hepatik steatoz ile birlikte
+görülen, bazı durumlarda ölümle sonuçlanan laktik asidoz vakaları bildirilmiştir (bkz. Bölüm
+4.4).
+Zidovudin kullanımı; kendini en çok yüz, uzuvlar ve kalçada gösteren deri altı yağ kaybı ile
+ilişkilendirilmiştir. COMBIVIR kullanan hastalar sık sık muayene edilmeli ve lipoatrofi
+bulguları açısından kontrol edilmelidir. Eğer lipoatrofi gelişimi varsa COMBIVIR tedavisi
+sonlandırılmalıdır (bkz. Bölüm 4.4).
+Antiretroviral tedavi sırasında kan lipit ve glikoz seviyeleri ile kiloda artış gerçekleşebilir (bkz.
+Bölüm 4.4).
+Kombinasyon antiretroviral tedaviye (CART) başlandığında ciddi bağışıklık yetmezliği olan
+HIV’le enfekte hastalarda, asemptomatik veya rezidüel fırsatçı enfeksiyonlara karşı
+enflamatuvar bir reaksiyon gelişebilir. İmmün reaktivasyon tablosunda otoimmün
+bozuklukların (Graves hastalığı ve otoimmün hepatit gibi) ortaya çıktığı da bildirilmiştir, ancak
+bildirilen başlangıca kadar geçen süre daha değişkendir ve bu olaylar tedavi başlandıktan aylar
+sonra görülebilir (bkz. Bölüm 4.4).
+Özellikle kabul edilen genel risk faktörleri, ilerlemiş HIV hastalığı veya kombinasyon
+antiretroviral tedavisine (CART) uzun süreli maruziyeti olan hastalarda osteonekroz vakaları
+bildirilmiştir. Bu durumun sıklığı bilinmemektedir (bkz. Bölüm 4.4).
+Lamivudin:
+Tedavi ile en azından potansiyel bağlantısı olduğu düşünülen istenmeyen etkiler; vücut sistemi,
+organ sınıfı ve mutlak sıklığa göre listelenmiştir. Sıklıklar şu şekilde tanımlanmaktadır:
+13Çok yaygın (≥1/10); yaygın (≥1/100 ila <1/10); yaygın olmayan (≥1/1.000 ila <1/100); seyrek
+(≥1/10.000 ila <1/1.000); çok seyrek (<1/10.000), bilinmiyor (eldeki verilerden hareketle
+tahmin edilemiyor). İstenmeyen etkiler, her bir sıklık grubunda azalan şiddete göre
+belirtilmektedir.
+Kan ve lenf sistemi hastalıkları
+Yaygın olmayan: Nötropeni, anemi (ikisi de bazı durumlarda şiddetli), trombositopeni
+Çok seyrek: Saf eritrosit aplazisi
+Metabolizma ve beslenme hastalıkları
+Çok seyrek: Laktik asidoz
+Sinir sistemi hastalıkları
+Yaygın: Baş ağrısı, insomnia
+Çok seyrek: Periferik nöropati (veya parestezi)
+Solunum, göğüs bozuklukları ve mediastinal hastalıkları
+Yaygın: Öksürme, nazal semptomlar
+Gastrointestinal hastalıkları
+Yaygın: Bulantı, kusma, karın ağrısı veya kramp, ishal
+Seyrek: Pankreatit, serum amilaz düzeyinde artış
+Hepato-bilier hastalıkları
+Yaygın olmayan: Karaciğer enzimlerinde (AST, ALT) geçici artışlar
+Seyrek: Hepatit
+Deri ve deri altı doku hastalıkları
+Yaygın: Döküntü, alopesi
+Seyrek: Anjiyoödem
+Kas-iskelet bozuklukları, bağ doku ve kemik hastalıkları
+Yaygın: Eklem ağrısı, kas bozuklukları
+Seyrek: Rabdomiyoliz
+Genel bozukluklar ve uygulama bölgesine ilişkin hastalıkları
+Yaygın: Halsizlik, kırıklık, ateş
+Zidovudin:
+Yetişkin ve adolesanlarda advers reaksiyon profilleri benzerlik gösterir. En şiddetli advers
+reaksiyonlar (transfüzyon gerektirebilen) anemi, nötropeni ve lökopeniyi içerir. Bu reaksiyonlar
+daha yüksek dozlarda (1200-1500 mg/gün), ileri HIV hastalığı olan hastalarda (özellikle tedavi
+öncesi kemik iliği rezervi yetersiz olan hastalarda) ve özellikle CD4 hücre sayısı 100/mm3’ün
+altında olan hastalarda daha sık ortaya çıkmıştır (bkz. Bölüm 4.4).
+Nötropeni insidansı, zidovudin tedavisinin başlangıcında nötrofil sayısı, hemoglobin ve serum
+B vitamini düzeyleri düşük olan hastalarda daha yüksek olmuştur.
+12
+14Tedavi ile en azından potansiyel bağlantısı olduğu düşünülen istenmeyen etkiler; vücut sistemi,
+organ sınıfı ve mutlak sıklığa göre listelenmiştir. Sıklıklar şu şekilde tanımlanmaktadır:
+Çok yaygın (≥1/10); yaygın (≥1/100 ila <1/10); yaygın olmayan (≥1/1.000 ila <1/100); seyrek
+(≥1/10.000 ila <1/1.000); çok seyrek (<1/10.000), bilinmiyor (eldeki verilerden hareketle
+tahmin edilemiyor). İstenmeyen etkiler, her bir sıklık grubunda azalan şiddete göre
+belirtilmektedir.
+Kan ve lenf sistemi hastalıkları
+Yaygın: Anemi, nötropeni ve lökopeni
+Yaygın olmayan: Trombositopeni ve pansitopeni (kemik iliği hipoplazisi ile birlikte)
+Seyrek: Saf eritrosit aplazisi
+Çok seyrek: Aplastik anemi
+Metabolizma ve beslenme hastalıkları
+Seyrek: Hipoksemi yokluğunda laktik asidoz, anoreksi
+Psikiyatrik hastalıkları
+Seyrek: Anksiyete ve depresyon
+Sinir sistemi hastalıkları
+Çok yaygın: Baş ağrısı
+Yaygın: Sersemlik hali
+Seyrek: İnsomnia, parestezi, somnolans, zihinsel keskinlikte azalma,
+konvülsiyonlar
+Kardiyak hastalıkları
+Seyrek: Kardiyomiyopati
+Solunum, göğüs bozuklukları ve mediastinal hastalıkları
+Yaygın olmayan: Dispne
+Seyrek: Öksürük
+Gastrointestinal hastalıkları
+Çok yaygın: Bulantı
+Yaygın: Kusma, karın ağrısı, ishal
+Yaygın olmayan: Gaz şişkinliği
+Seyrek: Ağız mukozasında renklenme, tat duyusunda bozukluk, dispepsi,
+pankreatit
+Hepato-bilier hastalıkları
+Yaygın: Karaciğer enzimleri ve bilirubinin kan düzeylerinde yükselme
+Seyrek: Steatoz ile birlikte ağır hepatomegali gibi karaciğer bozuklukları
+Deri ve deri altı doku hastalıkları
+Yaygın olmayan: Döküntü ve kaşıntı
+Seyrek: Tırnak ve ciltte pigmentasyon, ürtiker ve terleme
+Kas-iskelet bozuklukları, bağ doku ve kemik hastalıkları
+Yaygın: Miyalji
+Yaygın olmayan: Miyopati
+15Böbrek ve idrar yolu hastalıkları
+Seyrek: Sık idrara çıkma
+Üreme ve meme hastalıkları
+Seyrek: Jinekomasti
+Genel bozukluklar ve uygulama bölgesine ilişkin hastalıkları
+Yaygın: Halsizlik
+Yaygın olmayan: Ateş, yaygın ağrı ve güçsüzlük
+Seyrek: Titreme, göğüs ağrısı, grip benzeri sendrom
+Plasebo kontrollü ve açık etiketli çalışmalardan elde edilen veriler, bulantı ve diğer sıklıkla
+bildirilen klinik advers olayların insidansının zidovudin tedavisinin ilk haftaları boyunca
+zamanla giderek azaldığını göstermiştir.
+Şüpheli advers reaksiyonların raporlanması:
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir (www.titck.gov.tr; e- posta:
+tufam@titck.gov.tr; Tel: 0 800 314 00 08; Faks: 0 312 218 35 99).
+4.9. Doz aşımı ve tedavisi
+COMBIVIR’in aşırı dozda kullanımı ile ilgili deneyimler sınırlıdır. Yan etkiler bölümünde
+listelenmiş istenmeyen etkiler dışında, lamivudin veya zidovudinin akut aşırı dozunu takiben
+spesifik bir belirti ya da bulgu tanımlanmamıştır.
+İlacın aşırı dozda kullanımı durumunda, hasta toksisite bulguları açısından izlenmeli ve gerekli
+ise standart destekleyici tedaviler uygulanmalıdır (bkz. Bölüm 4.8). Lamivudin diyaliz ile
+uzaklaştırılabildiği için, aşırı dozun tedavisinde sürekli hemodiyaliz kullanılabilir, ancak bu
+konuda çalışma yapılmamıştır. Hemodiyaliz ve periton diyalizi zidovudinin eliminasyonu
+üzerinde sınırlı etki gösterir, ancak glukuronid metabolitinin eliminasyonunu artırır. Daha
+ayrıntılı bilgi için hekimlerin lamivudin ve zidovudinin kendi ürün bilgilerine bakmaları
+gerekir.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1. Farmakodinamik özellikler
+Farmakoterapötik grup: HIV enfeksiyonlarının tedavisinde kullanılan antiviral ilaçlar,
+kombinasyonlar
+ATC Kodu: J05AR01
+Etki mekanizması
+Lamivudin ve zidovudin, HIV’e karşı aktivite gösteren nükleozit analoglarıdır. Ayrıca,
+lamivudinin hepatit B virüsüne (HBV) karşı aktivitesi de vardır. Her iki tıbbi ürün de
+intraselüler olarak aktif parçalarına, sırasıyla lamivudin 5’-trifosfat (TP) ve zidovudin 5’-
+trifosfata (TP) metabolize edilir. Temel etki mekanizmaları, viral ters transkripsiyonun zincir
+terminatörleri şeklindedir. Lamivudin-TP ve zidovudin-TP, in vitro koşullarda HIV-1 ve HIV-
+2 replikasyonuna karşı seçici inhibe edici aktiviteye sahiptir ve lamivudinin HIV’in zidovudin
+16dirençli klinik izolatlarına karşı aktivitesi de vardır. Lamivudin ve diğer antiviral ajanlar
+(abakavir, didanozin, nevirapin) ve zidovudin ve diğer antiviral ajanlar (abakavir, didanozin,
+interferon alfa) ile herhangi bir in vitro antagonist etki görülmemiştir.
+Farmakodinamik etkiler
+Lamivudine karşı HIV-1 direnci, viral revers transkriptazın (RT) aktif bölgesine yakın M184V
+aminoasit değişikliğinin gelişmesinden kaynaklanır. Bu varyant hem in vitro olarak hem de
+lamivudin içeren antiretroviral tedavi gören HIV-1 ile enfekte hastalarda ortaya çıkar. M184V
+mutantları lamivudine karşı belirgin ölçüde azalmış duyarlılık ve in vitro olarak azalmış viral
+replikatif kapasite gösterir. In vitro çalışmalar, zidovudine karşı dirençli virüs izolatlarının eş
+zamanlı olarak lamivudine direnç kazandıklarında zidovudine duyarlı hale gelebildiğini
+göstermektedir, ancak bu bulguların klinik açıdan önemi iyi belirlenmemiştir.
+İn vitro veriler, M184V gelişimine rağmen antiretroviral rejime lamivudinle devam etmenin
+rezidüel antiretroviral aktivite sağlayabileceğine işaret etmektedir (büyük ihtimalle viral
+dayanıklılığın bozulması yoluyla). Bu bulguların klinik açıdan önemi belirlenmemiştir. Mevcut
+klinik veri sınırlıdır ve uygulama için güvenilir sonuçlara işaret etmemektedir. Yine de,
+lamivudin tedavisinin devam ettirilmesi yerine duyarlı nükleozit analog ters transkriptaz
+inhibitörlerinin (NRTİ) başlanması tercih edilmelidir. Bu nedenle, M184V mutasyonunun
+ortaya çıkmasına rağmen lamivudin tedavisine devam kararı sadece başka aktif NRTİ
+bulunmayan vakalarda düşünülmelidir.
+M184V RT’nin kazandırdığı çapraz direnç nükleozit inhibitörü antiretroviral ajan sınıfı ile
+sınırlıdır. Zidovudin ve stavudin, lamivudine karşı dirençli HIV-1’e karşı antiretroviral
+etkinliklerini korur. Abakavir, yalnızca M184V mutasyonunu taşıyan lamivudine dirençli HIV-
+1’e karşı antiretroviral etkinliğini korur. M184V RT mutantı didanozine karşı 4 kata kadar
+azalmış duyarlılık gösterir. Bu bulguların klinik açıdan önemi bilinmemektedir. İn vitro
+duyarlılık testi standardize edilmemiştir ve sonuçlar metodolojik faktörlere bağlı olarak
+farklılık gösterebilir.
+Lamivudin; periferik kan lenfositlerine, yerleşik lenfosit ve monosit-makrofaj hücre hatlarına
+ve kemik iliği progenitor hücrelerinin farklı türlerine karşı düşük in vitro sitotoksisite gösterir.
+Zidovudinin de dahil olduğu timidin analoglarına karşı direncin özellikleri iyi belirlenmiştir ve
+bu direnç HIV revers transkriptazındaki 41, 67, 70, 210, 215 ve 219 numaralı kodonlarda ortaya
+çıkan altı özgül mutasyonun kademeli birikimine bağlı olarak gelişmektedir. Virüsler, 41. ve
+215. kodonlardaki mutasyonların kombinasyonu ya da altı mutasyonun en az dördünün birikimi
+yoluyla timidin analoglarına karşı fenotipik direnç kazanır. Bu timin analoğu mutasyonları tek
+başına diğer nükleozitlerden herhangi birine karşı yüksek düzeyde çapraz direnç gelişmesine
+yol açmadığı için daha sonra diğer onaylanmış revers transkriptaz inhibitörlerinin
+kullanılmasına olanak tanır.
+İki tip çoklu ilaç direnci mutasyonu, AZT’ye ve diğer onaylanmış nükleozit revers transkriptaz
+inhibitörlerine karşı fenotipik direnç gelişimi ile sonuçlanır. Bunlardan birincisi HIV RT’nin
+62, 75, 77, 116 ve 151 numaralı kodonlarında gelişen mutasyonlar, ikincisi ise tipik olarak T69S
+mutasyonu ile birlikte aynı konumda ortaya çıkan 6 baz çiftinin insersiyonu ile karakterize
+edilir. Bu iki çoklu nükleozit direnç mutasyonu gelecekteki tedavi seçeneklerini önemli ölçüde
+kısıtlamaktadır.
+17Klinik deneyim
+Klinik çalışmalarda, zidovudin ile kombinasyon halinde kullanılan lamivudinin HIV-1 viral
+yükünü azalttığı ve CD4 hücre sayısını artırdığı gösterilmiştir. Klinik sonlanım noktası verileri,
+zidovudin ile kombinasyon halinde kullanılan lamivudinin hastalığın ilerleme riskinde ve
+mortalitede anlamlı azalmaya yol açtığını göstermiştir.
+Lamivudin ve zidovudin, aynı sınıftan (NRTİ’ler) veya farklı sınıflardan (Pİ’ler, non-nükleozit
+revers transkriptaz inhibitörleri) diğer antiretroviral ilaçlarla birlikte antiretroviral kombinasyon
+tedavilerinin bileşenleri olarak geniş ölçüde kullanılmıştır.
+Lamivudin içeren çoklu antiretroviral ilaç tedavisinin, antiretroviral tedavisi görmemiş
+hastalarda ve M184V mutasyonları olan virüslerin bulunduğu hastalarda etkili olduğu
+görülmüştür.
+Klinik çalışmalardan elde edilen bulgular, lamivudin-zidovudin kombinasyonunun daha önce
+antiretroviral tedavi uygulanmamış bireylerdeki zidovudine karşı dirençli izolatların ortaya
+çıkmasını geciktirdiğini göstermektedir. Lamivudin ve zidovudin beraberinde ilave
+antiretroviral tedavisi alan veya almayan, halihazırda M184V mutant virüsü olan hastalarda
+zidovudin ve stavudine karşı direnç gelişimine sebep olan mutasyonların başlangıcında
+gecikme görülmektedir (Timidin Analog Mutasyonları; TAM’ler).
+HIV’in lamivudine ve zidovudine karşı in vitro duyarlılığı ve lamivudin/zidovudin içeren
+tedaviye klinik yanıt arasındaki ilişkinin araştırması devam etmektedir.
+Günde bir kez 100 mg lamivudinin, kronik HBV enfeksiyonu olan erişkin hastaların tedavisinde
+etkili olduğu gösterilmiştir (klinik çalışmaların detayları için lamivudinin Kısa Ürün Bilgisine
+bakınız). Buna karşın, HIV enfeksiyonunun tedavisi için, diğer antiretroviral ajanlarla birlikte,
+yalnızca günlük 300 mg lamivudin dozunun etkili olduğu gösterilmiştir.
+Lamivudinin, HBV ile koenfekte HIV hastalarında kullanımı için özel bir çalışma
+yapılmamıştır.
+5.2. Farmakokinetik özellikler
+Genel özellikler
+Emilim:
+Lamivudin ve zidovudin mide-bağırsak kanalından iyi emilir. Yetişkinlerde oral lamivudinin
+biyoyararlanımı normalde %80-85 arasında, zidovudininki ise %60-70 arasındadır.
+Bir biyoeşdeğerlik çalışmasında COMBIVIR, birlikte alınan lamivudin 150 mg ve zidovudin
+300 mg tablet ile karşılaştırılmıştır. Aynı zamanda gıdaların absorpsiyon hızı ve yaygınlığı
+üzerindeki etkisi de çalışılmıştır. Açlık durumundaki gönüllülere verildiğinde, COMBIVIR’in
+ayrı tabletler halinde verilen lamivudin 150 mg ve zidovudin 300 mg’a biyoeşdeğer olduğu
+gösterilmiştir.
+Sağlıklı gönüllülerde tek doz COMBIVIR uygulamasını takiben, ortalama (CV=Değişim
+Katsayısı) lamivudin ve zidovudinin maksimum plazma konsantrasyonu (C ) değerleri
+maks
+sırasıyla 1,6 mikrogram/mL (%32) ve 2 mikrogram/ml (%40), EAA için uygun değerler
+sırasıyla 6,1 mikrogram sa/mL (%20) ve 2,4 mikrogram sa/mL (%29) olmuştur. Medyan
+18lamivudin ve zidovudinin plazmadaki maksimum konsantrasyonun görüldüğü süre (t )
+maks
+değerleri sırasıyla 0,75 (0,50-2) saat ve 0,50 (0,25-2) saat olmuştur. Lamivudin ve zidovudin
+absorpsiyonu yaygınlığı (EAA∞) ve gıdalar ile birlikte COMBIVIR uygulamasını takiben
+tahmini yarılanma ömrü, açlık durumundaki gönüllülerle karşılaştırıldığında benzer olmuştur,
+fakat absorpsiyon hızları (C , t ) yavaşlamıştır. Bu veriler baz alındığında COMBIVIR
+maks maks
+gıdalarla birlikte veya ayrı kullanılabilir.
+Kırılmış tabletlerin az miktarda yarı katı gıda veya sıvı ile uygulanmasının farmasötik kalite
+üzerinde etkisinin olması beklenmemektedir ve bu sebeple bu durumun klinik etkiyi
+değiştirmesi beklenmemektedir. Bu sonuca varılırken hastanın tabletin tamamını kırılmış halde
+aldığı ve hızla sindirdiğinin varsayıldığı fizikokimyasal ve farmakokinetik veriler baz alınır.
+Dağılım:
+Lamivudin ve zidovudin ile yapılan intravenöz çalışmalarda ortalama görünür dağılım
+hacminin sırasıyla 1,3 ve 1,6 L/kg olduğu gösterilmiştir. Lamivudin, başlıca plazma proteini
+olan albümine sınırlı bağlanma (in vitro olarak serum albümininin %36’dan azı) göstermiştir.
+Zidovudin için plazma proteinlerine bağlanma oranı %34 ile %38 arasındadır. Bağlanma
+bölgesinde diğer ilaçlar ile etkileşimler COMBIVIR için beklenmemektedir.
+Çeşitli veriler, lamivudin ve zidovudinin merkezi sinir sistemine (MSS) geçtiğini ve beyin-
+omurilik sıvısına (BOS) ulaştığını göstermiştir. Oral yoldan uygulamadan 2-4 saat sonra
+lamivudin ve zidovudinin ortalama BOS/serum oranları sırayla yaklaşık 0,12 ve 0,5 olmuştur.
+Lamivudinin MSS’ye penetrasyonunun gerçek boyutu ve bunun klinik etkililikle ilişkisi
+bilinmemektedir.
+Biyotransformasyon:
+Lamivudinin metabolizması eliminasyonun minör bir yoludur. Lamivudin büyük oranda
+değişmemiş ilaç şeklinde böbrek yoluyla atılıma uğrar. Lamivudin ile metabolik ilaç
+etkileşmesi ihtimali, plazma proteinlerine düşük oranda bağlanma ve karaciğerde
+metabolizasyonun önemsiz olması (%5-10) nedeni ile düşüktür.
+Zidovudinin plazma ve idrardaki başlıca metaboliti 5’-glukuroniddir ve uygulanan dozun
+böbrek yoluyla atılan yaklaşık %50-80’ine karşılık gelir. İntravenöz uygulamanın ardından, 3’-
+amino-3’-deoksitimidin (AMT) zidovudinin metaboliti olarak belirlenmiştir.
+Eliminasyon:
+Lamivudinin eliminasyon yarılanma ömrünün 18 ila 19 saat olduğu gözlenmiştir. Lamivudinin
+ortalama sistemik klerensi 0,32 L/sa/kg’dır ve organik katyonik transport sistemi kullanarak
+öncelikle renal klerens yoluyla (%70’ten fazlası) elimine olur. Böbrek yetmezliği olan
+hastalarda yapılan çalışmalar lamivudinin eliminasyonunun renal disfonksiyondan etkilendiğini
+göstermektedir. Kreatinin klerensi ≤30 mL/dakika olan hastalar için doz ayarlaması gereklidir
+(bkz. Bölüm 4.2).
+Zidovudinin intravenöz yoldan verildiği araştırmalardan elde edilen verilere göre, zidovudinin
+ortalama terminal plazma yarılanma ömrü 1,1 saat ve ortalama sistemik klerensi 1,6 L/sa/kg
+olmuştur. Zidovudinin tahmini renal klerensi 0,34 L/sa/kg’dır ve bu durum böbrekler yolu ile
+eliminasyonda glomerüler filtrasyon ve aktif tübüler sekresyonun rol oynadığını
+göstermektedir. İlerlemiş böbrek yetmezliği bulunan hastalarda zidovudin konsantrasyonları
+artar.
+19Doğrusallık/Doğrusal olmayan durum:
+Lamivudin ve zidovudin terapötik doz aralığının üzerinde bir doğrusal farmakokinetik
+sergilemektedir.
+Hastalardaki karekteristik özellikler
+Yaşlılar:
+65 yaşın üzerindeki hastalarda lamivudin ve zidovudin farmakokinetiği henüz çalışılmamıştır.
+Çocuklar:
+5-6 aylıktan büyük çocuklarda zidovudinin farmakokinetik profili yetişkinlerdeki ile benzerdir.
+Zidovudin bağırrsaklardan iyi emilir ve yetişkinlerde ve çocuklarda çalışılan tüm doz
+seviyelerinde biyoyararlanımı ortalama %65 (%60-74 arasında) olmuştur. Css seviyeleri,
+maks
+120 mg (solüsyon içinde)/m2 vücut yüzey alanı dozunda zidovudin uygulamasını takiben 4,45
+mikromolar (1,19 mikrogram/mL) ve 180 mg/m2 vücut yüzey alanı dozunda zidovudin
+uygulamasını takiben de 7,7 mikromolar (2,06 mikrogram/mL) bulunmuştur. Çocuklara günde
+4 kez 180 mg/m2 dozunda uygulandığında sağlanan sistemik maruziyet (24 saat EAA 40,0 saat
+mikromolar veya 10,7 saat mikrogram/mL) ile yetişkinlere günde 6 kez 200 mg dozunda
+uygulandığında sağlanan maruziyet (40,7 saat mikromolar veya 10,9 saat mikrogram/mL)
+benzer olmuştur.
+HIV enfeksiyonu olan ve yaşları 2 ile 13 arasında değişen 6 çocuk üzerinde yapılan bir
+çalışmada, günde 3 kez 120 mg/m2 dozunda zidovudin uygulanması sırasında ve günde 2 kez
+180 mg/m2’lik doz uygulamasına geçildikten sonra zidovudinin plazma farmakokinetiği
+değerlendirilmiştır. Zidovudinin günde 2 kez uygulandığı rejimde sağlanan plazma sistemik
+maruziyeti (günlük EAA ve C ) aynı toplam doz üçe bölünerek verildiğinde sağlanan
+maks
+maruziyete eşit olmuştur (Bergshoeff, 2004).
+Genel olarak, pediyatrik hastalarda lamivudinin farmakokinetiği yetişkinlerdekine benzerdir.
+Bununla birlikte, mutlak biyoyararlanım (yaklaşık olarak %55–65) 12 yaşın altındaki pediyatrik
+hastalarda azalmıştır. Ayrıca, daha küçük pediyatrik hastalarda sistemik klerens değerleri daha
+büyük olmuştur ve bunlar yaş ile birlikte azalırken 12 yaş civarında yetişkin değerlerine
+ulaşmıştır. Bu farklılıklara bağlı olarak, çocuklarda (3 aylıktan büyük ve vücut ağırlığı 30
+kg’dan az) tavsiye edilen lamivudin dozu günde 2 kere 4 mg/kg’dır. Bu doz, 3.800–5.300
+nanogram.saat/ml arasında değişen ortalama eğri altında kalan alan (EAA ) olacaktır. Son
+0-12
+bulgular, diğer yaş gruplarıyla kıyaslandığında, 6 yaşından küçük çocuklarda maruziyetin
+yaklaşık %30 oranında azalabileceğini göstermektedir. Bu düşünceyi destekleyecek yeni veriler
+beklenmektedir. Mevcut veriler lamivudinin bu yaş grubunda daha az etkili olduğunu
+göstermez.
+Böbrek yetersizliği:
+Böbrek yetersizliği olan hastalarda yapılan çalışmalar, azalan renal klerense bağlı olarak
+lamivudin eliminasyonunun böbrek işlev bozukluğundan etkileneceğini göstermiştir. Kreatinin
+klerensi 50 mL/dakikanın altında olan hastalarda doz azaltılmalıdır (bkz. Bölüm 4.2). Ağır
+böbrek yetersizliği olan hastalarda zidovudin konsantrasyonları yükselir.
+Karaciğer yetersizliği:
+Sirozlu hastalarda yapılan sınırlı sayıda çalışma, glukuronidasyonunun azalmasına bağlı olarak,
+karaciğer yetersizliği bulunan hastalarda zidovudin birikimi olabileceğini göstermiştir. Ağır
+20karaciğer yetersizliği olan hastalara zidovudin verilirken doz ayarlaması yapılması gerekli
+olabilir.
+Hamilelik:
+Hamilelerdeki lamivudin ve zidovudin farmakokinetiği hamile olmayan kadınlardakine benzer
+olmuştur. İnsanlarda, lamivudinin plasentadan pasif geçişiyle uyumlu olarak, doğumda
+yenidoğanın serumunda ölçülen lamivudin konsantrasyonları annenin serumundaki ve kordon
+serumundaki ile benzer olmuştur. Zidovudin plazmada ölçülmüştür ve lamuvidin için
+gözlenenlerle benzer sonuçları vermiştir.
+Klinik çalışmalar:
+Antiretroviral Gebelik Kaydına (AGK), gebelik sırasında lamivudin maruziyeti olan ve
+sonrasında canlı doğum gerçekleşen 11.000 rapor iletilmiştir. Bu raporlar; birinci trimester
+sırasında 4.500'den fazla maruziyet ve ikinci/üçüncü trimester sırasında 7.200'den fazla
+maruziyetten oluşmaktadır ve birinci ve ikinci/üçüncü trimester için sırasıyla 143 ve 207 doğum
+kusuru içermektedir. Kusur prevalansı (GA %95) birinci trimesterde %3,1 (%2,6, %3,7) ve
+ikinci/üçüncü trimesterde %2,9 (%2,5, %3,3) olmuştur. AGK’ye, gebelik sırasında zidovudin
+maruziyeti olan ve sonrasında canlı doğum gerçekleşen 13.000 rapor iletilmiştir. Bu raporlar;
+birinci trimester sırasında 4.100'den fazla maruziyet ve ikinci/üçüncü trimester sırasında
+9.300'den fazla maruziyetten oluşmaktadır ve birinci ve ikinci/üçüncü trimester için sırasıyla
+133 ve 264 doğum kusuru içermektedir. Kusur prevalansı (GA %95) birinci trimesterde %3,2
+(%2,7, %3,8) ve ikinci/üçüncü trimesterde %2,8 (%2,5, %3,2) olmuştur. Bu oranlar, takip
+sistemlerine göre iki popülasyonda bildirilenlerden anlamlı düzeyde daha yüksek değildir
+(sırasıyla, 100 canlı doğumda 2,72 ve 100 canlı doğumda 4,17). AGK, arka plan oranıyla
+karşılaştırıldığında, lamivudin ya da zidovudin için majör doğum kusurları riskinde artış
+göstermemiştir.
+5.3. Klinik öncesi güvenlilik verileri
+Lamivudinin ve zidovudin kombinasyonu ile yapılan çalışmalarda toksisite artışı
+gözlenmemiştir. Kombine kullanılan bu iki ilacın klinik ile ilişkili etkileri anemi, nötropeni ve
+lökopenidir.
+Mutajenisite ve karsinojenite:
+Lamivudin ve zidovudin bakteriyel testlerde mutajenik değildir, ancak diğer nükleozit
+analoglarıyla uyumlu olarak, fare lenfoma testi gibi in vitro memeli testlerinde DNA
+replikasyonunu inhibe ederler.
+Lamivudin, klinik plazma değerlerinin 40-50 katına kadar daha fazla plazma
+konsantrasyonlarını veren dozlardaki in vivo çalışmalarda genotoksik aktivite göstermemiştir.
+Farelerde yapılan mikronükleus testlerinde zidovudin oral tekrarlayan dozlarda klastojenik etki
+göstermiştir. Zidovudin tedavisi gören Edinsel Bağışıklık Yetmezliği Sendromu (AIDS)
+hastalarından alınan periferik kan lenfositlerinin yüksek sayıda kromozom kırılmaları içerdiği
+gözlenmiştir.
+Yapılan bir pilot çalışmada, HIV-1 enfeksiyonunu tedavi etmek için veya anneden çocuğa virüs
+bulaşmasını engellemek için zidovudin kullanan gebe kadınlar da dahil olmak üzere,
+zidovudinin yetişkinlerde lökositlerdeki nükleer DNA ile birleştiği gösterilmiştir. Zidovudin,
+aynı zamanda zidovudin ile tedavi gören annelerden doğan bebeklerin kordon kanındaki
+lökositlerin DNA’sı ile de birleşmiştir. Maymunlar üzerinde yapılan bir transplasental
+21genotoksisite çalışmasında, insanlardakine eşdeğer maruziyetlerde tek başına zidovudin ile
+zidovudin ve lamivudin kombinasyonu karşılaştırılmıştır. Bu çalışmada, kombinasyona rahim
+içinde maruz kalan fetüslerde, tek başına zidovudine maruz kalanlara kıyasla, birçok fötal
+organa nükleozit analoğu-DNA birleşmesi daha yüksek seviyelerde olmuş ve telomer
+kısalmasının daha fazla olduğuna dair bulgular saptanmıştır. Bu bulguların klinik anlamı
+bilinmemektedir.
+Lamivudin ve zidovudin kombinasyonun karsinojenik potansiyeli test edilmemiştir.
+Fare ve sıçanlarda yapılan uzun süreli oral karsinojenisite çalışmaları, lamivudinin herhangi bir
+karsinojenik potansiyel oluşturmadığını göstermiştir.
+Zidovudin ile yapılan oral karsinojenite çalışmalarında, fare ve sıçanlarda geç oluşan vajinal
+epitelyal tümörler gözlenmiştir. Devamında yapılan intravajinal karsinojenite çalışması, vajinal
+tümörlerin sıçanlarda vajinal epitelin idrardaki metabolize olmamış zidovudinin yüksek
+konsantrasyonlara uzun dönem maruz kalması sonucu oluştuğu hipotezini doğrulamıştır. Diğer
+cinslerde zidovudin ile ilişkili bundan daha başka bir tümöre rastlanmamıştır. Kemirgenler
+üzerinde yapılan karsinojenite çalışmalarının insanlar için tahmin yürütmeye yeterli olup
+olmadığı ve bu bulguların klinik anlamı belirsizdir.
+Bu çalışmalara ek olarak, farelerde iki transplasental karsinojenite çalışması
+gerçekleştirilmiştir. Amerikan Ulusal Kanser Enstitüsü’nde yapılan bir çalışmada, gebe fareye
+gebeliğin 12-18. günlerinde tolere edilen maksimum dozda zidovudin uygulanmıştır.
+Doğumdan bir yıl sonra, en yüksek doz seviyesine (420 mg/kg/vücut ağırlığı) maruz kalan
+yavruların akciğerlerinde, karaciğerlerinde ve dişilerde üreme sisteminde tümor insidansında
+artış olduğu görülmüştür.
+İkinci bir çalışmada, farelere 40 mg/doza kadar 24 ay boyunca zidovudin uygulanmıştır. Bu
+uygulamaya gebeliğin 10. günü başlanarak devam edilmiştir. Çalışmadan alınan sonuçlar geç
+oluşan vajinal epitelyal tümörler ile sınırlı kalmıştır. Bu bulgular, standart oral karsinojenite
+çalışmalarından alınan sonuçlar ile tümör başlangıç zamanı ve insidans olarak benzerdir. İkinci
+çalışma, zidovudinin transplasental karsinojen olarak aktivite gösterdiğine dair bir kanıt
+sağlamamıştır.
+Bu bulguların klinik açıdan ilgisi bilinmemekle birlikte veriler, insanlar için olası klinik
+faydanın karsinojenik riskten daha ağır bastığını göstermektedir.
+Reprodüktif toksikoloji:
+Hayvanlar üzerinde yapılan reprodüktif toksisite çalışmaları, lamivudinin oldukça düşük
+sistemik maruziyetlerde tavşanlardaki erken embriyonik ölümlerde artışa neden olduğunu
+göstermiştir. Bu sonuç insanlarda görülen sonuçlar ile benzerdir, ancak sıçanlarda çok yüksek
+sistemik maruziyetlerde bile bir embriyonik ölüm görülmemiştir. Zidovudin ise sadece çok
+yüksek sistemik maruziyetlerde her iki türde de aynı etkiyi göstermiştir. Lamivudin hayvanlar
+üzerindeki çalışmalarda teratojenik etki göstermemiştir. Anne için toksik olan dozlarda,
+sıçanlara organojenez sırasında zidovudin verildiğinde malformasyonların insidansında artış
+görülmüş, ancak daha düşük dozlarda fetal anormalliklere rastlanmamıştır.
+Fertilite:
+Erkek ve dişi sıçanlarda yapılan çalışmalarda, lamivudin ve zidovudin fertilite üzerinde
+olumsuz bir etki göstermemiştir.
+226. FARMASÖTİK ÖZELLİKLER
+6.1. Yardımcı maddelerin listesi
+Tablet çekirdeği:
+Mikrokristalin selüloz
+Sodyum nişasta glikolat, Tip A
+Kolloidal susuz silika
+Magnezyum stearat
+Film kaplama:
+Opadry Beyaz YS-1-7706-G. Bileşimi şu şekildedir:
+• Hipromelloz
+• Titanyum dioksit (E171)
+• Makrogol 400
+• Polisorbat 80
+6.2. Geçimsizlikler
+Geçerli değildir.
+6.3. Raf Ömrü
+24 ay
+6.4. Saklamaya yönelik özel tedbirler
+30 ºC’nin altındaki oda sıcaklığında saklanmalıdır.
+6.5. Ambalajın niteliği ve içeriği
+COMBIVIR film tablet, 60 adet, blisterde, karton kutu içinde.
+6.6. Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+Kullanılmamış olan ürünler ya da atık materyaller ‘Tıbbi Atıkların Kontrolü Yönetmeliği’ ve
+‘Ambalaj Atıklarının Kontrolü Yönetmeliği’ne uygun olarak imha edilmelidir.
+7. RUHSAT SAHİBİ
+GlaxoSmithKline İlaçları San. ve Tic. A.Ş.
+Büyükdere Cad. No.173, 1. Levent Plaza B Blok
+34394 1. Levent/İstanbul
+Telefon: 0 212 339 44 00
+Faks: 0 212 339 45 00
+8. RUHSAT NUMARASI
+107/88
+239. İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi: 21.06.2000
+Ruhsat yenileme tarihi: 22.07.2020
+10. KÜB’ÜN YENİLENME TARİHİ
+24

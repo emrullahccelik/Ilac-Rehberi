@@ -1,0 +1,537 @@
+KISA ÜRÜN BİLGİSİ
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+ZEMPLAR® 2 mikrogram yumuşak kapsül
+2. KALİTATİF VE KANTİTATİF BİLEŞİMİ
+Etkin madde:
+Parikalsitol 2 mcg
+Yardıı maddeler:
+Etanol 1.42 mg
+Yardımcı maddeler için 6.1’e bakınız.
+3. FARMASÖTİK FORM
+Yumuşak kapsül.
+Oval, turuncu-kahverengi, üzerinde ve ZF basılı yumuşak kapsül.
+4. KLİNİK ÖZELLİKLER
+4.1 Terapötik endikasyonlar
+ZEMPLAR® yumuşak kapsül aşağıdaki durumlarda endikedir:
+- Kronik renal yetmezlik (Kronik böbrek hastalığı, Evre 3 ve 4) ile birlikte olan
+sekonder hiperparatiroidizmin önlenmesi ve tedavisinde,
+- Hemodiyaliz ya da periton diyalizinde olan kronik böbrek hastalığı Evre 5
+hastalarındaki sekonder hiperparatiroidizmin önlenmesi ve tedavisinde.
+4.2 Pozoloji ve uygulama şekli
+Pozoloji/uygulama sıklığı ve süresi:
+Kronik Böbrek Hastalığı Evre 3 ve 4
+ZEMPLAR® her gün veya haftada üç defa olmak üzere günde bir defa uygulanır. Doz
+haftada üç defa verildiğinde, uygulama en az iki günde bir yapılmalıdır. Günlük veya haftada
+üç defalık doz rejimleri için ortalama haftalık doz benzerdir. Tedavi profili her iki doz
+rejiminde benzer olmakla birlikte, hastanın tedaviye uyumunu artırmak ve tedavi hatalarını
+azaltmak için günlük doz uygulanması önerilir.
+1Başlangıç Dozu
+ZEMPLAR®’ın başlangıç dozu, bazal intakt paratiroid hormonu (iPTH) düzeylerine göre
+belirlenir.
+Tablo 1. ZEMPLAR® yumuşak kapsül – Başlangıç Dozu
+Bazal iPTH Düzeyi Günlük Doz Haftada Üç Defalık Doz*
+≤ 500 pg/mL (56 pmol/L) 1 mcg 2 mcg
+> 500 pg/mL (56 pmol/L) 2 mcg 4 mcg
+*İki günde birden daha sık verilmez
+Doz Titrasyonu
+Doz, serum kalsiyum ve serum fosfor düzeyleri izlenerek ve serum veya plazma iPTH
+düzeylerine göre bireyselleştirilmelidir. Tablo 2’de, doz titrasyonu için önerilen yaklaşım
+sunulmaktadır.
+®
+Tablo 2. ZEMPLAR yumuşak kapsül Doz Titrasyonu
+®
+ZEMPLAR 2-4 Haftalık Aralıklarla Doz Ayarlaması
+Bazale göre iPTH Düzeyi yumuşak kapsül Haftada Üç Defalık
+Günlük Doz
+Dozu Doz1
+Aynı veya artmış
+Artırılır 1 mcg 2 mcg
+Azalma < %30
+Azalma ≥%30,  %60 İdame Edilir
+Azalma > 60%
+Azaltılır2 1 mcg 2 mcg
+iPTH < 60 pg/mL
+1 İki günde birden daha sık verilmez.
+2 Eğer hasta günlük veya haftada üç defalık rejimle en düşük dozu almakta ise ve dozun azaltılması
+gerekiyorsa doz sıklığı azaltılabilir.
+ZEMPLAR®’a başlandıktan sonra ve doz titrasyonu dönemlerinde ve güçlü P4503A
+inhibitörleri ile eş zamanlı kullanıldığında serum kalsiyum ve fosfor düzeyleri yakından
+izlenmelidir.
+Hiperkalsemi veya kalsiyum-fosfor çarpımının persistan olarak 55 mg2/dL2 mg2/dL2(4.4
+mmol2/L2)’den yüksek olduğu gözlemlendiğinde, kalsiyum bazlı fosfat bağlayıcılarının dozu
+azaltılmalı veya bunlar kesilmelidir. Alternatif olarak, ZEMPLAR® dozu azaltılabilir veya
+kullanıma geçici olarak ara verilebilir. Kullanıma ara verildiğinde, serum kalsiyum ve
+kalsiyum-fosfor çarpımı hedef sınırlarda olduğunda, ilaca tekrar düşük bir dozdan
+başlanmalıdır.
+Kronik Böbrek Hastalığı Evre 5
+ZEMPLAR®, haftada üç kez, iki günde bir uygulanır.
+Başlangıç Dozu
+ZEMPLAR® ’ın başlangıç dozu, mikrogram olarak, başlangıç dönemi iPTH düzeyi
+(pg/mL)/60’a bağlıdır; maksimum başlangıç dozu 32 mikrogramdır.
+2Doz Titrasyonu
+Sonraki doz uygulaması bireyselleştirilmeli ve iPTH, serum kalsiyum ve fosfor düzeylerine
+dayandırılmalıdır. ZEMPLAR®için önerilen doz titrasyonu, aşağıdaki formüle göredir.
+en son iPTH düzeyi (pg/mL)
+Titrasyon dozu (mikrogram) =
+60
+Tedavi başlatıldıktan sonra, doz titrasyon dönemlerinde ve güçlü P450 3A inhibitörlerinin eş-
+zamanlı uygulanması durumunda, serum kalsiyum ve fosfor düzeyleri yakından izlenmelidir.
+Eğer yüksek bir serum kalsiyum değeri, ya da yüksek bir Ca x P değeri gözlenirse ve hasta
+kalsiyum bazlı fosfat bağlayıcı tedavisi altındaysa, bağlayıcı ajanın dozu azaltılabilir ya da ara
+verilebilir, veya hastada kalsiyum bazlı olmayan bir fosfat bağlayıcıya geçiş yapılabilir.
+Eğer serum kalsiyumu > 11.0 mg/dL, veya Ca x P > 70 mg2/dL2, ya da iPTH ≤ 150 pg/mL
+ise, doz en son iPTH/60 (pg/mL) ile hesaplanan dozun 2 ile 4 mikrogram altına
+düşürülmelidir. Eğer daha ileri bir ayarlama gerekirse, bu parametreler normalize oluncaya
+kadar ZEMPLAR® dozu azaltılmalı ya da doz uygulamasına ara verilmelidir.
+iPTH değerleri hedeflenen aralığa yaklaştığında (150-300 pg/mL), stabil bir iPTH
+sağlayabilmek amacıyla, küçük, bireyselleştirilmiş doz ayarlamaları gerekli olabilir. iPTH, Ca
+ve P izlemelerinin haftada birden daha az sıklıkta yapıldığı durumlarda, başlangıç ve doz
+titrasyon oranlarının daha küçük tutulması gerekli olabilir.
+Klinik çalışmalarda, ilk hafta sırasındaki ortalama haftada üç defalık doz, doz başına 11.2
+mcg, klinik çalışmalarda uygulanan ortalama haftada üç defalık doz, doz başına 6.3 mcg,
+klinik çalışmalarda güvenli bir şekilde uygulanan maksimum doz, doz başına 32 mcg olduğu
+belirlenmiştir.
+Uygulama şekli:
+ZEMPLAR® yemeklerden bağımsız olarak alınabilir.
+Özel popülasyonlara ilişkin ek bilgiler:
+Karaciğer Yetmezliği: Hafif ve orta dereceli karaciğer yetmezliği olan hastalarda doz
+ayarlaması gerekli değildir. Ciddi karaciğer yetmezliği olan hastalarda herhangi bir çalışma
+yapılmamıştır (bkz. Bölüm 5.2).
+Böbrek transplantı: KBH Evre 3, 4 ve sekonder hiperparatiroidizme sahip transplantasyon
+geçirmiş hastalar faz 3 klinik çalışmalarında değerlendirilmemiştir. Yayınlanan literatüre
+dayanarak KBH Evre 3, 4 transplantasyon sonrası hastalar ve sekonder hiperparatiroidizme
+sahip hastalar için başlangıç doz ve doz titrasyon algoritması naif KBH Evre 3, 4 ve sekonder
+hiperparatiroidizm hastaları ile aynıdır. Serum kalsiyum ve fosfor seviyeleri tedavi
+başlangıcından sonra doz titrasyon periyodunda ve kuvvetli sitokrom P4503A inhibitörleriyle
+birlikte kullanımda yakından izlenmelidir.
+Pediyatrik popülasyon: ZEMPLAR® ’ın pediyatrik hastalardaki güvenlilik ve etkililiği
+belirlenmemiştir (bkz. Bölüm 5.1).
+3Geriyatrik popülasyon: Geriyatrik hastalar (65-75 yaş) ve daha genç hastalar arasında,
+güvenlilik ve etkililiğe yönelik bütünsel bir farklılık gözlenmemiştir, ancak bazı yaşlı
+bireylerin daha fazla duyarlı olabileceği göz ardı edilmemelidir.
+Laboratuvar Testleri
+Başlangıç dozunda veya ilacın herhangi bir doz ayarlamasını takiben; serum kalsiyum, serum
+fosfor ve serum veya plazma iPTH, parikalsitol terapisine başladıktan sonra veya parikalsitol
+terapisindeki doz ayarlamalarını takiben 3 ay boyunca en az iki haftada bir, daha sonra 3 ay
+boyunca ayda bir kez ve ondan sonra her 3 ayda bir izlenmelidir.
+4.3 Kontrendikasyonlar
+ZEMPLAR®, D vitamini toksisitesi ve hiperkalsemi veya hipersensitivite kanıtı olan hastalara
+ve bu ürünün içeriklerinden birine karşı aşırı duyarlılığı olan hastalara verilmemelidir.
+4.4 Özel kullanım uyarıları ve önlemleri
+Paratiroid hormonunun aşırı baskılanması, serum kalsiyum düzeylerinin yükselmesiyle
+sonuçlanabilir ve düşük döngülü kemik hastalığına yol açabilir. Uygun fizyolojik sonuçlara
+ulaşmak için hastanın monitorizasyonu ve doz titrasyonunun bireyselleştirilmesi gerekir.
+Eğer klinik olarak anlamlı hiperkalsemi gelişirse ve hasta kalsiyum bazlı bir fosfat bağlayıcısı
+alıyorsa, kalsiyum bazlı fosfat bağlayıcısının dozu azaltılmalı veya kullanımına ara
+verilmelidir.
+Kronik hiperkalsemi genel vasküler kalsifikasyona ve diğer yumuşak doku kalsifikasyonlarına
+yol açabilir.
+Fosfat veya vitamin D içeren tıbbi ürünler, hiperkalsemi ve CaxP ürün elevasyonu risklerini
+arttıracağından ZEMPLAR ile birlikte kullanılmamalıdır.
+Hiperkalsemi, dijitalis toksisitesini arttırır, bu nedenle dijitalisin ZEMPLAR ile birlikte
+kullanılması durumunda dikkatli olunmalıdır (bkz. Bölüm 4.5).
+Parikalsitol, diyaliz öncesi hastalarda diğer vitamin D reseptör aktivatörlerinde olduğu gibi
+serum kreatinin değerlerinde artışa yol açabilir (ve bu nedenle gerçek glomerular filtrasyon
+oranını (GFR) değiştirmeden tahmini GFR [eGFR] değerinde düşüşe yol açabilir).
+ZEMPLAR®’ın ketokonazol ile birlikte kullanıldığı durumlarda dikkat edilmesi gereklidir
+(bkz. Bölüm 4.5).
+Yardımcı maddeler için uyarı:
+Bu tıbbi ürün az miktarda, her 2 mcg kapsülde 100 mg’dan daha az, etanol (alkol)
+içermektedir; bkz. Bölüm 2 ve 6.1. Bu durum alkol bağımlılığı olanlar için zararlı olabilir.
+Hamile veya emziren kadınlar, çocuklar ve karaciğer hastalığı ya da epilepsi gibi yüksek risk
+grubundaki hastalar için dikkate alınmalıdır.
+4.5 Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+Digitalis toksisitesi herhangi bir nedenden kaynaklanan hiperkalsemiye bağlı olarak artabilir;
+bu nedenle, parikalsitol ile eşzamanlı olarak digitalis reçete edilirken dikkatli olunmalıdır.
+(bkz. Bölüm 4.4)
+4Ketokonazolün birçok sitokrom P450 enziminin non-spesifik bir inhibitörü olduğu
+bilinmektedir. Mevcut in vivo ve in vitro veriler ketokonazolün parikalsitol ve diğer vitamin
+D analoglarının metabolizmasından sorumlu olan enzimlerle etkileşebildiğini
+düşündürmektedir. Parikalsitol ile ketokonazol ve diğer güçlü CYP3A4 inhibitörleri birlikte
+verilirken dikkatli olunmalıdır. Bir ilaç etkileşim çalışmasında, ketokonazolün parikalsitol
+EAA .değerini yaklaşık iki katına çıkardığı gösterilmiştir. 5 gün boyunca, günde iki kere
+0-
+200 mg uygulanan ketokonazolün parikalsitol farmakokinetiği üzerindeki etkisi sağlıklı
+gönüllülerde incelenmiştir. Parikalsitolün C değeri çok az miktarda etkilenirken, EAA
+maks 0-
+değeri ketokonazol varlığında yaklaşık iki katına çıkmıştır. Parikalsitolün ortalama yarı-ömrü
+ketokonazol varlığında 17.0 iken tek başına uygulandığında 9.8 saattir (bkz. Bölüm 4.4). Bu
+çalışmanın sonucu, oral veya intravenöz parikalsitol uygulamasını takiben, ketokonazol ile
+ilaç etkileşiminden kaynaklanan parikalsitol maksimum EAA amplifikasyonu yaklaşık iki
+0-
+kattan fazla değildir.
+Fosfat veya vitamin D içeren bileşiklerin ve ZEMPLAR®’ın birlikte kullanılması,
+hiperkalsemi veya CaxP değerinin artması risklerini arttıracağından bu ilaçların birlikte
+kullanılmaması gerekir.
+Yüksek miktarda kalsiyum içeren ilaçlar veya tiyazid diüretikleri hiperkalsemi riskini
+arttırabilirler.
+Magnezyum içeren ilaçlar (örn: antasitler), hipermagnezemi meydana getireceğinden vitamin
+D içeren bileşiklerle birlikte kullanılmamalıdır.
+Alüminyum içeren ilaçlar (örn: antasitler, fosfat bağlayıcıları), kronik olarak vitamin D içeren
+preparatlarla birlikte kullanıldığında alüminyum kan seviyelerinde artış ve alüminyum kemik
+toksisitesi meydana gelebileceğinden bu ilaçların birlikte kullanılmaması gerekir.
+Kolestiramin gibi yağda çözünen vitaminlerin bağırsak emilimini bozan ilaçlar,
+ZEMPLAR’ın emilimini etkileyebilir.
+4.6 Gebelik ve laktasyon
+Genel tavsiye:
+Gebelik kategorisi C.
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon):
+ZEMPLAR'ın çocuk doğurma potansiyeli bulunan kadınlarda kullanımına ilişkin yeterli veri
+mevcut değildir. Hayvan çalışmalarında reprodüktif toksisite gösterilmiştir (bkz. Bölüm 5.3).
+Gebelik dönemi:
+Parikalsitolün gebelikte kullanılmasına ilişkin yeterli klinik veri mevcut değildir. Hayvanlar
+üzerinde yapılan çalısmalar, gebelik veya doğum sonrası gelisim üzerindeki etkiler
+bakımından yetersizdir(bkz. kısım 5.3). İnsanlara yönelik potansiyel risk bilinmemektedir. Bu
+nedenle ZEMPLAR gebelikte kesinlikle gerekli olmadıkça kullanılmamalıdır.
+5Laktasyon dönemi:
+Parikalsitolün insan sütüne geçip geçmediği bilinmemektedir. Hayvan çalışmaları parikalsitol
+veya metabolitlerinin küçük miktarlarda anne sütüne geçtiğini göstermiştir. Emzirmenin
+çocuğa yararı ve ZEMPLAR® tedavisinin anneye yararı dikkate alınarak emzirmeye veya
+ZEMPLAR® ile tedaviye devam edilip edilmeyeceğine karar verilmelidir.
+Üreme yeteneği/Fertilite:
+Parikalsitolün 20 mcg /kg/doza kadar olan intravenöz dozlarda (14 mcg’lık insan dozunun 13
+katına eşdeğer olan dozlarda, yüzey alanına göre, mcg /m2) verildiğinde (erkek veya dişi)
+sıçanlarda fertilite üzerinde etkisi olmamıştır.
+4.7 Araç ve makine kullanımı üzerindeki etkiler
+Araç ve makine kullanma becerileri üzerindeki etkisi konusunda çalışma yapılmamıştır;
+ancak, parikalsitolün taşıt ve makine kullanma becerileri üzerindeki etkisinin ihmal edilebilir
+düzeylerde olması beklenmektedir.
+4.8 İstenmeyen etkiler
+Kronik Böbrek Hastalığı Evre 3 ve 4
+ZEMPLAR® yumuşak kapsül’ün güvenliliği Evre 3 ve 4 KBH olan 220 hasta üzerinde
+yürütülen üç adet 24 haftalık, çift-kör, plasebo-kontrollü, çok merkezli klinik çalışmada
+değerlendirilmiştir. İki çalışmada haftada 3 kez doz alımı modeli ve bir çalışmada da günde
+bir kez doz alımı modeli kullanılmıştır. Toplam 107 hasta ZEMPLAR® yumuşak kapsül ve
+113 hasta plasebo almıştır.
+Hiperkalsemi insidansı (ZEMPLAR® 2/106 (%2); plasebo 0/111 (%0)) veya yükselmiş
+kalsiyum fosfor çarpımı (ZEMPLAR® 13/106 (%12); plasebo 7/111 (%6)) oranlarında
+parikalsitol ile tedavi edilen hastalar ve plaseboyla tedavi edilen hastalar arasındaki fark
+istatistiksel olarak anlamlı değildir.
+Parikalsitol ile tedavi edilen hastalarda en sık bildirilen advers reaksiyon, hastaların %2’sinde
+oluşan döküntüdür. Çift-kör, plasebo-kontrollü çalışmalarda advers olaylar nedeniyle tedaviyi
+bırakan hastaların oranı, ZEMPLAR® yumuşak kapsül ile tedavi edilen hastalar için %6 ve
+plaseboyla tedavi edilen hastalar için %4’tür. Bu fark istatistiksel olarak anlamlı değildir.
+Parikalsitol ile ilişkili olması en azından olası olan bütün klinik ve laboratuar advers olayları,
+MedDRA Sistem Organ Sınıfı, Tercihli Terim ve sıklığına göre Tablo 3’te gösterilmektedir.
+Tabloda aşağıdaki sıklık grupları kullanılmıştır; çok yaygın (1/10); yaygın (1/100 ila
+<1/10); yaygın olmayan (1/1,000 ila <1/100); seyrek (1/10,000 ila <1/1,000); çok seyrek
+(<1/10,000), izole raporlar dahil.
+6Tablo 3. Evre 3-4 KBH Klinik Çalışmalarında Bildirilen Advers Reaksiyonlar
+Sistemqaz-Organ Sıklık Tercihli Terim
+Sınıfı
+Bağışıklık Sistem Yaygın olmayan Aşırı duyarlılık (allerjik reaksiyon)
+hastalıkları
+Sinir Sistemi Yaygın olmayan Baş dönmesi
+hastalıkları Yaygın olmayan Tat duyusunda bozukluk
+Gastrointestinal Yaygın olmayan Konstipasyon
+hastalıkları Yaygın olmayan Ağız kuruluğu
+Yaygın Midede huzursuzluk (dispepsi,
+gastrit)
+Deri ve Derialtı Yaygın olmayan Pruritus (kaşıntı)
+Dokusu hastalıkları Yaygın Döküntü
+Yaygın olmayan Ürtiker
+Kas-İskelet ve Bağ Yaygın olmayan Kas spazmları (bacak krampları)
+dokusu hastalıkları
+Araştırmalar Yaygın olmayan Karaciğer enzimlerinde anormallik
+(karaciğer fonksiyon testlerinde
+anormallik)
+Kronik Böbrek Hastalığı Evre 5
+ZEMPLAR® yumuşak kapsül güvenliliği Evre 5 KBH olan 88 hasta üzerinde yürütülen 12
+haftalık, çift-kör, plasebo-kontrollü, çok merkezli bir klinik çalışmada değerlendirilmiştir.
+Çalışma 3 kez haftalık doza göre yapılmıştır. Toplam 61 hasta ZEMPLAR® yumuşak kapsül
+ve 27 hasta plasebo almıştır.
+Hiperkalsemi insidansı (ZEMPLAR® 1/61 (%2); plasebo 0/26 (%0.0)) veya yüksek kalsiyum
+fosfor çarpım değerleri (ZEMPLAR® 6/61 (%10); plasebo 1/26 (%4)) oranlarında parikalsitol
+ile tedavi edilen hastalar ve plaseboyla tedavi edilen hastalar arasındaki fark istatistiksel
+olarak anlamlı değildir.
+Advers olayların tipi ve insidansı açısından ZEMPLAR® yumuşak kapsül ve plasebo arasında
+istatistiksel olarak anlamlı ve klinik olarak önemli farklılıklar bulunmamıştır. Çift-kör,
+plasebo-kontrollü çalışmalarda advers olaylar nedeniyle tedaviyi bırakan hastaların oranı,
+ZEMPLAR® yumuşak kapsül ile tedavi edilen hastalar için %7 ve plaseboyla tedavi edilen
+hastalar için %7’dir.
+Parikalsitol ile ilişkili olması en azından olası olan bütün klinik ve laboratuar advers olayları,
+MedDRA Sistem Organ Sınıfı, Tercihli Terim ve sıklığına göre Tablo 4’te gösterilmektedir.
+Tabloda aşağıdaki sıklık grupları kullanılmıştır; çok yaygın (1/10); yaygın (1/100 ila
+<1/10); yaygın olmayan (1/1,000 ila <1/100); seyrek (1/10,000 ila <1/1,000); çok seyrek
+(<1/10,000), izole raporlar dahil.
+7Tablo 4. Evre 5 KBH Pivotal Faz III Klinik Çalışmasında Bildirilen Advers Reaksiyonlar
+Sistem-Organ Sınıfı Sıklık Tercihli Terim
+Metabolizma ve Beslenme Yaygın İştah azalması (anoreksi)
+hastalıkları Yaygın Hiperkalsemi
+Yaygın Hipokalsemi
+Sinir Sistemi hastalıkları Yaygın Baş dönmesi
+Gastrointestinal hastalıklar Yaygın Diyare
+Yaygın Gastroözofajiyal reflü hastalığı
+(gastrointestinal bozukluk)
+Deri ve Derialtı Dokusu Yaygın Akne
+hastalıkları
+Üreme Sistemi ve Meme Yaygın Memelerde hassasiyet (meme ağrısı)
+hastalıkları
+Aşağıda sunulan advers reaksiyonlar, Zemplar® enjeksiyonluk çözelti ile klinik çalışmalarda
+ve pazarlama sonrası deneyimlerde elde edilen ve ayrıca Zemplar Kapsül ile pazarlama
+sonrası klinik çalımalarda görülmüştür:
+Sistem Organ Sınıfı Sıklık Tercih Edilen Terim
+Enfeksiyonlar ve Yaygın olmayan Pnömoni, influenza, sepsis,
+enfestasyonlar enfeksiyon, farenjit, vajinal
+enfeksiyon
+İyi huylu ve kötü huylu Yaygın olmayan Meme kanseri
+neoplazmalar (kist ve
+polipler dahil)
+Kan ve lenf sistemi Yaygın olmayan Anemi, lökopeni, lenfadenopati,
+hastalıkları
+Bağışıklık sistemi Yaygın olmayan Aşırı duyarlılık
+hastalıkları Bilinmiyor Larenjial ödem, anjiyoödem, ürtiker
+Endokrin hastalıkları Yaygın Hipoparatiroidizm
+Yaygın olmayan Hiperparatiroidizm
+Metabolizma ve beslenme Yaygın Hiperkalsemi, hiperfosfatemi
+hastalıkları Yaygın olmayan Hipokalsemi, hiperkalemi, anoreksi
+Psikiyatrik hastalıkları Yaygın olmayan Deliryum, konfüzyon, ajitasyon,
+insomni, sinirlilik,
+depersonalizasyon
+Sinir sistemi hastalıkları Yaygın Disgözi, baş ağrısı
+Yaygın olmayan Koma, serebrovasküler kaza, geçici
+iskemik atak, senkop, myoklonus,
+sersemlik hissi, hipoestezi, parestezi
+Göz hastalıkları Yaygın olmayan Konjonktivit, glokom
+Kulak ve iç kulak Yaygın olmayan Kulak hastalıkları
+hastalıkları
+Kardiyak hastalıkları Yaygın olmayan Kalp durması, atriyal flatter, aritmi
+Vasküler hastalıkları Yaygın olmayan Hipotansiyon, hipertansiyon
+Solunum, göğüs Yaygın olmayan Pulmoner ödem, astım, dispne,
+bozuklukları ve mediastinal burun kanaması, öksürük
+8hastalıkları
+Gastrointestinal hastalıkları Yaygın olmayan Rektal kanama, kolit, diyare, gastrit,
+dispepsi, disfaji, konstipasyon,
+bulantı, kusma, abdominal ağrı, ağız
+kuruluğu, gastrointestinal bozukluk
+Bilinmiyor Gastrointestinal kanama
+Deri ve Derialtı Doku Yaygın Pruritus
+Hastalıkları Yaygın olmayan Büloz dermatit, alopesi, hirsutizm,
+döküntü, hiperhidroz
+Kas-iskelet bozuklukları, Yaygın olmayan Artralji, eklem sertliği, sırt ağrısı,
+bağ doku ve kemik kas çekilmesi, miyalji
+hastalıkları
+Üreme sistemi ve meme Yaygın olmayan Erektil disfonksiyon, meme ağrısı,
+hastalıkları
+Genel bozukluklar ve Yaygın olmayan Yürüme güçlüğü, ödem, periferal
+uygulama bölgesine ilişkin ödem, ağrı, enjeksiyon bölgesinde
+hastalıkları ağrı, ateş, göğüs ağrısı, asteni,
+halsizlik, ağırlaşan durum, susuzluk
+Araştırmalar Yaygın olmayan Uzamış kanama süresi, artmış
+aspartat aminotransferaz, anormal
+laboratuvar testleri, kiloda azalma
+Yaygın olmayan kan kreatinin değerlerinde artış
+Yaygın Kalsiyum fosfor çarpımında artış
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir (www.titck.gov.tr; e-
+posta: tufam@titck.gov.tr; tel: 0 800 314 00 08; faks: 0312 218 35 99)
+4.9 Doz aşımı ve tedavisi
+Aşırı ZEMPLAR® alımı hiperkalsemi, hiperkalsiüri, hiperfosfatemi ve paratiroid hormonun
+aşırı baskılanmasına neden olabilir. ZEMPLAR® ile birlikte yüksek kalsiyum ve fosfat alımı
+benzer anormalliklere yol açabilir.
+ZEMPLAR®’ın kaza ile alınan akut aşırı dozunun tedavisi, genel destekleyici önlemler
+içermelidir. İlacın nispeten kısa bir süre önce alındığı anlaşılırsa, kusmanın uyarılması veya
+gastrik lavaj daha fazla absorpsiyonu önlemek için faydalı olabilir. İlaç mideyi geçmişse,
+mineral yağ verilmesi, ilacın dışkıyla atılmasını teşvik edebilir. Seri olarak yapılan serum
+elektrolit tayinleri (özellikle kalsiyum), üriner kalsiyum atılım hızı ve hiperkalsemiye bağlı
+elektrokardiyografik anormallikler değerlendirilmelidir. Bu monitörizasyonlar, dijital almakta
+olan hastalarda kritik bir öneme sahiptir. Kaza ile alınan aşırı dozda kalsiyum desteğinin
+kesilmesi ve düşük kalsiyumlu bir diyet uygulanması da gerekir. Parikalsitolün oldukça kısa
+9farmakolojik etki süresi nedeniyle, daha fazla önlem alınmasına muhtemelen gerek yoktur.
+Şiddetli hiperkalsemi tedavisi için fosfatlar ve kortikosteroidler gibi ilaçların kullanılmasının
+yanı sıra diürezi indükleyen uygun önlemler alınabilir.
+Hiperkalsemi ile ilişkili vitamin D entoksikasyonunun semptom ve belirtileri şu şekildedir:
+Erken: Güçsüzlük, baş ağrısı, somnolans, bulantı, kusma, ağız kuruluğu, konstipasyon, kas
+ağrısı, kemik ağrısı ve metalik tat.
+Geç: Anoreksi, kilo kaybı, konjuktivit (kalsifik), pankreatit, fotofobi, rinore, pruritus,
+hipertermi, libido azalması, BUN artması, hiperkolesterolemi, AST ve ALT artması, ektopik
+kalsifikasyon, hipertansiyon, kardiyak aritmi, somnolans, nadiren ölüm, belirgin psikoz.
+Serum kalsiyum seviyeleri normokalsemiye ulaşana dek düzenli olarak izlenmelidir.
+Parikalsitol, diyaliz ile önemli oranda uzaklaştırılmaz.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1 Farmakodinamik özellikler
+Farmakoterapötik grup: Diğer Anti-Paratiroid İlaçlar
+ATC kodu: HO5BX02
+Farmakodinamik özellikler
+Parikalsitol, kalsitriolün yan zincirindeki (D ) ve A (19-nor) halkasındaki değişimlerle selektif
+2
+D vitamini reseptörü (VDR) aktivasyonu yapan, sentetik biyolojik olarak aktif bir D vitamini
+analoğudur. Parikalsitol, paratiroid bezlerdeki VDR’yi; barsaklardaki VDR’yi artırmadan
+selektif olarak upregüle eder. Kemik rezorpsiyonu üzerinde ise daha az etkilidir. Parikalsitol
+aynı zamanda paratiroid bezlerdeki kalsiyuma duyarlı reseptörü de upregüle eder. Sonuç
+olarak, parikalsitol, paratiroid proliferasyonunu inhibe ederek ve PTH (paratiroid hormon)
+sentezi ve sekresyonunu azaltarak, kalsiyum ve fosfor düzeyleri üzerinde minimal bir etkiyle
+PTH düzeylerini düşürür. Parikalsitol, kemik hacmini sürdürmek ve mineralizasyon
+düzeylerini artırmak için kemik hücreleri üzerinde doğrudan etki gösterebilir. Kalsiyum ve
+fosfor homeostazının normalizasyonuyla, anormal PTH düzeylerini düzelterek, kronik böbrek
+hastalığıyla bağlantılı metabolik kemik hastalığını önleyebilir veya tedavi edebilir.
+Klinik etkililik
+Kronik Böbrek Hastalığı Evre 3 ve 4
+ZEMPLAR® ile tedavi edilen hastaların %91’inde ve plasebo hastalarının %13’ünde bazal
+noktasına ulaşılmıştır (p<0.001).
+Serumdaki kemiğe özel alkalin fosfataz ve serum osteokalsin düzeyleri, plaseboyla
+karşılaştırıldığında, ZEMPLAR® ile tedavi edilen hastalarda anlamlı ölçüde azalmıştır
+(p<0.001). Bu azalma, sekonder hiperparatiroidizme bağlı yüksek kemik döngüsündeki
+düzelme ile bağlantılıdır.
+10Plasebo ile tedavi edilen hastalarla karşılaştırıldığında ZEMPLAR® ile tedavi edilen
+hastalarda böbrek fonksiyon parametreleri olan tahmini glomerül filtrasyon hızı (MDRD
+formülüyle) ve serum kreatininde bir bozulma olmamıştır. Plasebo ile tedavi edilen hastalarla
+karşılaştırıldığında ZEMPLAR® grubunda yarı-kantitatif dipstikle ölçülen üriner proteinde
+azalma görülen hasta sayısı anlamlı ölçüde daha fazla sayıdadır.
+Kronik Böbrek Hastalığı Evre 5
+ZEMPLAR® ile tedavi edilen hastaların %88’inde ve plasebo hastalarının %13’ünde
+başlangıç düzeyi iPTH’e göre en az iki ardışık ≥ %30’luk azalma olarak tanımlanan primer
+etkinlik son noktasına ulaşılmıştır (p < 0.001).
+5.2 Farmakokinetik özellikler
+Genel özellikler
+Emilim:
+Parikalsitol iyi absorbe edilir. Sağlıklı bireylerde, oral yoldan 0.24 mcg/kg dozunda
+parikalsitol uygulamasını takiben, ortalama mutlak biyoyararlanım yaklaşık olarak %72
+olmuştur. Maksimum plazma konsantrasyonu (C ) 0.630 ng/mL, C zamanı (T ) 3
+maks maks maks
+saat ve konsantrasyon zaman eğrisi altında kalan alan (EAA ) 5.25 ngsaat/mL‘dir.
+0-
+Hemodiyaliz ve periton diyalizi hastalarında parikalsitolün ortalama mutlak biyoyararlanımı,
+sırasıyla %79 ve %86’dır ve bu değerlerin %95 güven aralıklarının üst sınırları, sırasıyla %93
+ve %112’dir.
+Sağlıklı bireylerde besin etkileşiminin araştırıldığı bir çalışmada, yağ oranı yüksek bir
+yemekle birlikte parikalsitol verilmesiyle, C ve EAA değerlerinin açlıkta uygulamaya
+maks 0-∞
+kıyasla değişmediği gösterilmiştir. Bu nedenle, ZEMPLAR® yemeklerden bağımsız olarak
+alınabilir.
+Dağılım:
+Parikalsitol plazma proteinlerine yaygın biçimde (> %99) bağlanır. Kan parikalsitol
+konsantrasyonunun, plazma parikalsitol konsantrasyonuna oranının 0.01 - 10 ng/mL
+konsantrasyon aralığında ortalama 0.54 olması, çok az miktarda ilacın kanın şekilli
+elemanlarıyla bağlantılı olduğunu göstermektedir. Sağlıklı bireylerde 0.24 mcg/kg parikalsitol
+dozunu takiben ortalama sanal dağılım hacmi 34 litredir. KBH Evre 3 hastalarında 4 mcg
+parikalsitol dozu ve KBH Evre 4 hastalarında 3 mcg parikalsitol dozunu takiben ortalama
+sanal dağılım hacmi 44 L ve 46 L arasındadır.
+Biyotransformasyon:
+3H-parikalsitolün, 0.48 mcg/kg dozunun oral yoldan uygulanmasından sonra, ana ilaç yaygın
+biçimde metabolize edilir ve dozun yalnızca %2 kadarı değişmeden dışkıyla atılır, idrarda ana
+ilaç bulunmaz. Radyoaktivitenin yaklaşık %70’i dışkıda elimine edilir ve %18’i idrardan elde
+edilir. Sistemik maruziyetin çoğu ana ilaca bağlıdır. İnsan plazmasında parikalsitol ile ilgili
+olarak iki minör metabolit saptanmıştır. Metabolitlerden biri 24(R)-hidroksi parikalsitol
+olarak belirlenmiş olup, diğeri ise belirlenmemiştir. 24(R)-hidroksi parikalsitol, in vivo sıçan
+PTH süpresyonu modelinde daha az aktif bulunmuştur.
+İn vitro veriler, parikalsitolün mitokondriyal CYP24 ve aynı zamanda CYP3A4 ve UGT1A4
+dahil multipl hepatik ve hepatik olmayan enzimler tarafından metabolize edildiğini
+11düşündürmektedir. Belirlenen metabolitler 24(R)-hidroksilasyon ürününü ve ayrıca 24,26- ve
+24,28-dihidroksilasyon ve direkt glukuronidasyon ürünlerini içermektedir.
+Eliminasyon:
+Parikalsitol primer olarak hepatobilier ekskresyon ile elimine edilir. Sağlıklı bireylerde
+parikalsitolün ortalama eliminasyon yarı ömrü, araştırılan 0.06 - 0.48 mcg/kg doz aralığında 5
+ile 7 saattir. Birikimin derecesi, yarı ömür ve doz uygulama sıklığıyla uyumludur.
+Hemodiyaliz işleminin parikalsitol eliminasyonu üzerinde esasen bir etkisi yoktur.
+Doğrusallık/Doğrusal Olmayan Durum:
+Parikalsitolün C ve EAA değerleri sağlıklı bireylerde 0.06-0.48 mcg/kg doz aralığında
+maks 0-∞
+orantılı olarak artmaktadır. Günlük veya haftada üç defa verilen çoklu dozları takiben, sağlık
+bireylerde kararlı duruma yedi gün içinde ulaşılmış ve zaman içinde bu sabit kalmıştır. İlave
+olarak çoklu dozu takiben (KBH Evre 4 hastalarında günde bir kez olduğu üzere) açığa çıkma
+(EAA), tek doz kullanımı sonrası elde edilenden biraz daha azdır.
+Hastalardaki karakteristik özellikler
+Geriyatride Kullanımı:
+Parikalsitolün farmakokinetiği 65 yaşından büyük hastalarda araştırılmamıştır.
+Pediyatride Kullanımı:
+Parikalsitolün farmakokinetiği 18 yaşından küçük hastalarda araştırılmamıştır.
+Cinsiyet:
+Tek dozu takiben parikalsitolün 0.06 - 0.48 mcg/kg doz aralığındaki farmakokinetiği
+cinsiyetten bağımsızdır.
+Karaciğer Yetmezliği:
+İntravenöz uygulama sonrasında parikalsitolün (0.24 mcg/kg) farmakokinetik özellikleri
+hepatik fonksiyonu normal olan bireyler (n = 10) ile (Child-Pugh yöntemine göre) hafif (n =
+5) ve orta dereceli (n = 5) hepatik yetmezliği olan hastalar arasında karşılaştırılmıştır.
+Bağlanmamış parikalsitolün farmakokinetiği bu çalışmada değerlendirilen karaciğer
+fonksiyon aralığı boyunca benzer niteliktedir. Hafif ve orta dereceli karaciğer yetmezliği olan
+hastalarda dozun ayarlanmasına gerek yoktur. Şiddetli karaciğer yetmezliğinin parikalsitol
+farmakokinetiği üzerindeki etkisi değerlendirilmemiştir.
+Böbrek Yetmezliği:
+Tek doz uygulamayı takiben parikalsitol farmakokinetiği Evre 3 kronik böbrek hastalığı
+(KBH) veya orta dereceli böbrek yetmezliği olan (n = 15, GFR = 36.9 - 59.1 mL/dk/1.73 m2),
+Evre 4 KBH veya şiddetli böbrek yetmezliği olan (n = 14, GFR = 13.1 - 29.4 mL/dk/1.73
+m2), ve Evre 5 KBH veya terminal böbrek hastalığı [n = 14 hemodiyalizde (HD) ve n = 8
+periton diyalizinde (PD)] olan hastalarda karakterize edilmiştir. Endojen 1,25(OH) D ’e
+2 3
+benzer biçimde, oral alımı takiben parikalsitol farmakokinetiği, böbrek yetmezliğinden Tablo
+9’da gösterildiği şekilde anlamlı ölçüde etkilenmiştir. Sağlıklı bireylerle karşılaştırıldığında,
+Evre 3, 4 ve 5 KBH hastalarında KL/F azalması ve yarı-ömürde artış görülmüştür.
+Tablo 9. Sağlıklı Bireyler karşısında Renal Yetmezliğin Farklı Evrelerinde Ortalama ± SD
+Farmakokinetik Parametrelerin Karşılaştırılması
+Farmakokinetik Sağlıklı KBH Evre 3 KBH Evre 4 KBH Evre 5
+12Parametre Bireyler HD PD
+n 25 15 14 14 8
+Doz (mcg/kg) 0.240 0.047 0.036 0.240 0.240
+KL/F (L/saat) 3.6 ± 1.0 1.8 ± 0.5 1.5 ± 0.4 1.8 ± 0.8 1.8 ± 0.8
+t (saat) 5.9 ± 2.8 16.8 ± 2.6 19.7 ± 7.2 13.9 ± 5.1 17.7 ± 9.6
+½
+f * (%) 0.06 ± 0.01 0.06 ± 0.01 0.07 ± 0.02 0.09 ± 0.04 0.13 ± 0.08
+u
+* 15 nM parikalsitol konsantrasyonunda ölçülmüştür.
+ZEMPLAR® alımını takiben, parikalsitolün KBH Evre 3–5 için farmakokinetik profili
+kıyaslanabilir niteliktedir. Bu nedenle, önerilenler dışında özel doz ayarlamalarına gerek
+yoktur (bkz. Bölüm 4.2).
+5.3 Klinik öncesi güvenlilik verileri
+Kemirgen ve köpeklerdeki doz tekrarlı toksikoloji çalışmalarındaki belli başlı bulgular
+genellikle parikalsitolün kalsemik aktivitesine atfedilmekteydi. Hiperkalsemi ile tam olarak
+ilişkili olmayan etkiler arasında, köpeklerde düşük akyuvar sayımları ve timik atrofi, ayrıca
+APTT değerlerinde bozulmalar (köpeklerde yüksek, sıçanlarda düşük) bulunmaktadır.
+Parikalsitolün klinik çalışmalarında beyaz kan hücrelerinde değişiklikler saptanmamıştır.
+Parikalsitol sıçanlarda fertiliteyi etkilememiştir ve sıçanlarda veya tavşanlarda teratojenik
+aktivite kanıtı bulunmamıştır. Hayvanlarda gebelik süresince uygulanan diğer vitamin D
+preparatlarının yüksek dozları teratojenize yol açmıştır. Parikalsitol, maternal toksik dozlarda
+alındığında fetal yaşanabilirliği etkilemektedir ve yeni doğan sıçanlarda peri-natal ve post-
+natal mortalitede belirgin bir artışa neden olmaktadır.
+Parikalsitol, bir takım in-vivo ve in-vitro genotoksisite miktar tayininde genotoksik potansiyel
+göstermemiştir.
+Kemirgenlerdeki karsinogenez çalışmaları insanlardaki kullanıma ilişkin özel bir risk
+göstermemiştir.
+Parikalsitol uygulanan dozlar ve/veya parikalsitole sistemik maruziyet, terapötik
+dozlar/sistemik maruziyetten biraz daha fazlaydı.
+6. FARMASÖTİK ÖZELLİKLER
+6.1. Yardımcı maddelerin listesi
+Orta zincirli trigliseritler
+Etanol
+Butilhidroksitoluen
+Jelatin
+Gliserol
+Saf su
+Titanyum dioksit (E171)
+Kırmızı demir oksit (E172)
+Sarı demir oksit (E172)
+Propilen glikol
+13Siyah demir oksit (E172)
+Polivinil asetat fitalat
+Polietilen glikol 400
+Amonyum hidroksit
+6.2 Geçimsizlikler
+Bulunmamaktadır.
+6.3 Raf ömrü
+24 ay.
+6.4 Saklamaya yönelik özel tedbirler
+250C’nin altında oda sıcaklığında saklayınız.
+6.5 Ambalajın niteliği ve içeriği
+28 kapsüllük PVC/floropolimer blister ambalajlarda. Her blister şeridinde 7 kapsül, her
+kutuda ise 4 blister şeridi bulunur.
+6.6 Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+Kullanılmamış olan ürünler ya da atık materyaller ‘Tıbbi Atıkların Kontrolü Yönetmeliği’ ve
+‘Ambalaj ve Ambalaj Atıklarının Kontrolü Yönetmelik’lerine uygun olarak imha edilmelidir.
+7. RUHSAT SAHİBİ
+Abbvie Tıbbi İlaçlar San. ve Tic. Ltd. Şti.
+Saray Mah., Dr Adnan Büyükdeniz Cad.,
+No .2 Kelif Plaza , Kat 12 -10,
+34768 Ümraniye – İstanbul
+Tel : 0216 636 06 00
+Faks : 0216 425 09 69
+8. RUHSAT NUMARASI
+134/19
+9. İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi: 21.09.2012
+Ruhsat yenileme tarihi:
+10. KÜB’ÜN YENİLENME TARİHİ
+14-
+15

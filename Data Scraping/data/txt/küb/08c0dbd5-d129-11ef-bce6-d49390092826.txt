@@ -1,0 +1,1215 @@
+Bu ilaç ek izlemeye tabidir. Bu üçgen yeni güvenlilik bilgisinin hızlı olarak belirlenmesini
+sağlayacaktır. Sağlık mesleği mensuplarının şüpheli advers reaksiyonları TÜFAM’a
+bildirmeleri beklenmektedir. Bakınız Bölüm 4.8 Advers reaksiyonlar nasıl raporlanır?”
+KISA ÜRÜN BİLGİSİ
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+REDDİTUX 100 mg/10 mL İnfüzyonluk Çözelti Hazırlamak İçin Konsantre
+Steril
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde:
+Her bir flakon 10 mL’lik çözelti içinde 100 mg Rituximab içerir.
+Çözeltinin her ml’sinde 10 mg Rituximab bulunur.
+Rituximab insan IgG1 sabit bölgeleri ve sırasıyla değişken mürin hafif zincir ve ağır zincir
+içeren bir glikozile immünoglobulin sunan, genetik mühendisliği ile üretilen kimerik
+fare/insan monoklonal antikorudur. Antikor, memelilerin (Çin hamster over hücresi) hücre
+süspansiyon kültüründe üretilir ve viral aktivasyon ve çıkarma prosedürlerini içerecek şekilde
+afinite kromotografisi ve iyon değiştirme ile saflaştırılan bir biyobenzerdir.
+Yardımcı maddeler:
+Sodyum sitrat dihidrat 7.35 mg/mL
+Sodyum klorür 9 mg/mL
+Yardımcı maddeler için 6.1’e bakınız.
+3. FARMASÖTİK FORM
+İnfüzyon için konsantre çözelti.
+Çözelti berrak, renksiz sıvıdır.
+4. KLİNİK BİLGİLER
+4.1. Terapötik endikasyonlar
+Hodgkin-dışı Lenfoma (NHL)
+REDDİTUX’un,
+− Nükseden veya kemorezistan CD20 pozitif foliküler lenfoma, difüz B, hücreli
+lenfoma, mantle hücreli lenfoma tanılı hastaların tedavisinde
+− Daha önceden tedavi edilmemiş evre III-IV foliküler lenfomalı hastaların tedavisinde
+kemoterapi ile kombinasyon halinde
+− İndüksiyon tedavisine yanıt veren foliküler lenfoma hastalarının idame tedavisi olarak
+(en fazla 2 yıl süreyle ve en fazla 8 kür olarak)
+Sayfa 1/30− CD20 pozitif, difüz büyük B hücreli Hodgkin dışı lenfoma hastalarında CHOP
+(siklofosfamid, doksurubisin, vinkristin, prednisolon) kemoterapi şemasına ek olarak
+kullanımı endikedir.
+Kronik lenfositik lösemi (KLL)
+Birinci basamak:
+REDDİTUX, tedavi endikasyonu olan, performans durumu iyi olan (ECOG 0-1), 17 p
+delesyonu bulunmayan KLL hastalarının birinci basamak tedavisinde fludarabin ve
+siklofosfamid ile kombine olarak kullanılır.
+Relaps/Refrakter (Nükseden/Dirençli):
+Relaps/refrakter, tedavi endikasyonu olan, daha önce fludarabin ve alkilleyici ajanlarlar tedavi
+sonrası preogresyon gelişmiş, 65 yaş ve altı, ECOG performans statüsü 0-1 olan, 17p
+delesyonu bulunmayan, kronik lenfositer lösemi hastalarında, fludarabin ve siklofosfamid ile
+kombine olarak 4 kür rituximab kullanılması uygundur.
+İlk kürde 375 mg/m2, diğer kürlerde 500 mg/m2 kullanılabilir; 4 kür sonunda en az kısmi yanıt
+alınması halinde, 2 kür daha verilerek tedavi 6 küre tamamlanabilir.
+4.2 Pozoloji ve uygulama şekli
+Pozoloji
+Non-hodgkin lenfoma:
+Düşük-evreli veya foliküler Hodgkin-dışı lenfoma
+Kombinasyon: Herhangi bir kemoterapi ile kombinasyon halinde önerilen REDDİTUX dozu,
+her kürde 375 mg/m2 vücut yüzey alanı olacak şekilde toplam:
+− R-CVP (rituximab-siklofosfamid, vinkristin, prednison veya prednisolon) ile birlikte 8
+kür (21 gün/kür)
+− R-MCP (rituximab-mitoksantron, siklofosfamid, prednison veya prednisolon) ile
+birlikte 8 kür (28 gün/kür)
+− R-CHOP (rituximab-siklofosfamid, hidroksidoksorubisin, onkovin, prednison veya
+prednisolon) ile birlikte 8 kür (21 gün/kür); 4 kür sonunda tam remisyon elde edildiyse
+6 kür kullanılır
+− R-CHVP (rituximab-siklofosfamid, hidroksidoksorubisin, etoposid, prednison veya
+prednisolon) İnterferon ile 6 kür (21 gün/kür)
+Eğer uygulanabilirse, REDDİTUX, kemoterapinin glukokortikoid bileşeninin i.v. yolla
+verilmesinden sonra her bir kemoterapi kürünün ilk gününde uygulanmalıdır.
+İdame tedavisi
+Önceden tedavi edilmemiş foliküler lenfoma
+İndüksiyon tedavisine yanıt vermiş olan hastalar, hastalık ilerleyene kadar ya da maksimum
+iki yıl süresince, üç ayda bir 375 mg/m2 vücut yüzey alanı dozunda verilen REDDİTUX ile
+(en çok 8 kür olarak) idame tedavisi görebilir.
+Relaps/refrakter (Nükseden/dirençli) foliküler lenfoma
+Sayfa 2/30İndüksiyon tedavisine yanıt vermiş olan relaps/refrakter foliküler lenfoma hastalarının idame
+tedavisi olarak kullanılacak REDDİTUX'un tavsiye edilen dozu: Hastalık ilerleyene kadar
+veya maksimum 2 yıllık bir süre için her 3 ayda bir (indüksiyon tedavisinin son dozundan 3
+ay sonra başlayarak) 375 mg/m2’dir.
+Monoterapi
+Relaps/Refrakter (Nükseden/Dirençli) foliküler lenfoma
+Evre III-IV foliküler lenfoma olan, kemoterapiye dirençli veya kemoterapiden sonra ikinci
+kez veya daha fazla nüks oluşan erişkin hastalar için indüksiyon tedavisi olarak kullanılan
+REDDİTUX monoterapisinin önerilen dozu: 4 hafta süreyle haftada bir kere i.v. infüzyon
+yoluyla verilen 375 mg/m2 vücut yüzey alanıdır.
+Nüks eden/refrakter foliküler lenfoma için REDDİTUX monoterapisi ile geçmiş tedaviye
+yanıt veren hastalarda REDDİTUX monoterapisiyle yeniden tedavi için önerilen doz: 4 hafta
+süreyle haftada bir kere i.v. infüzyon yoluyla verilen 375 mg/m2 vücut yüzey alanıdır (bkz.
+Bölüm 5.1 Farmakodinamik özellikler).
+Difüz büyük B hücreli Hodgkin-dışı lenfoma
+REDDİTUX, CHOP (siklofosfamid, doksorubisin, prednison ve vinkristin) kemoterapisi ile
+kombinasyon şeklinde kullanılmalıdır. Önerilen REDDİTUX dozu, her kemoterapi kürünün
+1. gününde, 8 kür için, CHOP rejiminin glukokortikoid bileşeni i.v. yoldan uygulandıktan
+sonra verilmek üzere, 375 mg/m2 vücut yüzey alanıdır. CHOP rejiminin öteki bileşenleri,
+REDDİTUX uygulandıktan sonra verilmelidir (bkz. İlk infüzyon ve izleyen infüzyonlar).
+Tedavi sırasında doz ayarlamaları
+REDDİTUX dozunda herhangi bir azaltma önerilmemektedir. REDDİTUX, kemoterapi ile
+kombine halde uygulandığında, kemoterapötik ilaçlar için geçerli standart doz azaltmaları
+yapılmalıdır.
+Kronik lenfositik lösemi (KLL):
+KLL hastaları için, tümör lizis sendromu (TLS) riskini azaltmak amacıyla tedavi
+başlangıcından 48 saat öncesinde yeterli hidrasyon ve ürikostatik uygulanmaya başlanması ile
+profilaksi önerilmektedir. Lenfosit sayıları > 25 x 109/L olan KLL hastalarında akut infüzyon
+reaksiyonları ve/veya sitokin salıverilme sendromunun oranını ve ciddiyetini azaltmak
+amacıyla, REDDİTUX infüzyonundan kısa süre önce 100 mg i.v. prednison/prednisolon
+uygulanması önerilmektedir.
+Daha önce tedavi edilmemiş ve relaps/refrakter hastalar için kemoterapiyle kombinasyon
+halinde önerilen REDDİTUX dozu, toplam 6 kür olmak üzere, ilk tedavi kürünün 0. gününde
+uygulanan 375 mg/m2 vücut yüzey alanı ve sonrasındaki her kürün 1. gününde uygulanan 500
+mg/m2 vücut yüzey alanıdır (bkz. Bölüm 5.1 Farmakodinamik özellikler). Kemoterapi
+REDDİTUX infüzyonundan sonra verilmelidir.
+Uygulama şekli:
+REDDİTUX, sadece ona ayrılmış damar yoluyla, tek başına intravenöz infüzyon olarak
+uygulanmalıdır. REDDİTUX, deneyimli bir uzman hekim tarafından yakın gözetim
+altında resüsitasyon önlemlerinin olduğu bir sağlık kuruluşunda uygulanmalıdır.
+Sayfa 3/30Hazırlanmış infüzyon solüsyonlarını i.v. puşe veya bolus yoluyla uygulamayınız (bkz.
+Bölüm 6.6 Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler).
+Hodgkin-dışı lenfoma ve kronik lenfositik lösemili hastalarda REDDİTUX glukokortikoid
+içeren kemoterapi ile kombinasyon halinde verilmiyorsa, glukokortikoidlerle premedikasyon
+göz önünde bulundurulmalıdır.
+Her REDDİTUX infüzyonundan önce analjezik/antipiretik (örn. Parasetamol) ve
+antihistaminik ilaçtan (örn. Difenhidramin) oluşan bir premedikasyon her zaman yapılmalıdır.
+REDDİTUX Hodgkin dışı lenfoma ve kronik lenfositik lösemi hastalarında glukokortikoid
+içeren kemoterapiyle birlikte uygulanmıyorsa, glukokortikoidlerle yapılan premedikasyon
+tedavisi değerlendirilmelidir.
+İnfüzyon ilişkili reaksiyonların sıklığını ve ciddiyetini azaltmak için her REDDİTUX
+infüzyonundan 30 dakika önce tamamlanacak şekilde 100 mg i.v. metilprednisolon
+uygulanmalıdır.
+Hastalar, sitokin salınma sendromu başlangıcı açısından yakından izlenmelidir (bkz. Bölüm
+4.4 Özel kullanım uyarıları ve önlemleri). Özellikle şiddetli dispne, bronkospazm veya
+hipoksi şeklinde şiddetli reaksiyon belirtileri gelişen hastalarda, infüzyon derhal
+durdurulmalıdır. Hodgkin dışı lenfomalı hastalar daha sonra, uygun laboratuvar testleri ile
+tümör lizis sendromu belirtileri açısından ve göğüs röntgeni ile pulmoner infiltrasyon
+açısından değerlendirilmelidir. Semptomlar tamamen düzelene kadar ve laboratuvar
+değerleriyle göğüs röntgeni bulguları normalleşene dek tüm hastalarda infüzyona tekrar
+başlanmamalıdır. Ayrıca infüzyona başlangıç olarak daha önce uygulananın en çok yarısı
+kadar bir hızda yeniden başlanmalıdır. Aynı şiddetli advers reaksiyonlar ikinci kez meydana
+gelirse, tedavinin durdurulması yönünde bir karar vaka bazında ciddi olarak düşünülmelidir.
+Hafif veya orta dereceli infüzyonla ilişkili reaksiyonlar (IRR) (bkz. Bölüm 4.8 İstenmeyen
+etkiler) genellikle infüzyon hızının azaltılmasına yanıt vermektedir. Semptomlar düzeldikten
+sonra infüzyon hızı arttırılabilir.
+İlk infüzyon
+Önerilen ilk infüzyon hızı 50 mg/saattir; ilk 30 dakikadan sonra her 30 dakikada bir yapılacak
+50 mg/saatlik artışlarla maksimum 400 mg/saate kadar arttırılabilir.
+İzleyen infüzyonlar
+Sonraki REDDİTUX infüzyonlarına 100 mg/saat hızıyla başlanabilir ve daha sonra her 30
+dakikada bir 100 mg/saatlik artışlarla oran maksimum 400 mg/saate çıkarılabilir.
+Özel popülasyonlara ilişkin ek bilgiler:
+Böbrek/Karaciğer yetmezliği:
+Böbrek/ karaciğer yetmezliği olan hastalarda özel bir kullanım söz konusu değildir.
+Pediyatrik popülasyon ve adolesanlar:
+Çocuklarda ve adolesanlarda (18 yaş altı) kullanımı önerilmez.
+Sayfa 4/30Geriyatrik popülasyon:
+Yaşlı hastalar (65 yaş ve üzeri) için herhangi bir doz ayarlaması gerekli değildir.
+4.3. Kontrendikasyonlar
+REDDİTUX’un Hodgkin-dışı lenfoma ve kronik lenfositik lösemide kullanım için
+kontrendike olduğu durumlar:
+• Etkin maddeye, veya ürünün içindeki yardımcı maddelerden herhangi birine veya
+murin proteinlerine aşırı duyarlılık
+• Aktif, ciddi enfeksiyonlar (bkz. Bölüm 4.4 Özel kullanım uyarıları ve önlemleri)
+• İmmün sistemi ciddi şekilde baskılanmış olan hastalar.
+4.4. Özel kullanım uyarıları ve önlemleri
+UYARILAR
+Ölümcül İnfüzyon Reaksiyonları
+REDDİTUX infüzyonları ciddi, ölümcül olabilen infüzyon reaksiyonları ile
+sonuçlanabilir. REDDİTUX infüzyonu sonrasındaki 24 saat içinde ölüm vakaları
+görülmüştür. Ölümcül infüzyon reaksiyonlarının yaklaşık % 80’i ilk infüzyonla ilişkili
+olarak görülmüştür. İnfüzyon sırasında hastaları dikkatlice gözlemleyiniz. Evre 3 veya
+4 infüzyon reaksiyonları gelişirse REDDİTUX infüzyonunu kesiniz ve tıbbi tedavi
+uygulayınız (bkz. Bölüm 4.4 Özel kullanım uyarıları ve önlemleri, 4.8 İstenmeyen
+etkiler).
+Tümör Lizis Sendromu (TLS)
+Hodgkin dışı lenfoma (NHL) hastalarının REDDİTUX tedavisi sonrasında, TLS
+sonucu, diyaliz gerektiren ve ölümle sonuçlanan akut renal yetmezlik görülebilir.
+Ciddi Mukokütanöz Reaksiyonlar
+REDDİTUX kullanan hastalarda ölümcül olabilen, ciddi mukokütanöz reaksiyonlar
+meydana gelebilir (bkz. Bölüm 4.4 Özel kullanım uyarıları ve önlemleri, 4.8
+İstenmeyen etkiler).
+Progresif Multifokal Lökoensefalopati (PML)
+REDDİTUX kullanan hastalarda PML ile sonuçlanan John Cunningham (JC) virüsü
+aktivasyonu ve ölüm meydana gelebilir.
+Hepatit B Virüs (HBV) Reaktivasyonu
+REDDİTUX ile tedavi edilen hastalarda fulminan hepatit, hepatik yetmezlik ve ölümle
+sonuçlanabilen hepatit B reaktivasyonu gerçekleşebilir. REDDİTUX tedavisine
+başlamadan önce bütün hastalar HBV enfeksiyonu açısından taranmalı ve tedavi
+süresince ve sonrasında hastalar izlenmelidir. HBV reaktivasyonu gelişen hastalarda
+acilen REDDİTUX ve birlikte kullanılan kemoterapi ilaçları kesilmelidir.
+Sayfa 5/30Progresif multifokal lökoensefalopati
+REDDİTUX’un kullanımı sonrasında çok seyrek ölümcül progresif multifokal
+lökoensefalopati (PML) vakaları bildirilmiştir. PML'e işaret edebilecek belirtileri, yeni veya
+kötüleşen nörolojik semptomları tespit edebilmek için hastalar düzenli aralıklarla izlenmelidir.
+PML’den şüphelenilmesi durumunda, PML dışlanana kadar doz uygulaması askıya
+alınmalıdır. Klinisyen, hastanın semptomlarının nörolojik disfonksiyonu gösterip
+göstermediğine ve nörolojik disfonksiyon varsa, bu semptomların PML'yi düşündürüp
+düşündürmediğine karar vermek için hastayı değerlendirmelidir. Klinik gereklilik nedeniyle,
+bir nörolog tarafından konsültasyon yapılması da dikkate alınmalıdır.
+Herhangi bir şüphe olması durumunda, tercihen kontrastlı MRG, JC Viral DNA için BOS
+testi ve tekrarlı nörolojik değerlendirmeler dahil detaylı muayene dikkate alınmalıdır.
+Hekim, özellikle hastanın fark etmeyebileceği PML semptomları (örn. bilişsel, nörolojik veya
+psikiyatrik semptomlar) açısından dikkatli olmalıdır. Hastanın farkında olmadığı semptomları
+fark edebilmeleri nedeniyle, hastaların ayrıca eşleri ve hastaya bakanlar tedavi konusunda
+bilgilendirilmelidirler.
+Eğer bir hastada PML gelişirse rituximab dozlaması kalıcı olarak durdurulmalıdır.
+PML olan bağışıklığı zayıflamış hastalarda bağışıklık sisteminin yeniden düzenlenmesinin
+ardından stabilizasyon veya sonuçlarda iyileşme olduğu görülmüştür. PML'nin erken
+saptanmasının ve REDDİTUX tedavisinin askıya alınmasının benzer stabilizasyon veya
+sonuçlarda iyileşme sağlayıp sağlamayacağı bilinmemektedir.
+Hodgkin-dışı lenfoma ve kronik lenfositik lösemi
+İnfüzyon kaynaklı reaksiyonlar
+Özellikle şiddetli sitokin salıverilme sendromu açısından yüksek risk altında olabilecek,
+KLL’si olan hastalar gibi yüksek tümör yükü veya dolaşımdan yüksek sayıda malign hücresi
+(≥25 x 109/L) olan hastalar tedavi edilirken son derece dikkat edilmelidir. Bu hastalar ilk
+infüzyonun başından sonuna kadar çok yakından gözlemlenmelidir. Bu hastalarda, ilk
+infüzyon sırasında düşük bir infüzyon hızının kullanılması veya ilk kür sırasında ve lenfosit
+halen >25 x 109/L olması durumunda takip eden kürlerde dozun iki güne bölünerek verilmesi
+göz önünde bulundurulmalıdır.
+Rituximab sitokinlerin ve/veya diğer kimyasal mediyatörlerin salıverilmesine bağlı olabilen
+infüzyonla/uygulamayla ilgili reaksiyonlarla ilişkilendirilmiştir. Sitokin salıverilme sendromu,
+klinik açıdan akut aşırı duyarlılık reaksiyonlarından ayırt edilemeyebilir.
+Sitokin salıverme sendromu, tümör lizis sendromu ve anaflaktik reaksiyonlar ile aşırı
+duyarlılık reaksiyonlarını içeren bu reaksiyonlar aşağıda açıklanmaktadır. Bu reaksiyonlar
+özel olarak rituximabın uygulanma şekliyle ilişkili değildir ve her iki formülasyonla da
+gözlenebilir.
+Rituximab intravenöz formülasyonunun pazarlama sonrası kullanımı sırasında ölümcül
+sonuçlanan şiddetli infüzyonla ilişkili reaksiyonlar bildirilmiş, bu reaksiyonlar ilk rituximab
+i.v. infüzyonuna başlandıktan sonra 30 dakika ila 2 saat içinde başlamıştır. Bu reaksiyonlarda
+Sayfa 6/30tipik şekilde pulmoner olaylar gözlenmiş ve ateş, üşüme, rigor, hipotansiyon, ürtiker,
+anjiyoödem ve diğer semptomlara ek olarak bazı vakalarda hızlı tümör lizisini ve tümör lizis
+sendromunun özelliklerini içermiştir (bkz. Bölüm 4.8).
+Şiddetli sitokin salıverilme sendromu ateş, titreme, kasılma, ürtiker ve anjiyoödeme ek olarak
+sıklıkla bronkospazm ve hipoksinin eşlik ettiği şiddetli dispne ile karakterizedir. Bu sendrom,
+tümör lizis sendromunun hiperürisemi, hiperkalemi, hipokalemi, hiperfosfatemi, akut böbrek
+yetmezliği, laktat dehidrojenaz (LDH) artışı gibi bazı özellikleriyle ilişkili olabilir ve akut
+solunum yetmezliğine ve ölüme yol açabilir. Akut solunum yetmezliğine, göğüs röntgeninde
+görünebilen pulmoner insterstisyel infiltrasyon veya ödem gibi olaylar eşlik edebilir.
+Sendrom, genellikle ilk infüzyonun başlatılmasından sonraki bir ya da iki saat içinde kendini
+gösterir. Geçmişte pulmoner yetmezliği olan hastalar veya pulmoner tümör infiltrasyonu
+bulunan hastalar daha fazla risk altında olabilirler ve bu hastalar daha dikkatli tedavi
+edilmelidirler. Şiddetli sitokin salıverilme sendromu gelişen hastaların infüzyonu derhal
+kesilmelidir (bkz. Bölüm 4.2 Pozoloji ve uygulama şekli) ve bu hastalara agresif semptomatik
+tedavi uygulanmalıdır. Klinik semptomlarda başta görülen iyileşmenin ardından kötüleşme
+olabileceğinden, bu hastalar tümör lizis sendromu ve pulmoner infiltrasyon geçene kadar veya
+dışlanana kadar yakından izlenmelidir. Belirti ve semptomların tamamen ortadan kalkmasının
+ardından hastalara uygulanan tedavi, nadiren şiddetli sitokin salıverilme sendromunun
+tekrarlamasıyla sonuçlanmıştır.
+İnfüzyonla ilişkili tüm advers reaksiyon tipleri, tedavi uygulanan hastaların %77'sinde
+gözlenmiştir (hastaların %10'unda hipotansiyon ve bronkospazmın eşlik ettiği sitokin
+salıverilme sendromu dahil, bkz. Bölüm 4.8 İstenmeyen etkiler). Bu semptomlar genellikle
+REDDİTUX infüzyonunun kesilmesiyle ve bir antipiretik, bir antihistaminik ve bazı
+durumlarda oksijen, intravenöz serum fizyolojik veya bronkodilatörlerin ve gerektiğinde
+glukokortikoidlerin uygulanmasıyla geri döndürülebilir olmuştur. Şiddetli reaksiyonlar için
+yukarıda yer alan sitokin salıverilme sendromuna bakınız.
+Hastalara intravenöz yolla protein verilmesinden sonra anafilaktik reaksiyonlar veya diğer
+aşırı duyarlılık reaksiyonları bildirilmiştir. Sitokin salıverilme sendromunun tersine, gerçek
+aşırı duyarlılık reaksiyonları tipik şekilde infüzyona başlanmasından sonra dakikalar içinde
+oluşur. REDDİTUX uygulması sırasındaki alerjik reaksiyon olgularında acil kullanım, aşırı
+duyarlılık reaksiyonlarının tedavisine yönelik tedaviler örn., epinefrin (adrenalin),
+antihistaminikler ve glukokortikoidler kullanıma hazır bulundurulmalıdır. Anaflaksinin klinik
+belirtileri, sitokin salıverilme sendromunun klinik belirtilerine (yukarıda tanımlanmıştır)
+benzer görünebilir. Aşırı duyarlılığa bağlı reaksiyonlar, sitokin salıverilmesine bağlı
+reaksiyonlarda daha az sıklıkta bildirilmiştir.
+Miyokard enfarktüsü, atriyal fibrilasyon, pulmoner ödem ve akut reversibl trombositopeni
+bazı vakalarda rapor edilen diğer reaksiyonlardır.
+REDDİTUX infüzyonu sırasında hipotansiyon oluşabileceğinden, REDDİTUX
+infüzyonundan önceki 12 saatlik süre boyunca herhangi bir antihipertansif ilacın alınmamış
+olmasına dikkat edilmelidir.
+Kardiyak hastalıklar
+REDDİTUX ile tedavi edilen hastalarda anjina pektoris, atriyal flatter ve fibrilasyon gibi
+kardiyak aritmiler, kalp yetmezliği ve/veya miyokard meydana gelmiştir. Bu nedenle,
+Sayfa 7/30kardiyak hastalık ve/veya kardiyotoksik kemoterapi öyküsü olan hastalar yakından
+izlenmelidir.
+Hematolojik toksisiteler
+Monoterapi şeklinde uygulanan REDDİTUX miyelosupresif olmadığı halde, nötrofil sayısı
+<1.5 x 109/L ve/veya trombosit sayısı <75 x 109/L olan hastalar REDDİTUX ile tedavi
+edilirken dikkatli olunmalıdır, çünkü bu tip hastalarla ilgili deneyimler sınırlıdır.
+REDDİTUX, otolog kemik iliği transplantasyonu olan 21 hastada ve miyelotoksisite
+indüklenmediği halde kemik iliği fonksiyonlarında azalma olan diğer risk gruplarında
+kullanılmıştır.
+REDDİTUX tedavisi sırasında düzenli olarak nötrofil ve trombosit sayımı dahil kan
+hücrelerinin sayımı yapılmalıdır.
+Enfeksiyonlar
+REDDİTUX tedavisi sırasında ölümcül, ciddi enfeksiyonlar meydana gelebilir (bkz. bölüm
+4.8 İstenmeyen etkiler). REDDİTUX aktif, şiddetli enfeksiyonu (örn., tüberküloz, sepsis ve
+fırsatçı enfeksiyonlar, bkz. Bölüm 4.3 Kontrendikasyonlar) bulunan hastalara
+uygulanmamalıdır.
+Doktorlar, tekrarlayan veya kronik enfeksiyon öyküsü bulunan veya hastayı ciddi
+enfeksiyonlara eğilimli hale getirecek şekilde altta yatan koşullara sahip hastalarda rituximab
+kullanırken dikkatli olmalıdırlar (bkz. Bölüm 4.8 İstenmeyen etkiler).
+Rituximab alan olgularda, ölümle sonuçlanan fulminan hepatit de dahil olmak üzere hepatit B
+reaktivasyonu vakaları bildirilmiştir. Bu vakaların büyük çoğunluğu ayrıca sitotoksik
+kemoterapiye maruz kalmıştır. Relaps/refrakter KLL hastalarında yapılan bir çalışmadan elde
+edilen sınırlı veriler, rituximab tedavisinin ayrıca primer hepatit B enfeksiyonlarının sonucunu
+kötüleştirebildiğini göstermektedir.
+Rituximab gibi CD20’ye yönelik sitolitik antikorlar olarak sınıflandırılan ilaçların kullanımı
+ile bağışıklık sistemi zayıflayan hastalardan daha önce HBV enfeksiyonu geçirmiş olanlarda
+HBV reaktivasyonunun gerçekleştiği gözlenmiştir.
+Bu vakaların bazılarında şiddetli hepatit, hepatik yetmezlik ve fulminan hepatit gelişmiş ve
+bazıları ölümle sonuçlanmıştır. Hepatit B yüzey antijeni pozitif (HbsAg+) olanlar ile HbsAg
+negatif (HbsAg-) olup hepatit B kor antikoru pozitif (HbsAg-/ HbsAg+) olan hastalarda HBV
+reaktivasyonunun gerçekleştiği gözlenmiştir.
+REDDİTUX tedavisine başlamadan önce tüm hastalar (sadece HBV enfeksiyon riski olanlar
+değil) hepatit B yüzey antijeni (HbsAg) ve hepatit B kor antikor (anti-HBc) ölçümleri
+yapılarak HBV enfeksiyonu açısından gözlenmelidir.
+Önceden HBV enfeksiyonu varlığı durumunda rituximab tedavisi sürecinde ve tedavi sonrası
+birkaç ay boyunca hasta klinik ve laboratuvar bulgularıyla HBV veya hepatit B reaktivasyonu
+açısından gözlemlenmelidir. Tedavi tamamlanmasını takiben yirmidördüncü aya kadar HBV
+reaktivasyonu vakaları bildirilmiştir.
+REDDİTUX tedavisinde HBV reaktivasyonu gelişen hastalarda acilen ilaç kesilmeli veya
+uygun bir HBV tedavisinde başlanmalıdır.
+Sayfa 8/30HBV enfeksiyonu kontrol altına alınana kadar hastanın aynı zamanda aldığı başka kemoterapi
+varsa o da bırakılmalıdır.
+NHL ve KLL'de rituximabın pazarlama sonrası kullanımı sırasında çok seyrek progresif
+multifokal lökoensefalopati (PML) vakaları bildirilmiştir (bkz. Bölüm 4.8 İstenmeyen etkiler).
+Hastaların büyük çoğunluğu rituximabı kemoterapi ile birlikte veya hematopoetik kök hücre
+transplantasyonunun bir parçası olarak almışlardır.
+İmmünizasyon
+NHL ve KLL hastalarında, rituximab tedavisini takiben canlı viral aşılarla yapılan
+immünizasyonun güvenliliği üzerinde çalışma yapılmamıştır ve canlı virüs aşılarıyla aşılama
+yapılması önerilmemektedir. Rituximab ile tedavi edilen hastalar canlı olmayan aşılarla
+aşılanabilirler. Ancak canlı olmayan aşılara yanıt oranları düşebilir. Randomize olmayan bir
+çalışmada, monoterapi olarak rituximab alan relaps, düşük evreli NHL hastaları ile sağlıklı,
+tedavi görmemiş kontrol vakaları karşılaştırıldığında, tetanoz recall antijenine (%16'ya
+karşılık %81) ve Keyhole Limpet Hemosiyanin (KLH) neoantijenine (antikor titrelerinde >2
+kat artışa göre değerlendirildiğinde %4'e karşın %76) düşük oranda yanıt gerçekleşmiştir. Her
+iki hastalık arasındaki benzerlikler dikkate alındığında, KLL olan hastalar için benzer bulgular
+öngörülebilir fakat klinik çalışmalarda incelenmemiştir.
+Bir grup antijene karşı (Streptococcus pneumoniae, influenza A, kabakulak, rubella ve
+varisella) ortalama tedavi öncesi antikor titreleri rituximab tedavisi sonrasında en az 6 ay
+süreyle korunmuştur.
+Deri reaksiyonları
+Toksik Epidermal Nekroliz (Lyell Sendromu) ve Stevens - Johnson sendromu gibi bazılarının
+ölümcül sonuçları olabilen ciddi deri reaksiyonları bildirilmiştir (bkz. Bölüm 4.8 İstenmeyen
+etkiler). Bu gibi durumlarda tedavi durdurulmalıdır.
+Diğer tüm terapötik proteinlerde olduğu gibi REDDİTUX için de potansiyel immunojenesite
+riski söz konusudur.
+REDDİTUX, flakon başına yaklaşık 55 mg sodyum ihtiva eder. Sodyum miktarı 1 mmol’den
+(23 mg) fazladır. Bu durum, kontrollü sodyum diyetinde olan hastlar için göz önünde
+bulundurulmalıdır.
+Biyolojik tıbbi ürünlerin takip edilebilirliğinin sağlanması için uygulanan ürünün ticari ismi
+ve seri numarası mutlaka hasta dosyasına kaydedilmelidir.
+4.5. Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+REDDİTUX ile olası ilaç etkileşimlerine dair veriler sınırlıdır.
+KLL hastalarında rituximab ile fludarabin veya siklofosfamidin farmakokinetiği üzerine bir
+etkisinin olmadığı, bununla birlikte fludarabin veya siklofosfamidin de rituximabın
+farmakokinetiği üzerine görünür bir etkisinin olmadığı görülmüştür.
+Klinik çalışmalar sırasında tümör lizis sendromu geçiren ve NHL için konkominant sisplatin
+tedavisi alan hastalarda renal toksisite görülmüştür. Sisplatin ve rituximab kombinasyonu
+Sayfa 9/30onaylı bir tedavi rejimi değildir. Böbrek yetmezliği belirtileri için hasta yakından takip
+edilmelidir; serum kreatinini ve oligürisi artan hastalarda rituximab kesilmelidir.
+İnsan anti-fare antikor titresi (HAMA) veya insan anti-kimerik antikor titresi (HACA)
+bulunan hastalar diğer tıbbi teşhiste kullanılan veya terapötik monoklonal antikorlarla tedavi
+edildiğinde alerjik veya aşırı duyarlılık reaksiyonları geliştirebilir.
+Özel popülasyonlara ilişkin ek bilgiler
+Pediyatrik popülasyon
+Herhangi bir etkileşim çalışması yapılmamıştır.
+4.6. Gebelik ve laktasyon
+Genel tavsiye
+Gebelik Kategorisi: C
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (kontrasepsiyon)
+B-hücre deplesyonu olan hastalarda rituximabın uzun retansiyon süresi nedeniyle, çocuk
+doğurma potansiyeli olan kadınlar tedavi sırasında ve rituximab tedavisinden sonraki 12 ay
+boyunca etkili kontraseptif yöntemler kullanmalıdırlar.
+Gebelik dönemi
+Rituximabın gebe kadınlarda kullanımına ilişkin yeterli veri mevcut değildir.
+Hayvanlar üzerinde yapılan araştırmalar üreme toksisitesinin bulunduğunu göstermiştir (bkz.
+Bölüm 5.3). İnsanlara yönelik potansiyel risk bilinmemektedir.
+IgG immünoglobulinlerinin plasental engelini geçtiği bilinmektedir.
+Anne vasıtasıyla rituximaba maruz kalan yenidoğanlardaki B hücre seviyeleri klinik
+çalışmalarla araştırılmamıştır. Gebe kadınlarda yapılmış çalışmalardan yeterli ve kontrollü
+veri elde edilmemiştir, ancak gebelik süresince annleri rituximaba maruz kalmış bazı
+yenidoğanlarda geçici B hücre deplesyonu ve lenfositopeni görülmüştür. Bu sebeplerden
+ötürü, REDDİTUX muhtemel fayda potansiyel riskten daha ağır basmdağı sürece gebe
+kadınlara uygulanmamalıdır.
+Sinomolgüs maymunlarıyla yürütülen gelişimse toksisite çalışmalarında intrauterin
+embriyotoksisiteye ilişkin bir kanıt bulunmamıştır. Rituximab uygulanan anne hayvanların
+yeni doğmuş yavrularında postnatal dönemde B hücre popülasyonu yıkımı olduğu
+kaydedilmiştir.
+Laktasyon dönemi
+Rituximabın anne sütüne geçip geçmediği bilinmemektedir. Ancak, maternal IgG’nin anne
+sütüne geçmesi ve rituximabın emziren maymunların sütünde saptanması nedeniyle, kadınlar
+rituximab tedavisi sırasında ve rituximab tedavisinden sonraki 12 ay boyunca bebeklerini
+emzirmemelidir.
+Üreme yeteneği/ Fertilite:
+Hayvan çalışmalarında rituximabın üreme organları üzerinde yıkıcı bir etkisi olduğu
+görülmemiştir.
+Sayfa 10/304.7. Araç ve makine kullanımı üzerindeki etkiler
+REDDİTUX’un araç veya makine kullanma becerisine etkisini belirleyecek çalışmalar
+yapılmamıştır, ancak farmakolojik aktivite ve bugüne kadar bildirilen yan etkiler araç ve
+makine kullanımı üzerinde hiçbir etkisinin olmadığını ya da göz ardı edilebilir etkilerinin
+olduğunu öne sürmektedir.
+4.8. İstenmeyen etkiler
+Hodgkin-dışı lenfoma ve kronik lenfositik lösemi hastalarından edinilen deneyimler
+Hodgkin-dışı lenfoma ve kronik lenfositik lösemide rituximabın genel güvenlilik profili,
+klinik çalışmalara katılan hastalardan ve pazarlama sonrası gözetimle elde edilen veriler baz
+alınarak oluşturulmuştur. Hastalar, rituximab monoterapisiyle (indüksiyon tedavisi şeklinde
+veya indüksiyon tedavisini takiben idame tedavisi şeklinde) veya kemoterapi ile kombinasyon
+halinde tedavi edilmiştir.
+Rituximab alan hastalarda en sık gözlenen advers ilaç reaksiyonları (AİR’ler) hastaların
+çoğunluğunda ilk infüzyon sırasında oluşan infüzyonla ilişkili reaksiyonlar olmuştur.
+İnfüzyonla ilişkili semptomların insidansı, sonraki infüzyonlarla belirgin şekilde azalmıştır ve
+sekiz kür rituximabdan sonra %1’den düşük olmuştur.
+Enfeksiyöz olaylar (ağırlıklı olarak bakteriyel ve viral), yapılan klinik çalışmalar sırasında
+NHL olan hastalarda yaklaşık hastaların %30-55'inde ve KLL olan hastalarda hastaların %30-
+50'sinde meydana gelmiştir.
+En sık bildirilen veya gözlenen ciddi advers ilaç reaksiyonları (AİR) şunlar olmuştur:
+• İnfüzyonla ilişkili reaksiyonlar (sitokin salıverilme sendromu, tümör lizis sendromu
+dahil), bkz. Bölüm 4.4 .
+• Enfeksiyonlar, bkz. Bölüm 4.4.
+• Kardiyovasküler olaylar, bkz. Bölüm 4.4.
+Bildirilen diğer ciddi AİR’ler hepatit B reaktivasyonunu ve PML’yi içermektedir (bkz. Bölüm
+4.4).
+Tek başına veya kemoterapi ile kombinasyon halinde rituximab ile bildirilen AİR’lerin
+sıklıkları aşağıdaki tabloda özetlenmektedir. Her sıklık grubunda, istenmeyen etkiler azalan
+ciddiyet sırasında gösterilmiştir. Sıklıklar şu şekilde tanımlanmaktadır: çok yaygın (≥ 1/10),
+yaygın (≥ 1/100 ila < 1/10), yaygın olmayan (≥ 1/1.000 ila < 1/100), seyrek (≥ 1/10.000 ila <
+1/1.000) ve çok seyrek (< 1/10.000). Yalnızca pazarlama sonrası gözetim sırasında belirlenen
+ve sıklıkları tahmin edilemeyen AİR’ler “bilinmiyor” şeklinde listelenmektedir.
+Sayfa 11/30Tablo 1: Rituximab monoterapi/sürdürüm ile veya kemoterapi ile birlikte tedavi edilen
+NHL ve KLL hastalarında klinik çalışmalar veya pazarlama sonrası gözetim sırasında
+bildirilen AİR’ler
+Sistem Organ Yaygın
+Çok yaygın Yaygın Seyrek Çok Seyrek Bilinmiyor8
+Sınıfı değil
+Enfeksiyonlar ve bakteriyel sepsis, ciddi viral PML
+enfestasyonlar enfeksiyonlar, +pnömoni, enfeksiyon2,
+viral +febril pnömositis
+enfeksiyonlar, enfeksiyon, jiroveci
++bronşit +herpes zoster, enfeksiyonu
++solunum yolu
+enfeksiyonları,
+mantar
+enfeksiyonları,
+etiyolojisi
+bilinmeyen
+enfeksiyonlar,
++akut bronşit,
++sinüzit,
+hepatit B1
+Kan ve lenf nötropeni, anemi, koagülasyon serum IgM geç nötropeni3
+sistemi lökopeni, +pansitopeni, bozuklukları düzeylerinde
+hastalıkları +febril +granülositopeni aplastik anemi, geçici artış3
+nötropeni, hemolitik
++trombositopeni anemi,
+lenfadenopati
+Bağışıklık infüzyonla aşırı duyarlılık anafilaksi tümör lizis infüzyonla
+sistemi ilişkili sendromu4, ilişkili akut
+hastalıkları reaksiyonlar4, sitokin reversibl
+anjiyoödem salıverilme trombositopeni4
+sendromu4,
+serum
+hastalığı,
+Metabolizma hiperglisemi,
+ve beslenme kilo kaybı,
+hastalıkları periferik ödem,
+yüz ödemi,
+LDH artışı,
+hipokalsemi
+Psikiyatrik depresyon,
+hastalıklar sinirlilik
+Sinir sistemi parestezi, disgözi periferik kraniyal
+hastalıkları hipostezi, nöropati, nöropati,
+ajitasyon, fasiyal sinir diğer duyuların
+insomnia, felci5 kaybı5
+vazodilatasyon
+baş dönmesi,
+anksiyete
+Göz lakrimasyon şiddetli görme
+hastalıkları bozukluğu, kaybı5
+konjunktivit
+Kulak ve iç kulak işitme kaybı5
+kulak çınlaması,
+hastalıkları kulak ağrısı
+Kardiyak +miyokard +sol ventrikül şiddetli kalp yetmezliği
+hastalıklar enfarktüsü4 ve6, yetmezliği, kardiyak 4 ve 6
+aritmi, +atriyal +supraventriküler olaylar 4 ve 6
+fibrilasyon, taşikardi,
+taşikardi, +ventriküler
+Sayfa 12/30Sistem Organ Yaygın
+Çok yaygın Yaygın Seyrek Çok Seyrek Bilinmiyor8
+Sınıfı değil
++kardiyak taşikardi,
+bozukluk +anjina,
++miyokardiyal
+iskemi,
+bradikardi,
+Vasküler hipertansiyon, vaskülit (ağırlıklı
+hastalıklar ortostatik olarak
+hipotansiyon, kütanöz),
+hipotansiyon lökositoklastik
+vaskülit
+Solunum, bronkospazm4, astım, interstisyel solunum Akciğer
+torasik solunum bronşiyolit akciğer yetmezliği4, infiltrasyonu
+bozukluklar ve hastalığı, obliterans, hastalığı7
+mediastinal göğüs ağrısı, akciğer
+hastalıklar dispne, hastalığı,
+öksürükteartış, hipoksi
+rinit
+Gastrointestinal mide bulantısı kusma, diyare, karın gastrointestinal
+hastalıklar karın ağrısı, genişlemesi perforasyon7
+disfaji,
+stomatit,
+konstipasyon,
+dispepsi,
+anoreksi,
+boğaz
+iritasyonu
+Deri ve deri altı döküntü, ürtiker, şiddetli büllöz
+doku kaşıntı, terleme, deri
+hastalıkları +alopesi geceterlemesi, reaksiyonları
++cilt toksik epidermal
+bozuklukları nekroliz
+(Lyell
+Sendromu)7
+Stevens-Johnson
+sendromu
+Kas-iskelet hipertoni,
+bozuklukları, miyalji, artralji,
+bağ doku ve sırt ağrısı,
+kemik boyun ağrısı,
+hastalıkları ağrı
+Böbrek ve böbrek
+idrar yolu yetmezliği4
+hastalıkları
+Genel ateş, titreme tümör ağrısı, infüzyon
+bozukluklar ve asteni, baş kızarma, bölgesi ağrısı
+uygulama ağrısı kırıklık,
+bölgesine soğuk algınlığı
+ilişkin sendromu,
+hastalıkları +yorgunluk,
++nöbet
+titremesi,
++çoklu organ
+yetmezliği4
+Laboratuvar azalmış IgG
+bulguları düzeyleri
+Her bir istenmeyen etki için görülme sıklığı, sadece ciddi (evre ≥ 3 Ulusal Kanser Enstitüsü (NCI) yaygın toksisite
+kriterleri) reaksiyonlarına dayandırıldığı "+" ile işaretlenmiş terimler haricinde, her evreden (hafif şiddetten ciddiye
+kadar) reaksiyona dayandırılmıştır. Sadece çalışmalarda gözlemlenen en yüksek sıklık rapor edilmektedir.
+Sayfa 13/30Sistem Organ Yaygın
+Çok yaygın Yaygın Seyrek Çok Seyrek Bilinmiyor8
+Sınıfı değil
+1 reaktivasyonu ve primer enfeksiyonları içerir; sıklık relaps/refrakter KLL'de R-FC rejimi dayanmaktadır.
+2 ayrıca bkz. aşağıdaki enfeksiyon bölümü
+3 ayrıca bkz. aşağıdaki hematolojik advers reaksiyonlar bölümü
+4 ayrıca bkz. aşağıdaki infüzyon ile ilişkili reaksiyonlar bölümü. Nadiren ölümcül vakalar bildirilmiştir.
+5 kraniyal nöropati belirti ve semptomları. Rituximab tedavisinin tamamlanmasından sonra çeşitli zamanlardan birkaç
+aya kadar oluşmuştur.
+6 başlıca geçmiş kardiyak hastalığı olan ve/veya kardiyotoksik kemoterapi almış hastalarda gözlenmiş ve çoğunlukla
+infüzyonla ilişkili reaksiyonlarla bağlantılı olmuştur.
+7 ölümcül vakaları içerir
+8 sıklığı bilinmeyen (eldeki sonuçlardan tahmin edilemeyen)
+Aşağıdaki istenmeyen etkiler, klinik çalışmalar sırasında ortaya çıkan advers olaylar olarak
+rapor edilmiştir; fakat kontrol kollarıyla kıyaslandığında rituximab kollarında benzer veya
+daha düşük oranda rapor edilmiştir: hematotoksisite, nötropenik enfeksiyon, idrar yolu
+enfeksiyonu, duyusal bozukluk, pireksi.
+İnfüzyon ile ilişkili reaksiyonlar
+İnfüzyon kaynaklı reaksiyona işaret eden belirtiler ve semptomlar klinik çalışmalardaki
+hastaların %50'sinden daha fazlasında görülmüştür ve ağırlıklı olarak ilk infüzyon sırasında,
+genellikle de ilk bir ile iki saat arasında gözlenmiştir. Bu belirtiler çoğunlukla ateş, titreme ve
+kasılmadan oluşmaktadır. Diğer semptomlar ise kızarma, anjiyoödem, bronkospazm, kusma,
+bulantı, ürtiker/döküntü, yorgunluk, baş ağrısı, boğazda tahriş, rinit, kaşıntı, ağrı, taşikardi,
+hipertansiyon, hipotansiyon, dispne, dispepsi, asteni ve tümör lizis sendromuna ilişkin
+belirleyici özelliklerdir. Vakaların %12'sinde infüzyon ile ilişkili şiddetli reaksiyonlar
+(örneğin bronkospazm, hipotansiyon) meydana gelmiştir. Bazı vakalarda bildirilen diğer
+reaksiyonlar ise miyokard enfarktüsü, atriyal fibrilasyon, pulmoner ödem ve akut reversibl
+trombositopenidir. Anjina pektoris, konjestif kalp yetmezliği veya şiddetli kardiyak olaylar
+(kalp yetmezliği, miyokard enfarktüsü, atriyal fibrilasyon) gibi önceden var olan kardiyak
+hastalıkların, pulmoner ödemin, çoklu organ yetmezliğinin, tümör lizis sendromunun, sitokin
+salıverilme sendromunun, böbrek yetmezliğinin ve solunum yetmezliği sendromunun,
+ventriküler fibrilasyon, kardiyojenik şok ve solunum yetmezliği gibi önceden var olan
+kardiyak durumların şiddetlenmesi düşük veya bilinmeyen sıklıklarda rapor edilmiştir.
+İnfüzyon ile ilgili semptomların insidansı, sonraki önemli ölçüde azalmış ve rituximab
+(içeren) tedavinin sekizinci kürüyle %1'den daha aza inmiştir.
+Enfeksiyonlar
+Rituximab hastaların %70-80'inde B-hücresi sayısında azalmaya neden olmuş ancak
+hastaların sadece çok küçük bir kısmında serum immünoglobulin seviyeleri azalmıştır.
+Lokalize kandida enfeksiyonlarıyla Herpes zoster, randomize çalışmaların rituximab içeren
+kolunda yüksek insidansla rapor edilmiştir. Rituximab monoterapisi ile tedavi edilen
+hastaların %4'ünde şiddetli enfeksiyonlar raporlanmıştır. Gözlem grubu ile
+karşılaştırıldığında, rituximab ile 2 yıla kadarki idame tedavisi sırasında evre 3 veya 4
+enfeksiyonlar da dahil olmak üzere genel enfeksiyon sıklığının daha yüksek olduğu
+görülmüştür. 2 yıllık tedavi süresi boyunca rapor edilen enfeksiyonlar açısından hiçbir
+kümülatif toksisite bulunmamaktadır. Buna ek olarak, rituximab tedavisi ile bir kısmı ölümle
+sonuçlanmış olan yeni reaktive olan veya şiddetlenen diğer ciddi viral enfeksiyonlar rapor
+edilmiştir. Hastaların büyük çoğunluğu rituximabı kemoterapi ile birlikte veya hematopoetik
+kök hücre transplantasyonunun bir parçası olarak almışlardır. Bu tür ciddi viral enfeksiyonlara
+herpes virüsleri nedeniyle oluşan enfeksiyonlar (sitomegalovirüs, Varisella Zoster Virüsü ve
+Sayfa 14/30Herpes Simplex Virüsü), JC virüsü (progresif multifokal lökoensefalopati (PML)) ve Hepatit
+C virüsü örnek verilebilir. Klinik çalışmalarda hastalık progresyonundan ve tekrar tedaviden
+sonra ölüme neden olabilen PML (progresif multifokal lökoensefalopati) vakaları
+bildirilmiştir. Sitotoksik kemoterapiyle birlikte rituximab alan gönüllülerin çoğunda hepatit B
+reaktivasyonu vakaları bildirilmiştir. Relaps/refrakter KLL hastalarında evre 3/4 hepatit B
+enfeksiyonunun (reaktivasyon ve primer enfeksiyon) insidansı R-FC’de %2’ye karşı FC’de
+%0 olmuştur. Önceden Kaposi sarkomu olan ve rituximab kullanan hastalarda Kaposi
+sarkomunda ilerleme gözlenmiştir. Bu vakalar, onaylı olmayan endikasyonlara bağlı kullanım
+sonucu meydana gelmiştir ve hastaların çoğu HIV pozitif hastalardır.
+Hematolojik advers reaksiyonlar
+4 hafta boyunca rituximab monoterapisi verilerek yapılan klinik çalışmalarda, hastaların
+küçük bir kısmında hematolojik anormallikler meydana gelmiştir ve bunlar genellikle hafif ve
+geri dönüşümlüdür. Hastaların %4,2'sinde ciddi nötropeni (evre 3/4), %1,1'inde anemi ve
+%1,7'sinde trombositopeni bildirilmiştir. Rituximab ile yapılan 2 yıla kadarki idame tedavisi
+sırasında, gözlem koluna kıyasla daha yüksek bir insidansta lökopeni (%2’ye karşı %5, evre
+3/4) ve nötropeni (%4’e karşı %10, evre 3/4) bildirilmiştir. Trombositopeni insidansı düşüktür
+(%< 1, evre 3/4) ve tedavi kolları arasında farklılık göstermemiştir. Kemoterapi ile birlikte
+uygulanan rituximabla yapılan çalışmalarda tek başına kemoterapi ile karşılaştırıldığında evre
+3/4 lökopeni (R-CHOP %88'e karşı CHOP %79, R-FC %23'e karşı FC %12), nötropeni
+(önceden tedavi edilmemiş KLL'de R-CVP %24'e karşı CVP %14; R-CHOP %97'ye karşı
+CHOP %88, R-FC %30'a karşı FC %19), pansitopeni (önceden tedavi edilmemiş KLL'de R-
+FC %3'e karşı FC %1) genelde daha yüksek sıklıklarda bildirilmiştir. Ancak, rituximab ve
+kemoterapi ile tedavi edilen hastalarda daha yüksek insidansta görülen nötropeni, tek başına
+kemoterapi ile tedavi edilen hastalarla kıyaslandığında daha yüksek enfeksiyon ve
+enfestasyon insidansı ile ilişkili değildir. Önceden tedavi uygulanmamış ve relaps/refrakter
+KLL’de yapılan çalışmalar rituximab artı FC tedavisini takiben, R-FC ile tedavi edilen
+hastaların yaklaşık %25’inde nötropeninin (son dozun ardından 24. ve 42. gün arasında
+nötrofil sayısının 1x109/L altında olması şeklinde tanımlanmıştır) uzun sürdüğünü veya geç
+başlangıçlı (daha önce uzun süreli nötropeni olmayan veya 42. günden önce iyileşmiş
+hastalarda son dozdan >42 gün sonra nötrofil sayısının 1x109/L altında olması şeklinde
+tanımlanmıştır) olduğunu göstermiştir. Anemi insidansı için bildirilmiş herhangi bir farklılık
+yoktur. Rituximabın son infüzyonundan sonra dört haftadan uzun süren bazı geç nötropeni
+vakaları bildirilmiştir. Birinci basamak KLL çalışmasında Binet C “evresindeki hastalarda FC
+kolla karşılaştırıldığında R-FC kolunda daha fazla advers olaylar meydana gelmiştir (R-FC
+%83'e karşın FC %71). Relaps/refrakter KLL çalışmasında, FC grubundaki hastaların %9'una
+karşılık R-FC grubunda hastaların %11'inde evre 3/4 trombositopeni bildirilmiştir.
+Kardiyovasküler advers reaksiyonlar
+Rituximab monoterapisi ile yapılan klinik çalışmalar sırasında hastaların %18,8'inde en sık
+bildirilen kardiyovasküler reaksiyonlar hipotansiyon ve hipertansiyondur. İnfüzyon sırasında
+evre 3 veya 4 aritmi (ventriküler ve supraventriküler taşikardi dahil) ve anjina pektoris
+bildirilmiştir. İdame tedavisi sırasında evre 3/4 kardiyak bozukluk insidansı rituximab ile
+tedavi edilen hastalar ve gözlem hastaları arasında karşılaştırılabilirdir. Gözlem grubunda
+görülen <%1 değeri ile karşılaştırıldığında, rituximab ile tedavi edilen hastaların %3’ünde
+ciddi advers olay (atriyal fibrilasyon, miyokard enfarktüsü, sol ventrikül yetersiziği,
+miyokardiyal iskemi dahil) olarak kardiyak olaylar bildirilmiştir. Kemoterapi ile birlikte
+rituximabın değerlendirildiği çalışmalarda evre 3 ve 4 kardiyak aritmi insidansı, çoğunlukla
+taşikardi ve atriyal ritim bozukluğu/fibrilasyon gibi supraventriküler aritmiler CHOP grubuna
+kıyasla (3 hasta, %1,5) R-CHOP grubunda daha yüksektir (14 hasta, %6,9). Bu aritmilerin
+Sayfa 15/30tümü ya bir rituximab infüzyonu ile ilişkili olarak meydana gelmiş ya da ateş, enfeksiyon,
+akut miyokard enfarktüsü veya önceden var olan solunum hastalığı veya kardiyovasküler
+hastalık gibi predispozan koşullarla bağlantılıdır. R-CHOP ve CHOP grupları arasında kalp
+yetmezliği, miyokardiyal hastalık ve koroner arter hastalığının belirtilerini kapsayan diğer
+evre 3 ve 4 kardiyak olayların insidansında hiç bir farklılık gözlenmemiştir. KLL'de, birinci
+basamak çalışma (R-FC %4, FC %3) ve relaps/refrakter çalışmanın (R-FC %4, FC %4) her
+ikisinde de evre 3 ve 4 toplam kardiyak bozukluk insidansı düşüktür.
+Solunum sistemi
+Bazıları ölümle sonuçlanan interstisyel akciğer hastalığı vakaları rapor edilmiştir.
+Nörolojik olaylar
+Tedavi süresi boyunca, R-CHOP ile tedavi edilen ve kardiyovasküler risk faktörleri mevcut
+olan dört hastada (% 2) , ilk tedavi kürü sırasında tromboembolik serebrovasküler olaylar
+yaşanmıştır. Diğer tromboembolik olayların insidansında tedavi grupları arasında bir fark
+görülmemiştir. Buna karşın, CHOP grubunda üç hastanın (% 1,5) hepsinde takip döneminde
+serebrovasküler olaylar yaşanmıştır. KLL'de, birinci basamak çalışmanın (RFC %4, FC %4)
+ve relaps/refrakter çalışmanın (R-FC %3, FC %3) her iki evresinde de evre 3 veya 4 toplam
+sinir sistemi bozukluğu insidansı düşüktür.
+Posterior reversibl ensefalopati sendromu (PRES)/reversibl posterior lökoensefalopati
+sendromu (RPLS) vakaları rapor edilmiştir. Belirti ve semptomlar hipertansiyon ile ilişkili
+veya ilişkisiz görme bozukluğu, baş ağrısı, nöbet ve mental durumda değişikliği
+kapsamaktadır. PRES/RPLS tanısının beyin görüntülemesi ile doğrulanması gerekmektedir.
+Rapor edilen vakalarda hastaların altta yatan hastalığı, hipertansiyon, immünosupresif tedavi
+ve/veya kemoterapi dahil PRES/RPLS için bilinen risk faktörleridir.
+Gastrointestinal hastalıklar
+Hodgkin dışı lenfoma tedavisi için rituximab alan hastalarda bazı vakalarda ölüme neden
+olabilen gastrointestinal perforasyon gözlenmiştir. Bu vakaların çoğunda rituximab
+kemoterapi ile beraber uygulanmıştır.
+IgG düzeyleri
+Rituximab idame tedavisini değerlendiren bir klinik çalışmada, medyan IgG düzeyleri hem
+gözlem hem de rituximab gruplarında uygulanan indüksiyon tedavisinden sonra normalin alt
+sınırının (LLN) altındaydı (<7 g/L). Gözlem grubunda, medyan IgG düzeyi sonradan
+normalin alt sınırının üstüne çıktı fakat rituximab grubunda sabit kaldı. IgG düzeyleri
+normalin alt sınırının altında olan hastaların oranı 2 yıllık tedavi periyodu boyunca rituximab
+grubunda %60'larda olmasına rağmen gözlem grubunda bu oran artış gösterdi (2 yıl sonra %
+36).
+Rituximab tedavisi alan pediyatrik hastalarda şiddetli ve uzun dönemli immünglobülin ikame
+tedavisi gerektirecek düzeyde hipogammaglobülinemi görülmüştür. Pediyatrik hastalarda
+uzun süreli B hücresi eksikliğinin sonuçları bilinmemektedir.
+Deri ve deri altı doku reaksiyonları
+Bazıları ölümle sonuçlanan mukokütanöz reaksiyonlar rituximabla tedavi edilen hastalarda
+görülebilir. Bu reaksiyonlar arasında paraneoplastik pemfigüs, Stevens-Johnson sendromu,
+likenoid dermatit, vezikülobüllöz dermatit ve toksik epidermal nekroliz vardır. Bu
+reaksiyonların başlangıcı değişkendir ve bunlara rituximab maruziyetinin ilk gününde
+Sayfa 16/30başlama raporları dahildir. Şiddetli mukokütanöz reaksiyonu geçiren hastalarda rituximab
+tedavisi sonlandırılmalıdır. Şiddetli mukokütanöz reaksiyon gösteren hastalara rituximabın
+yeniden verilmesinin güvenliliğine karar verilmemiştir.
+Özel popülasyonlara ilişkin ek bilgiler
+Rituximab monoterapisi
+Geriyatrik popülasyon (≥ 65 yaş):
+Tüm evrelerdeki AİR’lerin ve evre 3/4 AİR'nin görülme insidansı daha genç (<65 yaş)
+hastalara kıyasla yaşlı hastalarda benzer bulunmuştur.
+Büyük hacimli hastalık (tutulan lenf nodunun çok büyük olması):
+Büyük hacimli hastalığı olan kişilerde, evre 3/4 AİR görülme insidansı, büyük hacimli
+hastalığı olmayanlardan daha yüksektir (%15,4’e karşı %25,6). Herhangi bir evrede AİR
+görülme insidansı bu iki grupta da benzerdir.
+Tedavinin tekrarlanması:
+Rituximab kürleri ile tekrarlanan tedavi sırasında AİR raporlanan hasta yüzdesi ilk
+maruziyetden sonra AİR raporlanan hasta yüzdesi ile benzerdir (herhangi bir evrede AİR ve
+evre 3/4 AİR).
+Rituximab kombinasyon tedavisi
+Geriyatrik hastalar (≥ 65 yaş)
+Daha önce tedavi uygulanmamış veya relaps/refrakter KLL olan yaşlı hastalarda evre 3/4 kan
+ve lenf sistemi advers olaylarının insidansı, daha genç (<65 yaş) hastalar ile
+karşılaştırıldığında yüksek bulunmuştur.
+Pazarlama sonrası deneyim
+Hodgkin-dışı lenfoma
+Bu bölümdeki raporlama sıklıkları (seyrek, çok seyrek) tahmini pazarlanan ekspozürler ve
+çoğunlukla spontan raporlardan alınan veriler baz alınarak oluşturulmuştur.
+Ek şiddetli infüzyon kaynaklı reaksiyon vakaları rituximabın pazarlama sonrası kullanımı
+sırasında rapor edilmiştir.
+Rituximabın güvenliliğinin pazarlama sonrası gözetiminin devamının bir parçası olarak
+aşağıdaki advers reaksiyonlar gözlenmiştir:-
+Kardiyovasküler sistem: Kalp yetmezliği ve miyokard enfarktüsü dahil şiddetli kardiyak
+olaylar, çoğunlukla önceden kardiyak hastalık risk faktörleri olan ve/veya kardiyotoksik
+kemoterapi alan hastalarda görülmüştür ve infüzyon kaynaklı reaksiyonlarla
+ilişkilendirilebilir. Lökositoklastik vaskülit gibi ağırlıklı olarak kütanöz olan vaskülit çok
+nadir raporlanmıştır.
+Solunum sistemi: Solunum yetmezliği/distres, infüzyon kaynaklı reaksiyonlar bağlamında
+pulmoner infiltratlardır. İnfüzyon kaynaklı reaksiyonlar dışındaki pulmoner infiltratlar ve
+intestinal pnömoni seyrek rapor edilmiştir.
+Sayfa 17/30Deri: Ölümcül toksik epidermal nekroliz vakaları dahil şiddetli büllöz deri reaksiyonları
+seyrek rapor edilmiştir.
+Sinir sistemi: Periferik nöropati ile veya olmaksızın kraniyal nöropati vakaları seyrek
+raporlanmıştır. Ciddi görme kaybı, işitme kaybı, diğer duyuların kaybı, yüz siniri felci gibi
+kraniyal nöropati belirtileri ve semptomları rituximab tedavisinin tamamlanmasından sonraki
+birkaç aya kadarki zaman aralığında görülebilir.
+Bir bütün olarak vücut: Serum hastalığı gibi reaksiyonlar seyrek olarak rapor edilmiştir.
+Enfeksiyon ve enfestasyonlar: Çoğu sitotoksik kemoterapi ile birlikte rituximab alan
+hastalarda görülen Hepatit B reaktivasyonu vakaları rapor edilmiştir.
+Yeni, reaktive olmuş, şiddetlenmiş veya bazıları ölümle sonuçlanmış olan diğer ciddi viral
+enfeksiyonlar rituximab tedavisinde rapor edilmiştir. Hastaların çoğunluğu hematopoetik kök
+hücre naklinin bir parçası olarak rituximabı kemoterapi ile birlikte almıştır. Bu tür ciddi viral
+enfeksiyonların örnekleri: herpes virüslerinin sebep olduğu enfeksiyonlar (sitomegalovirüs
+(CMV), Varisella zoster virüsü ve Herpes simplex virüsü), JC virüsü (ilerleyen multifokal
+lökoensefalopati (PML)) ve hepatit C virüsüdür.
+Önceden Kaposi sarkomu var olan ve rituximab tedavisi alan hastalarda Kaposi sarkomunun
+ilerlemesi gözlenmiştir. Bu durumlar onaylanmamış endikasyonlarda ortaya çıkmıştır ve
+hastaların çoğu HIV pozitiftir.
+Gastrointestinal sistem: Bazı durumlarda ölümle sonuçlanan intestinal perforasyon Rituximab
+alan hastalarda görülmüştür.
+Laboratuvar Anomalileri
+Hodgkin-dışı lenfoma
+Kan ve lenf sistemi: Nötropeni: Son rituximab infüzyonunun dört hafta ve sonrasında (birinci
+aydan sonrası) nötropeni seyrektir.
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir (www.titck.gov.tr; e-
+posta: tufam@titck.gov.tr; tel: 0 800 314 00 08; faks: 0312 218 35 99).
+4.9. Doz aşımı ve tedavisi
+İntravenöz rituximab formülasyonunun onaylanmış dozundan daha yüksek dozlarla ilgili
+olarak insanlarda yapılan klinik çalışmalarda sınırlı tecrübe mevcuttur. Rituximabın şimdiye
+kadar insanlarda test edilmiş en yüksek intravenöz dozu 5.000 mg'dır (2.250 mg/m2), kronik
+lenfositik lösemi hastalarının doz artış çalışmasında test edilmiştir. Hiçbir ek güvenilirlik
+sinyali belirlenmemiştir.
+Sayfa 18/30Aşırı doz alan hastaların infüzyonuna derhal müdahale edilmelidir ve bu hastalar yakından
+izlenmelidir.
+Pazarlama sonrası ortamda beş adet rituximab aşırı doz vakası rapor edilmiştir. Üç vakada hiç
+raporlanmış advers olay yoktur. Rapor edilen iki advers olay: 1,8 g rituximab dozuyla ortaya
+çıkan nezleyi andıran semptomlar ve 2 g rituximab dozuyla ortaya çıkan ölümcül solunum
+yetmezliğiydi.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1. Farmakodinamik özellikler
+Farmakoterapötik grup: Antineoplastik, monoklonal antikorlarATC kodu: L01X C02
+Bu ürün bir biyobenzerdir.
+Etki mekanizması
+Rituximab spesifik olarak bir nonglikolize fosfoprotein olan CD20 adlı transmembran
+antijenine bağlanan kimerik fare/insan monoklonal antikorudur. Bu antijen pre-B ve olgun B
+lenfositlerinde bulunur ancak hematopoetik kök hücrelerde, pro-B hücrelerde, normal plazma
+hücrelerinde veya diğer normal dokuda bulunmaz. Tüm B hücreli Hodgkin-dışı lenfomaların
+(NHL) >%95'inde bu antijene rastlanır. Antikora bağlandıktan sonra CD20 hücre içine
+alınmaz veya hücre membranından çevreye yayılmaz. CD20 plazmada serbest antijen olarak
+dolaşmaz ve dolayısıyla antikora bağlanmak için yarışmaz.
+Rituximab, B lenfositlerdeki CD20 antijenine bağlanır ve B hücresinin lizisine yol açan
+bağışıklık reaksiyonlarını başlatır. Hücre yıkımındaki olası mekanizmalar komplemana
+bağımlı sitotoksisite (CDC), antikora bağımlı hücresel sitotoksisite (ADCC) ve apopitozun
+indüklenmesidir. Son olarak, in vitro çalışmalar rituximabın ilaca dirençli insan B lenfoma
+hücre serilerini bazı kemoterapötik ajanların sitotoksik etkilerine karşı duyarlılaştırdığını
+göstermiştir.
+Periferikdeki B hücre sayısı ilk rituximab dozundan sonra normalin altına düşer. Hematolojik
+malignite tedavisi gören hastalarda B hücrelerinin normal düzeyine dönmesi tedavinin 6. ayı
+içerinde başlar, bazı hastalarda daha uzun sürse bile, genellikle tedavi tamamlandıktan sonraki
+9- 12 ay içinde de normal düzeylere döner. Bu iyileşme süresi bazı hastalar için daha uzun
+olabilir (medyan 23 ay, indüksiyon sonrası tedavi iyileşme süresine kadar çıkabilir).
+Klinik etkililik ve güvenlilik
+Foliküler Lenfoma
+Monoterapi
+Başlangıç tedavisi, haftada bir uygulama, toplam 4 doz
+Ana çalışmada, nüksetmiş veya kemorezistan düşük seviyeli ya da foliküler B hücreli NHL'ye
+sahip 166 hastaya haftada bir, toplam dört doz olarak i.v. infüzyon halinde 375 mg/m2
+Rituximab verilmiştir. ITT popülasyonunda genel yanıt oranı (GYO) %48 (GA %41-%56)
+%95
+Sayfa 19/30olup tam yanıt (TY) oranı %6 ve kısmi yanıt (KY) oranı %42 olarak gerçekleşmiştir. Yanıt
+veren hastalarda hastalığın ilerlemesine kadar geçen medyan süre (TTP) 13 ay'dır.
+Yapılan bir alt-grup analizinde GYO, IWF B, C ve D histolojik alt-tiplerinde IWF A alt-tipine
+kıyasla daha yüksek (%58'e karşılık %12), en büyük lezyonu <5 cm olan hastalarda, >7 cm
+olan hastalara kıyasla daha yüksek (%53'e karşılık %38) ve kemorezistan nüks grubu ile
+karşılaştırıldığında kemoduyarlı nüks hastalarında (yanıt süresi <3 ay olarak tanımlanır) daha
+yüksek (%22'ye karşılık %50) bulunmuştur. Önceden otolog kemik iliği transplantasyonu
+(OKİT) ile tedavi edilmiş hastalarda GYO % 78 iken, OKİT tedavisi görmeyenlerde %43
+olmuştur. Yaş, cinsiyet, lenfoma derecesi, başlangıçtaki tanı, büyük hacimli hastalık varlığı ya
+da yokluğu, normal ya da yüksek LDH düzeyleri veya ekstranodal hastalık varlığının
+rituximaba karşı verilen yanıt üzerinde istatistik olarak anlamlılık (Fischer'in exact testi)
+taşıyan bir etkisi bulunmamaktadır.
+Yanıt oranları ile kemik iliği tutulumu arasında istatistiksel olarak anlamlı bir bağıntı
+kaydedilmiştir. Kemik iliği tutulumu olan hastaların %40'ı yanıt verirken, kemik iliği
+tutulumu olmayan hastaların %59'u yanıt vermiştir (p=0.0186). Histolojik tip, başlangıçta bcl-
+2 pozitifliği, son kemoterapiye karşı direnç ve ağır hastalık faktörlerinin prognostik faktörler
+olarak tanımlandığı kademeli lojistik regresyon analizi bu bulguyu desteklememiştir.
+Başlangıç tedavisi, haftada bir uygulama, toplam 8 doz
+Çok merkezli, tek kollu bir çalışmada nüksetmiş veya kemorezistan, düşük dereceli veya
+foliküler B hücreli NHL'si olan 37 hastaya, toplam sekiz doz olacak şekilde, i.v. infüzyon
+yoluyla haftada bir kere 375 mg/m2 rituximab verilmiştir. GYO %57 (GA %41-%73; TY
+%95
+%14, KY %43) ve medyan TIP 19.4 ay (aralık 5.3 ila 38.9 ay) bulunmuştur.
+Başlangıç tedavisi, büyük hacimli hastalık, haftada bir uygulama, toplam 4 doz
+Üç çalışmanın bir araya getirilmiş verilerinde, nüksetmiş veya kemorezistan, bulky hastalık
+(tek lezyon ≥10 cm çapında) özelliklerini taşıyan düşük dereceli veya foliküler B hücreli
+NHL'si olan 39 hastaya toplam dört doz, haftada bir kere 375 mg/m2 rituximab, i.v. infüzyon
+yoluyla verilmiştir. GYO %36 (GA %21-%51; TY %3, KY %33) ve yanıt veren hastalarda
+%95
+medyan TTP 9.6 ay olmuştur (aralık 4.5 ila 26.8 ay).
+Tekrarlanan tedavi, haftada bir uygulama, toplam 4 doz
+Çok merkezli, tek kollu bir çalışmada, önceki bir rituximab küründe objektif klinik yanıt
+alınan, nüksetmiş veya kemorezistan düşük evreli veya foliküler B hücreli NHL'si olan 58
+hasta toplam dört doz, haftada bir kere, i.v. infüzyon yoluyla 375 mg/m2 rituximab ile yeniden
+tedavi edilmiştir. Hastaların üçü çalışmaya kaydolmadan önce iki seans rituximab tedavisi
+gördüğünden, bunlara çalışmada üçüncü bir seans uygulanmıştır. Çalışmada iki hasta, iki kez
+yeniden tedavi edilmiştir. Çalışmadaki 60 yeniden tedavi vakasında, yanıt veren hastalar için
+GYO %38 (GA %26-%51; TY %10, KY %28) ve yanıt veren hastalarda projekte edilen
+%95
+ortalama TTP, 17.8 ay (aralık 5.4 ila 26.6 ay) olmuştur. Bu değerler, önceki rituximab
+küründe elde edilen sonuçlar (12.4 ay) ile olumlu yönde karşılaştırılabilir niteliktedir.
+Kemoterapi ile kombinasyon halinde
+Başlangıç tedavisi
+Sayfa 20/30Randomize, açık tasarımlı bir çalışmada, daha önce tedavi görmemiş foliküler lenfoması olan
+322 hasta, 8 kür, her 3 haftada bir CVP kemoterapisi (siklofosfamid 750 mg/m2, 1.gün
+maksimum 2 mg doza kadar, vinkristin 1.4 mg/m2 ve 1-5. gün arasında prednisolon 40
+mg/m2/gün) ya da CVP ile kombinasyon halinde rituximab 375 mg/m2 (R-CVP) alacak
+şekilde randomize edilmiştir. Rituximab her tedavi kürünün ilk gününde uygulanmıştır.
+Toplam 321 hasta (162 R-CVP, 159 CVP) tedavi görmüş ve etkinlik bakımından analiz
+edilmiştir.
+Hastaların medyan takip süresi 53 aydır. R-CVP, primer sonlanma noktası olan tedavi
+başarısızlığına kadar geçen süre açısından CVP'ye göre önemli bir üstünlük sağlamıştır (27
+aya karşılık 6.6 ay, p < 0.0001, log-sıra testi). Tümör cevabı bulunan hastaların oranı (TY,
+TYo, KY), R-CVP grubunda (%80.9) CVP grubundan (%57.2) önemli oranda daha yüksek
+olmuştur (p< 0.0001, Ki-Kare testi). R-CVP ile yapılan tedavi, hastalık ilerlemesi veya ölüme
+kadar geçen süreyi belirgin bir şekilde artırmıştır (33.6 ay ve14.7 ay) (p <0.0001, log-sıra
+testi). R-CVP grubunda medyan yanıt süresi 37.7 ayken, CVP grubunda bu süre 13.5 ay
+olarak bulunmuştur (p < 0.0001, log-sıra testi). Genel sağkalım açısından tedavi grupları
+arasındaki farklılık güçlü bir klinik yarar göstermiştir (p=0.029, log-sıra testi): 53. aydaki
+sağkalım oranları R-CVP grubunda %80.9 iken, CVP grubunda %71.1 'dir.
+CVP dışındaki kemoterapi rejimleriyle (CHOP, MCP, CHVP/İnterferon-α) yapılan diğer 3
+çalışmadan elde edilen sonuçlar yanıt oranlarında ve zamana bağlı parametrelerde olduğu gibi
+genel sağkalımda da belirgin iyileşmeler göstermiştir. Bu dört çalışmadan elde edilen anahtar
+sonuçlar aşağıdaki tabloda özetlenmektedir (Tablo 2).
+Tablo 2. Rituximabın foliküler lenfomada farklı kemoterapi rejimleriyle
+yararlarının değerlendirildiği dört faz III çalışmadan elde edilen
+sonuçların özetleri
+Çalışma Tedavi, Medyan GYO, TY, Medyan OS
+n takip % % TTF/PFS/EFS oranları,
+süresi, ay ay %
+M39021 CVP, 159 53 57 10 Medyan TTP: 53 ay
+R-CVP, 162 81 41 14.7 71.1
+33.6 80.9
+p<0.0001 p=0.029
+GLSG’00 CHOP, 205 18 90 17 Medyan TTF: 18 ay
+R-CHOP, 223 96 20 2.6 yıl 90
+Ulaşılamamıştır 95
+p < 0.001 p=0.016
+OSHO-39 MCP, 96 47 75 25 Medyan PFS: 48 ay
+R-MCP, 105 92 50 28.8 74
+Ulaşılamamıştır 87
+p < 0.0001 p=0.0096
+FL2000 CHVP-IFN, 42 85 49 Medyan EFS: 42 ay
+183 94 76 36 84
+R-CHVP-IFN, Ulaşılamamıştır 91
+175 p < 0.0001 p=0.029
+Kısaltmalar:
+TTP: Progresyona veya ölüme kadar geçen süre
+Sayfa 21/30PFS: Progresyonsuz sağkalım
+TTF: Tedavinin başarısızlığına kadar geçen süre
+OS oranları: Analiz zamanlarında genel sağkalım oranları
+İdame tedavisi
+Prospektif, açık etiketli, uluslararası, çok merkezli bir faz III çalışmada 465 relaps/refrakter
+foliküler NHL hastası, CHOP (siklofosfamid, doksorubisin, vinkristin, prednizolon; n=231)
+veya rituximab + CHOP (R-CHOP, n=234) ile yapılan indüksiyon tedavisine ilk basamakta
+randomize edilmiştir. İki tedavi grubu, başlangıç karakteristiklerine ve hastalık durumuna
+göre iyi dengelenmiştir. İndüksiyon tedavisinden sonra tam ya da kısmi remisyon sağlanan
+toplam 334 hasta, ikinci aşamada rituximab idame tedavisi (n=l67) veya gözlem koluna
+(n=l67) randomize edilmiştir. Rituximab idame tedavisi, maksimum iki sene süresince ya da
+hastalık ilerleyene kadar, üç ayda bir 375 mg/m2 vücut yüzey alanı dozunda verilen tek
+rituximab uygulamasından ibarettir.
+Son etkinlik analizi, çalışmanın her iki bölümüne randomize edilen tüm hastaları içerir.
+İndüksiyon fazına randomize edilen hastaların 31 aylık medyan gözlem süresi sonunda, R-
+CHOP'ın, CHOP ile kıyaslandığında relaps/refrakter foliküler NHL hastalarının klinik
+sonuçlarını belirgin olarak iyileştirdiği görülmüştür (Bkz. Tablo 3).
+Tablo 3. İndüksiyon fazı: CHOP ile R-CHOP'ın karşılaştırmalı etkinlik
+sonuçlarına genel bakış (31 aylık medyan gözlem süresi)
+CHOP R-CHOP p değeri Risk Azaltımı1)
+Primer Etkinlik
+GYO2) %74 %87 0.0003 yok
+TY2) %16 %29 0.0005 yok
+KY2) %58 %58 0.9449 yok
+1) Tahminler, risk oranlarına göre hesaplanmıştır.
+2) Araştırmacı tarafından değerlendirilen son tümör yanıtı. "Yanıt" için yapılan "primer" istatistiksel
+test, tam yanıt, kısmi yanıt ve hiç yanıt olmaması durumlarını karşılaştıran bir eğilim testidir (p <
+0.0001)
+Kısaltmalar: NR: ulaşılamamıştır; GYO: genel yanıt oranı; TY: tam yanıt; KY: kısmi yanıt; OS: genel
+sağkalım; PFS: progresyonsuz sağkalım
+Çalışmanın idame fazına randomize edilen hastalar için medyan gözlem süresi, idame
+randomizasyonundan itibaren 28 aydır. Rituximab ile idame tedavisi, sadece gözlem koluna
+kıyasla, primer sonlanma noktası olan PFS'de (idame randomizasyonundan nükse, hastalık
+ilerlemesine ya da ölüme kadar olan süre) klinik olarak anlamlı ve istatistiksel olarak belirgin
+düzelme ile sonuçlanmıştır (p<0.0001, log-sıra testi). Medyan PFS, rituximab idame kolunda
+42.2 ayken gözlem kolunda 14.3 aydır. Cox regresyon analizi kullanıldığında, hastalık
+ilerlemesi ya da ölüm riski, rituximab idame tedavisi ile gözleme göre %61 oranında
+azalmıştır (GA ; %45-%72). 12 ayda Kaplan-Meier yöntemiyle hesaplanan progresyonsuz
+%95
+oranlar, rituximab idame grubunda %78 iken gözlem grubunda %57'dir. Genel sağkalım
+analizi, rituximab idamesinin, gözleme göre belirgin fayda sağladığını kanıtlamıştır.
+Rituximab idame tedavisi, ölüm riskini %56 azaltmıştır (GA ; %22-% 75).
+%95
+Tablo 4. İdame fazı: Rituximab ile gözlem gruplarının karşılaştırmalı
+Sayfa 22/30etkinlik sonuçlarına genel bakış (28 aylık medyan gözlem süresi)
+Etkinlik Parametresi Olaya Kadar Medyan Sürenin (ay) Risk Azaltımı
+Kaplan-Meier Yöntemiyle
+Hesaplanması
+Gözlem Rituximab Log-sıra
+(n= 167) (n= 167) P değeri
+Progresyonsuz sağkalım 14.3 42.2 <0.0001 %61
+(PFS)
+Genel sağkalım NR NR 0.0039 %56
+Yeni lenfoma tedavisine 20.1 38.8 <0.0001 %50
+kadar geçen süre
+Hastalıksız sağkalıma 16.5 53.7 0.0003 %67
+Alt Grup Analizi
+PFS
+CHOP 11.6 37.5 <0.0001 %71
+R-CHOP 22.1 51.9 0.0071 %46
+TY 14.3 52.8 ..0.0008 %64
+KY 14.3 37.8 <0.0001 %54
+TS
+CHOP NR NR 0.0348 %55
+R-CHOP NR NR 0.0482 %56
+NR: ulaşılamamıştır; a: sadece TY'ye ulaşan hastalar için
+Rituximab idame tedavisinin faydası, indüksiyon rejimi (CHOP ya da R-CHOP) ya da
+indüksiyon tedavisine verilen yanıtların niteliğiyle (TY ya da KY) ilgili olmaksızın tüm alt
+gruplarda analiz edilmiştir (Tablo 4). Rituximab idame tedavisi, CHOP indüksiyon tedavisine
+yanıt veren hastalarda (medyan PFS 37.5 aya karşılık 11.6 ay, p<0.0001) olduğu kadar R-
+CHOP indüksiyon tedavisine yanıt veren hastalarda da (medyan PFS 51.9 aya karşılık 22.1
+ay, p=0.0071) medyan PFS'yi önemli ölçüde uzatmıştır. Rituximab idame tedavisi ayrıca,
+çalışmanın indüksiyon fazında toplam sağkalım açısından CHOP'a yanıt veren hastalarda ve
+R-CHOP'a yanıt veren hastalarda klinik açıdan anlamlı fayda sağlamıştır.
+Difüz büyük B hücreli Hodgkin-dışı lenfoma (DBBHL)
+Randomize, açık tasarımlı bir çalışmada, difüz büyük B hücreli lenfoması olan önceden tedavi
+görmemiş, yaşları 60 ile 80 arası değişen 399 hastaya, sekiz kür boyunca her üç haftada bir
+standart CHOP kemoterapisi (1. günde siklofosfamid 750 mg/m2, doksorubisin 50 mg/m2,
+vinkristin 1.4 mg/m2 ile maksimum 2 mg'a kadar ve 1-5. günlerde prednizolon 40 mg/m2/gün)
+veya 375 mg/m2 Rituximab + CHOP (R-CHOP) verilmiştir. Rituximab tedavi kürünün birinci
+gününde uygulanmıştır.
+Nihai etkinlik analizi randomize edilen tüm hastaları (197 CHOP, 202 R-CHOP) kapsamıştır
+ve ortalama izleme süresi yaklaşık 31 aydır. İki tedavi grubu, başlangıç düzeyi özellikleri ve
+hastalık durumu bakımından iyi dengelenmiştir. Nihai analiz, R-CHOP tedavisinin olaysız
+geçen sağkalım süresini (primer etkinlik parametresi, buradaki olaylar ölüm, nüks veya
+lenfoma ilerlemesi ya da yeni bir anti-lenfoma tedavisinin tesis edilmesidir) önemli oranda
+Sayfa 23/30uzattığını doğrulamıştır (p=0.0001). Medyan olaysız sağkalım süresine ilişkin Kaplan-Meier
+tahminlerine göre, CHOP kolundaki 13 ay ile, R-CHOP kolunda 35 ayın karşılaştırılması
+riskin %41 azaldığını göstermektedir. 24. ayda, genel sağkalıma ilişkin tahminler CHOP
+kolundaki %57.4'1ük orana kıyasla R-CHOP kolunda %68.2 olarak bulunmuştur. Medyan 60
+aylık izleme süresi ile gerçekleştirilen daha sonraki bir genel sağkalım süresi analizi, R-
+CHOP tedavisinin CHOP tedavisinden daha yararlı olduğunu doğrulamış (p=0.0071) ve riskin
+%32 azaldığını göstermiştir.
+Tüm sekonder parametrelerin analizi (yanıt oranları, progresyonsuz sağkalım, hastalıksız
+sağkalım, yanıt süresi), CHOP ile karşılaştırıldığında R-CHOP tedavisinin etkisini
+doğrulamıştır. 8. kürden sonra tam yanıt oranı, R-CHOP grubunda %76.2 ve CHOPgrubunda
+%62.4 bulunmuştur (p=0.0028). Hastalığın ilerleme riski %46 ve nüks riski %51oranında
+azaltılmıştır.
+Tüm hasta alt gruplarında (cinsiyet, yaş, yaşa göre ayarlanmış IPI, Ann Arbor evresi, ECOG,
+Beta 2 Mikroglobulin, LDH, Albümin, B-semptomları, büyük hacimli hastalık, ekstranodal
+hastalık, kemik iliği tutulumu), olaysız sağkalım ve genel sağkalıma ilişkin risk oranları (R-
+CHOP'ye karşılık CHOP) sırasıyla 0.83 ve 0.95'den daha az bulunmuştur. Yaşa göre
+ayarlanmış IPI'ye göre R-CHOP, hem yüksek hem de düşük risk taşıyan hastalarda, sonuçta
+ulaşılan iyileşme düzeyiyle ilişkili bulunmuştur.
+Klinik laboratuar bulguları
+İnsan anti-fare antikoru (HAMA) açısından değerlendirilen 67 hastanın hiçbiri için yanıt
+bildirilmemiştir. HACA açısından değerlendirilen 356 hastanın %1.1'i (4 hasta) pozitif
+çıkmıştır.
+Daha önce tedavi edilmemiş ve relaps/refrakter kronik lenfositik lösemi
+Açık etiketli randomize iki çalışmada, daha önce tedavi görmemiş toplam 817 KLL hastası ve
+552 relaps/refrakter KLL hastası, 6 kür için 4 haftada bir FC kemoterapi (fludarabin 25mg/m2,
+siklofosfamid 250 mg/m2, 1-3. günler) veya FC ile kombinasyon halinde Rituximab (R-FC)
+alacak şekilde randomize edilmiştir. Rituximab, ilk kür sırasında kemoterapiden bir gün önce
+375 mg/m2 dozunda ve sonraki her tedavi kürünün 1. gününde 500 mg/m2 dozunda
+uygulanmıştır. Etkinlik için birinci basamak çalışmasında (Tablo 5) ve (Tablo 6) toplam 810
+hasta (403 R-FC, 407 FC), relaps/refrakter çalışmada da (Tablo 7) 552 hasta (276 R-FC, 276
+FC) analiz edilmiştir.
+Birinci basamak çalışmasında 48.7 aylık medyan gözlem süresinden sonra medyan PFS R-FC
+grubunda 55 ay ve FC grubunda 33 ay olmuştur (p<0.0001, log-sıra testi). Genel sağkalım
+analizi, yalnızca FC kemoterapisi kullanılan kola göre, R-FC kolu için anlamlı bir fayda
+göstermiştir (p=0.0319, log-sıra testi) (Tablo 5). PFS açısından fayda, başlangıçtaki hastalık
+riskine göre (yani Binet A-C evreleri) (Tablo 5) analiz edilen hasta alt gruplarının çoğunda
+tutarlı olarak gözlenmiştir.
+Tablo 5. Kronik lenfositik löseminin birinci basamak tedavisi -
+Tek başına FC'ye kıyasla Rituximab+FC için etkinlik sonuçlarına
+genel bakış
+Etkinlik Parametresi Olaya Kadar Geçen Medyan Süre için Risk
+Kaplan-Meier Tahmini (ay) Azaltımı
+FC R-FC Log-sıra
+(N= 409) (N= 408) p değeri
+Sayfa 24/30Progresyonsuz sağkalım 32.8 55.3 <0.0001 %45
+(PFS)
+Genel Sağkalım NR NR 0.0319 %27
+Olaysız Sağkalım 31.3 51.8 <0.0001 %44
+Yanıt oranı (TY, nKY veya %72.6 %85.8 <0.0001 n.a.
+KY)
+TY oranları 16.5 %36.0 <0.0001 n.a.
+Yanıt süresi* 36.2 57.3 <0.0001 %44
+Hastalıksız sağkalım (DFS)** 48.9 60.3 0.0520 %31
+Yeni tedaviye kadar geçen 47.2 69.7 <0.0001 %42
+süre
+Yanıt oranı ve TV oranları Ki-kare Testi kullanılarak analiz edilmiştir. NR: ulaşılmadı;
+n.a.: uygulanamaz.
+*: Yalnızca TY, nKY veya KY elde edilen hastalar için geçerlidir
+**: Yalnızca TY elde edilen hastalar için geçerlidir.
+Tablo 6. Kronik lenfositik löseminin birinci basamak tedavisi
+Binet evresine göre (ITT) progresyonsuz sağkalım tehlike oranı -
+medyan gözlem süresi 48.1 ay
+Progresyonsuz sağkalım (PFS) Hasta sayısı Tehlike Oranı p-değeri
+(%95 GA) (Wald testi,
+FC R-FC ayarlanmamış)
+Binet evre A 22 18 0.39 (0.15; 0.98) 0.0442
+Binet evre B 259 263 0.52 (0.41; 0.66) <0.0001
+Binet evre C 126 126 0.68 (0.49; 0.95) 0.0224
+Relaps/refrakter kronik lenfositik lösemi
+Relaps/refrakter çalışmada, R-FC grubunda medyan progresyonsuz sağkalım (primer
+sonlanım noktası) 30.6 ay iken FC grubunda 20.6 aydır (p = 0.0002, log-rank testi). PFS
+açısından fayda, başlangıçtaki hastalık riskine göre analiz edilen hasta alt gruplarının çoğunda
+gözlenmiştir. R-FC kolunda FC koluna kıyasla, genel sağkalımda (OS) az fakat belirgin
+olmayan bir artış bildirilmiştir.
+Tablo 7. Relaps/refrakter kronik lenfositik löseminin tedavisi - Tek başına
+FC'ye kıyasla RİTUXİMAB-FC için etkinlik sonuçlarına genel bakış
+(medyan gözlem süresi 25.3 ay)
+Etkinlik Parametresi Olaya Kadar Geçen Medyan Süre için Risk
+Kaplan-Meier Tahmini (ay) Azaltımı
+FC R-FC Log-sıra
+(n= 276) (n= 276) p değeri
+Progresyonsuz sağkalım 20.6 30.6 0.0002 %35
+(PFS)
+Genel Sağkalım 51.9 ulaşılamadı 0.2874 %17
+Sayfa 25/30Olaysız Sağkalım 19.3 28.7 0.0002 %36
+Yanıt oranı (TY, nKY veya %58.0 %69.9 0.0034 Uygulanabilir
+KY) değil
+TY %13.0 %24.3 0.0007 Uygulanabilir
+oranları değil
+Yanıt süresi* 27.6 39.6 0.0252 %31
+Hastalıksız sağkalım (DFS)** 42.2 39.6 0.8842 -%6
+Yeni KLL tedavisine kadar
+geçen süre 34.2 ulaşılamadı 0.0024 %35
+Yanıt oranı ve TY oranları Ki-kare Testi kullanılarak analiz edilmiştir.
+*: Yalnızca TY, nKY, KY elde edilen hastalar için geçerlidir
+**: Yalnızca TY elde edilen hastalar için geçerlidir
+KLL hastalarının tedavisinde diğer kemoterapi rejimleriyle (CHOP, FCM, PC, PCM,
+bendamustin ve kladribin dahil) kombinasyon halinde Rituximab kullanılan diğer destekleyici
+çalışmalardan elde edilen sonuçlara göre, yüksek genel yanıt oranları ile birlikte anlamlı PFS
+değerleri elde edilirken, tedavi ile ilişkili toksisitede anlamlı artış gözlenmemiştir.
+Daha önce rituximab ile tedavi edilmiş yaklaşık 180 hastaya ait veriler klinik fayda
+göstermiştir (CR dahil) ve bu veriler rituximab ile yeniden tedaviyi destekler niteliktedir.
+5.2. Farmakokinetik Özellikler
+Emilim
+Hodgkin-dışı lenfoma
+Tek bir ajan olarak veya CHOP tedavisiyle birlikte tek veya çoklu rituximab infüzyonu alan
+298 NHL hastasının popülasyon farmakokinetik analizi (uygulanan rituximab dozları 100-500
+mg/m2 aralığında değişkenlik göstermektedir) baz alındığında, nonspesifik klerensin (CL ),
+1
+muhtemelen B hücreleri veya tümör yükünün katıldığı spesifik klerensin (CL ) ve dağılımın
+2
+merkezi kompartman hacmi (V ) sırasıyla: 0,14 L/gün, 0,59 L/gün ve 2,7 litredir.
+1
+Rituximabın tahmini medyan terminal eliminasyon yarı ömrü 22 gündü (aralık, 6,1 günden 52
+güne). Başlangıç düzeyi CD19-pozitif hücre sayıları ve ölçülebilir tümör lezyonları, 4 haftalık
+dozlar halinde intravenöz infüzyon olarak 375 mg/m2 verilen 161 hastadan alınan verilerdeki
+rituximabın CL 'deki değişkenliğine katkıda bulunmuştur.
+2
+Daha yüksek CD19-pozitif hücre sayıları veya tümör lezyonları olan hastaların CL 'si daha
+2
+yüksekti. Ancak tümör lezyon boyutu ve CD19-pozitif hücre sayıları için yapılan
+düzeltmeden sonra bireylerarası değişkenliğin büyük bir bileşeni CL için aynı kalmıştır. V
+2 1
+vücut yüzey alanı (BSA) ve CHOP tedavisi tarafından değişkenlik göstermiştir. BSA'daki
+aralığın (1,53-2,32 m2) ve eş zamanlı CHOP tedavisinin katıldığı V 'deki bu değişkenlik
+1
+(%27,1 ve %19,0), sırasıyla, diğerlerine göre daha küçüktü. Yaş, cinsiyet ve WHO (Dünya
+Sağlık Örgütü) performans durumu rituximabın farmakokinetik özelliklerini etkilememiştir.
+Bu analiz, test edilen eşdeğişkenlerin herhangi biriyle birlikte verilen rituximabın doz
+ayarlamasının farmakokinetik değişkenliğinde anlamlı bir azalmaya sebep olmasının
+beklenmediğini öne sürmektedir.
+Sayfa 26/30Daha önce rituximab almamış olan 203 NHL hastasına 4 doz boyunca, haftalık aralıklarla 375
+mg/m2'lik dozda intravenöz infüzyon olarak verilen rituximab, dördüncü infüzyonu takiben
+ortalama 486 mikrogram/mL'lik C vermiştir (aralık, 77,5-996,6 mikrogram/mL).
+maks
+Rituximab, son tedavinin tamamlanmasından 3 – 6 ay sonra hastaların serumunda tespit
+edilebilir durumdaydı.
+375 mg/m2'lik bir dozda rituximab, NHL'li 37 hastaya 8 doz için haftada bir i.v. infüzyon
+olarak uygulanmıştır. Ortalama C , başarılı her bir infüzyonla artmış ve ilk infüzyondan
+maks
+sonra 243 mikrogram/mL'ye (aralık, 16-582 mikrogram/mL) sekizinci infüzyondan sonra ise
+550 mikrogram/mL'ye (aralık, 171-1177 mikrogram/mL) çıkmıştır.
+Rituximabın 6 kürlük CHOP kemoterapisiyle birlikte 375 mg/m2'lik 6 infüzyon şeklinde
+verildiğindeki farmakokinetik profili tek başına rituximabla görülenle benzerdir.
+Kronik lenfositik lösemi
+Rituximab, KLL hastalarında siklofosfamid ve fludarabin ile kombinasyon halinde IV
+infüzyon olarak 375 mg/m2, sonraki 5 kürün her birinde 500 mg/m2'ye artırılarak
+uygulanmıştır. Beşinci 500 mg/m2’lik infüzyondan sonra ortalama C (n=15) 408
+maks
+mikrogram/mL’dir (aralık, 97-764 mikrogram/mL) ve ortalama terminal yarı ömür 32 gündür
+(aralık, 14-62 gün).
+Biyotransformasyon
+Veri bulunmamaktadır.
+Dağılım
+Hodgkin-dışı lenfoma
+Tek ajan olarak ya da CHOP tedavisi ile kombinasyondan rituximabın tek ya da çoklu
+infüzyonlarını alan 298 NHL hastasının farmakokinetik analizine dayanarak, muhtemelen B
+hücreleri ya da tümör yükünün katkıda bulunduğu spesifik olmayan klerensin (KL ), spesifik
+1
+klerensin (KL ) tipik hasta grubu tahminleri ve santral dağılım hacmi (V ), sırasıyla 0.14
+2 1
+L/gün, 0.59 L/gün ve 2.7 L’dir.
+Kronik Lenfositik Lösemi
+Veri bulunmamaktadır.
+Eliminasyon
+Hodgkin-dışı lenfoma
+Rituximabın tahmin edilen medyan terminal eliminasyon yarı ömrü 22 gündür (aralık, 6.1 ila
+52 gün). Rituximabın, 4 haftalık dozlar halinde 375 mg/m2 i.v. infüzyon olarak verildiği 161
+hastadan elde edilen verilerde KL ’sindeki değişkenliğin bir kısmına başlangıç CD19-pozitif
+2
+hücre sayısı ve ölçülebilir tümör lezyonlarının boyutu katkıda bulunmuştur. Daha yüksek
+CD19-pozitif hücre sayısı ya da tümör lezyonları olan hastaların daha yüksek KL ’si
+2
+olmuştur. Bununla birlikte, CD19-pozitif hücre sayısı ya da tümör lezyonu boyutu için
+düzeltme yapıldıktan sonra, KL için bireyler arası değişkenliğin büyük kısmı aynen
+2
+Sayfa 27/30kalmıştır. V , vücut yüzey alanı (BSA) ve CHOP tedavisi ile değişmiştir. Sırasıyla, BSA’daki
+1
+aralık (1.53 ila 2.32 m2) ve eşzamanlı CHOP tedavisinin katkıda bulunduğu V ’deki (%27.1
+1
+ve %19.0) bu değişkenlik, göreceli olarak küçüktür.
+Kronik Lenfositik Lösemi
+Veri bulunmamaktadır.
+Hastalardaki karakteristik özellikler
+Böbrek veya karaciğer yetmezliği olan hastalara ait farmakokinetik veri bulunmamaktadır.
+Rituximabın farmakokinetiği üzerine yaş, cinsiyet, ırk ve DSÖ performans statüsünün
+herhangi bir etkisi olmamıştır. Bu analiz, test edilen eşdeğişken faktörlerin herhangi biriyle
+rituximabın doz ayarlamasının, farmakokinetik değişkenlikte anlamlı bir azalmayla
+sonuçlanmasının beklenmediğini belirtmektedir.
+5.3. Klinik öncesi güvenlilik verileri
+Rituximabın B hücrelerindeki CD20 antijenine yüksek derecede spesifik olduğu
+gösterilmiştir. Sinomolgus maymunlarında yapılan toksisite çalışmaları, periferik kanda ve
+lenfoid dokuda B hücrelerinin beklenen farmakolojik tüketiminden başka bir etki
+göstermemiştir.
+100 mg/kg'a kadarki dozlarda (gestasyonun 20-50. günleri arasında tedavi) sinomolgus
+maymunları üzerinde gelişimsel toksisite çalışmaları yapılmış ve fetus için rituximabdan
+kaynaklanan herhangi bir toksisite kanıtının olmadığı gösterilmiştir. Ancak fetüsün lenfoid
+organlarında B hücrelerinin doza bağlı farmakolojik tüketimi gözlenmiş olup bu doğumdan
+sonra da devam etmiş ve buna etkilenen yeni doğan hayvanlarda lgG düzeylerinde bir azalma
+da eşlik etmiştir. B hücre sayısı, bu hayvanlarda doğumu takip eden 6 ay içerisinde normale
+dönmüş ve immünizasyon reaksiyonunu riske atmamıştır.
+Rituximabın karsinojenik potansiyelini belirlemek veya bunun erkek ve dişi fertilitesi
+üzerindeki etkilerini tespit etmek için uzun dönem hayvan ça1ışmaları yapılmamıştrr. Bu
+molekül için bu tür testler önemli olmadığından mutanejisiteyi araştıran standart testler
+yürütülmemiştir. Bununla birlikte bu özelliğinden dolayı rituximabın herhangi bir mutajenik
+potansiyeli olması olası görülmemektedir.
+6. FARMASÖTİK ÖZELLİKLER
+6.1. Yardımcı maddelerin listesi
+Sodyum sitrat dihidrat
+Polisorbat 80
+Sodyum klorür
+Enjeksiyonluk su
+6.2. Geçimsizlikler
+Rituximab ile polivinilklorür arasında veya polietilen torbalar ile infüzyon setleri arasında
+hiçbir uyumsuzluk gözlenmemiştir.
+Sayfa 28/306.3. Raf ömrü
+24 ay.
+6.4. Saklamaya yönelik özel tedbirler
+2°-8°C arasında buzdolabında saklayınız. Flakonu ışıktan korumak için dış karton kutusunun
+içinde saklayınız. Dondurmayınız.
+Çocukların göremeyeceği, erişemeyeceği yerlerde ve ambalajında saklanmalıdır.
+Seyreltilmiş ürünlerin saklanması için:
+REDDİTUX’un hazırlanmış infüzyon çözeltisi fiziksel olarak ve kimyasal olarak 2°-8°C'de
+24 saat boyunca stabildir ve sonrasında ise oda sıcaklığında (25°C) 12 saat boyunca stabildir.
+Mikrobiyolojik açıdan hazırlanan infüzyon çözeltisi derhal kullanılmalıdır. Hemen
+kullanılmaması halinde, kullanım sırasındaki saklama zamanları ve kullanımdan önceki
+koşullar, kullanıcının sorumluluğundadır ve seyreltme işlemleri kontrollü ve valide edilmiş
+aseptik koşullarda yapılmadıkça normal olarak 2°-8°C’de 24 saatten uzun olmayacaktır.
+6.5 Ambalajın niteliği ve içeriği
+10 mL'de 100 mg rituximab (10 mg/mL) içeren, butil lastik tıpalı şeffaf Tip I cam flakon.
+1 flakon içeren ambalajlarda.
+6.6. Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+Herhangi bir kullanılmamış ürün veya atık materyaller “Tıbbi Atıkların Kontrolü
+Yönetmeliği” ve “Ambalaj ve Ambalaj Atıklarının Kontrolü Yönetmeliği”ne uygun olarak
+imha edilmelidir.
+Gerekli miktarda REDDİTUX'u aseptik olarak çekin, hesaplanan 1-4 mg/mL rituximab
+konsantrasyonunu 9 mg/mL’lik (%0,9) steril, pirojensiz sodyum klorür enjeksiyonluk
+çözeltinin olduğu infüzyon torbasında veya suda %5 dekstrozda seyreltin. Çözeltiyi
+karıştırırken köpürmeyi önlemek için torbayı nazikçe ters çevirin. Hazırlanan çözeltinin
+sterilitesinin bozulmaması için dikkat edilmelidir. Tıbbi ürün hiçbir antimikrobiyal koruyucu
+veya bakteriyostatik ajan içermediğinden aseptik teknik izlenmelidir.
+Parenteral tıbbi ürünler uygulanmadan önce partikülat madde ve renk bozukluğu açısından
+görsel olarak incelenmelidir.
+7. RUHSAT SAHİBİ
+TRPharm İlaç San. Tic. A.Ş.
+Esentepe Mahallesi, Büyükdere Caddesi, Kanyon Ofis Bloğu No: 185
+Kat: 14 34394 Levent-Şişli / İSTANBUL
+Tel: 0 212 386 31 52
+Faks: 0 212 355 13 80
+8. RUHSAT NUMARASI
+2018/48
+9. İLK RUHSAT TARİHİ / RUHSAT YENİLEME TARİHİ
+Sayfa 29/30İlk ruhsat tarihi: 30/01/2018
+Ruhsat yenileme tarihi:
+10. KÜB’ÜN YENİLENME TARİHİ
+…
+Sayfa 30/30

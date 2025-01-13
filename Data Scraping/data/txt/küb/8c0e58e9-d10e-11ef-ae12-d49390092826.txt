@@ -1,0 +1,510 @@
+KISA ÜRÜN BİLGİSİ
+Bu ilaç ek izlemeye tabidir. Bu üçgen yeni güvenlilik bilgisinin hızlı olarak belirlenmesini
+sağlayacaktır. Sağlık mesleği mensuplarının şüpheli advers reaksiyonları TÜFAM’a
+bildirmeleri beklenmektedir. Bakınız Bölüm 4.8. Advers reaksiyonlar nasıl raporlanır?
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+MEGALOTECT CP 1000 IU/ 10 mL IV İnfüzyonluk Çözelti
+Steril, apirojen
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde:
+İnsan sitomegalovirüs immünoglobülini (CMVIG)
+Her 10 mL'lik flakon; 1.000 U* CMV'ye karşı antikor içeren (en az %96'sı immünoglobülin
+G) 500 mg insan plazma proteini içerir.
+1 mL çözelti: 100U* CMV’ye karşı antikor içeren (en az %96’sı immünoglobülin G) 50 mg
+insan plazma proteini içerir.
+IgG alt sınıflarının dağılımı (yaklaşık değerler): IgG1 %65, IgG2 %30, IgG3 %3, IgG4
+%2’dir. İmmünoglobülinA (IgA) içeriği ≤ 2.000 mikrogram/mL ile sınırlıdır.
+İnsan donörlerin plazmasından üretilmiştir.
+* Paul-Ehrlich-Institut referans preparat birimi
+Yardımcı maddeler:
+Yardımcı maddeler için bölüm 6.1'e bakınız.
+3. FARMASÖTİK FORM
+İnfüzyonluk çözelti
+Berrak veya hafif opalesan ve renksiz veya soluk sarı çözelti.
+4. KLİNİK ÖZELLİKLER
+4.1. Terapötik endikasyonlar
+Özellikle organ nakli alıcılarında, immünosupresif tedaviye maruz kalan hastalarda
+sitomegalovirüs enfeksiyonunun klinik belirtilerinin profilaksisi.
+CMV-profilaksisi için uygun virostatik ajanların birlikte kullanılması düşünülmelidir.
+14.2. Pozoloji ve uygulama şekli
+Pozoloji/uygulama sıklığı ve süresi:
+Tek doz, vücut ağırlığının kg'ı başına 1 mL'dir.
+Transplantasyon gününde uygulamaya başlanılmalıdır. Kemik iliği naklinde, özellikle CMV
+sero-pozitif hastalarda, nakil işleminden 10 gün öncesine kadar profilaksi başlatılması da
+öngörülebilir. Toplamda 2 ila 3 haftalık aralıklarla en az 6 tek doz verilmelidir.
+Uygulama şekli:
+İntravenöz kullanım
+MEGALOTECT CP, 10 dakika boyunca 0,08 mL/kg vücut ağırlığı/saat başlangıç hızında
+intravenöz yoldan verilmelidir. Bkz. bölüm 4.4. Advers reaksiyon görüldüğü takdirde ya
+uygulama hızı azaltılmalı, ya da infüzyon durdurulmalıdır. Eğer iyi tolere edilirse, uygulama
+hızı kademeli olarak, infüzyonun geri kalan kısmı için maksimum 0,8 ml/kg vücut ağırlığı
+/saate yükseltilebilir.
+Özel popülasyona ilişkin ek bilgiler:
+Pediyatrik popülasyon:
+Çocuklarda ve ergenlerde (0-18 yaş) pozoloji, yetişkinlerinkinden farklı değildir çünkü her
+endikasyon için pozoloji, vücut ağırlığına göre verilir ve yukarıda belirtilen durumların
+klinik sonuçlarına göre ayarlanır.
+Karaciğer yetmezliği:
+Doz ayarlaması yapılmasını gerektirecek herhangi bir kanıt mevcut değildir.
+Böbrek yetmezliği:
+Klinik olarak gerekli olmadığı takdirde doz ayarlaması yapılmaz, bkz. bölüm 4.4.
+Geriyatrik popülasyon:
+Klinik olarak gerekli olmadığı takdirde doz ayarlaması yapılmaz, bkz. bölüm 4.4.
+4.3. Kontrendikasyonlar
+ Etkin maddeye (insan sitomegalovirüs immünoglobülini) veya bölüm 6.1'de listelenen
+yardımcı maddelerden herhangi birine karşı aşırı duyarlılık.
+ Selektif IgA eksikliği olan ve IgA’ya karşı antikorlar gelişmiş hastalar; çünkü bu
+hastalara IgA içeren bir ürünün uygulanması anafilaksiye yol açabilir.
+4.4 Özel kullanım uyarıları ve önlemleri
+Kullanım önlemleri
+Potansiyel komplikasyonlar genellikle aşağıdakilerin uygulanması ile önlenebilir;
+• Başlangıçta ürünü yavaşça enjekte ederek (0,08 mL/kg vücut ağırlığı/saat) hastaların
+insan immünoglobülinlerine karşı hassas olmadıklarından emin olmak, ve
+• Hastalar infüzyon süresi boyunca semptomlar açısından dikkatle izlenmek suretiyle
+önlenebilir. Özellikle, daha önce insan immünoglobülini almamış hastalar, bir intravenöz
+2insan immünoglobülini (IVIg) ürününden bu ilaca geçen hastalar veya bir önceki
+infüzyonun üzerinden uzun bir süre geçmiş olması durumunda hastalar, olası yan
+etkilerin tespit edilmesi amacıyla hastanede ilk infüzyon sırasında ve ilk infüzyondan
+sonraki bir saat boyunca izlenmelidir. Diğer tüm hastalar uygulamadan sonra en az 20
+dakika boyunca izlenmelidir.
+Tüm hastalarda, IVIg uygulaması aşağıdaki adımları gerektirir;
+• IVIg infüzyonunun başlamasından önce yeterli hidrasyon,
+• İdrar çıkışının izlenmesi,
+• Serum kreatinin seviyelerinin izlenmesi,
+• Loop diüretiklerin birlikte kullanılmasından kaçınılması (bkz. bölüm 4.5)..
+Advers reaksiyon görüldüğü takdirde ya uygulama hızı azaltılmalı, ya da infüzyon
+durdurulmalıdır. Gereken tedavi, advers reaksiyonun doğasına ve ciddiyetine bağlıdır.
+İnfüzyon reaksiyonu
+Belirli advers reaksiyonlar (örn. baş ağrısı, flushing, titreme, miyalji, hırıltı, taşikardi, bel
+ağrısı, bulantı ve hipotansiyon) infüzyon hızı ile ilgili olabilir. Bölüm 4.2'de verilen tavsiye
+edilen infüzyon hızı yakından izlenmelidir. İnfüzyon süresi boyunca semptomlar açısından
+hastalar yakından takip edilmeli ve dikkatle izlenmelidir.
+ İlk kez insan immünoglobülini alan hastalarda veya nadir durumlarda, insan
+immünoglobülini ürünü değiştirildiğinde veya önceki infüzyondan sonra uzun bir ara
+verilmişse,
+ Tedavi edilmemiş bir enfeksiyonu veya altta yatan kronik enflamasyonu olan hastalarda
+advers reaksiyonlar daha sık meydana gelebilir.
+Aşırı duyarlılık
+Aşırı duyarlılık reaksiyonları seyrektir.
+Aşağıda belirtilen durumlardaki hastalarda anafilaksi gelişebilir:
+ Anti-IgA antikorları olan, IgA’nın saptanamadığı hastalar
+ Daha önce insan immünoglobulini ile tedaviyi tolere eden hastalar
+ Şok durumunda, şok için mevcut standart tıbbi tedavi uygulanmalıdır.
+Tromboembolizm
+IVIg uygulaması ile miyokard enfarktüsü, serebral vasküler kaza (inme dahil) pulmoner
+embolizm ve derin ven trombozu gibi tromboembolik olaylar arasındaki ilişki klinik olarak
+kanıtlanmamıştır. Bunun, risk altındaki hastalarda yüksek oranda immünoglobülin akışı
+yoluyla kan viskozitesinde göreceli bir artışla ilişkili olduğu varsayılmaktadır. Obez
+hastalarda ve önceden trombotik olaylar açısından risk faktörü olan hastalarda (ileri yaş,
+hipertansiyon, diabetes mellitus ve vasküler hastalık öyküsü veya trombotik epizotlar,
+edinilmiş veya kalıtsal trombofilik öyküsü, uzun süre hareketsiz kalan hastalar, ciddi
+hipovolemik hastalar, kan viskozitesini artıran hastalıklar olan hastalar gibi) IVIg reçete
+edilirken ve infüzyon yapılırken dikkatli olunmalıdır.
+Tromboembolik advers reaksiyon riski taşıyan hastalarda, IVIg ürünleri minimum infüzyon
+hızında ve uygulanabilir dozda verilmelidir.
+Akut böbrek yetmezliği
+IVIg tedavisi alan hastalarda akut böbrek yetmezliği vakaları bildirilmiştir. Çoğu durumda,
+önceden var olan böbrek yetmezliği, diabetes mellitus, hipovolemi, aşırı kilo, eşlik eden
+3nefrotoksik tıbbi ürünler veya 65 üzeri yaş gibi risk faktörleri tanımlanmıştır.
+Özellikle akut böbrek yetmezliğinin gelişmesine dair potansiyel riskin söz konusu olduğu
+yönünde hüküm verilmiş olan hastalarda olmak üzere, IVIg infüzyonu öncesinde ve bunun
+ardından uygun aralıklarla renal parametreler değerlendirilmelidir. Akut böbrek yetmezliği
+riski taşıyan hastalarda, IVIg ürünleri minimum infüzyon hızında ve uygulanabilir dozda
+uygulanmalıdır.
+Böbrek yetmezliği durumunda IVIg’nin kesilmesi düşünülmelidir.
+Böbrek fonksiyon bozukluğu ve akut böbrek yetmezliği raporları sakaroz, glikoz ve maltoz
+gibi çeşitli yardımcı maddeleri içeren lisanslı IVIg ürünlerinin birçoğunun kullanımıyla
+ilişkilendirilmiş iken, sakaroz içerenler toplam sayının orantısız bir payını oluşturmaktadır.
+Risk altındaki hastalarda, sakaroz içermeyen IVIg ürünlerinin kullanımı düşünülebilir.
+MEGALOTECT CP sakaroz, glikoz veya maltoz içermez.
+Aseptik menenjit sendromu (AMS)
+Aseptik menenjit sendromunun IVIg tedavisi ile ilişkili olarak ortaya çıktığı bildirilmiştir.
+Sendrom genellikle IVIg tedavisini takip eden birkaç saat ila 2 gün içinde başlar. Beyin-
+omurilik sıvısı çalışmaları sıklıkla granülositik serilerden mm3 başına birkaç bin hücreye
+kadar ve birkaç yüz mg/dL'ye kadar yüksek protein seviyelerinde pleositozla pozitif sonuç
+verir. AMS, yüksek doz (2 g/kg) IVIg tedavisi ile bağlantılı olarak daha sık ortaya çıkabilir.
+Bu tür belirti ve semptomlar gösteren hastalarda diğer menenjit nedenlerini ekarte etmek için
+BOS çalışmaları dahil olmak üzere kapsamlı bir nörolojik muayene yapılmalıdır.
+IVIg tedavisinin kesilmesi, sekeller olmadan birkaç gün içinde AMS'nin gerilemesi ile
+sonuçlanmıştır.
+Hemolitik anemi
+IVIg ürünleri, hemolizinler olarak etki edebilen ve kırmızı kan hücrelerinin immünoglobülin
+ile in vivo kaplanmasını uyaran, pozitif bir doğrudan antiglobülin reaksiyonuna (Coombs
+testi) ve nadiren de hemolize neden olan kan grubu antikorları içerebilir. Hemolitik anemi,
+artmış kırmızı kan hücreleri (RBC) sekestrasyonuna bağlı olarak IVIg tedavisinin ardından
+gelişebilir. IVIg alıcıları hemolizin klinik işaretleri ve semptomları açısından izlenmelidir.
+(Bakınız Bölüm 4.8.)
+Nötropeni/Lökopeni
+IVIg ile tedaviden sonra nötrofil sayımında geçici bir azalma ve/veya .bazen şiddetli olan
+nötropeni epizotları bildirilmiştir. Bu durum tipik olarak IVIg uygulamasından sonra birkaç
+saat veya gün içinde meydana gelmekte ve 7 ila 14 gün içinde kendiliğinden ortadan
+kalkmaktadır.
+Transfüzyona bağlı akut akciğer hasarı (TRALI)
+IVIg alan hastalarda bazı akut nonkandiyojenik pulmoner ödem [Transfüzyona Bağlı Akut
+Akciğer Hasarı (TRALI)] raporları alınmıştır. TRALI, şiddetli hipoksi, dispne, taşipne,
+siyanoz, ateş ve hipotansiyon ile karakterizedir. TRALI semptomları tipik olarak bir
+transfüzyon sırasında veya sonrasındaki 6 saat içinde, sıklıkla 1-2 saat içinde gelişmektedir.
+Bu nedenle, IVIg alan kişiler pulmoner advers reaksiyonlar açısından izlenmeli ve bu tür
+reaksiyonlar meydana geldiği takdirde IVIg infüzyonu derhal durdurulmalıdır. TRALI
+yaşamı tehdit edici olma potansiyeline sahip bir durum olup derhal yoğun bakım ünitesinde
+tedavi uygulanmasını gerektirir.
+4Serolojik testlere müdahale
+İmmünoglobülin uygulamasından sonra hastanın kanında pasif olarak transfer edilen çeşitli
+antikorların geçici yükselişi serolojik testlerde yanıltıcı pozitif sonuçlara neden olabilir.
+Antikorların eritrosit antijenlerine, örneğin A, B ve D'ye pasif transmisyonu, kırmızı hücreli
+antikorlar için bazı serolojik testlere, örneğin direkt antiglobülin testine (DAT, doğrudan
+Coombs testi) müdahale edebilir.
+Virüs güvenliği
+İnsan kanından veya plazmasından hazırlanan tıbbi ürünlerin kullanımından
+kaynaklanan enfeksiyonların önlenmesi için standart önlemler arasında donörlerin
+seçimi, bireysel bağışların ve spesifik plazma havuzlarının enfeksiyon işaretleri için
+taranması ve virüslerin etkisiz hale getirilmesi/uzaklaştırılması için etkili üretim
+adımlarının dahil edilmesi yer almaktadır. Bu önlemlere rağmen, insan kanından veya
+plazmasından hazırlanan ilaçlar uygulandığında, enfeksiyona yakalanma olasılığı
+tamamen göz ardı edilemez. Bu, bilinmeyen veya yeni ortaya çıkan virüsler ve diğer
+patojenler için de geçerlidir.
+Alınan önlemlerin, insan immün yetmezlik virüsü (HIV), hepatit B virüsü (HBV) ve
+hepatit C virüsü (HCV) gibi zarflı virüsler ve zarfsız hepatit A virüsü (HAV) için etkili
+olduğu kabul edilir. Alınan önlemlerin parvovirüs B19 virüsü gibi zarfsız virüslere
+karşı sınırlı etkisi olabilir.
+Hepatit A veya parvovirüs B19'un immünoglobülinlerle bulaşmadığı konusunda güven
+verici klinik deneyim mevcuttur ve ayrıca antikor içeriğinin viral güvenliliğe önemli bir
+katkı yaptığı varsayılmaktadır.
+Pediyatrik popülasyon
+Yetişkinler için belirtilen özel uyarı ve önlemler çocuk popülasyonu için de dikkate
+alınmalıdır.
+Tıbbi ürünlerin izlenebilirliğini arttırmak için, uygulanan ürünün adı ve seri numarası hasta
+dosyasına açık bir şekilde kaydedilmelidir.
+4.5. Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+Canlı zayıflatılmış virüs aşıları
+İmmünoglobülin uygulaması, kızamık, kızamıkçık, kabakulak ve suçiçeği gibi canlı
+zayıflatılmış virüs aşılarının etkililiğini en az 6 haftadan 3 aya kadar zayıflatabilir.
+MEGALOTECT CP uygulamasından sonra, canlı zayıflatılmış virüs aşılarıyla aşılamadan
+önce 3 aylık bir zaman geçmelidir. Kızamık durumunda, bu bozulma 1 yıla kadar devam
+edebilir. Bu nedenle kızamık aşısı alan hastalar, antikor durumlarını kontrol ettirmelidir.
+Loop diüretikleri
+Loop diüretiklerin birlikte kullanılmasından kaçınılmalıdır.
+5Özel popülasyona ilişkin ek bilgiler:
+Pediyatrik popülasyon:
+Yetişkinler için belirtilen aynı etkileşimin, pediyatrik popülasyonda da meydana gelmesi
+beklenmektedir.
+4.6. Gebelik ve laktasyon
+Genel tavsiye
+Gebelik kategorisi: C
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon)
+MEGALOTECT CP'nin çocuk doğurma potansiyeli bulunan kadınlarda ve gebe kadınlarda
+kullanımına ilişkin yeterli veri mevcut değildir. Bilinen olumsuz bir etkisi bulunmamaktadır.
+Gebelik dönemi:
+Bu tıbbi ürünün insan hamileliğinde kullanım güvenliliği, kontrollü klinik denemelerde tespit
+edilmemiştir ve bu nedenle hamile kadınlara ve emziren annelere verilirken dikkatli
+olunmalıdır. IVIg ürünlerinin, üçüncü trimesterde artan bir şekilde olmak üzere, plasentaya
+geçtiği gösterilmiştir. CMVIG uygulamasına ilişkin verilerle de doğrulanan
+immünoglobülinlerle ilgili klinik deneyim, hamileliğin gidişatı veya fetüs ve yenidoğan
+üzerinde zararlı bir etkinin beklenmeyeceğini göstermektedir.
+MEGALOTECT CP’nin gebe kadınlarda kullanımına ilişkin yeterli veri mevcut değildir.
+Hayvanlar üzerinde yapılan çalışmalar, gebelik/ ve-veya/embriyonal/ fetal gelişim/ ve-veya/
+doğum/ ve-veya/ doğum sonrası gelişim üzerindeki etkiler bakımından yetersizdir. (bkz.
+Bölüm 5.3). İnsanlara yönelik potansiyel risk bilinmemektedir. Bu nedenle gerekli olmadıkça
+gebelik döneminde kullanılmamalıdır.
+Laktasyon dönemi:
+İmmünoglobülinler anne sütüne geçer. Emzirilen yenidoğanlar/bebekler üzerinde herhangi
+bir etkinin meydana gelmesi beklenmez.
+Üreme yeteneği/Fertilite:
+İmmünoglobülinlerle ilgili klinik deneyim, fertilite üzerinde zararlı bir etkinin
+beklenmediğini göstermektedir.
+4.7. Araç ve makine kullanımı üzerindeki etkiler
+MEGALOTECT CP araç ve makine kullanma yeteneği üzerinde az etki gösterebilir. Tedavi
+sırasında yan etkiler yaşayan hastaların, araç veya makine kullanmadan önce bunların
+geçmesini beklemesi gerekir.
+4.8. İstenmeyen etkiler
+Güvenlilik profilinin özeti
+İnsan normal immünoglobülinlerinin neden olduğu advers reaksiyonlar (azalan sıklık
+6sıralaması ile) aşağıdakileri içermektedir (ayrıca bkz. bölüm 4.4):
+ titreme, baş ağrısı, baş dönmesi, ateş, kusma, alerjik reaksiyonlar, bulantı, artralji, düşük
+kan basıncı ve orta derecede bel ağrısı
+ özellikle kan grubu A, B ve AB olan hastalarda olmak üzere geri dönüşlü hemolitik
+reaksiyonlar ve transfüzyon gerektiren hemolitik anemi (seyrek)
+ (seyrek) basıncında ani bir düşüş ve izole durumlarda anafilaktik şok (hasta önceki
+uygulamaya aşırı duyarlılık göstermediyse bile)
+ (seyrek) geçici cilt reaksiyonları (kütanöz lupus eritematozus dahil – sıklığı bilinmiyor)
+ (çok seyrek) miyokard enfarktüsü, inme, pulmoner emboli, derin ven trombozları gibi
+tromboembolik reaksiyonlar
+ geri dönüşlü aseptik menenjit vakaları
+ serum kreatinin düzeyinde artış ve/veya akut böbrek yetmezliği vakaları
+ Transfüzyona Bağlı Akut Akciğer Hasarı (TRALI) vakaları
+Bulaşıcı maddelerle ilgili güvenlilik bilgileri için, bkz. Bölüm 4.4.
+Advers reaksiyonların tablosu
+Aşağıda sunulan tablo MedDRA sistem organ sınıflandırmasına ve Tercih Edilen Terim
+Seviyesine göredir.
+Sıklıklar aşağıdaki tanımlamaya göre değerlendirilmiştir: çok yaygın (≥1/10); yaygın
+(≥1/100 ila <1/10); yaygın olmayan (≥ 1/1.000 ila <1/100); seyrek (≥1/10.000 ila <1/1.000);
+çok seyrek (<1/10.000); bilinmiyor (eldeki verilerden tahmin edilemiyor). Her bir sıklık
+gruplaması içerisinde advers reaksiyonlar azalan ciddiyet sıralamasına göre sunulmaktadır.
+Klinik çalışmalardan elde edilen advers reaksiyonlar:
+Toplam 33 hastanın dahil olduğu, Biotest CMVIG preparasyonları ile yapılan klinik deneme
+programında (3 klinik çalışma, tek doz), Biotest CMVIG ürünlerine ilişkin herhangi bir
+advers ilaç reaksiyonu belirlenmemiştir.
+Pazarlama sonrası deneyimden kaynaklanan advers reaksiyonlar (sıklıkları bilinmemektedir
+- eldeki verilerden tahmin edilemez):
+MedDRA Sistem Organ Sınıfı Advers reaksiyonlar
+Kan ve lenf sistemi hastalıkları Hemolitik anemi
+Bağışıklık sistemi hastalıkları Anafilaktik şok, anafilaktik reaksiyon,
+anafilaktoid reaksiyon, aşırı duyarlılık
+Sinir sistemi hastalıkları Baş ağrısı, baş dönmesi
+Gastrointestinal hastalıklar Kusma
+Deri ve deri altı doku hastalıkları Döküntü, eritem, ilaç erüpsiyonu, kaşıntı
+Kas-iskelet hastalıkları, bağ doku Artralji
+ve kemik hastalıkları
+Böbrek ve idrar yolu hastalıkları Akut böbrek yetmezliği; Serum kreatinin
+düzeyinde artış
+Genel bozukluklar ve uygulama Titreme, yüksek ateş, yorgunluk
+bölgesine ilişkin hastalıklar
+Araştırmalar Kanda kreatinin artışı
+7Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir.(www.titck.gov.tr; e-
+posta: tufam@titck.gov.tr; tel: 0 800 314 00 08; faks: 0 312 218 35 99)
+4.9 Doz aşımı ve tedavisi
+Aşırı doz, yaşlı hastalar kalp ya da veya böbrek yetmezliği olan hastalar dahil, özellikle risk
+altındaki hastalarda, aşırı sıvı yüklenmesine ve hiperviskoziteye neden olabilir (bkz. bölüm
+4.4).
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1. Farmakodinamik özellikler
+Farmakoterapötik grup: İmmün serumlar ve immünoglobülinler, spesifik immünoglobülinler,
+ATC kodu: J06BB09
+MEGALOTECT CP, CMV'ye karşı yüksek antikor titresi olan donör plazmasından bir
+immünoglobülin preparasyonudur. Yüksek aviditeli anti-CMV antikorlarının tanımlanmış ve
+yüksek titresine sahiptir. Ayrıca, ürünün türetildiği plazma havuzlarına katkıda bulunan çok
+sayıda normal insanı temsil eden diğer patojenlere karşı IgG antikorları içerir. Doğal insan
+plazması ile yakından orantılı bir IgG alt sınıfı dağılımına sahiptir.
+Etki mekanizması
+MEGALOTECT CP, CMV yüzey antijenlerine bağlanan ve böylece CMV'nin konak
+hücrelere girme potansiyelini nötralize eden ve CMV partikülünü fagositoz için sunan
+CMV'ye özgü bir poliklonal immünoglobülin preparatıdır. MEGALOTECT CP antikorları
+ayrıca, CMV replikasyonunun virostatik inhibisyonuna ek olarak pozitif bir immünolojik
+denge uygulayan immün hücreleri (dendritik hücreler, monositler, B ve T hücreleri) de
+modüle eder ve etkileşime girer.
+Farmakodinamik etkiler
+MEGALOTECT CP'nin birincil etki şekli, dolaşımdaki virüsün bağlanmasıdır. Bu CMV'ye
+özgü antikorlar, virostatiklere dirençli tüm CMV genotipleri dahil olmak üzere farklı hücre
+tiplerinin ve virüs varyantlarının enfeksiyonunu engeller. Ayrıca, MEGALOTECT CP, uzun
+süreli CMV'ye özgü immün yanıtları için CMV’ye duyarlı immün hücreleri aktive edebilir.
+Ayrıca, organ reddinin azalması ile ilişkilendirilen CMV'den bağımsız ek immünomodülatör
+özelliklere sahiptir.
+Klinik etkililik ve güvenlilik
+CMVIG'in klinik etkililiği, solid organ ve kök hücre nakli yapılan hastalar da dahil olmak
+üzere farklı ortamlarda araştırılmıştır. Renal transplantasyonda CMVIG, CMV enfeksiyonu
+insidansını %41,7'den (kontrol grubu) %21,1'e (MEGALOTECT CPgrubu) düşürmüştür.
+Diğer örnekler CMV hastalığı insidansının %43,3'ten (kontrol grubu) %13,2’ye
+(MEGALOTECT CPgrubu) düşürüldüğü akciğer nakli ve interstisyel pnömoni insidansının
+%26,1'den %3,8'e düşürüldüğü kemik iliği naklidir.
+Böbrek nakli
+8Prospektif, randomize kontrollü bir çalışmada, böbrek nakli hastalarında CMV enfeksiyonu
+için hiperimmünoglobülin profilaksisinin etkililiği araştırılmıştır. Çalışmaya ilk kez kadavra
+böbreği nakledilen 74 hasta dahil edilmiştir. Ortalama takip süresi 45 aydı. Hastalara
+metilprednisolon ve siklosporin A'dan oluşan immünosupresif rejim uygulanmıştır. Tedavi
+grubunda 38 hasta nakilden hemen önce ve sonra 1, 2, 4, 18, 32, 46, 60, 74 ve 88. Günlerde
+i.v. yoldan 2 mL/kg MEGALOTECT CP dozu almıştır. Kontrol grubu MEGALOTECT CP
+almayan 36 hastadan oluşmuştur. Tedavi grubunda toplam 8/38 hasta (%21,1) CMV
+enfeksiyonu ve 5/38 hasta (%13,2) CMV hastalığı geçirirken, kontrol grubunda toplam 15/36
+hastada (%41,7) CMV enfeksiyonu ve 6/36 hastada (%16,7) CMV hastalığı görülmüştür.
+Pediyatrik popülasyon
+Retrospektif bir çalışma ile yüksek CMV riski taşıyan renal transplant alan pediyatrik
+hastalarda asiklovir artı MEGALOTECT CP profilaksisi ve gansiklovir ile erken tedavinin
+etkililiğini ve güvenliliğini araştırılmıştır (ortalama yaş 14,1 ± 4,9 yıl, değişim aralığı 2,5 -
+20 olan 79 hasta). Minimum takip süresi 12 aydı. İmmünosupresif rejim, canlı donör ile
+ilişkili böbrek alan 4 hastada azatioprin ilavesi ile birlikte siklosporin A ve steroidleri
+içermiştir. Akut rejeksiyon epizotları i.v. metilprednisolon atımları ile tedavi edilmiştir. 39
+R- hastaya transplantasyon sonrasında ameliyattan sonraki ilk gün 150 mg/kg, 15 ve 30.
+günde 100 mg/kg ve 45, 60 ve 120. günlerde 50 mg /kg MEGALOTECT CP ve oral
+asiklovir verilmiştir. 40 R + hastaya R- hastalarıyla aynı dozda sadece oral asiklovir
+verilmiştir. CMV enfeksiyonunun varlığında, günde 10 mg/kg vücut ağırlığı dozajda
+intravenöz gansiklovir, en az 2 hafta boyunca veya negatif antijenemi elde edilene kadar
+uygulanmıştır. MEGALOTECT CP tedavisi alan R- grubunda, CMV seropozitif donöründen
+(D+) greft alan 33 CMV seronegatif alıcıdan (R-), 18’i (%54,5) CMV enfeksiyonu yaşamış,
+CMV negatif donörden greft alan 6 CMV seronegatif alıcıda (R-) enfeksiyon meydana
+gelmemiştir. Sadece asiklovir alan R + grubunda, bir CMV D+’den greft alan 28 CMV R+
+denekten 11’i (%39.3) CMV enfeksiyonu yaşamış ve CMV D- donörden greft alan 12
+R+'den bir alıcı CMV enfeksiyonu yaşamıştır (%8.3).
+Kalp nakli
+Açık etiketli, karşılaştırmalı, retrospektif bir çalışmada, seropozitif donörlerden (D+/R-) bir
+allogreft alan 207 erişkin yüksek riskli kalp nakli alıcısında (ortalama yaş 52.2 yıl)
+MEGALOTECT CP artı gansiklovirin kombine profilaksisi ve tek başına MEGALOTECT
+CP 'nin profilaksisi araştırılmıştır. Tüm hastalara indüksiyon tedavisi olarak poliklonal
+tavşan antitimosit globülin verilmiştir. Bakım immünosupresif tedavi olarak siklosporin A,
+azatioprin ve prednison kullanılmıştır. Akut allogreft rejeksiyon epizotları ardışık 3 gün
+boyunca günlük prednison kapsülü ile tedavi edilmiştir. Grup A'da 96 hastaya sadece
+MEGALOTECT CP, grup B'de ise 111 hastaya gansiklovir ile MEGALOTECT CP
+uygulanmıştır. 100 mg/kg MEGALOTECT CP, nakil öncesi i.v. ve ameliyat sonrası 1, 7, 14,
+21 ve 28. günlerde uygulanmıştır. CMV hastalığı olan hastalar, immünosupresif tedavinin
+azalmasıyla birlikte 21 gün boyunca gansiklovir ile tedavi edilmiştir.
+Haftalık aralıklarla ilave MEGALOTECT CP uygulanmıştır. Grup A'da %53,1'inde CMV
+enfeksiyonu, %32,3'ünde (31/96 hasta) CMV hastalığı vardır. Grup B'de %65,8'inde CMV
+enfeksiyonu, %11,7'sinde (13/111 hasta) CMV hastalığı vardır. Grup A'da dört CMV ile
+ilişkili ölüm gözlenmiş; 3 hasta ağır CMV sepsisinden, 1 hasta CMV ensefalitten ötürü
+kaybedilmiştir. B grubunda CMV ile ilişkili ölüm görülmedi; bu durum, MEGALOTECT CP
+ve gansiklovirin birlikte kullanımının sadece MEGALOTECT CP profilaksisine karşı
+istatistiksel olarak anlamlı bir yararını göstermektedir (P = 0,0326).
+Açık etiketli, tek merkezli bir çalışmada erişkin allogreft alıcılarında CMV'ye karşı pasif
+9immünizasyon araştırılmıştır (1984-1991 yılları arasında ortalama yaşı 47 olan, kalp nakli
+yapılan 146 hasta). Takip süresi 13 ile 73 ay arasında (ortalama 43 ay) değişmiştir.
+İmmünosüpresyon idamesi, siklosporin A ve prednisondan oluşmuştur. Bu rejime, ilk yılda
+tekrarlayan reddetme nedeniyle 11 hastada Azatioprin eklenmiştir. Tedavi grubunda 65
+CMV (R-) hastası operasyon sırasında 150 mg/kg MEGALOTECT CP’ve transplantasyon
+sonrası 2, 7, 14, 28, 42, 56 ve 72. günlerde 100 mg/kg MEGALOTECT CP almış; kontrol
+grubu ise CMV profilaksisi almayan 81 CMV (R +) hastadan meydana gelmiştir. Tedavi
+grubunda 21/65 (R-) hastada (%32,3) CMV enfeksiyonu, 11/65 (R-) hastada (%16,9) CMV
+hastalığı vardı. Kontrol grubunda 40/81 (R+) hastada (%49,4) CMV enfeksiyonu, 10/81 (R+)
+hastada (%12,3) CMV hastalığı vardı.
+Akciğer nakli
+Retrospektif olarak yapılan tek merkezli bir çalışmada, CMV enfeksiyonunun profilaksisi ve
+tedavisi için CMV immünoglobülini araştırılmıştır (2007-2011 yılları arasında akciğer nakli
+yapılan, yaş ortalaması 52 olan (Aralık 17-67 yaş) 156 yetişkin hasta analiz edilmiştir).
+Ortalama takip süresi 19,2 aydı. Tüm hastalara basiliksimab indüksiyonu ve üçlü
+immünosüpresyon (takrolimus, mikofenolat mofetil, metilprednisolon ve bunu takiben
+prednisolon) uygulanmıştır. Transplant sonrası birinci hafta boyunca tüm risk altındaki
+hastalarda (D /R– veya R+) i.v. gansiklovir başlanmıştır. Tedavi grubundaki 23 D +/R– hasta
+nakil sonrası 1, 4, 8, 15 ve 30. günlerde ve daha sonra bir yıl boyunca her ay 2 ml/kg
+MEGALOTECT CP ve 6 ay boyunca valgansiklovir almıştır. Kontrol grubunda 133 R +
+hastaya 3 ay boyunca valgansiklovir verilmiştir. Tedavi grubunda 14/23 (D+/R-) hasta (%61)
+CMV enfeksiyonu, 4/23 hasta(D+/R-) hasta (%17,4) CMV hastalığı geçirirken, kontrol
+grubunda toplam 46/133 (R+) hastada (%35) CMV enfeksiyonu ve 6/133 (R+) hastada (%4)
+CMV hastalığı gözlenmiştir. Mortalite tedavi grubunda 4/23 (D+R-) hasta (%17,4) ve
+kontrol grubunda 40/133 (R +) hasta (%30) idi.
+Karşılaştırmalı ve retrospektif bir çalışmada, CMV seropozitif allogrefti olan 68 erişkin
+akciğer nakli hastasındaki (ortalama yaş tedavi grubunda 55,8 ve kontrol grubunda 49,2 yıl)
+akciğer transplantasyonu sonrası kombine CMV profilaksisi araştırılmıştır. Ortalama takip
+süresi kontrol grubunda 16,5 ay (5,3 ila 69,5 ay), çalışma grubunda ise 23,8 ay (11,9 ila 35
+ay) olmuştur. Kontrol grubunda (1994 ila 2000 arasında nakil yapılan) 30 hastaya cerrahiden
+sonra ilk 3 ay boyunca tek başına gansiklovir verilmiş ve tedavi grubunda (2000 ila 2004
+arası nakil yapılan) 38 hastaya ise nakil sonrası ilk ay içinde 7 doz halinde 1 ml/kg
+MEGALOTECT CP ile ilave tedavi uygulanmıştır.
+Tablo 1: Çalışmanın sonuçları
+Tedavi grubu Kontrol grubu
+(gansiklovir + (sadece gansiklovir)
+MEGALOTECT (N = 30)
+CP)
+(N = 38)
+1 yıllık sağkalım %81,6 %63,3
+3 yıllık sağkalım %71,5 %40
+1 yıl süreyle CMV reaktivasyonu veya de novo enfeksiyon %71,5 %51,1
+olmaması
+3 yıl süreyle CMV reaktivasyonu veya de novo enfeksiyon %66,4 %30
+olmaması
+Takip sırasında CMV hastalığının gelişimi %13,2 %43,3
+CMV pnömonisinin gelişimi %13,2 %33,3
+10CMV sendromunun oluşumu %0 %10
+1 yıl Bronşiyolit obliterans sendromu (BOS) görülmemesi %91,0 %69,7
+3 yıl Bronşiyolit obliterans sendromu (BOS) görülmemesi %82 %54,3
+CMV'ye bağlı ölüm %0 %16,7
+Kemik iliği nakli (KİN)
+Randomize karşılaştırmalı bir çalışmada HLA (insan lökosit antijenleri) uyumlu kardeşlerden
+allojenik KİN alan lösemili 49 erişkin hastada CMV enfeksiyonunun önlenmesinde
+intravenöz hiperimmünoglobülin kullanımı araştırıldı. (ortalama yaş 22 (MEGALOTECT
+CP) ve 22,5 (kontrol)). Takip süresi 110 gündü. Tüm hastalar siklofosfamid ve total vücut
+ışınlaması ile koşullandırılmıştır. Tedavi grubunda 26 hastaya 1 ml/kg MEGALOTECT CP
+uygulandı, kontrol grubunda 23 hastaya - 7. günde ve KİN sonrası 13, 33, 73 ve 93. günlerde
+2 ml/kg normal immünoglobülin verildi. KİN’den sonraki ilk 110 gün içinde tedavi
+grubundaki 1/26 hastada (%4) ve kontrol grubunda 6/23 hastada (%26) CMV ile ilişkili
+interstisyel pnömoni gelişti. MEGALOTECT CP ile tedavi edilen gruptaki iki hastada
+tedavinin kesilmesinden sonra CMV ile ilişkili interstisyel pnömoni gelişti (143. ve 153.
+günler).
+Açık etiketli, karşılaştırmasız bir çalışmada, 93 erişkin BMT alıcısında (ortalama yaş 22 yaş,
+aralık 1-49 yıl) CMV hastalığının hiperimmünoglobülin ve oral asiklovir ile profilaksi ile
+azalması araştırıldı. Akut GVHD, 43 (%48,3) (Grad <II), 18 (%20,2) (Grad II) ve 28 (%34,3)
+(Grad III-IV) hastada rapor edildi. Total vücut ışınlaması, -3. ila -1. günlerde fraksiyonlara
+ayrılmış şekilde uygulanmıştı. KİN’den önce iki kez ve daha sonra KİN sonrası 100. güne
+kadar her üç haftada bir 100 mg/kg MEGALOTECT CP verildi. 11/93 hastada (%11,8)
+CMV enfeksiyon kanıtları gözlendi; bu hastaların 6’sında CMV hiperimmünoglobülin ile
+profilaksi aldıkları sırada CMV enfeksiyonu gelişti, 5 hastada MEGALOTECT
+CPkesildikten sonra virüs yeniden aktive oldu. Şiddetli GVHD şikayeti olan hastalardan
+10/38 hastada (%26,2) CMV enfeksiyonu gelişirken, orta GVHD yaşayan hastalarda sadece
+1/55 hastada (%1,8) CMV enfeksiyonu gelişmiştir.
+Meta analizlerin sonuçları
+Klinik etkililikle ilgili literatür verilerinin meta analizleri, yayımlanan tüm verileri çalışma
+tasarımlarından bağımsız olarak onaylanmış endikasyon profilaksisinde MEGALOTECT CP
+ile analiz etmek için yapılmıştır. CMV enfeksiyon oranı, birincil sonlanım noktası için analiz
+edilen parametre olarak belirlendi. Bir meta analiz, transplantasyon tipinden bağımsız olarak
+tüm çalışmaları kapsamaktadır ve bir tanesi de sadece katı organ transplantasyonlarını
+kapsamaktadır (kemik iliği nakli/lösemi dahil değildir); sonuçlar için tablo 2'ye bakınız.
+Tablo 2: Meta analizlerin sonuçları:
+MEGALOTECT CP Kontrol grubu
+n/N n/N
+% %
+%95 Clopper-Pearson GA %95 Clopper-Pearson GA
+Meta-analiz (tüm 422/1137 286/637
+endikasyonlar) %37,1 %44,9
+%34,3 - %40,0 %41,0 - %48,9
+2 taraflı ki kare testi: p değeri = 0,001
+MEGALOTECT CP Kontrol grubu
+n/N n/N
+% %
+%95 Clopper-Pearson GA %95 Clopper-Pearson GA
+11Meta-analiz (böbrek, 390/969 283/603
+kalp ve akciğer nakli) %40,2 %46,9
+%37,1 - %43,4 %42,9 - %51,0
+2 taraflı ki kare testi: p değeri = 0,009
+Her iki analizde de MEGALOTECT CP ile tedavi edilen hastalarda CMV enfeksiyonunda
+önemli bir azalma gözlendi. Tüm endikasyonlar dahil olmak üzere, CMV enfeksiyon oranı
+kontrol grubundaki hastaların %44,9'undan MEGALOTECT CP grubundaki hastaların
+%37,1'e geriledi (p = 0,001). Sadece böbrek, kalp ve akciğer transplantasyonlarına
+bakıldığında, azalma tüm hastaların %46,9'undan %40,2'sine idi (p = 0,009).
+5.2. Farmakokinetik özellikler
+Genel özellikler
+Emilim
+İntravenöz uygulama sonrası biyoyararlanım tam ve hızlıdır.
+Dağılım
+MEGALOTECT CP, intravenöz uygulamadan sonra alıcının dolaşım sisteminde derhal ve
+tamamen biyolojik olarak bulunur. Plazma ve ekstravasküler sıvı arasında nispeten hızlı bir
+şekilde dağılır; yaklaşık 3-5 gün sonra, intravasküler ve ekstravasküler bölümler arasında bir
+dengeye ulaşılır.
+Biyotransformasyon
+IgG ve IgG kompleksleri, retiküloendotelyal sistemin hücrelerinde parçalanır.
+Eliminasyon
+MEGALOTECT CP'nin yarılanma ömrü 25 gündür. Bu yarılanma ömrü hastadan hastaya
+değişebilir ve ayrıca klinik duruma da bağlıdır.
+Doğrusallık/Doğrusal olmayan durum
+Veri mevcut değildir.
+5.3. Klinik öncesi güvenlilik verileri
+İmmünoglobülinler, insan vücudunun normal bileşenleridir. Tekrarlanan doz toksisite testi ve
+embriyofetal toksisite çalışmaları, antikorların indüklenmesi ve antikorlarla etkileşimi
+nedeniyle uygulanabilir değildir.
+Klinik deneyim, immünoglobülinlerin tümörijenik ve mutajenik etkileri için ipucu
+vermediğinden, özellikle heterolog türlerde deneysel çalışmalar gerekli görülmemektedir.
+6. FARMASÖTİK ÖZELLİKLER
+6.1. Yardımcı maddelerin listesi
+12Glisin
+Enjeksiyonluk su
+6.2. Geçimsizlikler
+Bu tıbbi ürün, diğer tıbbi ürünlerle ve başka herhangi bir IVIg ürünüyle karıştırılmamalıdır.
+6.3. Raf ömrü
+36 ay
+Çözelti açıldıktan sonra hemen kullanılmalıdır.
+6.4. Saklamaya yönelik özel tedbirler
+Buzdolabında saklayınız (2°C - 8°C). Işıktan korumak için flakonu dış karton ambalajında
+muhafaza ediniz. Dondurmayınız.
+6.5. Ambalajın niteliği ve içeriği
+Bir tıpa (bromobütil) ve bir kapak (alüminyum) içeren bir flakon (tip II cam) içinde
+intravenöz infüzyon için 10 ml kullanıma hazır çözelti.
+Bir kutu aşağıdakileri içerir:
+10 ml (1.000 U) infüzyon için çözelti içeren 1 flakon
+6.6. Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+Tıbbi ürün kullanımdan önce oda veya vücut sıcaklığına getirilmelidir.
+Ürünler, uygulamadan önce partikül ve renk değişikliği açısından görsel olarak
+incelenmelidir. Çözelti, berrak veya hafif opalesan ve renksiz veya soluk sarı olmalıdır.
+Bulanık veya çökelti olan çözeltileri kullanmayın.
+Kullanılmamış olan ürünler ya da atık materyaller “Tıbbi Atıkların Kontrolü Yönetmeliği”
+ve “Ambalaj Atıklarının Kontrolü Yönetmeliği” ne uygun olarak imha edilmelidir.
+7. RUHSAT SAHİBİ
+Kansuk Laboratuarı San Tic. A.Ş.
+Yassıören Mahallesi Fırat Sk. No: 14/1 Arnavutköy İstanbul
+Tel: 0 212 592 15 76
+Faks:0 212 580 37 72
+8. RUHSAT NUMARASI(LARI)
+2021/395
+9. İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ
+1328.10.2021
+10. KÜB’ÜN YENİLENME TARİHİ
+14

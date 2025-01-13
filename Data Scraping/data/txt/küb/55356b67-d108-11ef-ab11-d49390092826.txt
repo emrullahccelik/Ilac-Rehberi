@@ -1,0 +1,944 @@
+KISA ÜRÜN BİLGİSİ
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+DAPTOMAX 500 mg enjeksiyonluk çözelti için liyofilize toz içeren flakon
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde:
+Daptomisin………………...500 mg
+Yardımcı madde(ler):
+Sodyum hidroksit…………..y.m.
+Yardımcı maddeler için 6.1’e bakınız.
+3. FARMASÖTİK FORM
+Enjeksiyonluk çözelti için liyofilize toz içeren flakon.
+Açık sarıdan açık kahverengiye liyofilize toz.
+4. KLİNİK ÖZELLİKLER
+4.1. Terapötik endikasyonlar
+DAPTOMAX, aşağıdaki enfeksiyonların tedavisinde endikedir (Bkz. Bölüm 4.4 ve 5.1):
+- Komplike deri ve yumuşak doku enfeksiyonu bulunan yetişkinlerde ve pediyatrik (1-17 yaş
+arası) hastalarda
+- Staphylococcus aureus kaynaklı sağ kalp enfektif endokardit olan yetişkin hastalarda.
+Daptomisin kullanımının uzman tavsiyelerine dayanması ve organizmanın antibakteriyel
+duyarlılığının dikkate alınması önerilir.
+- Staphylococcus aureus bakteriyemisi olan yetişkin ve pediyatrik (1 ila 17 yaş arası)
+hastalarda. Yetişkinlerde bakteriyemide kullanım sağ kalp enfektif endokardit veya
+komplike deri ve yumuşak doku enfeksiyonu ile ilişkili iken, pediyatrik hastalarda
+bakteriyemide kullanım komplike deri ve yumuşak doku enfeksiyonu ile
+ilişkilendirilmelidir.
+DAPTOMAX yalnızca gram pozitif bakterilere karşı aktiftir (Bkz. Bölüm 5.1). Gram negatif
+ve/veya bazı anaerobik bakteri tiplerinden şüphelenilen karma enfeksiyonlarda DAPTOMAX,
+uygun antibakteriyel ajan(lar)la birlikte uygulanmalıdır.
+Antibakteriyel ajanların uygun kullanımıyla ilgili resmi kılavuzlar göz önünde
+bulundurulmalıdır.
+1 / 324.2. Pozoloji ve uygulama şekli
+Pozoloji/uygulama sıklığı ve süresi:
+Komplike deri ve yumuşak doku enfeksiyonları
+Staphylococcus aureus bakteriyemisi yokluğunda: 7-14 gün boyunca veya enfeksiyon
+iyileşinceye kadar 24 saatte bir 4 mg/kg uygulanır (Bkz. Bölüm 5.1).
+Staphylococcus aureus bakteriyemisi varlığında: 24 saatte bir 6 mg/kg uygulanır. Böbrek
+yetmezliği olan hastalarda doz ayarlamaları için “Özel popülasyonlara ilişkin ek bilgiler”
+başlığı altına bakınız. Hastada algılanan komplikasyon riskine göre tedavi süresinin 14 günden
+daha uzun olması gerekebilir.
+Staphylococcus aureus kaynaklı bilinen ya da şüphelenilen sağ kalp endokarditi
+24 saatte bir 6 mg/kg uygulanır. Böbrek yetmezliği olan hastalarda doz ayarlamaları için “Özel
+popülasyonlara ilişkin ek bilgiler” başlığı altına bakınız. Tedavi süresi güncel resmi kılavuzlara
+uygun olmalıdır.
+DAPTOMAX intravenöz olarak % 0,9 sodyum klorür içinde uygulanır (Bkz. Bölüm 6.6) ve
+günde bir kereden daha sık kullanılmamalıdır.
+Kreatin fosfokinaz (CPK) seviyeleri tedavi sırasında başlangıçta ve düzenli aralıklarla (en az
+haftada bir) ölçülmelidir (Bkz. Bölüm 4.4).
+Uygulama şekli:
+Yetişkinlerde DAPTOMAX, 30 dakikalık bir süre içinde intravenöz infüzyon şeklinde veya 2
+dakikalık bir süre boyunca intravenöz enjeksiyon şeklinde uygulanır (Bkz. Bölüm 6.6).
+7 ila 17 yaş arasındaki pediyatrik hastalarda DAPTOMAX, 30 dakikalık bir süre içinde
+intravenöz infüzyon ile verilir. 1 ila 6 yaş arasındaki pediyatrik hastalarda ise 60 dakikalık bir
+süre boyunca intravenöz infüzyon ile verilir (Bkz. Bölüm 6.6).
+Özel popülasyonlara ilişkin ek bilgiler:
+Böbrek yetmezliği:
+Daptomisin başlıca böbrekler yoluyla atılır.
+Sınırlı klinik deneyim nedeniyle DAPTOMAX, herhangi bir derecede böbrek yetmezliği olan
+(Kreatin klirensi <80 mL/dk) yetişkin hastalarda, beklenen klinik yararın potansiyel riske ağır
+2 / 32bastığı durumlarda kullanılmalıdır (Tablo 1 ve dipnotlara bakınız). Herhangi bir böbrek
+yetmezliği olan tüm hastalarda, tedaviye verilen yanıt, böbrek fonksiyonu ve kreatin fosfokinaz
+düzeyleri yakından izlenmelidir (ayrıca bkz. Bölüm 4.4 ve 5.2). Böbrek yetmezliği olan çocuk
+hastalarda DAPTOMAX için doz rejimi belirlenmemiştir.
+Tablo 1. Böbrek yetmezliği olan yetişkinlerde endikasyon ve kreatin klirensi ile ilişkili doz
+rejimi:
+Endikasyon Kreatin klirensi Önerilen doz Açıklama
+Komplike deri ve yumuşak doku ≥ 30 mL/dk Günde bir kez 4 mg/kg Bkz.
+enfeksiyonları - Staphylococcus Bölüm 5.1
+aureus bakteriyemisi yokluğunda < 30 mL/dk 48 saatte bir 4 mg/kg (1,2)
+Staphylococcus aureus ≥ 30 mL/dk Günde bir kez 6 mg/kg Bkz.
+bakteriyemisi ile ilişkili sağ kalp Bölüm 5.1
+endokarditi ya da komplike deri ve < 30 mL/dk 48 saatte bir 6 mg/kg (1,2)
+yumuşak doku enfeksiyonları
+(1) Doz aralığı ayarlamasının güvenilirliği ve etkinliği kontrollü klinik çalışmalarda
+değerlendirilmemiştir ve tavsiye farmakokinetik çalışmalara ve modelleme sonuçlarına
+dayanmaktadır (Bkz. Bölüm 4.4 ve 5.2).
+(2) Farmakokinetik modelleme sonuçları da dahil olmak üzere gönüllülerdeki farmakokinetik
+verilere dayanan aynı doz ayarlamaları, hemodiyaliz (HD) veya sürekli ayaktan periton diyalizi
+(SAPD) olan yetişkin hastalar için önerilmektedir. Mümkünse, daptomisin diyaliz günlerinde
+diyaliz tamamlandıktan sonra uygulanmalıdır (Bkz. Bölüm 5.2).
+Karaciğer yetmezliği:
+Hafif ya da orta şiddette karaciğer yetmezliği olan hastalarda (Child-Pugh Sınıf B)
+DAPTOMAX uygulaması sırasında doz ayarlaması yapılmasına gerek yoktur. Şiddetli
+karaciğer yetmezliği olan hastalar (Child-Pugh Sınıf C) ile ilgili veri yoktur. Bu nedenle, bu tür
+hastalara DAPTOMAX verilirse dikkatli olunmalıdır.
+Pediyatrik popülasyon (1-17 yaş arası):
+Pediatrik hastalar için yaşa ve endikasyona göre önerilen doz rejimleri aşağıda gösterilmiştir
+(Bkz. Tablo 2).
+3 / 32Tablo 2. Pediatrik hastalar için yaşa ve endikasyona göre önerilen doz rejimleri
+Endikasyon
+Staphylococcus aureus bakteriyemisi Staphylococcus aureus bakteriyemisi
+yokluğunda komplike deri ve varlığında komplike deri ve yumuşak
+Yaş grubu
+yumuşak doku enfeksiyonları doku enfeksiyonları
+Doz rejimi Tedavi Doz rejimi Tedavi
+süresi süresi
+12 – 17 yaş 30 dakikalık infüzyonla 30 dakikalık infüzyonla
+her 24 saatte bir 5 mg/kg her 24 saatte bir 7 mg/kg
+7 – 11 yaş 30 dakikalık infüzyonla 30 dakikalık infüzyonla
+her 24 saatte bir 7 mg/kg 14 güne her 24 saatte bir 9 mg/kg
+(1)
+2 – 6 yaş 60 dakikalık infüzyonla kadar 60 dakikalık infüzyonla
+her 24 saatte bir 9 mg/kg her 24 saatte bir 12 mg/kg
+1 – <2 yaş 60 dakikalık infüzyonla 60 dakikalık infüzyonla
+her 24 saatte bir 10 mg/kg her 24 saatte bir 12 mg/kg
+(1) Pediyatrik Staphylococcus aureus bakteriyemisi için minimum DAPTOMAX süresi, her bir
+hastada beklenen komplikasyon riskine uygun olmalıdır. DAPTOMAX süresinin, beklenen
+komplikasyon riskine uygun olarak 14 günden daha uzun olması gerekebilir. Pediatrik
+Staphylococcus aureus bakteriyemisi çalışmasında, ortalama İ.V. daptomisin süresi 12 gün olup,
+1 ila 44 gün arasında değişmektedir. Tedavi süresi güncel resmi kılavuzlara uygun olmalıdır.
+DAPTOMAX intravenöz olarak % 0,9 sodyum klorür içinde uygulanır (Bkz. Bölüm 6.6) ve
+günde bir kereden daha sık kullanılmamalıdır.
+Kreatin fosfokinaz (CPK) seviyeleri tedavi sırasında başlangıçta ve düzenli aralıklarla (en az
+haftada bir) ölçülmelidir (Bkz. Bölüm 4.4).
+Yenidoğan köpeklerde gözlenen kas, nöromüsküler ve/veya sinir sistemi (periferik ve/veya
+santral) üzerindeki potansiyel etki riski nedeniyle daptomisin bir yaşın altındaki pediyatrik
+hastalara verilmemelidir (Bkz. Bölüm 5.3).
+Geriyatrik popülasyon:
+Yetişkinler için önerilen dozlar kullanılmalıdır ancak ciddi böbrek yetmezliği olan yaşlı hastalar
+için “Özel popülasyonlara ilişkin ek bilgiler - Böbrek yetmezliği” başlığında belirtilen dozlar
+dikkate alınmalıdır (Ayrıca bkz. Bölüm 4.4).
+4 / 32DAPTOMAX’ın uygulamadan önce sulandırılması ve seyreltilmesi ile ilgili talimatlar için
+bölüm 6.6'ya bakınız.
+4.3. Kontrendikasyonlar
+DAPTOMAX, daptomisine ya da yardımcı maddelerden herhangi birine (Bkz. Bölüm 6.1) karşı
+aşırı duyarlılığı olan hastalarda kullanılmamalıdır.
+4.4. Özel kullanım uyarıları ve önlemleri
+Genel
+DAPTOMAX tedavisinin başlamasından sonra komplike deri ve yumuşak doku enfeksiyonu
+veya sağ kalp endokarditi dışında bir enfeksiyon odağı tespit edilirse, mevcut spesifik
+enfeksiyonun tedavisinde etkili olduğu kanıtlanmış alternatif antibakteriyel tedavinin
+başlatılmasına dikkat edilmelidir.
+Anafilaksi/aşırı duyarlılık reaksiyonları
+Daptomisin ile anafilaksi/aşırı duyarlılık reaksiyonları bildirilmiştir (Bkz. Bölüm 4.8).
+DAPTOMAX’a karşı bir alerjik reaksiyon geliştiği takdirde, ilaç kesilir ve uygun tedavi
+uygulanır.
+Pnömoni
+Klinik çalışmalarda daptomisinin pnömoni tedavisinde etkili olmadığı gösterilmiştir. Bu
+nedenle DAPTOMAX pnömoni tedavisi için endike değildir.
+Staphylococcus aureus kaynaklı sağ kalp endokarditi
+Staphylococcus aureus'a bağlı sağ kalp endokarditi tedavisinde daptomisin kullanımına ilişkin
+klinik veriler 19 yetişkin hastayla sınırlıdır (Bkz. Bölüm 5.1). Staphylococcus aureus'a bağlı
+sağ kalp endokarditi olan 18 yaşın altındaki çocuklarda ve ergenlerde daptomisin güvenliliği ve
+etkililiği belirlenmemiştir. Protez kapak enfeksiyonu olan veya Staphylococcus aureus'a bağlı
+sol kalp infektif endokarditli hastalarda daptomisin etkililiği kanıtlanmamıştır.
+Derin enfeksiyonlar
+Derin enfeksiyonları olan hastalara gecikmeden tüm gerekli cerrahi girişimlerde (ör.
+debridman, protez cihazlarının çıkarılması, kapakçık replasman ameliyatı) bulunulmalıdır.
+5 / 32Enterokokal enfeksiyonlar
+Enterococcus faecalis ve Enterococcus faecium dahil enterokoklara bağlı enfeksiyonlara karşı
+Daptomisinin olası klinik etkililiğine ilişkin sonuçlara varmak için yeterli kanıt yoktur. Ayrıca,
+bakteremi varlığında veya yokluğunda enterokok enfeksiyonların tedavisi için uygun olabilecek
+daptomisin doz rejimleri belirlenmemiştir. Çoğunlukla baktereminin eşlik ettiği enterokok
+enfeksiyonlarının tedavisinde daptomisin ile başarısızlık bildirilmiştir. Bazı durumlarda tedavi
+başarısızlığı, daptomisine azalmış duyarlılık ya da belirgin dirençli organizmaların seçilmesi ile
+ilişkilendirilmiştir.
+Duyarlı olmayan organizmalar
+Antibiyotik kullanımı, duyarlı olmayan mikroorganizmaların aşırı üremesine neden olabilir.
+Tedavi sırasında süper enfeksiyon meydana geldiği takdirde uygun tedbirler alınmalıdır.
+Clostridioides difficile ile ilişkili diyare
+Daptomisin kullanımıyla Clostridioides difficile ile ilişkili diyare (CDİD) bildirilmiştir (Bkz.
+Bölüm 4.8). Eğer CDİD’den şüpheleniyorsa ya da CDİD teyit edildiyse, DAPTOMAX’ın
+kesilmesi ve klinik olarak endike olduğu şekilde uygun tedavinin başlatılması gerekebilir.
+İlaç/Laboratuvar testi etkileşimleri
+Tespit için belirli rekombine tromboplastin reaktifleri kullanıldığında, yalancı protrombin
+zamanı uzaması ve Uluslararası Normalleştirilmiş Oran’da (INR) artış gözlenmiştir (Bkz.
+Bölüm 4.5).
+Kreatin fosfokinaz ve miyopati
+Daptomisin tedavisi sırasında plazma kreatin fosfokinaz (CPK; MM izoenzimi) düzeylerinde
+artış ile ilişkili kas ağrıları/zayıflığı ve miyozit, miyoglobinemi ve rabdomiyoliz bildirilmiştir
+(Bkz. Bölüm 4.5, 4.8 ve 5.3). Klinik çalışmalarda, daptomisin ile tedavi edilen hastalarda (%
+1,9), plazma CPK'sinde kas semptomları olmadan normalin üst sınırının 5 katına varan belirgin
+artışlar, karşılaştırma grubuna (% 0,5) göre daha sık görülmüştür.
+Bu nedenle aşağıdakilerin yapılması önerilir:
+ Tedavi sırasında tüm hastalarda plazma CPK düzeyi başlangıçta ve daha sonra düzenli
+aralıklarla (haftada en az bir kez) ölçülmelidir.
+ Miyopati geliştirme riski daha yüksek olan hastalarda CPK daha sık ölçülmelidir (ör.
+Tedavinin ilk iki haftasında her 2-3 günde bir). Örneğin, hemodiyaliz veya SAPD olanlar
+6 / 32dahil, herhangi bir derecede böbrek yetmezliği olan hastalar (kreatinin klirensi <80 ml/dk;
+ayrıca bkz. Bölüm 4.2) ve miyopati ile ilişkili olduğu bilinen diğer tıbbi ürünleri alan
+hastalar (ör. HMG-CoA redüktaz) inhibitörler, fibratlar ve siklosporin).
+ Başlangıçta CPK'si normalin üst sınırının 5 katından fazla olan hastalarda, daptomisin
+tedavisi sırasında daha fazla artış riski olabileceği göz ardı edilemez. Bu durum daptomisin
+tedavisine başlarken dikkate alınmalıdır ve eğer daptomisin uygulanırsa, bu hastalar haftada
+bir kereden daha sık izlenmelidir.
+ DAPTOMAX, miyopati ile ilişkili diğer tıbbi ürünleri kullanan hastalara, hastaya sağlanan
+yararın riskten daha ağır bastığı düşünülmediği sürece uygulanmamalıdır.
+ Hastalar terapi sırasında miyopatiyi işaret eden belirti veya semptomlar açısından düzenli
+olarak izlenmelidir.
+ Açıklanamayan kas ağrısı, hassasiyet, halsizlik veya kramp gelişen her hastada 2 günde bir
+CPK seviyeleri izlenmelidir. CPK düzeyi normalin üst sınırının 5 katından fazla olursa,
+açıklanamayan kas semptomları varlığında DAPTOMAX kesilmelidir.
+Periferik nöropati
+DAPTOMAX tedavisi sırasında hekimler periferik nöropati belirti ve semptomları açısından
+dikkatli olmalıdır (Bkz. Bölüm 4.8 ve 5.3). Bu semptomlar görüldüğünde gerekirse
+DAPTOMAX tedavisi kesilmelidir.
+Pediyatrik popülasyon
+Yenidoğan köpeklerde gözlenen kas, nöromüsküler ve/veya sinir sistemi (periferik ve/veya
+merkezi) üzerindeki potansiyel etki riski nedeniyle bir yaşın altındaki pediyatrik hastalara
+daptomisin verilmemelidir (Bkz. Bölüm 5.3).
+Ciddi kutanöz advers reaksiyonlar
+Eozinofili ve sistemik semptomlarla ilaç reaksiyonu (DRESS) ve mukoz membran tutulumu
+olan veya olmayan vezikülobüllöz döküntü (Stevens-Johnson Sendromu (SJS) veya Toksik
+Epidermal Nekroliz (TEN)) dahil olmak üzere yaşamı tehdit edebilen şiddetli kutanöz advers
+reaksiyonlar (SCAR'lar), daptomisin kullanımı ile bildirilmiştir (Bkz. Bölüm 4.8). Reçeteleme
+sırasında, hastalara şiddetli cilt reaksiyonlarının belirti ve semptomları hakkında bilgi verilmeli
+ve yakından izlenmelidir. Bu reaksiyonları düşündüren belirti ve semptomlar ortaya çıkarsa,
+DAPTOMAX derhal kesilmeli ve alternatif bir tedavi düşünülmelidir. Hasta, daptomisin
+7 / 32kullanımıyla şiddetli bir kütanöz advers reaksiyon geliştirmişse, bu hastada hiçbir zaman
+daptomisin ile tedavi yeniden başlatılmamalıdır.
+Tubulointerstisyel nefrit
+Tubulointerstisyel nefrit (TIN), daptomisin ile pazarlama sonrası deneyimde bildirilmiştir.
+DAPTOMAX kullanımı sırasında ateş, döküntü, eozinofili ve/veya yeni veya kötüleşen böbrek
+yetmezliği gelişen hastalar tıbbi değerlendirmeden geçirilmelidir. TIN'den şüpheleniliyorsa,
+DAPTOMAX derhal kesilmeli ve uygun tedaviye başlanmalı ve/veya gereken önlemler
+alınmalıdır.
+Eozinofilik pnömoni
+Daptomisin alan hastalarda eozinofilik pnömoni bildirilmiştir (Bkz. Bölüm 4.8). Daptomisin ile
+bağlantılı bildirilen vakalarda ateş, hipoksik solunum yetmezliği ile birlikte dispne ve organize
+pnömoni gelişmiştir. Genel olarak hastalarda eozinofilik pnömoni daptomisin başlatıldıktan 2
+hafta sonra gelişmiş ve daptomisin bırakıldığı ve steroid tedavisine başlandığı sırada hastalıkta
+iyileşme sağlanmıştır. Yeniden maruziyeti takiben eozinofilik pnömoninin nüksettiği
+bildirilmiştir. DAPTOMAX alırken bu işaret ve semptomları gösteren hastaların, diğer
+nedenleri (ör. bakteriyel enfeksiyon, fungal enfeksiyon, parazitler ve diğer ilaçlar) olasılık dışı
+bırakmak amacıyla uygun olduğu durumlarda bronkoalveolar lavaj da dahil olmak üzere acilen
+tıbbi değerlendirmeye tabi tutulmaları ve DAPTOMAX tedavisinin derhal bırakılması
+gerekmektedir. Uygun olduğunda sistemik steroidlerle tedavi başlatılmalıdır.
+Renal bozukluk
+Daptomisin ile tedavi sırasında renal bozukluk bildirilmiştir. Şiddetli renal bozukluğun kendisi
+de daptomisin düzeylerinde artışa eğilim sağlayıp, miyopati gelişme riskini artırabilir (Bkz.
+Bölüm 4.4).
+Kreatinin klirensi <30 mL/dk olan hastalar için DAPTOMAX doz aralığında bir düzenleme
+gerekmektedir (Bkz. Bölüm 4.2 ve 5.2). Doz sıklığında düzenlemenin güvenliliği ve etkililiği
+kontrollü klinik çalışmalarda değerlendirilmemiş olup, öneri başlıca farmakokinetik modelleme
+verilerini temel almaktadır. DAPTOMAX bu tip hastalarda sadece beklenen klinik faydanın
+potansiyel riske ağır bastığı düşünülüyorsa kullanılmalıdır.
+DAPTOMAX ile tedaviye başlamadan önce bir dereceye kadar renal bozukluğu olan hastalara
+(kreatinin klirensi <80 mL/dk) uygulanırken dikkat gösterilmelidir. Düzenli renal fonksiyon
+takibi önerilmektedir (Bkz. Bölüm 5.2).
+8 / 32Ayrıca, potansiyel olarak nefrotoksik ajanlar eşzamanlı olarak uygulandığında, hastanın önceki
+renal fonksiyonuna bakılmaksızın düzenli renal fonksiyon takibi tavsiye edilmektedir (Bkz.
+Bölüm 4.5).
+Böbrek yetmezliği olan çocuk hastalarda daptomisin için doz rejimi belirlenmemiştir.
+Obezite
+Beden kitle indeksi (BMI) >40 kg/m2 olan ancak kreatinin klirensi >70 mL/dk olan obez
+gönüllülerde, EAA daptomisin obez olmayan eşleştirilmiş kontrollere kıyasla anlamlı olarak
+0-∞
+artmıştır (ortalama %42 daha yüksek). Oldukça obez kişilerde daptomisinin güvenlilik ve
+etkililiğine dair bilgiler kısıtlı olduğundan dikkat gösterilmelidir. Bununla birlikte, dozda
+azaltma gerektiğine dair bir kanıta rastlanmamıştır (Bkz. Bölüm 5.2).
+Yardımcı maddeler
+Bu tıbbi ürün her bir flakonda 1 mmol (23 mg)’den daha az sodyum ihtiva eder. Bu değerde
+herhangi bir yan etki beklenmemektedir.
+4.5. Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+Daptomisin, sitokrom P450 (CYP450) üzerinden metabolize olmaz ya da çok az miktarda olur.
+Daptomisinin P450 sistemiyle metabolize olan ilaçların metabolizmasını inhibe etmesi ya da
+indüklemesi olası değildir.
+Daptomisin; aztreonam, tobramisin, varfarin, simvastatin ve probenesid ile ilaç/ilaç etkileşimi
+çalışmalarında araştırılmıştır. Daptomisinin aztreonam, varfarin ve probenesidin
+farmakokinetiği üzerinde herhangi bir etkisi olmamış ya da bu ilaçlar daptomisinin
+farmakokinetiğini değiştirmemiştir. Daptomisinin farmakokinetiği aztreonam tarafından
+anlamlı olarak değiştirilmemiştir.
+2 mg/kg’lık bir daptomisin dozu ile 30 dakikalık eş zamanlı intravenöz infüzyon uygulaması
+sırasında daptomisin ve tobramisinin farmakokinetiğinde küçük değişiklikler gözlense de, bu
+değişiklikler istatistiksel olarak anlamlı düzeye ulaşmamıştır. Onaylı klinik dozda daptomisin
+kullanıldığında, daptomisin ile tobramisin arasındaki etkileşim bilinmemektedir.
+DAPTOMAX’ın tobramisin ile birlikte kullanıldığı durumlarda dikkatli olunmalıdır.
+Daptomisin ve varfarinin eş zamanlı uygulamasına dair deneyimler sınırlıdır. Daptomisin ile
+varfarin dışındaki antikoagülanlarla çalışma yapılmamıştır. DAPTOMAX ve varfarin kullanan
+9 / 32hastalarda, DAPTOMAX tedavisine başlanmasını takiben ilk günlerde antikoagülan aktivite
+izlenmelidir.
+Daptomisinin miyopatiyi tetikleyebilecek diğer ilaçlarla (HMG-CoA redüktaz inhibitörleri) eş
+zamanlı uygulanması ile edinilen deneyimler sınırlıdır. Bununla birlikte, bu tıbbi ürünlerden
+birini daptomisin ile aynı anda alan yetişkin hastalarda CPK düzeylerinde belirgin artışlar ve
+rabdomiyoliz vakaları meydana gelmiştir. Eş zamanlı uygulamanın yararları riskten ağır
+basmadığı sürece, daptomisin ile tedavi sırasında miyopati ile ilişkili diğer tıbbi ürünlerin
+kullanımına bir süreliğine ara verilmesi düşünülmelidir. Birlikte uygulamadan kaçınılamıyorsa,
+CPK seviyeleri haftada bir kereden daha sık ölçülmeli ve hastalar miyopatiyi işaret edebilecek
+herhangi bir belirti veya semptom açısından yakından izlenmelidir (Bkz. Bölüm 4.4, 4.8 ve 5.3).
+Daptomisin başlıca renal filtrasyon ile temizlenir ve böylece plazma düzeyleri renal filtrasyonu
+azaltan tıbbi ürünler ile eş zamanlı uygulama sırasında artabilir (ör. NSAİİ’ler ve COX-2
+inhibitörleri). Ayrıca, ilave renal etkilerden dolayı eş zamanlı uygulama sırasında meydana
+gelebilecek bir farmakodinamik etkileşim potansiyeli söz konusudur. Bu nedenle, daptomisin
+renal filtrasyonu azalttığı bilinen diğer tıbbi ürünlerle eş zamanlı olarak uygulandığında dikkat
+gösterilmelidir.
+Pazarlama sonrası gözetim sırasında, bazı protrombin zamanı/uluslararası normalleştirilmiş
+oran (PT/INR) testlerinde kullanılan daptomisin ile belirli reaktifler arasında etkileşim vakaları
+bildirilmiştir. Bu girişim PT'nin yanlış uzamasına ve INR yükselmesine neden olmuştur.
+Daptomisin alan hastalarda açıklanamayan PT/INR anormallikleri görülürse, laboratuvar testi
+ile olası bir in vitro etkileşime dikkat edilmelidir. Hatalı sonuç olasılığı, daptomisinin en düşük
+plazma konsantrasyonlarının olduğu zamana yakın bir zamanda PT veya INR testi için örnekler
+alınarak en aza indirilebilir (Bkz. Bölüm 4.4).
+Özel popülasyonlara ilişkin ek bilgiler:
+Özel popülasyonlara ilişkin klinik etkileşim çalışması yürütülmemiştir.
+Pediyatrik popülasyon:
+Pediyatrik popülasyona ilişkin klinik etkileşim çalışması yürütülmemiştir.
+10 / 324.6. Gebelik ve laktasyon
+Genel tavsiye
+Gebelik kategorisi: B
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon)
+Kadın hastalar tercih ettikleri doğum kontrol yöntemini kullanmalıdır ve daptomisin tedavisi
+uygulandığı sürede bu şekilde hareket etmeleri güvenlidir.
+Gebelik dönemi
+Daptomisin için, gebelikte maruziyet ile ilgili herhangi bir klinik veri bulunmamaktadır.
+Hayvanlar üzerinde yapılan çalışmalar, gebelik/embriyonal/fetal gelişim/doğum ya da doğum
+sonrası gelişim ile ilgili olarak doğrudan ya da dolaylı zararlı etkiler olduğunu
+göstermemektedir (Bkz. Bölüm 5.3). Gebe kadınlara verilirken tedbirli olunmalıdır.
+Bu nedenle, DAPTOMAX gebelik sırasında yalnızca, anne adayında sağlanacak faydalar, fetal
+potansiyel riskten daha fazlaysa kullanılmalıdır.
+Laktasyon dönemi
+Tek bir insan vakası çalışmasında, daptomisin 500 mg/gün’lük bir dozda emziren bir anneye
+28 gün süresince her gün intravenöz yoldan uygulanmış ve hastanın sütünden 27. günde 24
+saatlik bir süreçte örnekler toplanmıştır. Anne sütündeki ölçülen en yüksek daptomisin
+konsantrasyonu 0,045 mcg/mL olup, bu düşük bir konsantrasyondur.
+Emzirmenin durdurulup durdurulmayacağına ya da DAPTOMAX tedavisinin durdurulup
+durdurulmayacağına/tedaviden kaçınılıp kaçınılmayacağına ilişkin karar verilirken,
+emzirmenin çocuk açısından faydası ve DAPTOMAX tedavisinin emziren anne açısından
+faydası dikkate alınmalıdır. Emziren kadınlara DAPTOMAX kullanılırken çocuk emzirmekten
+kaçınmaları söylenmelidir.
+Üreme yeteneği/Fertilite
+Daptomisin için fertilite ile ilgili klinik veri bulunmamaktadır. Hayvan çalışmaları,
+doğurganlıkla ilgili doğrudan veya dolaylı zararlı etkileri göstermemektedir (Bkz. Bölüm 5.3).
+11 / 324.7. Araç ve makine kullanımı üzerindeki etkiler
+Araç ve makine kullanma yeteneği üzerindeki etkilerle ilgili herhangi bir çalışma
+yapılmamıştır. Bildirilen advers ilaç reaksiyonlarına dayanarak, daptomisinin araç veya makine
+kullanma yeteneği üzerinde bir etki yaratma olasılığının düşük olduğu varsayılmaktadır.
+4.8. İstenmeyen etkiler
+Güvenlilik profilinin özeti
+Klinik çalışmalarda, 2.011 gönüllüye daptomisin uygulanmıştır. 1.108'i hasta ve 113'ü sağlıklı
+1.121 gönüllü 4 mg/kg’lık, 304'ü hasta ve 156'sı sağlıklı 460 gönüllü 6 mg/kg’lık dozlarda
+daptomisin almıştır. Pediyatrik çalışmalarda 372 hastanın 61'ine tek doz ve 311'ine komplike
+deri ve yumuşak doku enfeksiyonu (kDYDE) veya S. aureus kaynaklı bakteriyemi için
+terapötik rejim uygulanmıştır (günlük dozlar 4 mg/kg ila 12 mg/kg arasında değişmektedir).
+Daptomisin ve karşılaştırıcı rejimler için advers reaksiyonlar benzer sıklıkta (yani araştırmacı
+tarafından muhtemelen, yüksek ihtimalle veya kesinlikle tıbbi ürünle ilişkili olduğu düşünülen)
+rapor edilmiştir.
+En sık bildirilen (yaygın sıklıkta görülen (≥ 1/100 ila <1/10)) advers reaksiyonlar:
+Mantar enfeksiyonları, idrar yolu enfeksiyonu, kandida enfeksiyonu, anemi, anksiyete,
+uykusuzluk, baş dönmesi, baş ağrısı, hipertansiyon, hipotansiyon, gastrointestinal ve abdominal
+ağrı, bulantı, kusma, kabızlık, ishal, midede şişkinlik, gaz şişkinliği ve distansiyon, karaciğer
+fonksiyon testlerinde anormallik (artmış alanin aminotransferaz (ALT), aspartat
+aminotransferaz (AST) veya alkalin fosfataz (ALP)), döküntü, kaşıntı, ekstremite ağrısı, serum
+kreatin fosfokinaz (CPK) artışı, infüzyon bölgesi reaksiyonları, pireksi, asteni.
+Daha az sıklıkla bildirilen, ancak daha ciddi advers reaksiyonlar arasında aşırı duyarlılık
+reaksiyonları, eozinofilik pnömoni (bazen organize pnömoni şeklinde ortaya çıkan), eozinofili
+ve sistemik semptomlarla birlikte ilaç döküntüsü (DRESS), anjiyoödem ve rabdomiyoliz yer
+almaktadır.
+Advers reaksiyon listesi
+Aşağıdaki advers reaksiyonlar, tedavi sırasında ve takip sırasında görülme sıklıklarına göre
+sıralanmıştır: Çok yaygın (≥1/10); yaygın (≥1/100 ila <1/10); yaygın olmayan (≥1/1.000 ila
+<1/100); seyrek (≥1/10.000 ila <1/1.000); çok seyrek (<1/10.000), bilinmiyor (eldeki verilerden
+hareketle tahmin edilemiyor).
+Her sıklık grubunda, istenmeyen etkiler azalan ciddiyet sırasına göre sunulmaktadır.
+12 / 32Enfeksiyonlar ve enfestasyonlar
+Yaygın: Fungal enfeksiyonlar, idrar yolu enfeksiyonları, kandida enfeksiyonu
+Yaygın olmayan: Fungemi
+Bilinmiyor*: Clostridioides difficile ilişkili ishal**
+Kan ve lenf sistemi hastalıkları
+Yaygın: Anemi
+Yaygın olmayan: Eozinofili, trombositoz, uluslararası normalleştirilmiş oranında (INR) artış,
+lökositoz
+Seyrek: Uzamış protrombin süresi
+Bilinmiyor*: Trombositopeni
+Bağışıklık sistemi hastalıkları
+Bilinmiyor*: Anafilaksi, anjiyoödem, pulmoner eozinofili, orofaringeal şişlik hissini içeren
+izole spontan raporlarla kendini gösteren ancak bunlarla sınırlı olmamak üzere aşırı duyarlılık
+reaksiyonları**. Aşağıdaki belirtileri içeren infüzyon reaksiyonları: taşikardi, hırıltılı solunum,
+yüksek ateş, rigor, sistemik kızarıklık, vertigo, senkop ve metalik tat
+Metabolizma ve beslenme hastalıkları
+Yaygın olmayan: İştah azalması, hiperglisemi, elektrolit dengesizliği
+Psikiyatrik hastalıklar
+Yaygın: Anksiyete, insomnia
+Sinir sistemi hastalıkları
+Yaygın: Baş ağrısı, sersemlik hissi
+Yaygın olmayan: Parestezi, tat alma duyusunda bozukluk, tremor, gözde irritasyon
+Bilinmiyor*: Periferal nöropati**
+Kulak ve iç kulak hastalıkları
+Yaygın olmayan: Baş dönmesi
+Kardiyak hastalıklar
+Yaygın olmayan: Supraventriküler taşikardi, ekstrasistol
+13 / 32Vasküler hastalıklar
+Yaygın: Hipertansiyon, hipotansiyon
+Yaygın olmayan: Yüzde kızarıklık
+Solunum, göğüs hastalıkları ve mediastinal hastalıklar
+Bilinmiyor*: Eozinofilik pnömoni1**, öksürük
+Gastrointestinal hastalıklar
+Yaygın: Gastrointestinal ağrı ve karın ağrısı, kabızlık, diyare, bulantı, kusma, gaz, karında
+şişkinlik ve dolgunluk
+Yaygın olmayan: Hazımsızlık, dil iltihabı
+Hepato-bilier hastalıklar
+Yaygın: Karaciğer fonksiyon testlerinde anormallik2 (AST, ALT ve alkalen fosfataz artışı)
+Seyrek: Sarılık
+Deri ve deri altı doku hastalıkları
+Yaygın: Döküntü, kaşıntı
+Yaygın olmayan: Ürtiker
+Bilinmiyor*: Akut jeneralize ekzantematöz püstüloz (AGEP), eozinofili ve sistemik
+semptomlarla birlikte ilaç döküntüsü (DRESS), mukoza zarı tutulumu olan veya olmayan
+vezikülobüllöz döküntü (SJS ya da TEN)**
+Kas-iskelet, bağ doku ve kemik hastalıkları
+Yaygın: Ekstremite ağrısı, serum kreatin fosfakinaz (CPK)2 artışı
+Yaygın olmayan: Miyozit, miyoglobin artışı, kas güçsüzlüğü, kas ağrısı, artralji, serum laktat
+dehidrojenaz (LDH) artışı, kas krampları
+Bilinmiyor*: Rabdomiyoliz 3**
+Böbrek ve idrar yolu hastalıkları
+Yaygın olmayan: Böbrek yetmezliği ve böbrek fonksiyon yetersizliği dahil böbrek fonksiyon
+bozukluğu, kan kreatinin artışı
+Bilinmiyor*: Tubulointerstisyel nefrit (TIN)**
+14 / 32Üreme sistemi ve meme hastalıkları
+Yaygın olmayan: Vajinit
+Genel ve uygulama bölgesine ilişkin hastalıklar
+Yaygın: İnfüzyon yerinde reaksiyonlar, pireksi, asteni
+Yaygın olmayan: Yorgunluk, ağrı
+*Pazarlama sonrası raporlara dayanmaktadır. Bu reaksiyonlar, belirsiz büyüklükteki bir
+popülasyondan gönüllü olarak bildirildiğinden, sıklıklarını güvenilir bir şekilde tahmin etmek
+mümkün değildir. Bu nedenle bilinmeyen olarak kategorize edilmektedir.
+**Bkz. Bölüm 4.4.
+1 Daptomisin ile ilişkili eozinofilik pnömoni görülme sıklığı bilinmemekle birlikte, bugüne
+kadar spontan vakaların raporlanma oranı çok düşüktür (<1/10.000).
+2 Artmış CPK ve kas semptomlarını içeren bazı miyopati vakalarında, hastalar ayrıca yüksek
+transaminazlarla da ortaya çıkmıştır. Bu transaminaz artışlarının, iskelet kası etkileri ile ilişkili
+olması muhtemeldir. Transaminaz yükselmelerinin çoğu Derece 1-3 toksisitesindedir ve
+tedavinin kesilmesiyle çözülmüştür.
+3 Hastaların klinik verileri değerlendirildiğinde, vakaların yaklaşık %50'sinin önceden mevcut
+böbrek yetmezliği olan hastalarda veya eş zamanlı olarak rabdomiyolize neden olduğu bilinen
+tıbbi ürünler alan hastalarda meydana geldiği sonucu çıkmaktadır.
+Daptomisinin 2 dakikalık intravenöz enjeksiyon yoluyla uygulanmasına ilişkin güvenlik
+verileri, sağlıklı yetişkin gönüllülerde yapılan iki farmakokinetik çalışmadan elde edilmiştir.
+Bu çalışma sonuçlarına göre, her iki daptomisin uygulama yöntemi, 2 dakikalık intravenöz
+enjeksiyon ve 30 dakikalık intravenöz infüzyon, benzer bir güvenlik ve tolere edilebilirlik
+profiline sahiptir. Lokal tolere edilebilirlik veya advers reaksiyonların doğası ve sıklığı
+açısından anlamlı bir fark görülmemiştir.
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+15 / 32Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir (www.titck.gov.tr; e-posta:
+tufam@titck.gov.tr; tel: 0 800 314 00 08; faks: 0 312 218 35 99).
+4.9. Doz aşımı ve tedavisi
+Doz aşımı durumunda destekleyici tedavi uygulanması önerilir. Daptomisin hemodiyaliz
+yoluyla (4 saat içinde uygulanan dozun yaklaşık %15’i atılır) ya da periton diyalizi (48 saat
+içinde uygulanan dozun yaklaşık %11’i atılır) yoluyla vücuttan yavaş yavaş temizlenir.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1. Farmakodinamik özellikler
+Farmakoterapötik grup: Sistemik kullanım için antibakteriyeller, diğer antibakteriyeller
+ATC kodu: J01XX09
+Etki mekanizması:
+Daptomisin sadece gram pozitif bakterilere karşı aktif doğal bir siklik lipopeptid ürünüdür. Etki
+mekanizması hem üreme fazı hem de durağan faz hücrelerinin bakteriyel membranlarına
+bağlanarak (kalsiyum iyonları varlığında) depolarizasyon sonucu hızlı protein, DNA ve RNA
+sentezi inhibisyonuna yol açmayı içerir. Bu durum bakteriyel hücre ölümü ve ihmal edilebilir
+düzeyde hücre lizisi ile sonuçlanır.
+Farmakokinetik/Farmakodinamik ilişki:
+Daptomisin in vitro ve in vivo hayvan modellerinde gram pozitif organizmalara karşı
+konsantrasyona bağımlı bakterisidal aktivite ortaya koyar. Hayvan modellerinde EAA/MİK ve
+C /MİK günde bir kez 4 mg/kg ve 6 mg/kg’lık insan dozlarına eşdeğer tekli dozlarda in vivo
+maks
+öngörülen bakteriyel ölüm ve etkililik ile korelasyon gösterir.
+Direnç mekanizmaları:
+Daptomisine azalmış duyarlılığa sahip suşlar özellikle tedavisi güç enfeksiyonları olan
+hastaların tedavisi sırasında ve/veya uzun periyotlarda uygulama sonrasında bildirilmiştir.
+Özellikle, bakteremik hastalar dahil Staphylococcus aureus, Enterococcus faecalis veya
+Enterococcus faecium ile enfekte hastalarda, tedavi sırasında daptomisine azalmış duyarlılık ya
+da belirgin dirençli organizmaların seçilmesi ile ilişkilendirilmiş tedavi başarısızlığı raporları
+alınmıştır.
+Daptomisine direnç mekanizması (mekanizmaları) tam olarak anlaşılamamıştır.
+16 / 32Kırılma noktaları:
+Avrupa Komitesi Stafilokok ve Streptokok için (S. pneumoniae hariç) Antimikrobiyal
+duyarlılık testine (EUCAST) ilişkin olarak minimum inhibitör konsantrasyon (MİK) kesme
+noktasını duyarlı≤1 mg/L ve dirençli>1 mg/L olarak belirlemiştir.
+Duyarlılık:
+Direnç prevalansı, seçilmiş türler için coğrafik olarak ve zaman içerisinde çeşitlilik gösterebilir
+ve dirence ilişkin bölgesel bilgiler özellikle şiddetli enfeksiyonların tedavisinde arzu edilir.
+Ajan kullanımın en azından bazı enfeksiyon tiplerinde şüpheli olduğu bölgesel direnç
+prevalansı durumunda gerekli şekilde uzman tavsiyesi alınmalıdır.
+Tablo 3. Yaygın olarak duyarlı türler ve doğal olarak dirençli organizmalar
+Yaygın olarak duyarlı türler
+Staphyloccous aureus*
+Staphylococcus haemolyticus
+Koagülaz negatif stafılokok
+Streptococcus agalactiae*
+Streptococcus dysgalactiae alt türleri equisimilis*
+Streptococcus pyogenes*
+Grup G streptokok
+Clostridium perfringens
+Peptostreptococcus spp
+Doğal olarak dirençli organizmalar
+Gram negatif organizmalar
+*Kendisine karşı aktivitenin klinik çalışmalarda tatmin edici bir şekilde gösterildiği düşünülen türleri
+gösterir.
+Yetişkin hastalarda klinik etkililik:
+Komplike deri ve yumuşak doku enfeksiyonlarında yürütülen, yetişkinlerde yapılan iki klinik
+çalışmada, daptomisin ile tedavi edilen hastaların %36’sı sistemik enflamatuar yanıt sendromu
+için kriterleri karşılamıştır. Tedavi edilen en yaygın enfeksiyon tipi yara enfeksiyonu (hastaların
+%38'i) iken, %21’inde majör apseler mevcuttur. Tedavi edilen hasta popülasyonun bu
+kısıtlamaları, DAPTOMAX kullanımına karar verilirken dikkate alınmalıdır.
+17 / 32Staphyloccous aureus bakteremileri (yani, ilk dozu kullanmadan önce Staphylococcus aureus
+için en az bir pozitif kan kültürü) olan 235 hastada yürütülen randomize kontrollü açık etiketli
+bir çalışmada daptomisin ile tedavi edilen 120 hastadan 19’u, sağ kalp enfektif endokardit
+kriterlerini karşılamıştır. Bu 19 hastadan 11’i metiline duyarlı ve 8’'i metiline dirençli
+Staphylococcus aureus ile enfektedir. Sağ kalp enfektif endokardit (RIE) hastalarında başarı
+oranları aşağıdaki tabloda gösterilmektedir (Bkz. Tablo 4).
+Tablo 4. RIE hastalarında başarı oranları
+Başarıdaki
+Daptomisin Karşılaştırıcı
+Popülasyon farklılıklar
+n/N (%) n/N (%) Oranlar (%95 Cl)
+Tedavi amaçlı popülasyon –
+8/19 (%42,1) 7/16 (%43,8) -%1,6 (-34,6, 31,3)
+Sağ kalp enfektif endokardit
+Protokol başına popülasyon –
+6/12 (%50) 4/8 (%50) %0,0 (-44,7, 44,7)
+Sağ kalp enfektif endokardit
+Dirençli ya da tekrarlayarak seyreden Staphylococcus aureus enfeksiyonlarına bağlı tedavi
+başarısızlığı daptomisin ile tedavi edilen 19/120 (%15,8) hastada vankomisin ile tedavi edilen
+9/53 (%16,7) hastada, anti-stafilokokal yarı sentetik penisilin ile tedavi edilen 2/62 (%3,2)
+hastada gözlenmiştir. Bu başarısızlıklardan daptomisin ile tedavi edilen 6 hasta ve vankomisin
+ile tedavi edilen 1 hastada Staphylococcus aureus enfeksiyonu mevcut olup, tedavi sırasında
+veya sonrasında artan daptomisin MİK’leri gelişmiştir (Bkz. Yukarıdaki “Direnç
+mekanizmaları” açıklaması). Dirençli ya da tekrarlayarak seyreden Staphylococcus aureus
+enfeksiyonuna bağlı olarak başarısız olan çoğu hastada derin enfeksiyon mevcuttur ve gerekli
+cerrahi girişimde bulunulmamıştır.
+Pediyatrik hastalarda klinik etkililik:
+Daptomisinin güvenliliği ve etkililiği, gram pozitif patojenlerin neden olduğu komplike ve
+yumuşak deri enfeksiyonuna sahip 1 ila 17 yaş arasındaki pediyatrik hastalarda
+değerlendirilmiştir (Çalışma DAP-PEDS-07-03). Hastalar, aşamalı bir yaklaşımla iyi
+tanımlanmış yaş gruplarına kaydedilmiş ve aşağıdaki şekilde 14 güne kadar, günde bir kez yaşa
+bağlı dozlar uygulanmıştır:
+Yaş grubu 1 (n=113): 5 mg/kg daptomisin veya karşılaştırıcı tedavi standardı (SOC) ile tedavi
+edilen 12 ila 17 yaş
+18 / 32Yaş grubu 2 (n=113): 7 mg/kg daptomisin veya SOC ile tedavi edilen 7 ila 11 yaş
+Yaş grubu 3 (n=125): 9 mg/kg daptomisin veya SOC ile tedavi edilen 2 ila 6 yaş
+Yaş grubu 4 (n=45): 10 mg/kg daptomisin veya SOC ile tedavi edilen 1 ila <2 yaş
+DAP-PEDS-07-03 çalışmasının birincil amacı, tedavinin güvenliliğini değerlendirmektir.
+İkincil hedefler, SOC ile kıyaslandığında yaşa bağlı intravenöz daptomisin dozlarının
+etkililiğinin değerlendirilmesini içermektedir. Kilit etkililik son noktası, kör bir tıbbi direktör
+tarafından tanımlanan, tedavi testindeki (TOC) sponsor tanımlı klinik sonuçtur. Çalışmada,
+daptomisin alan 256 hasta ve standart tedavi alan 133 hasta olmak üzere toplam 389 hasta tedavi
+edilmiştir. Tüm popülasyonlarda klinik başarı oranları, daptomisin ve SOC tedavi kolları
+arasında karşılaştırılabilir niteliktedir ve tedavi amaçlı popülasyondaki birincil etkililik
+analizini desteklemektedir.
+Tablo 5. TOC'de sponsor tanımlı klinik sonucun özeti
+Pediyatrik komplike deri ve yumuşak doku
+enfeksiyonunda klinik başarı
+Daptomisin n/N (%) Karşılaştırıcı n/N (%) % Fark
+Tedavi amaçlı 227/257 (%88,3) 114/132 (% 86,4) 2
+Değiştirilmiş tedavi
+186/210 (%88,6) 92/105 (%87,6) 0,9
+amaçlı
+Klinik olarak
+204/207 (%98.6) 99/99 (%100) -1.5
+değerlendirilebilir
+Mikrobiyolojik olarak
+164/167 (%98.2) 78/78 (%100) -1.8
+değerlendirilebilir (ME)
+Genel terapötik yanıt oranı da MRSA, MSSA ve Streptococcus pyogenes kaynaklı
+enfeksiyonlar için daptomisin ve SOC tedavi kollarında benzerdir (bkz. Tablo 6; ME
+popülasyonu); yanıt oranları, bu yaygın patojenlerde her iki tedavi kolu için >% 94’tür.
+Tablo 6. Başlangıçtaki patojen (ME popülasyonu) türüne göre genel terapötik yanıtın özeti:
+Pediyatrik komplike deri ve yumuşak doku
+Patojen enfeksiyonunda genel başarıa oranı n/N (%)
+Daptomisin Karşılaştırıcı
+19 / 32Metisiline duyarlı Staphylococcus 68/69 (%99) 28/29 (%97)
+aureus (MSSA)
+Metisiline dirençli Staphylococcus 63/66 (%96) 34/34 (%100)
+aureus (MRSA)
+Streptococcus pyogenes 17/18 (%94) 5/5 (%100)
+a Klinik ("Tedavi edilmiş" veya "İyileştirilmiş" Klinik Yanıt) ve mikrobiyolojik ("Eradike" veya
+"Eradike Olduğu Varsayılan" patojen düzeyinde yanıt) başarıya ulaşan denekler genel terapötik başarı
+olarak sınıflandırılır.
+Daptomisinin güvenliliği ve etkililiği, Staphylococcus aureus kaynaklı bakteriyemisi olan 1-17
+yaş arası pediyatrik hastalarda değerlendirilmiştir (Çalışma DAP-PEDBAC-11-02). Hastalar
+2:1 oranında aşağıdaki yaş gruplarına randomize edilmiş ve 42 güne kadar günde bir kez yaşa
+bağlı dozlar aşağıdaki şekilde verilmiştir:
+Yaş grubu 1 (n=21): 7 mg/kg daptomisin veya SOC ile tedavi edilen 12 ila 17 yaş
+Yaş grubu 2 (n=28): 9 mg/kg daptomisin veya SOC ile tedavi edilen 7 ila 11 yaş
+Yaş grubu 3 (n=32): 12 mg/kg daptomisin veya SOC ile tedavi edilen 1 ila 6 yaş
+DAP-PEDBAC-11-02 çalışmasının birincil amacı, intravenöz daptomisinin standart tedavi
+antibiyotiklerine karşı güvenliliğini değerlendirmektir. İkincil hedefler şunları içermektedir:
+TOC’de kör hakem değerlendirmesinin klinik yanıtı değerlendirmesine (başarı [tedavi,
+iyileşme], başarısızlık veya değerlendirilemeyen) dayanan klinik sonuç ve yine TOC’de enfekte
+edici temel patojenin değerlendirilmesine dayalı mikrobiyolojik yanıt (başarı, başarısızlık veya
+değerlendirilemeyen).
+Çalışmada 55’i daptomisin ve 26’sı standart tedavi alan toplam 81 gönüllü tedavi edilmiştir.
+Çalışmaya 1 ila <2 yaş arası hiçbir hasta dahil edilmemiştir. Tüm popülasyonlarda, klinik başarı
+oranları, daptomisin ile standart tedavi kolunda karşılaştırılabilir düzeydedir.
+Tablo 7. Kör Hakem Değerlendirmesinin TOC'de tanımladığı klinik sonucun özeti
+Pediyatrik S. aureus bakteriyemisinde klinik başarı
+Daptomisin n/N (%) Karşılaştırıcı n/N (%) % Fark
+Değiştirilmiş tedavi
+46/52 (%88,5) 19/24 (%79,2) 9,3
+amaçlı (MITT)
+20 / 32Mikrobiyolojik
+değiştirilmiş tedavi 45/51 (%88.2) 17/22 (%77,3) 11
+amaçlı (mMITT)
+Klinik olarak
+değerlendirilebilir 36/40 (%90) 9/12 (%75) 15
+(CE)
+MRSA ve MSSA'nın neden olduğu enfeksiyonlar için daptomisin ve standart tedavi kolları için
+TOC'deki mikrobiyolojik sonuç Tablo 8’de sunulmaktadır (mMITT popülasyonu).
+Tablo 8. MRSA ve MSSA'nın neden olduğu enfeksiyonlar için daptomisin ve standart tedavi
+kolları için TOC'deki mikrobiyolojik sonuç
+Pediyatrik S. aureus
+bakteriyemisinde mikrobiyolojik
+Patojen
+başarı oranı n/N (%)
+Daptomisin Karşılaştırıcı
+Metisiline duyarlı Staphylococcus aureus (MSSA) 43/44 (%97,7) 19/19 (%100)
+Metisiline dirençli Staphylococcus aureus (MRSA) 6/7 (%85,7) 3/3 (%100)
+5.2. Farmakokinetik özellikler
+Genel özellikler
+Daptomisin farmakokinetiği, sağlıklı yetişkin gönüllülerde 14 güne kadar 30 dakikalık
+intravenöz infüzyon yoluyla tek bir günlük doz olarak uygulanan 4 ila 12 mg/kg dozlarda
+genellikle doğrusal ve zamandan bağımsızdır. Kararlı durum konsantrasyonlarına üçüncü
+günlük dozla ulaşılır.
+2 dakikalık intravenöz enjeksiyon olarak uygulanan daptomisin ayrıca 4 ila 6 mg/kg'lık
+onaylanmış terapötik doz aralığında dozla orantılı farmakokinetik sergilemiştir.
+Karşılaştırılabilir maruz kalma (EAA ve C ), sağlıklı yetişkin deneklerde 30 dakikalık
+maks
+intravenöz infüzyon veya 2 dakikalık intravenöz enjeksiyon şeklinde daptomisinin
+uygulanmasını takiben gösterilmiştir.
+21 / 32Emilim:
+Hayvan çalışmaları, daptomisinin oral uygulamadan sonra önemli ölçüde emilmediğini
+göstermiştir.
+Dağılım:
+Sağlıklı erişkin gönüllülerde daptomisinin kararlı durum dağılım hacmi yaklaşık 0,1 L/kg
+olarak bulunmuştur ve dozdan bağımsızdır. Sıçanlarda doku dağılımı çalışmaları, tek ve çoklu
+dozları takiben daptomisinin yalnızca minimal oranda kan-beyin bariyerini ve plasenta
+bariyerini geçebildiğini ortaya koymuştur.
+Daptomisin konsantrasyondan bağımsız olarak insan plazma proteinlerine geri dönüşümlü
+şekilde bağlanır. Sağlıklı gönüllülerde ve renal yetmezliği olan hastaların da dahil olduğu
+gönüllülerde tedavi sırasında daptomisinin proteine bağlanma oranı ortalama %90’dır.
+Biyotransformasyon:
+İn vitro çalışmalarda, daptomisin insan karaciğer mikrozomları ile metabolize edilmemiştir.
+İnsan hepatositleri ile yapılan in vitro çalışmalar, daptomisinin insan sitokrom P450
+izoformlarını (1A2, 2A6, 2C9, 2C19, 2D6, 2E1, 3A4) inhibe etmediğini ya da indüklemediğini
+ortaya koymuştur. Daptomisinin sitokrom P450 ile metabolize olan ilaçların metabolizmasını
+indüklemesi ya da inhibe etmesi olası değildir.
+Sağlıklı yetişkinlerde 14C-daptomisin infüzyonunu takiben, plazma radyoaktivitesi
+mikrobiyolojik tayin ile belirlenen konsantrasyonla benzerlik göstermiştir. Toplam radyoaktif
+konsantrasyonlar ve mikrobiyolojik olarak aktif konsantrasyonlar arasındaki fark ile
+belirlendiği üzere, idrarda aktif olmayan metabolitler saptanmıştır. Başka bir çalışmada,
+plazmada hiç metabolit gözlenmemiş ve üç oksidatif metabolitin ve bir tanımlanmamış
+bileşiğin düşük miktarları saptanmıştır. Metabolizma yeri tanımlanmamıştır.
+Eliminasyon:
+Daptomisin, büyük oranda böbrekler yoluyla atılır. İnsanlarda probenesid ve daptomisinin eş
+zamanlı uygulamasının daptomisin farmakokinetiği üzerinde hiçbir etkisi yoktur, bu da
+daptomisinin aktif tübüler sekresyonunun minimum olduğunu veya hiç olmadığını düşündürür.
+İntravenöz uygulamayı takiben, daptomisinin plazma klirensi yaklaşık 7-9 mL/saat/kg, renal
+klirensi ise 4-7 mL/saat/kg’dır.
+Radyoaktif işaretli daptomisin kullanılarak yapılan bir kütlesel denge çalışmasında, uygulanan
+dozun %78’i (toplam radyoaktivite esas alınarak) idrardan geri kazanılmıştır. İdrarla
+22 / 32değişmeden atılan kısmı ise dozun yaklaşık %50’si oranında olmuştur. Uygulanan radyoaktif
+dozun yaklaşık %5’i dışkı yoluyla atılmıştır.
+Doğrusallık/Doğrusal olmayan durum:
+Daptomisinin farmakokinetiği, 14 güne kadar günde tek doz olarak uygulanan 4-12 mg/kg
+dozlarda genellikle doğrusal ve zamandan bağımsızdır. Kararlı durum konsantrasyonlarına
+üçüncü gün dozunda ulaşılır.
+2 dakikalık intravenöz enjeksiyon olarak uygulanan daptomisin, 4 ila 6 mg/kg arasındaki
+onaylanmış terapötik doz aralığındaki gibi doz orantılı farmakokinetik de sergilemiştir.
+Daptomisinin 30 dakikalık intravenöz infüzyon veya 2 dakikalık intravenöz enjeksiyon olarak
+uygulanmasının ardından sağlıklı yetişkin deneklerde karşılaştırılabilir maruziyet (EAA ve
+C ) gösterilmiştir.
+maks
+Hastalardaki karakteristik özellikler
+Yaşlılar
+30 dakikalık periyotta 4 mg/kg’lık intravenöz daptomisin dozunun uygulanmasını takiben,
+sağlıklı genç gönüllülere (18 ila 30 yaş arası) kıyasla yaşlılarda, ortalama toplam daptomisin
+klirensi yaklaşık %35 daha düşük ve ortalama EAA yaklaşık %58 daha yüksek olmuştur. C
+maks
+değerinde farklılık görülmemiştir. Belirtilen farklılıklar büyük olasılıkla geriyatrik
+popülasyonda gözlemlenen böbrek fonksiyonundaki normal azalmadan kaynaklanmaktadır.
+Yalnızca yaşa bağlı olarak doz ayarlaması gerekmez. Bununla birlikte, böbrek fonksiyonu
+değerlendirilmeli ve ciddi böbrek yetmezliği kanıtı varsa doz azaltılmalıdır.
+Çocuklar ve ergenler (1 ila 17 yaş arası)
+Daptomisinin farmakokinetiği pediyatrik gönüllülerde, 3 tek-doz farmakokinetik çalışmada
+değerlendirilmiştir. 4 mg/kg’lık tek bir daptomisin dozunu takiben, daptomisinin
+adolesanlardaki farmakokinetiği gram-pozitif enfeksiyonları olan 12 ila 17 yaş arası
+yetişkinlerdekine benzerlik göstermiştir.
+4 mg/kg’lık tek bir daptomisin dozunu takiben, gram pozitif enfeksiyonu olan 7-11 yaş arası
+çocuklarda toplam daptomisin klirensi ergenlere göre daha yüksekken, eliminasyon yarılanma
+ömrü daha kısadır.
+4, 8 veya 10 mg/kg’lık tek bir daptomisin dozunu takiben, 2-6 yaş arası çocuklarda daptomisinin
+toplam klirensi ve eliminasyon yarılanma ömrü farklı dozlarda benzerdir. Ergenlerle
+karşılaştırıldığında toplam klirens daha yüksektir ve eliminasyon yarı ömrü daha kısadır.
+23 / 326 mg/kg'lık tek bir daptomisin dozunu takiben, 13-24 aylık çocuklarda daptomisinin klirensi ve
+eliminasyon yarılanma ömrü, 4-10 mg/kg'lık tek doz alan 2-6 yaş arası çocuklardakine
+benzerdir. Bu çalışmalar, pediatrik hastalarda tüm dozlarda maruz kalmanın (EAA), benzer
+dozlarda yetişkinlerdeki maruz kalmadan genellikle daha düşük olduğunu göstermektedir.
+Komplike deri ve yumuşak doku enfeksiyonu (kDYDE) olan pediyatrik hastalar
+Gram pozitif patojenlerin neden olduğu kDYDE olan pediyatrik hastalarda (1 ila 17 yaş dahil)
+daptomisinin güvenliliğini, etkililiğini ve farmakokinetiğini değerlendirmek için bir Faz 4
+çalışması (DAP-PEDS-07-03) gerçekleştirilmiştir. Bu çalışmadaki hastalardaki daptomisin
+farmakokinetiği aşağıdaki tabloda özetlenmiştir (Bkz. Tablo 9). Çoklu dozların uygulanmasını
+takiben, vücut ağırlığına ve yaşa göre doz ayarlamasından sonra daptomisin maruziyeti farklı
+yaş gruplarında benzerdir. Bu dozlarla elde edilen plazma maruziyetleri, yetişkin kDYDE
+çalışmasında elde edilenlerle tutarlıdır (yetişkinlerde günde bir kez 4 mg/kg takiben).
+Tablo 9. DAP-PEDS-07-03 Çalışmasında Pediatrik kDYDE Hastalarında (1-17 Yaş)
+Daptomisin Farmakokinetiğinin Ortalaması (Standart Sapma)
+12-17 yaş arası 7-11 yaş 2-6 yaş arası 1-<2 yaş arası
+Yaş aralığı
+(N=6) arası (N=2)a (N=7) (N=30)b
+5 mg/kg 7 mg/kg 9 mg/kg 10 mg/kg
+Doz infüzyon süresi
+30 dakika 30 dakika 60 dakika 60 dakika
+EAA (mcg*sa/mL) 387 (81) 438 439 (102) 466
+0-24sa
+C (mcg/mL) 62,4 (10,4) 64,9 (74,4) 81,9 (21,6) 79,2
+maks
+Görünür t (saat) 5,3 (1,6) 4,6 3,8 (0,3) 5,04
+1/2
+KL/ağırlık (mL/sa/kg) 13,3 (2,9) 16 21,4 (5) 21,5
+Kompartmantal olmayan analiz ile tahmin edilen farmakokinetik parametre değerleri
+a Farmakokinetik analizi mümkün kılmak için sağlanan farmakokinetik örnekler bu yaş grubunda sadece
+iki hastadan bildirilen bireysel değerlerdir; EAA, görünür t ve KL/ağırlık, iki hastadan yalnızca biri
+1/2
+için belirlenebilir.
+b Havuzlanmış farmakokinetik profil üzerinde, her bir zaman noktasında denekler arasında ortalama
+konsantrasyonlar ile gerçekleştirilen farmakokinetik analiz
+S. aureus kaynaklı bakteriyemisi olan pediyatrik hastalar
+S. aureus kaynaklı bakteriyemisi olan pediyatrik hastalarda (1 ila 17 yaş dahil) daptomisinin
+güvenliliğini, etkililiğini ve farmakokinetiğini değerlendirmek için bir Faz 4 çalışması (DAP-
+24 / 32PEDBAC-11-02) gerçekleştirilmiştir. Bu çalışmada yatarak tedavi gören hastalardaki
+daptomisin farmakokinetiği aşağıdaki tabloda özetlenmiştir (Bkz. Tablo 10). Çoklu doz
+uygulamasının ardından, daptomisin maruziyeti, vücut ağırlığı ve yaşa bağlı olarak doz
+ayarlamasından sonra farklı yaş gruplarında benzer olmuştur. Bu dozlarla elde edilen plazma
+maruziyetleri, S. aureus kaynaklı bakteriyemisi olan yetişkin çalışmasında elde edilenlerle
+tutarlıdır (yetişkinlerde günde bir kez 6 mg/kg'ı takiben).
+Tablo 10. DAP-PEDBAC-11-02 Çalışmasında S. aureus Kaynaklı Bakteriyemisi olan
+Pediatrik Hastalarda (1-17 Yaş) Daptomisin Farmakokinetiğinin Ortalaması (Standart Sapma)
+12-17 yaş arası 7-11 yaş 1-6 yaş arası
+Yaş aralığı
+(N=13) arası (N=19) (N=19)*
+7 mg/kg 9 mg/kg 12 mg/kg
+Doz infüzyon süresi
+30 dakika 30 dakika 60 dakika
+EAA (mcg.sa/mL) 656 (334) 579 (116) 620 (109)
+0-24sa
+C (mcg/mL) 104 (35,5) 104 (14,5) 106 (12,8)
+maks
+Görünür t (saat) 7,5 (2,3) 6 (0,8) 5,1 (0,6)
+1/2
+KL/ağırlık (mL/sa/kg) 12,4 (3,9) 15,9 (2,8) 19,9 (3,4)
+Çalışmadaki farmakokinetik parametre değerleri bireysel hastalardan seyrek olarak toplanan
+farmakokinetik numunelerle model tabanlı bir yaklaşım kullanılarak tahmin edilmiştir.
+*Çalışmaya 1 ila <2 yaş arası hiçbir hasta kaydedilmediğinden, ortalama (Standart Sapma) 2-6 yaş arası
+hastalar için hesaplanmıştır. Popülasyon farmakokinetik modeli kullanan simülasyon, günlük 12 mg/kg
+uygulanan 1 ila <2 yaşındaki pediyatrik hastalarda daptomisinin EAA 'sinin (kararlı durumda
+ss
+konsantrasyon-zaman eğrisi altındaki alan) günlük 6 mg/kg alan yetişkin hastalardaki ile benzer
+olabileceğini göstermiştir.
+Obezite
+EAA ile ölçülen obez olmayan kişilere göre sistemik daptomisin maruziyeti, orta derecede obez
+(Vücut Kitle İndeksi 25-40 kg/m2) gönüllülerde yaklaşık %28 daha yüksek, aşırı düzeyde obez
+(Vücut Kitle İndeksi> 40 kg/m2) gönüllülerde %42 daha yüksek olmuştur. Bununla birlikte,
+yalnızca obeziteye bağlı olarak herhangi bir doz ayarlamasına gerek olmadığı düşünülmektedir.
+Cinsiyet
+Daptomisin farmakokinetiğinde cinsiyetle ilgili olarak klinik açıdan anlamlı farklılık
+gözlenmemiştir.
+25 / 32Irk
+Beyaz gönüllülere göre siyahi veya Japon deneklerde daptomisin farmakokinetiğinde klinik
+olarak anlamlı hiçbir fark gözlenmemiştir.
+Böbrek yetmezliği
+Çeşitli derecelerde renal bozukluk görülen gönüllülere 30 dakikalık bir periyotta 4 mg/kg ya da
+6 mg/kg intravenöz daptomisin dozunun uygulanmasını takiben, renal fonksiyon (kreatinin
+klirensi) azaldıkça toplam daptomisin klirensi (KL) azalmış ve sistemik maruziyet (EAA)
+artmıştır.
+Farmakokinetik veriler ve modellemeye dayalı olarak, 6 mg/kg’lık dozun hemodiyaliz (HD) ya
+da CAPD yaptıran hastalara uygulanmasından sonraki ilk günde daptomisin EAA’sı aynı dozu
+alan normal renal fonksiyona sahip hastalarda gözlenenden 2 kat daha yüksektir. HD ve CAPD
+yaptıran hastalara 6 mg/kg’lık uygulamadan sonraki ikinci günde, daptomisin EAA’sı normal
+renal fonksiyona sahip hastalarda ikinci 6 mg/kg’lık dozdan sonra gözlenenden yaklaşık 1,3 kat
+daha yüksektir.
+Bu temelde, HD veya CAPD yaptıran hastaların tedavi edilen enfeksiyon tipi için önerilen
+dozda her 48 saatte bir kez daptomisin alması önerilmektedir (Bkz. Bölüm 4.2).
+Böbrek yetmezliği olan pediyatrik hastalarda daptomisin için doz rejimi oluşturulmamıştır.
+Karaciğer yetmezliği
+Daptomisinin farmakokinetiği, tek bir 4 mg/kg dozu takiben cinsiyet, yaş ve ağırlık açısından
+eşleşen sağlıklı gönüllülere kıyasla orta şiddette karaciğer yetmezliği olan gönüllülerde (Child-
+Pugh Sınıf B) değişmemiştir. Orta derecede karaciğer yetmezliği olan hastalarda daptomisin
+uygulanırken doz ayarlamasına gerek yoktur. Şiddetli karaciğer yetmezliği olan hastalarda
+(Child-Pugh Sınıf C) ise daptomisinin farmakokinetiği değerlendirilmemiştir.
+5.3. Klinik öncesi güvenlilik verileri
+Klinik açıdan ilgili sürelere sahip çalışmalarda daptomisin uygulaması sıçan ve köpekte iskelet
+kasında minimum ila hafif dejeneratif/rejeneratif değişiklikler ile ilişkilendirilmiştir. İskelet
+kasındaki mikroskopik değişiklikler minimum (miyoliflerin yaklaşık %0,05'i etkilenir) olup,
+daha yüksek dozlarda bunlara CPK’da artışlar eşlik etmiştir. Fibrozis veya rabdomiyoliz
+gözlenmemiştir. Çalışma süresine bağlı olarak mikroskobik değişiklikler dahil tüm kas etkileri
+26 / 32doz uygulamasının kesilmesini takiben 1-3 ay içinde tamamen düzelmiştir. Düz kas veya kalp
+kasında fonksiyonel veya patolojik bir değişiklik gözlenmemiştir.
+Sıçanlar ve köpeklerde miyopati için en düşük gözlenebilir etki düzeyi (LOEL) normal renal
+fonksiyona sahip hastalar için 6 mg/kg’da (30 dakikalık intravenöz infüzyon) insan terapötik
+düzeylerinin 0,8 ila 2,3 katı maruziyet düzeylerinde meydana gelmiştir. Farmakokinetik (Bkz.
+Bölüm 5.2) benzer olduğundan her iki uygulama yöntemi için güvenlilik sınırları oldukça
+benzerdir.
+Köpeklerde yürütülen bir çalışma iskelet miyopatisinin, aynı toplam günlük dozda bölünmüş
+doz uygulamasına kıyasla günde bir kez uygulama ile azaldığını göstermiştir; bu da
+hayvanlardaki miyopatik etkilerin başlıca dozlar arasındaki süre ile ilişkili olduğunu
+düşündürmektedir.
+Periferik sinirler üzerindeki etkiler yetişkin sıçanlar ve köpeklerde iskelet kası etkileri ile ilişkili
+olanlardan daha yüksek dozlarda gözlenmiş olup, başlıca plazma C değeri ile
+maks
+ilişkilendirilmiştir. Periferik sinir değişiklikleri minimum ila hafif aksonal dejenerasyon ile
+karakterizedir ve buna sıklıkla fonksiyonel değişiklikler eşlik etmiştir. Hem mikroskopik hem
+de fonksiyonel etkiler doz sonrası 6 ay içinde tamamen düzelmiştir. Sıçanlar ve köpeklerde
+periferik sinir etkileri için güvenlilik sınırları Etki Gözlenmeyen Düzeyde (NOEL) C
+maks
+değerlerinin, normal renal fonksiyona sahip hastalarda günde bir kez 6 mg/kg’lık 30 dakikalık
+intravenöz infüzyon ile doz uygulamasında elde edilen C değeri ile karşılaştırılması
+maks
+temelinde sırasıyla 8 ve 6 kattır.
+Daptomisin miyotoksisitesinin mekanizmasını araştırmak üzere tasarlanmış in vitro ve bazı in
+vivo çalışmaların bulguları farklılaşmış spontan olarak kasılan kas hücrelerinin plazma
+membranının toksisite hedefi olduğunu göstermektedir. Doğrudan hedef alınan spesifik bir
+hücre yüzeyi bileşeni tanımlanmamıştır. Mitokondriyal kayıp/hasar da gözlenmiştir; bununla
+birlikte bu bulgunun genel patolojideki rolü ve anlamı bilinmemektedir. Bu bulgu kas kasılması
+üzerinde bir etki ile ilişkilendirilmemiştir.
+Yetişkin köpeklerin tersine, jüvenil köpekler iskelet miyopatisine kıyasla periferik sinir
+lezyonlarına daha duyarlı görünmektedir. Jüvenil köpeklerde iskelet kası toksisitesi ile ilişkili
+olandan daha düşük dozlarda periferik ve spinal sinir lezyonları gelişmiştir.
+27 / 32Yenidoğan köpeklerde, daptomisin 50 mg/kg/gün’den yüksek dozlarda vücut ağırlığında
+azalma ve genel vücut durumunda kötüleşme ile sonuçlanan seğirme, kol ve bacaklarda kas
+sertliği ve ekstremitelerin kullanımında bozulma gibi klinik belirtilere neden olmuş ve bu doz
+gruplarında tedavinin erken kesilmesini gerektirmiştir. Daha düşük doz seviyelerinde (25
+mg/kg/gün), vücut ağırlığı üzerinde herhangi bir etki olmaksızın, hafif ve geri dönüşümlü klinik
+seğirme belirtileri ve kas sertliği insidansı gözlenmiştir. Herhangi bir doz seviyesinde periferik
+ve merkezi sinir sistemi dokusunda veya iskelet kasında histopatolojik bir korelasyon yoktur ve
+bu nedenle olumsuz klinik işaretlerin mekanizması ve klinik önemi bilinmemektedir.
+Üreme toksisitesi testi fertilite, embriyofetal veya postnatal gelişim üzerinde bir etki kanıtı
+göstermemiştir. Bununla birlikte, daptomisin gebe sıçanlarda plasentadan geçebilir (Bkz.
+Bölüm 5.2). Daptomisinin emziren hayvanların sütüne geçişi araştırılmamıştır.
+Kemirgenlerde uzun vadeli karsinojenisite çalışmaları yürütülmemiştir. Daptomisin bir dizi in
+vivo ve in vitro genotoksisite testinde mutajenik veya klastojenik bulunmamıştır.
+6. FARMASÖTİK ÖZELLİKLER
+6.1. Yardımcı maddelerin listesi
+Sodyum hidroksit
+Enjeksiyonluk su
+6.2. Geçimsizlikler
+DAPTOMAX, dekstroz (glukoz) içeren seyrelticilerle geçimsizlik gösterir.
+Daptomisinin diğer İ.V. maddelerle geçimliliğine dair sınırlı veriler mevcut olduğu için,
+aşağıdaki “Geçimli intravenöz çözeltiler ve diğer tıbbi ürünler” bölümünde listelenmiş olan
+dokuz ilaç dışında aynı İ.V. hat üzerinden DAPTOMAX ile eş zamanlı olarak infüzyon yoluyla
+katkı maddeleri ya da diğer ilaçlar eklenmemelidir.
+Geçimli intravenöz çözeltiler ve diğer tıbbi ürünler:
+DAPTOMAX %0,9 sodyum klorür ve laktatlı ringer enjeksiyonu ile geçimlidir.
+Aşağıdakilerin farklı infüzyon torbalarından aynı İ.V. hattı yoluyla daptomisin ile eş zamanlı
+olarak uygulanması durumunda geçimli olduğu gösterilmiştir: aztreonam, seftazidime,
+seftriaksone, gentamisin, flukonazol, levofloksasin, dopamin, heparin ve lidokain.
+28 / 326.3. Raf ömrü
+24 ay
+6.4. Saklamaya yönelik özel tedbirler
+Orijinal ambalajları buzdolabında (2-8˚C) saklayınız; aşırı ısıdan kaçınınız. Dondurmayınız.
+%0,9 sodyum klorür ve laktatlı ringer ile sulandırıldıktan sonra: Flakondaki sulandırılmış
+çözeltinin kimyasal ve fiziksel kullanımdaki stabilitesini, 25˚C’de 12 saat, buzdolabında (2-
+8˚C’de) saklandığında ise 48 saate kadar koruduğu gösterilmiştir. Flakondaki sulandırılmış
+çözeltinin toplam saklama süresi 25˚C’de 12 saati ya da 2-8˚C’de 48 saati geçmemelidir.
+Mikrobiyolojik açıdan, ürün hemen kullanılmalıdır. Eğer hemen kullanılmıyorsa, kullanımdaki
+saklama süreleri kullanıcının sorumluluğunda olup, sulandırma/seyreltme kontrollü ve onaylı
+aseptik koşullar altında gerçekleştirilmediği sürece 2-8˚C’de 24 saatten uzun olmayacaktır.
+6.5. Ambalajın niteliği ve içeriği
+DAPTOMAX liyofilize toz halinde 500 mg daptomisin içeren 15 ml kapasiteli, 1 adet tek
+kullanımlık tip I renksiz cam flakon içeren kutularda kullanıma sunulmaktadır.
+6.6. Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+DAPTOMAX flakonları tek kullanımlıktır. Flakonda kalan kullanılmayan kısım atılmalıdır.
+Kullanılmamış olan ürünler ya da atık materyaller “Tıbbi Atıkların Kontrolü Yönetmeliği” ve
+“Ambalaj Atıklarının Kontrolü Yönetmeliği”ne uygun olarak imha edilmelidir.
+Uygulama ile ilgili talimatlar
+Daptomisin yetişkinlerde 30 dakikalık bir süre içerisinde infüzyon olarak ya da 2 dakikalık bir
+süre içerisinde enjeksiyon olarak intravenöz yolla uygulanabilir. Daptomisin pediyatrik
+hastalara 2 dakikalık enjeksiyon olarak uygulanmamalıdır. 7 ila 17 yaşındaki pediyatrik
+hastalar, 30 dakikalık bir süre içerisinde infüzyon olarak daptomisin almalıdır. 9-12 mg/kg doz
+alan 7 yaşın altındaki pediyatrik hastalarda, daptomisin 60 dakikalık bir süre içerisinde
+uygulanmalıdır (Bkz. Bölüm 4.2 ve 5.2). İnfüzyon çözeltisinin hazırlanması aşağıda
+detaylandırıldığı üzere ilave bir seyreltme basamağını gerektirir.
+30 ya da 60 dakikalık intravenöz infüzyon olarak verilen DAPTOMAX
+Liyofilize ürünün çözülmesi yaklaşık 15 dakika sürmektedir. Tamamen sulandırılmış ürün
+berrak görünmelidir ancak flakonun kenarında birkaç küçük kabarcık veya köpük olabilir.
+29 / 32DAPTOMAX’ı intravenöz infüzyona hazırlamak için lütfen aşağıdaki talimatlara uyunuz:
+Liyofilize DAPTOMAX’ı sulandırmak veya seyreltmek için baştan sona aseptik teknik
+kullanılmalıdır.
+Sulandırmak için:
+1. Kauçuk tıpanın merkezini açığa çıkarmak üzere DAPTOMAX flakonundan flip-off geçmeli
+kapak çıkarılır. Kauçuk tıpanın üst kısmı alkollü bir bez veya başka bir antiseptik solüsyonla
+silinir ve kurumaya bırakılır. Temizledikten sonra lastik tıpaya dokunulmamalı veya başka bir
+yüzeye temas etmesine izin verilmemelidir.
+2. Uygun hacimde %0,9 sodyum klorür (350 mg’lık flakon için 7 mL ya da 500 mg’lık flakon
+için 10 mL) DAPTOMAX flakonuna kauçuk tıpanın merkezinden, aktarım iğnesi flakonun
+duvarına doğru tutularak yavaşça aktarılır.
+3. Flakon yavaşça döndürülerek DAPTOMAX tozunun tüm ün ıslandığından emin olunur ve
+ıslak ürün 10 dakika beklemeye bırakılır.
+4. Flakon içeriği tamamen sulandırılmış bir çözelti elde etmek üzere gerektiğinde birkaç dakika
+boyunca nazikçe döndürülür ya da yuvarlanır. Ürünün köpürmesini önlemek için kuvvetli
+sallamadan/çalkalamadan kaçınılmalıdır.
+5. Sulandırılan çözelti, ürünün varlığından emin olmak için dikkatlice kontrol edilmeli ve
+kullanımdan önce partiküllerin bulunmadığına dair görsel olarak incelenmelidir.
+DAPTOMAX’ın sulandırılmış solüsyonları açık sarıdan açık kahverengiye kadar değişen renk
+yelpazesine sahiptir.
+6. Sulandırılarak hazırlanmış DAPTOMAX aseptik teknik kullanılarak, %0,9 sodyum klorür
+(tipik hacim 50 mL) ile bir kez daha seyreltilir.
+Seyreltmek için:
+1. Uygun miktarda sulandırılmış sıvı (50 mg daptomisin/mL) yavaşça enjektöre çekilir.
+2. Fazla hava, büyük baloncuklar ve fazla solüsyon istenilen dozu elde etmek için dışarı atılır.
+3. Gereken sulandırılmış doz, 50 mL sodyum klorür 9 mg/mL (% 0,9) içine aktarılır.
+4. Sulandırılmış ve seyreltilmiş çözelti daha sonra, bölüm 4.2'de belirtildiği gibi 30 veya 60
+dakikalık bir süre boyunca intravenöz olarak infüze edilmelidir.
+2 dakikalık intravenöz enjeksiyon olarak verilen DAPTOMAX (sadece yetişkinlerde)
+DAPTOMAX intravenöz enjeksiyon uygulamasında sulandırmak için su kullanılmamalıdır.
+DAPTOMAX sadece 9 mg/ml (% 0,9) sodyum klorür ile sulandırılmalıdır.
+30 / 32Liyofilize ürünün çözülmesi yaklaşık 15 dakika sürmektedir. Tamamen sulandırılmış ürün
+berrak görünmelidir ancak flakonun kenarında birkaç küçük kabarcık veya köpük olabilir.
+DAPTOMAX’ı intravenöz infüzyona hazırlamak için lütfen aşağıdaki talimatlara uyunuz:
+Liyofilize DAPTOMAX’ı sulandırmak veya seyreltmek için baştan sona aseptik teknik
+kullanılmalıdır.
+1. Kauçuk tıpanın merkezini açığa çıkarmak üzere DAPTOMAX flakonundan flip-off geçmeli
+kapak çıkarılır. Kauçuk tıpanın üst kısmı alkollü bir bez veya başka bir antiseptik solüsyonla
+silinir ve kurumaya bırakılır. Temizledikten sonra lastik tıpaya dokunulmamalı veya başka bir
+yüzeye temas etmesine izin verilmemelidir.
+2. Uygun hacimde %0,9 sodyum klorür (350 mg’lık flakon için 7 mL ya da 500 mg’lık flakon
+için 10 mL) DAPTOMAX flakonuna kauçuk tıpanın merkezinden, aktarım iğnesi flakonun
+duvarına doğru tutularak yavaşça aktarılır.
+3. Flakon yavaşça döndürülerek DAPTOMAX tozunun tümünün ıslandığından emin olunur ve
+ıslak ürün 10 dakika beklemeye bırakılır.
+4. Flakon içeriği tamamen sulandırılmış bir çözelti elde etmek üzere gerektiğinde birkaç dakika
+boyunca nazikçe döndürülür ya da yuvarlanır. Ürünün köpürmesini önlemek için kuvvetli
+sallamadan/çalkalamadan kaçınılmalıdır.
+5. Sulandırılan çözelti, ürünün varlığından emin olmak için dikkatlice kontrol edilmeli ve
+kullanımdan önce partiküllerin bulunmadığına dair görsel olarak incelenmelidir.
+DAPTOMAX’ın sulandırılmış solüsyonları açık sarıdan açık kahverengiye kadar değişen renk
+yelpazesine sahiptir.
+6. Sulandırılarak hazırlanmış DAPTOMAX (50 mg daptomisin/mL) flakondan yavaşça çekilir
+ve iğne intravenöz infüzyon için değiştirilir.
+7. Fazla hava, büyük baloncuklar ve fazla solüsyon istenilen dozu elde etmek için dışarı atılır.
+8. Sulandırılmış çözelti daha sonra, bölüm 4.2'de belirtildiği gibi 2 dakikalık bir süre boyunca
+intravenöz olarak yavaşça enjekte edilmelidir.
+7. RUHSAT SAHİBİ
+VEM İLAÇ San. ve Tic. A.Ş
+Maslak Mahallesi AOS 55. Sokak
+42 Maslak A Blok Sit. No: 2/134
+Sarıyer/İSTANBUL
+31 / 328. RUHSAT NUMARASI
+2017/878
+9. İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi: 23.11.2017
+Ruhsat yenileme tarihi:
+10. KÜB’ÜN YENİLENME TARİHİ
+32 / 32

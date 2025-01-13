@@ -1,0 +1,535 @@
+KISA ÜRÜN BİLGİSİ
+Bu ilaç ek izlemeye tabidir. Bu üçgen yeni güvenlilik bilgisinin hızlı olarak
+belirlenmesini sağlayacaktır. Sağlık mesleği mensuplarının şüpheli advers reaksiyonları
+TÜFAM’a bildirmeleri beklenmektedir. Bakınız Bölüm 4.8 Advers reaksiyonlar nasıl
+raporlanır?
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+NANOGAM 5 g/100 mL IV infüzyon için çözelti içeren flakon
+Steril
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde:
+1 mL çözelti içinde;
+İnsan normal immünoglobulini (IVIg) 50 mg*
+* En az % 95’i IgG içeren insan kaynaklı protein içeriğine karşılık gelir.
+1 flakon 100 mL, 5 g insan normal immünoglobulini içerir.
+IgG alt sınıflarının dağılımı (yaklaşık değerler):
+IgG % 64,9
+1
+IgG % 31,8
+2
+IgG % 2,8
+3
+IgG % 0,5
+4
+Maksimum immünoglobulin A (IgA) içeriği: mL başına 6 mcg
+Yardımcı madde(ler):
+Glukoz 50 mg/mL
+Yardımcı maddeler için 6.1’e bakınız.
+3. FARMASÖTİK FORM
+İntravenöz infüzyon için çözelti.
+Çözelti, berrak veya hafif opalesan, renksiz veya hafif sarımsı renktedir.
+Ozmolalite 290-370 mosmol/kg’dır.
+14. KLİNİK ÖZELLİKLER
+4.1. Terapötik Endikasyonlar
+1. İmmun yetmezlik durumlarında replasman tedavisi için;
+a) Antikor üretiminin bozulduğu primer (Konjenital) immün yetmezliklerde
+b) Şiddetli veya tekrarlayan enfeksiyonlar gelişen, antimikrobiyal tedavinin yetersiz kaldığı
+ve kanıtlanmış spesifik antikor yetmezliği (SAE)* olan ya da serum IgG düzeyi <4 g/L
+olan hastalarda sekonder immün yetmezliklerde (SİY) kullanılır.
+* Kanıtlanmış SAE: lgG antikor titresinde pnömokokal polisakkarit ve polipeptit antijen
+aşılarına en az 2 kat artış sağlanamaması
+2. İmmünomodülatuvar etki için;
+a) Kanama riski yüksek olan veya cerrahi müdahale öncesi trombosit sayısının hızla
+yükseltilmesi gereken immün trombositopeni (ITP) olgularında,
+b) Guillain-Barre sendromunda,
+c) Kawasaki hastalığında,
+d) Multifokal Motor Nöropati hastalığında,
+e) Kronik Enflamatuar Demiyenilizan Polinoröpatinin tedavisinde (KIDP)
+f) Bulber tutulumu olan Miyastenia Gravis tedavisinde uygulanır.
+4.2. Pozoloji ve uygulama şekli
+Replasman tedavisi immün yetmezlikler konusunda deneyimli bir uzman hekimin denetiminde
+başlatılmalı ve izlenmelidir.
+Pozoloji ve uygulama sıklığı endikasyona göre değişir.
+Replasman tedavisinde hastanın farmakokinetik ve klinik yanıtına bağlı olarak dozun bireysel
+şekilde ayarlanması gerekebilir.
+Primer immun yetmezliklerde replasman tedavisi:
+Doz, bir sonraki infüzyondan önce ölçülen serum IgG düzeyinin en az 500-600 mg/dL
+düzeyinde kararlı olarak sürdürülmesini sağlayacak şekilde ayarlanmalıdır. Bu dengenin
+sağlanabilmesi için tedavinin başlangıcından itibaren 3-6 ay gereklidir.
+Önerilen başlangıç dozu bir seferde verilen 0,4-0,8 g/kg infüzyonu takiben her 3-4 haftada bir
+uygulanan en az 0,2 g/kg'dır.
+Serum immünoglobulin düzeyinin 500-600 mg/dL olacak şekilde sabit tutulabilmesi için
+gereken doz ortalama 0,2-0,8 g/kg düzeyindedir.
+Kararlı serum düzeyi sağlandıktan sonra doz aralığı 3 ile 4 hafta arasında değişir.
+Hastanın klinik yanıtı ile birlikte kararlı serum düzeyleri ölçülmeli ve değerlendirilmelidir.
+2Klinik yanıta bağlı olarak (ör. enfeksiyon sıklığı) daha yüksek kararlı serum düzeylerinin
+sağlanması amacıyla doz ve/veya doz aralığının ayarlanması düşünülebilir.
+Sekonder immün yetmezlikte replasman tedavisi:
+Sekonder immün yetmezlikte replasman tedavisinde tavsiye edilen doz 3-4 haftada bir
+uygulanan 0,2-0,4 g/kg'dır.
+Primer immün trombositopenide:
+İki alternatif doz şeması vardır:
+• Birinci gün 0,8-1 g/kg dozunda uygulanır; doz, 3 gün içerisinde bir kez tekrarlanabilir veya
+• 2-5 gün süreyle 0,4 g/kg/gün dozunda uygulanır.
+Relaps olduğunda tedavi tekrarlanabilir.
+Guillain Barré Sendromu:
+5 gün süreyle 0,4 g/kg/gün dozunda uygulanır.
+Kawasaki Hastalığı:
+8-12 saat süreyle tek doz olarak uygulanan 2g/kg’dır ve asetil salisilik asit ile kombine olarak
+verilir.
+Multifokal Motor Nöropati (MMN) hastalığında:
+Başlangıç dozu: 2-5 gün süreyle bölünmüş dozlarda toplam 2 g/kg
+İdame dozu: 2-6 haftada bir 1-2 g/kg
+Kronik inflamatuvar demiyelinizan polinöropati (KIDP) :
+Önerilen başlangıç dozu: 2-5 ardışık günde bölünmüş dozlarda toplam 2 g/kg’dır. Yanıt
+alınamaması durumunda 3 haftada bir 1 g/kg total doz 1-2 günde verilir ve 2 ay sonunda yanıt
+alınamazsa tedavi kesilir.
+İdame dozu: başlangıç tedavisine yanıt alınmışsa 3 haftada bir 0,4-1 g/kg total doz 1-2 günde
+uygulanır. Maksimum yarar elde edilen doz önerilir ve doz doktor tarafından belirlenir. En
+düşük etkin idame dozu belirlenene kadar doz azaltılır ve uygulama sıklığı ayarlanır.
+Myastenia Gravis:
+Diğer özel tedavilere cevap vermeyen kritik fazda 5 gün süreyle 0,4 g/kg/gün dozunda
+uygulanır.
+Pediyatrik popülasyon
+Çocuklar ve adölesanlardaki (0-18 yaş) pozoloji her bir endikasyon için erişkinlerden farklı
+değildir ve yukarıda belirtilen durumlardaki klinik sonlanımlara göre ayarlanır.
+Uygulama Şekli:
+İntravenöz yoldan uygulanır.
+3Azami infüzyon hızı her bir ürün için klinik çalışma protokollerine göre belirlenmelidir.
+Özel Popülasyonlara İlişkin Ek Bilgiler
+Böbrek / Karaciğer yetmezliği:
+IVIG tedavisi uygulanan hastalarda akut böbrek yetmezliği vakaları bildirilmiştir. Böbrek
+yetmezliği riski bulunan hastalarda, IVIG preparatları uygulanabilir en düşük infüzyon hızında
+ve dozda kullanılmalıdır (Bkz. Bölüm 4.4).
+Karaciğer yetmezliği olan hastalara ilişkin ek bir bilgi bulunmamaktadır.
+Pediyatrik popülasyon:
+Yukarıda bahsedilen her durumda pozoloji vücut ağırlığına göre ve klinikte alınan yanıta göre
+verildiğinden, çocuklarda ve adölesanlarda (0-18 yaş) pozoloji değişmez.
+Geriyatrik popülasyon:
+IVIG tedavisi uygulanan hastalarda akut böbrek yetmezliği vakaları bildirilmiştir. Bu vakaların
+çoğunda kişinin 65 yaşın üzerinde olması dahil belirli risk faktörlerinin olduğu bildirilmiştir.
+Ayrıca IVIG uygulaması ile yüksek riskli hastalarda tromboembolik olaylar arasında bağlantıyı
+gösteren klinik kanıtlar mevcuttur. Bu nedenle ileri yaş dahil trombotik olay açısından risk
+faktörlerini taşıyan hastalarda IVIG reçetelenip infüzyonu uygulanırken dikkatli hareket
+edilmeli, uygulanabilir en düşük infüzyon hızında ve dozda kullanılmalıdır (Bkz. Bölüm 4.4)
+4.3. Kontrendikasyonlar
+Etken madde (insan immunoglobulini) ya da yardımcı maddelerden herhangi birine karşı aşırı
+hassasiyet. Yardımcı madde glukoz,mısırdan elde edilir.
+Seçici IgA eksikliği olup IgA'ya karşı antikor geliştiren hastalarda IgA içeren bir ilacın
+uygulanması anafilaksi ile sonuçlanabilir.
+Çözelti, kompanse olmayan diyabet, bilinen diğer glukoz intoleransları (metabolik stres
+durumu gibi), hiperosmolar koma, hiperglisemi ve hiperlaktatemi durumunda kontrendikedir.
+4.4 Özel kullanım uyarıları ve önlemleri
+Virüs güvenliği
+NANOGAM, insan plazmasından elde edilmektedir. İnsan plazmasından elde edilen
+ilaçlar, virüsler ve teorik olarak Varyant Creutzfeldt-Jacob (v-CJD) gibi, çeşitli
+hastalıklara yol açabilen enfeksiyon yapıcı ajanlar içerebilirler. NANOGAM’da Varyant
+Creutzfeldt-Jacob hastalığının bulaşma riski teorik olarak minimumken, klasik
+Creutzfeldt-Jacob hastalığının bulaşma riski hiçbir kanıtla desteklenmez. Alınan
+önlemlere rağmen, bu tür ürünler halen potansiyel olarak hastalık bulaştırabilir.
+Bu tip ürünlerin enfeksiyon yapıcı ajanları bulaştırma riski, plazma verenlerin belirli
+virüslere önceden maruz kalıp kalmadığının izlenmesi, belirli virüs enfeksiyonlarının
+halihazırda varlığının test edilmesi ve belirli virüslerin yok edilmesi ve/veya
+4inaktivasyonu ile azaltılmıştır. Bütün bu önlemlere rağmen, bu ürünler hala potansiyel
+olarak hastalık bulaştırabilirler. Ayrıca, henüz bilinmeyen enfeksiyon yapıcı ajanların
+bu ürünlerin içerisinde bulunma ihtimali mevcuttur.
+HIV, HBV, HCV gibi zarflı virüsler ve HAV gibi zarflı olmayan virüsler için etkili
+önlemlerin alınmasına dikkat edilmelidir. Parvovirüs B19 gibi zarflı olmayan virüslere
+karşı alınan tedbirler sınırlı sayıda olabilir. Parvovirüs B19 enfeksiyonu, gebelik (fetal
+infeksiyon) ve immün yetmezlik ya da kırmızı kan hücre üretiminde artış olan hastalarda
+tehlikeli olabilir(hemolitik anemi gibi).
+Doktor, bu ilacı hastaya reçete etmeden veya uygulamadan önce hastası ile risk ve
+yararlarını tartışmalıdır.
+Ayrıca;
+NANOGAM kullanılması gerekiyorsa hekim tarafından, hastalık yapıcı etkenlerin hastaya
+bulaşmasını önlemek için uygun aşıların (Hepatit A, Hepatit B, vb.) yaptırılması önerilebilir.
+Hastalar açısından NANOGAM her uygulandığında, hastayla ürünün seri numarası arasındaki
+bağlantının korunabilmesi için, ürünün adı ve seri numarası kaydedilmelidir.
+Potansiyel komplikasyonlar genellikle şu şekilde önlenebilir:
+- Normal immünoglobuline duyarlılığı olmayan hastalarda başlangıç infüzyonunun yavaş
+enjekte edilmesi (0,01 ml/kg/dak)
+- İnfüzyon süresince hasta herhangi bir semptom açısından dikkatle izlenmelidir. Özellikle,
+daha önce insan normal immünoglobulini kullanmamış hastalar, alternatif bir IVIg ürününü
+kullanmakta olduğu ürünle değiştiren veya son infüzyon tarihi üzerinden uzun süre geçmiş
+hastalar, olası yan etki belirtilerini tespit edebilmek için ilk infüzyon süresince ve
+infüzyondan sonraki ilk saat boyunca dikkatle izlenmelidir. Diğer tüm hastalar da
+uygulamadan sonra en az 20 dakika süreyle izlenmelidir.
+Tüm hastalarda, IVIg kullanımı şunları gerektirir:
+• IVIg infüzyonuna başlamadan önce yeterli hidrasyon
+• İdrar çıkışının izlenmesi
+• Serum kreatinin seviyelerinin izlenmesi
+• Kıvrım diüretikleri ile birlikte kullanımından kaçınılması.(bkz.Bölüm 4.5.)
+İstenmeyen etki görülmesi halinde, uygulama hızı azaltılmalı ya da uygulama durdurulmalıdır.
+Gereken tedavi istenmeyen etkinin tipine ve şiddetine bağlıdır.
+İnfüzyon reaksiyonu
+Belirli advers reaksiyonlar (örneğin baş ağrısı, kızarma, titreme, miyalji, hırıltı, taşikardi, bel
+ağrısı, bulantı ve hipotansiyon) infüzyon hızı ile ilişkili olabilir. Bölüm 4.2'de tavsiye edilen
+infüzyon hızı yakından izlenmelidir. İnfüzyon süresi boyunca semptomlar açısından hastalar
+yakından takip edilmeli ve dikkatle izlenmelidir.
+5Bazı advers reaksiyonlar daha sık görülebilir:
+• İnsan normal immünoglobulinini ilk kez alan hastalarda veya nadir vakalarda olmak
+üzere, kullanılmakta olan normal immünoglobulin preparatı değiştirildiğinde ya da
+son uygulama tarihi üzerinden uzun bir süre geçmiş olması durumunda,
+• Tedavi edilmemiş bir enfeksiyonu veya altta yatan bir kronik inflamasyonu olan
+hastalarda
+Hipersensitivite:
+Aşırı duyarlılık reaksiyonları aktif maddeye (insan immünoglobulinleri) veya yardımcı
+maddelerden herhangi birine (örn. glukoz) seyrektir.
+Aşağıdaki durumlarda anaflaksi gelişebilir:
+• Anti-IgA antikorlarına sahip tespit edilemeyen IgA’lı hastalarda,
+• Daha önce insan normal immünoglobulin tedavisini tolere etmiş hastalarda.
+Şok gelişmesi durumunda, standart tıbbi şok tedavisi uygulanmalıdır.
+Tromboembolizm:
+IVIg uygulaması ile miyokard infarktüsü, serebral vasküler (serebrovasküler) hasar (inme
+dahil), pulmoner emboli ve immünoglobulinin yüksek akış hızı nedeniyle kan viskozitesinde
+görülen rölatif artışa bağlı olduğu sanılan, derin ven trombozu gibi tromboembolik vakalar
+arasındaki bağlantıyı gösteren klinik kanıtlar mevcuttur. Obez hastalarda ve trombotik olaylar
+için önceden mevcut risk faktörleri bulunan hastalarda (ilerlemiş yaş, hipertansiyon, diabetes
+mellitus ve damar hastalıkları veya trombotik epizod hikayesi olan, edinilmiş ve kalıtımsal
+trombofilik bozukuğu olan hastalar, immobilizasyon periyodu uzamış hastalar, ciddi
+hipovolemik hastalar, kan viskozitesini artıran bir hastalığı sahip hastalar gibi) IVIg reçete
+edilirken veya uygulanırken dikkatli olunmalıdır.
+Tromboemboli riski taşıyan hastalarda, IVIg ürünü minimum hızda ve dozda uygulanmalıdır.
+Akut böbrek yetmezliği:
+IVIg tedavisi alan hastalarda akut böbrek yetmezliği vakaları bildirilmiştir. Vakaların
+çoğunluğunda, önceden var olan böbrek yetmezliği, diabetes mellitus, hipovolemi, aşırı kilo,
+nefrotoksik ilaçların birlikte kullanımı veya 65 üzeri yaş gibi risk faktörleri tanımlanmıştır.
+Renal parametreler, özellikle akut böbrek yetmezliği gelişme riski yüksek olan hastalarda ve
+yine uygun aralıklarla IVIG infüzyonu öncesinde değerlendirilmelidir. Akut böbrek yetmezliği
+riski altında olan hastalarda, IVIg ürünleri minimum infüzyon hızında ve dozda uygulanmalıdır.
+Böbrek fonksiyon bozukluğu gelişmesi durumunda IVIg infüzyonunun durdurulması
+düşünülmelidir.
+Böbrek fonksiyon bozukluğu ve akut böbrek yetmezliği raporları, sukroz, glukoz ve maltoz gibi
+yardımcı maddeleri içeren birçok ruhsatlı IVIg ürününün kullanımı ile ilişkilendirilmesine
+rağmen, stabilizör olarak sukroz içerenler toplam sayının büyük kısmını oluşturmaktadır. Risk
+altındaki hastalarda, bu yardımcı maddeleri içermeyen preparatların kullanımı düşünülmelidir.
+NANOGAM glukoz içermekte olup, sukroz ve maltoz içermemektedir.
+Hiponatremi:
+6Hastanın altta yatan klinik durumuna ve glukozu metabolize etme kapasitesine bağlı olarak,
+glukozun intravenöz uygulanması elektrolit bozukluklarına, en önemlisi hipo veya
+hiperozmotik hiponatremiye neden olabilir.
+Ozmotik olmayan vazopressin salımı olan hastalar (örneğin akut hastalık, ağrı, ameliyat sonrası
+stres, enfeksiyonlar, yanıklar, merkezi sinir sistemi hastalıkları), kalp, karaciğer ve böbrek
+hastalığı olan hastalar ve vazopressin agonistleri ve serum sodyumunu düşüren (bkz. Bölüm
+4.5) diğer ilaçlara maruz kalan hastalar özellikle akut hiponatremi riski taşır.
+Akut hiponatremi, akut beyin ödemi ve yaşamı tehdit eden geri döndürülememe ihtimali
+bulunan beyin hasarına yol açabilir.
+Çocuklar, doğurgan çağdaki kadınlar ve azalmış serebral kompliyansa sahip hastalar (örneğin
+menenjit, intrakraniyal kanama ve serebral kontüzyon) özellikle hiponatremiye bağlı olarak
+yaşamı tehdit eden beyin şişmesi riski altındadır. Hipoozmotik hiponatreminin hızlı bir şekilde
+düzeltilmesi potansiyel olarak tehlikelidir (ciddi nörolojik komplikasyon riski).
+Hiperglisemi
+Glukoz içeren çözeltilerin uygulanması hiperglisemi ve/veya hiperosmolar sendrom
+oluşturabilir. Lütfen aşağıdaki hususları dikkate alınız:
+• Hiperglisemi ortaya çıkarsa, infüzyon hızı ayarlanmalı ve/veya insülin uygulanmalıdır.
+• Gerekirse, parenteral potasyum desteği sağlayınız.
+% 5 glukoz içeren intravenöz çözeltiler, bozulmuş glukoz toleransı (diabetes mellitus, böbrek
+yetmezliği veya sepsis, travma veya şok varlığında olduğu gibi), şiddetli beslenme bozukluğu,
+tiamin eksikliği olan hastalarda, örn., Kronik alkolizm (piruvatın oksidatif metabolizasyonunun
+bozulması nedeniyle şiddetli laktik asidoz riski) ve iskemik inme veya ciddi travmatik beyin
+hasarı olan hastalarda dikkatle uygulanmalıdır.
+Glisemi ile ilgili pediatrik sorunlar
+Yenidoğanlar, özellikle prematüre doğanlar ve düşük doğum ağırlıklı olanlar hipo veya
+hiperglisemi geliştirme riski altındadır ve bu nedenle, potansiyel uzun vadeli yan etkilerden
+kaçınmak ve yeterli glisemik kontrolü sağlamak için glukoz içeren intravenöz çözeltilerle
+tedavi sırasında yakından izlenmeleri gerekir.
+Aseptik menenjit sendromu (AMS):
+IVIg tedavisi uygulamasında Aseptik Menenjit Sendromu (AMS) rapor edilmiştir. Sendrom
+genellikle IVIg tedavisini takiben birkaç saat ile iki gün içinde görülür. Serebrospinal sıvı
+çalışmaları çoğunlukla granülositik serileri olmak üzere, mm3 başına birkaç bin hücreye kadar
+pleositosis genellikle pozitiftir ve protein seviyelerini birkaç yüz mg/dl yükseltir.
+AMS çoğunlukla yüksek doz (2 g/kg) IVIg tedavisi ile ilişkili olarak meydana gelebilmektedir.
+Bu gibi belirti ve semptomları gösteren hastalar, menenjitin diğer nedenlerini ekarte etmek için
+BOS çalışmaları da dahil olmak üzere ayrıntılı bir nörolojik muayene yaptırmalıdır.
+IVIg tedavisinin kesilmesi, AMS'nin birkaç gün içinde sekeller olmadan remisyonu ile
+sonuçlanmıştır.
+Hemolitik anemi:
+7IVIg ürünleri, hemolizinler gibi davranan kan grup antikorları içerebilir ve pozitif direkt
+antiglobulin reaksiyona (Coombs’test) ve seyrek olarak hemolize neden olan kırmızı kan
+hücrelerinin in vivo olarak immunoglobulin ile kaplanmasına neden olur. Artmış kırmızı kan
+hücre ayırımı nedeniyle IVIg tedavisine bağlı olarak Hemolitik anemi gelişebilir. IVIg tedavisi
+alan hastalar, hemoliz semptomları ve klinik bulgular açısından gözlemlenmelidir.
+Nötropeni/Lökopeni:
+IVIg tedavisinden sonra, nötrofil sayısında ve/veya nötropeni ataklarında, bazen ciddi olan,
+geçici bir azalma bildirilmiştir. Bu durum tipik olarak IVIg uygulamasından saatler veya günler
+sonra meydana gelir ve 7 ila 14 gün içinde kendiliğinden düzelir.
+Transfüzyona bağlı akut akciğer hasarı (TRALI):
+IVIg alan hastalarda, akut non-kardiyojenik akciğer ödemi [transfüzyona bağlı akut akciğer
+hasarı (TRALI)] ile ilgili bazı vakalar rapor edilmiştir. TRALI, ağır hipoksi, dispne, taşipne,
+siyanoz, ateş ve hipotansiyon ile karakterizedir. TRALI semptomları tipik olarak transfüzyon
+sırasında veya 6 saat içinde, sıklıkla 1-2 saat içinde gelişir. Bu nedenle IVIg alan hastalar
+izlenmeli ve bir pulmoner advers reaksiyon durumunda IVIg infüzyonu derhal durdurulmalıdır.
+TRALI, acil yoğun bakım tedavisi gerektiren, hayatı tehdit edici bir durumdur.
+Serolojik testlerle etkileşim:
+İmmünoglobulin infüzyonundan sonra hasta kanına pasif olarak geçen çeşitli antikorların geçici
+artışı serolojik testlerde hatalı pozitif sonuçlara neden olabilir.
+Eritrosit antijenlerine (örneğin A, B ve D) antikorların pasif transmisyonu; eritrosit antikorları
+için, direkt antiglobulin testi (DAT, Coombs’ testi) gibi bazı serolojik testleri etkileyebilir.
+Glukoz
+Bu tıbbi ürün, yardımcı madde olarak her ml’sinde 50 mg glukoz içerir. Diyabet hastalarında
+göz önünde bulundurulmalıdır. Gizli diyabeti olanlar (geçici glukozürinin ortaya çıkabildiği
+durumlar), diyabet hastaları veya düşük şeker diyetindeki hastalar için bu durum dikkate
+alınmalıdır.
+4.5. Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+Canlı virüs aşıları ile etkileşim:
+İmmünoglobulin kullanımı, kızamık, kızamıkçık, kabakulak ve suçiçeği gibi canlı zayıflatılmış
+virüs aşılarının etkisini en az 6 haftadan başlamak üzere, 3 aya kadar bir süre azaltabilir. Bu
+ürün kullanıldıktan sonra, canlı zayıflatılmış virüs aşıları ile aşılanma için en az 3 aylık bir süre
+geçmelidir. Kızamık durumunda, bu zayıflatıcı etki 1 yıla kadar sürebilir. Bu nedenle kızamık
+aşısı uygulanan hastalarda antikor düzeyleri kontrol edilmelidir.
+Hiponatremi riskini artırabilen ilaçlar
+Serum sodyumunu azaltabilen ilaçlar, hastanın sıvı hacmi ve sodyum içeriği açısından
+ihtiyaçlarıyla uygun olmayan şekilde dengelenmiş intravenöz sıvılarla tedavisini takiben
+edinilmiş hiponatremi riskini artırabilir (bkz. Bölüm 4.4, 4.6 ve 4.8).
+8Bu durum, klorpropamid, klofibrat, karbamazepin, vinkristin, selektif serotonin geri alım
+inhibitörleri, 3.4-metilendioksi-N-metamfetamin, ifosfamid, antipsikotikler, narkotikler,
+NSAİİ'ler, siklofosfamid, desmopressin, oksitosin, vazopressin ve terlipressin gibi vazopressin
+etkisini arttıran ilaçlar ile ilgilidir.
+Hiponatremi riskini artıran diğer tıbbi ürünler içerisine diüretikler ve okskarbazepin gibi
+antiepileptikler de dahildir.
+Loop diüretikleri:
+Loop diüretiklerin birlikte kullanımından kaçınılmalıdır.
+Özel popülasyonlara ilişkin ek bilgiler:
+Özel popülasyonlarla ilgili etkileşim çalışması yapılmamıştır.
+Pediyatrik popülasyon:
+Listelenen etkileşimler hem yetişkinler hem çocuklar için geçerlidir.
+4.6. Gebelik ve laktasyon
+Genel tavsiye
+Gebelik kategorisi: C
+Çocuk doğurma potansiyeli bulunan kadınlar / Doğum kontrolü (kontrasepsiyon)
+NANOGAM’ın çocuk doğurma potansiyeli bulunan kadınlarda kullanıma ilişkin yeterli veri
+mevcut değildir.
+Gebelik dönemi
+NANOGAM için gebelikte maruz kalmaya ilişkin klinik veri mevcut değildir. Hayvanlar
+üzerinde yapılan çalışmalar, gebelik/embriyonal/fetal gelişim/doğum ya da doğum sonrası
+gelişim üzerindeki etkiler bakımından yeterli veri bulunmamaktadır (bkz. Bölüm 5.3).
+Gebelik döneminde gerekli olmadıkça kullanılmamalıdır.
+Bu tıbbi ürünün hamilelikte kullanımının güvenliliği, kontrollü klinik çalışmalarla
+saptanmamıştır ve bu nedenle hamile ve emziren kadınlara verilirken dikkatli olunmalıdır. IVIg
+ürünlerinin gebeliğin son üç ayında artarak plasentaya geçtiği gösterilmiştir.
+Immunoglobulinler ile klinik deneyim sonucu, hamilelik sürecinde, veya fetüs ve yenidoğan
+üzerinde zararlı etkilerin olmadığı düşünülmektedir.
+NANOGAM doğum sırasında gebe kadınlara verildiğinde, özellikle oksitosinle birlikte
+uygulandığında, hiponatremi riski yükselebilir. (bkz. Bölüm 4.4, 4.5 ve 4.8).
+Laktasyon dönemi
+NANOGAM anne sütü ile atılmaktadır (süte geçmektedir).
+Immunoglobulinler anne sütüne geçer. Emzirilen yenidoğanlarda / bebeklerde beklenen
+olumsuz bir etki beklenmemektedir.
+Üreme yeteneği / fertilite
+9İmmünoglobulinlerle yapılan klinik deneyimler, doğurganlık üzerinde zararlı etkilerin
+beklenmemesi gerektiğini düşündürmektedir.
+4.7. Araç ve makine kullanımı üzerindeki etkiler
+NANOGAM bazı yan etkileri sebebiyle araç ve makine kullanım kabiliyetini olumsuz yönde
+etkileyebilir. Bu yan etkileri yaşayan hastalar, araç veya makine kullanmadan önce yan etkiler
+geçene kadar beklemelidirler.
+4.8. İstenmeyen etkiler
+İnsan normal immünoglobulininin intravenöz uygulamasında aşağıdaki yan etkiler
+bildirilmiştir. Şu terimler ve sıklık dereceleri kullanılmıştır: Çok yaygın (≥1/10), yaygın
+(≥1/100 ila <1/10), yaygın olmayan (≥1/1.000 ila <1/100), seyrek (≥1/10.000 ila <1/1.000); çok
+seyrek (<1/10.000), bilinmiyor (eldeki verilerden hareketle tahmin edilemiyor).
+NANOGAM’ın pazarlama sonrası bilgilerinden elde edilen yan etki sıklıkları
+MedDRA Sistem Yan etkiler Hasta başına İnfüzyon
+Organ Sınıfı sıklık başına sıklık
+Kan ve lenf sistemi Lökopeni, nötropeni Yaygın olmayan Seyrek
+hastalıkları
+Bağışıklık sistemi Aşırı duyarlılık Yaygın Yaygın olmayan
+reaksiyonları*
+hastalıkları
+Sinir sistemi Migren Yaygın olmayan Seyrek
+hastalıkları:
+Baş ağrısı Yaygın Yaygın olmayan
+Baş dönmesi Yaygın olmayan Seyrek
+Kardiyak Kalp çarpıntısı, taşikardi Yaygın olmayan Seyrek
+hastalıklar:
+Vasküler Hipertansiyon, hipotansiyon Yaygın olmayan Seyrek
+hastalıklar
+Solunum, göğüs Dispne Yaygın olmayan Seyrek
+bozuklukları ve
+mediastinal
+hastalıkları
+Gastrointestinal Diyare Yaygın olmayan Seyrek
+hastalıklar:
+Bulantı Yaygın Yaygın olmayan
+10Deri ve deri altı Deri hastalıkları (döküntü, Yaygın Yaygın olmayan
+doku hastalıkları: eritem, ürtiker, kaşıntı
+kabarcıklar, pul pul dökülme)
+Hiperhidroz Yaygın olmayan Seyrek
+Kas-iskelet Sırt ağrısı, boyun ağrısı, Yaygın Yaygın olmayan
+bozuklukları, bağ miyalji,
+doku ve kemik
+hastalıkları:
+Genel bozukluklar Halsizlik (yorgunluk, titreme, Yaygın Yaygın olmayan
+ve uygulama ateş, grip benzeri
+bölgesine ilişkin semptomlar)
+hastalıklar:
+* Aktif bileşenlere ve / veya yardımcı maddelere alerjisi olan hastalarda potansiyel belirti, bkz.
+Bölüm 4.4.
+Bulaşabilen ajanlar ile ilgili güvenilirlik için Bölüm 4.4’e bakınız.
+Güvenlik profilinin özeti
+İnsan normal immunoglobulinlerinin neden olduğu advers reaksiyonlar azalan sıklık sırasına
+göre aşağıda belirtilmiştir (ayrıca bkz. Bölüm 4.4):
+• (bilinmiyor) Titreme, baş ağrısı, baş dönmesi, ateş, kusma, alerjik reaksiyonlar, artralji,
+bulantı, düşük tansiyon ve orta şiddette sırt ağrısı.
+• Geri dönüşlü hemolitik reaksiyonlar; özellikle, A, B, ve AB kan grubuna sahip olan ve
+(seyrek) transfüzyon gerektiren hemolitik anemili hastalarda.
+• (seyrek) Kan basıncında ani düşüş ve izole vakalarda anaflaktik şok (hastanın önceki
+uygulamaya aşırı duyarlılık göstermemiş olması durumunda bile).
+• (seyrek) Geçici kutanöz reaksiyonları (kutanöz lupus eritematoz dahil-sıklığı
+bilinmiyor).
+• (çok seyrek) Miyokard enfarktüsü, inme, pulmoner emboli ve derin ven trombozu gibi
+tromboembolik reaksiyonlar.
+• (bilinmiyor) Geri dönüşlü aseptik menenjit vakaları.
+• (bilinmiyor) Serum kreatinin düzeyinde artış ve/veya akut renal yetmezlik oluşumu
+vakaları.
+• (bilinmiyor) Transfüzyona bağlı akut akciğer hasarı (TRALI) vakaları.
+• (bilinmiyor) İdrara çıkamama (anüri),
+Glukoz içeren intravenöz sıvıların infüzyonu, hiponatremi ve hiponatremik ensefalopatiye
+neden olabilir (bkz. Bölüm 4.4). Hiponatremi ve hiponatremik ensefalopatinin görülme sıklığı
+bilinmemektedir.
+Klinik çalışmalar:
+NANOGAM 50 mg/ml ile primer immün yetmezlik (PIY) çalışmasında bir
+hipogamaglobulinemi hastası, geçmişte başka bir IVIg kullandığında oluşana benzer bir alerjik
+11reaksiyon (döküntü) yaşamıştır. PIY çalışmasında raporlanan toplam 84 yan etkinin 43 tanesi
+(%51,1) NANOGAM 50 mg/ml ile ilişkili çıkmıştır. Bu olayların çoğu hafif olarak
+değerlendirilmiştir.
+Primer immün trombositopeni (ITP) çalışmasında, 12 hasta için toplam 31 yan etkinin 16 tanesi
+(%51,6) NANOGAM 50 mg/ml ile muhtemelen ilişkili olarak 9 hasta tarafından bildirilmiştir.
+Toplamda bir ya da daha fazla olan, çoğu hafif ve orta derecede olan NANOGAM ile ilişkili
+yan etkiler, 61 infüzyonun 10’unda (%16) görülmüştür. Tüm hastalarda, kombinasyondaki
+hemoglobin düşüşü sabit karaciğer fonksiyonları ve haptoglobin seviyeleriyle birlikte
+gözlemlenmiştir. Bu durumlar, muhtemelen hemodilüsyon fenomeni olarak kabul edilmiş ve
+NANOGAM infüzyonlarına bağlı hemolizden kaynaklanmamıştır.
+PIY hastalarında NANOGAM 100 mg/ml ile yapılan klinik çalışmada, 16 hastada tedaviye
+bağlı 33 tane yan etki görülmüştür (% 69,6). NANOGAM 50 mg/ml (periyot 1) ve NANOGAM
+100 mg/ml (periyot 2’den 5’e) tedavisi arasında Sistem Organ Sınıfı (SOC) yan etkileri
+açısından görülme sıklıklarında dikkate değer farklılıklar görülmemiştir. 33 yan etkiden üçü,
+araştırmacı tarafından muhtemelen NANOGAM 100 mg / ml ile ilgili olarak
+değerlendirilmiştir. Bu yan etkiler, iki hastada NANOGAM 100 mg / ml ile infüzyondan
+sonraki üç lökopeni (<4.0 x 109 / L) insidansından sorumluydu. Bildirilen lökopeni olayları
+hafif şiddette ve klinik semptomlar içermiyordu.
+Pediyatrik popülasyon
+Çocuklardaki advers reaksiyonların sıklığı, tipi ve şiddeti yetişkinlerde olduğu gibidir.
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir (www.titck.gov.tr;
+e-posta: tufam@titck.gov.tr; tel: 0800 314 00 08; faks: 0 312 218 35 99)
+4.9. Doz aşımı ve tedavisi
+Aşırı doz; kalp veya böbrek yetmezliği olan hastalar veya yaşlı hastalar dahil risk altındaki
+hastalarda aşırı sıvı yüklenmesine ve hiperviskoziteye neden olabilir.(bkz.Bölüm 4.4.) Tedavi
+semptomatik olarak yapılmalıdır. Bazen diyaliz yapılması gerekebilir. Doz aşımından
+şüphelenilmesi durumunda NANOGAM ile tedavi derhal durdurulmalıdır.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1. Farmakodinamik özellikler
+Farmakoterapötik grup: İmmün sera ve İmmünoglobulinler: İmmünoglobulin, normal insan,
+intravenöz uygulama için.
+ATC Kodu: J06BA02.
+Etki Mekanizması:
+12İnsan normal immünoglobulini esas olarak, enfeksiyöz ajanlara karşı geniş spektrumlu
+antikorlar bulunan immünoglobulin G (IgG) içerir.
+İnsan normal immünoglobulinleri, normal popülasyonda bulunan IgG antikorlarını içerir.
+Genellikle 1000 bağıştan az olmayan plazma havuzundan hazırlanır. IgG alt sınıflarının
+dağılımı normal insan plazmasına benzer oranlardadır. Bu ürün yeterli dozlarda kullanıldığında,
+düşük immünoglobulin G düzeyini normal seviyelerine çıkarabilir. Replasman tedavisi
+dışındaki endikasyonlarda etki mekanizması tamamen açıklanamamıştır, ancak
+immünomodülatör etkiye sahiptirler.
+Klinik çalışmalar:
+NANOGAM 50 mg/ml'nin güvenliliğini ve etkililiğini değerlendirmek için iki prospektif
+kontrolsüz çok merkezli çalışma gerçekleştirilmiştir. Toplamda 42 hasta klinik çalışmalarda
+toplam 888 infüzyona maruz kalmıştır.
+Primer immün yetmezlik (PIY) çalışması iki kısımdan oluşmaktadır. İlk kısımda (kısa dönem
+takip / kısım A), 18 hasta 6 aylık tedaviye dâhil edildi. Hastalar her 2-5 haftada 150 ila 400
+mg/kg vücut ağırlığı arasında bir doz aldı. 18 hastanın tümü (158 infüzyon) çalışmanın bu
+kısmını tamamladı. Sonuç olarak, hastalara NANOGAM pazarlama yetkisi alana kadar (kısım
+B’nin başlangıcından 3 yıl sonra) aynı dozaj rejiminde, etkililik ve güvenlilik için uzun dönem
+takip olan kısım B’ye katılımları teşvik edilmiştir. 17 hastadan 14’ü çalışmayı tamamlamıştır.
+(669 infüzyon).
+Primer immün trombositopeni (ITP) çalışması için, 24 hastadan 8 hasta bir günde 1g/kg, 9 hasta
+2 gün üst üste 1 g/kg ve 7 hasta ise 5 gün üst üste 400 mg/kg doz almıştır. Hastalar 14 günlük
+bir periyod süresince takip edilmiştir. 24 hastadan 23’ü çalışmayı protokole göre
+tamamlamıştır.
+NANOGAM 100 mg/ml için bir adet çok merkezli prospektif kontrolsüz klinik çalışma
+yapılmıştır. Çalışmanın amacı NANOGAM 50 mg/ml ile NANOGAM 100 mg/ml arasındaki
+biyo-eşdeğerliliğin gösterilmesidir. Primer immün yetmezlik sendromu olan ve NANOGAM
+50 mg/ml ile sabit tedavi rejiminde olan 23 hastaya, kendi mevcut tedavilerini takiben bir
+NANOGAM 50 mg/ml infüzyon ve son olarak 4 ardışık NANOGAM 100 mg/ml infüzyonu
+aynı doz aralığında ve aynı dozda (gram olarak) uygulanmıştır. Bu çalışmanın sonuçları bu
+ürünlerin biyoeşdeğer olduğunu göstermiştir.
+Pediyatrik popülasyon:
+Yetişkinlerle kıyaslandığında, çocuklarda immünoglobulinlerin etkisinde teorik veya gözlenen
+herhangi bir fark yoktur.
+5.2. Farmakokinetik özellikler
+Genel özellikler
+NANOGAM intravenöz uygulamayı takiben kan dolaşımında hemen ve tam olarak mevcuttur.
+İnfüzyondan sonra NANOGAM'ın farmakokinetik profili aynı infüzyon hızını (ml/kg/saat)
+takiben 50 mg / ml ve 100 mg / ml gücü kullanılarak karşılaştırılabilir.
+13Emilim:
+İntravenöz uygulama sonrası, uygulanan insan normal immünoglobulini miktarının tamamı
+dolaşımda tespit edilebilir. İntravenöz uygulama sonrası absorbsiyon tam ve hızlıdır.
+Dağılım:
+Rölatif olarak süratle plazma ve damar dışı sıvı arasında yayılır, yaklaşık olarak 3-5 gün
+içerisinde damar içi ve damar dışı kompartımanlar arasında dengeye ulaşır. İnsan normal
+immunoglobulininin yarı ömrü yaklaşık olarak 31 gündür.
+Biyotransformasyon:
+IgG ve IgG-kompleksleri retiküloendoteliyal sistem hücrelerinde yıkılır.
+Eliminasyon:
+Eliminasyon yarı ömrü yaklaşık bir aydır. Ancak yarı ömür süresi özellikle primer immün
+yetmezlikte hastadan hastaya değişebilir.
+Doğrusallık / Doğrusal olmayan durum:
+Eliminasyonu dozla orantılı olarak lineerdir.
+5.3. Klinik öncesi güvenlilik verileri
+İmmünoglobulinler insan vücudunun normal bileşenleridir ve bu nedenle hayvanlarda
+yürütülen konvensiyonel preklinik toksisite testi; akut toksisite testinde dolaşıma aşırı yükleme
+yapıldığından ve tekrarlı doz çalışmalarında antikor indüksiyonuna neden olması sebebiyle
+uygun değildir.
+6. FARMASÖTİK ÖZELLİKLER
+6.1. Yardımcı maddelerin listesi
+Glukoz monohidrat
+Enjeksiyonluk su
+6.2. Geçimsizlikler
+Geçimlilik çalışmaları bulunmadığından, bu tıbbi ürün aynı infüzyon ekipmanı yoluyla kan
+uygulamasından önce veya sonra aynı anda verilmemeli veya başka tıbbi ürünler veya diğer
+IVIg ürünleriyle karıştırılmamalıdır.
+6.3. Raf ömrü
+36 ay
+6.4. Saklamaya yönelik özel tedbirler
+142-8 ºC’de buzdolabında ve ışıktan koruyarak saklayınız. Ürünü dondurmayınız, donmuş ürünü
+çözüp kullanmayınız.
+Raf ömrü dahilinde, tekrar buzdolabına konulmamak şartıyla, 25 °C veya altındaki sıcaklıkta 6
+aya kadar saklanabilir. Ürünün buzdolabından oda sıcaklığına alındığı tarih kutunun üzerine
+yazılmalıdır. Eğer ürün bu süre içerisinde kullanılmazsa imha edilmelidir.
+Mikrobiyolojik açıdan, ürün kauçuk tıpa ile delindikten sonra hemen kullanılmalıdır. Eğer
+derhal kullanılmazsa, kullanım öncesi kullanım koşulları ve saklama zamanları kullanıcının
+sorumluluğundadır ve tıpa ile delinme kontrol edilmiş ve valide edilmiş aseptik koşullarda
+yapılmazsa, normal olarak 2-8 ºC’de buzdolabında, 24 saatten daha uzun olmamalıdır. Flakonu
+ışıktan korumak için, dış karton kutusunun içerisinde saklanmalıdır.
+6.5. Ambalajın niteliği ve içeriği
+Tıpalı (bromobutil) flakon içerisinde (Tip II cam) 100 mL’lik çözelti.
+Ambalaj büyüklüğü: 1 flakon
+6.6. Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+Ürün kullanılmadan önce oda sıcaklığına veya vücut sıcaklığına getirilmelidir. Çözelti berrak
+veya hafif opalesan ve renksiz veya hafif sarımsı renkte olmalıdır. Bulanık veya içerisinde
+partikül-tortu bulunan çözeltileri kullanmayınız.
+Büyük miktarlarda NANOGAM kullanan hastalar için çok sayıda flakon içeriğinin Etil Vinil
+Asetat kaba (parenteral beslenme kabı) aktarılması mümkündür. 500ml ve 1L’lik kapların
+minimum %20 ila maksimum %80’i NANOGAM ile doldurulabilir. Her bir işlem basamağında
+aseptik teknikler kullanılmalıdır. Mikrobiyolojik nedenlerle NANOGAM’ın besleme kabına
+aktarılmasından sonra en kısa süre içerisinde, transfer işlemini takiben en fazla 3 saate kadar
+infüzyona başlanmalıdır.
+Preparat uygulanmadan önce partikül ve renk değişimi açısından kontrol edilmelidir. Partikül
+veya renk değişimi gözlenmesi halinde preparat kullanılmamalıdır. Sadece berrak ya da hafif
+opalesan veya renksiz ya da açık sarı renkli solüsyonlar kullanılmalıdır.
+Kullanılmamış olan ürünler ya da atık materyaller “Tıbbi Atıkların Kontrolü Yönetmeliği” ve
+“Ambalaj Atıklarının Kontrolü Yönetmeliği”ne uygun olarak imha edilmelidir.
+7. RUHSAT SAHİBİ
+Centurion İlaç San. ve Tic. A.Ş.
+Beşiktaş/ İstanbul
+158. RUHSAT NUMARASI
+2016/296
+9. İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi : 30.07.2012
+Ruhsat yenileme tarihi :
+10. KÜB’ÜN YENİLENME TARİHİ
+--/--/--
+16

@@ -1,0 +1,1529 @@
+KISA ÜRÜN BİLGİSİ
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+VORİJECT® 200 mg İV infüzyon çözeltisi için liyofilize toz içeren flakon
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde:
+Vorikonazol 200 mg
+Yardımcı maddeler:
+Hidroksipropil-β-siklodekstrin……………………. 3000 mg
+Yardımcı maddeler için 6.1’e bakınız.
+3. FARMASÖTİK FORM
+VORİJECT infüzyon çözeltisi için liyofilize toz içeren flakondur.
+30 ml’lik şeffaf cam flakonlarda sunulan, 200 mg vorikonazole eşit beyaz liyofilize bir tozdur.
+4. KLİNİK ÖZELLİKLER
+4.1. Terapötik endikasyonlar
+VORİJECT, geniş spektrumlu, triazol grubuna dahil antifungal bir ajandır ve aşağıda
+belirtilen mantar enfeksiyonlarının tedavisinde endikedir:
+İnvazif aspergillozun tedavisinde,
+Nötropenik olmayan hastalarda kandidemi tedavisinde,
+C. krusei ve özofajiyal ve sistemik Candida enfeksiyonları (hepatosplenik kandidiyazis,
+yaygın kandidiyazis, kandidemi) dahil, ciddi Candida enfeksiyonlarının tedavisinde.
+Scedosporium türleri (S. apiospermum ve S. prolificans) ve Fusarium türlerine bağlı ciddi
+fungal enfeksiyonların tedavisinde,
+Diğer tedavileri tolere edemeyen veya tedaviye direnen, yanıt vermeyen hastalardaki diğer
+ciddi fungal enfeksiyonların (Aspergillus türleri, C. albicans, Albicans dışı türler [C. krusei ve
+C. glabrata], S. apiospermum, S. prolificans ve Fusarium türleri) tedavisinde.
+Tedaviye başlanmadan önce hastalığa sebep olan organizmanın izole edilmesi ve belirlenmesi
+amacıyla mantar kültürü için örnekler sağlanmalı ve diğer ilgili laboratuvar çalışmaları
+(seroloji, histopatoloji) yapılmalıdır. Kültür ve diğer laboratuvar çalışma sonuçları gelmeden
+tedaviye başlanabilir, ancak sonuçlar gelir gelmez antifungal tedavi gerektiği şekilde
+ayarlanmalıdır.
+4.2. Pozoloji ve uygulama şekli
+VORİJECT intravenöz formunun içeriğinde bulunan hidroksipropil-β-siklodekstrin,
+glomerüler filtrasyon yoluyla atılır. Bu nedenle, kreatinin klirensi 30 ml/dk’nın altında olan
+şiddetli böbrek yetmezliği olan hastalarda VORİJECT i.v. kullanımı kontrendikedir.
+1 / 37Pozoloji
+VORİJECT IV’nin saatte maksimum 3 mg/kg hızla ve 1-3 saat içinde verilmesi
+önerilir.
+Bolus enjeksiyon için uygun değildir. IV infüzyon için dilüe edilmelidir.
+Uygulama sıklığı ve süresi
+Yetişkinlerde kullanım
+Kararlı duruma yakın olan plazma konsantrasyonlarının birinci günde elde edilebilmesi için,
+Vorikonazol tedavisi intravenöz veya oral yoldan verilen özel yükleme doz rejimi ile
+başlatılmalıdır. Oral biyoyararlanımının yüksek (% 96; bkz. Bölüm 5.2 Farmakokinetik
+özellikler) olması nedeniyle klinik olarak endike olduğunda intravenöz ve oral uygulamalar
+arasında geçiş yapmak mümkündür.
+Önerilen dozlarla ilgili ayrıntılı bilgiler aşağıdaki tabloda verilmiştir.
+Orala (tablet ve süspansiyon)
+40 kg ve 40 kg’ın altındaki
+İntravenöz
+üzerindeki hastalarda*
+hastalarda
+Yükleme Doz Rejimi
+Bütün endikasyonlar Her 12 saatte bir 6 Her 12 saatte bir Her 12 saatte bir
+için mg/kg 400 mg (10 ml) 200 mg (5 ml)
+(ilk 24 saat)
+İdame Dozu (ilk 24
+saatten sonra)
+Ciddi invazif
+Candida/İnvazif
+aspergilloz/
+Scedosporium ve Her 12 saatte bir 4 Her 12 saatte bir Her 12 saatte bir
+Fusarium mg/kg 200 mg (5 ml) 100 mg (2.5 ml)
+enfeksiyonları/Diğer
+ciddi mantar
+enfeksiyonlarıb
+Nötropenik olmayan Her 12 saatte bir 3-4 Her 12 saatte bir Her 12 saatte bir
+hastalarda kandidemi mg/kgc 200 mg (5 ml) 100 mg (2.5 ml)
+Özofajiyal Candida Değerlendirilmemiştir. Her 12 saatte bir Her 12 saatte bir
+enfeksiyonları 200 mg (5 ml) 100 mg (2.5 ml)
+*15 yaş ve üstü hastaları da kapsamaktadır.
+a. Sağlıklı gönüllülerde yapılan çalışmalarda 12 saatte bir verilen 200 mg oral doz, 12 saatte bir verilen 3
+mg/kg IV dozu ile benzer bir maruz kalma (EAA) sağlamıştır. 12 saatte bir verilen 300 mg oral doz, 12 saatte
+τ
+bir verilen 4 mg/kg IV dozu ile benzer bir maruz kalma (EAA) sağlamıştır. (Bkz. Bölüm 5.2)
+τ
+b. Invazif aspergillozun pivotal klinik çalışmasında IV vorikonazol uygulamasının etki süresinin medyan değeri
+10 gündür (2-85 gün aralığı). Oral vorikonazol uygulamasının etki süresinin medyan değeri 76 gündür (2-232
+gün aralığı) (Bkz. Bölüm 5.1)
+2 / 37c. Klinik çalışmalarda, kandidemi hastaları birincil tedavi olarak her 12 saatte bir 3 mg/kg alırken diğer derin
+doku Candida enfeksiyonu olan hastalar kurtarma tedavisi olarak 4 mg/kg almışlardır. Uygun doz enfeksiyonun
+ciddiyetine ve doğasına göre belirlenmelidir.
+Doz ayarlaması
+Eğer hastalar 12 saat arayla 4 mg/kg dozunu tolere edemiyorlarsa, idame dozu 12 saat arayla
+3 mg/kg’a azaltılır.
+Eğer hastanın cevabı yetersiz ise, oral uygulama için idame dozu günde iki kez 300 mg’a
+yükseltilebilir. 40 kg’dan az olan hastalar için oral doz günde iki kez 150 mg’a yükseltilebilir.
+Eğer hasta bu kadar yüksek dozda tedaviyi tolere edemiyorsa (örneğin günde 2 kez 300 mg
+oral gibi), oral idame dozu 50 mg’ lık kademelerle günde iki kez 200 mg’ a (40 kg’dan
+az olan hastalar için günde iki kez 100 mg) düşürülmelidir.
+Vorikonazolün idame dozu intravenöz uygulama için 12 saat arayla 5mg/kg’a çıkartıldığı
+takdirde, vorikonazol ile beraber fenitoin verilebilir (bkz. Bölüm 4.4 Özel kullanım uyarıları
+ve önlemleri, Bölüm 4.5 Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri).
+Fenitonin ile vorikonazol birlikte kullanılacaksa fenitoin seviyelerinin dikkatli takibi
+gereklidir. Fayda zarar ilişkisi fayda yönünde ağır basmadıkça birlikte kullanılmalarından
+kaçınılmalıdır.
+Vorikonazol efavirenzle birlikte verildiğinde, vorikonazol dozu günde 2 kez 400 mg’a
+yükseltilmeli, efavirenz dozu ise % 50, örneğin 300 mg’a (günde 1 kez) düşürülmelidir.
+Vorikonazol ile tedavi kesildiğinde, efavirenzin başlangıç dozuna dönülmelidir. (bkz. Bölüm
+4.4 Özel kullanım uyarıları ve önlemleri, Bölüm 4.5. Diğer tıbbi ürünler ile etkileşimler ve
+diğer etkileşim şekilleri).
+Tedavi süresi hastaların klinik ve mikrobiyolojik test cevabına bağlı olarak mümkün
+olduğunca kısa olmalıdır.
+İntravenöz formülasyon ile tedavi süresi 6 aydan uzun olmamalıdır (bkz. Bölüm 5.3. Klinik
+öncesi güvenlilik verileri). Vorikonazolle 6 aydan uzun süreli tedavilerde, yarar-risk oranı
+dikkatli şekilde gözden geçirilmelidir. (Bkz. Bölüm 4.4. Özel Kullanım Uyarıları ve
+Önlemleri (Dermatolojik Reaksiyonlar) ve Bölüm 5.1. Farmakodinamik Özellikler (Tedavi
+süresi)).
+Uygulama şekli:
+VORİJECT’in, intravenöz infüzyon olarak uygulanmasından önce sulandırılması ve
+seyreltilmesi gereklidir (ayrıca bkz. Bölüm 6.6. Beşeri Tıbbi üründen arta kalan maddelerin
+imhası ve diğer özel önlemler).
+VORİJECT infüzyon çözeltisinin bolus enjeksiyon şeklinde uygulanması önerilmez.
+3 / 37Özel popülasyonlara ilişkin ek bilgiler
+Böbrek yetmezliği
+Hidroksipropil-β-siklodekstrin glomerüler filtrasyon yolu ile elimine edilir bu nedenle ciddi
+böbrek yetmezliği bulunan hastalarda (kreatinin klerensi ˂ 30 ml/dk) Voriject İV
+kontrendikedir (Bkz. Bölüm 4.3 Kontrendikasyonlar).
+İntravenöz vorikonazol kullanımı, hastaya olan risk/fayda değerlendirmesini haklı
+çıkarmadıkça, bu hastalara oral vorikonazol verilmelidir. Bu hastalarda serum kreatinin
+düzeyleri yakından izlenmelidir ve eğer artış görülürse, oral vorikonazol tedavisine geçilmesi
+düşünülmelidir (bkz. Bölüm 5.2 Farmakokinetik özellikler).
+Vorikonazol hemodiyaliz yoluyla 121 ml/dk’lık klerens ile atılır. 4 saatlik bir
+hemodiyaliz doz ayarlaması gerektirecek miktarda vorikonazolün uzaklaştırılmasını
+sağlamaz. Konservatif hesaplamalar baz alınırsa ( 1. Dereceden hemodiyaliz ve minimal
+hepatik eliminasyon olduğu var sayılıyor) 12 saatlik bir hemodiyaliz vorikonazolün yaklaşık
+%50’sini vücuttan uzaklaştırırken 24 saatlik bir hemodiyaliz % 75’ini uzaklaştırır.
+Hidroksipropil-β-siklodekstrin klerensi böbrek yetmezliği olan hastalarda azalmıştır bu da
+hastanın daha fazla hidroksipropil-β-siklodekstrin’e maruziyetine neden olur. Bu hastalarda
+uygulanan ardışık infüzyonlar hidroksipropil-β-siklodekstrin’in birikmesine neden olabilir.
+Hidroksipropil-β-siklodekstrin hemodiyalize edilir.
+Karaciğer yetmezliği
+Hafif (Child-Pugh sınıf A) ve orta (Child-Pugh sınıf B) şiddette karaciğer sirozu olan
+hastalarda, standart vorikonazol yükleme doz rejiminin kullanılması önerilir ancak
+idame dozu yarı yarıya azaltılmalıdır (bkz. Bölüm 5.2 Farmakokinetik özellikler).
+Ciddi (Child-Pugh sınıf C) kronik karaciğer sirozu olan hastalarda vorikonazol
+çalışılmamıştır.
+Karaciğer fonksiyon testleri (aspartat transaminaz [AST], alanin transaminaz [ALT], alkalin
+fosfataz [ALP] veya toplam bilirubin değerleri anormal (normal karaciğer fonksiyon test
+değerlerinin en üst limitinin 5 katı) olan hastalarda VORİJECT’in güvenliliği ile ilgili sınırlı
+veri mevcuttur.
+Vorikonazol, karaciğer fonksiyon testlerinde yükselme ve sarılık gibi karaciğer
+hasarının klinik belirtileri ile ilişkilidir. Bu nedenle ciddi karaciğer bozukluğu olan hastalarda
+sadece beklenen yarar potansiyel risklerden fazlaysa kullanılmalıdır. Hasta ilaç toksisitesi
+açısından dikkatle gözlenmelidir ( bkz. Bölüm 4.8 İstenmeyen etkiler).
+Pediyatrik popülasyon:
+2 - < 12 yaş arasındaki çocuklarda ve 12-14 yaş arası (< 50 kg) genç adölesanlarda
+önerilen idame doz rejimi aşağıdaki gibidir:
+Genç adölesanlar vorikonazolü yetişkinlerden ziyade çocuklar ile benzer bir şekilde
+metabolize edebileceği için bu yaş grubunda vorikonazol çocuk dozu uygulanmalıdır.
+4 / 37İntravenöz Oral
+Yükleme dozu (ilk 24 saat) Her 12 saatte bir 9 mg/kg Önerilmez.
+Günde 2 kere 9 mg/kg
+İdame dozu (ilk 24 saatten Günde 2 kere 8 mg/kg (maksimum doz günde 2 kere
+sonra) 350 mg)
+Not: 2- <12 yaş arası bağışıklık sistemi baskılanmış 112 pediyatrik hastada ve 12- <17 yaş arası
+bağışıklık sistemi baskılanmış 26 adolesanda yapılan farmakokinetik analiz baz alınmıştır.
+Tedavi intravenöz rejim ile başlanmalı ve oral tedavi sadece klinik olarak anlamlı bir düzelme
+görüldüğü taktirde düşünülmelidir. IV uygulanan 8mg/kg vorikonazolün 9 mg/kg oral doza
+nazaran yaklaşık 2 kat daha fazla maruziyet yarattığı unutulmamalıdır.
+Çocuklar için bu oral doz önerileri vorikonazolün oral süspansiyon için toz formunda
+uygulanması ile yapılan çalışmalara dayanmaktadır. Tablet ve oral süspansiyon için toz
+arasındaki biyoeşdeğerlik çocuk popülasyonunda araştırılmamıştır. Pediyatrik popülasyonda
+tahmin edilen sınırlı gastro-enterik geçiş zamanı düşünüldüğünde tabletlerin emilimi
+yetişkinler ile karşılaştırıldığında farklı olabilir. Bu yüzden 2-12 yaş arasındaki pediyatrik
+hastalarda oral süspansiyon formunun kullanılması önerilir.
+2 yaşın altındaki hastalarda VORİJECT’in etkililik ve güvenlilik çalışmaları yapılmamıştır
+(bkz. Bölüm 4.8 İstenmeyen etkiler, 5.1 Farmakodinamik özellikler). Bu nedenle
+vorikonazolün 2 yaşından küçük çocuklarda kullanılması önerilmez. Hepatik veya renal
+yetmezliği olan 2 - <12 yaşındaki pediyatrik hastalarda kullanım çalışmaları
+yapılmamıştır (bkz. Bölüm 4.8. İstenmeyen etkiler ve 5.2 Farmakokinetik özellikler).
+Diğer tüm adölesanlarda (12-14 yaş arası (≥ 50 kg) ve ağırlık fark etmeksizin 15-17 yaş )
+yetişkin dozu uygulanır.
+Doz ayarlaması
+Eğer hastanın cevabı yetersiz ise intravenöz doz 1 mg/kg’lık basamaklar halinde
+arttırılmalıdır.
+Eğer hasta tedaviyi tolere edemiyorsa doz 1 mg/kg’lık basamaklar halinde azaltılmalıdır.
+Geriyatrik popülasyon:
+Yaşlı hastalar için doz ayarlaması gerekli değildir (bkz. Bölüm 5.2 Farmakokinetik
+özellikler).
+4.3. Kontrendikasyonlar
+Vorikonazole veya VORİJECT’in içeriğindeki herhangi bir bileşene aşırı duyarlılığı olduğu
+bilinen hastalarda kontrendikedir.
+Yardımcı madde hidroksipropil-β-siklodekstrin, glomerüler filtrasyon yoluyla atılır. Bu nedenle,
+şiddetli böbrek yetmezliği olan hastalarda (kreatinin klirensi 30 ml/dk’nın altında) VORİJECT İV
+kontrendikedir.
+5 / 37Vorikonazolün CYP3A4 substratları, terfenadin, astemizol, sisaprid, pimozid veya kinidin ile
+birlikte uygulanması kontrendikedir, çünkü bu ilaçların plazma düzeylerinin yükselmesi
+QT ’nin uzamasına ve seyrek olarak da torsades de pointes oluşumuna neden olabilir (bkz.
+c
+Bölüm 4.5 Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri).
+Vorikonazolün sağlıklı gönüllülerde sirolimus plazma düzeylerini önemli ölçüde yükseltmesi
+nedeniyle birlikte kullanımı kontrendikedir. (bkz. Bölüm 4.5 Diğer tıbbi ürünler
+ile etkileşimler ve diğer etkileşim şekilleri).
+Rifampisin, karbamazepin ve fenobarbitalin vorikonazol ile birlikte kullanılması
+kontrendikedir, çünkü bu ilaçlar vorikonazol ile birlikte kullanıldıklarında, vorikonazolün
+plazma düzeylerini önemli ölçüde düşürebilirler (bkz. Bölüm 4.5. Diğer tıbbi ürünler ile
+etkileşimler ve diğer etkileşim şekilleri).
+Rifabutinin vorikonazol ile birlikte kullanılması kontrendikedir, çünkü bu ilaç vorikonazol
+ile birlikte kullanıldığında, vorikonazolün plazma düzeylerini önemli ölçüde düşürebilir (bkz.
+Bölüm 4.5 Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri).
+Yararı zararından fazla olmadığı sürece, rifabutin ile vorikonazolün birlikte kullanımından
+kaçınılmalıdır.
+CYP3A4 substratları olan ergot alkaloidleri (örn; ergotamin, dihidroergotamin) ile birlikte
+vorikonazol kullanılması kontrendikedir, çünkü bu ilaçların plazma düzeylerinin yükselmesi
+ergotizme sebep olabilir (bkz. Bölüm 4.5. Diğer tıbbi ürünler ile etkileşimler ve diğer
+etkileşim şekilleri).
+St John’s Wort ile birlikte kullanımı kontrendikedir (bkz. 4.5. Diğer tıbbi ürünler ile
+etkileşimler ve diğer etkileşim şekilleri).
+Yüksek doz Ritonavir (400 mg/gün ve üzeri) ile vorikonazolün birlikte kullanımı
+kontrendikedir. Bu dozda kullanılan ritonavir sağlıklı gönüllülerde vorikonazol plazma
+konsantrasyonunu önemli derecede düşürmektedir. (bkz. bölüm 4.5, düşük doz için bkz
+bölüm 4.4)
+Standart doz vorikonazol ile 400 mg/gün veya daha yüksek efavirenz dozunun birlikte
+kullanımı kontrendikedir. Bu dozda kullanılan efavirenz sağlıklı gönüllülerde vorikonazol
+plazma konsantrasyonunu önemli derecede düşürmektedir. (bkz. bölüm 4.5, düşük doz
+için bkz bölüm 4.4) Ayrıca vorikonazol efavirenz plazma konsantrasyonunu önemli ölçüde
+arttırır.
+4.4. Özel kullanım uyarıları ve önlemleri
+Aşırı duyarlılık
+Diğer azollere aşırı duyarlılığı olan hastalar için VORİJECT reçetelenirken dikkatli
+olunmalıdır (bkz. Bölüm 4.8. İstenmeyen etkiler).
+Tedavi süresi:
+İntravenöz formülasyon ile tedavi süresi 6 aydan uzun olmamalıdır (bkz. Bölüm 5.3. Klinik
+öncesi güvenlilik verileri).
+6 / 37Kardiyovasküler istenmeyen etkiler
+Vorikonazolün QT aralığının uzamasıyla ilişkilendirilmişlerdir. Klinik geliştirme ve
+pazarlama sonrası gözlem çalışmalarında, vorikonazol kullanan hastalarda, nadir olarak
+torsades de pointes vakaları görülmüştür. Bunlar kardiyotoksik kemoterapi, kardiyomiyopati,
+hipokalemi ve duruma katkıda bulunabilecek eş zamanlı ilaç kullanma öyküsü gibi çoklu
+karmaşık risk faktörlerine sahip ciddi vakalardı.
+Vorikonazol aşağıdaki gibi potansiyel proaritmik koşulları olan hastalarda dikkatli
+kullanılmalıdır (bkz. bölüm 4.2. Pozoloji ve uygulama şekli).
+- Konjenital veya konjenital olmayan QT aralığının uzaması
+- Kardiyomiyopati, özellikle kalp yetmezliği olduğunda
+- Sinüs bradikardisi
+- Mevcut semptomatik aritmi
+- QT aralığını uzattığı bilinen ilaçlar ile birlikte kullanım. Gerekli durumlarda, vorikonazol
+tedavisi öncesi ve sırasında hipokalemi, hipomagnezemi ve hipokalsemi gibi elektrolit
+bozuklukları, gerekli ise tedavinin başlatılmasından önce ve vorikonazol tedavisi esnasında
+izlenmelidir ve düzeltilmelidir ( bkz. Bölüm 4.2 Pozoloji ve uygulama şekli). Günlük dozun 4
+katına kadar uygulanan tek doz vorikonazolün, sağlıklı gönüllülerde QT aralığına olan
+etkisine bakılan bir çalışma yapılmıştır. Hastalardan hiçbirinde klinik olarak anlamlı olan
+eşik değer olan 500 msn’ yi geçen bir aralık saptanmamıştır. (bkz. Bölüm 5.1
+Farmakodinamik özellikler).
+İnfüzyonla ilgili reaksiyonlar
+Vorikonazolün intravenöz olarak uygulanması esnasında çoğunlukla yüz kızarması ve bulantı
+gözlenmiştir. Semptomların şiddetine bağlı olarak, tedavinin durdurulması düşünülmelidir
+(bkz. Bölüm 4.8. İstenmeyen etkiler).
+Karaciğer toksisitesi
+Klinik çalışmalarda, vorikonazol tedavisi sırasında ciddi karaciğer toksisitesine dair
+vakalar (klinik hepatit, kolestaz ve ölümle sonuçlanabilecek fulminan karaciğer yetmezliği)
+görülmüştür. Hepatik reaksiyonların tekrarı öncelikle altta yatan ciddi bir medikal durumu
+(çoğunlukla hematolojik malignite) olan hastalarda ortaya çıktığı not edilmiştir. Teşhis
+edilebilir diğer risk faktörleri olmayan hastalar arasında hepatit ve sarılık dahil geçici
+karaciğer reaksiyonları oluşmuştur. Karaciğer disfonksiyonu tedavinin kesilmesiyle geri
+dönüşlü olmuştur.
+Karaciğer fonksiyonlarının izlenmesi
+VORİJECT kullanan hastalar hepatik toksisite açısından dikkatli bir şekilde
+izlenmelidir. VORİJECT ile tedavinin başında, özellikle ilk ay en az haftada bir hepatik
+fonksiyonlar (özellikle AST ve ALT) değerlendirilmelidir. Tedavi mümkün olduğunca kısa
+olmalıdır ancak tedavinin getireceği yarar potansiyel zarardan fazla olduğunda tedaviye
+devam edilmelidir. Bu tür durumlarda karaciğer fonksiyon testlerinde bir değişiklik olmaz ise
+aylık olarak izlenebilir.
+Karaciğer fonksiyon testleri belirgin bir şekilde yükselmiş ise tedavinin medikal olarak risk-
+yarar açısından değerlendirmesi tedaviye devam edilmesini desteklemiyorsa VORİJECT
+tedavisi durdurulmalıdır.
+7 / 37Karaciğer fonksiyonları hem çocuklar hem de erişkinlerde izlenmelidir.
+Görme ile ilgili istenmeyen etkiler
+Bulanık görme, optik nörit ve papilla ödemi dahil uzun süreli görsel advers etkiler
+bildirilmiştir. (bkz. Bölüm 4.8 İstenmeyen etkiler).
+Böbrekle ilgili istenmeyen etkiler
+Vorikonazol tedavisi gören ağır hastalarda, akut böbrek yetmezliği görülmüştür. Vorikonazol
+tedavisi gören hastalar muhtemelen buna ilişkin nefrotoksik ilaçlar da kullanmaktadırlar, buna
+bağlı olarak böbrek işlevlerinde azalma ile sonuçlanan klinik tablolar oluşma ihtimali
+bulunmaktadır (bkz. Bölüm 4.8. İstenmeyen etkiler).
+Eğer oral tedavi mümkün değilse ve yarar riskten fazlaysa, intravenöz VORİJECT
+uygulanmasına karar verilebilir.
+Böbrek Yetmezliği
+Hidroksipropil-β-siklodekstrin intravenöz yolla uygulandığında glomerüler filtrasyon yoluyla
+atılır. Bu nedenle, kreatinin klirensi 30 ml/dk’nın altında olan şiddetli böbrek yetmezliği olan
+hastalarda VORİJECT i.v. kullanımı kontrendikedir (Bkz. 4.3 ve 5.2).
+Böbrek fonksiyonlarının izlenmesi
+Hastalar anormal böbrek fonksiyonlarının ortaya çıkması açısından takip edilmelidir. Bu
+kontroller özellikle serum kreatinini gibi laboratuvar değerlendirmesini içermelidir (bkz.
+Bölüm 4.2 Pozoloji ve uygulama şekli).
+Pankreatik fonksiyonların takibi
+Akut pankreatit riski bulunan hastaların özellikle çocukların (örn. yakın zamanda kemoterapi
+tedavisi uygulanmış hastaların, hematopoetik kök hücre nakli [HSCT] yapılmış hastaların),
+VORİJECT tedavisi boyunca pankreatit gelişimi takip edilmelidir. Bu klinik durumda, serum
+amilaz veya lipazın izlenmesi düşünülmelidir.
+Dermatolojik reaksiyonlar
+Hastalarda, vorikonazol tedavisi sırasında, Stevens-Johnson Sendromu gibi döküntülü deri
+reaksiyonları gelişmiştir. Eğer hastalarda döküntü gelişirse, hasta yakından izlenmelidir,
+lezyonlar ilerlerse VORİJECT kesilmelidir.
+Ayrıca VORİJECT, çillenme, lentigo, aktinik keratoz ve psödoporfiri de dahil olmak üzere
+fototoksisite ile ilişkilendirilmiştir. VORİJECT tedavisi sırasında çocuklar da dahil olmak
+üzere hastaların tümünün doğrudan güneş ışığına maruz kalmaktan kaçınmaları ve uygun
+olduğunda koruyucu güneş kremi/losyonu veya güneşten koruyucu giysi kullanmaları
+önerilir.
+Uzun süreli kullanım:
+180 günden (6 ay) daha uzun süreli kullanım (tedavi veya profilaksi) risk yarar dengesi
+bakımından dikkatli bir değerlendirme gerektirir. Hekim, VORİJECT tedavisine
+kısıtlama gerekip gerekmediğini göz önünde bulundurmalıdır (bkz. bölüm 4.2 Pozoloji ve
+8 / 37Uygulama Şekli, bölüm 5.1 Farmakodinamik Özellikler – Tedavi süresi). VORİJECT
+tedavisinin uzun dönem kullanılması ile ilgili olarak aşağıdaki advers reaksiyonlar
+bildirilmiştir:
+Skuamoz hücreli karsinom (SHK):
+Fototoksisite reaksiyonları göstermiş bazı hastalar dahil olmak üzere hastalarda deride
+skuamoz hücreli karsinom (SHK) bildirilmiştir. Fototoksik reaksiyonların ortaya çıkması
+halinde VORİJECT ile tedavinin kesilmesi multidisipliner olarak değerlendirilmeli ve hasta
+dermatoloğa yönlendirilmelidir. VORİJECT tedavisinin sonlandırılması ve alternatif
+bir antifungal ajan kullanılması düşünülmelidir. Fototoksisite ile ilişkili lezyonlar oluşmasına
+rağmen VORİJECT tedavisi devam ettiriliyorsa erken teşhisi mümkün kılmak ve
+premalignant lezyonları yönetebilmek için dermatolojik değerlendirme sistemik ve düzenli
+olarak yapılmalıdır. Eğer bir hastada skuamoz hücreli karsinom veya premalignant deri
+lezyonları oluşursa, VORİJECT tedavisi sonlandırılmalıdır.
+İskelet sistemi ile ilgili yan etkiler
+Organ nakli olan hastalarda yükselmiş florür ve alkalin fosfataz seviyeleri ile birlikte
+enfeksiyonun sebep olmadığı periostit rapor edilmiştir. Eğer hastada iskelet sistemi ile
+ilgili bir ağrı ve periostiti destekleyen radyolojik bulgular mevcut ise multidisipliner
+değerlendirme sonrası vorikonazol tedavisi durdurulmalıdır.
+Pediyatrik kullanım
+İki yaşın altındaki pediyatrik hastalarda etkililik ve güvenlilik çalışmaları yapılmamıştır (bkz.
+Bölüm 4.8 İstenmeyen etkiler ve 5.1 Farmakodinamik özellikler). Vorikonazol iki
+yaşındaki ve daha büyük pediyatrik hastalarda endikedir. Karaciğer enzimlerinde yükselme
+pediyatrik hastalarda daha yüksek sıklıkta gözlenmiştir (bkz. Bölüm 4.8). Çocuklarda ve
+yetişkinlerde karaciğer fonksiyonları izlenmelidir. Oral biyoyararlanım, 2-<12 yaş arası
+çocuklarda malabsorpsiyon ve düşük vücut ağırlığı sebebiyle sınırlı olabilir. Bu durumda
+intravenöz vorikonazol önerilmektedir.
+Pediyatrik popülasyonda fototoksisite reaksiyonlarının görülme sıklığı daha
+yüksektir. SHK’ya uzanan bir yayılma söz konusu olabileceğinden, bu hasta grubu için
+daha sıkı ölçümler gereklidir. Çocuklarda lentijin veya çillenme gibi erken yaşlanma
+belirtilerinde, tedavi sonlandırıldıktan sonra bile güneşten korunma ve dermatolojik izleme
+önerilmektedir.
+Fenitoin (CYP2C9 substratı ve potent CYP450 indükleyici)
+Fenitoin vorikonazolle birlikte verildiğinde fenitoin düzeylerinin dikkatle izlenmesi
+önerilmektedir. Beklenen yarar riskten fazla değilse, vorikonazol ve fenitoin birlikte
+kullanılmamalıdır (bkz. Bölüm 4.5 Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim
+şekilleri).
+Efavirenz (CYP450 indükleyici; CYP3A4 inhibitörü ve substratı)
+Vorikonazol efavirenzle birlikte verildiğinde, vorikonazol dozu günde 2 kez 400 mg’ a
+yükseltilmeli, efavirenz dozu ise 300 mg’ a (günde 1 kez) düşürülmelidir (bkz. Bölüm 4.2
+Pozoloji ve uygulama şekli; efavirenz ve vorikonazolün standart dozları için bkz. Bölüm 4.5
+Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri)
+9 / 37Rifabutin (potent CYP450 indükleyici)
+Rifabutin vorikonazolle birlikte verildiğinde tam kan sayımı ve rifabutine bağlı advers
+olayların (örn. üveit) dikkatle izlenmesi önerilmektedir. Beklenen yarar riskten fazla değilse,
+vorikonazol ve rifabutin birlikte kullanılmamalıdır (bkz. Bölüm 4.5 Diğer tıbbi ürünler ile
+etkileşimler ve diğer etkileşim şekilleri)
+Ritonavir (potent CYP450 indükleyici, CYP3A4 inhibitörü ve substratı)
+Vorikonazol ve düşük doz ritonavirin (günde 2 kez 100 mg) birlikte kullanımından, hasta için
+yarar/risk oranı, vorikonazol kullanımı lehine olmadıkça kaçınılmalıdır (bkz. Bölüm 4.5 Diğer
+tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri, yüksek dozlar için bkz. Bölüm 4.3
+Kontrendikasyonlar).
+Everolimus (CYP3A4 substratı, P-gp substratı)
+Vorikonazolün everolimus ile birlikte kullanılması önerilmez. Çünkü vorikonazolün
+everolimusun konsantrasyonunu arttırması beklenir. Bu konu ile ilgili olarak doz önerisinde
+bulunmak için eldeki veriler yetersizdir. (bkz bölüm 4.5)
+Metadon (CYP3A4 substratı)
+Vorikonazol ile metadonun birlikte kullanılması ile metadon seviyesi artar bu yüzden QT
+uzaması dahil olmak üzere metadon ile ilişkili toksik durumların ve yan etkilerin vorikonazol
+ile birlikte kullanılması durumunda sıklıkla izlenmesi önerilmektedir. Metadon dozunun
+azaltılması gerekebilir (bkz. Bölüm 4.5 Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim
+şekilleri)
+Kısa etkili opiyatlar (CYP3A4 substratı)
+Vorikonazolle birlikte verildiklerinde, alfentanil, fentanil ve yapısı alfentanile benzeyen ve
+CYP3A4 ile metabolize edilen kısa etkili diğer opiyatların (örn.sufentanil) dozunun
+azaltılması düşünülmelidir (bkz. Bölüm 4.5 Diğer tıbbi ürünler ile etkileşimler ve diğer
+etkileşim şekilleri). Alfentanil vorikonazol ile beraber kullanıldığında, alfentanilin yarı
+ömrünün 4 kat kadar uzamasından ve bağımsız yapılan bir çalışmaya göre vorikonazolün
+fentanil ile birlikte kullanılmasının fentanilin ortalama EAA değerinde artmaya sebep
+0-∞
+olduğundan dolayı, opiyatlarla ilişkili istenmeyen etkilerin (hastanın solunumunun daha uzun
+süre takip edilmesi de dahil) sık aralıklarla izlenmesi gerekebilir.
+Uzun etkili opiyatlar (CYP3A4 substratı)
+Vorikonazol ile birlikte uygulandığında oksidon ve CYP3A4 ile metabolize olan diğer uzun
+etkili opiyatların (örneğin hidrokodon) dozunun azaltılması düşünülmelidir. Opiyatlarla
+ilişkili istenmeyen etkilerin sık aralıklarla izlenmesi gerekli olabilir (bkz. Bölüm 4.5 Diğer
+tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri).
+Flukonazol (CYP2CP, CYP2C19 ve CYP3A4 inhibitörü)
+Sağlıklı kişilerde oral vorikonazolün oral flukonazol ile birlikte uygulanması, vorikonazol
+C ve EAA’sında anlamlı bir artışa neden olmuştur. Vorikonazol ve flukonazolün bu etkiyi
+maks
+ortadan kaldıracak olan azaltılmış dozu ve/veya sıklığı henüz saptanmamıştır. Flukonazolün
+ardından ardışık olarak kullanıldığı takdirde, vorikonazol ile ilişkili istenmeyen etkilerin
+izlenmesi önerilir. (bkz. bölüm 4.5)
+10 / 37Diğer
+Yardımcı madde hidroksipropil-β-siklodekstrinin uzun süreli kullanımının taşıdığı güvenlilik
+riskleri nedeniyle, ürünün 21 günlük kullanım sonrasında, hekim tarafından gerekli
+değerlendirmenin yapılıp, kullanıma devam edilip edilmeyeceğinin belirlenmesi
+gerekmektedir.
+4.5. Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+Vorikonazol, sitokrom P450 izoenzimleri CYP2C19, CYP2C9 ve CYP3A4 tarafından
+metabolize edilir ve bunların aktivitesini inhibe eder. Bu izoenzimlerin inhibitörleri ya da
+indükleyicileri vorikonazol plazma konsantrasyonlarını sırasıyla yükseltebilir ya da
+düşürebilir; ayrıca vorikonazolün CYP450 izoenzimleri tarafından metabolize edilen
+maddelerin plazma konsantrasyonlarını yükseltme potansiyeli de vardır.
+Başka şekilde belirtilmediği takdirde, ilaç etkileşim çalışmaları sağlıklı erişkin erkek
+gönüllülerde, kararlı duruma kadar günde iki kez (BID) 200 mg oral vorikonazol ile çoklu
+doz uygulaması ile gerçekleştirilmiştir. Bu bulgular diğer popülasyonlar ve uygulama
+yolları ile bağlantılıdır.
+Vorikonazol, QT aralığını uzattığı bilinen ilaçlarla eşzamanlı alan hastalara dikkatle
+uygulanmalıdır. Vorikonazolün CYP3A4 izoenzimleri tarafından metabolize edilen
+maddelerin (bazı antihistaminikler, kinidin, sisaprid, pimozid) plazma konsantrasyonlarını
+yükseltme potansiyelinin de olduğu durumlarda, vorikonazolün bu maddelerle birlikte
+kullanılması kontrendikedir (aşağıdaki kısma ve Bölüm 4.3’e bakınız).
+Etkileşim tablosu
+Vorikonazol ile diğer tıbbi ürünler arasındaki etkileşimler aşağıdaki tabloda listelenmiştir
+(günde bir kez “QD” ile, günde iki kez “BID” ile, günde üç kez uygulama “TID” ile,
+‘belirlenmemiş’ ise “ND” ile gösterilmiştir). Her bir farmakokinetik parametre için
+gösterilen okun yönü, geometrik ortalama oranın %90 güven aralığının %80-125 aralığının
+içinde (↔), altında (↓) ya da üstünde (↑) olmasına dayanmaktadır. Yıldız işareti (*), iki
+yönlü bir etkileşimi gösterir. EAA , EAA ve EAA , sırasıyla bir doz uygulama zaman
+τ t 0-∞
+aralığı boyunca, sıfır zaman noktasından saptanabilir bir ölçümün elde edildiği zamana
+kadar ve sıfır zaman noktasından sonsuzluğa kadar eğri altındaki alanı temsil etmektedir.
+Tablodaki etkileşimler şu sırayla sunulmuştur: kontrendikasyonlar, doz ayarlaması ve
+dikkatli klinik ve/veya biyolojik izleme gerektirenler ve son olarak anlamlı bir
+farmakokinetik etkileşimi olmayan, ancak bu terapötik alanda klinik açıdan ilgi konusu
+olabilecek olanlar.
+11 / 37Tıbbi ürün Etkileşim Birlikte uygulama ile ilgili
+[Etkileşim Mekanizması] Geometrik ortalama tavsiyeler
+değişiklikleri (%)
+Astemizol, sisaprid, pimozid, Bu konuda çalışma
+kinidin ve terfenadin yapılmamıştır; ancak bu tıbbi Kontrendike (bkz. Bölüm
+[CYP3A4 substratları] ürünlerin plazma 4.3)
+konsantrasyonlarının
+yükselmesi QTc uzamasına ve
+nadiren torsades de pointes’e
+yol açabilir.
+Karbamazepin ve uzun etkili Bu konuda çalışma
+barbitüratlar (örn. fenobarbital, yapılmamıştır; ancak Kontrendike (bkz. Bölüm
+mefobarbital) [güçlü CYP450 karbamazepin ve uzun 4.3)
+indükleyicileri] etkili barbitüratların
+vorikonazol plazma
+konsantrasyonlarını
+anlamlı düzeyde düşürme
+olasılığı vardır.
+Efavirenz (non-nükleozid
+Efavirenz C ↑ %38 Vorikonazolün standart dozları
+reverse transkriptaz max
+Efavirenz EAAτ ↑ %44 ve 400 mg QD veya daha
+inhibitörü) [CYP450
+yüksek efavirenz ile kullanımı
+indükleyicisi; CYP3A4 Vorikonazol C ↓ %61
+maks
+kontrendikedir (bkz. Bölüm
+inhibitörü ve substratı] Vorikonazol EAAτ ↓ %77
+4.3).
+Vorikonazol 200 mg BID*
+Vorikonazolün idame dozu
+ile uygulanan Efavirenz Efavirenz 600 mg QD’ye
+400 mg BID’e çıkarılır ve
+400 mg Günde 1 kez kıyasla,
+efavirenz dozu 300 mg
+Efavirenz C maks ↔ QD’ye düşürülürse
+Efavirenz EAAτ ↑ %17 vorikonazol efavirenz ile
+birlikte uygulanabilir.
+Vorikonazol 200 mg BID’e Vorikonazol tedavisi
+kıyasla, durdurulduktan sonra
+efavirenzin başlangıç dozuna
+Vorikonazol C ↑ %23
+Efavirenz 300 mg QD, maks geri dönülmelidir (bkz.
+vorikonazol 400 mg BID ile Vorikonazol EAAτ ↓ %7 Bölüm 4.2 ve 4.4).
+birlikte uygulama*
+Ergot alkaloidleri (örn. Bu konuda çalışma
+ergotamin ve yapılmamıştır; ancak Kontrendike (bkz. Bölüm
+dihidroergotamin) vorikonazolün ergot 4.3)
+[CYP3A4 substratları] alkaloidlerinin plazma
+konsantrasyonlarını yükseltme
+ve ergotizme yol açma olasılığı
+vardır.
+12 / 37Tıbbi ürün Etkileşim Birlikte uygulama ile ilgili
+[Etkileşim Mekanizması] Geometrik ortalama tavsiyeler
+değişiklikleri (%)
+Rifabutin
+Vorikonazol C ↓ %69 Kontrendike (bkz. Bölüm
+maks
+[güçlü CYP450 indükleyicisi]
+Vorikonazol EAAτ ↓ %78 4.3)
+300 mg QD
+Beklenen yarar riskten fazla
+Vorikonazol 200 mg BID’e
+olduğu durumlar dışında
+vorikonazol ve rifabutin
+kıyasla,
+birlikte kullanılmamalıdır.
+300 mg QD (vorikonazol
+Vorikonazol C ↓ % 4
+maks Vorikonazolün idame dozu
+350 mg BID ile birlikte
+Vorikonazol EAAτ ↓ %32
+uygulama)* intravenöz BID olarak 5
+mg/kg’a veya oral BID (40 kg
+Rifabutin C ↑ %195 altı hastalarda 100 mg’dan 200
+maks
+300 mg QD (vorikonazol
+mg oral BID’e) olarak 200
+Rifabutin EAAτ ↑ %331
+400 mg BID ile birlikte mg’dan 350
+uygulama)* Vorikonazol 200 mg BID’e
+mg’a arttırılabilir. Vorikonazol
+kıyasla,
+ve rifabutinin beraber
+Vorikonazol C ↑ % 104
+maks kullanılacağı durumlarda tam
+Vorikonazol EAAτ ↑ %87 kan sayımı ve rifabutin ile
+ortaya çıkabilecek istenmeyen
+etkilerin (örn. üveit) dikkatlice
+izlenmesi önerilir.
+Rifampisin (600 mg QD) Vorikonazol C ↓ %93 Kontrendike (bkz. Bölüm
+maks
+[güçlü CYP450 indükleyicisi] Vorikonazol EAAτ ↓ %96 4.3)
+Ritonavir (proteaz inhibitörü)
+Vorikonazol ve yüksek dozlarda
+[güçlü CYP450 indükleyicisi;
+ritonavirin (400 mg ve üstü
+CYP3A4 inhibitörü ve substratı] Ritonavir C ve EAAτ ↔
+maks
+Vorikonazol C ↓ %66
+BID) birlikte uygulanması
+maks
+kontrendikedir (bkz.
+Yüksek doz (400 mg BID) Vorikonazol EAAτ ↓ %82
+Bölüm 4.3).
+Hasta için yarar/risk
+Ritonavir C ↓ %25
+maks değerlendirmesi vorikonazol
+Ritonavir EAAτ ↓%13
+kullanımı için gerekçe
+Vorikonazol C ↓ %24
+Düşük doz (100 mg BID)* maks sağlamadığı takdirde
+Vorikonazol EAAτ ↓ %39
+vorikonazol ve düşük dozda
+ritonavirin (100 mg BID)
+birlikte uygulanmasından
+kaçınılmalıdır.
+13 / 37Tıbbi ürün Etkileşim Birlikte uygulama ile ilgili
+[Etkileşim Mekanizması] Geometrik ortalama tavsiyeler
+değişiklikleri (%)
+St John’s Wort [CYP450
+indükleyicisi; P-gp
+Yayınlanmış olan bağımsız Kontrendike (bkz. Bölüm
+indükleyicisi]
+bir çalışmada, 4.3)
+300 mg TID (tek doz
+Vorikonazol EAA ↓ %59
+0-∞
+vorikonazol 400 mg ile
+birlikte uygulama)
+Everolimus Bu konuda çalışma Vorikonazol ve everolimusun
+[CYP3A4 substratı, P-gP yapılmamıştır; ancak birlikte uygulanması tavsiye
+substratı] vorikonazolün edilmez, çünkü vorikonazolün
+everolimus plazma everolimus
+konsantrasyonunu konsantrasyonlarını anlamlı
+anlamlı düzeyde düzeyde yükseltmesi beklenir
+yükseltme olasılığı (bkz. Bölüm 4.4).
+vardır.
+Flukonazol (200 mg QD) Vorikonazol C ↑ %57 Bu etkiyi yok edecek
+maks
+[CYP2C9, CYP2C19 ve Vorikonazol EAAτ ↑ %79 azaltılmış vorikonazol ve
+CYP3A4 inhibitörü] flukonazol dozu ve/veya
+Flukonazol C ND
+maks
+sıklığı belirlenmemiştir.
+Flukonazol EAAτ ND
+Vorikonazol flukonazolden
+sonra ardışık şekilde
+kullanılıyorsa vorikonazol ile
+ilişkili advers olaylar
+açısından izleme yapılması
+tavsiye edilir.
+Fenitoin Yarar riske göre ağır
+[CYP2C9 substratı ve güçlü basmıyorsa vorikonazol ve
+CYP450 indükleyicisi] fenitoinin eşzamanlı
+kullanımından kaçınılmalıdır.
+Fenitoin plazma düzeylerinin
+300 mg QD
+Vorikonazol C ↓ %49 dikkatle izlenmesi tavsiye
+maks
+Vorikonazol EAAτ ↓ %69 edilir.
+Vorikonazolün idame dozu
+5 mg/kg IV BID’e ya da
+Fenitoin C ↑ %67
+maks
+300 mg QD (vorikonazol 200 mg’dan 400 mg oral
+Fenitoin EAAτ ↑ %81
+400 mg BID ile birlikte BID’e, (vücut ağırlığı 40 kg’ın
+Vorikonazol 200 mg BID’e
+uygulama)* altında olan hastalarda
+kıyasla,
+100 mg’dan 200 mg oral
+Vorikonazol C maks ↑ %34 BID’e) çıkarılırsa fenitoin
+Vorikonazol EAAτ ↑ %39 vorikonazol ile birlikte
+uygulanabilir (bkz. Bölüm
+4.2).
+14 / 37Tıbbi ürün Etkileşim Birlikte uygulama ile ilgili
+[Etkileşim Mekanizması] Geometrik ortalama tavsiyeler
+değişiklikleri (%)
+Antikoagülanlar
+Varfarin (30 mg tez doz, Protrombin zamanındaki Protrombin zamanının ya da
+300 mg BID vorikonazol ile maksimum artış yaklaşık 2 diğer uygun
+birlikte uygulama) kat olmuştur antikoagülasyon testlerinin
+yakından izlenmesi tavsiye
+[CYP2C9 substratı]
+edilir. Antikoagülan dozu
+uygun şekilde ayarlanmalıdır.
+Diğer oral kumarinler Bu konuda çalışma
+(örn. fenprokumon, yapılmamıştır;
+asenokumarol) ancak,
+vorikonazol kumarinlerin
+[CYP2C9 ve CYP3A4
+plazma konsantrasyonlarını
+substratları]
+yükseltebilir; bu da protrombin
+zamanında artışa neden olabilir.
+Benzodiazepinler (örn. Bu konuda klinik çalışma Benzodiazepinlerin dozunun
+midazolam, triazolam, yapılmamıştır; ancak azaltılması düşünülmelidir.
+alprazolam) vorikonazolün CYP3A4
+[CYP3A4 substratları] tarafından metabolize edilen
+benzodiazepinlerin plazma
+konsantrasyonlarını yükseltme
+ve sedatif etkide uzamaya yol
+açma olasılığı vardır.
+İmmünosupresanlar
+[CYP3A4 substratları]
+Sirolimus (2 mg tek doz) Yayınlanmış olan bağımsız bir Vorikonazol ve sirolimusun
+çalışmada, Sirolimus C ↑ birlikte uygulanması
+maks
+6.6 kat kontrendikedir (bkz. Bölüm
+Sirolimus EAA ↑ 11 kat 4.3).
+0- ∞
+Siklosporin kullanmakta olan
+Siklosporin C ↑ %13
+Siklosporin (Kronik maks
+hastalarda vorikonazol
+Siklosporin EAAτ ↑ %70
+siklosporin tedavisi
+tedavisine başlanırken
+uygulanan stabil renal
+siklosporin dozunun yarıya
+transplant alıcılarında)
+indirilmesi ve siklosporin
+düzeyinin dikkatle izlenmesi
+tavsiye edilir. Siklosporin
+düzeylerinde yükselme
+nefrotoksisite ile ilişkili
+bulunmuştur. Vorikonazol
+tedavisi kesildikten sonra
+15 / 37Tıbbi ürün Etkileşim Birlikte uygulama ile ilgili
+[Etkileşim Mekanizması] Geometrik ortalama tavsiyeler
+değişiklikleri (%)
+siklosporin düzeyleri
+dikkatle izlenmeli ve doz
+gerektiği şekilde artırılmalıdır.
+Takrolimus (0.1 mg/kg tek doz)
+Takrolimus kullanmakta olan
+hastalarda vorikonazol
+Takrolimus C ↑ %117 tedavisine başlanırken
+maks
+Takrolimus EAAt ↑ %221 takrolimus dozunun orijinal
+dozunun üçte birine
+düşürülmesi ve takrolimus
+düzeyinin dikkatle izlenmesi
+tavsiye edilir. Takrolimus
+düzeylerinde yükselme
+nefrotoksisite ile ilişkili
+bulunmuştur. Vorikonazol
+tedavisi kesildikten sonra
+takrolimus düzeyleri
+dikkatle izlenmeli ve doz
+gerektiği şekilde artırılmalıdır.
+Uzun Etkili Opiyatlar Oksikodonun ve CYP3A4
+tarafından metabolize edilen
+[CYP3A4 substratları]
+diğer uzun etkili opiyatların
+(örn. hidrokodon) dozunun
+Yayınlanmış olan bağımsız bir azaltılması düşünülmelidir.
+Oksikodon (10 mg tek doz) çalışmada, Opiyat ile ilişkili advers olaylar
+Oksikodon C ↑ 1.7 kat açısından sıklıkla izleme
+maks
+Oksikodon EAA ↑ 3.6 kat yapılması gerekebilir.
+0-□□∞
+Metadon (32-100 mg QD) R-metadon (aktif) C maks ↑ %31 Metadon ile ilgili advers olaylar
+R- metadon (aktif) EAAτ ↑ ve toksisite açısından (QT
+[CYP3A4 substratı]
+%47 uzaması dahil) sıklıkla izleme
+S-metadon C ↑ %65 yapılması tavsiye edilir.
+maks
+S-metadon EAAτ ↑ %103 Metadon dozunun azaltılması
+gerekebilir.
+16 / 37Tıbbi ürün Etkileşim Birlikte uygulama ile ilgili
+[Etkileşim Mekanizması] Geometrik ortalama tavsiyeler
+değişiklikleri (%)
+Steroid Dışı Antiinflamatuvar
+İlaçlar (NSAİİ’ler) [CYP2C9
+substratları]
+NSAİİ’ler ile ilgili advers
+S-İbuprofen C ↑ %20
+olaylar ve toksisite açısından
+maks
+İbuprofen (400 mg tek doz) sıklıkla izleme yapılması
+S-İbuprofen EAA ↑ %100
+0-∞
+tavsiye edilir. NSAİİ’lerin
+dozunun azaltılması
+Diklofenak (50 mg tek doz)
+Diklofenak C maks ↑ %114 gerekebilir.
+Diklofenak EAA ↑ %78
+0-∞
+Omeprazol (40 mg QD)* Omeprazol C ↑ %116 Vorikonazolde doz
+maks
+[CYP2C19 inhibitörü; Omeprazol EAAτ ↑ %280 ayarlaması tavsiye edilmez.
+CYP2C19 ve CYP3A4
+Vorikonazol C
+maks
+↑ %15
+substratı]
+Vorikonazol EAAτ ↑ %41 40 mg ya da daha yüksek
+dozlarda omeprazol almakta
+olan hastalarda vorikonazol
+Vorikonazol, CYP2C19
+tedavisine başlanırken
+substratları olan diğer proton
+omeprazol dozunun yarıya
+pompası inhibitörlerini de
+indirilmesi tavsiye edilir.
+inhibe edebilir ve bu tıbbi
+ürünlerin plazma
+konsantrasyonlarının
+yükselmesine neden olabilir.
+Oral Kontraseptifler* Etinilöstradiol C ↑ %36 Oral kontraseptifler ile ve
+maks
+[CYP3A4 substratı; Etinilöstradiol EAAτ ↑ %61 ayrıca vorikonazol ile ilgili
+CYP2C19 inhibitörü] advers olaylar açısından
+Noretisteron C ↑ %15
+maks
+izleme yapılması tavsiye
+Noretisteron/etinilöstradiol Noretisteron EAAτ ↑ %53
+edilir.
+(1 mg/0.035 mg QD)
+Vorikonazol C ↑ %14
+maks
+Vorikonazol EAAτ ↑ %46
+17 / 37Tıbbi ürün Etkileşim Birlikte uygulama ile ilgili
+[Etkileşim Mekanizması] Geometrik ortalama tavsiyeler
+değişiklikleri (%)
+Kısa Etkili Opiyatlar Alfentanil, fentanil ve yapısal
+[CYP3A4 substratları] olarak alfentanile benzeyen ve
+CYP3A4 tarafından metabolize
+edilen diğer kısa etkili
+Alfentanil (20 μg/kg tek doz, Yayınlanmış olan bağımsız
+opiyatların (örn. sufentanil)
+eşzamanlı nalokson ile bir çalışmada,
+dozunun azaltılması
+birlikte)
+Alfentanil EAA ↑ 6 kat düşünülmelidir. Solunum
+0-∞
+depresyonu ve opiyat ile ilişkili
+Fentanil (5 µg/kg tek doz)
+diğer advers olaylar açısından
+Yayınlanmış olan bağımsız
+uzun süreli ve sık olarak izleme
+bir çalışmada,
+yapılması tavsiye edilir.
+Fentanil EAA ↑ 1.34 kat
+0-∞
+Statinler (örn. lovastatin) Bu konuda klinik çalışma Statinlerin dozunun
+[CYP3A4 substratları] yapılmamıştır; ancak azaltılması düşünülmelidir.
+vorikonazolün CYP3A4
+tarafından metabolize edilen
+statinlerin plazma
+konsantrasyonlarını yükseltme
+ve rabdomiyolize neden olma
+olasılığı vardır.
+Sülfonilüreler (örn. Bu konuda çalışma Kan glukoz düzeyinin
+tolbutamid, glipizid, gliburid) yapılmamıştır; ancak dikkatle izlenmesi tavsiye
+[CYP2C9 substratları] vorikonazolün edilir. Sülfonilürelerin
+sülfonilürelerin plazma dozunun azaltılması
+konsantrasyonlarını düşünülmelidir.
+yükseltme ve hipoglisemiye
+neden olma olasılığı vardır.
+Vinka Alkaloidleri (örn. Bu konuda çalışma Vinka alkaloidlerinin
+vinkristin ve vinblastin) yapılmamıştır; ancak dozunun azaltılması
+[CYP3A4 substratları] vorikonazolün vinka düşünülmelidir.
+alkaloidlerinin plazma
+konsantrasyonlarını yükseltme
+ve nörotoksisiteye yol açma
+olasılığı vardır.
+18 / 37Tıbbi ürün Etkileşim Birlikte uygulama ile ilgili
+[Etkileşim Mekanizması] Geometrik ortalama tavsiyeler
+değişiklikleri (%)
+Diğer HIV Proteaz İnhibitörleri Bu konuda klinik çalışma Tüm ilaç toksisitesi olayları
+(örn. sakinavir, amprenavir ve yapılmamıştır. İn vitro ve/veya etkisizlik açısından
+nelfinavir)* [CYP3A4 çalışmalar, vorikonazolün HIV dikkatle izleme yapılmalıdır ve
+substratları ve inhibitörleri] proteaz inhibitörlerinin doz ayarlaması gerekebilir.
+metabolizmasını inhibe
+edebileceğini, ayrıca
+vorikonazolün
+metabolizmasının HIV proteaz
+inhibitörleri tarafından inhibe
+edilebileceğini göstermektedir.
+Diğer non-nükleozid reverse Bu konuda klinik çalışma Tüm ilaç toksisitesi olayları
+transkriptaz inhibitörü yapılmamıştır. İn vitro ve/veya etkisizlik açısından
+(NNRTI’ler) (örn. delavirdin, çalışmalar, vorikonazolün dikkatle izleme yapılmalıdır ve
+nevirapin)* metabolizmasının NNRTI’ler doz ayarlaması gerekebilir.
+[CYP3A4 substratları, tarafından inhibe
+inhibitörleri ya da CYP450 edilebileceğini ve
+indükleyicileri] vorikonazolün NNRTI’lerin
+metabolizmasını inhibe
+edebileceğini göstermektedir.
+Efavirenzin vorikonazol
+üzerindeki etkisi hakkındaki
+bulgular, vorikonazolün
+metabolizmasının bir
+NNRTI tarafından
+indüklenebileceğini
+düşündürmektedir.
+Simetidin (400 mg BID) Vorikonazol C ↑ %18 Doz ayarlaması yok
+maks
+[spesifik olmayan CYP450 Vorikonazol EAAτ ↑ %23
+inhibitörüdür ve mide pH
+derecesini artırır]
+Digoksin (0.25 mg QD) Digoksin C ↔ Doz ayarlaması yok
+maks
+[P-gp substratı] Digoksin EAAτ ↔
+İndinavir (800 mg TID) Indinavir C ↔ Doz ayarlaması yok
+maks
+[CYP3A4 inhibitörü ve
+Indinavir EAAτ ↔
+substratı]
+Vorikonazol C ↔
+maks
+Vorikonazol EAAτ ↔
+19 / 37Tıbbi ürün Etkileşim Birlikte uygulama ile ilgili
+[Etkileşim Mekanizması] Geometrik ortalama tavsiyeler
+değişiklikleri (%)
+Makrolid antibiyotikleri
+Doz ayarlaması yok
+Eritromisin (1 g BID) Vorikonazol C ve EAAτ ↔
+maks
+[CYP3A4 inhibitörü]
+Azitromisin (500 mg QD) Vorikonazol C ve EAAτ ↔
+maks
+Vorikonazolün eritromisin ya
+da azitromisin üzerindeki
+etkisi bilinmemektedir.
+Mikofenolik asit (1 g tek doz) Mikofenolik asit C ↔ Doz ayarlaması yok
+maks
+[UDP-glukuronil transferaz Mikofenolik asit EAA t ↔
+substratı]
+Prednizolon (60 mg tek doz) Prednizolon C ↑ %11 Doz ayarlaması yok
+maks
+[CYP3A4 substratı] Prednizolon EAA ↑ %34
+0-∞
+Ranitidin (150 mg BID) Vorikonazol C ve EAAτ ↔ Doz ayarlaması yok
+maks
+[mide pH derecesini artırır]
+4.6. Gebelik ve laktasyon
+Genel tavsiye
+Gebelik kategorisi: D
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon)
+Çocuk doğurma potansiyeli olan kadınlar, tedavi boyunca etkili doğum kontrolü yöntemi
+uygulamalıdırlar.
+Gebelik dönemi
+Vorikonazolün gebelik ve/veya fetüs/yeni doğan üzerinde zararlı farmakolojik etkileri
+bulunmaktadır. VORİJECT gerekli olmadıkça ( anneye olan yararı fetüse olan potansiyel
+riskten belirgin olarak fazla değilse) gebelik döneminde kullanılmamalıdır.
+Laktasyon dönemi
+Vorikonazolün insan sütüne geçip geçmediği bilinmemektedir. VORİJECT tedavisinin
+başlangıcında emzirme durdurulmalıdır.
+Üreme yeteneği / Fertilite
+Yapılan hayvan çalışmalarında dişi ve erkek sıçanlarda fertilitede bozulma görülmemiştir.
+(Bkz. Bölüm 5.3. Klinik öncesi güvenlilik verileri) gözlenmiştir. İnsanlar için potansiyel risk
+bilinmemektedir.
+20 / 374.7. Araç ve makine kullanımı üzerindeki etkiler
+VORİJECT’in araç ve makine kullanma yeteneği üzerinde etkisi olabilir.
+Vorikonazol, geçici ve geri dönüşümlü bulanık görüş, görme duyusunda değişme/artma
+ve/veya fotofobi dahil görme değişikliklerine sebep olabilir. Bu semptomların oluşma
+olasılığına karşı hastalar, araba veya makine kullanımından uzak durmalıdır.
+Hastalara vorikonazol kullanırken özellikle gece araç kullanmamaları önerilir.
+4.8. İstenmeyen etkiler
+Vorikonazolün güvenliliği, 2000’den fazla yetişkin hastadan (terapötik çalışmalardan 1603
+hasta dahil olmak üzere ve ek olarak profilaksi çalışmalarından 270 yetişkin hastadan) elde
+edilen güvenilirlik verilerinin bütününe dayanmaktadır. Bu, hematolojik kanserli hastaları,
+özofajiyal kandidiyazisi ve tedaviye dirençli mantar enfeksiyonları olan HIV enfeksiyonlu
+hastaları, kandidemisi veya aspergillozu olan non-nötropenik hastaları ve sağlıklı gönüllüleri
+içeren heterojen bir topluluğu yansıtmaktadır.
+En sık rapor edilen yan etkiler, görme bozukluğu, ateş, döküntü, kusma, bulantı, diyare, baş
+ağrısı, periferik ödem ve karın ağrısı olmuştur.
+İstenmeyen etkilerin ciddiyeti genelde hafif ve orta şiddette olmuştur. Güvenlilik
+verileri analiz edildiğinde yaş, ırk veya cinsiyet açısından klinik olarak önemli farklılıklar
+görülmemiştir.
+Aşağıdaki tabloda, çalışmaların çoğu açık etiketli olduğu için, tüm sebeplere bağlı yan
+etkiler ve bu yan etkilerin terapötik (1603) ve profilaksi (270) çalışmalarından toplanmış
+1873 yetişkin hastadaki sıklık kategorileri, sistem organ sınıfı açısından listelenmiştir.
+Sıklık kategorileri şu şekilde belirtilmiştir: Çok yaygın (≥1/10); Yaygın (≥1/100 ila
+<1/10); Yaygın olmayan (≥1/1000 ila <1/100); Seyrek (≥1/10000 ila <1/1000); Çok
+seyrek (<1/10000) ve Bilinmiyor (eldeki verilerden hareketle tahmin edilemiyor).
+Her bir sıklık grubunda, istenmeyen etkiler azalan ciddiyet sırasına göre
+gösterilmiştir:
+Enfeksiyonlar ve enfestasyonlar
+Yaygın : Sinüzit
+Yaygın olmayan : Psödomembranöz kolit
+İyi ve kötü huylu neoplazmalar (kist ve polipler de dahil olmak üzere)
+Bilinmiyor : Skuamöz hücreli karsinom (SHK)*
+Kan ve lenf sistemi hastalıkları
+Yaygın : Agranülositoz1, pansitopeni, trombositopeni2, lökopeni, anemi
+Yaygın olmayan : Kemik iliği yetmezliği, lenfadenopati, eozinofili
+Seyrek : Disemine intravasküler koagülasyon
+Bağışıklık sistemi hastalıkları
+Yaygın olmayan : Aşırı duyarlılık
+Seyrek : Anafilaktik reaksiyon
+21 / 37Endokrin hastalıklar
+Yaygın olmayan : Adrenal korteks yetmezliği, hipotiroidizm
+Seyrek : Hipertiroidizm
+Metabolizma ve beslenme hastalıkları
+Çok yaygın : Periferik ödem
+Yaygın : Hipoglisemi, hipokalemi, hiponatremi
+Psikiyatrik hastalıklar
+Yaygın : Depresyon, halüsinasyon, anksiyete, uykusuzluk, ajitasyon,
+konfüzyonel durum
+Sinir sistemi hastalıkları
+Çok yaygın :Baş ağrısı
+Yaygın :Konvülziyon, senkop, titreme, hipertoni3, parestezi, somnolans, baş
+dönmesi
+Yaygın olmayan :Beyin ödemi, ensefalopati4, ekstrapiramidal sendrom5, periferik
+nöropati, ataksi, hipoestezi, tat almada bozukluk
+Seyrek : Hepatik ensefalopati, Guillain Barre Sendromu, nistagmus
+Göz hastalıkları
+Çok yaygın :Görmede bozukluk6
+Yaygın : Retinal kanama
+Yaygın olmayan : Optik sinir bozuklukları7 , papilla ödemi8, okülogirasyon kriz, diplopi,
+siklerit, blefarit
+Seyrek : Optik atrofi, korneada opaklaşma
+Kulak ve iç kulak hastalıkları
+Yaygın olmayan : Hipoakuzi, vertigo, tinnitus
+Kardiyak hastalıklar
+Yaygın :Aritmi, supraventriküler taşikardi, bradikardi
+Yaygın olmayan :Ventriküler fibrilasyon, ventriküler ekstrasistol, ventriküler taşikardi,
+elektrokardiyogramda QT uzaması, supraventriküler taşikardi
+Seyrek :Torsades de pointes, atrioventriküler (A-V) tam blok, yan dal bloğu,
+nodalritim
+Vasküler hastalıklar
+Yaygın :Hipotansiyon, flebit
+Yaygın olmayan :Tromboflebit, lenfanjit
+Solunum, göğüs hastalıkları ve mediastinal hastalıklar
+Çok yaygın :Solunum zorluğu9
+Yaygın :Akut solunum zorluğu sendromu, pulmoner ödem,
+Gastrointestinal hastalıklar
+Çok yaygın : Diyare, kusma, abdominal ağrı, bulantı
+Yaygın : Dudak iltihabı, dispepsi, kabızlık, diş eti iltihabı
+Yaygın olmayan : Peritonit, pankreatit, dilde ödem, duodenit, gastroenterit, dil iltihabı
+22 / 37Hepato-biliyer hastalıklar
+Çok yaygın : Karaciğer fonksiyon testlerinde anormallik
+Yaygın : Sarılık, kolestatik sarılık, hepatit10
+Yaygın olmayan : Karaciğer yetmezliği, hepatomegali, kolesistit, kolelitiyazis
+Deri ve deri altı doku hastalıkları:
+Çok yaygın :Döküntü
+Yaygın :Eksfolyatif dermatit, alopesi, makülo-papüler döküntü, prurit, eritem
+Yaygın olmayan :Stevens Johnson sendromu, fototoksisite, purpura, ürtiker, alerjik
+dermatit, papüler döküntü, maküler döküntü, egzema
+Seyrek :Toksik epidermal nekroliz, anjiyoödem, aktinik keratoz*, psödoporfiri,
+eritema multiforme, psöriazis, ilaç döküntüsü
+Bilinmiyor :Kutanöz lupus eritematozus*, çillenme*, lentigo*
+Kas-iskelet bozukluklar, bağ dokusu ve kemik hastalıkları
+Yaygın :Sırt ağrısı
+Yaygın olmayan :Artrit
+Bilinmiyor :Periostit*
+Böbrek ve idrar yolu hastalıkları
+Yaygın :Akut böbrek yetmezliği, hematüri
+Yaygın olmayan :Böbrek tübüler nekrozu, proteinüri, nefrit
+Genel bozukluklar ve uygulama bölgesine ilişkin hastalıklar
+Çok yaygın : Pireksi
+Yaygın : Göğüs ağrısı, yüz ödemi11, asteni, ürperme
+Yaygın olmayan : İnfüzyon yeri reaksiyonları, grip benzeri hastalık
+Laboratuvar bulguları
+Yaygın : Kan kreatinin düzeyinin artışı
+Yaygın olmayan :Kandaki üre miktarında artış, kandaki kolesterol miktarında artış
+*Bu yan etkiler pazarlama sonrası deneyimlerde bildirilmiştir.
+1. Febril nötropeni ve nötropeni dahil
+2. İmmün trombositopenik purpura dahil
+3. Nukal rijidite ve tetani dahil
+4. Hipoksik iskemik ensefalopati ve metabolik ensefalopati dahil
+5. Akatizi ve parkinsonizm dahil
+6. Bölüm 4.8’deki “Görme Bozuklukları” paragrafına bakınız
+7. Pazarlama sonrası deneyimlerde uzamış optik nörit bildirilmiştir. Bkz. Bölüm 4.4.
+8. Bkz. Bölüm 4.4
+9.Dispne ve efor dispnesi dahil
+10.İlaç sonucu karaciğer zedelenmesi, toksik hepatit, hepatoselüler zedelenme ve
+hepatotoksisite dahil
+11. Periorbital ödem, dudak ödemi ve ağız ödemi dahil
+23 / 37Seçilen yan etkilerin tanımı
+Görme bozuklukları
+Klinik çalışmalarda, vorikonazol tedavisine bağlı görme yetersizlikleri (bulanık görme,
+fotofobi, kloropsi, kromatopsi, renk körlüğü, siyanopsi, göz bozukluğu, ışık etrafında hale
+görmek, gece körlüğü, dalgalı görme, fotopsi, kıvılcımlı skotom, görme keskinliğinde azalma,
+görsel parlaklık, görsel alan hasarı, gözde uçuşan cisimler ve sarı görme dahil) çok yaygındır.
+Görme yetersizlikleri geçici ve tamamiyle geri dönüşlüdür, büyük kısmı 60 dakika içinde
+kendiliğinden düzelmiştir ve klinik olarak belirgin uzun süreli görsel etki gözlenmemiştir.
+Vorikonazolün tekrarlanan dozlarında azalma olduğuna dair kanıt vardır. Görmede bozukluk,
+genelde hafiftir, nadiren ilacın bırakılmasını gerektirir ve uzun dönemde sekeller görülmez.
+Görme bozuklukları yüksek plazma düzeyleri ve/veya dozları ile ilişkili olabilir.
+Etki mekanizması bilinmemektedir, ancak etki bölgesinin retina içinde olması olasıdır.
+Vorikonazolün retina fonksiyonları üzerindeki etkisini araştıran sağlıklı gönüllülerin katıldığı
+bir çalışmada, vorikonazol, elektroretinogram (ERG) dalgaboyu yüksekliğinde azalmaya yol
+açmıştır. ERG retinada elektrik akımını ölçen bir testtir. 29 günlük vorikonazol uygulaması
+süresince ERG’deki değişiklikler ilerlememiştir ve vorikonazol uygulamasının kesilmesiyle
+tamamen geri dönüşlü olmuştur.
+Pazarlama sonrası deneyimlerde, uzun süreli görsel advers etkiler bildirilmiştir (bkz. Bölüm
+4.4 Özel kullanım uyarıları ve önlemleri)
+Dermatolojik reaksiyonlar
+Klinik çalışmalarda, vorikonazol tedavisi alan hastalarda dermatolojik reaksiyonlar çok
+yaygındır ancak bu hastaların altta yatan ciddi hastalıkları vardır ve çok sayıda ilacı birlikte
+kullanmaktadırlar. Döküntülerin çoğu, hafif ve orta şiddette olmuştur. Vorikonazol tedavisi
+sırasında, hastalarda Stevens-Johnson Sendromu, (yaygın olmayan), toksik epidermal nekroliz
+(seyrek) ve eritema multiforme (seyrek) dahil ciddi kutanöz deri reaksiyonları gelişmiştir.
+Eğer hastalarda döküntü görülürse, hasta yakından izlenmelidir, lezyonlar ilerlerse
+VORİJECT kesilmelidir.
+Uzun süre vorikonazol tedavisi olan hastalarda, çillenme lentigo, aktinik keratoz gibi ışığa
+duyarlı deri reaksiyonları gelişmiştir.
+Uzun süre vorikonazol tedavisi olan hastalarda, deride skuamoz hücreli karsinom
+bildirilmiştir. Mekanizması belirlenememiştir. (bkz. Bölüm 4.4 Özel kullanım uyarıları ve
+önlemleri).
+Karaciğer fonksiyon testleri
+Vorikonazol klinik programında >3 X ULN transaminaz yükselmelerinin (bir advers olay
+oluşturması şart değil) toplam insidansı, terapötik ve profilaksi amaçlı vorikonazol ile tedavi
+edilen hastaların toplamında, yetişkin hastalarda %18.0 (319/1768) ve pediyatrik hastalarda
+%25.8 ( 73/283) olmuştur. Karaciğer fonksiyon testlerindeki anormalliklerin çoğu tedavi
+sırasında doz ayarlaması yapılmadan veya tedavinin kesilmesini de içeren doz ayarlamalarıyla
+çözülmüştür.
+Altta yatan diğer ciddi durumları olan hastalarda, vorikonazol ile beraber ciddi karaciğer
+toksisitesi vakaları görülmüştür. Buna sarılık, hepatit ve ölüme kadar giden karaciğer
+yetmezliği vakaları dahildir.
+24 / 37İnfüzyonla ilişkili reaksiyonlar
+Sağlıklı kişilerde VORİJECT’in intravenöz infüzyonu sırasında, yüz kızarması, ateş, terleme,
+taşikardi, göğüste sıkışma, nefes darlığı, baygınlık, bulantı, kaşıntı ve döküntü dahil
+anafilaktoid reaksiyonlar görülmüştür. Semptomlar, infüzyon başladıktan hemen sonra ortaya
+çıkmıştır (bkz. bölüm 4.4 Özel kullanım uyarıları ve önlemler).
+Pediyatrik kullanım
+Vorikonazolün güvenliliği, klinik çalışmalarda 2 - <12 (169) ve 12- < 18 (119) yaşındaki
+profilaksi (183) ve terapötik (105) amaçla olmak üzere toplam 288 hastada araştırılmıştır.
+Vorikonazolün güvenliliği ayrıca 2 - < 12 yaş arası tıbbi amaçlı ilaca erken erişim
+programında 158 ek pediyatrik hastada araştırılmıştır. Genel olarak pediyatrik hastalarda
+vorikonazolün güvenliliği profili yetişkin hastalar ile benzer olmuştur. Ancak, klinik
+çalışmalarda pediyatrik hastalarda yetişkin hastalara oranla karaciğer enzimlerinde artışın
+daha yüksek sıklıkta advers reaksiyon olarak raporlandığı gözlemlenmiştir (transaminaz
+yükselmesi pediyatrik hastalarda %14.2 iken yetişkin hastalarda %5.3’dür). Pazarlama
+sonrası deneyim verileri pediyatrik hastalarda deri reaksiyonlarının oluşumunun (özellikle
+eritem) yetişkinlerle karşılaştırıldığında daha yüksek olabileceğini göstermektedir. 2 yaşından
+küçük olan vorikonazol alan 22 hasta ile ilaca erken erişim programında, aşağıdaki yan etkiler
+bildirilmiştir (vorikonazol ile ilişkisi ekarte edilemez): fotosensitivite reaksiyonu (1), aritmi
+(1), pankreatit (1), kan bilirubinde artma (1), hepatik enzimlerde artma (1), döküntü (1) ve
+papilödem (1).
+Pazarlama sonrası deneyimlerde çocuk hastalarda pankreatit rapor edilmiştir.
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TÜFAM)'ne bildirmeleri gerekmektedir (www.titck.gov.tr; e-posta:
+tufam@titck.gov.tr; tel: 0 800 314 00 08; faks: 0 312 218 35 99).
+4.9. Doz aşımı ve tedavisi
+Klinik çalışmalarda kaza sonucu üç doz aşımı vakası görülmüştür. Bu vakalar, önerilen
+intravenöz vorikonazol dozunun 5 katı ilaç alan pediyatrik hastalarda meydana gelmiştir.
+10 dakika süreli tek bir fotofobi reaksiyonu rapor edilmiştir.
+Vorikonazolün bilinen bir antidotu yoktur, doz aşımı durumunda semptomatik ve destekleyici
+tedavilerle iyileştirilmesi önerilir.
+Vorikonazol 121 mL/dak.lık bir klerensle hemodiyaliz edilir. Hidroksipropil-beta-
+siklodekstrin hemodiyalize edilir. Doz aşımında hemodiyaliz uygulanması vorikonazol ve
+hidroksipropil-beta­ siklodekstrin'in vücuttan uzaklaştırılmasına yardımcı olabilir
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1 Farmakodinamik özellikler
+Farmakoterapötik grup: Sistemik kullanılan antimikotikler – Triazol türevleri
+ATC kodu: J02AC03
+25 / 37Etki mekanizması:
+Vorikonazol, triazol grubu antifungal bir ajandır. Vorikonazolün birincil etki mekanizması,
+fungal ergosterol biyosentezindeki temel bir adım olan fungal sitokrom P-450 aracılı 14 alfa-
+sterol demetilasyonunun inhibisyonudur. 14 alfa-metil sterollerin birikmesi, fungal hücre
+membranında bunu takiben meydana gelen ergosterol sentezinin inhibisyonu ile bağlantılıdır
+ve vorikonazolün antifungal aktivitesinden sorumlu olabilir. Vorikonazolün fungal sitokrom
+P-450 enzimleri için, çeşitli memeli sitokrom P-450 enzim sistemleri için olduğundan daha
+selektif olduğu gösterilmiştir.
+Mikrobiyoloji
+Vorikonazol in vitro olarak, Candida türlerine (flukonazole dirençli C. krusei ve dirençli C.
+glabrata ve C. albicans suşları dahil) karşı antifungal potens ve test edilen tüm Aspergillus
+türlerine karşı fungisid aktivite ile geniş spektrumlu antifungal aktivite göstermektedir.
+Vorikonazol ayrıca, mevcut antifungal ajanlara sınırlı duyarlılığa sahip olan Scedosporium ya
+da Fusarium dahil olmak üzere yeni ortaya çıkan fungal patojenlere karşı in vitro fungisid
+aktivite göstermektedir.
+A. flavus, A. fumigatus, A. terreus, A. niger, A. nidulans dahil Aspergillus türleri, C. albicans,
+C. glabrata, C. krusei, C. parapsilosis, C. tropicalis ve sınırlı sayıda C dubliniensis,
+C.inconspicua ve C. guilliermondii dahil Candida türleri, S. apiospermum, S. prolificans dahil
+Scedosporium türleri ve Fusarium türleri için klinik etkililiği (kısmi veya tam yanıt, olarak
+tanımlanır) gösterilmiştir.
+Tedavi edilen diğer mantar enfeksiyonları (genellikle kısmi veya tam yanıt ile) şunlardır;
+Alternaria türlerine ait izole vakalar, Blastomyces dermatitidis, Blastoschizomyces capitatus,
+Cladosporium türleri, Coccidioides immitis, Conidiobolus coronatus, Cryptococcus
+neoformans, Exserohilum rostratum, Exophiala spinifera, Fonsecaea pedrosoi, Madurella
+mycetomatis, Paecilomyces lilacinus, P.marneffei dahil Penicillium türleri, Phialophora
+richardsiae, Scopulariopsis brevicaulis ve T. beigelii enfeksiyonları dahil Trichosporon
+türleri.
+Klinik olarak izole Acremonium türleri, Alternaria türleri, Bipolaris türleri,
+Cladophialophora türleri ve Histoplasma capsulatum için in vitro aktivite göstermiştir. Bu
+suşların büyük çoğunluğu 0.05 – 2 mcg/mL aralığındaki vorikonazol konsantrasyonlarında
+inhibe olmuştur.
+Curvularia türleri ve Sporothrix türleri için in vitro etkinlik gösterilmiştir ancak klinik
+önemi bilinmemektedir.
+Sınır Değerler
+Tedaviye başlanmadan önce hastalığa sebep olan organizmanın izole edilmesi ve
+belirlenmesi amacıyla mantar kültürü için örnekler sağlanmalı ve diğer ilgili laboratuvar
+çalışmaları (seroloji, histopatoloji) yapılmalıdır. Kültür ve diğer laboratuvar çalışma sonuçları
+gelmeden tedaviye başlanabilir, ancak sonuçlar gelir gelmez antifungal tedavi gerektiği
+şekilde ayarlanmalıdır.
+26 / 37İnsanlarda enfeksiyonlara en sık neden olan türler C. albicans, C. parapsilosis, C. tropicalis,
+C. glabrata ve C. krusei’dir; bunların tümünde vorikonazol için minimum inhibitör
+konsantrasyonlar (MİK) genellikle 1 mg/L’nin altındadır.
+Bununla birlikte, vorikonazolün Candida türlerine karşı in vitro aktivitesi eşit değildir.
+Spesifik olarak C. glabrata için, flukonazole dirençli izolatlarda vorikonazolün MİK
+değerleri flukonazole duyarlı izolatlarınkine göre daha yüksektir. Bu nedenle, Candida tür
+ayrımına gitmek için her türlü çalışma yapılmalıdır. Antifungal duyarlılık testi mevcutsa,
+EUCAST (Avrupa Antimikrobiyal Duyarlılık Testleri Komitesi) tarafından belirlenen MİK
+bulguları sınır değer kriterleri kullanılarak yorumlanabilir.
+EUCAST tarafından belirlenmiş olan sınır değerler
+Candida Türleri MİK sınır değeri (mg/L)
+≤S (Duyarlı) >R (Dirençli)
+Candida albicans1 0.125 0.125
+Candida tropicalis1 0.125 0.125
+Candida parapsilosis1 0.125 0.125
+Candida glabrata2 Yetersiz kanıt
+Candida krusei3 Yetersiz kanıt
+Diğer Candida spp.4 Yetersiz kanıt
+1 MİK değerleri Duyarlı (S) sınır değerinin üzerinde olan suşlar nadirdir ya da henüz bildirilmemiştir.
+Bu izolatların tümünde tanıma ve antimikrobiyal duyarlılık testleri tekrarlanmalı ve sonuç doğrulandığı
+takdirde izolat bir referans laboratuara gönderilmelidir.
+2 Klinik çalışmalarda, C glabrata enfeksiyonları olan hastalarda vorikonazole yanıt C. albicans,
+C. parapsilosis ve C. tropicalis’e kıyasla %21 daha düşük bulunmuştur. Bununla birlikte, bu azalmış yanıt ile
+yükselmiş MİK değerleri arasında korelasyon saptamamıştır.
+3 Klinik çalışmalarda, C. krusei enfeksiyonlarında vorikonazole yanıt C. albicans, C. parapsilosis ve
+C. tropicalis’e benzer bulunmuştur. Bununla birlikte, EUCAST analizi için yalnızca 9 vaka mevcut
+olduğundan, C. krusei için klinik sınır değerlerin belirlenmesi için kanıtlar halen yetersizdir.
+4 EUCAST, vorikonazol için türle ilgili olmayan sınır değerler belirlememiştir.
+Klinik Deneyim
+Başarılı sonuçlar bu bölümde tam ya da kısmi yanıt olarak tanımlanmaktadır.
+Aspergillus enfeksiyonları – kötü prognozlu aspergilloz hastalarında etkinlik: Vorikonazolün
+primer akut invazif aspergilloz tedavisinde konvansiyonel amfoterisin B ile kıyaslamalı
+etkinliği ve sağkalım faydası, 12 hafta süreyle tedavi uygulanan 277 immünokompromize
+hasta üzerinde yapılan açık, randomize ve çok merkezli bir çalışmayla gösterilmiştir.
+Vorikonazol, ilk 24 saat için 12 saatte bir 6 mg/kg yükleme dozu ve bunun ardından minimum
+7 gün boyunca 12 saatte bir 4 mg/kg idame dozu ile intravenöz yolla uygulanmıştır. Bunun
+ardından tedavide 12 saatte bir 200 mg dozda oral formülasyona geçilmesine izin verilmiştir.
+IV vorikonazol tedavisinin medyan süresi 10 gün (aralık: 2-85 gün) olmuştur. IV vorikonazol
+tedavisinden sonra, PO vorikonazol tedavisinin medyan süresi 76 gün (aralık: 2-232 gün)
+olmuştur.
+27 / 37Vorikonazol ile tedavi edilen hastaların %53'ünde tatminkar bir global yanıt (başlangıç
+noktasında mevcut olan tüm ilişkili olabilecek semptomların, işaretlerin,
+radyografik/bronkoskopik anormalliklerin tam ya da kısmi iyileşmesi) görülürken,
+karşılaştırma ilacı ile tedavi edilen hastalarda bu oran %31 olmuştur. Vorikonazol için 84
+günlük sağkalım oranı, karşılaştırma ilacı ile elde edilen sağkalım oranından istatistiksel
+olarak anlamlı ölçüde yüksektir.
+Bu çalışma, daha önce yapılmış prospektif tasarımlı bir çalışmanın bulgularını
+doğrulamaktadır.
+Çalışmalar, kemik iliği ve solid organ transplantı, hematolojik malignite, kanser ve AİDS
+hastalarında serebral, sinüs, pulmoner ve yaygın aspergillozları içermektedir.
+Non-nötropenik hastalarda kandidemi: Vorikonazolün primer kandidemi tedavisinde
+amfoterisin B ve ardından flukonazol rejimiyle kıyaslamalı etkinliği, açık ve karşılaştırmalı
+bir çalışmayla gösterilmiştir. Belgelenmiş kandidemisi bulunan 377 non-nötropenik hasta (12
+yaşından büyük) çalışmaya dahil edilmiş ve bu hastaların 248'ine vorikonazol tedavisi
+verilmiştir. Vorikonazol grubundaki 9 hasta ve amfoterisin B ve ardından flukonazol
+grubundan 5 hastada da ayrıca mikolojik olarak kanıtlanmış derin doku enfeksiyonu vardır.
+Böbrek yetmezliği olan hastalar bu çalışma dışında bırakılmıştır. Her bir tedavi kolunda
+medyan tedavi süresi 15 gündür. Primer analizde çalışma görülmeden DRC (Veri
+değerlendirme komisyonu) tarafından değerlendirilen başarılı cevap tedavinin bitiminden
+(TTS) sonraki 12 haftada kan ve enfekte olmuş derin dokulardaki Candida eredikasyonu ile
+enfeksiyonun klinik belirti ve semptomlarında iyileşme/gelişme olarak tanımlanmıştır. TTS
+sonraki 12. haftada değerlendirilmeyen hastalar başarısız olarak değerlendirilmiştir. Tedavinin
+tamamlanmasından sonraki (TTS) 12. haftada yapılan analizde, her iki tedavi kolundaki
+hastaların %41'inde başarılı yanıt görülmüştür.
+DRC değerlendirmesinin kullanıldığı vorikonazol ve flukonazolün takip ettiği amfoterisin B
+rejimi uygulanan ikinci bir analizde değerlendirilebilen en geç zaman noktasında (TTS, veya
+TTS sonraki 2,6 veya 12 hafta) sırasıyla % 65 ve % 71 gibi başarılı cevaplar elde edilmiştir.
+Belirtilen zamanlarda elde edilen başarılı sonuçların araştırmacı tarafından değerlendirildiği
+tablo aşağıda verilmiştir.
+Zaman Vorikonazol (N=248) Amfoterisin B →flukonazol
+(N=122)
+TTS 178 (%72) 88 (%72)
+TTS’den sonra 2. hafta 125 (% 50) 62 (% 51)
+TTS’den sonra 6. hafta 104 (%42) 55 (%45)
+TTS’den sonra 12. hafta 104 (%42) 51 (%42)
+Ciddi refrakter Candida enfeksiyonları:
+Çalışma, önceden uygulanmış antifungal tedavilerin (özellikle flukonazol olmak üzere) etkili
+olmadığı ciddi refrakter sistemik Candida enfeksiyonları (kandidemi, yaygın ve diğer invazif
+kandidiyazlar dahil) bulunan 55 hastayı içermektedir. 24 hastada başarılı sonuçlar
+görülmüştür (15 tam, 9 kısmi yanıt). Flukonazole dirençli albicans harici türlerde, C. krusei
+enfeksiyonları için 3/3 başarılı sonuç (tam yanıt), C. glabrata enfeksiyonları için ise 6/8 (5
+tam, 1 kısmi yanıt) başarılı sonuç elde edilmiştir. Klinik etkinlik verileri, sınırlı duyarlılık
+verileriyle desteklenmiştir.
+28 / 37Scedosporium ve Fusarium enfeksiyonları:
+Vorikonazolün aşağıdaki nadir fungal patojenlere karşı etkili olduğu gösterilmiştir.
+Scedosporium türleri: S. apiospermum enfeksiyonu bulunan 28 hastanın 16'sında (6 tam, 10
+kısmi yanıt) ve S. prolificans enfeksiyonu bulunan 7 hastanın 2'sinde (ikisi de kısmi yanıt)
+vorikonazole başarılı yanıt elde edilmiştir. Ek olarak Scedosporium türlerinin de dahil olduğu
+birden fazla organizma ile enfekte olmuş hastaların 1/3’ünde başarılı yanıt elde edilmiştir.
+Fusarium türleri: 17 hastanın yedisi (3 tam, 4 kısmi yanıt) vorikonazolle başarılı bir şekilde
+tedavi edilmiştir. Bu 7 hastadan 3 tanesinde göz enfeksiyonu, 1 tanesinde sinüs enfeksiyonu
+ve 3 tanesinde dissemine enfeksiyon görülmüştür. Fusariosisi olan ilave 4 hasta birçok
+organizmanın sebep olduğu enfeksiyona sahiptir. 2’sinden başarılı sonuçlar alınmıştır.
+Vorikonazol tedavisi verilen hastaların çoğunluğu, yukarıda belirtilen nadir enfeksiyonlar için
+daha önce uygulanan antifungal tedavileri tolere edememiştir ya da bu tedavilere yanıt
+vermemiştir.
+Tedavinin süresi
+Klinik çalışmalarda, 561 hastaya 12 haftadan uzun sürelerle vorikonazol tedavisi uygulanmış,
+136 hastaya ise 6 ay süreyle vorikonazol verilmiştir.
+Pediyatrik hastalarda deneyim
+2 prospektif, açık etiketli, karşılaştırmasız, çok merkezli klinik çalışmada, yaşları 2 ila < 18
+arasındaki 53 pediyatrik hasta tedavi edilmiştir. Çalışmaların birinde, 14’ü kanıtlanmış veya
+olası invazif aspergillozlu (İA) ve MITT etkililik analizine katılmış olmak üzere 31
+kanıtlanmış veya olası invazif aspergillozlu (İA) hasta kaydedilmiştir. İkinci çalışmada 17’si
+MITT etkililik analizine katılmış olmak üzere kandidemi dahil invazif kandidiyazisli ve
+primer veya kurtarma tedavisi gerekli olmuş özofajiyal kandidiyazisli 22 hasta kaydedilmiştir.
+İA’lı hastalar için 6 haftada global yanıtın toplam oranı % 64.3 (9/14) olmuştur. 2- < 12 yaş
+arası hastalarda global yanıt oranı %40 (2/5), 12- < 18 yaş arasındaki hastalarda ise % 77.8
+(7/9)’dir. İnvazif kandidiyazisli hastalarda toplam global yanıt oranı tedavinin sonunda %85.7
+(6/7) ve özofajiyal kandidiyazisli hastalar için global yanıt oranı tedavinin sonunda %70
+(7/10)’dir. Toplam yanıt oranı (invazif kandidiyazis ve özofajiyal kandidiyazis birlikte) 2 - <
+12 yaş için %88.9, 12- < 18 yaş için %62.5 olmuştur.
+QT Aralığının İncelendiği Klinik Çalışmalar
+Sağlıklı gönüllülerdeki QT aralığının etkisini değerlendirmek üzere, vorikonazol ve
+ketokonazolün üç oral dozuyla plasebo kontrollü, randomize, tek dozlu, çapraz bir çalışma
+gerçekleştirilmiştir. 800, 1200 ve 1600 mg vorikonazol için başlangıç noktasına kıyasla
+plaseboya göre ayarlanmış ortalama maksimum QTc artışları sırasıyla 5.1, 4.8 ve 8.2
+milisaniye, 800 mg ketokonazol için ise 7.0 milisaniye olmuştur. Grupların hiçbirinde ve
+hiçbir gönüllüde başlangıca kıyasla 60 milisaniye ya da üzerinde bir QTc artışı görülmemiştir.
+Hiçbir gönüllüde klinik açıdan potansiyel olarak anlamlı kabul edilen 500 milisaniyelik eşik
+değerinin üstünde bir aralık görülmemiştir.
+29 / 375.2 Farmakokinetik özellikler
+Genel Farmakokinetik Karakteristikler
+Vorikonazolün çözünürlüğünü artırmak üzere, vorikonazolün her bir 200 mg’lık dozu 3 g
+hidroksipropil-β-siklodekstrin içerir.
+Hidroksipropil-β-siklodekstrin
+VORİJECT İV intravenöz formülasyonun içeriğinde yer alan hidroksipropil-β-siklodekstrinin
+farmakokinetik profili, böbrek fonksiyonları normal olan hastalarda 1-2 saatlik kısa bir
+yarılanma ömrüne sahiptir ve birbirini izleyen günlük dozlar sonrasında vücutta birikmez.
+Sağlıklı bireylerde ve hafif ila şiddetli böbrek yetmezliği olan hastalarda 8 g dozdaki
+hidroksipropil-β-siklodekstrin büyük bir kısmı (˃ % 85) idrarla atılır. Böbrek yetmezliği olan
+hastalarda, tek doz 200 mg intravenöz vorikonazol uygulaması sonrası hidroksipropil-β-
+siklodekstrinin klirensi düşer ve hidroksipropil-β-siklodekstrine maruziyet artar. Hafif, orta ve
+şiddetli böbrek yetmezliği olan hastalarda yarılanma ömrü sırasıyla yaklaşık 2, 4 ve 6 kat
+artar. Bu hastalarda, birbirini izleyen infüzyonlar sonrası kararlı duruma ulaşıncaya kadar
+hidroksipropil-β-siklodekstrin birikimi olabilir. Hidroksipropil-β-siklodekstrin hemodiyaliz ile
+uzaklaştırılabilir.
+Genel özellikler
+Vorikonazolün farmakokinetiği sağlıklı bireylerde, özel topluluklarda ve hastalarda
+araştırılmıştır.
+Emilim:
+Oral uygulamanın ardından, vorikonazol hızla ve tamamına yakın oranda emilir, maksimum
+plazma konsantrasyonlarına (C ) uygulamadan 1-2 saat sonra erişilir. Vorikonazolün oral
+maks
+biyoyararlanımının % 96 olduğu tahmin edilmektedir. Çok yağlı yemeklerle birlikte
+tekrarlanan dozlarda vorikonazol tablet uygulandığında, C ve eğri altı alan (EAA) sırasıyla
+maks
+% 34 ve % 24 oranlarında azalır.
+Oral dozun günde iki kez 200 mg’dan günde iki kez 300 mg’ a yükseltilmesi, etkiyi (EAA),
+yaklaşık olarak ortalama 2.5 kat arttırmıştır. 200 mg (ya da vücut ağırlığı 40 kg’ın altında olan
+hastalar için 100 mg) oral idame dozu, 3 mg/kg IV uygulamaya benzer bir vorikonazol
+maruziyeti sağlamaktadır. 300 mg (ya da vücut ağırlığı 40 kg’ın altında olan hastalar için 150
+mg) oral idame dozu, 4 mg/kg IV uygulamaya benzer bir maruziyet sağlamaktadır.
+Önerilen oral veya intravenöz yükleme doz rejimleri uygulandığında, kararlı duruma yakın
+plazma konsantrasyonlarına dozu takip eden ilk 24 saat içinde ulaşılır. Hastaların çoğunda,
+yükleme dozu olmadan günde iki kez tekrarlanan dozla, kararlı durum plazma vorikonazol
+konsantrasyonlarına 6. günde ulaşılmıştır.
+Gastrik pH’nın değişmesi, vorikonazol emilimini değiştirmez.
+Dağılım:
+Vorikonazolün kararlı durum dağılım hacmi 4.6 L/kg olarak tahmin edilmektedir, bu da
+dokulara yaygın dağılımı göstermektedir. Plazma proteinlerine bağlanmanın % 58 olduğu
+tahmin edilmektedir.
+30 / 37Tıbbi amaçlı ilaca erken erişim programlarında yer alan sekiz hastada serebrospinal sıvıda
+(SSS) vorikonazol konsantrasyonları tespit edilmiştir.
+Biyotransformasyon:
+İn vitro çalışmalar vorikonazolün karaciğer sitokrom P450 izoenzimleri olan CYP2C19,
+CYP2C9 ve CYP3A4 ile metabolize olduğunu göstermiştir.
+Vorikonazol farmakokinetiğinin bireyler arası değişkenliği yüksektir.
+İn vivo çalışmalar, vorikonazol metabolizmasında CYP2C19’un etkili olduğunu göstermiştir.
+Bu enzim genetik polimorfizm gösterir. Örneğin, Asyalı toplulukların %15-20’ sinin zayıf
+metabolize ediciler olması beklenir. Beyaz ve siyah ırkta zayıf metabolize edicilerin
+prevalansı % 3-5’dir. Beyaz ve Japon sağlıklı gönüllülerde yapılan çalışmalar, zayıf
+metabolize edicilerin, homozigot yaygın metabolize ediciler karşılaştırma grubuna göre
+ortalama olarak 4 kat daha fazla vorikonazole (EAA) maruz kaldıklarını göstermiştir.
+Heterozigot yaygın metabolize ediciler, homozigot yaygın metabolize ediciler karşılaştırma
+grubuna oranla ortalama olarak 2 kat daha fazla vorikonazole maruz kalmaktadır.
+Vorikonazolün ana metaboliti N-oksit’tir, bu, plazmada sirküle eden radyoaktif olarak
+işaretlenmiş metabolitlerin %72’ sini oluşturur. Bu metabolitin çok az antifungal etkinliği
+vardır ve vorikonazolün genel etkinliğine bir katkısı olmaz.
+Eliminasyon:
+Vorikonazol karaciğer metabolizması yoluyla elimine edilir, uygulanan dozun %2’den azı
+idrarla değişmeden atılır.
+Vorikonazolün radyoaktif olarak işaretlenmiş dozunun, tekrarlanan dozlar halinde intravenöz
+uygulanmasından sonra, radyoaktivitenin yaklaşık % 80’ ine, tekrarlanan dozlar halinde oral
+uygulanmasından sonra ise % 83’ üne idrarda rastlanmıştır. Hem oral hem de intravenöz
+uygulamanın ardından toplam radyoaktif maddenin büyük bölümü (> % 94) ilk 96 saat içinde
+atılmıştır.
+Vorikonazolün terminal yarılanma ömrü doza bağlıdır ve 200 mg oral uygulama durumunda
+yaklaşık 6 saattir. Non-lineer farmakokinetiği yüzünden, terminal yarılanma ömrü,
+vorikonazolün birikmesi veya atılımı için bir tahminde bulunma konusunda faydalı olmaz.
+Doğrusallık/doğrusal olmayan durum:
+Aspergilloz riski olan hastalarda (özellikle lenfatik veya hematopoietik dokuların malign
+neoplazmı olan hastalar) 14 gün süreyle günde iki kere 200 mg veya 300 mg oral uygulama
+sırasında görülen farmakokinetik özellikler, sağlıklı gönüllülerde görülen ile uyumlu olarak,
+hızlı ve uygun absorpsiyon, birikim ve non-lineer farmakokinetiktir.
+Vorikonazolün farmakokinetiği, metabolizmasının doygunluğuna bağlı olarak non-lineerdir.
+Artan dozla maruziyetteki artış oransal olarak daha fazladır.
+Hastalardaki karakteristik özellikler
+Cinsiyet:
+Bir çoklu oral doz çalışmasında, sağlıklı genç kadınlarda C ve EAA, sağlıklı genç
+maks
+erkeklere (18-45 yaş) oranla sırasıyla %83 ve %113 daha yüksek olmuştur. Aynı çalışmada,
+31 / 37sağlıklı yaşlı erkekler ve sağlıklı yaşlı kadınlar (≥65 yaş) arasında C ve EAA’sında hiçbir
+maks
+bir anlamlı değişiklik görülmemiştir.
+Klinik programda, cinsiyete bağlı olarak herhangi bir doz ayarlaması yapılmamıştır. Erkek ve
+kadınlarda görülen güvenlilik profili ve plazma konsantrasyonları benzerdir. Bu sebeple
+cinsiyete bağlı doz ayarlaması gerekmez.
+Yaşlılar:
+Bir çoklu oral doz çalışmasında, sağlıklı yaşlı erkeklerde (≥ 65 yaş) C ve EAA, sağlıklı
+maks
+genç erkeklerdekinden (18-45 yaş) sırasıyla, % 61 ve % 86 daha yüksek olmuştur. Sağlıklı
+yaşlı kadınlarla (≥ 65 yaş), sağlıklı genç kadınlar (18-45 yaş) arasında C ve EAA’da
+maks
+önemli farklılıklar gözlenmemiştir.
+Terapötik çalışmalarda yaşa bağlı herhangi bir doz ayarlaması yapılmamıştır. Yaş ile plazma
+konsantrasyonları arasında bir ilişki gözlenmiştir ancak vorikonazolün güvenlilik profili yaşlı
+ve genç hastalarda benzer olmuştur ve bu nedenle yaşlılar için herhangi bir doz ayarlamasına
+gerek yoktur.
+Çocuklar:
+Çocuk ve adölesan hastalarda tavsiye edilen dozlar, 2-<12 yaşlarındaki 112 immun yetmezliği
+olan pediyatrik hastanın ve 12- <17 yaşlarındaki 26 immun yetmezliği olan adölesan hastanın
+yer aldığı popülasyonun farmakokinetik analiz verilerine dayanmaktadır. Günde iki kez 3, 4,
+6, 7 ve 8 mg/kg olarak uygulanan çoklu intravenöz dozlar ve günde iki kez 4 mg/kg, 6 mg/kg
+ve 200 mg olarak uygulanan çoklu oral dozlar (oral süspansiyon için toz formülasyonu
+kullanılarak), 3 pediyatrik farmakokinetik çalışmasında değerlendirilmiştir. Günde iki kez
+olmak üzere 1. günde 6 mg/kg IV olarak uygulanan intravenöz yükleme dozlarının ardından
+günde iki kez 4 mg/kg intravenöz doz ve günde iki kez 300 mg oral tablet uygulaması, bir
+adolesan farmakokinetik çalışmasında değerlendirilmiştir. Pediyatrik hastalarda gözlenen
+gönüllüler arası değişkenlik erişkinlere kıyasla daha büyük olmuştur.
+Pediyatrik ve erişkin popülasyonda elde edilen farmakokinetik verilerin karşılaştırması,
+çocuklarda 9 mg/kg IV yükleme dozunu takiben öngörülen toplam maruziyetin (EAAτ)
+erişkinlerde 6 mg/kg IV yükleme dozunu takiben öngörülen toplam maruziyet ile
+karşılaştırılabilir düzeyde olduğunu göstermiştir. Çocuklarda günde iki kez uygulanan 4 ve 8
+mg/kg IV idame dozlarını takiben öngörülen toplam maruziyetler, erişkinlerde günde iki kez 3
+ve 4 mg/kg IV olarak yapılan uygulamadaki ile (sırasıyla) karşılaştırılabilir düzeyde olmuştur.
+Çocuklarda günde iki kez 9 mg/kg (maksimum 350 mg) olarak uygulanan oral idame dozunu
+takiben öngörülen toplam maruziyet, erişkinlerde günde iki kez 200 mg oral uygulamayı
+takiben öngörülenle karşılaştırılabilir düzeyde olmuştur. 8 mg/kg intravenöz dozun sağladığı
+vorikonazol maruziyeti, 9 mg/kg oral dozun yaklaşık 2 katı olmaktadır.
+IV idame dozunun yetişkinlere kıyasla pediyatrik hastalarda daha yüksek olması pediyatrik
+hastalarda eliminasyon kapasitesinin daha yüksek olduğunu gösterir. Bunun sebebi pediyatrik
+hastalardaki karaciğer kütlesi / vücut kütlesinin daha büyük olmasıdır.
+Oral biyoyararlanım, çocuklarda malabsorpsiyon ve bu yaş grubu için düşük vücut ağırlığı
+sebebiyle sınırlı olabilir. Bu durumda intravenöz uygulama önerilmektedir.
+Adolesan hastaların büyük kısmındaki vorikonazol maruziyetleri, aynı doz uygulama
+rejimlerinin verildiği erişkinlerdeki ile karşılaştırılabilir düzeyde olmuştur. Bununla birlikte,
+32 / 37vücut ağırlığı düşük olan bazı genç adolesanlarda erişkinlere kıyasla daha düşük vorikonazol
+maruziyetleri gözlenmiştir. Bu gönüllülerde vorikonazol metabolizmasının erişkinlerden çok
+çocuklara benzer olma olasılığı vardır. Popülasyon farmakokinetiği analizine göre, vücut
+ağırlığı 50 kg’ın altında olan 12 ila 14 yaş arası adolesanların çocuklar için belirlenen dozları
+almaları gerekmektedir (bkz. Bölüm 4.2).
+Böbrek Bozukluğu:
+Sağlıklı bireylerde ve böbrek yetmezliği (hafif-orta-ciddi) bulunan hastalarda 8 g dozda
+hidroksipropil-beta-siklodekstrin’in büyük kısmı (>%85) idrar ile elimine edilir. Renal
+fonksiyonları bozuk hastalarda hidroksipropil-beta-siklodekstrin’in klerensi azalır ve hasta
+daha yüksek oranda hidroksipropil-beta-siklodekstrin maruziyeti yaşar. Hafif, orta ve ciddi
+böbrek yetmezliğinde hidroksipropil-beta-siklodekstrin yarılanma ömürleri sırasıyla 2,4 ve 6
+kat artar. Bu hastalarda ardışık infüzyonlar plato fazına ulaşmadan hidroksipropil-beta-
+siklodekstrin birikimine neden olabilir. Hidroksipropil-beta-siklodekstrin hemodiyaliz ile
+vücuttan uzaklaştırılır (Bkz. Bölüm 4.2 Pozoloji ve uygulama şekli ve 4.4 özel kullanım
+uyarıları ve önlemleri).
+Karaciğer Bozukluğu:
+Oral bir tek dozun (200 mg) ardından, hafif (Child-Pugh sınıf A) ve orta (Child-Pugh sınıf B)
+şiddette karaciğer sirozu olan hastalarda EAA, normal karaciğer fonksiyonu olan hastalara
+göre % 233 daha yüksek olmuştur. Vorikonazolün proteine bağlanması karaciğer fonksiyon
+bozukluğundan etkilenmez.
+Çoklu bir oral doz çalışmasında, günde iki kez 100 mg idame dozu alan ve orta şiddette
+karaciğer sirozu (Child-Pugh sınıf B) olan hastalarda, EAA, günde iki kez 200 mg kullanan ve
+karaciğer fonksiyonu normal olan hastalarla benzer bulunmuştur. Ciddi karaciğer sirozu
+(Child- Pugh sınıf C) olan hastalar için herhangi bir farmakokinetik veri mevcut değildir.
+Farmakokinetik/Farmakodinamik ilişki
+10 terapötik çalışmanın tümünde tek tek gönüllülerdeki ortalama ve maksimum plazma
+konsantrasyonlarının medyan değeri sırasıyla 2425 ng/ml (kartiller arası aralık 1193 ila
+4380 ng/ml) ve 3742 ng/ml (kartiller arası aralık 2027 ila 6302 ng/ml) olarak bulunmuştur.
+Terapötik çalışmalarda ortalama, maksimum ya da minimum plazma vorikonazol
+konsantrasyonu ile etkililik arasında pozitif bir ilişki saptanmamıştır.
+Klinik çalışma verilerinin Farmakokinetik-Farmakodinamik analizlerinde, plazma
+vorikonazol konsantrasyonları ile hem karaciğer fonksiyon test anormallikleri hem de
+görme bozuklukları arasında pozitif ilişkiler saptanmıştır.
+5.3 Klinik öncesi güvenlilik verileri
+Vorikonazolün tekrarlanan doz toksisitesi çalışmaları, karaciğerin hedef organ olduğunu
+göstermiştir. Diğer antifungal ilaçlarda olduğu gibi, insanda terapötik dozlarda elde edilene
+benzer düzeyde plazma maruziyetinde hepatotoksisite gelişmiştir. Sıçan, fare ve köpeklerde
+vorikonazol minimal adrenal değişikliklere neden olmuştur. Konvansiyonel güvenlilik
+farmakolojisi, genotoksisite veya karsinojenik potansiyel çalışmalarından elde edilen
+preklinik veriler, insana yönelik özel herhangi bir zarara işaret etmemiştir.
+33 / 37Üreme çalışmalarında, insanda terapötik dozlarda elde edilen eşit sistemik maruziyetlerde,
+sıçanlarda vorikonazolün teratojenik ve tavşanlarda embriyotoksik olduğu gösterilmiştir.
+Sıçanlarda pre ve post natal gelişim çalışmalarında, insanlarda terapötik dozlarla elde
+edilenlerden daha düşük maruziyetlerde, vorikonazol gestasyon ve doğum süresini uzatmış,
+maternal mortalite ile sonuçlanan distosiye neden olmuş ve sıçan yavrularının perinatal
+sağkalım oranlarını düşürmüştür. Doğum üzerindeki etkileri, estradiol düzeylerinde azalmayı
+da içeren olasılıkla türe spesifik mekanizmalar aracılığı ile olmaktadır ve diğer azol antifungal
+ilaçlarla gözlenen etkilerle uyumludur.
+Hidroksipropil-β-siklodekstrin
+Tekrarlanan doz toksisitesi, genotoksisite, üreme ve gelişme toksisitesi için yapılan
+konvansiyonel çalışmalardan elde edilen klinik olmayan veriler, insanlara yönelik özel bir risk
+olmadığını göstermektedir. Bir sıçan karsinogenisite çalışmasında hidroksipropil-β-
+siklodekstrinin kalın bağırsak adenokarsinomuna ve ekzokrin pankreatik adenokarsinomuna
+neden olduğu gösterilmiştir. Bu bulgular benzer bir fare karsinogenisite çalışmasında
+gözlenmemiştir. Kalın bağırsak adenokarsinomlarının klinik ilgisi düşüktür, ekzokrin
+pankreatik adenokarsinomlarının mekanizması ise insanlarla ilişkili düşünülmemektedir.
+Çözücü yardımcı madde olarak kullanılan hidroksipropil-beta-siklodekstrin, 500, 2000 veya
+5000 mg/kg/gün dozlarında 25 ay boyunca sıçanlara oral yolla uygulandığında pankreatik
+ekzokrin hiperplazi ve neoplaziye neden olduğu bulunmuştur. Tedavi uygulanan hayvanlarda
+oluşan ekzokrin pankreas adenokarsinoma, tedavi görmeyen grupta görülmemiştir ve geçmiş
+kontrollerde raporlanmamıştır. Bu tümörlerin gelişimi kolesistokinin mitojenik aksiyonu ile
+ilgili olabilir. Bu bulgular, 22-23 ay süren 500, 2000 veya 5000 mg/kg/gün dozlarındaki fare
+karsinojenite çalışmasında gözlenmemiştir; bununla birlikte bu bulguların klinik ilgisi
+bilinmemektedir. Vücut yüzey alan karşılaştırmalarına bağlı olarak, hidroksipropil-beta-
+siklodekstrinin önerilen klinik dozda insanda maruziyeti, yaklaşık olarak sıçan çalışmasındaki
+en düşük dozun 1.7 katına eşdeğerdir. Oral uygulanan hidroksipropil-beta-siklodekstrinin
+potansiyel karsinojenik etkileri ile ilgili bulguları kesin değildir.
+6. FARMASÖTİK ÖZELLİKLER
+6.1 Yardımcı maddelerin listesi
+Hidroksipropil-β-siklodekstrin (HPBCD)
+Enjeksiyonluk su
+6.2 Geçimsizlikler
+VORİJECT, diğer ilaç infüzyonları ile aynı yoldan veya kanülden uygulanmamalıdır.
+İnfüzyon tamamlandığında, diğer intravenöz ilaç aynı yoldan uygulanabilir.
+Kan Ürünleri ve Konsantre Elektrolit Takviyesi
+VORİJECT tedavisine başlanılmadan önce hipokalemi, hipomagnezemi ve hipokalsemi gibi
+elektrolit bozuklukları düzeltilmelidir (bkz. bölüm 4.2 Pozoloji ve uygulama şekli ve 4.4 Özel
+kullanım uyarıları ve önlemleri).
+VORİJECT iki infüzyon ayrı yollardan uygulanıyor olsa dahi, herhangi bir kan ürünüyle veya
+kısa süreli konsantre elektrolit takviyesi ile eşzamanlı olarak uygulanmamalıdır
+34 / 37Total Parenteral Beslenme (TPB)
+VORİJECT infüzyon çözeltisi ile birlikte reçete edilen total parenteral beslenme (TPB)
+çözeltileri ayrı yoldan infüze edilmek koşuluyla uygulanabilir. Multipl-lumen kateter ile
+infüze edilirse, TPB, VORİJECT için kullanılandan farklı yoldan verilmelidir.
+VORİJECT, % 4.2’lik Sodyum bikarbonat infüzyonu ile seyreltilmemelidir. Diğer
+konsantrasyonlardaki çözelti ile geçimli olup olmadığı bilinmemektedir.
+Bu ilaç Bölüm 6.6.’da bahsedilen ilaçlar haricindeki diğer ilaçlarla karıştırılmamalıdır.
+6.3. Raf ömrü
+24 ay
+6.4. Saklamaya yönelik özel uyarılar
+VORİJECT İV İnfüzyon Çözeltisi için Liyofilize Toz çözülmeden önce 25°C'nin altındaki
+oda sıcaklığında saklanır.
+Toz eritildikten sonra hemen kullanılmalıdır. Eğer hemen kullanılmayacaksa, 2°C-8°C
+arasında (buzdolabında) 36 saate kadar muhafaza edilebilir. Toz eritildikten sonra uygun bir
+infüzyon çözeltisi ile sulandırılması gerekir.
+6.5. Ambalajın niteliği ve içeriği
+Şişe : Saydam, renksiz, Tip I cam flakon (30 ml)
+Tıpa : Bromobütil kauçuk liyofilizasyon tıpası
+Kapak : Flip-off kapak
+6.6. Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+VORİJECT 200 mg İV İnfüzyon Çözeltisi için Liyofilize Toz İçeren Flakon tek kullanımlık
+flakonlar halinde piyasaya sunulmuştur. Beher ml’sinde 10 mg vorikonazol içeren berrak
+çözelti elde etmek için, flakon içeriğini 20 ml’ye tamamlayacak şekilde 19 ml enjeksiyonluk
+su ile veya 9 mg/ml (%0.9) infüzyonluk sodyum klorür ile sulandırılmalıdır. Eğer flakondaki
+vakum seyrelticiyi flakon içine çekmezse flakon atılmalıdır. 19 ml enjeksiyonluk su veya 9
+mg/ml infüzyonluk sodyum klorürü tam olarak hazırlanması için 20 ml’lik şırınga
+kullanılmalıdır. Bu ürün tek kullanımlıktır ve kullanılmayan çözelti atılmalıdır. Sadece
+partikül içermeyen, berrak çözeltiler kullanılmalıdır.
+Uygulama için, gerekli hacimdeki sulandırılmış çözelti (tablo aşağıdadır) tavsiye edilen
+uyumlu bir infüzyon çözeltisine (detayları aşağıdadır) ilave edilir ve gereksinime göre 0.5-5
+mg/ml konsantrasyondaki VORİJECT çözeltisi elde edilir.
+35 / 3710 mg/ml VORİJECT Konsantre Çözelti için Gerekli Hacimler
+Vücut ağırlığı VORİJECT Konsantre Çözelti (10 mg/ml) hacmi:
+(kg) 3 mg/kg 4 mg/kg doz 6 mg/kg doz 8 mg/kg doz 9 mg/kg
+doz (flakon (flakon (flakon (flakon sayısı) doz
+sayısı) sayısı) sayısı) (flako
+10 - 4.0 ml (1) - 8.0 ml (1) n9 .0 ml (1)
+15 - 6.0 ml (1) - 12.0 ml (1) s1a3y.5ıs ıml (1)
+20 - 8.0 ml (1) - 16.0 ml (1) )1 8.0 ml (1)
+25 - 10.0 ml (1) - 20.0 ml (1) 22.5 ml (2)
+30 9.0 ml (1) 12.0 ml (1) 18.0 ml (1) 24.0 ml (2) 27.0 ml (2)
+35 10.5 ml (1) 14.0 ml (1) 21.0 ml (2) 28.0 ml (2) 31.5 ml (2)
+40 12.0 ml (1) 16.0 ml (1) 24.0 ml (2) 32.0 ml (2) 36.0 ml (2)
+45 13.5 ml (1) 18.0 ml (1) 27.0 ml (2) 36.0 ml (2) 40.5 ml (3)
+50 15.0 ml (1) 20.0 ml (1) 30.0 ml (2) 40.0 ml (2) 45.0 ml (3)
+55 16.5 ml (1) 22.0 ml (2) 33.0 ml (2) 44.0 ml (3) 49.5 ml (3)
+60 18.0 ml (1) 24.0 ml (2) 36.0 ml (2) 48.0 ml (3) 54.0 ml (3)
+65 19.5 ml (1) 26.0 ml (2) 39.0 ml (2) 52.0 ml (3) 58.5 ml (3)
+70 21.0 ml (2) 28.0 ml (2) 42.0 ml (3) - -
+75 22.5 ml (2) 30.0 ml (2) 45.0 ml (3) - -
+80 24.0 ml (2) 32.0 ml (2) 48.0 ml (3) - -
+85 25.5 ml (2) 34.0 ml (2) 51.0 ml (3) - -
+90 27.0 ml (2) 36.0 ml (2) 54.0 ml (3) - -
+95 28.5 ml (2) 38.0 ml (2) 57.0 ml (3) - -
+100 30.0 ml (2) 40.0 ml (2) 60.0 ml (3) - -
+VORİJECT 200 mg İV İnfüzyon Çözeltisi için Liyofilize Toz koruyucu içermeyen tek dozluk
+steril flakondur. Bu sebeple, mikrobiyolojik açıdan, ürün hemen kullanılmalıdır. Eğer hemen
+kullanılmayacaksa, kullanıma hazır çözeltinin, kullanımdan önce saklama süreleri içinde ve
+şartlarında saklanması kullanıcının sorumluluğudur ve sulandırma işlemi kontrollü ve valide
+edilmiş aseptik şartlardaki bir yerde yapılmadığı sürece normal şartlarda 2°C - 8°C arasında
+36 saatten uzun saklanamaz.
+Sulandırılmış çözelti şunlarla seyreltilebilir:
+% 0.9 izotonik sodyum klorür çözeltisinde
+Laktatlı ringer çözeltisinde
+%5 dekstroz – laktatlı ringer çözeltisinde
+%5 dekstroz çözeltisinde
+%0.45 izotonik sodyum klorür çözeltisinde
+%5 dekstroz-%0.9 izotonik sodyum klorür çözeltisinde
+%5 dekstroz-20 mEq potasyum klorür
+% 5 dekstroz -% 0.45 sodyum klorür çözeltisi
+36 / 37VORİJECT’in yukarıda veya bölüm 6.2. Geçimsizlikler’de belirtilen seyrelticiler dışında
+hangi seyrelticilerle geçimli olduğu bilinmemektedir.
+Kullanılmamış olan ürünler ya da atık materyaller “Tıbbi Atıkların Kontrolü Yönetmeliği” ve
+“Ambalaj Atıklarının Kontrolü Yönetmelikleri”ne uygun olarak imha edilmelidir.
+7. RUHSAT SAHİBİ
+Tüm Ekip İlaç A.Ş.
+Tuzla Kimya Sanayicileri
+Organize Sanayi Bölgesi
+Aromatik Cad. No.55 Tuzla / İstanbul
+Tel : 0 216 593 24 25
+Faks : 0 216 593 31 41
+8. RUHSAT NUMARASI
+2015/930
+9. İLK RUHSAT TARİHİ / RUHSAT YENİLEME TARİHİ
+İlk ruhsatlandırma tarihi: 09.12.2015
+Ruhsat yenileme tarihi:
+10. KÜB’ÜN YENİLENME TARİHİ
+KÜB Onay Tarihi:
+37 / 37

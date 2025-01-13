@@ -1,0 +1,834 @@
+KISA ÜRÜN BİLGİSİ
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+MRSACİN 50 mg İ.V. İnfüzyon İçin Liyofilize Toz İçeren Flakon
+Steril
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde:
+Tigesiklin
+Her 5 ml MRSACİN flakon, intravenöz infüzyon için 50 mg liyofilize tigesiklin tozu içerir.
+Kullanım için hazırlandığında, çözelti 10 mg/ml tigesiklin içermektedir.
+Yardımcı maddeler:
+Maltoz………….100 mg
+Sodyum hidroksit…………..pH ayarlamak için gerektiği kadar
+Yardımcı maddeler için 6.1’e bakınız.
+3. FARMASÖTİK FORM
+İntravenöz infüzyon çözeltisi için konsantre toz, steril.
+Turuncu renkte liyofilize kek veya toz.
+İnfüzyon için hazırlanmış çözelti, turuncu veya koyu turuncu renkte, görünür partikül
+içermeyen çözeltidir.
+4. KLİNİK ÖZELLİKLER
+4.1. Terapötik endikasyonlar
+MRSACİN, yalnızca diğer alternatiflerinin uygun olmadığının bilindiği ya da şüphelenildiği
+durumlarda kullanılmalıdır.
+MRSACİN yetişkinlerde aşağıda belirtilen enfeksiyonların tedavisinde endikedir:
+ Metisiline dirençli Staphylococcus aureus (MRSA) da dahil komplike deri ve deri
+yapısı enfeksiyonları,
+ Komplike intraabdominal enfeksiyonlar,
+ Bakteriyeminin eşlik ettiği vakalar dahil Streptococcus pneumoniae (penisiline duyarlı
+izolatlar), Haemophilus influenza (beta laktamaz negatif izolatlar) ve Legionella
+pneumophila’nın neden olduğu toplum kökenli bakteriyel pnömoni.
+MRSACİN diyabetik ayak enfeksiyonu tedavisinde endike değildir (Bkz. Bölüm 5.2).
+MRSACİN’in diyabetik ayak enfeksiyonu tedavisinde non-inferior olduğunu göstermek için
+yapılan klinik çalışma başarısız olmuştur.
+4.2. Pozoloji ve uygulama şekli
+Pozoloji/ uygulama sıklığı ve süresi:
+İntravenöz yol ile uygulanır; 100 mg başlangıç dozundan sonra 12 saatte bir 50 mg şeklinde
+kullanılır. Komplike deri ve deri yapısı enfeksiyonları ve komplike intraabdominal
+enfeksiyonların tedavisinde önerilen tedavi süresi 5-14 gündür. Toplum kökenli bakteriyel
+pnömoni için önerilen tedavi süresi 7-14 gündür. Tedavinin süresi, enfeksiyonun şiddeti ve
+bulunduğu vücut bölgesi ile hastanın klinik ve bakteriyolojik seyrine göre belirlenmelidir.
+Uygulama şekli:
+MRSACİN intravenöz infüzyon yoluyla uygulanır. İnfüzyon süresi yaklaşık 30-60 dakika
+arasında olmalıdır.
+1 / 19Özel popülasyonlara ilişkin ek bilgiler:
+Böbrek Yetmezliği:
+Böbrek yetmezliği olan veya hemodiyaliz uygulanmakta olan hastalarda herhangi bir doz
+ayarlaması gerekmez (Bkz., Bölüm 5.2).
+Karaciğer Yetmezliği:
+Hafif ve orta derecede karaciğer yetmezliği olanlarda hiçbir doz ayarlaması gerekmez (Child
+Pugh A ve Child Pugh B). İleri derecede karaciğer yetmezliği olanlarda (Child Pugh C),
+MRSACİN dozu, 100 mg’lık başlangıç dozundan sonra her 12 saatte bir 25 mg’a
+düşürülmelidir. İleri derecede karaciğer yetmezliği olan hastalar, dikkatli bir şekilde tedavi
+edilmeli ve tedavi yanıtı monitörize edilmelidir (Bkz. Bölüm 4.4. ve 5.2).
+Pediyatrik popülasyon:
+MRSACİN dişlerde oluşabilecek renk değişikliklerinden dolayı 8 yaşından küçük çocuklarda
+kullanılmamalıdır. 18 yaşından küçük çocuklarda ise MRSACİN’in güvenlilik ve etkililiği
+belirlenmemiş olduğundan bu yaş grubunda kullanımı önerilmemektedir.
+Geriyatrik popülasyon:
+Yaşlı hastalarda doz ayarlaması yapılmasına gerek yoktur (Bkz. Bölüm 5.2).
+4.3. Kontrendikasyonlar
+MRSACİN, tigesikline veya ilaç içindeki herhangi bir bileşene karşı aşırı hassasiyeti olduğu
+bilinen hastalarda kontrendikedir.
+Tetrasiklin sınıfı antibiyotiklere karşı aşırı hassasiyeti olan hastaların tigesikline karşı da aşırı
+hassasiyeti olabilir.
+4.4. Özel kullanım uyarıları ve önlemleri
+Faz 3 ve 4 klinik çalışmalarda karşılaştırma ajanına göre Tigesiklin tedavisi gören
+hastalarda tüm nedenleri kapsayan mortalite oranlarında artış gözlenmiştir. %0.6
+(%95 CI, 0.1, 1.2) mortalite risk farkı nedeni belirlenememiştir. Tigesiklin yalnızca
+diğer alternatiflerinin uygun olmadığının bilindiği ya da şüphelenildiği durumlarda
+kullanılmalıdır.
+Karşılaştırma ajanı içeren 13 adet Faz 3 ve Faz 4 klinik çalışmanın dahil edildiği toplu
+analizde, tigesiklin alan hastaların %4.0’ünde (150/3788) ve karşılaştırma ajanını alan
+hastaların %3.0’ünde (110/3646) ölüm gerçekleşmiştir; bu da düzeltilmemiş risk farkını %0.9
+(%95 CI 0.1, 1.8) yapmıştır. Bu çalışmaların toplu analizinde, çalışma ağırlığına bağlı rastgele
+etki modeline göre, tigesiklin ve karşılaştırma ajanı tedavisi gören hastalar arasında
+düzeltilmiş tüm ölüm sebeplerine bağlı risk farkı %0.6 (%95 CI, 0.1, 1.2) olmuştur. Onaylı
+endikasyonlar için yapılan tüm çalışmalardaki(pazarlama sonrası çalışmalar da dahil)
+mortalite analizi tigesiklin ve karşılaştırma ajanı arasında sırasıyla % 2.5 (66/2640) ve %1.8
+(48/2628) düzeltilmiş mortalite oranı göstermiştir. Çalışma ağırlığı ile düzenlenmiş mortalite
+için ayarlanmış risk farkı %0.6 (%95 CI 0.0, 1.2)’dir.
+Bu artışın nedeni belirlenememiştir. Ölüm genellikle kötüleşen enfeksiyonun, enfeksiyon
+komplikasyonlarının veya altta yatan komorbiditenin sonucudur. Tigesiklin yalnızca diğer
+alternatiflerinin uygun olmadığının bilindiği ya da şüphelenildiği durumlarda kullanılmalıdır.
+Tigesiklin dahil hemen hemen tüm antibakteriyel ajanlar ile tedavide anaflaktik/anaflaktoid
+reaksiyonlar rapor edilmiştir ve hayati tehlike yaratabilir. Hemen hemen tüm antibakteriyel
+ajanlarla, hafif tablolardan yaşamı tehdit edecek dereceye varabilen şiddetli psödomembranöz
+2 / 19kolit vakaları bildirilmiştir. Bu nedenle herhangi bir antibiyotik tedavisinden sonra diyare
+yakınması ile gelen hastalarda bu tablonun düşünülmesi önemlidir.
+Komplike intraabdominal enfeksiyonu olan hastalarda yapılan klinik çalışmalarda ameliyat
+yaralarının iyileşmemesi durumu süperenfeksiyon ile ilişkilendirilmiştir. İyileşmeyen yara
+durumunun var olduğu hastalar süperenfeksiyonun belirlenmesi açısından izlenmelidir.
+Süperenfeksiyon gelişen hastalar, özellikle nozokomiyal pnömoni, kötü sonuçlar ile ilişkili
+görünmektedir. Hastalar süperenfeksiyon gelişme riskine karşı yakınen takip edilmelidir.
+MRSACİN tedavisi başlangıcından sonra komplike deri ve deri yapısı enfeksiyonları veya
+komplike intraabdominal enfeksiyonlar dışındaki bir enfeksiyon odağı belirlenirse var olan
+spesifik enfeksiyon tipinin tedavisinde etkili olduğu gösterilmiş alternatif bir antibakteriyel
+tedaviye başlanması değerlendirilmelidir.
+Ölüm ile sonuçlanan karaciğer yetmezliği vakalarının da dahil olduğu kolestatik karaciğer
+hasarı vakaları tigesiklin tedavisi alan hastalarda rapor edilmiştir. Tigesiklin ile tedavi edilen
+hastalarda altta yatan durum veya çoklu ilaç kullanımından dolayı karaciğer yetmezliği
+görülebilir.
+Kolestazın tigesiklin farmakokinetiğine etkisi tam olarak saptanmamıştır. Toplam tigesiklin
+atılımının yaklaşık %50’si safradan atılır. Bu yüzden kolestazı olan hastalar yakından
+izlenmelidir.
+Glisilsiklin sınıfı antibiyotikler, yapısal olarak tetrasiklin sınıfı antibiyotiklere benzerler.
+Tigesiklin tetrasiklin grubu antibiyotiklere benzer bir yan etki profili gösterebilir. Bu yan
+etkiler; ışığa hassasiyet, psödotümör serebri, pankreatit ve anti-anabolik etkiler (yükselmiş
+BUN, azotemi, asidoz ve hiperfosfatemi) olabilir. Tetrasiklinlerde olduğu gibi Tigesiklin
+kullanımı ile pankreatit rapor edilmiştir. Bu nedenle tetrasiklin sınıfı antibiyotiklere aşırı
+duyarlılığı olan hastalarda kullanımdan kaçınılmalıdır.
+Tigesiklin tedavisi ile ilişkili olarak ciddi boyutlara varabilen akut pankreatit (sıklık: yaygın
+olmayan) görülmüştür (Bkz. Bölüm 4.8. İstenmeyen etkiler). Tigesiklin almakta olan
+hastalarda akut pankreatiti düşündüren klinik belirtiler, bulgular veya laboratuvar
+anormallikleri geliştiğinde akut pankreatit tanısı düşünülmelidir.
+Rapor edilen olguların çoğu, en az bir haftalık tedaviden sonra gelişmiştir. Pankreatit için
+bilinen risk faktörleri taşımayan hastalarla ilgili olgular rapor edilmiştir. Hastalar, tigesiklin
+tedavisinin kesilmesinden sonra genellikle düzelmektedir. Pankreatit geliştiği düşünülen
+hastalarda tigesiklin tedavisinin kesilmesi düşünülmelidir.
+Altta yatan ciddi bir hastalığı olan kişilerde enfeksiyon tedavisinde tigesiklin kullanım
+deneyimleri sınırlıdır.
+Komplike deri ve deri altı doku enfeksiyonlarındaki klinik çalışmalarda tigesiklin ile tedavi
+edilen hastalarda en sık görülen enfeksiyonlar selülit (%58.6) ve onu takiben majör apsedir
+(%24.9). Klinik araştırmalara, immün sistemi baskılayan dekübit ülseri enfeksiyonu gibi altta
+yatan ciddi hastalığı olanlar veya 14 günden uzun bir süre tedaviye ihtiyacı olan bir
+enfeksiyonu (örneğin nekrotizan fasiit) olan hastalar dahil edilmemiştir. Diyabet (%25.8),
+periferik vasküler hastalık (%10.4), intravenöz ilaç bağımlılığı (%4) ve HIV pozitif
+enfeksiyon (%1.2) gibi komorbid faktörü olan çok az hasta dahil edilmiştir. Ayrıca eşzamanlı
+bakteriyemisi olan hastaların (%3.4) tedavisinde sınırlı deneyim vardır. Bu yüzden bu tür
+hastaları tedavi ederken dikkatli olunması tavsiye edilir. Diyabetik ayak enfeksiyonu alan bir
+hasta grubunda yapılan çalışma sonuçlarında tigesiklin karşılaştırılan ilaca göre daha az
+etkililik göstermiştir. Bu yüzden tigesiklinin bu hastalarda kullanımı önerilmez.
+3 / 19Komplike intraabdominal enfeksiyonlardaki klinik çalışmalarda tigesiklin ile tedavi edilen
+hastalarda en sık görülen enfeksiyonlar komplike apandisit (%50.3) ve onu takiben daha az
+raporlanan komplike kolesistit (%9.6), bağırsak perforasyonu (%9.6) intra abdominal apse
+(%8.7), ve gastrik ve duodenal ülser (%8.3), peritonit (%6.2), komplike divertikülittir (%6.0).
+Bu hastaların %77.8’inde cerrahi olarak ortaya çıkan peritonit mevcuttur. Altta yatan ciddi bir
+hastalığı olan (APACHE II skoru > 15 (%3.3)) veya cerrahi olarak ortaya çıkan çoklu intra
+abdominal apseler (%11.4) gibi) bağışıklık sistemini baskılanmış sınırlı sayıda hasta vardır.
+Eş zamanlı bakteriyemi (%5.6) hastalarında tedavide sınırlı deneyim mevcuttur. Bu yüzden
+bu hastaların tedavisi sırasında dikkatli olunmalıdır. Sıçanlarda yapılan tigesiklin
+çalışmalarının sonuçlarında, kemikte renk değişmesi gözlemlenmiştir. MRSACİN, insanlarda
+diş gelişimi sırasında uygulandığında dişlerde kalıcı renk değişimi ile ilişkili olabilir.
+Klinik olarak belirgin barğırsak perforasyonundan sonra komplike intraabdominal
+enfeksiyonu (kIAE) olan hastalarda tigesiklin monoterapisinden kaçınılmalıdır. Faz III
+komplike intraabdominal enfeksiyon (kIAI) çalışmalarında (n=1642), bağırsak perforasyonu
+ve sepsis/septik şok gelişen 6 hasta tigesiklin ile ve 2 hasta imipenem/cilastatin ile tedavi
+edilmiştir. Tigesiklin uygulanan 6 hastanın APACHE II skorları (ortalama=13),
+imipenem/cilastatin uygulanan diğer 2 hastaya (APACHE II değeri= 4 ve 6) göre daha
+yüksektir. Her iki tedavi grubu arasındaki temel APACHE II skorlarının farklılığı ve hasta
+sayısının azlığından dolayı, bu sonucun tedavi ile ilişkisi kanıtlanamaz.
+Toplam bilirubin konsantrasyonu, protrombin zamanı ve transaminaz artışı tigesiklin ile
+tedavi edilen hastalarda görülmüştür. Tigesiklin tedavisi alan hastalarda önemli karaciğer
+yetmezliği ve fonksiyon bozukluğu olan izole olgular bildirilmiştir. Bu hastalardan
+bazılarında birden fazla eş zamanlı ilaç kullanımı mevcuttur. Tigesiklin tedavisi sırasında
+anormal karaciğer fonksiyon testleri gelişen hastalar karaciğer fonksiyonlarının daha
+kötüleşmesi ihtimaline karşı izlenmeli ve tigesiklin tedavisine devam etmenin riskleri ve
+yararları değerlendirilmelidir. İlacın kesilmesinden sonra karaciğer yetmezliği ortaya
+çıkabilir.
+Hastane kökenli pnömonisi (ventilatör ilişkili pnömoni dahil) olan hastalar ile yapılmış bir
+çalışma MRSACİN’in etkililik ve güvenliliği açısından başarısız olmuştur. Bu çalışmada,
+hastalar tigesiklin (başlangıçta 100 mg, daha sonra her 12 saatte bir 50 mg) veya karşılaştırma
+ilacı uygulanacak şekilde randomize edilmiştir. Ayrıca, hastaların belirlenen ek tedavileri
+almasına izin verilmiştir. Ventilatör ilişkili pnömoni hastalarından oluşan ve tigesiklin verilen
+alt grupta, karşılaştırma ilacı ile kıyaslandığında, daha düşük tedavi oranları (klinik olarak
+değerlendirilebilir popülasyon için %70,1’e karşı %47,9) ve daha yüksek mortalite ((15/122
+[%12.3]e karşı 25/131 [%19.1]) gözlenmiştir.
+Ventilatör ilişkili pnömoni tanısı ve bu zeminde gelişen bakteremisi olan hastalardan
+tigesiklin tedavisi görenlerde karşılaştırma ajanı ile tedavi görenlere oranla daha yüksek
+mortalite görülmüştür (9/18 [%50.0]’a karşı 1/13 [%7.7]).
+Clostridium difficile ile ilişkili diyare, Tigesiklin’in de dahil olduğu neredeyse tüm
+antibakteriyel ajanların kullanımıyla rapor edilmiştir ve hafif dereceli diyareden fatal kolite
+kadar değişkenlik gösterebilir. Antibakteriyel ajanlar ile tedavi, kolonun normal florasını
+değiştirerek C.difficile’nin çoğalmasına neden olur.
+C.difficile, psödomembranöz kolite neden olan A ve B toksinlerini üretir. Bu enfeksiyonlar
+antimikrobiyal tedaviye refrakter olabileceğinden ve kolektomi gerekebileceğinden,
+C.difficile’nin hipertoksin üreten türleri morbidite ve mortalitede artışa neden olur.
+Psödomembranöz kolit, antibiyotik kullanan tüm diyare hastalarında dikkate alınmalıdır. Bu
+durumun antibakteriyel ajanların verilişinden 2 ay sonra ortaya çıktığı rapor edildiği için
+medikal hikayeye dikkat edilmelidir.
+4 / 19Psödomembranöz kolitten şüpheleniliyorsa veya tespit edilmişse C.difficile’ye karşı etkili
+olmayan antibiyotiklerin kesilmesi gerekebilir. Uygun sıvı ve elektrolit yönetimi, protein
+takviyesi, C.difficile’ye yönelik antibiyotik tedavisi ve cerrahi değerlendirme başlatılmalıdır.
+Klinik açıdan belirgin bağırsak perforasyonu veya kaçınılmaz sepsis ya da septik şok
+tablosuna sekonder komplike karın-içi enfeksiyonları olan ciddi derecede hastalara, tigesiklin
+tedavisi uygulanması durumunda, kombine antibakteriyel tedavi verilmesinin gerekliliği
+düşünülmelidir.
+Tigesiklinin antikoagülanlarla birlikte uygulanması durumunda hastalar, protrombin zamanı
+veya uygun olan diğer antikoagülasyon testleriyle izlenmelidir.
+Bu tıbbi ürün her ml’sinde 1 mmol (23 mg)’dan daha az sodyum ihtiva eder. Bu dozda
+sodyuma bağlı herhangi bir olumsuz etki beklenmez
+4.5. Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+Çalışmalar sadece yetişkinlerde yapılmıştır.
+Bir ilaç etkileşim çalışmasında Tigesiklin (100 mg’ın ardından her 12 saatte bir 50 mg) ve
+digoksin (0.5 mg’ın ardından 24 saatte bir 0.25 mg) sağlıklı gönüllülere uygulanmıştır.
+Tigesiklin, digoksinin Cmaks’ında hafif (%13) düşüşe yol açmış fakat EAA (Eğri altında
+kalan alan) ya da klerensini etkilememiştir. Cmaks’daki bu ufak değişiklik, EKG interval
+ölçümlerindeki değişiklikler ile de gösterildiği üzere, digoksinin kararlı-durum
+farmakodinamiğini değiştirmemiştir. Tigesiklinin önerilen dozu yetişkin sağlıklı gönüllülere
+uygulandığında digoksinin klirensini ( 0.5 mg’ı takiben günlük 0.25 mg) veya emilim
+hızı/kapsamını etkilemez. Ayrıca, digoksin de tigesiklinin farmakokinetik profili üzerinde
+herhangi bir etkiye yol açmamıştır. Bu nedenle, Tigesiklin‘in digoksin ile birlikte kullanıldığı
+durumlarda herhangi bir doz ayarlamasına gerek yoktur.
+Sağlıklı gönüllülere tigesiklin (100 mg ve ardından her 12 saatte bir 50 mg) ile varfarinin (25
+mg tek doz) birlikte uygulanması ile R-varfarin ve S-varfarin klerenslerinde, sırasıyla, % 40
+ve % 23 azalma, Cmaks değerinde sırasıyla % 38 ve % 43 artma ve EAA’de ise, sırasıyla, %
+68 ve % 29 artış meydana gelmiştir. Bu etkileşim mekanizması henüz aydınlatılmamıştır.
+Tigesiklin, varfarinin INR (International normalized ratio, PT) üzerine etkilerini önemli
+düzeyde değiştirmemiştir. Ayrıca varfarin, tigesiklinin farmakokinetik profilini
+değiştirmemiştir.
+Tigesiklinin varfarin ile birlikte uygulandığı hallerde, protrombin zamanı ya da uygun olan bir
+başka antikoagulasyon testi ile monitorizasyon yapılması uygun olur. Varfarin tigesiklin
+farmakokinetik profilini etkilememiştir.
+İnsan karaciğer mikrozomları ile yapılan in vitro çalışmalarda, sitokrom P450 (CYP)
+izoformlarından 1A2, 2C8, 2C9, 2C19, 2D6 ve 3A4 aracılığıyla gerçekleşen metabolizmaların
+tigesiklin ile inhibe edilmediği gösterilmiştir. Bu nedenle MRSACİN’in, bu enzimlerle
+metabolize olan diğer ilaçların metabolizmalarını değiştirmesi beklenmez.
+Ayrıca, tigesiklin kapsamlı olarak metabolize olmadığı için, bu izoformları inhibe eden ya da
+uyaran ilaçların tigesiklinin klirensini etkilemeleri de beklenmemektedir. İn vitro ortamda
+tigesiklin CYP450 enziminin ne kompetitif inhibitörü ne de geri dönüşümsüz inhibitörüdür.
+İn vitro çalışmalarda tigesiklin ile diğer sık kullanılan antibiyotik sınıfları arasında
+antagonizma gözlenmemiştir.
+5 / 19Antibiyotiklerin oral kontraseptiflerle birlikte kullanımı, oral kontraseptif etkinliğini
+azaltabilir.
+Bir in vitro çalışmaya göre tigesiklin bir P-gp substratıdır. P-gp inhibitörleri (örn. ketakonazol
+veya siklosporin) veya P-gp indükleyicileri (örn. rifampisin) ile birlikte kullanılması
+tigesiklinin farmakokinetiğini etkileyebilir.
+Özel popülasyonlara ilişkin ek bilgiler:
+Özel popülasyonlara ilişkin herhangi bir etkileşim çalışması yapılmamıştır.
+Pediyatrik popülasyon:
+Pediyatrik popülasyona ilişkin herhangi bir etkileşim çalışması yapılmamıştır.
+4.6. Gebelik ve laktasyon
+Genel tavsiye
+Gebelik kategorisi: D
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon)
+Çocuk doğurma potansiyeli bulunan kadınlar uygun ve etkili bir doğum kontrol yöntemi
+kullanmalıdır.
+Antibiyotiklerin oral kontraseptiflerle birlikte kullanımı, oral kontraseptif etkinliğini
+azaltabilir.
+Gebelik dönemi
+Gebelerde tigesiklin kullanımına dair hiçbir veri yoktur ya da sınırlı miktarda veri vardır.
+Hayvan deneylerinin sonuçları, MRSACİN’in üreme toksisitesine sebep olduğunu
+göstermiştir (Bkz. Bölüm 5.3). İnsanlara yönelik potansiyel risk bilinmemektedir. Yüksek
+kalsiyum döngüsü ile dokulardaki zenginleşmeye ve kalsiyum şelat kompekslerinin
+oluşumuna bağlı olarak tetrasiklin sınıfı antibiyotiklerde bilindiği gibi tigesiklin hamileliğin
+ikinci yarısında ve 8 yaşından küçük çocuklarda kullanıldığında kalıcı diş hasarı (renk
+değişimi ve mine bozukluğu) ve fetüste osifikasyon prosesinde gecikmeye sebep olabilir.
+MRSACİN gebelikte, klinik durum tigesiklin ile tedavi gerektirmedikçe kullanılmamalıdır.
+Tigesiklin, doğum öncesi ve sırasında kullanılmak üzere araştırılmamıştır. MRSACİN gerekli
+olmadıkça gebelik döneminde kullanılmamalıdır.
+Laktasyon dönemi
+Bu ilacın insan sütüne geçip geçmediği bilinmemektedir. Hayvanlarda mevcut
+farmakodinamik/toksikolojik veriler sütte tigesiklin/metabolitlerin atılımını göstermiştir (Bkz.
+Bölüm 5.3). Bu risk yenidoğanlar/bebekler için göz ardı edilemez. Emzirmenin kesilmesi
+veya çocuğun emzirilmesinin yararı ve kadının tedavisinin yararı dikkate alınarak tigesiklin
+tedavisinden vazgeçilmesine/bırakılmasına karar verilmelidir.
+Üreme yeteneği / Fertilite
+EAA (eğri altında kalan alan) baz alınarak insandaki günlük dozun 4.7 katı dozda tigesiklin
+uygulanması ile sıçanlarda çiftleşme ve fertilite üzerinde bir etki gözlemlenmemiştir. Dişi
+sıçanlarda aynı dozlar tigesiklin uygulanmasının ardından yumurtalık veya estrus siklusunda
+etkin madde ile ilişkili etkiler gözlemlenmemiştir. fertilite üzerine yeterli bilgi
+bulunmamaktadır.
+4.7. Araç ve makine kullanımı üzerindeki etkiler
+MRSACİN baş dönmesine yol açabilir ve bu nedenle araç veya makina kullanım yeteneğini
+bozabilir.
+6 / 194.8. İstenmeyen etkiler
+Faz III ve IV klinik çalışmalarda tigesiklin ile tedavi edilen toplam komplike deri ve deri
+yapısı enfeksiyonları ve komplike intraabdominal enfeksiyonlar hasta sayısı 2393’tür.
+Klinik çalışmalarda ilaç ile alakalı acil tedavi gerektiren en sık bildirilen yan etkiler geri
+dönüşümlü bulantı (%21) ve kusmadır (%13). Genellikle bu yan etkiler erken dönem
+(tedavinin 1-2 günü) görülür ve genellikle hafif veya orta şiddettedir.
+MRSACİN ile bildirilen yan etkiler klinik çalışmaları ve pazarlama sonrası deneyimleri
+içermekte olup aşağıda listelenmiştir. İstenmeyen etkiler aşağıdaki kategorilere göre
+listelenmiştir:
+Çok yaygın (≥1/10), yaygın (≥1/100 ila <1/10), yaygın olmayan (≥1/1.000 ila <1/100), seyrek
+(≥1/10.000 ila <1/1.000), çok seyrek (<1/10.000), bilinmiyor: eldeki verilerden hareketle
+tahmin edilemiyor.
+MRSACİN ile elde edilen pazarlama sonrası deneyimler spontan raporlardan elde edilmiş
+olup sıklıkları tahmin edilememektedir. Bu yüzden bilinmiyor olarak sınıflandırılmışlardır.
+Enfeksiyonlar ve Enfestasyonlar:
+Yaygın: Pnömoni, apse, enfeksiyonlar, sepsis/septik şok
+Kan ve lenf sistemi hastalıkları:
+Yaygın: Aktive parsiyel tromboplastin zamanında uzama (aPTT), protrombin zamanında
+uzama (PT)
+Yaygın olmayan: Trombositopeni, enternasyonal normalize oranda (INR) artma
+Bilinmiyor: Hipofibrinojenemi
+Bağışıklık sistemi hastalıkları:
+Bilinmiyor: Anaflaktik/anaflaktoid reaksiyonlar* (Bkz. Bölüm 4.3 ve 4.4)
+Metabolizma ve beslenme hastalıkları:
+Yaygın: Bilirubinemi, hipoglisemi, hipoproteinemi
+Sinir sistemi hastalıkları:
+Yaygın: Baş dönmesi
+Vasküler hastalıklar:
+Yaygın: Flebit
+Yaygın olmayan: Tromboflebit
+Gastrointestinal hastalıklar:
+Çok yaygın: Bulantı, kusma, diyare
+Yaygın: Karın ağrısı, anoreksi, dispepsi
+Yaygın olmayan: Akut pankreatit
+Hepato-biliyer hastalıklar:
+Yaygın: Serum aspartat aminotransferaz (AST) yüksekliği, serum alanin aminotransferaz
+(ALT) yüksekliği, hiperbilirunemi.
+Yaygın olmayan: Sarılık, karaciğer hasarı (çoğunlukla kolestatik)
+7 / 19Bilinmiyor: Karaciğer yetmezliği (Bkz. Bölüm 4.4. Özel kullanım uyarıları ve önlemleri)
+Deri ve derialtı dokusu hastalıkları:
+Yaygın: Kaşıntı, döküntü
+Bilinmiyor: Steven Johnson Sendromu dahil ciddi deri reaksiyonları*
+Genel bozukluklar ve uygulama bölgesine ilişkin hastalıklar:
+Yaygın: Baş ağrısı, anormal doku iyileşmesi, enjeksiyon bölgesi reaksiyonları
+Yaygın olmayan: Enjeksiyon bölgesinde inflamasyon, ağrı, ödem ve flebit.
+Araştırmalar:
+Yaygın: Serumda amilaz yükselmesi, kan üre azotunda yükselme (BUN).
+*Pazarlama sonrası yaşanan advers reaksiyonlar
+Antibiyotik Sınıf Etkileri:
+Hafif düzeyden yaşamı tehdit edici boyutlara kadar değişik düzeylerde psödomembranöz kolit
+(Bkz. Bölüm 4.4).
+Mantarlar dahil duyarlı olmayan organizmalarda çoğalma (Bkz. Bölüm 4.4).
+Tetrasiklin Sınıf Etkileri:
+Glisilsiklin sınıfı antibiyotikler, yapısal olarak tetrasiklin sınıfı antibiyotiklere benzemektedir.
+Tetrasiklin sınıfına özgü advers reaksiyonlar arasında fotosensitivite, psödotümör serebri,
+pankreatit ve kan üre azotunda (BUN) yükselme, azotemi, asidoz, hiperfosfatemi
+bulunmaktadır (Bkz. Bölüm 4.4).
+Tigesiklin, diş gelişimi sırasında kullanıldığında dişlerde kalıcı renk değişikliğine neden
+olabilir (Bkz. Bölüm 4.4).
+Faz 3 ve 4 komplike deri ve deri yapısı enfeksiyonları ve komplike intraabdominal
+enfeksiyonların klinik çalışmalarında, enfeksiyonla ilgili ciddi advers etkiler, tigesiklin ile
+tedavi gören hastalarda karşılaştırma ajanına göre daha sık rapor edilmiştir (%7.1’e karşılık
+%5.3). Sepsis/septik şok açısından karşılaştırma ajanı (%1.1) ile tigesiklin (%2.2)
+karşılaştırıldığında belirgin bir fark gözlenmiştir.
+AST ve ALT anormallikleri tigesiklin ile tedavi edilen hastalarda tedaviden sonra,
+karşılaştırıldığı ilacı kullanan hastalarda ise tedavi sırasında, daha sık görülmüştür.
+Karşılaştırma ilacı kullanılan 13 adet faz 3 ve faz 4 çalışmalarının toplu analizinde, tigesiklin
+alan hastaların %2,4’ünde (54/2216) ve karşılaştırma ilaçları alan hastaların %1,7’sinde
+(37/2206) ölüm bildirilmiştir.
+Bu çalışmaların birleştirilmiş analizinde karşılaştırma ilacı alan hastalar ile tigesiklin alan
+hastalar arasında tüm ölüm sebeplerinin risk farkı %0.9 (%95 CI 0.1, 1.8) olarak bulunmuştur.
+Bu çalışmaların toplu analizinde, çalışma ağırlığına bağlı rastgele etki modeline göre,
+tigesiklin ve karşılaştırma ajanı tedavisi gören hastalar arasında tüm ölüm sebeplerine bağlı
+düzeltilmiş risk farkı %0.6 (%95 CI, 0.1, 1.2) olmuştur.
+Tigesiklin ile karşılaştırma ajanı arasında enfeksiyon tipine göre önemli bir farklılık
+gözlenmemiştir Konu ile ilgili olarak dengeli sonuçların elde edilmeme nedeni
+tanımlanamamıştır. Genel olarak ölümler, altta yatan komorbidite veya enfeksiyonun
+kötüleşmesi ya da komplikasyonları sonucu meydana gelmiştir.
+Tigesiklin tedavisi sırasında en sık bildirilen acil tedavi gerektiren advers reaksiyonlar bulantı
+% 26 (%17’u hafif, % 8’i orta şiddette, %1’i şiddetli) ve kusma % 18 (%11’i hafif, % 6’sı orta
+8 / 19şiddette, % 1’i şiddetli) olmuştur. Bulantı ve kusma genellikle tedavinin başlangıcında ( 1.-2.
+günlerde) ortaya çıkmıştır.
+Özel popülasyonlara ilişkin ek bilgiler
+Pediyatrik popülasyon
+Çoklu doz farmakokinetik (PK) çalışmasında çok limitli güvenlik verisi elde edilmiştir. Bu
+çalışmada tigesiklin ile yeni veya beklenmedik bir güvenlilik profili gözlenmemiştir.
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir (www.titck.gov.tr; e-
+posta:tufam@titck.gov.tr; tel: 0 800 314 00 08, faks: 0 312 218 35 99).
+4.9. Doz aşımı ve tedavisi
+Doz aşımı durumunda uygulanacak tedavi ile ilgili spesifik bir bilgi yoktur. Tigesiklinin
+sağlıklı gönüllülerde tek doz olarak 300 mg (60 dakika içinde, intravenöz) şeklinde
+uygulanması, bulantı ve kusmanın artmasına yol açmıştır. Tigesiklinin hemodiyaliz ile
+anlamlı miktarda atılımı mümkün değildir.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1. Farmakodinamik özellikler
+Farmakoterapötik grup: Tetrasiklinler
+ATC kodu: J01AA12
+Etki mekanizması:
+Tigesiklin, bakterilerde ribozomların 30S altünitesine bağlanarak amino-acyl tRNA
+moleküllerinin ribozomun A bölgesine girmesini bloke eder ve protein translasyonunu inhibe
+eder. Bu, uzayan peptid zincirine aminoasit moleküllerinin girişini engeller. Buna ek olarak
+tigesiklin, ribozomal korunma ve efluks gibi iki önemli tetrasiklin direnç mekanizmasına karşı
+gelme özelliğine sahiptir. Bu nedenle tigesiklinin, geniş bir bakteriyel patojen spektrumuna
+karşı in vitro ve in vivo etkinlik gösterdiği ortaya konmuştur. Enterobacteriaceae’larda ı
+tigesiklin ile minosikline dirençli suşlar arasında efluks pompasına bağlı çoklu ilaç direnci
+(MDR) gösterilmiştir.
+Tigesiklin ile diğer birçok antibiyotik arasında hedef bazlı çapraz direnç gözlemlenmemiştir.
+İn vitro çalışmalarda, tigesiklin ile sık kullanılan diğer antibiyotikler arasında hiçbir
+antagonist etkiye rastlanılmamıştır.
+Tigesiklin Proteeae ve Pseudomonas aeruginosa’nın kromozomal olarak kodlanmış çoklu
+ilaç efluks pompasına duyarlıdır. Proteeae ailesi patojenleri (Proteus spp., Providencia spp.,
+ve Morganella spp.) Enterobacteriaceae’ın diğer türlerine nazaran genellikle tigesikline karşı
+daha az duyarlıdır. Her iki gruptaki duyarlılığın azalması spesifik olmayan AcrAB çoklu ilaç
+efluks pompasının fazla ekspresyonuna bağlanmaktadır. Acinetobacter baumannii’de
+duyarlılığın azalması AdeABC efluks pompasının fazla ekspresyonuna bağlanmaktadır.
+Tigesiklin genellikle bakteriostatik olarak değerlendirilmektedir. Minimum inhibitör
+konsantrasyonun (MİK) 4 katı konsantrasyonda tigesiklin ile Enterococcus suşları,
+Staphylococcus aureus ve Escherichia coli’ye karşı koloni sayımında 2-log azalma
+görülmektedir. Neisseria gonorrhea’ya karşı tigesiklin ile kısmi bakterisidal etki ve 3-log
+azalma gözlemlenmiştir.
+9 / 19Tigesiklin ayrıca, S. pneumoniae, H.influenzae ve L.pneumophila gibi yaygın solunum yolu
+suşlarına karşı bakterisidal etki göstermiştir.
+Mümkün olduğu takdirde, klinik mikrobiyoloji laboratuvarı, yerel hastaneler ve uygulama
+alanlarında kullanılan antimikrobiyal ilaçlara ait kümülatif in vitro duyarlılık test sonuçlarını,
+nozokomiyal ve toplum kökenli patojenlerin duyarlılık profilini tanımlayan periyodik
+raporları hekimlere sunmalıdır. Bu raporlar, hekimlerin en etkili antimikrobiyal ilacı
+seçmelerinde yardımcı olacaktır.
+Avrupa Komitesi Antimikrobiyal Duyarlılık Testi (EUCAST) tarafından yayınlanan
+minimum inhibe edici konsantrasyon (MİK) eşik değerleri aşağıdaki gibidir.
+Staphylococcus spp. S ≤ 0.5 mg/L ve R > 0.5 mg/L
+S. pneumoniae dışında Streptococcus spp. S ≤ 0.25 mg/L ve R > 0.5 mg/L
+Enterococcus spp. S ≤ 0.25 mg/L ve R > 0.5 mg/L
+Enterobacteriaceae S ≤ 1(^) mg/L ve R > 2 mg/L
+(^)Tigesiklin Proteus, Providencia, ve Morganella spp. karşı azalmış in vitro aktiviteye
+sahiptir.
+Anaerobik bakteriler için polimikrobiyal intra abdominal enfeksiyonlarda klinik olarak
+etkililik kanıtları olmakla birlikte MİK değerleri, farmakokinetik/farmakodinamik PK/PD
+verileri ve klinik çıktılar arasında bir korelasyon yoktur. Bu yüzden duyarlılık eşik değeri
+verilmemiştir. Bilinmelidir ki Bacteroides ve Clostridium cins organizmalar için MİK
+dağılımı geniş olup 2 mg/L tigesiklini aşan değerleri içerebilir.
+Tigesiklinin enterokoklara karşı klinik etkililiği olduğuna dair sınırlı kanıt bulunmaktadır.
+Bunun yanında klinik çalışmalarda polimikrobiyal intra abdominal enfeksiyonların tigesiklin
+tedavisine yanıt verdiği gösterilmiştir.
+Duyarlılık:
+Edinilmiş direnç prevalansı coğrafik bölgelere göre ve belirli türler için zamana göre
+değişkenlik gösterebilir; bu nedenle, özellikle şiddetli enfeksiyonların tedavisinde dirençle
+ilgili lokal bilgi bulunması çok önemlidir. Aşağıda yer alan bilgiler, mikroorganizmaların
+tigesikline duyarlı olup olmayacağını belirlemeye yönelik tahmini bir kılavuz niteliğindedir:
+Patojen
+Gram pozitif aeroblar:
+Enterococcus türleri 
+Staphylococcus aureus*
+Staphylococcus epidermidis
+Staphylococcus haemolyticus
+Streptococcus agalactiae*
+Streptococcus anginosus* ( S. anginosus, S. intermedius ve S. constellatus dahil)
+Streptococcus pyogenes*
+Viridans grup streptococci
+Gram negatif aeroblar
+Citrobacter freundii*
+Citrobacter koseri
+Escherichia coli*
+10 / 19Klebsiella oxytoca*
+Anaerob bakteriler
+Clostridium perfringens
+Peptostreptococcus spp. 
+Prevotella spp.
+Kazanılmış direncin problem olabileceği türler
+Gram negatif aeroblar
+Acinetobacter baumannii
+Burkholderia cepacia
+Enterobacter aerogenes
+Enterobacter cloacae*
+Klebsiella pneumoniae*
+Morganella morganii
+Proteus spp.
+Providencia spp.
+Serratia marcescens
+Stenotrophomonas maltophilia
+Aeroblar
+Bacteroides fragilis group†
+Kalıtsal olarak dirençli organizmalar
+Gram negatif aeroblar
+Pseudomonas aeruginosa
+*Klinik çalışmalarda gösterilen aktivitenin tatmin edici olduğu şeklinde değerlendirilen türleri
+belirtmektedir.
+*Bölüm 5.1’e bakınız, eşik değerleri yukarıdadır
+Kardiyak Elektrofizyoloji
+Randomize, plasebo ve aktif, kontrollü dört kollu çapraz QTc çalışmasında 46 sağlıklı
+gönüllüde, tigesiklinin 50 mg veya 200 mg'lık tek bir intravenöz dozunun QTc aralığı
+üzerinde anlamlı etkisi gözlenmemiştir.
+Pediyatrik popülasyon
+Açık-etiketli, artan çoklu doz çalışmasında, 8 ila 11 yaşları arasında kİAE veya kDYDE’li 39
+çocuğa tigesiklin (0.75, 1 veya 1.25 mg / kg) uygulandı. En fazla 14 ardışık gün olmak üzere,
+4. günde veya sonrasında oral antibiyotiğe geçme seçeneği ile tüm hastalar en az 3 ardışık gün
+boyunca IV tigesiklin aldılar.
+Klinik iyileşme son dozun uygulanmasından 10 ve 21 gün sonra değerlendirildi.
+Modifiye tedavi etme amaçlı (mITT) popülasyon sonuçlarındaki klinik cevabın özeti
+aşağıdaki tabloda gösterilmiştir.
+Klinik tedavi / mITT popülasyonu
+0.75 mg/kg 1 mg/kg 1.25 mg/kg
+Endikasyon n/N(%) n/N(%) n/N(%)
+kİAE 6/6 (100.0) 3/6 (50.0) 10/12 (83.3)
+kDYDE 3/4 (75.0) 5/7 (71.4) 2/4 (50.0)
+Genel 9/10 (90.0) 8/13 (62.0%) 12/16 (75.0)
+Bu çalışmada birlikte kullanılan başka antibiyotikler de olduğu için, gösterilen etkililik
+verileri dikkatli incelenmelidir. Ayrıca, az hasta sayısı da dikkate alınmalıdır.
+11 / 19Direnç
+Avrupa’da yapılan gözlem çalışmalarında tigesikline duyarlı olduğu belirlenen suşlarda
+direnç seyrek olarak görülmüştür. Tigesiklin ile diğer antibiyotikler arasında hiçbir çapraz
+direnç gelişimi olmamıştır.
+Tigesiklin, tetrasiklin için iki önemli direnç mekanizması olan ribozomal korunma ve efluksa
+karşı gelme özelliğine sahiptir. İn vitro çalışmalarda tigesiklin ile diğer antibiyotik sınıfları
+arasında hiçbir antagonizma gözlemlenmemiştir.
+Klinik etkililik ve güvenlilik
+Komplike Deri ve Deri Yapısı Enfeksiyonları:
+Tigesiklinin, yetişkinlerde komplike deri ve deri yapısı enfeksiyonlarının tedavisindeki
+(cSSSI) etkinliği iki randomize, çift-kör, aktif kontrollü, çok uluslu ve çok merkezli çalışmada
+değerlendirilmiştir. Bu çalışmalarda 5-14 gün arasında uygulan Tigesiklin dozu (100 mg
+başlangıç dozu takiben her 12 saatte bir 50 mg I.V.), vankomisin (12 saatte bir 1 gr
+I.V.)/aztreonam (12 saatte bir 2 gr I.V.) ile karşılaştırılmıştır. Bu çalışmalara, yara
+enfeksiyonları ve selülit (≥10 cm, cerrahi girişim/drenaj gerektiren veya altta yatan komplike
+hastalığı olan), major apseler, enfekte ülserler ve yanık gibi komplike derin yumuşak doku
+enfeksiyonu olan hastalar alınmıştır. Etkililik için primer son nokta, iyileşmenin
+değerlendirildiği vizitte (TTOC –Test of Cure), klinik açıdan değerlendirilebilir grup (CE-
+Clinically Evaluable) ile klinik modifiye tedaviye niyet grubundaki (c-mITT: clinical
+modified intent to treat) hastalardaki klinik yanıt oranıdır. (Bkz. Tablo 1) Mikrobiyolojik
+olarak değerlendirilebilinen hastalarda TOC’daki klinik iyileşme oranı aşağıdaki tabloda
+verilmiştir.
+Tablo 1: Komplike Deri ve Deri Yapısı Enfeksiyonlarında
+5-14 günlük Tedavi Sonucunda Klinik Yanıt Oranları
+Tigesiklina Vankomisin/ Aztreonamb
+n/N (%) n/N (%)
+Çalışma 300
+CE 165/99 (82.9) 163/198 (82.3)
+c-mITT 209/277 ( (75.5) 200/260 (76.9)
+a başlangıçta 100 mg daha sonra her 12 saatte bir 50 mg
+b Vankomisin (her 12 saatte bir 1 g I.V.) /Aztreonam (her 12 saatte bir 2 g I.V.)
+Tigesiklin, diyabetik ayak enfeksiyonlu hastalarda ertapenem ile karşılaştırmalı yapılan
+çalışmada eşdeğerlik kriterini karşılamamıştır
+Komplike İntraabdominal Enfeksiyonlar:
+Tigesiklin yetişkinlerde komplike intraabdominal enfeksiyonların (cIAI) tedavisindeki
+etkinliği, iki randomize, çift-kör, aktif kontrollü, çok uluslu ve çok merkezli çalışmada
+değerlendirilmiştir. Bu çalışmalarda 5-14 gün süreyle uygulanan tigesiklin (100 mg’lık
+başlangıç dozunu takiben her 12 saatte bir 50 mg I.V.) imipenem/silastatin (her 6 saatte bir
+500 mg I.V.) ile karşılaştırılmıştır. Bu çalışmalara apandisit, kolesistit, divertikülit,
+gastrik/duodenal perforasyon, intraabdominal apse, bağırsak perforasyonu ve peritonit gibi
+komplike tanılı hastalar dahil edilmiştir. Primer etkinlik son noktası, iyileşme değerlendirmesi
+vizitinde (TOC) mikrobiyolojik açıdan değerlendirilebilir popülasyon (ME) ile mikrobiyolojik
+modifiye tedaviye niyet populasyonundaki (m-mITT) klinik yanıttır. (Bkz. Tablo 2)
+Mikrobiyolojik olarak değerlendirilebilinen hastalarda TOK’daki klinik iyileşme oranı
+aşağıdaki tabloda verilmiştir.
+12 / 19Tablo 2: Komplike İntraabdominal Enfeksiyonlarda 5-14 gün Süreli Tedaviyi Değerlendiren
+İki Pivotal Çalışmadaki Klinik İyileşme Oranları
+Tigesiklina İmipenem /Silastatinb
+n/N (%) n/N (%)
+Çalışma 301
+ME 199/247 (80.6) 210/255 (82.4)
+m-mITT 227/309 (73.5) 244/312 (78.2)
+Çalışma 306
+ME 242/265 (91.3) 232/258 (89.9)
+m-mITT 279/322 (86.6) 270/319 (84.6)
+a Başlangıçtaki 100 mg dozdan sonra her 12 saatte bir 50 mg
+b İmipenem/Silastatin (her 6 saatte bir 500 mg)
+Toplum Kökenli Bakteriyel Pnömoni
+Tigesiklin, erişkinlerde yapılan randomize, çift kör, aktif kontrollü, çok uluslu, çok merkezli
+iki çalışmada toplum kökenli bakteriyel pnömoninin tedavisi açısından değerlendirilmiştir
+(çalışma 308 ve 313). Bu çalışmalarda Tigesiklin (100 mg intravenöz başlangıç dozunun
+ardından her 12 saatte bir 50 mg), levofloksasin (her 12 veya 24 saatte bir 500 mg intravenöz)
+ile karşılaştırılmıştır. Bir çalışmada (çalışma 308), en az 3 günlük intravenöz tedaviden sonra
+her iki tedavi kolunda oral levofloksasin’e (günde 500 mg) geçişe izin verilmiştir. Tedavinin
+toplam süresi 7- 14 gündür. Çalışmalara, hospitalizasyon ve intravenöz tedavi gereken
+toplumdan edinilmiş bakteriyel pnömoni hastaları dahil edilmiştir. Primer etkinlik son
+noktası, klinik açıdan değerlendirilebilir (CE) ve klinik açıdan modifiye tedavi ilacını en az
+bir kez alan hastaların (c-mITT) ko-primer popülasyonlarında, iyileşmenin değerlendirildiği
+vizitteki (Test of Cure-TOC) klinik yanıttır. (bkz. Tablo 2). Mikrobiyolojik açıdan
+değerlendirilebilir hastalarda, patojene göre TOC’da görülen klinik iyileşme oranları Tablo
+3’de sunulmaktadır.
+Tablo 3. Toplum Kökenli Bakteriyel Pnömoni’de Yapılan İki Çalışmada Toplam 7-14
+Gün Süreli Tedaviden Sonra Klinik İyileşme Oranları
+Tigesiklina Levofloksasinb % 95 GA
+n/N (%) n/N (%)
+Çalışma 308d
+CE 125/138(90.6) 136/156(87.2) (-4.4, 11.2)
+c-mITT 149/191(78) 158/203(77.8) (-8.5, 8.9)
+Çalışma 313
+CE 128/144(88.9) 116/136(85.3) (-5.0, 12.2)
+c-mITT 170/203(83.7) 163/200(81.5) (-5.6, 10.1)
+a Başlangıçta 100 mg, ardından her 12 saatte bir 50 mg
+b Levofloksasin (her 12 veya 24 saatte bir 500 mg intravenöz)
+c Tedaviler arası farklılık için %95 güvenlik aralığı
+d En az 3 günlük intravenöz tedaviden sonra, çalışma 308’deki her iki tedavi kolunda oral
+levofloksasin’e (günde 500 mg) geçiş izni verilmiştir.
+Tigesiklinin etkinliğini daha iyi değerlendirmek için, mortalite riski yüksek olan ve
+geçmişinde antibiyotik tedavisi alan toplum kökenli bakteriyel pnömoni hastalarında bir post-
+hoc analiz gerçekleştirilmiştir. Yüksek risk grubu, her iki çalışmada, aşağıdakilerden herhangi
+birinin görüldüğü toplum kökenli bakteriyel pnömoni hastalarını içermektedir:
+• Yaş ≥50
+• PSI skoru ≥ 3
+13 / 19• Streptococcus pneumoniae pnömonisi
+Bu analizin sonuçları Tablo 4’te gösterilmektedir. Yüksek risk grubunda en sık rastlanan risk
+faktörü ≥ 50 yaştır.
+Tablo 4. Toplum Kökenli Bakteriyel Pnömoni Hastalarında Klinik İyileşme Oranlarının
+Mortalite Riski Bazında Post-hoc Analizia
+Tigesiklin Levofloksasin % 95 GA
+n/N (%) n/N (%)
+Çalışma 308c
+CE
+Yüksek risk
+Var 93/103(90.3) 84/102(82.4) (-2.3, 18.2)
+Yok 32/35 (91.4) 52/54 (96.3) (-20.8, 7.1)
+c-mITT
+Yüksek risk
+Var 111/142(78.2) 100/134(74.6) (-6.9, 14)
+Yok 38/49 (77.6) 58/69(84.1) (-22.8, 8.7)
+Çalışma 313
+CE
+Yüksek risk
+Var 95/107(88.8) 68/85(80) (-2.2, 20.3)
+Yok 33/37 (89.2) 48/51(94.1) (-21.1, 8.6)
+c-mITT
+Yüksek risk
+Var 112/134(83.6) 93/120(77.5) (-4.2, 16.4)
+Yok 58/69(84.1) 70/80(87.5) (-16.2, 8.8)
+a Ölüm riski yüksek olan hastalar, aşağıdakilerden herhangi birine uyanları kapsamaktadır: yaş
+≥50,
+PSI skoru ≥ 3 veya Streptococcus pneumoniae’ye bağlı bakteriyemi
+b Tedaviler arası farklılık için %95 güvenlik aralığı
+c En az 3 günlük intravenöz tedaviden sonra, çalışma 308’deki her iki tedavi kolunda oral
+levofloksasin’e (günde 500 mg) geçiş izni verilmiştir.
+5.2 Farmakokinetik Özellikler
+Genel Özellikler
+Emilim:
+Tigesiklin intravenöz yolla uygulanır, dolayısıyla biyoyararlanımı %100’dür.
+Dağılım:
+Klinik çalışmalarda gözlemlenen konsantrasyonlarda (0.1-1.0 mcg/mL) tigesiklinin in vitro
+plazma proteinlerine bağlanma oranı ortalama % 71-% 89 arasındadır. Hayvan ve insanlar
+üzerinde yapılan çalışmalar tigesiklinin dokulara hızlı bir şekilde dağıldığını ortaya
+koymuştur.
+14C-tigesiklinin tek doz veya çoklu dozlar halinde verildiği sıçanlarda, radyoaktivitenin birçok
+dokuya iyi bir şekilde dağıldığı, en fazla tutulum olan bölgelerin ise kemik, kemik iliği,
+tükürük bezleri, tiroid bezi, dalak ve böbrekler olduğu görülmüştür. İnsanlarda tigesiklinin
+kararlı durum dağılım hacmi ortalama 500-700 l (7-9 l /kg)’dır ve bu değerler, tigesiklinin
+insanlarda plazma dışında dokulara yaygın bir şekilde dağıldığının bir ifadesidir.
+Tigesiklinin kan-beyin bariyerini geçebildiğine dair veri bulunmamaktadır.
+14 / 19100 mg başlangıç dozu takiben her 12 saatte bir 50 mg tigesiklin verilen bir klinik farmakoloji
+çalışmasında 30 dakika infüzyon için kararlı durum serum tigesiklin Cmaks değeri 866±233
+ng/ml 60 dakika infüzyon için kararlı durum serum tigesiklin Cmaks değeri ise 634±97
+ng/ml’dir. Kararlı durum EAA0-12saat değeri 2349±850 ng.s/ml’dir. Sağlıklı deneklerde
+tigesiklinin spesifik dokular veya vücut sıvılarındaki kararlı durum farmakokinetik profili, iki
+ayrı çalışmada incelenmiştir. Bir bronkoalveolar lavaj çalışmasında, alveolar hücrelerde
+tigesiklinin eğri altında kalan konsantrasyonu (EAA0-12 s ) 134 mcg.s/ml bulunmuştur ve bu
+değer, bu hastalardaki serum EAA0-12 s ’in 78 katıdır.
+Aynı çalışmada epitel doku sıvısındaki EAA (2.28 µg.s/ml) ise serum EAA ’den % 32
+0-12 s 0-12 s
+daha fazla bulunmuştur. Bir deri blister çalışmasında, blister sıvısında EAA (1.61
+0-12 s
+µg.s/ml) değerinin bu deneklerdeki serum EAA değerlerinin yaklaşık % 26 altında
+0-12 s
+olduğu saptanmıştır.
+Bir tek-doz çalışmasında doku ekstraksiyonu için elektif cerrahi ya da medikal prosedürler
+uygulanacak hastalara bu işlem öncesinde 100 mg i.v. tigesiklin verilmiştir. Uygulamadan 4
+saat sonra şu dokulardaki konsantrasyon ölçümü yapılmıştır: safra kesesi, akciğer, kolon,
+sinoviyal sıvı ve kemik. Tigesiklin, seruma oranla safra kesesi (38 kat, 6 hasta), akciğer (3.7
+kat, 5 hasta) ve kolon (2.3 kat, 6 hasta)’da daha yüksek konsantrasyonlara ulaşmıştır. Bu
+dokularda, tigesiklinin çoklu dozlarından sonraki konsantrasyonları ile ilgili çalışma
+yapılmamıştır.
+Biyotransformasyon:
+Ortalama olarak, tigesiklinin % 20'sinden azının atılımdan önce metabolize olduğu tahmin
+edilmektedir. Sağlıklı erkek gönüllülerde, 14C-tigesiklin uygulamasının ardından idrar ve
+feçeste saptanan başlıca 14C işaretli materyal, tigesiklin olmuştur fakat, her biri verilen dozun
+en fazla %10’u kadar miktarlarda olmak üzere , bir glukronid (N-asetil metaboliti) metaboliti
+ve tigesiklin epimeri de bulunmuştur.
+İnsan karaciğer mikrozomları ile yapılan in vitro çalışmalarda, sitokrom P450 (CYP)
+izoformlarından 1A2, 2C8, 2C9, 2C19, 2D6 ve 3A4 aracılığıyla gerçekleşen metabolizmaların
+tigesiklin ile kompetitif inhibisyon ile inhibe edilmediği gösterilmiştir. Ayrıca tigesiklin
+CYP2C9, CYP2C19, CYP2D6 ve CYP3A inhibisyonunda NADPH’e bağımlılık göstermemiş
+olup bu durum CYP enzimlerinin mekanizma bazlı inhibisyonunun olmadığı hakkında fikir
+vermiştir.
+Eliminasyon:
+14C-tigesiklin uygulamasının ardından idrar ve feçeste total radyoaktivitenin saptanması,
+verilen dozun % 59’unun safra/feçes, % 33’ünün ise idrarla atıldığını göstermektedir. Genel
+olarak tigesiklinin primer atılım yolu ve şekli, değişmemiş tigesiklin halinde safra yolu ile
+atılımdır. Değişmemiş haldeki tigesiklinin glukuronidasyonu ve idrarla atılımı sekonder
+yollardır.
+Tigesiklinin toplam klirensi intravenöz infüzyon sonrası 24L/s’dir. Renal klirens toplam
+klirensin %13’üdür. Tigesiklin bireyler arası çeşitliliğin yüksek olmasına rağmen 42 saatlik
+çoklu dozdan sonra serumdan ortalama terminal yarılanma ömrü ile polieksponansiyel
+eliminasyon gösterir.
+P-gp’yı aşırı üreten hücre hattının kullanıldığı bir in vitro çalışmaya göre tigesiklin bir P-gp
+substratıdır. P-gp aracılı taşımanın tigesiklinin in vivo eğilimine potansiyel katkısı
+bilinmemektedir. P-gp inhibitörleri (örn. ketakonazol veya siklosporin) veya P-gp
+indükleyicileri (örn. rifampisin) ile birlikte kullanılması tigesiklinin farmakokinetiğini
+etkileyebilir.
+15 / 19Doğrusallık/Doğrusal olmayan durum:
+Tigesiklin doğrusal farmakokinetik özellik gösterir.
+Hastalardaki karakteristik özellikler
+Karaciğer Yetmezliği:
+Hafif karaciğer bozukluğu olan hastalarda tigesiklinin tek doz farmakokinetiğinin
+değişmediği gözlemlenmiştir. Buna karşılık orta düzeyde karaciğer bozukluğu olanlarda
+(Child Pugh B), tigesiklinin yarı ömrü % 23 uzamış ve sistemik klerensi de % 25 azalmıştır.
+Ayrıca, ileri derecede karaciğer bozukluğu olanlarda (Child Pugh C), tigesiklinin yarı ömrü
+%43 uzamış, klerensi ise %55 azalmıştır (Bkz. Bölüm 4.2).
+Böbrek Yetmezliği:
+Böbrek yetmezliği olan hastalarda tigesiklinin tek doz farmakokinetiğinin değişmediği
+gözlemlenmiştir (kreatin klerensi < 30 mL/dak, n=6). İleri derecede böbrek yetmezliğinde
+EAA (eğri altında kalan alan), normal böbrek fonksiyonları olanlara oranla %30 artmıştır.
+Geriyatrik popülasyon:
+Sağlıklı yaşlı vakalar ile genç vakalar arasında farmakokinetik özellikler açısından önemli bir
+değişiklik gözlemlenmemiştir.
+Pediyatrik Hastalar:
+8-18 yaş aralığındaki hastalarda tigesiklinin farmakokinetik özellikleri belirlenmemiştir.
+Tigesiklin farmakokinetiği 2 çalışmada araştırılmıştır. Birinci çalışma 30 dakika boyunca
+intravenöz olarak tek doz tigesiklin alan (0.5, 1 veya 2 mg/kg doz sınırlaması olmadan) 8-16
+yaş arası (n=24) kapsamaktadır. İkinci çalışma ise 30 dakika boyunca her 12 saatte bir
+intravenöz olarak çoklu doz tigesiklin alan (0.75, 1 veya 1.25 mg/kg, maksimum 50 mg doza
+kadar) 8-11 yaş arası (n=47) kapsamaktadır. Gözlemlenen farmakokinetik parametreler
+aşağıda verilmiştir.
+Çocuklarda 1 mg/kg’a normalize edilen doz ortalama ± SD tigesiklin Cmaks ve EAA
+Yaş (yıl) N Cmaks (ng/mL) EAA (ng.s/mL)*
+Tek Doz
+8-11 8 3881 ± 6637 4034 ± 2874
+12-16 16 8508 ± 11433 7026 ± 4088
+Çoklu doz
+8-11 42 1911 ± 3032 2404 ± 1000
+* tek doz EAA0-∞ , çoklu doz EAA
+0-12s
+Önerilen 100 mg yükleme dozu ve her 12 saatte bir 50 mg sonrası hedef EAA yaklaşık
+0-12s
+2500 ng.s/mL’dir.
+Her iki çalışmanın popülasyon PK analizinde, 8 yaş ve üstü yaştaki çocuklarda vücut ağırlığı
+tigesiklin klirensinin bir kovaryantı olarak tanımlandı.
+8 ile 12< yaş arası çocuklarda her 12 saatte bir 1.2 mg/kg tigesiklin (maksimum doz ; her 12
+saatte 50 mg) ve 12 ile 18 yaş arası adölesanlarda her 12 saatte 50 mg tigeksiklin
+uygulanması, onaylanmış doz rejimi ile tedavi edilen erişkinlerdeki gözlemlenenlerle,
+karşılaştırılabilir maruziyete neden olacaktır.
+Bu çalışmalarda, birçok çocukta erişkin hastalardan daha yüksek Cmaks değerleri
+gözlemlendi.
+Sonuç olarak, çocuklar ve ergenlerde tigesiklinin infüzyon hızına dikkat edilmelidir.
+Cinsiyet:
+Erkek ve kadınlar arasında tigesiklinin klirensi açısından klinik olarak anlamlı bir farklılık
+görülmemiştir. EAA değerinin kadınlarda erkeklere oranla %20 daha fazla olması tahmin
+edilmiştir.
+16 / 19Irk:
+Tigesiklinin klerensinde ırka bağlı bir değişiklik gözlemlenmemiştir.
+Kilo:
+Vücut ağırlığı ≥ 125 kg olan kişilerin de dahil olduğu farklı kilolu hastalarda klirens, ağırlık-
+normalize klirens ve EAA değerleri kayda değer farklı değildir. Vücut ağırlığı ≥ 125 kg olan
+kişilerde EAA %24 daha azdı. Vücut ağırlığı ≥ 140 kg ve üzeri olan hastalar için veri
+bulunmamaktadır.
+5.3 Klinik öncesi güvenlilik verileri
+Sıçanlarda ve köpeklerde yapılan çoklu doz toksisite çalışmalarında sıçan ve köpeklerdeki
+EAA değerleri baz alınarak insandaki günlük dozların sırasıyla 8.0 ve 10.0 katı dozlardaki
+tigesiklin uygulamaları ile kemik iliğinde hiposellülerite ve renal ve gastrointestinal yan
+etkiler ile birlikte lenfoid tükenmesi / lenf bezleri, dalak ve timus atrofisi, eritrosit, retikülosit,
+lökosit ve trombosit sayısında azalma gözlemlenmiştir. Bu değişimlerin iki hafta doz
+uygulaması sonrasında geri dönüşümlü olduğu gösterilmiştir.
+Kemiğin renk değiştirmesi sıçanlarda gözlenmiş olup iki hafta doz uygulaması sonrasında
+geri dönüşümlü değildir.
+Hayvan çalışmaları sonuçlarına göre tigesiklin plasentayı geçerek fetal dokularda
+bulunmuştur. Üreme toksisite çalışmalarında tigesiklin ile sıçan ve tavşanlarda fetal ağırlıkta
+azalma (ossifikasyonda gecikme ile ilgilidir) ve tavşanlarda fetal kayıp gözlenmiştir.
+Tigesiklin sıçan veya tavşanlarda teratojenik değildir. Sıçanlarda EAA değeri baz alınarak
+insandaki günlük dozun 4.7 katı dozlardaki tigesiklin uygulamaları çiftleşmeyi veya fertiliteyi
+etkilememiştir.
+Tigesiklin tavşan ve sıçanlarda teratojenik değildir. Preklinik güvenlilik çalışmalarında 14C-
+işaretli tigesiklinin plasentadan geçtiği ve fetal dokularda (fetal kemik yapısı da dahil) tespit
+edildiği kanıtlanmıştır. Tigesiklinin sıçan ve tavşanlardaki EAA baz alınarak insan günlük
+dozunun sırasıyla 5 katı ve 1 katı (12 ve 4 mg/kg/günde 28 mcg·saat/mL ve 6 mcg·saat/mL)
+uygulaması ile sıçan ve tavşanlarda fetal vücut ağırlığında hafif azalma ve minör iskelet
+anormallikleri (kemik oluşumunda gecikme ile birlikte) insidansında artış gözlenmiştir. .
+İnsan dozuna eşit dozda uygulandığında maternatoksik dozda tavşanlarda fetal kayıp
+insidansında artış görülmüştür.
+14C-işaretlenmiş tigesiklin kullanılan hayvan çalışmaları tigesiklinin emziren sıçanlarda süte
+geçtiğini göstermiştir. Tigesiklinin kısıtlı oral biyoyararlanımı ile uyumlu olarak tigesiklinin
+maternal süte geçmesi sonucu emzirilen yavrularda tigesikline çok az veya herhangi bir
+sistemik maruziyet gözlenmemiştir.
+Karsinojenisite
+Tigesiklinin karsinojenik potansiyelini saptamaya yönelik, yaşam boyu uzun süreli hayvan
+çalışmaları gerçekleştirilmemiştir.
+Mutajenisite
+Çin hamster yumurtalık hücresi (CHO) in vitro kromozom sapma değerlendirmesi, CHO
+hücrelerinde in vitro ileri mutasyon değerlendirmesi (HGRPT locus), fare lenfoma
+hücrelerinde in vitro ileri mutasyon değerlendirmesi ve in vivo mikronukleus
+değerlendirmelerinin de dahil olduğu bir seri testte mutajenik ve klastojenik potansiyel
+gözlenmemiştir.
+17 / 19Hayvan çalışmalarında tigesiklinin bolus I.V. uygulaması ile birlikte bir histamin yanıtı ortaya
+çıktığı görülmüştür. Bu etkiler, sırasıyla sıçan ve köpeklerde, insandaki günlük dozların 14 ve
+3 katı dozlarda kullanımı ile ortaya çıkmıştır.
+Tigesiklin uygulamasının ardından sıçanlarda herhangi bir fotosensitivite bulgusuna
+rastlanmamıştır.
+6. FARMASÖTİK ÖZELLİKLER
+6.1. Yardımcı maddelerin listesi
+Maltoz
+Hidroklorik asit
+Sodyum hidroksit
+6.2. Geçimsizlikler
+Aşağıda belirtilen ilaçlar, MRSACİN ile aynı setten eş zamanlı olarak verilmemelidir:
+Amfoterisin B, Amfoterisin B likit kompleks, diazepam, esomeprazol, omeprazol.
+Uygun intravenöz solüsyonları şunlardır: enjeksiyon için 9 mg/ml (%0.9) sodyum klorür
+solüsyonu (USP) enjeksiyon için 50 mg/ml (%5) dekstroz solüsyonu (USP) ve Laktatlı Ringer
+enjeksiyonu (USP). MRSACİN %0.9 sodyum klorür (USP) veya %5’lik dekstroz solüsyonu
+(USP) ile birlikte uygulandığında aşağıda belirtilen ilaç ya da çözeltiler ile aynı setten
+verilebilir:
+Amikasin, dobutamin, dopamin HCl, gentamisin, haloperidol, Laktatlı Ringer solüsyonu,
+lidokain HCl, metoklopramid, morfin, norepinefrin, piperasilin/tazobaktam (EDTA
+formülasyonu) potasyum HCl, propofol, ranitidin HCl, teofilin, tobramisin.
+6.3. Raf ömrü
+24 ay
+6.4. Saklamaya yönelik özel tedbirler
+25°C altındaki oda sıcaklığında saklayınız.
+Rekonstitüe edilmiş solüsyon turuncu veya koyu turuncu renkte olmalıdır; bu renk
+oluşmamışsa solüsyon kullanılmayıp atılmalıdır.
+Rekonstitüe edildiğinde, tigesiklin oda sıcaklığında (25°C) 24 saate kadar (flakonda 6 saate
+kadar, I.V. torbasında geriye kalan süre boyunca) saklanabilir.
+Alternatif olarak 9 mg/ml (% 0.9)’luk enjeksiyon için sodyum klorür solüsyonu veya 50
+mg/ml (%5)’lik enjeksiyon için dekstroz solüsyonu ve laktatlı ringer solüsyonu ile karıştırılan
+tigesiklin rekonstitüe edilen solüsyonun I.V. torbasına ivedilikle aktarılmasını takiben
+buzdolabında 2-8°C’de 48 saat süreyle saklanabilir.
+6.5. Ambalajın niteliği ve içeriği
+5 ml Tip I berrak cam flakon
+10 flakonluk seperatörlü ambalajlarda sunulur.
+6.6. Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+Uygulama talimatları:
+Liyofilize toz 5 ml, 9 mg/ml (% 0.9)’luk enjeksiyon için sodyum klorür solüsyonu veya 50
+mg/ml (%5)’lik enjeksiyon için dekstroz solüsyonu veya Laktatlı Ringer enjeksiyonu (USP)
+ile karıştırılarak, 10 mg/ml konsantrasyonunda tigesiklin elde edilir. Flakon, ilacın tamamen
+erimesini sağlamak amacıyla hafifçe döndürülmelidir. Daha sonra, derhal hazırlanmış
+solüsyondan flakon içerisinden 5 ml çekilir ve infüzyon için 100 ml I.V. torbasına aktarılır.
+100 mg’lık doz için, 2 flakon ilaç hazırlanarak 100 ml I.V. torbasına aktarılmalıdır.
+Hazırlanan solüsyon turuncu veya koyu turuncu renkte olmalıdır, değilse solüsyon
+kullanılmayıp atılmalıdır. Parenteral ürünler, uygulama öncesinde renk değişikliği (örn.
+yeşil veya siyah) ve partikül açısından mutlaka incelenmelidir. Rekonstitüe edildiğinde oda
+18 / 19sıcaklığında 24 saate kadar (flakonda 6 saate kadar, I.V. torbasında geriye kalan süre
+boyunca) saklanabilir. Alternatif olarak 9 mg/ml (% 0.9)’luk enjeksiyon için sodyum klorür
+solüsyonu veya 50 mg/ml (%5)’lik enjeksiyon için dekstroz solüsyonu ile karıştırılan
+tigesiklin rekonstitüe edilen solüsyonun I.V. torbasına ivedilikle aktarılmasını takiben
+buzdolabında 2-8°C’de 48 saat süreyle saklanabilir.
+MRSACİN tek başına ayrı bir I.V. hattan veya ortak I.V. hat üzerinden uygulanabilir. Aynı
+I.V. hattın peş peşe birkaç ilaç infüzyonu için kullanıldığı durumlarda, MRSACİN
+uygulamasından önce ve sonra damar hattı 9 mg/ml (% 0.9)’luk enjeksiyon için sodyum
+klorür solüsyonu veya 5 mg/ml (%5)’lik enjeksiyon için dekstroz solüsyonu ile
+temizlenmelidir. Tigesiklin ile uyumlu bir infüzyon solüsyonu kullanılmalı ve aynı damar
+hattından uygulanan ilaç (ilaçların) tigesiklin ile geçimli olmasına dikkat edilmelidir (Bkz.
+Bölüm 6.2.).
+Tigesiklin orta-ciddi bakteriyel enfeksiyonların empirik tedavisi için intravenöz kullanılan
+geniş spektrumlu bir antibiyotiktir. Doğrudan doğruya çevreye risk vermez. Onayı takiben EU
+ülkelerinde ve diğer Avrupa ülkelerinde enjeksiyon için uygulama amacı ile dağıtılacaktır.
+Ürünün ana kullanıcıları hastaneler ve klinikler olacaktır. Ürün flakon içinde sunulacaktır.
+Kullanılan ambalaj malzemeleri dosyamızda izah edildiği üzere bu aktif maddenin dağıtımına
+uygun amaçtadır; sağlığa ve çevreye riskli maddeler içermez.
+Kullanılmamış olan ürünler ya da atık materyaller “Tıbbi Atıkların Kontrolü Yönetmeliği” ve
+“Ambalaj ve Ambalaj Atıklarının Kontrolü Yönetmeliği”ne uygun olarak imha edilmelidir.
+7. RUHSAT SAHİBİ
+Biem İlaç San. ve Tic. A.Ş.
+Anıttepe Mah. Turgut Reis Cad. No: 21
+Tandoğan / Çankaya – Ankara
+Tel: 0312 230 29 29
+Faks: 0312 230 68 00
+e-mail: biemilac@biemilac.com.tr
+8. RUHSAT NUMARASI
+2014/377
+9. İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi: 09.05.2014
+Ruhsat yenileme tarihi:
+10. KÜB’ÜN YENİLENME TARİHİ
+19 / 19

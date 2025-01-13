@@ -1,0 +1,797 @@
+KISA ÜRÜN BİLGİSİ
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+BUSULTU 6 mg/ml i.v. infüzyon için konsantre çözelti
+Steril
+Sitotoksik
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde:
+Bir mL konsantre çözelti 6 mg busulfan içerir (10 mL’de 60 mg).
+Seyreltme sonrasında: 1 mL çözelti 0,5 mg busulfan içerir.
+Yardımcı maddeler:
+Yardımcı maddeler için Bölüm 6.1’e bakınız.
+3. FARMASÖTİK FORM
+İnfüzyon için konsantre çözelti (steril konsantre çözelti).
+Görülebilen partikül içermeyen, berrak, renksiz çözeltidir.
+4. KLİNİK ÖZELLİKLER
+4.1 Terapötik endikasyonlar
+BUSULTU, erişkin hastalarda, ardından kullanılan siklofosfamid, pediyatrik hastalarda
+ardından kullanılan siklofosfamid veya melfalan ile kombine olarak, hematopoetik projenitör
+hücre nakli öncesi, kombinasyon tedavisinin en iyi seçenek olduğu düşünüldüğünde hazırlık
+rejimi olarak kullanılır.
+BUSULTU, fludarabini takiben, hematopoetik projenitör hücre nakli öncesi, yoğunluğu
+azaltılmış hazırlık rejimi uygulanacak erişkin hastalarda kullanılır.
+4.2 Pozoloji ve uygulama şekli
+Pozoloji:
+BUSULTU uygulaması, hematopoetik projenitör hücre nakli öncesi hazırlık rejimi konusunda
+uzman bir hekimin gözetimi altında yapılmalıdır.
+BUSULTU, hematopoetik projenitör hücre nakli öncesinde uygulanır.
+BUSULTU, siklofosfamid veya melfalan ile birlikte kullanıldığında;
+Erişkinlerde:
+Önerilen dozaj ve uygulama şeması aşağıdaki gibidir:
+- Vücut ağırlığının kilogramı için 0,8 mg (0,8 mg/kg) busulfan, üst üste 4 gün süreyle her 6
+saatte bir iki saatlik infüzyonlar şeklinde, toplam 16 doz olacak şekilde uygulanır.
+- Ardından, 60 mg/kg/gün dozunda siklofosfamid, 16. BUSULTU dozundan en az 24 saat
+sonra başlayarak, iki gün süreyle uygulanır (bkz. Bölüm 4.5).
+Sayfa 1 / 22BUSULTU, fludarabin ile birlikte kullanıldığında;
+Erişkinlerde:
+Önerilen dozaj ve uygulama şeması aşağıdaki gibidir:
+- Fludarabin 30 mg/m2 günde tek doz olarak, bir saatlik infüzyon şeklinde 5 gün süreyle
+veya 40 mg/m2 günde tek doz olarak 4 gün süreyle uygulanır,
+- Ardından, BUSULTU 3,2 mg/kg günde tek doz olarak, üç saatlik infüzyon şeklinde 2
+veya 3 gün süreyle uygulanır (bkz. Bölüm 4.5).
+Obez hastalar
+Erişkinlerde
+Obez hastalarda BUSULTU dozunun uyarlanmış ideal vücut ağırlığına dayalı olarak
+verilmesi gerekir.
+İdeal vücut ağırlığı (İVA) şu şekilde hesaplanır:
+Erkeklerde İVA (kg) = 50 + 0,91 x (cm olarak boy – 152);
+Kadınlarda İVA (kg) = 45 + 0,91 x (cm olarak boy – 152).
+Uyarlanmış ideal vücut ağırlığı (UİVA) ise, aşağıdaki şekilde hesaplanır:
+UİVA = İVA + 0,25 x (güncel vücut ağırlık – İVA).
+Uygulama şekli:
+BUSULTU kullanılmadan önce seyreltilmelidir (bkz. Bölüm 6.6). Seyreltme sonrasında
+ulaşılması gereken nihai busulfan konsantrasyonu yaklaşık 0,5 mg/mL’dir. BUSULTU,
+santral venöz kateterden intravenöz infüzyon yoluyla uygulanmalıdır.
+BUSULTU, hızlı intravenöz, bolus veya periferik enjeksiyon yoluyla verilmemelidir.
+Yüksek busulfan dozlarıyla bildirilen konvülsiyonları önlemek için, bütün hastalara
+antikonvülsan ilaçlarla premedikasyon uygulanmalıdır. Antikonvülsan uygulaması,
+BUSULTU tedavisinden 12 saat önce başlatılmalı ve son BUSULTU dozundan 24 saat
+sonrasına kadar sürdürülmelidir.
+Erişkinlerde ve çocuklarda çalışmalara dahil edilen bütün hastalara, konvülsiyonları önlemek
+için fenitoin veya benzodiyazepinler uygulanmıştır (bkz. Bölüm 4.4 ve 4.5).
+Antiemetiklere BUSULTU’nun ilk dozundan önce başlanmalı ve yerel uygulamaya göre
+belirlenmiş bir şema uyarınca, BUSULTU kullanımı boyunca uygulamaya devam edilmelidir.
+Özel populasyonlara ilişkin ek bilgiler:
+Böbrek yetmezliği:
+Böbrek bozukluğu olan hastalarda çalışma yapılmamıştır, ancak busulfan orta düzeyde idrarla
+atıldığından, bu hastalarda dozun değiştirilmesi önerilmez. Bununla beraber, dikkatli
+olunması önerilir (bkz. Bölüm 4.8 ve 5.2).
+Sayfa 2 / 22Karaciğer yetmezliği:
+Karaciğer bozukluğu olan hastalarda BUSULTU veya busulfan çalışması yapılmamıştır.
+Özellikle ağır karaciğer bozukluğu olan hastalarda dikkatli olunması önerilir (bkz. Bölüm
+4.4).
+Pediyatrik popülasyon:
+Bu tıbbi ürünün, daha fazla veri elde edilinceye kadar, Vücut Kütle İndeksi (Body Mass
+Index-BMI) > 30 kg/m² olan obez çocuklarda ve ergenlerde kullanılması önerilmez.
+Önerilen BUSULTU dozu aşağıdaki gibidir:
+Güncel vücut ağırlığı (kg) BUSULTU dozu (mg/kg)
+< 9 1
+9 - < 16 1,2
+16 - 23 1,1
+> 23 - 34 0,95
+> 34 0,8
+Ardından, 16. BUSULTU dozundan en az 24 saat sonra başlayarak (bkz. Bölüm 4.5):
+- Vücut ağırlığının her kilogramı için 50 mg (50 mg/kg) dozunda 4 kür siklofosfamid
+(BuCy4) veya
+- Bir kez 140 mg/m² melfalan (BuMel) uygulanır.
+BUSULTU, hematopoetik projenitör hücre nakli öncesinde, siklofosfamid veya melfalandan
+önce, üst üste 4 gün süreyle her 6 saatte bir iki saatlik infüzyonlar şeklinde, toplam 16 doz
+olacak şekilde uygulanır.
+Fludarabinin etkililik ve güvenliliği pediyatrik grupta değerlendirilmemiştir.
+Geriyatrik popülasyon:
+Siklofosfamid veya melfalan ile birlikte kullanıldığında;
+50 yaşın üzerindeki hastalar (n=23), doz ayarlamasına gerek olmaksızın busulfan ile başarılı
+bir şekilde tedavi edilmiştir. Bununla beraber busulfanın 60 yaş üzerindeki hastalarda güvenli
+kullanımı konusunda kısıtlı bilgi bulunmaktadır. Yaşlı hastalarda, erişkinlerle (< 50 yaş) aynı
+doz kullanılmalıdır (bkz. Bölüm 5.2).
+Fludarabin ile birlikte kullanıldığında;
+Fludarabinin etkililik ve güvenliliği özel olarak geriyatrik grupta değerlendirilmemiştir.
+Bununla birlikte yayınlarda bu rejimin uygulandığı 55 yaş üstü 500’den fazla hasta
+bulunmaktadır. Bu hastalarda etkililik daha genç hastalarla benzerdir. Doz ayarlaması
+gerekmemektedir.
+Sayfa 3 / 224.3 Kontrendikasyonlar
+- Etkin madde ya da yardımcı maddelerin herhangi birine karşı aşırı duyarlılığı olduğu bilinen
+hastalarda,
+- Gebelikte (bkz. Bölüm 4.6) kontrendikedir.
+4.4 Özel kullanım uyarıları ve önlemleri
+Hematolojik:
+Önerilen doz ve tedavi şemasına göre uygulanan BUSULTU, bütün hastalarda yoğun kemik
+iliği depresyonuna yol açar. Buna bağlı olarak ağır granülositopeni, trombositopeni, anemi
+veya bunların herhangi bir kombinasyonu gelişebilir. Bu nedenle, tedavi süresince, lökosit alt
+grup dağılımı da dahil olmak üzere tam kan sayımı ve trombosit sayımları sıkça tekrarlanmalı
+ve iyileşme tamamlanıncaya kadar gözlenmelidir. Nötropenik dönemde (bakteriyel, fungal,
+viral) enfeksiyonların önlenmesi ve kontrolü amacıyla, antienfektif ilaçların profilaktik veya
+ampirik kullanımı düşünülmelidir. Tıbbi olarak gerek duyulduğunda, trombosit ve eritrosit
+desteğinin yanı sıra, granülosit koloni stimüle eden faktör (G-CSF) gibi büyüme faktörleri de
+uygulanmalıdır.
+Erişkinlerde, otolog ve allogenik kemik iliği nakli sonrasında ortalama 4 gün içinde,
+hastaların %100’ünde mutlak nötrofil sayısı 0,5x109/L’nin altına düşmüş ve (sırasıyla)
+ortalama 10. ve 13. günde düzelmiştir (ortalama nötropeni dönemi süresi sırasıyla 6 ve 9
+gündür). Hastaların %98’inde, nakil sonrası ortalama 5. - 6. günlerde, trombositopeni
+(<25x109/L veya trombosit transfüzyonu gerektiren) ortaya çıkmıştır. Anemi (hemoglobin
+<8,0 g/dL) hastaların %69’unda görülmüştür.
+Pediyatrik hastalarda, otolog ve allogenik kemik iliği nakli sonrasında ortalama 3 gün içinde,
+hastaların %100’ünde mutlak nötrofil sayısı 0,5x109/L’nin altına düşmüş ve (sırasıyla)
+ortalama 5 ve 18,5 gün sürmüştür. Çocuklarda trombositopeni (<25x109/L veya trombosit
+transfüzyonu gerektiren) hastaların %100’ünde ortaya çıkmıştır. Anemi (hemoglobin
+<8,0g/dL) hastaların %100’ünde görülmüştür.
+9 kg’ın altındaki çocuklarda, özellikle de çok küçük çocuk ve yeni doğanlarda etkin dozun
+izleminin tek tek vakalar için yapılması uygun olacaktır. Fankoni anemisi hücreleri, çapraz
+ajanlara karşı aşırı duyarlılık reaksiyonları gösterirler. Fankoni anemili çocuklarda, busulfanın
+hemopoetik kök hücre nakli öncesi hazırlık rejiminin bir bileşeni olarak kullanılmasıyla ilgili
+klinik deneyim sınırlıdır. Bu nedenle, bu tip hastalarda BUSULTU dikkatli kullanılmalıdır.
+Hepatik:
+Karaciğer bozukluğu olan hastalarda busulfan çalışması yapılmamıştır. Busulfan esas olarak
+karaciğerden metabolize olduğundan, daha önceden karaciğer fonksiyon bozukluğu olduğu
+bilinen hastalarda ve özellikle de ağır karaciğer bozukluğu olanlarda BUSULTU
+kullanıldığında dikkatli olunmalıdır. Bu hastaların tedavisi sırasında, hepatotoksisitenin erken
+belirlenebilmesi için, nakli takip eden 28 gün süresince serum transaminaz, alkalen fosfataz
+ve bilirübin değerlerinin düzenli olarak izlenmesi önerilir.
+Hepatik venooklüzif hastalık, busulfan tedavisi sırasında ortaya çıkabilen önemli bir
+komplikasyondur. Daha önce radyasyon tedavisi uygulanan, üç siklusa eşit veya daha fazla
+Sayfa 4 / 22kemoterapi almış olan veya daha önce projenitör hücre nakli geçirmiş hastalarda risk daha
+yüksek olabilir (bkz. Bölüm 4.8).
+Busulfan metabolizmasını azaltma olasılığı nedeniyle, BUSULTU ile birlikte veya
+BUSULTU tedavisinden önceki 72 saat içinde parasetamol kullanılırken dikkatli olunmalıdır
+(bkz. Bölüm 4.5).
+Kardiyak:
+Klinik çalışmalarda gösterildiği üzere, tedavi edilen hastaların hiçbirinde busulfana bağlı
+olarak kalp tamponadı veya diğer özel kardiyak toksisiteler gözlemlenmemiştir.
+Bununla beraber, BUSULTU kullanan hastalarda kardiyak fonksiyonlar düzenli olarak takip
+edilmelidir (bkz. Bölüm 4.8).
+Pulmoner:
+Busulfan çalışmalarında, kesin etiyoloji belirlenmemişse de, bir hastada intersitisyel akciğer
+fibrozisine bağlı akut solunum sıkıntısı ve bunu izleyen fatal seyirli solunum yetmezliği
+bildirilmiştir. Buna ek olarak, busulfan diğer sitotoksik ajanların etkilerine eklenebilen
+pulmoner toksisiteye neden olabilir. Bu nedenle, daha önce mediastinal veya pulmoner
+radyasyon hikayesi olan hastalarda, akciğerle ilgili bu uyarılar dikkate alınmalıdır. (bkz.
+Bölüm 4.8).
+Renal:
+BUSULTU tedavisi sırasında böbrek fonksiyonlarının düzenli olarak izlenmesi önerilir. (bkz.
+Bölüm 4.8).
+Nörolojik:
+Yüksek dozda busulfan tedavisiyle nöbetler bildirilmiştir. Nöbet hikayesi olan hastalara
+önerilen dozlarda BUSULTU uygulaması, özel dikkat gerektirir. Hastalar yeterli
+antikonvülsan profilaksisi almalıdır. Erişkinlerde ve çocuklarda, busulfan ile fenitoin ve
+benzodiyazepin kullanımı ile ilgili veri bulunmaktadır. Bu antikonvülsanların busulfan
+farmakokinetiği üzerine etkileri Faz II çalışmalarda araştırılmıştır (bkz. Bölüm 4.2 ve 4.5).
+Karsinojenite, Mutajenite:
+İkincil bir malignite açısından risk artışı hastaya açıklanmalıdır. Busulfan, insanlardan elde
+edilen veriler bazında, Uluslararası Kanser Araştırmaları Ajansı (IARC) tarafından insanlarda
+karsinojen olarak sınıflandırılmıştır. Dünya Sağlık Örgütü, busulfana maruz kalma ve kanser
+arasında nedensel bir ilişki olduğu sonucuna varmıştır. Busulfanla tedavi edilen lösemi
+hastalarında pek çok farklı sitolojik anormallik ortaya çıkmış ve bunlardan bir kısmından
+karsinomlar gelişmiştir. Busulfan lökomojenik bir ilaç olarak kabul edilir.
+Üreme yeteneği:
+Busulfan fertiliteyi bozabilir. Bu nedenle, BUSULTU ile tedavi edilen erkeklerin tedavi
+sırasında ve tedavi bitiminden sonra 6 ay süreyle baba olmamaları; ayrıca, BUSULTU ile
+tedavinin geri dönüşümsüz kısırlığa neden olabilmesi nedeniyle, tedavi öncesinde spermin
+Sayfa 5 / 22dondurularak saklanması ile ilgili danışmanlık almaları önerilir. Menopoz öncesi kadınlarda,
+sıklıkla menopoz semptomlarının eşlik ettiği over supresyonu ve amenore oluşmaktadır.
+Ergenlik öncesi bir kız çocuğunda, busulfan tedavisine bağlı yumurtalık yetmezliği nedeniyle
+ergenliğin başlaması engellenmiştir. Erkek hastalarda empotans, kısırlık, sperm sayısında
+azalma ve testiküler atrofi bildirilmiştir. İlacın bileşiminde yer alan çözücü madde
+dimetilasetamid (DMA) de fertiliteyi bozabilir. DMA, erkek ve dişi kemirgenlerde üremeyi
+azaltmıştır (bkz. Bölüm 4.6 ve 5.3).
+Hematopoetik hücre nakli sonrasındaki ölümcül durumlarda dahil trombotik mikroanjiyopati
+vakaları, koşullu tedavi ile birlikte busulfan uygulanan yüksek doz koşullu rejimlerde
+raporlanmıştır.
+4.5 Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+İntravenöz busulfan ve itrakonazol veya metronidazol arasındaki ilaç etkileşimlerini
+değerlendirmek için özel bir klinik çalışma yapılmamıştır. Yayımlanan çalışmalarda, yüksek
+dozda busulfan alan erişkin hastalara uygulanan itrakonazol, busulfanın klirensini azaltmıştır.
+Ayrıca, metronidazol uygulamasından sonra busulfanın kan plazma değerlerinin arttığı vaka
+raporları da yayınlanmıştır. Hastalar, intravenöz busulfanla birlikte antifungal profilaksi
+amacıyla itrakonazal veya metronidazol uygulanması halinde, busulfan toksisitesinin
+belirtileri açısından izlenmelidir.
+Erişkinlerde yapılan yayımlanmış çalışmalarda, ketobemidonun (analjezik) plazma busulfan
+değerlerini yükseltebildiği bildirilmiştir. Bu nedenle, bu iki ilaç birlikte uygulandığında özel
+dikkat gösterilmelidir.
+Erişkinlerde BuCy2 rejimi ile ilgili olarak, son oral busulfan uygulaması ve ilk siklofosfamid
+uygulaması arasındaki zaman aralığının, toksisite gelişimini etkilediği bildirilmiştir. Son oral
+busulfan dozu ile ilk siklofosfamid dozu arasındaki zaman aralığı 24 saatten fazla olduğunda,
+hastalarda hepatik venooklüzif hastalık ve tedavi rejimiyle ilişkili diğer toksisitelerin
+insidansının azaldığı gözlenmiştir.
+Busulfan ve fludarabin arasında ortak bir metabolizma yolağı yoktur. Erişkinlerde fludarabin
+rejiminde yayınlanmış çalışmalar busulfan ve fludarabin arasında bir ilaç etkileşimi olduğunu
+göstermemektedir. Pediyatrik hastalarda, BuMel rejimi ile ilgili olarak, son oral busulfan dozu
+ile melfalan uygulaması arasındaki zaman aralığının 24 saatten az olması halinde toksisite
+geliştiği bildirilmiştir.
+Parasetamolün kan ve dokularda glutatyon düzeylerini azalttığı ve buna bağlı olarak, kombine
+kullanım halinde busulfan klirensini azaltabileceği bildirilmiştir (bkz. Bölüm 4.4).
+İntravenöz busulfanla gerçekleştirilen klinik çalışmalarda, nöbet profilaksisi amacıyla bütün
+hastalara fenitoin veya benzodiyazepinler uygulanmıştır. Yüksek dozda oral busulfan alan
+hastalara fenitoinin eşzamanlı sistemik uygulamasının, glutatyon-S-transferazın
+indüksiyonuna bağlı olarak busulfan klirensini arttırdığı bildirilmiştir. Yüksek doz busulfan
+uygulaması sırasında nöbetlerin önlenmesi amacıyla, diazepam, klonazepam veya lorazepam
+gibi benzodiazepinlerin uygulanmasına bağlı ilaç etkileşimi bildirilmemiştir (bkz. Bölüm 4.2
+ve 4.4).
+Sayfa 6 / 22Busulfan üzerine fenitoinin indükleyici bir etkisi gözlenmemiştir. İntravenöz busulfan
+uygulaması sırasında nöbet profilaksisi amacıyla fenitoin uygulamasının busulfan
+farmakokinetiği üzerine etkisi Faz II klinik çalışmada değerlendirilmiştir. Bu çalışmada
+antikonvülsan olarak klonazepam kullanan 24 hasta (0,025-0,03 mg/kg/gün IV sürekli
+infüzyon) ve bunların farmakokinetik verileri fenitoin kullanmış hastaların daha önceki
+verileri ile karşılaştırılmıştır. Popülasyon farmakokinetiği ile yapılan analiz, fenitoin ve
+klonazepamın intravenöz busulfan atılımı üzerine etkilerinin olmadığını, böylece nöbet
+profilaksisinin hangi şekilde yapılırsa yapılsın benzer plazma busulfan düzeyi elde edileceğini
+göstermiştir. Busulfanın, antifungal bir ajan olan flukonazol veya ondansetron ve granisetron
+gibi 5-HT antiemetiklerle birlikte uygulanmasına bağlı ilaç etkileşimi bildirilmemiştir.
+3
+Busulfanın deferasiroks gibi bir demir bağlayıcı ajanla birlikte kullanımı durumunda
+atılımının yavaşladığı gözlenmiştir. Bu etkileşim mekanizması tam olarak anlaşılamamıştır.
+Demir bağlayıcı ajanların kullanımı busulfan maruziyetinin artmaması için uygulama
+öncesinde kesilmelidir.
+4.6 Gebelik ve laktasyon
+Genel tavsiye
+Gebelik kategorisi: D
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (kontrasepsiyon)
+Çocuk doğurma potansiyeli olan kadınlar veya eşleri BUSULFAN tedavisi sırasında ve
+tedavinin ardından 6 ay süreyle etkili doğum kontrolü uygulamak zorundadırlar.
+Gebelik dönemi
+Hematopoetik projenitör hücre nakli gebe kadınlarda kontrendikedir, böylece busulfanın
+gebelik sırasında kullanımı kontrendikedir. Hayvan çalışmalarında embriyofetal letaliteye ve
+malformasyonlara neden olduğu gösterilmiştir (bkz. Bölüm 5.3).
+Busulfan ve DMA’nın gebe kadınlarda kullanımı ile ilgili veri yoktur ya da yeterli değildir.
+Düşük dozda oral busulfan ile az sayıda konjenital anormallik bildirilmişse de, bunlar kesin
+olarak etkin maddeyle ilişkilendirilmemiştir ve üçüncü trimesterde ilaca maruz kalınması,
+intraüterin gelişme üzerinde zararlı etkilere neden olabilir.
+Busulfan gebelik döneminde kullanılmamalıdır.
+Laktasyon dönemi
+Busulfanın ve DMA’nın insan sütüne geçip geçmediği bilinmemektedir. İnsan ve hayvan
+çalışmalarında busulfanın tümörojenisite potansiyeli gösterildiğinden, tedavi başladığında
+emzirmeye son verilmelidir.
+Sayfa 7 / 22Üreme yeteneği / Fertilite
+Busulfan ve DMA erkeklerde ve kadınlarda üreme yeteneğini bozabilir. Bu nedenle
+erkeklerin tedavi sırasında ve tedavi bitiminden sonra 6 ay süreyle baba olmamaları ve ayrıca,
+tedavinin geri dönüşümsüz kısırlığa neden olabilmesi nedeniyle, tedavi öncesinde spermin
+dondurularak saklanması ile ilgili danışmanlık almaları önerilir (bkz. Bölüm 4.4). Busulfan
+kadınlarda geçici ya da kalıcı kısırlığa neden olabilir.
+4.7 Araç ve makine kullanımı üzerindeki etkiler
+Geçerli değildir.
+4.8 İstenmeyen etkiler
+BUSULTU, siklofosfamid veya melfalan ile birlikte kullanıldığında;
+Erişkinlerde
+Busulfanın advers etkileriyle ilgili bilgiler, iki klinik çalışmadan (n=103) elde edilmiştir.
+Hematolojik, hepatik ve solunum sistemi ile ilgili ciddi toksik etkiler, hazırlık rejiminin ve
+nakil prosesinin beklenen sonuçları olarak kabul edilmiştir. Bunlara dahil olan enfeksiyon ve
+graft-versus-host hastalığı (GVHD), doğrudan ilişkili olmasa da, özellikle allojenik kemik
+iliği naklinde en önemli morbidite ve mortalite nedenlerini oluşturmuştur.
+Kan ve lenfatik sistem hastalıkları
+Kemik iliği depresyonu ve immünosupresyon, hazırlık rejiminin istenen terapötik etkileridir.
+Bu nedenle bütün hastalarda ağır sitopeni (%96 lökopeni, %94 trombositopeni ve %88 anemi)
+ortaya çıkmıştır. Otolog ve allojenik hastalarda nötropeninin ortaya çıkması için geçen süre
+ortalama 4 gün olmuştur. Nötropeninin ortalama süresi, otolog ve allojenik hastalarda
+sırasıyla, 6 gün ve 9 gün olmuştur.
+İmmün sistem hastalıkları
+Akut graft-versus-host hastalığı insidansı (a-GVHD) verileri, OMC-BUS-4 Çalışması’nda
+(allojenik) (n=61) toplanmıştır. Toplam 11 hastada (%18) a-GVHD gözlenmiştir. Evre I-II a-
+GVHD insidansı %13 (8/61), Evre III-IV insidansı %5’tir (3/61). Akut GVHD 3 hastada ciddi
+olarak derecelendirilmiştir. Kronik GVHD (c-GVHD), ciddi ise veya ölüme neden olmuşsa
+belirtilmiş, 3 hastada ölüm nedeni olarak bildirilmiştir.
+Enfeksiyonlar ve enfestasyonlar
+Hastaların %39’unda (40/103) bir veya birden fazla enfeksiyon atağı bildirilmiş, bunların
+%83’ü (33/44) hafif veya orta şiddette olarak derecelendirilmiştir. Pnömoni %1 (1/103)
+oranında fatal seyretmiş, hastaların %3’ünde yaşamı tehdit etmiştir. Diğer enfeksiyonlar
+hastaların %3’ünde ciddi olarak değerlendirilmiştir. Hastaların %87’sinde ateş bildirilmiş,
+bunların %84’ü hafif/orta derecede, %3’ü ciddi olarak derecelendirilmiştir. Hastaların
+%47’sinde titreme bildirilmiş, bunların %46’sı hafif/orta derecede, %1’i ciddi olarak
+derecelendirilmiştir.
+Hepato-biliyer hastalıklar
+Sayfa 8 / 22Ciddi advers etkilerin %15’i karaciğer toksisitesi ile ilgilidir. Hepatik venooklüzif hastalık
+(HVOD), hazırlık tedavisinin nakil sonrası potansiyel bir komplikasyonu olarak kabul edilir.
+103 hastadan 6’sında (%6) HVOD ortaya çıkmıştır. HVOD, allojenik hastaların %8,2’sinde
+(5/61) (2 hastada fatal seyirli) ve otolog hastaların %2,5’inde (1/42) gözlenmiştir. Yüksek
+bilirübin (n=3) ve yüksek AST (n=1) düzeyleri de gözlenmiştir. Bu dört hastadan ciddi serum
+hepatotoksisitesi görülen ikisi, HVOD tanısı konan hastalardır.
+Solunum, torasik ve mediastinal hastalıklar
+Busulfan çalışmalarında, bir hastada interstisyel akciğer fibrozisine bağlı akut solunum
+sıkıntısı ve bunu izleyen fatal seyirli solunum yetmezliği bildirilmiştir.
+Pediyatrik hastalarda
+Advers etkiler, pediyatrik hastalarda yürütülen çalışmadan (n=55) elde edilmiştir.
+Hematolojik, hepatik ve solunum sistemi ile ilgili ciddi toksik etkiler, hazırlık rejiminin ve
+nakil prosesinin beklenen sonuçları olarak kabul edilmiştir.
+İmmün sistem hastalıkları
+a-GVHD verileri, allojenik hastalardan (n=28) toplanmıştır. Toplam 14 hastada (%50) a-
+GVHD gözlenmiştir. Evre I-II a-GVHD insidansı %46,4 (13/28), Evre III-IV insidansı
+%3,6’dır (1/28). Kronik GVHD yalnızca ölüme neden olmuşsa belirtilmiştir: Bir hasta kemik
+iliği naklinden 13 ay sonra ölmüştür.
+Enfeksiyonlar ve enfestasyonlar
+Enfeksiyonlar (belgelendirilmiş ve belgelendirilmemiş febril nötropeni) hastaların %89’unda
+(49/55) gözlenmiştir. Hafif/orta şiddette ateş hastaların %76’sında bildirilmiştir.
+Hepato-biliyer hastalıklar
+Evre 3 transaminaz yüksekliği hastaların %24’ünde bildirilmiştir. Venooklüzif hastalık
+(VOD) otolog ve allojenik nakillerde sırasıyla %15 (4/27) ve %7 (2/28) oranında
+bildirilmiştir. Gözlenen VOD olguları fatal veya ciddi olmayıp, bütün hastalarda iyileşmeyle
+sonuçlanmıştır.
+BUSULTU, fludarabin ile birlikte kullanıldığında;
+Erişkinlerde
+Busulfan’ın, fludarabin ile birlikte kullanıldığındaki güvenlilik profili yoğunluğu azaltılmış
+hazırlık rejiminin uygulandığı yayınlanmış klinik çalışmalarda gözlenen advers etkilerin
+incelenmesi ile değerlendirilmiştir. Bu çalışmalarda 1574 hasta hematopoetik projenitör hücre
+nakli öncesi yoğunluğu azaltılmış hazırlık rejimi tedavisi almıştır.
+Miyelosupresyon ve immunosupresyon yoğunluğu azaltılmış hazırlık rejiminin istenen bir
+sonucudur ve istenmeyen bir etki olarak değerlendirilemez.
+Enfeksiyonlar ve enfestasyonlar
+Sayfa 9 / 22Enfeksiyonlar ve fırsatçı enfeksiyonların tekrar aktive olması hastanın aldığı hazırlık rejimini
+ve sonuç olarak hastanın immun durumunu yansıtmaktadır.
+En sık karşılaşılan enfeksiyonlar; CMV’nin (sitomegalovirüs) (%30,7-%80), EBV’nin
+(Epstein-Barr virüsü) (%2,3-%61) tekrar aktif hale geçmesi, bakteriyel enfeksiyonlar (%32-
+%38,9) ve viral enfeksiyonlardır (%1,3-%17,2).
+Gastrointestinal hastalıklar
+Bulantı-kusma en sık %59,1 olarak, stomatit ise en sık %11oranında gözlenmiştir.
+Böbrek ve idrar yolu hastalıkları
+Fludarabin içeren hazırlık rejimleri, fludarabinin immun sistemi baskılayıcı etkisinden dolayı,
+transplantasyon sonrası daha yüksek oranda fırsatçı enfeksiyonlarla ilişkilendirilmiştir.
+Transplantasyondan iki hafta sonra gelişen hemorajik sistit muhtemelen viral
+enfeksiyon/yeniden aktivasyona bağlı olabilir. Viral enfeksiyona bağlı olanlar da dahil olmak
+üzere hemorajik sistit %16-%18,1 oranında raporlanmıştır.
+Hepato-biliyer hastalıklar
+Venooklüzif hastalık (VOD) hastaların %3,9-%15,4’ünde bildirilmiştir.
+Yayınlanmış klinik çalışmaların derlenmesi sonucunda, transplantasyondan sonrası 100 gün
+üzerinde tedaviye bağlı mortalite/nükse bağlı olmayan mortalite raporlanmıştır. Hematopoetik
+projenitör hücre naklinin ikincil advers etkilerine bağlanmış, altta yatan maligniteye bağlı
+nüks/ilerleme ile ilişkilendirilmemiştir.
+Tedaviye bağlı mortalite/nükse bağlı olmayan mortalitenin en sık nedenleri enfeksiyon/sepsis,
+GVHD, pulmoner hastalıklar ve organ yetmezlikleridir.
+Erişkinlerde ve pediyatrik hastalarda bildirilen ve izole bir olguyla sınırlı olmayan advers
+etkiler, aşağıda organ sınıflarına ve sıklıklarına göre listelenmiştir. Bu tablodaki sıklığa ilişkin
+bilgiler şöyle tanımlanmıştır: çok yaygın (≥1/10), yaygın (≥1/100 ila <1/10), yaygın olmayan
+(≥1/1.000 ila <1/100), seyrek (≥1/10.000 ila <1/1.000), çok seyrek (<1/10.00), bilinmiyor
+(eldeki verilerden hareketle tahmin edilemiyor).
+Sayfa 10 / 22BUSULTU, siklofosfamid veya melfalan ile birlikte kullanıldığında;
+Sistem organ Çok yaygın Yaygın Yaygın olmayan Bilinmiyor
+sınıfı
+Enfeksiyonlar ve Rinit
+enfestasyonlar Farenjit
+Nötropeni
+Kan ve lenf Trombositopeni
+sistemi Febril nötropeni
+hastalıkları Anemi
+Pansitopeni
+Bağışıklık sistemi Alerjik
+hastalıkları reaksiyon
+Endokrin Hipogonadizm**
+hastalıkları
+Anoreksi
+Metabolizma ve Hiperglisemi
+beslenme Hipokalsemi Hiponatremi
+hastalıkları Hipokalemi
+Hipomagnezemi
+Hipofosfatemi
+Anksiyete Deliryum
+Psikiyatrik Depresyon Konfüzyon Sinirlilik
+hastalıklar Uykusuzluk Halüsinasyon
+Ajitasyon
+Sinir sistemi Başağrısı Nöbet
+hastalıkları Baş dönmesi Ensefalopati
+Beyin kanaması
+Katarakt
+Göz hastalıkları Kornea incelemesi
+Lens bozuklukları***
+Taşikardi Aritmi Ventriküler
+Atriyal esktrasistoller
+Kardiyak fibrilasyon Bradikardi
+hastalıklar Kardiyomegali
+Perikard efüzyonu
+Perikardit
+Hipertansiyon Femoral arter
+Vasküer Hipotansyon trombozu
+hastalıklar Tromboz Kapiller leak
+Vazodilatasyon (kaçak) sendromu
+Dispne Hiperventilasyon İnterstisiyel akciğer
+Solunum, göğüs Burun kanaması Solunum hastalığı**
+bozuklukları ve Öksürük yetmezliği
+mediastinal Hıçkırık Alveolar kanama Hipoksi
+hastalıklar Astım
+Atelektazi
+Plevral efüzyon
+** IV busulfan ile pazarlama sonrası kullanımda raporlanmıştır.
+*** Oral busulfan ile pazarlama sonrası kullanımda raporlanmıştır.
+Sayfa 11 / 22Sistem organ Çok yaygın Yaygın Yaygın Bilinmiyor
+sınıfı olmayan
+Stomatit Diş hipoplazisi**
+Diyare
+Gastrointestinal Karın ağrısı
+hastalıklar Bulantı Hematemez Gastrointestinal
+Kusma İleus kanama
+Dispepsi Özofajit
+Assit
+Kabızlık
+Anüz rahatsızlığı
+Hepato-biliyer Hepatomegali Venookluzif
+hastalıklar Sarılık karaciğer
+hastalığı*
+Döküntü Deride soyulma
+Deri ve derialtı Kaşıntı Eritem
+doku hastalıkları Alopesi Pigmentasyon
+bozukluğu
+Kas-iskelet Kas ağrısı
+bozuklukları, ağ Sırt ağrısı
+doku ve kemik Eklem ağrısı
+hastalıkları
+Böbrek ve idrar Dizüri Hematüri
+yolu hastalıkları Oligüri Orta derecede
+böbrek yetersizliği
+Üreme sistemi ve Erken menopoz
+meme hastalıkları Ovaryum
+yetmezliği**
+Asteni
+Titreme
+Ateş
+Genel Göğüs ağrısı
+bozukluklar ve Ödem
+uygulama Genel ödem
+bölgesine ilişkin Ağrı
+hastalıklar Enjeksiyon
+yerinde ağrı veya
+enflamasyon
+Mukozit
+Transaminazlarda
+artış
+Bilirübinde artış
+GGT’de artış BUN artışı
+Araştırmalar Alkalen Azalmış ejeksiyon
+fosfatazlarda artış fraksiyonu
+Kilo artışı
+Anormal solunum
+sesi
+Kreatininde artış
+* venookluzif karaciğer hastalığı pediatrik popülasyonda daha sıktır.
+** IV busulfan ile pazarlama sonrası kullanımda raporlanmıştır.
+Sayfa 12 / 22BUSULTU, fludarabin ile birlikte kullanıldığında;
+Sistem organ sınıfı Çok yaygın Yaygın Bilinmiyor*
+Viral enfeksiyon İnvaziv fungal Beyin apsesi
+Enfeksiyonlar ve CMV reaktivasyonu enfeksiyon Selülit
+enfestasyonlar EBV reaksitivasyonu Akciğer enfeksiyonu Sepsis
+Bakteriyel enfeksiyon
+Kan ve lenf sistemi Febril nötropeni
+hastalıkları
+Metabolizma ve Hipoalbüninemi Anoreksiya
+beslenme hastalıkları Elektrolit bozukluğu
+Hiperglisemi
+Ajitasyon
+Psikiyatrik hastalıklar Konfüzyonel durum
+Halüsinasyon
+Sinir sistemi Başağrısı Beyin kanaması
+hastalıkları Santral sinir sistemi Ensefalopati
+bozukluğu
+Kardiyak hastalıklar Atriyal fibrilasyon
+Vasküler hastalıklar Hipertansiyon
+Solunum, göğüs Akciğerde kanama Solunum yetmezliği
+bozuklukları ve
+mediastinal hastalıklar
+Bulantı Gastrointestinal kanama
+Gastrointestinal Kusma Diş hipoplazisi*
+hastalıklar Diyare
+Stomatit
+Hepato-biliyer Venookluzif karaciğer Sarılık
+hastalıklar hastalığı Karaciğer bozukluğu
+Deri ve derialtı dokusu Döküntü
+hastalıkları
+Böbrek ve idrar yolu Hemorajik sistit** Böbrek bozukluğu Oligüri
+hastalıkları
+Genel bozukluklar ve Mukozit Asteni
+uygulama bölgesine Ödem
+ilişkin hastalıklar Ağrı
+Transaminazlarda artış Kan laktat dehidrogenaz
+Bilirübinde artış Kreatininde yükselmesi
+Araştırmalar Alkalin fosfatazlarda yükselme Kan ürik asit yükselmesi
+artış Kan üre yükselmesi
+GGT yükselmesi
+Ağrılık artışı
+* pazarlama sonrası kullanımda raporlanmıştır.
+** Viral enfeksiyon sonucu oluşan hemorajik sistitler de dahildir.
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonların raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir (www.titck.gov.tr; e-
+posta:tufam@titck.gov.tr; tel:0 800 314 00 08; faks: 0 312 218 35 99)
+Sayfa 13 / 224.9 Doz aşımı ve tedavisi
+Başta gelen toksik etkisi, derin miyeloablasyon ve pansitopenidir; ancak merkezi sinir sistemi,
+karaciğer, akciğerler ve gastrointestinal sistem de etkilenebilir.
+BUSULTU için hematopoetik projenitör hücre naklinden başka bilinen bir antidot yoktur.
+Hematopoetik projenitör hücre nakli olmadığında, önerilen BUSULTU dozajı, busulfan doz
+aşımı oluşturacaktır. Hematolojik durum yakından gözlenmeli ve gerek görüldüğünde sıkı
+destekleyici tedbirler alınmalıdır. Busulfanın diyalizle plazmadan uzaklaştırılabileceğine dair
+iki rapor mevcuttur; dolayısıyla doz aşımı durumunda diyaliz göz önünde bulundurulmalıdır.
+Busulfan glutatyon ile konjuge olarak metabolize olduğundan, glutatyon uygulaması
+düşünülebilir.
+BUSULTU doz aşımının DMA’ya maruz kalma düzeyini de artıracağı göz önünde
+bulundurulmalıdır. DMA’nın insanlardaki en önemli toksik etkileri, hepatotoksisite ve
+merkezi sinir sistemi (MSS) üzerindeki etkilerdir. MSS değişiklikleri daha ciddi yan
+etkilerden önce ortaya çıkar. Doz aşımı durumunda DMA’nın bilinen özel bir antidotu yoktur.
+Doz aşımı halinde, genel destekleyici tedavi uygulanmalıdır.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1 Farmakodinamik özellikler
+Farmakoterapötik grup: Antineoplastik ajanlar, Alkilleyici ajanlar
+ATC kodu: L01AB01.
+Etki mekanizması:
+Busulfan, bifonksiyonel alkilleyici bir ajan olup güçlü sitotoksik etkiye sahiptir. Sulu
+ortamda, metansülfonat gruplarının serbest kalması, DNA alkilleyici reaktif karbonyum
+iyonlarını oluşturur. Bu etkinin, ilacın sitotoksik etkisi açısından önemli bir biyolojik
+mekanizma olduğu düşünülmektedir.
+Busulfan, siklofosfamid ile birlikte kullanıldığında;
+Erişkinlerdeki klinik çalışmalar:
+Klasik allojenik ve/veya otolog hematopoetik projenitör hücre nakli öncesi BuCy2 rejiminde
+siklofosfamidle kombine olarak uygulanan busulfan’ın güvenlilik ve etkililiği ile ilgili veriler,
+iki klinik çalışmadan elde edilmiştir (OMC-BUS-4 ve OMC-BUS-3).
+Çoğu ileri evrede hematolojik hastalığı olan hastalarda, iki prospektif, tek kollu, açık,
+kontrolsüz Faz II çalışma yapılmıştır.
+Çalışmaya dahil edilen hastalıklar şunlardır: İlk remisyondan sonraki ilk veya ikinci
+rölapsında, ilk remisyonunda (yüksek riskli) veya indüksiyon yetersizliği olan akut lösemi;
+kronik veya ileri evrede kronik miyelojenik lösemi; primer refrakter veya dirençli tekrarlamış
+Hodgkin hastalığı veya non-Hodgkin lenfoma ve miyelodisplastik sendrom.
+Sayfa 14 / 22Hastalara, önce toplam 16 doz olacak şekilde her 6 saatte bir 0,8 mg/kg busulfan infüzyonu,
+ardından iki gün süreyle günde bir kez 60 mg/kg/gün dozunda siklofosfamid uygulanmıştır
+(BuCy2 rejimi).
+Bu çalışmalarda birincil etkililik parametreleri, miyeloablasyon, engrafment, relaps ve
+sağkalımdır.
+Her iki çalışmada da, bütün hastalara 16/16 doz rejimi uygulanmıştır ve advers etkiler
+nedeniyle çalışmadan ayrılan hasta olmamıştır.
+Bütün hastalarda derin miyelosupresyon elde edilmiştir. Mutlak nötrofil sayısının
+0,5x109/L’nin üzerine çıkmasına kadar geçen süre, allojenik hastalarda 13 gün (aralık 9-29
+gün) (OMC-BUS 4), otolog hastalarda 10 gündür (aralık 8-19 gün) (OMC-BUS 3).
+Değerlendirilebilen bütün hastalara nakil yapılmıştır. Primer veya sekonder graft rejeksiyonu
+olmamıştır. Nakil sonrası 100 günü aşan dönemde, allogenik hastalardaki genel mortalite ve
+relapssız mortalite, sırasıyla (8/61) %13 ve (6/61) %10’dur. Aynı dönemde otolog hastalarda
+ölüm gözlenmemiştir.
+Pediyatrik hastalardaki klinik çalışmalar:
+Klasik allojenik ve/veya otolog hematopoetik projenitör hücre nakli öncesi BuCy4 rejiminde
+siklofosfamidle veya BuMel rejiminde melfalanla kombine olarak uygulanan busulfanın
+güvenlilik ve etkililiği ile ilgili veriler, F60002 IN 101 G0 klinik çalışmasından elde
+edilmiştir.
+Hastalara Bölüm 4.2.’de yer alan doz uygulanmıştır.
+Bütün hastalarda derin miyelosupresyon elde edilmiştir. Mutlak nötrofil sayısının
+0,5x109/L’nin üzerine çıkmasına kadar geçen süre, allojenik hastalarda 21 gün (aralık 12-47
+gün), otolog hastalarda 11 gündür (aralık 10-15 gün). Bütün çocuklara nakil yapılmıştır.
+Primer veya sekonder graft rejeksiyonu olmamıştır. Allojenik hastaların %93’ünde tam
+kimerizm gözlenmiştir. Nakil sonrası ilk 100 günde ve ardından nakil sonrası bir yıl içinde
+tedavi rejimine bağlı ölüm gözlenmemiştir.
+Busulfan, fludarabin ile birlikte kullanıldığında;
+Erişkinlerdeki klinik çalışmalar:
+Busulfan’ın allojenik hematopoetik projenitör hücre nakli öncesi fludarabin ile birlikte
+kullanımı ile ilgili güvenlilik ve etkililik verileri 731 hastayı içeren, yayınlanmış 7 çalışmadan
+gelmektedir. Bu veriler miyeloid ve lenfoid maligniteleri olan, günde dört doz yerine
+intravenöz busulfan infüzyonu alan hastalardan elde edildi.
+Hastalar, busulfanı 3,2 mg/kg günde tek doz olarak 2 veya 3 gün süreyle aldılar. Hasta başına
+toplam doz 6,4 mg/kg ve 9,6 mg/kg arasındaydı.
+Sayfa 15 / 22Fludarabin kombinasyonu, hazırlama rejiminin yoğunluğu ayarlanarak, busulfan infüzyonu
+yapılan gün sayısında yapılan değişikliklerle yeterli miyeloablasyona izin vermektedir.
+Hızlı ve tam sonuç, çalışmaların çoğunluğunda hastalarda %80-100 oranında sağlanmıştır.
+Yayınların çoğu, hastaların %90-100’ünde 30 gün üzerinde tam donör uyuşması sağlandığını
+göstermiştir. Uzun dönem sonuçları etkinin istenmeyen etkiler olmadan sürdüğünü
+doğrulamıştır.
+İleriye dönük, çok merkezli Faz II çalışmada 18-65 yaş arası, farklı hematolojik maligniteleri
+olan 80 hastaya fludarabin ile (3 gün Busulfan) yoğunluğu azaltılmış hazırlama rejimi ile
+allojenik hematopoetik projenitör hücre nakli uygulandı. Bu çalışmada bir tane hariç tüm
+hastalara ortalama 15 (10-23 gün) gün içerisinde nakil uygulandı. 28. günde nötrofil
+normalleşme insidansı %98,8 (%85,7-99,9) oldu. Allojenik hematopoetik projenitör hücre
+nakli sonrası platelet engrafmanı ortalama 9 günde (1-16 gün) olmuştur.
+İki yıllık sağ kalım oranı %61,9 olmuştur (%95Cl, %51,1-72,7). İkinci yılda rölaps olmadan
+toplam mortalite %11,3 olmuştur (%95Cl, %5,5-19,3) ve allojenik hematopoetik projenitör
+hücre naklinden rölaps ya da progresyon %43,8 (%95Cl, %31,1-55,7) olarak gerçekleşmiştir.
+Kaplan-Meier’e göre tahmini hastalıksız 2 yıllık sağ kalım oranı %49,9 (%95Cl, %32,6-72,7)
+olarak hesaplanmıştır.
+5.2 Farmakokinetik özellikler
+Genel özellikler
+Busulfan’ın farmakokinetik özellikleri araştırılmıştır. Bu kısımda yer alan metabolizma ve
+eliminasyon ile ilgili bilgiler, oral busulfan uygulaması bazındadır.
+Erişkinlerdeki farmakokinetik
+Emilim:
+İntravenöz busulfanın farmakokinetik özellikleri, 124 değerlendirilebilir hastada, dört gün
+süreyle toplam 16 doz 2 saatlik intravenöz infüzyon uygulaması sonrasında incelenmiştir.
+Busulfanın intravenöz uygulaması sonrasında, hemen ve tam doz elde edilmiştir. 1 mg/kg
+dozunda oral ve 0,8 mg/kg dozunda intravenöz busulfan uygulanan erişkin hastalarda benzer
+plazma konsantrasyonları gözlenmiştir. 102 hastada gerçekleştirilen popülasyon
+farmakokinetiği analizinde, hastalar arasında (CV=%21) ve aynı hastada (CV=%12)
+busulfana maruz kalma değişkenliğinin düşük olduğu gösterilmiştir.
+Dağılım:
+Nihai dağılım hacmi V 0,62 - 0,85 L/kg arasındadır. Beyin-omurilik sıvısındaki busulfan
+z
+konsantrasyonları, plazma konsantrasyonlarına benzerdir ve bu konsantrasyonların
+antineoplastik aktivite için yetersiz olduğu düşünülmektedir. Plazma proteinlerine geri
+dönüşümlü bağlanma oranı yaklaşık %7, başta albümine olmak üzere, geri-dönüşümsüz
+bağlanma oranı ise yaklaşık %32 olarak bulunmuştur.
+Sayfa 16 / 22Biyotransformasyon:
+Busulfan esas olarak glutatyonla konjüge olarak metabolize olur (kendiliğinden ve glutatyon-
+S-transferaz enzimi aracılığıyla). Glutatyon konjugatı daha sonra karaciğerde daha ileri bir
+oksidatif metabolizasyona uğrar. Etkililiğine veya toksisitesine katkıda bulunan, bilinen hiçbir
+metaboliti yoktur.
+Eliminasyon:
+Plazmadaki total klirensi 2,25 - 2,74 mL/dak/kg arasında değişmektedir. Nihai yarılanma
+ömrü 2,8 - 3,9 saat arasında değişir.
+Uygulanan dozun yaklaşık %30’u, 48 saat içinde, idrarla atılır; bunun %1’i değişmemiş
+busulfandır. Feçesle atılım ihmal edilebilir düzeydedir.
+Doğrusallık/doğrusal olmayan durum:
+1 mg/kg’a kadar dozlarda intravenöz busulfan uygulamasını takiben, busulfana maruz
+kalmada dozla orantılı artış gösterilmiştir.
+Günde dört doz kullanılan tedavi rejimiyle karşılaştırıldığında günde tek tedavi doz rejimi
+daha yüksek tepe konsantrasyonu ile karakterizedir, ardışık uygulamalar arasında ilaç birikim
+periyodu ve temizlenme periyodu gerektirmez (dolaşımdaki busulfan konsantrasyonu
+dışında). Yayınların gözden geçirilmesi, aynı çalışma içinde ya da farklı çalışmalar arasında
+uygulanan farmakokinetik serilerin karşılaştırılmasına imkan vermektedir. Bu
+karşılaştırmalar, doz veya uygulama takviminden bağımsız olarak değişmeyen dozdan
+bağımsız farmakokinetik değerler vermektedir. Busulfanın önerilen intravenöz uygulaması
+ister tek infüzyon (3,2 mg/kg) isterse bölünmüş 4 defada verilen infüzyon (0,8 mg/kg) eşit
+günlük plazma düzeyine maruz bırakmaktadır ve benzer hasta içi ve hastalar arası değişkenlik
+görülmektedir. Sonuç olarak intravenöz busulfanının EAA’sı (eğri altındaki alan) tedavi
+penceresi içinde değişmemektedir ve iki tedavi takvimi performansı benzerdir.
+Farmakokinetik/Farmakodinamik ilişkiler
+Busulfanla ilgili literatürde, EAA için terapötik pencerenin 900 - 1500 mikromol/L.dak
+arasında (günlük 3600 ve 6000 mikromol/L.dak arasındaki doza maruz kalmaya eşdeğer)
+olduğu belirtilmektedir. günde dört kez 0,8 mg/kg intravenöz busulfan uygulanarak yapılan
+klinik çalışmalar sırasında, hastaların %90’ından fazlasının EAA’larının, üst EAA sınırı olan
+1500 mikromol/L.dak altında ve en az %80’inin hedeflenen terapötik pencere sınırları içinde
+(900-1500 mikromol/L.dak) olduğu gösterilmiştir. Benzer hedef oranı 3,2 mg/kg günde tek
+doz busulfan uygulandığında, günlük 3600 ve 6000 mikromol/L.dak arasındaki doza maruz
+kalma durumunda da elde edilmiştir.
+Hastalardaki karakteristik özellikler
+Böbrek fonksiyon bozukluğunun intravenöz busulfanın dispozisyonu üzerindeki etkisi
+değerlendirilmemiştir.
+Hepatik fonksiyon bozukluğunun intravenöz busulfanın dispozisyonu üzerindeki etkisi
+değerlendirilmemiştir. Bununla beraber, bu popülasyonda karaciğer toksisitesi riski artabilir.
+Sayfa 17 / 2260 yaş üzerindeki hastalardaki mevcut intravenöz busulfan verileri bazında, yaşın busulfan
+klirensine etkisi gösterilmemiştir.
+Pediyatrik hastalardaki farmakokinetik özellikler
+< 6 ay-17 yaş arasındaki çocuklarda, klirenste 2,49 - 3,92 mL/dak/kg arasında sürekli bir
+değişim gözlenmiştir. Nihai yarılanma ömrü 2,26 - 2,52 saat arasında değişmektedir.
+Plazma maruziyeti hasta içi ve hastalar arası değişkenliği sırasıyla %20 ve %10’dan daha
+azdı. Popülasyon farmakokinetik analizi, vücut ağırlığına göre (3,5 - 62,5 kg), biyolojik
+duruma ve hastalık durumuna (kötü ve kötü huylu olmayan) göre yeterli dağılımı olan 205
+çocukluk bir kohort grupta gerçekleştirildi ve böylece hematopoetik projenitör hücre nakline
+giden tüm farklı grupları temsil etti.
+Bölüm 4.2’de önerilen dozaj, 9 kg’dan ağır çocukların %70-90’ında tedavi aralığında kalmak
+içindir (900-1500 mikromol/L.dak). Bununla birlikte 9 kg altındaki çocuklarda yüksek
+değişkenlik görülmekte ve %60 kadarında tedavi aralığında kalınmaktadır (900-1500
+mikromol/L.dak). 9 kg altındaki çocukların %40’ında 1 mg/kg’ı takiben EAA, tedavi
+sınırlarının altında ya da üstünde olmak üzere eşit olarak dağılmaktadır: %20 <900
+mikromol/L.dak ve %20 >1500 mikromol/L.dak. Bu nedenle 9 kg altındaki çocuklarda
+busulfan plazma konsantrasyonlarını izleyerek (tedavi edici ilaç dozu takibi) doz ayarlaması
+yapmak özellikle yeni doğanlarda ve çok küçük çocuklarda busulfan tedavi başarısını
+artırabilir.
+Farmakokinetik/Farmakodinamik ilişki
+Faz II çalışmalarda hastaların tamamında kemik iliği naklinin başarıyla gerçekleştirilmesi,
+hedeflenen EAA’nın uygunluğunu kanıtlamaktadır. VOD’nin ortaya çıkması, aşırı maruz
+kalmayla ilişkili bulunmamıştır. Otolog hastalarda stomatit ve EAA arasında, otolog ve
+allojenik hastaların analizinde, bilirübin artışı ve EAA arasında
+farmakokinetik/farmakodinamik ilişkisi gözlenmiştir.
+5.3 Klinik öncesi güvenlilik verileri
+Busulfan mutajenik ve klastojeniktir. Busulfanın, Salmonella typhimurium, Drosophila
+melanogaster ve arpada mutajenik olduğu gösterilmiştir. Busulfan, in vitro (kemirgen ve
+insan hücrelerinde) ve in vivo (kemirgenlerde ve insanlarda) deneylerde kromozom
+anormalliklerine neden olmuştur. Oral busulfan olan hastaların hücrelerinde, çeşitli
+kromozom anormallikleri gözlenmiştir.
+Busulfan, etki mekanizmaları temelinde potansiyel karsinojen olan bir madde sınıfında yer
+almaktadır. Busulfan, insanlardan elde edilen veriler bazında, Uluslararası Kanser
+Araştırmaları Ajansı (IARC) tarafından insanlarda karsinojen olarak sınıflandırılmıştır. Dünya
+Sağlık Örgütü, busulfana maruz kalma ve kanser arasında nedensel bir ilişki olduğu sonucuna
+varmıştır. Hayvanlardan elde edilen mevcut veriler, busulfanın karsinojenik potansiyelini
+doğrulamaktadır. Farelere intravenöz busulfan uygulaması, timus ve yumurtalık tümörlerinin
+insidansında anlamlı artışa neden olmuştur.
+Sayfa 18 / 22Busulfan, sıçanlarda, farelerde ve tavşanlarda teratojendir. Neden olduğu malformasyon ve
+anomaliler arasında, anlamlı kas-iskelet sistemi, kilo ve boy değişiklikleri sayılabilir. Gebe
+sıçanlara uygulanan busulfan, testis ve yumurtalıklarda üreme hücrelerinin olmamasına bağlı
+olarak erkek ve dişi yavrularda kısırlığa neden olmuştur. Busulfanın kemirgenlerde kısırlığa
+yol açtığı gösterilmiştir. Busulfan dişi sıçanlarda dişi üreme hücrelerini ortadan kaldırmış,
+erkek sıçanlar ve hamsterlarda kısırlığa yol açmıştır.
+DMA’nın tekrarlanan dozları, karaciğer toksisitesi belirtilerine neden olmuştur; ilk belirti
+olarak ortaya çıkan serumda artmış enzim düzeyleylerini, hepatositlerde histopatolojik
+değişiklikler izlemiştir. Daha yüksek dozlar hepatik nekroza ve karaciğer hasarına neden
+olabilir ve bu etkiler tek bir yüksek dozla ortaya çıkabilir.
+DMA sıçanlarda teratojeniktir. DMA’nın organogenez sırasında uygulanan 400 mg/kg/gün
+dozları, anlamlı gelişimsel anomalilere yol açmıştır. Neden olduğu malformasyonlar arasında,
+ciddi kalp ve/veya damar anomalileri de yer almaktadır: ortak truncus arteriosis ve ductus
+arteriosis yokluğu, ana pulmoner kök ve pulmoner arter koarktasyonu, kalpte intraventriküler
+defektler. Diğer sık görülen anomaliler, yarık damak, anazarka, vertebralar ve kaburgalarda
+iskelet anomalileridir. DMA erkek ve dişi kemirgenlerde üreme yeteneğini azaltır. Gebeliğin
+4. gününde derialtına uygulanan tek bir 2,2 g/kg’lık doz, test edilen hamsterların %100’ünde
+gebeliği sonlandırmıştır. Sıçanlarda, dokuz gün süreyle uygulanan 450 mg/kg dozunda DMA,
+inaktif spermatogeneze neden olmuştur.
+6. FARMASÖTİK ÖZELLİKLER
+6.1 Yardımcı maddelerin listesi
+Dimetilasetamid
+Polietilen glikol 400
+6.2 Geçimsizlikler
+Bu tıbbi ürün, geçimlilik çalışmaları bulunmadığından, Bölüm 6.6.’da belirtilen tıbbi ürünler
+dışındaki tıbbi ürünlerle karıştırılmamalıdır.
+BUSULTU polikarbonat şırınga ile kullanılmamalıdır.
+6.3 Raf ömrü
+Flakon: 24 ay
+Seyreltilmiş çözelti:
+%5 dekstroz çözeltisi veya 9 mg/mL (%0,9) sodyum klorür çözeltisi ile son konsantrasyonu
+0,5 mg busulfan/mL olacak şekilde seyreltme yapılarak
+ 15-25°C’de 8 saat (infüzyon süresi dahil)
+ 2°C-8°C’de 12 saat saklandığında ve ardından 20°C±5°C’de 3 saat (infüzyon süresi
+dahil)
+şeklinde kullanıldığında kimyasal ve fiziksel açıdan stabildir.
+Sayfa 19 / 22Mikrobiyolojik açıdan, ürün seyreltme sonrasında hemen kullanılmalıdır. Hemen
+kullanılmadığında, kullanıma hazır ürünün kullanım öncesi saklama süreleri ve şartları
+kullanıcının sorumluluğundadır ve seyreltmenin kontrollü ve geçerliliği kabul edilmiş aseptik
+koşullarda yapılmış olması kaydıyla, yukarıda belirtilen şartlardan daha uzun olmamalıdır.
+6.4 Saklamaya yönelik özel tedbirler
+2°C - 8°C’de buzdolabında saklanmalıdır. Dondurmayınız.
+Seyreltilmiş çözeltiyi dondurmayınız.
+Seyreltilmiş tıbbi ürünün saklama koşulları için Bölüm 6.3.’e bakınız.
+6.5 Ambalajın niteliği ve içeriği
+20mm teflon kaplı gri kauçuk tıpalı, 20mm alüminyum flip-off kapaklı ve 10R Şeffaf Tip I
+Cam Flakon içinde, 10 mL infüzyon için konsantre çözelti.
+Bir kutuda 1 flakon bulunur.
+6.6 Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+BUSULTU’nun hazırlanması
+Antineoplastik ilaçların hazırlanması ve atılması ile ilgili kurallar göz önünde
+bulundurulmalıdır.
+Bütün aktarma işlemleri aseptik tekniklere tam olarak uyularak gerçekleştirilmeli, tercihen
+dikey laminar hava akımlı güvenlik kabini kullanılmalıdır.
+Diğer sitotoksik bileşiklerde olduğu gibi, BUSULTU çözeltisinin muamelesi ve hazırlığı
+sırasında dikkatli olunmalıdır:
+- Eldiven ve koruyucu giysi kullanılması önerilir.
+- BUSULTU’nun veya seyreltilmiş BUSULTU’nun deri veya mukozalarla temas etmesi
+halinde, temas bölgesi hemen bol su ile yıkanmalıdır.
+Seyreltilecek BUSULTU miktarının ve seyreltici miktarının hesaplanması:
+BUSULTU kullanılmadan önce ya 9 mg/mL (%0,9) sodyum klorür çözeltisi ya da %5
+dekstroz çözeltisi ile seyreltilmelidir.
+Seyreltici miktarı BUSULTU hacminin 10 katı olmalı ve nihai busulfan konsantrasyonunun
+yaklaşık 0,5 mg/mL olması sağlanmalıdır. Örneğin:
+Y kg ağırlığındaki bir hastaya uygulanacak BUSULTU ve seyreltici miktarı şöyle
+hesaplanmalıdır:
+ BUSULTU miktarı:
+Y (kg) x D (mg/kg) = A ml BUSULTU seyreltilmesi gerekir
+6 (mg/mL)
+Sayfa 20 / 22Y: hastanın kg olarak ağırlığı
+D: BUSULTU dozu (bkz. Bölüm 4.2)
+ Seyreltici miktarı:
+(A mL BUSULTU) x (10) = B mL seyreltici
+Nihai infüzyon çözeltisini hazırlamak için (A) mL BUSULTU, (B) mL seyreltici (9 mg/mL
+(%0,9) sodyum klorür çözeltisi ya da %5 dekstroz çözeltisi) ile karıştırılmalıdır.
+İnfüzyon çözeltisinin hazırlanması:
+ BUSULTU, deneyimli bir sağlık personeli tarafından, steril aktarma teknikleri
+kullanılarak hazırlanmalıdır. Polikarbonat olmayan bir enjektöre iğne takıldıktan
+sonra:
+- Hesaplanan miktarda BUSULTU flakondan çekilir.
+- Enjektör içeriği, seçilen seyrelticiyi önceden hesaplanan miktarda içeren intravenöz
+torbaya (veya enjektöre) aktarılır. Her zaman BUSULTU seyreltici üzerine eklenmelidir;
+seyreltici BUSULTU üzerine eklenmemelidir. BUSULTU, %0,9 sodyum klorür veya %5
+dekstroz içermeyen bir intravenöz torbaya aktarılmamalıdır.
+ Seyreltilen çözelti, alt üst edilerek birkaç kez karıştırılmalıdır.
+Seyreltme sonrasında, 1 mL infüzyon çözeltisi 0,5 mg busulfan içerir.
+Seyreltilen BUSULTU, görülebilen partikül içermeyen, berrak, renksiz bir çözeltidir.
+Kullanım Talimatları
+Her infüzyondan önce ve sonra, kateter hattı yaklaşık 5 mL %0,9 sodyum klorür veya %5
+dekstroz çözeltisi ile yıkanır.
+BUSULTU’nun hızlı infüzyonu test edilmediğinden ve önerilmediğinden, kalan tıbbi ürün
+kateter hattına hızla boşaltılmamalıdır.
+Reçete edilen BUSULTU dozunun tamamı iki saat içinde uygulanmalıdır.
+Küçük miktarlar, 2 saat içinde elektrikli enjektör kullanılarak uygulanabilir. Bu durumda,
+BUSULTU infüzyonuna başlamadan önce tıbbi ürünle kullanıma hazırlanmış, küçük damla
+odalı (0,3-0,6 mL) infüzyon setleri kullanılmalı, daha sonra set %0,9 sodyum klorür veya %5
+dekstroz çözeltisi ile yıkanmalıdır.
+BUSULTU diğer intravenöz çözeltilerle aynı anda uygulanmamalıdır.
+Uyumsuzluk nedeniyle BUSULTU, polikarbonat içeren infüzyon bileşikleri ile
+kullanılmamalıdır.
+Tek kullanım içindir. Yalnızca partikül içermeyen, berrak çözeltiler kullanılmalıdır.
+Sayfa 21 / 22Tüm kullanılmayan ürün veya atık maddeler, sitotoksik tıbbi ürünler için geçerli olan ulusal
+mevzuat doğrultusunda imha edilir.
+7. RUHSAT SAHİBİ
+Onko İlaç Sanayi ve Ticaret A.Ş
+Gebze OSB2 Mah. 1700. Sk. 1703/2
+Çayırova/KOCAELİ
+Telefon: 0850 250 66 56
+e-mail: info@onkokocsel.com
+8. RUHSAT NUMARASI
+2022/698
+9. İLK RUHSAT TARİHİ /RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi: 30.11.2022
+Ruhsat yenileme tarihi:
+10. KÜB’ÜN YENİLENME TARİHİ
+Sayfa 22 / 22

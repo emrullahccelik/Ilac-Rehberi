@@ -1,0 +1,443 @@
+KISA ÜRÜN BİLGİSİ
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+AERRANE 100 mL volatil solüsyon
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde:
+Her bir şişe içinde 100 mL isofluran.
+Yardımcı madde(ler):
+Yardımcı maddeler için, bkz. 6.1.
+3. FARMASÖTİK FORM
+Renksiz, sıvı halde inhalasyon gazı.
+4. KLİNİK ÖZELLİKLER
+4.1 Terapötik endikasyonlar
+Uçucu bir anestezik olan isofluran, genel inhalasyon anestezisinde endikedir.
+4.2 Pozoloji ve uygulama şekli
+Pozoloji / uygulama sıklığı ve süresi
+Anestezi indüksiyonunda:
+- Başlangıç konsantrasyonu olarak %0.5 önerilir. %1.3 - 3.0'lük konsantrasyonlar
+genellikle 7 - 10 dakika içinde cerrahi anestezi sağlar.
+- Anestezi, yalnız isofluranla veya oksijenle birlikte kombinasyon halinde veya
+oksijen-azot oksit karışımıyla birlikte gerçekleştirilecekse, meydana gelebilecek
+öksürük veya laringospazmdan kaçınmak amacıyla, kısa etkili bir barbitürat ya da
+propofol, etomidat veya midazolam gibi ürünlerin kullanılması önerilir.
+Anestezinin idamesinde:
+- Ameliyat süresince anestezi idamesi, %1.0 - 2.5'luk isofluran konsantrasyonları ile
+birlikte N O ve O2'nin beraberce uygulanmasıyla sağlanabilir. AERRANE %100
+2
+oksijen ile birlikte uygulandığında, %1.5 -3.5’luk isofluran konsantrasyonları
+gerekmektedir.
+1Ayılma döneminde:
+- Hızlı ayılma sağlamak için, isofluranın konsantrasyonu ameliyat bitiminde % 0.5'e ya
+da insizyon kapatılırken % 0'a indirilmelidir.
+- Eğer anestezik ajanların uygulanması tamamıyla durdurulursa, tam bir ayılma
+sağlanana kadar hastanın hava yolu %100 oksijen ile birçok kez ventile edilmelidir.
+- Vektör gaz, %50 O ve %50 N O'in bir karışımı ise, isofluranın minimum alveol
+2 2
+konsantrasyon değeri yaklaşık %0.65'dir.
+Uygulama şekli
+İsofluran konsantrasyonunu tam olarak doğru kontrol edebilmek amacıyla, isofluran için
+özel olarak tasarlanmış vaporizatörleri kullanmak gerekir.
+4.3 Kontrendikasyonlar
+- Halojenize anesteziklere karşı aşırı duyarlılık.
+- Malign hipertermisi olduğu bilinen veya malign hipertermiye genetik yatkınlığı olan
+hastalar.
+- Daha önceki bir halojenize anestezik uygulamasından sonra karaciğer fonksiyon
+bozukluğu, sarılık veya izah edilemeyen ateş, lökositoz ya da eozinofilinin oluştuğu
+hastalar.
+- Obstetrik operasyonlar.
+- Genel anestezinin kontrendike olduğu kişiler.
+4.4 Özel kullanım uyarıları ve önlemleri
+- AERRANE yalnızca genel anestezi alanında eğitim görmüş personel tarafından
+uygulanmalıdır. AERRANE kullanımında anestezi derinliği kolayca ve hızla
+değişebildiğinden, ürün bu iş için özel olarak ayarlanmış vaporizatörü kullanılarak
+uygulanmalıdır. Kan basıncında düşme ve solunum depresyonu, anestezi derinliğinin
+bir göstergesi olabilir. Spontan respirasyon dikkatle izlenmeli, gerektiğinde yardımcı
+olunmalıdır.
+- Duyarlı kişilerde isofluran anestezisi iskelet kaslarında hipermetabolik bir durumu
+uyarabilir; bu durum da oksijenin yüksek oranda tüketilmesine ve malign hipertermi
+olarak bilinen klinik bir sendroma yol açabilir.
+Bu sendromda kas rijiditesi, taşikardi, taşipne, siyanoz, aritmiler ve anstabil kan
+basıncı gibi nonspesifik belirtiler bulunur. Bu nonspesifik işaretlerin bir çoğunun
+hafif anestezi, akut hipoksi vb durumlarda da görülebileceği bilinmelidir.
+Metabolizmanın tümündeki artış, vücut ısısında bir yükselmeyle (vakaya bağlı olarak
+erken ya da gecikmiş olarak hızla yükselir, ancak artmış metabolizmanın genellikle
+ilk işareti değildir) ve CO absorbsiyon sisteminin artmış kullanımıyla (sıcak kanister)
+2
+yansıtılır.
+2PaO ve pH azalabilir ve hiperkalemi ile baz defisiti ortaya çıkabilir.
+2
+Tedavi tetikleyici ajanların (örn isofluran) uygulanmasına son verilmesi, intravenöz
+dantrolen sodyum uygulanması ve destek tedavisinden oluşur.
+Destekleyici tedavi, hastanın vücut ısısının düşürülmesi için yoğun çaba gösterilmesi,
+gerektiği durumlarda solunum-dolaşım desteği ve sıvı-elektrolit ile asit-baz
+dengesinin sağlanmasından oluşur.
+(Hastanın tedavisi hakkında ek bilgi için intravenöz dantrolen sodyumun Kısa Ürün
+Bilgisi'ne bakınız). Daha sonra böbrek yetmezliği ortaya çıkabilir ve mümkünse idrar
+akımının sürekliliği sağlanmalıdır.
+Bkz. Bölüm 4.3.
+- İnhalasyon anesteziklerinin kullanımı çok seyrek olarak pediyatrik hastalarda
+postoperatif dönemde serum potasyum düzeylerinde yükselme ve buna bağlı ölümcül
+olabilen kardiyak aritmiyle ilişkili olabilmektedir. Sessiz ya da aşikar musküler
+distrofisi olanlar, özellikle de Duchenne tipi musküler distrofisi olan hastalar bu
+duruma daha yatkındır. Vakaların hepsinde olmasa da çoğunda aynı zamanda süksinil
+kolin kullanımı da vardır. Bu hastalarda serum kreatinin kinaz konsantrasyonunda ve
+bazılarında myoglobulinüride artış da görülmüştür.
+Malign hiperterminin görünümüne benzer olmasına rağmen, hastaların hiçbirinde
+kaslarda rijidite ya da hipermetabolik durum belirti ve işaretleri görülmemiştir.
+Böyle durumlarda hiperkalemi ve aritminin hemen ve yoğun bir şekilde tedavisi
+önerilir. Hastaların daha sonra sessiz bir nöromusküler hastalık yönünde araştırılması
+gerekir.
+- İsofluran kullanımı ile birlikte karaciğer fonksiyonlarında bozulma, sarılık ve fatal
+karaciğer nekrozu bildirilmiştir.
+Bu tip reaksiyonlar, isofluran dahil halojenize anesteziklere karşı aşırı duyarlılık
+reaksiyonlarının olduğunu işaret etmektedir.
+Siroz, viral hepatit veya daha önceden mevcut bir karaciğer hastalığının olması,
+halojenize anestezik yerine, başka bir anesteziğin seçilmesi için bir neden olabilir.
+Bkz. Bölüm 4.3.
+Tekrarlanan anestezideki kullanıma ilişkin yeterli deneyim olmadığından bu konuda
+kesin bir öneride bulunulamamaktadır. Tüm halojenize anesteziklerle olduğu gibi,
+anestezinin kısa bir süre içinde tekrarlanması dikkatli yaklaşım gerektirir.
+- İsofluran kullanımı ile birlikte anafilaksi dahil allerjik tipte aşırı duyarlılık
+reaksiyonları bildirilmiştir. Bu tür reaksiyonların klinik görünümleri arasında
+hipotansiyon, döküntü, solunum güçlüğü ve kardiyovasküler kollaps bulunmaktadır.
+- İsofluran anestezisi uygulanırken hastaların elektrokardiyografi, kan basıncı, oksijen
+satürasyonu ve end-tidal CO monitorizasyonu ile devamlı izlem altında tutulması
+2
+gerekir.
+- Bir derin solunum depresyon ajanı olan isofluranın etkisi, narkotik premedikasyon
+veya diğer solunum depresanlarının aynı anda kullanılmasıyla artmaktadır.
+3Respirasyon dikkatle izlenmeli ve gerektiğinde yardımcı olunmalı ya da kontrollü
+ventilasyon uygulanmalıdır.
+- İsofluran sistemik damar direnci ve kan basıncında doza bağlı bir azalmaya neden
+olur.
+Hipovolemik, hipotansif ve örn. kullandığı ek ilaçlara bağlı olarak hemodinamik
+parametreleri bozulmuş hastalarda doz seçiminde özel dikkat gerekir.
+Kan basıncında olan ileri derecedeki azalmalar anestezinin derinliğiyle ilişkili olabilir
+ve isofluranın solutulan konsantrasyonunun azaltılmasına yanıt verir.
+- Koroner arter hastalığı olan hastalarda, miyokart iskemisinden kaçınmak için normal
+hemodinaminin devam ettirilmesi önemlidir.
+İsofluran, doza bağımlı koroner vazodilatasyona yol açabilir ve kanı kollaterale
+bağımlı miyokarddan normalde perfüze olan alanlara yönlendirdiği görülmüştür
+(koroner çalma). Hastaların hangilerinde ve ne boyutta koroner çalma görüldüğü tam
+olarak bilinmemektedir.
+İsofluran bu tür hastalarda dikkatle kullanılmalıdır.
+- Kafa içi basıncın yükselmesi riski bulunan hastalarda isofluran dikkatle ve kafa içi
+basıncı azaltan diğer yöntemlerle birlikte uygulanmalıdır.
+- İsofluran, karbon monoksit oluşturmak üzere kuru karbondioksit absorbanlar ile
+reaksiyona girebilir. Anestezi solunum devrelerinde karbon monoksit oluşumu ile
+olası bir karboksihemoglobin düzeyi artışı riskini azaltmak için karbondioksit
+absorbanların kurumasına izin verilmemelidir.
+Anestezi aygıtında karbondioksidi absorbe etmede kullanılan baryum hidroksit ve
+soda lime (kalsiyum ve sodyum hidroksit karışımı), taze gazların CO kanisterinden
+2
+yüksek akımla uzun saatler ya da günlerce geçirildikten sonra kuruyabilmektedir.
+Klinisyenin anestezi solunum devrelerindeki CO absorbanların kuruduğundan
+2
+kuşkulandığı durumlarda, bu adsorbanlar isofluran uygulaması öncesi yenisiyle
+değiştirilmelidir.
+- CO absorbanların çoğundaki renk göstergesindeki renk değişikliğinin mutlaka
+2
+kurumaya bağlı olması gerekmemektedir. Bu nedenle belirgin renk değişikliğinin
+olmaması uygun hidrasyon yapmamaya gerekçe olmamalıdır. CO absorbanları, renk
+2
+göstergesinin durumundan bağımsız olarak ve anestezi ekipmanının geçerli kullanım
+talimatlarına uyularak rutin olarak değiştirilmelidir.
+- İsofluran genel anesteziden günler sonra mizaçta değişikliklere neden olabilmesi
+yanında entelektüel işlevlerde bir azalmaya neden olabilir.
+- Yenidoğanlar hariç, yaş arttıkça isofluranın MAC değerleri azalmaktadır.
+- İsofluran kullanılan operasyonlarda bulunan anestezist ve anestezi teknisyenlerinde
+mesleki maruziyete bağlı şu reaksiyonlar bildirilmiştir: dispne, bronkospazm, stridor,
+öksürük, baş dönmesi/sersemlik hali, parestezi, hepatik reaksiyonlar, yüzde kızarma,
+döküntü, kontakt dermatit, eritem, periorbital ödem, gözde iritasyon, konjoktival
+hiperemi ve başağrısı. Bkz. Bölüm 4.8.2.
+44.5 Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+- Opioidler isofluranın Minimum Alveoler Konsantrasyonunu (MAC) azaltır.
+Fentanil ya da fentanil analogları gibi opioidler isofluranla kombine edildiklerinde
+kan basıncında ve solunum hızında sinerjik azalmaya neden olurlar.
+- N O, isofluranın MAC'ını düşürür. Bkz. Bölüm 4.2.
+2
+- İsofluran nöromusküler bloke edici ajanların gereken dozunda azalma sağlar. Ek kas
+gevşemesi istenen durumlarda kas gevşeticilerin ek dozları kullanılabilir.
+- Genel olarak isofluranın anestezinin sabitlenmiş fazındaki anestezik
+konsantrasyonları süksinil kolin, atrakuriyum, pankuroniyum, rokuroniyum ve
+vekuroniyumun ED95 değerlerini N O/opioid anestezisine göre yaklaşık %25-40 ya
+2
+da daha fazla düşürür.
+- İsofluran, miyokardın dışardan uygulanan adrenalinin aritmojen etkisine duyarlı hale
+getirme açısından sevoflurana benzer etkilidir. Adrenalinin multipl ventriküler aritmi
+oluşturma eşik dozu 5 mcg/kg vücut ağırlığı olarak bilinmektedir.
+- İsofluran kalsiyum antagonistleriyle tedavi gören hastalarda belirgin hipotansiyona
+yol açabilir.
+- Uzun sürelerle St John's Wort (sarı kantaron) kullanan hastalarda halojenli inhalasyon
+anesteziği kullanıldığında şiddetli hipotansiyon ve anesteziden geç ayılma
+bildirilmiştir.
+İsofluranın aşağıdaki ürünlerle birlikte uygulanması, hastanın klinik ve biyolojik
+durumunun ciddi gözetim altında tutulmasını gerektirir.
+Kontrendike kombinasyon:
+- Non-selektif MAO inhibitörleri: Ameliyat sırasında kriz riski. Tedavi, ameliyattan 15
+gün önce durdurulmalıdır.
+Önerilmeyen kombinasyonlar:
+- Beta-sempatomimetikler (isoprenalin) ve alfa ve beta sempatomimetikler (epinefrin
+veya adrenalin; norepinefrin veya noradrenalin): kalp atış hızının artması sonucu
+ciddi ventriküler aritmi riski.
+Kullanımında önlem gerektiren kombinasyonlar:
+- Beta-blokerler: negatif inotrop etkilerinin artması sonucu kardiyovasküler
+kompansasyon mekanizmasının bloke olma riski. Operasyon sırasında beta-
+blokerlerin etkisi beta-sempatomimetik ajanların kullanımı ile baskılanabilir. Genel
+olarak beta-bloker içeren hiçbir ilaç tedavisinin durdurulması gerekmez ve dozun ani
+olarak azaltılmasından kaçınılmalıdır.
+- İzoniazid: izoniazidin toksik metabolitlerinin oluşumunun artması sonucu
+hepatotoksik etkisinin kuvvetlenme riski. İzoniazid ile tedaviye ameliyattan 1 hafta
+önce ara verilmeli ve yeniden kullanmaya ameliyattan 15 gün sonra başlanmalıdır.
+5- Epinefrinin (adrenalin) lokal hemostatik etkisi için subkutan veya gingival enjeksiyon
+yolu ile kullanımında: diğer halojenize anesteziklerin kullanıldığı durumlara kıyasla,
+epinefrin isofluran ile kullanıldığında miyokard duyarlılığı daha düşük olmasına
+rağmen, kalp atış hızının artmasına bağlı olarak ciddi ventriküler aritmi riski
+mevcuttur; bu nedenle, yetişkinlerde dozaj 10 dakika içinde 0.1 mg veya 1 saat içinde
+0.3 mg epinefrin verilmesi şeklinde sınırlandırılmalıdır.
+- İndirekt sempatomimetikler (amfetaminler ve türevleri; psikostimülanlar, iştah
+kesiciler, efedrin ve türevleri): ameliyat sırasında aşırı duyarlılık riski. Planlanmış bir
+ameliyat durumunda, ameliyattan birkaç gün önce tedaviye ara verilmesi tercih edilir.
+İlaç tedavisinin zorunlu olduğu vakaların çoğunda genel anesteziden önce ilacı kesmeye
+gerek yoktur. Anestezisti bu konu hakkında bilgilendirmek yeterlidir.
+- Kas gevşetici ajanlar: Kas gevşeticilerin, özellikle de non-depolarizan olanlarının
+depolarizan etkisinin yoğunlaşması riski vardır. Bu nedenle, kas gevşeticilerin
+normalde kullanılan dozlarının yaklaşık üçte biriyle yarısı kadarının uygulanması
+önerilmektedir. İsofluran ile miyonöral etkinin ortadan kalkması, bilinen diğer
+konvansiyonel anesteziklere kıyasla daha uzun zaman almaktadır. Neostigminin
+depolarize olmayan gevşeticiler üzerinde etkisi vardır, ancak isofluranın relaksan
+etkisi üzerinde hiç bir etkisi yoktur.
+- Morfin analjezikleri: bu ürünler isofluranın solunum üzerindeki depresif etkisini
+güçlendirir.
+- Kalsiyum antagonistleri: kalsiyum antagonistleri, özellikle de dihidropiridin türevleri
+ile tedavi edilen hastalarda isofluran belirgin bir hipotansiyona neden olabilir[p1].
+Özel popülasyonlara ilişkin ek bilgiler
+Özel popülasyonlara ilişkin yapılan bir etkileşim çalışması bulunmamaktadır.
+Pediyatrik popülasyon:
+Bu popülasyona ilişkin yapılan bir etkileşim çalışması bulunmamaktadır.
+4.6 Gebelik ve laktasyon
+Genel tavsiye
+Gebelik Kategorisi: C
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon)
+İsofluran’ın çocuk doğurma potansiyeli bulunan kadınlarda kullanıldığında üreme
+kapasitesini etkileyip etkilemediği bilinmemektedir.
+Gebelik dönemi
+Hayvanlar üzerinde yapılan çalışmalar gebelik /ve-veya embriyonal/fetal gelişim/ve-
+veya/doğum /ve-veya doğum sonrası gelişim üzerindeki etkiler bakımından yetersizdir
+(bkz. kısım 5.3) İnsanlara yönelik potansiyel risk bilinmemektedir.
+6AERRANE’ın gebe kadınlarda güvenle kullanıldığı gösterilmemiş olduğundan, gebelikte
+kullanımından kaçınılmalı; ancak sağlayacağı yarar, fetüs üzerindeki oluşturabileceği
+muhtemel riski haklı kılıyorsa kullanılmalıdır.
+Laktasyon dönemi
+İsofluran’ın anne sütüne geçip geçmediği bilinmemektedir. Birçok ilaç anne sütüne
+geçtiği için, AERRANE laktasyonda uygulanırken dikkatli olunmalıdır.
+Anestezi bitiminden sonraki 12-24 saat içinde emzirme yapılmamalıdır.
+Üreme yeteneği/Fertilite
+İsofluran’ın karsinojenik potansiyelini ya da fertiliteye etkisini değerlendirmek amacıyla
+uzun süreli hayvan çalışmaları yapılmamıştır.
+Doğumda kullanımı:
+- İsofluran elektif sezaryen cerrahisinde genel anestezinin bir bileşeni olarak
+kullanılmıştır.
+- Normal vajinal doğumda isofluran uygulamasının güvenilirliği ve etkinliği
+gösterilmemiştir.
+- İsofluran uterus düz kaslarında gevşetici etki gösterir. Bu durum obstetrik cerrahi ve
+uterus küretajıyla abortus gibi uterus kaslarının kasılmasının hemostaza yardımcı
+olduğu durumlarda kan kaybının artışına yol açabilir.
+4.7 Araç ve makine kullanımı üzerindeki etkiler
+AERRANE ile anestezi sonrasında, hasta 24 saat boyunca araba ve makine
+kullanmamalıdır. Hasta ancak refakatçi ile eve gönderilmeli ve alkol almamalıdır.
+4.8 İstenmeyen etkiler
+AERRANE ile görülen istenmeyen etkilerin sıklığı aşağıdaki şekilde belirtilmiştir: Çok
+yaygın (≥1/10), yaygın (≥1/100 ila <1/10), yaygın olmayan (≥1/1.000 ila <1/100), seyrek
+(≥1/10.000 ila <1/1.000), çok seyrek (<1/10.000), bilinmiyor (eldeki verilerden hareketle
+tahmin edilemiyor).
+Erişkin ve pediyatrik hastalarda kontrollü klinik çalışmalarda bildirilen istenmeyen
+etkiler aşağıdadır. Bu istenmeyen etkiler isoflurana ek olarak bir çok değişik
+premedikasyon ilacı ve diğer anestezik kullanıldığı ve değişen uzunluklardaki cerrahi
+girişimlerde yapılan çalışmalardan elde edilmiştir.
+Kan ve lenfatik sistem hastalıkları
+Çok yaygın1: Lökositoz.
+Metabolizma ve beslenme hastalıkları
+Bilinmiyor: Kan şekerinde yükselme
+7Psikiyatrik hastalıklar
+Yaygın: Deliryum
+Yaygın olmayan: Mizaç değişiklikleri, Kabus görme.
+Bilinmiyor: Konfüzyonel durum, Sinirlilik hali.
+Sinir sistemi hastalıkları
+Çok yaygın2: Ajitasyon (indüksiyon sırasında)
+Yaygın: Hareketlilik (idame sırasında)
+Yaygın olmayan: Elektroensefalografide konvülsif görünüm
+Seyrek: Konvülsiyon
+Bilinmiyor: Ataksi, Baş dönmesi, Sersemlik hali, Entelektüel işlevlerde
+azalma.
+Kardiyak hastalıklar
+Yaygın: Ventriküler aritmi (intraoperatif)3, Nodal aritmi
+(intraoperatif)3, Atriyal aritmi (intraoperatif)3, Aritmi
+(postoperatif).
+Vasküler hastalıklar
+Yaygın olmayan: Hipotansiyon (postoperatif)
+Seyrek: Hipertansiyon (postoperatif)
+Bilinmiyor: Hipotansiyon (intraoperatif), Hipertansiyon (intraoperatif)
+Solunum, göğüs bozuklukları ve mediastinal hastalıklar
+Çok yaygın: Soluk tutma (indüksiyonda ve toplamda)2,3, Öksürük
+(indüksiyonda ve toplamda)2,3
+Yaygın: Soluk tutma (idame anestezisinde)2, Öksürük (idame
+anestezisinde) 2, Laringospazm (indüksiyonda ve
+toplamda)2,3
+Yaygın olmayan: Laringospazm (idame anestezisinde) 2, Sekresyon
+(indüksiyonda ve toplamda)2,3
+Bilinmiyor: Sekresyon (idame anestezisinde)4
+Gastrointestinal hastalıklar
+Çok yaygın: Bulantı (ayılma döneminde)
+Yaygın: Kusma (ayılma döneminde)
+Yaygın olmayan: Kusma (indüksiyon döneminde)2, Öğürtü (indüksiyon
+döneminde)2
+8Hepato-bilier hastalıklar
+Bilinmiyor: Kanda bilirubin düzeylerinde yükselme, Bromsülfatalein
+klerensinde azalma, Alanin aminotransferaz düzeylerinde
+yükselme, Aspartat aminotransferaz düzeylerinde
+yükselme, Kan alkalen fosfataz düzeylerinde yükselme,
+Kan laktat dehidrogenaz düzeylerinde yükselme.
+Deri ve deri altı doku hastalıkları
+Yaygın olmayan: Diyaforez (indüksiyonda ve toplamda)2,3,
+Bilinmiyor: Diyaforez (idame anestezisinde) 4.
+Kas-iskelet bozuklukları, bağ doku ve kemik hastalıkları
+Bilinmiyor: Miyalji
+Genel bozukluklar ve uygulama bölgesine ilişkin hastalıklar
+Çok yaygın: Titreme / ürperme
+Bilinmiyor: Asteni, Halsizlik/yorgunluk.
+1. Postoperatif 1 ila 2'inci günler ve 3 ila 5'inci günler arasında tüm hastalarda lökosit sayısında
+artış bildirilmiştir.
+2. İndüksiyonda intravenöz ajan ya da kas gevşetici almayan, yani yalnızca inhalasyonla
+indüksiyon uygulanan hastalardaki sıklıktır.
+3. Toplam sıklık her bir anestezi fazına özgü verilerden elde edilerek belirlenmiştir.
+4. İdame sırasında (0/359) hastada görülmüştür. İndüksiyonda intravenöz ajan ya da kas
+gevşetici almayan, yani yalnızca inhalasyonla indüksiyon uygulanan hastalardaki sıklıktır.
+Pazarlama sonrası deneyim sırasında bildirilen istenmeyen etkiler aşağıdadır. Bu
+istenmeyen etkilerin sıklığı bilinmemektedir ve her bir organ sistemi altında şiddetlerine
+göre sıralanmıştır.
+Kan ve lenfatik sistem hastalıkları
+Karboksi hemoglobin düzeylerinde yükselme.
+Bağışıklık sistemi hastalıkları
+Anafilaktik reaksiyonlar.
+Metabolizma ve beslenme hastalıkları
+Hiperkalemi.
+Psikiyatrik hastalıklar
+Çekilme sendromu (birden fazla gün maruziyet sonrası görülmüştür; semptomları
+arasında konvülsiyon, halüsinasyon, ataksi, ajitasyon ve konfüzyon bildirilmiştir).
+Sinir sistemi hastalıkları
+Beyin ödemi, Kafa içi basınç artışı, Migren, Miyoklonus, Nistagmus, Pupillerin eşit
+büyüklükte olmaması, Baş ağrısı.
+9Kardiyak hastalıklar
+Kardiyak arest, Ventriküler fibrilasyon, Torsade de pointes, Miyokard enfarktüsü,
+Miyokardiyal iskemi, Tam atriyoventriküler blok, İkinci derece atriyoventriküler blok,
+Atriyal fibrilasyon, EKG'de QT uzaması, Birinci derece atriyoventriküler blok,
+Ventriküler taşikardi, Ventriküler ekstrasistoller, Taşikardi, Bradikardi, Kalp debisinde
+azalma.
+Vasküler hastalıklar
+Yüzde kızarma.
+Solunum, göğüs bozuklukları ve mediastinal hastalıklar
+Apne, Hipoksi, Bronkospazm, Soluk yollarında tıkanma, Solunum depresyonu,
+Hiperkapni, Stridor, Hıçkırık.
+Gastrointestinal hastalıklar
+Pankreatit.
+Hepato-bilier hastalıklar
+Karaciğer yetmezliği, Karaciğer nekrozu, Fulminan hepatit, Kolestatik hepatit, Hepatit,
+Hepatik steatoz, Sarılık, Gama glutamiltransferaz düzeylerinde yükselme.
+Deri ve deri altı doku hastalıkları
+Döküntü.
+Kas-iskelet bozuklukları, bağ doku ve kemik hastalıkları
+Rabdomiyoliz.
+Böbrek ve idrar hastalıkları
+Akut böbrek yetmezliği**, Oligüri**.
+Genel bozukluklar ve uygulama bölgesine ilişkin hastalıklar
+Malign hipertermi, Hipotermi.
+Yaralanma ve zehirlenmeler*
+Anestezi sırasında istenmeyen dikkat bozulması, Dispne, Bronkospazm, Stridor,
+Öksürük, Baş dönmesi/sersemlik hali, Parestezi, Hepatik reaksiyonlar, Yüzde kızarma,
+Döküntü, Kontakt dermatit, Eritem, Periorbital ödem, Gözde iritasyon, Konjoktival
+hiperemi, Baş ağrısı.
+* Bu kategoride listelenmiş "anestezi sırasında istenmeyen dikkat bozulması" harici tüm
+reaksiyonlar hasta olmayanlarda bildirilen mesleki maruziyete bağlıdır.
+** İsofluran anestezisinden sonra akut böbrek yetmezliği ve oligüri vakaları bildirilmiştir. Bu
+vakalar isofluranın hipotansif ya da diğer etkilerine sekonder olabilir.
+104.9 Doz aşımı ve tedavisi
+Doz aşımı durumunda veya doz aşımı olduğu düşünülen durumlarda isofluran
+uygulamasına son verilmeli, hava yolunun açık olup olmadığı kontrol edilmeli, saf
+oksijenle destekli ya da kontrollü yapay solunum başlatılmalı ve kardiyovasküler
+fonksiyonların idamesi sağlanmalıdır.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1 Farmakodinamik özellikler
+Farmakoterapötik Grubu: Halojenli hidrokarbonlar
+ATC kodu: N01AB06
+İsofluran, halojenize anestezikler grubunun bir üyesi olup, inhalasyon yoluyla uygulanan
+bir anesteziktir. İsofluranla anestezi indüksiyonu ve anesteziden ayılma hızla gerçekleşir.
+İsofluran, indüksiyon hızını kısıtlayabilecek şekilde, hafif bir tahriş edici eter kokusuna
+sahiptir.
+Faringeal ve laringeal refleksler oldukça hızlı bir şekilde azalarak kolay bir endotrakeal
+intübasyona olanak sağlar.
+İnsanda isofluranın minimum alveol konsantrasyonu (MAC) aşağıdaki şekildedir:
+Yaş (Yıl) O - %100 O + N O (%60)
+2 2 2
+Yeni doğan 1.60 -
+1-6 ay 1.87 -
+7-11 Ay 1.80 -
+1-2 yaş 1.60 -
+3-5 yaş 1.62 -
+6-10 yaş 1.40 0.58
+10-15 yaş 1.16 0.53
+Yaş (Yıl) O - %100 O + N O (%70)
+2 2 2
+26±4 1.28 0.56
+44±7 1.15 0.50
+64±5 1.05 0.37
+5.2 Farmakokinetik özellikler
+Genel özellikler
+AERRANE diğer halojenize anesteziklere kıyasla, minimal düzeyde metabolize olur.
+AERRANE’ın ortalama %95'i dışarıya verilen hava içinde atılır; vücutça alınan
+AERRANE’ın %0.2 kadarı metabolize olur. Ana metaboliti trifluroasetik asittir.
+AERRANE anestezisi uygulanan hastaların inorganik florür serum seviyesi ortalama
+olarak 3-4 mikromol/litre'dir.
+11İsofluran anestezisi alan hastalarda, ortalama inorganik florür serum seviyesi genelde
+5mikromol/litre'den az olarak bulunmuştur. Bu düzeylere anesteziden 4 saat sonra
+ulaşılmakta ve düzeyler 24 saatte normale dönmektedir. Bu düzeyler normal kişilerde
+böbrek işlevlerini değiştirmemelidir.
+5.3 Klinik öncesi güvenlilik verileri
+Organogenez sırasında gebe farelere %0.6'lık konsantrasyonlarda 10 gün boyunca günde
+4 saat süreyle isofluran uygulanmasının fetotoksik etkilere yol açabileceği gösterilmiştir.
+Bu durumun tersine organogenez sırasında gebe sıçanlara %1.05'lik konsantrasyonlarda
+3 gün boyunca günde 6 saat süreyle ya da %1.63-1.73'lük konsantrasyonlarda 5 gün
+boyunca günde 1 saat süreyle uygulanmasının ve organogenez sırasında gebe tavşanlara
+%2.28-2.34'lük konsantrasyonlarda 4 gün boyunca günde 1 saat süreyle uygulanması
+fetotoksik etkilere yol açmaz.
+6. FARMASÖTİK ÖZELLİKLER
+6.1 Yardımcı maddelerin listesi
+Yardımcı madde bulunmamaktadır.
+6.2 Geçimsizlikler
+Uygulanabilir değil.
+6.3 Raf ömrü
+5 yıl.
+6.4 Saklamaya yönelik özel tedbirler
+30° C'nin altında, dikey pozisyonda saklanmalıdır.
+6.5 Ambalajın niteliği ve içeriği
+Vidalı kapaklı 100 mL'lik şişelerde.
+6.6 Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+Kullanılmayan ürün ya da atıklar yerel uygulamalar doğrultusunda atılmalıdır.
+127. RUHSAT SAHİBİ
+Adı : Eczacıbaşı-Baxter Hastane Ürünleri Sanayi ve Ticaret A.Ş.
+Adresi : Cendere Yolu, Pırnal Keçeli Bahçesi 34390 Ayazağa-İSTANBUL
+Tel : (0.212) 329 62 00
+Faks : (0.212) 289 92 75
+Üretim yeri:
+Adı : Baxter Healthcare of Puerto Rico
+Adresi : Puerto Rico 00784 - ABD
+Tel : +1 787 864 50 50
+Fax :+1787 866 27 14
+8. RUHSAT NUMARASI
+109/51
+9. İLK RUHSAT TARİHİ: 29.01.2001
+RUHSAT YENİLEME TARİHİ
+29.01.2006 / 29.01.2011
+10. KÜB’ÜN YENİLENME TARİHİ
+-----------------------------
+13

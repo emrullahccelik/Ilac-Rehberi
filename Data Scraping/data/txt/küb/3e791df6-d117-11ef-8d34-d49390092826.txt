@@ -1,0 +1,1436 @@
+KISA ÜRÜN BİLGİSİ
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+HERCEPTIN 600 mg/5 mL S.C. enjeksiyonluk çözelti
+Steril
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde:
+Bir flakon, 600 mg/5 mL trastuzumab içerir. 1mL konsantre çözelti 30 mg trastuzumab
+içerir. Trastuzumab, rekombinant DNA teknolojisi ile memeli (Çin hamsteri
+yumurtalığı) hücre süspansiyonu kültüründen üretilen ve spesifik viral inaktivasyon ve
+uzaklaştırma prosedürleri dahil afinite ve iyon değiştirme kromatografisiyle saflaştırılan
+hümanize IgG1 monoklonal antikorudur.
+Yardımcı madde (ler):
+Yardımcı maddelerin tam listesi için Bölüm 6.1’e bakınız.
+3. FARMASÖTİK FORM
+Enjeksiyonluk çözelti
+HERCEPTIN, açık sarımsı renkte, berrak ile opalesan arası bir çözeltidir.
+4. KLİNİK ÖZELLİKLER
+4.1 Terapötik endikasyonlar
+Meme Kanseri
+Metastatik Meme Kanseri (MMK)
+HERCEPTIN HER2 pozitif metastatik meme kanserli yetişkin hastaların tedavisinde
+endikedir:
+- Metastatik hastalıkları için en az iki kemoterapi rejimi almış hastaların tedavisinde
+monoterapi olarak endikedir. Önceki kemoterapi uygulamaları, hastaların bu
+tedaviler için uygun olmadığı durumlar haricinde, en az bir antrasiklin ve taksan
+içermiş olmalıdır. Hormon reseptörü pozitif hastaların da, hormonal tedavileri
+almaya uygun olmadığı durumlar haricinde, bu tedavileri başarısız olmuş
+olmalıdır.
+- Metastatik hastalıkları için kemoterapi görmemiş ve antrasiklinin uygun olmadığı
+hastaların tedavisi için paklitaksel ile kombinasyon halinde endikedir.
+- Metastatik hastalıkları için kemoterapi görmemiş hastaların tedavisi için
+dosetaksel ile kombinasyon halinde endikedir.
+1 / 36- Trastuzumab ile daha önce tedavi görmemiş, hormon-reseptörü pozitif metastatik
+meme kanseri olan post-menopozal hastaların tedavisi için bir aromataz inhibitörü
+ile kombinasyon halinde endikedir.
+Erken Evre Meme Kanseri (EEMK)
+HERCEPTIN HER2 pozitif erken evre meme kanserli yetişkin hastaların tedavisinde
+endikedir:
+- Cerrahi, kemoterapi (neoadjuvan veya adjuvan) ve radyoterapiyi (uygulanabilirse)
+takiben kullanımı endikedir (bkz. Bölüm 5.1).
+- Doksorubisin ve siklofosfamid ile adjuvan kemoterapiyi takiben paklitaksel veya
+dosetaksel ile kombinasyon halinde endikedir.
+- Dosetaksel ve karboplatin içeren adjuvan kemoterapiyle kombinasyon halinde
+endikedir.
+- Lokal ileri (enflamatuvar dahil) hastalık veya > 2 cm çapındaki tümörler için
+neoadjuvan kemoterapiyle kombinasyon halinde, ardından adjuvan HERCEPTIN
+tedavisi (bkz. Bölüm 4.4 ve 5.1) ile endikedir.
+HERCEPTIN, doğru ve valide edilmiş miktar tayini yöntemleri ile belirlenmiş HER2
+aşırı ekspresyonu veya HER2 gen amplifikasyonu olan yalnızca metastatik veya erken
+evre meme kanserli hastalarda kullanılmalıdır (bkz. Bölüm 4.4 ve 5.1).
+4.2 Pozoloji ve uygulama şekli
+Tedavinin başlatılmasından önce HER2 testinin yapılması zorunludur (bkz. Bölüm 4.4
+ve 5.1). HERCEPTIN tedavisi yalnızca sitotoksik kemoterapi uygulaması konusunda
+deneyimli bir hekim tarafından başlatılmalıdır (bkz. Bölüm 4.4).
+Reçete edildiği şekilde, hastaya doğru formun (intravenöz veya subkutan sabit doz)
+uygulandığından emin olmak için ürün etiketinin kontrol edilmesi önemlidir.
+HERCEPTIN’in subkutan formu intravenöz uygulama için uygun değildir ve sadece
+subkutan enjeksiyonla verilmelidir.
+MO22982 çalışmasında, HERCEPTIN intravenöz ve HERCEPTIN subkutan
+formülasyonları arasında ve tam tersi olarak tedavi geçişi üç haftalık doz rejimi
+kullanılarak araştırılmıştır (bkz. Bölüm 4.8).
+Yanlış ilaç kullanımını önlemek amacıyla hazırlanan ve uygulanan ilacın Kadcyla
+(trastuzumab emtansine) değil HERCEPTIN (trastuzumab) olduğundan emin olmak için
+flakon etiketinin kontrol edilmesi önemlidir.
+Pozoloji:
+HERCEPTIN SC formülasyonu için önerilen doz, hastanın vücut ağırlığından bağımsız
+olarak 600 mg’dır. Yükleme dozu gerekli değildir. Bu doz, üç haftada bir 2-5 dakika
+boyunca subkutan yoldan uygulanmalıdır.
+2 / 36Pivotal çalışmada (BO22227) HERCEPTIN’in subkutan formu neoadjuvan/adjuvan
+olarak erken evre meme kanserli hastalara uygulanmıştır. Operasyon öncesi kemoterapi
+rejimi dosetaksel (75 mg/m²) ardından standart dozda FES (5FU, epirubisin ve
+siklofosfamid)’dir.
+Kemoterapi kombinasyon dozlaması için Bölüm 5.1’e bakınız.
+Uygulama sıklığı ve süresi:
+Tedavi süresi:
+MMK’li hastalar, hastalık progresyonuna kadar HERCEPTIN ile tedavi edilmelidir.
+EEMK’li hastalar, 1 yıl süreyle veya hastalık nüksüne kadar (hangisi önce gerçekleşirse)
+HERCEPTIN ile tedavi edilmelidir. EEMK’de tedavinin 1 yıldan fazla uzatılması
+önerilmemektedir.
+Doz azaltımı:
+Klinik çalışmalar sırasında HERCEPTIN dozunda herhangi bir azaltma yapılmamıştır.
+Hastalar, geri dönüşümlü, kemoterapinin indüklediği miyelosupresyon dönemlerinde
+tedaviye devam edebilirler; ancak bu süre boyunca nötropeni komplikasyonları
+açısından dikkatli bir şekilde takip edilmelidirler. Doz azaltımı veya gecikmelerine
+ilişkin bilgi için paklitaksel, dosetaksel veya aromataz inhibitörü Kısa Ürün Bilgilerine
+bakınız.
+Eğer, sol ventrikül ejeksiyon fraksiyonu (LVEF) düşüş oranı başlangıca göre ≥ 10 birim
+ve %50’nin altına düşerse tedaviye ara verilmeli ve yaklaşık 3 hafta içinde tekrar LVEF
+değerlendirmesi yapılmalıdır. Eğer, LVEF düzelmemişse veya daha da düşmüşse veya
+semptomatik konjestif kalp yetmezliği gelişmişse, hastanın tedaviden elde edeceği fayda
+riskten fazla olmadığı sürece HERCEPTIN tedavisinin sona erdirilmesi ciddi olarak
+düşünülmelidir. Bu gibi hastalar, bir kardiyolog tarafından değerlendirilmek üzere sevk
+edilmeli ve takip edilmelidir.
+Kaçırılan dozlar:
+Hasta, HERCEPTIN SC formülasyonunun bir dozunu kaçırırsa, en kısa sürede bir
+sonraki 600 mg’lık dozun (yani kaçırılan dozun) uygulanması önerilir. Ardışık
+HERCEPTIN SC formülasyonu uygulamaları arasındaki aralık üç haftadan az
+olmamalıdır.
+Uygulama şekli:
+600 mg’lık doz, 2-5 dakika boyunca subkutan enjeksiyon yoluyla uygulanmalıdır.
+Enjeksiyon yeri dönüşümlü olarak sol ve sağ uyluk olmalıdır. Yeni enjeksiyonlar,
+önceki yerin en az 2,5 cm uzağında uygulanmalı ve deride kızarıklık, morarma,
+hassasiyet veya sertlik gözlenen alanlara asla uygulanmamalıdır. HERCEPTIN SC
+formülasyonu ile tedavi süresince, subkutan uygulamaya yönelik diğer ilaçlar tercihen
+farklı yerlere enjekte edilmelidir. Hastalar, ilk enjeksiyondan altı saat sonrasına kadar ve
+sonraki enjeksiyonlardan iki saat sonrasına kadar, uygulama ile ilgili reaksiyonların
+belirtileri veya semptomları açısından takip edilmelidirler (bkz. Bölüm 4.4 ve 4.8).
+3 / 36HERCEPTIN SC formülasyonunun kullanım ve uygulama talimatları için Bölüm 6.6’ya
+bakınız.
+Özel popülasyonlara ilişkin ek bilgiler:
+Böbrek/Karaciğer yetmezliği:
+Yaşlı ve böbrek veya karaciğer yetmezliği olan hastalarda özel farmakokinetik
+çalışmalar yürütülmemiştir. Popülasyon farmakokinetik analizinde, yaş ve böbrek
+yetmezliğinin trastuzumab dağılımını etkilemediği gösterilmiştir.
+Pediyatrik popülasyon:
+HERCEPTIN’in pediyatrik hastalarda kullanımı bulunmamaktadır.
+Geriyatrik popülasyon:
+Yaşlı hastalarda detaylı farmakokinetik çalışmalar yapılmamıştır. Popülasyon
+farmakokinetik analizinde, yaşın trastuzumab dağılımını etkilemediği gösterilmiştir.
+4.3 Kontrendikasyonlar
+Trastuzumab, murin proteinleri, hiyaluronidaz veya bölüm 6.1’de listelenen diğer
+yardımcı maddelerden herhangi birine karşı aşırı duyarlılığı olan hastalarda,
+İlerlemiş malignite komplikasyonlarından kaynaklanan dinlenme halinde şiddetli dispne
+veya destekleyici oksijen tedavisi gerektiren durumlarda kontrendikedir.
+4.4 Özel kullanım uyarıları ve önlemleri
+HER2 testi, test prosedürlerinin uygun validasyonunu sağlayabilen uzman bir
+laboratuvarda yaptırılmalıdır (bkz. Bölüm 5.1).
+Adjuvan koşullarda daha önce HERCEPTIN kullanmış olan hastaların, HERCEPTIN ile
+yeniden tedavi edilmesine ilişkin klinik çalışmalardan elde edilmiş herhangi bir veri
+bulunmamaktadır.
+Kardiyak fonksiyon bozukluğu
+Genel bilgiler
+HERCEPTIN ile tedavi edilen hastalarda, konjestif kalp yetmezliği (KKY) (New York
+Kalp Birliği [NYHA] sınıf II-IV) veya asemptomatik kardiyak fonksiyon bozukluğu
+geliştirme riski daha yüksektir. Bu olaylar, özellikle antrasiklin (doksorubisin veya
+epirubisin) içeren kemoterapinin ardından paklitaksel veya dosetaksel ile kombinasyon
+halinde veya tek başına HERCEPTIN tedavisi alan hastalarda gözlenmiştir. Bunlar orta
+ile ileri düzeyde olabilir ve ölümle ilişkilendirilmiştir (bkz. Bölüm 4.8). İlave olarak,
+artmış kardiyak riski bulunan hastaların (örn. hipertansiyon, tanısı konmuş koroner arter
+hastalığı, tanısı konmuş, kalp yetmeziği, LVEF< %55, ileri yaş) tedavisi sırasında çok
+dikkat edilmelidir.
+4 / 36HERCEPTIN ile tedavi edilmeye aday hastalar, özellikle önceden antrasikline ve
+siklofofamide (AC) maruz kalanlar, anamnez ve fiziksel muayene, elektrokardiyogram
+(EKG), ekokardiyogram ve/veya radyonüklid ventrikülografi (MUGA) taraması veya
+manyetik rezonans görüntüleme dahil olmak üzere temel kardiyak incelemelerine tabi
+tutulmalıdır. İzleme, kardiyak fonksiyon bozukluğu gelişen hastaların belirlenmesine
+yardımcı olabilir. Başlangıçta yapılan kardiyak değerlendirmeler, tedavi sırasında her 3
+ayda bir, tedavinin kesilmesinden sonra her 6 ayda bir, son HERCEPTIN
+uygulamasından sonraki 24. aya kadar tekrarlanmalıdır. HERCEPTIN ile tedaviye karar
+verilmeden önce, dikkatli bir risk-yarar değerlendirmesi yapılmalıdır.
+Trastuzumab, tüm mevcut verilerin popülasyon farmakokinetik analizine dayanarak,
+HERCEPTIN tedavisinin sonlandırılmasının ardından 7 aya kadar dolaşımda kalabilir
+(bkz. Bölüm 5.2). HERCEPTIN kesildikten sonra antrasiklin alan hastalar, kardiyak
+fonksiyon bozukluğu bakımından risk altında olabilirler. Eğer mümkünse, hekimler
+HERCEPTIN tedavisi sonlandırıldıktan sonra 7. haftaya kadar antrasiklin bazlı
+tedaviden kaçınmalıdır. Antrasiklinler kullanılıyorsa, hastanın kardiyak fonksiyonu
+dikkatle izlenmelidir.
+Başlangıçtaki taramanın ardından kardiyovasküler sorunların bulunduğu hastalarda
+kardiyolojik değerlendirme düşünülmelidir. Tedavi boyunca, tüm hastalarda kardiyak
+fonksiyon izlenmelidir (örn. her 12 haftada bir). Bu izlem, kardiyak fonksiyon
+bozukluğu gelişen hastaların saptanmasına yardımcı olabilir. Asemptomatik kardiyak
+fonksiyon bozukluğu gelişen hastalarda, daha sık izlem (örn. her 6-8 haftada bir) faydalı
+olabilir. Eğer hastalarda sol ventriküler fonksiyonda düşüş devam ediyor ancak
+asemptomatik kalıyorsa ve hastalar HERCEPTIN tedavisinden klinik fayda göremiyorsa
+hekim tarafından tedavinin kesilmesi düşünülmelidir.
+Kardiyak fonksiyon bozukluğu olanhastalarda HERCEPTIN kullanımına devam
+edilmesi veya yeniden başlanmasının güvenliliği prospektif olarak araştırılmamıştır.
+Eğer, LVEF için düşüş oranı, başlangıç değerinden 10 birim ya da daha fazlasıysa ve
+%50’nin altına düşüyorsa tedaviye ara verilmeli ve yaklaşık 3 hafta içerisinde yeniden
+LVEF değerlendirmesi yapılmalıdır. LVEF değeri düzelmiyorsa veya daha da
+azalıyorsa, veya semptomatik kardiyak yetmezlik gelişirse, hastanın tedaviden elde
+edeceği fayda riskten fazla olmadığı sürece HERCEPTIN tedavisinin sona erdirilmesi
+ciddi olarak düşünülmelidir. Bu gibi hastalar, bir kardiyolog tarafından değerlendirilmek
+üzere sevk edilmeli ve takip edilmelidir.
+HERCEPTIN tedavisi sırasında semptomatik kalp yetmezliği gelişirse, kalp
+yetmezliğine (KY) yönelik standart ilaçlarla tedavi edilmelidir. Pivotal çalışmalarda,
+KY veya asemptomatik kardiyak fonksiyon bozukluğu gelişen çoğu hasta, anjiyotensin
+dönüştürücü enzim (ACE) inhibitörü veya anjiyotensin reseptör blokeri (ARB) ve bir
+beta-bloker içeren standart KY tedavisiyle iyileşmiştir. Kardiyak semptomları olan ve
+HERCEPTIN tedavisinden klinik fayda sağladığı görülen hastaların çoğu, ilave klinik
+kardiyak olaylar yaşamaksızın tedaviye devam etmiştir.
+Metastatik meme kanseri:
+Metastatik meme kanseri tedavisinde HERCEPTIN ve antrasiklinler kombinasyon
+halinde eş zamanlı verilmemelidir.
+5 / 36Risk, HERCEPTIN ve antrasiklinlerin eş zamanlı kullanımından daha düşük olsa da,
+daha önce antrasiklin almış metastatik meme kanserli hastalar da HERCEPTIN
+tedavisiyle kardiyak fonksiyon bozukluğu riski altındadır.
+Erken evre meme kanseri (EEMK):
+Erken evre meme kanseri hastalarında kardiyak değerlendirme, başlangıçta yapıldığı
+şekilde, tedavi boyunca her 3 ayda bir ve tedavinin kesilmesinden sonra, son
+HERCEPTIN uygulamasından itibaren 24 aya kadar 6 ayda bir tekrarlanmalıdır.
+Antrasiklin içeren kemoterapi alan hastalarda ek izleme önerilmektedir; bu izleme son
+HERCEPTIN uygulamasından itibaren 5 yıla kadar veya LVEF’de sürekli azalma
+gözleniyorsa daha uzun bir süre boyunca yılda bir kez olarak gerçekleştirilmelidir.
+Miyokardi enfarktüsü (Mİ) hikayesi, tıbbi tedavi gerektiren angina pektoris, geçmişte
+veya halihazırda devam eden KKY hikayesi veya varlığı (NYHA II –IV), LVEF < %55
+olması, diğer kardiyomiyopati, tıbbi tedavi gerektiren kardiyak aritmi, klinik açıdan
+anlamlı valvüler kalp hastalığı, kontrol altına alınamayan hipertansiyon (standart tıbbi
+tedaviyle kontrol altına alınan hipertansiyon uygundur) ve hemodinamik etkili
+perikardiyal efüzyonu olan hastalar, HERCEPTIN ile yürütülen adjuvan ve neoadjuvan
+erken evre meme kanseri pivot çalışmalarına dahil edilmemiştir ve bu sebeple bu
+hastalarda tedavi önerilmemektedir.
+Adjuvan tedavi:
+HERCEPTIN ve antrasiklinler adjuvan tedavide eş zamanlı olarak verilmemelidir.
+EEMK hastalarında, HERCEPTIN’in (intravenöz formülasyonu), antrasiklin içeren
+kemoterapi sonrasında uygulanması ile, antrasiklin içermeyen dosetaksel ve
+karboplatinli rejimle uygulanması karşılaştırıldığında, semptomatik ve asemptomatik
+kardiyak olayların insidansında bir artış gözlenmiştir. Bu artış, HERCEPTIN
+(intravenöz formülasyon) taksanlarla eş zamanlı olarak uygulandığında, taksanlarla
+ardışık olarak uygulanmasına kıyasla daha belirgin olmuştur. Kullanılan rejimden
+bağımsız olarak, semptomatik kardiyak olayların çoğu ilk 18 ay içinde görülmüştür.
+Yapılan 3 pivotal çalışmadan, 5,5 yıllık medyan takip süresinin olduğu çalışmanın
+birinde (BCIRG006), antrasiklin tedavisinin ardından taksanla eş zamanlı olarak
+HERCEPTIN uygulanan hastalarda, iki karşılaştırma kolunda (antrasiklin artı
+siklofosfamid, ardından taksan ve taksan, karboplatin ve HERCEPTIN) görülen yaklaşık
+%1’e kıyasla, semptomatik kardiyak veya LVEF olaylarının kümülatif oranında
+%2,37’ye kadar sürekli artış gözlenmiştir.
+Dört büyük adjuvan çalışmada tanımlanan kardiyak olaylarla ilgili risk faktörleri
+arasında ileri yaş (>50 yaş), paklitaksel tedavisinin başlatılmasından önce veya sonra
+başlangıç düzeyinde LVEF azalması (< %55), LVEF’de 10-15 puanlık düşüş ve
+öncesinde veya eş zamanlı antihipertansif tıbbi ilaçların kullanımı yer almaktadır.
+Adjuvan kemoterapinin tamamlanmasının ardından HERCEPTIN alan hastalarda,
+kardiyak fonksiyon bozukluk riski, HERCEPTIN başlatılmasından önce verilen yüksek
+kümülatif doz antrasiklin ve VKİ (Vücut Kitle İndeksi) >25 kg/m2 ile
+ilişkilendirilmiştir.
+6 / 36Neoadjuvan-adjuvan tedavi:
+Neoadjuvan-adjuvan tedaviye uygun EEMK hastalarda, HERCEPTIN antrasiklinlerle
+eş zamanlı olarak yalnızca daha önce kemoterapi almamış hastalarda ve yalnızca düşük
+dozlu antrasiklin rejimleriyle (maksimum kümülatif dozlar: 180 mg/m2 doksorubisin
+veya 360 mg/m2 epirubisin) birlikte kullanılmalıdır.
+Eğer hastalar neoadjuvan koşulda HERCEPTIN ve tam kür düşük dozlu antrasiklinlerle
+eş zamanlı olarak tedavi edilmişse, cerrahiden sonra ilave sitotoksik kemoterapi
+verilmemelidir. Diğer durumlarda, ilave sitotoksik kemoterapi ihtiyacı olup olmadığına
+dair karar bireysel faktörlere göre verilir.
+Trastuzumabın düşük doz antrasiklin rejimi ile eş zamanlı uygulanması ile ilgili
+deneyim iki çalışma ile sınırlıdır (MO16432 ve BO22227).
+Pivotal çalışma MO16432’de, HERCEPTIN, üç siklus doksorubisin içeren neoadjuvan
+kemoterapiyle eş zamanlı olarak uygulanmıştır (kümülatif doz 180 mg/m2).
+Semptomatik kardiyak fonksiyon bozukluğu insidansı HERCEPTIN kolunda %1,7’dir.
+Pivot çalışma BO22227’de HERCEPTIN, dört siklus epirubisin (kümülatif doz 300
+mg/m²) içeren neoadjuvan kemoterapiyle eş zamanlı uygulanmıştır; 70 ayı aşan bir
+medyan takipte, intravenöz HERCEPTIN kolunda kalp yetmezliği/konjestif kalp
+yetmezliği insidansı %0,3 ve subkutan HERCEPTIN kolunda %0,7 olarak
+belirlenmiştir. Düşük vücut ağırlığına sahip hastalarda (en düşük vücut ağırlığı kartil
+<59), subkutan HERCEPTIN kolunda kullanılan sabit doz, atmış kardiyak olay riski
+veya LVEF’de anlamlı bir düşüş ile ilişkilendirilmemiştir.
+65 yaş üzeri hastalarda klinik deneyim sınırlıdır.
+İnfüzyonla ilgili reaksiyonlar (İİR’ler)
+HERCEPTIN SC formülasyonu ile infüzyona bağlı reaksiyonların oluştuğu
+bilinmektedir. Premedikasyon, İİR’lerin görülme riskini azaltmak üzere kullanılabilir.
+HERCEPTIN SC formülasyonuyla dispne, hipotansiyon, hırıltı, bronkospazm, taşikardi,
+azalmış oksijen doygunluğu ve solunum güçlüğü dahil ciddi İİR’ler rapor edilmemesine
+rağmen, bu reaksiyonlar IV formülasyonuyla ilişkilendirildiğinden dikkatli olunmalıdır.
+Hastalar İİR’ler açısından ilk enjeksiyondan altı saat sonrasına kadar ve sonraki
+enjeksiyonlardan iki saat sonrasına kadar gözlenmelidir. Bunlar, meperidin veya
+parasetamol gibi bir analjezik/antipiretik ile veya difenhidramin gibi bir antihistamin ile
+tedavi edilebilir. HERCEPTIN IV’ye yönelik ciddi reaksiyonlar, oksijen, beta-agonistler
+ve kortikosteroidler gibi destekleyici tedaviyle başarılı bir şekilde tedavi edilmiştir.
+Nadir vakalarda, bu reaksiyonlar ölümcül bir sonuca yol açan klinik seyirle
+ilişkilendirilmektedir. İlerlemiş malignite komplikasyonları ve komorbiditeler nedeniyle
+dinlenme halinde dispne yaşayan hastalar, ölümcül İİR’ler açısından yüksek risk altında
+olabilir. Bu nedenle, bu hastalar HERCEPTIN ile tedavi edilmemelidir (bkz. Bölüm
+4.3).
+Pulmoner olaylar
+Pazarlama sonrası dönemde IV formülasyonu kullanımıyla birlikte şiddetli pulmoner
+olaylar rapor edildiğinden, HERCEPTIN SC formülasyonu konusunda dikkatli olunması
+7 / 36tavsiye edilir (bkz. Bölüm 4.8). Bu olaylar, zaman zaman ölümcül olmuştur ve
+infüzyona bağlı reaksiyonun bir parçası olarak veya gecikmiş bir başlangıçla ortaya
+çıkabilir. Buna ilave olarak; pulmoner infiltratlar, akut solunum güçlüğü sendromu,
+pnömoni, pnömonit, plevral efüzyon, solunum güçlüğü, akut pulmoner ödem ve
+solunum yetmezliği dahil olmak üzere interstisyel akciğer hastalığı vakaları rapor
+edilmiştir. İnterstisyel akciğer hastalığı ile ilişkilendirilen risk faktörleri; taksanlar,
+gemsitabin, vinorelbin ve radyasyon tedavisi gibi ilişkili olduğu bilinen diğer anti-
+neoplastik tedavilerle önceki veya eş zamanlı tedaviyi içerir. İlerlemiş malignite ve
+komorbidite komplikasyonları nedeniyle dinlenme halinde dispne yaşayan hastalar,
+pulmoner olaylar açısından yüksek risk altında olabilir. Bu nedenle, bu hastalar
+HERCEPTIN ile tedavi edilmemelidir (bkz. Bölüm 4.3). Özellikle taksanlarla eş
+zamanlı olarak tedavi edilen hastalarda pnömonit açısından dikkatli olunmalıdır.
+Biyoteknolojik ürünlerin takip edilebilirliğinin sağlanması için uygulanan ürünün ticari
+ismi ve seri numarası mutlaka hasta dosyasına kaydedilmelidir.
+4.5 Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+Resmi ilaç etkileşimi çalışması yapılmamıştır. Klinik çalışmalarda HERCEPTIN ile eş
+zamanlı olarak kullanılan ilaçlarla klinik olarak anlamlı etkileşim gözlemlenmemiştir.
+Trastuzumabın diğer antineoplastik ajanların farmakokinetik özellikleri üzerindeki
+etkileri:
+HER2-pozitif MMK (metastatik meme kanseri) olan kadınlarda yapılan BO15935 ve
+M77004 çalışmalarından farmakokinetik veriler, paklitaksel ve doksorubisine (ve
+bunların ana metabolitleri 6-α hidroksil-paklitaksel, POH, ve doksorubisinol, DOL)
+maruziyetin trastuzumab varlığında (8 mg/kg veya 4 mg/kg IV yükleme dozu ardından
+sırasıyla 6 mg/kg 3 haftada bir veya 2 mg/kg haftada bir IV)
+değişmediğinigöstermektedir.
+Bununla birlikte, trastuzumab bir doksorubisin metabolitine (7-deoksi-13 dihidro-
+doksorubisinon, D7D) genel maruziyeti artırabilir. D7D’nin biyoaktivitesi ve bu
+metabolitin düzeyindeki artışın klinik etkisi bilinmemektedir..
+HER2-pozitif MMK’li Japon kadınlarında trastuzumab (4 mg/kg IV yükleme dozu ve 2
+mg/kg IV haftada bir) ve dosetaksel (60 mg/m2 IV) ile yapılmış tek kollu bir çalışma
+olan JP16003 çalışma verileri, eş zamanlı trastuzumab uygulanmasının tek doz
+dosetakselin farmakokinetiğine herhangi bir etkisinin olmadığını ileri sürmektedir.
+JP19959 çalışması, ileri evre gastrik kanserli Japon kadın ve erkek hastalarda
+kapesitabin ve sisplatinin, beraberinde trastuzumab kullanıldığında veya
+kullanılmadığında, farmakokinetiklerini incelemek için yapılmış BO18255 (ToGA)’in
+bir alt çalışmasıdır. Bu alt çalışmanın sonuçları kapesitabinin biyoaktif metabolitlerine
+(örn. 5-FU) maruziyetin eş zamanlı olarak sisplatin veya sisplatin ve trastuzumab
+kullanılmasından etkilenmediğini göstermiştir. Bununla birlikte, trastuzumab ile
+kombine edildiğinde kapesitabinin kendisi daha yüksek konsantrasyon ve daha uzun bir
+yarılanma ömrü göstermiştir. Bu veriler ayrıca sisplatinin farmakokinetiğinin eş zamanlı
+kapesitabin veya eş zamanlı kapesitabin ve trastuzumab kullanılmasından
+etkilenmediğini ortaya koymaktadır.
+8 / 36Metastatik veya lokal ileri, opere edilemeyen HER2 pozitif kanser hastalarındaki
+H4613g/GO01305 çalışmasından elde edilen farmakokinetik veriler, trastuzumabın
+karboplatin farmakokinetiği üzerinde etkisi olmadığını göstermektedir.
+Antineoplastik ajanların trastuzumabın farmakokinetik özellikleri üzerindeki etkileri:
+HERCEPTIN monoterapisinden (4 mg/kg yükleme dozu/2 mg/kg haftada bir kez IV)
+sonra simüle serum trastuzumab konsantrasyonları ve HER2 pozitif, MMK Japon
+kadınlarda gözlemlenen serum konsantrasyonları (JP16003 çalışması)
+karşılaştırıldığında, eş zamanlı dosetaksel uygulamasının, trastuzumab farmakokinetiği
+üzerinde etkisine dair kanıt saptanmamıştır.
+HER2-pozitif MMK olan kadınlarda, hastaların eş zamanlı olarak HERCEPTIN ve
+paklitaksel ile tedavi edildiği iki Faz II çalışması (BO15935 ve M77004) ve bir Faz III
+çalışması (H0648g) ile HERCEPTIN’in monoterapi şeklinde uygulandığı iki Faz II
+çalışma (W016229 ve MO16982) FK sonuçları karşılaştırıldığında, ayrı ve ortalama
+HERCEPTIN serum konsantrasyonu düşüşlerinin çalışma içinde ve çalışmalar arasında
+değişkenlik gösterdiği fakat eş zamanlı paklitaksel uygulanmasının trastuzumab
+farmakokinetiğine belirgin etkisinin olmadığı gösterilmiştir. HER2-pozitif metastatik
+meme kanserli kadınlarda eş zamanlı HERCEPTIN, paklitaksel ve doksorubisin ile
+tedavi edildiği M77004 çalışmasına ait trastuzumab farmakokinetik verileri ile
+HERCEPTIN’in monoterapi olarak uygulandığı (H0649g çalışmasına) veya antrasiklin
+artı siklofosfamid veya paklitaksel ile kombinasyon halinde uygulandığı H0648g
+çalışmasına ait farmakokinetik verilerinin karşılaştırılması sonucunda doksorubisin ve
+paklitaksel’in trastuzumab’ın farmakokinetiği üzerinde hiçbir etkiye sahip olmadığı
+gösterilmiştir.
+H4613g/GO01305 çalışmalarından elde edilen farmakokinetik veriler ile, karboplatinin
+trastuzumab farmakokinetiği üzerinde hiçbir etkiye sahip olmadığı gösterilmiştir.
+Eş zamanlı anastrozol uygulamasının, trastuzumab farmakokinetiği üzerinde etkisi
+olmadığı görülmüştür.
+Özel popülasyonlara ilişkin ek bilgiler:
+Özel popülasyonlara ilişkin herhangi bir etkileşim çalışması yapılmamıştır.
+Pediyatrik popülasyon:
+Pediyatrik popülasyona ilişkin herhangi bir etkileşim çalışması yapılmamıştır.
+4.6 Gebelik ve laktasyon
+Genel tavsiye
+Gebelik kategorisi: D
+9 / 36Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon)
+Çocuk doğurma potansiyeli bulunan kadınlara HERCEPTIN ile tedavileri boyunca ve
+tedavi sonlandırıldıktan sonra en az 7 ay boyunca etkili bir doğum kontrol yöntemi
+kullanmaları tavsiye edilmelidir.
+HERCEPTIN tedavisi sırasında hamile kalan kadınlar fetüsün zarar görmesi ihtimali
+konusunda bilgilendirilmelidir. Eğer hamile bir kadın HERCEPTIN ile tedavi ediliyorsa,
+veya HERCEPTIN kullanırken veya HERCEPTIN’in son dozundan sonraki 7 ay içinde
+hamile kalırsa, multidisipliner bir ekip tarafından yakından izlenmesi gerekmektedir.
+Gebelik dönemi
+HERCEPTIN, anneye yönelik potansiyel fayda fetüse yönelik potansiyel riskten fazla
+olmadığı sürece gebelikte kullanılmamalıdır. Pazarlama sonrası deneyimde,
+HERCEPTIN kullanan hamile kadınlarda, oligohidramniyoz ile ilişkili fertal renal
+büyüme ve/veya fonksiyon bozukluğu vakaları rapor edilmiştir. Oligohidramniyoz
+vakalarının bazıları fetüsün ölümcül pulmoner hipoplazisi ile ilişkilidir.
+Haftalık insan idame dozu 2 mg/kg HERCEPTIN’in 25 katı doz uygulanan Sinomolgus
+maymunlarla yürütülen üreme çalışmalarında, üremenin veya fetusun zarar gördüğüne
+dair herhangi bir kanıta rastlanmamıştır. Erken (gebeliğin 20-50’inci günlerinde) ve geç
+(gebeliğin 120-150’inci günlerinde) fetal gelişim periyodu sırasında, trastuzumabın
+plasental transferi gözlenmiştir. Hayvan üreme çalışmaları her zaman insanlardaki yanıtı
+öngörmediğinden, anneye yönelik potansiyel fayda fetüse yönelik potansiyel riskten
+fazla olmadığı sürece HERCEPTIN gebelikte kesinlikle kullanılmamalıdır.
+Laktasyon dönemi
+Haftalık insan idame dozu olan 2 mg/kg HERCEPTIN IV formülasyonunun 25 katı
+dozlarda emziren Sinomolgus maymunlarında yürütülen bir çalışma, trastuzumabın süte
+geçtiğini ortaya koymuştur. Yavru maymunların serumundaki trastuzumab varlığı,
+doğumdan itibaren 1 aylık olana kadar büyüme veya gelişimleri üzerinde herhangi bir
+advers etkiyle ilişkilendirilmemiştir. Trastuzumabın insan sütüne geçip geçmediği
+bilinmemektedir. İnsan IgG1 insan sütüne geçtiğinden ve bebek açısından potansiyel
+zararı bilinmediğinden, kadınlar HERCEPTIN tedavisi sırasında ve son dozdan sonra 7
+ay süreyle emzirmemelidir.
+Üreme yeteneği/Fertilite
+HERCEPTIN’in üreme yeteneğini etkileyip etkilemediği bilinmemektedir.
+4.7 Araç ve makine kullanımı üzerindeki etkiler
+HERCEPTIN’in araç ve makine kullanma becerisi üzerine çok küçük bir etkisi olabilir.
+İnfüzyon kaynaklı belirtiler (bkz. Bölüm 4.4) yaşayan hastalara, bu belirtiler tamamen
+ortadan kalkana kadar araç ve makine kullanmamaları tavsiye edilmelidir.
+4.8 İstenmeyen etkiler
+Bugüne kadar HERCEPTIN kullanımına (IV ve SC formülasyonu) yönelik bildirilen en
+ciddi ve/veya yaygın istenmeyen etkiler arasında, kardiyak fonksiyon bozukluğu,
+uygulama ile ilgili reaksiyonlar, hematotoksisite (özellikle nötropeni), enfeksiyonlar ve
+pulmoner olaylar yer almaktadır.
+10 / 36HERCEPTIN subkutan formunun temel güvenlilik profili, EEMK (erken evre meme
+kanseri) hastalarında yapılmış pivotal çalışmada (intravenöz ve subkutan formlarla
+tedavi edilen sırasıyla 298 ve 297 hastada değerlendirilmiştir) intravenöz formun bilinen
+güvenlik profiline genelde benzerlik göstermiştir.
+Ulusal Kanser Enstitüsü Yan Etkiler için Genel Terminoloji Kriterleri’ne göre
+tanımlanmış ciddi yan etkiler (NCI CTCAE derece≥3) versiyon 3.0) iki HERCEPTIN
+formuna eşit şekilde dağılmıştır (intravenöz formda % 52,3 ve subkutan formda
+%53,5 ).
+Bazı istenmeyen etkiler/reaksiyonlar subkutan form için daha yüksek sıklıkta
+bildirilmiştir:
+- Ciddi istenmeyen etkiler (çoğunluğu hastaneye yatırılma veya yatış süresinin
+uzaması nedeniyle saptanmıştır): intravenöz form için %14,1, buna karşı
+subkutan form için %21,5. Formlar arasında ciddi istenmeyen etki oranlarındaki
+fark temelde nötropeni ile birlikte olan veya olmayan enfeksiyonlara (%4,4’e
+karşı %8,1) ve kardiyak bozukluklara (%0,7’ye karşı %1,7) bağlıdır;
+- Operasyon sonrası yara enfeksiyonları (şiddetli ve/veya ciddi): intravenöz form
+için %1,7, buna karşı subkutan form için %3,0’dür;
+- Uygulamayla ilişkili reaksiyonlar: sırasıyla intravenöz forma karşı subkutan
+form için %37,2’ye karşı %47,8’dir;
+- Hipertansiyon: intravenöz forma karşı subkutan form için sırasıyla %4,7’ye karşı
+%9,8’dir.
+Advers reaksiyonların listesi
+Bu bölümde, aşağıdaki sıklık kategorileri kullanılmıştır: çok yaygın (1/10), yaygın
+(1/100 ila <1/10), yaygın olmayan (≥1/1,000 ila <1/100), seyrek (≥1/10,000 ila
+<1/1,000), çok seyrek (<1/10,000), bilinmiyor (eldeki verilerden hareketle tahmin
+edilemiyor). Her sıklık grubunda advers reaksiyonlar azalan ciddiyet düzeyine göre
+sunulmalıdır.
+Tablo 1’de verilen istenmeyen etkiler, pivotal klinik çalışmalarda ve pazarlama sonrası
+dönemde kemoterapiyle kombinasyon halinde veya tek başına HERCEPTIN IV
+kullanımıyla ilişkili olarak rapor edilmiş istenmeyen etkilerdir.
+Dahil edilen tüm terimler, pivotal klinik çalışmalarda görülen en yüksek yüzdeyi temel
+almaktadır.
+Tablo 1: Pivotal klinik çalışmalarda (N=8386) ve pazarlama sonrası dönemde
+kemoterapiyle kombinasyon halinde veya tek başına IV HERCEPTIN
+kullanımıyla ilişkili olarak elde edilen istenmeyen etkiler
+Sistem organ sınıfı İstenmeyen etki Sıklık
+Enfeksiyonlar ve Enfeksiyon Çok yaygın
+enfestasyonlar Nazofarenjit Çok yaygın
+Nötropenik sepsis Yaygın
+Sistit Yaygın
+Herpes zoster Yaygın
+11 / 36Sistem organ sınıfı İstenmeyen etki Sıklık
+Grip Yaygın
+Sinüzit Yaygın
+Deri enfeksiyonu Yaygın
+Rinit Yaygın
+Üst solunum yolu enfeksiyonu Yaygın
+İdrar yolu enfeksiyonu Yaygın
+Erizipel Yaygın
+Selülit Yaygın
+Farenjit Yaygın
+Sepsis Yaygın olmayan
+(Kist ve polipler de Malign neoplazma progresyonu Bilinmiyor
+dahil olmak üzere) İyi
+huylu, kötü huylu ve Neoplazma progresyonu Bilinmiyor
+belirlenmemiş
+neoplazmalar
+Kan ve lenf sistemi Febril nötropeni Çok yaygın
+hastalıkları Anemi Çok yaygın
+Nötropeni Çok yaygın
+Beyaz kan hücrelerinde Çok yaygın
+azalma/lökopeni
+Trombositopeni Çok yaygın
+Hipoprotrombinemi Bilinmiyor
+İmmün trombositopeni Bilinmiyor
+Bağışıklık sistemi Aşırı duyarlılık Yaygın
+hastalıkları +Anafilaktik reaksiyon Bilinmiyor
++Anafilaktik şok Bilinmiyor
+Metabolizma ve Kiloda azalma/Kilo kaybı Çok yaygın
+beslenme hastalıkları Anoreksi Çok yaygın
+Hiperkalemi Bilinmiyor
+Psikiyatrik hastalıklar Uykusuzluk Çok yaygın
+Depresyon Yaygın
+Anksiyete Yaygın
+Anormal düşünme Yaygın
+Sinir sistemi hastalıkları 1Titreme Çok yaygın
+Baş dönmesi Çok yaygın
+Baş ağrısı Çok yaygın
+Parestezi Çok yaygın
+Disguzi Çok yaygın
+Periferal nöropati Yaygın
+Hipertoni Yaygın
+Somnolans Yaygın
+Ataksi Yaygın
+Parezi Seyrek
+Beyin ödemi Bilinmiyor
+Göz hastalıkları Konjonktivit Çok yaygın
+12 / 36Gözyaşı salgısında artış Çok yaygın
+Göz kuruluğu Yaygın
+Papilla ödemi Bilinmiyor
+Retinal kanama Bilinmiyor
+Kulak ve iç kulak Sağırlık Yaygın olmayan
+hastalıkları
+Kardiyak hastalıkları 1 Kan basıncında azalma Çok yaygın
+1 Kan basıncında artış Çok yaygın
+1 Düzensiz kalp atışı Çok yaygın
+1Palpitasyon Çok yaygın
+1Kalp çarpıntısı Çok yaygın
+*Ejeksiyon fraksiyonunda azalma Çok yaygın
++Kardiyak yetmezlik(konjestif) Yaygın
++1Supraventriküler taşiaritmi Yaygın
+Kardiyomiyopati Yaygın
+Perikardiyal efüzyon Yaygın olmayan
+Kardiyojenik şok Bilinmiyor
+Perikardit Bilinmiyor
+Bradikardi Bilinmiyor
+Galop ritmi varlığı Bilinmiyor
+Vasküler hastalıkları Sıcak basması Çok yaygın
++1 Hipotansiyon Yaygın
+Vazodilatasyon Yaygın
+Solunum, göğüs +1Hırıltı Çok yaygın
+bozuklukları ve +Dispne Çok yaygın
+mediastinal hastalıkları Öksürük Çok yaygın
+Epistaksi Çok yaygın
+Rinore Çok yaygın
++Pnömoni Yaygın
+Astım Yaygın
+Akciğer hastalığı Yaygın
++Plevral efüzyon Yaygın
+Pnömonit Seyrek
++Pulmoner fibroz Bilinmiyor
++Solunum güçlüğü Bilinmiyor
++Solunum yetmezliği Bilinmiyor
++Akciğer infiltrasyonu Bilinmiyor
++Akut pulmoner ödem Bilinmiyor
++Akut solunum güçlüğü sendromu Bilinmiyor
++Bronkospazm Bilinmiyor
++Hipoksi Bilinmiyor
++Oksijen satürasyonunda azalma Bilinmiyor
+Laringeal ödem Bilinmiyor
+Ortopne Bilinmiyor
+Pulmoner ödem Bilinmiyor
+İnterstisiyel akciğer hastalığı Bilinmiyor
+Gastrointestinal Diyare Çok yaygın
+13 / 36hastalıkları Kusma Çok yaygın
+Bulantı Çok yaygın
+1 Dudakta şişlik Çok yaygın
+Abdominal ağrı Çok yaygın
+Dispepsi Çok yaygın
+Kabızlık Çok yaygın
+Stomatit Çok yaygın
+Hemoroid Yaygın
+Ağız kuruluğu Yaygın
+Hepato-bilier Hepatosellüler yaralanma Yaygın
+hastalıkları Hepatit Yaygın
+Karaciğer hassasiyeti Yaygın
+Sarılık Seyrek
+Karaciğer yetmezliği Bilinmiyor
+Deri ve deri altı doku Eritem Çok yaygın
+hastalıkları Döküntü Çok yaygın
+1 Yüzde şişkinlik Çok yaygın
+Alopesi Çok yaygın
+Tırnak bozukluğu Çok yaygın
+Palmar plantar eritrodizestesi Çok yaygın
+sendromu
+Akne Yaygın
+Ciltkuruluğu Yaygın
+Ekimoz Yaygın
+Hiperhidroz Yaygın
+Makülopapüler döküntü Yaygın
+Kaşıntı Yaygın
+Onikoliz Yaygın
+Dermatit Yaygın
+Ürtiker Yaygın olmayan
+Anjiyoödem Bilinmiyor
+Kas-iskelet Artralji Çok yaygın
+bozuklukları, bağ doku 1Kas sertliği Çok yaygın
+ve kemik hatsalıkları Miyalji Çok yaygın
+Artrit Yaygın
+Sırt ağrısı Yaygın
+Kemik ağrısı Yaygın
+Kas spazmları Yaygın
+Boyun ağrısı Yaygın
+Ekstremitelerde ağrı Yaygın
+Böbrek ve idrar Böbrek bozukluğu Yaygın
+hastalıkları Membranöz glomerülonefrit Bilinmiyor
+Glomerülonefropati Bilinmiyor
+Böbrek yetmezliği Bilinmiyor
+Gebelik, pueperiyum Oligohidramnios Bilinmiyor
+durumları ve perinatal Renal hipoplazi Bilinmiyor
+14 / 36hastalıkları Pulmoner hipoplazi Bilinmiyor
+Üreme sistemi ve meme Meme iltihabı/mastit Yaygın
+hastalıkları
+Genel bozukluklar ve Asteni Çok yaygın
+uygulama bölgesine Göğüs ağrısı Çok yaygın
+ilişkin hastalıkları Üşüme Çok yaygın
+Yorgunluk Çok yaygın
+İnfluenza benzeri semptomlar Çok yaygın
+İnfüzyonla ilgili reaksiyon Çok yaygın
+Ağrı Çok yaygın
+Pireksi Çok yaygın
+Mukozal enflamasyon Çok yaygın
+Periferal ödem Çok yaygın
+Keyifsizlik Yaygın
+Ödem Yaygın
+Yaralanma ve Çürük Yaygın
+zehirlenme
++ Ölümcül sonuçla ilişkili olarak rapor edilen istenmeyen etkileri belirtir.
+1 Büyük oranda infüzyonla ilgili reaksiyonlarla ilişkili olarak rapor edilen istenmeyen etkileri
+belirtir. Bunlar için spesifik yüzdeler mevcut değildir.
+* Taksanlarla kombine edilen ve antrasiklinleri izleyen kombinasyon tedavisiyle gözlenmiştir.
+Seçilmiş istenmeyen etkilerin tanımlanması:
+Kardiyak fonksiyon bozukluğu
+Konjestif kalp yetmezliği (New York Heart Association [NYHA] sınıf II-IV)
+HERCEPTIN’in yaygın görülen bir yan etkisidir. Ölümle sonuçlanabilir. HERCEPTIN
+ile tedavi edilen hastalarda dispne, nefes darlığı, öksürükte artış, pulmoner ödem, S3
+gallop veya azalmış ventriküler ejeksiyon fraksiyonu gibi kardiyak fonksiyon bozukluğu
+belirti ve semptomları gözlemlenmiştir (bkz. Bölüm 4.4).
+Adjuvan intravenöz HERCEPTIN’in kemoterapiyle kombine olarak verildiği 3 pivotal
+EEMK klinik çalışmasında, derece 3/4 kardiyak fonksiyon bozukluğu (özellikle
+semptomatik konjestif kalp yetmezliği) insidansı sadece kemoterapi verilen (örn.
+HERCEPTIN almayan) hastalardaki ve HERCEPTIN ile dönüşümlü taksan verilen
+hastalardaki ile benzer orandaydı (%0,3-0,4). Bu oran HERCEPTIN’in bir taksan ile eş
+zamanlı uygulandığı hastalarda en yüksekti (%2,0). Neoadjuvan uygulamada,
+HERCEPTIN ile eş zamanlı düşük doz antrasiklin rejiminin uygulanması ile ilgili
+deneyim sınırlıdır (bkz. Bölüm 4.4).
+HERCEPTIN adjuvan kemoterapinin tamamlanması ardından uygulandığında, bir yıllık
+koldaki hastaların %0,6’sında medyan 12 aylık takipten sonra NYHA Sınıf III-IV kalp
+yetmezliği gözlenmiştir. 8 yıllık medyan takip ardından, 1 yıllık HERCEPTIN tedavisi
+kolundaki BO16348 çalışmasında şiddetli konjestif kalp yetmezliği (KKY) (NYHA
+Sınıf III ve IV) insidansı %0,8 olmuş, hafif semptomatik ve asemptomatik sol ventrikül
+disfonksiyonu oranı %4,6 olarak belirlenmiştir.
+15 / 36HERCEPTIN uygulanan hastaların %71,4’inde, şiddetli KKY’nin geri dönebildiği
+(reversibilite) (olaydan sonra en az iki ardışık LVEF değerinin ≥%50 olması şeklinde
+tanımlanmıştır) gösterilmiştir. Hafif semptomatik ve asemptomatik sol ventrikül
+disfonksiyonunda geri dönebilme (reversibilite) hastaların %79,5’inde gösterilmiştir.
+Kardiyak fonksiyon bozukluğu ile ilişkili olayların yaklaşık % 17’si HERCEPTIN
+tedavisinin tamamlanması ardından oluşmuştur.
+İntravenöz HERCEPTIN ile yapılmış pivotal metastatik çalışmalarda kardiyak
+fonksiyon bozukluğu insidansı, paklitaksel ile kombine edildiğinde %9 ile %12 arasında
+değişirken tek başına paklitaksel ile %1-4 olmuştur. Monoterapi için bu oran %6-9’dur.
+En yüksek kardiyak fonksiyon bozukluğu oranı, antrasiklin/siklofosfamid ile eş zamanlı
+olarak HERCEPTIN alan hastalarda görülmüştür (%27), bu oran tek başına
+antrasiklin/siklofosfamid alanlardakinden anlamlı düzeyde yüksektir (%7– %10). Daha
+sonra yapılmış, kalp işlevlerinin izlendiği ileriye dönük bir çalışmada semptomatik
+KKY insidansı, HERCEPTIN ve dosetaksel alan hastalarda %2,2 iken sadece dosetaksel
+alan hastalarda %0’dır. Bu çalışmalarda kardiyak fonksiyon bozukluğu gelişen
+hastaların çoğunluğunda (%79) KKY için standart tedavi uygulanmasının ardında
+iyileşme görülmüştür.
+İnfüzyonla ilişkili reaksiyonlar (İİR’ler)/aşırı duyarlılık
+HERCEPTIN klinik çalışmalarında, ürperme ve/veya ateş, dispne, hipotansiyon, hırıltı,
+bronkospazm, taşikardi, azalmış oksijen satürasyonu, solunum güçlüğü, döküntü, mide
+bulantısı, kusma ve baş ağrısı gibi İİR’ler/aşırı duyarlılık reaksiyonları görülmüştür
+(bkz. Bölüm 4.4). Tüm derecelerdeki İİR’lerin oranı, endikasyona ve trastuzumabın
+kemoterapiyle eş zamanlı olarak veya monoterapi olarak verilmesine ve veri toplama
+metodolojisine bağlı olarak çalışmalar arasında değişiklik göstermiştir.
+İzole vakalarda anafilaktoid reaksiyonlar gözlenmiştir.
+Hematotoksisite
+Febril nötropeni, anemi, lökopeni, trombositopeni ve nötropeni çok yaygın olarak
+meydana gelmektedir. Hipoprotrombineminin meydana gelme sıklığı bilinmemektedir.
+Trastuzumab, antrasiklin tedavisini takiben dosetaksel ile birlikte uygulandığında,
+nötropeni riski hafif şekilde artabilmektedir.
+Pulmoner olaylar
+HERCEPTIN kullanımıyla ilişkili olarak şiddetli pulmoner istenmeyen etkiler
+görülmektedir ve ölümcül sonuçlarla ilişkilendirilmiştir. Bu reaksiyonlar akciğer
+infiltratlar, akut solunum güçlüğü sendromu, pnömoni, pnömonit, plevral efüzyon,
+solunum güçlüğü, akut pulmoner ödem ve solunum yetmezliğini içerir fakat bunlarla
+sınırlı değildir (bkz. Bölüm 4.4).
+Subkutan formda görülen seçilmiş istenmeyen etkilerin tanımlanması:
+İnfüzyonla ilişkili reaksiyonlar (İİR)
+Pivotal çalışmada her derecedeki İİR’nin oranı HERCEPTIN’in intravenöz formu için
+%37,2 ve HERCEPTIN’in subkutan formu için %47,8’dir; ciddi, derece 3 reaksiyonlar
+sırasıyla hastaların %2,0 ve %1,7’sinde bildirilmiştir. Ciddi, derece 4 veya 5
+reaksiyonlar gözlenmemiştir. HERCEPTIN’in subkutan formuyla olan tüm ciddi İİR’ler
+16 / 36kemoterapiyle eş zamanlı uygulama sırasında olmuştur. En sık görülen ciddi reaksiyon
+ilaca aşırı duyarlılıktır.
+Sistemik reaksiyonlar aşırı duyarlılık, hipotansiyon, taşikardi, öksürük ve dispnedir.
+Lokal reaksiyonlar eritem, kaşıntı, ödem, döküntü ve enjeksiyon yerinde ağrıdır.
+Enfeksiyonlar
+Ciddi reaksiyonların oranı (NCI CTCAE derece ≥3) HERCEPTIN intravenöz
+formülasyon kolunda ve HERCEPTIN subkutan formülasyon kolunda sırasıyla %5,0’e
+karşı %7,1’dir.
+Ciddi enfeksiyonların oranı (çoğunluğu hastaneye yatırılma veya yatış süresinin uzaması
+nedeniyle belirlenmiştir) HERCEPTIN intravenöz formülasyon kolunda %4,4 ve
+HERCEPTIN subkutan formülasyonkolunda %8,1’dir. Formlar arasındaki fark ağırlıkla
+adjuvan tedavi fazında (monoterapi) gözlenmiş ve çoğunlukla operasyon sonrası yara
+enfeksiyonlarına bağlı olmak üzere aynı zamanda solunum yolu enfeksiyonları, akut
+piyelonefrit ve sepsise bağlıdır. Enfeksiyonlar HERCEPTIN intravenöz tedavi grubunda
+ortalama 13 günde ve HERCEPTIN subkutan tedavi grubunda ortalama 17 günde
+ortadan kaybolmuştur.
+Hipertansif olaylar
+Pivotal çalışma BO22227’da, HERCEPTIN subkutan formülasyonla, her derecede
+hipertansiyon bildiren iki kattan fazla hasta vardı (intravenöz ve subkutan formlarla
+sırasıyla %4,7’ye karşı %9,8) ve daha yüksek oranda ciddi istenmeyen etki yaşayan
+(NCI CTCAE derece ≥3) hastalar intravenöz ve subkutan formlarla sırasıyla % <1’e
+karşı %2,0’dir. Biri hariç hastaların tamamında çalışmaya katılmadan önce
+hipertansiyon öyküsü vardır. Ciddi olayların bir kısmı enjeksiyon günü ortaya çıkmıştır.
+İmmunojenesite
+Erken evre meme kanseri neoadjuvan-adjuvan çalışmasında (BO22227), 70 ayı geçen
+ortalama takip süresinde, HERCEPTIN intravenöz formla tedavi edilen hastaların
+%10,1’i (30/296) ve HERCEPTIN subkutan formla tedavi edilen hastaların %15,9’u
+(47/295) trastuzumaba karşı antikor oluşturmuştur. Nötrleştirici antitrastuzumab
+antikorları, başlangıç numunesinden sonraki numunelerde, HERCEPTIN intravenöz
+kolunda 30 hastadan 2’sinde ve HERCEPTIN subkutan kolunda 47 hastadan 3’ünde
+tespit edilmiştir. HERCEPTIN subkutan form ile tedavi edilen hastaların %21,0’ı
+yardımcı madde olan hyalüronidaza karşı (rHuPH20) antikor oluşturmuştur.
+Bu antikorların klinik önemi bilinmemektedir. Anti-trastuzumab antikorlarının varlığı,
+HERCEPTIN intravenöz form ve HERCEPTIN subkutan formun uygulanmasına ilişkin
+reaksiyonların meydana gelmesi ile belirlenen farmakokinetik, etkililik (patolojik Tam
+Yanıt (pTY) ve olaysız sağkalım ile belirlenen) ve güvenlilik üzerinde bir etkiye sahip
+değildir.
+HERCEPTIN inravenöz formülasyonu ile subkutan formülasyonu arasında tedavi geçişi
+ve tersi
+MO22982 çalışmasında, birincil amaç olarak trastuzumab uygulamasında intravenöz ya
+da subkutan olarak hastanın tercihini değerlendirmek üzere, HERCEPTIN intravenöz ve
+17 / 36HERCEPTIN subkutan arasındaki tedavi geçişi araştırılmıştır. Bu çalışmada, 488
+hastanın, iki farklı 3 haftalık HERCEPTIN tedavi sekansından (IV [1-4 siklus] → SC
+[5-8 siklus] veya SC [1-4] siklus → IV [5-8 siklus]) birine randomize edildiği 2 kollu,
+çapraz geçişli, 2 kohort (biri subkutan formülasyonu flakonda, diğeri subkutan
+formülasyonu uygulama yolu ile kullandı) değerlendirilmiştir. Hastalar, HERCEPTIN
+IV tedavisi daha önce hiç almamış (% 20,3) ya da HERCEPTIN IV'ye önceden (% 79,7)
+maruz kalmıştır. IV→SC sekansında (SC flakon ve uygulama yolundan SC
+formülasyon kohort kombinasyonu), geçiş öncesi ve geçiş sonrası belirlenen istenmeyen
+etki oranları (tüm derecelerde) sırasıyla %53,8’e karşı %56,4’tü. SC→IV sekansında
+(SC flakon ve uygulama yolundan SC formülasyonu kohort kombinasyonu), geçiş
+öncesi ve geçiş sonrası belirlenen istenmeyen etki oranları (tüm derecelerde) sırasıyla
+%65,4’e karşı %48,7’idi. Ciddi istenmeyen etkiler, derece 3 istenmeyen etkiler ve
+istenmeyen etkiye bağlı tedavi sonlandırmaları için geçiş öncesi oranlar (1-4 siklus)
+düşük (< %5) ve geçiş sonrası oranlarla (5-8 siklus) benzerdi. Derece 4 ve 5 istenmeyen
+etki bildirilmemiştir.
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak
+izlenmesine olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers
+reaksiyonu Türkiye Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir
+(www.titck.gov.tr; e-posta: tufam@titck.gov.tr; tel: 0 800 314 00 08; faks:0 312 218 35
+99).
+4.9 Doz aşımı ve tedavisi
+960 mg’a kadar HERCEPTIN SC formülasyonu tek dozun uygulanmasıyla herhangi bir
+istenmeyen etki rapor edilmemiştir.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1 Farmakodinamik özellikler
+Farmakoterapötik grubu: Antineoplastik ve immunomodülatör ajanlar, monoklonal
+antikorlar
+ATC kodu: L01FD01
+Trastuzumabın subkutan formu, birden fazla ilaç subkutan uygulandığında dağılımlarını
+ve emilimlerini artırmak için kullanılan bir enzim olan rekombinant insan
+hiyalüronidazı (rHuPH20) içerir.
+Trastuzumab, insan epidermal büyüme faktörü reseptör 2’ye (HER2) karşı olan bir
+rekombinant hümanize IgG1 monoklonal antikorudur. Primer meme kanserlerinin %20-
+%30’unda HER2 aşırı ekspresyonu gözlenmektedir. Yapılan çalışmalar, tümörleri
+HER2’yi aşırı eksprese eden meme kanseri hastalarında, tümörleri HER2’yi aşırı
+eksprese etmeyen hastalara kıyasla daha kısa hastalıksız sağkalım gözlendiğini
+18 / 36göstermektedir. Reseptörün ekstrasellüler kısmı (ECD, p105) kan dolaşımına geçebilir
+ve serum numunelerinde ölçülebilir.
+Etki mekanizması
+Trastuzumab, HER2’nin ekstrasellüler kısmındajuksta-membran bölgesi olan alt-alan
+IV’e yüksek afinite ve özgünlükle bağlanır. Trastuzumabın HER2’ye bağlanması,
+liganddan bağımsız HER2 sinyalini inhibe eder ve bir HER2 aktivasyon mekanizması
+olan ekstrasellüler kısmın proteolitik bölünmesini engeller. Bunun sonucunda, in vitro
+deneylerde ve hayvanlarda, trastuzumabın HER2’yi aşırı eksprese eden insan tümör
+hücrelerinin çoğalmasını inhibe ettiği gösterilmiştir. Ayrıca trastuzumab, antikor-
+bağımlı hücre aracılı sitotoksisitenin (ADCC) güçlü bir aracısıdır. İn vitro olarak,
+trastuzumabın aracılık ettiği ADCC’nin, HER2’yi aşırı eksprese etmeyen kanser
+hücrelerine kıyasla seçici olarak HER2’yi aşırı eksprese eden kanser hücrelerinde
+görüldüğü gösterilmiştir.
+HER2 aşırı ekspresyonu veya HER2 gen amplifikasyonu tespiti
+Meme kanserinde HER2 aşırı ekspresyonu veya HER2 gen amplifikasyonu tespiti
+HERCEPTIN yalnızca tümörlerinde, doğru ve valide edilmiş bir test ile belirlenmiş
+HER2 aşırı ekspresyonu veya HER2 gen amplifikasyonu olan hastalarda kullanılmalıdır.
+HER2 aşırı ekspresyonu, fikse edilmiş tümör bloklarının immünohistokimya (İHK)
+bazlı değerlendirmesiyle saptanmalıdır (bkz. Bölüm 4.4). HER2 gen amplifikasyonu,
+fikse edilmiş tümör bloklarının floresans in situ hibridizasyonu (FISH) veya kromojenik
+in situ hibridizasyonu (CISH) ile saptanmalıdır. Hastalar İHK ile +3 skoru veya pozitif
+FISH veya CISH sonucu ile açıklanan güçlü HER2 aşırı ekspresyonu gösteriyorsa
+HERCEPTIN tedavisi için uygundurlar.
+Doğru ve tekrarlanabilir sonuçların sağlanabilmesi için, testler, test prosedürlerinin
+valide edilmesinin mümkün olduğu, özel bir laboratuvarda gerçekleştirilmelidir.
+İHK boyama modellerinin değerlendirilmesi için önerilen skorlama sistemi Tablo 2’de
+belirtilmiştir:
+Tablo 2: İHK boyama modellerinin değerlendirilmesi için önerilen skorlama
+sistemi
+Skor Boyama modeli HER2 aşırı
+ekspresyonu
+değerlendirmesi
+0 Tümör hücrelerinin < %10’unda hiçbir boyanma veya Negatif
+membran boyanması gözlemlenmemiştir.
+1+ Tümör hücrelerinin > %10’unda hafif/çok az fark Negatif
+edilen membran boyanması saptanır. Hücreler
+membranlarının yalnızca bir bölümünde boyanmıştır.
+2+ Tümör hücrelerinin > %10’unda hafif ila orta düzey Belirsiz
+tam membran boyama saptanır.
+3+ Tümör hücrelerinin > %10’unda güçlü tam membran Pozitif
+boyanması saptanır.
+19 / 36Genel olarak, her tümör hücresi için HER2 gen kopya sayısının kromozom 17 kopya
+sayısına oranı 2’ye eşit veya daha büyükse ya da kromozom 17 kontrolü
+kullanılmadığında her tümör hücresi için 4’ten fazla HER2 gen kopyası varsa FISH
+pozitif olarak kabul edilir.
+Genel olarak, tümör hücrelerinin %50’den fazlasında çekirdek başına 5’ten fazla HER2
+gen kopyası varsa CISH pozitif olarak kabul edilir.
+Analiz performansı ve yorumlama hakkında tüm talimatlar için doğrulanmış FISH ve
+CISH analizlerinin prospektüslerine başvurulmalıdır. HER2 testi hakkındaki resmi
+öneriler de uygulanabilir.
+HER2 proteini veya gen ekspresyonunun değerlendirmesi için kullanılabilecek başka
+herhangi bir metot, yalnızca doğrulanmış metotlara dair uygun ve en gelişmiş,
+performansı sağlayan laboratuvarlar tarafından yapılmalıdır. Bu yöntemler, yüksek
+düzeyde HER2 ekspresyonunu göstermek için yeterli kesinlik ve doğrulukta olmalı ve
+orta düzey (2+ ile uyumlu) ve güçlü (3+ ile uyumlu) yüksek düzey HER2 ekspresyonunu
+ayırt edebilmelidir.
+Klinik etkililik ve güvenlilik çalışmaları:
+Metastatik Meme Kanseri
+İntravenöz Formülasyon
+HERCEPTIN, klinik çalışmalarda HER2’yi aşırı eksprese eden tümörleri olan ve
+metastatik hastalıkları için bir veya daha fazla kemoterapi rejiminde başarısız olmuş
+metastatik meme kanserli hastalarda monoterapi olarak kullanılmıştır (tek başına
+HERCEPTIN).
+HERCEPTIN, ayrıca, metastatik hastalıkları için kemoterapi almamış hastaların
+tedavisinde paklitaksel veya dosetaksel ile kombinasyon halinde kullanılmıştır. Daha
+önce antrasiklin bazlı adjuvan kemoterapi almış olan hastalar, HERCEPTIN ile birlikte
+veya HERCEPTIN olmadan paklitaksel (3 saatlik infüzyonla verilen 175 mg/m2) ile
+tedavi edilmiştir. Dosetakselin, HERCEPTIN ile birlikte veya HERCEPTIN olmadan (1
+saatlik infüzyonla verilen 100 mg/m2) kullanıldığı pivotal çalışmada, hastaların %60’ı
+daha önce antrasiklin bazlı adjuvan kemoterapi almışlardır. Hastalar, hastalık
+progresyonuna kadar HERCEPTIN ile tedavi edilmiştir.
+Daha önce adjuvan antrasiklin almamış hastalarda, paklitaksel ile kombinasyon halinde
+HERCEPTIN’in etkililiği araştırılmamıştır. Bununla birlikte, HERCEPTIN artı
+dosetaksel tedavisi, daha önceki adjuvan antrasiklin kullanımından bağımsız olarak
+hastalarda etkili olmuştur.
+Pivotal HERCEPTIN monoterapisi ve HERCEPTIN artı paklitaksel klinik
+çalışmalarında hastaların uygunluğunu belirlemek için kullanılan HER2 aşırı
+ekspresyonu test yönteminde, fare monoklonal antikorları CB11 ve 4D5 kullanılarak,
+meme tümörlerinden fikse edilmiş materyalin HER2’si için immünohistokimyasal
+boyama kullanılmıştır. Bu dokular formalin veya Bouin sabitleyicisinde fikse edilmiştir.
+Merkezi bir laboratuvarda yapılan bu araştırma amaçlı klinik çalışma analizinde 0 ile 3+
+20 / 36aralığında bir ölçek kullanılmıştır. 2+ veya 3+ boyama olarak sınıflandırılan hastalar
+çalışmaya dahil edilmiş, 0 veya 1+ boyama olarak sınıflandırılan hastalar ise çalışma
+dışı bırakılmıştır. Kaydedilen hastaların %70’inden fazlası 3+ aşırı ekspresyon
+göstermiştir. Veriler, HER2 aşırı ekspresyonu daha yüksek düzeyde (3+) olan hastalarda
+faydalı etkilerin daha fazla olduğunu göstermektedir.
+Dosetaksele ilişkin pivotal çalışmada, HERCEPTIN ile birlikte veya HERCEPTIN
+olmadan HER2 pozitifliğini belirlemek için kullanılan ana test yöntemi
+immünohistokimya olmuştur. Hastaların küçük bir bölümü, floresans in situ
+hibridizasyon (FISH) kullanılarak test edilmiştir. Bu çalışmada, çalışmaya giren
+hastaların %87’sinde İHK3+ hastalık varken, çalışmaya giren hastaların %95’i İHK3+
+ve/veya FISH pozitif hastalık mevcuttur.
+Metastatik meme kanserinde haftalık doz uygulaması
+Monoterapi ve kombinasyon tedavisi çalışmalarından elde edilen etkililik sonuçları
+Tablo 3’te özetlenmektedir:
+Tablo 3: Monoterapi ve kombinasyon tedavisi çalışmalarından elde edilen etkililik
+sonuçları
+Parametre Monoterapi Kombinasyon Tedavisi
+HERCEPTIN1 HERCEPTIN Paklitaksel2 HERCEPTIN Dosetaksel3
+artı artı dosetaksel3
+paklitaksel2 N=92
+N=172 N=68 N=77 N=94
+Yanıt oranı (%95 GA) %18 %49 %17 %61 %34
+(13 - 25) (36 - 61) (9 - 27) (50-71) (25-45)
+Medyan yanıt süresi 9,1 8,3 4,6 11,7 5,7
+(ay) (%95 GA)
+(5,6-10,3) (7,3-8,8) (3,7-7,4) (4,6-7,6)
+(9,3 – 15,0)
+Medyan progresyona 3,2 7,1 3,0 11,7 6,1
+kadar geçen süre TTP (2,6-3,5) (6,2-12,0) (2,0-4,4) (9,2-13,5) (5,4-7,2)
+(ay) (%95 GA)
+Medyan Sağkalım (ay) 16,4 24,8 17,9 31,2 22,74
+(%95 GA)
+(12,3-te) (18,6-33,7) (11,2-23,8) (27,3-40,8) (19,1-30,8)
+TTP = progresyona kadar geçen süre; "te", tahmin edilemediği veya henüz
+ulaşılamadığını göstermektedir.
+1. H0649g Çalışması: İHK3+ hasta alt grubu
+2. H0648g Çalışması: İHK3+ hasta alt grubu
+3. M77001 Çalışması: Tüm analiz grubu(tedavisi amaçlanan), 24 aylık sonuçlar
+HERCEPTIN ve anastrozol ile kombinasyon tedavisi
+HERCEPTIN, HER2 aşırı ekspresyonu olan ve hormon reseptörü (östrojen reseptörü
+(ER) ve/veya progesteron reseptörü (PR)) pozitif olan menopoz sonrası dönemdeki
+hastalarda metastatik meme kanserinin birinci basamak tedavisi için anastrozol ile
+kombinasyon halinde incelenmiştir. Progresyonsuz sağkalım, anastrozol koluna kıyasla
+HERCEPTIN artı anastrozol kolunda iki katına çıkmıştır (2,4 aya karşı 4,8 ay).
+Kombinasyonlu tedavi ile iyileşme görülen diğer parametreler; genel yanıt (%6,7’ye
+karşı %16,5), klinik fayda oranı (%27,9’a karşı %42,7) ve progresyona kadar geçen
+süredir (2,4 aya karşı 4,8 ay). Yanıta kadar geçen süre ve yanıt süresi açısından kollar
+arasında herhangi bir fark kaydedilmemiştir. Kombinasyon kolundaki hastalar için
+medyan genel sağkalım 4,6 ay uzamıştır. Bu fark istatistiksel olarak anlamlı değildir
+21 / 36ancak tek başına anastrozol kolundaki hastaların yarısından fazlası, hastalık
+progresyonundan sonra HERCEPTIN içeren rejime çapraz geçiş yapmışlardır.
+Metastatik meme kanserinde üç haftalık doz uygulaması
+Karşılaştırmalı olmayan monoterapi ve kombinasyon tedavisi çalışmalarından elde
+edilen etkililik sonuçları Tablo 4’te özetlenmektedir:
+Tablo 4: Karşılaştırmalı olmayan monoterapi ve kombinasyon tedavisi
+çalışmalarından elde edilen etkililik sonuçları
+Parametre Monoterapi Kombinasyon Tedavisi
+HERCEPTIN1 HERCEPTIN2 HERCEPTIN artı HERCEPTIN artı
+paklitaksel3 dosetaksel4
+N=105 N=72 N=32 N=110
+Yanıt oranı (%95 GA) %24 %27 %59 %73
+(15 - 35) (14 - 43) (41-76) (63-81)
+Medyan yanıt süresi 10,1 7,9 10,5 13,4
+(ay) (aralık)
+(2,8-35,6) (2,1-18,8) (1,8-21) (2,1-55,1)
+Medyan TTP (ay) 3,4 7,7 12,2 13,6
+(%95 GA)
+(2,8-4,1) (4,2-8,3) (6,2-ne) (11-16)
+Medyan Sağkalım (ay) te te te 47,3
+(%95 GA)
+(32-te)
+TTP = progresyona kadar geçen süre; "te", tahmin edilemediği veya henüz ulaşılamadığını
+göstermektedir
+1. WO16229 Çalışması: 8 mg/kg yükleme dozu, ardından 3 haftalık planda 6 mg/kg
+2. MO16982 Çalışması: haftalık 6 mg/kg yükleme dozu x 3, ardından 3 haftalık planda
+6 mg/kg
+3. BO15935 Çalışması
+4. MO16419 Çalışması
+Progresyon bölgeleri
+Karaciğerde progresyon sıklığı, tek başına paklitaksele kıyasla HERCEPTIN ve
+paklitaksel kombinasyonu ile tedavi edilen hastalarda anlamlı ölçüde azalmıştır
+(%45,7’ye karşı %21,8, p=0,004). Tek başına paklitaksel ile tedavi edilenlere kıyasla,
+HERCEPTIN ve paklitaksel ile tedavi edilen daha fazla hastada merkezi sinir
+sisteminde progresyon görülmüştür (%6,5’e karşı %12,6; p=0,377).
+Erken Evre Meme Kanseri (adjuvan tedavi)
+İntravenöz Formülasyon
+Erken evre meme kanseri, metastatik olmayan primer invazif meme karsinomu olarak
+tanımlanmaktadır.
+Adjuvan tedavide, HERCEPTIN 4 büyük, çok merkezli, randomize çalışmada
+incelenmiştir.
+- BO16348 çalışması, HER2 pozitif erken evre meme kanserli hastalarda, cerrahi,
+standart kemoterapi ve radyoterapi (uygulanabilirse) sonrasında bir ve iki yıl
+süreyle üç haftalık HERCEPTIN tedavisini karşılaştırmak için tasarlanmıştır.
+22 / 36Ayrıca, HERCEPTIN tedavisinin 2 yıl uygulanması ile 1 yıl uygulanması
+karşılaştırılmıştır. HERCEPTIN almak üzere atanan hastalara, 8 mg/kg ilk
+yükleme dozu ve ardından bir yıl boyunca üç haftada bir 6 mg/kg verilmiştir.
+- Birleşik analizi oluşturan NCCTG N9831 ve NSABP B-31 çalışmaları, AC
+kemoterapisinin ardından HERCEPTIN tedavisinin paklitaksel ile kombine
+edilmesinin klinik faydasını araştırmak üzere tasarlanmıştır; ayrıca NCCTG
+N9831 çalışmasında, HER2 pozitif erken evre meme kanserli hastalarda
+cerrahiden sonra AC→P kemoterapisine ardışık olarak tedaviye HERCEPTIN
+eklenmesi incelenmiştir.
+- BCIRG 006 çalışması, HER2 pozitif erken evre meme kanserli hastalarda
+cerrahiden sonra, AC kemoterapisinin ardından veya dosetaksel ve karboplatin ile
+kombinasyon halinde olacak şekilde HERCEPTIN tedavisinin dosetaksel ile
+kombine edilmesini araştırmak üzere tasarlanmıştır.
+BO16348 çalışmasındaki erken evre meme kanseri, tümörlerin çapı en az 1 cm ise
+aksiller nod negatif veya aksiller nod pozitif olan, ameliyat edilebilir, primer, invazif
+meme adenokarsinomu ile sınırlandırılmıştır.
+NCCTG N9831 ve NSABP B-31 çalışmalarının birleşik analizinde, erken evre meme
+kanseri, yüksek risk özellikleriyle (>1 cm tümör boyutu ve ER negatif veya hormonal
+durumdan bağımsız olarak >2 cm tümör boyutu) birlikte HER2 pozitif ve lenf nodu
+negatif veya HER2 pozitif ve aksiller lenf nodu pozitif olarak tanımlanan, yüksek riskli
+ameliyat edilebilir meme kanseri olan kadınlarla sınırlandırılmıştır.
+BCIRG 006 çalışmasında HER2 pozitif erken evre meme kanseri, lenf nodu pozitif veya
+lenf nodu tutulumu olmayan (pN0) ve aşağıdaki faktörlerden en az birinin bulunduğu
+yüksek riskli nod negatif olarak tanımlanmıştır: tümör boyutu 2 cm’den büyük, östrojen
+reseptörü ve progesteron reseptörü negatif, histolojik ve/veya nükleer derece 2-3 veya
+<35 yaş.
+BO16348 çalışmasından elde edilen 12 aylık* ve 8 yıllık** medyan takip sonrası
+etkililik sonuçları Tablo 5’te özetlenmiştir:
+23 / 36Tablo 5: BO16348 çalışmasının etkililik sonuçları
+Medyan takip 12 ay* Medyan takip
+8 yıl**
+Parametre Gözlem HERCEPTIN Gözlem HERCEPTIN
+N=1693 1 Yıl N= 1697*** 1 Yıl
+N= 1693 N = 1702***
+Hastalıksız sağkalım
+- Olay yaşayan hasta sayısı 219 (%12,9) 127 (%7,5) 570 (%33,6) 471 (%27,7)
+-Olay yaşamayan hasta 1474 (%87,1) 1566 (%92,5) 1127 (%66,4) 1231 (%72,3)
+sayısı
+Gözleme göre p değeri < 0,0001 < 0,0001
+Gözleme göre risk oranı 0,54 0,76
+Nükssüz sağkalım
+- Olay yaşayan hasta sayısı 208 (%12,3) 113 (%6,7) 506 (%29,8) 399 (%23,4)
+- Olay yaşamayan hasta 1485 (%87,7) 1580 (%93,3) 1191 (70,2 1303 (%76,6)
+sayısı %)
+Gözleme göre p değeri < 0,0001 < 0,0001
+Gözleme göre risk oranı 0,51 0,73
+Uzak hastalıksız sağkalım
+- Olay yaşayan hasta sayısı 184 (%10,9) 99 (%5,8) 488 (%28,8) 399 (%23,4)
+-Olay yaşamayan hasta 1508 (%89,1) 1594 (%94,2) 1209 (%71,2) 1303 (%76,6)
+sayısı
+Gözleme göre p değeri < 0,0001 < 0,0001
+Gözleme göre risk oranı 0,50 0,76
+Genel sağkalım (ölüm)
+- Olay yaşayan hasta sayısı 40 (%2,4) 31 (%1,8) 350 (20,6) 278 (%16,3)
+- Olay görülmeyen hasta 1653 (%97,6) 1662 (%98,2) 1347 (%79,4) 1424 (%83,7)
+sayısı
+Gözleme göre p değeri 0,24 0,0005
+Gözleme göre risk oranı 0,75 0,76
+* ko-primer sonlanım noktası olarak gözleme karşı 1 yıllık Hastalıksız Sağkalım (HS)
+önceden tanımlanmış istatistiksel sınırı karşıladı.
+**Final analiz (gözlem kolundan HERCEPTIN koluna geçen %52 oranındaki çapraz
+geçişi içeren)
+***12 aylık medyan takip analizi için veri kesim tarihinden sonra randomize edilen
+hasta sayısının az olmasından dolayı tüm örnek boyutunda bir uyumsuzluk vardır,
+Ara etkililik analizinden elde edilen etkililik bulguları, gözleme karşı 1 yıllık
+HERCEPTIN değerlendirilmesinde, protokolde önceden belirlenmiş istatistiksel sınırı
+geçmiştir. 12 aylık medyan takip sonrasında hastalıksız sağkalım (HS) için risk oranı
+(RO) 0,54 (%95 GA 0,44, 0,67) olup, 2 yıllık hastalıksız sağkalım oranı açısından
+HERCEPTIN kolu lehine 7,6 yüzde puanlık (%78,2’ye karşı %85,8) mutlak bir fayda
+anlamına gelmektedir.
+8 yıllık medyan takip sonrasında bir final analiz yapılmıştır ve bu analiz 1 yıllık
+HERCEPTIN tedavisinin sadece gözleme kıyasla %24 risk azalması ile ilişkili olduğunu
+24 / 36göstermiştir (RO=0,76, %95 GA 0,67, 0,86). Bu, 8 yıllık hastalıksız sağkalım oranı
+açısından 1 yıllık HERCEPTIN tedavisi lehine yüzde 6,4 puanlık bir mutlak fayda
+anlamına gelmektedir.
+Bu final analizde, HERCEPTIN tedavisinin iki yıla uzatılması 1 yıllık tedaviye karşı
+ilave fayda göstermemiştir [1 yıla karşı 2 yıllık tedavi amaçlı (ITT) popülasyonda HS
+RO=0,99 (%95 GA: 0,87, 1,13), p-değeri=0,90 ve Genel Sağkalım (GS) RO=0,98 (0,83,
+1,15); p-değeri=0,78]. Asemptomatik kardiyak fonksiyon bozukluğu oranı 2 yıllık tedavi
+kolunda artmıştır (1 yıllık tedavi kolunda %4,6’ya karşı %8,1). 1 yıllık tedavi koluna
+(%16,3) kıyasla 2 yıllık tedavi kolunda (%20,4) daha fazla hasta en az bir derece 3 veya
+4 istenmeyen etki yaşamıştır.
+NCCTG N9831 ve NSABP B-31 çalışmalarında HERCEPTIN, AC kemoterapisini
+takiben paklitaksel ile kombinasyon halinde uygulanmıştır.
+Doksorubisin ve siklofosfamid eş zamanlı olarak aşağıdaki gibi uygulanmıştır:
+- 4 siklus boyunca 3 haftada bir 60 mg/m2 dozunda verilen intravenöz
+doksorubisin.
+- 4 siklus boyunca 3 haftada bir 30 dakikada 600 mg/m2 dozunda verilen
+intravenöz siklofosfamid.
+HERCEPTIN ile kombinasyon halinde paklitaksel aşağıdaki gibi uygulanmıştır:
+- intravenöz paklitaksel - 12 hafta boyunca haftada bir verilen kesintisiz i.v.
+infüzyon şeklinde 80 mg/m2.
+veya
+- intravenöz paklitaksel - 4 siklus boyunca 3 haftada bir verilen (her siklusun 1.
+gününde) kesintisiz i.v. infüzyon şeklinde 175 mg/m2.
+HS* tanımlayıcı analizi sırasında NCCTG 9831 ve NSABP B-31 çalışmalarının
+birleşik analizinden elde edilen sonuçlar Tablo 6’da özetlenmektedir. Medyan
+takip süresi, AC→P kolundaki hastalar için 1,8 yıl ve AC→PH kolundaki
+hastalar için 2,0 yıldır.
+25 / 36Tablo 6: HS tanımlayıcı analizi sırasında NCCTG 9831 ve NSABP B-31
+çalışmalarının birleşik analizinden elde edilen etkililik sonuçlarının özeti*
+Parametre AC→P AC→PH Tehlike Oranına
+(n=1679) (n=1672) karşı AC→P
+(%95 GA)
+p değeri
+Hastalıksız sağkalım
+Olay yaşayan hasta sayısı (%) 261 (15,5) 133 (8,0) 0,48 (0,39, 0,59)
+p<0,0001
+Uzak Nüks
+Olay yaşayan hasta sayısı 193 (11,5) 96 (5,7) 0,47 (0,37, 0,60)
+p<0,0001
+Ölüm (OS olayı):
+Olay yaşayan hasta sayısı 92 (5,5) 62 (3,7) 0,67 (0,48, 0,92)
+p=0,014**
+A: doksorubisin; C: siklofosfamid; P: paklitaksel; H: trastuzumab
+*AC→P kolundaki hastalar için 1,8 yıl ve AC→PH kolundaki hastalar için 2,0 yıla
+varan medyan takip süresinde
+**GS için p değeri AC→P’ye karşı AC→PH karşılaştırması için önceden belirlenmiş
+istatistiksel sınırı geçmemiştir.
+Primer sonlanım noktası olan HS için, paklitaksel kemoterapisine HERCEPTIN
+eklenmesi, hastalık nüksü riskinde %52’lik bir azalmayla sonuçlanmıştır. Risk oranı, 3
+yıllık hastalıksız sağkalım oranı tahminleri açısından AC→PH (HERCEPTIN) kolu
+lehine %11,8 puanlık farkla (%87,2’ye karşı %75,4) bir mutlak fayda anlamına
+gelmektedir.
+Medyan 3,5-3,8 yıllık takipten sonra güvenlilik güncellemesi sırasında yapılan HS
+analizi, HS tanımlayıcı analizinde gösterilen faydanın büyüklüğünü yeniden
+doğrulamaktadır. Kontrol kolunda HERCEPTIN’e çapraz geçiş yapılmasına rağmen,
+paklitaksel kemoterapisine HERCEPTIN eklenmesi, hastalık nüksü riskinde %52’lik bir
+azalmayla sonuçlanmıştır. Paklitaksel kemoterapisine HERCEPTIN eklenmesi, ölüm
+riskinde %37’lik bir azalmayla da sonuçlanmıştır.
+NSABP B-31 ve NCCTG N9831 çalışmalarının birleşik analizinden elde edilen
+önceden planlanmış nihai GS analizi, 707 ölüm meydana geldiğinde gerçekleştirilmiştir
+(AC→PH grubunda medyan takip 8,3 yıl). AC→PH ile tedavi AC→P’ye kıyasla GS’de
+istatistiksel olarak anlamlı bir iyileşme görülmüştür (sınıflandırılmış RO=0,64; %95 GA
+[0,55, 0,74]; log-sıra p-değeri < 0,0001). 8. yılda, sağkalım oranının AC→PH kolunda
+%86,9 ve AC→P kolunda %79,4 olduğu hesaplanmış olup, mutlak fayda %7,4’tür (%95
+GA %4,9, %10,0).
+NSABP B-31 ve NCCTG N9831 çalışmalarının birleşik analizinden elde edilen nihai
+GS bulguları aşağıda Tablo 7’de özetlenmektedir.
+26 / 36Tablo 7: NSABP B-31 ve NCCTG N9831 çalışmalarının birleşik analizinden elde
+edilen nihai Genel Sağkalım Analizi
+Parametre AC→P AC→PH AC→P’ye AC→P’ye
+(N=2032) (N=2031) karşı p- karşı Risk
+değeri Oranı (%95
+GA)
+Ölüm (GS olayı): 418 (%20,6) 289 <0,0001 0,64
+Olay görülen hasta sayısı (%14,2) (0,55, 0,74)
+(%)
+A: doksorubisin; C: siklofosfamid; P: paklitaksel; H: trastuzumab
+HS analizi, NSABP B-31 ve NCCTG N9831 çalışmalarının birleşik analizinden elde
+edilen nihai GS analizinde yapılmıştır. Güncellenmiş HS analizi bulguları
+(sınıflandırılmış RO = 0,61; %95 GA [0,54, 0,69]), HERCEPTIN’e çapraz geçiş yapmış
+AC→P kolundaki %24,8 hastaya rağmen tanımlayıcı birincil HS analizine kıyasla
+benzer HS faydası göstermiştir. 8 yılda, hastalıksız sağkalım oranı, AC→PH kolunda
+%77,2 (GA %95: 75,4, 79,1) olarak hesaplanmış olup AC→P koluna kıyasla mutlak
+fayda % 11,8’dir
+BCIRG 006 çalışmasında HERCEPTIN, AC kemoterapisini takiben dosetaksel ile
+kombinasyon halinde (AC→DH) veya dosetaksel ve karboplatin ile kombinasyon
+halinde (DCarbH) uygulanmıştır.
+Dosetaksel aşağıdaki gibi uygulanmıştır:
+- intravenöz dosetaksel - 4 siklus boyunca her 3 haftada bir verilen (ilk dosetaksel
+siklusunun 2. gününde, ardından sonraki her siklusun 1. gününde) 1 saatlik i.v.
+infüzyon şeklinde 100 mg/m2
+veya
+- intravenöz dosetaksel - 6 siklus boyunca her 3 haftada bir verilen (1. siklusun 2.
+gününde, ardından sonraki her siklusun 1. gününde) 1 saatlik i.v. infüzyon
+şeklinde 75 mg/m2
+ardından:
+- karboplatin - hedef EAA’da = toplam 6 siklus boyunca her 3 haftada bir
+tekrarlanan 30-60 dakikalık i.v infüzyonla uygulanan 6 mg/mL/dak
+HERCEPTIN, kemoterapiyle birlikte haftada bir ve ardından toplam 52 hafta boyunca 3
+haftada bir uygulanmıştır.
+BCIRG 006 çalışmasının etkililik sonuçları Tablo 8 ve 9’da özetlenmektedir. Medyan
+takip süresi, AC→D kolunda 2,9 yıl ve AC→DH ve DCarbH kollarının her birinde 3,0
+yıldır.
+27 / 36Tablo 8: Etkililik Analizlerine Genel Bakış BCIRG 006 - AC→D’ye karşı AC→DH
+Parametre AC→D AC→DH Risk Oranına karşı
+(n=1073) (n=1074) AC→D
+(%95 GA)
+p değeri
+Hastalıksız sağkalım
+Olay yaşayan hasta sayısı 195 134 0,61(0,49, 0,77)
+p<0,0001
+Uzak nüks
+Olay yaşayan hasta sayısı 144 95 0,59 (0,46, 0,77)
+p<0,0001
+Ölüm (GS olayı)
+Olay yaşayan hasta sayısı 80 49 0,58 (0,40, 0,83)
+p=0,0024
+AC→D = doksorubisin artı siklofosfamid, ardından dosetaksel;
+AC→DH = doksorubisin artı siklofosfamid, ardından dosetaksel artı trastuzumab;
+GA = güven aralığı
+Tablo 9: Etkililik Analizlerine Genel Bakış BCIRG 006 - AC→D’ye karşı DCarbH
+Parametre AC→D DCarbH Risk Oranına karşı
+(n=1073) (n=1074) AC→D
+(%95 GA)
+Hastalıksız sağkalım
+Olay yaşayan hasta sayısı 195 145 0,67(0,54, 0,83)
+p=0,0003
+Uzak nüks
+Olay yaşayan hasta sayısı 144 103 0,65(0,50, 0,84)
+p=0,0008
+Ölüm (GS olayı)
+Olay yaşayan hasta sayısı 80 56
+0,66 (0,47, 0,93)
+p=0,0182
+AC→D = doksorubisin artı siklofosfamid, ardından dosetaksel;
+DCarbH = dosetaksel, karboplatin ve trastuzumab;
+GA = güven aralığı
+BCIRG 006 çalışmasında primer sonlanım noktası olan HS için risk oranı, 3 yıllık
+hastalıksız sağkalım oranı tahminleri açısından, AC→D kolu ile karşılaştırıldığında,
+AC→DH (HERCEPTIN) kolu lehine % 5,8 puanlık (%86,7’ye karşı %80,9’a ) ve
+DCarbH (HERCEPTIN) kolu lehine yüzde 4,6 puanlık (%85,5’e karşılık %80,9) mutlak
+bir fayda anlamına gelmektedir.
+BCIRG 006 çalışmasında, DCarbH (TCH) kolunda 213/1075 hasta, AC→DH
+(AC→TH) kolunda 221/1074 hasta ve AC→D (AC→T) kolunda 217/1073 hastanın
+28 / 36Karnofsky performans durumu ≤90’dır (ya 80 veya 90). Bu hasta alt grubunda
+hastalıksız sağkalım faydası görülmemiştir (ACD’ye (ACT) karşı DCarbH (TCH)
+için risk oranı = 1,16, %95 GA [0,73, 1,83]; ACD’ye karşı ACDH (ACTH) için
+risk oranı 0,97, %95 GA [0,60, 1,55]).
+Ayrıca, NSABP B-31/NCCTG N9831* ve BCIRG006 klinik çalışmaları birleşik
+analizinden elde edilen veri setinde, HS olayları ile semptomatik kardiyak olaylar
+birleştirilerek post-hoc açıklayıcı analiz yapılmış ve Tablo 10’da özetlenmiştir:
+Tablo 10: NSABP B-31/NCCTG N9831* ve BCIRG006 klinik çalışmaları birleşik
+analizinden HS olayları ile semptomatik kardiyak olaylar birleştirilerek elde edilen
+post-hoc açıklayıcı analiz sonuçları
+ACPH ACDH DCarbH
+(ACP’ye karşı) (ACD’ye karşı) (ACD’ye karşı)
+(NSABP B-31 ve (BCIRG 006) (BCIRG 006)
+NCCTG N9831)
+*
+Birincil etkililik analizi
+HS Risk oranları 0,48 0,61 0,67
+(%95 GA) (0,39, 0,59) (0,49, 0,77) (0,54, 0,83)
+p değeri p<0,0001 p< 0,0001 p=0,0003
+Uzun süreli takip etkililik
+analizi**
+HS Risk oranları 0,61 0,72 0,77
+(%95 GA) (0,54, 0,69) (0,61, 0,85) (0,65, 0,90)
+p-değeri p<0,0001 p<0,0001 p=0,0011
+HS ve semptomatik
+kardiyak olaylarla post-
+hoc açıklayıcıanaliz
+Uzun süreli takip** 0,67 0,77 0,77
+Risk oranları (0.-,60, 0,75) (0,66, 0,90) (0,66, 0,90)
+(%95 GA)
+A: doksorubisin; C: siklofosfamid; P: paklitaksel; D: dosetaksel; Carb: karboplatin; H:
+trastuzumab GA = güven aralığı
+*Tanımlayıcı HS analizi zamanında. Medyan takip süresi AC→P kolunda 1,8 yıl ve
+AC→PH kolunda 2,0 yıldır.
+**Birleşik analiz klinik çalışmaları için uzun süreli medyan takip süresi AC→PH kolu
+için 8,3 yıl (aralık: 0,1 ila 12,1) ve AC→P kolu için 7,9 yıldır (aralık: 0,0 ila 12,2);
+BCIRG 006 çalışması için uzun süreli medyan takip süresi hem AC→D kolunda (aralık:
+0,0 ila 12,6) hem de DCarbH kolunda (aralık: 0,0 ila 13,1) 10,3 yıl ve AC→DH kolunda
+10,4 yıldır (aralık: 0,0 ila 12,7).
+29 / 36Erken evre meme kanseri (neoadjuvan-adjuvan tedavi)
+İntravenöz Formülasyon
+Şu ana kadar adjuvan tedavide kemoterapiyle birlikte uygulanan HERCEPTIN’in
+etkililiğini neoadjuvan/adjuvan tedavide elde edilen etkililikle karşılaştıran sonuçlar
+mevcut değidir.
+Neoadjuvan/adjuvan koşulda yapılmış çok merkezli ve randomize bir çalışma olan
+MO16432 çalışması, 1 yıllık toplam tedavi süresi boyunca HERCEPTIN’in bir
+antrasiklin ve taksan içeren neoadjuvan kemoterapiyle eş zamanlı uygulanması ve
+ardından adjuvan HERCEPTIN uygulanmasının klinik etkililiğini incelemek üzere
+tasarlanmıştır. Yeni tanı konmuş lokal ileri (III. Evre) veya enflamatuvar erken evre
+meme kanserli hastalar çalışmaya alınmıştır. HER2+ tümörleri olan hastalar,
+neoadjuvan-adjuvan HERCEPTIN ile eş zamanlı olarak neoadjuvan kemoterapi veya
+tek başına neoadjuvan kemoterapi almak üzere randomize edilmiştir.
+MO16432 çalışmasında, HERCEPTIN (8 mg/kg yükleme dozu, ardından 3 haftada bir 6
+mg/kg idame) 10 siklus neoadjuvan kemoterapi ile eş zamanlı olarak aşağıdaki gibi
+uygulanmıştır:
+- 3 siklus boyunca 3 haftada bir uygulanan 60 mg/m2 doksorubisin ve 150 mg/m2
+paklitaksel,
+ardından
+- 4 siklus boyunca 3 haftada bir uygulanan 175 mg/m2 paklitaksel,
+ardından
+- 3 siklus boyunca 4 hafta bir 1. ve 8. günde CMF
+ardından cerrahiden sonra:
+- ek adjuvan HERCEPTIN siklusları (1 yıllık tedaviyi tamamlamak için)
+MO16432 çalışmasının etkililik sonuçları Tablo 11’de özetlenmektedir. HERCEPTIN
+kolunda medyan takip süresi 3,8 yıldır.
+Tablo 11: MO16432 çalışmasının etkililik sonuçları
+Parametre Kemoterapi + Tek başına
+HERCEPTIN kemoterapi
+(n=115) (n=116)
+Olaysız sağkalım Risk Oranı
+(%95 GA)
+Olay yaşayan hasta sayısı 46 59 0,65 (0,44, 0,96)
+p=0,0275
+Total patolojik tam yanıt* %40 %20,7 P=0,0014
+(%95 GA) (31,0, 49,6) (13,7, 29,2)
+Genel sağkalım Risk Oranı
+(%95 GA)
+Olay yaşayan hasta sayısı 22 33 0,59 (0,35, 1,02)
+p=0,0555
+30 / 36* memede ve aksiller nodlarda invazif kanser yokluğu olarak tanımlanmaktadır
+3 yıllık olaysız sağkalım oranı açısından, HERCEPTIN kolu lehine %13 puanlık mutlak
+fayda hesaplanmıştır (%65’e karşı %52).
+Subkutan Formülasyonu
+BO22227 Çalışması, ortak birincil FK ve etkililik sonlanım noktaları temelinde
+HERCEPTIN IV formülasyonuna karşı HERCEPTIN SC formülasyonunun eşit olduğunu
+göstermek amacıyla gerçekleştirilmiştir (Doz öncesi 8 siklus trastuzumab C ve nihai
+çukur,
+ameliyatta tam patolojik tam yanıt oranı pTY). Toplam 595 HER2-pozitif, opere edilebilir
+veya enflamatuvar meme kanseri de dahil lokal ileri evre meme kanseri (LİMK) olan
+hasta kemoterapiyle (4 siklus dosetaksel, 75 mg/m2 intravenöz infüzyon, ardından 4
+siklus FES ([5-Fluorourasil, 500 mg/m2, epirubisin, 75 mg/m2, siklofosfamid, 500
+mg/m2 hepsi intravenöz bolus veya infüzyon]) eş zamanlı olarak sekiz siklus
+HERCEPTIN intravenöz form veya HERCEPTIN subkutan form almış, ardından cerrahi
+uygulanmış, ve tedaviye ilk randomize edildiği şekilde HERCEPTIN intravenöz form
+veya HERCEPTIN subkutan form ile 10 siklus daha devam edilmiş, toplam tedavi bir
+yıl sürmüştür.
+Memede invazif neoplastik hücre yokluğu olarak tanımlanan etkililik bileşik primer
+sonlanım noktası pTY’nin analizi, HERCEPTIN IV kolunda %40,7 (%95 GA: 34,7, 46,9)
+ve HERCEPTIN SC kolunda %45,4 (%95 GA: %39,2, %51,7) oranlarıyla sonuçlanmış ve
+HERCEPTIN SC kolu lehine %4,7’lik bir farkı ortaya koymuştur. pTY oranlarındaki fark
+için tek taraflı %97,5 güven aralığının alt sınırı - 4.0’tü ve bileşik primer sonlanım noktası
+için HERCEPTIN SC formülasyonunun eşit olduğu göstermiştir.
+Tablo 12: Patolojik Tam Yanıtın özeti (pTY)
+HERCEPTIN IV HERCEPTIN SC
+(n:263) (n:260)
+pTY (memede invasif 107 (%40,7) 118 (%45,4)
+neoplastik hücrelerin
+yokluğu)
+Yanıt alınamayanlar 156 (%59,3) 142 (%54,6)
+pTY oranı için tam GA (34,7; 46,9) (39,2; 51,7)
+%95*
+pTY’deki farklılık (SC IV 4,70
+kol arasındaki fark)
+pTY’deki farklılık için alt -4,0
+sınır tek-taraflı güven aralığı
+%97,5 **
+*Pearson-Clopper yöntemi kullanılarak bir binom numune için güven aralığı
+** Bu hesaplamada, Anderson ve Hauck (1986)’ın süreklilik düzeltmesi kullanılmıştır.
+Ortalama sürenin 40 ayı aşan daha uzun süreli takibi ile yapılan analizler HERCEPTIN
+subkutanın HERCEPTIN intravenöze karşı, benzer GS ve (olaysız sağkalım sonuçları
+ile eşit etkililik gösterdiğini desteklemektedir (3 yıllık olaysız sağkalım oranı
+31 / 36HERCEPTIN intravenöz kolunda %73, subkutan kolunda %76 dır; 3 yıllık GS oranı
+HERCEPTIN intravenöz kolunda %90 ve subkutan kolunda % 92dir.).
+FK bileşik primer sonlanım noktası eşitliği için, 7 siklus tedavi sonundaki kararlı
+trastuzumab C değeri için 5.2 Farmakokinetik özellikler bölümüne bakabilirsiniz.
+çukur
+Karşılaştırmalı güvenlilik profili için bkz. Bölüm 4.8.
+Ortalama takip süresinin 70 aydan daha uzun sürdüğü final analizde, HERCEPTIN IV
+kullanan hastalar ile HERCEPTIN SC kullanan hastalardaki olaysız sağkalım ve GS
+değerlerinin benzer olduğu görülmüştür. 6 yıllık olaysız sağkalım oranı her iki kolda da
+%65’dir (ITT popülasyonu: RO=0,98 [GA %95: 0,74; 1,29] ) ve GS oranı her iki kolda
+da %84’tür (ITT popülasyonu: RO=0,94 [GA %95: 0,61; 1,45] ).
+HER2 pozitif erken evre meme kanseri hastalarının adjuvan tedavisinde, hastaların
+HERCEPTIN subkutanı flakon olarak alan kohort (n=1868 hasta, neoadjuvan tedavi
+alan 20 hasta dahil) ya da HERCEPTIN subkutanı uygulama yolu ile alan kohorta
+(n=710 hasta, neoadjuvan tedavi alan 21 hasta dahil) dahil edilmesi ile yapılan ve
+HERCEPTIN subkutanın güvenlilik ve tolerabilitesini araştıran MO28048 çalışmasında
+yeni bir güvenlilik bildirimi kaydedilmemiştir. Sonuçlar, HERCEPTIN intravenöz
+formülasyonu ve HERCEPTIN subkutan formülasyonu için bilinen güvenlilik profili ile
+tutarlıdır. Buna ilave olarak, erken evre meme kanseri adjuvan tedavide, HERCEPTIN
+subkutan sabit doz ile tedavi edilen düşük kilolu hastalar, aşırı kilolu hastalar ile
+karşılaştırıldığında artmış güvenlilik riski, istenmeyen etki ve ciddi istenmeyen etki ile
+ilişkilendirilmemiştir. BO22227 çalışmasında 70 aydan daha uzun süren ortalama takip
+süresine ait final sonuçları, HERCEPTIN intravenöz formülasyonu ve HERCEPTIN
+subkutan formülasyonu için bilinen güvenlilik profili ile tutarlıdır, ve yeni güvenlilik
+sinyalleri gözlenmemiştir.
+Pediyatrik popülasyon
+Pediyatrik kullanımla ilgili bilgi için bkz. Bölüm 4.2.
+5.2 Farmakokinetik özellikler
+Genel özellikler
+Üç haftada bir subkutan uygulanan 600 mg trastuzumab farmakokinetiği intravenöz
+uygulama ile (8 mg/kg yükleme dozu, 6 mg/kg idame üç haftada bir) BO22227 faz III
+çalışmasında karşılaştırılmıştır. Bileşik primer sonlanım noktası olan 8. Siklus dozu
+öncesi C için farmakokinetik sonuçlar, vücut ağırlığına göre ayarlanmış
+çukur
+HERCEPTIN intravenöz doz ile karşılaştırıldığında HERCEPTIN subkutanın eşit
+etkililikte olduğunu göstermiştir.
+Emilim:
+Neoadjuvan tedavi fazında, 8. Siklus dozu öncesi zaman noktasında, ortalama C ,
+çukur
+HERCEPTIN subkutan grubunda (78,7 mikrog/mL), HERCEPTIN intravenöz
+grubundan (57,8 mikrog/mL) daha yüksektir. Tedavinin adjuvan fazında, 13. Siklus
+dozu öncesi zaman noktasında, ortalama C değerleri sırasıyla 90,4 mikrog/mL ve
+çukur
+62,1 mikrog/mL’dir. BO22227 çalışmasında gözlemlenen verilere dayanarak, intravenöz
+32 / 36form ile sabit düzeye 8. Siklusta ulaşılmıştır. HERCEPTIN subkutan uygulamayla,
+konsantrasyonlar, 13. Siklusa kadar konsantrasyonda (< %15) küçük artışlarla yaklaşık
+7. Siklus dozunun ardından (8. Siklus doz öncesi) sabit düzeye ulaşmıştır. Subkutan
+18.Siklus doz öncesi ortalama C 90,7 mikrog/mL’dir ve 13. Siklustakine yakındır,
+çukur
+bu da 13. Siklustan sonra daha fazla yükselme olmadığını düşündürmektedir.
+Subkutan uygulamayı takiben ortalama T yaklaşık 3 gündür, fakat kişiye göre çok
+maks
+değişkenlik gösterir (aralık 1-14 gün). Trastuzumab subkutan form ile beklenen
+ortalama C (149 mikrog/mL) intravenöz gruba göre daha düşüktür (infüzyon sonu
+maks
+değer: 221 mikrog/mL).
+7. Siklus dozunu takiben ortalama EAA HERCEPTIN subkutan form ile
+0-21gün
+HERCEPTIN intravenöz forma göre yaklaşık %10 daha yüksektir, ortalama EAA
+değerleri sırasıyla 2268 mikrog/mL•gün ve 2056 mikrog/mL•gündür. 12. Siklus dozunu
+takiben HERCEPTIN subkutan form ile HERCEPTIN intravenöz forma göre yaklaşık
+%20 daha yüksektir ve ortalama EAA değerleri sırasıyla 2610 mikrog/mL•gün ve
+2179 mikrog/mL•gündür. Vücut ağırlığının trastuzumab klerensi üzerindeki belirgin
+etkisi ve subkutan uygulama için sabit doz kullanılması nedeniyle, subkutan ve
+intravenöz uygulamalara maruziyetler arasındaki fark vücut ağırlığına bağlıdır: vücut
+ağırlığı < 51 kg olan hastalarda trastuzumab için ortalama sabit düzey EAA intravenöz
+tedaviye göre subkutan uygulamadan sonra %80 daha yüksekken, bu değer en yüksek
+VA grubunda (> 90 kg) EAA subkutan uygulamadan sonra intravenöz uygulamaya göre
+%20 daha düşüktür.
+Erken evre meme kanseri hastalarında, intravenöz ve subkutan trastuzumab uygulamayı
+takiben gözlemlenen farmakokinetik konsantrasyon verilerini tanımlamak için, faz III
+çalışma BO22227’den elde edilen HERCEPTIN SC ve HERCEPTIN IV’nin toplu
+farmakokinetik verileri kullanılarak, santral kompartmandan elde edilen paralel doğrusal
+ve doğrusal olmayan eliminasyon ile bir popülasyon farmakokinetik modeli
+oluşturulmuştur. Subkutan formülasyonun biyoyararlanımı %77,1 ve birinci dereceden
+emilim oranı sabiti 0,4 gün-1 olarak hesaplanmıştır. Lineer klerensi (CL) 0,111 L/gün ve
+santral kompartman hacmi (V ) 2,91 L olarak hesaplanmıştır. Michaelis-Menten
+c
+parametre değerleri, V ve K için sırasıyla 11,9 mg/gün ve 33,9 mcg/mL dir. Vücut
+maks m
+ağırlığı ve serum alanin aminotransferaz (SGPT / ALT), PK üzerinde istatistiksel olarak
+anlamlı bir etki göstermekle birlikte, simülasyonlar, erken evre meme kanseri
+hastalarında doz ayarlaması gerekmediğini göstermiştir. EEMK hastalarında
+HERCEPTIN SC doz rejimleri için popülasyona bağlı farmakokinetik maruziyet
+parametre değerleri (5. - 95. Persantiller ile medyan) Tablo 13'te gösterilmektedir.
+Tablo 13: Erken evre meme kanseri hastalarında HERCEPTIN SC 600 mg 3
+haftalık doz rejimine ait popülasyona bağlı farmakokinetik maruziyet parametre
+değerleri (5. - 95. Persantiller ile medyan)
+Primer tümör Siklus N Cmin Cmaks EAA
+tipi ve rejim (mcg/mL) (mcg/mL) 0-21gün
+(mcg.gün/mL)
+Erken evre Siklus 1 297 28,2 79,3 1065
+meme (14,8-40,9) (56,1-109) (718-1504)
+kanseri 600
+33 / 36mg
+HERCEPTIN Siklus 7 297 75,0 149 2337
+SC 3 haftalık (sabit (35,1-123) (86,1-214) (1258-3478)
+doz durum)
+Dağılım:
+Tipik bir hastada santral (Vc) ve periferik (Vp) kompartmanlardaki hacim dağılımı
+sırasıyla 3,02 L ve 2,68 L’dir. Hasta özelliklerinin (yaş ve serum kreatinin gibi)
+trastuzumab dağılımına etkisi araştırılmıştır ve veriler trastuzumab dağılımının bu hasta
+gruplarının hiçbirinde değişmediğini göstermiştir.
+Biyotransformasyon:
+Geçerli değil.
+Eliminasyon:
+Trastuzumab atılım periyodu subkutan uygulamayı takiben popülasyon farmakokinetik
+modeli ile değerlendirilmiştir. Bu simülasyonların sonuçları hastaların en az %95’inin
+yedinci aya kadar <1 mikrog/mL (popülasyona bağlı C ’nin yaklaşık %3’ü veya
+min,ss
+atılımın yaklaşık %97’si) konsantrasyonlarına ulaşacağını göstermektedir.
+Doğrusallık/ Doğrusal Olmayan Durum:
+Geçerli değil.
+Hastalardaki karakteristik özellikler:
+Geriyatrik popülasyon:
+Yaşlı hastalarda detaylı farmakokinetik çalışmalar yapılmamıştır. Popülasyon
+farmakokinetik analizinde, yaşın trastuzumab dağılımını etkilemediği gösterilmiştir.
+Böbrek/Karaciğer yetmezliği:
+Böbrek ve karaciğer yetmezliği olanlarda detaylı farmakokinetik çalışmalar
+yapılmamıştır.
+5.3 Klinik öncesi güvenlilik verileri
+İntravenöz Formülasyon
+6 aya kadar çalışmalarda akut veya çoklu dozla ilgili toksisite kanıtı veya teratoloji,
+kadın doğurganlığı veya geç gebelik toksisitesi/plasental geçiş çalışmalarında üreme
+toksisitesi kanıtı bulunmamıştır. HERCEPTIN genotoksik değildir. Formülasyonda
+önemli bir yardımcı madde olan trehalozla yapılan bir çalışmada herhangi bir toksisite
+gözlenmemiştir.
+HERCEPTIN’in karsinojenik potansiyelini belirlemek veya erkeklerde üreme üzerinde
+etkilerini belirlemek için uzun süreli hayvan çalışması yapılmamıştır.
+34 / 36Subkutan Formülasyonu
+Tavşanlarda bir tek doz çalışması ve Sinomolgus maymunlarında 13 haftalık bir tekrarlı
+doz toksisite çalışması yürütülmüştür. Tavşan çalışması özellikle lokal tolerans
+özelliklerini incelemek için yapılmıştır. 13 haftalık çalışma, uygulama yolu
+değişikliğinin ve yeni yardımcı madde rekombinant insan hiyalüronidazının (rHuPH20)
+kullanılmasının, HERCEPTIN’in güvenlilik özelliklerini etkilemediğini doğrulamak
+amacıyla yürütülmüştür. HERCEPTIN SC formülasyonu, lokal ve sistemik olarak iyi
+tolere edilmiştir.
+Hiyalüronidaz insan vücudunun çoğu dokularında mevcuttur. Rekombinant insan
+hiyalüronidazı için klinik dışı veriler, güvenlik farmakoloji sonlanım noktalarını da
+kapsayan konvansiyonel tekrarlayan doz toksisite araştırmalarına dayanarak, insanlar
+için tehlikeli olmadığını bildirmektedir. rHuPH20 ile üreme toksikolojisi araştırmaları
+yüksek sistemik maruziyette farelerde embriyofötal toksisite göstermiş, teratojenik
+potansiyel göstermemiştir.
+6. FARMASÖTİK ÖZELLİKLER
+6.1 Yardımcı maddelerin listesi
+Rekombinant insan hiyalüronidazı (rHuPH20)
+L-histidin
+L-histidin hidroklorür monohidrat
+α,α-trehaloz dihidrat
+L-metionin
+Polisorbat 20
+Enjeksiyonluk Su
+6.2 Geçimsizlikler
+HERCEPTIN SC formülasyonu, diğer ürünlerle karıştırılmaması veya seyreltilmemesi
+gereken, kullanıma hazır bir çözeltidir.
+6.3 Raf ömrü
+18 ay.
+Flakondan şırıngaya alındıktan sonra tıbbi ürün fiziksel ve kimyasal olarak 48 saat
+boyunca 2 °C – 8°C’de ve oda ısısında (maks.30°C) gün ışığında 6 saat bozulmadan
+kalabilir. HERCEPTIN antimikrobiyal koruyucu içermediğinden, mikrobiyolojik açıdan
+derhal kullanılmalıdır.
+6.4 Saklamaya yönelik özel tedbirler
+2-8C’de buzdolabında saklayınız.
+Dondurmayınız.
+Işıktan korumak için flakonu karton kutusunda saklayınız.
+Buzdolabından çıkarıldıktan sonra HERCEPTIN 25°C’nin altındaki oda sıcaklığında
+saklanmalı ve 6 saat içinde uygulanmalıdır.
+35 / 366.5 Ambalajın niteliği ve içeriği
+5 mL çözelti içeren (600 mg trastuzumab), floro reçine film kaplı butil kauçuk tıpalı,
+6 mL’lik şeffaf tip I cam flakon.
+Her kutu 1 adet flakon içermektedir.
+6.6 Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+HERCEPTIN, uygulanmadan önce partikül madde ve renk değişimi açısından görsel
+olarak kontrol edilmelidir.
+HERCEPTIN tek kullanımlıktır.
+HERCEPTIN antimikrobiyal koruyucu içermediğinden, mikrobiyolojik açıdan derhal
+kullanılmalıdır. Hemen kullanılmayacaksa, hazırlık, kontrollü ve onaylanmış aseptik
+koşullarda yapılmalıdır. İğnedeki çözeltinin kurumasını önlemek ve ürün kalitesinden
+ödün vermemek için çözelti şırıngaya alındıktan sonra iğnenin şırınga kapağı ile
+kapatılması önerilmektedir. Uygulamadan hemen önce hipodermik enjeksiyon iğnesi
+şırıngaya takılmalı ve hacim 5 mL’ye ayarlanmalıdır.
+Kullanılmamış olan ürünler ya da atık materyaller “Tıbbi Atıkların Kontrolü
+Yönetmeliği” ve “Ambalaj Atıklarının Kontrolü Yönetmeliği”’ne uygun olarak imha
+edilmelidir.
+7. RUHSAT SAHİBİ
+Roche Müstahzarları Sanayi Anonim Şirketi,
+Uniq İstanbul
+Ayazağa Cad. No:4
+D/101 Maslak 34396
+Sarıyer- İstanbul
+Tel: (0212) 366 9000
+Faks: (0212) 285 2200
+8. RUHSAT NUMARASI
+2022/63
+9. İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi: 23.02.2022
+Ruhsat yenileme tarihi:
+10. KÜB’ÜN YENİLENME TARİHİ
+36 / 36

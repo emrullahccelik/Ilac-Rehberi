@@ -1,0 +1,2422 @@
+KISA ÜRÜN BİLGİSİ
+Bu ilaç ek izlemeye tabidir. Bu üçgen yeni güvenlilik bilgisinin hızlı olarak belirlenmesini
+sağlayacaktır. Sağlık mesleği mensuplarının şüpheli advers reaksiyonları TÜFAM’a
+bildirmeleri beklenmektedir. Bakınız Bölüm 4.8 Advers reaksiyonlar nasıl raporlanır?
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+TECENTRIQ 1200 mg/20 ml infüzyonluk çözelti hazırlamak için konsantre
+Steril
+2. KALİTATİF VE KANTİTATİF BİLEŞİMİ
+Etkin madde:
+20 mL konsantre bir flakon içinde 1200 mg atezolizumab içerir.
+Dilüsyondan sonra 1 mL solüsyon yaklaşık olarak 4,4 mg atezolizumab içerir (bkz. Bölüm 6.6).
+Atezolizumab, rekombinant DNA teknolojisiyle Çin hamsteri yumurtalık hücrelerinde üretilen,
+bir Fc bölgesi değiştirilmiş, hümanize IgG1 anti-programlı ölüm-ligandı 1 (PD-L1) monoklonal
+antikorudur.
+Yardımcı madde(ler):
+Yardımcı maddeler için Bölüm 6.1’e bakınız.
+3. FARMASÖTİK FORM
+İnfüzyonluk çözelti hazırlamak için steril konsantre
+Berrak, renksiz ila hafif sarımsı sıvı
+4. KLİNİK ÖZELLİKLER
+4.1. Terapötik endikasyonlar
+Erken Evre Küçük Hücreli Dışı Akciğer Kanseri (EE-KHDAK)
+TECENTRIQ, PD-L1 ekspresyonu tümör hücrelerinde (TC) ≥ %50 olan, yetişkin Evre II-IIIA
+küçük hücreli dışı akciğer kanseri hastalarında, rezeksiyonu ve platin bazlı kemoterapiyi
+takiben, adjuvan tedavide monoterapi olarak endikedir. Non-skuamöz küçük hücreli dışı
+akciğer kanserlerinde EGFR ve ALK mutasyonlarının negatif olması gereklidir. Hastalık nüksü
+veya kabul edilemez toksisite olmadıkça maksimum 1 yıl süreyle kullanımı uygundur.
+Metastatik Küçük Hücreli Dışı Akciğer Kanseri (KHDAK)
+TECENTRIQ’in, performans durumu ECOG 0-1 olan, EGFR, ALK, ROS negatif, semptomatik
+beyin metastazı olmayan, lokal ileri ve/veya metastatik küçük hücreli dışı akciğer kanseri
+(KHDAK) nedeniyle daha önce 1-2 basamak kemoterapi almış ve progresyon gelişmiş
+1hastaların tedavisinde tekrar progresyona kadar kullanımı endikedir.
+TECENTRIQ, EGFR mutant ya da ALK pozitif olmayan ve PD-L1 ekspresyonu tümör
+hücrelerinde (TC) ≥ %50 ya da tümör infiltre edici immün hücrelerde ≥ %10 olan, aktif beyin
+metastazı olmayan, ECOG 0 veya 1 metastatik küçük hücreli dışı akciğer kanseri yetişkin
+hastaların birinci basamak tedavisinde monoterapi olarak endikedir. Yassı hücreli KHDAK
+hastalarında EGFR ve/veya ALK durumunun belirlenmiş olması aranmaz.
+TECENTRIQ, ECOG performans skoru 0-1 olan, yeterli kardiyak, renal ve hepatik
+fonksiyonları bulunan, aktif beyin metastazı olmayan, EGFR ya da ALK mutasyonları
+bulunmayan ve eş zamanlı immünsüpresif veya kortikosteroid tedavisi almayan metastatik
+yassı hücreli olmayan KHDAK hastalarının birinci basamak tedavisinde, nab-paklitaksel ve
+karboplatinli kemoterapi rejimi ile kombine olarak progresyona kadar kullanımı endikedir.
+Tedavi sonu progresyonda diğer PD-1 ve PD-L1 inhibitörleri kullanılamaz.
+Küçük Hücreli Akciğer Kanseri (KHAK)
+TECENTRIQ’in, karboplatin ve etoposidle kombine olarak yaygın evre küçük hücreli akciğer
+kanseri olan yetişkin hastaların birinci basamak tedavisinde kullanımı endikedir.
+Hepatoselüler Kanser
+TECENTRIQ’in bevacizumab ile kombine olarak, daha önce sistemik tedavi görmemiş, ECOG
+performans durumu 0 ve 1 olan, Child-Pugh skoru A olan, metastatik veya lokorejyonel
+tedaviye uygun olmayan rezeke edilemeyen hepatoselüler karsinomlu yetişkin hastaların
+tedavisinde kullanımı endikedir.
+4.2. Pozoloji ve uygulama şekli
+TECENTRIQ, kanser tedavisinde deneyimli bir hekimin gözetimi altında uygulanmalıdır.
+KHDAK hastalarında PD-L1 testi:
+TECENTRIQ monoterapisi
+Erken evre KHDAK ve birinci basamak metastatik KHDAK hastalarının tedaviye uygunluğu,
+valide edilmiş bir test ile teyid edilmiş PD-L1 tümör ekspresyonuna göre yapılmalıdır (bkz.
+Bölüm 5.1).
+Pozoloji/Uygulama sıklığı ve süresi:
+TECENTRIQ monoterapisi
+Önerilen TECENTRIQ dozu, üç haftada bir intravenöz yoldan uygulanan 1200 mg'dır.
+TECENTRIQ kombinasyon tedavisi
+Non-skuamoz KHDAK – TECENTRIQ ile nab-paklitaksel ve karboplatin kombinasyonu
+İndüksiyon fazında, 1. günde önerilen TECENTRIQ dozu intravenöz yoldan uygulanan 1200
+mg ve takiben sırasıyla nab-paklitaksel ve karboplatindir. Nab-paklitaksel 8. ve 15. günlerde
+2intravenöz yoldan uygulanır. Bu rejim 4 veya 6 siklus boyunca her 3 haftada bir uygulanır.
+İndüksiyon fazını, kemoterapi olmadan, yalnızca 3 haftada bir 1200 mg intravenöz yoldan
+TECENTRIQ uygulanan idame fazı takip eder.
+KHAK – TECENTRIQ ile karboplatin ve etoposid kombinasyonu
+İndüksiyon fazında, 1. günde önerilen TECENTRIQ dozu intravenöz yoldan uygulanan 1200
+mg ve takiben sırasıyla karboplatin ve etoposiddir. Etoposid 2. ve 3. günlerde intravenöz yoldan
+uygulanır. Bu rejim 4 siklus boyunca her 3 haftada bir uygulanır.
+İndüksiyon fazını, kemoterapi olmadan, yalnızca 3 haftada bir 1200 mg intravenöz yoldan
+TECENTRIQ uygulanan idame fazı takip eder.
+Hepatoselüler Kanser (HSK)
+TECENTRIQ ile bevacizumab kombinasyonu
+Önerilen TECENTRIQ dozu 1200 mg’dır ve bunu takiben 15 mg/kg bevacizumab ile üç haftada
+bir intravenöz yoldan uygulanır.
+Tedavi süresi:
+2. Basamak Küçük Hücreli Dışı Akciğer Kanseri (KHDAK) ve Hepatoselüler Kanser (HSK)
+Klinik faydanın kaybedilmesine (bkz. Bölüm 5.1) veya yönetilemeyen toksisiteye kadar
+hastaların TECENTRIQ ile tedavi edilmeleri önerilmektedir.
+Erken Evre Küçük Hücreli Dışı Akciğer Kanseri
+Hastalık nüksü veya kabul edilemez toksisite olmadıkça hastaların 1 yıl boyunca TECENTRIQ
+ile tedavi edilmeleri önerilmektedir. 1 yıldan uzun süren tedavi süresi çalışılmamıştır.
+1. Basamak Küçük Hücreli Dışı Akciğer Kanseri (KHDAK) (TECENTRIQ monoterapi
+Hastalık progresyonuna veya yönetilemeyen toksisiteye kadar hastaların TECENTRIQ ile
+tedavi edilmeleri önerilmektedir.
+1. Basamak non-skuamoz Küçük Hücreli Dışı Akciğer Kanseri (KHDAK) (TECENTRIQ ile
+nab-paklitaksel ve karboplatin kombinasyonu)
+Hastalık progresyonuna veya yönetilemeyen toksisiteye kadar hastaların TECENTRIQ ile
+tedavi edilmeleri önerilmektedir.
+Hastalık progresyonundan sonra devam eden TECENTRIQ tedavisiyle atipik yanıtlar (yani ilk
+olarak hastalık progresyonu ve ardından tümörde küçülme) gözlenmiştir. Hekimin takdirine
+bağlı olarak hastalık progresyonundan sonra tedavi uygulanması düşünülebilir.
+Geciken veya atlanan dozlar:
+Planlanmış bir TECENTRIQ dozu atlanırsa mümkün olan en kısa sürede uygulanmalıdır.
+Uygulama planı, dozlar arasında 3 haftalık bir aralık korunacak şekilde ayarlanmalıdır.
+3Tedavi sırasında doz modifikasyonları:
+TECENTRIQ için doz azaltımı önerilmez.
+Doz gecikmesi veya kesilmesi (ayrıca bkz. Bölüm 4.4 ve 4.8):
+Tablo 1: TECENTRIQ için doz modifikasyon tavsiyesi
+İmmünite ile ilişkili advers Şiddet Tedavi modifikasyonu
+reaksiyon
+Pnömonit 2. derece TECENTRIQ tedavisine ara
+verilir.
+Olay 12 hafta içinde 0. derece
+veya 1. dereceye iyileştiğinde
+ve kortikosteroidler günde
+≤10 mg prednizon
+eşdeğerine düşürüldüğünde
+tedaviye devam edilebilir.
+3. veya 4. derece TECENTRIQ tedavisi
+tamamen kesilir.
+Hepatoselüler kanseri 2. derece: TECENTRIQ tedavisine ara
+olmayan hastalarda hepatit (ALT veya AST >3-5 x verilir.
+normalin üst sınırı [NÜS]
+veya Olay 12 hafta içinde 0. derece
+veya 1. dereceye iyileştiğinde
+kan bilirubin >1,5-3 x NÜS) ve kortikosteroidler günde
+≤10 mg prednizon veya
+eşdeğerine düşürüldüğünde
+tedaviye devam edilebilir.
+3. veya 4. derece: TECENTRIQ tedavisi
+(ALT veya AST >5 x NÜS tamamen kesilir.
+veya
+kan bilirubin >3 x NÜS)
+Hepatoselüler kanserli Eğer AST veya ALT TECENTRIQ tedavisine ara
+hastalarda hepatit başlangıçta normal verilir.
+seviyelerde olup >3 x ila ≤10
+x NÜS’e yükselirse Olay 12 hafta içinde 0. derece
+veya 1. dereceye iyileştiğinde
+veya ve kortikosteroidler günde
+≤10 mg prednizon veya
+Eğer AST veya ALT eşdeğerine düşürüldüğünde
+başlangıçta >1 x ila ≤3 x tedaviye devam edilebilir.
+NÜS olup >5 x ila ≤10 x
+NÜS’e yükselirse
+veya
+Eğer AST veya ALT
+4İmmünite ile ilişkili advers Şiddet Tedavi modifikasyonu
+reaksiyon
+başlangıçta >3 x ila ≤5 x
+NÜS olup >8 x ila ≤10 x
+NÜS’e yükselirse
+Eğer AST veya ALT >10 x TECENTRIQ tedavisi
+NÜS’e yükselirse tamamen kesilir.
+veya
+total bilirubin >3 x NÜS’e
+yükselirse
+Kolit 2. veya 3. derece diyare TECENTRIQ tedavisine ara
+(başlangıca göre ≥4 verilir.
+dışkı/gün)
+Olay 12 hafta içinde 0. derece
+veya veya 1. dereceye iyileştiğinde
+ve kortikosteroidler günde
+Semptomatik kolit ≤10 mg prednizon veya
+eşdeğerine düşürüldüğünde
+tedaviye devam edilebilir.
+4. derece diyare veya kolit TECENTRIQ tedavisi
+(yaşamı tehdit edici; acil tamamen kesilir.
+müdahale endike)
+Hipotiroidizm veya Semptomatik TECENTRIQ tedavisine ara
+hipertiroidizm verilir.
+Hipotiroidizm:
+Semptomlar tiroid replasman
+tedavisi ile kontrol altına
+alındığında ve TSH düzeyleri
+düşmeye başladığında
+tedaviye devam edilebilir.
+Hipertiroidizm:
+Semptomlar anti-tiroid bir
+tıbbi ürün ile kontrol altına
+alındığında ve tiroid
+fonksiyonu iyileşmeye
+başladığında tedaviye devam
+edilebilir.
+Adrenal yetmezlik Semptomatik TECENTRIQ tedavisine ara
+verilir.
+Semptomlar 12 hafta içinde
+0. derece veya 1. dereceye
+iyileştiğinde ve
+kortikosteroidler günde ≤10
+mg prednizon veya
+5İmmünite ile ilişkili advers Şiddet Tedavi modifikasyonu
+reaksiyon
+eşdeğerine düşürüldüğünde
+ve hastanın durumu
+replasman tedavisinde stabil
+hale geldiğinde tedaviye
+devam edilebilir.
+Hipofizit 2. veya 3. derece TECENTRIQ tedavisine ara
+verilir.
+Semptomlar 12 hafta içinde
+0. derece veya 1. dereceye
+iyileştiğinde ve
+kortikosteroidler günde ≤10
+mg prednizon veya
+eşdeğerine düşürüldüğünde
+ve hastanın durumu
+replasman tedavisinde stabil
+hale geldiğinde tedaviye
+devam edilebilir.
+4. derece TECENTRIQ tedavisi
+tamamen kesilir.
+Tip 1 diabetes mellitus 3. veya 4. derece TECENTRIQ tedavisine ara
+hiperglisemi (açlık glukozu verilir.
+>250 mg/dL veya 13,9
+mmol/L) İnsülin replasman
+tedavisinde metabolik
+kontrol elde edildiğinde
+tedaviye devam edilebilir.
+Döküntü/Şiddetli kutanöz 3. derece TECENTRIQ tedavisine ara
+advers reaksiyonlar verilir.
+veya şüpheli Stevens-
+Johnson sendromu (SJS) Semptomlar 12 hafta içinde
+veya toksik epidermal 0. derece veya 1. dereceye
+nekroliz (TEN) iyileştiğinde ve
+kortikosteroidler günde ≤10
+mg prednizon veya
+eşdeğerine düşürüldüğünde
+tedaviye devam edilebilir.
+4. derece TECENTRIQ tedavisi
+tamamen kesilir.
+veya doğrulanmış Stevens-
+Johnson sendromu (SJS)
+veya toksik epidermal
+nekroliz (TEN)1
+Miyastenik sendrom/ 1. veya 2. derece fasyal TECENTRIQ tedavisine ara
+miyastenia gravis, parezi verilir.
+Guillain-Barré sendromu, Olay tamamen geçerse,
+meningoensefalit ve fasyal tedaviye devam edilebilir.
+parezi TECENTRIQ tedavisine ara
+6İmmünite ile ilişkili advers Şiddet Tedavi modifikasyonu
+reaksiyon
+verildiğinde olay tamamen
+geçmezse, tedavi tamamen
+kesilir.
+Miyastenik sendrom/ TECENTRIQ tedavisi
+miyastenia gravis, Guillain- tamamen kesilir.
+Barré sendromu ve
+meningoensefalit tüm
+dereceler
+veya fasyal parezi 3. ve 4.
+derece
+Miyelit 2., 3. veya 4. derece TECENTRIQ tedavisi
+tamamen kesilir
+Pankreatit Serum amilaz veya lipaz TECENTRIQ tedavisine ara
+düzeylerinde 3. veya 4. verilir.
+derece yükselme (> 2 NÜS)
+veya 2. veya 3. derece Serum amilaz ve lipaz
+pankreatit düzeyleri 12 hafta içinde 0.
+derece veya 1. dereceye
+iyileştiğinde veya pankreatit
+semptomları düzeldiğinde ve
+kortikosteroidler günde ≤10
+mg prednizon veya
+eşdeğerine düşürüldüğünde
+TECENTRIQ ile tedaviye
+devam edilebilir.
+4. derece veya herhangi bir TECENTRIQ tedavisi
+derecede nükseden tamamen kesilir.
+pankreatit
+Miyokardit 2. derece veya üzeri TECENTRIQ tedavisi
+tamamen kesilir.
+Nefrit 2. derece (kreatinin düzeyi > TECENTRIQ tedavisine ara
+başlangıca göre 1,5 – 3 x verilir.
+veya >1,5 – 3 x NÜS)
+Olay 12 hafta içinde 0. derece
+veya 1. dereceye iyileştiğinde
+ve kortikosteroidler günde
+≤10 mg prednizon veya
+eşdeğerine düşürüldüğünde
+tedaviye devam edilebilir.
+3. veya 4. derece TECENTRIQ tedavisi
+(kreatinin düzeyinde tamamen kesilir.
+başlangıca göre 3 kat artış
+veya NÜS’e göre 3 kat artış)
+Miyozit 2. veya 3. derece TECENTRIQ tedavisine ara
+7İmmünite ile ilişkili advers Şiddet Tedavi modifikasyonu
+reaksiyon
+verilir
+4. derece veya 3. derecede TECENTRIQ tedavisi
+nükseden miyozit tamamen kesilir.
+Perikardiyal bozukluklar 1. derece perikardit TECENTRIQ tedavisine ara
+verilir2
+2. derece veya üzeri TECENTRIQ tedavisi
+tamamen kesilir
+Hemofagositik Şüpheli hemofagositik TECENTRIQ tedavisi
+lenfohistiyositoz lenfohistiyositoz1 tamamen kesilir
+İmmünite ile ilişkili diğer 2. veya 3. derece Olay 12 hafta içinde 0. derece
+advers reaksiyonlar veya 1. dereceye iyileşene ve
+kortikosteroidler günde ≤10
+mg prednizon veya
+eşdeğerine düşürülene kadar
+TECENTRIQ tedavisine ara
+verilir.
+4. derece veya 3. derece TECENTRIQ tedavisi
+nükseden advers olaylar tamamen kesilir.
+(replasman hormonlarıyla
+kontrol altına alınan
+endokrinopatiler hariç)
+Diğer Advers reaksiyonlar Şiddet Tedavi Modifikasyonu
+İnfüzyonla ilişkili 1. veya 2. derece İnfüzyon hızı azaltılır veya
+reaksiyonlar kesilir.
+Olay düzeldikten sonra
+tedavi sürdürülebilir.
+3. veya 4. derece TECENTRIQ tedavisi
+tamamen kesilir.
+Not: Toksisite dereceleri, Ulusal Kanser Enstitüsü Advers Olaylar için Ortak Terminoloji
+Kriterleri, Versiyon 4.0'a (NCI-CTCAE v.4) uygundur.
+1 Şiddetten bağımsız olarak
+2 Etiyoloji tespiti için detaylı kardiyak değerlendirme gerçekleştirilir ve uygun şekilde yönetilir
+TECENTRIQ ile tedavi edilen hastalara ilacın riskleri hakkında bilgi veren Hasta Uyarı Kartları
+verilmelidir.
+Uygulama şekli:
+TECENTRIQ intravenöz kullanıma yöneliktir. TECENTRIQ infüzyonları intravenöz puşe veya
+bolus şeklinde uygulanmamalıdır.
+İlk TECENTRIQ dozu 60 dakika uygulanmalıdır. İlk infüzyon tolere edilirse, sonraki tüm
+infüzyonlar 30 dakikada uygulanabilir.
+Tıbbi ürünün uygulanmadan önceden seyreltilmesi ve kullanımına ilişkin talimatlar için Bölüm
+6.6’ya bakınız.
+Özel popülasyonlara ilişkin ek bilgiler:
+8Karaciğer yetmezliği:
+Popülasyon farmakokinetik analizine göre hafif veya orta düzeyde karaciğer bozukluğu olan
+hastalarda doz ayarlaması gerekli değildir. Şiddetli karaciğer bozukluğu olan hastalara ilişkin
+veri mevcut değildir (bkz. Bölüm 5.2).
+Böbrek yetmezliği:
+Popülasyon farmakokinetik analizine göre hafif ve orta derecede böbrek bozukluğu olan
+hastalarda doz ayarlaması gerekli değildir (bkz. Bölüm 5.2). Şiddetli böbrek bozukluğu olanlara
+ait bilgi, bu popülasyonda bir sonuca varmak için çok azdır.
+Pediyatrik popülasyon:
+TECENTRIQ'in çocuklarda ve 18 yaş altındaki adolesanlarda güvenliliği ve etkililiği
+gösterilmemiştir. Mevcut olan veriler Bölüm 4.8, 5.1 ve 5.2’de anlatılmıştır ancak pozoloji ile
+ilgili herhangi bir tavsiye verilememektedir.
+Geriyatrik popülasyon:
+Popülasyon farmakokinetik analizine göre 65 yaş ve üstündeki hastalarda TECENTRIQ doz
+ayarlaması gerekli değildir (bkz. Bölüm 4.8 ve 5.1).
+Doğu Kooperatif Onkoloji Grubu (ECOG) performans statüsü ≥2
+ECOG performans statüsü ≥2 olan hastalar Küçük Hücreli Dışı Akciğer Kanseri (KHDAK),
+Erken Evre Küçük Hücreli Akciğer Kanseri (EE-KHAK), 2. Basamak Ürotelyal Kanser ve
+Hepatoselüler Kanser klinik çalışmalarına dahil edilmemiştir (bkz. Bölüm 4.4 ve 5.1).
+4.3. Kontrendikasyonlar
+TECENTRIQ’in etkin maddesi atezolizumaba veya Bölüm 6.1’de listelenen yardımcı
+maddelerden herhangi birine aşırı duyarlılığı olan hastalarda kontrendikedir.
+4.4. Özel kullanım uyarıları ve önlemleri
+İmmünite ile ilişkili advers reaksiyonlar:
+TECENTRIQ ile tedavi sırasında oluşan immünite ile ilişkili advers reaksiyonların çoğu ilacın
+kesilmesi ve kortikosteroidlerin ve/veya destekleyici tedavinin başlatılmasıyla geri
+döndürülebilir olmuştur. Birden fazla vücut sistemini etkileyen immünite ile ilişkili advers
+reaksiyonlar görülmüştür ve bu reaksiyonlar TECENTRIQ’in son dozundan sonra da oluşabilir.
+İmmünite ile ilişkili şüpheli advers reaksiyonlar için etyolojiyi doğrulamak veya diğer nedenleri
+dışlamak için yeterli değerlendirme yapılmalıdır. Advers etkilerin şiddetine bağlı olarak,
+TECENTRIQ tedavisine ara verilir ve kortikosteroid uygulanır. Olay ≤ 1. dereceye iyileştiğinde
+kortikosteroid kullanımı ≥1 ay boyunca azaltılarak kesilmelidir. İmmünite ile ilişkili
+istenmeyen reaksiyonların kortikosteroid kullanımı ile kontrol edilemediği hastalarda, klinik
+çalışmalardan elde edilen sınırlı verilere dayanarak, diğer sistemik immunosupresan ajanların
+kullanımı düşünülebilir.
+9Herhangi bir 3. derece immünite ile ilişkili advers reaksiyon ikinci defa ortaya çıkarsa ve
+replasman hormonlar ile kontrol edilen endokrinopatiler hariç herhangi bir 4. derece immünite
+ile ilişkili advers reaksiyon görülürse TECENTRIQ tedavisi tamamen kesilmelidir (bkz. Bölüm
+4.2 ve 4.8).
+Gözlemsel çalışmalardan elde edilen veriler, önceden otoimmün hastalığı olan hastalarda
+immün kontrol noktası inhibitör tedavisini takiben immünite ile ilişkili advers reaksiyon
+riskinin, önceden otoimmün hastalığı olmayan hastalardaki riskle karşılaştırıldığında
+artabileceğini göstermektedir. Ek olarak, altta yatan otoimmün hastalıkların alevlenmesi sık
+olmuştur, ancak çoğunluğu hafif ve kontrol altına alınabilir nitelikte olmuştur.
+İmmünite ile ilişkili pnömonit:
+TECENTRIQ ile yürütülen klinik çalışmalarda ölümcül vakalar da dahil olmak üzere pnömonit
+vakaları gözlenmiştir (bkz. Bölüm 4.8). Hastalar pnömonit belirtileri ve semptomları için
+izlenmeli ve immünite ile ilişkili pnömonit dışındaki sebepler dışlanmalıdır.
+2. derece pnömonit durumunda TECENTRIQ ile tedaviye ara verilmeli ve günde 1-2 mg/kg
+vücut ağırlığı prednizon veya eşdeğeri ile tedavi başlatılmalıdır. Semptomlar ≤1. dereceye
+iyileşirse kortikosteroidler ≥1 ay boyunca azaltılarak kesilmelidir. Olay 12 hafta içinde ≤1.
+dereceye iyileşirse ve kortikosteroidler günde ≤10 mg prednizon veya eşdeğerine düşürülürse
+TECENTRIQ ile tedaviye devam edilebilir. 3. veya 4. derece pnömonit durumunda
+TECENTRIQ ile tedavi kalıcı olarak bırakılmalıdır.
+İmmünite ile ilişkili hepatit:
+TECENTRIQ ile yürütülen klinik çalışmalarda bazıları ölümcül sonuçlara yol açan hepatit
+vakaları gözlenmiştir (bkz. Bölüm 4.8). Hastalar hepatit belirtileri ve semptomları için
+izlenmelidir.
+Aspartat aminotransferaz (AST), alanin aminotransferaz (ALT) ve bilirubin, TECENTRIQ ile
+tedavi öncesinde ve tedavi sırasında periyodik olarak ve klinik değerlendirmeye göre endike
+olduğu gibi izlenmelidir.
+Hepatoselüler kanseri olmayan hastalarda 2. derece olay (ALT veya AST >3-5 x NÜS veya kan
+bilirubin >1,5-3 x NÜS) 5-7 günden uzun süre devam ederse TECENTRIQ ile tedaviye ara
+verilmeli ve günde 1-2 mg/kg vücut ağırlığı prednizon veya eşdeğeri ile tedavi başlatılmalıdır.
+Olaylar ≤1. dereceye iyileşirse kortikosteroidler ≥1 ay boyunca azaltılarak kesilmelidir.
+Olay 12 hafta içinde ≤1. dereceye iyileşirse ve kortikosteroidler günde ≤10 mg prednizon veya
+eşdeğerine düşürülürse TECENTRIQ ile tedaviye devam edilebilir. 3. veya 4. derece olaylarda
+(ALT veya AST >5 x NÜS veya kan bilirubin >3 x NÜS) TECENTRIQ ile tedavi kalıcı olarak
+bırakılmalıdır.
+Hepatoselüler kanseri olan hastalarda, ALT veya AST başlangıçtaki normal sınırlardan >3 ila
+≤10 x NÜS’e; veya başlangıçtan >1 ila ≤3 x NÜS’ten >5 ila ≤10 x NÜS’e; veya başlangıçtan
+>3 ila ≤5 x NÜS’ten >8 ila ≤10 x NÜS’e yükselir ve 5-7 günden uzun süre devam ederse
+TECENTRIQ ile tedaviye ara verilmeli ve günde 1-2 mg/kg vücut ağırlığı prednizon veya
+eşdeğeri ile tedavi başlatılmalıdır. Olaylar ≤1. dereceye iyileşirse kortikosteroidler ≥1 ay
+boyunca azaltılarak kesilmelidir.
+1012 hafta içinde olaylar ≤1. dereceye iyileşirse ve kortikosteroidler günde ≤10 mg veya
+eşdeğerine azaltılırsa TECENTRIQ tedavisine devam edilebilir. ALT veya AST >10 x NÜS
+veya total bilirubin >3 x NÜS’e yükselirse TECENTRIQ tedavisi tamamen kesilmelidir.
+İmmünite ile ilişkili kolit:
+TECENTRIQ ile yürütülen klinik çalışmalarda diyare veya kolit vakaları gözlenmiştir (bkz.
+Bölüm 4.8). Hastalar kolit belirtileri ve semptomları için izlenmelidir.
+2. veya 3. derece diyare (başlangıca göre ≥4 dışkı/gün artış) veya kolit (semptomatik)
+durumunda TECENTRIQ ile tedaviye ara verilmelidir. 2. derece diyare veya kolit durumunda
+semptomlar >5 gün devam ederse veya nüksederse, günde 1-2 mg/kg vücut ağırlığı prednizon
+veya eşdeğeri ile tedavi başlatılmalıdır. 3. derece diyare veya kolit durumunda IV
+kortikosteroidlerle (1-2 mg/kg vücut ağırlığı/gün metilprednizolon veya eşdeğeri) tedavi
+başlatılmalı ve semptomlar iyileşmeye başladığında günde 1-2 mg/kg vücut ağırlığı prednizon
+veya eşdeğerine geçilmelidir. Semptomlar ≤1. dereceye iyileşirse kortikosteroidler ≥1 ay
+boyunca azaltılarak kesilmelidir. Olay 12 hafta içinde ≤1. dereceye iyileşirse ve
+kortikosteroidler günde ≤10 mg prednizon veya eşdeğerine düşürülürse TECENTRIQ ile
+tedaviye devam edilebilir. 4. derece (yaşamı tehdit edici; acil müdahale endike) diyare veya
+kolit durumunda TECENTRIQ ile tedavi kalıcı olarak bırakılmalıdır. Kolit ile ilişkili potansiyel
+gastrointestinal perforasyon komplikasyonu dikkate alınmalıdır.
+İmmünite ile ilişkili endokrinopatiler:
+TECENTRIQ ile yürütülen klinik çalışmalarda hipotiroidizm, hipertiroidizm, adrenal
+yetmezlik, hipofizit ve diyabetik ketoasidoz dahil olmak üzere tip 1 diabetes mellitus vakaları
+gözlenmiştir (bkz. Bölüm 4.8).
+Hastalar endokrinopatilerin klinik belirtileri ve semptomları için izlenmelidir. Tiroid
+fonksiyonu TECENTRIQ ile tedavi öncesinde ve tedavi sırasında periyodik olarak izlenmelidir.
+Başlangıçta anormal tiroid fonksiyon testleri olan hastaların uygun şekilde tedavi edilmesi
+düşünülmelidir.
+Tiroid fonksiyonu testleri anormal olan asemptomatik hastalar TECENTRIQ alabilir.
+Semptomatik hipotiroidizm durumunda TECENTRIQ ile tedaviye ara verilmeli ve tiroid
+hormonu replasmanı gerektiğinde başlatılmalıdır. İzole hipotiroidizm kortikosteroidler
+kullanılmadan replasman tedavisi ile yönetilebilir. Semptomatik hipertiroidizm durumunda
+TECENTRIQ ile tedaviye ara verilmeli ve bir anti-tiroid tıbbi ürün gerektiği gibi başlatılmalıdır.
+Semptomlar kontrol altına alındığında ve tiroid fonksiyonu iyileştiğinde TECENTRIQ ile
+tedaviye devam edilebilir.
+Semptomatik adrenal yetmezlik durumunda TECENTRIQ ile tedavi durdurulmalı ve
+intravenöz kortikosteroid (günde 1-2 mg/kg vücut ağırlığı metilprednizolon veya eşdeğeri) ile
+tedavi başlatılmalıdır. Semptomlar iyileştiğinde günde 1-2 mg/kg vücut ağırlığı prednizon veya
+eşdeğeri ile tedavi uygulanmalıdır. Semptomlar ≤1. dereceye iyileşirse kortikosteroidler ≥1 ay
+boyunca azaltılarak kesilmelidir. Olay 12 hafta içinde ≤1. dereceye iyileşirse ve
+kortikosteroidler günde ≤10 mg prednizon veya eşdeğerine düşürülürse ve hastanın durumu
+replasman tedavisinde stabilse (gerekli ise) tedaviye devam edilebilir.
+2. veya 3. derece hipofizit için TECENTRIQ ile tedavi durdurulmalı ve intravenöz
+11kortikosteroidler (1 ila 2 mg/kg vücut ağırlığı/gün metilprednizolon veya eşdeğeri) ile tedavi
+başlatılmalı ve ihtiyaca göre hormon replasman tedavisi başlatılmalıdır. Belirtiler düzeldiğinde
+1 ila 2 mg/kg vücut ağırlığı/gün prednizon veya eşdeğeri ile tedavi uygulanmalıdır. Semptomlar
+≤ 1. dereceye iyileşirse, kortikosteroidler ≥ 1 ay boyunca azaltılarak kesilmelidir. Olay, 12 hafta
+içinde ≤ 1. dereceye iyileşir ve kortikosteroidler günde ≤ 10 mg prednizona veya eşdeğerine
+düşürülürse ve hasta replasman tedavisinde (eğer gerekli ise) stabil kalırsa, tedaviye devam
+edilebilir. 4. derece hipofizit için TECENTRIQ tedavisi kesilmelidir.
+Tip 1 diabetes mellitus için insülin tedavisi başlatılmalıdır. ≥3. derece hiperglisemi (açlık
+glukozu >250 mg/dL veya 13,9 mmol/L) durumunda TECENTRIQ ile tedaviye ara verilmelidir.
+İnsülin replasman tedavisinde metabolik kontrol elde edilirse TECENTRIQ ile tedaviye devam
+edilebilir.
+İmmünite ile ilişkili meningoensefalit:
+TECENTRIQ ile yürütülen klinik çalışmalarda meningoensefalit gözlenmiştir (bkz. Bölüm 4.8).
+Hastalar menenjit veya ensefalitin klinik belirtileri ve semptomları için izlenmelidir.
+Herhangi bir derece menenjit veya ensefalit durumunda TECENTRIQ ile tedavi kalıcı olarak
+bırakılmalıdır. İntravenöz kortikosteroidler (günde 1-2 mg/kg vücut ağırlığı metilprednizolon
+veya eşdeğeri) ile tedavi başlatılmalı ve hastanın durumu iyileştiğinde 1-2 mg/kg vücut ağırlığı
+prednizon veya eşdeğerine geçilmelidir.
+İmmünite ile ilişkili nöropatiler:
+TECENTRIQ alan hastalarda fasyal parezi ve yaşamı tehdit edici olabilen miyastenik
+sendrom/miyastenia gravis veya Guillain-Barré sendromu gözlenmiştir. Hastalar motor ve
+duyusal nöropati semptomları için izlenmelidir.
+TECENTRIQ ile gerçekleştirilen klinik çalışmalarda miyelit gözlenmiştir (bkz. Bölüm 4.8).
+Hastalar miyeliti düşündüren belirti ve semptomlar bakımından yakından izlenmelidir.
+Herhangi bir derece miyastenik sendrom/miyastenia gravis veya Guillain-Barré sendromu
+durumunda TECENTRIQ ile tedavi kalıcı olarak bırakılmalıdır. Günde 1-2 mg/kg dozda
+prednizon veya eşdeğeri ile sistemik kortikosteroidlerin başlatılması düşünülmelidir.
+1. veya 2. derece fasyal parezi durumunda TECENTRIQ tedavisine ara verilmelidir ve sistemik
+kortikosteroidlerle tedavi (1 ila 2 mg/kg vücut ağırlığı/gün prednison veya eşdeğeri)
+düşünülmelidir. Tedavi, yalnızca olayın tamamen geçmesi durumunda yeniden başlatılabilir. 3.
+veya 4. derece fasyal parezi durumunda veya TECENTRIQ’e ara verildiğinde tamamen
+geçmeyen herhangi bir başka nöropati durumunda, TECENTRIQ tedavisi tamamen
+kesilmelidir.
+2., 3. veya 4. derece miyelit durumunda TECENTRIQ tedavisi tamamen kesilmelidir.
+İmmünite ile ilişkili pankreatit:
+TECENTRIQ ile yürütülen klinik çalışmalarda serum amilaz ve lipaz düzeylerinde artışlar dahil
+olmak üzere pankreatit gözlenmiştir (bkz. Bölüm 4.8). Hastalar akut pankreatiti düşündüren
+belirtiler ve semptomlar bakımından yakından izlenmelidir.
+12Serum amilaz veya lipaz düzeylerinde ≥3. derece artış (> 2 NÜS) veya 2. veya 3. derece
+pankreatit durumunda TECENTRIQ ile tedaviye ara verilmeli ve günde 1-2 mg/kg vücut
+ağırlığı IV metilprednizolon veya eşdeğeri ile tedavi başlatılmalıdır. Semptomlar iyileştiğinde
+günde 1-2 mg/kg vücut ağırlığı prednizon veya eşdeğeri ile tedavi uygulanmalıdır. Serum
+amilaz ve lipaz düzeyleri 12 hafta içinde ≤1. dereceye iyileştiğinde veya pankreatit semptomları
+düzeldiğinde ve kortikosteroidler günde ≤10 mg prednizon veya eşdeğerine düşürüldüğünde
+TECENTRIQ ile tedaviye devam edilebilir. 4. derece veya herhangi bir derecede nükseden
+pankreatit durumunda TECENTRIQ ile tedavi kalıcı olarak bırakılmalıdır.
+İmmünite ile ilişkili miyokardit:
+TECENTRIQ ile yürütülen klinik çalışmalarda ölümcül vakalar da dahil olmak üzere
+miyokardit gözlemlenmiştir (bkz. Bölüm 4.8). Hastalar miyokarditi düşündüren belirtiler ve
+semptomlar açısından izlenmelidir. Miyokardit, miyozitin klinik bir belirtisi de olabilir ve
+uygun bir şekilde tedavi edilmelidir.
+Kardiyak veya kardiyopulmoner semptomları olan hastalar, uygun önlemlerin erken evrede
+başlatılmasını sağlamak için potansiyel miyokardit açısından değerlendirilmelidir. Miyokardit
+şüphesi varsa, TECENTRIQ ile tedaviye ara verilmeli ve günde 1-2 mg/kg vücut ağırlığı
+prednizon veya eşdeğeri ile sistemik kortikosteroidler başlatılmalı ve güncel klinik kılavuzlara
+göre tanısal incelemeler ile birlikte hızlı kardiyoloji konsültasyonu yapılmalıdır. Miyokardit
+tanısı konulduğunda, ≥2. derece miyokardit durumunda TECENTRIQ ile tedavi kalıcı olarak
+bırakılmalıdır (bkz. Bölüm 4.2).
+İmmünite ile ilişkili nefrit:
+TECENTRIQ ile yürütülen klinik çalışmalarda nefrit gözlemlenmiştir (bkz. Bölüm 4.8).
+Hastalar renal fonksiyonda değişiklikler açısından yakından izlenmelidir.
+2. derece nefrit durumunda TECENTRIQ ile tedaviye ara verilmeli ve günde 1-2 mg/kg vücut
+ağırlığı prednizon veya eşdeğeri ile sistemik kortikosteroidler başlatılmalıdır. Olay, 12 hafta
+içinde ≤1. dereceye iyileşir ve kortikosteroidler günde ≤ 10 mg prednizona veya eşdeğerine
+düşürüldüğünde tedaviye devam edilebilir. 3. veya 4. derece nefrit durumunda TECENTRIQ
+ile tedavi kalıcı olarak bırakılmalıdır.
+İmmünite ile ilişkili miyozit:
+TECENTRIQ ile yürütülen klinik çalışmalarda ölümcül vakalar da dahil olmak üzere miyozit
+vakaları gözlenmiştir (bkz. Bölüm 4.8). Hastalar miyozit belirtileri ve semptomları açısından
+izlenmelidir. Olası miyoziti olan hastalar miyokardit belirtileri açısından izlenmelidir.
+Bir hastada miyozit belirti ve semptomları gelişirse, yakın takibe alınmalı ve hasta vakit
+kaybetmeden değerlendirme ve tedavi için bir uzmana yönlendirilmelidir. 2. veya 3. derece
+miyozit durumunda TECENTRIQ ile tedaviye ara verilmeli ve günde 1-2 mg/kg vücut ağırlığı
+prednizon veya eşdeğeri ile sistemik kortikosteroidler başlatılmalıdır. Semptomlar ≤ 1.
+dereceye iyileşirse, klinik olarak belirtildiği gibi kortikosteroidler azaltılarak kesilebilir. Olay,
+12 hafta içinde ≤1. dereceye iyileşir ve kortikosteroidler günde ≤ 10 mg prednizona veya
+eşdeğerine düşürüldüğünde tedaviye devam edilebilir. 4. derece. veya 3. derece tekrarlayan
+miyozit durumunda ya da kortikosteroid dozu başlangıçtan sonraki 12 hafta içinde günde ≤ 10
+mg prednizon eşdeğerine düşürülemediğinde TECENTRIQ ile tedavi kalıcı olarak
+bırakılmalıdır.
+13İmmünite ile ilişkili şiddetli kutanöz advers reaksiyonlar:
+TECENTRIQ ile tedavi edilen hastalarda, Stevens-Johnson sendromu (SJS) ve toksik
+epidermal nekroliz (TEN) dahil olmak üzere immünite ile ilişkili şiddetli kutanöz advers
+reaksiyonlar bildirilmiştir. Hastalar şüpheli şiddetli cilt reaksiyonları açısından izlenmeli ve
+diğer sebepler dışlanmalıdır. Şüpheli şiddetli kutanöz advers reaksiyonları varlığında hastalar
+daha ileri teşhis ve takip için bir uzmana yönlendirilmelidir.
+Advers reaksiyonların şiddetine bağlı olarak, 3. derece cilt reaksiyonu durumunda
+TECENTRIQ ile tedaviye ara verilmeli ve günde 1-2 mg/kg vücut ağırlığı prednizon veya
+eşdeğeri ile sistemik kortikosteroidler başlatılmalıdır. Olay, 12 hafta içinde ≤1. dereceye iyileşir
+ve kortikosteroidler günde ≤ 10 mg prednizona veya eşdeğerine düşürüldüğünde TECENTRIQ
+tedavisine devam edilebilir. 4. derece cilt reaksiyonları durumunda TECENTRIQ ile tedavi
+kalıcı olarak bırakılmalı ve kortikosteroid uygulanmalıdır.
+Stevens-Johnson sendromu (SJS) ve toksik epidermal nekroliz (TEN) şüphesi olan hastalarda
+TECENTRIQ ile tedaviye ara verilmelidir. Doğrulanmış Stevens-Johnson sendromu (SJS) ve
+toksik epidermal nekroliz (TEN) vakalarında TECENTRIQ ile tedavi kalıcı olarak
+bırakılmalıdır.
+Daha önce diğer immün sistemi stimüle edici antikanser ajanlarla tedavi sırasında şiddetli veya
+hayatı tehdit eden cilt advers reaksiyonlar yaşayan hastaların TECENTRIQ tedavisine
+başlanması dikkatli olarak değerlendirilmelidir.
+İmmünite ile ilişkili perikardiyal bozukluklar
+TECENTRIQ ile perikardit, perikardiyal efüzyon ve kardiyak tamponad gibi bazıları ölümcül
+sonuçlara yol açan perikardiyal bozukluklar gözlenmiştir (bkz. Bölüm 4.8). Hastalar,
+perikardiyal bozuklukların klinik belirtileri ve semptomları açısından izlenmelidir.
+1. derece perikardit şüphesi durumunda TECENTRIQ tedavisi durdurulmalı ve mevcut klinik
+kılavuzlara göre tanısal çalışmalarla derhal kardiyoloji konsültasyonu başlatılmalıdır. ≥ 2.
+derece perikardiyal bozukluklardan şüphelenildiğinde, TECENTRIQ tedavisi kesilmeli, 1 ila 2
+mg/kg vücut ağırlığı/gün prednizon veya eşdeğeri dozunda sistemik kortikosteroidlerle acil
+tedaviye başlanmalı ve mevcut klinik kılavuzlar doğrultusunda tanısal tetkik ile derhal
+kardiyoloji konsültasyonu başlatılmalıdır. Bir perikardiyal bozukluk olayı tanısı konulduktan
+sonra, ≥ 2. derece perikardiyal bozukluklar için TECENTRIQ tedavisi kalıcı olarak kesilmelidir
+(bkz. Bölüm 4.2).
+Hemofagositik lenfohistiyositoz
+TECENTRIQ alan hastalarda ölümcül vakalar dahil olmak üzere hemofagositik
+lenfohistiyositoz (HLH) bildirilmiştir (bkz. Bölüm 4.8). Atipik veya uzamış sitokin salınım
+sendromu varlığı durumunda HLH değerlendirilmelidir. Hastalar HLH'nin klinik belirtileri ve
+semptomları açısından izlenmelidir. Şüpheli HLH durumunda TECENTRIQ kalıcı olarak
+kesilmeli ve hastalar ileri tanı ve tedavi için bir uzmana yönlendirilmelidir.
+İmmünite ile ilişkili diğer advers reaksiyonlar:
+TECENTRIQ’in etki mekanizması göz önünde bulundurulduğunda, enfektif olmayan sistitin
+de dahil olduğu immünite ile ilişkili diğer potansiyel advers reaksiyonlar görülebilir.
+14Diğer sebepleri dışlamak için tüm şüpheli immünite ile ilişkili advers reaksiyonları
+değerlendiriniz. Hastalar immünite ile ilişkili advers reaksiyonlarına ait işaretler ve semptomlar
+açısından gözlenmeli ve reaksiyonun şiddetine göre, klinik gerekliliğe göre tedavi
+modifikasyonu ve kortikosteroidler ile yönetilmelidir (Bkz. Bölüm 4.2 ve 4.8).
+İnfüzyon ile ilişkili reaksiyonlar:
+TECENTRIQ ile infüzyon ile ilgili reaksiyonlar gözlenmiştir (bkz. Bölüm 4.8).
+1. veya 2. derece infüzyon ile ilişkili reaksiyon görüldüğünde infüzyon hızı düşürülmeli veya
+tedavi kesilmelidir. 3. veya 4. derece infüzyon ile ilgili reaksiyon görüldüğünde TECENTRIQ
+tedavisi tamamen sonlandırılmalıdır. 1. veya 2. derece infüzyon ile ilişkili reaksiyon görülen
+hastalar yakından izlenerek TECENTRIQ almaya devam edebilir; bu hastalarda antipiretik ve
+antihistaminiklerle premedikasyon değerlendirilebilir.
+Hastalığa spesifik önlemler
+TECENTRIQ’in metastatik yassı hücreli olmayan KHDAK hastalarında bevacizumab,
+paklitaksel ve karboplatin ile kombinasyon halinde kullanılması
+Hekimler atezolizumab, bevacizumab, paklitaksel ve karboplatin dörtlü ilaç rejiminin kombine
+risklerini tedaviye başlamadan önce dikkatlice değerlendirmelidir.
+TECENTRIQ’in metastatik üçlü negatif meme kanseri (ÜNMK) hastalarında nab-paklitaksel
+ile kombinasyon halinde kullanılması
+TECENTRIQ ve nab-paklitaksel ile tedavi sırasında ortaya çıkan nötropeni ve periferik
+nöropatiler, nab-paklitakselin kesilmesiyle geri dönüşlü olabilir. Hekimler, bu ilaca özel
+önlemleri ve kontrendikasyonları için nab-paklitaksel Kısa Ürün Bilgisine (KÜB)
+başvurmalıdır.
+TECENTRIQ’in bevacizumab, paklitaksel ve karboplatin ile kombinasyon halinde kullanılması
+Görüntülemede tespit edilen, torasik büyük damarlara belirgin tümör infiltrasyonu veya
+pulmoner lezyonlarda belirgin kavitasyon bulunan KHDAK'li hastalar, bevacizumab için
+bilinen bir risk faktörü olan birkaç ölümcül pulmoner kanama vakasının gözlemlenmesinden
+sonra, pivotal klinik çalışma IMpower150'ye dahil edilmemiştir.
+Veri bulunmadığı durumda, atezolizumab bu popülasyonlarda hastaya yönelik fayda ve risk
+dengesinin dikkatli bir şekilde değerlendirilmesinden sonra temkinli bir şekilde kullanılmalıdır.
+TECENTRIQ’in erlotinib+bevacizumab ile progrese olmuş EGFR+ KHDAK hastalarında
+bevacizumab, paklitaksel ve karboplatin ile kombinasyon halinde kullanılması
+IMpower150 çalışmasında erlotinib+bevacizumab ile daha önce progrese olmuş EGFR+
+KHDAK hastalarında TECENTRIQ’in bevacizumab, paklitaksel ve karboplatin ile
+kombinasyonunun etkililiğine ilişkin veri bulunmamaktadır.
+TECENTRIQ’in, daha önce tedavi almamış sisplatine uygun olmayan ürotelyal kanseri olan
+hastalarda kullanılması
+15Imvigor210 Kohort 1 çalışma popülasyonunun başlangıç ve prognostik hastalık
+karakterizasyonu, klinikteki sisplatine uygun olmayan ama karboplatin bazlı kombinasyon
+kemoterapi kullanımına uygun olan hastalar ile genel olarak karşılaştırabilir olmuştur. Herhangi
+bir kemoterapi için uygun olmayan hastalara ait alt grup için veriler yetersizdir, bu nedenle
+TECENTRIQ bu hastalarda dikkatli kullanılmalı ve bireysel olarak potansiyel risk ve yarar
+dengesi dikkatli olarak değerlendirilmelidir.
+Hepatoselüler kanseri olan hastalarda TECENTRIQ’in bevacizumab ile birlikte kullanılması
+Child-Pugh B karaciğer hastalığı olan, TECENTRIQ ile bevacizumab kombinasyon tedavisi
+alan HSK hastalarına ait veriler çok sınırlıdır ve mevcut durumda Child-Pugh C karaciğer
+hastalığı olan HSK hastalarına ait veri bulunmamaktadır.
+Bevacizumab ile tedavi edilen hastalarda hemoraji riski yüksektir ve TECENTRIQ ile birlikte
+bevacizumab kullanan hepatoselüler kanserli hastalarda ölümcül olayları da kapsayan şiddetli
+gastrointestinal hemoraji vakaları bildirilmiştir. Hepatoselüler kanseri olan hastalarda
+TECENTRIQ ile birlikte bevacizumab tedavisine başlamadan önce klinik pratik olarak
+özofageal varislerin taranması ve tedavisi yapılmalıdır. Kombinasyon tedavisi ile 3. veya 4.
+derece kanama geçiren hastalarda bevacizumab tedavisi tamamen kesilmelidir. Konu ile ilgili
+bevacizumab Kısa Ürün Bilgisine bakınız.
+TECENTRIQ ile birlikte bevacizumab tedavisi sırasında diyabetes mellitus ortaya çıkabilir.
+Hekimler TECENTRIQ ile birlikte bevacizumab tedavisi öncesinde ve periyodik olarak tedavi
+boyunca klinik olarak gerekliliklere göre kan glukoz seviyelerini takip etmelidir.
+1. Basamak Küçük Hücreli Dışı Akciğer Kanseri tedavisinde monoterapi olarak TECENTRIQ
+kullanımı
+Hekimler Küçük Hücreli Dışı Akciğer Kanseri (KHDAK) olan hastalarda monoterapi olarak 1.
+Basamak tedavisine başlamadan önce TECENTRIQ’in gecikmeli etkisini değerlendirmelidir.
+TECENTRIQ ile kemoterapi karşılaştırmasında randomizasyondan sonraki 2,5 ay boyunca
+görülen daha yüksek ölüm vaka sayısını uzun süreli sağkalım faydası takip etmiştir. Erken ölüm
+vakaları ile ilgili spesifik faktör(ler) tespit edilmemiştir (bkz. Bölüm 5.1).
+Klinik çalışmalardan dışlanan hastalar:
+Aşağıdaki koşullara sahip hastalar klinik çalışmalara dahil edilmemiştir: Otoimmün hastalık
+geçmişi, pnömonit geçmişi, aktif beyin metastazı, HIV, hepatit B ya da hepatit C enfeksiyonu
+(Hepatoselüler kanseri olmayan hastalar için), önemli kardiyovasküler hastalığı ve yetersiz
+hematolojik ve hedef organ fonksiyonu. Kayıttan 28 gün önce canlı, zayıflatılmış bir aşı
+uygulanan hastalar, çalışmaya başlamadan önceki 4 hafta içerisinde sistemik immün sistemi
+uyarıcı ajanlar veya 2 hafta içerisinde sistemik immunosupresif ajanlar kullanan hastalar ve
+çalışmaya başlamadan 2 hafta önce terapötik oral veya IV antibiyotik kullanan hastalar klinik
+çalışmalara alınmamıştır.
+Biyoteknolojik ürünlerin takip edilebilirliği:
+Biyoteknolojik ürünlerin takip edilebilirliğinin sağlanması için uygulanan ürünün ticari ismi ve
+seri numarası mutlaka hasta dosyasına kaydedilmelidir.
+16Hasta Uyarı Kartı:
+TECENTRIQ reçete eden hekimler, TECENTRIQ tedavisinin risklerini hastalarına
+açıklamalıdır. TECENTRIQ ile tedavi edilen hastalara ilacın riskleri hakkında bilgi veren Hasta
+Uyarı Kartları verilmeli ve kartı her zaman yanlarında taşımaları söylenmelidir.
+4.5. Diğer tıbbi ürünlerle etkileşim ve diğer etkileşim biçimleri
+TECENTRIQ ile herhangi bir resmi farmakokinetik ilaç etkileşimi çalışması yapılmamıştır.
+TECENTRIQ dolaşımdan katabolizma ile temizlendiğinden metabolik ilaç-ilaç etkileşimleri
+beklenmemektedir.
+TECENTRIQ ile tedaviye başlamadan önce, TECENTRIQ’in farmakodinamik aktivitesine ve
+etkililiğine yapabilecekleri potansiyel etkiler nedeniyle sistemik kortikosteroidlerin veya
+immunosupresanların kullanılmasından kaçınılmalıdır. Bununla birlikte, sistemik
+kortikosteroidler veya diğer immunosupresif maddeler, TECENTRIQ tedavisine başladıktan
+sonra immünite ile ilişkili advers reaksiyonların tedavisinde kullanılabilir (bkz. Bölüm 4.4).
+Özel popülasyonlara ilişkin ek bilgiler:
+TECENTRIQ ile herhangi bir farmakokinetik ilaç etkileşimi çalışması yapılmamıştır.
+Pediyatrik popülasyon:
+TECENTRIQ ile pediyatrik popülasyonda herhangi bir farmakokinetik ilaç etkileşimi çalışması
+yapılmamıştır.
+4.6. Gebelik ve laktasyon
+Genel tavsiye:
+Gebelik kategorisi: D
+Çocuk doğurma potansiyeli bulunan kadınlar/doğum kontrolü (kontrasepsiyon):
+Çocuk doğurma potansiyeline sahip kadınlar TECENTRIQ ile tedavi sırasında ve tedaviden 5
+ay sonraya kadar etkili bir doğum kontrol yöntemi kullanmalıdır.
+Gebelik dönemi:
+TECENTRIQ’in hamile kadınlar üzerinde etkisine dair herhangi bir veri bulunmamaktadır.
+TECENTRIQ ile gelişimsel çalışmalar ve üreme çalışmaları yapılmamıştır. Hayvan
+çalışmalarıyla, PD-L1/PD-1 yolak inhibisyonunun fare gebelik modellerinde immünite ile
+ilişkili, fetüs ölümüyle sonuçlanan fetüs gelişiminin reddine sebep olduğu gösterilmiştir (bkz.
+Bölüm 5.3). Bu sonuçlar, etki mekanizmasına bağlı olarak potansiyel bir risk oluşturmakta olup,
+gebelik döneminde TECENTRIQ uygulamasının artmış düşük veya ölü doğum oranları dahil
+olmak üzere fetal zarara sebep olabileceğini göstermektedir.
+TECENTRIQ bir insan G1 immunoglobulinidir (IgG1) ve IgG1’in plasenta bariyerini aştığı
+bilinmektedir. Bu nedenle, TECENTRIQ’in anneden gelişmekte olan fetüse geçme potansiyeli
+bulunmaktadır.
+17Gebe kadınların klinik durumu TECENTRIQ ile tedavi gerektirmedikçe gebelik sırasında
+TECENTRIQ kullanılmamalıdır.
+Laktasyon dönemi:
+TECENTRIQ’in anne sütüne geçip geçmediği bilinmemektedir. TECENTRIQ bir monoklonal
+antikordur ve ilk gelen sütte bulunması ve daha sonra da az miktarda sütte bulunması
+beklenmektedir. Yeni doğanlar ve infantlar üzerindeki risk dışlanamaz. Emzirmenin çocuk için
+faydaları ve tedavinin anne için faydaları dikkate alınarak emzirmenin durdurulması veya
+TECENTRIQ tedavisinin durdurulması kararlaştırılmalıdır.
+Üreme yeteneği/fertilite:
+TECENTRIQ’in fertilite üzerindeki olası etkilerine ilişkin veri bulunmamaktadır.
+TECENTRIQ’in doğurganlık üzerindeki etkisini değerlendirme amaçlı reprodüktif ve
+gelişimsel toksisite çalışmaları yapılmamıştır. Bununla birlikte, 26 haftalık yinelenen doz
+toksisitesi çalışmasında, önerilen dozda TECENTRIQ kullanan hastalarda menstrüel siklusta
+eğri altında kalan alanı yaklaşık 6 katına çıkardığı ve geri dönüşümlü olduğu görülmüştür (bkz.
+Bölüm 5.3). Erkek reprodüktif organları üzerinde etki görülmemiştir.
+4.7. Araç ve makine kullanımı üzerindeki etkiler
+TECENTRIQ’in araç ve makine kullanma yeteneği üzerinde küçük bir etki göstermesi söz
+konusudur. Yorgunluk hisseden hastalara semptomlar hafifleyene kadar araç ve makine
+kullanmamaları tavsiyesinde bulunulmalıdır (bkz. Bölüm 4.8).
+4.8. İstenmeyen etkiler
+Güvenlilik profilinin özeti:
+TECENTRIQ monoterapisinin güvenliliği, çoklu tümör tiplerinde 4739 hastadaki havuzlanmış
+verilere dayandırılmıştır. En yaygın advers reaksiyonlar (>%10); yorgunluk (%29,9), iştah
+kaybı (%20), döküntü (%20), bulantı (%19,4), diyare (%18,4), pireksi (%18,3), öksürük
+(%18,1), artralji (%16,6), dispne (%16,4), pirürit (%13,7), asteni (%12,9), sırt ağrısı (%12,5),
+kusma (%11,9), idrar yolu enfeksiyonu (%11,1) ve baş ağrısı (%10,5) olmuştur.
+TECENTRIQ’in diğer tıbbi ürünlerle kombinasyonunda kullanımının güvenliliği, çoklu tümör
+tiplerinde 4535 hastada değerlendirilmiştir. En yaygın advers reaksiyonlar (≥%20); anemi
+(%36,8), nötropeni (36,6), bulantı (%35,5), yorgunluk (%33,1), trombositopeni (%27,1), diyare
+(%27,6), döküntü (%27,8), alopesi (%28,1), konstipasyon (%25,8), iştah azalması (%24,7),
+periferal nöropati (%24,4) olmuştur.
+Adjuvan Küçük Hücreli Dışı Akciğer Kanseri koşulunda TECENTRIQ kullanımı
+Küçük hücreli dışı akciğer kanseri (KHDAK) hasta popülasyonunda adjuvan ortamda
+TECENTRIQ’in güvenlilik profili (IMpower010), genel olarak ileri evre ortamında genel
+havuzlanmış monoterapi güvenlilik profili ile tutarlı olmuştur. Bununla birlikte, ileri evre
+hastalığı olan havuzlanmış monoterapi popülasyonunda immün sistemle ilişkili advers
+reaksiyonlarının insidansı %38,4 iken, IMpower010 çalışmasında atezolizumabın immün
+sistemle ilişkili advers reaksiyonlarının insidansı %51,7 olmuştur. Adjuvan ortamda immün
+18sistemle ilgili yeni advers reaksiyonlar saptanmamıştır.
+TECENTRIQ’in bevacizumab, paklitaksel ve karboplatin ile kombinasyon halinde kullanımı
+Birinci basamak KHDAK çalışmasında (IMpower150), TECENTRIQ, bevacizumab,
+paklitaksel ve karboplatinden oluşan dörtlü ilaç rejiminde TECENTRIQ, paklitaksel ve
+karboplatin ile karşılaştırıldığında, 3. Derece ve 4. Derece olaylar (%63,6'ya karşı %57,5), 5.
+Derece olaylar (%6,1'e karşı %2,5), TECENTRIQ’te spesifik öneme sahip olaylar (%52,4'e
+karşı %48,0) ve aynı zamanda herhangi bir çalışma tedavisinin kesilmesine yol açan advers
+olaylar (%33,8’e karşı % 13,3) da dahil olmak üzere toplamda daha yüksek advers olay sıklığı
+gözlenmiştir. TECENTRIQ ile kombinasyon halinde bevacizumab, paklitaksel ve karboplatin
+alan hastalarda bulantı, diyare, stomatit, yorgunluk, pireksi, mukozal enflamasyon, iştah
+azalması, kilo kaybı, hipertansiyon ve proteinüri daha yüksek oranda bildirilmiştir (fark ≥%5).
+TECENTRIQ, bevacizumab, paklitaksel ve karboplatin kolunda daha sık gözlenen diğer klinik
+olarak anlamlı advers olaylar epistaksis, hemoptizi ve ölümcül olaylar da dahil olmak üzere
+serebrovasküler kazadır.
+Ciddi advers reaksiyonlara dair detaylı bilgiler Bölüm 4.4 Özel Kullanım Uyarıları ve
+Önlemleri bölümünde verilmektedir.
+Advers reaksiyonların tablo halinde listesi
+Advers İlaç Reaksiyonları (ADR), MedDRA sistem organ sınıfına (SOC) ve sıklık
+kategorilerine göre Tablo 2’de TECENTRIQ monoterapi veya kombinasyon tedavisi için
+listelenmiştir. Kombinasyon tedavisi kullanılan klinik çalışmalarda raporlanmasa bile, tek
+başına TECENTRIQ ile veya kemoterapiler ile ortaya çıkabileceği bilinen advers reaksiyonlar,
+kombinasyon tedavisi sırasında ortaya çıkabilir.
+Aşağıdaki sıklık kategorileri kullanılmıştır:
+Çok yaygın (≥1/10), yaygın (≥1/100 ila <1/10), yaygın olmayan (≥1/1000 ila <1/100), seyrek
+(≥1/10.000 ila <1/1000), çok seyrek (<1/10.000), bilinmiyor (eldeki verilerden hareketle tahmin
+edilemiyor). Her bir sıklık grubunda advers reaksiyonlar azalan ciddiyet sırasına göre
+yazılmıştır.
+Tablo 2: TECENTRIQ ile tedavi edilen hastalarda meydana gelen advers reaksiyonların
+özeti
+TECENTRIQ monoterapi TECENTRIQ kombinasyon tedavisi
+Enfeksiyonlar ve enfestasyonlar
+Çok yaygın İdrar yolları enfeksiyonua Akciğer enfeksiyonub
+Yaygın Sepsisaj
+Kan ve lenf listemi hastalıkları
+Çok yaygın Anemi, trombositopenid, nötropenie,
+lökopenif
+Yaygın Trombositopenid Lenfopenig
+Seyrek Hemofagositik Hemofagositik lenfohistiyositoz
+lenfohistiyositoz
+Bağışıklık sistemi hastalıkları
+Yaygın İnfüzyonla ilgili reaksiyonh İnfüzyonla ilgili reaksiyonh
+Endokrin hastalıklar
+Çok yaygın Hipotiroidizmi
+19TECENTRIQ monoterapi TECENTRIQ kombinasyon tedavisi
+Yaygın Hipotiroidizmi Hipertiroidizmj
+Hipertiroidizmj
+Yaygın olmayan Diabetes mellitusk, Adrenal Hipofizitm
+yetmezlikl, Hipofizitm
+Metabolizma ve beslenme hastalıkları
+Çok yaygın İştah kaybı İştah kaybı
+Yaygın Hipokalemiae, Hipokalemiae, Hiponatremiaf,
+Hiponatremiaf, Hiperglisemi Hipomagnezemin
+Sinir sistemi hastalıkları
+Çok yaygın Baş ağrısı Periferal nöropatio, Baş ağrısı
+Yaygın Senkop, Baş dönmesi
+Yaygın olmayan Guillain-Barré sendromup,
+Meningoensefalitq
+Seyrek Miyastenik sendromr, fasyal Fasyal parezi
+parezi, miyelit
+Göz Hastalıkları
+Seyrek Üveit
+Kardiyak hastalıklar
+Yaygın Perikardiyal bozukluklarao
+Yaygın olmayan Perikardiyal bozukluklarao
+Seyrek Miyokardits
+Vasküler hastalıklar
+Çok yaygın Hipertansiyonai
+Yaygın Hipotansiyon
+Solunum, göğüs bozuklukları ve mediastinal hastalıklar
+Çok yaygın Dispne, Öksürük Dispne, Öksürük, nazofarenjitam
+Yaygın Pnömonitt, Hipoksiag, Disfoni
+Nazofarenjit
+Gastrointestinal hastalıklar
+Çok yaygın Bulantı, Kusma, Diyareu Bulantı, Kusma, Diyareu,
+Konstipasyon
+Yaygın Kolitv, Abdominal ağrı, Stomatit, Disguzi
+Disfaji, Orafaringeal ağrıw,
+Ağız kuruluğu
+Yaygın olmayan Pankreatitx
+Hepatobiliyer hastalıkları
+Yaygın AST artışı, ALT artışı, AST artışı, ALT artışı
+Hepatity
+Deri ve deri altı doku hastalıkları
+Çok yaygın Döküntüz, Pirürit Döküntüz, Pirürit, Alopesiah
+Yaygın Ciltte kuruluk
+Yaygın olmayan Şiddetli kutanöz advers Şiddetli kutanöz advers reaksiyonlarak,
+reaksiyonlarak, Psoriazis Psoriazisan,
+Seyrek Pemfigoid Pemfigoid
+Kas-İskelet bozuklukları, bağ doku ve kemik hastalıkları
+Çok yaygın Artralji, Sırt ağrısı, Artralji, Kas-iskelet ağrısıaa, Sırt ağrısı,
+Yaygın Kas-iskelet ağrısıaa
+Yaygın olmayan Miyozitad
+Böbrek ve idrar hastalıkları
+20TECENTRIQ monoterapi TECENTRIQ kombinasyon tedavisi
+Yaygın Kanda kreatinin yükselmesic Proteinüriac, Kanda kreatinin
+yükselmesic
+Yaygın olmayan Nefritad
+Bilinmiyor Enfektif olmayan sistital
+Genel bozukluklar ve uygulama bölgesine ilişkin hastalıklar
+Çok yaygın Pireksi, Yorgunluk, Asteni Pireksi, Yorgunluk, Asteni, Periferal
+ödem
+Yaygın Grip benzeri hastalık,
+Ürperme
+Araştırmalar
+Yaygın Kanda alkalin fosfataz yükselmesi
+a İdrar yolları enfeksiyonu, sistit, piyelonefrit, escherichia idrar yolları enfeksiyonu, bakteriyel
+idrar yolları enfeksiyonu, böbrek enfeksiyonu, akut piyelonefrit, kronik piyelonefrit, piyelit,
+böbrek apsesi, streptokokal idrar yolu enfeksiyonu, üretrit, fungal idrar yolları enfeksiyonu,
+psödomonal idrar yolları enfeksiyonu raporlarını içerir.
+b Pnömoni, bronşit, alt solunum yolu enfeksiyonu, enfeksiyöz plevral efüzyon, trakeobronşit,
+atipik pnömoni, akciğer apsesi, kronik obstrüktif solunum yolu hastalığının enfektif
+alevlenmesi, parakanseröz pnömoni, piyopnömotoraks, plevral enfeksiyon, prosedür sonrası
+pnömoni raporlarını içerir.
+c Kanda kreatinin yükselmesi, hiperkreatinemi raporlarını içerir
+d Trombositopeni ve platelet sayısında azalma raporlarını içerir.
+e Nötropeni, nötrofil sayısında azalma, febril nötropeni, nötropenik sepsis, granülositopeni
+raporlarını içerir.
+f Beyaz kan hücresi sayısında azalma ve lökopeni raporlarını içerir.
+g Lenfopeni, lenfosit sayısında azalma raporlarını içerir.
+h İnfüzyonla ilişkili reaksiyon, sitokin salınım sendromu, aşırı duyarlılık ve anafilaksi
+raporlarını içerir.
+i Anti-tiroid antikor pozitifliği, otoimmün hipotiroidizm, otoimmün tiroidit, kanda tiroid stimüle
+edici hormon anomalisi, kanda tiroid stimüle edici hormon azalması, kanda tiroid stimüle edici
+hormon artışı, ötiroid hasta sendromu, guatr, hipotiroidizm, immünite ile ilişkili hipotiroidizm,
+miksödem, miksödem koması, primer hipotiroidizm, tiroid bozukluğu, tiroid hormonlarında
+düşüş, tiroid fonksiyon testi anomalisi, tiroidit, akut tiroidit, tiroksin azalması, serbest tiroksin
+azalması, serbest tiroksin artışı, tiroksin artışı, triiyodotironin azalması, anormal serbest
+triiyodotironin, serbest triiyodotironin azalması, serbest triiyodotironin artışı, sessiz tiroidit,
+kronik tiroidit raporlarını içerir.
+j Hipertiroidizm, Basedow hastalığı, endokrin oftalmopati, eksoftalmi raporlarını içerir.
+k Diabetes mellitus, tip 1 diabetes mellitus, diyabetik ketoasidoz, ketoasidoz raporlarını içerir.
+l Adrenal yetmezlik, kan kortikotropin azalması, glukokortikoid yetmezliği ve primer adrenal
+yetmezlik, sekonder adrenokortikal yetmezlik raporlarını içerir.
+m Hipofizit, hipopitüitarizm, sekonder adrenokortikal yetmezlik ve sıcaklık düzenleme
+bozukluğu raporlarını içerir.
+n Hipomagnezemi, kanda magnezyum düşüklüğü raporlarını içerir.
+o Periferal nöropati, otoimmün nöropati, periferal duyusal nöropati, polinöropati, herpes zoster,
+periferal motor nöropati, nevraljik amyotrofi, periferal sensorimotor nöropati, toksik nöropati,
+aksonal nöropati, lumbosakral pleksopati, nöropatik artropati, periferal sinir enfeksiyonu, nevrit,
+immünite ile ilişkili nöropati raporlarını içerir.
+p Guillain-Barre sendromu ve demiyalizan polinöropati raporlarını içerir.
+q Ensefalit, otoimmün ensefalit, menenjit, fotofobi raporlarını içerir.
+r Myastenia gravis raporlarını içerir.
+s Miyokardit, otoimmün miyokardit, immünite ile ilişkili miyokardit raporlarını içerir.
+21t Pnömonit, akciğer infiltrasyonu, bronşiolit, immünite ile ilişkili pnömonit, interstisyel akciğer
+hastalığı, alveolit, akciğer opasitesi, pulmoner toksisite ve radyasyon pnömoniti raporlarını
+içerir.
+u İshal, acil dışkılama, sık bağırsak hareketleri, hemorajik diyare, gastrointestinal hipermotilite
+raporlarını içerir.
+v Kolit, otoimmün kolit, iskemik kolit, mikroskobik kolit, ülseratif kolit, diversiyon koliti,
+immünite ile ilişkili enterokolit raporlarını içerir.
+w Orofaringeal ağrı, orofaringeal rahatsızlık, boğaz irritasyonu raporlarını içerir.
+xOtoimmün pankreatit, pankreatit, akut pankreatit, lipaz artışı, amilaz artışı raporlarını içerir.
+y Asit, otoimmün hepatit, hepatoselüler hasar, hepatit, akut hepatit, toksik hepatit,
+hepatotoksisite, karaciğer hastalığı, ilaca bağlı karaciğer hasarı, karaciğer yetmezliği, karaciğer
+yağlanması, karaciğer lezyonları, özofagus varis kanaması, özofajiyal varis raporlarını içerir.
+z Akne, akne sivilcesi, kabarcık, kanlı kabarcık, dermatit, dermatit akneiform, alerjik dermatit,
+eksfoliyatif dermatit, ilaç döküntüsü, egzama, enfekte egzama, eritem, göz kapağı eritemi, göz
+kapağı döküntüsü, sabit döküntü, folikülit, fronkül, el dermatiti, dudakta kabarcık, ağızda kanlı
+kabarcık, palmar-plantar eritrodizestesi sendromu, pemfigoid, döküntü, eritratemöz döküntü,
+foliküler döküntü, genel döküntü, maküler döküntü, makülopapüler döküntü, papüler döküntü,
+papüloskuamoz döküntü, kaşıntılı döküntü, püstüler döküntü, veziküler döküntü, skrotal
+dermatit, seboreik dermatit, deri soyulması, deri toksisitesi, cilt ülseri raporlarını içerir.
+aa Kas-iskelet ağrısı, miyalji, kemik ağrısı raporlarını içerir.
+ab Miyozit, rabdomiyoliz, polimiyalji romatika, dermartomiyozit, kas apsesi, idrarda
+miyoglobin varlığı raporlarını içerir.
+ac Proteinüri, idrarda protein varlığı, hemoglobinüri, idrar anomaliliği, nefrotik sendrom,
+albuminüri raporlarını içerir.
+ad Nefrit, otoimmün nefrit, Henoch-Schonlein Purpura nefriti, paraneoplastik glomerulonefrit,
+tubülointerstisyel nefrit raporlarını içerir.
+ae Hipokalemi, kanda potasyum azalması raporlarını içerir.
+af Hiponatremi, kanda sodyum azalması raporlarını içerir.
+ag Hipoksi, oksijen satürasyonu azalması, pO2 azalması raporlarını içerir.
+ah Alopesi, madarozis, alopesi areata, alopesi totalis, hipotrikoz raporlarını içerir.
+ai Hipertansiyon, kan basıncı artışı, hipertansif krizler, sistolik kan basıncı artışı, diyastolik
+hipertansiyon, uygun şekilde kontrol edilemeyen kan basıncı, hipertansif retinopati, hipertansif
+nefropati, esansiyel hipertansiyon, ortostatik hipertansiyon raporlarını içerir.
+aj Sepsis, septik şok, ürosepsis, nötropenik sepsis, pulmoner sepsis, bakteriyel sepsis, klebsiella
+sepsisi, abdominal sepsis, kandida sepsis, echerichia sepsis, psödomonal sepsis, stafilokokal
+sepsis raporlarını içerir.
+ak Bulöz dermatit, eksfoliyatif döküntü, eritema multiforme, genel eksfoliyatif dermatit, toksik
+cilt erüpsiyonu, Steven-Johnson sendromu, eosinofili ve sistemik semptomları olan ilaç
+reaksiyonu, toksik epidermal nekrolizis, kutanöz vaskülit raporlarını içerir.
+al Enfektif olmayan ve immün aracılı sistit raporlarını içerir.
+am Nazofarenjit, nazal konjesyon ve rinorea raporlarını içerir.
+an Psoriyazis, psoriyaziform dermatit, guttate psoriyazis (sedef hastalığı) raporlarını içerir.ao
+Perikardit, perikardiyal efüzyon, kardiyak tamponad ve konstriktif perikardit raporlarını içerir
+Seçilen advers reaksiyonların açıklaması:
+Aşağıdaki veriler, klinik çalışmalarda TECENTRIQ monoterapi ile oluşan anlamlı advers
+reaksiyonlarla ilgili bilgileri yansıtır (bkz. Bölüm 5.1). TECENTRIQ kombinasyonu ile ortaya
+çıkan advers reaksiyonlara ait detaylı bilgiler, eğer advers reaksiyon TECENTRIQ
+monoterapiye göre klinik olarak anlamlı bir farklılık gösteriyorsa karşılaştırmalı olarak
+22verilmiştir. Bu advers reaksiyonlar için yönetim kılavuzları Bölüm 4.2 ve 4.4'te açıklanmaktadır.
+İmmünite ile ilişkili pnömonit:
+Pnömonit, TECENTRIQ monoterapi alan hastaların %2,9 (138/4739) kadarında meydana
+gelmiştir. 138 hasta içinde iki olay ölümcül olmuştur. Başlangıca kadar geçen medyan süre 4
+ay (aralık: 3 gün – 29,8 ay) olmuştur. Medyan süre 1,8 ay (aralık: 1 (bir) gün – 27,8+ ay; "+"
+sansürlenmiş bir değeri gösterir) olmuştur. Pnömonit, 32 hastada (%0,7) TECENTRIQ’in
+bırakılmasına yol açmıştır. Kortikosteroid kullanımı gerektiren pnömonit, TECENTRIQ
+monoterapi alan hastaların %1,7’sinde (80/4739) meydana gelmiştir.
+İmmünite ile ilişkili hepatit:
+Hepatit, TECENTRIQ monoterapi alan hastaların %1,7’sinde (81/4739) meydana gelmiştir. 81
+hasta içinde iki ölümcül olay olmuştur. Başlangıca kadar geçen medyan süre 1,9 ay (aralık: 6
+gün – 18,8 ay) olmuştur. Medyan süre 1,9 ay (aralık: 1 (bir) gün – 32,4+ ay; "+" sansürlenmiş
+bir değeri gösterir) olmuştur. Hepatit, 16 hastada (<%0,3) TECENTRIQ’in bırakılmasına yol
+açmıştır. Kortikosteroid kullanımı gerektiren hepatit, TECENTRIQ monoterapi alan
+hastaların %0,6’sında (27/4739) meydana gelmiştir.
+İmmünite ile ilişkili kolit:
+Kolit, TECENTRIQ monoterapi alan hastaların %1,2’sinde (59/4739) meydana gelmiştir.
+Başlangıca kadar geçen medyan süre 4,9 ay (aralık: 15 gün – 17,2 ay) olmuştur. Medyan süre
+1,4 ay (aralık: 3 gün – 50,2+ ay; "+" sansürlenmiş bir değeri gösterir) olmuştur. Kolit, 22
+hastada (%0,5) TECENTRIQ’in bırakılmasına yol açmıştır. Kortikosteroid kullanımı
+gerektiren kolit TECENTRIQ monoterapi alan hastaların %0,6’sında (27/4739) meydana
+gelmiştir.
+İmmünite ile ilişkili endokrinopatiler:
+Tiroid bozuklukları
+Hipotiroidizm, TECENTRIQ monoterapi alan hastaların %8,4’ünde (400/4739) meydana
+gelmiştir. Başlangıca kadar geçen medyan süre 4,2 ay (aralık: 1 (bir) gün – 34,5 ay) olmuştur.
+Adjuvan küçük hücreli dışı akciğer kanseri ortamında TECENTRIQ monoterapisi alan
+hastaların %17,4’ünde (86/495) hipotiroidizm meydana gelmiştir. Başlangıca kadar geçen
+medyan süre 4 ay (aralık: 22 gün - 11,8 ay) olmuştur.
+Hipertiroidizm, TECENTRIQ monoterapi alan hastaların %2,4’ünde (114/4739) meydana
+gelmiştir. Başlangıca kadar geçen medyan süre 2,76 ay (aralık: 1 (bir) gün – 24,3 ay) olmuştur.
+Adjuvan küçük hücreli dışı akciğer kanseri ortamında TECENTRIQ monoterapi alan
+hastaların %6,5’inde (32/495) hipertiroidizm meydana gelmiştir. Başlangıca kadar geçen
+medyan süre 2,8 ay (aralık: 1 (bir) gün - 9,9 ay) olmuştur.
+Adrenal yetmezlik
+Adrenal yetmezlik, TECENTRIQ monoterapi alan hastaların %0,5’inde (23/4739) meydana
+gelmiştir. Başlangıca kadar geçen medyan süre 6,3 ay (aralık: 3 gün – 21,4 ay) olmuştur.
+Adrenal yetmezlik 5 (beş) hastada (%0,1) TECENTRIQ’in bırakılmasına neden olmuştur.
+Kortikosteroid kullanımı gerektiren adrenal yetmezlik TECENTRIQ monoterapi alan
+23hastaların %0,4’ünde (19/4739) meydana gelmiştir.
+Hipofizit
+Hipofizit, TECENTRIQ monoterapi alan hastaların %0,2’sinde (9/4739) meydana gelmiştir.
+Başlangıca kadar geçen medyan süre 5,3 aydır (aralık: 21 gün – 13,7 ay). Altı hastada (< %0,1)
+kortikosteroid kullanımı gerekmiştir ve 1 hastada (< %0,1) TECENTRIQ tedavisi
+durdurulmuştur.
+Hipofizit, paklitaksel ile kombinasyon halinde TECENTRIQ ve ardından TECENTRIQ, doz-
+yoğun doksorubisin veya epirubisin ve siklofosfamid alan hastaların %1,4'ünde (15/1093)
+meydana gelmiştir. Başlangıca kadar geçen medyan süre 3,8 aydır (aralık: 2,4 ila 10,7 ay). On
+bir hastada (%1) kortikosteroid kullanımı gerekmiştir. TECENTRIQ ile tedavi 7 (%0,6) hastada
+durdurulmuştur.
+Hipofizit, TECENTRIQ ile bevacizumab, paklitaksel ve karboplatin alan hastaların % 0,8’inde
+(3/393) meydana gelmiştir. Başlangıca kadar geçen medyan süre 7,7 aydır (aralık: 5 – 8,8 ay).
+İki hastada kortikosteroid kullanımı gerekmiştir.
+Hipofizit, nab-paklitaksel ve karboplatinle kombinasyon halinde atezolizumab almış olan
+hastaların %0,4’ünde (2/473) meydana gelmiştir. Başlangıca kadar geçen medyan süre, 5,2 ay
+(aralık: 5,1 – 5,3 ay) olmuştur. Her iki hastada kortikosteroid kullanılması gerekmiştir.
+Diabetes mellitus
+Diabetes mellitus, TECENTRIQ monoterapi alan hastaların % 0,5’inde (26/4739) meydana
+gelmiştir. Medyan süre 5,4 ay (aralık: 3 gün – 29 ay) olmuştur. Diabetes mellitus,
+hastaların %0,1’inden azında (3/4739) TECENTRIQ'in bırakılmasına yol açmıştır.
+Diabetes mellitus, TECENTRIQ ile birlikte bevacizumab alan hepatoselüler kanserli
+hastaların % 2,0’ında (10/493) meydana gelmiştir. Başlangıca kadar geçen medyan süre 4,4 ay
+(aralık: 1,2 ay – 8,3 ay) olmuştur. TECENTRIQ tedavisinin bırakılmasına neden olacak bir
+diabetes mellitus olayı görülmemiştir.
+İmmünite ile ilişkili meningoensefalit:
+Meningoensefalit, TECENTRIQ monoterapi alan hastaların %0,5’inde (22/4739) meydana
+gelmiştir. Başlangıca kadar geçen medyan süre 16 gün (aralık: 1 (bir) gün – 12,5 ay) olmuştur.
+Medyan süre 24 gün (aralık: 6 gün - 14,5+ ay; "+" sansürlenmiş bir değeri gösterir) olmuştur.
+Kortikosteroid kullanımını gerektiren meningoensefalit TECENTRIQ tedavisi alan
+hastaların %0,3’ünde (12/4739) meydana gelmiştir ve sekiz hastada (%0,2) TECENTRIQ’in
+bırakılmasına yol açmıştır.
+İmmünite ile ilişkili nöropatiler:
+Guillain-Barré sendromu ve demiyalizan polinöropati, TECENTRIQ monoterapi alan
+hastaların %0,1'inde (6/4739) meydana gelmiştir: Bu olay için başlangıca kadar geçen medyan
+süre 4,1 ay (aralık: 18 gün – 8,1 ay) olmuştur. Medyan süre 8 ay (aralık: 18 gün – 24,5 ay+, "+"
+sansürlenmiş bir değeri gösterir). 1 (bir) hasta (< %0,1), Guillain-Barré sendromu nedeniyle
+TECENTRIQ kullanımını bırakmıştır. Kortikosteroid kullanımı gerektiren Guillain-Barré
+sendromu TECENTRIQ monoterapi alan hastaların %0,1’inden azında (3/4739) meydana
+gelmiştir.
+24İmmünite ile ilişkili fasyal parezi:
+TECENTRIQ monoterapi alan hastaların %0,1'inden azında (1/4739) fasyal parezi meydana
+gelmiştir: Bu olay için başlangıca kadar geçen medyan süre 29 gün olmuştur. Süresi 1,1 ay
+olmuştur. Olay kortikosteroid kullanımı gerektirmemiştir ve TECENTRIQ tedavisinin
+bırakılmasına yol açmamıştır.
+İmmünite ile ilişkili miyelit:
+TECENTRIQ monoterapi alan hastaların %0,1'inden azında (1/4739) miyelit meydana
+gelmiştir: Bu olay için başlangıca kadar geçen medyan süre 3 gün olmuştur. Süresi 1,1 ay
+olmuştur. Olay kortikosteroid kullanımı gerektirmiş fakat TECENTRIQ tedavisinin
+bırakılmasına yol açmamıştır.
+Miyastenik sendrom:
+Miyestenia gravis, TECENTRIQ monoterapi alan hastaların %0,1’inden azında (1 (bir)/4739)
+meydana gelmiştir. Başlangıca kadar geçen süre 1,2 aydır.
+İmmünite ile ilişkili pankreatit:
+Yüksek amilaz ve yüksek lipaz dahil olmak üzere pankreatit, TECENTRIQ monoterapi alan
+hastaların %0,8’inde (37/4739) meydana gelmiştir. Başlangıca kadar geçen medyan süre 5,5 ay
+(aralık: 1 (bir) gün – 24,8 ay) olmuştur. Medyan süre 1 ay (aralık: 3 gün – 40,4+ ay; "+"
+sansürlenmiş bir değeri gösterir) olmuştur. Pankreatit, 3 hastada (<%0,1) TECENTRIQ’in
+bırakılmasına yol açmıştır. Kortikosteroid kullanımı gerektiren pankreatit vakaları
+TECENTRIQ monoterapi alan hastaların %0,1’inde (7/4739) meydana gelmiştir.
+İmmünite ile ilişkili miyokardit:
+Miyokardit, TECENTRIQ monoterapi alan hastaların %0,1’inden azında (4/4739) meydana
+gelmiştir.Adjuvan küçük hücreli dışı akciğer kanseri ortamında 4 vakadan biri ölümcül
+olmuştur. Başlangıca kadar geçen medyan süre 3,4 ay (aralık: 1,5 – 4,9 ay) olmuştur. Geçen
+medyan süre 15 gün (aralık: 12 gün – 2,8 ay) olmuştur. Miyokartid 3 hastada (<%0,1)
+TECENTRIQ’in bırakılmasına neden olmuştur. İki hastada (< %0,1) kortikosteroid
+kullanımına gerek duyulmuştur.
+İmmünite ile ilişkili nefrit:
+Nefrit, TECENTRIQ alan hastaların %0,2’sinde (11/4739) meydana gelmiştir. Başlangıca
+kadar geçen medyan süre 5,1 ay (aralık: 3 gün – 17,5 ay) olmuştur. Nefrit 5 (beş) hastada
+( %0,1) TECENTRIQ’in bırakılmasına neden olmuştur. Beş hastada (%0,1) kortikosteroid
+kullanımına gerek duyulmuştur.
+İmmünite ile ilişkili miyozit:
+Miyozit, TECENTRIQ monoterapi alan hastaların %0,5’inde (25/4739) meydana gelmiştir.
+Başlangıca kadar geçen medyan süre 3,5 aydır (aralık: 12 gün ile 11,5 ay). Medyan süre 3,2 ay
+(aralık: 9 gün ile 51,1 +ay; + sansürlenmiş bir değeri gösterir). Miyozit 6 hastada (%0,1)
+TECENTRIQ’in bırakılmasına neden olmuştur. 7 (yedi) hastada (%0,1) kortikosteroid
+25kullanımına gerek duyulmuştur.
+İmmünite ile ilişkili şiddetli kutanöz advers reaksiyonlar:
+TECENTRIQ monoterapi alan hastaların %0,6’sında (30/4739) şiddetli kutanöz advers
+reaksiyonlar meydana gelmiştir. 30 hastadan birinde ölümcül olay meydana gelmiştir.
+Başlangıca kadar geçen medyan süre 4,8 aydır (aralık: 3 gün ile 15,5 ay). Medyan süre 2,4 ay
+(aralık: 1 (bir) gün ile 37,5 +ay; + sansürlenmiş bir değeri gösterir). Şiddetli kutanöz advers
+reaksiyonlar 3 (üç) hastada (< %0,1) TECENTRIQ tedavisinin bırakılmasına neden
+olmuştur.TECENTRIQ monoterapi alan hastaların %0,2’sinde (9/4739) kortikosteroid
+kullanımına gerek duyulmuştur.
+İmmünite ile ilişkili perikardiyal bozukluklar:
+TECENTRIQ monoterapisi alan hastaların %1’inde (48/4739) perikardiyal bozukluklar
+meydana gelmiştir. Medyan başlangıç süresi 1,4 aydır (aralık: 6 gün ila 17,5 ay). Medyan süre
+1,4 aydır (aralık: 1 gün ila 51,5+ ay; "+" sansürlenmiş bir değeri gösterir). Perikardiyal
+bozukluklar 3 (< %0,1) hastada TECENTRIQ tedavisinin kesilmesine neden olmuştur.
+Kortikosteroid kullanımını gerektiren perikardiyal bozukluklar hastaların %0,1’inde (7/4739)
+meydana gelmiştir.
+İmmünojenisite:
+Çoklu faz III çalışmaları karşılaştırılmasında, hastaların %13,1 ile %54,1’i tedaviye yeni
+başlayan anti-ilaç antikorları (ADA) geliştirmiştir. Tedavi sonucu oluşmuş anti-ilaç antikoru
+(ADA) gelişen hastaların başlangıçta genel olarak sağlık durumu ve hastalık karakteristikleri
+açısından daha zayıf olduğu görülmüştür. Başlangıçtaki bu sağlık ve hastalık
+karakteristiklerindeki dengesizlikler, farmakokinetik, etkililik ve güvenlilik analizlerinin
+yorumlanmasında karışıklık yaratabilmektedir. Anti-ilaç antikorlarının (ADA) etkililiğe
+etkisini araştırmak için başlangıçtaki sağlık ve hastalık karakteristiklerindeki dengesizlikleri
+ayarlayan keşif analizleri yapılmıştır. Bu analizlerde ADA geliştiren hastaların, ADA
+geliştirmeyen hastalara kıyasla etkililik faydasında azalma ihtimali gözardı edilmemiştir. Anti-
+ilaç antikorlarının başlangıca kadar geçen medyan süresi 3 (üç) ila 5 (beş) hafta olmuştur.
+TECENTRIQ monoterapisi (N=3460) ve kombinasyon tedavileri (N=2285) ile tedavi edilen
+hastalardan elde edilen hasta havuzu verilerinden, ADA-pozitif popülasyonunda ADA-negatif
+popülasyonuna kıyasla gözlenen advers olayların sıklığı sırasıyla: Monoterapi için; 3. ve 4.
+derece advers olaylar %46,2’ye karşı %39,4, ciddi advers olaylar %39,6’ya karşı %33,3,
+tedavinin kesilmesine neden olan advers olaylar %8,5’e karşı %7,8 iken; Kombinasyon tedavisi
+için 3. ve 4. derece advers olaylar %63,9’a karşı %60,9, ciddi advers olaylar %43,9’a karşı 35,6,
+tedavinin kesilmesine neden olan advers olaylar % 22,8’e karşı %18,4 olmuştur (kombinasyon
+tedavisi için). Ancak mevcut verilerden yola çıkarak olası ilaç advers reaksiyonlarının yolağı
+hakkında kesin sonuçlara varılamamaktadır.
+Pediyatrik popülasyon
+TECENTRIQ’in çocuklar ve adölesanlardaki güvenliliği bilinmemektedir. 69 pediyatrik
+hastada (<18 yaş) yapılan bir klinik çalışmada yeni bir güvenlilik sinyali oluşmamıştır ve
+güvenlilik profili erişkinlerinki ile karşılaştırılabilirdir.
+26Geriyatrik popülasyon
+TECENTRIQ monoterapi alan 65 yaş ve üzerindeki hastalar ile daha genç hastalar arasında
+genel olarak bir güvenlilik farklılığı gözlemlenmemiştir.
+Impower150, IMpower133 ve IMpower110 çalışmalarından elde edilen veriler, 75 yaş ve üzeri
+hasta grubu hakkında değerlendirme yapılması için çok sınırlıdır.
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir (www.titck.gov.tr; e-posta:
+tufam@titck.gov.tr; tel: 0 800 314 00 08; faks:0 312 218 35 99).
+4.9. Doz aşımı ve tedavisi
+TECENTRIQ doz aşımına ilişkin bilgi mevcut değildir.
+Doz aşımı durumunda, hastalar advers reaksiyon belirtileri veya semptomları bakımından
+yakından izlenmeli ve uygun semptomatik tedavi başlatılmalıdır.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1. Farmakodinamik özellikler
+Farmakoterapötik grup: Antineoplastikler ve immünomodülatör ajanlar, monoklonal antikorlar
+ve antikor ilaç konjugatları, PD-1/PDL-1 (Programlanmış Hücre Ölüm Proteini 1/ Ölüm
+Ligandı 1) İnhibitörleri
+ATC kodu: L01FF05
+Etki mekanizması:
+PD-L1, tümör hücreleri ve/veya tümör infiltre eden immün hücrelerinde eksprese olabilir ve
+tümör mikroortamında anti-tümör immün yanıtının inhibisyonuna katkıda bulunabilir. PD-
+L1'in T hücrelerinde ve antijen sunan hücrelerde bulunan PD-1 ve B7.1 reseptörlerine
+bağlanması sitotoksik T hücresi aktivitesini, T hücresi çoğalmasını ve sitokin üretimini baskılar.
+Atezolizumab Fc bölgesi değiştirilmiş, hümanize bir immünoglobülin G1 (IgG1) monoklonal
+bir antikorudur; doğrudan PD-L1'e bağlanır ve PD-1 ve B7.1 reseptörlerinin ikili blokajını
+sağlayarak, antikor bağımlı sellüler sitotoksisiteyi indüklemeden antitümör immün yanıtın
+yeniden aktive edilmesi de dahil, immün yanıtın PD-L1/PD-1 aracılı inhibisyonunu serbest
+bırakır. Atezolizumab, PD-L2/PD-1 etkileşimini koruyarak PD-L2/PD-1 aracılı inhibitör
+sinyallerin devam etmesine izin verir.
+Klinik etkililik ve güvenlilik:
+Küçük hücreli dışı akciğer kanseri:
+27Erken evre küçük hücreli dışı akciğer kanserinin adjuvan tedavisi
+ IMpower010 (GO29527): Rezeke edilmiş KHDAK’lı hastalarla sisplatin bazlı
+kemoterapiden sonra randomize faz III çalışma
+Evre IB (tümörler ≥ 4cm) – IIIA KHDAK’lı hastaların adjuvan tedavisi için atezolizumabın
+etkililiğini ve güvenliliğini değerlendirmek üzere bir faz III, açık etiketli, çok merkezli,
+randomize çalışma olan GO29527 (IMpower010) yürütülmüştür (Kanser evrelendirme
+sistemine ilişkin Uluslararası Kanser Kontrolü Birliği/Amerikan Ortak Kanser Komitesi, 7.
+Baskısına göre).
+Aşağıdaki seçim kriterleri, terapötik endikasyona dahil olan ve 7. baskı evreleme sistemine göre
+evre II - IIIA hasta popülasyonunu yansıtan yüksek nüks riski olan hastaları tanımlar:
+Tümör boyutu ≥ 5 cm veya N1 veya N2 durumunun eşlik ettiği herhangi bir boyuttaki tümörler
+veya torasik yapılara invaze olan tümörler (doğrudan parietal plevra, göğüs duvarı, diyafram,
+frenik sinir, mediastinal plevra, parietal perikard, mediasten, kalp, büyük damarlar, trakea,
+rekürren laringeal sinir, özofagus, vertebral gövde, karinaya invaze) veya ana bronşu karinanın
+< 2 cm distalinde tutan ancak karina tutulumu olmayan tümörler veya tüm akciğerin atelektazisi
+veya obstrüktif pnömonisi ile bağlantılı tümörler veya primer olarak aynı lobda veya farklı
+ipsilateral lobda ayrı nodül(ler)e sahip tümörler.
+Çalışma, mediasten, kalp, büyük damarlar, trakea, rekürren laringeal sinir, özofagus, vertebral
+cisim ve karinaya invaze tümörleri olan N2 durumundaki hastaları veya farklı bir ipsilateral
+lobda ayrı tümör nodülleri olan hastaları içermemiştir.
+Toplamda 1280 kaydedilmiş hasta tam tümör rezeksiyonu yaptırmış ve 4 sikluse kadar sisplatin
+bazlı kemoterapi almaya uygun olmuştur. Sisplatin bazlı kemoterapi rejimleri Tablo 3’te tarif
+edilmektedir.
+Tablo 3: Adjuvan tedavi rejimleri (IMpower010)
+Sisplatin bazlı adjuvan kemoterapi: 1. ve 8. gün intravenöz olarak 30 mg/m2
+Belirtilen tedavi rejimlerinden biri ile her vinorelbin
+21 günlük siklusun 1.gününde IV olarak
+1. gün intravenöz olarak 75 mg/m2
+75 mg/m2 sisplatin
+dosetaksel
+1. ve 8. gün intravenöz olarak 1250
+mg/m2 gemsitabin
+1. gün intravenöz olarak 500 mg/m2
+pemetreksed (non-skuamöz)
+Sisplatin bazlı kemoterapinin (dört siklusa kadar) tamamlanmasından sonra toplamda 1005
+hasta 1:1 oranında atezolizumab (Kol A) veya en iyi destekleyici bakımı (BSC) (Kol B) almaya
+randomize edilmiştir. Atezolizumab, hastalık nüksü veya kabul edilemez toksisite görülmediği
+sürece 16 döngüye kadar her 3 haftada bir IV infüzyonla 1200 mg’lık sabit dozda uygulanmıştır.
+Randomizasyon cinsiyet, hastalık evresi ve PD-L1 ekspresyonuna göre sınıflandırılmıştır.
+Hastalar, otoimmün hastalık öyküsüne sahiplerse; randomizasyondan önceki 28 gün içinde
+canlı, attenüe aşı uygulaması yapılmışsa; randomizasyondan önceki 4 hafta içinde sistemik
+immunostimulatör ajanlar veya 2 hafta içinde immunosupresif ilaçlar uygulanmışsa hariç
+28tutulmuştur. Tümör değerlendirmeleri randomizasyon fazının başlangıcında ve 1. siklus, 1.
+gününün ardından ilk yıl boyunca her 4 ayda bir ve ardından beş yıla kadar her 6 ayda bir ve
+sonrasında yılda bir yürütülmüştür.
+ITT popülasyonunun demografik bilgileri ve başlangıçtaki hastalık özellikleri tedavi kolları
+arasında iyi dengelenmiştir. Medyan yaş 62 olup (aralık: 26 ila 84) hastaların %67’si erkektir.
+Hastaların çoğu Beyaz (%73) ve %24’ü Asyalıdır. Çoğu hasta sigara içicisidir veya geçmişte
+içmiştir (%78) ve hastalarda başlangıç ECOG performans durumu 0 (%55) veya 1’dir (%44).
+Genelde hastaların %12’sinde evre IB, %47’sinde evre II ve %41’inde evre IIIA hastalık
+mevcuttur. Tümörleri VENTANA PD-L1 (SP263) Analizi ile ölçüldüğü üzere TC’de PD-L1
+ekspresyonu ≥ %1 ve ≥ %50 olan tümörleri olan hastaların yüzdesi sırasıyla %55 ve %26
+olmuştur.
+Birincil etkililik sonucu ölçümü araştırmacı tarafından değerlendirilen hastalıksız sağkalımdır
+(HS). Hastalıksız sağkalım, randomizasyon tarihinden aşağıdakilerden birinin meydana geldiği
+tarihe kadar geçen süre olarak tanımlanmıştır: ilk belgelenmiş hastalık nüksü, yeni primer
+KHDAK veya herhangi bir nedenle ölüm (hangisi daha önce olursa). Birincil etkililik hedefi,
+PD-L1 ≥ %1 TC evre II IIIA hasta popülasyonunda HS'yi değerlendirmektir. Kritik ikincil
+etkililik hedefleri, PD-L1 ≥ %50 TC evre II-IIIA hasta popülasyonunda HS'yi ve ITT
+popülasyonunda genel sağkalımı (GS) değerlendirmektir.
+Ara hastalıksız sağkalım analizi zamanında, çalışma birincil sonlanım noktasını sağlamıştır.
+Medyan takip süresi yaklaşık 32 aydır. EGFR mutasyonları veya ALK yeniden düzenlemeleri
+olmayan PD-L1 ≥ %50 TC evre II- IIIA hastalarının analizinde (n = 209), BSC koluna kıyasla
+atezolizumab kolunda HS'de klinik olarak anlamlı bir iyileşme gözlenmiştir (Tablo 4). Genel
+sağkalım (GS) verileri EGFR mutasyonları ve ALK yeniden düzenlemeleri olmaksızın, PD-L1
+≥ %50 TC evre II- IIIA hasta popülasyonunda genel olarak bildirilen yaklaşık %16,3 oranında
+ölüm ile hastalıksız sağkalımda ara analizi sırasında olgunlaşmamıştır. Genel sağkalımın
+keşifsel analizi bu hasta popülasyonunda 0,39’luk sınıflandırılmış bir HR (%95 GA:0,18; 0,82)
+ile en iyi destekleyici bakıma karşı atezolizumab lehine bir eğilimi düşündürmüştür.
+EGFR mutasyonları ve ALK yeniden düzenlemeleri olmayan PD-L1 ≥ %50 TC evre II- IIIA
+hasta popülasyonu için ana etkililik bulguları Tablo 4’te özetlenmektedir. Hastalıksız sağkalım
+için Kaplan-Meier eğrisi Şekil 1’de sunulmaktadır.
+Tablo 4: EGFR mutasyonları veya ALK yeniden düzenlemeleri olmayan PD-L1
+ekspresyonu ≥ %50 TC evre II- IIIA hasta popülasyonunda etkililik özeti (IMpower010)
+Etkililik sonlanım A kolu B kolu
+noktası (Atezolizumab) (En iyi destekleyici tedavi)
+Araştırmacı tarafından
+değerlendirilen n=106 n=103
+hastalıksız sağkalım
+(HS)
+Olayların sayısı (%) 24 (%22,6) 45 (%437)
+Hastalıksız sağkalımın NE 37,3
+(HS) medyan süresi (ay)
+%95 GA NE, NE 30,1; NE
+Sınıflandırılmış risk oranı 0,49 (0,29;0,81)
+(%95 GA)
+3 yıllık hastalıksız 75,1 50,4
+29sağkalım oranı (%)
+HS=Hastalıksız sağkalım, GA=Güven Aralığı, NE=öngörülemiyor
+Şekil 1: EGFR mutasyonları veya ALK yeniden düzenlemeleri olmayan PD-L1
+ekspresyonu ≥ %50 TC evre II- IIIA hasta popülasyonunda (IMpower010) hastalıksız
+sağkalım için Kaplan-Meier eğrisi
+Tedavi kolu Medyan HS HR (%95 GA):
+A Kolu: Tecentriq NE 0,49(0,29, 0,81)
+B Kolu: En iyi destek tedavisi 37,3 ay
+ğı
+sılı
+a
+Ol
+m
+alı
+k
+ğ
+a
+S
+z
+sı
+k
+alı
+st
+a
+H
+A Kolu: Tecentriq
+B Kolu: En iyi destek tedavisi
+Süre (ay)
+Risk altındaki Hasta Sayısı
+A Kolu: Tecentriq
+B Kolu: En iyi destek
+tedavisi
+NE=öngörülemiyor
+En iyi destekleyici tedavi koluna kıyasla atezolizumab kolunda gözlenen hastalıksız sağkalım
+iyileşmesi, hem non-skuamoz KHDAK hastaları (sınıflandırılmamış risk oranı: 0,35 , %95 GA:
+0,18; 0,69; medyan hastalıksız sağkalım NE’ye (NE= öngörülemiyor) karşı 35,7 ay) hem de
+skuamoz KHDAK hastaları (sınıflandırılmamış risk oranı: 0,60 ,%95 GA: 0,29 ; 1,26; medyan
+hastalıksız sağkalım 36,7’ye karşı NE (NE=öngörülemiyor) ay) içeren EGFR mutasyonları
+veya ALK yeniden düzenlemeleri olmayan PD-L1 ≥%50 TC evre II-IIIA hasta popülasyonunda
+önceden belirtilmiş alt grupların çoğu arasında tutarlı şekilde gösterilmiştir.
+Birinci basamak küçük hücreli dışı akciğer kanseri
+ IMpower130 (GO29537): Daha önce kemoterapi uygulanmamış metastatik non-
+skuamoz KHDAK hastalarında nab-paklitaksel ve karboplatinle kombinasyona yönelik
+randomize faz III çalışma.
+Daha önce kemoterapi uygulanmamış metastatik non-skuamoz KHDAK hastalarında nab-
+paklitaksel ve karboplatinle kombinasyon halinde atezolizumabın etkililik ve güvenliliğini
+değerlendirmek üzere bir faz III, açık etiketli, randomize çalışma (GO29537 (IMpower130))
+gerçekleştirilmiştir. EGFR mutasyonları veya ALK rearanjmanları olan hastalarda daha önce
+tirozin kinaz inhibitörleriyle tedavi almış olma koşulu aranmıştır.
+Hastalar, Amerikan Ortak Kanser Komitesi (AJCC) 7. baskıya göre evrelendirilmiştir.
+Otoimmün hastalık öyküsü olan, randomizasyondan önceki 28 gün içinde canlı ve zayıflatılmış
+30aşı uygulanmış, randomizasyondan önceki 4 hafta içinde immünostimülatör ajan veya
+randomizasyondan önceki 2 hafta içinde sistemik immünosüpresif ilaç uygulanmış ve aktif
+veya tedavi edilmemiş MSS metastazları olan hastalar çalışmaya alınmamıştır. Daha önce
+CD137 agonistleri veya immün kontrol noktası blokaj tedavileri (anti-PD-1 ve anti-PD-L1
+terapötik antikorları) almış hastalar çalışmaya uygun değildir. Bununla birlikte, daha önce anti-
+CTLA-4 tedavisi almış olan hastalar, en son dozun randomizasyondan en az 6 hafta önce
+alınmış olması ve anti-CTLA-4’ten kaynaklanan şiddetli immün ilişkili advers etki öyküsü
+(NCI 3 ve 4. Derece) olmaması koşuluyla çalışmaya alınmıştır. Tümör değerlendirmeleri, 1.
+Siklustan sonra ilk 48 hafta boyunca 6 haftada bir ve daha sonra 9 haftada bir yapılmıştır.
+Tümör numuneleri, tümör hücreleri (TC) ve tümörü infiltre eden immün hücreler (IC)
+üzerindeki PD-L1 ekspresyonu bakımından değerlendirilmiştir ve bulgular, aşağıda açıklanan
+analizler için PD-L1 ekspresyonu alt gruplarının tanımlanmasında kullanılmıştır.
+EGFR mutasyonları veya ALK rearanjmanları olanlar dahil olmak üzere hastalar, Tablo 5’te
+açıklanan tedavi rejimlerinden biri uygulanmak üzere çalışmaya alınmış ve 2:1 oranında
+randomize edilmiştir. Randomizasyon grupları; cinsiyet, karaciğer metastazları varlığı ve TC
+ve IC üzerindeki PD-L1 ekspresyonuna göre oluşturulmuştur. Tedavi rejimi B alan hastaların
+hastalık progresyonundan sonra çapraz geçiş yaparak atezolizumab monoterapisi almasına izin
+verilmiştir.
+Tablo 5: İntravenöz tedavi rejimleri (IMpower130)
+Tedavi Rejimi İndüksiyon İdame
+(Dört veya altı kez 21 günlük (21 günlük sikluslar)
+sikluslar)
+A Atezolizumab (1200 mg)a + Atezolizumab (1200 mg)a
+nab-paklitaksel (100
+mg/m2)b,c + karboplatin
+(EAA 6)c
+Nab-paklitaksel (100 En iyi destekleyici tedavi
+B mg/m2)b,c + karboplatin veya pemetrexed
+(EAA 6)c
+a Atezolizumab, araştırmacı değerlendirmesine göre belirlenen klinik fayda kaybına kadar
+uygulanır
+b Nab-paklitaksel, her siklusun 1, 8 ve 15. günlerinde uygulanır
+c Nab-paklitaksel ve karboplatin, 4-6. sikluslar tamamlanana kadar veya progresif hastalık veya
+kabul edilemez toksisiteye kadar (hangisi daha erken gerçekleşirse) uygulanır
+ITT-WT olarak tanımlanan çalışma popülasyonunun (n=679) demografik özellikleri ve
+başlangıçtaki hastalık özelliklerinin tedavi kolları arasında dengeli olduğu görülmüştür.
+Medyan yaş 64’tür (aralık: 18-86 yaş). Hastaların çoğu erkek (%59) ve beyazdır (%90).
+Hastaların %14,7’sinde başlangıçta karaciğer metastazı olduğu ve çoğu hastanın (%90) sigara
+kullanmakta olduğu veya geçmişte kullandığı görülmüştür. Hastaların çoğunun başlangıç
+ECOG performans durumunun 1 olduğu (%59) ve <%1 oranında PD-L1 ekspresyonu
+sergilediği (yaklaşık %52) görülmüştür. İndüksiyon tedavisinin ardından yanıt durumu stabil
+hastalık, kısmi yanıt veya tam yanıt olan 107 Kol B hastası arasında 40 hasta pemetrexed geçiş
+idame tedavisi almıştır.
+Primer analiz, EGFR mutasyonları veya ALK rearanjmanları olanlar hariç olmak üzere, ITT-
+WT olarak tanımlanan bütün hastalarda (n=679) gerçekleştirilmiştir. Hastalarda medyan
+sağkalım takip süresi 18,6 ay olup, hastalar kontrole kıyasla atezolizumab, nab-paklitaksel ve
+31karboplatinle OS ve PFS’de iyileşme göstermiştir. Temel bulgular, Tablo 6’da özetlenmiştir ve
+OS ve PFS’ye ait Kaplan-Meier eğrileri sırasıyla Şekil 2 ve 4’te sunulmuştur. PD-L1
+ekspresyonuna göre OS ve PFS için elde edilen keşifsel bulgular, sırasıyla Şekil 3 ve 5’te
+özetlenmiştir. Karaciğer metastazları olan hastalar, nab-paklitaksel ve karboplatine kıyasla
+atezolizumab, nab-paklitaksel ve karboplatinle PFS veya OS’de iyileşme göstermemiştir
+(sırasıyla PFS için 0,93 HR, %95 CI: 0,59; 1,47 ve OS için 1,04 HR, %95 CI: 0,63; 1,72).
+Atezolizumab, nab-paklitaksel ve karboplatin kolundaki hastaların %7,3’üne karşılık nab-
+paklitaksel ve karboplatin kolundaki hastaların %59’u hastalık progresyonunun ardından çapraz
+geçiş tedavisi olarak atezolizumab (bütün hastaların %41’i) dahil olmak üzere herhangi bir
+kanser immünoterapisi almıştır.
+Daha uzun takip süresine (medyan: 24,1 ay) sahip bir keşifsel analizde, her iki koldaki medyan
+OS birincil analize göre değişmemiş olup, HR=0,82’dir (%95 CI: 0,67; 1,01).
+Tablo 6: Primer analizde IMpower130’da kanıtlanan etkililiğin özeti (ITT-WT
+popülasyon)
+Etkililik sonlanım noktaları Kol A Kol B Nab-
+Atezolizumab + paklitaksel +
+nab-paklitaksel + karboplatin
+karboplatin
+Ortak-birincil sonlanım noktaları
+OS n=451 n=228
+Ölüm sayısı (%) 226 (%50,1) 131 (%57,5)
+Olaylara kadar geçen medyan
+süre (ay) 18,6 13,9
+%95 GA (16; 21,2) (12; 18,7)
+Gruplandırılmış risk oranı‡ (%95 GA) 0,79 (0,64; 0,98)
+p-değeri 0,033
+12 aylık OS (%) 63 56
+Araştırmacı tarafından değerlendirilen PFS (RECIST v1.1) n=451 n=228
+Olay sayısı (%) 347 (%76,9) 198 (%86,8)
+Medyan PFS süresi (ay) 7 5,5
+%95 GA (6,2; 7,3) (4,4; 5,9)
+Gruplandırılmış risk oranı‡ (95% GA) 0,64 (0,54; 0,77)
+p-değeri < 0,0001
+12 aylık PFS (%) %29 %14
+32Diğer sonlanım noktaları
+Araştırmacı tarafından değerlendirilen ORR (RECIST v1.1)^ n=447 n=226
+Doğrulanmış yanıt veren sayısı (%) 220 (%49,2) 72 (%31,9)
+%95 GA (44,5; 54) (25,8; 38,4)
+Tam yanıt sayısı (%) 11 (%2,5) 3 (%1,3)
+Kısmi yanıt sayısı (%) 209 (%46,8) 69 (%30,5)
+Araştırmacı tarafından değerlendirilen doğrulanmış
+DOR (RECIST 1.1)^ n=220 n=72
+Medyan (ay olarak) 8,4 6,1
+%95 GA (6,9; 11,8) (5,5; 7,9)
+‡ Cinsiyet ve TC ve IC üzerindeki PD-L1 ekspresyonuna göre gruplandırılmıştır
+^ Doğrulanmış ORR ve DoR, keşifsel sonlanım noktalarıdır
+PFS=progresyonsuz sağkalım; RECIST=Solid Tümörlerde Yanıt Değerlendirme Kriterleri v1.1.; GA=güven
+aralığı; ORR=objektif yanıt oranı; DOR=yanıt süresi; OS=Genel sağkalım
+Şekil 2: Genel sağkalıma ait Kaplan-Meier eğrileri (IMpower130)
+Tecentriq + nab-paklitaksel + karboplatin
+Ban-pac
+Nab-paklitaksel + karboplatin
+ğı
+sılı
+a
+Ol
+m
+alı
+k
+ğ
+a
+S
+Risk altındaki hasta sayısı Süre (ay)
+Tecentriq + nab-paklitaksel+
+karboplatin
+Nab-paklitaksel + karboplatin
+33Şekil 3: PD-L1 ekspresyonuna göre genel sağkalımı gösteren meta analiz
+diyagramı (IMpower130)
+Medyan OS (ay)
+Tecentriq + nab-paklitaksel Nab-paklitaksel
+PD-L1 Ekspresyon Düzeyi
++ +
+TC > %50 veya IC > %10 karboplatin karboplatin
+TC < %50 ve > %1 veya IC
+<%10 ve ≥ %1
+TC ve IC < %1
+Risk Oranı3
+3 ITT-WT için
+gruplandırılmış risk oranı; Tecentriq + nab-
+diğer bütün alt gruplar için paklitaksel +
+gruplandırılmamış risk karboplatin lehine
+oranı
+Şekil 4: Progresyonsuz sağkalıma ait Kaplan-Meier eğrileri (IMpower130)
+Tecentriq + nab-paklitaksel +
+ğı karboplatin
+sılı
+Nab-paklitaksel + karboplatin
+a
+Ol
+m
+alı
+k
+ğ
+a
+S
+z
+u
+s
+n
+o
+y
+s
+e
+gr
+o
+r
+P
+Risk altındaki hasta sayısı
+Süre (ay)
+TecentTreicqe n+tr inq a+b n-apba-pkalkiltitaakksseel l++
+karboplatin karboplatin
+Nab-paklitaksel +
+Nab-paklitaksel + kakarrbbooppllaatitni n
+34Şekil 5: PD-L1 ekspresyonuna göre progresyonsuz sağkalımı gösteren meta analiz
+diyagramı (IMpower130)
+Medyan PFS (ay)
+PD-L1 Ekspresyon Düzeyi Tecentriq + nab-paklitaksel + Nab-paklitaksel +
+karboplatin karboplatin
+TC≥ %50 veya IC ≥ %10
+TC < %50 ve ≥ %1 veya IC
+<%10 ve ≥ %1
+TC ve IC < %1
+a ITT-WT için
+Risk Oranıa
+gruplandırılmış risk oranı;
+diğer bütün alt gruplar için Tecentriq + nab-paklitaksel +
+gruplandırılmamış risk karboplatin lehine
+oranı
+ IMpower110 (GO29431): Kemoterapi tedavisi almamış metastatik KHDAK
+hastalarında yapılan randomize Faz III çalışma
+Kemoterapi kullanmamış, metastatik KHDAK hastalarında atezolizumabın etkililiğini ve
+güvenliliğini değerlendirmek için Faz III, açık etiketli, çok merkezli, randomize bir çalışma
+olan IMpower110 yürütülmüştür. Hastalardaki PD-L1 ekspresyonu ≥%1 TC (PD-L1 tümör
+hücrelerinin ≥%1’i boyanmıştır) veya ≥%1 IC (tümör bölgesinin ≥%1’ini kapsayan tümör-
+infiltre edici immün hücreleri PD-L1 boyanmıştır) VENTANA PD-L1 (SP142) Testine
+dayanmaktadır.
+Toplamda 572 hasta randomize edilmiş ve 1:1 oranında atezolizumab (A kolu) veya kemoterapi
+(B kolu) verilmiştir. Atezolizumab, araştırmacı tarafından değerlendirildiği şekilde klinik fayda
+kaybına veya kabul edilmeyen toksisiteye kadar üç haftada bir intravenöz yolla 1200 mg sabit
+dozla verilmiştir. Kemoterapi rejimleri Tablo 7’de gösterilmektedir. Randomizasyon cinsiyet,
+ECOG performans statüsü, histoloji ve TC ile IC’de PD-L1 tümör ekspresyonu ile
+katmanlaştırılmıştır.
+Tablo 7: Kemoterapi intravenöz tedavi rejimleri (IMpower110)
+Tedavi rejimi İndüksiyon İdame
+(Dört veya altı 21 günlük (21 günlük
+sikluslar) sikluslar)
+B (Skuamoz olmayan) Sisplatina (75 mg/m2) + Pemetreksedb,d
+pemetrekseda (500 mg/m2) veya (500 mg/m2)
+karboplatina (EAA 6) +
+pemetrekseda (500 mg/m2)
+B (Skuamoz) Sisplatina (75 mg/m2) + En iyi destekleyici
+gemsitabina,c (1250 mg/m2) veya bakım d
+karboplatina (EAA 5) +
+gemsitabina,c (1000 mg/m2)
+35aSisplatin, karboplatin, pemetreksed ve gemsitabin 4 veya 6 siklusun tamamlanmasına veya
+progresif hastalığa veya kabul edilemez toksisiteye kadar uygulanmaktadır
+bPemetreksed, progresif hatalığa veya kabul edilemez toksisiteye kadar her 21 gün idame rejimi
+olarak uygulanmaktadır
+cGemsitabin her siklusun 1. ve 8. gününde uygulanmaktadır
+dKontrol kolundan (platin bazlı kemoterapi) atezolizumab koluna (A kolu) geçişe izin
+verilmemiştir
+Otoimmün hastalık, randomizasyondan önceki 28 gün içinde canlı, zayıflatılmış aşı uygulaması,
+4 hafta içinde sistemik immün sistemi uyarıcı ajanların uygulanması veya randomizasyondan
+önceki 2 hafta içinde sistemik immün sistemi baskılayıcı ilaçlar öyküsü, aktif veya tedavi
+edilmemiş merkezi sinir sistemi metastazları olan hastalar çalışma dışı bırakılmıştır. Tümör
+değerlendirmeleri, 1. siklus, 1.gün ve bunu takip eden ilk 48 hafta boyunca 6 haftada bir ve
+daha sonra her 9 haftada bir yürütülmüştür.
+EGFR mutasyonları veya ALK yeniden düzenlemeleri olmayan (n=554) PD-L1 ekspresyonu
+≥ %1 TC veya ≥ %1 IC olan hastalarda demografik ve çalışma başlangıcı hastalık özellikleri
+tedavi kolları arasında iyi dengelenmiştir. Medyan yaş 64,5 (dağılım: 30 ila 87) olup
+hastaların %70’i erkektir. Hastaların çoğunluğu beyaz (%84) ve Asyalıdır (%14). Hastaların
+çoğu halen sigara kullanmaktadır veya öncesinde kullanmıştır (%87) ve hastalarda başlangıç
+ECOG performans durumu 0 (%36) veya 1’dir (%64).
+Genel olarak, hastaların %69’unda skuamoz olmayan hastalık ve hastaların %31’inde skuamoz
+hastalık vardır. EGFR mutasyonları veya ALK yeniden düzenlemeleri olmayan (n=205) yüksek
+PD-L1 ekspresyonu olan (PD-L1 ≥ %50 TC veya ≥ %10 IC) hastalarda demografik ve çalışma
+başlangıcı hastalık özellikleri genellikle daha geniş çalışma popülasyonunu temsil etmiş ve
+tedavi kolları arasında dengeli olmuştur.
+Birincil sonlanım noktası, genel sağkalım (GS) olmuştur. Geçici genel sağkalım analizi
+sırasında, EGFR mutasyonları veya ALK yeniden düzenlemeleri olanlar (n=205) hariç olmak
+üzere yüksek PD-L1 ekspresyonu olan hastalar, kemoterapiye kıyasla atezolizumaba (Kol A)
+randomize edilen hastalar için genel sağkalımda istatistiksel olarak anlamlı iyileşme göstermiş
+(B kolu) (risk oranı 0,59, %95 GA: 0,4, 0,89; medyan genel sağkalım 20,2 aya karşı 13,1 ay)
+olup iki taraflı p değeri 0,0106 bulunmuştur. Yüksek PD-L1 ekspresyonu olan hastalarda
+ortanca sağkalım takip süresi 15,7 ay olmuştur.
+Bu hastalarda daha uzun bir takip süresi (medyan: 31,3 ay) içeren bir keşifsel genel sağkalım
+analizinde atezolizumab kolu için medyan genel sağkalım, birincil genel sağkalım ara analizine
+göre (20,2 ay) değişmemiş ve kemoterapi kolu için 14,7 olmuştur (risk oranı 0,76, %95 GA:
+0,54, 1,09). Keşifsel analizdeki anahtar sonuçlar Tablo 8’de özetlenmiştir. Yüksek PD-L1
+ekspresyonu olan hastalarda genel sağkalım ve progresyonsuz sağkalım için Kaplan-Meier
+eğrileri Şekil 6 ve 7’de sunulmaktadır. Atezolizumab kolunda (16/107, %15) kemoterapi koluna
+kıyasla (10/98, %10,2) hastaların daha yüksek bir oranı ilk 2,5 ay içinde ölüm yaşamıştır. Erken
+ölümlerle ilişkili herhangi bir spesifik faktör/faktörler tanımlanamamıştır.
+36Tablo 8: Yüksek PD-L1 ekspresyonu ≥%50 TC veya ≥%10 IC olan hastalarda etkililik
+özeti (IMpower110)
+Etkililik sonlanım A Kolu B Kolu
+noktaları (Atezolizumab) (Kemoterapi)
+Birincil sonlanım noktası
+Genel sağkalım n=107 n=98
+Ölüm sayısı (%) 64 (%59,8) 64 (%65,3)
+Olaylara kadar geçen 20,2 14,7
+medyan süre (ay)
+%95 GA (17,2; 27,9) (7,4; 17,7)
+Sınıflandırılmış risk oranıǂ 0,76 (0,54; 1,09)
+(%95 GA)
+12 aylık genel sağkalım 66,1 52,3
+(%)
+İkincil sonlanım noktaları
+Araştırmacı tarafından n=107 n=98
+değerlendirilen PS
+(RECIST v1.1)
+Olay sayısı (%) 82 (%76,6) 87 (%88,8)
+Medyan PS süresi (ay) 8,2 5
+%95 GA (6,8; 11,4) (4,2; 5,7)
+Sınıflandırılmış risk 0,59 (0,43; 0,81)
+oranıǂ^ (%95 GA)
+12 aylık progresyonsuz 39,2 19,2
+sağkalım (%)
+Araştırmacı tarafından n=107 n=98
+değerlendirilen OYO
+(RECIST v1.1)^
+Yanıt verenlerin sayısı 43 (%40,2) 28 (%28,6)
+(%)
+%95 GA (30,8; 50,1) (19,9; 38,6)
+Tam yanıt sayısı (%) 1 (%0,9) 2 (%2)
+Kısmi yanıt sayısı (%) 42 (%39,3) 26 (%26,5)
+Araştırmacı Tarafından n=43 n=28
+Değerlendirilen YS
+(RECIST v1.1)^
+Medyan (ay) 38,9 8,3
+%95 GA (16,1; TE) (5,6; 11)
+‡ Cinsiyet ve ECOG performans statüsüne (0’a karşı 1) göre sınıflandırılmıştır
+PS=progresyonsuz sağkalım; RECIST=Solid Tümörlerde Yanıt Değerlendirme Kriterleri v1.1.;
+GA= Güven Aralığı; OYO=objektif yanıt oranı; YS=yanıt süresi; GS=genel sağkalım,
+TE=Tahmin edilemiyor
+37Şekil 6: Yüksek PD-L1 ekspresyonu ≥%50 TC veya ≥%10 IC olan hastalarda genel
+sağkalım için Kaplan-Meier eğrisi (IMpower110)
+Şekil 7: Yüksek PD-L1 ekspresyonu ≥%50 TC veya ≥%10 IC olan hastalarda
+progresyonsuz sağkalım için Kaplan-Meier eğrisi (IMpower110)
+A kolu: Tecentriq 8.2 ay 0.59 (0.43 , 0.81)
+B kolu: Kemoterapi 5 ay
+Kemoterapi koluna kıyasla atezolizumab kolunda gözlemlenen genel sağkalım iyileşmesi, hem
+skuamoz olmayan küçük hücreli dışı akciğer kanseri hastaları HR 0,62, %95 GA: 0,4; 0,96;
+medyan genel sağkalım 20,2’ye karşı 10,5 ay) hem de skuamoz küçük hücreli dışı akciğer
+kanseri hastalarını (HR 0,56, %95 GA: 0,23; 1,37; 15,3 aya karşı medyan genel sağkalıma
+ulaşılamaması) içeren alt gruplarda tutarlı bir şekilde gösterilmiştir. 75 yaş ve üzeri hastalara
+ve hiç sigara içmemiş hastalara ilişkin veriler, bu alt gruplarda sonuç çıkarmak için çok sınırlıdır.
+İkinci basamak küçük hücreli dışı akciğer kanseri
+ OAK (GO28915): kemoterapi tedavisi almış lokal ileri veya metastatik KHDAK
+hastalarında yapılan randomize Faz III çalışma
+Platin içeren bir rejim uygulanırken veya sonrasında progresyon görülmüş, lokal ileri veya
+metastatik KHDAK olan hastalarda, atezolizumab ile dosetakselin etkililik ve güvenlilik
+38karşılaştırılmasının yapıldığı Faz III, açık etiketli, çok merkezli, uluslararası, randomize bir
+çalışma olan GO28915 (OAK) yürütülmüştür. Bu çalışma, otoimmün hastalık öyküsü olan,
+aktif veya kortikosteroid-bağımlı beyin metastazı öyküsü olan, başlangıçtan önceki 28 gün
+içinde canlı, attenüe aşı olmuş, başlangıçtan önceki 4 hafta içinde sistemik immunostimulatör
+ajan uygulanmış veya başlangıçtan önceki 2 hafta içinde sistemik immunosupresif tıbbi ürün
+kullanmış hastalar çalışmaya alınmamıştır. Tümör değerlendirmeleri ilk 36 hafta boyunca her
+6 haftada bir ve sonra her 9 haftada bir gerçekleştirilmiştir. Tümör örnekleri, tümör hücrelerinde
+(TC) ve tümör sızdıran bağışıklık hücrelerinde (IC) PD-L1 ifadesi için prospektif olarak
+değerlendirilmiştir.
+Toplamda 1225 hasta kayıt edilmiştir ve analiz planına göre randomize edilen ilk 850 hasta
+primer etki analizine dahil edilmiştir. Randomizasyon PD-L1 IC ekspresyon durumu, önceki
+kemoterapi rejimlerinin sayısı ve histolojiye göre tabakalandırılmıştır. Hastalar 1:1 oranında
+atezolizumab veya dosetaksel almak üzere randomize edilmiştir.
+Atezolizumab üç haftada bir intravenöz infüzyon yoluyla 1200 mg sabit dozda uygulanmıştır.
+Doz azaltımına izin verilmemiştir. Hastalar, araştırmacı tarafından değerlendirilecek klinik
+fayda kaybına kadar tedavi edilmiştir. Dosetaksel, progresyona kadar her üç haftalık siklusun
+1. gününde intravenöz infüzyon yoluyla 75 mg/m2 uygulanmıştır. Tedavi edilen tüm hastalar
+için, medyan tedavi süresi dosetaksel kolu için 2,1 ay ve atezolizumab kolu için 3,4 aydır.
+Primer analiz hasta popülasyonunun demografik ve başlangıç özellikleri tedavi kolları arasında
+genel olarak iyi değerlendirilmiştir. Medyan yaş 64 yaştır (aralık: 33-85) ve hastaların %61’i
+erkektir. Hastaların çoğu beyaz ırktandır (%70). Hastaların yaklaşık olarak üçte birinde non-
+skuamoz hastalık vardır (%74). %10’unda EGFR mutasyonu, %0,2’sinde ALK yeniden
+düzenlenmesi ve %10’unda başlangıçta santral sinir sistemi metastazları vardır. Hastaların çoğu
+halen veya önceden tütün kullanıcısıdır (%82). Başlangıçta ECOG performans skoru 0 (%37)
+veya 1’dir (%63). Hastaların %75’i önceden yalnızca bir platin bazlı tedavi rejimi almıştır.
+Birincil etkililik sonlanım noktası, randomizasyon tarihinden herhangi bir nedenle ölüme kadar
+geçen süre olarak tanımlanan GS'dir (genel sağkalım). 21 aylık medyan sağkalım takip süresini
+içeren bu çalışmanın anahtar sonuçları Tablo 9’da özetlenmiştir. ITT popülasyonu (tedavi
+amaçlı) için Kaplan-Meier eğrileri Şekil 8’de sunulmuştur. Şekil 9, ITT ve PD-L1 alt
+gruplarındaki GS sonuçlarını özetlemekte olup , TC ve IC'de % 1'in altında PD-L1 ekspresyonu
+olanları da içeren tüm alt gruplarda atezolizumab ile GS faydasını göstermektedir.
+Tablo 9: OAK çalışmasından primer analiz popülasyonunda etkililik çalışması (tüm
+gelenler)*
+Etkililik sonlanım noktası Atezolizumab Dosetaksel
+(n=425) (n=425)
+Birincil Etkililik Sonlanım Noktası
+GS
+Ölüm sayısı (%) 271 (%64) 298 (%70)
+Olaylara kadar geçen medyan süre (ay) 13,8 9,6
+%95 GA (11,8; 15,7) (8,6; 11,2)
+Sınıflandırımış† risk oranı 0,73 (0,62; 0,87)
+(%95 GA)
+p değeri** 0,0003
+39Etkililik sonlanım noktası Atezolizumab Dosetaksel
+(n=425) (n=425)
+12 aylık GS*** 218 (%55) 151 (%41)
+18 aylık GS*** 157 (%40) 98 (%27)
+İkincil Etkililik Sonlanım Noktaları
+Araştırmacı tarafından değerlendirilen PS (RECIST v1.1)
+Olay sayısı (%) 380 (%89) 375 (%88)
+Medyan PS süresi (ay) 2,8 4
+%95 GA (2,6; 3) (3,3; 4,2)
+Sınıflandırılmış risk oranı (%95 GA) 0,95 (0,82; 1,1)
+Araştırmacı Tarafından Değerlendirilen OYO (RECIST v1.1)
+Yanıt verenlerin sayısı (%) 58 (%14) 57 (%13)
+%95 GA (10,5; 17,3) (10,3;17)
+Araştırmacı Tarafından Değerlendirilen YS (RECIST v1.1)
+n=58 n=57
+Medyan (ay) 16,3 6,2
+%95 GA (10; TE) (4,9; 7,6)
+GA=güven aralığı; YS=yanıt süresi; TE=Tahmin edilemiyor; OYO=objektif yanıt oranı;
+GS=genel sağkalım; PS=progresyonsuz sağkalım; RECIST-STCDK=Solid Tümörlerde Cevap
+Değerlendirme Kriterleri v1.1.
+*Primer analiz popülasyonu randomize edilen ilk 850 hastayı içerir
+†IC düzeyleri, tümör sızdıran bağışıklık hücrelerindeki PD-L1 ekspresyonuna, önceki
+kemoterapi rejimi sayısı ve histolojiye göre sınıflandırılmıştır.
+** sınıflandırılmış log-sıra sıralamasına göre
+*** Kaplan-Meier hesaplamalarına göre
+40Şekil 8: Primer analiz popülasyonunda genel sağkalım için Kaplan-Meier eğrisi (tüm
+gelenler) (OAK)
+TECENTRIQ Dosetaksel
+Medyan zaman (ay)
+Risk Oranı
+(%95 GA)
+Log-rank p-değeri
+ğı
+sılı
+a
+ol
+m
+alı
+k
+ğ
+a
+S
+Zaman (ay)
+Risk altındaki hasta sayısı
+TECENTRIQ
+Dosetaksel
+Risk oranı sınıflandırılmış bir Cox modeli üzerinden; p-değeri sınıflandırılmış bir log-rank testi üzerinden tahmin edilmiştir
+Şekil 9: Primer analiz popülasyonunda PD-L1 ekspresyonuna göre genel sağkalım meta-
+analiz diyagramı (OAK)
+Medyan GS (ay)
+TECENTRIQ Dosetaksel
+PD-L1 Ekspresyon Seviyesi
+TC≥ %50 veya IC ≥ %10 (n=137)
+TC veya IC ≥ %5 (n=265)
+TC veya IC ≥ %1 (n=463)
+TC ve IC < %1 (n=379)
+Risk Oranıa
+TECENTRIQ
+lehine
+a TC ve IC ≥ % 1için sınıflandırılmış HR. Diğer açıklayıcı altgruplar içi sınıflandırılmamış HR
+TC: Tümör hücreleri; IC: İmmün hücreleri; HR: Risk oranı
+Hem non-skuamoz KHDAK hastalarında (atezolizumab and dosetaksel için sırasıyla; risk oranı
+[HR]: 0,73; 95% GA: 0,6; 0,89; medyan GS< 15,6’ya karşı 11,2 ay) hem de skuamoz KHDAK
+hastalarında (atezolizumab and dosetaksel için sırasıyla HR: 0,73; 95% GA: 0,54; 0,98; medyan
+GS: 8,9 vs. 7,7 ay) dosetaksel ile karşılaştırılan GS değerlerinde gelişme görülmüştür.
+Gözlemlenen GS gelişimi, başlangıçta beyin metastazı olanlar (atezolizumab and dosetaksel
+için sırasıyla; risk oranı [HR]: 0,54; 95% GA: 0,31; 0,94; medyan GS< 20,1 vs. 11,9 ay) ve hiç
+tütün tüketmemiş olanlar (atezolizumab and dosetaksel için sırasıyla; risk oranı [HR]: 0,71;
+95% GA: 0,47; 1,08; medyan GS< 16,3 vs. 12,6 ay) dahil olmak üzere altgruplar arasında tutarlı
+41bir biçimde gösterilmiştir. Bununla birlikte, EGFR mutasyonlu hastalar dosetaksele karşılık
+atezolizumab kullanımında gelişmiş GS göstermemişlerdir (atezolizumab ve dosetaksel için
+sırasıyla; risk oranı [HR]: 1,24; 95% GA: 0,71; 2,18; medyan GS< 10,5 ‘e karşı 16,2 ay).
+EORTC QLQ-LC13 ile ölçüldüğünde, hasta bildirimli göğüs ağrısındaki kötüleşmeye kadar
+zamanın, dosetaksele karşılık atezolizumab için (HR: 0,71; 95% GA: 0,49; 1,05; iki kolda da
+medyana ulaşılmamıştır) uzadığı görülmüştür. EORTC QLQ-LC13 ile ölçülen diğer akciğer
+kanseri semptomları (örn. öksürük, dispne ve kol/omuz ağrısı) için kötüleşme süreleri
+atezolizumab ve dosetaksel için benzerdir. Bu sonuçlar çalışmanın açık etiketli dizaynına
+dayanarak dikkatle yorumlanmıştır.
+ POPLAR (GO28753): kemoterapi tedavisi almış lokal ileri veya metastatik KHDAK
+hastalarında yapılan randomize Faz II çalışma
+PD-L1 ekspresyonundan bağımsız olarak platin içeren rejim uygulanırken ya da sonrasında
+progresyon görülmüş, lokal ileri veya metastatik KHDAK olan hastalarda Faz II, çok merkezli,
+uluslararası, randomize, açık etiketli, kontrollü bir çalışma olan GO28753 (POPLAR) çalışması
+da yürütülmüştür. Birincil etkililik sonlanım noktası, genel sağkalımdır. Toplam 287 hasta 1:1
+oranında TECENTRIQ (klinik fayda kaybına kadar üç haftada bir intravenöz infüzyon yoluyla
+1200 mg) ya da dosetaksel (progresyona kadar her üç haftalık siklusun 1. (birinci) gününde
+intravenöz infüzyon yoluyla 75 mg/m2) almak üzere randomize edilmiştir. Randomizasyon,
+PD-L1 IC ekspresyon durumu, önceki kemoterapi rejimlerinin sayısı ve histolojiye göre
+tabakalandırılmıştır.
+Gözlemlenen toplam 200 ölüm ve 22 aylık medyan sağkalım takibi ile güncelleştirilmiş analiz;
+dosetaksel ile tedavi edilen hastalarda medyan sağkalım 9,7 ay ve atezolizumab ile tedavi edilen
+hastalarda medyan sağkalım 12,6 ay (HR: 0,69 % 95 GA: 0,52; 0,92) olarak göstermiştir.
+Atezolizumab ve dosetaksel için Objektif Yanıt Oranı (OYO) sırasıyla %15,3’e karşı %14,7,
+medyan Yanıt Süresi (YS) ise 18,6 ay ve 7,2 aydır.
+Küçük hücreli akciğer kanseri:
+ IMpower133 (GO30081): kemoterapi tedavisi almamış yaygın evre KHAK hastalarında
+karboplatin ve etoposidle kombinasyon halinde yapılan randomize Faz I/III çalışma
+Kemoterapi kullanmamış, yaygın evre KHAK hastalarında atezolizumabın karboplatin ve
+etoposid ile kombinasyon halinde kullanıldığında etkililiğini ve güvenliliğini değerlendirmek
+için Faz I/III, randomize, çok merkezli, çift-kör, plasebo kontrollü bir çalışma olan IMpower133
+yürütülmüştür.
+Aktif veya tedavi edilmemiş beyin metastazı olan, otoimmün hastalık öyküsü olan,
+randomizasyondan önceki 4 hafta içinde canlı, attenüe aşı olmuş, randomizasyondan önceki 1
+(bir) hafta içinde sistemik immunostimulatör ajan uygulanmış hastalar çalışmaya alınmamıştır.
+Tümör değerlendirmeleri 1. (birinci) siklusun 1. (birinci) gününü takiben ilk 48 hafta boyunca
+her 6 haftada bir ve sonra her 9 haftada bir gerçekleştirilmiştir. Hastalık progresyonundan sonra
+tedavi edilen hastaların tümör değerlendirmeleri kullanımın bırakılmasına kadar her 6 haftada
+bir gerçekleştirilmiştir.
+Toplamda 403 hasta kayıt edilmiştir ve 1:1 oranında Tablo 10’daki tedavi rejimlerinden birini
+almak üzere randomize edilmiştir. Randomizasyon cinsiyet, ECOG performans skoru ve beyin
+42metastaz varlığına göre sınıflandırılmıştır.
+Tablo 10: Intravenöz tedavi rejimi (IMpower133)
+Tedavi rejimi İndüksiyon İdame
+(21-günlük 4 siklus) (21-günlük siklus)
+A atezolizumab (1200 mg)a + atezolizumab (1200 mg)a
+karboplatin (EAA 5)b ve
+etoposid (100 mg/m2)b,c
+B plasebo + karboplatin (EAA plasebo
+5)b ve etoposid (100
+mg/m2)b,c
+a Atezolizumab, araştırmacı tarafından değerlendirilen klinik fayda kaybına kadar
+uygulanmıştır.
+b Karboplatin ve etoposid, 4 (dört) siklusun tamamlanmasına kadar, veya progresif hastalığa
+veya kabul edilemez toksisiteye kadar, herhangi biri ilk defa olana kadar uygulanmıştır.
+c Etoposid her siklusun 1. (brinci), 2. (ikinci) ve 3. (üçüncü) gününde uygulanmıştır.
+Hasta popülasyonunun demografik ve başlangıç özellikleri tedavi kolları arasında genel olarak
+benzer değerlendirilmiştir. Hastaların %10’u 75 yaş ve üzeri olmakla beraber medyan yaş 64
+yıldır (aralık: 26-90 yaş). Hastaların çoğunluğu erkektir (%65), beyaz ırktandır (%80), %9'unda
+beyin metastazı vardır ve çoğu halen veya önceden tütün kullanıcısıdır (%97). Başlangıçta
+ECOG performans skoru 0 (%35) veya 1(bir)’dir (%65).
+Primer analizde, hastaların medyan sağkalım takip süresi 13,9 aydır. Kontrol koluna kıyasla
+atezolizumab ile karboplatin ve etoposid kombinasyonu ile genel sağkalımda istatistiksel olarak
+anlamlı bir gelişme gözlendi (risk oranı (HR) 0,7 %95 GA: 0,54; 0,91; ortalama genel
+sağkalım : 12,3 aya 10,3 ay). Uzun dönem takipli araştırma genel sağkalım analizinde
+(ortalama: 22,9 ay), her iki koldaki ortalama genel sağkalım, başlangıç genel sağkalım ara
+analizine göre değişmemiştir. Araştırma analizi yanında başlangıç analiziden elde edilen
+Progresyonsuz Sağkalım (PS), Objektif Yanıt Oranı (OYO)ve Yanıt Süresi (YS) sonuçları
+Tablo 11’de özetlenmiştir. Genel sağkalım ve progresyonsuz sağkalım sonuçlarını gösteren
+Kaplan-Meier eğrileri Şekil 10’da ve 11’de sunulmuştur. Beyin metastazı olan hastalar için
+veriler bu popülasyonla ilgili sonuç çıkarmak için çok sınırlıdır.
+Tablo 11: Etkililik özeti (IMpower133)
+Etkililik sonlanım noktası A kolu B kolu
+(atezolizumab (plasebo +
++ karboplatin + karboplatin +
+etoposid) etoposid)
+Eş Sonlanım Noktaları
+GS analizi n=201 n=202
+Ölüm sayısı (%) 142 (%70,6) 160 (%79,2)
+Olaylara kadar geçen medyan süre (ay) 12,3 10,3
+%95 GA (10,8; 15,8) (9,3; 11,3)
+Tabakalandırılmış risk oranıǂ (%95 GA) 0,76 (0,6; 0,95)
+p değeri 0,0154***
+12 aylık GS (%) 51,9 39
+43Etkililik sonlanım noktası A kolu B kolu
+(atezolizumab (plasebo +
++ karboplatin + karboplatin +
+etoposid) etoposid)
+Araştırmacı tarafından değerlendirilen PS n=201 n=2 02
+(RECIST-STCDK v1.1)** ^
+Olay sayısı (%) 171 (%85,1) 189 (%93,6)
+Medyan PS süresi (ay) 5,2 4,3
+%95 GA (4,4; 5,6) (4,2; 4,5)
+Sınıflandırılmış risk oranı (%95 GA) 0,77 (0,62; 0,96)
+p değeri 0,017
+6 aylık PS (%) 30,9 22,4
+12 aylık PS (%) 12,6 5,4
+Diğer sonlanım noktaları
+Araştırmacı Tarafından Değerlendirilen n=201 n=202
+OYO (RECIST-STCDK v1.1)** ^
+Yanıt verenlerin sayısı (%) 121 (%60,2) 130 (%64,4)
+%95 GA (53,1; 67) (57,3; 71)
+Tam yanıt sayısı (%) 5 (%2,5) 2 (%1)
+Parsiyel yanıt sayısı (%) 116 (%57,7) 128 (%63,4)
+Araştırmacı Tarafından Değerlendirilen YS n=121 n=130
+(RECIST-STCDK v1.1)** ^
+Medyan (ay) 4,2 3,9
+%95 GA (4,1; 4,5) (3,1; 4,2)
+PS=progresyonsuz sağkalım; RECIST-STCDK=Solid Tümörlerde Cevap Değerlendirme
+Kriterleri v1.1.; GA=güven aralığı; OYO=objektif yanıt oranı; YS=objektif yanıt süresi;
+GS=genel sağkalım
+ǂ Cinsiyet ve ECOG performans skoruna göre tabakalandırılmıştır
+* Araştırma GS final analizi klinik kesim tarihi 21 Ocak 2019
+**PS, OYO ve YS analizi klinik kesim tarihi 24 Nisan 2018
+*** Sadece tanımlayıcı amaçlar için
+^ Onaylanan OYO ve YS araştırma sonlanım noktasıdır
+44Şekil 10: Genel sağkalım için Kaplan-Meier eğrisi (IMpower133)
+Medyan GS HR (%95 GA) p-değeri
+Tedavi kolu
+TECENTRIQ + karboplatin + etoposid
+12.3 ay 0.76
+Plasebo + karboplatin + etoposid
+10.3 ay (0.6, 0.95)
+)
+%
+(
+m
+alı
+k
+ğ
+a
+s
+el
+n
+e
+G
+TECENTRIQ + karboplatin + etoposid
+Plasebo + karboplatin + etoposid
+Zaman (ay)
+Risk altındaki hasta sayısı
+TECENTRIQ + karboplatin + etoposid
+Plasebo + karboplatin + etoposid
+Şekil 11: Progresyonsuz sağkalım için Kaplan-Meier eğrisi (IMpower133)
+Medyan PFS HR (%95 GA) p-değeri
+Tedavi kolu
+TECENTRIQ + karboplatin + etoposid 5.2 ay 0.017
+4.3 ay
+Plasebo + karboplatin + etoposid
+)
+%
+(
+m
+alı
+k
+ğ
+a
+s
+z
+u
+s
+n
+o
+y
+s
+e
+r
+g
+ro TECENTRIQ + karboplatin + etoposid
+P Plasebo + karboplatin + etoposid
+Zaman (ay)
+Risk altındaki hasta sayısı
+TECENTRIQ+ karboplatin + etoposid
+Plasebo + karboplatin + etoposid
+45Ürotelyal Kanser:
+ IMvigor211 (GO29294): Daha önce kemoterapi ile tedavi edilmiş lokal ileri veya
+metastatik evre ürotelyal kanserli hastalar üzerinde yapılan randomize çalışma
+Platin içeren bir rejim sırasında veya sonrasında hastalık ilerlemesi görülen lokal ileri veya
+metastatik evre ürotelyal kanserli hastalarda kemoterapiye (araştırmacının seçimine bağlı
+olarak vinflunin, dosetaksel veya paklitaksel) kıyasla atezolizumabın etkililiğini ve
+güvenliliğini değerlendirmek için faz III, açık etiketli, çok merkezli, uluslararası, randomize bir
+çalışma (IMvigor211) yürütülmüştür. Otoimmün hastalık öyküsü olan, aktif veya
+kortikosteroid-bağımlı beyin metastazı olan, kayıttan önceki 28 gün içinde canlı, attenüe aşı
+uygulanmış ve kayıttan önceki 4 (dört) hafta içinde sistemik immunostimulatör ajan veya 2 (iki)
+hafta içinde sistemik immunosupresif tıbbi ürün uygulanmış hastalar bu çalışmadan
+dışlanmıştır. Tümör değerlendirmeleri ilk 54 hafta boyunca her 9 (dokuz) haftada bir ve
+sonrasında her 12 haftada bir gerçekleştirilmiştir. Tümör örnekleri, tümörü infiltre eden immün
+hücrelerde (IC) PD-L1 ekspresyonu için prospektif olarak değerlendirilmiş ve sonuçlar aşağıda
+açıklanan analizler için PD-L1 ekspresyon alt gruplarını tanımlamak için kullanılmıştır.
+Toplam 931 hasta kaydedilmiştir. Hastalar atezolizumab ya da kemoterapi almak üzere
+randomize edilmiştir (1 (bir):1(bir)). Randomizasyon kemoterapi (vinflunin ya da taksan),
+IC’de PD-L1 ekspresyon durumu (<%5 (beş)’e karşı ≥%5 (beş)), prognostik risk faktörlerinin
+sayısı (0’a karşı 1(bir)-3 (üç)) ve karaciğer metastazına (evete karşı hayır) göre
+sınıflandırılmıştır. Prognostik risk faktörleri arasında önceki kemoterapiden itibaren 3 (üç) ay
+geçmesi,  0 ECOG performans durumu ve  10 g/dL hemoglobin yer almıştır.
+Atezolizumab, 3 (üç) haftada bir intravenöz infüzyon yoluyla 1200 mg sabit dozda
+uygulanmıştır. Atezolizumab dozunun azaltımına izin verilmemiştir. Hastalar, araştırmacı
+tarafından değerlendirildiği şekilde klinik faydanın kaybedilmesine veya kabul edilemez
+toksisite görülene kadar tedavi edilmiştir. Vinflunin, hastalığın ilerlemesine veya kabul
+edilemez toksisite görülene kadar her 3 (üç) haftalık döngünün 1. (birinci) gününde intravenöz
+infüzyon yoluyla 320 mg/m2 dozunda uygulanmıştır. Paklitaksel, hastalığın ilerlemesine veya
+kabul edilemez toksisite görülene kadar her 3 (üç) haftalık döngünün 1. (birinci) gününde 3 (üç)
+saat boyunca intravenöz infüzyon yoluyla 175 mg/m2 dozunda uygulanmıştır. Dosetaksel,
+hastalığın ilerlemesine veya kabul edilemez toksisite görülene kadar her 3 (üç) haftalık
+döngünün 1. (birinci) gününde intravenöz infüzyon yoluyla 75 mg/m2 dozunda uygulanmıştır.
+Tedavi edilen tüm hastalarda medyan tedavi süresi atezolizumab kolu için 2,8 ay, vinflunin ve
+paklitaksel kolları için 2,1 ay ve dosetaksel kolu için 1,6 ay olmuştur.
+Primer analiz popülasyonunun demografik ve başlangıç hastalık özellikleri tedavi kolları
+arasında dengeli olmuştur. Medyan yaş 67 (aralık: 31-88) olup hastaların %77,1’i erkektir.
+Hastaların çoğunluğu (%72,1) beyaz ırktan olup kemoterapi kolundaki hastaların %53,9'u
+vinflunin almış, başlangıçta hastaların %71,4'ünde en az bir kötü prognostik risk faktörü
+ve %28,8'inde karaciğer metastazı mevcuttur. Başlangıç ECOG performans durumu 0 (%45,6)
+veya 1 (%54,4) olmuştur. Hastaların %71,1'inde primer tümör yeri mesanedir ve
+hastaların %25,4'ünde üst sistem ürotelyal karsinomu mevcuttur. Hastaların %24,2'si daha önce
+sadece platin içeren adjuvan veya neoadjuvan tedavi almış ve bu hastalarda 12 ay içinde hastalık
+ilerlemesi görülmüştür.
+IMvigor211 için primer etkililik sonlanım noktası genel sağkalımdır (GS). Araştırmacı
+tarafından değerlendirilen Solid Tümörlerde Yanıt Değerlendirme Kriterleri (RECIST) v1.1’e
+göre değerlendirilen sekonder etkililik sonlanım noktaları objektif yanıt oranı (OYO),
+46progresyonsuz sağkalım (PS) ve yanıt süresidir (YS). IC2/3, IC1/2/3ve ITT (tedavisi amaçlanan,
+yani tüm katılanlar) popülasyonlarında tedavi kolu ve kontrol kolu arasındaki GS
+karşılaştırmaları, aşağıdaki şekilde %5'lik iki taraflı seviyede sınıflandırılmış bir log-sıra testine
+dayalı hiyerarşik, sabit sıralı bir prosedür kullanılarak test edilmiştir: aşama 1)
+IC2/3popülasyonu; aşama 2) IC1/2/3 popülasyonu; aşama 3) tüm katılanlar popülasyonu.
+Aşama 2 ve 3'ün her birine ait GS sonuçları, ancak önceki aşamaya ait sonuç istatistiksel olarak
+anlamlıysa, istatistiksel anlamlılık açısından resmi olarak test edilebilmiştir.
+Medyan sağkalım takibi 17 aydır. IMvigor211 çalışmasının primer analizi primer genel
+sağkalım sonlanım noktasını karşılamamıştır. Atezolizumab, daha önce tedavi edilmiş, lokal
+ileri evre veya metastatik ürotelyal karsinomlu hastalarda kemoterapiye kıyasla istatistiksel
+olarak anlamlı bir sağkalım faydası göstermemiştir. Önceden belirlenmiş hiyerarşik test sırasına
+göre, 0,87'lik bir genel sağkalım risk oranı ile önce IC 2/3popülasyonu test edilmiştir (%95 GA:
+0,63, 1,21; atezolizumab ve kemoterapi için medyan genel sağkalım sırasıyla 11,1 aya karşı
+10,6 ay). Sınıflandırılmış log-sıra p değeri 0,41’dir ve bu nedenle sonuçlar bu popülasyonda
+istatistiksel olarak anlamlı kabul edilmemiştir. Sonuç olarak, IC1/2/3 veya tüm katılanlar
+popülasyonunda genel sağkalım için herhangi bir istatistiksel anlamlılık testi
+gerçekleştirilememiş ve bu analizlerin sonuçları açıklayıcı olarak değerlendirilmiştir. Tüm
+katılanlar popülasyonundaki kilit sonuçlar Tablo 12’de özetlenmiştir. Tüm katılanlar
+popülasyonunda Kaplan Meier genel sağkalım eğrisi Şekil 12’de sunulmaktadır.
+ITT popülasyonunda 34 aylık bir medyan sağkalım takip süresi ile açıklayıcı bir güncellenmiş
+sağkalım analizi gerçekleştirilmiştir. Medyan genel sağkalım, 0,82’lik bir risk oranı (%95 GA:
+0,71, 0,94) ile atezolizumab kolunda 8,6 ay (%95 GA: 7,8; 9,6) ve kemoterapi kolunda 8 ay
+(%95 GA: 7,2; 8,6) olmuştur. 12 aylık genel sağkalım oranları için primer analizde gözlemlenen
+eğilim ile uyumlu olarak, atezolizumab kolundaki hastalarda, ITT popülasyonundaki
+kemoterapi koluna kıyasla sayısal olarak daha yüksek 24 ve 30 aylık genel sağkalım oranları
+gözlemlenmiştir. 24. ayda sağ olan hastaların yüzdesi (KM tahmini) kemoterapi kolunda %12,7
+ve atezolizumab kolunda %22,5; 30. ayda sağ olan hastaların yüzdesi (KM tahmini) ise
+kemoterapi kolunda %9,8 ve atezolizumab kolunda %18,1 olmuştur.
+Tablo 12: Tüm katılanlarda etkililik özeti (IMvigor211)
+Atezolizumab Kemoterapi
+Etkililik sonlanım noktası
+(n = 467) (n = 464)
+Primer etkililik sonlanım noktası
+GS*
+Ölüm sayısı (%) 324 (%69,4) 350 (%75,4)
+Olaylara kadar geçen medyan süre (ay) 8,6 8
+%95 GA 7,8; 9,6 7,2; 8,6
+Sınıflandırılmışǂ risk oranı (%95 GA) 0,85 (0,73; 0,99)
+12 aylık GS (%)** %39,2 %32,4
+Sekonder ve açıklayıcı sonlanım noktaları
+Araştırmacı tarafından değerlendirilen PS (RECIST v1.1)
+Olay sayısı (%) 407 (%87,2) 410 (%88,4)
+Medyan PS süresi (ay) 2,1 4
+%95 GA 2,1; 2,2 3,4; 4,2
+Sınıflandırılmış risk oranı (%95 GA) 1,1 (0,95, 1,26)
+Araştırmacı tarafından değerlendirilen OYO n = 462 n = 461
+47(RECIST v1.1)
+Doğrulanmış yanıt verenlerin sayısı (%) 62 (%13,4) 62 (%13,4)
+%95 GA 10,45; 16,87 10,47; 16,91
+Tam yanıt sayısı (%) 16 (%3,5) 16 (%3,5)
+Kısmi yanıt sayısı (%) 46 (%10) 46 (%10)
+Stabil hastalık sayısı (%) 92 (%19,9) 162 (%35,1)
+Araştırmacı tarafından değerlendirilen YS n = 62 n = 62
+(RECIST v1.1)
+Medyan (ay) *** 21,7 7,4
+%95 GA 13; 21,7 6,1; 10,3
+GA=güven aralığı; YS=yanıt süresi; OYO=objektif yanıt oranı; GS=genel sağkalım;
+PS=progresyonsuz sağkalım; RECIST = Katı Tümörlerde Yanıt Değerlendirme Kriterleri v1.1.
+* Tüm katılanlar popülasyonunda GS analizi sınıflandırılmış log-sıra testine göre
+gerçekleştirilmiş ve sonuç sadece açıklama amaçlı olarak sunulmuştur (p = 0,0378); önceden
+belirlenmiş analiz hiyerarşisine göre, tüm katılanlar popülasyonunda GS analizi için p değeri
+istatistiksel olarak anlamlı kabul edilememektedir.
+ǂ Kemoterapi (vinflunin ya da taksan), IC’de durum (< %5 (beş)’e karşı ≥ %5(beş)), prognostik
+risk faktörlerinin sayısı (0’a karşı 1(bir)-3(üç)) ve karaciğer metastazına (evete karşı hayır) göre
+sınıflandırıldı.
+** Kaplan-Meier tahminine göre.
+*** Yanıtlar atezolizumab kolunda yanıt verenlerin %63'ünde ve kemoterapi kolunda yanıt
+verenlerin %21'inde devamlıydı.
+Şekil 12: Kaplan Meier genel sağkalım eğrisi (IMvigor211)
+Kemoterapi
+Medyan süre (ay)
+Risk Oranı
+(%95 GA)
+ğı
+sılı
+a
+Ol
+m
+alı
+k
+ğ
+a
+S
+Tecentriq
+Kemoterapi
+Süre (Ay)
+Risk altındaki Hasta Sayısı
+TECENTRIQ
+Kemoterapi
+48 IMvigor210 (GO29293): Sisplatin tedavisi için uygun bulunmayan, daha önceden
+tedavi edilmemiş ürotelyal kanserli hastalar üzerinde yapılan tek kollu çalışma
+Lokal ileri veya metastatik evre ürotelyal kanserli (ürotelyal mesane kanseri olarak da bilinir)
+hastalar üzerinde faz II, çok merkezli, uluslararası, iki kohortlu, tek kollu bir klinik çalışma
+(IMvigor210) yürütülmüştür.
+Çalışmada toplam 438 hasta ve iki hasta kohortu vardır. Kohort 1’e, sisplatin bazlı
+kemoterapiye uygun bulunmayan veya uygun olmayan ya da platin içeren bir neoadjuvan veya
+adjuvan kemoterapi rejimi ile uygulanan tedaviden en az 12 ay sonra hastalık ilerlemesi görülen,
+daha önce tedavi görmemiş, lokal ileri veya metastatik evre ürotelyal kanserli hastalar dahil
+edilmiştir. Kohort 2’ye ise, lokal ileri veya metastatik evre ürotelyal kanserli için en az bir platin
+bazlı kemoterapi rejimi alan veya platin içeren bir neoadjuvan veya adjuvan kemoterapi rejimi
+ile uygulanan tedaviden sonraki 12 ay içinde hastalık ilerlemesi görülen hastalar dahil edilmiştir.
+Kohort 1'de, 119 hasta hastalığın ilerlemesine kadar intravenöz infüzyon yoluyla 3 (üç) haftada
+bir 1200 mg atezolizumab ile tedavi edilmiştir. Medyan yaş 73’tür. Hastaların çoğu (%81) erkek
+ve çoğunluğu (%91) beyaz ırktan olmuştur.
+Kohort 1’e, ECOG performans durumu 0 olan 45 hasta (%38), ECOG performans durumu 1
+olan 50 hasta (%42) ve ECOG performans durumu 2 olan 24 hasta (%20), Bajorin risk faktörü
+(ECOG performans durumu ≥ 2 ve viseral metastaz) olmayan 35 hasta (%29), bir Bajorin risk
+faktörü olan 66 hasta (%56) ve iki Bajorin risk faktörü olan 18 hasta (%15), böbrek işlev
+bozukluğu olan (glomerüler filtrasyon hızı [GFR] < 60 mL/dk) 84 hasta (%71) ve karaciğer
+metastazı olan 25 hasta (%21) dahil edilmiştir.
+Kohort 1’in primer etkililik sonlanım noktası, bağımsız bir değerlendirme tesisi (IRF)
+tarafından RECIST v1.1 kullanılarak değerlendirilen objektif yanıt oranı (OYO) olarak
+doğrulanmıştır.
+Primer analiz, tüm hastalar en az 24 hafta süreyle takip edildiğinde gerçekleştirilmiştir. Tüm
+katılanlarda medyan tedavi süresi 15 hafta ve medyan sağkalım takip süresi 8,5 ay olmuştur.
+RECIST v1.1’e göre IRF tarafından değerlendirilen klinik olarak anlamlı OYO'lar gösterilmiş;
+ancak önceden belirlenmiş %10'luk bir geçmiş kontrol yanıt oranı ile karşılaştırıldığında,
+anlamlı faydaya ulaşılamamıştır. IRF RECIST v1.1’e göre doğrulanmış OYO'lar PD-L1
+ekspresyonu ≥%5 olan hastalarda %21,9 (%95 GA: 9,3; 40), PD-L1 ekspresyonu ≥%1 olan
+hastalarda %18,8 (%95 GA: 10,9; 29) ve tüm katılanlarda %19,3 (%95 GA: 12,7; 27,6)
+olmuştur. Herhangi bir PD-L1 ekspresyon alt grubunda veya tüm katılanlarda medyan yanıt
+süresine (YS) ulaşılmamıştır. Yaklaşık %40’lık bir olay-hasta oranı ile genel sağkalım matür
+değildir. Tüm hasta alt gruplarında (PD-L1 ekspresyonu  %5 ve %1) ve tüm katılanlarda
+medyan genel sağkalım 10,6 ay olmuştur.
+Kohort 1 için gerçekleştirilen ve 17,2 aylık bir medyan sağkalım takip süresi ile güncellenmiş
+olan analiz Tablo 13’te özetlenmektedir. Herhangi bir PD-L1 ekspresyon alt grubunda veya
+tüm katılanlarda medyan YS'ye ulaşılmamıştır.
+49Tablo 13: Güncellenmiş etkililik özeti (IMvigor210 Kohort 1)
+IC’de PD-L1 IC’de PD-L1
+Tüm
+Etkililik sonlanım noktası ekspresyonu ekspresyonu
+Katılanlar
+≥%5 olanlar ≥%1 olanlar
+OYO (IRF tarafından
+n = 32 n = 80 n = 119
+değerlendirilen; RECIST v1.1)
+Yanıt verenlerin sayısı (%) 9 (%28,1) 19 (%23,8) 27 (%22,7)
+%95 GA 13,8; 46,8 15; 34,6 15,5; 31,3
+Tam yanıt sayısı (%) 4 (%12,5) 8 (%10) 11 (%9,2)
+%95 GA (3,5; 29) (4,4; 18,8) (4,7; 15,9)
+Kısmi yanıt sayısı (%) 5 (%15,6) 11 (%13,8) 16 (%13,4)
+%95 GA (5,3; 32,8) (7,1; 23,3) (7,9; 20,9)
+YS (IRF tarafından değerlendirilen; n = 9
+n = 19 n = 27
+RECIST v1.1)
+Olay görülen hastalar (%) 3 (%33,3) 5 (%26,3) 8 (%29,6)
+Medyan (ay) (%95 GA) TE (11,1; TE) TE (TE) TE (14,1; TE)
+PS (IRF tarafından değerlendirilen; n = 32
+n = 80 n = 119
+RECIST v1.1)
+Olay görülen hastalar (%) 24 (%75) 59 (%73,8) 88 (%73,9)
+Medyan (ay) (%95 GA) 4.1 (2,3; 11,8) 2.9 (2,1; 5,4) 2.7 (2,1; 4,2)
+GS n = 32 n = 80 n = 119
+Olay görülen hastalar (%) 18 (%56,3) 42 (%52,5) 59 (%49,6)
+Medyan (ay) (%95 GA) 12,3 (6; TE) 15,9 (10,4;
+14,1 (9,2; TE)
+TE)
+1 yıllık GS oranı (%) %52,4 %54,8 %57,2
+GA = güven aralığı; YS = yanıt süresi; IC = tümörü infiltre eden immün hücreler;
+IRF = bağımsız değerlendirme tesisi; TE = tahmin edilemiyor; OYO = objektif yanıt oranı;
+GS = genel sağkalım; PS = progresyonsuz sağkalım; RECIST = Katı Tümörlerde Yanıt
+Değerlendirme Kriterleri v1.1.
+Kohort 1 final analizi zamanında hastaların medyan sağkalım takip süresi 96,4 aydır. PD-L1
+ekspresyonu ≥ %5 olan hastalarda (terapötik endikasyona dahil edilmiş olan hastalar) medyan
+GS 12,3 aydır (%95 GA: 6 ; 49,8).
+Kohort 2’de, ko-primer etkililik sonlanım noktaları, bir IRF tarafından RECIST v1.1
+kullanılarak değerlendirilen OYO ve Modifiye RECIST (mRECIST) kriterlerine göre
+araştırmacı tarafından değerlendirilen OYO olarak doğrulanmıştur. 310 hasta, klinik faydanın
+kaybedilmesine kadar 3 (üç) haftada bir intravenöz infüzyon yoluyla 1200 mg atezolizumab ile
+tedavi edilmiştir. Kohort 2’nin primer analizi, tüm hastalar en az 24 hafta süreyle takip
+edildiğinde gerçekleştirilmiştir. Çalışma Kohort 2’deki ko-primer sonlanım noktalarını
+karşılamış; bu da önceden belirlenmiş %10'luk bir geçmiş kontrol yanıt oranı ile
+karşılaştırıldığında, IRF tarafından RECIST v1.1 kullanılarak değerlendirilen ve araştırmacı
+tarafından mRECIST kullanılarak değerlendirilen istatistiksel olarak anlamlı OYO’lar
+göstermiştir.
+50Kohort 2’de 21,1 aylık bir medyan sağkalım takip süresi ile de analiz gerçekleştirilmiştir. IRF
+RECIST v1.1’e göre doğrulanmış OYO’lar, PD-L1 ekspresyonu ≥%5 olan hastalarda %28
+(%95 GA: 19,5; 37,9), PD-L1 ekspresyonu ≥%1 olan hastalarda %19,3 (%95 GA: 14,2; 25,4)
+ve tüm katılanlarda %15,8 (%95 GA: 11,9; 20,4) olmuştur. Araştırmacı tarafından
+değerlendirilen mRECIST’e göre doğrulanmış OYO ise PD-L1 ekspresyonu ≥%5 olan
+hastalarda %29 (%95 GA: 20,4; 38,9), PD-L1 ekspresyonu ≥%1 olan hastalarda %23,7 (%95
+GA: 18,1; 30,1) ve tüm katılanlarda %19,7 (%95 GA: 15,4; 24,6) olmuştur. Tüm katılanlar
+popülasyonunda IRF RECIST v1.1’e göre tam yanıt oranı %6,1 (%95 GA: 3,7; 9,4) olmuştur.
+Kohort 2’de, herhangi bir PD-L1 ekspresyon alt grubunda veya tüm katılanlarda medyan YS'ye
+ulaşılmamış; ancak PD-L1 ekspresyonu <%1 olan hastalarda ulaşılmıştır (13,3 ay; %95 GA
+4,2; TE). 12. ayda GS oranı tüm katılanlarda %37 olmuştur.
+Kohort 2 final analizi zamanında hastaların medyan sağkalım takip süresi 46,2 aydır. Medyan
+GS, PD-L1 ekspresyonu ≥ %5 olan hastalarda GS 11,9 ay (%95 GA: 9 ; 22,8); PD-L1
+ekspresyonu ≥ %1 olan hastalarda 9 ay (%95 GA: 7,1 ; 11,1) ve tüm katılanlarda 7,9 ay (%95
+GA: 6,7 ; 9,3) olmuştur.
+ IMvigor130 (WO30070): Tedavi edilmemiş lokal ileri evre veya metastatik ürotelyal
+karsinomlu hastalarda monoterapi olarak ve platin bazlı kemoterapi ile kombinasyon
+halinde atezolizumabın değerlendirildiği faz III çalışma.
+Metastatik ortamda daha önce sistemik tedavi almamış, lokal ileri veya metastatik ürotelyal
+karsinomlu hastalarda atezolizumab + platin bazlı kombinasyon kemoterapisine (yani
+gemsitabin ile birlikte sisplatin veya karboplatin), A kolu veya veya atezolizumab
+monoterapisine (B Kolu, açık etiketli kol) karşı plasebo + platin bazlı kombinasyon
+kemoterapisinin (C Kolu) etkililiğini ve güvenliliğini değerlendirmek için faz III, çok merkezli,
+randomize, plasebo kontrollü, kısmi kör (yalnızca A Kolu ve C Kolu) bir çalışma olan
+IMvigor130 çalışması yürütülmüştür. Eş-birincil etkililik sonuçları, C Koluna karşı A Kolunda
+araştırmacı tarafından değerlendirilen progresyonsuz sağkalım (PFS) ve C Koluna karşı A
+Kolunda ve ardından, hiyerarşik bir şekilde analiz edilen, C koluna karşı B kolunda genel
+sağkalım (OS) olmuştur. Genel sağkalım, A Kolu ile C Kolunun karşılaştırılmasında
+istatistiksel olarak anlamlı olmamıştır ve bu nedenle, önceden tanımlanmış hiyerarşik test
+sırasına göre başka resmi test gerçekleştirilememiştir.
+Sağkalım verilerinin ilk aşamada gözden geçirilmesini takiben bağımsız bir Veri İzleme Kurulu
+(İDMC) tarafından verilen tavsiyeye dayanılarak, tümörlerinde PD-L1 ekspresyonu düşük olan
+(VENTANA PD-L1 [SP142] kiti kullanılarak immünohistokimya yoluyla bakıldığında immün
+hücrelerinin %5'inden azı PD-L1 için pozitif boyanmıştır) hastaların atezolizumab monoterapisi
+koluna eklenmesi, planlanmamış bir erken analizde bu alt grubun genel sağkalımında azalma
+gözlemlendikten sonra durdurulmuştur. Ancak bu durum, hastaların büyük çoğunluğu zaten
+kaydolduktan sonra meydana gelmiştir.
+Atezolizumabın monoterapi (n=360) ve yalnızca kemoterapi (n=359) kollarına kayıtlı 719
+hastadan sırasıyla 50 ve 43 hasta, Galsky kriterlerine göre sisplatin için uygun değildi ve yüksek
+PD-L1 ekspresyonu olan tümörlere sahipti (VENTANA PD-L1 [SP142] kiti kullanılarak
+immünohistokimya ile bakıldığında immün hücrelerinin ≥%5’i PD-L1 için pozitif boyanmıştır).
+Bu hasta alt grubundaki araştırma amaçlı bir analizde OS için sınıflandırılmamış HR 0,56 (%95
+GA: 0,34; 0,91) idi. Medyan OS, atezolizumab monoterapi kolunda 18,6 ay (%95 GA: 14,0;
+49,4) iken, yalnızca kemoterapi kolunda 10 ay (%95 GA: 7,4; 18,1) idi (bkz. Şekil 13).
+51Şekil 13 Tümörleri PD-L1 yüksek olan (B Kolu vs. C Kolu) hastalarda genel sağkalıma
+ait Kaplan-Meier eğrileri
+Tedavi Grubu
+)
+%
+(
+m
+alı
+k
+ğ
+a
+S
+el
+n Sınıflandırılmamış analiz
+Ge Risk Oranı 0,56
+%95 Alt CL 0,34
+%95 Üst CL 0,91
+Risk altındaki hasta sayısı Zaman (ay)
+Atezo mono
+plasebo + kemo
+CL: Güven Seviyesi
+Hepatoselüler kanser:
+ IMbrave150 (YO40245): Bevacizumab ile kombinasyon halinde, daha önce sistemik tedavi
+almamış rezeke edilemeyen hepatoselüler kanserli hastalarda randomize faz III çalışma
+Daha önce sistemik tedavi görmemiş lokal ileri veya metastatik evre ve/veya rezeke edilemeyen
+hepatoselüler kanserli hastalarda bevacizumab ile kombinasyon halinde atezolizumabın
+etkililiği ve güvenliliğini değerlendirmek üzere, faz III, randomize, çok merkezli, uluslararası,
+açık etiketli bir çalışma olan IMbrave150 yürütülmüştür. Toplamda 501 hasta (2:1) oranında ya
+intravenöz infüzyon ile her 3 haftada bir uygulanan atezolizumab (1200 mg) ve 15 mg/kg
+bevacizumaba ya da günde iki kez oral yolla uygulanan sorafenib 400 mg’a randomize
+edilmiştir. Randomizasyon coğrafi bölge (geri kalan dünya ülkelerine karşı Japonya hariç
+Asya), makrovasküler invazyon ve/veya ekstrahepatik yayılma (yoka karşı var), başlangıç ⍺-
+fetoprotein (AFP) (≥400 ng/mL’ye karşı <400 ng/mL) ve ECOG performans durumuna (1’e
+karşı 0) göre sınıflandırılmıştır. Her iki koldaki hastalar klinik fayda kaybına veya kabul
+edilemez toksisiteye kadar tedavi almıştır. Hastalar atezolizumab veya bevacizumabı bırakıp
+(örn. advers olaylardan dolayı) klinik fayda kaybı veya tekli ajan ile ilişkili kabul edilemez
+toksisiteye kadar tekli ajan tedavisine devam edebilmiştir.
+Çalışmaya hastalığı cerrahi ve/veya bölgesel tedavilere uygun olmayan veya cerrahi ve/veya
+bölgesel tedavilerden sonra ilerleyen Child-Pugh A, ECOG 0/1’e sahip ve daha önce sistemik
+tedavi almamış yetişkinler kaydedeilmiştir. Kanama (ölümcül olaylar dahil) bevacizumab ile
+bilinen bir advers reaksiyondur ve üst gastrointestinal kanama HSK’li hastalarda yaygın ve
+hayati risk taşıyan bir komplikasyondur. Bu nedenle, hastaların tedaviden önceki 6 ay içinde
+varis varlığı açısından değerlendirilmesi zorunlu tutulmuş ve tedaviden önceki 6 ay içinde
+varise bağlı kanama geçirmişlerse, kanama veya yüksek kanama riski olan tedavi edilmemiş ya
+da yeterince tedavi edilmemiş varisleri varsa çalışmadan hariç tutulmuştur. Aktif hepatit B’li
+hastalar için çalışma tedavisine başlamadan önce 28 gün içinde HBV DNA< 500 IU/mL ve
+çalışmaya dahil olmadan önce ve çalışma boyunca minimum 14 günlük standart anti-HBV
+tedavisi gerekli olmuştur.
+52Hastalar ayrıca, orta şiddette veya şiddetli asitleri; hepatik ensefalopati öyküleri, hepatik
+ensefalopati öyküsü, bilinen fibrolameller HSKsi, sarkomatoid HSK’si, mikst
+kolanjiokarsinomu ve HSK’si, HBV ve HCV'nin aktif koenfeksiyonu, otoimmün hastalık
+öyküleri varsa, randomizasyondan önceki 4 (dört) hafta içinde canlı, attenüe aşı uygulanmışsa;
+randomizasyondan önceki 4 (dört) hafta içinde sistemik immunostimulatör ajan veya 2 (iki)
+hafta içinde immunsupresif ilaçlar uygulanmışsa; tedavi edilmemiş veya kortikosteroide
+bağımlı beyin metastazları varsa da hariç tutulmuştur. Tümör değerlendirmeleri 1. (birinci)
+Döngü, 1. (birinci) Günden sonraki ilk 54 hafta boyunca her 6 (altı) haftada bir, ardından her 9
+(dokuz) haftada bir yürütülmüştür.
+Çalışma popülasyonunun demografik ve başlangıç hastalık özellikleri tedavi kolları arasında
+iyi dengelenmiştir. Medyan yaş 65 olup (aralık: 26 ila 88), hastaların %83’ü erkektir. Hastaların
+çoğu Asyalı (%57) ve beyazdır (%35). %40’ı Asya’dan (Japonya hariç), %60’ı geri kalan dünya
+ülkelerindendir. Hastaların yaklaşık %75’i makrovasküler invazyon ve/veya esktrahepatik
+yayılma ile başvururken, %37’sinde başlangıç AFP değeri ≥400 ng/mL’dir. Başlangıç ECOG
+performans durumu 0 (%62) veya 1 (bir)’dir (%38). HSK gelişimi açısından birincil risk
+faktörleri hastaların %48’inde Hepatit B virüsü enfeksiyonu, hastaların %22’sinde Hepatit C
+virüsü enfeksiyonu ve hastaların %31’inde viral olmayan hastalıktır. HSK, hastaların
+%82’sinde Barselona Kliniği Karaciğer Kanseri (BCLC) evre C, hastaların %16’sında evre B
+ve hastaların %3 (üç)’ünde evre A olarak sınıflandırılmıştır.
+Eş-primer etkililik sonlanım noktaları RECIST v1.1’e göre GS (genel sağkalım) ve bağımsız
+değerlendirme merkezi (IRF) tarafından değerlendirilen PS’dir (progresyonsuz sağkalım).
+Birincil analiz zamanında hastalar 8,6 aylık medyan sağkalım takibi süresine sahiptir. Veriler
+sorafenibe kıyasla atezolizumab + bevacizumab ile RECIST v1.1’e göre IRF tarafından
+değerlendirildiği üzere PS ve GS’de istatistiksel anlamlı bir iyileşme göstermiştir. İstatistiksel
+anlamlı bir iyileşme, ayrıca RECIST v1.1’e ve HSK değiştirilmiş RECIST’e (mRECIST) göre
+IRF tarafından doğrulanmış objektif yanıt oranında da (OYO) gözlenmiştir. Primer analize ait
+kritik etkililik bulguları Tablo 14’te özetlenmektedir.
+15,6 aylık ortanca sağkalım takip süresi ile tanımlayıcı bir güncellenmiş etkililik analizi
+yürütülmüştür. Medyan GS, atezolizumab + bevacizumab kolunda 19,2 ay (%95 GA: 17; 23,7)
+iken sorafenib kolunda 13,4 ay (%95 GA: 11,4, 16,9) olup risk oranı 0,66’dır (%95 GA: 0,52;
+0,85). RECIST v1.1 doğrultusunda IRF değerlendirmesine göre medyan progresyonsuz
+sağkalım, atezolizumab + bevacizumab kolunda 6,9 ay (%95 GA: 5,8; 8,6) iken sorafenib
+kolunda 4,3 ay (%95 GA: 4; 5,6) olup risk oranı değeri 0,65’tir (%95 GA: 0,53; 0,81).
+RECIST v1.1’e göre IRF ile değerlendirilen genel yanıt oranı, atezolizumab + bevacizumab
+kolunda %29,8 (%95 GA: 24,8; 35) iken sorafenib kolunda %11,3 (%95 GA: 6,9; 17,3)
+olmuştur. Doğrulanmış yanıt verenlerde RECIST v1.1 doğrultusunda IRF değerlendirmesine
+göre ortanca yanıt süresi (YS), atezolizumab + bevacizumab kolunda 18,1 aya (%95 GA: 14,6;
+tahmin edilemiyor (TE)) kıyasla sorafenib kolunda 14,9 ay bulunmuştur (%95 GA: 4,9; 17).
+Genel sağkalım (güncellenmiş analiz) ve progresyonsuz sağkalım (primer analiz) için Kaplan-
+Meier eğrileri Şekil 14 ve 15’te sunulmaktadır.
+Tablo 14: Etkililik özeti (IMbrave150 primer analiz)
+Kritik etkililik Atezolizumab+bevacizumab Sorafenib
+sonlanım noktası:
+GS n=336 n=165
+Ölüm sayısı (%) 96 (%28,6) 65 (%39,4)
+53Kritik etkililik Atezolizumab+bevacizumab Sorafenib
+sonlanım noktası:
+Olaya kadar geçen TE 13,2
+medyan süre (ay)
+%95 GA (TE; TE) (10,4; TE)
+Sınıflandırılmış risk 0,58 (0,42; 0,79)
+oranı‡
+p değeri1 0,0006
+6 aylık GS (%) %84,8 %72,3
+IRF tarafından n=336 n=165
+değerlendirilen PS,
+RECIST 1.1
+Olay sayısı (%) 197 (%58,6) 109 (%66,1)
+Medyan PS süresi 6,8 4,3
+(ay)
+%95 GA (5,8, 8,3) (4, 5,6)
+Sınıflandırılmış risk 0,59 (0,47; 0,76)
+oranı‡
+p değeri1 <0,0001
+6 aylık PS %54,5 %37,2
+IRF tarafından n=326 n=159
+değerlendirilen
+OYO, RECIST 1.1
+Doğrulanmış yanıt 89 (%27,3) 19 (%11,9)
+veren sayısı (%)
+%95 GA (22,5; 32,5) (7,4; 18)
+p-değeri1 <0,0001
+Tam yanıtların sayısı 18 (%5,5) 0
+(%)
+Kısmi yanıtların 71 (21,8) 19 (%11,9)
+sayısı (%)
+Stabil hastalık sayısı 151 (%46,3) 69 (43,4)
+(%)
+IRF ile n=89 n=19
+değerlendirilen YS,
+RECIST 1.1
+Ay cinsinden TE 6,3
+medyan
+%95 GA (TE; TE) (4,7; TE)
+Aralık (ay) (1,3+; 13,4+) (1,4+; 9,1+)
+IRF tarafından n=325 n=158
+değerlendirilen
+OYO, HSK
+mRECIST
+Doğrulanmış yanıt 108 (%33,2) 21 (%13,3)
+veren sayısı (%)
+%95 GA (28,1; 38,6) (8,4; 19,6)
+p-değeri2 <0,0001
+Tam yanıtların sayısı 33 (%10,2) 3 (%1,9)
+(%)
+54Kritik etkililik Atezolizumab+bevacizumab Sorafenib
+sonlanım noktası:
+Kısmi yanıtların 75 (%23,1) 18 (%11,4)
+sayısı (%)
+Stabil hastalık sayısı 127 (%39,1) 66 (%41,8)
+(%)
+IRF ile n=108 n=21
+değerlendirilen YS,
+HSK mRECIST
+Ay cinsinden TE 6,3
+medyan
+%95 GA (TE; TE) (4,9; TE)
+Aralık (ay) (1,3+; 13,4+) (1,4+; 9,1+)
+‡ Coğrafi bölgeye (geri kalan dünya ülkelerine karşı Japonya hariç Asya), makrovasküler
+invazyon ve/veya ekstrahepatik yayılma (yoka karşı var), başlangıç ⍺-fetoprotein (AFP)
+(≥400’e karşı <400 ng/mL) göre sınıflandırılmıştır
+1 İki taraflı sınıflandırılmış log-sıra testi temelinde
+2 İki taraflı Cochran-Mantel-Haenszel testi temelinde
++ Sansürlü bir değeri gösterir
+PS = progresyonsuz sağkalım; RECIST = Solid Tümörlerde Yanıt Değerlendirme Kriterleri
+v1.1; CC mRECIST = Hepatoselüler Karsinom İçin Değiştirilmiş RECIST
+Değerlendirmesi; GA = güven aralığı; OYO = objektif yanıt oranı; YS = yanıt süresi; GS
+= genel sağkalım; TE = Tahmin edilemiyor; N/A=geçerli değildir
+Şekil 14: ITT popülasyonunda genel sağkalım için Kaplan-Meier eğrisi (IMbrave150
+güncellenmiş analiz)
+Medyan %95 GA
+Sorafenib 13,4 (11,4; 16,9)
+Atezo + Bev 19,2 (17,0; 23,7)
+Hasar Oranı %95 GA 0,66 (0,52;0,85)
+Risk oranı katmanlaştırılmış analizden alınmıştır. Katmanlaştırma faktörleri coğrafi bölgeyi (Japonya hariç Asya’ya karşı
+dünyanın geri kalan bölgeleri), makrovaksüler invazyon ve/veya ekstrahepatik yayılım (varlığına karşı yokluk) ve IxRS
+taraması başına AFP (<400’e karşı ≥400 ng/mL) içermektedir.
+55Şekil 15: ITT popülasyonunda RECIST v1.1’e göre IRF-PS için Kaplan-Meier eğrisi
+(IMbrave150 primer analiz)
+Risk oranı katmanlaştırılmış analizden alınmıştır. Katmanlaştırma faktörleri coğrafi bölgeyi (Japonya hariç Asya’ya karşı
+dünyanın geri kalan bölgeleri), makrovaksüler invazyon ve/veya ekstrahepatik yayılım (varlığına karşı yokluk) ve IxRS
+taraması başına AFP (<400’e karşı ≥400 ng/mL) içermektedir.
+Pediyatrik popülasyon:
+Atezolizumabın güvenlilik ve farmakokinetiğini değerlendirmek için relaps veya progresif
+solid tümörlü ve Hodgkin ile non-Hodgkin lenfomalı pediyatrik (<18 yaş, n= 69) ve genç
+erişkin (18-30 yaş, n=18) hastalarda bir erken faz, çok merkezli, açık etiketli çalışma yapılmıştır.
+Hastalar 3 haftada 1 kez 15 mg/kg vücut ağırlığı intravenöz atezolizumab ile tedavi edilmiştir
+(bkz. Bölüm 5.2).
+Geriyatrik hastalarda etkililik:
+Atezolizumab monoterapisi alan > 65 yaş hastalar ve daha genç hastalar arasında etkililikte
+genel bir farklılık gözlenmemiştir.
+Impower150, IMpower133 ve IMpower110 çalışmalarından elde edilen veriler, 75 yaş ve üzeri
+hasta grubu hakkında değerlendirme yapılması için çok sınırlıdır.
+5.2. Farmakokinetik özellikler
+Genel özellikler
+Atezolizumaba maruziyet 1 (bir) mg/kg vücut ağırlığı - 20 mg/kg vücut ağırlığı doz aralığında
+3 (üç) haftada bir uygulanan sabit doz 1200 mg doz ile orantılı olarak artmıştır. 472 hastayı
+içeren bir popülasyon analizi, aşağıdaki doz aralığı için atezolizumab farmakokinetiğini
+açıklamıştır: Birinci derece eliminasyonla bir doğrusal iki bölmeli dağılım modeli ile 1 - 20
+mg/kg vücut ağırlığı. Bir popülasyon farmakokinetik analizi, 6 (altı)-9 (dokuz) hafta tekrarlı
+dozlamadan sonra kararlı durumun elde edildiğini öne sürmektedir. Eğri altındaki alanda,
+maksimum konsantrasyon ve en düşük konsantrasyonda sistemik birikim sırasıyla 1,91; 1,46
+ve 2,75 kat olmuştur.
+56Emilim:
+Atezolizumab intravenöz infüzyon şeklinde uygulanır.
+Dağılım:
+Popülasyon farmakokinetik analizi, bir hastada merkezi kompartman dağılım hacminin 3,28 L
+ve kararlı durumunda hacmin 6,91 L olduğunu göstermektedir.
+Biyotransformasyon:
+Atezolizumabın metabolizması doğrudan araştırılmamıştır. Antikor klerensi esas olarak
+katabolizmayla gerçekleşir.
+Eliminasyon:
+Popülasyon farmakokinetik analizi, atezolizumabın klerensinin 0,2 L/gün ve tipik terminal
+eliminasyon yarı ömrünün 27 gün olduğunu göstermektedir.
+Özel popülasyonlara ilişkin ek bilgiler:
+Popülasyon farmakokinetiği ve maruziyet-yanıt analizlerine göre aşağıdaki faktörlerin
+atezolizumabın farmakokinetiği üzerinde bir etkisi yoktur: yaş, (21-89 yaş), bölge, etnik köken,
+böbrek bozukluğu, hafif karaciğer bozukluğu, PD-L1 ekspresyonu düzeyi veya ECOG durumu.
+Vücut ağırlığı, cinsiyet, pozitif ADA durumu, albümin seviyeleri ve tümör yükünün
+atezolizumab farmakokinetiği üzerindeki etkisi istatistiki olarak anlamlı ancak klinik olarak
+anlamlı değildir. Doz ayarlanması önerilmemektedir.
+Pediyatrik popülasyon:
+Pediyatrik (<18 yaş, n= 69) ve genç erişkin (18-30 yaş, n=18) hastalarda yapılan bir erken faz,
+çok merkezli, açık etiketli çalışmadan elde edilen farmakokinetik sonuçlar, atezolizumab
+klerensi ve dağılım hacminin, normal vücut ağırlığında her 3 (üç) hafta 15 mg/kg vücut ağırlığı
+alan pediyatrik hastalar ve 1200 mg atezolizumab alan genç erişkin hastalar arasında
+karşılaştırılabilir olduğunu göstermiştir. Maruziyetin ise, vücut ağırlığı düştükçe pediyatrik
+hastalarda arttığı gözlenmiştir. Bu değişiklikler, atezolizumab konsantrasyonunun terapötik
+hedef maruziyetinin altına düşmesi ile bağlantılı değildir. 2 yaş altındaki çocuklar için veriler
+sınırlıdır, bu nedenle kesin sonuçlara varılamamaktadır.
+Geriyatrik popülasyon:
+Yaşlı hastalarda TECENTRIQ için özel bir çalışma yapılmamıştır. Yaşın atezolizumabın
+farmakokinetiği üzerindeki etkisi bir popülasyon farmakokinetik analizinde değerlendirilmiştir.
+Yaş, 21-89 yaş aralığındaki (n=472) ve medyan 62 yaşındaki hastalar temel alındığında,
+atezolizumabın farmakokinetiğini etkileyen önemli bir kovaryant olarak tanımlanmamıştır. <65
+yaşındaki (n=274), 65-75 yaşındaki (n=152) ve >75 yaşındaki (n=46) hastalarda
+atezolizumabın farmakokinetiğinde klinik açıdan anlamlı bir fark gözlenmemiştir (bkz. Bölüm
+4.2).
+Böbrek yetmezliği:
+57Böbrek bozukluğu olan hastalarda TECENTRIQ için özel bir çalışma yapılmamıştır.
+Popülasyon farmakokinetik analizinde, böbrek fonksiyonu normal (90 mL/dk/1,73 m2 veya
+üzeri eGFR; n=140) olan hastalarla karşılaştırıldığında, hafif (60 - 89 mL/dk/1,73 m2 eGFR;
+n=208) veya orta şiddetli (30 - 59 mL/dk/1,73 m2 eGFR; n=116) böbrek bozukluğu olan
+hastalarda atezolizumabın klerensinde klinik açıdan önemli farklar bulunmamıştır. Yalnızca
+birkaç hastada şiddetli böbrek bozukluğu vardır (eGFR 15 - 29 mL/dk/1,73 m2; n=8) (bkz.
+Bölüm 4.2). Şiddetli böbrek yetmezliğinin atezolizumabın farmakokinetiği üzerindeki etkisi
+bilinmemektedir.
+Karaciğer yetmezliği:
+Karaciğer bozukluğu olan hastalarda TECENTRIQ için özel bir çalışma yapılmamıştır.
+Popülasyon farmakokinetik analizinde hafif karaciğer bozukluğu (bilirubin ≤NÜS ve
+AST>NÜS veya bilirubin <1 – 1,5 x NÜS ve herhangi bir AST) veya orta düzeyde karaciğer
+bozukluğu (bilirubin <1,5 – 3 x NÜS ve herhangi bir AST) olan hastalarda normal karaciğer
+fonksiyonu (bilirubin ve AST ≤NÜS) olan hastalara kıyasla atezolizumabın klerensi
+bakımından klinik olarak önemli farklar bulunmamıştır. Şiddetli karaciğer bozukluğu olan
+hastalara ilişkin veri mevcut değildir (bilirubin > 3 x NÜS ve herhangi bir AST). Karaciğer
+bozukluğu, Ulusal Kanser Enstitüsü (NCI) karaciğer fonksiyon bozukluğu kriterlerine göre
+tanımlanmıştır (bkz. Bölüm 4.2). Şiddetli karaciğer yetmezliğinin (bilirubin > 3 x NÜS ve
+herhangi bir AST) atezolizumabın farmakokinetiği üzerindeki etkisi bilinmemektedir.
+5.3. Klinik öncesi güvenlilik verileri
+Karsinojenisite:
+TECENTRIQ'in karsinojenik potansiyelini belirlemek için karsinojenisite çalışması
+yapılmamıştır.
+Mutajenisite:
+TECENTRIQ'in mutajenik potansiyelini belirlemek için mutajenisite çalışması yapılmamıştır.
+Bununla birlikte, monoklonal antikorların DNA veya kromozomları değiştirmesi
+beklenmemektedir.
+Fertilite:
+TECENTRIQ ile herhangi bir fertilite çalışması yapılmamıştır. Bununla birlikte, kronik
+toksisite çalışmasına sinomolgus maymunlarında erkek ve dişi üreme organlarının
+değerlendirilmesi dahil edilmiştir. Atezolizumabın dişi maymunlara tahmini EAA’da
+uygulanması (önerilen dozu alan hastalardaki EAA’nın yaklaşık 6 katı), geri dönüşümlü olarak
+düzensiz adet döngüsü paternine ve yumurtalıklarda yeni oluşturulmuş korpus lutea eksikliğine
+neden olmuştur. Erkek üreme organları üzerinde herhangi bir etki olmamıştır.
+Teratojenisite:
+TECENTRIQ ile hayvanlarda üreme veya teratojenisite çalışmaları yapılmamıştır. Hayvan
+çalışmaları, PD-L1/PD-1 yolağının inhibisyonunun büyümekte olan fetüsün reddi riskinde
+immünite ile ilişkili artışa ve böylelikle fetal ölüme yol açabileceğini ortaya koymuştur.
+TECENTRIQ uygulamasının gebelik üzerinde advers bir reaksiyona yol açması beklenir ve
+58embriyo-fetal letalitesi de dahil olmak üzere insan fetüsü için bir risk oluşturur.
+6. FARMASÖTİK ÖZELLİKLER
+6.1. Yardımcı maddelerin listesi
+L-histidin
+Glasiyal asetik asit
+Sükroz
+Polisorbat 20
+Enjeksiyonluk su
+6.2. Geçimsizlikler
+Geçimsizlik çalışması yapılmadığından, bu tıbbi ürün, Bölüm 6.6'da sözü edilenler dışında
+başka tıbbi ürünlerle karıştırılmamalıdır.
+6.3. Raf ömrü
+Açılmamış flakon: 36 ay
+Seyreltilmiş çözelti: Hazırlama zamanından sonra ortam sıcaklığında (≤30°C) 24 saat ve 2-
+8°C'de 30 güne kadar kullanımdaki kimyasal ve fiziksel stabilite gösterilmiştir.
+Mikrobiyolojik açıdan, hazırlanan infüzyonluk çözelti hemen kullanılmalıdır. Hemen
+kullanılmazsa, kullanım sırasındaki saklama süreleri ve kullanım öncesi koşullar kullanıcının
+sorumluluğundadır ve normalde, seyreltme kontrollü ve valide aseptik koşullarda yapılmadığı
+sürece, 2-8°C'de 24 saatten fazla veya ortam sıcaklığında (≤25°C) 8 saatten fazla olmamalıdır.
+6.4. Saklamaya yönelik özel tedbirler
+Buzdolabında saklayınız (2°C-8°C).
+Işıktan korumak için flakonu karton kutusunda saklayınız.
+Dondurmayınız. Çalkalamayınız.
+Tıbbi ürünün seyreltme sonrasında saklama koşulları için bkz. Bölüm 6.3.
+6.5. Ambalajın niteliği ve içeriği
+20 mL infüzyonluk konsantre çözelti içeren tapalı (butil kauçuk) flakon (Tip I cam).
+Bir flakonluk paket.
+6.6. Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+TECENTRIQ herhangi bir antimikrobiyal koruyucu veya bakteriyostatik ajan içermemektedir
+ve hazırlanan çözeltinin steril olmasını sağlamak için bir sağlık mesleği mensubu tarafından
+aseptik teknik ile hazırlanmalıdır.
+59Aseptik hazırlama, taşıma ve saklama
+İnfüzyonun hazırlanması sırasında aseptik temas sağlanmalıdır. Hazırlama işlemi:
+ Eğitilmiş personel tarafından aseptik koşullar altında, özellikle de parenteral ürünlerin
+aseptik hazırlanmasına ilişkin iyi uygulama kuralları doğrultusunda yapılmalıdır.
+ İntravenöz ajanların güvenli teması için standart önlemleri kullanarak laminer hava
+akımı veya biyolojik güvenlik kabininde hazırlanmalıdır.
+ Aseptik koşulların idamesini sağlamak için hazırlanan intravenöz infüzyon çözeltisine
+uygun saklama işlemi ile devam etmelidir.
+Çalkalamayınız.
+Seyreltme talimatları:
+20 mL TECENTRIQ konsantresi flakondan çekilmeli ve içinde sodyum klorür 9 mg/mL (%
+0,9) enjeksiyonluk çözelti bulunan bir PVC, polietilen (PE) veya poliolefin infüzyon torbası
+içine seyreltilmelidir. Seyreltmeden sonra çözeltinin final konsantrasyonu 3,2 ila 16,8 mg/mL
+olmalıdır.
+Torba, köpük oluşumuna izin vermeden çözeltiyi karıştırmak için yavaşça alt üst edilmelidir.
+İnfüzyon hazırlandığında hemen uygulanmalıdır (bkz. Bölüm 6.3).
+Parenteral tıbbi ürünler uygulanmadan önce partiküller ve renk değişimi açısından çıplak gözle
+incelenmelidir. Partiküller veya renk değişimi gözlenirse çözelti kullanılmamalıdır.
+TECENTRIQ ile ürüne temas eden polivinil klorür (PVC), polietilen (PE) veya poliolefin (PO)
+yüzeyleri olan intravenöz torbalar arasında geçimsizlik gözlenmemiştir. İlave olarak,
+polietersülfon veya polisülfon içeren düz eksenli filtre membranları ve infüzyon setleri ile PVC,
+PE, polibutadien veya polieterüretan içeren diğer infüzyon yardımcıları ile de geçimsizlik
+gözlenmemiştir. Düz eksenli filtre membranlarının kullanılması seçime bağlıdır.
+Diğer ilaçları aynı infüzyon hattında birlikte uygulamayınız.
+Kullanılmamış/son kullanma tarihi geçmiş ilaçların imhası:
+Tıbbi ürünlerinin çevreye salınması en aza indirilmelidir. İlaçlar, atık suyla birlikte
+atılmamalıdır ve evsel atıklarla imhasından kaçınılmalıdır.
+Kullanılmamış olan ürünler ya da atık materyaller, “Tıbbi Atıkların Kontrolü Yönetmeliği’’ ve
+“Ambalaj Atıklarının Kontrolü Yönetmeliği”ne uygun olarak imha edilmelidir.
+7. RUHSAT SAHİBİ
+Roche Müstahzarları Sanayi Anonim Şirketi
+Uniq İstanbul, Ayazağa Cad. No:4, D/101
+Maslak 34396, Sarıyer- İstanbul
+8. RUHSAT NUMARASI(LARI)
+2018/316
+609. İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi: 14.06.2018
+Ruhsat yenileme tarihi: 25.04.2023
+10. KÜB’ÜN YENİLENME TARİHİ
+--.--.----
+61

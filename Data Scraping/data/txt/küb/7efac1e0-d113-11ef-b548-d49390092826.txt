@@ -1,0 +1,658 @@
+KISA ÜRÜN BİLGİSİ
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+TYKERB 250 mg Film Kaplı Tablet
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde:
+Lapatinib 250 mg
+(Her film kaplı tablet 250 mg lapatinibe eşdeğer 405 mg lapatinib ditosilat monohidrat içerir)
+Yardımcı maddeler:
+Yardımcı maddeler için bölüm 6.1’e bakınız.
+3. FARMASÖTİK FORM
+Film Kaplı Tablet.
+Bir tarafında GS XJG baskısı bulunan, oval, bikonveks sarı renkli, film kaplı tabletler.
+4. KLİNİK ÖZELLİKLER
+4.1 Terapötik endikasyonlar
+TYKERB’in, daha önce antrasiklin, taksan ve trastuzumab ile tedavi görmüş ve halen
+progresyon gösteren, c-erb B2 immünohistokimya testi sonucu 3+ veya FISH + olan metastatik
+meme kanserli hastaların tedavisinde kapesitabin ile kombine olarak kullanımı endikedir.
+4.2 Pozoloji ve uygulama şekli
+Pozoloji:
+TYKERB, kapesitabinle kombine edilerek alınır.
+Önerilen TYKERB dozu, aralıksız olarak günde birer kez 1250 mg’dır (5 tablet).
+Önerilen kapesitabin dozu, 21 günlük siklüsün 1 – 14. günleri boyunca, 12 saatlik aralarla 2
+dozda alınan günde 2000 mg/m2’dir (bkz. Bölüm 5.1). Kapesitabin, yemek sırasında ya da
+yemekten sonraki 30 dakika içinde alınmalıdır.
+Unutulan dozların yerine başka doz alınmamalı ve tedaviye ertesi gün için planlanan doz
+alınarak devam edilmelidir (bkz. Bölüm 4.9).
+Kapesitabinin herhangi bir doz değişikliği, kontrendikasyon ve güvenlilik bilgisi dahil
+pozolojisine ilişkin önemli bilgiler için kendi Kısa Ürün Bilgisine başvurulmalıdır.
+Uygulama sıklığı ve süresi:
+Doz ertelenmesi ve doz azaltılması
+Kardiyak olaylar
+NCI CTCAE’ye (National Cancer Institute Common Terminology Criteria for Adverse Events)
+göre derecesi 3 veya daha büyük olacak şekilde sol ventrikül ejeksiyon fraksiyonu (LVEF)
+azalması ile ilgili belirtileri olan hastalarda veya LVEF düşüşünün normal alt sınırın altına
+inmesi ile ilişkili belirtileri olan hastalarda TYKERB tedavisi durdurulmalıdır (bkz. Bölüm 4.4).
+Aradan en az 2 hafta geçtikten sonra LVEF normale dönerse ve belirtiler ortadan kalkarsa
+TYKERB tedavisine daha düşük dozla (günde 1250 mg’dan 1000 mg’a azaltılmış) tekrar
+başlanabilir.
+İnterstisyel akciğer hastalığı/pnömoni
+1NCI CTCAE’ye göre derecesi 3 veya daha yüksek interstisyel akciğer hastalığı/pnömoniyi işaret
+eden pulmoner belirtisi olan hastalarda, TYKERB tedavisine devam edilmemelidir (bkz. Bölüm
+4.4).
+Diyare
+Lapatinib tedavisi NCI CTCAE derece 3 ya da komplikasyonlu (orta-şiddetli abdominal
+kramplar, NCI CTCAE ≥ derece 2 bulantı ya da kusma, performans durumunda azalma, ateş,
+sepsis, nötropeni, açık kanama ya da dehidratasyon) derece 1 ya da 2 diyaresi olan hastalarda
+kesilmelidir (bkz. Bölüm 4.4 ve 4.8). Diyare derece ≤ 1 olduğunda lapatinib daha düşük dozda
+(günde 1000 mg yerine 750 mg; günde 1250 mg yerine 1000 mg; günde 1500 mg yerine 1250
+mg) yeniden başlanabilir. Lapatinib tedavisi NCI CTCAE derece 4 diyaresi olan hastalarda
+kalıcı olarak kesilmelidir.
+Diğer toksisiteler
+Hastada NCI CTCAE’ye göre derece 2 veya daha yüksek toksisite geliştiğinde, TYKERB
+tedavisinin durdurulması veya tedaviye ara verilmesi düşünülebilir. Toksisite derece 1’e
+indiğinde veya daha azaldığında tedaviye günde 1250 mg’lık standart dozla tekrar başlanabilir.
+Toksisite tekrar oluşursa, TYKERB tedavisine daha düşük dozla tekrar (günde 1250 mg’dan
+1000 mg’a azaltılmış) başlanmalıdır.
+Uygulama şekli:
+TYKERB tedavisine yalnızca, anti kanser ilaçlarının uygulanmasında deneyimli bir hekim
+tarafından başlanmalıdır.
+TYKERB, oral kullanım içindir.
+Günlük TYKERB dozu bölünerek alınmamalıdır. TYKERB, yemekten en az 1 saat önce veya en
+az bir saat sonra alınmalıdır. Hastadaki değişkenliği en aza indirmek için, TYKERB uygulaması,
+örneğin her zaman yemekten bir saat önce alınacak şekilde, gıda alımına göre
+standartlaştırılmalıdır (Emilim bilgileri için bkz. Bölüm 4.5 ve 5.2)
+Unutulan dozların yerine başka doz alınmamalı ve tedaviye bir sonraki planlı günlük doz ile
+devam edilmelidir (bkz. Bölüm 4.9).
+Kapesitabinin herhangi bir doz değişikliği, kontrendikasyon ve güvenlilik bilgisi dahil
+pozolojisine ilişkin önemli bilgiler için kendi Kısa Ürün Bilgisine başvurulmalıdır.
+Özel popülasyonlara ilişkin ek bilgiler:
+Böbrek/ Karaciğer yetmezliği:
+Hafif ve orta derecede böbrek yetmezliği olan hastalarda doz ayarlaması gerekli değildir. Bu
+popülasyonda TYKERB deneyimi olmadığından ciddi böbrek yetmezliği olan hastalarda dikkatli
+olunması önerilir (bkz. Bölüm 5.2).
+Karaciğer fonksiyonundaki değişiklikler şiddetliyse TYKERB kesilmelidir ve hastalar tekrar
+tedavi edilmemelidir (bkz. Bölüm 4.4). Artan ilaç maruziyeti nedeniyle TYKERB, karaciğer
+yetmezliği olan hastalarda dikkatli uygulanmalıdır. Karaciğer yetmezliği olan hastalarda doz
+ayarlaması önerisi yapmak için yeterli veri mevcut değildir (bkz. Bölüm 5.2)
+Pediyatrik popülasyon:
+18 yaşın altındaki çocuklarda TYKERB’ün güvenlilik ve etkililiği henüz belirlenmemiştir. Veri
+bulunmamaktadır.
+Geriyatrik popülasyon:
+65 yaş ve üzeri hastalarda TYKERB/ kapesitabin kullanımıyla ilgili veriler sınırlıdır.
+24.3 Kontrendikasyonlar
+TYKERB, lapatinib veya ilacın bileşenlerinden herhangi birine aşırı duyarlılığı olanlarda
+kontrendikedir (bkz. Bölüm 4.8).
+TYKERB’in kapesitabin ile kombine edilerek kullanıldığı durumlarda görülebilecek
+kontrendikasyon ve güvenlilik bilgileri için lütfen kapesitabinin Kısa Ürün Bilgisine bakınız.
+4.4 Özel kullanım uyarıları ve önlemleri
+Veriler, kemoterapi ile kombinasyon halinde verilen TYKERB’in, kemoterapi ile kombinasyon
+halinde verilen trastuzumabdan daha az etkili olduğunu göstermiştir.
+Kardiyak toksisite
+Lapatinib, LVEF düşüşleri bildirimleri ile ilişkilendirilmiştir (bkz. Bölüm 4.8). Lapatinib,
+semptomatik kalp yetmezliği olan hastalarda henüz değerlendirilmemiştir. Eğer TYKERB, sol
+ventrikül fonksiyonunu bozabilecek durumların (potansiyel kardiyotoksik tıbbi ürünlerin bir
+arada uygulanması dahil) söz konusu olduğu hastalara uygulanacaksa dikkatli olunmalıdır.
+Hastanın tedavi başlangıcındaki LVEF değerinin normal sınırlar dahilinde olduğundan emin
+olmak için TYKERB ile tedavi başlamadan önce tüm hastalarda LVEF dahil kalp fonksiyonu
+değerlendirmesi gerçekleştirilmelidir.
+LVEF değerinin kabul edilemez bir düzeye düşmediğinden emin olmak için TYKERB tedavisi
+süresince LVEF’in değerlendirmesine devam edilmelidir (bkz. Bölüm 4.2). Bazı olgularda
+LVEF düşüşü şiddetli olabilir ve kalp yetmezliğine yol açabilir. Ölümle sonuçlanan vakalar
+bildirilmiştir fakat ölümlerin nedensellik bağlantısı kesin değildir. Lapatinib klinik geliştirme
+programına dahil çalışmalarda LVEF düşüşlerini de içeren kardiyak olaylar hastaların yaklaşık
+%1’inde bildirilmiştir. Semptomatik LVEF düşüşleri, lapatinib alan hastaların yaklaşık
+%0,3’ünde gözlenmiştir. Diğer yandan pivot çalışmada, lapatinib metastatik hastalıkta
+trastuzumab ile kombinasyon halinde uygulandığında (%7), tek başına lapatinib kolu karşısında
+(%2) LVEF düşüşleri dahil kardiyak olayların insidansı daha yüksek olmuştur. Bu çalışmada
+gözlenen kardiyak olaylar yapı ve şiddet bakımından lapatinib ile önceden gözlenen olaylar ile
+benzer bulunmuştur.
+İleri evre solid tümörleri olan gönüllülerde özel bir plasebo kontrollü çapraz geçiş çalışmasında
+konsantrasyona bağımlı QTc aralığı artışı gösterilmiştir.
+TYKERB QTc uzaması ile sonuçlanabilecek rahatsızlıkları (hipokalemi, hipomagnezemi,
+konjenital uzun QT sendromu dahil) olan, QT uzamasına neden olduğu bilinen diğer tıbbi
+ürünlerin birlikte uygulandığı veya güçlü CYP3A4 inhibitörlerinin birlikte uygulanması gibi
+lapatinibe maruziyeti artıran rahatsızlıkları olan hastalara uygulanırsa dikkat gösterilmelidir.
+Hipokalemi veya hipomagnezemi tedavi öncesinde düzeltilmelidir. TYKERB tedavisi
+başlatılmadan önce ve başlatıldıktan bir ila iki hafta sonra QT ölçümü yapılan
+elektrokardiyogramlar çekilmelidir. Klinik açıdan gerekli olduğunda, örneğin, QT’yi
+etkileyebilecek ya da lapatinib ile etkileşime girebilecek eşzamanlı tedavinin başlatılmasından
+sonra da EKG ölçümü düşünülmelidir.
+İnterstisyel akciğer hastalığı ve pnömoni
+Lapatinib, interstisyel akciğer hastalığı ve pnömoni dahil pulmoner toksisite bildirimleri ile
+ilişkilendirilmiştir (bkz. Bölüm 4.8). Hastalar pulmoner toksisite belirtileri (dispne, öksürük,
+ateş) açısından izlenmeli ve NCI CTCAE derece 3 veya üzeri semptomlar yaşayan hastalarda
+tedavi kesilmelidir. Pulmoner toksisite şiddetli olabilir ve solunum yetmezliğine yol açabilir.
+Ölümle sonuçlanan vakalar bildirilmiştir fakat ölümlerin nedensellik bağlantısı kesin değildir.
+Hepatotoksisite
+TYKERB kullanımı ile hepatotoksisite görülmüştür ve nadir durumlarda ölümcül olabilir.
+Hepatotoksisite, tedavi başlandıktan sonraki günler ila aylar içinde görülebilir. Tedaviye
+3başlanırken hastalara hepatotoksisite potansiyeli konusunda bilgi verilmelidir. Tedavi
+başlatılmadan önce ve sonrasında ayda bir ya da klinik durum gerektirdikçe karaciğer
+fonksiyonu (transaminazlar, bilirubin ve alkalin fosfataz) izlenmelidir. Eğer karaciğer
+fonksiyonundaki değişiklikler şiddetli ise TYKERB uygulaması sonlandırılmalıdır ve bu
+hastalara tekrar tedavi uygulanmamalıdır. DQA1*02:01 ve DRB1*07:01 HLA alellerini taşıyan
+hastalarda TYKERB ile ilişkili hepatotoksisite riski daha yüksektir. TYKERB monoterapisine
+yönelik büyük, randomize bir klinik çalışmada (n=1194), tedavinin 1. yılında ağır karaciğer
+hasarının (ALT değeri normalin üst sınırının >5 katı, NCI CTCAE derece 3) kümülatif sıklığı
+toplamda %2,8 olmuştur. DQA1*02:01 ve DRB1*07:01 alel taşıyıcılarında kümülatif sıklık
+%10,3 ve bu alelleri taşımayan kişilerde %0,5 bulunmuştur. HLA risk alelleri taşıyıcılığı Beyaz,
+Asyalı, Afrikalı ve Hispanik popülasyonlarda yaygın (%15-%25), Japon popülasyonlarda ise
+daha düşüktür (%1).
+TYKERB, orta şiddetli veya ağır karaciğer bozukluğu olan hastalara ve ağır böbrek bozukluğu
+olan hastalara reçete ediliyorsa dikkatli olunmalıdır (bkz. Bölüm 4.2 ve 5.2).
+İshal
+TYKERB tedavisi ile şiddetli ishal dahil ishal bildirilmiştir (bkz. Bölüm 4.8). Dehidratasyon,
+böbrek yetmezliği, nötropeni ve/veya elektrolit dengesizlikleri eşlik ettiği takdirde ishal yaşamı
+tehdit edici potansiyele sahip olabilir ve ölümle sonuçlanan vakalar bildirilmiştir. İshal genellikle
+TYKERB tedavisinin başlarında görülür, ishali olan hastaların neredeyse yarısı ishali ilk 6 gün
+içinde yaşar. Bu durum genellikle 4-5 gün sürer. TYKERB kaynaklı ishal genellikle düşük
+derecelidir, NCI CTCAE derece 3 ve 4 ishal hastaların sırasıyla <%10 ve <%1’inde görülür.
+Tedavi sırasındaki değişikliklerin saptanmasına olanak tanımak ve ishal bakımından riski daha
+yüksek hastaların belirlenebilmesine yardımcı olmak için tedavinin başlangıcında hastaların
+bağırsak paterni ve diğer her tür semptom (örn. ateş, kramplı ağrı, bulantı, kusma, sersemlik ve
+susuzluk) tespit edilmelidir. Hastalara, bağırsak paternlerindeki herhangi bir değişikliği vakit
+geçirmeden bildirmeleri söylenmelidir. Şiddetli olma potansiyeli bulunan ishal vakalarında
+nötrofil sayımlarının ve vücut ısısının ölçülmesi düşünülmelidir. Anti-diyare tıbbi ürünleri ile
+ishalin proaktif kontrolü önemlidir. Ağır ishal vakaları oral veya intravenöz elektrolitlerin ve
+sıvıların uygulanmasını, florokinolonlar gibi antibiyotiklerin kullanımını (özellikle ishal 24
+saatten fazla sürerse, ateş veya derece 3 veya 4 nötropeni varsa) ve TYKERB tedavisine ara veya
+son verilmesini gerektirebilir (bkz. Bölüm 4.2 -Doz ertelenmesi ve doz azaltılması-Diyare).
+Ciddi kutanöz reaksiyonlar
+TYKERB ile ciddi kutanöz reaksiyonlar bildirilmiştir. Eğer eritema multiforme veya Stevens-
+Johnson sendromu ya da toksik epidermal nekroliz (örn. sıklıkla kabarcıkların ve mukozal
+lezyonların eşlik ettiği progresif deri döküntüsü) gibi yaşamı tehdit edici reaksiyonlardan şüphe
+ediliyorsa, TYKERB ile tedavi kesilir.
+CYP3A4 inhibitörleri veya indükleyicileri ile eşzamanlı tedavi
+Lapatinib maruziyetinde azalma riski nedeniyle CYP3A4 indükleyicileri ile eşzamanlı tedaviden
+kaçınılmalıdır (bkz. Bölüm 4.5).
+Lapatinib maruziyetinde artış riski nedeniyle CYP3A4’ün güçlü inhibitörleri ile eşzamanlı
+tedaviden kaçınılmalıdır (bkz. Bölüm 4.5).
+TYKERB ile tedavi sırasında greyfurt suyundan kaçınılmalıdır (bkz. Bölüm 4.5).
+TYKERB’in dar terapötik pencereye sahip olup CYP3A4 ve/veya CYP2C8 substratları olan ve
+oral uygulanan tıbbi ürünlerle bir arada uygulanmasından kaçınılmalıdır (bkz. Bölüm 4.5).
+Lapatinibin çözünürlüğü ve emilimi azalabileceğinden, gastrik pH değerini artırdığı bilinen
+maddeler ile eşzamanlı tedaviden kaçınılmalıdır (bkz. Bölüm 4.5).
+TYKERB, sodyum içerir.
+4TYKERB, tablet başına 1 mmol'den (23 mg) daha az sodyum içerir, yani esasında "sodyum
+içermez".
+4.5 Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+Diğer tıbbi ürünlerin lapatinib üzerindeki etkisi
+Lapatinib ağırlıklı olarak CYP3A tarafından metabolize edilir (bkz. Bölüm 5.2).
+Güçlü bir CYP3A4 inhibitörü olan ketokonazol ile 7 gün süreyle 200 mg dozunda tedavi edilen
+sağlıklı gönüllülerde lapatinibe (100 mg/gün) sistemik maruziyet yaklaşık 3,6 kat artmış ve
+yarılanma ömrü 1,7 kat artmıştır. TYKERB’in güçlü CYP3A4 inhibitörleri (örn. ritonavir,
+sakuinavir, telitromisin, ketokonazol, itrakonazol, vorikonazol, posakonazol, nefazodon) ile bir
+arada uygulanmasından kaçınılmalıdır. TYKERB’in orta dereceli CYP3A4 inhibitörleri ile bir
+arada uygulanması dikkatle yapılmalıdır ve klinik advers reaksiyonlar dikkatle izlenmelidir.
+Bir CYP3A4 indükleyicisi olan karbamazepini 3 gün süreyle günde iki kez 100 mg ve 17 gün
+süreyle günde iki kez 200 mg dozlarında alan sağlıklı gönüllülerde lapatinibe sistemik
+maruziyette %72 azalma olmuştur. TYKERB’in bilinen CYP3A4 indükleyicileri (örn.
+rifampisin, rifabutin, karbamazepin, fenitoin veya Hypericum perforatum [Sarı kantaron]) ile bir
+arada uygulamasından kaçınılmalıdır.
+Lapatinib, Pgp ve BCRP taşıyıcı proteinlerinin bir substratıdır. Bu proteinlerin inhibitörleri
+(ketokonazol, itrakonazol, kinidin, verapamil, siklosporin ve eritromisin) ve indükleyicileri
+(rifampisin ve Sarı kantaron), lapatinib maruziyetini ve/veya dağılımını değiştirebilir (bkz.
+Bölüm 5.2).
+Lapatinibin çözünürlüğü pH değerine bağlıdır. Lapatinibin çözünürlüğü ve emilimi
+azalabileceğinden, gastrik pH değerini artırdığı bilinen maddeler ile eşzamanlı tedaviden
+kaçınılmalıdır. Bir proton pompa inhibitörü (esomeprazol) ile ön tedavi, lapatinib maruziyetini
+ortalama %27 azaltmıştır (aralık: %6 ila %49). Bu etki, yaklaşık 40 ila 60 yaştan itibaren artan
+yaşla birlikte azalmaktadır.
+Lapatinibin diğer tıbbi ürünler üzerindeki etkileri
+Lapatinib, klinik olarak anlamlı konsantrasyonlarda CYP3A4’ü in vitro koşullarda inhibe eder.
+TYKERB’in oral yolla verilen midazolam ile bir arada uygulanması, midazolamın EAA
+değerinde yaklaşık %45’lik bir artış ile sonuçlanmıştır. Midazolam intravenöz uygulandığında
+ise EAA değerinde klinik anlama sahip bir artış olmamıştır. TYKERB’in dar terapötik pencereye
+sahip olup CYP3A4 substratları olan ve oral uygulanan tıbbi ürünlerle (örn. sisaprid, pimozid ve
+kinidin) bir arada uygulanmasından kaçınılmalıdır (bkz. Bölüm 4.4 ve 5.2).
+Lapatinib klinik olarak anlamlı konsantrasyonlarda CYP2C8’i in vitro koşullarda inhibe eder.
+TYKERB’in dar terapötik pencereye sahip olup CYP2C8 substratları olan tıbbi ürünlerle (örn.
+repaglinid) bir arada uygulanmasından kaçınılmalıdır (bkz. Bölüm 4.4 ve 5.2).
+Lapatinibin intravenöz paklitaksel ile bir arada uygulanması, lapatinibin CYP2C8 ve/veya Pgp
+inhibisyonu nedeniyle paklitaksel maruziyetini %23 artırmıştır. Klinik çalışmalarda bu
+kombinasyon ile ishal ve nötropeninin insidansında ve şiddetinde bir artış gözlenmiştir.
+Lapatinib eğer paklitaksel ile bir arada uygulanacaksa dikkatli olunması önerilir.
+Lapatinibin intravenöz verilen dosetaksel ile bir arada uygulanması, iki maddenin de EAA ya da
+Cmaks değerini önemli ölçüde değiştirmemiştir. Diğer yandan doketaksel kaynaklı nötropeni
+daha sık görülmüştür.
+TYKERB’in irinotekan (FOLFIRI rejimi çerçevesinde uygulandığında) ile bir arada
+uygulanması, irinotekanın aktif metaboliti SN-38’in EAA değerinde yaklaşık %40’lık bir artış
+ile sonuçlanmıştır. Bu etkileşimin mekanizması net olarak bilinmemektedir fakat bir veya daha
+fazla taşıyıcı proteinin lapatinib tarafından inhibisyonuna bağlı olduğu varsayılmaktadır. Eğer
+5TYKERB irinotekan ile birlikte uygulanacaksa advers reaksiyonlar dikkatle izlenmelidir ve
+irinotekan dozunda bir azaltma düşünülmelidir.
+Lapatinib, klinik olarak anlamlı konsantrasyonlarda taşıyıcı protein Pgp’yi in vitro koşullarda
+inhibe eder. Lapatinibin oral verilen digoksin ile bir arada uygulanması, digoksinin EAA
+değerinde yaklaşık %80’lik bir artış ile sonuçlanmıştır. Lapatinib dozlarının, dar terapötik
+pencereye sahip Pgp substratı olan tıbbi ürünlerle bir arada verilmesi sırasında dikkatli
+olunmalıdır ve Pgp substratının dozunda azaltma düşünülmelidir.
+Lapatinib, in vitro koşullarda BCRP ve OATP1B1 taşıyıcı proteinlerini inhibe eder. Bunun
+klinikteki önemi değerlendirilmemiştir. Lapatinibin, BCRP (örn. topotekan) ve OATP1B1 (örn.
+rosuvastatin) subtratlarının farmakokinetiğini etkileme olasılığı dışlanamamaktadır (bkz. Bölüm
+5.2).
+TYKERB’in kapesitabin, letrozol veya trastuzumab ile bir arada uygulanması, bu tıbbi ürünlerin
+(veya kapesitabin metabolitlerinin) ya da lapatinibin farmakokinetiğini anlamlı ölçüde
+etkilememiştir.
+Yiyecek ve içecek ile etkileşimler
+Lapatinibin biyoyararlanımı, öğünün örneğin yağ içeriğine bağlı olarak, yiyecek ile birlikte
+yaklaşık 4 kat artmıştır. Ayrıca, yiyeceğin tipine bağlı olarak, lapatinib yiyeceklerden 1 saat
+sonra alındığında, günün ilk öğününden 1 saat öncesi ile karşılaştırıldığında biyoyararlanım
+yaklaşık 2-3 kat daha fazladır (bkz. Bölüm 4.2 ve 5.2).
+Greyfurt suyu bağırsak duvarında CYP3A4’ü inhibe edebilir ve lapatinibin biyoyararlanımını
+artırabilir ve bu nedenle TYKERB ile tedavi sırasında kaçınılması gerekir.
+Özel popülasyonlara ilişkin ek bilgiler
+Özel popülasyonlara ilişkin herhangi bir klinik etkileşim çalışması yürütülmemiştir.
+Pediyatrik popülasyon:
+Pediyatrik popülasyona ilişkin herhangi bir klinik etkileşim çalışması yürütülmemiştir.
+4.6 Gebelik ve laktasyon
+Genel tavsiye
+Gebelik Kategorisi D.
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon)
+Çocuk doğurma potansiyeli olan kadınlarda gerekli doğum kontrolünü kullanmaları, TYKERB
+tedavisi sırasında ve ilacın son dozunu takiben en az 5 gün boyunca gebe kalmamaları tavsiye
+edilmelidir.
+Gebelik dönemi
+Gebe kadınlarda TYKERB kullanımına dair yeterli veri bulunmamaktadır. Hayvanlarla yapılan
+çalışmalar üreme toksisitesi göstermiştir (Bkz. Bölüm 5.3). İnsanlar için potansiyel risk
+bilinmemektedir.
+TYKERB’ün gebelik ve/veya fetus/yenidoğan üzerinde zararlı farmakolojik etkileri
+bulunmaktadır.
+TYKERB, kesin olarak gerekli olmadıkça gebelik döneminde kullanılmamalıdır.
+Laktasyon dönemi
+TYKERB’ün emzirme döneminde güvenli kullanımı belirlenmemiştir. Lapatinibin insan sütüyle
+atılıp atılmadığı bilinmemektedir. Sıçanlarda, anne sütü ile lapatinibe maruz kalan yavrularda
+6büyüme geriliği gözlenmiştir. TYKERB ile tedavi sırasında ve ilacın son dozunu takiben en az 5
+gün boyunca kadınlar emzirmeyi kesmelidir.
+Üreme yeteneği (fertilite)
+TYKERB’in kadınların üreme yeteneği üzerindeki etkileri ile ilgili yeterli bilgi
+bulunmamaktadır. (Bkz. Bölüm 5.3).
+4.7 Araç ve makine kullanımı üzerindeki etkiler
+TYKERB’in araç ve makine kullanımı üzerine etkisi bulunmamaktadır. Lapatinib
+farmakolojisine bakıldığında, bu gibi aktiviteler üzerinde zararlı etkilerin görülmesi beklenmez.
+Hastanın karar verme, motor veya kognitif beceri yeteneği değerlendirilirken hastanın klinik
+durumu ve TYKERB’in güvenlilik profili göz önünde bulundurulmalıdır.
+4.8 İstenmeyen etkiler
+Çeşitli kanserlerin tedavisinde monoterapi ya da diğer kemoterapilerle kombinasyon şeklinde
+kullanılan TYKERB’in güvenliliği, 198’i TYKERB’ü kapesitabinle birlikte alan hastalar olmak
+üzere 20000’den fazla hasta üzerinde değerlendirilmiştir (bkz. Bölüm 5.1).
+TYKERB ile tedavi esnasına görülen en yaygın advers reaksiyonlar (>%25) gastrointestinal
+vakalar (ishal, bulantı ve kusma gibi) ve döküntü olmuştur. TYKERB kapesitabin ile
+kombinasyon halinde verildiğinde palmar-plantar eritrodisestezi (PPE) da yaygın (>%25)
+görülmüştür. Tek başına kapesitabin ve TYKERB+kapesitabin tedavi kollarında PPE insidansı
+benzer bulunmuştur. Kapesitabin ile kombinasyon halinde TYKERB kullanımında tedavinin
+sonlandırılmasına sebebiyet veren en yaygın görülen advers reaskiyon ishal olmuştur.
+Advers olay sıklığı: çok yaygın (≥ 1/10), yaygın (≥ 1/100 ila < 1/10), yaygın olmayan (≥ 1/1000
+ila < 1/100), seyrek (≥ 1/10,000 ila < 1/1000), çok seyrek (< 1/10,000) ve bilinmiyor (eldeki
+verilerden hareketle tahmin edilemiyor) şeklinde değerlendirilmiştir.
+İstenmeyen etkiler, her sıklık grubunda azalan ciddiyete göre sunulmaktadır.
+Aşağıdaki advers reaksiyonlar TYKERB kullanımı ile ilişkili olarak bildirilmiştir:
+Bağışıklık sistemi hastalıkları
+Seyrek: Anafilaksi dahil aşırı duyarlılık reaksiyonları (bkz. Bölüm 4.3)
+Metabolizma ve beslenme hastalıkları
+Çok yaygın: Anoreksia
+Psikiyatrik hastalıkları
+Çok yaygın: Uykusuzluk
+Sinir sistemi hastalıkları
+Yaygın: Baş ağrısı
+Kardiyak hastalıklar
+Yaygın: Sol ventrikül ejeksiyon fraksiyonunun azalması (bkz. Bölüm 4.2- Doz ertelenmesi ve
+doz azaltılması-Kardiyak olaylar ve Bölüm 4.4)
+Bilinmiyor: Ventriküler aritmiler/Torsades de Pointes, uzamış elektrokardiyogram QT’si*
+Solunum, göğüs bozuklukları ve mediyastinal hastalıklar
+Yaygın olmayan: İnterstisyal akciğer hastalığı/pnömoni
+Bilinmiyor: Pulmoner arteriyel hipertansiyon*
+Gastrointestinal hastalıklar
+7Çok yaygın: Dehidratasyona yol açabilen diyare (bkz. Bölüm 4.2-Doz ertelenmesi ve doz
+azaltılması-Diğer toksisiteler ve Bölüm 4.4), bulantı, kusma, dispepsi, stomatit, kabızlık, karın
+ağrısı
+Hepato-bilier hastalıklar
+Yaygın: Hiperbilirübinemi, hepatoksisite (bkz. Bölüm 4.4)
+Deri ve deri altı doku hastalıkları
+Çok yaygın: Deride döküntü (akneform dermatit dahil) (bkz. Bölüm 4.2-Doz ertelenmesi ve
+doz azaltılması-Diğer toksisiteler), kuru deri, palmar-plantar eritrodisestezi
+Yaygın: Paronişi dahil tırnak bozuklukları, cilt çatlakları
+Bilinmiyor: Stevens Johnson sendromu (SJS) ve toksik epidermal nekroliz (TEN) dahil ciddi
+kutanöz reaksiyonlar*
+Kas-iskelet bozuklukları, bağ doku ve kemik hastalıkları
+Çok yaygın: Ekstremitelerde ağrı, sırt ağrısı
+Genel bozukluklar ve uygulama bölgesine ilişkin hastalıklar
+Çok yaygın: Yorgunluk, mukozal inflamasyon
+* Spontan raporlar ve literatürden advers reaksiyonlar
+Seçili advers olayların tanımı
+Azalmış sol ventriküler ejeksiyon fraksiyonu ve QT aralığı uzaması
+Sol ventriküler ejeksiyon fraksiyonu (LVEF) azalmaları lapatinib kullanan hastaların yaklaşık
+%1’inde bildirilmiş olup, vakaların %70’inden fazlasında asemptomatiktir. LVEF azalmaları
+vakaların %70’inden fazlasında düzelmiş veya iyileşmiş olup, bunların yaklaşık %60’ında
+lapatinib ile tedavi bırakılmış ve yaklaşık %40’ında lapatinib sürdürülmüştür. Semptomatik
+LVEF azalmaları monoterapi olarak veya diğer anti-kanser tıbbi ürünleri ile kombinasyon
+halinde lapatinib alan hastaların yaklaşık %0,3’ünde gözlenmiştir. Gözlenen advers reaksiyonlar
+dispne, kardiyak yetmezlik ve çarpıntıları içermiştir. Bu semptomatik hastaların genelde %58’i
+iyileşmiştir. LVEF azalmaları kapesitabin ile kombinasyon halinde lapatinib alan hastaların
+%2,5’inde bildirilirken, bu oran tek başına kapesitabin ile %1’dır.
+İleri evre solid tümörleri olan hastalarda yürütülen özel bir QT çalışmasında QtcF’de
+konsantrasyona bağlı bir artış (maksimum ortalama ∆∆QTcF 8,75 msn; %90 GA 4,08; 13,42)
+gözlenmiştir (bkz. Bölüm 4.4).
+İshal
+İshal kapesitabin ile kombinasyon halinde lapatinib kullanan hastaların yaklaşık %65’inde
+meydana gelmiştir. Çoğu ishal vakası derece 1 veya 2 olup, lapatinib ile tedavinin bırakılmasıyla
+sonuçlanmamıştır. İshal proaktif tedaviye iyi yanıt vermiştir (bkz. Bölüm 4.4). Bununla birlikte
+diyareye bağlı şiddetli dehidratasyon nedeniyle birkaç akut böbrek yetmezliği vakası
+bildirilmiştir.
+Döküntü
+Döküntü kapesitabin ile kombinasyon halinde lapatinib alan hastaların yaklaşık %28’inde
+meydana gelmiştir. Döküntü genel olarak düşük dereceli olup, lapatinib ile tedavinin
+bırakılmasıyla sonuçlanmamıştır. Reçete yazan hekimlerin tedaviden önce ve tedavi sırasında
+düzenli olarak deri muayenesi yapmaları tavsiye edilmektedir. Deri reaksiyonları yaşayan
+hastalar güneş ışığından kaçınmaya ve ≥30 Güneş Koruma Faktörlü (SPF) geniş spektrumlu
+güneş kremleri kullanmaya teşvik edilmelidir. Bir deri reaksiyonu meydana gelirse, düzelme
+olduktan sonraki bir aya kadar her vizitte tüm vücut muayenesi yapılmalıdır. Yaygın veya inatçı
+8deri reaksiyonları olan hastalar bir dermatoloğa sevk edilmelidir.
+Hepatotoksisite
+Lapatinib ile indüklenen hepatotoksisite riski HLA alelleri DQA1*02:01 ve DRB1*07:01 taşıma
+ile ilişkilendirilmiştir (bkz. Bölüm 4.4).
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir (www.titck.gov.tr; e- posta:
+tufam@titck.gov.tr; tel: 0 800 314 00 08; faks: 0 312 218 35 99).
+4.9 Doz aşımı ve tedavisi
+EGFR (ErbB1) ve/veya HER2(ErbB2) tirozin fosforilasyonu inhibisyonunun spesifik antidotu
+yoktur. Klinik çalışmalarda uygulanan maksimum lapatinib oral dozu, günde bir kez 1800
+mg’dır.
+TYKERB ile tedavi edilen hastalarda asemptomatik ve semptomatik doz aşımı vakaları
+bildirilmiştir. 5000 mg’a kadar lapatinib alan hastalarda semptomlar, lapatinib ile ilişkili olduğu
+bilinen olayları (bkz. Bölüm 4.8) ve bazı vakalarda kafatası derisinde yara ve/veya mukoza
+enflamasyonunu içermektedir. 9000 mg TYKERB almış olan bir hastaya ait tek vakada sinüs
+taşikardisi (diğer açılardan normal EKG ile birlikte) gözlemlenmiştir.
+Lapatinib böbrekler yoluyla vücuttan önemli ölçüde uzaklaştırılmaz ve yüksek oranda plazma
+proteinlerine bağlanır bu nedenle hemodiyalizin, lapatinib eliminasyonunu arttıracak, etkili bir
+yöntem olması beklenmemelidir.
+Tedavi, klinik açıdan endike olduğu şekilde ya da Ulusal Zehir Danışma Merkezinin önerdiği
+şekilde olmalıdır.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1 Farmakodinamik özellikler
+Farmakoterapötik grubu: Antineoplastik ilaçlar, insan epidermal büyüme faktörü reseptörü 2
+(HER2) tirozin kinaz inhibitörleri.
+ATC kodu: L01EH01
+Etki Mekanizması
+Bir 4-anilinokinazolin olan lapatinib, EGFR (ErbB1) ve HER2 (ErbB2) reseptörlerinden yavaş
+bir çıkış oranı ile (yarı ömür ≥ 300 dakika), EGFR (ErbB1) ve HER2 (ErbB2) reseptörlerinin
+intraselüler tirozin kinaz bölgelerinin (sırasıyla 3nM ve 13nM'nin tahmini Kiapp değerleri)
+inhibitörüdür. Lapatinib in vitro ortamda ve çeşitli hayvan modellerinde, ErbB aracılı tümör
+hücresi çoğalmasını inhibe eder.
+Lapatinib ve trastuzumab kombinasyonu, birbiriyle örtüşmeyen olası direnç mekanizmalarının
+yanı sıra tamamlayıcı etki mekanizmaları sunabilir. Lapatinibin büyümeyi inhibe eden etkisi,
+trastuzumabla koşullandırılmış hücreler üzerinde değerlendirilmiştir. Lapatinib, in vitro ortamda
+trastuzumab içeren besiyerinde uzun süreli çoğalma için seçilen HER-2 amplifiye meme kanseri
+hücre dizilerine karşı aktivitesini anlamlı düzeyde devam ettirmiştir ve bu hücre dizilerinde
+transtuzumab ile kombinasyon halinde sinerjiktir.
+Klinik etkililik ve güvenlilik
+TYKERB ve kapesitabin ile kombinasyon tedavisi
+9İyi performans durumuna sahip meme kanseri hastalarında kapesitabin ile kombinasyon halinde
+TYKERB’ün etkililik ve güvenliliği bir randomize faz III çalışmada değerlendirilmiştir. Çalışma
+için uygun hastalar, taksanlar, antrasiklinler ve trastuzumab içeren önceki tedavilerinden sonra
+progresyon gösteren, HER2-aşırı ekspresyonu yapan, bölgesel olarak ilerlemiş veya metastatik
+meme kanserine sahip hastalardan oluşmaktadır. Hastanın tedavi başlangıcındaki LVEF
+değerinin kurumların normal sınırları dahilinde olduğundan emin olmak için TYKERB ile tedavi
+başlamadan önce tüm hastalarda LVEF değerlendirilmiştir (ekokardiyogram [Eko] veya Dengeli
+Kan Havuzu Görüntülemesi ("Gated-Equilibrium" radyonüklid anjiyografi: çoklu kapılı edinim
+taraması: [MUGA] kullanılarak)). Klinik çalışmada, LVEF’in kurumların normal alt sınırının
+altına inmediğinden emin olmak için LVEF değerleri TYKERB ile tedavi sırasında yaklaşık
+sekiz haftalık aralıklarla izlenmiştir. LVEF azalmalarının büyük kısmı (olayların % 60’ından
+fazlası) tedavinin ilk dokuz haftası sırasında gözlenmekle birlikte, uzun vadeli maruziyet için
+veriler sınırlıdır.
+Hastalar ya günde bir kez TYKERB 1250 mg (kesintisiz) ve kapesitabin (her 21 günün 1-14.
+günlerinde 2000 mg/m2/gün) ya da tek başına kapesitabin (her 21 günün 1-14. günlerinde 2500
+mg/m2/gün) kullanımına randomize edilmiştir. Birincil sonlanım noktası progresyona kadar
+geçen süredir (TTP). Değerlendirmeler, çalışma araştırmacıları tarafından ve tedaviye kör olan
+bağımsız bir gözden geçirme paneli tarafından üstlenilmiştir. Çalışma, TYKERB + capecitabine
+alan hastalar için TTP'de bir iyileşme gösteren önceden belirlenmiş bir ara analizin sonuçlarına
+dayanarak durdurulmuştur.Çalışmaya ara analiz zamanı ve kayıt sonu arasında ilave 75 hasta
+kaydedilmiştir. Kayıt sonundaki verilerle yürütülen araştırıcı analizi Tablo 1’de sunulmaktadır.
+Tablo 1 Çalışma EGF100151’den Progresyona Kadar Geçen Süre Verileri
+(TYKERB/kapesitabin)
+Araştırıcı değerlendirmesi
+TYKERB (1250 mg/gün) + Kapesitabin
+kapesitabin (her 21 günün 1-14.
+(her 21 günün 1-14. günlerinde
+günlerinde 2000 mg/m2/gün)
+2500 mg/m2/gün)
+(N = 198) (N = 201)
+TTP olaylarının sayısı 121 126
+Medyan TTP, hafta 23,9 18,3
+Tehlike Oranı 0,72
+(%95 GA) (0,56; 0,92)
+p değeri 0,008
+GA = güven aralığı
+Bağımsız değerlendirmeler de TYKERB’ün kapesitabin ile kombinasyon halinde verildiğinde
+tek başına kapesitabine kıyasla progresyona kadar geçen süreyi anlamlı olarak artırdığını
+göstermiştir (Tehlike Oranı 0,57 [%95 GA 0,43; 0,77] p = 0,0001).
+Genel sağkalım verilerinin 28 Eylül 2007’ye güncellenmiş analizi Tablo 2’de sunulmaktadır.
+10Tablo 2 Çalışma EGF100151’den Genel Sağkalım Verileri (TYKERB/kapesitabin)
+TYKERB (1250 mg/gün) + Kapesitabin
+kapesitabin (her 21 günün 1-14.
+(her 21 günün 1-14. günlerinde
+günlerinde 2000 mg/m2/gün)
+2500 mg/m2/gün)
+(N = 207) (N = 201)
+Ölen hasta sayısı 148 154
+Medyan genel 74 65,9
+sağkalım, hafta
+Tehlike Oranı 0,9
+(%95 GA) (0,71; 1,12)
+p değeri 0,3
+Kombinasyon tedavisinde, tek başına kapesitabin tedavisindeki 13 (%6) progresyona kıyasla
+merkezi sinir sisteminde 4 (%2) progresyon görülmüştür.
+Kapesitabin ile kombinasyon halinde trastuzamaba kıyasla kapesitabin ile kombinasyon halinde
+TYKERB’ün etkililik ve güvenliliğine ilişkin veriler mevcuttur. Randomize bir Faz III
+çalışmada (EGF111438) (N=540) iki tedavi rejiminin HER2 aşırı ekspresyonlu metastatik meme
+kanseri olan kadınlarda ilk relaps bölgesi olarak MSS insidansı üzerindeki etkisi
+karşılaştırılmıştır. Hastalar ya günde bir kez TYKERB 1250 mg (kesintisiz) ve kapesitabin (her
+21 günün 1-14. günlerinde 2000 mg/m2/gün) ya da trastuzumab (8 mg/kg’lık yükleme dozunu
+takiben her 3 haftada bir 6 mg/kg infüzyon) ve kapesitabin (her 21 günün 1-14. günlerinde 2500
+mg/m2/gün) kullanımına randomize edilmiştir. Randomizasyon önceki trastuzumab tedavisi ve
+metastatik hastalık için önceki tedavi sayısına göre sınıflandırılmıştır. Çalışma, ara analizin
+(N=475) düşük MSS olayları insidansını ve progresyonsuz sağkalım ile genel sağkalım
+açısından trastuzumab ve kapesitabin tedavisinin daha üstün etkililiğini gösterdiğinden
+durdurulmuştur (bkz. Tablo 3).
+TYKERB ve kapesitabin tedavisinde 8 hastada (%3,2) ilk progresyon bölgesi MSS iken,
+trastuzumab ve kapesitabin tedavisinde 12 hastadır (%4,8).
+MSS metastazı üzerinde lapatinib etkisi
+Lapatinib, belirlenmiş MSS metastazlarının tedavisinde objektif yanıtlar göz önünde
+bulundurulduğunda sınırlı bir aktivite göstermiştir. Metastatik ve erken meme kanseri
+ortamlarında MSS metastazlarının önlenmesinde lapatinib ile gözlemlenen aktivite sınırlı
+olmuştur.
+11Tablo 3 Progresyonsuz Sağkalım ve Genel Sağkalım Araştırıcı Değerlendirmesi Analizi
+PFS Araştırıcı Değerlendirmesi Genel Sağkalım (OS)
+TYKERB (1250 Trastuzumab (8 TYKERB (1250 Trastuzumab (8
+mg/gün) + mg/kg’lık mg/gün) + mg/kg’lık
+kapesitabin (her yükleme dozunu kapesitabin (her yükleme dozunu
+21 günün 1-14. takiben her 3 21 günün 1-14. takiben her 3
+günlerinde 2000 haftada bir 6 günlerinde 2000 haftada bir 6
+mg/m2/gün) mg/kg infüzyon) mg/m2/gün) mg/kg infüzyon)
++ +
+kapesitabin (her kapesitabin (her
+21 günün 1-14. 21 günün 1-14.
+günlerinde 2500 günlerinde 2500
+mg/m2/gün) mg/m2/gün)
+ITT popülasyonu
+N 271 269 271 269
+Vaka Sayısı (%)1 160 (59) 134 (50) 70 (26) 58 (22)
+Kaplan-Meier
+tahmini, ay a
+Medyan (%95 GA) 6,6 (5,7; 8,1) 8,0 (6,1; 8,9) 22,7 (19,5; -) 27,3 (23,7; -)
+Sınıflandırılmış
+Teklike oranı b
+HR (%95 GA) 1,30 (1,04; 1,64) 1,34 (0,95; 1,90)
+p-değeri 0,021 0,095
+Daha önce trastuzumab almış gönüllüler*
+N 167 159 167 159
+Vaka Sayısı (%)1 103 (62) 86 (54) 43 (26) 38 (24)
+Medyan (%95 GA) 6,6 (5,7; 8,3) 6,1 (5,7; 8,0) 22,7 (20,1;-) 27,3 (22,5; 33,6)
+HR (%95 GA) 1,13 (0.85; 1,50) 1,18 (0,76; 1,83)
+Daha önce trastuzumab almamış gönüllüler*
+N 104 110 104 110
+Vaka Sayısı (%)1 57 (55) 48 (44) 27 (26) 20 (18)
+Medyan (%95 GA) 6,3 (5,6; 8,1) 10,9 (8,3; 15,0) NE2 (14,6; -) NE2 (21,6; -)
+HR (%95 GA) 1,70 (1,15; 2,50) 1,67 (0,94; 2,96)
+GA = Güven Aralığı
+a. PFS randomizasyon zamanından progresyona kadar veya herhangi bir sebepten ölüme kadar
+geçen en yakın süre ya da sensör zamanına kadar geçen süre olarak tanımlanmıştır.
+b. Tedavi tehlike oranının (HR) tahmini zirvesi, <1 TYKERB+ kapesitabin için
+trastuzumab+kapesitabin kıyasla daha az risk göstermektedir.
+1. PFS vakası progresyonlu ya da ölmüş, ve OS vakası herhangi bir sebepten dolayı ölmüştür.
+2. NE=Medyana ulaşılamamıştır.
+* Post hoc analizi
+Kardiyak elektrofizyoloji
+Lapatinibin QT-aralığı üzerindeki etkisi ileri evre solid tümörleri olan hastalarda yürütülen tek
+kör, plasebo kontrollü, tek sıralı (plasebo ve aktif tedavi) çapraz geçiş çalışmasında
+değerlendirilmiştir (EGF114271) (n=58). 4 günlük tedavi periyodu sırasında, 1. günde sabah ve
+akşam 12 saat arayla ve 2. gün sabah olmak üzere üç denk plasebo dozu uygulanmıştır. Bunu
+aynı şekilde uygulanan üç lapatinib 2000 mg dozu izlemiştir. Elektrokardiyogramlar (EKG’ler)
+ve farmakokinetik örnekleri içeren ölçümler başlangıçta ve 2. gün ve 4. günde aynı zaman
+noktalarında yapılmıştır.
+Değerlendirilebilir popülasyonda (n=37), üçüncü lapatinib 2000 mg dozunun alınmasından 10
+saat sonra 8,75 msn’lik (4,08; 13,42) maksimum ortalama ∆∆QTcF (%90 GA) gözlenmiştir.
+12∆∆QTcF 5 msn eşiğini aşmış ve üst sınır %90 GA birçok zaman noktasında 10 msn sınırını
+aşmıştır. Farmakodinamik popülasyonu (n=52) için sonuçlar, değerlendirilebilir popülasyondan
+elde edilen sonuçlarla tutarlıdır (üçüncü lapatinib 2000 mg dozunun alınmasından 10 saat sonra
+7,91 msn’lik (4,13; 11,68) maksimum ∆∆QTcF (%90 GA) gözlenmiştir).
+Lapatinib plazma konsantrasyonları ve ∆∆QTcF arasında pozitif bir ilişki vardır. Lapatinib,
+onaylı doz uygulama rejimleri sonrasında gözlenen geometrik ortalama C ve %95 GA
+maks,ss
+değerlerini aşan 3920 (3450-4460) ng/ml’lik maksimum ortalama konsantrasyon (geometrik
+ortalama/%95 GA) üretmiştir. Lapatinib gıda ile tekrar tekrar alındığında (bkz. Bölüm 4.2 ve
+5.2) veya güçlü CYP3A4 inhibitörleri ile eşzamanlı olarak uygulandığında lapatinibin pik
+maruziyetinde ilave bir artış beklenebilir. Lapatinib güçlü CYP3A4 inhibitörleri ile birlikte
+alındığında QTc aralığının model bazlı kestirimde (bkz. Bölüm 4.4) gözlendiği üzere 16,1 msn
+(12,6-20,3 msn) uzaması beklenebilir.
+Gıdanın lapatinib maruziyeti üzerindeki etkileri
+Lapatinibin biyoyararlanımı ve böylece plazma konsantrasyonları öğünün içeriği ve zamanı ile
+ilişkili olarak gıda ile artar. Lapatinib dozunun öğünden bir saat sonra uygulanması öğünden bir
+saat önce doz uygulamaya kıyasla yaklaşık olarak 2-3 kat daha yüksek sistemik maruziyet ile
+sonuçlanır (bkz. Bölüm 4.5 ve 5.2).
+Avrupa İlaç Ajansı meme karsinomu tedavisinde tüm pediatrik popülasyon alt setlerinde Tykerb
+ile yürütülen çalışmaların bulgularının sunulma zorunluluğunu iptal etmiştir (pediatrik kullanıma
+ilişkin daha fazla bilgi için bkz. Bölüm 4.2).
+5.2 Farmakokinetik özellikler
+Genel özellikler
+Emilim:
+Lapatinibin oral uygulamasından sonraki mutlak biyoyararlanım bilinmemektedir fakat tam
+değildir ve değişkendir (EAA’da yaklaşık %70 değişim katsayısı). Serum konsantrasyonları,
+0,25 saatlik (aralık 0-1,5 saat) medyan gecikme süresi sonrasında görülür. Lapatinibin pik
+plazma konsantrasyonları (C ) uygulamadan yaklaşık 4 saat sonra elde edilir. 1250 mg’lık
+maks
+günlük dozlar 2,43 (%76) mikrogram/ml kararlı durum geometrik ortalama (değişim katsayısı)
+C ve 36,2 (%79) mikrogram*s/ml EAA değerleri verir.
+maks
+Lapatinibin sistemik maruziyeti, yiyecek ile uygulandığında artar. Lapatinibin EAA değerleri, aç
+karnına uygulanması ile karşılaştırıldığında düşük (%5 yağ [500 kalori]) ve yüksek (%50 yağ
+[1000 kalori]) oranda yağ içeren bir öğün ile uygulandığında yaklaşık 3 ve 4 kat daha yüksek
+bulunmuştur (C yaklaşık 2,5 ve 3 kat). Lapatinibe sistemik maruziyet ayrıca uygulamanın
+maks
+yiyecek alımına göre zamanlamasından da etkilenmektedir. Düşük oranda yağ içeren bir
+kahvaltıdan 1 saat önceki doz uygulaması ile karşılaştırıldığında, lapatinibin düşük veya yüksek
+oranda yağ içeren öğünlerden 1 saat sonra alınmasıyla ortalama EAA değerleri sırasıyla 2 ve 3
+kat daha yüksek bulunmuştur.
+Dağılım:
+Lapatinib, albümine ve alfa-1 asit glikoproteine yüksek (% 99’dan fazla) oranda bağlanır. In
+vitro çalışmalar lapatinibin, BCRP (ABCG1) ve Pgp (ABCB1) taşıyıcılarının substratı olduğunu
+göstermiştir. Ayrıca lapatinibin klinik konsantrasyonlarda (IC =2,3 mikrogram/ml) in vitro
+50
+olarak, bu dışa akış taşıyıcılarını ve bunun yanı sıra karaciğer alım taşıyıcısı OATP1B1’yi inhibe
+ettiği de gösterilmiştir. Bu etkilerin diğer ilaçların farmakokinetiği ya da diğer anti kanser
+ilaçların farmakolojik aktivitesi üzerindeki klinik anlamı bilinmemektedir.
+Biyotransformasyon:
+Lapatinib, öncelikle CYP3A4 ve CYP3A5 tarafından olmak üzere, ayrıca CYP2C19 ve
+CYP2C8’in küçük katkılarıyla, farklı oksidatif metabolitlere geniş kapsamlı olarak metabolize
+13edilir, bunların herhangi biri dozun dışkıdaki bölümünün % 14’ünden veya plazmadaki lapatinib
+konsantrasyonlarının % 10’undan daha fazlasını oluşturmaz.
+Klinik olarak anlamlı konsantrasyonlarda lapatinib, CYP3A (K değerleri 0,6-2,3 mikrogram/ml)
+i
+ve CYP2C8’yi (0,3 mikrogram/ml) in vitro olarak inhibe eder. Lapatinib, insan karaciğer
+mikrozomlarında CYP1A2, CYP2C9, CYP2C19, ve CYP2D6 veya UGT enzimlerini önemli
+ölçüde inhibe etmemiştir (in vitro IC değerleri 6,9 mikrogram/ml’ye eşit veya fazla olmuştur.).
+50
+Eliminasyon:
+Tekli dozlardan sonra ölçülen lapatinib yarılanma ömrü artan doz ile artar. Öte yandan,
+lapatinibin günlük dozu 6 ila 7 gün içinde kararlı halin elde edilmesi ile sonuçlanır, bu da etkili
+yarılanma ömrünün 24 saat olduğunu gösterir. Lapatinib eliminasyonu başlıca, CYP3A4/5
+metabolizması üzerinden gerçekleşir. Safra ile atılım da eliminasyona katkı sağlayabilir. Dışkıda
+değişmeyen lapatinibin geri kazanımı oral dozun medyan %27’sini (% 3 ile % 67 arasında)
+oluşturur. Uygulanan oral dozun %2’sinden azı idrar ile atılır.
+Hastalardaki karakteristik özellikler
+Böbrek yetmezliği:
+Böbrek yetmezliği olan veya hemodiyaliz uygulanan hastalarda lapatinibin farmakokinetiği özel
+olarak incelenmemiştir. Mevcut veriler hafif ve orta böbrek yetmezliği olan hastalarda doz
+ayarlamasına gerek olmadığını göstermektedir.
+Karaciğer yetmezliği:
+Lapatinibin farmakokinetiği, orta derecede (n = 8) veya şiddetli (n = 4) karaciğer yetmezliği olan
+hastalarda (sırasıyla Child-Pugh skorları 7-9, veya 9’dan büyük) ve sağlıklı 8 kişiden oluşan
+kontrol grubunda incelenmiştir. 100 mg’lık tek bir oral dozu izleyen sistemik lapatinib
+maruziyeti (EAA değeri), orta derecede ve şiddetli karaciğer yetmezliği olan hastalarda sırasıyla
+yaklaşık %56 ve %85 oranında yükselmiştir. Karaciğer yetmezliği olan hastalarda TYKERB,
+dikkatli kullanılmalıdır (bkz. Bölüm 4.2 ve 4.4).
+5.3 Klinik öncesi güvenlilik verileri
+TYKERB, günde 30, 60 ve 120 mg/kg’lık oral dozların verildiği gebe sıçanlar ve tavşanlar
+üzerinde incelenmiştir. Teratojen etki görülmemiştir ancak sıçanlarda, ≥60 mg/kg/gün lapatinib
+kullanıldığında minör anormallikler (arteria umblicalis’in sol tarafta bulunması, servikal kaburga
+ve erken ossifikasyon) ortaya çıkmıştır. Tavşanlarda, 60 ve 120 mg/kg/gün dozlarında lapatinib
+(insanlarda beklenen klinik maruziyetin sırasıyla %8 ve %23’ü) maternal toksisite ile, 120
+mg/kg/gün dozunda lapatinib de düşük ile ilişkili bulunmuştur. ≥60 mg/kg/gün dozunda fötal
+vücut ağırlığında azalma ve minör iskelet değişiklikleri olmuştur. Sıçanlardaki bir prenatal ve
+postnatal gelişim çalışmasında, 60 mg/kg/gün dozunda veya daha yüksek dozlarda (insanlarda
+beklenen klinik maruziyetin 5 katı) yavruların doğum ve doğumdan sonraki 21. gün arasında
+hayatta kalma oranları azalmıştır. Bu çalışmada, hiç etki görülmeyen en yüksek doz düzeyi 20
+mg/kg/gün’dür.
+TYKERB’le yapılan oral karsinojenisite çalışmalarında, insanlarda uygulanan 1250 mg lapatinib
+dozu ile elde edilen maruziyet değerlerine kıyasla EAA değerlerine dayanarak farelerde ve erkek
+sıçanlarda 2 kata ve dişi sıçanlarda 15 kata varan maruziyet düzeyleri oluşturan test edilen en
+yüksek dozlarda şiddetli deri lezyonları gözlenmiştir. Farelerde karsinojenisite bulgusu mevcut
+değildi. Sıçanlarda, mezenterik lenf nodlarında benign hemanjiyom insidansı eşzamanlı
+kontrollere kıyasla bazı gruplarda daha yüksektir. İnsanlarda uygulanan 1250 mg lapatinib dozu
+ile elde edilen maruziyet değerlerine kıyasla dişi sıçanlarda 7 ve 10 kat maruziyet düzeyleri
+oluşturan dozlarda renal enfarktlar ve papiler nekroz insidansında artış gözlenmiştir. Bu
+bulguların insanlardaki önemi net değildir.
+14Erkek veya dişi sıçanlarda, gonadal fonksiyon, çiftleşme veya fertilite üzerine 120 mg/kg/gün
+(dişilerde) 180 mg/kg/gün'e (erkeklerde) kadar (insanlarda beklenen klinik maruziyetin sırasıyla
+8 ve 3 katı) herhangi bir etkisi olmamıştır. İnsan fertilitesi üzerindeki etkisi bilinmemektedir.
+Lapatinib, Çin hamster kromozomu aberasyon testi, Ames testi, insan lenfosit kromozomu
+aberasyon testi ve in vivo sıçan kemik iliği kromozomu aberasyon testi dahil olmak üzere bir
+dizi testte klastojenik veya mutajenik olmamıştır.
+6. FARMASÖTİK ÖZELLİKLER
+6.1 Yardımcı maddelerin listesi
+Tabletler:
+Mikrokristalize selüloz
+Povidon
+Sodyum nişasta glikolat
+Magnezyum stearat
+Film kaplama:
+Hipromelloz
+Titanyum dioksit (E171)
+Makrogol/PEG 400
+Polisorbat 80
+Sarı demir oksit (E172)
+Kırmızı demir oksit (E172)
+6.2 Geçimsizlikler
+Yeterli veri yoktur.
+6.3 Raf ömrü
+36 ay.
+6.4 Saklamaya yönelik özel tedbirler
+30 oC’nin altındaki oda sıcaklığında saklayınız.
+6.5 Ambalajın niteliği ve içeriği
+70 tabletlik HDPE şişelerde
+6.6 Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+Kullanılmamış olan ürünler ya da atık materyaller "Tıbbi Atıkların Kontrolü Yönetmeliği" ve
+"Ambalaj Atıkları Kontrolü Yönetmeliği"'ne uygun olarak imha edilmelidir.
+7. RUHSAT SAHİBİ
+Novartis Sağlık, Gıda ve Tarım Ürünleri San. ve Tic. A.Ş.
+Kavacık/Beykoz/İstanbul
+8. RUHSAT NUMARASI
+2016/173
+9. İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi: 01.03.2016
+15Ruhsat yenileme tarihi: 21.04.2015
+10. KÜB’ün YENİLENME TARİHİ
+16

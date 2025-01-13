@@ -1,0 +1,518 @@
+KISA ÜRÜN BİLGİSİ
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+DARABİN 50 mg i.v. enjeksiyon/ infüzyon için liyofilize toz içeren flakon
+2. KALİTATİF ve KANTİTATİF BİLEŞİMİ
+Etkin madde: Her bir flakon 50 mg fludarabin fosfat içerir. Enjeksiyon ve infüzyon için
+sulandırılmış 1 ml çözelti 25 mg fludarabin fosfat içermektedir.
+Yardımcı maddeler: Enjeksiyonluk veya infüzyonluk çözelti tozu içeren her bir DARABİN
+50 mg’lık flakon, uygun pH’ı sağlamak için sodyum hidroksit ve 50 mg mannitol
+içermektedir.
+(Bkz bölüm 4.4 Özel kullanım uyarıları ve önlemleri)
+Yardımcı maddelerin tümü için bkz bölüm 6.1
+3. FARMASÖTİK FORM
+Enjeksiyonluk veya infüzyonluk çözelti tozu.
+Sulandırmaya hazır beyaz liyofilize toz
+4. KLİNİK ÖZELLİKLERİ
+4.1Terapötik endikasyonlar
+DARABİN B-hücreli kronik lenfositik lösemili (KLL) hastaların başlangıç tedavisi için ve
+daha önce en azından bir standart alkilleyici ajan içeren tedaviye cevap vermemiş ya da
+hastalığı böyle bir tedaviye rağmen ilerleme göstermiş B-hücreli kronik lenfositik lösemili
+(KLL) hastaların tedavisinde endikedir.
+DARABİN daha önce en azından bir standart alkilleyici ajan içeren tedaviye cevap vermemiş
+ya da hastalığı böyle bir tedaviye rağmen ilerleme göstermiş düşük dereceli non-Hodgkin
+lenfomalı hastaların (Lg-NHL) tedavisinde endikedir.
+4.2 Pozoloji ve uygulama şekli
+Pozoloji / uygulama sıklığı ve süresi:
+1 / 18DARABİN sadece intravenöz olarak uygulanmalıdır. DARABİN’in paravenöz
+uygulanmasıyla ilgili ciddi lokal advers reaksiyonların görüldüğü vakalar bildirilmemiştir.
+Ancak, maksatsız paravenöz uygulamadan kaçınılmalıdır.
+DARABİN, antineoplastik tedavide deneyimli yetkili bir hekimin gözetimi altında tatbik
+edilmelidir. Önerilen doz, intravenöz uygulama şeklinde 5 müteakip gün için, her gün 25 mg
+fludarabin fosfat/m2 vücut yüzeyidir. Kürler 28 günlük aralarla tekrarlanır.
+Her flakon, 2 ml enjeksiyonluk su ilavesi ile kullanıma hazırlanır. Elde edilen çözeltinin
+her ml'si 25 mg fludarabin fosfat içerecektir.
+İhtiyaç duyulan doz (temelde hastanın vücut yüzeyine göre hesaplanmış) bir enjektöre
+çekilmelidir. İntravenöz bolus enjeksiyon için gerekli doz, 10 ml %0.9’luk sodyum klorür ile
+sulandırılmalıdır. Alternatif olarak, infüzyon için gerekli olan doz, 100 ml %0.9’luk sodyum
+klorür ile sulandırıldıktan sonra enjektöre çekilmeli ve yaklaşık 30 dk üstünde infüze
+edilmelidir.
+Tedavi süresi, tedavinin başarısına ve ilaca olan tolerabiliteye bağlıdır.
+KLL’li hastalarda DARABİN, en iyi tedavi yanıtı (tam ya da parsiyel remisyon, genelde 6
+kür) elde edilinceye kadar uygulanmalı ve sonra kesilmelidir.
+Lg-NHL’lı hastalarda DARABİN tedavisinin, en iyi yanıt (tam ya da parsiyel remisyon)
+alınıncaya kadar sürdürülmesi önerilir. En iyi tedavi yanıtı alındıktan sonra 2 tedavi kürü
+daha düşünülmelidir. Klinik çalışmalarda, Lg-NHL’lı hastaların çoğuna 8 kürden fazla tedavi
+uygulanmamıştır.
+Özel popülasyonlara ilişkin ek bilgiler:
+Böbrek yetmezliği:
+Böbrek fonksiyon bozukluğu bulunan hastalarda doz ayarlaması yapılmalıdır. Kreatinin
+klirensi 30-70 ml/dak. arasındaysa doz %50 oranına kadar azaltılmalı ve toksisitenin
+belirlenebilmesi için dikkatli hematolojik izlem yapılmalıdır (Bkz. bölüm 4.4 Özel kullanım
+uyarılan ve önlemleri). Kreatinin klirensi < 30 ml/dak. altında ise DARABİN tedavisi
+kontrendikedir.
+Karaciğer yetmezliği:
+Karaciğer yetmezliği olan hastalarda, güvenliliği ve etkinliliği hakkında çalışma
+yapılmamıştır.
+2 / 18Pediyatrik popülasyon:
+DARABİN, 18 yaş altındaki çocuklarda ilgili etkinlik ve güvenlilik verileri yeterli
+olmadığından kullanımı tavsiye edilmemektedir.
+Geriyatrik popülasyon:
+Yaşlı (>75 yaş) kişilerdeki kullanımı ile ilgili verilerin sınırları olmasından dolayı bu
+hastalardaki kullanımında dikkat edilmelidir. (Bkz. bölüm 4.4 Özel kullanım uyarıları ve
+önlemleri)
+4.3 Kontrendikasyonlar
+ İlaca ya da bileşenlerine karşı aşırı duyarlılık
+ Kreatinin klirensi < 30 ml/dak olan, renal yetmezlik bulunan hastalar
+ Dekompanse hemolitik anemi
+4.4 Özel kullanım uyanları ve önlemleri
+•Nörotoksisite
+Fludarabin fosfat, doz ayarlama çalışmaları esnasında akut lösemili hastalarda yüksek
+dozlarda uygulandığında, körlük, koma ve ölüm dahil olmak üzere ağır nörolojik etkilere
+neden olmuştur. Belirtiler son dozdan sonra 21 ile 60 gün arasında ortaya çıkmaktadır. Bu
+ağır nörolojik sistem toksisitesi, KLL ve Lg-NHL için tavsiye edilen dozdan yaklaşık 4 misli
+daha yüksek dozda (96 mg/m2/gün; 5-7 gün boyunca) intravenöz tedavi görmüş hastaların %
+36’sında ortaya çıkmıştır. KLL ve Lg-NHL için önerilen dozlarda tedavi edilen hastalarda
+seyrek (koma, nöbet ve ajitasyon) veya çok nadiren (konfüzyon) ciddi merkezi sinir sistemi
+toksisiteleri meydana gelir. Hastalar nörolojik yan etki belirtileri açısından dikkatle
+izlenmelidir.
+Pazarlama sonrası deneyimde, nörotoksitenin klinik çalışmalara göre daha önce ya da sonra
+ortaya çıkabileceği görülmüştür.
+DARABİN’in kronik uygulama koşulları altında merkezi sinir sistemi üzerindeki etkisi
+bilinmemektedir. Ancak, hastalar önerilen dozu uzun tedavi süreli (26 küre varan tedaviler)
+çalışmalarda tolere etmişlerdir. Hastalar nörolojik etkiler yönünden sıkı takip edilmelidir.
+ Genel durum bozukluğu
+DARABİN genel sağlık durumu bozuk hastalara özenli bir risk/yarar değerlendirmesinden
+3 / 18sonra dikkatlice verilmelidir. Özellikle ileri derecede kemik iliği fonksiyonu bozukluğu
+(trombositopeni, anemi ve/veya granülositopeni), immün yetmezliği ve fırsatçı enfeksiyon
+anamnezi olan hastalarda dikkatle uygulanmalıdır. Fırsatçı enfeksiyon (Bkz. Bölüm 4.8
+İstenmeyen etkiler) gelişme riski artmış hastalarda profılaktik tedavi düşünülmelidir.
+ Miyelosupresyon
+Fludarabin fosfat ile tedavi edilen hastalarda ağır kemik iliği supresyonu, belirgin anemi,
+trombositopeni ve nötropeni bildirilmiştir. Solid tümör hastalarında yapılan bir faz I
+çalışmada, granülosit sayılarında ortalama 13 gün’de (dağılım: 3 - 25 gün) ve trombosit
+sayılarında 16 gün’den (dağılım: 2 - 32 gün) sonra önemli azalmalar meydana gelmiştir.
+Temel hastalıklarının ya da daha önceden gördükleri miyelosupressif tedavinin bir neticesi
+olarak hastaların çoğu, fludarabin fosfat tedavisinin başında hematolojik yetersizlik arz
+etmektedir. Kümülatif miyelosupresyonun oluşması mümkündür. Kemoterapi sonucu oluşan
+miyelosupresyon çoğu zaman geri dönüşümlü olsa dahi, DARABİN uygulaması özenli bir
+hematolojik takip gerektirmektedir.
+DARABİN belirgin potansiyel toksik yan etkileri olan potent bir antineoplastik ajandır.
+Tedavi alan hastalar hematolojik ve non-hematolojik belirtiler yönünden sıkı bir şekilde
+gözlemlenmelidir. Gelişebilecek anemi, nötropeni ve trombositopeniyi belirlemek için
+periyodik olarak periferik kan sayımı önerilmektedir. Yetişkin hastalarda, pansitopeni ile
+sonuçlanan trilineaj kemik iliği hipoplazisi veya aplazisinin ölümle sonuçlandığı
+bildirilmiştir. Bildirilen vakalardaki klinik olarak anlamlı sitopeninin süresi yaklaşık 2 aydan
+1 yıla kadardır. Bu durum daha önceden tedavi edilmiş veya tedavi edilmemişlerde de
+meydana gelmiştir.
+ Hastalığın ilerlemesi
+Hastalığın ilerlemesi ve transformasyonu (Richter sendromu gibi) KLL hastalarında sık
+bildirilmiştir.
+ Transfüzyon ile ilişkili Graft-versus-host hastalığı
+Fludarabin fosfat kullanan bazı hastalarda ışınlanmamış kan transfüzyonunu takiben, Graft
+versus host reaksiyonu (transfüzyon yolu ile verilen immunokompetan lenfositlerin alıcı
+organizmaya reaksiyonu) gözlemlenmiştir. Bu tür olguların sıklıkla ölümle sonuçlandığı
+bildirilmiştir. Bu açıdan DARABİN kullanan veya kullanmış hastalarda transfüzyon
+gerekliliğinde sadece, ışınlanmış kan rezervleri kullanılmalıdır.
+4 / 18 Cilt kanseri lezyonu
+Fludarabin fosfat tedavisi sırasında ya da sonrasında önceden var olan cilt kanseri
+lezyonlarında kötüleşme ya da alevlenme bildirilmiştir.
+ Tümör lizis sendromu
+Büyük tümör kitlelerine sahip hastalarda fludarabin fosfat tedavisi altında tümör lizis
+sendromu bildirilmiştir. Fludarabin fosfat tedavisine daha 1. haftada cevap alınması mümkün
+olduğundan, bu komplikasyonu oluşturma riski taşıyan hastalarda önlemlerin alınması
+gerekir.
+ Otoimmün olaylar
+Hastanın geçmişindeki otoimmün süreçler veya pozitif Coombs testi hikayesine bağlı
+olmaksızın, fludarabin fosfat tedavisi esnasında veya sonrasında hayati tehlike arz eden ve
+sıklıkla ölümle sonuçlanabilen oto immün olaylar (örn. otoimmün hemolitik anemi,
+otoimmün trombositopeni, trombositopenik purpura, pemfigus, Evans sendromu) (bkz. 4.8
+İstenmeyen etkiler bölümüne) bildirilmiştir. Hemolitik anemi geliştirmiş hastaların büyük
+kısmı, fludarabin fosfat ile tekrar tedavi edildiklerinde, hemolitik olay da tekrarlanır.
+Bu yüzden, DARABİN tedavisi alan hastalar, hemoliz bulguları bakımından yakından takip
+edilmelidir.
+Hemoliz durumunda DARABİN tedavisinin kesilmesi önerilir. Kan transfüzyonu
+(ışınlanmış) ve adrenokortikoid preparatları, otoimmün hemolitik anemi için yaygın tedavi
+yöntemlerdir.
+ Bozulmuş böbrek fonksiyonu
+Total vücut klirensinin en önemli plazma metaboliti olan 2F-ara-A, kreatinin klirensi ile
+korelasyon gösterir; bu da bileşiğin ortadan kaldırılması için renal atılım yolunun önemini
+göstermektedir. Böbrek fonksiyonları bozuk olan hastalarda, vücudun ilaca maruziyetinde
+artış görülmüştür. (2F-ara-A için EAA). Böbrek fonksiyon bozukluğu olan hastalar ile ilgili
+klinik veriler sınırlıdır (kreatin klirensi < 70 ml/dak.).
+DARABİN böbrek yetmezliği olan hastalarda dikkatle uygulanmalıdır. Böbrek fonksiyonları
+orta derecede bozuk olan hastalarda (kreatinin klirensi 30 - 70 ml/dak. arasında), doz % 50
+düşürülmeli ve hasta yakından takip edilmelidir. Kreatinin klirensi 30 ml/dak.’nın altında ise
+DARABİN kontrendikedir.
+ Yaşlılar
+Yaşlı kişilerle (>75 yaş) ilgili veriler sınırlı olduğundan, bu hastalara DARABİN
+uygulanırken dikkatli olunmalıdır.
+5 / 18 Gebelik
+Gerekli olmadıkça DARABİN gebelik süresince kullanılmamalıdır (yaşamı tehdit eden bir
+durum halinde veya ödün vermeden terapötik yarar sağlayacak başka alternatif bir tedavinin
+bulunmaması halinde veya tedavi kaçınılmaz ise). Kullanılması sadece fetüs üzerindeki
+potansiyel riskleri mazur gösterecek potansiyel fayda olması durumunda göz önünde
+bulundurulmalıdır.
+Kadınlar, DARABİN tedavisi sırasında hamile kalmaktan sakınmalıdır.
+Çocuk doğurma potansiyeli olan kadınlar, fetüs için oluşacak riskten haberdar olmalıdırlar.
+ Doğum kontrolü
+Üreme çağındaki kadınlar veya erkekler tedavi sırasında ve tedavinin en az 6 ay sonrasına
+kadar gebeliği önleyici tedbirler uygulamalıdır.
+ Emzirme
+DARABİN tedavisi sırasında emzirmeye başlanılmamalıdır. Kadınlar emzirmeyi
+sonlandırmaları için uyarılmalıdır.
+ Aşılama
+DARABİN tedavisi sırasında ve sonrasında canlı aşılarla aşılamadan kaçınılmalıdır.
+ Başlangıç DARABİN tedavisinden sonra tekrar tedavi seçenekleri
+Öncelikle DARABİN’e cevap veren hastaların, yeniden DARABİN tedavisine cevap verme
+şansları yüksektir. Başlangıç DARABİN tedavisine cevap vermeyenlerin klorambusil
+tedavisine geçirilmelerinden kaçınılmalıdır, çünkü fludarabin fosfata dirençli olan hastaların
+çoğunluğu klorambusile de direnç göstermiştir.
+ Yardımcı maddeler
+Enjeksiyon/infüzyon için hazır olan 50 mg toz içeren her bir flakon DARABİN 1 mmol’den
+daha az sodyum (23 mg) ihtiva eder; yani esasında “sodyum içermez”.
+4.5 Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+Yapılan klinik bir çalışmada fludarabin fosfat ile pentostatinin (deoksikoformisin) kombine
+kullanıldığı, refrakter kronik lenfositik lösemide (KLL), kabul edilemez sıklıkta ölümcül
+pulmoner toksisite saptanmıştır. Bu bakımdan DARABİN’in pentostatin ile birlikte
+kullanılmaması önerilmektedir.
+6 / 18DARABİN’in terapötik etkinliği, dipiridamol ve başka adenozin geri alınım inhibitörlerinin
+kullanımı sonucu azalabilir. Bir klinik araştırma, farmakokinetik parametrelerin, yemekle
+birlikte ağız yolu ile alındıktan sonra belirgin olarak değişmediğini göstermiştir.
+Klinik çalışmalar ve in vitro deneyler, fludarabin fosfatın cytarabine ile kombine olarak
+kullanıldığında, lösemi hücrelerinde Ara-CTP (cytarabin’in aktif molekülü)’nin hücre içi
+konsantrasyonunu ve hücre içi görünümünü arttırdığını göstermiştir.
+Özel popülasyonlara ilişkin ek bilgiler:
+Özel popülasyonlara ilişkin ek bilgi bulunmamaktadır.
+Pediyatrik popülasyon:
+Özel popülasyonlara ilişkin ek bilgi bulunmamaktadır.
+4.6 Gebelik ve Laktasyon
+Genel tavsiye
+Gebelik kategorisi: D
+Fludarabin fosfatın gebelik ve/veya fetus/yeni doğan üzerinde zararlı farmakolojik etkileri
+bulunmamaktadır.
+DARABİN, gerekli olmadıkça gebelik döneminde kullanılmamalıdır.
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon)
+Çocuk doğurma potansiyeli olan kadınlar, fetüs için oluşacak riskten haberdar olmalıdırlar.
+Üreme çağındaki kadınlar veya erkekler tedavi sırasında ve tedavinin en az 6 ay sonrasına
+kadar gebeliği önleyici tedbirler uygulamalıdır.
+Gebelik dönemi
+Fareler ve tavşanlar üzerindeki intravenöz embriyotoksitite çalışmaları, öngörülen tedavi
+dozlarının insanlarla ilgili de embriyolethal ve teratojenik potansiyeli olduğunu göstermiştir.
+Farelerdeki klinik öncesi veriler fludarabin fosfat ve/veya metabolitlerinin fetoplasenta
+bariyerini geçebildiğini göstermiştir. (bkz. 5.3 Klinik Öncesi Güvenlilik Bölümü)
+Fludarabin fosfat’ın 1. trimester’deki gebe kadınlardaki kullanımına dair veriler oldukça
+sınırlıdır.
+Çift taraflı radius kemiği yokluğu ve normal baş parmaklar, trombositopeni, fossa ovalis
+7 / 18anevrizması ve ufak bir patent duktus arteriosus ile bir yeni doğan tarif edilmiştir. Fludarabin
+fosfatın gerek monoterapisi gerek kombine tedavisi sonucunda erken düşük rapor edilmiştir.
+DARABİN gebelik süresince gerekli görülmediği takdirde kullanılmamalıdır (yaşamı tehdit
+eden bir durum halinde veya ödün vermeden terapötik yarar sağlayacak başka alternatif bir
+tedavinin bulunmaması halinde veya tedavi kaçınılmaz ise). Fetal zarar potansiyeline
+sahiptir.
+Fludarabin fosfatın gebelik ve/veya fetus/yeni doğan üzerinde zararlı farmakolojik etkileri
+bulunmaktadır.
+DARABİN gerekli olmadıkça (yaşamı tehdit eden bir durum halinde veya ödün vermeden
+terapötik yarar sağlayacak başka alternatif bir tedavinin bulunmaması halinde veya tedavi
+kaçınılmaz ise) gebelik döneminde kullanılmamalıdır.
+Laktasyon dönemi
+İlacın anne sütüne geçip geçmediği bilinmemektedir. Ancak, preklinik veriler fludarabin
+fosfat ve/veya metabolitlerinin anne kanından, süte geçtiğini kanıtlamıştır.
+Bir peri-/postnatal gelişim çalışmasında, farelere geç gestasyon ve laktasyon periyodu
+süresince intravenöz olarak 1, 10 ve 40 mg/kg/gün dozlarında fludarabin fosfat
+uygulanmıştır. Yüksek doz grubundaki sonuçlar vücut kilo alımında ve canlılıkta azalma ile
+postpartum 4. günde iskelet gelişiminde gecikme göstermiştir. Ancak doz periyodunun,
+prenatal gelişimi örtüğü göz önünde bulundurulmalıdır. (Bkz Bölüm 4.6. Gebelik ve
+laktasyon)
+Bundan dolayı, DARABİN tedavisi sırasında emzirmeye başlanılmamalıdır. Kadınlar
+emzirmeyi sonlandırmaları için uyarılmalıdır.
+(Bkz 4.4. Özel kullanım uyarıları ve önlemleri)
+DARABİN emzirme döneminde kullanılmamalıdır.
+Üreme yeteneği / Fertilite
+DARABİN’in üreme yeteneği / fertilite üzerine etkileri bilinmemektedir.
+8 / 184.7. Araç ve Makine Kullanımı Üzerindeki Etkiler
+DARABİN, yorgunluk, halsizlik, görme bozukluğu, konfüzyon, ajitasyon ve nöbetlere yol
+açtığından araç ve makina kullanım kabiliyetini azaltabilir. Reaksiyonlar, düzensiz uyku,
+bireysel duyarlılık ve dozdan dolayı bozulmuş olabilir.
+4.8. İstenmeyen Etkiler
+Fludarabin fosfat ile ilgili tecrübelere dayanarak, en sık karşılaşılan advers etkiler,
+miyelosupresyon (nötropeni, trombositopeni ve anemi) ve pnömoni, öksürük, ateş,
+güçsüzlük, bulantı, kusma ve diyareyi içeren enfeksiyonlar olarak geçmektedir. Diğer sık
+olarak rapor edilen olaylar titreme, ödem, keyifsizlik, periferik nöropati, görme bozukluğu,
+anoreksiya, mukozit, stomatit ve döküntüdür. Fludarabin fosfat ile tedavi olan hastalarda
+ciddi fırsatçı enfeksiyonlar oluşmuştur. Ciddi advers etkiler sonucu ölümler bildirilmiştir.
+Aşağıdaki tablo MedDRA organ sistem sınıflamasına (MedDRA SOCs) göre advers etkileri
+göstermektedir. Frekanslar, klinik çalışmalarda fludarabin fosfat ile ilişkili verilere
+dayanmaktadır. Nadir advers etkiler, pazarlama sonrası deneyimlerle belirlenmiştir.
+Tablo 1: Fludarabin fosfat ile tedavi edilen hastalardaki advers etkiler klinik çalışmalar veya
+pazarlama sonrası çalışmalar sırasında belirlenmiştir.
+Organ Çok Yaygın Yaygın Yaygın Seyrek Bilinmiyor
+Sistem ≥1/10 ≥1/100 ila <1/10 olmayan ≥1/10000 ila (Eldeki
+Sınıflaması ≥1/1000 <1/1000 verilerden
+MedDRA ila hareketle
+<1/100 tahmin
+edilemiyor)
+Enfeksiyonlar /
+Enfeksiyon ve fırsatçı Lenfoprolifera-
+enfestasyonlar enfeksiyonlar tif bozukluklar
+(latent viral (EBV ilişkili)
+reaktivasyonlar
+gibi örn.
+Herpes zoster
+virüs, Epstein
+9 / 18barr virüs,
+multifokal
+lökoensefalopa
+ti (PML)),
+pnömoni
+Kist ve Miyelodisplastik
+polipler de sendrom ve akut
+dahil olmak miyeloid lösemi
+üzere iyi (özellikle
+huylu ve kötü alkilleyici
+huylu ajanlar,
+neoplazmlar topoizomeraz
+inhibitörleri veya
+radyoterapi
+öncesinde,
+birlikte veya
+daha sonraki
+tedavi ile ilişkili)
+Kan ve Nötropeni, Miyelosupresyon
+lenfatik anemi,
+sistem trombositopeni
+bozuklukları
+Organ Çok Yaygın Yaygın olmayan Seyrek Bilinmiyor
+10 / 18Sistem Yaygın ≥1/100 ila ≥1/1000 ila ≥1/10000 (Eldeki
+Sınıflaması ≥1/10 <1/10 <1/100 ila <1/1000 verilerden
+MedDRA hareketle
+tahmin
+edilemiyor)
+Otoimmun
+Bağışıklık bozukluklar
+sistemi (otoimmun
+bozuklukları hemolitik anemi,
+trombositopenik
+purpura,
+pemfıgus, Evans
+sendromu,
+edinsel hemofili)
+Metabolizma Anoreksi Tümör lizis
+ve beslenme sendromu
+bozuklukları (böbrek
+yetmezliği,
+hiperkalemi,
+metabolik
+asidoz,
+hematoüri, ürat
+kristalleri,
+hiperüremi,
+hiperfosfatemi,
+hipokalsemi)
+Sinir sistemi Periferik Konfüzyon Ajitasyon,
+bozuklukları nöropati nöbetler,
+koma
+Göz Görme Optik nörit,
+bozuklukları bozukluğu optik
+nöropati,
+körlük
+11 / 18Kardiyak Kalp
+bozukluklar yetersizliği,
+aritmi
+Vasküler Gastrointestinal Kanama
+bozukluklar kanama (serebral
+kanama,
+pulmoner
+kanama,
+kistik
+kanama)
+Solunum, Öksürük Pulmoner
+torasik ve toksisite (dispne,
+mediastinal pulmoner
+bozukluklar fıbrozis,
+pnömoni)
+Organ Sistem Çok Yaygın Yaygın Yaygın Seyrek Bilinmiyor
+Sınıflaması ≥1/10 ≥1/100 ila olmayan ≥1/10000 ila (Eldeki
+MedDRA <1/10 ≥1/1000 ila <1/1000 verilerden
+<1/100 hareketle
+tahmin
+edilemiyor)
+Gastrointestinal Bulantı, Stomatit Pankreatik
+bozukluklar kusma, enzim
+diyare anormalliği
+Hepatobiliyer Hepatik
+bozukluklar enzim
+anormaliliği
+Deri ve derialtı Döküntü Cilt kanseri,
+doku Stevens-
+bozuklukları Johnson
+sendromu,
+12 / 18epidermal
+toksik
+nekroliz
+(Lyell tipi)
+Genel Ateş, Titreme,
+bozukluklar ve yorgunluk, keyifsizlik,
+uygulamaya güçsüzlük ödem,
+ilişkin mukozit
+hastalıklar
+Bazı advers etkileri tarif eden en uygun MedDRA terimleri listelenmiştir. Benzer veya ilişkili
+durumlar listeye dahil edilmemiştir fakat toplama dahil edilmiştir. Advers etki terminolojisi
+MedDRA versiyon 12.0’a dayanmaktadır.
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar / risk dengesinin sürekli olarak izlenmesine olanak
+sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir. (www.titck.gov.tr; e- posta:
+tufam@titck.gov.tr; tel: 0 800 314 00 08; faks: 0 312 218 35 99)
+4.9. Doz aşımı ve tedavisi
+ Semptomlar
+Yüksek fludarabin fosfat dozları, uzamış körlük, koma ve ölüm ile karakterize olan geri
+dönüşümsüz merkezi sinir sistemi toksisitesine neden olmuştur. Yüksek dozlar ayrıca kemik
+iliği supresyonuna bağlı ağır trombositopeni ve nötropeni ile de alakalıdır.
+DARABİN’in aşırı doz durumlarında uygulanabilecek spesifik antidotu yoktur. Tedavi ilacın
+kesilmesi ve yardımcı terapi şeklindedir.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1. Farmakodinamik Özellikler
+Farmakoterapotik grup: antineoplastik ajanlar, pürin analogları
+ATC kodu: L01B B05
+13 / 18Fludarabin fosfat, bir antiviral ajan olan vidarabinin (9-β-D-arabinofuranosiladenin/ara-A)
+adenosin deaminaz tarafından deaminasyona oldukça dayanıklı, suda çözünebilir florlanmış
+bir nükleotid analoğudur.
+Fludarabin fosfat hızla 2F-ara A’ya defosforilize olur, hücrelere alınır ve intrasellüler
+deoksisitidin kinaz vasıtasıyla esas aktif trifosfat 2F-ara-ATP’ye fosforilize olur. Bu
+metabolitin ribonukleotid redüktaz, DNA polimeraz α, δ ve ε, DNA primaz, DNA ligazı ve
+dolayısıyla DNA sentezini inhibe ettiği gösterilmiştir. Bunun dışında RNA polimeraz II’nin
+kısmi inhibisyonu ile protein sentezinde bir azalma meydana gelir.
+2F-ara-ATP’nin etki mekanizması ile ilgili bazı yönlerin henüz tam bilinmemesine karşın,
+başta DNA sentezinin inhibisyonu olmak üzere, DNA, RNA ve protein sentezi üzerindeki
+etkilerin hücre çoğalmasının inhibisyonunda birer ana unsur oldukları düşünülmektedir. B
+hücresi kronik lemfositik lösemide lenfositler, in-vitro çalışmalarda, 2F-ara-A’ya maruz
+kalınca yaygın DNA fragmentasyonu ve apoptoz’a ait hücre ölümü özellikleri
+göstermişlerdir.
+5.2. Farmakokinetik Özellikler
+Fludarabin (2F-ara-A)’in plazma ve üriner farmakokinetiği:
+Fludarabin (2F-ara-A)’in farmakokinetiği, hızlı bolus enjeksiyonu ve kısa süreli infüzyondan
+sonra ve ayrıca fludarabin fosfatın (2F-ara-AMP) sürekli infüzyonundan sonra çalışıldı. 2F-
+ara-A, CLL ve Lg-NHL hastalarında benzer farmakokinetik profil göstermiştir.
+2F-ara-A farmakokinetiği ile kanser hastalarındaki tedavi etkisi arasında belirgin bir bağlantı
+bulunamamıştır. Ancak, nötropeni ve hematokrit değişimleri olması, fludarabin fosfat
+sitotoksisitesinin doza bağımlı bir şekilde hematopoezi baskıladığını gösterir.
+ Dağılım ve biyotransformasyon
+Fludarabinin suda çözünür bir ön maddesi olan fludarabin-fosfat (2F-ara-AMP), insan
+organizmasında hızla ve kantitatif olarak defosforlanarak 2F-ara-A nukleosidine
+dönüşmektedir. Başka bir metabolit, köpekte ana metabolit olan 2F-ara-hipoksantin, insanda
+önemsiz miktarda gözlenmiştir.
+Kanser hastalarında m2 başına 25 mg 2F-ara-AMP’nin 30 dakikalık infüzyonunu hemen
+takiben 2F-ara-A’nın ortalama plazma konsantrasyonu 3,5 - 3,7 µM olarak saptanmıştır. 5.
+dozdan sonra, infüzyonun sonunda, benzer 2F-ara-A seviyeleri, 4.4 - 4.8 µM ortalama
+maksimum seviyeleri ile hafif akümülasyon göstermiştir. 5 günlük tedavi programı süresince,
+14 / 182F-ara-A plazma seviyeleri, 2 gibi bir faktörle yükselir. Pek çok tedavi siklusundan sonra 2F-
+ara-A birikimi hesaba katılmayabilir. Postmaksimum plazma seviyeleri üç dispozisyon fazı
+şeklinde azalmaktadır. Bunların ilki yaklaşık 5 dakikalık, bunu takip eden 1-2 saatlik ve
+sonuncusu yaklaşık 20 saatlik yarılanma ömürlerine sahiptir.
+2F-ara-A’nın karşılaştırmalı farmakokinetik çalışmasına göre ortalama total plazma klirensi
+79 ml/dak./m2 (2.2 ml/dak./kg) ve ortalama dağılım hacmi (Vss) 83 l/m2 (2,4 l/kg) dir.
+Veriler interindividüel olarak farklılıklar göstermiştir. Fludarabin fosfatın i.v. ve peroral
+uygulamasından sonra, 2F-ara-A plazma seviyeleri ve plazma seviyesi zaman eğrisi altında
+kalan alan dozla lineer artış gösterir, aynı zamanda, yan ömür, plazma klirensi ve dağılma
+hacmi dozdan bağımsız, sabit kalır.
+Peroral kullanımdan sonra, maksimal 2F-ara-A seviyeleri, infüzyon sonunda elde edilene
+karşılık gelen seviyelerin yaklaşık % 20-30’una ulaşır ve dozdan 1-2 saat sonra meydana
+gelir. Tek ve tekrarlanan dozlardan sonra ortalama sistemik 2F-ara-A yararlanımı % 50 –
+65’dir ve bir solüsyonun veya hemen çözünür tablet formülasyonunun alınımından sonra da
+aynıdır. Beraberinde yiyecekle alındığında 2F-ara- AMP nın peroral dozundan sonra sistemik
+yararlanımında (EAA) hafif bir artış (< %10), maksimal plazma seviyelerinde (Cmax) hafif
+bir azalma ve maksimal plazma seviyesine ulaşmada gecikme gözlemlenir; terminal yarı-
+ömürler etkilenmemektedir.
+ Eliminasyon
+2F-ara-A'nm eliminasyonu büyük oranda renal yol ile gerçekleşmektedir. İntravenöz
+uygulanan dozun %40-60’ı idrar ile atılır. Laboratuar hayvanlarında 3H-2F-ara-AMP ile
+yapılan kütle denge çalışmaları, radyoaktif işaretlenmiş maddelerin idrarda tamamen
+görüldüğünü göstermiştir.
+ Hastalardaki karekteristik özellikler
+Renal fonksiyon bozukluğuna sahip kişilerde total vücut klirensi azalmaktadır. Bu durum
+dozun azaltılması gereğine işaret etmektedir. İn vitro araştırmalar 2F-ara-A’nın insan plazma
+proteinlerine bağlanmaya meyilli olmadığını ortaya koymuştur.
+Fludarabin trifosfatın hücresel farmakokinetiği:
+2F-ara-A, lösemik hücrelere aktif olarak taşınır, burada yeniden monofosfata ve sırasıyla
+difosfat ve trifosfata fosforlanır. Trifosfat 2F-ara-ATP, majör interselüler metabolittir ve
+sitotoksik etkili olduğu bilinen tek metabolittir. KLL hastalarının lösemik lenfositlerindeki
+15 / 18maksimum 2F-ara-ATP seviyeleri, 4 saatlik bir medyanda incelendi ve yaklaşık 20 µM
+medyan pik konsantrasyonu ile önemli bir değişim gösterdi. Lösemik hücrelerde, 2F-ara-
+ATP seviyeleri plazmadaki 2F-ara-A seviyelerinden yüksektir ki bu hedef bölgelerde
+akümülasyonun göstergesidir. Lösemik lenfositlerin in vitro inkübasyonu, ekstraselüler 2F-
+ara-A etkilenimi (2F-ara-A ürün konsantrasyonu ve inkübasyon süresi) ile intraselüler 2F-
+ara- ATP zenginleştirmesi arasında lineer bağlantı görülmüştür. Hedef hücrelerden 2F-ara-
+ATP eliminasyonu 15-23 saatlik bir medyan yarı ömrü göstermiştir.
+5.3. Klinik Öncesi Güvenlilik Verileri
+ Sistemik toksisite
+Akut toksisite çalışmalarında, terapötik dozun iki katı dozda Fludarabin fosfat, tek doz
+uygulandığında ciddi intokisikasyon belirtileri veya ölüme yol açar. Sitotoksik bir bileşikten
+beklendiği gibi, kemik iliği, lenf organları, gastrointestinal mukoza, böbrekler ve ter bezlerini
+etkiler. Tavsiye edilen terapötik dozlara yakın dozlar uygulanan hastalarda ciddi yan etkiler
+ve kısmen ölümcül ciddi nörotoksisite gözlendi (Bkz. 4.9 Doz aşımı ve tedavisi)
+Fludarabin fosfatın tekrarlanan dozları takiben yapılan sistemik toksisite çalışmaları da, eşik
+dozu üzerinde, hızla büyüyen dokularda, yine beklenen etkileri göstermiştir. Morfolojik
+belirtilerin ciddiyeti doz seviyeleri ve dozlama süresi ile artar ve gözlenen değişiklikler,
+genellikle geriye dönüşümlüdür. Hastalarda nörotoksisite gibi ilave bazı istenmeyen etkiler
+görülse de genel olarak fludarabin fosfatın terapötik olarak kullanımından elde edilen
+deneyimler, insanlardaki toksikolojik profile uygundur (Bkz 4.8 İstenmeyen etkiler)
+ Embriyotoksisite
+İskelet malformasyonları, fetal kilo kaybı ve post implamantasyon kaybının olduğu fare ve
+tavşanlardaki intravenöz embriyotoksisite çalışmaları fludarabin fosfatın embriyolethal ve
+teratojenik potansiyeli olduğunu göstermektedir.
+Hayvanlardaki teratojenik doz ile insanlardaki terapötik doz arasındaki dar güvenlik aralığı
+ve farklılaşma sürecini bozan diğer antimetabolitler ile benzerlik göz önüne alındığında,
+fludarabin fosfatın terapötik kullanımı, insanda teratojenik etki riski ile bağlantılı
+görülmektedir (Bkz. “Gebelik ve Laktasyon”).
+ Genotoksik potansiyel, tümorigenisite
+Fludarabin fosfat’ın, kardeş kromatid değişim testinde DNA hasarına neden olduğu, bir in
+vitro sitogenetik testte, kromozomal sapmalara neden olduğu, in vivo fare mikronükleus
+16 / 18testinde farede mikronüklei oranını arttırdığı gösterilmiştir. Ancak, gen mutasyon
+tayinlerinde ve erkek farede yapılan dominant letal testinde negatif bulunmuştur. Böylelikle,
+mutajenik potansiyelin somatik hücrelerde olduğu, germ hücrelerinde görülmediği gösterildi.
+DNA düzeyinde ve mutajenisite test sonuçlarında fludarabin fosfatın bilinen aktivitesi
+tümorijenik potansiyel kuşkusunu oluşturmaktadır. Direkt tümorijeniste sorusunu cevaplayan
+hayvan çalışmaları yürütülmedi, çünkü, fludarabin fosfat tedavisine bağlı ikinci tümör riski
+artışı şüphesi, epidemiyolojik verilerle kanıtlanabilir.
+ Lokal tolerans
+Fludarabin fosfatın intravenöz uygulamasını takiben yapılan hayvan deneylerinden alınan
+sonuçlara göre, enjeksiyon bölgesinde lokal irritasyon beklenmemektedir. 7.5 mg/ml
+fludarabin fosfat içeren sulu çözeltinin paravenöz, intraarteriyel, intramüsküler uygulamaları,
+yanlış bölgeye yapılsa dahi belirgin bir lokal irritasyon gözlenmemiştir.
+Hayvan deneylerinde, gastrointestinal sistemde görülen lezyonların, i.v. veya intragastrik
+alımda gösterdiği benzerlik, fludarabin fosfatın neden olduğu enteritisin sistemik bir etki
+olma olasılığını destekler.
+6. FARMASÖTİK ÖZELLİKLER
+6.1. Yardımcı maddelerin listesi
+Mannitol
+Sodyum hidroksit (pH değerini 7.7 olarak ayarlamak için)
+6.2. Geçimsizlikler
+Geçimlilik çalışmaları yapılmadığından, DARABİN başka tıbbi ürünler ile karıştırılmamalıdır.
+6.3. Raf ömrü
+Raf ömrü 24 ay’dır.
+Ürün sulandırıldıktan ve seyreltildikten sonra 2-8 °C’de 24 saat süre ile saklanabilir.
+6.4. Saklamaya yönelik özel tedbirler
+25°C’nin altındaki oda sıcaklığında ve ambalajında saklayınız.
+6.5. Ambalajın niteliği ve içeriği
+50 mg fludarabin fosfat içeren flipoff aluminyum kapaklı, bromobutil tıpalı 6 ml’lik renksiz
+Tip I cam flakon; 1 ve 5 adet.
+17 / 186.6. Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+DARABİN hamile personel tarafından hazırlanmamalıdır.
+Kullanılmış olan ürünler ya da atık materyaller “Tıbbi Atıkların Kontrolü Yönetmeliği” ve
+“Ambalaj ve Ambalaj Atıklarının Kontrolü Yönetmelikleri” ‘ne uygun olarak imha
+edilmelidir.
+DARABİN hamile personel tarafından hazırlanmamalıdır.
+7. RUHSAT SAHİBİ
+KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.
+Mahmutbey Mah. Kuğu Sok. No:18
+Bağcılar/İSTANBUL
+Tel. : 0212 410 39 50 Fax : 0212 447 61 65
+8. RUHSAT NUMARASI
+2015/881
+9. İLK RUHSAT TARİHİ/ RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi: 23.11.2015
+Ruhsat yenileme tarihi:-
+10.KÜB'ÜN YENİLENME TARİHİ
+-
+18 / 18

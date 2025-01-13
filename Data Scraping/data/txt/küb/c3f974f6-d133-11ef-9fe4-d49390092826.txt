@@ -1,0 +1,565 @@
+KISA ÜRÜN BİLGİSİ
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+ROXİPİME 2 g IV Enjeksiyon ve İnfüzyon İçin Toz İçeren Flakon
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde:
+Her bir flakon toz halde 2 g sefepime eşdeğer miktarda sefepim hidroklorür içerir.
+Yardımcı maddeler:
+Yardımcı maddeler için 6.1’ e bakınız.
+3. FARMASÖTİK FORMU
+Enjeksiyonluk steril toz
+Açık sarı beyaz renkte toz.
+4. KLİNİK ÖZELLİKLERİ
+4.1. Terapötik Endikasyonları
+ROXİPİME aşağıdaki belirtilen enfeksiyonların tedavisinde eğer etken organizma duyarlı ise kullanılır.
+- Şiddetli pnömoni; Pnömoni etkeni Streptococcus pneumoniae (bakteriyeminin eşlik ettiği vakalar
+dahil), Pseudomonas aeruginosa, Klebsiella pneumoniae veya Enterobakter türleri olan,
+- Febril nötropeninin ampirik tedavisinde,
+- Üriner sistem enfeksiyonlarının, komplike olan ve komplike olmayanlarının, piyelonefrit dahil
+tedavisinde, etkenler Escherichia coli, Klebsiella pneumoniae, Proteus mirabilis olduğunda
+(bakteriyeminin eşlik ettiği vakalar dahil) veya mikrobiyolojik olarak etkinliğin gösterildiği ajanlarda,
+- İntraabdominal enfeksiyonların tedavisinde metronidazol ile kombine olarak kullanılır.
+Enfeksiyon etkeni organizmanın sefepime duyarlılığını saptamak için kültür ve duyarlılık testleri
+yapılmalıdır. ROXİPİME ile ampirik tedavi duyarlılık testlerinin sonuçları beklenmeden başlatılabilir
+ve bu testlerin sonuçları belirlendiğinde antibiyotik tedavisi sonuca göre düzenlenmelidir.
+1Aerobik-anaerobik karışık enfeksiyon riski olan hastalarda, özellikle eğer sefepime duyarlı olmayan
+bakteriler varsa, tedavinin başında etken organizma belirlenene kadar anti-anaerobik bir ilacın
+tedaviye ilavesi önerilir. Sonuçlar belli olunca, duyarlılık profiline göre, ROXİPİME’in diğer
+antiinfektif ajanlarla kombine uygulanıp uygulanamayacağına karar verilir.
+4.2. Pozoloji ve Uygulama Şekli
+Pozoloji/uygulama sıklığı ve süresi:
+Yetişkinler ve 40 kg’ın Üzerindeki Çocuklar
+Normal böbrek fonksiyonları olan yetişkinlerde ve vücut ağırlıkları 40 kg’ın üzerinde olan çocuklarda
+ROXİPİME doz uygulama şeması Tablo 1’de gösterilmiştir.
+TABLO 1
+Normal Böbrek Fonksiyonları Olan Yetişkinler ve 40 kg’ın Üzerindeki Çocuklar
+(12 yaş ve üstü) için Önerilen Doz Şeması*
+Enfeksiyonun Ciddiyeti Doz ve Uygulama Yolu Doz Aralığı
+Şiddetli Enfeksiyonlar 2 g İ.V. 12 saatte bir
+Çok Şiddetli veya Hayatı
+Tehdit Eden 2 g İ.V. 8 saatte bir
+Enfeksiyonlar
+*Tedavinin normal süresi 7-10 gündür, daha ciddi enfeksiyonlarda daha uzun süreli tedavi gerekebilir. Febril nötropeninin
+ampirik tedavi süresi 7 gündür ya da nötropeni kaybolana kadar devam eder.
+12 yaş ve üzeri çocuklarda kullanılır.
+Vücut ağırlıkları 40 kg’ın üstünde olan pediyatrik hastalara yetişkinler için önerilen dozlar
+uygulanabilir (bkz; tablo 1). 12 yaşından büyük, vücut ağırlığı 40 kg’ın altında olanlarda ise
+pediyatrik dozların uygulanması gerekir. Pediyatrik hastalardaki doz yetişkinler için önerilen
+maksimum dozu geçmemelidir (her 8 saatte bir 2 g). Pediyatrik hastalarda intramüsküler uygulamaya
+dair sınırlı deneyim vardır.
+2Uygulama şekli:
+ROXİPİME intravenöz olarak uygulanır (bkz.; 6.6). Doz ve uygulama yolu, enfeksiyon etkeni
+organizmaların duyarlılık dereceleri, enfeksiyon şiddeti, hastanın durumu ve böbrek fonksiyonlarına
+göre değişir.
+Özel popülasyonlara ilişkin ek bilgiler:
+Böbrek yetmezliği:
+Böbrek fonksiyon yetersizliği olan hastalarda, daha yavaş olan böbrek eliminasyon hızını kompanse
+etmek için sefepim dozunun ayarlanması gerekir. Hafif ila orta derecede böbrek yetmezliği olan
+hastalarda tavsiye edilen başlangıç sefepim dozu böbrek fonksiyonları normal olan hastalara
+uygulanan doz ile aynı olmalıdır.
+Böbrek yetmezliği olan yetişkin hastalarda kreatinin klerensine göre önerilen idame dozu Tablo 2’de
+sunulmuştur.
+Sadece serum kreatinin değerleri mevcut ise aşağıdaki formül (Cockcroft ve Gault denklemi) ile
+kreatinin klerensi tayin edilebilir.
+Ağırlık (kg) × (140-yaş)
+Erkeklerde: Kreatinin klerensi (ml/dak) =
+72 × serum kreatinini (mg/dl)
+Kadınlarda: 0.85 × yukarıdaki değer
+3TABLO 2
+Böbrek Yetmezliği Olan Yetişkin Hastalarda İdame Doz Şeması*
+Kreatinin
+Klerensi
+Önerilen İdame Dozu
+(ml/dk)
+Çok ciddi veya hayatı tehdit
+Ciddi enfeksiyonlar
+eden enfeksiyonlar
+>50 8 saatte bir 2g 12 saatte bir 2g
+30-50 12 saatte bir 2g 24 saatte bir 2g
+11-29 24 saatte bir 2g 24 saatte bir 1g
+24 saatte bir
+≤10 24 saatte bir 1g
+500 mg
+24 saatte bir 24 saatte bir
+Hemodiyaliz*
+500mg 500mg
+*Farmakokinetik modelleme bu hastalar için azaltılmış dozlamanın gerekli olduğunu göstermektedir.
+Sefepim alan hemodiyaliz hastalarının dozlaması aşağıdaki şekilde olmalıdır: Sefepim tedavisinin ilk
+günü 1 g yükleme dozu ve bunu takiben febril nötropeni dışındaki tüm enfeksiyonlar için her gün 500
+mg; febril nötropeni için ise her gün 1 g’dır. Diyaliz günlerinde, sefepim diyalizi takiben uygulanır.
+Sefepim mümkün olduğu kadar günün aynı saatinde uygulanmalıdır.
+Diyaliz Hastaları: Hemodiyaliz uygulanacak hastalarda, diyaliz başlangıcında vücutta
+bulunan sefepimin yaklaşık %68’i 3 saat süren bir diyaliz süresince atılır. Ayakta peritoneal
+diyaliz yapılacak hastalarda, sefepim böbrek fonksiyonları normal olan hastalar için
+önerilen dozlarda uygulanabilir (örn. enfeksiyonun ciddiyetine göre 48 saat ara ile 250 mg,
+500 mg, 1 g veya 2 g).
+Böbrek yetmezliği olan çocuklar: Pediyatrik hastalarda sefepim başlıca idrarla atıldığı için
+(bkz; bölüm 5.2), bu popülasyonda ROXİPİME dozunun ayarlanması gerekir. Sadece serum
+kreatinin düzeyi biliniyorsa aşağıdaki yöntemle kreatinin klerensi hesaplanır.
+Kreatinin klerensi (ml/dak./1,73 m²) = 0,55 × boy (cm) / serum kreatini (mg/dl)
+Kreatinin klerensi (ml/dak./1,73 m²) = 0,52 × boy (cm) / serum kreatini (mg/dl) - 3,6
+4Karaciğer yetmezliği: Karaciğer yetmezliği durumunda doz ayarlaması gerekmez.
+Pediyatrik popülasyon: Ayrıntılı bilgi için “Pozoloji/uygulama sıklığı ve süresi”
+bölümünde çocuklar ile ilgili kısma bakınız.
+Geriyatrik popülasyon: Klinik çalışmalarda, böbrek yetmezliği olmadığı takdirde normal
+yetişkinler için önerilen dozu alan yaşlı hastalarda ROXİPİME’in klinik etkinliği ve
+güvenliliğinin yetişkin hastalardakinden farklı olmadığı kaydedilmiştir (bkz.; bölüm 4.4).
+4.3. Kontrendikasyonlar
+Sefalosporin grubu antibiyotikler, penisilinler ve diğer beta-laktam antibiyotikler veya
+yardımcı maddelerden herhangi birine karşı alerjisi olanlarda kontrendikedir.
+4.4. Özel kullanım uyarıları ve önlemleri
+Böbrek yetmezliğinden dolayı üriner atılımın azaldığı (kreatinin klerensi ≤ 50 ml/dakika)
+veya böbrek fonksiyonunu baskılayan diğer rahatsızlıkları bulunan hastalarda daha yavaş
+olan böbrek eliminasyon hızını kompanse etmek için, ROXİPİME dozu ayarlanmalıdır.
+Böbrek yetmezliği veya böbrek fonksiyonunu baskılayan diğer rahatsızlıkları olan
+hastalarda normal dozlarla yüksek ve uzun süreli antibiyotik konsantrasyonları
+oluşabileceğinden bu grup hastalara sefepim uygulanacağı zaman idame doz azaltılmalıdır.
+İdame dozu, böbrek yetmezliğinin derecesine, enfeksiyonun şiddetine ve neden olan
+organizmanın duyarlılığına göre tespit edilmelidir (bkz. Bölüm 4.2). İlaç kullanıma
+sunulduktan sonraki güvenlilik araştırmasında, geri-dönüşlü ensefalopati (konfüzyon,
+halüsinasyonlar, stupor ve koma dahil bilinç kaybı), miyoklonus, nöbet (konvülsif olmayan
+epileptik durum dahil) ve/veya böbrek fonksiyon bozukluğu kaydedilmiştir (bkz; bölüm
+4.8). Bu vakaların pek çoğu böbrek yetmezliği olan ve önerilenden daha yüksek dozda
+ROXİPİME alan hastalarda ortaya çıkmıştır. Genelde, nörotoksisite semptomları sefepimin
+kesilmesinden ve/veya hemodiyalizden sonra ortadan kalkar ancak bazı vakalar fatal
+olmuştur.
+ROXİPİME dahil hemen hemen bütün antibakteriyel ajanların kullanımıyla Clostridium
+5difficile ile ilişkilendirilen diyare (CDAD) bildirilmiştir ve şiddetine göre hafif diyareden
+fatal kolitlere kadar sıralanabilir. Antibiyotik kullanımını takiben diyare görülen hastalarda bu
+teşhis (CDAD) göz önünde bulundurulmalıdır. Antibakteriyel ajan kullanımından iki ay
+sonrasına kadar Clostridium difficile ile ilişkilendirilen diyar görüldüğü bildirilmiş
+olduğundan, bu süreç içerisinde bilinçli ilaç kullanımı gerekmektedir Eğer Clostridium
+difficile ile ilişkilendirilen diyare teşhis edilir veya bu teşhisten şüphelenilirse; devam eden
+ve doğrudan Clostridium difficile’ye karşı etkili olmayan antibiyotik kullanımının kesilmesi
+gerekebilir.
+Aminoglikozidler ve potent diüretikler gibi nefrotoksik potansiyele sahip ilaçlar,
+ROXİPİME ile birlikte uygulandığında böbrek fonksiyonu dikkatle izlenmelidir.
+Özellikle ilaçlara karşı alerjik reaksiyon gösteren hastalarda antibiyotikler dikkatle
+uygulanmalıdır. Eğer ROXİPİME uygulanmasında alerjik bir reaksiyon görülürse ilaç derhal
+kesilmeli ve hastaya gerekli tedavi uygulanmalıdır. Ciddi aşırı duyarlılık reaksiyonları
+görülürse epinefrin veya diğer destekleyici tedavi gerekebilir.
+Diğer antibiyotiklerle olduğu gibi, ROXİPİME duyarlı olmayan organizmaların aşırı
+üremesine sebep olabilir. Tedavi sırasında süperenfeksiyon görülürse, uygun önlemlerin
+alınması gerekir.
+Yaşlılarda kullanımı: Klinik çalışmalarda, 6400’den daha fazla sefepim tedavisi gören
+yetişkin hastaların %16’sı 75 yaş ve daha yaşlı iken %35’i 65 yaş ve üzerindedir. Klinik
+çalışmalarda, böbrek yetmezliği olmadığı takdirde normal yetişkinler için önerilen dozu
+alan yaşlı hastalarda Sefepim’in klinik etkinliği ve güvenliliğinin yetişkin hastalarınkinden
+farklı olmadığı kaydedilmiştir. Daha genç hastalara kıyasla eliminasyon yarı ömründe biraz
+uzama ve böbrek klerensi değerlerinde düşme görülür. Böbrek fonksiyonu azalan yaşlı
+hastalarda doz ayarlaması önerilir (bkz; bölüm 4.2).
+Sefepimin esasen böbrekler tarafından atıldığı bilinmektedir ve bu ilacın toksik reaksiyon
+riski böbrek fonksiyon yetersizliği olan hastalarda daha yüksek olabilir.
+6Kreatin klirensinin 60 ml/dakika’nın altına indiği hastalarda sefepim dozu mutlaka
+azaltılmalıdır.
+Yaşlı hastalar, böbrek fonksiyonunun azalmasına daha yatkın olduklarından doz seçiminde
+dikkatli olunmalı ve böbrek fonksiyonları gözlenmelidir (bkz; bölüm 4.4, 4.8 ve 5.2).
+Sefepimin normal dozları ile böbrek yetmezliği olan yaşlı hastalarda geri-dönüşlü
+ensefalopati (konfüzyon, halüsinasyon, stupor dahil bilinç kaybı), miyoklonus, nöbet
+(konvülsif olmayan epileptik durum dahil) ve/veya böbrek hastalığı meydana gelmiştir (bkz;
+bölüm 4.4 ve 4.8)
+Sefepim kullanımı sırasında non-konvulsif status epileticus bulguları (mental durum
+değişikliği, konfüzyon ve reaksiyon – cevap süresinde uzama olması da dahil) veya nöbet
+görülürse sefepimin kesilmesi değerlendirilmeli veya doz ayarlaması yapılmalıdır.
+4.5. Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+ROXİPİME çözeltileri pek çok beta-laktam antibiyotikler gibi metronidazol, vankomisin,
+gentamisin, tobramisin sülfat ve netilmisin sülfat çözeltileri ile etkileşebileceğinden
+karıştırılmamalıdır, çünkü fiziksel ya da kimyasal geçimsizlik söz konusudur. Ancak, eğer
+ROXİPİME ile aynı zamanda tedavi gerekiyorsa, bu antibiyotikler ayrı ayrı uygulanmalıdır.
+Aminoglikozid antibiyotiklerin nefrotoksisite ve ototoksisite potansiyellerinin yüksek olması
+nedeniyle yüksek dozlarda aminoglikozidlerin ROXİPİME ile birlikte uygulanması halinde
+böbrek fonksiyonları dikkatle izlenmelidir. Probenesid böbrek tübüler sekresyonu azaltır ve
+bu mekanizma ile atılan sefalosporinlerin eliminasyon ömrünün uzamasına ve toksisite
+riskinin artmasına neden olur. Diğer sefalosporin ile furosemid gibi güçlü diüretiklerin
+birlikte uygulanması ile nefrotoksisite rapor edilmiştir.
+ROXİPİME ile tedavi edilen hastalarda hatalı pozitif glikozüri reaksiyonları görülebilir.
+Glikoz- oksidazı baskılayan metotlarla hatalı pozitif reaksiyonlar görülmemiştir.
+74.6. Gebelik ve laktasyon
+Genel tavsiye
+Gebelik kategorisi: B
+Çocuk doğurma potansiyeli bulunan kadınlar / Doğum kontrolü (Kontrasepsiyon)
+Sıçanlara 1000 mg/kg/gün dozlara kadar (mg/m2 baz alınarak yapılan hesaplamada günlük
+önerilen maksimum insan dozunun 1.6 katı), farelerde 1200 mg/kg dozlara kadar (yaklaşık
+mg/m2 baz alınarak yapılan hesaplamada günlük önerilen maksimum insan dozu kadar) veya
+tavşanlara 100 mg/kg dozlarda (mg/m2 baz alınarak yapılan hesaplamada günlük önerilen
+maksimum insan dozunun 0.3 katı) organogenez döneminde verilen sefepim teratojenik veya
+embriyosidal değildir.
+ROXİPİME doğum kontrol haplarının etkinliğini azaltabilir ve gebeliğe neden olabilir.
+Gebelik dönemi
+Sefepim için, gebeliklerde maruz kalmaya ilişkin yeterli klinik veri mevcut değildir.
+Hayvanlar üzerinde yapılan çalışmalar, gebelik/ embriyonal/ fetal gelişim/ doğum ya da
+doğum sonrası gelişim ile ilgili olarak doğrudan ya da dolaylı zararlı etkiler olduğunu
+göstermemektedir.
+Gebe kadınlara verilirken tedbirli olunmalıdır.
+Laktasyon dönemi
+Sefepim çok düşük konsantrasyonlarda anne sütüyle atılmaktadır. Emziren kadınlara
+sefepim uygulanırken dikkatli olunmalıdır.
+Üreme yeteneği / Fertilite
+Sıçanlarda hiçbir fertilite yetersizliği görülmemiştir.
+4.7. Araç ve makine kullanımı üzerindeki etkiler
+ROXİPİME’in araç ve makine kullanımı üzerindeki etkisi incelenmemiştir.
+84.8. İstenmeyen etkiler
+ROXİPİME genellikle iyi tolere edilir. Klinik çalışmalarda (N=5598) ROXİPİME’e bağlı en
+sık rastlanan yan etkiler gastrointestinal semptomlar ve aşırı duyarlılık reaksiyonlarıdır.
+ROXİPİME ile ilişkili olan yan etkiler şu şekildedir:
+Aşağıdaki sıklık grupları kullanılmıştır:
+Çok yaygın (≥1/10); yaygın (≥1/100 ila <1/10); yaygın olmayan (≥1/1,000 ila <1/100);
+seyrek (≥1/10,000 ila <1/1,000); çok seyrek (<1/10,000), bilinmiyor (eldeki verilerden
+hareketle tahmin edilemiyor)
+Bağışıklık sistemi bozuklukları
+Çok yaygın: Kızarıklık, döküntü, ürtiker
+Sinir sistemi bozuklukları
+Çok yaygın: Baş ağrısı Yaygın: Sersemlik, parestezi
+Vasküler bozuklukları
+Yaygın: Vazodilatasyon
+Solunum, göğüs bozuklukları ve mediastinal bozuklukları
+Yaygın: Dispne
+Gastrointestinal bozuklukları
+Çok yaygın: Bulantı, kusma, oral monilyazis, diyare, kolit (pseudomembranöz kolit dahil)
+Yaygın: Karın ağrısı, konstipasyon
+Genel bozukluklar ve uygulama bölgesine ilişkin hastalıklar
+Çok yaygın: Ateş, vajinit, eritem
+Yaygın: Genital prurit, tat alma bozukluğu, titreme ve spesifik olmayan monilyazis
+%0.05’den daha az sıklıkla görülen klinik olarak önemli olaylar anaflaksi ve nöbetlerdir.
+9İ.V. infüzyon yerinde flebit (%2,9) ve enflamasyon (%0,1) gibi lokal reaksiyonlar
+görülebilir. Bu reaksiyonlar hastaların %5,2’sinde görülmüştür. Enjeksiyon yerinde
+enflamasyon ve ağrı yaşayan hastaların %2,6’sında ROXİPİME’in İ.M. uygulaması çok iyi
+tolere edilmiştir.
+İlaç Kullanıma Sunulduktan Sonraki Deneyim
+Sefepim ile yapılan Kuzey Amerika klinik çalışmaları sırasında rapor edilen yan etkilere
+ilave olarak, dünya çapındaki pazarlama sonrası deneyimler sırasında da aşağıdaki yan etkiler
+kaydedilmiştir. Ancak, spontan klinik çalışma raporlarının kontrolsüz olması nedeni ile bu
+yan etkilerin ROXİPİME’e bağlı olup olmadığı tespit edilememiştir.
+Aynı sınıftan diğer ilaçlarda olduğu gibi, ensefalopati (konfüzyon, halüsinasyonlar, stupor
+ve koma dahil bilinç kaybı), nöbet, miyoklonus, ve/veya böbrek yetmezliği kaydedilmiştir.
+Pek çoğu, böbrek yetmezliği olan ve önerilenden daha yüksek dozlarda ROXİPİME alan
+hastalarda görülmüştür.
+Diğer sefalosporinlerde olduğu gibi, anaflaktik şok dahil anaflaksi, geçici lökopeni,
+nötropeni, agranülositoz ve trombositopeni kaydedilmiştir.
+Sefalosporin grubu antibiyotik kullandığında kaydedilen yan etkiler ve değişen laboratuar
+bulguları şunlardır: Stevens-Johnson Sendromu, eritema multiform, toksik epidermal
+nekroliz, toksik nefropati, aplastik anemi, hemolitik anemi, hemoraji ve idrar glukozu için
+hatalı pozitif test.
+Laboratuvar Testleri Üzerindeki Etkileri
+Klinik çalışmalar sırasında başlangıç değerleri normal olan hastalarda gelişen laboratuar
+testi anormallikleri geçici olmuştur. %1-2 sıklıkta (aksi belirtilmediği takdirde) gelişen geçici
+laboratuar test anormallikleri şunlardır: alanin aminotransferaz (%3,6), aspartat
+aminotransferaz (%2,5), alkalin fosfataz, total bilirubin, anemi, eozinofili, protrombin
+zamanında uzama, parsiyel tromboplastin zamanı (%2,8) ve hemolizsiz pozitif Coombs
+10testi (%18,7). Hastaların %0,5 ila %1’inde kan üre azotu ve/veya serum kreatininde geçici
+artış, geçici trombositopeni görülmüştür. Geçici lökopeni ve nötropeni de görülmüştür
+(<%0.5).
+Özel popülasyonlarla ilişkin ek bilgiler
+Pediyatrik popülasyon
+ROXİPİME’in bebeklerde ve çocuklarda kaydedilen güvenlilik profili yetişkinlerdeki ile
+benzerdir.
+Klinik çalışmalarda en sık kaydedilen yan etki döküntüdür.
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar / risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir (www.titck.gov.tr; e-
+posta: tufam@titck.gov.tr; tel: 0 800 314 00 08; faks: 0 312 218 35 99).
+4.9. Doz aşımı ve tedavisi
+Ciddi aşırı doz olgularında, özellikle böbrek fonksiyon bozukluğu olanlarda, sefepim
+vücuttan hemodiyaliz ile uzaklaştırılabilir. Peritoneal diyaliz ise yararlı değildir. Böbrek
+fonksiyon yetmezliği olan hastalara, ilaç yüksek dozlarda verildiği zaman kazayla doz
+aşımı oluşmuştur (bkz; bölüm 4.2, 4.4 ve 4.8). Doz aşımı semptomları, ensefalopati,
+(konfüzyon, halüsinasyonlar, stupor ve koma dahil bilinç kaybı) miyoklonus, nöbet ve
+nöromüsküler uygulama şeklindedir.
+5. FARMAKOLOJİK ÖZELLİKLERİ
+5.1. Farmakodinamik özellikler
+Farmakoterapötik Grup: Diğer beta-laktam antibakteriyeller
+ATC Kodu: J01DE01
+11Etki mekanizması:
+Sefepim bakteri hücre duvarı sentezini inhibe ederek bakterisid etki gösteren geniş
+spektrumlu bir antibiyotiktir.
+Mikrobiyoloji:
+Aminoglikozidlere veya üçüncü kuşak sefalosporinlere direnç gösteren pek çok suş da
+dahil, gram-pozitif ve gram-negatif bakteriler üzerine etki gösterir. Sefepim pek çok
+beta-laktamaz tarafından hidrolize oldukça dirençlidir ve kromozom kodlu beta-laktamazlara
+afinitesi düşüktür. Gram-negatif bakteri hücrelerine hızla penetre olur.
+Escherichia coli ve Enterobacter cloacae kullanılarak yapılan çalışmalarda, sefepim
+penisiline bağlı protein (PBP) 3’e yüksek afinite ile bağlanmış ve bunu PBP 2 ve daha sonra
+PBP 1a ve 1b izlemiştir. PBP 2’ye bağlanma diğer parenteral sefalosporinlerden anlamlı
+oranda daha yüksek afinite ile gerçekleşir. Bu antibakteriyel aktivitesini arttırabilir.
+Sefepimin PBP 1a ve 1b’ye olan orta dereceli afinitesi muhtemelen genel bakterisid
+aktivitesine katkıda bulunmaktadır.
+Zaman-öldürme analizi (öldürme-eğrileri) ve minimum bakterisid konsantrasyonun (MIC)
+belirlenmesi ile sefepimin pek çok bakteri türüne karşı bakterisid olduğu gösterilmiştir.
+Sefepimin MBC/MIC oranı test edilen bütün gram-pozitif ve gram-negatif türlerin
+izolatlarının %80’inden fazlası için ≤ 2 olmuştur. Özellikle Pseudomonas aeruginosa
+izolatları ile aminoglikozidlerle in vitro sinerji kanıtlanmıştır.
+Sefepimin aşağıda gösterilen organizmaların suşlarının bir çoğuna karşı etkili olduğu
+gösterilmiştir:
+Gram-pozitif aeroblar:
+Staphylococcus aureus (beta-laktamaz üreten suşlar dahil), Staphylococcus epidermidis (beta-
+laktamaz üreten suşlar dahil) ve ayrıca S. hominis ve S. Saprophyticus dahil diğer
+stafilokoklar,
+Streptococcus pyogenes (A grubu streptokoklar),
+12Streptococcus agalactiae (B grubu streptokoklar),
+Streptococcus pneumoniae (orta derecede penisiline dirençli suşlar dahil, MIK 0.1-1 mg/ml
+arasında),
+Diğer beta-hemolitik streptokoklar (C, F, G grupları),
+S.bovis (D grubu)
+Viridans streptococci.
+Not: Enterokokların bir çok suşları, örneğin Enterococcus faecalis ve metisiline dirençli
+stafilokoklar sefepim dahil bir çok sefalosporinlere dirençlidir.
+Gram-negatif aeroblar:
+Acinetobacter calcoaceticus (anitratus, lwoffi alt türleri),
+Aeromonas hydrophila,
+Capnocytophage türleri,
+C. diversus ve C. Freundii dahil Citrobacter türleri,
+Campylobaster jejuni,
+E. cloacae, E. areogenes, E. sakazakii dahil Enterobacter türleri,
+Escherichia coli, Gardnerella vaginalis, Haemophilus ducreyi,
+Haemophilus influenzae (beta-laktamaz üreten suşlar dahil)
+Haemophilus parainfluenzae, Hafnia alvei,
+K. pneumoniae, K. oxytoca, K. ozaenae dahil Klebsiella türleri,
+Legionella türleri,
+Morganella morganii,
+Moraxella catarrhalis (Branhamella catarrhalis) (beta-laktamaz üreten suşlar dahil),
+Neisseria gonorrhoeae (beta-laktamaz üreten suşlar dahil),
+Neisseria meningitidis,
+Pantoea agglormerans (Enterobacter agglomerans olarak bilinen),
+P. mirabilis, P. Vulgaris dahil Proteus türleri,
+P.rettgeri, P. stuartii dahil Providencia türleri,
+P. aeruginosa, P. putida, P. stutzeri dahil Pseudomonas türleri
+Salmonella türleri
+13S. marcescens, S. liquefaciense dahil Serratia türleri,
+Shigella türleri,
+Yersinia enterocolitica.
+Not: Sefepim Xanthomonas maltophilia (Pseudomonas maltophilia)’nın bir çok suşlarına
+karşı etkisizdir.
+Anaeroblar:
+Bacteroides türleri,
+Clostridium perfringens, Fusobacterium türleri,
+Mobiluncus türleri, Peptostreptococcus türleri, Veillonella türleri ve
+Bacteroides melaninogenicus olarak bilinen Prevotella melaninogenica’ya karşı etkilidir.
+Not: Sefepim Bacteroides fragilis ve Clostridium difficile’e karşı etkisizdir. Aminoglikozit
+antibiyotiklerle sinerji gözlenmiştir.
+5.2. Farmakokinetik özellikler
+Genel özellikler
+ROXİPİME’in etkin maddesi olan sefepim, geniş spektrumlu bir sefalosporin antibiyotiktir.
+Yetişkinler
+Emilim:
+30 dakikalık tek İ.V. infüzyonları ya da 500 mg, 1 g ve 2 g’lık İ.M. enjeksiyonları takiben
+normal yetişkin erkeklerde farklı zamanlarda gözlenen ortalama plazma sefepim
+konsantrasyonları Tablo 3’te özetlenmiştir.
+I.M. uygulamayı takiben, sefepim tamamen emilir.
+14TABLO 3
+Ortalama Sefepim Plazma Konsantrasyonları (mcg/ml) Sağlıklı Yetişkin
+Erkek Vakalarda
+Sefepim
+0,5 saat 1 saat 2 saat 4 saat 8 saat 12 saat
+dozu
+500 mg İ.V. 38,2 21,6 11,6 5,0 1,4 0,2
+1 g İ.V. 78,7 44,5 24,3 10,5 2,4 0,6
+2 g İ.V. 163,1 85,8 44,8 19,2 3,9 1,1
+500 mg İ.M. 8,2 12,5 12,0 6,9 1,9 0,7
+1 g İ.M. 14,8 25,9 26,3 16,0 4,5 1,4
+2 g İ.M. 36,1 49,9 51,3 31,5 8,7 2,3
+Dağılım:
+Spesifik dokulardaki ve vücut sıvılarındaki sefepim konsantrasyonları Tablo 4’te
+gösterilmiştir.
+Serum proteinlerine bağlanma oranı ortalama %16.4’tür ve serumdaki konsantrasyonundan
+bağımsızdır.
+TABLO 4
+Sağlıklı Yetişkin Erkek Vakalardaki Farklı Vücut Sıvı (mcg/ml) ve Dokularındaki
+(mcg/g) Ortalama Sefepim Konsantrasyonları
+Dozdan sonra
+Ortalama
+Doku ya da sıvı Doz (I.V.) ortalama örnek
+konsantrasyon
+alma süresi (saat)
+500 mg 0-4 292
+1 g 0-4 926
+İdrar
+2 g 0-4 3120
+Safra 2 g 9,4 17,8
+Peritoneal sıvı 2 g 4,4 18,3
+Blister sıvısı 2 g 1,5 81,4
+Bronş mukozası 2 g 4,8 24,1
+Sputum 2 g 4,0 7,4
+Prostat 2 g 1,0 31,5
+Apandis 2 g 5,7 5,2
+Safra kesesi 2 g 8,9 11,9
+15Biyotransformasyon:
+Sefepim N-metilpirolidine metabolize edilir, N-metilpirolidin ise hızla N-okside dönüşür.
+Uygulanan dozun yaklaşık %85’i değişmeden idrarla atılır; idrarda yüksek
+konsantrasyonlarda sefepim bulunur. Uygulanan dozun %1’inden daha azı N-metilpirolidin,
+%6,8’i N-oksit, %2,5’i ise sefepimin epimeri şeklinde idrara çıkar.
+Eliminasyon:
+Sefepimin kanda ortalama eliminasyon yarı ömrü yaklaşık 2 saattir ve 250 mg-2 g’dır.
+Sağlıklı şahıslarda 9 gün süre ile her 8 saatte uygulanan 2 g intravenöz çözeltilerde
+vücutta birikme görülmemiştir. Total vücut klerensi ortalama 120 ml/dakika’dır. Sefepimin
+böbrek klerensi ortalama 110 ml/dakika olup, sefepim esas olarak glomerüler filtrasyon
+yoluyla başlıca böbreklerden atılır.
+Doğrusallık/Doğrusal Olmayan Durum:
+Sefepimin kanda ortalama eliminasyon yarı ömrü doza bağlı bir değişiklik göstermez.
+Hastalardaki Karakteristik Özellikler
+Pediyatrik hastalar: Sefepimin tek ve çoklu doz farmakokinetiği 2,1 ay ila 11,2 yaş arasında,
+İ.V. infüzyon veya İ.M. enfeksiyon ile 50 mg/kg’lık dozlar uygulanan hastalarda
+değerlendirilmiştir; çoklu dozlar her 8 ya da 12 saatte bir en az 48 saat süreyle uygulanmıştır.
+Çocuklarda tek İ.V. dozu takiben total vücut klerensi ortalama 3,3 ml/dak/kg, ortalama
+dağılım hacmi 0,3 l/kg ve ortalama eliminasyon yarı ömrü ise 1,7 saattir. Uygulanan
+dozun %60,4’ü değişmeden idrarla atılır, böbrek klerensi 2,0 ml/dak/kg ile başlıca atılım
+yoludur.
+Çoklu İ.V. dozları takiben, sefepimin ortalama kararlı durum plazma konsantrasyonları ilk
+dozdan sonrakilere benzer olmuş, yalnızca tekrarlanan dozdan sonra hafif bir birikme
+görülmüştür.
+Geriyatrik hastalar: 65 yaş ve üzeri sağlıklı gönüllülerde tek doz 1 g İ.V. uygulanan
+sefepimin genç gönüllülere nazaran EAA değeri daha yüksek ve böbrek klerensi değeri daha
+düşüktür. Eğer böbrek fonksiyonları baskılanırsa, yaşlı hastalarda doz ayarı yapılması
+önerilir. (bkz. Bölüm 4.2 ve 4.4)
+16Karaciğer yetmezliği: Sefepimin farmakokinetiği tek doz 1 g alan karaciğer fonksiyonu
+zayıflamış hastalarda değişmemiştir. Sefepimin farmakokinetiği kistik fibroz hastalarında
+klinik olarak önemli derecede değişmemiştir. Bu hasta popülasyonlarında ROXİPİME
+dozajını değiştirmek gerekmez.
+Böbrek yetmezliği: Değişik derecede böbrek yetmezliği olan hastalarda yarılanma ömrü
+uzar, vücut klerensi ile kreatinin klerensi arasında doğrusal bir ilişki vardır. Bu nedenle bu
+grup hastalarda doz ayarlaması önerilir. Diyaliz tedavisi gereken ciddi böbrek yetmezliği olan
+hastalarda ortalama yarılanma ömrü, hemodiyaliz için 13 saat ve devamlı ayakta peritoneal
+diyaliz tedavisi görenler için 19 saattir.
+Diğer: Kistik fibrozu olan hastalarda akut pulmoner alevlenmenin tedavisinde sefepim ile
+klinik iyileşme gözlenmiştir (n=24, ortalama yaş 15, yaş aralığı 5-47). Bu hasta
+popülasyonunda antibiyotik tedavisi ile bakteriyolojik eradikasyon sağlanamayabilir. Kistik
+fibrozu olan hastalarda sefepim farmakokinetiğinde klinik açıdan önemli bir değişiklik
+gözlenmemiştir.
+Klinik Çalışmalar
+Febril Nötropenideki Hastalar: Sefepim monoterapisinin febril nötropenili hastalardaki
+etkililiği ve güvenliliği sefepim monoterapisi (2 g dozunda 8 saatte bir i.v.) ile seftazidim
+monoterapisini (2 g dozunda 8 saatte bir i.v.) karşılaştıran iki çok-merkezli randomize
+çalışma ile değerlendirilmiştir. Bu çalışmalar 317 değerlendirilebilir hastayı kapsamaktadır.
+Değerlendirilebilir hasta popülasyonunun özellikleri Tablo 5’de verilmiştir.
+17TABLO 5
+Değerlendirilebilir Hastaların Demografik Özellikleri
+(Yalnızca İlk Atak)
+Sefepim Seftazidim
+Toplam 164 153
+Ortalama yaş (yıl) 56.0 (18-82 arası) 55.0 (16-84 arası)
+Erkek 86 (%52) 85 (%56)
+Kadın 78 (%48) 68 (%44)
+Lösemi 65 (%40) 52 (%34)
+Diğer hematolojik maligniteler 43 (%26) 36 (%24)
+Tümör kitlesi 54 (%33) 56 (%37)
+Ortalama MNS seyrek (hücre/µ l) 20.0 (0-500 arası) 20.0 (0-500 arası)
+Ortalama nötropeni süresi (gün) 6.0 (0-39 arası) 6.0 (0-32 arası)
+Yerleştirilmiş venöz katater 97 (%59) 86 (%56)
+Profilaktik antibiyotik 62 (%38) 64 (%42)
+Kemik iliği grefti 9 (%5) 7 (%5)
+Başlangıçta SKB< 90 mmHg 7 (%4) 2 (%1)
+MNS= mutlak nötrofil sayısı; SBP= sistolik kan basıncı
+Klinik yanıt oranları Tablo 6’da verilmiştir. Sefepim’in, tüm sonuç ölçekleri için terapötik
+olarak Seftazidim’e eşdeğer olduğu bulundu.
+TABLO 6
+Febril Nötropeni Hastaların Ampirik Tedaviye Birleştirilmiş Yanıt Oranları
+% Yanıt
+Sonuç Ölçekleri Sefepim Seftazidim
+(n=164) (n=153)
+İlk atak tedavi değişikliği yapılmadan, yeni febril dönem
+veya enfeksiyon olmadan düzeldi, tedavinin
+tamamlanması için oral antibiyotik kullanıldı
+İlk atak tedavi değişikliği yapılmadan, yeni febril
+51 55
+dönem veya enfeksiyon olmadan düzeldi, tedavi sonrası
+oral antibiyotik kullanılmadı
+Hayatta kaldı, tedavi modifikasyonuna izin verildi 93 97
+34 39
+İlk atak tedavi modifikasyonu olmaksızın düzeldi ve
+tedavinin tamamlanması için oral antibiyotik kullanıldı 62 67
+İlk atak tedavi modifikasyonu olmaksızın düzeldi ve
+tedavi sonrası oral antibiyotik kullanılmadı 46 51
+Sefepim monoterapisinin ciddi enfeksiyon riski olan hastalarda (yakın zamanda kemik iliği
+18nakli yapılmış, başlangıçta hipotansiyonu olan, altta yatan hematolojik malignitesi olan
+veya ciddi veya uzamış nötropenisi olan hastalar) etkinliği destekleyecek yeterli bilgi
+bulunmamaktadır. Septik şoktaki hastalar için veri yoktur.
+Cerrahi Profilaksi
+Bu endikasyon 19 yaşın üzerindeki (ortalama yaş 66) kolorektal ameliyat geçiren
+hastaların katıldığı bir randomize, açık, çok merkezli klinik çalışmaya dayanır. Bu
+çalışmada ameliyattan önce intravenöz tek doz 2 g ROXİPİME uygulamasını takiben
+intravenöz tek doz 500 mg metronidazol (N=307) uygulanmış ve bu uygulama 2 g’lık tek
+doz intravenöz seftriakson dozu ve bunu takiben metronidazol (N=308) uygulaması ile
+karşılaştırılabilir bulunmuştur. Doz uygulaması ilk cerrahi inzisyondan 0 ila 3 saat önce
+yapılmıştır. Klinik başarı oranları, ameliyattan sonra 6 hafta boyunca hem ameliyat yerinde
+hem de intra-abdominal enfeksiyonların oluşmaması bakımından her iki tedavi grubunda da
+%75 olmuştur (bkz. Bölüm 4.2).
+5.3. Klinik öncesi güvenlilik verileri
+Karsinojenite, Mutajenez ve Fertilite Yetersizliği
+Karsinojenik potansiyelini değerlendirmek için hayvanlarda uzun-dönem çalışma
+yapılmamıştır. İn vitro ve in vivo genotoksisite testleri sefepimin genotoksik olmadığını
+göstermiştir. Sıçanlarda hiçbir fertilite yetersizliği görülmemiştir.
+6. FARMASÖTİK ÖZELLİKLER
+6.1. Yardımcı maddelerin listesi
+L-arjinin
+Enjeksiyonluk su
+6.2. Geçimsizlikler
+ROXİPİME çözeltileri pek çok beta-laktam antibiyotikler gibi metronidazol, vankomisin,
+gentamisin, tobramisin sülfat ve netilmisin sülfat çözeltileri ile etkileşebileceğinden
+karıştırılmamalıdır, çünkü fiziksel ya da kimyasal geçimsizlik söz konusudur. Ancak, eğer
+ROXİPİME ile aynı zamanda tedavi gerekiyorsa, bu antibiyotikler ayrı ayrı uygulanmalıdır.
+19ROXİPİME’in ve başka ilaçların intravenöz yolla uygulandığı zaman aynı çözeltide
+karıştırılmamaları önerilir.
+6.3. Raf ömrü
+24 ay
+6.4. Saklamaya yönelik özel uyarılar
+Toz halinde, 25°C’nin altındaki oda sıcaklığında saklanmalıdır.
+Işıktan korumak için orijinal ambalajında saklanmalıdır.
+Sulandırıldıktan sonra 25°C’nin altındaki oda sıcaklığında 24 saat, 2-8°C’de (buzdolabında) 7
+gün içinde kullanılmalıdır.
+6.5 Ambalajın niteliği ve içeriği
+Şeffaf Alüminyum/plastik flip-off kapak ile sabitleştirilmiş gri renkli bromo bütil kauçuk
+tıpalı, 25 ml’lik tip III şeffaf cam flakon ve 10 ml Enjeksiyonluk su içeren ampul.
+Ayrıca 10 flakonluk hastane ambalajı da mevcuttur.
+6.6 Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+Çözeltilerin Hazırlanması ve Uygulama Şekli:
+ROXİPİME toz, Tablo 7’de gösterilen seyreltici hacimleri kullanarak hazırlanmalıdır.
+TABLO 7
+ROXİPİME Çözeltilerin Hazırlanması
+Sulandırılması İçin Yaklaşık Elde Yaklaşık Sefepim
+Eklenecek Miktar Edilecek Hacim Konsantrasyonu
+(ml) (ml) (mg/ml)
+İntravenöz
+500 mg flakon 5 5,6 100
+1 g flakon 10 11,3 100
+12 gg ffllaakkoonn 1500 1520,5 12600
+1 g fl akon 100 100 10
+2 g fl akon 50 50 40
+2 g flakon 100 100 20
+20İntravenöz Uygulama:
+İ.V. uygulama ciddi veya hayatı tehdit eden enfeksiyonlarda, özellikle şok olasılığı olan
+hastalarda tercih edilir.
+ROXİPİME direkt İ.V. uygulamada yukarıdaki tabloda gösterilen miktarlarda
+enjeksiyonluk steril su, %5’lik enjeksiyonluk dekstroz veya % 0.9 sodyum klorür ile
+çözündürülerek uygulanır. Damara direkt olarak 3-5 dakikalık bir süre içerisinde uygulanır
+ya da uygun bir İ.V. çözelti infüzyonu uygulanan hastalarda uygulama setine enjekte edilir.
+İ.V. infüzyon için, 500 mg, 1 ve 2 g’lık ROXİPİME flakon, yukarıda gösterildiği şekilde,
+direkt İ.V. uygulama için olduğu gibi hazırlanmalıdır. Daha sonra elde edilen çözeltinin
+gerekli miktarı uygun bir İ.V. sıvının bulunduğu bir İ.V. setine aktarılır. Elde edilen çözelti
+yaklaşık 30 dakikalık bir sürede uygulanmalıdır.
+Uygunluk ve Stabilite
+İntravenöz: ROXİPİME 1 ve 40 mg/ml arasındaki konsantrasyonlarda aşağıdaki İ.V.
+infüzyon sıvılarından biriyle geçimlidir: %0,9 Sodyum Klorür Enjeksiyon, %5 ve %10
+Dekstroz Enjeksiyon, M/6 Sodyum Laktat Enjeksiyon, %5 Dekstroz ve %0,9 Sodyum
+Klorür Enjeksiyon, Laktatlı Ringer ve %5 Dekstroz Enjeksiyon. Bu çözeltiler 25°C’nin
+altındaki oda sıcaklığında 24 saat veya 2-8°C’de (buzdolabında) 7 gün içinde kullanılmalıdır.
+Not: Parenteral ilaçlarda, uygulamadan önce, görsel partikül madde kontrolü yapılmalı ve
+eğer partikül madde varsa ilaç kullanılmamalıdır.
+Diğer sefalosporinlerde olduğu gibi, ROXİPİME toz ve çözeltinin renginde koyulaşma
+olabilir, ancak bu durum ilacın potensini etkilemez.
+Kullanılmamış olan ürünler ya da artık materyaller “Tıbbi Atıkların Kontrolü
+Yönetmeliği” ve “Ambalaj ve Ambalaj Atıkları Kontrolü Yönetmeliği”ne uygun olarak imha
+edilmelidir.
+217. RUHSAT SAHİBİ
+World Medicine İlaç San. ve Tic. A.Ş.
+Evren Mah. Cami Yolu Cad. No:50, P.K.:34212,
+Güneşli, Bağcılar, İstanbul
+Tel: +90 212 474 70 50
+Faks: +90 212 474 09 01
+8. RUHSAT NUMARASI
+2014/658
+9. İLK RUHSAT TARİHİ / RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi: 09.09.2014
+Ruhsat yenileme tarihi:
+10. KÜB’ÜN YENİLENME TARİHİ
+22

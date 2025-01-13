@@ -1,0 +1,444 @@
+KISA ÜRÜN BİLGİLERİ
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+PRIMOVIST® 0.25 mmol/mL enjeksiyon için çözelti içeren kullanıma hazır enjektör
+Steril
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde:
+Her bir mL çözeltide 0,25 mmol gadoksetat disodyum (181,43 mg gadoksetat disodyuma eşdeğer)
+içerir.
+Yardımcı maddeler:
+Her bir mL çözelti 0,511 mmol (11,755 mg’a eşdeğer) sodyum içerir.
+Yardımcı maddeler için 6.1’e bakınız.
+3. FARMASÖTİK FORM
+Enjeksiyon için çözelti içeren kullanıma hazır enjektör.
+Görünür partikül içermeyen, berrak, renksiz- soluk sarı çözelti.
+PRIMOVIST kullanıma hazır çözeltisinin fiziko-kimyasal özellikleri aşağıda listelenmiştir:
+37°C'de Osmolalite (mOsm/kg H O) 688
+2
+37°C'de Viskozite (mPas) 1,19
+pH 6,8-8,0
+4. KLİNİK ÖZELLİKLER
+4.1 Terapötik endikasyonlar
+PRIMOVIST fokal karaciğer lezyonlarının saptanmasında endikedir. T1- ağırlıklı manyetik
+rezonans görüntülemede lezyonların karakterizasyonu hakkında bilgi sağlar. PRIMOVIST yalnız
+tanısal bilginin gerekli olduğu ve kontrastsız manyetik rezonans görüntüleme ile elde edilemediği
+durumlarda ve gecikmiş faz (hepatosit spesifik faz) görüntüleme gerektiğinde kullanılmalıdır.
+Bu tıbbi ürün, yalnızca intravenöz yolla tanısal kullanım içindir.
+4.2 Pozoloji ve uygulama şekli
+Pozoloji/uygulama sıklığı ve süresi:
+Kontrastlı görüntüleme için yeterli en düşük konsantrasyonda kullanılmalıdır. Doz, hastanın vücut
+ağırlığına göre hesaplanmalı ve bu bölümde belirtilen kilogram başına önerilen doz aşılmamalıdır.
+Tavsiye edilen doz
+Erişkinler: Kg vücut ağırlığı başına 0,1 mL PRIMOVIST (Kg vücut ağırlığı başına 0,025 mmol’e
+eşdeğer.)
+Uygulama şekli:
+Bu ilaç intravenöz uygulama içindir.
+1Doz, seyreltilmeden bolus enjeksiyon şeklinde uygulanır. Kontrast maddenin enjeksiyonundan
+sonra intravenöz kanül / yol serum fizyolojik ile yıkanmalıdır.
+PRIMOVIST bolus enjeksiyonundan sonra arteriyel, portovenöz ve denge fazları süresince yapılan
+dinamik görüntüleme, farklı karaciğer lezyon tiplerinin birbirinden farklı zamansal kontrast
+paternleri olmasından yararlanarak, sınıflandırılmalarını (benign/malign) sağlar ve spesifik
+özellikleri hakkında bilgi verir. Bunun ötesinde, hipervasküler karaciğer lezyonlarının görselliğini
+daha iyi hale getirir.
+Geç (hepatosit) faz, enjeksiyondan yaklaşık 10 dakika sonra başlamakta (konfirmatif çalışmalarda
+verilerin çoğu enjeksiyondan sonraki 20 dakikada elde edilmiştir) ve görüntüleme penceresi en az
+120 dakika sürmektedir. Hemodiyaliz hastalarında ve bilirubin değerleri yüksek (> 3 mg/dl)
+olgularda görüntüleme penceresi 60 dakikaya inmektedir (Bkz. Bölüm “4.5).
+Karaciğer parenkiminin hepatosit fazındaki kontrast artışı sayesinde karaciğer lezyonlarının sayısı,
+segmental dağılımı, görselliği ve delineasyonu desteklenir ve böylece lezyon tespiti daha iyi hale
+gelir. Karaciğer lezyonlarının birbirinden farklı olan kontrastlanma/arınma paternleri, dinamik
+fazdan elde edilen bilgiye katkı sağlar.
+PRIMOVIST’in hepatik yoldan atılması, safra sisteminin kontrast artışı ile sonuçlanır.
+Daha fazla bilgi için “6.6 Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler”
+bölümüne bakınız.
+Özel popülasyonlara ilişkin ek bilgiler:
+Böbrek yetmezliği:
+Tanısal bilginin zorunlu olduğu ve kontrastsız MRG ile elde edilemediği durumlar dışında şiddetli
+böbrek yetmezliği (GFR <30 mL/dk/1,73 m2) bulunan hastalarda PRIMOVIST kullanımından
+kaçınılmalıdır (Bkz. Bölüm 4.4).
+Eğer PRIMOVIST kullanımından kaçınılamıyorsa, doz 0,025 mmol/kg vücut ağırlığını
+aşmamalıdır. Bir tarama süresince bir dozdan fazlası kullanılmamalıdır. Tekrarlayan uygulamalar
+konusundaki bilgi eksikliği nedeniyle, enjeksiyonlar arasındaki süre en az 7 gün olmadıkça
+PRIMOVIST enjeksiyonları tekrarlanmamalıdır.
+Karaciğer yetmezliği:
+Doz ayarlaması gerekli değildir. Klinik çalışmalarda, karaciğer yetmezliği olan ve olmayan hastalar
+arasında güvenlilik ve etkililik açısından fark gözlenmemiştir. Diğer raporlanan klinik deneyimler
+de karaciğer yetmezliği olan ve sağlıklı kişiler arasında fark tanımlamamıştır (Bkz. Bölüm “5.2).
+Karaciğer naklinin perioperatif döneminde olan hastalarda PRIMOVIST kullanımından
+kaçınılmalıdır.
+Pediyatrik popülasyon:
+PRIMOVIST, güvenlilik ve etkililik verilerinin yetersizliğine bağlı olarak 18 yaşın altındaki
+çocuklarda kullanımı önerilmez.
+2Geriyatrik popülasyon:
+Doz ayarlaması gerekli değildir. Klinik çalışmalarda, genç ve yaşlı (65 yaş ve üzeri) hastalar
+arasında güvenlilik ve etkililik açısından fark gözlenmemiştir. Diğer raporlanan klinik deneyimler
+de genç ve yaşlı hastalar arasında fark tanımlamamıştır (Bkz. Bölüm 5.2).
+4.3 Kontrendikasyonlar
+Etkin maddeye veya Bölüm 6.1'de listelenen yardımcı maddelerden herhangi birine karşı aşırı
+duyarlılık.
+4.4 Özel kullanım uyarıları ve önlemleri
+MRG için her zamanki güvenlik tedbirleri alınmalıdır; örn. kalp pili ve ferromanyetik implant
+taşıyan hastalar kabul edilmemelidirler.
+Kontrast maddelerin kullanıldığı tanı amaçlı prosedürler yeterli eğitim almış ve gerçekleştirilecek
+olan prosedür hakkında detaylı bilgi sahibi olan bir hekimin denetiminde yapılmalıdır.
+Kontrast maddelerde ilgili deneyimler istenmeyen etkilerin büyük kısmının enjeksiyondan sonra ilk
+30 dakika içinde geliştiğini gösterdiğinden hastalar bu süre içinde gözetimde tutulmalıdır.
+Böbrek yetmezliği
+PRIMOVIST uygulaması öncesinde, tüm hastaların böbrek fonksiyon bozukluğu yönünden
+laboratuvar testleri ile taramadan geçirilmesi önerilmektedir.
+Akut veya kronik ağır böbrek fonksiyon bozukluğu (GFR < 30 mL/dakika/1,73 m² ) olan hastalarda
+bazı gadolinyum içeren kontrast ajanların kullanımı ile ilişkili nefrojenik sistemik fibrozis (NSF)
+bildirimleri bulunmaktadır. Karaciğer transplantasyonu geçiren hastalar, bu popülasyonda akut
+renal yetmezlik sıklığı yüksek olduğundan özellikle bir risk altındadır. Ağır böbrek yetmezliği olan
+hastalarda ve perioperatif karaciğer transplantasyon döneminde olan hastalarda PRIMOVIST ile
+NSF oluşabileceği ihtimali nedeniyle, tanısal bilgi gerekmedikçe ve kontrastsız MRG ile elde
+edilebiliyorsa kullanımından kaçınılmalıdır.
+Aşağıda belirtilen hasta gruplarında, gadolinium içeren bazı kontrast maddelerinin kullanımıyla
+ilişkilendirilen nefrojenik sistemik fibrozis (NSF) bildirimleri söz konusudur.
+Orta derece böbrek fonksiyon bozukluğu (GFR<30-60 ml/dk/1,73 m2) olan hastalarda nefrojenik
+sistemik fibrozis (NSF) oluşma riski nedeniyle kullanımından kaçınılmalıdır.
+• Akut veya kronik ağır böbrek yetmezliği (GFR<30 ml/dk/1,73 m2),
+• Hepato-renal sendrom veya perioperatif karaciğer transplantasyon dönemi ile ilişkili herhangi
+bir derecede akut böbrek yetmezliği olan hastalarda nefrojenik sistemik fibrozis (NSF) oluşma
+riski nedeniyle kullanılmamalıdır.
+PRIMOVIST uygulamasından hemen sonra uygulanan hemodiyaliz PRIMOVIST’in vücuttan
+uzaklaştırılması için yararlı olabilir.
+Hemodiyaliz tedavisi almayan hastalarda NSF’nin önlenmesi veya tedavisi için diyaliz
+başlatılmasını destekleyen bulgular bulunmamaktadır.
+Yaşlılar
+Yaşlılarda gadoksetatın renal klirensi bozulmuş olabileceğinden, özellikle 65 yaş ve üzerindeki
+hastaların böbrek disfonksiyonu taramasından geçirilmesi önemlidir.
+3Kardiyovasküler hastalığı olan hastalar
+Bu konuda sadece sınırlı veriler mevcut olduğundan, PRIMOVIST şiddetli kardiyovasküler
+sorunları olan hastalarda dikkatli kullanılmalıdır.
+PRIMOVIST hipokalemisi düzeltilmemiş hastalarda kullanılmamalıdır.
+PRIMOVIST aşağıdaki durumların bulunduğu hastalara uygulanırken özellikle dikkatli olunmalıdır:
+- bilinen konjenital uzun QT sendromu veya ailede konjenital uzun QT sendromu öyküsü
+- kardiyak repolarizasyonu uzatan ilaçları alırken, bilinen daha önce geçirilmiş aritmiler
+- kardiyak repolarizasyonu uzattığı bilinen bir ilaç alınması; örn. sınıf III antiaritmik (örn.
+amiodaron, sotalol).
+PRIMOVIST bireysel hastalarda geçici QT uzamasına neden olabilir. (Bkz. Bölüm 5.3).
+Aşırı duyarlılık
+PRIMOVIST’e karşı bilinen aşırı duyarlılığı olan hastalarda dikkatli bir yarar-risk değerlendirmesi
+gereklidir.
+Şok dahil alerji benzeri reaksiyonların gadolinyum bazlı MRG kontrast maddelerinin
+uygulanmasından sonra nadiren geliştiği bilinmektedir. Bu reaksiyonların büyük kısmı kontrast
+maddenin uygulanmasından sonraki yarım saat içinde gerçekleşir. Bununla birlikte, bu sınıftan olan
+diğer tüm kontrast maddelerde olduğu gibi, nadir olgularda saatler veya günler sonra gecikmiş
+reaksiyonlar ortaya çıkabilir. Aşırı duyarlılık reaksiyonlarının tedavisi için ilaç bulundurulması ve
+ayrıca acil önlemlerin uygulanması açısından hazırlıklı olunması gerekir.
+Şu durumlarda aşırı duyarlılık reaksiyonu riski daha yüksektir:
+- geçmişte kontrast madde reaksiyonu bulunması
+- bronşiyal astım öyküsü
+- alerjik bozukluk öyküsü
+Alerjik eğilimi olan hastalarda (özellikle yukarıda belirtilen durumların öyküsü olan hastalarda)
+PRIMOVIST kullanma kararı özellikle risk-yarar oranı dikkatli bir şekilde değerlendirildikten sonra
+verilmelidir.
+Aşırı duyarlılık reaksiyonları beta blokör kullanan hastalarda, özellikle bronşiyal astım varlığında
+daha yoğun olabilmektedir. Beta blokör kullanan hastaların beta agonistlerle yapılan standart aşırı
+duyarlılık reaksiyonu tedavilerine refrakter olabilecekleri dikkate alınmalıdır.
+Aşırı duyarlılık reaksiyonlarının gelişmesi halinde, kontrast madde uygulaması derhal kesilmelidir.
+Lokal intolerans
+Fokal nekroz gibi lokal intolerans reaksiyonlarına neden olabileceğinden İntramüsküler
+uygulamadan kesinlikle kaçınılmalıdır (Bkz. Bölüm 5.3).
+Vücuttaki birikim
+Gadoksetat disodyum uygulamasını takiben gadolinyum beyinde ve vücudun diğer dokularında
+(kemikler, karaciğer, böbrekler, deri) birikebilir ve beyinde özellikle dentat nükleus, globus pallidus
+ve talamusta doza bağlı olrak T1-ağırlıklı sinyal yoğunluğunun artışına neden olabilir. Bu birikimin
+ne gibi klinik sonuçlara yol açabileceği bilinmemektedir. Tekrarlanan taramaların gerekli olduğu
+hastalarda PRIMOVIST® kullanmanın olası tanısal yararları, beyin ve diğer dokularda gadolinyum
+birikme olasılığına ağır basması gerekir.
+4Sodyum:
+PRIMOVIST doz başına (70 kg’lık bir insana verilen doz esas alınarak) 4 mmol (82 mg) sodyum
+ihtiva eder. Bu durum, kontrollü sodyum diyetinde olan hastalar için gözönünde bulundurulmalıdır.
+4.5 Diğer tıbbi ürünlerle etkileşimler ve diğer etkileşim şekilleri
+OATP (organik anyon transport proteinleri) inhibitörleri ile etkileşim
+Hayvan çalışmaları anyonik tıbbi ürünler sınıfına ait maddelerin, örn. rifampisin, PRIMOVIST®’in
+hepatik alımını bloke ettiğini, bu nedenle hepatik kontrast etkisini azalttığını göstermektedir. Bu
+durumda PRIMOVIST enjeksiyonunundan beklenen fayda sınırlı kalabilir. Bundan başka hayvan
+çalışmalarında ilaçlarla bilinen etkileşimi yoktur.
+Sağlıklı kişilerde yapılan bir etkileşim çalışması OATP inhibitörü eritromisinin birlikte
+uygulanmasının PRIMOVIST’in etkililiğini ve farmakokinetiğini etkilemediğini göstermiştir. Diğer
+ilaçlarla başka klinik etkileşim çalışması yapılmamıştır.
+Bilirubin veya ferritin seviyeleri yükselmiş hastalarda etkileşim
+Yükselmiş bilirubin (>3 mg/dl) veya ferritin seviyeleri PRIMOVIST’in hepatik kontrast etkisini
+azaltabilir. Eğer bu hastalarda PRIMOVIST kullanılırsa manyetik rezonans görüntüleme
+PRIMOVIST uygulamasından sonra 60 dakika içinde tamamlanmalıdır (Bkz. Bölüm “5.2).
+Diyagnostik testlerle etkileşim
+Kontrast madde solüsyonunda bulunan serbest kompleks oluşturucu ajan kaloksetat trisodyum
+nedeniyle PRIMOVIST tetkikinden sonraki 24 saat içerisinde kompleksometrik metod kullanılarak
+yapılan serum demir tayini (örn. Ferrocine kompleksasyon metodu) yanlış yüksek ya da düşük
+değer verebilir.
+Özel popülasyonlara ilişkin ek bilgiler
+Pediyatrik popülasyon:
+18 yaşından genç hastalar için klinik tecrübe yoktur.
+4.6 Gebelik ve laktasyon
+Genel tavsiye
+Gebelik kategorisi C’dir.
+Çocuk doğurma potansiyeli olan kadınlar/Doğum kontrolü (Kontrasepsiyon).
+Kontraseptiflerle olan ilaç etkileşimi bilinmemektedir.
+Gebelik dönemi
+Gadolinyum bazlı kontrast maddelere ilişkin veriler sınırlıdır. Gadolinyum plasentayı geçebilir.
+Gadolinyum maruziyetinin fetüste advers etkilerle ilişkili olup olmadığı bilinmemektedir.
+Hayvanlar üzerinde yapılan çalışmalar, tekrarlanan yüksek dozlarda üreme toksisitesi göstermiştir
+(Bkz. Bölüm 5.3). PRIMOVIST, kadının klinik durumu gadoksetat kullanımını gerektirmedikçe
+gebelik döneminde kullanılmamalıdır.
+Laktasyon dönemi
+Gadolinyum içeren kontrast maddeler çok küçük miktarlarda anne sütüne geçer (Bkz. Bölüm 5.3).
+5Klinik dozlarda, sütle atılan miktarın az olması ve bağırsaktan emilimin zayıf olması nedeniyle
+bebek üzerinde herhangi bir etki beklenmez. PRIMOVIST uygulamasından sonra 24 saatlik bir süre
+boyunca emzirmeye devam edilmesi veya emzirmenin kesilmesi, doktorun ve emziren annenin
+takdirine bağlı olmalıdır.
+Üreme yeteneği/Fertilite
+Hayvan çalışmalarında fertilitede bozulma görülmemiştir.
+4.7 Araç ve makine kullanımı üzerindeki etkiler
+PRIMOVIST’in araç ve makine kullanma yeteneği üzerinde hiçbir etkisi yoktur.
+4.8 İstenmeyen etkiler
+PRIMOVIST’in genel güvenlilik profili klinik çalışmalardaki 1900’den fazla hastaya ve pazarlama
+sonrası çalışmalara dayanmaktadır.
+PRIMOVIST kullanan hastalarda en sık gözlenen advers ilaç reaksiyonları (>%0,5) bulantı, baş
+ağrısı, sıcaklık hissi, kan basıncı artışı ve baş dönmesidir.
+PRIMOVIST kullanan hastalardaki en ciddi advers ilaç reaksiyonu anaflaktik şoktur.
+Gecikmiş alerjik reaksiyonlar (saatler – günler sonra) nadiren gözlenir.
+Advers etkilerin çoğu hafif veya orta şiddette olmuştur.
+PRIMOVIST ile gözlenen advers ilaç reaksiyonları aşağıda sunulmaktadır. Sistem Organ Sınıfına
+(MedDRA versiyon 12.1) göre klasifiye edilmişlerdir. Belli bir reaksiyonu, sinonimlerini ve ilişkili
+durumları tanımlamak için en uygun MedDRA terimi kullanılmaktadır.
+Advers reaksiyonlar, aşağıda sistem-organ sınıfı (MedDRA) ve sıklık derecesine göre
+listelenmektedir. Sıklık dereceleri şu şekilde tanımlanmaktadır; çok yaygın (≥1/10), yaygın (≥1/100,
+<1/10), yaygın olmayan (≥1/1.000, <1/100), seyrek (≥1/10.000 ila <1/1.000), çok seyrek
+(<1/10.000), bilinmiyor (eldeki verilerden hareketle tahmin edilemiyor).
+Her sıklık grubunda istenmeyen etkiler azalan ciddiyete göre sunulmuştur.
+Bağışıklık sistemi hastalıkları
+Bilinmiyor: Aşırı duyarlılık / anaflaktoid reaksiyon (ör. Şok*, hipotansiyon, faringolaringeal ödem,
+ürtiker, yüz ödemi, rinit, konjonktivit, karın ağrısı, hipoestezi, hapşırmak, öksürmek, solukluk)
+Sinir sistemi bozuklukları
+Yaygın: Baş ağrısı
+Yaygın olmayan: Vertigo, baş dönmesi, parestezi, tat alma bozukluğu, parosmi
+Seyrek: Akatizi, tremor
+Bilinmiyor: Huzursuzluk
+Kardiyak bozukluklar
+Seyrek: Dal bloğu, palpitasyon
+Bilinmiyor: Taşikardi
+6Vasküler bozukluklar
+Yaygın olmayan: Kan basıncında artış, kızarma
+Respiratuvar, toraks ve mediasten bozuklukları
+Yaygın olmayan: Respiratuvar bozukluklar (dispne*, solunumsal stres)
+Gastrointestinal bozukluklar
+Yaygın: Bulantı
+Yaygın olmayan: Kusma, ağız kuruluğu
+Seyrek: Oral rahatsızlık, tükürük artışı
+Deri ve deri altı dokusu bozuklukları
+Yaygın olmayan: Döküntü, kaşıntı**
+Seyrek: Makülopapüler döküntü, terleme artışı
+Kas iskelet sistemi ve bağ doku bozuklukları
+Yaygın olmayan: Sırt ağrısı
+Genel bozukluklar ve uygulama bölgesi koşulları
+Yaygın olmayan: Göğüs ağrısı, enjeksiyon yeri reaksiyonları***, sıcaklık hissi, titreme, bitkinlik,
+anormal hissetme
+Seyrek: Rahatsızlık, kırıklık
+* Hayatı tehdit eden ve/veya fatal vakalar raporlanmıştır. Bu raporlar pazarlama sonrası
+deneyimden elde edilmiştir.
+** Kaşıntı (Jeneralize, gözde)
+***Enjeksiyon yeri reaksiyonları (çeşitli) aşağıdaki terimleri kapsar: enjeksiyon yeri
+ekstravazasyonu, enjeksiyon yerinde yanma, enjeksiyon yerinde soğukluk, enjeksiyon yerinde
+irritasyon, enjeksiyon yerinde ağrı
+Gadolinyum içeren bazı kontrast maddelerin kullanımıyla nefrojenik sistemik fibrozis (NSF)
+vakaları raporlanmıştır (Bkz. Bölüm 4.4)
+PRIMOVIST uygulamasından sonra hastaların %1’inden azında hafif yükselmiş serum demir ve
+serum bilirubin değerleri gözlenmiştir. Fakat değerler normal değerlerin 2-3 katını aşmamıştır ve
+bunlar 1-4 gün içinde semptomsuz bir şekilde ilk değerlerine dönmüşlerdir.
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem taşımaktadır.
+Raporlama yapılması, ilacın yarar / risk dengesinin sürekli olarak izlenmesine olanak sağlar. Sağlık
+mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye Farmakovijilans Merkezi
+(TÜFAM)’ne bildirmeleri gerekmektedir (www.titck.gov.tr; e- posta:tufam@titck.gov.tr; tel: 0 800
+314 00 08; faks: 0 312 218 35 99).
+4.9 Doz aşımı ve tedavisi
+Gadoksetat disodyumun test edilen en yüksek tek dozu olan 0,4 mL/kg (0,1 mmol/kg) vücut ağırlığı
+iyi tolere edilmiştir. Klinik çalışmalarda sınırlı sayıdaki hastada 2,0 mL/kg (0,5 mmol/kg) vücut
+ağırlığı doz kullanılmış olup bu hastalarda advers etki oluşumu sıklaştıysa da yeni bir advers etki
+bulunmamıştır.
+7İstenmeyen aşırı doz aşımı durumunda, hasta kardiyak monitörizasyon de dahil olmak üzere
+dikkatle gözlenmelidir. Bu durumda QT uzamalarının indüksiyonu olasıdır (Bkz. Bölüm 5.3).
+PRIMOVIST hemodiyaliz ile uzaklaştırılabilir. Ancak, nefrojenik sistemik fibrozisin (NSF)
+önlenmesi için hemodiyalizin uygun olduğuna dair bir kanıt yoktur.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1 Farmakodinamik özellikler
+Farmakoterapötik grup: Paramanyetik kontrast madde
+ATC kodu: V08C A10
+Etki mekanizması
+PRIMOVIST, manyetik rezonans görüntülemesinde kullanılan paramanyetik bir kontrast maddedir.
+Kontrast artırıcı etkiden gadolinyumdan ve etoksibenzil-dietilenetriamin-pentaasetik asitten oluşan
+iyonik bir kompleks olan gadoksetat (EOB-DTPA) sorumludur.
+Proton manyetik rezonans görüntülemede T -ağırlıklı tarama kullanıldığında gadolinyum iyonu,
+1
+uyarılmış atom çekirdeklerinin "spin-lattice" relaksasyon süresini kısaltarak, sinyal yoğunluğunda
+ve böylece belirli dokuların kontrastında bir artış sağlamaktadır.
+Farmakodinamik etkiler
+Gadoksetat disodyum düşük konsantrasyonlarda bile relaksasyon zamanının belirgin kısalmasına
+neden olur. pH 7’de T manyetik alan gücü 0,47, 40°C relaksivite (r ) – plazmada protonların spin-
+1
+kafes relaksasyon zamanına etkisinden bulunmuştur- yaklaşık 8,18 L/(mmol.sn) ve relaksivite (r ) -
+2
+spin-spin relaksasyon zamanına etkisinden bulunmuştur yaklaşık 8,56 L/(mmol.sn)’dir. 1,5 T’de ve
+37°C’de plazmadaki ilgili relaksiviteler r1=6,9 L/(mmol.sn), r =8,7 L/(mmol.sn)’dir.
+2
+Etoksibenzil-dietilentriaminpentaasetat, paramanyetik gadolinyum iyonu ile oldukça yüksek bir in
+vivo ve in vitro stabiliteye sahip kompleks oluşturmaktadır (termodinamik stabilite sabiti: log K =
+Gdl
+23,46). Gadoksetat disodyum, pH 7.6’da n-butanol ile tampon arasındaki bölünme katsayısı 0,011
+olan suda çok iyi çözünen hidrofilik bir bileşiktir. Lipofilik etoksibenzil grubu nedeniyle
+gadoksetat disodyum bifazik etki mekanizması gösterir: önce bolus enjeksiyonun ardından
+ekstraselüler boşluğa dağılır ve sonra hepatositlere selektif olarak alınır. Karaciğer dokusundaki
+relaksivite r 16,6 L/(mmol.sn) (0,47 T’de)’dir, bu durum karaciğer dokusunun artmış sinyal
+1
+yoğunluğuyla sonuçlanır. Ardından gadoksetat disodyum safraya atılır.
+Hepatosit fonksiyonu olmayan veya minimal düzeyde olan lezyonlarda (kistler, metastazlar,
+hepatosellüler karsinomların çoğunluğu) PRIMOVIST birikimi görülmez. İyi diferansiye
+hepatosellüler karsinom, fonksiyonel hepatositler içerebilir ve hepatosit görüntüleme fazında bir
+miktar kontrast artışı gösterebilir. Bu nedenle, doğru bir teşhisi desteklemek için ilave klinik
+bilgilere ihtiyaç vardır.
+Madde, klinik olarak ilgili konsantrasyonlarda, enzimlerle anlamlı bir inhibitör etkileşimi
+göstermez.
+8Görüntüleme
+Dinamik görüntüleme, radyolojik lezyon karakterizasyonu için PRIMOVIST'in bolus
+enjeksiyonundan sonra, arteriyel, portovenöz ve denge fazları sırasında temel olarak farklı karaciğer
+lezyonlarının zamansal kontrast artışı paterlerinin farklılığından yararlanır.
+Hepatosit fazı sırasında karaciğer parankiminin kontrast artışı, karaciğer lezyonlarının sayısının,
+segmental dağılımının, görselleştirilmesinin ve tanımlanmasının belirlenmesine yardımcı olarak
+lezyon tespitini sağlar. Karaciğer lezyonlarının diferansiyel kontrast artışı/arınma paterni, dinamik
+fazdan gelen bilgilere katkıda bulunur.
+Gecikmiş (hepatosit) faz, enjeksiyondan 20 dakika sonra en az 120 dakika süren bir görüntüleme
+penceresi ile incelenebilir. Klinik çalışmaların tanısal ve teknik etkililik sonuçları, enjeksiyondan
+20 dakika sonra, enjeksiyondan 10 dakika sonra olanlara göre minimal bir gelişme gösterir.
+Hemodiyaliz gerektiren hastalarda ve bilirubin değerleri yüksek (>3 mg/dL) hastalarda görüntüleme
+penceresi 60 dakikaya düşürülür.
+PRIMOVIST'in hepatik atılımı, biliyer yapılarda kontrast artışına neden olur.
+PRIMOVIST kullanıma hazır çözeltinin fiziko-kimyasal özellikleri aşağıdaki gibidir:
+37 °C’deki Osmolalite (mOsm/kg H O) 688
+2
+37 °C’deki Viskozite (mPa.s) 1,19
+37 °C’deki Yoğunluk (g/mL) 1,0881
+pH 7,4
+Pediyatrik popülasyon
+52 pediatrik hastada (yaşları > 2 ay ve < 18 yaş) gözlemsel bir çalışma yapılmıştır. Hastalar,
+şüpheli veya bilinen fokal karaciğer lezyonlarını değerlendirmek için PRIMOVIST kontrastlı
+karaciğer MRG’ye yönlendirilmiştir. Birleştirilmiş kontrastsız ve kontrastlı karaciğer MR
+görüntüleri, yalnızca kontrastsız MR görüntüleri ile karşılaştırıldığında, ek tanısal bilgiler elde
+edilmiştir. Ciddi advers olaylar rapor edilmiş, ancak hiçbirisi araştırmacı tarafından PRIMOVIST
+ile ilgili olarak değerlendirilmemiştir. Bu çalışmanın retrospektif doğası ve küçük örneklem
+büyüklüğü nedeniyle, bu popülasyondaki etkililik ve güvenliliğe ilişkin kesin bir sonuca varılamaz.
+5.2 Farmakokinetik özellikler
+Dağılım:
+İntravenöz uygulamadan sonra, Gd-EOB-DTPA’nın plazma konsantrasyonu-zaman profili bi-
+eksponansiyal azalma ile karakterizedir.
+Gd-EOB-DTPA ekstraselüler boşlukta dağılır (kararlı durumda dağılım hacmi yaklaşık 0,21
+L/kg’dır). Madde sadece küçük protein bağlanması sağlar (%10’dan az). Bileşik, plasenta
+bariyerinden yalnızca küçük bir oranda yayılır.
+Gadoksetat disodyum lineer bir GdCA’dır. Çalışmalar, GdCA'lara maruziyetten sonra
+gadolinyumun vücutta tutulduğunu göstermiştir. Buna, beyinde ve diğer doku ve organlarda tutulma
+dahildir. Lineer GdCA'lar ile bu, beyinde, özellikle dentat nukleus, globus pallidus ve talamusta T1-
+ağırlıklı sinyal yoğunluğunda doza bağlı artışlara neden olabilir. Sinyal yoğunluğu artışları ve klinik
+dışı veriler, gadolinyumun lineer GdCA'lardan salındığını gösterir.
+9Metabolizma:
+Gadoksetat disodyum metabolize edilmez.
+Eliminasyon:
+Gd-EOB-DTPA, böbrek ve hepatobiliyer yollardan eşit olarak elimine edilir. Gd-EOB-DTPA'nın
+yarılanma ömrünün yaklaşık 1,0 saat olduğu görülmüştür. Farmakokinetik, 0,4 mL/kg (100
+mikromol/kg) doza kadar doz lineer olmuştur.
+Yaklaşık 250 mL/dk.’lık bir toplam serum klerensi (Cl ) kaydedilirken, renal klerens (Cl) yaklaşık
+tot r
+120 mL/dk.’ya karşılık gelir.
+Özel hasta popülasyonundaki karakteristik özellikler
+Geriyatrik popülasyon (65 yaş ve üstü):
+Yaşla birlikte renal fonksiyonlardaki fizyolojik değişime bağlı olarak, gadoksetat disodyumun
+plazma klerensi yaşlı olmayan kişilerde 210 mL/dk’dan 65 yaş ve üzerindeki yaşlı kişilerde 163
+mL/dk’ya düşmüştür. Terminal yarılanma ömrü ve sistemik maruziyet yaşlılarda (sırasıyla 2,3 saat
+ve 0,197 mmol*s/L) kontrol grubuna göre (sırasıyla 1,8 saat ve 0,160 mmol*s/L) daha fazladır.
+Renal atılım yaşlı ve yaşlı olmayan sağlıklı kişilerde farklılık göstermeden 24 saat sonra
+tamamlanır.
+Böbrek ve/veya karaciğer yetmezliği
+Hafif ve orta derecede karaciğer yetmezliği olan hastalarda, normal karaciğer fonksiyonuna sahip
+hastalara kıyasla plazma konsantrasyonunda, yarılanma ömründe ve idrarla atılımda hafif ila orta
+derecede bir artış ve hepatobiliyer atılımda ise azalma gözlenmiştir. Bununla birlikte, hepatik sinyal
+artışında klinik olarak anlamlı farklılıklar gözlenmemiştir. Şiddetli karaciğer yetmezliği olan,
+özellikle anormal derecede yüksek (> 3 mg/dL) serum bilirubin düzeylerine sahip olan hastalarda,
+kontrol grubundaki 0,160 mmol*s/L'ye kıyasla, EAA 0,259 mmol*s/L'ye yükselmiştir. Kontrol
+grubundaki 1,8 saate kıyasla, eliminasyon yarılanma ömrü 2,6 saate yükselmiştir. Hepatobiliyer
+atılım, uygulanan dozun %5,7'sine büyük ölçüde azalmış olup bu hastalarda hepatik sinyal artışı
+azalmıştır.
+Son dönem böbrek yetmezliği olan hastalarda EAA 6 kat artarak yaklaşık 0,903 mmol*saat/L'ye ve
+terminal yarılanma ömrü yaklaşık 20 saate uzamıştır. Hemodiyaliz, gadoksetat disodyumun
+klerensini artırmıştır (Bkz. Bölüm 4.4). Yaklaşık 3 saatlik ortalama bir diyaliz seansında, gadoksetat
+disodyum dozunun yaklaşık %30'u, enjeksiyondan 1 saat sonra başlanarak hemodiyaliz ile
+uzaklaştırılmıştır. Hemodiyaliz ile klerense ilave olarak, 4 gün içinde dışkıda yaklaşık %50'lik bir
+ortalama geri kazanımla gösterildiği üzere (aralık %24.6 ila %74.0, n=6 hasta), bu hastalarda
+uygulanan gadoksetat dozunun anlamlı bir kısmı safra yoluyla atılır.
+5.3. Klinik öncesi güvenlilik verileri
+Akut ve subkronik toksisite, genotoksisite ve temas ile duyarlılaştırıcı potansiyele ilişkin
+konvansiyonel çalışmalara dayalı olarak klinik öncesi verilerde insanlar için özel bir risk ortaya
+çıkmamıştır.
+Kardiyak güvenlilik:
+Telemetri kullanılarak bilinci açık köpeklerde yapılan çalışmalarda, insanlara uygulanan dozunun
+20 katına eşdeğer olmak üzere test edilen 0,5 mmol/kg’lık en yüksek dozda küçük ve geçici bir QT
+uzaması gözlenmiştir. Gd-EOB-DTPA, yüksek konsantrasyonlarda, HERG kanallarını bloke etmiş
+ve izole kobay papiller kaslarında aksiyon potansiyeli süresini uzatmıştır. Bu bulgu,
+PRIMOVIST’in doz aşımını takiben QT uzamasını indükleyebileceğini göstermektedir.
+10Diğer organ sistemlerinde yapılan güvenlilik farmakolojisi çalışmalarında herhangi bir anormal
+bulgu gözlenmemiştir.
+Üreme toksikolojisi ve laktasyon:
+Tavşanlarda yapılan bir embriyotoksisite çalışmasında, 2,0 mmol/kg Gd-EOB-DTPA’nın tekrarlı
+olarak uygulanmasını takiben implantasyon sonrası kayıplarda ve düşük oranında artış gözlenmiştir;
+bu doz, insanlar için (vücut yüzey alanına göre) önerilen dozun 25,9 katına veya (vücut ağırlığına
+göre) yaklaşık 80 katına eşdeğerdir.
+Emziren sıçanlarda, radyoaktif işaretli gadoksetatın intravenöz yoldan uygulanan dozunun (0,1
+mmol/kg) %0,5’inden daha azı sütle atılmıştır. Sıçanlarda oral uygulamadan sonra emilimin %0,4
+ile çok düşük olduğu kaydedilmiştir.
+Lokal tolerans:
+Lokal intolerans reaksiyonları, yalnızca Gd-EOB-DTPA’nın intramusküler yoldan uygulanması
+sonrasında gözlenmiştir.
+Karsinojenite:
+Karsinojenite çalışması yapılmamıştır.
+6. FARMASÖTİK ÖZELLİKLER
+6.1. Yardımcı maddelerin listesi
+Kaloksetat trisodyum (Ca-EOB-DTPA)
+Hidroklorik asit % 3,6 (a/a) (pH ayarlaması için)
+Sodyum hidroksit (pH ayarlaması için)
+Trometamol
+Enjeksiyonluk su
+6.2. Geçimsizlikler
+Çalışmalar mevcut olmadığından, bu ürün diğer tıbbi ürünlerle karıştırılmamalıdır.
+6.3. Raf Ömrü
+60 ay.
+Kabın ilk açılmasından sonraki raf ömrü: PRIMOVIST kimyasal ve fiziksel açıdan stabildir.
+Mikrobiyolojik açıdan ise, ürün açıldıktan sonra hemen kullanılmalıdır.
+6.4. Saklamaya yönelik özel tedbirler
+30ºC altındaki oda sıcaklığında saklayınız.
+6.5. Ambalajın niteliği ve içeriği
+Klorobutil elastomer başlık ucu ve piston tıpası bulunan kullanıma hazır tip I cam enjektör.
+6.6. Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+Kullanılmamış olan ürünler ya da atık materyaller, “Tıbbi Atıkların Kontrolü Yönetmeliği” ve
+“Ambalaj ve Ambalaj Atıklarının Kontrolü Yönetmeliği”ne uygun olarak imha edilmelidir.
+Görsel Kontrol
+İlaç kullanmadan önce görsel olarak incelenmelidir.
+11Ciddi renk değişikliği, partiküler madde oluşması veya ambalajda bir hasar olması durumunda
+PRIMOVIST kullanılmamalıdır.
+Kullanım
+PRIMOVIST uygulamanın hemen öncesinde kutusundan çıkartılmalı ve enjeksiyona hazır hale
+getirilmelidir. Kullanıma hazır enjektörün uç kısımda yer alan kapak, uygulamanın hemen
+öncesinde çıkartılmalıdır ve bir tetkik seansından arta kalan kontrast madde yeniden
+kullanılmamalıdır.
+7. RUHSAT SAHİBİ
+Bayer Türk Kimya San. Ltd. Şti.
+Fatih Sultan Mehmet Mah. Balkan Cad. No: 53
+34770 Ümraniye / İstanbul
+Tel: 0216 528 36 00
+Faks: 0216 528 36 12
+8. RUHSAT NUMARASI (LARI)
+124/93
+9. İLK RUHSAT TARİHİ / RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi: 10.06.2008
+Ruhsat yenileme tarihi: 10.06.2013
+10. KÜB’ÜN YENİLENME TARİHİ
+12

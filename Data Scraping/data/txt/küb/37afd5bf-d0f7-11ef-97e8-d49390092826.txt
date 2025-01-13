@@ -1,0 +1,812 @@
+KISA ÜRÜN BİLGİSİ
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+SİLANEM 500 mg/500 mg IV infüzyonluk çözelti hazırlamak için toz
+Steril
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin maddeler:
+Her bir 20 ml’lik flakon, 500 mg imipeneme eşdeğer 542,5 mg imipenem monohidrat ve 500
+mg silastatine eşdeğer 542,5 mg silastatin sodyum içerir.
+Yardımcı maddeler:
+Her bir flakon yaklaşık 0,23 mEq sodyuma (yaklaşık 5,47 mg) eşdeğer 20 mg sodyum
+bikarbonat içerir.
+Yardımcı maddeler için 6.1'e bakınız.
+3. FARMASÖTİK FORM
+İnfüzyon çözeltisi için toz
+Beyaz-beyaza yakın veya açık sarı renkli toz.
+4. KLİNİK ÖZELLİKLER
+4.1 Terapötik endikasyonlar
+SİLANEM IV, aşağıdaki mikroorganizmaların duyarlı suşlarının neden olduğu ciddi
+enfeksiyonların tedavisinde endikedir:
+• Alt solunum yolu enfeksiyonları: Staphylococcus aureus (penisilinaz üreten suşlar),
+Acinetobacter türleri, Enterobacter türleri, Escherichia coli, Haemophilus influenzae,
+Haemophilus parainfluenzae*, Klebsiella türleri, Serratia marcescens.
+• Üriner sistem enfeksiyonları (komplikasyonlu ve komplikasyonsuz): Enterococcus faecalis,
+Staphylococcus aureus (penisilinaz üreten suşlar)*, Enterobacter türleri, Escherichia coli,
+Klebsiella türleri, Morganella morganii*, Proteus vulgaris*, Providencia rettgeri*,
+Pseudomonas aeruginosa.
+• İntra-abdominal enfeksiyonlar: Enterococcus faecalis, Staphylococcus aureus (penisilinaz
+üreten suşlar)*, Staphylococcus epidermidis, Citrobacter türleri, Enterobacter türleri,
+Escherichia coli, Klebsiella türleri, Morganella morganii*, Proteus türleri, Pseudomonas
+aeruginosa, Bifidobacterium türleri, Clostridium türleri, Eubacterium türleri, Peptococcus
+türleri, Peptostreptococcus türleri, Propionibacterium türleri*, B. fragilis dahil
+Bacteroides türleri*, Fusobacterium türleri.
+• Jinekolojik enfeksiyonlar: Enterococcus faecalis, Staphylococcus aureus (penisilinaz
+üreten suşları)*, Staphylococcus epidermidis, Streptococcus agalactiae (Grup B
+streptococci), Enterobacter türleri*, Escherichia coli, Gardnerella vaginalis, Klebsiella
+türleri*, Proteus türleri, Bifidobacterium türleri*, Peptococcus türleri*,
+Peptostreptococcus türleri, Propionibacterium türleri*, B. fragilis dahil Bacteroides
+türleri*.
+1• Bakteriyel septisemi: Enterococcus faecalis, Staphylococcus aureus (penisilinaz üreten
+suşları), Enterobacter türleri, Escherichia coli, Klebsiella türleri, Pseudomonas
+aeruginosa, Serratia türleri*, B.fragilis dahil Bacteroides türleri*.
+• Kemik ve eklem enfeksiyonları: Enterococcus faecalis, Staphylococcus aureus
+(penisilinaz üreten suşlar), Staphylococcus epidermidis, Enterobacter türleri,
+Pseudomonas aeruginosa.
+• Deri ve yumuşak doku enfeksiyonları: Enterococcus faecalis, Staphylococcus aureus
+(penisilinaz üreten suşları), Staphylococcus epidermidis, Acinetobacter türleri, Citrobacter
+türleri, Enterobacter türleri, Escherichia coli, Klebsiella türleri, Morganella morganii,
+Proteus vulgaris, Providencia rettgeri*, Pseudomonas aeruginosa, Serratia türleri,
+Peptococcus türleri, Peptostreptococcus türleri, B. fragilis dahil Bacteroides türleri,
+Fusobacterium türleri*.
+• Endokardit: Staphylococcus aureus (penisilinaz üreten suşlar)
+• Polimikrobik enfeksiyonlar: SİLANEM IV; S.pneumoniae (pnömoni, septisemi), S.
+pyogenes (deri ve yumuşak doku) veya penisilinaz üretmeyen S.aureus dahil polimikrobik
+enfeksiyonlarda endikedir. Ancak bu organizmaların neden olduğu monobakteriyel
+enfeksiyonların tedavisinde genellikle penisilin G gibi daha dar spektrumlu antibiyotikler
+kullanılmaktadır.
+* Bu organizmaların bu organ sistemlerindeki etkinliği 10’dan az enfeksiyonda çalışılmıştır.
+SİLANEM IV, menenjit tedavisinde endike değildir.
+Pediyatrik kullanım için (bkz. Bölüm 4.4 ve 4.2)
+SİLANEM IV, gram-pozitif ve gram-negatif aerob ve anaerob bakterilere karşı geniş
+spektrumlu bakterisit etkisi olduğundan karışık enfeksiyonların tedavisinde ve neden olan
+organizmaların belirlenmesinden önce ampirik tedavide kullanılır.
+Pseudomonas aeruginosa'dan kaynaklanan kistik fibroz, kronik akciğer hastalığı ve alt
+solunum yolu enfeksiyonları olan hastalarda klinik iyileşme gözlenmiş olmasına karşın,
+bakteriyel eradikasyon her zaman sağlanamayabilir.
+Diğer beta-laktam antibiyotiklerde olduğu gibi, bazı Pseudomonas aeruginosa suşları
+SİLANEM IV tedavisi sırasında oldukça hızlı direnç geliştirebilmektedir. Pseudomonas
+aeruginosa enfeksiyonlarının tedavisi sırasında, klinik yönden uygun olduğunda periyodik
+duyarlılık testleri yapılmalıdır.
+Diğer antibiyotiklere (örn., sefalosporinler, penisilin ve aminoglikozidler) dirençli
+enfeksiyonların imipenem/silastatin tedavisine yanıt verdiği gösterilmiştir.
+İlaca dirençli bakterilerin gelişimini azaltmak ve SİLANEM IV ve diğer antibakteriyel
+ilaçların etkinliğini korumak amacıyla SİLANEM IV yalnızca duyarlı bakterilerden
+kaynaklandığı kanıtlanmış veya bu yönde kuvvetli kuşkular olan enfeksiyonları tedavi etmek
+veya önlemek için kullanılmalıdır. Antibakteriyel tedavi seçilirken veya değiştirilirken kültür
+2ve duyarlılık testi sonuçları dikkate alınmalıdır. Bu tip verilerin yokluğunda, yerel
+epidemiyoloji ve duyarlılık modelleri tedavinin ampirik seçimine yardımcı olabilir.
+4.2 Pozoloji ve uygulama şekli
+Pozoloji/uygulama sıklığı ve süresi:
+Erişkin
+SİLANEM IV’nin dozaj önerileri uygulanacak imipenem miktarını temsil eder. Çözeltide
+eşdeğer miktarda silastatin de bulunmaktadır. Her 125 mg, 250 mg veya 500 mg doz 20-30
+dakika içinde intravenöz uygulamayla verilmelidir. Her 750 mg veya l000 mg doz 40-60
+dakika boyunca infüzyonla verilmelidir. İnfüzyon sırasında bulantısı olan hastalarda infüzyon
+hızı yavaşlatılabilir.
+SİLANEM IV’nin toplam günlük dozu enfeksiyonun tipine veya şiddetine göre belirlenmeli
+ve patojen(ler)in duyarlılık derecesi, böbrek fonksiyonu ve vücut ağırlığı dikkate alınarak eşit
+bölünmüş dozlar halinde verilmelidir. Böbrek fonksiyon bozukluğu olan erişkinlerde
+(kreatinin klirensi ≤ 70 ml/dak./1,73 m2) bu metnin bir sonraki bölümünde tarif edilen dozaj
+ayarlaması gerekir.
+Böbrek Fonksiyonu Normal ve Vücut Ağırlığı ≥ 70 kg olan Erişkinlerde İntravenöz Dozaj
+Şeması
+Tablo I’de gösterilen dozlar böbrek fonksiyonları normal ve vücut ağırlığı 70 kg olan bir
+hastayı esas alır. Bu dozlar kreatinin klirensi ≥ 71 ml/dak./1,73 m2 ve vücut ağırlığı ≥ 70 kg
+olan hastalarda kullanılmalıdır. Kreatinin klirensi ≤ 70 ml/dak/1,73 m2 ve/veya vücut ağırlığı
+70 kg’ın altında olan hastalarda doz azaltılmalıdır (Bkz. Tablo II ve III).
+Tablo I’in A sütununda yer alan doz rejimleri, patojen türlerin büyük kısmını oluşturan tam
+duyarlı organizmalardan kaynaklanan enfeksiyonlar için önerilmektedir. Tablo I’in B
+sütununda yer alan doz rejimleri, imipeneme orta düzeyde duyarlı organizmalardan
+kaynaklanan enfeksiyonlar için önerilir (esas olarak bazı P. aeruginosa suşları).
+TABLO I
+BÖBREK FONKSİYONU NORMAL OLAN VE VÜCUT AĞIRLIĞI ≥ 70 kg OLAN
+ERİŞKİNLERDE İNTRAVENÖZ DOZAJ ŞEMASI
+Enfeksiyonun Tipi A B
+veya Şiddeti Gram-pozitif ve gram-negatif Orta düzeyde duyarlı organizmalar, esas
+aeroblar ve anaeroblar dahil olmak olarak bazı P. aeruginosa suşları
+üzere tam duyarlı organizmalar
+Hafif 6 saatte bir 250 mg (TOPLAM 6 saatte bir 500 mg (TOPLAM
+GÜNLÜK DOZ = l g) GÜNLÜK DOZ = 2 g)
+Orta 8 saatte bir 500 mg 6 saatte bir 500 mg
+(TOPLAM GÜNLÜK DOZ = 1,5 g) (TOPLAM GÜNLÜK DOZ = 2 g) veya
+veya 8 saatte bir 1 g
+6 saatte bir 500 mg (TOPLAM GÜNLÜK DOZ = 3 g)
+(TOPLAM GÜNLÜK DOZ = 2 g)
+Şiddetli, sadece, 6 saatte bir 500 mg 8 saatte bir 1 g
+yaşamı tehdit eden (TOPLAM GÜNLÜK DOZ = 2 g) (TOPLAM GÜNLÜK DOZ = 3 g) veya
+6 saatte bir 1 g
+(TOPLAM GÜNLÜK DOZ = 4 g)
+3Komplikasyonsuz 6 saatte bir 250 mg 6 saatte bir 250 mg
+idrar yolu (TOPLAM GÜNLÜK DOZ = l g) (TOPLAM GÜNLÜK DOZ = l g)
+enfeksiyonu
+Komplikasyonlu 6 saatte bir 500 mg 6 saatte bir 500 mg
+idrar yolu (TOPLAM GÜNLÜK DOZ = 2 g) (TOPLAM GÜNLÜK DOZ = 2 g)
+enfeksiyonu
+SİLANEM IV’nin yüksek antimikrobiyal etkinliği nedeniyle, maksimum günlük toplam
+dozun günde 50 mg/kg veya günde 4 g’ı aşmaması (hangisi daha düşükse) önerilir. Daha
+yüksek dozların daha fazla etkinlik sağladığı yönünde bir kanıt yoktur. Ancak böbrek
+fonksiyonu normal, 12 yaş üzeri kistik fibrozlu hastalar bölünmüş dozlar halinde günde 90
+mg/kg'a kadar imipenem/silastatin dozlarıyla tedavi edilmiştir ve günde 4 g aşılmamıştır.
+Böbrek Fonksiyon Bozukluğu olan ve/veya Vücut Ağırlığı < 70 kg olan Erişkinlerde
+Azaltılmış İntravenöz Dozaj Şeması
+Aşağıdaki tablolarda gösterildiği gibi, kreatinin klirensi ≤ 70 ml/dak/1,73 m2 ve/veya vücut
+ağırlığı 70 kg’ın altında olan hastalarda SİLANEM IV dozunun azaltılması gerekir. Kreatinin
+klirensi aşağıdaki denklemle serum kreatinin konsantrasyonundan hesaplanabilir:
+Tkk (Erkekler) = (kg cinsinden ağırlık) (140 - yaş)
+(72) (mg/dl cinsinden kreatinin)
+Tkk (Kadınlar) = 0.85 x üstteki değer
+Böbrek fonksiyonu bozulmuş ve/veya vücut ağırlığı düşük erişkinlerde dozu belirlemek için:
+1. Enfeksiyon özelliklerine göre Tablo I’den toplam günlük dozu seçin.
+2. a) Toplam günlük doz 1 g, 1,5 g veya 2 g ise, Tablo II’nin uygun alt bölümünü kullanın ve
+3. basamağa ilerleyin.
+b) Toplam günlük doz 3 g veya 4 g ise, Tablo III’ün uygun alt bölümünü kullanın ve 3.
+basamağa ilerleyin.
+3. Tablo II veya III’ten:
+a) Vücut ağırlığı kolonundan hastanın ağırlığına (kg) en yakın değeri seçin.
+b) Hastanın kreatinin klirens kategorisini seçin.
+c) Satır ve sütunun çakıştığı bölüm, azaltılmış dozaj rejimini gösterir.
+TABLO II
+BÖBREK FONKSİYON BOZUKLUĞU OLAN VE/VEYA VÜCUT AĞIRLIĞI < 70 kg
+OLAN ERİŞKİN HASTALARDA SİLANEM IV’NİN AZALTILMIŞ İNTRAVENÖZ
+DOZAJI
+4Vücut Ağırlığı (kg)
+≥70 60 50 40 30
+≥71 6 saatte 8 saatte 6 saatte 6 saatte 8 saatte
+Tablo bir bir bir bir bir
+I’deki ve kreatinin 250 mg 250 mg 125 mg 125 mg 125 mg
+Toplam klirensi 41-70 8 saatte 6 saatte 6 saatte 8 saatte 8 saatte
+Günlük (ml/dak/1.,73 bir bir bir bir bir
+Doz: m2) ise: 250 mg 125 mg 125 mg 125 mg 125 mg
+21-40 12 saatte 12 saatte 8 saatte 12 saatte 12 saatte
+1 bir bir bir bir bir
+g/gün 250 mg 250 mg 125 mg 125 mg 125 mg
+ise 6-20 12 saatte 12 saatte 12 saatte 12 saatte 12 saatte
+bir bir bir bir bir
+250 mg 125 mg 125 mg 125 mg 125 mg
+≥71 8 saatte 6 saatte 6 saatte 8 saatte 6 saatte
+Tablo bir bir bir bir bir
+I’deki ve kreatinin 500 mg 250 mg 250 mg 250 mg 125 mg
+Toplam klirensi 41-70 6 saatte 8 saatte 8 saatte 6 saatte 8 saatte
+Günlük (ml/dak/1,73 bir bir bir bir bir
+Doz: m2) ise: 250 mg 250 mg 250 mg 125 mg 125 mg
+1,5 21-40 8 saatte 8 saatte 12 saatte 8 saatte 8 saatte
+g/gün bir bir bir bir bir
+ise 250 mg 250 mg 250 mg 125 mg 125 mg
+6-20 12 saatte 12 saatte 12 saatte 12 saatte 12 saatte
+bir bir bir bir bir
+250 mg 250 mg 250 mg 125 mg 125 mg
+≥71 6 saatte 8 saatte 6 saatte 6 saatte 8 saatte
+Tablo bir bir bir bir bir
+I’deki ve kreatinin 500 mg 500 mg 250 mg 250 mg 250 mg
+Toplam klirensi 41-70 8 saatte 6 saatte 6 saatte 8 saatte 6 saatte
+Günlük (ml/dak/1,73 bir bir bir bir bir
+Doz: m2) ise: 500 mg 250 mg 250 mg 250 mg 125 mg
+21-40 6 saatte 8 saatte 8 saatte 12 saatte 8 saatte
+2 bir bir bir bir bir
+g/gün 250 mg 250 mg 250 mg 250 mg 125 mg
+ise 6-20 12 saatte 12 saatte 12 saatte 12 saatte 12 saatte
+bir bir bir bir bir
+250 mg 250 mg 250 mg 250 mg 125 mg
+TABLO III
+BÖBREK FONKSİYON BOZUKLUĞU OLAN VE/VEYA VÜCUT AĞIRLIĞI < 70 kg
+OLAN ERİŞKİN HASTALARDA SİLANEM IV' NİN AZALTILMIŞ İNTRAVENÖZ
+DOZAJI
+5Vücut Ağırlığı (kg)
+≥70 60 50 40 30
+≥71 8 saatte 8 saatte 6 saatte 8 saatte 6 saatte
+Tablo bir bir bir bir bir
+I’deki ve kreatinin 1000 mg 750 mg 500 mg 500 mg 250 mg
+Toplam klirensi 41-70 6 saatte 8 saatte 8 saatte 6 saatte 8 saatte
+Günlük (ml/dak/1,73 bir bir bir bir bir
+Doz: m2) ise: 500 mg 500 mg 500 mg 250 mg 250 mg
+21-40 8 saatte 8 saatte 6 saatte 8 saatte 8 saatte
+3 bir bir bir bir bir
+g/gün 500 mg 500 mg 250 mg 250 mg 250 mg
+ise 6-20 12 saatte 12 saatte 12 saatte 12 saatte 12 saatte
+bir bir bir bir bir
+500 mg 500 mg 250 mg 250 mg 250 mg
+≥71 6 saatte 8 saatte 8 saatte 6 saatte 8 saatte
+Tablo bir bir bir bir bir
+I’deki ve kreatinin 1000 mg 1000 mg 750 mg 500 mg 500 mg
+Toplam klirensi 41-70 8 saatte 8 saatte 6 saatte 8 saatte 6 saatte
+Günlük (ml/dak/1,73 bir bir bir bir bir
+Doz: m2) ise: 750 mg 750 mg 500 mg 500 mg 250 mg
+21-40 6 saatte 8 saatte 8 saatte 6 saatte 8 saatte
+4 bir bir bir bir bir
+g/gün 500 mg 500 mg 500 mg 250 mg 250 mg
+ise 6-20 12 saatte 12 saatte 12 saatte 12 saatte 12 saatte
+bir bir bir bir bir
+500 mg 500 mg 500 mg 250 mg 250 mg
+Kreatinin klirensi 6-20 ml/dak/1,73 m2 olan hastalar çoğu patojenler için 12 saatte bir
+SİLANEM IV 125 mg veya 250 mg ile tedavi edilmelidir. Bu hastalara 12 saatte bir 500
+mg’lık dozlar uygulanırsa nöbet riski artabilir.
+Kreatinin klirensi ≤ 5 ml/dak/1,73 m2 olan hastalar 48 saat içinde hemodiyalize
+başlanamayacaksa SİLANEM IV almamalıdır. Periton diyalizine giren hastalarda
+imipenem/silastatin kullanımının önerilebilmesi için yeterli bilgi yoktur.
+Hemodiyaliz
+Kreatinin klirensleri ≤ 5 ml/dak/1,73 m2 olan ve hemodiyalize giren hastaları tedavi ederken
+kreatinin klirensleri 6-20 ml/dak/1,73 m2 olan hastaların dozaj önerileri kullanılabilir (bkz.
+TABLO III Böbrek Fonksiyon Bozukluğu olan ve/veya Vücut Ağırlığı < 70 kg olan Erişkin
+Hastalarda SİLANEM IV’nin Azaltılmış İntravenöz Dozajı). Hem imipenem hem de silastatin
+hemodiyaliz sırasında dolaşımdan uzaklaştırılır. Hasta SİLANEM IV’yi hemodiyaliz
+seansının bitiminden sonra 12 saat aralıklarla almalıdır. Diyaliz hastaları (özellikle de
+geçmişinde MSS hastalığı olanlar) dikkatle takip edilmelidir; hemodiyalize giren hastalarda
+SİLANEM IV sadece ilacın yararı nöbet riski potansiyelinden fazla olduğunda önerilmektedir
+(bkz. Bölüm 4.4).
+6Uygulama şekli:
+ÇÖZELTİNİN HAZIRLANMASI
+İnfüzyon Şişeleri
+SİLANEM IV tozun infüzyon şişelerinin içeriği 100 ml seyreltici içerisinde saklanmalı
+(seyreltici listesi için bkz. Bölüm 6.2 ve 6.4) ve berrak bir çözelti elde edilene kadar
+çalkalanmalıdır.
+Özel popülasyonlara ilişkin ek bilgiler
+Böbrek/Karaciğer yetmezliği:
+Böbrek yetmezliği olan hastalar için Tablo II ve Tablo III’te verilen dozaj programı
+uygulanmalıdır.
+Karaciğer yetmezliği olan hastalarda imipenem/silastatin kullanımı ile ilgili bir bilgi mevcut
+değildir.
+Pediyatrik popülasyon:
+SİLANEM IV’nin pediyatrik hastalarda (yenidoğandan 16 yaşa kadar) kullanımı erişkinlerde
+imipenem/silastatin ile yapılan iyi kontrol edilmiş, yeterli çalışmalardan elde edilen kanıtlar
+ve pediyatrik hastalarda yapılan aşağıdaki klinik çalışmalar ve yayımlanmış literatürler ile
+desteklenmektedir: 3 aylık ve daha büyük yaşta 178** pediyatrik hastada (MSS dışı
+enfeksiyonları olan) yapılan yayımlanmış çalışmalara dayanarak, SİLANEM IV’nin önerilen
+dozu altı saatte bir 15-25 mg/kg/dozdur. 3 aylıktan 3 yaşa kadar çocuklarda 25 mg/kg/doz ve
+3-12 yaş arası çocuklarda 15 mg/kg/dozu içeren dozlar 60 dakikadaki çoklu infüzyonlardan
+sonra imipenemin sırasıyla 1,1±0,4 mcg/ml ve 0,6±0,2 mcg/ml ortalama vadi plazma
+konsantrasyonlarını sağlamıştır; imipenemin vadi idrar konsantrasyonları her iki dozda 10
+mcg/ml’nin üzerindeydi. Bu dozlar MSS dışı enfeksiyonların tedavisi için yeterli plazma ve
+idrar konsantrasyonlarını sağlamıştır. Erişkinlerde yapılan çalışmalara dayanarak, tam duyarlı
+organizmalara bağlı enfeksiyonların tedavisi için günlük maksimum doz günde 2 g ve
+orta derecede duyarlı organizmalardan kaynaklanan enfeksiyonların tedavisi için (esas olarak
+bazı P. aeruginosa suşları) günlük doz 4 g’dır. (bkz. Bölüm 4.2, Tablo I). Kistik fibrozlu
+hastalarda daha yüksek dozlar (daha büyük çocuklarda günde 90 mg/kg’a kadar)
+kullanılmıştır (bkz. Bölüm 4.2).
+3 aylık ve daha küçük 135*** pediyatrik hastada (vücut ağırlığı ≥ 1,500 g) yapılan
+çalışmalara dayanarak MSS dışı enfeksiyonlarda aşağıdaki dozaj takvimi önerilir:
+Yaşı 1 haftadan küçükler: 12 saatte bir 25 mg/kg
+Yaşı 1-4 hafta arası hastalar: 8 saatte bir 25 mg/kg
+Yaşı 4 hafta- 3 ay arası hastalar: 6 saatte bir 25 mg/kg.
+Daha küçük (yaşamın ilk haftasında) prematüre bebeklerde (ağırlık: 670-1,890 g) yapılan
+yayımlanmış bir doz saptama çalışmasında, 15-30 dakikalık infüzyonla 12 saatte bir verilen
+20 mg/kg dozu çoklu dozlardan sonra sırasıyla 43 mikrogram/ml ve 1,7 mcg/ml ortalama pik
+ve vadi plazma imipenem konsantrasyonları sağlamıştır. Ancak SİLANEM IV’nin çoklu
+dozlarından sonra yenidoğanlarda silastatin hafif düzeyde birikebilir. Bu birikimin güvenliği
+bilinmemektedir.
+______________________________
+** İki hasta 3 aylıktan küçüktü.
+*** Bir hasta 3 aylıktan büyüktü.
+7Nöbet riski nedeniyle MSS enfeksiyonları olan pediyatrik hastalarda SİLANEM IV
+önerilmez.
+Yeterli veri bulunmadığından imipenem/silastatin böbrek fonksiyon bozukluğu olan, 30 kg’ın
+altındaki pediyatrik hastalarda önerilmez.
+Geriyatrik popülasyon:
+İmipenem/silastatin ile yapılan klinik çalışmalarda (pazarlama sonrası çalışmalar dahil) 18 yaş
+ve üzeri yaklaşık 3600 hastadan yaklaşık 2800’ü imipenem/silastatin almıştır.
+İmipenem/silastatin alan hastalarda, 65 yaş ve üzeri yaklaşık 800 kişiye ait veriler mevcuttur;
+bunlara 75 yaş ve üzeri yaklaşık 300 hasta dahildir. Bu hastalar ile daha genç hastalar arasında
+güvenlilik veya etkililik yönünden genel farklar gözlenmemiştir. Bildirilen diğer klinik
+deneyimler yaşlılar ile genç hastalar arasında yanıt yönünden farkları ortaya koymamıştır.
+Ancak yine de bazı yaşlı bireylerde daha fazla duyarlılık olasılığı da dikkate alınmalıdır.
+Bu ilacın ağırlıklı olarak böbrekler yoluyla atıldığı bilinmektedir ve böbrek fonksiyonları
+bozulmuş hastalarda bu ilaç ile toksik reaksiyon riski daha fazla olabilir. Yaşlı hastalarda
+böbrek fonksiyonu azalmış olabileceğinden doz seçiminde dikkatli olunması gerekir ve
+böbrek fonksiyonunu izlemek yararlı olabilir.
+Yaşa göre doz ayarlaması gerekmez.
+4.3 Kontrendikasyonlar
+• Etkin madde veya yardımcı maddelerden herhangi birine aşırı duyarlılık (bkz. Bölüm 6.1)
+• Diğer karbapenem antibakteriyel ajanlarına aşırı duyarlılık
+• Diğer beta laktam antibakteriyel ajanlarına (ör: penisinler veya sefalosporinler) şiddetli aşırı
+duyarlılık (ör: anaflaktik reaksiyon, ciddi deri reaksiyonları)
+4.4 Özel kullanım uyarıları ve önlemleri
+Genel
+Belirli bir hastanın tedavisi için imipenem/silastatin seçiminde enfeksiyonun şiddeti, diğer
+uygun antibakteriyel maddelere karşı direnç prevalansı ve karbapeneme dirençli bakterilerin
+seçilmesi riski gibi etmenlere dayanılarak bir karbapenem antibakteriyel maddesini
+kullanmanın uygunluğu dikkate alınmalıdır.
+Aşırı duyarlılık
+Beta-laktamlar ile tedavi edilen hastalarda ciddi ve bazen ölümle sonuçlanan aşırı duyarlılık
+(anafilaksi) reaksiyonları bildirilmiştir. Bu reaksiyonlar çoklu alerjenlere karşı duyarlılık
+öyküsü olan kişilerde daha fazla ortaya çıkma eğilimi gösterir.
+SİLANEM IV ile tedaviye başlanmadan önce karbapenemler, penisilinler, sefalosporinler,
+diğer beta-laktamlar ve diğer alerjenlere karşı geçmişteki aşırı duyarlılık reaksiyonları
+dikkatle araştırılmalıdır (bkz. Bölüm 4.3). SİLANEM IV'ye alerjik reaksiyon meydana
+gelirse, tedavi derhal bırakılmalıdır. (Ciddi anafilaktik reaksiyonlar, derhal acil durum
+tedavisi gerektirir.)
+8Hepatik
+İmipenem/silastatin ile tedavi boyunca hepatik toksisite riski (örneğin transaminaz artışı,
+hepatik yetmezlik ve fulminant hepatit gibi) nedeniyle karaciğer fonksiyonu yakından
+izlenmelidir.
+Karaciğer hastalığı bulunan hastalarda kullanımı: önceden karaciğer bozuklukları bulunan
+hastalarda karaciğer fonksiyonu imipenem/silastatin ile tedavi boyunca izlenmelidir. Doz
+ayarlaması gerekmemektedir (bkz. Bölüm 4.2).
+Hematoloji
+İmipenem/silastatin ile tedavi sırasında pozitif bir doğrudan veya dolaylı Coombs testi sonucu
+ortaya çıkabilir.
+Antibakteriyel spektrum
+İmipenem/silastatinin antibakteriyel spektrumu özellikle yaşamı tehdit edici hastalıklarda
+herhangi bir ampirik tedavi uygulamadan önce dikkate alınmalıdır. Ayrıca, örneğin bakteriyel
+deri ve yumuşak doku enfeksiyonları ile ilişkili özel patojenlerin imipenem/silastatine sınırlı
+duyarlılığı nedeniyle dikkat gösterilmelidir. Patojenin önceden belgelenmiş olmaması ve
+duyarlılığı bilinmediği veya en olası patojenin/patojenlerin tedavi için uygun olacağına ilişkin
+çok yüksek şüphenin bulunması halinde imipenem/silastatin bu tür enfeksiyonların tedavisi
+için uygun değildir. MRSA enfeksiyonlarından şüphelenilmesi veya onaylı endikasyonlarda
+yer aldıklarının kanıtlanması halinde uygun bir anti-MRSA maddesinin eş zamanlı kullanımı
+endike olabilir. Psödomonas aeruginosa enfeksiyonlarından şüphelenilmesi veya onaylı
+endikasyonlarda yer aldıklarının kanıtlanması halinde bir aminoglikozit maddesinin eş
+zamanlı kullanımı endike olabilir (bkz. Bölüm 4.1).
+Valproik asit ile etkileşim
+İmipenem/silastastin ile valproik asit/sodyum valproatın eş zamanlı kullanımı
+önerilmemektedir (bkz. Bölüm 4.5).
+Clostridioides difficile
+Antibiyotikle ilişkili kolit ve psödomembranöz kolit, imipenem/silastatin ve neredeyse diğer
+tüm antibakteriyel maddeler ile rapor edilmiştir ve şiddeti hafif ila yaşamı tehdit edici
+arasında değişebilir. Bu nedenle, imipenem/silastatin kullanımı sırasında veya sonrasında
+ishal görülen tüm hastalarda bu tanının değerlendirilmesi önemlidir (bkz. Bölüm 4.8).
+İmipenem/silastatin ile tedavinin kesilmesi ve Clostridioides difficile için belirli bir tedavinin
+uygulanması düşünülmelidir. Peristalsisi inhibe eden tıbbi ürünler verilmemelidir.
+Menenjit
+SİLANEM IV menenjit tedavisi için önerilmemektedir.
+Böbrek bozukluğu
+Böbrek fonksiyonu azalmış hastalarda imipenem/silastatin birikme yapmaktadır. Dozun
+böbrek fonksiyonuna göre ayarlanmaması halinde MSS advers reaksiyonları meydana
+gelebilir; bu bölümdeki 4.2 ve 4.4 "Merkezi sinir sistemi" maddelerine bakınız.
+Merkezi sinir sistemi
+Özellikle renal fonksiyonlara ve vücut ağırlığına göre hesaplanan dozlar aşıldığında
+myoklonik aktivite, konfüzyonel durumlar veya nöbetler gibi MSS advers reaksiyonları
+bildirilmiştir.
+9Bu deneyimler en yaygın olarak MSS bozuklukları bulunan hastalarda (örn. beyin lezyonları
+veya nöbet hikayesi) ve/veya verilen maddelerin birikme yapabileceği böbrek fonksiyonu
+bozulmuş hastalarda rapor edilmiştir. Dolayısıyla, özellikle bu hastalarda önerilen doz
+planlarına yakından uyulması gereklidir (bkz. Bölüm 4.2). Bilinen nöbet bozukluğu olan
+hastalarda antikonvülsan tedaviye devam edilmelidir.
+Bilinen nöbet risk faktörlerine sahip çocuklarda veya nöbet eşiğini düşüren tıbbi ürünlerle
+birlikte yapılan tedavide nörolojik semptomlara veya konvülsiyonlara özellikle dikkat
+edilmelidir.
+Fokal tremorların, kas seğirmesi veya nöbetlerin meydana gelmesi halinde hastalar nörolojik
+olarak değerlendirilmeli ve önceden uygulanmamışsa antikonvülsan tedaviye tabi
+tutulmalıdır. MSS semptomlarının devam etmesi halinde SİLANEM IV dozu azaltılmalı veya
+sonlandırılmalıdır.
+Kreatinin klirensi <15 ml/dak olan hastalar, 48 saat içinde hemodiyalize başlanmadığı sürece
+SİLANEM IV almamalıdır. Hemodiyalize giren hastalar için, SİLANEM IV yalnızca, fayda,
+potansiyel nöbet riskinden ağır basarsa önerilir (bkz. Bölüm 4.2).
+Pediyatrik popülasyon
+İmipenem/silastatinin 1 yaşının altındaki çocuklarda veya böbrek fonksiyon bozukluğu
+(serum kreatinini >2 mg/dl) olan pediyatrik hastalarda kullanılmasının önerilmesi için klinik
+veriler yetersizdir. Ayrıca yukarıdaki Merkezi sinir sistemi bölümüne bakınız.
+Diğer antibiyotiklerde olduğu gibi, uzun süreli SİLANEM IV kullanımı duyarsız
+organizmaların aşırı üremesine yol açabilir. Hastanın durumunun tekrarlı olarak
+değerlendirilmesi zorunludur. Tedavi sırasında süperenfeksiyon gelişirse uygun önlemler
+alınmalıdır.
+Biyolojik testler
+SİLANEM IV beta laktam grubu antibiyotikler gibi düşük toksisite karakteristiği ortaya koysa
+da, uzatılmış tedavi sırasında, renal hepatik ve hematopoetik organ sistem fonksiyonlarının
+periyodik değerlendirilmesi önerilir.
+Sodyum
+Bu tıbbi ürün her bir flakonda 38,26 mg sodyum (1,63 mmol) içerir ve bu durum, bir yetişkin
+için DSÖ tarafından önerilen günlük maksimum 2 g sodyum alımının %1,9’una eşdeğerdir.
+Bu durum, kontrollü sodyum diyetinde olan hastalar için dikkate alınmalıdır.
+4.5 Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+Gansiklovir ve imipenem/silastatini birlikte alan hastalarda yaygın (jeneralize) nöbet (seizure)
+bildirilmiştir. Bu tıbbi ürünler potansiyel yararları, riskinden fazla olmadıkça birlikte
+kullanılmamalıdır.
+Valproik asit, karbapenem ajanlarıyla birlikte uygulandığında, valproik asit düzeylerinde
+terapötik aralığın altına düşebilecek azalmalar bildirilmiştir. Düşük düzeylerde valproik asit,
+nöbet kontrolünün yetersiz olmasına yol açabilir; bu nedenle, imipenem ile valproik
+asit/sodyum valproatın eş zamanlı kullanımı önerilmemektedir ve alternatif antibakteriyel
+veya antikonvülsan tedaviler düşünülmelidir (bkz. bölüm 4.4).
+10Oral antikoagülanlar
+Antibiyotiklerin varfarin ile eş zamanlı verilmesi varfarinin antikoagülan etkilerini artırabilir.
+Eş zamanlı olarak antibakteriyel maddeler alan hastalarda varfarin dahil oral yoldan verilen
+antikoagülan maddelerin antikoagülan etkilerinde artma durumu pek çok kez rapor edilmiştir.
+Altta yatan enfeksiyon, yaş ve hastanın genel durumu gibi antibiyotiğin INR'deki (uluslararası
+normalleştirilmiş oran) artışa katkısını değerlendirmenin zor olduğu durumlarda risk farklılık
+gösterebilir. Antibiyotiklerin bir oral antikoagülan madde ile birlikte verilmesi sırasında veya
+kısa süre sonra INR'nin sıkça takip edilmesi önerilmektedir.
+İmipenem/silastatin ile probenesitin eş zamanlı verilmesi plazma seviyelerinde ve imipenemin
+plazma yarı ömründe minimal artışlara yol açmıştır. İmipenem/silastatinin probenesit ile
+birlikte verilmesi aktif (metabolize olmamış) imipenemin idrarda geri kazanımını dozun
+%60’ı kadar azaltmıştır. İmipenem/silastatin ile probenesitin eş zamanlı verilmesi plazma
+seviyesini ve silastatin yarı ömrünü iki kat artırmış, ancak silastatinin idrarda geri kazanımına
+(recovery) etki etmemiştir.
+Özel popülasyonlara ilişkin ek bilgiler:
+Pediyatrik popülasyon:
+Etkileşim çalışmaları sadece erişkinlerde yürütülmüştür. Bu sonuçların pediyatrik hastalar için
+geçerliliği bilinmemektedir.
+4.6 Gebelik ve laktasyon
+Genel tavsiye
+Gebelik kategorisi: C.
+Çocuk doğurma potansiyeli bulunan kadınlar / Doğum kontrolü (Kontrasepsiyon)
+Çocuk doğurma potansiyeli bulunan kadınlarda ve doğum kontrolü (kontrasepsiyon)
+uygulayanlarda ilacın kullanımı yönünden bir öneri bulunmamaktadır.
+Gebelik dönemi
+Gebe kadınlarda imipenem/silastatin kullanımı için yeterli ve iyi kontrollü çalışmalar yoktur.
+Gebe maymunlar üzerindeki çalışmalar üreme toksisitesi ortaya koymuştur (bkz. bölüm 5.3).
+İnsanlar için potansiyel risk bilinmemektedir.
+SİLANEM IV, gebelik sırasında yalnızca olası faydası fetüse yönelik olası riske üstün olursa
+kullanılmalıdır.
+Laktasyon dönemi
+İmipenem ve silastatin düşük miktarlarda anne sütüne geçer. Ağız yoluyla verilme sonrasında
+her iki bileşikten de az miktarda emilme meydana gelir. Bu nedenle, emzirilen bebeğin
+önemli miktarlara maruz kalması olası değildir. SİLANEM IV kullanımı gerekli görülüyorsa,
+çocuk için anne sütü ile beslenmenin faydaları ile çocuk için olası risk değerlendirilmelidir.
+Üreme yeteneği / Fertilite
+İmipenem/silastatin tedavisinin kadın veya erkek fertilitesi üzerindeki etkisi bilinmemektedir.
+4.7 Araç ve makine kullanımı üzerindeki etkiler
+Araç ve makine kullanma yeteneği üzerindeki etkileri konusunda herhangi bir çalışma
+yapılmamıştır. Bununla birlikte, bu ürünle ilişkili bazı hastaların araç veya makine kullanma
+11becerilerini etkileyebilecek bazı yan etkiler (halüsinasyon, sersemlik, uyku hali ve vertigo
+gibi) vardır (bkz. bölüm 4.8).
+4.8 İstenmeyen etkiler
+İntravenöz imipenem ve silastatin ile tedavi edilen 1.723 hastayı kapsayan klinik çalışmalarda
+en çok rapor edilen tedavi ile en az ilgili sistemik istenmeyen etkiler bulantı (% 2), diyare
+(%1,8), kusma (%1,5), döküntü (%0,9), ateş (%0,5), hipotansiyon (%0,4), nöbet (%0,4) (bkz.
+bölüm 4.4), sersemlik (%0,3), kaşıntı (%0.,3), ürtiker (%0,2), somnolans (%0,2). Benzer
+olarak en fazla rapor edilen lokal istenmeyen etkiler flibit/tromboflibit (%3,1), enjeksiyon
+bölgesinde ağrı (%0,7) enjeksiyon bölgesinde eritem (%0,4), damar sertleşmesi (%0,2)’dir.
+Serum transaminazlarda ve alkalin fosfatazda artış yaygın olarak rapor edilmiştir.
+Aşağıda gerçekleştirilen klinik çalışmalar ve/veya pazarlama sonrası kullanımı süresince
+bildirilen advers etkiler sıralanmıştır:
+Çok yaygın (≥1/10); yaygın (≥1/100 ila <1/10); yaygın olmayan (≥1/1.000 ila <1/100); seyrek
+≥1/10.000 ila < 1/1.000); çok seyrek (< 1/10.000); bilinmiyor (eldeki verilerden hareketle
+tahmin edilemiyor).
+Her bir sıklık gruplamasında, istenmeyen etkiler azalan ciddiyete göre verilmiştir.
+Sistem Organ Sınıfı Sıklık Olay
+Enfeksiyonlar ve Seyrek psödomembranöz kolit, kandidiyazis
+enfestasyonlar Çok seyrek gastroenterit
+Kan ve lenfatik sistem Yaygın eozinofili
+hastalıkları Yaygın olmayan pansitopeni, nötropeni, lökopeni,
+trombositopeni, trombositoz
+Seyrek agranülositoz
+Çok seyrek hemolitik anemi, kemik iliği depresyonu
+Bağışıklık sistemi hastalıkları Seyrek anafilaktik reaksiyonlar
+Psikiyatrik hastalıklar Yaygın olmayan halüsinasyonlar dahil psişik rahatsızlıklar
+ve zihin karışıklığı durumları
+Sinir sistemi hastalıkları Yaygın olmayan nöbetler, myoklonik aktivite, sersemlik,
+somnolans
+Seyrek ensefalopati, parestezi, fokal titreme, tat
+almada anormallik
+Çok seyrek miyastenia gravis şiddetlenmesi, baş ağrısı
+Bilinmiyor ajitasyon diskinezi
+Kulak ve iç kulak hastalıkları Seyrek duyma kaybı
+Çok seyrek vertigo, tinnitus
+Kardiyak hastalıklar Çok seyrek siyanoz, taşikardi, palpitasyon
+Vasküler hastalıklar Yaygın tromboflebit
+Yaygın olmayan hipotansiyon
+Çok seyrek yüz kızarması
+Solunum göğüs bozuklukları Çok seyrek dispne, hiperventilasyon, faringeal ağrı
+ve mediastinal hastalıklar
+Gastrointestinal hastalıklar Yaygın ishal, kusma, bulantı
+Tıbbi ürünler ile ilgili bulantı ve/veya
+kusma granülositopenik hastalarda,
+imipenem/silastatin ile tedavi edilen
+12granülositopenik olmayan hastalara oranla
+daha sık meydana gelmektedir.
+Seyrek diş ve/veya dil lekelenmesi
+Çok seyrek hemorajik kolit, abdominal acı, mide
+yanması, glossit, dil papilla hipertrofisi,
+salivasyon artışı
+Hepatobilier hastalıklar Seyrek karaciğer yetmezliği, hepatit
+Çok seyrek fulminan hepatit
+Deri ve derialtı doku Yaygın döküntü (örn. ekzantem)
+hastalıkları Yaygın olmayan ürtiker; pruritus
+Seyrek toksik epidermal nekroliz, anjiyoödem,
+Stevens-Johnson sendromu, eritema
+multiforme, eksfoliyatif dermatit
+Çok seyrek hiperhidroz, deri dokusu değişiklikleri
+Kas iskelet bozuklukları bağ Çok seyrek poliartralji, torakal omurga ağrısı
+doku ve kemik hastalıkları
+Böbrek ve idrar yolu Seyrek akut böbrek yetmezliği, oligüri/anüri,
+hastalıkları poliüri, idrar renk bozukluğu (zararsızdır
+ve hematüri ile karıştırılmamalıdır)
+Prerenal azotemiye veya böbrek bozukluğu
+fonksiyonuna yatkınlaştıran faktörler var
+olduğundan imipenem/silastatinin böbrek
+fonksiyonu değişmelerindeki rolünün
+değerlendirilmesi güçtür.
+Üreme sistemi ve meme Çok seyrek pruritus vulva
+hastalıkları
+Genel bozukluklar ve Yaygın olmayan ateş, enjeksiyon bölgesinde yerel ağrı ve
+uygulama bölgesine ilişkin sertleşme, enjeksiyon bölgesinde eritem
+hastalıklar Çok seyrek göğüste rahatsızlık, asteni/kuvvetsizlik
+Araştırmalar Yaygın serum transminaz artışları, serum alkalen
+fosfataz artışları
+Yaygın olmayan bir pozitif direkt Coombs’ testi, uzayan
+protrombin süresi, hemoglobin azalması,
+serum bilirubin artışı, serum kreatinin
+artışları, kan üre azotu artışları
+Pediyatrik (≥ 3 aylıktan)
+≥3 aylık 178 pediyatrik hasta üzerinde gerçekleştirilen araştırmalarda bildirilen advers
+reaksiyonlar yetişkinler için bildirilenler ile tutarlıdır.
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TÜFAM)'ne bildirmeleri gerekmektedir, (www.titck.gov.tr; e-
+posta: tufam@titck.gov.tr; tel: 0 800 314 00 08; faks: 0 312 218 35 99)
+4.9 Doz aşımı ve tedavisi
+Doz aşımı ile meydana gelebilecek semptomlar, advers reaksiyon profili ile uyumludur.
+Nöbet, konfüzyon, titreme, bulantı, kusma, hipotansiyon, bradikardi.
+13SİLANEM IV ile doz aşımının tedavisi ile ilgili bilgi bulunmamaktadır.
+İmipenem-silastatin sodyum hemodiyalize tabi tutulabilir. Ancak bunun doz aşımı
+tedavisindeki değeri bilinmemektedir. Tüm doz aşımı olgularında SİLANEM IV kesilmeli
+semptomatik ve destekleyici tedavi uygulanmalıdır.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1 Farmakodinamik özellikler
+Farmakoterapötik grup: Sistemik kullanım için antibakteriyeller, Karbepenemler
+ATC kodu: J01DH51
+Etki mekanizması:
+SİLANEM IV iki bileşenden oluşmaktadır: imipenem ve silastatin sodyum ağırlıkça 1:1
+oranında kullanılmıştır.
+Imipenem, N-formimidoyl-tienamisin olarak da adlandırılan bir yarı sentetik tienamisin
+türevidir ve ana bileşiği filamentöz bakteri Streptomyces cattleya tarafından üretilmektedir.
+Imipenem, bakteri yok edici etkisini, penisilin bağlayıcı proteinlere (PBP'ler) Gram-pozitif ve
+Gram-negatif bakterilerde bakteriyel hücre duvarı sentezini engelleyerek uygular.
+Silastatin sodyum, imipenemi metabolize ederek etkisizleştiren renal enzim dehidropeptidaz-
+I'in kompetitif, tersinir ve özgül inhibitörüdür. İntrinsik antibakteriyel aktiviteden yoksundur
+ve imipenemin antibakteriyel aktivitesini etkilemez.
+Farmakokinetik/Farmakodinamik (PK/PD) ilişkisi
+Diğer beta-laktam antibakteriyel ajanlara benzer şekilde, imipenem konsantrasyonlarının
+MIK'i aşma süresinin (T>MIK), etkililikle çok iyi korelasyon gösterdiği gösterilmiştir.
+Direnç mekanizması
+İmipeneme direnç şu nedenlerle olabilir:
+• Gram-negatif bakterilerin dış membranının geçirgenliğinde azalma (porin üretiminin
+azalması nedeniyle)
+• PBP'lerin imipeneme affinitesi azalmıştır
+• İmipenem, görece seyrek görülen karbapenem hidrolize edici beta-laktamazlar haricinde,
+gram-pozitif ve gram-negatif bakterilerin ürettiği penisilinaz ve sefalosporinaz dahil, çoğu
+beta-laktamaz tarafından hidroliz edilmeye karşı stabilitesini korur.
+Diğer karbapenemlere dirençli türler genellikle imipeneme karşı eşdirenç gösterir. İmipenem
+ile kinolon, aminoglikozit, makrolit ve tetrasiklin sınıfları arasında hedefe bağlı çapraz direnç
+bulunmamaktadır.
+Kesme noktaları
+İmipenem için EUCAST MIK sınır değerleri aşağıdaki gibidir (v12.0 01-01-2022'den itibaren
+geçerlidir):
+14Organizma Grubu Minimum İnhibitör
+Konsantrasyonlar (mg/L)
+Duyarlı ≤ Dirençli >
+Enterobacterales 2 4
+Enterobacterales1 (Morganella morganii, Proteus 0,001 4
+spp. and Providencia türleri)
+Pseudomonas türleri 0,001 4
+Acinetobacter türleri 2 4
+Staphylococcus türleri Sefoksitin duyarlılığından
+hesaplanmıştır
+Enterococcus türleri 0,001 4
+Streptococcus A, B, C, G Benzilpenisilin duyarlılığından
+hesaplanmıştır
+Streptococcus pneumoniae 2 2
+Viridans group streptokoklar 2 2
+Haemophilus influenzae 2 2
+Moraxalla catarrhalis2 2 2
+Gram-positive anaerobes (Clostridioides difficile 2 4
+dışında)
+Gram-negative anaeroblar 2 4
+Burkholderia pseudomallei 2 2
+Non-species related breakpoints3 2 4
+1 Morganella morganii, Proteus spp. ve Providencia spp. yüksek oranda imipenem
+maruziyetini gerektirir.
+2 Duyarlı olmayan izolatlar nadirdir veya henüz bildirilmemiştir. Bu tür herhangi bir izolat
+üzerindeki tanımlama ve antimikrobiyal duyarlılık testi sonucu doğrulanmalı ve izolat bir
+referans laboratuvara gönderilmelidir.
+3 Başta PK/PD verilerine dayanılarak ve özgül türlerin MIK dağıtımlarından bağımsız olarak
+türler ile ilgili olmayan kesme noktası tespit edilmiştir. Bunlar sadece türler ile ilgili kesme
+noktaları veya dipnotların değerlendirmesinde belirtilmeyen türler için kullanılmaya
+yöneliktir.
+Duyarlılık
+Edinilmiş direnç prevalansı coğrafi olarak değişebilir; özellikle şiddetli enfeksiyonları tedavi
+etme sırasında, seçilmiş türlere ilişkin süre ve dirence ilişkin lokal bilgiler istenmektedir.
+Gerektiğinde, yerel direnç prevalansı madde kullanımının en azından bazı enfeksiyon
+türlerinde şüpheye yol açacak kadar yüksek olduğu durumlarda uzman tavsiyesine
+başvurulmalıdır.
+Yaygın biçimde duyarlı türler:
+Gram pozitif aeroblar:
+Enterococcus faecalis
+Staphylococcus aureus (Metisiline duyarlı)*
+Staphylococcus coagulase negatif (Metilisiline duyarlı)
+Streptococcus agalactiae
+Streptococcus pneumoniae
+Streptococcus pyogenes
+15Streptococcus viridanlar grubu
+Gram negatif aeroblar:
+Citrobacter freundii
+Enterobacter cloacae
+Escherichia coli
+Haemophilus influenzae
+Klebsiella oxytoca
+Klebsiella pneumoniae
+Klebsiella aerogenes (önceden Enterobacter aerogens)
+Moraxella catarrhalis
+Serratia marcescens
+Gram pozitif anaeroblar:
+Clostridium perfringens**
+Peptostreptococcus türleri**
+Gram negatif anaeroblar:
+Bacteroides fragilis
+Bacteroides fragilis grubu
+Fusobacterium türleri
+Porphyromonas asaccharolytica
+Prevotella türleri
+Veillonella spp.
+Direnç geliştirmiş türler problem olabilir:
+Gram-negatif aeroblar:
+Acinetobacter baumannii
+Pseudomonas aeruginosa
+Doğal olarak dirençli türler:
+Gram-pozitif aeroblar:
+Enterococcus faecium
+Gram negatif aeroblar:
+Some strains of Burkholderia cepacia (önceden Pseudomonas cepacia)
+Legionella spp.
+Stenotrophomonas maltophilia (önceden Xanthomonas maltophilia,
+formerly Pseudomonas maltophilia)
+Diğerleri:
+Chlamydia spp.
+Chlamydophila spp.
+Mycoplasma spp.
+Ureoplasma urealyticum
+*Bütün metilsine dirençli stafilokoklar imipenem/dsilastatine dirençlidir.
+**EUCAST olamayan türle ilişkili kesim noktası kullanılır.
+5.2 Farmakokinetik özellikler
+Genel özellikler
+İmipenem
+Emilim
+İmipenem/silastatin’in 20 dakika üzerinde intravenöz infüzyonu 250 mg/250 mg doz için 12
+ile 20 mikrogram/ml arasında, 500 mg/500 mg doz için 21 ile 58 mikrogram /ml arasında ve
+1000 mg/1000 mg doz için 41 ile 83 mikrogram /ml arasında değişen pik imipenem plazma
+16seviyelerine yol açmıştır. 250 mg/250 mg, 500 mg/500 mg ve 1000 mg /1000 mg dozlarını
+takiben ortalama pik plazma seviyeleri sırasıyla 17, 39 ve 66 mikrogram /ml olmuştur. Bu
+dozlarda imipenem plazma seviyeleri dört - altı saatte 1 mikrogram/ml veya altına düşmüştür.
+Dağılım
+İmipenemin insan serumu proteinlerine bağlanması yaklaşık %20'dir.
+Biyotransformasyon
+İmipenem, tek başına verildiğinde böbreklerde dehidropeptidaz-I tarafından metabolize edilir.
+Birkaç çalışmada tekil (münferit) üriner geri kazanımlar (recovery'ler) %5 ile %40 arasında
+olmuş, ortalama geri kazanım da %15-20 olmuştur.
+Silastatin, dehidropeptidaz-I enziminin spesifik inhibitörüdür ve imipenem metabolizmasını
+etkili bir şekilde inhibe eder, böylece imipenem ile silastatin birlikte verildiğinde imipenemin
+hem idrarda hem de plazmada yeterli antibakteriyel düzeylerine ulaşılabilir.
+Eliminasyon
+İmipenemin plazma yarı ömrü bir (1) saat olmuştur. Verilen antibiyotiğin yaklaşık %70'i on
+saat içinde idrarda bütün olarak geri kazanılmıştır ve imipenemin idrarla daha fazla atılımı
+saptanmamıştır. 500 mg/500 mg İmipenem/silastatin dozu sonrasında sekiz saate kadar
+imipenem idrar konsantrasyonları 10 mikrogram/ml’yi aşmıştır. Verilen dozun kalanı, idrarda
+antibakteriyal açıdan inaktif metabolitler olarak geri kazanılmıştır ve imipenemin dışkıyla
+atılımı esasen sıfır olmuştur.
+Her altı saate varan sıklıklarla verilen İmipenem/silastatin rejimlerinde normal böbrek
+fonksiyonuna sahip hastalarda plazmada veya idrarda imipenem birikmesi gözlenmemiştir.
+Doğrusallık/Doğrusal Olmayan Durum
+Veri bulunmamaktadır.
+Silastatin
+Emilim
+İmipenem/silastatin’in 20 dakikalık bir intravenöz infüzyonunun ardından pik plazma
+seviyeleri 250 mg/250 mg doz için 21 ile 26 µg/ml arasında, 500 mg/500 mg doz için 21 ile
+55 µg/ml arasında ve 1000 mg/1000 mg doz için 56 ile 88 µg/ml arasında yer almıştır. 250
+mg/250 mg, 500 mg/500 mg ve 1000 mg /1000 mg dozlarını takiben silastatin ortalama pik
+plazma seviyeleri sırasıyla 22, 42 ve 72 µg/ml olmuştur.
+Dağılım
+Silastatinin insan serumu proteinlerine bağlanması yaklaşık %40'tır.
+Biyotransformasyon
+Yaklaşık olarak %10'u N-asetil metaboiliti olarak bulunmuş olup, bunun, silastatinin
+aktivitesine benzer şekilde, dehidropeptidaza karşı inhibitör aktivitesi vardır.
+Dehidropeptidaz-I'in böbrekteki aktivitesi, silastatin kan akışından elimine edildikten kısa
+süre sonra normal seviyelere dönmüştür.
+17Eliminasyon
+Silastatinin plazma yarı ömrü yaklaşık 1 saattir. Silastatin dozunun yaklaşık % 70-80’i,
+SİLANEM I.V. verildikten sonraki 10 saat içinde idrarda değişmemiş olarak geri
+kazanılmıştır. Sonrasında idrarda hiç silastatin görülmemiştir.
+Doğrusallık/Doğrusal Olmayan Durum
+Veri bulunmamaktadır.
+Özel popülasyonlarda farmakokinetik
+Böbrek yetmezliği
+Tek bir 250 mg/250 mg İmipenem/silastatin intravenöz dozunu takiben imipenem için eğri
+altında kalan alan (EAA), hafif (Kreatinin Klirensi (CrCl) 50-80 ml/dak/1,73 m2), orta (CrCL
+30-<50 ml/dk./1,73 m2) ve ciddi (CrCL <30 ml/dak/1,73 m2) böbrek yetmezliği sırasıyla,
+normal böbrek fonksiyonuna (CrCL >80 ml/dak/1,73 m2) sahip gönüllülere göre 1,1 kat, 1,9
+kat ve 2,7 kat artmıştır ve hafif, orta ve ciddi böbrek yetmezliğine sahip gönüllülerde, normal
+böbrek fonksiyonuna sahip gönüllüler ile karşılaştırıldığında sırasıyla 1,6 kat, 2,0 kat ve 6,2
+kat olarak artmıştır. Böbrek fonksiyonu normal olan gönüllülere kıyasla, hemodiyalizden 24
+saat sonra verilen tek bir 250 mg/250 mg intravenöz İmipenem/silastatin dozundan sonra,
+imipenemin ve silastatinin EAA’ları sırasıyla 3,7 kat ve 16,4 kat daha yüksek olmuştur.
+İmipenem ile silastatinin idrarda geri kazanımı, böbrek klirensi ve plazma klirensi,
+İmipenem/silastatin’in intravenöz verilmesini takiben düşen böbrek fonksiyonu ile
+azalmaktadır. Böbrek fonksiyonu bozukluğu olan hastalarda doz ayarlaması gerekir (bkz.
+bölüm 4.2).
+Karaciğer yetmezliği
+Karaciğer bozukluğuna sahip hastalarda imipenemin farmakokinetiği belirlenmemiştir.
+İmipenemin hepatik metabolizmasının kapsamı sınırlı olduğundan, farmakokinetiğinin,
+hepatik bozukluktan etkilenmesi beklenmemektedir. Bu nedenle, karaciğer bozukluğu olan
+hastalarda doz ayarlaması önerilmemektedir (bkz. bölüm 4.2).
+Pediyatrik hastalar
+İmipenem için ortalama klirens (CL) ile dağılım hacmi (Vdss) pediyatrik hastalarda (3
+aylıktan 14 yaşa kadar) yetişkinlere oranla %45 daha yüksek bulunmuştur. Vücut ağırlığı
+başına 15/15 mg/kg imipenem/silastatinin pediyatrik hastalara verildiğinde EAA’ si 500
+mg/500 mg doz alan yetişkinlerin maruz kaldığı EAA'ye göre yaklaşık %30 daha yüksektir.
+Daha yüksek bir dozda, 25/25 mg/kg imipenem/silastatinin çocuklara verilmesini takip eden
+maruziyet, 1000 mg/1000 mg doz alan yetişkinlerin maruziyetine oranla %9 daha yüksektir.
+Yaşlılar
+Sağlıklı yaşlı yetişkinlerde (kendi yaşları için normal böbrek fonksiyonuna sahip 65-75
+yaşlarında), tek bir İmipenem/silastatin 500 mg/500 mg farmakokinetik dozu damar içine 20
+dakikadan uzun süre verilmiştir ve kendisi için doz değişikliğinin gerekli görülmediği hafif
+böbrek yetmezliğine sahip gönüllüler için beklenen ile tutarlı olarak tespit edilmiştir.
+İmipenem ile silastatinin ortalama plazma yarı ömürleri sırasıyla 91 ± 7dakika ve 69 ± 15
+dakikadır. Çoklu dozlama imipenem veya silastatinin farmakokinetiği üzerinde etkiye sahip
+değildir ve imipenem/silastatin birikmesi gözlenmemiştir (bkz. bölüm 4.2).
+185.3 Klinik öncesi güvenlilik verileri
+Klinik olmayan veriler; geleneksel güvenlilik farmakolojisi, tekrarlanan doz toksisitesi ve
+genotoksisite araştırmalarına göre, insanlar için özel bir tehlike ortaya koymamıştır.
+Hayvan araştırmaları, tek bir yapı olarak imipenem tarafından oluşturulan toksisitenin böbrek
+ile sınırlı olduğunu göstermiştir. Silastatinin imipenem ile 1:1 oranında birlikte verilmesi
+imipenem'in tavşan ve maymunlardaki nefrotoksik etkilerini önlemiştir. Mevcut kanıtlar,
+imipenemin tübüler hücrelere girişini önleyerek nefrotoksisiteyi önlediğini göstermektedir.
+40/40 mg/kg/gün dozlarında (bolus intravenöz enjeksiyonu) imipenem-silastatin sodyum
+verilen hamile sinomolgus maymunlarda gerçekleştirilen bir teratoloji araştırmasında kusma,
+inapetans, kilo kaybı, ishal, düşük ve bazı durumlarda ölüme yol açtığı gösterilmiştir.
+İmipenem-silastatin sodyum dozları (yaklaşık 100/100 mg/kg/gün veya insanlar için önerilen
+normal intravenöz dozun yaklaşık 3 katı) insanların klinik kullanımıyla benzeşen bir
+intravenöz infüzyon sıklığında hamile sinomolgus maymunlara verildiğinde minimal maternal
+intolerans (nadiren kusma) meydana gelmiş, hiç anne ölümü meydana gelmemiştir,
+teratojenisite kanıtı bulunmamıştır; ancak kontrol gruplarına oranla embriyo kaybında artış
+görülmüştür (bkz. bölüm 4.6).
+İmipenem-silastatinin karsinojenik potansiyelini değerlendirmek üzere hayvanlarda hiçbir
+uzun süreli çalışma gerçekleştirilmemiştir.
+6. FARMASÖTİK ÖZELLİKLER
+6.1. Yardımcı maddelerin listesi
+Sodyum bikarbonat
+6.2 Geçimsizlikler
+SİLANEM IV kimyasal olarak laktat ile geçimsizdir, laktat içeren çözücüler ile
+hazırlanmamalıdır. Bununla birlikte, bir laktat çözeltisinin infüze edildiği bir IV sistemine
+uygulanabilir.
+SİLANEM IV, diğer antibiyotiklerle karıştırılmamalı ya da fiziksel olarak eklenmemelidir.
+Ancak, SİLANEM IV aminoglikozidler gibi bazı diğer antibiyotiklerle de eş zamanlı
+kullanılabilir.
+6.3 Raf ömrü
+24 ay
+Sulandırma Sonrasında:
+Bkz. Bölüm 6.4
+6.4 Saklamaya yönelik özel tedbirler
+25°C altındaki oda sıcaklığında saklayınız. Hazırlanan çözeltiyi dondurmayınız.
+Tıbbi ürünün sulandırılmasından sonraki saklama koşulları için bölüm 6.3'e bakınız.
+HAZIRLANAN SİLANEM ÇÖZELTİSİNİN STABİLİTESİ
+Seyreltici Oda sıcaklığı(25oC) Buzdolabı(4oC)
+İzotonik sodyum klorür 4 saat 24 saat
+19% 5 Dekstroz, suda 4 saat 24 saat
+% 10 Dekstroz, suda 4 saat 24 saat
+% 5 Dekstroz ve % 0,9 NaCI 4 saat 24 saat
+% 5 Dekstroz ve % 0,45 NaCI 4 saat 24 saat
+% 5 Dekstroz ve % 0,225 NaCI 4 saat 24 saat
+% 5 Dekstroz ve % 0,15 KCI 4 saat 24 saat
+Mannitol % 5 ve % 10 4 saat 24 saat
+6.5 Ambalajın niteliği ve içeriği
+20 cc Tip I Cam flakon, gri teflon kaplamalı tıpa, flipofflu alüminyum kapak ve kullanma
+talimatı içeren karton kutu.
+6.6 Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+Her bir flakon sadece tek kullanım içindir.
+Sulandırma:
+Her bir flakonun içeriği 100 ml uygun infüzyon çözeltisine aktarılmalıdır (bkz. Bölüm 6.2 ve
+6.3):
+Önerilen bir prosedür, flakona yaklaşık 10 ml uygun infüzyon çözeltisinin eklenmesidir. İyice
+çalkalayın ve sonuçta ortaya çıkan karışımı infüzyon çözeltisi kabına dökün.
+DİKKAT: KARIŞIM DOĞRUDAN İNFÜZYON İÇİN DEĞİLDİR.
+Flakon içeriğinin infüzyon çözeltisine tamamen aktarıldığından emin olmak için ek bir 10 ml
+infüzyon çözeltisiyle tekrarlayın. Ortaya çıkan karışım, berraklaşıncaya kadar çalkalanmalıdır.
+Yukarıdaki prosedürü takiben sulandırılmış çözeltinin konsantrasyonu hem imipenem hem de
+silastatin için yaklaşık olarak 5 mg/ml'dir.
+Rengin renksizden sarıya değişimi ürünün tesirini etkilemez.
+Kullanılmamış olan ürünler ya da atık materyaller “Tıbbi Atıkların Kontrolü Yönetmeliği” ve
+“Ambalaj Atıklarının Kontrolü Yönetmeliği”ne uygun olarak imha edilmelidir.
+7. RUHSAT SAHİBİ
+KOÇAK FARMA İlaç ve Kimya Sanayi A.Ş.
+Mahmutbey Mah., 2477. Sok. No:23
+Bağcılar/İstanbul
+Tel.: 0 216 492 57 08
+Fax: 0 216 334 78 88
+E-posta : info@kocakfarma.com
+8. RUHSAT NUMARASI(LARI)
+224/88
+9. İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ
+İlk ruhsat tarihi: 01.06.2010
+Ruhsat yenileme tarihi:
+10. KÜB’ÜN YENİLENME TARİHİ
+-
+20

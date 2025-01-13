@@ -1,0 +1,977 @@
+KISA ÜRÜN BİLGİSİ
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+JAQINUS® 5 mg Film Kaplı Tablet
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde:
+Her 5 mg film kaplı tablet, 5 mg tofasitinib serbest bazlı etkin farmasötik içeriğe denk 8.078
+mg tofasitinib sitrat içermektedir.
+Yardımcı madde(ler):
+Her 5 mg tablet ayrıca 62.567 mg laktoz monohidrat içermektedir.
+Yardımcı maddeler için bölüm 6.1’e bakınız.
+3. FARMASÖTİK FORM
+Film kaplı tablet.
+Beyaz ya da beyazımsı yuvarlak çabuk salımlı film kaplı tabletler.
+4. KLİNİK ÖZELLİKLER
+4.1 Terapötik endikasyonlar
+JAQINUS, metotreksat (MTX) tedavisine yeterli cevap alınamayan veya metotreksata
+intoleransı olan orta veya şiddetli aktif romatoid artritli erişkin hastalarda metotreksat ile
+kombine veya tek başına kullanılabilir. Biyolojik anti-romatizmal ilaçlarla (DMARD) veya
+azatiyopirin ve siklosporin gibi potent immünosüpresiflerle kombine edilmemelidir.
+4.2 Pozoloji ve uygulama şekli
+Pozoloji/uygulama sıklığı ve süresi:
+Tedavi, romatoid artrit teşhisi ve tedavisinde deneyimli sağlık çalışanları tarafından
+başlatılmalıdır.
+Tavsiye edilen pozoloji, günde iki kez uygulanan 5 mg’dır. Bazı hastalar, klinik yanıta bağlı
+olarak, dozun günde iki kez 10 mg.’a artırılmasından fayda görebilir.
+Hastada ciddi bir enfeksiyon ortaya çıkması durumunda enfeksiyon kontrol altına alınana
+kadar tedaviye ara verilmelidir.
+Lenfopeni, nötropeni ve anemi tedavisi esnasında JAQINUS’a ara verilmesi önerilir.
+Aşağıdaki durumlarda JAQINUS dozu günde bir kez 5 mg’a düşürülmelidir:
+ Orta veya şiddetli böbrek yetmezliği olan hastalarda,
+ Orta karaciğer yetmezliği olan hastalarda,
+ CYP3A4 inhibitörleri (örn; ketokonazol) alan hastalarda
+ Orta şiddette CYP3A4 inhibisyonu ve potent CYP2C19 inhibisyonu yapan flukonazol
+gibi ilaçlar kullanan hastalarda
+2013-0003318 & 2014-0005691 1Laboratuvar Anormalliklerine Bağlı Doz Ayarlamaları (bakınız bölüm 4.4)
+Nötropeni, anemi ve lenfopeni de dahil olmak üzere doz ile ilişkili laboratuvar
+anormalliklerinin yönetimi için gerekli olabilecek doz ayarlaması ya da dozlama ara verilmesi
+Tablo 1, 2 ve 3’te tarif edilmiştir.
+Mutlak nötrofil sayısı (ANC) < 1000 hücre/ mm3 olan hastalarda tedaviye başlanması tavsiye
+edilmemektedir.
+Tablo 1: Nötropeni için Doz Ayarlamaları
+Düşük ANC (bakınız Bölüm 4.4)
+Lab Değeri Tavsiye
+(hücre/mm3)
+ANC >1000 Doz korunur
+ANC 500-1000 Bu aralıktaki kalıcı düşüşler için, ANC>1000 hücre/mm3 olana
+kadar JAQINUS ile uygulamaya ara verilir.
+ANC >1000 hücre/mm3 olduğunda, JAQINUS 5 mg BID ile
+tedaviye devam edilir.
+ANC<500 JAQINUS tedavisi kesilir
+(tekrar testi ile
+doğrulanmış)
+Hgb<9 g/dL olan hastalarda tedaviye başlanması tavsiye edilmemektedir.
+Tablo 2: Anemi için Doz Ayarlamaları
+Düşük Hemoglobin Değeri (bakınız Bölüm 4.4)
+Lab Değeri (g/dL) Tavsiye
+Hgb ≥9.0 veya önceki Doz korunur
+değere göre ≤2 g/dL
+düşüş
+Hgb <8.0 veya önceki Hemoglobin değerleri normalleşene kadar JAQINUS
+değere göre 2 g/dL uygulamasına ara verilir.
+düşüş
+(tekrar testi
+doğrulanmış)
+Lenfosit sayısı < 500 hücre/ mm3 olan hastalarda tedaviye başlanması tavsiye edilmemektedir
+Tablo 3: Lenfopeni için Doz Ayarlamaları
+Düşük Lenfosit Değeri (bakınız Bölüm 4.4)
+Lab Değeri (g/dL) Tavsiye
+≥500 Doz korunur
+<500 JAQINUS tedavisi kesilir
+(tekrar testi
+doğrulanmış)
+Uygulama Şekli:
+JAQINUS, oral yoldan yemeklerle birlikte veya tek başına alınabilir.
+2Özel popülasyonlara ilişkin ek bilgiler:
+Böbrek yetmezliği:
+Hafif derecede böbrek yetmezliği bulunan hastalarda doz ayarlaması gerekli değildir. Orta ya
+da şiddetli böbrek yetmezliği olan hastalarda dozaj günde bir kez 5 mg’ı geçmemelidir
+(bakınız bölüm 4.4, 5.2). Klinik çalışmalarda, JAQINUS, başlangıç kreatinin klerens değerleri
+(Cockroft-Gault denklemi ile hesaplanan) 40 mL/dak’dan düşük olan hastalarda
+değerlendirilmemiştir (bakınız bölüm 4.2, 5.2).
+Karaciğer yetmezliği:
+Hafif karaciğer yetmezliği bulunan hastalarda doz ayarlaması gerekli değildir. Orta derecede
+karaciğer yetmezliği olan hastalarda dozaj günde bir kez 5 mg’ı geçmemelidir (bakınız bölüm
+4.4, 5.2).
+Şiddetli karaciğer yetmezliği bulunan veya Hepatit B veya C pozitif hastalarda JAQINUS’un
+etkililik ve güvenliliği çalışılmamıştır. Şiddetli karaciğer yetmezliği bulunan hastalarda
+JAQINUS kullanılmamalıdır
+Pediatrik popülasyon:
+JAQINUS’un 18 yaşa kadar olan çocuklarda güvenliliği ve etkinliği belirlenmemiştir. Bu yaş
+grubu ile ilgili veri mevcut değildir.
+Geriyatrik popülasyon (≥65 yaş):
+Tüm çalışmalara (Çalışma 1-5) dahil edilen 3315 hastadan, 505 romatoid artrit hastası 65 yaş
+ve üstündedir, bunlar arasında 71 hasta 75 yaş ve üstündedir. 65 yaş ve üstündeki JAQINUS
+tedavisi alan hastalarda ciddi enfeksiyonların görülme sıklığı 65 yaş altındakilerden daha
+yüksektir. Genel olarak, yaşlı hastalarda enfeksiyon görülme insidansı daha yüksek
+olduğundan, yaşlı hastaların tedavisinde dikkatli olunmalıdır.
+4.3 Kontrendikasyonlar
+Etkin maddeye ya da Bölüm 6.1’de listelenen yardımcı maddelerden herhangi birine karşı
+aşırı duyarlılık durumunda
+Aktif, şiddetli enfeksiyonlarda (bakınız bölüm 4.4)
+34.4 Özel kullanım uyarıları ve önlemleri
+UYARI: CİDDİ ENFEKSİYONLAR VE MALİGNİTE
+CİDDİ ENFEKSİYONLAR
+JAQINUS ile tedavi edilen hastalarda ciddi enfeksiyon (hastaneye yatış veya ölüm ile
+sonuçlanabilen) riski artmıştır. (Bkz 4.8 İstenmeyen etkiler)
+Ciddi enfeksiyon gelişimi gösteren hastaların çoğunda metotreksat veya
+kortikosteroid gibi eşlik eden immunosüpresan kullanımı bulunmaktadır.
+Ciddi enfeksiyon gelişimi halinde, enfeksiyon kontrol altına alınana kadar JAQINUS
+tedavisi kesilmelidir.
+Bildirilen enfeksiyonlar:
+ Pulmoner veya ekstrapulmoner tutulum gösteren aktif tüberküloz.
+Hastalar, JAQINUS tedavisi öncesinde ve süresince latent tüberkuloz için
+test edilmelidir. Latent enfeksiyon tedavisi JAQINUS kullanımından önce
+başlanmalıdır.
+ Kriptokokkoz ve pnömositozu da içeren invazif fungal enfeksiyonlar.
+İnvazif fungal enfeksiyonu olan hastalarda hastalık lokalden ziyade yaygın
+bir seyir gösterebilir.
+ Fırsatçı patojenlerin yol açtığı bakteriyel, viral ve diğer enfeksiyonlar
+Kronik veya tekrarlayan enfeksiyonu olan hastalarda tedaviye başlanmadan önce
+JAQINUS tedavisinin faydaları ve riskleri dikkatlice değerlendirilmelidir.
+JAQINUS ile tedavi süresince ve sonrasında hastalar enfeksiyon gelişimi belirti ve
+bulguları konusunda yakın bir şekilde izlenmelidir; buna tedavi öncesinde latent
+tüberküloz testi negatif olan hastaların da muhtemel tüberküloz gelişimi açısından
+izlenmesi dahildir.
+MALİGNİTE
+JAQINUS ile tedavi gören hastalarda lenfoma ve diğer maligniteler gözlenmiştir.
+JAQINUS ile birlikte immunosupresif ilaçlar kullanmakta olan böbrek nakil
+hastalarında, Epstein Barr Virus ilişkili nakil sonrası lenfoproliferatif bozukluklar
+artan oranlarda gözlenmiştir.
+Ciddi Enfeksiyonlar
+JAQINUS ile tedavi gören romatoid artrit hastalarında bakteriyel, mikobakteriyel, invazif
+fungal, viral ya da diğer fırsatçı patojenlere bağlı ciddi ve bazı durumlarda fatal enfeksiyonlar
+bildirilmiştir. JAQINUS ile bildirilen en yaygın ciddi enfeksiyonlar arasında, pnömoni,
+selülit, herpes zoster ve idrar yolu enfeksiyonları yer almaktadır. Fırsatçı enfeksiyonlar
+arasında, tüberküloz ve diğer mikobakteriyel enfeksiyonlar, kriptokok, özofageal
+kandidiyazis, pnömositozis, multidermatomal herpes zoster, sitomegalovirüs ve BK virüs
+enfeksiyonları bildirilmiştir. Bazı hastalarda, hastalık lokal değil yaygın bir seyir göstermiştir
+ve bu hastalar genellikle beraberinde MTX ya da kortikosteroidler gibi immünomodülator
+ajanlar almaktadırlar.
+Klinik çalışmalarda bildirilmemiş olan bazı diğer ciddi enfeksiyonlar da görülebilir (örneğin
+histoplazmozis, koksidioidomikozis ve listeriyoz).
+4JAQINUS, lokal enfeksiyonlar da dahil olmak üzere aktif enfeksiyonu olan hastalara
+uygulanmamalıdır (bakınız bölüm 4). Kronik ya da tekrarlayıcı enfeksiyonları olan, ya da
+tüberküloz geçirmiş veya ciddi ya da fırsatçı enfeksiyon geçmişi olan, ya da endemik
+tüberküloz veya endemik mikoz bulunan yerlerde yaşamış ya da buralara seyahat etmiş, ya da
+enfeksiyona yatkınlığa neden olabilecek altta yatan koşulları bulunan hastalarda JAQINUS’a
+başlamadan önce tedavinin faydaları ve riskleri göz önünde bulundurulmalıdır.
+JAQINUS ile tedavi sırasında ya da tedaviden sonra hastalar enfeksiyon belirtileri ve
+semptomları açısından yakından izlenmelidir. Hastada ciddi bir enfeksiyon, fırsatçı
+enfeksiyon ya da sepsis ortaya çıkması halinde ilaca ara verilmelidir. JAQINUS tedavisi
+sırasında yeni bir enfeksiyon görülen bir hastaya derhal immünitesi zayıflamış bir hasta için
+gerekli, tanısal testler eksiksiz olarak yapılmalı, uygun antimikrobiyal tedavi başlatılmalı ve
+hasta yakından izlenmelidir.
+Genel olarak yaşlı popülasyonda enfeksiyon sıklığı daha yüksek olduğundan, yaşlı hastaların
+tedavisi sırasında dikkatli olunmalıdır (bakınız bölüm 4.5).
+Tüberküloz
+JAQINUS tedavisinden önce hastalar latent ya da aktif enfeksiyon açısından değerlendirilmeli
+ve tetkik edilmelidir.
+Yeterli tedavi almış olduğu doğrulanamayan latent ya da aktif tüberküloz geçmişi olan
+hastalarda ve latent tüberküloz testi negatif olduğu halde tüberküloz enfeksiyonu açısından
+risk faktörleri bulunan hastalar için JAQINUS tedavisinden önce anti-tüberküloz tedavi göz
+önünde bulundurulmalı ve hastalara uygun anti-tüberküloz tedavi konsültasyon ile
+değerlendirilmelidir. Tedaviye başlamadan önce latent tüberküloz enfeksiyonu testi negatif
+çıkan hastalar dahil olmak üzere hastalar tüberküloz belirtileri ve semptomları açısından
+taranmalıdır.
+Dünya çapındaki JAQINUS klinik geliştirme programlarında gözlenen tüberküloz insidansı
+%0.1-0.2’dir. Latent tüberkülozlu hastalara, JAQINUS tedavisine başlanmadan önce standart
+anti-mikobakteriyel tedavi uygulanmalıdır.
+Viral reaktivasyon
+JAQINUS klinik çalışmalarında herpes virüs reaktivasyonu (örneğin herpes zoster) dahil
+olmak üzere viral reaktivasyon olguları gözlenmiştir. JAQINUS’un kronik viral hepatit
+reaktivasyonu üzerindeki etkisi bilinmemektedir. Tarama sırasında Hepatit B ve C için pozitif
+sonuç veren hastalar, klinik çalışmalardan çıkarılmıştır. Tofasitinib ile tedaviye başlanmadan
+önce klinik klavuzlar doğrultusunda viral hepatit için tarama yapılmalıdır.
+Malignite ve lenfoproliferatif hastalık
+Tedavisi başarıyla sonuçlanmış melanom dışı cilt kanseri (NMSC) dışındaki bilinen
+maligniteye sahip hastalarda JAQINUS tedavisine başlarken veya malignite gelişen hastalarda
+JAQINUS tedavisine devam ederken risk yarar değerlendirilmesi yapılmalıdır. JAQINUS
+klinik çalışmalarında maligneteler gözlenmiştir.
+JAQINUS’un malignitelere karşı konak savunmaları etkileme olasılığı bulunmaktadır.
+JAQINUS tedavisinin malignitelerin gelişimi ve seyri üzerinde etkisi bilinmemektedir ancak
+klinik çalışmalarda maligniteler gözlenmiştir.
+Faz 3 çalışmalarda, plasebo ve plasebo artı DMARD kombinasyonu gruplarındaki hastalarda
+gözlenen 0 malignite (melanom dışı cilt kanseri (NMSC) hariç) ile karşılaştırıldığında
+JAQINUS alan hastalarda 13 malignite (NMSC hariç) tanısı konmuştur. JAQUINUS ile bir
+yıla varan sürelerle toplam 3000’den fazla hasta tedavi edilirken (2098 hasta takip yılı),
+plasebo ile yaklaşık 680 hasta en fazla 6 aylık süreye kadar tedavi görmüştür (203 hasta takip
+5yılı). Maruziyete göre hesaplanan insidans oranı, JAQINUS gruplarında 100 hasta-yılı başına
+0.62 olay olmuştur.
+JAQINUS ile tedavi edilen hastalarda lenfoma olguları gözlenmiştir. Romatoid artit
+hastalarında, özellikle de yüksek hastalık aktivitesine sahip olanlarda lenfoma gelişim riski
+daha yüksek (birkaç kata kadar) olmakla birlikte, lenfoma gelişiminde Janus-ilişkili kinaz
+(JAK) inhibisyonunun rolü bilinmemektedir.
+Uzun süreli güvenlilik popülasyonunda, malignite oranı (NMSC hariç) 100 hasta yılı başına
+1.12 olaydır ve bu oran randomize kontrollü klinik çalışmalardaki kontrollü periyotta
+gözlenen oranla tutarlıdır.
+De-novo böbrek transplant hastalarında gerçekleştirilen ve tüm hastaların basiliksimab,
+yüksek doz kortikosteroidler ve mikofenolik asit ürünleri ile indüksiyon tedavisi aldığı Faz
+2B, kontrollü doz ayarlama çalışmalarında, siklosporin alan 111 hastanın hiçbirinde Epstein
+Barr virüs ilişkili post-transplant lenfoproliferatif hastalık görülmemişken JAQINUS
+kullananan 218 hastanın 5’inde (% 2.3) gözlenmiştir.
+Melanom dışı cilt kanseri (NMSC)
+Tofasitinib ile tadavi edilen hastalarda NMSC rapor edilmiştir. Cilt kanseri için artmış risk
+taşıyan hastalar için periyodik cilt muayenesi önerilmektedir.
+Gastrointestinal Perforasyon
+Romatoid artrit hastaları ile yürütülen klinik çalışmalarda gastrointestinal perforasyon olguları
+rapor edilmiştir ancak bu olaylarda JAK inhibisyonunun rolü bilinmemektedir. Tüm
+çalışmalarda gözlenen gastrointestinal perforasyon insidans oranı (faz 2, faz 3 ve uzun süreli
+uzatma çalışmaları), JAQINUS tedavisi ile 100 hasta yılı başına 0.177 olay olmuştur. Olaylar
+başlıca, divertiküler perforasyon, peritonit, abdominal abse ve apendisit olarak bildirilmiştir.
+Gastrointestinal perforasyon görülen tüm hastalar, ek olarak non-steroid anti-inflamatuar
+ilaçlar (NSAİİ) ve/veya kortikosteroid almaktadırlar. JAQINUS’a göre, tedaviye eşlik eden bu
+ilaçların gastrointestinal perforasyon gelişimi üzerine rölatif katkıları bilinmemektedir.
+Gastrointestinal perforasyon riski artmış olan (örneğin divertikülit geçmişi olan) hastalarda
+JAQINUS dikkatli bir şekilde kullanılmalıdır. Yeni başlayan abdominal semptomları olan
+hastalar, gastrointestinal perforasyonun erken tanısına yönelik olarak derhal
+değerlendirilmelidir.
+Laboratuvar parametreleri
+Lenfositler: JAQINUS kullanımı ile ilk bir ayda lenfositoz, 12 aylık tedavi sonrasında lenfosit
+sayısında başlangıç değerine göre yaklaşık %10’luk bir azalma gözlenmiştir. Lenfosit
+sayısının 500 hücre/mm3’ün altına inmesi, ciddi enfeksiyonlar ve tedavi ihtiyacı ile ilişkili
+bulunmuştur.
+Lenfosit değeri 500 hücre/mm3’den daha düşük olan hastalarda JAQINUS tedavisine
+başlanmasından kaçınılmalıdır. Lenfosit değerinin 500 hücre/mm3 altına düştüğü doğrulanmış
+hastalarda JAQINUS tedavisi önerilmemektedir.
+Lenfosit seviyesi, başlangıçta ve her üç ayda bir izlenmelidir (bakınız bölüm 4.2 ve 4.8).
+Nötrofiller: JAQINUS tedavisi, plasebo ile karşılaştırıldığında artmış nötropeni (<2000
+hücre/mm3) insidansı ile ilişkilendirilmiştir. Düşük nötrofil sayısı (ANC<1000 hücre/mm3)
+olan hastalarda JAQINUS tedavisine başlanması tavsiye edilmemektedir. ANC seviyesi kalıcı
+bir şekilde 500–1000 hücre/mm3 aralığında olan hastalarda, ANC ≥1000 hücre/mm3
+seviyesine gelene kadar JAQINUS dozu azaltılmalı ya da ilaca ara verilmelidir. ANC değeri
+500 hücre/mm3’den daha düşük olan hastalarda JAQINUS tedavisi tavsiye edilmemektedir.
+6Tedavi başlangıcında, 4-8 hafta sonra ve ardından her 3 ayda bir nötrofil sayıları izlenmelidir
+(bakınız bölüm 4.2 ve 4.8).
+Hemoglobin: Düşük hemoglobin değeri (< 9 g/dL) olan hastalarda JAQINUS tedavisine
+başlanması tavsiye edilmemektedir. Tedavi sırasında hemoglobin seviyeleri 8 g/dL’nin altına
+düşen ya da hemoglobin seviyesinde 2 g/dL’den daha fazla düşme gözlenen hastalarda
+JAQINUS tedavisine ara verilmelidir. Hemoglobin seviyesi, başlangıçta, tedavi
+başlangıcından 4-8 hafta sonra ve ardından her üç ayda bir izlenmelidir (bakınız bölüm 4.2 ve
+4.8).
+Karaciğer enzimleri: Plaseboya kıyasla, JAQINUS kullanımı karaciğer enzimi yükselmesinde
+artış ile ilişkilendirilmiştir. Bu anomalilerin birçoğu, zeminde DMARD (başlıca metotreksat)
+tedavisine izin verilen çalışmalarda gözlenmiştir.
+İlaca bağlı karaciğer hasarınının potansiyel nedenlerini belirleyebilmek için rutin karaciğer
+testleri yapılmalı ve karaciğer enzimlerindeki yükselmenin sebepleri hızlıca araştırılmalıdır.
+Eğer ilaca bağlı karaciğer hasarından şüphelenilirse, bu teşhis ortadan kalkana kadar
+JAQINUS tedavisine ara verilmeldir.
+Lipidler: JAQINUS tedavisi, total kolesterol, düşük yoğunluklu lipoprotein (LDL) ve yüksek
+yoğunluklu lipoprotein (HDL) gibi lipid parametrelerindeki artışlar ile ilişkilendirilmiştir.
+Maksimum etkiler genellikle 6 hafta içinde gözlenmiştir. Lipid parametrelerindeki bu
+artışların kardiyovasküler morbidite ve mortalite üzerindeki etkisi belirlenmemiştir.
+JAQINUS tedavisine başlanmasının ardından yaklaşık 4-8 hafta sonra lipid parametreleri
+değerlendirilmelidir. Hastalar, hiperlipidemi tedavisine yönelik klinik kılavuzlara göre tedavi
+edilmelidir. JAQINUS ile ilişkilendirilen total ve LDL kolesterolü artışlar, statin tedavisi ile
+tedavi öncesi seviyelere düşmektedir.
+Aşılamalar
+JAQINUS tedavisi alan hastalarda, aşılamaya alınan yanıt ya da canlı aşılar yoluyla
+enfeksiyonların sekonder olarak aktarımı konusunda veri bulunmamaktadır. Canlı aşıların,
+JAQINUS ile birlikte uygulanması tavsiye edilmemektedir.
+JAQINUS tedavisine başlamadan tüm hastaların aşılarının güncel bağışıklama kılavuzlarına
+uygun olarak tamamlanması tavsiye edilmektedir.
+Biyolojik DMARD’lar ile kombinasyon
+JAQINUS, RA hastalarında, immünosupresyonda ve enfeksiyon riskinde artış olasılığı
+nedeni ile TNF antagonistleri, IL-1R antagonistleri, IL-6R antagonistleri, anti-CD20
+monoklonal antikorları ve selektif ko-stimülasyon modülatörleri gibi biyolojik DMARD’lar
+ve azatiyoprin ve siklosporin gibi potent immünosupresanlar ile kombinasyon halinde
+çalışılmamıştır ve bu şekilde kullanımından kaçınılmalıdır.
+Bu tıbbi ürün, 5 mg tablette 61.31 mg laktoz içerir. Nadir kalıtımsal galaktoz intoleransı, Lapp
+laktoz yetmezliği ya da glikoz-galaktoz malabsorpsiyon problemi olan hastaların bu ilacı
+kullanmamaları gerekir.
+4.5 Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+Diğer ilaçların JAQINUS’un farmakokinetiğini etkileme potansiyelleri
+Tofasitinib, CYP3A4 ile metabolize edildiğinden, CYP3A4’ü inhibe eden ya da indükleyen
+ilaçlar ile etkileşimi olabilir. Tofasitinib maruziyeti, potent CYP3A4 inhibitörleri
+(ketokonazol) ya da orta derecede CYP3A4 (ve potent CYP2C19) inhibitörü olan flukonazol
+ile birlikte kullanıldığında artar (bakınız bölüm 4.2).
+7Potent CYP3A4 indükleyicileri (örneğin, rifampin) ile birlikte uygulandığında tofasitinib
+maruziyeti azalmaktadır.
+CYP2C19 ya da P-glikoprotein inhibitörlerinin tofasitinib farmakokinetiği üzerine etkileri
+olması beklenmez.
+İmmunosupresif İlaçlar
+JAQINUS potent immunosupresif ilaçlarla (örn. azatiyoprin, takrolimus, siklosporin) birlikte
+kullanıldığında artmış immunosupresyon riski bulunmaktadır. JAQINUS’un çoklu dozlarının
+potent immunosupresanlarla birlikte kullanımı romatoid artritte çalışılmamıştır. JAQINUS’un
+biyolojik DMARD’larla veya azatiyoprin ve siklosporin gibi potent immunosupresanlarla
+kullanımı önerilmemektedir.
+MTX ile eşzamanlı olarak uygulamanın (haftada bir kez 15-25 mg MTX), tofasitinib
+farmakokinetiği üzerinde bir etkisi olmamıştır. Güçlü bir CYP3A4 inhibitörü olan
+ketokonazol ile tek doz tofasitinibin birlikte uygulanması, eğri altı alanı (EAA) değerlerini ve
+C ’ı sırasıyla %103 ve %16 oranında artırmıştır. Orta derece bir CYP3A4 inhibitörü ve
+maks,
+potent bir CYP2C19 inhibitörü olan flukonazol ile birlikte uygulanması, tofasitinibin EAA ve
+C değerlerini sırasıyla %79 ve %27 oranında artırmıştır. Zayıf bir CYP3A4 inhibitörü olan
+maks
+takrolimus ile birlikte uygulanması, tofasitinib EAA’nı %21 oranında artırmış ve C
+maks
+değerini %9 oranında düşürmüştür. Orta derece bir CYP3A4 inhibitörü olan siklosporin ile
+birlikte uygulanması, tofasitinib EAA’sını %73 oranında artırmış ve C değerini %17
+maks
+oranında düşürmüştür. Bu potent immünosupresifler ile çoklu doz tofasitinibin kombine
+kullanımı RA’lı hastalarda çalışılmamıştır. Güçlü bir CYP3A4 indükleyicisi olan rifampin ile
+birlikte uygulanması, tofasitinib EAA ve C ’ını sırasıyla %84 ve %74 oranında
+maks
+düşürmüştür (bakınız bölüm 4.2).
+JAQINUS’un diğer ilaçların farmakokinetiğini etkileme potansiyeli
+In vitro çalışmalarda, tofasitinibin, 10 mg BID dozunun kararlı durum konsantrasyonunun
+C ’ının 150 katını aşan konsantrasyonlarda majör karaciğer CYP enzimlerinin (CYP1A2,
+maks
+CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6 ve CYP3A4) aktivitesini belirgin olarak
+inhibe etmediğini ya da indüklemediğini göstermektedir. Bu in vitro sonuçlar, oldukça hassas
+bir CYP3A4 substratı olan midazolamın, tofasitinib ile birlikte uygulandığında
+farmakokinetiğinde bir değişiklik olmadığını gösteren bir insan ilaç etkileşimi çalışması ile de
+doğrulanmıştır. In vitro veriler, tofasitinibin, terapötik konsantrasyonlarda, P-glikoprotein,
+organik anyonik ya da katyonik taşıyıcı gibi taşıyıcıları inhibe etme olasılığının da düşük
+olduğunu göstermektedir.
+Sağlıklı kadın gönüllülerde tofasitinibin birlikte uygulandığı oral kontraseptiflerin
+(levonorgestrel ve etinil estradiyol) farmakokinetiği üzerinde bir etkisi olmadığı
+gösterilmiştir.
+Tofasitinibin haftada bir kez 15-25 mg MTX ile birlikte uygulanması, MTX EAA ve C
+maks
+değerlerini sırasıyla %10 ve %13 oranında düşürmüştür. MTX maruziyetindeki düşüş miktarı,
+bireysel MTX dozunda ayarlama yapılmasını gerektirmemektedir.
+Romatoid hastalarda, tofasitinibin oral klerensi zaman içinde değişmemektedir bu da
+tofasitinibin romatoid artrit hastalarında CYP enzim faaliyetini normalleştirmediğini
+göstermektedir. Dolayısıyla, tofasitinib ile birlikte uygulanmasının, romatoid artrit
+hastalarında CYP substratlarının metabolizmasında klinik olarak anlamlı artışlara sebep
+olması beklenmez.
+8Pediatrik popülasyon
+Klinik etkileşim çalışmaları sadece yetişkinlerde gerçekleştirilmiştir.
+4.6. Gebelik ve laktasyon
+Genel tavsiye
+Gebelik kategorisi C’dir.
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon)
+Çocuk doğurma potansiyeli bulunan kadınlarda ve doğum kontrolü (kontrasepsiyon)
+uygulayanlarda ilacın kullanımı yönünden bir öneri bulunmamaktadır.
+Gebelik dönemi
+Tofasitinibin gebe kadınlarda kullanımına ilişkin yeterli veri mevcut değildir. Hayvanlar
+üzerinde yapılan araştırmalar üreme toksisitesinin bulunduğunu göstermiştir (bkz. kısım 5.3).
+İnsanlara yönelik potansiyel risk bilinmemektedir.
+JAQINUS gebelerde sadece anne üzerindeki potansiyel yarar fetüs üzerindeki potansiyel
+zarardan daha ağır bastığında kullanılmalıdır.
+Laktasyon dönemi
+Tofasitinibin insan sütüyle atılıp atılmadığı bilinmemektedir. Hayvanlar üzerinde yapılan
+çalışmalar, tofasitinibin sütle atıldığını göstermektedir. Emzirmenin durdurulup
+durdurulmayacağına ya da JAQINUS tedavisinin durdurulup durdurulmayacağına/tedaviden
+kaçınılıp kaçınılmayacağına ilişkin karar verilirken, emzirmenin çocuk açısından faydası ve
+JAQINUS tedavisinin emziren anne açısından faydası dikkate alınmalıdır.
+Üreme yeteneği/Fertilite
+Tofasitinibin sıçanlarda, erkek fertilitesi, sperm motilitesi veya sperm konsantrasyonu
+üzerinde bir etkisi yoktur. Kadın fertilitesi üzerine tedavi ilişkili etkiler ≥ 10 mg/kg/gün
+dozdan sonra gözlenmiştir. (10 mg BID dozundaki insan C ’ının ~ 36 katı) (bakınız bölüm
+maks
+5.3).
+4.7 Araç ve makine kullanma yeteneği üzerindeki etkiler
+Tofasitinibin araç ve makine kullanma yeteneği üzerindeki etkileri ile ilgili formal bir çalışma
+yapılmamıştır.
+4.8 İstenmeyen etkiler
+Aşağıda yer alan veriler, 5 çift-kör, kontrollü, çok merkezli çalışmayı içermektedir. Bu
+çalışmalarda, hastalar JAQINUS 5 mg BID (243 hasta) ve 10 mg BID (245 hasta)
+monoterapisi ve DMARD’lar ile kombinasyon halinde (MTX dahil olmak üzere) JAQINUS 5
+mg BID (973 hasta) ve 10 mg BID (969 hasta) tedavi gruplarına randomize edilmiştir.
+Bu 5 klinik çalışmada JAQINUS tedavisi almış ya da plasebo ile başlayıp JAQINUS’a geçmiş
+toplam 3030 hastanın, 1871’i en az 6 ay, 580’i de en az bir yıl boyunca tedavi görmüştür.
+Uzun süreli güvenlilik popülasyonu, çift-kör, kontrollü herhangi bir çalışmaya (erken gelişim
+fazı çalışmaları dahil olmak üzere) dahil edilmiş ve ardından iki uzun süreli güvenlilik
+çalışmasından birine katılmış tüm hastaları içermektedir.
+9Uzun süreli çalışmalarda JAQINUS tedavisi almış olan 3227 hastanın, 1689’u açık etiketli
+olarak en az 6 ay, 970’i en az bir yıl, 659’u en az 2 yıl ve 62’si en az 3 yıl boyunca tedavi
+görmüştür.
+Bu çalışmalardaki tüm hastalarda, orta-şiddetli aktif romatoid artrit mevcuttur. Çalışma
+popülasyonunun ortalama yaşı 54’tür ve hastaların %84’ü kadındır.
+Klinik Çalışma Deneyimi
+En yaygın görülen ciddi advers reaksiyonlar, ciddi enfeksiyonlar olmuştur (bakınız bölüm
+4.4).
+Kontrollü klinik çalışmalarda ilk 3 ay boyunca en yaygın olarak rapor edilen advers
+reaksiyonlar (JAQINUS monoterapisi ile ya da DMARD’lar ile kombinasyon halinde tedavi
+edilen hastaların ≥%2’sinde görülen), üst solunum yolu enfeksiyonları, baş ağrısı, nazofarenjit
+ve diyare olmuştur.
+Çift-kör, plasebo kontrollü çalışmaların ilk 3 ayında herhangi bir advers reaksiyona bağlı
+olarak tedaviyi bırakan hastaların oranı JAQINUS alan hastalar için %4 ve plasebo ile tedavi
+edilen hastalar için %3 olmuştur. JAQINUS tedavisinin bırakılması ile sonuçlanan en yaygın
+advers reaksiyonlar enfeksiyonlar olmuştur. Tedavinin bırakılması ile sonuçlanan en yaygın
+enfeksiyonlar, herpes zoster ve pnömonidir.
+Advers ilaç reaksiyonları, sistem/organ sınıfı ve aşağıda belirtilen sisteme göre belirlenmiş
+sıklık kategorisine göre sınıflandırılmıştır; çok yaygın (≥1/10); yaygın (≥1/100 ila <1/10);
+yaygın olmayan (≥1/1,000 ila <1/100); seyrek (≥1/10,000 ila <1/1,000); bilinmiyor (eldeki
+verilerden hareketle tahmin edilemiyor) . Her sıklık grubunda, istenmeyen etkiler azalan
+ciddiyet sırasına göre yer almaktadır.
+Enfeksiyonlar ve enfestasyonlar
+Çok yaygın : Nazofarenjit
+Yaygın : Pnömoni, herpes zoster, bronşit, influenza, sinüzit, sistit, farenjit
+Yaygın olmayan : Sepsis, bakteriyel pnömoni, pnömokokal pnömoni, piyelonefrit, selülit,
+viral gastroenterit, viral enfeksiyon, herpes simpleks
+Seyrek : Merkezi sinir sistemi tüberkülozu, ensefalit, nekrotizan fasiit, kriptokokal
+menenjit, dissemine tüberküloz, ürosepsis, pnömosistis jiroveci pnömonisi,
+stafilokokal bakteremi, bakteriyel artrit, atipik mikobakteriyel enfeksiyon,
+mikobakteriyum avium kompleksi enfeksiyonu, sitomegalovirus
+enfeksiyonu, bakteremi
+10(Kist ve polipler de dahil olmak üzere) iyi huylu ve kötü huylu neoplazmalar
+Yaygın olmayan : Melanom dışı cilt kanseri
+Kan ve lenf sistemi hastalıkları
+Yaygın : Lökopeni, anemi
+Yaygın olmayan : Nötropeni, lenfopeni
+Metabolizma ve beslenme hastalıkları
+Yaygın : Hiperlipidemi, dislipidemi, düşük yoğunluklu lipoprotein artışı, kan
+kolestrolü artışı, kilo artışı
+Yaygın olmayan : Dehidratasyon
+Psikiyatrik hastalıklar
+Yaygın : Insomnia
+Sinir sistemi hastalıkları
+Yaygın : Baş ağrısı
+Yaygın olmayan : Parestezi
+Vasküler hastalıklar
+Yaygın : Hipertansiyon
+Solunum, göğüs bozuklukları ve mediastinal hastalıklar
+Yaygın : Dispne, öksürük
+Yaygın olmayan : Sinüs konjesyonu
+Gastrointestinal hastalıklar
+Yaygın : Abdominal ağrı, kusma, gastrit, diyare, bulantı, dispepsi
+Hepato-bilier hastalıklar
+Yaygın : Hepatik enzim artışı
+Yaygın olmayan : Hepatik steatoz, transaminaz artışı, gama-glutamiltransferaz artışı
+Deri ve deri altı doku hastalıkları
+Yaygın : Kızarıklık
+Yaygın olmayan : Eritem, pruritus
+Kas-iskelet bozukluklar, bağ doku ve kemik hastalıkları
+Yaygın : Muskuloskeletal ağrı, artralji, kan kreatin fosfokinaz artışı
+Yaygın olmayan : Tendonit, eklem şişliği
+Böbrek ve idrar hastalıkları
+Yaygın olmayan : Kan kreatinin artışı
+Genel bozukluklar ve uygulama bölgesine ilişkin hastalıklar
+Yaygın : Pireksi, yorgunluk, periferik ödem
+Yaralanma ve zehirlenme
+Yaygın : Eklem burkulması
+Yaygın olmayan : Adale zorlanması
+Genel enfeksiyonlar
+6 ay süreli, kontrollü klinik monoterapi çalışmasında, 5 mg BID ve 10 mg BID JAQINUS
+monoterapi gruplarındaki enfeksiyon oranları, sırasıyla %16.5 ve %19.2 iken, plasebo
+11grubunda bu oran %18.9 olmuştur. DMARD kombinasyon tedavisi içeren 6 ya da 12 aylık
+çalışmalarda, 5 mg BID ve 10 mg BID JAQINUS artı DMARD gruplarındaki enfeksiyon
+oranları, sırasıyla %20.9 ve %21.7 iken plasebo artı DMARD grubunda bu oran %18.2
+olmuştur.
+En yaygın rapor edilen enfeksiyonlar, üst solunum yolu enfeksiyonu ve nazofarenjit olmuştur
+(sırasıyla %4.1 ve %3.4).
+Tüm ilaç kullanan popülasyonun uzun dönem güvenlilik verisinde, JAQINUS ile genel
+enfeksiyon oranı, 100 hasta-yılı başına 41.5 olay olmuştur (5 mg ve 10 mg BID için sırasıyla
+31.5 ve 66.9). Monoterapi alan hastalar için, oran 100 hasta-yılı başına 5 mg ve 10 mg BID
+için sırasıyla 35.5 ve 55.8 olaydır. DMARD’lar ile kombinasyon tedavisi alan hastalar için,
+enfeksiyon oranları 100 hasta-yılı başına 5 mg ve 10 mg BID için sırasıyla 28.8 ve 78.4 olay
+olarak gerçekleşmiştir.
+6 ay süreli, kontrollü klinik çalışmada, 5 mg BID JAQINUS monoterapisi grubunda gözlenen
+ciddi enfeksiyon oranı, 100 hasta yılı başına 0.85 olaydır. Aynı oran; 10 mg BID JAQINUS
+monoterapisi grubunda, 100 hasta yılı başına 3.5 olay iken, plasebo grubunda 100 hasta yılı
+başına 0 olay olarak gerçekleşmiştir.
+6 ya da 12 ay süreli çalışmalarda, DMARD’lar ile kombinasyon halinde uygulanan 5 mg BID
+ve 10 mg BID JAQINUS gruplarında ciddi enfeksiyon oranları 100 hasta yılı başına sırasıyla
+3.6 ve 2.9 olay iken, plasebo ile birlikte DMARD uygulanan grupta 100 hasta yılı başına 1.7
+olay olarak gerçekleşmiştir.
+Tüm ilaç kullanan popülasyonun uzun dönem güvenlilik verisinde, genel ciddi enfeksiyon oranları
+5 ve 10 mg BID JAQINUS tedavisi alan gruplar için 100 hasta yılı başına sırasıyla 2.3 ve 4.9
+olmuştur. En yaygın görülen ciddi enfeksiyonlar arasında, pnömoni, idrar yolu enfeksiyonu ve
+herpes zoster yer almıştır (bakınız Bölüm 4.4).
+Çalışma I ila V’e dahil edilmiş olan 3315 romatoid artrit hastasının 505’i 65 yaş ve üzerinde,
+bu hastaların da 71’i 75 ve üzeri yaştadır. JAQINUS ile tedavi edilen 65 yaş ve üzeri
+hastalarda gözlenen ciddi enfeksiyon sıklığı, 65 yaş altı hastalarda görülenden daha yüksek
+olmuştur. Genel olarak yaşlı popülasyonda enfeksiyon insidansı daha yüksek olduğundan, bu
+grup hastaların tedavisi sırasında dikkatli olunmalıdır.
+Laboratuvar testleri
+Lenfositler
+Kontrollü klinik çalışmalarda, hem 5 mg BID hem de 10 mg BID JAQINUS gruplarında yer
+alan hastaların %0.04’ünde tedavinin ilk 3 ayında lenfosit değerleri 500 hücre/mm3
+seviyesinin altına düşmüştür.
+Lenfosit sayısının 500 hücre/mm3’ün altına inmesi, ciddi enfeksiyonlar ve tedavi ihtiyacı ile
+ilişkili bulunmuştur.
+Nötrofiller
+Kontrollü klinik çalışmalarda, hem 5 mg BID hem de 10 mg BID JAQINUS gruplarında yer
+alan hastaların %0.07’inde tedavinin ilk 3 ayında ANC değerleri, 1000 hücre/mm3 seviyesinin
+altına düşmüştür. Herhangi bir tedavi grubunda ANC değeri 500 hücre/mm3 değerinin altına
+düşmemiştir. Nötropeni ve ciddi enfeksiyonların oluşumu arasında net bir ilişki yoktur.
+Uzun süreli güvenlilik popülasyonunda, ANC’deki doğrulanmış düşüş insidansı, kontrollü
+klinik çalışmalarda görülenle tutarlı bir şekilde seyretmiştir. (bakınız Bölüm 4.4).
+12Karaciğer enzimi testleri
+Karaciğer enzimlerinde normalin üst limitinin (ULN) üç katından daha fazla artış (>3xULN)
+nadiren gözlenmiştir. Karaciğer enzimi artışı görülen hastalarda, eşlik eden DMARD dozunun
+azaltılması, JAQINUS tedavisine ara verilmesi ya da JAQINUS dozunun azaltılması gibi
+tedavi modifikasyonları, karaciğer enzimi seviyelerinin düşüşü ya da normal hale gelmesi, ile
+sonuçlanmıştır. Bu artışlar, klinik olarak önemli direkt bilirubin yükselmesi ya da hepatit veya
+karaciğer yetmezliği klinik bulguları ile ilişkili değildir.
+Faz 3 monoterapi çalışmasının kontrollü bölümünde (0-3 ay), plasebo, 5 mg ve 10 mg BID
+alan hastalarda ALT değerlerinde >3xULN artış sırasıyla %1.65, %0.41 ve %0 oranında
+gözlenmiştir. Bu çalışmada, plasebo, 5 mg ve 10 mg BID alan hastalarda sırasıyla %1.65,
+%0.41 ve %0 oranında >3x ULN AST artışı gözlenmiştir.
+Eş zamanlı DMARD alan hastaların dahil edildiği Faz 3 çalışmalarının kontrollü bölümünde
+(0-3 ay), plasebo, 5 mg ve 10 mg BID alan hastalarda ALT değerlerinde >3xULN artış
+sırasıyla %0.9, %1.24 ve %1.25 oranında gözlenmiştir. Bu çalışmalarda plasebo, 5 mg ve 10
+mg BID alan hastalarda sırasıyla %0.72, %0.52 ve %0.42 oranında >3x ULN AST artışı
+gözlenmiştir.
+Lipidler
+Lipid parametrelerindeki artışlar (total kolesterol, LDL, HDL, trigliseritler) ilk olarak
+kontrollü çift-kör klinik çalışmalarda JAQINUS başlanmasından sonraki birinci ayda
+değerlendirilmiştir. Gözlenen artışlar ardından stabil seyretmiştir. Kontrollü klinik
+çalışmalarda çalışmanın başlangıcından sonuna kadar (6-12 ay) olan sürede lipid
+parametrelerinde ortaya çıkan değişiklikler şu şekilde olmuştur: ortalama LDL değeri
+JAQINUS 5 mg BID kolunda %14 ve JAQINUS 10 mg BID kolunda %20 artmıştır; ortalama
+HDL değeri JAQINUS 5 mg BID kolunda %16 ve JAQINUS 10 mg BID kolunda %18
+artmıştır; JAQINUS ile tedavi edilen hastalarda ortalama LDL/HDL oranları ve
+Apolipoprotein B (ApoB)/ApoA oranları esasen değişmemiştir.
+1
+Kontrollü bir klinik çalışmada, LDL ve Apo B seviyelerindeki artışlar, statin tedavisi ile
+tedavi öncesi seviyelere düşmüştür.
+Uzun süreli güvenlilik popülasyonunda, lipid parametrelerdeki artışlar, kontrollü klinik
+çalışmalarda gözlenenler ile tutarlı bir şekilde seyretmiştir.
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadr. Raporlama yapılması, ilacın yarar / risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TUFAM)'ne bildirmeleri gerekmektedir (www.titck.gov.tr; e-
+posta: tufam@titck.gov.tr; tel: 0 800 314 00 08; faks: 0 312 218 35 99)
+4.9 Doz aşımı ve tedavisi
+JAQINUS’un doz aşımı ile ilgili bir deneyim bulunmamaktadır. JAQINUS doz aşımı için
+spesifik bir antidot yoktur. Tedavi, semptomatik ve destekleyici olmalıdır. Doz aşımı
+durumunda, hastanın advers reaksiyon belirti ve semptomları açısından izlenmesi tavsiye
+edilmektedir. Advers reaksiyon görülen hastalara uygun tedavi verilmelidir.
+Sağlıklı gönüllülerde 100 mg’a kadar (100 mg. dahil) tek doz uygulama sonucu elde edilen
+farmakokinetik verilere göre, uygulanan dozun %95’inden fazlasının 24 saat içinde elimine
+edilmesi beklenmektedir.
+135. FARMAKOLOJİK ÖZELLİKLER
+5.1 Farmakodinamik özellikler
+Farmakoterapötik grup: ATC kodu: LO4AA29 Selektif Immünosüpresanlar (henüz tahsis
+edilmemiştir).
+Etki mekanizması:
+Tofasitinib, insan genomunda yer alan diğer kinazlara karşı, JAK kinaz ailesine yüksek
+derecede bir seçiciliği olan, potent, selektif bir inhibitördür.
+JAKlar, hematopoez ve immün hücre fonksiyonunun hücresel aktivitelerini etkilemek için
+hücre zarının üzerinde sitokin ya da büyüme faktörü-reseptör etkileşimlerinden kaynaklanan
+sinyallerini ileten intrasellüler enzimlerdir. Sinyal yolunda, JAKlar gen ekspresyonu dahil
+intrasellüler aktiviteyi ayarlayan Sinyal Trandüser ve Transkripsiyon Aktivatörlerini (STATs)
+fosforlar ve aktive eder. Tofasitinib, STAT’ların fosforlanmasını ve aktive olmasını önler.
+Kinaz analizlerinde, tofasitinib, JAK1, JAK2, JAK3’ü ve daha düşük bir derecede de TyK2’yi
+inhibe etmektedir. JAK kinazların çiftler halinde sinyal ilettiği hücresel ortamlarda, tofasitinib
+tercihen, fonksiyonel seçicilik göstererek JAK2 çiftleri üzerinden sinyal ileten reseptörler
+yerine JAK3 ve/veya JAK1 ile ilişkili heterodimerik reseptörlerin sinyal iletimini inhibe eder.
+Tofasitinib ile JAK1 ve JAK3’ün inhibisyonu, IL-2, -4, -7, -9, -15 ve -21 dahil olmak üzere
+çeşitli sitokinlere ait ortak gamma zinciri içeren reseptörler üzerinden gerçekleşen sinyal
+iletimini bloke eder. Bu sitokinler, lenfosit aktivasyonu, proliferasyonu ve fonksiyonunun
+ayrılmaz bir parçasıdır ve sinyallerinin inhibisyonu immün yanıtın birden fazla açıdan
+modülasyonu ile sonuçlanabilir. Buna ek olarak, JAK1 inhibisyonu, IL-6 ve IFN γ gibi diğer
+bazı pro-inflamatuar sitokinlere ait sinyallerin zayıflaması ile sonuçlanacaktır. Daha yüksek
+maruziyet ile, JAK2 sinyalinin inhibisyonuna bağlı olarak eritropoietin inhibisyonu, ortaya
+çıkabilir.
+Farmakodinamik etkiler:
+JAQINUS tedavisi, dolaşımdaki CD16/56+ doğal öldürücü hücre sayısında doza bağlı
+düşüşler ile ilişkilidir, tahmini maksimum düşüşler tedavi başlangıcından yaklaşık 8-10 hafta
+sonra gerçekleşir. Bu değişiklikler genellikle tedavinin sonlandırılmasından 2-6 hafta sonra
+ortadan kalkar. JAQINUS tedavisi, B hücre sayılarında doza bağlı artış ile ilişkilidir.
+Dolaşımdaki T-lenfosit sayıları ve T-lenfosit alt tiplerindeki (CD3+, CD4+, CD8+)
+değişiklikler az miktarda ve tutarsız karakterdedir. Bu değişikliklerin klinik anlamlılığı
+bilinmemektedir.
+Romatoid artrit hastalarına 6 aylık doz sonrası IgG, IgM ve IgA seviyeleri plasebodan düşük
+olmakla beraber değişiklikler küçüktü ve doz bağımlı değildi.
+Romatoid artriti olan hastalarda JAQINUS tedavisini takiben, serum C-reaktif proteini
+seviyelerinde (CRP) hızlı bir düşüş gözlenmiş ve bu düşüş tedavi boyunca sürdürülmüştür.
+JAQINUS tedavisi ile gözlenen CRP değişiklikleri, tedavi durdurulduktan sonraki 2 hafta
+içinde tam olarak eski haline dönmemiştir, bu da ilacın yarı ömrü ile karşılaştırıldığında daha
+uzun bir farmakodinamik aktivite süresini işaret etmektedir.
+Klinik etkililik ve güvenlilik
+JAQINUS’un etkililik ve güvenliliği, American College of Rheumatology (ACR) kriterlerine
+göre tanı konmuş >18 yaşındaki aktif romatoid artritli hastaların dahil edildiği beş randomize,
+çift-kör, çok merkezli klinik çalışmada değerlendirilmiştir. Randomizasyon sırasında
+hastaların en az 6 hassas ve 6 şiş eklemi bulunmaktaydı (çalışma II için 4 şiş ve hassas
+eklem). JAQINUS, bu çalışmalarda, 5 ya da 10 mg BID dozlarında, DMARD’lara yeterli
+yanıt vermeyen hastalarda monoterapi (çalışma I) olarak ya da DMARD’lar ile birlikte
+(çalışma II) uygulanmış, ve MTX ile kombinasyon halinde MTX’e yeterli yanıt vermeyen
+14(çalışma III ve çalışma IV) ya da en az bir onaylı TNF-inhibitörü biyolojik ajana yetersiz
+yanıt veren ya da intolerans gösteren (çalışma V) hastalarda kullanılmıştır.
+Çalışma I, DMARD’a (non-biyolojik ya da biyolojik) karşı yetersiz yanıtı bulunan orta derece
+ya da şiddetli romatoid artriti bulunan 610 hastaya JAQINUS 5 ya da 10 mg BID ya da
+plasebo verilen 6 aylık bir monoterapi çalışması olarak gerçekleştirilmiştir. 3. ay vizitinde,
+plasebo tedavisine randomize edilmiş tüm hastalar kör bir şekilde daha önceden belirlenmiş
+olan JAQINUS 5 ya da 10 mg BID tedavisine geçmiştir. 3. aydaki birincil sonlanım noktaları,
+ACR20 yanıtı veren hasta oranı, Health Assessment Questionnaire-Disability Index’indeki
+(HAQ-DI) (Sağlık Değerlendirme Anketi-Engellilik İndeksi) değişiklikler ve Hastalık
+Aktivite Skoru DAS28-4 (ESR) oranları< 2.6 olmuştur.
+Çalışma II, non-biyolojik DMARD’a yetersiz yanıt veren orta derece ya da şiddetli romatoid
+artriti bulunan 792 hastaya halen kullandıkları DMARD tedavisine ek olarak (azatiyoprin ya
+da siklosporin gibi potent immünosupresif tedaviler hariç) JAQINUS 5 ya da 10 mg BID ya
+da plasebo verilen 12 ay süreli bir çalışma olarak gerçekleştirilmiştir. 3. ay vizitinde, yanıt
+vermeyen hastalar kör bir şekilde daha önceden belirlenmiş olan JAQINUS 5 ya da 10 mg
+BID tedavisine geçmiştir. 6. ayın sonunda, tüm plasebo hastaları, kör bir şekilde daha önceden
+belirlenmiş JAQINUS tedavilerinden birine geçmiştir. Birincil sonlanım noktaları, 6. ayda
+ACR20 yanıtı veren hastaların oranı, 3. aydaki HAQ-DI’deki değişiklikler ve 6. ay sonunda
+2.6’dan düşük DAS28-4 (ESR) oranları olmuştur.
+Çalışma III, MTX’e yetersiz yanıt veren orta derece ya da şiddetli romatoid artriti bulunan
+717 hastanın dahil edildiği 12 ay süreli bir çalışmadır. Hastalara halen kullandıkları MTX
+tedavisine ek olarak JAQINUS 5 ya da 10 mg BID, iki haftada bir subkutan olarak
+adalimumab ya da plasebo verilmiştir. Plasebo hastaları çalışma II’dekine benzer şekilde
+diğer gruplara alınmıştır. Birincil sonlanım noktaları, 6. ayda ACR20 yanıtı veren hastaların
+oranı, 3. aydaki HAQ-DI ve 6. ay sonunda 2.6’dan düşük DAS28-4 (ESR) oranları olmuştur.
+Çalışma IV, MTX’e yetersiz yanıt veren orta derece ya da şiddetli romatoid artriti olan 797
+hastanın halen kullandıkları MTX’e ek olarak JAQINUS 5 ya da 10 mg BID ya da plasebo
+aldığı 1. yılsonunda planlanmış bir analizi bulunan 2 yıl süreli bir çalışmadır. Plasebo
+hastaları, çalışma II’dekine benzer şekilde diğer gruplara alınmıştır Birincil sonlanım
+noktaları, 6. ayda ACR20 yanıtı veren hastaların oranı, 6. ayda ortalama modifiye van der
+Heijde Total Sharp Skoru’nda (mTSS) başlangıca göre gözlenen değişiklik, 3. aydaki HAQ-
+DI ve 6. ay sonunda 2.6’dan düşük DAS28-4 (ESR) oranları olmuştur
+Çalışma V, en az bir onaylı TNF inhibitörü biyolojik ajana yetersiz yanıt veren orta derece ya
+da şiddetli romatoid artriti bulunan 399 hastaya halen kullandıkları MTX’e ek olarak
+JAQINUS 5 ya da 10 mg BID ya da plasebo uygulanan 6 ay süreli bir çalışma olarak
+gerçekleştirilmiştir. 3. aydaki vizitte, tüm plasebo hastaları, kör bir şekilde daha önceden
+belirlenmiş JAQINUS tedavilerinden birine geçmiştir. 3. aydaki birincil sonlanım noktaları,
+ACR20 yanıtı veren hastaların oranı, HAQ-DI ve 2.6’dan düşük DAS28-4 (ESR) oranları
+olmuştur
+Çalışma VI; 5 mg veya 10 mg BID JAQINUS veya 8 hafta boyunca 20 mg’a kadar titre
+edilen MTX alan orta ila şiddetli aktif romatoid artriti olan MTX kullanmamış 952 hastada
+planlanmış birinci yıl analizleri yapılmış iki yıllık bir monoterapi çalışmasıdır. Birincil
+sonlanım noktaları 6. ayda ayda ortalama modifiye van der Heijde Total Sharp Skoru’nda
+(mTSS) başlangıca göre gözlenen değişiklik ve 6. ayda ACR20 yanıtı veren hastaların oranı
+olmuştur.
+Klinik yanıt:
+Çalışma I, IV ve V’te JAQINUS tedavisi alan hastaların ACR20, ACR50 ve ACR70 yanıtı
+yüzdeleri, tablo 4’te gösterilmektedir. Tüm çalışmalarda, 5 ya da 10 mg BID JAQINUS ile
+15tedavi edilen hastaların 3 ve 6. aylardaki ACR 20, ACR50 ve ACR70 yanıt oranları plasebo
+ile tedavi edilenlerle karşılaştırıldığında istatistiksel olarak daha anlamlı olmuştur.
+Çalışma I, II ve V’te, plasebo ile karşılaştırıldığında ACR20 yanıt oranındaki iyileşme, 2 hafta
+içinde gözlenmiştir. Çalışma II, III ve IV’te, ACR yanıt oranları JAQINUS ile tedavi edilen
+hastalarda 12 aya kadar muhafaza edilmiştir. ACR yanıtı, devam eden açık etiketli uzatma
+çalışmalarında 3 yıl boyunca muhafaza edilmiştir.
+Çalışmaların 3 aylık (çalışma I ve V) ve 6 aylık (çalışma II, III ve IV) kontrollü bölümleri
+süresince, 10 mg BID JAQINUS ile tedavi edilen hastaların yanıt oranları 5 mg BID ile tedavi
+edilenlerle karşılaştırıldığında daha yüksek olmuştur. Çalışma III’te, Birincil sonlanım
+noktaları, 6. ayda ACR20 yanıtı veren hastaların oranı, 3. aydaki HAQ-DI değişimi ve 6. ay
+sonunda 2.6’dan düşük DAS28-4 (ESR) oranları olmuştur Bu birincil sonlanım noktaları için
+elde edilen değerler 5 mg BID JAQINUS, 10 mg BID JAQINUS, iki haftada bir subkutan
+olarak verilen adalimumab 40 mg ve plasebo grupları için sırasıyla %51.5, 52.6, 47.2 and
+28.3; -0.55, -0.61, -0.49 ve -0.24; ve %6.2, 12.5, 6.7 ve 1.1 olmuştur. 6. aydaki ACR70 yanıt
+oranları, 5 mg BID ve 10 mg BID JAQINUS grupları için adalimumab grubuna göre anlamlı
+ölçüde daha fazla olmuştur (sırasıyla %19.9, 21.9 ve 9.1).
+Tedavi etkisi, hastalarda, romatoid faktör pozitifiliği, yaş, cinsiyet, ırk, daha önceki
+tedavilerin sayısı ya da hastalık durumundan bağımsız olarak benzer olmuştur. Etki başlangıcı
+hızlı olmuş (çalışma I, II ve V’te 2 hafta kadar erken) ve yanıt miktarı da tedavi süresince
+artmaya devam etmiştir. 5 mg ya da 10 mg BID JAQINUS ile tedavi edilen hastalarda, genel
+ACR yanıtı ile benzer şekilde, ACR yanıtının her bir bileşeninde; (hassas ve şiş eklem sayısı,
+hasta ve hekim global değerlendirmesi, engellilik indeks skorları, ağrı değerlendirmesi ve
+CRP dahil olmak üzere), tüm çalışmalarda plasebo artı MTX ya da diğer DMARD’ların
+uygulandığı hastalar ile karşılaştırıldığında başlangıca göre tutarlı bir şekilde iyileşme
+göstermiştir,
+Faz 3 çalışmalarındaki hastaların, başlangıçtaki ortalama Hastalık Aktivite Skoru (DAS28-4
+(ESR)) 6.1–6.7 olmuştur. 3. ayda 5 mg ve 10 mg JAQINUS ile tedavi edilen hastalarda
+DAS28-4 (ESR) değerlerinde başlangıca göre düşüş miktarı, (ortalama iyileşme) sırasıyla
+1.8–2.0 ve 1.9–2.2 olmuştur ve plasebo grubunda yer alan hastalar ile karşılaştırıldığında
+(0.7–1.1) bu düşüşler anlamlıdır. Çalışma II, III ve IV’te 6. ayda DAS28 klinik remisyonuna
+(DAS28-4 (ESR)< 2.6) erişen hastaların oranı, plasebo hastaları (%1–3) ile
+karşılaştırıldığında 5 mg ve 10 mg JAQINUS alan hastalarda (sırasıyla %6–9 ve %13–16)
+anlamlı ölçüde daha yüksek olmuştur. Çalışma III’te, 6. ayda adalimumab ile JAQINUS 5 mg
+BID ve 10 mg BID için DAS28-4 (ESR) <2.6’ya erişen hasta yüzdeleri benzer olmuştur.
+Faz 3 çalışmalarının toplu analizinde, 10 mg BID dozu, birden fazla belirti ve semptom
+ölçütünde 5 mg BID dozu ile karşılaştırıldığında daha fazla fayda sağlamıştır: başlangıca göre
+iyileşme (ACR20, ACR50, ve ACR70 yanıt oranları), DAS28 değerinde başlangıca göre
+ortalama değişim ve hedeflenen hastalık aktivite seviyesine ulaşılması(DAS28-4 (ESR) < 2.6
+ya da  3.2). 10 mg BID dozu, ACR70 yanıt oranları ve DAS28-4 (ESR) < 2.6 değerine
+erişim gibi elde edilmesi daha zor yanıtlar için de 5 mg BID dozuna göre daha fazla fayda
+sağlamıştır.
+16Tablo 4: ACR Yanıtı Elde Edilen Hastaların Oranı
+Hasta Yüzdesi
+Monoterapic MTX’e Yetersiz Yanıt TNF İnhibitörüne Yetersiz
+Verenlerd Yanıt Verenlere
+Çalışma I Çalışma IV Çalışma V
+Yanıt PBO JAQINUS JAQINUS PBO JAQINU JAQINU PBO JAQINU JAQINUS
+Oranıa 5 mg BID 10 mg BID + MTX S 5 mg S 10 mg S 5 mg 10 mg BID
+BID + BID + BID + + MTXf
+MTX MTX MTX
+N=122 N=243 N=245 N=160 N=321 N=316 N=132 N=133 N=134
+ACR20
+3 Ay %26 %59 %65 %27 %55 %67 %24 %41 %48
+6 Ay NAb %69 %70 %25 %50 %62 NA %51 %54
+ACR50
+3 Ay %12 %31 %36 %8 %29 %37 %8 %26 %28
+6 Ay NA %42 %46 %9 %32 %44 NA %37 %30
+ACR70
+3 Ay %6 %15 %20 %3 %11 %17 %2 %14 %10
+6 Ay NA %22 %29 %1 %14 %23 NA %16 %16
+a Yanıt oranı: Randomize edilmiş ve tedavi edilmiş hastaların sayısıdır
+b NA=Geçerli değildir: Plasebo grubundaki hastaların tofasitinib gruplarına randomize
+edilmesi nedeni ile Çalışma I ve V’de plasebo tedavisi için 3 aydan fazla veri
+bulunmadığından geçerli değildir
+c Yetersiz yanıt: Biyolojik veya konvansiyonel DMARD’lardan en az birine karşı etki kaybı
+veya toksisite gelişimi
+d MTX’e yetersiz yanıt: Çalışmaya girme kriterlerine uyacak hastalık aktivite düzeyine sahip
+olmak olarak tanımlanmıştır.
+e En az bir TNF inhibitörüne karşı etki kaybı ve/veya intolerans nedeni ile yetersiz yanıt
+f JAQINUS’un önerilen dozu günde iki kez 5 mg’dır.
+Çalışma IV için ACR yanıt kriterleri bileşenlerinin sonuçları, Tablo 5’te gösterilmektedir.
+Çalışma I, II, III, V ve VI’da da benzer sonuçlar gözlenmiştir.
+17Tablo 5: 3. Aylarda ACR Yanıtı Bileşenler
+Çalışma IV
+JAQINUS JAQINUS Plasebo + MTX
+5 mg BID + MTX 10 mg BID + MTX
+N=321 N=316 N=160
+Bileşen (ortalama)a Başlangıç 3. Aya Başlangıç 3. Aya Başlangıç 3. Aya
+Hassas eklem sayısı 24 13 23 10 23 18
+(0-68)
+Şiş eklem sayısı
+14 6 14 6 14 10
+(0-66)
+Ağrıb 58 34 58 29 55 47
+Hasta global 58 35 57 29 54 47
+değerlendirmeb
+Engellilik indeksi
+1.41 0.99 1.40 0.84 1.32 1.19
+(HAQ-DI)c
+Hekim global 59 30 58 24 56 43
+değerlendirmeb
+CRP (mg/L) 15.3 7.1 17.1 4.4 13.7 14.6
+a Gösterilen veri 3. aydaki ortalamadır (standart sapma).
+b Görsel analog ölçek: 0 = en iyi, 100 = en kötü
+c Sağlık Değerlendirme Anketi Kısıtlılık İndeksi: 0 = en iyi, 3 = en kötü; 20 soru; kategoriler:
+giyinme ve kendine bakım, kalkma, yemek yeme, yürüme, hijyen, erişme, kavrama ve normal
+günlük aktiviteler
+d JAQINUS’un önerilen dozu günde iki kez 5 mg’dır.
+Çalışma IV’te vizitlere göre ACR20 yanıtı veren hastaların yüzdesi, Şekil 1’de
+gösterilmektedir. Çalışma I, II, III , V ve VI’da da benzer yanıtlar gözlenmiştir.
+18Ay
+‘Non-responder imputation’ metodu kullanılmıştır. Çalışmadan çekilen hastalar ve 3. ayda eklem sayısında
+en az %20 iyileşme görülmeyen hastalar tedavi başarısızlığı olarak kabul edilmiştir.
+ŞEKİL 1: Çalışma IV’te Vizitlere Göre ACR20 Yanıtı Veren Hasta Yüzdesi
+Radyografik Yanıt
+JAQINUS’un yapısal eklem hasarı üzerine etkisini değerlendirmek için iki çalışma
+yapılmıştır.
+Çalışma IV ve VI’da, yapısal eklem hasarındaki ilerleme radyografik olarak değerlendirilmiş
+ve 6 ve 12. ayda mTSS skoru ve bu skorun bileşenleri olan, erozyon skoru ve eklem aralığı
+daralması (JSN) skorundaki değişim olarak ifade edilmiştir. Başlangıçtan 6. aya kadar olan
+sonuçlar Tablo 6’da gösterilmektedir. Radyografik ilerleme olmayan (mTSS skorundaki
+değişim 0’dan küçük veya eşit) hastaların oranı da ayrıca değerlendirilmiştir.
+Çalışma IV’de JAQINUS 10 mg BID ile MTX kullanımı; plasebo ile MTX kullanımına
+kıyasla 6. ayda yapısal hasardaki ilerlemeyi azaltmıştır. JAQINUS 5 mg BID verildiğinde
+yapısal hasarın ortalama ilerlemesinde benzer etkiler göstermiştir (istatistiki olarak anlamlı
+değildir). Bu sonuçlar Tablo 6’da gösterilmiştir. Erozyon ve JSN skorunun analizi genel
+sonuçlar ile tutarlı bulunmuştur.
+Plasebo ve MTX grubunda; hastaların %74’ünde 6. ayda radyografik ilerleme gözlenmezken;
+JAQINUS ve MTX 5 ve 10 mg BID ile tedavi edilen hastaların sırasıyla %84 ve %79’unda
+ilerleme gözlenmemiştir.
+Çalışma VI’da JAQINUS monoterapisi MTX ile karşılaştırıldığında Tablo 6’da gösterildiği
+gibi 6. ve 12. aylarda yapısal hasarın ilerlemesini inhibe etmiştir. Erozyon ve JSN skorunun
+analizi genel sonuçlar ile tutarlı bulunmuştur.
+MTX grubunda; hastaların %55’inde 6. ayda radyografik ilerleme gözlenmezken; JAQINUS
+5 ve 10 mg BID ile tedavi edilen hastların sırasıyla %73 ve %77’sinde ilerleme
+gözlenmemiştir.
+)ataH
+tradnatS
+-/+(
+ıralnarO
+tınaY
+ JAQINUS 5 mg BID x JAQINUS 10 mg BID PlaseboBaşlangıçtan 6. aya kadar olan sonuçlar Tablo 6’da gösterilmektedir.
+JAQINUS 10 mg BID, 6. ve 12. aylarda plasebo artı MTX kombinasyonu ile
+karşılaştırıldığında yapısal hasarın ilerlemesini önlemiştir. 5 mg BID dozunda verildiğinde
+JAQINUS, 6. ve 12. aylarda yapısal hasarın ortalama ilerleyişi üzerinde benzer etkiler
+göstermiştir (istatistiksel olarak anlamlı değil). 6. ve 12. aylarda radyografik ilerlemesi
+olmayan hastaların oranı (mTSS’de başlangıçtan ≤0.5 birim ilerleme olarak tanımlanan),
+plasebo ile karşılaştırıldığında JAQINUS 5 mg ve 10 mg BID gruplarında anlamlı ölçüde
+daha yüksek olmuştur.
+Tablo 6: Çalışma IV’te Başlangıçtan 6. Aya Kadar Ortalama Radyografik Değişiklik
+6. Ay*
+Plasebo + MTX JAQINUS 5 mg BID JAQINUS 10 mg BID
++ MTX + MTX
+N=277 N=290
+N=139
+Total Sharp Skoru 0.47 0.12 0.06
+Ortalama (SE) (0.16) (0.12) (0.11)
+Ortalama Fark** -0.34 -0.40
+(%95 CI) (-0.73, 0.04) (-0.79, -0.02)
+Erozyon skoru, 0.15 0.06 0.02
+Ortalama (SE) (0.08) (0.05) (0.05)
+Ortalama fark** -0.09 -0.13
+(%95 CI) (-0.27, 0.09) (-0.31, 0.05)
+JSN skoru 0.31 0.06 0.04
+Ortalama (SE) (0.13) (0.09) (0.09)
+Ortalama fark** -0.26 -0.28
+(%95 CI) (-0.57, 0.05) (-0.58, 0.03)
+Radyografik ilerleme 77.7 88.81 86.9
+olmayan hastalar (%)***
+Ortalama fark** 11.11 9.19
+(%95 CI) (3.25, 18.96) (1.26, 17.13)
+*6. ay analizinde, etkin tedaviye geçiş, tedaviden çekilme ya da takipten çıkma sonrasında doğrusal
+ekstrapolasyon uygulanmaktadır.
+**’En küçük kareler ortalaması’ değerleri arasındaki fark; (JAQINUS + MTX) – (Plasebo + MTX)
+SE = standart hata. %95 CI=%95 güven aralığı
+*** İlerleme olmaması; mTSS’de ≤0.5 birim değişim olarak tanımlanmıştır
+Fiziksel fonksiyon yanıtı ve sağlık ile ilişkili (yaşam kalitesi) sonuçlar
+Fiziksel fonksiyondaki iyileşmeler, HAQ-DI ile ölçülmüştür. JAQINUS 5 ve 10 mg BID alan
+hastalarda, 3. ay (çalışma I, II, III ve V) ve 6. ayda (çalışma II ve III) fiziksel fonksiyonlarda
+başlangıca göre gözlenen iyileşme plaseboya göre anlamlı olarak daha fazla olmuştur.
+Çalışma I ve II’de, JAQINUS 5 ve 10 mg BID ile tedavi edilen hastalarda, 2. hafta kadar
+erken bir sürede plaseboya göre anlamlı ölçüde daha fazla fiziksel fonksiyon iyileşmesi
+görülmüştür. Çalışma III’te, JAQINUS ile tedavi edilen hastalarda ortalama HAQ-DI
+iyileşmeleri 12 aya kadar muhafaza edilmiştir. Devam eden açık etiketli uzatma
+çalışmalarında HAQ-DI iyileşmeleri 36 ay boyunca muhafaza edilmiştir. 3. ay sonunda HAQ-
+DI değerlerinde gözlenen düşüşler, tofasitinib 5 mg BID alan hastalarda adalimumab ile
+benzer, 10 mg BID grubundaki hastalarda ise adalimumaba göre anlamlı olarak daha fazladır.
+Sağlık ile ilişkili yaşam kalitesi, 5 çalışmanın tamamında Short Form Health Survey (SF-36)
+(Kısa Form 36 - Sağlık Anketi) ile değerlendirilmiştir. Bu çalışmalarda, JAQINUS 10 mg
+BID alan hastalar, SF-36’nın her 8 alanında ve ayrıca Physical Component Summary (PCS)
+(Fiziksel Bileşen Özeti) ve Mental Component Summary’de (MCS) (Mental Bileşen Özeti) 3.
+20ayda plaseboya göre anlamlı olarak daha fazla iyileşme göstermişlerdir. JAQINUS ile tedavi
+edilen her iki grupta da, çalışma I, IV ve V’te 3. ayda 8 alanın tümünde ve ayrıca PCS ve
+MCS’de başlangıca göre gerçekleşen iyileşme plasebo ile karşılaştırıldığında anlamlı olarak
+daha fazla olmuştur. Çalışma III ve IV’te, ortalama SF-36 iyileşmeleri, JAQINUS ile tedavi
+edilen hastalarda 12 aya kadar muhafaza edilmiştir.
+Yorgunluk hissinde azalma, tüm çalışmalarda 3. ayda Functional Assessment of Chronic
+Illness Therapy-Fatigue (FACIT-F) (Kronik Hastalık Tedavisi Fonksiyonel Değerlendirmesi-
+Yorgunluk) skalası yoluyla değerlendirilmiştir. JAQINUS 5 ve 10 mg BID alan hastalarda, 5
+çalışmanın tamamında başlangıca göre yorgunluk hissinde azalma, plasebo ile
+karşılaştırıldığında anlamlı ölçüde daha fazla olmuştur. Çalışma III ve IV’de, ortalama
+FACIT-F iyileşmeleri, JAQINUS ile tedavi edilen hastalarda 12 aya kadar muhafaza
+edilmiştir.
+Uyku iyileşmeleri, tüm çalışmalarda 3. ayda Medical Outcomes Study Sleep (MOS-Sleep)
+ölçümünün Sleep Problems Index (Uyku Sorunları İndeksi) I ve II özet skalaları kullanılarak
+değerlendirilmiştir. JAQINUS 5 ve 10 mg BID alan hastalarda, çalışma II, III ve IV’te her iki
+skalada başlangıca göre gerçekleşen iyileşme plaseboya göre anlamlı ölçüde daha fazla
+olmuştur. Çalışma III ve IV’te, her iki skaladaki ortalama iyileşmeler, JAQINUS ile tedavi
+edilen hastalarda 12 aya kadar muhafaza edilmiştir.
+Verimlilik artışı, tüm çalışmalarda 3. ayda Work Limitations Questionnaire (WLQ) (Çalışma
+Kısıtlılıkları Anketi) skalası kullanılarak değerlendirilmiştir. JAQINUS 10 mg BID alan
+hastalarda, Çalışma III, IV ve V’te Overall Output Summary Scale’de (Genel Sonuç Özet
+Skalası) başlangıca göre gözlenen iyileşme plasebo ile karşılaştırıldığında anlamlı ölçüde
+daha fazla olmuştur. Çalışma III ve IV’te, ortalama Genel Sonuç (Overall Output)
+iyileşmeleri, JAQINUS 10 mg BID ile tedavi edilen hastalarda 12 aya kadar muhafaza
+edilmiştir.
+Sağlık ile ilgili diğer sonuçlar
+Genel sağlık durumu Short Form Health Survey (SF-36) (Kısa Form 36 - Sağlık Anketi) ile
+değerlendirilmiştir. Çalışma I, IV ve V’te, günde iki kez JAQINUS 5 mg veya günde iki kez
+JAQINUS 10 mg alan hastalar 3. ayda plasebo ile karşılaştırıldığında başlangıca göre Physical
+Component Summary (PCS) (Fiziksel Bileşen Özeti) ve Mental Component Summary’de
+(MCS) (Mental Bileşen Özeti) ve SF-36’nın 8 alanının tümünde daha fazla gelişme
+göstermiştir.
+5.2 Farmakokinetik özellikler
+Genel özellikler
+Tofasitinibin farmakokinetik (PK) profili, hızlı emilim (tepe plazma konsantrasyonlarına 0.5-
+1 saat içinde erişilmektedir), hızlı eliminasyon (~3 saatlik yarı ömür) ve sistemik maruziyette
+doz ile orantılı artışlar ile karakterizedir. BID uygulama sonrasında kararlı durum
+konsantrasyonlarına 24-48 saat içinde ihmal edilebilir birikme ile erişilmektedir.
+Emilim
+Tofasitinib, iyi bir şekilde absorbe edilmektedir ve oral biyoyararlanımı %74’tür.
+JAQINUS’un, yüksek yağ içerikli bir yemek ile birlikte alınması, EAA’da herhangi bir
+değişiklik yaratmazken C ’ı %32 oranında azaltmıştır. Klinik çalışmalarda, tofasitinib
+maks
+yemekten bağımsız olarak uygulanmıştır.
+Dağılım
+İntravenöz uygulamadan sonra, dağılım hacmi 87 L’dir. Tofasitinibin protein bağlanma oranı
+~%40’dır. Tofasitinib, ağırlıklı olarak albumine bağlanmaktadır ve 1-asit glikoproteine
+21bağlanıyor gibi görünmemektedir. Ayrıca alyuvarlar ve plazma arasında eşit olarak
+dağılmaktadır.
+Biyotransformasyon ve eliminasyon
+Tofasitinib için klerens mekanizmaları, ana ilacın yaklaşık %70’inin hepatik metabolizasyon
+ile ve %30’unun böbrek yoluyla atılması şeklindedir. Tofasitinib, ana olarak CYP3A4 ile
+metabolize edilir, CYP2C19’un minör bir katkısı vardır. Bir radyoaktif işaretleme
+çalışmasında, toplam radyoaktivitenin %65’inden fazlası değişmemiş ilaca; geri kalan %35’i
+her biri %8’den az radyoaktiviteye sahip olan 8 metabolite ait bulunmuştur. Tofasitinibin
+farmakolojik etkinliği, ana moleküle atfedilmektedir.
+Doğrusallık/doğrusal olmayan durum
+Tofasitinibin farmakokinetiği dozla ilişkili olarak doğrusaldır
+Hastalarda karakteristik özellikler:
+RA hastalarında farmakokinetik
+RA hastalarındaki popülasyon PK analizi, aşırı uçlarda yer alan vücut ağırlıklarında (40 kg ila
+140 kg) tofasitinibin sistemik maruziyetinin (EAA), 70 kg ağırlığındaki bir hastada gözlenen
+ile benzer olduğunu göstermiştir. Yaşlı hastalarda (80 yaş), EAA’nın, ortalama yaşı 55 olan
+hasta grubuna göre <%5 daha yüksek olduğu tahmin edilmektedir. Kadınlarda EAA’nın
+erkeklere göre %7 oranında daha düşük olduğu tahmin edilmektedir. Mevcut veriler ayrıca,
+beyaz ırk, siyah ırk ve Asyalılar arasında tofasitinib EAA açısından majör farklılıklar (≤%5)
+olmadığını göstermiştir. Vücut ağırlığı ve dağılım hacmi arasında yaklaşık olarak doğrusal bir
+ilişki gözlenmiştir ve bu da vücut ağırlığı daha az olan hastalarda daha yüksek bir tepe
+konsantrasyonu (C ) ve daha düşük bir vadi konsantrasyouna (C ) neden olmaktadır.
+maks min
+Bununla birlikte,, bu farkın klinik olarak önemli olmadığı düşünülmektedir. Tofasitinib
+EAA’sındaki kişiler-arası değişkenliğin (% varyasyon katsayısı), yaklaşık %27 olduğu tahmin
+edilmektedir.
+Böbrek yetmezliği
+Hafif, orta ve şiddetli böbrek yetmezliği olan gönüllülerde, sağlıklı gönüllülerle
+karşılaştırıldığında sırasıyla %37, %43 ve %123 oranında artmış EAA değerleri gözlenmiştir.
+(bakınız bölüm 4.2). Son evre böbrek yetmezliği olan gönüllülerde, diyalizin tofasitinib
+toplam klirensine katkısı göreceli olarak az olmuştur.
+Karaciğer yetmezliği
+Hafif ve orta derece karaciğer yetmezliği olan gönüllülerde, sağlıklı gönüllülerle
+karşılaştırıldığında sırasıyla %3 ve %65 oranında artmış EAA değerleri gözlenmiştir. Şiddetli
+karaciğer yetmezliğinde yürütülmüş çalışma yoktur. (bakınız bölüm 4.2).
+Pediatrik popülasyon
+Tofasitinibin pediatrik hastalardaki farmakokinetiği, güvenliliği ve etkinliği belirlenmemiştir.
+Özel popülasyonlar
+Böbrek ve karaciğer yetmezliği ve diğer intrinsik faktörlerin tofasitinibin farmakokinetiği
+üzerine etkisi Şekil 2’de verilmektedir.
+22Şekil 2: İntrinsik Faktörlerin Tofasitinibin Farmakokinetiği Üzerindeki Etkisi
+* Diyalizden sonra hastalara takviye doz verilmesi gerekmez.
+Kilo, yaş, cinsiyet ve ırk karşılaştırmalarına ilişkin referans değerleri sırasıyla 70 kg, 55 yaş, erkek ve beyazdır.
+Böbrek ve karaciğer bozukluğu verilerine ilişkin referans grupları normal böbrek ve karaciğer fonksiyonuna
+sahip gönüllülerden oluşur.
+İlaç Etkileşimleri
+JAQINUS'un Diğer İlaçların Farmakokinetiğini Etkileme Potansiyeli
+JAQINUS uygulamasını takiben eşzamanlı şekilde uygulanacak olan ilaçlara ilişkin dozaj
+önerileri Şekil 3'de gösterilmektedir.Şekil 3. JAQINUS'un Diğer İlaçların Farmakokinetiği Üzerindeki Etkisi
+Not: Referans grubuna yalnızca eşzamanlı ilaç uygulanmıştır; OKT = Organik Katyonik Transporter; MATE =
+Çoklu İlaç ve Toksik Madde Ekstrüzyonu
+Diğer İlaçların Tofasitinibin Farmakokinetiğini Etkileme Potansiyeli
+Tofasitinib CYP3A4 tarafından metabolize edildiğinden, CYP3A4'ü inhibe eden ya da
+indükleyen ilaçlarla etkileşim olasıdır. Tek başına CYP2C19'u ya da P-glikoproteini inhibe
+eden maddelerin tofasitinibin farmakokinetiğini önemli düzeyde değiştirmesi olası değildir.
+JAQINUS'un CYP inhibitörleriyle ya da indükleyicileriyle birlikte uygulanmasına ilişkin
+dozaj önerileri Şekil 4'te gösterilmektedir.
+Şekil 4. Diğer İlaçların JAQINUS'un Farmakokinetiği Üzerindeki Etkisi
+Not: Referans grubuna yalnızca tofasitinib uygulanmıştır5.3 Klinik öncesi güvenlilik verileri
+Klinik olmayan çalışmalarda, immün ve hematopoietik sistemler üzerinde tofasitinibin
+farmakolojik özellikleri (JAK inhibisyonu) ile ilişkilendirilen etkiler gözlenmiştir. Klinik ile
+ilişkilendirilebilecek dozlarda, bakteriyel ve viral enfeksiyonlar ve lenfoma gibi
+immünosupresyondan kaynaklanan ikincil etkiler görülmüştür. İnsanlara uygulanan dozların
+oldukça üzerinde olan dozlar ile ortaya çıkan diğer bulgular arasında karaciğer ve
+gastrointestinal sistemler üzerindeki etkiler yer almıştır.
+5 mg/kg BID dozunda tofasitinib u
+ygulanan 8 yetişkin maymunun 3’ünde lenfoma gözlenirken 14 juvenil maymunun hiçbirinde
+lenfoma gözlenmemiştir. Lenfomalar için NOAEL (No Observable Adverse Effect Level)
+(Hiç Advers Etki Gözlenmeyen Seviye), 1 mg/kg BID olmuştur. 1mg/kg BID dozundaki bağlı
+olmayan ilaç EAA’sı, 341 ng•h/mL olmuştur, bu da 10 mg BID dozundaki bağlı olmayan ilaç
+EAA’nın yaklaşık yarısıdır ve insanlarda 5 mg BID’deki bağlı olmayan ilaç EAA ile
+benzerdir.
+Gen mutasyonları ve krozomal aberasyonlara yönelik yapılan bir dizi in vitro ve in vivo
+testlerin bulgularına, tofasitinib mutajenik veya genotoksik değildir.
+Tofasitinibin karsinojenik potansiyeli, 6 ay süreli rasH2 transjenik fare ve 2 yıl süreli sıçan
+karsinojenite çalışmalarında değerlendirilmiştir. Tofasitinib, farelerde 200 mg/kg/gün dozuna
+kadar karsinojenik olmamıştır (bu doz ile bağlı olmayan ilaç EAA’sı, insanda 10 mg BID
+dozu ile gözlenen EAA’nın ~19 katıdır.).
+Sprague-Dawley sıçanlarında yapılan 24 aylık oral karsinojenisite çalışmasında, tofasitinib 30
+mg/kg/gün dozuna eşit veya daha yüksek dozlarda (EAA değerlendirmesinde, maksimum
+önerilen insan dozunun yaklaşık 42 katı maruziyet seviyesinde) benign Leydig hücre
+tümörleri, hibernomalar (kahverengi yağ dokusunun malignitesi) ve benign timomalara yol
+açmıştır.
+Tofasitinibin sıçan ve tavşanlarda teratojenik olduğu ve sıçanlarda dişi fertilitesi, doğumu ve
+perinatal/postnatal gelişim üzerinde etkisi olduğu gösterilmiştir Tofasitinibin, erkek fertilitesi,
+sperm motilitesi ya da sperm konsantrasyonu üzerinde etkisi olmamıştır. Tofasitinib emziren
+sıçanların sütünde salgılanmıştır.
+Çevresel Risk Değerlendirmesi (ERA)
+Geçerli değil
+6. FARMASÖTİK ÖZELLİKLER
+6.1 Yardımcı maddelerin listesi
+Mikrokristalin selüloz
+Laktoz monohidrat
+Kroskarmelloz sodyum
+Magnezyum stearat
+Film Kaplama: Opadry® II Beyaz (33G28523) aşağıdakileri içermektedir:
+HPMC 2910 /Hipromelloz 6cP
+Titanyum dioksit
+Laktoz monohidrat
+Makrogol/PEG3350
+Triasetin (gliserol triasetat)
+256.2 Geçimsizlikler
+Bilinen bir geçimsizliği bulunmamaktadır.
+6.3 Raf Ömrü
+24 ay
+6.4 Saklamaya yönelik özel tedbirler
+30°C’nin altındaki oda sıcaklığında saklayınız
+Orijinal ambalajında saklayınız.
+6.5 Ambalajın niteliği ve içeriği
+56 film kaplı tablet içeren folyo / folyo blisterleri.
+6.6 Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+30°C’nin altındaki oda sıcaklığında saklayınız.
+Kullanılmamış olan ürünler ya da atık materyaller ‘Tıbbi atıkların kontrolü yönetmeliği’ ve
+‘Ambalaj ve Ambalaj Atıklarının Kontrolü Yönetmelikleri’ne uygun olarak imha edilmelidir.
+7. RUHSAT SAHİBİ
+Pfizer İlaçları Ltd.Şti.
+Muallim Naci Cad. No:55
+34347 Ortaköy/İSTANBUL
+Tel.: 0 212 310 70 00
+Fax.: 0 212 310 70 58
+8. RUHSAT NUMARASI/NUMARALARI
+2014/464
+9. İLK RUHSAT TARİHİ/RUHSAT YENİLENME TARİHİ
+İlk ruhsat tarihi: 29/05/2014
+Ruhsat yenileme tarihi:
+10. KÜB’ün YENİLENME TARİHİ
+26

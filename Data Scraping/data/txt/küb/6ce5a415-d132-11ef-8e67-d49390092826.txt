@@ -1,0 +1,312 @@
+KISA ÜRÜN BİLGİSİ
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI
+İNNOHEP 20.000 IU/ml kullanıma hazır enjektör 0.7 ml
+2. KALİTATİF VE KANTİTATİF BİLEŞİM
+Etkin madde:
+0.7 ml enjektör içinde 14.000 IU tinzaparin sodyum içerir.
+Yardımcı maddeler:
+Sodyum metabisülfit (E223) 1.281 mg
+Yardımcı maddeler için, bkz. 6.1.
+3. FARMASÖTİK FORM
+Berrak (bulanık olmayan), tortusuz, renksiz veya saman rengi sıvı içeren kullanıma hazır
+enjektör
+4. KLİNİK ÖZELLİKLER
+4.1. Terapötik endikasyonlar
+- Derin ven trombozunun ve pulmoner embolinin tedavisi
+- Genel cerrahi veya ortopedik operasyon geçiren hastalarda post-operatif derin ven
+trombozunun önlenmesi
+- Hemodiyaliz ve kanın vücut-dışı dolaşımı için oluşturulmuş intravenöz yollarda
+pıhtılaşmanın önlenmesi
+4.2. Pozoloji ve uygulama şekli
+Pozoloji/uygulama sıklığı ve süresi:
+Derin Ven Trombozu ve Pulmoner Emboli Tedavisinde:
+Önerilen doz günde bir kez subkutan olarak uygulanan, 175 Anti-Xa IU/kg vücut ağırlığıdır.
+Orta ölçüde tromboz riski olan hastalarda tromboprofilaksi (genel cerrahi):
+Ameliyat gününde ameliyattan 2 saat önce subkutanöz yoldan 3.500 Anti-Xa IU ve
+ameliyattan sonra 7-10 gün süreyle günde bir kez 3.500 Anti-Xa IU.
+Yüksek ölçüde tromboz riski olan hastalarda tromboprofilaksi (örn. total kalça replasmanı):
+Ameliyat gününde ameliyattan 12 saat önce subkutanöz yoldan 4.500 Anti-Xa IU ve
+ameliyattan sonra 7-10 gün süreyle günde bir kez 4.500 Anti-Xa IU veya ameliyattan 2 saat
+önce ve ameliyattan sonra 7-10 gün süreyle günde bir kez 50 Anti-Xa IU/kg vücut ağırlığı.
+Kısa süreli hemodiyaliz için (4 saatten daha kısa):
+Diyalizin başlangıcında diyalizörün arteriyel tarafına (veya intravenöz olarak) 2.000-2.500
+Anti-Xa IU’luk bolus bir doz.
+1Uzun süreli hemodiyaliz için (4 saatten daha uzun):Diyalizin başlangıcında diyalizörün
+arteriyel tarafına (veya intravenöz olarak) 2.500 Anti-Xa IU’luk bolus bir dozun ardından
+infüzyonla 750 Anti-Xa IU/saat.
+Doz Ayarlama:
+Tatmin edici bir cevap alınıncaya kadar bolus dozda 250-500 Anti-Xa IU’luk arttırma veya
+azaltmalar yapılabilir.
+Uygulama şekli:
+İNNOHEP (hemodiyaliz dışında) subkütan enjeksiyonla uygulanır ve herhangi bir diğer
+enjeksiyonla karıştırılmamalıdır Hemodiyaliz sırasında ise diyalizörün arteriyel tarafına veya
+intravenöz olarak uygulanabilir.
+Uygulamadan önce enjektörün içeriği gözlenmelidir: Eğer bulanıklık veya çökelti varsa
+kullanılmamalıdır. Solüsyonun renginin depolama esnasında sarıya dönmesi söz konusu
+olabilir, ancak bu durum solüsyonun kullanılmasına engel değildir, kullanılabilir.
+İNNOHEP 20.000 IU/ml kullanıma hazır enjektörler 0.05 ml’lik derecelendirmelere sahiptir
+ve bu hastanın vücut ağırlığına göre en uygun dozun uygulanmasını sağlar. Önerilen dozun
+uygulanabilmesi için subkütan enjeksiyondan önce fazla olan miktar dik tutularak dışarı atılır.
+İNNOHEP sadece izotonik sodyum klorür (9 mg/ml) veya izotonik glukozla (50 mg/ml)
+geçimlidir. Diğer herhangi bir infüzyon sıvısıyla karıştırılmamalıdır.
+Özel popülasyonlara ilişkin ek bilgiler:
+Böbrek yetmezliği:
+Böbrek yetmezliğinden şüpheleniliyorsa, kreatinin klerens düzeyini tahmin etmek için serum
+kreatinine dayanan formülü kullanarak renal fonksiyon değerlendirilmelidir. Mevcut veriler
+kreatinin klerensi 20 ml/dak’ya kadar olan hastalarda herhangi bir birikim göstermemektedir.
+Fakat, ciddi böbrek yetmezliği olan hastalarda (kreatinin klerensi<30 mL/dak) tedavi ederken
+dikkatli olunmalıdır. Kreatinin klerensi 20 mL/dak’nın altında olan hastalarda ise sınırlı veri
+mevcuttur. (bkz 4.4).
+Pediyatrik popülasyon:
+18 yaşın altındaki çocuklarda etkinliği ve güvenliliği gösterilmemiştir.
+Geriyatrik popülasyon:
+İNNOHEP yaşlılarda standart dozlarda kullanılmalıdır. Böbrek yetmezliği olan yaşlı
+hastaların tedavisinde dikkatli olunmalıdır. (bkz 4.2 ve 4.4).
+4.3. Kontrendikasyonlar
+- Bileşimindeki maddelerden herhangi birine karşı bilinen aşırı duyarlılığı olanlar,
+- Halen veya geçmişte immun kaynaklı heparin kullanımına bağlı trombositopeni öyküsü
+(tip II) olanlar (bkz 4.4),
+- Aktif major hemoraji veya major hemorajiye neden olacak durumlar Major hemoraji
+aşağıdaki 3 kriterden herhangi birinin varlığı olarak tanımlanır:
+2 Önemli bir yer veya organda meydana gelir (ör. İntrakraniyal, intraspinal,
+intraoküler, retroperitoneal, intraartiküler, kompartman sendromu ile birlikte
+periartiküler, intraartiküler veya intramuskuler)
+ Hemoglobin düzeylerinde 20 g/dL veya üzerinde düşüş veya
+ 2 veya daha fazla ünite tam kan veya eritrosit ihtiyacına gereksinim vardır
+- Septik endokardit
+- Nöraksiyal (spinal ya da epidural) anestezi alan hastalarda İNNOHEP (175 IU/kg
+tedavi dozunda) kontrendikedir.
+20.000 anti-Xa IU/ml içeren formülasyonlar sodyum metabisülfit içerdiğinden, bu maddeye
+karşı alerjisi olduğu bilinen kişilerde kullanılmamalıdır.
+4.4. Özel kullanım uyarıları ve önlemleri
+- Hemoraji:
+Hemoraji riski olan hastalarda İNNOHEP uygulanırken dikkatli olunmalıdır. Major hemoraji
+riski olan hastalarda bkz 4.3. Platelet fonksiyonunu veya koagülasyon sistemi etkileyen
+ürünlerle kombinasyondan kaçınılmalı veya dikkatli izlenmelidir (bkz 4.5).
+- İntramusküler uygulama
+İNNOHEP, hematom oluşumu riski nedeniyle intramusküler enjeksiyonla uygulanmamalıdır.
+İNNOHEP tedavisi sırasında hematom oluşma riski nedeniyle diğer intramusküler enjeksiyon
+tedavilerinden kaçınılmalıdır.
+- Heparin kullanımına bağlı trombositopeni:
+İmmun kaynaklı heparin kullanımına bağlı trombositopeni (tip II) riski nedeniyle tedavi
+başlamadan önce trombosit sayımı yapılmalı ve tedavi sonrasında periyodik olarak takip
+edilmelidir. İNNOHEP, immun kaynaklı heparin kullanımına bağlı trombositopeni (tip II)
+vakalarında kesilmelidir (bkz 4.3 ve 4.8). Tedavi kesilmesini takiben 2-4 hafta içinde
+trombosit sayımı genellikle normale döner.
+- Hiperkalemi
+Heparin ürünleri adrenal sekresyonu ve aldosteronu baskılayarak hiperkalemiye yol açabilir.
+Risk faktörleri, diabetes mellitus, kronik böbrek yetmezliği, geçirilmiş metabolik asidoz,
+tedavi öncesi artmış plazma potasyum, plazma potasyumu artıran ilaçlarla birlikte kullanım ve
+uzun süreli İNNOHEP kullanımıdır. Risk altındaki hastalarda İNNOHEP tedavisine
+başlamadan önce potasyum düzeyleri ölçülmeli ve sonrasında düzenli olarak izlenmelidir.
+Heparinle ilişkili hiperkalemi tedaviyi kesilmesini takiben genellikle geri dönüşümlü olup,
+İNNOHEP tedavisinin kesinlikle gerekli olduğu hastalarda ise diğer yaklaşımların
+düşünülmesi gerekebilir (ör. Potasyum alımını azaltmak, potasyum dengesini etkileyen diğer
+ilaçları kesmek)
+- Yapay kalp kapağı
+İNNOHEP’in tüm antikoagülan dozları veya düşük molekül ağırlıklı heparin alan yapay
+kalp hastalığı olan hastalarda tedavi başarısızlığı bildirilmiştir. İNNOHEP, bu hasta
+grubunda önerilmemektedir.
+3 Spinal lomber ponksiyon, spinal anestezi veya epidural anestezi
+Spinal lomber ponksiyon, spinal anestezi veya epidural anestezi uygulanan hastalarda düşük
+molekül ağırlıklı heparin enjeksiyonu ile spinal/epidural kateter veya iğnenin yerleştirilmesi
+ya da çıkarılması arasında en az profilaktik doz için 12 ve tedavi dozu için 24 saat
+bırakılmalıdır. Böbrek yetmezliği olan hastalarda zaman aralığının daha uzun olması
+düşünülebilir.
+Hastalar nörolojik bozukluğun semptom ve bulguları yönünden sık sık izlenmelidir. Eğer
+nörolojik bir tehlike söz konusu ise acil tedavi gereklidir.
+- Böbrek yetmezliği
+Mevcut veriler, kreatinin klerensi 20 mL/dakikaya kadar olan hastalarda birikmeye yol
+açmadığını göstermektedir. Anti Xa izlenmesi İNNOHEP’in farmakodinamik etkilerinin en
+uygun ölçümü olmasına rağmen, hemoraji riskinin zayıf bir göstergesi olarak kalmaktadır.
+Yine de ciddi böbrek yetmezliği olan hastalarda (kreatinin klerensi<30 mL/dak) antiXa
+aktivitesi ölçümü düşünülebilir. Ciddi böbrek yetmezliği olan hastalarda (kreatinin
+klerensi<30 mL/dak) tedavi ederken dikkatli olunmalıdır. Kreatinin klerensi 20 mL/dak’nın
+altında olan hastalarda ise sınırlı veri mevcuttur.
+- Yaşlılar
+Yaşlıların böbrek fonksiyonlarında azalma olasılığı yüksektir (bkz 4.4 böbrek yetmezliği); bu
+yüzden yaşlılarda İNNOHEP uygularken dikkatli olunmalıdır.
+İNNOHEP 20.000 antiXa IU/mL sodyum metabisülfit içermektedir. Metabisülfit nadiren
+ciddi hipersensitivite ve bronkospazma neden olabilir. Bu yüzden sodyum metabisülfit içeren
+İNNOHEP ürünleri astım hastalarında dikkatli kullanılmalıdır.
+Bu ürün 1 mmol’den daha düşük sodyum içerir. Dozu nedeniyle uyarı gerekmemektedir.
+4.5. Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri
+Pıhtılaşma sistemini etkileyen ilaçlarla birlikte kullanımda İNNOHEP’in antikoagülan etkisi
+artabilir; bu ilaçlar pıhtılaşma fonkiyonunu inhibe eden ajanlar (örn. asetilsalisilik asit ve
+diğer non-steroid antiinflamatuvar ilaçlar) trombolitik ajanlar, vitamin K antagonistleri, aktive
+edilmiş protein C, direk faktör Xa ve IIa inhibitörleridir. Bu kombinasyonlardan kaçınılmalı
+veya dikkatli izlenmelidir (bkz 4.4).
+4.6. Gebelik ve laktasyon
+Genel tavsiye
+Gebelik Kategorisi B' dir.
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon)
+İNNOHEP’İN çocuk doğurma potansiyeli bulunan kadınlar üzerinde yapılmış çalışması
+bulunmamaktadır. Çocuk doğurma potansiyeli bulunan kadınların kullanması halinde ek bir
+doğum kontrol yöntemi kullanılıp kullanılmaması konusunda herhangi bir veri yoktur.
+4Gebelik Dönemi
+Hayvanlar üzerinde yapılan çalışmalar, gebelik/embriyonel/fetal gelişim/doğum ya da doğum
+sonrası gelişim ile ilgili olarak doğrudan ya da dolaylı zararlı etkiler olduğunu
+göstermemektedir. Gebe kadınlarda yüksek sayıdaki veri (2200’den fazla gebelik sonucu)
+tinzaparin’in malformasyona veya feto/neonatal toksisiteye yol açmadığını göstermiştir.
+Tinzaparin plasentayı geçmez, bu yüzden klinik olarak gerekli olduğunda tüm trimesterlerde
+İNNOHEP kullanılabilir.
+Gebe kadınların antikoagülan tedavisi özel önlem gerektirir.
+Epidural anestezi:
+Spinal hematom riski nedeniyle, nöraksiyal anestezi alan hastalarda 175 IU/kg tedavi
+dozundaki İNNOHEP kontrendikedir. Bu yüzden, gebe kadınlarda epidural anestezi
+İNNOHEP son dozundan en az 24 saat sonrasına ertelenmelidir. İNNOHEP son dozu ve iğne
+veya kateter yerleştirmesi arasında en az 12 saat ara olma şartıyla profilaktik dozlar
+uygulanabilir.
+Yapay kalp kapağı olan gebe kadınlar:
+Yapay kalp kapağı olan gebe kadınlarda İNNOHEP’in tam antikoagülan dozları ve diğer
+düşük molekül ağırlıklı heparin ile terapötik başarısızlık bildirilmiştir. Bu popülasyonda
+İNNOHEP kullanılmamalıdır.
+Laktasyon dönemi:
+Hayvan verileri İNNOHEP’in anne sütüne minimal geçtiğini belirtmektedir.
+Tinzaparin’in insan sütüne geçtiği bilinmemektedir. Düşük molekül ağırlıklı heparinlerin oral
+absorpsiyonu muhtemel dışı da olsa, İNNOHEP’in bu popülasyonda kullanımı
+önerilmemektedir
+Risk altındaki hastalarda, doğum sonrası ilk 6 haftada venöz tromboembolizm insidansı
+özellikle yüksektir.
+Emziren kadınlarda risk yarar değerlendirmesi yapılarak karar verilmelidir.
+Üreme yeteneği / Fertilite:
+Üreme yeteneği üzerine yapılmış klinik çalışma yoktur.
+4.7. Araç ve makine kullanımı üzerindeki etkiler
+İNNOHEP’in araç ve makine kullanımını etkilemesi beklenmemektedir veya göz ardı
+edilecek şekilde düşüktür.
+4.8. İstenmeyen etkiler
+En sık rapor edilen istenmeyen etkiler, kanama olayları, hemorajiye sekonder gelişen anemi
+ve injeksiyon yeri reaksiyonlarıdır.
+5Hemoraji herhangi bir organda gelişebilir ve farklı şidette oluşur. Yüksek dozlar
+uygulandığında komplikasyonlar oluşabilir. Major hemoraji sık gözlenmese de, bazı
+vakalarda ölüm veya kalıcı sakatlık bildirilmiştir.
+İmmun kaynaklı heparine bağlı trombositopeni (tip II) çoğunlukla ilk dozu takiben 5-14 gün
+içinde gözlenir. Ayrıca, daha önceden heparin uygulanmış hastalarda hızlı başlangıç
+bildirilmiştir. İmmun kaynaklı heparine bağlı trombositopeni (tip II) arteriel ve venöz
+trombozla ilişkili olabilir. İNNOHEP tüm immun kaynaklı heparine bağlı trombositopeni
+vakalarında kesilmelidir (bkz 4.4).
+Nadiren İNNOHEP hiperaldosteronizm sonucu hiperkalemiye neden olabilir. Risk altındaki
+hastalar, diabetes mellitus veya böbrek yetmezliğidir (bkz 4.4).
+Ciddi alerjik reaksiyonlar bazen oluşabilir. Bu vakalar nadiren de olsa; deri nekroz, Stevens
+Johnson sendromu, anjioödem ve anafilaksidir. Bu ciddi reaksiyonlardan şüphelendildiğinde
+ilaç tedavisi hemen kesilmelidir.
+Sıklıklar şu şekilde tanımlanır: Çok yaygın (≥1/10); yaygın (≥1/100 ila <1/10); yaygın
+olmayan (≥1/1.000 ila <1/100); seyrek (≥1/10.000 ila <1/1.000); çok seyrek (<1/10.000);
+bilinmiyor (eldeki verilerden hareketle tahmin edilmiyor).
+Kan ve lenf sistemi hastalıkları
+Yaygın: Anemi
+Yaygın olmayan: Trombositopeni (tip 1)
+Seyrek: Heparine bağlı trombositopeni (tip II), trombositoz
+Bağışıklık sistemi hastalıkları
+Yaygın olmayan: Hipersensitivite
+Seyrek: Anafilaktik reaksiyonlar
+Metabolizma ve beslenme hastalıkları
+Seyrek: Hiperkalemi
+Vasküler hastalıkları
+Yaygın: Hemoraji, hematom
+Yaygın olmayan: Morarma, purpura.
+Hepato- biliyer hastalıkları
+Yaygın olmayan: Karaciğer enzimlerinde yükselme
+Deri ve deri altı doku hastalıkları
+Yaygın olmayan: Dermatit, döküntü, kaşıntı
+Seyrek: Toksik epidermal nekroz (Stevens Johnson sendromu), deri nekrozu, anjioödem,
+ürtiker
+Kas-iskelet bozukluklar, bağ doku ve kemik hastalıkları
+Seyrek: Osteoporoz (uzun süreli tedavi ile ilişkili)
+6Üreme sistemi hastalıkları
+Seyrek: Priapizm
+Genel bozukluklar ve uygulama bölgesine ilişkin hastalıkları
+Yaygın: Enjeksiyon yeri reaksiyonları ( hematom, hemoraji, ağrı, kaşıntı, nodül, eritem)
+Şüpheli advers reaksiyonların raporlanması
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye
+Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir (www.titck gov.tr;e-
+posta:tufam@titck.gov.tr;tel:0800 314 00 08;faks:0 312 21835 99)
+4.9. Doz aşımı ve tedavisi
+İNNOHEP’in doz aşımının ana komplikasyonu hemorajidir. Rölatif olarak İNNOHEP’in kısa
+yarı ömrü nedeniyle (Bkz. 5.2) minor kanamalar tedavinin sonlandırılmasını takiben
+konservatif olarak tedavi edilebilir. Ciddi hemoraji durumunda antidot protamin sülfatın
+uygulaması gerekebilir. Hastalar dikkatli bir şekilde izlenmelidir.
+5. FARMAKOLOJİK ÖZELLİKLER
+5.1. Farmakodinamik özellikler
+Farmakoterapötik grup: Hematolojik ilaçlar – Düşük molekül ağırlıklı heparinler
+ATC kodu: B 01 AB 10
+Tinzaparin sodyum antitrombotik özellikler taşıyan düşük molekül ağırlıklı bir heparindir.
+Anti-Xa/Anti-IIa oranı 1.5-2.5 arasındadır. Tinzaparin sodyum, geleneksel anfraksiyone
+heparinin enzimatik depolimerizasyonu ile üretilir. Başta Xa olmak üzere aktive olmuş pek
+çok koagülasyon faktörlerinin potent ortak inhibitörü olarak etkisini gösterir.
+Tinzaparin sodyumun biyolojik aktivitesi, “Birinci Düşük Moleküler Ağırlıklı Heparinler için
+İnternasyonel Standartlar”a göre standardize edilmiştir ve Anti-Xa İnternasyonel Ünite (IU)
+olarak ifade edilir.
+Tinzaparin sodyumun Anti-Xa aktivitesi 70 IU/mg’dan düşük, 120 IU/mg’dan yüksek
+değildir. Anti-IIa aktivitesi yaklaşık 55 IU/mg’dır. Ortalama molekül ağırlığı 6.500’dir.
+Moleküler ağırlığı 2.000’in altındaki zincirlerin oranı %10’dan fazla değildir. Molekül ağırlığı
+2.000-8.000 arasındaki zincirlerin oranı %60-72 arasındadır (ortalama %66). Moleküler
+ağırlığı 8.000’in üzerindeki zincirlerin oranı ise %22-36 arasındadır.
+5.2. Farmakokinetik Özellikler
+Emilim:
+Subkutan uygulama sonrası anti Xa aktiviteye dayanan mutlak biyoyaralanım yaklaşık %90
+olup, maksimum aktiviteye ulaşma süresi 4-6 saattir.
+7Dağılım:
+Vd: 3.1-5L*
+*Cher,S.M,2004-Hoy,S.M,2010 ve Micromedex
+Biyotransformasyon:
+Tinzaparin sodyum, karaciğerde çok az oranda desülfasyon ve depolimerizasyonla metabolize
+olur ve çoğunlukla değişmemiş ilaç olarak idrarla atılır.
+Eliminasyon:
+Terminal yarı ömrü yaklaşık 3,7 saattir. İNNOHEP’in farmakolojik etkisinin uzun yarılanma
+ömrü olduğu için günde tek doz yeterlidir.
+Hastalardaki Karakteristik Özellikler :
+İNNOHEP’in gebelikteki farmakokinetik özellikleri incelenmiştir. İNNOHEP ile 55 gebede
+yapılan farmakokinetik monitarizasyon verileri, gebe olmayanlardakinden farkılılık
+göstermemiştir. İlerleyen gebelik haftası ile beraber Anti-Xa seviyelerinde istatistiksel olarak
+anlamlı olmayan küçük bir düşüş gözlemlenmiştir. Tedavinin ilk haftaları ile gebeliğin ileri
+döneminde tinzaparin sodyum uygulamasından 4 saat sonra tepe anti Xa düzeylerinin
+izlenmesi önerilmektedir.
+Böbrek yetmezliği
+Kreatinin klerensi 20ml/dk ve üzerinde olan hastalarda doz azaltılmasına gerek yoktur. Ancak
+ciddi renal yetmezliği olan (kreatinin klerensi <30ml/dk) hastaları tedavi ederken dikkatli
+olunmalıdır (bkz 4.4).
+5.3. Klinik öncesi güvenlilik verileri
+Genelde heparinler ve düşük molekül ağırlıklı heparinler hafif toksik olup ve bu İNNOHEP
+için de geçerlidir. Akut, subakut, kronik toksisite, üreme toksisitesi ve mutajenik toksisite
+araştırmalarında görülen en önemli etki yüksek doz kullanımına bağlı olarak meydana gelen
+kanamalardır.
+Hayvanlarda düşük molekül ağırlıklı heparin uygulanmasını takiben nekrotizan hematom
+gözlenmiştir. Ratlarda 12 aylık çalışmada osteoporotik etkiler açığa çıkmıştır. Ratlarda ve
+tavşanlarda 25 mg/kg dozlarına kadar düşük molekül ağırlıklı heparin uygulanması sonrası
+herhangi bir teratojenik potansiyel gözlenmemiştir. Prenatal olarak 10 mg/kg dozlarına maruz
+kalan fetuslarda kontrol grubuna göre daha düşük doğum ağırlığı bulunmuştur.
+6. FARMASÖTİK ÖZELLİKLER
+6.1. Yardımcı maddelerin listesi
+Sodyum metabisülfit (E223)
+Enjeksiyonluk su
+6.2. Geçimsizlikler
+İNNOHEP (hemodiyaliz dışında) sadece subkütan olarak uygulanmalıdır ve diğer
+enjeksiyonlarla karıştırılmamalıdır.
+8İNNOHEP izotonik sodyum klorür (9 mg/ml) veya izotonik glukozla (50 mg/ml) geçimlidir.
+Diğer herhangi bir infüzyon sıvısıyla karıştırılmamalıdır.
+6.3. Raf ömrü
+36 ay
+6.4. Saklamaya yönelik özel tedbirler
+25° C’ nin altındaki oda sıcaklığında saklayınız.
+6.5. Ambalajın niteliği ve içeriği
+Steril, iğne emniyet aparatı içeren cam enjektör.
+6.6. Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler
+Uygulamadan önce enjektörün içeriği gözlenmelidir: Eğer bulanıklık veya çökelti varsa
+kullanılmamalıdır. Solüsyonun renginin depolama esnasında sarıya dönmesi söz konusu
+olabilir, ancak bu durum solüsyonun kullanılmasına engel değildir, kullanılabilir.
+Kullanılmamış olan ürünler ya da atık materyaller “Tıbbi Atıkların Kontrolü Yönetmeliği” ve
+“Ambalaj ve Ambalaj Atıkları Kontrolü Yönetmeliği”ne uygun olarak imha edilmelidir.
+7. RUHSAT SAHİBİ
+Abdi İbrahim İlaç Pazarlama A.Ş.
+Reşitpaşa Mahallesi, Eski Büyükdere Caddesi, No:4
+34467 Maslak/Sarıyer/İstanbul
+8. RUHSAT NUMARASI
+115/56
+9. İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ:
+İlk ruhsat tarihi: 30.01.2004
+Ruhsat yenileme tarihi:
+10. KÜB’ÜN YENİLENME TARİHİ
+9

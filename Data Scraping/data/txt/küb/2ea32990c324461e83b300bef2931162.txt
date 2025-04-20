@@ -1,0 +1,764 @@
+1 KISA ÜRÜN BİLGİSİ  
+ 
+▼Bu ilaç ek izlemeye tabidir. Bu üçgen yeni güvenlilik bilgisinin hızlı olarak belirlenmesini sağlayacaktır. Sağlık mesleği mensuplarının şüpheli advers reaksiyonları TÜFAM’a bildirmeleri beklenmektedir. Bakınız Bölüm 4.8 Advers reaksiyonlar nasıl raporlanır.  
+ 1. BEŞERİ TIBBI ÜRÜNÜN ADI  
+ZERBAXA 1 g/0,5 g i nfüzyonluk ç özelti hazırlamak için toz  
+Steril  2. KALİTATİF VE KANTİTATİF BİLEŞİM  
+ Etkin madde:  Her bir flakon 1 g seftolozana eşdeğer 1.147 mg seftolozan sülfat ve 0,5 g 
+tazobaktama eşdeğer 537 mg tazobaktam sodyum içerir . 
+ 10 mL seyrelticiyle sulandırıldıktan sonra, flakondaki çözeltinin toplam hacmi 11,4 mL ’dir ve 
+88 mg/mL seftolozan ve 44 mg/mL tazobaktam içerir . 
+ Yardımcı maddeler:  Her bir flakon 10 mmol (230 mg) sodyum içer ir. 
+ Toz, 10 mL 9 mg/mL (%0 ,9) enjeksiyonluk sodyum klorür  çözelti si ile sulandırıldığında, flakon 
+11,5 mmol (265 mg) sodyum içer ir.  
+ Yardımcı maddeler için Bölüm 6.1’e bakınız . 
+ 3. FARMASÖTİK FORM  
+ İnfüzyonluk konsantre çözelti için toz . 
+(konsantre için toz)  
+ Beyaz ila sarımsı  renkte  toz. 
+ Sulandırılmış çözelti. Görünüşte temiz ve partikül içermez.  
+ 
+4. KLİNİK ÖZELLİKLER  
+ 4.1 Terapötik endikasyonlar  
+ ZERBAXA, yetişkin  ve pedi yatrik hastalarda aşağıdaki enfeksiyonların tedavisinde endikedir 
+(bkz. Bölüm 4.2 ve Bölüm 5.1):  
+ 
+- Komplike intra -abdominal enfeksiyonlar ( bkz. Bölüm 4.4) , 
+- Akut piyelonefrit , 
+- Komplike idrar yolu enfeksiyonları ( bkz. Bölüm 4.4) , 
+ 
+ZERBAXA, yetişkinlerde (18 yaş ya da daha büyük) aşağıdaki enfeksiyonların tedavisinde de 
+endikedir (bkz. Bölüm 5.1):  
+- Ventilatör ilişkili pnömoni (VİP) dahil hastanede n edinilmiş  pnömoni (H EP). 
+ 2 Antibakteriyel ajanların uygun kullanımı yla ilgili resmi kılavuzlar göz önünde 
+bulundurulmalıdır. 
+ 4.2 Pozoloji ve uygulama şekli  
+ Pozo loji/uygulama sıklığı ve süresi  
+Kreatinin klerensi >50 mL/ dk olan yetişkin hastalar için önerilen intravenöz doz rejimi, 
+enfeksiyon tipine göre Tablo 1'de gösterilmektedir.  Tablo 1: Kreatinin klerensi * >50 mL/d k olan yetişkin hastalarda (18 yaş ya da daha 
+büyük) enfeksiyon tipine göre intravenöz ZERBAXA dozu  
+Enfeksiyon Tipi  Doz Sıklık  
+İnfüzyon 
+süresi  Tedavi süresi  
+Komplike intra-
+abdominal  enfeksiyon* * 1 g seftolozan/  
+0,5 g tazobaktam  8 saatte bir  1 saat  4-14 gün 
+Komplike idrar yolu 
+enfeksiyonu  
+Akut piyelonefrit  1 g seftolozan/  
+0,5 g tazobaktam  8 saatte bir  1 saat  7 gün 
+Ventilatör ilişkili 
+pnömoni (VİP) dahil hastaneden edinilmiş 
+pnömoni (HEP) *** 2 g seftolozan/  
+1 g tazobaktam  8 saatte bir  1 saat  8-14 gün 
+*Kreatinin klerensi , Cockcroft -Gault form ül kullanılarak hesaplanmıştır. 
+**Anaerobik patojen şüphesi  varsa metronidazolle kombinasyon halinde kullanıl malıdır.  
+***Gram -pozitif patojenlerin enfeksiyon sürecine katkıda bulunduğu bilindiğinde veya bundan 
+kuşkulanıldığında bu patojenlere karşı etkili bir antibakteriyel ajanla kombine kullanılmalıdır.  
+Tahmini glomerüler filtrasyon hızı (eGFR'si) >50  mL/dak/1,73 m
+2 olan pedi yatrik hastalar için 
+önerilen intravenöz doz rejimi, Tablo 2'de enfeksiyon türüne göre gösterilmiştir.  
+ 
+Tabl o 2: EGFR’si**>50 mL /dak/1, 73 m2 olan pedi yatrik (doğumdan * 18 yaş altına kadar) 
+hastalarda enfeksiyon türüne göre ZERBAXA için intravenöz doz  
+ 
+Enfeksiyon türü  Doz Sıklık  İnfüzyon 
+süresi  Tedavi süresi  
+Komplike intra -
+abdominal 
+enfeksiyon***  1 g seftolozan / 0,5  g 
+tazobaktam**** maksimum doza 
+kadar 20 mg/kg seftolozan / 10 mg/kg 
+tazobaktam  8 saatte 
+bir 1 saat  5-14 gün*****  
+Komplike idrar yolu 
+enfeksiyonu  
+Akut pyelonefrit  1 g seftolozan / 0,5  g 
+tazobaktam**** maksimum doza kadar 20 mg/kg 
+seftolozan / 10 mg/kg 
+tazobaktam  8 saatte 
+bir 1 saat  7-14 gün*****  
+*>32 haftalık gebelik süresi ve doğum sonrası ≥  7 gün olarak tanımlanır.  
+**Bedside Schwartz denklemi kullanılarak tahmin edilen eGFR  
+***Anaerobik patojenlerden şüphelenildiğinde metronidazol ile kombinasyon halinde 
+kullanılmalıdır.  3 ****Vücut ağırlığı >50  kg olan çocuklarda maksimum doz olan 1 g seftolozan  / 0,5 g 
+tazobaktam aşılmamalıdır.  
+*****Gösterilen toplam süre, intravenöz Z ERBAXA  ve ardından verilen uygun oral tedaviyi 
+içerebilir.  
+ 
+Uygulama şekli  
+ZERBAXA, intravenöz infüz yon yoluyla uygulanır . 
+Tüm ZERBAXA dozları için i nfüzyon süresi  1 saattir.  
+ Ürünü kullanmadan veya uygulamadan önce alınması gereken önlemler  
+Geçimsizlikler için bkz. Bölüm 6.2.  
+ Uygulamadan önce tıbbi ürünün sulandırılması ve seyreltilmesine ilişkin talimatlar için bkz. 
+Bölüm 6.6.  
+ Özel popülasyonlara ilişkin ek bilgiler   
+ Böbrek yetmezliği  
+Hafif böbrek yetmezliği olan hastalarda (tahmini kreatinin klerensi [CrCL] > 50 mL/ dk) doz 
+ayarlaması gerekmemektedir ( bkz. Bölüm 5.2).  
+ Orta dereceli veya şiddetli böbrek yetmezliği olan yetişkin hastalarda ve son evre böbrek 
+hastalığı olup hemodiyaliz alan yetişkin hastalarda, doz Tablo  3’de gösterildiği gibi 
+ayarlanmalıdır ( bkz. Bölüm  5.1 ve Bölüm 6.6). 
+ Tablo 3: Kreatinin klerensi * ≤50 mL/ dk olan yetişkin hastalarda (18 yaş  ya da daha 
+büyük) ZERBAXA’nın önerilen intravenöz doz rejimleri   
+Tahmini  
+kreatinin 
+klerensi 
+(mL/dak)*  Komplike intra -abdominal 
+enfeksiyonlar, komplike idrar yolu enfeksiyonları ve akut 
+piyelonefrit**  Ventilatör ilişkili pnömoni (VİP) 
+dahil hastaneden edinilmiş pnömoni (HEP)  ** 
+30 - 50 500 mg seftolozan/250  mg 
+tazobaktam intravenöz yoldan 
+8 saatte bir  1 g seftolozan/0,5 g tazobaktam 
+intravenöz yoldan 8 saatte bir  
+15 - 29 250 mg seftolozan /125 mg 
+tazobaktam  intravenöz yoldan 
+8 saatte bir  500 mg seftolozan /250 mg 
+tazobaktam  intravenöz yoldan 
+8 saatte bir  
+Hemodiyalizde son dönem 
+böbrek 
+hastalığı 500 mg seftolozan/250 mg 
+tazobaktam ın tek bir  yükleme dozu, 
+8 saat sonrasından itibaren tedavinin geri kalanı boyunca 8 saatte bir 100 mg seftolozan / 50 
+mg tazobaktam idame dozu 
+(hemodiyaliz günlerinde doz , 
+hemodiyalizin tamamlanmasın ı 
+takiben  mümkün olan en kısa 
+zamanda uygulanmalıdır ). 1,5 g seftolozan/0 ,75 g 
+tazobaktam ın tek bir  yükleme dozu, 
+8 saat sonrasından itibaren tedavinin geri kalanı boyunca 8 saatte bir 300 mg seftolozan/150 
+mg tazobaktam idame dozu 
+(hemodiyaliz günlerinde doz, 
+hemodiyalizin tamamlanmasını 
+takiben mümkün olan en kısa 
+zamanda uygulanmalıdır ). 
+*Kreatinin klerensi, Cockcroft/Gault formülüne göre hesaplan mıştır . 
+**Tüm ZERBAXA dozları, 1 saat boyunca intravenöz yoldan uygulanır  ve tüm endikasyonlar 
+için önerilmektedir. Tedavinin süresi Tablo 1'deki önerilere göre belirlenmelidir. 4 Orta derecede veya şiddetli böbrek yetmezliği olan (eGFR ≤50 mL/dak/1,73 m2) veya son evre 
+böbrek hastalığı olan pediyatrik hastalarda bir doz rejimi önermek için yeterli bilgi yoktur 
+(bölüm 5.1'e ve bölüm 5.2'ye bakınız).  
+ Karaciğer yetmezliği  
+Karaciğer yetmezliği olan hastalarda doz ayarlaması gerekli değildir  (bkz. Bölüm 5.2). 
+ Pediyatrik popülasyon  
+Çocuklarda ve 18 yaşın altındaki adolesanlarda seftolozan/tazobaktamın güvenliliği ve etkililiği ventilatör ilişkili pnömoni (VİP) dahil olmak üzere hastaneden edinilmiş pnömoninin (HEP) 
+tedavisi için henüz belirlenmemiştir.  
+ Geriyatrik popülasyon  (65 yaş ve üzeri)  
+Yaşlılarda yalnızca yaşa göre doz ayarlaması gerek li değildir  (bkz. Bölüm 5.2). 
+ 4.3 Kontrendikasyonlar  
+ 
+- Etkin maddelere veya Bölüm 6.1’de listelenen yardımcı maddelerden herhangi birine karşı aşırı duyarlılık . 
+- Herhangi bir sefalosporin antibakteriyel ajanına  karşı  aşırı duyarlılık . 
+- Başka herhangi bir beta-laktam  türü antibakteriyel ajana karşı  (örn. penisilinler ve 
+karbapenemler) şiddetli aşırı duyarlılık (örn. anafilaktik reaksiyon, şiddetl i deri 
+reaksiyonu).  
+ 4.4 Özel kullanım uyarıları ve önlemleri  
+ 
+Aşırı duyarlılık reaksiyonları  
+Ciddi ve zaman zaman ölümcül olabilen aşırı duyarl ılık (anafilaktik) reaksiyonları görülebilir 
+(bkz. Bölüm  4.3 ve Bölüm 4.8). Seftolozan/tazobaktam tedavisi sırasında şiddetli bir alerjik 
+reaksiyon görülürse, tıbbi ürünün kullanımına son verilmeli ve gereken önlemler alınmalıdır.  Sefalosporinler, penisilinler ve diğer beta- laktam  türü antibakteriyel ajanlar a karşı  aşırı 
+duyarlılık öyküsü olan hastalar seftolozan/tazobaktama karşı da aşırı duyarlı olabilir. 
+ Seftolozan/tazobaktam ; seftolozan, tazobaktam ya da sefalosporinlere aşırı duyarlılık öyküsü 
+olan hastalarda kontrendikedir (bkz. Bölüm 4.3).  
+ Seftolozan/tazobaktam ayrıca diğer herhangi bir beta- laktam  türü antibakteriyel ajan a karşı (örn. 
+penisilinler ya da karbapenemler) şiddetli aşırı duyarlılığı (örn. anafilaktik reaksiyon, şiddetl i 
+deri reaksiyonu) olan hastalarda da kontrendikedir (bkz. Bölüm 4.3). 
+ Seftolozan/tazobaktam ; penisilinlere ya da diğer beta- laktam  türü antibakteriyel ajanlar a karşı 
+başka herhangi bir tip aşırı duyarlılık reaksiyonu öyküsü olan hastalarda dikkatli kullanılmalıdır.  
+ 
+Böbrek fonksiyonu üzerindeki etkisi  
+Seftolozan/tazobaktam alan yetişkin hastaların böbrek fonksiyonunda  düşüş görülmüştür. 
+ 
+Böbrek fonksiyonu bozukluğu 
+Seftolozan/tazobaktam dozu böbrek fonksiyonuna göre ayarlanmalıdır  (bkz. Bölüm 4.2, Tablo 
+3). 5 Komplike intra -abdominal enfeksiyonlar ve piyelonefrit dahil komplike idrar yolu 
+enfeksiyonlarının incelendiği klinik çalışmalarda, seftolozan/tazobaktamın etkililiği, 
+başlangıçta orta derece böbrek yetmezliği olan yetişkin hastalarda, böbrek fonksiyonu normal 
+olan ya da hafif böbrek yetmezliği olan hastalara göre daha düşüktür. Başlangıçta böbrek 
+yetmezliği olan hastalar, tedavi sırasında böbrek fonksiyonunda görülebilecek değişimler 
+açısından sık sık izlenmeli ve seftolozan/tazobaktam dozu uygun şekilde ayarlanmalıdır.  
+ 
+Klinik verilerdeki sınırlamalar  
+Bağışıklık yetmezliği olan hastalar,  şiddetli nötropeni si olan hastalar  ve hemodiyalize giren son 
+evre böbrek hastalığı olan hastalar  klinik çalışmalara dahil  edilmemiştir.  
+ Komplike intra -abdominal enfeksiyonlar  
+Komplike intra-abdominal  enfeksiyonlu yetişkin hastalar da gerçekleştirilen bir çalışmada, en 
+yaygın tanı, apendiks  perforasyonu veya periapendikal apsedir  (420/970 [%43,3] hasta); 
+başlangıçta bunların 137/420'sinde (%32,6) diffüz peritonit vardır. Çalışmadaki hastaların yaklaşık %82'sinin APACHE II (Akut Fizyoloji ve Kronik Sağlık Değerlendirmesi II) skorları 
+10’dan küçüktür  ve %2 ,3'ünde başlangıçta bakteremi vardır. Klinik açıdan  değerlendirilebilen  
+hastalarda, seftolozan/tazobaktam için klinik tam iyileşme oranları 65 yaşından küçük olan 293 
+hastada %95,9, 65 yaşında  ya da daha büyük olan 82 hastada ise %87,8'di.  
+ Komplike idrar yolu enfeksiyonları  Komplike alt idrar yolu enfeksiyonu olan yetişkin hastalarla ilgili klinik etkililik verileri 
+sınırlıdır. Randomize aktif kontrollü bir çalışmada, mikrobiyolojik açıdan değerlendirilebilen  
+hastaların %18 ,2'sinde (126/693) komplike alt idrar yolu enfeksiyonu vardı; bunlara, 
+seftolozan/tazobaktam ile tedavi edilen 60/126 hasta da dahildir. Başlangıçta bu 60 hastanın birinde bakteremi vardı.  
+ 
+Clostridioides  difficile  ilişkili diyare  
+Seftolozan/tazobaktam tedavisinde antibakteriyel ilişkili kolit ve psödomembranöz kolit bildirilmiştir ( bkz. Bölüm 4.8). Bu enfeksiyon tiplerinin şiddeti hafif ile yaşamı tehdit ed ici 
+arasında  değiş ebilmektedir. Bu nedenle, seftolozan/tazobaktam uygulaması sırasında ya da 
+uygulamadan sonra diyare görülen hastalarda bu tanının göz önünde bulundurulması önemlidir. 
+Böyle bir durumda, seftolozan/tazobaktam tedavisinin kesilmesi ve Clostridioides  difficile  için 
+özel bir tedaviyle birlikte destekleyici önlem lerin alınması düşünülmelidir.  
+ 
+Duyarlı olmayan mikroorganizmalar  
+Seftolozan/tazobaktam kullanımı, duyarlı olmayan mikroorganizmaların aşırı üremesini  
+kolaylaştırabilir. Tedavi sırasında ya da sonrasında süper enfeksiyon oluşursa, gereken önlemler alınmalıdır.  
+ Seftolozan/tazobaktam, hem seftolozanı parçalayabilen hem de tazobaktam bileşeni tarafından inhibe edilmeyen beta -laktamaz enzimleri üreten bakterilere karşı aktif değildir (bkz. Bölüm 
+5.1).  
+Direkt antiglobülin testi (Coombs testi) serokonversiyonu ve potansiyel hemolitik anemi riski  
+Seftolozan/tazobaktam tedavisi sırasında direkt antiglobülin testinde (DAGT) pozitif sonuç alınabilir  (bkz. Bölüm 4.8) . Klinik çalışmalarda , tedavide pozitif DAGT gelişen hastalarda 
+hemoliz kanıtı görülmemiştir.  
+  6 Sodyum içeriği  
+Seftolozan/tazobaktam  her flakonda  230 mg sodyum ( DSÖ tarafından yetişkinler için önerilen 
+günlük maksimum 2 g sodyum alımının %11 ,5’ine eşdeğer) ihtiva eder. 10 mL %0,9 
+enjeksiyonluk sodyum klorür  (normal salin) ile sulandırılan flakon 265 mg sodyum ( DSÖ 
+tarafından yetişkinler için önerilen günlük maksimum 2 g sodyum alımının %13,3’üne eşdeğer) 
+ihtiva eder . Bu durum, kontrollü sodyum diyetinde olan hastalar için göz  önünde 
+bulundurulmalıdır.   4.5 Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri  
+ İn vitro  ve in vivo  çalışmalara göre, seftolozan/tazobaktam ve sitokrom P450 enzimlerinin 
+(CYP) substratları, inhibitörleri ve indükleyicileri arasında anlamlı tıbbi ürün etkileşimler i 
+beklenmemektedir.  
+ İn vitro  çalışmalar, seftolozan, tazobaktam ve tazobaktamın M1 metabolitinin terapötik plazma 
+konsantrasyonlarında CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, ya da CYP3A4'ü inhibe etmediğini ve CYP1A2, CYP2B6 ya da CYP3A4'ü indüklemediğini göstermiştir.  
+ In vitro terapötik plazma  konsantrasyonlarında, seftolozan  ve  tazobaktam  P -gp  ya  da  
+BCRP'nin  substratı  değildir  ve tazobaktam OCT2'nin  substratı  değildir. İn vitro  veriler, 
+seftolozanın in vitro  terapötik plazma konsantrasyonlarında P -gp, BCRP, OATP1B1, 
+OATP1B3, OCT1, OCT2, MRP, BSEP, OAT1, OAT3, MATE1, ya da MATE2- K'yı inhibe 
+etmediğin i göstermektedir. İn vitro  veriler, tazobaktam ya da tazobaktam metaboliti M1'in 
+terapötik plazma konsantrasyonlarında P -gp, BCRP, OATP1B1, OATP1B3, OCT1, OCT2, ya 
+da BSEP taşıyıcılarını inhibe etmediğini göstermektedir . 
+ Tazobaktam, OAT1 ve OAT3'ün bir substratıdır. İn vitro  olarak , tazobaktam insan OAT1 ve 
+OAT3 taşıyıcılarını sırasıyla 118 ve 147 µg/mL IC
+50 değerleriyle inhibe etmiştir. Klinik bir 
+çalışmada seftolozan/tazobaktam ile OAT1 ve OAT3 substratı furosemid birlikte 
+uygulandığında, furosemidin plazma maruziyetlerinde anlamlı bir artış olmamıştır (geometrik 
+ortalama oranlar C maks ve EAA için sırasıyla 0 ,83 ve 0,87). Ancak, OAT1 veya  OAT3'ü inhibe 
+eden etkin maddeler (örn. probenesid) tazobaktam ın plazma konsantrasyonunu artırabilir.  
+ Özel popülasyonlara ilişkin ek bilgiler  
+Herhangi bir etkileşim çalışması yapılmamıştır .  
+ Pediyatrik popülasyon:  
+Herhangi bir etkileşim çalışması yapılmamıştır.  
+ 4.6 Gebelik ve laktasyon  
+ Genel tavsiye  Gebelik kategorisi: B  
+ Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon)   
+Seftolozan/tazobaktam için, gebelikte maruziyet ile ilgili herhangi bir klinik veri 
+bulunmamaktadır. 7 Hayvanlar üzerinde yapılan çalışmalar, gebelik/embriyonal/fetal geli şim/doğum ya da doğum 
+sonrası gelişim ile ilgili olarak doğrudan ya da dolaylı zararlı etkiler olduğunu 
+göstermemektedir (bkz. Bölüm 5.3).  Gebelik  dönemi  
+Seftolozan/tazobaktamın gebe kadınlarda kullanımıyla ilgili veri bulunmamaktadır. Tazobaktam plasentadan  geçmektedir. Seftolozanın plasenta dan geçip geçmediği 
+bilinmemektedir.  
+ Hayvanlar üzerinde gerçekleştirilen çalışmalarda, teratojenik etki kanıtı olmaksızın üreme 
+toksisitesi görülmüştür ( bkz. Bölüm 5.3). Fareler ve sıçanlarda seftolozanla gerçekleştirilen 
+çalışmalarda, üreme toksisitesi ya da teratojenite kanıtı görülmemiştir. Gebelik ve emzirme  
+sırasında sıçanlara seftolozan uygulaması, postnatal 60. günde erkek yavrularda işitsel irkilme tepkisinde azalmayla ilişkilendirilmiştir ( bkz. Bölüm 5.3). 
+ ZERBAXA gebelik sırasında yalnızca beklenen yararları gebe kadın ve fetüsle ilgili olası 
+risklerden fazlaysa kullanılmalıdır . 
+ Laktasyon  dönemi  
+Seftolozan ve tazobaktamın insan sütüyl e atılıp atılmadığı bilinmemektedir. Seftolozan ve 
+tazobaktamın süt ile atılımı hayvanlarda araştırılmamıştır.  Yine de, yeni doğanlar/bebekler için 
+risk göz ardı edilemez. Emzirmenin durdurulup durdurulmayacağına ya da ZERBAXA 
+tedavisinin durdurulup durdurulmayacağına/tedaviden kaçınılıp kaçınılmayacağına ilişkin karar verilirken, emzirmenin  çocuk açısından faydası ve tedavinin emziren anne açısından 
+faydası dikkate alınmalıdır.   
+ Üreme yeteneği/ Fertilit e 
+Seftolozan ve tazobaktamın insanlarda doğurganlık üzerindeki etkisi incelenmemiştir. Sıçanlar üzerinde gerçekleştirilen doğurganlık çalışmalarında, intraperitoneal tazobaktam uygulaması ya da intravenöz seftolozan uygulamasından sonra doğurganlık ya da çif tleşme üzerinde hiçbir 
+etki görülmemiştir ( bkz. Bölüm 5.3). 
+ 4.7 Araç ve makine kullanımı üzerindeki etkiler  
+ ZERBAXA araç ve makine kullanımı üzerinde hafif bir etki gösterebilir. ZERBAXA  
+uygulamasından sonra  baş dönmesi görülebilir  (bkz. Bölüm 4.8). 
+ 4.8 İstenmeyen etkiler  
+ 
+Güvenlilik profilinin özeti  
+ZERBAXA, yetişkin hastalarda komplike intra-abdominal  enfeksiyonlar ve komplike idrar 
+yolu enfeksiyonları (piyelonefrit dahil) ile ilgili Faz  3 karşılaştırmalı kontrollü klinik 
+çalışmalarda incelenmiştir.  
+ ZERBAXA alan hastalarda en yaygın görülen advers reaksiyonlar (komplike intra -abdominal 
+enfeksiyonlar ve komplike idrar yolu enfeksiyonlarının (piyelonefrit dahil)  toplanan Faz 3 
+çalışmalarında ≥%3) bulantı, baş ağrısı, konstipasyon, diyare ve pireksidir ve bunların şiddeti 
+genellikle hafif ya da orta derecelidir.  
+ 8 ZERBAXA ventilatör  ilişkili pnömoni de dahil olmak üzere hastanede n edinilmiş  pnömonisi 
+olan yetişkin hastalarda  Faz 3 karşılaştırmalı kontrollü bir klinik çalışmada incelenmiştir . 
+ 
+ZERBAXA alan hastalarda en yaygın görülen advers reaksiyonlar (ve ntilatör  ilişkili pnömoni 
+dahil hastanede n edinilmiş pnömoniyle ilgili bir Faz 3 çalışma sında ≥%5) diyar e, alanin 
+aminotransferaz artışı ve  aspartat aminotransferaz artışı ydı ve genellikle hafif -orta 
+şiddetteydiler.  
+ 
+Advers reaksiyonların tablolaştırılmış listesi  
+ ZERBAXA ile gerçekleştirilen yetişkin klinik çalışmalarda aşağıdaki advers reaksiyonlar tespit 
+edilmiştir. Advers reaksiyonlar MedDRA Sistem Organ Sınıfına ve sıklığa göre 
+sınıflandırılmaktadır . Sıklıklar şu şekilde tanımlanmaktadır: Çok yaygın (≥1/10); yaygın 
+(≥1/100, <1/10); yaygın olmayan (≥1/1.000, <1/100); seyrek (≥1/10.000, <1/1.000); çok seyrek (<1/10.000); bilinmiyor (eldeki verilerden hareketle sıklık tahmin edilemiyor) (bkz. Tablo 4).  
+ Tablo 4: Seftolozan/tazobaktam ile gerç ekleştirilen yetişkin klinik çalışmalar sırasında  
+tespit edilen advers reaksiyonlar  
+Sistem organ sınıfı   Advers reaksiyonlar  
+Enfeksiyonlar ve enfestasyonlar  
+Yaygın:  
+ Yaygın olmayan:  
+  
+Clostridioides difficile  koliti2 
+ 
+Orofaringeal ve vulvovajinal dahil kandidiyaziz
+1, Clostridi oides  difficile  
+koliti1, fungal idrar yolu enfeksiyonu1, 
+Clostridioides difficile  enfeksiyonu2 
+Kan ve lenf sistemi hastalıkları   
+Yaygın:  
+ 
+Yaygın olmayan:   
+Trombositoz1  
+ 
+Anemi1 
+Metabolizma ve beslenme hastalıkları  
+Yaygın:  
+ Yaygın olmayan:  
+  
+Hipokalemi1  
+ 
+Hiperglisemi1, hipomagnezemi1, 
+hipofosfatemi1 
+Psikiyatrik hastalıklar  
+Yaygın:   
+Uykusuzluk1, anksiyete1 
+Sinir sistemi hastalıklar ı 
+Yaygın:  
+ 
+Yaygın olmayan:   
+Baş ağrısı1, baş dönmesi1 
+ 
+İskemik inme1 
+Kardiyak hastalıklar  
+Yaygın olmayan:   
+Atriyal fibrilasyon1, taşikardi1, anjina 
+pektoris1 
+Vasküler hastalıklar  
+Yaygın:  
+ 
+Yaygın olmayan:   
+Hipotansiyon1  
+ 
+Flebit1, venöz tromboz1 
+Solunum, göğüs bozuklukları ve mediastinal 
+hastalıklar   
+ 9 Yaygın olmayan:  Dispne1 
+Gastrointestinal hastalıklar  
+Yaygın:  
+ 
+ Yaygın olmayan:   
+Bulantı1, diyare3, konstipasyon1, kusma3, 
+abdominal ağrı1  
+ Gastrit
+1, abdominal distansiyon1, 
+dispepsi1, 
+flatulans1, paralitik ileus1 
+Deri ve deri altı doku hastalıkları  
+Yaygın:  
+ 
+Yaygın olmayan:   
+Döküntü1  
+ 
+Ürtiker1 
+Böbrek ve idrar yolu hastalıkları  
+Yaygın olmayan:   
+Böbrek fonksiyon bozukluğu1, böbrek 
+yetmezlik1 
+ 
+ 
+Genel bozukluklar  ve uygulama bölgesine 
+ilişkin hastalıklar  
+Yaygın:   
+ 
+Pireksi1, infüzyon bölgesi reaksiyonları1 
+Araştırmalar  
+Yaygın:  
+     Yaygın olmayan:   
+Alanin aminotransferaz artışı3, Aspartat 
+aminotransferaz artışı3, transaminazlarda 
+artış2, karaciğer fonksiyon test lerinde 
+anormallik2, kanda alkalen fosfataz artışı2, 
+gama- glutamiltransferaz artışı2  
+ 
+Pozitif Coombs testi3, serum gama-
+glutamil transpeptidaz (GGT) artışı1, 
+serum alkalen fosfataz artışı1, 
+Clostridioides  testi pozitifliği2 
+1 ZERBAXA (8 saatte bir intravenöz yoldan 1 g/0,5 g) ile 14 güne kadar tedavi edilen komplike 
+intra-abdominal enfeksiyonlar, akut piyelonefrit ve komplike idrar yolu enfeksiyonları 
+endikasyonlarına spesifik . 
+2 ZERBAXA (8 saatte bir intravenöz yoldan 2 g/1 g) ile 14 güne kadar tedavi edilen ventilatör 
+ilişkili pnömoni dahil hastaneden edinilmiş  pnömoni endikasyonuna spesifik.  
+3 Tüm endikasyonlar için geçerlidir : komplike intra -abdominal enfeksiyonlar, akut piyelonefrit, 
+komplike idrar yolu enfeksiyonları , ventilatör ilişkili pnömoni dahil hastanede n edinilmiş 
+pnömoni . 
+ 
+Pediyatrik Popülasyon 
+Doğumdan 18 yaş a kadar olan pediyatrik hastalarda güvenlik değerlendirmesi, komplike 
+intraabdominal enfeksiyonları olan 70 hastanın ve komplike idrar yolu enfeksiyonları (akut piyelonefrit dahil) olan 100 hastanın ZERBAXA aldığı iki çalışmanın güvenlik verilerine dayanmaktadır. Bu 170 pediyatrik hastadaki güvenlik profili, genellikle komplike 
+intraabdominal enfeksiyonları ve komplike idrar yolu enfeksiyonları (akut piyelonefrit dahil) olan yetişkin popülasyonda gözlenene benzerdi r. Pediyatrik popülasyonda gözlemlenen üç 
+ilave advers r eaksiyon vardı r: nötropeni, iştah artışı ve tat alma bozukluğu (tüm sıklıklarda 
+yaygın). ZERBAXA alan hastalarda meydana gelen en yaygın advers reaksiyonlar ( toplanan  
+pediyatrik faz 2 çalışmalarında > %2) diyare, alanin aminotransferaz artışı ve aspartat 10 aminotransferaz artışı olmuştur.  Komplike karın içi enfeksiyonları olan 3 aylıktan küçük 
+hastalardaki güvenlik verileri sınırlıdır. 
+ 
+Seçilmiş advers reaksiyonların tarifi  
+ Laboratuvar değerleri  ZERBAXA tedavisi sırasında direkt Coombs testi pozitifliği gelişebilir . Yetişkinlerde k omplike 
+intra-abdominal enfeksiyonlar ve komplike idrar yolu enfeksiyonlarıyla ilgili klinik 
+çalışmalarda  p ozitif direkt Coombs testine serokonversiyon insidansı ZERBAXA alan 
+hastalarda  %0,2  iken karşılaştırma ilacı alan hastalarda %0’dı r. Ventilatör  ilişkili pnömoni dahil 
+yetişkin hastalarda hastaneden edinilmiş  pnömoni yi inceleyen klinik çalışmada pozitif direkt 
+Coombs testine serokonversiyon insidansı ZERBAXA alan hastalarda % 31,2 ve meropenem 
+alan hastalarda %3,6’dır. Komplike intraabdominal enfeksiyon klinik çalışmasında ZERBAXA 
+alan pediyatrik hastalarda pozitif direkt  Coombs testine serokonversiyon insidansı %45,3 ve 
+meropenem alan hastalarda %33,3 olmuştur. K omplike idrar yolu enfeksiyonu klinik 
+çalışmasında ZERBAXA alan pediyatrik hastalarda pozitif direkt  Coombs testine 
+serokonversiyon insidansı %29,7 ve meropenem alan hastalarda %8,7 olmuştur. Klinik 
+çalışmalarda herhangi bir tedavi grubunda pozitif direkt Coombs testi gelişen hastalarda hemo liz bulguları saptanmamıştır . 
+ 
+Şüpheli advers reaksiyonların raporlanması  
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem 
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine 
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye Farmakovijilans Merkezi (TÜFAM)'ne bildirmeleri gerekmektedir ( www.titck.gov.tr ; e- 
+posta:tufam@titck.gov.tr; tel: 0 800 314 00 08; faks: 0 312 218 35 99)  
+ 4.9 Doz aşımı ve tedavisi  
+ ZERBAXA ile doz aşımı deneyimi bulunmamaktadır. Klinik çalışmalarda kullanılan en yüksek 
+tek ZERBAXA dozu, sağlıklı gönüllülere uygulanan 3 g/1,5 g seftolozan/tazobaktam dozudur. 
+ Doz aşımı durumunda, ZERBAXA kesilmeli ve genel destekleyici tedavi uygulanmalıdır. 
+ZERBAXA hemodiyaliz yoluyla uzaklaştırılabilir. Diyaliz yoluyla seftolozanın yaklaşık 
+%66'sı, tazobaktamın %56'sı ve tazobaktamın M1 metabolitinin %51'i uzaklaştırılmıştır .  
+ 5. FARMAKOLOJİK ÖZELLİKLER  
+ 5.1 Farmakodinamik özellikler  
+ Farmakoterapötik grup: Sistemik kullanılan antibakteriyeller, diğer betalaktam 
+antibakteriyeller i, diğer sefalosporinler ve penemler, seftolozan ve beta -laktamaz inhibitör ü 
+ATC kodu: J01DI54  
+ 
+Etki mekanizması 
+Seftolozan, antimikrobiyallerin  sefalosporin grubundandır. Seftolozan, önemli penisilin 
+bağlayıcı proteinlere (PBP) bağlanarak ve bunun sonucunda bakteriyel hücre duvarı  sentezinin 
+inhibisyonuna  ve ardından hücre ölümüne neden olarak bakterisit  etki göster ir. 
+ 11 Tazobaktam, penisilinlerle yapısal olarak ilişkili bir beta- laktam dır. CTX -M ,  S H V  v e  T E M  
+enzimleri dahil birçok Moleküler Sınıf  A beta- laktamazın  inhibitörüdür. Aşağı bakınız.  
+ 
+Direnç mekanizması  
+Seftolozan/tazobaktama karşı  bakteriyel direnç mekanizmaları şunlardır:  
+i. Seftolozanı hidrolize edebilen ve tazobaktam tarafından inhibe olmayan beta-
+laktam azların üretimi (aşağı bakınız)  
+ii. Penisilin bağlayıcı poteinlerin (PBP)  modifikasyonu 
+ 
+Tazobaktam tüm sınıf  A enzimlerini inhibe etme z. 
+Ayrıca, tazobaktam aşağıdaki beta- laktam az tiplerini de inhibe etmez:  
+i. AmpC enzimleri ( Enterobacterales  tarafından üretilir)  
+ii. Serin bazlı karbapenemazlar  (örn. Klebsiella pneumoniae  karbapenemazlar ı [KPC ’ler]) 
+iii. Metallo -beta- laktam azlar (örn. Yeni Delhi metallo- beta- laktamazı [NDM])  
+iv. Ambler Sınıf D beta- laktamazlar  (OXA -karbapenemazları)  
+ 
+Farmakokinetik/farmakodinamik ilişkiler  
+Seftolozan için, plazma konsantrasyonunun enfekt if organizma için seftolozanın minimum 
+inhibitör konsantrasyonunu aştığı zamanın, hayvan enfeksiyon modellerinde etkililiği en iyi öngören parametre  olduğu kanıtlanmıştır. 
+ Tazobaktam için, etkililikle ilişkili farmakodinamik göstergenin, tazobaktamın plazma 
+konsantrasyonunun bir eşik değerini aştığı doz aralığının yüzdesi (%T>eşik) olduğu belirlenmiştir. İn vitro  ve in vivo  klinik dışı modellerde eşik konsantrasyonun üzerindeki 
+zamanın, tazobaktamın etkililiğini en iyi öngören paramet re olduğu saptanmıştır.  
+ 
+Duyarlılık testi kırılma  noktaları  (breakpoint)  
+Avrupa Antimikrobiyal Duyarlılık Testleri  Komitesi (EUCAST) tarafından belirlenen 
+minimum inhibitör konsantrasyon kırılma  noktaları şunlardır:  
+ 
+ 
+  Minimum İnhibitör 
+Konsantrasyonları  
+(mg/L)  
+Patojen  Enfeksiyon Türü  Duyarlı  Dirençli  
+Enterobacterales  Komplike intra -abdominal 
+enfeksiyonlar*  
+Komplike idrar yolu enfeksiyonları* Akut piyelonefrit*  
+Ventilatör ilişkili pnömoni (VİP) dahil 
+hastaneden edinilmiş pnömoni (HEP) ** ≤ 2 > 2 
+P. aeruginosa  Komplike intra -abdominal 
+enfeksiyonlar*  
+Komplike idrar yolu enfeksiyonları* Akut piyelonefrit*  
+Ventilatör ilişkili pnömoni (VİP) dahil 
+hastaneden edinilmiş pnömoni (HEP) ** ≤ 4 > 4 
+H. influenzae  Ventilatör ilişkili pnömoni (VİP) dahil 
+hastaneden edinilmiş pnömoni (HEP) ** ≤ 0,5 > 0,5 
+*8 saatte bir intravenöz yolla uygulanan 1 g seftolozan/0,5 g tazobaktama dayanır.  
+**8 saatte bir intravenöz yolla uygulanan 2 g seftolozan/1  g tazobaktama dayanır. 12  
+Spesifik  patojenlere karşı klinik etkililik  
+Klinik çalışmalarda her bir endikasyonun altında listelenen ve ZERBAXA 'ya in vitro  olarak 
+duyarlı olan patojenlere karşı etkililik kanıtlanmıştır: 
+ Komplike intra -abdominal enfeksiyonlar  
+ 
+Gram -negatif bakteriler  
+Enterobacter cloacae Escherichia coli  
+Klebsiella oxytoca  
+Klebsiella pneumoniae  
+Proteus mirabilis  
+Pseudomonas aeruginosa  
+Gram -pozitif bakteriler  
+Streptococcus anginosus  
+Streptococcus constellatus  
+Streptococcus salivarius  
+ Piyelonefrit dahil k omplike idrar yolu enfeksiyonları  
+ 
+Gram -negatif bakteriler  
+Escherichia coli  
+Klebsiella pneumoniae  
+Proteus mirabilis  
+ Ventilatör ilişkili pnömoni (VİP) dahil hastaneden edinilmiş pnömoni (HEP)  
+Gram -negatif bakteriler  
+Enterobacter cloacae Escherichia coli  
+Haemophilus influenzae  
+Klebsiella oxytoca  
+Klebsiella pneumoniae  
+Proteus mirabilis  
+Pseudomonas aeruginosa Serratia marcescens  
+ İn vitro  çalışmalar kazanılmış  direnç mekanizmaları olmadığı takdirde ZERBAXA'ya karşı 
+duyarlı olduklarını gösterse de , aşağıdaki patojenlere karşı klinik etkililik kanıtlanmamıştır:  
+Citrobacter freundii Citrobacter koseri  
+Klebsiella (Enterobacter)  aerogenes  
+Morganella morganii Proteus vulgaris  
+Serratia liquefacians  
+İn vitro  veriler, aşağıdaki türlerin seftolozan/tazobaktama  karşı  duyarlı olmadığını 
+göstermektedir:  
+Staphylococcus aureus  
+Enterococcus faecalis  13 Enterococcus faecium  
+ 
+Pediyatrik  popülasyon  
+ZERBAXA, doğumdan (gebelik yaşı >32 hafta ve doğum sonrası >7 gün olarak tanımlanan) 
+18 yaş a kadar olan  pediyatrik hastalarda çift  kör, randomize, aktif kontrollü klinik çalışmada, 
+biri komplike intraabdominal enfeksiyonları olan hastalarda (metronidazol ile kombinasyon halinde) ve diğeri komplike idrar yolu enfeksiyonları ve akut piyelonefriti olan hastalarda değerlendirilmiştir. Bu  çalışmalarda birincil hedef, seftolozan/tazobaktamın güvenliğini ve 
+tolere edilebilirliğini değerlendirmek; etkinlik ise ikincil bir tanımlayıcı son noktaydı.             
+eGFR < 50 mL/dk/1,73 m
+2 (Bedside Schwartz denklemi kullanılarak hesaplanmıştır ) olan 18 
+yaş altındaki hastalar bu klinik çalışmaların dışında tutulmuştur. Ek olarak, komplike karın içi enfeksiyonları olan 3 aylıktan küçük hastalardaki veriler sınırlıdır (ZERBAXA alan bir hasta). 
+TOC ’de (MITT) klinik iyileşme oranı, komplike karın içi enfeksiyonları olan pediyatrik 
+hastalarda meropenem için %100 ’e (21/21) kıyasla ZERBAXA için %80 (56/70) olmuştur. 
+TOC ’de (mMITT) mikrobiyolojik eradikasyon oranı, akut piyelonefrit ve komplike idrar yolu 
+enfeksiyonları olan pediyatrik hastalarda meropenem için %87,5 (21/24) ile karşılaştırıldığında ZERBAXA için %84,5 (60/71) olmuştur.  Avrupa İlaç Ajansı, ve ntilatör  ilişkili pnömoni (V İP) dahil hastaneden edinilmiş  pnömoni 
+(HEP) için bir ya da daha fazla pediyatrik popülasyon alt grubunda ZERBAXA ile yapılan 
+çalışmaların sonuçlarının  sunulması zorunluluğunu ertelemiştir (pediyatrik kullanım a ilişkin  
+bilgi için bkz. Bölüm 4.2). 
+ 5.2 Farmakokinetik  özellikler  
+ 
+Genel özellikler : 
+Seftolozan/tazobaktamın C maks ve EAA değerleri; tek doz seftolozan ın 250 mg ila 3 mg, tek doz 
+tazobaktam ın 500 mg ila 1,5 g doz aralığında yaklaşık olarak dozla orantılı biçimde artar.  
+Böbrek  fonksiyonu  normal  olan  sağlıklı  yetişkinlerde, her 8 saatte bir  10  güne  kadar uygulanan  2 g/1  g seftolozan/tazobaktam  veya birden fazla 1 saatlik IV  1 g/0,5  g seftolozan/tazobaktam infüzyonundan sonra kayda  değer  seftolozan/tazobaktam  birikimi  görülmemiştir .Seftolozanın veya tazobaktamın eliminasyon yarı ömrü (t
+1/2) dozdan 
+bağımsızdır.  
+ 
+Dağılım:  
+Seftolozan ve tazobaktamın insan plazma proteinlerine bağlanması düşüktür (sırasıyla yaklaşık %16- %21 ve %16-%30). Sağlıklı yetişkin  erkeklerde (n=51) tek bir 1 g/0,5 g IV dozundan 
+sonra seftolozan/tazobaktamın  ortalama (değişim katsayısı %CV) kararlı durum dağılım hacmi, 
+seftolozan ve tazobaktam için sırasıyla 13 ,5 L (%21) ve 18,2 L (%25) ’dir ve hücre dışı sıvı 
+hacmine benzerdir . 
+ Ventile  edilmiş  olan  ve  pnömoni  olduğu  doğrulanan  veya  pnömoniden  şüphelenilen hastalarda (N=22), 2 g/1 g seftolozan/tazobaktamın 1 saatlik intravenöz infüzyonundan veya böbrek fonksiyonuna göre ayarlanmış dozun 8 saatte bir infüzyonundan sonra plevral sıvıda seftolozan ve tazobaktam konsantrasyonları, doz aralığının %100'ü boyunca sırasıyla 8 mcg/mL ve 1 mcg/mL'den yüksek bulunmuştur. Seftolozan ve tazobaktamın ortalama akciğer epiteli  
+bulundurmayan plazma EAA oranları sırasıyla yaklaşık % 50 ve %62’dir  ve 1  g/0,5 g 
+seftolozan/tazobaktam alan  sağlıklı gönüllülerdekiyle benzerdir  (sırasıyla yaklaşık  %61 ve 
+%63).  
+ 14 Biyotransformasyon:  
+Seftolozan idrarda değişmemiş ana madde olarak atılmaktadır ve bu yüzden kayda  değer bir 
+düzeyde metabolize edilmemektedir. Tazobaktamın beta- laktam  halkası hidrolize edilerek, 
+farmakolojik olarak inaktif olan tazobaktam metaboliti M1'e dönüşmektedir. 
+ 
+Elimina syon: 
+Seftolozan , tazobaktam ve tazobaktam metaboliti M1 böbrekler tarafından elimine edilir . 
+Sağlıklı yetişkin  erkeklere tek  bir 1 g/0 ,5 g IV seftolozan/tazobaktam dozu uygulandıktan sonra, 
+seftolozanın %95'inden fazlası idrarda değişmemiş ana madde olarak atılmıştır. Tazobaktamın 
+%80'inden fazlası ana bileşen olarak atılmış ve geriye kalan miktarı da tazobaktam M1 
+metaboliti olarak atılmıştır. Tek doz seftolozan/tazobaktamdan sonra, seftolozanın renal klerensi (3 ,41 - 6,69 L/sa) plazma klerensine (4,10 - 6,73 L/sa) benzerdir ve bağlanmamış 
+bölümünün glomerüler filtrasyon hızıyla  benzerdir; bu da, seftolozanın böbrekler tarafından 
+glomerüler filtrasyon yoluyla atıldığını gösterir.  Böbrek fonksiyonu normal olan sağlıklı yetişkin lerde seftolozan ve tazobaktamın ortalama 
+terminal eliminasyon yarı ömürleri  sırasıyla yaklaşık 3 saat ve 1 saattir.  
+ 
+Doğrusallık/Doğrusal Olmayan Durum:  
+Seftolozan/tazobaktamın C maks ve EAA değerleri doz la orantılı olarak artar . Böbrek fonksiyonu  
+normal olan sağlıklı yetişkin lerde 10 güne kadar 8 saatte bir uygulanan 2 g/1 g’a kadar çoklu  
+IV infüzyonlarından sonra, seftolozan/tazobaktamın plazma düzeyleri kayda  değer ölçüde 
+artma z. Seftolozanın eliminasyon yarı ömrü (t 1/2) dozdan bağımsızdır.  
+ 
+Hastalardaki karakteristik özellikler : 
+ 
+Böbrek yetmezliği:  
+Seftolozan , tazobaktam ve tazobaktam metaboliti M1 böbrekler tarafından elimine edil ir. 
+ Seftolozan dozuna göre normalize edilen geometrik ortalama EAA değeri, hafif, orta ve şiddetli 
+böbrek yetmezliği olan yetişkin  hastalarda, böbrek fonksiyonu normal olan yetişkin sağlıklı 
+gönüllülere göre sırasıyla 1 ,26 kat, 2,5 kat ve 5 kat artmıştır. İlgili tazobaktam dozuna göre 
+normalize edilen geometrik ortalama EAA, yaklaşık 1,3 kat, 2 kat ve 4 kat artmıştır. Normal 
+böbrek fonksiyonu olan kişilerle  benzer sistemik maruziyeti korumak için doz ayarlaması 
+yapılması gerekmektedir (bkz. Bölüm 4.2).  Son evre böbrek hastalığı olan ve hemodiyaliz alan yetişkin hastalarda, uygulanan 
+seftolozan/tazobaktam dozunun yaklaşık üçte ikisi hemodiyaliz yoluyla uzaklaştırılabilir . 
+Hemodiyalize giren ve son evre böbrek hastalığının eşlik ettiği komplike intra -abdominal 
+enfeksiyonlar  veyakomplike idrar yolu enfeksiyonlar  (akut piyelonefr iti dahil)  olan yetişkin 
+hastalar için önerilen doz, tek bir 500 mg/250 mg seftolozan/tazobaktam yükleme dozu ve 
+sonrasında tedavi döneminin geri kalanı boyunca 8 saatte bir 100 mg/50 mg seftolozan/tazobaktam idame dozudur. Hemodiyalize giren ve son evre böbrek hastalığının eşlik ettiği hastanede n edinilmiş  pnömoni si olan  (ventilatör ilişkili pnömoni dahil) yetişkin 
+hastalarda önerilen doz tek bir 1,5 g/0,75 g seftolozan/tazobaktam yükleme dozu ve sonrasında tedavi döneminin geri kalanı boyunca 8 saatte bir 300 mg/150 mg seftolozan/tazobakt am idame 
+dozudur. Hemodiyaliz olduğunda, doz diyalizin tamamlanmasından hemen sonra uygulanmalıdır (bkz. Bölüm 4.2). 15 Renal klerenste artış : 
+Kreatinin klerensi ( CrCL ) 180 mL/ dak veya daha yüksek olan kritik derecede ağır yetişkin 
+hastalara (N=10)  2 g/1 g seftolozan/tazobaktamın 1 saatlik tek bir intravenöz infüzyonla 
+verilmesinin ardından seftolozan ve tazobaktamın ortalama  terminal yarı ömür değerleri 
+sırasıyla  2,6 saat ve 1,5 saatti r. Serbest plazmadaki seftolozan  konsantrasyonları 8 saatlik 
+periyodun %70’inde 8 mcg/mL ’den yüksektir  ve serbest  tazobaktam konsantrasyonları 8 
+saatlik periyodun %60’ında  1 mcg/mL ’den yüksektir. Ventilatör ilişkili pnömoni dahil 
+hastaneden  edinilmiş pnömoni  olan, renal klerensi artmış yetişkin hastalarda 
+seftolozan/tazobaktam dozunda ayarlama gerekli değildir . 
+ 
+Karaciğer yetmezliği : 
+Seftolozan/tazobaktam hepatik metabolizmaya uğramadığı  için, seftolozan/tazobaktamın 
+sistemik klerensinin karaciğer yetmezliğinden etkilenmesi beklenmemektedir. Karaciğer  
+yetmezliği olan hastalarda seftolozan/tazobaktam için doz ayarlaması gerekli değildir  (bkz. 
+Bölüm 4.2).  
+ 
+Geriyatrik Popülasyon:  
+Seftolozan/tazobaktam ın farmakokinetik analizinin yapıldığı bir popülasyonda,  maruz kalımda 
+yaşla ilgili olarak klinik açıdan anlamlı farklar  görülmemiştir. Seftolozan/tazobaktam dozunda 
+yalnızca yaşa dayalı doz ayarlamasıgerek li değildir. 
+ 
+Pediyatrik  Popülasyon:  
+Komplike intra -abdominal enfeksiyonları ve pyelonefrit de dahil komplike idrar yolu 
+enfeksiyonları olan pediyatrik hastalarda Z ERBAXA doz önerileri için, bölüm 4.2'deki Tablo 
+2'ye bakınız.  
+ Pediyatrik hastalarda (18 yaş altı) seftolozan ve tazobaktamın farmakokinetiği, bir Faz 1 çalışma sında (kanıtlanmış veya şüpheli gram negatif enfeksiyonda) ve iki Faz 2 çalışma sında 
+(komplike intraabdominal enfeksiyonlarda ve komplike idrar yollarında, piyelonefrit dahil enfeksiyonlar da) değerlendirilmiştir. Bu üç çalışmadan elde edilen veriler toplanmış  ve kararlı 
+durum EAA ve C
+maks'ı tahmin etmek ve ayrıca  farmakokinetik/farmakodinamik  hedefe ulaşma 
+olasılığını (PTA) değerlendirmek amacıyla  simülasyonlar gerçekleştirmek için popülasyon 
+farmakokinetik modellemesi yapıl mıştır . 
+ Komplike intraabdominal enfeksiyonları veya komplike idrar yolu enfeksiyonları olan 2 ila 18 yaş arasındaki pediyatrik hastalarda seftolozan ve tazobaktam için kararlı durum EAA ve C
+maks 
+değerleri genellikle yetişkinlere benzerdir.  2 yaşın altındaki pediyatrik hastalarda seftolozan ve 
+tazobaktamın kullanımına ilişkin deneyim sınırlıdır. Bu pediyatrik hastalarda önerilen doz rejimleri, popülasyon farmakokinetik modelleri kullanılarak yürütülen simülasyonlara dayanmaktadır ve 2 yaşın altındaki pediyatrik hastalar ve daha büyük çocuklar ve yetişkinler arasında kararlı durum EAA ve C
+maks'ta klinik olarak anlamlı farklılıklar beklenmemektedir.  
+ Komplike karın içi enfeksiyonları veya komplike idrar yolu enfeksiyonları olan                  eGFR 
+≤ 50 mL/dk/1,73 m
+2 olan pediyatrik hastalar için bir doz rejimi önermek için yetersiz klinik 
+farmakokinetik veri mevcuttur.  
+ 
+Cinsiyet:  
+Seftolozan/tazobaktam ın farmakokinetik analizinin yapıldığı bir popülasyonda,  seftolozan ve 
+tazobaktam ın EAA değerlerinde klinik açıdan anlamlı bir fark gözlenmemiştir . Cinsiyete göre 
+doz ayarlaması gerek li değildir . 16 Etnik köken:  
+Seftolozan/tazobaktamın farmakokinetik analizinin yapıldığı bir popülasyon da,   
+seftolozan/tazobaktam ın EAA değerlerinde beyaz ırk için diğer  tüm etnik gruplara  göre klinik 
+açıdan anlamlı bir fark görülmemiştir. Irka göre doz ayarlaması gerekmemektedir.  
+ 
+5.3 K linik öncesi güvenlilik  verileri  
+ Güvenlilik farmakolojisi, yetişkin ve juvenil hayvanlarda tekrarlanan  doz toksisitesi ya da 
+genotoksisiteyle ilgili geleneksel çalışmalara göre, klinik dışı veriler insanlar için özel bir tehlike yi ortaya koymamaktadır. Seftolozan/tazobaktam ile karsinojenisite çalışması 
+yapılmamıştır.  
+ Klinik dışı çalışmalarda ki etkiler, yalnızca maksimum insan maruziyetinin yeterince aştığı 
+düşünülen maruziyetlerde gözlemlenmiş olup, klinik kullanımla çok az ilgili olduğunu 
+göstermektedir.  
+ Klinik çalışmalarda gözlenmeyen ancak hayvanlarda klinik maruziyet düzeylerine benzer 
+maruziyet düzeylerinde görülen ve klinik kullanım açısından muhtemelen önemli olabilecek advers reaksiyonlar şunlardır : Gebelik ve laktasyon  sırasında sıçanlara seftolozan uygulanması,  
+300 ve 1.000 mg/kg/gün maternal dozlar da postnatal 60. günde erkek yavrularda işitsel irkilme 
+tepkisinde düşüşle ilişkilendirilmiştir. Sıçanlarda 300 mg/kg/gün dozu, insanlarda önerilen en yüksek dozda (8 saatte bir 2 g) görülen seftolozan plazma EAA değerin den daha düşük 
+seftolozan plazma maruz kalımıyla (EAA) ilişkili bulunmuştur.  
+ Sıçanlarda intraperitoneal tazobaktam uygulamasından sonra, maternal toksisiteyle birlikte perinatal/postnatal gelişimde bozukluk görülmüştür (yavru ağırlıklarında azalma , ölü 
+doğum larda artış , yavru ölümünde  artış) . 
+ 
+Çevresel  risk değerlendirmesi  (ÇRD ) 
+Çevresel Risk Değerlendirmesi çalışmaları, etkin maddelerden biri olan  seftolozanın yüzey 
+sularında yaşayan organizmalar için risk oluşturabileceğini göstermektedir  (bkz. Bölüm  6.6). 
+  6. FARMASÖTİK ÖZELLİKLER  
+ 6.1 Yardımcı maddelerin listesi  
+ Sodyum klorür  
+Arjinin  
+Susuz s itrik asit  
+ 6.2 Geçimsizlikler  
+ Bu tıbbi ürün Bölüm 6.6’da belirtilenler dışındaki  tıbbi ürünlerle karıştırılmamalıdır . 
+ 6.3 Raf ömrü  
+ 36 ay.  
+ 17 6.4 Saklamaya yönelik özel tedbirler  
+ 
+2°C -8°C arasında buzdolabında saklayınız.  
+Işıktan korumak için orijinal ambalajında saklayınız.  Sulandırıldıktan ve seyreltildikten sonra, tıbbi ürünün kimyasal ve fiziksel kullanım stabilitesinin oda sıcaklığında 24 saat veya 2 -8°C'de 4 gün boyunca devam ettiği kanıtlanmıştır. 
+Bu tıbbi ürün ışığa duyarlıdır ve orijinal kartonunda saklanmadığı zaman ışıktan korunmalıdır.  
+ Mikrobiyolojik açıdan, tıbbi ürün sulandırıldıktan hemen sonra kullanılmalıdır. Hemen kullanılmazsa, kullanım öncesi saklama süreleri ve koşulları kullanıcının sorumluluğundadır ve sulandırma/seyreltme kontrollü ve valide edilmiş aseptik koşullarda gerçekl eştirilmediği sürece 
+normalde 2- 8°C'de 24 saatten uzun olmayacaktır.  
+ 6.5 Ambalajın niteliği ve içeriği 
+ Tıpalı (bromobütil kauçuk) ve flip- off kapaklı 20 mL flakon (Tip I şeffaf  cam).  
+ Her ambalaj 10 flakon içermektedir.  
+ 6.6 Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler   
+ Her bir flakon tek kullanımlıktır.  
+ İnfüzyonluk çözelti hazırlanırken aseptik teknik kullanılmalıdır.  
+ 
+Dozların hazırlanması  
+İnfüzyonluk konsantre çözelti için toz, flakon başına 10 mL enjeksiyonluk su ya da 9 mg/mL (%0,9) enjeksiyonluk sodyum klorür çözeltisi ile sulandırılmaktadır; sulandırıldıktan sonra 
+tozun çözünmesi için flakon hafifçe çalkalanmalıdır. Son hacim flakon başına yaklaşık 11,4 mL'dir. Elde edilen konsantrasyon flakon başına yaklaşık olarak 132 mg/mL'dir (88 mg/mL seftolozan ve 44 mg/mL tazobaktam).  
+ DİKKAT: SULANDIRILMIŞ ÇÖZELTİ DOĞRUDAN ENJEKSİYON İÇİN DEĞİLDİR.  
+ ZERBAXA infüzyonluk çözelti berraktır ve renksiz ila hafif sarı arası renktedir. Bu aralıktaki renk değişimleri ürünün potensini etkilemez.  
+ Endikasyon ve böbrek fonksiyonuna göre ZERBAXA için önerilen doz rejimleri için bkz. Bölüm  4.2. Her bir dozun hazırlanması aşağıda anlatılmaktadır. 
+  
+İNFÜZYON TORBASINDA yetişkin dozlarının hazırlanmasına yönelik talimatlar:  
+ 
+2 g seftolozan/1 g tazobaktam dozunun hazırlanması: Sulandırılmış iki flakonun tüm içeriği 
+(flakon başına yaklaşık 11,4 mL) bir enjektör kullanılarak çekilir ve 100 mL %0,9 enjeksiyonluk sodyum klorür (normal salin) ya da %5 glukoz enjeksiyonu içeren infüzyon torbasına eklenir.  
+ 18 1,5 g seftolozan/0,75 g tazobaktam dozunun hazırlanması: Sulandırılmış flakonun tüm içeriği 
+(flakon başına yaklaşık 11 ,4 mL) ve sulandırılmış ikinci flakondan 5 ,7 ml bir enjektör 
+kullanılarak çekilir ve 100 mL %0,9 enjeksiyonluk sodyum klorür (normal salin) ya da %5 glukoz enjeksiyonu içeren infüzyon torbasına eklenir.  1 g seftolozan/0,5 g tazobaktam dozunun hazırlanması: Sulandırılmış flakonun tüm içeriği (yaklaşık 11,4 mL) bir enjektör kullanılarak çekilir ve 100 mL %0 ,9 enjeksiyonluk sodyum 
+klorür (normal salin) ya da %5 glukoz enjeksiyonu içeren infüzyon torbasına eklenir.  
+ 500 mg seftolozan/250 mg tazobaktam dozunun hazırlanması: Sulandırılmış flakon içeriğinden 5,7 mL çekilir ve 100 mL %0,9 enjeksiyonluk sodyum klorür (normal salin) ya da %5 glukoz enjeksiyonu içeren infüzyon torbasına eklenir.  
+ 300 mg seftolozan/150 mg tazobaktam dozunun hazırlanması: Sulandırılmış flakon içeriğinden 3,5 mL çekilir ve 100 mL %0,9 enjeksiyonluk sodyum klorür (normal salin) ya da %5 glukoz enjeksiyonu içeren infüzyon torbasına eklenir.  
+ 250 mg seftolozan/125 mg tazobaktam dozunun hazırlanması: Sulandırılmış flakon içeriğinden 2,9 mL çekilir ve 100 mL %0,9 enjeksiyonluk sodyum klorür (normal salin) ya da %5 glukoz enjeksiyonu içeren infüzyon torbasına eklenir.  
+ 100 mg seftolozan/50 mg tazobaktam dozunun hazırlanması: Sulandırılmış flakon içeriğinden 1,2 mL çekilir ve 100 mL %0,9 enjeksiyonluk sodyum klorür (normal salin) ya da %5 glukoz enjeksiyonu içeren infüzyon torbasına eklenir.  
+ 
+İNFÜZYON TORBASINDA veya İNFÜZYON ŞIRINGASINDA pedi yatrik dozların 
+hazırlanmasına yönelik talimatlar: 
+ NOT: Aşağıdaki prosedür, nihai konsantrasyonu 10 mg/mL seftolozan  / 5 mg/mL tazobaktam 
+olacak şekilde 100 mL stok çözelti hazırlamak için gereken adımları tarif etmektedir. Pedi yatrik 
+hastalara uygulanacak olan bu stok çözeltinin hacmi, hastanın vücut ağırlığına göre uygun dozun hesaplanmasına dayanacaktır  (bölüm 4.2'ye bakınız). Ayrıntılı adımlar ve hesaplamalar 
+verilmiştir.  
+ 
+1. Stok çözeltinin hazırlanması (100  mL hacimli 10  mg/mL seftolozan  / 5 mg/mL 
+tazobaktam): Rekonstitüe şırınganın içeriğinin tamamını (yaklaşık 11,4 mL) şırıngayla çekip, 89 mL %0,9 enjeksiyonluk sodyum klorür (normal salin) veya %5 glukoz enjeksiyonu içeren bir infüzyon torbasına ekleyin.  
+2. Gereken hacimde infüzyonluk stok çözeltinin hazırlanması:  
+a. Pediyatrik hastaya gerekli dozu uygulamak için uygun Z ERBAXA miktarını mg 
+cinsinden hesaplayın. Miligram cinsinden olan bu doza dayanarak, uygulanacak olan 10 mg/mL seftolozan  / 5 mg/mL tazobaktamın uygun hacmini hesaplayın. 
+Hesaplamaları doğrulamak için aşağıdaki Tablo 5'e bakın. Unutmayın ki bu tablo, hesaplanmış olabilecek tüm dozları İÇERMEMEKTEDİR, ancak, hesaplamayı doğrulamak için uygun hacmi tahmin etmek amacıyla kullanılabi lir. 
+b. Uygun şekilde hesaplanmış hacimli bir stok çözeltiyi, yeterli büyüklükteki bir infüzyon torbasına veya infüzyon şırıngasına aktarın. Tablo 5'te gösterilen değerler yaklaşık değerler olup, daha ufak hacimler için uygun büyüklükteki bir şırınganın en yakın hacim çizgisine yuvarlama yapmak gerekebilir.  19  
+Tablo 5: 100 mL'lik 10 mg/mL seftolozan  / 5 mg/mL tazobaktam stok çözeltisinden 
+pediyatrik hastalar (doğumdan* 18 yaş altına kadar) için Z ERBAXA hazırlanması  
+ZERBAXA 
+dozu (mg/kg)  Vücut ağırlığı (kg) Hesaplanan seftolozan miktarı (mg)  Hesaplanan tazobaktam miktarı (mg)  Hastaya 
+uygulanacak 
+stok çözelti hacmi (mL) 
+20 mg/kg seftolozan /  
+10 mg/kg tazobaktam**  50 ve üzeri  1.000 500 100 
+40 800 400 80 
+30 600 300 60 
+20 400 200 40 
+15 300 150 30 
+10 200 100 20 
+5 100 50 10 
+3 60 30 6 
+1,5 30 15 3 
+*>32 haftalık gebelik süresi ve doğum sonrası ≥7 gün olarak tanımlanır.  
+**Vücut ağırlığı >50 kg olan ve eGFR'si >50 mL/dak/1,73 m2 olan çocuklarda maksimum doz 
+olan 1 g seftolozan /  0,5 g tazobaktam aşılmamalıdır.  
+ Etkin maddelerden biri olan seftolozan  sulak  ortama ulaşması halinde aquatik organizmalar 
+için zararlı olabilir  (bkz. Bölüm  5.3). Kullanılmayan tıbbi ürünleri yada atık maddeleri atık 
+suya atmayınız.  
+ 
+Kullanılmamış ürünler yada atık materyaller ‘Tıbbi Atıkların Kontrolü Yönetmeliği’ ve 
+‘Ambalaj Atıklarının Kontrolü Yönetmelikleri’ne uygun olarak imha edilmelidir.  
+ 
+7. RUHSAT SAHİBİ  
+ 
+Merck Sharp Dohme İlaçları Ltd.Şti.  
+Esentepe Mah. Büyükdere Cad.  
+No:199  Levent 199 Ofis Blok Kat:13 Levent 34394  İstanbul  
+Tel: (0212) 336 10 00  
+Faks: (0212) 355 02 02  
+ 8. RUHSAT NUMARASI   
+ 
+2017/326  
+ 
+9. İLK RUHSAT TARİHİ/RUHSAT YENİLENME TARİHİ  
+ 
+İlk ruhsat tarihi: 18.05.2017 
+Ruhsat yenileme tarihi:  26.05.2022 
+ 
+10. KÜB’ÜN YENİLENME TARİHİ  
+ 
+ 

@@ -1,0 +1,3084 @@
+1 
+ KISA ÜRÜN BİLGİSİ 
+ 
+▼ Bu ilaç ek izlemeye tabidir. Bu üçgen yeni güvenlilik bilgisinin hızlı olarak belirlenmesini 
+sağlayacaktır. Sağlık mesleği mensuplarının şüpheli advers reaksiyonları TÜFAM’a bildirmeleri 
+beklenmektedir. Bakınız Bölüm 4.8 Advers reaksiyonlar nasıl raporlanır? 
+ 
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI 
+ 
+YERVOY 200 mg/40 mL IV infüzyonluk çözelti konsantresi içeren flakon   
+Steril 
+ 
+2. KALİTATİF VE KANTİTATİF BİLEŞİM 
+ 
+Etkin madde:    
+ 
+İpilimumab  5 mg/mL 
+ 
+40 mL’lik bir flakon 200 mg ipilimumab içerir. 
+ 
+İpilimumab rekombinant DNA teknolojisi ile Çin hamsteri over hücrelerinde üretilen tamamen insana 
+özgü bir anti-CTLA-4 monoklonal antikordur (IgG1κ). 
+ 
+Yardımcı madde(ler): 
+ 
+Çözeltinin her mL’si 0.1 mmol sodyum, yani 2,30 mg sodyum içerir. 
+ 
+Yardımcı maddeler için 6.1’e bakınız. 
+ 
+3. FARMASÖTİK FORM 
+ 
+İnfüzyonluk çözelti konsantresi (steril konsantre) 
+ 
+Berrak ilâ hafif opalesan, renksiz ilâ açık sarı sıvıdır, içinde az miktarda partikül olabilir ve pH değeri 
+7 osmolaritesi ise 260-300 mOsm/kg’dır. 
+ 
+4. KLİNİK ÖZELLİKLER 
+ 
+4.1 Terapötik endikasyonları 
+ 
+Melanom 
+YERVOY, daha önce en az bir seri sistemik tedavi kullanmış ve sonrasında progresyon göstermiş 
+rezeke edilemeyen relaps veya metastatik erişkin malign melanom hastalarının tedavisinde endikedir. 
+YERVOY, nivolumab ile kombinasyon halinde, ECOG performans durumu 0-1 olan yetişkinlerde 
+ileri evre (rezeke edilemeyen veya metastatik) melanom tedavisinde endikedir. 
+ 
+Renal Hücreli Karsinom (RHK) 
+YERVOY, nivolumab ile kombinasyon halinde IMDC risk kategorisi orta/kötü riskli, Karnofsky 
+Performans Durumu 70 ve üzerinde olan ileri evre renal hücreli karsinomlu yetişkin hastaların birinci 
+basamak tedavisinde endikedir (bkz. Bölüm 5.1). 
+ 
+ 
+ 2 
+ Küçük Hücreli Dışı Akciğer Kanseri (KHDAK) 
+YERVOY, nivolumab ve 2 kür platin bazlı kemoterapi ile kombinasyon halinde, EGFR mutasyonu 
+veya ALK translokasyonu bulunmayan metastatik küçük hücreli dışı akciğer kanserli ECOG 
+Performans Skoru 0-1 olan yetişkin hastaların birinci basamak tedavisinde endikedir. 
+ 
+Malign Plevral Mezotelyoma (MPM) 
+YERVOY, nivolumab ile kombinasyon halinde, rezeke edilemeyen malign plevral mezotelyoması 
+olan yetişkin hastaların birinci basamak tedavisinde endikedir. 
+ 
+4.2 Pozoloji ve uygulama şekli 
+ 
+Tedavi, kanser tedavisinde deneyimli uzman doktorlar tarafından başlatılmalı ve kontrol edilmelidir 
+ 
+Pozoloji/uygulama sıklığı ve süresi: 
+ 
+YERVOY Monoterapisi 
+ 
+Melanom 
+Yetişkinlerde  
+YERVOY’un önerilen indüksiyon rejimi 3 haftada bir 30 dakikalık bir sürede intravenöz yoldan 
+uygulanan 3 mg/kg olmak üzere toplam 4 dozdur. Yeni lezyonların ortaya çıkmasına ya da var olan 
+lezyonların büyümesine bakılmaksızın, hastalar tolere ettikleri sürece, bütün indüksiyon rejimini (4 
+doz) almalıdırlar. Tümörün verdiği yanıtı, ancak indüksiyon tedavisi tamamlandıktan sonra 
+değerlendirmek gerekir. 
+ 
+Nivolumab ile kombinasyon halinde YERVOY  
+ 
+Melanom 
+Önerilen doz; ilk 4 doz boyunca her 3 haftada bir intravenöz yoldan uygulanan 1 mg/kg nivolumab 
+ile kombinasyon halinde 3 mg/kg YERVOY şeklindedir. Tablo 1’de gösterildiği üzere, bunu her 2 
+haftada bir 240 mg veya her 4 haftada bir 480 mg dozunda intravenöz yoldan uygulanan nivolumab 
+monoterapi fazı takip eder (bkz. Bölüm 5.1 ve 5.2). Monoterapi fazında, ilk nivolumab dozu aşağıda 
+gösterilen şekillerde uygulanmalıdır; 
+ Her iki haftada bir 240 mg uygulanıyor ise, nivolumab ve YERVOY kombinasyonunun son 
+dozundan 3 hafta sonra; veya  
+ Her 4 haftada bir 480 mg uygulanıyor ise, nivolumab ve YERVOY kombinasyonunun son 
+dozundan 6 hafta sonra. 
+ 
+Tablo 1: Nivolumab ile kombinasyon halinde intravenöz YERVOY uygulaması için önerilen dozlar 
+ve infüzyon süreleri  
+ Kombinasyon fazı, 4 doz 
+döngüsü boyunca her 3 
+haftada bir Monoterapi fazı 
+Nivolumab 30 dakika boyunca 1 mg/kg Her 2 haftada bir 30 dakika boyunca 240 mg 
+ya da 
+her 4 haftada bir 60 dakika boyunca 480 mg   
+YERVOY  30 dakika boyunca 3 mg/kg   
+ 
+Renal Hücreli Karsinom (RHK) 
+Önerilen doz; ilk 4 doz boyunca her 3 haftada bir intravenöz yoldan uygulanan 3 mg/kg nivolumab 
+ile kombinasyon halinde 1 mg/kg YERVOY şeklindedir. Tablo 2’de gösterildiği üzere, bunu her 2 
+haftada bir 240 mg veya  her 4 haftada bir 480 mg dozunda intravenöz yoldan uygulanan nivolumab 3 
+ monoterapi fazı takip eder. Monoterapi fazında, ilk nivolumab dozu aşağıda gösterilen şekillerde 
+uygulanmalıdır;  
+ Her iki haftada bir 240 mg uygulanıyor ise, YERVOY ve nivolumab kombinasyonunun son 
+dozundan 3 hafta sonra; veya  
+ Her 4 haftada bir 480 mg uygulanıyor ise, YERVOY ve nivolumab kombinasyonunun son 
+dozundan 6 hafta sonra. 
+ 
+Tablo 2: Nivolumab ile kombinasyon halinde intravenöz YERVOY uygulaması için 
+önerilen dozlar ve infüzyon süreleri  
+ Kombinasyon fazı, 4 doz 
+döngüsü boyunca her 3 
+haftada bir  Monoterapi fazı 
+Nivolumab  30 dakika boyunca 3 mg/kg Her 2 haftada bir 30 dakika boyunca 240 mg 
+ya da  
+her 4 haftada bir 60 dakika boyunca 480 mg  
+YERVOY  30 dakika boyunca 1 mg/kg - 
+ 
+Malign plevral mezotelyoma 
+Önerilen doz, 6 haftada bir 30 dakika boyunca intravenöz yoldan uygulanan 1 mg/kg YERVOY ile 
+kombinasyon halinde her 3 haftada bir 30 dakika boyunca intravenöz yoldan uygulanan 360 mg 
+nivolumab veya 2 haftada bir 30 dakikalık intravenöz infüzyonla verilen 3 mg/kg nivolumabdır. 
+Hastalık progresyonuna, kabul edilemez toksisiteye veya hastalık progresyonu olmayan hastalarda 
+24 aya kadar tedavi önerilir. 
+ 
+Nivolumab ve kemoterapi ile kombinasyon halinde YERVOY 
+ 
+Küçük hücreli dışı akciğer kanseri 
+Önerilen doz, 6 haftada bir 30 dakika boyunca intravenöz yoldan uygulanan 1 mg/kg YERVOY ve 
+her 3 haftada bir uygulanan platin bazlı kemoterapi ile kombinasyon halinde her 3 haftada bir 30 
+dakika boyunca intravenöz yoldan uygulanan 360 mg nivolumabtır. 2 kür kemoterapi 
+tamamlandıktan sonra tedaviye 6 haftada bir 1 mg/kg YERVOY ile kombinasyon halinde 3 haftada 
+bir intravenöz yoldan uygulanan 360 mg nivolumab ile devam edilir. Hastalık progresyonuna, kabul 
+edilemez toksisiteye veya hastalık progresyonu olmayan hastalarda 24 aya kadar tedavi önerilir. 
+ 
+Tedavi süresi 
+Nivolumab ile kombinasyon halinde YERVOY tedavisi, klinik yarar gözlendiği sürece ya da hasta 
+artık tedaviyi tolere edemeyene dek (ve belirli bir endikasyon için belirtilmişse maksimum tedavi 
+süresine kadar) kullanılmaya devam edilmelidir.  
+ 
+Atipik yanıtlar (yani ilk birkaç ay içinde tümörün boyutunda başlangıca göre geçici bir artış veya 
+küçük yeni lezyonlar ve ardından tümörün küçülmesi) gözlenmiştir. Klinik açıdan stabil hastalarda 
+hastalığın ilerlediğine ilişkin ilk kanıtın ardından, hastalığın ilerlediği doğrulanana kadar, nivolumab 
+ile kombinasyon halinde YERVOY tedavisine devam edilmesi önerilir. 
+ 
+Karaciğer fonksiyon testleri (KCFT) ve tiroid fonksiyon testleri, başlangıçta ve de her bir YERVOY 
+dozunun uygulanmasından önce değerlendirilmelidir. Buna ek olarak, diyare ve kolit dahil olmak 
+üzere immünite ile ilişkili advers reaksiyonlara ilişkin her bir belirti veya semptom, YERVOY 
+tedavisi sırasında değerlendirilmelidir (bkz. Tablo 3A, 3B ve bölüm 4.4). 
+ 4 
+ Tedavinin tamamen bırakılması ya da dozların atlanması 
+ 
+İmmünite ile ilişkili advers reaksiyonları tedavi etmek için bir dozun atlanması ya da YERVOY 
+tedavisinin tamamen kesilerek yüksek dozda sistemik kortikosteroid başlanması gerekebilir. Bazı 
+vakalarda ek bir immünosüpresif tedavinin başlatılması düşünülebilir (bkz. bölüm 4.4). 
+ 
+Dozun yükseltilmesi veya azaltılması önerilmez. Bireysel güvenlilik ve tolerabiliteye dayanarak 
+dozun ertelenmesi veya kesilmesi gerekebilir.  
+ 
+Tablo 3A’da ve 3B’de monoterapi olarak YERVOY için, Tablo 3C’de ise nivolumab ile 
+kombinasyon halinde verilen YERVOY için ya da kombinasyon tedavisini takiben tedavinin ikinci 
+fazı (nivolumab monoterapisi) için dozların sonlandırılmasına ya da dozlara ara verilmesine yönelik 
+rehber yer almaktadır. İmmünite ile ilişkili advers reaksiyonların yönetimi için rehber Bölüm 4.4’te 
+yer almaktadır. 
+ 
+a Toksisite dereceleri Advers Olaylar için Ulusal Kanser Enstitüsü Ortak Terminoloji Kriterlerine uygundur. 
+ Versiyon 4.0  (NCI-CTCAE v4). 
+b İmmun sistem ile ilgili olduğu kanıtlanan veya olduğundan şüphelenilen herhangi diğer  advers reaksiyonları 
+CTCAE’ye göre derecelendirilmelidir. YERVOY’u kesme kararı olayın şiddetine göre alınmalıdır. 
+c  Hormon replasman tedavisi ile kontrol edilen şiddetli (Derece 3 veya 4) endokrinopatisi olan hastalar,  tedaviye 
+  devam edebilir.  
+ Tablo 3A Monoterapi olarak kullanıldığında, YERVOY’un tamamen 
+bırakılması gereken durumlar 
+Aşağıdaki advers reaksiyonların görüldüğü hastalarda YERVOY tamamen kesilir. Bu 
+advers reaksiyonların tedavisinde ayrıca, immünite ile ilişkili olduğu kanıtlanırsa veya 
+bundan şüphelenilirse yüksek dozda sistemik kortikosteroidin kullanılması da gerekebilir 
+(detaylı tedavi bilgisi için bölüm 4.4’e bakınız) 
+Advers Reaksiyonlar NCI-CTCAE v4 Derecea 
+Gastrointestinal: 
+Ciddi semptomlar (karın ağrısı, şiddetli diyare ya da dışkı 
+miktarında kayda değer değişiklik, dışkıda kan, 
+gastrointestinal hemoraji, gastrointestinal perforasyon)  Derece 3 veya 4 diyare ya da kolit  
+Hepatik: 
+Ciddi aspartat aminotransferaz (AST), alanin 
+aminotransferaz (ALT) veya total bilirubin artışı veya 
+hepatotoksisite semptomları  AST, ALT ya da total bilirubin 
+Derece 3 veya 4 artış 
+Deri: 
+Ciltte yaşamı tehdit eden döküntüler (Stevens-Johnson 
+sendromu veya toksik epidermal nekroliz dahil) veya 
+günlük aktiviteleri etkileyen ya da tıbbî müdahale 
+gerektiren ciddi yaygın kaşıntı Derece 4 döküntü veya Derece 3 
+kaşıntı 
+Nörolojik: 
+Yeni ortaya çıkan ya da kötüleşen şiddetli motor veya 
+duyusal nöropati  Derece 3 veya 4 motor veya  
+duyusal nöropati 
+Diğer organ sistemlerib: 
+(örn, nefrit, pnömonit, pankreatit, non-infeksiyöz 
+myokardit, diyabet)  ≥ Derece 3 immünite ile ilişkili 
+reaksiyonlarc 
+≥ Derece 2 topikal 
+immünosüpresif tedaviye yanıt 
+vermeyen immünite ile ilişkili 
+göz rahatsızlıkları  
+Derece 4 diyabet  5 
+ Tablo 3B Monoterapi olarak kullanıldığında, YERVOY dozlarının atlanması 
+gereken durumlar 
+Aşağıdaki immünite ile ilişkili advers reaksiyonların görüldüğü hastaların YERVOY 
+dozlarıa atlanır. Detaylı tedavi bilgisi bölüm 4.4’te verilmiştir. 
+Advers Reaksiyonlar Aksiyon 
+Gastrointestinal: 
+Tıbbi tedavi ile kontrol edilemeyen, uzun süren (5-7 gün) 
+veya nükseden orta şiddette diyare veya kolit 1. Advers reaksiyon düzelip Derece 
+1 veya Derece 0’a (ya da 
+başlangıçtaki durumuna) gelene 
+kadar doza ara verilir. 
+2. Eğer düzelirse, tedaviye devam 
+edilir d. 
+3. Eğer düzelmezse, düzelene kadar 
+dozlar atlanır ve tedaviye kaldığı 
+yerden devam edilir d. 
+4. Derece 1 ya da Derece 0’a gelmez 
+veya başlangıç seviyesine geri 
+dönmez ise YERVOY kesilir. 
+ Hepatik: 
+Derece 2 AST, ALT ya da total bilirubinde artış 
+Deri: 
+Orta ile ciddi seviyede (Derece 3)b cilt döküntüleri veya 
+etiyolojisine bakmaksızın (Derece 2) yaygın/yoğun kaşıntı  
+Endokrin: 
+Endokrin bezlerinde, hormon replasman tedavisi veya 
+yüksek dozda immünosüpresif tedavi ile yeterince kontrol 
+altına alınamayan hipofizit ve tiroidit gibi şiddetli advers 
+reaksiyonlar 
+ 
+Derece 3 diyabet  
+Nörolojik: 
+Orta şiddette (Derece 2)b açıklanamayan motor nöropati, 
+kas zayıflığı veya duyusal nöropati (4 günden uzun süren) 
+Orta şiddetteki diğer advers reaksiyonlarc 
+a YERVOY dozunun azaltılması önerilmez.  
+b Toksisite dereceleri Advers Olaylar için Ulusal Kanser Enstitüsü Ortak Terminoloji Kriterlerine uygundur.  Versiyon 
+4.0 (NCI-CTCAE v4). 
+c İmmünite ile ilişkili olduğu düşünülen diğer organ sistemi advers reaksiyonları CTCAE’ye göre 
+ derecelendirilmelidir. Dozu kesme kararı olayın şiddetine göre verilmelidir. 
+d  Hangisi daha erkense, 4 doz uygulanana ya da ilk dozdan itibaren 16 hafta geçene kadar 
+ 
+Tablo 3C: Nivolumab ile kombinasyon halinde YERVOY için önerilen tedavi değişiklikleri 
+veya kombinasyon tedavisinden sonra tedavinin ikinci fazının (nivolumab monoterapisi) 
+uygulanması 
+İmmünite ile 
+ilişkili advers 
+reaksiyonlar  Şiddet Tedavi değişikliği 
+İmmünite ile 
+ilişkili pnömonit Derece 2 pnömonit Semptomlar iyileşene, radyografik 
+anomaliler düzelene ve 
+kortikosteroidlerle tedavi tamamlanana 
+kadar doz(lar)a ara verilir. 
+ 
+Derece 3  veya 4  pnömonit  Tedavi  kalıcı olarak kesilir. 
+İmmünite ile 
+ilişkili kolit Derece 2 diyare veya kolit 
+ 
+  Semptomlar iyileşene ve gerekirse 
+kortikosteroidlerle tedavi tamamlanana 
+kadar doz(lar)a ara verilir. 
+Derece 3 veya 4  diyare veya kolit  Tedavi kalıcı olarak kesilir. 6 
+ Tablo 3C: Nivolumab ile kombinasyon halinde YERVOY için önerilen tedavi değişiklikleri 
+veya kombinasyon tedavisinden sonra tedavinin ikinci fazının (nivolumab monoterapisi) 
+uygulanması 
+İmmünite ile 
+ilişkili advers 
+reaksiyonlar  Şiddet Tedavi değişikliği 
+İmmünite ile 
+ilişkili hepatit  Aspartat aminotransferaz (AST), 
+alanin aminotransferaz (ALT) 
+veya total bilirubin’de Derece 2 
+yükselme  Laboratuvar değerleri başlangıç 
+düzeylerine dönene ve gerekirse 
+kortikosteroidlerle tedavi tamamlanana 
+kadar doz(lar)a ara verilir.  
+AST, ALT veya total bilirubin’de 
+Derece 3 veya 4 yükselme  Tedavi kalıcı olarak kesilir. 
+İmmünite ile 
+ilişkili nefrit ve 
+renal fonksiyon 
+bozukluğu   Kreatinin düzeylerinde Derece 
+2 veya 3 yükselme  Kreatinin başlangıç düzeylerine 
+dönene ve gerekirse kortikosteroidlerle 
+tedavi tamamlanana kadar doz(lar)a 
+ara verilir. 
+Kreatinin düzeyinde Derece 
+4 yükselme  Tedavi kalıcı olarak kesilir. 
+İmmünite ile 
+ilişkili 
+endokrinopatiler Derece 2 veya 3 semptomatik 
+hipotiroidizm, hipertiroidizm, 
+hipofizit  
+Derece 2 adrenal yetmezlik  
+Derece 3 diyabet 
+ 
+ 
+ Semptomlar iyileşene ve (akut 
+enflamasyon semptomları için 
+gerekirse) kortikosteroidlerle tedavi 
+tamamlanana kadar doz(lar)a ara 
+verilir. Herhangi bir semptom 
+görülmediği sürece hormon replasman 
+tedavisia ile birlikte tedaviye devam 
+edilmelidir.  
+Derece 4 hipotiroidizm  
+Derece 4 hipertiroidizm 
+Derece 4 hipofizit 
+Derece 3 veya 4 adrenal yetmezlik 
+Derece  4 diyabet  Tedavi kalıcı olarak kesilir. 
+İmmünite ile 
+ilişkili deri advers 
+reaksiyonları Derece 3 döküntü Semptomlar iyileşene ve gerekirse 
+kortikosteroidlerle tedavi tamamlanana 
+kadar doz(lar)a ara verilir. 
+ 7 
+ Tablo 3C: Nivolumab ile kombinasyon halinde YERVOY için önerilen tedavi değişiklikleri 
+veya kombinasyon tedavisinden sonra tedavinin ikinci fazının (nivolumab monoterapisi) 
+uygulanması 
+İmmünite ile 
+ilişkili advers 
+reaksiyonlar  Şiddet Tedavi değişikliği 
+Derece 4 döküntü  Tedavi kalıcı olarak kesilir. 
+Stevens-Johnson sendromu (SJS) 
+veya toksik epidermis nekrolizisi 
+(TEN) Tedavi kalıcı olarak kesilir. (bkz. 
+Bölüm 4.4). 
+İmmünite ile 
+ilişkili miyokardit Derece 2 miyokardit 
+ 
+ Semptomlar iyileşene ve gerekirse 
+kortikosteroidlerle tedavi tamamlanana 
+kadar doz(lar)a ara verilirb 
+ 
+Derece 3 veya 4 miyokardit  Tedavi kalıcı olarak kesilir. 
+İmmünite ile 
+ilişkili diğer advers 
+reaksiyonlar Derece 3 (ilk ortaya çıkış)  Doz(lar)a ara verilir. 
+Derece 4 veya nüks eden Derece 
+3; tedavi modifikasyonuna karşın 
+inatçı Derece 2 veya 3; 
+kortikosteroid dozunun günde 10 
+mg prednizon veya eşdeğerine 
+azaltılamaması  Tedavi kalıcı olarak kesilir. 
+Not: Toksisite dereceleri Advers Olaylar için Ulusal Kanser Enstitüsü Ortak Terminoloji Kriterleri, Versiyon 4’e (NCI 
+CTCAE v4) uygundur. 
+a Hormon replasman tedavisinin kullanımı için öneriler Bölüm 4.4’te sunulmaktadır. 
+b Daha önce immünite ile ilişkili miyokarditi bulunan hastalarda nivolumab tedavisi ile kombinasyon halinde YERVOY’a 
+yeniden başlanmasının güvenliliği bilinmemektedir. 
+ 
+YERVOY nivolumab ile kombinasyon halinde aşağıdaki durumlarda kalıcı olarak kesilmelidir:  
+• Derece 4 ya da tekrarlayan Derece 3 advers reaksiyonlar;  
+• Tedaviye rağmen devam eden dirençli Derece 2 ya da 3 advers reaksiyonlar.  
+ 
+YERVOY nivolumab ile kombinasyon halinde uygulandığında, ajanlardan birinin kesilmesi halinde, 
+diğer ajan da kesilmelidir. Doz atlanması halinde doza yeniden başlandığı takdirde, hastanın bireysel 
+değerlendirmesi temel alınarak kombinasyon tedavisi veya nivolumab monoterapisine yeniden 
+başlatılabilir. 
+ 
+Uygulama şekli: 
+ 
+YERVOY intravenöz kullanım içindir. Önerilen infüzyon süresi 30 dakikadır.  
+ 
+YERVOY dilue edilmeden intravenöz yolla uygulanabildiği gibi enjeksiyonluk 9 mg/ml (%0,9) 
+sodyum klorür çözeltisi veya enjeksiyonluk 50 mg/ml (%5) glukoz çözeltisinde 1 ila 4 mg/ml arası 
+konsantrasyonlara seyreltilebilmektedir. 
+ 
+YERVOY, intravenöz puşe veya bolus enjeksiyon yoluyla uygulanmamalıdır. 
+ 
+Nivolumab ile kombinasyon halinde veya nivolumab ve kemoterapi ile kombinasyon halinde 
+uygulandığında, aynı gün içerisinde önce nivolumab ve ardından YERVOY ve sonrasında kemoterapi 
+(uygulanabiliyorsa) verilmelidir. Her bir infüzyon için ayrı infüzyon torbaları ve filtreleri 
+kullanılmalıdır. 
+ 8 
+ Tıbbi ürünün uygulanmadan önceki hazırlama ve kullanım talimatları bölüm 6.6’da verilmiştir. 
+ 
+Özel popülasyonlara ilişkin ek bilgiler 
+ 
+Pediyatrik popülasyon: 
+18 yaşından küçük çocuklarda YERVOY’un güvenliliği ve etkililiği belirlenmemiştir. Veri 
+bulunmamaktadır. YERVOY 18 yaşın altındaki çocuklarda kullanılmamalıdır.  
+ 
+Geriyatrik popülasyon: 
+Yaşlı (≥ 65 yaşında) ve daha genç (<65 yaşında) hastalar arasında genel güvenlilik ya da etkililik 
+farklılıkları rapor edilmemiştir. 75 yaş ve üstü RHK hastalarının birinci basamak tedavisinden gelen 
+veriler bu popülasyon açısından bir sonuca varmak için son derece kısıtlıdır (Bkz. Bölüm 5.1). Bu 
+popülasyonda spesifik doz ayarı gerekmez. 
+ 
+Böbrek yetmezliği: 
+Böbrek yetmezliği olan hastalarda YERVOY’un güvenliliği ve etkililiği çalışılmamıştır. Popülasyon 
+farmakokinetik sonuçlarına dayanarak, hafif ilâ orta şiddette renal disfonksiyonu olan hastalarda 
+spesifik bir doz ayarı yapmak gerekmez (bkz. bölüm 5.2).  
+ 
+Karaciğer yetmezliği: 
+Karaciğer yetmezliği olan hastalarda YERVOY’un güvenliliği ve etkililiği çalışılmamıştır. 
+Popülasyon farmakokinetik sonuçlarına dayanarak, hafif karaciğer yetmezliği olan hastalarda spesifik 
+bir doz ayarı yapmak gerekmez (bkz. bölüm 5.2). Başlangıçta transaminaz düzeyleri ≥ 5 x ÜNL ya 
+da bilirubin düzeyleri > 3 x ÜNL olan hastalarda YERVOY dikkatli uygulanmalıdır (bkz. bölüm 5.1).  
+ 
+4.3 Kontrendikasyonlar 
+ 
+Etkin maddeye veya bölüm 6.1’de listelenen yardımcı maddelerden herhangi birine karşı aşırı 
+duyarlılığı olanlarda kontrendikedir. 
+ 
+4.4 Özel kullanım uyarıları ve önlemleri 
+ 
+İzlenebilirlik 
+Biyoteknolojik tıbbi ürünlerin izlenebilirliğini iyileştirmek için uygulanan ürünün ticari ismi ve seri 
+numarası mutlaka hasta dosyasına kaydedilmelidir. 
+ 
+PD-L1 durumunun değerlendirilmesi 
+Tümörün PD-L1 durumunu değerlendirirken, iyi valide edilmiş ve güçlü bir metodolojinin 
+kullanılması önemlidir. 
+ 
+Nivolumab ile kombinasyon halinde YERVOY 
+YERVOY, kombinasyon halinde uygulandığında, tedavinin başlangıcından önce diğer kombinasyon 
+tedavi bileşenlerinin Kısa Ürün Bilgisi’ne bakınız. Nivolumab tedavisi ile ilişkili uyarılar ve önlemler 
+hakkında ayrıntılı bilgi almak için lütfen nivolumab KÜB'e bakınız. İmmün ilişkili advers 
+reaksiyonların birçoğu kortikosteroid tedavisinin başlatılması ve tedavi değişiklikleri dahil olmak 
+üzere uygun yönetim adımları ile iyileşmiş ya da çözülmüştür (bkz. Bölüm 4.2). Monoterapi olarak 
+uygulanan nivolumab ile karşılaştırıldığında nivolumabın, YERVOY ile kombinasyon şeklinde 
+uygulanması durumunda immünite ile ilişkili advers reaksiyonlar daha yüksek sıklıklarda oluşmuştur.  
+ 
+Kombinasyon tedavisinde pulmoner emboli dahil olmak üzere kardiyak ve pulmoner advers olaylar 
+da bildirilmiştir. Hastalar kardiyak ve pulmoner advers reaksiyonlar ayrıca tedavi öncesinde ve tedavi 
+sırasında periyodik olarak elektrolit bozukluklarının ve dehidratasyonun göstergesi olan klinik 9 
+ bulgular, semptomlar ve laboratuvar anormallikleri için sürekli izlenmelidir. Nivolumab ile 
+kombinasyon halinde YERVOY uygulaması yaşamı tehdit eden ya da tekrarlayan şiddetli kardiyak 
+ve pulmoner advers reaksiyonların meydana gelmesi halinde kesilmelidir (bkz. Bölüm 4.2). 
+ 
+Nivolumab ile kombinasyon halinde YERVOY tedavisi sırasında veya tedaviden sonraki herhangi 
+bir zamanda bir advers reaksiyon meydana gelebileceğinden, hastalar sürekli olarak (son dozu takiben 
+en az 5 ay) izlenmelidir.  
+ 
+İmmünite ile ilişkili reaksiyonlar 
+YERVOY, etki mekanizmasına bağlı olabilen artmış veya aşırı immün aktivite sonucu ortaya çıkan 
+enflamatuvar advers reaksiyonlar ile ilişkili bulunmuştur (immünite ile ilişkili advers reaksiyonlar). 
+Ciddi veya yaşamı tehdit edici olabilen immünite ile ilişkili advers reaksiyonlar, gastrointestinal, 
+karaciğer, deri, sinir, endokrin veya diğer organ sistemlerini içerebilmektedir. Çoğu immünite ile 
+ilişkili advers reaksiyonlar indüksiyon döneminde görülmüş olsa bile, son YERVOY dozu 
+uygulandıktan aylar sonra ortaya çıkanlar da bildirilmiştir. Farklı bir etiyoloji saptanmadıkça, diyare, 
+artan dışkı sıklığı, kanlı dışkı, KCFT değerlerinde artış, deri döküntüsü ve endokrinopati, 
+enflamatuvar ve YERVOY ile ilişkili olarak düşünülmelidir. Yaşamı tehdit eden komplikasyonları 
+minimize etmek için erken teşhis ve uygun yönetim gereklidir. 
+ 
+İmmünite ile ilişkili ciddi advers reaksiyonların tedavisi için ilave immünosüpresif tedavi ile birlikte 
+veya bu tedaviler olmaksızın yüksek dozda sistemik kortikosteroid gerekli olabilir. İmmünite ile 
+ilişkili advers reaksiyonların yönetimi için monoterapi olarak ya da nivolumab ile kombinasyon 
+halinde YERVOY’a özel kılavuz aşağıda yer almaktadır. 
+ 
+Şüpheli immünite ile ilişkili advers reaksiyonlar için, etiyolojiyi doğrulamak veya diğer nedenleri 
+dışlamak için uygun değerlendirmeler yapılmalıdır. Advers reaksiyonun şiddetine dayanarak, 
+YERVOY veya nivolumab ile kombinasyon halinde YERVOY tedavisine ara verilmeli ve 
+kortikosteroidler uygulanmalıdır. Kombinasyon tedavisinin sonucu olarak meydana gelen bir advers 
+reaksiyonu tedavi etmek üzere kortikosteroidlerle immünosüpresyon olması durumunda, iyileşme 
+sonrasında en az 1 aylık süre içerisinde azaltılarak kesilmelidir. Dozun kısa sürede kesilmesi advers 
+reaksiyonun kötüleşmesine veya tekrarlamasına yol açabilir. Kortikosteroid kullanımına rağmen 
+kötüleşme görülen veya iyileşme görülmeyen hastalarda kortikosteroid dışında bir immünosüpresif 
+tedavi eklenmelidir.  
+ 
+Hasta, immünosüpresif kortikosteroid dozlarını ya da diğer immünosüpresif tedavileri alırken 
+nivolumab ile kombinasyon halinde YERVOY tedavisi sürdürülmemelidir. İmmünosüpresif tedavi 
+alan hastalarda fırsatçı enfeksiyonların önlenmesi için profilaktik antibiyotikler kullanılmalıdır. 
+ 
+Herhangi bir şiddette immünite ile ilişkili advers reaksiyonun tekrarlaması veya yaşamı tehdit eden 
+herhangi bir immünite ile ilişkili advers reaksiyon görülmesi durumunda nivolumab ile kombinasyon 
+halinde YERVOY tedavisi kalıcı olarak kesilmelidir. 
+ 
+İmmünite ile ilişkili gastrointestinal reaksiyonlar 
+ 
+YERVOY monoterapisi 
+YERVOY immünite ile ilişkili ciddi gastrointestinal reaksiyonlar ile ilişkilendirilmiştir. Klinik 
+çalışmalarda gastrointestinal perforasyon nedeni ile ölümler bildirilmiştir (bkz. Bölüm 4.8).  
+ 
+Bir Faz 3 ileri evre (rezeke edilemeyen veya metastatik) melanom çalışmasında (MDX010-20, bkz. 
+Bölüm 5.1) 3 mg/kg dozunda YERVOY monoterapisi alan hastalarda şiddetli ya da fatal (Derece 3-
+5) immünite ile ilişkili gastrointestinal reaksiyonlar, tedaviye başlandıktan sonra ortanca 8 haftada 
+(aralık: 5 ilâ 13 hafta) görülmüştür. Protokolde belirtilen yönetim kılavuzlarıyla, vakaların büyük bir 10 
+ bölümünde (%90) düzelme (hafif [Derece 1] veya daha düşük şiddete veya başlangıçtaki şiddete 
+gerileme olarak tanımlanır) görülmüş olup, olayın ortaya çıkması ile düzelmesi arasında geçen 
+ortanca süre 4 haftadır (aralık: 0,6 ilâ 22 hafta). Hastalar immünite ile ilişkili kolit, diyare ya da 
+gastrointestinal perforasyonu akla getiren gastrointestinal belirti ve semptomlar açısından 
+gözlenmelidir. Klinik durum diyare, bağırsak hareketlerinde artış, karın ağrısı veya ateşli ya da ateşsiz 
+hematoşezi içerebilir. Klinik çalışmalarda immünite ile ilişkili kolit ülserasyon ile birlikte veya 
+ülserasyon olmadan mukoza enflamasyonu ve lenfositik ve nötrofilik infiltrasyon ile 
+ilişkilendirilmiştir.  Pazarlama sonrası, kortikosteroidlere dirençli immünite ile ilişkili kolit 
+hastalarında sitomegalovirüs (CMV) enfeksiyonu/reaktivasyonu olguları bildirilmiştir. Diyarenin ya 
+da kolitin ortaya çıkması durumunda enfeksiyöz ya da farklı etiyolojilerinin dışlanması amacıyla 
+dışkıda enfeksiyon araştırılmalıdır.  
+ 
+Diyare ile kolitin yönetim önerileri semptomların şiddetine göre belirlenir (NCI-CTCAE v4’e göre 
+şiddet derecelendirme sınıflandırması). Hafif ilâ orta şiddette (Derece 1 ya da 2) diyaresi (günde 6 
+defaya kadar dışkılama) olan veya hafif ila orta şiddette kolitten şüphelenilen (ör, karın ağrısı veya 
+dışkıda kan) hastalar YERVOY’a devam edebilirler. Semptomatik tedavi (ör, loperamid, sıvı 
+replasmanı) ve yakın gözlem önerilir. Eğer hafif ilâ orta şiddetteki semptomlar tekrarlar veya 5-7 gün 
+sürerse planlanan YERVOY dozuna ara verilmelidir ve kortikosteroid tedavisine (ör. günde bir defa 
+1 mg/kg oral prednizon ya da eşdeğeri) başlanmalıdır. Derece 0-1 veya başlangıç düzeyine geri 
+dönerse, YERVOY’a kalınan yerden devam edilebilir (bkz. Bölüm 4.2). 
+ 
+Ciddi (Derece 3 veya 4) diyare ya da kolitin geliştiği hastalarda YERVOY tamamen kesilmelidir 
+(bkz. Bölüm 4.2) ve sistemik yüksek dozda intravenöz kortikosteroid tedavisine derhal başlanmalıdır 
+(Klinik çalışmalarda 2 mg/kg/gün metilprednizolon kullanılmıştır). Diyare ve diğer semptomlar 
+kontrol edildikten sonra, klinik değerlendirme doğrultusunda kortikosteroid yavaş yavaş 
+azaltılmalıdır. Klinik çalışmalarda hızla azaltınca (<1 aylık sürelerde) bazı hastalarda diyare veya 
+kolit nüksetmiştir. Hastalarda gastrointestinal perforasyon ya da peritonit belirtileri 
+değerlendirilmelidir.  
+ 
+Klinik çalışmalarda elde edilen kortikosteroid-refrakter diyare ya da kolit tedavisi deneyimi sınırlıdır. 
+Diğer nedenlerin dışarıda bırakılması durumunda (biyopside viral PCR ve diğer viral, bakteriyel ve 
+parazitik etiyoloji ile değerlendirilen Sitomegalovirüs (CMV) enfeksiyonu/reaktivasyonu dahil) 
+kortikosteroide dirençli immünite ile ilişkili kolitte kortikosteroid rejimine alternatif bir 
+immünosüpresif ajan eklenmesi düşünülmelidir. Klinik çalışmalarda kontrendike olmadığı sürece 5 
+mg/kg’lık tek bir infliksimab dozu eklenmiştir. Gastrointestinal perforasyondan veya sepsisten 
+şüpheleniliyorsa infliksimab kullanılmamalıdır (İnfliksimab Kısa Ürün Bilgisi’ne bakınız). 
+ 
+İmmünite ile ilişkili kolit 
+ 
+Nivolumab ile kombinasyon halinde YERVOY 
+Nivolumab ile kombinasyon halinde YERVOY ile şiddetli diyare ya da kolit gözlenmiştir (bkz. 
+Bölüm 4.8). Hastalar diyare ya da karın ağrısı ve dışkıda mukus veya kan gibi ilave kolit semptomları 
+için izlenmelidir. Enfeksiyöz ve hastalıkla ilişkili etiyolojiler dışlanmalıdır.  
+ 
+Derece 4 diyare ya da kolit için nivolumab ile kombinasyon halinde YERVOY kalıcı olarak kesilmeli 
+ve 1 ila 2 mg/kg/gün metilprednizolon eşdeğer dozda kortikosteroid başlanmalıdır. 
+ 
+Nivolumab ile kombinasyon halinde YERVOY ile gözlenen Derece 3 diyare veya kolit, tedavinin 
+kalıcı olarak kesilmesini ve 1 ila 2 mg/kg/gün metilprednizolon eşdeğer dozda kortikosteroidlerin 
+başlatılmasını gerektirir. 
+ 11 
+ Derece 2 diyare ya da kolit için nivolumab ile kombinasyon halinde YERVOY’a ara verilmelidir. 
+Dirençli diyare veya kolit için, 0,5 ila 1 mg/kg/gün metilprednizolon eşdeğer dozda kortikosteroid ile 
+yönetilmelidir. İyileşmeden sonra, kortikosteroid tedavisinin kademeli olarak kesilmesini takiben 
+gerekirse nivolumab ile kombinasyon halinde YERVOY tedavisi yeniden başlatılabilir. 
+Kortikosteroid başlanmasına rağmen kötüleşme olursa veya iyileşme görülmezse kortikosteroid dozu 
+1 ila 2 mg/kg/gün metilprednizolon eşdeğerine yükseltilmeli ve nivolumab ile kombinasyon halinde 
+YERVOY kalıcı olarak kesilmelidir. 
+ 
+İmmünite ile ilişkili pnömonit 
+ 
+Nivolumab ile kombinasyon halinde YERVOY  
+Nivolumab ile kombinasyon halinde  YERVOY sırasında şiddetli pnömonit veya ölümcül vakalar 
+dahil olmak üzere interstisyel akciğer hastalığı gözlenmiştir (bkz. Bölüm 4.8). Hastalar radyografik 
+değişiklikler (ör., fokal buzlu cam opasiteleri ve yama tarzında filtratlar), dispne ve hipoksi gibi 
+pnömonit işaretleri ve semptomları açısından izlenmelidir. Enfeksiyöz ve hastalıkla ilişkili 
+etiyolojiler dışlanmalıdır. 
+ 
+Derece 3 veya 4 pnömonit için nivolumab ile kombinasyon halinde YERVOY kalıcı olarak kesilmeli 
+ve 2 ila 4 mg/kg/gün metilprednizolon eşdeğer dozda kortikosteroide başlanmalıdır. 
+ 
+Derece 2 (semptomatik) pnömonit için nivolumab ile kombinasyon halinde  YERVOY’a ara verilmeli 
+ve 1 mg/kg/gün metilprednizolon eşdeğeri kortikosteroide başlanmalıdır. İyileşmeden sonra, 
+kortikosteroidin kademeli olarak kesilmesini takiben YERVOY ile kombinasyon halinde nivolumab 
+yeniden başlatılabilir. Kortikosteroide başlanmasına rağmen kötüleşme olursa veya iyileşme 
+görülmezse kortikosteroid dozu 2 ila 4 mg/kg/gün metilprednizolon eşdeğerine yükseltilmeli ve 
+nivolumab ile kombinasyon halinde YERVOY kalıcı olarak kesilmelidir. 
+ 
+İmmünite ile ilişkili hepatotoksisite 
+ 
+YERVOY monoterapisi 
+YERVOY ciddi immünite ile ilişkili hepatotoksisite ile ilişkilendirilmiştir. Klinik çalışmalarda 
+ölümcül hepatik yetmezlik rapor edilmiştir (bkz. Bölüm 4.8). 
+ 
+MDX010-20’de 3 mg/kg YERVOY monoterapisi alan hastalarda orta ilâ ciddi şiddette ya da fatal 
+(Derece 2-5) immünite ile ilişkili hepatotoksisite, tedaviye başlandıktan sonra 3 ilâ 9 hafta içinde 
+ortaya çıkmıştır. Protokolde belirtilen yönetim kılavuzları ile, iyileşme süresi 0,7 ilâ 2 hafta arasında 
+değişmiştir. 
+ 
+Erken laboratuvar değişiklikleri immünite ile ilişkili hepatitin göstergesi olabileceği için her 
+YERVOY dozundan önce hepatik transaminaz ve bilirubin değerlendirilmelidir (bkz. Bölüm 4.2). 
+Klinik semptom görülmeyen durumlarda KCFT yükselmeleri olabilir. Enfeksiyonlar, tümör 
+progresyonu veya birlikte kullanılan ilaçlar dahil diğer hepatik yaralanma nedenlerini bertaraf etmek 
+için AST ve ALT ya da total bilirubin artışları değerlendirilip düzelene kadar gözlemlenmelidir. 
+İmmünite ile ilişkili hepatotoksisitesi olan hastaların karaciğer biyopsilerinde akut enflamasyon 
+belirtilerine rastlanmıştır (nötrofiller, lenfositler ve makrofajlar). 
+ 
+Derece 2 transaminaz ya da total bilirubin yükselmesi olan hastalarda planlanan YERVOY dozuna 
+ara verilmeli ve KCFT düzelene kadar gözlenmelidir. İyileşme olduktan sonra YERVOY’a devam 
+edilebilir (bkz. Bölüm 4.2). 
+ 
+Derece 3 veya 4 transaminaz ya da total bilirubin yükselmesi görülen hastaların tedavileri tamamen 
+kesilmelidir (bkz. Bölüm 4.2); bu hastalara sistemik yüksek doz intravenöz kortikosteroid tedavisine 12 
+ (ör. günde 2 mg/kg metilprednizolon ya da eşdeğeri) derhal başlanmalıdır. Bu hastalarda KCFT, 
+normalleşene kadar gözlemlenmelidir. Semptomlar düzelip KCFT’de sürekli gelişme gözlenince 
+veya KCFT başlangıç seviyesine dönünce klinik değerlendirmeye göre kortikosteroid yavaş yavaş 
+azaltılmaya başlanmalıdır. Azaltma en az 1 ay sürmelidir. Azaltma dönemindeki KCFT yükselmeleri 
+kortikosteroid dozu arttırılıp azaltma yavaşlatılarak tedavi edilebilir. 
+ 
+KCFT yükselmeleri ciddi ve kortikosteroid tedavisine refrakter olan hastalarda kortikosteroid 
+rejimine alternatif olarak bir immünosüpresif ajan ilavesi düşünülebilir. Klinik çalışmalarda, 
+kortikosteroid tedavisine yanıt vermeyen veya kortikosteroid dozunun azaltıldığı dönemde 
+kortikosteroid dozu arttırılarak düşürülemeyen KCFT yükselmeleri olan hastalarda mikofenolat 
+mofetil kullanılmıştır (mikofenolat mofetilin Kısa Ürün Bilgisi’ne bakınız). 
+ 
+Nivolumab ile kombinasyon halinde YERVOY  
+Nivolumab ve YERVOY kombinasyonu ile ciddi hepatit gözlenmiştir (bkz. Bölüm 4.8). Hastalar 
+transaminaz ve total bilirubin seviyelerinde yükselmeler gibi hepatit belirti ve semptomları açısından 
+izlenmelidir. Enfeksiyöz ve hastalıkla ilgili etiyolojiler dışlanmalıdır.     
+ 
+Derece 3 ve 4 transaminaz ya da total bilirubin yükselmeleri için nivolumab ile YERVOY 
+kombinasyonu kalıcı olarak kesilmeli, 1-2 mg/kg/gün metilprednizolon eşdeğer dozunda 
+kortikosteroid başlanmalıdır.    
+ 
+Derece 2 transaminaz ya da total bilirubin yükselmeleri için nivolumab ile YERVOY 
+kombinasyonuna ara verilmelidir. Laboratuvar değerlerinde inatçı yükselmeler 0,5-1 mg/kg/gün 
+metilprednizolon eşdeğer dozunda kortikosteroidlerle yönetilmelidir. İyileşme sağlandığında 
+kortikosteroidler azaltılarak kesildikten sonra gerekiyorsa nivolumab ile YERVOY kombinasyonu 
+yeniden başlanabilir. Kortikosteroidlerin başlanmasına rağmen kötüleşme olursa ya da iyileşme 
+olmazsa kortikosteroid dozu 1-2 mg/kg/gün metilprednizolon eşdeğer dozuna çıkartılmalı ve 
+nivolumab ile YERVOY kombinasyonu kalıcı olarak kesilmelidir.  
+ 
+İmmünite ile ilişkili advers deri reaksiyonları  
+Önceki immün uyarıcı kanser tedavisi sırasında ağır ya da yaşamı tehdit eden advers deri 
+reaksiyonları öyküsü olan hastalarda YERVOY veya nivolumab ile kombinasyon halinde YERVOY 
+kullanımı düşünüldüğünde dikkatli olunmalıdır.  
+ 
+YERVOY monoterapisi 
+YERVOY immünite ile ilişkili olabilecek ciddi advers deri reaksiyonu ile ilişkilendirilmiştir. 
+Bazılarında ölümcül sonuçlar görülen ender toksik epidermal nekroliz (TEN) vakaları (Stevens-
+Johnson Sendromu dahil) gözlenmiştir, Klinik çalışmalarda ve pazarlama sonrası kullanımda 
+Eozinofili ve Sistemik Semptomların Eşlik Ettiği İlaç Reaksiyonları (DRESS) rapor edilmiştir (bkz. 
+Bölüm 4.8).  
+ 
+DRESS şu özelliklerden bir veya daha fazlasıyla ilişkili eozinofilinin eşlik ettiği döküntüler olarak 
+ortaya çıkar: ateş, lenfadenopati, yüzde ödem ve iç organ tutulumu (hepatik, renal, pulmoner). 
+DRESS, tıbbi ürüne maruziyet ile hastalığın başlangıcı arasında uzun latent bir dönemle (iki ila sekiz 
+hafta) karakterize olabilir. 
+ 
+YERVOY’un indüklediği döküntü ve kaşıntı çoğunlukla hafif veya orta şiddetteydi (Derece 1 ya da 
+2) ve semptomatik tedaviye cevap vermekteydi. MDX010-20’de 3 mg/kg YERVOY monoterapisi 
+alan hastalarda orta ilâ ciddi şiddette veya fatal (Derece 2-5) advers deri reaksiyonlarının ortanca 
+ortaya çıkış süresi tedaviye başlandıktan sonra 3 hafta (aralık: 0,9-16 hafta) olmuştur. Protokolde 
+belirtilen yönetim rehberinde çoğu vaka (%87) düzelmiş, olayın ortaya çıkması ile düzelmesi arasında 
+ortanca 5 hafta geçmiştir (aralık: 0,6 – 29 hafta). 13 
+ YERVOY’un indüklediği döküntü ve kaşıntı şiddetine göre yönetilmelidir. Hafif ilâ orta şiddette 
+(Derece 1 veya 2) döküntü görülen hastalar YERVOY’a devam edip semptomatik tedavi görebilirler 
+(ör. antihistaminikler). 1 ilâ 2 hafta süren ve lokal kortikosteroidler ile iyileşmeyen hafif ilâ orta 
+şiddette döküntü veya hafif kaşıntı vakalarında oral kortikosteroid tedavisi başlatılmalıdır (ör. günde 
+bir kere 1 mg/kg prednizon ya da eşdeğeri). 
+ 
+Ciddi (Derece 3) döküntü görülen hastalarda planlanan YERVOY dozuna ara verilmelidir. Eğer 
+başlangıçtaki semptomlar hafif dereceye (Derece 1) gerilerse ya da ortadan tamamen kalkarsa 
+YERVOY tedavisine devam edilebilir (bkz. Bölüm 4.2).  
+ 
+Çok ciddi (Derece 4) döküntü veya ciddi (Derece 3) kaşıntı görülen hastalarda YERVOY tamamen 
+kesilmeli (bkz. Bölüm 4.2) ve derhal yüksek dozda sistemik intravenöz kortikosteroid tedavisi (ör. 2 
+mg/kg/gün dozunda metilprednizolon) başlatılmalıdır. Döküntü ya da kaşıntı kontrol altına alındıktan 
+sonra, klinik değerlendirmeye göre kortikosteroidinin azaltılmasına başlanmalıdır. Azaltma süresi en 
+az 1 ay olmalıdır. 
+ 
+Nivolumab ile kombinasyon halinde YERVOY  
+Nivolumab ile kombinasyon halinde YERVOY’da şiddetli döküntü gözlenmiştir (bkz. Bölüm 4.8). 
+Nivolumab ile kombinasyon halinde YERVOY tedavisinde Derece 3 döküntü görülürse tedaviye ara 
+verilmeli, Derece 4 döküntüde ise kesilmelidir. Şiddetli döküntü için, 1 ila 2 mg/kg/gün 
+metilprednizolon eşdeğer dozda yüksek doz kortikosteroid ile yönetilmelidir.  
+  
+Bazıları fatal sonuç gösteren seyrek SJS ve TEN olguları gözlenmiştir. SJS veya TEN belirtileri veya 
+bulguları gelişirse, nivolumab ile kombinasyon halinde YERVOY tedavisi kesilmelidir ve hasta 
+değerlendirme ve tedavi için uzman bir üniteye yönlendirilmelidir. Hastada nivolumab ile 
+kombinasyon halinde YERVOY kullanımına bağlı SJS veya TEN gelişmişse, tedavinin kalıcı olarak 
+kesilmesi önerilir (bkz. Bölüm 4.2). 
+ 
+İmmünite ile ilişkili nörolojik reaksiyonlar 
+ 
+YERVOY monoterapisi 
+YERVOY immünite ile ilişkili ciddi nörolojik advers reaksiyonlar ile ilişkilendirilmiştir. Klinik 
+çalışmalarda fatal Guillain-Barré sendromu rapor edilmiştir. Myastenia gravis benzeri semptomlar da 
+bildirilmiştir (bkz. Bölüm 4.8). Hastalar kas zayıflığından şikayet edebilir. Duyusal nöropati de 
+olabilir. 
+ 
+4 günden fazla süren açıklanamayan motor nöropati, kas zayıflığı ya da duyusal nöropati 
+değerlendirilmeli ve hastalığın progresyonu, enfeksiyonlar, metabolik sendromlar ve eşzamanlı ilaç 
+tedavileri gibi enflamatuvar olmayan nedenler bertaraf edilmelidir. Muhtemelen YERVOY’a bağlı 
+orta şiddette (Derece 2) nöropatisi olan hastalarda (duyusal ya da duyusal olmayan motor) planlanan 
+doza ara verilmelidir. Eğer nörolojik semptomlar başlangıç seviyesine geri gelirse, hasta YERVOY’a 
+devam edebilir (bkz. Bölüm 4.2). 
+  
+YERVOY’a bağlı olduğundan şüphelenilen ciddi (Derece 3 ya da 4) duyusal nöropatisi olan 
+hastalarda YERVOY kalıcı olarak kesilmelidir (bkz. Bölüm 4.2). Hastalar kurumun duyusal 
+nöropatiye yönelik yönetim rehberleri doğrultusunda tedavi edilmeli ve derhal intravenöz 
+kortikosteroidlere (ör. 2 mg/kg/gün metilprednizolon) başlanmalıdır. 
+  
+Progresif motor nöropati bulguları immünite ile ilişkili olarak değerlendirilmeli ve buna göre 
+yönetilmelidir. Nedeni ne olursa olsun şiddetli (Derece 3 ya da 4) motor nöropati geliştiren hastalarda 
+YERVOY tamamen kesilmelidir (bkz. Bölüm 4.2). 
+ 14 
+ İmmünite ile ilişkili nefrit ve renal fonksiyon bozukluğu  
+ 
+Nivolumab ile kombinasyon halinde YERVOY  
+Nivolumab ile kombinasyon halinde YERVOY ile şiddetli nefrit veya böbrek fonksiyon bozukluğu 
+gözlenmiştir (bkz. Bölüm 4.8). Hastalar, nefrit ve böbrek fonksiyon bozukluğu belirti ve semptomları 
+için izlenmelidir. Hastaların çoğunda herhangi bir semptom olmadan serum kreatininde artış 
+gözlenmiştir. Hastalıkla ilişkili etiyolojiler dışlanmalıdır. 
+ 
+Derece 4 serum kreatinin artışları için nivolumab ile kombinasyon halinde YERVOY kalıcı olarak 
+kesilmeli ve 1 ila 2 mg/kg/gün metilprednizolon eşdeğer dozunda kortikosteroidlere başlanmalıdır. 
+ 
+Derece 2 veya 3 serum kreatinin artışı için, nivolumab ile kombinasyon halinde YERVOY’a ara 
+verilmeli ve 0,5 ila 1 mg/kg/gün metilprednizolon eşdeğer dozda kortikosteroidlere başlanmalıdır. 
+İyileşmeden sonra, kortikosteroid dozunun kademeli olarak kesilmesini takiben nivolumab ile 
+kombinasyon halinde YERVOY yeniden başlatılabilir. Kortikosteroide başlanmasına rağmen 
+kötüleşme olursa veya iyileşme görülmezse kortikosteroid dozu 1 ila 2 mg/kg/gün metilprednizolon 
+eşdeğerine yükseltilmeli ve nivolumab ile kombinasyon halinde YERVOY kalıcı olarak kesilmelidir. 
+ 
+İmmünite ile ilişkili endokrinopati 
+ 
+YERVOY monoterapisi 
+YERVOY endokrin sistem organlarında enflamasyona neden olabilir; hipofizit, hipopituitarizm, 
+adrenal yetmezlik, hipotiroidizm, Tip 1 diyabetis mellitus ve diyabetik ketoasidoz (bkz. Bölüm 4.2 
+ve 4.8) görülebilir ve hastalar beyin metastazı ya da altta yatan hastalık gibi başka nedenlere benzeyen 
+spesifik olmayan semptomlar gösterebilirler. En sık görülen klinik tablo baş ağrısı ve yorgunluktur. 
+Semptomlar arasında görüş alanı bozuklukları, davranış değişiklikleri, elektrolit bozuklukları ve 
+hipotansiyon da olabilir. Adrenal krizin hastanın semptomlarından biri olup olmadığı anlaşılmalıdır. 
+YERVOY ile ilişkilendirilen endokrinopati ile klinik deneyim sınırlıdır. 
+ 
+MDX010-20’de 3 mg/kg dozunda YERVOY monoterapisi uygulanan hastalar için orta ilâ çok 
+şiddetli (Derece 2-4) immünite ile ilişkili endokrinopatinin görülmesi tedaviye başlandıktan 7 ilâ 
+yaklaşık 20 hafta sonrasında olmuştur. Klinik çalışmalarda gözlenen immünite ile ilişkili 
+endokrinopati genellikle immünosüpresif ilaç tedavisi ve hormon replasman tedavisi ile kontrol 
+edilmiştir. 
+ 
+Eğer, ciddi dehidratasyon, hipotansiyon veya şok gibi adrenal kriz bulguları varsa derhal 
+mineralokortikoid aktivitesi olan intravenöz kortikosteroidlerin uygulanması önerilir ve hasta sepsis 
+veya enfeksiyon açısından değerlendirilmelidir. Eğer adrenal yetmezlik bulguları varsa fakat hasta 
+adrenal krizde değilse laboratuvar ve görüntüleme değerlendirmeleri dahil daha fazla araştırma 
+yapmak gerekir. Kortikosteroid tedavisine başlamadan önce endokrin fonksiyonu değerlendirmek 
+için laboratuvar sonuçlarına bakılabilir. Eğer pituiter görüntüleme ya da endokrin fonksiyon 
+laboratuvar testleri anormalse, etkilenen bezin enflamasyonunu tedavi etmek amacıyla kısa bir süre 
+için yüksek dozda kortikosteroid tedavisi (ör. 6 saatte bir 4 mg deksametazon veya eşdeğeri) 
+uygulanması ve planlanan YERVOY dozuna ara verilmesi önerilir (bkz. Bölüm 4.2). Kortikosteroid 
+tedavisinin bezin fonksiyon bozukluğunu düzeltip düzeltmediği halen bilinmemektedir. Uygun 
+hormon replasmanına da başlanmalıdır. Uzun süreli hormon replasman tedavisi gerekebilir. 
+ 
+Semptomatik diyabet için, YERVOY verilmemeli ve gerektiğinde insülin replasmanı başlatılmalıdır. 
+Uygun insülin replasmanının kullanıldığından emin olmak için kan şekerinin izlenmesi devam 
+etmelidir. Hayatı tehdit eden diyabet için YERVOY kalıcı olarak kesilmelidir. 
+ 15 
+ Semptomlar veya laboratuvar anomalileri kontrol altına alınıp hastanın genel olarak iyiye gittiği 
+kesinleşince, YERVOY tedavisi devam edebilir ve klinik değerlendirmeye göre kortikosteroid 
+dozunun yavaş yavaş düşürülmesine başlanabilir. Doz düşürme, en az 1 aylık periyotlarla olmalıdır.  
+ 
+Nivolumab ile kombinasyon halinde YERVOY 
+Nivolumab ile kombinasyon halinde YERVOY tedavisi ile hipotiroidizm, hipertiroidizm, adrenal 
+yetmezlik (sekonder adrenokortikal yetmezlik dahil), hipofizit (hipopitüitarizm dahil), diabetes 
+mellitus ve diyabetik ketoasidoz dahil şiddetli endokrinopatiler gözlenmiştir (bkz. Bölüm 4.8).  
+ 
+Hastalar endokrinopatilerin klinik belirti ve semptomları, hiperglisemi ve tiroid fonksiyonundaki 
+değişiklikler açısından dikkatli şekilde izlenmelidir (tedavinin başında, tedavi sırasında periyodik 
+olarak ve klinik değerlendirmeye dayanarak gerekli olduğunda). Hastalarda yorgunluk, baş ağrısı, 
+mental durum değişiklikleri, karın ağrısı, olağandışı bağırsak alışkanlıkları ve hipotansiyon veya 
+beyin metastazları ya da altta yatan hastalık gibi diğer nedenlere benzeyen, spesifik olmayan 
+semptomlar görülebilir. Alternatif etiyoloji belirlenene dek, endokrinopati belirti ve semptomlarının 
+immünite ile ilişkili olduğu kabul edilmelidir. 
+ 
+Semptomatik hipotiroidizm için nivolumab ile kombinasyon halinde YERVOY’a ara verilmeli ve 
+gerektiği şekilde tiroid hormon replasmanına başlanmalıdır. Semptomatik hipertiroidizm için 
+nivolumab ile kombinasyon halinde YERVOY’a ara verilmeli ve gerektiği şekilde antitiroid ilaç 
+tedavisine başlanmalıdır. Tiroidin akut enflamasyonundan şüpheleniliyorsa, 1 ila 2 mg/kg/gün 
+metilprednizolon eşdeğeri dozda kortikosteroidlere başlanmalıdır. İyileşmeden sonra, kortikosteroid 
+dozunun kademeli olarak kesilmesini takiben gerekirse nivolumab ile kombinasyon halinde 
+YERVOY’a yeniden başlatılabilir. Uygun hormon replasmanının kullanıldığından emin olmak için 
+tiroid fonksiyonu sürekli şekilde izlenmelidir. Yaşamı tehdit eden hipertiroidizm veya hipotiroidizm 
+durumunda nivolumab ile kombinasyon halinde YERVOY kalıcı olarak kesilmelidir. 
+ 
+Semptomatik Derece 2 adrenal yetmezlik için nivolumab ile kombinasyon halinde YERVOY’a ara 
+verilmeli ve gerektiği şekilde fizyolojik kortikosteroid replasmanına başlanmalıdır. Ciddi (Derece 3) 
+veya yaşamı tehdit eden (Derece 4) adrenal yetmezlik durumunda nivolumab ile kombinasyon 
+halinde YERVOY kalıcı olarak kesilmelidir. Uygun kortikosteroid replasmanının kullanıldığından 
+emin olmak için adrenal fonksiyon ve hormon düzeyleri sürekli şekilde izlenmelidir. 
+ 
+Semptomatik Derece 2 veya 3 hipofizit için nivolumab ile kombinasyon halinde YERVOY’a ara 
+verilmeli ve gerektiği şekilde hormon replasmanına başlanmalıdır. Akut hipofiz bezi 
+enflamasyonundan şüpheleniliyorsa, 1 ila 2 mg/kg/gün metilprednizolon eşdeğeri dozda 
+kortikosteroidlere başlanmalıdır. İyileşmeden sonra, kortikosteroid dozunun kademeli olarak 
+kesilmesini takiben gerekirse nivolumab ile kombinasyon halinde YERVOY yeniden başlatılabilir. 
+Yaşamı tehdit eden (Derece 4) hipofizit durumunda nivolumab ile kombinasyon YERVOY kalıcı 
+olarak kesilmelidir. Uygun hormon replasmanının kullanıldığından emin olmak için hipofiz 
+fonksiyonu ve hormon düzeyleri sürekli şekilde izlenmelidir. 
+ 
+Semptomatik diyabet için nivolumab ile kombinasyon halinde YERVOY’a ara verilmeli ve gerektiği 
+şekilde insülin replasmanına başlanmalıdır. Uygun insülin replasmanının kullanıldığından emin 
+olmak için kan şekeri sürekli şekilde izlenmelidir. Yaşamı tehdit eden diyabet durumunda nivolumab 
+ile kombinasyon halinde YERVOY kalıcı olarak kesilmelidir. 
+ 
+İnfüzyon reaksiyonu 
+ 
+Monoterapi olarak ya da nivolumab ile kombinasyon halinde YERVOY  
+YERVOY ya da nivolumab ile kombinasyon halinde YERVOY ile yapılan klinik çalışmalarda ciddi 
+infüzyon reaksiyonları bildirilmiştir (bkz. Bölüm 4.8). Ciddi ya da yaşamı tehdit eden infüzyon 16 
+ reaksiyonu durumunda YERVOY ya da nivolumab ile kombinasyon halinde YERVOY infüzyonu 
+kesilmeli ve uygun tıbbi tedavi uygulanmalıdır. Hafif ya da orta şiddetteki infüzyon reaksiyonları 
+gelişen hastalara yakın izlem ve infüzyon reaksiyonları profilaksisi için yerel tedavi rehberlerine göre 
+verilen premedikasyon ile YERVOY ya da nivolumab ile kombinasyon halinde YERVOY verilebilir. 
+ 
+İmmünite ile ilişkili diğer advers reaksiyonlar 
+ 
+YERVOY monoterapisi 
+MDX010-20’de 3 mg/kg YERVOY monoterapisi alan hastalarda İmmünite ile ilişkili olduğundan 
+şüphe edilen aşağıdaki advers reaksiyonlar rapor edilmiştir: uveit, eozinofili, lipaz yükselmesi ve 
+glomerulonefrit. MDX010-20’de bundan başka 3 mg/kg YERVOY + gp100 peptid aşısı ile tedavi 
+edilen hastalarda iritis, hemolitik anemi, amilaz yükselmeleri, çoklu organ yetmezliği ve pnömonit 
+de bildirilmiştir. Pazarlama sonrasında Vogt-Koyanagi-Harada sendromu vakaları, seröz retina 
+dekolmanı ve infektif olmayan sistit vakaları bildirilmiştir (bkz. Bölüm 4.2 ve 4.8). 
+ 
+Ciddi (Derece 3 ya da 4) seyretmeleri halinde, bu reaksiyonlar derhal yüksek dozda sistemik 
+kortikosteroid tedavisinin başlanmasını ve YERVOY’un kesilmesini gerektirebilir (bkz. Bölüm 4.2). 
+YERVOY ilişkili uveit, iritis, seröz retina dekolmanı veya episklerit için topikal kortikosteroid göz 
+damlalarının tıbben endike olduğu varsayılabilir. YERVOY ilişkili oküler enflamasyonları olan 
+hastalarda geçici görme kaybı bildirilmiştir. 
+ 
+Pazarlama sonrası YERVOY ile tedavi edilen hastalarda solid organ nakli reddi bildirilmiştir. 
+YERVOY tedavisi solid organ nakli alıcılarının ret riskini arttırabilir. Bu hastalarda YERVOY’la 
+uygulanan tedavinin olası organ transplantasyonu sonrasında organ reddi riski karşısındaki faydası 
+değerlendirilmelidir. 
+ 
+YERVOY monoterapisi ya da PD-1 veya PD-L1 inhibitörü ile kombinasyon halinde YERVOY 
+YERVOY monoterapisi ve  PD-1 veya PD-L1 inhibitörü (nivolumab dahil) ile kombinasyon halinde 
+kullanılan YERVOY’la birlikte hemofagositik lenfohistiyositoz (HLH) gözlenmiştir. YERVOY, 
+monoterapi olarak veya PD-1 veya PD-L1 inhibitörü ile kombinasyon halinde uygulanırken dikkatli 
+olunmalıdır. HLH doğrulandığı takdirde YERVOY veya PD-1 veya PD-L1 inhibitörü ile 
+kombinasyon halinde YERVOY uygulaması kesilmelidir ve HLH tedavisi başlatılmalıdır. 
+ 
+Nivolumab ile kombinasyon halinde YERVOY 
+Aşağıdaki immünite ile ilişkili advers reaksiyonlar çeşitli dozlarda ve tümör tiplerinde yapılan klinik 
+çalışmalarda nivolumab ile kombinasyon halinde YERVOY ile tedavi edilen hastaların %1'inden 
+azında bildirilmiştir: pankreatit, üveit, demiyelinizasyon, otoimmün nöropati (fasiyal ve abdusens 
+sinir parezisi dahil), Guillain-Barré sendromu, myastenia gravis, miyastenik sendrom, aseptik 
+menenjit, ensefalit, gastrit, sarkoidoz, duodenit, miyozit, miyokardit, rabdomiyoliz ve miyelit. 
+Pazarlama sonrasında Vogt-Koyanagi-Harada sendromu, seröz retina dekolmanı ve infektif olmayan 
+sistit vakaları bildirilmiştir (bkz. Bölüm 4.2 ve 4.8). YERVOY ilişkili oküler enflamasyonları olan 
+hastalarda geçici görme kaybı bildirilmiştir. 
+ 
+Şüpheli immünite ile ilişkili advers reaksiyonlar için etiyolojiyi doğrulamak veya diğer nedenleri 
+dışlamak için uygun değerlendirmeler yapılmalıdır. Advers reaksiyonun şiddetine dayanarak 
+nivolumab ile kombinasyon halinde YERVOY’a ara verilmeli ve kortikosteroidler uygulanmalıdır. 
+İyileşmeden sonra, kortikosteroid dozunun kademeli olarak kesilmesini takiben nivolumab ile 
+kombinasyon halinde YERVOY yeniden başlatılabilir. Herhangi bir şiddetli immünite ile ilişkili 
+advers reaksiyonun tekrarlaması veya yaşamı tehdit eden herhangi bir immünite ile ilişkili reaksiyon 
+görülmesi durumunda nivolumab ile kombinasyon halinde YERVOY kalıcı olarak kesilmelidir. 
+ 17 
+ Nivolumab ile kombinasyon halinde YERVOY tedavisi ile bazıları ölümcül olan miyotoksisite 
+(miyozit, miyokardit ve rabdomiyoliz) vakaları bildirilmiştir. Hastada miyotoksisite belirtileri ve 
+semptomları geliştiği takdirde yakın takip uygulanmalıdır ve gecikmeden değerlendirme ve tedavi 
+uygulanması için bir uzmana sevk edilmelidir. Miyotoksisitenin şiddetine bağlı olarak, nivolumab ile 
+kombinasyon halinde YERVOY’a ara verilmeli veya kesilmelidir (bkz. Bölüm 4.2) ve uygun tedavi 
+başlatılmalıdır. 
+ 
+Miyokardit tanısı için yüksek şüphe indeksi gereklidir. Kardiyak ya da kardiyo-pulmoner 
+semptomları olan hastalar potansiyel miyokardit açısından değerlendirilmelidir. Miyokardit şüphesi 
+varsa, derhal yüksek dozda steroidlere (1 ila 2 mg/kg/gün prednizon veya 1 ila 2 mg/kg/gün 
+metilprednizolon) başlanmalı ve mevcut klinik rehberlere göre teşhis çalışması ile hızlı kardiyoloji 
+konsültasyonu başlatılmalıdır. Miyokardit tanısı konduktan sonra nivolumab ile kombinasyon 
+halindeki YERVOY’a ara verilmeli ya da kalıcı olarak kesilmelidir (bkz. Bölüm 4.2). 
+ 
+Hastalığa özgü önlemler 
+ 
+Melanom 
+Oküler melanom, primer Merkezi Sinir Sistemi (MSS) melanomu ve aktif beyin metastazları görülen 
+hastalar MDX010-20 çalışmasına dahil edilmemiştir (bkz.  Bölüm 5.1). 
+ 
+Oküler melanomu olan hastalar CA184-169 klinik çalışmasına dahil edilmemiştir. Bununla birlikte, 
+beyin metastazları bulunan hastalar, metastatik beyin lezyonları ile ilişkili nörolojik semptomları 
+yoksa ve YERVOY tedavisine başlanmasından önceki 10 gün içerisinde sistemik kortikosteroid 
+tedavisine gerek duymamış ya da bu tedaviyi görmemişlerse bu çalışmaya dahil edilmişlerdir (bkz. 
+Bölüm 5.1). 
+ 
+Oküler melanomu, aktif beyin metastazları olan ve daha önce YERVOY tedavisi görmüş olan hastalar 
+pediyatrik çalışma CA184070’a dahil edilmemiştir (bkz. Bölüm 5.1). 
+ 
+Oküler melanomu, aktif beyin metastazları olan ve daha önce CTLA-4, PD-1, PD-L1 ya da CD137 
+hedefli ajanlarla tedavi görmüş olan hastalar pediyatrik çalışma CA184178’e dahil edilmemiştir (bkz. 
+Bölüm 5.1). 
+ 
+Başlangıç performans skoru 2 ve 2’den büyük olan, aktif beyin metastazları veya otoimmün hastalığı 
+bulunan hastalar ile çalışmaya giriş öncesinde sistemik immünosüpresanlar almakta olan hastalar 
+nivolumab ile kombinasyon halinde YERVOY’un klinik çalışmalarından çıkarılmıştır. Oküler/uveal 
+melanomu bulunan hastalar klinik melanom çalışmalarının dışında tutulmuştur. Veri 
+bulunmadığında, nivolumab bu popülasyonlarda potansiyel fayda/risk değerlendirmesi bireysel 
+olarak yapıldıktan sonra dikkatli kullanılmalıdır.  
+ 
+Nivolumab monoterapisine kıyasla, YERVOY’un nivolumab ile kombinasyonu için PFS'de bir artış, 
+yalnızca tümör PD-L1 ekspresyonu düşük olan hastalarda tespit edilmiştir. Tümör PD-L1 
+ekspresyonu yüksek olan hastalarda (PD-L1 ≥%1) YERVOY ile nivolumab ve nivolumab 
+monoterapisi arasında OS'deki iyileşme benzerdi. Kombinasyon tedavisine başlamadan önce 
+doktorlara her bir hastayı ve tümör karakteristiklerini, gözlemlenen faydaları ve nivolumab 
+monoterapisine kıyasla kombinasyonun toksisitesini dikkate alarak dikkatle değerlendirmeleri 
+önerilir (bkz. Bölüm 4.8 ve 5.1). 
+ 
+Hastalıkları hızla ilerleyen melanom hastalarında nivolumab ile kombinasyon halinde YERVOY’un 
+kullanımı. 
+Doktorlar, hastalığı hızla ilerleyen hastalarda tedaviye başlamadan önce nivolumab ile kombinasyon 
+halindeki YERVOY etkisinin geciken başlangıcını değerlendirmelidir (bkz. Bölüm 5.1). 18 
+ Renal Hücreli Karsinom 
+Nivolumab ile kombinasyon halinde YERVOY çalışmalarına eş zamanlı beyin metastazı öyküsü 
+olan, aktif otoimmün hastalığı ya da sistemik immünosüpresyon tedavisi gerektiren medikal durumu 
+olan hastalar dahil edilmemiştir (bkz. Bölüm 4.5 ve 5.1). Verilerin olmadığı durumlarda nivolumab 
+ile kombinasyon halinde YERVOY, bu popülasyonlarda her hasta için bireysel olarak potansiyel risk-
+yararın dikkatli değerlendirilmesinden sonra dikkatle kullanılmalıdır. 
+ 
+Küçük Hücreli Dışı Akciğer Kanseri 
+KHDAK’nin birinci basamak tedavisi 
+Aktif otoimmün hastalığı, semptomatik interstisyel akciğer hastalığı, sistemik immünosupresyon 
+gerektiren tıbbi koşulları, aktif (tedavi edilmemiş) beyin metastazı olan, lokal ileri hastalık için daha 
+önce sistemik tedavi görmüş veya duyarlı EGFR mutasyonları veya ALK translokasyonları olan 
+hastalar, KHDAK’nin birinci basamak tedavisini araştıran kılavuz çalışmalara dahil edilmemiştir 
+(bkz. Bölüm 4.5 ve 5.1). Yaşlı hastalarda (≥75 yaş) sınırlı veri mevcuttur (bkz. Bölüm 5.1). Bu 
+hastalarda, nivolumab ve kemoterapi ile kombinasyon halinde YERVOY, bireysel bazda potansiyel 
+fayda/risk dikkatli bir şekilde değerlendirildikten sonra dikkatle kullanılmalıdır. 
+ 
+Malign plevral mezotelyoma 
+Primitif peritoneal, perikardiyal, testis veya tunika vajinalis mezotelyoması, interstisyel akciğer 
+hastalığı, aktif otoimmün hastalığı, sistemik immünosupresyon gerektiren tıbbi koşulları ve beyin 
+metastazı olan hastalar (cerrahi olarak rezeke edilmedikçe veya stereotaksik radyoterapi ile tedavi 
+edilmedikçe ve tedaviye dahil edilmeden önceki 3 ay içinde herhangi bir gelişme olmadıkça) 
+MPM’nin birinci basamak tedavisini araştıran kılavuz çalışmalara dahil edilmemiştir (bkz. bölüm 4.5 
+ve 5.1). Veri bulunmadığından, nivolumab ile kombinasyon halinde YERVOY bu popülasyonlarda 
+kişi bazında potansiyel yarar/risk değerlendirmesi yapılmasının ardından dikkatli şekilde 
+kullanılmalıdır. 
+ 
+Otoimmün hastalığı olan hastalar 
+ 
+Aktif otoimmün hastalığı ya da organ nakli greft devamlılığı için sistemik immünosüpresif tedaviye 
+ihtiyacı olanlar dahil olmak üzere geçmişte otoimmün hastalığı olan hastalar (vitiligo ve 
+hipotiroidizm gibi yeterli derecede kontrol altında tutulan endokrin yetersizlikler dışında), klinik 
+çalışmalarda değerlendirilmemiştir. YERVOY immün yanıtı sağlayan (bkz. Bölüm 5.1) bir T-hücresi 
+potansiyalize edicisidir ve immünosüpresif tedaviye müdahale edebilir; sonuçta altta yatan hastalık 
+alevlenebilir ya da greftin reddedilmesi riski artabilir. Daha sonraki immün aktivasyonunun yaşamı 
+tehdit etme potansiyelinin bulunduğu şiddetli aktif otoimmün hastalığı olan hastalarda YERVOY’dan 
+kaçınılmalıdır. YERVOY otoimmün hastalık geçmişi olan diğer hastalarda potansiyel risk yarar 
+profili bireysel olarak dikkatlice ele alındıktan sonra dikkatli kullanılmalıdır. 
+ 
+Kontrollü sodyum diyetinde olan hastalar 
+Bu tıbbi ürün, DSÖ’nün bir yetişkin için önerdiği günlük maksimum 2 g sodyum alımının sırasıyla 
+%1,15'ine ve %4,60'ına eşdeğer gelen her 10 mL'lik flakonda 23 mg sodyum ve her 40 mL'lik 
+flakonda 92 mg sodyum ihtiva eder. Bu durum, kontrollü sodyum diyetinde olan hastalar için göz 
+önünde bulundurulmalıdır.  
+ 
+Vemurafenib ile eşzamanlı uygulama  
+ 
+Bir Faz 1 çalışmada, YERVOY (3 mg/kg) ve vemurafenibin (960 mg BID veya 720 mg BID) eş 
+zamanlı kullanımı ile asemptomatik Derece 3 transaminaz (ALT/AST>5 × ÜNL) ve bilirubin (total 
+bilirubin>3 × ÜNL) artışları bildirilmiştir.  Bu ön verilere dayanarak, YERVOY ve vemurafenibin eş 
+zamanlı kullanımı tavsiye edilmez. 
+ 19 
+ Vemurafenib ile sıralı uygulama 
+ 
+Faz 2 çalışmasında, BRAF mutasyonu olan metastatik melanomlu hastalarda vemurafenib ile sıralı 
+tedavi ve ardından 10 mg/kg YERVOY tedavisi, tek başına YERVOY ile karşılaştırıldığında Derece 
+3+ deri advers reaksiyonlarında daha yüksek insidans göstermiştir. Vemurafenib sonrasında 
+YERVOY uygulandığında dikkatli olunmalıdır. 
+ 
+Pediyatrik popülasyon 
+YERVOY 18 yaşından küçük çocuklarda kullanılmamalıdır. 
+ 
+4.5 Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri 
+ 
+YERVOY, sitokrom P450 enzimleri (CYP) veya ilaçları metabolize eden diğer enzimlerce 
+metabolize edilmeyen bir insan monoklonal antikorudur.  
+ 
+Daha önce tedavi almamış ileri evre melanom hastalarında tek başına ve kemoterapi (dakarbazin ya 
+da paklitaksel/karboplatin) ile kombinasyon halinde YERVOY uygulanan yetişkinlerde bir ilaç 
+etkileşim çalışması yapılmış ve CYP izoenzimleri (özellikle CYP1A2, CYP2E1, CYP2C8 ve 
+CYP3A4) ile etkileşimi değerlendirilmiştir. YERVOY ve paklitaksel/karboplatin, dakarbazin veya 
+onun metaboliti, 5-aminoimidazol-4-karboksamid (AIC) arasında klinik olarak ilgili hiçbir 
+farmakokinetik ilaç-ilaç etkileşimi gözlenmemiştir. 
+ 
+Diğer etkileşim formları 
+ 
+Kortikosteroidler 
+YERVOY’un farmakodinamik aktivitesi ve etkililiği ile olası etkileşimi nedeniyle, YERVOY’a 
+başlamadan önce; başlangıçta sistemik kortikosteroidlerin kullanımından kaçınılmalıdır. Yine de 
+immünite ile ilişkili advers reaksiyonların tedavi edilmesi için YERVOY’a başlandıktan sonra 
+sistemik kortikosteroidler veya diğer immünosüpresanlar kullanılabilir. YERVOY tedavisine 
+başlandıktan sonra sistemik kortikosteroidlerin kullanımının YERVOY’un etkililiğini bozmadığı 
+görülmektedir. 
+ 
+Antikoagülanlar 
+Antikoagülanların kullanımının gastrointestinal hemoraji riskini artırdığı bilinmektedir. 
+Gastrointestinal hemoraji, YERVOY ile görülebilir bir advers reaksiyon olduğundan (bkz. Bölüm 
+4.8) eşzamanlı antikoagülan tedavisine ihtiyaç duyan hastalar yakından izlenmelidir. 
+ 
+Özel popülasyonlara ilişkin ek bilgiler: 
+Yaşlılarda, böbrek ve karaciğer yetmezliği olanlarda hiçbir ilaç etkileşim çalışması yapılmamıştır.  
+ 
+Pediyatrik Popülasyon: 
+Pediyatrik hastalar için klinik veri bulunmamaktadır. 
+ 
+4.6 Gebelik ve laktasyon 
+Genel tavsiye  
+Gebelik kategorisi: C 
+ 
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon): 
+Çocuk doğurma potansiyeli bulunan kadınlarda etkili kontraseptif metotlar kullanılmalıdır. 
+ 
+ 
+ 20 
+ Gebelik dönemi 
+YERVOY’un gebe kadınlarda kullanımına ilişkin veri mevcut değildir. Hayvan üreme çalışmaları 
+üreme toksisitesinin bulunduğunu göstermiştir (bkz. Bölüm 5.3). İnsan IgG1, plasenta bariyerini 
+geçmektedir. Tedavinin gelişmekte olan fetusa yönelik potansiyel riski bilinmemektedir. Klinik 
+yararı potansiyel riskinden fazla olmadığı sürece, YERVOY’un gebelik döneminde veya etkili bir 
+doğum kontrol yöntemi kullanmayan çocuk doğurma potansiyeline sahip kadınlarda kullanılması 
+önerilmemektedir. 
+ 
+Laktasyon dönemi 
+Hamilelik sırasında tedavi gören cynomolgus maymunlarında YERVOY sütte çok düşük seviyelerde 
+görülmüştür. YERVOY’un insanlarda anne sütüne geçip geçmediği bilinmemektedir. IgG’lerin anne 
+sütüne geçişi genellikle sınırlıdır ve IgG’ler düşük bir oral biyoyararlanıma sahiptir. İnfantlarda 
+sistemik anlamlı bir maruziyet beklenilmemektedir ve emzirilen yeni doğan/infant üzerinde herhangi 
+bir etki meydana gelmesi beklenmemektedir. Ancak emzirilen infantlarda advers reaksiyon 
+potansiyelinden dolayı, çocuk için emzirmenin yararı ve kadın için YERVOY tedavisinin yararı göz 
+önünde bulundurularak emzirmeye devam edilip edilmemesi veya YERVOY tedavisinin kesilip 
+kesilmemesi konusunda karar verilmelidir. 
+ 
+Üreme yeteneği/Fertilite 
+YERVOY’un fertilite üzerindeki etkisini değerlendiren çalışmalar yapılmamıştır. Bu durumda 
+YERVOY’un erkek ve dişi fertilitesi üzerindeki etkisi bilinmemektedir. 
+ 
+4.7 Araç ve makine kullanımı üzerindeki etkiler 
+YERVOY’un araç ve makine kullanımı üzerine etkisi düşüktür.  
+ 
+Yorgunluk gibi potansiyel advers reaksiyonlara yol açabilmesi nedeniyle (bkz. Bölüm 4.8) hastalara 
+YERVOY’un kendilerini ters bir şekilde etkilemediğinden emin olana dek araç ve makine 
+kullanmaları konusunda dikkatli olmaları önerilmelidir. 
+ 
+4.8 İstenmeyen etkiler 
+YERVOY monoterapisi (bkz. Bölüm 4.2) 
+ 
+a) Güvenlilik profili özeti 
+YERVOY farklı dozlarda ve tümör tiplerinde kullanımının değerlendirildiği bir klinik programda 
+yaklaşık 10.000 hastaya uygulanmıştır. Aksi belirtilmediği sürece, aşağıda belirtilen veriler, klinik 
+melanom çalışmalarında 3 mg/kg’da YERVOY maruziyetini yansıtmaktadır. Faz 3 çalışmasında 
+(MDX010-20) (bkz. Bölüm 5.1) hastaların aldığı ortanca doz sayısı 4’tür (aralık 1-4). 
+ 
+YERVOY en çok immün aktivitedeki artış veya aşırı immün aktivite sonucu ortaya çıkan advers 
+reaksiyonlar ile ilişkilendirilmiştir. Ciddi reaksiyonlar dahil bunların çoğu uygun medikal tedaviye 
+başlandıktan ya da YERVOY kesildikten sonra düzelmiştir (immünite ile ilişkili advers 
+reaksiyonların yönetimi ile ilgili bilgiler Bölüm 4.4’te bulunmaktadır). 
+ 
+MDX010-20’de 3 mg/kg YERVOY monotereapisi alan hastalarda en sık bildirilen advers 
+reaksiyonlar (hastaların ≥ %10’u) diyare, döküntü, kaşıntı, yorgunluk, bulantı, kusma, iştah azalması 
+ve karın ağrısıdır. Çoğunluğu hafif ilâ orta şiddette seyretmiştir (Derece 1 veya 2). Hastaların 
+%10’unda advers reaksiyonlar nedeni ile  YERVOY tedavisi kesilmiştir. 
+ 
+b) Advers reaksiyonların tablo halinde listesi 
+Klinik çalışmalarda (n=767) 3 mg/kg YERVOY ile tedavi edilen ileri evre melanom hastalarında ve 
+pazarlama sonrası gözetimde rapor edilen advers reaksiyonlar Tablo 4’te gösterilmiştir.  21 
+ Bu reaksiyonlar sistem organ sınıfı ve sıklık ile sunulmaktadır. Sıklıklar şu şekilde tanımlanmaktadır: 
+çok yaygın (≥1/10); yaygın (≥1/100 ila 1/10); yaygın olmayan (≥1/1.000 ila 1/100); seyrek 
+(≥1/10.000 ila 1/1.000); çok seyrek (<1/10.000); bilinmiyor (eldeki verilerle tahmin edilemiyor). 
+Her bir sıklık grubunda advers reaksiyonlar azalan şiddete göre yazılmıştır. MDX010-20’de YERVOY 
+alan HLA-A2*0201 pozitif hastalarda immünite ile ilişkili advers reaksiyon oranları genel klinik 
+programda gözlenenlere benzer olmuştur. 
+ 
+Birleştirilmiş Faz 2 ve 3 klinik çalışmalarda daha önce kemoterapi görmemiş olan hastalarda (n=75: 
+tedavi edilmiş), iki retrospektif gözlem çalışmasında (n=273 ve n=157) ve CA184-169’da (N= 362) 
+daha önce tedavi edilmemiş hastalarda YERVOY 3 mg/kg’ın güvenlilik profili, daha önce tedavi 
+edilmiş ileri evre melanomlu hastalarda gözlenenle benzerdi.  
+ 
+Rezeke edilemeyen veya metastatik melanom bulunan, YERVOY ile tedavi edilmiş (3 mg/kg, en az 
+3 yıllık takip dönemi ile) ve çok uluslu, prospektif gözlem çalışması CA184143’e kaydolmuş 
+(N=1151) hastalar için güvenlilik verileri, ileri evre melanom için YERVOY klinik çalışmalarında 
+bildirilenlere benzerdi. 
+ 
+Tablo 4: 3 mg/kg YERVOY ile tedavi edilen ileri evre melanom hastalarındaki Advers 
+Reaksiyonlara 
+Enfeksiyonlar ve enfestasyonlar  
+Yaygın Sepsisb, üriner sistem enfeksiyonu, solunum yolu enfeksiyonu 
+Yaygın olmayan: Septik şokb, pnömoni 
+(Kist ve polipler de dahil olmak üzere) iyi huylu ve kötü huylu neoplazmalar   
+Yaygın: Tümör ağrısı 
+Yaygın olmayan: Paraneoplastik sendrom 
+Kan ve lenf sistemi hastalıkları 
+Yaygın: Anemi, lenfopeni, trombositopeni, nötropeni 
+Yaygın olmayan: Hemolitik anemib, eozinofili 
+Bilinmiyor: Hemofagositik lenfohistiyositoz ᵉ  
+Bağışıklık sistemi hastalıkları 
+Yaygın olmayan: Aşırı duyarlılık 
+Çok seyrek: Anafilaktik reaksiyon 
+Bilinmiyor:  Solid organ nakli reddiᵉ  
+Endokrin hastalıkları 
+Yaygın: Hipopituitarizm (hipofizit dahil)c, hipotiroidizmc 
+Yaygın olmayan: Adrenal yetmezlikc, sekonder adrenokortikal yetmezlikd, hipertiroidizmc, 
+hipogonadizm 
+Seyrek: Otoimmün tiroiditd, tiroiditd 
+Metabolizma ve beslenme hastalıkları 
+Çok yaygın: İştah azalması 
+Yaygın: Dehidratasyon, hipokalemi, vücut ağırlığında azalma, hiponatremi 
+Yaygın olmayan: Alkaloz, hipofosfatemi, tümör lizis sendromu, hipokalsemid 
+Seyrek: Tip 1 diyabetis mellitus (diyabetik ketoasidoz dahil)h  
+Psikiyatrik  hastalıkları  
+Yaygın:  Konfüzyonal durum, depresyon 
+Yaygın olmayan: Mental durum değişiklikleri, azalan libido 22 
+ Sinir sistemi  hastalıkları 
+Yaygın: Periferik duyusal nöropati, sersemlik, baş ağrısı, letarji, kranial nöropati, 
+beyin ödemi, periferal nöropati 
+Yaygın olmayan: 
+ Guillain-Barré sendromub,c, menenjit (aseptik), otoimmün santral nöropati 
+(ensefalit)d, senkop, ataksi, tremor, myoklonus, dizartri  
+Seyrek: Myastenia gravisd 
+Bilinmiyor: Miyelit 
+Göz hastalıkları  
+Yaygın: Bulanık görüş, göz ağrısı 
+Yaygın olmayan: Üveitc, vitröz hemoraji, iritisc, göz ödemid, blefaritd, görüş keskinliğinin 
+azalması, gözlerde yabancı cisim hissi, konjunktivit 
+Seyrek: Vogt-Koyanagi-Harada sendromue, seröz retina dekolmanı  
+Kardiyak  hastalıkları 
+Yaygın: Aritmi, atrial fibrilasyon 
+Vasküler hastalıkları 
+Yaygın: Hipotansiyon, kızarma, sıcak basması 
+Yaygın olmayan: Vaskülit, anjiyopatib, periferik iskemi, ortostatik hipotansiyon 
+Seyrek: Temporal arteritd 
+Solunum, göğüs bozuklukları ve mediastinal hastalıkları 
+Yaygın: Dispne, öksürük, alerjik rinit 
+Yaygın olmayan: Solunum yetmezliği, akut respiratuvar distres sendromub, akciğer 
+infiltrasyonu, pulmoner ödem, pnömoni  
+Gastrointestinal hastalıkları 
+Çok yaygın: Diyarec, kusma, bulantı, konstipasyon,  karın ağrısı 
+Yaygın: Gastrointestinal hemoraji, kolitb,c, gastroözofageal  reflü hastalığı, 
+mukoza enflamasyonud, gastroenterit,  stomatit  
+Yaygın olmayan: Gastrointestinal perforasyonb,c, kalın bağırsak perforasyonub,c, intestinal 
+perforasyonb,c, peritonitb, divertikülit, pankreatit, enterokolit, gastrik ülser, 
+kalın bağırsak ülseri, özofajit, ileusd, proktitd 
+Seyrek:  Pankreas ekzokrin yetmezliği, çölyak hastalığı 
+Hepato-bilier  hastalıkları 
+Yaygın: Anormal hepatik fonksiyon  
+Yaygın olmayan: Hepatik yetmezlikb,c, hepatit, hepatomegali, sarılık 
+Deri ve deri altı doku hastalıkları 
+Çok yaygın: Kaşıntıc, döküntüc 
+Yaygın: Dermatit, eritem, vitiligo, ürtiker, egzamad, alopesi, gece terlemeleri, cilt 
+kuruluğu 
+Yaygın olmayan: Toksik epidermal nekrolizb,c , lökositoklastik vaskülit, deri soyulması, saç 
+renginde değişikliklerd 
+Seyrek: Eritema multiformed, psoriazisd, Eozinofili ve Sistemik Semptomların Eşlik 
+Ettiği İlaç Reaksiyonları (DRESS)d 
+Bilinmiyor:  Pemfigoid  
+Kas-iskelet bozukluklar, bağ doku ve kemik hastalıkları 
+Çok yaygın Kas ve iskelet ağrısıf 
+Yaygın: Artralji, miyalji, kas spazmları, artrit  
+Yaygın olmayan: Polimiyalji romatika, miyo zitd, kas güçsüzlüğüd 23 
+ Seyrek: Polimiyozitd 
+Böbrek ve idrar yolu hastalıkları 
+Yaygın Böbrek yetmezliğib 
+Yaygın olmayan: Glomerulonefritc, otoimmün nefritd, renal tübüler asidoz, hematürid, 
+noninfektif sistitg, proteinürid 
+Üreme sistemi ve meme hastalıkları 
+Yaygın olmayan: Amenore  
+Genel bozukluklar ve uygulama bölgesine ilişkin hastalıkları 
+Çok yaygın: Yorgunluk, enjeksiyon bölgesinde reaksiyon, pireksi , ödem, ağrı 
+Yaygın: Titremeler, asteni, grip benzeri hastalıkd 
+Yaygın olmayan: Çoklu organ yetmezliğib,c,  sistemik enflamatuvar yanıt sendromud, 
+infüzyon ilişkili reaksiyon 
+Araştırmalar 
+Yaygın: Alanin aminotransferaz yükselmesic, aspartat aminotransferaz 
+yükselmesic, kanda alkalen fosfataz yükselmesid, kanda bilirubin 
+yükselmesi, lipaz yükselmesic 
+Yaygın olmayan: Artan gamma-glutamiltransferazd, kanda kreatinin yükselmesi, kanda 
+tiroid stimülan hormonun yükselmesi, kanda kortizol azalması, kanda 
+kortikotropin azalması, kanda amilazın yükselmesic, pozitif antinükleer 
+antikord, kanda testosteronun azalması 
+Seyrek: Kanda tiroid stimulan hormonun azalmasıd, tiroksin azalmasıd, kanda          
+anormal prolaktin düzeylerid 
+Tablo 4'te sunulan advers reaksiyon frekansları tamamen ipilimumab’a atfedilemez, ancak altta yatan hastalıklar 
+nedeniyle katkılar içerebilir. 
+a) Sıklıklar, melanomda YERVOY 3 mg/kg dozunun araştırıldığı 9 klinik çalışmadan toplanan verilere dayanmaktadır. 
+b) Ölümcül sonuç dahil 
+c) Bu potansiyel olarak enflamatuvar advers reaksiyonlar ile ilgili ilave bilgiler “seçilen advers reaksiyonlar tanımı” ve 
+Bölüm 4.4’te sunulmaktadır. Bu bölümlerde sunulan veriler öncelikli olarak Faz 3 çalışması MDX010-20’den elde edilen 
+deneyimi yansıtmaktadır. 
+d) Melanomda tamamlanan 9 klinik çalışma dışında veriler sıklık tespitlerine dahil edilmiştir.  
+e) Pazarlama sonrası olay (ayrıca bkz. Bölüm 4.4.). 
+f)  Kas ve iskelet ağrısı; sırt ağrısı, kemik ağrısı, kas-iskelet göğüs ağrısı, kas iskelet rahatsızlığı, miyalji, boyun ağrısı, 
+ekstremitelerde ağrı, spinal ağrıyı içeren kompozit bir terimdir. 
+g) Raporlanmış klinik çalışma ve pazarlama sonrası ayarlamalar. 
+h) Tip 1 diyabetis mellitus diyabetik ketoasidoz ile ilişkili olabilir. 
+ 
+Klinik melanom çalışmalarında farklı dozlarda YERVOY (<veya>3 mg/kg) alan hastalarda Tablo 
+4’te listelenmeyen ilave advers reaksiyonlar bildirilmiştir. Aksi belirtilmedikçe %1’den az sıklıkta 
+meydana gelen bu ilave reaksiyonlar şöyledir: meningizm, miyokardit, perikardiyal effüzyon, 
+kardiyomiyopati, otoimmün hepatit, eritema nodozum, otoimmün pankreatit, hiperpituitarizm, 
+hipoparatiroidizm, enfeksiyöz peritonit, episklerit, sklerit, Raynaud fenomeni, palmar-plantar 
+eritrodizestezi sendromu, sitokin salınımı sendromu, sarkoidoz, kanda gonadotropinin azalması, 
+lökopeni, polisitemi, lenfositoz, oküler miyozit ve nörosensoriyel hipoakuzi.  
+ 
+CA184-169 (N=362) klinik çalışmasında 3 mg/kg dozunda YERVOY’un genel güvenlilik profili ileri 
+evre melanom tedavisi gören hastalarda YERVOY için belirlenen güvenlilik profili ile uyumludur. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 24 
+ Nivolumab ile kombinasyon halinde ipilimumab (kemoterapi ile ya da kemoterapisiz) (bkz. Bölüm 4.2) 
+ 
+a) Güvenlilik profilinin özeti  
+YERVOY, kombinasyon halinde uygulandığında, tedavinin başlangıcından önce diğer terapötik 
+ajanların Kısa Ürün Bilgileri’ne bakınız. YERVOY ile kombinasyon halinde kullanılan diğer 
+terapötik ajanların güvenlik profili ile ilgili ek bilgiler için lütfen KÜB’e bakınız.  
+ 
+Nivolumab ile kombinasyon halinde (kemoterapi ile ya da kemoterapisiz) YERVOY için (n = 2094) 
+birleştirilmiş veri setinde minimum takip süresi 6 ay ila 47 ay arasında değişmekte olup, en yaygın 
+(≥%10) advers reaksiyonlar yorgunluk (%50), döküntü (%38), diyare (%37), bulantı (%31), kaşıntı 
+(%29), kas ve iskelet ağrısı (%28), pireksi (%25), öksürük (%24), iştah kaybı (%23), kusma (%20), 
+dispne (%19), konstipasyon (%19), artralji (%19),  karın ağrısı (%18), hipotiroidizm (%16), baş ağrısı 
+(%16), üst solunum yolu enfeksiyonları (%15), ödem (%13) ve baş dönmesi (%11) olmuştur. 
+YERVOY ile kombinasyon halinde nivolumab (kemoterapi ile ya da kemoterapisiz) için derece 3-5 
+advers reaksiyonların insidansı, %67 olup %0,7’si ölümcül advers reaksiyonlar nedeniyle çalışma 
+ilacıyla ilişkilendirildi. Nivolumab 1 mg/kg ile kombinasyon halinde YERVOY 3 mg/kg ile tedavi 
+edilen hastalarda, yorgunluk (%62), döküntü (%57), ishal (%52), bulantı (%42), kaşıntı (%40), ateş 
+(%36) ve baş ağrısı (%26) görülmüştür; bu yan etkiler nivolumab ile kombinasyon halinde 
+(kemoterapi ile ya da kemoterapisiz) YERVOY’un birleştrilmiş veri setinden ≥%10 daha yüksek 
+oranda raporlanmıştır. YERVOY 1 mg/kg ile kombinasyon halinde nivolumab 360 mg ve kemoterapi 
+ile tedavi edilen hastalar arasında, anemi (%32) ve nötropeni (%15) görülmüştür; bu yan etkiler 
+nivolumab (kemoterapi ile veya kemoterapisiz) ile kombinasyon halinde YERVOY’un birleştirilmiş 
+veri setinde bildirilen oranlardan% 10 ≥ daha yüksek bir insidansta bildirilmiştir. 
+ 
+b) Advers reaksiyonların tablo halinde özeti  
+Nivolumab ile kombinasyon halinde YERVOY ile tedavi edilen hastalar (kemoterapi ile ya da 
+kemoterapisiz) (n=2094) için birleştirilmiş veri setinde ve pazarlama sonrası bildirilen advers 
+reaksiyonlar Tablo 5’te sunulmaktadır. Bu reaksiyonlar sistem organ sınıfı ve sıklığa göre 
+sunulmaktadır. Sıklıklar aşağıdaki şekilde tanımlanmıştır: çok yaygın (≥1/10); yaygın (≥ 1/100 ila 
+<1/10); yaygın olmayan (≥ 1/1.000 ila <1/100); seyrek (≥ 1/10.000 ila <1/1.000); çok seyrek 
+(<1/10.000), bilinmiyor (mevcut pazarlama sonrası verilerden hesaplanamıyor). Her bir sıklık 
+grubunda, advers reaksiyonlar azalan şiddet derecesine göre listelenmiştir. 
+ 
+Tablo 5:  Diğer terapötik ajanlarla kombinasyon halindeki YERVOY ile advers reaksiyonlar 
+Kombinasyon halinde nivolumab (kemoterapi ile ya da kemoterapisiz) 
+Enfeksiyonlar ve enfestasyonlar  
+Çok yaygın Üst solunum yolu enfeksiyonu  
+Yaygın Pnömoni, bronşit, konjonktivit  
+Seyrek  Aseptik menenjit  
+Kan ve lenf sistemi hastalıkları 
+Çok yaygın Anemib,i, trombositopenib, lökopenib, lenfopenib, nötropenib 
+Yaygın Eozinofili  
+Yaygın 
+olmayan  Febril nötropeni 
+Bilinmiyor  Hemofagosit ik lenfohistiyositoz  
+Bağışıklık sistemi hastalıkları 
+Yaygın İnfüzyonla ilişkili reaksiyon (sitokin salınımı sendromu dahil), aşırı duyarlılık 
+Seyrek  Sarkoidoz  
+Bilinmiyor  Solid organ nakli reddif 
+Endokrin hastalıkları 
+Çok yaygın Hipotiroidiz  25 
+ Yaygın Hipertiroidizm, tiroidit, adrenal yetmezlik, hipofizit, hipopitüitarizm, diyabetes 
+mellitus  
+Yaygın 
+olmayan  Diyabetik ketoasidoz 
+Seyrek  Hipoparatiroidizm  
+Metabolizma ve beslenme hastalıkları 
+Çok yaygın İştah kaybı, hiperglisemib, hipoglisemib 
+Yaygın Dehidrasyon, hipoalbuminemi, hipofosfatemi, kilo kaybı 
+Yaygın 
+Olmayan  Metabolik asidoz 
+Bilinmiyor  Tümör lizis sendromug 
+Sinir sistemi hastalıkları 
+Çok yaygın Baş ağrısı, baş dönmesi 
+Yaygın Periferik nöropati  
+Yaygın 
+olmayan  Polinöropati, peroneal sinir felci, otoimmün nöropati (fasiyal ve abdusens sinir 
+parezisi dahil), ensefalit , miyastenia gravis  
+Seyrek  Guillain -Barré sendromu, sinir iltihabı, miyelit  (transvers miyelit dahil)  
+Göz hastalıkları 
+Yaygın Bulanık görme, kuru göz  
+Yaygın 
+olmayan  Üveit, episklerit 
+Seyrek  Vogt -Koyanagi -Harada sendromu,  seröz retina dekolmanı 
+Kardiyak hastalıklar 
+Yaygın Taşikardi, atriyal fibrilasyon  
+Yaygın 
+olmayan  Miyokardita, aritmi (ventriküler aritmi dahil)a, bradikardi 
+Bilinmiyor  Perikardiyal bozukluklarh 
+Vasküler hastalıklar 
+Yaygın Hipertansiyon 
+ 
+Solunum , göğüs bozuklukları ve mediastinal hastalıkları 
+Çok yaygın Öksürük, dispne  
+Yaygın Pnömonia, pulmoner embolizma, plevral efüzyon  
+Gastrointestinal hastalıklar 
+Çok yaygın Diyare, kusma, bulantı, karın ağrısı, konstipasyon  
+Yaygın Kolita, pankreatit, stomatit, gastrit, ağız kuruluğu 
+Yaygın 
+olmayan  Duodenit 
+Seyrek  İntestinal perforasyona , pankreas ekzokrin yetmezliği, çölyak hastalığı 
+Hepato-bilier hastalıklar 
+Yaygın Hepatit  
+Deri ve deri altı doku hastalıkları 
+Çok yaygın Döküntüc, prürit  
+Yaygın Alopesi, vitiligo, ürtiker, cilt kuruluğu, eritem 
+Yaygın 
+olmayan  Stevens Johnson sendromu, eritema multiforme, sedef hastalığı 
+Seyrek  Toksik epidermal nekroliza,d, liken skleroz, diğer liken bozuklukları 
+Kas-iskelet bozukluklar, bağ doku ve kemik hastalıkları 
+Çok yaygın Kas iskelet ağrısıe, artralji  
+Yaygın Kas spazmları, kas zayıflığı, artrit 26 
+ Yaygın 
+olmayan  Polimiyalji romatika, miyopati, miyozit (polimiyozit dahil)a 
+Seyrek  Spondiloartropati, Sjögren sendromu, rabdomiyoliza 
+Böbrek ve idrar yolu hastalıkları 
+Yaygın Böbrek yetmezliği (akut böbrek hasarı dahil)a 
+Yaygın 
+olmayan  Tubulointerstisyel nefrit, nefrit 
+Seyrek  Enfektif olmayan sistit  
+Genel bozukluklar ve uygulama bölgesine ilişkin hastalıklar 
+Çok yaygın Yorgunluk, pireksi, ödem (periferik ödem dahil)  
+Yaygın Göğüs ağrısı, ağrı, üşüme 
+Araştırmalar 
+Çok yaygın Alkalin fosfataz artışıb, AST artışıb, ALT artışıb, total bilirubin artışıb, kreatinin 
+artışıb, amilaz artışıb, lipaz artışıb, hiponatremib, hiperkalemib, hipokalemib, 
+hiperkalsemib, hipokalsemib 
+Yaygın  Hipernatremib, hipermagnezemib, tiroid uyarıcı hormon artışı, 
+gammaglutamiltransferaz  artışı 
+Tablo 5'te sunulan advers reaksiyon frekansları tamamen tek başına ipilimumab veya diğer terapötik ajanlar 
+ile kombinasyon halinde kullanımı ile tamamen ilişkilendirilemeyebilir. Altta yatan hastalıktan veya tedavide 
+kullanılan diğer tıbbi ürünlerden katkılar içerebilir. 
+ 
+a Tamamlanmış ya da devam etmekte olan klinik çalışmalarda ölümcül vakalar bildirilmiştir. 
+b Laboratuvar terimlerinin sıklık dereceleri laboratuvar ölçümlerinde başlangıca kıyasla kötüleşme yaşayan 
+hastaların oranını temsil eder. Aşağıda “Seçilen yan etkilerin açıklaması; laboratuvar anomalileri” bölümüne 
+bakınız. 
+c Döküntü; makulopapuler döküntü, eritematöz döküntü, pruritik döküntü, foliküler döküntü, makuler döküntü, 
+morbiliform döküntü, papüler döküntü, püstüler döküntü, papüloskuamöz döküntü, veziküler döküntü, yaygın 
+döküntü, eksfoliatif döküntü, dermatit, akneli dermatit, alerjik dermatit, atopik dermatit, büllöz dermatit, 
+eksfolyatif dermatit, sedefli dermatit, ilaç döküntüsü, nodüler döküntü ve pemfigoid. 
+d Aynı zamanda birleştirilmiş veri seti dışındaki çalışmalar da bildirilmiştir. Sıklığı, program genelindeki 
+maruziyeti esas almaktadır 
+e Kas iskelet ağrısı; sırt ağrısı, kemik ağrısı, kas-iskelet göğüs ağrısı, kas iskelet rahatsızlığı,  myalgia 
+intercostal, boyun ağrısı, ekstremitelerde ağrı, spinal ağrıyı içeren kompozit bir terimdir. 
+f Pazarlama sonrası olay (ayrıca bkz. Bölüm 4.4) 
+g Klinik çalışmalarda ve pazarlama sonrası bildirilmiştir. 
+h Perikardiyal bozukluklar, perikardit, perikardiyal efüzyon, kardiyak tamponad ve Dressler sendromunu 
+kapsayan kompozit bir terimdir. 
+i Anemi,  diğer sebeplerin yanı sıra, demir eksikliği anemisi, kırmızı kan hücresi sayısı azalması,  ve 
+hemoglobin düşüşü, hemolitik anemi ve otoimmün anemi kapsayan birleşik bir terimdir. 
+ 
+Seçilen yan etkilerin açıklaması; 
+Belirtilenlerin dışında, YERVOY monoterapisine ilişkin veriler, ileri evre (rezeke edilemeyen veya 
+metastatik) melanoma ilişkin bir Faz 3 çalışmada (MDX010-20, bkz. Bölüm 5.1) 3 mg/kg YERVOY 
+monoterapisi (n=131) veya gp100 ile kombine 3 mg/kg YERVOY (n=380) alan hastalara 
+dayanmaktadır.  
+ 
+Kombinasyon halinde YERVOY tedavisi, immünite ile ilişkili advers reaksiyonlarla 
+ilişkilendirilmiştir. İmmünite ile ilişkili advers reaksiyonlar çoğu vakada uygun tıbbi tedaviyle 
+çözülmüştür. Nivolumab monoterapisi alanlara kıyasla nivolumab ile kombinasyon halinde 
+YERVOY alan hastaların daha yüksek bölümünde genelde tedavinin kalıcı olarak kesilmesi 
+gerekmiştir. Tablo 6’da nivolumab ile kombinasyon halinde YERVOY tedavisi kalıcı olarak kesilen 
+immünite ile ilişkili advers reaksiyonlar görülen hastaların yüzdesi sunulmaktadır. Ek olarak, advers 
+reaksiyon deneyimleyen hastalar için, Tablo 6’da yüksek dozda kortikosteroid gereken (en az 40 mg 27 
+ günlük prednizon eşdeğeri) hastaların yüzdesi sunulmaktadır. Bu advers reaksiyonlara yönelik tedavi 
+uygulamaları Bölüm 4.4'te belirtilmektedir. 
+ 
+Tablo 6: Tedavinin kalıcı olarak kesilmesini gerektiren ya da yüksek dozda kortikosteroid 
+gerektiren immünite ile ilişkili advers reaksiyonlar  
+ İpilimumab ile kombinasyon halinde nivolumab (kemoterapi ile ya da 
+kemoterapisiz) %  
+Tedavinin kalıcı olarak kesilmesini gerektiren immünite ile ilişkili advers reaksiyonlar  
+Pnömonit 2,5 
+Kolit  6 
+Hepatit  5 
+Nefrit ve renal 
+disfonksiyon 1,2 
+Endokrinopatiler  2 
+Deri  1 
+Aşırı duyarlılık/İnfüzyon 
+reaksiyonu 0,3 
+Yüksek dozda kortikosteroid gerektiren immünite ile ilişkili advers reaksiyonlara,b 
+Pnömonit 59 
+Kolit  32 
+Hepatit  37 
+Nefrit ve renal 
+disfonksiyon 27 
+Endokrinopatiler  20 
+Deri  8 
+Aşırı duyarlılık/İnfüzyon 
+reaksiyonu 16 
+a en az 40 mg günlük prednizon eşdeğerleri  
+b sıklık, immünite ile ilişkili advers reaksiyon yaşayan hasta sayısına dayanmaktadır.  
+ 
+İmmünite ile ilişkili gastrointestinal reaksiyonlar 
+ 
+YERVOY, ciddi immünite ile ilişkili gastrointestinal reaksiyonlar ile ilişkilendirilmiştir. gp 100 ile 
+kombinasyon halinde 3 mg/kg YERVOY uygulanan hastaların <%1’inde gastrointestinal 
+perforasyona bağlı ölümler bildirilmiştir. 
+ 
+3 mg/kg YERVOY monoterapi grubunda, sırasıyla hastaların %27 ve %8’inde herhangi bir şiddette 
+diyare ve kolit bildirilmiştir. Ciddi (Derece 3 veya 4) diyare ve şiddetli (Derece 3 veya 4) kolit sıklığı 
+her ikisi için %5’ti. Ciddi veya ölümcül (Derece 3-5) immünite ile ilişkili gastrointestinal 
+reaksiyonların başlamasına kadar geçen ortanca süre, tedavinin başlangıcından itibaren 8 haftaydı 
+(aralık: 5 – 13 hafta). Protokolde belirtilen yönetim rehberleri ile vakaların büyük bir bölümünde 
+(%90) iyileşme [hafif (Derece 1) veya daha düşük veya başlangıçtaki şiddete gerileme olarak 
+tanımlanmıştır] meydana gelmiş olup başlangıçtan iyileşme görülene kadar geçen ortanca süre 4 
+haftaydı (aralık; 0,6 – 22 hafta). Klinik çalışmalarda immünite ile ilişkili kolit, ülserasyon ile veya 
+olmaksızın mukozal enflamasyon ve lenfositik ve nötrofilik infiltrasyon bulgusu ile 
+ilişkilendirilmiştir. 
+ 
+ 
+ 
+ 28 
+ İmmünite ile ilişkili kolit 
+ 
+Nivolumab (kemoterapi ya da kemoterapisiz) ile kombinasyon halindeki YERVOY ile tedavi edilen 
+hastalarda, diyare ya da kolit insidansı %27,7 (580/2094) olmuştur. Hastaların sırasıyla %8,8 
+(184/2094), %6,8 (142/2094) ve %0,1’inde (3/2094) Derece 2, Derece 3, Derece 4 vakalar 
+bildirilmiştir. Bir hasta (<%0,1) ölüm ile sonuçlandı. Başlangıca kadar geçen medyan süre 1,4 aydı 
+(aralık: 0,0-48,9). 577 hastada (%90,8) iyileşme gözlenmiştir ve iyileşme ortaya çıkana kadar geçen 
+medyan süre 2,7 hafta olduğu belirlenmiştir (aralık: 0,1-159,4+). Nivolumab 1 mg/kg ile kombinasyon 
+halindeki YERVOY 3 mg/kg ile tedavi edilen hastalar arasında, diyare ya da kolit insidansı %46,7, 
+Derece 2 (%13,6), Derece 3 (%15,8) ve Derece 4 (%0,4) oluşmuştur. 
+ 
+İmmünite ile ilişkili pnömonit 
+ 
+Nivolumab (kemoterapi ya da kemoterapisiz) ile kombinasyon halindeki YERVOY ile tedavi edilen 
+hastalarda, interstisyel akciğer hastalığı dahil pnömonit insidansı %6,9 (145/2094) olmuştur. 
+Hastalarda sırasıyla %3,5 (73/2094), %1,1 (24/2094) ve %0,4’ünde (8/2094) Derece 2, Derece 3 ve 
+Derece 4 vakalar bildirilmiştir. Dört hastada (%0,2) ölüm ile sonuçlandı. Başlangıca kadar geçen 
+medyan süre 2,7 aydı (aralık: 0,1-56,8). 119 hastada (%82,1) iyileşme gözlenmiştir ve iyileşme ortaya 
+çıkana kadar geçen medyan süre 6,1 hafta olduğu belirlenmiştir (aralık: 0,3-149,3+).  
+ 
+İmmünite ile ilişkili hepatotoksisite 
+ 
+YERVOY, ciddi immünite ile ilişkili hepatotoksisite ile ilişkilendirilmiştir. 3 mg/kg YERVOY 
+monoterapisi uygulanan hastaların %1’inden azında ölümcül karaciğer yetmezliği bildirilmiştir. 
+ 
+Sırasıyla hastaların %1 ve %2’sinde AST ve ALT değerlerinde herhangi bir şiddette yükselme 
+bildirilmiştir. Ciddi (Derece 3 veya 4) AST veya ALT yükselmesi bildirilmemiştir. Orta ila şiddetli 
+veya ölümcül (Derece 2 - 5) immünite ile ilişkili hepatotoksisitenin başlamasına kadar geçen süre, 
+tedavinin başlangıcından itibaren 3 ila 9 hafta arasında değişmiştir. Protokolde belirtilen yönetim 
+rehberlerinde iyileşme görülene kadar geçen süre 0,7 ila 2 hafta arasında değişmektedir. Klinik 
+çalışmalarda, immünite ile ilişkili hepatotoksisite görülen hastalarda karaciğer biyopsileri, akut 
+enflamasyon (nötrofiller, lenfositler ve makrofajlar) olduğuna dair kanıtlar göstermiştir. 
+ 
+Dakarbazin ile kombinasyon halinde tavsiye edilen dozun üzerinde YERVOY alan hastalarda, 
+immünite ile ilişkili hepatoksisite, 3 mg/kg YERVOY monoterapisi alan hastalara kıyasla daha sık 
+olarak meydana gelmiştir. 
+ 
+Nivolumab (kemoterapi ya da kemoterapisiz) ile kombinasyon halindeki YERVOY ile tedavi edilen 
+hastalarda, karaciğer fonksiyon testi anomalilerinin insidansı %19,2 (402/2094) olmuştur. Hastaların 
+sırasıyla %4,2 (88/2094), %7,8 (163/2094) ve %1,2’sinde (25/2094) Derece 2, Derece 3 ve Derece 4 
+vakalar bildirilmiştir. Başlangıca kadar geçen medyan süre 1,9 aydı (aralık: 0 -36,6). 351 hastada 
+(%87,8) iyileşme gözlenmiştir ve iyileşme ortaya çıkana kadar geçen medyan süre 5,3 hafta olduğu 
+belirlenmiştir (aralık: 0,1-175,9+). Nivolumab 1mg/kg ile kombinasyon halindeki YERVOY 3m/kg 
+ile tedavi edilen hastalar arasında, karaciğer fonksiyon testi anomalilerinin insidansı Derece 2 (%6,9), 
+Derece 3 (%15,8) ve Derece 4 (%1,8) dahil olmak üzere toplamda %30,1olmuştur. 
+ 
+İmmünite ile ilişkili advers deri reaksiyonları 
+ 
+YERVOY, immünite ile ilişkili olması muhtemel olan, ciddi advers deri reaksiyonları ile 
+ilişkilendirilmiştir. gp100 ile kombinasyon halinde YERVOY alanhastaların %1’inden azında 
+ölümcül toksik epidermal nekroliz (SJS dahil) bildirilmiştir (bkz. Bölüm 5.1). Klinik çalışmalarda ve 
+pazarlama sonrası kullanımda YERVOY ile Eozinofili ve Sistemik Semptomların Eşlik Ettiği İlaç 29 
+ Reaksiyonları (DRESS) nadir olarak bildirilmiştir. Pazarlama sonrası kullanım sırasında tesadüfi 
+pemfigoid vakaları bildirilmiştir. 
+ 
+3 mg/kg YERVOY monoterapi grubunda hastaların %26'sında herhangi bir şiddette döküntü ve 
+kaşıntı bildirilmiştir. YERVOY kaynaklı döküntü ve kaşıntı, ağırlıklı olarak hafif (Derece 1) veya 
+orta şiddette (Derece 2) olup semptomatik tedaviye yanıt vermekteydi. Orta ila şiddetli veya ölümcül 
+(Derece 2 – 5) advers deri reaksiyonlarının başlamasına kadar geçen ortanca süre, tedavinin 
+başlangıcından itibaren 3 haftaydı (aralık 0,9 – 16 hafta). Protokolde belirtilen yöntem rehberlerinde, 
+vakaların büyük bir bölümünde (%87) iyileşme görülürken başlangıçtan itibaren iyileşme görülene 
+kadar geçen ortanca süre 5 haftaydı (aralık 0,6 – 29 hafta). 
+ 
+Nivolumab (kemoterapi ile ya da kemoterapisiz) ile kombinasyon halindeki YERVOY ile tedavi 
+edilen hastalarda, döküntü insidansı %46,2 (968/2094) olmuştur. Hastaların sırasıyla %14,1 
+(296/2094), %4,6 (97/2094) ve %<0,1’sinde (2/2094) Derece 2, Derece 3 ve Derece 4 vakalar 
+bildirilmiştir. Başlangıca kadar geçen medyan süre 0,7 aydı (aralık: 0-33,8). 671 hastada (%69,6) 
+iyileşme gözlenmiştir ve iyileşme ortaya çıkana kadar geçen medyan süre 11,1 hafta olduğu 
+belirlenmiştir (aralık: 0,1-268,7+). Nivolumab 1mg/kg ile kombinasyon halindeki YERVOY 3mg/kg 
+ile tedavi edilen hastalar arasında, Derece 2 (%20,3) ve Derece 3 (%7,8) dahil olmak üzere döküntü 
+insidansı %65,2 olmuştur. 
+ 
+İmmünite ile ilişkili nörolojik reaksiyonlar 
+ 
+YERVOY, ciddi immünite ile ilişkili nörolojik reaksiyonlar ile ilişkilendirilmiştir. gp100 ile  
+kombinasyon halinde 3 mg/kg YERVOY  alan hastaların %1’inden azında ölümcül Guillain-Barré 
+sendromu bildirilmiştir. Klinik çalışmalarda daha yüksek dozda YERVOY uygulanan hastaların 
+%1’inden azında myastenia gravis benzeri semptomlar da bildirilmiştir. 
+ 
+İmmünite ile ilişkili nefrit ve renal fonksiyon bozukluğu  
+ 
+Nivolumab (kemoterapi ile ya da kemoterapisiz) ile kombinasyon halindeki YERVOY ile tedavi 
+edilen hastalarda, nefrit ya da renal fonksiyon bozukluğu insidansı %6,1 (128/2094) olmuştur. 
+Hastaların sırasıyla %2,3 (49/2094), %1,0 (20/2094) ve %0,5’inde (10/2094) Derece 2, Derece 3 ve 
+Derece 4 vakalar bildirilmiştir. İki hasta (<%0,1) ölümle sonuçlanmıştır. Başlangıca kadar geçen 
+medyan süre 2,5 aydı (aralık: 0-34,8). 97 hastada (%75,8) iyileşme gözlenmiştir ve iyileşme ortaya 
+çıkana kadar geçen medyan süre 6,3 hafta olduğu belirlenmiştir (aralık: 0,1-172,1+). 
+ 
+İmmünite ile ilişkili endokrinopati 
+ 
+3 mg/kg YERVOY monoterapi grubunda hastaların %4’ünde herhangi bir şiddette hipopitüitarizm 
+bildirilmiştir. Hastaların %2’sinde herhangi bir şiddette adrenal yetmezlik, hipertiroidizm ve 
+hipotiroidizm bildirilmiştir. Ciddi (Derece 3 veya 4) hipopitütiarizm sıklığı hastaların %3’ü olarak 
+kaydedilmiştir. Orta ila çok şiddetli (Derece 2 – 4) immünite ile ilişkili endokrinopatinin başlamasına 
+kadar geçen süre, tedavinin başlangıcından itibaren 7 ila yaklaşık 20 hafta arasındaydı. Klinik 
+çalışmalarda gözlemlenen immünite ile ilişkili endokroinopati genelde hormon replasman tedavisi ile 
+kontrol edilmiştir. 
+ 
+Nivolumab (kemoterapi ile ya da kemoterapisiz) ile kombinasyon halindeki YERVOY ile tedavi 
+edilen hastalarda, tiroid bozukluklarının insidansı %22,9 (479/2094) olmuştur. Hastaların 
+sırasıyla %12,5 (261/2094) ve %1,0’inde (21/2094) Derece 2 ve Derece 3 tiroid bozukluk 
+bildirilmiştir. Hastaların sırasıyla %2 (42/2094) ve %1,6’sında (33/2094) Derece 2 ve Derece 3 
+hipofizit (lenfositik hipofizit dahil) meydana gelmiştir. Hastaların sırasıyla %0,8 (16/2094) 
+ve %0,5’inde (11/2094) Derece 2 ve Derece 3 hipopitüitarizm meydana gelmiştir. Hastaların 30 
+ sırasıyla %2,3 (49/2094), %1,5 (32/2094) ve %0,2’sinde (4/2094) Derece 2, Derece 3 ve Derece 4 
+adrenal yetersizlik (ikincil adrenokortikal yetmezlik dahil) meydana gelmiştir Hastaların 
+sırasıyla %0,1 (1/2094), %0,2 (4/2094), <%0,1’sinde (1/2094) ve 0,1 (3/2094) Derece 1, Derece 2, 
+Derece 3 ve Derece 4 şeker hastalığı meydana gelmiştir. Hastaların <% 0,1 (2/2094)’inde Derece 4 
+diyabetik ketoasidoz raporlanmıştır. Bu endokrinopatilerin başlangıcına kadar geçen medyan süre 2,1 
+aydı (aralık: 0,0-28,1). 201 hastada (%40,7) iyileşme gözlenmiştir ve iyileşmeye kadar geçen süresi 
+0,3 ile 257,1+ hafta arasında değişmiştir. 
+ 
+İnfüzyon reaksiyonları 
+Nivolumab (kemoterapi ile ya da kemoterapisiz) ile kombinasyon halindeki YERVOY ile tedavi 
+edilen hastalarda, aşırı duyarlılık/infüzyon reaksiyonlarının insidansı %4,9 (103/2094) olmuştur. 
+Hastaların sırasıyla %2,1 (44/2094), %2,5’inde (53/2094), %0,2 (5/2094) ve <%0,1(1/2094)’ünde 
+Derece 1, Derece 2, Derece 3 ve Derece 4 vakalar bildirilmiştir. MPM’de, nivolumab 3 mg/kg ile 
+kombinasyon halindeki YERVOY 1 mg/kg ile tedavi edilen hastalarda, aşırı duyarlılık/infüzyon 
+reaksiyonlarının insidansı %12 idi. 
+ 
+İmmünojenisite 
+Faz 2 ve 3 klinik çalışmalarda YERVOY alan ileri evre melanomlu hastaların %2’sinden daha azında 
+YERVOY’a karşı antikor gelişmiştir. Bu hastaların hiçbirinde infüzyonla ilgili ya da infüzyon 
+sırasında aşırı duyarlılık ya da anafilaktik reaksiyonlar gözlenmemiştir. YERVOY’a karşı nötralize 
+edici antikorlar tespit edilmemiştir.  Genel olarak, antikor gelişimi ile yan etkiler arasında belirgin bir 
+ilişki gözlenmemiştir. 
+ 
+Nivolumab ile kombinasyon halinde YERVOY ile tedavi edilen ve anti-ipilimumab antikorlarının 
+varlığı açısından değerlendirilebilen hastaların anti-ipilimumab antikorları insidansı %6,3 ila %13,7 
+arasındaydı.  YERVOY’a karşı nötralize edici antikorlar 0 ila %0,4 arasında değişmiştir. Nivolumab 
+ile kombinasyon halinde YERVOY ve kemoterapi ile tedavi edilen ve anti-ipilimumab antikorlarının 
+veya YERVOY’a karşı nötralize edici antikorlar varlığı açısından değerlendirilebilen hastalarda, anti-
+ipilimumab antikorlarının insidansı %7,5 idi ve YERVOY’a karşı nötralize edici antikorların 
+insidansı %1,6 idi. Anti-nivolumab antikorlarının varlığı açısından değerlendirilebilen hastalarda, 
+anti-nivolumab antikorlarının insidansı, 3 haftada bir nivolumab 3 mg/kg ve YERVOY 1 mg/kg ile 
+%26, 2 haftada bir nivolumab 3 mg/kg ve 6 haftada bir  YERVOY 1 mg/kg ile %24,9, 3 haftada bir 
+nivolumab 1 mg/kg ve YERVOY 3 mg/kg ile %37,8 ve 3 haftada bir nivolumab 360 mg, 6 haftada bir 
+YERVOY 1 mg/kg ile kombinasyon halinde ve kemoterapi ile %33,8 olmuştur. Nivolumaba karşı 
+nötralize edici antikorların insidansı, 3 haftada bir nivolumab 3 mg/kg ve YERVOY 1 mg/kg ile %0,8, 
+2 haftada bir nivolumab 3 mg/kg ve 6 haftada bir YERVOY 1 mg/kg ile %1,5, 3 haftada bir nivolumab 
+1 mg/kg ve YERVOY 3 mg/kg ile %4,6 ve 3 haftada bir nivolumab 360 mg, 6 haftada bir YERVOY 1 
+mg/kg ile kombinasyon halinde ve kemoterapi ile %2,6 olmuştur.  
+ 
+Nivolumab ile kombinasyon halinde uygulandığında, YERVOY’un CL'si anti-ipilimumab 
+antikorlarının varlığında değişmemiştir ve toksisite profilinin değiştiğine ilişkin kanıt bulunmamıştır. 
+ 
+Laboratuvar değerlerindeki bozukluklar 
+Nivolumab (kemoterapi ile ya da kemoterapisiz) ile kombinasyon halindeki YERVOY ile tedavi 
+edilen hastalarda,  laboratuvar değerlerinde Derece 3 veya 4 düzeyinde bozukluk gözlenen hastaların 
+oranı: Anemi için %4,9, trombositopeni için %1,5, lökopeni için %2,3, lenfopeni için %7,3, nötropeni 
+için %3,4, alkalen fosfataz yükselmesi için %2,9, AST artışı için %7,3, ALT artışı için %8,4, toplam 
+bilirubin yükselmesi için %1,2, kreatinin yükselmesi için %1,6, hiperglisemi için %5,8, hipoglisemi 
+için %0,9, amilaz yükselmesi için %8,4, lipaz yükselmesi için %16,7, hipokalsemi için %0,8, 
+hipernatremi için %0,2, hiperkalsemi için %1, hiperkalemi için %1,9, hipermagnezemi için %0,5, 
+hipokalemi için %3,4 ve hiponatremi için %9,8. Nivolumab 1 mg/kg ile kombinasyon halindeki 31 
+ YERVOY 3 mg/kg ile tedavi edilen hastalar arasında, başlangıçtan Derece 3 veya 4’e kötüleşen 
+yüksek oranda hastada ALT artışı (%15,3)gözlemlenmiştir. 
+ 
+Pediyatrik Popülasyon 
+ 
+YERVOY 18 yaşın altındaki çocuklarda kullanılmamalıdır. 
+ 
+Yaşlı Hastalar 
+ 
+MPM hastalarında, nivolumab ile kombinasyon halinde YERVOY alan tüm hastalara (sırasıyla %54 
+ve %28) kıyasla 75 yaş ve üzeri hastalarda (sırasıyla %68 ve %35) ciddi advers reaksiyonların ve 
+advers reaksiyonlara bağlı tedaviyi bırakma oranı daha yüksekti. 
+ 
+Şüpheli advers reaksiyonların raporlanması 
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem taşımaktadır. 
+Raporlama yapılması, ilacın yarar / risk dengesinin sürekli olarak izlenmesine olanak sağlar. Sağlık 
+mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye Farmakovijilans Merkezi 
+(TÜFAM)’ne bildirmeleri gerekmektedir. ( www.titck.gov.tr ; e- posta: tufam@titck.gov.tr ; tel: 0 800 314 
+00 08; faks: 0 312 218 35 99) 
+ 
+4.9 Doz aşımı ve tedavisi 
+ 
+YERVOY’un tolere edilen maksimum dozu belirlenmemiştir. Klinik çalışmalarda hastalar bariz bir 
+toksik etki görülmeden 20 mg/kg’a kadar dozlar almıştır. 
+ 
+Doz aşımı olursa, hastalar advers reaksiyon bulguları ya da semptomları açısından yakından 
+gözlenmeli ve uygun semptomatik tedavi başlatılmalıdır. 
+ 
+5. FARMAKOLOJİK ÖZELLİKLERİ 
+ 
+5.1  Farmakodinamik Özellikleri 
+ 
+Farmakoterapötik grup: Antineoplastik ajanlar, monoklonal antikorlar ve antikor ilaç konjugeleri, 
+diğer monoklonal antikorlar ve antikor ilaç konjugeleri  
+ATC kodu: L01FX04. 
+ 
+Etki mekanizması 
+ 
+Sitotoksik T-lenfosit antijeni (CTLA-4) T-hücresi aktivitesinin önemli bir regülatörüdür. YERVOY, 
+CTLA-4 yolağıyla indüklenen T hücresi inhibe edici sinyalleri bloke eden bir CTLA-4 immün kontrol 
+noktası inhibitörüdür ve tümör hücrelerine karşı doğrudan bir T hücresi immün saldırısına geçmek 
+için harekete geçen reaktif T efektör hücrelerin sayısını arttırmaktadır. CTLA-4 blokajı, düzenleyici 
+T hücrelerinin işlevini de azaltabilir ve bu durum bir anti-tümör immün yanıtına katkıda bulunabilir. 
+YERVOY tümör bölgesindeki düzenleyici T hücrelerini seçici olarak tüketebilir ve bu da tümör içi 
+efektör T/düzenleyici T hücre oranının artmasına yol açarak tümör hücrelerinin ölümünü 
+tetikleyebilir. 
+ 
+Farmakodinamik etkileri 
+ 
+YERVOY alan melanom hastalarında periferal kandaki mutlak lenfosit sayımı (ALC) indüksiyon 
+dozu süreci boyunca artmıştır. Faz 2 çalışmalarda bu artış doza bağlıdır.  MDX010-20’de (bkz. Bölüm 
+5.1), gp100 ile birlikte ya da tek başına uygulanan 3 mg/kg YERVOY, indüksiyon dozu sürecinde 
+ALC’yi yükseltmiş, ancak araştırma amaçlı tek başına gp 100 peptid aşısı alan kontrol grubu 32 
+ hastalarında anlamlı bir ALC değişikliği görülmemiştir. Melanom hastalarının periferal kanında 
+YERVOY tedavisinden sonra aktive HLA-DR+ CD4+ ve CD8+T hücrelerinin yüzdesinde ortalama 
+bir artış gözlenmiştir: bu gözlemler etki mekanizması ile uyumludur. YERVOY tedavisinden sonra 
+merkezî hafıza (CCR7+ CD45RA-) CD4+ ve CD8+ T hücrelerinin yüzdesinde ortalama bir yükselme 
+ve efektör hafıza (CCR7- CD45RA-) CD8+ T hücrelerinin yüzdesinde ise daha az ancak anlamlı bir 
+ortalama yükselme de gözlenmiştir. 
+ 
+Klinik etkililik ve güvenlilik 
+ 
+Nivolumab ile kombinasyon halinde YERVOY 
+YERVOY ile kombinasyon tedavisini takiben monoterapi olarak verilen nivolumab için doz önerileri 
+ile ilişkili klinik etkililik ve güvenlilik hakkında daha fazla bilgi için lütfen nivolumab KÜB’üne 
+bakınız.  
+ 
+Doz/maruziyet etkililik ve güvenlilik ilişkilerinin modellenmesine dayanarak, her 2 haftada bir 240 
+mg veya her 2 haftada bir 3 mg/kg nivolumab arasında etkililik ve güvenlilik açısından klinik olarak 
+anlamlı bir fark bulunmamaktadır. Ek olarak, bu ilişkilere dayanarak, ileri evre melanom ve RHK'de 
+4 haftada bir 480 mg veya her 2 haftada bir 3 mg/kg nivolumab dozu arasında klinik olarak anlamlı 
+bir fark görülmemiştir. 
+ 
+YERVOY monoterapisi ile Klinik Çalışmalar 
+ 
+Melanom 
+ 
+Daha önce tedavi edilmiş ve ileri evre (rezeke edilemeyen veya metastatik) melanom hastalarında 
+önerilen 3 mg/kg YERVOY dozunda genel sağkalım (OS) avantajı bir Faz 3 çalışmada (MDX010-
+20) kanıtlanmıştır. Oküler melanom, primer MSS melanomu, aktif beyin metastazları, insan immün 
+yetmezlik virüsü (HIV), hepatit B ve hepatit C görülen hastalar, MDX010-20 klinik çalışmasına dahil 
+edilmemiştir. Klinik çalışmaya ECOG (The Eastern Cooperative Oncology Group – Doğu Kooperatif 
+Onkoloji Grubu) performans durumu >1 olan ve mukozal melanom görülen hastalar dahil 
+edilmemiştir. Karaciğer metastazı görülmeyen ve başlangıçta AST değeri >2,5 x ÜNL olan hastalar, 
+karaciğer metastazı görülen ve başlangıçta AST değeri >5 x ÜNL olan hastalar ve başlangıçta total 
+bilirubin değeri ≥ 3 x ÜNL olan hastalar da çalışmaya dahil edilmemiştir. 
+ 
+Otoimmün hastalık geçmişi olan hastalar için bkz. Bölüm 4.4. 
+ 
+MDX010-20 
+ 
+Aşağıdakilerden birini ya da daha fazlasını içeren rejimler ile önceden tedavi görmüş olan ileri evre 
+(rezeke edilemeyen veya metastatik) melanom hastalarının kaydolduğu çift kör, bir Faz 3 
+çalışmasıdır: IL-2, dekarbazin, temozolomid, fotemustin, veya karboplatin. Hastalar 3:1:1 oranında 
+randomize edilmiş ve 3 mg/kg YERVOY + araştırma amaçlı gp 100 peptid aşısı (gp100), 3 mg/kg 
+YERVOY monoterapisi ya da sadece gp100 almışlardır. Hastaların tamamı HLA-A2*0201 
+tipindedir; bu HLA tipi immün gp100 varlığını destekler. Hastalar, başlangıç BRAF mutasyon 
+durumundan bağımsız olarak kaydedilmiştir. Hastalar, toleranslarına göre, 4 doz YERVOY’u 3 
+haftada bir almışlardır (indüksiyon tedavisi). İndüksiyon dönemi bitmeden tümör yüklerindeki artış 
+belirgin olan hastalar performans durumlarının uygun olması şartıyla, tolere ettikleri sürece, 
+indüksiyon tedavisine devam etmişlerdir. YERVOY’a verilen tümör yanıtı indüksiyon tedavisi 
+tamamlandıktan sonra yaklaşık 12. haftada değerlendirilmiştir.  
+ 
+Tümörün ilk değerlendirmesinden >3 ay sonra, başlangıçtaki klinik yanıtın (PR veya CR) ardından 
+veya stabil hastalık (SD) (modifiye DSÖ kriterlerine göre) ardından progresif hastalık (PD) geliştiren 
+kişilere YERVOY ile ilave tedavi (tekrar tedavi) önerilmiştir. Primer sonlandırma kriteri gp100 33 
+ grubuna karşı YERVOY + gp100 grubunda genel sağkalımdı (OS). Başlıca sekonder sonlandırma 
+kriterleri YERVOY monoterapi grubuna karşı YERVOY+gp100 grubunda ve gp100 grubuna karşı 
+YERVOY monoterapi grubunda OS idi.  
+ 
+Toplam 676 hasta randomize edilmiştir: 137’si YERVOY monoterapi grubuna, 403’ü YERVOY + 
+gp100 grubuna, 136’sı da sadece gp100 grubuna. Büyük bir bölümü, indüksiyon sırasında 4 dozun 
+hepsini de almıştır. Otuz iki hasta bir tekrar tedavi almıştır: bunların 8’i YERVOY monoterapi 
+grubunda, 23’ü YERVOY + gp100 grubunda ve 1’i de gp100 grubundadır. Takip süresi 55 ay devam 
+etmiştir. Başlangıç karakteristikleri gruplar arasında iyi dengelenmişti. Ortanca yaş 57’ydi. Hastaların 
+çoğunluğunun (%71-73) M1c evresinde hastalığı vardı ve hastaların %37-40‘ının başlangıç laktat 
+dehidrojenazı (LDH) yüksekti. Toplam 77 hastanın daha önce tedavi edilmiş beyin metastazı hikayesi 
+vardı. 
+ 
+YERVOY içeren rejimler gp100 kontrol grubuna karşı istatistiksel olarak anlamlı bir OS avantajı 
+elde etmiştir. OS karşılaştırmasında YERVOY monoterapisi ile gp100 arasındaki risk oranı (HR) 
+0,66 (%95 GA: 0,51, 0,87; p = 0,0026) olmuştur. 
+ 
+Alt grup analizinde, genel sağkalım (OS) yararının hasta alt gruplarının büyük bir kısmının içerisinde 
+tutarlıydı (M [metastaz]-evre, önceki interlökin-2, başlangıçtaki LDH, yaş, cinsiyet ve önceki tedavi 
+tipi ve sayısı). Ancak, 50 yaşın üzerindeki kadınlarda YERVOY tedavisinin OS yararını destekleyen 
+veriler sınırlıdır. Alt grup analizi az sayıda hastayı içerdiğinden, bu verilerden kesin sonuçlar 
+çıkartılamamaktadır. 
+ 
+1 ve 2 yıldaki ortanca ve tahmin edilen OS oranları Tablo 7’de verilmiştir. 
+ 
+Tablo 7: MDX010-20’de Genel Sağkalım 
+ YERVOY 3 mg/kg 
+n= 137 gp 100a 
+    n= 136 
+        Ortanca Aylar (%95 GA) 10 ay  
+(8, 13,8) 6 ay  
+(5,5, 8,7) 
+ 1 yılda % OS  (%95 GA) %46 (37, 54,1) %25 (18,1, 32,9) 
+ 2 yılda % OS  (%95 GA) %24 (16, 31,5) %14 (8, 20) 
+a gp100 peptid aşısı deneysel bir kontroldür. 
+ 
+3 mg/kg YERVOY monoterapi grubunda ortanca OS, sırasıyla SD olan hastalarda 22 ay ve PD 
+olanlarda 8 ay olmuştur. Bu analiz yapılırken CR ya da PR geliştiren hastaların ortancalarına 
+ulaşılmamıştı. 
+ 
+Tekrar tedavi gereken hastalar için BORR, YERVOY monoterapi grubunda %38 (3/8 hasta) ve gp100 
+grubunda %0 olmuştur. Hastalık kontrol oranı (DCR), (CR+PR+SD olarak tanımlanır) sırasıyla %75 
+(6/8 hasta) ve %0 olmuştur. Bu analizlerde hasta sayısının sınırlı olmasından dolayı YERVOY’un 
+tekrar tedavi etkisi tam olarak bilinmemektedir. 
+ 
+YERVOY tedavisini takiben sistemik kortikosteroid kullanılarak veya kullanılmadan klinik aktivite 
+benzer şekilde gelişmiş veya korunmuştur.  
+ 
+CA184-169 
+Bir çift kör, Faz 3 çalışmaya daha önce tedavi görmüş ya da tedavi görmemiş rezeke edilemeyen Evre 
+III ya da Evre IV melanom hastaları kaydolmuştur. Toplam 727 hasta, 4 doza kadar her 3 haftada bir 
+362’si YERVOY 3 mg/kg ve 365'i YERVOY 10 mg/kg alacak şekilde randomize edilmiştir. 34 
+ YERVOY 10 mg/kg grubunda ortanca OS (%95 GA) 16 ay (11,63, 17,84) ve YERVOY 3 mg/kg 
+grubunda ortanca OS (%95 GA) 12 aydı (9,86, 13,27). YERVOY 10 mg/kg ve 3 mg/kg grupları 
+arasında karşılaştırılan genel sağkalım HR = 0,84 (%95 GA: 0,70, 0,99; P-değeri = 0,04) göstermiştir. 
+10 mg/kg ve 3 mg/kg grupları arasında progresyonsuz sağkalımda (PFS) istatistiksel açıdan anlamlı 
+fark gözlemlenmemiştir. (HR 0,89, %95 GA 0,76, 1,04 ve log-sıra testi P-değeri = 0,1548). BORR, 
+10 mg/kg ve 3 mg/kg gruplarında benzerdi. BORR, 10 mg/kg grubunda %15,3 (%95 GA: 11,8, 19,5) 
+ve 3 mg/kg grubunda %12,2 (%95 GA: 9, 16) idi. YERVOY 10 mg/kg, 3 mg/kg doz ile 
+karşılaştırıldığında daha yüksek advers olay oranları ile ilişkilendirilmiştir. 10 mg/kg ve 3 mg/kg 
+gruplarındaki ciddi advers reaksiyon sıklıkları %37% ve %18 olup, en yaygın 3 advers reaksiyon 
+diyare (%10,7’ye %5,5), kolit (%8’e %3) ve hipofizitti (%4,4’e %1,9). 10 mg/kg ve 3 mg/kg 
+gruplarında tedavinin kesilmesine neden olan advers olaylar sırasıyla hastaların %31’i ve %19’unda 
+meydana gelmiş olup, 4 ve 2 hastada ölüme neden olan AO’lar meydana gelmiştir.  
+ 
+Önerilen 3 mg/kg dozunda, ortanca OS, genel popülasyona kıyasla 50 yaşındaki ve üstündeki 
+kadınların alt grubunda benzerdi: (11,40 aya 11,53). Başlangıçta beyin metastazları olan alt gruptaki 
+ortanca OS önerilen 3 mg/kg dozunda 5,67 aydı. 
+ 
+YERVOY monoterapisi ile diğer çalışmalar  
+ 
+Melanom 
+ 
+CA184332 ve CA184338 
+Birleştirilmiş Faz 2 ve 3 klinik çalışmalarda daha önce kemoterapi görmemiş olan hastalarda (N=78: 
+randomize edilen) ve iki retrospektif gözlem çalışmasındaki daha önce tedavi edilmemiş hastalarda 
+(N=273 ve N=157) YERVOY 3 mg/kg monoterapisi ile elde edilen OS, genel olarak tutarlıdır. İki 
+gözlem çalışmasında, hastaların %12,1 ve 33,1’inde ileri evre melanom teşhisi sırasında beyin 
+metastazı mevcuttu. Ortanca OS ve tahmini 1 yıllık, 2 yıllık, 3 yıllık ve 4 yıllık sağkalım oranları 
+Tablo 8’de sunulmaktadır. Birleştirilmiş Faz 2 ve 3 klinik çalışmalarda daha önce kemoterapi 
+görmemiş olan hastalarda (N=78) tahmini 1 yıllık, 2 yıllık ve 3 yıllık sağkalım oranları, sırasıyla 
+%54,1 (%95 GA: 42,5 – 65,6), %31,6 (%95 GA: 20,7 – 42,9) ve %23,7 (%95 GA: 14,3 – 34,4) idi. 
+ 
+Tablo 8: Gözlem çalışmalarında genel sağkalım  
+ CA184338  
+n= 273 CA184332  
+n= 157 
+Ortanca OS (%95 GA)  14 ay 
+(12,8-18,7) 10 ay 
+(7-12,8) 
+1.yılda % OS (%95 GA)  %59 (52,5-64,3) %44 (35,5, 51,4) 
+2.yılda % OS (%95 GA) %39 (33,1-44,8)  %26 (18,9-33,3)  
+3.yılda % OS (%95 GA) %31 (25,5-36,7)  %22 (15,5-29,2)  
+4.yılda % OS (%95 GA) %26 (20,4-31,3)  %22 (15,5-29,2)  
+ 
+CA184332 çalışmasında beyin metastazı olan hastalarda ortanca genel sağkalım 7 ay (%95 GA: 5,06 
+– 12,81) ve beyin metastazı olmayan hastalarda ortanca genel sağkalım 14,1 ay (%95 GA: 9,96- 
+tahmin edilemiyor) bulunmuştur.  
+ 
+CA184338 çalışmasında beyin metastazı olan hastalarda ortanca genel sağkalım 6,3 ay (%95 GA: 3,2 
+– 12) ve beyin metastazı olmayan hastalarda ortanca genel sağkalım 17,7 ay (%95 GA: 13,6 – 12,1) 
+bulunmuştur.  
+ 
+YERVOY (3mg/kg’da) tedavisinin uzun dönemli sağkalım yararı önceden tedavi görmüş ve hiç 
+tedavi görmemiş ileri melanomlu hastalarda (N = 965) yapılan klinik çalışmalardan alınan OS 
+verilerinin birleştirilmiş analiziyle gösterilmektedir. Kaplan-Meier OS eğrisi yaklaşık 3. yılda 35 
+ başlayan ve bazı hastalarda 10 yıla kadar uzayan bir platoyu ortaya koymuştur (OS oranı = %21 [%95 
+GA: 17-24]) (bkz. Şekil 1). 
+ 
+Şekil 1: Birleştirilmiş analizde YERVOY 3 mg/kg ile Genel Sağkalım 
+ 
+ 
+Süre (ay) 
+Risk altında olanlar 
+3 mg/kg  965 429 127 73 41 29 28 12 8 4 0 
+ 
+Nivolumab ile kombinasyon halinde YERVOY ile klinik çalışmalar  
+ 
+Melanom 
+ 
+YERVOY monoterapisine karşı nivolumab ile kombinasyon halinde YERVOY veya nivolumab 
+monoterapisinin randomize Faz 3 çalışması (CA209067) 
+İleri evre (rezeke edilemeyen veya metastatik) melanom tedavisi için YERVOY 3 mg/kg 
+monoterapisine karşı 1 mg/kg nivolumab ile kombinasyon halindeki 3 mg/kg YERVOY’un ve 3 
+mg/kg nivolumabın güvenliliği ve etkililiği faz 3, randomize, çift kör çalışmada (CA209067) 
+değerlendirilmiştir. Nivolumab içeren iki grup arasındaki farklılıklar tanımlayıcı şekilde 
+değerlendirilmiştir. Çalışmaya rezeke edilemeyen Evre III ya da Evre IV melanomun doğrulandığı 
+yetişkin hastalar dahil edilmiştir. Hastaların ECOG performans durumunun 0 ya da 1 olması 
+gerekmiştir. Rezeke edilemeyen ya da metastatik melanom için daha önce sistemik kanser tedavisi 
+görmemiş olan hastalar kaydolmuştur. Randomizasyondan en az 6 hafta önce tamamlanmış olması 
+kaydıyla önceki adjuvan/neoadjuvan tedavisine izin verilmiştir. Aktif otoimmün hastalığı, 
+oküler/üveal melonomu veya aktif beyin ya da leptomeningeal metastazları bulunan hastalar 
+çalışmaya dahil edilmemiştir. 
+ 
+Toplam 945 hasta, nivolumab ile kombinasyon halinde YERVOY (n=314), nivolumab monoterapisi 
+(n=316) veya YERVOY monoterapisi (n=315) alacak şekilde randomize edilmiştir. Kombinasyon 
+kolundaki hastalar ilk 4 doz için her 3 haftada bir intravenöz yoldan 60 dakika boyunca 1 mg/kg 
+nivolumab ve 90 dakika boyunca 3 mg/kg YERVOY ardından her 2 haftada bir 3 mg/kg nivolumab 
+monoterapisi almıştır. Nivolumab monoterapisi kolundaki hastalar her 2 haftada bir 3 mg/kg 
+nivolumab almıştır. Karşılaştırma ilacı kolundaki hastalar 4 doz için her 3 haftada bir intravenöz 
+yoldan 3 mg/kg YERVOY ve nivolumab eşleşmeli plasebo ardından her 2 haftada bir plasebo 
+almıştır. Randomizasyon, PD-L1 ekspresyonu (<%5’e ≥ %5 tümör hücresi membran ekspresyonu), 
+Genel Sağkalım 
+(oran) 3.0 mg/kg 36 
+ BRAF durumu ve Amerika Kanser Komitesi (AJCC) Evreleme Sistemi uyarınca M evresine göre 
+katmanlandırılmıştır. Tedavi, klinik yarar gözlendiği sürece veya tedavi hasta tarafından artık tolere 
+edilmeyinceye kadar sürdürülmüştür. Tümör değerlendirmeleri randomizasyondan 12 hafta sonra ve 
+ardından ilk yıl için her 6 haftada bir ve daha sonra 12 haftada bir gerçekleştirilmiştir. Primer 
+sonlanım noktaları progresyonsuz sağkalım ve OS idi. ORR ve yanıt süresi de değerlendirilmiştir. 
+ 
+Başlangıç karakteristikleri üç tedavi grubu arasında dengeliydi. Hastaların ortanca yaşı 61 olup 
+(aralık: 18 ila 90 yaş) hastaların %65’i erkek ve %97’si beyazdı. ECOG performans durumu 0 (%73) 
+veya 1 (%27) idi. Hastaların büyük çoğunluğunda AJCC Evre IV hastalık (%93) vardı; %58’inde 
+çalışmaya giriş sırasında M1c hastalık vardı. Hastaların %22’sidaha önce adjuvan tedavisi görmüştü. 
+Hastaların %32’sinde BRAF mutasyon pozitif melanom vardı; hastaların %26,5’inde PD-L1 ≥ %5 
+tümör hücresi membran ekspresyonu vardı. Hastaların yüzde dördünde beyin metastazı öyküsü vardı 
+ve hastaların %36’sında başlangıç LDH düzeyi çalışma başlangıcındaki ÜNL’ten yüksekti. 
+Ölçülebilir tümör PD-L1 ekspresyonu olan hastalar arasında, hastaların dağılımı üç tedavi grubunda 
+dengeliydi. Tümör PD-L1 ekspresyonu, PD-L1 IHC 28-8 pharmDx miktar tayini kullanılarak 
+belirlenmiştir. 
+ 
+Birincil analizde (minimum takip 9 ay) ortanca PFS, nivolumab grubunda 6,9 ay iken YERVOY 
+grubunda 2,9 aydı (HR = 0,57, %99,5 GA: 0,43, 0,76; p <0,0001). Ortanca PFS, YERVOY 
+grubundaki 2,9 aya kıyasla nivolumab grubuyla kombinasyon halinde YERVOY’da 11,5 aydı (HR = 
+0,42, %99,5 GA: 0,31, 0,57; p <0,0001). 
+ 
+Tanımlayıcı analizden PFS sonuçları (en az 90 ay takip süresi ile) Şekil 2’de (tamamı randomize 
+edilmiş popülasyon), Şekil 3 (tümör PD-L1 %5 kesmede) ve Şekil 4’te (tümör PD-L1 %1 kesmede) 
+gösterilmiştir. 
+ 
+  37 
+ Progresyonsuz sağkalım olasılığı  Şekil 2: Progresyonsuz Sağkalım (CA209067) 
+ 
+ 
+Araştırmacıya göre progresyonsuz sağkalım (aylar) 
+                             
+Risk altındaki gönüllülerin sayısı 
+Nivolumab + YERVOY  
+314 175 138 126 112 103 99 93 87 84 78 76 70 66 57 33 1 - 
+Nivolumab  
+316 151 120 106 97 84 78 73 69 66 62 57 54 50 44 21 0 - 
+YERVOY  
+315 78 46 34 31 28 21 18 16 15 12 11 10 9 9 7 1 - 
+ 
+- - -*- - - -  Nivolumab+YERVOY (olaylar: 189/314), ortanca ve %95 GA: 11,50 (8,90, 20,04). 
+    12 ayda PFS oranı ve %95 GA: %49 (44, 55), 60 ayda PFS oranı ve %95 GA: %36 (32, 42), 90 ayda PFS oranı % 95  
+    GA: %33 (27,39) 
+──Δ───  Nivolumab (olaylar: 203/316), ortanca ve %95 GA: 6,93 (5,13, 10,18). 
+    12 ayda PFS oranı ve %95 GA: %42 (36, 47), 60 ayda PFS oranı ve %95 GA: %29 (24, 35), 90 ayda PFS oranı % 95  
+    GA: %27 (22,33) 
+- - -- - -  YERVOY (olaylar: 245/315), ortanca ve %95 GA: 2,86 (2,79, 3,15). 
+    12 ayda PFS oranı ve %95 GA: %18 (14, 23), 60 ayda PFS oranı ve %95 GA: %8 (5, 12), 90 ayda PFS oranı ve %95 
+    GA: %7 (4,11) 
+ 
+Nivolumab+YERVOY’a karşı YERVOY – risk oranı ve %95 GA: 0,42 (0,35, 0,51); 
+Nivolumab’a karşı YERVOY – risk oranı ve %95 GA: 0,53 (0,44, 0,64);  
+Nivolumab+ YERVOY’a karşı nivolumab – risk oranı ve %95 GA: 0,79 (0,65, 0,97) 
+ 
+  
+38 
+ Şekil 3: PD-L1 ekspresyonuna göre progresyonsuz sağkalım: %5 kesme (CA209067) 
+PD-L1 ekspresyonu <%5  
+ 
+Progresyonsuz sağkalım (aylar) 
+ 
+Nivolumab + YERVOY  
+210 113 87 78 71 64 60 56 54 52 50 49 45 43 39 22 0 - 
+Nivolumab  
+208 91 73 66 60 51 49 46 42 40 38 33 31 29 27 12 0 - 
+YERVOY  
+202 45 26 19 18 16 14 13 11 10 7 6 5 4 4 3 0 - 
+ 
+- - -*- - - - Nivolumab+YERVOY (olaylar: 127/210), ortanca ve %95 GA: 11,17 (7,98, 17,51) 
+──Δ─── Nivolumab (olaylar: 139/208), ortanca ve %95 GA: 5,39 (2,96, 7,13) 
+- - -- - - YERVOY (olaylar: 171/202), ortanca ve %95 GA: 2,79 (2,76, 3,02) 
+Nivolumab+YERVOY’a karşı YERVOY – risk oranı ve %95 GA: 0,42 (0,33, 0,53) 
+Nivolumab’a karşı YERVOY – risk oranı ve %95 GA: 0,54 (0,43, 0,68) 
+Nivolumab+ YERVOY’a karşı nivolumab – risk oranı ve %95 GA: 0,77 (0,61, 0,98) 
+ 
+               
+  
+Risk altındaki gönüllülerin sayısı Progresyonsuz sağkalım olasılığı  39 
+ PD-L1 ekspresyonu ≥ %5 
+ 
+ 
+Progresyonsuz sağkalım (aylar) 
+ 
+Nivolumab + YERVOY  
+ 68 45 37 35 30 29 29 27 24 23 20 19 17 15 13 8 1 - 
+Nivolumab  
+ 80 52 41 36 33 29 26 24 24 23 21 21 20 18 14 7 0 - 
+YERVOY  
+ 75 21 14 10 10 9 5 5 5 5 5 5 5 5 5 4 1 - 
+ 
+- - -*- - - - Nivolumab+YERVOY (olaylar: 36/68), ortanca ve %95 GA: 22.11 (9,72, 82,07) 
+──∆─── Nivolumab (olaylar: 46/80), ortanca ve %95 GA: 22,34 (9,46, 39,13.) 
+- - -- - - YERVOY (olaylar: 60/75), ortanca ve %95 GA: 3,94 (2,79, 4,21) 
+Nivolumab+ YERVOY’a karşı YERVOY risk oranı ve %95 GA: 0,38 (0,25, 0,58) 
+Nivolumab’a karşı YERVOY – risk oranı ve %95 GA: 0,43 (0,29, 0,64) 
+Nivolumab+ YERVOY’a karşı nivolumab – risk oranı ve %95 GA:0,89 (0,58, 1,35) 
+ 
+  
+Risk altındaki gönüllülerin sayısı Progresyonsuz sağkalım olasılığı 40 
+ Şekil 4: PD-L1 ekspresyonuna göre progresyonsuz sağkalım: %1 kesme (CA209067) 
+PD-L1 ekspresyonu <%1  
+Progresyonsuz Sağkalım (Aylar) 
+Risk Altındaki Hasta Sayısı  
+Nivolumab + YERVOY  
+123  65  51  46  41  38  36  33   31 29 29 28 25 24 21 13 0  
+Nivolumab                   
+117 44 35 33 30 26 24 21 19 17 15 11 11 9 9 5 0 - 
+YERVOY                   
+113 20 12 9 9 7 5 5 3 3 3 2 1 0 0 0 0 - 
+ - - -*- - - - Nivolumab+YERVOY (olaylar: 76/123), ortanca ve %95 GA: 11,17 (6,93, 22,18) 
+──∆─── Nivolumab (olaylar: 85/117), ortanca ve %95 GA: 2,83 (2,76, 5,62) 
+- - -- - - YERVOY (olaylar: 94/113), ortanca ve %95 GA: 2,73 (2,66, 2,83) 
+Nivolumab+ YERVOY’a karşı YERVOY risk oranı ve %95 GA: 0,39 (0,28, 0,53) 
+Nivolumab’a karşı YERVOY – risk oranı ve %95 GA: 0,59 (0,44, 0,79) 
+Nivolumab+ YERVOY’a karşı nivolumab – risk oranı ve %95 GA:0,66 (0,48, 0,90) 
+ 
+  
+Progresyonsuz Sağkalım 
+Olasılığı 41 
+ PD-L1 ekspresyonu ≥%1 
+ 
+Progresyonsuz Sağkalım (Aylar) 
+Risk Altındaki Hasta Sayısı  
+155 93 73 67 60 55 53 50 47 46 41 40 37 34 31 17 1 - 
+Nivolumab  
+171 99 79 69 63 54 51 49 47 46 44 43 40 38 32 14 0 - 
+YERVOY  
+164 46 28 20 19 18 14 13 13 12 9 9 9 9 9 7 1 - 
+ 
+- - -*- - - - Nivolumab+YERVOY (olaylar: 90/155), ortanca ve %95 GA: 16,13 (8,90, 45,08) 
+──∆─── Nivolumab (olaylar: 102/171), ortanca ve %95 GA: 16,20 (8,11, 27,66) 
+- - -- - - YERVOY (olaylar: 137/164), ortanca ve %95 GA: 3,48 (2,83, 4,17) 
+Nivolumab+ YERVOY’a karşı YERVOY risk oranı ve %95 GA: 0,42 (0,32, 0,55) 
+Nivolumab’a karşı YERVOY – risk oranı ve %95 GA: 0,45 (0,35, 0,59) 
+Nivolumab+ YERVOY’a karşı nivolumab – risk oranı ve %95 GA: 0,92 (0,69, 1,22) 
+ 
+Nihai (birincil) OS analizi tüm hastalar için en az 28 aylık takip süresi olduğunda meydana gelmiştir. 
+28 ayda, YERVOY grubundaki 19,98 aya (HR=0,63, %98 GA: 0,48, 0,81; p-değeri: <0,0001) karşı 
+nivolumab grubunda medyan OS’ye ulaşılmamıştır. YERVOY grubuyla (HR=0,55; %98 GA: 0,42, 
+0,72; p-değeri: <0,0001) kıyaslandığında nivolumab ile kombinasyon halindeki YERVOY grubunda 
+medyan OS’ye ulaşılmamıştır. 
+ 
+En az 90 aylık takip döneminde yapılan ek tanımlayıcı analizin OS sonuçları orijinal primer analizle 
+tutarlı sonuçlar göstermektedir. Bu takip dönemi analizinin OS sonuçları Şekil 5 (tümü randomize), 
+Şekil 6 ve Şekil 7’de (tümör PD-L1’de %5 ve %1 kesme) gösterilmektedir. 
+ 
+OS analizi alınan sonraki tedavileri de hesaplayacak şekilde ayarlanmamıştır. Sırasıyla kombinasyon, 
+nivolumab monoterapisi ve YERVOY kollarındaki hastaların %36, %49,1 ve %66,3’ü daha sonra 
+sistemik tedavi görmüştür. Sırasıyla kombinasyon, nivolumab monoterapisi ve YERVOY 
+kollarındaki hastaların %19,1, %34,2 ve %48,3’ü daha sonra immünoterapi (anti-PD1 tedavisi, anti-
+CTLA-4 antikoru veya başka bir immünoterapi dahil) almıştır. 
+ 
+  
+Nivolumab + YERVOY Progresyonsuz Sağkalım 
+Olasılığı 42 
+ Şekil 5  Genel Sağkalım (CA209067) – Minimum 90 aylık takip 
+ 
+Genel Sağkalım (aylar) 
+ 
+Risk Altındaki Hasta Sayısı 
+Nivolumab+YERVOY
+314 265 227 210 199 187 179 169 163 158 156 153 147 144 141 129 7 - 
+Nivolumab  
+316 266 231 201 181 171 158 145 141 137 134 130 126 123 120 107 4 - 
+YERVOY  
+315 253 203 163 135 113 100 94 87 81 75 68 64 63 63 57 5 - 
+ 
+ 
+- - -*- - - -  Nivolumab+YERVOY (olaylar: 162/314), ortanca ve % 95 GA: 72,08. (38,18, Belirlenemedi) 
+    OS oranı ve %95 GA: 12 ayda %73 (68, 78), 24 ayda: %64 (59, 69), 36 ayda: %58 (52, 63), 60 ayda: %52 (46, 57) ve  
+   90 ayda: %48 (42,53) 
+──Δ───  Nivolumab (olaylar: 182/316), ortanca ve %95 GA: 36,93 ay (28,25, 58,71) 
+    OS oranı ve %95 GA: 12 ayda %74 (69, 79), 24 ayda: %59 (53, 64), 36 ayda: %52 (46, 57), 60 ayda: %44 (39, 50) ve  
+   90 ayda: %42 (36.47) 
+- - -- - -  YERVOY (olaylar: 230/315), ortanca ve % 95 GA: 19,94 ay (16,85, 24,61) 
+    OS oranı ve %95 GA: 12 ayda %67 (61, 72), 24 ayda: %45 (39, 50), 36 ayda: %34 (29, 39), 60 ayda: %26 (22, 31) ve  
+   90 ayda: %22 (18,27) 
+ 
+Nivolumab+ YERVOY’a karşı YERVOY – HR (%95 GA): 0,53 (0,44, 0,65);  
+Nivolumab’a karşı YERVOY – HR (%95 GA): 0.63 (0,52, 0,77);  
+Nivolumab+ YERVOY’a karşı nivolumab – HR (%95 GA): 0,84 (0,68, 1,04) 
+Genel Sağkalım Olasılığı 43 
+ Şekil 6: PD-L1 ekspresyonuna göre genel sağkalım: %5 kesme (CA209067) – Minimum 90 
+aylık takip 
+ 
+PD-L1 ekspresyonu <%5 
+  
+Genel Sağkalım (aylar) 
+Risk Altındaki Hasta Sayısı 
+Nivolumab + YERVOY 
+210  178  146   139  130  123  116  109  106  104  102  100  98  96 96 88 6 - 
+Nivolumab 
+208  169  144  123  112  108  102  92  90  88  86  84  83  80 79 70 3 - 
+YERVOY  
+202  158  124  99  80  69  59  57  55  50  46  41  39  38 38 33 0 - 
+ 
+- - -*- - - - Nivolumab+YERVOY (olaylar: 109/210), ortanca ve % 95 GA: 65,94 (32,72, Belirlenemedi) 
+──Δ─── Nivolumab (olaylar: 121/208), ortanca ve % 95 GA: 35,94 ay (23,06, 60,91) 
+- - --- - - YERVOY (olaylar: 157/202), ortanca ve % 95 GA: 18,40 ay (13,70, 22,51) 
+ 
+Nivolumab+ YERVOY’a karşı YERVOY – HR (%95 GA): 0,51 (0,40, 0,66) 
+Nivolumab’a karşı YERVOY – HR (%95 GA): 0,62 (0,49, 0,79) 
+Nivolumab+ YERVOY’a karşı nivolumab – HR (%95 GA): 0,83 (0,64, 1,07) 
+ 
+  
+Genel Sağkalım Olasılığı 44 
+ PD-L1 ekspresyonu ≥ %5 
+ 
+Genel Sağkalım (aylar) 
+ 
+Risk Altındaki Hasta Sayısı 
+Nivolumab+YERVOY
+68 56 52 45 45 43 43 41 40 37 37 36 33 32 30 27 1 - 
+Nivolumab  
+80 76 69 61 57 53 47 44 43 41 41 40 38 38 36 33 1 - 
+YERVOY  
+75 66 60 46 40 34 32 29 25 24 22 20 19 19 19 18 4 - 
+ 
+- - -*- - - -Nivolumab+YERVOY (olaylar: 33/68, ortanca ve % 95 GA: Belirlenemedi (39,06, Belirlenemedi) 
+──Δ───Nivolumab (olaylar: 41/80), ortanca ve %95 GA: 64,28 (33,64, Belirlenemedi) 
+- - --- - -YERVOY (olaylar: 51/75), ortanca ve %95 GA: 28,88 ay (18,10, 44,16) 
+ 
+Nivolumab+ YERVOY’a karşı YERVOY – HR (%95 GA): 0,61 (0,39, 0,94) 
+Nivolumab’a karşı YERVOY – HR (%95 GA): 0,61 (0,41, 0,93) 
+Nivolumab+ YERVOY’a karşı nivolumab – HR (%95 GA): 0,99 (0,63, 1,57) 
+ 
+  
+Genel Sağkalım Olasılığı 45 
+ Şekil 7: PD-L1 ekspresyonuna göre genel sağkalım: %1 kesme (CA209067) – Minimum 90 aylık 
+takip 
+ 
+PD-L1 ekspresyonu <%1
+ 
+Genel Sağkalım (aylar) 
+Risk Altındaki Hasta Sayısı 
+Nivolumab + YERVOY 
+123 102 82 79 74 70 65 63 62 62 62 60 59 57 56 50 5 - 
+Nivolumab  
+117 86 73 62 57 53 49 43 43 42 41 41 40 38 37 33 2 - 
+YERVOY  
+113 87 71 57 44 36 33 32 31 28 27 22 22 22 22 18 0 - 
+ 
+- - -*- - - - Nivolumab+YERVOY (olaylar: 66/123), ortanca ve % 95 GA: 61,44 (26,45, Belirlenemedi) 
+──Δ─── Nivolumab (olaylar: 76/117), ortanca ve %95 GA: 23,46 ay (13,01, 36,53) 
+- - --- - - YERVOY (olaylar: 87/113), ortanca ve %95 GA: 18,56 ay (13,67, 23,20) 
+ 
+Nivolumab+ YERVOY’a karşı YERVOY – HR (%95 GA): 0,55 (0,40, 0,76) 
+Nivolumab’a karşı YERVOY – HR (%95 GA): 0,77 (0,57, 1,05) 
+Nivolumab+ YERVOY’a karşı nivolumab – HR (%95 GA): 0,71 (0,51, 0,99) 
+ 
+Genel Sağkalım Olasılığı 46 
+ PD-L1 ekspresyonu ≥ %1 
+ 
+Genel Sağkalım (aylar) 
+Risk Altındaki Hasta Sayısı 
+Nivolumab + YERVOY 
+155 132 116 105 101 96 94 87 84 79 79 77 74 72 70 65 2 - 
+Nivolumab  
+171 159 140 122 112 108 100 93 90 87 86 83 81 80 78 70 2 - 
+YERVOY  
+164 137 113 88 76 67 58 54 49 46 41 39 36 35 35 33 4 - 
+ 
+- - -*- - - - Nivolumab+YERVOY (olaylar: 76/155), ortanca ve % 95 GA: 82,30 (39,06, Belirlenemedi) 
+──Δ─── Nivolumab (olaylar: 86/171), ortanca ve %95 GA: 85,09 (39, Belirlenemedi) 
+- - --- - - YERVOY (olaylar: 121/164), ortanca ve %95 GA: 21,49 ay (16,85, 29,08) 
+ 
+Nivolumab+ YERVOY’a karşı YERVOY – HR (%95 GA): 0,52 (0,39, 0,70) 
+Nivolumab’a karşı YERVOY – HR (%95 GA): 0,52 (0,39, 0,69) 
+Nivolumab+ YERVOY’a karşı nivolumab – HR (%95 GA): 1,01 (0,74, 1,37) 
+ 
+Objektif Yanıt Oranı (ORR) analizi için minimum takip süresi 90 aydı. Yanıtlar Tablo 9’da 
+özetlenmiştir. 
+ 
+  
+Genel Sağkalım Olasılığı 47 
+ Tablo 9: Objektif yanıt (CA209067) 
+ nivolumab + 
+YERVOY 
+(n=314)  nivolumab 
+(n=316)  YERVOY 
+(n=315)  
+Objektif yanıt 183 (%58) 142 (%45)  60 (%19)  
+(%95 GA)  (52,6, 63,8) (39,4 50,6) (14,9, 23,8)  
+Risk oranı (YERVOY’a  karşı) 6,35 3,5  
+(%95 GA) (4,38, 9,22) (2,49 - 5,16)   
+Tam yanıt (CR) 71 (%23) 59 (%19) 19 (%6) 
+Kısmi yanıt (PR) 112 (%36) 83 (%26) 41 (%13) 
+Stabil hastalık (SD) 38 (%12)  29 (%9) 69 (%22) 
+Yanıt süresi    
+Ortanca (aralık), aylar Belirlenemedi 
+ (69,1-
+Belirlenemedi ) 90,8 
+(45,7-
+Belirlenemedi ) 19,3 (8,8 – 47,4) 
+Oran ≥12 aylık sürede %68 %73 %44 
+Oran ≥24 aylık sürede %58 %63 %30 
+Tümör PD-L1 ekspresyonuna göre ORR (%95 GA)  
+<%5 %56 (48,7, 62,5) 
+n=210  %43 (36, 49,8) 
+n=208  %18 (12,8, 23,8) 
+n=202  
+≥%5 %72 (59,9, 82,3) 
+n=68  %59 (47,2, 69,6) 
+n=80  %21 (12,7, 32,3) 
+n=75  
+<%1 %54 (44,4, 62,7) 
+n=123  %36 (27,2, 45,3) 
+n=117  %18 (11,2, 26) 
+n=113  
+≥%1 %65 (56,4, 72) 
+n=155  %55 (47,2, 62,6) 
+n=171 %20 (13,7, 26,4) 
+n=164  
+ 
+Nivolumab içeren her iki kol, tek başına YERVOY ile kıyaslandığında anlamlı PFS ve OS faydası 
+ile daha yüksek ORR sergilemiştir. 18 aylık takip süresinde gözlemlenen PFS sonuçları ile 28 aylık 
+takipte ORR ve OS sonuçları başlangıç ECOG performans durumu, BRAF durumu, M evresi, yaş, 
+beyin metastaz öyküsü ve başlangıç LDH düzeyi dahil hasta alt gruplarında tutarlı şekilde 
+gösterilmiştir. Bu gözlem minimum 90 aylık takipte OS sonuçlarında korunmuştur. 
+ 
+28 aylık takip süresinden sonra advers reaksiyon nedeniyle kombinasyon tedavisi kesilen 131 hasta 
+arasında ORR %71 olup (93/131), %20’si (26/131) tam yanıtı sağlamış ve ortanca OS’ye 
+ulaşılamamıştır.  
+ 
+Nivolumab içeren her iki kol, PD-L1 ekspresyon seviyelerine bakılmaksızın YERVOY’dan daha 
+yüksek objektif yanıt oranları sergilemiştir. ORR’ler, 90 aylık takip sonrasında tümör PD-L1 
+ekspresyon seviyeleri genelinde (Tablo 9) nivolumab monoterapisine göre nivolumab ve YERVOY 
+kombinasyonu için daha yüksek olup, tam yanıtın en iyi genel yanıtı iyileşen sağkalım oranıyla 
+ilişkilendirilmiştir. 
+ 
+90 aylık takip sonrasında, tümör PD-L1 ekspresyon seviyesi ≥%5 olan hastalar için ortanca yanıt 
+sürelerine kombinasyon kolunda 78,19 ay (aralık: 18,07 – Belirlenemedi), nivolumab monoterapisi 
+kolunda 77,21 ay (aralık: 26,25 – Belirlenemedi) ve YERVOY kolunda 31,28 aydı (aralık: 6,08 – 
+Belirlenemedi). Tümör PD-L1 ekspresyonu <%5’te, ortanca yanıt sürelerine kombinasyon kolunda 
+ulaşılmamış (aralık: 61,93 – Belirlenemedi), nivolumab monoterapisi kolunda 90,84 (aralık: 50,43 – 
+Belirlenemedi) ve YERVOY monoterapisi kolunda 19,25 aydı (aralık: 5,32 – 47,44). 
+ 
+Tümör yanıtı ile PFS ve OS'nin ilgili sonlanım noktalarını değerlendirirken PD-L1 ekspresyonu için 
+net bir kesme değeri güvenli şekilde belirlenememektedir. Keşifsel çok değişkenli analizlere ait 
+sonuçlar, sağkalım sonucuna katkıda bulunabilecek hasta ve tümör karakteristiklerini (ECOG 48 
+ performans durumu, M evresi, başlangıçtaki LDH, BRAF mutasyon durumu, PD-L1 durumu ve 
+cinsiyet) tanımlamıştır. 
+ 
+BRAF durumuna göre etkililik:  
+90 aylık takip süresinden sonra, nivolumab ile kombinasyon halinde YERVOY koluna randomize 
+edilen BRAF [V600] mutasyonu pozitif ve BRAF negatif tip hastalar için ortanca PFS sırasıyla 16,76 
+ay (%95 GA: 8,28-32) ve 11,17 ay (%95 GA: 7-19,32) iken, nivolumab monoterapisi kolundaki 
+hastalar için ortanca PFS sırasıyla 5,62 ay (%95 GA: 2,79- 9,46) ve 8,18 ay (%95 GA: 5,13-19,55) 
+olmuştur. YERVOY monoterapisine randomize edilen BRAF [V600] mutasyonu pozitif ve BRAF 
+negatif tip hastalarda ortanca PFS sırasıyla 3,09 ay (%95 GA: 2,79; 5,19) ve 2,83 aydı (%95 GA: 
+2,76; 3,06) olmuştur. 
+ 
+90 aylık takip süresinden sonra, nivolumab ile kombinasyon halinde YERVOY koluna randomize 
+edilen BRAF [V600] mutasyonu pozitif ve BRAF negatif tip hastalar için ortanca ORR %67 (%95 
+GA: 57, 75,9; n = 103) ve %54 (%95 GA: 47,1, 60,9; n = 211) iken, nivolumab monoterapisi 
+kolundaki hastalar için ortanca ORR sırasıyla %37,87 (%95 GA: 28,2, 48,1; n = 98) ve %48,2 (%95 
+GA: 41.4, 55,0; n = 218) olmuştur. YERVOY monoterapisine randomize edilen BRAF [V600] 
+mutasyonu pozitif ve BRAF negatif tip hastalarda ortanca ORR sırasıyla %23 (%95 CI: 15,2, 32,5; n 
+= 100) ve %17,2 (%95 GA: 12,4, 22,9; n = 215). 
+ 
+90 aylık takip sonrasında, BRAF[V600] mutasyonu pozitif hastalarda, kombinasyon kolunda ortanca 
+OS’ye ulaşılmamıştı ve nivolumab monoterapisi kolunda 45,5 aydı. YERVOY tedavi kolundaki 
+BRAF[V600] mutasyonu pozitif hastalarda ortanca OS 24,6 aydı. BRAF negatif tip hastalarda 
+ortanca OS kombinasyon kolunda 39,06 ay, nivolumab monoterapisi kolunda 34,37 ay ve YERVOY 
+monoterapisi kolunda 18,5 aydı. YERVOY ile kombinasyon halinde nivolumaba karşı nivolumab 
+monoterapisi için OS HR değerleri, BRAF[V600] mutasyonu pozitif hastalar için 0,66 (%95 GA: 
+0,44, 0,98) ve BRAF mutasyonu negatif hastalar için 0,95 (%95 GA: 0,74, 1,22) olarak belirlenmiştir. 
+ 
+Nivolumab ile kombinasyon halinde YERVOY ve YERVOY’un randomize faz 2 çalışması (CA209069) 
+Çalışma CA209069, ileri evre (rezeke edilemeyen veya metastatik) melonomu olan, CA209067 
+çalışmasının ve BRAF-negatif tip melanomu olan hastalardaki (hastaların %77’si) primer analize 
+benzer dahil etme kriterlerine sahip 142 hastada nivolumab ve YERVOY kombinasyonunu tek başına 
+YERVOY ile karşılaştıran randomize, çift kör, Faz 2 çalışmasıydı. Araştırmacı tarafından 
+değerlendirilen ORR kombinasyon kolunda %61 (%95 GA: 48,9, 72,4) iken YERVOY kolunda 
+%11’di (%95 GA: 3, 25,4). Tahmini 2 yıllık ve 3 yıllık OS oranları kombinasyon (n=73) için sırasıyla 
+%68 (%95 GA: 56, 78) ve %61 (%95 GA: 49, 71) ve YERVOY (n = 37) için sırasıyla %53 (%95 
+GA: 36, 68) ve %44’tü (%95 GA: 28, 60). 
+ 
+Renal Hücreli Karsinom (RHK) 
+ 
+Nivolumab ile kombinasyon halinde YERVOY tedavisinin Sunitinib ile karşılaştırıldığı randomize 
+faz 3 çalışma (CA209214)  
+İleri evre/metastatik RHK tedavisi için nivolumab 3 mg/kg ile kombinasyon halinde YERVOY 1 
+mg/kg’nin güvenliliği ve etkililiği faz 3, randomize, açık etiketli bir çalışmada (CA209214) 
+değerlendirilmiştir. Çalışmaya, daha önce tedavi edilmemiş, berrak hücreli komponenti olan ileri evre 
+veya metastatik renal hücreli karsinom hastaları (18 yaş ve üzeri) dahil edilmiştir. Primer etkililik 
+popülasyonu, Uluslararası Metastatik RHK Veri Tabanı Konsorsiyumu (IMDC) kriterlerine göre 6 
+prognostik risk faktöründen en az 1 veya daha fazla olan orta/kötü riskli hastaları içermiştir (ilk renal 
+hücreli karsinom teşhisi zamanından randomizasyona kadar bir yıldan az, Karnofsky performans 
+durumu <%80, normal alt sınırdan daha düşük hemoglobin, 10 mg/dL'den daha yüksek düzeltilmiş 
+kalsiyum, normal üst sınırdan daha yüksek trombosit sayımı ve normal üst sınırdan daha yüksek 
+mutlak nötrofil sayımı). Hastalar bu çalışmaya tümör PD-L1 durumlarından bağımsız olarak dahil 49 
+ edilmiştir. Karnofsky performans durumunun <%70 olduğu ve herhangi bir geçmiş veya mevcut 
+beyin metastazı olan, aktif otoimmün hastalığa sahip veya sistemik immünosüpresyon gerektiren tıbbi 
+koşulları olan hastalar çalışmaya dahil edilmemiştir. Hastalar IMDC prognostik skoru ve bölgeye 
+göre katmanlandırılmıştır.  
+ 
+Çalışmaya toplam 1096 hasta randomize edilmiş olup, bunlardan 847'si orta/kötü riskli RHK'ye 
+sahipti ve 4 doza kadar her 3 haftada bir 60 dakika boyunca intravenöz yoldan uygulanan nivolumab 
+ile kombinasyon halinde 30 dakika boyunca intravenöz yoldan uygulanan 1 mg/kg YERVOY 
+(n=425) ve bunu takiben 2 haftada bir 3 mg/kg nivolumab monoterapisi almış veya her kürde 4 hafta 
+boyunca oral yoldan günde 50 mg sunitinib (n=422) almış ve bunu 2 haftalık tedavisiz dönem 
+izlemiştir. Tedaviye klinik yarar gözlendiği sürece veya hasta tedaviyi artık tolere edemeyene dek 
+devam edilmiştir. İlk tümör değerlendirmesi randomizasyondan 12 hafta sonra yapılmış ve 
+değerlendirmeler, ilk yıl için 6 haftada bir ve daha sonra progresyona veya tedavinin kesilmesine 
+kadar, hangisi sonra meydana gelirse, her 12 haftada bir devam etmiştir. Araştırmacı tarafından 
+değerlendirilen RECIST, versiyon 1.1’de tanımlı ilk progresyondan sonra tedaviye, araştırmacı 
+tarafından belirlenen şekilde hastanın klinik yarar elde etmesi ve çalışma ilacını tolere etmesi 
+durumunda izin verilmiştir. Primer sonlanım noktaları, orta/kötü riskli hastalarda Körlenmiş 
+Bağımsız Merkezi İnceleme (BICR) ile belirlenen OS, ORR ve PFS idi. 
+ 
+Başlangıç karakteristikleri iki grup arasında genellikle dengeli olmuştur. Ortanca yaş 61 (aralık: 21-
+85) olup, %38’i ≥ 65 yaşında ve %8’i ≥ 75 yaşındaydı. Hastaların çoğunluğu erkek (%73) ve beyazdı 
+(%87) ve hastaların %31 ve %69’unda başlangıç KPS değeri sırasıyla %70 ila 80 ve %90 ila 100 
+olarak belirlenmiştir. İlk tanıdan randomizasyona kadar geçen ortanca süre hem nivolumab 3 mg/kg 
+ile kombinasyon halindeki YERVOY 1 mg/kg hem de sunitinib gruplarında 0,4 yıldı. Ortanca tedavi 
+süresi nivolumab ve YERVOY ile tedavi edilen hastalarda 7,9 ay (aralık: 1 gün-21,4+ ay) ve sunitinib 
+ile tedavi edilen hastalarda 7,8 ay (aralık: 1 gün-20,2+ ay) olmuştur. Nivolumab ile YERVOY, 
+hastaların %29’unda progresyondan sonra da devam etmiştir.  
+ 
+Orta/kötü riskli hastalardan elde edilen etkililik sonuçları Tablo 10’da (minimum 17,5 aylık takip ve 
+minimum 60 aylık takiple primer analiz) ve Şekil 8’de (minimum 60 aylık takip) gösterilmektedir. 
+ 
+Minimum 60 aylık takiple yapılan tanımlayıcı analizden elde edilen OS sonuçları, orijinal primer 
+analizden elde edilen sonuçlarla uyumlu idi. 
+ 50 
+ Tablo 10: Orta/kötü riskli hastalarda etkililik sonuçları (CA209214) 
+ 
+ nivolumab + YERVOY 
+                                                       (n = 425) sunitinib 
+(n = 422) 
+     Primer analiz  
+      Minimum takip: 17,5 ay  
+Genel sağkalım  
+Olaylar  140 (%33)  188 (%45)  
+         Risk oranıa  0,63  
+         %99,8 GA  (0,44 - 0,89)  
+         P değerib, c  < 0,0001  
+Medyan (%95 GA)  NE (28,2 -NE)  25,9 (22,1 - NE)  
+Oran (%95 GA)  
+         6. ayda  89,5 (86,1 - 92,1)  86,2 (82,4 - 89,1)  
+        12. ayda  80,1 (75,9 -83,6)  72,1 (67,4 -76,2)  
+Progresyonsuz sağkalım  
+Olaylar  228 (%53,6)  228 (%54)  
+        Risk oranıa  0,82  
+        %99,1 GA  (0,64 -1,05)  
+        P değerib,h  0,0331  
+Medyan (%95 GA)  11,6 (8,71 -15,51)  8,4 (7,03 -10,81)  
+Doğrulanmış objektif 
+yanıt (BICR)  177 (%41,6)  112 (%26,5)  
+        (%95 GA)  (36,9 -46,5)  (22,4 -31)  
+ORR farkı (%95 GA)d  16 (9,8- 22,2)  
+        P değerie,f  < 0,0001  
+Tam yanıt (CR)  40 (%9,4)  5 (%1,2)  
+Kısmi yanıt (PR)  137 (%32,2)  107 (%25,4)  
+Stabil hastalık (SD)  133 (%31,3)  188 (%44,5)  
+Medyan yanıt süresig  
+Ay (aralık)  NE (1,4+-25,5+)  18,17 (1,3+-23,6+)  
+Yanıta kadar geçen medyan süre 
+Ay (aralık)  2,8 (0,9 -11,3)  3 (0,6 -15)  
+     Güncellenmiş analiz*  
+     Minimum takip: 60 ay  
+Genel sağkalım  
+Olaylar  242 (%57)  282 (%67)  
+         Risk oranıa  0,68  
+         %95 GA  (0,58 - 0,81)  
+Medyan (%95 GA)  46,95 (35,35 -57,43)  26,64 (22,08 - 33,54)  
+Oran (%95 GA)  
+         24. ayda  66,3 (61,5 -70,6)  52,4 (47,4 -57,1)  
+        36. ayda 54,6 (49,7-59,3) 43,7 (38,7-48,5) 
+        48. ayda 49,9 (44,9-54,6) 35,8 (31,1-40,5) 
+        60. ayda 43 (38,1-47,7) 31,3 (26,8-35,9) 
+Progresyonsuz sağkalım  
+Olaylar  245 (%57,6)  253 (%60)  
+        Risk oranıa  0,73  
+        %95 GA  (0,61 -0,87)  
+Medyan (%95 GA)  11,6 (8,44 -16,63)  8,3 (7,03 -10,41)  51 
+   
+Doğrulanmış objektif 
+yanıt (BICR)  179 (%42,1)  113 (%26,8)  
+        (%95 GA)  (37,4 -47)  (22,6 -31,3)  
+ORR farkı (%95 GA)d  16,2 (10- 22,5)  
+Tam yanıt (CR)  48 (%11,3)  9 (%2,1)  
+Kısmi yanıt (PR)  131 (%30,8)  104 (%24,6)  
+Stabil hastalık (SD)  131 (%30,8)  187 (%44,3)  
+ 
+Medyan yanıt süresig  
+Ay (aralık)  NE (50,89-NE)  19,38 (15,38-25,10)  
+ 
+Yanıta kadar geçen medyan süre 
+Ay (aralık)  2,8 (0,9 -35)  3,1 (0,6 -23,6)  
+a Basamaklandırılmış orantısal risk modeline dayanır.  
+b Basamaklandırılmış log-sıra testine dayanır.  
+c İstatistiksel anlamlılığa ulaşmak için p değeri alfa 0,002 ile karşılaştırılmıştır.  
+d Basamağa göre ayarlanmış fark.  
+e Basamaklandırılmış DerSimonian-Laird testine dayanır.  
+f İstatistiksel anlamlılığa ulaşmak için p değeri alfa 0,001 ile karşılaştırılmıştır.  
+g Kaplan-Meier yöntemi kullanılarak hesaplanmıştır.  
+h İstatistiksel anlamlılığa ulaşmak için p değeri alfa 0,009 ile karşılaştırılmıştır.   
+“+gizlenmiş gözlemi ifade eder.  
+NE = hesaplanamaz 
+*26 Şubat 2021 veri kesim tarihine dayalı tanımlayıcı analiz  
+ 
+Şekil 8: Orta/kötü riskli hastalarda OS’ye ilişkin Kaplan-Meier eğrileri (CA209214) -Minimum 
+60 aylık takip 
+  
+                                                                     Genel Sağkalım (Ay) 
+Risk Altındaki Hasta Sayısı  
+Nivolumab + YERVOY  
+425  372  332  306  270  241  220  207  196  181  163  79 2  0 
+Sunitinib  
+422 353 291  237  206  184 169  151  137  125  112  58  3 0 
+ 
+──Δ─── Nivolumab + YERVOY (olaylar: 166/425), ortanca ve %95 GA: 46,95 (35,35-57,43) 
+- - --- - -  Sunitinib (olaylar: 282/422), ortanca ve %95 GA: 26,64 (22,08-33,54) 
+ 
+Sağkalım Olasılığı 
+ 52 
+ Tüm hastalar minimum 24 ay takip edildiğinde güncellenmiş bir tanımlayıcı OS analizi yapılmıştır . 
+Bu analiz sırasında, kombinasyon kolunda 166/425 olay ve sunitinib kolunda 209/422 olay ile risk 
+oranı 0,66 (%99,8 GA 0,48-0,91) idi. Orta/kötü riskli hastalarda, OS oranı tümör PD-L1 
+ekspresyonundan bağımsız şekilde sunitinib koluna kıyasla nivolumab ile kombinasyon halinde 
+YERVOY için OS yararı gözlenmiştir. Tümör PD-L1 ekspresyonu ≥%1 olan hastalarda, nivolumab 
+ile kombinasyon halinde YERVOY için medyan OS’ye erişilmemiş ve sunitinib için 19,61 ay 
+olmuştur (HR=0,52; %95 GA: 0,34-0,78). Tümör PD L1 ekspresyonu <%1 olan hastalarda, medyan 
+OS nivolumab ile kombinasyon halinde YERVOY için 34,7 ay iken sunitinib kolunda 32,2 ay 
+olmuştur (HR=0,70; %95 GA: 0,54-0,92). 
+ 
+CA209214 çalışmasında ayrıca IMDC kriterlerine göre iyi riskli 249 hasta nivolumab artı YERVOY 
+(n = 125) veya sunitinib (n = 124) kollarına randomize edilmiştir. Bu hastalar primer etkililik 
+popülasyonunun bir parçası olarak değerlendirilmemiştir. 24 aylık takipte sunitinibe kıyasla 
+nivolumab artı YERVOY alan iyi riskli hastalarda OS için risk oranı 1,13 (%95 GA: 0,64-1,99; p = 
+0,6710) idi. 60 aylık takipte OS için HR 0,94 idi (%95 GA: 0,65-1,37).  
+ 
+Birinci basamak RHK’de berrak hücreli olmayan histolojiye sahip hastalarda nivolumab ile 
+kombinasyon halinde YERVOY’un kullanımına ilişkin veri mevcut değildir.  
+ 
+75 yaşında ve daha büyük hastalar CA209214'teki tüm orta/kötü riskli hastaların %8'ini temsil 
+etmiştir ve nivolumab ve YERVOY  kombinasyonu, minimum 17,5 aylık takiple bu alt grupta genel 
+popülasyona kıyasla OS sonuçları sayısal olarak daha az etki göstermiştir (HR 0,97, %95 GA: 0,48, 
+1,95). Bu alt grubun küçük olmasından dolayı, bu verilerden kesin bir sonuç çıkarılamamaktadır. 
+ 
+Küçük hücreli dışı akciğer kanserinin birinci basamak tedavisi 
+ 
+4 kür platin bazlı kemoterapiye karşı YERVOY’UN nivolumab ve 2 kür platin bazlı kemoterapi ile 
+kombinasyonun araştırıldığı randomize faz 3 çalışma (CA2099LA) 
+ 
+3 haftada bir nivolumab 360 mg ve 2 kür platin bazlı kemoterapi ile kombinasyon halinde 6 haftada 
+bir YERVOY 1 mg/kg’ın güvenliliği ve etkililiği, bir faz 3, randomize, açık etiketli çalışmada 
+(CA2099LA) değerlendirilmiştir. Çalışmaya histolojik olarak teyit edilmiş skuamöz olmayan veya 
+skuamöz Evre IV veya rekürren KHDAK (7 inci Uluslararası Akciğer Kanseri Çalışmaları Derneğinin 
+sınıflandırmasına göre), ECOG performans durumu 0 veya 1 olan ve daha önce hiçbir kanser tedavisi 
+görmemiş (EGFR ve ALK inhibitörleri dahil) hastalar (18 yaş ve üzeri) dahil 
+edilmiştir. Hastalar tümör PD-L1 durumlarına bakılmaksızın çalışmaya kaydedilmiştir. 
+ 
+EGFR mutasyonları veya ALK translokasyonları, aktif (tedavi edilmemiş) beyin metastazları, 
+karsinomatöz menenjit, aktif otoimmün hastalık veya sistemik immünosüpresyon gerektiren tıbbi 
+koşullara sahip hastalar çalışmaya dahil edilmemiştir. Tedavi edilen beyin metastazları olan 
+hastalar, kayıttan en az 2 hafta önce nörolojik olarak başlangıç seviyesine dönmüşlerse ve 
+kortikosteroidleri kesmişlerse veya günde < 10 mg prednizon eşdeğeri olan stabil veya azalan bir doz  
+alıyorsa çalışmaya alınmıştır. Randomizasyon histolojiye (skuamöze karşı skuamöz olmayan), tümör 
+PD-L1 ekspresyon düzeyine (≥ %1’e karşı < %1) ve cinsiyete (erkek ve kadın) göre 
+basamaklandırılmıştır. 
+ 
+Toplam 719 hasta, nivolumab ve platin bazlı kemoterapi ile kombinasyon halinde 
+YERVOY (n= 361) veya platin bazlı kemoterapi (n= 358) alacak şekilde randomize 
+edilmiştir. Nivolumab ve platin bazlı kemoterapi ile kombinasyon halinde YERVOY kolundaki 
+hastalar, her 3 haftada bir 30 dakika boyunca intravenöz yoldan uygulanan 360 mg nivolumab ve 2 
+kür için her 3 haftada bir uygulanan platin bazlı kemoterapi ile kombinasyon halinde 6 haftada bir 30 
+dakika boyunca intravenöz yoldan uygulanan 1 mg/kg YERVOY almıştır. Kemoterapi kolundaki 
+hastalara 4 kür boyunca her 3 haftada bir platin bazlı kemoterapi uygulanmıştır; skuamöz olmayan 
+hastaların isteğe bağlı pemetrekset idame tedavisi almasına izin verilmiştir.  
+ 53 
+ Platin bazlı kemoterapi skuamöz olmayan KHDAK için karboplatin (EAA 5 ya da 6) ve pemetrekset 
+500 mg/m2 ya da sisplatin 75 mg/m2 ve pemetrekset 500 mg/mm2 veya skuamöz KHDAK için 
+karboplatin (EAA 6) ve paklitaksel 200 mg/m2 içermiştir.  
+ 
+Tedavi, hastalık progresyonuna, kabul edilemez toksisiteye veya 24 aya kadar devam etmiştir. Hasta 
+klinik olarak stabilse ve araştırmacı tarafından klinik fayda sağladığı kabul edilirse, hastalığın 
+ilerlemesinden sonra devam eden tedaviye izin verilmiştir. YERVOY’a atfedilen bir advers olay 
+nedeniyle kombinasyon tedavisini bırakan hastaların nivolumab monoterapisine devam etmelerine 
+izin verilmiştir. Tümör değerlendirmeleri, çalışma tedavisinin ilk dozundan sonra ilk 12 ay boyunca 
+6 haftada bir, daha sonra hastalık progresyonuna veya çalışma tedavisi kesilene kadar her 12 haftada 
+bir yapılmıştır. 
+ 
+CA2099LA başlangıç özellikleri genel olarak tüm tedavi gruplarında dengelenmişti. Medyan yaş 65 
+(aralık: 26-86) olup, %51’i ≥ 65 yaşında ve %10’u ≥ 75 yaşındaydı. Hastaların çoğunluğu beyaz 
+(%89) ve erkekti (%70). Başlangıç ECOG performans durumu 0 (%31) veya 1 (%68) iken hastaların 
+%57’sinde PD-L1≥ %1 ve %37’sinde PD-L1 < %1 idi, % 31'inde skuamöz ve %69’unda skuamöz 
+olmayan histoloji vardı, %17’sinde beyin metastazı vardı ve %86’sı daha önce/halen sigara 
+içiyordu. Hiçbir hasta daha önce immünoterapi almamıştır.               
+  
+CA2099LA çalışmasının primer etkililik sonuç ölçümü OS idi. İlave etkililik sonlanım noktaları, 
+BICR ile belirlenen ORR, PFS ve yanıt süresi idi. 
+  
+Çalışma, 351 olay gözlemlendiğinde önceden belirlenmiş ara analizde tek başına platin bazlı 
+kemoterapiye kıyasla nivolumab ve platin bazlı kemoterapi ile kombinasyon halinde YERVOY 
+koluna randomize edilen hastalarda OS, PFS ve ORR’de istatistiksel olarak anlamlı bir yarar 
+olduğunu göstermiştir (son analiz için planlanan olay sayısının %87’si). OS için minimum takip 
+süresi 8,1 aydı.  
+ 
+Etkililik sonuçları Şekil 9’da (minimum 12,7 aylık takip ile güncellenmiş OS analizi) ve Tablo 11’de 
+(minimum 8,1 aylık takip ile birincil analiz) gösterilmektedir. Tüm hastalar en az 12,7 ay takip 
+edildikten sonra güncellenmiş bir etkililik analizi yapılmıştır (Bkz. Şekil 9). Bu analiz sırasında, OS 
+için risk oranı 0,66 (%95 GA: 0,55-0,80) ve PFS için risk oranı 0,68 (%95 GA: 0,57-0,82) idi.   
+ 
+ 
+Şekil 9 OS’ye ilişkin Kaplan-Meier eğrileri (CA2099LA) 
+ 
+ 
+                        Genel Sağkalım (Ay)  
+ 
+ 
+ 
+Sağkalım Olasılığı 54 
+ Risk Altındaki Hasta Sayısı 
+ 
+Nivolumab  + YERVOY  + kemoterapi      
+  361 326 292    250        227 153 86 33 10 1 0 
+Kemoterapi      
+  358 319 260    208        166 116 67 26 11 0 0 
+  
+──Δ─── Nivolumab + YERVOY + kemoterapi (olaylar: 190/361), medyan ve %95 GA: 15,64 (13,93-19,98) 
+- - -- - - Kemoterapi (olaylar: 242/358), medyan ve %95 GA: 10,91 (9,46 – 12,55) 
+ 
+Tablo 11: Etkililik sonuçları (CA2099LA)  
+ nivolumab + YERVOY + 
+kemoterapi  
+(n = 361)  kemoterapi  
+(n = 358)  
+Genel sağkalım 
+Olaylar 156 (%43,2) 195 (%54,5) 
+Risk oranı 
+(%96.71  GA)a 0,69 
+(0,55 -0,87)  
+Basamaklandırılmış log-
+sıralı p- değerib 0,0006 
+Medyan (ay) 
+(%95 GA)  14,1 
+(13,24 -16,16)  10,7 
+(9,46 -12,45)  
+6 ayda oran (%95 GA)  80,9 (76,4 -84,6)  72,3 (67,4 -76.7)  
+Progresyonsuz sağkalım 
+Olaylar  232 (%64,3)  249 (%69,6)  
+Risk oranı 
+(%97,48 GA)a 0,70 
+(0,57 -0,86)  
+Basamaklandırılmış log-sıralı 
+p-değeric 0,0001 
+Medyan (ay)d 
+(%95 GA)   6,83 
+(5,55 -7,66)  4,96 
+(4,27 -5,55)  
+6 ayda oran (%95 GA)  51,7 (46,2 -56,8)  35,9 (30,5 -41,3)     
+Genel yanıt oranıe 136 (%37,7) 90 (%25,1) 
+(%95 GA) (32,7-42,9) (20,7-30) 
+Basamaklandırılmış CMH testi 
+p-değerif 0,0003 
+Tam yanıt (CR) 7 (%1,9)  3 (%0,8)  
+Kısmi yanıt (PR) 129 (%35,7)  87 (%24,3)     
+Yanıt süresi 
+Medyan (ay)  
+(%95 GA)  d  10,02 
+(8,21 -3,01)  5,09 
+(4,34 -7) 
+               ≥ 6 ay süre ile %g 74 41 
+a Basamaklandırılmış Cox orantısal risk modeline dayanır.  
+b Bu ara analiz için p değeri tahsis edilen alfa 0,0329 ile karşılaştırılmıştır.  
+c Bu ara analiz için p değeri tahsis edilen alfa 0,0252 ile karşılaştırılmıştır.  
+d Kaplan-Meier tahmini.  
+e Tam veya kısmi yanıt verenlerin oranı, GA  Clopper ve Pearson Yöntemine dayalıdır. 
+f Bu ara analiz için p değeri tahsis edilen alfa 0,025 ile karşılaştırılmıştır.  
+g Kaplan-Meier yanıt süresi tahminlerine dayalıdır.  
+CMH = Cochran-Mantel-Haenszel 
+ 
+Kombinasyon ve kemoterapi kollarındaki hastaların sırasıyla %28,8’i ve %41,1’i sistemik tedavi 
+almıştır. Kombinasyon ve kemoterapi kollarındaki hastaların sırasıyla %3,9 ve %27,9'u daha sonra 
+immünoterapi (anti-PD-1, anti-PD-L1 ve anti-CTLA4 dahil) almıştır.  55 
+   
+CA2099LA çalışmasında, kemoterapiye göre bir tanımlayıcı alt grup analizinde, nivolumab ve 
+kemoterapi ile kombinasyon halinde YERVOY ile tedavi edilen skuamöz histolojiye 
+sahip hastalarda (HR [%95 GA] 0,65 [0,46-0,93], n = 227) ve skuamöz olmayan histolojiye sahip 
+hastalarda (HR [%95 GA] 0,72 [0,55-0,93], n = 492) OS yararı gösterilmiştir.     
+  
+Tablo 12’de, önceden tanımlanmış alt grup analizlerinde tümör PD-L1 ekspresyonuna göre OS, PFS 
+ve ORR etkililik sonuçları özetlenmektedir.  
+ 
+ Tablo 12: Tümör PD-L1 ekspresyonuna göre etkililik sonuçları (CA2099LA)       
+  nivolumab 
++ 
+ 
+YERVOY 
++ kemoterapi  kemoterapi nivolumab 
++ 
+ 
+YERVOY 
++ kemoterapi  Kemoterapi nivolumab 
++ 
+ 
+YERVOY 
++ 
+kemoterapi Kemoterapi nivolumab 
++ 
+ 
+YERVOY 
++ kemoterapi kemoterapi 
+  PD-L1 < %1   
+(n = 264)   PD-L1 ≥ %1   
+(n = 406)   PD-
+L1 ≥ 1% ile 49%     
+(n = 233)   PD-L1 ≥ %50   
+(n = 173)   
+OS risk 
+oranı 
+(%95 GA)a 0,65 
+(0,46-0,92) 0,67 
+(0,51-0,89) 0,69 
+(0,48-0,98) 0,64 
+(0,41-1,02) 
+PFS 
+risk oranı 
+(%95 GA)a 0,77 
+(0,57-1,03) 0,67 
+(0,53-0,85) 0,71 
+(0,52-0,97) 0,59 
+(0,40-0,86) 
+ORR % 31,1 20,9 41,9 27,6 37,8 24,5 48,7 30,9 
+aBasamaklandırılmamış Cox orantılı risk modeli.  
+             
+CA2099LA çalışmasına ≥ 75 yaşında toplam 70 KHDAK hastası dahil edilmiştir (nivolumab ve 
+kemoterapi ile kombinasyon halinde YERVOY kolundaki 37 hasta ve kemoterapi kolundaki 
+33 hasta). Bu çalışma alt grubunda kemoterapiye kıyasla nivolumab ve kemoterapi ile kombinasyon 
+halinde YERVOY için OS'de 1,36 HR (%95 GA: 0,74-2,52) ve PFS'de 1,12 HR (%95 GA:0,64-1,96) 
+gözlenmiştir. ORR, nivolumab ve kemoterapi ile kombinasyon halinde YERVOY kolunda %27 ve 
+kemoterapi kolunda %15,2 idi. Yetmiş beş yaş ve üzeri hastaların %43’ü, nivolumab ve kemoterapi 
+ile kombinasyon halinde YERVOY tedavisini bırakmıştır. Bu hasta popülasyonunda nivolumab ve 
+kemoterapi ile kombinasyon halinde YERVOY’un etkililik ve güvenlilik verileri sınırlıdır. 
+  
+Bir alt grup analizinde, daha önce hiç sigara içmemiş olan hastalarda kemoterapiye kıyasla nivolumab 
+ve kemoterapi ile kombinasyon halinde YERVOY alan hastalarda azalan sağkalım yararı 
+gözlenmiştir. Ancak düşük hasta sayısından dolayı bu verilerden kesin bir sonuç çıkarılamaz. 
+ 
+Malign plevral mezotelyoma  
+  
+Kemoterapiye karşı nivolumab ile kombinasyon halinde YERVOY’un araştırıldığı randomize faz 3 
+çalışma (CA209743)  
+ 
+Her 2 haftada bir 3 mg/kg nivolumab ile kombinasyon halinde 6 haftada bir 1 mg/kg YERVOY’un 
+güvenliliği ve etkililiği bir faz 3, randomize, açık etiketli çalışmada değerlendirilmiştir 
+(CA209743). Çalışma, histolojik olarak teyit edilmiş ve daha önce tedavi edilmemiş epiteloid veya 
+epiteloid olmayan histolojiye sahip malign plevral mezotelyoma bulunan, ECOG performans durumu 
+0 veya 1 olan ve ilk çalışma tedavisinden önceki 14 gün içinde palyatif radyoterapi uygulanmamış 
+hastaları (18 yaş veya üzeri) içermiştir. Hastalar, tümör PD-L1 durumlarına bakılmaksızın çalışmaya 
+kaydedilmiştir. 
+  
+Primitif peritoneal, perikardiyal, testis veya tunika vajinalis mezotelyoması, interstisyel akciğer 
+hastalığı, aktif otoimmün hastalığı, sistemik immünosüpresyon gerektiren tıbbi koşullar ve beyin 56 
+ metastazı olan hastalar (cerrahi olarak rezeke edilmedikçe veya stereotaksik radyoterapi ile tedavi 
+edilmedikçe ve çalışmaya dahil edilmeden önceki 3 ay içinde herhangi bir gelişme olmadıkça) 
+çalışmaya dahil edilmemiştir. Randomizasyon, histolojiye (epitelioide karşı sarkomatoid veya karışık 
+histoloji alt tipleri) ve cinsiyete (erkek ve kadın) göre basamaklandırılmıştır.  
+  
+Toplam 605 hasta, nivolumab ile kombinasyon halinde YERVOY (n = 303) veya kemoterapi 
+(n = 302) almak üzere randomize edilmiştir. Nivolumab ile kombinasyon halinde YERVOY 
+kolundaki hastalar, 2 yıla kadar 2 haftada bir 30 dakika boyunca intravenöz yoldan uygulanan 3mg/kg 
+nivolumab ile kombinasyon halinde 6 haftada bir 30 dakika boyunca intravenöz yoldan uygulanan 1 
+mg/kg YERVOY almıştır. Kemoterapi kolundaki hastalar 6 küre kadar kemoterapi almıştır (her kür 
+21 gündü). Kemoterapi sisplatin 75 mg/m2 ve pemetrekset 500 mg/m2 veya karboplatin 5 EAA ve 
+pemetrekset 500 mg/m2 terapilerini içermiştir.                        
+  
+Tedavi, hastalık progresyonuna, kabul edilemez toksisiteye veya 24 aya kadar devam etmiştir. Hasta 
+klinik olarak stabilse ve araştırmacı tarafından klinik fayda sağladığı kabul edilirse, hastalığın 
+ilerlemesinden sonra tedaviye izin verilmiştir. YERVOY’a atfedilen bir advers reaksiyon nedeniyle 
+kombinasyon tedavisini bırakan hastaların nivolumab monoterapisine devam etmesine izin 
+verilmiştir. Tümör değerlendirmeleri, çalışma tedavisinin ilk dozundan sonra ilk 12 ay 
+boyunca 6 haftada bir, daha sonra hastalık progresyonuna veya çalışma tedavisi kesilene kadar her 
+12 haftada bir yapılmıştır.     
+  
+CA209743 başlangıç özellikleri genel olarak tüm tedavi gruplarında dengeliydi. Medyan yaş 
+69 (aralık: 25-89) olup, hastaların %72’si ≥ 65 ve %26’sı ≥ 75 yaşındaydı. Hastaların çoğunluğu 
+beyaz (%85) ve erkekti (%77). Başlangıç ECOG performans durumu 0 (%40) veya 1 (%60), 
+hastaların %80’inde PD-L1 ≥ %1 ve hastaların %20'sinde PD-L1 < %1 idi, % 75’inde epiteloid ve 
+%25’inde epiteloid olmayan histoloji mevcuttu.              
+  
+CA209743 primer etkililik sonuç ölçümü OS idi. Kilit ikincil etkililik sonlanım noktaları, plevral 
+mezotelyoma için modifiye RECIST kriterleri kullanılarak BICR ile belirlenen PFS, ORR ve yanıt 
+süresiydi. Bu ikincil sonlanım noktaları için tanımlayıcı analizler Tablo 13’te sunulmuştur.  
+  
+Çalışma, 419 olay gözlemlendiğinde (nihai analiz için planlanan olay sayısının %89’u) önceden 
+belirlenmiş ara analizde kemoterapiye kıyasla nivolumab ile kombinasyon halinde YERVOY koluna 
+randomize edilen hastalarda OS’de istatistiksel olarak anlamlı bir iyileşme göstermiştir. OS için 
+minimum takip süresi 22 aydı.   
+ 
+Etkililik sonuçları Şekil 10 ve Tablo 13’te gösterilmektedir. 
+ 
+  57 
+ Şekil 10: OS’ye ilişkin Kaplan-Meier eğrileri (CA209743) 
+ 
+ 
+Genel sağkalım (ay) 
+ 
+Risk Altındaki Hasta Sayısı 
+Nivolumab + YERVOY 
+ 303 273 251 226 200 173 143 124 101 65 30 11 2 0 
+Kemoterapi 
+ 302 268 233 190 162 136 113 95 62 38 20 11 1 0 
+ 
+--○-- Nivolumab + YERVOY (olaylar: 200/303), medyan ve %95 GA: 18,07 (16,82-21,45) 
+---+-- Kemoterapi (olaylar: 219/302), medyan ve %95 GA: 14,09 (12,45-16,23) 
+Sağkalım Olasılığı 
+ 58 
+  
+Tablo  13: Etkililik sonuçları (CA209743)               
+  nivolumab  +  
+YERVOY  
+(n = 303)   kemoterapi  
+(n = 302)   
+Genel Sağkalım 
+Olaylar 200 (%66) 219 (%73) 
+Risk oranı 
+(%96,6 GA)a 0,74 
+(0,60 -0,91)  
+Basamaklandırılmış log-sıralı 
+p- değerib 0,002 
+Medyan (ay)c 
+(%95 GA)  18,1 
+(16,8 -21,5)  14,1 
+(12,5 -16,2)  
+24 ayda oran (%95 GA)c %41 (35,1-46,5) %27 (21,9-32,4)    
+Progresyonsuz sağkalım 
+Olaylar 218 (%72) 209 (%69) 
+Risk oranı 
+(%95 GA)  a 1,0 
+(0,82 -1,21)  
+Medyan (ay)c  
+(%95 GA)  6,8 
+(5,6-7,4) 7,2 
+(6,9-8,1) 
+      
+Genel yanıt oranı %40 %43 
+ (%95 GA) (34,1-45,4) (37,1-48,5) 
+Tam yanıt (CR) %1,7 0 
+Kısmi yanıt (PR) %38 %43 
+    
+Yanıt süresi   
+Medyan (ay)c  
+(%95 GA)  11 
+(8,1-16,5)  6,7 
+(5,3-7,1) 
+a Basamaklandırılmış Cox orantılı risk modeli.              
+b p değeri, bu ara analiz için tahsis edilen 0,0345 alfa ile karşılaştırılır.              
+c Kaplan-Meier tahmini.              
+  
+Kombinasyon ve kemoterapi kollarındaki hastaların sırasıyla %44,2 ve %40,7'si daha sonra sistemik 
+tedavi almıştır. Kombinasyon ve kemoterapi kollarındaki hastaların sırasıyla %3,3 ve %20,2’si daha 
+sonra immünoterapi (anti-PD-1, anti-PD-L1 ve anti - CTLA - 4 dahil) almıştır. 
+  
+Tablo 14’te, önceden belirlenmiş alt grup analizlerinde histolojiye göre OS, PFS ve ORR etkililik 
+sonuçları özetlenmektedir.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 59 
+ Tablo 14: Histolojiye göre etkililik sonuçları (CA209743)               
+  Epiteloid  
+(n = 471)   Epiteloid olmayan  
+(n = 134)    
+  nivolumab  
++ 
+ 
+YERVOY  
+(n = 236)   kemoterapi  
+(n = 235)   nivolumab  
++ 
+ 
+YERVOY  
+(n = 67)   kemoterapi  
+(n = 67)    
+Genel sağkalım  
+Olaylar 157 164 43 55  
+Risk oranı 
+(%95 GA)a 0,85 
+(0,68 - 1.06)  0,46 
+(0,31 -0,70)   
+Medyan (ay)  
+(%95 GA)  18,73  
+(17,05 -21,72)  16,23  
+(14,09 -19,15)  16,89  
+(11,83 -25,20)  8,80 
+(7,62 -11,76)   
+24 ayda oran (%95 
+GA) 41,2 
+(34,7 -47,6)  31,8 
+(25,7 -38,1)  39,5 
+(27,5 -51,2)  9,7 
+(3,8-18,9)   
+Progresyonsuz sağkalım  
+ 
+Risk oranı 
+(%95 GA)a 1,14 
+(0,92 - 1,41)  0,58 
+(0,38 -0,90)   
+Medyan (ay)  
+(%95 GA)  6,18 
+(5,49 -7,03)  7,66 
+(7,03 -8,31)  8,31 
+(3,84 -11,01)  5,59 
+(5,13 -7,16)   
+       
+Genel yanıt oranı %38,6 %47,2 %43,3 %26,9  
+(%95 GA)b (32,3-45,1) (40,7-53,8) (31,2-56) (16,8-39,1)  
+   
+Yanıt süresi 8,44 6,83 24,02 4,21  
+Medyan (ay)  
+(%95 GA)c (7,16-14,59) (5,59-7,13) (8,31-NA) (2,79-7,03)  
+a Basamaklandırılmamış Cox orantılı risk modeline dayalı risk oranı.              
+b Clopper ve Pearson yöntemine dayalı güven aralığı  
+c Kaplan-Meier yöntemi kullanılarak hesaplanan medyan 
+  
+Tablo 15’te, önceden belirlenmiş alt grup analizlerinde başlangıç tümör PD-L1 ekspresyonuna 
+göre OS, PFS ve ORR etkililik sonuçları özetlenmektedir.  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 60 
+ Tablo  15: Tümör  PD-L1 ekspresyonuna  göre  etkililik  sonuçları (CA209743)                
+  PD-L1 < %1   
+(n = 135)   PD-L1 ≥ %1    
+(n = 451)    
+   
+YERVOY  
++ 
+nivolumab  
+(n = 57)   kemoterapi  
+(n = 78)    
+YERVOY  
++ 
+nivolumab  
+(n = 232)   kemoterapi  
+(n = 219)    
+Genel sağkalım  
+Olaylar 40 58 150 157  
+Risk oranı 
+(%95 GA)a 0,94 
+(0,62 -1,40)  0,69 
+(0,55 -0,87)   
+Medyan (ay)  
+(%95 GA)  b 17,3 
+(10,1 -24,3)  16,5 
+(13,4 -20,5)  18,0 
+(16,8 -21,5)  13,3 
+(11,6 -15,4)   
+24 ayda oran (%95 
+GA) 38,7 
+(25,9 -51,3)  24,6 
+(15,5 -35) 40,8 
+(34,3 -47,2)  28,3 
+(22,1 -34,7)   
+   
+Progresyonsuz sağkalım  
+Risk oranı 
+(%95 GA)a 1,79 
+(1,21 -2,64)  0,81 
+(0,64 -1,01)   
+Medyan (ay)  
+(%95 GA)  b 4,1 
+(2,7-5,6) 8,3 
+(7-11,1)  7 
+(5,8-8,5) 7,1 
+(6,2-7,6)  
+           
+Genel yanıt oranı %21,1 %38,5 %43,5 %44,3  
+(%95 GA) c (11,4-33,9) (27,7-50,2) (37,1-50,2) (37,6-51,1)  
+a Basamaklandırılmamış Cox orantılı risk modeline dayalı risk oranı.              
+b Kaplan- Meier yöntemi kullanılarak hesaplanan medyan.              
+c Clopper ve Pearson yöntemine dayalı güven aralığı.              
+  
+CA209743 çalışmasına 75 yaş ve üzeri toplam 157 MPM hastası kaydedilmiştir (nivolumab ile 
+kombinasyon halinde YERVOY kolunda 78 ve kemoterapi kolunda 79). Bu çalışma alt grubunda 
+kemoterapiye kıyasla nivolumab ile kombinasyon halinde YERVOY kolunda OS’de 1,02’lik risk 
+oranı (% 95 GA: 0,70-1,48) gözlenmiştir. Nivolumab ile kombinasyon halinde YERVOY alan tüm 
+hastalara kıyasla 75 yaş ve üstü hastalarda daha yüksek ciddi advers reaksiyon ve advers 
+reaksiyonlara bağlı olarak tedaviyi bırakma oranı görülmüştür (bkz. Bölüm 4.8). Ancak, bu alt grup 
+analizinin keşifsel doğası nedeniyle, kesin sonuçlara varılamaz.  
+ 
+5.2 Farmakokinetik özellikleri 
+ 
+Genel özellikler 
+ 
+Emilim:  
+YERVOY terapötik bir protein olup, sadece intravenöz bir infüzyon olarak melanomun tedavisi için 
+uygulanır. Dolayısıyla, YERVOY için emilim ve biyoyararlanım değerlendirmesi geçerli değildir.  
+ 
+Dağılım: 
+Popülasyon farmakokinetik analizine dayanarak, YERVOY için aşağıdaki ortalama (yüzde 
+varyasyon katsayısı) parametreler elde edilmiştir: kararlı durumdaki dağılım hacmi 7,47 L (%10,1) 
+olmuştur. 3 mg/kg indüksiyon rejimi ile kararlı durumda elde edilen ortalama (yüzde varyasyon 
+katsayısı) YERVOY Cmin 19,4 mikrogram/mL (%74,6) olmuştur. 
+ 
+ 
+ 
+ 61 
+ Biyotransformasyon:  
+YERVOY’un insanlarda metabolizmasını ve metabolik yolaklarını değerlendirmek üzere klinik 
+farmakoloji çalışmaları yapılmamıştır. Terapötik proteinlerin çoğu gibi, YERVOY, karaciğer 
+sitokromu P-450 (CYP) veya diğer metabolize edici enzimlerle metabolize olmaz ve inhibisyon ve 
+indüksiyon bakımından CYP'ler veya diğer metabolize edici enzimler üzerinde herhangi bir etkiye 
+sahip olma olasılığı yoktur. Dolayısıyla, YERVOY’un anlamlı metabolizma bazlı ilaç-ilaç 
+etkileşimleri olması olasılığı yoktur.  
+ 
+YERVOY gibi monoklonal antikorlar, CYP’lerin veya taşıyıcıların aşağı regülasyonu ile CYP450 
+substratları olan ilaçların sistemik konsantrasyonlarındaki değişimler ve sitokinlerin salınımı yoluyla 
+küçük moleküllerin farmakokinetiği ile etkileşime girebilir. CYP izozimleri (özellikle CYP2C8, 
+CYP3A4, CYP1A2 ve CYP2E1) substratları (paklitaksel [175 mg/m2] ve DTIC [850 mg/m2]) ile 
+potansiyel etkileşimi değerlendiren bir klinik çalışma (CA184078) yapılmıştır (bkz. Bölüm 4.5). 
+ 
+Eliminasyon: 
+Popülasyon farmakokinetik analizine dayanarak, YERVOY için aşağıdaki ortalama (yüzde 
+varyasyon katsayısı) parametreler elde edilmiştir: sistemik CL 16,8 mL/sa (%38,1) ve terminal 
+yarılanma ömrü 15,4 gün (%34,4) olmuştur ve bunlar, insan monoklonal antikorlarının eliminasyonu 
+ile uyumludur. 
+ 
+YERVOY CL’si, başlangıçta vücut ağırlığındaki artış ve laktat dehidrojenaz (LDH) arttıkça 
+yükselmiştir; ancak, mg/kg bazında uygulama sonrasında, yükselmiş LDH veya vücut ağırlığı için 
+doz ayarlaması gerekmez.  CL yaş (aralık: 23-88 yaş), cinsiyet, eşzamanlı budesonid veya dakarbazin 
+kullanımı, performans durumu, HLA-A2*0201 durumu, hafif karaciğer yetmezliği, böbrek 
+yetmezliği, immünojenisite ve önceki anti-kanser tedavilerinden etkilenmemiştir. 
+ 
+Doğrusallık/ Doğrusal olmayan durum:  
+YERVOY’un farmakokinetiği 0,3 ilâ 10 mg/kg arasında değişen indüksiyon dozlarını alan 3 haftada 
+bir 4 doz uygulanmış 785 ileri evre melanom hastasında araştırılmıştır. YERVOY’un Cmaks, Cmin ve 
+EAA incelenen doz aralığında doz ile orantılı bulunmuştur. Her 3 haftada bir tekrarlanan YERVOY 
+dozlarında, klirens (CL) zamana göre değişmemiş olarak bulunmuş ve akümülasyon indeksi 1,5 kat 
+veya daha düşük olmak üzere belirgin olarak minimal bir sistemik akümülasyon gözlenmiştir. Üçüncü 
+doz ile YERVOY kararlı duruma ulaşmıştır.  
+ 
+Hastalardaki karakteristik özellikler  
+ 
+İleri evre melanomlu 497 hastada yapılan maruziyet-yanıt analizine göre, OS önceki sistemik anti 
+kanser tedavilerinden bağımsızdı ve daha yüksek YERVOY Cminss plazma konsantrasyonları ile 
+birlikte artmıştır. 
+ 
+Irk: 
+Beyaz ırka ait olmayan etnik gruplarda yeterli veri bulunmadığından ırkın etkisi incelenmemiştir.    
+ 
+Böbrek yetmezliği: 
+YERVOY’un böbrek yetmezliği olan hastalardaki farmakokinetiğinin değerlendirilmesi için hiçbir 
+kontrollü çalışma yapılmamıştır. 
+ 
+Metastatik melanomlu hastalarla yapılan klinik çalışmalardan elde edilen verilerin popülasyon 
+farmakokinetik analizinde, önceden mevcut hafif ve orta şiddetli böbrek yetmezliği, YERVOY 
+CL’sini etkilememiştir. Önceden mevcut ciddi böbrek yetmezliği ile klinik ve farmakokinetik veriler 
+sınırlıdır; doz ayarlamasının gerekli olup olmadığı belirlenememektedir. 
+ 62 
+ Karaciğer yetmezliği: 
+ 
+Metastatik melanomlu hastalarla yapılan klinik çalışmalardan elde edilen verilerin popülasyon 
+farmakokinetik analizinde, önceden mevcut hafif karaciğer yetmezliği, YERVOY CL’sini 
+etkilememiştir. Önceden mevcut hafif karaciğer yetmezliği ile klinik ve farmakokinetik veriler 
+sınırlıdır; doz ayarlamasının gerekli olup olmadığı belirlenememektedir. Klinik çalışmalarda önceden 
+mevcut ciddi karaciğer yetmezliği olan hastalar tanımlanmamıştır. 
+ 
+Pediyatrik popülasyon : 
+ 
+YERVOY monoterapisi için faz 4, 2 yetişkin çalışmasından (N=521) ve 2 pediyatrik çalışmadan 
+(N=44) 565 hastadan elde edilen mevcut birleştirilmiş verileri kullanan bir popülasyon FK analizine 
+göre, artan başlangıç vücut ağırlığı ile YERVOY’un CL'si artmıştır. Yaş (2-87 yaş) YERVOY’un 
+CL'si üzerinde klinik olarak önemli bir etkiye sahip değildi. Tahmini geometrik ortalama CL, 12 
+yaşında ve daha büyük ila 18 yaşından küçük yaş arası adolesan hastalarda 8,72 mL/sa'dır. 
+Adolesanlardaki maruziyet, aynı mg/kg dozunu alan yetişkinlerdeki maruziyetlerle 
+karşılaştırılabilirdir. Yetişkinlerde ve pediyatrik popülasyondaki simülasyona göre, yetişkinlerde ve 
+pediyatrik popülasyonda her 3 haftada bir önerilen 3 mg/kg dozunda karşılaştırılabilir maruziyet elde 
+edilmiştir. 
+ 
+Farmakokinetik/farmakodinamik ilişkiler  
+ 
+Nivolumab ile kombinasyon halinde YERVOY : YERVOY 1 mg/kg, nivolumab 3 mg/kg ile 
+kombinasyon halinde uygulandığında, YERVOY CL’si %1,5 azalmış ve nivolumab CL’si %1 artmış 
+olup, klinik açıdan ilgili kabul edilmemiştir. YERVOY 3 mg/kg, nivolumab 1 mg/kg ile kombinasyon 
+halinde uygulandığında, YERVOY CL’si %9 artmış ve nivolumab CL’si %29 artmış olup, klinik 
+açıdan ilgili kabul edilmemiştir. 
+ 
+Nivolumab ile kombinasyon halinde uygulandığında, YERVOY CL’si anti-YERVOY antikorlarının 
+varlığında %5,7 artmış ve nivolumab CL’si anti-nivolumab antikorlarının varlığında %20 artmıştır. 
+Bu değişiklikler klinik olarak ilgili kabul edilmemiştir. 
+ 
+Nivolumab ve kemoterapi ile kombinasyon halinde YERVOY :  
+6 haftada bir YERVOY 1 mg/kg 3 haftada bir nivolumab 360 mg ve 2 kür kemoterapi ile 
+kombinasyon halinde uygulandığında, YERVOY CL değeri yaklaşık %22 artmış ve nivolumab CL 
+değeri yaklaşık %10 düşmüş ve bu düşüş klinik olarak anlamlı kabul edilmemiştir.  
+ 
+5.3 Klinik öncesi güvenlilik verileri 
+ 
+Maymunlarda yapılan intravenöz dozların tekrarlandığı toksikoloji çalışmalarında YERVOY genelde 
+iyi tolere edilmiştir. İmmünite ile ilişkili advers reaksiyonlar nadiren (~3%) gözlemlenmiş ve kolit 
+(tek bir ölüm vakası ile sonuçlanmıştır), dermatit ve infüzyon reaksiyonunu (muhtemelen yüksek 
+enjeksiyon hızından kaynaklanan akut sitokin salımı nedeniyle) içermiştir. Bir çalışmada eşlik eden 
+histopatolojik bulgular olmaksızın tiroid ve testislerin ağırlığında düşüş olduğu görülmüştür ve bu 
+bulgunun klinik ilgisi bilinmemektedir. 
+ 
+YERVOY’un prenatal ve postnatal gelişimdeki etkileri sinomolgus maymunlarında yapılan bir 
+çalışmada araştırılmıştır. Hamile maymunlar, doğuma kadar ilk trimesterde organogenezin 
+başlangıcından itibaren 3 haftada bir, klinik 3 mg/kg   YERVOY dozu ile ilişkili olanlara benzer veya 
+onlardan yüksek maruziyet (EAA) düzeylerinde   YERVOY almışlardır. Hamileliğin ilk iki trimesterı 
+sırasında üreme üzerinde tedavi ilişkili hiçbir yan etki tespit edilmemiştir. Üçüncü trimesterdan 
+başlayarak, her iki YERVOY grubundaki kürtaj, ölü doğum, prematüre doğum (ve bununla ilişkili 63 
+ olarak düşük doğum ağırlığı) ve bebek mortalitesi insidansı kontrol hayvanlarına göre daha yüksek 
+olmuştur; bu bulguların doza bağlı olduğu tespit edilmiştir. Ayrıca, ana rahminde YERVOY’a maruz 
+kalan 2 bebeğin ürogenital sisteminde harici ve viseral gelişimsel anomaliler tespit edilmiştir. Bir dişi 
+bebekte sol böbrekte ve üreterde tek taraflı böbrek agenezisi ve bir erkek bebekte imperforat üretra 
+ve bununla ilişkili üriner obstrüksiyon ve subkütan skrotal ödem görülmüştür. Bu malformasyonların 
+tedavi ile ilişkisi açık değildir. 
+ 
+YERVOY’un mutajenik ve karsinojenik potansiyelini değerlendirecek çalışma yapılmamıştır. 
+Fertilite çalışmaları yapılmamıştır. 
+ 
+6. FARMASÖTİK ÖZELLİKLER 
+ 
+6.1 Yardımcı maddelerin listesi 
+ 
+Tris hidroklorür (2-amino-2-hidroksimetil-1,3-propanediol hidroklorür) 
+Sodyum klorür 
+Mannitol (E421) 
+Pentetik asit (dietilenetriaminepentaasetik asit) 
+Polisorbat 80  
+Sodyum hidroksit (pH ayarı için) 
+Hidroklorik asit (pH ayarı için) 
+Enjeksiyonluk su 
+ 
+6.2 Geçimsizlikler 
+ 
+Geçimlilik çalışmaları bulunmadığından bu tıbbi ürün diğer tıbbi ürünler ile karıştırılmamalıdır. 
+ 
+6.3 Raf ömrü 
+ 
+Açılmamış flakon: 36 ay 
+ 
+Açıldıktan sonra: 
+İnfüzyon solüsyonu: mikrobiyolojik bakış açısından, bir kere açıldıktan sonra, tıbbi ürünün infüzyonu 
+ya da dilüsyonu ve infüzyonu hemen yapılmalıdır. İnfüzyon solüsyonu (dilüe edilmiş ya da 
+edilmemiş) açıldıktan sonra hemen kullanılmazsa 2°-8°C’de buzdolabında ya da 25’nin altındaki oda 
+sıcaklığında 24 saate kadar saklanabilir. 
+ 
+6.4 Saklamaya yönelik özel tedbirler 
+ 
+2 -8°C arasında (buzdolabında) saklayınız. 
+Dondurmayınız. 
+Işıktan korumak için orijinal ambalajında saklayınız. 
+ 
+Tıbbi ürünün ilk açılışından veya dilüe edilmesinden sonraki saklama şartları için bkz. Bölüm 6.3. 
+ 
+6.5 Ambalaj niteliği ve içeriği 
+ 
+Tıpalı (butil lastik kaplanmış) ve “flip off” mühürlü (alüminyum) bir flakonda (Tip I cam) 40 mL 
+konsantre. 1’lik ambalaj. 
+ 
+6.6 Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler 
+ 
+Hazırlama aşaması, özellikle asepsi ile ilgili olarak iyi uygulamalara ilişkin kurallara uygun olarak 
+eğitimli personel tarafından gerçekleştirilmelidir. 
+Dozun hesaplanması: 64 
+  
+YERVOY monoterapisi veya nivolumab ile kombinasyon halinde YERVOY: 
+Hasta için reçete edilen doz mg/kg cinsinden verilir. Reçete edilen bu doza dayanılarak uygulanacak 
+toplam doz hesaplanır. Hastaya tam doz uygulanabilmesi için birden fazla YERVOY konsantresi 
+flakonu gerekli olabilir. 
+ 
+ Her bir 10 mL’lik YERVOY konsantresi flakonu 50 mg ipilimumab, her bir 40 mL’lik 
+flakon ise 200 mg ipilimumab içermektedir.  
+ mg olarak toplam ipilimumab dozu = kg olarak hastanın ağırlığı x mg/kg olarak reçete 
+edilen doz. 
+ Dozun hazırlanması için YERVOY konsantresinin hacmi (mL) = 5’e bölünmüş olarak, 
+toplam doz (mg) (YERVOY konsantresinin dozu 5 mg/mL’dir). 
+ 
+İnfüzyonun hazırlanması: 
+İnfüzyon hazırlanırken aseptik koşullar sağlanmalıdır. YERVOY, aşağıda belirtildiği şekliyle 
+intravenöz uygulama için kullanılabilir: 
+ Seyreltme yapılmaksızın uygun bir steril enjektör kullanılarak bir infüzyon kabına 
+aktarıldıktan sonra;  
+  veya 
+ Orijinal konsantre hacminin 5 katına kadar seyreltme yapıldıktan sonra (1 hacim 
+konsantreye 4 hacim seyreltici). Nihai konsantrasyon 1 ila 4 mg/mL arasında olmalıdır. 
+YERVOY konsantresinin seyreltilmesi için aşağıdakiler kullanılabilir: 
+ 9 mg/mL (%0,9) enjeksiyonluk sodyum klorür çözeltisi veya, 
+ 50 mg/mL (%5) enjeksiyonluk glukoz çözeltisi 
+ 
+AŞAMA 1: 
+ Uygun sayıda YERVOY flakonu yaklaşık 5 dakika kadar oda sıcaklığında bekletilir. 
+ YERVOY konsantresi partikül veya renk bozukluğu bakımından incelenir. YERVOY 
+konsantresi, hafif (az miktarda) partikül içerebilen, berrak ila hafif opak renksiz ila açık sarı 
+bir sıvıdır. Alışılmadık miktarda partikül veya renk bozukluğu belirtisi varsa konsantre 
+kullanılmamalıdır. 
+ Uygun steril bir enjektör kullanılarak gerekli hacimde YERVOY konsantresi alınır. 
+ 
+AŞAMA 2: 
+ Konsantre, steril, havası alınmış cam bir şişeye ya da intravenöz torbaya (PVC veya PVC 
+olmayan) aktarılır. 
+ Uygun durumda, gerekli hacimde 9 mg/mL (%0,9) enjeksiyonluk sodyum klorür çözeltisi 
+veya 50 mg/mL (%5) enjeksiyonluk glukoz çözeltisi ile seyreltilir. Hazırlama kolaylığı için, 
+konsantre ayrıca uygun hacimde sodyum klorür 9 mg/mL (%0,9) enjeksiyonluk çözelti veya 
+50 mg/mL (%5) enjeksiyonluk glukoz çözeltisi içeren kullanıma hazır torbaya doğrudan 
+aktarılabilir. Elinizde döndürülerek infüzyon hafifçe karıştırılır. 
+ 
+Uygulama: 
+YERVOY infüzyonu, intravenöz “puşe” veya bolus enjeksiyon olarak uygulanmamalıdır. 
+YERVOY infüzyonu, 30 dakikalık bir periyotta intravenöz yoldan uygulanır.  
+ 
+YERVOY infüzyonu, diğer ajanlarla aynı intravenöz hatta aynı zamanda infüze edilmemelidir 
+İnfüzyon için ayrı bir infüzyon hattı kullanılır. 
+ 
+Bir infüzyon seti ve in-line, steril, pirojenik olmayan, proteinlere bağlanma oranı düşük bir filtre 
+kullanılır (por boyutu 0,2 mikrometre ila 1,2 mikrometre). 
+ 65 
+ YERVOY infüzyonu aşağıdakiler ile geçimlidir: 
+ PVC infüzyon setleri 
+ Polietersülfon (0,2 mikrometre ila 1,2 mikrometre) ve naylon (0,2 mikrometre) in-line 
+filtreler 
+ 
+İnfüzyon sonunda 9 mg/mL (%0,9) enjeksiyonluk sodyum klorür çözeltisi veya 50 mg/mL (%5) 
+enjeksiyonluk glukoz çözeltisi ile hat yıkanır. 
+ 
+Kullanılmamış olan ürünler ya da atık materyaller “Tıbbi Atıkların Kontrolü Yönetmeliği” ve 
+“Ambalaj Atıklarının Kontrolü Yönetmelik”lerine uygun olarak imha edilmelidir.  
+ 
+7. RUHSAT SAHİBİ 
+ 
+Bristol-Myers Squibb İlaçları Inc. İstanbul Şubesi 
+Sarıyer – İstanbul 
+Tel: (0212) 335 89 00  
+Faks: (0212) 286 2496  
+e-mail: ruhsat@bms.com   
+ 
+8. RUHSAT NUMARASI(LARI) 
+ 2014/481 
+ 
+9. İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ  
+ 
+İlk Ruhsat Tarihi: 05.06.2014 
+Ruhsat Yenileme Tarihi: 21.06.2019 
+ 
+10. KÜB’ÜN YENİLENME TARİHİ 
+  
+ 
+ 

@@ -1,0 +1,994 @@
+1/25  KISA ÜRÜN BİLGİSİ 
+Bu ilaç ek izlemeye tabidir. Bu üçgen yeni güvenlilik bilgisinin hızlı olarak belirlenmesini 
+sağlayacaktır. Sağlık mesleği mensuplarının şüpheli advers reaksiyonları TÜFAM’a 
+bildirmeleri beklenmektedir. Bakınız bölüm 4.8 Advers reaksiyonlar nasıl raporlanır? 
+ 
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI 
+PRODUODOPA 240 mg/mL + 12 mg/mL infüzyonluk çözelti   
+ 
+Steril 
+ 
+2. KALİTATİF VE KANTİTATİF BİLEŞİMİ  
+Etkin madde:  
+1 ml’sinde, 240 mg foslevodopa ve 12 mg foskarbidopa içerir.  
+10 ml’sinde, 2400 mg foslevodopa ve 120 mg foskarbidopa içerir. 
+Foslevodopa ve foskarbidopa, 1 ml başına yaklaşık 170 mg levodopa ve 9 mg karbidopaya 
+eşdeğer ön ilaçlardır. 
+Yardımcı maddeler:  
+PRODUODOPA, ml başına yaklaşık 1,84 mmol (42,4 mg) sodyum içerir. 
+Yardımcı maddeler için 6.1’e bakınız. 
+3. FARMASÖTİK FORMU 
+İnfüzyonluk çözelti (infüzyon). 
+PRODUODOPA, bir cam flakonda berrak ila hafif opelesan bir çözeltidir. Çözelti partikül 
+içermemelidir. PRODUODOPA, renksiz ila sarı ve kahverengi arasında değişen ve mor veya 
+kırmızı bir renk tonunda olabilir. Renkte farklılıklar beklenmektedir ve bunun ürün kalitesi 
+üzerinde etkisi bulunmamaktadır. Flakon tıpası delindikten sonra veya enjektör içindeyken 
+çözeltinin rengi koyulaşabilir. 
+pH yaklaşık 7,4'tür. Ozmolalite yaklaşık 2200 ila 2500 mOsmol/kg'dır ama 2700 mOsmol/kg'a 
+kadar çıkabilir. 
+4. KLİNİK ÖZELLİKLER 
+4.1 Terapötik endikasyonlar 
+Mevcut Parkinson tıbbi ürün kombinasyonları ile yeterli sonuç alınamayan, şiddetli motor 
+dalgalanmalar ve hiperkinezi/diskinezi ile seyreden levodopaya cevap veren ilerlemiş 
+Parkinson hastalığının tedavisinde kullanılır. 
+ 
+2/25  4.2 Pozoloji ve uygulama şekli 
+Pozoloji/uygulama sıklığı ve süresi: 
+PRODUODOPA, günde 24 saat, sürekli subkutan infüzyon şeklinde uygulanır.  
+PRODUODOPA'nın önerilen başlangıç infüzyon hızı, gündüz levodopa alımının levodopa 
+eşdeğerlerine (LE) dönüştürülmesi ve ardından 24 saatlik bir uygulamayı (bkz. tedavinin 
+başlatılması) hesaba katacak şekilde artırılmasıyla belirlenir. Doz, işlevsel "On" zamanı en üst 
+düzeye çıkaran ve diskinezi ile ve " sayısını ve süresini en aza indiren bir klinik yanıta ulaşmak 
+için ayarlanabilir. Önerilen maksimum günlük foslevodopa dozu 6000 mg'dır (veya günde 
+yaklaşık 4260 mg levodopa'ya eşdeğer 25 ml PRODUODOPA). 
+PRODUODOPA, levodopa içeren ilaçların ve katekol-O-metil transferaz (COMT)-
+inhibitörlerinin yerini alır. Gerekirse, Parkinson hastalığına yönelik diğer tıbbi ürün sınıfları eş 
+zamanlı olarak alınabilir. 
+Tedavinin başlatılması 
+PRODUODOPA ile tedavi için seçilen hastalar, kendi kendilerine veya bir yardımıyla 
+uygulama sistemini anlayabilmeli ve kullanabilmelidir. 
+Hastalar, PRODUODOPA ile tedaviye başlamadan önce ve gerekirse daha sonra 
+PRODUODOPA'nın doğru kullanımı ve uygulama sistemi (uygulama şekline bakınız) 
+konusunda eğitilmelidir. 
+PRODUODOPA ile tedaviye başlamak için üç adım gereklidir. 
+• Adım 1: Hastanın uyanık olduğu süre boyunca kullanılan levodopa içeren ilaçlara göre LE 
+hesaplanır. 
+• Adım 2: PRODUODOPA'nın saatlik infüzyon hızı belirlenir. 
+• Adım 3: Yükleme dozunun hacmi belirlenir. 
+Adım 1: Hastanın uyanık olduğu süre boyunca kullanılan levodopa içeren ilaçlara göre LE 
+hesaplanır. 
+Günün uyanık (genellikle 16 saat/gün) kullanılan tüm levodopa içeren formülasyonlardan elde 
+edilen levodopa miktarı, Tablo 1'deki uygun doz çarpma faktörü kullanılarak LE'ye 
+dönüştürülmeli ve ardından toplanmalıdır. Bu hesaplama için yalnızca levodopa ve COMT 
+inhibitörleri dikkate alınır. Kurtarma levodopa tedavisi veya başka bir anti-Parkinson ilacı veya 
+tedavisi, uyanık süre haricinde alınan (örneğin, gece dozları) ilaçlar dahil olmak üzere bu 
+hesaplamaya dahil edilmez. COMT inhibitörü dozundan bağımsız olarak 24 saatlik bir süre 
+içinde herhangi bir COMT inhibitörü alınırsa, LE toplamına Tablo 1'de gösterildiği gibi bir 
+düzeltme faktörü uygulanmalıdır. 
+ 
+3/25  Tablo 1:  Levodopa Eşdeğerlerinin (LE) Hesaplanması 
+Levodopa formülasyonu  Doz çarpma faktörü   
+Enteral süspansiyon dahil olmak üzere çabuk salınımlı 1  
+Sürekli salınımlı, kontrollü salınımlı veya uzun süreli 
+salınımlıa  0,75  
+Herhangi bir COMT inhibitörü kullanılıyorsa, yukarıda hesaplanan LE'nin toplamı 1,33 ile 
+çarpılıra  
+a Kombine LD/CD/ COMT-inhibitörleri formülasyonlarında bulunan levodopa, çabuk 
+salınımlı olarak sayılır ve COMT-inhibitörleri düzeltme faktörü için toplam çarpılmadan 
+önce diğer tüm levodopa kaynaklarından LE'ye eklenmesi gerekir. (örn: COMT düzeltme 
+faktörü tek başına LE’ye uygulanmaz.) 
+CD = karbidopa; LD = levodopa; COMT = katekol-O-metil transferaz; LE = levodopa 
+eşdeğerleri.    
+ 
+Adım 2: PRODUODOPA'nın saatlik infüzyon hızı belirlenir. 
+Adım 1'de hesaplanan LE'ye göre önerilen PRODUODOPA başlangıç infüzyon hızları için 
+Tablo 2'ye bakılır. 
+PRODUODOPA için Tablo 2'deki saatlik infüzyon hızı, tipik bir 16 saatlik uyanıklık süresi 
+(LE 16) sırasında bir hastanın LE alımına dayanmaktadır. 
+Adım 1'de belirlenen LE, 16 saatten daha uzun veya daha kısa bir uyanıklık süresine 
+dayanıyorsa, LE 16 saatlik bir süreye ayarlanmalıdır. 16 saatlik bir süreye ayarlamak için Adım 
+1'de hesaplanan LE alınır, hastanın tipik olarak uyanık olduğu saat sayısına bölünür ve ardından 
+16 ile çarpılır. Ardından PRODUODOPA'nın önerilen başlangıç infüzyon hızları için bkz. 
+Tablo 2. Bir alternatif de başlangıç saatlik infüzyon hızını Tablo 2’de verilen formüle göre 
+hesaplamaktır, ki burada X hastanın uyanık olduğu saatler/gün sayısıdır.  
+Bu adımda belirlenen saatlik infüzyon hızı, pompa programlanırken Temel infüzyon hızı olarak 
+girilmelidir (ayrıntılar için pompa kullanım talimatlarına bakınız). 
+  
+4/25  Tablo 2:  Önerilen PRODUODOPA başlangıç saatlik infüzyon hızı 
+LE 16 (16 saatlik uyanıklık süresi 
+boyunca alınan tüm oral LD içeren 
+ilaçlardan elde edilen LE (mg))  Önerilen PRODUODOPA başlangıç saatlik 
+infüzyon hızı (ml/saat)a -24 saat süresince 
+uygulanan  
+< 400  0,15  
+400-499  0,15-0,17  
+500-599  0,17-0,20  
+600-699  0,20-0,24  
+700-799  0,24-0,27  
+800-899  0,27-0,30  
+900-999  0,30-0,34  
+1000-1099  0,34-0,37  
+1100-1199  0,37-0,40  
+1200-1299  0,40-0,44  
+1300-1399  0,44-0,47  
+1400-1499  0,47-0,51  
+1500-1599  0,51-0,54  
+1600-1699  0,54-0,57  
+1700-1799  0,57-0,61  
+1800-1899  0,61-0,64  
+1900-1999  0,64-0,68  
+2000-2099  0,68-0,71  
+2100-2199  0,71-0,74  
+2200-2299  0,74-0,78  
+2300-2399  0,78-0,81  
+2400-2499  0,81-0,84  
+2500-2599  0,84-0,88  
+2600-2699  0,88-0,91  
+2700-2799  0,91-0,94  
+2800-2899  0,94-0,98  
+2900-2999  0,98-1,01  
+3000-3099  1,01-1,04  
+>3100  1,04  
+5/25  a Saatlik infüzyon hızı, aşağıdaki formül kullanılarak hesaplanabilir; burada X, LE'yi belirlemek 
+için kullanılan hastanın uyanık olduğu saat sayısıdır (örn., yukarıdaki tabloda X=16).  
+ 
+Saatlik infüzyon hızı (ml/sa) = [(LE ∙ 0,92 ∙ 1,41) ∕ 240] ∕ X 
+ 
+"Önerilen PRODUODOPA başlangıç saatlik infüzyon hızını" oluşturmak için kullanılan 
+varsayımlar:  
+• 16 saatteki toplam günlük LE, 24 saatlik dozlamayı hesaba katmak için %50 oranında 
+artırılır.  
+• Subkutan foslevodopa, enteral olarak absorbe edilen levodopadan %8 daha fazla 
+biyoyararlanımlıdır.  
+• Foslevodopa ve levodopa arasındaki moleküler ağırlık oranı 1,41:1'dir.   
+• Bir mililitre PRODUODOPA, 240 mg foslevodopa ve 12 mg foskarbidopa içerir. 
+• PH'li hastaların çoğu, uyanık oldukları süre boyunca (tipik olarak 16 saat/gün tedavi 
+süresi) oral PH ilaçları ile tedavi edilir; 16 saatlik süre boyunca ihtiyaç duyulan 
+foslevodopa miktarı hesaplandıktan sonra, 16 saatlik süre boyunca ihtiyaç duyulan 
+mililitre miktarını belirlemek için 240 mg'a bölünür ve daha sonra saatlik infüzyon 
+hızını belirlemek için 16 saate bölünür. 
+  
+LE = levodopa eşdeğerleri; LD = levodopa.  
+  
+Adım 3: Yükleme dozunun hacmi belirlenir. 
+PRODUODOPA tedavisini "Off" durumda başlatırken (veya pompa 3 saatten fazla kapalı 
+kalmışsa) semptomatik kontrolü hızlı bir şekilde sağlamak için saatlik infüzyona başlamadan 
+hemen önce bir yükleme dozu uygulanabilir. Yükleme dozları, pompa yoluyla veya oral hızlı 
+salımlı karbidopa-levodopa tabletleri kullanılarak uygulanabilir. 
+Tablo 3, pompaya programlanacak önerilen PRODUODOPA yükleme dozu hacmini (ml) 
+(ayrıntılar için pompa kullanım talimatlarına bakınız) ve çabuk salınımlı levodopanın (mg) 
+eşzamanlı uygulanan DOPA dekarboksilazın (örn., karbidopa, benserazid) periferik 
+inhibitöründen bağımsız olarak karşılık gelen miktarını sağlar. 
+Tablo 3.  Yükleme dozu için önerilen PRODUODOPA hacminin belirlenmesi 
+Pompaya programlanacak önerilen 
+yükleme dozu hacmi (ml)  Yaklaşık karşılık gelen levodopa 
+miktarı (mg)  
+0,6  100 
+0,9-1,2   150-200  
+1,5-1,8   250-300  
+2,0  350 
+0,1 ml PRODUODOPA 24 mg foslevodopa (yaklaşık 17 mg levodopaya eşdeğer) içerir. 
+Pompa, 0,1 ml'lik artışlarla 0,1 ml'den maksimum 3,0 ml'ye kadar değişen bir yükleme dozu 
+uygulayabilir. 
+6/25  Optimizasyon ve idame 
+Sağlık personeli, hastada en uygun klinik yanıtı elde etmek için başlangıç saatlik infüzyon hızını 
+ayarlayabilir. Saatlik infüzyon hızı, 24 saatlik günlük infüzyon süresi boyunca sürekli olarak 
+uygulanmalıdır. İstenirse sağlık personeli 2 alternatif saatlik infüzyon hızı (Düşük/Yüksek) 
+programlayabilir ve etkinleştirebilir. Tüm infüzyon hızları 0,01 ml/saat'lik artışlarla 
+ayarlanabilir (bu yaklaşık 1,7 mg levodopa/saate eşdeğerdir) ve 1,04 ml/saat'i (veya günlük 
+yaklaşık 4.260 mg levodopa [günlük 6.000 mg foslevodopa]) aşmamalıdır. Pompa, hastaların 
+önceden programlanmış akış hızlarında veya Ekstra Doz işlevinde değişiklik yapmasını 
+önlemek için doz yapılandırmasına güvenli erişimi kapsar. 
+PRODUODOPA, sağlık personelinin kararına bağlı olarak tek başına veya gerekirse Parkinson 
+hastalığına yönelik diğer tıbbi ürünlerle eş zamanlı alınabilir. PRODUODOPA infüzyonu 
+sırasında, Parkinson hastalığı için birlikte kullanılan diğer ilaçların azaltılması ve ardından 
+PRODUODOPA dozunda bir ayarlama yapılması düşünülebilir. PRODUODOPA'nın diğer 
+levodopa içeren ilaçlarla veya sinaptik dopamin düzeylerini önemli ölçüde düzenleyen tıbbi 
+ürünlerle (COMT inhibitörleri gibi) birlikte kullanımı incelenmemiştir. 
+Alternatif akış hızı 
+Pompa ayrıca hasta kullanımı için programlanacak 2 alternatif infüzyon hızı seçeneğine de izin 
+verir (Düşük/Yüksek). Alternatif infüzyon hızları, sağlık personeli tarafından tarafından 
+etkinleştirilmeli ve önceden programlanmalıdır ve fonksiyonel talepteki değişiklikleri hesaba 
+katmak için hastalar tarafından seçilebilir, örneğin, gece dozunun azaltılması veya uzun süreli 
+yoğun aktivite için dozun arttırılması (detaylar için pompanın kullanım talimatlarına bakın).  
+Ekstra dozlar 
+Sağlık personeli tarafından etkinleştirildiyse hastalar sürekli infüzyon sırasında yaşanan akut 
+“Off” semptomları yönetmek için kendi kendilerine Ekstra Doz uygulayabilir. Ekstra Doz 
+hacmi 5 seçenek arasından seçilebilir (bkz. Tablo 4). Ekstra Doz özelliği, saatte en fazla 1 ekstra 
+doz ile sınırlıdır. Hasta tarafından 24 saat/gün tedavi süresince 5 veya daha fazla ekstra doz 
+kullanılıyorsa, Temel İnfüzyon Hızının revizyonu düşünülmelidir. Bu işlevi etkinleştirme 
+becerisi ve ekstra dozlar arasında gereken minimum süre sağlık personeli tarafından belirlenir 
+ve hasta tarafından değiştirilemez (Ekstra Doz özelliğinin programlanmasıyla ilgili ayrıntılar 
+için pompa kullanım talimatlarına bakın). 
+ 
+ 
+ 
+ 
+ 
+7/25  Tablo 4.  PRODUODOPA için ekstra doz seçeneği 
+PRODUODOPA hacmi   
+(ml)  Levodopa eşdeğerleri 
+(mg)  
+0,10  17 
+0,15  25,5 
+0,20 34 
+0,25 42,5 
+0,30  51 
+Uygulama şekli: 
+PRODUODOPA, göbek çevresindeki 5 cm yarıçaplı bir alandan kaçınarak, tercihen karın 
+bölgesine subkütan olarak uygulanır. Bu ürünü hazırlarken ve uygularken aseptik teknik 
+kullanılır. İlaç sürekli infüze edildiğinde infüzyon seti (kanül) 3 güne kadar yerinde kalabilir. 
+İnfüzyon bölgesi değiştirilir ve en az 3 günde bir yeni bir infüzyon seti kullanılır. Yeni infüzyon 
+yerlerinin önceki 12 gün içinde kullanılan yerlerden en az 2,5 cm uzakta olması önerilir. 
+PRODUODOPA, hassas, zarar görmüş, kırmızı veya dokunmakla sert olan bölgelere 
+uygulanmamalıdır. PRODUODOPA’nın uygulaması için, kullanıma uygun steril, tek 
+kullanımlık infüzyon bileşenleri (enjektör, infüzyon seti ve flakon adaptörü) kullanılarak 
+yalnızca Vyafuser pompası kullanılmalıdır (ayrıntılar için pompa kullanım talimatlarına bakın). 
+PRODUODOPA ile tedaviye başlamadan önce ve gerekirse daha sonra hastalar 
+PRODUODOPA'nın doğru kullanımı ve uygulama sistemi (pompa, çözelti flakonu, flakon 
+adaptörü, enjektör, infüzyon seti, taşıma aksesuarı, şarj edilebilir pil ve şarj cihazı) konusunda 
+eğitilmelidir. 
+Bir Farmakokinetik çapraz geçiş çalışmasında, PRODUODOPA'nın kol ve uyluğa 
+uygulanması, neredeyse karın bölgesine eşdeğer maruziyet ile sonuçlanmıştır (bkz. Bölüm 5.2). 
+Kola ve uyluğa uygulamanın uzun vadeli güvenliliği ve etkililiği değerlendirilmemiştir. 
+İlaç, Bölüm 6.4’te açıklandığı gibi saklanmalı ve kullanılmalıdır. İlaç flakonları yalnızca tek 
+kullanımlıktır. Bir flakonun içeriği enjektöre aktarıldıktan sonra enjektörün içeriği 24 saat 
+içinde uygulanmalıdır. Kullanılmış ilaç flakonları ve enjektörler yerel düzenlemelere göre 
+atılmalıdır. Enjektörler, içinde ürün kalsa bile sağlık personeli tarafından belirtildiği şekilde 
+atılmalıdır (bkz. bölüm 6.6). 
+Tedavinin kesilmesi 
+Alternatif dopaminerjik tedavi uygulanmadan PRODUODOPA'nın aniden kesilmesinden veya 
+hızlı doz azaltılmasından genel olarak kaçınılmalıdır (bkz. Bölüm 4.4). 
+PRODUODOPA, örneğin hasta duş alırken olduğu gibi kısa süreler için başka bir işlem 
+yapılmadan durdurulabilir. Bir saatten uzun için yeni bir infüzyon seti (tüp ve kanül) 
+kullanılmalı ve farklı bir infüzyon bölgesi seçilmelidir. İnfüzyona 3 saatten daha uzun süre ara 
+8/25  verilirse, semptom kontrolünü hızla yeniden sağlamak için, eğer sağlık uzmanları tarafından 
+izin verildiyse, hasta da kendi kendine bir yükleme doz uygulayabilir.  
+PRODUODOPA ile tedaviye uzun süre ara verilirse (>24 saat) veya kalıcı olarak kesilirse, 
+sağlık personeli uygun alternatif dopaminerjik tedavi (örn. oral levodopa/karbidopa) 
+belirlemelidir. PRODUODOPA tedavisne, PRODUODOPA'nın başlatılmasına ilişkin 
+talimatlar izlenerek herhangi bir zamanda yeniden başlanabilir (bkz. Bölüm 4.2). 
+Özel popülasyonlara ilişkin ek bilgiler  
+PRODUODOPA'nın farmakokinetiği herhangi bir özel popülasyonda değerlendirilmemiştir. 
+PRODUODOPA’nın, halihazırda stabil bir oral levodopa dozu almakta olan Parkinson 
+hastalarında kullanılması amaçlanmıştır. Maruziyetteki farklılıkların klinik olarak anlamlı 
+olmadığı değerlendirilmiştir çünkü PRODUODOPA hastalar tedaviye başladığında optimize 
+edilmektetir. Bu nedenle, eşdeğişken etkilerin klinik etkililiği veya güvenliliği etkilemesi 
+beklenmemektedir. 
+Levodopa ve karbidopanın özel popülasyonlardaki farmakokinetiğiyle ilgili daha fazla bilgi 
+için bölüm 5.2’ye bakınız. 
+Böbrek/Karaciğer yetmezliği:   
+PRODUODOPA'nın böbrek ve/veya karaciğer yetmezliği olan hastalarda farmakokinetiği 
+belirlenmemiştir. 
+Önerilen en yüksek klinik foslevodopa/foskarbidopa dozundan (6000/300 mg/gün 
+foslevodopa/foskarbidopa) beklenen günlük fosfor yükü yaklaşık 700 mg'dır; ki bu Amerika 
+Birleşik Devletleri Ulusal Bilimler Akademisi diyet referansı üst sınırı olan 3000 mg/gün'den 
+önemli ölçüde daha azdır; ancak, diyaliz gerektiren Son Dönem Böbrek Yetmezliği olan 
+hastalarda PRODUODOPA ile ilgili herhangi bir farmakokinetik veya güvenlilik verisi yoktur. 
+Bu nedenle, böbreklerin fosfatı elimine etme yeteneğinin azalması nedeniyle PRODUODOPA 
+ile tedavi gerektiren diyaliz tedavisi gören Son Dönem Böbrek Yetmezliği olan hastalarda 
+dikkatli olunmalıdır. 
+Pediyatrik popülasyon: 
+PRODUODOPA'nın farmakokinetiği pediyatrik popülasyonda değerlendirilmemiştir. 
+Geriyatrik popülasyon:  
+PRODUODOPA infüzyonunu takiben yaşın levodopa farmakokinetiği üzerindeki etkisi özel 
+olarak herhangi bir özel popülasyonda değerlendirilmemiştir. Yaşın levodopa farmakokinetiği 
+üzerindeki etkisi değerlendirilmiş ve çalışmalar, yaşla birlikte levodopa kleresinde mütevazı bir 
+azalma göstermişlerdir.  
+4.3 Kontrendikasyonlar 
+PRODUODOPA şu hastalarda kontrendikedir:  
+ Etkin maddelere veya bölüm 6.1’de listelenen yardımcı maddelerin herhangi birine karşı 
+aşırı duyarlılık  
+9/25   Dar açılı glokom  
+ Şiddetli kalp yetmezliği  
+ Akut inme  
+ Şiddetli kardiyak aritmi  
+ Selektif olmayan MAO inhibitörleri ve selektif MAO tip A inhibitörleri PRODUODOPA 
+ile birlikte kullanımda kontrendikedir. Bu inhibitörler PRODUODOPA tedavisine 
+başlamadan en az iki hafta önce kesilmelidir. PRODUODOPA, MAO tip B'ye (örn. 
+selejilin HCl) yönelik seçiciliğe sahip MAO inhibitörünün üretici tarafından önerilen 
+dozuyla birlikte uygulanabilir (bkz. Bölüm 4.5). 
+ Adrenerjik aktiviteye sahip ilaçların kontrendike olduğu durumlar (feokromositoma, 
+hipertiroidizm ve Cushing sendromu).  
+ 
+Levodopa malign melanomu aktive edebileceğinden, PRODUODOPA teşhis edilmemiş 
+şüpheli deri lezyonları veya melanom öyküsü olan hastalarda kullanılmamalıdır. 
+ 
+4.4 Özel kullanım uyarıları ve önlemleri 
+PRODUODOPA için özel uyarılar ve önlemler 
+Aşağıdaki uyarılar ve önlemler levodopa için ve dolayısıyla PRODUODOPA için de geneldir.  
+ 
+ PRODUODOPA, ilaca bağlı ekstrapiramidal reaksiyonların tedavisi için önerilmez.  
+ PRODUODOPA tedavisi, ileri kardiyovasküler veya pulmoner hastalığı, bronşiyal 
+astımı, renal, hepatik veya endokrin hastalığı veya peptik ülser hastalığı veya konvülsiyon 
+hikayesi olan hastalarda dikkatle uygulanmalıdır.  
+ Miyokard enfarktüsü hikayesi olan ve rezidüel atriyal nodal veya ventriküler aritmisi 
+bulunan hastalarda, başlangıç dozu ayarlaması sırasında kardiyak fonksiyonlar titizlikle 
+izlenmelidir.  
+ PRODUODOPA ile tedavi edilen bütün hastalar, mental değişiklikler, intihar eğilimi 
+gösteren depresyon ve diğer ciddi mental değişikliklerin gelişimi açısından dikkatle 
+izlenmelidir. Geçmişinde veya mevcut psikozu olan hastaların tedavisinde dikkatli 
+olunmalıdır. Dopamin agonistleri ve/veya PRODUODOPA dahil levodopa içeren diğer 
+dopaminerjik tedaviler kullanılarak tedavi edilen hastalarda daha yüksek sıklıkta 
+halüsinasyon meydana gelebilir. Bu tür semptomlar gelişirse tedavinin gözden 
+geçirilmesi önerilir. 
+ Dopamin reseptör bloke edici özelliklere sahip antipsikotiklerin, özellikle de D2 reseptör 
+antagonistlerinin birlikte kullanımında çok dikkatli olunmalı ve hasta, antiparkinson 
+etkilerin ortadan kalkması veya Parkinson semptomlarının kötüleşmesi açısından dikkatle 
+gözlemlenmelidir (bkz. Bölüm 4.5).  
+ Kronik geniş açılı glokomu olan hastalar, verilen intra- oküler basınç iyi kontrol edilmesi 
+ve tedavi sırasında intra-oküler basınçtaki değişmeler açısından hasta dikkatle izlenmesi 
+koşuluyla PRODUODOPA ile dikkatle tedavi edilebilir. 
+ PRODUODOPA ortostatik hipotansiyonu indükleyebilir. Bu nedenle PRODUODOPA, 
+ortostatik hipotansiyona neden olabilen diğer ilaçları alan hastalara dikkatle verilmelidir 
+(bkz. Bölüm 4.5).  
+ Levodopa, Parkinson hastalığı olan hastalarda uyku hali ve aniden uykuya dalma 
+episodları ile ilişkilendirilmiştir. Bu nedenle, araba ve makine kullanırken dikkatli 
+olunmalıdır (bkz. Bölüm 4.7).  
+ Anti-Parkinson ilaçların aniden bırakılması halinde, kas rijiditesi, vücut sıcaklığında artış, 
+mental değişiklikler (ajitasyon, konfüzyon, koma) ve serum kreatin fosfokinaz 
+10/25  düzeylerinde artışla görülen Nöroleptik Malign Sendromuna (NMS) benzeyen semptom 
+kompleksi bildirilmiştir. Parkinson hastalığı olan hastalarda Nöroleptik Malign 
+Sendromuna sekonder rabdomiyoliz veya şiddetli diskinezi seyrek olarak gözlenmiştir. 
+Bu nedenle, özellikle antipsikotik alan hastalarda, levodopa/karbidopa 
+kombinasyonlarının ani doz azaltımı veya kesilmesi durumlarında hastalar dikkatle 
+gözlenmelidir. PRODUODOPA ile ilişkilendirilen herhangi bir NMS veya rabdomiyoliz 
+vakası bildirilmemiştir.  
+ Hastalar dürtü kontrol bozukluklarının gelişimi açısından düzenli bir şekilde izlenmelidir. 
+Dopamin agonistleri ve/veya PRODUODOPA dahil levodopa içeren diğer dopaminerjik 
+tedaviler ile tedavi edilen hastalarda patolojik kumar oynama, libidoda artış ve 
+hiperseksüalite, kompulsif harcama veya satın alma, aşırı yeme ve kompulsif yeme dahil 
+dürtü kontrol bozuklukların davranışsal semptomlarının meydana gelebileceği konusu 
+hastalara ve bakım veren kişilere söylenmelidir. Bu gibi semptomlar gelişirse tedavinin 
+yeniden gözden geçirilmesi önerilmektedir.  
+ Epidemiyolojik çalışmalar, Parkinson hastalığı olan hastaların genel popülasyona göre 
+melanom geliştirme riskinin daha yüksek olduğunu göstermiştir. Gözlenen risk artışının 
+Parkinson hastalığından mı yoksa Parkinson hastalığını tedavi etmek için kullanılan 
+ilaçlar gibi diğer faktörlerden mi kaynaklandığı net değildir. Bu nedenle, hastalara ve 
+sağlayıcılara PRODUODOPA'yı herhangi bir endikasyon için kullanırken düzenli olarak 
+melanomları izlemeleri önerilir. İdeal olarak, periyodik cilt muayeneleri, uygun 
+yetkinliğe sahip kişiler (örn. Dermatologlar) tarafından yapılmalıdır. 
+ Dopamin Disregülasyon Sendromu (DDS), levodopa/karbidopa ile tedavi edilen bazı 
+hastalarda görülen ürünün aşırı kullanıma neden olan bir bağımlılık bozukluğudur. Hasta 
+ve bakım verenler, tedaviye başlamadan önce DDS gelişme olasılığı riski konusunda 
+uyarılmalıdır. 
+ Levodopanın indüklediği diskineziyi önlemek için PRODUODOPA dozunda azaltma 
+gerekebilir.  
+ PRODUODOPA ile uzun süreli tedavi sırasında hepatik, hematopoetik, kardiyovasküler 
+ve renal fonksiyonların periyodik değerlendirmelerinin yapılması önerilir.  
+ PRODUODOPA foskarbidopanın bir bozunma ürünü olan, genotoksik ve muhtemelen 
+karsinojenik olan hidrazin içermektedir. PRODUODOPA’nın medyan günlük dozu 
+günlük dozu yaklaşık 2541 mg/gün foslevodopa ve 127 mg/gün foskarbidopadır. 
+Önerilen maksimum günlük dozu 600 mg foslevodopa ve 300 mg foskarbidopadır. Bu, 
+maksimum 0,5 mg/gün olmak üzere 0,2 mg/gün medyan maruziyete kadar hidrazini 
+içerir. Hidrazin maruziyetinin klinik önemi bilinmemektedir.   
+ Uygulama sistemini idare etme yeteneğinde azalma komplikasyonlara neden olabilir. Bu 
+tip hastalarda bir bakıcı (hemşire veya yakın akraba) hastaya yardımcı olmalıdır.  
+ Bradikinezinin ani veya kademeli kötüleşmesi, cihazda herhangi bir nedenle oluşan bir 
+tıkanmaya işaret edebilir. Bu nedenin bulunması gerekir.  
+ Levodopa/karbidopa içeren ürünlerle tedavi edilen hastalarda polinöropati bildirilmiştir. 
+Tedaviye başlamadan önce hastaları polinöropati öyküsü veya belirtileri ve bilinen risk 
+faktörleri açısından ve sonrasında periyodik olarak değerlendirin. 
+ PRODUODOPA alan hastalarda infüzyon yeri olayları bildirilmiştir (bkz. Bölüm 4.8). 
+Riski azaltmak için bu ilacı kullanırken aseptik tekniklerin uygulanması ve infüzyon 
+bölgesinin sık sık değiştirilmesi önerilir. Klinik çalışmalarda, infüzyon bölgesi 
+reaksiyonları bildiren az sayıda hastada infüzyon bölgesi enfeksiyonları da görülmüştür. 
+Bu nedenle, ciddi infüzyon bölgesi reaksiyonlarının ve infüzyon bölgesi 
+enfeksiyonlarının dikkatli bir şekilde izlenmesi önerilir. 
+ 
+ 
+11/25  PRODUODOPA sodyum içerir. 
+ 
+PRODUODOPA her “ml”sinde 42,4 mg (yaklaşık 1,84 mmol) sodyum içerir, bu da DSÖ 
+tarafından önerilen maksimum günlük diyet sodyum alımının %2,1'ine eşdeğerdir. Bu ilacın 
+maksimum günlük dozu, DSÖ tarafından önerilen maksimum günlük sodyum alımının 
+%54'ünü içerir. 
+ 
+PRODUODOPA'nın sodyum oranı yüksektir. Bu durum, özellikle düşük tuz diyetinde olan 
+hastalar için göz önünde bulundurulmalıdır.  
+ 
+4.5 Diğer tıbbi ürünler ile etkileşim ve diğer etkileşim şekilleri 
+PRODUODOPA ile etkileşim çalışmaları yapılmamıştır. Aşağıdaki etkileşimler 
+levodopa/karbidopa jenerik kombinasyonuna ait bilgilerdir.  
+Aşağıdaki ilaçlarla PRODUODOPA birlikte kullanıldığında dikkatli olunması gerekir:  
+Antihipertansifler  
+Antihipertansif alan hastalarda tedaviye levodopa ve bir dekarboksilaz inhibitörü 
+kombinasyonu eklendiğinde semptomatik postural hipotansiyon ortaya çıkmıştır. 
+Antihipertansif ilaç dozunun ayarlanması gerekebilir.  
+Antidepresanlar  
+Trisiklik antidepresanlarla karbidopa/levodopa preparatlarının birlikte kullanılması sonucunda 
+hipertansiyon ve diskinezi de dahil, advers reaksiyonlar seyrek olarak bildirilmiştir. (örn.  
+amoksapin ve trimipramin) 
+COMT inhibitörleri (örn. tolkapon, entakapon, opikapon)  
+COMT (katekol-O-metil transferaz) inhibitörleri ile PRODUODOPA’nın birlikte kullanımı 
+levodopanın biyoyararlanımını arttırabilir. PRODUODOPA dozunda ayarlama gerekebilir.  
+Diğer ilaçlar  
+Dopamin reseptör antagonistleri (fenotiyazinler, butirofenonlar ve risperidon gibi bazı 
+antipsikotikler ve metoklopramid gibi antiemetikler), benzodiazepinler, izoniazid, fenitoin ve 
+papaverin, levodopanın terapötik etkisini azaltabilir. PRODUODOPA ile birlikte bu ilaçları 
+alan hastalar terapötik yanıtın kaybı açısından dikkatle izlenmelidir.  
+PRODUODOPA alan hastalarda, MAO tip B (örn. selejilin HCl) için selektif olan inhibitörler 
+dışında MAO inhibitörleri kontrendike dir. Tip B’ye yönelik seçiciliği olan MAO inhibitörü 
+eklenildiğinde PRODUODOPA dozunun azaltılması gerekebilir. 
+Selejilin ve levodopa-karbidopa’nın birlikte kullanımı ciddi ortostatik hipotansiyon ile 
+ilişkilendirilmiştir.  
+Amantadin, levodopa ile sinerjistik etkiye sahiptir ve levodopa ile ilişkili advers olayları 
+artırabilir. PRODUODOPA dozunun ayarlanması gerekebilir.  
+Sempatomimetikler (örneğin, bunlarla sınırlı olmayan adrenerjik ilaçlar - salbutamol, fenilefrin, 
+izoproterenol, dobutamin) levodopa ile ilişkili kardiyovasküler yan etkileri artırabilir.  
+Foskarbidopa, in vitro olarak potansiyel bir CYP1A2 indükleyicisi olarak tanımlanmıştır. 
+PRODUODOPA hassas CYP1A2 substratları (örn. Fluvoksamin, klozapin, kafein, teofilin, 
+12/25  duloksetin ve melatonin) ile kombinasyon halinde reçete edilirken dikkatli olunmalıdır. Bu 
+bulgunun klinik önemini değerlendirmek için hiçbir klinik DDI çalışması yapılmamıştır.  
+4.6 Üreme yeteneği/ fertilite, hamilelik ve laktasyon  
+Genel tavsiye  
+Gebelik kategorisi: C  
+Çocuk doğurma potensiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon)  
+PRODUODOPA’nın, yüksek derecede etkili bir doğum kontrol yöntemi kullanmayan çocuk 
+doğurma potansiyeli olan kadınlarda tedavinin anne açısından faydası, fötüs açısından olası 
+risklere ağır basmadığı takdirde önerilmemektedir.   
+Gebelik dönemi  
+PRODUODOPA’nın gebe kadınlarda kullanımına ilişkin veri yoktur. Hayvanlar üzerinde 
+yapılan levodopa ve karbidopa çalışmaları üreme toksisitesinin bulunduğunu göstermiştir (bkz. 
+Bölüm 5.3). İnsanlar için potansiyel risk bilinmemektedir. PRODUODOPA’nın gebelik 
+döneminde ve doğum kontrol yöntemi kullanmayan çocuk doğurma potansiyeli olan kadınlarda 
+kullanımı tedavinin anne açısından faydası, fötüs açısından olası risklere ağır basmadığı 
+takdirde önerilmemektedir.  
+Laktasyon dönemi  
+Levodopa ve olası levodopa metabolitleri anne sütüne geçmektedir. Levodopa tedavisi 
+sırasında laktasyonun baskılandığına dair kanıtlar bulunmaktadır.  
+Karbidopanın veya metabolitlerinin anne sütüne geçip geçmediği bilinmemektedir. Hayvanlar 
+üzerinde yapılan çalışmalar karbidopanın anne sütüne geçtiğini göstermektedir.  
+PRODUODOPA veya metabolitlerinin yenidoğan/infantlardaki etkisi hakkında yeterli bilgi 
+bulunmamaktadır. PRODUODOPA ile tedavi sırasında emzirme bırakılmalıdır.   
+Üreme yeteneği /Fertilite  
+Üreme çalışmalarında, levodopa/karbidopa alan sıçanlarda fertilitede herhangi bir etki 
+gözlemlenmemiştir. 
+4.7 Araç ve makine kullanımı üzerindeki etkiler 
+PRODUODOPA araç ve makine kullanma yeteneği üzerinde önemli bir etkiye sahip olabilir. 
+Levodopa ve karbidopa baş dönmesine ve ortostatik hipotansiyona neden olabilir. Bu nedenle 
+araç veya makine kullanırken dikkat edilmelidir. PRODUODOPA ile tedavi edilen ve uyku hali 
+ve/veya ani uykuya dalma episodları gösteren hastalar, kendilerini ve başkalarını ciddi 
+yaralanma veya ölüm riskiyle karşı karşıya bırakabileceğinden (örn., operasyon makinaları), 
+tekrarlayan episodları ve uykuya dalma durumu iyileşinceye kadar, araba ve dikkat gerektiren 
+araç ve makineleri kullanmamaları konusunda uyarılmalıdır. (bkz. Bölüm 4.4). 
+4.8 İstenmeyen etkiler 
+Güvenlilik profilinin özeti 
+ 
+Tüm Faz 3 çalışmalarında PRODUODOPA’ya maruz kalan hastalarda en sık görülen advers 
+reaksiyonlar (≥ % 10), infüzyon bölgesi olayları (infüzyon bölgesi eritemi, infüzyon bölgesi 
+selüliti, infüzyon bölgesi nodülü, infüzyon bölgesi ağrısı, infüzyon bölgesi ödemi, infüzyon 
+bölgesi reaksiyonu ve infüzyon bölgesi enfeksiyonu), halüsinasyon, düşme ve anksiyeteydi. 
+13/25  Tablo halinde advers reaksiyon listesi 
+ 
+Tüm Faz 3 çalışmalarında PRODUOPA’ya maruz kalan hastalarda bildirilen advers 
+reaksiyonlar (379 hasta toplam maruz kalma 414,3 kişi-yıl, 230 kişi ≥6 ay maruz kalmış, 204 
+kişi ≥12 ay maruz kalmış) veya tedaviyle ortaya çıkan sıklıklara dayanan DUODOPA İntestinal 
+Jel verileri, atanan nedenselliğe bakılmaksızın, MedDRA sistem organ sınıfına göre listelenmiş 
+olarak Tablo 5’te verilmiştir. Advers reaksiyon sıklıkları şu kurala dayanmaktadır: çok yaygın 
+(≥1/10); yaygın (≥1/100 ila <1/10); yaygın olmayan (≥1/1.000 ila <1/100); seyrek (≥1/10.000 
+ila <1/1.000); ve çok seyrek (<1/10.000). 
+Tablo 5.  Advers reaksiyonların listesi 
+Sistem organ sınıfı Sıklık  Advers reaksiyonlar  
+Enfeksiyonlar ve 
+enfestasyonlar Çok yaygın İnfüzyon bölgesi selüliti  
+Infüzyon bölgesi enfeksiyonu 
+İdrar yolu enfeksiyonub 
+Yaygına İnfüzyon bölgesi absesi 
+Kan ve lenf sistemi 
+hastalıkları Yaygın Anemib  
+Yaygın olmayan Lökopenib 
+Trombositopenib 
+Bağışıklık sistemi 
+hastalıkları Bilinmiyor Anafilaktik reaksiyonb,e 
+Metabolizma ve beslenme 
+hastalıkları Yaygın  İştah azalması 
+Psikiyatrik hastalıkları Çok yaygın  Anksiyete  
+Depresyon 
+Halüsinasyonc 
+Yaygın  Anormal rüyalarb 
+Ajitasyonb 
+Konfüzyonel durum 
+Delüzyon 
+Dürtü kontrolü bozukluğu 
+İnsomni 
+Paranoya 
+Psikotik bozukluk 
+Uyku ataklarıb  
+Uyku bozukluğub  
+İntihar düşüncesi 
+Yaygın olmayan  Tamamlanmış intiharb 
+Demansb 
+Dezoryantasyon (yönelim 
+bozukluğu) b 
+Dopamin Disregülasyon Sendromu 
+Öforik ruh halib   
+Korkub  
+Libido artışıb 
+14/25  Kabusb 
+İntihar girişimib 
+Seyrek Anormal düşüncelerb 
+Sinir sistemi hastalıkları Yaygın  Bilişsel bozukluk 
+Baş dönmesi 
+Postüral baş dönmesi 
+Diskinezi 
+Distoni 
+Baş ağrısı 
+Hipoestezi 
+On-Off fenomeni 
+Parestezi  
+Polinöropatid 
+Somnolans 
+Senkop  
+Tremorb 
+Yaygın olmayan Ataksib 
+Konvülsiyonb   
+Yürüyüş bozukluğub 
+Göz hastalıkları Yaygın olmayan Açı kapanması glokomub 
+Blefarospazmb  
+Diplopib 
+Optik iskemik nöropatib 
+Görüş bulanıklığıb 
+Kardiyak hastalıkları Yaygın Düzensiz kalp atışıb 
+Yaygın olmayan Çarpıntı  
+Vasküler hastalıkları Yaygın  Hipertansiyon 
+Hipotansiyon 
+Ortostatik hipotansiyon  
+Yaygın olmayan Flebitb 
+Solunum, göğüs 
+bozuklukları ve mediastinal 
+hastalıkları Yaygın  Dispne 
+Orofarinkste ağrıb 
+Yaygın olmayan Disfonib 
+Seyrek Anormal solunumb 
+Gastrointestinal hastalıkları Yaygın  Abdominal distansiyonb 
+Abdominal ağrı 
+Konstipasyon  
+Diyare 
+Ağız kuruluğu 
+Disguzib  
+Dispepsib  
+15/25  Disfajib  
+Flatulansb 
+Mide bulantısı 
+Kusma  
+Yaygın olmayan Tükürük hipersekresyonub 
+Seyrek Bruksizmb 
+Tükürükte renk değişikliğib 
+Glossodinib  
+Hıçkırıkb 
+Deri ve deri altı doku 
+hastalıkları Yaygın  Kontakt Dermatitb  
+Hiperhidrozb  
+Kaşıntı 
+Döküntü 
+Yaygın olmayan Alopesib 
+Eritemb 
+Ürtikerb 
+Seyrek Terde renk değişikliğib 
+Malign melanomb 
+Kas-iskelet bozukluklar, bağ 
+doku ve kemik hastalıkları Yaygın  Kas spazmları 
+Boyun ağrısıb 
+Böbrek ve idrar yolu 
+hastalıkları Yaygın Üriner inkontinans 
+Üriner retansiyon 
+Yaygın olmayan Kromatürib  
+Seyrek Priapismb 
+Genel bozukluklar ve 
+uygulama bölgesine ilişkin 
+hastalıkları  Çok yaygın İnfüzyon bölgesinde eritem  
+İnfüzyon bölgesi reaksiyonu 
+İnfüzyon bölgesinde nodül  
+İnfüzyon bölgesinde ödem  
+İnfüzyon bölgesinde ağrı 
+Yaygına  Asteni  
+Yorgunluk  
+İnfüzyon bölgesinde morarma 
+İnfüzyon bölgesinde eksfoliasyon 
+İnfüzyon bölgesinde ekstravazasyon  
+İnfüzyon bölgesinde hematom 
+İnfüzyon bölgesinde hemoraj 
+İnfüzyon bölgesinde endürasyon 
+İnfüzyon bölgesinde enflamasyon 
+İnfüzyon bölgesinde iritasyon 
+İnfüzyon bölgesinde kitle  
+İnfüzyon bölgesinde papül  
+İnfüzyon bölgesinde pruritus 
+16/25  İnfüzyon bölgesinde döküntü 
+İnfüzyon bölgesinde şişme  
+Halsizlik 
+Periferik ödem  
+Ağrıb 
+Yaygın olmayan Göğüs ağrısıb 
+Araştırmalar  Yaygın  Artmış amino asit düzeyi 
+(Metilmalonik asit artışı)b 
+Kan homosistein düzeyinde artışb 
+B6 vitamini azalması 
+Vitamin B12 eksikliğib 
+Ağırlık azalması  
+Ağırlık artışıb 
+Yaralanma ve zehirlenme  Çok yaygın  Düşme  
+a İnfüzyon bölgesi olaylarına ilişkin yaygın advers reaksiyonlar ≥%2 ise dahil edilmiştir.  
+b Bu advers reaksiyonlar, DUODOPA İntestinal Jel ile ilaca bağlı olaylar olarak tanımlanmıştır. 
+Ancak bu olaylar PRODUODOPA için advers reaksiyon olarak değerlendirilmemiştir.  
+c    Halüsinasyon; halüsinasyon, görsel halüsinasyon, işitsel halüsinasyon, koku alma halüsinasyonu, 
+taktil halüsinasyonlar ve karışık halüsinasyonları içerir. 
+d          Polinöropati; periferik nöropati, polinöropati, azalmış titreşim duyusu, periferik sensoryel 
+nöropati, duyu bozukluğu ve duyu kaybı içerir. 
+e  Pazarlama sonrası verilere dayanarak 
+Seçilmiş advers reaksiyonların tanımı 
+İnfüzyon bölgesi olayları 
+Faz 3 çalışmalarında, PRODUODOPA ile ilişkili en sık AO’lar infüzyon bölgesi reaksiyonları 
+%77,6 (N=294) ve infüzyon bölgesi enfeksiyonlarıdır %41,4 (N=157). Klinik çalışmalarda 
+PRODUODOPA ile subkutan infüzyonlarda yaygın olarak görülen infüzyon bölgesi 
+reaksiyonları ve enfeksiyonları dahil infüzyon bölgesi olayları gözlemlenmiştir. İnfüzyon 
+bölgesi olaylarının çoğu ciddi değildi, hafif veya orta şiddetteydi ve kendiliğinden veya 
+antibiyotik ve/veya insizyon ve drenaj gibi tedavilerle düzeldi. İnfüzyon bölgesi enfeksiyonu 
+olan üç denekte hastaneye yatışla sonuçlanan sepsis komplikasyonu görülmüştür. İnfüzyon 
+bölgesinde, basınç uyguladığınızda sıcaklıkla ilişkili kızarıklık, şişme, ağrı ve renk değişikliği 
+gibi potansiyel bir enfeksiyonu gösterebilecek herhangi bir cilt değişikliği izlenir. Bu ilacı 
+kullanırken aseptik teknikler uygulanmalıdır ve bu cilt değişikliklerini görürseniz yeni bir 
+infüzyon seti kullanarak infüzyon bölgesini her 3 günde birden daha sık aralıklarla değiştirmeyi 
+düşününüz. Yeni infüzyon bölgelerinin daha önce 12 günde kullanılan bölgelerden en az 2,5 
+cm uzakta olması önerilir. 
+Laboratuvar değerleri: Aşağıdaki laboratuvar anormallikleri levodopa/karbidopa tedavisi ile 
+bildirilmiştir ve bu nedenle, PRODUODOPA ile hasta tedavisinde dikkate alınmalıdır: üre 
+nitrojeni, alkalin fosfatazlar, S-AST, S-ALT, LDH, bilirubin, kan şekeri, kreatinin, ürik asit 
+yüksekliği ve pozitif Coomb testi ve düşük hemoglobin ve hematokrit değerleri. İdrarda 
+lökositler, bakteri ve kan bildirilmiştir. Levodopa/karbidopa ve dolayısıyla PRODUODOPA, 
+17/25  idrar ketonunu test etmek için bir ölçüm çubuğu kullanıldığında yanlış pozitif sonuca neden 
+olabilir; bu reaksiyon idrar örneğinin kaynatılmasıyla değişmez. Glukoz oksidaz yöntemlerinin 
+kullanılması glukozüri için yanlış negatif sonuçlar verebilir. 
+Şüpheli advers reaksiyonların raporlanması  
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem 
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine 
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye 
+Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir (www.titck.gov.tr; e-posta: 
+tufam@titck.gov.tr; tel: 0 800 314 00 08; faks: 0312 218 35 99)  
+4.9 Doz aşımı ve tedavisi 
+PRODUODOPA ile doz aşımı durumunda infüzyon derhal durdurulmalıdır. Akut aşırı doz 
+PRODUODOPA tedavisi, akut aşırı doz levodopa tedavisi ile aynıdır; ancak piridoksinin 
+PRODUODOPA'nın etkisinin geri döndürülmesinde hiçbir etkisi yoktur. Elektrokardiyografik 
+izlem kullanılmalı ve hasta kardiyak aritmi gelişimi açısından dikkatle izlenmelidir; gerekirse 
+uygun bir antiaritmik tedavi verilmelidir. Hastalar ayrıca hipotansiyon açısından izlenmelidir. 
+Hastanın PRODUODOPA ile birlikte başka tıbbi ürünler almış olma olasılığı göz önünde 
+bulundurulmalıdır.  
+5. FARMAKOLOJİK ÖZELLİKLER 
+5.1 Farmakodinamik özellikler 
+Farmakoterapötik grup: Anti-Parkinson ilaçları, foslevodopa ve dekarboksilaz inhibitörü  
+ATC kodu: N04BA07  
+Etki mekanizması: 
+PRODUODOPA (foslevodopa/foskarbidopa) 240 mg/12 mg/ml infüzyonluk çözelti, mevcut 
+tıbbi tedavi ile yeterince kontrol altına alınamayan ileri evre Parkinson hastalarında 24 saat/gün 
+sürekli subkutan infüzyon için levodopa monofosfat ve karbidopa monofosfatın (oran 20:1) bir 
+ön ilaç kombinasyonudur.  Foslevodopa ve foskarbidopa, in vivo  olarak levodopa ve 
+karbidopaya dönüştürülür. Levodopa, beyindeki dopamine dekarboksilasyondan sonra 
+Parkinson hastalığının semptomlarını hafifletir. Kan-beyin bariyerini geçmeyen karbidopa, 
+levodopanın dopamine ekstraserebral dekarboksilasyonunu inhibe ederek beyne taşınması ve 
+dopamine dönüşmesi için daha fazla miktarda levodopanın mevcut olmasını sağlar. 
+Farmakodinamik etkiler: 
+PRODUODOPA subkutan uygulama ve DUODOPA intestinal uygulamanın benzer levodopa 
+Cmaks, EAA ve dalgalanma derecesine sahip olduğu gösterilmiştir, bu da benzer bir etkililik 
+profilini destekler. PRODUODOPA, DUODOPA ile aynı levodopa konsantrasyonları elde 
+ederek, ileri evre Parkinson hastalığı olan levodopaya yanıt veren hastalarda motor 
+dalgalanmaları azaltır ve “On” zamanını artırır. Levodopanın plazma konsantrasyonları 
+bireysel terapötik pencere içinde kararlı bir seviyede tutulduğundan motor dalgalanmalar ve 
+18/25  hiperkinezi veya diskinezi azalır. Motor semptomlar üzerindeki terapötik etki (“On” durum) ilk 
+tedavi gününde elde edilir. 
+Klinik etkililik ve güvenlilik: 
+DUODOPA jel formülasyonu ile yapılan çalışmalar 
+ 
+Levodopa/karbidopa 100/25 mg tabletleri ile karşılaştırılarak DUODOPA intestinal jel 
+sisteminin etkililiği, güvenliliği ve tolerabilitesini değerlendirmeye yönelik iki aynı tasarlanmış, 
+Faz 3, 12 haftalık, randomize, çift kör, çift plasebolu, etkin kontrollü, paralel grup, çok merkezli 
+çalışmalarda doğrulanmıştır. Çalışmalar, levodopaya yanıt veren ve oral levodopa karbidopa ve 
+diğer mevcut anti Parkinson tedavileri ile yapılan optimize tedaviye rağmen kalıcı motor 
+dalgalanmaları yaşayan ileri derecedeki 71 Parkinson hastasıyla gerçekleştirilmiştir. İki 
+çalışmanın sonuçları birleştirilmiş ve tek bir analiz gerçekleştirilmiştir.  
+Primer etkililik sonlanım noktasının (başlangıçtan sonlanım noktasına) normalize "Off" 
+zamanındaki değişimin, son süregelen gözlem verilerine dayanan ‘Parkinson Hastalığı 
+Günlüğü’ne göre en küçük kareler yöntemi (LS) ile istatistiksel olarak anlamlı biçimde 
+DUODOPA tedavi grubunun lehine olduğu görülmüştür. (Tablo 6)  
+Primer sonlanım noktası sonuçları, başlangıçtan, tüm başlangıç sonrası çalışma ziyaretlerindeki 
+değişiklikleri inceleyen Karışık Model Tekrarlı Ölçümler (MMRM) analizi ile desteklenmiştir. 
+Bu "Off" süresi analizi, 4. Haftada etkin kontrol grubu ile karşılaştırıldığında DUODOPA 
+grubunun istatistiksel olarak anlamlı bir şekilde daha fazla geliştiğini göstermiş olup, bu 
+gelişmenin 8, 10 ve 12. haftalarda da istatistiksel olarak anlamlı olduğu gösterilmiştir.  
+"Off" süresindeki bu değişiklik, ‘’Parkinson Hastalığı Günlüğü’’ verilerine dayanarak 
+DUODOPA intestinal jel tedavi grubu ile etkin kontrol grubu arasındaki çok şiddetli diskinezi 
+olmaksızın ortalama günlük normalize "On" süresindeki başlangıca göre istatistiksel olarak 
+anlamlı LS ortalama farkıyla bağlantılıdır. Başlangıç değerleri, randomizasyonun üç gün 
+öncesinde ve oral tedavi standardizasyonundan 28 gün sonra toplanmıştır.  
+Tablo 6.   Çok Şiddetli Diskinezi Olmaksızın "Off" Süresi ve "On" Süresinde 
+Başlangıçtan Sonlanım Noktasına Değişim 
+ 
+ 
+Tedavi Grubu  
+N Başlangıç 
+Ortalaması 
+(SD) 
+(saat) Sonlanım 
+Noktası 
+(SD) 
+(saat) LS Ortalama 
+Değişiklik 
+(SE) 
+(saat) LS Ortalama 
+Fark 
+(SE) 
+(saat)  
+P değeri 
+Primer Ölçüm:"Off" süresi 
+Aktif Kontrola 
+31 6,90 (2,06) 4,95 (2,04)  –2,14 (0,66)    
+DUODOPA intestinal 
+jel 35 6,32 (1,72) 3,05 (2,52)  –4,04 (0,65)  –1,91 (0,57)  0,0015  
+Kilit Sekonder Ölçüm: Özürleyici diskinezinin eşlik etmediği "On"süresi 
+Aktif Kontrol 
+31 8,04 (2,09) 9,92 (2,62)  2,24 (0,76)   
+19/25  DUODOPA intestinal 
+jel 35 8,70 (2,01) 11,95 (2,67)  4,11 (0,75) 1,86 (0,65) 0,0059  
+SD = standart sapma; SE = standart hata;  
+a. Aktif kontrol, oral levodopa/karbidopa 100/25 mg tabletler (Sinemet® tablet aşırı-kapsüllenmiş) 
+ 
+Hiyerarşik test prosedürüne göre diğer sekonder etkililik sonlanım noktalarının analizleri, 
+Parkinson Hastalığı Anketi (PDQ-39) Özet İndeksi (Parkinson Hastalığı kaynaklı hayat kalitesi 
+indeksi), Klinik Global İzlenim (CGI-I) skoru ve Birleşik Parkinson Hastalığı Derecelendirme 
+Ölçeği (UPDRS) Bölüm II skoruna (Günlük Yaşam Aktiviteleri) ilişkin olarak oral levodopa/-
+karbidopa ile karşılaştırıldığında DUODOPA intestinal jel için istatistiksel olarak anlamlı 
+sonuçlar göstermiştir. PDQ-39 Özet İndeksi başlangıca göre DUODOPA intestinal jel grubu 
+için 12. haftada 10,9 puanlık bir düşüş göstermiştir. Diğer sekonder sonlanım noktaları olan 
+UPDRS Bölüm III skoru, EuroQol 5-Boyutlu Anketi (EQ-5D) Özet İndeksi ve Zarit Yük Anketi 
+(ZBI) toplam skoru, hiyerarşik test prosedürüne dayanarak istatistiksel anlamlılığı 
+karşılamamıştır.  
+ 
+354 hastada 12 ay boyunca DUODOPA’nın uzun süreli güvenlilik ve tolerabilitesini 
+değerlendirmek için bir Faz 3, açık etiketli, tek kollu, çok merkezli bir çalışma 
+gerçekleştirilmiştir. Çalışma popülasyonu, mevcut Parkinson hastalığı medikal tedavileri ile 
+optimize tedaviye rağmen ileri derecede Parkinson hastalığına sahip olan ve motor 
+dalgalanmaları yaşayan levodopaya yanıt veren hastalardı. Ortalama günlük normalize "Off" 
+süresi, çok şiddetli diskinezi olmadan “On” süresinde 4,8 saate karşılık gelecek şekilde 
+Başlangıçtan Sonlanım Noktasına – 4,44 saat değişiklik göstermiştir (Başlangıçta 6,77 saat ve 
+Sonlanım Noktasında 2,32 saat).  
+DUODOPA intestinal jelin, diskinezi üzerindeki etkisini değerlendirmek amacıyla 61 hastanın 
+katılımıyla 12 hafta boyunca optimal medikal tedaviye (OMT) kıyasla açık etiketli, randomize, 
+çok merkezli bir Faz 3 çalışması yürütülmüştür. Çalışma popülasyonu; levodopaya yanıtı olan, 
+motor dalgalanmaları ve ileri evre Parkinson hastalığı OMT ile yetersiz şekilde kontrol edilen 
+ve başlangıçtaki Birleşik Diskinezi Değerlendirme Skalası (UDysRS) Toplam Skoru ≥30 olan 
+hastalardır. Başlangıçtan 12. haftaya kadar olan süreçte UDysRS toplam skorundaki değişiklik 
+(primer etkililik sonlanım noktası), OMT grubuna kıyasla DUODOPA tedavi grubu lehinde 
+istatistiksel olarak önemli bir LS Ortalama farkı (-15,05; P<0,0001) ortaya koymuştur. Sabit 
+sekans test prosedürü kullanılarak sekonder etkililik sonlanım noktalarının analizi; Parkinson 
+hastalığı günlüğüyle ölçülen çok şiddetli diskinezi olmaksızın "On" süresi, Parkinson Hastalığı 
+Anketi-8 (PDQ 8) özet indeksi, Klinik Global İzlenim Değişikliği (CGI-C) skoru, Birleşik 
+Parkinson Hastalığı Değerlendirme Skalası (UPDRS) Bölüm II skoru ve Parkinson hastalığı 
+günlüğüyle ölçülen "Off" süresi bakımından OMT'ye kıyasla DUODOPA lehine istatistiksel 
+olarak önemli sonuçlar ortaya koymuştur. UPDRS Bölüm III skoru istatistiksel anlamlılık 
+gerekliliklerini karşılamamıştır. 
+PRODUODOPA ile çalışmalar  
+PRODUODOPA, 24 saat/gün sürekli subkutan infüzyonu için amaçlanan bir çözeltide 
+levodopa monofosfat ve karbidopa monofosfatın (oran 20:1) bir ön ilaç kombinasyonudur. 
+Subkutan PRODUODOPA uygulamasının ve DUODOPA intestinal uygulamasının, benzer 
+etkililik profilini destekleyen benzer levodopa C maks ve EAA parametrelerine sahip olduğu 
+gösterilmiştir. Çalışmada, PRODUODOPA ve DUODOPA için sırasıyla 0,262 ve 0,404 
+dalgalanma değerleriyle stabil levodopa maruziyeti gösterilmiştir. 
+20/25  Sağlıklı gönüllülerde PRODUODOPA uygulamasının ardından, levodopa kararlı durumuna 
+hızlı bir şekilde, genellikle iki saat içerisinde ulaşılır ve infüzyon süresi boyunca korunur. 
+Aşağıdaki Şekil 1, 24 saatlik PRODUODOPA uygulamasının ardından levodopa maruziyetini 
+göstermektedir.  
+Şekil 1: 24 saatlik PRODUODOPA infüzyonunu takiben ortalama Levodopa maruziyeti 
+ 
+ 
+ 
+Ek bir PK karşılaştırılabilirlik çalışmasından elde edilen sonuçlar, her ikisi de 24 saatlik bir süre 
+boyunca verildiğinde PRODUODOPA ve DUODOPA arasında levodopa maruziyetinin 
+karşılaştırılabilir olduğunu göstermiştir. 
+ 
+Bir Faz 3, çift-kör, çift-sağır, randomize, aktif-kontrollü, çok merkezli çalışma 
+PRODUODOPA’nın ileri parkinson hastalarındaki (PH) etkisini değerlendirmek amacıyla 12 
+hafta boyunca yürütülmüştür. Toplam 145 hasta 1:1 oranıyla randomize edilmiş ve 141 hastaya 
+24 saat/gün sürekli subkütan PRODUODOPA uygulaması artı oral plasebo kapsülleri (N=74) 
+veya 24 saat/gün sürekli subkütan plasebo çözeltisi uygulaması artı oral kapsüllü levodopa-
+karbidopa hızlı salım (IR) tabletleri (N=67) verilmiştir. 
+Çalışma popülasyonu levodopaya yanıtlı motor dalgalanmaları mevcut ilaçlarıyla yetersiz 
+kontrol edilen ve PH günlükleriyle değerlendirildiğindegünde en az 2,5 saat ‘Off’ süresi olan 
+hastalardı. 
+Ortalama Levodopa Plazma Konsantrasyonu (ng/ml) 
+Zaman ( saat) 
+21/25  PRODUODOPA, oral IR levodopa-karbidopa grubuyla karşılaştırıldığında başlangıçla 12. 
+hafta arasında özürleyici diskinezi olmaksızın ‘on’ süresinde ve ‘off’ süresinde istatistiksel 
+olarak anlamlı iyileşmeler göstermiştir (Tablo 7). Diğer sekonder sonlanım noktaları günlük 
+yaşamın motor deneyimleri, sabah akinezisi, uyku ve yaşam kalitesi göstergeleri hiyerarşik test 
+işlemine dayanarak istatistiksel anlamlılığı karşılamamıştır. 
+Tablo 7. Primer ve Kilit Sekonder Ölçümlerde Başlangıçtan Sonlanım Noktasına olan Değişim 
+ 
+Tedavi Grubu  N Başlangıç 
+Ortalama  
+(SS) Başlangıçtan 
+Sonlanım 
+Noktasına 
+Değişim 
+Ortalama  
+(SS) LS 
+Değişimin 
+Ortalaması LS Farkın 
+Ortalaması P değeri 
+(%95 Güven 
+Aralığı) 
+ 
+Primer Ölçüm  
+Özürleyici diskinezi olmadan “On” süresi (saat)a 
+Oral IR levodopa-
+karbidopab 67 9,49 (2,62)  0,85 (3,46) 0,97   
+PRODUODOPA 73 9,20 (2,42)  3,36 (3,62) 2,72 1,75 0,0083 
+(0.46, 3.05) 
+Sekonder Ölçüm  
+“Off” süresi (saat)a 
+Oral IR levodopa-
+karbidopab 67 5,91 (1,88)  -0,93 (3,31)  -0,96   
+“PRODUODOPA 73 6,34 (2,27)  -3,41 (3,76)  -2,75 -1,79 0,0054 
+(-3.03, -0.54) 
+SS = standart sapma;. 
+a Parkinson Hastalığı (PH) günlüğünden türetilmiştir. 
+b Oral hızlı salımlı (IR) levodopa -karbidopa tabletleri.  
+ 
+Toplam 110 hasta çalışmayı tamamlamıştır. Çift-kör tedavi döneminde, oral IR levodopa-
+karbidopa grubundaki hastaların %7,5’i (N=5) ve PRODUODOPA grubundakilerin %35,1’i 
+(N=26) erken dönemde ilacı bırakmıştır. PRODUODOPA grubunda ilacı kesmenin en sık 
+nedeni %18,9’unda (N=14) advers olaylardır. PRODUODOPA grubundaki 74 hastanın biri 
+analizden çıkarılmıştır çünkü kişinin etkililik modeli için geçerli başlangıç verileri yoktur (tablo 
+7’de N=73). 
+Analizin sonuçlarını daha konservatif bir varsayımla değerlendirmek için bir J2R duyarlılık 
+analizi de yapılmıştır. J2R duyarlılık analizinin sonuçları primer analizin sonuçlarıyla tutarlıdır. 
+ 
+22/25  244 hastada 52 hafta boyunca sürekli subkutan PRODUODOPA infüzyonunun günde 24 saat 
+maruziyetinin güveliliğini ve tolere edilebilirliğini değerlendirmek için Faz 3, açık etiketli, tek 
+kollu bir çalışma yürütülmüştür. Çalışma popülasyonu, Parkinson hastalığı (PH) günlükleri 
+tarafından değerlendirildiği üzere günde en az 2,5 saat “Off” zaman yaşayan, motor 
+semptomları mevcut tedaviyle yeterince kontrol edilemeyen, levodopaya yanıtlı Parkinson 
+hastalarıydı. Toplam 137 hasta çalışmayı tamamlamıştır. Çalışmaya devam etmemenin en sık 
+nedenleri, advers olaylar (%26) ve onamın geri çekilmesidir (%16). Kişilerin ≥%10’unda 
+bildirilen advers olaylar infüzyon bölgesi olayları, halüsinasyon, düşme, anksiyete ve baş 
+dönmesidir. PRODUODOPA ile ilişkili en sık advers olaylar ciddi olmayan, hafif veya orta 
+derece şiddetli infüzyon bölgesi olaylarıdır ve düzelmiştir. 
+PRODUODOPA'nın bu çalışmadaki güvenlilik profilinin özeti Bölüm 4.8'de verilmiştir (bkz. 
+Bölüm 4.8).  
+Pediyatrik 
+PRODUODOPA’nın 18 yaşın altındaki hastalardaki güvenliliği kanıtlanmamış olup 18 yaşın 
+altındaki hastalarda kullanımı önerilmemektedir. 
+5.2 Farmakokinetik özellikler 
+Genel özelllikler 
+Emilim: 
+PRODUODOPA doğrudan subkutan boşluğa uygulanır ve hızla emilir ve levodopa ve 
+karbidopaya dönüştürülür. Sağlıklı gönüllülerde yapılan bir faz 1 çalışmasında, levodopa ve 
+karbidopa, ilk farmakokinetik toplama noktasında plazmada 30 dakika içinde saptanabilirdir. 
+Çoğu hastada kararlı hal, PRODUODOPA dozu yükleme dozu ve ardından sürekli infüzyon 
+olarak verildiğinde 2 saat içinde ulaşılmıştır. 
+PRODUODOPA'nın farklı subkutan bölgelerinde emilimini belirlemek için, 3 yönlü çapraz 
+geçiş tasarım kullanılarak sağlıklı gönüllülere karın, kol ve kalçadan PRODUODOPA 
+uygulanmıştır. Bu çalışmadan elde edilen farmakokinetik analiz, 3 bölgenin neredeyse aynı 
+levodopa ve karbidopa maruziyetine sağladığını gösterdiğinden PRODUODOPA emiliminin 
+farklı subkutan bölgelerde benzer olduğu düşünülmektedir. 
+PRODUODOPA'nın bağırsaktan emilimi olmadığından gıda levodopa/karbidopa emilimini 
+veya maruziyetini değiştirmez. 
+Dağılım: 
+Levodopanın dağılım hacmi kısmen küçüktür. Eritrositler ve plazma arasındaki levodopanın 
+bölünme oranı yaklaşık 1'dir. Levodopa, plazma proteinlerine ihmal edilebilir düzeyde bağlanır 
+(<%10). Levodopa, büyük nötral amino asitlere yönelik taşıyıcı mekanizma ile beyne taşınır. 
+Karbidopa, plazma proteinine yaklaşık olarak %36 oranında bağlanır. Karbidopa kan-beyin 
+bariyerini geçmez. 
+Hem foslevodopa hem de foskarbidopa, plazma proteinlerine düşük düzeyde bağlanır (%24-
+%26). 
+Biyotransformasyon:  
+Foslevodopa ve foskarbidopa ön ilaçları alkalin fosfatazlar tarafından hızla levodopa ve 
+karbidopaya dönüştürülür. Levodopa esas olarak aromatik amino asit dekarboksilaz (AAAD) 
+23/25  ve COMT enzimleri tarafından metabolize edilir. Diğer metabolik yollar transaminasyon ve 
+oksidasyondur. Levodopanın AAAD tarafından dopamine dekarboksilasyonu, herhangi bir 
+enzim inhibitörünün birlikte uygulanmadığı durumlarda ana enzimatik yolaktır. Levodopanın 
+COMT tarafından O-metilasyonu sonucunda 3-O-metildopa oluşur. Karbidopa ile birlikte 
+uygulandığında, levodopanın eliminasyon yarılanma ömrü yaklaşık 1,5 saattir. 
+Eliminasyon: 
+Karbidopa iki ana metabolite metabolize edilir (α-metil-3-metoksi-4-hidroksifenilpropiyonik 
+asit ve α-metil-3,4-dihidroksifenilpropiyonik asit). Bu 2 metabolit büyük ölçüde değişmeden 
+ya da glukuronid konjugatları olarak idrarla atılır. Değişmemiş karbidopa, toplam idrar 
+ekskresyonunun %30'unu oluşturur. Karbidopanın eliminasyon yarılanma ömrü yaklaşık 2 
+saattir. 
+Özel popülasyonlara ilişkin ek bilgiler  
+PRODUODOPA, sabit dozda oral levodopa kullanan Parkinson hastalarında kullanılmak üzere 
+tasarlanmıştır ve PRODUODOPA dozu, hastalar tedaviye başladıktan sonra optimize edilir. 
+Geriyatrik popülasyon:  
+PRODUODOPA infüzyonunu takiben yaşın levodopa farmakokinetiği üzerindeki etkisi özel 
+olarak herhangi bir özel popülasyonda değerlendirilmemiştir. Yaşın levodopa farmakokinetiği 
+üzerindeki etkisi değerlendirilmiş ve çalışmalar, yaşla birlikte levodopa kleresinde mütevazı bir 
+azalma göstermişlerdir.  
+Böbrek/Karaciğer yetmezliği:   
+PRODUODOPA'nın böbrek ve/veya karaciğer yetmezliği olan hastalarda farmakokinetiği 
+belirlenmemiştir. 
+Önerilen en yüksek klinik foslevodopa/foskarbidopa dozundan (6000/300 mg/gün 
+foslevodopa/foskarbidopa) beklenen günlük fosfor yükü yaklaşık 700 mg'dır; ki bu Amerika 
+Birleşik Devletleri Ulusal Bilimler Akademisi diyet referansı üst sınırı olan 3000 mg/gün'den 
+önemli ölçüde daha azdır; ancak, diyaliz gerektiren Son Dönem Böbrek Yetmezliği olan 
+hastalarda PRODUODOPA ile ilgili herhangi bir farmakokinetik veya güvenlilik verisi yoktur. 
+Bu nedenle, böbreklerin fosfatı elimine etme yeteneğinin azalması nedeniyle PRODUODOPA 
+ile tedavi gerektiren diyaliz tedavisi gören Son Dönem Böbrek Yetmezliği olan hastalarda 
+dikkatli olunmalıdır. 
+Vücut ağırlığı: 
+PRODUODOPA infüzyonunu takiben vücut ağırlığının levodopa farmakokinetiği üzerindeki 
+etkisi özel olarak değerlendirilmemiştir. Levodopa ile ilgili önceki çalışmalar, ağırlığın dağılım 
+hacmini artırdığını ve levodopa maruziyetini azaltabileceğini göstermiştir.  
+Cinsiyet veya ırk: 
+PRODUODOPA uygulamasının ardından hem Japon deneklerde hem de Han Çinli deneklerde 
+karbidopa ve levodopa maruziyetleri, Kafkas deneklerle benzerdi. 
+PRODUODOPA infüzyonunu takiben cinsiyetin farmakokinetik üzerindeki etkisi özel olarak 
+değerlendirilmemiştir. Cinsiyetin levodopa farmakokinetiği üzerindeki etkisi değerlendirilmiş 
+ve çalışmalar, levodopa maruziyetinde cinsiyete bağlı klinik olarak anlamlı bir fark olmadığını 
+24/25  göstermiştir. PRODUODOPA dozunu takiben, EAA'ya göre ağırlık yaklaşık %18 olarak 
+dikkate alındığında levodopa maruziyeti kadınlarda daha yüksekti. 
+5.3 Klinik öncesi güvenlilik verileri 
+Konvansiyonel güvenlilik, farmakoloji, tekrarlanan doz toksisitesi, genotoksisite ve 
+karsinojenik potansiyel çalışmalarına dayanan klinik dışı veriler insanlara yönelik özel bir 
+tehlike ortaya koymamaktadır. Üreme toksisitesi çalışmalarında levodopa ve 
+levodopa/karbidopa kombinasyonu tavşanlarda iç organlar ve iskeletle ilgili malformasyonlara 
+yol açmıştır.  
+Hidrazin, foskarbidopanın bir bozunma ürünüdür. Hayvanlarla yapılan çalışmalarda, hidrazin, 
+özellikle inhalasyon maruziyeti ile kayda değer sistemik toksisite göstermiştir. Bu çalışmalar 
+hidrazinin hepatotoksik olduğunu, MSS toksisitelerine sahip olduğunu (oral tedaviden sonra 
+tanımlanmamasına rağmen) ve kanserojen olduğu kadar genotoksik olduğunu da göstermiştir 
+(ayrıca bkz. Bölüm 4.4).  
+ 
+6. FARMASÖTİK ÖZELLİKLER 
+6.1 Yardımcı maddelerin listesi  
+Sodyum hidroksit 10N (pH ayarı için) 
+Hidroklorik asit, konsantre (pH ayarı için) 
+Enjeksiyonluk su 
+ 
+6.2 Geçimsizlikler 
+Geçimlilik çalışmaları bulunmadığından, bu tıbbi ürün diğer tıbbi ürünlerle karıştırılmamalıdır. 
+6.3 Raf ömrü 
+Açılmamış: 20 ay.  
+Açıldıktan sonra: Hemen kullanınız. Ürün, flakondan enjektöre aktarıldıktan sonra 24 saat 
+içinde kullanılmalıdır. 
+6.4 Saklamaya yönelik özel tedbirler 
+Buzdolabında (2°C-8°C) saklayınız ve taşıyınız. Dondurmayınız. 
+Flakonların kırılmasını önlemek için flakonların dış kartonu içerisinde saklayınız. 
+28 güne kadar tek bir periyot için maksimum 30°C'ye kadar oda sıcaklığında saklanabilir. 
+Flakon oda sıcaklığında saklandıktan sonra ürünü buzdolabına geri koymayınız. 
+PRODUODOPA'nın buzdolabından ilk çıkarıldığı tarihi kartonun üzerindeki alana kaydediniz. 
+Tıbbi ürünün ilk açılışından sonraki saklama koşulları için bkz. Bölüm 6.3. 
+İnfüzyondan önce ilaç oda sıcaklığında olmalıdır. Kullanmadan önce buzdolabına konmuşsa, 
+flakon buzdolabından çıkarılmalı ve direkt güneş ışığından uzakta 30 dakika boyunca oda 
+sıcaklığında bekletilmelidir. Buzdolabından çıkarılınca, oda sıcaklığında bekletmek dışında 
+25/25  hiçbir yöntemle (flakonda veya enjektörde) ısıtılmamalıdır. Örneğin, mikrodalgada veya sıcak 
+suda ısıtılmamalıdır. 
+6.5 Ambalajın niteliği ve içeriği 
+Gri kauçuk tıpa alüminyum sıkıştırma kapağı ve turkuaz plastik açılır kapağa sahip Tip I şeffaf 
+renksiz cam flakonda toplam 10 ml olmak üzere 7 flakon içeren karton kutu. 
+Kullanıma uygun steril, tek kullanımlık infüzyon bileşenleri (enjektör, infüzyon seti ve flakon 
+adaptörü) ayrıca sağlanır. 
+Vyafuser pompası ayrı olarak sağlanmaktadır.  
+6.6 Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler 
+Flakonlar sadece tek kullanımlıktır. Bir flakonun tüm içeriği, uygulama için bir enjektöre 
+aktarılmalıdır. Çözeltiyi seyreltmeyin veya enjektörü başka bir çözelti ile doldurmayın. Tıbbi 
+ürünü enjektöre aktardıktan sonra flakonu atınız. 
+Açılmış bir flakonu tekrar kullanmayınız. 
+Kullanılmamış olan ürünler ya da atık materyaller "Tıbbi Atıkların Kontrolü Yönetmeliği" ve 
+"Ambalaj Atıkları Kontrolü Yönetmeliği"'ne uygun olarak imha edilmelidir.  
+28 günlük oda sıcaklığı süresince kullanılmadıysa flakonu atın. 
+Tıbbi ürün enjektörde 24 saat kaldıktan sonra enjektörü ve enjektördeki kullanılmamış ürünü 
+atınız. 24 saatten fazla aynı flakondan veya aynı enjektörden ürün kullanmayınız. 
+Kullanım talimatlarına dair genel bir bakış, kullanma talimatında verilmiştir. 
+7. RUHSAT SAHİBİ 
+AbbVie Tıbbi İlaçlar San. ve Tic. Ltd. Şti.  
+Barbaros Mah. Begonya Sk. 
+Nidakule Ataşehir Batı blok No:1 İç Kapı No:33 
+Ataşehir/İstanbul  
+Tel: 0216 633 23 00                
+Faks: 0216 425 09 69 
+ 
+8. RUHSAT NUMARASI  
+2025/82 
+9. İLK RUHSAT TARİHİ / RUHSAT YENİLEME TARİHİ 
+İlk ruhsat tarihi: 19.03.2025 
+Ruhsat yenileme tarihi: 
+10. KÜB’ÜN YENİLENME TARİHİ 

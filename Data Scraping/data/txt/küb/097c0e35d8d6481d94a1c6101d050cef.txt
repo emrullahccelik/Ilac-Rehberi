@@ -1,0 +1,906 @@
+1  KISA  ÜRÜN  BİLGİSİ  
+ 
+1. BEŞERİ  TIBBİ  ÜRÜNÜN  ADI 
+ 
+TECHNEKAM  BHR  99Mo/99mTc RADYONÜKLİD JENERATÖR  
+TECHNEKAM  BHR 99Mo/99mTc RADYONÜKLID  JENERATÖR’ün  kalibrasyon 
+günündeki  Mo-99 radyoaktivitesi  5-55 GBq/jeneratördür.  
+2. KALİTATİF  VE KANTİTATİF  BİLEŞİM 
+Etkin  madde:  
+Anne nüklid:  
+Sodyum  Molibdat ( Na99MoO 4) 5- 55 GBq  / Jeneratör  
+(Kalibrasyon  günündeki  Mo-99 radyoaktivitesi)  
+Kız nüklid:  
+99m Teknesyum  sodyum perteknetat  (Na 99mTc O4 ) 
+(99Mo/99m Tc jeneratör  sisteminden  elde edilir.)  
+TECHNEKAM  BHR 99Mo/99mTc RADYONÜKLID  JENE RATÖR,   bir  kromatografi  
+kolonuna  adsorbe  edilmiş  99Mo izotopu içermektedir.99Mo’un bozunması  ile oluşan  
+teknesyum    (99mTc) izotopu, 140 keV ortalama  enerji  ile gama  radyasyon yayarak  ve 6,02 
+saatlik  yarılanma  ömrü  ile teknesyum -99’a dönüşür. Teknesyum -99, 2,13 x  105  yıllık   uzun  
+yarılanma  ömrü   nedeni  ile stabil   kabul   edilebilir.  
+99Mo/99mTc jeneratöründen elüsyon ile  steril  sodyum  perteknetat  (99mTc) çözeltisi  elde edilir.  
+Jeneratörden  herhangi  bir zamanda elüe edilen  sodyum  perteknetat  (99mTc) miktarı; mevcut  
+sodyum  (99Mo) molibdat miktarına,  elde edilen  hacme ve önceki  elüsyondan sonra  geçen  
+zamana bağlıdır. 
+ 
+Yardımcı  maddeler:  
+%0.9 Sodyum  klorür  çözeltisi  
+Sodyum  hidroksit: pH  ayarlamak  için y.m. 
+Yardımcı  maddeler için  6.1’e  bakınız. 
+3. FARMASÖTİK FORM 
+Radyonüklid jeneratör.  
+Jeneratör sisteminden  berrak  renksiz,  enjeksiyonluk çözelti elde edilir.  
+ 
+4. KLİNİK  ÖZELLİKLER 
+ 
+4.1 Endikasyonlar  
+ 
+Bu ürün sadece diyagnostik amaçla kullanılır.  
+Jeneratörden  elde edilen  sağım  çözeltisi  (sodyum  perteknetat  99mTc) kit olarak sağlanan  çeşitli  
+taşıyıcı  bileşiklerin  işaretlemesinde  kullanılabileceği gibi direkt  olarak  da hastaya enjekte  
+edilebilir.  Steril sodyum  perteknetat  (99mTc) çözeltisi  intravenöz  uygulandığında  tanı amacıyla,  
+yetişkinlerde ve çocuklarda, aşağıdaki endika syonlarda  kullanılabilir,  2  a) Tiroid  sintigrafisi: doğrudan görüntüleme  ve tiroid  bezinin çalışması,  boyutu, yeri ve 
+nodülaritesiyle ilgili bilgi  vermek üzere tiroid  tutulumun ölçülmesi.  
+b) Tükürük bezi sintigrafisi:  tükürük bezi çalışması  ve tükürük bezi  açıklı ğını belirlemek.  
+c) Ektopik gastrik  mukoza  lokalizasyonu:  Meckel’s divertikulum  
+d) Serebral   sintigrafisi:  başka  bir  yöntem  olmadığında, tümör,   enfarktüs,   hemoraji   ve 
+ödemin yol açtığı  kan- beyin  bariyerindeki  ihlalleri belirlemek.  
+e) Kardiyak ve  vasküler  sintigrafi  
+f) Gastrointestinal kanama  sintigrafisi  
+g) Organ  perfüzyon sintigrafisi  
+Steril sodyum  perteknetat  (99mTc) çözeltisinin  göze damlatılması ile:  
+h) Lakrimal  kanal  sintigrafisi: gözyaşı  kanalı  açıklığını belirlemek  
+ 
+4.2 Pozoloji  ve uygulama şekli 
+RADYOFARMASÖTİKLER YALNIZCA BU KONUDA  UZMANLAŞMIŞ  NÜKLEER  TIP 
+UZMANI  TARAFINDAN  NÜKLEER  TIP ÜNİTELERİNDE  UYGULANMALIDIR 
+ 
+Pozoloji/uygulama  sıklığı ve  süresi:  
+Yetişkin  ve yaşlılarda başlıca  uygulamalar  için önerilen  ortalama dozlar aşağıda verilmiştir.  
+ 
+- Tiroid  Sintigrafisi: 18.5-80 MBq  (0.5 -2.16 mCi)  
+İntravenöz  enjeksiyondan 20 dakika sonra  sintigrafi gerçekleştirilir.  
+ 
+- Tükürük Bezleri  Sintigrafısi: 37- 185 MBq  (1-5 mCi) 
+İntravenöz  enjeksiyondan hemen  sonra  ve 15 dakikaya  kadar  düzenli  aralıklarla  
+gerçekleştirilir.  
+ 
+- Ektopik gastrik mukoza  lokalizasyonu  (Meckel’s diverticulum sintigrafisi) : 400 MBq  (10.8 
+mCi)  
+İntravenöz  enjeksiyondan hemen  sonra  ve 30 dakikaya  kadar  düzenli  aralıklarla  
+gerçekleştirilir.  
+ 
+- Serebral  Sintigrafi: 370- 740 MBq  (10-20 mCi)  
+İntravenöz  enjeksiyondan hemen  sonra  1-2 dk içinde  hızlı ardışık  görüntüler  çekilir.  1 ila 4 
+saat sonra  ise statik  görüntüler  çekilir.  Spesifik  olmayan teknesyum -99m tutulumunu  
+engellemek  için tiroid  ve koroid pleksus  bloke  edilmelidir.  
+ 
+- Kardiyak ve  vasküler  sintigrafisi: 740 -  925 MBq  ( 20- 25 mCi)  
+İndirgeyici  ajanlarla  önişlemden geçirilerek  kırmızı hücreler  in-vivo veya in-vitro  
+işaretlenir.  Dinamik  görüntüler  intravenöz  uygulamadan sonra  ilk dakikalarda  alınır,  
+takiben 30 dakikanın üzerinde  düzenli  görüntüler  alınır.  
+ 
+- Gastrointestin al kanama  sintigrafisi: 740-925 MBq  ( 20-25 mCi)  
+İndirgeyici  ajanlarla  önişlemden geçirilerek  kırmızı hücreler  in-vivo veya in-vitro  
+işaretlenir.  Dinamik  görüntüler  intravenöz  uygulamadan sonra  ilk dakikalarda  alınır,  
+takiben 24  saate kadar  uygun aralıklar la düzenli  görüntüler alınır.  
+ 
+- Organ  perfüzyon sintigrafisi: 518- 777 MBq  (14- 21 mCi)  3  - Lakrimal  kanal  sintigrafisi: Her bir göz için 2-4 MBq  ( 0.05- 0.11mCi)  
+Göze  damlalar damlatılır ve 2 dakika  boyunca  dinamik görüntüler  alınır,  ardından 20 
+dakikanın üzerin de uygun aralıklarda  statik  görüntüler  alınır.  
+ 
+Uygulama  Şekli:  
+Sodyum  perteknetat  (99mTc), klinik  ön tanı ve kullanılan  cihazın  özelliklerinin  gerektirdiği  
+farklı radyoaktivite  düzeylerinde  göze  damlatılarak  veya intravenöz  enjeksiyon yolu ile 
+hastaya uygulanır.  Belirli bazı endikasyonlarda  hastalara uygulama  öncesi  tiroid  bloke  edici  
+ilaçlar veya indirgeyici  ilaçlar verilmesi  gerekebilir.  
+ 
+Radiyofarmasötik maddeler,   sadece  radyonüklidlerle  çalışmaya ve onları  kullanmaya  yetkili  
+kişiler tarafından  kullanı lmalıdır.  
+ 
+Hasta hazırlığı  için bölüm  4.4 e  bakınız.  
+ 
+Radyofarmasötiklerin  hazırlanması  ile ilgili talimatlar için  bölüm  6.6. ve  12’ye  bakınız. 
+Özel  popülasyona  ilişkin  ek bilgiler: 
+Böbrek/  karaciğer yetmezliği:  
+Böbrek ve  karaciğer  yetmezliği  olan  hastalar da güvenlilik  ve etkililiği incelenmemiştir.  
+Bu  hastalarda  ürünün  vücutta   kalma   süresi   uzayarak,   radyasyon  maruziyetinde   artış 
+olabileceğinden, uygulanacak  aktivitenin  dikkatle  belirlenmesi gerekmektedir.  
+ 
+Pediyatrik  popülasyon : 
+Çocuklarda  ve ergenlik  çağındakilerde  kullanımı, klinik  gereklilik  ve bu hasta grubundaki  
+risk/yarar oranı  göz önünde  bulundurularak, dikkatle değerlendirilmelidir.  
+ 
+Çocuklara  ve ergenlik  çağındakilere  uygulanacak doz büyüklerin dozundan azdır  ve aşağıdaki  
+formülle  hesaplanır: 
+ 
+Pediatrik  doz = Yetişkin  dozu x Çocuk  ağırlığı (kg)  
+70 kg 
+ 
+Ayrıca  çocuk dozları  erişkin  dozlarının bir kesri  olarak  EANM  tarafından  tanımlanmıştır ve 
+AB tarafından  bildirilmiştir.  Bu referanslara göre çocuklara  uygulanacak 99mTc-perteknetat  
+aktivite dozu kolayca hesaplanabilmektedir.  
+ 
+Çocuklar için  hesaplanacak  dozlarda  kullanılacak  yetişkin  dozu fraksiyonlarını  gösterir  tablo  
+3 kg = 0.1 22 kg  = 0.50 42 kg  = 0.78 
+4 kg = 0.14 24 kg  = 0.53 44 kg  = 0.80 
+6 kg = 0.19 26 kg  = 0.56 46 kg  = 0.82 
+8 kg = 0.23 28 kg  = 0.58 48 kg  = 0.85 
+10 kg  = 0.27 30 kg  = 0.62 50 kg  = 0.88 
+12 kg  = 0.32 32 kg  = 0.65 52-54 kg = 0.90 
+14 kg  = 0.36 34 kg  = 0.68 56-58 kg = 0.92 
+16 kg  = 0.40 36 kg  = 0.71 60-62 kg = 0.96 
+18 kg  = 0.44 38 kg  = 0.73 64-66 kg = 0.98 
+20 kg  = 0.46 40 kg = 0.76 68 kg  = 0.99 
+(Paediatric Task Group,  EANM)  4  1 yaşından  küçük çocuklar  için yeterli kalitede  görüntü elde etmek  için gerekli  minimum  
+aktivite  dozları;  direkt  uygulama  için 20 MBq,  tiroid  sintigrafisi için 10 MBq  ve kırmızı kan 
+hücresi  işaretleme  için 80 MBq’dir.  
+ 
+Geriyatrik  popülasyon  : 
+Erişkin  dozu  uygulanmaktadır.  
+ 
+4.3 Kontrendikasyonlar  
+ 
+Etkin  maddeye  veya içerisinde  bulunan yardımcı  maddelerden  herhangi  birine  hassasiyeti  
+olanlarda  kontrendikedir.  
+ 
+Jeneratörden  elde edilen  sodyum  perteknetat  (99mTc) bir soğuk kiti işaretlemek  için kullanılıyor 
+ise, kontredikasyonlarla ilgili bilgi için kitin Kısa Ürün  Bilgisi  (KUB)  ve Kullanma Talimatına  
+(KT) bakılmalıdır.  
+ 
+4.4 Özel  kullanım uyarıları  ve önlemleri  
+ 
+RADYOFARMASÖTİKLER SADECE NÜKLEER TIP UZMANLARI  TARAFINDAN  
+NÜKLEER  TIP MERKEZLERİNDE  UYGULANIR.  
+ 
+TECHNEKAM BHR 99Mo/99mTc RADYONÜKLİD JENERATÖR’den  elde edilen  sodyum  
+perteknetat  çözeltisi  radyoaktiftir.  Bu nedenle çözelti içeren  şişe uygun bir  kurşun koruyucu 
+içinde tutulmalıdır.  
+ 
+Hasta dozu hazırlama ve uygulama  işlemleri aseptik  tekniklerle  yapılmalıdır.  
+ 
+Hastal arın, çalışanların  ve diğer  insanların  gereksiz radyasyona  maruz  kalmaması  için uygun 
+zırhlama  yapılmalıdır.  
+ 
+Hipersensitivite  veya anaflaktik  reaksiyon  potansiyeli  
+Eğer hipersensitivite  veya anaflaktik  reaksiyonlar  meydana  gelirse,  tıbbi ürünün kullanımı  
+derhal  durdurulmalı  ve gerekirse intravenöz  tedaviye  başlanmalıdır.  Acil durumlarda  derhal  
+önlem  alabilmek  için gerekli  tıbbi ürün ve endotrakeal  tüp ve  ventilator gibi  ekipmanlar  hemen  
+kullanılabilir şekilde hazır olmalıdır.  
+ 
+Bireysel  yarar/risk  değerlendirmesi  
+Her hasta için, radyasyon maruziyeti  muhtemel  yararı  ile gerekçelendirilmelidir.  Uygulanan 
+aktivite gerekli tanısal  bilgiyi  elde etmek  için mümkün olan en  düşük doz  olmalıdır.  
+ 
+Böbrek/karaciğer  yetmezliği  
+Bu hastalarda  radyasyon maruziyeti  artabilec eğinden  yarar  risk oranı  dikkatle  
+değerlendirilmelidir.  
+ 
+Pediyatrik  popülasyon  
+Pediyatrik  popülasyonda  kullanımla  ilgili bilgi  için bölüm  4.2’ye  bakınız.  
+ 
+Her  bir  MBq   için  etkin   dozun  çocuklarda   yetişkinlerden   daha  yüksek  olması   nedeni   ile 
+endikasyonun dikkatle değerlendirilmesi gereklidir  (bakınız  bölüm  12). 
+ 
+Çocuklarda  ve ergenlik çağındakilerde  klinik  ihtiyaçlar ve yarar/risk  oranına  dayanarak, bu 5  hasta gruplarında  kullanım dikkatle  değerlendirilmelidir.  Pediyatrik  popülasyonda  serebral  
+sintigrafi uygularken tiroidin bloke edilmesi  özel  öneme sahiptir.  
+ 
+Hasta hazırlığı  
+Bazı endikasyonlarda  hastaların  tiroid  bloke  edici  ilaçlar  ile ön ilaç tedavisi  (premedikasyon)  
+yapılması  gerekli  olabilir.  
+İncelemeye  başlanmadan  önce hastalar  iyi hidrate  edilmelidir ve radyasyonu azaltmak  için 
+incelemenin  ilk saatlerinde mümkün  olduğunca sık idrara çıkması  teşvik  edilmelidir.  
+Meckel’s divertikulum  sintigrafisi için sodyum  [99mTc] perteknetat  çözelti  uygulamasından  
+önce, bağırsak  peristalsisini  önlemek  için hasta 3 ila 4 saat  aç kalmalıdır.  
+ 
+Tiroid  bezi sintigrafisi,  tükürük bezi sintigrafisi veya ektopik  gastrik  mukoza  lokasyonunda  eş 
+zamanlı  olarak  sodyum  perklorat  uygulanması  glandüler  dokunun radyoaktivite  tutulumunu  
+azaltmaktadır.  
+ 
+Serebral  sintigrafide,  pleksus  koroideusta  da sodyum  perteknetat  [99mTc] tutulumu olması  kan- 
+beyin bariyerinin  fonksiyonunda  sorun olduğu şeklinde  yanlış  yorumlanabilir (hatalı pozitif  
+bulgu). Perklorat,  pleksus  koroideusta  sodyum  perteknetat  [99mTc] tutulumunu  azalttığından,  
+yanlış yorumlama  ihtimalini ve radyasyon maruziyetini azaltmak  için, sodyum  perteknetat  
+[99mTc] uygulaması  öncesi  perklorat  uygulanması  önerilmektedir.  
+ 
+Şant (Shunt)  sintigrafisinde  de radyasyon maruziyetini azaltmak  için tiroid  bezini  bloke  etmek  
+gereklidir.  Çünkü normal  geçişli  şantlar  ile tüm aktivite  peritonel  kaviteye  ulaşarak  oradan 
+absorbe edilir ve  sistematik  olarak  dağıtılır.  
+ 
+İndirgemek için kalay  iyonları  kullanılarak  eritrositlerin  in vivo işaretlenmesinden  sonra  
+sodyum  perteknetat  (99mTc) öncelikli olarak  eritrositlere  entegre  olmaktadır.  Bu nedenle, 
+Meckel  sintigrafisi eritrositlerin  in vivo işaretlenmesinden  önce veya birkaç  gün sonra  
+yapılmalıdır.  
+ 
+Sodyum  perteknetat  (99mTc) çözeltisi bir kiti işaretlemek  için kullanılıyor  ise, uyarı  ve önlemle r 
+için işaretlenecek  olan spesifik  kitin  kısa ürün bilgileri ve  kullanma talimatına  da bakınız. 
+ 
+Özel uyarılar 
+TECHNEKAM  BHR 99Mo/99mTc RADYONÜKLİD  JENERATÖR’den  elde edilen  sodyum  
+perteknetat  çözeltisinin  her mL’si  1 mmol (23 mg)’dan daha az sodyum  ihtiva  eder;  yani 
+esasında “sodyum  içermez”.  
+ 
+Sodyum  perteknetat  (99mTc) çözeltisi  bir kiti işaretlemek  için kullanılıyor  ise, hastaya verilen  
+toplam  sodyum  miktarı hesaplanırken  elüat  ve kitten  gelen  sodyum  hesaba katılmalıdır.  
+Sodyum  içeriği ile  ilgili bilgi için lütfen  kitin kullanma  talimatına bakınız.  
+ 
+Paravazal  enjeksiyondan kaçınılmalıdır.  
+ 
+Çevresel  tehlikeler açısından  önlemler  için bölüm  6.6’ya  bakınız. 
+ 
+4.5 Diğer  tıbbi ürünler  ile etkileşimler  ve diğer  etkileşim  şekilleri  
+ 
+Metotreksatın  endüklediği  ventrikülitin  bir sonucu olarak  serebral  ventriküllerin  duvarında  
+(99mTc) perteknetat  tutulumunun  yüksek olabileceği,  beyin sintigrafisinde  ilaç etkileşimleri  
+bildirilmiştir.  6  Abdominal  görüntülemede  atropin, isoprenalin  ve analjezik  etkili ilaçlar  gastrik  boşaltm ada 
+gecikmeye ve (99mTc) perteknetatın  yeniden dolaşıma  geçmesine yol açabilir.  
+ 
+Tiroid  hormonları, iyot, iyodür, perklorat,  tiyosiyanat, aluminyum  içeren  antiasitler,  
+sülfonamidler  ve kalay  (II) iyonları  içeren  ürünler, vasküler  boşlukta  sodyum  pertekneta t 
+(99mTc) konsantrasyonunda  artışa  yol açabilir.  Kalay  (II) iyonları  ve sülfonamidler  durumunda  
+kırmızı kan hücrelerindeki  sodyum  perteknetat  (99mTc) konsantrasyonu artabilir  ve bu nedenle  
+plazma ve  serebral  lezyonlarda  azalmış birikim  olabilir.  Bu tür ilaçlar işlemden  birkaç  gün önce 
+bırakılmalıdır.  
+ 
+İyot içeren  radyolojik kontrast  maddeler  ve perklorat  sindirim  mukozasından  99mTc- perteknetat  
+tutulumunu  azaltabilir.  Baryum  sülfat  izleyicinin  gama  radyasyonunun büyük kısmını  
+absorblar. Bu nedenle, bu madde lerin uygulanmasından en erken  2-3 hafta  sonra  Meckel’s  
+divertikulum  sintigrafisi yapılmalıdır.  
+Laksatifler  99mTc-perteknetatın  mideden ve bağırsaklardan  taşınmasını  artırabilir ve Meckel’s  
+divertikulum  sintigrafisi yapılmadan önce kullanılmamalıdır.  
+ 
+99mTc işaretli farmasötik  preparatların  uygulanmasını  takiben muhtemel  etkileşim  türleri  
+kullanılan  spesifik  bileşiğe  bağlı  olacaktır.  Muhtemel  etkileşimler ile ilgili bilgi için 
+radyofarmasötik hazırlamak  için kullanılan kitin kısa ürün bilgilerine  bakınız. 
+ 
+Sodyum  perteknetat  uygulaması  herhangi  bir yiyecek, içecek  tüketilmesi ile bağlantılı  
+etkileşim  göstermez.  
+ 
+En önemli  geçimsizlikler:  
+Sodyum  perteknetat  (99mTc) çözeltisi  veya teknesyum -99m işaretli preparatlar  karıştırılmamalı 
+veya diğer  tıbbi ürünler  veya bileşenler  ile birlikte  uygulanmamalıdır.  Kalay  (II) işaretli kitler  
+kullanılan  nükleer  tıp uygulamasından sonra  en az 8 hafta  beklenmesi  önerilmektedir,  aksi 
+takdirde  kırmızı kan hücrelerinin  işaretlenmesi  şeklinde  istenmeyen  bir etki meydana  gelebilir.  
+ 
+Özel  popülasyonlara  ilişkin  ek bilgiler:  
+Etkileşim çalışması  yapılmamıştır.  
+ 
+Pediyatrik  popülasyon:  
+Etkileşim çalışması  yapılmamıştır.  
+ 
+ 
+4.6 Gebelik  ve laktasyon  
+Genel  tavsiye  
+Gebelik  kategorisi: C  
+ 
+Çocuk  doğurma  potansiyeli  bulunan kadınlar/Doğum  kontrolü ( Kontrasepsiyon)  
+ 
+Sodyum  perteknetatın  gebe kadınlarda kullanımına ilişkin  yeterli veri  mevcut  değildir.  
+ 
+Hayvanlar  üzerinde  yapılan çalışmalar,  gebelik, doğum  ve doğum  sonrası  gelişim  üzerindeki  
+etkiler bakımından yetersizdir  (bkz. kısım  5.3). İnsanlara  yönelik  potansiyel  risk 
+bilinmemektedir.  7  TECHNEKAM  BHR 99Mo/99mTc RADYONÜKLİD JENERATÖR   gerekli   olmadıkca  
+gebelik döneminde  kullanılmamalıdır.  
+ 
+Hamile  kalma  potansiyeli  olan kadınlara  radyoaktif  tıbbi ürün uygulanması  gerektiğinde,  
+hamile  olup olmadığı  mutlaka  sorgulanmalıdır.  Bir menstrüasyon  dönemi  geçen  bir kadın, aksi 
+kanıtlanmadıysa hamile  kabul  edilmelidir.  Hamile  kadınlara  iyonlaştırıcı radyasyon  
+uygulaması, fetüse de radyasyon dozları  taşır.  Bu nedenle  uygulanması  gerektiğinde  optimum  
+görüntüleme  için gerekli  olan minimum  doz uygulanmalıdır.  İyonize  radyasyon içermeyen  
+alternatif teknikler düşünülmelidir.  
+ 
+Gebelik  dönemi  
+Teknesyum -99m’in  (serbest  perteknetat  şeklinde)  plasental  bariyeri geçtiği gösterilmiştir.  
+ 
+Hamile kadınlara iyonlaştırıcı  radyasy on uygulaması, fetüse de radyasyon dozları  taşır.  
+TECHNEKAM  BHR 99Mo/99mTc RADYONÜKLİD JENERATÖR  gerekli    olmadıkça  
+(uygulaması    ile   sağlanması  düşünülen faydaların, anne ve fetüste doğabilecek  potansiyel  
+zarardan  daha büyük olduğu durumlar dışında) ge belikte  kullanılmamalıdır.  
+ 
+800 MBq  sodyum  perteknetat  (99mTc) çözeltisinin  hastaya direkt  uygulamasını  takiben uterusta  
+absorbe  edilen  doz 6.5 mGy’dir.  Eğer hastaya uygulama öncesi  bloke  edici  ilaçlar uygulanırsa  
+800 MBq  sodyum  perteknetat  uygulaması  sonucunda  uterusta  absorbe  edilen  doz 5.3 mGy  
+olmaktadır. 925 MBq  99mTc ile kırmızı  kan hücreleri  işaretlenmesi  sonucunda  uterusta  absorbe  
+edilen  doz 4.3 mGy  olmaktadır.  0.5 mGy  dozun  üstü fetüs  için potansiyel  risk olarak  kabul  
+edilmektedir. 99mTc perteknetat  uygulaması  gerekli  ise uygulama  öncesi  hamilelik  durumu ile 
+ilgili bilgi  alınmalıdır.  
+ 
+Laktasyon dönemi  
+Laktasyon dönemindeki  bir kadına  radyoaktif  ilaçlar  uygulanmadan önce, en uygun 
+radyofarmasötik seçimi  yapılıp  yapılmadığı  ve anne emzirmeyi  bırakana  kadar uygulamanın  
+makul  bir süre ertelenip  ertelenemeyeceği  göz önünde bulundurulmalıdır.  
+ 
+Bu nedenle  TECHNEKAM  BHR  99Mo/99mTc RADYONÜKLİD  JENERATÖR  emziren  
+kadınlara  uygulanacak ise emzirmeye  12 saat ara verilmelidir ve süt sağılarak  atılmalıdır.  
+Yeniden emzirmeye  ancak  anne sütünde  bulunan radyasyon dozu 1 mSv’ın  altına  
+düştüğünde başlanılmalıdır. 
+ 
+Bu dönemde bebeklerle  yakın temastan  kaçınılmalıdır.  
+ 
+Üreme yeteneği/Fertilite 
+Sodyum  perteknetatın  üreme  yeteneği  üzerindeki  etkisi  bilinmemektedir.  Bu nedenle ; 99mTc 
+perteknetat  uygulaması  gerekli  ise klinik  bilginin elde edilmesi  için uygulanacak radyasyon 
+dozunun minimum  olması  (ALARA prensibi) çok  önemlidir.  
+ 
+4.7 Araç ve makine kullanımı üzerindeki  etkiler  
+ 
+Sodyum  perteknetat  (99mTc) uygulamasının araç ve makine  kullanımı  üzerindeki  etkilerine  dair 
+herhangi  bir çalışma yapılmamıştır.  8  4.8 İstenmeyen etkiler 
+ 
+Güvenlilik  profili özeti: 
+Advers  reaksiyonlarla  ilgili bilgiler spontan bildirimlerden  elde edilmiştir.  Bildirilen  reaksiyon  
+türleri hipersensitivite  veya anafil aktik  reaksiyonlar,  spesifik  olmayan sistemik  reaksiyonlar  
+yanı sıra enjeksiyon yerinde reaksiyonlardır.  
+ 
+TECHNEKAM  BHR 99Mo/99mTc RADYONÜKLİD  JENERATÖR’den  elde edilen  sodyum  
+perteknetat  (99mTc) çeşitli  bileşiklerin  radyoaktif   olarak  işaretlenmesinde kullanılmaktadır.  
+Bu tıbbi ürünler   genellikle   99mTc’dan  daha yüksek advers  reaksiyon potansiyeline  sahiptir  
+ve bu nedenle bildirilen  advers  reaksiyonlar  99mTc’dan  ziyade işaretlenmiş bileşikle ilişkilidir.  
+ 
+Sodyum  perteknetat  (99mTc) çözeltisiyle  radyoaktif  işaretleme yoluyla  hazırlanmış  99mTc ile 
+işaretlenmiş  farmasötiklerin  uygulanmasını  takiben olası yan etkiler kullanılan  spesifik  
+farmasötiğe bağlı  olacaktır.  Olası  yan ektiler ile ilgili bilgi için radyofarmasötik  hazırlamak  için 
+kullanılan  kitin kısa  ürün bilgilerine bakınız.  
+ 
+İstenmeyen  etkiler aşağıdaki  sıklık derecesine göre sıralanır.  
+Çok yaygın(≥1/  10); yaygın (≥1/100 ila <1/10 ) ; yaygın olmayan  ( ≥1/1000 ila <1/100 ) ; seyrek  
+(≥1/ 10.000 ila <1/1000 ) ; çok seyrek  (< 1/10.000 ); bilinmiyor  (eldeki  verilerden  hareketle  
+tahmin  edilemiyor).  
+ 
+Sodyum  perteknetat’ın  (99mTc) intravenöz  uygulamasını  takiben sıklık  derecesi  bilinmemekle  
+birlikte rapor edilen  yan etkiler aşağıda belirtilmektedir.  
+ 
+Bağışıklık  sistemi hastalıkları:  
+Sıklığı bilinmiyor:  Anafilak toid reaksiyonlar  (örn. Dispne, koma,  ürtiker,  eritem,  döküntü,  
+prurit,  çeşitli  bölgelerde  ödem  örn. yüz ödemi)  
+ 
+Sinir  sistemi  hastalıkları 
+Sıklığı bilinmiyor:  Vazovagal  reaksiyonlar  (örn. Senkop, taşikardi,  bradikardi, baş dönmesi - 
+sersemlik,  baş ağrısı,  bulanık görme, cilt kızarması) 
+ 
+Gastrointestinal hastalıkları 
+Sıklığı bilinmiyor: Kusma,  mide bulantısı,  diyare  
+ 
+Genel  bozukluklar  ve uygulama bölgesine ilişkin  hastalıkları 
+Sıklığı bilinmiyor: Enjeksiyon yerinde reaksiyonlar  (örn. selülit,  ağrı, eritem,  şişkinlik)  
+ 
+Spesifik  olmayan reaksiyonlar  ve gastrointestinal  hastalıklar,  özellikle  kaygılı  hastalarda,  
+teknesyumdan  (99mTc) ziyade incelemeye  özgü ayarlamalar ile ilişkili kabul  edilmektedir.  
+Enjeksiyon yerindeki  reaksiyonlar  radyoaktif  materyalin  damar  dışına  kaçması  ile ilişkilidir ve 
+lokal  şişme ile selülit arasında değişmektedir.  
+ 
+İyonize  radyasyona  maruziyet  kanser  oluşumunu tetikleyebilir veya kalıtımsal bozukluklara  yol 
+açabilir.  Önerilen  maksimum  aktivite  olan 800 MBq  uygulandığında  etkin  doz 10.4 mSv 
+olduğundan,  bu yan etkilerin  meydana  gelme olasılığı  düşüktür. 
+ 
+Diyagnostik  amaçla nükleer  tıp araştırmalarının  çoğunda  uygulanan doz 20 mSv’tan  daha 
+düşüktür. Klinik  şartlara  bağlı  olarak  daha yüksek  dozlarda  uygulanabilir.  9  Şüpheli  advers reaksiyonla rın raporlanması  
+Ruhsatlandırma  sonrası  şüpheli  ilaç advers  reaksiyonlarının raporlanması  büyük önem  
+taşımaktadır.  Raporlama  yapılması,  ilacın  yarar/risk  dengesinin sürekli  olarak  izlenmesine  
+olanak sağlar.  Sağlık  mesleği  mensuplarının  herhangi  bir şüphel i advers  reaksiyonu  Türkiye  
+Farmakovijilans  Merkezi  (TÜFAM)’ne  bildirmeleri gerekmektedir.  (www.titck.gov.tr;  e- 
+posta:  tufam@titck.gov .tr; tel:0 800 314 00 08; faks:  0 312 218 35 99)  
+ 
+4.9 Doz aşımı ve  tedavisi  
+ 
+Herhangi  bir doz aşımı  olayı  rapor  edilmemiştir.  
+ 
+Sodyum  perteknetat  (99mTc) ile aşırı dozda  radyasyon uygulanması  durumunda, radyonüklidin  
+vücuttan eliminasyonu mümkün  olduğu kadar  artırılarak,  absorblanan doz azaltılmalıdır.  
+Muhtemel  zararlı ektileri azaltmak  için alınabilecek  önlemler  sık sık idrar çıkma  ve diürezin  ve 
+fekal  atılımın  teşvik  edilmesidir.  
+ 
+Eliminasyon   normal   hemolitik   prosese  bağlı   olduğundan,  teknesyum -99m  ile  işaretlenmiş  
+kırmızı kan hücrelerinin  doz aşımı  durumunda  yürütülebilecek destekleyici tedavi  çok azdır.  
+ 
+Kazayla yükse k dozda  sodyum  perteknetat  (99mTc) uygulanmasından sonra  derhal  sodyum  
+perklorat  verildiğinde, tiroid,  tükrük bezi ve gastrik  mukozadaki  tutulum  önemli  ölçüde  
+azaltılabilir.  
+ 
+5. FARMAKOLOJİK  ÖZELLİKLER 
+ 
+5.1 Farmakodinamik  özellikler  
+Farmakoterapötik grup : Diagnostik  Radyofarmasötik 
+ATC  Kodu : V09FX01  
+ 
+Normal  doz sınırlarında  uygulandığında  herhangi  bir farmakodinamik etki beklenmemektedir.  
+ 
+ 
+5.2 Farmakokinetik özellikler  
+ 
+Dağılım  : 
+Perteknetat  iyonu, iyot ve perklorat  iyonları  ile benzer  biyolojik dağılım  özelliklerine  sahiptir.  
+Geçici  olarak  tükürük bezlerinde,  koroid pleksusta,  midede (gastrik  mukozada), tiroid  bezinde  
+tutulur  ve buralardan değişmemiş  şekilde  salınır.  Özellikle  bloke  edici  maddeler  ile ön 
+uygulama  sonucu glandüler  yapılarda  tutulum  inhibe  edildiğinde,  perteknetat  iyonu  
+damarlanmanın  arttığı veya anormal  damar  geçirgenliği  olan bölgelerde  yoğunlaşma  eğilimi 
+gösterir.  99mTc seçici  olarak  beyin omurilik  sıvısından atılır.  
+ 
+İntravenöz   uygulamayı   takiben,  perteknetat   (99mTc)  vasküler   sistem   boyunca   dağıtılır  ve 
+buradan üç  ana mekanizma ile temizlenir: 
+• interstisyel sıvılarla difüzyon dengesine  bağlı  olarak  hızlı uzaklaştırma,  
+• glandüler  dokulardaki  (başlıca iyonik  pompa  mekanizması  olan tiroid,  tükrük and gastrik  
+fundus  bezleri) perteknetat  konsantr asyonuna  bağlı  olarak  orta hızlı uzaklaştırma,  
+• idrar atılım  hızına  bağlı  olarak, böbreklerde glomerüler  filtrasyon  ile yavaş  uzaklaştırma.  10  Biyotransformasyon :  
+Teknesyum  vücuttan büyük bir  oranda metabolize olmadan direkt  olarak  atılmaktadır.  
+ 
+Eliminasyon  : 
+Uygulamayı  takiben  ilk 24 saat içindeki  atılım  başlıca idrarla  (yaklaşık  % 25) ve sonraki  48 
+saatte ise dışkıyla  meydana  gelmektedir. Uygulanan aktivitenin  yaklaşık  % 50’si  ilk 50 saat 
+içinde atılır.  
+ 
+Bloke  edici  ajanlar  kullanılarak  uygulama  öncesi  glandüler  yapılardaki  seçici  (99mTc) 
+perteknetat  tutulumu  inhibe  edildiğinde, atılım  aynı yolu izler ancak  böbrekler  yoluyla  
+uzaklaştırma  oranı  yüksektir. 
+ 
+Uygulama  öncesi  kırmızı kan hücrelerinde  “kalay  yüklenmesine”  neden olan kalay/medronat  
+gibi indirgen maddeler  verildiğinde  perteknetat  (99mTc), uygulanan aktivitenin  yaklaşık % 95 
+kadarı  kırmızı kan hücreleri  tarafından  alınır  ve burada  hücre  içinde  bağlı  hale gelir.  
+Bağlanmamış  herhangi  bir perteknetat  (99mTc) böbrekler  aracılığıyla  atılır; plazmadaki  
+radyoaktivite normalde  intravasküler  aktivitenin  % 5’ten  azını  teşkil  etmektedir.  
+ 
+Teknesyum -99m’in  akıbeti  işaretlenmiş  eritrositlerinki ile aynıdır  ve aktivite  çok yavaş 
+temizlenmektedir.  Dolaşımdaki  kırmızı kan hücrelerinden  küçük  miktarda  aktivenin elüe 
+olduğu düşünülmektedir.  
+ 
+Yarılanma ömrü  
+Plazma klirensi  yaklaşık  3 saatlik  yarılanma ömrüne  sahiptir.  
+ 
+Doğrusallık/Doğrusal  Olmayan  Durum  : 
+Teknesyum -99m’  in etkisinin  doz ile doğrusal  bir ilişkisi bulunmamaktadır.  
+ 
+5.3 Klinik  öncesi  güvenlilik verileri  
+ 
+Tek doz veya tekrarlanan  dozlarda  akut, subakut  ve kronik toksisitesi  hakkında  bilgi yoktur.  
+Diyagnostik  amaçla uygulanacak  99mTc sodyum  perteknetat  miktarı çok küçüktür  ve allerjik  
+reaksiyonlardan başka  advers  reaksiyon rapor edilmemiştir.  
+ 
+Üreme Toksisitesi  
+Sodyum  perteknetatın  intravenöz  uygulamayı  takiben plasentaya geçişi  farelerde  çalışılmıştır.  
+Eğer uygulama  öncesinde  perklorat  uygulanmazsa  99mTc hamile  uygulanan dozun % 60’ından 
+fazla uterusunda bulunur. Çalışmalar hamile farelerin  gebeliği  sırasında tama mlanmış,  gebelik  
+ve laktasyon ve sadece laktasyonda  yavrunun ağırlığında  değişim, tüy dökülmesi  ve sterilitede  
+değişiklik   görülmüştür.  
+ 
+6. FARMASÖTİK  ÖZELLİKLER 
+ 
+6.1. Yardımcı maddelerin listesi  
+Radyonüklid jeneratörde kullanılan  yardımcı  maddeler:  
+%0.9 Sodyum  klorür çözeltisi  
+Alüminyum  oksit (cam  kolon içinde)  
+Nitrik  asit 
+Enjeksiyonluk su  
+Sodyum  hidroksit  11  6.2. Geçimsizlikler  
+ 
+Geçimlilik  çalışmalarının  bulunmadığı  durumlarda, bu tıbbi ürün enjeksiyonluk sodyum  
+klorür  9 mg/ml  (0.9%) çözeltisi hariç,  diğer  tıbbi ürünler le karıştırılmamalıdır.  
+ 
+99mTc hem indir geyici hem de yüksel tgeyici ajanlarla geçimsizdir. Yüks eltgeyici 
+ajanların bulunm ası in vivo kitlerin işare tleme verimini düşür ebilir.  İndirgeyici ajanların 
+bulunm ası ise molibdenin kolonda  tutulmasına ve buna  bağlı olarak 99mTc aktivite sinin 
+azalmasına neden olabilir.  
+Eluatta  molibden ve aluminyum safsızlıklarına neden olduğu için kolonların kuvve tli 
+asit veya bazlarla temasından kaçınılm alıdır.  
+ 
+6.3. Raf ömrü  
+ 
+99mTc sodyum   perteknetat   çözeltisi   sağım   tarih   ve saatin den itibaren  12 saat 
+kullanıma  uygundur.  
+ 
+Radyonüklid jeneratör  için  kullanma  süresi   üretim   tarihinden   itibaren   15 gündür. Bu süre 
+sonunda  da radyonüklid jeneratörden  Mo-99 aktivite düzeyine  göre değişen miktarlarda Tc- 
+99m perteknetat  elde  edilebilir.  Ancak  son kullanma  tarihi sonrası  eluat  kullanılmamalıdır.  
+ 
+Kit ile  işaretlendikten   sonraki   kullanım   süresi   işaretli   ürün  kullanım   süresi   de  dikkate  
+alınarak,  kısa olana  göre belirlenmelidir.  
+ 
+6.4. Saklamaya yönelik  özel  tedbirler  
+ 
+TECHNEKAM BHR  99Mo/99mTc RADYONÜKLİD JENERATÖR özel dizayn edilmiş,  
+kurşun zırhı da içeren  ambalajı  içerisinde 25 °C’nin altındaki  oda sıcaklığında 
+saklanmalıdır.  Sağım  sonrası  elde  edilen eluat  25 °C’nin altındaki  oda sıcaklığında  
+saklanmalıdır.  
+ 
+6.5. Ambalajın niteliği ve içeriği  
+ 
+Ambalajın  yapısı:  Zırhlanmış  jeneratör  plastik  kap içine  konur, sonra  strafor  dolgu maddeleri  
+ile desteklenerek  kutu içine  yerleştirilir ve kapatılıp mühürlenir. 
+Bir jeneratör seti içeriği:  
+- Özel ambalajında 1 (bir)  adet 99Mo/99mTc radyonüklid jenerat ör 
+- Karton  kutu ambalajında sekiz  (8) adet  %0.9’luk NaCl  çözeltisi  içeren  flakon, 
+- Karton  kutu içinde sekiz (8) adet  Vakumlu  flakon,  
+- 8 adet  (99mTc) Sodyum  Perteknetat  çözeltisi  etiketi  
+- Sekiz  (8) adet  İzopropil  alkol (%70) içeren  mendil  
+ 
+6.6. Beşeri  tıbbi  üründen arta kalan  maddelerin imhası ve diğer  özel önlemler  
+ 
+Radyofarmasötikler  belirlenmiş  klinik  ortamlarda  sadece yetkili kişiler  tarafından  teslim  
+alınmalı,  kullanılmalı  ve uygulanmalıdır. Teslim  alınmaları,  saklanmaları,  kullanım,  transfer 
+ve imha edilmeleri mevzuat ve/veya  yetkili resmi organizasyonların  uygun lisanslarına  
+tabidir.  
+ 
+Radyofarmasötikler  hem radyasyon güvenliği  hem de farmasötik  kalite  gerekliliklerini  12  yerine  getirecek  şekilde  hazırlanmalıdır.  Uygun aseptik  önlemler  alınmalıdır.  
+ 
+Radyofarmasötik uygulanması, dış radyasyon veya idrar dökülmesi, kusma  vb. nedenleri  
+ile bulaşma  yüzünden diğer  kişiler  için risk oluşturur. Bu nedenle  ulusal  mevzuata uygun  
+olarak, radyasyondan korunma önlemleri alınmalıdır.  
+ 
+Jeneratör  ve kullanılan  vakumlu  şişeler  ve diğer atıklar radyoaktif  özellikte  olduğundan, ‘ Atık 
+Yönetimi   Yönetmeliği’    ve   Türkiye    Atom    Enerjisi   Kurumu’nun   “Radyoaktif    Madde 
+Kullanımından Oluşan  Atıklara  İlişkin  Yönetmelik”  kurallarına  uygun olarak  atıklar bertaraf  
+edilmelidir.  
+ 
+Radyoaktif  materyal  taşınması  ile ilgili standart  güvenlik önlemleri alınmalıdır.  Kullandıktan  
+sonra, radyofarmasötik hazırlanması  ve uygulanması  ile ilgili tüm materyal,  kullanılmamış  ürün 
+ve kabı dahil, dekontamine edilmeli veya radyoaktif  atık olarak  muamele  edilerek,  yerel  otorite  
+mevzuatında  belirtilen  şekilde  imha  edilmelidir.  Kontamine  olmuş  materyal  onaylanmış  bir 
+yolla radyoaktif atık olarak  imha  edilmelidir.  
+ 
+Radioaktivite bozunduktan sonra atık imhası  için özel önlem  alınması  gerekmemektedir.  
+ 
+7. RUHSAT SAHİBİ  
+ 
+Kamrusepa -Samyoung  Nükleer Ürünler Medikal  Sanayi  ve Ticaret  A.Ş. 
+Ankara  Üniversitesi  Teknoloji Geliştirme Bölgesi  Gölbaşı  – ANKARA  
+Tel : +90 312 485 6444 
+Faks : +90 312 485 6448 
+e-posta:  info@kamrusepa.com  
+ 
+8. RUHSAT NUMARASI  
+ 
+2014/244 
+ 
+9. İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ  
+ 
+İlk ruhsat tarihi: 18.03.2014 
+Ruhsat  yenileme  tarihi: 
+ 
+10. KÜB’ÜN YENİLENME TARİHİ  13  11. DOZİMETRİ  
+ 
+Teknesyum  (99mTc) bir (99Mo/ 99mTc) jeneratör  vasıtasıyla üretilir ve 140 keV ortalama  enerji  
+ile gama  radyasyon yayarak  ve 6,02 saatlik  yarılanma  ömrü  ile teknesyum -99’a dönüşür.  
+Teknesyum -99, 2,13 x 105 yıllık  uzun yarılanma  ömrü  nedeni  ile stabil  kabul  edilebilir.  
+ 
+Aşağıda  listelenen  veriler  ICRP  (International  Commission  of Radiological  Protecti on, 
+Radiation Dose  to Patients  from Radiopharmaceuticals,  Pergamon  Press,  1998)  Publication  
+80’den alınmıştır.  
+ 
+(i) Uygulama öncesi  bloke  edici  ilaçlar  kullanılmadığında:  
+ 
+Organ  Uygulanan  birim  aktivite  başına  absorblanan  doz (mGy/MBq)  
+ Yetişkin  15 Yaş 10 Yaş 5 Yaş 1 Yaş 
+Böbreküstü  bezi 0.0037  0.0047  0.0072  0.011  0.019  
+Mesane  duvarı  0.018  0.023  0.030  0.033  0.060  
+Kemik  yüzeyi  0.0054  0.0066  0.0097  0.014  0.026  
+Beyin  0.0020  0.0025  0.0041  0.0066  0.012  
+Göğüs  0.0018  0.0023  0.0034  0.0056  0.011  
+Safra  kesesi  0.007 4 0.0099  0.016  0.023  0.035  
+Sindirim  sistemi       
+Mide  duvarı  0.026  0.034  0.048  0.078  0.16 
+İnce bağırsak  0.016  0.020  0.031  0.047  0.082  
+Kalın  bağırsak  0.042  0.054  0.088  0.14 0.27 
+Üst kalın  bağırsak  
+duvarı  0.057  0.073  0.12 0.20 0.38 
+Alt kalın  bağırsak  duvarı 0.021  0.028  0.045  0.072  0.13 
+Kalp 0.0031  0.0040  0.0061  0.0092  0.017  
+Böbrekler  0.0050  0.0060  0.0087  0.013  0.021  
+Karaciğer  0.0038  0.0048  0.0081  0.013  0.022  
+Akciğerler  0.0026  0.0034  0.0051  0.0079  0.014  
+Kaslar  0.0032  0.0040  0.0060  0.0090  0.016  
+Özof agus 0.0024  0.0032  0.0047  0.0075  0.014  
+Overler  0.010  0.013  0.018  0.026  0.045  
+Pankreas  0.0056  0.0073  0.011  0.016  0.027  
+Kırmızı  kemik  iliği 0.0036  0.0045  0.0066  0.0090  0.015  
+Tükrük  bezleri  0.0093  0.012  0.017  0.024  0.039  
+Cilt 0.0018  0.0022  0.0035  0.0056  0.010  
+Dalak  0.0043  0.0054  0.0081  0.012  0.021  
+Testisler  0.0028  0.0037  0.0058  0.0087  0.016  
+Timüs  0.0024  0.0032  0.0047  0.0075  0.014  
+Tiroid  0.022  0.036  0.055  0.12 0.22 
+Uterus  0.0081  0.010  0.015  0.022  0.037  
+Diğer  dokular  0.0035  0.0043  0.0064  0.0096  0.017  
+Efektif  doz (mSv/MBq)  0.013  0.017  0.026  0.042  0.079  
+ 
+(ii) Uygulama öncesi  bloke  edici  ilaçlar kullanıldığında : 
+ 
+Organ  Uygulanan  birim  aktivite  başına  absorblanan  doz (mGy/MBq)  
+ Yetişkin  15 Yaş 10 Yaş 5 Yaş 1 Yaş 
+Böbreküstü  bezi 0.0029  0.0037  0.0056  0.0086  0.016 
+Mesane  duvarı  0.030  0.038  0.048  0.050  0.091  14   
+Kemik  yüzeyi  0.0044  0.0054  0.0081  0.012  0.022  
+Beyin  0.0020  0.0026  0.0042  0.0071  0.012  
+Göğüs  0.0017  0.0022  0.0032  0.0052  0.010  
+Safra  kesesi  0.0030  0.0042  0.0070  0.010  0.013  
+Sindirim  sistemi       
+Mide  duvarı  0.0027  0.0036  0.0059  0.0086  0.015  
+İnce bağırsak  0.0035  0.0044  0.0067  0.010  0.018  
+Kalın  bağırsak  0.0036  0.0048  0.0071  0.010  0.018  
+Üst kalın  bağırsak  
+duvarı  0.0032  0.0043  0.0064  0.010  0.017  
+Alt kalın  bağırsak  duvarı  0.0042  0.0054  0.0081  0.011  0.019 
+Kalp 0.0027  0.0034  0.0052  0.0081  0.014  
+Böbrekler  0.0044  0.0054  0.0077  0.011  0.019  
+Karaciğer  0.0026  0.0034  0.0053  0.0082  0.015  
+Akciğerler  0.0023  0.0031  0.0046  0.0074  0.013  
+Kaslar  0.0025  0.0031  0.0047  0.0072  0.013  
+Özofagus  0.0024  0.0031  0.0046  0.007 5 0.014  
+Overler  0.0043  0.0054  0.0078  0.011  0.019  
+Pankreas  0.0030  0.0039  0.0059  0.0093  0.016  
+Kırmızı  kemik  iliği 0.0025  0.0032  0.0049  0.0072  0.013  
+Cilt 0.0016  0.0020  0.0032  0.0052  0.0097  
+Dalak  0.0026  0.0034  0.0054  0.0083  0.015  
+Testisler  0.0030  0.0040  0.0060  0.0087  0.016  
+Timüs  0.0024  0.0031  0.0046  0.0075  0.014  
+Tiroid  0.0024  0.0031  0.0050  0.0084  0.015  
+Uterus  0.0060  0.0073  0.011  0.014  0.023  
+Diğer  dokular  0.0025  0.0031  0.0048  0.0073  0.013  
+Efektif  doz (mSv/MBq)  0.0042  0.0054  0.0077  0.011  0.019  
+ 
+Uygula nan 800 MBq  sodyum  perteknetat  (99mTc) aktivitesi 10.4 mSv efektif  doza  eşdeğerdir.  
+Hastaya uygulama  öncesi  bloke  edici  maddeler  uygulandığında  ise, 800 MBq  sodyum  (99mTc) 
+perteknetat  uygulaması  4.24 mSv efektif doza  eşdeğerdir.  
+ 
+(iii) Lakrimal  kanal  sintigrafis i için sodyum  (99mTc) perteknetat  uygulamasını  takiben gözün 
+lensi tarafından  absorblanan radyasyon dozu 0.038 mGy/MBq  olarak  hesaplanmıştır.  Bu 
+uygulanan 4 MBq  aktivite için  0.01 mSv’den daha  düşük efektif doza  eşdeğerdir.  
+ 
+Belirtilen  radyasyon maruziyeti  sadece sodyum  (99mTc) perteknetat  biriken  tüm organlar  normal  
+çalıştığı zaman  geçerlidir.  Organların  (örn. tiroid,  gastrik  mukoza  veya böbreklerin)  aşırı veya 
+az çalışması  durumunda  (hiper/hipofonksiyon)  ve kan-beyin bariyerinin  bozulması  veya renal  
+elimi nasyon  bozuklukları  durumunda  uzatılmış  işlemler,  radyasyon maruziyetinde  
+değişikliklere  yol açabilir,  hatta bölgesel  olarak  güçlü artışlara  neden olabilir.  
+ 
+Eksternal  radyasyon maruziyeti  
+ 
+ Jeneratör  yüzeyindeki  Mo99-Tc99m 
+doz oranı  
+(mR/h/GBq)  Jeneratörde n 1 m mesafedeki  
+Mo99-Tc99m doz oranı  
+(mR/h/GBq)  
+54 mm Kurşun  ile zırhlama  2,7 0,2 15  Yüzey  doz oranları  ve birikmiş  doz birçok  faktöre  bağlıdır. Bulunulan konumdaki  ve çalışma sırasındaki  
+ölçüm  çok önemlidir  ve çalışanın  maruz  kaldığı genel  radyasyon  dozunun daha kesin  ve bilgi verici  
+tayini için gerçekleştirilmelidir.  
+ 
+12. RADYOFARMASÖTİKLERİN HAZIRLANMASINA YÖNELİK  TALİMATLAR 
+ 
+Herhangi  bir farmasötik  ürün için olduğu gibi, eğer bu ürün hazırlanırken  herhangi  bir zamanda  
+flakon bütünlüğü bozulmuş  ise ürün kul lanılmamalıdır.  
+ 
+TECHNEKAM  BHR  99Mo/99mTc RADYONÜKLİD JENERATÖR’den  herhangi  bir 
+zamanda  sağım  işlemi  yapılabilmesine  karşın  elüattan  elde edilecek  99mTc miktarı son 
+sağım  ile ilk sağım  arasında geçen  zamana bağlıdır.  
+ 
+Sağım  sonrası  elde edilen  99mTc sodyu m perteknetat  elüatı  kurşun zırh içinde  saklanmalıdır.  
+Bu koşullarda  elüat;  sağım  tarih ve saatinden  itibaren  25ºC’nin altındaki  sıcaklıklarda  12 saat 
+kullanıma  uygundur. Kullanılmayan  kısımların  ve kullanım  sonrası  oluşan atıkların  
+“Radyoaktif  Madde  Kulla nımından Oluşan  Atıklara  İlişkin  Yönetmelik”  kapsamında  
+değerlendirilmesi  gerekmektedir.  
+ 
+Hazırlama yöntemi  
+Radyofarmasötikler  kullanıcı  tarafından  hem radyasyon güvenliği  hem de farmasötik  kalite  
+gerekliliklerini karşılayacak  şekilde  hazırlanmalıdır.  Rady ofarmasötikler  için İyi Farmasötik  
+Üretim  Uygulamaları gerekliliklerine  uygun aseptik önlemler alınmalıdır.  
+ 
+TECHNEKAM   BHR    99Mo/99mTc   RADYONÜKLİD  JENERATÖR   Kullanma   (Sağım)  
+talimatı: 
+Güvenli  taşıma  
+Jeneratörün  güvenli  kaldırma  ve taşımasına dikka t edilmelidir.  Elle taşıma faaliyetlerinden  
+kaynaklanacak  yaralanma riskini azaltmak  için lokal  elle taşıma  işlemleri mevzuatı  gözden 
+geçirilmelidir.  
+ 
+Sağım  talimatları 
+Sağım  yapılan tesisler  radyolojiklerin  güvenli  taşınması  ile ilgili mevzuata  uymalıdır.  Jeneratör  
+sağım  çözeltisinin  sterilitesini garanti  etmek  üzere,  jeneratörün  sağımı  sırasında kurallara  uygun  
+özel aseptik  teknikler kullanılmalıdır.  
+Yetersiz performansı  önlemek için  aşağıdaki  sağım  basamaklarına  uyulması gerekmektedir.  
+ 
+İlk sağım  
+Jenerat öründen steril,  izotonik 99mTc sodyum  perteknetat  çözeltisi  elde etmek  için sağım  
+işlemlerini aşağıda anlatıldığı şekilde  yapınız.  Sağım  işlemlerinde  yol gösterici  olması  
+amacıyla  jeneratör sağım işlemi  Şekil  1’de şematize edilmiştir.  
+ 
+1. TECHNEKAM BHR  99Mo/99mTc RADYONÜKLİD JENERATÖR ve %0.9NaCl  
+içeren  şişeler  ile vakumlu şişeler  aseptik  şartlarda  hazırlanmış olup elde edeceğiniz  
+perteknetat  çözeltisi  steril ve izotoniktir.  
+2. Ürün  ve kendi  güvenliğiniz  için sağım işleminde  aseptik  çalışma kurallarına uyunuz.  
+3. İşleme  başlamadan  önce maske ve steril tek  kullanımlık  eldiven giyiniz.  
+4. Jeneratör  ve beraberindeki  malzemeleri  ambalajından çıkarınız.  TECHNEKAM  BHR 
+99Mo/99mTc RADYONÜKLİD JENERATÖR’ü  LAF içinde  kurşun  zırh arkasına  
+yerleştiriniz.  Siz ilk sağım  için hazır  olmadan  önce iğnelerin  koruyucu kılıfını  
+çıkarmayınız . 16  5. İstenilen  hacimde %0.9 enjeksiyonluk  NaCl  çözeltisi  içeren  şişeyi  alınız.  
+6. % 0.9 enjeksiyonluk NaCl  çözeltisi  içeren  şişenin  lastik  tapasını  jeneratör  seti içinde  size 
+temin  edilen  % 70’lik  izopropil  alkollü mendil  ile siliniz  ve kurumasını  bekleyiniz. 
+7. Jeneratörün  kapağını  kaldırarak  iğneyi  koruyan kılıfı çıkarınız.  
+8. % 0.9 NaCl  çözeltisini  içeren  şişeyi  şekilde  gösterildiği  yere yerleştiriniz.  
+9. Bir vakumlu  sağım  şişesi  alınız  ve lastik  tapasını  % 70’lik  izopropil  alkollü mendil  ile siliniz  
+ve kurumasını  bekleyiniz. Sağım  şişesini  kurşun zırhına  koymadan  önce  zırhın  şişeyle  
+temas eden yüzeylerini  % 70’lik  izopropil  alkollü mendil  ile siliniz.  Sağım şişesini  iğneye  
+yerleştirmek  üzere hazır  olmadan önce sağım  iğnesini  koruyan kılıfı çıkarmayınız . 
+10. İğne koruyucu kılıfı çıkarınız  ve sağım  şişesini  içeren  kurşun koruyucu zırhı şekilde  
+gösterildiği yere yerleştiriniz.  İğne sağım  şişesi  kurşun zırhı üzerindeki  iğne deliğe  
+oturmalıdır.  Aksi takdirde  iğne hasar  görebili r veya kırılabilir.  Şişenin  sağım  iğnesine  
+tam olarak  oturduğundan  emin  olmak  için aşağı  bastırınız.  
+11. Vakumlu  şişe yerleştirildikten  sonra  jeneratörden  sağım  işlemi  gerçekleşir  ve perteknatat  
+çözeltisi  vakumlu şişede toplanır.  % 0.9 enjeksiyonluk NaCl  çözel tisini  içeren  şişede hava  
+kabarcıkları  oluşabilir ve bu şişedeki  çözelti  hacmi  gitgide azalır.  
+12. Tüm %0.9  NaCl  çözeltisi  bittikten  sonra  vakumlu şişeyi  çıkarmadan  önce sağımın  
+tamamlanması  için en az 3 dakika  bekleyiniz. Sağım  tamamlanmadan  önce  % 0.9 
+enjeksiyonluk  NaCl  çözeltisini  içeren  şişeyi  veya sağım  şişesini  çıkarmayınız.  
+13. Boşalan  %0.9 NaCl  şişesini  hareket  ettirmeden  başka  bir vakumlu şişeyi  şekilde  
+gösterildiği konuma  yerleştiriniz.  Böylece iğnenin sterilitesi korunmuş  olacaktır,  
+14. Sağım  şişesi,  sağım  iğnesine  zarar  vermeden yavaşça çıkarılır.  Kurşun zırh üzerine,  sağım  
+aktivitesini,  çözelti  hacmini  ve sağım  saatini  yazdığınız  etiketi yapıştırınız.  
+15. Sağım  şişesi  çıkarıldıktan   sonra,  sağım   iğnesine   koruyucu  kılıfı  yerleştirilerek  
+sterilite   korunmuş  olur.  
+16. Steriliteyi  korumak  için bir sonraki  sağıma  kadar  boşalan  % 0.9 enjeksiyonluk NaCl  şişesi  
+yerinde bırakılır.  
+ 
+Sonraki sağımlar  
+İstenen   hacimde   yeni  temizlenmiş   %  0.9  enjeksiyonluk  NaCl   şişesi   ve  bir  sağım   şişesi  
+kullanılarak  yukarıdaki  işlem basamakları  1-16 tekrarlanır.  
+ 
+Jeneratörden  alınan  99mTc sodyum  perteknetat  yapılacak  işleme  uygun miktarlarda  alınarak  
+hastalara damar içine enjeksiyon veya göze damlatılarak  uygulanır  ve sintigrafi yapılır.  
+ 
+Hasta  dozu  Tablo   3  ve  Tablo   4’de  verilen  faktörler  kullanılarak   hesaplanır   ve  hastaya 
+uygulanmadan önce radyoaktivite değeri  ölçülür.  
+ 
+Tüm parenteral  uygulanacak preperatlarda  olduğu  gibi, hastaya uygulanmadan önce 99mTc 
+sodyum  perteknetat  çözeltisini  fiziksel  olarak  kontrol  ediniz. Rengi değişmiş  ya da partikül  
+içeren  çözeltiyi  hastaya uygulamayınız. 
+ 
+Sağım  aktivitesi ve  teknesyum -99m verimi  
+TECHNEKAM  BHR  99Mo/99mTc RADYONÜKLİD  JENERATÖR  kolona  yüklenen  
+molibden miktarına  dayanarak  kalibre  edilir.  Herhangi  bir zamanda  mevcut  olan 
+tekne syum -99m miktarı referanstan  önce veya sonraki  zamana  (99Mo bozunması  
+nedeniyle), önceki  sağımdan  sonra  geçen  süreye  (99mTc “oluşumu”  nedeniyle)  ve 99Mo 
+bozunma  özelliklerine  (tüm bozunmanın % 86.2’si  99mTc verir) bağlıdır. Tablo  1 – 3’de 
+listelenen  faktör ler kullanarak  aşağıda  anlatılan  yöntemle  mevcut  99mTc aktivitesi  
+hesaplanabilir. 17  Öncelikle,  bildirilen  referans aktivite  Tablo  1’deki  (99Mo bozunma  tablosu)  uygun faktör  ile 
+çarpılır.  Ardından sonuç  Tablo  3’deki  (99mTc oluşumu ve 99Mo bozunma  özellikleri ni hesaba 
+katan)  uygun faktör  ile çarpılır veya eğer bir defa sağım  yaptıysanız, jeneratörü  günde  bir defa 
+sağım  yapıyorsanız  doğrudan Tablo  4’ü kullanabilirsiniz.  Herhangi  bir zamandaki  sağım  
+aktivitesini hesaplamak  için Tablo  2’yi kullanabilirsiniz  (99mTc bozunma  tablosu).  
+ 
+Gerçek  99mTc verimi jeneratörler arasındaki  sağım  verimliliğindeki değişkenliğe  bağlı  olarak  
+biraz  değişebilir.  Mevcut  99mTc aktivitesi Genellikle % 90’dan daha düşük olmamalıdır.  
+ 
+  
+ 
+ 
+Şekil  1: TECHNEKAM  BHR 99Mo/99mTc RADYONÜKLİD  JENERATÖR sağım  şeması  18  Tablo  1:  99Mo Bozunma Tablosu (99Mo Yarılanma  ömrü  66 saat) 
+ 
+t 
+(saat) 0 1 2 3 4 5 6 7 8 9 
+ 
+0 1.0000  0.9896  0.9792  0.9690  0.9589  0.9488  0.9389  0.9291  0.9194  0.9098  
+10 0.9003  0.8909  0.8816  0.8724  0.8633  0.8542  0.8453  0.8365  0.8278  0.8191 
+20 0.8105  0.8021  0.7937  0.7854  0.7772  0.7691  0.7610  0.7531  0.7452  0.7374  
+30 0.7297  0.7221  0.7146  0.7071  0.6997  0.6924  0.6852  0.6780  0.6709  0.6639  
+40 0.6570  0.6501  0.6433  0.6366  0.6300  0.6234  0.6169  0.6104  0.6040  0.5977  
+50 0.5915  0.5853  0.5792  0.573 1 0.5672  0.5612  0.5554  0.5496  0.5438  0.5381  
+60 0.5325  0.5270  0.5215  0.5160  0.5106  0.5053  0.5000  0.4948  0.4896  0.4845  
+70 0.4794  0.4744  0.4695  0.4646  0.4597  0.4549  0.4502  0.4454  0.4408  0.4362  
+80 0.4316  0.4271  0.4227  0.4182  0.4139  0.4096  0.4053  0.4010  0.3968 0.3927  
+90 0.3886  0.3845  0.3805  0.3765  0.3726  0.3687  0.3649  0.3611  0.3573  0.3536  
+100 0.3499  0.3462  0.3426  0.3390  0.3355  0.3320  0.3285  0.3251  0.3217  0.3183  
+ 
+Tablo 2:  99mTc Bozunma Tablosu (99mTc Yarılanma  ömrü  6,02 saat)  
+ 
+ 
+Dk 
+Sa 0 6 12 18 24 30 36 42 48 54 
+0 1.0000  0.9885  0.9772  0.9660  0.9549  0.9439  0.9331  0.9224  0.9118  0.9014  
+1 0.8910  0.8808  0.8707  0.8607  0.8508  0.8411  0.8314  0.8219  0.8124  0.8031  
+2 0.7939  0.7848  0.7758  0.7669  0.7581  0.7494  0.7408  0.7323  0.7239  0.7156  
+3 0.7074  0.6993  0.6913  0.6833  0.6755  0.6677  0.6601  0.6525  0.6450  0.6376  
+4 0.6303  0.6231  0.6159  0.6089  0.6019  0.5950  0.5881  0.5814  0.5747  0.5681  
+5 0.5616  0.5552  0.5488  0.5425  0.5363  0.5301  0.5240  0.5180  0.5121  0.5062  
+6 0.5004  0.4947  0.4890  0.4834  0.4778  0.4723  0.4669  0.4616  0.4563  0.4510 
+7 0.4459  0.4408  0.4357  0.4307  0.4258  0.4209  0.4160  0.4113  0.4066  0.4019  
+8 0.3973  0.3927  0.3882  0.3838  0.3794  0.3750  0.3707  0.3664  0.3622  0.3581  
+9 0.3540  0.3499  0.3459  0.3419  0.3380  0.3341  0.3303  0.3265  0.3228  0.3191  
+10 0.3154  0.3118  0.3882  0.3047  0.3012  0.2977  0.2943  0.2909  0.2876  0.2843  
+11 0.2810  0.2778  0.2746  0.2715  0.2684  0.2653  0.2622  0.2592  0.2562  0.2533  
+12 0.2504  0.2475  0.2447  0.2419  0.2391  0.2364  0.2337  0.2310  0.2283  0.2557  
+ 
+Tablo  3: Önceki  sağımları takiben çeşitli  zamanlardaki  99mTc oluşumunu hesaba katan  faktörler 
+(99mTc Yarılanma  ömrü  6,02 saat) 
+ 
+Saat Faktör  Saat Faktör  Saat Faktör  Saat Faktör  Saat Faktör  Saat Faktör  
+1 0.094  9 0.579  17 0.788  25 0.879  33 0.918  41 0.935  
+2 0.179  10 0.615  18 0.804  26 0.884  34 0.921  42 0.937  
+3 0.256  11 0.648 19 0.818  27 0.892  35 0.924  43 0.938  
+4 0.324  12 0.678  20 0.831  28 0.898  36 0.926  44 0.940  
+5 0.386  13 0.705  21 0.843  29 0.903  37 0.929  45 0.941  
+6 0.442  14 0.729  22 0.853  30 0.907  38 0.930  46 0.941  
+7 0.492  15 0.751  23 0.863  31 0.911  39 0.932  47 0.941  
+8 0.538  16 0.771  24 0.871  32 0.915  40 0.934  48 0.942  19  Tablo 4: 99m Tc Aktivite  Tabloları  
+TECHNEKAM BHR 99Mo/99mTc RADYONÜKLİD JENERATÖRLERİNDEN  ELDE 
+EDİLEBİLECEK  99mTc AKTİVİTELERİ TABLOSU  
+ 
+ 
+ 
+Günler  TechneKam  BHR 5 TechneKam  BHR 7,5 TechneKam  BHR 10 TechneKam  BHR 12,5 TechneKam  BHR 15 
+mCi MBq mCi MBq mCi MBq mCi MBq mCi MBq 
+-4  328 12129  492 18194  656 24258  820 30323  983 36387  
+-3  275 10185  413 15277  551 20370  688 25462  826 30554  
+-2  215 7963 323 11945  430 15926  538 19908  646 23889  
+-1  167 6192 251 9288 335 12384  418 15480  502 18575  
+0 Kal. 130 4813 195 7219 260 9625 325 12031  390 14437  
+1  101 3740 152 5610 202 7481 253 9351 303 11221  
+2  79 2907 118 4360 157 5814 196 7267 236 8721 
+3  61 2259 92 3389 122 4519 153 5648 183 6778 
+4  47 1756 71 2634 95 3512 119 4390 142 5268 
+5  37 1365 55 2047 74 2729 92 3412 111 4094 
+6  29 1061 43 1591 57 2121 72 2652 86 3182 
+7  22 824 33 1237 45 1649 56 2061 67 2473 
+8  17 641 26 961 35 1281 43 1602 52 1922 
+9  13 498 20 747 27 996 34 1245 40 1494 
+10  10 387 16 581 21 774 26 968 31 1161 
+11  8 301 12 451 16 602 20 752 24 902 
+ 
+ 
+ 
+Günler  TechneKam  BHR 17,5 TechneKam  BHR 20 TechneKam  BHR 22,5 TechneKam  BHR 25 TechneKam  BHR 27,5 
+mCi MBq mCi MBq mCi MBq mCi MBq mCi MBq 
+-4  1147 42451  1311 1570691  1475 54580  1639 60645 1803 66709  
+-3  826 30554  1101 1130495  1239 45831  1376 50924  1514 56016  
+-2  646 23889  861 883883  968 35833  1076 39815  1184 43796  
+-1  502 18575  669 687285  753 27863  837 30959  920 34055  
+0 Kal. 390 14437  520 534181  585 21656  650 24062  715 26469  
+1  303 11221  404 415168  455 16831  505 18701  556 20572  
+2  236 8721 314 322670  354 13081  393 14535  432 15988  
+3  183 6778 244 250780  275 10167  305 11296  336 12426  
+4  142 5268 190 194907  214 7902 237 8780 261 9658 
+5  111 4094 148 151483  166 6141 184 6824 203 7506 
+6  86 3182 115 117733  129 4773 143 5303 158 5834 
+7  67 2473 89 91502  100 3710 111 4122 123 4534 
+8  52 1922 69 71116  78 2883 87 3203 95 3524 
+9  40 1494 54 55271  61 2241 67 2490 74 2739 
+10  31 1161 42 42957  47 1742 52 1935 58 2129 
+11  24 902 33 33386  37 1354 41 1504 45 1654   
+ 
+Günler  TechneKam  BHR 30 TechneKam  BHR 32,5 TechneKam  BHR 35 TechneKam  BHR 37,5 TechneKam  BHR 40 
+mCi MBq mCi MBq mCi MBq mCi MBq mCi MBq 
+-4  1967 72774  2131 78838  2295 84903  2459 90967  2622 97032  
+-3  1652 61108  1789 66201  1927 71293  2064 76386  2202 81478  
+-2  1291 47778  1399 51759  1507 55741  1614 59723  1722 63704  
+-1  1004 37151  1088 40247  1171 43343  1255 46439  1339 49535  
+0 Kal. 780 28875  845 31281  910 33687  976 36094  1041 38500  
+1  607 22442  657 24312  708 26182  758 28052  809 29922  
+2  471 17442  511 18895  550 20349  589 21802  629 23256  
+3  366 13556  397 14685  427 15815  458 16945  488 18074  
+4  285 10536  308 11414  332 12292  356 13170  380 14048  
+5  221 8188 240 8871 258 9553 277 10235  295 10918  
+6  172 6364 186 6894 201 7425 215 7955 229 8485 
+7  134 4946 145 5358 156 5770 167 6183 178 6595 
+8  104 3844 113 4164 121 4485 130 4805 139 5126 
+9  81 2988 87 3237 94 3486 101 3735 108 3984 
+10  63 2322 68 2516 73 2709 78 2903 84 3096 
+11  49 1805 53 1955 57 2105 61 2256 65 2406 
+ 
+ 
+ 
+Günl er TechneKam  BHR 42,5 TechneKam  BHR 45 TechneKam  BHR 47,5 TechneKam  BHR 50 TechneKam  BHR 55 
+mCi MBq mCi MBq mCi MBq mCi MBq mCi MBq 
+-4  2786 103097  2950 109160  3114 115225  3278 121289  3606 133419  
+-3  2340 86570  2477 91662  2615 96755  2753 101847  3028 112032 
+-2  1829 67686  1937 71667  2045 75648  2152 79630  2367 87593  
+-1  1422 52631  1506 55726  1590 58822  1673 61918  1841 68110  
+0 Kal. 1106 40906  1171 43312  1236 45719  1301 48125  1431 52937  
+1  859 31793  910 33663  960 35533  1011 37403  1112 41143  
+2  668 2470 9 707 26163  746 27616  786 29070  864 31977  
+3  519 19204  550 20334  580 21463  611 22593  672 24852  
+4  403 14926  427 15803  451 16681  475 17559  522 19315  
+5  314 11600  332 12282  350 12965  369 13647  406 15012  
+6  244 9016 258 9546 272 10076  287 10607  315 11667  
+7  189 7007 201 7419 212 7831 223 8244 245 9068 
+8  147 5446 156 5766 165 6087 173 6407 190 7048 
+9  114 4233 121 4481 128 4730 135 4979 148 5477 
+10  89 3290 94 3483 99 3677 105 3870 115 4257 
+11  69 2557 73 2707 77 2857 81 3008 89 3309 
+ 
+ 
+ 
+Kalibrasyon tarihinde ve saat 09:00’da Tc-99m aktivitesi (GBq)  

@@ -1,0 +1,717 @@
+1/16  KISA  ÜRÜN  BİLGİSİ  
+ 
+1. BEŞERİ  TIBBİ  ÜRÜNÜN  ADI 
+TEMODAL  250 mg Sert kapsül 
+Sitotoksik  
+2. KALİTATİF  VE KANTİTATİF  BİLEŞİM  
+ 
+Etkin  madde:  
+Temozolomid  ................................ ..250 mg 
+ 
+Yardımcı  maddeler:  
+Anhidr  laktoz  (sığırdan  elde edilir)..154,3  mg 
+Yardımcı maddeler için 6.1’e bakınız.  
+3. FARMASÖTİK  FORM  
+Sert kapsül.  
+Sert kapsüller  opak beyaz  gövdeli ve  opak  beyaz kapaklı olup,  siyah mürekkep  ile yazılmıştır.  
+ 
+4. KLİNİK ÖZELLİKLER  
+ 
+4.1. Terapötik  endikasyonlar  
+TEMODAL,  birinci  basamakta  yeni tanı konmuş  glioblastoma  multiforme  tedavisinde 
+radyoterapi ile birlikte ve sonrasında endikedir.  
+ 
+TEMODAL,  standart  tedaviden  sonra  nükseden  veya  progresyon  gösteren  glioblastoma  
+multiforme veya anaplastik astrositoma gibi malign glioma hastalarında endikedir.  
+ 
+TEMODAL,  metastatik  malign  melanomlu  hastaların  tedavisinde  endikedir.  
+4.2. Pozoloji  ve uygulama  şekli  
+Pozoloji/uygulama  sıklığı  ve süresi:  
+TEMODAL sadece beyin tümörleri konusunda uzman doktorlar tarafından reçetelendirildiği 
+zaman kullanılmalıdır.  
+ 
+TEMODAL yemekten en az bir saat önce, aç karnına verilmelidir. Uygulamadan önce veya  
+sonra antiemetik tedavisi uygulanabilir.  
+ 
+TEMODAL  tedavisi  hastalığın  ilerlemesine  kadar  maksimum  2 yıl sürdürülebilir.  
+ 
+Yeni  teşhis  edilen  glioblastoma  multiformeli  erişkin  hastalar:  
+ 
+Eşzamanlı  faz: 
+TEMODAL, radyoterapi (30 fraksiyonda verilen 60 Gy) ile eşzamanlı olarak, 42 gün süreyle 
+günde 75 mg/m2 dozunda ve takibinde 6 kür adjuvan tedavi olarak oral yoldan verilir. Doz 
+azaltılması önerilmez; ama hastanın toleransına göre  doza ara  verilebilir. Aşa ğıdaki koşulların 
+tümü sağlanır ise, TEMODAL ile eş zamanlı dönem 42 günden 49 güne kadar sürdürülebilir:  
+− mutlak  nötrofil sayısı  ≥ 1,5 x  109 /l; 
+− trombosit sayısı ≥ 100 x  109 /l; 
+− genel toksisite kriterleri (CTC) hematolojik olmayan toksisite ≤evre 1 (alopesi, bulantı ve 
+kusma dışında).  2/16  Tedavi sırasında her hafta tam kan sayımı yapılmalıdır. Eşzamanlı fazdaki TEMODAL 
+dozuna, Tablo 1’de belirtilen hematolojik ve hematolojik olmayan toksisite kriterlerine göre 
+ara verilmeli veya doz kesilmelidir.  
+Tablo  1 Eşzamanlı  TEMODAL  ve Radyoterapi  Sırasında  TEMODAL  Dozuna  Ara 
+Verilmesi veya Dozun Kesilmesi  
+Toksisite  TMZ  Dozuna  Ara Verilira TMZ  Dozu  Kesilir  
+Mutlak  Nötrofil Sayısı  0,5 ve <1,5 x 109/l <0,5 x 109/l 
+Trombosit  Sayısı  10 ve <100 x 109/l <10 x 109/l 
+CTC  Hematolojik -Olmayan  Toksisite 
+(alopesi, bulantı ve kusma dışında)  CTC Evre  2 CTC  Evre  3 veya  4 
+a Eşzamanlı TMZ tedavisi aşağıdaki durumların tümü sağlandığı takdirde sürdürülebilir: 
+mutlak nötrofil sayısı 1,5 x 109/l; trombosit sayısı 100 x 109/l; CTC hematolojik olmayan 
+toksisite evre 1 (alopesi, bulantı ve kusma dışında).  
+TMZ  = TEMODAL; CTC  = Ortak Toksisite  Kriterleri.  
+Adjuvan Faz  (monoterapi)  
+TEMODAL + Radyoterapi fazı tamamlandıktan 4 hafta sonra, TEMODAL adjuvan tedavi 
+olarak 6 kür  daha  uygulanır.  1. kürdeki doz  (adjuvan)  5 gün süreyle  günde  bir defa 150 mg/m2 
+verilmesini takiben 23 gün tedavi  uygulanmamasıdır. 2. kürün başlangıcında, eğer 1. kür için 
+CTC hematolojik -olmayan toksisite evre ≤2 (alopesi, bulantı ve kusma dışında), mutlak 
+nötrofil sayısı (ANC) ≥  1,5 x 109/l ve trombosit sayısı  ≥ 100 x 109/l ise doz 200 mg/m2 ’ye 
+yükseltilir. 2. kü rde doz yükseltilmemişse sonraki kürlerde doz yükseltilmemelidir. Toksisite 
+oluşmazsa, sonraki her kürün ilk 5 günü için günlük doz 200  mg/m2 olarak kalır. Adjuvan faz 
+sırasındaki doz azaltmaları Tablo 2 ve 3 ’e göre uygulanmalıdır.  
+ 
+Tedavi sırasında 22. günde tam kan sayımı yapılmalıdır (ilk TEMODAL dozundan 21 gün 
+sonra). TEMODAL dozu Tablo 3 ’e göre azaltılmalı veya kesilmelidir.  
+Tablo  2 Adjuvan  Tedavi  için TEMODAL  Dozu  Düzeyleri  
+Doz Düzeyi  Doz (mg/m2/gün)  Notlar  
+–1 100 Önceki  toksisite  için doz azaltılır  
+0 150 1. kürdeki  doz 
+1 200 Toksisite  yoksa  2-6. kürlerdeki  doz 
+ 
+Tablo  3 Adjuvan  Tedavi  Sırasında  TEMODAL  Dozunun  Azaltılması  ve Kesilmesi  
+Toksisite  TMZ  1 Doz  Düzeyi Azaltılıra TMZ Kesilir  
+Mutlak  Nötrofil Sayısı  <1 x 109/L b 
+Trombosit  Sayısı  <50 x 109/L b 
+CTC  Hematolojik  Olmayan  Toksisite 
+(alopesi, bulantı, kusma dışında)  CTC Evre  3 CTC Evre  4b 
+a  TMZ doz  düzeyleri  Tablo  2’de sıralanmıştır.  
+b Doz 100 mg/m2’ye düşürüldüğünde  halen  kabul  edilemeyen  toksisite  gerçekleşiyorsa, 
+veya dozun azaltılmasında sonra aynı evre 3 hematolojik olmayan toksisite (alopesi, bulantı, 
+kusma dışında) oluşursa  TMZ kesilmelidir.  
+TMZ  = TEMODAL;  CTC =  Ortak Toksisite  Kriterleri.  
+ 
+Nükseden veya progresif glioması veya malign melanomu olan erişkin hastalar: 
+TEMODAL  oral yoldan  28 günde  bir tekrarlanan  kürler  halinde  uygulanır.  Önceden 
+kemoterapi  uygulanmamış  hastalarda  5 gün süreyle  günde  bir defa 200 mg/m2 dozunda  
+verilir.  Önceden  kemoterapi  uygulanmış  hastalarda  başlangıç  dozu  günde  bir defa 150 mg/m2 3/16  olup ikinci kürde eğer hematolojik toksisite yoksa bu doz günde 200 mg/m2’ye yükseltilir. 
+Sonraki kürün birinci gününde mutlak nötrofil sayısının (MNS) 1,5 x 109/l’ye eşit veya 
+bundan büyük olması ve trombosit sayısının 100 x 109/l’ye eşit veya bundan büyü k olması 
+gerekir. Temodal için toksisitiye bağlı doz değişikliklerinin, en düşük mutlak nötrofil ve 
+platelet sayılarına göre yapılması gerekmektedir.  
+ 
+Nükseden veya progresif glioması olan pediyatrik hastalar: Üç yaş ve daha büyük 
+hastalarda TEMODAL oral y oldan 28 günde bir tekrarlanan kürlerde, 5 gün süreyle 200 
+mg/m2 dozunda verilir.  Önceden kemoterapi uygulanmış pediyatrik hastalarda başlangıç dozu 
+5 gün süreyle günde bir defa 150 mg/m2 olmalı ve hematolojik toksisite yoksa doz bir sonraki 
+kürde 5 gün sü reyle günde bir defa 200 mg/m2’ye yükseltilmelidir.  
+Nükseden veya progresif malign glioma veya malign melanomda doz değişiklikleri için 
+laboratuar  parametreleri:  İlacın  dozunu  ayarlamadan  önce,  aşağıdaki  laboratuar  parametrelerinin 
+mevcut  olması  gerekir:  Mutlak  nötrofil  sayısı  (MNS)  > 1,5 x 109/L ve trombosit  ≥ 100 x 109/L. 
+22. günde (ilk dozdan 21 gün sonra) veya bu günü takiben 48 saat içinde tam kan sayımı 
+yapılmalıdır ve mutlak nötrofil sayısı 1,5 x 109/L ve trombosit sayısı 100 x 109/L ‘nin üzerine 
+çıkana  dek haftada  bir tekrarlanmalıdır.  Eğer  herhangi  bir tedavi  kürü sırasında  mutlak  nötrofil 
+sayısı < 1,0 x 109/L veya trombosit sayısı < 50 x 109/L altına düşerse, takip eden kürde doz 
+düzeyi  bir basamak  (50 mg/m2) azaltılmalıdır.  Doz düzey  basamakları,100  mg/m2,150 mg/m2 ve 
+200 mg/m2’dir. Önerilen  en düşük doz  100 mg/m2’dir. 
+ 
+Uygulama  şekli:  
+Kapsüller  oral yolla  alınmalıdır.  TEMODAL  verilmesini  takiben  kusma  olursa,  aynı gün 
+içinde ikinci bir doz verilmemelidir.  
+• TEMODAL  aç karnına  alınmalıdır (Yemekten  en az bir saat önce).  
+• Kapsüller  bir bardak su  ile yutulmalıdır.  
+• Kapsüller  açılmamalı  veya  çiğnenmemelidir.  
+• Doz mümkün olan minimum sayıda  kapsül ile  sağlanmalıdır.  
+• Kapsülün  tahrip  olması  halinde,  cilt ya da muköz  membranların  kapsülün  toz içeriği  ile 
+temasından kaçınılmalıdır. Temas olduğu takdirde bölge iyice yıkanmalıdır.  
+Özel  popülasyonlara  ilişkin  ek bilgiler:  
+Böbrek/Karaciğer  yetmezliği:  
+Normal  hepatik  fonksiyonu  olan hastalar  ve hafif  ya da orta dereceli  hepatik  disfonksiyonu 
+olan hastalarda temozolomidin farmakokinetiği karşılaştırılabilir düzeydedir.  
+ 
+Ağır karaciğer fonksiyon bozukluğu olan (Child -Pugh Sınıflaması: Kategori C) veya böbrek 
+fonksiyon bozukluğu olan hastalarda TEMODAL uygulanmasına ilişkin veriler mevcut 
+değildir. Temozolomidin farmakokinetik özelliklerine dayanarak ağır karaciğer bozukluğ u 
+veya herhangi derece böbrek fonksiyon bozukluğu olan hastalarda doz azaltımına gerek 
+duyulmamaktadır. Ancak, TEMODAL bu hastalara verilirken dikkatli olunmalıdır.  
+ 
+Pediyatrik  popülasyon:  
+3 yaşın altındaki çocuklarda TEMODAL kullanımına ilişkin klinik den eyim yoktur. 3 yaş 
+üzerindeki çocuklarda deneyim sınırlıdır. 18 yaşın altındaki malign melanom hastalarında 
+kullanımına ilişkin klinik deneyim yoktur (bkz. Bölüm 4.4 ve 5.1).  
+3 yaşın  altındaki çocuklarda  etkililik ve  güvenliliği kanıtlanmamıştır.  
+ 
+Geriyatr ik popülasyon:  
+19-78 yaş arasındaki  popülasyondaki  farmakokinetik  analizlere  göre temozolomid  klerensi 
+yaştan  etkilenmez.  Bununla  birlikte,  70 yaş üstündeki  yaşlı  hastalarda  genç  hastalara  göre 4/16  nötropeni ve trombositopeni riski daha fazladır (bkz. Bölüm 4.4). Bu yüzden, yaşlı hastalarda 
+TEMODAL kullanımında dikkatli olunmalıdır.  
+4.3. Kontrendikasyonlar  
+TEMODAL,  
+− Etkin maddeye veya Bölüm 6.1’de listelenen yardımcı maddelerden herhangi birine aşırı  
+duyar lılığı,  
+− Dakarbazine  (DTIC)  karşı  aşırı duyarlılığı,  
+− Ağır miyelosupresyonu  olan hastalarda  kontrendikedir (bkz.  Bölüm 4.4). 
+4.4. Özel  kullanım  uyarıları  ve önlemleri  
+ 
+Fırsatçı  enfeksiyonlar  ve enfeksiyonların  reaktivasyonu  
+ 
+TEMODAL  ile tedavi sırasında  fırsatçı enfeksiyonlar (Pneumocystis jirovecii pnömonisi gibi) 
+ve enfeksiyonların reaktivasyonu (hepatit B virüsü (HBV), sitomegalovirüs (CMV) gibi) 
+gözlenmiştir (bkz. Bölüm 4.8).  
+ 
+Pneumocystis  jirovecii  pnömonisi  
+Bir pilot çalışmada  uzatı lmış 42 günlük  şemayla  eş zamanlı  olarak  TEMODAL  ve radyoterapi 
+alan hastaların  Pneumocystis  jirovecii  pnömonisi  (PCP)  gelişimi  yönünden  özel bir riske  sahip 
+oldukları gösterilmiştir. Bu nedenle, 42 günlük (maksimum 49 günlük) rejimde eş zamanlı 
+TEMODAL ve radyoterapi alan bütün hastalara lenfosit sayısı ne olursa olsun PCP için 
+profilaksi uygulanması gerekir. Lenfopeni ortaya çıkarsa, hastalar lenfopeni Evre 1’e 
+gerileyinceye kadar profilaksiye devam etmelidir.  
+ 
+Temozolomidin, daha uzun süreli bir dozaj rejiminde kullanılması durumunda PCP görülme 
+sıklığı artabilir. Ancak, temozolomid alan tüm hastalar, özellikle de steroid kullanan hastalar, 
+doz rejimin e bakılmaksızın PCP açısından yakından izlenmelidir. Özellikle deksametazon 
+veya diğer steroidlerle birlikte TEMODAL kullanan hastalarda ölümcül solunum yetmezliği 
+vakaları rapor edilmiştir.  
+ 
+HBV  
+Ölümle sonuçlanan bazı vakalarda, hepatit B virüsü (HBV) rea ktivasyonuna bağlı hepatit 
+rapor edilmiştir. Pozitif hepatit B serolojisi olan hastalarda (aktif hastalığı olanlar da dahil) 
+tedaviye başlanmadan önce karaciğer hastalığında uzmanlara danışılmalıdır. Tedavi sırasında 
+hastalar izlenmeli ve uygun şekilde ted avi edilmelidir.  
+Herpetik  meningoensefalit  
+Pazarlama sonrası  vakalarda,  eş zamanlı  steroid  kullanan  vakalar  dahil,  radyoterapi  ile birlikte 
+temozolomid alan hastalarda herpetik meningoensefalit (ölümle sonuçlanan vakalar dahil) 
+görülmüştür.  
+ 
+Hepatotoksisite  
+TEMODAL ile tedavi edilen hastalarda ölümcül karaciğer yetmezliği dahil olmak üzere 
+karaciğer hasarı bildirilmiştir (bkz. Bölüm 4.8). Tedaviye başlamadan önce karaciğer 
+fonksiyon testleri yapılmalıdır. Bu testler anormal ise, hekimler temoz olomide başlamadan 
+önce ölümcül karaciğer yetmezliği potansiyeli dahil risk/yarar oranını değerlendirmelidir. 42 
+günlük tedavi kürü alan hastalarda, karaciğer fonksiyon testleri bu kürün ortalarında 
+tekrarlanmalıdır. Tüm hastalarda, her bir tedavi küründen  sonra karaciğer fonksiyon testleri 
+yapılmalıdır.  Anlamlı  karaciğer  fonksiyon  anormallikleri  saptanan  hastalarda  hekimler  5/16  tedaviye  devam  edilmesinin  risk/yarar  oranını  değerlendirmelidir.  En son temozolomid 
+tedavisinden birkaç hafta sonra veya daha sonra karaciğer toksisitesi meydana gelebilir.  
+ 
+Maligniteler  
+Çok nadir olarak miyeloid lösemi dahil olmak üzere miyelodisplastik sendrom ve sekonder  
+malignite vakaları bildirilmiştir (bkz. Bölüm 4.8).  
+ 
+Antiemetik  tedavi  
+Bulantı  ve kusma  TEMODAL  tedavisiyle  çok yaygın  şekilde  görülür.  TEMODAL 
+uygulanmadan önce veya uygulandıktan sonra antiemetik tedavi uygulanabilir.  
+ 
+Yeni teşhis  edilen  glioblastoma  multiformeli erişkin  hastalar  için: 
+Eş zamanlı  fazın  başlangıç  dozundan  önce  anti-emetik  profilaksisi  önerilir  ve monoterapi 
+fazında anti -emetik profilaksisi kuvvetle önerilir.  
+ 
+Nükseden  veya progresif  malign glioması  olan hastalar : 
+Önceki tedavi kürlerinde şiddetli (evre 3 veya 4) kusma yaşayan hastalarda antiemetik tedavi 
+gerekebilir.  
+Laboratuvar  parametreleri  
+TEMODAL ile tedavi edilen hastalar uzun süren pansitopeni dahil miyelosupresyon 
+yaşayabilir;  bu durum  bazı vakalarda  ölümle  sonuçlanan  aplastik  anemiye neden  olabilir.  Bazı 
+vakalarda karbamazepin, fenitoin ve sülfametoksazol/trimetoprim gibi aplastik anemiyle 
+ilişkili tıbbi ürünlere eş zamanlı maruz kalım değerlendirmeyi karmaşıklaştırır. Tedaviden 
+önce aşağıdaki laboratuvar pa rametreleri karşılanmalıdır: MNS ≥ 1,5 x 109/l ve trombosit 
+sayısı ≥ 100 x 109/l. İlk dozdan 21 gün sonra (22. günde)  veya o günden sonraki 48 saat 
+içinde tam kan sayımı yapılmalı ve MNS 1,5 x 109/l’nin üzerine ve trombosit sayısı 100 x 
+109/l’nin üzerine ç ıkıncaya kadar haftada bir tam kan sayımı yapılmalıdır. Herhangi bir kürde 
+MNS 1,0 x 109/l’nin altına veya trombosit sayısı 50 x 109/l’nin altına düşerse bir sonraki  
+kürde 1 doz düzeyi azaltılmalıdır (bkz. Bölüm 4.2). Doz düzeyleri 100 mg/m2, 150 mg/m2 ve 
+200 mg/m2’dir. Önerilen en düşük doz 100 mg/m2’dir. 
+Pediyatrik  kullanım:  
+3 yaşın altındaki çocuklarda TEMODAL kullanımına ilişkin klinik deneyim yoktur. Daha 
+büyük yaştaki çocuklarda ve ergenlerde deneyim çok sınırlıdır (bkz. Bölüm 4.2 ve 5.1).  
+ 
+ 
+Yaşlı  hastalarda  kullanım  (70 yaş üzeri):  
+Yaşlı hastalarda genç hastalara göre nöt ropeni ve trombositopeni riski daha fazladır. Bu 
+nedenle, yaşlı hastalarda TEMODAL kullanımında dikkatli olunmalıdır.  
+ 
+Kadın  hastalar  
+Çocuk doğurma potansiyeli olan kadınlar, TEMODAL ile tedavi edilirken ve tedavinin 
+tamamlanmasını takiben en az 6 ay boyun ca hamilelikten kaçınmak için etkili doğum  
+kontrolü kullanmalıdır.  
+ 
+Erkek  hastalar:  
+TEMODAL ile tedavi edilen erkeklerin son dozu aldıktan sonra en az 3 ay süreyle çocuk 
+sahibi olmamaları ve tedaviden önce spermlerin dondurularak korunması konusunda tavsiy e 
+almaları önerilir (bkz. Bölüm 4.6).  6/16  Laktoz:  
+TEMODAL her bir kapsülde 154,3 mg laktoz içerir. Nadir kalıtımsal galaktoz intoleransı, 
+Lapp laktaz eksikliği ya da glukoz -galaktoz malabsorpsiyon problemi olan hastaların bu ilacı 
+kullanmamal arı gerekir.  
+ 
+Sodyum:  
+Bu tıbbi ürün, kapsül başına 1 mmol'den daha az sodyum (23 mg) içerir, yani esasen 'sodyum 
+içermez'.  
+ 
+4.5. Diğer  tıbbi ürünler  ile etkileşim  ve diğer  etkileşim  şekilleri  
+Ayrı bir faz I çalışmada, ranitidinle birlikte TEMODAL uygulaması temozolomidin emilim 
+derecesinde ya da onun aktif metaboliti monometil triazenoimidazol karboksamide (MTIC) 
+maruz kalımda değişikliklere yol açmamıştır.  
+ 
+TEMODAL yemekle birlikte uygulandığı nda C maks’da %  33’lük azalma ve EAA’da %  9’luk 
+azalma görülmüştür. C maks’daki değişimin klinik anlamlılığı bertaraf edilemeyeceğinden, 
+TEMODAL yemekle birlikte uygulanmamalıdır.  
+ 
+Faz II çalışmalardaki popülasyon farmakokinetiği üzerinde yapılan bir analize  dayanarak 
+deksametazon, proklorperazin, fenitoin, karbamazepin, ondansetron, H 2 reseptör  
+antagonistleri veya fenobarbital ile birlikte uygulanması, temozolomidin klerensini 
+değiştirmemektedir. Valproik asit ile birlikte uygulanması durumunda temozolomid 
+klerensinde küçük fakat istatistiksel olarak anlamlı bir azalma meydana gelmektedir.  
+Temozolomidin diğer tıbbi ürünlerin metabolizması ya da eliminasyonu üzerindeki etkilerini 
+belirlemek amacıyla hiçbir çalışma yapılmamıştır. Bununla beraber temozolomid kar aciğerde 
+metabolize edilmediği ve proteinlere düşük oranda bağlandığı için, diğer tıbbi ürünlerin 
+farmakokinetiğini etkilemesi muhtemel değildir (bkz. Bölüm 5.2).  
+Temozolomid ile diğer miyelosupresif ajanların kombine kullanımı, miyelosupresyon 
+olasılığını artırabilir.  
+ 
+Pediyatrik  popülasyon  
+Etkileşim  çalışmaları  yalnızca  erişkinlerde  yapılmıştır.  
+4.6. Gebelik  ve laktasyon  
+Gebelik  kategorisi:  D 
+Çocuk  doğurma  potansiyeli  bulunan  kadınlar/  Doğum  kontrolü  (Kontrasepsiyon)  
+Çocuk doğurma potansiyeli olan kadınlar, TEMODAL alırken ve tedavinin tamamlanmasını 
+takiben en az 6 ay boyunca hamilelikten kaçınmak için etkili doğum kontrol yöntemi 
+kullanmalıdır.  
+Gebelik  dönemi  
+TEMODAL’in gebe kadınlarda kullanımına ilişkin veri mevcut  değildir. 150 mg/m2 
+temozolomid alan fare ve tavşanlarda yapılan klinik öncesi çalışmalarda teratojenite ve/veya 
+fetal toksisite gösterilmiştir (bkz. Bölüm 5.3). TEMODAL, gebe kadınlara verilmemelidir. 
+Gebelikte kullanılması düşünülüyorsa, hasta fetusa yö nelik potansiyel risk konusunda 
+bilgilendirilmelidir.  
+ 
+Laktasyon  dönemi  
+TEMODAL’in  anne  sütüne  geçip  geçmediği  bilinmediğinden  TEMODAL  emziren  kadınlarda 
+kullanılmamalıdır.  7/16  Üreme  yeteneği/  fertilite  
+Sıçan  ve köpeklerde  erkek üreme sisteminde  toksisite  gösterilmiştir  (bkz. Bölüm 5.3). 
+ 
+Erkek  fertilitesi  
+Temozolomidin genotoksik etkileri olabilir. Bu nedenle, temozolomid ile tedavi edilen 
+erkekler, etkili doğum kontrol önlemleri kullanmalı, son dozu aldıktan sonra en az 3 ay 
+süreyle çocuk sahibi olmamalılardır ve temozolomid tedavisine bağlı geri dönüşsüz infertilite 
+olasılığı nedeniyle tedaviden önce spermlerini dondurarak saklamaları (kriyokonservasyon) 
+önerilmelidir.  
+ 
+4.7. Araç  ve makine  kullanımı  üzerindeki etkiler  
+TEMODAL b itkinlik ve uyku hali nedeniyle araç ve makine kullanma becerisi üzerinde hafif 
+bir etki gösterebilir (bkz. Bölüm 4.8).  
+ 
+4.8. İstenmeyen etkiler 
+Güvenlilik  profilinin  özeti 
+Klinik çalışma deneyimi  
+Klinik çalışmalarda temozolomid ile tedavi edilen hastalarda bildirilen en yaygın advers 
+reaksiyonlar bulantı, kusma, konstipasyon, anoreksi, baş ağrısı, yorgunluk, konvülsiyonlar ve 
+döküntüdür.  Hematolojik advers reaksiyonların çoğu yaygın şekilde raporla nmıştır; derece 3 - 
+4 laboratuvar bulgularının sıklığı Tablo 4’den sonra sunulmaktadır.  
+Rekürren ve progresif gliomalı hastalarda bulantı (%43) ve kusma (%36) genellikle derece 1 
+veya 2’dir (24 saatte 0 – 5 kusma episodu) ve kendini sınırlayan tarzdadır vey a standart 
+antiemetik  tedaviyle  kolayca  kontrol  altına  alınabilmiştir.  Şiddetli  bulantı  ve kusma  insidansı  
+%4’dür.  
+ 
+Advers  reaksiyonların  tablolaştırılmış  listesi  
+Klinik  çalışmalarda  gözlenen  ve temozolomidin  pazarlama  sonrası  kullanımı  sırasında 
+bildirilen advers reaksiyonlar Tablo 4’de listelenmektedir.  
+ 
+Bu reaksiyonlar Sistem Organ Sınıfı ve sıklığa göre sınıflanmaktadır. Sıklık gruplamaları 
+aşağıdaki  standart  oranlara  göre tanımlanmaktadır:  Çok yaygın  (≥ 1/10);  yaygın  (≥ 1/100  ila 
+< 1/10); yaygın olmayan (≥  1/1.000 ila <  1/100); seyrek ≥  1/10.000 ila <  1/1.000); çok seyrek 
+(< 1/10.000); bilinmiyor: eldeki verilerden hareketle tahmin edilemiyor. Her bir sıklık 
+gruplamasında istenmeyen etkiler azalan ciddiyet sırasıyla sunulmaktadır.  
+ 
+ 
+Tablo 4. Temozolomid ile  tedavi  edilen hastalarda bildirilen advers  
+reaksiyonlar  
+Enfeksiyonlar  ve enfestasyonlar  
+Yaygın:  Enfeksiyonlar,  herpes  zoster,  farenjita, oral 
+kandidiyazis  
+Yaygın  olmayan:  Fırsatçı enfeksiyon (PCP dahil), sepsis†, herpetik 
+meningoensefalit†, CMV enfeksiyonu, CMV 
+reaktivasyonu,  hepatit  B virüsü†, herpes  simpleks,  
+enfeksiyon  reaktivasyonu,  yara enfeksiyonu,  8/16   gastroenteritb 
+(Kist  ve polipler  de dahil  olmak  üzere)  İyi huylu  ve kötü  huylu  neoplazmalar  
+Yaygın  olmayan:  Miyelodisplastik  sendrom  (MDS),  sekonder 
+maligniteler (miyeloid lösemi dahil)  
+Kan ve lenf sistemi  hastalıkları  
+Yaygın:  Febril  nötropeni,  nötropeni,  trombositopeni, 
+lenfopeni, lökopeni, anemi  
+Yaygın  olmayan:  Uzamış  pansitopeni,  aplastik  anemi†, pansitopeni, 
+peteşi  
+Bağışıklık  sistemi  hastalıkları  
+Yaygın:  Alerjik  reaksiyon  
+Yaygın  olmayan:  Anaflaksi  
+Endokrin  hastalıklar  
+Yaygın:  Cushingoidc 
+Yaygın  olmayan:  Diabetes  insipidus  
+Metabolizma  ve beslenme  hastalıkları  
+Çok yaygın:  Anoreksi  
+Yaygın:  Hiperglisemi  
+Yaygın  olmayan:  Hipokalemi,  alkalen  fosfataz  artışı  
+Psikiyatrik  hastalıklar  
+Yaygın:  Ajitasyon,  amnezi,  depresyon,  anksiyete,  konfüzyon, 
+insomni  
+Yaygın  olmayan:  Davranış  bozukluğu,  emosyonel  labilite, 
+halüsinasyonlar, apati  
+Sinir sistemi  hastalıkları  
+Çok yaygın:  Konvülsiyonlar,  hemiparezi,  afazi/disfazi,  baş ağrısı  
+Yaygın:  Ataksi, denge bozukluğu, bilişsel bozukluk, 
+konsantrasyon bozukluğu, bilinç azalması, baş 
+dönmesi, hipoestezi, hafıza bozukluğu, nörolojik 
+bozukluk,  nöropatid, parestezi,  somnolans,  konuşma 
+bozukluğu, tat duyumunda değişiklik, tremor  
+Yaygın  olmayan:  Status  epileptikus,  hemipleji,  ekstrapiramidal 
+bozukluk,  
+parosmi,  yürümede  anormallik,  hiperestezi,  duyusal 
+bozukluk, anormal koordinasyon  
+Göz hastalıkları  
+Yaygın:  Hemianopi,  bulanık  görme,  görme  bozukluğue, 
+görme alanı defekti, diplopi, göz ağrısı  
+Yaygın  olmayan:  Görme  keskinliğinde  azalma,  gözlerde  kuruluk  
+Kulak  ve iç kulak hastalıkları  
+Yaygın:  Sağırlıkf, vertigo,  tinnitus,  kulak  ağrısıg 
+Yaygın  olmayan:  İşitme  bozukluğu,  hiperakuzi,  otitis  media  
+Kardiyak  hastalıklar  
+Yaygın  olmayan:  Palpitasyon  9/16  Vasküler  hastalıklar  
+Yaygın:  Hemoraji,  pulmoner  emboli,  derin  ven trombozu, 
+hipertansiyon  
+Yaygın  olmayan:  Serebral  hemoraji,  yüzde  ve boyunda  kızarıklık, 
+sıcak basması  
+Solunum,  göğüs  bozuklukları  ve mediastinal  hastalıklar  
+Yaygın:  Pnömoni,  dispne,  sinüzit,  bronşit,  öksürük,  üst 
+solunum yolu enfeksiyonu  
+Yaygın  olmayan:  Solunum yetmezliği†, interstisyel 
+pnömonit/pnömonit,  pulmoner  fibroz,  nazal  
+konjesyon  
+Gastrointestinal  hastalıklar  
+Çok yaygın:  Diyare,  konstipasyon,  bulantı,  kusma  
+Yaygın:  Stomatit,  abdominal  ağrıh, dispepsi,  disfaji  
+Yaygın  olmayan:  Abdominal  distansiyon,  fekal  inkontinans,  
+gastrointestinal  bozukluk,  hemoroidler,  ağız 
+kuruluğu  
+Hepato -bilier  hastalıklar  
+Yaygın  olmayan:  Karaciğer  yetmezliği†, karaciğer  hasarı,  hepatit, 
+kolestaz, hiperbilirübinemi  
+Deri  ve deri altı doku hastalıkları  
+Çok yaygın:  Döküntü, alopesi  
+Yaygın:  Eritem,  cilt kuruluğu, prurit  
+Yaygın  olmayan:  Toksik epidermal nekroliz, Stevens -Johnson 
+sendromu, anjiyoödem, eritema multiforme, 
+eritroderma, deri soyulması, fotosensitivite  
+reaksiyonu,  ürtiker,  ekzantem,  dermatit,  terleme 
+artışı, anormal pigmentasyon  
+Bilinmiyor:  Eozinofili  ve sistemik  semptomların  eşlik  ettiği  ilaç 
+reaksiyonu (DRESS)  
+Kas-iskelet  bozuklukları,  bağ doku  ve kemik  hastalıkları  
+Yaygın:  Miyopati,  kas güçsüzlüğü,  artralji,  sırt ağrısı,  kas- 
+iskelet ağrısı, miyalji  
+Böbrek  ve idrar  yolu hastalıkları  
+Yaygın:  Sık idrara  çıkma,  üriner inkontinans  
+Yaygın  olmayan:  Dizüri  
+Üreme  sistemi  ve meme  hastalıkları  
+Yaygın  olmayan:  Vajinal  hemoraji,  menoraji,  amenore,  vajinit,  meme 
+ağrısı, impotans  
+Genel  bozukluklar  ve uygulama  bölgesine  ilişkin  hastalıklar  
+Çok yaygın:  Yorgunluk  
+Yaygın:  Ateş,  grip benzeri  semptomlar,  asteni,  halsizlik,  ağrı, 
+ödem, periferik ödemi 
+Yaygın  olmayan:  Durumda  ağırlaşma,  rigor,  yüzde  ödem,  dil renginde 
+değişiklik, susama, diş hastalığı  
+Araştırmalar  10/16  Yaygın:  Karaciğer  enzimlerinde  yükselmej, vücut  ağırlığında 
+azalma, vücut ağırlığında artma  
+Yaygın  olmayan:  Gama -glutamiltransferaz  artışı  
+Yaralanma,  zehirlenme  ve prosedüre  bağlı  komplikasyonlar  
+Yaygın:  Radyasyona  bağlı  hasark 
+a Farenjit,  nazofaringeal  farenjit  ve Streptokokal  farenjiti  içerir  
+b Gastroenterit  ve viral gastroenteriti  içerir  
+c Cushingoid  ve Cushing  sendromunu  içerir  
+d Nöropati,  periferik  nöropati,  polinöropati,  periferik  duyusal  nöropati  ve periferik  motor 
+nöropatiyi içerir  
+e Görme  bozukluğu ve göz  hastalığını içerir  
+f Sağırlık,  çift taraflı  sağırlık,  sensorinöral  sağırlık ve  tek taraflı  sağırlığı  içerir  
+g Kulak  ağrısı  ve kulak  rahatsızlığını  içerir  
+h Abdominal  ağrı, alt abdominal  ağrı, üst abdominal  ağrı ve abdominal  rahatsızlığı  içerir  
+i Periferik  ödem  ve periferik  şişliği  içerir  
+j Karaciğer  fonksiyon  testinde  artış,  alanin  aminotransferaz  artışı,  aspartat  aminotransferaz 
+artışı ve karaciğer enzimlerinde artışı içerir  
+k Radyasyon  hasarı nı ve radyasyona  bağlı  cilt hasarını içerir  
+† Ölümle  sonuçlanan  vakaları  içerir  
+Yeni  teşhis  edilen  glioblastoma  multiformeli  hastalar:  
+ 
+Laboratuvar  sonuçları:  
+TEMODAL dahil çoğu sitotoksik ajan için doz kısıtlayıcı olduğu bilinen miyelosupresyon 
+(nötropeni ve trombositopeni) gözlemlenmiştir. Eş zamanlı ve monoterapi tedavi fazları için 
+laboratuvar anormallikleri ve advers olaylar kombine edildiğinde, nötropenik olaylar dahil 
+evre 3 veya evre  4 nötrofil anormallikleri hastaların %  8’inde gözlenmiştir. Trombositopenik 
+olaylar  dahil evre 3 veya evre 4 trombosit  anormallikleri  TEMODAL  alan hastaların  
+% 14’ünde  gözlenmiştir.  
+ 
+Nükseden  veya  progresif  malign  gliomalı hastalar:  
+ 
+Laboratuvar  sonuçları:  
+Evre 3 veya 4 trombositopeni ve nötropeni malign glioma için tedavi edilen hastaların 
+sırasıyla %  19 ve %  17’sinde görülmüştür. Bu durum hastaların sırasıyla %  8 ve %  4’ünde 
+Temozolomid tedavisinin kesilmesini ve/ veya hospitalizasyonu gerektirmiştir. 
+Miyelosupresyon tahmin edilebilir olup (genellikle ilk birkaç kürde, en düşük noktası 21 ve 
+28. günler arasında görülmüş), düzelme hızlı ve genellikle 1 -2 hafta içinde olmuştur. 
+Kümülatif miyelosupresyona ilişkin kanıt lar gözlenmemiştir. Trombositopeni varlığı kanama 
+riskini arttırabilir ve  nötropeni veya  lökopeni  varlığı  enfeksiyon  riskini  arttırabilir.  
+ 
+Cinsiyet:  
+Klinik çalışma deneyiminin popülasyon farmakokinetik analizinde 101 kadın ve 169 erkek 
+hastadaki  en düşük  mutlak  nötrofil  sayısı  ve 110 kadın  ve 174 erkek  hastadaki  en düşük  mutlak 
+trombosit sayısı kaydedilmiştir. Evre 4 nötropeni, (MNS < 0.5 x 109/l), tedavinin 1. küründe 
+kadınlarda %  12, erkeklerde %  5, trombositopeni (< 20 x 109/l) ise kadınlarda %  9 erkeklerde  
+% 3 olarak  saptanmıştır.  400 rekürran  gliomalı  hastayı  içeren  veri setinde,  tedavinin  ilk küründe 
+Evre 4 nötropeni kadınların %  8, erkeklerin %  4’ünde gelişirken, Evre 4 trombositopeni 
+kadınların %  8, erkeklerin ise  % 3’ünde gelişmiştir. Yeni glioblastoma multiforme tanısı 
+konmuş  288 hastayı içeren  bir çalışmada,  tedavinin ilk  küründe Evre 4 nötropeni kadınların  11/16  % 3’ünde  görülürken  erkeklerde  bu oran % 0’dır.  Evre  4 trombositopeni  ise kadınların  % 1’inde 
+görülürken erkeklerde bu oran  % 0’dır.  
+ 
+Pediyatrik  popülasyon  
+Oral Temozolomid nüks eden beyin sapı glioması veya nüks eden yüksek dereceli 
+astrositoması olan pediyatrik hastalarda (3 -18 yaş arası) 28 günde bir 5 gün boyunca 
+uygulanan bir rejimde çalışılmıştır. Veriler sınırlı olmakla birlikte,  çocuklardaki toleransı n 
+erişkinlerdekiler ile aynı olması beklenir. 3 yaşın altındaki çocuklarda temozolomidin 
+güvenliliği belirlenmemiştir.  
+ 
+Şüpheli  advers  reaksiyonların  raporlanması  
+Ruhsatlandırma sonrası şüpheli advers reaksiyonlarının raporlanması büyük önem 
+taşımaktadır. Raporlanma yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine 
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye 
+Farmakovijilans  Merkezi  (TÜFAM)’ne  bildirmeleri  gerekmektedir  (www.titck.gov.tr ; 
+e-posta: tufam@titck.gov.tr ; tel: 0 800 314 00 08; faks: 0 312 218 35 99).  
+ 
+4.9. Doz aşımı  ve tedavisi  
+ 
+Hastala rda 500, 750, 1000 ve 1250 mg/m2’lik (5 gün boyunca kür başına toplam doz) dozlar 
+klinik olarak incelenmiştir. Doz kısıtlayıcı toksisite hematolojik toksisitedir ve birçok dozda 
+bildirilmiştir, fakat yüksek dozlarda daha şiddetli olması beklenir. Bir hasta da 10,000 mg’lık 
+(5 gün boyunca tek bir kürde toplam doz) doz aşımı yaşanmıştır. Bildirilen yan etkiler 
+pansitopeni, pireksi, çoklu organ yetmezliği ve ölümdür. 5 günden uzun (64 güne kadar) 
+tedavide önerilen dozu almış hastalarda enfeksiyon ile birlikte y a da enfeksiyonsuz kemik  
+iliği supresyonu bildirilmiş ve bazı vakalarda şiddetli ve uzun süreli olmuş ve ölüm ile 
+sonuçlanmıştır. Doz aşımı durumunda hematolojik inceleme gerekmektedir. Gerektiği  
+takdirde destekleyici tedavi uygulanmalıdır.  
+5. FARMAKOLOJİK  ÖZELLİKLER  
+ 
+5.1. Farmakodinamik  özellikler  
+Farmakoterapötik  grup:  Antineoplastik  ajanlar  - Diğer  alkilleyici  ajanlar 
+ATC Kodu: L01AX03  
+Etki mekanizması  
+Temozolomid fizyolojik pH’da hızlı bir kimyasal dönüşüm göstererek aktif bileşen olan 
+monometil triazenoimidazol karboksamide (MTİK) dönüşen bir triazendir. MTİK’nin 
+sitotoksisitesinin, primer olarak guaninin O6 pozisyonunun alkilasyonundan ve ilaveten N7 
+pozisyonunda alkilasyonundan ileri geldiği düşünülmektedir. Bunu takiben gelişen sitotoksik 
+lezyonların, metil katılımının anormal onarımı ile ilgili olduğu düşünülmektedir.  
+ 
+Klinik etkililik ve  güvenlilik  
+ 
+Yeni teşhis  edilen  glioblastoma  multiforme  
+Toplam  573 hasta TEMODAL + RT (n=287) veya tek başına RT (n=286) almak üzere 
+randomize edilmiştir. TEMODAL + RT kolundaki hastalar RT’nin ilk gününden itibaren 
+RT’nin son gününe kadar 42 gün süreyle (maksimum 49 gün) günde bir kez eş zamanlı 
+TEMODAL (75 mg/m2) almıştır. Bunu RT’nin bitiminden sonraki 4 haftadan başlayarak 6 
+küre kadar, 28 günlük her bir kürün 1 -5. günlerinde verilen TEMODAL monoterapisi (150 - 
+200 mg/m2) izlemiştir.  Kontrol  kolundaki  hastalar  yalnızca  RT almıştır.  RT ve kombine  12/16  
+TEMODAL tedavisi süresince Pnemocytis jirovecii pnömonisine (PCP) yönelik profilaksi 
+gerekmiştir.  
+ 
+Tek başına RT kolundaki 282 hastadan 161’i (%  57) ve TEMODAL + RT kolundaki 277 
+hastadan 62’sine (% 22) takip döneminde kurtarıcı tedavi olarak TEMODAL uygulanmıştır.  
+ 
+Genel sağkalım için tehlike oranı (HR) 1,59’dur (HR için %  95 güven aralığı (GA) =1,33 - 
+1,91) ve log -rank p değeri TEMODAL kolunun le hine < 0,0001’dir. Hesaplanan 2 yıl veya 
+daha uzun süre hayatta kalma olasılığı (%  26’ya karşı %  10) RT + TEMODAL kolunda daha 
+yüksektir. Yeni teşhis edilmiş glioblastoma multiformeli hastaların tedavisinde RT’ye eş 
+zamanlı TEMODAL eklenmesi ve ardından TE MODAL monoterapisi tek başına RT’ye 
+kıyasla genel sağkalımda (OS) istatistiksel olarak anlamlı iyileşme göstermiştir (Şekil 1).  
+ 
+ITT Popülasyonu:  Genel  Sağkalım  
+ 
+Şekil  1. Genel  sağkalım  için Kaplan -Meier  eğrileri  (ITT (tedavi  amaçlı)  popülasyon)  
+ 
+Çalışmanın sonuçları performans durumu kötü olan bir hasta alt grubunda (WHO PS=2,  
+n=70) tutarlı değildir ve bu alt grupta genel sağkalım ve progresyona kadar geçen süre her iki 
+kolda benzerdir. Ancak bu hasta grubunda kabul edilemez risklerin mevcut olmad ığı 
+anlaşılmaktadır.  
+Nüks  eden  veya ilerleyen  malign  glioma  
+Cerrahiden ve RT’den sonra ilerleyen veya nüks eden glioblastoma multiformeli hastalarda 
+(Karnofski performans durumu [KPS] ≥ 70) klinik etkinlik verileri oral TEMODAL ile 
+yürütülen iki klinik çalışmaya dayanmaktadır. Bunlardan biri 138 hastada (%  29’u dah a önce 
+kemoterapi  almıştı)  yürütülen  karşılaştırmasız  bir çalışma,  diğeri  ise toplam  225 hastada 
+(% 67’si daha önce nitrozoüreye dayalı kemoterapi almıştı) yürütülen, TEMODAL’in 
+prokarbazin ile karşılaştırıldığı randomize, aktif -kontrollü bir çalışmadır. H er iki çalışmada, 
+birincil son nokta manyetik rezonans görüntülemesi veya nörolojik kötüleşme ile tanımlanan 
+progresyonsuz sağkalımdır (PFS). Karşılaştırmasız çalışmada 6 ayda PFS %  19, 
+progresyonsuz medyan sağkalım süresi 2,1 ay ve medyan genel sağkalım 5 ,4 aydır. MR 
+görüntülemelerine dayanan objektif yanıt oranı (ORR) % 8’dir.  13/16  Randomize, aktif -kontrollü çalışmada TEMODAL ile 6 ayda PFS prokarbazine göre anlamlı 
+olarak daha fazladır (% 21’e karşı %  8 – ki-kare p = 0,008) ve medyan PFS sır asıyla 2,89 ay 
+ve 1,88 aydır (log sıra p = 0,0063). TEMODAL ve prokarbazin için medyan sağkalım süresi 
+sırasıyla 7,34 ay ve 5,66 aydır (log sıra p = 0,33). Altı ayda, TEMODAL kolunda hayatta 
+kalan hastaların oranı (%  60) prokarbazin koluna kıyasla(%  44) an lamlı olarak daha yüksektir 
+(ki-kare p = 0,019). Daha önce kemoterapi almış hastalarda yarar KPS ≥ 80 olan hastalarda 
+gösterilmiştir.  
+Nörolojik durumda kötüleşmeye kadar geçen süreye ilişkin veriler ve performans durumunda 
+kötüleşmeye kadar geçen süreye il işkin veriler prokarbazine göre TEMODAL lehinedir 
+(KPS’nin < 70’e gerilemesi veya en az 30 puan azalma). Bu son noktalarda progresyona  
+kadar geçen medyan süreler prokarbazine kıyasla TEMODAL ile 0,7 – 2,1 ay daha uzundur 
+(log sıra p = < 0,01 - 0,03).  
+Nüks  eden  anaplastik  astrositoma  
+Anaplastik astrositomalı hastaların ilk relapstaki tedavisinde oral TEMODAL’in güvenliliğini 
+ve etkililiğini  değerlendiren  çok-merkezli,  ileriye  dönük  bir faz II çalışmada,  6 ayda  PFS 
+% 46 ve medyan PFS 5,4 aydır. Medyan genel sağkalım süresi 14,6 aydır. Merkezi gözden 
+geçirmeyi yapan araştırmacının değerlendirmesine dayanan yanıt oranı tedavi amaçlı 
+popülasyonda (ITT) (n=162) %  35’dir (13 tam yanıt ve 43 kısmi yanıt). 43 hastada stabil 
+hastalık bildirilmiştir. ITT popülasyonunda 6 aylık olaysız sağkalım oranı %  44 ve medyan 
+olaysız  sağkalım  süresi  4,6 aydır;  bu rakamlar  progresyonsuz  sağkalım  sonuçlarıyla  benzerdir. 
+Uygun nitelikteki histoloji popülasyonunda etkinlik sonuçları benzerdir. Radyolojik objektif 
+yanıta ulaşılması veya progresyonsuz durumun korunması yaşam kalitesinin korunması veya 
+iyileşmesiyle güçlü biçimde ilişkili bulunmuştur.  
+Pediyatrik  hastalar:  
+Oral TEMODAL, 28 günde bir 5 gün boyunca günlük olarak uygulanmış bir rejimde  nüks 
+eden  beyin  sapı glioması  ya da nüks  eden  yüksek evreli  astrositomu  olan pediyatrik  hastalarda 
+(3-18 yaş arası) incelenmiştir. TEMODAL’e tolerans erişkinlerdekine benzerdir.  
+5.2. Farmakokinetik  özellikler 
+Genel Özellikler  
+Temozolomid fizyolojik pH’de esas olarak aktif tür olan 3 -metil -(triazen -1-il)imidazol -4- 
+karboksamide (MTİK) kendiliğinden hidrolize olur. MTİK, pürin ve nükleik asit 
+biyosentezinde bilinen bir ara madde olan 5 -amino -imidazol -4-karboksamide (AİK) ve aktif 
+alkilleyici tür olduğuna inanılan  metilhidrazine kendiliğinden hidrolize olur. MTİK 
+sitotoksisitesinin, esas olarak guaninin O6 ve N7 pozisyonlarında olmak üzere DNA 
+alkillenmesinden kaynaklandığı düşünülmektedir. Temozolomid EAA’sına kıyasla MTİK ve 
+AİK’ye maruz kalım sırasıyla ~%  2,4 ve  % 23’tür. İn vivo koşullarda MTİK’in t 1/2’si 
+temozolomidinkine (1,8 saat) benzerdir.  
+Emilim:  
+Erişkin hastalarda oral yoldan uygulandıktan sonra temozolomid hızla emilmekte ve dozdan 
+sonra 20 dakika gibi kısa bir sürede doruk konsantrasyona ulaşmaktadır (ortalama süre 0,5 ile 
+1,5 saat). 14C ile işaretlenmiş TEMODAL oral yolla uygulandıktan sonra 14C’nin dozdan  
+sonra 7 gün boyunca feçes ile ortalama atılım oranı %  0,8 bulunmuştur; bu oran tam emilimi 
+gösterir.  14/16  Dağılım:  
+Temozolomid  proteinlere  düşük  oranda  bağlanır  (% 10-% 20) ve proteine  yüksek  oranda 
+bağlanan maddelerle etkileşmesi  beklenmez.  
+ 
+Klinik öncesi veriler ve insanlarda yapılan PET çalışmaları, temozolomidin kan beyin 
+bariyerini hızla geçtiğini ve beyin -omurilik sıvısında (BOS) bulunduğunu düşündürmektedir. 
+Beyin omurilik sıvısına penetrasyonu 1 hastada doğrulanmıştır ve te mozolomidin eğri altında 
+kalan alanına göre BOS maruz kalımı plazmadakinin yaklaşık %  30’u kadardır; bu bulgu 
+hayvan verileriyle paraleldir.  
+ 
+Biyotransformasyon ; 
+Oral uygulamayı takiben dozun ortalama %  5-% 10’u 24 saat içinde idrarla değişmeden ve 
+geriye kalanı ise temozolomid asidi, 5 -aminoimidazol -4-karboksamid (AİK) veya 
+tanımlanmamış polar metabolitler şeklinde atılmaktadır. Plazma konsantrasyonları doza - 
+bağımlı bir tarzda artmaktadır.  
+ 
+Eliminasyon:  
+Plazma  yarılanma  ömrü  (t1/2) yaklaşık  1,8 saattir.  14C’nin  eliminasyonu  esas olarak  
+böbreklerde gerçekleşir.  
+ 
+Doğrusallık/Doğrusal  olmayan  durum:  
+Plazma konsantrasyonları doza bağlı olarak artar. Plazma klerensi, dağılım hacmi ve 
+yarılanma ömrü dozdan bağımsızdır.  
+ 
+Özel  popülasyonlara  ilişkin  ek bilgiler  
+Temozolomidin popülasyon bazlı farmakokinetik analizi sonucunda plazma temozolomid 
+klerensinin y aş, böbrek fonksiyonu veya tütün kullanımından bağımsız olduğu bulunmuştur. 
+Diğer bir farmakokinetik çalışmada hafif ilâ orta dereceli hepatik disfonksiyonu bulunan 
+hastaların, normal hepatik fonksiyonu olan hastalar ile benzer plazma farmakokinetik  
+profil leri olduğu gözlenmiştir.  
+Pediyatrik hastalarda eğri altında kalan alan (EAA) daha büyüktür; ancak, maksimum tolere 
+edilebilen doz (MTD) hem çocuklar hem de erişkinlerde kür başına 1000 mg/m2 dir. 
+5.3. Klinik  öncesi  güvenlilik  verileri  
+Sıçanlarda ve köpeklerde tek kürlük (5 gün dozaj, 2 3 günlük tedavisiz dönem), üç ve altı 
+kürlük toksisite çalışmaları yürütülmüştür. Toksisitenin primer hedefleri kemik iliği, 
+lenforetiküler sistem, testisler ve gastrointestinal kanaldı ve daha yüksek dozlarda (test edilen 
+sıçanların  ve köpeklerin  % 60-100’ünde  ölümcül  olmuştur)  retina  dejenerasyonu  gözlenmiştir. 
+Erkek üreme sistemi ve retina dejenerasyonunu içeren istenmeyen olaylar hariç, toksisitenin 
+büyük kısmı geri dönüşlü olma bulguları sergilemiştir. Ancak retina dejenerasyonundan 
+sorumlu tutulan doz lar ölümcül doz aralığında olduğundan ve klinik çalışmalarda benzer bir 
+etki gözlenmediğinden, bu bulgunun klinik yönden önemli olduğu düşünülmemiştir.  
+ 
+Temozolomid embriyotoksik, teratojenik ve genotoksik alkilleyici ajandır. Temozolomid  
+sıçan ve köpekler de insanlara göre daha toksiktir ve klinik doz sıçan ve köpeklerde minimum 
+ölümcül doza yakındır. Lökositlerin ve trombositlerin doza bağlı olarak azalmaları, 
+toksisitenin duyarlı birer göstergesidir. Altı kürlük sıçan çalışmasında meme karsinomları, 
+derid e keratoakantoma ve bazal hücreli adenomu içeren çeşitli neoplazmlar gözlenmiş ancak 
+köpek çalışmalarında tümörler veya preneoplastik değişiklikler gözlenmemiştir. Sıçanların 
+TEMODAL’in  onkojenik  etkilerine  özellikle  duyarlı  olduğu  anlaşılmaktadır  ve ilk tümörler  15/16  dozaja başlandıktan sonra 3 ay içinde görülmüştür. Bu latent dönem bir alkilleyici ajan için  
+bile çok kısadır.  
+ 
+Ames/Salmonella ve İnsan Periferik Kan Lenfositi (HPBL) kromozom aberasyonu testlerinin 
+sonuçl arında pozitif bir mutajenik yanıt görülmüştür.  
+ 
+6. FARMASÖTİK  ÖZELLİKLER  
+ 
+6.1. Yardımcı  maddelerin  listesi  
+250 mg Sert Kapsül  
+Kapsül içeriği:  
+Anhidr  laktoz  (sığırdan  elde edilir) 
+Kolloidal silikon dioksit  
+Sodyum  nişasta  glikolat 
+Tartarik asit  
+Stearik  asit (sığırdan  elde edilir)  
+ 
+Kapsül  kabuğu:  
+Jelatin  (sığırdan  elde edilir) 
+Titanyum dioksit  
+Sodyum  lauril sülfat  
+Siyah  mürekkep  içeriği:  
+Gomalak  (gomalak  isimli  canlıdan  elde edilir) 
+Propilen glikol (E1520)  
+Saf su 
+Amonyum  hidroksit 
+Potasyum hidroksit 
+Siyah demir oksit  
+6.2. Geçimsizlikler  
+ 
+Uygulanamaz.  
+ 
+6.3. Raf ömrü  
+ 
+24 ay 
+ 
+6.4. Saklamaya  yönelik  özel tedbirler  
+30C altındaki  oda sıcaklığında  saklayınız.  
+ 
+6.5. Ambalajın  türü  ve yapısı  
+ 
+1 adet tip I amber cam şişe, astara ve iç kapağa sahip iki parçalı, 28 mm -480, beyaz, 
+polietilen , çocuk  emniyetli  kapak  ve absorbent  pamuk  içeren,  sert karton  kutu içerisinde yer 
+alır. 
+Her şişede  5 adet kapsül  içerir.  16/16  6.6 Beşeri  tıbbi  üründen  arta kalan  maddelerin  imhası  ve diğer  özel önlemler  
+ 
+Kapsüller açılmamalıdır. Kapsülün tahrip olması halinde, cilt ya da muköz membranların 
+kapsülün toz  içeriği ile temasından kaçınılmalıdır. Temas olduğu takdirde  bölge  su ve sabunla 
+hemen ve  iyice yıkanmalıdır.  
+ 
+Herhangi bir kullanılmamış ürün ya da atık materyal, yerel düzenlemelere uygun olarak 
+atılmalıdır.  
+ 
+Hastalara kapsülleri çocukların göremeyeceği ve erişemeyeceği bir yerde, tercihen kilitli bir 
+dolapta saklamaları söylenmelidir. Kazar a yutulmaları özellikle çocuklarda ölüme sebebiyet 
+verebilir.  
+ 
+Kullanılmamış olan ürünler yada atık materyaller ‘Tıbbi Atıkların Kontrolü Yönetmeliği’ ve 
+‘Ambalaj Atıklarının Kontrolü yönetmelikleri’ne uygun olarak imha edilmelidir.  
+ 
+Sitotoksik ve sitostatik beşeri tıbbi ürünlerin kullanımları sonucu boşalan iç ambalajlarının 
+atıkları TEHLİKELİ ATIKTIR ve bu atıkların yönetimi 2/4/2015 tarihli ve 29314 sayılı  
+Resmî Gazetede yayımlanan Atık Yönetimi Yönetmeliğine göre yapılır.  
+ 
+7. RUHSAT  SAHİBİ  
+ 
+Merck  Sharp  Dohme  İlaçları  Ltd. Şti. 
+Esentepe Mah. Büyükdere Cad.  
+No:199  Levent  199 Ofis Blok  Kat:13 
+Levent 34394 İstanbul  
+Tel: (0212)  336 10 00 
+Fax: (0212)  355 02 02 
+ 
+8. RUHSAT NUMARASI:  
+ 
+2021/277  
+ 
+9. İLK RUHSAT  TARİHİ  / RUHSAT  YENİLEME  TARİHİ  
+İlk ruhsat  tarihi:  05.09.2021 
+Ruhsat yenileme tarihi:  
+10. KÜB’ÜN  YENİLENME  TARİH İ 
+ 

@@ -1,0 +1,493 @@
+1 / 11 
+ KISA ÜRÜN BİLGİSİ  
+ 
+▼Bu ilaç ek izlemeye tabidir. Bu üçgen yeni güvenlilik bilgisinin hızlı olarak belirlenmesini 
+sağlayacaktır. Sağlık mesleği mensuplarının şüpheli advers reaksiyonlan TÜFAM’a 
+bildirmeleri beklenmektedir. Bakınız Bölüm 4.8 Advers reaksiyonlar nasıl raporlanır?  
+ 
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI  
+VENİRO 100 mg/ 5 ml I.V. enjeksiyon ve infüzyon için konsantre çözelti içeren ampul  
+Steril  
+ 
+2. KALİTATİF VE KANTİTATİF BİLEŞİM  
+Etkin madde : Her bir ampul 1 ml’sinde 20 mg demire eşdeğer 540 mg demir (III) hidroksit 
+sükroz kompleksi; h er 5 ml’ sinde  (toplam hacim) 100 mg elementer demire eşdeğer 2700 mg 
+demir (III) hidroksit sükroz kompleksi içerir.  
+ 
+Yardımcı madde(ler):   
+Sodyum hidroksit (pH  10-11,1 ayarı için)  
+Yardımcı maddeler için 6.1’ e bakınız.   
+ 
+3. FARMASÖTİK FORM  
+I.V. enjeksiyon ve infüzyon için çözelti içeren ampul  
+Homojen , kahverengi, partikül içermeyen çözelti  
+ 
+4.  KLİNİK ÖZELLİKLER  
+4.1. Terapötik endikasyonlar  
+ Gastrointestinal  sistemden demir emiliminin bozulduğu durumlarda gelişen demir  eksikliği 
+anemisinde,  
+ Aktif gastrointestinal kanaması olan hastalarda gelişen demir eksikliği anemisinde,  
+ Total veya subtotal gastrektomili hastalarda gelişen demir eksikliği anemisinde,  
+ Oral d emir tedavisini tolere edemeyen demir eksikliği anemisi olgularında,  
+ Oral demir tedavisine dirençli demir eksikliği anemisinde,  
+ Klinik olarak hızlı bir şekilde düzeltilmesi gereken demir eksikliği anemisi varlığında , 
+ Eritropoetin (EPO) tedavisi alan diyali ze bağımlı olan veya olmayan  k ronik böbrek 
+yetmezliği hastalarında demir eksikliği varlığında endikedir.  
+ 
+VENİRO gebeliğin ilk 3 aylık döneminde  önerilmemelidir. Gebeliğin ikinci ve üçüncü 3 aylık 
+döneminde  ise hekimin zorunlu bulduğu hallerde kullanılmalıdır.  
+ 
+VENİRO , gerekli ve uygun kan tetkikleri (hematokrit, hemoglobin, ferritin düzeyi, eritrosit 
+sayısı tayini gibi) yapıldıktan sonra uygulanmalıdır.  
+ 
+4.2. Pozoloji ve uygulama şekli  
+VENİRO  uygulaması sırasında ve her bir uygulamayı takiben, aşırı duyarlılık reaksiyonlarının 
+semptomları ve belirtileri açısından hastalar dikkatlice takip edilmelidir.  
+2 / 11 
+ VENİRO  sadece anafilaktik reaksiyonları acilen değerlendirme ve yönetme eğitimi almış 
+persone lin varlığında, tüm resüsitasyon araçlarının sağlandığı yerlerde uygulanmalıdır. Her 
+VENİRO enjeksiyonunu takiben hasta en az 30 dakika boyunca advers etkiler açısından 
+gözlenmelidir (bkz. bölüm 4.4).  
+ 
+Pozoloji:  
+Kümülatif VENİRO  dozu her hasta için özel he saplanmalı ve doz aşılmamalıdır.  
+ 
+Doz Hesaplanması  
+Kümülatif VENİRO  dozu hemoglobin (Hb) seviyesi ve vücut ağırlığına (VA) göre hesaplanan 
+toplam demir eksiği (mg) kadardır. VENİRO dozu her hasta için ayrı hesaplanan total demir 
+eksikliğinin aşağıdaki Ganz oni formülüne göre hesaplanması gereklidir, örneğin:  
+ 
+Toplam Demir Eksiği (mg) = VA (kg) X (hedef Hb – mevcut Hb) (g/dl) X 2,4* + Depo 
+demiri (mg)  
+ 
+35 kilo altı (VA):  Hedef Hb= 13g/dl ve depo demiri= 15mg/kg(VA)  
+35 kilo ve üstü (VA): Hedef Hb= 15 g/dl ve depo demiri = 500mg  
+ 
+*Faktör 2,4 = 0,0034 (Hb nin demir içeriği=%0,34) X 0,07 (kan hacmi= Vücut ağırlığının %7 
+si) x 1000 (gramın miligram cinsine çevirisi) x 10.  
+ 
+Toplam uygulanacak VENİRO  miktarı (ml) = Toplam demir açığı [mg] / 20 mg demir /ml  
+ 
+Hedef Hb , Mevcut Hb ve vücut ağırlığına göre verilecek VENİRO  (ml) miktarı*  
+ 
+VA Toplam uygulanacak VENİRO miktarı (20 mg demir / ml)  
+Hb 6,0 g/dl  Hb 7,5 g/dl  Hb 9,0 g/dl  Hb 10,5 g/dl  
+30 kg  47,5 ml  42,5 ml  37,5 ml  32,5 ml  
+35 kg  62,5 ml  57,5 ml  50 ml  45 ml  
+40 kg  67,5 ml  60 ml  55 ml  47,5 ml  
+45 kg  75 ml  65 ml  57,5 ml  50 ml  
+50 kg  80 ml  70 ml  60 ml  52,5 ml  
+55 kg  85 ml  75 ml  65 ml  55 ml  
+60 kg  90 ml  80 ml  67,5 ml  57,5 ml  
+65 kg  95 ml  82,5 ml  72,5 ml  60 ml  
+70 kg  100 ml  87,5 ml  75 ml  62,5 ml  
+75 kg  105 ml  92,5 ml  80 ml 65 ml  
+80 kg  112,5 ml  97,5 ml  82,5 ml  67,5 ml  
+85 kg  117,5 ml  102,5 ml  85 ml  70 ml  
+90 kg  122,5 ml  107,5 ml  90 ml  72,5 ml  
+ 
+*35 kilo altı (VA) :  Hedef Hb=13g/dl  
+35 kilo ve üstü (VA) :Hedef Hb= 15 g/dl  
+ 
+Hb (mM), Hb  (g/dl) çevirmek için 1,6 ile çarpılmalıdır.  
+Eğer gerekli doz bir seferde verilecek maksimum dozu aşar ise dozlar bölünerek verilmelidir.  
+3 / 11 
+ Pozoloji/uygulama sıklığı ve süresi  
+Erişkinlerde; 1 -2 ampul (100 -200 mg demir) VENİRO, hemoglobin düzeylerine göre haftada 
+1-3 kez şeklinde uygulanır. Hemodiyaliz hastalarında toplam doz, 10 do zda uygulanacak 
+şekilde 1000 mg’ dır. Gerektiğinde önerilen doz tekrarlanabilir. Doz uygulama sıklığı haftada 3 
+defadan fazla olmamalıdır.  
+ 
+Uygulama süresince oral demir alımı kesilmelidir.  
+ 
+Uygulama şekli  
+VENİRO, sadece intravenöz yoldan uygulanması gereken bir üründür. Uygulama yavaş 
+intravenöz enjeksiyon, intravenöz damla infüzyon veya diyaliz makinasının venöz yolu 
+kullanılarak yapılabili r. İntramüsküler veya bolus intravenöz enjeksiyonla uygulanmamalıdır.  
+ 
+İntravenöz damla infüzyon  
+VENİRO sadece %0,9’luk Serum Fizyolojik (NaCl) ile dilue edilmelidir. İnfüzyondan hemen 
+önce seyreltme yapılmalı ve çözelti aşağıdaki gibi verilmelidir:  
+ 
+VENİRO dozu  
+(mg demir)  VENİRO dozu  
+(ml VENİRO)  Maksimum dilue 
+edilebilecek steril %0,9 
+NaCl çözelti hacmi  Minimum İnfüzyon 
+Zamanı  
+50 mg  2,5 ml  50 ml  8 dakika  
+100 mg  5 ml 100 ml  15 dakika  
+200 mg  10 ml  200 ml  30 dakika  
+ 
+Stabiliteyle  ilgili nedenlerle, VENİRO daha düşük konsantrasyonda seyreltilmemelidir.  
+ 
+İntravenöz enjeksiyon  
+VENİRO yavaş enjeksiyon olarak yapılabilir . 1 ml dilüe edilmemiş VENİRO 1 dakikalık 
+sürede verilebilir (5 ml VENİRO en az 5 dakikalık bir sürede verilmelidir.) Bir seferde 
+10ml’den (200 mg demir) fazla enjeksiyon yapılmamalıdır.   
+ 
+Diyaliz makinasının venöz yoluna enjeksiyon  
+VENİRO tıpkı intavenöz enjeksiyonda olduğu gibi hemodiyaliz sırasında diyaliz makinasının 
+venöz  ucundan verilebilir.  
+ 
+Özel popülasyonlara ilişkin ek bilgiler  
+Böbrek/karaciğer yetmezliği  
+Böbrek ve karaciğer yetmezliği olanlarda doz ayarlamasına gerek yoktur. Karaciğer fonksiyon 
+bozukluğu olan hastalar için bölüm 4.4’e bakınız.  
+ 
+Pediyatrik popülasyon  
+VENİRO’nun çocuklarda kullanımı yeterince araştırılmamıştır ve bu nedenle VENİRO’nun 
+çocuklarda kullanılması önerilmez.   
+ 
+4 / 11 
+ Geriyatrik popülasyon  
+Yaşlı hastalarda doz ayarlamasına gerek yoktur.  
+ 
+4.3. Kontrendikasyonlar  
+VENİRO kullanımı  aşağıdaki durumlarda kontrendikedir:  
+ Etkin maddeye, VENİRO’ya ya da 6.l bölümünde listelenmiş herhangi bir yardımcı 
+maddeye aşırı duyarlılık.  
+ Diğer parenteral demir ilaçlarına karşı bilinen ciddi aşırı duyarlılık,  
+ Demir eksikliğine bağlı olmayan anemilerde , 
+ Demir yüklenmesinin olduğu ya da demir kullanımında herediter bozuklukların söz konusu 
+olduğu durumlarda.  
+ 
+4.4. Özel kullanım uyarıları ve önlemleri  
+Parenteral olarak uygulanan demir ilaçları, ciddi ve potansiyel fatal anafilaktik/anafilaktoid 
+reaksiyonları içeren aşırı duyarlılık reaksiyonlarına sebep  olabilir. Demir sükrozun da dahil 
+olduğu parenteral demir komplekslerinin önceden sorunsuz seyreden d ozlarından sonra da aşırı 
+duyarlılık reaksiyonları bildirilmiştir. Kounis sendromuna seyreden aşırı duyarlılık 
+reaksiyonları bildirilmiştir (miyokard enfarktüsüyle sonuçlanabilen akut alerjik koroner 
+arteriyospazm bkz. Bölüm 4.8). Daha önce ferrik glukonat  veya demir dekstrana karşı 
+hipersensivite hikayesi olan hastalarda gerçekleştirilen pek çok çalışmada demir (III) hidroksit 
+sükroz kompleksi nin  iyi tolere edildiği görülmüştür. Diğer parenteral demir ilaçlarına karşı 
+bilinen ciddi aşırı duyarlılık için bö lüm 4.3'e bakınız.  
+ 
+Şiddetli astım, egzema veya diğer atopik alerji öyküsü ile ilaç alerjisi olduğu bilinen hastalarda 
+aşırı duyarlılık reaksiyonlarında risk artmaktadır. İmmün sistem hastalıkları ya da enfeksiyon 
+durumlarında (örn. sistemik lupus eritemat ozus, romatoid artrit) parenteral demir 
+komplekslerine karşı aşırı duyarlılık reaksiyonlarında da artış olmaktadır.  
+ 
+VENİRO sadece anafilaktik reaksiyonları acilen değerlendirme ve yönetme eğitimi almış 
+personelin varlığında, tüm resüsitasyon araçlarının sağlandığı yerlerde uygulanmalıdır. Her 
+VENİRO enjeksiyonunu takiben hasta en az 30 dakika boyunca advers etkiler açısından 
+gözlemlenmelidir. Uygulama esnasında aşırı duyarlılık reaksiyonları veya intolerans belirtileri 
+meydana gelirse tedavi hemen durduru lmalıdır. Akut anafilaktik/anafilaktoid reaksiyonları 
+yönetmek için, kalp -solunum resüsitasyon araçları ve 1:1000 enjektabl adrenalin çözeltisini de 
+içeren malzemeler hazır bulundurulmalıdır. Gerekli olduğu durumlarda, antihistaminikler 
+ve/veya kortikoster oidler ek tedavi olarak verilebilir.  
+ 
+Karaciğer yetmezliği olanlarda parenteral demir risk/yarar değerlendirilmesi yapılarak 
+verilmelidir. Aşırı demir yüklenmesinin tetikleyici faktör olabileceği düşünülen karaciğer  
+yetmezliği hastalarında, özellikle porfi ria kutena tarda, parenteral demir uygulamasından 
+kaçınılmalıdır. Demir aşırı yüklenmesinden kaçınmak için dikkatli monitorizasyon 
+önerilmektedir.  
+ 
+5 / 11 
+ Akut veya kronik enfeksiyon durumlarında parenteral demir tedavisi dikkatli uygulanmalıdır. 
+Bakteriyemisi ol an hastalarda VENİRO tedavisinin durdurulması önerilmektedir. Kronik 
+enfeksiyonu olanlarda risk / yarar değerlendirilmesi yapılmalıdır.  
+ 
+VENİRO uygulanırken paravenöz sızıntıdan kaçınılmalıdır çünkü VENİRO enjeksiyon 
+bölgesinde sızıntı, ağrı, enflamasyon v e ciltte kahverengi renk değişimine neden olur.  
+ 
+Çocuklarda demir içeren ürünlerin yanlışlıkla alınması ölümcül zehirlenmeye yol açabilir. 
+Çocukların erişemeyeceği yerlerde saklayınız.  
+ 
+Bu tıbbi ürün her dozunda 1 mmol  (23 mg)’dan daha az sodyum ihtiva eder; yani aslında 
+“sodyum içermez’’.  
+ 
+4.5. Diğer tıbbi ürünler il e etkileşimler ve diğer etkileşim şekilleri  
+Oral yoldan alınan demirin emilimini azaltabileceği için bütün parenteral demir tedavilerinde 
+olduğu gibi VENİRO oral demir preparatları ile birlikte kullanılmamalıdır. Bu nedenle, oral 
+demir tedavisi son VENİRO enjeksiyonundan  en az 5 gün sonra başlanmalıdır.  
+ 
+4.6. Gebelik ve laktasyon  
+Genel tavsiye  
+Gebelik kategorisi B’ dir. 
+ 
+ Bu gebelik kategorisine rağmen hekim, gebenin ilacı kullanıp kullanmaması konusundaki 
+nihai kararını; gebelik haftasına, gebenin var olan/tespit edilen hastalığına ve diğer 
+özelliklerine göre ayrıntılı yarar -risk değerlendirmesi yaparak vermelidir.  
+ 
+ Risk kategorileri ilacın gebelikteki potansiyel riski konusunda sağlık personeline yardımcı 
+olmakla birlikte, hekimin değerlendirmesi esastır.  
+ 
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (kontrasepsiyon)  
+VENİRO , klinik çalışmalarda doğum ko ntrol önlemleri kullanılarak çocuk doğurma potansiyeli 
+olan kadınlarda yaygın olarak kullanılmaktadır.  
+ 
+Gebelik dönemi  
+Birinci trimesterde demir sükroz kullanımı ile ilgili veri yoktur. 2. ve 3. trimesterde  kullanım 
+ile ilgili verilerde (303 gebeye ait veri) anne veya yeni doğanda hiçbir güvenlilik problemi 
+görülmemiştir.   
+ 
+VENİRO’nun  gebe kadınlarda kullanımı ile ilgili yeterli ve iyi kontrol edilmiş çalışma 
+bulunmamaktadır. Bu nedenle gebelik sırasında kullanılmadan önce, dikkatli bir yarar/risk  
+değerlendirilmesi yapılmalı ve açık bir biçimde gerekli değilse gebelik sırasında VENİRO 
+kullanılmamalıdır  (bkz. Bölüm 4.4.) . 
+ 
+6 / 11 
+ Hamileliğin ilk trimesterinde ortaya çıkan demir eksikliği anemisi, birçok vakada oral demir ile 
+tedavi edilebilir. VENİRO’nun fetüs ve anne için olan potansiyel riskine karşılık yarar yönü 
+ağır bastığı değerlendirilir se, tedavi ikinci ya da üçüncü trimester ile sınırlandırılmalıdır.   
+ 
+Parenteral demir ürünlerinin uygulanmasını takiben fetal bradikardi oluşabilir. Genellikle 
+geçicidir ve annede aşırı duyarlılık reaksiyonunun bir sonucudur. Doğmamış bebek, parenteral  
+demir ürünlerinin hamile kadınlara intravenöz uygulanması sırasında dikkatle izlenmelidir.  
+ 
+Hayvanlar üzerinde yapılan çalışmalar, gebelik / embriyonal / fetal gelişim / doğum ya da 
+doğum sonrası gelişim ile ilgili olarak doğrudan ya da dolaylı zararlı et kiler olduğunu 
+göstermemektedir (bkz. bölüm 5.3).  
+ 
+Laktasyon dönemi  
+İntravenöz demir sükroz tedavisi sonrası demirin anne sütüne geçmesi ile ilgili sınırlı bilgi 
+mevcuttur. Bir çalışmada süt veren 10 sağlıklı demir eksikliği olan anne 100 mg demir sükroz 
+almıştır. Tedaviden 4 gün sonra sütte herhangi bir demir artışı olmamış ve kontrol grubu ile 
+fark bulunmamıştır (n=5). VENİRO kullanımında fetüs veya yenidoğana demir derivesinin 
+maruziyeti dışlanamayacağı için risk fayda değerlendirilmesi yapılmalıdır.  
+ 
+Preklinik veriler anne sütü alan bebek üzerinde direk veya indirek hehangi bir zararlı etki 
+göstermemiştir. Süt veren farelerde Fe59 ile işaretli demir sükroz verilmesi sonrası düşük 
+miktarlarda süte ve sperme geçtiği gözlendi. Metabolize olmamış demir sük rozun anne sütüne 
+geçmesi beklenmemektedir.   
+ 
+Üreme yeteneği/ Fertil ite 
+Demir sükroz tedavisinin farelerde çiftleşme performansı ve fertilite üzerinde bir etkisi 
+gözlemlenmemiştir.   
+ 
+4.7. Araç ve makine kullanımı üzerindeki etkiler  
+VENİRO kullanımını takiben baş dönmesi, konfüzyon ya da sersemlik olması durumunda  , bu 
+semptomlar geçinceye kadar hastalar araç veya makine kullanmamalıdır.  
+ 
+4.8. İstenmeyen etkiler  
+Demir (III) hidroksit sükroz kompleksi ile yapılmış klinik çalışmalarda en sık karşılaşılan 
+advers reaksiyonlar her 100 kişiden 4,5’inde görülen tat alma bozukluğudur. Klinik 
+çalışmalarda demir (III) hidroksit sükroz kompleksi ile ilgili en ciddi advers  olay ise her 100 
+hastanın 0,25’inde görülen hipersensivite reaksiyonu olmuştur. Anafilaktoid / anafilaktik 
+reaksiyonlar sadece pazarlama sonrası ortamda bildirilmiştir (seyrek olarak tahmin 
+edilmektedir); ölümler rapor edilmiştir (bkz. Bölüm 4.4).  
+ 
+Klinik araştırmalar sırasında demir (III) hidroksit sükroz kompleksi kullanan 4064 hasta ve 
+pazara verildikten sonra kullanılan hastalarda raporlanan advers olaylar aşağıda belirtilmiştir.   
+7 / 11 
+ Sıklıklar şu şekilde tanımlanır: çok yaygın ( ≥1/10); yaygın ( ≥1/100 ila <1/10); yaygın olmayan 
+(≥1/1.000 ila <1/100); seyrek ( ≥1/10.000 ila <1/ 1.000); çok seyrek (<1/10.000); bilinmiyor 
+(eldeki verilerden hareketle tahmin edilemiyor).  
+ 
+Bağışıklık sistemi hastalıkları  
+Yaygın olmayan: Hipersensitivite  
+Bilinmiyor1): Anaflaktoid /anafilaktik  reaksiyonlar , anjioödem  
+ 
+Sinir sistemi hastalıkları  
+Yaygın: Disguzi  
+Yaygın olmayan: Baş ağrısı, sersemlik hissi , hipoestezi, parestezi  
+Seyrek: Bayılma, uyku hali  
+Bilinmiyor1): Tremor, konsantrasyon  kaybı, konsantrasyonun baskılanması, konfüzyon 
+durumu, anksiyete  
+ 
+Kardiyak hastalıklar  
+Seyrek: Çarpıntı  
+Bilinmiyor1): Taşikardi, bradikardi, Kounis sendromu  
+ 
+Vasküler hastalıkları  
+Yaygın: Hipotansiyon, hipertansiyon  
+Yaygın olmayan: Yüzde kızarma, flebit  
+Bilinmiyor1): Dolaşım kollapsı, tromboflebit   
+ 
+Solunum, göğüs bozuklukları ve mediastinal hastalıklar  
+Yaygın olmayan: Dispne  
+Bilinmiyor1): Bronkospazm  
+ 
+Böbrek ve idrar yolu hastalıkları  
+Seyrek: Kromaturi  
+ 
+Gastrointestinal hastalıklar  
+Yaygın: Bulantı  
+Yaygın olmayan: Kusma, karın ağrısı, diyare , kabızlık  
+ 
+Deri ve deri altı doku hastalıkları  
+Yaygın olmayan: Kaşıntı, döküntü  
+Bilinmiyor1): Ürtiker, eritem  
+ 
+Kas-iskelet bozuklukları, bağ dokusu ve kemik hastalıkları  
+Yaygın olmayan: Kas krampları, miyalji , artralji, ekstremite ağrısı, sırt ağrısı  
+ 
+Genel bozukluklar ve uygulama bölgesine ilişkin hastalıklar  
+Yaygın: Enjeksiyon/infüzyon yeri reaksiyonları2) 
+8 / 11 
+ Yaygın olmayan: Titreme, halsizlik, asteni, periferal ödem, ağrı  
+Seyrek: Göğüs ağrısı, ateş, terleme  
+Bilinmiyor1): Halsizlik, soğuk terleme, solukluk, grip benzeri hastalık3) 
+ 
+Araştırmalar  
+Yaygın olmayan: Gama glutamil transferaz yükselmesi, alanin aminotransferaz yükselmesi, 
+aspartat aminotransferaz yükselmesi, serrum ferritin yükselmesi  
+Seyrek: Kan laktat dehidrojenaz yükselmesi  
+ 
+1Pazarlama sonrası spontan raporlar; tahmini olarak seyrek sıklıkta  
+2En sık bildirilenler şunlardır: enjeksiyon/infüzyon yerinde ağrı, -ekstravazasyon, -iritasyon, -
+reaksiyon, -renk değişikliği, -hematom, -kaşıntı.  
+3Başlangı ç birkaç saatten birkaç güne değişebilir.  
+ 
+Şüpheli advers reaksiyonların raporlanması  
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem 
+taşımaktadır. Raporlama yapılması, ilacın yarar / risk dengesinin sürekli olarak izlenmesine 
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiy onu Türkiye 
+Farmakovijilans Merkezi (TÜFAM)’ ne bildirmeleri gerekmektedir (www.titck.gov.tr; e -posta: 
+tufam@titck.gov.tr; tel: 0800 314 00 08; faks: 0312 218 35 99).  
+ 
+4.9. Doz aşımı ve tedavisi  
+Doz aşımı kendini hemosideroz şeklinde aşırı demir yüklenmesi olarak gösterebilir. Doz aşımı 
+hekimin ihtiyaç gördüğü şekilde demir bağlayıcı bir ajan veya standart medikal uygulamalar ile 
+tedavi edilebilir.  
+ 
+5. FARMAKOLOJİK ÖZELLİKLER   
+5.1. Farmakodinamik özellikler  
+Farmakoterapötik grup: Demir, Parenteral  Demir Preparatları  
+ATC kodu: B03AC  
+ 
+Etki Mekanizması  
+VENİRO’nun aktif maddesi olan demir sükroz, polinüklear demir (III) hidroksit çekirdeğinin 
+büyük sayılarda non -kovalent sükroz  molekülleri ile çevrelenmesiyle oluşur. Kompleksin 
+ortalama molekül ağırlığı (ma) yaklaşık olarak 43 kDa’dır. Polinükleer çekirdek fizyolojik 
+koşullarda demir depo etmeye yarıyan ferritin ile benzerdir. Kompleks, vücutta demir 
+transportu ve depo proteinle rinde demirin kontrollü bir şekilde kullanılması için dizayn 
+edilmiştir (sırasıyla transferrin ve ferritin).  
+ 
+İntravenöz uygulamayı takiben, polinükleer demir çekirdeği başta karaciğer, dalak ve kemik 
+iliği olmak üzere retiküloendotelial sistem tarafından alınmaktadır. İkinci basamak olarak 
+demir, Hb, miyoglobin ve diğer demir içeren enzimlerin sentezinde kullanılmakta veya ferritin 
+formunda başta karaciğerde depolanmaktadır.  
+ 
+9 / 11 
+ Klinik Etkililik ve Güvenlilik  
+ 
+Kronik böbrek yetmezliği  
+LU98001, demir eksikliği  anemisi olan (Hb >8 ve <11 g/dl, TSAT <%20, ve serum ferritin 
+≤300 mcg/l) ve rHuEPO almış olan hemodiyaliz hastalarında 100 mg demir olarak Demir (III) 
+hidroksit sükroz kompleksi nin 3-4 hafta boyunca 10 seansa kadar etkililik ve güvenliliğinin 
+araştırıldı ğı tek kollu çalışmadır. 60/77 hastada Hb ≥11 g/dl elde edilmiştir. Serum ferritin ve 
+TSAT'deki ortalama artış, başlangıçtan tedavinin sonuna (Gün 24) ve ayrıca 2 ve 5. haftadaki 
+takip ziyaretine kadar anlamlı olmuştur.  
+ 
+1VEN03027, rHuEPO alan veya almayan  diyalize bağımlı olmayan kronik böbrek hastalığı 
+olan (Hb ≤11 g/dl, serum ferritin ≤300 mcg/l, and TSAT ≤%25) hastalarda yapılan ve demir 
+(III) hidroksit sükroz kompleksi  (14 gün boyunca bölünmüş dozlarda 1000 mg) ile oral ferroz 
+sülfatın (56 gün boyunca  günde 3 kez 325 mg) karşılaştırıldığı randomize çalışmadır. Klinik 
+cevap (Hb ≥1 g/dl ve serum ferritin ≥160 mcg/l ) oral demir (1/82; %1,2); p<0,0001) ile 
+karşılaştırıldığında demir (III) hidroksit sükroz kompleksi  (31/79; %39,2) ile tedavi edilen 
+grupda  daha fazla gözlenmiştir.  
+ 
+İnflamatuvar bağırsak hastalığı  
+İnflamatuvar bağırsak hastalığı ve anemisi (Hb <11.5 g/dl) olan hasta grubunda yapılan 
+randomize kontrol gruplu bir çalışmada demir (III) hidroksit sükroz kompleksi  (kümülatif  doza 
+ulaşıncaya kadar haftada bir kez veya her iki haftada bir kez 200 mg IV demir) ile oral demir 
+(20 hafta boyunca günde 2 kez 200 mg) karşılaştırılmıştır. Çalışma sonunda Hb ≥2 g/dl artış 
+sağlanan hasta oranı demir (III) hidroksit sükroz kompleksi grubunda %66 iken bu oran oral 
+demir grubunda %47 olmuştur (p=0,07).  
+ 
+Postpartum  
+Postpartum demir eksikliği anemisi (doğum sonrası 24 -48 saatte Hb <9 g/dl ve serum ferritin 
+<15 mcg/l) olan kadınlarda yapılan randomize çalışmada bir kola demir (III) hidroksit s ükroz 
+kompleksi  (n:22) 2x200 mg 2. ve 4. günlerde verilmiştir. Diğer grup ise (n:21) günde iki defa 
+200 mg oral ferröz sülfatı 6 hafta süre ile almıştır. Tedavinin 5. Gününde demir (III) hidroksit 
+sükroz kompleksi alan grupta Hb  yükselmesi 2,5g/dl iken, oral demir grubunda ise Hb 
+yükselmesi 0,7g/dl olmuştur (p<0,01).  
+ 
+Gebelik  
+Randomize, kontrollü bir çalışmada gebeliklerinin 3. trimesterinde olan ve demir eksikliği 
+anemisi olan (Hb 8 ila 10,5 g/dl ve serum ferritin <13 mcg/l) kad ınlar demir (III) hidroksit 
+sükroz kompleksi  (5 gün boyunca uygulanan bireysel olarak hesaplanan toplam demir dozu) 
+veya oral demir polimaltoz kompleksine (doğuma kadar günde 3 kez 100 mg) randomize 
+edilmiştir. Başlangıçtaki Hb değeri hem 28. günde hemde doğumda demir (III) hidroksit sükroz 
+kompleksi grubunda oral demir grubuna göre anlamlı derecede daha üstün olmuştur (p<0,01).  
+ 
+ 
+ 
+10 / 11 
+ 5.2. Farmakokinetik özellikler  
+Genel özellikler  
+ 
+Dağılım:  
+Fe52 ve Fe59 ile işaretlenmiş demir sükrozun ferrokinetiği kronik renal yetmezlikli 6 anemi 
+hastasında değerlendirilmiştir. İlk 6 -8 saatte Fe52 karaciğer dalak ve kemik iliği tarafından 
+alınmıştır. Makrofajdan zengin dalağın radyoaktif alımı retiküloendotelial sistemin demir 
+alımının bir göstergesi olarak değerlendirilmi ştir. 
+ 
+Sağlıklı gönüllülerde intravenöz olarak verilen tek doz 100 mg demir sükroz sonrası 10. 
+dakikada ortalama kan konsantrasyonu 538 mikro mol/l seviyesine ulaşmıştır. Merkezi 
+bölmenin dağılım hacmi, plazma hacmine (yaklaşık 3 litre) karşılık gelmiştir.  
+ 
+Biyotransformasyon : 
+IV uygulamadan sonra, sükroz büyük oranda çözünmüştür ve polinükleer demir başta 
+karaciğer, dalak ve kemik iliği tarafından retiküloendotelial sistem tarafından alınmıştır. 4. 
+haftada alyuvar demir kullanımı %59 ile %97 aralığında  olmuştur.   
+ 
+Eliminasyon : 
+Demir sükroz kompleksinin molekül ağırlığı (ma) yaklaşık 43kDa’dur ve renal eliminasyonu 
+engellemek için yeterli büyüklüktedir. Renal demir eliminasyonu  100 mg demir enjeksiyonunu 
+takiben 4 saat içinde olur ve total dozun %5 inden azdır. Alımdan 24 saat sonra total serum 
+demir konsantrasyonu enjeksiyon öncesi seviyelere ulaşmıştır. Sükrozun renal eliminasyonu 
+alınan dozun %75’i kadar olmuştur.  
+ 
+5.3. Klini k öncesi güvenlilik verileri  
+Hayvanlarda yapılan çalışmalara dayanılarak bildirilen klinik öncesi verilerde tekrarlayan 
+toksisite, gen toksisitesi ve üreme toksisitesine ait zararlı etkiler görülmemiştir.  
+ 
+6. FARMASÖTİK ÖZELLİKLER  
+6.1. Yardımcı maddelerin listesi  
+Sodyum hidroksit  
+Enjeksiyonluk su  
+ 
+6.2.Geçimsizlikler  
+Bu ilaç bölüm 6.6’da yer verilenler dışında herhangi bir ajan ile karıştırılmamalıdır. Diğer 
+ilaçlar ile karıştırıldığında diğer ajanlarla etkileşime girme ve çökelme riski vardır. Cam, 
+polietilen ve PVC dışında kaplar ile geçimi konusu bilinmemektedir.  
+ 
+6.3. Raf ömrü  
+24 ay  
+ 
+Açıldıktan sonra raf ömrü  
+Mikrobiyolojik açıdan ürün açıldıktan hemen sonra kullanılmalıdır.  
+11 / 11 
+ 6.4. Saklamaya yönelik özel tedbirler  
+25°C altındaki oda sıcaklığında ve  kuru bir yerde ışıktan koruyarak saklayınız.  5 saat içerisinde 
+kullanılmadan kalan ilacı atınız.  Dondurmayınız.  
+ 
+Dilüsyon sonrası veya ürün açıldıktan sonraki saklama koşulları için bölüm 6.3’e bakınız.  
+ 
+6.5. Ambalajın niteliği ve içeriği  
+Kutuda, boyun kısmında beyaz halka bulunan 5 ml’lik renksiz Tip I otopul cam ampulde 5 
+adetlik ambalajlar halinde piysaya sunulmaktadır.  
+ 
+6.6. Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler  
+Ampuller kullanılmadan önce çökelti ve h asar konusunda gözle kontrol edilmelidir. Sadece 
+homojen ve çökeltisiz çözeltileri kullanınız.  
+ 
+VENİRO’yu %0,9’luk NaCl haricinde hiçbir madde veya ilaç ile dilusyon amaçlı 
+karıştırmayınız. Dilusyon talimatları için bölüm 4.2’ye bakınız.  
+ 
+Seyreltilmiş çözelti kahverengi ve berrak görünür.  
+ 
+Her ampul VENİRO sadece tek kullanım içindir.  
+ 
+Kullanılmamış olan ürünler /atık materyaller “ Tıbbi  atıkların kontrolü yönetmeliği” ve 
+“Ambalaj a tıklarının kontrolü yönetmeliği” ne uygun olarak imha edilmelidir.  
+ 
+7. RUHSAT SAHİBİ  
+DEVA HOLDİNG A.Ş.  
+Halkalı Merkez Mah.Basın Ekspres Cad.  
+No: 1  34303 Küçükçekmece / İSTANBUL  
+Tel: 0 212 692 92 92  
+Fax: 0 212 697 00 24  
+e-mail: deva@devaholding.com.tr   
+ 
+8.RUHSAT NUMARASI(LARI)  
+2015/470  
+ 
+9. İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ  
+İlk ruhsat tarihi:  26.05.2015  
+Ruhsat yenileme tarihi:  
+ 
+10.KÜB’Ü N YENİLENME TARİHİ  

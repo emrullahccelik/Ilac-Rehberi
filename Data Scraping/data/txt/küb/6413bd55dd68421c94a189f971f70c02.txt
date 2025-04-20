@@ -1,0 +1,604 @@
+ 1 KISA ÜRÜN BİLGİSİ  
+ 
+ Bu ilaç ek izlemeye tabidir. Bu üçgen yeni güvenlilik bilgisinin hızlı olarak belirlenmesini 
+sağlayacaktır. Sağlık mesleği mensuplarının şüpheli advers reaksiyonları TÜFAM’a 
+bildirmeleri beklenmektedir. Bakınız Bölüm 4.8 Advers reaksi yonlar nasıl raporlanır?  
+ 
+1. BEŞERİ TIBBİ  ÜRÜNÜN ADI  
+ 
+OCTANATE  1000 IU IV enjeksiyonluk çözelti tozu ve çözücü 
+ 
+Steril 
+ 
+ 
+2. KALİTATİF VE KANTİTATİF BİLEŞİM  
+ 
+Etkin madde:   
+Her bir flakonda :  
+1000 IU  İnsan K oagülasyon  Faktörü VIII  
+Yaklaşık olarak mL başına ≤ 60 IU von Willebrand Faktörü (VWF:RCo)  
+ 
+10 mL enjeksiyonluk su ile rekonstitüe edilen ürün yaklaşık 100 IU /mL* İnsan Koagül asyon 
+Faktörü VIII içerir.    
+ 
+*Potens (IU), Avrupa Farmakopesi kromojenik tayin yöntemi kullanılarak saptanır. 
+OCTANATE  1000 IU  spesifik aktivitesi yaklaşık ≥ 100 IU/mg proteindir.  
+ 
+İnsan donörlerin plazmasından üretilmiştir.  
+ 
+Yardımcı madde:  
+Bu tıbbi ürünün her bir dozunda 1,75 mmol (40 mg)’a kadar sodyum bulunur.  
+ 
+Yardımcı maddeler için 6.1’e bakınız . 
+ 
+3. FARMASÖTİK FORM  
+ 
+Enjeksiy onluk çözelti için toz ve çözücü. 
+ 
+Toz beyaz veya soluk sarı, ayrıca ufalanabilir katı görünümünde.  
+ 
+Çözücü berrak, renksiz sıvıdır . 
+ 
+4. KLİNİK ÖZELLİKLER  
+ 
+4.1 Terapötik Endikasyonlar  
+ 
+OCTANATE  1000 IU , Hemofili A’lı (konjenital Faktör VIII eksikliği  olan)  hastalarda 
+kanama prof ilaksisi ve tedavisinde kullanılır.  
+ 
+OCTANATE, tüm yaş gruplarında kullanılabilir.  
+  2 Preparat, farmakolojik olarak etkin miktarda von Willebrand F aktör içermediğinden von 
+Willebrand hastalığında  endike değildir.  
+ 
+4.2 P ozoloji ve uygulama şekli  
+ 
+Tedaviye, hemofili tedavisinde uzman bir hekim gözetiminde başlanmalıdır. 
+ 
+Pozoloji /Uygulama sıklığı ve süresi:  
+ 
+Tedavinin izlenmesi  
+Tedavinin uygulanması sırasında, uygulanacak dozun ve enjeksiyonların tekrarlama sıklığının 
+belirlenmesi için,  yol gösterici olarak Faktör VIII düzeylerinin uygun şekilde tayini önerilir. 
+Her hastanın tedavi yanıtı farklıdır, farklı yarılanma ömürleri ve iyileşme gösterir. Vücut 
+ağırlığına dayanan doz nedeniyle normalden daha fazla veya daha düşük kilolu kişilerde  
+dozda ayarlama yapılması gerekebilir. Özellikle majör cerrahi girişim durumunda, yerine 
+koyma tedavisinin, koagülasyon analizi (plazma Faktör VIII aktivitesi) ile kesin ve titiz bir 
+şekilde izlenmesi şarttır.  
+ 
+Pozoloji:  
+Yerine koy ma tedavisinin dozu ve s üresi, Faktör VIII eksikliğinin şiddetine , kanamanın yeri 
+ve büyüklüğüne  ve hastanın klinik durumuna bağlıdır. 
+ 
+Uygulana n Faktör VIII ünite miktarı, Faktör VIII ürünleri için D ünya Sağlık Örgütü’nün 
+güncel konsantrasyon standar dı olan  International Units  (IU) ile ifade edilir. Plazmada  Faktör 
+VIII aktivitesi ise yüzde  oranı  (normal insan plazmasına göre) veya tercihen International 
+Unit (plazmadaki F aktör  VIII için Uluslararası Standarda göre) olarak i fade edilir.  
+ 
+1 International Unit (IU) F aktör VIII akt ivitesi, 1 mL no rmal insan plazmasında bulunan 
+Faktör VIII miktarına eşdeğerdir.  
+ 
+Talebe bağlı tedavi (on- demand therapy)  
+Gerekli Faktör VIII dozu, 1 IU  Faktör VIII/ kg vücut  ağırlığı  miktarının  plazma Faktör VIII 
+aktivitesini, normal aktivite nin %1.5 – 2’si kadar  yükselttiği şeklindeki ampirik bilgi esas 
+alınarak hesaplanır. Gerekli doz aşağıdaki formül kullanılarak belirlenir : 
+    
+Gerekli ü nite  = vücut ağırlığı (kg) x i stenen F aktör VIII artışı (%)  (IU/dL ) x 0,5  
+ 
+Uygulanacak miktar ve uygulama sıklığı her zaman  her hastadaki  klinik etkinliğe bağlı olarak 
+ayarlanmalıdır . 
+ 
+Aşağıdaki kanama durumlar ında, Faktör VIII aktivitesi söz konusu sürede, tabloda verilen 
+plazma aktivite seviyesinin (normal in %’si şeklinde ) altına düşmemelidir. Aşağıdaki tablo 
+kanamalarda ve cerrahide doz ayarlama  rehberi olarak kullanılabilir:  
+ 
+Kanama derecesi  / 
+Cerrahi işlem türü  Gerekli  FVIII  
+seviyesi (%)  
+(IU/dL)  Doz sıklığı (saat) /  Tedavi süresi (gün)  
+Kanama:  
+Erken hemartroz,  
+kas kanamas ı veya oral 
+kanama    20–40 Her 12–24 saatte bir tekrarlanır. En az 1 
+gün olmak üzere, ağrı ile kendini belli 
+eden  kanama dur uncaya veya iyileşme  3 sağlanıncaya  kadar  
+Daha yoğun hemartroz , 
+kas kanamas ı veya 
+hematom  30–60 İnfüzyon, 3 -4 gün veya daha uzun 
+süreyle ağrı veya akut sakatlık  geçinceye 
+kadar her 12 -24 saatte bir tekrarlanır.   
+Hayati tehlike taşıyan 
+kanamalar   60–100 Tehlike ortadan kalkıncaya kadar her  8–
+24 saatte bir infüzyon tekrarlanır.  
+Cerrahi:  
+Minör  cerrahi  
+Diş çekimi dahil  30–60 Her 24 saatte  bir, en az 1 gün  olmak 
+üzere , iyileşm e sağlanıncaya  kadar.  
+Majör  cerrahi  
+80–100 
+(operasyon öncesi ve 
+sonrası)  Her 8–24 saatte bir, yara yeterli derecede 
+iyileş inceye  kadar infüzyon tekrarlanır. 
+Daha sonra en az 7 gün daha FVIII 
+aktivitesini %30 -%60’ta tutmak için 
+tedavi uygulanır.  
+ 
+ 
+Profila ksi 
+Ağır H emofili A hastalarında kanamaya karşı uzun vadeli profilaksi için  olağan doz, 2-3 
+günlük aralıklarla, 20–40  IU/kg Faktör VIII ’dir.  
+ 
+Bazı durumlarda, özellikle daha genç hastalarda daha kısa doz aralıkları veya daha yüksek 
+dozlar gerekli olabilir . 
+ 
+Sürekli infüzyon  
+Cerrahiden önce bir farmakokinetik analiz yapılarak bir klerens tahmini elde edilmelidir.  
+ 
+Başlangıç infüzyon hızı aşağıdaki şekilde hesaplanabilir:  
+Klerens x istenen kararlı durum seviyesi=infüzyon hızı (IU/kg/saat).  
+ 
+Klerens, sürekl i infüzyonun ilk 24 saatinden sonra, ölçülen seviye ve bilinen infüzyon hızı ile 
+birlikte kararlı durum denklemi kullanılarak, her gün yeniden hesaplanmalıdır. 
+ 
+Uygulama şekli  
+İntravenöz kullanılır.  
+ 
+Uygulama hızının dakikada 2- 3 mL’ yi geçmemesi tavsiye edilir.  
+Ürünün uygulamadan önce sulandırılması ile ilgili talimatlar için Bölüm 6.6’ya bakınız.  
+ 
+Özel popülasyonlara ilişkin ek bilgiler:  
+ 
+Böbrek/Karaciğer yetmezliği:  
+Böbrek ve karaciğer yetmezliği olan hastalarda minimum konsantrasyonda ve pratik olarak  
+mümkün en yavaş infüzyon hızıyla uygulanmalıdır. 
+ 
+Pediyatrik popülasyon:  
+6 yaş ve daha küçük 15 çocukta yapılan bir klinik çalışmada, çocuklar için özel bir doz 
+gerekliliği saptanmamıştır. Tedavi ve profilaksi için pozoloji, yetişkinler ve çocuklar için 
+aynıdır. Çocuklarda, doz vücut ağırlığına göre ayarlanarak kullanılabilir. İnfüzyon hızı yavaş 
+olmalıdır.   4  
+Geriyatrik popülasyon:  
+65 yaşının üzeri yaşlı kişilerde doz ayarlaması ve minimum infüzyon hızıyla uygulama 
+gereklidir.  
+ 
+4.3. Kontrendikasyonlar  
+ 
+Etkin madde veya Bölüm 6.1’de listelenen yardımcı maddelerden herhangi birine kar şı aşırı 
+duyarlılık durumunda kontrendikedir.  
+ 
+4.4 Ö zel kullanım uyarıları ve önlemleri  
+ 
+Virüs güvenliliği  
+OCTANATE, insan plazmasından elde edilmektedir. İnsan plazmasından elde edilen ilaçlar, 
+virüsler ve teorik olarak varyant Creutzfeld t-akob  (v- CJD) gibi, çeşitli hastalıklara yol 
+açabilen enfeksiyon yapıcı ajanlar içerebilirler. OCTANATE’de varyant Creutzfeld t-
+Jakob hastalığının bulaşma riski teorik olarak minimumken, klasik Creutzfeld t-Jakob 
+hastalığının bulaşma riski hiçbir kanıtla desteklenmez. Alınan önlemlere rağmen, bu 
+tür ürünler halen potansiyel olarak hastalık bulaştırabilir. 
+ 
+Bu tip ürünlerin enfeksiyon yapıcı ajanları bulaştırma riski, pla zma verenlerin  belirli 
+virüslere önceden maruz kalıp kalmadığının izlenmesi, belirli virüs enfeksiyonlarının 
+halihazırda varlığının test edilmesi ve belirli virüslerin yok edilmesi ve/veya 
+inaktivasyonu ile azaltılmıştır. Bütün bu önlemlere rağmen, bu ürünler hala potansiyel 
+olarak  hastalık bulaştırabilirler. Ayrıca, henüz bilinmeyen enfeksiyon yapıcı ajanların 
+bu ürünlerin içinde bulunma ihtimali mevcuttur.  
+ 
+HIV, HBV, HCV gibi za rflı virüsler ve H AV gibi zarf lı olmayan virüsler için etkili 
+önlemlerin alınmasına dikkat edilmelidir.  Parvovirüs B19 gibi zarflı olmayan virüslere  
+karşı alınan tedbirler  sınırlı sayıda olabilir. Parvovirüs 19 enfeksiyonu, gebelikte (fetal 
+enfeksiyon) ve immün yetmezlik ya da kırmızı kan hücre  üretim inde artış olan 
+hastalarda (he molitik anemi gibi) tehlike li olabilir.  
+ 
+Doktor, bu ilacı hastaya reçete etmeden veya uygulamadan önce hastası ile risk ve 
+yararlarını tartışmalıdır. 
+ 
+ 
+Ayrıca ; 
+OCTANATE kullanılması gerekiyorsa, hekim tarafından, hastalık yapıcı etkenlerin hastaya 
+bulaşmasını önlemek için uygun aşı ların (Hepatit A, Hepatit B vb) yaptırılması önerilebilir.  
+ 
+Hastalar açısından OCTANATE her uygulandığında, hastayla ürünün seri numarası 
+arasındaki bağlantının korunabilmesi için, ürünün adı ve seri numarası kaydedilmelidir.  
+ 
+ 
+ 
+Hipersensitivite  
+OCTANATE  ile alerjik tip te aşırı duyarlılık  reaksiyonları görülme olasılığı vardır . Ürün , 
+Faktör VIII dışında eser miktarda insan proteinleri içerir.  Hastalara, eğer hipersensitivite 
+semptomları ortaya çıkarsa bu ilacın kullanımını derhal durdurmaları ve derhal he kimleri ile 
+temasa geçmeleri söylenmelidir. Hastalar , kurdeşen , jeneralize ürtiker, göğüste daralma,  5 hırıltılı solunum, hipotansiyon ve anafilaksi  dahil aşırı duyarlılık reaksiyonlarının erken 
+belirtileri konusunda bilgilendirilmelidir.  
+ 
+Şok durumunda, st andart şok tedavisi uygulanmalıdır. 
+ 
+İnhibitörler  
+Faktör VIII’ e karşı  nötralize edici  antikor (inhibitörler) oluşumu, Hemofili A hastalar ının 
+tedavisinde bilinen bir komplikasyondur. Bu inhibitörler genellikle Faktör VIII prokoagülan 
+aktiviteye yönelik ola n IgG immünglobulinleridir ve modifiye tetkik kullanılarak her ml 
+plazmada Bethesda Ünitesi (BU) olarak ölçülür. İnhibitör gelişme riski, Faktör VIII’e 
+maruziyetin yanı sıra hastalığın şiddeti ile ilişkilidir ve bu risk ilk 50 maruziyet gününde en 
+yüksek s eviyededir; ancak yaşam boyu devam eder, bununla birlikte risk yaygın değildir.  
+ 
+İnhibitör gelişiminin klinik önemi inhibitör titresine bağlı olacaktır; düşük titrenin teşkil ettiği 
+yetersiz klinik yanıt riski, yüksek titreli inhibitörlere kıyasla daha az  olacaktır.  
+ 
+Genel olarak, koagülasyon Faktörü VIII ürünleri ile tedavi edilen tüm hastalar, uygun klinik 
+gözlem ve laboratuvar testleri ile inhibitörlerin gelişimi açısından dikkatle izlenmelidir. Eğer 
+beklenen Faktör VIII aktivitesinin plazma düzeylerine ulaşılamazsa veya yeterli doz ile 
+kanama kontrol altına alınamazsa Faktör VIII inhibitörü varlığı açısından test yapılmalıdır. 
+İnhibitör düzeyleri yüksek olan hastalarda Faktör VIII tedavisi etkili olmayabilir ve diğer 
+tedavi seçenekleri dikkate alınmalıdır. Böyle hastaların tedavisi hemofili ve Faktör VIII 
+inhibitörleri tedavisi konusunda deneyimli hekimler tarafından yönlendirilmelidir. 
+ 
+Kardiyovasküler olaylar  
+Kardiyovasküler risk faktörleri bulunan hastalarda, FVIII ile yerine koyma tedavisi 
+kardiyova sküler riski arttırabilir.  
+ 
+Kateter ile ilişkili komplikasyonlar  
+Eğer santral venöz kateter (CVAD) takılması gerekli olursa, lokal enfeksiyonlar, bakteriyemi 
+ve kateter yerinde tromboz dahil CVAD ile ilişkili komplikasyon riski dikkate alınmalıdır.  
+ 
+Bula şıcı ajanlar  
+İnsan kanı ve plazmasından hazırlanan ilaçların kullanımından kaynaklanan enfeksiyonları 
+önlemek için alınan standart tedbirler arasında, donörlerin seçimi, her bir bağışın ve plazma 
+havuzunun spesifik enfeksiyon ajanlarına ait belirteçler açı sından taranması, virüs 
+inaktivasyonu/ uzaklaştırılması için etkili üretim aşamalarının dahil edilmesi bulunur. Buna 
+rağmen, insan kanı veya plazmasından hazırlanan ilaçlar kullanıldığında, bulaşıcı enfeksiyon 
+ajanlarının bulaşması olasılığı tamamen ortada n kaldırılamayabilir. Bu durum, bilinmeyen 
+veya yeni çıkan virüsler ile diğer patojenler için de geçerlidir.  
+ 
+Alınan önlemlerin HIV, HBV ve HCV gibi zarflı virüsler ile zarfsız olan HAV virüsü için 
+etkili olduğu kabul edilir. Parvovirüs B19 gibi zarfsız virüslere karşı bu önlemlerin etkisi 
+sınırlı olabilir. Parvovirüs B19 enfeksiyonu, hamile kadınlar (f etal enfeksiyon) ve immün 
+yetersizliği veya yüksek eritropoiezi (örneğin, hemolitik anemi) olan kişilerde önemli olabilir.  
+ 
+İnsan plazmasından üretilen Faktör VIII ürünlerini düzenli/tekrarlanan şekilde alan hastalar 
+için uygun aşılama (hepatit A ve B) yapılması dikkate alınmalıdır.  
+ 
+Biyolojik tıbbi ürünlerin takip edilebilirliğinin sağlanması için uygulanan ürünün ticari ismi 
+ve seri numarası mutlaka hasta dosyasına kaydedilmelidir. Hasta ve uygulanan ilacın serisi  6 arasında bağlantı kurulabilmesi için, hastaya her OCTANATE  1000 IU  uygulanışında ürünün 
+adının ve seri numarasının kaydedilmesi şiddetle önerilir.  
+ 
+Bu ilacın  her bir dozunda 1,75 mmol (40 mg)’a ka dar sodyum bulunur. Bu durum, kontrollü 
+sodyum diyetinde olan hastalar için göz önünde bulundurulmalıdır.  
+ 
+Pediyatrik popülasyon  
+Listelenen uyarı ve önlemler hem erişkinler hem de çocuklar için geçerlidir.  
+ 
+4.5. Diğer tıbbi ürünler ile etkileşimler ve di ğer etkileşim şekilleri  
+ 
+İnsan kogaülasyon faktör VIII ürünlerinin diğer tıbbi ürünlerle  herhangi bir etkileşimi 
+bildirilmemiştir .  
+ 
+Özel popülasyonlara ilişkin ek bilgiler  
+Özel popülasyonlara ilişkin herhangi bir etkileşim çalışması yapılmamıştır.  
+ 
+4.6. G ebelik ve laktasyon  
+ 
+Genel tavsiye:  
+Gebelik kategorisi : C 
+ 
+Çocuk doğurma potansiyeli bulunan kadınlar/doğum kontrolü (kontrasepsiyon)  
+OCTANATE  1000 IU’nun, çocuk doğurma potansiyeli bulunan kadınlarda kullanımına 
+ilişkin özel bir öneri veya tedavi sırasınd a veya sonrasında doğum kontrolünün gerekli 
+olduğuna dair herhangi bir bilgi söz konusu değildir. 
+ 
+Gebelik dönemi  
+Faktör VIII  ile hayvanlarda üreme çalışmaları yapılmamıştır. Hemofili A’nın kadınlarda 
+görülme sıklığının çok düşük olması nedeniyle, gebelerde Faktör VIII kullanımına ait 
+deneyim bulunmamaktadır. Bu nedenle OCTANATE  1000 IU  gebe kadınlarda kesin gerekli 
+ise kullanılmalıdır.  
+ 
+Laktasyon dönemi  
+Hemofili A’nın kadınlarda görülme sıklığının çok düşük olması nedeniyle, süt veren 
+annelerde Faktör VIII kullanımına ait deneyim bulunmamaktadır. Bu nedenle OCTANATE 
+1000 IU laktasyon döneminde sadece kesin gerekli ise kullanılmalıdır.  
+ 
+Üreme yeteneği/fert ilite 
+Hayvan üreme çalışmaları yürütülmemiştir.   
+ 
+4.7. A raç ve makine  kullanımı üzerindeki etkiler  
+  
+Araç ve makine kullanımına etkisi yoktur .  
+ 
+4.8. İ stenmeyen etkiler  
+ 
+Güvenlilik profili özeti  
+ 
+Aşırı duyarlılık  ya da alerjik  reaksiyonlar  (bunlar arasında anjiyoödem, infüzyon bölgesinde 
+yanma ve batma, titreme , sıcak basması , yaygın  ürtiker, baş ağrısı, kurdeşen, hipotansiyon,  7 letarji, bulantı, huzursuzluk, taşikardi, göğüste sıkışma hissi, karıncalanma, kusma, hırıltılı 
+solunum  yer alabilir ) seyrek olarak gözlenmiştir ve bazı olgularda şiddetli anafilaksiye kadar 
+ilerleyebilir (şok dahil).  
+ 
+Seyrek durumlarda ateş olabilir.   
+ 
+ 
+ 
+OCTANATE da dahil olmak üzere Faktör VIII ile tedavi edilmiş hemofili A hastalarında 
+nötralize edici antikorlar (inhibitörler) ge lişebilir (Bkz. Bölüm 5.1). Bu tür inhibitörler ortaya 
+çıkarsa, durum kendini yetersiz klinik yanıt şeklinde gösterecektir. Bu gibi durumlarda, konu 
+hakkında uzman bir hemofili merkeziyle bağlantı kurulması önerilir.  
+ 
+Bulaşıcı ajanlarla ilgili güvenlilik bilgisi için Bölüm 4.4’e bakınız. 
+ 
+Advers reaksiyonların tablolaştırılmış listesi  
+Aşağıda verilen tablo, MedDRA sistem organ sınıflandırmasına (SOC ve Tercihli Terim 
+Düzeyi) uygundur.  
+ 
+Görülme sıklıkları şu yaklaşıma göre değerlendirilmiştir: Çok ya ygın ( ≥1/10); ya ygın (≥1/100 
+ila <1/10); yaygın olmayan (≥1/1.000 ila <1/100); seyrek (≥1/10.000 ila <1/1.000); çok seyrek 
+(<1/10.000); bilinmiyor (eldeki verilerden hareketle tahmin edilemiyor).  
+ 
+Advers reaksiyonlar her bir sıklık grubunda azalan ciddiyet sıras ına göre verilmiştir.  
+ 
+MedDRA  
+Standart Sistem Organ Sınıfı  Advers reaksiyonlar  Sıklık  
+ 
+Bağışıklık sistemi hastalıkları  
+Hipersensitivite  
+ 
+Anafilaktik şok  
+Seyrek  
+ 
+Çok seyrek  
+ 
+Kan ve lenf sistemi hastalıkları  FVIII inhibisyonu  Yaygın olmayan  
+(TGH’le r)* 
+ 
+Çok yaygın  
+(HTGH’ler)*  
+ 
+ 
+Genel bozukluklar ve uygulama 
+bölgesine ilişkin hastalıklar  
+  
+Ateş   
+Seyrek  
+ 
+ 
+Araştırmalar   
+Anti FVIII antikor 
+pozitifliği   
+Seyrek  
+*Sıklık, şiddetli hemofili A hastalarının yer aldığı, tüm FVIII ürünleri ile yapılmış çal ışmalara dayanmaktadır.  
+TGH’ler: daha önce tedavi görmüş hastalar, HTGH’ler: daha önce tedavi görmemiş hastalar  
+ 
+ 
+Pediyatrik popülasyon  
+Çocuklarda advers reaksiyonların sıklığı, tipi ve şiddeti erişkinlerle aynıdır.  
+  8 Şüpheli advers reaksiyonların raporlanması  
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem 
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine 
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers rea ksiyonu Türkiye 
+Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir. ( www.titck.gov.tr ;           
+e- posta: tufam@titck.gov.tr ; tel: 0 800 314 00 08; faks: 0 312 218 35 99)  
+ 
+4.9 D oz aşımı  ve tedavisi  
+ 
+İnsan Koagülasyon Faktörü VIII ile doz aşımı vakası  bildirilmemiştir.  
+ 
+5. FARMAKOLOJİK ÖZELLİKLER  
+ 
+5.1. F armakodinamik özellikler  
+ 
+Farmakoterapötik grup: A ntihemorajik ler: Kan K oagülasyon  Faktörü VIII  
+ 
+ATC -Kodu: B02BD02  
+ 
+Etki mekanizması:  
+Faktör VIII/von Willebrand Faktör kompleksi farklı fizyolojik fonksiyonlar a sahip iki 
+molekülden (FVIII ve vW F) oluşur. Faktör VIII, hemofilik bir hastaya enjekte edildiğinde , 
+hastanın dolaşımındaki von Willebrand F aktörüne bağlanır.  
+ 
+Aktive edilmiş  FVIII , aktive edilmiş  Faktör IX’un kofaktörü gibi davranır, Faktör X’un akti ve 
+edilmiş  Faktör X’a  dönüşümünü hızlandırır. Akti ve Faktör X , protrombini trombine 
+dönüştürür. Trombin, fibrinojeni fibrine dönüştürür ve pıhtı oluşur.  
+ 
+Hemofili A , kan koagülasyonunun cinsiyete bağlı kalıtımsal bir bozukluğudur, Faktör VIII:C 
+seviyesinin düşmesi sonucu oluşur ve eklemlerin, kasların veya iç organların kendiliğinden 
+veya kazara ya da cerrahi travmalar nedeni ile çok miktarda kanaması ile sonuçlanır. 
+Plazmada Faktör VIII seviyesi yerine koyma tedavisi ile yükseltilir, böylece  faktör yetmezliği 
+ve kanama eğilimi geçici olarak düzeltilir.  
+ 
+Şu dikkate alınmalıdır: Farklı faktör konsantreleri ve farklı klinik çalışmalar arasında yıllık 
+kanama oranı (ABR) karşılaştırılabilir değildir.  
+ 
+Daha önce tedavi edilmemiş hastalar (TGH)  
+FVIII’e karşı antikor gelişimi asıl olarak daha önce tedavi edilmemiş hastalarda ortaya çıkar. 
+OCTANATE’ın bu hastalardaki immünojenisitesini araştıran açık tasarımlı bir prospektif 
+çalışmaya 51 hasta dahil edilmiştir. 20 hasta primer olarak talebe bağlı olarak (on demand) ve 
+31 hasta da profilaktik olarak tedavi edilmiştir. 44 hasta immünojenisite değerlendirme 
+kriterlerini (yani, >50 ED ve FVIII:C <%1) karşılamıştır. İnhibitör gelişe n 5 hastanın ikisinde 
+(bir tanesi yüksek titreli, bir tanesi düşük titreli inhibitör taşıyan), inhibitörler, doz veya tedavi 
+sıklığında bir değişiklik olmaksızın, normal OCTANATE tedavisi ile ortadan kaybolmuştur. 
+Tüm inhibitörler talebe bağlı tedavi edile n hastalarda saptanmıştır. Yüksek titreli ve düşük 
+titreli inhibitör gelişimi için geçen ortalama süre, sırası ile 10 ED (aralık 3 -19) ve 48 ED’dir.  
+ 
+OCTANATE, halen devam eden gözlemsel bir klinik çalışmada, immün tolerans indüksiyon 
+(ITI) tedavisi açısı ndan değerlendirilmektedir.  
+  9 Bugüne kadar ITI için OCTANATE tedavisi almış 69 hastada yapılan bir ara analizde, 49 
+hasta çalışmayı tamamlamıştır. İnhibitörlerin başarılı bir şekilde elimine edildiği hastalarda 
+aylık kanama oranları anlamlı şekilde düşmüşt ür. 
+ 
+5.2. F armakokinetik özellikler  
+ 
+Genel özellikler:  
+İnsan plazma koagülasyon Faktörü VIII (tozdan), insan plazmasının normal bir bileşenidir ve 
+endojen Faktör VIII gibi hareket eder.  
+ 
+Emilim:  
+İnfüzyonla verildiğinden doğrudan kana geçer.  
+ 
+Dağılım: 
+Ürün ün enjekte edilmesinden sonra Faktör VIII’in yaklaşık 2/3 – 3/4’ü dolaşımda kalır. 
+Plazmada ulaşılan  Faktör VIII aktivite seviyesi önceden tahmin edilen Faktör VIII 
+aktivitesin in %80 -  %120’si arasında olmalıdır.  
+ 
+Eliminasyon: 
+Plazma Faktör VIII aktivites i iki fazlı, eksponansiyel yıkıma uğrar. Başlangıç fazında, damar 
+içi ve diğer bölümler (vücut sıvısı) arasında  dağılım söz konusu olup plazmadan eliminasyon 
+yarı ömrü 3 – 6 saattir . Daha yavaş olan sonraki fazda ise (muhtemelen Faktör VIII tüketimini 
+yansıtmaktadır) y arı ömür  8–20 saat arasında değişmekte olup ortalama 12 saattir.  Bu gerçek 
+biyolojik yarılanma ömrünü yansıtmaktadır.  
+ 
+OCTANATE için 10 ve 14 Hemofili A  hastası  ile yapılan farmakokinetik çalışmalarda sırası 
+ile aşağıdaki sonuçlar elde edilmiş tir: 
+ 
+ İyileşme  
+(% x IU -1 
+x kg)  EAA *norm  
+(% x saat  x 
+IU-1 x kg)  Yarılanma 
+ömrü ( saat) MRT* 
+(saat) Klerens 
+(mL x saat -1 x 
+kg) 
+Çalışma 1, n=10  
+Ortalama ± SD*  2,4 ±  0,36 45,5 ±  17,2 14,3 ±  4,01 19,6 ±  6,05 2,6 ±  1,21 
+Çalışma 2, n=14  
+Ortalama ± SD*  2,4 ±  0,25 33,4 ±  8,50 12,6 ±  3,03 16,6 ±  3,73 3,2  ± 0,88 
+EAA*  = eğri altındaki alan  
+MRT*  = ortalama rezidans süresi  
+SD* = standart sapma  
+ 
+5.3. Klinik öncesi güvenlilik verileri 
+ 
+OCTANATE’ ın üretimi sırasında v iral inaktivasyon SD yönteminde solvent/deterjan reakt ifi 
+olarak kullanılan tri -n-bütilfosfat (TNBP) ve polisorbat 80 (tween 80), ile ilgili mevcut 
+toksikolojik veriler (Polisorbat 80 için sınırlı olmakla birlikte)  öngörülen insan 
+maruziyetlerinde advers etkilerin beklenmediğini gösterir.    
+ 
+Bu reaktifler, v ücut ağır lığının her bir kilogramı için önerilenden birkaç kat daha fazla dozda 
+laboratuvar hayvanlarında toksik etki göstermemiştir. Her iki madde için de mutajenik 
+potansiyel gözlenmemiştir.  
+  10 6.  FARMASÖTİK ÖZELLİKLER  
+ 
+6.1. Y ardımcı maddelerin listesi  
+ 
+Toz: 
+Sodyum s itrat 
+Sodyum klorür   
+Kalsiyum k lorür  
+Glisin  
+ 
+Çözücü  
+Enjeksiyonluk su  
+ 
+6.2. Geçimsizlikler  
+ 
+Geçimlilik çalışmaları bulunmadığı için, bu ürün, diğer tıbbi ürünlerle karıştırılmamalıdır.  
+ 
+Sadece ürünle birlikte sağlanan enjeksiyon/infüzyon setleri kullanı lmalıdır. Çünkü insan 
+Koagülasyon Faktörü VIII’in bazı enjeksiyon/ infüzyon ekipmanının iç yüzeyine adsorpsiyonu 
+sonucunda tedavi başarısızlığa uğrayabilir.  
+ 
+6.3. Raf ömrü  
+ 
+Raf ömrü 24 aydır.  
+Sulandırılan çözelti derhal kullanılmalıdır ve sadece tek kullanım iç indir.  
+ 
+6.4. Saklamaya yönelik özel tedbirler 
+ 
++2 - +8 oC’de (buzdolabı nda) saklayınız. Dondurmayınız. Donmuş ürünleri çözüp 
+kullanmayınız.   
+Flakonu ışıktan korumak için dış ambalajı içinde saklayınız.  
+ 
+Sulandırdıktan sonraki saklama koşulları için Bölüm 6.3’ e bakınız.  
+ 
+6.5. Ambalaj ın niteliği ve  içeriği  
+ 
+OCTANATE 1000 IU ambalajı içinde;  
+• 1 toz flakonu (tip I cam), tıpa (klorobutil veya bromobutil kauçuk) ve geçme kapak  
+• 1 çözücü flakonu (10 mL enjeksiyonluk su )  (tip I cam), tıpa (klorobutil veya 
+bromobutil kauç uk) ve geçme kapak  
+• 1 tıbbi cihaz içeren ekipman paketi  (1 tek kullanımlık enjektör, 1 transfer seti [1 iki 
+uçlu iğne ve 1 filtre iğnesi ], 1 kelebek set)  
+• 2 alkollü mendil  
+ 
+6.6. Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler  
+ 
+• Lütfen bütün talimatları dikkatlice okuyunuz ve uygulayınız. 
+• OCTANATE’ı son kullanma tarihinden sonra kullanmayınız . 
+• Aşağıda anlatılan işlem sırasında tam sterilite sağlanmalıdır.  
+• Sulandırılmış çözelti uygulamadan önce görsel olarak parçacıkların varlığı ve renk 
+değişimi açısından kontrol edilmelidir.   11 • Çözelti berrak veya hafif opalesan olmalıdır. Bulanık veya içinde çökeltiler bulunan 
+çözeltileri kullanmayınız.  
+• Hazırlanan çözeltiyi, mikrobiyal kontaminasyondan kaçınmak için, hemen kullanınız.  
+• Sadece bu ilacın amb alajıyla sağlanan injeksiyon setini kullanınız. Başka 
+enjeksiyon/infüzyon setlerinin kullanılması, ek risklerin ortaya çıkmasına ve tedavinin 
+başarısız olmasına neden olabilir.  
+ 
+Kullanılmamış olan ürünler  ya da atık materyaller, “Tıbbi Atıkların Kontrolü Yönetmeliği”  ve 
+“Ambalaj ve Ambalaj Atıklarının Kontrolü Yönetmelikleri”ne  uygun olarak imha edilmelidir.   
+ 
+ 
+Rekonstitüsyon hazırlama talimatları:  
+1. Bu ilacı buzdolabından alıp hemen kullanmayınız. Kapalı flakonlardaki toz ve çözücünün 
+(enjeksiyonluk su)  oda sıcaklığına gelmesini bekleyiniz .  
+ 
+2. Tozun ve suyun bulunduğu flakonların geçme kapaklarını çıkarın ız ve her iki şişenin lastik 
+tıpalarını ambalaj içinde sağlanan alkollü mendille rden biri ile  temizleyin iz. 
+ 
+3. İki uçlu iğnenin kısa ucunun koruma ka pağını çıkartın ız ve iğnenin açıkta kalan kısmının 
+hiçbir yere değmemesine dikkat ediniz .  
+Daha sonra suyun bulunduğu flakonun lastik tıpasını tam ortadan, iğneyi dik tutarak deliniz . 
+Su flakonundan sıvıyı tamamen çekmek için iğne , tıpayı iyice delecek ve flakonun içinden 
+görülecek şekilde batırılmalıdır.  
+ 
+4. İki uçlu iğnenin uzun olan diğer ucunun koruma kapağını çıkartınız , iğnenin açıkta kalan 
+kısmının hiçbir yere temas etmemesine dikkat ediniz .  
+Su flakonunu aşağıya yani tozun bulunduğu flakonun üzerine  doğru çeviriniz  ve hızlı bir 
+şekilde iğnenin uzun olan ucuyla toz flakonunun lastik tıpasını  tam ortadan delin iz. Toz 
+flakonundaki vakum suyu çekecektir.  
+ 
+5. İki uçlu iğneyi boş su flakonu ile birlikte tozun bulunduğu flakondan çekiniz . Flakonu, 
+konsantre  tamamiyle çözünene kadar yavaşça sallayın ız. OCTANATE  1000 IU  oda 
+sıcaklığında çok çabuk çözünecektir. Oda sıcaklığında hazırlama süresi 10 dakikadan daha 
+azdır.  
+  
+Çözücü ile hazırlandıktan sonra , OCTANATE  1000 IU  intravenöz olarak uygulanır. Çözelti 
+berrak veya hafif opalesan olmalıdır. Bulanık veya tortu bulunan çözeltileri kullanmayınız.  
+ 
+Hazırlanan ürün partikül ve renk kaybı için kullanımdan önce incelenmelidir.  
+ 
+Hazırlanan çözelti hemen kullanılmalıdır ve yalnızca tek kullanım içindir.  
+ 
+Enjeksiyon için talimatlar:  
+Enjeksiyon öncesi ve F aktör VIII enjeksiyonu esnasında önlem olarak hastanın nabzı  
+ölçülmelidir. Nabızda  belirgin bir artış görüldüğü takdirde enjeksiyon hızı azaltılmalı veya 
+kısa bir süre için uygulama kesilmelidir.  
+ 
+1.  Toz yukarıda bah sedildiği gibi sulandırıldıktan sonra, filtre iğnesinin koruma kapağını 
+çıkartın ız ve konsantre flakonunun lastik tıpasını delin iz. 
+2.  Filtre iğnesinin kapağını çıkartın ız ve enjektöre takınız .  
+3.  Flakonu enjektörle birlikte aşağıya doğru çeviriniz  ve çözeltiyi enjektöre çekin iz.  12 4.  Enjeksiyon bölgesini ambalaj içinde sağlanan alkollü mendille rden biri ile  temizleyin iz. 
+5.  Filtre iğnesini enjektörden ayırın ız ve kelebek infüzyon iğnesine takınız . 
+6.  Kelebek infüzyon iğnesini seçilmiş olan damarın içine sokunuz . 
+7. Çözeltiyi dakikada 2 -3 mL hızla damara enjekte ediniz .    
+ 
+Bir tedavide bir flakondan fazla OCTANATE  1000 IU  toz kullanılacak ise, aynı kelebek 
+infüzyon iğnesi ve enjektör kullanılabilir. Filtre iğnesi tek kullanım içindir. Çözelti enjektöre 
+çekilirken her zaman yeni bir filtre iğnesi kullanılır. 
+ 
+Sadece ürünle birlikte sağlanan enjeksiyon seti kullanılmalıdır. Diğer enjeksiyon/infüzyon 
+setlerinin kullanımı ek risklere ve tedavi başarısızlığına sebep olabilir. 
+ 
+ 
+7. RUHSAT  SAHİBİ  
+ 
+Berk İlaç İth alat ve Pazarlama A.Ş.  
+Poligon Mah. Sarıyer Cad. ABC Plaza  No: 117/B Kat:  2 İstinye -Sarıyer  / İstanbul  
+Telefon: 0 212 277 33 03  
+Faks: 0 212 277 30 36  
+ 
+8. RUHSAT NUMARASI(LARI)  
+ 
+2017/446 
+ 
+9. İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ  
+ 
+İlk ruhsat tarihi: 22.06.2017 
+Ruhsat yenileme tarihi: 
+ 
+10. KÜB’ÜN YENİLENME TARİHİ  
+ 
+ 

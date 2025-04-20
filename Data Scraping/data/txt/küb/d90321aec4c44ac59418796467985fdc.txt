@@ -1,0 +1,500 @@
+1 
+ KISA ÜRÜN BİLG İSİ 
+ 
+ 
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI     
+ MON.FDOPA (
+18F) 185 MBq – 18,5 GBq (5 mCi -500 mCi) i.v. enjeksiyonluk çözelti  
+Steril  
+2. KALİTATİF VE KANTİTATİF BİLEŞİM  
+ 
+Etkin madde:  MON.FDOPA (18F)’nın her  1 mL’si  kalibrasyon tarih ve saatinde 185 MBq 
+(18F) Fl orodopa  içermekted ir. 
+ 
+Her b ir flakonda bulunabilecek maksimum hacim 10 mL ve bulunabilecek aktivite kalibrasyon 
+tarih ve saatinde  185 MBq – 18,5 GBq  (5 mCi – 500 mCi) (18F) Florodopa  arasında değişir.  
+ 
+Flor-18 (18F) radyonüklidinin yarı ömrü 110 dakikadır; kararlı oksijene (18O) bozunur . 
+Bozunma esnasında pozitif yüklü bir elektron olan pozitron yayılır (maksimum enerjisi 635 
+keV). Ardından yayılan pozitronlar yolları üzerindeki herhangi bir elektron ile çarpışarak yok 
+olur (bu olaya anni hilasyon adı verilir)  ve annihilasyon reaksiyonunda birbiri ne 180 derece zıt 
+yönde 511 keV’lik bir çift foton yay ımlanır . 
+  
+Yardımcı madde(ler) :  
+Na-EDTA (en fazla 14,6 mg/10 mL çözelti) , etanol  (en fazla 0,3 mL/10 mL çözelti) . 
+Yardımcı maddeler için 6.1’e bakınız.  
+   3. FARMASÖTİK FORM  
+    Enjeksiyonluk çözelti  
+Renksiz ve berrak çözelti  
+  4. KLİNİK ÖZELLİKLER  
+ 4.1 Terapötik endikasyonlar  
+ 
+Bu ürün yalnızca tanı amaçlı kullanılır. 
+ 
+MON.FDOPA (18F) yeti şkinlerde ve pediyatrik popülasyonda  Pozitron Emisyon Tomografi 
+(PET ) ile kullanılır.  Nöroloji ve onkoloji alanlarındaki tanısal görüntüleme işlemleri için 
+kullanılmaktadır.  
+ 
+2 
+ Nöroloji  
+MON.FDOPA (18F) PET ile, striyatumdaki dopaminerjik nöron bağlantı uçlarının fonksiyon 
+kaybını saptamak  amacıyla kullanılır . Parkinson hastalığının teşhisinde ve esansiyel  tremor  ile 
+Parkinson hastalığı ve Parkinson benzeri sendromlar arasındaki ayrımı  yapmak için 
+kullanılabilir  (örn. Parkinson hastalığı (PD), multisistem atrofi ve ilerleyici supranükleer palsi) . 
+ 
+Onkoloji  
+Medikal görüntüleme yöntemlerinden (18F) Florodopa ile PET görüntüleme, 
+dihidroksifenilalanin amino asitinin intrasellüler transportu ve dekarboksilasyonunun arttığı 
+organlar ve dokuların tanısal hedef olduğu patolojilere fonksiyonel yaklaşım sağl ar. Aşağıdaki 
+endikasyonlar özellikle dokümante edilmiştir:  
+ Tanı  
+- Bebeklerde ve çocuklarda hiperinsülinizm durumunda insülinomaların tanısı ve lokalizasyonu 
+- Süksinat dehidrojenaz D varyantının gen mutasyonu olan hastalarda paragangliomaların tanı ve lokali zasyonu 
+- Feokromasitoma ve paragangliomaların lokalizasyonu  
+ Evreleme  
+- Feokromositoma ve paraganglioma  
+- Orta bağırsağın (jejunum, ileum, ileoçekal valv, apandis, çıkan kolon) iyi diferansiye 
+nöroendokrin tümörleri  
+ 
+Rekürrens veya rezidüel  hastalık ile ilgili şüpheli durumların  tespitinde  
+- Primer beyin tümörlerinde tüm differansiyasyon derecelerinde  
+- Feokromositoma ve paraganglioma  
+- Yüksek kalsitonin serum seviyeleri bulunan m edüller tiroid kanseri  
+- Orta bağırsağın (jejunum, ileum, ileoç ekal v alv, apandis, çıkan kolon)  iyi diferansiye 
+nöroendokrin tümörleri  
+- Somatostatin reseptör sintigrafisi negatif olduğunda diğer endokrin sindirim tümörleri  
+ 
+4.2 Pozoloji ve uygulama şekli  
+  
+Pozoloji /uygulama sıklığı ve süresi:  
+Pozoloji: 
+Pediyatrik  Popülasyon 
+Çocuklarda ve ergenlik çağındaki hastalarda kullanımı, klinik ihtiyaçlar ve yarar/risk oranına 
+dayanarak dikkatle değerlendirilmelidir.  Çocuklara uygulanacak radyoaktivite miktarının 
+hesaplanması Avrupa Nükleer Tıp Derneği, Pediatri Çalışma Grubu (EANM) önerileri dikkate 
+alınarak şu şekilde hesaplanabilir:  
+- Aşağıdaki  formül  kullanılarak 3D modunda PET görüntüleme kuvvetle önerilir : 
+uygulanan aktivite [MBq] = 14 x çarpım katsayısı (aşağıdaki tabloda verilmiştir), 
+minimum aktivite = 14 M Bq 
+3 
+ - Eğer sadece 2D modunda  PET 2D uygunsa/kullanılabiliyorsa, aşağıdaki formülü 
+kullanın: uygulanan aktivite [MB q]  =  2 5 ,9 x çarpım katsayısı (aşağıdaki tabloda 
+verilmiştir), minimum aktivite = 26 MBq  
+ 
+Ağırlık  
+[Kg]  Çarpan  Ağırlık  
+[Kg]  Çarpan  Ağırlık  
+[Kg]  Çarpan  
+3 1 22 5,29 42 9,14 
+4 1,14 24 5,71 44 9,57 
+6 1,71 26 6,14 46 10 
+8 2,14 28 6,43 48 10,29 
+10 2,71 30 6,86 50 10,71 
+12 3,14 32 7,29 52-54 11,29 
+14 3,57 34 7,72 56-58 12 
+16 4 36 8 60-62 12,71 
+18 4,43 38 8,43 64-66 13,43 
+20 4,86 40 8,86 68 14 
+ 
+Yetişkinler ve yaşlı p opülasyon 
+Onkolojide, e rişkin bir hasta  (70 kg)  için önerilen aktivite 2 – 4 MBq /kg (bu aktivite hastanın  
+vücut ağırlığına, kullanılan PET (/BT) kamera türü ve  görüntüleme  moduna (2D/3D) göre 
+adapte edilmelidir ) bir dakikanın üzerinde yavaş enjeksiyon ile doğrudan damar içine 
+uygulanır.  
+ Nörolojide, erişkin bir hasta (70 kg) için önerilen aktivite 1 - 2 MBq/kg (bu aktivite hastanın  
+vücut ağırlığına, kullanılan (PET /BT) kamera türü ve görüntüleme  moduna (2D/3D)  göre 
+adapte edilmelidir) bir dakikanın üzerinde yavaş enjeksiyon ile doğrudan damar içine  
+uygulanır.  Tüm vücut taraması gerektirmeyen nörolojik endikasyonlarda  bu aktivitenin yarısının 
+uygulanması yeterli olabilir.  Böbrek/Karaciğer yetmezliği  
+Bu hastalarda artan bir radyasyon maruziyeti  mümkün olabileceğinden, uygulanacak aktivite 
+belirlenirken özellikle dikkat edilmelidir.  
+ Uygulama şekli:  
+Hastanın hazırlığı için bölüm 4.4’e bakınız.  
+Enjeksiyondan hemen önce (18F) Florodopa  aktivitesi bir aktivite ölçer ile ölçülmelidir.  
+(18F) Florodopa  enjeksiyonu, lokal damar dışına kaçma (ekstravazasyon) sonucu ışınlanmayı 
+ve aynı zamanda görüntüleme artifaktlarını önlemek için, sadece intravenöz olarak 
+uygulanmalıdır. 
+ 
+İntrave nöz kullanım için: MON.FDOPA (18F) yaklaşık bir dakikanın üzerinde yavaş intravenöz 
+enjeksiyon ile uygulanmalıdır. 
+ 
+Uygulamadan önce MON.FDOPA (18F) hazırlama talimatları için bölüm 6.6  ve 12’ye bakınız. 
+4 
+  
+Görüntü elde etme  
+Nöroloji  
+- Enjeksiyondan itibaren 90. veya 120. dakikaya kadar beynin “dinamik” PET görüntüleri 
+elde edilir  veya enjeksiyondan sonra 90. dakikada başlayan “statik” PET görüntüsü  elde 
+edilir.  
+ 
+Onkoloji  
+- Glioma: Enjeksiyondan sonra 10 ile 30 dakika arasında beynin bir “statik” PET 
+görüntüsü elde edilir.  
+- Medullar tiroid kanserleri: Enjeksiyondan sonraki 15. dakikadan itibaren tüm  vücut 
+statik görüntüleri alınır, daha sonra bu görüntülerde saptanan odaklar hedeflenerek ilave 
+görüntüler alınabilir.  
+- Orta bağırsağın nöroendokrin tümörleri:  Enjeksiyondan sonraki bir saat içinde 
+(fizyolojik safra keses i aktivitesi gelişmeden önce ) batın merkezli tüm vücut görüntüsü 
+elde edilir.  
+- Paragangliomalar: Enjeksiyondan 30 dakika ile 1 saat sonra tüm vücut görüntüsü elde 
+edilir.  
+- Hepati k, pank reatik ve s ervikal bölgelerdeki odakları tespit etmek için, enjeksiyonda n 
+hemen sonra 5. dakikadan başlayarak erken statik görüntüler ya da enjeksiyondan 
+hemen sonra başlayan bir 10 dakikalık dinamik görüntü alınabilir.  
+- Tüm vücut görüntüler i genellikle enjeksiyondan 60 dakika sonra alınır. 
+ 
+4.3 Kontrendikasyonlar  
+ 
+- Etkin maddeye veya 6.1’ de verilen yardımcı maddelerden herhangi birine aşırı 
+hassasiyet durumunda , 
+- Hamilelik döneminde kontrendikedir.  
+ 
+4.4 Özel kullanım uyarıları ve önlemleri  
+ 
+RADYOFARMASÖT İKLER SADECE NÜKLEER TIP UZMANLARI TARAFINDAN  
+NÜKLEER TIP MERKEZLER İNDE UYGULANIR.  
+ 
+Genel uyarılar  
+Radyoaktif tıbbi ürünler belirlenmiş klinik ortamlarda sadece yetkili kişiler tarafından teslim 
+alınmalı, kullanılmalı ve uygulanmalıdır. Teslim alınmaları, saklanmaları, kullanım, transfer v e 
+imha edilmeleri mevzuat ve/veya yetkili resmi organizasyonların uygun lisanslarına tabidir.  
+ 
+Radyoaktif tıbbi ürünler  hem radyasyon güvenliği hem de farmasötik kalite gerekliliklerini 
+yerine getirecek şekilde hazırlanmalıdır. Uygun aseptik önlemler alınm alıdır.  
+5 
+  
+Hipersensitivite veya anaflaktik reaksiyon potansiyeli 
+Eğer hipersensitivite veya anaflaktik reaksiyonlar meydana gelirse, tıbbi ürünün kullanımı 
+derhal durdurulmalı ve gerekirse damar yolu açılarak tedaviye başlanmalıdır. Acil durumlarda 
+derhal önlem alabilmek için gerekli tıbbi ilaçlar, endotrakeal tüp ve ventilator gibi ekipmanlar 
+hemen kullanılabilir şekilde hazır olmalıdır.  
+ 
+Bireysel yarar/risk doğrulaması  
+Bütün hastalar için radyasyon maruziyetini en aza indirmek amacıyla optimum görüntü alınabilecek minimum doz (ALARA prensibi) uygulanmasına dikkat edilmelidir.  
+Böbrek ve karaciğer yetmezliği  
+Bu hastalarda radyasyon maruziyeti artabileceğinden yarar risk oranı dikkatle 
+değerlendirilmeli, gerekirse aktivite azaltılmalıdır.  
+ 
+Pediyatrik popülasyon 
+Pediyatrik popülasyonda kullanımla ilgili bilgi için bölüm 4.2’ye bakınız.  
+Çocuklarda her bir MBq etkin doz yetişkinlerden daha yüksek olduğundan, endikasyonun dikkatle değerlendirilmesi gereklidir (bakınız bölüm 11, dozimetri) . 
+ 
+Hastanın hazırlanması  
+MON.FDOPA (18F) PET/ BT uygulaması yapılacak hastalar dan, MON.FDOPA (18F) 'nın 
+intravenöz enjeksiyonundan önce , su alımlarını sınırlamadan (ve gerekirse glukoz verilerek) en 
+az 4 saat boyunca aç kalmaları istenir. Ayrıca en iyi kalite görüntüler elde etmek ve sonrasında 
+mesanenin radyasyon maruziyetini azaltmak i çin, enjeksiyon öncesi ve sonrası hastaların 
+mümkün olduğunca bol miktarda su içerek sık sık mesane sini boşalt ması önerilir.  
+ 
+Nörolojik olgularda testten 12 saat önce anti -parkinson ilaçların kesilmesi istenir ve genellikle 
+enjeksiyondan 1 ila 1,5 saat ön ce 100 -200 mg karbidopa oral olarak verilir.  
+ Konjenital hiperinsülinizm olgularında (
+18F) Florodopa  PET/CT çalışması için 2 gün boyunca 
+bazı ilaçların (diazoksit, oktreotid ve glukagon) kesilmesi standart bir protokoldür. 6 saat açlık sonrası öglisemiyi korumak için bir glikoz infüzyonu gerekebilir.  
+ Onkolojik endikasyonlarda ise, testten en az 12 saat önce içinde glukagon bulunan herhangi bir tedavi alınıyorsa, bunun kesilmesi önerilir.  
+(18F) Florodopa  PET görüntülerinin  yorumlanması  
+ 
+Nöroloji  
+ (18F) Florodopa’nın beynin farklı bölgelerindeki tutulumunu yorumlamak için yaş ve cinsiyet e 
+göre eşleştirilmiş kontrollerle karşılaştırma k gerekmektedir. Yakın tarihli yayınlar da normal 
+6 
+ vakaların veritabanı ve voksel -bazlı İstatistiksel Parametrik Haritalama (SPM) ve Otomatik İlgi 
+Alanı (ROI) analizleri referans alınmıştır .  
+ 
+Onkoloji  
+İnflamatuvar lezyonlarda (18F) Florodopa  PET ile “yanlış  pozitif sonuçlar” oldukça nadir 
+görül mektedir. Bununla beraber beklenmeyen bir (18F) Florodopa  odağı tespit edildiğinde 
+inflamatuvar lezyon olasılığı akla gelmelidir . Yorumlarken fizyolojik biyodağılım göz  önüne 
+alınarak ; özellikle bazal gangliyada tutulum, pankreasta yaygın tutulum, sonradan bağırsakta 
+aktivite ortaya çıkmasına yol  açan safra kesesindeki tutulma ve idrar yollarında “hot spot (sıcak 
+nokta)” görünümü ve mesanede yüksek aktiviteye neden olan böbrek tutulumuna dikkat 
+edilmelidir . 
+ 
+Uygulama sonrası  
+Uygulamadan sonra ki ilk 12 saat boyunca bebek ve hamile kadınlar ile yakın temastan 
+kaçınılmalıdır.  
+ 
+Özel u yarılar  
+pH ayarlamasından sonra hazırlanan enjeksiyonun hastaya uygulandığı zamana bağlı olarak, hastaya verilen sodyum içeriği bazı durumlarda 1 mmol (23 mg)’dan fazla olabilir. Bu durum düşük sodyum diyeti uygulayan hastalarda dikkate alınmalıdır.  
+ 
+Bu tıbbi ürün az miktarda – her uygulama dozunda (maksimum 0,3 mL) 100 mg dan daha az - 
+etanol (alkol) içerir.   
+ 
+Çevresel zararlar ile ilgili önlemler için bkz . bölüm 6.6 
+ 
+4.5 Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri  
+ 
+Karbidopa  
+Floro dopa ( F
+18) uygulamasından önce , karbidopa kullanımı periferal dek arboksilaz aktivitesini 
+inhibe ederek ve 3-O- metil- floro dopa (18F) oluşumu ile periferal (18F) Florodopa  
+metabolizmasını kısıtlayarak beyinde (18F) Florodopa  biyoyaralanımını artırabilir.  
+ 
+Haloperidol  
+Haloperidol’ün neden olduğu artmış intraserebral dopamin döngüsü, (18F) Florodopa  
+birikiminde artışa yol açabilir.  
+ Monoamin oksidaz (MAO) inhibitörleri  
+MAO inhibit örleri ile eş zamanlı kullanım beyinde (
+18F) Florodopa  birikiminde artışa yol 
+açabilir.  
+ Rezerpin  
+7 
+ Intran öronal ve ziküllerin içeriği nin rezerpin nedeniyle  azalması beyinde (18F) Florodopa  
+tutulumunu önleyebilir. 
+  Özel popülasyonlara ilişkin ek bilgiler   
+Pediyatrik popülasyon  : 
+Etkileşim çalışmaları sadece yetişkinlerde yapılmıştır.  
+ 4.6 Gebelik ve laktasyon  
+Genel tavsiye  
+Gebelik kategorisi : X 
+  Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon)  
+Radyofarmasötik  bir tıbbi ürünün verilmesinin zorunlu olduğu doğurganlık çağındaki 
+kadınlarda gebelik mutlaka sorgulanmalıdır. Adet periyodunda gecikme olan kadınlar aksi ispat 
+edilinceye kadar gebe kabul edilmelidir. Gebelik şüphesi olan (hasta periyodunu hatırlamıyor veya düzensiz ise) fakat kanıtlanamamış durumlarda hastaya iyonize radyasyon kullanılmayan 
+alternatif bir teknik (eğer varsa) önerilmelidir.  
+  Gebelik dönemi  
+Fetüsün önleyici radyasyondan korunmasına bağlı olarak gebe kadınlarda (
+18F) Florodopa 
+kullanımı kontrendikedir  (bölüm 4.3’e bakınız)  
+ Laktasyon dönemi  
+Emziren annelerde, öncelikle tetkikin/radyofarmasötik uygulamasının bebeğin sütten 
+kesilmesinden sonra yapılıp  yapılamayacağı hususu ve süte aktivite geçişine bağlı olarak en 
+uygun radyofarmasötik seçeneğinin hangisi olduğu değerlendirilmelidir . Eğer uygulama 
+emzirme döneminde gerekli  görüldü ise , ilacın uygulanmasından sonra 12 saat süre ile 
+emzirmeye ara verilmeli ve bu süre boyunca sağılan süt atılmalıdır.  
+Enjeksiyonu takiben ilk 12 saat boyunca bebeklerle yakın temastan kaçınılmalıdır.  
+  
+Üreme yeteneği /Fertilite Üreme yeteneği (fertilite) üzeri ne etkileri konusunda çalışma yapılmamıştır. 
+ 4.7 Araç ve makine kullanımı üzerindeki etkiler  
+Araç veya makine kullanma yeteneğine etkisi konusunda çalışma yapılmamıştır.  
+ 
+4.8 İstenmeyen etkiler  
+İstenmeyen etkiler aşağıdaki sıklık derecesine göre sıralanır . 
+Çok yaygın (  ≥1/ 10); yaygın (≥1/100 ila <1/10 ); yaygın olmayan ( ≥1/1000 ila < 1/100); seyrek  
+(≥1/ 10.000 ila < 1/1000 ); çok seyrek (<1/10.000 ); bilinmiyor.  
+8 
+ Nadir vakalarda enjeksiyon yerinde ağrı raporlanmıştır ve düzeltici tedbir alınması gerekmeden 
+dakikalar içinde geçmiştir.  
+ 
+İyonize radyasyona maruziyet, kanser oluşumuna neden olma ve kalıtsal defektler oluşturma 
+ihtimali ile ilişkilendirilmiştir. Önerilen maksimum aktivite olan 280 MBq uygulandığında 
+etkin doz 7 mSv olarak bildirilmiştir.  
+ 
+Eğer hipersensitivite veya anaflaktif  reaksiyonlar meydana gelirse, tıbbi ürünün kullanımı 
+derhal durdurulmalı ve gerekirse damar yolu açılarak tedaviye başlanmalıdır. Acil durumlarda derhal önlem alabilmek için gerekli tıbbi ilaçlar, endotrakeal tüp ve ventilatör gibi ekipmanlar hemen kullanılabilir şekilde hazır olmalıdır.  
+ 
+Pediyatrik popülasyon 
+Bildirilmemiştir.  
+ Şüpheli advers reaksiyonların raporlanması  
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem 
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine 
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir. ( www.titck.gov.tr
+; e-posta: 
+tufam@titck.gov.tr ; tel:0 800 314 00 08; faks: 0 312 218 35 99)  
+ 
+4.9 Doz aşımı ve tedavisi  
+Tanısal  amaçla verilen  dozlarda farmakolojik anlamda doz aşımı olası  değildir.  
+ 
+(18F) Florodopa  ile aşırı doz da radyasyon uygulanması durumunda , radyonüklidin vücuttan 
+eliminasyonunu artırmak için mümkün olduğunda zorlanmış diürez ve sık sık mesane nin 
+boşaltılmasıyla  hastanın aldığı radyasyon doz u azaltılmalıdır.  
+  
+5.  FARMAKOLOJİK ÖZELLİKLER  
+ 
+5.1 Farmakodinamik özellikler  
+Farmakoterapötik grubu: Tümör tespiti için diğer tanı r adyofarmasötikleri  
+ATC kodu: V09IX05  
+ 
+Etki mekanizması  
+MON.FDOPA (18F) Pozitron E misyon T omogra fi (PET) (18F) Florodopa’nın hedef hücreler 
+tarafından tutulmasını ve aromatik aminoasit dekarboksilaz tarafından floro dopamine 
+dönüştürülmesini göstermektedir . 
+ 
+Farmakodinamik etkiler  
+Yaşlı, yetişkin ve pediyatrik popülasyon:  
+9 
+ Tanı amaçlı kullanılan kimyasal konsantrasyon ve aktivitelerde, (18F) Florodopa  herhangi bir 
+farmakodinamik aktivite  göster memektedir.  
+ 
+Klinik etkililik ve güvenlilik  
+Özgün olarak bir klinik çalışma yapılmamış olmakla birlikte bibliyografik olarak iyi 
+tanımlanmış olan (18F) Flor odopa uygulaması 10 yıldan uzun bir süredir klinikte 
+kullanılmaktadır.  
+ 
+5.2 Farmakokinetik özellikler  
+ 
+Genel özellikler  
+Dağılım:  
+Sağlıklı olgularda, (18F) Florodopa  enjeksiyonundan sonra bütün dokular da eşdeğer biçimde bir 
+aktivite dağılımı görülmektedir . 
+ 
+Organ Tutulumu 
+Bir a romatik amino asit analoğu olan (18F) Florodopa, enjeksiyon sonrasında hedef  dokularda, 
+özellikle beynin striyatumunda hızla birik meye başlar  ve katekolamin ailesinin nörotransmitteri 
+olan dopamine dönüştürül ür. İnsan çalışmaları striyatumda ve serebellumda (18F) Florodopa  
+tutulumunun, amino asit dekarboksilaz inhibitörü karbidopa uygulaması ile yaklaşık 2 kat 
+artırılabileceğini göstermiştir.  
+ 
+Eliminasyon  
+(18F) Florodopa böbrek tarafından elimine edilir . %50'si 0,7 saat sonra ve kalan %50'si 
+enjeksiyondan 12 saat sonra atılır . 
+ 
+Yarılanma -ömrü  
+(18F) Flororodopa, biyolojik yarı ömrü 12 saat (% 67- 94) ve fiziksel yarı ömrü 1,7 ila 3,9 saat 
+(% 6 -33) olan bi -eksponansiyel kinetik ile yok edilir. Bu iki yarı -ömür yaşa bağlı olarak 
+değişebilir.  
+ 
+Böbrek / Karaciğer yetmezliği  
+Böbrek ve karaciğer yetmezliği olan hastalarda f armakokinetik özellikleri tanımlanmamıştır .  
+ 
+Pediyatrik popülasyon  
+Çocuklarda normal biyodağılımla  ilgili mevcut veriler yetişkinlerdekiyle benzerlik 
+göstermektedir . Çocuklarda farmakokinetik i le ilgili daha ileri spes ifik veri mevcut değildir. 
+ 
+5.3 Klinik öncesi güvenlilik verileri  
+Sıçanlarla yapılan toksikolojik çalışmalarda, MON.FDOPA (18F)’nın içe rdiği etkin madde ve 
+safsızlık miktarının 100 katından daha fazla etkin madde ve safsızlıklar içeren 5 mL/kg aktif 
+olmayan florodopa preparatının tek intravenöz enjeksiyonu sonucunda hiçbir ölüm 
+10 
+ gözlenmediği  göster ilmiştir.  Aynı preparat AMES testinde herhangi bir mutajenik aktivite 
+göstermemiştir.  
+ 
+Tekrarlayan doz toksisite çalışmaları , muta jenite çalışmaları ve uzun süreli karsinojenite 
+çalışmaları yapılmamıştır.  
+(18F) Flororodopa ’nın tekrarlayan kullanımı ile ilgili sınır lı veri bulunmaktadır. İlk 
+uygulamanın ardından 5 günden önce tekrar MON.FDOPA (18F) enjekte edilmemesi 
+önerilmektedir.  
+ Bu madde düzenli veya sürekli uygulama için kullanılmamaktadır.  
+  
+6.  FARMASÖTİK ÖZELLİKLER  
+ 
+6.1 Yardımcı maddelerin listesi  
+Sitrat tampon  
+Na-EDTA  
+Askorbik asit 
+Etanol  
+6.2 Geçimsizlikler   
+Bu tıbbi ürün başka tıbbi ürünlerle karıştırılarak kullanılmamalıdır. 
+ 6.3 Raf ömrü  
+Üretim tarih ve saati nden itibaren 10 saat.  
+ 6.4 Saklamaya yönelik özel tedbirler  
+25°C'nin altında oda sıcaklığında ve orijinal ambalajında (kurşun zırhı içinde) saklayınız. İlacı 
+dondurmayınız.  
+ 
+Radyofarmasötikler  radyoaktif maddeler ile ilgili ulusal mevzuata uygun olarak saklanmalıdır.  
+ 
+6.5 Ambalajın niteliği ve içeriği     
+İç ambalaj: Kauçuk tıpa ve alüminyum kapaklı renksiz cam flakon. 
+Dış ambalaj: Kurşun zırh  
+ 
+Bir flakonda bulunabilecek maksimum hacim 10 mL ve  bulunabilecek aktivite kalibrasyon tarih 
+ve saatinde  185MBq – 18.5 GBq (18F) Florodopa arasında değişir. 
+ 
+Tek veya çoklu dozlu flakon olarak satışa sunulur.  
+ 6.6 Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler  
+Genel uyarılar  
+11 
+ Radyofarmasötikler belirlenmiş klinik ortamlarda sadece yetkili kişiler tarafından teslim 
+alınmalı, kullanılmalı ve uygulanmalıdır. Teslim alınmaları, saklanmaları, kullanım, transfer ve imha edilmeleri mevzuat ve/veya yetkili resmi organizasyonların uygun lisanslarına tabidir.  
+ 
+Radyofarmasötikler hem radyasyon güvenliği hem de farmasötik kalite gerekliliklerini yerine 
+getirecek şekilde hazırlanmalıdır. Uygun aseptik önlemler alınmalıdır.   
+Ürünün uygulanması ve hazırlanması ile ilgili talimatlar için uygulamadan önce Bkz 12.  
+ 
+Tıbbi ürünün hazırlanması sırasında flakon bütünlüğünde  hasar olduğu görülü rse, ürün 
+kullanılmamalıdır.  
+ 
+Uygulama prosedürleri tıbbi ürünün ve operatörlerin kontaminasyon riskini en aza indirecek 
+bir şekilde olmalıdır. Yeterli zırhlama yapılması zorunludur.  Radyofarmasötik uygulanması, dış radyasyon veya idrar dökül mesi, kusma vb. nedenleri ile 
+bulaşma yüzünden diğer kişiler için risk oluşturur. Bu nedenle ulusal mevzuata uygun olarak radyasyondan korunma önlemleri alınmalıdır.   Kullanılmamış tıbbi ürün veya atıklar, ‘Tıbbi atıkların Kontrolü Yönetmeliği’ ve Nükleer  
+Düzenleme Kurumu ’nun “Radyoaktif Madde Kullanımından Oluşan Atıklara İlişkin 
+Yönetmeliği” kurallarına uygun olarak bertaraf edilmelidir.  
+ 7.  RUHSAT SAHİBİ  
+ 
+Eczacıbaşı Monrol Nükleer Ürünler Sanayi ve Ticaret A.Ş.  
+TÜBİTAK MAM Teknoparkı 41470 Gebze - KOCAELİ  
+Tel   : +90 ( 262) 648 02 00  
+Faks:  +90  (262) 646 40 39 
+e-posta: monrol@monrol.com
+ 
+ 8.  RUHSAT NUMARASI(LARI)  
+            2023/28 
+ 
+9.  İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ  
+ 
+İlk ruhsat tarihi:  09.02.2023 
+Ruhsat yenileme tarihi:  
+ 10.   KÜB’ÜN YENİLENME TARİHİ  
+ 
+12 
+ 11.  DOZİMETRİ  
+ 
+Aşağıda listelen en veriler  ICRP yayın 106’ dan alınmıştır . 
+ 
+Organ  Birim uygulanan aktivite başına ab zorbe edilen doz (mGy/MBq)  
+ Yetişkin  15 Yaş  10 yaş  5 yaş  1 yaş  
+Böbrek üstü 
+bezleri  0,0099 0,0130 0,0190 0,0310 0,0550 
+Mesan e 0,3000 0,3800 0,5700 0,7800 0,1000 
+Kemik yüzeyleri  0,0096 0,0120 0,0180 0,0280 0,0510 
+Beyin  0,0071 0,0088 0,0150 0,0240 0,0440 
+Memeler  0,0067 0,0085 0,0130 0,0210 0,0390 
+Safra kesesi  0,0100 0,0130 0,0200 0,0190 0,0500 
+Gastrointestinal kanal       
+Mide  0,0095 0,0120 0,0180 0,0280 0,0500 
+İnce bağırsak  0,0130 0,0170 0,0260 0,0390 0,0650 
+Kalın bağırsak  0,0150 0,0180 0,0270 0,0410 0,0630 
+(Üst büyük)  0,0120 0,0150 0,0230 0,0360 0,0590 
+(Alt büyük)  0,0180 0,0220 0,0330 0,0470 0,0690 
+Kalp  0,0089 0,0110 0,0180 0,0280 0,0500 
+Böbrekler 0,0310 0,0370 0,0520 0,0780 0,1400 
+Karaciğer  0,0091 0,0120 0,0180 0,0290 0,0520 
+Akciğerler  0,0079 0,0100 0,0160 0,0250 0,0460 
+Kaslar  0,0099 0,0120 0,0190 0,0300 0,0510 
+Özofagus  0,0082 0,0100 0,0160 0,0250 0,0470 
+Yumurtalıklar  0,0170 0,0220 0,0330 0,0470 0,0740 
+Pankreas  0,0100 0,0130 0,0200 0,0310 0,0560 
+Kırmızı kemik  
+iliği 0,0098 0,0120 0,0190 0,0270 0,0470 
+Cilt 0,0070 0,0085 0,0140 0,0220 0,0400 
+13 
+ Dalak  0,0095 0,0120 0,0180 0,0290 0,0530 
+Testisler  0,0130 0,0180 0,0300 0,0450 0,0700 
+Timüs  0,0082 0,0100 0,0160 0,0250 0,0470 
+Tiroid  0,0081 0,0100 0,0170 0,0270 0,0500 
+Rahim  0,0280  0,330 0,530 0,0750  0,1100  
+Kalan organlar  0,0100 0,0130 0,0190 0,0300 0,0520 
+Etkin doz 
+(mSv/MBq)  0,0250 0,0320 0,0490 0,0700 0,1000 
+Mesane duvarı etkin dozun % 51’ini bulundurur.  
+ 70 kg ağırlığındaki bir yetişkin için önerilen maksimum aktivite olan 280 MBq (
+18F) Florodopa  
+uygulandığında ortaya çıkan etkin doz yaklaşık 7 mSv’dir.  
+ 
+Uygulanan 280 MBq aktivite için, kritik organlar, mesane, rahim ve böbreklerin tipik radyasyon 
+dozu: sırası ile 84 mGy, 7,8 mGy, 8,7 mGy. 
+ 
+12.  RADYOFARMASÖTİKLERİN HAZIRLANMASINA YÖNELİK  
+TALİMATLAR  
+ Kullanmadan önce ambalaj kontrol edilmeli ve bir aktivite ölçer kullanılarak aktivite 
+ölçülmelidir.  
+ MON.FDOPA (
+18F) enjeksiyonluk çözelti hastalara doğrudan damar içine uygulanmasına 
+uygun olarak steril olarak üretilmiştir. Hasta dozu ayarlanırken kurşun zırh arkasında çalışılmalı 
+ve aseptik koşullara uyulmalıdır.  Tüm radyoaktif ürünlerde olduğu gibi MON.FDOPA (
+18F)  kullanımı öncesinde ve sonrasında 
+hastaya bol sıvı verilmelidir.   Eğer flakon bütünlüğü hasar görmüş ise, ürün kullanılmamalıdır. İşleme başlamadan önce 
+çözeltinin partiküler madde içerip içermediği ve berraklığı görsel olarak kontrol edilmelidir. 
+Berrak olmayan çözelti kullanılmamalıdır.  
+ 
+Eğer gerekliyse, ürün uygulama modu ve dozajıyla uyumlu olarak arzu edilen hacimde aktivite 
+için enjeksiyonluk steril su veya % 0,9 sodyum klorür enjeksiyon çözeltisiyle seyreltilebilir.  
+ 
+Uygulama prosedürleri ürünün ve sağlık personelinin kontaminasyon riskini en aza indirecek 
+şekilde olmalıdır . Yeterli zırhlama yapılması zorunludur. 
+ Radyofarmasötik uygulanması, dış radyasyon veya idrar dökülmesi, kusma vb. nedenleri ile bulaşma yüzünden diğer kişiler için risk oluşturur.  
+14 
+  
+Kullanılmamış ürün veya atıklar, ‘Tıbbi atıkların Kontrolü Yönetmeliği’  ve Nükleer 
+Düzenleme Kurumu ’nun “Radyoaktif Madde Kullanımından Oluşan Atıklara İlişkin 
+Yönetmeliği” kurallarına uygun olarak bertaraf edilmelidir.  

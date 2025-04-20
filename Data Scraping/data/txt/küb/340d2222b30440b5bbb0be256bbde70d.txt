@@ -1,0 +1,944 @@
+ 
+ 
+1  
+ KISA ÜRÜN BİLGİSİ 
+ 
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI  
+MITOXANTRONE – KOÇAK 20 mg/10 ml IV infüzyon luk çözelti içeren flakon  
+Steril , sitotoksik  
+ 
+2. KALİTATİF VE KANTİTATİF BİLEŞİM  
+Etkin madde: 
+Her 1 ml çözelti, 2 mg mitoksantrona eşdeğer 2 ,328 mg mitoksantron hidrokl orür içerir.    
+ 
+Yardımcı maddeler:  
+Her 1 ml çözeltide:  
+Sodyum klorür     0,08 mg   
+Sodyum  metabisülfit  (E223)    0,001 mg   
+ 
+Yardımcı maddeler için 6.1’e bakınız. 
+ 
+3. FARMASÖTİK FORM  
+İnfüzyon için çözelti . 
+Renksiz cam flakonlarda koyu mavi renkli çözelti . 
+ 
+4. KLİNİK ÖZELL İKLER 
+4.1. Terapötik endikasyonlar 
+− İleri evre ve/veya metastaz yapmış meme karsinomunun tedavisinde.  
+− Erişkinlerdeki orta ve ileri evre malign non -Hodgkin lenfomaların (NHL) kombine 
+tedavisinde.  
+− Erişkinlerdeki akut miyeloid löseminin (AML) kombine te davisinde.  
+− Primer karaciğer karsinomunun tedavisinde.  
+− Over karsinomunun tedavisinde.  
+− Analjeziklere yanıt alınamayan ve radyoterapinin endike olmadığı il eri evre ve hormon 
+tedavisine dirençli prostat karsinomlu hastaları n tedavisinde, prednizon ve hidrok ortizon dahil 
+düşük doz oral glukokortikoidlerle kombine olarak.  
+− Sekonder progressif multipl skleroz (SPSS) veya nükseden -şiddeti azalan multipl skleroz 
+(RRMS)'lu hastaların tedavisinde.  
+ 
+4.2. Pozoloji ve uygulama şekli 
+Pozoloji/uygulama sıklığı ve süresi: 
+Dozaj her bir hasta için dikkatle ayarlanmalıdır. Karaciğer işlevleri bozulmuş hastalarda aşağıda 
+belirtilen dozların, karaciğer işlevlerine göre azaltılması  gerekir.  
+ 
+   
+ 
+2  
+ Dozun ampirik olarak ne kadar azaltılacağıyla ilgili geçerli bir bilgi bulunmadığından,  dozun ne 
+kadar azaltılacağına her hasta için bireysel olarak doktor tarafından karar verilmelidir (b ilirubin 
+değerlerinin 3 ,5 mg/dL’ den fazla olmasıyla do z azaltılmasına başlan ır).  
+ 
+Hastanın hematolojik parametrelerine göre de (özellikle lökosit ve tromb osit sayısına göre) doz 
+azaltılması yapılmalıdır. Hematolojik parametrelere göre doz azaltılmasıyla ilgili öneriler için 
+aşağıdaki tablodan yararlanılabili r. 
+ 
+Lökosit ve 
+trombositlerin düştüğü 
+en düşük düzey (genelde 
+uygulamadan 6 -15 gün 
+sonra)  
+ Normale d önüş süresi Önerilen doz  
+>1500 lökosit/ mcl veya  
+>50 000 trombosit/ mcl 21 gün ya da daha kısa sürede  Daha önce kullanılan dozla 
+devam edilir  
+>1500 lökosit /mcl veya  
+>50 000 trombosit / mcl 21 günde  Normale dönene kadar 
+beklenir, daha sonra daha önce 
+kullanı lan dozla devam edilir  
+<1500 lökosit/ mcl veya  
+≤50 000 trombosit/ mcl Normale ne zaman 
+döndüğünden bağımsız olarak  Daha önceki dozda 2 mg/m2 
+azaltma yapılır  
+<1000 lökosit/ mcl veya  
+≤25 000 trombosit/ mcl Normale ne zaman 
+döndüğünden bağımsız olarak  Daha önc eki dozda 4 mg/m2 
+azaltma yapılır  
+ 
+İntravenöz uygulamalar:  
+ 
+İlerlemiş ve/veya metastaz yapmış meme karsinomlarında, primer karaciğer hücresi 
+karsinomunda  ve over karsinomunda  
+Monoterapi sırasında ilk siklusun başlangıç dozu olarak vücut yüzeyinin her m2'si için 14 mg 
+mitoksantron önerilir. Bu doz 21 gün sonra tekrarlanabilir.  
+ 
+Daha önce uygulanan radyoterapi ve/veya kemoterapiye bağlı olarak kemik iliği rezervleri azalan 
+hastalarda ya da genel sağlık durumu bozuk hastalarda başlan gıç dozu 12 mg/m2'ye ya  da 
+hematolojik parametrelerin karşılık geldiği dozlara düşürülmelidir.  
+ 
+Daha sonraki tedavi sikluslarında da mitoksantron dozu, hastadaki bireysel gelişm e ile 
+miyelosüpresyonun şiddet ve süresine bağlı olarak mutlaka düzenlenmelidir.  
+ 
+Diğer miyelotoksik  etkili antineoplastik ilaçlarla kombine edildiğinde, monoterapide önerilen 
+başlangıç dozunun vücut yüzeyinin beher metrekaresi için 2 ila 4 mg mitoksantro n düzeyinde 
+azaltılması önerilir.  
+ 
+Kombine tedavilerde daha sonraki tedavi sikluslarında da monotera pide olduğu gibi mitoksantron 
+dozunun, hastadaki bireysel gelişme ile miyelosüpresyonun şiddet ve süresine bağlı olarak  
+ 
+3  
+ düzenlenmesi önerilir.  
+ 
+Literatürde  birçok kombinasyon şeması bulunmakla birlikte aşağıda meme kanserinde 
+kullanımdaki şemalardan örnekl er bulunmaktadır:  
+ 
+Madde  Doz Uygulama şekli  Siklus  
+Mitoksantron  12 mg/m2 1’inci gün  3 siklus (her 28 
+günde bir)   
+ 
+1 Lökoverin  100 mg/m2 1’inci gün  
+5-Florourasil  370 mg/m2 1-3’üncü günlerde  
+Siklofosfamid  500 mg/m2 1’inci gün  6 siklus (her 21 
+günde b ir)  
+2 Mitoksantron  12 mg/m2 1’inci gün  
+5-Florourasil  500 mg/m2 1-3’üncü günlerde  
+Vinorelbin  25 mg/m2 1 ve 8’inci günler  6 siklus (her 21 
+günde bir)   
+3 Mitoksantron  12 mg/m2 1’inci gün  
+ 
+Erişkinlerdeki orta ve ileri evre malign non -Hodgkin lenfom aların kombine tedavisinde  
+Diğer miyelotoksik ajanlarla kombine kullanımda başlangıç dozu olarak vücut yüzeyinin her 
+m2'si için 10 -12 mg mitoksantron önerilir. Daha sonraki tedavi sikluslarında, d oz hastanın 
+durumu veya miyelosupresyonun şiddet ve dereces ine göre ayarlanır.  
+ 
+Daha önce aldıkları radyoterapi ve/veya kemoterapiye bağlı olarak kemik iliği rezervi azalmış 
+hastalarda ya da genel sağlık durumu açısından zayıf olanlarda, hematolojik param etrelere göre 
+doz vücut yüzeyinin m2'si için 2 mg’a düşürül melidir.  
+ 
+Literatürde değişik birçok kombinasyon tedavi şeması önerilmiştir. Aşağıda bu şemalardan 
+örnekler bulunmaktadır:  
+ 
+Madde  Doz Uygulama şekli  
+İfosfamid  1,5 g/m2 1-3’üncü günlerde   
+ 
+4 Mito ksantron  10 mg/m2 1’inci gün  
+Etoposid  80 mg/m2 1-3’üncü g ünlerde 
+Etoposid  150 mg/m2 1’inci gün   
+ 
+ 
+5 Mitoksantron  12 mg/m2 1’inci gün  
+Siklofosfamid  650 mg/m2 1’inci gün  
+Prednizon  60 mg/m2 1-5’inci günlerde  
+ 
+Erişkinlerdeki akut miyeloid löseminin (AML) kombine tedavisinde  
+Erişkinlerdeki akut miyeloid lös eminin (AML) indüksiyon tedavisinde, birbirini takip eden beş 
+gün süre ile vücut yüzeyinin her metrekaresi için günde 10 ila 12 mg mitoksantron önerilir 
+(toplam doz 50- 60 mg mitoksantron/m2). Beş gün sür e ile günlük 12 mg/m2 dozlar ile daha 
+yüksek remisyo n oranlarına ulaşılabilinir. Ancak bu yüksek dozlar hastanın durumu izin verdiği  
+ 
+4  
+ takdirde uygulanmalıdır. Örneğin sitarabinle kombine kullanımda, birbirini takip eden üç gün 
+süre ile vücut yüzeyini n her metrekaresi için günde 10 ila 12 mg mitoksantron öner ilir. 
+Literatürde değişik birçok  kombinasyon tedavi şeması önerilmiştir.  
+ 
+Aşağıda bu şemalardan bir örnek bulunmaktadır:  
+ 
+Madde  Doz Uygulama şekli  
+Sitarabin  Günde 2 defa 3 g/m2 1, 2, 8 ve 9’uncu g ünlerde   
+6 Mitoksantron  10 mg/m2 3, 4, 10 ve 11’inci günle rde 
+ 
+Mitoksantron diğer antineoplastik ilaçlarla kombine edildiğinde, hastanın durumuna bağlı olarak 
+dozun ayarlanması gerekebilir. Bu durum hem ilk indüksiyon küründe hem de takip eden 
+kürlerde göz önünde bulundurulmalıdır.  
+ 
+Eğer ilk indüksiyon kürü sı rasında şiddetli ya da yaşamı tehdit edici (hematolojik olmayan) yan 
+etkiler ortaya çıkarsa, ikinci küre ancak bu yan etkiler azaldıktan sonra başlanabilir.  
+ 
+İleri evre ve hormon tedavisine direnç li prostat karsinomunun tedavisinde  
+Bir başka mitoksantron  preparatıyla gerçekleştirilen ve tek başına prednizon kullanımıyla, oral 
+yoldan kullanılan prednizona (10 mg/gün) ek olarak mitoksantron kullanımının karşılaştırıldığı 
+bir faz -III çalışmada, her 2 1 günde bir kısa süreli infüzyonla vücut yüzeyinin her metr ekaresi için 
+12 mg mitoksantron önerilmiştir. Literatürde değişik birçok  kombinasyon tedavi şeması 
+önerilmiştir.  
+ 
+Aşağıda bu şemalardan bir örnek bulunmaktadır:  
+ 
+Madde  Doz Uygulama şekli  
+Mitoksan tron 12 mg/m2 1’inci gün   
+7 Prednizon  10 mg/gün  Günlük doz  
+ 
+Lökositlerin düştüğü en düşük düzey 1.000/mm3, trombositlerin düştüğü en düşük düzey 
+100.000/mm3 ve hematolojik olmayan herhangi bir kabul edilemez toksisitenin oluşmadığı 
+durumlarda bir sonrak i siklusta mitoksantron dozu vücut yüzey alanı başına 2 mg/ m2 
+yükseltilmelidir. Dozun, lökositlerin düştüğü en düşük düzey 500/mm3 ve trombositlerin düştüğü 
+en düşük düzey 50.000/mm3 olduğu durumlarda ise vücut yüzey alanı başına 2 mg/m2 azaltılması 
+öneril ir.  
+ 
+İntraplevral uygulama:  
+Meme kanseri ve non -Hodgkin l enfomanın plevral metastazlarında intraplevral uygulama  
+İntraplevral uygulama için tek doz 20 ila 30 mg mitoksantron önerilir. Tedaviden önce mümkün 
+olduğu kadar fazla plevral eksüda drene edilmel idir. İlk mitoksantron dozunun plevra boşluğunda 
+tutulma za manı 48 saattir.  
+  
+ 
+5  
+ Bu süreç içinde sitostatik ilacın plevra içinde iyi dağılabilmesini sağlayabilmek için hastalar 
+istirahat pozisyonunda tutulmamalı, hareket etmeleri sağlanmalıdır.  
+ 
+48 saatlik s ürenin sonunda eksüda tekrar drene edilir. Eğer direne edil en eksüda miktarı 200 
+ml'den az ise ilk tedavi siklüsü bitirilir. Eğer hacim 200 ml'den daha fazla ise tekrar 30 mg 
+mitoksantron uygulaması yapılır. Bu ikinci uygulamadan önce hematolojik parametre ler kontrol 
+edilmelidir. İkinci intraplevral mitoksantron d ozu yerinde bırakılabilir. Bir tedavi siklusu için 
+maksimum doz 60 mg mitoksantrondur.  
+ 
+Dört hafta sonra eğer lökosit ve trombosit sayıları normal değerlerde ise intraplevral uygulama 
+tekrar edile bilir.  
+ 
+İntraplevral mitoksantron uygulamasından 4 hafta ön ce ve 4 hafta sonraya kadar sitostatik 
+ilaçlarla sistemik tedaviden kaçınılmalıdır.  
+ 
+Uygulama şekli:  
+YALNIZCA İNTRAVENÖZ YOLDAN KULLANIM İÇİNDİR. Mitoksantron intraarteriyel, 
+subkütan, intramüskül er veya intratekal uygulamalarda kullanılmamalıdır.  
+ 
+İntra venöz uygulama:  
+Mitoksantron yavaş intravenöz enjeksiyon şeklinde (5 dakikadan daha uzun sürede) 
+uygulanabilir. En uygun uygulama şekli, uygulanmakta olan bir intravenöz infüzyonun seti 
+içerisine y avaş olarak enjekte etmektir. Bunun için izotonik sodyum kl orür çözeltisi ve %5 
+glukoz çözeltisi uygun çözeltilerdir.  
+ 
+Mitoksantron kısa süreli (15 -30 dakika) infüzyon şeklinde de uygulanabilir. Hesaplanan doz 
+yukarıda belirtilen infüzyon çözeltilerinden birinin 50 -100 ml'si ile seyreltilmelidir.  
+ 
+Eğer ilaç yanl ışlıkla damar dışına uygulanırsa, uygulamaya derhal son verilmeli ve başka bir 
+noktadan damara tekrar girilmelidir. Bugüne kadar damar dışına uygulamalara bağlı olarak 
+sadece çok az sayıda vak’ada şiddetli lokal reaksiyonlar (nekroz) görülmüştür.  
+ 
+İntrapl evral uygulama:  
+İntraplevral uygulama için mitoksantron, 50 ml izotonik sodyum klorür çözeltisi ile seyreltilir.  
+Mitoksantron içeren çözelti vücut sıcaklığına kadar ısıtılmalıdır ve kayda değer bi r enjeksiyon 
+basıncına neden olmaktan kaçınarak çok yavaş o larak (5-10 dakika) uygulanmalıdır.  
+ 
+Uygulama süresi:  
+Tüm endikasyonlarda vücut yüzey alanının her metrekaresi için toplam 200 mg mitoksantron 
+verildikten sonra uygulamaya son verilmelidir.  
+ 
+ 
+  
+ 
+6  
+ Özel popülasyo nlara ilişkin ek bilgiler:  
+Böbrek yetmezliği: 
+Ağır böbrek yetmezliği olan hastalarda dikkatle kullanılmalıdır. Böbrek fonksiyonları hafif ya da 
+orta derecede bozulmuş hastalarda mitoksantron dozunun değiştirilmesine gerek yoktur (Bkz. 
+Bölüm 5. 2).  
+ 
+Karaciğer yetmezliği: 
+Ağır karaciğer yetmezliği olan hastalarda dikkatle kullanılmalıdır. Karaciğer fonksiyonları hafif 
+ya da orta derecede bozulmuş hastalarda mitoksantron dozunun değiştirilmesine gerek olmadığı 
+düşünülmektedir. Doz ayarlaması ya da  doz aralığının uzatılması, yalnızca hastanın genel sağlık 
+durumuna ve hematolojik ya da hematolojik olmayan yan etkilerin ciddiyetine bağlı olarak 
+düşünülebilir (Bkz. Bölüm 5.2).  
+ 
+Pediyatrik popülasyon: 
+Pediyatrik popülasyonda güvenliliği ve etkililiği be lirlenmemiştir.  
+ 
+Geriyatrik popülasyo n: 
+Yaşlılarda, hastanı n genel sağlık durumuna ve hematolojik ya da hematolojik olmayan yan 
+etkilerin ciddiyetine bağlı olarak doz ayarlaması ya da doz aralığının uzatılması  düşünülebilir.  
+ 
+4.3. Kontrendikasyo nlar 
+Mitoksantr on bileşiminde bulunan mitoksantron hidroklorüre, diğer ant rasiklinlere ya da sülfit 
+dahil yardımcı maddelerden herhangi birine aşırı duyarlığı bilinen durumlarda kullanılmamalıdır.  
+Emzirme döneminde mitoksantron kontrendikedir (Bkz. Bölüm 4.4 ve 4.6).  
+Mitoksantron, gebe kadınlarda multipl skleroz tedavisinde ku llanılmamalıdır (Bkz. Bölüm 4.4 ve  
+4.6). 
+ 
+4.4. Özel kullanım uyarıları ve önlemleri 
+Tıbbi ürün kullanmadan önce alınacak önlemler  
+ 
+Mitoksantron serbestçe akan intravenöz infüzyon la yavaş yavaş verilmeli dir. Mitoksantron 
+subkutan, intramusküler ya da intra -arteriyel verilmemelidir. İntra -arteriyel enjeksiyonu takiben 
+bazen kalıcı, lokal/bölgesel nöropati raporları bulunmaktadır . Uygulama esnasında 
+ekstravazasyon varsa ciddi lokal doku hasarı oluşabilir.  Bugüne kadar, ekstravazasyon  nedeniyle  
+sadece ciddi lokal re aksiyonların (nekroz) izole vakaları tanımlanmıştır . Mitoksantron intratekal 
+enjeksiyon ile verilmemelidir. İntratekal uygulama, k alıcı sekel li ciddi hasarla sonuçlanabilir . 
+İntratekal enjeksiyonu takiben hem santral hem  de periferik nöropati ve nörotoksis ite 
+bildirilmiştir.  Bu raporlarda koma ve şiddetli nörolojik sekellere yol açan nöbetler ve bağırsak ve 
+mesane fonksiyon bozukluğu  ile felç görülmüştür.  
+ 
+MITOXANTRONE  – KOÇAK  ile kardiyotoksisite r iskini azaltmak için, aşağıdakiler dikkate 
+alınmalıdır:   
+ 
+7  
+ − MITOX ANTRONE  – KOÇAK  tedavisine başlanmadan önce tüm hastaların anamnezi 
+alınarak, fizik muayenesi yapılarak ve EKG'si çekilerek kardiyak belirti ve işaretler açısından 
+değerlendirmesi yapılmalıdır.  
+− Tüm hastaların tedaviye başlamadan önce ekokardiyografi, m ulti-gated radyonüklid 
+anjiyografi (MUGA), MRI gibi uygun yöntemlerle sol ventrikül ejeksiyon fraksiyonu (LVEF) 
+açısından kantitatif bir değerlendirmesi yapılmış olmalıdır.  
+ 
+Kardiyak fonksiyon  
+Potansiyel olarak kalıcı  ve ölümcül konjestif kalp yetmezliği  (KKY) ile daha  ciddi formda ortaya 
+çıkan miyokardiyal toksisite , ya mitoksantron ile tedavi sırasında ya da tedavinin sona 
+ermesinden aylar ya da yıllar sonra ortaya çıkabilir. Bu risk kümülatif d oz ile artar.  Kümülatif 
+olarak 140 mg/m2’lik dozları tek ba şına veya başka kemoterapötik ajanlarla kombinasyon halinde 
+alan kanser hastalarının %13’ünde sol ventrikül ejeksiyon fraksiyonunda orta ya da ciddi azalma 
+olasılığı kümülatif olarak %2,6 ’dır. 
+ 
+Aktif veya uykuda kardiyovasküler hastalık, mediyastinal / per ikardiyal alana önceden veya 
+eşzamanlı radyoterapi, diğer antrasiklinler veya antrasendiyonlarla daha önce yapılan tedavi veya 
+diğer kardiyotoksik tıbbi ürünlerin eş zamanlı kullanımı kardiyak toks isite riskini artırabilir.  Bu 
+risk faktörlerini taşıyan has talar, tedaviye başlandıktan sonra sol ventriküler ejeksiyon fraksiyonu 
+(LVEF) açısından düzenli olarak izlenmelidir.  Kanser hastalarında başlangıç dozdaki 
+mitoksantron uygulamasından önce ekokar diyogram veya multigated acquisition (MUGA) ile sol 
+ventrik ül ejeksiyon fraksiyonunun (LVEF) değerlendirilmesi önerilmektedir. Kanser hastaları nda 
+kardiyak fonksiyon, tedavi sırasında dikkatle izlenmelidir.  LVEF değerlendirmesi düzenli 
+aralıklarla ve / vey a konjestif kalp yetmezliğinin belirtileri veya s emptomları  gelişirse 
+önerilmektedir. Mitoksantron tedavisi sırasında herhangi bir zamanda kardiyotoksisite oluşabilir 
+ve kümülatif doz ile risk artar.  Mitoksantron ile kardiyak toksisite, kardiyak risk faktö rleri 
+mevcut olsun ya da olmasın daha düşük kümülatif dozla rda ortaya çıkabilir.  
+ 
+Daunorubisin veya doksorubisin ile daha önce tedavi edilen hastalarda olası kardiyak etki 
+tehlikesi nedeniyle, bu hastalardaki mitoksantron tedavisinin risk -yarar oranı tedav iye 
+başlamadan önce belirlenmelidir.  
+ 
+Akut miyeloid lösemi için mitoksantronla tedavi edilen hastalarda  nadiren  akut konjestif kalp 
+yetmezliği ortaya çıkabilir.  
+ 
+Bu ayrıca mitoksantron ile tedavi edilen MS hastaları için de raporlanmıştır. Mitoksantron ile  
+tedavi edilen multipl sklerozlu  hastalarda fonksiyonel kar diyak değişiklikler olabilir. 
+Ekokardiyogram veya MUGA ile sol ventrikül ejeksiyon fraksiyonunun (LVEF) 
+değerlendirilmesi, mitoksantronun başlangıç dozunun uygulanmasından önce ve multipl skleroz  
+hastalarında her dozdan önce ve tedavinin bitiminden sonra  5 yıla kadar yıllık olarak 
+önerilmektedir. Mitoksantron tedavisi sırasında herhangi bir zamanda kardiyotoksisite oluşabilir 
+ve kümülatif doz ile risk artar.  Mitoksantron ile kardiyak toksisite, ka rdiyak risk faktörleri 
+mevcut olsun ya da olmasın daha düşü k kümülatif dozlarda ortaya çıkabilir. Normal olarak, 
+multipl sklerozlu hastalar yaşam boyu kümülatif bir dozu 72 mg / m2'den fazla almamalıdır. 
+Mitoksantron LVEF < %50 ya da  LVEF'de klinik olarak a nlamlı bir azalması olan multipl skleroz  
+ 
+8  
+ hastalarına uygula nmamalıdır.  
+ 
+LVEF’si normal en düşük seviyenin altında olan hastalar mitoksantron ile tedavi edilmemelidir.  
+Hastalar, herbir dozdan önce kardiyak belirti ve bulgular için öykü, fiziksel ölçüm ve E KG ile 
+değerlendirmelidir.  
+Hastalar, herbir değerlendirme için aynı metodoloji kullanılarak herbir dozdan önce LVEF’nin 
+kantitatif tekrar değerlendirmesi ne alınmalıdır .  Mitoksantronun ek dozları, mitoksantron tedavisi 
+sırasında LVEF’si klinik olarak önem li derecede azalan ya da LVEF’si normal en düşük limitin 
+altına düşen hastalara uygulanmamalıdır.  
+Hastalar, 140 mg/m2’den daha yüksek kümülatif mitoksantron dozu almamalıdır.  
+Hastalar, mitoksantronun kesilmesinden sonra geç oluşan kardiyotoksisiteyi izle mek için tedavi 
+sırasında yapılan değerlendirme için kullan ılan aynı metodoloji kullanılarak yıllık olarak LVEF 
+değerlendirmesine alınmalıdır,   
+ 
+Kemik iliği baskılanması  
+Mitoksantron ile tedaviye, hastanın sık sık gözlemlenmesi gibi hematolojik ve kimyasa l 
+laboratuvar parametrelerinin yakın ve sık lıkla izlenmesi eşlik etmelidir . Trombositler dahil olmak 
+üzere tam kan sayımı, uygulamadan 10 gün sonra ve her bir sonraki infüzyondan önce ve 
+enfeksiyon belirtileri ve semptomlarının ortaya çıkması durumunda, ba şlangıçta mitoksantron 
+dozunun uygulanmasından önce alınmal ıdır. Hastalar, akut lösemi riskleri, semptomları ve 
+belirtileri hakkında bilgilendirilmeli ve beş yıllık süre geçtikten sonra bile bu tür semptomların 
+ortaya çıkması durumunda tıbbi yardım almalar ı istenmelidir.   
+ 
+Miyelosupresyon genel durumu zayıf olan v eya daha önce kemoterapi ve/veya radyoterapisi alan 
+hastalarda daha şiddetli ve uzun süreli olabilir.  
+ 
+Akut miyeloid lösemi tedavisinin dışında, mitoksantron tedavisi genellikle başlangıç nötrofi l 
+sayıları 1.500 hücre / mm3'den daha az olan olan hastalar a verilmemelidir.  Başta şiddetli ve 
+enfeksiyona yol açabilen nötropeni olmak üzere, kemik iliği supresyonu oluşumunu izlemek için 
+mitoksantron alan tüm hastalarda sık periferal kan hücresi sayımı y apılması önerilir.  
+ 
+Mitoksantron lösemi tedavisinde endike olduğu gibi yüksek dozlarda (> 14 mg / m2 / dx3 gün) 
+kullanıldığında şiddetli miyelosupresyon meydana gelecektir.  
+ 
+Konsolidasyon tedavisini gerçekleştirmeden önce tam hematolojik iyileşmeyi sağlama ya özel bir 
+önem verilmelidir  (bu tedavi kullanılıyorsa) ve  hastalar bu aşamada yakından izlenmelidir. 
+Herhangi bir dozda uygulanan mitoksantron miyelosupresyona neden olabilir.  
+ 
+Sekonder akut miyeloid lösemi ve miyelodisplastik sendrom  
+Topoizomeraz II inh ibitörleri, m onoterapi olarak veya özellikle diğer antineop lastik maddeler ve 
+/ veya radyoterapi ile birlikte kullanıldığında, akut miyeloid lösemi veya miyelodisplastik 
+sendrom gelişmesi ile ilişkilendirilmiştir. Sekonder malignitelerin gelişme riski nede niyle, 
+tedaviye başlamadan önce mitoksantr on tedavisinin ri sk-yarar oranı belirlenmelidir.  
+  
+ 
+9  
+ Diğer MS spesifik tedavilerden sonra kullanımı  
+Mitoksantronun güvenliği ve etkinliği , natalizumab, fingolimod, alemtuzumab, dimetil fumarat 
+veya teriflunomid ile te daviden sonra araştırılmamıştır.  
+ 
+Metastatik olmayan meme k anseri 
+Meme kanserinin adjuvan tedavisinde yeterli etkinlik verilerinin olmaması ve lösemi riskini n 
+artması nedeniyle,  mitoksantron sadece metastatik meme kanseri için kullanılmalıdır.  
+ 
+Enfeksiyonl ar 
+Mitoksantron gibi immünosupresif ajanlar ı alan hastalar , enfeksiyona karşı immünolojik olarak 
+daha düşük bir tepkiye sahiptir . Sistemik enfeksiyonlar, mitoksantron ile tedaviye başlamadan 
+önce tedavi edilmelidir.  
+ 
+Aşılama  
+Canlı virüs aşıları ile aşılama  (örn. sarı humma aşısı), mi toksantron  ile tedavi sırasında  olduğu 
+gibi bağışıklığı  azalmış olan hastalarda, enfeksiyon ve diğer yan etkiler in (örneğin, vaccinia 
+gangrenosa ve generalize vaccinia) riskini arttırır.  Bu nedenle, canlı virüs aşıları tedavi sı rasında 
+uygulanmamalıdır. Kemoterapi  sonlandırıldıktan sonra canlı virüs aşılarını n dikkatli bir şekilde 
+kullan ılması  ve en son kemotera pi dozundan 3 ay sonra aşılama  yapılması  tavsiye edilir ( Bkz. 
+Bölüm 4.5).  
+ 
+Erkeklerde ve kadınlarda kontrasepsiyon  
+Mitok santron genotoksiktir ve potansiyel insan teratojeni olarak  kabul edilir.  Bu nedenle, tedavi 
+altındaki erkeklere baba olmamaları ve tedavi  sırasında ve tedavi den sonra en az 6 ay kontraseptif 
+önlemler almaları öneril melid ir. Hamile kalma  potensiyeli olan k adınlar, herbir dozdan önce 
+negatif gebelik testine sahip o lmalı ve tedavi esnasında ve tedavi nin kesilmesinden sonra en az 4 
+ay boyunca etkili kontrasepsiyon kullanmalıdır.  
+ 
+Emzirme  
+Son uygulamadan bir ay sonra anne sütünde mitoksantron tespit edilmiştir.  Bebeklerde 
+mitoksantrondan kaynaklanan ciddi advers reaksi yonlar nedeniyle, emzirme döneminde 
+kontrendikedir (Bkz. Bölüm 4.3) ve tedaviye başla nmadan önce kesilmelidir.  
+ 
+Fertilite  
+Çocuk doğurma potansiyeli olan kadınlar, geçici veya kalıcı adet görmeme ri skinde artış 
+konusunda bilgilendirilmelidir (Bkz. Bölüm 4.6 ). Bu nedenle tedavi öncesinde gametlerin 
+korunması d ikkate alınmalıdır . Erkeklerde yeteri kadar veri yoktur , fakat hayvanlarda sperm 
+sayısında azalma ve testisler de tubuler atrofi gözlenmiştir.  
+ 
+Mutajenisite ve karsinojenisite  
+Mitoksantron un bakteri ve memeli test sistemlerinde , ayrıca sıçanlarda in vivo olarak mutajenik 
+olduğu bulun muştur . Aktif madde deney hayvanlarında önerile n klinik dozun altındaki dozlarda 
+kansero jendir. Bu nedenle , mitoksantron insanlarda kanserojen olma potansiyeline sahiptir.  
+  
+ 
+10  
+ Tümör lizis sendromu   
+Tümör lizis sendromu vakaları mitoksantron kullanımı ile bildirilmiştir. Ürik asit, elektrolit ve 
+üre düzeyl eri izlenmelidir.  
+ 
+İdrar ve diğer dokularda renk bozulması  
+Mitoksantron, uygulamadan 24 saat sonra idrarda mavi -yeşil renklenmeye neden olabilir ve 
+hastalara tedavi sırasında bunu beklemeleri tavsiye edilir . Ayrıca s klera, deri ve tırnaklar da 
+mavimsi renk değişikliği de oluşabilir.  
+ 
+Bu tıbbi ürün her bir flakonund a 1 mmol (23 mg)’dan daha az sodyum ihtiva eder; yani aslında 
+“sodyum içermez”.  
+ 
+4.5. Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri 
+ 
+Mitoksantronun potansiyel olarak kardiyotoksik a ktif maddelerle (Örn., antrasiklinler) kombine 
+edilmesi , kardiyak toksisite riskini arttırır.  
+ 
+Mitoksantron dahil topoizomeraz II inhibitörleri, d iğer antineoplastik ajanlar  ve/veya radyoterapi 
+ile eşzamanlı olarak kullanıldığında, Akut Miyeloid Lösemi (AML ) veya Miyelodisplastik 
+Sendrom (MDS) geli şimi ile ilişkile ndirilmiştir (Bk z. bölüm 4.8).  
+ 
+Mitoksantron , farmakolojik etkisinin bir uzantısı olarak miyelosüpresyona neden olur. 
+Miyelosüpresyon, meme kanseri tedavisi için olduğu gibi başka bir miyelosupresi f ajan ile 
+kombinasyon halinde  kullanıldığında arttır abilir . 
+ 
+Mitoksantronun diğer immünosüpresif ajanlarla kombinasyonu, aşırı immünodepresyon ve 
+lenfoproliferatif sendrom riskini artırabilir.  
+ 
+Canlı virüs aşıları ile aşılama (örn. Sarı humma aşısı), mito ksantron ile tedavi sırasında olduğu 
+gibi bağışıklığı azalm ış olan hastalarda, enfeksiyon ve diğer yan etkilerin (örneğin, vaccinia 
+gangrenosa ve generalize vaccinia) riskini arttırır. Bu nedenle, canlı virüs aşıları tedavi sırasında 
+uygulanmamalıdır. Kemoterapiyi durdurduktan sonra canlı virüs aşılarını n dikkatli bir şe kilde 
+kullanılma sı ve en son kemoterapi dozundan 3 ay sonra aşılama yapılması tavsiye edilir (Bkz. 
+Bölüm 4.4).  
+ 
+K vitamini antagonistleri ve sitotoksik ajanların kombinasyonu, kanama ris kinin artmasına neden 
+olabilir.  Oral antikoagülan teda visi alan hastal arda, protrombin zaman oranı veya INR, 
+mitoksantron ile tedavinin eklenmesi ve geri çekilmesi ile yakından izlenmeli ve eşzamanlı tedavi 
+sırasında daha sık tekrar değerlendirilmelidir.  Antikoagülan dozun ayarlanması arzu edilen 
+antikoagülas yon seviyesini k orumak için gerekli olabilir.  
+ 
+Mitoksantronun BCRP taşıyıcı  proteini için in vitro bir substrat olduğu gösterilmiştir. BCRP 
+taşıyıcısının inhibitörleri (örneğin eltrombopag, gefitinib), biyoyararlanımın artmasına neden 
+olabilir.  Doğuştan ol mayan akut miyel oid lösemili çocuklarda yapılan bir farmakokinetik  
+ 
+11  
+ çalışmada, siklosporin ko -ilacı, %42'lik bir azalmış mitoksantron klirensi ile sonuçlanmıştır.  
+BCRP taşıyıcısının indükleyicileri, potansiyel olarak mitoksantron maruziyetini azaltabilir.  
+ 
+4.6. Gebelik ve laktasyon  
+Genel tavsiye  
+Gebelik k ategorisi: D  
+ 
+Mitoksantron genotoksiktir ve potansiyel bir insan teratojeni olarak kabul edilir. Bu nedenle, 
+tedavi altındaki erkeklere baba olmamaları ve tedaviden sonra en az 6 ay kontraseptif önlemler 
+almaları  önerilir. Çocuk  doğurma potansiyeli olan kadınlara h amile kalmaktan kaçınma ları 
+önerilmelid ir; her dozdan önce negatif gebelik testi ne sahip olmalı ve tedavi esnasında ve 
+tedaviden sonra en az 4 ay boyunca etkili kontrasepsiyon kullanmalıdır.  
+ 
+Gebelik dönemi 
+Hamile kadın larda mitoksantron kullanımı ile ilgili çok sınırlı veri bulunmaktadır. Mitoksantron, 
+insan ın maruz kalacağı dozların  altındaki dozlarda hayvan çalışmalarında teratojenik değildi r, 
+ancak üreme toksisitesine neden ol ur (Bkz . Bölüm 5.3). Mito ksantron, etki m ekanizması ve ilgili 
+etkin maddelerin gösterdiği gelişimsel etkiler nedeniyle, potansiyel bir insan teratojeni olarak 
+değerlendirilir. Bu nedenle, hamile kadınlarda MS tedavisi için mitoksantron  kullanılması 
+kontrendikedir (Bkz. Bölüm 4.3).  Diğer endikasyo nların tedavisi için kullanıldığında hamileliğin 
+ilk trimester döneminde uygulanmamalıdır.  Her durumda, tedavinin yararı fetusun olası riskine 
+karşı değerlendirilmelidir. Eğer bu tıbbi ürün hamilelikte kullanıldığında veya mitoksantron 
+tedavisi süresince hamile kalınırsa, hasta fetusun potansiyel riski konusunda bilgilendirilmeli ve 
+genetik danışmanlık sağlanmalıdır.  
+ 
+Emzirme dönemi  
+Mitoksantron anne sütüne geçer ve son uygulamadan sonra bir aya kadar anne sütünde tespit 
+edilmiştir.  Bebekle rde mitoksantron dan kaynaklanan ciddi advers reaksiyonlar nedeniyle, 
+emzirme döneminde kontrendikedir (Bkz. Bölüm 4.3) ve tedaviye başlanmadan önce 
+kesilmelidir.  
+ 
+Üreme yeteneği/Fertilite 
+Mitoksantron ile tedavi edilen kadınlarda geçici veya kalıcı adet gö rmeme riski artm aktadır ve bu 
+nedenle  tedaviden önce  gamet hücrelerinin korunması düşünülmelidir . Erkeklerde hiçbir veri 
+yoktur, ancak hayvanlarda testislerin tübüler atrofisi ve azalmış sperm sayısı gözlenmiştir (Bkz. 
+Bölüm 5.3).   
+ 
+4.7. Araç ve makine kullanımı üzerindeki etkiler 
+Mitoksantronun araç ve makine kullanma yeteneği üzerinde küçük etkisi vardır. Mitoksantron 
+kullanımının ardından sersemlik ve halsizlik meydana gelebilir (Bkz. Bölüm 4.8) .  
+ 
+ 
+ 
+  
+ 
+12  
+ 4.8. İstenmeyen etkiler 
+ 
+Güvenlik profilinin özeti  
+Mitoksantr onun en ciddi ya n etkileri miyokardiyal toksisite ve miyelosüpresyondur . 
+Mitoksantronun en yaygın görülen yan etkileri (10 hastanın 1’den fazlasında görülen) anemi, 
+lökopeni, nötropeni, enfeksiyonlar, adet görememe, saç dökülmesi, bulantı ve kusmadır.  
+Adve rs etkilerin tab losu 
+Aşağıdaki tablo, klinik çalışmalardan elde edilen güvenlik verilerine,  klinik çalışmalardaki 
+onkolojik endikasyonların raporlarına ve multipl skleroz için tedavi edilen hastaların 
+yetkilendirilmiş güvenlik çalışmalarına ve raporlarına dayanmaktadır.  Bu etkilerin sıklığı 
+aşağıdaki şekilde belirtilmiştir: Çok yaygın (≥1/10); yaygın (≥1/100 ila <1/10); yaygın olmayan 
+(≥1/1.000 ila <1/100); seyrek (≥1/10.000 ila <1/1.000); çok seyrek (<1/10.000), bilinmiyor 
+(eldeki verilerden hareketle tahm in edilemiyor).  
+ 
+Sıklık  Onkoloji  Multipl Skleroz  
+Enfeksiyonlar ve Enfestasyonlar  
+Çok yaygın  Enfeksiyon  (ölümcül 
+sonuçlar dahil)  
+ Enfeksiyon  (ölümcül 
+sonuçlar dahil)  
+İdrar yolu enfeksiyonu  
+Üst solunum yolu 
+enfeksiyonu  
+Yaygın olmayan  İdrar yolu enfeksiyon u 
+Üst solunum yo lu 
+enfeksiyonu  
+Kan zehirlenmesi (sepsis)  
+Fırsatçı enfeksiyonlar  Zatürre  
+Kan zehirlenmesi (sepsis)  
+Fırsatçı enfeksiyonlar  
+Seyrek  Zatürre   
+İyi huylu ve kötü huylu neoplazmalar (kistler ve polipler dahil)  
+Yaygın olmayan  Akut miyeloid lösemi , 
+miyelodiplasti k sendrom, 
+akut lösemi  Akut miyeloid lösemi,  
+miyelodiplastik sendrom, 
+akut lösemi  
+Kan ve lenfatik sistem hastalık ları 
+Çok yaygın  Anemi  
+Nötropeni  
+Lökopeni   
+Yaygın  Trombositopeni  
+Granülositopeni   Anemi  
+Lökopeni  
+Granülositopeni   
+Anormal beyaz kan hücresi 
+sayısı  
+Yaygın olmayan  Miyelosüp resyon   
+Kemik iliği yetmezliği  Kemik iliği yetmezliği  
+Miyelosüpresyon    
+ 
+13  
+ Anormal beyaz kan 
+hücresi sayısı  Trombositopeni  
+Nötropeni  
+Bağışıklık sistemi hastalık ları 
+Yaygın olmayan  
+ 
+ Anafilaksi / anafilaktoid 
+reaksiyonlar (şok dahil)  Anafilaksi / anafilaktoid 
+reaksiyonlar (şok dahil)  
+Metabolizma ve beslenme hastalık ları 
+Yaygın  Anoreksi   
+Yaygın olmayan  Kilo dalgalanmaları  
+Tümör lizis sendromu*  Anoreksi  
+Kilo dalgalanma ları 
+ 
+*Akut T v e B lenfoblastik lösemi ve non -Hodgkin lenfomalar (NHL) en çok TLS ile ilişkilidir.  
+Sinir sistemi hastalık ları 
+Yaygın  Uyuşukluk  Baş ağrısı  
+Yaygın olmayan  Anksiyete  
+Konfüzyon  
+Baş ağrısı  
+Parestezi  Anksiyete  
+Konfüzyon  
+Parestezi  
+Uyuşukluk  
+Göz hastalıkları  
+Yaygın olmayan  Skleral renk değişimi  Skleral renk değişimi  
+Kardiyak hastalıklar  
+Yaygın Konjestif kalp yetmezliği  
+Miyokard enfarktüsü 
+(ölümcül olaylar dahil)  Aritmi  
+Anormal 
+elektroka rdiyogram  
+Azalmış s ol ventriküler 
+ejeksiyon fraksiyonu  
+Yaygın olmayan  Aritmi  
+Sinüs bradikardi  
+Anormal 
+elektrokardiyogram  
+Azalmış s ol ventriküler 
+ejeksiyon fraksiyonu   
+Seyrek  Kardiy omiyopati   
+Damar hastalıkları    
+Yaygın olmayan  Bilinç bulanıklığı  
+Kanama  
+Hipotansiyon  Bilinç bulanıklığı  
+Kanama  
+Hipotansiyon  
+Solunum, göğüs hastalıkları ve mediyastinal hastalıklar  
+Yaygın  Dispne   
+Yaygın olmayan  
+  Dispne   
+ 
+14  
+ Gast rointesti nal hastalıklar    
+Çok yaygın  Bulantı  
+Kusma  Bulantı  
+Yaygın  Kabızlık  
+İshal  
+Stomatit  Kabızlık  
+İshal  
+Stomatit  
+Kusma  
+Yaygın olmayan  Karın ağrısı  
+Gastrointestinal kanama  
+Mukozal i nflamasyon  
+Pankreatit  Karın ağrısı  
+Gastrointestinal kanama  
+Mukozal i nflamasyon  
+Pankreatit  
+Hepat obiliyer hastalıklar  
+Çok yaygın   Yükselmiş aspartat 
+aminotransferaz seviyesi  
+Yaygın olmayan  Hepatotoksisite  
+Yükselmiş aspartat 
+aminotransferaz seviyesi  Hepatotoksisite  
+Deri ve deri altı doku hastalıkları  
+Çok yaygın  Alopesi  Alopesi  
+Yaygın olmayan  Eritem 
+Tırnak bozuklukları  
+Raş 
+Ciltte renk bozukluğu  
+Doku nekrozu 
+(ekstravazasyondan sonra)  
+ Tırnak bozuklukları  
+Raş 
+Ciltte renk bozukluğu  
+Doku nekrozu 
+(ekstravazasyondan sonra)  
+Böbrek ve idrar yolu hastalıkları  
+Yaygın olmayan  Yüksel miş serum  kreatini  
+Yüksel miş kan üre nitrojen 
+seviyesi  
+Toksik nefropati  
+İdrar renk değişikliği  
+ Yüksel miş serum kreatini  
+Yüksel miş kan üre nitrojen 
+seviyesi  
+Toksik nefropati  
+İdrar renk değişikliği  
+Üreme sistemi ve meme  hastalıkları  
+Çok yaygın   Amenore*  
+Yaygın olmayan  Amenore   
+• Amenore,  uzun süre bilir ve erken menapoz ile uyumlu olabilir.  
+Genel bozukluklar ve uygulama bölgesine ilişkin  hastalıklar  
+Yaygın  Asteni  
+Yorgunluk  
+Pireksi    
+ 
+15  
+ Yaygın olmayan  Ödem  
+Ekstravazasyon*  
+Disguzi  Asteni  
+Yorgunluk  
+Ödem  
+Pireksi  
+Ekstravazasyon*  
+Ani ölüm**  
+*İnfüzyon bölgesinde ekstravazasyon rapor edilmiştir. Bu da ciltte eritem, şişlik, ağrı, y anma 
+ve/veya mav i renk değişikliğine neden olabilir.  Ekstravazasyon , sonuçta debridman ve deri 
+nakli ihtiyacı ile doku nekrozuna neden olabilir. Fl ebit, ayrıca infüzyon yerinde bildirilmiştir.  
+**Mitoksantron  uygulaması ile nedensel ilişkisi  belirsizdir.   
+ 
+Seçilmiş adver s reaksiyonların açıklaması  
+Potansiyel olarak iyileşmeyen ve ölümcül konjestif kalp yetmezliği ile en şiddetli formda ortaya 
+çıkan miyokardiyal toksisite ya mitoksantron ile tedavi sırasında ya da tedavinin sona ermesinden 
+yıllar sonra orta ya çıkabilir.  Bu risk kümülatif doz ile artar. K linik çalışmalarda, tek başına veya 
+diğer kemoterapötik ajanlarla kombinasyon halinde, kümülatif 140 mg/m2’lik dozları alan kanser 
+hastaları , %2,6 ’lık klinik konjestif kalp yetmezliği olasılığına sahiptir.  
+ 
+Miyelosüpresyon , mitoksantronun doz sınırlayıcı istenmeyen bir etkisidir. Daha önce kemoterapi 
+veya radyoterapi alan hastalarda miyelosüpresyon daha belirgin ve daha uzun sürebilir.  Akut 
+lösemi has taları ile yapılan klinik çalışmada, mitoksantron tedavisi verilen tüm hastalarda önemli 
+miyelosüpresyon oluşmuştur . 80 kayıtlı hasta arasında en düşük beyaz kan hücresi sayısı ve 
+trombosit sayısı için ortalama değerler sırasıyla 400/ mcl (W HO derece 4) ve 9.500/ mcl (WHO 
+derece 4) ’dir.   Hematolojik toksisite akut lösemi de zor değerlendirilir , çünkü beyaz kan hücresi 
+ve trombosit sayıları gibi kemik iliği depresyonunun geleneksel parametreleri , lösemik hücreler in 
+ilik replasmanı  ile karıştırı lır.  
+ 
+Multipl s kleroz popülasyonu  
+ 
+Hematalojik toksisite  
+Her uygulamadan sonra bir nötrop eni oluşabilir.  Bu genellikle infüzyondan sonraki 10. günde en 
+az lökosit  sayısına sahip olan ve 20. günde geri kazanılan bir nötropenidir.  Geri döndürülebilir 
+trombositopeni  de gözlenebilir. Hematolojik parametreler  düzenli olarak izlenmelidir  (Bkz. 
+Bölüm 4.4) . 
+Ölümcül akut miyeloid lösemi vakaları raporlanmıştır (Bkz. Bölüm 4.4)  
+ 
+Kardiyak toksisite  
+Elektrokardiogr am anomali vakaları raporlanmıştır. Sol ventrikül ejeksiyon fraksiyonu (LVEF) 
+<50% olan konjestif kalp yetmezliği vakaları da bildirilmiştir. (Bkz. Bölüm 4.4)  
+ 
+Pediyatrik popülasyon  
+Pediyatrik popülasyonda mitoksantron tedavisi önerilmemekt edir. Güvenlik v e etkinlik çalışması  
+ 
+16  
+ yapılmamıştır .  
+ 
+Şüpheli advers reaksiyonların raporlanması  
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem 
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli ola rak izlenmesine olanak 
+sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye 
+Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir. ( www.titck.gov.tr ; e- posta: 
+tufam@titck.gov.tr ; tel: 0 800 314 00 08; faks: 0 312 218  35 99).  
+ 
+4.9. Doz aşımı ve tedavisi  
+ 
+Mitoksantron için bilinen antidot  yoktur. Kazara doz  aşımları  raporlanmıştır. Tek bir bolus 
+enjeksiyon olarak 140-180 mg/m2 alan 4 hasta, enfeksiyonla beraber ciddi lökopeninin bir sonucu 
+olarak ölmüştür . Uzun süreli şiddet li miyelosupresy on dönemlerinde hematolojik destek ve 
+antimikrobiyal terapi gerekebilir.  
+ 
+Şiddetli böbrek yetmezliği olan hastalar üzerinde çalışılmamış olmasına rağmen, mitoksantron 
+geniş ölçüde dokuya bağl anır ve terapötik etki veya toksisitenin peritona l veya hemodiyal iz ile 
+hafifletilebil mesi  olası değildir.  
+ 
+Verilen doza ve hastanın fiziki durumuna göre hematopoetik, gastro intestinal, hepatik veya renal 
+toksisite görülebilir . 
+ 
+Yüksek doz vakalarında  hasta lar yakından takip edilmelidir.  Tedavi semptoma tik ve destekley ici 
+olmalıdır.  
+ 
+5. FARMAKOLOJİK ÖZELL İKLER 
+5.1. Farmakodinamik özellikler 
+Farmakoterapötik Grup: Antrasiklinler ve türevleri,  antineoplastik ajanlar  
+ATC kodu: L01DB07  
+ 
+Etki mekanizması  
+Hidrojen bağı yoluyla deoksiribonükleik aside (DNA) giren DNA -reaktif bir ajan  olan 
+mitoksantron, çapraz bağlara ve iplik kopmasına neden olur.  Mitoksantron ayrıca ribonükleik asit 
+(RNA) ile etkileşir ve hasarlı DNA'nın açılmasından ve onarılmasından sorumlu bir enzim olan 
+topoizomeraz II'nin güçlü bir inhibitörüdür.  Hem çoğalma faz ındaki  hem de çoğalma fazında 
+olmayan  kültürlenmiş insan hücreleri  üzerinde  sitosidal bir etkiye sahiptir, bu da hızlı çoğalan ve 
+yavaş büyüyen neoplazmalara karşı hücre döngüsü fazı özgünlüğünü ve aktivitesinin eksikliğini 
+gösterir. Mitoks antron hücre dön güsünü G2 fazında bloke ederek hücresel RNA ve poliploidi nin 
+artmasına neden olur.   
+Mitoksantronun, in vitro olarak B hücresi, T hücresi ve makrofaj proliferasyonunu inhibe et tiği 
+ve antijen sunumu ile interferon gama, tümör nekroz faktörü alfa ve interlökin -2'nin 
+sekresyonunu bozduğu gösterilmiştir.   
+ 
+17  
+ Farmakodinamik etkiler  
+Sentetik antrasendion türevi olan mitoksantron, belirlenmiş bir sitotoksik antineoplastik ajandır. 
+Birçok malignitede tera pötik etkinliği bildirilmişti r. MS’teki varsayılan etki mekanizması ,  
+immün osupresyon dur. 
+ 
+Klinik etkinlik ve güvenlik  
+Mitoksantron ’un 12 ila 14 mg / m² ’lik dozları  ile tedavi çeşitli kanserlerin tedavisinde etkili 
+olmuştur. Bu doz iki gün boyunca konsolidasyon tedavisi için , ardı ardına üç gün boyunca akut 
+miyeloid löseminin indüksiyon tedavisi için , 21 günlük sikluslarla  verilmiştir. Mitoksantron tek 
+başına veya diğe r anti kanser aj anlar la veya kortikosteroidler ile birlikte verildiğinde aktiftir.  
+Mitoksantron d iğer sitostatik aktif maddelerle kombinasyon halinde, metastatik meme kanserinin 
+tedavisinde, ayrıca antrasiklin içeren bir rejimle adjuvan tedavi nin başarısız  olduğu hastalar da da 
+etkilidir.   
+Mitoksantron k ortikosteroidler ile kombinasyon halinde  kastrasyona dirençli  ileri derece prostat 
+kanserli hastalarda  yaşam süresinde herhangi bir  iyileşme  ilerleme gösterme den ağrı kontrolü ve 
+yaşam kalitesini artırır.  İlk indüksiyon te davisi olarak mitoksantron sitarabin ile kombinasyon 
+halinde d aha önce tedavi edilmemiş akut miyeloid lösemili erişkin hastalarda  daunorubisin 
+kombinasyonları gibi remisyonu indüklemek için en az etkilidir. Mitoksantron, tek başına veya 
+diğer sitostatik tı bbi ürünlerle kombinasyon halinde, çeşitli NHL tipleri olan hastalarda objektif 
+tepki gösterir.  Son basamak tedavi olarak kullanıldığında, Mitoksantronun uzun dönemde yararlı 
+olabilmesi, kanser direnci ile sınırlıdır.  
+ 
+Yüksek aktif inflamat uar aktif MS has talığı ile ilgili yapılan bir klinik çalışmada h er üç ayda bir 
+uygulanan 12 mg/m² ’lik mitoksantron ile tedavi nin, 5 mg/m² ve plasebodan daha üstün  olduğu 
+görülmüştür . Nörolojik yetersizliğin kötüleş mesinde ve klinik atakların  sıklığı nda bir azalma  
+gözlen miştir.  Multipl sklerozda yapılan çeşitli çalışmalarda etkili kümülatif doz 36 mg/m2 ila 120 
+mg/m2 arasında değişmektedir.  Tek dozlar 5 ila 12 mg/m2 arasında değişmektedir, doz aralıkları 
+ayda bir defadan  3 ay da bir defaya kadar  değişmekted ir. Ayrıca kümül atif dozun uygulanma  
+süreci 3 ila 24 ay arasında değişmektedir. Bununla birlikte, kümülatif dozlarda kardiyotoksisite 
+artmaktadır.  72 mg/m²'lik  bir kümülatif doz hala etkilidir ve daha yüksek kümülatif dozlardan 
+daha az kardiyotoksisite ile  ilişkilidir. Bu  nedenle, multipl sklerozlu hastalar yaşam boyu 
+kümülatif dozu 72 mg/m²'den fazla almamalıdır.  
+ 
+Pediyatrik popülasyon  
+Pediyatrik hastalarda güvenlik ve etkinlik oluşturulmamıştır . 
+ 
+Farmakokinetik özellikler 
+Genel özellikler  
+ 
+Emilim:  
+Tek doz  intravenöz uygu lamayı takiben hastalarda mitoksantronun farmakokinetiği, üç bölmeli 
+bir model ile karakterize edilebilir. 15 -90 mg/m2 uygulanan hastalarda, doz ile konsantrasyon 
+eğrisinin altındaki alan ( EAA ) arasında doğrusal bir ilişki vardır.   Mitoksan tronun 5 gün boy unca 
+her gün veya her 3 haftada 1 tek doz uygulanması durumunda etk in maddenin plazmada dağılımı 
+belli değildir.   
+ 
+18  
+ Dağılım:  
+Dokulardaki dağılım yaygındır: kararlı durum dağılım hacmi 1.000 L / m2'yi aşmaktadır. Plazma 
+konsantrasyonları ilk ik i saatte hızla a zalır ve daha sonra yavaş yavaş azalır. Mitoksantron  % 78 
+oranında plazma proteinlerine bağlanır. Bağlı fraksiyon, konsantrasyondan bağımsızdır ve 
+fenitoin, doksorubisin, metotreksat, prednizon, prednizolon, heparin veya aspirin varlığından  
+etkilenmez. Mit oksantron, kan -beyin bariyerini geçmez. Testis lere dağılım nispeten düşüktür.  
+ 
+Biyot ransformasyon ve eliminasyon :  
+Mitoksantron metabolizmasın ın başlıca yolları açıkl ığa kavuşturulamamışt ır. Mitoksantron, idrar 
+ve dışkı  ile değişme miş aktif madde ya da inaktif metabolitler i olarak yavaş yavaş atılır.  İnsan 
+çalışmalarında, tıbbi ürünün uygulanmasından sonraki 5 günlük periyotta, dozun sadece %10'u ve 
+% 18'i idrar ve dışkıda sırasıyla aktif madde veya metabolit olarak geri kazanılmıştır. İdra rda geri 
+kazanıl an maddenin %65’i değişmemiş aktif maddedir. Kalan %35'lik kısım, monokarboksilik ve 
+dikarboksilik asit türevleri ve bunların glukuronid konjugatlarıdır.  
+ 
+Eliminasyon aşaması için rapor edilen yarı ömür değerlerinin çoğu 10 ile 40 saat aras ındadır, 
+ancak d iğer bazı çalışanlar 7 ile 12 gün arasında çok daha uzun değerler bildirmiştir. 
+Tahminlerdeki farklılıklar, dozlardan sonraki geç zamanlardaki verilerin mevcudiyeti ne, verilerin 
+ağırlığı na ve test duyarlılığı na bağlı  olabilir.  
+ 
+Özel popülas yonlar:  
+Mitoksa ntron klirensi, karaciğer yetmezliği ile azaltılabilir.  
+ 
+Mitoksantron farmakokinetiğinde yaşlı ve genç erişkin hastalar arasında anlamlı farklılıklar 
+görülmemektedir.  Toplumsal cinsiyet, ırk ve böbrek yetmezliğinin mitoksantron farmakokinet iği 
+üzerine etki si bilinmemektedir.  
+ 
+Mitoksantron farmakokinetiği pediyatrik popülasyonlarda bilinmemektedir.   
+ 
+5.2. Klinik öncesi güvenlilik verileri 
+ 
+Tek ve tekrarlı toksisite çalışmaları  fare, sıçan, köpek ve maymunlarda yürütülmüştür. 
+Hematopoetik sistem, m iyelosupresyon un görüldüğü ve toksisitenin birincil hedefi olan organ 
+hematopoetik sistemdir . Kalp, böbrek, gastrointestinal sistem ve testisler ilave hedeflerdi r. 
+Testislerin tübüler atrofisi ve azalmış sperm sayısı gözlenmiştir . 
+ 
+Mitoksantron tüm in vitr o test sistemler inde ve in vivo sıçanlarda mutajenik ve klastojeniktir. 
+Sıçanlarda ve erkek farelerde kanserojen etkiler görülmüştür.  Gebeliğin organogenez döneminde 
+gebe sıçanların t edavisi, önerilen insan dozunun  mg/m2 bazında > 0.01 katı dozunda 
+uyguland ığında  fetal büy üme geriliği ile ilişkilidir. Hamile tavşanlar organogenez döneminde 
+tedavi edildiğinde, önerilen insan dozunun  mg/m2 bazında  > 0.01 katı dozunda uygulandığında  
+artmış prematüre doğum oranı gözlenmiştir.  Bu çalışmalarda teratojenik etki göz lenme miştir , 
+fakat test edilen maksimum dozlar önerilen insan dozunun çok altındadır (sırasıyla sıçanlarda ve 
+tavşanlarda 0 ,02 ve 0 ,05 katı, mg / m2 bazında). Sıçanlarda yapılan iki nesil  boyunca yapılan   
+ 
+19  
+ çalışmada yavru gelişimi veya doğurganlık üzerinde h erhangi bir etki  gözlenmemiştir.  
+ 
+6. FARMASÖTİK ÖZELLİKLER 
+6.1. Yardımcı maddelerin listesi 
+Sodyum klorür  
+Sodyum metabisülfit  (E223)  
+Distile su  
+ 
+6.2. Geçimsizlikler 
+Mitoksantron çözeltisi bir infüzyon çözeltisi veya bir enjektör içinde diğer ilaçlar ile 
+karıştırılmamal ıdır.  
+ 
+Çökelme meydana  gelebileceğinden mitoksantron çözeltisi ile heparin, aztreonam, 
+piperasilin/tazobaktam, propofol, hirokortizon veya paklitaksel karıştırılmamalıdır.  
+ 
+6.3. Raf ömrü 
+24 ay.  
+ 
+Flakon açıldıktan sonraki raf ömrü:  
+MITOXANTRONE – KOÇAK istendi ğinde b ir bölümü daha s onra kullanılacak şekilde 
+uygulanabilir. Uygulanacak bölümün enjektöre çekilmesi kontrollü ve valide aseptik koşullarda 
+gerçekleştirilmelidir. Bu koşullarda kullanıma hazırlanmış çözeltinin +25°C’de kimyasal ve 
+fiziksel olarak 7 gün süreyle  stabil kaldığı kanıtlanmıştır.  
+ 
+Mikrobiyolojik açıdan, açılması sırasında mikrobiyal kontaminasyon riski tümüyle ortadan 
+kaldırılmadığı sürece ürünün hemen kullanılması önerilir. Flakonlar açıldıktan sonra hemen 
+kullanılması, uygulamayı yapanın so rumlulu ğundadır ve +25° C’de 7 günden uzun süre 
+saklanmamalıdır. Aseptik koşullarda hazırlanmadıysa 25°C altındaki oda sıcaklığında en fazla 24 
+saat saklanabilir.  
+ 
+Flakon içeriği seyreltilerek kullanıma hazırlandıktan sonraki raf ömrü:   
+MITOXANTRONE – KOÇA K uygul amadan önce seyr eltilecek ve bu çözelti bir süre 
+saklanacaksa işlem kontrollü ve valide aseptik koşullarda gerçekleştirilmelidir. Bu koşullarda 
+kullanıma hazırlanmış çözelti nin +4°C ila 25°C arası sıcaklıkta  kimyasal ve fiziksel olarak 4 gün 
+süreyle  stabil  kaldığı kanıtla nmıştır. Bu süre içinde kullanılmayan çözelti atılmalıdır.  
+ 
+Mikrobiyolojik açıdan, açılması sırasında mikrobiyal kontaminasyon riski tümüyle ortadan 
+kaldırılmadığı sürece seyreltilmiş ürünün hemen kullanılması önerilir. Seyreltilmiş  ürünle rin, 
+seyreltildi kten sonra hemen kullanılması, uygulamayı yapanın sorumluluğundadır ve +4°C ila 
+25°C arası sıcaklıkta 4 günden uzun süre saklanmamalıdır.  
+ 
+6.4. Saklamaya yö nelik özel tedbirler 
+25oC altında ki oda sıcaklığında, ışıktan koruyarak, ambalajın da sakl anmalı ve doldur ulmamalıdır.   
+ 
+20  
+ 6.5. Ambalajın niteliği ve içeriği 
+1 adet, 10 ml  çözelti  içeren renksiz, Tip I cam  flakon  ambalajlarda.  
+ 
+6.6. Beşeri tıbbi üründen arta kalan maddelerin imhası ve  diğer özel önlemler 
+Kullanılmamış olan ürünler ya da atık materyaller “Tıbbi Atıkl arın Kontrolü Yönetmeliği” ve  
+“Ambalaj ve Amb alaj Atıkl arının Kont rolü Yönetmelikleri”ne uygun olarak imha edilmelidir. 
+ 
+Kullanma Talimatı  
+MITOXANTRONE – KOÇAK uygulaması sadece onkoloji alanında uzman hekimler tarafından 
+yapılmalıdır.  
+ 
+Hazırlan ması ve kullanıl ması sırasında, sitotoksik preparatlar için uygulanan güvenlik 
+önlemlerine uyulmalıdır.  
+ 
+Hem tıbbi ürünün artanı hem de seyreltilmek için ya da infüzyon için hazırlanmış çözeltinin 
+tamamı hastanenin sitotoksik maddelere uygulanan st andart prosedürlerine g öre ve zararlı 
+atıkların imha edilmesi için yürürlükte olan yasal gereklere uygun olarak ortadan kaldırılmalıdır.  
+ 
+Hazırlama, uygulama ve kontamine materyalin atılması sırasında ve ayrıca malzemenin (tıbbi 
+malzeme) dekontaminasyonu esnasın da devamlı olara k koruyucu eldiven ve maske 
+kullanılmalıdır. Mitoksantron içeren çözelti ile temas eden malzeme, 13 kısım su içerisinde 5 .,5 
+kısım kalsiyum hipoklorit içeren süspansiyon ile temizlenebilir. Malzemeler daha sonra bol su ile 
+çalkalanma lıdır. İçleri hipoklori t ile detoksifiye edilen malzeme eğer mitoksantron çözeltisi kabı 
+olarak tekrar kullanılacaksa mutlaka önce dilüe asetik asit, sonra da su ile çalkalanmalıdır.  
+ 
+7. RUH SAT SAHİBİ 
+KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.  
+Mahmutbey Mah. 2477.  Sok. N o:23  
+Bağcılar /  İstanbul  
+Tel: 0212 410 39 50  
+Faks: 0212 447 61 65  
+ 
+8. RUH SAT NUMARASI(LARI)  
+202/9  
+ 
+9. İLK RUH SAT TARİHİ/RUH SAT YENİLEME TARİHİ 
+İlk ruhsat tarihi: 26.02.2003  
+Ruhsat yenileme tarihi: 
+ 
+10. KÜB’ÜN YENİLENME TARİHİ 

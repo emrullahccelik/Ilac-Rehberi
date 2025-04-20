@@ -1,0 +1,533 @@
+1 
+ KISA ÜRÜN BİLGİSİ  
+ 
+1.  BEŞERİ TIBBİ ÜRÜNÜN ADI  
+SUPRANE VOLATİL  % 100 inhalasyon buharı, ç özelti   
+ 
+2.  KALİTATİF VE KANTİTATİF BİLEŞİM  
+Etkin madde:  
+Her b ir şişe içinde 240 mL desfluran  
+ Yardımcı madde(ler):  
+Yardımcı maddeler için bölüm 6.1’e bakınız.  
+ 3. FARMASÖTİK FORM  
+Sıvı halde inhalasyon gazı.  
+Berrak renksiz sıvı. 
+ 
+4.  KLİNİK ÖZELLİKLER  
+ 
+4.1 Terapötik endikasyonlar  
+Desfluran, erişkinlerde yatarak ve günübirlik cerrahide, indüksiyon ve/veya idame anesteziği 
+olarak ve yatarak ve günübirlik pediyatrik cerrahide idame anesteziği olarak kullanılır.  
+ 
+4.2 Pozoloji  ve uygulama şekli  
+Pozoloji/uygulama sıklığı ve süresi  
+Doz:  
+Hastanın yaşı arttıkça desfluranın minimum alveoler konsantrasyonları (MAC) azalır. 
+Desfluran dozu buna uygun olarak ayarlanmalıdır. MAC aşağıdaki Tablo 1’de listelendiği 
+şekilde belirlenmiştir:  
+ 
+  
+2 
+ Tablo 1  
+Desfluran için hastanın yaşı ve inhalasyon karışımına göre MAC değerleri  
+   Yaş Hasta sayısı  %100 Oksijen  N  
+(Hasta sayısı )  %60 Nitröz Oksit / 
+%40 Oksijen  
+2 haftalık bebek  6 9,2 ± 0 ,0 - - 
+10 haftalık bebek  5 9,4 ± 0 ,4 - - 
+9 aylık bebek  4 10,0 ± 0 ,7 5 7,5 ± 0 ,8 
+2 yaş  3 9,1 ± 0 ,6 - - 
+3 yaş  - - 5 6,4 ± 0 ,4 
+4 yaş  4 8,6 ± 0 ,6 - - 
+7 yaş  5 8,1 ± 0 ,6 - - 
+25 yaş  4 7,3 ± 0 ,0 4 4,0 ± 0 ,3 
+45 yaş  4 6,0 ± 0 ,3 6 2,8 ± 0 ,6 
+70 yaş  6 5,2 ± 0 ,6 6 1,7 
+* N = çaprazlanan çift sayısı (kuantal yanıtın aşağı -yukarı metodu kullanılarak). 
+Koroner arter hastalığı olanlarda, miyokard iskemisinin önlenmesi için normal hemodinaminin 
+sağlanması önemlidir. Koroner arter hastalığı olanlarda ya da kan basıncı ve kalp hızının 
+artması istenmeyen hastalarda anestezinin indüksiyonunda desfluran tek ajan olarak 
+kulla nılmamalı, tercihan intravenöz opioidler ve hipnotikler olmak üzere diğer ilaçlarla birlikte 
+kullanılmalıdır (Bkz. Bölüm 4.3).  
+Premedikasyon  
+Premedikasyon, tükürük salgılarının uyarıldığı  göz önünde bulundurarak hastanın ihtiyaçlarına 
+göre seçilmelidir.  Antikolinerjik ilaç kullanımı  anestezi uzmanın seçimine bağlıdır.  
+Erişkinlerde anestezi indüksiyonunda  
+Erişkinlerde %3’lük bir başlangıç konsantrasyonu önerilir; her 2- 3 soluk almada %0, 5 – 1  
+oranında arttırılır. Desfluranın %4 -11 konsantrasyonlarında solunması genellikle 2- 4 dakika içinde 
+cerrahi anestezi oluşturur. %15'e kadar olan yüksek konsantrasyonlarda kullanılabilir. Desfluran ın 
+bu konsantrasyonları orantısal olarak oksijen konsantrasyonunu azaltacağından başlangıç oksijen 
+konsantrasyonları %30 ya da üzeri olmalıdır. Erişkinlerde anestezi indüksiyonunda 
+oksihemoglobin desatürasyonu (SpO 2 < %90) toplamda %6 olarak bulunmuştur. Yüksek 
+konsantrasyonlarda desfluran üst solunum yollarındaki advers etkileri uyarabilir (Bkz. 
+Bölüm 4.8). Erişkinlerde indüksiyonun tiopental veya propofol gibi intravenöz bir ilaçla 
+başlatılması sonrasında da desflurana yaklaşık 0 ,5-1 MAC konsantrasyonunda ve taşıyıcı gaz 
+olarak O 2 ya da N 2O/O 2 kullanılarak başlanabilir.  
+Serebrospinal sıvı basıncının artmış olduğu ya da artıştan kuşkulanıldığı durumlarda 
+serebral dekompresyon yapılana kadar desfluran hiperventilasyonla (hipokapni) 0 ,8 ya 
+da daha az MAC düzeyinde ve bir barbitürat indüksiyonu ile birlikte uygulanmalıdır. 
+Serebral perfüzyon basıncının idame ettirilmesi için gereken dikkat gösterilmelidir (Bkz. 
+Bölüm 4.4). 
+Çocuklarda anestezi indüksiyonunda  
+Sıklıkla öksürük, nefes tutma, apne, laringospazm ve sekresyon artışına neden olduğundan 
+desfluran çocuk ve bebeklerde yapılacak indüksiyonda endike değildir  (Bkz. Bölüm 4.4) . 
+Erişkinlerde anestezinin idamesinde  
+Oksijen ya da oksijen ile zenginleştirilmiş hava ile uygulandığında %2, 5-8,5 konsantrasyonlarında 
+desfluran gerekebilir. Erişkinlerde nitröz oksit ile beraber kullanıldığında daha düşük 
+3 
+ konsantrasyonda desfluran ile cerrahi düzeyde anestezi devam ettirilebilir. Nitröz oksit ile beraber 
+kullanıldığında desfluranın %2- 6 konsantrasyonları ile anestezi devam ettirilebilir.  
+Çocuklarda anestezinin idamesinde  
+Desfluran bebek ve çocuklarda anestezinin idamesinde endikedir. Nitröz oksit ile beraber ya da 
+tek başına kullanıldığında %5,2 -10 end- tidal konsantrasyonlarda desfluran ile cerrahi düzeyde 
+anestezi devam ettirilebilir. Desfluran kısa bir süre için %18'e kadar yüksek 
+konsantrasyonlarda uygulanabilmiş olmasına rağmen eğer desfluran nitröz oksit ile birlikte 
+yüksek konsantrasyonlarda kullanılacaksa, solunan hava içindeki oksijen miktarının en az 
+%25 olduğundan emin olunmalı dır.  
+Ek bir gevşeme gerekmesi durumunda, tamamlayıcı dozlarda kas gevşeticiler kullanılabilir.  
+İdame anestezi sırasında kan basıncı ve kalp hızının monitorizasyonu 
+İdame anestezi sırasında anestezi derinliğinin değerlendirilmesinin bir parçası olarak kan 
+basıncı ve kalp hızı dikkatle izlenmelidir  (Bkz. Bölüm 4.4). 
+Uygulama şekli  
+Desfluran, yalnızca bu ilacın kullanımı için özel olarak tasarlanmış bir vaporizatör 
+kullanılarak genel anestezi uygulaması konusunda eğitim görmüş kişilerce 
+uygulanmalıdır.  
+Vaporizatör  
+Desfluran inhalasyon yolu ile uygulanır. SUPRANE VOLATİL yalnızca desfluran 
+kullanımı için özel olarak tasarlanmış bir vaporizatör kullanılarak uygulanmalıdır. 
+Bireyselleştirme  
+Genel anestezi uygulaması hastadan alınan yanıta göre bireyselleştirilmelidir. 
+Birlikte uygulanan tedaviler üzerine etkileri  
+Opioid veya benzodiazepinler, anestezi için gereken desfluran miktarını azaltırlar. 
+Desfluran, nöromusküler blokaj için kullanılan ilaçların gereken miktarını azaltır (Bkz. 
+Tablo 2). Ek gevşeme gereken durumlarda, kas gevşeticilerden ek dozlar kullanılabilir (Bkz. 
+Bölüm 4.5). 
+ 
+Özel popülasyonlara ilişkin ek bilgiler  
+Böbrek/karaciğer yetmezliği:  
+Nitröz oksit/oksijen ile birlikte %1 -4 desfluran konsantrasyonları kronik böbrek veya karaciğer 
+yetmezliği ve böbrek transplantasyon cerrahisinde kullanılabilir. Minimal metabolizasyon 
+nedeniyle böbrek veya karaciğer yetmezliği olan hastalarda doz ayarlamasına gerek yoktur.  
+Pediyatrik popülasyon:  
+Sıklıkla öksürük, nefes tutma, apne, laringospazm ve sekresyon artışına neden olduğundan 
+desfluran pediyatrik indüksiyonda kullanılmaz.  
+Geriyatrik popülasyon:  
+Artan yaşla birlikte MAC değerleri düşer. Bu nedenle doz yaşa göre ayarlanmalıdır.  
+ 
+ 
+4 
+ 4.3 Kontrendikasyonlar  
+- Desfluran, genel anestezinin kontrendike olduğu hastalarda ve halojenli preparatlara duyarlı 
+olduğu bilinen hastalarda kontrendikedir.  
+- Desfluran, malign hipertermisi olduğu bilinen ya da malign hipertermiye genetik yatkınlığı 
+olan hastalarda kontrendikedir. 
+- Desfluran, halojenli  inhalasyon anestezi k kullanımına  bağlı olarak gelişmiş hepatit geçmişi 
+olduğu bilinen veya halojenli bir inhalasyon anestezik  ile anestezi sonrası açıklanamayan 
+orta ila şiddetli karaciğer fonksiyon bozukluğu öyküsü olan hastalarda ( örn. ateş  ve/veya 
+eozinofili ile ilişkili sarılık) kontrendikedir.  
+- Desfluran ın, sık öksürük, nefes tutma, apne, laringospazm ve art an salgı lar nedeniyle 
+pediatrik hastalarda inhalasyonla  indüksiyon ajanı olarak kullanımı  kontrendikedir. 
+- Koroner arter hastalığı olanlarda ya da kan basıncı ve kalp hızının artması istenmeyen 
+hastalarda anestezinin indüksiyonunda desfluranın  anestezi indüksiyonu amacıyla tek ajan 
+olarak kullanılması kontrendikedir.  
+ 
+4.4 Özel kullanım uyarıları ve önlemleri  
+Desfluran yalnızca spesifik olarak desfluran uygulamasında kullanılan vaporizatörlü genel 
+anestezi uygulaması için eğitim almış kişiler tarafından uygulanmalıdır. Açık  havayolu, suni 
+havaland ırma, oksijen zenginleş tirme ve dola şım res üsitasyonunu sa ğlamak i çin gerekli  bak ım 
+tesisleri her an hazırda bulundurulmalıdı r. 
+  
+Malign hipertermi  
+Güçlü inhalasyon anestezikleri, duyarlı kişilerde iskelet kasında hipermetabolik bir duruma ve 
+sonuç olarak oksijen gereksiniminde artışa neden olan ve malign hipertermi olarak bilinen 
+klinik bir sendromu tetikleyebilir. Desfluranın malign hiperterminin potansiyel bir tetikleyicisi 
+olduğu gösterilmiştir. Hiperkapni bu klinik sendromun gelişebileceği konusunda bir sinyal 
+olabilir ve malign hipertermiye işaret eden belirtiler arasında kaslarda rijidite, taşikardi, taşipne, 
+siyanoz, aritmiler ve/veya stabil olmayan kan basıncı bulunabilir. Bu non- spesifik belirtilerin 
+bazıları (akut hipoksi, hiperkapni ve hipovolemi) hafif anestezi sırasında da görülebilir. Malign 
+hiperterminin tedavisinde, bu durumu tetikleyen ajanlar kesilir, intravenöz dantrolen sodyum 
+uygulanır ve destekleyici tedavi verilir . Sonrasında  böbrek yetmezliği gelişebileceğinden idrar 
+akışı izlenerek mümkünse normal akış devam ettirilmelidir. Desfluran malign hipertermiye 
+yatkınlığı olan kişilerde kullanılmamalıdır.  Desfluran ile ölümcül malign hipertermi 
+bildirilmiştir.  
+ 
+Perioperatif hiperkalemi  
+İnhalasyon anesteziklerinin kullanımı, postoperatif dönemde, çok seyrek olarak serum 
+potasyum düzeylerinde yükselme ve buna bağlı kardiyak aritmiler ve çocuklarda ölüm ile 
+ilişkili bulunmuştur. Sessiz ya da aşikar musküler distrofisi olanlar, özellikle de Duchenne tipi 
+musküler distrofisi olan hastalar bu duruma daha yatkındır. Vakaların hepsinde olmasa da 
+çoğunda aynı zamanda süksinil kolin kullanımı da vardır. Bu hastalarda serum kreatinin kinaz 
+konsantrasyonunda ve bazılarında myoglobulinüride artış ile birlikte olan kas hasarı da 
+görülmüştür. Malign hiperterminin görünümüne benzer olmasına rağmen, hastaların hiçbirinde 
+kaslarda rijidite ya da hipermetabolik durum belirti ve işaretleri görülmemiştir. Böyle 
+5 
+ durumlarda hiperkalemi ve aritminin hemen ve yoğun bir şekilde tedavisi önerilir. Hastaların 
+daha sonra sessiz bir nöromusküler hastalık yönünde araştırılması gerekir.  
+ 
+Çocuklarda anestezi indüksiyonunda  
+Sıklıkla öksürük, nefes tutma, apne, laringospazm ve sekresyon artışına neden olduğundan 
+desfluran çocuk ve bebeklerde yapılacak indüksiyonda endike değildir.  
+ 
+Bronş Hiperreaktivitesi Olan Çocuklarda Kullanımı  
+Desfluran, hava yolu daralması  ve hava yolu direncinde artış potansiyeli nedeniyle, astımı veya 
+yakın tarihli üst hava yolu enfeksiyonu hikayesi olan çocuklarda dikkatle kullanılmalıdır.  
+ 
+Çocuklarda anestezinin idamesinde  
+Solunum sistemiyle ilişkili advers etkilerin artmış sıklığı nedeniyle entübe edilmemiş 6 
+yaşından küçük çocuklarda anestezinin idamesinde desfluran kullanımı onaylanmamıştır.  
+Larengeal maske hava yoluyla (LMA) veya yüz maskesi yoluyla anestezi idamesi yapılan 6 yaş 
+ve altı çocuklarda, özellikle derin anestezi altında LMA çıkarılması sırasında örneğin öksürük ve 
+laringospazm şeklindeki olumsuz etkilerde artışa yol açma potansiyeli nedeniyle desfluran 
+kullanımında dikkatli olunmalıdır .  
+ 
+Doğumda  
+Kısıtlı sayıda vakada denendiğinden doğum sırasındaki anestezide desfluranın güvenilir 
+kullanımı gösterilmemiştir. Desfluran uterusta gevşeme oluşturur ve utero -plasental kan akışını 
+azaltır (Bkz. Bölüm 4.6).  
+Çok seyrek olarak, Torsade de pointes (istisnai durumlarda ölümcül olabilen) ile ilişkili olan 
+izole QT uzaması raporları alınmıştır. Duyarlı hastalara (örn eğin QTc uzaması  olan hastalar ) 
+desfluran uygulanırken dikkatli olunmalıdır.     
+ 
+Önlemler  
+Halojenli anesteziklerin kullanımına bağlı olarak karaciğer işlevlerinde bozulma, sarılık ve fatal 
+karaciğer nekrozu bildirilmiştir; bu reaksiyonlar hastalarda bir aşırı duyarlılık durumuna işaret 
+etmektedir. Desfluran daha önce halojenli anesteziklerin kullanılması nedeniyle duyarlı hale 
+gelmiş hastalarda duyarlılık hepatitine neden olabilir. Siroz, viral hepatit ya da daha önceden 
+bir karaciğer hastalığının bulunması halojenli anestezikler dışında bir anestezik seçiminin bir 
+nedeni olabilir. 
+Diğer uçucu  anesteziklerde de olduğu gibi, desfluran intrakranial yer kaplayıcı lezyonu olan 
+hastalara uygulandığında serebrospinal sıvı basıncını  doza bağımlı olarak arttırabilir. Bu tür 
+hastalarda, desfluran dozu 0,8 MAC ya da daha az olmalı ve kranial dekompresyondan önce 
+barbitürat indüksiyonu ve hiperventilasyonla (hipokapni) birlikte uygulanmalıdır. Serebral 
+perfüzyon basıncının devamlılığına dikkat edilmelidir. 
+Koroner arter hastalığı olanlarda, miyokard iskemisinin önlenmesi için normal hemodinaminin 
+sağlanması önemlidir. Desfluran  konsantrasyonunda ki hızlı artışı takiben  nabız hızında, 
+ortalama arteriyel basınç ta ve epinefrin ve norepinefrin seviyelerinde belirgin artış görülmüştür.  
+Desfluran, koroner arter hastalığı riski taşıyan hastalarda veya kalp atım hızı veya kan 
+6 
+ basıncında artışların istenmediği hastalarda anestezik indüksiyon için tek ajan olarak 
+kullanılmamalıdır. Diğer ilaçlar, tercihen intravenöz opioidler ve hipnotikler , ile birlikte 
+kullanılmalıdır.   
+Anestezinin idamesi sırasında, desfluranın end- tidal konsantrasyonlarının hızlı arttırılmasından 
+sonra kan basıncı ve kalp hızında olan artışlar yetersiz anestezinin elde edilmiş olduğunu 
+göstermeyebilir. Sempatik aktivasyona bağlı değişiklikler yaklaşık 4 dakika içinde düzelir. 
+Desfluranın end -tidal konsantrasyonlarının hızlı arttırılmasından önce ya da hiç desfluran 
+uygulanmadığı durumlarda kan basıncı ve kalp hızında olan artışlar hafif anesteziye işaret 
+edebilir.  
+Anestezi derinliği arttıkça hipotansiyon ve solunum depresyonu artar.  
+Hipovolemik, hipotansif ve gücünü yitirmiş  hastalarda desfluran kullanımı kapsamlı olarak 
+araştırılmamıştır.  Bu hastalarda diğer güçlü anesteziklerin kullanımında olduğu gibi daha düşük 
+dozlarda desfluran  kullanımı önerilmektedir.  
+Diğer inhalasyon anestezikleri gibi desfluranın da, bazı hastalarda karbon monoksit (CO) 
+oluşturmak üzere kuru karbondioksit  (CO 2) absorbanlar ile reaksiyona girerek 
+karboksihemoglobin düzeylerinde artışa neden olabildiği bildirilmiştir. Vaka raporları baryum 
+hidroksit ve kalsiyum hidroksitin (soda lime), taze gazların CO 2 kanisterinden yüksek akımla 
+uzun saatler ya da günlerce geçirildikten sonra kuruyabildiğini göstermiştir. Klinisyenin 
+anestezi solunum devrelerindeki karbondioksit absorbanların kuruduğundan kuşkulandığı 
+durumlarda, bu adsorbanlar desfluran uygulaması önc esi yenisiyle değiştirilmelidir.  
+Anestezi sonrası ağrı beklenen hastalarda, diğer hızlı etkili anestezikler gibi desfluran 
+anestezisinden sonra da hastanın hızla ayılacağına dikkat edilmelidir. Hastaya işlem sonunda 
+ya da anestezi sonrası bakım ünitesine alınmasından sonraki erken dönemde  uygun analjezinin 
+uygulanıldığından emin olunmalıdır. Çocuklarda, anesteziden sonra ayılma sırasında 
+kooperasyonu engelleyebilecek kısa bir ajitasyon oluşabilir.  
+Diğer halojenli anestezikler için olduğu gibi, kısa bir süre içinde yeniden anestezi uygulamasına 
+dikkatle yaklaşılmalıdır.  
+Solunum yolunun açık tutulması, yapay solunum, oksijenizasyon ve dolaşım resusitasyonu için 
+gerekli cihazlar anında kullanıma hazır olmalıdır.  
+Glukoz artışı  
+Diğer halojenli anesteziklerde görüldüğü gibi desfluran da operasyon sırasında glukoz 
+seviyelerindeki artış ile ili şkilendirilmiştir.  
+ 
+4.5 Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri  
+Diğer gazların konsantrasyonu 
+Nitröz oksit ile beraber kullanıldığında desfluran MAC düzeyleri düşer (Bkz. Tablo 1).  
+Kas gevşeticiler  
+Yaygın olarak kullanılan kas gevşeticilerin etkileri desfluran tarafından potansiyelize edilir. 
+N2O/Opioid anestezisine göre desfluran anestezisi, nöromusküler iletiyi %95 oranında deprese 
+edilebilmek için (ED 95) gerekli süksinil kolin dozlarını yaklaşık %30 oranında, atrakuryum ve 
+pankuronyum dozlarını ise yaklaşık %50 oranında azaltır. 
+Değişik konsantrasyonlardaki desfluran anestezisi sırasında, nöromusküler iletiyi %95 oranında 
+deprese edilebilmek için (ED 95) gerekli pankuronyum, atrakuryum süksametonyum ve 
+vekuronyum dozları Tablo 2’de gösterilmektedir. Bu dozlar vekuronyum dışında i zofluran ile 
+7 
+ benzerdir . Desfluran anestezisi sırasında vekuronyumun ED 95'i izofluran anestezisine göre %14 
+daha düşüktür. Ek olarak desfluran anestezisi altında nöromüsküler blokajın sona ermesi, 
+izofluran anestezisi altında olana göre daha uzundur. 
+ 
+Tablo 2: Nöromusküler iletide %95 depresyon oluşturan kas gevşetici dozu (mg/kg)  
+Desfluran 
+konsantrasyonu   
+Pankuronyum   
+Atrakuryum   
+Süksametonyum   
+Vekuronyum  
+0,65 MAC/%60 N 2O/O 2 0,026 0,133 NA*  NA*  
+1,25 MAC/ %60 N 2O/O 2 0,018 0,119 NA*  NA*  
+1,25 MAC/O 2%100 O 2 0,022 0,120 0,362 0,019 
+* NA = veri bulunmamaktadır.  
+Pre-anestezik ilaçlar  
+Klinik çalışmalarda , yaygın kullanılan pre -anestezik ilaçlarla ya da anestezi sırasında kullanılan 
+ilaçlarla (intravenöz ajanlar ve lokal anestezikler) önemli bir advers etkileşim görülmemiştir. 
+Desfluranın diğer ilaçların dispozisyonuna etkileri belirlenmemiştir.  
+Sedatifler  
+Farklı konsantrasyonlarda desfluranla anestezi yapılmış hastalara artan dozlarda intravenöz 
+fentanil verildiğinde, hastalarda anestezik gereksinim veya MAC değerlerinde belirgin azalma 
+görülmüştür. Artan dozlarda midazolam uygulanması MAC değerlerinde küçük bir azalma 
+göstermiştir. Sonuçlar Tablo 3’de gösterilmektedir. MAC değerlerindeki bu azalmalar i zofluran 
+ile gözlemlenenle re benzerdir.  MAC değerlerinde, diğer opioid ve sedatif ilaçlarla da benzer 
+bir etkinin oluşması mümkündür. 
+Tablo 3: Desfluranın MAC değerlerine fentanil ya da midazolamın etkisi
+  
+Medikasyon  *MAC (%)  %MAC azalması 
+Fentanilsiz  6,33 – 6,35 - 
+Fentanil (3 mcg/kg)  3,12 – 3,46 46 - 51 
+Fentanil (6 mcg/kg)  2,25 – 2,97 53 - 64 
+Midazolamsız  5,85 – 6,86 - 
+Midazolam (25 mcg/kg)  4,93 15,7 
+Midazolam (50 mcg/kg)  4,88 16,6 
+* 18- 65 yaş arası değerleri içerir.  
+Glukoz düzeylerinde artış  
+Diğer halojenli anesteziklerde olduğu gibi, desfluran kullanımı da bir miktar intra -operatif 
+glukoz yükselmesine neden olabilir. 
+ 
+Özel popülasyonlara ilişkin ek bilgiler  
+Özel popülasyonlara ilişkin yapılan bir etkileşim çalışması bulunmamaktadır. 
+Pediyatrik popülasyon:  
+Bu popülasyona ilişkin yapılan bir etkileşim çalışması bulunmamaktadır. 
+ 
+8 
+ 4.6 Gebelik ve laktasyon  
+Genel tavsiye  
+Gebelik Kategorisi: C  
+ 
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon)  
+Desfluranın çocuk doğurma potansiyeli bulunan kadınlarda kullanıldığında üreme kapasitesini etkileyip etkilemediği bilinmemektedir.  
+ 
+Gebelik dönemi  
+Kısıtlı sayıda vakada denendiğinden doğum sırasındaki anestezide desfluranın güvenilir 
+kullanımı gösterilmemiştir. Desfluran uterusta gevşeme oluşturur ve utero -plasental kan akışını 
+azaltır.  
+Hayvanlar da yapılan çalışmalar üreme toksisitesini göstermiştir  (Bkz. Bölüm  5.3). İnsanlara 
+yönelik potansiyel risk bilinmemektedir. 
+SUPRANE  VOLATİL ’in gebe kadınlarda güvenle kullanıldığı gösterilmemiş olduğundan, 
+gebelikte kullanılmamalıdır.  
+ 
+Laktasyon dönemi  
+Desfluranın anne sütüne geçip geçmediği bilinmediğinden, laktasyon döneminde 
+kullanılmamalıdır.  
+ 
+Üreme yeteneği/Fertilite Desfluranın karsinojenik potansiyelini ya da fertiliteye etkisini değerlendirmek amacıyla uzun 
+süreli hayvan çalışmaları yapılmamıştır.  
+ 
+4.7 Araç ve makine kullanımı üzerindeki etkiler  
+Desfluranın araç ve makine kullanımı üzerindeki etkisi araştırılmamıştır. Ancak hastalar genel anestezi sonrasında bu tür becerilerin bozulabileceği konusunda bilgilendirilmeli ve 24 saat boyunca araba ve makine kullanımından kaçınmaları önerilmelidir.  
+ 
+4.8 İstenmeyen etkiler  
+Diğer tüm güçlü  inhale anestezik ilaçlarda olduğu gibi desfluran da doza bağımlı kalp- solunum 
+depresyonuna sebep olabilir. Diğer advers etkilerin çoğu hafif ve geçicidir. Bulantı ve kusma inhalasyon anesteziklerine, intraoperatif veya postoperatif uygulanan ve hastanın cerrahi prosedüre cevabına göre  uygulanan diğer ajanlara bağlı olarak postoperatif dönemde 
+gözlemlenen yaygın etkidir. 
+SUPRANE
+ VOLATİL kullanılarak gerçekleştirilen klinik çalışmalarda görülen istenmeyen 
+etkilerin sıklığı aşağıdaki şekilde belirtilmiştir: Çok yaygın (≥1/10), yaygın (≥1/100 ila <1/10), 
+yaygın olmayan (≥1/1.000 ila <1/100), seyrek (≥1/10.000 ila <1/1.000), çok seyrek (<1/10.000), bilinmiyor (eldeki verilerden hareketle tahmin edil emiyor).  
+Her sıklık grubunda istenmeyen etkiler azalan ciddiyet sıralaması ile sunulmaktadır. 
+9 
+ Enfeksiyon ve enfestasyonlar  
+Yaygın:   Farenjit  
+ 
+Kan ve lenfatik sistem hastalıkları  
+Bilinmiyor:   Koagülopati  
+ Metabolizma ve beslenme hastalıkları  
+Bilinmiyor:   Hiperkalemi, hipokalemi, metabolik asidoz  
+ Psikiyatrik hastalıklar  
+Yaygın:   N efes tutma+ 
+Yaygın olmayan:   Ajitasyon  
+Bilinmiyor:   Deliryum (dikkat, algılama, farkındalık ve anlama kabiliyeti 
+bozukluklarının yaşandığı bir durum)  
+ Sinir sistemi hastalıkları 
+Yaygın:   Baş ağrısı  
+Yaygın olmayan:   Baş dönmesi / sersemlik hali  
+Bilinmiyor:   Konvülsiyon, migren§, ensefalopati§ 
+ 
+Göz hastalıkları  
+Yaygın:   Konjonktivit  
+Bilinmiyor:   Gözlerde sarılık , oküler hiperemi§, oküler ikterus, gözlerde 
+yanma§, geçici körlük§, görsel keskinlikte azalma§, gözlerde 
+iritasyon§, gözlerde ağrı§ , ülseratif keratit§ 
+ 
+Kardiyak hastalıklar  
+Yaygın:   Nodal aritmi, bradikardi, taşikardi , hipertansiyon  
+Yaygın olmayan:   Miyokard enfarktüsü, miyokardiyal iskemi, a ritmi 
+Bilinmiyor:  Kardiyak arest, Torsade de pointes, ventrikül yetmezliği, 
+ventriküler hipokinezi, atriyal fibrilasyon  
+ 
+Vasküler hastalıklar  
+Yaygın olmayan:   Vazodilatasyon  
+Bilinmiyor:   M align hipert ansiyon, hipotansiyon, hemoraji , şok 
+ 
+ 
+10 
+ Solunum, göğüs bozuklukları ve mediastinal hastalıklar  
+Yaygın:   Apne+, öksürük+, laringospazm* 
+Yaygın olmayan:   Hipoksi+ 
+Bilinmiyor:  Solunum aresti, s olunum yetmezliği, s olunum distresi, 
+bronkospazm, hemoptizi  
+ 
+Gastrointestinal hastalıklar  
+Çok yaygın:   Bulantı+, kusma+ 
+Yaygın:   Tükürük salgılanmasında artış+ 
+Bilinmiyor:   Akut pankreatit, karın ağrısı  
+ 
+Hepato -bilier hastalıklar  
+Bilinmiyor:  Karaciğer yetmezliği, karaciğer nekrozu , hepatit, sitolitik 
+hepatit, kolestaz, sarılık, karaciğer fon ksiyonunda anormallik, 
+karaciğer hastalığı  
+ 
+Deri ve deri altı doku hastalıkları  
+Bilinmiyor:   Ürtiker, eritem  
+ 
+Kas-iskelet bozuklukları, bağ doku ve kemik hastalıkları  
+Yaygın olmayan:   Miyalji  
+Bilinmiyor:   Rabdomiyoliz   
+ 
+Genel bozukluklar ve uygulama bölgesine ilişkin hastalıklar  
+Bilinmiyor:   Malign hipertermi, a steni, halsizlik/yorgunluk 
+ 
+Araştırmalar  
+Yaygın:   Kreatinin fosfokinaz düzeylerinde yükselme, anormal EKG,  
+Bilinmiyor:  EKG’de ST -T değişiklikleri,  T dalgasının tersine dönmesi, 
+transaminazlarda artış ( Alanin  ve Aspartat aminotransferaz 
+yükselm eleri), kan bilirubin düzeylerinde artış, koagülasyon 
+testlerinde anormallik , amonyak düzeylerinde artış  
+ 
+Yaralanma ve zehirlenmeler§ 
+Bilinmiyo r: Postoperatif ajitasyon, baş dönmesi/ sersemlik hali, t aşiaritmi, 
+çarpıntı, yorgunluk, kazara maruziyet,  deride yanma hissi , ilaç 
+uygulama hatası  
+*   Desfluran ile indüksiyonda bildirilmiştir.  
++   Desfluran ile indüksiyon ve idamede bildirilmiştir. 
+§   H asta olmayan kişilerin kazayla maruz kalması sonucu görülmüştür. 
+11 
+  
+Şüpheli advers reaksiyonların raporlanması  
+ 
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir. (www.titck.gov.tr; e -posta: 
+tufam@titck.gov.tr; tel: 0 800 314 00 08; faks: 0 312 218 35 99)  
+ 
+4.9 Doz aşımı ve tedavisi  
+Doz aşımına bağlı belirtiler arasında , diğer uçucu  ajanlara benzer şekilde,  anestezinin 
+derinleşmesi, spontan soluyan hastalarda kardiyak ve/veya solunum depresyonu ve ventile 
+hastalarda hipotansiyon (son evrede hiperkapni ve hipoksi olabilen) şeklindedir. 
+Doz aşımı durumunda ya da doz aşımı olduğu düşünülen durumlarda şunlar yapılmalıdır:  
+1. Desfluran uygula ması  kesilmelidir.  
+2. Solunum yolu açık tutularak saf oksijenle asiste ya da kontrollü ventilasyona başlanmalıdır. 
+3. Hasta, hemodinamik açıdan desteklenerek, hemodinami yeterli düzeyde idame 
+ettirilmelidir.  
+ 
+5. FARMAKOLOJİK ÖZELLİKLER  
+ 
+5.1 Farmakodinamik özellikler  
+Farmakoterapötik gru p: Genel anestezikler, Halojenli hidrokarbonlar  
+ATC kodu: N01AB07 
+Desfluran, halojenize metileterler grubunun bir üyesi olup, inhalasyon yoluyla uygulanan bir 
+anesteziktir. Uygulanan dozuna bağlı olarak reversibl bir şekilde bilinç kaybı sağlar, ağrı hissini 
+yok eder, istemli motor aktiviteyi baskılar, otonom refleksleri azaltır ve solunum sistemiyle 
+kardiyovasküler sistemde sedasyona neden olur. Bu gruptan diğer anestezikler arasında florine 
+ek olarak klorin ile de halojenize olan enfluran ve bunun yapısal izomeri izofluran bulunur. 
+Desfluran ise yalnızca florinle holojenize olur.  
+Yapısından da öngörülebileceği üzere desfluranın 0,42 olan düşük kan/gaz partisyon katsayısı, 
+izofluran gibi diğer güçlü inhalasyon anesteziklerinkinden (i zofluranın ki 1,4’ tür) ve hatta 0 ,46 
+olan nitröz oksitinkinden düşüktür. Bu durum desfluranın anesteziden hızlı uyanma ile 
+karakterize bir ajana olan gereksinimi karşıladığına işaret eder. Bu nedenle de desfluran, hızlı 
+uyanmanın önemli bir özellik olduğu günübirlik cerrahideki anestezi iç in özellikle uygundur. 
+Yapılan hayvan çalışmaları desfluranın benzer kardiyorespiratuvar profile sahip i zoflurana 
+oranla daha hızlı bir anestezi indüksiyonu ve ayılma sağladığını göstermiştir. 
+Desfluran ile sağlanan anestezi sırasındaki EEG’lerde epileptojenik ya da diğer istenmeyen 
+etkiler görülmemiş ve eklenen ilaçlar da beklenmeyen ya da toksik EEG yanıtları 
+oluşturmamıştır.  
+Malign hipertermiye (MH) yatkın olarak yetiştirilen domuzlarda yapılan çalışmalar desfluranın 
+potansiyel bir MH tetikleyicisi olduğuna işaret etmektedir.  
+ 
+ 
+12 
+ 5.2 Farmakokinetik özellikler  
+Genel özellikler  
+ 
+Emilim 
+Fizikokimyasal profilinden öngörüldüğü üzere, insanlarda ve hayvanlarda yapılan 
+farmakokinetik çalışmaları, desfluranın vücuda diğer uçucu anestezik ajanlara kıyasla daha hızlı 
+girdiğini göstermekte ve anestezinin daha hızlı indüklendiğini düşündürmektedir. Desfluranın 
+kandaki (kan/gaz çözünürlüğü), vücut dokularındaki ve diğer ortamlardaki çözünürlüğü 
+düşüktür.  
+  
+Dağılım 
+Desfluranın kandaki ve diğer dokulardaki düşük çözünürlüğüne dayanılarak, inspire basınç ile 
+doku kısmi basıncı arasındaki dengelenmenin ve bununla ilişkili olarak desfluranın alımının ve eliminasyonunun hızla gerçekleşmesi beklenir. Desfluranın dağılımı v e boşaltımı, 5 
+kompartımandan oluşan bir mamiler model ile karakterizedir: Akciğerler, damardan zengin 
+organ grubu, kas, damardan zengin organ grubuna bitişik yağ ve periferik yağ. Genel olarak, en büyük oranda desfluran kas dokusu tarafından alınır.  
+ 
+Biyotransformasyon 
+Desfluran insanlarda minimal hepatik metabolizmaya veya biyotransformasyona uğrar (%0,02). 
+ 
+Eliminasyon  
+Desfluranın vücuttan boşaltımı da hızla gerçekleşmekte, bu da hızla toparlanmaya ve anestezi 
+derinliğinin ayarlanmasında esnekliğe olanak sağlamaktadır.  Desfluran akciğerler yoluyla elimine edilir. Desfluran yalnızca minimal düzeyde metabolizmaya uğrayara k, esas olarak 
+akciğerler yoluyla elimine edilir/atılır. Az miktarda bir kısmı deriden difüze olur, ama desfluranın perkütan kaybı alıma kıyasla küçüktür ve bu kayıp farmakokinetiği anlamlı derecede etkilememektedir.  
+ 
+Hastalardaki özellikler  
+Farmakolojik etki, inspre edilen desfluran konsantrasyonu ile orantılıdır. Başlıca advers etkiler 
+farmakolojik etkinin uzantılarıdır.  
+MAC yaş büyüdükçe azalmaktadır. Hipovolemik, hipotansif ve debilite hastalarda dozajda 
+azaltma yapılması tavsiye edilir  (Bkz. Bölüm 4.4).  
+ 
+5.3 Klinik öncesi güvenlilik verileri 
+Domuzlarda desfluran miyokardı ekzojen uygulanan epinefrine (adrenalin) duyarlı hale 
+getirmez.  
+Desfluran; seçilmiş hayvan modellerinde, i zofluranınkine benzer bir tarzda arteriol düzeyinde 
+koroner vazodilatasyon oluşturuyor görünmektedir. Koroner arter hastalığı oluşturulan bir 
+hayvan modelinde, uzun süreli cihaz takılmış bilinci yerinde köpeklerde, desfluranın, kanı 
+kollaterale bağımlı miyo karttan normalde perfüze olan alanlara yönlendirme (koroner çalma) 
+13 
+ şeklinde bir etkisi saptanmamıştır. Miyokard iskemisi, enfarktüs ve ölümü sonuç parametreleri 
+olarak değerlendiren bugüne kadar yapılmış olan klinik çalışmalar, SUPRANE  VOLATİL ’in 
+koroner arteriol dilatasyon özelliğinin, koroner arter hastalığı olan kişilerdeki "koroner çalma" 
+ya da miyokard iskemisi ile ilişkili olduğunu göstermemektedir.  
+ 
+Hayvanlarda (primatlar dahil) h afif ila orta anestezi yle sonuçlanan dozlar la yapılan  yayınlanmış  
+çalışmalar, hızlı beyin büyümesi veya sinaptogenez  döneminde  anestez ik ajanların 
+kullanımının, geliş mekte olan  beyinde uzamış bilişsel  eksikliklerle ilişkilendirilebilen  hücre 
+kaybına  yol açtığını  göstermektedir. Bu klinik olmayan bulguların klinik önemi 
+bilinmemektedir.   
+ 
+6. FARMASÖTİK ÖZELLİKLER  
+ 6.1 Yardımcı maddelerin listesi  
+Yardımcı madde bulunmamaktadır.  
+ 
+6.2 Geçimsizlikler  
+Bilinen bir geçimsizliği bulunmamaktadır.  
+ 6.3 Raf ömrü  
+36 ay.  6.4 Saklamaya yönelik özel tedbirler  
+30°C ’nin altında oda sıcaklığında saklanmalıdır. 
+Kapağı sıkıca kapalı olarak dikey pozisyonda saklanmalıdır. 
+ 
+6.5 Ambalajın niteliği ve içeriği  
+Valf-kapak sistemi takılmış, 240 mL desfluran içeren  içten epoksifenolik ile kaplı %99 ,7 saf 
+alüminyum şişe.  Kapak,  polietilen reçine veya etilen -propilen kopolimerden (EPDM) oluşan bir 
+contaya sahip kıvr ımlı valftir.  
+Ürün 1 veya 6 alüminyum șişe içeren ambalaj boyutlarıyla piyasaya sunulmaktadır. 
+ 6.6 Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler  
+Kullanıldıktan sonra kapağı kapatılmalıdır. SUPRANE  VOLATİL  yalnızca desfluran kullanımı için özel olarak tasarlanmış bir vaporizatör 
+kullanılarak genel anestezi uygulaması konusunda eğitim görmüş personel tarafından 
+uygulanmalıdır.  
+Kullanılmamış olan ürünler ya da atık materyaller “Tıbbi Atıkların Kontrolü Yönetmeliği” ve 
+“Ambalaj Atıklarının Kontrolü Yönetmeliği”ne uygun olarak imha edilmelidir.  
+ 
+14 
+ 7. RUHSAT SAHİBİ  
+Baxter Turkey Renal Hizmetler A.Ş. 
+Sarıyer/İstanbul  
+ 
+8. RUHSAT NUMARASI  
+2021/185  9. İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ  
+28.06.2021  10. KÜB’ÜN YENİLENME  TARİHİ  
+ 

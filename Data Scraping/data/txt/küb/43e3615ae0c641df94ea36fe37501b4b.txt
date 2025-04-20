@@ -1,0 +1,424 @@
+ 
+1 KISA ÜRÜN BİLGİSİ  
+ 
+1. BEŞERİ TIBBİ ÜRÜNÜN  ADI 
+ 
+MOLTEK FDG i.v enjeksiyonluk çözelti içeren flakon  
+Steril  
+ 
+2. KALİTATİF VE KANTİTATİF BİLEŞİM  
+Etkin madde:  
+Çözeltinin 1 mL’si  kalibrasyon tarih ve saatinde (t0 + 2 saat) 45 mCi (18F) 
+Florodeoksiglukoz (1650 MBq 18F) içerir.  
+ 
+(18F) Florodeoksiglukoz Verileri:  
+• Yapısal Formül: ([18F] Florodeoksiglukoz): C 6H11O5 18F 18 
+• Radyasyon emisyon: pozitron -emisyon, 249.8 keV ort, gama -emisyon 511 keV ort 
+• Harici emisyon:  gama -emisyon  
+• Sudaki maksimum menzil: 0.5  mm’dir.  
+• Radyolojik yarılanma ömrü: 109.8 dakika  
+• Maksimum etkin doz eşdeğeri (EDE): 0.11 rem/mCi (0.019  mSv/MBq)  
+ 
+Yardımcı maddeler:  
+%0.1 -0.5 h/h etanol  
+Yardımcı maddeler için 6.1’e bakınız.  
+ 
+ 
+3. FARMASÖTİK  FORM  
+ 
+Enjeksiyonluk çözelti  
+Berrak, renksiz veya hafif sarı renkli bir çözeltidir.  
+ 
+4. KLİNİK  ÖZELLİKLER  
+ 
+ 
+4.1. Endikasyonlar  
+ 
+Florodeoksiglukoz (18F) vücutta anormal glukoz  metabolizmasının pozitron emisyon 
+tomografi cihazı kullanılarak görüntülenmesi amacıyla aşağıdaki endikasyonlarda 
+kullanılır.  
+ 
+Onkoloji: Kanser olduğu doğrulanmış veya kanser şüphesi olan hastalarda; onkolojik 
+tanısal süreçte lezyonların benign/malign ayı rıcı tanısında, kanser evrelemesinde, 
+tedavi yanıtının takibinde ve yeniden evrelemede, reküren hastalığın erken dönemde 
+tespitinde kullanılması endikedir.   
+2 Kardiyoloji: Sol ventrikül  fonksiyonu bozulmuş koroner arter hastalarında 
+revaskülarizasyon cerrahisi öncesi miyokard canlılığını ve metabolizmasını belirlemek 
+amacıyla kullanılması endikedir.  
+ 
+ 
+Nöroloji: Cerrahi öncesi interiktal glukoz hipometabolizmasının gösterilmesi yoluyla 
+epileptojenik odakların gösterilmesinde ve Alzheimer tipi demansın diğer 
+demanslardan ayırıcı tanısında endikedir.  
+ 
+Enfeksiyon: Nedeni bilinmeyen ateşte ve enfeksiyon odaklarının tespitinde endikedir.  
+ 
+4.2. Pozoloji ve uygulama  şekli:  
+ 
+Pozoloji:  
+Yetişkinler için (70 kg) önerilen florodeoksiglukoz (18F) dozu intravenöz yolla 100 -400 
+MBq’dir (doz hastanın vücut ağırlığına ve kullanılacak pozitron emisyon tomografi cihazının 
+özellikleine göre ayarlanmalıdır)  
+ 
+18 yaşın altındaki hasta grubunda ürünün etkinliğinin ve güvenirliğinin değerlendirildiği 
+sadece birkaç çalışma mevcuttur. Bu nedenle ürün pediatrik onkoloji hastalarında dikkatli 
+kullanılmalıdır.  
+ 
+Çocuk ve adelösan  (ergenlik çağında olan) hastalar için aktivite vücut ağırlığına göre ve 
+yetişkin dozunun aşağıda verilen katsayılarla çarpımı ile belirlenir (Avrupa Nükleer Tıp 
+Derneği, Pediatri Çalışma Grubu EANM):  
+ 
+3 kg = 0.10  12 kg = 0.32  22kg = 0.50  32 kg = 0.62  42 kg = 0.78  52-54 kg = 0.90  
+4 kg = 0.14  14 kg = 0.36  24 kg = 0.53  34 kg = 0.64  44 kg = 0.80  56-58 kg = 0.92  
+6 kg = 0.19  16 kg = 0.40  26 kg = 0.56  36 kg = 0.66  46 kg = 0.82  60-62 kg = 0.96  
+8 kg = 0.23  18 kg = 0.44  28 kg = 0.58  38 kg = 0.68  48 kg = 0.85  64-66 kg = 0.98  
+10 kg = 0.27  20 kg = 0.46  30 kg = 0.60  40 kg = 0.70  50 kg = 0.88  68 kg = 0.99  
+ 
+Uygulama şekli:  
+MOLTEK FDG enjeksiyonluk çözelti ve PET tetkikinin uygulanması  
+− (18F)Florodeoksiglukoz’un  aktivitesi radyoizotop kalibratörü kullanılarak enjeksiyon 
+öncesi hemen  ölçülmelidir.  
+− Lokal ekstravazasyon kaynaklı ışınlamaya ve görüntüleme artifaktlarına mani olmak 
+için enjeksiyon intravenöz  yapılmalıdır.  
+− Emisyon taramaları genellikle (18F)florodeoksi glukoz enjeksiyonundan 45 ila 60 
+dakikada sonra başlar. Geri kalan aktivitenin uygun sayım istatistiği için yeterli olması 
+durumunda, (18F) florodeoksiglukoz PET görüntülemesi enjeksiyondan iki üç saat 
+sonra yapılabilir; böylelikle zemin aktivitesi  düşer.  
+− Gerekli durumlarda, tekrarlanan florodeoksiglukoz (18F) PET görüntülemesi kısa zaman 
+aralığıyla  tekrarlanabilir.   
+3 − MOLTEK FDG enjeksiyonluk çözelti hastalara son öğünden itibaren en az 4 saat sonra 
+uygulanmalıdır. Bu süre hücrelerin gluko z alınımının kısıtlı olduğu (saturasyon kinetiği) 
+ve ilacın aktivitesinin maksimum olduğu dönemdir. Bu süre zarfında hastalara su 
+kısıtlaması uygulanmamalıdır (glukoz içeren içecekler  hariç)  
+− Tarama kalitesini arttırmak ve mesane radyasyon maruziyetini azal tmak için hastaya 
+yeteri kadar sıvı laması ve PET taraması öncesi ve sonrası idrar yapması  önerilmelidir.  
+− Enjeksiyondan sonra 12 saat çocuklar ile yakın temastan kaçınılması tavsiye  edilir.  
+ 
+Özel popülasyonlara ilişkin ek bilgiler:  
+Böbrek/Karaciğer yetmezliği: Böbrek fonksiyonu azalmış hastalarda radyasyon 
+maruziyeti artmış olacağından tarama endikasyonu çok dikkatli konulmalıdır.  
+ 
+Pediyatrik popülasyon: Çocuklarda uygulanacak radyoaktivite miktarı vücut ağırlığına 
+göre hesaplanır.  
+ 
+Geriyatrik popülasyon: Özel bir uygulama yoktur.  
+ 
+4.3. Kontrendikasyonlar  
+ 
+Etkin madde veya yardımcı maddelerden herhangi birine aşırı duyarlılığı olan hastalarda 
+kontrendikedir.  
+Gebelik döneminde kullanılmamalıdır.  
+Kan glukoz  düzeyi kontrol altına alınamayan diyabet hastalarında kontrendikedir.  
+ 
+ 
+4.4. Özel kullanım uyarıları ve  önlemler  
+ 
+RADYOFARMASÖTİKLER SADECE NÜKLEER TIP UZMANLARI TARAFINDAN 
+NÜKLEER TIP MERKEZLERİNDE UYGULANMALIDIR.  
+ 
+PET tarama endikasyonu  
+Bütün hastalar için radyasyon maruziyeti mümkün olan en az radyasyon dozu ile alınabilecek 
+teşhis kalitesi açısından sorgulanmalıdır.  
+ 
+Böbrek fonksiyonu azalmış hastalarda radyasyon maruziyeti artmış olacağından tarama 
+endikasyonu  çok dikkatli konulmalıdır.  
+ 
+ 
+Onkoloji ve nöroloji  
+Görüntüleme ajanının kasta aşırı tutulumunu engellemek için tarama öncesi hasta ağır 
+egzersizden kaçınması hususunda uyarılmalıdır. Hasta enjeksiyondan tarama işlemine kadar ve 
+tarama işlemi ile görüntülerin elde edilmesine kadar geçen sürede istirahat halinde olmalıdır  
+(konuşmaksızın yatar  pozisyonda) .  Çocuklarda radyasyon dozu başına (MBq) efektif dozun yetişkinlerden daha yüksek olduğu 
+göz önünde bulundurulmalıdır (bakınız 5.4 bölüm, dozimetri)   
+4 Beyin glukoz metabolizması beyin aktivitesine bağlıdır. Bu nedenle nörolojik taramalar belirli 
+bir istirahat periyodundan sonra karanlık ve gürültüsüz bir ortamda gerçekleştirilmelidir.  
+Yüksek kan glukoz düzeyleri (özellikle 8 mmol/L v e üzeri) MOLTEK FDG enjeksiyonluk 
+çözeltinin hassasiyetinin azalmasına neden olacağı için kan glukoz düzeyleri tarama öncesi 
+kontrol edilmelidir. Benzer şekilde kan glukoz düzeyleri kontrol altında olmayan (glisemik 
+kontrolün sağlanamadığı) diyabetli hasta larda (18F) FDG -PET taramasından kaçınılmalıdır.  
+ 
+Kardiyoloji  
+Kalp kasının (miyokardın) glukoz alımı insulin aracılı olduğu için MOLTEK FDG 
+enjeksiyonluk çözelti uygulamasından 1 saat önce glukoz  yüklemesi (50 gr) tavsiye edilir. 
+Alternatif olarak gerekli olduğu durumlarda diyabetli hastalarda kan glukoz düzeyi insulin ve 
+glukoz infüzyonu kombinasyonu ile sabit hale getirilebilir.  
+ 
+ 
+FDG PET görüntülerinin yorumlanması  
+İnflamasyon ve/veya enfeksiyo n ile operasyon sonrası iyileşme dönemi (18F) FDG’nin 
+tutulumunu arttırabilir ve dolayısıyla yanlış pozitif sonuçlara yol açabilir.  
+Radyoterapiden sonra ilk 2 -4 ay içerisinde alınan yanlış pozitif veya yanlış negatif (18F) FDG - 
+PET sonuçları konusunda dikk atli olunmalıdır. Eğer hastanın klinik tablosu erken bir 
+(18F)FDG -PET taramasını gerektiriyorsa bu erken taramanın nedenleri detaylı bir şekilde 
+dökümante edilmelidir.  
+Yanlış negatif sonuçların önlenmesi açısından (18F) FDG -PET taraması için en uygun zaman  
+kemoterapinin sonlandırılmasından sonraki 4 -6 haftalık dönemdir. Erken bir (18F) FDG -PET 
+taraması için klinik bir endikasyon var ise bu erken taramanın nedeni detaylı bir şekilde 
+belgelendirilmelidir. Kemoterapi rejiminin 4 haftalık sikluslardan daha az o lduğu durumlarda 
+(18F) FDG -PET taraması yeni bir siklusa başlamadan hemen önce yapılmalıdır.  
+ 
+(18F) FDG beyin metastazlarının belirlenmesinde kullanılmaz.  
+Tavsiye edilen (18F)FDG -PET görüntülemelerinin tomografik görüntüleme yöntemleriyle (S, 
+ultrasonograf i, MRG gibi) birleştirilmesidir. Fonksiyonel (18F)FDG -PET görüntülemesinin 
+morfolojik görüntülemeye imkân veren sistemler ile birleştirilmesi (PET -CT gibi) hassasiyeti 
+ve seçiciliği arttırır. Bu nedenle pankreas, baş -boyun, lenf, akciğer kanserlerinde ve 
+tekrarlayan kolorektal kanserlerde bu kombine sistemler önerilmektedir.  
+ 
+Genel uyarılar  
+ 
+Radyofarmasötikler hem radyasyon güvenliği hem de farmasötik kalite gereklilikleri yerine 
+getirilecek şekilde hazırlanmalıdır.  
+ 
+Hastaları ve hastane personelini azami ölçüde korumak için MOLTEK FDG enjeksiyonluk 
+çözelti zırhlı kap içinde saklanmalı ve taşınmalıdır. Özellikle ilacın şişeden enjektöre alınması 
+ve enjeksiyon sırasında ß+ radyasyon ve anihilasyon foton etkilerinden kor unmak için uygun 
+zırhlama yapılması önerilir.  
+ 
+MOLTEK FDG az miktarda (%0.1 -0.5 h/h) etanol içerir.   
+5 4.5. Diğer tıbbi ürünler ile etkileşim ve diğer etkileşim  şekilleri  
+Kan glukoz düzeylerine etki eden bütün ilaçlar (kortikosteroidler, sodyum  valproat, 
+karbamezapin, fenitoin, fenobarbital ve katekolaminler gibi) taramanın hassasiyetini 
+etkileyebilir  
+ 
+Koloni stimüle edici faktörlerin (CSF) uygulanması, (18F)FDG’nin kemik iliği ve dalak 
+tutulumunu bir kaç gün arttırır. Bu durum PET taramasının p lanlanmasında göz önünde 
+bulundurulmalıdır. CSF tedavisi ile PET taraması arasında en az 5 günlük ara olması bu 
+girişimi azaltabilir.  
+ 
+Glukoz ve insulin verilmesi (18F)FDG’nin hücrelere girişini etkiler. Kan glukoz düzeylerinin 
+normalden yüksek ve plazma i nsülin düzeyinin düşük olduğu durumlarda (18F)FDG’nin 
+yüksek kan glukoz ve düşük plazma insülin düzeylerinde organ ve tümör dokusuna girişi 
+azalır.  
+ 
+4.6. Gebelik ve Laktasyon  
+Genel  tavsiye  
+Gebelik kategorisi: X  
+ 
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon)  
+Radyoaktif tıbbi ürünün verilmesinin zorunlu olduğu doğurganlık çağındaki kadınlarda 
+gebelik mutlaka sorgulanmalıdır. Adet periyodunda gecikme olan kadınlar aksi ispat 
+edilmedikçe  gebe  kabul  edilmelidir.  Gebelik  şüphesi  olan fakat  kanıtlanamamış  durumlarda  
+istenilen klinik bilgiye ulaşmak için doz gerekli olan radyasyon maruziyeti minimum olacak 
+şekilde ayarlanmalıdır. Alternatif teknikler arasında iyonize radyasyon yayan teknikler 
+olmamalıdır.  
+ 
+Gebelik dönemi  
+MOLTEK FDG gebel ik döneminde uygulandığı takdirde ciddi doğum kusurlarına yol 
+açmaktadır . 
+ 
+MOLTEK FDG gebelik döneminde kontrendikedir.  
+ 
+Laktasyon dönemi  
+(18F) Florodeoksiglukoz’un süte geçtiği bilinmektedir. 
+Laktasyon döneminde kontrendikedir.  
+Emziren   anneye   (18F)   (FDG)   uygulamadan   önce   görüntülemenin   emzirme   dönemi  
+sonuçlanana dek ertelenebileceği göz önünde bulundurulmalıdır. Emzirme döneminde 
+uygulama zaruri ise, emzirme işlemine en az 12 saat ara verilmeli ve sağılan süt atılmalıdır. 
+Uygun hallerde ann e MOLTEK FDG enjeksiyonluk çözelti uygulaması öncesi emzirebilir. Ek 
+olarak radyasyondan korunmasını sağlamak için enjeksiyonu takiben en az 12 saat annenin 
+bebek ile yakın temastan kaçınması önerilir.  
+ 
+Üreme yeteneliğ/Fertilite  
+MOLTEK FDG’nin  hayvanlarda ve insanlarda üreme fonksiyonları üzerine etkisi ile ilgili  veri 
+mevcut  değildir.   
+6 4.7. Araç ve makine kullanımı üzerindeki  etkiler  
+Araç ve makine kullanma yeteneği üzerindeki etkilere ilişkin herhangi bir araştırma 
+yapılmamıştır . 
+ 
+4.8. İstenmeyen  etkiler  
+Bu güne kadar (18F) FDG enjeksiyonu ile herhangi bir istenmeyen etki rapor edilmemiştir. 
+Ürün düşük miktarlarda etkin madde içerdiği için temel risk radyasyon maruziyetidir.  
+İyonize edici radyasyona maruz kalma kanser veya kalıtımsal bozukluklara neden olabilir 
+Nükleer tıpta kullanılan pek çok inceleme yöntemi için radyasyon düzeyleri (etkin doz) 20 
+mSv’nin altındadır. Bu nedenle bahsedilen bu etkilerin görülme ihtimali zayıftır. Tavsiye 
+edilen maksimum (18F) FDG dozunda ürünün efektif  dozu 7.6 mSv olarak saptanmıştır.  
+ 
+4.9. Doz aşımı ve  tedavisi  
+Teşhis amaçlı kullanılan dozlarda farmakolojik olarak doz aşımı söz konusu değildir.  
+Aşırı doz (18F)FDG uygulanması durumunda radyonüklidin atılımı zorlu diürez  ve sık idrara 
+çıkma ile mümkün olduğunca arttırılarak hastanın aldığı radyasyon dozu azaltılmalıdır.  
+ 
+ 
+5. FARMAKOLOJİK  ÖZELLİKLER  
+5.1. Farmakodinamik  özellikler  
+ 
+Farmakoteröpatik  grup:  Teşhis  radyofarmasötiği 
+ATC  kodu:  V09IX04.  
+ 
+Teşhis amaçlı kullanılan kimyasal konsantra syonlarda (18F) FDG’nin farmakodinamik  
+aktivitesi yoktur.  
+ 
+ 
+5.2. Farmakokinetik  özellikler  
+(18F) FDG bir glukoz türevidir ve enerji kaynağı olarak glukozun kullanıldığı bütün 
+hücrelerde  birikir. Benzer şekilde yüksek glukoz  kullanımının olduğu kanser hücrelerinde de 
+tutulur.  
+ 
+Emilim:  
+İntravenöz enjeksiyonu takiben vasküler kompartmanda (18F) FDG’nin farmakokinetik profili 
+eksponansiyeldir.  
+ 
+(18F) FDG’ nin hücre içine alınması kısmen insüline bağlı dokuya spesifik taşıyıcı si stemler 
+ile olur, bu nedenle besin alınımı, yemek yeme ve diyabet varlığından etkilenir. Diyabetli 
+hastalarda doku dağılımı ve glukoz metabolizmasındaki değişiklik nedeni ile azalmış bir (18F) 
+FDG tutulumu  gözlenir.  
+ 
+Dağılım:  
+Dağılım zamanı 1 dakikadır. (18F)FDG sağlıklı bireylerde başta beyin (enjeksiyondan yaklaşık 
+80-100 dak. sonra enjekte edilen aktivitenin %7’si) ve kalp (enjeksiyondan 40 dak. sonra 
+aktivitenin %3’ü), daha az derecede de akciğer (%0.9 -2.4) ve karaciğer olmak üzere oldukça 
+geniş bir dok u dağılımı gösterir. Renal parankima bağlanması zayıftır, ancak (18F)FDG’nin  
+renal atılımı dolayısıyla, tüm üriner sistem, özellikle de mesane belirgin aktivite gösterir. 
+(18F)FDG düşük miktarlarda olmakla beraber oküler kas, farenks ve bağırsak tarafından  da  
+7 tutulur. Tarama sırasında efor harcanması etkin maddenin kas tutulumunu arttırır.  
+ 
+Biyotransformasyon:  
+(18F) FDG hücre membranlarından glukoza benzer mekanizma ile alınır, fakat hücrede sadece 
+glikolizin ilk basamağına girerek tümörlü hücrede tutulan florodeoksiglukoz (18F) -6-fosfat 
+oluşturur ve daha ileri yıkım (metabolizma) basamakları gerçekleşmez. Hücre içi fosfatazlar 
+ile defosforilasyon yavaş olduğundan (18F) Florodeoksiglukoz -6-fosfat birkaç saat boyunca 
+doku içerisinde kalır (tutulum mekanizm ası). 
+ 
+Eliminasyon:  
+Eliminasyon zamanı yaklaşık 12 dakikadır. (18F) FDG’nin atılımı temel olarak böbrekler ile 
+olur, enjeksiyonu takiben 2 saat içerisinde aktivitenin %20’si idrarla atılır.  
+ 
+Doğrusallık/Doğrusal olmayan durum:  
+(18F) FDG’nin tanı amaçlı kul lanılması nedeni ile ürene ait tekrarlayan doz veya artan doz 
+farmakokinetik çalışması mevcut değildir.  
+ 
+5.3       Klinik öncesi güvenlik verileri  
+Klinik öncesi akut toksisite çalışmalarında köpeklerde insan dozunun 50 katı ve farelerde 
+insan dozunun 100 katı dozlarda hiçbir toksik etkiye rastlanmamıştır.  
+Mutajenite, karsinojenite, üreme toksisitesinin değerlendirildiği kronik toksisite çalışmaları 
+ürünün klinik kullanım amacı nedeniyle gerçekleştirilmemiştir (genellikle tek doz ng veya µg 
+düzeylerinde int ravenöz enjeksiyon).  
+ 
+6. FARMASÖTİK  ÖZELLİKLER  
+6.1. Yardımcı maddelerin  listesi  
+Etanol 
+Enjeksiyonluk su.  
+ 
+6.2. Geçimsizlikler  
+Bu tıbbi ürün, 6.6’da belirtilenler dışında diğer tıbbi ürünlerle KARIŞTIRILMAMALIDIR.  
+ 
+6.3. Raf ömrü  
+Üretimden sonra 12 saat.  
+Ürünün raf ömrü gün ve saat olarak dış ambalaj etiketinde ve ürün etiketinde belirtilmiştir.  
+ 
+6.4. Saklamaya yönelik özel  uyarılar  
+Ürün kendi orijinal paketinde 25°C’nin altındaki oda sıcaklığında saklanmalıdır. Ürün 
+radyoaktif ürünler ile ilgili ulusal mevzuat doğrultusunda saklanmalıdır.  
+ 
+6.5. Ambalaj niteliği ve  içeriği  
+Çok dozluk, 10 mL Tip I (Avrupa Farmakopesi) renksiz, alüminyum halka ile kapatılmış, gri 
+butil kauçuk kapaklı cam şişe.  
+Bir şişe kalibrasyon zamanında 1650 MBq/mL etkin konsantrasyonda maksimum 10 mL  
+çözelti içerir.   
+8 6.6. Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel  önlemler  
+MOLTEK FDG enjeksiyonluk çözelti çok dozluk şişelerde dağıtılır.  
+MOLTEK FDG enjeksiyonluk çözelti paketi kullanımdan önce kontrol edilmeli ve 
+radyoizotop kalibratörü kullanılarak aktivite ölçülmelidir.  
+Ürün şişeden aseptik koşullarda alınmalıdır. Şişeler kapak dezenfeksiyonu yapılmadan 
+AÇILMAMALI; çözelti kauçuk kapaktan uygun zırhlamanın yapıldığı steril tek kullanımlık 
+uygun enjektör ile alınmalıd ır. 
+ 
+Çözelti kullanım öncesi renk ve partiküler madde açısından görsel olarak incelenmelidir. 
+Sadece berrak ve partikül içermeyen çözeltiler kullanılmalıdır.  
+ 
+MOLTEK FDG gerekli olduğu durumlarda enjeksiyonluk sodyum klorür (%0.9) çözeltisi ile 
+dilüe edilebilir.  
+ 
+Radyofarmasötiklerin uygulanması harici radyasyon ya da idrar, kan veya diğer yollar ile 
+diğer insanlar için kontaminasyon riski  oluşturur.  
+Kullanılmamış olan ürünler ya da atık materyaller Türkiye Atom Enerjisi Kurumu Mevzuatı 
+doğrultusunda v e “Ambalaj ve Ambalaj Atıklarının Kontrolü Yönetmeliği ’ne uygun olarak 
+imha edilmelidir.  
+ 
+ 
+7. RUHSAT  SAHİBİ  
+MOLTEK Sağlık Hizmetleri Üretim ve Pazarlama AŞ  
+Gebze Organize Sanayi Bölgesi (GOSB) Sahabettin Bilgisu cad. No: 611/1 
+41470 Gebze, Kocaeli  
+ 
+8. RUHSAT  NUMARASI  
+2014/346  
+ 
+ 
+9. İLK RUHSAT TARİHİ/RUHSAT YENİLEME  TARİHİ  
+İlk ruhsat tarihi: 25.09.2009 
+Ruhsat yenileme tarihi:  22.04.2014  
+ 
+ 
+10. KÜB’ÜN YENİLENME  TARİHİ   
+9 11. DOZİMETRİ  
+ICRP 80 Yayınına göre hesaplanmış radyasyon dozimetrisi  
+ 
+Uygulanan aktivite ünitesi başlına absorbe edilen doz (mGy/MBq)  
+Organ  Yetişkin  15 yaş  10 yaş  5 yaş  1 yaş  
+Böbrek üstü bezi  0.012  0.015  0.024  0.038  0.072  
+Mesane duvarı  0.16 0.21 0.28 0.32 0.59 
+Kemik yüzeyi  0.011  0.014  0.022  0.035  0.066  
+Beyin  0.028  0.028  0.030  0.034  0.048  
+Göğüs  0.0086  0.011  0.018  0.029  0.056  
+Safra yolu  0.012  0.015  0.023  0.035  0.066  
+Bağırsak duvarı  0.011  0.014  0.022  0.036  0.068  
+İnce bağırsak  0.013  0.017  0.027  0.041  0.077  
+Kolon  0.013  0.017  0.027  0.040  0.074  
+Üst kısım  0.012  0.016  0.025  0.039  0.072  
+Alt kısım  0.015  0.019  0.029  0.042  0.076  
+Kalp  0.062  0.081  0.12 0.20 0.35 
+Böbrekler  0.021  0.025  0.036  0.054  0.096  
+Karaciğer  0.011  0.014  0.022  0.037  0.070  
+Akciğerler  0.010  0.014  0.021  0.034  0.065  
+Kas 0.011  0.014  0.021  0.034  0.065  
+Yemek borusu  0.011  0.015  0.022  0.035  0.068  
+Overler  0.015  0.020  0.030  0.044  0.082  
+Pankreas  0.012  0.016  0.025  0.040  0.076  
+Kemik iliği  0.011  0.014  0.022  0.032  0.061  
+Cilt 0.0080  0.010  0.016  0.027  0.052  
+Dalak  0.011  0.014  0.022  0.036  0.069  
+Testisler  0.012  0.016  0.026  0.038  0.073  
+Timus  0.011  0.015  0.022  0.035  0.068  
+Tiroid  0.010  0.013  0.021  0.035  0.068  
+Uterus  0.021  0.026  0.039  0.055  0.10 
+Diğer organlar  0.011  0.014  0.022  0.034  0.063  
+Etkin doz       
+(mSv/MBq)  0.019  0.025  0.036  0.050  0.095  
+ 
+ 
+ 
+400 MBq  aktiviteli MOLTEK FDG enjeksiyonluk çözelti için etkin doz 7.6 mSv 
+civarındadır (70 kg bir kişi için).  
+400 MBq aktivite için, kritik organların aldığı radyasyon dozu mesane kalp ve beyin için 
+sırasıyla: 64 mGy, 25 mGy ve 11 mGy . 
+ 
+   
+10  
+12. RADYOFARMASÖTİKLERİN HAZIRLANMASINA YÖNELİK TALİMATLAR  
+ 
+MOLTEK FDG hastaya uygulamaya hazır formda üretilmektedir. Çözelti kurşun  zırh 
+içerisinde çok dozluk 10 ml, steril tip I cam şişede sunulur. İşleme başlamadan önce şişe 
+çatlak/kırık açısından görsel o larak kontrol edilmeli ve radyoizotop kalibratörü kullanılarak 
+aktivite ölçülmelidir.  
+ 
+Çözelti kullanım öncesi renk ve partiküler madde açısından görsel olarak incelenmelidir. 
+Sadece berrak ve partikül içermeyen çözeltiler kullanılmalıdır.  
+ 
+Ürün şişeden as eptik koşullarda alınmalıdır. Şişeler kapak dezenfeksiyonu yapılmadan 
+AÇILMAMALI; çözelti kauçuk kapaktan uygun zırhlamanın yapıldığı steril tek kullanımlık 
+uygun enjektör ile alınmalıdır.  
+ 
+Uygulama yerinde lokal iritasyondan, görüntüleme hatalarından kaçı nmak için enjeksiyonda 
+ilacın damar dışına kaçmamasına çok dikkat edilmelidir.  
+ 
+Ürünün kullanım izni, kalibrasyon saati esas alınarak verilmelidir. Kalibrasyon saatinden 
+önce hastaya uygulanmamalıdır.  
+ 
+MOLTEK FDG hasta ve hastane personeli için yeterli kor umayı sağlayacak şekilde kurşun 
+veya tungsten zırh içinde saklanmalı ve kullanılmalıdır. Özellikle, şişeden ilaç çekilirken ve 
+enjeksiyon yapılırken, kişinin pozitron ve annihilasyon fotonlarının yaydığı radyasyondan 
+korunmak için kurşun zırh arkasında çal ışması ve radyasyon güvenliğini sağlayacak yapıda 
+zırhlı bir enjektör kullanması önerilir.  
+ 
+Radyofarmasötiklerin kabulü, saklanması, nakli ve imhası özel mevzuata uygun olmalıdır.  

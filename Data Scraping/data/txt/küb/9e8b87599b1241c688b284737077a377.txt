@@ -1,0 +1,438 @@
+ KISA Ü RÜN BİLGİSİ  
+ 
+Bu ilaç ek izlemeye tabidir. Bu üçgen yeni güvenlilik bilgisinin hızlı olarak belirlenmesini 
+sağlayacaktır. Sağlık mesleği mensuplarının şüpheli advers reaksiyonları TÜFAM’a bildirmeleri 
+beklenmektedir. Bakınız Bölüm 4.8 Advers reaksiyonlar nasıl raporlanır?  
+ 
+1. BEŞ ERİ TIBB İ ÜRÜNÜN ADI  
+Emfer 100 mg/ 5 mL IV Enjeksiyonluk/ İnfüzyonluk Çözelti Hazırlamak İçin Konsantre  
+2. KAL İTAT İF VE KANT İTAT İF BİLEŞİ M 
+Etkin madde:  
+Ferrik hidroksit sükroz kompleksi  2700 mg / 5 m L 
+(100 mg elementer demir'e eşdeğer)  
+Yardımcı maddeler:  
+Sodyum hidroksit.......k.m. 
+Yardımcı maddeler için 6.1'e bakınız. 
+3. FARMASÖT İK FORM  
+Enjeksiyon ve infüzyon için çözelti  
+Koyu kahverengi, saydam olmayan aköz çözelti. pH'ı 10.5 -11.0 arasındadır ve osmolaritesi 1250 
+mosmol/l'dir.  
+4. KLİNİK ÖZELLİ KLER  
+4.1. Terapötik endikasyonlar  
+- Gastrointestinal sistemden demir emiliminin bozulduğu durumlarda gelişen demir eksikliği   
+ anemisinde,  
+- Aktif gastrointestinal kanaması olan hastalarda gelişen demir eksikliği anemisinde,  
+- Total veya subtotal gastrektomili hastalarda gelişen demir eksikliği anemisinde,  
+- Oral demir tedavisini tolere edemeyen demir eksikliği anemisi olgularında, 
+- Oral demir tedavisine dirençli demir eksikliği anemisinde,  
+- Klinik olarak hızlı bir şekilde düzeltilm esi gereken demir eksikliği anemisi varlığında,  
+- Eritropoetin (EPO) tedavisi alan diyalize bağımlı olan veya olmayan kronik böbrek yetmezliği 
+hastalarında demir eksikliği varlığında endikedir.  
+ 
+2/12  
+  EMFER  ilk trimesterde önerilmemelidir. II. ve III. trimesterde ise hekimin zorunlu bulduğu 
+hallerde kullanılmalıdır.  
+EMFER, gerekli ve uygun kan tetkikleri (hematokrit, hemoglobin, ferritin düzeyi, eritrosit sayısı 
+tayini gibi) yapıldıktan sonra uygulanmalıdır.  
+4.2. Pozoloji ve uygulama ş ekli  
+EMFER  uygulaması sırasında ve her  bir uyg ulamayı takiben, aşırı duyarlılık reaksiyonlarının 
+semptomları ve belirtileri açısından hastalar dikkatlice takip edilmelidir.   
+  
+EMFER  sadece anafilaktik reaksiyonları acilen değerlendirme ve yö netme eğitimi almış  personelin 
+varlığında, tüm resüsitasyon araçlarının sağlandığı yerlerde uygulanmalıdır. Her EMFER  
+enjeksiyonunu takiben hasta en az 30 dakika boyunca advers etkiler açısından g özlenmelidir (bkz. 
+bölüm 4.4) .  
+Pozoloji:  
+Kümülatif EMFER  dozu her hasta içi n özel hesaplanmalı ve doz aşılmamalıdır .  
+  
+Doz Hesaplanması   
+Kümülatif EMFER  dozu h emoglobin  (Hb) seviyesi ve vü cut ağırlığına  (VA)  göre hesaplanan 
+toplam demir eksiği (mg) kadardır. EMFER  dozu her hasta için ayrı hesaplanan total  demir 
+eksik liğinin aşağıdaki Ganzoni formülüne göre hesaplanması gereklidir, örneğin:   
+  
+Toplam Demir Eksiği (mg) = VA (kg) X (hedef Hb – mevcut Hb) (g/d L) X 2,4* + Depo demiri 
+(mg)  
+  
+35 kilo altı (VA):   Hedef Hb= 13g/d L ve depo demiri= 15mg/kg  (VA)   
+35 kilo ve üs tü (VA):  Hedef Hb=  15 g/d L ve depo demiri = 500mg   
+  
+*Faktör 2,4 = 0,0034 (Hb nin demir içeriği=%0,34)  X 0,07 (kan hacmi= Vücut ağırlığının %7 si) 
+x 1000 ( gramın miligram cinsine çevirisi) x 10.  
+  
+Toplam uygulanacak  EMFER  miktarı (m L) =  Toplam demir açığı  [mg] /  20 mg demi r /mL 
+  
+Hedef Hb,  Mevcut Hb ve vücut ağırlığına göre verilecek EMFER  (mL ) miktarı *  
+  
+ VA  Toplam uygulanacak EMFER  miktarı (20 mg demir / mL )  
+Hb 6,0 g/d   Hb 7,5 g/dL   Hb 9,0 g/dL   Hb 10,5 g/dL  
+30 kg   47,5 m L  42,5 mL    37,5 mL    32,5 m L  
+35 kg  62,5 mL   57,5 mL   50 mL    45 mL    
+40 kg   67,5 mL    60 mL    55 m L  47,5 mL    
+45 kg   75 mL    65 mL    57,5 mL    50 mL    
+50 kg   80 mL    70 mL    60 mL    52,5 m L   3/12  
+  55 kg   85 mL    75 mL    65 mL    55 mL    
+60 kg   90 mL   80 mL    67,5 mL    57,5 mL    
+65 kg   95 mL    82,5 mL    72,5 m L   60 m L   
+70 kg   100 m L  87,5 mL    75 m L  62,5 mL    
+75 kg   105 mL    92,5 mL    80 mL    65 mL    
+80 kg   112,5 mL    97,5 mL    82,5 mL    67,5 mL   
+85 kg   117,5 mL    102,5 mL    85 mL    70 mL    
+90 kg   122,5 mL    107,5 mL    90 mL    72,5 mL    
+  
+*35 kilo altı (VA)       :Hedef Hb=13g /dL  
+ 35 kilo ve üstü (VA)  :Hedef Hb= 15 g /dL  
+  
+Hb (mM), Hb (g/dL ) çevirmek için 1,6 ile çarpılmalıdır.  
+Eğer gerekli doz bir seferde verilecek maksimum dozu aşar ise dozlar bölünerek verilmelidir.  
+Pozoloji  
+Erişkinlerde;  
+5-10 mL EMFER (100- 200mg Demir) haftada 1 ila 3 kez şeklinde uygulanır. Hemodiyaliz 
+hastalarında toplam doz, 10 dozda uygulanacak şekilde 1000 mg'dır. Gerektiğinde önerilen doz 
+tekrarlanabilir. Doz uygulama sıklığı haftada 3 defadan fazla olmamalıdır.  Uygulama süresince 
+oral demir alımı kesilmelidir.  
+Uygulama ş ekli:  
+EMFER, sadece intravenöz yoldan uygulanması gereken bir üründür. Uygulama yavaş intravenöz 
+enjeksiyon, intravenöz damla infüzyon veya diyaliz makinasının venöz yolu kullanılarak 
+yapılabilir.   
+ 
+İntravenöz damla infüzyon    
+EMFER  sadece %0,9’luk Serum Fizyolojik (NaCl) ile dilue edilmelidir. İ nfüzyondan hemen önce 
+seyreltme yapılmalı ve çözelti aşağıdaki gibi verilmelidir:  
+  
+EMFER  dozu  (mg 
+demir)  EMFER  dozu  (ml 
+EMFER )  Maksimum dilue  
+edilebilecek steril  %0,9  
+NaCl çözelti hacmi  Minimum  
+İnfüzyon Zamanı  
+50 mg  2,5 mL   50 m L  8 dakika  
+100 mg  5 mL   100 mL  15 dakika  
+200 mg  10 mL   200 mL   30 dakika  4/12  
+    
+Stabiliteyle ilgili nedenlerle, EMFER  daha düşük konsantrasyonda seyreltilmemelidir.  
+ 
+ 
+İntravenöz enjeksiyon:   
+EMFER yavaş enj eksiyon olarak yapılabilir. 1 mL  dilüe edilmemiş EMFER 1 da kikalık sürede 
+verilebilir (5 mL  EMFER en az 5 dakikalık bir sürede verilmelidir.) Bir seferde 10 mL’den (200 
+mg demir) fazla enjeksiyon yapılmamalıdır.  
+ 
+Diyaliz makinasının venöz yoluna enjeksiyon    
+EMFER tıpkı intavenöz enjeksiyonda olduğu gibi hemodiyaliz sırasında diyaliz makinasının venöz 
+ucundan verilebilir.   
+ 
+Özel popülasyonlara ili şkin ek bilgiler:  
+Böbrek / karaci ğer yetmezli ği: Böbrek ve karaciğer yetmezliği olanlarda doz ayarlamasına gerek 
+yoktur. Karaciğer fonksiyon bozukluğu olan hastalar için bölüm 4.4’e bakınız.  
+Geriyatrik popülasyon:  Yaşlı hastalarda doz ayarlamasına gerek yoktur.  
+Pediyatrik popülasyon: EMFER’in çocuklard a kullanımı yeterince araştırılmamıştır ve bu nedenle 
+EMFER'in çocuklarda kullanılması önerilmez.  
+4.3. Kontrendikasyonlar  
+EMFER kullanımı; 
+- Etkin maddeye, EMFER’e ya da 6.1 bölümünde listelenmiş herhangi bir yardımcı maddeye 
+aşırı duyarlılık  durumlarında  
+- Diğer parenteral demir ilaçlarına karşı bilinen aşırı duyarlılık  durumlarında  
+- Demir yüklenmesinin olduğu ya da demir kullanımı azalmasının söz konusu olduğu 
+durumlarda  
+- Demir eksikliğine bağlı olmayan anemilerde  
+ 
+4.4. Özel kullanım uyarıları ve önlemleri  
+Parenteral olarak uygulanan demir ilaçları, ciddi ve potansiyel fatal anafilaktik/anafilaktoid 
+reaksiyonları içeren aşırı duyarlılık reaksiyonlarına neden olabilir. Parenteral demir 
+komplekslerinin önceden sorunsuz seyreden dozlarından sonra da aşırı duyar lılık reaksiyonları 
+bildirilmiştir (miyokard enfarktüsüyle sonuçlanabilen akut alerjik koroner arteriyospazm bkz. 
+Bölüm 4.8). Daha önce ferrik glukonat veya demir dekstrana karşı hipersensivite hikayesi olan 
+hastalarda gerçekleştirilen pek çok çalışmada EMFER’in iyi tolere edildiği görülmüştür. Diğer 
+parenteral demir ilaçlarına karşı bilinen ciddi aşırı duyarlılık için bölüm 4.3'e bakınız.   
+Şiddetli astım, egzema veya diğer atopik alerji öyküsü ile ilaç allerjisi olduğu bilinen hastalarda 
+risk artmaktadır.  İmmun sistem hastalıkları ya da enfeksiyon durumlarında (örn. sistemik lupus 5/12  
+  eritematozus, romatoid artrit) parenteral demir komplekslerine karşı aşırı duyarlılık 
+reaksiyonlarında da artış olmaktadır. 
+EMFER  sadece anafilaktik reaksiyonları acilen değerlen dirme ve yönetme eğitimi almış 
+personelin varlığında, tüm resüsitasyon araçlarının sağlandığı yerlerde uygulanmalıdır. Her 
+EMFER enjeksiyonunu takiben hasta en az 30 dakika boyunca advers etkiler  açısından 
+gözlemlenmelidir. Uygulama esnasında aşırı duyarlılık reaksiyonları veya intolerans belirtileri 
+meydana gelirse tedavi hemen durdurulmalıdır. Akut anafilaktik/anafilaktoid reaksiyonları 
+yönetmek için, kalp -solunum  resüsitasyon araçları ve 1:1.000 enjektabl adrenalin çözeltisini de 
+içeren malzemeler hazır bulundurulmalıdır. Gerekli olduğu durumlarda, antihistaminikler ve/veya 
+kortikosteroidler ek tedavi olarak verilebilir.  
+Karaciğer yetmezliği olanlarda parenteral demir risk/yarar değerlendirilmesi yapılarak verilmelidir. 
+Aşırı demir yüklenmesinin tetikleyi ci faktör olabileceği düşünülen karaciğer yetmezliği 
+hastalarında, özellikle porfiria kutena tarda, parenteral demir uygulamasından kaçınılmalıdır. 
+Demir aşırı yüklenmesinden kaçınmak için dikkatli monitorizasyon önerilmektedir.  
+ 
+Akut veya kronik enfeksiyon durumlarında parenteral demir tedavisi dikkatli uygulanmalıdır. 
+Bakteriyemisi olan hastalarda EMFER  tedavisinin durdurulması önerilmektedir. Kronik 
+enfeksiyonu olanlarda risk / yarar değerlendirilmesi yapılmalıdır.  
+ 
+ 
+EMFER uygulanırken paravenöz sızıntıdan kaçınılmalıdır  çünkü EMFER  enjeksiyon bölgesinde 
+sızıntı, ağrı, enflamasyon ve ciltte kahverengi renk değişimine neden olur.  
+Çocuklarda demir içeren ürünlerin yanlışlıkla alı nması ölümcül zehirlenmeye yol açabilir. Çocukların 
+erişemeyeceği yerlerde saklayınız.  
+ 
+EMFER, her bir dozunda 1 mmol (23 mg)'den daha az sodyum ihtiva  eder. Bu dozda, sodyuma 
+bağlı herhangi bir yan etki beklenmemektedir.  
+4.5. Diğer tıbbi ürünler ile etkileş imler ve di ğer etkileş im şekilleri  
+Oral yoldan alınan demirin emilimini azaltabileceği için bütün parenteral demir tedavilerinde 
+olduğu gibi EMFER oral demir preparatları ile birlikte kullanılmamalıdır. Oral demir tedavisi son 
+EMFER dozundan en az 5 gün sonra başlanmalıdır. 
+ 
+4.6. Gebelik ve lakt asyon  
+Genel tavsiye  
+Gebelik kategorisi  B'dir. 
+• Bu gebelik kategorisine rağmen hekim, gebenin ilacı kullanıp kullanmaması konusunda nihai 
+kararını; gebelik haftasına, gebenin var olan/tespit edilen hastalığına ve diğer özelliklerine göre 
+ayrıntılı yarar -risk değerlendirmesi yaparak vermelidir. 
+• Risk kategorileri ilacın gebelikteki potansiyel riski konusunda sağlık personeline yardımcı 
+olmakla birlikte, hekimin değerlendirmesi esastır.  6/12  
+  Çocuk do ğurma potansiyeli bulunan kadınlar / Doğum kontrolü (kontrasepsiyon)  
+EMFER , klinik çalışmalarda doğum kontrol önlemleri kullanılarak çocuk doğurma potansiyeli olan 
+kadınlarda yaygın olarak kullanılmaktadır.  
+ 
+ 
+Gebelik dönemi  
+Birinci trimesterde demir sükroz kullanımı ile ilgili veri yoktur. 2. ve 3. trimesterde kullanım ile 
+ilgili verilerde (303 gebeye ait veri) anne veya yeni doğanda hiçbir güvenlilik problemi 
+görülmemiştir.   
+ 
+EMFER’in gebe kadınlarda kullanımı ile ilgili ye terli ve iyi kontrol edilmiş çalışma 
+bulunmamaktadır. Bu nedenle gebelik sırasında kullanılmadan önce, dikkatli bir yarar/risk 
+değerlendirmesi yapılmalı ve açık bir biçimde gerekli değilse gebelik sırasında EMFER 
+kullanılmamalıdır.  (bkz. Bölüm 4.4.)  
+Hamileliğin ilk trimeste rinde ortaya çıkan demir eksikliği anemisi, birçok vakada oral demir ile 
+tedavi edilebilir. EMFER’in fetüs ve anne için  olan potansiyel riskine karşılık yarar yönü ağır 
+bastığı değerlendirilirse, tedavi ikinci ya da üçüncü trimester  ile sınırlandırılmalıdır.  
+Parenteral demir ürünlerinin uygulanmasını takiben fetal bradikardi oluşabilir. Genellikle geçicidir 
+ve annede aşırı duyarlılık reaksiyonunun bir sonucudur. Doğmamış bebek, parenteral demir 
+ürünlerinin hamile kadınlara intravenöz  uygulanması sırasında dikkatle izlenmelidir.  
+  
+Hayvanlar üzerinde yapılan çalışmalar, gebelik / embriyonal / fetal gelişim / doğum ya da doğum 
+sonrası gelişim ile ilgili olarak doğrudan ya da dolaylı zararlı etkiler olduğunu göstermemektedir 
+(bkz. bölüm 5.3).  
+ 
+Laktasyon dönemi  
+İntravenöz demir sükroz tedavisi sonrası demirin anne sütüne geçmesi ile ilgili sınırlı bilgi 
+mevcuttur. Bir çalışmada süt veren 10 sağlıklı demir eksikliği olan anne 100 mg demir sükroz 
+almıştır. Tedaviden 4 gün sonra sütte herhan gi bir demir artışı olmamış ve kontrol grubu ile fark 
+bulunmamıştır (n=5). EMFER kullanımında fetüs veya yenidoğana demir derivesinin maruziyeti 
+dışlanamayacağı için risk fayda değerlendirilmesi yapılmalıdır.   
+  
+Preklinik veriler anne sütü alan bebek üzer inde direk veya indirek hehangi bir zararlı etki 
+göstermemiştir. Süt veren farelerde Fe59 ile işaretli demir sükroz verilmesi sonrası düşük 
+miktarlarda süte ve sperme geçtiği gözlendi. Metabolize olmamış demir sükrozun anne sütüne 
+geçmesi beklenmemektedir.   7/12  
+   
+Üreme yeteneği / Fertilite  
+ 
+Demir sükroz tedavisinin farelerde çiftleşme performansı ve fertilite üzerinde bir etkisi 
+gözlemlenmemiştir.   
+4.7. Araç ve makine kullanımı üzerindeki etkiler 
+EMFER kullanımından sonra baş dönmesi, konfüzyon ya da s ersemlik gelişebileceğinden, bu 
+semptomlar geçinceye kadar hastalar araç veya makine kullanmamalıdır. 
+4.8. İstenmeyen etkiler  
+EMFER ile yapılmış klinik çalışmalarda en sık karşılaşılan advers reaksiyonlar her 100 kişiden 
+4,5’inde görülen tat alma bozukluğudur. Klinik çalışmalarda EMFER ile ilgili e n ciddi advers olay 
+ise her 100 hastanın 0,25’inde görülen hipersensivite reaksiyonu olmuştur. Anafilaktoid / 
+anafilaktik reaksiyo nlar sadece pazarlama sonrası or tamda bildirilmiştir ( seyrek olarak  tahmin 
+edilmektedir) ; ölümler rapor edilmiştir  (bkz. Bölüm 4.4) .  
+  
+Klinik araştırmalar sırasında EMFER kullanan 4064 hasta ve pazara verildikten sonra kulla nılan  
+hastalarda r aporlanan adve rs olay lar aşağıda belirtilmiştir.   
+ 
+Sıklıklar şu şekilde tanımlanır: çok yaygın (≥ 1/10); yaygın (≥ 1/100 ila < 1/10); yaygın olmayan 
+(≥1/1.000 ila < 1/100); seyrek (≥ 1/10.000 ila < 1/1.000); çok seyrek (< 1/10.000), bilinmiyor 
+(eldeki verilerden hareketle tahmin edilemiyor).  
+Bağışıklık sistemi hastalıkları  
+Yaygın olmayan: Hipersensiti vite  
+Bilinmiyor1): Anaflaktoid/anafilaktik reaksiyonlar, anjioödem  
+ 
+ 
+Sinir sistemi hastalıkları  
+Yaygın: Disguzi  
+Yaygın olmayan: Baş ağrısı, sersemlik hissi, hipoestezi, parestezi  
+Seyrek: Bayılma, uyku hali  
+Bilinmiyor1): Tremor, konsantrasyon kaybı, konsantrasyonun baskılanması, konfüzyon durumu, 
+anksiyete  
+ 
+Kardiyak hastalıklar  
+Seyrek: Çarpıntı  
+Bilinmiyor1): Taşikardi, bradikardi, Kounis sendromu  
+ 
+Vasküler hastalıkları  
+Yaygın: Hipotansiyon, hipertansiyon  
+Yaygın olmayan: Yüzde kızarma, flebit  
+Bilinmiyor1): Dolaşım kollapsı, tromboflebit  
+ 
+Solunum, göğüs bozuklukları ve mediastinal hastalıkları  8/12  
+  Yaygın olmayan: Dispne  
+Bilinmiyor1): Bronkospazm  
+ 
+Böbrek ve idrar yolu hastalıkları  
+Seyrek: Kromaturi  
+ 
+Gastrointestinal hastalıkları  
+Yaygın: Bulantı  
+Yaygın olmayan: Kusma, karın ağrısı, diyare, kabızlık  
+ 
+Deri ve deri altı doku hastalıkları  
+Yaygın olmayan: Kaşıntı, döküntü  
+Bilinmiyor1): Ürtiker, eritem  
+ 
+Kas-iskelet bozuklukları, bağ dokusu ve kemik hastalıkları  
+Yaygın olmayan: Kas krampları, miyalji, artralji, ekstremite ağrısı, sırt ağrısı  
+ 
+Genel bozukluklar ve uygulama bölgesine ilişkin hastalıklar  
+Yaygın: Enjeksiyon/infüzyon yeri reaksiyonları2)  
+Yaygın olmayan: Titreme, halsizlik, asteni, periferal ödem, ağrı  
+Seyrek: Göğüs ağ rısı, ateş, terleme  
+Bilinmiyor1): Halsizlik, soğuk terleme, solukluk, grip benzeri hastalık3)  
+ 
+Araştırmalar  
+Yaygın olmayan: Gama glutamil transferaz yükselmesi, alanin aminotransferaz yükselmesi, aspartat 
+aminotransferaz yükselmesi, serrum ferritin yüks elmesi  
+Seyrek: Kan laktat dehidrojenaz yükselmesi  
+1Pazarlama sonrası spontan raporlar; tahmini olarak seyrek sıklıkta  
+2En sık bildirilenler şunlardır: enjeksiyon/infüzyon yerinde ağrı, -ekstravazasyon, -iritasyon, -
+reaksiyon, -renk değişikliği, -hematom, -kaşıntı.  
+3Başlangıç birkaç saatten birkaç güne değişebilir.  
+ 
+Şüpheli advers reaksiyonların raporlanması  
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem 
+taşımaktadır. Raporlama yapılması, ilacın yarar / risk dengesinin  sürekli olarak izlenmesine olanak 
+sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye 
+Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir (www.titck.gov.tr; e - posta: 
+tufam@titck.gov.tr; tel: 0 800 314 00 08; faks : 0 312 218 35 99). 
+ 
+4.9. Doz aş ımı ve tedavisi  
+Doz aşımı kendini hemosideroz şeklinde aşırı demir yüklenmesi olarak gösterebilir. Doz aşımı 
+hekimin ihtiyaç gördüğü şekilde demir bağlayıcı bir ajan veya standart medikal uygulamalar ile 
+tedavi edilebilir.  9/12  
+   
+5. FARMAKOLOJİ K ÖZELLİ KLER  
+5.1. Farmakodinamik özellikler  
+Farmakoterapötik grup: Antianemik preparatlar, demir preparatları, 
+parenteral demir preparatları  
+ATC kodu: B03AC02 
+ 
+Etki Mekanizması   
+EMFER ’in aktif maddesi olan demir sükroz, polinüklear demir (III) hidroksit çekirdeğinin büyük 
+sayılarda non -kovalent sükroz molekülleri ile çevrelenmesiyle oluşur. Kompleksin ortalama 
+molekül ağırlığı (ma) yaklaşık olarak 43 kDa’dır. Polinükleer çekirdek fizyolojik koşullarda demir 
+depo etmeye yara yan ferritin ile  benzerdir. Kompleks, vücutta demir transportu ve depo 
+proteinlerinde demirin kontrollü bir şekilde kullanılması için dizayn edilmiştir (sırasıyla transferrin 
+ve ferritin).  
+  
+İntravenöz uygulamayı takiben, polinükleer demir çekirdeği başta karaciğer, dala k ve kemik iliği 
+olmak üzere retiküloendotelial sistem tarafından alınmaktadır. İkinci basamak olarak demir, Hb, 
+miyoglobin ve diğer demir içeren enzimlerin sentezinde kullanılmakta veya ferritin formunda başta 
+karaciğerde depolanmaktadır.    
+  
+Klinik Etkililik ve Güvenlilik  
+  
+Kronik böbrek yetmezliği   
+LU98001, demir eksikliği  anemisi olan (Hb >8 ve <11 g/dL , TSAT <% 20, ve serum ferritin ≤300 
+mcg/L ) ve rHuEPO almış olan hemodiyaliz hastalarında 100 mg demir olarak EMFER ’in 3-4 hafta 
+boyunca 10 seansa kadar  etkililik ve güvenliliğinin araştırıldığı tek kollu çalışmadır. 60/77 hastada 
+Hb ≥11 g/dl elde edilmiştir. Serum ferritin ve TSAT'deki ortalama artış, başlangıçtan tedavinin 
+sonuna (Gün 24) ve ayrıca 2 ve 5.  haftadaki takip ziyaretine kadar anlamlı olmuş tur.  
+  
+1VEN03027, rHuEPO alan veya almayan diyalize bağımlı olmayan kronik böbrek hastalığı olan 
+(Hb ≤11 g/dL, serum ferritin ≤300 mcg/L , and TSAT ≤%25) hastalarda yapılan ve EMFER (14 
+gün boyunca bölünmüş dozlarda 1000 mg) ile oral ferroz sülfatın (56 gün boyunca günde 3 kez 
+325 mg) karşılaştırıldığı randomize çalışmadır. Klinik cevap (Hb ≥1 g/dL ve serum ferritin  ≥160 
+mcg/L  ) oral demir (1/82; %1,2); p<0,0001) ile karşılaştırıldığında EMFER (31/79; %39,2) ile 
+tedavi edilen grupda daha fazla gözlenmişt ir.  
+  
+10 / 12 
+ 
+  
+İnflamatuvar bağırsak hastalığı  
+İnflamatuvar bağırsak has talığı ve anemisi (Hb <11.5 g/dL ) olan hasta grubunda yapılan randomize 
+kontrol gruplu bir çalışmada EMFER  (kümülatif doza ulaşıncaya kadar haftada bir kez veya her iki 
+haftada bir kez 200 mg IV demir) ile oral demir (20 hafta boyunca günde 2 kez 200 mg) 
+karşılaştırılmıştır. Çalışma sonunda Hb ≥2 g/dL  artış sağlanan hasta oranı EMFER  grubunda %66 
+iken bu oran oral demir grubunda %47 olmuştur (p=0,07).  
+  
+Postpartum    
+Postpartum demir eksikliği anemisi (doğum sonrası 24 -48 saatte Hb <9 g/dl ve s erum ferritin <15 
+mcg/L ) olan kadınlarda yapılan randomize çalışmada bir kola EMFER  (n:22) 2x200 mg 2.  ve 4. 
+günlerde verilmiştir. Diğer grup ise (n:21) günde iki defa 200 mg oral ferröz sülfatı 6 hafta süre ile 
+almıştır. Tedavinin 5. Gününde EMFER  alan g rupta Hb yükselmesi 2,5g/dL  iken, oral demir 
+grubunda ise Hb yükselmesi 0,7g/dl olmuştur (p<0,01).  
+  
+Gebelik   
+Randomiz e, kontrollü bir çalışmada gebeliklerinin 3. trimesterinde olan ve demir eksikliği anemisi 
+olan (Hb 8 ila 10,5 g/dL  ve serum ferritin  <13 mcg/L ) kadınlar EMFER  (5 gün boyunca uygulanan 
+bireysel olarak hesaplanan toplam demir dozu) veya oral demir polimalto z kompleksine (doğuma 
+kadar günde 3 kez 100 mg) randomize edilmiştir. Başlangıçtaki Hb değeri hem 28. günde hemde 
+doğumda EMFER  grubunda oral demir grubuna göre anlamlı derecede daha üstün olmuştur (p<0,01).  
+ 
+5.2. Farmakokinetik özellikler  
+Emilim ve Dağılım: 
+Fe52 ve Fe59 ile işaretlenmiş demir sükrozun ferrokinetiği kronik renal yetmezlikli 6 anemi hastasında 
+değerlendirilmiştir. İlk 6 -8 saatte Fe52 karaciğer dalak ve kemik iliği tarafından alınmıştır. 
+Makrofajdan zengin dalağın radyoaktif alımı retiküloendote lial sistemin demir alımının bir göstergesi 
+olarak değerlendirilmiştir.   
+  
+Sağlıklı gönüllülerde intravenöz olarak verilen tek doz 100 mg demir sükroz sonrası 10. dakikada 
+ortalama kan konsantrasyonu 538 mikro mol/l seviyesine ulaşmıştır. Merkezi kompartm anın dağılım 
+hacmi, plazma hacmine (yaklaşık 3 litre) karşılık gelmiştir.  
+ 
+Biyotransformasyon:  
+ 
+IV uygulamadan sonra, sükroz büyük oranda çözünmüştür ve polinükleer demir başta karaciğer, 
+dalak ve kemik iliği tarafından retiküloendotelial sistem tarafında n alınmıştır. 4. haftada alyuvar 
+demir kullanımı %59 ile %97 aralığında olmuştur.  
+Eliminasyon: 
+Demir sükroz kompleksinin molekül ağırlığı (ma) yaklaşık 43kDa’dur ve renal eliminasyonu 
+engellemek için yeterli büyüklüktedir. Renal demir eliminasyonu 100 mg demir enjeksiyonunu 
+takiben 4 saat içinde olur ve total dozun %5 inden azdır. Alımdan 24 saat sonra total serum demir 
+konsantrasyonu enjeksiyon öncesi seviyelere ulaşmıştır. Sükrozun renal eliminasyonu alınan dozun 
+%75’i kadar olmuştur.  
+  
+11 / 12 
+ 
+ 5.3. Klinik öncesi güvenlilik verileri  
+Hayvanlarda yapılan çalışmalara dayanılarak bildirilen klinik öncesi verilerde tekrarlayan toksisite, 
+gen toksisitesi ve üreme toksisitesine ait zararlı etkiler görülmemiştir.  
+6. FARMASÖT İK ÖZELLİ KLER  
+6.1. Yardımcı maddelerin listesi  
+ 
+Enjeksiyonluk su  
+Sodyum hidroksit  
+6.2. Geçimsizlikler  
+Bilinen herhangi bir geçimsizliği bulunmamaktadır. 
+6.3. Raf ömrü  
+36 ay  
+6.4. Saklamaya yönelik özel tedbirler  
+250C' nin altında oda sıcaklığında ve kuru bir yerde ışıktan koruyarak saklayınız. Dondurmayınız.  
+6.5. Ambalajın niteliği ve içeri ği  
+Kutuda 5 adet 5 mL 'lik tip I cam ampul içerir.  
+ 
+6.6. Be şeri tıbbi üründen arta kalan maddelerin imhası ve di ğer özel önlemler  
+Ampuller kullanılmadan önce çökelti ve hasar konusunda gözle kontrol edilmelidir. Sadece homojen ve  
+çökeltisiz çözeltileri kullanınız.  
+EMFER’i %0,9’luk NaCl haricinde hiçbir madde veya ilaç ile dilusyon amaçlı karıştırmayınız. Dilusyon 
+talimatları için bölüm 4.2’ye bakınız.  
+ 
+Seyreltilmiş çözelti kahverengi ve berrak görünür.  
+ 
+Her ampul EMFER sadece tek kullanım içindir.  
+Kullanılmamış olan ürünler ya da atık materyaller "Tıbbi Atıkların Kontrolü Yönetmeliği" ve 
+"Ambalaj Atıklarının Kontrolü Yönetmeliği"ne uygun olarak imha edilmelidir.  
+12 / 12 
+ 
+ 7. RUHSAT SAH İBİ 
+Biem İlaç San. ve Tic. A.Ş. 
+Anıttepe Mah. Turgut Reis Cad. No:21 
+06570 Tandoğan- ANKARA/TÜRKİYE  
+Tel: 0312 230 29 29 
+Faks:  0312 230 68 00 
+8. RUHSAT NUMARASI  
+254/3 
+9. İLK RUHSAT TARİ Hİ / RUHSAT YENİ LEME TAR İHİ 
+İlk ruhsat tarihi: 09.10.2013 
+Ruhsat yenileme tarihi: 24.12.2018 
+ 
+10. KÜB'ÜN YENİ LENME TAR İHİ 

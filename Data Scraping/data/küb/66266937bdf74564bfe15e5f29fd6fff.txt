@@ -1,0 +1,879 @@
+1 / 26 
+ KISA ÜRÜN BİLGİSİ  
+ 
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI  
+ABAVİR® 245mg f ilm kaplı t ablet  
+ 
+2. KALİTATİF VE KANTİTATİF BİLEŞİM  
+Etkin madde:  
+Tenofovir disoproksil fumarat…………    300 mg  (245 mg tenofovir disoproksil e eşdeğer)  
+  
+Yardımcı maddeler:  
+Laktoz monohidrat   ……………………… 110 mg  
+Kroskarmelloz sodyum  …………………   53.66 mg  
+Magnezyum stearat………………………….   10 mg 
+Yardımcı maddeler için bölüm  6.1 'e bakınız. 
+ 
+3. FARMASÖTİK FORMU 
+Beyaz renkli oval bikonveks film kaplı tablet  
+ 
+4. KLİNİK ÖZELLİKLERİ  
+ 
+4.1. Terapötik endikasyonları  
+ 
+ABAVİR®, yetişkinlerde kronik hepatit B enfeksi yonunun tedavisinde endikedir.  
+Bu endikasyon, aktif viral replikasyonu olan kompanse karaciğer fonksiyonuna sahip HBeAg 
+pozitif ve HBeAg negatif kronik hepatit B’si ve yüksek serum alanin aminotransferazları 
+(ALT) veya  histolojik olarak aktif hastalığı bulunan, nükleozid almamış ve nükleozid 
+deneyimine sahip yetişkin hastalardaki histolojik, virolojik, biyokimyasal ve ser olojik 
+cevaplara dayanmaktadır. 
+ABAVİR®, HIV -1 ile enfekte olmuş 18 yaşın üzerindeki yetişkinlerin t edavisinde diğer 
+antiretroviral ilaçlarla kombinasyon halinde kullanılır. Tenofovir disoproksil fumarat ’ın faydasını n gösteriminde, viral yükü yüksek (> 100,000 
+kopya/ml) hastalar dahil, daha  önce tedavi g örmemiş hastalardaki bir ç alışmanı n ve önceden  
+antiretroviralle tedavi edilmiş , erken  virolojik baş arısızlık gözlenen (<10,000 kopya/ml, ç oğu 
+hastada <5,000 kopya/ml) hastalardaki  düzenli tedaviye (genellikle üçlü  tedavi) Tenofovir 
+disoproksil fumarat ’ın eklendiğ i çalışmaları n sonuç ları esas  alınmaktadır.   2 / 26 
+  
+Antiretroviral rejimin baş arısız olduğu hastalar için yeni bir rejime karar verirken, farklı tıbbi 
+ürünlerle iliş kili mutasyonların biçimlerine ve hastaların tedavi hikayesine dikkat edilmelidir. 
+Uygun olduğunda, direnç testi yapılmalıdır. 
+ 
+4.2. Pozoloji ve uygulama şekli  
+Tedavi, kronik hepatit B ve/veya HIV enfeksiyonu t edavisinde deneyimli bir doktor 
+tarafından  başlatılmalıdır.  
+İstisnai durumlarda, yutmada zorluk çeken hastalarda, ABAVİR®  Film Kaplı Tablet en az 
+100 ml su, portakal suyu veya üzüm suyunda eritildikten sonra kullanılabilir.  
+ 
+Yetişkinler:  
+Kronik hepatit  B tedavisi veya HIV tedavisi için önerilen doz, günde bir kez yiyeceklerle 
+beraber  veya aç  karnına alınan bir tablettir.  
+Kronik hepatit B: HBsAg kaybı veya HBsAg serokonversiyonu varsa, tenofovir disoproksil 
+fumarat  tedavisi kesilebilir; diğ er taraftan optimum tedavi süresi bilinmemektedir ( Bkz. 
+Bölü m 4.4 Ö zel kullanı m uyarıları ve önlemleri).  
+ 
+Özel popülasyonlara ilişkin ek bilgiler  
+Böbrek yetmezliği:  
+Tenofovir, böbrek yoluyla atılır ve böbrek fonksiyon bozukluğu olan hastalarda tenofovire 
+maruziyet artar ( Bkz. Bölüm 4.4 Özel kullanım uyarıları ve önlemleri ve 5.2 Farmakokinetik 
+özellikler ). Klinik çalışmalardan elde edilen sınırlı veriler, hafif böbrek yetmezliği olan 
+(kreatinin klerensi 50–80 ml/dak.) hastalarda günde bir kez tenofovir disoproksil fumarat 
+uygulanmasını desteklemektedir. Kreatin in klerensi < 50 ml/dak. olan tüm  hastalarda, aşağıda 
+ayrıntılarıyla belirtildiği gibi doz aralığı ayarlaması gerekmektedir.  
+ 
+Aşağıdaki, bu popülasyona yönelik doz aralığını ayarlama kılavuzları, hemodiyaliz gerektiren 
+son safha böbrek hastalığı dahil değiş en derecelerde böbrek yetmezliği bulunan HIV ve 
+hepatit B virüsü ile enfekte olmamış  hastalarda tek doz farmakokinetik verilerinin 
+modellenmesine day anmaktadır  ve optimal olmayabilir. Dolayısıyla, bu hastalarda tedaviye 
+verilen klinik cevap ve böbrek fonksiyonu yakında n izlenmelidir ( Bkz. Bölüm 4.4 Özel 
+kullanım uyarıları ve önlemleri)  
+ 3 / 26 
+  Kreatinin klerensi (ml/dak)*  Hemodiyaliz Hastaları  
+ 50-80 30-49 10-29  
+Önerilen  
+Tenofovir 
+Disoproksil Fumarat 300 mg  
+Doz Aralığı  Her 24 
+saatte bir tablet (ayarlama 
+gerekmez)  Her 48 
+saatte bir tablet  Her 72-96 
+saatte bir tablet  Hemodiyaliz seansının 
+tamamlanmasından sonra her 7 günde bir tablet** 
+* İdeal vücut ağırlı ğı kullanılarak hesaplanmıştır.  
+** Genel olarak, her biri yaklaşık 4 saat süren haftada üç hemodiyaliz seansı olduğu varsayılarak veya kümülatif 12 saatlik hemodiyaliz sonrasında haftada bir doz.  
+ 
+Kreatinin klerensi 10 ml/dak.’dan daha az olan, hemodiyaliz e girmeyen hastalar için hiçbir 
+doz önerisi oluşturulamamış tır. 
+ 
+ Karaciğer yetmezliği:  
+Karaciğer yetmezliği olan hastalarda klin ik olarak ilgili farmakokinetik değişiklikler 
+gözlenmemiş tir. Bu nedenle, karaciğer yetmezliği o lan hastalarda doz ayarlamasına gerek 
+duyulmaz ( Bkz. Bölüm 5.2
+ Farmakokinetik özellikler ). 
+ABAVİR®, HIV ko -enfeksiyonu olan veya olmayan kronik hepatit B’li  hastalarda kesilirse, 
+hastalar,  hepatitin kötüleş tiğine dair kanıt açısından yakından izlenmelidir ( Bkz. Bölüm 
+4.4.Özel kullanım u yarıları ve önlemleri).  
+ 
+ Çocuklarda ve 18 yaşına kadar olan gençlerde :  
+18 yaş ın altındaki hastalarda Tenofovir disoproksil fumarat’ın etkinlik ve güvenilirliği tespit 
+edilmemiştir ( Bkz. Bölüm 4.4 Özel kullanım uyarıları ve önlemleri). 18 yaş ın altındaki 
+hastalarda tenofovir disoproksil fumaratın etkinlik  ve güvenilirliğini gösteren baş ka veriler 
+elde edilene kadar, ABAVİR®, çocuklarda veya 18 yaş ına kadar olan gençlerde 
+kullanılmamalıdır.  
+ 
+Geriyatrik popülasyon:  
+65 yaşın üzerindeki hastalar için üzerinde  doz önerilerinde bulunul acak herhangi bir veri 
+yoktur ( Bkz. Bölüm 4.4  Özel kullanım uyanları ve önlemleri ). 
+ 
+4.3. Kontrendikasyonlar  
+ABAVİR®, içerdiği etkin madde veya yardımc ı maddelerden herhangi birine aş ırı duyarlılığı 
+olanlarda kontrendikedir.  
+ 4 / 26 
+ 4.4. Özel kullanım uyarıları ve önlemleri  
+Tenofovir disoproksil fumarat tedavisi baş latılmadan önce hepatit B virüsü ile enfekte olmuş 
+tüm hastalara HIV antikor testi ö nerilmelidir ( Bkz. HIV -1 ve hepatit B’nin ko- enfeksiyonu ). 
+ABAVİR®, tenofovir disoproksil fum arat (Truvada) içeren başka herhangi bir ilaçla birlikte 
+alınmamalıdır.  
+Tenofovir disoproksil fumarat, adefovir dipivoksil (Hepsera) ile beraber uygulanmamalıdır. 
+ 
+Tenofovir disoproksil fumarat, 18 yaşın altındaki hastalarda incelenmemiştir.   
+ 
+Böbrek fonksiyonu:  Tenofovir, esas olarak bö breklerden atılır. Klinik uygulamada tenofovir  
+disoproksil fumarat kullanımı yla bö brek yetmezliğ i, böbrek yetersizliğ i, yü ksek kreatinin,  
+hipofosfatemi ve proksimal tübülopati (Fanco ni sendromu dahil) rapor edilmiştir (Bkz. Bölüm 
+4.8 İstenmeyen e tkiler ). 
+Kreatinin klerensinin tenofovir disoproksil fumarat tedavisi baş latılmadan önce tüm 
+hastalarda hesaplanması  ve böbrek fonksiyonunun da (kreatinin klerensi ve serum fosfat) ilk 
+yılda her dö rt haftada bir ve ardı ndan her üç ay da bir izlenmesi önerilir. Bö brek yetmezliği 
+riski olan hastalarda,  böbrek fonksiyonunun daha sık izlenmesine dikkat edilmelidir.  
+Günlük dozlarda tenofovir disoproksil fumarat alan, orta veya ciddi böbrek yetmezliği olan  
+hastalarda (kreatinin klerensi < 50  ml/dak), tenofovire maruziyet artabilir ve bu hastalarda doz  
+aralığı ayarlaması gerekir ( Bkz. bölüm 4.2 Pozoloji ve uygulama şekli  ve 5.2 Farmakokinetik 
+özellikler ). Tenofovir disoproksil fumarat tedavisinin güvenilirliği ve etkinliği orta veya  ciddi 
+böbrek yetmezliğ i olan hastalarda belirlenmemiş tir ve  dolayısıyla tenofovir disoproksil 
+fumarat tedavisinin olası faydası olası renal toksisite riskine karş ı değerlendirilmelidir. 
+Önceden böbrek yetmezliği olan hastalarda, uzun doz aralıklı tenofovir  disoproks il fumarat 
+tedavisine baş landı ktan sonra, böbrek fonksiyonları nda kötüleş me gibi toksisite  belirtilerine 
+ek olarak viral yü k değ işimleri de dikkatle izlenmelidir.  
+Tenofovir disoproksil fumarat alan herhangi bir hastada serum fosfat düzeyi <1.5 m g/dl (0.48 
+mmol/l) veya kreatinin klerensi <50 ml/dak olur ise, kan ş ekeri, kanda potasyum ve idrarda 
+şeker konsantrasyonları  ölçümleri dahil böbrek fonksiyonu bir hafta iç inde tekrar 
+değerlendirilmelidir ( Bkz. Bö lüm 4.8 proksimal tübülopati). Kreatinin klerensi <50 ml/dak. 
+olur ise tenofovir disoproksil fumaratın doz  aralığı ayarlanmalıdır  (Bkz. Bölü m 4.2). 
+Kreatinin klerens i 50 ml/dak’nın veya serum fosfat düzeyi 1.0 m g/dl’nin (0.32 mmol/l) altına 
+düşen h astalarda tenofovir disoproksil fumarat ile yapı lan tedaviye ara verilmesi de 
+düşünülmelidir. 5 / 26 
+ Yakı n zamanda veya eş zamanlı  olarak nefrotoksik ilaç (örn. a minoglikozidler, amfoterisin B, 
+foskarnet, gansiklovir, pentamidin, vankomisin, sidofovir veya interlö kin 2) kullanan 
+hastalarda tenofovir disoproksil fumarat kulla nımından kaç ınılmalıdır. T enofovir disoproksil 
+fumarat ve nefrotoksik ajanları n eşzamanlı kullanımı kaçını lmazsa, bö brek fonksiyonları her 
+hafta izlenmelidir.  
+Aynı  böbrek taş ıyıcı, insan organik anyon taş ıyıcısı 1 (hOAT1) tarafından salgılanan ilaç ları 
+(örn. nefrotoksik bir ilaç  olarak bilinen sidofovir) kullanan hastalarda tenof ovir disoproksil 
+fumarat klinik olarak değ erlendirilmemiştir. Bu böbrek taş ıyıcısı  (hOAT1), tübüler 
+sekresyondan ve kı smen tenofovir ve sidofovirin renal eliminasy onundan sorumlu ol abilir. 
+Sonuç olarak, eş zamanlı  uygulandıkları nda, bu ilaç ların farmakokinetiği değ işebilir. Mutlaka 
+gerekli olmadıkça, bu ilaç ların eşzamanlı kullanımı önerilmez, fakat eş zamanlı kullanımları 
+kaçını lmaz ise, bö brek fonksiyonları  haftada bir izlenmelidir  (Bkz. Bölüm 4.5 Diğer tıbbi 
+ürünlerle etkileşimler ve diğer etkileşim şekilleri).  
+ 
+Kemik etkileri:  HIV ile  enfekte hastalarda, lamivudin ve efavirenzle kombinasyon halinde 
+stavudin ile tenofovir disoproksil fumaratı n karş ılaştırıldığı daha önce antiretrovir al tedavi 
+görmemiş  hastalardaki 144 haftalı k kontrollü bir klinik ç alışmada, her iki tedavi grubunda 
+kalça ve omurganın kemik mineral yoğunluğ unda küçük azalmalar gözlenmiş tir. Omurganın 
+kemik mineral dansitesindeki azalmalar ve baş langı ca gö re kemik biyomarkerlerindeki 
+değişimler, 144. Haftada  tenofovir disoproksil fumarat tedavi grubunda anlamlı  oranda daha 
+büyüktür. Kalç anın kemik mineral dansitesindeki azalmalar, 96. haftaya kadar bu grupta 
+anlamlı oranda daha büyüktür.  Bununla birlikte, 144. haftadan s onra klinik olarak ilgili kemik 
+anormallikleri açısından kırık riski artmamış tır. Eğ er kemik anormalliklerinden şüpheleniliyor 
+ise, uygun konsültasyon yapılmalıdır.  
+ 
+Direnç:  K65R mutasyonunu barındı ran HIV suş larıyla enfekte olmuş , antiretroviral 
+deneyimin e sahip hastalarda, tenofovir disoproksil fumarat kullanımı ndan kaç ınılmalıdır 
+(Bkz. Bölüm 5.1 Farmakodinamik özellikler ). 
+ 
+Yaşlı hastalar:  Teno fovir disoproksil fumarat 65 yaş ın üz erindeki hastalarda 
+incelenmemiş tir. Yaşlı hastaların böbrek fonksiyonlarının azalması olasıdır, bu nedenle yaş lı 
+hastalar tenofovir  disoproksil fumarat ile tedavi edilirken dikkatli olunmalıdır. 
+ 6 / 26 
+ Karaciğer hastalığı:  Tenofovir ve tenofovir disoproksil fumarat, karaciğer enzimleri 
+tarafından metabolize edilmez.  
+ 
+Tedavinin kesilme sinden sonra hepatitin kötüleşmesi:  Tenofovir disoproksil fumarat dahil  
+hepatit B tedavisinin kesilmesi, şiddetli akut hepatit kötüleşmeleriyle iliş kili olabilir. 
+Tenofovir  disoproksil fumaratı bı rakan, hepatit B virüsü ile enfekte olmuş  hastalar, tedavini n 
+durdurulması ndan sonra en az birkaç  ay hem klinik hem de laboratuvar takibi aç ısından 
+yakından izlenmelidir. Uygunsa, hepatit B tedavisine yeniden baş lanması  gerekli görü lebilir. 
+İlerlemiş  karaciğer hastalığı veya siroz bulunan hastalarda, tedavi sonrası  hepatitin 
+kötüleşmesi hepatik  dekompansasyona yol aç abileceğ inden tedavinin kesilmesi ö nerilmez.  
+ 
+Hepatit C veya D ile ko -enfeksiyon: Hepatit C veya D virüsü ile ko- enfekte olmuş  
+hastalarda tenofovirin etkinliği ile ilgili herhangi bir veri bulunmamaktadı r. 
+ 
+HIV -1 ve Hepatit B ile ko -enfeksiyon: Tenofovir disoproksil fumarat, HIV/ hepatit B virüsü 
+ile ko-enfek te hastalarda, HIV direnci geliş me riskinden dolayı, yalnızca uygun antiretroviral  
+kombinasyon rejiminin bir parç ası olarak kullanılmalıdır.  
+ 
+Laktik asidoz: Nükleozid analoglarının kullanımı ile genellikle hepatosteatoz ile ilişkili 
+laktik asidoz rapor  edilmiştir. Klinik öncesi ve klinik veriler, nükleozid analoglarının bir 
+sınıf etkisi olan laktik asidozun  görülme riskinin tenofovir disoproksil fumara t için düşük 
+olduğunu düşündürmektedir. Bununla beraber, tenofovir, nükleozid analogları ile yapısal 
+olarak ilişkili olduğu için bu risk göz ardı edilemez. Erken semptomlar (semptomatik 
+hiperlaktatemi) iyi huylu sindirim semptomları (bulantı, kusma ve abdo minal ağrı), 
+spesifik olmayan kırıklık, iştah kaybı, kilo kaybı, solunum semptomları (hızlı ve/veya derin 
+nefes  alma) veya nörolojik semptomları (motor zayıflık dahil) içerir. Laktik asidozun 
+mortalitesi yüksektir ve  pankreatit, karaciğer yetmezliği veya b öbrek yetmezliği ile ilişkili 
+olabilir. Laktik asidoz genel olarak tedaviden birkaç ay sonra ortaya çıkmıştır. 
+ Semptomatik hiperlaktatemi ve metabolik/laktik asidoz, progresif hepatomegali veya hızla 
+artan aminotransferaz düzeylerinin görülmesi durumunda nükleozid analogları  ile tedaviye 
+son verilmelidir.  
+ 
+ 7 / 26 
+ Hepatomegali, hepatit veya karaciğer hastalığı açısından bilinen diğer risk faktörleri ve 
+hepatosteatozu olan (alkole bağlı olanlar dahil bazı tıbbi ürünler) hastalara (özellikle obez 
+kadınlar) nükleozi d analogları uygulanırken dikkatli olunmalıdır. Hepatit C ile ko -enfekte 
+olan ve alfa interferon ve ribavirin ile tedavi edilen hastalar da bir risk oluşturabilirler.  
+ 
+Yüksek risk altında bulunan hastalar yakından izlenmelidir.  
+ 
+ 
+HIV ile enfekte olmuş ha stalarda,  kombina syon antiretroviral tedavisi, vücut yağının yeniden 
+dağılımı (lipodistrofi) ile ilişkilendirilmiş tir. Bu olayları n uzun vadede sonuç ları şu anda  
+bilinmemektedir. Bu durumun mekanizması hakkındaki bilgi eksiktir. Viseral lipomatoz ile 
+prote az inhibitö rleri ve lipoatrofi ile nü kleozid revers transkriptaz inhibitörleri arasında bir 
+bağlantı olduğu hipotezi ortaya atılmış tır. Daha yü ksek lipodistrofi riski, ilerlemiş yaş gibi 
+bireysel faktö rler, uzun süreli antiretroviral tedavi gibi ilaca bağlı  faktö rler v e metabolik 
+bozukluklar ile ilişkilendirilmiş tir. Klinik inceleme, yağın yeniden dağılımına ilişkin fiziksel 
+belirtilere yö nelik değerlendirmeyi  içermelidir. Aç lık serum lipidleri ve kan şekerinin 
+ölçümüne dikkat edilmelidir. Lipid bozukluklar ı, klinik olarak uygun ş ekilde tedavi 
+edilmelidir (Bkz . Bölü m 4.8 İstenmeyen etkiler ). 
+Tenofovir, nükleozid a naloglarıyla yapısal olarak iliş kilidir, bu nedenle lipodistrofi riski göz 
+ardı edilemez. Bununla birlikte, daha önc e antiretroviral tedavi görmemiş, HIV ile enfekte 
+hastalardan elde edilen 144 haftalık klinik veriler, lamivudin ve efavirenz ile bir likte 
+uygulandığında, stavudine göre tenofovir disoproksil fumarat il e lipodistrofi riskinin daha 
+düşük olduğunu göstermiş tir. 
+Nükleozid ve nükleotid anal oglarının, in vitro  ve in vivo  olarak, değişken oranlarda 
+mitokondriyal hasara neden olduğu gösterilmiştir. İn utero ve/veya postnatal olarak nükleozid 
+analoglarına m aruz kalan HIV negatif bebeklerde mitokondriyal f onksiyon bozukluğu rapor 
+edilmiştir. Rapo r edilen baş lıca advers etkiler hematolojik (anemi, nötropeni) ve metabolik 
+(hiperlaktatemi, hiperlipazemi) bozukluklardır. Bu etkil er çoğunlukla geçicidir. Geç baş layan 
+bazı nörolojik bozukluklar (hipertoni, konvülsiyon, anormal davranış) rapor edilmiş tir. 
+Nörolojik bozuklukların geçici mi yoksa kalıcı mı olduğu şu anda bilinmemektedir. İn utero  
+olarak nükleozid ve nükleotid analoglarına maruz kalan herhangi bir çocuğun, hatta HIV 
+negatif çocukların, klinik ve laborat uvar takibi yapılmalı ve ilgili belirti veya semptomların 
+görülmesi durumunda olası mitokondriya l fonksiyon bozukluğu açısından tam olarak 8 / 26 
+ incelenmelidirler.  Bu bulgular, HIV’in dikey geçiş ini önlemek için  gebe kadınlarda mevcut 
+antiretroviral tedavi kullanım kurallarını etkilemez.  
+ 
+İmmün Reakt ivasyon Sendromu:  Kombine antiretroviral tedavinin (CART) başlangıcı 
+sırasında, ciddi immün yetmezliği olan HIV enfeksiyonlu hastalarda, asemptomatik veya 
+rezidüel fırsatçı  patojenlere karş ı enflam atuvar bir reaksiyon geliş ebilir ve ciddi klinik 
+durumlara veya semptomların  şiddetlenmesine neden olabilir. Tipik olarak, bu re aksiyonlar, 
+tedavinin (CART) baş lamasından sonra ilk birkaç hafta veya ay içinde gözlenmiştir. Bunlarla 
+ilgili ö rnekler sitomega lovirüs retiniti, genel ve/veya fokal mikobakteri enfeksiyonları ve 
+Pneumocystis carinii  pnömonisidir. Tüm enflamatuvar semptomlar  değerlendirilmeli ve 
+gerektiğinde tedaviye baş lanmalıdır.  
+ 
+Osteonekroz:  Etiolojinin çok faktörlü (kortikosteroid kullanımı, alkol tüketimi, ciddi  
+immünosupresyon, daha yüksek vücut küt le indeksi dahil) olduğ unun düşünülmesine rağmen,  
+osteonekroz vakaları  özellikle ilerlemiş  HIV hastalığı ve/veya kombine antiretroviral tedaviye  
+(CART) uzun sureli maruziyeti bulunan hastalarda rapor edilmiş tir. Eklemlerde sızı ve ağrı,  
+eklemlerde sertlik veya hareket güçlü ğü yaş amaları halinde hastalara tıbbi yardım almaları 
+tavsiye  edilmelidir.  
+ 
+Tenofovir disoproksil fumarat ve didanozinin birlikte uygulanması  önerilmez. Tenofovir 
+disoproksil fumarat ve didanozinin birlikte uygulanması, didanozinle ilgili advers olay riskini  
+artırabilecek olan, didanozine sistemik maruziyette %40 -60’lık bir artı şla sonuç lanır (Bkz. 
+Bölü m 4.5). Bazen ölümcül olan, nadir pankreatit ve laktik asidoz vakaları  rapor edilmiş tir. 
+Tenofovir  disoproksil fumarat ve didanozinin günlük 400 mg dozunda birlikte uygulanması, 
+muhtemelen  fosforile (yani, aktif) didanozini artı ran intrasellüler bir etkileş imden dolayı , CD4 
+hücre sayımındaki  anlamlı düşüşle ilişkilendirilmiş tir. Tenofovir disoproksil fumarat  
+tedavisiyle birlikte uygulanan aza ltılmış  250 mg didanozin dozajı, test edilen birkaç 
+kombina syon dahilinde yüksek oranlarda virolojik başarısızlık bildirimleriyle 
+ilişkilendirilmiş tir. 
+ Üçlü nükleozid tedavisi: Tenofovir disoproksil fumarat, günde tek doz rejimi halinde 
+lamivudin ve  abakavirin yanı sıra lamivudin ve didanozinle de kombine edildiğinde, HIV 
+hastalarında yüksek  oranda  virolojik yetmezlik ve erken aşamada direnç geliştiği rapor 
+edilmiş tir. 9 / 26 
+ Tenofovir disoproksil fumaratın cinsel temas veya kan kontaminasyonu aracılığıyla diğer 
+insanlara HIV veya hepatit B virüsü bulaş ma riskini ortadan kaldırdığının kanıtlanmadığı 
+hastalara bildirilmelidir. Uygun önlemlerin alınmasına devam edilmelidir.  
+ABAVİR®, laktoz monohidrat içerir. Sonuç  olarak, nadir kalıtsal galaktoz intoleransı, Lapp 
+laktaz eksikliği veya glikoz galaktoz malabsorpsiyonu sorunları ola n hastalar bu ilacı 
+almamalıdır.  
+Bu tıbbi ürün her doz unda 1 mmol (23 mg)'dan daha az sodyum ihtiva eder; bu dozda  
+sodyuma bağlı herhangi bir yan etki beklenmez.  
+ 
+4.5. Diğer tıbbi ürünler ile  etkileşimler ve diğer etkileşim şekilleri  
+İn vitro deneylerin sonuçlarına ve tenofovirin bilinen eliminasyon yoluna dayanarak, diğer 
+tıbbi ürünler ile tenofoviri içeren CYP450 etkileşimleri potansiyeli düş üktür. 
+Tenofovir, hem filtrasyon he m de anyonik ta şıyıcı (hOAT1)  aracılığıyla aktif sekresyonla 
+böbreklerden atılır. Anyonik taş ıyıcıdan aktif olarak salgılanan diğer tıb bi ürünler (örn. 
+sidofovir) ile tenofovir disoproksil fumaratın birlikte uygulanması, tenofovirin veya birlikte 
+uygulanan  tıbbi ürünün konsantrasyonlarının artmasına neden olabilir ( Bkz. Bölüm 4.4 Özel 
+kullanım uyarıları ve önlemleri).  
+ 
+Antiviral ürünler ile birlikte kullanım  
+Emtrisitabin, lamivudin, entekavir, indinavir ve efavirenzin tenofovir disoproksil fumaratla 
+birlikte  uygulanmaları  herhangi bir etkileşmeye yol açmamış tır. 
+Tenofovir disoproksil fumarat, lopinavir/ritonavir ile birlikte uygulandığında, lopinavir ve  
+ritonavirin  farmakokinetiğinde hiçbir değişiklik gözlenmemiş tir. Tenofovir disoproksil 
+fumarat,  lopinavir/ritonavir ile b irlikte uygula ndığında, tenofovir EAA’ı yaklaşık %30 
+artmış tır. Daha yüksek tenofovir konsantrasyonları böbrek has talıkları dahil tenofovirle iliş kili 
+advers olayları  güçlendirebilmiş tir. 
+Didanozinin mide ortamına dayanıklı kapsülleri, tenofovir disoproksi l fumarattan 2 saat önce 
+veya birlikte uygulandığında, didanozin EAA’ı sıra sıyla ortalama %48 ve %60 artmıştır. 
+Tamponlanmış  tabletler tenofovirden 1 saat önce uygulandığında didan ozinin EAA’ındaki 
+ortalama artış  %44’tür.  Her iki durumda da, hafif bir yeme kle birlikte verilen tenofovir için 
+farmakokinetik parametreler  değişmemiş tir. Tenofovir disoproksil fumarat ve didanozinin 
+birlikte uygulanması önerilmemektedir  (Bkz. Bölüm 4.4 Özel kullanım uyarıları ve 
+önlemleri).  
+ 10 / 26 
+ Tenofovir disoproksil fumarat atazanavirle birlikte uygulandığında, atazanavir 
+konsantrasyonlarında düşüş gözlenmiştir (atazanavir 400mg’ye kıyasla, EAA ve C min’de 
+sırasıyla %25 ve %40 oranında düşüş ). Atazanavire ritonavir eklendiğinde, tenofovirin 
+atazanavir C min üzerindeki olumsuz etkisi anlamlı oranda düşmüşken, EAA’ındaki düşüş aynı 
+büyüklükte olmuştur (atazanavir/ritonavir 300/100m g ’ y e  k ı y a s l a  E A A  v e  C min’de sırasıyla 
+%25 ve %26 oranında düşüş). Atazanavir/ritonavirin tenofovir ile birlikte uygulanma sı 
+tenofovir maruziyetinde artışla sonuçlanmış tır. Daha yüksek tenofovir konsantrasyonları, 
+böbrek hastalıkları dahil tenofovirle ilişkili advers olayları güçlendirebilmiş tir. Atazanavirin 
+tenofovirle kombinasyon halinde ritonavi rle birlikte uygulanması klinik bir çalışmada 
+gerçekleştirilmiş tir. 
+ 
+Diğer etkileşimler  
+Tenofovir disoproksil fumarat, metadon, ribavirin, rifampisi n (Bkz. Bölü m 4.4 Özel kullanım 
+uyarıları ve önlemleri)  veya hormonal kontraseptif norgestimat/etinil östradiolün birlikte 
+uygulanm ası herhangi bir farmakokinetik etk ileşime yol açmamış tır. 
+ 
+Kombinasyon ürünü emtrisitabin/tenofovir disoproksil fuma rat ile birlikte uygulandığında 
+takrolimusun farmakokinetiği değişmemiştir. Tek baş ına veya takrolimusla kom binasyon 
+halinde uygulandığında tenofovirin farmakokinetik parametreler inde klinik olarak anlamlı 
+değişiklikler olmamış tır. 
+ 
+Özel popülasyonlara ilişkin ek bilgiler  
+Özel popülasyonlara ilişkin etkileşim çalışması yapılmamıştır.  
+ 
+Pediyatrik popülasyonlara ilişkin ek bilgiler  
+Pediyatrik popülasyona ilişkin etkileşim çalışması yapılmamıştır.  
+ 
+4.6. Gebelik ve laktasyon  
+Genel tavsiye  
+Gebelik kategorisi: B  
+Çocuk doğurma potansiyeli bulunan kadınlar / Doğum kontrolü (Kontrasepsiyon)  
+Tenofovir disoproksil fumarata maruz kalan gebelerle ilgili hiçbir klinik veri yoktur.  11 / 26 
+ Hayvanlar üzerinde  yapılan çalışmalar, tenofovir disoproksil fumaratın gebelik, fetal gelişim, 
+doğum veya doğum sonrası gelişim ile ilgili olarak doğrudan veya dolaylı zararlı etkileri 
+olduğunu göstermemektedir ( Bkz. Bölüm 5.3 Klinik öncesi güvenlilik verileri).  
+Gelişen ins an fetüslerine yönelik olası risklerin bilinmediği göz önünde bulundurulduğunda, 
+tenofovir disoproksil fumarat, çocuk doğurma potansiyeli olan kadınlarda etkili 
+kontrasepsiyon ile beraber kullanılmalıdır. 
+Gebelik dönemi  
+Tenofovir disoproksil fumarat, gebel ik sırasında yalnızca gerekli olduğu durumlarda ve olası 
+faydası fetüse yönelik olası riske üstün olduğunda kullanılmalıdır.  
+ 
+Laktasyon dönemi  
+Hayvanlar üzerinde yapılan çalışmalarda, tenofovirin süte geçtiği gösterilmiştir. Tenofovirin 
+anne sütüne geçip geçmediği bilinmemektedir. Bu nedenle, tenofovir disoproksil fumarat ile 
+tedavi edilen annelerin bebeklerini emzirmemeleri önerilir.  
+Genel bir kural olarak, bebeğe HIV ve hepatit B virü sü bulaşmasını engellemek için, 
+HIV ve hepatit B virüsü ile enfekte kadı nlar bebeklerini hiçbir koşulda emzirmemelidir.  
+Fertilite  
+Sıçanlarda çiftleşme veya fertilite üzerinde her hangi bir etkisi bulunmamıştır. 
+ 
+4.7. Araç ve makine kullanımı üzerindeki etkiler  
+ Araç ve makine kullan ımı üzerindeki etkileriyle ilgili herhangi bir  araştırma yapılmamıştır. 
+Bununla birlikte, hastalar, tenofovir disoproksil fumarat tedavisi sırasında baş dönmesi rapor 
+edildiği konusunda bilgilendirilmelidir. 
+ 
+4.8. İstenmeyen etkiler  
+ Aşağıda belirtilen advers etkiler HIV ve HBV hastalarının dahil olduğu klinik çalışmalara 
+ve pazarlama sonrası deneyime aittir. Sıklıklar çok yaygın (≥1/10); ya ygın (≥1/100 ila ≤1/10); 
+yaygın olmayan (≥1/1.000 ila ≤1/100); seyrek (≥1/10.000 ila ≤1/1.000) veya “bilinmiyor” 
+raporları dahil çok seyrek (≤1/10.000) olarak tanım lanmaktadır. Bazı ola ylar, bilinmeyen 
+büyüklükte bir popülasyondan gönüllü olarak rapor edildiğinden, her zaman sıklık tahminleri yapılamayabilir.  
+ 12 / 26 
+ • HIV-1: 
+İstenmeyen etkilerin değerlendirilmesi 24 hafta süreyle diğer antiretroviral ilaçlarla 
+kombinasyon şeklinde tenofovir disoproks il fumarat (n=443) veya plasebo (n= 210) ile tedavi 
+edilen, 653 tedavi  dene yimine sahip hastadaki iki çalış mada ve ayrıca daha önce tedavi 
+görmemiş 600 hastanın 144 hafta süreyle lamivudin ve efavir enz ile kombinasyon halinde 
+245mg  tenofovir disoproksil fumarat  (n=299) veya stavudin (n= 301) t edavisi aldığı bir çift-
+kör karşılaştırmalı kontrollü çalışmada edinilen deneyime dayanmaktadır.  
+Hastaların yaklaş ık üçte birinin, diğer antiretroviral ajanlar ile kombinasyon halinde tenofovir 
+disoproksil fumarat tedavisi s onrasında istenmeyen etkiler yaş amas ı beklenebilir. Bu 
+reaksiyonlar genellikle hafif ila orta ş iddette gastrointestinal olaylardır.  
+Tedaviyle ilişkisi şüpheli (en azından olası) istenmeyen etkiler vücut sistem organ sınıfı ve 
+sıklığa göre aşağıda listelenmektedir.  
+ 
+Sinir sistemi hastalıkları:  
+Çok yaygın: B aş dönmesi  
+ 
+Gastrointestinal hastalıklar:  
+Çok yaygın:  İshal, bulantı, kusma  
+Yaygın : Gaz 
+ 
+Tenofovir disoproksil fumarat ile  tedavi edilen hastaların yaklaş ık %1’i, gastrointe stinal 
+olaylara  bağlı olarak tedaviyi bırakmıştır.  
+Kombine antiretroviral tedavi, hipertrigliseridemi, hiperkolesterolemi, insülin direnci, 
+hiperglisemi ve hiperlaktatemi gibi metabolik anormallikler ile iliş kilendirilmektedir  (Bkz. 
+Bölüm 4.4  Özel kullanım  uyarıları ve önlemleri).  
+Kombine  antiretroviral tedavi, HIV hastalarında periferal ve fasyal subkütan yağ kaybı, 
+intraabdominal  ve viseral yağda artış , meme hipertrofisi ve dorsoservikal  yağ birikimi 
+(buffalo kamburu) dahil vücut yağının yeniden dağılımı (lipodistrofi) ile 
+ilişkilendirilmektedir.  
+Lamivudin ve efavirenz ile kombinasyon halinde stavudin ile tenofovir disoproksil fumaratın  
+karşılaştırıldığı daha önce antiretroviral tedavi görmemiş  hastalardaki 144 haftalı k kontrollü  
+bir klinik ç alışmada, teno fovir disoproksil alan hastalar, stavudin alan hastalara kı yasla daha 
+düşük lipodistrofi insidansı  göstermiş tir. Tenofovir disoproksil fumarat kolu da, karş ılaştırma 13 / 26 
+ koluna  kıyasla, trigliserid ve toplam kolesterolde anlamlı oranda daha küçük ortalama artı şlar 
+göstermiş tir. 
+Kombine antiretroviral tedavi (CART) baş latıldığı sırada,  şiddetli immü n yetersizliğ i olan, 
+HIV il e enfekte hast alarda, asemptomatik veya rezidü el fı rsatçı  enfeksiyonlara karş ı 
+enflamatuvar bir reaksiyon geliş ebilir ( Bkz. Bölüm 4.4 Özel kullanım uyarıları ve önlemleri)  
+ 
+Özellikle  genel olarak bi linen risk faktörleri, ilerlemiş  HIV hastalığı veya kombine 
+antiretroviral tedaviye (CART) uzun süreli maruziyeti olan hastalarda os teonekroz vakaları 
+rapor edilmiş tir. Bunun sıklığı bilinmemektedir ( Bkz. Bölüm 4.4  Özel kullanım uyarıları ve 
+önlemleri) . 
+ 
+• Hepatit B:  
+Advers reaksiyonların değerlendirilmesinde, kronik hepatit B’li ve kompanse karaciğer 
+hastalığı olan 641 hasta nın, 48 hafta süreyle günde 245mg tenofovir disoproksil (fumarat 
+olarak) (n=4 26) veya günde 10 mg adefovir dipivoksil (n= 215) tedavis i aldığı çift kör, 
+karşılaş tırmalı, kontrollü iki  çalış mada edinilen deneyim esas alınmaktadır.  
+ 
+Gastrointestinal hastalıklar:  
+Yaygın: Bulantı  
+ 
+• Pazarlama sonrası deneyim:  
+Klinik çalışmalara ait advers  reaksiyon raporlarına ek olarak, tenofovir disoproksil fumaratın 
+onay  sonrası kullanımı sırasında aş ağıdaki olası ad vers reaksiyonlar da tanımlanmıştır. Bu 
+olaylar, bilinmeyen büyüklükte bir popülasyondan gönüllü olarak rapor edildiğinden, her 
+zaman sıklı k tahminleri yapılamayabilir.  
+ 
+Bağışıklık sistemi hastalıkları:  
+Çok seyrek: A lerjik reaksiyon  
+ 
+Metabolizma ve beslenme hastalıkları:  
+Çok yaygın: H ipofosfatemi 
+Seyrek: Laktik asidoz  
+ 
+ 14 / 26 
+ Solunum, göğüs bozuklukları ve mediastinal hastalıklar:  
+Çok seyrek: D ispne 
+ 
+Gastrointestinal hastalıklar:  
+Yaygın: Amilaz düzeyinde artış  
+Seyrek:  Pankreatit  
+Çok seyrek: K arın ağrısı 
+ 
+Hepato -bilier hastalıkları:  
+Seyrek: Karaciğer enzimlerinde artış (en çok AST, ALT, GGT)  
+Çok seyrek: H epatit 
+ Deri ve deri altı doku hastalıkları:  
+Seyrek: D öküntü  
+ 
+Müsküloskeletal ve bağ dokusu hastalıkları:  
+Bilinmiyor : Miyopati, osteomalazi (her ikisi de proksimal re nal tübülopatiyle ilişkilidir)  
+ 
+Böbrek ve idrar yolları hastalıkları:  
+Seyrek: Böbrek yetmezliği, akut böbrek yetmezliği, proksimal tü bülopati (Fanconi sendromu 
+dahil), kreatinin düzeyinde artış, proteinüri, böbrek yetersizliği  
+Çok seyrek: A kut tübüler nekroz, poliüri  
+Bilinmiyor: N efrit (akut interstisyel nefrit dahil), nefrojenik diabetes insipidus.  
+ 
+Genel bozukluklar ve uygulama bölges ine ilişkin hastalıkları:  
+Çok seyrek: A steni 
+ 
+Şüpheli advers reaksiyonların raporlanması : 
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem 
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine 
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir advers reaksiyonu Türkiye 
+Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir (www.titck.gov.tr; e -
+posta: tufam@titck.gov.tr; tel: 0 800 314 00 08; faks: 0 312 218 35 99).  15 / 26 
+ 4.9. Do z aşımı ve tedavisi  
+Doz aşımı oluş tuğu takdirde, hasta toksisite belirtileri için iz lenmeli ( Bkz. Bölüm 4.8  
+İstenmeyen etkiler  ve 5.3  Klinik öncesi güvenlilik verileri) ve gereken ş ekilde standart destek 
+tedavisi uygulanmalıdır.   
+ 
+Tenofovir, hemodiyaliz il e uzaklaştırılabilir; tenofovirin medyan hemodiyaliz klerensi 134  
+ml/dak’tır. Tenofovirin peritonal diyaliz ile eliminasyonu araştırılmamıştır.  
+ 
+5. FARMAKOLOJİK ÖZELLİKLER  
+5.1. Farmakodinamik özellikler  
+Farmakoterapötik grup: Sistemik kullanım için antiviral  
+ATC kodu: J05AF07 
+ 
+Tenofovir disoproksil fumarat, ön ilaç  olan tenofovir disoproksilin fumarat tuzudur. Tenofovir  
+disoproksil absorbe edilir ve bir nükleozid monofosfat (nükleotid) analoğu olan etkin madde  
+tenofovire dönüştürülür. Tenofovir daha sonra  dinlenme halinde ve aktive T hü crelerinde iki  
+fosfo rilasyon reaksiyonu sonucu sellüler enzimlerle zorunlu bir zincir sonlandırıcısı olan etkin  
+metabolit tenofovir difosfata dönüştürülür. Tenofovir difosfatın intrasellü ler yarı  ömrü , aktive  
+periferal kan mononükleer hücrelerinde (PBMC’ler) 10 saat, dinlenme halindeki periferal kan  
+mononükleer hücrelerinde ise 50 saattir. Tenofo vir difosfat, doğal deoksiribonükleotid 
+substratı  ile doğrudan bağlanma rekabeti yaparak viral polimerazları inhibe eder ve DNA’ya 
+girdi kten sonra DNA zincirini sonla ndırır. Tenofovir difosfat sellüler polimerazlar α, β ve 
+γ’nın zayıf bir  inhibitörüdür. Tenofovir difosfatın HIV-1 revers transkriptaza karş ı kinetik 
+inhibisyon sabitiyle  (Ki) (0.02 µmol/l) karşılaşt ırıldığınd a, insan DNA poli meraz α’ya karş ı 
+Ki değeri bundan 200 kat  daha fazla (5.2 µ mol/l), insan DNA polimeraz β ve γ’ya karş ı Ki 
+değeri ise bundan 3,000 kat daha  fazladır (sırasıyla 81.7 ve 59.5 µmol/l). Tenofovir difosfat, 
+0.18 µmol/l’lik Ki değeriyle HBV  polimerazı inhibe eder . 300 µ mol/l’ye kadar olan 
+konsantrasyonlardaki tenofovir, in vitro  tayinlerde, mitokondriyal  DNA sentezi ya da laktik 
+asit üretimi ü zerinde herhangi bir etki  göstermemiş tir.    
+Tenofovirin, retrovirüsler ve hepadnovirüslere karşı in vitro  antiviral aktivitesi vardır.  
+ 
+HIV -1: HIV-1IIIB’nin doğal tip laboratuvar suşunun %50 inhibisyonu (IC 50) için gereken 
+tenofovir konsantrasyonu, lenfoid hücre serilerinde 1- 6 µmol/l, PBMC’lerdeki primer HIV -1 
+alt tip B  izolatlarına karş ı ise 1.1 µmol/l’dir. Tenofovir ayrıca  HIV–1 alt tipleri A, C, D, E, F, 16 / 26 
+ G ve O’ya ve primer monosit/makrofaj hü crelerinde HIV BaL’a karş ı etkindir. Tenofovir, MT –
+4 hücrelerinde 4.9 µmol/l’lik IC 50 ile HIV -2’ye karş ı ve HepG2 2.2.15 hücrelerinde 1.1 
+µmol/l’lik IC 50 ile hepatit B  virüsüne karş ı in vitro  aktivite gö sterir.   
+Tenofovirin aktivitesi, didanozin direnci (L74V), zalsitabin direnci (T69D) ve multinükleozid 
+ilaç direnci (Q151M kompleksi) mutasyonlarını gösteren rekombinant HIV -1’e karş ı doğal tip 
+IC50’nin iki katı dahilinde kalır. Tenofovi rin HIV –1 sarmallarına ve zidovudinle il işkili 
+mutasyonlara karş ı aktivitesinin, bu direnç mutasyonlarının tipine ve sayısına bağlı olduğu 
+görülmektedir. T215Y  mutasyonu olması halinde, IC 50’nin iki kat arttığı gözlenmiştir. 
+Zidovudinle iliş kili birden çok  mutasyonu (ortalama 3.4) bulunan 10 numunede, IC 50’nin 
+ortalama 3.7 kat arttığı gözlenmiş tir (aralık: 0.8 ila 8.4).  
+T69S çift eklemeli multinükleozid direnç li HIV -1’in tenofovire duyarlılığı azalmış tır (IC 50 
+>10 kat). Tenofovir, K103N veya Y181C mutasyonl arı ile nü kleozid olmayan revers 
+transkri ptaz inhibitö re direnç li HIV -1’e karş ı tam aktivite gö sterir. Hedeflenen farklı viral 
+enzimlerden dolayı proteaz  inhibitörü direnç  mutasyonları na karş ı çapraz direnç  
+beklenmemektedir.  
+Tenofovire duyarlılığı 3 –4 kat azalmış HIV –1 suş ları ve revers tra nskriptazdaki K65R 
+mutasyonu in vitro  olarak be lirlenmiş tir. Revers transkriptazdaki K65R mutasyonu da 
+zalsitabin, didanozin ve  abakavir tarafından seçilebilir ve zalsitabin, didanozin, abakavir ve 
+lamivudine duyarlılığın  azalmasına neden olur (sırasıyla 14, 4, 3 ve 25 kat). K65R 
+mutasyonunu barındıran izolatları bulunan, antiretroviral deneyimine sahip hastalarda 
+tenofovir di soproksil fumarat kullanımından kaçınılmalıdır ( Bkz. Bölüm 4.4 Özel kullanım 
+uyarıları ve önlemler i). 
+ 
+Hepatit B virüsü:  Tenofovirin hepatit B virüsüne karş ı in vitro  antiviral aktivitesi 
+HepG2.2.2.15 hücre dizisinde değerlendirilmiş tir. Tenofovire yönelik EC 50 değerleri 0.14 ila 
+1.5 μmol/l aralığındadır. CC 50 (%50 sitotoksisite konsantrasyonu) değerle ri > 100 μmol/l’dir. 
+Tenofovir difosfat, 0.18 μmol/l Ki (inhibisyon sabiti) değeriyle rekombin ant HBV polimerazı 
+inhibe eder. Nükleozid anti - hepatit B virüsü revers transkriptaz inhibitörleri lamivudin, 
+telbivudin ve entekavir ile tenofivirinin in vitro  ilaç kombi nasyon çalış malarında, ilave an ti- 
+hepatit B virüsü aktivitesi gözlenmiş tir. Tenofovir ve emtrisitabin kombinasyonuyla 
+sinerjistik etkilere hafif katkı gözlenmiş tir. 
+ 17 / 26 
+ HIV -1’deki klinik etkinlik:  Tenofovir disoproksil fumaratın tedavi deneyimine sa hip veya 
+daha  önce tedavi görmemiş  HIV–1 ile enfekte yetiş kinlerdeki etkisi, tedavi deneyimine sahip, 
+HIV-1 ile enfekte yetiş kinlerdeki 48 haftalı k çalışmalarda gösterilmiş tir. 
+GS–99–907 çalış masında, tedavi deneyimine sahip 550 hasta, plasebo veya 245 mg tenofovir  
+disoproksil (fumarat ola rak) ile 24 hafta tedavi edilmiştir. Baş langıçtaki ortalama CD4 hücre 
+sayımı 427 hücre/mm3, başlangıçtaki ortalama plazma HIV –1 RNA düzeyi 3.4 log 10 kopya/ml 
+(hastaların  %78’inin 5,000 kopya/ml’den az viral yükü vardır) ve  önceki HIV tedavisi süresi 
+ortalama 5.4  yıldır. 253 hasta dan alınan HIV izolatlarının baş langıç genotopik analizi, 
+hastalarının %94’ünde  nükleozid revers tra nskriptaz inhibitörleri ile iliş kili HIV –1 direnç 
+mutasyonlarının bulunduğunu, %58’inde proteaz i nhibitörleri ile iliş kili mutasyonlar 
+bulunduğunu ve %48’inde non- nükleozid revers tra nskriptaz inhibitörleri ile iliş kili 
+mutas yonlar bulunduğunu ortaya koymuş tur. 
+24. haftada, log 10 plazma HIV –1 RNA düzeylerindeki baş langıca göre zaman ağırlıklı 
+ortalama  değiş im (DAVG 24), plasebo ve 245 mg tenofovir disoproksil (fumarat olarak) alan 
+kişiler için - 0.03 log 10 kopya/ml ve - 0.61 log 10 kopya/ml’dir (p< 0.0001). M41L veya L210W 
+revers transkriptaz  mutasyonunu içeren, timidin analoğuyla iliş kili 3 veya daha fazla 
+mutasyonu (TAM) bulunan hastalar, 245 mg tenofovir disoproksil (fumarat olarak) tedavisine 
+azalan duyarlılık göstermiş tir. Virolojik cevap, > 10 kat zidovudin fenotipik direncine sahip 
+viral izolatları bulunan hastalarda  önemli ölçüde azalmış tır. CD4 sayı mı için 24. haftada 
+(DAVG 24) baş langıca göre zaman ağırlıklı ortalama değiş imde 245 mg tenofovir disoproksil 
+fumarat lehine istatistiksel olarak anlamlı bir fark  görülmüş tür (245 mg tenofovir disoproksil 
+fumarat için +13 hücre/mm3’e karş ı plasebo için -11 hücre/mm3, p değeri= 0.0008). Tenofovir 
+disoproksil fumarata antiviral cevap 48 hafta boyunca  sürmüş tür (DAVG 48 -0.57 log 10 
+kopya/ml’dir, HIV –1 RNA düzeyi 400 veya 50 kopya/ml’nin altında olan hastaların oranı 
+sırasıyla %41 ve %18’dir). 245 mg tenofovir disoproksil fumarat ile  tedavi edilen sekiz hasta 
+(%2) ilk 48 hafta içinde K65R mutasyonu geliştirmiş tir. 
+GS–99–903 çalı şmasının 144 haftalık, çift -kör, etkin madde kontrollü fazında, antiretroviral 
+tedavi görmemiş , HIV -1 ile enfekte hastalarda lamivudin ve ef avirenz ile kombinasyon 
+halinde kullanıldığında stavudine karş ı 245 mg tenofovir disoproksil fumar atın etkinliği ve 
+güvenilirliği değerlendirilmiştir. Baş langıçtaki ortalama CD4 hücre sayımı, 279 
+hücre/mm3’tür, başlangıçtaki ortalama plazma HIV –1 RNA düzey i 4.91 log 10 kopya/ml’dir, 
+hastaların %19’unda semptomatik HIV–1 enfeksiyonu ve %18’inde AIDS vardır. Hastalar 
+başlangıçtaki HIV –1 RNA ve CD4 sayımına göre gruplandırılmıştır. Hastaların %43’ünün 18 / 26 
+ başlangıçtaki viral yükü > 100,000 kopya/ml’d ir ve %39’unun CD4 hücre sayımı < 200 
+hücre/ml’dir.  
+Tedavi amaçlı analize göre (eksik veriler ve ant iretroviral tedavide (ART) değişiklik 
+başarısızlık olarak düş ünülmektedir), 48 haftalık tedavide HIV –1 RNA düzeyi 400 kopya/ml 
+ve 50 kopya/ml’nin altında olan hastaların oranı 245 mg tenofovir disopr oksil fumarat 
+kolunda sırasıyla %80 ve %76 iken, bu oranlar stavudin kolunda %84 ve %80’dir. 144. 
+haftada, HIV -1 RNA düzeyi 400 kopya/ml ve 50 kopya/ml’nin altında olan hastaların oranı, 
+245 mg tenofovir disoproksil (fumarat ola rak) kolunda sırasıyla %71 ve %68 iken, bu oran 
+stavudin kolunda %64 ve %63’tür.  
+48 haftalık tedavide HIV –1 RNA ve CD4 sayımı nda baş langı ca gö re ortalama değ işim her iki 
+tedavi grubunda da benzer olmuş tur (245 mg tenofovir disoproksil fumarat ve stavudin 
+gruplarında  sırasıyla -3.09 log 10 ve -3.09 log 10 kopya/ml; +169 ve +167 hücre/mm 3). 144 
+haftalık tedavide,  başlangı ca gö re ortalama değ işim her iki tedavi grubunda da benzer 
+kalmış tır (245 mg tenofovir  disoproksil (fumarat olarak) ve stavudin gruplarında sı rasıyla -
+3.07 ve - 3.03 log 10 kopya/ml; +263 ve +283 hücre/mm3). Baş langı çtaki HIV –1 RNA ve CD4 
+sayımından bağımsız olarak, 245 mg  tenofovir disoproksil fumarat tedavisine tutarlı bir cevap 
+elde edildiğ i görülmüştü r. 
+Tenofovir disoproksil fumarat grubundaki  hastalarda, etkin tedav i grubuna göre önemsiz 
+derecede daha y üksek oranda K65R mutasyonu oluşmuştur (%2.7 karş ı %0 .7). K65R 
+mutasyonu bulunan tüm vakalarda efavirenz veya  lamivudin direnci mutasyon oluş umundan 
+önce vardır veya mutasyon oluşumuyla birlikte  ortaya çıkmış tır. 245 mg tenofovir disoproksil  
+(fumarat olarak) kolunda sekiz hastada K65R’yi gösteren HIV vardır, bunlardan 7’si 
+tedavinin ilk  48 haftasında ve sonuncusu 96. haftada meydana gelmiştir. 144. haftaya kadar 
+başka hiçbir K65R mutasyonu gözlenmemiştir. Hem genotipik hem de fenotipik analizlerden, 
+tenofovire karşı direnç gelişimine ilişkin başka yollar olduğuna dair herhangi bir kanıt elde 
+edilmemiş tir. 
+ 
+Kronik hepatit B’deki klinik etkinlik:  Tenofovir disoproksil fum aratın faydasının 
+gösterimin de, önceki tedavinin baş arısız olduğuna dair klinik kanıt bulunan kom panse 
+karaciğer hastalığı olan, HBeAg pozitif ve HBeAg n egatif kronik hepatit B’li yetiş kinlerde ki 
+ve HIV –1 ve hepatit B virüsü ile ko -enfekte hastalardaki histolojik, virolojik, biyokimy asal ve 
+serolojik cevaplar esas alınmaktadır. Bu klinik çalışmalarda, baş langıçta hastalarda aktif viral 
+replikasyon vardır. Tenofovir disoproksil fumarat, lamivudi ne dirençle iliş kili mutasyonları 
+içeren hepatit B virüslü hastalarda anti- hepat it B virüsü  aktivitesi göstermiş tir. 19 / 26 
+ Kompanse karaciğer hastalığı olan hastalarda edinilen deneyim:  Kompanse karaciğer 
+hastalığı olan hastalarda tenofovir disoproksil fumarat i le adefovir dipivoksilin karşılaştırıldığı 
+iki randomize, faz 3 çift kör çalış madan 48 haft a boyunca elde edilen sonuçlar aşağıdaki 
+tabloda sunulmaktadır. GS -US-174-0103 çalış ması HBeAg pozitif 266 (randomize ve tedavi 
+edilmiş) hastada gerçekleş tirilirken, GS -US-174-0102 çalı şması HBeAg negatif ve HBeAg 
+pozitif 375 (randomize ve tedavi edilmiş) hastada gerçekleştirilmiş tir. 
+Bu çalışmaların her ikisinde de, tenofovir disoproksil fumarat, tam cevap birincil etkinlik bitiş 
+noktası açısından (HBV DNA düzeyleri < 400 kopya/ml ve Knodell fibrozunda kötüle şme 
+olmadan  Knodell nekroenflamatuvar  skorunda e n az 2 puanlık iyileş me ol arak 
+tanımlanmaktadır) adefovir dipivoksilden anlamlı oranda üstündür. 245 mg tenofovir 
+disopr oksil (fumarat olarak) tedavisi ayrıca, adefovir d ipivoksil 10 mg tedavisiyle 
+karşılaştırıldığında, HBV DNA düzeyleri < 400 kopya/ml ola n, anlamlı  oranda daha fazla 
+hastayla ilişkilendirilmiştir. Her iki tedavide de, 48.haftada histolojik c evap (Knodell 
+fibrozunda kötüleş me olmadan Knodell nekroenflam atuvar skorunda en az 2 puanlık iyileş me 
+olarak tanımlanmaktadır)  açısından benzer sonuçla r elde edilmiş tir (Bkz. Tablo 1). 
+GS-US–174–0103 ç alışmasında, 48. haftada, tenofovir disoproksil fumarat grubunda adefovir 
+dipivoksil grubuna gö re anlamlı oranda daha fazla hasta normal değ erlerine dönmüş  ALT  
+düzeylerine sahiptir ve HBsAg kaybı na ulaş mıştır (Bkz. Tablo 1).  
+ 
+Tablo 1. Kompanse HBeAg pozitif ve HBeAg negatif hastalarda 48. Haftadaki etkinlik 
+parametreleri  
+ 174-0102 Çalışması  
+(HBeAg Negatif)  174-0103 Çalışması  
+(HBeAg Pozitif)  
+Parametre  245 mg 
+tenofovir disoproksil (fumarat olarak) n=250  10 mg  
+adefovir dipivoksil  
+n= 125  245 mg 
+tenofovir disoproksil (fumarat olarak)  
+n= 176  10 mg 
+adefovir dipivoksil  
+n= 90 
+Tam Cevap  (%)a 71* 49 67* 12 
+Histoloji      
+Histolojik Cevap (%)b 72 69 74 68 
+HBV DNA (%)  
+< 400 kopya/ml  
+(< 69 IU/ml)   
+93*  
+63  
+76*  
+13 
+ALT (%)  
+Normalize ALTc 76 77 68* 54 
+Seroloji (%)  
+HBeAg  
+Kaybı/Serokonversiyon  Geçerli 
+değildir  Geçerli 
+değildir  22/21  18/18  
+HBsAg  0/0 0/0 3*/1 0/0 20 / 26 
+ Kaybı/Serokonversiyon  
+* adefovir dipivoksile karşı p < 0.05, a Tam cevap, HBV DNA düzeyleri < 400 kopya/ml ve 
+Knodell fibrozunda kötüleşme olmadan Knodell nekroenflamatuvar skorunda en az 2 puanlı k 
+iyileşme olarak tanımlanmaktadır, b Knodell fibrozunda kötüleş me ol madan Knodell 
+nekroenflamatuvar skorunda en az 2 puanlı k iyileş me, c ALT normalizasyonunun analizi nde 
+kullanı lan popülasyona yalnızca ALT’ si baş langı çta ULN’ nin üzerinde olan hastalar dahildir.  
+ 
+Tenofovir disoproksil fumarat, adefovir dipivoksil ile karş ılaştırıldığında HBV DNA 
+düzeyleri saptanamayan (< 169 kopya/ml [< 29 IU/ml]; Roche Cobas Taqman HBV  tayininin 
+ölçüm limiti), anlamlı oranda daha fazla hasta ile ilişkilendirilmiş tir (sırasıyla GS -US–174–
+0102 ç alışması ; %91, %56 ve GS -US–174–0103 ç alışması; %69, %9). 
+GS-US–174–0102 ve GS -US–174–0103 ç alışmaları  birleş tirildiğ inde, baş langı çta nükleozid 
+deneyimi olan (n=51) ve daha önce nükleozid tedavisi görmemiş  (n=375) hastalar ile ALT’ si 
+normal (n=21) ve anormal (n=405) olan hastalarda tenofovir disoproksil fumarat tedavisine 
+verilen cevap karş ılaştırılabilir nitelikte olmuştur. Nü kleozid deneyimi olan 51 hastadan 49’ u 
+önceden lamivudinle tedavi edilmiştir. Nü kleozid deneyimi olan hastaların %73’ u ve daha 
+önce nükleozid tedavisi görmemiş  hastaların %69’ u tedavide tam cevaba ulaş mıştır; daha 
+önce nükleozid tedavisi görmemiş  hastaların %90’ı  ve nükleozid deneyimi olan hastaların 
+%88’ i, <400 kopya/ml’ lik HBV DNA supresyonuna ulaş mıştır. Baş langı çta ALT’si normal 
+hastaların tamamı ve baş langı çta ALT’ si anormal hastaların %88’i < 400 kopya/ml’ lik HBV 
+DNA supresyonuna ulaş mıştır. 
+Önceden lamivudin deneyimi bul unan, HIV –1 ve kronik hepatit B  ile ko -enfekte hastalardaki 
+48 haftalı k randomize, ç ift ko r, kontrollü bir 245 mg tenofovir disoproksil (fumarat olarak) 
+çalışması nda (ACTG 5127 Ç alışması), tenofovir koluna  randomize edilen hastalarda 
+başlangı çtaki ortalama serum HBV DNA duzeyleri 9.45 log 10 kopya/ml’dir (n=27). 245 mg 
+tenofovir disoproksil (fumarat olarak) tedavisi, 48 haftalık verilerin bulunduğ u hastalarda 
+(n=18), baş langı ca göre serum HBV DNA’sında -5.74 log 10 kopya/ml’lik ortalama bir 
+değişimle ilişkile ndirilmiş tir. Ayrı ca, 48. haftada hastaların %61’inde ALT normaldir. 
+ 
+Persistan viral replikasyonu bulunan hastalardan edinilen deneyim:  245 mg tenofovir 
+disoproksil (fumarat olarak) veya 245 tenofovir disoproksil (fumarat olarak) artı 200 mg 
+emtrisitabinin etkinliğ i ve gü venilirliğ i, 24 haftadan uzun süreyle 10 mg adefovir dipivoksil 
+alırken , persistan viremisi (HBV DNA ≥ 1000 kopya/ml) olan HBeAg pozi tif ve HBeAg 
+negatif hastalarda randomize, çift kör bir ç alışmada (GS -US-174-0106 Ç alışması) 21 / 26 
+ değerlendirilmektedir. 24. Haftada genel olarak, tenofovir iç eren rejimle tedavi, HBV DNA’sı 
+< 400 kopya/ml [< 69 IU/ml] olan hastaların %77’sinde (46/60) ve HBV DNA’sı 
+saptanamayan (169 kopya/ml’nin altı nda [< 29 IU/ml] Ro che Cobas TaqMan HBV tayininin 
+ölçüm limiti) h astaların %62’ sinde (37/60) sonuç lanmış tır. Ayrıca, 24. Haftada, ALT’si 
+normal olan hastaları n yüzdesi %68’dir (42/62).  
+ Klinik Direnç : 426 HBeAg negatif (GS -US-174-0102, n=250) ve HBeAg pozitif (GS -US-
+174-0103, n=176) hasta, HBV polimerazdaki genotipik de ğişiklikler aç ısından 
+değerlendirilmiştir. Genotipik değerlendirmeler, 48. Haftada HBV DNA’sı  > 400 kopya/ml 
+olan tüm hastalarda yapılmış tır. Tenofovir disoproksil fumarat direnci ile ilişkili hiç bir 
+mutasyon tanımlanmamı ştır. 
+ Çapraz direnç:  Hepatit B vir üsü revers transkriptaz inhibitörleri arası nda çapraz direnç 
+gözlenmiş tir. Hü cre esaslı tayinlerde,  lamivudin ve telbivudine direnç ile ilişkili rtV173L, 
+rtL180M ve rtM204I/V mutasyonlarını  gösteren hepatit B virüsü suş ları, tenofovire karş ı 
+doğal tip virü sün 0.7 ila 3.4 katı arasında değ işen bir duyarlılık göstermiş tir. Enteka vire direnç 
+ile ilişkili rtL180M, rtT184G, rtS202G/I, rtM204V ve rtM250V mutasyonlarını  gösteren 
+hepatit B virüsü suş ları, tenofovire karş ı doğ al tip virüsü n 0.6 ila 6.9 katı arasında  değişen bir 
+duyarlılık göstermiştir. Adefovir ile ilişkili direnç  mutasyonları rtA181V ve rtN236T’ yi 
+gösteren hepatit B virüsü suş ları, tenofovire karş ı doğ al tip virüsü n 2.9 ila 10 katı arasında 
+değişen bir duyarlılık göstermiştir. rtA181T mutasyonunu iç eren virü sler EC
+50 değerleri doğal 
+tip virüsün 1.5 katı değ erleri ile tenofovire duyarlı kalmı ştır. 
+ 
+5.2. Farmakokinetik özellikler  
+Genel özellikler  
+Tenofovir disoproksil fumarat, in vivo olarak hızla tenofovir ve formaldehite dönüşen, suda  
+çözünene bir es ter ön ilaçtır.  
+Tenofovir, hücre içinde tenofovir monofosfata ve aktif bileşen tenofovir difosfata dönüşür.  
+ 
+Emilim  
+HIV ile enfekte hastalara tenofovir disoproksil fumaratın oral uygulanmasından sonra, 
+tenofovir  disoproksil fumarat hızla emilir ve tenofovire dönüş türülür. Maksimum tenofovir 
+konsantrasyonları, aç karnına doz verildikten sonra 1 saat içinde veya yiyecek ile alındığında 
+iki saat içinde gözlenmiş tir. Açlık halindeki hastalarda tenofovir disoproksil fumarattan 22 / 26 
+ tenofovirin oral  biyoyararlanımı ya klaşık %25’tir. Yağ içeriği yüksek yemek, tenofovir 
+EAA’ ında yaklaşık %40 ve Cmaks’ta yaklaşık %14’lük bir artışla oral biyoyararlanımı 
+artırmıştır. Tenofovir disoproksil fumaratın ilk dozundan sonra, serumdaki medyan C maks 213 
+ila 375 ng/ml arasında değiş miştir. 
+ 
+Dağılım  
+İntravenöz uygulama sonrasında, tenofovirin karar lı durum dağılım hacminin yaklaşık 800 
+ml/kg olduğu tahmin edilmektedir. Tenofovir disoproksil fumaratın oral u ygulanmasından 
+sonra tenofovir, böbrek, karaciğer ve bağırsak içeriği gibi birç ok doku ya en yüksek 
+konsantrasyonlarda dağılmaktadır (klinik önces i çalışmalar). 0.01 ila 25 µ g/ml teno fovir 
+konsantrasyonu aralığında tenofovirin, plazma veya serum proteinine in vitro  protein 
+bağlan ması sırasıyla %0.7 ve %7.2’den daha azdır.  
+ 
+Biyotransformasyon  
+İn vitro  çalışmalar, tenofovir disoproksil fumaratın veya tenofovirin CYP450 enzimleri için 
+substratları olmadığını belirlemiş tir. Ayrıca, in vivo  gözlen enden önemli ölçüde daha yüksek 
+konsantrasyonlarda (yaklaş ık 300 kat), tenofovir, ilaç biyotransf ormasyonunda yer alan ana 
+insan CYP450 izoformlarının (CYP3A4, CYP2D6, CYP2C9, CYP2E1 veya CYP1A1/2) 
+herhangi birisinin aracılık ettiği in vitro  ilaç metabolizmasını inhibe etmemiş tir. 
+100 µmol/l konsantrasyondaki tenofovir disoproks il fumaratın, CYP1A1/ 2 substrat 
+metabolizmasında küçük (%6) ancak istatistiksel olarak anlamlı bir azalmanın gözlendiği 
+CYP1A1/2 dış ında, herhangi bir CYP450 izoformu üzerinde etkisi  yoktur. Bu verilere 
+dayanarak, tenofovir disoproksil fumarat ve CYP450 tarafından metabolize  edilen tıbbi 
+ürünleri kapsayan klinik olarak anlamlı etkileş imlerin görülmesi olası değildir.  
+ 
+Eliminasyon  
+Tenofovir hem fil trasyon hem de etkin tübüler taş ıma sistemi ile esasen böbreklerden atılır; 
+intravenöz uygulama sonras ında idrarda atılan dozun yakla şık %70- 80’i değişmemiş  haldedir. 
+Toplam klerensin yaklaşık 230 ml/saat/kg (yaklaş ık 300 ml/dak) olduğu tahmin edilmekt edir. 
+Renal klerensin ise yaklaş ık 160 ml/saat/kg (yaklaş ık 210 ml/dak) olduğu tahmin edilmektedir 
+ve glomerüler f iltrasyon hızından fazl adır. Bu da etkin tübüler sekresyonun tenofovir 
+eliminasyonunun önemli bir parçası olduğunu göstermekt edir. Oral uygulamadan sonra, 
+tenof ovirin terminal yarı ömrü yaklaş ık 12 ila 18 saattir. 
+ 23 / 26 
+ Yaşlılarda:  
+Yaşlılarda (65 yaş üstü) farmakokinetik çalışmalar y apılmamıştır.  
+ 
+Cinsiyet:  
+Kadınlarda tenofovirin farmakokinetiği ile ilgili sınırlı veriler, cinsiyetin önemli bir etkisinin 
+olmadığını göstermektedir.  
+ 
+Çocuklarda ve 18 yaşına kadar olan gençlerde:  
+Çocuklar ve gençlerde (18 yaş altı) farmakoki netik çalışmalar yapılmamıştır.  
+Farklı etnik gruplarda farmakokinetik özel olarak incelenmemiştir.  
+ Böbrek yetmezliği  
+Tenofovirin farmakokinetik parametreleri, baş langı ç kreatinin klerensine (CrCl) gö re 
+tanımlanan  çeşitli derecelerde bö brek yetmezliğ i olan 40 HIV, hepatit B virüsü  ile enfekte 
+olmayan hastaya tek  doz 245 mg tenofovir disoproksil uygulanması ndan sonra belirlenmiş tir 
+(CrCl >80 ml/dak  olduğunda böbrek fonksiyonu normal; CrCl = 50- 79 ml/dak olduğ unda 
+hafif bö brek yetmezliği; CrCl = 30 -49 ml/dak olduğ unda or ta dereceli bö brek yetmezliği ve 
+CrCl = 10 -29 ml/dak olduğunda  ciddi böbrek yetmezliğ i). Bö brek fonksiyonu normal hastalar 
+ile kıyaslandığında, ortalama (%CV)  tenofovir maruziyeti, CrCl > 80 ml/dak olan hastalarda 
+2,185 (%12) ng.saat/ml’den, hafif, orta ve  ciddi böbrek yetmezliği olan hastalarda sırasıyla 
+3,064 (%30) ng.saat/ml, 6,009 (%42) ng.saat/ml ve  15,985 (%45) ng.saat/ml’ ye yükselmiştir. 
+Böbrek yetmezliği olan hastalarda artan doz aralıklı doz  önerilerinin, normal böbrek 
+fonksiyonu olan hastalarla karş ılaştırıldığında böbrek yetmezliği olan  hastalarda daha yü ksek 
+pik plazma konsantrasyonları  ve daha düşük C
+min seviyelerine yol açması  beklenmektedir. 
+Bunun klinik etkileri bilinmemektedir.  
+Hemodiyaliz gerektiren son dönem böbrek hastalığı (ESRD) bulunan hastalarda (CrCl < 10 
+ml/dak),  diyaliz arası nda 48. saatte ulaş ılan tenofovir konsantrasyonları, ortalama C maks 1,032 
+ng/ml ve  ortalama EAA 0-48 saat 42,857 ng.saat/ml’dir. 245 mg tenofovir disoproksil fumarat 
+için doz  aralığının, kreatinin klerensi < 50 m l/dak. olan hastalarda veya son donem böbrek 
+hastalığı bulunan ve diyalize ihtiyaç  duyan hastalarda ayarlanması önerilmektedir ( Bkz. 
+Bölü m 4.2)  
+Kreatinin klerensi <  10ml/dak olan, hemodiyalize girmeyen hastalarda ve peritonal veya diğer  
+diyaliz ş ekillerinin uygulandığı  son dönem böbrek yetmezliği bulunan hastalarda tenofovirin  
+farmakokinetiğ i incelenmemiş tir. 24 / 26 
+ Karaciğer Yetmezliği  
+Child -Pugh -Turcotte (CPT) sınıflandırmasına göre  tanımlanan çeş itli d erecelerde karaciğer 
+yetmezliği bulunan, HIV, hepa tit B virü sü ile enfekte olmamış  hastalara tek doz 245 m g 
+tenofovir disoproksil fumarat uygulanmış tır. Tenofovirin farmakokinetiği, karaciğer 
+yetmezliğ i olan hastalarda önemli oranda değişmemiş tir, bu durum, bu hastalarda hiçbir doz 
+ayarlamasına gerek  olmadığını ort aya koymaktadır. Karaciğer fonksiyonu normal olan 
+hastalarda tenofovirin ortalama (CV %’si) C maks ve EAA 0-∞ değerleri sırasıyla 223 (%34.8) 
+ng/ml ve 2,050 (%50.8) ng.saat/ml’dir; bu değerler, ort a dereceli karaciğer yetmezliği bulunan 
+hastalarda 289 (%46.0 ) ng/ml ve 2,310 (%43.5) ng.saat/ml  ve şiddetli karaciğer yetmezliği 
+olan hastalarda 305 (%24.8) ng/ml ve 2,740 (%44.0) ng.saat/ml’dir.  
+ 
+Hücre içi farmakokinetik  
+Non-prolifere insan periferal kan mononükleer hücrelerinde (PBMC), tenofovir difosfatın 
+yarıla nma ömrü yaklaş ık 50 saat iken, fitohemaglutininlerin uyardığı PBMC’lerde yarılanma 
+ömrü yaklaş ık 10 saat olarak bulunmuş tur. 
+ 
+5.3. Klinik öncesi güvenilirlik verileri 
+Sıçanlar, köpekler ve maymunlarda yapılan klinik öncesi çalı şmalar,  gastrointestinal kan al, 
+böbrek ve kemikte hedef organ etkileri ve serum fosfat konsantrasyonunda bir azalma 
+olduğunu ortaya koymuş tur. Kemik toksisitesi tanısı osteomalazi (maymunlarda ) ve kemik 
+mineral yoğunluğunda azalma (sıçanlar ve köpekler) seklinde koyulmuştur. Sıçan ve  maymun 
+çalışmalarındaki bulgular, fosfatın barsak absorbsiyonunda madde -ilişkili bir azalma ile 
+kemik mineral dansitesinde potansiyel se konder azalma olduğunu göstermiş tir. Bununla 
+birlikte, bu toksisitelerin altında yatan mekanizmalardan hiçbir sonuç çıkarılamamış tır. 
+Sıçanlarda ve tavşanlarda üreme çalı şmaları yapılmış tır. Çiftleş me veya fertilite parametreleri 
+ya da  herhangi bi r gebelik veya fetal parametre ü zerinde etki saptanmamı ştır. Yumuş ak 
+dokularda veya  iskelet dokuları nda hiçbir büyük fetal değ işiklik yoktur. Tenofovir disoproksil 
+fumarat, peri -post natal toksi site ç alışmalarında yavruların hayatta kalma indeksini ve 
+ağırlığını azaltmış tır. 
+Genotoksisite ç alışmalarında, tenofovir disoproksil fumaratın in vivo  fare kemik iliğ i 
+mikronükleus  tayinind e negatif olduğu, ancak S9 metabolik aktivasyon varlığında veya 
+yokluğunda in vitro  L5178Y fare lenfoma hücre tayininde ileri mutasyonları indüklemesi iç in 
+pozitif olduğu gösterilmiş tir. Tenofovir disoproksil fumarat, bir kez S9 karı şımı varlığında 
+(6.2 il a 6.8 kat artı ş), bir kez de S9 karı şımı olmadan, üç çalı şmadan ikisi ndeki Ames testinde 25 / 26 
+ (TA 1535 suş u) pozitiftir.  Tenofovir disoproksil fumarat, primer sı çan hepatositlerindeki 
+planlanmamış  bir in vivo  / in vitro  DNA sentezi testinde de zayı f şekilde poz itiftir.  
+Tenofovir disoproksil fumarat, sı çanlardaki uzun süreli bir oral karsinojenite ç alışmasında 
+herhangi  bir karsinojenik potansiyel göstermemiş tir. Farelerdeki uzun  süreli bir oral 
+karsinojenite ç alışması,  600 mg/kg/gün dozunda gastrointestinal yolda ki y üksek lokal 
+konsantrasyonlarda tenofovir  disoproksil f umaratla iliş kili olduğ u düşünülen duodenal 
+tümö rlerin insidansını n düşük olduğunu göstermiştir. Tümör oluş um mekanizması 
+belirsizken, bu bulguların insanlarla ilgili olması olası  değildir.  
+ 
+6. FARMASÖ TİK ÖZELLİKLER  
+ 
+6.1. Yardımcı Maddelerin Listesi  
+Çekirdek Tablet;  
+Kroskarmelloz sodyum  
+Laktoz monohidrat  
+Mikrokristal s elüloz  
+Prejelatinize n işasta  
+Magnezyum stearat  
+ 
+Film Kaplama materyali  
+Opadry II Beyaz 32K18425 (Titanyum dioksit, Laktoz monohidrat, Tri asetin, Hipromelloz)   
+      
+6.2. Geçimsizlikler  
+Geçerli değildir.  
+ 
+6.3.Raf ömrü  
+24 ay.  
+ 
+6.4. Saklamaya yönelik özel tedbirler  
+25°C’nin altındaki oda sıcaklığında ve ambalajında saklayınız. 
+ 
+6.5. Ambalajın niteliği ve içeriği  
+ABAVİR®  245mg  Film Kaplı Table t, 30 ve 90 tabletlik  PP (Polipropilen) kapaklı  HDP E 
+şişelerde bulunmaktadır.  26 / 26 
+ 6.6. Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler  
+Kullanılmamış olan ürünler ya da atık materyaller “Tıbbi Atıkların Kontrolü Yönetmeliği” ve 
+“Ambalaj  ve Ambalaj Atıkları Kontrolü Yönetmeliği”ne uygun olarak imha edilmelidir. 
+ 
+7. RUHSAT SAHİBİ  
+Aurobindo Pharma Ltd. Hyderabad/HİNDİSTAN adına,  
+Drogsan İlaçları San. ve Tic. A.Ş. 
+Oğuzlar Mah. 1370. sok. 7/3  
+06520 Balgat – ANKARA 
+Tel: 0312 2877410 
+Faks: 0312 2876115  
+ 
+8. RUHSAT NUMARASI  
+2015/467  
+ 
+9. İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ  
+ İlk ruhsat tarihi:  26.05.2015 
+ Ruhsat yenileme tarihi: 
+ 10. KÜB’ÜN YENİLEME TARİHİ  
+ 
+ 

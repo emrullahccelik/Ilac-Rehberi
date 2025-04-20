@@ -1,0 +1,1755 @@
+1  
+KISA ÜRÜN BİLGİSİ  
+ 
+ Bu ilaç ek izlemeye tabidir. Bu  üçgen yeni güvenlilik bilgisinin hızlı olarak 
+belirlenmesini sağlayacaktır. Sağlık mesleği mensuplarının şüpheli advers reaksiyonları TÜFAM’a bildirmeleri beklenmektedir. Bakınız Bölüm 4.8 Advers reaksiyonlar nasıl 
+raporlanır?  
+ 
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI  
+ 
+GAZYVA 1000 mg/40 ml  IV infüzyonluk konsantre çözelti  
+ 
+Steril  
+ 
+2. KALİTATİF VE KANTİTATİF BİLEŞİM  
+ 
+Etkin madde:  
+ 
+Her bir 40 mL konsantre flakon, seyreltilmeden önce 25 mg/mL olan konsantrasyona karşı lık 
+gelen 1000 mg obinutuzumab içerir.  
+ 
+Obinutuzumab, parent eral B-Ly1 fare antikorunun hümanizasyonu yoluyla elde edilen  ve Çin 
+Hamsteri Over hücre hattında rekombinant DNA teknolojisiyle üretilen, IgG1  alt sınıfının Tip 
+II hümanize anti -CD20 monoklonal antikorudur.  
+ 
+Yardımcı maddeler:  
+ 
+Yardımcı maddeler için bölüm 6.1’e bakınız.  
+ 
+3. FARMASÖTİK FORM  
+İnfüzyonluk konsantre çözelti  içeren flakon  
+Berrak, renksiz ile hafif kahverengimsi sıvı  
+4. KLİNİK ÖZELLİKLER  
+ 
+4.1 Terapötik endikasyonlar  
+ 
+Kronik Lenfositik Lösemi (KLL):  
+ 
+GAZYVA, Kronik Lenfositik Lösemi (KLL)  endikasyonunun; 
+ 
+ 
+- 70 yaş ve üzerinde olup CIRS > 6 olan ve/veya kreatinin klerensi 30- 69 ml/dk olan 
+hastalarda klorambusil ile kombine olarak ilk seri tedavisinde endikedir.  
+- 70 yaş altında olup CIRS > 6 ve/veya kreatinin klerensi 30 -69 ml/dk olan ve fludarabinli 
+veya bendamustinli kombinasyon tedavisine uygun olmayan ve önceden rituximab kullanmış 
+olan hastalarda ikinci sıra tedavide endikedir.  
+ 
+Foliküler Lenfoma (FL):  
+ 
+2  GAZYVA, daha önce tedavi edilmemiş ve tedavi endikasyonu olan foliküler lenfoma 
+hastalarının tedavisinde kemoterapi ile kombine edilerek ve ardından en az kısmi yanıt elde edilen hastaların idame tedavisinde endikedir.  
+ GAZYVA, rituximab  ile birlikte kemoterapi uygulanmış foliküler lenfoma olgularında 
+yanıtsızlık veya 6 ay içinde nüks gelişmesi durumunda bendamustin ile kombine kullanımda 
+ve ardından idame amaçlı tek başına endikedir.  
+ 4.2 Pozoloji ve uygulama şekli  
+ 
+GAZYVA, uzman bir hekimin yakın gözetimi altında ve tüm resüsitasyon araçlarının hazır  
+bulunduğu bir ortamda uygulanmalıdır.  
+ Pozoloji /Uygulama sıklığı ve süresi:  
+ Tümör Lizis Sendromu (TLS) için profilaksi ve premedikasyon  
+ 
+Tümör yükü yüksek ve/veya dolaşımda lenfosit sayısı yüksek  (>25 x  10
+9/L) olan ve/veya renal 
+yetmezliği  (KrKl <70 mL/dk) bulunan hastalar , TLS riski altında kabul edilir ve profilaksi 
+almalıdır.  Profilaksi,  standart uygulama doğrultusunda GAZYVA infüzyonuna  başlamadan  (bkz. 
+Bölüm 4.4) 12- 24 saat önce, yeterli hidrasyon ve ürikostatikler (örn. allopurinol ) ya da ürat oksidaz 
+(örn. rasburikaz ) gibi alternatif uygun bir tedavi yi içermelidir . Hastalar, gerekli görüldüğünde bir 
+sonraki her infüzyondan önce yeniden profilaksi almaya devam etmelidirler.  
+ 
+İnfüzyonla İlişkili Reaksiyonlar (IRR’ler) için p rofilaksi ve premedikasyon  
+ İnfüzyonla ilişkili reaksiyonları azaltmaya yönelik premedikasyon, Tablo 1’de açıklanmıştır (ayrıca bkz. Bölüm 4.4). Kortikosteroid premedikasyonu, KLL hastaları için birinci döngü 
+sırasında zorunludur , FL hastaları için de tavsiye edilir  (bkz. Tablo 1). Sonraki infüzyonlar 
+için premedikasyon ve diğer premedikasyon, aşağıda açıklandığı şekilde verilmelidir.  
+ İntravenöz GAZYVA infüzyonları sırasında bir IRR belirtisi olan hipotansiyon  meydana 
+gelebilir.  Bu nedenle, her GAZYVA infüzyonundan 12 saat önce , infüzyon süresince ve 
+uygulamayı takiben bir saat süreyle antihipertansif tedavilere  ara verilmesi düşünülmelidir 
+(bkz. Bölüm 4.4) . 
+ 
+Tablo 1.  KLL ve FL  hastalarında infüzyonla ilişkili reaksiyonların riskini azaltmak için  
+GAZYVA infüzyonundan önce  uygulanması gereken premedikasyon  (bkz. Bölüm 4.4)  
+ 
+Tedavi  
+Döngüsü 
+Günü  Premedikasyon 
+gereken hastalar  Premedikasyon  Uygulama  
+Döngü 1: 
+KLL ve FL 
+için 
+1. Gün    
+ 
+Tüm hastalar İntravenöz kortikosteroid1,4 
+(KLL için zorunludur , FL 
+için tavsiye edilmektedir ) GAZYVA  
+infüzyonundan en az 1 
+saat önce  tamamlanmalı  
+Oral analjezik/antipiretik2 GAZYVA  
+infüzyonundan en az 30 
+dakika önce  Antihistaminik3 
+Döngü 1:    
+Tüm hastalar  
+İntravenöz kortikosteroid1 
+(zorunludur)  GAZYVA  
+infüzyonundan en az 1 
+saat önce  tamamlanmalı  
+Oral analjezik/antipiretik2 
+3  Yalnızca 
+KLL 
+hastaları için  
+2. Gün  Antihistaminik3 GAZYVA  
+infüzyonundan en az 30 
+dakika önce  
+KLL ve FL 
+için takip 
+eden tüm 
+infüzyonla r 
+ 
+ Önceki infüzyon 
+sırasında infüzyon 
+reaksiyonu 
+olmayan hastalar  Oral analjezik/antipiretik2 GAZYVA  
+infüzyonundan en az 30 
+dakika önce  
+Önceki infüzyonla 
+infüzyon 
+reaksiyonu (Evre 1 
+veya 2) olan 
+hastalar  Oral analjezik/antipiretik2 
+Antihistaminik3 
+Önceki infüzyonda 
+Evre 3 infüzyon 
+reaksiyonu olan 
+hastalar VEYA Bir 
+sonraki tedaviden 
+önce lenfosit sayısı 
+>25 x109
+/L olan 
+hastalar   
+İntravenöz kortikosteroid  
+1,4 GAZYVA  
+infüzyonundan en az 1 
+saat önce tamamlanmalı  
+Oral analjezik/antipiretik2 
+Antihistaminik3  
+  
+GAZYVA 
+infüzyonundan en az 30 
+dakika önce  
+ 1100 mg prednison/prednisolon veya 20 mg deksametazon veya 80 mg metilprednisolon. IRR oranlarını 
+azaltmada etkili olmadığından, hidrokortizon kullanılmamalıdır.  
+2 örn. 1000 mg asetaminofen/parasetamol  
+3 örn. 50 mg difenhidramin  
+4Eğer kortikosteroid içeren kemoterapi rejimi, GAZYVA ile aynı günde uygulanırsa, GAZYVA’dan en az 60 
+dakika önce verilmesi halinde, kortikosteroid oral ilaç olarak kullanılabilir, bu durumda premedikasyon olarak 
+ilave bir IV kortikosteroide gerek yoktur.  
+ Doz 
+ 
+Kronik lenfositik lösemi (KLL, klorambusil ile kombinasyon şeklinde
+1) 
+ 
+KLL hastaları için klorambusil ile kombinasyon şeklinde önerilen GAZYVA dozu Tablo 2’de 
+gösterilmektedir.  
+ 
+Döngü 1 
+ 
+Klorambusil ile kombinasyon şeklinde önerilen GAZYVA dozu, 28 günlük ilk tedavi 
+döngüsünün 1. ile 2. günlerinde (veya 1. günün devamında), 8. gününde ve 15. gününde 
+uygulanan 1000 mg’dır.  
+ 
+1 ve 2. günlerdeki infüzyonlar için iki infüzyon torbası ( 1. gün için 100 mg ve 2. gün için 900 
+mg) hazırlanacaktır.  İlk torba  infüzyon hızında değişiklik veya hiçbir kesinti olmaksızın 
+tamamlandığı takdirde , infüzyon süresince uygun zaman, koşullar ve tıbbi gözetim sağlandığı 
+sürece ikinci torba aynı gün uygulanabilir (dozun geciktirilmesine ve tekrar premedikasyona 
+gerek yoktur) . İlk 100 mg sırasında infüzyon hızında herhangi bir değişiklik veya kesinti 
+meydana gelmesi halinde ikinci torba ertesi gün verilmelidir. 
+ 
+Döngü 2 - 6 
+ Klorambusil ile kombinasyon şeklinde önerilen GAZYVA dozu, her bir döngünün 1. gününde 
+uygulanan 1000 mg’dır . 
+4   
+Tablo  2.  KLL hastalarında  her biri 28 gün süren 6 tedavi döngüsü boyunca uygulanması 
+gereken  GAZYVA dozu 
+ 
+Siklus  Tedavi günü GAZYVA  Dozu  
+Döngü 1 1. Gün  100 mg  
+2. Gün  
+(veya 1. günün devamında)  900 mg 
+8. Gün  1000 mg 
+15. Gün  1000 mg 
+Döngü 2-6 1. Gün  1000 mg 
+1Klorambusil dozu hakkında bilgi için bkz. Bölüm 5.1 
+ 
+Uygulama sıklığı ve  süresi 
+ 
+Her biri 28 gün süren altı tedavi döngüsü. 
+ 
+Geciktirilen veya atlanan dozlar  
+ 
+GAZYVA’nın planlanmış bir dozu atlanırsa, mümkün olan en kısa sürede uygulanmalıdır;  
+planlanmış olan bir sonraki doza kadar beklemeyiniz. GAZ YVA için planlanmış tedavi aralığı 
+dozlar arasında korunmalıdır.  
+ 
+Foliküler lenfoma (FL)  
+ 
+GAZYVA’nın FL hastaları için önerilen kemoterapi ile kombinasyon şeklinde önerilen dozu 
+Tablo 3’te gösterilmiştir.  
+ Daha önce tedavi edilmemiş foliküler lenfoma hastaları  
+ 
+İndüksiyon (kemoterapi ile kombinasyon şeklinde
+2)  
+ 
+GAZYVA kemoterapi ile aşağıdaki şekilde uygulanmalıdır:  
+• Bendamustin2 ile kombinasyon şeklinde 28 günlük 6 döngü ya da,  
+• Siklofosfamid, doksorubisin, vinkristin, prednizolon (CHOP) ile kombinasyon halinde  
+21 günlük 6 döngü, ardından yalnızca GAZYVA ile 2 ilave döngü ya da,  
+• Siklofosfamid, vinkristin ve prednizon / prednizolon / metilprednizolon (CVP) ile  
+kombinasyon halinde 21 günlük 8 döngü.  
+ 
+İdame  
+ Kemoterapi (CHOP veya CVP veya bendamustin) ile kombinasyon halinde GAZYVA 
+indüksiyon tedavisinde tam ya da kısmi başarı sağlayan hastal ar, idame tedavisi olarak 1000 
+mg GAZYVA’yı 2 yıl süreyle her 2 ayda bir veya hastalık pro gresyonuna kadar (hangisi daha 
+önce gerçekleşirse) tek ajan (monoterapi) şeklinde almaya devam etmelidirler.  
+ 
+Rituximab  ile birlikte kemoterapi uygulanmış foliküler lenfoma olgularında yanıtsızlık veya 
+6 ay içerisinde nüks gelişmesi durumunda  
+ İndüksiyon (bendamustin ile kombinasyon şeklinde
+2)  
+5   
+GAZYVA, bendamustin2 ile kombinasyon şeklinde 28 günlük 6 döngü şeklinde 
+uygulanmalıdır.  
+ İdame   Bendamustin ile kombinasyon şeklindeki GAZYVA ile indüksiyon tedavisine (örn. ilk 6 tedavi döngüsü) tam veya kısmi yanıt veren veya hastalıkları stabil olan hastalar, tek ajan 
+olarak GAZYVA’yı 1000 mg’lık dozda iki yıl süreyle her 2 ayda bir veya hastalık progresyonuna kadar (hangisi daha önce gerçekleşirse) idame tedavisi olarak almaya devam etmelidir.  
+ 
+Tablo 3.  Foliküler Lenfoma: İndüksiyon tedavisi sırasında uygulanacak GAZYVA dozu 
+ 
+Siklus  Tedavi Günü  GAZYVA Dozu  
+Döngü 1 
+ 1. Gün 1000 mg  
+8. Gün 1000 mg  
+15. Gün 1000 mg  
+Döngü 2 – 6 
+yada 2- 8 
+ 1. Gün 1000 mg  
+İdame  2 yıl süreyle her 2 ayda bir 
+veya  hastalık progresyonuna 
+kadar (hangisi daha önce 
+gerçekleşirse)  1000 mg  
+2 Bendamustin dozu hakkında bilgi için bkz. Bölüm 5.1 
+ 
+Tedavinin süresi  
+ 
+Yaklaşık 6 ay süren indüksiyon tedavisi (bendamustin ile kombine edildiğinde her biri 28 gün 
+süren 6 GAZYVA tedavi döngüsü ya da CHOP veya CVP ile kombine edildiğinde her biri 21 
+gün süren 8 GAZYVA tedavi döngüsü) ve iki yıl süreyle her iki ayda bir veya hastalık 
+progresyonuna kadar (hangisi daha önce gerçekleşirse) uygulanacak idame tedavisini  
+içermektedir.  
+ Geciktirilen veya atlanan dozlar  
+ Planlanan GAZYVA dozu atlandığı takdirde mümkün olan en kısa sürede verilmelidir; doz atlanmamalıdır ya da planlanan bir sonraki doz a kadar  beklenmemelidir. Eğer Döngü1, 8. gün 
+ya da Döngü1, 15. günden önce toksisite meydana gelirse, bu dozlar  toksisite sorunu 
+çözüldükten  sonra verilmelidir. Bu tür örneklerde, sonraki ziyaretlerin tümü ve Döngü2’nin 
+başlangıcı, Döngü1’deki gecikmeye uyumlu olmak için değiştirilecektir.  
+ İdame sırasında, takip eden dozlara ait orijinal dozlama planı sürdürülmelidir.  
+ 
+Tedavi sırasındaki doz değişiklikleri  (tüm endikasyonlar)   
+ 
+GAZYVA dozunun azaltılması önerilmemektedir.  
+ 
+Semptomatik advers olayların (infüzyon reaksiyonları dahil) yönetimi için aşağıdaki paragrafa 
+bakınız (İnfüzyonla İlişkili Reaksiyonların Yönetimi veya B ölüm 4.4).  
+ 
+6  Uygulama şekli  
+ 
+GAZYVA intravenöz kullanı m içindir. Seyreltildikten sonra ö zel bir yolla intravenöz 
+infüzyon şeklinde uygulanmalıdır  (bkz. Bölüm 6.6) . GAZYVA infüzyonları, IV puşe veya 
+bolus şeklinde uygulanmamalıdır.  
+ 
+Uygulamadan önce  GAZYVA ’nın seyreltilmesine ilişkin talimatlar için bkz. Bölüm 6.6.  
+ 
+İnfüzyon hızına ilişkin talimatlar Tablo 4 -6’da gösterilmektedir.  
+ Kronik lenfositik lösemi (KLL ) 
+ 
+Tablo 4.  Kronik Lenfositik Lösemi: İ nfüzyon reaksiyonları/aşırı duyarlılık olmadığı 
+durumda standart infüzyon hızı ve önceki infüzyonla  meydana gelmiş bir IRR olması 
+durumunda tavsiyeler   
+ 
+Siklus  Tedavi Günü İnfüzyon hızı  
+Hastanın tolere ettiği durumda, infüzyon hızı 
+arttırılabilir. İnfüzyon sırasında meydana gelen 
+IRR’lerin yönetimi için “IRR’lerin Yönetimi” 
+kısmına bakınız.  
+Döngü 1 1. Gün  
+(100 mg)  4 saat boyunca 25 mg/saat hızında uygulayın ız. 
+İnfüzyon hızını arttırmayın ız. 
+2. Gün 
+(veya 1. gün ün 
+devamı)  
+(900 mg)  Önceki infüz yon sırasında IRR  meydana 
+gelmemişse 50 mg/saat hızında uygulayınız . 
+İnfüzyon hızı, maksimum hız 400 mg/saat olacak 
+şekilde 30 dakikada bir 50 mg/saat artışlar ıyla 
+yükseltilebilir.  
+Eğer bir hasta bir önceki infüzyonda bir IRR 
+deneyimlemişse, 25 mg / saat hızda uygulamaya 
+başlayınız. İnfüzyon hızı, maksimum hız 400 
+mg/saat olacak şekilde 30 dakikada bir 50 mg/saat 
+artışlarıyla yükseltilebilir.  
+8. Gün  
+(1000 mg)  Son infüzyon hızının 100 mg/saat veya üzerinde 
+olduğu önceki infüzyon sırasında IRR meydana 
+gelmemişse, infüzyonlar 100 mg/saat hızında başlatılabilir ve maksimum 400 mg/saat 
+olacak 
+şekilde 30 dakikada bir 100 mg/saat artışlar ıyla 
+yükseltilebilir.  
+Eğer bir hasta 50 mg/saat hızındaki önceki 
+infüzyonunda bir IRR deneyimlemişse , infüzyon 
+hızı, maksimum hız 400 mg/saat olacak şekilde 30 
+dakikada bir 50 mg/saat artışlarıyla yükseltilebilir.  15. Gün  
+(1000 mg)  
+Döngü 2-6 1. Gün  
+(1000 mg)  
+ 
+Foliküler Lenfoma (FL)  
+ GAZYVA 1. Döngüde standart infüzyon hızında uygulanmalıdır (bkz. Tablo 5). 1. Döngü 
+sırasında Derece ≥3 infüzyonla ilişkili reaksiyonlar (IRR'ler) yaşamayan hastalarda, GAZYVA 2. Döngüden itibaren kısa (yaklaşık 90 dakika) süreli infüzyon (SDI) olarak 
+uygulanabilir (bkz. Tablo 6). 
+ Tablo 5.  Foliküler Lenfoma: Standart infüzyon hızı  ve önceki infüzyonla meydana 
+gelmiş bir IRR olması durumunda tavsiyeler  
+7   
+Siklus  Tedavi Günü  İnfüzyon hızı  
+Hastanın tolere ettiği durumda, infüzyon hızı 
+arttırılabilir. İnfüzyon sırasında meydana gelen 
+IRR’lerin yönetimi için “IRR’lerin Yönetimi” 
+kısmına bakınız.  
+Döngü 1 
+ 
+ 
+ 1. Gün 
+(1000 mg)  Saatte 50 mg olarak uygulayınız. İnfüzyon hızı, 
+maksimum hız 400 mg/saat olacak şekilde 30 
+dakikada bir 50 mg/ saat artışlarla kademeli 
+olarak yükseltilebilir.  
+8. Gün 
+(1000 mg)  Son infüzyon hızının 100 mg/saat veya üzerinde 
+olduğu önceki infüzyon sırasında infüzyonla 
+ilişkili reaksiyon meydana gelmemişse  veya 
+daha önceki infüzyonda E vre 1 IRR 
+görülmüşse , infüzyonlar 100 mg/saat hızında 
+başlatılabilir ve maksimum 400 mg/saat olacak 
+şekilde 30 dakikada bir 100 mg/saat artışlarla 
+yükseltilebilir.   
+ 
+Eğer hasta önceki infüzyonda Evre 2 veya daha 
+yükse k bir IRR deneyimlemişse, 50 mg/ saat 
+hızında uygulayınız. İnfüzyon hızı, maksimum 
+hız 400 mg/saat olacak şekilde 30 dakikada bir 
+50 mg/saat artışlarla kademeli olarak 
+yükseltilebilir.  15. Gün 
+(1000 mg)  
+Döngü 2–6 
+ya da 2- 8 
+ 1. Gün 
+(1000 mg)  
+İdame  2 yıl süreyle her 2 ayda bir  
+veya hastalık progresyonuna  
+kadar (hangisi daha önce  
+gerçekleşirse)   
+ 
+Tablo 6. Foliküler lenfoma: Kısa süreli infüzyon hızı ve önceki infüzyonda IRR oluşması 
+durumunda öneriler  
+ 
+Siklus  Tedavi Günü  İnfüzyon hızı  
+İnfüzyon sırasında meydana gelen IRR’lerin 
+yönetimi için “IRR’lerin Yönetimi” kısmına bakınız.  
+ 
+Döngü 2–6 
+ya da 2- 8 
+ 1. Gün 
+(1000 mg)  Döngü 1 sırasında Derece ≥3 IRR 
+oluşmadıysa: 30 dakika boyunca 100 mg/saat, 
+ardından yaklaşık 60 dakika boyunca 900 
+mg/saat.  
+ 
+Devam eden semptomlarla Derece 1 -2 IRR 
+veya önceki SDI infüzyonu sırasında Derece 3 
+IRR meydana geldiyse, bir sonraki 
+obinutuzumab infüzyonunu standart hızda uygulayın (bkz. Tablo 5).  İdame  2 yıl süreyle her 2 ayda bir  
+veya hastalık 
+progresyonuna  
+kadar (hangisi daha önce  
+gerçekleşirse)  
+ 
+ 
+İnfüzyonla İ lişkili Reaksiyonların Yönetimi (tüm endikasyonlar)   
+ 
+8  İnfüzyon reaksiyonlarının yönetimi; aşağıda belirtildiği gibi GAZY VA tedavisinin geçici 
+olarak kesilmesini, infüzyon hızının azaltılmasını veya tedavinin sonlandırılmasını 
+gerektirebilir (ayrıca bkz. B ölüm 4.4). 
+ 
+• Evre 4 (yaşamsal tehlike): İnfüzyon durdurulmalı ve tedavi kalıcı olarak 
+sonlandırılmalıdır.  
+• Evre 3 (şiddetli): İnfüzyon geçici olarak durdurulmalı ve semptomlar tedavi edilmelidir.  
+Semptomlar kaybolduktan sonra, önceki hızın (infüzyonla ilişkili reaksiyon oluştuğu 
+sırada kullanılan hızın) en fazla yarısı hızın da infüzyon yeniden başlatılabilir ve hastada 
+IRR semptomları oluşmuyorsa, tedavi dozu için uygun artışlarda ve aralıklarda ki infüzyon 
+hızı artışına devam edilebilir (bkz. T ablo 4 ve 5).  Dozu 2 günde  uygulanan KLL hastaları 
+için, 1. günde (Döngü1) infüzyon hızı, 1 saat sonra yeniden 25 mg/s a olarak yükseltilebilir, 
+ancak daha fazla artırılamaz.  Hastada ikinci defa Evre  3 IRR meydana geldiği takdirde 
+infüzyon durdurulmalı ve tedavi kalıcı olarak kesilmelidir.  
+• Evre  1-2 (hafif ile orta): İnfüzyon hızı  azaltılma lı ve semptomlar tedavi edilmelidir.  
+Semptomlar kaybolduktan sonra, infüzyona devam edilebilir ve hastada IRR semptomları 
+oluşmuyorsa, infüzyon hızının artışı tedavi dozu için uygun artışlar la ve aralıklar la 
+sürdürülebilir (bkz. Tablo 4 ve 5).  Dozu 2 güne bölünerek uygulanan KLL hastaları için, 
+1. gün (Döngü1) infüzyon hızı, 1 saat sonra yeniden 25 mg/s a olarak yükseltilebilir, ancak 
+daha fazla artırılamaz.  
+ 
+SDI sırasında meydana gelen İnfüzyonla İlişkili Reaksiyonların  Yönetimi  
+ 
+• Derece 4 (hayatı tehdit eden): İnfüzyon durdurulmalı ve tedavi kalıcı olarak kesilmelidir.  
+• Derece 3 (şiddetli): İnfüzyon geçici olarak durdurulmalı ve semptomlar tedavi edilmelidir. 
+Semptomlar düzeldikten sonra, infüzyon önceki hızın yarısından (IRR'nin meydana geldiği sırada kullanılan hız) ve 400 mg/saat'ten fazla olmayacak şekilde yeniden başlatılabilir.  
+İnfüzyona devam edildikten sonra hasta ikinci bir Derece 3 IRR yaşarsa, infüzyon durdurulmalı ve tedavi kalıcı olarak kesilmelidir. Hasta infüzyonu başka Derece 3 IRR olmadan tamamlayabiliyorsa, bir sonraki infüzyon standart hızdan daha yüksek olmayan bir hızda verilmelidir.  
+• Derece 1 -2 (hafif ila orta): İnfüzyon hızı azaltılmalı ve semptomlar tedavi edilmelidir. 
+Semptomlar düzeldikten sonra infüzyona devam edilebilir ve hasta herhangi bir IRR semptomu yaşamazsa, infüzyon hızı artışı tedavi dozuna uygun artışlarla ve aralıklarl a 
+devam edebilir (bkz. Tablo 5- 6). 
+ 
+Özel popülasyon lara ilişkin ek bilgiler 
+ 
+Böbrek yetmezliği   
+ 
+Hafif ile orta şiddette böbrek yetmezliği (kreatinin klerensi [KrKl ] >30 -89 mL/dakika)  olan 
+hastalarda doz ayarlama sı gere kli değildir (bkz. Bölüm 5.2). Şiddetli böbrek yetmezliği 
+(kreatinin klerensi < 30 mL/dakika) olan ha stalarda GAZYVA’ nın güve nliliği ve etkililiğ i 
+belirlenme mişti r. 
+ 
+Kara ciğer yetmezliği 
+ 
+Karaciğer f onks iyonu bo zulmuş ha stalarda GAZY VA’nın güve nliliğ i ve  etkililiğ i 
+belirlenme mişti r. Spesifik doz önerileri yapılamamaktadır.  
+ 
+Pediyatrik popülasyon 
+ 
+9  Çocuklarda ve 18 yaşın altındaki adolesanlarda  GAZYVA’nın güvenliliğ i ve etkililiğ i 
+belirlenmemişti r. Veri bulunm amaktadır. Güvenlilik ve etkililiğe ilişkin very eksikliği 
+nedeniyle çocuklarda ve 18 yaşın altındaki adolesanlarda GAZYVA’nın kullanılması tavsiye 
+edilmemektedir.  
+ 
+Geriyatrik  popülasyon  
+ 
+Yaşlı hastalarda doz ayarlaması gerekli değildir (bkz. Bölüm 5.2). 
+ 
+4.3 Kontrendikasyonlar  
+ Etkin maddeye veya Bölüm 6.1’de listelenen yardımcı maddelerden herhangi birine karşı 
+bilinen aşırı duyarlılığı  olan hastalarda kontrendikedir.  
+ 
+4.4  Özel kullanım uyarıları ve önlemleri  
+ 
+Daha önce tedavi uygulanmış foliküler lenfomalı hastalarda bir alt grup analizine dayanarak, FLIPI düşük riskli (0 -1) hastalardaki etki lilik verileri şu anda yetersizdir (bkz. Bölüm 5.1). Bu 
+hastalar için bir tedavi belirlerken, G AZYVA ile birlikte kemoterapi uygulamasının genel 
+güvenli lik profili ve hastaya özgü durumu dikkatle değerlendirilmelidir.  
+ 
+UYARILAR  
+ İnfüzyonla ilişkili reaksiyonlar (IRR)  
+ GAZYVA alan hastalarda en sık gözlenen advers ilaç reaksiyonları (AİR’ler), 
+ağırlıklı olarak ilk 1000 mg’nin infüzyonu sırasında meydana gelen IRR’ler olmuştur. Hastaların büyük bölümünde IRR’ler, hafif ile orta şiddette olmuş ve ilk infüzyonun yavaşlatılmasıyla veya geçici olarak durdurulmasıyla kontrol altına 
+alınabilmiştir ancak semptomatik tedavi gerektiren şiddetli ve yaşamsal tehlike teşkil eden IRR’ler de bildirilmiştir.  
+ Evre 4 infüzyon reaksiyonu için infüzyon durdurulmalı ve süresiz olarak 
+sonlandırılmalıdır. Evre  3 infüzyon ilişkili reaksiyonlar için infüzyon geçici olarak 
+kesilmeli ve semptomların tedavisi için uygun ilaç uygulanmalıdır.  
+ Aşağıdaki durumlarda, hastalara başka GAZYVA infüzyo nu verilmemelidir:  
+• Akut hayatı tehdit eden solunum semptomları,  
+• Evre  4 (hayatı tehdit eden) infüzyon reaksiyonları veya  
+• Evre  3 (uzun süreli/tekrarlayan) infüzyon reaksiyonlarının ikinci kez 
+oluşması (ilk infüzyonun sürdürülmesinin ardından veya takip eden infüzyon sırasında).  
+ Tümör Lizis Sendromu (TLS)  
+ GAZYVA ile TLS  bildirilmiştir. Risk altında olduğu düşünülen tüm hastalar, 
+tedavinin ilk günlerinde, özellikle böbrek fonksiyonları, potasyum ve ürik asit 
+düzeyleri açısından dikkatle izlenmelidir. Standart uygulamaya yönelik tüm ek kılavuzlar takip edilmelidir. TLS’nin  tedavisi için elektrolit anormallikleri 
+düzeltilmeli, böbrek fonksiyonu ve sıvı dengesi izlenmeli ve gerektiğinde diyaliz dahil, destekleyici bakım uygulanmalıdır.  
+ 
+10  Progresif Multifokal Lökoensefalopati (PML)  
+ 
+GAZYVA ile tedavi uygulanan hastalarda PML  vakaları bildirilmiştir (bkz . Bölüm 
+4.4 & Bölüm 4.8).  
+  Hepatit B Virüs (HBV) Reaktivasyonu  
+ 
+GAZYVA da dahil olmak üzere Anti -CD20 antikorlarıyla tedavi edilen hastalarda 
+bazı durumlarda fulminan hepatit, hepatik yetmezlik ve ölümle sonuçlanan HBV  
+reaktivasyonu meydana gelebilir (bkz. Bölüm 4.8). GAZYVA ile tedaviye başlanmadan önce tüm hastalarda Hepatit B virüs taraması yapılmalıdır. Aktif 
+hepatit B hastalığı olan hastalar GAZYVA ile tedavi edilmemelidir.  
+ 
+İnfüzyonla ilişkili reaksiyonlar (IRR)  
+ GAZ YVA alan hastalarda en sık gözlenen advers ilaç reaksiyonları (A İR’ler), ağırlıklı olarak 
+ilk 1000 mg’nin infüzyonu sırasında meydana gelen IRR’ler olmuştur. İnfüzyonla ilişkili 
+reaksiyonlar, aynı zamanda GAZYVA ile tedavi edilen hastalarda da bildirilen sitokin salınım 
+sendromuyla da ilişkili olabilir. IRR’lerin önlenmesi için Bölüm 4.2’de açıklanan önlemlerin 
+(yeterli kortikosteroid, oral analjezik /anti-histaminik, ilk infüzyon sabahında antihipertansif 
+ilacın atlanması ve 2 gün süreyle verilen 1. Döngü1. gün dozu) birlikte uygulandığı KLL 
+hastalar ında tüm Evre’ lerdeki IRR’lerde azalma gözlenmiştir. Evre 3-4 IRR oranları (görece 
+az sayıda hastayı temel alan) , hafifletici önlemler alın madan  önce ve alındıktan sonra 
+benzerdir. IRR’lerin azaltılmasına yönelik hafifletici önlemler izlenmelidir (bkz. Bölüm 4.2). 
+İnfüzyona bağlı semptomların insidansı  ve şidde ti, ilk 1000 mg’nin infüzyonunu takiben önemli 
+ölçüde azalmış ve hastaların birçoğu nda, takip eden GAZYVA i nfüzyonları sırasında IRR 
+meydana gelmemiştir (bkz. Bölüm 4.8). 
+ Hastaların büyük bölümünde IRR’ler, endikasyondan bağımsız olarak hafif il e orta şiddette 
+olmuş ve ilk infüzyonun yavaşlatılmasıyla veya geçici olarak durdurulmasıyla kontrol altına alınabilmiştir ancak semptomatik tedavi gerektiren şiddetli ve yaşamsal tehlike teşkil eden IRR’ler de bildirilmiştir. IRR’ler immünoglobülin E (IgE)  aracılı alerjik reaksiyonlardan (örn. 
+anafilaksi) klinik olarak ayırt edilemeyebilir. Tümör yükü yüksek ve/veya KLL’de 
+dolaşımdaki lenfosit sayısı yüksek (>25 x 10
+9/L) olan hastalar şiddetli IRR’ler açısından 
+yüksek risk altında olabilir. Renal yetmezliği bulunan hastalar (KrKl <50 mL/dk) ve  hem 
+Kümülatif Hastalık Derecelendirme Ölçeği (CIRS) >6 hem de KrKl <70 mL/dk olan hastalar, 
+şiddetli IRR’ler de dahil olmak üzere daha yüksek IRR riski altındadır (bkz. Bölüm 4.8). 
+IRR’lerin yöne timi için “4.2 Pozoloji ve uygulama şekli”  kısmına bakınız.  
+ 
+ 
+Aşağıdaki durumlarda, hastalara başka  GAZYVA infüzyonu verilmemelidir:  
+• Akut hayatı tehdit eden solunum semptomları,  
+• Evre  4 (hayatı tehdit eden) infüzyon reaksiyonları veya  
+• Evre  3  (uzun süreli/tekrarlayan) infüzyon reaksiyonlarının ikinci kez oluşması (ilk 
+infüzyonun sürdürülmesinin ardından veya takip eden  infüzyon sırasında). 
+ 
+Önceden kardiyak veya pulmoner hastalıkları bulunan hastalar, infüzyon boyunca ve infüzyon 
+sonrası dönemde dikkatle izlenmelidir. GAZYVA intravenöz infüzyonları sırasında hipotansiyon oluşabilir. Bu nedenle, her GAZYVA infüzyonundan önce 12 saat boyunca ve 
+infüzyon sırasında ve uygulamanın ardından ilk saat boyunca antihipertansif tedavilerin durdurulması düşünülmelidir. Hipertansif kriz açısından akut risk altındaki  hastalar, 
+11  antihipertansif ilaçlarının durdurulmasına ilişkin yararlar ve riskler açısından 
+değerlendirilmelidir.  
+ 
+Anafilaksi dahil aşırı duyarlılık reaksiyonları  
+ 
+GAZ YVA ile tedavi uygulanan hastalarda  ani (örn. anafilaksi ) ve gecikmeli (örn. serum 
+bulantısı) aşırı duyarlılık reaksiyonları bildirilmiştir. Aşırı duyarlılığın  IRR’ lerden  ayırt 
+edilmesi güç olabilir.  Aşırı duyarlılık belirtileri önceki maruziyetten sonra ve çok nadiren ilk 
+infüzyonla ortaya çıkabilir. İnfüzyon sırasında veya sonrasında aşırı duyarlılık reaksiyonundan şüpheleniliyorsa, infüzyon durdurulmalı ve tedavi süresiz olarak 
+sonlandırılmalıdır. Obinutuzumaba karşı bilinen aşırı duyarlılığı olan hastalara tedavi 
+uygulanmamalıdır (bkz. Bölüm 4.3).  
+Tümör lizis sendromu (TLS)  
+ 
+GAZ YVA  ile TLS bildirilmiştir. TLS açısından risk altında olduğu düşünülen hastalara (örn. 
+tümör yükü yüksek olan ve/veya dolaşımdaki lenfosit sayısı yüksek olan [>25 x 109/L] 
+ve/veya böbrek yetmezliği  [KrKl <70 mL/dk] olan hastalara), profilaksi uygulanmalıdır. 
+Profilakside , standart uygulama doğrultusunda GAZYVA infüzyonundan 12- 24 saat önce 
+başlatılmak üzere yeterli hidrasyon sağlanarak ve ürikostatiklerin  (örn. allopurinol) veya ürat 
+oksidat (örn.  rasburikaz) gibi uygun bir alternatif tedavi uygulanmalıdır (bkz. Bölüm 4.2). 
+Risk altında olduğu düşünülen tüm hastalar , tedavinin ilk günlerinde, özellikle böbrek 
+fonksiyonları, potasyum ve ürik asit düzeyleri açısından  dikkatle izlenmeli dir. Standart 
+uygulamaya yönelik tüm ek kılavuzlar takip edilmelidir. TLS’nin tedavisi için elektrolit 
+anormallikleri düzeltilmeli, böbrek fonksiyonu ve sıvı dengesi izlenmeli ve gerektiğinde 
+diyaliz dahil, destekleyici bakım uygulanmalıdır.  
+ 
+Nötropeni  
+ 
+GAZ YVA tedavisi sırasında febril nötropeni dahil şiddetli ve yaşamı tehdit eden nötropeni 
+bildirilmiştir. Nötropeni oluşan hastalar, bu durum ortadan kalkana kadar düzenli laboratuvar 
+testleriyle yakından izlenmelidir. Tedavi gerektiğinde, yerel kılavuzlara uygun şekilde uygulanmalı ve granülosit  koloni uyarıcı faktörlerin (G -CSF) uygulanması düşünülmelidir. Eş 
+zamanlı enfeksiyon belirtileri, uygun şekilde tedavi edilmelidir. Şiddetli veya yaşamı tehdit 
+eden nötropeni vakalarında dozun geciktirilmesi düşünülmelidir. Şiddetli ve 1 hafta dan uzun 
+süren nötropenisi olan hastalara Evre  1 veya 2 düzelme sağlanıncaya kadar tedavi süresince 
+antimikrobiyal profilaksi verilmesi şiddetle önerilir. Antiviral ve antifungal profilaksi de 
+düşünülmelidir  (bkz. Bölüm 4.2) . Geç başlangıçlı nötropeni (tedavinin sonlanmasından 28 gün 
+sonra oluşan) veya uzun süreli nötropeni de (tedavinin tamamlandıktan/sonlandırıldıktan sonra 28 günden fazla süren) bildirilmiştir. Renal yetmezliği ( KrKl < 50 mL/dk)  olan hastalar , daha 
+yüksek nötropeni riski altındadır (bkz. Bölüm 4.8) .  
+ 
+Trombositopeni  
+ GAZ YVA tedavisi sırasında akut trombositopeni (infüzyondan sonra 24 saat  içinde oluşan) 
+dahil , şiddetli ve yaşamı tehdit eden  trombositopeni gözlenmiştir.  Renal yetmezliği (KrKl < 
+50 mL/dk) olan hastalar  daha yüksek trombositopeni riski altındadır (bkz. Bölüm 4.8) . 
+GAZYVA ile tedavi edilen hastalarda Döngü1’de ölümle sonuçlanan hemoraji vakaları da 
+bildirilmiştir . Trombositopeni ve hemoraji vakaları arasında  kesin bir ilişki kurulmamıştır.  
+ Hastalar, özellikle de birinci döngü sırasında trombositopeni için yakından izlenmeli, durum 
+ortadan kalkıncaya kadar laboratuvar testleri yapılmalı ve şiddetli, yaşamı tehdit eden 
+12  trombositopeni durumunda dozun geciktirilmesi düşünülmelidir. Kurumsal uygulamaya göre 
+kan ürünlerinin transfüzyonu (yani trombosit transfüzyonu), tedavi uygulayan hekimin 
+kararına bağlıdır.  Özellikle birinci döngü sırasında platelet inhibitörleri ve antikoagülanlar 
+gibi trombositopeni ile ilişkili olayları kötüleştirme olasılığı bulunan  herhangi bir  eşzamanlı 
+terapi nin kullanımı da göz önünde bulundurulmalıdır.  
+ 
+Dissemine intravasküler koagülasyon (yaygın damar içi pıhtılaşma) dahil pıhtılaşma 
+bozuklukları   
+ 
+Ölümcül olayları içeren dissemine intravasküler koagülasyon (DİK), klinik çalışmalarda ve GAZYVA alan hastalarda pazarlama sonrası gözetimde rapor edilmiştir. Vakaların çoğu, 
+trombositlerde ve laboratuvar pıhtılaşma parametrelerinde subklinik (asemptomatik) değişiklikler ile ilk infüzyondan sonraki 1- 2 gün içinde meydana gelen ve genellikle bir ila iki 
+hafta içinde ortaya çıkan sponta n iyileşme ile ilacın kesilmesini veya özel müdahale 
+gerektirmeyen, belirgin olmayan DİK içermiştir. Bazı vakalarda, olaylar IRR'ler ve/veya TLS ile ilişkilendirilmiştir. DİK için hiçbir spesifik temel risk faktörü tanımlanmamıştır. Belirgin olmayan DİK olduğundan şüphelenilen hastalar, trombositler ve belirgin DİK belirti ve semptomları için klinik gözlem dahil olmak üzere pıhtılaşma parametreleri ile yakından izlenmelidir. Belirgin DİK şüphesinin ilk başlangıcında GAZYVA kesilmeli ve uygun tedavi başlatılmalıdır.  
+ 
+Önceden var olan kalp hastalıklarının kötüleşmesi  
+ Altta yatan kalp hastalığı olan hastalarda , GAZ YVA tedavisi uygulandığında atriyal 
+fibrilasyon ve taşiaritmi gibi aritmiler, angina pektoris, akut koroner sendrom, miyokard infarktüsü ve kalp yetmezliği oluşmuştur (bkz. Bölüm 4.8). Bu olaylar infüzyon la ilişkili 
+reaksiyonun  bir parçası olabilir ve ölüme yol açabilir. Bu nedenle kalp hastalığı öyküsü olan 
+hastalar yakından izlenmelidir. Ayrıca bu hastalar, potansiyel aşırı sıvı yüklenmesini 
+önlemek için dikkatli şekilde hidrate edilmelidir.  
+ 
+Enfeksiyonlar  
+ GAZ YVA, aktif enfeksiyon varlığında uygulanmamalıdır ve tekrarlayan veya kronik 
+enfeksiyon öyküsü olan hastalarda GAZY VA kullanılması düşünülüyorsa dikkatli 
+olunmalıdır. GAZ YVA  tedavisi sırasında ve tedavinin tamamlanması ardından ciddi  
+bakteriyel, fungal ve yeni veya reakti f viral enfeksiyonlar oluşabilir.  Ölümle sonuçlanan 
+enfeksiyonlar bildirilmiştir.   
+ CIRS >6 ve KrKl <70 mL/dk olan hastalar, şiddetli enfeksiyonlar da dahil olmak üzere daha 
+yüksek enfeksiyon riski altındadır (bkz. Bölüm 4.8) . Takip dahil, foliküler lenfoma 
+çalışmalarının her fazında yüksek enfeksiyon insidansı görülmüştür. Takip fazı sırasında indüksiyon fazında GAZYVA ile birlikte bendamustin tedavisi alan hastalarda Evre 3- 5 
+enfeksiyonları daha fazla görülmüştür. 
+ 
+Hepatit B virüs (HBV) reaktivasyonu  
+ 
+GAZYVA da dahil olmak üzere Anti -CD20 antikorlarıyla tedavi edilen hastalarda  bazı 
+durumlarda fulminan hepatit, hepatik yetmezlik ve ölümle sonuçlanan HBV reaktivasyonu 
+meydana gelebilir (bkz. Bölüm 4.8). GAZYVA ile tedaviye başlanmadan önce tüm hastalar da 
+Hepatit B virüs taraması yapılmalıdır .  
+ Tarama, en azından hepatit B yüzey antijen (HBsAg) durumu ve hepatit B çekirdek antikor 
+(HBcAb) durumunu içermelidir. Bunlar, yerel kılavuzlara uygun olarak diğer uygun 
+13  belirteçlerle tamamlanabilir. Aktif hepatit B hastalığı olan hastalar GAZYVA ile tedavi 
+edilmemelidir. Pozitif hepatit B  serolojisi olan hastalar, tedaviye başlanmadan önce bir 
+karaciğer hastalıkları uzmanıyla görüşmeli ve hepatit reaktivasyonunu önlemek amacıyla 
+yerel tıbbi standartlara uy ularak izlenmeli ve kontrol altın da tutulmalıdır . 
+ 
+Progresif multifokal lökoensefalopati (PML)  
+ GAZ YVA ile tedavi uygulanan hastalarda PML  vakaları bildirilmiştir (bkz. Bölüm 4.8). 
+Yeni başlamış veya önceden var olan nörolojik belirtiler görülen hastalarda PML tanısı 
+dikkate alınmalıdır. PML semptomları spesifik değildir ve beynin etkilenen bölgesine göre 
+farklılık gösterebilir. Kortikospinal kanal bulguları olan motor semptomlar (örn. kas zayıflığı, paraliz ve duyusal bozukluklar), duyusal anormallikler, serebellar semptomlar ve görme alanı defektleri yaygındır. “Kortikal” kabul edilen bazı belirtiler/semptomlar (örn. afazi veya görsel -uzaysal disoryantasyon) oluşabilir. PML’nin değerlendirilmesi bir nörolog 
+ile konsültasyonu, beyin manyetik rezonans görüntülemeyi (MRG) ve lomber ponksiyonu (John Cunningham viral DNA için beyin omurilik sıvısı testi) içerir fakat bunlarla sınırlı 
+değildir. GAZYVA tedavisi, olası PML incelemesi sırasında durdurulmalıdır ve PML’nin 
+doğrulanması halinde süresiz olarak sonlandırılmalıdır. Ayrıca eş zamanlı kemoterapinin veya immünosupre sif tedavinin sonlandırılması veya azaltılması dikkate alınmalıdır. Hasta, 
+PML’nin değerlendirilmesi ve tedavisi için bir nörologa sevk edilmelidir.  
+ 
+İmmünizasyon  
+ GAZ YVA  tedavisi ardından canlı veya atenüe viral aşılarla immünizasyonun güvenliliği 
+incelenmemiştir ve tedavi sırasında ve B -hücre geri kazanımı sağlanana kadar canlı virüs 
+aşılarıyla aşılama önerilmemektedir.  
+ Anne karnında obinutuzumab maruziyeti ve bebeklerin  canlı virüs aşılarıyla aşılanması  
+ Gebelik sırasında GAZYVA’ya  maruz  kalan annelerin bebekler inde B hücre deplesyonu  
+meydana gelme potansiyelinden dolayı bebekler  B hücre deplesyonu açısından izlenmeli ve 
+canlı virüs aşılarıyla aşılamalar, bebeğin B hücre sayısı nın geri kazanımı sağlanana kadar 
+ertelenmelidir (bkz. Bölüm 4.6).  Aşının güvenliliği ve zamanlaması için bebeğin hekimiyle 
+görüşülmelidir (bkz. Bölüm 4.6). 
+ 
+İzlenebilirlik  
+ 
+Biyolojik tıbbi ürünlerin izlenebilirliğini arttırmak için uygulanan ürünün ticari adı ve seri 
+numarası hastanın dosyasına açık şekilde kaydedilmelidir (veya belirtilmelidir).  
+ 
+4.5 Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri  
+ 
+Bendamustin, CHOP (siklofosfamit, doksorubisin, vinkristin ve prednizolon), FC (fludarabin, siklofosfamit) ve klorambusil ile birlikte GAZYVA kullanımı için sınırlı sayıda ilaç etkileşim alt çalışması yapılmasına karşın, resmi ilaç etkileşim çalışmaları gerçekleştirilmemiştir.  
+ Diğer eşzamanlı kullanılan tıbbi ürünlerle  etkileşim riski göz ardı edilemez.  
+ 
+Farmakokinetik etkileşimler  
+ Obinutuzumab, sitokrom P450 (CYP450), üridin difosfat glukuroniltransferaz (UGT) enzimleri ve P -glikoprotein gibi taşıyıcıların substratı, inhibitörü veya indükleyicisi değildir. 
+14  Bu nedenle, bu enzim sistemleri tarafından metabolize edildiği bilinen tıbbi ürünlerle  
+farmakokinetik etkileşim beklenmemektedir.  
+ 
+GAZYVA’nın bendamustin, FC, klorambusil veya CHOP’nin tekli bileşenleri yle eşzamanlı 
+kullanımı, bu ilaçların farmakokinetiği üzerinde hiçbir etki göstermemiştir. Ayrıca bendamustin, FC, klorambusil veya CHOP’un, GAZYVA ’nın farmakokinetiği üzerine 
+belirgin bir etkisi olmamıştır.  
+ 
+Farmakodinamik etkileşimler:  
+ Obinutuzumabın immunosupresif etkisinden dolayı, tedavi sırasında ve B hücresi geri kazanımına kadar canlı virüs aşıları ile aşılanma tavsiye edilmemektedir (bkz. Bölüm 4.4).   Obinutuzumabın klorambusil veya bendamustin ile kombinasyonu, nötropeniyi arttırabilir 
+(bkz. Bölüm 4.4).  Özel popülasyonlara ilişkin ek bilgiler  
+ Herhangi bir etkileşim çalışması yapılmamıştır.  
+ Pediyatrik popülasyon  Herhangi bir etkileşim çalışması yapılmamıştır.  
+ 4.6      Gebelik ve laktasyon  
+ Genel tavsiye 
+ Gebe lik kategorisi: C  
+ Çocuk doğurma potan siyeli bulunan kad ınlar/Doğum kontrolü (Kontrasepsiyon) 
+ 
+Çocuk doğ urma potansiyeli bulunan kadınlar , GAZYVA  tedavisi sırasında ve tedavi  
+bitiminden  sonra ki 18 ay  boyunca   etkili bir  doğum kontrol yöntem i kullanmalıdır.  
+ 
+Gebelik dönemi  
+ 
+Hayvanlar üzerinde yapılan çalışmalar, gebelik ve – veya embriyonal / fetal gelişim ve – veya 
+doğum ve – veya doğum sonrası gelişim üzerindeki etkiler bakımından yetersizdir (bkz. 
+Bölüm 5.3). İnsanlara yönelik potansiyel risk bilinmemektedir. GAZYVA gerekli olmadıkça;  
+olası yararı, potansiyel riski  aşmadı ğı sürece, gebe lik döneminde kullanılmamalıdır.  
+ Sinomolgus maymunlarda yapılan bir üreme çalışması, embriyofetal toksisite veya teratojenik etkilere ilişkin kanıt göstermemiş, ancak yavrularda B lenfositlerin tam deplesyonuyla 
+sonuçlanmıştır.  
+ 
+B-hücre sayıları yavrularda normal düzeylere dönmüş ve immünolojik fonksiyon doğumdan 
+sonra 6 ay içinde geri kazanılmıştır. Yavrulardaki serum obinutuzumab konsantrasyonları, annelerde doğumdan sonra 28. gündeki konsantrasyonlarla aynıdır. Aynı gün içerisi nde sütte 
+bulunan konsantrasyonlar çok düşük olup, obinutuzumabın plasentaya geçtiğine işaret 
+etmektedir  (bkz. Bölüm 5.3). Gebe kadınlarda obinutuzumab kullanımına ilişkin veri yoktur.  
+ 
+15  Gebelik sırasında maruz kalma durumunda bebeklerde ürünün farmakolojik özelliklerinden 
+ötürü B hücre deplesyonu beklenebilir. Gebelik sırasında GAZYVA’ya maruz kalan annelerin 
+bebeklerinde canlı aşılarla aşılamanın, bebeğin B hücre düzeyleri normal aralığa ulaşıncaya 
+kadar ertelenmesi düşünülmelidir (bkz. Bölüm 4.4) . 
+ 
+Laktasyon dönemi  
+ 
+Hayvanlar üzerinde yapılan çalışmalar, obinutuzumabın anne sütüne geçtiğini göstermiştir 
+(bkz. Bölüm 5.3).  
+İnsan immunoglobülin G’nin ( IgG) anne sütüne geçmesi ve emilim potansiyelinin ve bebeğe 
+zararının bilinmemesi nedeniyle, kadınlara  GAZY VA tedavisi sırasında ve son GAZYVA 
+dozundan sonra 18 ay boyunca emzirmemeleri önerilmelidir. 
+ 
+Üreme yeteneği / Fertilite  
+ 
+Hayvanlarda GAZYVA’nın fertilite üzerindeki etkisini değerlendirmek için spesifik 
+çalışmalar yapılmamıştır. Sinomolgus maymunları nda yapılan  tekrar lı doz toksisite 
+çalışmalarında erkek ve dişi üreme organları üzerinde advers etki gözlenmemiştir (bkz. Bölüm 
+5.3).  4.7  Araç ve makine kullanımı üzerindeki etkiler  
+ GAZYVA’nın , araç ve makine kullanımı üzerinde  etkisi yoktur veya göz ardı edilebilir. İlk 
+GAZYVA infüzyonunda IRR’ler çok yaygındır ve infüzyona bağlı semptomlarla karşılaşan 
+hastalar a, semptomlar ortadan kalkana kadar araç veya makine kullanmamaları önerilmelidir.  
+ 
+4.8  İstenmeyen etkiler  
+ 
+Güvenlilik Profilinin Özeti  
+ 
+Klinik çalışmalardan  advers ilaç reaksiyonları (AİR’ler) üç pivotal klinik çalışmada FL dahil 
+indolent Hodgkin dışı lenfomaya (iNHL) yönelik indüksiyon, idame  ve takip esnasında ve 
+KLL’ye yönelik tedavi ve takip esnasında tespit edilmiştir:  
+• BO21004/CLL11 (N=781):  Daha önce tedavi edilmemiş KLL’si olan hastalar  
+• BO21223/GALLIUM (N=1390):  Daha önce tedavi edilmemiş iNHL’si olan hastalar 
+(hastaların %86’sında FL olduğu görülmüştür)  
+• GAO4753g/GADOLIN (N= 409): Rituximab  veya rituximab  içeren bir rejimle tedavi 
+esnasında veya tedaviden sonraki 6 ayda yanıt vermeyen veya progresyon gösteren iNHL’li hastalar (çalışmadaki hastaların %81’i  FL hastasıydı ). 
+ 
+ Bu çalışmalarda GAZYVA  KLL için klorambusil ile kombinasyon halinde ve iNHL için 
+bendamustin, CHOP veya CVP ile kombinasyon halinde ve ardından uygulanan GAZYVA idame tedavisi olarak incelenmiştir.  BO21223/GALLIUM and GAO4753g/GADOLIN 
+çalışmalarına FL dahil iNHL’si olan hastalar alınmıştır. Dolayısıyla, en kapsamlı güvenlilik bilgisini sağlamak üzere bütün çalışma popülasyonu (iNHL popülasyonu) üzerinde aşağıda belirtilen AİR’lere yönelik analiz gerç ekleştirilmiştir.  
+ Tablo 7’de pivotal çalışmalarda n (BO21004/CLL11, BO21223/GALLIUM, 
+GAO4753g/GADOLIN) elde edilenler dahil olmak üzere aşağıdakiler üzerinde yapılan en az 
+bir pivotal çalışmadaki ilgili karşılaştırma kollarına kıyasla daha yüksek insidansta (≥%2 oranında fark) gerçekleşen tüm AİR’ler özetlenmiştir:  
+16  • Tek başına klorambusil veya rituximab  + klorambusil alanlara kıyasla GAZYVA + 
+klorambusil alan K LL’li hastalar (çalışma BO21004/CLL11) 
+• Daha önce tedavi uygulanmamış iNHL hastalarında GAZYVA + kemoterapi  
+(bendamustin, CHOP, CVP) uygulanmasını takiben yanıt alınan hastalarda GAZYVA 
+idamesinin uygulanmasına karşı rituximab  + kemoterapi ve sonrasında yanıt alınan hastalarda 
+rituximab  idamesinin uygulanması (çalışma BO21223/GALLIUM)  
+• Tek başına bendamustine kıyasla GAZYVA + bendamustin ve ardından bazı hastalara 
+olmak üzere GAZYVA idame tedavisi uygulanan, rituximab  veya rituximab  içeren bir rejimle 
+tedavi esnasında veya tedaviden sonraki 6 ayda yanıt vermeyen veya progresyon gösteren iNHL hastaları (çalışma GAO4753g/GADOLIN)  
+ Tablo 7’de sunulan sıklıklar (bütün dereceler ve 3 -5. Derece) üç çalışmanın herhangi birinde 
+ilgili AİR için bildirilen en yüksek sıklıklardır.  
+ Sıklıklar şöyle tanımlanmıştır; çok yaygın (≥1/10), yaygın (≥1/100 ila  <1/10), yaygın olmayan 
+(≥1/1.000 il a <1/100) , seyrek (≥1/10.000 il a <1/1.000) ve çok seyrek (<1/10.000), bilinmiyor 
+(eldeki verilerden hareketle tahmin edilemiyor) . Her sıklık gruplaması arasındaki advers 
+reaksiyonlar, azalan ciddiyet sırasına göre sunulmuştur.  
+ Tablo 7.  GAZYVA + kemoterapi* alan hastalarda
+# bildirilen AİR’lerin özeti *  
+ 
+Sıklık  Tüm Evreler  
+GAZYVA  +  kemoterapi * 
+(KLL, iNHL) ’yi takiben 
+GAZYVA idamesi (iNHL)  Evre 3-5† 
+GAZYVA  + kemoterapi* (KLL, 
+iNHL)’yi takiben GAZYVA idamesi 
+(iNHL)  
+Enfeksiyon lar ve enfestasyonlar  
+Çok yaygın  Üst solunum yolu enfeksiyonu, 
+sinüzit§, idrar yolu enfeksiyonu, 
+pnömoni§, herpes zoster§, 
+nazofarenjit   
+Yaygın  Oral herpes, rinit, farenjit , 
+akciğer enfeksiyonu, grip, İdrar yolu enfeksiyonu , pnömoni, 
+akciğer enfeksiyonu, üst solunum yolu 
+enfeksiyonu, sinüzit, herpes zoster  
+Yaygın 
+olmayan  Hepatit B reaktivasyonu  Nazofarenjit , rinit, grip, oral herpes  
+(Kist ve polipler de dahil olmak üzere) iyi huylu ve kötü huylu n eoplazm alar 
+Yaygın  Yassı  hücreli cilt kanseri , Bazal 
+hücreli kanser  Yassı  hücreli cilt kanseri , bazal hücreli 
+kanser  
+Kan ve lenf sistemi hastalıkları  
+Çok yaygın  Nötropeni§, trombositopeni,  
+anemi , lökopeni  Nötropeni, trombositopeni  
+Yaygın  Febril nörtopeni  Anemi, lökopeni , Febril nötropeni  
+Yaygın 
+olmayan  Dissemine intravasküler 
+koagülasyon##  
+Metabolizma ve beslenme hastalıkları  
+Yaygın  Tümör lizis sendromu,  
+hiperürisemi , hipokalemi  Tümör lizis sendromu,  hipokalemi  
+Yaygın 
+olmayan   Hiperürisemi  
+Psikiyatrik hastalıklar  
+Çok yaygın  Uykusuzluk   
+Yaygın  Depresyon, anksiyete   
+17  Yaygın 
+olmayan   Uykusuzluk, depresyon, anksiyete  
+Sinir sistemi hastalıkları  
+Çok yaygın  Baş ağrısı   
+Yaygın  
+olmayan   Baş ağrısı  
+Bilinmiyor  Progresif multifokal 
+lökoensefalopati   
+Kardiyak hastalıklar ı 
+Yaygın  Atriyal fibrilasyon  Atriyal fibrilasyon  
+   
+Vasküler hastalıklar ı 
+Yaygın  Hipertansiyon  Hipertansiyon  
+Solunum, göğüs bozuklukları ve mediastinal hastalıklar  
+Çok yaygın  Öksürük§  
+Yaygın  Burun tıkanıklığı, rinore, 
+orofarenjial ağrı   
+Yaygın 
+olmayan   Öksürük, orofarenjial ağrı  
+Gastrointestinal hastalıklar ı 
+Çok yaygın  Diyare, jonstipasyon§  
+Yaygın  Hazımsızlık, hemoroid , 
+gastrointestinal perforasyon  Diyare  
+Yaygın 
+olmayan   Konstipasyon , hemoroid  
+Deri ve deri altı doku hastalıkları  
+Çok yaygın  Alopesi, kaşıntı   
+Yaygın  Egzema   
+Yaygın 
+olmayan   Kaşıntı  
+Kas-iskelet bozuklukları, bağ doku ve kemik hastalıkları  
+Çok yaygın  Artralji§, sırt ağrısı , 
+ekstremitelerde ağrı  
+Yaygın  Kas-iskelet göğüs  ağrısı, kemik 
+ağrısı  Ekstremitelerde ağrı  
+Yaygın 
+olmayan   Artralji, sırt ağrısı, kas -iskelet göğüs 
+ağrısı, kemik ağrısı  
+Böbrek ve idrar  yolu hastalıkları  
+Yaygın  Disüri, idrar tutamama   
+Yaygın  
+olmayan   Disüri, idrar tutamama  
+Genel bozukluklar ve uygulama bölgesine ilişkin hastalıklar ı 
+Çok yaygın  Pireksi, asteni , yorgunluk   
+Yaygın  Göğüs ağrısı  Pireksi, asteni , yorgunluk  
+Yaygın 
+olmayan   Göğüs ağrısı  
+Bağışıklık sistemi hastalıkları  
+Seyrek  Sitokin salı nım sendromu**   
+Araştırmalar  
+18  Yaygın  Beyaz kan hücre sayısında 
+azalma, nötrofil sayısında 
+azalma, kilo artışı  Beyaz kan hücre sayısında azalma, 
+nötrofil sayısında azalma  
+Yaygın 
+olmayan  Hipogamaglobulinemi   
+Yaralanma ve zehirlenme  
+Çok yaygın  İnfüzyonla ilişkili reaksiyonlar  İnfüzyonla ilişkili reaksiyonlar  
+# Sadece çalışmalarda en çok görülen sıklıklar rapor edilmiştir (BO21004/ daha önce tedavi edilmemiş KLL, 
+BO21223/daha önce tedavi edilmemiş ilerlemiş iNHL ve GAO4753g/ rituximab  refrakter iNHL)  
+## GAZYVA alan hastalarda klinik çalışmalarda ve pazarlama sonrası gözetimde ölümcül olaylar dahil 
+dissemine intravasküler koagülasyon (DİK)  bildirilmiştir (bkz. Bölüm 4.4).  
+† Tedavi kolları arasında ≥%2’lik farkla Evre 5 advers reaksiyonları görülmemiştir.  
+*Kemoterapi: KLL’de Klorambusil; bendamustin, CHOP, FL dahil iNHL’de CVP  
+§ GAZYVA kolunda (BO21223) en az %2’den daha yüksek insidansla idame tedavisinde de görülmüştür.  
+**FL ve KLL’deki klinik çalışma maruziyetlerine dayanarak . 
+  
+FL hastalarındaki advers reaksiyon profili, her iki çalışmadaki genel iNHL popülasyonu ile 
+tutarlı olmuştur.  
+ 
+Seçilmiş advers reaksiyonların tanımı  
+ 
+Aşağıdaki bölümlerde açıklanan insidanslar dan iNHL ile ilgili olanlar, her 2 pivot çalışmada 
+(BO21223/GALLIUM, GAO4753g/GADOLIN) raporlanan en yüksek insidanslı AİR’lerdir.  
+ MO40597 çalışması, daha önce tedavi görmemiş FL hastalarında Döngü 2'den itibaren kısa 
+süreli infüzyonların (yaklaşık 90 dakika)  güvenlik profilini karakterize etmek için 
+tasarlanmıştır.  
+ İnfüzyonla ilişkili reaksiyonlar (IRR’ler)  
+ İnfüzyonla ilişkili reaksiyonla ilişkilendirilen ve en sık bildirilen (≥%5) semptomlar, bulantı, halsizlik, titreme, hipotansiyon, pireksi, kusma, dispne, göğüs ağrısı, kızarma, hipertansiyon, 
+baş ağrısı, taşikardi, baş dönmesi ve diyaredir. Bronkospazm, larinks ve boğaz iritasyonu, hırıltı, larinks ödemi ve atriyal fibrilasyon gibi solunum ve kardiyak semptomlar da bildirilmiştir (bkz. Bölüm 4.4). 
+ - Kronik Lenfositik Lösemi  
+ IRR’lerin insidansı, rituximab  + klorambusil koluna kıyasla GAZYVA + klorambusil kolunda 
+daha yüksek olmuştur. İlk 1000 mg
+ GAZYVA infüzyonuyla birlikte %66 IRR insidansı 
+meydana gelmiştir (hastaların % 20’sinde Evre   3-4 IRR meydana gelmiş). Genel olarak 
+hastaların %7’si , GAZYVA’nın kesilmesiyle sonuçlanan bir IRR ile karşılaşmıştır. Sonraki 
+infüzyonlarda karşılaşılan IRR insidans ı, ikinci 1000 mg dozda %3, ardından ise %1’dir. 1. 
+Döngünün ilk 1000 mg infüzyonlarından sonra Evre  3-5 IRR bildirilmemiştir.  
+ Bölüm 4.2’de açıklanan şekilde infüzyonla ilişkili reaksiyonların engellenmesi için kombin e 
+şekilde önlemlerin alındığı hastalarda  tüm Evrelerdeki  infüzyonla ilişkili reaksiyonlarda 
+azalma gözlenmiştir. Evre  3-4 IRR’lerin (görece daha az sayıda hastada meydana gelen) 
+oranları, azaltıcı önlemler uygulanmadan önce ve uygulandıktan sonra benzer olmuştur.  - Foliküler Lenfoma dahil Indolent Non -Hodgkin Lenfoma  
+ Hastaların %12’sinde Evre 3-4 AİR’ler görülmüştür. 1. Döngüde  AİR’lerin genel insidansı, 
+karşılaştırma koluna kıyasla GAZYVA + kemoterapi alan hastalarda daha yüksek olmuştur.  
+19  GAZYVA + kemoterapi alan hastalarda 1. Günde AİR insidansı en yüksek olmuş ve izleyen 
+infüzyonlarda kademeli olarak azalmıştır.  Bu azalma trendi tek başına GAZYVA ile idame 
+sırasında devam etmiştir. 1. Döngü dışında izleyen infüzyonlarda AİR’lerin insidansı 
+GAZYVA ve ilgili karşılaştırma kolları arasında karşılaştırılabilir olmuştur.  Genel olarak, 
+hastaların % 4’ünde GAZYVA tedavisinin kesilmesini gerektiren infüzyonla ilişkili 
+reaksiyonlar görülmüştür.  Foliküler Lenfomalı Hastalarda Kısa Süreli İnfüzyon  
+ SDI'nin güvenliğini değerlendiren  MO40597 çalışmasında, BO21223 çalışmasındaki Döngü 
+2'de standart infüzyondan sonra IRR yaşayan oran ile karşılaştırıldığında  hastaların daha 
+büyük bir kısmı Döngü 2'de  herhangi bir derece IRR yaşamıştır (sırasıyla 10/99 [%10,1] ve 
+23/529 [%4,3]; araştırmacı tarafından çalışma tedavisinin herhangi bi r bileşenine atfedilen 
+IRR'ler). MO40597'de Döngü 2'de SDI'den sonra hiçbir hastada Derece 
+≥3 IRR yaşamamıştır ; 
+3/529 (%0,6), BO21223 çalışmasında 2. Döngüde Derece ≥3 IRR yaşanmıştır . Her iki 
+çalışmada da IRR semptomları ve bulguları benzerdir.  
+MO40597/GAZELLE Çalışmasında gözlemlenen infüzyonla ilgili reaksiyonlar Tablo 8'de özetlenmiştir.  
+ 
+Tablo 8, Çalışma MO40597/GAZELLE Kısa Süreli İnfüzyon: Döngüye Göre İnfüzyonla 
+İlgili Reaksiyonlar
+a (Güvenlik Değerlendirilebilir Popülasyon) 
+ 
+Derece 
+CTCAE  C1 Genel  
+(standart 
+infüzyon
+) C1b by day  C2C C3 C4 C5 C6 C7 Tüm 
+indüksiyon 
+Döngüleri 
+boyunca  1. Gün  2. Gün  8. Gün  15. 
+Gün 
+ 65/113 
+(57.5%)  57/113 
+(50.4%)
+ 4/51 
+(7.8%)  6/112 
+(5.4%)  5/111 
+(4.5%)
+ 13/110 
+(11.8%)
+ 9/10
+8 (8.3
+%) 7/108 
+(6.5%)
+ 6/107 
+(5.6%)
+ 5/105 
+(4.8%)  2/55 
+(3.6%)  71/113  
+(62.8%)  
+Derece 
+≥3 6/113 
+(5.3%)  5/113 
+(4.4%)  1/51 
+(2.0%)  0 0 0 0 0 1/107 
+(0.9
+%) 0 0 7/113  
+(6.2%)  
+C=döngü; CTCAE = Olumsuz Olaylar için Ortak Terminoloji Kriterleri;  IRR=infüzyonla ilgili reaksiyon  
+aİnfüzyonla ilgili reaksiyon, araştırmacı tarafından tedavinin herhangi bir bileşeniyle ilgili olduğuna karar 
+verilen, çalışma tedavisi infüzyonunun bitiminden sonraki 24 saat içinde veya sırasında meydana gelen herhangi 
+bir olay olarak tanımlanır.  
+bC1 haftalık aralıklarla uygulanan standart infüzyon hızında üç infüzyondan oluşur  
+cHastalara C2'den itibaren kısa süreli infüzyon uygulandı. C2 ve sonraki döngülerdeki payda, o döngüde SDI 
+alan hasta sayısını temsil eder.  
+dDöngü 1 Gün 2'de bendamustin ile tedavi edilen hastalar.  
+ 
+Nötropeni ve enfeksiyonlar  
+ - Kronik Lenfositik Lösemi  
+ Nötropeninin kendiliğinden veya granülosit koloni uyarıcı faktörler kullanılmasıyla ortadan kalkması ile, n ötropeni insidansı, GAZYVA  + klorambusil  kolunda  (%41) , rituximab  + 
+klorambusil koluna kıyasla daha yüksek olmuştur.  GAZYVA + klorambusil kolunda 
+enfeksiyon insidansı %38 ve rituximab  + klorambusil uygulanan kolda % 37 olmuştur 
+(bildirilen Evre  3-5 vakalar sırasıyla %12 ve %14’tür; her iki tedavi kolunda bildirilen ölümcül 
+vakalar < %1’dir).   Ayrıca uzun süreli nötropeni (GAZYVA  + klorambusil uygulanan kolda 
+20  %2 ve rituximab  + klorambusil kolunda % 4) ve geç başlangıçlı nötropeni (GAZYVA + 
+klorambusil uygulanan kolda %16 ve rituximab  + klorambusil kolunda %12) bildirilmiştir 
+(bkz. Bölüm 4.4). 
+ - Foliküler Lenfoma dahil Indolent Non- Hodgkin Lenfoma  
+ GAZYVA + kemoterapi kolunda Evre 1-4 nötropeni (%50) insidansı, karşılaştıma koluna 
+göre daha yüksek olup, indüksiyon dönemi boyunca riski artmaktadır. Uzamış nötropeni ve 
+geç başlayan nötropeni insidansları sırasıyla %3 ve % 8 olmuştur. GAZYVA + kemoterapi 
+kolunda (hastaların %22’sinde Evre 3 -5 olayları ve %3’ünde ölümcül olaylar rapor edilmiştir) 
+enfeksiyon insidansı %81 olmuştur. GAZYVA -CSF profilaksisi alan hastalarda daha düşük 
+Evre 3- 5 enfeksiyon oranı görülmüştür (bkz. B ölüm 4.4).  
+ Foliküler Lenfoma Hastalarında Kısa Süreli İnfüzyon  SDI'nin güvenliğini değerlendiren MO40597 çalışmasında nötropeni, hastaların standart süreli infüzyon aldığı BO21223 çalışmasına kıyasla daha yüksek oranda hastada advers olay olarak rapor edilmiştir (indüksiyon boyunca sırasıyla 69/ 113 [61.1%] ve 247/595 [41.5%]) . 
+Medyan ve nötrofil sayısı değerleri aralığı, her zaman noktasında her iki çalışmada da benzerdi r. MO40597 ve BO21223'te benzer oranda hastada febril nötropeni bildirilmiştir 
+(6/113 [%5.3] ve 31/595 [sırasıyla %5.2]). Enfeksiyon, MO40597'de BO21223'e kıyasla daha 
+az sıklıkta rapor edilmiştir (sırasıyla 45/113 [39.8%] ve 284/595 [47.7%]).   
+ Trombositopeni  ve hemorajik olaylar  
+ 
+- Kronik Lenfositik Lösemi  
+ Rituximab  + klorambusil koluyla karşılaştırıldığında GAZYVA + klorambusil kolundaki 
+trombositopeni insidansı (%16’ya %7), özellikle de birinci döngü sırasında daha yüksek 
+olmuştur. GAZYVA + klorambusil ile tedavi edilen hastaların %4’ü nde (GAZYVA 
+infüzyonundan sonraki 24 saat içerisinde ortaya çıkan) akut trombositopeni meydana gelmiştir 
+(bkz. Bölüm 4.4). GAZYVA ile tedavi edilen kol ve rituximab  ile tedavi edilen kolda  meydana 
+gelen hemorajik olayların genel insidansı benzerdir. Ölümcül hemorajik olayların sayısı tedavi 
+kolları arasında dengel i olmasına karşın,  GAZYVA ile tedavi edilen hastalardaki olayların 
+tümü 1. döngüde  bildirilmiştir. Evre 5 trombositopeni olgusu raporlanmamıştır. 
+Trombositopeni ve hemorajik olaylar arasında kesin bir ilişki saptanmamıştır.  
+ - Foliküler Lenfoma dahil Indolent Non- Hodgkin Lenfoma  
+ Trombositopeni insidansı % 15’tür. GAZYVA + kemoterapi kolunda 1. Döngüde   
+trombositopeni  daha sık görülmüştür. İnfüzyonun sonlanmasını takiben veya 24 saat sonrasında görülen trombositopeni (akut trombositopeni), karşılaştırma koluna kıyasla GAZYVA + kemoterapi kolundaki hastalarda daha sık olmuştur. Hemorajik olayların insidansı tüm tedavi kollarında benzer olmuştur. Hemorajik olaylar ve Evre 3 -5 hemorajik 
+olaylar hastaların %12’sinde ve % 4’inde görülmüştür. Hastaların %1’inde ölümcül hemorajik 
+olaylar görülürken, 1. D öngüde  hiç ölümcül advers olay görülmemiştir.  
+ Foliküler Lenfoma Hastalarında Kısa Süreli İnfüzyon  SDI'nin güvenliğini değerlendiren MO40597 çalışmasında trombositopeni, hastaların standart süreli infüzyon aldığı BO21223 çalışmasına kıyasla daha yüksek oranda hastada advers olay olarak rapor edilmiştir (21/113 [28.6%] ve 63/595 [%10.6]] , sırasıyla, tüm evarım boyunca).  
+21  Medyan ve trombosit sayısı değerleri aralığı, her bir zaman noktasında her iki çalışmada da 
+benzerdi r. MO40597'de bildirilen hiçbir trombositopeni olayı kanama ile ilişkili değildi r.  
+ 
+Özel popül asyonlara ilişkin ek bilgiler  
+ 
+Geriyatrik popülas yon 
+ 
+- Kronik Lenfositik Lösemi  
+ Pivot al çalışmada, GAZ YVA + klorambusil uygulanan KLL hastalarının %46’sı (336’da 156) 
+75 yaş veya üzeridir (medyan yaş 74 ’tür). 75 yaş altındaki hastalara göre bu hastalarda daha 
+fazla ciddi advers olay ve ölüme yol açan advers olay meydana gelmiştir.  
+ - Foliküler Lenfoma dahil Indolent Non- Hodgkin Lenfoma  
+ iNHL (BO21223/GALLIUM  ve GAO4753g/GADOLIN) pivot çalışmalarında ciddi advers 
+olay ve tedavinin kesilmesini gerektiren advers olaylar veya ölüm  vakaları  65 yaş ve üstü 
+hastalarda <65 yaş hastalara kıyasla daha fazla görülmüştür.  
+ Böbrek yetmezliği  
+ - Kronik Lenfositik Lösemi  
+ CLL11 çalışma sında, GAZY VA + klorambusil uygulanan hastaların %27’sinde (336’da 90) 
+orta şiddette renal yetmezlik (KrKl < 50 mL/dk) meydana gelmiştir. Bu hastalar , KrKl ≥50 
+mL/dk olan hastalara  kıyasla daha ciddi advers olaylar ve ölümle sonuçlanan advers olaylarla 
+karşılaşmış tır (bkz. Bölüm 4.2 ve Bölüm 5.2) . KrKl < 30 mL/dk olan hastalar çalışmanın 
+dışında bırakılmışlardır (bkz. Bölüm 5.1). 
+ - Foliküler Lenfoma dahil Indolent Non- Hodgkin Lenfoma  
+ iNHL (BO21223/GALLIUM ve GAO4753g/GADOLIN) pivot çalışmalarında, GAZYVA ile tedavi edilen hastaların %5’i (689’un 35’inde) ve % 7’si (204’ün 14’ünde) orta şiddette böbrek 
+yetmezliği ( KrKl  < 50 mL/dk) meydana gelmiştir. Bu hastalar, KrKl  ≥50 mL/dk olan hastalara 
+kıyasla  daha ciddi advers olaylar,  derece 3 ila 5 advers olaylar ve tedavinin kesilmesine neden 
+olan advers olaylarla  (yalnızca BO21223/GALLIUM çalışmasındaki hastalar)  karşılaşmıştır 
+(bkz. Bölüm 4.2 ve Bölüm 5.2). KrKl  < 40 mL/dk olan hastalar çalışmanın dışında 
+bırakılmışlardır (bkz. Bölüm 5.1).  
+  
+Klinik çalışma deneyimlerinden ilave güvenlilik bilgileri  
+  Önceden var olan kalp hastalıklarının kötüleşmesi  
+ GAZ YVA  ile uygul anan tedavide aritmi (örn. atriyal fibrilasyon  ve taşiaritmi ), angina pektoris , 
+akut koroner sendromu, miyokard infarktüsü ve kalp yetmezliği vakaları meydana gelmiştir 
+(bkz. Bölüm 4.4). Bu olaylar IRR’nin bir parçası olarak meydana gelebilir ve ölümcül olabi lir. 
+ 
+Laboratuvar anormallikleri  İlk GAZYVA infüzyonundan kısa süre sonra karaciğer enzimlerinde geçici artış (aspartat 
+aminotransferaz [AST], alanin aminotransferaz [ALT] , alkal en fosfataz) gözlenmiştir.  
+  
+22  Şüpheli advers reaksiyonların raporlanması  
+ 
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir ( www.titck.gov.tr
+; e-
+posta: tufam@titck.gov.tr ; tel: 0 800 314 00 08; faks: 0312 218 35 99) . 
+  
+4.9  Doz aşımı  ve tedavisi  
+ 
+İnsan klinik çalışmalarında doz aşımı ile ilgili deneyim bulunmamaktadır. GAZ YVA ile 
+yapılan klinik çalışmalarda, infüzyon başına 50 mg’den 2. 000 mg’ye (dahil) kadar dozlar 
+uygulanmıştır. Bu çalışmalarda bildirilen advers reaksiyonların insidansı ve yoğunluğu doza bağımlı görünmemektedir.  
+ Doz aşımı oluşan hastalarda infüzyon derhal kesilmeli veya azaltılmalı ve yakın gözetim uygulanmalıdır. Hastalarda B -hücre deplesyonu sırasında kan hücre sayısının düzenli 
+izlenmesi gerektiğine ve enfeksiyon riskinde artış olduğuna dikkat edilmelidir.  
+ 5. FARMAKOLOJİK ÖZELLİKLERİ  
+ 5.1  Farmakodinamik özellikler  
+ Farmakoterapötik grup: Antineoplastik ajanlar, monoklonal antikorlar  
+ ATC kodu: L01FA03  
+ 
+Etki mekanizması  
+ Obinutuzumab, IgG1 izotipinin rekombinant monoklonal hümanize ve gliko işlenmiş Tip II anti-CD20 antikorudur. Hematopoietik kök hücrelerin, pro- B hücrelerin, normal plazma 
+hücrelerinin veya diğer normal dokuların değil fakat spesifik olarak, malign olmayan ve 
+malign pre -B ve olgun B lenfositlerin yüzeyindeki CD20 transmembran antijenin ekstraselüler 
+kulpunu hedef alır. Obinutuzumabın Fc kısmının gliko işlenmesi, gliko işlenmemiş antikorlara kıyasla doğal katil (NK) hücreler, makrofajlar ve monositler gibi immün efektör hücreler 
+üzerindeki FcγRIII reseptörler için daha yüksek afinite sağlar.  
+ 
+Klinik dışı çalışmalarda obinutuzumab doğrudan hücre ölümüne yol açmakta ve FcγRIII pozitif immün efektör hücrelerin katılması yoluyla antikora bağımlı hücresel sitotoksisiteyi (ADCC) ve antikora bağımlı hücresel fagositozu (ADCP) düzenlemektedir. Buna ek olarak, obinutuzumab düşük derecede kompleman bağımlı sitotoksisiteyi (CDC) düzenlemektedir. Hayvan modellerinde obinutuzumab, potent B hücre deplesyonunu ve antitümör etkililiği  
+düzenler. Tip I antikorlara kıyasla, Tip II antikor olan obinutuzumab, eşdeğer dozda CDC’de 
+eş zamanlı bir azalmayla birlikte doğrudan hücre ölümünün indüklenmesinde artışla karakterize edilir. Gliko işlenmemiş antikorlara kıyasla , gliko işlenmiş bir antikor olarak 
+obinutuzumab, eşdeğer bir dozda yüksek antikora bağımlı hücresel sitotoksisite (ADCC) ve 
+fagositoz (ADCP) ile karakterize  edilir. Obinutuzumab hayvan modellerinde potent B-hücre 
+deplesyonu ve antitümör etkililiğe aracılık eder.  
+ 
+KLL’li hastalarda yapılan  pivot al klinik çalışma da (BO21004/CLL11), GAZY VA 
+uygulanmasıyla  değerlendirile bilen hastaların %91’inde (40/44) tedavi dönemi sonunda B 
+23  hücre deplesyonu (CD19+ B hücre sayısının <0,07 x 109/L olması şeklinde tanımlanmıştır) 
+olmuş ve deplesyon, ilk  6 aylık takip boyunca devam etmiştir. B hücrelerin geri kazanımı, 
+progresif hastalık olmaksızın  hastaların %3 5’inde (1 4/40) ve progresif hastalık  varlığında 
+hastaların %13’ünde (5/40) takip döneminin 12- 18 ayında gözlenmiştir.  
+ 
+iNHL’li hastalarda yapılan pivotal klinik çalışmada (GA O4753/GADOLIN), GAZYVA 
+uygulaması ile değerlendirile bilen hastaların %97’sinde (171/176) tedavi dönemi sonunda B 
+hücre deplesyonu olmuş ve %97’sinde (61/63) son dozu takiben 6 aydan fazla deplesyon devam etmiştir. B hücrelerinin geri kazanımı, tedaviye tepkileri ölçülebilir hastaların %11’inde 
+(5/46) takip döneminin 12- 18 ayında gözlenmiştir. 
+Klinik etkililik ve güvenlilik  
+ 
+- Kronik Lenfositik Lösemi  
+ 
+Komorbiditeleri bulunan daha önce tedavi uygulanmamış kronik lenfositik lösemili hastalarda rituximab  + klorambusil (RClb)  veya tek başına klorambusile (Clb) karşı GAZYVA + 
+klorambusilin (GClb)  etkililiğini ve güvenliliğini inceleyen uluslararası, çok merkezli, açık 
+etiketli, randomize, iki aşamalı, üç kollu bir Faz III klinik çalışma gerçekleştirilmiştir.  
+ 
+Katılımdan önce hastalarda CD20+ KLL ve eş zamanlı mevcut tıbbi durumlara ilişkin 
+aşağıdaki ölçütlerden birinin veya ikisinin bulunduğunun belgelenmesi  gerekmiştir; 6’dan 
+yüksek komorbidite skoru (CIRS) veya böbrek fonksiyonunda azalma  (KrKl <70 mL/dakika) . 
+Karaciğer fonksiyonu ( Ulusal Kanser Enstitüsü – Evre  3 karaciğer fonksiyon testleri için 
+Ortak Terminoloji Kriterleri (>2 haftalık AST, ALT > 5 x NÜS ; bilirubin > 3 x NÜS ) ve renal 
+fonksiyonu (KrKl < 30 mL/ dk) yetersiz olan hastalar çalışma dışı bırakılmıştır. CIRS tanımına 
+göre göz, kulak, burun, boğaz ve larenks organ sistemi dışında bir veya daha fazla bireysel 
+organ/sistem yetmezlik skoru 4 olarak değerlendirilen hastalar, çalışma dışı bırakılmıştır.  
+ 
+Toplam 781 hasta,  GAZYVA + klorambusil , rituximab  + klorambusil veya tek başına 
+klorambusil almak üzere 2:2:1 oranında randomize edilmiştir. Evre 1a’da  356 hasta üzerinde 
+GAZYVA + klorambusil  ile tek başına klorambusil ,  Evre 2’de ise 663 hasta üzerinde GAZYVA 
++ klorambusil ile rituximab  + klorambusil karşılaştırılmıştır.  
+ 
+Hastaların büyük bölümünde GAZ YVA, ilk tedavi döngüsünün 1. günü, 8. günü ve 15. günü 
+uygulanan 1.000 mg başlangıç dozu şeklinde intravenöz yolla verilmiştir. Hastalarda 
+infüzyon la ilişkili  reaksiyonların oranını azaltmak için bir düzenleme yapılmış ve 140 hasta, 
+ilk GAZ YVA dozunu 1. gün [ 100 mg] ve 2. gün [900 mg ] bölünmüş olarak almıştır (bkz. 
+bölüm 4.2 ve 4.4). Sonraki her tedavi döngüsünd e (Döngü2 il e 6), hastalar GAZ YVA 1 .000 
+mg dozunu yalnızca 1. günde almıştır. Klorambusil, tüm tedavi döngülerinin (1 ile 6) 1. günü 
+ve 15. günü oral yolla 0,5 mg/kg vücut ağırlığı şeklinde verilmiştir.  
+ Demografik veriler ve başlangıç özellikleri, tedavi grupları arasında iyi dengelenmiştir. Hastaların büyük bölümü beyaz (%95) ve erkektir (%61). Hastaların %44’ü 75 yaş veya üzeri 
+olmak üzere, medyan yaş 73’tür. Başlangıçta hastaların %22’sinde Binet Evre A, %42’sinde Binet Evre B ve %36’sında Binet Evre C mevcuttur.  
+ 
+Medyan komorbidite skoru 8’dir ve katılan hastaların %76’sında komorbidite skoru 6’dan 
+yüksek olmuştur. Medyan tahmini KrKl  62 mL/dakika olmuş ve tüm hastaların %66’sında 
+KrKl <70 mL/dakika bulunmuştur. Katılan hastaların yüzde kırk ikisi nde hem <70 mL/dakika 
+KrKl , hem de >6 komorbidite skoru belirlenmiştir. Hastaların yüzde otuz  dördü yalnızca 
+komorbidite skoru üzerine çalışmaya katılırken, hastaların %23’ü yalnızca bozulmuş böbrek  
+fonksiyonuyla katılmıştır. 
+ 
+24  En sık bildirilen eş zamanlı tıbbi hastalıklar (%30 veya daha yüksek kesim değeri 
+kullanılarak), MedDRA vücut sistemlerinde: Vasküler hastalıklar (%7 3), kardiyak hastalıklar 
+(%46), gastrointestinal hastalıklar (%38), metabolizma ve beslenme hastalıkları (%4 0), 
+böbrek ve idrar hastalıkları (%3 8), kas-iskelet bozuklukları, bağ doku ve kemik hastalıkları 
+(%33) olmuştur.  
+ 
+Daha önce tedavi edilmemiş KLL hastalarındaki etkililik verileri Tablo 9’da özetlenmektedir. 
+Progresyonsuz sağkalım (PFS) ve Genel sağkalım (OS) için Kaplan -Meier eğrileri Şekil 1 -
+4’te verilmektedir.  
+Tablo 9.  BO21004/ CLL11 çalışmasından etkililik özeti  
+ 
+ Evre  1a Evre 2  
+  
+klorambusil  
+N=118 GAZYVA +  
+klorambusil  
+N= 2 38 Rituximab  + 
+klorambusil  
+N= 3 30 GAZYVA  + 
+klorambusil  
+N= 3 33 
+ 22,8 aylık medyan gözlem süresi  18,7 aylık medyan gözlem süresi  
+Birincil sonlanım noktası  
+Araştırmacı tarafından 
+değerlendirilen PFS  (PFS -IRC)a  
+  
+ 
+Olay meydana gelen hasta sayısı 
+(%) 96 (%81,4) 93 (%39,1) 199 (%60,3) 104 (%31,2) 
+Medyan P FS süresi (ay) 11,1 26,7 15,2 26,7 
+Tehlike oranı (%95 GA)  0,18 [0,13; 0,24]  0,39 [0,31; 0,49]  
+p-değeri (Log-sıra testi, 
+tabakalandırılmış b) <0,0001 <0,0001 
+Kilit ikincil sonlanım noktaları  
+IRC-tarafından değerlendirilen 
+PFS (P FS-IRC)a   
+ 
+Olay meydana gelen hasta sayısı 
+(%) 90 (%76,3) 89 (%37,4) 183 (%55,5) 103 (%30,9) 
+Medyan PFS süresi (ay) 11,2 27,2 14,9 26,7 
+Tehlike oranı (%95 GA)  0,19 [0,14; 0,27]  0,42 [0,33; 0,54]  
+p-değeri (Log-sıra testi, 
+tabakalandırılmış b) <0,0001 <0,0001 
+Tedavi bitimindeki yanıt oranı    
+Analize dahil edilen hasta sayısı  118 238 329 333 
+Yanıt verenler (%) 37 (%31,4) 184 (%77,3) 214 (%65,0) 261 (%78,4) 
+Yanıt vermeyenler ( %) 81 (%68,6) 54 (%22,7) 115 (%35,0) 72 (%21,6) 
+Yanıt oranındaki fark, (%95 GA) 45,95 [35,6; 56,3] 13,33 [6,4; 20,3] 
+p-değeri (Ki-kare Testi)  <0,0001 0,0001 
+Tam yanıt verenlerin sayısı c (%) 0 (% 0,0) 53 (%22,3) 23 (%7,0) 69 (%20,7)  
+Tedavi bitiminde moleküler 
+remisyon d   
+Analize dahil edilen hasta sayısı  90 168 244 239 
+MRD negatif (%)  0 (%0)  45 (%26,8) 6 (% 2,5) 61 (%25,5) 
+MRD pozitiff (%)  90 (%100) 123 (%73,2) 238 (%97,5) 178 (%74,5) 
+MRD oranındaki farklar,  (%95 
+GA) 26,79 [19,5; 34,1] 23,06 [17,0; 29,1] 
+Olaysız Sağkalım    
+25  Olay meydana gelen hasta sayısı 
+(%) 103 (%87,3) 104 (%43,7) 208 (%63,0) 118 (%35,4) 
+Olaya kadar geçen medyan süre 
+(ay) 10,8 26,1 14,3 26,1 
+Tehlike oranı (%95 GA)  0,19 [0,14; 0,25]  0,43 [0,34; 0,54]  
+p-değeri (Log-sıra testi,  
+tabakalandırılmışb) <0,0001 
+ <0,0001 
+Yeni anti lösemi tedavisine kadar 
+geçen süre   
+  
+Olay meydana gelen hasta sayısı 
+(%) 65 (%55,1) 51 (%21,4) 86(%26,1)  55(%16,5)  
+Olaya kadar geçen medyan süre 
+(ay) 14,8 NR 30,8   NR 
+Tehlike oranı (%95 GA)  0,24 [0,16; 0,35]  0,59 [0,42; 0,82]  
+p-değeri (Log-sıra 
+testi, tabakalandırılmışb) <0.0001 <0,0018 
+Genel sağkalım    
+Olay meydana gelen hasta sayısı 
+(%) 57 (%48,3)  93 (%39,1)  147 (%44,5) 121 (%36,3) 
+Olaya kadar geçen medyan süre 
+(ay)    66,7   NR 73,1 NR 
+Tehlike oranı (%95 GA)  0,68 [0,49;  0,94]  0,76 [0,60; 0,97]  
+p-değeri (Log-sıra testi,  
+tabakalandırılmışb) 0,0196 
+ 0,0245 
+IRC: Bağımsız İnceleme  Komitesi; PFS: Progresyonsuz Sağkalım; HR: Risk Oranı; GA: Güven Aralıkları; MRD: Minimum  Rezidüel 
+Hastalık , NR = ulaşılmadı  
+a Araştırmacı tarafından değerlendirildiği üzere, randomizasyondan herhangi bir nedenle progresyonun, relapsın 
+veya ölümün oluştuğu ilk zamana kadar geçen süre olarak tanımlanmıştır  
+b Başlangıçta Binet evresine göre tabakalandırılmıştır  
+c GClb kolunda, tam olmayan kemik iliği geri kazanımıyla birlikte tam yanıt olan 11 hastayı  içermektedir 
+d Kan ve kemik iliği birlikte  
+e MRD negatifliği, 0 ,0001’den düşük bir bulgu olarak tanımlanmaktadır  
+f MRD pozitif hastaları ve tedavi sonundan önce progresyon olan veya ölen hastaları  içermektedir 
+g Genel sağkalım (OS) verileri için ortalama gözlem süresi, Evre 1a’daki 62,5 aylık ortalama gözlem süresine ve 
+Evre 2’deki 59,4 aylık ortalama gözlem süresine tekabül etmektedir.  
+ 
+Alt grup analizleri  
+ PFS alt grup analizinin bulguları (yani cinsiyet, yaş, Binet evresi, KrKl , CIRS skoru, beta2-  
+mikroglobülin, IGVH durumu, kromozom anormallikleri, başlangıçtaki lenfosit sayısı), genel tedavi amaçlı popülasyonda görülen bulgularla tutarlı olmuştur. Hastalık progresyonu veya ölüm riski,  17p delesyonlu hasta alt grubu dışındaki tüm hastalarda RClb kolu ve Clb koluna 
+kıyasla GClb kolunda azalmıştır. 17p delesyonlu küçük hasta  alt grubunda Clb ’ye (HR =0,42, 
+p=0,0892) kıyasla yalnızca bir pozitif trend gözlenmiş, RClb’ye kıyasla  yarar gözlenmemiştir. 
+Alt gruplar için hastalık progresyon veya ölüm riskindeki azalma GClb’ye karşı Clb için %92 
+ile %58, GClb’ye  karşı RClb için ise %72 il e %29 arasındadır.  
+ 
+ 
+  
+ 
+  
+ 
+26   
+ 
+  
+ 
+  
+ 
+  
+Şekil 1. KLL’li hastalarda araştırmacı tarafından değerlendirilen Evre 1a 
+progresyonsuz sağkalımın Kaplan -Meier eğrisi (BO21004/ CLL11 çalışması)  
+ 
+  
+ 
+Şekil 2 . KLL’li hastalarda Evre 1a’ya ait genel sağkalımın Kaplan -Meier eğrisi  
+(BO21004/CLL11 çalışması)  
+ 
+ 
+ 
+ 
+Medyan zaman (ay)  
+ Risk Oranı  
+(%95 GA) 
+Log-sıra p -değeri  
+GA: Güven Aralığı, PFS: Progresyonsuz sağkalım  
+GA: Güven Aralığı, NR = Ulaşılmadı  
+Toplam Sağkalım (Overall Survival)  Zaman (ay)  
+Medyan zaman (ay)  
+Risk Oranı * 
+%95 GA 
+Log-sıra p -değeri  
+Genel sağkalım  
+Zaman (ay)  
+GA: Güven Aralığı;  NR = Ulaşılmadı  
+* Başlangıç noktasında Binet kademesi ile tabakalandırılmıştır  Risk altındaki hasta sayısı  
+Risk altındaki hasta sayısı  
+27   
+       Şekil 3. KLL’li hastalarda araştırmacı tarafından değerlendirilen Evre 2 progresyonsuz 
+sağkalımın Kaplan -Meier eğrisi  (BO21004/ CLL11 çalışması)  
+ 
+ Şekil 4. KLL’li hastalarda Evre 1a’ya ait genel sağkalımın Kaplan -Meier eğrisi 
+(BO21004/ CLL11 çalışması)   
+  
+ 
+ Yaşam kalitesi  
+Medyan zaman (ay)  
+Risk Oranı  
+(%95 GA) 
+Log-sıra p -değeri  
+ 
+GA: Güven Aralığı, PFS: Progresyonsuz sağkalım  Zaman (ay)  
+Medyan zaman (ay)  
+Risk Oranı  
+(%95 GA) 
+Log-sıra p -değeri  
+Zaman (ay)  
+Genel Sağkalım  
+GA: Güven Aralığı;  NR = Ulaşılmadı  
+* Başlangıç noktasında Binet kademesi ile tabakalandırılmıştır  Risk altındaki hasta sayısı  
+Risk altındaki hasta sayısı  
+28   
+Tedavi dönemi sırasında yapılan QLQC30 ve QLQ -CLL -16 anketlerinde, alt ölçeklerden 
+herhangi birinde anlamlı bir farklılık gözlenmemiştir. Takip sırasında veriler, özellikle tek 
+başına klorambusil kolu için sınırlıdır. Bununla birlikte, bugüne kadar takip sırasında yaşam kalitesi açısından belirgin bir farklılık saptanmamıştır.  
+ Sağlıkla ilişkili yaşam kalitesi değerlendirmeleri, t edavi dönemi boyunca özellikle 
+yorgunluk açısından istatistiksel olarak anlamlı bir fark göstermemektedir; bu durum 
+klorambusil rejimine GAZ YVA eklenmesinin hastalarda yorgunluğu arttırmadığını öne 
+sürmektedir.  
+ - Foliküler Lenfoma  
+ Daha önce tedavi edilmemiş foliküler lenfoma (BO21223/GALLIUM):  
+ Faz III, açık etiketli, çok merkezli, randomize bir klinik çalışmada (BO21223/GALLIUM), daha önce tedavi görmemiş Derece 1- 3a ilerlemiş (evre II bulky hastalık, evre III/IV) FL olan 
+1202 hasta değerlendirilmiştir. FL Derece 3b olan hastalar çalışma dışı bı rakılmıştır. Hastalar, 
+kemoterapi (bendamustin, CHOP veya CVP) ile kombinasyon halinde GAZYVA (n=601 hasta) veya rituximab (n=601 hasta) ve ardından tam veya kısmi yanıt elde edilen hastalarda GAZYVA veya rituksimab idamesi almak üzere 1:1 olacak şekilde r andomize edilmiştir.  
+ GAZYVA, 1. Döngünün ve takip eden döngülerin 1., 8. ve 15. günler inde 1.000 mg'lık doz 
+olarak intravenöz infüzyon yoluyla verilmiştir. Toplamda, altı döngü GAZYVA (her 28 günde 
+bir), altı döngü bendamustin ile  kombinasyon halinde ve altı döngü CHOP veya sekiz döngü 
+CVP ile birlikte toplam sekiz döngü GAZYVA (her 21 günde bir) verilmiştir. GAZYVA 
+kemoterapiden önce uygulanmıştır . Bendamustin, G AZYVA ile kombinasyon halinde 
+verildiğinde 90 mg/m
+2/gün'de tüm tedavi döngüleri için (Döngü1- 6) 1. ve 2. Günlerde 
+intravenöz olarak verilmiştir. Standart CHOP ve CVP dozu verilmiştir. Döngü6- 8'i takiben, 
+kemoterapi ile kombinasyon halinde, yanıt veren hastalar, hastalık progresyonuna kadar veya 2 yıla kadar her 2 ayda bir GAZYVA idame tedavisi al mıştır.  
+ Hasta popülasyonunun demografik verileri ve temel özellikleri, tedavi kolları arasında iyi dengelenmiştir; medyan yaş 59, %81 beyaz, %53 kadın, %79 FLIPI skoru ≥2 ve %7 Evre II (bulky), %35 Evre III ve %57 Evre IV hastalık, %44 bulky hastalığı (>7 cm), %34'ünün başlangıçta en az bir B semptomu vardı ve %97'sinin başlangıçta ECOG performans durumu 0-1 idi. Hastaların %57’si bendamustin, %33'ü CHOP ve %10'u CVP kemoterapisi almıştır.  
+ Önceden tedavi edilmemiş FL hastalarına yönelik etkinlik sonuçları Tablo 10'da  özetlenmiştir. 
+Progresyonsuz sağkalım (PFS) için Kaplan- Meier eğrileri Şekil 5'te gösterilmiştir.  
+ Tablo 10: BO21223/GALLIUM çalışmasından daha önce tedavi edilmemiş FL 
+hastalarına ait etkililiğin özeti  
+ 
+ Rituximab idame 
+tedavisinin takip ettiği  
+Rituximab + Kemoterapi 
+N=601  Gazyva idame tedavisinin 
+takip ettiği  
+Gazyva + Kemoterapi  
+N=601  
+Birincil sonlanım noktası   
+IRC tarafından değerlendirilen 
+PFS§ (PFS -IRC)  primer analizi   
+Olayla karşılaşan hasta sayısı (%)  144 (24%)  101 (16.8%)  
+HR (%95 GA)  0.66 [0.51, 0.85]  
+29  p-değeri (Log -Rank testi, 
+tabakalandırılmış*)  0.0012  
+3 yıllık PFS tahmini  [%] 
+[%95 GA] 73.3  
+[68.8, 77.2]  80 
+[75.9, 83.6]  
+PFS-IRC final analizi§§   
+Olayla karşılaşan hasta sayısı (%)  244 (40.6%)  206 (34.3%)  
+HR (%95 GA)  0.77 [ 0.64, 0.93 ] 
+p-değeri (Log -Rank testi, 
+tabakalandırılmış*)  0.0055 
+3 yıllık PFS tahmini  [%] 
+[%95 GA]  75.5 
+[71.8, 78.9] 82.4 
+[79.0, 85.3] 
+7 yıllık PFS tahmini  [%] 
+[%95 GA]  55.7 
+[51.3, 59.9 ] 63.4 
+[59.0, 67.4 ] 
+Kilit sonlanım noktası   
+IRC tarafından değerlendirilen 
+PFS (PFS -IRC) primer analizi   
+Olayla karşılaşan hasta sayısı (%)  125 (20.8%)  93 (15.5%)  
+HR (%95 GA)  0.71 [0.54, 0.93]  
+p-değeri (Log -Rank testi, 
+tabakalandırılmış*)   
+0.0138  
+Bir sonraki anti -lenfoma 
+tedavisine kadar geçen süre# 
+primer analizi   
+Olayla karşılaşan hasta sayısı (%)  111 (18.5%)  80 (13.3%)  
+HR (%95 GA)  0.68 [0.51, 0.91]  
+p-değeri (Log -Rank testi, 
+tabakalandırılmış*)   
+0.0094  
+Genel sağkalım  primer analizi   
+Olayla karşılaşan hasta sayısı (%)  46 (7.7%)  35 (5.8%)  
+HR (%95 GA)  0.75 [0.49, 1.17] ¶ 
+p-değeri (Log -Rank testi, 
+tabakalandırılmış*)  0.21¶ 
+Genel sağkalım final analizi§§  
+Olayla karşılaşan hasta sayısı (%)  86 (14.3%)  76 (12.6%)  
+HR (%95 GA)  0.86 [0.63, 1.18 ] 
+p-değeri (Log -Rank testi, 
+tabakalandırılmış*)  0.36 
+İndüksiyon So nundaki Genel 
+Yanıt Oranı** IR tarafından 
+değerlemdirilen , CT) # primer 
+analizi   
+Yanıt verenler (%) (TY, KY ) 522 (86.9%)  532 (88.5%)  
+Yanıt oranındaki fark (%) [%95 
+GA] 1.7% [ -2.1%, 5.5%]  
+p değeri (Cochran -Mantel -
+Haenszel testi)  0.33 
+Tam Yanıt (TY ) 143 (23.8%)  117 (19.5%)  
+Kısmi Yanıt (KY ) 379 (63.1%)  415 (69.1%)  
+IRC: Bağımsız İnceleme Komitesi; PFS: progresyonsu z sağkalım; HR: Tehlike Oranı; GA: Güven Aralığı  
+* Tabakalandırma faktörleri kemoterapi rejimi, foliküler lenfoma için FLIPI risk grubu, coğrafi bölge idi.  
+§ Bu etkinlik ara analizindeki /primer analizindeki  önem düzeyi: 0.012, veri sonlanımı 31 Ocak 2016, medyan 
+gözlem süresi 34/35 ay.  
+§§Final analiz, veri sonlanımı 30 Temmuz 2021, medyan gözlem süresi 94 ay.  
+¶ Veriler Henüz Olgun Değil. Analiz sırasında medyana ulaşılamadı  
+# çokluk için ayarlanmadı  
+**Değiştirilmiş Cheson 2007 kriterlerine göre değerlendirilmiştir  
+‡ İndüksiyonun Sonu = indüksiyon fazının sonu, monoterapi idamesini içermez  
+ 
+  
+30   
+     Şekil 5 Daha önce teda vi edilmemiş FL hastalarında IRC  tarafından değerlendirilen 
+progresyonsuz sağkalım Kaplan -Meier eğrisi (Çalışma BO21223/GALLIUM) , final 
+analiz*  
+ 
+ 
+R-Chemo: Rituximab artı kemoterapi, G- Chemo: Gazyva artı kemoterapi, HR: Tehlike Oranı; GA: Güven Aralığı.  
+*Final analiz, veri sonlanımı 30 Temmuz 2021, medyan gözlem süresi 94 ay.  
+ Alt grup analizlerinin sonuçları  
+ Alt grup analizlerinin sonuçları (çokluk için ayarlanmamış) genel olarak FL popülasyonunda görülen sonuçlarla tutarlıdır ve genel sonucun (primer analiz, veri sonlanımı 31 Ocak 2016) 
+sağlamlığını desteklemektedir. Değerlendirilen alt gruplar, başlangıçta IPI, FLIPI, Bulk y 
+Hastalığı, B Semptomları, Ann Arbor Aşaması ve  başlangıçta ECOG'u içermekteydi. FLIPI 
+skoru 0- 1 (düşük risk) olan hastalarda, GAZYVA + kemoterapi ve rituximab + kem oterapi 
+arasında fark gözlenmemektedir  (IRC-değerli PFS HR 1.17 (%95CI 0.63;2.19, 40 PFS olayı).  
+Bu alt grup %21'den (253/1202) oluşmaktadır ve PFS olaylarının %16.3'ünü (40/245) 
+yaşamıştır. Ek olarak, kemoterapi rejimleri (bendamustin, CHOP ve CVP) genelinde PFS'nin 
+keşif amaçlı alt grup analizleri, G AZYVA  artı kemoterapi popülasyonunda görülen sonuçlarla 
+tutarlıydı. Kemoterapi alt grubuna göre gözlemlenen HR'ler aşağıdaki gibidir; CHOP (n = 398): HR 0,77 (%95 GA: 0,50, 1,20), CVP (n = 118): HR 0,63 (%95 GA: 0,32, 1,21) ve bendamustin (n = 686): HR 0,61 (95) %CI: 0.43, 0.86).  Hasta Bildirimli Sonlanımlar  
+ Tedavi ve takip aşamaları sırasında toplanan FACT -Lym anketine dayanarak, her iki tedavi 
+kolundaki hastalar, Lenfoma alt ölçeğinde başlangıca göre 
+≥ 3 puanlık bir artış, ≥ 6 puanlık bir 
+artış ile tanımlanan lenfoma ile ilgili semptomlarda klinik olarak anlamlı iyileşmeler 
+yaşanmıştır. FACT Lym TOI'deki başlangıca göre ve FACT Lym Total skorunda başlangıca 
+göre ≥ 7 puanlık bir artış. EQ -5D fayda puanları başlangıçta, tedavi ve takip sırasında benzerdi. 
+HRQOL veya sağlık durumu ölçümlerinde kollar arasında an lamlı bir fark görülmemiştir.  
+ 
+31  Açık etiket tasarımı nedeniyle, hasta tarafından bildirilen sonuçlar dikkatle yorumlanmalıdır.  
+ 
+Rituximab  veya rituximab  içeren tedavi rejimi alan foliküler lenfoma hastalarında tedavi 
+sırasında veya 6 ay sonrasına kadar yanıtsızlık veya nüks gelişmesi durumunda (GAO4753g/GADOLIN):  
+ 
+Faz III, açık etiketli, çok merkezli, randomize bir klinik çalışmada (GAO4753g (GADOLIN)), tedavi sırasında yanıt vermeyen veya (indüksiyon veya idame tedavisinin bir parçası olarak rituximab  monoterapisi de dahil olmak üzere) son rituximab  ya da rituximab  içeren bir rejimin 
+son dozunu takiben hastalığı ilerleyen 396 iNHL hastası değerlendirilmiştir. Hastalar, her biri 28 gün süreli 6 döngü şeklinde tek başına bendamustin (B) (n = 202) veya bendamustin ile 
+kombinasyon olarak GAZYVA (G+B) (n = 194= almak üzere 1:1 randomize edilmiştir. 
+Hastalığı ilerlemeyen G+B kolundaki hastalar (yani, indüksiyon bitiminde tam yanıt (CR), kısmi yanıt (PR) veren veya hastalığı stabil seyreden (SD)) hastalar, iki  yıl süreyle her iki ayda 
+bir veya (hangisi daha önce ise) hastalık progresyonuna kadar GAZYVA ile idame tedavisi 
+almaya devam etmiştir. Hastalar, bölge, iNHL alttipi (foliküler versus non -foliküler), 
+rituximab -refrakter tip (rituximab  monoterapisinden veya kemoterapiyle kombinasyon 
+şeklinde rituximab  tedavisinden önce olmak üzere) ve önceki tedavilerin sayısı (≤2’ye karşı 
+>2) doğrultusunda tabakalandırılmıştır.  
+ Demografik veriler ve başlangıç karakteristikleri iyi dengelenmiştir (medyan yaş 63 yıldır; çoğunluk beyaz ırka mensuptur [%88] ve erkektir [%58]). Hastaların çoğunluğunda foliküler lenfoma (%81) vardır. İlk tanıdan bu yana geçen medyan süre 3 yıldır ve önceki tedavilerin medyan sayısı 2’dir (aralık: 1 ila 10); hastaların %44’ü daha önce 1 kez, %34’ü ise 2 tedavi almıştır.  
+ GAZYVA, Döngü1’in 1, 8 ve 15. ve Döngü2- 6’nın 1. Gününde ve hastalık progresyonu 
+meydana gelmeyen hastalara, iki yıl süreyle her iki ayda bir (ya da hangisi daha önce ise) 
+hastalık progresyonuna kadar 1.000 mg kesin dozda intravenöz infüzyon olarak verilmiştir. Bendamustin, tüm tedavi döngülerinin (Döngü1- 6) 1 ve 2. Günlerinde, GAZYVA ile 
+kombinasyon şeklinde 90 mg/m
+2/gün, tek başına verildiğinde ise 120 mg/m2/gün olara k 
+intravenöz yolla verilmiştir. B kolundaki hastaların %66,7’sine karşılık G+ B ile tedavi edilen 
+hastaların %79,4’ü altı tedavi döngüsünün tamamını almıştır.  
+ 
+Bağımsız İnceleme Komitesine (IRC) dayalı primer analiz değerlendirmesi, tek başına 
+bendamustin alan hastalarla karşılaştırıldığında G+B ve onu takiben GAZYVA idame tedavisi 
+alan iNHL hastalarında hastalık progresyon (PD) veya ölüm riskinde, %45 oranında 
+istatistiksel olarak önemli ve klinik olarak anlamlı bir azalmayı göstermiştir.  iNHL 
+popülasyonunda görülen hastalık progresyonu veya ölüm riskindeki azalma foliküler lenfoma 
+hastalarının alt grubundan etkilenmiştir.  
+ 
+GAO4753g çalışmasında yer alan hastaların  çoğunluğunda (%81,1) FL  mevcuttu r. FL 
+popülasyonundaki primer analiz etkililik sonuçları Tablo 11 ve Şekil 6 ve 8’de 
+gösterilmektedir. Hastaların %11,6’sında marjinal zon lenfoma (MZL) ve %7,1’inde küçük 
+lenfositik lenfoma (SLL) mevcuttu.  FL olmayan popülasyonda IRC il e değerlendirilen PFS 
+için HR 0, 94 (% 95 GA : 0,49, 1,90)’ dür .  M Z L  v e  S LL alt popülasyonlarındaki etkililiği  
+konusunda kesin bir sonuç çıkarılamamıştır.  
+ 
+Final  analizde, B kol undaki FL hastaları için ortalama  gözlem süresi 45, 9 ay ( aralık : 0-100,9 
+ay) ve G  + B kolundaki hastalar için 57,3 ay (aralık: 0,4- 97,6 ay) idi, bu da  birincil analizden 
+bu yana sırası yla B ve G + B kollarında ek 25,6 ay ve 35,2 ay ortalama  takibi temsil etmektedir.  
+IRC değerlendirmeleri devam etmediği için nihai analizde sadece Araştırmacı (IRC) 
+32  tarafından değerlendirilen sonlanım  noktaları  rapor edilmiştir. Genel olarak, araştırmacı 
+tarafından değerlendirilen etkililik  sonuçları, birincil anal izde gözlemlenenlerle tutarlıdır. 
+FL'li hastalarda genel sağkalım (OS) daha uzun takip doğrultusunda istikrarlıdır  (bkz. Şekil 
+7); ölüm riski için HR 0,71 (% 95 GA: 0,51, 0,98)’dir . 
+ 
+Tablo 11: GAO4753g/GADOLIN çalışmasından FL# hastalarına ait primer etkililik  
+analizi  özeti   
+ 
+ Bendamustin  
+N=166 Gazyva idame 
+tedavisinin takip ettiği 
+Gazyva  + Bendamustin 
+N= 155  
+ Medyan gözlem süresi: 
+20 ay  Medyan gözlem süresi: 
+22 ay  
+FL popülasyonundaki birincil sonlanım noktası   
+IRC tarafından değerlendirilen PFS (PFS- IRC)  
+Olayla karşılaşan hasta sayısı (%)  90 (54 ,2%) 54 (34 ,8%) 
+Medyan PFS süresi  (ay) (%95 GA)  13,8 (11 ,4, 16 ,2) NR (22 ,5,-) 
+HR (%95 GA)  0,48 (0 ,34, 0 ,68) 
+p-değeri (Log -Rank testi, tabakalandırılmış*)  <0,0001 
+İkincil Sonlanım Noktaları   
+Araştırmacı tarafından değerlendirilen PFS 
+(PFS -IRC)  
+Olayla karşılaşan hasta sayısı (%)  102 (61 ,4%) 62 (40 ,0%) 
+Medyan PFS süresi (ay) (%95 GA)  13,7 (11 ,0, 15 ,5) 29,2 (17 ,5,-) 
+HR (%95 GA)  0,48 (0 ,35, 0 ,67) 
+p-değeri (Log -Rank testi, tabakalandırılmış*)  <0,0001 
+En İyi Genel Yanıt (BOR) (IRC -tarafından 
+değerlendirilen)§  
+Analize dahil edilen hasta sayısı  161 153 
+Yanıt verenler (%) (CR/PR)  124 (77 ,0%) 122 (79 ,7%) 
+Yanıt oranı farkı (%95 GA)  2,72 (-6,74, 12, 18) 
+p-değeri (Cochran -Mantel -Haenszel test,)  0,6142 
+Tam Yanıt Verenler (%)  31 (19 ,3%) 24 (15 ,7%) 
+Kısmi Yanıt Verenler (%)  93 (57,8%) 98 (64 ,1%) 
+Stabil Hastalık (%)  18 (11 ,2%) 13 (8 ,5%) 
+Yanıt süresi (IRC tarafından değerlendirilen)   
+Analize dahil edilen hasta sayısı  127 122 
+Olaylı hasta sayısı (%)  74 (58 ,3%) 36 (29 ,5%) 
+Medyan DOR süresi (ay) (%95 GA)  11,9 (8,8, 13 ,6) NR (25,4,-) 
+HR (%95 GA)  0,36 (0 ,24, 0 ,54) 
+Genel sağkalım (henüz olgunlaşmamış)   
+Olaylı hasta sayısı (%)  36 (21 ,7%) 25 (16.1%)  
+Olaya kadar geçen medyan süre (ay)  NR NR 
+HR (%95 GA)  0,71 (0 ,43, 1 ,19) 
+p-değeri (Log -Rank testi, tabakalandırılmış*)  0,1976 
+IRC: Bağımsız İnceleme Komitesi; PFS: progresyonsuz sağkalım; HR: Hazard Oranı; GA: Güven Aralığı, NR = Ulaşılamadı  
+33  *Analize yönelik tabakalandırma faktörleri refrakter tip (rituximab  monoterapisi vs. rituximab  + kemoterapi) ve 
+önceki tedaviler idi (≤ 2 vs ≥2). Foliküler versus non -foliküler de çalışmaya yönelik bit tabakalandırma faktörü 
+olmasına karşın, foliküler lenfoma hastalarının altgrup analizi için geçerli değildir.  
+§ Tedavi başlangıcından itibaren 12 ay içerisindeki en iyi yanıt  
+ 
+Şekil 6: Foliküler lenfoma# hastalarında IRC ile değerlendirilen progresyonsuz 
+sağkalıma ait Kaplan -Meier eğrisi (GAO4753g/GADOLIN çalışması)  
+ 
+ 
+ 
+# Rituximab  veya rituximab ile birlikte tedavi uygulanmış foliküler lenfoma hastalarında tedavi sırasında veya 6. aya kadar yanıtsızlık veya 
+nüks gelişmesi durumunda  
+ 
+Şekil 7: Foliküler lenfoma hastalarında genel sağkalıma ait  final analizinin  Kaplan -
+Meier eğrisi (GAO4753g/GADOLIN çalışması)  
+ 
+ 
+ 
+ 
+ 
+Alt grup analizlerinin sonuçları  
+ 
+Altgrup analizlerinin sonuçları genel olarak FL popülasyonunda görülen sonuçlarla uyumludur ve genel sonucun sağlamlığını desteklemektedir.  
+Medyan zaman  (ay) 
+ 
+Risk oranı  
+95% GA  
+Log-rank p -değeri 
+ PFS olasılığı  
+Zaman  (ay) 
+B, bendamustin ; GA, güven aralığı; G -B, obinutuzumab +  bondamustin; HR, risk oranı ; NR, ulaşılması; PFS, progresyonsuz sağkalım  n at risk Sansürlü  
+34   
+  
+Şekil 8: Foliküler lenfomada hasta altgrubuna göre IRC tarafından değerlendirilen 
+PFS*
+# (GAO4753g/GADOLIN çalışması)  
+ 
+ 
+Tabakalandırılmamış risk oranı gösterilmektedir. X -ekseni logaritmik orandadır.  
+B:Bendamustin; GA:Güven aralığı; ECOG:Eastern Cooperative Oncology Group; G- B:Obinituzumab+bendamustin; KM:Kaplan Meier; R -
+kemoterapi:Rituximab +kemoterapi; R -idame:Rituximab  idamesi; R -mono: Rituximab  monoterapi  
+*ITT popülasyonu üzerinde gerçekleştirilen ön tanımlı analizler FL popülasyonunda tekrarlanmıştır; çift refrakter analiz durumu (yani, yanıt 
+vermeyen veya alkilleyici ajan bazlı rejim sırasında veya son dozundan itibaren 6 ay içerisinde hastalık progresyonu) araştır mayla ilgilidir.  
+#Rituximab veya rituximab içeren bir rejimle tedaviden sonra veya 6 ay boyunca yanıt vermeyen veya ilerleyen FL'li hastalar  
+ Kısa Süreli İnfüzyon Çalışması MO40597 (GAZELLE)  
+ CHOP, CVP veya bendamustin kemoterapisi ile kombinasyon halinde uygulanan obinutuzumab'ın kısa (yaklaşık 90 dakika) süreli infüzyonunun (SDI) güvenliği, daha önce tedavi edilmemiş ilerlemiş foliküler lenfoması olan 113 hastada çok merkezli, açık etiketli, tek kollu bir çalışmada değerlendirilmiştir (Çalışma MO40597/GAZELLE). Hastalar, ilk obinutuzumab kürünü, Döngü 1'in 1, 8 ve 15'inci günlerinde standart infüzyon hızında almıştır. İlk döngü sırasında herhangi bir Derece ≥3 IRR yaşamayan hastalar, Döngü 2'den itibaren SDI almıştır.  
+Çalışmanın birincil sonlanım noktası, 2. Döngü sırasında SDI ile ilişkili Derece ≥3 IRR yaşayan ve Derece ≥3 IRR yaşamadan 1. Döngü sırasında standart infüzyon hızında daha önce 3 obinutuzumab uygulaması almış olan hastaların oranıdır.  
+2. Döngüde SDI alan hastalar arasında Derece ≥3 IRR gözlenmemiştir. 2. Döngüden sonra sadece bir hastada 3. Aşama IRR yaşanmıştır (5. Döngüde hipertansiyon) ( bkz. Bölüm  4.8 
+İstenmeyen Etkiler).  
+ Hasta Bildirimli Sonlanımlar  
+ Tedavi sırasında ve takip dönemlerinde yapılan FACT -Lym anketi ve EQ -5D indeks ölçeğine 
+göre, sağlıkla ilgili yaşam kalitesi pivot çalışma sırasında genel olarak sürdürülmüş olup, kollar arasında anlamlı fark bulunmamıştır. Bununla birlikte, FL hastalarınd a bendamustine 
+35  GAZYVA eklenmesi, xFACT -Lym TOI skoru ile ölçülen sağlıkla ilgili yaşam kalitesinde 
+düşüşe kadar geçen süreyi 2,2 ay uzatmıştır (benda ve G+B için sırasıyla medyan 5 ,6’ya karşı 
+7,8 ay HR= 0,83; %95 GA: 0,60, 1,13). 
+İmmünojenisite  
+ 
+İmmünojenisite tayin bulguları; tayin duyarlılığı ve özgüllüğü, tayin metodolojisi, tayinin dolaşımdaki GAZYVA/antikor miktarları açısından gücü, numunelerin kullanımı, numune 
+toplama zamanı, eş zamanlı ilaçlar ve altta yatan hastalıklar dahil birçok faktöre yüksek 
+düzeyde bağımlıdır. Bu nedenlerle, GAZYVA’ya karşı antikorların insidansının diğer 
+ürünlere karşı antikorların insidansıyla karşılaştırılması yanıltıcı olabilir.  
+ BO21004/CLL11 pivot çalışmasında yer alan hastalar, GAZYVA’ya yönelik anti -terapötik 
+antikorlar (ATA) için birden fazla zaman noktasında test edilmiştir. GAZYVA  ile tedavi 
+edilen hastalar arasından randomize fazdaki 140 hastadan 8’i ile başlangıç fazındaki 6 hastadan 2’sinin 12 aylık takip sırasındaki ATA testleri pozitif olarak sonuçlanmıştır. Bu hastalardan hiçbiri, ATA ile ilişkili olduğu düşünülen anafilaktik veya aşırı duyarlılık 
+reaksiyonlarıyla karşılaşmadığı gibi, klinik yanıt da etkilenmemiştir.  
+ 
+GAO4753g/GADOLIN çalışmasında tedavi gören iNHL hastalarında başlangıç referansı 
+sonrasında HAHA (İnsan Anti -İnsan Antikoru) gözlenmemiştir. HAHA’nın klinik anlamlılığı 
+bilinmiyor olmasına rağmen  HAHA ve klinik süreç arasındaki potansiyel bağlantı gözardı 
+edilmemelidir.  
+ 
+Pediyatrik popülasyon  
+ 
+Pediyatrik kullanım ile ilgili bilgiler için bkz. Bölüm 4.2. 
+ 
+5.2 Farmakokinetik özellikler  
+ 
+Genel Özellikler  
+ Faz I, Faz II ve Faz III çalışmalarda obinutuzumab ı tek başına ya da kemoterapiyle 
+kombinasyon halinde  alan 469 iNHL, 342 KLL ve 130 DBBHL (Diffüz Büyük B Hücreli 
+Lenfoma) hastasında farmakokinetik verileri analiz etmek için bir popülasyon farmakokinetik (PK) modeli geliştirilmiştir.  
+ 
+Emilim:  
+ Obinutuzumab intravenöz uygulanır, bu nedenle emilim geçerli değildir. Diğer uygulama şekilleriyle çalışma yapılmamıştır. Popülasyon PK modeline göre; Döngü6, 1. gün 
+infüzyonunun ardından KLL hastalarında tahmini medyan C
+maks değeri 465,7 mcg/mL ve 
+EAA( τ) değeri  8961 mcg.gün/mL, iNHL hastalarında tahmini medyan C maks değeri 539,3  
+mcg/mL ve EAA( τ) değeri  10956 mcg.gün/mL   olmuştur.  
+ 
+Dağılım:  
+ İntravenöz uygulama ardından santral kompartımanın dağılım hacmi (KLL hastalarında 2 ,98 
+L, iNHL hastalarında 2,97 L ) serum hacmine yaklaşır  ve bu da, dağılımın büyük oranda 
+plazma ve interstisiyel sıvı ile sınırlı olduğunu göstermektedir.  
+Biyotransformasyon:  
+36   
+Obinutuzumabın metabolizması doğrudan incelenmemiştir. Antikorlar büyük oranda  
+katabolizmayla te mizlenmektedir.  
+Eliminasyon:  
+ Obinutuzumab klerensi, KLL hastalarında yaklaşık 0,11 L/gün ve iNHL hastalarında yaklaşık 
+0,08 L/gün  olup, medyan eliminasyon t
+½ değeri KLL hastalarında 26,4 gün ve iNHL 
+hastalarında 36,8 gün olmuştur . Obinutuzumab eliminasyonu, biri doğrusal klerens yolağı ve 
+biri zamanın fonksiyonu olarak değişen doğrusal olmayan klerens yolağı şeklinde klerensi 
+tanımlayan iki paralel yola k içerir.  Tedavi başlangıcında doğrusal olmayan zamanla değişen 
+klerens yolağı baskındır ve bu nedenle majör klerens yolağını oluşturur. Tedavi devam ettikçe, 
+bu yolağın etkisi azalır ve doğrusal klerens yolağı belirginleşir. Bu durum hedef aracılı ilaç dağılımını (TMDD) gösterir; CD20 hücrelerinin başlangıçta bol miktarda bulunması 
+obinutuzumabın dolaşımdan hızla çıkarılmasına neden olur. Bununla birlikte, CD20 
+hücrelerin büyük bölümü obinutuzumaba bağlandığında hedef aracılı ilaç dağılımının farmakokinetik üzerindeki etkisi en aza indirgenir. 
+ 
+Farmakokinetik/farmakodinamik ilişki(ler)  
+ 
+Popülasyon farmakokinetik analizinde, cinsiyetin hastalar arasındaki değişkenliği n bir kısmını 
+açıklayan bir  kovaryat olduğu belirlenmiş, erkeklerde kararlı durum klerensi (CLss) %2 2 daha 
+yüksek ve dağılım hacmi (V d) %1 9 daha fazla bulunmuştur. Bununla birlikte, popülasyon 
+analizinin bulguları maruziyetteki farklılıkların anlamlı olmadığını ortaya koymuş (6. 
+Döngüde  KLL hastalarında tahmini medyan EAA ve C
+maks sırasıyla, kadınlarda 11282  
+mcg.gün/mL ve 578,9 mcg/mL ve erkeklerde 8451 mcg.gün/mL ve 432,5 mcg/mL’dir; iNHL  
+hastalarında ise tahmini medyan EAA ve C maks sırasıyla, kadınlarda 13172 mcg.gün/mL ve 
+635,7 mcg/mL ve erkeklerde 9769 mcg.gün/mL ve 481,3 mcg/mL’dir), ve bu durum cinsiyet 
+temelinde doz ayarlamasının gerekli olmadığını göstermiştir.  
+ 
+Hastalardaki karakteristik özellikler  
+ 
+Geriyatrik popül asyon 
+ 
+Obinutuzumabın popülasyon farmakokinetik analizi, yaşın obinutuzumab farmakokinetiğini etkilemediğini göstermiştir. <65 yaşındaki (n=375), 65- 75 yaşlarındaki (n=265) ve >75 
+yaşındaki (n= 171) hastalar arasında obinutuzumabın farmakokinetik özelliklerinde anlamlı 
+farklılık gözlenmemiştir.  
+ 
+Pediyatrik popülasyon  
+ Pediyatrik hastalarda obinutuzumabın farmakokinetiğini inceleyen çalışmalar yapılmamıştır.  
+ 
+Böbrek yetmezliği  
+ Obinutuzumabın popülasyon farmakokinetik analizi, kreatinin klerensinin obinutuzumab farmakokinetiğini etkilemediğini göstermiştir.  
+ Hafif (kreatinin klerensi KrKl 50-89 mL/dakika, n=464) veya orta düzeyde ( KrKl 30-49 
+mL/dakika, n=106) böbrek bozukluğu olan hastalarda obinutuzumabın farmakokinetik özellikleri, böbrek fonksiyonu normal ( KrKl ≥90 mL/dakika, n=383) hastalardakine benzer 
+bulunmuştur. Şiddetli böbrek bozukluğu olan ( KrKl 15-29 mL/dakika) hastalarda 
+farmakokinetik veriler sınırlıdır (n= 8), bu nedenle doz önerisi yapılamamaktadır.  
+ 
+37  Karaciğer yetmezliği  
+ 
+Karaciğer bozukluğu olan hastalarda formal farmakokinetik çalışma yapılmamıştır.  
+5.3 Klinik öncesi güvenlilik verileri  
+ Obinutuzumabın karsinojenik potansiyelini belirlemek üzere çalışma yapılmamıştır.   
+ Obinutuzumabın fertilite üzerindeki etkisini değerlendirmek için hayvanlarda spesifik  
+çalışmalar yapılmamıştır. Sinomolgus maymunlarda yapılan tekrarlı doz toksisitesi  
+çalışmalarında obinutuzumab erkek ve dişi üreme organları üzerinde advers etki 
+göstermemiştir.  
+ Gebe sinomolgus maymunlarda geliştirilmiş pre ve postnatal gelişim (ePPND) toksisitesi çalışması nda teratojenik etkilere dair kanıt bulunmamıştır.  Bununla birlikte, çiftleşme sonrası 
+20. günden doğuma kadar  25 ve 50 mg/kg dozlarda ( C
+maks ve EAA temelinde klinik 
+maruziyetin 2 -5 katı)  uygulanan haftalık intravenöz obinutuzumab dozları , bebek 
+maymunlarda  tam B hücre deplesyonuna yol açmıştır . Doğumdan sonra 28. günde yavruların 
+ilaca  maruziyeti, obinutuzumabın kan plasenta bariyerini geçebildiğini göstermektedir. 
+Doğum sonrası 28. günde yavru serumundaki konsantrasyonlar, maternal serumdaki konsantrasyon aralığında olurken, aynı günde sütteki konsantrasyonlar daha düşük bulunmuştur (karşılık gelen maternal serum düzeylerinin %0 ,5’inden daha düşük); bu durum 
+yavrularda ilaca maruziyetin rahim içinde oluştuğunu göstermektedir. Doğumdan sonra 6 ay 
+içinde B hücre sayıları normal düzeylere dönmüş ve immünolojik fonksiyon geri kazanılmıştır.  
+ 
+Sinomolgus maymunlarda yapılan, haftalık 5, 25 ve 50 mg/kg dozlarda obinutuzumabın 
+(kararlı durumda C
+maks ve EAA’y a dayalı olarak klinik maruziyetin 0,7- 6 katı) uygulandığı  26 
+haftalık bir çalışmada, aşırı duyarlılık reaksiyonlar ı kaydedilmiş tir ve bu reaksiyonlar 
+sinomolgus maymunlarda hümanize antikorun yabancı kabul edilmesine bağlanmıştır . 
+Bulgular, akut anafilaktik ve anafilaktoid reaksiyonları ve arterit/periarterit, glomerülonefrit 
+ve serozal/adventisiyal inflamasyon gibi immün kompleks aracılı aşırı duyarlılık reaksiyonları ile tutarlı şekilde sistemik inflamasyonun ve infiltratların prevalansında bir artışı içermektedir. 
+Bu reaksiyonlar, doz uygulama ve iyileşme fazları sırasında obinutuzumab ile tedavi edilen 36 hayvanın 6’sında tedavini n planlı olmaksızın sonlandırılmasına yol açmıştır; bu değişimler 
+kısmen geri döndürülebilir olmuştur. İnsanlarda obinutuzumab ile nedensel ilişkili renal 
+toksisite gözlenmemiştir.  
+ 
+6. FARMASÖTİK ÖZELLİKLER  
+ 
+6.1 Yardımcı maddelerin listesi  
+ 
+L-histidin  
+L-histidin hidroklorür  monohidrat  
+Trehaloz dihidrat  
+Poloksamer 188 Enjeksiyonluk Su  
+6.2 Geçimsizlikler  
+ 
+Bu tıbbi ürün, bölüm 6.6’da belirtilenlerin dışında hiçbir tıbbi ürünle karıştırılmamalıdır.  
+ 6.3 Raf ömrü  
+ 
+38  Açılmamış flakon  
+ 
+36 ay 
+Seyreltildikten sonra  
+ Seyreltildikten sonra, % 0,9’luk (9 mg/mL) sodyum klorür enjeksiyonluk çözeltisinde 0,4 
+mg/mL ile 20 mg/mL arasındaki konsantrasyonda 2°C - 8°C arasındaki sıcaklıkta 24 saat 
+boyunca ve bunu takiben 30°C’nin altındaki sıcaklıkta (infüzyon süresi de dahil olmak üzere) 48 saat boyunca kimyasal ve fiziksel stabilite kanıtlanmıştır.  
+ Mikrobiyolojik açıdan bakıldığında, hazırlanan infüzyon çözeltisi derhal kullanılmalıdır. 
+Derhal kullanılmadığı takdirde kullanım sırasındaki saklama süreleri ve kullanım öncesi ndeki 
+koşullar kullanıcının sorumlulu ğunda dır ve normalde, seyreltme işlemi  kontrollü ve  valide 
+edilmiş aseptik şartlarda yapılmadıkça , saklama süresi 2°C -8°C’de 24 saat i geçmemelidir . 
+ 
+GAZYVA antimikrobiyal koruyucular içermemektedir. Bu nedenle, infüzyonluk çözeltinin  
+hazırlanması sırasında mikrobiyolojik açıdan tehlikeye girmemesi için dikkatli olunmalıdır.  
+ 6.4 Saklamaya yönelik özel tedbirler   Flakonlar 2°C-8°C’de buz dolabında  sakla nmalıdır . Dondur ulmamalıdır .  
+ 
+Flakon, ışıktan korunmak için kutusunda sakla nmalıdır. 
+ 
+Tıbbi ürünün seyreltildikten sonraki saklama koşulları için bkz. Bölüm 6.3 . 
+ 6.5 Ambalajın niteliği ve içeriği  
+ Tıpalı (bütil kauçuk) 50 mL (berrak Tip I cam) flakon içerisinde 40 mL konsantre. Ambalaj 
+boyutu 1 flakondur.  
+6.6 Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler  
+ 
+Seyreltme için talimatlar  
+ 
+GAZYVA, bir sağlık mesleği mensubu tarafından aseptik teknik kullanılarak hazırlanmalıdır. 
+Flakonun çalkalanmaması gerekir. GAZYVA’yı hazırlamak için steril bir iğne ve şırınga 
+kullanılmalıdır. 
+ KLL Döngü 2 – 6 için: 
+ 
+ Flakondan 40 mL konsantreyi çekin ve 9 mg/mL (%0,9) sodyum klorür enjeksiyon çözeltisi içeren polivinil klorür (PVC) veya PVC olmayan poliolefin infüzyon torbalarında seyreltin.  
+ Sadece KLL – Döngü 1
+ 
+ İki infüzyon torbası arasında 1.000 mg başlangıç dozu için ayrım yapabilmek açısından, 
+Döngü1, 1. güne ait 100 mg doz ve Döngü1, 1. güne ya da 2. güne ait 900 mg dozun (devam  
+dozu) ayırt edilmesi için farklı boyda torbaların kullanılması önerilmektedir. 2 infüzyon 
+torbası hazırlamak için flakondan 40 mL konsantreyi çekiniz ve 4 mL’yi 9 mg/mL (%0 ,9) 
+sodyum klorür enjeksiyon çözeltisi içeren 100 mL ’lik PVC veya PVC olmayan poliolefin 
+infüzyon torbasında, kalan 36 mL’yi ise 9 mg/mL (%0 ,9) sodyum klorür enjeksiyon çözeltisi 
+39  içeren 250 mL ’lik PVC veya PVC olmayan poliolefin torba içerisinde  seyreltiniz. Her 
+infüzyon torbasını açıkça etiketleyin iz. 
+ 
+İnfüzyon torbalarının saklama koşulları için bkz. Bölüm 6.3.  
+ 
+Uygulanacak GAZYVA  
+Dozu  Gerekli GAZYVA  
+Konsantresi Miktarı  PVC veya PVC olmayan  
+poliolefin infüzyon 
+torbasını n boyutu  
+100 mg  4 mL  100 mL  
+900 mg  36 mL  250 mL  
+1000 mg  40 mL  250 mL  
+Glikoz (%5) çözeltisi gibi diğer seyrelticiler kullanılmamalıdır (bkz. Bölüm 6.2).  
+ 
+Torba, çözeltiyi karıştırmak üzere, aşırı köpürmeyi önlemek için hafif şekilde altüst  
+edilmelidir.  Seyreltilmiş ürün çalkalanmamalı veya dondurulmamalıdır.  
+ Parenteral tıbbi ürünler, uygulanmadan önce partiküller ve renk değişikliği açısından görsel  
+olarak incelenmelidir.  
+ 
+GAZYVA’nın sodyum klorür 9 mg/mL (0,9%) enjeksiyonluk çözeltiyle seyreltilmesini takiben 0,4 il e 20,0 mg/mL konsantrasyon aralıklarında  GAZYVA ile ; 
+• PVC, polietilen (PE), polipropilen veya poliolefin torbalar  
+• PVC, poliüretan (PUR) veya PE infüzyon setleri  
+• Polietersülfon (PES) ürün temas yüzeyleri olan opsiyonel hat içi filtreler, polikarbonattan 
+(PC) yapılmış 3 yönlü musluk infüzyon aparatı ve polieterüretandan (PEU) yapılmış kateterler arasında geçimsizlik gözlenmemiştir.  
+ 
+İmha  
+ Kullanılmamış olan ürünler ya da atık materyaller “Tıbbi Atıkların Kontrolü Yönetmeliği” ve  
+“Ambalaj  ve Ambalaj  Atıklarının Kontrolü Yönetmeliği”ne uygun olarak imha edilmelidir.  
+ 
+7.    RUHSAT SAHİBİ  
+ 
+Roche Müstahzarları Sanayi Anonim Şirketi,  
+Uniq İstanbul, Ayazağa Cad. No:4,  D/101 Maslak 34396, Sarıyer - İstanbul  
+Tel: (0212) 366 9000 Faks: (0212) 285 2200  
+8.    RUHSAT NUMARASI  
+ 
+2017/394 
+ 9.    İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ  
+ 
+İlk ruhsat tarihi: 13/06/2017 
+Ruhsat yenileme tarihi: 01.08.2022  
+10.  KÜB’ÜN YENİLENME TARİHİ  
+ 
+ 

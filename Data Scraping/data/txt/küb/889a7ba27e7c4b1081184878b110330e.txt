@@ -1,0 +1,541 @@
+1 / 13 
+ KISA ÜRÜN BİLGİSİ  
+ 
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI  
+DİVODİN 20 mcg/ ml I.V. infüzyonluk  çözelti  
+Steril  
+ 
+2. KALİTATİF VE KANTİTATİF BİLEŞİM  
+Her 1 mL ’lik çözelti:  
+Etkin madde:  
+İloprost    20 mcg  (27 mcg iloprost trometamole eşdeğer)  
+ 
+Yardımcı madde(ler):  
+Etanol   1,62 mg  
+Sodyum klorür   9 mg 
+ 
+Yardımcı maddeler için Bölüm 6.1’e bakınız.  
+ 
+3. FARMASÖ TİK FORM  
+İntravenöz (i.v.) infüzyon için renksiz, berrak çözelti.  
+ 
+4. KLİNİK ÖZELLİKLER  
+4.1 Terapötik endikasyonlar  
+• Revaskülarizasyonun endike olmadığı kritik ekstremite iskemisi  bulunan ilerlemiş 
+tromboanji itis obliterans (Buerger Hastalığı) olgularının tedavisi,  
+• Ciddi periferik arter iyel oklüzif hastalık (PAOD) olan hastaların tedavisi, özellikle 
+amputasyon riski taşıyan ve cerrahi girişim veya anjioplastinin mümkün olmadığı olg ular, 
+• Diğer tedavilere cevap vermeyen ve ciddi kısıtlamaya neden olan Raynaud fenomeni olan 
+hastaların tedavisi.  
+ 
+4.2 Pozoloji ve uygulama şekli  
+Pozoloji/uygulama sıklığı ve süresi:  
+DİVODİN sadece hastanelerde dikkatli izlem altında ya da yeterli olanakları bu lunan ayaktan 
+tedavi kliniklerinde kullanılmalıdır.  
+ 
+Kadınlarda, tedavi başlamadan önce gebelik olmadığı kesinleştirilmelidir.  
+ 
+DİVODİN, seyreltildikten sonra periferik ven ya da santral venöz katater aracılığıyla 6 saatte 
+i.v. infüzyon olarak uygulanır. D oz kişise l tolerabiliteye uygun olarak 0,5 – 2 ng iloprost/kg 
+vücut ağırlığı/dk sınırları arasında ayarlanır.  
+ 
+İnfüzyonun başlangıcında ve her doz artımından sonra kan basıncı ve kalp hızı ölçülmelidir.  
+ 
+İlk 2 -3 gün içerisinde, bireysel olarak tolere edile bilen doz saptanır. Bu amaçla, tedaviye 30 
+dakika süreyle 0 ,5 ng/kg/dk infüzyon hızı ile başlanmalıdır. Bundan sonra doz takriben 30 2 / 13 
+ dakikalık aralar ile 0, 5 ng/kg/dk ’lık basamak artış larıyla 2  ng/kg/dk ’ya kadar yükseltilmelidir. 
+Uygun infüzyon hızı, vücut  ağırlığ ı baz alınarak 0,5 -2 ng/kg/dk aralığında belirlenmelidir 
+(infüzyon pompası kullanımı veya otomatik enjektör kullanımı için aşağıdaki tablolara 
+bakınız).  
+ 
+Baş ağrısı, bulantı veya kan basıncında istenmeyen bir düşüş gibi yan etkilerin ortaya 
+çıkmasına bağlı olarak, infüzyon hızı tolere edilebilir doz tespit edilene kadar azaltılmalıdır. 
+Şayet yan etkiler şiddetli ise infüzyon kesilmelidir. Tedaviye daha sonra -genellikle 4 hafta 
+süreyle - ilk 2 ile 3 günde bulunan tolere edilen doz ile devam ed ilmelidir.  
+ 
+İnfüzyon tekniğine bağlı olarak bir ampul iki şekilde seyreltilmektedir. Bunlardan birisi 
+diğerinden 10 kat daha az yoğ unluktadır (0,2 mc g/mL’a karş ı 2 mc g/mL) ve yalnızca bir 
+infüzyon pompasıyla (örn. Infusomat) uygulanabilir. Aksine, yüksek k onsantrasyonlu 
+solüsyon ise otomatik enjektör (örn. Perfusor) ile uygulanmaktadır . Kullanım ve hazırlama 
+talimatları için 4.2. Pozoloji ve uygulama şekli başlığı altında yer alan “Uygulama şekli” 
+bölümüne bakınız.  
+ 
+İnfüzyon pompası kullanımında değişik doz lar için infüzyon hızları ( mL/saat):  
+Genel olarak, kullanıma hazır infüzyon çözeltisinin bir infüzyon pompası (örn. Infusomat) 
+yardımıyla i.v. olarak infüzyonu yapılır. İnfüzyon pompası kullanırken seyreltme talimatları 
+için 4.2. Pozoloji ve uygulama şekli  başlığı altında yer alan “Uygulama şekli” bölümüne 
+bakınız.  
+ 
+0,2 mc g/mL konsantrasyonda DİVODİN  kullanılacaksa 0,5 ile 2  ng/kg/d k arasında doz 
+verebilmek için yukarıda tarif edilen plana göre gerekli infüzyon hızına karar verilmelidir.  
+ 
+Hastanın vücut ağırlığına ve verilecek doza uyacak infüzyon hızını hesaplamak için aşağıdaki 
+tablo kullanılabilir. Lütfen hastanın mevcut ağırlığına uyan rakam aralığını seçiniz, sonra 
+ng/kg/dk cinsinden hedef doza göre infüzyon hızını ayarlayınız.  
+ 
+Vücut Ağırlığı 
+(kg) Doz (ng/kg/dk)  
+0,5 1 1,5 2 
+İnfüzyon hızı ( mL/saat)  
+40 6 12 18 24 
+50 7,5 15 22,5 30 
+60 9 18 27 36 
+70 10,5 21 31,5 42 
+80 12 24 36 48 
+90 13,5 27 40,5 54 
+100 15 30 45 60 
+110 16,5 33 49,5 66 
+ 
+ 3 / 13 
+ Otomatik enjektör kullanımında değişik dozlar için infüzyon hızları ( mL/saat) : 
+50 mL’lik otomatik enjektör de (örn. Perfusor) kullanılabilir. Otomatik enjektör kullanırken 
+seyreltme talimatları için 4.2. Pozoloji ve uygulama şekli başlığı altında yer alan “Uygulama 
+şekli” bölümüne bakınız.  
+ 
+2 mcg/mL’lik DİVODİN konsantrasyonu durumunda gerekli olan infüzyon hızı yukarıdaki 
+plana uygun olarak 0,5 -2 ng/kg/d k arasında doz meydana getirecek şekilde belirlenmelidir.  
+ 
+Hastanın vücut ağırlığına ve verilecek doza u yacak infüzyon hızını hesaplamak için aşağıdaki 
+tablo kullanılabilir. Lütfen hastanın mevcut ağırlığına uyan rakam aralığını seçiniz, sonra 
+ng/kg/dk cinsinden hedef doza göre infüzyon hızını ayarlayınız.  
+ 
+Vücut Ağırlığı 
+(kg) Doz (ng/kg/dk)  
+0,5 1 1,5 2 
+İnfüzyon hızı ( mL/saat)  
+40 0,6 1,2 1,8 2,4 
+50 0,75 1,5 2,25 3 
+60 0,9 1,8 2,7 3,6 
+70 1,05 2,1 3,15 4,2 
+80 1,2 2,4 3,6 4,8 
+90 1,35 2,7 4,05 5,4 
+100 1,5 3 4,5 6 
+110 1,65 3,3 4,95 6,6 
+ 
+Tedavi 4 haftaya kadar sürebilir. Raynaud fenomeninde daha kısa tedavi süreleri (3 -5 gün) 
+çoğunlukla haftalarca devam eden iyileşme elde etmek için yeterlidir.  
+ 
+Birkaç gün boyunca sürekli infüzyon, trombosit etkilerine taşiflaksi gelişimi olasılığı -bugüne 
+kadar bu fenomen ile alakalı klinik komplikasyonlar bildirilmed iği halde - ve tedavinin 
+sonunda oluşabilecek rebound trombosit hiperagregasyon riski nedeniyle önerilmemektedir.  
+ 
+Uygulama şekli:  
+DİVODİN seyreltildikten sonra i.v. infüzyon şeklinde periferik ven veya bir merkezi venöz 
+kateter ile günde 6 saat süreyle uyg ulanır.  
+ 
+DİVODİN yalnızca seyreltildikten sonra kullanılmalıdır.  
+ 
+Etkileşim olasılığı nedeniyle kullanıma hazır infüzyon solüsyonuna başka bir ilaç 
+eklenmemelidir.  
+ 
+Sterilizasyonunu garanti edebilmek için kullanıma hazır infüzyon solüsyonu her gün yeni 
+olarak hazırlanmalıdır.  
+ 4 / 13 
+ Seyreltme talimatları  
+Ampul ve seyreltici içeriklerinin tamamı titizlikle karıştırılmalıdır.  
+ 
+DİVODİN’in infüzyon pompası ile kullanım için seyreltilmesi:  
+Bu amaçla DİVODİN’in 1 mL (yani 20 mc g) içeren bir adet ampulü steril  serum fizyolojik ile 
+veya %5 glukoz solüsyonu ile sonuçta 100 mL infüzyon hacmine tama mlanacak şekilde 
+seyreltilir.  
+ 
+DİVODİN’in otomatik enjektör ile kullanım için seyreltilmesi:  
+Bu amaçla DİVODİN’in 1 mL (yani 20 mc g) içeren bir adet ampulü steril  serum fizyolojik ile 
+veya %5 glukoz solüsyonu ile sonuçta 10 mL infüzyon hacmine tama mlanacak şekilde 
+seyreltilir.  
+ 
+Özel popülasyonlara ilişkin ek bilgiler:  
+Böbrek/ karaciğer yetmezliği:  
+Karaciğer sirozu olan hastalarda ve diyaliz gerektiren böbrek yetmezl iği bulunan hastalarda 
+iloprost eliminasyonunun azaldığı akılda tutulmalıdır. Bu hastalarda doz azaltılması 
+gerekmektedir (ör: önerilen dozun yarısı).  
+ 
+Pediyatrik popülasyon:  
+Çocuklar ve adolesanlarda sadece sporadik kullanım söz konusudur. 18 yaşın altınd akilerin 
+DİVODİN tedavisine nasıl cevap verdiği ile ilgili sınırlı bilgi bulunduğu için, 18 yaşın 
+altındaki hastalara uygulanırken dikkatli olunmalıdır.  
+ 
+4.3 Kontrendikasyonlar  
+• Gebelik;  
+• Laktasyon;  
+• DİVODİN’in trombositler üzerine olan etkisinin kanama riskini a rttırabileceği hallerde (ör: 
+aktif peptik ülser, travma, intrakraniy al kanama) kullanılmamalıdır;  
+• Ciddi koroner kalp hastalıkları veya stabil olmayan anjina;  
+• Son altı ay içinde geçirilmiş miyokard infarktüsü;  
+• Akut ya da kronik konjestif kalp yetmezliği (NY HA II – IV); 
+• Şiddetli aritmiler;  
+• Pulmoner konjesyon şüphesi;  
+• İloprosta veya ilacın içeriğindeki diğer maddelerden herhangi birine aşırı duyarlılık.  
+ 
+4.4 Özel kullanım uyarıları ve önle mleri 
+Acil amputasyon gereken hastalarda (ör: enfekte gangrenlerde) cerrahi girişim 
+geciktirilmemelidir. Hastalara sigara içmeyi bırakmaları kesinlikle önerilmelidir.  
+ 
+Karaciğer fonksiyon bozukluğu ve diyaliz gerektiren böbrek yetmezliği olan hastalarda 
+iloprost atılımı azalmaktadır (bkz. “4.2. Pozoloji ve uygulama şekli” ve “5.2.  Farmakokinetik 
+özellikler”).  5 / 13 
+ Düşük kan basıncı olan hastalarda daha ileri hipotansiyon gelişmesinden kaçınmak için 
+dikkatli olunmalı ve belirgin kalp hastalığı olan hastalar yakından izlenmelidir.  
+ 
+İlaç uygulamasının bitiminden sonra, yatar pozisyondan ay ağa kalkan hastalarda ortostatik 
+hipotansiyon gelişme olasılığı göz önünde tutulmalıdır.  
+ 
+Son 3 ayda serebrovasküler olay geçiren hastalar için (örn. geçici iskemik atak, inme) dikkatli 
+bir yarar -risk değerlendirmesi yapılmalıdır (bkz. “4.3 Kontrendikasyon lar”- kanama riski, örn.  
+intrakraniyal kanama) . 
+ 
+Halen, çocuk ve ergenlerde kullanımı hakkında yalnızca sporadik bildiri mler bulunmaktadır.  
+ 
+Seyreltilmemiş DİVODİN ’in paravasküler infüzyonu enjeksiyon yerinde lokal değişikliklere 
+neden  olabilir.  
+ 
+Oral alın masından ve mukoz membranlarla temas etmesinden kaçınılmalıdır. Deri ile temas 
+etmesi halinde iloprost uzun süren fakat ağrısız eritemi provoke edebilir. Bu nedenle 
+iloprostun deriyle temas etmesinden kaçınmak için uygun önle mler alınmalıdır. Bu tip bir 
+temas halinde etkilenen alan derhal bol miktarda su veya serum fizyolojik ile yıkanmalıdır.  
+ 
+Bu tıbbi ürün az miktarda, her mL’de 100 mg’dan daha az etanol (alkol) içerir.  
+ 
+Bu tıbbi ürün her mL’de 1 mmol (23 mg)’dan daha az sodyum içerir. Yani esasında “sody um 
+içermez”.  
+ 
+4.5 Diğer tıbbi ürünler ile etkileşi mler ve diğer etkileşim şekilleri  
+İloprost, beta reseptör blokerlerin, kalsiyum kanal blokerlerinin, vazodilatörlerin ve 
+anjiyotensin dönüştürücü enzim inhibitörlerinin antihipertansif aktivitesini arttırabilir. 
+Belirgin hipotansiyon durumunda iloprost dozu azaltılabilir.  
+ 
+İloprost trombosit fonksiyonlarını inhibe ettiği için antikoagülanlarla (heparin, kumarin tipi 
+antikoagülanlar gibi) veya diğer trombosit agregasyon inhibitörleriyle (asetilsalisil ik asit, 
+non-steroid antiinflamatuvar ilaçlar, fosfodiesteraz inhibitörleri ve nitro vazodilatörler örn. 
+molsidomin) ile birlikte kullanımı kanama riskini artırabilir. Bu duru mlarda, iloprost 
+uygulaması durdurulmalıdır.  
+ 
+Sekiz günden uzun süreli günlük 300 mg’a kadar asetilsalisilik asit ile yapılan oral 
+premedikasyonun iloprost farmakokinetiğine etkisi olmamıştır. Bir deney hayvanı 
+çalışmasında iloprostun t -PA’nın kararlı durum plazma konsantrasyonunda azalmaya neden 
+olabileceği bulunmuştur. İnsan çalışmalarının sonuçları, hastalarda iloprost infüzyonunun 
+çoklu oral dozda verilen digoksin farmakokinetiğini etkilemediğini ve iloprost eşliğinde 
+uygulanan t -PA’nın farmakokinetiğine etkisi olmadığını göstermektedir.  
+ 6 / 13 
+ Hayvan de neylerinde iloprostun vazodilatör etkisi, hayvanlara glukokortikoidlerle 
+premedikasyon yapıldığında zayıflamış; ancak trombosit agregasyonu üzerine inhibitör etkisi 
+değişmemiştir. Bu bulgunun insanlardaki kullanımındaki önemi bilinmemektedir.  
+ 
+Her ne kadar  klinik çalışma yapılmamış olsa da iloprostun sitokrom P450 enzim sistemi 
+aktivitesi üzerine inhibitör etki potansiyelini araştıran in vitro çalışmaların sonuçlarına göre, 
+bu enzi mler yoluyla iloprost tarafından ilaç metabolizmasının inhibe olması 
+beklenme mektedir.  
+ 
+4.6 Gebelik ve laktasyon  
+Genel tavsiye  
+Gebelik kategorisi X’tir.  
+ 
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon)  
+Gebelik sırasında tedavide iloprostun kullanımının muhtemel riskleri bilinmediğinden, çocuk 
+doğurma potansiy eli olan kadınlar tedavi sırasında etkili doğum kontrol yönte mleri 
+kullanmalıdır.  
+ 
+Gebelik dönemi  
+DİVODİN gebe kadınlara uygulanmamalıdır. DİVODİN’in gebe kadınlarda kullanımı 
+hakkında yeterli veri yoktur. Preklinik çalışmalar sıçanlarda fetotoksisite kanı tı göstermiş, 
+fakat tavşanlarda ve maymunlarda göstermemiştir. (bkz. 5.3 Klinik öncesi güvenlilik verileri).  
+ 
+Gebelik döneminde uygulandığı takdirde iloprostun ciddi doğum kusurlarına yol açtığından 
+şüphelenilmektedir. DİVODİN, gebelik döneminde kontrendik edir (bkz. 4.3 
+Kontrendikasyonlar).  
+ 
+Laktasyon dönemi  
+DİVODİN emziren kadınlara uygulanmamalıdır. İloprostun anne sütüne geçip geçmediği 
+bilinmemektedir. Sıçanların sütüne çok az miktarda geçtiği için iloprost emziren kadınlara 
+uygulanmamalıdır.  
+ 
+4.7 Araç ve makine kullanımı üzerindeki etkiler  
+Bilinmiyor.  
+ 
+4.8 İstenmeyen etkiler  
+DİVODİN’e ilişkin genel güvenilirlik profili, pazarlama sonrası gözetimden alınan veriler ile 
+derlenmiş klinik çalışma verilerine dayanmaktadır. Ham insidanslar, kontrollü veya 
+kontrolsüz çalışmalarda, veya genel olarak III ve IV ileri evre periferik arteriyel okluzif 
+hastalıklı (PAOD) ve tromboanjiitis obliteranslı (TAO) yaşlı ve çoklu morbid hastaların 
+bulunduğu insani nedenlerle ilaca erken erişim programında iloprost almış 3325 hastaya 
+ilişkin kümülatif veritabanına dayanmıştır.  
+ 7 / 13 
+ Klinik çalışmalarda iloprost alan hastalarda (≥ %10) en sık gözlenen advers ilaç reaksiyonları, 
+baş ağrısı, kızarma, mide bulantısı, kusma ve hiperhidrozdur. Bu reaksiyonların, hastanın en 
+iyi tolere edebileceği  dozun tanı mlanması açısından dozun, tedavinin başında titre edilmesi 
+sırasında meydana gelmesi muhtemeldir. Ancak tüm bu yan etkiler genellikle dozun 
+azaltılması ile birlikte hızlı bir şekilde kaybolur.  
+ 
+Genelde, iloprost alan hastalardaki en ciddi advers  ilaç reaksiyonları, serebrovasküler olay, 
+miyokar d infarktüsü, pulmoner embolizm, kalp yetmezliği, konvulsiyon, hipotansiyon, 
+taşikardi, astım, anjina pektoris, dispne ve pulmoner ödemdir.  
+ 
+Yan etkilerin diğer grubu lokal  infüzyon yeri reaksiyonları ile ilişkilidir. Örneğin, infüzyon 
+yeri kızarıklığı ve infüzyon yeri ağrısı ortaya çıkabilir veya kutanöz vazodila tasyon, infüzyon 
+damarının üstünde benekli eriteme neden olabilir.  
+ 
+DİVODİN  ile gözlenen advers ilaç reaksiyonlar ı sistem organ sınıfına göre sınıflandırılmıştır. 
+En uygun MedDRA terimi, belli bir reaksiyonu, eşanla mları ve ilişkili durumu tanı mlamak 
+için kullanılmıştır.  
+ 
+Klinik çalışmalardaki advers ilaç reaksiyonları, sıklıklarına göre sınıflandırılmıştır. Sıklık  
+gruplamaları, aşağıdaki geleneksel yönteme göre tanı mlanmaktadır: çok yaygın ( ≥1/10), 
+yaygın ( ≥1/100 ila <1/10), yaygın olmayan ( ≥1/1.000 ila <1/100), seyrek ( ≥1/10.000 ila 
+<1/1.000), çok  seyrek (<1/10.000), bilinmiyor (eldeki verilerden hareketle tahmin 
+edilemiyor).  
+ 
+Kan ve lenf sistemi hastalıkları  
+Yaygın olmayan:  Trombositopeni  
+ 
+Bağışıklık sistemi hastalıkları  
+Yaygın olmayan:  Aşırı hassasiyet  
+ 
+Metabolizma ve beslenme hastalıkları  
+Yaygın:  İştahsızlık  
+ 
+Psikiyatrik hastalıklar  
+Yaygın:  Apati, bilinç kaybı  
+Yaygın olmayan:  Anksiyete, depresyon, halusinasyon  
+ 
+Sinir sistemi hastalıkları  
+Çok yaygın:  Baş ağrısı  
+Yaygın:  Baş dönmesi, vertigo, parestezi, çarpıntı hissi, hiperestezi, yanma hissi, 
+huzursuzluk, ajitasyon, sedasyon, uyuşukluk  
+Yaygın olmayan:  Konvulsiyon *, senkop, tremor, migren  
+ 
+ 8 / 13 
+ Göz hastalıkları  
+Yaygın olmayan:  Bulanık görüntü, gözde iritasyon, göz ağrısı  
+ 
+Kulak ve iç kulak hastalıkları  
+Seyrek:  Vestibüler bozukluk  
+ 
+Kardi yak hastalıklar  
+Yaygın:  Taşikardi*, bradikardi, anjina pektoris*  
+Yaygın olmayan:  Miyokard infarktüsü*, kalp yetmezliği*, aritmi, ekstrasistoller  
+ 
+Vasküler hastalıklar  
+Çok yaygın:  Belirgin kızarıklık  
+Yaygın:  Hipotansiyon*, kan basıncında artış  
+Yaygın olmayan:  Serebrovasküler olay*, serebrovasküler iskemi, pulmoner emboli*,derin 
+ven trombozu  
+ 
+Solunum, göğüs bozuklukları ve mediastinal hastalıklar  
+Yaygın:  Dispne*  
+Yaygın olmayan:  Astım*, pulmoner ödem*  
+Seyrek:  Öksürük  
+ 
+Gastrointestinal hastalıklar  
+Çok yaygın:  Bulantı, kusma  
+Yaygın:  Diyare, abdominal rahatsızlık, abdominal ağrı  
+Yaygın olmayan:  Hemorajik diyare, rektal kanama, dispepsi, rektal tenezm, kabızlık, 
+geğirme, yutma güçlüğü, ağız kuruluğu, disgozi  
+Seyrek:  Prok tit 
+ 
+Hepatobilier hastalıklar  
+Yaygın olmayan:  Sarılık  
+ 
+Deri ve deri altı doku hastalıkları  
+Çok yaygın:  Hiperhidroz  
+Yaygı n olmayan:  Kaşıntı  
+ 
+Kas – iskelet bozuklukları, bağ doku ve kemik hastalıkları  
+Yaygın:  Çene ağrısı, trismus, miyalji, artralji  
+Yaygın olmayan:  Tetani, kas spaz mları, hipertoni  
+ 
+Böbrek ve idrar yolu hastalıkları  
+Yaygın olmayan:  Böbrek ağrısı, vezikal tenesm us, idrar bozukluğu, dizüri, idrar yolu 
+hastalığı  
+ 
+ 9 / 13 
+ Genel bozukluklar ve uygulama bölgesine ilişkin hastalıklar  
+Yaygın:  Ağrı, pireksi, artmış vücut sıcaklığı, ateş hissi, asteni, kırıklık, titreme, 
+bitkinlik, yorgunluk, susama, enjeksiyon yeri reaksiyonu ( infüzyon yeri 
+eritemi, infüzyon yeri ağrısı, infüzyon sonrası  flebit)  
+ 
+* Hayatı tehdit edici ve/veya ölü mle sonuçlanan vakalar bildirilmiştir.  
+ 
+İloprost özellikle koroner arter hastalığı olan hastalarda anjina pektorisi harekete geçirebilir.  
+Trombosit agre gasyonu inhibitörleri, heparin veya kumarin tipinde antikoagülanlarla beraber 
+verildiğinde hastalarda kanama riski artmaktadır.  
+ 
+Şüpheli advers reaksiyonların raporlanması  
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem 
+taşımaktadır. Raporlama yapılması, ilacın yarar / risk dengesinin sürekli olarak izlenmesine 
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye 
+Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir (www.titck .gov.tr;  
+e- posta: tufam@titck.gov.tr; tel: 0 800 314 00 08; faks: 0 312 218 35 99).  
+ 
+4.9 Doz aşımı ve tedavisi  
+Sempto mlar 
+Baş ağrısı, belirgin kızarıklık, bulantı, kusma ve diyarenin yanı sıra hipotansif reaksiyon da 
+beklenebilir. Kan basıncı artışı, bradikardi veya taşikardi ve ekstremite ya da sırt ağrısı 
+olasılığı vardır.  
+ 
+Tedavi  
+Spesifik antidotu yoktur. İnfüzyonun kesilmesi, monitorizasyon ve semptomatik önle mler 
+önerilir.  
+ 
+5. FARMAKOLOJİK ÖZELLİKLER  
+5.1 Farmakodinamik özellikler  
+Farmakoterapötik grup: T rombosit agregasyon inhibitörleri (heparin hariç)  
+ATC kodu: B01AC 11 
+ 
+İloprost bir prostasiklin (PGI 2) analogudur.  
+ 
+Aşağıdaki farmakolojik etkiler gözlenmiştir:  
+• Trombosit agregasyonunun, adhezyonunun ve salıverilme reaksiyonunun inhibisyonu  
+• Arteriol ve venüllerin dilatasyonu  
+• Kapiller dansitede artış ve mikrosirkülasyonda serotonin ya da histamin gibi mediatörlerin 
+neden olduğu vasküler permeabilite artışı  
+• Endojen fibrinolitik potansiyelin stimülasyonu  
+• Endotel hasarından sonra lökosit adezyonunun inhibisy onu ve hasarlı dokuya lökosit 
+birikimi gibi antiinflamatuvar etkiler ve tümör nekroze edici faktör salımının azalması  
+ 10 / 13 
+ 5.2 Farmakokinetik özellikler  
+Genel özellikler  
+Emilim:  
+İntravenöz uygulandığı için geçerli değildir.  
+ 
+Dağılım:  
+İntravenöz infüzyon başladıkta n 10-20 dakika gibi kısa bir süre sonra kararlı durum plazma 
+düzeylerine ulaşılır. Kararlı durum plazma seviyeleri infüzyon hızı ile doğru orantılıdır. 3 
+ng/kg/dk infüzyon hızı ile yaklaşık 135  ± 24 pg/ mL plazma konsantrasyonu elde edilir. 
+İnfüzyonun sona erdirilmesinden sonra yüksek metabolizma hızı nedeni ile iloprost plazma 
+konsantrasyonu hızla düşer. Plazmadaki metabolik madde kl irensi yaklaşık 20 ± 5 
+mL/kg/dk’dır. Plazma yarı ömrü 0, 5 saattir, bunun sonucu olarak infüzyonun sona ermesinden 
+hemen 2 saat  sonra madde düzeyi denge konsantrasyonunun % 10’unun altına düşer.  
+ 
+Yüksek oranda iloprost, kan plazma albuminine (proteine bağlanım: %60) bağlandığında 
+yalnızca çok  düşük iloprost konsantrasyonları elde edildiğinden, plazma proteinine bağlanma 
+düzeyinde diğer  ilaçlarla etkileş im olması imkansızdır. İ loprost tedavisinin diğer ilaçların 
+biyotransformasyonuna etki  etmesi de, metabolik yolaklar ve düşük mutlak doz yüzünden 
+benzer şekilde son derece düşük bir  ihtimaldir.  
+ 
+Biyotransformasyon:  
+İloprost, esas olarak, karboksil yan zincirinin, β-oksidasyonu ile metabolize olur. İloprost  
+metabolitlerine dönüşerek elimine olur. Değişmeyen hiç bir madde atılmamıştır. Ana 
+metabolit tetranor -iloprosttur, idrarda serbest olarak ve 4 diaster eoizomerine k onjuge halde 
+bulunur. Tetranor -iloprost  hayvan çalışmalarında gösterildiği gibi farmakolojik olarak 
+inaktif tir. İn vitro çalışmalar,  iloprostun i.v. uygulaması ya da inhalasyonundan sonra 
+akciğerlerde metabolizmasının benzer  olduğunu göstermiştir.  
+ 
+Eliminasyon:  
+Normal renal ve hepatik fonksiyonu olan kişilerde, i.v. infüzyondan sonra iloprostun 
+atılımyarı  ömürleri yaklaşık 3 ve 5 saat ve 15 ve 30 dakika olan 2 fazda gerçekleşir. Total 
+iloprost kl irensi 20  mL/kg/dk’dır. Bu durum, iloprost metabolizmas ına ekstrahepatik katkıyı 
+gösterir.  
+ 
+3H-İloprost kullanan sağlıklı kişilerde kütle denge çalışması gerçekleştirilmiştir. İntravenöz  
+uygulamayı takiben, toplam radyoaktivite geri kazanımı %81 olup, idrarda ve feçes te ise 
+sırasıyla  %68 v e % 12’dir. Metabolitler plazmadan ve idrardan 2 fazlı olarak elimine 
+olmaktadır ve plazmada  yarılanma ömrü 2 -5 saat, idrarda ise 2 -18 saat olarak hesaplanmıştır.  
+ 
+Hastalardaki karakteristik özellikler  
+Böbrek yetmezliği:  
+İloprostun i.v. infüzyonu ile yapılan bir çalış mada, aralıklı diyalize giren son dönem böbrek 
+yetmezliği olan hastalarda (ortalama 5±2 mL/dk/kg) diyalize girmeyen böbrek yetmezliği 11 / 13 
+ olan hastalara göre (ortalama 18  ± 2 mL/dk/kg) anla mlı olarak daha düşük kl irensin olduğu 
+gözlenmiştir.  
+ 
+Karaciğer yetmezl iği: 
+İloprost başlıca karaciğer tarafından metabolize edildiğinden, hepatik fonksiyonda değişiklik 
+ilacın plazma seviyelerini etkilemektedir. Bir i.v. çalışmada, sonuçlar karaciğer sirozu olan 8 
+hastadan sağlanmıştır. Ortalama kl irens 10 mL/dk/kg olarak ta hmin edilmiştir.  
+ 
+Yaş ve cinsiyet:  
+İloprostun farmakokinetiği, yaş ve cinsiyete bağlı değildir.  
+ 
+5.3 Klinik öncesi güvenlilik verileri  
+Preklinik veriler, insanlarda süregelen çalışmalardan hareketle, güvenlilik farmakolojisi, 
+tekrarlayan doz toksisitesi, genotoksisite, karsinojenik potansiyel için spesifik bir tehlikeye 
+işaret etmemektedir. Preklinik etkiler, insanlarda kullanılan en yüks ek dozun yeterince 
+üstündeki dozlara maruz kalındığında gözlenmiştir. Bu da klinik kullanım ile az ilişkilidir.  
+ 
+Sistemik toksisite  
+Akut toksisite çalışmalarında, iloprost terapötik i.v. dozunun 2 katı büyüklüğündeki tekli i.v. 
+ve oral  dozların ciddi intok sikasyon veya ölü mle (intravenöz) sonuçlanabileceği 
+gösterilmiştir. İloprostun  yüksek farmakolojik gücü ve terapötik amaçlar için mutlak dozu 
+akut toksisite çalışmalarında  değerlendirilirken, insanda akut yan etki riski oluşturmadığına 
+işaret eden sonuçlar  alınmıştır. Bir  prostasiklinden beklenebileceği gibi iloprost hemodinamik 
+etkiler (vazodilatasyon, ciltte kırmızılıklar,  hipotansiyon, trombosit fonksiyonlarının 
+inhibisyonu, solunum rahatsızlığı) ve apati, yürüyüş  bozukluğu ve postüral değişiklikler gibi  
+genel intoksikasyon belirtileri ortaya çıkarır.  
+ 
+İntravenöz infüzyonla tekrarlayan deva mlı sistemik toksisite çalışmalarında, 14 ng/kg/dk’da 
+kan basıncında hafif bir düşüş meydana gelmiştir, sadece çok yüksek dozlarda ciddi 
+istenmeyen etkiler  (hipotansiyo n, solunum fonksiyonunda rahatsızlık) oluşmuştur.  
+ 
+26 haftadan fazla tekrarlanan i.v./s .c. infüzyon ile kemirgenlerde/kemirgen olmayanlarda, 
+insanda  terapötik dozu 14 ila 47 kez aşan dozlarda (plazma kan düzeyleri baz alınarak) organ 
+toksisitesine yol açma mıştır. Sadece beklenen farmakolojik etkiler olan hipotansiyon, ciltte 
+kırmızılıklar, dispne,  bağırsak motalitesinde artma gözlenmiştir.  
+ 
+Genotoksik potansiyel, tümorijenisite  
+In vitro ve in vivo çalışmalarda mutajenik potansiyel için kanıt oluşturacak genotoksik etki  
+oluşmamıştır.  
+ 
+Tümorijenisite çalışmalarında iloprostun sıçan ve farede tümorijenik potansiyeli  
+gözlenmemiştir.  
+ 
+ 12 / 13 
+ Üreme toksikolojisi  
+Sıçanlarda yapılan embriyo ve fetotoksisite çalışmalarında iloprostun deva mlı olarak i.v. 
+uygulaması  dozdan bağımsız olarak bazı köpek yavrularında ön pençelerde tek parmak 
+anomalilerine yol açmıştır.  Bu değişiklikler gerçek teratojenik etkiler sayılmasa da, büyük 
+olasılıkla iloprostun fetoplasental  ünitede neden olduğu hemodinamik değişiklikler sonucunda  
+büyümenin gerilemesiyle ilişkilidir.  Postnatal gelişim esnasında büyümedeki yavaşlamanın 
+büyük oranda reversibl olduğu  düşünülmektedir. Tavşan ve maymunlarda gerçekleştirilen 
+karşılaştırmalı embriyotoksisite  çalışmalarında insan dozunu defalarca aşan düze yde fazla 
+dozlarda bile bu tip bir parmak anomalisi  veya kaba -yapısal anomali gözlenmemiştir.  
+ 
+Sıçanlarda çok düşük düzeyde iloprostun süte geçişi gözle mlenmiştir.  
+ 
+6. FARMASÖTİK ÖZELLİKLER  
+6.1 Yardımcı maddelerin listesi  
+Etanol  (%96 a/h)  
+Trometamol  
+Sodyum klorür  
+Hidroklorik asit  
+Enjeksiyonluk su  
+ 
+6.2 Geçimsizlikler  
+“4.2 Pozoloji ve uygulama şekli” bölümünde tanı mlananların haricindeki tıbbi ürünlerle ilgili 
+veri yoktur.  
+ 
+6.3 Raf ömrü  
+24 ay  
+ 
+6.4 Saklamaya yönelik özel tedbirler  
+30°C  altındaki oda sıcaklığında saklanmalıdır.  
+ 
+%0,9 sodyum klorür çözeltisi veya %5 glukoz çözeltisiyle seyrel tildikten sonra 25°C  altındaki 
+oda sıcaklığında 6 saat saklanabilir.  
+ 
+6.5 Ambalajın niteliği ve içeriği  
+Kırmızı ve sarı renkli iki halka ile kodlanmış, 1 mL’lik renksiz, Tip I nötral cam ampul. Bir 
+karton kutuda seperatör içinde beş adet ampul kullanma talimatı ile birlikte sunulmaktadır.  
+ 
+6.6 Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önle mler 
+Kullanılmamış olan ürünler ya da atık materyaller, “ Tıbbi Atıkların Kontrolü Yönetmeliği” ve  
+“Ambalaj ve Ambalaj Atıklarının Kontrolü Yönetmeliği”ne uygun olarak imha edilmelidir.  
+ 
+ 
+ 
+ 13 / 13 
+ 7. RUHSAT SAHİBİ  
+DEVA HOLDİNG A.Ş  
+Halkalı Merkez Mah. Basın Ekspres Cad.  
+No: 1 34303 Küçükçekmece / İSTANBUL  
+Tel: 0 212 692 92 92 
+Faks : 0 212 697 00 24  
+ 
+8. RUHSAT NUMARASI(LARI)  
+2018/40  
+ 
+9. İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ  
+İlk ruhsat tarihi:  26.01.2018  
+Ruhsat yenileme tarihi:  
+ 
+10. KÜB’ÜN YENİLENME TARİHİ  
+- 

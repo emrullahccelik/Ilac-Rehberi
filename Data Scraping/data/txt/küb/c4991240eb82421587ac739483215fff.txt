@@ -1,0 +1,462 @@
+ 
+ 
+  1 / 10                  
+ KISA ÜRÜN BİLG İSİ 
+ 
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI:  
+ 
+MON. NaF (18F) 250 M Bq /mL  i .v. enjeksiyonluk ç özelti  içeren f lakon  
+ 
+2. KALİTATİF VE KANTİTATİF BİLEŞİM  
+ 
+Etkin Madde :  
+Sodyum florür  (18F) 250 MBq ( 6.8 mCi) /mL  (kalibrasyon tarih ve saatinde)  
+ 
+Her bir flakondaki aktivite kal ibrasyon tarih ve saatinde 280  MBq (7,5 mCi)  – 9500 MBq 
+(256.8mCi) arasında değişir.    
+ 
+18F ‘in yarılanma ömrü 110 dakikadır .  634 keV  lik maksimum enerji ile pozitron radyasyonu 
+yayar ak stabil oksijen(18O)’e bozunur ve bunu 0.511 M eV lik foton anilasyon radyasyonu  
+izler.  
+ 
+Yardımcı madde ler : 
+Her bir mL çözelti maksimum 3. 54 mg sodyum iyonu içerir.  
+ 
+Yardımcı maddeler için 6.1’e bakınız. 
+ 
+3. FARMASÖTİK FORM  
+ 
+Enjeksiyonluk, renksiz  çözelti.  
+ 
+4. KLİNİK ÖZELLİKLER  
+ 
+4.1  Terapötik e ndikasyonlar  
+ 
+Bu ilaç sadece tanı  amacıyla kullanılır.  
+       
+Sodyum  florür  (18F) pozitron emisyon tomografisi  (PET),  anormal  osteojenik aktivite 
+değişikliği bulunan  hedef  hastalıkların fonksiyonel  görüntülenmesinde  endikedir. MON.NaF 
+(18F) 250 MBq/mL i.v. enjeksiyonluk çözel ti aşağıdaki endikasyonlarda kullanılır:  
+- Yetişkinlerde kanserin kemik metastazlarının saptanması ve lokalizasyonunda.  
+- Yetişkinlerde, konvansiyonel  görüntüleme yöntemleri  ile kökeni belirlenemeyen  sırt 
+ağrısının  değerlendirilmesinde  yardımcı  olarak . 
+- Şüphel i çocuk istismarı  ile ilişkili kemik  lezyonlarının varlığının tespitinde  bir yardımcı 
+olarak.  
+ 
+4.2 Pozoloji ve uygulama şekli  
+ 
+Pozoloji  / Uygulama sıklığı ve süresi : 
+ 
+Yetişkinler  
+70 kg ağırlığında bir yetişkin için  önerilen aktivite  370 MBq’dir . Ancak doz , hastanın vücut 
+ağırlığına ve kullanıla n kamera tipine, pozitron emisyon tomografi cihazının özelliklerine 
+(PET/ CT) ve görüntü alma tarzına bağlı olarak  100 – 400 MBq arasında değişir.  100 – 400 
+MBq aktivitenin direkt intravenöz enjeksiyonu ile görüntü alı nabilir.    
+ 
+  2 / 10                  
+  
+Gerekirse,  sodyum florür  (18F) PET incelemeleri  kısa bir  süre içinde  tekrar edilebilir.  
+ Uygulama sekli:  
+ 
+Görüntüleme hatalarını ve lokal ekstravazasyon sonucu radyasyona maruz kalmayı önlemek 
+için sodyum florür (
+18F) enjeksiyonu intravenöz olar ak yapılmalıdır.  
+ 
+Özel popülasyon lara ilişkin ek bilgiler : 
+ 
+Böbrek/Karaciğer yetmezliği :   
+Böbrek yetmezliğinde iyonize radyasyona maruziyet artabil eceğinden , uygulanacak  aktivite  
+hesaplanırken  bu durum göz  önüne alınmalıdır . 
+ 
+Pediatrik Popülasyon :  
+Bu il acın çocuklarda ve adolesan larda kullanımı, bu popülasyondaki fayda/risk oranı ve klinik 
+ihtiyaçların dikkatli değerlendirilmesi sonucunda kararlaştırılmalıdır. Uygulanan tedavi 
+EANM pediatri çalışma grubunun (Paediatric Task Group) dozaj kart ı (uygulama t arihinde 
+geçerli olan) tavsiyelerine uygun olarak hesaplanmalıdır.  Çocuklara ve adolesanlara  
+uygulanacak aktivite, vücut ağırlığı içi n aşağıdaki tabloda belirtilen katsayı  ile bazal aktivite 
+çarpıl arak, şu formülle hesaplanabilir:  
+ 
+Önerilen aktivite A[MBq ] = Bazal aktivite x Katsayı  
+ 
+3 Boyutlu PET cihazı ile kayıt durumunda 14 MBq lık, 2 boyutlu PET cihazı ile kayıt  
+durumunda ise 26 MBq lık minimum bir aktivite önerilir. Çocuklarda 3 boyutlu görüntüleme 
+yöntemi tercih edilmelidir.  
+ 
+Ağırlık  Katsayı  Ağırlık  Katsayı  Ağırlık  Katsayı  
+3 Kg  = 1   22 Kg  = 5.29 42 Kg  = 9.14 
+4 Kg  = 1.14 24 Kg  = 5.71 44 Kg  = 9.57 
+6 Kg  = 1.71 26 Kg  = 6.14 46 Kg  = 10.00  
+8 Kg  = 2.14 28 Kg  = 6.43 48 Kg  = 10.29  
+10 Kg  = 2.71 30 Kg  = 6.86 50 Kg  = 10.71  
+12 Kg  = 3.14 32 Kg  = 7.29 52-54 Kg = 11.29  
+14 Kg  = 3.57 34 Kg  = 7.72 56-58 Kg  = 12.00  
+16 Kg  = 4.00 36 Kg  = 8.00 60-62 Kg  = 12.71  
+18 Kg  = 4.43 38 Kg  = 8.43 64-66 Kg  = 13.43  
+20 Kg  = 4.86 40 Kg  = 8.86 68 Kg  = 14.00  
+ 
+PET veya PET/ CT görüntüleri ilacın enjeksiyonunu takiben 30 dakika - 4 saat arasında, 
+genellikle de 60 dakika sonra alınır.  
+ 
+Geriatrik Popülasyon :  
+Yaşlılıktan kaynaklanabi lecek durumlar uygulamada dikkate alınm alıdır.  
+ 
+Tıbbi ürünün kullanımı veya uygulamadan önce alınacak önlemler   
+ 
+  3 / 10                  
+ Uygulamadan önce tıbbi ürünün seyreltilmesi  ile ilgili talimatlar için bölüm 12’ye, hasta 
+hazırlığı için bölüm 4.4'e bakınız.  
+ 
+Hastaya uygulanmadan hemen önce sodyum florürün (18F) radyoaktivite değeri bir doz 
+kalibratöründe ölçülmelidir.  
+ 
+Görüntü elde etme  
+Emisyon taramaları genellikle sodyum flor ür (18F) enjeksiyonundan 60 dakika sonra başlar. 
+Yeterli sayım istatistiği için gereken aktivitenin sağlanması durumunda, sodyum florür (18F) 
+PET görüntülemesi enjeksiyondan iki veya üç saat sonrasına kadar  yapılabilir.  Böylelikle 
+arka plan (background) aktivitesi düşürülmüş olur. Pelvisteki aktiviteyi düşürmek için, 
+görüntülemenin hemen öncesinde hastanın idrara çıkması önerilir.  
+ 
+4.3 Kontrendikasyonlar  
+ 
+- Etkin maddeye veya bölüm 6.1’de listelenen yardımcı maddelerden herhangi birine 
+hassasiyeti olan hast alarda , 
+- Hamilelik te,- (Bakınız bölüm 4.6) ,  
+kontrendikedir.  
+ 
+4.4 Öze l kullanım uyarıları ve önlemler i 
+ 
+RADYOFARMASÖTİKLER S ADECE NÜKLEER TIP UZMANLARI TARAFINDAN 
+NÜKLEER TIP MERKEZLERİNDE UYGULANIR.   
+ 
+Bireysel risk/yarar değerlendirmesi 
+Her bir hasta için  radyasyona maruziyet, sağlanacak fayda açısından değerlendirilmelidir.  
+Bütün hastalar için radyasyon maruziyetini en aza indirmek amacıyla optimum görüntü 
+alınabilecek min imum doz (ALARA prensibi) uygulanmasına dikkat edilmelidir. 
+ 
+Böbrek yetmezliği  
+Böbre k fonksiyonu azalmış olan bu hastalarda radyasyon maruziyeti artabileceğinden yarar 
+risk oranı dikkatle değerlendirilmelidir.  
+ 
+Pediatrik popülasyon  
+Çocuklarda kullanım için bakınız bölüm 4.2.  
+Beher MBq için etkin dozun çocuklarda yetişkinlerden daha yüks ek olduğu göz önünde 
+bulundurulmalıdır (bakınız bölüm 11, dozimetri)  
+ 
+Hastanın hazırlanması  
+Kaliteli görüntü elde etmek ve mesanenin radyasyona maruziyetini azaltma k için hastaların 
+uygulama öncesinde bol sıvı almaları ve PET görüntülemenin hemen öncesi nde ve çalışma 
+sonrasındaki ilk saatlerde mesaneyi boşaltmaları konusunda uyarılmaları önemlidir. 
+ 
+Sodyum  florür  (18F) PET görüntülerinin yorumlanması  
+Sodyum florür (18F) kemik  lezyonlarının  saptanmasında diğer kemik tarama  ajanlarından 
+(99mTc-işaretli fosfa t ve fosfonik asit türevleri) daha yüksek bir duyarlılığa sahiptir . 
+Sodyum florür (18F) ikincil kanser proseslerini doğrudan göstermez . Ancak kanserin etkisi 
+nedeniyle osteojenik aktiviteyi takip eden kemik lezyonlarını belirler. Sodyum florür (18F) 
+önemli  kemik hasarı oluşmamış kemik iliği metastazı gibi , kemik metastazlarının erken 
+aşamalarının tespiti için daha az etkilidir.   
+ 
+  4 / 10                  
+  
+Morfolojik görüntüler ile fonksiyonel sodyum florür (18F) PET görüntüleri nin donanım  
+birleştirmesi,  örneğin PET -CT, kemik teşhisindeki  duyarlılığı ve spesifikliği  arttırabilir.  
+ İyi ve kötü huylu lezyonlar arasında tutulum açısından önemli bir farklılık olmadığından, 
+kemik metastazı ve malign olmayan kemik lezyonları arasındaki farklılık değerlendirilmesinde 
+PET analizi ve CT görüntü sünün birleştirilmesi, hibrit PET -CT görüntülemeden veya varsa 
+yerine kullanılabilecek diğer diagnostik prosedürlerden (MRI, CT) daha yararl ı olmak tadır. 
+ 
+İşlemden sonra  
+Enjeksiyondan sonraki ilk 12 saat boyunca bebek ve hamile kadınlar ile yakın temasta n 
+kaçınılmalıdır.  
+ 
+Özel uyarılar  
+Bu tıbbi üründe enjeksiyonun zamanına bağlı olarak, hastaya verilen sodyum içeriği, bazı 
+durumlarda 1 mmol (23mg) den daha büyük olabilir. Bu durum düşük sodyum diyeti 
+uygulayan hastalar için göz önünde bulundurulmalıdır.  
+ 
+Çevreye zararı ve önlenmesi ile ilgili önlemler için bölüm 6.6 ya bakınız.  
+ 
+4.5 Diğer tıbbi ürünlerle etkileşim  ve diğer etkileşim şekilleri  
+ 
+Bu konuda yapılmış çalışma bulunmamaktadır. 
+ 
+Özel popülasyonlara ilişkin ek bilgiler   
+Özel bilgi yoktur.  
+ 
+Pediy atrik popülasyon:  
+Özel bilgi yoktur.  
+  
+4.6 Gebelik ve laktasyon  
+ 
+Genel  tavsiye :  
+Gebelik kategorisi : X   
+ 
+Çocuk doğurma potansiyeli bulunan kadınlar / Doğum kontrolü (kontrasepsiyon)  
+Radyoaktif tıbbi ürün verilmesinin zorunlu olduğu doğurganlık çağındaki kadınlarda gebelik 
+mutlaka sorgulanmalıdır. Adet periyodunda gecikme olan kadınlar aksi ispat edilmedikçe gebe 
+kabul edilmelidir. Gebelik şüphesi var ve kanıtlanmamışsa  (eğer kadın bir periyodunu 
+unuttuysa veya adet periyodu düzensiz ise v.s.) , iyonize rad yasyon yayan teknikler in 
+kullanılmadığı yöntemler  (eğer varsa) alternatif olarak hastaya önerilmelidir.  
+ 
+Gebelik dönemi  
+Sodyum florür  (18F) kullanımı fetusun radyasyona maruz kalmasına sebep olacağından   
+gebelik döneminde kontrendikedir  (Bakınız bölüm 4.3) .  
+ 
+Laktasyon dönemi   
+Radyofarmasötiklerin emziren bir anneye uygulanmasından önce uygulamanın emzirme bitene 
+kadar ertelenip ertelenemeyeceği dikkate alınmalı ve radyofarmasötiklerin anne sütünden 
+geçebildiği akılda tutulmalıdır.  Eğer MON.NaF  (18F) kullanımı emzirme döneminde  zorunlu  
+ise ilaç enjeksiyonundan önce annenin süt ü sağılıp sonraki kullanım için saklanabilir. İlacın  
+ 
+  5 / 10                  
+ enjeksiyonunu takiben en az 12 saat süre ile emzi rmeye ara verilmeli ve bu süre boyunca  
+sağılan süt atılmalıdır.   
+Radyasyondan kor unma için bu 12 saatlik sürede annenin çocukla temastan da kaçınması 
+önerilir.  
+ 
+Üreme yeteneği / Fertilite  
+İlacın hamilelerde kullanımına dair veri ve üreme yeteneği üzerindeki etkisi ne dair yapılmış 
+çalışma bulunmamaktadır.  
+ 
+4.7 Araç ve makine kullan ımı üzerindeki etkiler  
+ 
+Araç ve makine kullanı m yeteneği üzerine  etkilerini gösteren  bir veri bulunmamaktadır. 
+ 
+4.8 İstenmeyen etkiler  
+ 
+Sodyum Florür  (18F) kullanımından sonra  ciddi  istenmeyen etkiler gözlenme miştir.  
+ 
+İyonize radyasyona maruz kalma, kanser veya kalıtsal defektlerin oluşmasına neden olabilir.  
+70 kg bir yetişkin için önerilen maksimum aktivite olan 400 MBq uygulandığında etkili doz 
+6.8 mSv olup,  bu advers etkilerin ortaya çıkma olasılığı düşüktür.  
+ Şüpheli advers reaksiyonların raporlanması  
+Ruhsatlandırma sonrası  şüpheli  ilaç  advers  reaksiyonlarının  raporlanması büyük önem  
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers rea ksiyonu Türkiye 
+Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir. (www.titck.gov.tr; e -
+posta: tufam@titck.gov.tr; tel:0 800 314 00 08; faks: 0 312 218 35 99)  
+ 
+4.9 Doz aşımı  ve tedavisi  
+Yüksek doz sodyum florür (18F) uygulaması söz konusu olurs a hastanın almış olduğu dozun 
+azaltılması için vücuttan atılımı hızlandırılmalıdır. Bu nedenle hasta ya zorlu diürez 
+uygulanmalı  ve sık sık idrara çıkma ile radyonüklidin vücuttan atılımı artırılmalıdır.  
+Uygulanan etkili  dozu tahmin etmenin bu konuda yararı  olabilir.  
+ 
+5. FARMAKOLOJİK ÖZELLİK LER  
+ 
+5.1 Farmakodinamik özellikler  
+ 
+Farmakoterapötik grubu: Tümör teşhisinde kullanılan d iyagnostik radyofarmasötik 
+  
+ATC kodu :  V09IX0 6   
+ 
+Etki mekanizması  
+Sodyum florür (18F), k emik mineraline afinitesinden dolayı, osteoblastik aktivite veya 
+osteolitik defektlere yol açan malignan proseslerle etkilenen kemik bölgesine, etkilenmemiş yatay kemiğe kıyasla 3 -10 kat daha fazla tutulur. Kemik yapısının kanserli olmayan travmatik, 
+aşındırıcı veya inflamatuvar lezyonları da ost eojenez artışı ile bağlantılıdır. Bu nedenle, 
+sodyum florür (
+18F) kanserojen veya travmatik kemik hastalıkların reaktif  süreçlerinin 
+bir belirtecidir. Aynı zamanda kemik metabolizmasında fizyolojik veya patolojik olarak artış 
+gözlenen, malignan olmayan böl geleri de tespit etmektedir.  
+   
+ 
+  6 / 10                  
+ Farmakodinamik etkiler  
+Sodyum Florür (18F)’ün diyagnostik incelemeler için önerilen aktivite ve  kimyasal 
+konsantrasyonunda herhangi bir farmakodinamik aktivite gözlenmez. 
+ 
+5.2 Farmakokinetik  özellikler  
+ 
+Genel Özellikler  
+ 
+Emilim:  
+İntravenöz yolla kullanılır.  
+ 
+Dağılım:  
+İntravenöz uygulamayı takiben ilacın %50’si hızla iskelet sistemi tarafından tutulur ve burada 
+radyoaktif yarılanma süresine bağlı olarak azalır . Sodyum florürün (18F) kalan kısmı ise 
+ekstraselüler sıvıda dağıl ır ve renal yolla birkaç saat içinde elimine olur . 
+ 
+Sodyum florür (18F) ün plasma proteinler ine bağlanma oranı bilinmemektedir.  
+ 
+Organ tutulumu  
+Sodyum florür (18F)’ün %50’si hızla iskelet sistemi tarafından tutulur ve burada radyoaktif 
+bozunma periyoduna  bağlı olarak azalır. Sodyum florür (18F) normalde, iskelette simetrik  
+olarak birikir , apendiküler iskelet ve uzun kemiklerin şaftlarına kıyasla, aksiyal iskelette ve 
+eklemlerin etrafındaki kemiklerde daha çok birikir. Kırık bölgelerinde ve osteomiyelit, fibröz 
+displazi , spondilit tüberküloz, Paget hastalığı, hyperostosis frontalis interna, myositis 
+ossificans veya  tümörler tarafından etkilenen kemiklerin etrafında ve hızla büyüyen kemik 
+ucunda  birikim artar.  
+ 
+Biyotransformasyon:  
+Biyotransformasyonu hakkında  bilgi bulunmamaktadır.  
+ 
+Eliminasyon:  
+Uygulanan sodyum florür (18F) aktivitesinin %20’si, enjeksiyonu takiben ilk 2 saat içinde 
+idrarla atılır.  
+ 
+5.3 Klinik öncesi güven lilik verileri 
+ 
+Sprague -Dawley  sıçan ları ile yapılan  toksikoloji çalışmalarında  sodyum f lorür (18F)’ün  
+5 mL/kg tek doz intravenöz enjeksiyonu ile ölüm gözlenmemiştir. Bu ürün, düzenli ya da 
+sürekli uygulama için uygun değildir.  
+ Mutajenite çalışmaları ve u zun süreli karsinojenite çalışmaları yapılmamıştır.  
+ 
+6.  FARMASÖTİK ÖZELLİKLE R  
+ 
+6.1 Ya rdımcı maddelerin listesi  
+ 
+Sodyum klorür  9 mg/mL  
+ 
+6.2 Geçimsizlikler  
+  
+ 
+  7 / 10                  
+ Geçimliliğine dair çalışma yoktur, bu nedenle  bölüm 12’de belirtilenlerin dışında diğer tıbbi 
+ürünlerle karıştırılmamalıdır.  
+ 
+6.3 Raf ömrü  
+ 
+Üretim tarih ve saatinden itibaren 10 saatti r.  
+ 
+Ürünün kullanım izni kalibrasyon saati esas alınarak verilmektedir. Kalibrasyon saatinden 
+önce hastaya uygulanmamalıdır.  
+ 
+6.4 Saklamaya yönelik özel tedbirler  
+ 
+Kurşun koruma kabı içinde  25 °C ’nin altında oda sıcaklığında saklanmalıdır.  
+ 
+Radyofarmasöti klerin saklanması , radyoaktif maddelerle ilgili ulusal mevzuata uygun 
+olmalıdır.  
+ 
+6.5 Ambalajın niteliği ve içeriği  
+ 
+Dış ambalaj: Kurşun zırh  
+ 
+İç ambalaj: Bromobutil tıpa ve aluminyum flip -off kapaklı 20 ml lik renksiz Tip I borosilikat 
+cam flakon .  
+ 
+Takd im şekli:  
+Kurşun zırh içinde, k alibrasyon saatinde 280 MBq (7,5 mCi) – 9500 MBq (2 56.8 mCi) 
+aktiviteye denk gelen 0,5 mL-10 mL çoklu dozları içeren bir flakon. 
+Bir Kullanma Talimatı  
+                        
+6.6 B eşeri tıbbi üründen arta kalan maddelerin im hası ve diğer özel önlemler  
+ 
+Genel uyarılar  
+Radyofarmasötikler sadece belirlenmiş klinik ortamlarda yetkili kişiler tarafından teslim 
+alınmalı, kullanılmalı  ve uygulanmalıdır. Teslim alınmaları, saklanmaları, kullanım, taşıma ve 
+imha edilmeleri mevzuat ve/ veya yetkili resmi organizasyonların uygun lisanslarına tabidir.  
+ 
+Radyofarmasötikler, kullanıcılar tarafından hem radyasyon güvenliği hem de farmasötik kalite 
+gerekliliklerini yerine getirecek şekilde hazırlanmalıdır. Uygun aseptik önlemler alınmalıdır.  
+ 
+Radyofarmasötik uygulanması, dış radyasyon veya idrar dökülmesi, kusma veya diğer biyolojik sıvılar  nedenleri ile bulaşma yüzünden diğer kişiler için risk oluşturur. Bu nedenle ulusal mevzuata uygun olarak, radyasyondan korunma önlemleri alınmalıdır.  
+ Flakonun bütünlüğü bozulmuş ise kullanılmamalıdır. Operatörlerin ışınlamasını ve tıbbi 
+ürünün kontaminasyon riskini minimuma indirecek uygulama  prosedürleri oluşturulmalıdır.  
+Yeterli zırhlama zorunludur. 
+ 
+Atıklar, ‘Tıbbi Atıkların Kontrolü Yönetmeliği’ ve Tü rkiye Atom Enerjisi Kurumu’nun  
+“Radyoaktif  Madde Kullanımından Oluşan Atıklara İlişkin Yönetmelik” kurallarına uygun 
+olarak bertaraf edilmelidir.  
+ 
+  8 / 10                  
+   
+7.   RUHSAT SAHİBİ  
+ 
+Eczacıbaşı Monrol Nükleer Ürünler Sanayi ve Ticaret A.Ş.   
+TÜBİTAK MAM Teknoparkı  
+41470 G ebze – KOCAELİ -TÜRKİYE  
+Tel:  (0 262) 648 02 00 (pbx)  Faks: (0 262) 646 40 39 
+e-posta: monrol@monrol.com.tr   
+  
+8.   RUHSAT NUMARASI  
+   
+238/2    
+ 
+9. İLK RUHSAT TARİHİ/ RUHSAT YENİLEME TARİHİ   
+ 
+İlk ruhsat tarihi: 12.12.2011  
+ 
+Ruhsat yenileme tarihi:  
+ 
+10. KÜB’ün  YENİLENME  TARİHİ   
+ 
+ 
+ 
+11. DOZİMETRİ  
+ 
+Hastanın maruz kalacağı doz  ICRP 53  yayını  dördüncü zeyilname  ve ICRP 80 yayınında yer 
+alan aşağıdaki tablodaki varsayımlara göre hesaplanır:   
+ 
+  9 / 10                  
+ Organ  Yetişkin  15 yaş  10 yaş  5 yaş  1 yaş  
+Böbrek üstü bezi  0,0067  0,0088  0,013  0,020  0,039  
+Mesane  0,15  0,19  0,28  0,39  0,54  
+Kemik yüzeyi  0,094  0,075  0,12  0,21  0,48  
+Beyin  0,0066  0,0075  0,011  0,016  0,025  
+Meme  0,0029  0,0037  0,0060  0,0095  0,018  
+Safra kesesi  0,0042  0,0051  0,0082  0,012  0,023  
+GI yol:       
+Mide  0,0037  0,0046  0,0079  0,011  0,020  
+İnce barsak  0,0058  0,0075  0,011  0,017  0,030  
+Kolon  0,0068  0,0084  0,013  0,019  0,030  
+Üst kalın barsak   0,0051  0,0063  0,010  0,015  0,026  
+Alt Kalın barsak  0,0091  0,011  0,017  0,025  0,037  
+Kalp  0,0042  0,0051  0,0079  0,012  0,022  
+Böbrekler  0,013  0,016  0,024  0,036  0,067  
+Karaciğer  0,0040  0,0052  0,0078  0,012  0,023  
+Akciğerler  0,0045  0,0058  0,0086  0,013  0,026  
+Kaslar  0,0058  0,0071  0,011  0,016  0,028  
+Özofagus  0,0037  0,0048  0,0072  0,011  0,022  
+Overler  0,0083  0,011  0,015  0,022  0,036  
+Pankreas  0,0050  0,0061  0,0092  0,014  0,027  
+Kırmızı kemik iliği  0,037  0,039  0,076  0,18  0,44  
+Cilt 0,0041  0,0049  0,0077  0,012  0,022  
+Dala k 0,0042  0,0055  0,0084  0,013  0,026  
+Testisler  0,0061  0,0083  0,014  0,020  0,032  
+Timus  0,0037  0,0048  0,0072  0,011  0,022  
+Tiroid  0,0049  0,0057  0,0081  0,012  0,020  
+Uterus  0,013  0,015  0,024  0,035  0,050  
+Diğer kalan organlar  0,0059  0,0073  0,011  0,017  0,028  
+Efektif doz 
+(mSv/MBq)  0,017  0,020  0,033  0,056  0,11  
+ 
+Eğer görüntüleme 2D modunda PET ile yapıldıysa, 70 kg ağırlığında bir kişi için  400 MBq 
+aktivitede uygulanan sodyum florür (18F) sonucunda oluşan efektif doz 6,8 mSv kadar dır.  
+ 
+400  MBq uygulama aktivite si için, kritik organlardaki tipik radyasyon dozları aşağıdaki 
+gibidir:  
+Mesane 60 mGy, kemik yüzeyi 38 mGy, kırmızı kemik iliği 15 mGy, böbrekler 5 mGy ve 
+uterus 5 mGy. 
+ 
+Eğer görüntüleme 3D modunda PET ile yapıldıysa, 70 kg ağırlığında bir kişi için 200 MBq 
+aktivitede sodyum florür (18F) uygulanması sonucunda oluşan efektif doz 3,4 mSv kadardır .   
+200  MBq uygulama aktivite si için, kritik organlardaki tipik radyasyon dozları aşağıdaki 
+gibidir:  
+Mesane 30 mGy, kemik yüzeyi 19 mGy, kırmızı kemik iliği 8 mGy, böbrekler 3 mGy ve 
+uterus 3 mGy.  
+ 
+  10 / 10                  
+  
+ 
+12. RADYOFARMASÖTİKLERİN HAZIRLANMASINA YÖNELİK TALİMATLAR  
+ 
+MON. NaF (18F) hastaya uygulamaya hazır formda üretilmektedir. Kurşun zırh içerisinde 20 
+ml’lik renksiz Tip I cam flakon içerisindedir. İşleme başlamadan önce flakon çatlak/kırık 
+açısından görsel olarak  kontrol A  bir bozulma varsa uygulanmamalıdır.  
+ 
+Hastaya uygulanmadan hemen önce paket içeriği kontrol edilmeli ve radyoaktivite değeri bir 
+doz kalibratöründe ölçülmelidir. 
+ 
+Çözelti nin partiküler madde içerip içermediği ve berraklığı gö rsel olarak kontrol edilmeli,  
+berrak olmayan çözelti kullanılmamalıdır.  
+ 
+İşlemler aseptik koşullar altında yürütülmelidir.  Flakon açılmamalı, işlem  öncesinde flakon 
+lastik tıpası bir dezenfektan ile s ilinmelidir.  
+ 
+Ürün gerektiğinde %  0,9 sodyum klorür çözeltisi ile seyreltilebilir.  
+ 
+Uygulama yerinde lokal iritasyondan, görüntüleme hatalarından kaçınmak için enjeksiyonda 
+ilacın damar dışına kaçmamasına çok dikkat edilmelidir. 
+ 
+Ürünün kullanım izni kalib rasyon saati esas alınarak verilmektedir. Kalibrasyon saatinden 
+önce hastaya uygulanmamalıdır.  

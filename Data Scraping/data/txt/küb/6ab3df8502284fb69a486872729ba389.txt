@@ -1,0 +1,1435 @@
+KISA ÜRÜN BİLGİSİ 
+Bu ilaç ek izlemeye tabidir. Bu üçgen yeni güvenlilik bilgisinin h ızlı olarak belirlenmesini 
+sağlayacaktır. Sağlık mesleği mensuplar ının şüpheli advers reaksiyonlar ı TÜFAM’a 
+bildirmeleri beklenmektedir. Bak ınız Bölüm 4.8 Advers reaksiyonlar nas ıl raporlan ır? 
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI  
+IMNOVİD 2 mg sert kapsül  
+2. KALİTATİF VE KANTİTATİF BİLEŞİM 
+Etkin madde: 
+Pomalidomid 2 mg 
+ 
+Yardımcı maddeler: 
+Yardımcı maddeler için 6.1’e bakınız. 
+3. FARMASÖTİK FORM  
+Sert kapsül  
+IMNOVİD 2 mg sert kapsül: Opak koyu mavi k ılıflı ve opak turuncu gövdeli, üzeri beyaz 
+renkte “POML 2 mg” bask ılı, büyüklü ğü 1 olan, sert jelatin kapsül. 
+4. KLİNİK ÖZELLİKLER  
+4.1. Terapötik endikasyonlar 
+IMNOVİD, bortezomib ve deksametazon ile kombinasyon halinde, daha önce lenalidomid de 
+dahil olmak üzere en az bir tedavi rejimi alan, bu tedavilere dirençli veya nüks eden multipl 
+miyelomlu eri şkin hastalar ın tedavisinde endikedir. 
+IMNOVİD, deksametazonla kombinasyon halinde, a şağıda belirtilen ko şulları taşıyan multipl 
+miyelom tan ılı yetişkin hastalar ın tedavisinde endikedir: 
+1. Otolog kök hücre nakline uygun olmayan hastalarda bortezomib ve lenalidomid dahil en az 
+iki dizi tedavi sonras ı nüks eden veya bu tedavilere dirençli hastal ık varlığında endikedir. 
+2. Otolog kök hücre nakline uygun hastalarda bortezomib, lenalidomid ve otolog nakil destekli 
+yüksek doz kemoterapi dahil en az iki dizi tedavi sonras ı nüks eden veya bu tedavilere dirençli 
+hastalık varlığında endikedir. 
+4.2. Pozoloji ve uygulama şekli 
+Pozoloji/uygulama sıklığı ve süresi: 
+Tedavi, multipl miyelom tedavisinde deneyimli bir hekimin denetiminde ba şlatılmalı ve 
+izlenmelidir. 
+1  Klinik veya laboratuvar bulgular ına göre doza devam edilebilir veya doz ayarlamas ı yapılabilir 
+(bkz. Bölüm 4.4). 
+ Pomalidomidin bortezomib ve dekzametazon ile kombinasyonu 
+Önerilen ba şlangıç dozu, tekrarlanan 21 günlük sikluslar halinde 1 ve 14. günler aras ı günde 
+bir defa a ğızdan alınan 4 mg IMNOV İD’dir. 
+Pomalidomid, Tablo 1'de gösterildi ği gibi bortezomib ve deksametazon ile kombinasyon 
+halinde uygulan ır. Bortezomibin önerilen ba şlangıç dozu Tablo 1'de gösterilen günlerde günde 
+bir kez intravenöz veya subkütan olarak 1,3 mg/m2'dir. Önerilen deksametazon dozu, Tablo 1'de 
+gösterilen günlerde günde bir kez oral olarak al ınan 20 mg'd ır. 
+Bortezomib ve deksametazon ile kombine edilen pomalidomid tedavisi, hastal ığın ilerlemesi 
+veya kabul edilemez toksisite olu şana kadar verilmelidir. 
+Tablo 1. Bortezomib ve deksametazon ile kombinasyon halinde Pomalidomid için önerilen 
+dozaj şemas ı 
+ 
+1-8. Sikluslar Gün (21 günlük siklus)  
+1 2 3 4 5 6 7 8 9 101112 131415 16 17 18 19 20 21 
+Pomalidomid (4 mg)  •  •  • • • • • • • • • • • •               
+Bortezomib (1,3 mg/m2) •     •       •     •                     
+Deksametazon (20 mg) *  • •   • •     • •   • •                    
+ 
+9. Siklus sonras ı Gün (21 günlük siklus)  
+1 2 3 4 5 6 7 8 9 101112 131415 16 17 18 19 20 21 
+Pomalidomid (4 mg)  •  • • • • • • • • • • • • •               
+Bortezomib (1,3 mg/m2) •             •                           
+Deksametazon (20 mg) *  • •           • •                          
+* 75 yaş üstü hastalar için, bkz. Özel popülasyonlara ili şkin ek bilgiler.  
+Pomalidomid doz ayarlamas ı veya ara verilmesi  
+Yeni bir pomalidomid siklusunu ba şlatmak için, nötrofil say ısının ≥1x109/L ve trombosit 
+sayısının ≥50x 109/L olması gerekmektedir. 
+Advers reaksiyonlarla ilgili olarak pomalidomid tedavisine ara verilmesi veya dozunun 
+azaltılması ile ilgili bilgiler, Tablo 2’de ve doz seviyeleri Tablo 3’te belirtilmi ştir: 
+Tablo 2. Pomalidomidin doz ayarlamas ı için bilgiler 
+Toksisite  Doz ayarlamas ı 
+Nötropeni  
+Siklusun geri kalan ı için pomalidomid 
+tedavisine ara verilir, haftal ık TKS** 
+takibi yap ılır.  MNS* <0,5x109/L veya 
+Febril nötropenik ate ş (ateş ≥38,5°C 
+ve MNS <1x 109/L)  
+2  
+Doz kesilmesi veya pomalidomid 
+tedavisinin kesilmesi dü şünülmelidir. 
+Tedaviyi kal ıcı olarak durdurun 
+(bkz. Bölüm 4.4). 
+Siklusun geri kalan ı için pomalidomid 
+tedavisi durdurulur. Bir sonraki döngüde 
+tedaviye önceki dozdan bir seviye dü şük 
+doz ile devam edilir (Dozlama ba şlamadan 
+önce advers reaksiyonlar geçmeli ya da ≤2. 
+dereceye dönmelidir). 
+∞Bu tabloda yer alan doz ayarlama bilgileri, hem pomalidomid, bortezomib ve deksametazon 
+kombinasyonu hem de pomalidomid dekzametazon kombinasyonu için geçerlidir. 
+* Nötropeni durumunda, hekim büyüme faktörlerinin kullan ımını göz önünde bulundurmal ıdır.
+**MNS–Mutlak Nötrofil Say ısı;  
+**TKS–Tam Kan Say ımı   MNS ≥1x109/L’ye döndü ğünde  Pomalidomid tedavisine önceki dozdan bir 
+seviye dü şük doz ile tekrar ba şlanır. 
+ Takip eden <0,5x109/L’nin alt ına her 
+düşüşte 
+ MNS ≥1x109/L’ye döndü ğünde  Pomalidomid tedavisine ara verilir. 
+Pomalidomid tedavisine önceki dozdan 
+bir seviye dü şük doz ile tekrar ba şlanır. 
+Trombositopeni   
+ Trombosit say ısı <25x109/L 
+ Trombosit say ısı ≥50x109/L’ye 
+döndüğünde  Siklusun geri kalan ı için pomalidomid 
+tedavisine ara verilir, haftal ık TKS** 
+takibi yap ılır. 
+Pomalidomid tedavisine önceki dozdan 
+bir seviye dü şük doz ile tekrar ba şlanır. 
+ Takip eden <25x109/L’nin alt ına 
+her düşüşte 
+ Trombosit say ısı ≥50x109/L’ye 
+döndüğünde Pomalidomid tedavisine ara verilir. 
+Pomalidomid tedavisine önceki dozdan 
+bir seviye dü şük doz ile tekrar ba şlanır. 
+Döküntü 
+Döküntü = 2-3. derece 
+Döküntü: 4. derece veya kabarma 
+(anjiyoödem, anaflaktik reaksiyon,  
+eksfolyatif veya büllöz döküntü veya 
+Stevens-Johnson sendromu (SJS), Toksik 
+Epidermal Nekroliz (TEN) veya eozinofili 
+ve sistemik semptomlar (DRESS) ile ilaç 
+reaksiyonu şüphesi varsa) 
+Diğer 
+Diğer ≥ 3. derece 
+pomalidomidle ilgili advers reaksiyonlar  
+ Tablo 3. Pomalidomid doz azaltma basamaklar ı∞  
+Doz düzeyi  Pomalidomid dozu  
+Başlangıç dozu 4 mg 
+Doz düzeyi -1 3 mg 
+Doz düzeyi -2 2 mg 
+Doz düzeyi -3 1 mg 
+ 
+∞Bu tabloda yer alan doz ayarlama bilgileri, hem pomalidomid, bortezomib ve deksametazon 
+kombinasyonu hem de pomalidomid dekzametazon kombinasyonu için geçerlidir. 
+ 
+Dozun 1 mg’a düşürülmesi sonrasında advers reaksiyonlar ortaya çıkarsa, tedavi kesilmelidir.  
+Güçlü CYP1A2 inhibitörleri  
+Güçlü CYP1A2 inhibitörleri (örn., siprofloksasin, enoksasin ve fluvoksamin) pomalidomid ile 
+birlikte uygulan ırsa pomalidomid dozu %50 azalt ılmalıdır. 
+Bortezomib doz modifikasyonu veya kesilmesi 
+Bortezomibe ba ğlı advers reaksiyonlar için doz kesilmesi veya azaltmalar ı ile ilgili talimatlar 
+için hekimler bortezomib KÜB’ne ba şvurmalıdır. 
+Deksametazon doz modifikasyonu veya kesilmesi 
+Düşük doz deksametazona ba ğlı advers reaksiyonlar için doz kesilmesi veya azaltmas ı ile ilgili 
+talimatlar Tablo 4 ve Tablo 5’te özetlenmi ştir. 
+Tablo 4. Deksametazon doz ayarlamas ı için bilgiler 
+Toksisite Doz Değişikliği 
+Dispepsi = 1-2. derece 
+Dispepsi ≥3. derece Aynı dozda devam edilir ve histamin (H 2) blokörleri 
+veya eşdeğerleri ile tedavi edilir. Semptomlar devam 
+ederse, doz bir düzey azalt ılır. 
+Semptomlar kontrol alt ına alınana kadar tedaviye ara 
+verilir. Deksametazona ara verilse dahi pomalidomid 
+tedavisine devam edilir. Tedaviye önceki dozdan 
+daha düşük bir doz düzeyinde devam edilir ve H 2 
+blokörü veya e şdeğeri eklenir. 
+Ödem ≥3. derece Gerektiğinde diüretikler kullan ılır ve doz bir 
+düzey azalt ılır. 
+Konfüzyon veya duygu durum 
+değişikliği ≥2. derece Semptomlar düzelene kadar tedaviye ara 
+verilir. Tedaviye önceki dozdan daha dü şük bir 
+doz düzeyinde devam edilir. 
+Kas güçsüzlü ğü ≥2. derece Kas güçsüzlü ğü ≤1. dereceye dönene kadar 
+tedaviye ara verilir. Tedaviye önceki dozdan 
+daha düşük bir doz düzeyinde devam edilir. 
+ 
+4 Hiperglisemi ≥3. derece Doz, bir düzey azalt ılır. Gerekti ğinde insülin veya 
+oral hipoglisemik ilaçlarla tedavi edilir. 
+Akut pankreatit Deksametazon tedavi rejiminden ç ıkarılır. 
+Diğer ≥ 3. derece 
+deksametazonla ilgili advers 
+reaksiyonlar Advers reaksiyonlar ≤2. dereceye dönene kadar 
+deksametazon dozu durdurulur. Tedaviye önceki 
+dozdan daha dü şük bir doz düzeyinde devam edilir. 
+ 
+Eğer toksisitelerin düzelmesi 14 günden fazla sürerse, deksametazon dozu bir önceki dozdan 
+daha düşük bir doz seviyesinde devam edecektir. 
+Tablo 5. Deksametazon doz azaltma basamaklar ı 
+Doz düzeyi ≤ 75 ya ş  
+Doz (Siklus 1-8: 21 günlük siklusun  
+1, 2, 4, 5, 8, 9, 11, 12 günleri  
+Siklus ≥ 9: 21 günlük siklusun 1, 2,  
+8, 9 günleri)  > 75 ya ş  
+Doz (Siklus 1-8: 21 günlük  
+siklusun 1, 2, 4, 5, 8, 9, 11, 12  
+günleri  
+Siklus ≥ 9: 21 günlük siklusun 1, 2,  
+8, 9 günleri) 
+Başlangıç dozu 20 mg 10 mg 
+Doz düzeyi -1 12 mg 6 mg 
+Doz düzeyi -2 8 mg 4 mg 
+ 
+Eğer 75 ya ş ve altındaki hasta 8 mg’ ı veya 75 ya ş üstü hasta 4 mg’ ı tolere edemezse 
+deksametazon kesilmelidir. 
+Tedavi rejiminin herhangi bir bile şeninin kal ıcı olarak kesilmesi durumunda, kalan di ğer tıbbi 
+ürünlerin devaml ılığı doktorun takdirine ba ğlıdır. 
+ Pomalidomid’in dekzametazon ile kombinasyonu 
+Pomalidomid’in önerilen ba şlangıç dozu, her 28 günlük sikluslar halinde 1 ve 21. günler aras ı 
+günde bir defa a ğızdan alınan 4 mg’d ır. 
+Deksametazon için önerilen doz, her 28 günlük siklusunun 1, 8, 15 ve 22. günlerinde günde bir 
+defa ağızdan alınan 40 mg’d ır. 
+Deksametazon ile kombine edilen pomalidomid tedavisi, hastal ığın ilerlemesi veya kabul 
+edilemez toksisite olu şana kadar verilmelidir. 
+Pomalidomid doz azaltma veya kesilmesi 
+ Advers reaksiyonlarla ilgili olarak pomalidomid tedavisine ara verilmesi veya dozunun azaltılması   
+ile ilgili bilgiler, Tablo 2 ve Tablo3’te özetlenmiştir. 
+5 Deksametazon doz azaltma veya kesilmesi 
+Deksametazona ba ğlı advers reaksiyonlar için doz azaltmas ı ile ilgili talimatlar a şağıda 
+Tablo 4 ve Tablo 6’da özetlenmi ştir. Bununla birlikte, doz kesintisi / yeniden ba şlama 
+kararları, güncel KÜB’ne göre hekimin takdirine ba ğlıdır. 
+Tablo 6. Deksametazon doz azaltma basamaklar ı 
+Doz düzeyi ≤ 75 yaş 
+28 günlük her tedavi siklusunun 1, 
+8, 15 ve 22. günü > 75 yaş 
+28 günlük her tedavi siklusunun 1,  
+8, 15 ve 22. günü 
+Başlangıç dozu 40 mg 20 mg 
+Doz düzeyi -1 20 mg 12 mg 
+Doz düzeyi -2 10mg 8 mg  
+Eğer 75 yaş ve altındaki hasta 8 mg’ ı veya 75 ya ş üstü hasta 4 mg’ ı tolere edemezse 
+deksametazon kesilmelidir. 
+Uygulama şekli: 
+Oral yolla kullan ım 
+IMNOVİD sert kapsül, her gün ayn ı saatte al ınmalıdır. Kapsüller aç ılmamalı, 
+kırılmamalı veya çiğnenmemelidir. Bu kapsüller bir bütün halinde, tercihen suyla 
+birlikte, g ıda ile veya yaln ız başına yutulmal ıdır. Hasta bir gün pomalidomid almay ı 
+unutursa, ertesi gün reçete edilmi ş olan normal dozu planland ığı şekilde kullanmal ıdır. 
+Hastalar, daha önceki günlerde unutulan dozu telafi etmek için dozu ayarlamamal ıdır. 
+Blisterden ç ıkarmak için kapsülün yaln ızca bir ucuna bast ırmanız önerilmektedir; bu 
+şekilde kapsül deformasyonu ya da k ırılma riski azalacakt ır. 
+Özel popülasyonlara ili şkin ek bilgiler: 
+Böbrek yetmezliği: 
+Böbrek yetmezli ği olan hastalar için pomalidomid dozunda ayarlama gerekli de ğildir. 
+Hemodiyaliz günlerinde, hastalar pomalidomid dozunu hemodiyalizi takiben almal ıdır. 
+Karaciğer yetmezliği: 
+Serum total bilirubin de ğerleri > 1,5 x NAÜS (normal aral ığın üst sınırı) olan hastalar, 
+klinik çal ışmalara dahil edilmemi ştir. Karaci ğer yetmezli ğinin, pomalidomidin 
+farmakokineti ği üzerinde hafif bir etkisi vard ır (bkz. Bölüm 5.2). Child-Pugh kriterine 
+göre tanımlanan karaci ğer yetmezli ği olan hastalarda pomalidomid ba şlangıç dozunda 
+ayarlama gerekli de ğildir. Bununla birlikte, karaci ğer yetmezli ği olan hastalar ın, advers 
+reaksiyonlar aç ısından dikkatle takip edilmeleri gerekir ve gerekiyorsa pomalidomidin 
+dozu azalt ılmalı ya da pomalidomide ara verilmelidir. 
+Pediyatrik popülasyon: 
+Multipl Miyelom endikasyonu için 0-17 ya ş arası çocuklarda pomalidomidin uygun bir 
+kullanımı yoktur. 
+ 
+Onaylanmış endikasyonları dışında, pomalidomid, tekrarlayan veya ilerleyen beyin 
+tümörleri olan 4 ila 18 yaş arası çocuklarda incelenmiştir, ancak çalışmaların sonuçları,  
+            6 bu tür bir kullanımın yararlarının risklerden daha a ğır bastığı sonucuna var ılmasına izin 
+vermemiştir. Mevcut veriler Bölüm 4.8, 5.1 ve 5.2'de aç ıklanmaktad ır. 
+Geriyatrik popülasyon: 
+Pomalidomid için herhangi bir doz ayarlamas ı gerekmemektedir. 
+ Pomalidomidin bortezomib ve dekzametazon ile kombinasyonu 
+75 yaş üzeri hastalar için deksametazon ba şlangıç dozu: 
+o Siklus 1-8 için: 21 günlük siklusun 1, 2, 4, 5, 8, 9,11 ve 12. günlerinde günlük 
+10 mg 
+o Siklus 9 ve sonras ı için: 21 günlük siklusun 1, 2, 8 ve 9. günlerinde günlük 10 
+mg 
+ Pomalidomidin deksametazon ile kombinasyonu  
+75 yaş üzeri hastalar için, deksametazonun ba şlangıç dozu 
+o Her 28 günlük tedavi siklusunun 1, 8, 15 ve 22. günlerinde günde bir defa 20 mg’d ır. 
+4.3. Kontrendikasyonlar 
+ Gebelik, 
+ Gebelik önleme program ının tüm koşullarına uymad ığı takdirde, çocuk do ğurma potansiyeli 
+olan kadınlar (bkz. Bölüm 4.4 ve 4.6), 
+ Gerekli do ğum kontrol önlemlerini takip edemeyen veya önlemlerine uyamayan erkek 
+hastalar (bkz. Bölüm 4.4), 
+ Etkin maddeye veya yard ımcı maddelerden herhangi birine kar şı aşırı duyarlılık (bkz. Bölüm 
+6.1). 
+4.4. Özel kullan ım uyar ıları ve önlemleri 
+Teratojenisite   
+Pomalidomid ile teratojenik bir etki beklendi ğinden gebelik s ırasında alınmamalıdır. 
+Pomalidomid yap ısal olarak talidomide benzerdir. Talidomid, insanlarda ya şamı tehdit edici 
+ciddi doğumsal kusurlara neden oldu ğu bilinen bir teratojendir. Pomalidomidin, s ıçanlarda ve 
+tavşanlarda majör organogenez döneminde kullan ıldığında teratojenik oldu ğu bulunmu ştur 
+(bkz. Bölüm 5.3). 
+Hastanın çocuk do ğurma potansiyeline sahip olmad ığına dair güvenilir kan ıtlar olmad ığı sürece, 
+Gebelik Önleme Program ının koşulları tüm hastalar için yerine getirilmelidir. 
+Çocuk do ğurma potansiyeli olmayan kad ınlar için kriterler 
+Aşağıdaki kriterlerden en az biri bulundu ğunda, bir kad ın hastanın ya da bir erkek hastan ın 
+eşinin çocuk do ğurma potansiyelinin olmad ığı düşünülür: 
+ Yaş ≥ 50 ve doğal olarak ≥ 1 yıl amenore durumunda (Kanser tedavisini takip eden veya 
+laktasyon sürecindeki amenore, çocuk do ğurma potansiyelini ekarte ettirmez.) 
+ Uzman bir jinekolog taraf ından onaylanan prematüre over yetmezli ği 
+ Bilateral salpingo-ooferektomi veya histerektomi hikayesi 
+ XY genotipi, Turner Sendromu, uterus agenezi 
+Danışmanlık   
+Çocuk do ğurma potansiyeli olan kad ınlar için a şağıdakilerin tümü sa ğlanmadıkça pomalidomid 
+kullanımı kontrendikedir: 
+7  Doğmamış çocuk için beklenen teratojenik riski anlamas ı, 
+ Tedaviye ba şlamadan en az 4 hafta önce, tüm tedavi boyunca (doza ara vermeler de 
+dahil olmak üzere) ve tedavinin sonlanmas ından en az 4 hafta sonras ına kadar, etkili bir 
+doğum kontrol yönteminin kesintisiz olarak uygulanmas ı gerektiğini anlamas ı, 
+ Çocuk do ğurma potansiyeli bulunan bir kad ın amenore olsa dahi, etkili do ğum kontrolü 
+konusundaki tüm önerileri izlemelidir, 
+ Etkili doğum kontrol yöntemlerine uyabilme kapasitesinde olmas ı, 
+ Gebeliğin potansiyel sonuçlar ını ve gebelik riski bulunuyorsa hemen doktoruna 
+danışmasının gereklili ği konusunda bilgi verilmesi ve bunu anlamas ı, 
+ Negatif bir gebelik testini takiben pomalidomid reçete edilir edilmez tedaviye ba şlaması 
+gerektiğini anlamas ı, 
+ Teyit edilmi ş tubal sterilizasyon haricinde, en az her 4 haftada bir gebelik testi yap ılması 
+gereğini anlamas ı ve kabul etmesi, 
+ Pomalidomid kullan ımı ile ilgili tehlikeleri ve gerekli önlemleri anlad ığını belirtmesi. 
+İlacı reçeteleyen doktorlar, çocuk do ğurma potansiyeli olan kad ınlar için a şağıdakileri 
+sağlamalıdır: 
+ Hastanın Gebelik Önleme Program ının koşullarını yeterli derecede anlama kapasitesine 
+sahip oldu ğundan ve bu ko şullara uygun davranaca ğından emin olmas ı, 
+ Hastanın önceden bahsedilen bu ko şulları onaylamış olması. 
+Pomalidomid kullanan erkek hastalar için farmakokinetik veriler, pomalidomidin tedavi 
+süresince insan semenine geçebildi ğini göstermi ştir. Önlem olarak ve karaci ğer yetmezli ği gibi 
+uzamış eliminasyon zaman ına sahip özel popülasyonlar dikkate al ınarak, pomalidomid kullanan 
+tüm erkek hastalar a şağıdaki koşulları sağlamalıdır: 
+ Gebe veya çocuk do ğurma potansiyeli olan bir kad ınla cinsel ili şkiye girmesi 
+durumunda beklenen teratojenik riski anlamal ıdır, 
+ Tedavi süresi boyunca, tedavi kesildikten sonra ve dozlara ara verildikten ve/veya 
+tedavi kesildikten sonraki 7 gün süreyle gebe bir kad ınla veya etkili bir do ğum kontrol 
+yöntemi kullanmayan çocuk do ğurma potansiyeli olan bir kad ınla cinsel ili şkiye girmesi 
+durumunda prezervatif kullanmas ı gerektiğini anlamal ıdır. Sperm olmasa dahi seminal 
+sıvı pomalidomid içerebilece ğinden, vazektomi geçirmi ş erkek hastalar da dahil olmak 
+üzere gebe bir kad ın veya çocuk do ğurma potansiyeli olan bir kad ın ile cinsel ili şkiye 
+girmesi durumunda prezervatif kullanmal ıdır. 
+ Pomalidomid kulland ığı süre içerisinde ya da pomalidomid kullanmay ı bıraktıktan 7 
+gün sonra e ğer eşi gebe kal ırsa, derhal tedaviden sorumlu hekime haber vermesi 
+gerektiğini ve eşi için, değerlendirme ve tavsiye amac ıyla teratoloji konusunda uzman 
+ya da deneyimli bir hekime ba şvurması gerektiğini anlamal ıdır. 
+Doğum Kontrolü  
+Çocuk do ğurma potansiyeli olan kad ınlar tedavinin en az 4 hafta öncesinden ba şlayarak, tedavi 
+sırasında ve pomalidomid tedavisinden en az 4 hafta sonras ına kadar ve doza ara verildi ğinde 
+dahi; hasta cinsel ili şkiden bütünüyle ve sürekli olarak uzak duraca ğını her ay taahhüt etmedikçe, 
+etkili bir do ğum kontrol yöntemlerinden en az birini kullanmal ıdır. Etkili bir yöntem 
+belirlenmediyse, hasta etkili bir korunman ın başlatılması için uygun şekilde eğitim almış bir 
+sağlık profesyoneline yönlendirilmelidir. 
+Aşağıdakiler uygun do ğum kontrol yöntemlerine örnek olarak de ğerlendirilebilir: 
+ İmplant,  
+ Levonorgestrel salan rahim içi araçlar (R İA) 
+ Medroksiprogesteron asetat deposu 
+ Tubal sterilizasyon 
+8  Sadece vazektomi uygulanm ış erkek partner ile cinsel ili şki; vazektomi iki negatif 
+semen analiziyle do ğrulanmalıdır 
+ Sadece progesteron içeren ovülasyon inhibitörü haplar (örne ğin, desogestrel). 
+Pomalidomid ve deksametazon kullanan multipl miyelomlu hastalarda venöz tromboembolizm 
+riskinin artmas ı nedeniyle kombine oral kontraseptif haplar önerilmez (bkz.Bölüm 4.5). E ğer hasta 
+kombine bir oral kontraseptif kullan ıyorsa, yukar ıda listelenen etkili yöntemlerden birine 
+geçmelidir. Venöz tromboembolizm riski kombine oral kontrasepsiyonun kesilmesi sonras ı 4-  
+6 hafta boyunca sürer. Deksametazon ile birlikte kullan ılması kontraseptif steroidlerin 
+etkililiğini azaltabilir (bkz. Bölüm 4.5). 
+İmplantlar ve levonorgestrel salan rahim içi sistemler, düzensiz vajinal kanama ve yerle ştirme 
+anında artm ış enfeksiyon riski ile ili şkilidir. Özellikle nötropenili hastalarda profilaktik 
+antibiyotiklerin kullan ılması düşünülmelidir.  
+Bakır salan rahim içi araçlar ın, ciddi derecede nötropeni veya ciddi derecede trombositopenili 
+hastalarda hastalar ı tehlikeye sokabilecek menstrüel kan kayb ı ve yerleştirme sırasında olası 
+enfeksiyon riski gibi potansiyel riskleri yüzünden önerilmemektedir. 
+Gebelik testleri  
+Yerel uygulamaya göre, çocuk do ğurma potansiyeli olan kad ınlar için sensitivitesi minimum 25 
+mIU/mL olan ve t ıbbi olarak denetlenmi ş gebelik testleri a şağıda belirtildi ği şekilde 
+uygulanmal ıdır. Bu gereklilik, bütünüyle ve sürekli olarak cinsel ili şkiden uzak duraca ğını 
+taahhüt eden çocuk do ğurma potansiyelindeki kad ınları da kapsar. İdeal olarak gebelik testi, 
+reçetenin yaz ılması ve ilacın verilmesi ayn ı gün içinde olmal ıdır. Çocuk do ğurma potansiyelinde 
+olan kad ınlara pomalidomid temin edilmesi, reçete tarihinden itibaren 7 gün içinde 
+gerçekle şmelidir. 
+Tedaviye ba şlanmadan önce 
+Tıbbi olarak do ğrulanmış gebelik testi, pomalidomid reçetelendi ği konsültasyon s ırasında 
+uygulanmal ı veya en az 4 hafta boyunca etkili bir korunma yöntemi kullanan hastan ın reçeteyi 
+yazacak doktoru ziyaret etmesinden önceki 3 gün içinde uygulanmal ıdır. Bu test, hasta 
+pomalidomid ile tedaviye ba şladığında gebelik olmad ığını göstermelidir. 
+İzleme ve tedavinin sona ermesi  
+Onaylanm ış tubal sterilizasyon durumu hariç, t ıbbi olarak do ğrulanmış gebelik testi, tedavinin 
+sona ermesinden sonraki 4 hafta dahil en az her 4 haftada bir tekrarlanmal ıdır. Bu gebelik testleri 
+ilacın reçetelendi ği gün veya reçeteyi yazacak doktoru ziyaretten önceki 3 gün içinde 
+uygulanm ış olmalıdır. 
+Ek önlemler 
+Hastalar, bu ilac ı başka bir kişiye vermemeleri gerekti ği ve kullan ılmayan kapsüllerin tedavi 
+sonunda eczac ılara teslim edilmesi gerekti ği konusunda bilgilendirilmelidir. 
+Hastalar tedavi s ırasında (doza ara vermeler de dahil) ve pomalidomidin kesilmesini takip eden 
+7 gün boyunca kan, semen veya sperm ba ğışında bulunmamal ıdır. 
+Sağlık profesyonelleri ve bak ıcılar blister veya kapsülü tutarken tek kullan ımlık eldiven 
+giymelidir. Hamile olan veya hamile olabilece ğinden şüphelenen kad ınlar blister veya kapsüle 
+dokunmamal ıdır (bkz. Bölüm 6.6) 
+9 Eğitim malzemeleri, reçeteleme ve da ğıtma kısıtlamaları  
+Pomalidomidin fetal maruziyetini önlemede hastalara yard ımcı olmak amac ıyla, Ruhsat Sahibi, 
+pomalidomidin beklenen teratojenisitesi konusundaki uyar ıları vurgulamak, tedaviye 
+başlanmadan önce do ğum kontrolü konusunda tavsiye ve gebelik testinin gereklili ği konusunda 
+rehberlik sa ğlamak için sa ğlık profesyonellerine e ğitim malzemesi temin edecektir. İlacı reçete 
+eden hekim, hastay ı hastayı beklenen teratojenik risk ve Gebelik Önleme Program ında belirtilen 
+sıkı gebelik önleme tedbirleri hakk ında bilgilendirmeli ve hastalara her bir Ulusal Yetkili Otorite 
+ile mutab ık kalındığı şekilde uygun hasta e ğitim broşürü sağlamalıdır. Her bir Ulusal Yetkili 
+Otorite ile i şbirliği içerisinde ulusal kontrollü da ğıtım program ı uygulamaya konulmu ştur. 
+Kontrollü da ğıtım sistemi, reçetelenme ve/veya da ğıtım kontrolleri için hasta kart ı ve/veya 
+eşdeğer materyalin kullan ımı ve ulusal olarak endikasyon d ışı kullanımı izlemek amac ıyla 
+endikasyona ili şkin ayrıntılı verilerin toplanmas ını içermektedir. Tercihen gebelik testi ve reçete 
+yazma ile ilaç da ğıtım işlemleri ayn ı gün olmal ıdır. Çocuk do ğurma potansiyeli olan bir kad ına 
+pomalidomid t ıbbi olarak do ğrulanmış, negatif hamilelik testi sonras ı reçete edildikten itibaren 7 
+gün içinde sa ğlanmalıdır. Çocuk do ğurma potansiyeli olan kad ınlara verilen reçeteler, 
+onaylanm ış endikasyonlara göre dozaj rejimleri maksimum 4 haftal ık bir tedavi süresi ve di ğer 
+tüm hastalar için verilen reçeteler maksimum 12 hafta süresi için olabilir. (bkz. Bölüm 4.2). 
+Hematolojik olaylar 
+Nötropeni, nüks/dirençli multipl miyelom hastalar ında en s ık bildirilen 3. veya 4. derece 
+hematolojik advers reaksiyondur, nötropeniyi anemi ve trombositopeni takip etmektedir. 
+Hastalar, hematolojik advers reaksiyonlar, özellikle de nötropeni aç ısından izlenmelidir. 
+Hastalara febril nöbetlerini derhal bildirmeleri konusunda tavsiyede bulunulmal ıdır. Hekimler 
+burun kanamalar ı dahil kanama belirtileri aç ısından, özellikle de kanama riskini art ırdığı bilinen 
+ilaçların eşzamanlı kullanımı sırasında, hastalar ı gözlemelidir (bkz. Bölüm 4.8). Tam kan 
+sayımları 
+ tedaviye ba şlamadan, 
+ tedavinin ilk 8 haftas ı boyunca her hafta, 
+ İlk 8 haftadan sonra kullan ım süresi boyunca en az ayda bir gerçekle ştirilir.  
+Doz ayarlamas ı gerekli olabilir (bkz. Bölüm 4.2). Hastalar ın, kan ürünü deste ği ve/veya büyüme 
+faktörleri kullanmas ı gerekli olabilir. 
+Tromboembolik olaylar 
+Bortezomib ve deksametazon ile veya deksametazon ile kombinasyon halinde pomalidomid 
+kullanan hastalarda venöz tromboembolik olaylar (ba şlıca derin ven trombozu ve pulmoner 
+embolizm) ve arteriyel trombotik olaylar (miyokard enfarktüsü ve serebrovasküler olay) 
+gelişmiştir. (bkz. bölüm 4.8). Tromboembolizm için bilinen risk faktörleri bulunan hastalar – 
+daha önce tromboz geçiren hastalar dahil – yak ından izlenmelidir. Tüm de ğiştirilebilir risk 
+faktörlerini (örn., sigara kullanmak, hipertansiyon ve hiperlipidemi) en aza indirmek için gerekli 
+işlemler yap ılmalıdır. Hastalara ve hekimlere tromboembolizm belirti ve semptomlar ına karşı 
+dikkatli olmalar ı konusunda tavsiyede bulunulmal ıdır. Hastalara, nefes darl ığı, göğüs ağrısı, kol 
+veya bacakta şişme gibi semptomlar görülmesi halinde t ıbbi yardım istemeleri konusunda bilgi 
+verilmelidir. Antikoagülan tedavi (kontrendike olmad ıkça) (asetilsalisilik asit, varfarin, heparin 
+veya klopidogrel gibi) özellikle ilave trombotik risk faktörleri bulunan hastalar için 
+önerilmektedir. Profilaktik önlem alma karar ı, bireysel olarak hastan ın altta yatan risk 
+faktörlerinin dikkatle de ğerlendirilmesi sonras ında alınmalıdır. Klinik çal ışmalarda, hastalar 
+profilaktik asetilsalisilik asit veya alternatif antitrombotik tedavi alm ışlardır. Eritropoietik 
+ilaçların kullanılması, tromboembolizm dahil trombotik olaylar için bir risk ta şır. Bu nedenle, 
+eritropoietik ilaçlar ın yanı sıra tromboembolik olaylar ın riskini art ırabilecek olan di ğer ilaçlar 
+dikkatle kullan ılmalıdır. 
+10 Tiroid bozuklukları  
+Hipotiroidizm vakalar ı bildirilmi ştir. Tedaviye ba şlamadan önce tiroid fonksiyonunu etkileyen 
+komorbid durumlar ın optimum kontrolü önerilir. Tiroid fonksiyonunun ba şlangıç ve devam 
+eden durumunun izlenmesi önerilir. 
+Periferik nöropati  
+Devam eden 2. derece veya daha yüksek periferik nöropatisi olan hastalar, pomalidomid ile 
+yapılan klinik çal ışmalara dahil edilmemi ştir. Bu tür hastalar ın pomalidomid ile tedavisi 
+düşünüldüğünde gerekli dikkat gösterilmelidir. 
+Belirgin kardiyak disfonksiyon  
+Belirgin kardiyak disfonksiyonu olan hastalar (konjestif kalp yetmezli ği [New York Kalp 
+Derneği Sınıf III veya IV]; tedaviye ba şlamadan önceki 12 ay içinde miyokard enfarktüsü; stabil 
+olmayan veya yeterince kontrol alt ına alınmamış olan anjina pektoris) pomalidomid ile yap ılan 
+klinik çal ışmaların dışında bırakılmışlardır. Özellikle önceden kardiyak hastal ığı veya kardiyak 
+risk faktörleri olan hastalarda konjestif kalp yetmezli ği, pulmoner ödem ve artriyal fibrasyonu 
+içeren kardiyak olaylar (bkz. Bölüm 4.8) bildirilmi ştir. Pomalidomid alan bu hastalar ın tedavisi 
+düşünüldüğünde, kardiyak olaylar ın belirti veya bulgular ının periyodik takibini içeren uygun 
+önlemler al ınmalıdır. 
+Tümör lizis sendromu  
+Tümör lizis sendromu için en yüksek risk alt ında olan hastalar tedavi öncesinde yüksek tümör 
+yükü olan hastalard ır. Bu hastalar yak ından takip edilmeli ve uygun önlemler al ınmalıdır. 
+İkinci primer maligniteler 
+Pomalidomid kullanan hastalarda melanom harici deri kanseri gibi ikinci primer maligniteler 
+bildirilmi ştir (bkz. Bölüm 4.8). Hekimler, hastalar ı tedavi öncesinde ve tedavi s ırasında ikinci 
+primer malignitelerin ortaya ç ıkması açısından standart kanser taramalar ı kullanarak dikkatle 
+değerlendirmeli ve endike oldu ğu şekilde bu hastal ıkların tedavisini ba şlatmalıdır. 
+Alerjik reaksiyon ve ciddi deri reaksiyonlar ı  
+Pomalidomid kullan ımı ile anjioödem, anaflaktik reaksiyon ve SJS, TEN ve DRESS’i içeren 
+ciddi dermatolojik reaksiyonlar bildirilmi ştir (bkz. Bölüm 4.8). Hastalar reçete eden doktor 
+tarafından bu reaksiyonlar ın belirti ve semptomlar ı hakkında bilgilendirilmeli ve e ğer bu 
+semptomlar geli şirse derhal t ıbbi yardım almalar ı hastalara anlat ılmalıdır. Eksfolyatif veya 
+büllöz döküntü durumunda veya SJS, TEN ya da DRESS şüphesi oldu ğunda pomalidomid 
+kullanımı bırakılmalı ve bu reaksiyonlar ın düzelmesinin ard ından tekrar ba şlatılmamalıdır. Daha 
+öncesinde talidomid veya lenalidomid kullan ımı ile ilişkili ciddi alerjik reaksiyon öyküsü olan 
+hastalar, klinik çal ışmalara dahil edilmemi şlerdir. Bu tür hastalar a şırı duyarlılık reaksiyonlar ı 
+için daha yüksek risk alt ında olabilirler ve bu hastalar pomalidomid kullanmamal ıdır. İkinci veya 
+üçüncü derece deri döküntüsü durumunda pomalidomide ara verilmesi veya pomalidomidin 
+kesilmesi dü şünülmelidir. Anjiyoödem ve anaflaktik reaksiyon durumunda pomalidomid kal ıcı 
+olarak kesilmelidir. 
+Baş dönmesi ve konfüzyon  
+Pomalidomid ile ba ş dönmesi ve konfüzyon bildirilmi ştir. Hastalar, ba ş dönmesi veya 
+konfüzyonun bir sorun olu şturabilece ği durumlardan ve t ıbbi tavsiye almaks ızın baş dönmesi ve 
+konfüzyona neden olabilecek di ğer ürünleri almaktan kaç ınmalıdırlar. 
+11 İnterstisyel akciğer hastalığı (İAH)  
+Pomalidomid ile, pnömonit vakalar ı dahil interstisyel akci ğer hastal ığı ve ilişkili olaylar 
+gözlenmi ştir. Pulmoner semptomlarda akut ba şlangıçlı veya açıklanamayan kötüle şme görülen 
+hastalar interstisyel akci ğer hastal ığını elemek üzere dikkatlice de ğerlendirilmelidir. 
+Pomalidomid bu semptomlar ara ştırılırken kesilmeli ve interstisyel akci ğer hastalığı doğrulanırsa 
+uygun tedavi ba şlatılmalıdır. Pomalidomid sadece kapsaml ı bir yarar ve risk de ğerlendirmesi 
+sonrasında yeniden ba şlatılmalıdır. 
+Karaciğer bozuklukları  
+Pomalidomid ile tedavi edilen hastalarda belirgin olarak artm ış alanin aminotransferaz ve bilirubin 
+düzeyleri gözlenmi ştir (bkz. Bölüm 4.8). Ayr ıca pomalidomidin kesilmesi ile sonuçlanan birkaç 
+hepatit vakas ı da gözlenmi ştir. Pomalidomid ile tedavinin ilk 6 ay ı boyunca ve ard ından klinik 
+olarak endike oldu ğunda düzenli karaci ğer fonksiyonu takibi önerilmektedir. 
+Enfeksiyonlar   
+Önceden hepatit B virüsü (HBV) ile enfekte olan hastalarda deksametazon ile kombinasyon 
+halinde pomalidomid kullan ımı sırasında nadir olarak hepatit B reaktivasyonu bildirilmi ştir. Bazı 
+hastalarda akut viral hepatit sebebiyle geli şen yetmezli ğe bağlı pomalidomid tedavisinin kesilmesi 
+gerekebilir. Pomalidomid tedavisi ba şlatılmadan önce hepatit B virüsü durumu belirlenmelidir. 
+HBV enfeksiyonu bak ımından pozitif olan hastalarda, hepatit B tedavisinde uzman bir hekim ile 
+konsültasyon önerilmektedir. Pomalidomidin deksametazon ile kombinasyon halinde 
+kullanılacağı önceden HBV ile enfekte olmu ş hastalarda, Anti-HBc’si pozitif ancak HBsAg’si 
+negatif olanlar da dahil olmak üzere, dikkatli olunmal ıdır. Bu hastalar tedavi boyunca aktif HBV 
+enfeksiyonu belirti ve semptomlar ı açısından yakından izlenmelidir. 
+Progresif multifokal lökoensefalopati (PML)  
+Pomalidomid ile ölümcül vakalar ı içeren progresif multifokal lökoensefalopati vakalar ı 
+bildirilmi ştir. PML, pomalidomid ile tedaviye ba şladıktan birkaç ay ila birkaç y ıl sonra rapor 
+edilmiştir. Vakalar genellikle e şzamanlı deksametazon alan veya di ğer immünosupresif 
+kemoterapi ile daha önce tedavi alan hastalarda bildirilmi ştir. Hekimler hastalar ı düzenli 
+aralıklarla izlemeli ve yeni veya kötüle şen nörolojik semptomlar ı, bilişsel veya davran ışsal 
+belirti veya semptomlar ı olan hastalarda ay ırıcı teşhis koyarak PML'yi dikkate almal ıdır. 
+Hastanın farkında olmad ığı semptomlar ı fark edebileceklerinden, hastalara ayr ıca eşlerini veya 
+bakıcılarını tedavileri hakk ında bilgilendirmeleri tavsiye edilmelidir. 
+PML değerlendirmesi; nörolojik muayeneye, beynin manyetik rezonans görüntülemesine ve 
+polimeraz zincir reaksiyonu (PCR) ile JC virüsü (JCV) DNA için beyin omurilik s ıvısı analizine 
+veya JCV testi ile beyin biyopsisine dayanmal ıdır. Negatif bir JCV PCR, PML'yi hariç 
+tutmamaktad ır. Alternatif tan ı konulamazsa ek bir takip ve de ğerlendirme gerekebilir. 
+PML'den şüpheleniliyorsa, PML hariç tutulana kadar daha fazla dozlama yap ılmamalıdır. PML 
+doğrulanırsa, pomalidomid kal ıcı olarak kesilmelidir. 
+Kullanılmamış kapsüller 
+Hastalara, bu t ıbbi ürünü kesinlikle ba şka bir kişiye vermemeleri ve varsa kullan ılmamış 
+kapsülleri tedavi sonunda eczac ılarına iade etmeleri söylenmelidir. 
+IMNOVİD kapsüller aç ılmamalı veya ezilmemelidir. Pomalidomid tozu deriye temas ederse, 
+deri derhal ve sabunlu su ile iyice y ıkanmalıdır. Pomalidomid mukoz membranlarla temas 
+ederse, bunlar su ile iyice y ıkanmalıdır. 
+12 4.5. Di ğer tıbbi ürünler ile etkile şimler ve di ğer etkile şim şekilleri 
+Diğer tıbbi ürünlere pomalidomidin etkisi  
+Pomalidomidin, P450 izoenzimlerinin substratlar ı veya taşıyıcıları ile birlikte uygulanmas ının, 
+P450 izoenzim inhibisyonu veya indüksiyonu veya ta şıyıcı inhibisyonuna ba ğlı klinik olarak 
+anlamlı farmakokinetik etkile şmelerine neden olmas ı beklenmemektedir. Bu tür etkile şim 
+potansiyeli, pomalidomidin kombine oral kontraseptiflerin farmakokineti ği üzerine potansiyel 
+etkisi dahil olmak üzere, klinik olarak de ğerlendirilmemi ştir (bkz. Bölüm 4.4). 
+ 
+Diğer tıbbi ürünlerin pomalidomide etkisi  
+Pomalidomid, CYP1A2 ve CYP3A4/5 taraf ından kısmi olarak metabolize edilir. Ayr ıca P-
+glikoproteinin de bir substrat ıdır. Pomalidomidin güçlü CYP3A4/5 ve P-gp inhibitörü olan 
+ketokonazol ile veya güçlü CYP3A4/5 indükleyicisi olan karbamazepin ile e şzamanlı 
+uygulanmas ının, pomalidomide maruziyet üzerinde klinik olarak anlaml ı etkisi 
+bulunmamaktad ır. Güçlü CYP1A2 inhibitörü olan fluvoksaminin pomalidomid ile ketokonazol 
+varlığında eşzamanlı olarak uygulanmas ı, pomalidomid ve ketokonazole k ıyasla, pomalidomide 
+ortalama maruziyeti %90 güven aral ığı ile [%91 ila %124] %107 oran ında artırmıştır. Tek başına 
+bir CYP1A2 inhibitörünün metabolizma de ğişikliklerine katk ısını değerlendirmek üzere yap ılan 
+ikinci bir çal ışmada, pomalidomid ile tek ba şına fluvoksaminin e şzamanlı olarak uygulanmas ı 
+pomalidomide ortalama maruziyeti, tek ba şına pomalidomide k ıyasla %90 güven aral ığı ile 
+[%98 ila %157) %125 art ırmıştır. Güçlü CYP1A2 inhibitörleri (örn., siprofloksasin, enoksasin 
+ve fluvoksamin) pomalidomid ile e şzamanlı olarak uygulan ırsa, pomalidomid dozu %50 
+azaltılmalıdır. 
+Pomalidomidin güçlü CYP1A2 inhibitörleri (örn., siprofloksasin, enoksasin ve fluvoksamin) ile 
+eşzamanlı uygulanmas ı halinde, hastalar advers reaksiyonlar aç ısından yak ından takip 
+edilmelidir. 
+Deksametazon   
+Multipl miyelom hastalar ında 4 mg’a kadar olan çoklu pomalidomid dozlar ıyla, 20 mg ila 40 
+mg arasında deksametazonun (CYP3A dahil çe şitli CYP enzimlerinin hafif ila orta derecede 
+indükleyicisi) e şzamanlı olarak uygulanmas ının, pomalidomidin tek ba şına uygulanmas ına 
+kıyasla, pomalidomidin farmakokineti ği üzerine herhangi bir etkisi olmam ıştır. 
+Deksametazonun, varfarin üzerine olan etkisi bilinmemektedir. Tedavi s ırasında varfarin 
+konsantrasyonunun yak ından takip edilmesi tavsiye edilir. 
+Özel popülasyonlara ili şkin ek bilgiler  
+Pediyatrik popülasyon: 
+Multipl Miyelom endikasyonu için 0-17 ya ş arası çocuklarda pomalidomidin uygun bir 
+kullanımı yoktur. Pediyatrik popülasyonda hiçbir etkileşim çalışması yapılmamıştır. 
+4.6. Gebelik ve laktasyon 
+Genel tavsiye 
+Gebelik Kategorisi: X 
+Çocuk do ğurma potansiyeli bulunan kad ınlar/Do ğum kontrolü (Kontrasepsiyon) 
+Çocuk do ğurma potansiyeli olan kad ınlar etkili do ğum kontrol yöntemi kullanmal ıdır. 
+Pomalidomid insan semeninde bulunmaktad ır. Önlem olarak pomalidomid kullanmakta olan 
+tüm erkek hastalar, e şleri gebe ise ya da e şlerin çocuk do ğurma potansiyelinin olmas ı ve 
+13 herhangi bir do ğum kontrol yöntemi kullanmamas ı durumunda tedavi süresince, tedaviye ara 
+verilmesi s ırasında ve tedavi kesildikten sonra 7 gün süreyle prezervatif kullanmal ıdır (bkz. 
+Bölüm 4.3 ve 4.4). 
+Çocuk do ğurma potansiyeli olan kad ınlar tedaviye ba şlamadan 4 hafta önce ve süresince (ve 
+tedavinin ard ından 4 haftaya kadar) etkili do ğum kontrolü uygulamak zorundad ırlar (bkz. Bölüm 
+4.3 ve 4.4). 
+Pomalidomid gebelik boyunca ve gebeli ği önlemek için tüm ko şullara uyulmad ıkça, çocuk 
+doğurma potansiyeli olan kad ınlarda kontrendikedir (bkz. Bölüm 4.3 ve 4.4). 
+Gebelik dönemi 
+IMNOVİD gebelik döneminde kontrendikedir (bkz. Bölüm 4.3). 
+Pomalidomidin insanlarda teratojenik etkisi olmas ı beklenmektedir. 
+Pomalidomid ile tedavi edilen kad ınlarda gebelik ortaya ç ıkması halinde, tedavi durdurulmal ıdır 
+ve hasta de ğerlendirme ve tavsiye için teratoloji konusunda uzman veya deneyimli bir hekime 
+sevk edilmelidir. Pomalidomid kullanmakta olan bir erke ğin eşinde gebelik ortaya ç ıkması 
+halinde, erke ğin eşinin değerlendirme ve tavsiye için teratoloji konusunda uzman veya 
+deneyimli bir hekime sevk edilmesi önerilir. 
+Laktasyon dönemi 
+Pomalidomidin insan sütüyle at ılıp atılmadığı bilinmemektedir. Pomalidomid anneye 
+uyguland ıktan sonra, emziren s ıçanların sütünde tespit edilmi ştir. Anne sütü alan bebeklerde 
+pomalidomide ba ğlı advers reaksiyon görülme olas ılığı nedeniyle, çocuk için emzirmenin ve 
+kadın için terapinin faydalar ını dikkate alarak, emzirmenin mi yoksa tedavinin mi kesilece ğine 
+dair bir karar verilmelidir. 
+Üreme yetene ği/Fertilite 
+Pomalidomidin hayvanlarda fertiliteyi olumsuz olarak etkiledi ği ve hayvanlarda teratojenik 
+olduğu gösterilmi ştir. Gebe tav şanlara uyguland ıktan sonra, pomalidomid plasentaya geçmi ştir 
+ve fetal kanda tespit edilmi ştir (bkz. Bölüm 5.3). 
+4.7. Araç ve makine kullan ımı üzerindeki etkiler 
+Pomalidomidin araç ve makine kullanma yetene ği üzerine hafif veya orta derecede bir etkisi 
+bulunmaktad ır. 
+Pomalidomid kullan ımı ile yorgunluk, depresif bilinç düzeyi, konfüzyon ve ba ş dönmesi 
+bildirilmiştir. Hastalar pomalidomid ile tedavi edilirken araç, makine kullanmamalar ı veya 
+tehlikeli i şler yapmamalar ı konusunda uyar ılmalıdır. 
+4.8. İstenmeyen etkiler  
+Güvenlilik profili özeti  
+ Pomalidomidin bortezomib ve dekzametazon ile kombinasyonu 
+En sık bildirilen kan ve lenf sistemi hastal ıkları nötropeni (%54), trombositopeni (%39,9) ve 
+anemidir (%32). En s ık bildirilen di ğer advers reaksiyonlar periferik duyusal nöropati (%48,2), 
+yorgunluk (%38,8), diyare (%38,1), kab ızlık (%38,1) ve periferik ödemdir (%36,3). En s ık 
+bildirilen 3. veya 4. derece advers reaksiyonlar, nötropeni (%47,1), trombositopeni (%28,1) ve 
+anemi (15,1) gibi kan ve lenf sistemi hastal ıklarıdır. En sık bildirilen ciddi advers reaksiyon 
+14 pnömonidir (%12,2). Bildirilen di ğer ciddi advers reaksiyonlar aras ında pireksi (%4,3), alt 
+solunum yolu enfeksiyonu (%3,6), influenza (%3,6), pulmoner emboli (%3,2), atriyal 
+fibrilasyon (%3,2) ve akut böbrek hasar ı (%2,9) yer almaktad ır. 
+ Pomalidomidin dekzametazon ile kombinasyonu 
+Klinik çal ışmalarda en yayg ın olarak bildirilen advers reaksiyonlar, anemi (%45,7), nötropeni 
+(%45,3) ve trombositopeniyi (%27) içeren kan ve lenf sistemi hastal ıkları; yorgunluk (%28,3), 
+pireksi (%21) ve periferik ödemi (%13) içeren genel bozukluklar ve uygulama bölgesi ile ilişkili 
+durumlar; pnömoniyi (%10,7) içeren enfeksiyonlar ve enfestasyonlar olmuştur. Periferik nöropati 
+advers reaksiyonu hastalar ın %12,3’ünde ve venöz embolik veya trombotik (VTE) advers 
+reaksiyonlar hastalar ın %3,3’ünde bildirilmi ştir. En yayg ın olarak bildirilen 3 veya 4. derece 
+advers reaksiyonlar, nötropeni (%41,7), anemi (%27) ve trombositopeniyi (%20,7) içeren kan ve 
+lenf sistemi hastal ıkları; pnömoniyi (%9) içeren enfeksiyonlar ve enfestasyonlar; yorgunluk 
+(%4,7), pireksi (%3) ve periferik ödemi (%1,3) içeren genel bozukluklar ve uygulama bölgesi ile 
+ilişkili durumlar olmu ştur. Bildirilen en yayg ın ciddi advers reaksiyon pnömonidir (%9,3). 
+Bildirilen di ğer ciddi advers reaksiyonlar febril nötropeni (%4), nötropeni (%2), trombositopeni 
+(%1,7) ve VTE advers reaksiyonlar ıdır (%1,7). 
+Advers reaksiyonlar daha s ık olarak pomalidomid ile tedavinin ilk 2 siklusu s ırasında ortaya 
+çıkma eğilimi göstermektedir. 
+Advers reaksiyonlar ın tablolaştırılmış listesi  
+Pomalidomidin bortezomib ve deksametazon kombinasyonu ve pomalidomidin deksametazon 
+ile kombinasyonu ile tedavi edilen hastalarda gözlenen ve pazarlama sonras ı gözlenen advers 
+reaksiyonlar, sistem organ s ınıfına (SOS) ve tüm advers reaksiyonlar ın sıklığına ve 3. veya 4. 
+derece advers reaksiyonlara göre a şağıda Tablo 7’de listelenmi ştir. 
+ 
+Her SOS ve s ıklık gruplamas ında, advers reaksiyonlar azalan ciddiyet s ırasıyla sunulmaktad ır. 
+Sıklıklar şu şekilde tan ımlanmaktad ır: Çok yayg ın (≥1/10); yayg ın (≥1/100 ila <1/10); yayg ın 
+olmayan (≥1/1.000 ila <1/100); seyrek (≥1/10.000 ila <1/1.000); çok seyrek (<1/10.000), 
+bilinmiyor (eldeki verilerden hareketle tahmin edilemiyor). 
+Tablo 7. Klinik çal ışmalarda ve pazarlama sonras ı bildirilen advers reaksiyonlar (Advers 
+Reaksiyonlar) 
+Tedavi kombinasyonu  Pomalidomid/  
+bortezomib/deksametazon Pomalidomid/  
+deksametazon 
+Sistem Organ S ınıfı 
+/Tercih edilen terim Tüm  
+Advers 
+Reaksiyonlar Derece  
+3−4 
+Advers 
+Reaksiyonlar Tüm  
+Advers 
+Reaksiyonlar Derece  
+3−4 
+Advers 
+Reaksiyonlar 
+Enfeksiyonlar ve enfestasyonlar 
+Pnömoni Çok Yayg ın: Çok Yayg ın: - - 
+Pnömoni (f ırsatçı 
+enfeksiyonlar dahil 
+bakteriyel, viral ve 
+mantar enfeksiyonlar ı) - - Çok Yayg ın: Yaygın: 
+Bronşit Çok Yayg ın: Yaygın: Yaygın: Yaygın Olmayan:  
+15 Tedavi kombinasyonu  Pomalidomid/  
+bortezomib/deksametazon Pomalidomid/  
+deksametazon 
+Sistem Organ S ınıfı 
+/Tercih edilen terim Tüm  
+Advers 
+Reaksiyonlar Derece  
+3−4 
+Advers 
+Reaksiyonlar Tüm  
+Advers 
+Reaksiyonlar Derece  
+3−4 
+Advers 
+Reaksiyonlar 
+Üst solunum yolu 
+enfeksiyonu Çok Yayg ın: Yaygın: Yaygın: Yaygın: 
+Viral üst solunum yolu 
+enfeksiyonu Çok Yayg ın: - - - 
+Sepsis Yaygın: Yaygın: - - 
+Septik şok Yaygın: Yaygın: - - 
+Nötropenik sepsis - - Yaygın: Yaygın: 
+Clostridium difficile 
+koliti  Yaygın: Yaygın: - - 
+Bronkopnömoni - - Yaygın: Yaygın: 
+Solunum yolu  
+enfeksiyonu Yaygın: Yaygın: Yaygın: Yaygın: 
+Alt solunum yolu 
+enfeksiyonu Yaygın: Yaygın: - - 
+Akciğer enfeksiyonu Yaygın: Yaygın 
+Olmayan: - - 
+İnfluenza  Çok Yayg ın: Yaygın: - - 
+Bronşiyolit Yaygın: Yaygın: - - 
+İdrar yolu enfeksiyonu  Çok Yayg ın: Yaygın: - - 
+Nazofarenjit - - Yaygın: - 
+Zona - - Yaygın: Yaygın Olmayan: 
+Hepatit B reaktivasyonu - - Bilinmiyor* Bilinmiyor* 
+Malign ve malign olmayan ve tan ımlanmam ış neoplazmalar (Kist ve polipler dahil olmak üzere) 
+Bazal hücreli karsinom Yaygın: Yaygın 
+Olmayan: - - 
+Derinin bazal hücreli 
+karsinomu - - Yaygın  
+Olmayan: Yaygın Olmayan: 
+Derinin skuamöz hücreli 
+karsinomu - - Yaygın  
+Olmayan: Yaygın Olmayan: 
+Kan ve lenf sistemi hastal ıklar ı 
+Nötropeni Çok Yayg ın: Çok Yayg ın: Çok Yayg ın: Çok Yayg ın: 
+Trombositopeni Çok Yayg ın: Çok Yayg ın: Çok Yayg ın: Çok Yayg ın: 
+Lökopeni Çok Yayg ın: Yaygın: Çok Yayg ın: Yaygın: 
+Anemi Çok Yayg ın: Çok Yayg ın: Çok Yayg ın: Çok Yayg ın:  
+16 Tedavi kombinasyonu  Pomalidomid/  
+bortezomib/deksametazon Pomalidomid/  
+deksametazon 
+Sistem Organ S ınıfı 
+/Tercih edilen terim Tüm  
+Advers 
+Reaksiyonlar Derece  
+3−4 
+Advers 
+Reaksiyonlar Tüm  
+Advers 
+Reaksiyonlar Derece  
+3−4 
+Advers 
+Reaksiyonlar 
+Febril nötropeni Yaygın: Yaygın: Yaygın: Yaygın: 
+Lenfopeni Yaygın: Yaygın: - - 
+Pansitopeni - - Yaygın:* Yaygın:* 
+Bağışıklık sistemi hastal ıklar ı 
+Anjioödem - - Yaygın:* Yaygın Olmayan*  
+Ürtiker - - Yaygın:* Yaygın Olmayan*  
+Anaflaktik reaksiyon Bilinmiyor* Bilinmiyor* - - 
+Katı organ nakli reddi Bilinmiyor* - - - 
+Endokrin hastal ıklar ı 
+Hipotiroidizm Yaygın 
+Olmayan* - - --  
+Metabolizma ve beslenme hastal ıklar ı 
+Hipokalemi Çok Yayg ın: Yaygın: - - 
+Hiperglisemi Çok Yayg ın: Yaygın: - - 
+Hipomagnezemi Yaygın: Yaygın: - - 
+Hipokalsemi Yaygın: Yaygın: - - 
+Hipofosfatemi Yaygın: Yaygın: - - 
+Hiperkalemi Yaygın: Yaygın: Yaygın: Yaygın: 
+Hiperkalsemi Yaygın: Yaygın: - - 
+Hiponatremi - - Yaygın: Yaygın: 
+İştah azalmas ı - - Çok Yayg ın Yaygın Olmayan: 
+Hiperürisemi - - Yaygın:* Yaygın:* 
+Tümör lizis sendromu - - Yaygın  
+Olmayan:* Yaygın  
+Olmayan:* 
+Psikiyatrik hastal ıklar 
+Uykusuzluk Çok Yayg ın: Yaygın: - - 
+Depresyon Yaygın: Yaygın: - - 
+Kafa karışıklığı durumu - - Yaygın: Yaygın: 
+Sinir sistemi hastal ıklar ı 
+Periferik duyusal  
+nöropati Çok Yayg ın: Yaygın: Yaygın: Yaygın Olmayan: 
+ 
+17 Tedavi kombinasyonu  Pomalidomid/  
+bortezomib/deksametazon Pomalidomid/  
+deksametazon 
+Sistem Organ S ınıfı 
+/Tercih edilen terim Tüm  
+Advers 
+Reaksiyonlar Derece  
+3−4 
+Advers 
+Reaksiyonlar Tüm  
+Advers 
+Reaksiyonlar Derece  
+3−4 
+Advers 
+Reaksiyonlar 
+Baş dönmesi Çok Yayg ın: Yaygın 
+Olmayan: Yaygın: Yaygın Olmayan: 
+Tremor Çok Yayg ın: Yaygın 
+Olmayan: Yaygın: Yaygın Olmayan 
+Senkop Yaygın: Yaygın: - - 
+Periferik sensorimotor 
+nöropati Yaygın: Yaygın: - - 
+Parestezi Yaygın: - - - 
+Tat alma bozuklu ğu Yaygın: - - - 
+Depresif bilinç düzeyi - - Yaygın: Yaygın: 
+Kafa içi kanama - - Yaygın:* Yaygın Olmayan: * 
+Serebrovasküler kaza - - Yaygın  
+Olmayan: * Yaygın Olmayan: * 
+Göz hastal ıkları 
+Katarakt Yaygın: Yaygın: - - 
+Kulak ve iç kulak hastal ıkları 
+Vertigo - - Yaygın: Yaygın: 
+Kardiyak hastal ıklar 
+Atriyal fibrilasyon Çok Yayg ın: Yaygın: Yaygın:* Yaygın:* 
+Kalp yetmezli ği - - Yaygın:* Yaygın:* 
+Miyokardiyal enfarktüs - - Yaygın:* Yaygın Olmayan: * 
+Vasküler hastal ıklar 
+Derin ven trombozu Yaygın: Yaygın 
+Olmayan: Yaygın: Yaygın Olmayan: 
+Hipotansiyon Yaygın: Yaygın: - - 
+Hipertansiyon Yaygın: Yaygın: - - 
+Solunum, gö ğüs bozukluklar ı ve mediastinal hastal ıkları 
+Dispne Çok Yayg ın: Yaygın: Çok Yayg ın: Yaygın: 
+Öksürük Çok Yayg ın: - Çok Yayg ın: Yaygın Olmayan: 
+Pulmoner embolizm Yaygın: Yaygın: Yaygın: Yaygın Olmayan:  
+18 Tedavi kombinasyonu  Pomalidomid/  
+bortezomib/deksametazon Pomalidomid/  
+deksametazon 
+Sistem Organ S ınıfı 
+/Tercih edilen terim Tüm  
+Advers 
+Reaksiyonlar Derece  
+3−4 
+Advers 
+Reaksiyonlar Tüm  
+Advers 
+Reaksiyonlar Derece  
+3−4 
+Advers 
+Reaksiyonlar 
+Epistaksis - - Yaygın:* Yaygın  
+Olmayan:* 
+İnterstisyel akci ğer 
+hastalığı - - Yaygın:* Yaygın  
+Olmayan:* 
+Gastrointestinal hastal ıklar 
+Diyare Çok Yayg ın: Yaygın: Çok Yayg ın: Yaygın: 
+Kusma Çok Yayg ın: Yaygın: Yaygın: Yaygın: 
+Bulantı Çok Yayg ın: Yaygın 
+Olmayan: Çok Yayg ın: Yaygın Olmayan: 
+Konstipasyon Çok Yayg ın: Yaygın: Çok Yayg ın: Yaygın: 
+Karın ağrısı Çok Yayg ın: Yaygın: - - 
+Üst karın ağrısı Yaygın: Yaygın 
+Olmayan: - - 
+Stomatit Yaygın: Yaygın 
+Olmayan: - - 
+Ağız kuruluğu Yaygın: - - - 
+Abdominal distansiyon Yaygın: Yaygın 
+Olmayan: - - 
+Gastrointestinal kanama - - Yaygın: Yaygın Olmayan: 
+Hepatobilier bozukluklar 
+Hiperbilirubinemi - - Yaygın  
+Olmayan: Yaygın Olmayan: 
+Hepatit - - Yaygın  
+Olmayan:* - 
+Deri ve deri alt ı doku hastal ıklar ı 
+Deri döküntüsü Çok Yayg ın: Yaygın: Yaygın: Yaygın: 
+Kaşıntı - - Yaygın: - 
+Eozinofili ve Sistemik 
+Semptomlarla Birlikte 
+İlaç Reaksiyonu - - Bilinmiyor:* Bilinmiyor:* 
+Toksik epidermal  
+nekroliz - - Bilinmiyor:* Bilinmiyor:* 
+Stevens-Johnson  
+Sendromu - - Bilinmiyor:* Bilinmiyor:* 
+ 
+19 Tedavi kombinasyonu  Pomalidomid/  
+bortezomib/deksametazon Pomalidomid/  
+deksametazon 
+Sistem Organ S ınıfı 
+/Tercih edilen terim Tüm  
+Advers 
+Reaksiyonlar Derece  
+3−4 
+Advers 
+Reaksiyonlar Tüm  
+Advers 
+Reaksiyonlar Derece  
+3−4 
+Advers 
+Reaksiyonlar 
+Kas-iskelet bozukluklar ı, bağ doku ve kemik hastal ıkları 
+Kas güçsüzlü ğü Çok Yayg ın: Yaygın: - - 
+Sırt ağrısı Çok Yayg ın: Yaygın: - - 
+Kemik ağrısı Yaygın: Yaygın 
+Olmayan: Çok Yayg ın: Yaygın: 
+Kas spazmlar ı Çok Yayg ın: - Çok Yayg ın: Yaygın Olmayan: 
+Böbrek ve idrar yolu hastal ıkları 
+Akut böbrek yetmezli ği Yaygın: Yaygın: - - 
+Kronik böbrek  
+yetmezliği Yaygın: Yaygın: - - 
+Üriner retansiyon Yaygın: Yaygın: Yaygın: Yaygın Olmayan: 
+Böbrek yetmezli ği - - Yaygın: Yaygın: 
+Üreme sistemi ve meme hastal ıkları 
+Pelvik ağrısı     Yaygın: Yaygın: 
+Genel bozukluklar ve uygulama bölgesine ili şkin hastal ıklar 
+Yorgunluk Çok Yayg ın: Yaygın: Çok Yayg ın: Yaygın: 
+Pireksi Çok Yayg ın: Yaygın: Çok Yayg ın: Yaygın: 
+Periferik ödem Çok Yayg ın: Yaygın: Çok Yayg ın: Yaygın: 
+Kalp dışı göğüs ağrısı Yaygın: Yaygın: - - 
+Ödem Yaygın: Yaygın: - - 
+Araştırmalar 
+Alanin aminotransferaz 
+artışı Yaygın: Yaygın: Yaygın: Yaygın: 
+Kilo kayb ı Yaygın: Yaygın: - - 
+Düşük nötrofil say ısı - - Yaygın: Yaygın: 
+Düşük beyaz kan hücresi 
+sayısı - - Yaygın: Yaygın: 
+Düşük trombosit say ısı - - Yaygın: Yaygın: 
+Yüksek kan ürik asidi - - Yaygın:* Yaygın  
+Olmayan:* 
+Yaralanma ve zehirlenme 
+Düşme Yaygın: Yaygın: - - 
+* Pazarlama sonras ı kullanım sırasında bildirilmi ştir. 
+20 Seçili advers reaksiyonlar ın tanımı  
+Bu bölümdeki s ıklıklar, bortezomib ve deksametazon (Pom+Btz+Dex) veya deksametazon 
+(Pom+Dex) ile kombinasyon halinde pomalidomid tedavisi alan hastalarda yap ılan klinik 
+çalışmalardan al ınmıştır. 
+Teratojenisite 
+Pomalidomid yap ısal olarak talidomid ile benzerdir. Talidomid insanlarda teratojenik etkisi 
+oluğu bilinen ve ya şamı tehdit edici ciddi do ğumsal kusurlara neden olan etkin bir maddedir. 
+Pomalidomidin, majör organogenez dönemi s ırasında uyguland ığında, sıçanlarda ve tav şanlarda 
+teratojenik etki gösterdi ği bulunmu ştur. Eğer gebelik s ırasında alınırsa, pomalidomidin 
+insanlarda teratojenik bir etki göstermesi beklenir (bkz. Bölüm 4.4). 
+Nötropeni ve trombositopeni 
+Nötropeni hastalar ın %54’üne (Pom+Btz+Dex) kadar ında (%47,1’i (Pom+Btz+Dex) 3. veya 4. 
+derece) ortaya ç ıkmıştır. Nötropeni, seyrek olarak ciddidir ve hastalar ın %0,7'sinde 
+pomalidomid tedavisinin kesilmesine yol açm ıştır. . 
+Febril nötropeni (FN) hastalar ın %3,2 (Pom+Btz+Dex) ila %6,7'sinde (Pom+Dex) bildirilmi ştir ve 
+hastaların %1,8 (Pom+Btz+Dex) ila %4,0' ında (Pom+Dex) ciddidir (bkz. Bölüm 4.2 ve 4.4). 
+Trombositopeni hastalar ın %39,9'u (Pom+Btz+Dex) ila %27'sinde (Pom+Dex) meydana 
+gelmiştir. Trombositopeni hastalar ın %28,1 (Pom+Btz+Dex) ila %20,7'sinde (Pom+Dex) 3. 
+derece veya 4. derecedir, hastalar ın %0,7’si % (Pom+Btz+Dex) ila %1,7'sinde (Pom+Dex) 
+ciddidir ve hastalar ın %0,7'sinde (Pom+Dex) pomalidomid tedavisinin kesilmesine yol açm ıştır 
+(bkz. Bölüm 4.2 ve 4.4). 
+Nötropeni ve trombositopeni, bortezomib ve deksametazon veya deksametazon ile 
+kombinasyon halinde pomalidomid ile tedavinin ilk 2 döngüsünde daha s ık ortaya ç ıkma 
+eğilimindedir. 
+Enfeksiyon 
+Enfeksiyon en s ık görülen hematolojik olmayan toksisitedir. 
+Hastalar ın %55 (Pom+Dex) ila %83,1'inde (Pom+Btz+Dex) (%34,9 (Pom+Btz+Dex) ila %24’ü 
+(Pom+Dex) 3 veya 4. derecedir) enfeksiyon meydana gelmi ştir. Üst solunum yolu enfeksiyonu 
+ve pnömoni en s ık görülen enfeksiyonlard ır. Ölümcül enfeksiyonlar (5. derece) hastalar ın 
+%2,7’si (Pom+Dex) ila %4’ünde (Pom+Btz+Dex) gerçekle şmiştir. Enfeksiyonlar, hastalar ın 
+%3,6’sı (Pom+Btz+Dex) ila %2’sinde (Pom+Dex) pomalidomid tedavisinin kesilmesine yol 
+açmıştır. 
+Tromboembolik olaylar 
+Klinik çal ışmalardaki tüm hastalar için asetilsalisilik asit (ve yüksek riskli bireylerde di ğer 
+antikoagülanlar) ile profilaksi, zorunlu tutulmu ştur. Antikoagülan tedavi (kontrendike 
+olmadıkça) önerilmektedir (bkz. Bölüm 4.4). 
+Hastalar ın %3,3’ü ila %12,2’sinde (Pom+Btz+Dex) (%1,3 (Pom+Dex) ila 5,8’i 
+(Pom+Btz+Dex) 3. veya 4. derecedir) venöz tromboembolik olaylar (VTE) meydana gelmi ştir. 
+Hastalar ın %1,7’si (Pom+Dex) ila %4,7'sinde (Pom+Btz+Dex) VTE ciddi olarak rapor edilmi ş, 
+ölümcül reaksiyon bildirilmemi ş ve hastalar ın %2,2'sine (Pom+Btz+Dex) kadar ında VTE 
+pomalidomid kesilmesi ile ili şkiliydi. 
+21 Periferik nöropati 
+ Pomalidomidin bortezomib ve deksametazon ile kombinasyon tedavisinde 
+Randomizasyondan 14 gün öncesine kadar a ğrı ve ≥2. derece periferik nöropatisi olan hastalar 
+klinik çal ışmalara dahil edilmemi ştir. Periferik nöropati hastalar ın %55,4'ünde (%10,8’i 3. 
+derece; %0,7’si 4. derece) meydana gelmi ştir. Tedavi kollar ında maruz kalma ayarlanm ış 
+oranları karşılaştırılabilirdir. Periferik nöropati ya şayan hastalar ın yaklaşık %30'unda 
+başlangıçta nöropati öyküsü vard ı. Periferik nöropati, Pom+Btz+Dex kolundaki hastalar ın 
+yaklaşık %14,4'ünda bortezomib, hastalar ın %1,8'inde pomalidomid ve %1,8’i ve Btz+Dex 
+kolundaki hastalar ın %8,9'unda deksametazon tedavisinin kesilmesine yol açm ıştır. 
+ Pomalidomidin deksametazon ile kombinasyon tedavisinde 
+Devam etmekte olan ≥2. derece periferik nöropatisi olan hastalar, klinik çal ışmalara dahil 
+edilmemi ştir. Periferik nöropati, hastalar ın %12,3’ünde ortaya ç ıkmıştır (%1 3. veya 4. derece). 
+Hiçbir periferik nöropati reaksiyonu ciddi olarak bildirilmemi ştir ve periferik nöropati 
+hastaların %0,3’ünde tedavinin kesilmesine yol açm ıştır (bkz. Bölüm 4.4). 
+Hemoraji 
+Pomalidomid ile hemorajik bozukluklar özellikle risk faktörü ta şıyan ve kanamaya e ğilimi 
+artıran tıbbi ürünleri e ş zamanlı kullanan hastalarda bildirilmi ştir. Hemorajik olaylar burun 
+kanaması, intrakranial kanama ve gastrointestinal kanamalar ı içerir. 
+Alerjik reaksiyonlar ve ciddi deri reaksiyonlar ı 
+Pomalidomid kullan ımı ile anjioödem, anaflaktik reaksiyon ve Stevens-Johnson sendromu, 
+toksik epidermal nekroliz ve DRESS’i içeren ciddi kutanöz reaksiyonlar bildirilmi ştir. 
+Lenalidomid veya talidomid tedavisi ile ili şkili şiddetli döküntü öyküsü olan hastalar 
+pomalidomid kullanmamal ıdır (bkz. bölüm 4.4). 
+Pediyatrik popülasyon: 
+Tekrarlayan veya ilerleyen beyin tümörleri olan pediyatrik hastalarda (4 ila 18 ya ş arası) 
+bildirilen advers reaksiyonlar, yeti şkin hastalarda bilinen pomalidomid güvenlilik profiliyle 
+uyumludur (bkz. Bölüm 5.1). 
+Şüpheli advers reaksiyonlar ın raporlanmas ı  
+Ruhsatland ırma sonras ı şüpheli ilaç advers reaksiyonlar ının raporlanmas ı büyük önem 
+taşımaktadır. Raporlama yap ılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine 
+olanak sa ğlar. Sağlık mesleği mensuplar ının herhangi bir şüpheli advers reaksiyonu Türkiye 
+Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir (www.titck.gov.tr ; e-posta: 
+tufam@titck.gov.tr ; tel: 0 800 314 00 08; faks: 0 312 218 35 99). 
+4.9. Doz a şımı ve tedavisi 
+Sağlıklı gönüllülerde tek doz olarak 50 mg'a kadar yüksek pomalidomid dozlar ı incelenmi ş ve 
+aşırı doza bağlı ciddi advers reaksiyonlar bildirilmemi ştir. Multipl miyelom hastalar ında günde 
+bir kez 10 mg'a kadar yüksek çoklu dozlar incelenmi ş ve aşırı doza bağlı ciddi advers 
+reaksiyonlar bildirilmemi ştir. Doz sınırlayıcı toksisite miyelosupresyon olmu ştur. Çalışmalarda, 
+pomalidomidin hemodiyaliz ile uzakla ştırılabildiği bulunmu ştur. 
+Doz aşımı durumunda, destek tedavisi tavsiye edilmektedir. 
+22 5. FARMAKOLOJ İK ÖZELL İKLER 
+5.1. Farmakodinamik özellikler 
+Farmakoterapötik grup: İmmünosupresanlar, di ğer immünosupresanlar 
+ATC kodu: L04AX06  
+Etki mekanizmas ı  
+Pomalidomid direkt antimiyelom tümorisidal ve immünomodülatör aktiviteye sahiptir ve multipl 
+miyelom tümör hücrelerinin ço ğalmasında rol oynayan stromal hücre deste ğini inhibe eder. 
+Pomalidomid spesifik olarak hematopoietik tümör hücrelerinin proliferasyonunu inhibe eder ve 
+apopitozisi indükler. Ek olarak, pomalidomid lenalidomide dirençli multipl miyelom hücre 
+dizilerinin proliferasyonunu inhibe eder ve lenalidomide duyarl ı ve lenalidomide dirençli hücre 
+dizilerinin her ikisinde de tümör hücrelerinin apopitozisi indüklemede deksametazon ile 
+sinerjistik etki gösterir. Pomalidomid T hücreleri ve Do ğal Öldürücü (Natural Killer, NK) 
+hücrelerinin düzenledi ği bağışıklığı güçlendirir ve monositler taraf ından pro-enflamatuvar 
+sitokinlerin (örn., TNF-  ve IL-6) üretilmesini inhibe eder. Pomalidomid, endotel hücrelerinin 
+göçü ve adhezyonunu engelleyerek, anjiyogenezi de inhibe eder. 
+Pomalidomid, deoksiribonükleik asit (DNA) hasar ba ğlayıcı protein 1 (DDB1), cullin 4(CUL4) 
+ve cullins-1 regülatörünü (Roc1) içeren bir E3 ligaz kompleksinin bir parças ı olan protein 
+sereblonuna (CRBN) do ğrudan ba ğlanır ve kompleks içinde CRBN'nin otomatik 
+ubikütinasyonunu inhibe edebilir. E3 ubikütin ligazlar ı, çeşitli substrat proteinlerinin 
+poliubikütinasyonundan sorumludur ve pomalidomid tedavisi ile gözlenen pleyiotropik 
+hücresel etkileri k ısmen açıklayabilir. 
+Pomalidomid in vitro varlığında, substrat proteinleri Aiolos ve İkaros, ubikütinasyon ve daha 
+sonra doğrudan sitotoksik ve immünomodülatör etkilere yol açan bozulma için hedeflenir. İn 
+vivo olarak, pomalidomid tedavisi, nükseden lenalidomid-refrakter multipl miyelomlu 
+hastalarda İkaros seviyelerinde azalmaya yol açm ıştır. 
+Klinik etkililik ve güvenlilik 
+ Pomalidomidin bortezomib ve deksametazon ile kombinasyon tedavisinde 
+Lenalidomid de dahil olmak üzere en az bir dizi tedavi alm ış ve son tedavide veya sonras ında 
+hastalık progresyonu göstermi ş daha önce tedavi edilen multipl miyelomlu eri şkin hastalarda 
+bortezomib ve dü şük doz deksametazon (Pom+Btz+DD-Deks) ile kombinasyon halinde 
+pomalidomidin etkilili ği ve güvenlili ği, Faz III çok merkezli, randomize, aç ık etiketli çal ışmada 
+(CC-4047-MM-007) bortezomib ve dü şük doz deksametazon (Btz+DD-Dks) ile 
+karşılaştırılmıştır. Çalışmaya toplam 559 hasta kat ılmıştır. 281 hasta Pom+Btz+DD-Deks 
+kolunda ve 278 hasta Btz+DD-Deks kolunda randomize edilmi ştir. Hastalar ın %54'ü erkektir 
+ve genel nüfusun medyan ya şı 68’dir (min: 27 – maks: 89 ya ş). Hastalar ın yaklaşık %70'i 
+lenalidomid tedavisine cevap vermemi ştir (Pom+Btz+DD-Deks'te %71,2, Btz+DD-Deks'te 
+%68,7). Hastalar ın yaklaşık %40'ı 1. relapstad ır ve hastalar ın yaklaşık %73'ü önceki tedavi 
+olarak bortezomib alm ıştır. 
+Pom+Btz+DD-deks kolundaki hastalara uygulanm ıştır. Her 21 günlük siklusun 1 ila 14. günlerinde 
+oral olarak 4 mg pomalidomid uygulanm ıştır. Her iki çal ışma kolundaki hastalara, 1 ila 8 sikluslar ı 
+için 21 günlük bir siklusun 1, 4, 8 ve 11. günlerinde ve 9 ve sonras ı sikluslar için 21 günlük bir 
+siklusun 1 ve 8. günlerinde bortezomib (1,3 mg/m2/doz) uygulanm ıştır. Her iki çal ışma kolundaki 
+hastalara 1 ila 8 aras ındaki sikluslar için 21 günlük bir siklusun 1, 2, 4, 5, 8, 9, 11 ve 12. günlerinde 
+ve 9. siklustan itibaren sonraki 21 günlük döngünün 1, 2, 8 ve 9 günlerinde dü şük doz 
+deksametazon (20 mg/gün [ ≤ 75 yaşında] veya 10 mg/gün [> 75 ya şında]) uygulanmıştır.  
+23 Toksisiteyi yönetmek için gerekti ğinde dozlar azalt ılmış ve tedavi geçici olarak kesilmi ş veya 
+durdurulmu ştur. (bkz. Bölüm 4.2). 
+Tedavi amaçl ı popülasyon (ITT) için birincil etkililik sonlan ım noktas ı, IMWG kriterlerine 
+dayalı olarak Ba ğımsız Değerlendirme Kararla ştırma Kurulunun (IRAC) de ğerlendirmesine 
+göre progresyonsuz sa ğkalım (Progression Free Survival - PFS)’d ır. Ortalama 15,9 ayl ık 
+takipten sonra, Pom+Btz+DD-deks kolunda medyan PFS süresi 11,20 ayd ır (%95 GA: 9,66; 
+13,73). Btz + DD-deks kolunda, medyan PFS süresi 7,1 ayd ır (%95 GA: 5,88; 8,48). 
+26 Ekim 2017 tarihli veri kesme tarihi kullan ılarak genel etkililik veri özeti Tablo 10’da 
+sunulmuştur. ITT popülasyonunda PFS için Kaplan-Meier e ğrisi Şekil 1’de gösterilmektedir. 
+Tablo 8- Genel etkililik özeti 
+  Pom+Btz+DD-Deks  
+(N = 281) Btz+DD-Deks  
+(N = 278) 
+PFS (ay)   
+Medyan a zaman (% 95 GA) b 11,20 (9,66; 13,73) 7,10 (5,88; 8,48) 
+HR c (% 95 GA), P-değerid  0,61 (0,49; 0,77); <0,0001 
+ORR, n (%) % 82,2 % 50 
+sCR 9 (3,2) 2 (0,7) 
+CR 35 (12,5) 9 (3,2) 
+VGPR 104 (37) 40 (14,4) 
+PR 83 (29,5) 88 (31,7) 
+OR (% 95 GA) e, P-değerif  5,02 (3,35; 7,52); <0,001 
+DoR (ay)   
+Medyan a zaman (% 95 GA) b 13,7 (10,94 ; 18,10) 10,94 (8,11 ; 14,78) 
+HR c (% 95 GA) 0,76 (0,56; 1,02) 
+Btz = bortezomib; GA = Güven aral ığı; CR = Tam yan ıt; DoR = Yan ıt süresi; HR = Tehlike 
+oranı; DD-Deks = dü şük doz deksametazon; OR = Olas ılık oranı; ORR = Genel yan ıt oranı; 
+PFS = progresyonsuz sa ğkalım; POM = pomalidomid; PR = K ısmi yanıt; sCR = Kati tam yan ıt 
+VGPR = Çok iyi k ısmi yanıt. 
+a Medyan Kaplan-Meier tahminine dayanmaktad ır. 
+b Medyan için % 95 GA.  
+c Cox orant ısal tehlike modeline dayanmaktad ır. 
+d P-değeri sınıflandırılmamış log sıra testine dayanmaktad ır. 
+e Pom+Btz+DD-Deks : Btz+DD-Deks için olas ılık oranı. 
+f P-değeri, yaş ile sınırlandırılmış (<=75’e kar şı >75), antimiyelom tedavi rejimlerinin önceki 
+sayısına (1’e kar şı >1), ve gözlemde beta-2 mikroglobulin (< 3,5 mg/L’ye kar şı ≥ 3,5 mg/L — 
+≤ 5,5 mg/L’ye kar şı> 5,5 mg/L) ile CMH testine ba ğlıdır. 
+Pom+Btz+DD-deks kolunda medyan tedavi süresi 8,8 ay (12 tedavi siklusu) ve Btz+DD-deks 
+kolunda 4,9 ayd ır (7 tedavi siklusu). 
+PFS avantaj ı, yalnızca bir önceki tedavi rejimini alan hastalarda daha belirgindir. Önceden bir 
+antimiyelom tedavisi alan hastalarda ortalama PFS süresi Pom+Btz+DD-deks kolunda 20,73 
+24 ay (% 95 GA: 15,11; 27,99) ve Btz+DD-deks kolunda 11,63 ayd ır (%95 GA: 7,52, 15,74). 
+Pom+Btz+DD-deks tedavisi ile %46 risk azalmas ı gözlendi (HR = 0,54; %95 GA: 0,36; 0,82). 
+Şekil 1. IMWG Kriterlerine Dayal ı olarak IRAC De ğerlendirmesi ile Progresyonsuz 
+Sağkalım (S ınıfland ırılmış Log S ıra Testi) (ITT Popülasyonu)  
+ 
+Veri kesim tarihi: 26 Ekim 2017 
+Genel sağkalım (OS) için 13 May ıs 2022 tarihli veri kesimi noktas ı kullanılarak (64,5 ayl ık 
+medyan takip süresi) final analize göre, Kaplan-Meier tahminleri ile medyan OS zaman ı 
+Pom+Btz+DDdeks kolu için 35,6 ay ve Btz +DDdeks kolu için 31,6 ayd ır (Genel olay oran ı 
+%70 ile birlikte HR = 0,94, %95 GA: -0,77; 1,15). Genel sa ğkalım (OS) analizi, al ınan müteakip 
+tedavileri hesaba katmak için ayarlanmam ıştır. 
+ Pomalidomidin deksametazon ile kombinasyon tedavisinde 
+Pomalidomidin deksametazon ile kombinasyonunun etkilili ği ve güvenlili ği, lenalidomid ve 
+bortezomib dahil olmak üzere, daha önce en az iki tedavi alm ış ve son tedavi alt ındayken 
+hastalık progresyonu gösteren, nüks ve dirençli multipl miyelomu olan, yeti şkin hastalarda 
+pomalidomid ve dü şük doz deksametazon tedavisinin (Pom + DD-Deks ) tek ba şına yüksek doz 
+deksametazon (YD-Deks) ile kar şılaştırıldığı çok merkezli, randomize, aç ık etiketli bir Faz III 
+çalışmada (CC-4047-MM-003) de ğerlendirilmi ştir. Çalışmaya toplam 455 hasta dahil 
+edilmiştir: bunlardan 302 hasta Pom + DD-Deks koluna ve 153 hasta YD-Deks koluna 
+alınmıştır. Hastalar ın çoğunluğu erkek (%59) ve beyazd ır (%79); genel popülasyon için medyan 
+yaş 64’tür (min, maks: 35, 87 ya ş). 
+Pom + DD-Deks kolundaki hastalara 28 günlük her siklusun 1 ila 21. günlerinde oral yolla 4 
+mg pomalidomid verilmi ştir. DD-Deks (40 mg) 28 günlük her bir siklusun 1, 8, 15 ve 22. 
+günlerinde günde bir defa uygulanm ıştır. YD-Deks kolu için, deksametazon (40 mg) 28 günlük 
+(her bir) siklusun 1 ila 4, 9 ila 12 ve 17 ila 20. günleri aras ında günde bir defa verilmi ştir. 75 
+yaş üstü hastalara, 20 mg deksametazon dozu ile tedaviye ba şlanmıştır. Tedavi, hastalarda 
+hastalık progresyonu gözlenene kadar devam ettirilmi ştir. 
+Birincil etkililik sonlan ım noktas ı Uluslararas ı Miyelom Çal ışma Grubu (International Myeloma 
+Working Group -IMWG) kriterlerine göre progresyonsuz sa ğkalım (Progression Free Survival - 
+PFS)’dır. Tedavi amaçl ı popülasyon (ITT) için, IMWG kriterlerine dayal ı olarak 
+25 
+Bağımsız Değerlendirme Kararla ştırma Kurulunun (IRAC) de ğerlendirmesinde medyan PFS 
+süresi Pom + DD-Deks kolunda 15,7 hafta (%95 GA: 13; 20,1); tahmin edilen 26 haftal ık 
+olaysız sağkalım oranı %35,99 (± %3,46) olmu ştur. YD-Deks kolunda medyan PFS süresi 8 
+hafta (%95 GA: 7; 9); tahmin edilen 26 haftal ık olaysız sağkalım oranı %12,15 (± %3,63) 
+olmuştur. 
+Progresyonsuz sa ğkalım çeşitli alt gruplarda incelenmi ştir: cinsiyet, ırk, Doğu Kooperatif 
+Onkoloji Grubu (ECOG) performans durumu, s ınıflara ayırma faktörleri (ya ş, hastalık 
+popülasyonu, daha önceki antimiyelom tedavileri [2, >2], seçilmi ş prognostik anlaml ılık 
+parametreleri (ba şlangıç beta-2 mikroglobülin düzeyi, ba şlangıç albümin düzeyleri, ba şlangıç 
+böbrek bozuklu ğu ve sitogenetik risk) ve daha önceki antimiyelom tedavilere maruziyet ve 
+direnç. De ğerlendirilen alt gruptan ba ğımsız olarak, PFS genel olarak her iki tedavi grubu için 
+ITT popülasyonda gözlenen ile tutarl ı bulunmuştur. 
+ITT popülasyonu için PFS Tablo 11’de özetlenmi ştir. ITT popülasyonunda PFS için Kaplan-
+Meier eğrisi Şekil 2’de gösterilmektedir. 
+Tablo 9: IMWG Kriterlerine Dayal ı olarak IRAC De ğerlendirmesi ile Progresyonsuz 
+Sağkalım (S ınıfland ırılmış Log S ıra Testi) (ITT Popülasyonu) 
+  Pom + DD-Deks  
+(N=302) YD-Deks 
+(N=153) 
+Progresyonsuz Sa ğkalım (PFS), N 302 (100) 153 (100) 
+Sansürlenmi ş, n (%) 138 (45,7) 50 (32,7) 
+Progresyon olan/Ölen, n (%) 164 (54,3) 103 (67,3) 
+Progresyonsuz Sa ğkalım Süresi (hafta) 
+Medyana  15,7 8 
+Çift yönlü %95 GAb  [13; 20,1] [7; 9] 
+Risk Oran ı (Pom + DD-Deks: YD-Deks) 
+Çift Yönlü %95 GAc  0<45 [0,35; 0,59] 
+Çift yönlü Log S ıra Testi P-değerid  <0,001 
+Not: GA=Güven aral ığı; IRAC=Ba ğımsız Değerlendirme Kararla ştırma Kurulu 
+a Medyan, Kaplan-Meier tahminine dayanmaktad ır. 
+b Medyan progresyonsuz sa ğkalım süresi için %95 güven aral ığı. 
+c Tedavi gruplar ı ile ilişkili tehlike fonksiyonlar ını karşılaştıran Cox orant ısal risk modeline dayal ı 
+olarak, ya ş (≤ 75 ila >75), hastal ık popülasyonu (lenalidomid ve bortezomibin her ikisine de dirençli 
+ya da her iki etken maddeye de dirençli olmayan), ve daha önceki antimiyelom tedavi say ısına (= 2 
+ile >2) göre s ınıflandırılmıştır. 
+d P-değeri, yukar ıdaki Cox modeli ile ayn ı sınıfta yer alan faktörler ile s ınıflandırılmış log sıra 
+testine dayanmaktad ır. 
+Veri kesim tarihi: 07 Eylül 2012 
+26 Şekil 2: IMWG Kriterleri ile IRAC Yan ıt De ğerlendirmesine Dayal ı Olarak 
+Progresyonsuz Sa ğkalım (S ınıfland ırılmış Log S ıra Testi) (ITT Popülasyonu)  
+Progresyonsuz sağkalım (hafta) 
+Veri kesim tarihi: 07 Eylül 2012 
+Genel sağkalım, çalışmanın temel ikincil sonlan ım noktasıdır. Pom + DD-Deks kullanan hastalar ın 
+toplam 226’s ı (%74,8) ve YD-Deks kullanan hastalar ın 95’i (%62,1) veri kesim tarihinde (07 Eylül 
+2012) ya şamını sürdürmektedir. Pom+DD-Deks kolu için Kaplan-Meier tahminlerinden elde 
+edilen medyan genel sa ğkalım süresine eri şilememiştir, ancak en az 48 hafta olmas ı beklenmektedir 
+ki, bu da %95 güven aral ığının alt sınırıdır. YD-Deks kolu için medyan genel sa ğkalım süresi 34 
+haftadır (%95 GA: 23,4; 39,9). 1 y ıl içinde olays ız sağ kalım oranı Pom + DD-Deks kolu için %52,6 
+(± %5,72) ve YD-Deks kolu için %28,4 (± %7,51)’dür. Genel sa ğkalımda görülen fark iki tedavi 
+kolu arasında istatistiksel olarak anlaml ıdır (p <0,001). 
+ITT popülasyonu için genel sa ğkalım Tablo 12’de özetlenmi ştir. ITT popülasyonunda genel 
+sağkalım için Kaplan-Meier e ğrisi Şekil 3’de gösterilmektedir. 
+PFS ve genel sa ğkalım sonlan ım noktalar ının sonuçlar ına dayal ı olarak, bu çal ışma için 
+oluşturulmuş olan Veri Takip Kurulu çal ışmanın tamamlanmas ını ve YD-Deks kolundaki 
+hastaların Pom + DD-Deks koluna aktar ılmasını önermiştir. 
+27  Hastaların oranı 
+Pom + DD-DEKS’e karşı YD-DEKS 
+Log sıra p-değeri =< 0,001 (çift yönlü) RO 
+(95%GA) 0.45 (0,35,0,59) 
+Olaylar: Pom + DD-DEKS=164/302 YD-   
+DEKS=103/153 YD-Deks 
+Pom + DD-Deks Tablo 10: Genel Sağkalım: ITT Popülasyonu 
+  
+İstatistikler Pom + DD-Deks  
+(N=302) YD-Deks  
+(N=153) 
+  N 302 (100) 153 (100) 
+Sansürlenmi ş n (%) 226 (74,8) 95 (62,1) 
+Ölen n (%) 76 (25,2) 58 (37,9) 
+Sağkalım Süresi 
+(hafta) Medyana  tahmin edilemez 34,0 
+  
+Çift yönlü %95 GAb  [48,1;tahmin  
+edilemez] [23,4; 39,9] 
+Risk Oran ı (Pom+DD-Deks :YD-Deks) 
+[Çift Yönlü %95 GAc] 0,53 [0,37; 0,74] 
+Log Sıra Testi Çift Yönlü P-De ğerid  <0,001 
+Not: GA=Güven aral ığı 
+a 
+Medyan, Kaplan-Meier tahminine dayanmaktad ır. 
+b 
+Medyan genel sa ğkalım süresi için %95 güven aral ığı 
+c 
+Tedavi gruplar ı ile ilişkili risk fonksiyonlar ını karşılaştıran Cox orant ısal risk modeline 
+dayalı olarak, 
+d 
+P-değeri sınıflandırılmamış log sıra testine dayanmaktad ır.  
+Veri kesim tarihi: 07 Eylül 2012 
+Şekil 3: Genel Sa ğkalım için Kaplan-Meier E ğrisi (ITT Popülasyonu)   
+Genel Sa ğkalım (hafta) 
+Veri kesim tarihi: 07 Eylül 2012  Hastların oranı 
+Pom + DD-Deks’e karşı YD-Deks Log Sıra p-değeri 
+≤ 0,001 (çift yönlü) 
+RO (%95 GA) 0,53 (0,37, 0,75) 
+KM medyan: Pom + DD-Deks = tahmin 
+edilemez [48,1, tahmin edilemez] 
+KM medyan: YD-Deks= 34 [23,4, 39] 
+Olaylar: Pom + DD-Deks = 75/284 YD-Deks= 56/139 YD-Deks Pom + DD -Deks  
+28  Pediyatrik popülasyon 
+Faz 1 tek kollu, aç ık etiketli, doz art ırma çalışmasında, pediyatrik hastalarda pomalidomidin 
+maksimum tolere edilen dozu (MTD) ve / veya önerilen Faz 2 dozu (RP2D), 28 günlük bir 
+döngünün 1. gününden 21. gününe kadar, oral yolla 2,6 mg / m2 / gün olarak belirlenmi ştir. 
+Tekrarlayan veya progresif yüksek dereceli glioma, medulloblastom, ependimoma veya merkezi 
+sinir sisteminde (CNS) birincil yerle şimli diffüz intrinsik pontin gliomas ı (DIPG) olan, 
+pomalidomid ile tedavi edilen, 4 ila 18 ya şları arasındaki 52 pediyatrik hastada yürütülen Faz 2 
+çok merkezli, aç ık etiketli, paralel grup çal ışmasında etkilili ği ispat edilememi ştir. 
+Faz 2 çal ışmasında, yüksek dereceli glioma grubundaki (N = 19) iki hasta, protokol taraf ından 
+tanımlanan bir yan ıta ulaşmış; bu hastalardan biri k ısmi bir yan ıt (PR) elde etmi ş ve diğer hasta 
+uzun süreli stabil durumda (SD) kalm ıştır, bu da objektif bir yan ıt (OR) ve %10,5'lik uzun süreli 
+stabil durum (SD) oran ıyla (%95GA: 1,3, 33,1) sonuçlanm ıştır. Ependimoma grubundaki (N = 9) 
+bir hasta uzun süreli bir stabil durum (SD) elde etmi ş ve bu da OR ve %11,1'lik uzun süreli stabil 
+durum (SD) oran ı (%95 CI: 0,3, 48,2) ile sonuçlanm ıştır. Diffüz intrinsik pontin glioma (DIPG) 
+grubundaki (N = 9) veya medulloblastoma grubundaki (N = 9) de ğerlendirilebilir hastalar ın 
+hiçbirinde do ğrulanmış OR veya uzun süreli stabil durum (SD) gözlenmemi ştir. Bu Faz 2 
+çalışmasında değerlendirilen 4 paralel grubun hiçbiri, nesnel yan ıt veya uzun süreli stabil durum 
+oranının birincil son noktas ını karşılamamıştır. 
+Pediyatrik hastalarda pomalidomidin genel güvenlilik profili, yeti şkinlerdeki bilinen güvenlilik 
+profili ile tutarl ıdır. Farmakokinetik (PK) parametreler, Faz 1 ve Faz 2 çal ışmalarının Entegre 
+PK Analizinde de ğerlendirilmi ş ve yetişkin hastalarda gözlemlenenlerden anlaml ı bir fark 
+olmadığı bulunmuştur (Bkz. Bölüm 5.2). 
+5.2. Farmakokinetik özellikler  
+Genel Özellikler 
+Emilim   
+Pomalidomid, maksimum plazma konsantrasyonuna (C maks) doz uygulamas ından sonraki 2 ila 
+3 saat içerisinde ula şacak şekilde, tek oral doz olarak uygulamay ı takiben en az %73 oran ında 
+emilir. Pomalidomidin sistemik maruziyeti (EAA) yakla şık olarak do ğrusal ve dozla orant ılı bir 
+şekilde artar. Çoklu dozlar ı takiben, EAA’da pomalidomid %27 ila %31 aras ı bir birikim 
+oranına sahiptir. 
+Yüksek ya ğlı ve yüksek kalorili ö ğünle birlikte uygulanmas ı ortalama plazma C maks’ını yaklaşık 
+%27’ye kadar azaltarak emilim h ızını yavaşlatır, ancak ortalama EAA’da %8’lik bir azalmayla 
+genel emilim miktar ı üzerinde minimal bir etkiye sahiptir. Pomalidomid yemeklerle birlikte veya 
+yemeklerden ayr ı olarak al ınabilir. 
+Dağılım   
+Pomalidomid kararl ı durumda 62 ve 138 L aras ında bir ortalama sanal da ğılım hacmine (Vd/F) 
+sahiptir. Pomalidomid, günde bir defa 2 mg dozunda 4 gün boyunca uyguland ıktan sonra, doz 
+sonrası 4. saatte (yakla şık olarak T maks) sağlıklı bireylerin semenine, plazma düzeyinin %67’si 
+kadar bir konsantrasyonda da ğılır. İn vitro pomalidomid enantiyomerlerinin insan plazmas ındaki 
+proteinlere ba ğlanma oran ı %12 ila %44 aras ında değişmektedir ve konsantrasyona ba ğımlı 
+değildir. 
+29 Biyotransformasyon   
+Pomalidomid, tek bir oral doz [14C]-pomalidomid (2 mg) uygulanm ış sağlıklı bireylerde in vivo 
+ortamda dola şımdaki majör bile şendir (yakla şık olarak plazma radyoaktivitesinin %70’i). Ana veya 
+plazma toplam radyoaktivitesine göre >%10 oran ında herhangi bir metabolit bulunmam ıştır. 
+Atılan radyoaktivitenin bask ın metabolik yollar ı, sonraki glukuronidasyon ile hidroksilasyon 
+veya hidrolizdir. İn vitro , CYP1A2 ve CYP3A4 pomalidomidin CYP-arac ılı hidroksilasyonunda 
+yer alan birincil enzimler olarak belirlenirken, CYP2C19 ve CYP2D6’n ın küçük ek katk ılarının 
+olduğu saptanm ıştır. Pomalidomid ayn ı zamanda in vitro bir P-glikoprotein substrat ıdır. 
+Pomalidomidin güçlü CYP3A4/5 ve P-gp inhibitörü ketokonazol ile veya güçlü CYP3A4/5 
+indükleyicisi karbamazepin ile e şzamanlı uygulanmas ının, pomalidomid maruziyeti üzerine 
+klinik olarak anlaml ı bir etkisi olmam ıştır. Güçlü CYP1A2 inhibitörü fluvoksaminin ketokonazol 
+varlığında pomalidomid ile birlikte uygulanmas ı pomalidomid ile ketokonazole k ıyasla 
+pomalidomide ortalama maruziyeti %90 güven aral ığı ile [%91 ila %124] %107’ye kadar 
+artırmıştır. Tek ba şına bir CYP1A2 inhibitörünün metabolizma de ğişikliklerine etkisini 
+değerlendirmek üzere yap ılan ikinci bir çal ışmada, pomalidomid ile tek ba şına fluvoksaminin 
+eşzamanlı olarak uygulanmas ı pomalidomide ortalama maruziyeti, tek ba şına pomalidomide 
+kıyasla %90 güven aral ığı ile [%98 ila %157) %125 art ırmıştır. Güçlü CYP1A2 inhibitörleri 
+(örn., siprofloksasin, enoksasin ve fluvoksamin) pomalidomid ile eşzamanlı olarak uygulanırsa, 
+pomalidomid dozu %50 azalt ılmalıdır. CYP1A2 izoformunun tütün ile indüklendi ği göz önünde 
+bulundurularak, sigara içenlere pomalidomid uygulamas ının, pomalidomidin sigara 
+içmeyenlerdeki maruziyeti ile kar şılaştırıldığında maruziyet ile ilgili olarak klinik etkisi 
+olmamıştır. 
+İn vitro verilere dayal ı olarak pomalidomid sitokrom P-450 izoenzimlerinin bir inhibitörü veya 
+indükleyicisi de ğildir ve çal ışılmış herhangi bir ilaç ta şıyıcısını inhibe etmemi ştir. Pomalidomid 
+bu yolaklar ın substratlar ı ile eşzamanlı uyguland ığında, klinik olarak anlaml ı etkileşmeleri 
+beklenmez.  
+Eliminasyon   
+Pomalidomid, sa ğlıklı gönüllülerde yakla şık 9,5 saatlik ve multipl miyelomu olan hastalarda 
+yaklaşık 7,5 saatlik medyan plazma yar ılanma ömrü ile elimine edilir. Pomalidomid, yakla şık 
+7-10 L/s’lik ortalama toplam vücut klerensine (CL/F) sahiptir. 
+Sağlıklı bireylere tek doz oral [14C]-pomalidomid (2 mg) uygulanmas ını takiben radyoaktif 
+dozun %73 ve %15’i s ırasıyla idrar ve feçes ile at ılırken, uygulanan radyoaktif karbon dozunun 
+%2 ve %8’i idrar ve feçeste pomalidomid şeklinde at ılmıştır. 
+Pomalidomid at ılmadan önce büyük ölçüde metabolize edilir, ortaya ç ıkan metabolitler ba şlıca 
+idrarla at ılır. İdrardaki bask ın 3 metabolit (hidroliz veya hidroksilasyon ve ard ından 
+glukuronidasyon ile olu şan), idrara geçen dozun s ırasıyla yakla şık %23, %17 ve %12’sini 
+oluşturur. 
+CYP-bağımlı metabolitler, toplam at ılan radyoaktivitenin yakla şık %43’ünü olu ştururken, 
+CYP-bağımlı-olmayan hidrolitik metabolitler %25’ini ve de ğişmeden at ılan pomalidomid de 
+%10’unu oluşturur (%2 idrarla ve %8 feçes ile). 
+Popülasyon Farmakokinetikleri  
+İki kompartmanl ı bir modelin kullan ıldığı popülasyon farmakokinetik analizine göre, sa ğlıklı 
+gönüllüler ve MM hastalar ı benzer görünür klerense (CL/F) ve sanal santral da ğılım hacmine 
+(V2/F) sahiptir. Pomalidomid periferik dokularda sa ğlıklı gönüllülerdekine göre 3,7 kat daha  
+30 yüksek sanal periferik da ğılım klerensi (Q/F) ve 8 kat daha yüksek sanal periferik da ğılım 
+hacmi (V 3/F) olacak şekilde tümörler taraf ından daha yüksek oranda al ınmıştır. 
+Hastalardaki karakteristik özellikler 
+Böbrek yetmezliği  
+Bu popülasyonda yap ılan farmakokinetik analizler böbrek yetmezli ği olan hastalarda (kreatinin 
+klerensi veya hesaplanm ış glomerüler filtrasyon h ızı [eGFR] ile tan ımlanan) pomalidomid 
+farmakokinetik parametrelerinin normal böbrek fonksiyonuna (CrCl ≥60 mL/dakika) sahip 
+hastalarla önemli düzeyde farkl ılık göstermedi ği görülmü ştür. Pomalidomide ortalama normalize 
+EAA maruziyeti, normal böbrek fonksiyonuna sahip hastalara k ıyasla orta şiddette böbrek 
+yetmezliği olan hastalarda (eGFR ≥30 ila ≤45 mL/dakika/1,73 m2) %90 güven aral ığı ile [%77,4 
+ila %120,6] %98,2’dir. Pomalidomide ortalama normalize EAA maruziyeti normal böbrek 
+fonksiyonuna sahip hastalara k ıyasla diyaliz gerektirmeyen ciddi böbrek yetmezli ği olan 
+hastalarda (CrCl <30 mL/dakika veya eGFR <30 mL/dakika/1,73 m2) %90 güven aral ığı ile 
+[%79,7 ila %127] %100,2’dir. Pomalidomide ortalama normalize EAA maruziyeti normal böbrek 
+fonksiyonuna sahip hastalara k ıyasla diyaliz gerektiren ciddi böbrek yetmezli ği olan hastalarda 
+(CrCl <30 mL/dakika, diyaliz gerektiren) %90 güven aral ığı ile [%7,5 ila %70] %35,8 artm ıştır. 
+Bu böbrek yetmezli ği gruplarının her birinde pomalidomide maruziyette ortalama de ğişiklikler 
+doz ayarlamas ı gerektirecek bir boyutta de ğildir. 
+Karaciğer yetmezliği  
+Farmakokinetik parametreler sa ğlıklı gönüllülere k ıyasla karaci ğer yetmezli ği olan hastalarda 
+(Child-Pugh kriterleri ile tan ımlanan) çok hafif düzeyde de ğişiklik göstermi ştir. Pomalidomide 
+ortalama maruziyet sa ğlıklı gönüllülere k ıyasla hafif düzeyde karaci ğer yetmezli ği olan hastalarda 
+%90 güven aral ığı ile [%9 ila %110] %51 artm ıştır. Pomalidomide ortalama maruziyet sa ğlıklı 
+gönüllülere k ıyasla orta düzeyde karaci ğer yetmezli ği olan hastalarda %90 güven aral ığı ile [%13 
+ila %119] %58 artm ıştır. Pomalidomide maruziyet sa ğlıklı gönüllülere k ıyasla ağır karaciğer 
+yetmezliği olan hastalarda %90 güven aral ığı ile [%24 ila %138] %72 artm ıştır. Bu yetmezlik 
+gruplarının her birinde pomalidomide maruziyetteki ortalama art ışlar doz şeması veya doz 
+ayarlamas ı gerektirecek boyutta de ğildir (bkz. Bölüm 4.2). 
+Pediyatrik popülasyon  
+Nükseden veya progresif primer beyin tümörü olan çocuklarda ve genç erişkinlerde tek bir oral 
+pomalidomid dozunu takiben, ortalama T maks değeri dozdan 2 ila 4 saat sonras ıdır ve 74,8 
+(%59,4), 79,2 (%51,7) ve 104 (%18,3) ng/mL geometrik ortalama C maks (%CV) de ğerleri 
+sırasıyla 1,9, 2,6 ve 3,4 mg/m2 doz seviyelerine kar şılık gelmektedir. EAA 0-24 ve EAA 0-inf, düşük 
+2 dozda yakla şık 700 ila 800 saat·ng/mL aral ığında ve yüksek dozda yakla şık 1200 saat·ng/mL 
+aralığında toplam maruziyetle benzer e ğilimleri izlemi ştir. Tahmini yar ı ömürleri, yakla şık 5 ila 
+7 saat aral ığındadır. 
+MTD'de ya şa ve steroid kullan ımına göre tabakala şmaya atfedilebilecek net bir e ğilim yoktur. 
+Genel olarak veriler, EAA'n ın pomalidomid dozundaki art ışla neredeyse orant ılı olarak artt ığını, 
+Cmaks'taki artışın ise genellikle orant ılı olandan daha az oldu ğunu göstermektedir. 
+1,9 mg/m2/gün ila 3,4 mg/m2/gün oral uygulama doz seviyelerini takiben pomalidomidin 
+farmakokineti ği, tekrarlayan veya progresif pediyatrik beyin tümörlerinde bir Faz 1 ve Faz 2 
+çalışmasının entegre bir analizinde 4 ila 20 ya ş arası 70 hastada belirlenmi ştir. Pomalidomid 
+konsantrasyon-zaman profilleri, birinci dereceden absorpsiyonlu ve eliminasyonlu tek bölmeli 
+bir PK modeli ile uygun bir şekilde tan ımlanmıştır. Pomalidomid, orta derecede de ğişkenlikle 
+doğrusal ve zamanla de ğişmeyen bir farmakokinetik (PK) sergilemi ştir. CL/F, Vc/F, Ka, 
+pomalidomidin gecikme süresinin tipik de ğerleri sırasıyla 3,94 L/saat, 43 L, 1,45 saat-1 ve 
+31 0,454 saattir. Pomalidomidin terminal eliminasyon yar ı ömrü 7,33 saattir. Vücut yüzey alan ı 
+(BSA) d ışında, yaş ve cinsiyet dahil olmak üzere test edilen ortak de ğişkenlerin hiçbiri 
+pomalidomid farmakokineti ği (PK) üzerinde etkiye sahip de ğildir. BSA, pomalidomid CL/F ve 
+Vc/F'nin istatistiksel olarak anlaml ı bir ortak de ğişkeni olarak tan ımlanmış olmasına rağmen, 
+BSA'nın maruziyet parametreleri üzerindeki etkisi klinik olarak anlaml ı kabul edilmemi ştir. 
+Genel olarak, çocuklar ve yeti şkin hastalar aras ında pomalidomid farmakokineti ği (PK) 
+açısından önemli bir fark yoktur. 
+Geriyatrik hastalarda:  
+Sağlıklı gönüllülerde ve multipl miyelomlu hastalarda yap ılan farmakokinetik analizlerde, hasta 
+yaşının (19-83 ya ş) pomalidomidin oral klerensi üzerinde anlaml ı bir etkisi olmad ığı 
+gözlenmi ştir. Klinik çal ışmalarda, pomalidomid kullanan ya şlı (>65 yaş) hastalarda doz 
+ayarlamas ı gerekmemi ştir (bkz. Bölüm 4.2). 
+5.3. Klinik öncesi güvenlilik verileri 
+Tekrarlanan doz toksisite çal ışmaları  
+Sıçanlarda, pomalidomid 50, 250 ve 1000 mg/kg/gün dozunda 6 ay süreyle kronik olarak 
+uyguland ığında iyi tolere edilmi ştir. 1000 mg/kg/güne kadar herhangi bir advers bulgu tespit 
+edilmemi ştir (4 mg klinik doza göre 175 kat maruziyet). 
+Pomalidomid, maymunlarda, 9 ay kadar süreyle tekrarlanan doz çal ışmalarında incelenmi ştir. Bu 
+çalışmalarda maymunlar, pomalidomidin etkilerine s ıçanlardan daha yüksek duyarl ılık göstermi ştir. 
+Maymunlarda gözlenen ba şlıca toksisiteler, hematopoietik/lenforetiküler sistemle 
+ilişkilendirilmi ştir. Maymunlarda 0,05, 0,1 ve 1 mg/kg/gün dozlar ı ile yapılan 9 aylık çalışmada, 1 
+mg/kg/gün dozunda 6 hayvanda morbidite ve erken ötenazi bildirilmi ştir ve bu pomalidomide 
+yüksek maruziyetteki (4 mg klinik doza göre 15 kat maruziyet oran ı) immünosupresif etkilere 
+(stafilokok enfeksiyonu, azalm ış periferik kan lenfositleri, kal ın bağırsakta kronik enflamasyon, 
+histolojik lenfoid azalmas ı ve kemik ili ğinde hiposellülerite) ba ğlanmıştır. 4 maymunun erken 
+ötenazisine neden olan bu immünosüpresif etkiler kötü sa ğlık koşulları (sulu dışkı, iştahsızlık, besin 
+alımının azalmas ı ve kilo kayb ı) yüzündendir; bu hayvanlar ın histopatolojik incelemeleri, kal ın 
+bağırsaklarda kronik enflamasyon ve ince ba ğırsaklarda villöz atrofi oldu ğunu göstermi ştir. 
+Stafilokok enfeksiyonu 4 maymunda görülmü ştür; bu hayvanlardan 3’ü antibiyotik tedavisine yan ıt 
+vermiştir ve 1 hayvan tedavi edilmeden ölmü ştür. Ayrıca, akut miyelojenöz lösemi ile uyumlu 
+bulgular bir maymunun ötenazisine yol açm ıştır; bu hayvanda gözlenen klinik gözlemler ve klinik 
+patoloji ve/veya kemik ili ği değişiklikleri immünosupresyon ile tutarl ı olmuştur. ALP ve GGT 
+düzeyindeki yükselmeler ile ili şkili minimum veya hafif safra kanal ı proliferasyonu da 1 mg/kg/gün 
+dozunda gözlenmi ştir. İyileşen hayvanlar de ğerlendirildi ğinde, 1 mg/kg/gün grubundaki 1 hayvanda 
+görülen intrahepatik safra kanallar ının proliferasyonu haricindeki, tüm tedaviyle ili şkili bulgular ın 
+dozun kesilmesinden 8 hafta sonras ında geriye döndü ğü görülmü ştür. Advers Etkinin Gözlenmedi ği 
+En Düşük Doz 0,1 mg/kg/gün olmu ştur (4 mg klinik doza göre 0,5 kat maruziyet oran ı). 
+Genotoksisite/karsinojenisite   
+Pomalidomid, bakteri ve memeli mutasyon deneylerinde, mutajenik olarak bildirilmemi ştir ve 
+insan periferik kan lenfositlerinde kromozomal sapmalar ı veya 2000 mg/kg/güne kadar olan 
+dozların uyguland ığı sıçanların kemik iliklerinde polikromatik eritrositlerde mikroçekirdek 
+oluşmasını indüklememi ştir. Karsinojenisite çal ışmaları gerçekleştirilmemi ştir. 
+Fertilite ve erken embriyonik geli şim  
+Sıçanlardaki fertilite ve erken embriyonik geli şim çalışmasında, pomalidomid erkek ve di şi 
+32 sıçanlara 25, 250 ve 1000 mg/kg/gün dozlar ında uygulanm ıştır. Gebeliğin 13. günündeki uterus 
+muayenesinde ortalama canl ı embriyo say ısında azalma ve tüm doz düzeylerinde implantasyon 
+sonrası canlı embriyo kay ıplarında artma görülmü ştür. Bu nedenle, bu gözlenen etkiler için 
+Advers Etkinin Gözlenmedi ği En Düşük Doz <25 mg/kg/gündür (Bu test edilen en dü şük dozda 
+EAA 24s 39,960 ng.s/mL (nanogram*saat/mililitre) ve maruziyet oran ı 4 mg klinik doza göre 99 
+kattır). Bu çal ışmada tedavi edilen erkekler, tedavi edilmemi ş dişilerle çiftle ştirildiklerinde, tüm 
+uterus parametreleri kontroller ile benzer olmu ştur. Bu sonuçlara dayal ı olarak, gözlenen etkiler 
+dişilerin tedavi edilmelerine ba ğlanmıştır. 
+Embriyo-fetal geli şim  
+Pomalidomidin, s ıçanlar ve tav şanlara majör organogenez s ırasında uyguland ığında teratojenik 
+olduğu bulunmu ştur. Sıçan embriyofetal geli şim toksisite çal ışmasında, idrar torbas ının yokluğu, 
+tiroit bezinin yoklu ğu ve lumbal ve torasik vertebral unsurlar ın (merkezi ve/veya nöral kemerler) 
+birleşmesi ve yanl ış dizilmesi şeklindeki malformasyonlar tüm doz düzeylerinde (25, 250 ve 1000 
+mg/kg/gün) gözlenmi ştir. 
+Bu çalışmada herhangi bir maternal toksisite gözlenmemi ştir. Bu nedenle, maternal Advers 
+Etkinin Gözlenmedi ği En Düşük Doz 1000 mg/kg/gün ve geli şimsel toksisite için Advers 
+Etkinin Gözlenmedi ği En Düşük Doz <25 mg/kg/gündür (EAA 24s Gebeliğin 17. gününde test 
+edilen bu en dü şük dozda 34,340 ng.s/mL ve maruziyet oran ı 4 mg klinik doza göre 85 katt ır). 
+Pomalidomid, tav şanlara 10 ila 250 mg/kg aras ında değişen dozlarla uyguland ığında, embriyo-
+fetal malformasyonlar meydana getirmi ştir. Tüm dozlarda özellikle 250 mg/kg/gün dozunda 
+kardiyak anomalilerde artma görülmü ştür. 100 ve 250 mg/kg/gün dozlar ında, implantasyon 
+sonrası kayıplarda hafif art ışlar ve fetal vücut a ğırlığında hafif azalmalar meydana gelmi ştir. 
+250 mg/kg/gün dozunda, fetal malformasyonlar ekstremite anomalilerini (bükük ve/veya 
+dönmüş ön- ve/veya arka-bacaklar, eklenmemi ş veya eksik parmaklar) ve e şlik eden iskelet 
+malformasyonlar ını (kemikleşmemiş metakarpal, yanl ış dizilmiş falanks ve metakarpal, eksik 
+parmak, kemikle şmemiş falanks ve k ısa kemikle şmemiş veya bükülmü ş tibia); beyinde orta 
+derecede lateral ventrikül geni şlemesini; sa ğ subklavyen arterin anormal yerle şmesini; 
+akciğerlerde orta lobun olmamas ını; düşük-yerleşimli böbre ği; değişmiş karaciğer 
+morfolojisini; eksik veya kemikle şmemiş pelvisi; fazladan torasik kaburgalar için artm ış bir 
+ortalamay ı ve kemikle şmiş tarsallar için azalm ış bir ortalamay ı içermektedir. 100 ve 250 
+mg/kg/gün dozlar ında maternal vücut kilo al ımında hafif azalma, trigliseridlerde belirgin 
+azalma ve mutlak ve göreceli dalak a ğırlıklarında belirgin azalma gözlenmi ştir. Maternal 
+Advers Etkinin Gözlenmedi ği En Düşük Doz 10 mg/kg/gün ve geli şimsel Advers Etkinin 
+Gözlenmedi ği En Düşük Doz <10 mg/kg/gündür (EAA 24s, Gebeliğin 19. gününde bu test edilen 
+en düşük dozda 418 ng.s/mL olmu ştur ve bu da 4 mg klinik dozdan elde edilen ile benzerdir). 
+6. FARMASÖTİK ÖZELLİKLER  
+6.1. Yardımcı maddelerin listesi 
+Mannitol (E421) 
+Prejelatinize ni şasta 
+Sodyum stearil fumarat 
+Jelatin (sığırdan elde edilmi ştir) 
+Titanyum dioksit (E171) 
+İndigo karmin (E132)  
+Sarı demir oksit (E172) 
+Eritrosin (E127) 
+Beyaz mürekkep [ Şellak, Titanyum dioksit (E171), Simetikon, Propilen glikol (E1520) ve 
+33 Amonyum hidroksit (E527)] 
+6.2. Geçimsizlikler 
+Yeterli veri yoktur. 
+6.3. Raf ömrü 
+48 ay 
+6.4. Saklamaya yönelik özel tedbirler 
+25°C’nin alt ındaki oda s ıcaklığında saklay ınız. 
+6.5. Ambalajın niteliği ve içeriği 
+21 kapsül içeren ambalajda kapsüller Polivinil klorür (PVC)/poliklorotrifloroetilen (PCTFE) 
+blisterlerde, bast ırarak açılan alüminyum folyo içerisinde paketlenmi ştir. 
+6.6. Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler 
+Kapsüller aç ılmamalı veya ezilmemelidir. Pomalidomid tozu cilt ile temas ederse, cilt hemen 
+ve iyice sabun ve su ile y ıkanmalıdır. Pomalidomid mukoz membranlarla temas ederse bol su 
+ile yıkanmalıdır. 
+Sağlık uzmanlar ı ve bakıcılar, blister veya kapsülü tutarken tek kullan ımlık eldivenler giymelidir. 
+Eldivenler cildin maruz kalmas ını önlemek için i şi bittikten sonra dikkatlice ç ıkarılmalı, 
+sızdırmaz plastik polietilen torbaya konulmal ı ve bölgesel gerekliliklere uygun olarak at ılmalıdır. 
+Daha sonra eller su ve sabunla iyice y ıkanmalıdır. Hamile olan veya hamile olabilece ğinden 
+şüphelenen kad ınlar, blister veya kapsülü tutmamal ıdır (bkz. Bölüm 4.4). 
+Kullanılmamış olan ürünler ya da at ık materyaller “T ıbbi Atıkların Kontrolü Yönetmeli ği” ve 
+“Ambalaj At ıklarının Kontrolü Yönetmelik”lerine uygun olarak imha edilmelidir. 
+7. RUHSAT SAHİBİ 
+Bristol-Myers Squibb İlaçları Inc. İstanbul Şubesi 
+Sarıyer – İstanbul 
+Tel: 0 212 335 8900 
+Fax: 0 212 286 2496 - 97 
+e-mail:  ruhsat@bmsilac.com.t r 
+8. RUHSAT NUMARASI  
+2024/449  
+9. İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ 
+İlk ruhsat tarihi: 08.11.2024  
+Ruhsat yenileme tarihi: 
+10. KÜB YENİLENME TARİHİ  
+ 
+34 

@@ -1,0 +1,1559 @@
+1 
+ KISA ÜRÜN BİLGİSİ 
+▼Bu ilaç ek izlemeye tabidir. Bu üçgen yeni güvenlilik bilgisinin hızlı olarak belirlenmesini 
+sağlayacaktır. Sağlık mesleği mensuplarının şüpheli advers reaksiyonları TÜFAM’a 
+bildirmeleri beklenmektedir. Bakınız Bölüm 4.8 Advers reaksiyonlar nasıl raporlanır? 
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI 
+JAKAVI 15 mg Tablet 
+2. KALİTATİF VE KANTİTATİF BİLEŞİM 
+Etkin madde:   
+Ruksolitinib fosfat              19,8 mg (15 mg ruksolitinib serbest bazına karşılık gelir) 
+Yardımcı maddeler :  
+Laktoz monohidrat (sığır kaynaklı)    214,35 mg 
+Yardımcı maddeler için bölüm 6.1’e bakınız. 
+3. FARMASÖTİK FORM 
+Bir yüzünde “NVR” ve diğer yüzünde “L15” yazan, ovalimsi ve eğik kenarlı, beyaz veya 
+beyaza yakın tabletler 
+4. KLİNİK ÖZELLİKLER 
+4.1 Terapötik endikasyonlar 
+Miyelofibrozis (MF): 
+ JAKAVI, en az bir seri tedaviye yanıtsız, DIPSS plus skoru orta/yüksek olup, kemik 
+iliği nakline uygun olmayan primer miyelofibrozis, post polistemik miyelofibrozis 
+veya esansiyel trombositemi sonrası ikincil miyelofibrozis tanılı hastalarda 
+splenomegaliye bağlı semptomların tedavisinde endikedir. 
+Polisitemi vera (PV): 
+1. En az 2 g/gün veya hastanın tolere edebileceği maksimum dozda hidroksiüre kullanan 
+polistemi vera tanılı hastalarda en az 3 aylık tedaviye rağmen 
+a. Hematokriti <%45 tutmak için ayda 1’den fazla flebotomi ihtiyacının devam etmesi 
+veya 
+b. Trombosit sayısının >400000/mm3, beyaz küre sayısının >10000/mm3 olması veya  
+c. Dalak boyutlarında ultrasonografi ile küçülme saptanmaması veya 
+d. Yeni tromboz gelişmesi 
+2. Tam veya kısmi yanıt için gerekli en düşük hidroksiüre dozunda, mutlak nötrofil sayısı 
+<1000/mm3 , ya da trombosit sayısı <100000/mm3 ya da hemoglobin <10g/dl olması 
+3. Hidroksiüre ilişkili bacak ülseri, kontrol edilemeyen mukokutanöz belirtiler ortaya çıkması 
+halinde 
+Sayılan durumların en az birini karşılaması halinde kullanımı uygundur.  
+Graft versus Host hastalığı (GvHD): 2 
+ JAKAVI, kortikosteroidler veya diğer sistemik tedavilere yetersiz yanıt veren, akut Graft 
+versus Host hastalığı (aGvHD) veya kronik Graft versus Host hastalığı (kGvHD) olan 12 yaş 
+ve üzerindeki hastaların tedavisinde endikedir (bkz. Bölüm 5.1). 
+4.2 Pozoloji ve uygulama şekli 
+Anti-kanser ilaçların uygulanmasında deneyimli hekimler tarafından tedavi yapılmalıdır. 
+JAKAVI ile tedaviye başlanmadan önce beyaz küre sayısı dahil tam kan sayımı 
+gerçekleştirilmelidir. 
+Beyaz küre sayısı dahil, tam kan sayımları, JAKAVI dozları stabilize olana kadar 2 ila 4 
+haftada bir, daha sonra klinik durumun gerektirdiği şekilde izlenmelidir (bkz. Bölüm 4.4). 
+Pozoloji: 
+Başlangıç dozu: 
+Ruksolitinibin MF’de önerilen başlangıç dozu, trombosit sayılarına göre Tablo 1’de 
+verilmektedir: 
+Tablo 1 Miyelofibrozis’te başlangıç dozu 
+Trombosit sayımı Başlangıç dozu 
+200.000/mm3’ten büyük Günde iki kez ağız yoluyla 20 mg 
+100.000 ile 200.000/mm3 arasında Günde iki kez ağız yoluyla 15 mg 
+75.000 ile 100.000/mm3 arasında Günde iki kez ağız yoluyla 10 mg 
+50.000 ile 75.000/mm3 arasında Günde iki kez ağız yoluyla 5 mg 
+Ruksolitinibin PV’de önerilen başlangıç dozu günde iki kez ağız yoluyla 10 mg’dır. 
+Akut ve kronik Graft versus Host hastalığında (GvHD) önerilen JAKAVI başlangıç dozu, 
+günde iki kez oral yolla verilen 10 mg’dır. JAKAVI, kortikosteroidlerin ve/veya kalsinörin 
+inhibitörlerinin (CNI’ler) sürekli kullanımına eklenebilir. 
+Doz düzenlemeleri: 
+Dozlar, güvenlilik ve etkililik esas alınarak titre edilebilir.  
+Miyelofibroz ve polistemi vera 
+Eğer etkililik yetersiz görülürse ve kan sayımı değerleri yeterli ise; dozlar, günde iki kere en 
+fazla 5 mg’a kadar arttırılabilir. Maksimum doz günde iki kere 25 mg’ı geçmemelidir.  
+Başlangıç dozu, tedavinin ilk 4 haftasında ve sonrasında 2 haftada birden daha sık aralıklarla 
+arttırılmamalıdır. 
+50.000/mm3’ten düşük trombosit sayımları ya da 500/mm3’ten düşük mutlak nötrofil 
+sayımları durumlarında tedaviye ara verilmelidir. PV’de, hemoglobin düzeyi 8 g/dL’nin altına 
+düştüğünde tedaviye ara verilmelidir. Kan değerleri bu düzeylerin üzerine geri döndüğünde 
+tedaviye günde iki kez 5 mg ile tekrar başlanabilir ve beyaz küre sayısı dahil, tam kan 
+sayımlarının dikkatli izlemi esas alınarak aşamalı olarak artırılabilir.  
+Trombositopeni için doz kesintilerini önlemek amacıyla, Tablo 2'de özetlendiği gibi tedavi 
+sırasında trombosit sayısı azalırsa, doz azaltımı düşünülmelidir. 3 
+ Tablo 2 Miyelofibroz hastalarında trombositopeni için doz önerileri 
+ Trombosit azalması esnasındaki doz 
+ Günde iki 
+kez 25 mg Günde iki 
+kez 20 mg Günde iki 
+kez 15 mg Günde iki 
+kez 10 mg Günde iki 
+kez 5 mg 
+Trombosit 
+sayısı Yeni doz 
+100.000 ile 
+125.000/ mm3 
+arası Günde iki 
+kez 20 mg Günde iki 
+kez 15 mg Değişiklik 
+yok Değişiklik 
+yok Değişiklik 
+yok 
+75.000 ile 
+100.000/ mm3 
+arası Günde iki 
+kez 10 mg Günde iki 
+kez 10 mg Günde iki 
+kez 10 mg Değişiklik 
+yok Değişiklik 
+yok 
+50.000 ile 
+75.000/mm3 
+arası Günde iki 
+kez 5 mg Günde iki 
+kez 5 mg Günde iki 
+kez 5 mg Günde iki 
+kez 5 mg Değişiklik 
+yok 
+50.000/mm3’ten 
+az Ara 
+verilmeli Ara 
+verilmeli Ara verilmeli  Ara verilmeli  Ara verilmeli  
+PV’de hemoglobin düzeyi 12 g/dL’nin altına düştüğünde de dozun azaltılması 
+düşünülmelidir, 10 g/dL’nin altına düştüğünde ise dozun azaltılması önerilir.  
+Graft versus Host hastalığı 
+Büyüme faktörleri, anti-enfektif tedaviler ve transfüzyonlar dahil olmak üzere standart 
+destekleyici tedaviden sonra trombositopeni, nötropeni veya total bilirubin yüksekliği olan 
+GvHD hastalarında dozun azaltılması ve tedavinin geçici olarak kesilmesi gerekebilir. Bir doz 
+düzeyinde azaltma adımı önerilir (günde iki kez 10 mg’dan günde iki kez 5 mg’a veya günde 
+iki kez 5 mg’dan günde bir kez 5 mg’a). Günde tek doz 5 mg JAKAVI’yi tolere edemeyen 
+hastalarda tedaviye ara verilmelidir. Ayrıntılı doz önerileri Tablo 3’te verilmiştir. 
+ 
+Tablo 3  Trombositopeni, nötropeni veya total bilirubin yüksekliği olan GvHD 
+hastaları için ruksolitinib tedavisi sırasında doz önerileri 
+Laboratuvar parametresi Doz önerisi 
+Trombosit sayısı <20.000/mm3 JAKAVI’yi bir doz seviyesinde azaltınız. Yedi gün 
+içinde trombosit sayısı ≥20.000/mm3 olursa, doz 
+başlangıç doz düzeyine yükseltilebilir; aksi takdirde 
+düşük dozdan devam ediniz.  
+Trombosit sayısı <15.000/mm3 Trombosit sayısı ≥20.000/mm3 olana kadar 
+JAKAVI’yi durdurunuz, ardından bir düşük doz 
+seviyesinde n tedaviye  devam ediniz.  
+Mutlak nötrofil sayısı (ANC) 
+≥500/mm3 ile <750/mm3 JAKAVI’yi bir doz seviyesinde azaltınız.Mutlak 
+nötrofil sayısı (ANC) >1.000/mm3 ise başlangıç doz 
+seviyesinde devam ediniz.  
+Mutlak nötrofil sayısı <500/mm3 Mutlak nötrofil sayısı (ANC)>500/mm3 olana kadar 
+JAKAVI’yi durdurunuz, ardından bir düşük doz 4 
+ seviyesinden tedaviye devam ediniz. Mutlak nötrofil 
+sayısı (ANC) >1.000/mm3 ise, dozlamaya başlangıç 
+doz seviyesinde devam edilebilir.  
+GvHD’nin neden olmadığı toplam 
+bilirubin yüksekliği (karaciğer 
+GvHD yoksa) Normalin üst sınırının (ULN) >3.0 ila 5.0 katı: 
+ULN’nin ≤3.0 katı olana kadar JAKAVI’ye bir düşük 
+doz seviyesinde devam ediniz.  
+Normalin üst sınırının (ULN)>5.0 ila 10.0 katı: 
+Toplam bilirubin ≤3.0 x ULN olana kadar 
+JAKAVI’yi 14 güne kadar durdurunuz. Toplam 
+bilirubin ≤3.0 x ULN ise dozlamaya mevcut dozda 
+devam edilebilir. 14 gün sonra ≤3.0 x ULN değilse, 
+bir düşük doz seviyesinde  devam ediniz.  
+Normalin üst sınırının (ULN) >10.0 katı: Toplam 
+bilirubin ULN’nin ≤3.0 katı olana kadar JAKAVI’yi 
+durdurunuz, ardından bir düşük doz seviyesinde 
+devam ediniz.  
+GvHD’nin (karaciğer GvHD) 
+neden olduğu toplam bilirubin 
+yüksekliği  Normalin üst sınırının (ULN)>3.0 katı: Toplam 
+bilirubin ULN’nin ≤ 3.0 katı olana kadar JAKAVI’ye 
+bir düşük doz seviyesinde  devam ediniz.  
+Eşzamanlı güçlü CYP3A4 inhibitörleri veya flukonazol ile doz ayarlaması: 
+Ruksolitinib, güçlü CYP3A4 inhibitörleri veya hem CYP2C9 ve hem de CYP3A4 
+enzimlerinin ikili inhibitörleri (örn; flukonazol) ile birlikte uygulanırken ruksolitinibin toplam 
+günlük dozu günde iki kez uygulamak üzere yaklaşık %50 azaltılmalıdır (bkz. Bölüm 4.5). 
+Ruksolitinibin günde 200 mg'dan fazla flukonazol dozlarıyla birlikte kullanılmasından 
+kaçınılmalıdır. 
+Güçlü bir CYP3A4 inhibitörüne veya CYP2C9 ve CYP3A4 enzimlerinin ikili inhibitörlerine 
+(örn; flukonazol) başlanırken hematolojik parametrelerin ve ruksolitinib ilişkili advers 
+reaksiyonların klinik işaret ve semptomlarının daha sık izlemi (örn., haftada iki kez) önerilir. 
+Uygulama sıklığı ve süresi: 
+Bir doz atlanırsa, hasta ek bir doz almamalı, reçetede belirtilen bir sonraki dozunu almalıdır. 
+Uygulama şekli: 
+JAKAVI, oral yolla uygulanır, aç veya tok karnına alınabilir. 
+Tedavinin bırakılması 
+MF ve PV tedavisi, fayda-risk pozitif kaldığı sürece sürdürülebilir. Bununla birlikte 6 aydan 
+sonra dalak boyutunda bir azalma yoksa veya semptomlarda tedavinin başlangıcından beri bir 
+iyileşme görülmemişse tedavi bırakılmalıdır. 
+Bir derece klinik iyileşme göstermiş hastalar için, dalak boyutunda başlangıç boyutuna göre 
+%40 artış korunmuşsa (dalak hacminde kabaca %25 artışa eşdeğer) ve hastalıkla ilişkili 
+semptomlarda dikkat çekici bir iyileşme görülmüyorsa ruksolitinib tedavisinin bırakılması 
+önerilmektedir. 
+GvHD’de, yanıt veren hastalarda ve kortikosteroid tedavisi kesildikten sonra JAKAVI’nin 
+aşamalı olarak azaltılması düşünülebilir. JAKAVI dozunun iki ayda bir %50 azaltılması 
+önerilir. JAKAVI’nin dozunun azaltılması sırasında veya sonrasında GvHD’nin belirti veya 
+semptomları tekrar ortaya çıkarsa, tedavi dozunun yeniden yükseltilmesi düşünülmelidir. 5 
+ Özel popülasyonlara ilişkin ek bilgiler: 
+Böbrek yetmezliği: 
+Hafif ila orta derecedeki böbrek yetmezliği olan hastalarda spesifik doz ayarlaması gerekli 
+değildir. 
+Şiddetli böbrek yetmezliği olan hastalarda (kreatinin klerensi (KLkr) < 30mL/dk), trombosit 
+sayısına bağlı olarak önerilen başlangıç dozu MF hastaları için günde iki kez uygulamak 
+üzere yaklaşık %50 azaltılmalıdır. Şiddetli böbrek yetmezliği olan PV ve GvHD hastalarında 
+önerilen başlangıç dozu günde iki kez 5 mg’dır. Ruksolitinib tedavisi sırasında hastalar 
+etkililik ve güvenlilik açısından dikkatle izlenmelidir. 
+Diyalize giren son dönem böbrek yetmezliği (SDBY) olan hastalar için en iyi doz seçeneğine 
+karar verebilmek açısından sınırlı veri mevcuttur. Bu popülasyonda mevcut verilere dayalı 
+farmakokinetik/farmakodinamik simülasyonlar, hemodiyalize giren SDBY’li MF hastalarında 
+başlangıç dozunun, diyalizden sonra ve sadece hemodiyaliz gününde uygulanmak üzere 15-20 
+mg’lık tek doz ya da 12 saat arayla verilen 10 mg’lık iki doz olduğunu düşündürmektedir. 
+Trombosit sayıları 100.000/mm3 ile 200.000/mm3 arasında olan MF hastalarında 15 mg’lık 
+tek doz önerilmektedir. Trombosit sayıları >200.000/mm3 olan MF hastalarında 20 mg’lık tek 
+doz ya da 12 saat arayla verilen 10 mg’lık iki doz önerilmektedir. Sonraki dozlar (tek 
+uygulama ya da 12 saat arayla verilen 10 mg’lık iki doz) hemodiyaliz günlerinde her diyaliz 
+seansından sonra uygulanmalıdır.  
+Diyalize giren SDBY’li PV hastalarında önerilen başlangıç dozu 10 mg’lık tek doz ya da 12 
+saat arayla verilen 5 mg’lık iki doz olup diyaliz sonrasında ve sadece hemodiyaliz gününde 
+uygulanmalıdır. Bu doz önerileri simülasyonlara dayanmaktadır ve SDBY’de yapılacak 
+herhangi bir doz düzenlenmesi her hastada güvenlilik ve etkililik açısından dikkatle 
+izlenmelidir. Peritoneal diyalize ya da sürekli venovenöz hemofiltrasyona giren hastalarda 
+doz uygulamasına ilişkin veri bulunmamaktadır (bkz. Bölüm 5.2). 
+Son dönem böbrek yetmezliği (SDBY) olan GvHD hastaları için veri bulunmamaktadır. 
+Karaciğer yetmezliği: 
+Herhangi bir düzeyde karaciğer yetmezliği olan MF hastalarında, trombosit sayımına dayalı 
+olan önerilen başlangıç dozu günde iki kez uygulamak üzere yaklaşık %50 azaltılmalıdır. 
+Ardışık dozlar dikkatli güvenlilik ve etkililik takibi temelinde ayarlanmalıdır. PV hastaları 
+için önerilen başlangıç dozu günde iki kez 5 mg’dır. Ruksolitinib kullanırken karaciğer 
+bozukluğu tanısı alan hastalarda, diferansiyel beyaz kan hücresi sayımı dahil tam kan 
+sayımları JAKAVI ile tedavi başlatıldıktan sonra ilk 6 hafta boyunca en az 1-2 haftada bir ve 
+ardından karaciğer fonksiyon testleri ve kan sayımları stabil seyrettiğinde klinik durumun 
+gerektirdiği şekilde takip edilmelidir. Ruksolitinib dozu sitopeni riskini azaltmak amacıyla 
+titre edilebilir. 
+GvHD ile ilişkili olmayan hafif, orta veya şiddetli karaciğer yetmezliği olan hastalarda, 
+ruksolitinibin başlangıç dozu %50 oranında azaltılmalıdır (bkz. Bölüm 5.2). 
+ 
+GvHD karaciğer tutulumu olan ve toplam bilirubinin normalin üst sınırının (ULN) >3 katına 
+yükseldiği hastalarda, toksisite açısından kan sayımları daha sık izlenmelidir ve dozun bir doz 
+düzeyinde azaltılması önerilir. 
+Pediyatrik popülasyon: 
+JAKAVI’nin MF ve PV’si olan çocuklarda ve 18 yaşa kadar ergenlerde güvenliliği ve 
+etkililiği saptanmamıştır. Veri bulunmamaktadır (bkz. Bölüm 5.1) 6 
+ GvHD’li pediyatrik hastalarda (12 yaş ve üzeri) JAKAVI’nin güvenliliği ve etkililiği, 
+randomize faz 3 çalışmalar olan REACH2 ve REACH3’ten elde edilen kanıtlarla 
+desteklenmektedir. 12 yaş ve üzeri GvHD’li pediyatrik hastalarda JAKAVI dozu, 
+yetişkinlerdeki ile aynıdır. JAKAVI’nin güvenliliği ve etkililiği 12 yaşından küçük hastalarda 
+belirlenmemiştir. 
+Geriyatrik popülasyon (≥65 yaş): 
+Yaşlı hastalar için ek olarak doz ayarlaması gerekmemektedir.  
+4.3 Kontrendikasyonlar 
+Etkin maddeye ya da formülasyondaki bileşenlerden herhangi birine aşırı duyarlılığı olan 
+hastalarda kontrendikedir. 
+Gebelikte ve emziren annelerde kontrendikedir. 
+4.4 Özel kullanım uyarıları ve önlemleri 
+Miyelosupresyon 
+JAKAVI tedavisi, trombositopeni, anemi ve nötropeni dahil hematolojik advers olaylara 
+neden olabilir. JAKAVI ile tedavi başlatılmadan önce beyaz küre sayısı dahil tam kan sayımı 
+yapılmalıdır . Trombosit sayımı 50.000/mm3’ten düşük olan veya mutlak nötrofil sayımı 
+500/mm3’ten düşük olan MF’li hastalarda tedavi bırakılmalıdır (bkz. Bölüm 4.2). 
+Tedavi başlangıcında trombosit sayısı düşük olan (<200.000/mm3) MF’li hastalarda tedavi 
+sırasında trombositopeni gelişme olasılığının daha yüksek olduğu gözlenmiştir. 
+Trombositopeni çoğu durumda geri dönüşlü olmuş ve genellikle dozun azaltılması ya da 
+JAKAVI tedavisine geçici olarak ara verilmesiyle kontrol edilebilmiştir (bkz. Bölüm 4.2 ve 
+Bölüm 4.8). Ancak, klinik gerekliliğe göre trombosit transfüzyonları gerekli olabilir. 
+Anemi geliştiren hastalarda kan nakli gerekebilir. Anemi geliştiren hastalarda doz 
+düzenlemeleri ya da tedaviye ara verilmesi de düşünülebilir.  
+Hemoglobin düzeyi tedavinin başlangıcında 10 g/dL’nin altında olan hastalar, daha yüksek 
+başlangıç hemoglobin düzeyine sahip hastalara kıyasla 8 g/ dL’lik bir hemoglobin düzeyi 
+gelişmesi açısından daha yüksek risk taşır (%30,1’e karşı %79,3). Başlangıç hemoglobini 10 
+g/ dL olan hastalar da hematoloji parametreleri ve JAKAVI ile ilişkili advers ilaç 
+reaksiyonlarının klinik belirti ve semptomlarına ilişkin daha sık takip önerilmektedir. 
+Nötropeni (Mutlak Nötrofil Sayımı (MNS) <500/mm3) genellikle geri dönüşlü olmuştur ve 
+JAKAVI tedavisine geçici olarak ara verilmesiyle kontrol edilebilmiştir (bkz. Bölüm 4.2 ve 
+Bölüm 4.8). 
+Klinik duruma göre beyaz küre sayısı dahil tam kan sayımı izlemi ve gerektiği takdirde doz 
+ayarlaması yapılmalıdır (bkz. Bölüm 4.2 ve Bölüm 4.8). 
+Enfeksiyonlar 
+JAKAVI ile tedavi edilen hastalarda ciddi bakteriyel, mikobakteriyel, fungal, viral ve fırsatçı 
+enfeksiyonlar oluşmuştur. Hastalar ciddi enfeksiyon gelişme riski açısından 
+değerlendirilmelidir. Hekimler, JAKAVI almakta olan hastaları, enfeksiyon belirti ve 
+semptomları açısından dikkatle gözlemlemeli ve gerektiğinde tedaviyi hızla başlatmalıdır. 
+Aktif ciddi enfeksiyonlar giderilene kadar JAKAVI tedavisi başlanmamalıdır. 
+JAKAVI alan hastalarda tüberküloz bildirilmiştir. Tedaviye başlamadan önce hastalar aktif ve 
+inaktif (“latent”) tüberküloz açısından yerel gerekliliklere göre değerlendirilmelidir. Bu tıbbi 
+öykü, tüberküloz ile olası önceki temas ve/veya uygun şekilde röntgen, tüberkülin testi 7 
+ ve/veya interferon-gama salıverilme analizi gibi uygun bir taramayı içerebilir. Reçete yazan 
+hekimlere özellikle ağır hasta olan veya immünitesi zayıflamış hastalarda yalancı negatif 
+tüberkülin deri testi bulguları olabileceği hatırlatılmalıdır.  
+JAKAVI alan kronik HBV enfeksiyonu olan hastalarda alanin aminotransferaz ve aspartat 
+aminotransferaz değerlerinde artış ile ilişkili olsun veya olmasın Hepatit B viral yükünde 
+(HBV-DNA titresi), artışlar bildirilmiştir. JAKAVI ile tedaviye başlamadan önce HBV 
+taraması yapılması önerilir. Kronik HBV enfeksiyonu olan hastalar klinik kılavuzlara göre 
+tedavi edilmeli ve izlenmelidir.  
+Herpes Zoster 
+Hekimler, herpes zoster işaret ve semptomları hakkında hastaları eğitmeli, mümkün 
+olduğunca kısa sürede tedavi için başvurmalarını tavsiye etmelidir. 
+Progresif multifokal lökoensefalopati 
+JAKAVI tedavisinde progresif multifokal lökoensefalopati (PML) bildirilmiştir. Hekimler, 
+hastaların fark edemeyebileceği, PML’ye işaret eden semptomlar (örn., kognitif, nörolojik ya 
+da psikiyatrik semptomlar veya belirtiler) konusunda özellikle dikkatli olmalıdır. Hastalar bu 
+yeni ya da ağırlaşan semptomlar ya da belirtiler için takip edilmeli ve bu tip 
+semptomlar/belirtiler meydana gelirse, bir nöroloji uzmanına  sevk edilmeli ve PML için 
+uygun tanısal değerlendirmeler düşünülmelidir. PML’den şüphelenilirse, tanı  dışlanıncaya  
+kadar ilaç verilmemelidir. 
+Lipid anormallikleri / yükselmeleri 
+JAKAVI ile tedavi total kolesterol, yüksek yoğunluklu lipoprotein (HDL) kolesterol, düşük 
+yoğunluklu lipoprotein (LDL) kolesterol ve trigliserid gibi lipid parametrelerindeki artışlarla 
+ilişkilendirilmiştir. Lipid takibi ve klinik kılavuzlara göre dislipidemi tedavisi önerilmektedir. 
+Majör advers kardiyak olaylar (MAKO) 
+En az bir ek kardiyovasküler risk faktörü olan 50 yaş ve üzeri romatoid artrit hastalarında 
+tofasitinib (bir diğer JAK inhibitörü) ile yapılan geniş randomize aktif kontrollü bir 
+çalışmada, tümör nekroz faktörü (TNF) inhibitörlerine kıyasla tofasitinib ile kardiyovasküler 
+ölüm, ölümcül olmayan miyokard enfarktüsü (MI) ve ölümcül olmayan inme olarak 
+tanımlanan daha yüksek bir MAKO oranı gözlenmiştir. 
+JAKAVI alan hastalarda MAKO bildirilmiştir. JAKAVI ile tedaviye başlamadan veya devam 
+etmeden önce, özellikle 65 yaş ve üzeri hastalarda, sigara içen veya geçmişte uzun süre içmiş 
+hastalarda ve aterosklerotik kardiyovasküler hastalık öyküsü veya diğer kardiyovasküler risk 
+faktörleri olan hastalarda olmak üzere, hasta için bireysel olarak fayda ve riskler göz önünde 
+bulundurulmalıdır. 
+Tromboz 
+En az bir ek kardiyovasküler risk faktörü olan 50 yaş ve üzeri romatoid artrit hastalarında 
+tofasitinib (bir diğer JAK inhibitörü) ile yapılan geniş randomize aktif kontrollü bir 
+çalışmada, TNF inhibitörlerine kıyasla tofasitinib ile doza bağlı olarak derin ven trombozu 
+(DVT) ve pulmoner emboli (PE) dahil olmak üzere daha yüksek oranda venöz tromboembolik 
+olay (VTE) gözlenmiştir. 
+JAKAVI alan hastalarda derin venöz tromboz (DVT) ve pulmoner emboli (PE) olayları 
+bildirilmiştir. Klinik çalışmalarda JAKAVI ile tedavi edilen MF ve PV hastalarında, 
+tromboembolik olay oranları JAKAVI ve kontrol grubundaki hastalarda benzer bulunmuştur. 8 
+ JAKAVI ile tedaviye başlamadan veya devam etmeden önce, özellikle kardiyovasküler risk 
+faktörleri olan hastalarda, hastalar için bireysel olarak faydalar ve riskler göz önünde 
+bulundurulmalıdır (ayrıca bkz. Bölüm 4.4 “Majör advers kardiyovasküler olaylar (MAKO)”). 
+Tromboz semptomları olan hastalar derhal değerlendirilmeli ve uygun şekilde tedavi 
+edilmelidir. 
+İkinci primer maligniteler 
+En az bir ek kardiyovasküler risk faktörü olan 50 yaş ve üzeri romatoid artrit hastalarında 
+tofasitinib (bir diğer JAK inhibitörü) ile yapılan geniş randomize aktif kontrollü bir 
+çalışmada, TNF inhibitörlerine kıyasla tofasitinib ile daha yüksek oranda maligniteler, 
+özellikle akciğer kanseri, lenfoma ve melanom dışı cilt kanseri (MDCK) gözlenmiştir. 
+JAKAVI de dahil olmak üzere JAK inhibitörleri alan hastalarda lenfoma ve diğer maligniteler 
+bildirilmiştir. 
+Ruksolitinib ile tedavi edilen hastalarda bazal hücreli, skuamöz hücreli ve Merkel hücreli 
+karsinom dahil olmak üzere melanom dışı cilt kanserleri (MDCK’lar) bildirilmiştir. MF ve 
+PV hastalarının çoğu hidroksiüre ile uzun süreli tedavi görmüştür ve tedavi öncesi MDCK 
+veya premalign cilt lezyonları öyküsü vardır. Cilt kanseri riski yüksek olan hastalar için 
+periyodik cilt muayenesi önerilir. 
+Özel popülasyonlar  
+Böbrek yetmezliği  
+Şiddetli böbrek yetmezliği olan hastalarda JAKAVI’nin başlangıç dozu azaltılmalıdır. 
+Hemodiyalize devam eden son dönem böbrek yetmezliği olan hastalarda, MF hastaları için 
+başlangıç dozunda trombosit sayıları esas alınmalıdır, ancak PV hastaları için önerilen 
+başlangıç dozu tek doz 10 mg’dır (bkz. Bölüm 4.2). Sonraki dozlar (MF hastalarında 20 
+mg’lık tek doz veya 12 saat arayla verilen 10 mg’lık iki doz; PV hastalarında 10 mg’lık tek 
+doz veya 12 saat arayla verilen 5 mg’lık iki doz) sadece hemodiyaliz günlerinde her diyaliz 
+seansından sonra uygulanmalıdır. Güvenlilik ve etkililik dikkatle izlenerek ek doz 
+düzenlemeleri yapılmalıdır (bkz. Bölüm 4.2 ve Bölüm 5.2). 
+Karaciğer yetmezliği  
+Karaciğer yetmezliği olan MF ve PV hastalarında JAKAVI’nin başlangıç dozu yaklaşık %50 
+azaltılmalıdır. Sonraki doz düzenlemeleri için ilacın güvenliliği ve etkililiği esas alınmalıdır. 
+GvHD ile ilişkili olmayan karaciğer yetmezliği olan GvHD hastalarında, JAKAVI’nin 
+başlangıç dozu yaklaşık %50 oranında azaltılmalıdır (bkz. Bölüm 4.2 ve Bölüm 5.2). 
+Etkileşimler 
+Eğer JAKAVI, güçlü CYP3A4 inhibitörleri veya hem CYP2C9 ve hem de CYP3A4 
+enzimlerinin inhibitörleri (örn; flukonazol) ile bir arada uygulanacaksa, doz günde iki kez 
+uygulanmak üzere yaklaşık %50 azaltılmalıdır (monitorizasyon sıklığı için bkz. Bölüm 4.2 ve 
+Bölüm 4.5). 
+Sitoredüktif tedavilerin JAKAVI ile eşzamanlı kullanımı yönetilebilir sitopeni ile ilişkilidir. 
+(bkz. Bölüm 4.2). 
+Geri çekme etkileri: 
+JAKAVI’nin kesilmesini veya bırakılmasını takiben, miyelofibrozis semptomları yaklaşık bir 
+haftalık bir periyotta geri dönebilir. Özellikle akut araya giren hastalık varlığında, daha ağır 
+semptomları olan hastaların JAKAVI’yi kullanmayı bıraktığı bildirilmiştir. JAKAVI’nin 
+aniden bırakılmasının bu olaylara katkıda bulunup bulunmadığı belirlenmemiştir. Aniden 9 
+ bırakma gerekli olmadıkça, her ne kadar azaltmanın faydası kanıtlanmamış olsa da JAKAVI 
+dozunun kademeli olarak azaltılması düşünülmelidir. 
+Yardımcı maddeler: 
+JAKAVI laktoz içerir. Nadir kalıtımsal galaktoz intoleransı, Lapp laktaz eksikliği veya 
+glukoz-galaktoz malabsorpsiyonu olan hastalar bu tıbbi ürünü kullanmamalıdır. 
+4.5 Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri 
+Etkileşim çalışmaları sadece erişkinlerde yürütülmüştür. 
+Ruksolitinib CYP3A4 ve CYP2C9 ile katalizlenen metabolizma ile elimine olur. Böylece bu 
+enzimleri inhibe eden ilaçlar artmış ruksolitinib maruziyetine yol açabilir. 
+Ruksolitinib dozunun azaltılmasını gerektiren etkileşimler  
+CYP3A4 inhibitörleri  
+Güçlü CYP3A4 inhibitörleri (boceprevir, klaritromisin, indinavir, itrakonazol, ketokonazol,   
+lopinavir/ritonavir, ritonavir, mibefradil, nefazodon, nelfinavir, posakonazol, sakinavir, 
+telaprevir, telitromisin, vorikonazol gibi, ancak bunlarla sınırlı olmayan)   
+Sağlıklı gönüllülerde ruksolitinibin (10 mg’lık tek doz) güçlü CYP3A4 inhibitörü ketokonazol 
+ile bir arada uygulanması, tek başına ruksolitinib ile karşılaştırıldığında sırasıyla %33 ve %91 
+daha yüksek ruksolitinib C maks ve EAA değerleri ile sonuçlanmıştır. Eşzamanlı ketokonazol 
+uygulaması ile yarılanma ömrü 3,7 saatten 6 saate uzamıştır.  
+Ruksolitinib, güçlü CYP3A4 inhibitörleri ile bir arada uygulanırken, ruksolitinibin toplam 
+günlük dozu günde iki kez uygulanmak üzere yaklaşık %50 azaltılmalıdır. Hastalar, 
+sitopeniler açısından yakından izlenmelidir (haftada iki kez) ve doz, güvenlilik ve etkililik 
+esas alınarak titre edilmelidir (bkz. Bölüm 4.2). 
+Hem CYP2C9 ve hem de CYP3A4 inhibitörleri 
+Sağlıklı gönüllülerde, tek başına ruksolitinib ile karşılaştırıldığında, ruksolitinibin (10 mg’lık 
+tek doz) ikili bir CYP2C9 ve CYP3A4 inhibitörü olan flukonazol ile birlikte uygulanması, 
+ruksolitinibin C maks ve EAA değerlerinin sırasıyla % 47 ve % 232 daha yüksek çıkmasıyla 
+sonuçlanmıştır. 
+CYP2C9 ve CYP3A4 enzimlerinin inhibitörleri olan tıbbi ürünler (örn., flukonazol) 
+kullanıldığında dozda %50 azaltma düşünülmelidir. Ruksolitinibin günde 200 mg'dan fazla 
+flukonazol dozlarıyla birlikte kullanılmasından kaçınılmalıdır. 
+Enzim indükleyicileri 
+CYP3A4 indükleyicileri (avasimib, karbamazepin, fenobarbital, fenitoin, rifabutin, rifampin 
+(rifampisin), sarı kantaron (Hypericum perforatum) gibi ancak bunlarla sınırlı olmayan):  
+Hastalar yakından  izlenmeli ve doz güvenlilik ve etkililik temelinde titre edilmelidir (bkz. 
+Bölüm 4.2). 
+Potent CYP3A4 indükleyicisi rifampisini (10 gün boyunca günlük 600 mg dozda) takiben 50 
+mg tek doz olarak ruksolitinib verilen sağlıklı gönüllülerde, ruksolitinib EAA’sı tek başına 
+ruksolitinib uygulamasından sonra olandan %70 daha düşük bulunmuştur. Ruksolitinib aktif 
+metabolitlerinin maruziyeti değişmemiştir. Genel olarak ruksolitinib farmakodinamik 
+aktivitesi benzer olup, CYP3A4 indüksiyonunun farmakodinamik üzerinde minimum 
+etkisinin olduğunu düşündürmektedir. Bununla birlikte, bu E maks’a yakın farmakodinamik 
+etkilerle sonuçlanan yüksek ruksolitinib dozu ile ilgili olabilir. Bir hastada güçlü bir enzim 
+indükleyicisi ile tedavi başlatıldığında ruksolitinib dozunun artırılması gerekebilir. 10 
+ Dikkate alınması gereken diğer etkileşimler 
+Hafif veya orta kuvvetli CYP3A4 inhibitörleri (siprofloksasin, eritromisin, amprenavir, 
+atazanavir, diltiazem, simetidin gibi ancak bunlarla sınırlı olmayan):   
+Orta kuvvetli bir CYP3A4 inhibitörü olan eritromisini dört gün süreyle günde iki kez 500 mg 
+dozunda alan sağlıklı gönüllülerde  JAKAVI’nin 10 mg’lık tek dozunun tek başına 
+kullanımına kıyasla C maks değerinde %8, EAA değerinde %27 artış olmuştur.  
+JAKAVI, hafif veya orta kuvvetli CYP3A4 inhibitörleri (örn, eritromisin) ile bir arada 
+uygulanırken doz ayarlaması gerekmemektedir. Orta kuvvetli CYP3A4 inhibitörleri ile tedavi 
+başlatılırken hastalar sitopeniler açısından yakından izlenmelidir. 
+Diğer ilaçlar ile etkileşim: 
+P-glikoprotein ve diğer taşıyıcılarla taşınan bileşikler  
+Ruksolitinib bağırsakta meme kanserine direnç proteinini (BCRP) ve P-glikoproteini inhibe 
+edebilir. Bu inhibisyon, debigatran eteksilat, siklosporin, rosuvastatin ve muhtemelen 
+digoksin gibi bu taşıyıcıların substratlarına sistemik maruziyeti artırabilir. Etkilenen madde 
+için terapötik ilaç takibi veya klinik takip tavsiye edilir. 
+Bağırsakta meme kanserine direnç proteini ve P-gp için potansiyel inhibisyon, uygulamalar 
+arasındaki süre mümkün olduğunca uzun tutularak en aza indirilebilir. 
+Sağlıklı gönüllülerle gerçekleştirilen bir çalışma ruksolitinibin oral CYP3A4 substratı 
+midazolamın metabolizmasını inhibe etmediğini göstermiştir. Bu nedenle, ruksolitinib ile 
+kombine edilen CYP3A4 substratlarının maruziyetinde herhangi bir artış beklenmemektedir. 
+Sağlıklı gönüllülerle gerçekleştirilen başka bir çalışma ruksolitinibin etinil estradiol ve 
+levonorgestrel içeren bir oral kontraseptifin farmakokinetiğini etkilemediğini göstermiştir. 
+Dolayısıyla, eşzamanlı ruksolitinib uygulanmasıyla bu kombinasyonun kontraseptif 
+etkililiğinin olumsuz yönde etkilenmesi beklenmemektedir. 
+Özel popülasyonlara ilişkin ek bilgiler 
+Böbrek yetmezliği:  
+Böbrek yetmezliği olan hastalarla ilgili bir etkileşim çalışması yapılmamıştır. 
+Karaciğer yetmezliği:  
+Karaciğer  yetmezliği olan hastalarla ilgili bir etkileşim çalışması yapılmamıştır. 
+Pediyatrik popülasyon: 
+Pediyatrik hastalarla ilgili bir etkileşim çalışması yapılmamıştır. 
+4.6 Gebelik ve laktasyon 
+Genel tavsiye 
+Gebelik kategorisi C’dir. 
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon) 
+Çocuk doğurma potansiyeli bulunan kadınlar, JAKAVI ile tedavi sırasında etkili doğum 
+kontrol yöntemi kullanmalıdır.  
+JAKAVI ile tedavi sırasında gebelik oluşursa, hasta bazında fayda-risk değerlendirmeleri 
+yapılmalı ve fetüs üzerine potansiyel riskler ile ilgili olarak hasta bilgilendirilmelidir (bkz. 
+Bölüm 5.3). 11 
+ Gebelik dönemi 
+Gebe kadınlarda JAKAVI ile yeterli çalışma bulunmamaktadır.  
+Hayvanlar üzerinde yapılan çalışmalar ruksolitinibin embriyotoksik ve fetotoksik olduğunu 
+göstermiştir. Sıçanlarda veya tavşanlarda teratojenisite gözlenmemiştir. Bununla birlikte, 
+maruz kalma marjları en yüksek klinik doza kıyasla düşüktür ve dolayısıyla sonuçların 
+insanlarla ilişkisi sınırlıdır (bkz. Bölüm 5.3).  
+İnsanlar için potansiyel risk bilinmemektedir. JAKAVİ gebelikte kontrendikedir. Gebelik 
+süresince JAKAVI kullanılmamalıdır (bkz. Bölüm 4.3). 
+Laktasyon dönemi 
+Emzirme esnasında JAKAVI kullanılmamalıdır (bkz. Bölüm 4.3), bu nedenle tedavi 
+başladığında emzirmeye ara verilmelidir. Ruksolitinib ve/veya metabolitlerinin anne sütü ile 
+atılıp atılmadığı bilinmemektedir. Emzirilen çocuk için risk göz ardı edilemez. Hayvanlardan 
+elde edilen farmakodinamik/toksikolojik veriler ruksolitinib ve/veya metabolitlerinin anne 
+sütüne geçtiğini göstermiştir. 
+Üreme yeteneği/Fertilite 
+Ruksolitinibin fertilite üzerindeki etkisine dair insanda veri bulunmamaktadır. Hayvan 
+çalışmalarında, fertilite üzerinde herhangi bir etki gözlenmemiştir. 
+4.7 Araç ve makine kullanımı üzerindeki etkiler 
+JAKAVI’nin sedatif etkisi yoktur, ya da göz ardı edilebilecek kadar azdır. Bununla birlikte, 
+JAKAVI aldıktan sonra baş dönmesi yaşayan hastalar, araç veya makine kullanmaktan 
+kaçınmalıdır. 
+4.8 İstenmeyen etkiler 
+Güvenlilik profilinin özeti  
+Miyelofibrozis 
+Ek sık bildirilen advers ilaç reaksiyonları trombositopeni ve anemidir. 
+Hematolojik advers reaksiyonlar (tüm Advers Olaylar için Ortak Terminoloji Kriterleri 
+[CTCAE] dereceleri) anemi (% 83,8), trombositopeni (%  80,5) ve nötropeniyi (% 20,8) 
+içermektedir. 
+Anemi, trombositopeni ve nötropeniyi doz ilişkili yan etkilerdir. 
+Hematolojik olmayan en sık üç advers reaksiyon morarma (% 33,3), diğer kanamalar (burun 
+kanaması, prosedür sonrası kanama ve hematüri dahil) (% 24,3) ve baş dönmesidir (% 21,9). 
+Hematolojik olmayan en sık üç laboratuvar anomalisi alanin transaminaz (% 40,7), yüksek 
+aspartat aminotransferaz (% 31,5)  ve hipertrigliseridemidir (% 25,2). Faz 3 MF klinik 
+çalışmalarda CTCAE derece 3 veya 4 hipertrigliseridemi veya aspartat aminotransferaz 
+yükselmesi ya da CTCAE derece 4 alanin aminotransferaz yükselmesi veya 
+hiperkolesterolemi gözlenmemiştir.  
+Nedensellikten bağımsız olarak advers olaylar nedeniyle tedavinin kesilmesi hastaların % 
+30,0’unda görülmüştür.  
+Polisitemi vera 
+En sık bildirilen advers ilaç reaksiyonları anemi ve alanin aminotransferaz artışı olmuştur. 12 
+ Hematolojik advers reaksiyonlar (herhangi bir CTCAE derecesi) anemi (% 61,8) ve 
+trombositopeni (%  25,0) ve nötropeniyi (% 5,3) içermektedir. CTCAE derecesi 3 ve 4 anemi 
+ve trombositopeni sırasıyla % 2,9 ve % 2,6 oranında bildirilmiştir. 
+Hematolojik olmayan en sık üç advers reaksiyon kilo artışı (% 20,3), baş dönmesi (% 19,4) ve 
+baş ağrısı (% 17,9) olmuştur.  
+Advers reaksiyonlar olarak tanımlanan en sık görülen üç hematoloji dışı laboratuvar 
+anormalliği (herhangi bir CTCAE derecesi) alanin aminotransferaz düzeyinde yükselme (% 
+45,3), aspartat aminotransferaz düzeyinde yükselme (% 42,6) ve hiperkolesterolemi (% 34,7) 
+olmuştur. CTCAE derece 4 alanin aminotransferaz yükselmesi veya hiperkolesterolemi 
+gözlenmemiş ve bir adet CTCAE derece 4 artmış aspartat aminotransferaz gözlenmiştir.  
+Hastaların % 19,4’ünde nedensellikten bağımsız olarak advers reaksiyonlar nedeniyle 
+tedavinin kesilmesi gözlenmiştir.  
+Akut GvHD 
+En sık bildirilen genel advers ilaç reaksiyonları trombositopeni, anemi ve nötropenidir. 
+ 
+Advers ilaç reaksiyonları olarak tanımlanan hematolojik laboratuvar anormallikleri 
+trombositopeni (%85,2), anemi (%75,0) ve nötropeniyi (%65,1) içermiştir. Hastaların 
+%47,7’sinde derece 3 anemi rapor edilmiştir (CTCAE v4.03’e göre derece 4 uygulanamaz). 
+Hastaların sırasıyla %31,3 ve %47,7’sinde derece 3 ve 4 trombositopeni bildirilmiştir. 
+ 
+En sık görülen hematolojik olmayan advers ilaç reaksiyonları sitomegalovirüs (CMV) 
+enfeksiyonu (%32,3), sepsis (%25,4) ve idrar yolu enfeksiyonlarıdır (%17,9). 
+ 
+Advers ilaç reaksiyonları olarak tanımlanan en sık görülen hematolojik olmayan laboratuvar 
+anormallikleri, alanin aminotransferaz artışı (%54,9), aspartat aminotransferaz artışı (%52,3) 
+ve hiperkolesterolemi (%49,2) olmuştur. Çoğunluğu derece 1 ve 2’dir. 
+ 
+Nedenselliğe bakılmaksızın advers olaylar nedeniyle tedavinin kesilmesi hastaların 
+%29,4’ünde gözlemlenmiştir. 
+ 
+Kronik GvHD 
+En sık bildirilen genel advers ilaç reaksiyonları anemi, hiperkolesterolemi ve aspartat 
+aminotransferaz artışıdır. 
+ 
+Advers ilaç reaksiyonları olarak tanımlanan hematolojik laboratuvar anormallikleri anemi 
+(%68,6), trombositopeni (%34,4) ve nötropeniyi (%36,2) içermiştir. Derece 3 anemi 
+hastaların %14,8’inde rapor edilmiştir (CTCAE v4.03’e göre derece 4 uygulanamaz). 
+Hastaların sırasıyla %9,5 ve %6,7’sinde derece 3 ve 4 nötropeni bildirilmiştir. 
+ 
+Hematolojik olmayan en sık görülen üç advers ilaç reaksiyonu hipertansiyon (%15,0), baş 
+ağrısı (%10,2) ve idrar yolu enfeksiyonlarıdır (%9,3). 
+ 
+Advers ilaç reaksiyonları olarak tanımlanan en sık görülen hematolojik olmayan laboratuvar 
+anormallikleri hiperkolesterolemi (%52,3), aspartat aminotransferaz artışı (%52,2) ve alanin 
+aminotransferaz artışıdır (%43,1). Çoğunluğu derece 1 ve 2’dir. 
+ 
+Nedenselliğe bakılmaksızın advers olaylar nedeniyle tedavinin kesilmesi hastaların 
+%18,1’inde gözlemlenmiştir. 13 
+ Klinik çalışmalardan bildirilen advers ilaç reaksiyonlarının tablo halinde listesi  
+MF hastalarında güvenlilik, başlangıçta ruksolitinibe (n=301) randomize edilen ve kontrol 
+tedavilerinden çapraz geçişten sonra ruksolitinib alan hastalardan (n=156) elde edilen verileri 
+içeren iki faz 3 çalışmadan (COMFORT-I ve COMFORT-II) elde edilen uzun vadeli takip 
+verileri kullanılarak değerlendirilmiştir. MF hastaları için advers ilaç reaksiyonu sıklık 
+kategorilerinin dayandığı medyan maruziyet 30.5 aydır (aralık 0,3 ila 68,1 ay). 
+PV hastalarında güvenlilik, başlangıçta ruksolitinibe (n=184) randomize edilmiş hastalardan 
+ve kontrol tedavilerinden çapraz geçişten sonra ruksolitinib alan hastalardan elde edilen 
+verileri içeren iki faz 3 çalışmadan (RESPONSE, RESPONSE 2) uzun vadeli takip verileri 
+kullanılarak değerlendirilmiştir. (n=156). PV hastaları için ADR sıklık kategorilerinin 
+dayandığı ortanca maruziyet 41,7 aydır (aralık 0,03 ila 59,7 ay). 
+JAKAVI’nin akut GvHD hastalarında güvenliliği, faz 3 REACH2 çalışmasında 
+değerlendirilmiş olup bu değerlendirme de başlangıçta JAKAVI’ye randomize edilen 
+hastalardan (n=152) ve mevcut en iyi tedaviden geçiş yaptıktan sonra JAKAVI alan 
+hastalardan (n=49) elde edilen verileri içermiştir. Advers ilaç reaksiyonu sıklık kategorilerinin 
+dayandığı medyan maruziyet 8,9 haftadır (aralık 0,3 ila 66,1 hafta). 
+ 
+JAKAVI’nin kronik GvHD hastalarında güvenliliği, faz 3 REACH3 çalışmasında 
+değerlendirilmiş olup bu değerlendirme de başlangıçta JAKAVI’ye randomize edilen 
+hastalardan (n=165) ve mevcut en iyi tedaviden geçiş yaptıktan sonra JAKAVI alan 
+hastalardan (n=61) elde edilen verileri içermiştir. Advers ilaç reaksiyonu sıklık kategorilerinin 
+dayandığı medyan maruziyet 41,4 haftadır (aralık 0,7 ila 127,3 hafta). 
+ 
+Klinik çalışma programında advers ilaç reaksiyonlarının şiddeti, derece 1=hafif, derece 
+2=orta, derece 3=şiddetli, derece 4=hayatı tehdit eden veya sakat bırakan, derece 5=ölüm 
+olarak tanımlanan CTCAE’ye dayalı olarak değerlendirilmiştir. 
+ 
+MF ve PV’de (Tablo 4) ve akut ve kronik GvHD’deki (Tablo 5) klinik çalışmalardan elde 
+edilen advers ilaç reaksiyonları MedDRA sistem organ sınıfına göre listelenmiştir. Klinik 
+çalışmalar programında advers ilaç reaksiyonlarının şiddeti, CTCAE esas alınarak 
+değerlendirilmiştir: derece 1= hafif, derece 2= orta, derece 3= şiddetli ve derece 4= yaşamı 
+tehdit edici ya da maluliyete neden olan, derece 5= ölüm 
+MF ve PV’de (Tablo 4) ve akut ve kronik GvHD’deki (Tablo 5) klinik çalışmalardan elde 
+edilen advers ilaç reaksiyonları MedDRA sistem organ sınıfına göre listelenmektedir. Her bir 
+organ sınıfı içinde advers ilaç reaksiyonları sıklığa göre sıralanmakta, en sık reaksiyonlar ilk 
+sırada gösterilmektedir. Ayrıca, her advers ilaç reaksiyonu için karşılık gelen sıklık kategorisi, 
+aşağıdaki sisteme göredir (CIOMS III): çok yaygın (≥1/10); yaygın (≥1/100 ila <1/10); yaygın 
+olmayan (≥1/1,000 ila <1/100); seyrek (≥1/10,000 ila <1/1,000); çok seyrek (<1/10,000); 
+sıklığı bilinmiyor. 14 
+ Tablo 4 MF ve PV’deki Faz 3 çalışmalarda bildirilen advers ilaç reaksiyonlarının sıklık  
+kategorisi  
+Advers ilaç reaksiyonu  MF hastaları için sıklık 
+kategorisi  PV hastaları için sıklık 
+kategorisi 
+Enfeksiyonlar ve 
+enfestasyonlar   
+İdrar yolu enfeksiyonları d Çok yaygın  Çok yaygın 
+Herpes zoster d Çok yaygın Çok yaygın 
+Pnömoni Çok yaygın Yaygın 
+Sepsis Yaygın Yaygın olmayan 
+Tüberküloz  Yaygın olmayan  Bilinmiyor e 
+HBV reaktivasyonu  Bilinmiyor e Yaygın olmayan  
+Kan ve lenf sistemi 
+hastalıkları a,d   
+Anemi a   
+CTCAEc derece 4 
+(<6,5 g/ dL) Çok yaygın Yaygın olmayan 
+CTCAEc derece 3 
+(<8,0 – 6,5g/  dL) Çok yaygın Yaygın 
+Herhangi bir CTCAEc 
+derecesi Çok yaygın Çok yaygın 
+Trombositopeni a   
+CTCAEc derece 4 
+(<25.000/mm3) Yaygın Yaygın olmayan 
+CTCAEc derece 3 
+(50.000 – 25.000/mm3) Çok yaygın Yaygın 
+Herhangi bir CTCAEc 
+derecesi Çok yaygın Çok yaygın 
+Nötropeni a   
+CTCAEc derece 4 
+(<500/mm3) Yaygın Yaygın olmayan 
+CTCAEc derece 3 
+(<1.000 – 500/mm3) Yaygın Yaygın olmayan 
+Herhangi bir CTCAEc 
+derecesi Çok yaygın Yaygın 
+Pansitopeni a,b Yaygın Yaygın 
+Kanama (intrakraniyal ve 
+gastrointestinal kanama, 
+morarma ve diğer kanamamalar 
+dahil herhangi bir kanama)  Çok yaygın Çok yaygın 
+Morarma Çok yaygın  Çok yaygın  
+Gastrointestinal kanama  Çok yaygın Yaygın 
+İntrakraniyal kanama  Yaygın Yaygın olmayan  
+Diğer kanama (burun 
+kanaması, prosedür sonrası 
+kanama, hemorajive 
+hematüri dahil)  Çok yaygın Çok yaygın  
+ 15 
+ Metabolizma ve beslenme 
+hastalıkları   
+Hiperkolesterolemi a 
+Herhangi bir CTCAEc 
+derecesi Çok yaygın Çok yaygın 
+Hipertrigliseridemi a 
+Herhangi bir CTCAEc 
+derecesi Çok yaygın Çok yaygın 
+Kilo artışı  Çok yaygın  Çok yaygın 
+Sinir sistemi hastalıkları   
+Sersemlik hali  Çok yaygın  Çok yaygın  
+Baş ağrısı  Çok yaygın  Çok yaygın  
+Gastrointestinal hastalıklar   
+Yüksek lipaz seviyesi 
+Herhangi bir CTCAEc derecesi Çok yaygın Çok yaygın 
+Konstipasyon  Çok yaygın  Çok yaygın 
+Flatulans  Yaygın Yaygın 
+Hepato-biliyer hastalıklar   
+Alanin aminotransferaz 
+yükselmesi a   
+CTCAEc derece 3 
+(> 5x – 20 x ULN)  Yaygın Yaygın  
+Herhangi bir CTCAEc 
+derecesi Çok yaygın Çok yaygın 
+Aspartat aminotransferaz 
+yükselmesi a   
+Herhangi bir CTCAEc 
+derecesi  Çok yaygın Çok yaygın 
+Vasküler hastalıklar   
+Hipertansiyon  Çok yaygın  Çok yaygın  
+a Sıklık, başlangıca kıyasla yeni veya kötüleşen laboratuvar anormalliklerini temel alır. 
+b Pansitopeni, aynı laboratuvar değerlendirmesinde eşzamanlı olarak hemoglobin düzeyi 
+<100 g/l, trombosit sayısı <100x109/l ve nötrofil sayısı <1.5x109/l (veya nötrofil sayısı 
+eksikse, derece 2 düşük beyaz kan hücresi sayısı) olarak tanımlanır. 
+c CTCAE Sürüm 3.0; derece 1 = hafif, derece 2 = orta, derece 3 = şiddetli, derece 4 = hayati 
+tehlike oluşturan 
+d Bu advers reaksiyonlar metinde açıklanmaktadır. 
+e Pazarlama sonrası deneyimden elde edilen advers reaksiyonlar  
+Tedavi kesildikten sonra MF hastalarında yorgunluk, kemik ağrısı, yüksek ateş, prurit, gece 
+terlemeleri, semptomatik splenomegali ve kilo kaybı gibi MF semptomlarında dönüş olabilir. 
+Klinik çalışmalarda MF semptomları için toplam semptom skoru, doz uygulaması kesildikten 
+sonraki 7 gün içinde aşamalı olarak başlangıç değerlerine dönmüştür (bkz. Bölüm 4.4). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 16 
+ Tablo 5  GvHD’deki faz 3 çalışmalarında bildirilen advers ilaç reaksiyonlarının 
+sıklık kategorisi  
+ Akut GvHD 
+(REACH2) Kronik GvHD 
+(REACH3) 
+Advers ilaç reaksiyonu  Sıklık kategorisi Sıklık kategorisi 
+Enfeksiyonlar ve enfestasyonlar    
+CMV enfeksiyonları  Çok yaygın  Yaygın 
+CTCAE3 derece ≥ 3 Çok yaygın  Yaygın 
+Sepsis Çok yaygın  - 
+CTCAE derece ≥ 3 Çok yaygın  - 
+İdrar yolu enfeksiyonları  Çok yaygın  Yaygın 
+CTCAE derece ≥ 3 Yaygın Yaygın 
+BK virüsü enfeksiyonları  - Yaygın 
+CTCAE derece ≥ 3 - Yaygın olmayan  
+Kan ve lenf sistemi hastalıkları    
+Trombositopeni1 Çok yaygın  Çok yaygın 
+CTCAE derece 3  Çok yaygın  Yaygın 
+CTCAE derece 4  Çok yaygın  Çok yaygın  
+Anemi1 Çok yaygın  Çok yaygın  
+CTCAE derece 3  Çok yaygın  Çok yaygın  
+Nötropeni1 Çok yaygın  Çok yaygın  
+CTCAE derece 3  Çok yaygın  Yaygın 
+CTCAE derece 4  Çok yaygın  Yaygın 
+Pansitopeni1,2 Çok yaygın  - 
+Metabolizma ve beslenme 
+hastalıkları    
+Hiperkolesterolemi1 Çok yaygın  Çok yaygın  
+CTCAE derece 3  Yaygın Yaygın 
+CTCAE derece 4  Yaygın Yaygın olmayan  
+Kilo alma  - Yaygın 
+CTCAE derece ≥3 - Uygulanamaz 5 
+Sinir sistemi hastalıkları    
+Baş ağrısı  Yaygın Çok yaygın  
+CTCAE derece ≥3 Yaygın olmayan  Yaygın 
+Vasküler hastalıklar    
+Hipertansiyon  Çok yaygın  Çok yaygın  
+CTCAE derece ≥3 Yaygın Yaygın 
+Gastrointestinal hastalıklar    
+Lipaz artışı1 - Çok yaygın  
+CTCAE derece 3  - Yaygın 
+CTCAE derece 4  - Yaygın olmayan  
+Amilaz artışı1 - Çok yaygın  
+CTCAE derece 3  - Yaygın 
+CTCAE derece 4  - Yaygın 
+Bulantı  Çok yaygın  - 
+CTCAE derece ≥3 Yaygın olmayan  - 
+Kabızlık  - Yaygın 
+CTCAE derece >3  - Uygulanamaz 5 17 
+ Hepato-biliyer hastalıklar   
+Alanin aminotransferaz artışı1 Çok yaygın  Çok yaygın  
+CTCAE derece 3  Çok yaygın  Yaygın 
+CTCAE derece 4  Yaygın Yaygın olmayan  
+Aspartat aminotransferaz artışı1 Çok yaygın  Çok yaygın  
+CTCAE derece 3  Yaygın Yaygın 
+CTCAE derece 4  Uygulanamaz 5 Yaygın olmayan  
+Kas-iskelet sistemi ve bağ dokusu 
+hastalıkları    
+Kan kreatin fosfokinaz artışı11 - Çok yaygın  
+CTCAE derece 3  - Yaygın 
+CTCAE derece 4  - Yaygın 
+Renal ve üriner hastalıklar    
+Kan kreatinin artışı1 - Çok yaygın  
+CTCAE derece 3  - Yaygın 
+CTCAE derece 4  - Uygulanamaz 5 
+1 Sıklık, başlangıca kıyasla yeni veya kötüleşen laboratuvar anormalliklerini temel alır. 
+2 Pansitopeni, aynı laboratuvar değerlendirmesinde eşzamanlı olarak hemoglobin düzeyi 
+<100 g/l, trombosit sayısı <100x109/l ve nötrofil sayısı <1.5x109/l (veya nötrofil sayısı 
+eksikse, derece 2 düşük beyaz kan hücresi sayısı) olarak tanımlanır. 
+3 CTCAE Sürüm 4.03. 
+4 Derece ≥3 sepsis, 20 (%10) adet derece 5 olay içerir. 
+5 Uygulanamaz: vaka bildirilmemiştir.  
+Seçilen advers ilaç reaksiyonlarının tanımı 
+Anemi 
+MF’teki Faz 3 klinik çalışmalarda, ilk CTCAE derece 2 veya daha yüksek dereceli aneminin 
+başlamasına kadar geçen medyan süre 1,5 ay olmuştur. Bir hasta (%0,3) anemi nedeniyle 
+tedaviden ayrılmıştır. 
+Ruksolitinib alan hastalarda ortalama hemoglobin düşüşleri, tedavinin 8 ila 12 haftasından 
+sonra başlangıcın yaklaşık 10 g/L altında en düşük değerlere ulaşmıştır ve ardından aşamalı 
+olarak düzelerek, başlangıcın yaklaşık 5 g/L altında yeni bir kararlı duruma ulaşmıştır. 
+Hastalarda bu patern, tedavi sırasında transfüzyon almış olup olmamalarından bağımsız bir 
+şekilde gözlenmiştir. 
+Randomize, plasebo kontrollü çalışmada (COMFORT-I), JAKAVI tedavisindeki hastaların 
+%60,6’sı ve plasebo uygulanan hastaların %37,7’si randomize tedavi sırasında eritrosit 
+transfüzyonu almıştır. COMFORT-II çalışmasında eritrosit transfüzyonu oranı JAKAVI 
+kolunda %53,4 iken en iyi mevcut tedavi (BAT) kolunda %41,1 olmuştur. 
+Pivot çalışmaların randomize periyodunda anemi, PV hastalarında MF hastaları ile 
+karşılaştırıldığında daha düşük sıklıkta görülmüştür (%40,8 karşısında % 82,4). PV 
+popülasyonunda, CTCAE derecesi 3 ve 4 olaylar %2,7 oranında bildirilirken MF hastalarında 
+sıklık %42,56 olmuştur. 
+Faz 3 akut ve kronik GvHD çalışmalarında, hastaların sırasıyla %47,7’sinde ve %14,8’inde 
+CTCAE derece 3 anemi bildirilmiştir. 
+Trombositopeni 
+MF’teki Faz 3 klinik çalışmalarda, derece 3 veya 4 trombositopeni gelişen hastalarda, 
+trombositopeninin başlangıcına kadar geçen medyan süre 8 hafta olmuştur. Trombositopeni 18 
+ genellikle dozun azaltılması ya da ara verilmesiyle geri dönüşümlü olmuştur. 50.000/mm3 
+üzerindeki trombosit sayılarına dönüş için medyan süre 14 gün olmuştur. Randomize periyod 
+boyunca trombosit transfüzyonları, ruksolitinib alan hastaların %4,7’sine ve kontrol rejimleri 
+alan hastaların %4,0’üne uygulanmıştır. Ruksolitinib tedavisindeki hastaların %0,7’si ve 
+kontrol rejimleri alan hastaların %0,9’u trombositopeni nedeniyle çalışmadan ayrılmıştır. 
+Çalışmaların randomize periyodu boyunca ruksolitinibe başlamadan önce trombosit sayısı 
+100.000/mm3 ila 200.000/mm3 olan hastalarda derece 3 ya da 4 trombositopeni sıklığı, 
+trombosit sayısı >200.000/mm3 olan hastalar ile karşılaştırıldığında daha yüksek olmuştur 
+(%64,2 karşısında %38,5). 
+Pivot çalışmaların randomize periyodunda, trombositopeni yaşayan hastaların oranı MF 
+(%69,8) hastaları ile karşılaştırıldığında PV (%16,8) hastalarında daha düşük olmuştur. 
+Şiddetli (CTCAE derecesi 3 ve 4) trombositopeni sıklığı PV hastalarında (%2,7), MF 
+hastalarına (%11,6) kıyasla daha düşük bulunmuştur. 
+Faz 3 akut GvHD çalışmasında, hastaların sırasıyla %31,3 ve %47,7’sinde derece 3 ve 4 
+trombositopeni gözlemlenmiştir. Faz 3 kronik GvHD çalışmasında, derece 3 ve 4 
+trombositopeni, akut GvHD’dekine kıyasla daha düşük olmuştur (%5,9 ve %10,7). 
+Nötropeni 
+MF’teki Faz 3 klinik çalışmalarda, derece 3 veya 4 nötropeni geliştiren hastalarda, nötropenin 
+başlangıcına kadar geçen medyan süre 12 hafta olmuştur. Nötropeni nedeniyle doz 
+uygulamalarına ara verilmesi ya da dozun azaltılması, hastaların %1.0’ında söz konusu 
+olmuştur ve hastaların %0,3’ü nötropeni nedeniyle çalışmadan ayrılmıştır. 
+PV hastalarında yapılan Faz 3 çalışmalarının randomize periyodunda, nötropeni referans 
+tedavilerde %7’ye kıyasla ruksolitinibe maruz kalan hastaların % 1,6’sında bildirilmiştir. 
+Ruksolitinib kolunda bir hastada CTCAE derece 4 nötropeni gelişmiştir. Ruksolitinib ile 
+tedavi edilen hastaların uzun süreli takibi, CTCAE derece 4 nötropeni bildiren 2 hasta 
+göstermiştir. 
+Faz 3 akut GvHD çalışmasında, hastaların sırasıyla %17,9’unda ve %20,6’sında derece 3 ve 4 
+nötropeni gözlemlenmiştir. Faz 3 kronik GvHD çalışmasında derece 3 ve 4 nötropeni, akut 
+GvHD’dekine kıyasla daha düşük bulunmuştur (%9,5 ve %6,7). 
+Kanama 
+Faz 3 pivotal çalışmalarda MF kanama olayları (intrakranial ve gastrointestinal, morarma ve 
+diğer kanama olayları dahil) ruksolitinibe maruz kalan hastaların %32,6’sı ve referans 
+tedavileri (plasebo veya en iyi mevcut tedavi) kullananların %23,2’sinde bildirilmiştir. Derece 
+3-4 olayların sıklığı ruksolitinib veya referans tedavilerle tedavi edilen hastalar için benzerdir 
+(%3,1’e karşı %4,7). Tedavi sırasında kanama olayları görülen hastaların çoğu morarma 
+bildirmiştir (%65,3). Morarma olayları referans tedavilere kıyasla ruksolitinib kullanan 
+hastalarda daha sık bildirilmiştir (%11,6’ya karşı %21,3). İntrakranial kanama ruksolitinibe 
+maruz kalan hastaların %1’inde ve referans tedavilere maruz kalanların %0,9’unda 
+bildirilmiştir. Gastrointestinal kanama referans tedavilere maruz kalanların %3,1’ine kıyasla 
+ruksolitinibe maruz kalan hastaların %5’inde bildirilmiştir. Diğer kanama olayları (burun 
+kanaması, prosedür sonrası hemoraji ve hematüri gibi olaylar dahil) ruksolitinib ile tedavi 
+edilen hastaların %13,3 ve referans tedavilerle tedavi edilenlerin %10,3’ünde bildirilmiştir. 
+MF’de Faz 3 klinik çalışmaların uzun süreli takibi sırasında, kanama olaylarının kümülatif 
+sıklığı, takip süresindeki artışla orantılı olarak artmıştır. Morarma olayları en sık bildirilen 
+kanama olayları olmuştur (% 33,3). İntrakraniyal ve gastrointestinal kanama olayları sırasıyla 
+hastaların % 1,3 ve % 10,1’inde bildirilmiştir. 19 
+ PV hastalarındaki faz 3 çalışmaların karşılaştırmalı periyodunda kanama olayları (intrakranial 
+ve gastrointestinal kanama, morarma ve diğer kanama olaylarını içerir) ruksolitinib ile tedavi 
+edilen hastaların %16,8’inde, RESPONSE çalışmasında en iyi mevcut tedavi alan hastaların 
+%15,3’ünde ve RESPONSE 2 çalışmasında en iyi mevcut tedavi alan hastaların %12’sinde 
+bildirilmiştir. Morarma, ruksolitinib ile tedavi edilen hastaların %10,3’ünde, RESPONSE 
+çalışmasında en iyi mevcut tedavi alan hastaların %8,1’inde ve RESPONSE 2 çalışmasında 
+en iyi mevcut tedavi alan hastaların %2,7’sinde bildirilmiştir. Ruksolitinib uygulanan 
+hastalarda herhangi bir intrakranial kanama ya da gastrointestinal hemoraji olayı 
+bildirilmemiştir. Ruksolitinib ile tedavi edilen bir hasta bir adet derece 3 kanama olayı 
+yaşamıştır (prosedür sonrası kanama); hiçbir derece 4 kanama bildirilmemiştir. Diğer kanama 
+olayları (burun kanaması, prosedür sonrası hemoraji, dişeti kanaması dahil), ruksolitinib ile 
+tedavi edilen hastaların %8,7’sinde, RESPONSE çalışmasında en iyi mevcut tedavi alan 
+hastaların %6,3’ünde ve RESPONSE 2 çalışmasında en iyi mevcut tedavi alan hastaların 
+%6,7’sinde bildirilmiştir. 
+PV'deki Faz-3 çalışmalarının uzun süreli takibi sırasında, kanama olaylarının kümülatif sıklığı 
+takip süresindeki artışla orantılı olarak artmıştır. Morarma olayları, en çok sık bildirilen 
+kanama olaylarıdır (% 17,4). Kafa içi ve gastrointestinal kanama olayları sırasıyla hastaların 
+% 0,3 ve % 3,5'inde rapor edilmiştir. 
+ 
+Faz 3 akut GvHD çalışmasının karşılaştırmalı döneminde, ruksolitinib ve mevcut en iyi tedavi  
+kollarındaki hastaların sırasıyla %25,0 ve %22,0’sinde kanama olayları rapor edilmiştir. 
+Kanama olaylarının alt grupları genellikle tedavi kolları arasında benzer olmuştur: morarma 
+olayları (ruksolitinibte %5,9’a karşı mevcut en iyi tedavi kolunda %6,7), gastrointestinal 
+olaylar (%9,2’ye karşı %6,7) ve diğer kanama olayları (%13,2’ye karşı %10,7). İntrakraniyal 
+kanama olayları mevcut en iyi tedavi kolundaki hastaların %0.7’sinde rapor edilirken ve 
+ruksolitinib kolunda hiçbir hastada rapor edilmemiştir. 
+ 
+Faz 3 kronik GvHD çalışmasının karşılaştırmalı döneminde, ruksolitinib ve mevcut en iyi 
+tedavi kollarındaki hastaların sırasıyla %11,5 ve %14,6’sında kanama olayları rapor 
+edilmiştir. Kanama olaylarının alt grupları genellikle tedavi kolları arasında benzer olmuştur: 
+morarma olayları (ruksolitinibde %4,2’ye karşı mevcut en iyi tedavi kolunda %2,5), 
+gastrointestinal olaylar (%1,2’ye karşı %3,2) ve diğer kanama olayları (%6,7’ye karşı %10,1). 
+Her iki tedavi kolunda da intrakraniyal kanama olayı bildirilmemiştir. 
+Enfeksiyonlar 
+Faz 3 pivotal çalışmalarda hastaların %1’inde derece 3 veya 4 idrar yolu enfeksiyonu, 
+%4,3’ünde herpes zoster ve %1’inde tüberküloz bildirilmiştir. Faz 3 klinik çalışmalarda sepsis 
+hastaların %3’ünde bildirilmiştir. Ruksolitinib ile tedavi edilen hastaların uzun süreli takibi, 
+zaman içinde sepsis oranında artış yönünde bir eğilim olmadığını göstermiştir.  
+PV hastalarında yapılan Faz 3 çalışmalarının randomize periyodunda, bir (% 0,5) CTCAE 
+derece 3 idrar yolu enfeksiyonu bildirilmiş, herhangi bir derece 4 idrar yolu enfeksiyonu 
+bildirilmemiştir. Herpes zoster oranı PV (% 4,3) hastaları ile MF (% 4,0) hastaları arasında 
+benzer olmuştur. PV hastaları arasında CTCAE derece 3 post-herpetik nevralji ile ilgili bir 
+rapor söz konusu olmuştur. Referans tedavilerde hastaların %1.6’sına kıyasla ruksolitinib ile 
+tedavi edilen hastaların % 0,5’inde pnömoni bildirilmiştir. Ruksolitinib kolundaki hiçbir hasta 
+sepsis veya tüberküloz bildirmemiştir. 
+PV’de Faz 3 çalışmalarının uzun süreli takibi sırasında sıklıkla bildirilen enfeksiyonlar idrar 
+yolu enfeksiyonları (% 11,8), herpes zoster (% 14,7) ve pnömoni (% 7,1) olmuştur. Hastaların 
+% 0,6’sında sepsis bildirilmiştir. Uzun süreli takipte hiçbir hasta tüberküloz bildirmemiştir. 20 
+ Faz 3 akut GvHD çalışmasında, karşılaştırmalı dönemde , mevcut en iyi tedavi kolundaki 
+hastaların %10,7’sine (derece ≥3, %6,0) kıyasla ruksolitinib kolundaki hastaların %9,9’unda 
+(derece ≥3, %3,3) idrar yolu enfeksiyonları bildirilmiştir. Mevcut en iyi tedavi kolunda %24,0 
+(derece ≥3, %10,0) ile karşılaştırıldığında, ruksolitinib kolundaki hastaların %28,3’ünde 
+(derece ≥3, %9,3) CMV enfeksiyonları bildirilmiştir. Mevcut en iyi tedavi kolundaki 
+hastaların %8,7’sine (derece ≥3, %6,0) kıyasla ruksolitinib kolundaki hastaların %12,5’inde 
+(derece ≥3, %11,1) sepsis olayları bildirilmiştir. BK virüsü enfeksiyonu sadece ruksolitinib 
+kolunda, bir derece 3 olayı olan 3 hastada rapor edilmiştir. Ruksolitinib ile tedavi edilen 
+hastaların uzun süreli takipleri  sırasında, hastaların %17,9’unda (derece ≥3, %6,5) idrar yolu 
+enfeksiyonları ve hastaların %32,3’ünde (derece ≥3, %11,4) CMV enfeksiyonları 
+bildirilmiştir. Organ tutulumlu CMV enfeksiyonu çok az hastada görülmüştür; Sırasıyla dört, 
+iki ve bir hastada CMV koliti, CMV enteriti ve herhangi bir derecedeki CMV gastrointestinal 
+enfeksiyonu bildirilmiştir. Herhangi bir derecedeki septik şok dahil sepsis olayları hastaların 
+%25,4’ünde (derece ≥3, %21,9) rapor edilmiştir. 
+ 
+Faz 3 kronik GvHD çalışmasında, karşılaştırmalı dönemde , ruksolitinib kolundaki hastaların 
+%8,5’inde (derece ≥3, %1,2) idrar yolu enfeksiyonları rapor edilirken, bu oran mevcut en iyi 
+tedavi kolunda %6,3’tür (derece ≥3, %1,3). BK virüsü enfeksiyonu mevcut en iyi tedavi 
+kolunda %1,3’e kıyasla ruksolitinib kolundaki hastaların %5,5’inde (derece ≥3, %0,6) 
+bildirilmiştir. CMV enfeksiyonları ruksolitinib kolundaki hastaların %9,1’inde (derece ≥3, 
+%1,8), BAT kolundaki hastaların ise %10,8’inde (derece ≥3, %1,9) bildirilmiştir. Mevcut en 
+iyi tedavi kolundaki hastaların %6,3’üne (derece ≥3, %5,7) kıyasla ruksolitinib kolundaki 
+hastaların %2,4’ünde (derece ≥3, %2,4) sepsis olayları bildirilmiştir. Ruksolitinib ile tedavi 
+edilen hastaların uzun süreli takipleri  sırasında, hastaların sırasıyla %9,3’ünde (derece ≥3, 
+%1,3) ve %4,9’unda (derece ≥3, %0,4) idrar yolu enfeksiyonları ve BK virüsü enfeksiyonları 
+bildirilmiştir. Hastaların sırasıyla %8,8’inde (derece ≥3, %1,3) ve %3,5’inde (derece ≥3, 
+%3,5) CMV enfeksiyonları ve sepsis olayları bildirilmiştir. 
+Lipaz yükselmesi 
+RESPONSE çalışmasının randomize periyodunda, lipaz değerlerinde kötüleşme, kontrol 
+koluna kıyasla ruksolitinib kolunda daha yüksek olup bunun ana nedeni 1. derece yükselmeler 
+arasındaki farklar olmuştur (% 18,2’ye karşı % 8,1). Derece ≥ 2 yükselmeler tedavi kolları 
+arasında benzer bulunmuştur. RESPONSE 2’de, sıklıklar ruksolitinib ve kontrol kolu arasında 
+karşılaştırılabilir olmuştur (% 10,8’e karşı % 8). Faz 3 PV çalışmalarının uzun süreli takibi 
+sırasında hastaların % 7,4 ve % 0,9’u derece 3 ve derece 4 lipaz değerlerinde yükselme 
+bildirmiştir. Bu hastalarda yüksek lipaz değerleri ile eşzamanlı pankreatit belirti ve 
+semptomları bildirilmemiştir. 
+MF’de yapılan faz 3 çalışmalarda, COMFORT-I ve COMFORT-II çalışmalarında kontrol 
+kollarında sırasıyla % 16,6 ve % 14,0 ile karşılaştırıldığında ruksolitinib kollarındaki 
+hastaların % 18,7 ve % 19,3’ünde yüksek lipaz değerleri bildirilmiştir. Lipaz değerleri 
+yükselmiş hastalarda, eş zamanlı pankreatit belirti ve semptomları bildirilmemiştir. 
+Faz 3 akut GvHD çalışmasının karşılaştırmalı döneminde , mevcut en iyi tedavi kolundaki 
+hastaların %12,5’ine kıyasla ruksolitinib kolundaki hastaların %19,7’sinde yeni veya 
+kötüleşmiş lipaz değerleri rapor edilmiştir; karşılık gelen derece 3 (%3,1’e karşı %5,1) ve 
+derece 4 (%0’a karşı %0,8) artışlar benzerdir. Ruksolitinib ile tedavi edilen hastaların uzun 
+süreli takipleri  sırasında, hastaların %32,2’sinde artmış lipaz değerleri bildirilmiştir; Derece 3 
+ve 4, hastaların sırasıyla %8,7 ve %2,2’sinde bildirilmiştir. 
+ 
+Faz 3 kronik GvHD çalışmasının karşılaştırmalı döneminde , mevcut en iyi tedavi kolundaki 
+hastaların %23,5’ine kıyasla ruksolitinib kolundaki hastaların %32,1’inde yeni veya 21 
+ kötüleşmiş lipaz değerleri rapor edilmiştir; karşılık gelen derece 3 (%10,6’ya karşı %6,2) ve 
+derece 4 (%0,6’ya karşı %0) artışlar benzerdir. Ruksolitinib ile tedavi edilen hastaların uzun 
+süreli takipleri  sırasında, hastaların %35,9’unda lipaz değerlerinde artış bildirilmiştir; Derece 
+3 ve 4, hastaların sırasıyla %9,5 ve %0,4’ünde gözlemlenmiştir. 
+Artmış sistolik kan basıncı 
+Faz 3 pivotal klinik çalışmalarda, en az bir vizitte kontrol ile tedavi edilen hastaların 
+%19,5’ine kıyasla hastaların %31,5’inde sistolik kan basıncında başlangıca göre 20 mmHg 
+veya daha fazla bir artış kaydedilmiştir. COMFORT-I çalışmasında, sistolik kan basıncında  
+başlangıca göre ortalama artış ruksolitinib ile 0-2 mmHg iken, plasebo kolunda 2-5 mmHg 
+azalma görülmüştür. COMFORT-II çalışmasında, ortalama değerler ruksolitinib ile tedavi 
+edilen ve kontrol ile tedavi edilen hastalar arasında küçük bir fark göstermiştir. 
+PV hastalarındaki pivot çalışmaların randomize periyodunda, ortalama sistolik kan basıncı 
+ruksolitinib kolunda 0,65 mmHg yükselirken BAT kolunda 2 mmHg düşüş olmuştur. 
+Pediyatrik hastalar 
+GvHD’li 12 ila <18 yaşları arasındaki toplam 20 hasta güvenlilik açısından analiz edilmiştir: 
+REACH2 çalışmasında 9 hasta (ruksolitinib kolunda 5 ve mevcut en iyi tedavi kolunda 4) ve 
+REACH3 çalışmasında 11 hasta (ruksolitinib kolunda 4 ve mevcut en iyi tedavi kolunda 7 
+hasta). Adölesanlarda ve yetişkinlerde gözlemlenen benzer maruziyete dayanarak, günde iki 
+kez 10 mg dozunda önerilen ruksolitinibin güvenliliği, sıklık ve şiddet açısından benzerdir.  
+ 
+Geriyatrik popülasyon  
+65 yaş üstü olup ruksolitinib ile tedavi edilen, REACH2 çalışmasında toplam 29 hasta ve 
+REACH3’te 25 hasta güvenlilik açısından analiz edilmiştir. Genel olarak, yeni güvenlilik 
+endişeleri tanımlanmamıştır ve 65 yaş üstü hastalardaki güvenlilik profili genellikle 18-65 
+yaşındaki hastalarınkiyle uyumludur. 
+Şüpheli advers reaksiyonların raporlanması 
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem 
+taşımaktadır. Raporlama yapılması, ilacın yarar / risk dengesinin sürekli olarak izlenmesine 
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli  advers reaksiyonu Türkiye 
+Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir. (www.titck.gov.tr; e- 
+posta: tufam@titck.gov.tr; tel: 0 800 314 00 08; faks: 0 312 218 35 99) 
+4.9 Doz aşımı ve tedavisi 
+JAKAVI ile doz aşımları için bilinen bir antidot bulunmamaktadır. 200 mg’a kadar tek dozlar, 
+kabul edilebilir akut tolerabilite ile verilmiştir. Önerilenden daha yüksek tekrarlı dozlar 
+lökopeni, anemi ve trombositopeni dahil artmış miyelosüpresyon ile ilişkilendirilmiştir. 
+Uygun destekleyici tedavi verilmelidir. 
+Hemodiyalizin ruksolitinibin eliminasyonunu artırması beklenmemektedir. 
+5. FARMAKOLOJİK ÖZELLİKLER 
+5.1 Farmakodinamik özellikler 
+Farmakoterapötik grubu: Antineoplastik ilaçlar, Protein kinaz inhibitörleri, Janus-İlişkili 
+Kinaz inhibitörü 
+ATC kodu: L01EJ01 22 
+ Etki mekanizması 
+Ruksolitinib, Janus İlişkili Kinazlar (JAKs) JAK1 ve JAK2’in selektif bir inhibitörüdür (IC 50 
+değerleri JAK1 ve JAK2 enzimleri için sırasıyla 3,3 nM ve 2,8 nM). Bunlar, hematopoez ve 
+immün fonksiyon açısından önemli olan bir dizi sitokininin ve büyüme faktörünün 
+sinyallemesine aracılık ederler.  
+MF ve PV, disregüle JAK1 ve JAK2 sinyallemesi ile ilişkili olduğu bilinen miyeloproliferatif 
+bir neoplazmadır (MPN). Bu disregülasyonun temelinde, JAK-STAT yolağını aktive eden 
+dolaşımdaki sitokinlerin artmış düzeyinin, JAK2V617F gibi fonksiyon kazandırıcı 
+mutasyonların ve negatif regülatör mekanizmaların etkisizleşmesinin yattığına inanılmaktadır. 
+MF hastaları JAK2V617F mutasyon durumu fark etmeksizin disregüle JAK sinyallemesi 
+gösterirler. PV hastalarının >%95’inde JAK2’de (V617F veya ekson 12) aktive edici 
+mutasyonlar bulunmuştur. 
+Ruksolitinib, JAK-STAT sinyallemesini ve hematolojik malignitelerin sitokine bağımlı hücre 
+modellerinde hücre proliferasyonunu inhibe eder. Ayrıca JAK2V617F mutasyonu eksprese 
+ettiği için sitokinden bağımsız hale gelen Ba/F3 hücrelerinin proliferasyonunu, 80-320 nM 
+aralığındaki IC 50 değerleri ile inhibe eder.  
+JAK-STAT sinyal yolakları, GvHD patogenezi için önemli olan çeşitli immün hücre tiplerinin 
+gelişimi, proliferasyonu ve aktivasyonunun düzenlenmesinde rol oynar. 
+Farmakodinamik etkiler 
+Ruksolitinib, sağlıklı gönüllülerin, MF ve PV hastalarının tam kanlarında sitokinin 
+indüklediği STAT3 fosforilasyonunu inhibe eder. Ruksolitinib, doz uygulandıktan 2 saat 
+sonra STAT3 fosforilasyonunda maksimal inhibisyon sağlamış, gerek sağlıklı gönüllülerde 
+gerekse miyelofibrozis hastalarında bu değer 8 saatte başlangıç düzeylerine yakın değerlere 
+dönerek ana bileşik ya da aktif metabolitlerde birikme olmadığına işaret etmiştir. 
+Miyelofibrozisli hastalarda TNF alfa, IL-6, ve CRP gibi, konstitüsyonel semptomlarla ilişkili 
+enflamatuvar belirteçlerde başlangıçtaki yükselmeler, ruksolitinib ile tedavi sonrasında 
+düşmüştür. Miyelofibrozisli hastalar zaman içinde ruksolitinib tedavisinin farmakodinamik 
+etkilerine refrakter hale gelmemiştir.  Benzer şekilde, PV hastaları da başlangıçta enflamatuvar 
+belirteçlerde yükselmeler ile başvurmuşlardır ve bu belirteçler ruksolitinib ile tedavi 
+sonrasında azalmıştır.  
+Sağlıklı gönüllülerde kapsamlı bir QT çalışmasında, 200 mg supraterapötik dozlara kadarki 
+tek dozlarda ruksolitinib verilmesinin QT/QTc uzatıcı etkisine dair bir belirti bulunamamıştır. 
+Bu da ruksolitinibin kardiyak repolarizasyon üzerinde bir etkisi olmadığına işaret etmiştir. 
+Klinik etkililik ve güvenlilik 
+Miyelofibrozis  
+MF (Primer MF, Polisitemi Vera Sonrası MF ya da Esansiyel Trombositemi Sonrası MF) 
+hastalarında iki randomize faz 3 çalışma gerçekleştirilmiştir (COMFORT-I ve COMFORT-
+II). İki çalışmada da hastalarda kot kavsi altında en az 5 cm ele gelen splenomegali ve 
+Uluslararası Çalışma Grubu (IWG) Konsensüs Kriterlerine göre orta-2 veya daha yüksek risk 
+kategorisi söz konusudur. JAKAVI başlangıç dozunda trombosit sayısı esas alınmıştır. 
+Trombosit sayıları ≤100.000/mm3 olan hastalar COMFORT çalışmalarına kayıt için uygun 
+değildir. Ancak başlangıç trombosit sayıları ≥50.000 ve <100.000/mm3 olan 69 hasta, MF 
+hastalarında (Primer MF, Polisitemi Vera sonrası MF ya da Esansiyel Trombositemi sonrası 
+MF) bir Faz Ib açık etiketli, doz belirleme çalışması olan EXPAND çalışmasına dahil 
+edilmiştir.  23 
+ COMFORT-I, mevcut tedaviye dirençli ya da bu tedaviler için aday olamayan 309 hastanın 
+dahil edildiği, çift kör, randomize, plasebo kontrollü bir çalışmadır. Hastalara JAKAVI ya da 
+plasebo uygulanmıştır. Birincil etkililik sonlanım noktası, 24. haftada manyetik rezonans 
+görüntüleme (MR) ya da bilgisayarlı tomografi (BT) ile görüntülemede dalak hacminde 
+başlangıca göre ≥%35 küçülme elde eden hastaların oranıdır.  
+İkincil sonlanım noktaları dalak hacminde başlangıca göre ≥%35 azalmanın korunduğu süre, 
+toplam semptom skorunda ≥%50 azalma olan hastaların oranı, başlangıçtan 24. haftaya kadar 
+toplam semptom skorlarında değişiklikler (modifiye MF Semptom Değerlendirme Formu 
+[MFSAF] v2.0 günlüğü ile ölçülen) ve genel sağkalımı içermiştir. 
+COMFORT-II, 219 hasta ile yürütülen açık etiketli, randomize bir çalışmadır. Hastalar 2:1 
+oranında ruksolitinib ya da mevcut en iyi tedaviye randomize edilmiştir. Mevcut en iyi tedavi 
+araştırmacı tarafından hasta bazında seçilmiştir. Mevcut en iyi tedavi kolunda hastaların 
+%47’si hidroksiüre ve %16’sı glukokortikoidler almıştır. Birincil etkililik sonlanım noktası, 
+48. haftada MR ya da BT ile görüntülemede dalak hacminde başlangıca göre ≥%35 küçülme 
+elde eden hastaların oranı olmuştur.  
+İkincil sonlanım noktaları 24. haftada dalak hacminde başlangıca göre ≥%35 azalmaya ulaşan 
+hastaların oranı ve dalak hacminde başlangıca göre ≥%35 azalmanın korunduğu süreyi 
+içermiştir.  
+COMFORT-I ve COMFORT-II çalışmalarında hasta başlangıç demografik özellikleri ve 
+hasta karakteristikleri tedavi kolları arasında benzerdir. 
+Tablo 6  COMFORT-I’de 24. haftada ve COMFORT-II’de 48 haftada (ITT) dalak 
+boyutunda başlangıca göre ≥%35 küçülme elde eden hastaların yüzdeleri  
+ COMFORT-I COMFORT-II 
+ JAKAVI  
+(N=155) Plasebo  
+(N=153) JAKAVI  
+(N=144) Mevcut En İyi 
+Tedavi  
+(N=72) 
+Zaman noktaları 24. hafta 48. hafta 
+Dalak boyutu ≥%35 
+küçülen hasta sayısı (%) 65 (41,9) 1 (0,7) 41 (28,5) 0 
+%95 güven aralıkları  34,1-50,1 0-3,6 21,3-36,6 0-5 
+P değeri  < 0,0001 < 0,0001 
+JAK2V617F mutasyonunun veya hastalık alt tipinin (primer MF, polisitemi vera sonrası MF, 
+esansiyel trombositemi sonrası MF) varlığına veya yokluğuna bakılmaksızın, JAKAVI 
+grubundaki hastaların anlamlı derecede daha büyük bir oranı, dalak hacminde başlangıca göre 
+≥%35 küçülme elde etmiştir.  
+ 
+ 
+ 
+ 
+ 
+ 24 
+  
+Tablo 7            JAK mutasyon durumuna göre dalak hacminde başlangıca göre ≥%35 
+azalma yaşayan hasta yüzdesi (güvenlilik seti) 
+  COMFORT-I COMFORT-II 
+  JAKAVI Plasebo JAKAVI En iyi mevcut 
+tedavi 
+JAK 
+mutasyon 
+durumu Pozitif 
+(N=113) 
+n (%) Negatif 
+(N=40) 
+n (%) Pozitif 
+(N=121) 
+n (%) Negatif 
+(N=27) 
+n (%) Pozitif 
+(N=110) 
+n (%) Negatif 
+(N=35) 
+n (%) Pozitif 
+(N=49) 
+n (%) Negatif 
+(N=20) 
+n (%) 
+Dalak hacmi 
+≥%35 azalmış 
+gönüllü sayısı 
+(%) 54 
+(47,8) 11 
+(27,5) 1 (0,8) 0 36 
+(32,7) 5 (14.3) 0 0 
+Zaman 
+noktası 24 hafta sonra 48 hafta sonra 
+JAKAVI tedavisinde en az 24 hafta süreyle dalak yanıtını (≥%35 azalma) sürdürme olasılığı 
+COMFORT-I çalışmasında %89 ve COMFORT-II çalışmasında %87 olmuştur; COMFORT-
+II çalışmasında hastaların %52’si dalak yanıtlarını en az 48 hafta süreyle korumuştur. 
+COMFORT-I çalışmasında JAKAVI grubundaki hastaların %45,9’unda toplam semptom 
+skorunda (MFSAF günlüğü v2.0 kullanılarak ölçülen) 24. haftada başlangıca göre ≥%50 
+düzelme elde edilirken bu oran plasebo grubunda %5,3 bulunmuştur (ki-kare testi kullanılarak 
+p<0,0001). 24. haftada Avrupa Kanser Araştırma ve Tedavi Organizasyonu (EORTC) QLQ 
+C30 ile ölçülen global sağlık durumundaki ortalama değişiklik JAKAVI için +12,3 iken 
+plasebo için -3,4 olmuştur (p<0,0001).  
+COMFORT-I çalışmasında 34,3 aylık medyan takip sonrasında ölüm oranı, ruksolitinib 
+koluna randomize edilen hastalarda %27,1 iken plaseboya randomize edilen hastalarda %35.1 
+bulunmuştur; HR 0,687; %95 GA 0,459-1,029; p=0,0668.  
+COMFORT-I çalışmasında 61,7 aylık medyan takip sonrasında ölüm oranı, ruksolitinib 
+koluna randomize edilen hastalarda %44,5 (155 hastanın 69’u) iken plaseboya randomize 
+edilen hastalarda %53,2 (154 hastanın 82’si) bulunmuştur. Ruxolitinib kolunda plaseboya 
+göre ölüm riskinde % 31'lik bir azalma olmuştur (HR 0,69; % 95 GA 0,50-0,96; p = 0,025). 
+COMFORT-II çalışmasında 34,7 aylık medyan takip sonrasında ölüm oranı, ruksolitinib 
+koluna randomize edilen hastalarda %19,9 iken mevcut en iyi tedaviye (BAT) randomize 
+edilen hastalarda %30,1 olmuştur; HR 0,48; %95 GA 0,28-0,85; p=0,009. Her iki çalışmada 
+da ruksolitinib kolunda belirlenen daha düşük ölçüm oranlarının ağırlıklı sebebi, post-
+polisitemi vera ve post-esansiyel trombositemi alt gruplarında elde edilen sonuçlar olmuştur.  
+COMFORT-II çalışmasında 55,9 aylık medyan takip sonrasında ölüm oranı, ruksolitinib 
+koluna randomize edilen hastalarda %40,4 (146 hastanın 59’u) iken mevcut en iyi tedaviye 
+(BAT) randomize edilen hastalarda %47,9 (73 hastanın 35’i) olmuştur; Ruksolitinib kolunda 
+plaseboya göre ölüm riskinde % 33'lik bir azalma olmuştur (HR 0,67; % 95 GA 0,44-1,02; p 
+= 0,062). 
+ 
+ 25 
+ Polisitemi vera  
+Avrupa LeukemiaNet (ELN) uluslararası çalışma grubunun yayımlamış olduğu kriterlere göre 
+tanımlanan, hidroksiüre tedavisine dirençli veya yanıt vermeyen 222 PV hastası ile 
+randomize, açık etiketli, aktif kontrollü bir faz 3 çalışma (RESPONSE) gerçekleştirilmiştir. 
+110 hasta ruksolitinib koluna ve 112 hasta BAT koluna randomize edilmiştir. JAKAVI’nin 
+başlangıç dozu günde iki kez 10 mg olmuştur. Dozlar daha sonra tolerabilite ve etkililik esas 
+alınarak, maksimum doz günde iki kez 25 mg olacak şekilde hasta bazında düzenlenmiştir. 
+BAT araştırmacı tarafından hasta bazında seçilmiştir ve şunları içermiştir: hidroksiüre 
+(%59,5), interferon/pegile interferon (%11,7), anagrelid (%7,2), pipobroman (%1,8) ve 
+gözlem (%15,3).  
+Başlangıçtaki demografik özellikler ve hastalık karakteristikleri iki tedavi kolu arasında 
+karşılaştırılabilir niteliktedir. Medyan yaş 60’tır (aralık 33-90 yaş). Ruksolitinib kolundaki 
+hastalarda medyan 8,2 yıl PV tanısı mevcuttur ve bu hastalar önceden medyan olarak yaklaşık 
+3 yıl süreyle hidroksiüre tedavisi almıştır. Çoğu hastaya (>%80) tarama öncesindeki son 24 
+haftada en az iki flebotomi uygulanmıştır. Uzun süreli sağkalım ve hastalık 
+komplikasyonlarının insidansına yönelik karşılaştırmalı veri mevcut değildir. 
+Birincil bileşik sonlanım noktasını hem flebotomiye uygunluğun (HCT kontrolü) olmayışı 
+hem de 32. haftada dalak büyüklüğünde başlangıca göre ≥%35 azalma durumuna ulaşan 
+hastaların oranı oluşturmuştur. Flebotomiye uygunluk, doğrulanan HCT >%45 şeklinde, yani 
+başlangıçta elde edilen HCT’ye kıyasla en az 3 yüzde puanı fazla ya da doğrulanan HCT 
+>%48 şeklinde (hangisinin daha düşük olduğuna bağlı olarak) tanımlanmıştır. Başlıca ikincil 
+sonlanım noktaları arasında birincil sonlanım noktasına ulaşan ve 48. haftada progresyonsuz 
+kalan hastaların yanı sıra 32. haftada tam hematolojik remisyona ulaşan hastaların oranı yer 
+almıştır.  
+Çalışma birincil amacını karşılamıştır ve JAKAVI grubundaki hastaların daha yüksek bir 
+oranı birincil bileşik sonlanım noktasına ve bileşenlerinin her birine ulaşmıştır. BAT (%0,9) 
+ile karşılaştırıldığında, JAKAVI ile tedavi edilen hastaların anlamlı derecede daha çoğu (%23) 
+bir birincil yanıta ulaşmıştır (p<0,0001). Hematokrit kontrolü JAKAVI kolundaki hastaların 
+%60’ında elde edilirken bu oran BAT kolunda %18,8 bulunmuştur ve dalak hacminde ≥%35 
+azalma, JAKAVI kolundaki hastaların %40’ında, BAT kolundaki hastaların ise %0,9’unda 
+elde edilmiştir (Şekil 1).  
+Ayrıca her iki ikincil sonlanım noktası da karşılanmıştır. Tam hematolojik remisyona ulaşan 
+hastaların oranı JAKAVI kolunda %23,6 iken BAT kolunda %8,0 bulunmuştur (p=0,0013) ve 
+48. haftada kalıcı birincil yanıta ulaşan hastaların oranı JAKAVI ile %20 ve BAT ile %0,9 
+olmuştur (p<0,0001).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 26 
+ Şekil 1 32. haftada birincil sonlanım noktasına ve birincil sonlanım noktasının 
+bileşenlerine ulaşan hastalar  
+ 
+Semptom yükü, 14 sorudan oluşan MPN-SAF toplam semptom skoru (TSS) elektronik hasta 
+günlüğü kullanılarak değerlendirilmiştir. 32. haftada ruksolitinib ile tedavi edilen hastaların 
+sırasıyla %49’unda ve %64’ünde TSS-14 ve TSS-5’te ≥%50 azalma elde edilirken BAT 
+tedavisindeki hastalarda bu oranlar sadece %5 ve %11 olmuştur. 
+Tedavi faydası algısı, Hasta Global Değişiklik İzlenimi (PGIC) anketi kullanılarak 
+ölçülmüştür. BAT ile tedavi edilen hastaların %19’u karşısında ruksolitinib ile tedavi edilen 
+hastaların %66’sı, tedavi başladıktan sonra henüz 4 hafta gibi kısa bir sürede bir düzelme 
+bildirmiştir. Tedavi faydası algısında düzelme 32. haftada da ruksolitinib ile tedavi edilen 
+hastalarda daha yüksek olmuştur (%78 karşısında %33). 
+RESPONSE çalışmasında, randomizasyonun ardından 80. haftada ve 256. haftada yanıtın 
+kalıcılığına yönelik ek analizler gerçekleştirilmiştir. 32. haftada birincil yanıt elde edilen 25 
+hastadan 3 hasta 80. hafta itibariyle, 6 hasta 256. hafta itibariyle progrese olmuştur.  Yanıtın 
+32. haftadan sonra 80. hafta ve 256. haftaya kadar devam etme olasılığı sırasıyla % 92 ve % 
+74 olmuştur (bkz. Tablo 4).  
+Tablo 8 RESPONSE çalışmasında birincil yanıtın kalıcılığı 
+ Hafta 32 Hafta 80 Hafta 256 
+32. haftada ulaşılan 
+birincil yanıt *  
+n/N (%) 25/110 (% 23) n/a n/a 
+Birincil yanıtı 
+sürdüren hastalar n/a 22/25 19/25 
+Birincil yanıtı 
+sürdürme olasılığı n/a % 92 % 74 27 
+ * Birincil yanıt bileşik sonlanım noktası kriterlerine göre: flebotomi uygunluğunun olmaması 
+(HCT kontrolü) ve dalak hacminde başlangıca göre ≥ % 35 azalma. 
+n/a : uygulanamaz 
+Hidroksiüreye dirençli olan ya da hidroksiüreyi tolere edemeyen fakat palpabl splenomegalisi 
+olmayan 149 PV hastasında ikinci bir randomize, açık etiketli, aktif kontrollü, faz 3b çalışma 
+(RESPONSE 2) gerçekleştirilmiştir. 28. haftada HCT kontrolü (flebotomiye uygunluğun 
+olmaması) elde edilen hastaların oranı şeklinde tanımlı birincil sonlanım noktası 
+karşılanmıştır (JAKAVI kolunda %62,2 karşısında BAT kolunda %18,7). 28. haftada tam 
+hematolojik remisyona ulaşan hastaların oranı şeklinde tanımlı ana ikincil sonlanım noktasına 
+da ulaşılmıştır (JAKAVI kolunda %23 karşısında BAT kolunda %5,3). 
+Graft-versus-host hastalığı 
+İki randomize faz 3, açık etiketli, çok merkezli çalışmada allojenik hematopoietik kök hücre 
+transplantasyonundan (alloSCT) sonra akut GvHD (REACH2) ve kronik GvHD’si 
+(REACH3) olan ve kortikosteroidlere/veya diğer sistemik tedavilere yetersiz yanıt veren 12 
+yaş ve üzerindeki hastalarda JAKAVI incelenmiştir. JAKAVI’nin başlangıç dozu günde iki 
+kez 10 mg olmuştur.  
+ 
+Akut graft-versus-host hastalığı 
+REACH2’de, kortikosteroidlere derece II ila IV dirençli, akut GvHD’li 309 hasta, JAKAVİ 
+veya mevcut en iyi tedaviye 1:1 oranında randomize edilmiştir. Hastalar, randomizasyon 
+sırasında akut GvHD’nin ciddiyetine göre katmanlandırılmıştır. Kortikosteroid refrakterliği, 
+hastalarda en az 3 gün sonra progresyon olduğunda, 7 gün sonra yanıt alınamadığında veya 
+kortikosteroid azaltımının başarısız olduğu durumlar olarak belirlenmiştir. 
+ 
+Mevcut en iyi tedavi(BAT), araştırmacı tarafından hasta bazında seçilmiştir ve anti-timosit 
+globulin (ATG), ekstrakorporeal fotoferez (ECP), mezenkimal stromal hücreler (MSC), düşük 
+doz metotreksat (MTX), mikofenolat mofetil (MMF), mTOR inhibitörleri (everolimus veya 
+sirolimus), etanersept veya infliksimabi içermiştir. 
+ 
+JAKAVI veya mevcut en iyi tedaviye ek olarak, hastalar anti-enfektif tıbbi ürünler ve 
+transfüzyon desteği dahil olmak üzere standart allojenik kök hücre nakli destekleyici bakım 
+almış olabilir. Ruksolitinib, enstitülerin kılavuzlarına göre kortikosteroidlerin ve/veya 
+siklosporin veya takrolimus gibi kalsinörin inhibitörlerinin (CNI’ler) ve/veya topikal veya 
+inhale kortikosteroid tedavilerinin sürekli kullanımına eklenmiştir. 
+ 
+Akut GvHD için kortikosteroidler ve kalsinörin inhibitörlerinin (CNI)  dışında önceden bir 
+sistemik tedavi almış hastalar çalışmaya dahil edilmeye uygun bulunmuştur. Kortikosteroidler 
+ve kalsinörin inhibitörlerine (CNI) ek olarak, akut GvHD için önceki sistemik tıbbi ürünün, 
+yaygın tıbbi uygulamaya göre yalnızca akut GvHD profilaksisi için kullanılması durumunda 
+(yani akut GvHD teşhisinden önce başlamışsa), devamına izin verilmiştir. 
+ 
+Mevcut en iyi tedavi alan hastalar, aşağıdaki kriterleri karşılamaları halinde 28. günden sonra 
+ruksolitinibe geçebilmişlerdir: 
+• 28. günde birincil sonlanım noktası yanıt tanımı (tam yanıt [CR] veya kısmi yanıt [PR]) 
+karşılanamamışsa; VEYA 
+• Sonrasında yanıtı kaybetmişse ve akut GvHD için yeni ek sistemik immünosupresif 
+tedavi gerektiren progresyon, karışık yanıt veya yanıtsızlık kriterlerini karşılamışsa, VE 
+• Kronik GvHD belirtileri/semptomları olmamışsa. 28 
+  
+Tedavi yanıtı olan hastalar için 56. gün vizitinden sonra JAKAVI’nin azaltılmasına izin 
+verilmiştir. 
+ 
+Başlangıçtaki demografik özellikler ve hastalık özellikleri, iki tedavi kolu arasında dengelidir. 
+Medyan yaş 54’tür (12 ila 73 yaş). Çalışmaya %2,9 adölesan, %59,2 erkek ve %68,9 beyaz 
+hasta dahil edilmiştir. Kayıtlı hastaların çoğunda altta yatan malign hastalık vardır. 
+ 
+Akut GvHD’nin şiddeti, JAKAVI ve mevcut en iyi tedavi kollarının sırasıyla %34 ve 
+%34’ünde derece II, %46 ve %47’sinde derece III ve %20 ve %19’unda derece IV olmuştur. 
+ 
+JAKAVI ve mevcut en iyi tedavi kollarında hastaların kortikosteroidlere yetersiz yanıt 
+vermesinin nedenleri i) 7 günlük kortikosteroid tedavisinden sonra yanıt elde edilememesi 
+(sırasıyla %46,8 ve %40,6), ii) kortikosteroid azaltımında başarısızlık (sırasıyla %30,5 ve 
+%31,6) veya iii) 3 günlük tedaviden sonra hastalığın ilerlemesidir (sırasıyla %22,7 ve %27,7). 
+ 
+Tüm hastalar arasında akut GvHD’de en sık tutulan organlar deri (%54,0) ve alt 
+gastrointestinal sistem (%68,3) olmuştur. Mevcut en iyi tedavi koluna kıyasla (deri: %47,7 ve 
+karaciğer: %16,1) JAKAVI kolundaki daha fazla hastada deri (%60,4) ve karaciğeri (%23,4) 
+içeren akut GvHD söz konusu olmuştur. 
+ 
+En sık kullanılan önceki sistemik akut GvHD tedavileri kortikosteroidler+kalsinörin 
+inhibitörleridir (CNI) (JAKAVI kolunda %49,4 ve mevcut en iyi tedavi kolunda %49,0). 
+ 
+Birincil sonlanım noktası, daha erken bir progresyon için ek sistemik tedavilere gerek 
+duymadan her bir kolda tam yanıt (CR) veya kısmi yanıt (PR) olan hastaların oranı olarak 
+tanımlanan 28. günde genel yanıt oranı (ORR), karışık yanıt veya Harris ve ark. (2016) 
+kriterlerine göre araştırmacı değerlendirmesine dayalı yanıtsızlıktır.  
+ 
+Kritik ikincil sonlanım noktası, 28. günde bir tam yanıt (CR) veya kısmi yanıt (PR) elde eden 
+ve 56. günde bir tam yanıt (CR) veya kısmi yanıt (PR) sürdüren hastaların oranıdır. 
+ 
+REACH2 birincil hedefine ulaşmıştır. Tedavinin 28. gününde genel yanıt oranı (ORR), 
+mevcut en iyi tedavi koluna (%39,4) kıyasla JAKAVI kolunda (%62,3) daha yüksektir. 
+Tedavi kolları arasında istatistiksel olarak anlamlı bir fark söz konusu olmuştur (katmanlı 
+Cochrane-Mantel-Haenszel testi p<0.0001, iki taraflı, OR: 2,64; %95 GA: 1,65, 4,22). 
+ 
+Ayrıca mevcut en iyi tedavi koluna (%19,4) kıyasla JAKAVI kolunda (%34,4) tam yanıt 
+verenlerin oranı daha yüksek bulunmuştur. 
+ 
+28. günde genel yanıt oranı (ORR), JAKAVI kolunda derece II GvHD için %76, derece III 
+GvHD için %56 ve derece IV GvHD için %53 ve mevcut en iyi tedavi kolunda derece II 
+GvHD için %51, derece III GvHD için %38 ve derece IV GvHD için %23 olmuştur. 
+ 
+JAKAVI ve mevcut en iyi tedavi kollarında 28. günde yanıt vermeyenlerin sırasıyla %,2,6 ve 
+%8,4’ü hastalık progresyonuna sahiptir. 
+ 
+Genel sonuçlar Tablo 9’da sunulmuştur. 
+ 
+ 29 
+ Tablo 9  REACH2'de 28. günde genel yanıt oranı 
+ JAKAVI  
+N=154 Mevcut En Iyi Tedavi 
+N=155 
+ n (%) %95 GA n (%) %95 GA 
+Genel yanıt  96 (62,3) 54,2; 70,0 61 (39,4) 31,6; 47,5 
+OR (%95 GA)  2,64 (1,65 ; 4,22) 
+p-değeri (2-taraflı) p <0.0001  
+Tam yanıt  53 (34,4) 30 (19,4) 
+Kısmi yanıt  43 (27,9) 31 (20,0) 
+ 
+Çalışma, birincil veri analizine dayalı olarak kilit ikincil sonlanım noktasına ulaşmıştır (veri 
+kesim tarihi: 25-Temmuz-2019). 56. günde kalıcı genel yanıt oranı, JAKAVI kolunda %39,6 
+(%95 GA: 31,8, 47,8) ve mevcut en iyi tedavi kolunda %21,9 (%95 GA: 15,7, 29,3) olmuştur. 
+İki tedavi kolu arasında istatistiksel olarak anlamlı bir fark söz konusu olmuştur (OR: 2,38; 
+%95 GA: 1,43, 3,94; p=0.0007). Kısmi yanıtı olan hastaların oranı, mevcut en iyi tedavi 
+kolunda %16,1’e karşılık JAKAVI kolunda %26,6 olmuştur. Genel olarak, başlangıçta 
+mevcut en iyi tedavi koluna randomize edilen 49 hasta (%31,6) JAKAVI koluna geçmiştir. 
+ 
+Kronik graft-versus-host hastalığı 
+REACH3’te, kortikosteroide orta veya şiddetli dirençli, kronik GvHD’si olan 329 hasta, 
+JAKAVI veya mevcut en iyi tedaviye 1:1 oranında randomize edilmiştir. Hastalar, 
+randomizasyon sırasında kronik GvHD’nin ciddiyetine göre katmanlandırılmıştır. 
+Kortikosteroid refrakterliği, hastalarda 7 gün sonra yanıtsızlık veya hastalık progresyonu 
+olduğunda veya hastalık 4 hafta boyunca sebat ettiğinde veya kortikosteroid azaltımının iki 
+kez başarısız olduğu durumlar olarak belirlenmiştir. 
+ 
+Mevcut en iyi tedavi, araştırmacı tarafından hasta bazında seçilmiştir ve ekstrakorporeal 
+fotoferez (ECP), düşük doz metotreksat (MTX), mikofenolat mofetil (MMF), mTOR 
+inhibitörleri (everolimus veya sirolimus), infliksimab, rituksimab, pentostatin, imatinib veya 
+ibrutinibi içermiştir. 
+ 
+JAKAVI veya mevcut en iyi tedaviye ek olarak, hastalar anti-enfektif tıbbi ürünler ve 
+transfüzyon desteği dahil olmak üzere standart allojenik kök hücre nakli destekleyici bakım 
+alabilmişlerdir. Siklosporin veya takrolimus gibi kortikosteroidlerin ve kalsinörin 
+inhibitörlerinin (CNI) sürekli kullanımına ve topikal veya inhale kortikosteroid tedavilerine 
+enstitülerin kılavuzlarına göre izin verilmiştir. 
+ 
+Kronik GvHD için kortikosteroidler ve/veya kalsinörin inhibitörleri dışında önceden bir 
+sistemik tedavi almış hastalar çalışmaya dahil edilmeye uygun bulunmuştur. 
+Kortikosteroidlere ve kalsinörin inhibitörlerine ek olarak, kronik GvHD için önceki sistemik 
+tıbbi ürünün, yaygın tıbbi uygulamaya göre yalnızca kronik GvHD profilaksisi için 
+kullanılması durumunda (yani kronik GvHD teşhisinden başlamışsa), devamına izin 
+verilmiştir. 
+ 
+Mevcut en iyi tedavi alan hastalar, 7. döngü 1. günde ve sonrasında hastalık progresyonu, 
+karışık yanıt veya değişmeyen yanıt, mevcut en iyi tedaviye toksisite veya kronik GvHD 
+alevlenmesi nedeniyle ruksolitinibe geçebilmişlerdir.  
+ 
+Kortikosteroidleri ve herhangi bir sistemik tedaviyi azaltmadan aktif akut GvHD’den kronik 
+GvHD’ye geçiş yapan hastalardaki etkililik bilinmemektedir. Donör lenfosit infüzyonundan 30 
+ (DLI) sonra akut veya kronik GvHD’de ve steroid tedavisini tolere edemeyen hastalardaki 
+etkililik bilinmemektedir. 
+ 
+7. döngü 1. gün vizitinden sonra JAKAVI’nin azaltılmasına izin verilmiştir. 
+ 
+Başlangıçtaki demografik özellikler ve hastalık özellikleri, iki tedavi kolu arasında dengelidir. 
+Medyan yaş 49’dur (12 ila 76 yaş). Çalışmaya %3,6 adölesan, %61,1 erkek ve %75,4 beyaz 
+hasta dahil edilmiştir. Kayıtlı hastaların çoğunda altta yatan malign hastalık söz konusu 
+olmuştur.  
+ 
+Kortikosteroide dirençli kronik GvHD’nin tanı anındaki ciddiyeti, JAKAVI ve mevcut en iyi 
+tedavi kollarında sırasıyla %41 ve %45 orta ve %59 ve %55 şiddetli olmak üzere iki tedavi 
+kolu arasında dengelidir. 
+ 
+JAKAVI ve mevcut en iyi tedavi kolundaki hastaların kortikosteroidlere yetersiz yanıtı, i) 1 
+mg/kg/gün prednizon eşdeğerlerinde kortikosteroid tedavisinden en az 7 gün sonra yanıtsızlık 
+(sırasıyla %37,6 ve %44,5) veya hastalık progresyonu ii) 0,5 mg/kg/gün dozunda 4 hafta 
+sonra hastalığın kalıcılığı (%35,2 ve %25,6) veya iii) kortikosteroid bağımlılığı (sırasıyla 
+%27,3 ve %29,9) ile karakterize edilmiştir.  
+ 
+Tüm hastalar arasında, mevcut en iyi tedavi kolunda %69 ve %41’e kıyasla, JAKAVI kolunda 
+%73 ve %45’inde deri ve akciğer tutulumu söz konusu olmuştur. 
+ 
+En sık kullanılan önceki sistemik kronik GvHD tedavileri sadece kortikosteroidler (JAKAVI 
+kolunda %43 ve mevcut en iyi tedavi kolunda %49) ve kortikosteroidler+kalsinörin 
+inhibitörleridir(CNI) (JAKAVI kolunda %41 hasta ve mevcut en iyi tedavi kolunda %42). 
+ 
+Birincil sonlanım noktası, daha erken bir progresyon için ek sistemik tedavilere gerek 
+duymadan her bir kolda tam yanıt(CR) veya kısmi yanıtı(PR) olan hastaların oranı olarak 
+tanımlanan 7. döngünün 1. gününde genel yanıt oranı (ORR), karışık yanıt veya Ulusal Sağlık 
+Enstitüleri (NIH) kriterlerine göre yanıtsızlık olmuştur. 
+ 
+Kritik bir ikincil sonlanım noktası, aşağıdaki olayların en erken görülenini içeren, bileşik bir 
+olaya kadar geçen zaman sonlanım noktası olan başarısızlık olmadan sağkalımdır (FFS): i) 
+altta yatan hastalığın relapsı veya nüksetmesi veya altta yatan hastalığa bağlı ölüm, ii) relaps 
+dışı mortalite veya iii) kronik GvHD için başka bir sistemik tedavinin eklenmesi veya 
+başlatılması. 
+ 
+REACH3 birincil hedefine ulaşmıştır. Birincil analiz sırasında (veri kesim tarihi: 08 Mayıs 
+2020), 24. haftadaki genel yanıt oranı (ORR), mevcut en iyi tedavi koluna (%25,6) kıyasla 
+JAKAVI kolunda (%49,7) daha yüksektir. Tedavi kolları arasında istatistiksel olarak anlamlı 
+bir fark söz konusu olmuştur (katmanlı Cochrane-Mantel- Haenszel testi p<0.0001, iki taraflı, 
+OR: 2,99; %95 GA: 1,86, 4,80). Sonuçlar Tablo 10’da sunulmuştur. 
+ 
+JAKAVI ve mevcut en iyi tedavi kollarında 7. döngü 1. günde yanıt vermeyenlerin sırasıyla 
+%2.4 ve %12.8’i hastalık progresyonuna sahiptir. 
+ 
+ 
+ 
+ 31 
+ Tablo 10  REACH3’te 7. döngü 1. günde genel yanıt oranı 
+ JAKAVI  
+N=165 Mevcut En Iyi Tedavi 
+N=164 
+ n (%) %95 GA n (%) %95 GA 
+Genel yanıt  82 (49,7) 41,8; 57,6 42 (25,6) 19,1; 33,0 
+OR (%95 GA)  2,99 (1,86 ; 4,80) 
+p-değeri (2-taraflı) p<0.0001  
+Tam yanıt  11 (6,7) 5 (3,0) 
+Kısmi yanıt  71 (43,0) 37 (22,6) 
+ 
+Kritik ikincil sonlanım noktası olan başarısızlık olmadan sağkalım(FFS), mevcut en iyi 
+tedaviye karşı JAKAVI’de istatistiksel olarak anlamlı %63’lük risk azalması göstermiştir 
+(HR: 0,370; %95 GA: 0,268, 0,510. p<0.0001). 6. ayda, başarısızlık olmadan sağkalım(FFS) 
+olaylarının çoğu “kronik GvHD için başka bir sistemik tedavinin eklenmesi veya 
+başlatılması” olmuştur (bu olayın olasılığı sırasıyla JAKAVI ve mevcut en iyi tedavi kolları 
+için %13,4’e karşı %48,5 bulunmuştur). “Altta yatan hastalığın nüksetmesi” ve relaps dışı 
+mortalite sonuçları JAKAVI ve mevcut en iyi tedavi kollarında sırasıyla %2,46’ya karşı 
+%2,57 ve %9,19’a karşı %4,46 olmuştur. Yalnızca relaps dışı mortaliteye odaklanıldığında 
+tedavi kolları arasında kümülatif insidans farkı gözlemlenmemiştir. 
+ 
+Pediyatrik popülasyon 
+ 
+Avrupa İlaç Ajansı (EMA), MF ve PV tedavisi için pediyatrik popülasyonun tüm alt 
+gruplarında JAKAVI ile yapılan çalışmaların sonuçlarını sunma zorunluluğundan 
+vazgeçmiştir. GvHD pediyatrik hastalarda (12 yaş ve üzeri), JAKAVI’nin güvenliliği ve 
+etkililiği, randomize faz 3 REACH2 ve REACH3 çalışmalarından elde edilen kanıtlarla 
+desteklenmektedir (pediyatrik kullanım hakkında bilgi için bkz. Bölüm 4.2). REACH2’de, 28. 
+günde, ruksolitinib kolunda akut GvHD’li 4/5 adölesan hastada (3’ünde tam yanıt (CR) ve 
+1’inde kısmi yanıt(PR) söz konusu olmuştur) ve mevcut en iyi tedavi kolunda 3/4 adölesan 
+hastada (3’ünde tam yanıt (CR) söz konusu olmuştur) yanıtlar gözlemlenmiştir. REACH3’te, 
+ruksolitinib kolunda kronik GvHD’li 3/4 adölesan hastada (tümünde kısmi yanıt (PR) söz 
+konusu olmuştur) ve mevcut en iyi tedavi kolunda 2/8 adölesan hastada (her ikisinde de kısmi 
+yanıt (PR) söz konusu olmuştur) 7. döngü 1. günde yanıtlar gözlemlenmiştir. 
+5.2 Farmakokinetik özellikler 
+Genel özellikler 
+Emilim  
+Biyofarmasötik Sınıflandırma Sistemine göre ruksolitinib yüksek permeabilite, yüksek 
+çözünürlük ve hızlı dağılım karakteristiklerine sahip bir Sınıf 1 moleküldür. Klinik 
+çalışmalarda, ruksolitinib, oral uygulamadan sonra hızla emilmekte, maksimal plazma 
+konsantrasyonuna (C maks) dozdan yaklaşık 1 saat sonra ulaşılmaktadır. İnsanda ruksolitinibin 
+oral emilimi ≥ %95’tir. Ortalama ruksolitinib C maks ve toplam maruziyet (EAA) değerleri, 5 
+ila 200 mg tek doz aralığında orantılı olarak artmıştır. Yüksek oranda yağ içeren bir öğünle 
+birlikte uygulandığında ruksolitinibin farmakokinetiğinde klinik olarak anlamlı bir değişiklik 
+olmamıştır. Yüksek oranda yağ içeren öğünle verildiğinde C maks orta düzeyde azalma 
+göstermiş (%24), ortalama EAA ise neredeyse hiç değişmemiştir (%4 artış). 32 
+ Dağılım 
+MF ve PV hastalarında kararlı durumda görünür dağılım hacmi yaklaşık 75 litredir. Klinik 
+olarak anlamlı ruksolitinib konsantrasyonlarında, in vitro ortamda plazma proteinlerine 
+bağlanma yaklaşık %97 olup ağırlıklı olarak albümine bağlanır. Sıçanlarda tam vücut 
+otoradyografi çalışması, ruksolitinibin kan-beyin bariyerini geçmediğini göstermiştir. 
+Biyotransformasyon 
+Ruksolitinib CYP2C9’un ilave katkısı ile başlıca CYP3A4 ile metabolize edilir (>%50). Ana 
+bileşik, insanlarda baskın  olup dolaşımdaki ilaçla ilişkili maddelerin yaklaşık %60’ını 
+oluşturmaktadır. Plazmada ana EAA'nın %25 ve %11'ini temsil eden iki ana ve aktif 
+metabolit mevcuttur. Bu metabolitler, ana bileşiğin JAK ilişkili farmakolojik aktivitesinin 
+yarısı ila beşte birine sahiptir. Tüm aktif metabolitlerin toplamı, ruksolitinibin toplam 
+farmakodinamik etkisine %18 katkı yapmaktadır. İn vitro çalışmalara göre, ruksolitinib, 
+klinik olarak anlamlı konsantrasyonlarda CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, 
+CYP2D6 ya da CYP3A4’ü inhibe etmez ve CYP1A2, CYP2B6 ya da hepatik CYP3A4’ün 
+kuvvetli indükleyicisi değildir. In vitro çalışmalara göre ruksolitinib P-gp ve meme kanserine 
+direnç proteini inhibe edebilir. 
+Eliminasyon: 
+Ruksolitinib, büyük oranda metabolizma yoluyla elimine edilir. Ruksolitinibin ortalama 
+eliminasyon yarılanma ömrü yaklaşık 3 saattir. Sağlıklı erişkin gönüllülerde [14C] işaretli 
+ruksolitinibin tek oral dozundan sonra eliminasyon başlıca metabolizma yoluyla olmuş, 
+radyoaktivitenin %74’ü idrarda ve %22’si feçeste tespit edilmiştir. Değişmemiş ilaç, atılan 
+toplam radyoaktivitenin %1’inden azını oluşturmuştur.  
+Doğrusallık/doğrusal olmayan durum:  
+Tek ve çoklu doz çalışmalarında doz oransallığı gösterilmiştir. 
+Hastalardaki karakteristik özellikler 
+Vücut yüzey alanı, yaş, cinsiyet veya ırkın etkileri 
+Sağlıklı gönüllülerde yapılan çalışmalara göre, cinsiyet ve ırka göre ruksolitinib 
+farmakokinetiğinde anlamlı herhangi bir farklılık gözlenmemiştir. MF hastalarında yapılan bir 
+popülasyon farmakokinetik değerlendirmesinde, oral klirens ile hastanın yaşı veya ırkı 
+arasında herhangi bir ilişki görülmemiştir. Öngörülen oral klirens, MF hastalarında hastalar 
+arası %39 değişkenlik ile kadınlarda 17,7 L/saat ve erkeklerde 22,1 L/saat olmuştur. PV 
+hastalarında klirens 12,7 L/saat olup hastalar arası değişkenlik %42 bulunmuş ve PV 
+hastalarında yapılan bir popülasyon farmakokinetik değerlendirmesine göre oral klirens ile 
+cinsiyet, hastanın yaşı veya ırkı arasında herhangi bir ilişki görülmemiştir. Klirens, akut 
+GvHD’li hastalarda 10.4 L/saat ve kronik GvHD’li hastalarda 7,8 L/saat olup, hastalar 
+arasında %49 değişkenlik göstermiştir. GvHD hastalarında bir popülasyon farmakokinetik 
+değerlendirmesine dayalı olarak, oral klirens ile cinsiyet, hastanın yaşı veya ırkı arasında 
+herhangi bir ilişki görülmemiştir. Düşük vücut yüzey alanına sahip GvHD hastalarında 
+maruziyet artmıştır. Vücut yüzey alanı 1 m2, 1,25 m2 ve 1,5 m2 olan hastalarda öngörülen 
+ortalama maruziyet (EAA) tipik bir yetişkinden (1,79 m2) sırasıyla %31, %22 ve %12 daha 
+yüksek olmuştur. 
+ 
+Pediyatrik popülasyon 
+MF ve PV’li 18 yaşından küçük pediyatrik hastalarda JAKAVI’nin farmakokinetiği 
+belirlenmemiştir. Akut veya kronik GvHD’li adölesan hastalarda gözlenen farmakokinetik 
+profil, genel hasta popülasyonu ile benzer olmuştur (bkz. Bölüm 5.1, “Pediyatrik 33 
+ popülasyon”). Ruksolitinib, 12 yaşın altındaki akut veya kronik GvHD’li pediyatrik 
+hastalarda henüz değerlendirilmemiştir. 
+Böbrek yetmezliği: 
+Böbrek fonksiyonu hem Böbrek Hastalığında Diyet Modifikasyonu (MDRD) hem de üriner 
+kreatinin kullanılarak tespit edilmiştir. Ruksolitinibin 25 mg’lık tek dozundan sonra 
+ruksolitinibe maruziyet çeşitli derecede böbrek yetmezliği olan hastalar ile normal böbrek 
+fonksiyonuna sahip olanlar arasında benzer olmuştur. Ancak ruksolitinib metabolitlerinin 
+plazma EAA değerleri, böbrek yetmezliğinin şiddeti arttıkça yükselme eğilimi göstermiş, bu 
+durum şiddetli böbrek yetmezliği olan hastalarda belirginlik kazanmıştır. Artmış metabolit 
+maruziyetinin bir güvenlilik endişesi teşkil edip etmediği bilinmemektedir. Şiddetli böbrek 
+yetmezliği ve son dönem böbrek yetmezliği hastaları için doz planında düzenleme 
+önerilmektedir (bkz. Bölüm 4.2). Dozların sadece diyaliz günlerinde uygulanması metabolit 
+maruziyetini azaltır fakat başta diyaliz arası günlerde olmak üzere farmakodinamik etkiyi de 
+azaltmaktadır. 
+Karaciğer yetmezliği: 
+Çeşitli derecelerde karaciğer yetmezliği olan hastalarda 25 mg’lık tek bir ruksolitinib dozunun 
+uygulanmasının ardından; ruksolitinibin ortalama EAA değeri,hafif, orta ve şiddetli karaciğer 
+yetmezliği olan hastalarda normal karaciğer fonksiyonu olan hastalara kıyasla  sırasıyla %87, 
+%28 ve %65 oranlarda artmıştır.Child-Pugh skorlarına dayalı karaciğer yetmezliği derecesi 
+ile açık bir ilişki bulunmamaktadır. Sağlıklı kontrollere kıyasla karaciğer yetmezliği olan 
+hastalarda terminal eliminasyon yarı ömrü uzamıştır (2,8 saate karşılık 4,1-5,0 saat). 
+Karaciğer yetmezliği olan MF ve PV hastaları için dozun %50 oranında azaltılması 
+önerilmektedir (bkz. Bölüm 4.2). 
+GvHD ile ilişkili olmayan karaciğer yetmezliği olan GvHD hastalarında, ruksolitinibin 
+başlangıç dozu %50 oranında azaltılmalıdır. 
+5.3 Klinik öncesi güvenlilik verileri 
+Ruksolitinib; güvenlilik farmakolojisi, tekrarlı doz toksisitesi, genotoksisite, üreme toksisitesi 
+çalışmalarında ve bir karsinojenisite çalışmasında değerlendirilmiştir. Tekrarlı doz 
+çalışmalarında ruksolitinibin farmakolojik etkisi ile ilişkili hedef organlar kemik iliğini, 
+periferik kanı ve lenfoid dokuları içermiştir. Köpeklerde, genellikle immün sistemin 
+baskılanmasına bağlı enfeksiyonlar gözlenmiştir. Köpek telemetri çalışmasında kan 
+basıncında, kalp hızında artışların eşlik ettiği tersine düşüşler ve sıçanlarda solunum 
+çalışmasında dakika hacminde bir tersine düşüş görülmüştür. Köpek ve sıçan çalışmalarındaki 
+advers olmayan düzeydeki marjlar (bağlanmamış C maks bazında), günde iki kez 25 mg 
+şeklindeki maksimum önerilen insan dozundan sırasıyla 15,7 ve 10,4 kat fazladır. 
+Ruksolitinibin nörofarmakolojik etkilerine yönelik bir değerlendirmede herhangi bir etki 
+görülmemiştir. 
+Jüvenil sıçan çalışmalarında ruksolitinib uygulaması büyüme ve kemik ölçümleri üzerinde 
+etkili olmuştur. ≥5 mg/kg/gün dozlarında tedaviye postnatal 7. günde (insanda yenidoğan ile 
+karşılaştırılabilir)  başlandığında ve ≥ 15 mg/kg/gün dozlarında tedaviye postnatal 14 veya 21. 
+günlerde (insanda 1-3 yaş bebek ile karşılaştırılabilir) başladığında azalmış kemik büyümesi 
+gözlenmiştir. ≥30 mg/kg/gün dozlarında tedaviye postnatal 7. günde başlandığında sıçanlarda 
+kırıklar ve erken terminasyon gözlemlenmiştir. Bağlanmamış EAA değerine dayanılarak, 
+postnatal 7. gün gibi erken bir dönemde tedavi edilen jüvenil sıçanlarda NOAEL (advers 
+etkinin gözlenmediği düzey) düzeyinde maruziyet, günde iki kez 25 mg dozunda erişkin 
+hastalarda görülenin 0.3 katı olurken günde iki kez 25 mg dozunda erişkin hastalarda 
+görülenin sırasıyla 1.5 ve 13 katı maruziyetlerde azalmış kemik büyümesi ve kırıklar 34 
+ görülmüştür. Etkiler, tedavi postnatal dönemde daha erken başlandığında genellikle daha 
+şiddetli olmuştur. Kemik gelişimi dışında jüvenil sıçanlarda ruksolitinibin etkisi yetişkin 
+sıçanlardakine benzer olmuştur. Jüvenil sıçanlar, yetişkin sıçanlara göre ruksolitinib 
+toksisitesine karşı daha hassastır. 
+Ruksolitinib, hayvan çalışmalarında implantasyon sonrası kayıp artışı ve fetal ağırlıklarda 
+düşüşler ile ilişkilendirilmiştir. Sıçanlarda ve tavşanlarda teratojenik etki yönünde bir kanıt 
+söz konusu olmamıştır. Diğer yandan, en yüksek klinik doz ile karşılaştırıldığında maruziyet 
+marjları düşük bulunmuştur ve dolayısıyla sonuçlar, insanlar açısından sınırlı öneme sahiptir. 
+Fertilite üzerinde herhangi bir etki gözlenmemiştir. Prenatal ve postnatal gelişim çalışmasında 
+gestasyon süresinde hafif uzama, implantasyon bölgelerinin sayısında azalma ve doğurulan 
+yavru sayısında düşüş gözlenmiştir. Yavru hayvanlarda ilk beden ağırlıkları ortalamasında 
+azalma ve kısa süreli azalmış ortalama beden ağırlığı artışı gözlenmiştir. Emziren sıçanlarda 
+ruksolitinib ve/veya metabolitleri, maternal plazma konsantrasyonlarının 13 katı daha yüksek 
+bir konsantrasyonla süte atılmıştır. Ruksolitinib, mutajenik ya da klastojenik etki 
+göstermemiştir. Ruksolitinib, Tg.rasH2 transjenik fare modelinde karsinojenik etki 
+göstermemiştir. 
+6. FARMASÖTİK ÖZELLİKLER 
+6.1 Yardımcı maddelerin listesi 
+Mikrokristalin selüloz  
+Magnezyum stearat 
+Koloidal susuz silika  
+Sodyum nişasta glikolat (Tip A) 
+Hidroksipropilselüloz (300-600 cps) 
+Povidon K30 
+Laktoz monohidrat (sığır kaynaklı)     
+6.2 Geçimsizlikler 
+Yeterli veri yoktur. 
+6.3 Raf ömrü 
+36 ay 
+6.4 Saklamaya yönelik özel tedbirler 
+25°C’nin altındaki oda sıcaklığında saklayınız. 
+6.5 Ambalajın niteliği ve içeriği 
+PVC/PCTFE blister ambalajlar 
+Ambalaj büyüklüğü: 14, 56 ve 168 tablet içeren blister ambalaj 
+Blister ambalajlar ısıyla kapatılabilir lakla kaplanmış alüminyum folyoyla kapatılmıştır 
+6.6 Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler 
+Kullanılmamış olan ürünler ya da atık materyaller “Tıbbi Atıkların Kontrolü Yönetmeliği” ve 
+“Ambalaj Atıklarının Kontrolü Yönetmeliği”ne uygun olarak imha edilmelidir.  
+ 
+ 35 
+ 7. RUHSAT SAHİBİ 
+Novartis Sağlık, Gıda ve Tarım Ürünleri San. ve Tic. A.Ş.  
+Kavacık / Beykoz / İstanbul 
+8. RUHSAT NUMARASI:  
+2019/239 
+9. İLK RUHSAT TARİHİ / RUHSAT YENİLEME TARİHİ: 
+İlk ruhsat tarihi: 08.05.2019 
+Ruhsat yenileme tarihi: 09.06.2020 
+10. KÜB’ÜN YENİLEME TARİHİ: 
+ 

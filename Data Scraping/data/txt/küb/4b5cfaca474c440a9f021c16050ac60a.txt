@@ -1,0 +1,617 @@
+ 
+1 
+ KISA ÜRÜN BİLGİSİ  
+ 
+ Bu ilaç ek izlemeye tabidir. Bu üçgen yeni güvenlilik bilgisinin hızlı olarak belirlenmesini 
+sağlayacaktır. Sağlık mesleği mensuplarının şüpheli advers reaksiyonları TÜFAM’a bildirmeleri 
+beklenmektedir. Bakınız Bölüm “4.8 Şüpheli adver s reaksiyonların  raporlanması”.  
+ 
+ 
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI  
+ 
+OCTAPLEX 500 IU infüzyonluk çözelti hazırlamak için toz ve çözücü  
+Steril  
+ 2. KALİTATİF VE KANTİTATİF BİLEŞİM  
+ 
+Etkin madde:  
+OCTAPLEX , insan protrombin kompleksi içeren infüzyonluk çözelti tozu ve  çözücüsü şeklinde 
+sunulm aktadı r.  
+ 
+OCTAPLEX ’in nominal olarak  içeriği  şöyledir : 
+ 
+Bileşenin  ismi OCTAPLEX  500 IU  
+Miktar/ 20 ml flakon (IU)  OCTAPLEX  
+Enjeksiyonluk su ile 
+çözüldükten sonraki 
+miktar  (IU/ml)  
+Etkin maddeler  
+İnsan koagülasyon faktörü II  280 - 760 14 - 38 
+İnsan koagülasyon faktörü VII  180 - 480 9 - 24 
+İnsan koagülasyon faktörü IX  500 25 
+İnsan koagülasyon faktörü X  360 - 600 18 - 30 
+Diğer aktif maddeler  
+Protein C  260 - 620 13 - 31 
+Protein S  240 - 640 12 - 32 
+ 
+OCTAPLEX 500 IU için h er flakon daki toplam protein içeriği 260 -820 mg’dır. Ürün ün spesifik 
+aktivitesi ≥0.6 IU/mg proteindir ve faktör IX aktivitesi olarak ifade edilir.  
+ 
+Yardımcı Maddeler:  
+Sodyum   75-125 mg/flakon  
+Heparin   100-250 IU/  flakon (0.2 -0.5 IU/IU FIX’a karşılık gelir)  
+ 
+Yardım cı maddeler için 6.1.’e bakınız.  
+ 
+3. FARMASÖTİK FORM   
+ 
+İnfüzyonluk çözelti tozu ve çözücüsü.  
+Toz, mavimsi beyaz renktedir.  
+Çözücü , berrak  ve renksiz bir sıvıdır.  
+ 
+4. KLİNİK ÖZELLİKLER  
+ 
+4.1. Terapötik endikasyonlar  
+ 
+ 
+2 
+  Protrombin  kompleksi  koagülasyon  faktörl erinin kazanılmış eksikliklerinde (örneğin,  
+vitamin K antagonistleri ile tedavi nin veya vitamin K antagonistlerinin doz aşımının yol 
+açtığı eksiklikler ) ortaya çıkan ve eksikliğin hızla düzeltilmesinin gerekli olduğu 
+kanamaların tedavisi nde veya perioperat if kanama proflaksisi nde,  
+ 
+ Vitamin  K bağımlı koagülasyon faktörleri II ve X’un konjenital eksikliğinde , saflaştırılmış 
+spesifik koagülasyon faktör ürünlerinin mevcut olmadığı durumlarda , kanamaların 
+tedavisi nde ve perioperatif kanama proflaksisi nde endike dir. 
+ 
+4.2. Pozoloji ve uygulama şekli  
+ 
+Pozoloji, uygulama sıklığı ve süresi: Aşağıda sadece , dozlarla ilgili genel  bir kılavuz verilmiştir . 
+Tedavi , koagülasyon  bozuklukları alanında uzman bir doktorun gözetimi altında başlatılmalıdır. 
+Yerine koyma tedavisin in dozu ve süresi , bozukluğun şiddetine, kanamanın lokalizasyonuna, 
+kanama nın büyüklüğüne  ve hastanın klinik  durumuna bağlıdır.  
+ 
+Uygulamanın miktarı ve sıklığı , her hasta için bireysel olarak hesaplanmalıdır. Doz aralıkları , 
+protrombin kompleksinde yer al an farklı koagülasyon faktörlerinin farklı dolaşım yarılanma 
+ömürlerine (bkz. Bölüm 5.2) göre ayarlanmalıdır. Bireysel doz gerek lilikleri,  sadece , gereken  
+koagülasyon faktörlerinin her birinin plazma düzey inin veya protrombin kompleks düzeyleri için 
+global  testlerin (protrombin zamanı, INR) belirli aralıklarla tayinine  ve hastanın klinik durumunun 
+sürekli  olarak  izlenmesine göre tanımlanabilir.  
+ 
+Majör cerrahi girişimlerde , yerine koyma tedavisi nin, koagülasyon testleri ile çok kesin  şekilde 
+izlenme si zorun ludur (spesifik koagülasyon faktör testleri ve/veya protrombin kompleksi düzeyleri 
+ile ilgili global testler).  
+ 
+Vitamin K antagonistleri ile tedavi sırasında ortaya çıkan kanama lar ve kanamanın 
+perioperatif proflaksisi:  
+Doz, tedavi  öncesindeki  INR ve hed eflenen INR değerlerine bağlı olacaktır. Aşağıdaki tabloda , 
+farklı başlangıç INR düzeylerine göre, INR değerleri nin normalizasyonu (1 saat içinde ≤ 1.2) için 
+ihtiyaç duyulan yaklaşık dozlar (sulandırılmış ürünün ml/kg vücut ağırlığı (VA) ) verilmektedir.   
+ 
+Başlangıç INR  2-2.5 2.5-3 3-3.5 >3.5 
+Yaklaşık doz*  
+(ml OCTAPLEX/kg  VA) 0.9-1.3 1.3-1.6 1.6-1.9 >1.9 
+*Tek doz , 3.000 IU (120 ml OCTAPLEX) miktarını geçmemelidir . 
+ 
+Vitamin K antagonistlerinin indüklediği hemostaz bozukluğunun düzeltilmesi yaklaşık 6 -8 saat  
+sürer. Ancak, eş zamanlı uygulanan vitamin K’nın etkileri, genellikle  4-6 saat içinde ortaya çıkar. 
+Bu nedenle, vitamin K uygulandığı durumlarda , insan protrombin kompleksi ile tedavinin 
+tekrarlanmasına genellikl e ihtiyaç duyulmaz.  
+ 
+Bu öneriler ampirik ol duğu ndan  ve iyileş me ve etki süresi değiş ebileceğinden, tedavi sırasında INR 
+düzeylerinin izlenmesi şarttır.  
+ 
+Vitamin K bağımlı  koagülasyon faktörleri II ve X’un konjenital eksikliğinde , spesifik 
+koagülasyon faktör ü ürünlerinin  bulunmadığı  durumlarda , kanama ve perioperatif proflaksi : 
+Tedavi için gerekli doz hesabı, “1 IU faktör II veya X/kg vücut ağırlığı  uygulaması,  plazma faktör II 
+veya X aktivitelerini sırası ile 0,02 ve 0,017 IU/ml yükseltir” ampirik bulgusuna dayanır.  
+ 
+ 
+3 
+ Uygulanan bir spesifik faktörü n dozu , Uluslararası birim (I nterna tional  Unite (IU) ) olarak belirtilir. 
+Bu, her faktör için mevcut Dünya Sağlı Örgütü (WHO) standartları ile ilişkilidir. Spesifik bir 
+koagülasyon faktörünün plazma daki aktivitesi , ya yüzde olarak (normal plazmaya göre) vey a IU 
+olarak (spesifik koagülasyon faktörü için ul uslar arası  standar da göre) belirtilir.  
+ 
+1 IU k oagülasyon faktörü aktivitesi , 1 ml normal insan plazmasın daki mikta ra eşdeğerdir.  
+ 
+Örneğin, faktör X ’un gerekli dozunun hesaplanması , “1 IU faktör X/kg VA, plazma daki faktör X  
+aktivitesini 0 ,017 IU/ml yükseltir” ampirik bulgusuna dayanır. Gerekli d ozun hesabı aşağıdaki 
+formüle göre yapılır:  
+ 
+Gerekli ünite = vücut ağırlığı (kg) x istenen faktör X yükselmesi (IU/ml) x 60 
+ 
+60 (ml/kg) , tahmin edilen düzelmeye karşılık gelir.  
+ 
+Gerekli f aktör II dozu : 
+Gerekli ünite = vücut ağırlığı (kg) x istenen faktör II yükselmesi (IU/ml) x 50  
+ 
+Eğer bireysel düzelme biliniyorsa , hesaplama için o değer kullanılmalıdır.  
+ 
+Uygulama şekli:  
+OCTAPLEX intravenöz yolla uygulanmalıdır. İ nfüzyon hızı , başlangıçta , 1 ml/dk olmalı , daha 
+sonra 2 -3 ml/dk hızla devam edil melid ir. İnfüzyon aseptik teknik kullanılarak yapılmalıdır.  
+ 
+Özel popülasyonlar a ilişkin ek bilgiler:  
+Böbrek/Karaciğer yetmezliği:   
+OCTAPLEX ile yürütülen pivotal çalışmalara tüm yaş gruplarındaki erişkinler dahil edilmiştir. 
+OCTAPLEX doz şeması tüm hastalar için aynıdır ve başlangıç INR değerine dayanır. Böbrek ve 
+karaciğer yetmezliği olan hastalar için özel bir pozoloji verisi mevcut değildir.  
+ 
+Pediyatrik popülasyon : 
+OCTAPLE X’in pediyatrik popülasyonda kullanımı ile ilişkili bir veri mevcut değildir.  
+ 
+Geriyatrik popülasyon:   
+Tüm yaş gruplarındaki erişkinlerde yürütülen OCTAPLEX pivotal çalışmalarında doz şeması tüm 
+hastalar için aynıdır ve başlangıç INR değerine dayanır. Geri yatrik popülasyon için özel bir pozoloji 
+verisi bulunmamaktadır.   
+ 
+4.3. Kontrendikasyonlar  
+ 
+ Etkin madde veya Bölüm 6.1’de belirtilen yardımcı maddelerden herhangi birine karşı 
+hipersensitivite  
+ Heparine karşı bilinen alerji veya heparin tarafından indüklene n trombositopeni öyküsü  
+ IgA’ya karşı antikorların geliştiği bilinen IgA eksikliği bulunan kişiler  
+ 
+4.4. Özel kullanım uyarıları ve önlemleri  
+ 
+ 
+Virüs güven liliği 
+ 
+OCTAPLEX, insan plazmasından elde edilmektedir. İnsan plazmasından elde edilen ilaçlar, 
+ 
+4 
+ virüs ler ve teorik olarak varyant Creutzfeldt -Jacob (v -CJD) gibi, çeşitli hastalıklara yol 
+açabilen enfeksiyon yapıcı ajanlar içerebilirler. OCTAPLEX 'de varyant Creutzfeldt -Jacob 
+hastalığının bulaşma riski teorik olarak minimumken, klasik Creutzfeldt -Jacob has talığının 
+bulaşma riski hiçbir kanıtla desteklenmez. Alınan önlemlere rağmen, bu tür ürünler halen 
+potansiyel olarak hastalık bulaştırabilir.  
+ 
+Bu tip ürünlerin enfeksiyon yapıcı ajanları bulaştırma riski, plazma verenlerin belirli 
+virüslere önceden maruz k alıp kalmadığının izlenmesi, belirli virüs enfeksiyonlarının 
+halihazırda varlığının test edilmesi ve belirli virüslerin yok edilmesi ve/veya  
+inaktivasyonu ile azaltılmıştır. Bütün bu önlemlere rağmen, bu ürünler hala potansiyel 
+olarak hastalık bulaştırabil irler. Ayrıca, henüz bilinmeyen enfeksiyon yapıcı ajanların bu 
+ürünlerin içinde bulunma ihtimali mevcuttur.  
+ 
+HIV, HBV, HCV gibi zarflı virüsler ve HAV gibi zarflı olmayan virüsler için etkili 
+önlemlerin alınmasına dikkat edilmelidir. Parvovirüs B19 gibi za rflı olmayan virüslere karşı 
+alınan tedbirler sınırlı sayıda olabilir. Parvovirüs B19 enfeksiyonu, gebelikte (fetal 
+enfeksiyon) ve immün yetmezlik ya da kırmızı kan hücre üretiminde artış olan hastalarda 
+tehlikeli olabilir (hemolitik anemi gibi).  
+ 
+Doktor, bu ilacı hastaya reçete etmeden veya uygulamadan önce hastası ile risk ve 
+yararlarını tartışmalıdır.  
+ 
+Ayrıca;  
+OCTAPLEX kullanılması gerekiyorsa, hekim tarafından, hastalık yapıcı etkenlerin hastaya 
+bulaşmasını önlemek için uygun aşıların (Hepatit A, Hepat it B vb.) yaptırılması önerilebilir.  
+ 
+Hastalar açısından OCTAPLEX her uygulandığında, hastayla ürünün seri numarası arasındaki 
+bağlantının korunabilmesi için, ürünün adı ve seri numarası kaydedilmelidir.  
+ 
+Koagülasyon bozukluklarının tedavisi konusunda uzma n bir doktorun önerisi alınmalıdır.  
+ 
+Vitamin K bağımlı koagülasyon faktörlerinin kazanılmış eksikliklerinde (ör neğin,  vitamin K 
+antagonistleri ile yapılan tedavinin indüklemesi ile  ortaya çıkan ) OCTAPLEX , sadece, majör 
+kanama veya acil cerrahi müdahale gi bi protrombin kompleksi düzeylerinin hızla düzeltilmesinin 
+gerektiği durumlarda kullanılmalıdır. Diğer vakalarda, vitamin K antagonist inin dozunun  
+azaltılması  ve/veya vitamin K uygulanması genellikle yeterli olur.  
+ 
+Vitamin K antagonisti alan hastalarda al tta yatan bir hiperkoagülabilite durumu olabilir ve 
+protrombin kompleksi konsantresinin infüzyonu bu durumu arttırabilir.  
+ 
+Eğer alerjik veya anaflaktik tip te reaksiyonlar ortaya çıkarsa,  infüzyon derhal  durdurulmalıdır. Şok 
+durumunda şok için standart tıb bi tedavi uygulanmalıdır.  
+ 
+İnsan kanı veya plazma sından hazırlanan  ilaçların kullanılması nedeniyle olabilecek enfeksiyonları 
+engellemek için alınacak standart önlemler arasında , donörlerin seçimi, bireysel bağışların ve 
+plazma havuzlarının enfeksiyon içi n spesifik enfeksiyon markırları açısından taranması ve 
+virüslerin inaktivasyonu/uzaklaştırılması için etkili  üretim basamaklarının dahil edilmesi bulunur.  
+ 
+Tüm bu önlemlere rağmen, insan kanı veya plazma sından hazırlanan ilaçlar kullanıldığında , 
+enfek siyon yapıcı  ajanların bulaşma olasılığı tamamen önlenemez. Bu durum, bilinmeyen veya yeni 
+ortaya çıkan virüsler ve diğer patojenler  için de geçerlidir.   
+ 
+ 
+5 
+ Alınan önlemlerin insan bağışıklık yetmezliği  virüsü  (HIV), hepatiti B virüsü ( HBV ) ve hepatit C 
+virüsü (HCV ) gibi zarflı virüslere karşı etkili olduğu kabul edilmektedir. Bu önlemlerin , hepatit A 
+virüsü  (HAV ) ve parvovirüs B19 gibi zarfsız virüslere karşı etkisi  sınırlı olabilir. Parvovirüs B19 
+enfeksiyon u, gebe kadınlar (fötal enfeksiyon) ve immün eksikliğ i olan veya artmış eritropoezi 
+bulun an kişiler (ör neğin,  hemolitik anemi) için ciddi olabilir.  
+ 
+Konjenital veya  kazanılmış yetmezliği  olan hastalar insan protrombin kompleksi ile tedavi 
+edildiği nde, özellikle de tekrarlayan dozlar  uygulandığında,  tromboz veya dissemine intravasküler 
+koagülasyon riski vardır. İnsan protrombin kompleksi uygulanan hastalar, intravasküler 
+koagülasyon ve tromboz belirti ve bulguları açısından yakından izlenmelidir. Tromboembolik 
+komplikasyon riski nedeniyle, koroner kalp hastal ığı öyküsü olanlar, karaciğer hastaları, peri veya 
+post operatif dönemde bulunan hastalar, yeni doğanlar ve ya tromboembolik olay veya dissemine 
+intravasküler koagülasyon riski olan hastalar , insan protrombin kompleksi uygulandığı nda yakından 
+izlenmelidir. Bu durumların her birinde , tedavinin sağlayacağı potansiyel yarar ile komplikasyon 
+riski değerlendirilmelidir.   
+ 
+Yeni doğanlarda ki vitamin K eksikliğine bağlı perinatal kanamada OCTAPLEX kullanımı ile ilgili 
+bir veri mevcut değildir.  
+ 
+Vitamin K bağımlı fa ktörler den herhangi birinin  konjenital eksikliğinde, bulunması  halinde , 
+spesifik koagülasyon faktörü ürünü kullanılmalıdır.  
+ 
+Biyolojik tıbbi ürünlerin takip edilebilirliğinin sağlanması için uygulanan ürünün ticari ismi ve seri 
+numarası mutlaka hasta dosy asına kaydedilmelidir.  
+ 
+OCTAPLEX heparin içermektedir. Alerjik reaksiyonlara ve kanın pıhtılaşma sistemini 
+etkileyebilecek olan kan hücre sayısında düşmelere neden olabilir. Geçmişinde heparinle 
+indüklenmiş alerjik reaksiyonu olan hastaların heparin ihtiva  eden ilaçları kullanmaktan kaçınmaları 
+gerekir.  
+ 
+OCTAPLEX  500 IU,  her flakonda , 75 - 125 mg sodyum i çerir. Bu durum kontroll ü sodyum 
+diyetinde olan hastalar için göz önünde bulundurulmalıdır.  
+ 
+4.5. Diğer tıbbi ürünler ile etkileşim ler ve diğer etkileşim şekilleri  
+ 
+İnsan protrombin kompleksi ürünleri , vitamin K antagonistleri ile yapılan tedavinin etkilerini 
+antagonize eder , diğer ilaçlarla bilinen bir etkileşimi yoktur.  
+ 
+Biyolojik test ile etkileşimi:  
+Yüksek dozda insan protrombin kompleksi alan hastala rda, heparine duyarlı pıhtılaşma testleri 
+yapılırken, uygulanan ürünün bir bileşeni olan heparin mutlaka hesaba katılmalıdır.  
+ 
+Özel popülasyonlar a ilişkin ek bilgiler  
+ 
+Böbrek/Karaciğer yetmezliği:  
+OCTAPLEX pivotal çalışmaları tüm yaş gruplarındaki erişki nlerde yürütülmüştür. OCTAPLEX 
+etkileşmeleri ile ilgili olarak böbrek ve karaciğer yetmezliği olan hastalar için özel bir veri yoktur.  
+ 
+Geriyatrik popülasyon:  
+OCTAPLEX pivotal çalışmaları tüm yaş gruplarındaki erişkinlerde yürütülmüştür.  Özellikle 
+geriyat rik hastalar vitamin K antagonistleriyle tedavi edilmiş ve bu nedenle geri dönüş etkisi için 
+ 
+6 
+ OCTAPLEX’e ihtiyaç duymuştur. OCTAPLEX etkileşmeleri ile ilgili olarak geri yatrik popülasyon 
+için özel bir veri mevcut değildir.  
+ 
+Pediyatrik popülasyon : 
+OCTAPLEX’ in pediyatrik popülasyonda kullanımı ile ilişkili bir özel bir veri mevcut değildir.  
+ 
+4.6. Gebelik ve laktasyon  
+ 
+Genel tavsiye  
+Gebelik kategorisi: C 
+ 
+Çocuk doğurma potansiyeli bulunan kadınlar / Doğum kontrolü (Kontrasepsiyon)  
+İnsan protrombin kompleksinin insanda gebelikteki kullanımının güvenliliği bilinmemektedir.  
+ 
+Gebelik dönemi  
+Hayvanlar üzerinde yapılan çalış malar, gebelik /ve -veya/ embriyonal  /fetal geliş im /ve -veya/  doğum 
+/ve-veya/ doğum sonrası geliş im üzerindeki etkiler bakımından yetersizdir  (bkz. kısım 5.3). 
+İnsanlara yönelik potansiyel risk bilinmemektedir.  
+OCTAPLEX gerekli olmadıkça gebelik döneminde  kullanılmamalıdır.  
+ 
+Laktasyon dönemi  
+İnsan protrombin kompleksinin laktasyon döneminde kullanımının güvenliliği bilinmemektedir.  
+İnsan protro mbin kompleksi ürünleri laktasyon  döneminde sadece mutlak a gerekli ise 
+kullanılmalıdır.  
+ 
+Üreme yeteneği /Fertilite  
+Veri bulunmamaktadır.  
+ 
+4.7. Araç ve makine kullanımı üzerindeki etkiler  
+ 
+Araç ve makine kullanımı üzerindeki etkileri ile ilgili herhangi bi r çalışma yapılmamıştır.  
+ 
+4.8. İstenmeyen etkiler  
+ 
+Güvenlilik profili özeti  
+Replasman tedavisi, dolaşımda, bir veya daha fazla insan protrombin kompleksi faktörünü inhibe 
+eden antikorların oluşmasına yol açabilir. Böyle antikorlar ortaya çıkarsa,  bu durum  kendi sini kötü 
+bir klinik yanıt olarak gösterecektir.  
+ 
+Şiddetli  anaflilaktik reaksiyonlar dahil , alerjik veya anafilaktik tipte reaksiyonlar seyrek olarak (≥ 
+1/10.000 ila <1/1.000) görülebilir.   
+ 
+Vücut sıcaklığında yükselme çok seyrek ( <1/10.000) olarak görülebilir.  
+ 
+İnsan protrombin kompleksi uygulaması sonrasında tromboembolik epizod riski mevcuttur  (bkz.  
+Bölüm 4.4).  
+ 
+OCTAPLEX advers reaksiyonlarının çizelgeli listesi  
+Aşağıda sınılan tablo MedDRA sistem organ sınıflamasına (SOC  ve tercih edilen terim d üzeyi) göre 
+sunulmuştur. Sıklıklar klinik çalışma verilerine dayanır . Sıklık dereceleri  şu şekilde tanımlanır: çok 
+yaygın (≥ 1/10); yaygın (≥ 1/100 ila <1/10); yaygın olmayan (≥1/1.000 ila <1/100); seyrek (≥ 
+ 
+7 
+ 1/10.000 ila < 1/1.000); çok seyrek (< 1/10.000) , bilinmiyor (eldeki verilerden hareketle tahmin 
+edilemiyor).  
+ 
+MedDRA Standart Sistem Organ 
+Sınıflaması  Advers reaksiyonlar  Sıklık   
+Psikiyatrik hastalıklar  Anksiyete  Yaygın olmayan  
+Vasküler hastalı klar Derin ven trombozu  Yaygın  
+Tromboz  Yaygın olmaya n 
+Hipertansiyon  Yaygın olmayan  
+Solunum, göğüs bozuklukları ve 
+mediastinal hastalıkları  Pulmoner emboli  Yaygın olmayan  
+Bronkospazm  Yaygın olmayan  
+Hemoptizi  Yaygın olmayan  
+Epistaksis  Yaygın olmayan  
+Genel bozukluklar ve uygulama  
+bölgesine ilişkin  hastalıklar  Enjeksiyon yerinde yanma  Yaygın olmayan  
+Araştırmalar  Fibrin D -dimer artışı  Yaygın olmayan  
+Kanda trombin artışı  Yaygın olmayan  
+Karaciğer fonksiyonlarında anormallik  Yaygın olmayan  
+Cerrahi ve tıbbi prosedürler  Cihazın içinde tromboz  Yayg ın olmayan  
+ 
+Aşağıdaki advers reaksiyonlar , OCTAPLEX  için pazarlama sonrası dönemde bildir ilmiştir.  
+Pazarlama sonrası dönemdeki advers reaksiyon  bildirimleri  gönüllülük esasına dayan dığından ve 
+büyüklüğü  bilinmeyen bir popülasyon u ifade ettiğinden,  bu reak siyonların sıklığını güvenilir  bir 
+şekilde tahmin etmek mümkün değildir.  
+  
+Bağışıklık sistemi hastalıkları  
+Anafilaktik şok, hipersensitivite  
+Sinir sistemi hastalıkları  
+Tremor  
+Kardiyak hastalıklar  
+Kardiyak arrest, taşikardi  
+Vasküler hastalıklar  
+Dolaşım  kollapsı, hipotansiyon  
+Solunum, göğüs bozuklukları ve mediastinal hastalıklar  
+Dispne, respiratuvar yetmezlik  
+Gastrointestinal sistem hastalıkları  
+Bulantı  
+Deri ve derialtı doku hastalıkları  
+Ürtiker, döküntü  
+Genel bozukluklar ve uygulama bölgesine iliş kin hastalıklar  
+Ürperme  
+ 
+OCTAPLEX heparin içerir. Bu nedenle , platelet sayımında, alerji nin indükle diği, ani düşmeler 
+seyrek olarak gözlen ebilir. Bu düşme, kan platelet lerinin 100.000/µl değerinin altına düşmesi veya 
+başlangıçtaki sayımın %50’ sine azalma sı (trombo sitopeni t ip II) şeklindedir . Heparine daha önce 
+hipersensiti vitesi  olmayan hastalarda, trombositlerdeki bu düş me tedaviye başla ndıktan sonra 6 -14 
+günde ortaya çıkar. Heparine daha önce hipersensiti vitesi  olan hastalarda ise bu azalma birkaç saat  
+içinde oluşabilir. Bu alerjik reaksiyon u gösteren hastalarda OCTAPLEX tedavisi derhal  
+durdurulmalıdır. Bu hastalar , gelecekte de heparin içeren bir ilaç almamalıdır.  
+ 
+Bulaşabilen ajanlarla ilgili güvenlilik bilgileri için Bölüm 4.4’e bakınız.  
+ 
+8 
+  
+Pediyatri k popülasyon  
+OCTAPLEX’in pediyatrik popülasyonda kullanımı ile ilişkili bir veri mevcut değildir.  
+ 
+Şüpheli advers reaksiyonların raporlanması  
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem taşımaktadır. 
+Raporlama yapılm ası, ilacın yarar/risk dengesinin sürekli olarak izlenmesine olanak sağlar. Sağlık 
+mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye Farmakovijilans Merkezi 
+(TÜFAM)’ne bildirmeleri gerekmektedir ( www. titck.gov.tr ; e-posta: tufam@titck.gov.tr ; tel: 0 800 
+314 00 08; faks: 0 312 2183599).  
+ 
+4.9. Doz aşımı ve tedavisi  
+ 
+İnsan protrombin kompleksi ürünlerinin yüksek doz kullanımı , miyokard enfarktüs ü, dissemine 
+intrav asküler koagülasyon, venöz tromboz ve pulmoner emboli durumları ile ilişkili  bulunmuştur . 
+Bu nedenle, doz aşımı durumunda,  tromboembolik komplikasyon veya dissemine intravasküler 
+koagülasyon gelişme riski artar.  
+ 
+5. FARMAKOLOJİK ÖZELLİKLER  
+ 
+5.1. Farmakodi namik özellikler  
+ 
+ATC kodu    : B02BD01  
+Farmakoterapötik grup :  Antihemorajikler, kan koagülasyon faktörleri IX, II, VII, ve X  
+kombinasyonu   
+ 
+Koagülasyon faktörleri II, VII, IX ve X, vitamin K yardımı  ile karaciğerde sentezlenir ve  
+“Protrombin Kompleksi ” olarak adlandırılır.  
+ 
+Faktör VII , aktif serin proteaz faktör VIIa’nın zimojenidir , Faktör VIIa ile  kan koagülasyonun un 
+ekstrinsik yola ğı başlatılır . Doku faktörü -faktör VIIa kompleksi , koagülasyon faktör ü X ve IX’u 
+aktive eder. Böylece, faktör IXa ve Xa o luşur. Daha sonra k oagülasyon kaskadının aktivasyonu ile 
+protrombin (faktör II) aktive olur ve trombine dönüşür. Trombinin aktivasyonu ile fibrinojen fibrine  
+dönüştürülür ve bunun sonucunda pıhtı oluşu r. Trombin in normal  oluşumu, primer homeostazın bir 
+parçası olan platelet fonksiyonu için  de hayati bir önem taşır.  
+ 
+Faktör VII’nin ağır izole eksikliği , trombin oluşumunun azalmasına ve fibrin oluşumundaki ve 
+primer homeostazdaki bozukluğa bağlı olarak kanama eğiliminin ortaya çıkmasına yol açar. İzole 
+faktö r IX eksikliği , klasik hemofili tiplerinden biridir (hemofili B). Faktör II veya faktör X’un izole 
+eksikli ği, çok seyrek  görülür , ancak şiddetli olduğunda  klasik hemofili ye benzer şekilde kanama 
+eğiliminde artışa neden olur.   
+ 
+Vitamin K bağımlı koagülasyo n faktörlerinin kazanılmış eksikliği , vitamin K antagonistleri ile 
+tedavi sırasında ortaya çıkar. Eğer eksik lik durumu ağırlaşırsa , şiddetli kanama eğilimi ile 
+sonuçlanır. Bu kanama, kas ve eklem kanamalarından çok retroperitoneal veya serebral kanama ile 
+karakterizedir. Şiddetli karaciğer yetmezliği de vitamin K bağımlı koagülasyon faktör düzeylerinde 
+belirgin bir azalmaya ve klinik kanama eğilimine yol açar . Ancak  bu durum , simultane olarak 
+devam eden düşük düzeydeki bir intravasküler koagülasyon, düşük p latelet düzeyleri, koagülasyon 
+inhibitörlerinin eksikliği ve fibrinolizin bozulmasına bağlı olarak , genellikle  karmaşıktır.  
+ 
+ 
+9 
+ İnsan protrombin kompleksinin uygulanması, vitamin K bağımlı koagülasyon faktörlerinin plazma 
+düzeylerinde bir artış sağlar ve bu f aktörlerin bir veya birkaçının eksikliği durumlarında  
+koagülasyon bozukluklarını  geçici olarak düzelt ebilir.  
+ 
+5.2. Farmakokinetik özellikler  
+ 
+Genel özellikler  
+ 
+Emilim:  
+OCTAPLEX intravenöz yolla kullanıldığından kana doğrudan geçer.   
+ 
+Dağılım : 
+Veri bulunma maktadır.  
+ 
+Biotransformasyon : 
+OCTAPLEX intravenöz yolla kullanılır ve derhal kana geçer.  
+OCTAPLEX bileşimindeki koagülasyon faktörleri , büyük olasılıkla , hepatik retiküloendotelyal 
+sistem tarafından uzaklaştırılmakta ve daha sonra proteolitik hidrolizin n ormal intrasellüler 
+işlemiyle bireysel aminoasitlere bozunmaktadır.  
+ 
+Eliminasyon:  
+Plazma yarılanma ömürleri şu şekildedir:  
+ 
+Koagülasyon faktörü  Yarılanma ömrü  
+Faktör II  48-60 saat  
+Faktör VII  1.5-6 saat  
+Faktör IX  20-24 saat  
+Faktör X  24-48 saat  
+ 
+5.3. Klinik öncesi güvenlilik verileri  
+ 
+OCTAPLEX’in güvenliliği, tavşanlara intravenöz, intraarteriyel ve paravenöz uygulamaları takiben 
+yürütülen preklinik güvenlilik farmakolojisi çalışmalarında, pot ansiyel trombojenesite ve lokal 
+tolerans çalışmalarıyla değe rlendirilmiştir. Bu preklinik veriler , bu klinik -dışı konvansiyonel 
+çalışmaların sonuçlarına dayanarak, insanlar için özel bir risk ortaya koymamıştır.  
+ 
+6. FARMASÖTİK ÖZELLİKLER  
+ 
+6.1. Yardımcı maddelerin listesi   
+Toz: 
+Heparin  (Domuz bağırsak mukozasından e lde edilmiştir) : 0.2-0.5 IU/IU FIX  
+Tri-sodyum sitrat dihidrat  
+ 
+Çözücü:  
+Enjeksiyonluk su  
+ 
+6.2 Geçimsizlikler  
+ 
+Bu ilaç başka bir ilaçla karı ştırılmamalıdır.  
+ 
+6.3. Raf ömrü  
+ 
+10 
+  
+36 ay  
+ 
+Kimyasal ve fiziksel kullanım  stabilte si,  +25ºC’de 8 saate kadar gösterilmi ştir.  
+ 
+Mikrobiyolojik açıdan bakıldığında, açma/sulandırma yöntemi mikrobiyal kontaminasyon riskini 
+önlemediği  sürece , ürün derhal  kullanılmalıdır. Eğer derhal  kullanılmazsa, kullanım sırasındaki 
+saklama süreleri ve koşulları kullanıcının sorumluluğundadı r.  
+ 
+6.4 Saklamaya yönelik özel tedbirler  
+25 ºC’nin altında oda sıcaklığında saklayınız.  
+Dondurmayınız.  
+Orijinal ambalajında ışıktan koruyarak saklayınız.  
+Sulandırıldıktan sonraki saklama koşulları için Bölüm 6.3’ bakınız.  
+ 
+6.5 Ambalajın niteli ği ve içeri ği 
+ 
+ Flakon (tip I cam) içinde toz . Flakon bir tıpa (halobutil kauçuk ) ve bir geçme kapak  
+(aluminyum)  ile kapatılmıştır.  
+ Flakon (tip I cam) içinde 20 ml enjeksiyonluk su . Flakon,  bir tıpa (halobutil kauçuk ) ve bir 
+geçme kapak (aluminyum)  ile kapatılmıştır.  
+ 1 tran sfer seti (Nextaro®) 
+ 
+6.6  Tıbbi üründen arta kalan maddelerin imhası ve di ger özel önlemler  
+ 
+Lütfen talimatların hepsini okuyup dikkatle uygulayınız!  
+Aşağıda tanımlanan prosedür sırasında mutlaka aseptik teknik kullanılmalıdır.   
+Bu ilaç sulandırıldığında oda sıcaklığında hızla çözü nür.  
+Çözelti berrak veya hafif opa lesan  olmalıdır. Bulanık görüntülü veya içinde tortular bulunan 
+çözeltileri kullan mayınız . Sulandırılmış  ilaç, uygulanmadan önce partikül  madde  oluşumu ve renk 
+değişikliği açısından gözle kontro l edilmelidir.   
+ 
+Sulandırıl dıktan sonra  derhal  kullanılmalıdır.  
+ 
+Kullanılmamış olan ürün ya da atık materyaller, “Atık Yönetimi Yönetmeliği” hükümlerine uygun 
+olarak imha edilmelidir.  
+ 
+Son kullanma tarihi geçmiş veya kullanılmayan ilaçları çöpe atmayınız!  Çevre , Şehircilik ve İklim 
+Değişikliği Bakanlığınca belirlenen toplama sistemine veriniz.  
+ 
+Sulandırma talimatları:  
+1. Eğer gerekli ise, kapağı açılmamış flakonlar içindeki çözücü yü (enjeksiyonluk su) ve tozu 
+oda sıcaklığına gelinceye kadar bekletiniz. Suland ırma işlemi de oda sıcaklığında 
+yapılmalıdır.  
+ 
+Eğer ısıtma için su banyosu kullanılacaksa, suyun, kauçuk tıpayla veya flakonun kapağ ı 
+ile temas etmemesine dikkat ediniz. Su banyosunun sıcaklığı 37 ºC’ı geçmemelidir.  
+ 
+2. Toz ve su flakonlarının kapa klarını  çıkarınız ve lastik tıpaları nı uygun şekilde dezenfekte 
+ediniz.  
+ 
+3. Nextaro® dış ambalajının üst kısmını soyunuz. Çözücü flakonu düz bir yüzeye koyunuz 
+ 
+11 
+ ve sıkı bir şekilde tutunuz.  Nextaro®’nun mavi kısmını, dış ambalajını çıkarmadan, 
+çözücü flakonun üstüne ye rleştiriniz ve yerine oturuncaya kadar sıkıca bastırınız (Şekil 
+1).  Birleştirme işlemi sırasında döndürmeyiniz! Çözücü flakonunun üstünde tutarken 
+dikkatli bir şekilde Nextaro®’dan dış ambalajını çıkarınız, bu sırada Nextaro®’nun çözücü 
+flakonuyla sıkı bi r şekilde bağlantılı kalmasına dikkat ediniz (Şekil 2).  
+  
+ 
+ 
+ 
+4. Toz flakonunu düz bir Zemin üzerine koyunuz ve 
+sıkıca tutunuz. Çözücü şişesini ona bağlı Nextaro® 
+ile birlikte alınız ve başaşağı çeviriniz.  Nextaro® 
+bağlantısını toz flakonunun tepesine yerl eştiriniz 
+ve yerine oturuncaya kadar sıkıca bastırınız (Şekil  
+3). Birleştirme işlemi sırasında döndürmeyiniz! 
+Çözücü otomatik olarak toz şişesine akacaktır.    
+ 
+ 
+ 
+ 
+5. Her iki şişe de birbirine bağlı durumda iken,  ürün 
+tamamen çözününceye kadar toz flakonunu hafif 
+hafif çalka layarak döndürünüz .  OCTAPLEX  oda 
+sıcaklığında hızla çözünür ve renksiz -hafif mavi 
+bir çözelti oluşturur. Nextaro®’yu sökerek iki 
+parçaya ayırınız (.Şekil  4). 
+ 
+Boşalmış çözücü flakonunu, Nextaro®’nun mavi 
+kısmı ile birlikte atınız . 
+ 
+  çözücü 
+flakonu  
+Şekil 1  Çözücü 
+flakonu  
+Şekil  2 
+Çözücü 
+şişesi  
+Toz flakonu  
+Şekil  3 
+.Şekil  4 Toz flakonu  Boş çözücü flakon  
+ 
+12 
+ Eğer toz tamamen çözü nmezse veya agregasyon oluşursa , bu ilacı kullanmayınız.  
+ 
+İnfüzyon talimatları:  
+ 
+Bir önlem olarak , hasta nın nabız hızı , gerek  infüzyondan önce gerekse  infüzyon sırasında  
+ölçülmelidir. Eğer nabız hızında belirgin bir artış olursa, infüzyon hızı düşürülmeli veya 
+uygulama ya ara verilmelidir.   
+1. 20 ml’ lik enjektörü Nextaro®’nun beyaz kısmın daki luer lock çıkış ına takınız. Flakonu baş 
+aşağı çeviriniz ve çözeltiyi e njektöre çekiniz. Çözelti aktarıldıktan sonra, enjektörün 
+pistonunu sıkıca tutunuz (aşağı dönük olarak) ve enjektörü Nextaro®’dan ayırınız. 
+Nextaro®’yu ve boş flakonu atınız.  
+2. Enjeksiyon yerini uygun şekilde  dezenfekte edin iz. 
+3. Çözeltiyi intravenöz yoldan yavaş hızda enjekte ediniz.  Başlangıçt a 1 ml/dk, daha sonra 2 -3 
+ml/dk olacak şekilde.  
+ 
+Fibrin pıhtılarının oluşma riski nedeni yle enjektör  içine  hiç kan girmemelidir.  Nextaro® tek kullanım  
+içindir.  
+ 
+7. RUHSAT SAH İBİ 
+ 
+Berk İlaç İthalat ve Pazarlama A.Ş.  
+Poligon Mah. Sarıyer Cad. ABC Plaza  
+No: 117/B Kat: 2  
+İstinye -Sarıyer / İstanbul  
+Telefon: 0 212 277 33 03  
+Faks: 0 212 277 30 36  
+ 
+ 
+8. RUHSAT NUMARASI  
+ 
+2025/128  
+ 
+ 
+9. İLK RUHSAT TAR İHİ / RUHSAT YEN İLEME TAR İHİ 
+ 
+İlk ruhsat tarihi:  25.03.2025  
+Ruhsat yenileme tarihi:  
+ 
+10. KÜB’ÜN YEN İLENME TAR İHİ: 
+ 

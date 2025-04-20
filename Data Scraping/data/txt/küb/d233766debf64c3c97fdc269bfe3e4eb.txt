@@ -1,0 +1,683 @@
+ 1/17 
+ KISA  ÜRÜN B İLGİSİ 
+ 
+▼ Bu ilaç ek izlemeye tabidir. Bu üçgen yeni güvenlilik bilgisinin hızlı olarak belirlenmesini 
+sağlayacaktır. Sağlık mesleği mensuplarının şüpheli advers reaksiyonları TÜFAM’a bildirmeleri 
+beklenmektedir. Bakınız Bölüm 4.8 Advers reaksiyonlar nasıl raporlanı r? 
+ 
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI  
+ 
+ULTRA TECHNEKOW FM 2.15 - 43.00 GBq radyonüklid jeneratör  
+Steril   
+2. KALİTATİF VE KANTİTATİF BİLEŞİM  
+Etkin madde:  
+Anne nüklid: (99Mo) Sodyum Molibdat …………… ………………. 2.15 - 43.00 GBq/Jeneratör  
+(Kalibrasyon günündeki 99Mo aktivitesi)   
+Kız nüklid: (99mTc) Sodyum Perteknetat ( Na99mTcO4)……99Mo/99mTc jeneratör sisteminden elde 
+edilir.   
+Sodyum perteknetat (99mTc) enjeksiyonu bir jeneratör (99Mo/99mTc) vasıtasıyla üretilmektedir.  
+Teknesyum (99mTc), ortalama bir 140 KeV’lik enerjiyle gama radyasyonu emisyonu ve 6,01 
+saatlik yarılanma ömrü ile 99Tc’a bozunur ve 2,13 x 105 yıllık uzun bir yarılanma ömrü göz 
+önüne alındığında yarı kararlı olarak kabul edilebilir.   
+Bir kromatografik kolon üzerine adsorbe edilen ana izotop 99Mo içeren radyonüklid jeneratör, 
+steril çözeltide sodyum perteknetat (99mTc) enjeksiyonu sağlar.   
+Kolondaki  99Mo, radyoaktif bozunma sonucu ortaya çıkan (kız) izotop (99mTc) ile denge 
+halindedir. Jeneratörler, %100 teorik elüsyon verimi ve önceki elüsyondan itibaren 24 saat süre 
+varsayılarak ve 99Mo’nun dallanma oranının yaklaşık %87 olduğunu dikkate alınarak, aşağıdaki 
+teknesyum (99mTc) miktarlarını sağlayan aşağıdaki 99Mo aktivite miktarları ile aktivite referans 
+süresinde (ART) tedarik edilir:  
+ART’de  
+maksimum 
+teorik 
+yıkanabilen 
+aktivite,  
+saat 06:00, 
+Central 
+European 
+Time (CET)  1,9 3,81 5,71 7,62 9,53 11,43  15,24  19,05  22,86  26,67  30,48  38,1 GBq  
+99Mo 
+aktivitesi 
+(ART ’de, 
+saat 06:00, 
+CET)  2,15 4,3 6,45 8,6 10,75  12,9 17,2 21,5 25,8 30,1 34,4 43 GBq   2/17 
+ Tek bir elüsyonla elde edilebilen teknesyum (99mTc) miktarları, üretici tarafından beyan edilen 
+ve Ulusal Yetkili Otorite tarafından onaylı bizzat kullanılan jeneratör türünün gerçek verimine 
+bağlıdır.  
+Yardımcı madde(ler):  
+Her bir mL sodyum perteknetat (99mTc) çözeltisi 3,5 mg sodyum içerir.  
+Yardımcı maddeler için Bölüm 6.1’e bakınız.  
+3. FARMASÖTİK FORM   
+Radyonüklid jeneratör.   
+4. KLİNİK ÖZELLİKLER   
+4.1. Terapötik endikasyonlar   
+Bu tıbbi ürün sadece tanı amaçlı kullanım içindir.   
+Radyonüklid jeneratörden elde edilen eluat (sodyum perteknetat (99mTc) enjeksiyonu) aşağıdaki 
+durumlarda endikedir:  
+ 
+✓ Bu çözeltiyle radyo -işaretlenmesi için geliştirilen ve onaylanan ve radyofarmasötik 
+hazırlamak için kullanılan çeşitli kitlerin işaretlenmesi  
+✓ Tiroid sintigrafisi: Tiroid hastalığında bezin büyüklüğü,  konumu,  nodülaritesi  ve 
+fonksiyonu hakkında bilgi vermek için tiroid  tutulumunun doğrudan görüntülenmesi ve 
+ölçümü  
+✓ Tükürük bezi sintigrafisi: Tükürük bezleri bozukluklarında tükürük bezi fonksiyonunun 
+ve kanal açıklığının değerlendirilmesi ve terapötik girişimlere (özellikle radyo iyodin 
+tedavisi) cevabın izlenmesinin yanı sıra kronik sialadenit (örn., Sjögren Sendromu ) tanısı  
+✓ Ektopik gastrik mukozanın yerleşimi (Meckel divertikülü)  
+✓ Lakrimal kanal sintigrafisi: Lakrimasyonun fonksiyonel bozuklukları değerlendirmek ve 
+terapötik girişimlere cevabın izlenmesi  
+  
+4.2. Pozoloji ve uygulama şekli   
+RADYOFARMASÖTİKLER YALNIZCA BU KONUDA UZMANLAŞMIŞ NÜKLEER TIP 
+UZMANI TARAFINDAN NÜKLEER TIP ÜNİTELERİNDE UYGULANMALIDIR.   
+Pozoloji/uygulama sıklığı ve süresi:   
+Sodyum perteknetat (99mTc) intravenöz olarak uygulandığında, gerekli klinik bilgilere ve 
+kullanılan ekipmana göre aktiviteler büyük ölçüde değişebilir. Bazı endikasyonlar için yerel 
+DRL’lerden (Tanı Referans Düzeyleri) daha yüksek aktivitelerin enjeksiyonu 
+gerekçelendirilmelidir.  
+  
+Yetişkinler (70 kg) ve yaşlı popülasyon için önerilen aktiviteler aşağıdaki gibidir;  
+✓ Tiroid sintigrafisi: 20 –80 MBq  
+✓ Tükürük bezi sintigrafisi: Statik görüntüleme için 30 -150 MBq, dinamik görüntüleme 
+için 370 MBq’ya kadar   3/17 
+  
+✓ Meckel divertikül sintigrafisi: 300 -400 MBq  
+✓ Lakrimal kanal sintigrafisi: Her bir göz için damla başına 2 –4 MBq  
+ 
+Sodyum perteknetat (99mTc) çözeltisi, tiroid sintigrafisi, tükürük bezi sintigrafisi ve ektopik 
+gastrik mukozanın teşhisi/yerleşiminde intravenöz enjeksiyon yoluyla uygulanır.   
+Tiroid sintigrafisi: İntravenöz enjeksiyondan 20 dakika sonra.   
+Tükürük bezi sintigrafisi: İntravenöz enjeksiyonun hemen sonrasında ve 15 dakika boyunca 
+düzenli aralıklarla.   
+Ektopik gastrik mukozanın teşhisi/yerleşimi (Meckel Divertikülü): İntravenöz enjeksiyonun 
+hemen sonrasında ve 30 dakika boyunca düzenli aralıklarla.   
+      Lakrimal kanal sintigrafisinde damlalar her bir göze damlatılır (oküler kullanım).  
+✓  Lakrimal   kanal   sintigrafisi: Damlatıldıktan   sonraki   2   dakika   içinde   dinamik 
+görüntülemeyi takiben 20 dakika içinde düzenli aralıklarla statik görüntüler.   
+Uygulama şekli :  
+İntravenöz veya oküler kullanım içindir. Çok dozlu kullanım içindir.  
+Tıbbi ürünün kullanım öncesinde acele hazırlanması ile ilgili talimatlar için Bölüm 12’ye bakınız. 
+Hastanın hazırlanması için Bölüm 4.4.’e bakınız.  
+Özel popülasyonlara ilişkin ek bilgiler:  
+Böbrek yetmezliği:  
+Bu hastalarda radyasyona maruz kalma olasılığının yüksek olması nedeniyle uygulanacak olan 
+aktivitenin dikkatle değerlendirilmesi gerekmektedir.  
+Karaciğer yetmezliği:   
+Özel bir kullanım durumu yoktur.   
+Pediyatrik popülasyon:   
+Çocuklarda ve adolesanlardaki kullanım, klinik ihtiyaçlara ve bu hasta grubundaki yarar/risk 
+oranına göre dikkatli bir şekilde değerlendirilmelidir.   
+Çocuklara ve adolesanlara uygulanacak olan aktivite uyarlanmalıdır ve Avrupa Nükleer Tıp 
+Derneği (EANM) pediyatrik dozaj kartı önerilerine göre hesaplanmalıdır; çocuklara ve 
+adolesanlara uygulanacak olan aktivite, bazal aktivitenin (hesaplama amacıyla) aşa ğıdaki tabloda 
+(Tablo 1’e bakınız) verilen ağırlığa bağlı düzelme faktörüyle çarpılması yoluyla hesaplanır.  
+ 
+A[MBq]Uygulanan = Bazal Aktivite × Katsayı  
+Tiroid sintigrafisi:  
+ 
+Uygulanan aktivite [MBq] = 5,6 MBq  x düzeltme faktörü (Tablo 1). Yeterli kalitede görüntü elde 
+etmek için minimum 10 MBq aktivite uygulanmalıdır.  
+ 
+  4/17 
+ Ektopik gastrik mukozanın teşhisi/yerleşimi:  
+ 
+Uygulanan aktivite [MBq] = 10,5 MBq  x düzeltme faktörü (Tablo 1). Yeterli kalitede görüntü 
+elde etmek için minimum 20 MBq aktivite uygulanmalıdır.  
+ 
+Tablo 1:  EANM -2014 kılavuzlarına göre pediyatrik popülasyonda (tiroid sintigrafisi ve ektopik 
+gastrik mukozanın teşhisi/yerleşimi için) ağırlığa bağlı düzeltme faktörleri  
+ 
+Ağırlık [kg]  Katsayı  Ağırlık [kg]  Katsayı  Ağırlık [kg]  Katsayı  
+3 1 22 5,29 42 9,14 
+4 1,14 24 5,71 44 9,57 
+6 1,71 26 6,14 46 10 
+8 2,14 28 6,43 48 10,29  
+10 2,71 30 6,86 50 10,71  
+12 3,14 32 7,29 52-54 11,29  
+14 3,57 34 7,72 56-58 12 
+16 4 36 8 60-62 12,71  
+18 4,43 38 8,43 64-66 13,43  
+20 4,86 40 8,86 68 14 
+Tükürük bezi sintigrafisi : 
+ 
+EANM ’nin Pediyatrik Görev Grubu (1990); yeterli kalitede görüntü elde etmek için çocuklara 
+uygulanacak olan aktivitenin, minimum 10 MBq dozda aşağıdaki tabloya göre (Tablo 2’ye 
+bakınız) vücut ağırlığı üzerinden hesaplanmasını önermektedir.  
+ 
+ 
+Tablo 2: EANM 1990 tavsiyelerine göre pediyatrik popülasyonda (tükürük bezi sintigrafisi için) 
+ağırlığa bağlı düzeltme faktörü  
+ 
+Ağırlık [kg]  Faktör  Ağırlık [kg]  Faktör  Ağırlık [kg]  Faktör  
+3 1 22 0,5 42 0,78 
+4 0,14 24 0,53 44 0,8 
+6 0,19 26 0,56 46 0,82 
+8 0,23 28 0,58 48 0,85 
+10 0,27 30 0,62 50 0,88 
+12 0,32 32 0,65 52-54 0,9 
+14 0,36 34 0,68 56-58 0,92 
+16 0,4 36 0,71 60-62 0,96 
+18 0,44 38 0,73 64-66 0,98 
+20 0,46 40 0,76 68 0,99 
+Lakrimal kanal sintigrafisi :  
+Yetişkinler için önerilen aktiviteler çocuklar için de geçerlidir.    5/17 
+ Geriyatrik popülasyon:   
+Özel bir kullanım durumu yoktur.   
+4.3. Kontrendikasyonlar   
+Etkin madde veya Bölüm 6.1.’de yer alan yardımcı maddelerden herhangi birine karşı aşırı 
+duyarlılığı olanlarda kontrendikedir.   
+4.4. Özel kullanım uyarıları ve önlemleri   
+RADYOFARMASÖTİKLER SADECE NÜKLEER TIP UZMANLARI TARAFINDAN 
+NÜKLEER TIP MERKEZLERİNDE UYGULANIR.   
+Aşırı duyarlılık veya anaflaktik reaksiyon potansiyeli   
+Herhangi bir aşırı duyarlılık veya anafilaktik reaksiyon gelişirse, tıbbi ürünün uygulaması hemen 
+kesilmeli ve gerekirse, intravenöz tedaviye başlanmalıdır.  
+ 
+Acil durumlarda anında harekete geçebilmek için endotrakeal tüp ve ventilatör gibi gerekli tıbbi 
+ürünler ve ekipman her an mevcut bulundurulmalıdır.   
+Bireysel yarar/risk  gerekçesi   
+Her bir hasta için radyasyona maruziyet, muhtemel bir yarar bazında mazur görülebilir olmalıdır. 
+Uygulanacak aktivite, her durumda, gerekli teşhis bilgilerinin elde edilmesi için makul bir şekilde 
+mümkün olduğu kadar düşük olmalıdır.   
+Böbrek yetmezliği   
+Radyasyona maruziyet olasılığı artacağından bu hastalarda yarar/risk oranının dikkatle 
+değerlendirilmesi gerekmektedir.  
+ 
+Pediyatrik popülasyon   
+Pediyatrik popülasyonda kullanım bilgisi için Bölüm 4.2.’ye bakınız.   
+MBq  başına etkili doz yetişkinlere göre daha yüksek olduğu için dikkatli bir endikasyon 
+değerlendirmesi gerekmektedir  (Bölüm 11’e bakınız).   
+Tiroid sintigrafisi haricinde tiroid baskılanması pediyatrik hasta popülasyonunda özel bir öneme 
+sahiptir.   
+Hastanın hazırlanması   
+Bazı endikasyonlar için tiroid baskılayıcı tıbbi ürünlerle hastaların ön tedavisi gerekebilmektedir.   
+Hasta, inceleme başlangıcından önce bol su almalıdır ve radyasyonu azaltmak amacıyla, 
+inceleme sonrası ilk saatlerde mümkün olduğunca sık idrara çıkması için teşvik edilmelidir.   
+Tiroid bezi ve tükürük bezinde perteknetat birikiminin azaltılmasıyla yanlış pozitifliklerden 
+kaçınmak ve ışınlamayı en aza indirmek için lakrimal kanal sintigrafisi ve Meckel divertikülü 
+sintigrafisinden önce tiroid baskılayıcı bir ajan verilmelidir. Diğe r taraftan; tiroid baskılayıcı bir 
+ajan tiroid, paratiroid veya tükürük bezi sintigrafisi öncesinde KULLANILMAMALIDIR.
+Meckel  divertikülü sintigrafisi için sodyum (99mTc) perteknetat çözeltisi uygulanmadan önce, 
+intestinal peristaltizmi azaltmak için hasta 3 -4 saat boyunca aç kalmalıdır.    6/17 
+ İndirgeme amacıyla eritrositlerin kalay iyonları kullanılarak in vivo etiketlenmesinden sonra 
+sodyum perteknetat (99mTc) ilk olarak eritrositlere geçmektedir; bu nedenle, Meckel sintigrafisi 
+eritrositlerin in vivo  etiketlenmesinden önce veya birkaç gün sonra yapılmalıdır.   
+İşlem sonrası   
+İnfantlar ve gebe kadınlarla 12 saat boyunca yakın temas kısıtlanmalıdır.  
+ 
+Tükürük bezi sintigrafisinde, yöntemin özgünlüğünün manyetik rezonans siyalografisine göre 
+daha düşük olması beklenmelidir.   
+Çevresel tehlikelere ilişkin önlemler için Bölüm 6.6.’ya bakınız.  
+ 
+Özel uyarılar   
+Sodyum perteknetat (99mTc) enjeksiyonluk çözeltisi 3,5 mg/mL sodyum içerir.   
+Enjeksiyonun uygulanma zamanına bağlı olarak bazı durumlarda, hastaya verilen sodyum içeriği 
+1 mmol (23 mg)’den daha fazla olabilir. Bu durum, kontrollü sodyum diyetinde olan hastalar için 
+göz önünde bulundurulmalıdır.  
+Bir kitin işaretlenmesi için sodyum perteknetat (99mTc) kullanıldığında, toplam sodyum 
+içeriğinin belirlenmesi için eluat ve kitten elde edilen sodyum miktarları göz önünde 
+bulundurulmalıdır. Lütfen kitin kullanma talimatına bakınız.  
+ 
+4.5. Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri   
+Abdominal görüntülemede atropin, isoprenalin ve analjezik etkili ilaçlar gastrik boşaltmada 
+gecikmeye ve perteknetatın  yeniden dolaşıma geçmesine yol açabilir.  
+ 
+Laksatifler gastrointestinal kanalı tahriş ettiğinden kullanılmamalıdır. Meckel divertikülü 
+sintigrafisi için perteknetat (99mTc) uygulanmasından önceki 48 saat içinde kontrastlı 
+çalışmalardan (ör n., baryum) ve üst gastrointestinal incelemeden kaçınılmalıdır.   
+Birçok farmakolojik tıbbi ürünün tiroid tutulumunda değişikliğe neden olduğu bilinmektedir:  
+✓ antitiroid tıbbi  ürünler  (ör n., karbimazol veya propiltiourasil gibi  diğer  imidazol 
+türevleri), salisilatlar, steroidler, sodyum nitroprussid, sodyum sülfobromoftalein ve 
+perklorat, tiroit sintigrafisinden önceki 1 hafta boyunca kullanılmamalıdır;  
+✓ fenilbutazon ve ekspektoranlar 2 hafta boyunca kullanılmamalıdır;  
+✓ doğal veya sentetik tiroid preparatları (örn. , tiroksin sodyum, liyotironin sodyum, tiroid 
+ekstraktı) 2 -3 hafta boyunca kullanılmamalıdır;  
+✓ amiodaron, benzodiazepinler ve lityum 4 hafta boyunca kullanılmamalıdır;  
+✓ intravenöz kontrast maddeler 1 -2 ay içinde uygulanmamalıdır.  
+ 
+Özel popülasyonlara ilişkin ek bilgiler  
+Özel pop ülasyon ile ilgili herhangi bir ila ç etkileşimi değerlendirmesi yapılmamıştır.  
+ 
+Pediyatrik popülasyon:  
+Pediyatrik  popülasyon ile ilgili herhangi bir ilaç etkileşimi değerlendirmesi yapılmamıştır.  
+ 
+ 
+ 
+ 
+  7/17 
+  
+4.6. Gebelik ve laktasyon  
+ 
+Genel tavsiye:  
+ 
+Gebelik kategorisi: C
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon)  
+Çocuk doğurma potansiyeli bulunan bir kadına radyofarmasötiklerin uygulanması gerektiği 
+zaman, gebelik durumu daima sorgulanmalıdır. Menstrüasyon periyodunda gecikme olan 
+kadınlar aksi ispatlanmadığı sürece gebe kabul edilmelidir. Gebelik şüphesi bulunan d urumlarda 
+(kadının gecikmiş periyodu varsa, periyot çok düzensizse vb.) hastaya iyonize radyasyon 
+içermeyen alternatif teknikler (eğer varsa) önerilmelidir.  
+ 
+Gebelik  dönemi  
+ 
+Hayvanlar üzerinde yapılan çalışmalar, gebelik/ ve -veya/ embriyonal/ fetal gelişim/ ve -veya/ 
+doğum/ ve -veya/ doğum sonrası gelişim üzerindeki etkiler bakımından yetersizdir (bkz. Bölüm 
+5.3.). İnsanlara yönelik potansiyel risk bilinmemektedir. Gebelikte per teknetat (99mTc) kullanımı 
+ancak anneye sağlanması beklenen yararı, fetusa olan olası riskten fazla ise düşünülmelidir.    
+ULTRA TECHNEKOW FM 2.15 -43.00 GBq radyonüklid jeneratör gerekli olmadıkça 
+(Uygulama ile sağlanması düşünülen faydaların, doğabilecek potansiyel zararı karşılayabileceği 
+durumlar dışında) gebelik sırasında kullanılmamalıdır.   
+99mTc’nin (serbest perteknetat halinde) plasental bariyerden geçtiği gösterilmiştir. Radyasyon 
+içermeyen alternatif tanı yöntemleri düşünülmelidir.  
+Laktasyon dönemi   
+Emziren bir kadına radyofarmasötik verilmeden önce radyonüklid uygulamasının anne 
+emzirmeyi kesene kadar geciktirilmesi ve anne sütüne salgılanan aktivite akılda tutularak en 
+uygun radyofarmasötik seçimi dikkate alınmalıdır. Bu periyot süresince infantlar ile yakın 
+temastan kaçınılmalıdır.   
+Üreme yeteneği/Fertilite   
+Sodyum perteknetatın üreme yeteneği üzerindeki etkisi bilinmemektedir.   
+4.7. Araç ve makine kullanımı üzerindeki etkiler   
+Sodyum perteknetat (99mTc) çözeltisinin araç ve makine kullanma yeteneği üzerinde hiçbir etkisi 
+yoktur.   
+4.8. İstenmeyen etkiler   
+Güvenlilik  profilinin özeti   
+Advers reaksiyonlarla ilgili bilgiler spontan bildirimlerden elde edilmektedir. Bildirilen 
+reaksiyon tipleri anafilaktoid reaksiyonlar, vejetatif reaksiyonlar ve ayrıca çeşitli enjeksiyon 
+bölgesi reaksiyonlarıdır. ULTRA TECHNENOW FM radyonüklid jeneratörün den üretilen 
+sodyum perteknetat (99mTc), çeşitli bileşenlerin radyoaktif olarak işaretlenmesi için 
+kullanılmaktadır. Genellikle bu tıbbi ürünlerin advers reaksiyon potansiyeli 99mTc’den daha 
+yüksektir ve bu nedenle bildirilen advers reaksiyonlar çoğu zaman  99mTc ile değil işaretlenen  8/17 
+ bileşenlerle ilişkilidir. 99mTc işaretli farmasötik preparatların intravenöz uygulamasını takiben 
+olası advers reaksiyon tipleri kullanılan özgün bileşen yapısına bağlıdır. Bu bilgiler 
+radyofarmasötik preparat için kullanılan kitin KÜB ’ünde bulunabilir.  
+ 
+Aşağıdaki advers etkiler organ sistemi sınıflandırması ve sıklığa göre verilmiştir. Sıklık 
+sınıflandırması:  
+Çok yaygın (≥1/10); yaygın (≥1/100 ila <1/10); yaygın olmayan (≥1/1.000 ila <1/100); seyrek 
+(≥1/10.000 ila <1/1.000); çok seyrek (<1/10.000), bilinmiyor (eldeki verilerden hareketle tahmin 
+edilemiyor)  
+ 
+Bağışıklık sistemi hastalıkları   
+Sıklığı bilinmiyor*: Anafilaktik reaksiyonlar (örn., dispne, koma, ürtiker, eritem, kızarıklık, 
+pruritus (kaşıntı), çeşitli yerlerde ödem (örn., yüzde ödem)  
+ 
+Sinir sistemi hastalıkları   
+Sıklığı  bilinmiyor*:  Vazovagal  reaksiyonlar  (örn.,  baygınlık,  taşikardi,  bradikardi, baş dönmesi, 
+baş ağrısı, bulanık görme, ciltte kızarma)   
+Gastrointestinal hastalıklar   
+Sıklığı bilinmiyor*: Kusma, bulantı, diyare   
+Genel bozukluklar ve uygulama bölgesine ilişkin hastalıklar   
+Sıklığı bilinmiyor*: Enjeksiyon bölgesi reaksiyonları (örn ., selülit, ağrı, eritem, şişlik)  
+ 
+* Spontan bildirimlerden kaynaklanan advers reaksiyonlar   
+İyonize radyasyona maruziyet, kanser indüksiyonu ile ilişkilidir ve kalıtsal bozuklukların 
+gelişimi için bir potansiyeldir. Maksimum 400 MBq aktivite uygulandığında etkili doz 5,2 mSv 
+olduğu için, tavsiye edilen olan, bu advers reaksiyonların ortaya çıkmas ı düşük bir olasılıktır.   
+Seçili advers reaksiyonların tanımı   
+Anafilaktoid reaksiyonlar (örn., d ispne, koma, ürtiker, eritem, kızarıklık, kaşıntı, çeşitli yerlerde  
+ödem [örn., yü z ödemi])   
+İntravenöz sodyum perteknetat (99mTc) enjeksiyonundan sonra anafilaktoid reaksiyonlar 
+bildirilmiştir ve bunlar arasında deri iritasyonu, ödem ve dispne  gibi çeşitli deri veya solunumsal 
+semptomlar bulunmaktadır.   
+Vejet atif reaksiyonlar (sinir sistemi ve gastrointestinal bozukluklar)   
+Tek şiddetli vejetatif reaksiyon vakaları bildirilmiştir ancak bildirilen vejetatif reaksiyonların 
+birçoğu bulantı veya kusma gibi gastrointestinal reaksiyonları içermektedir. Diğer bildirimler, 
+baş ağrısı veya baş dönmesi gibi vazovagal reaksiyonları içer mektedir. Vejetatif reaksiyonların, 
+özellikle de anksiyöz  hastalarda, teknesyumdan (99mTc) ziyade muayene ortamıyla ilişkili 
+olduğu düşünülmektedir.  
+ 
+Genel bozukluklar ve uygu lama  bölgesi koşulları   
+Diğer bildirimlerde lokal enjeksiyon bölgesi reaksiyonları tarif edilmektedir. Bu tür reaksiyonlar 
+enjeksiyon sırasında radyoaktif maddenin damar dışına sızmasıyla ilişkilidir ve bildirilen  9/17 
+ reaksiyonlar enjeksiyon bölgesindeki şişlikten selülite kadar sıralanmaktadır. Uygulanan 
+radyoaktiviteye ve işaretli bileşene bağlı olarak, genişlemiş ekstravazasyon cerrahi tedaviyi 
+gerektirebilir.  
+ 
+Şüph eli advers reaksiyonların raporlanması : 
+ 
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem 
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk  dengesinin sürekli olarak izlenmesine 
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye 
+Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir. (www.titck.gov.tr ; e-posta:  
+tufam@titck.gov.tr ; tel: 0 800 314 00 08; faks: 0312 218 35 99)    
+4.9. Doz aşımı ve tedavisi  
+Sodyum perteknetat (99mTc) ile aşırı doz radyasyon uygulanması durumunda, absorbe edilen 
+doz, radyonüklidin vücuttan eliminasyonunun defekasyon, zorlu diürez ve sık mesane boşaltımı 
+ile arttırılması yoluyla mümkün olduğunca azaltılmalıdır. Kazara yüksek sodyum perteknetat 
+(99mTc) dozu uygulanmasından hemen sonra sodyum veya potasyum perklorat uygulandığında, 
+tiroit, tükürük bezleri ve gastrik mukozadaki tutulum belirgin düzeyde azaltılabilmektedir.  
+ 
+5. FARMAKOLOJİK ÖZELLİKLER   
+5.1. Farmakodinamik özellikler   
+Farmakoterapötik  grup:  Diyagnostik radyofarmasötikler, çeşitli tiroid diyagnostik 
+radyofarmasötikleri   
+ATC kodu: V09FX01   
+Diyagnostik amaçla uygulanan doz aralıklarında farmakolojik etki gözlenmemiştir.   
+5.2. Farmakokinetik özellikler   
+Genel özellikler   
+Emilim : 
+Geçerli değildir.  
+Dağılım : 
+Perteknetat iyonu; geçici olarak tükürük bezleri, koroid pleksus, mide (gastrik mukoza) ve tiroid 
+bezinde yoğunlaşan ve değişmeden elimine edilen iyodid  ve perklorat iyonlarına benzer 
+biyolojik dağılıma sahiptir. Perteknetat iyonu, özellikle öncesinde baskılayıcı ajanlarla tedavi 
+glandüler yapılarda tutulumu engellendiğinde vaskülarizasyon artmış veya vasküler 
+permeabilitenin normal olmadığı bölgelerde yo ğunlaşma eğilimindedir. Sağlam kan beyin 
+bariyeri sayesinde sodyum perteknetat (99mTc) beyin dokusuna nüfuz edemez.   
+Organ tutulumu :  
+İntravenöz enjeksiyon yoluyla uygulanan sodyum perteknetatın (99mTc) %70 –80’i kanda 
+proteinlere, öncelikle spesifik olmayan bir yolla albümine bağlanmaktadır.  Bağlanmayan bölüm 
+(%20 –30) geçici olarak tiroid ve tükürük bezlerinde, mide ve nazal mukoza membranlarında ve 
+ayrıca koroid pleksusta birikir.  
+  10/17 
+  
+Bununla birlikte, sodyum perteknetat (99mTc) iyodürün aksine tiroid hormon sentezi için 
+(organifikasyon)  kullanılmaz ve ince bağırsakta emilmez.  Fonksiyonel duruma ve iyodür 
+doygunluğuna (ötiroidizmde yaklaşık %0,3 –3, hipertiroidizm ve iyodür tükenmesinde %25’e 
+kadar) bağlı olarak tiroitte maksimum birikime, enjeksiyondan yaklaşık 20 dakika sonra ulaşılır 
+ve hızla azalır. Bu durum, ayrıca mide muku s membranı paryetal hücreleri ve tükürük bezleri 
+asinar hücreleri için de geçerlidir.  
+ 
+Kan dolaşımına sodyum perteknetat (99mTc) salgılayan tiroidin aksine, tükürük bezleri ve mide 
+sırasıyla sodyum perteknetatı (99mTc) tükürük ve mide sıvısına salgılamaktadır. Tükürük 
+bezindeki birikim, uygulanan aktivitenin %0,5’i kadardır ve maksimum birikime yaklaşık 20 
+dakikada ulaşılmaktadır.  Enjeksiyondan bir saat sonra, tükürükteki konsantrasyon 
+plazmadakinden yaklaşık 10 -30 kat daha yüksektir. Limon suyuyla veya parasempatik sinir 
+sisteminin stimülasyonu ile atılım hızlandırılabilir ve perklorat aracı lığıyla absorpsiyon azaltılır.  
+ 
+Biyotransformasyon :  
+Geçerli değildir.  
+ 
+Eliminasyon:  
+ 
+Plazmadaki yarı ömür yaklaşık 3 saattir. Sodyum perteknetat (99mTc) organizmada metabolize 
+edilmemektedir. Bir kısmı renal yoldan hızlıca elimine edilirken, geri kalanı feçes, tükürük ve 
+gözyaşı sıvısı yoluyla daha yavaş bir şekilde elimine edilmektedir. Uygulamadan sonraki ilk 24 
+saat içinde gerçekleşen atılım ağırlıklı olarak üriner yoldan gerçekleşmektedir (yaklaşık %25) 
+ve sonraki 48 saat içinde fekal yolla eliminasyon olmaktadır. Uygulanan aktivitenin yaklaşık 
+%50’si ilk 50 saat içinde atılmaktadır. Gl andüler yapılardaki selektif perteknetat (99mTc) 
+tutulumu, öncesinde baskılayıcı ajanların uygulamasıyla inhibe edildiğinde atılım yine aynı yolu 
+izlemektedir ancak bu durumda renal klerens daha yüksektir.    
+Sodyum perteknetat (99mTc) başka bir radyofarmasötiğin işaretlenmesi için kullanıldığında 
+yukarıdaki veriler geçerli değildir.   
+5.3. Klinik öncesi güvenlilik verileri   
+Tek doz veya tekrarlanan doz uygulamalarından kaynaklanan akut, subakut  ve kronik toksisiteye 
+dair bilgi yoktur. Klinik tanı işlemleri sırasında uygulanan sodyum perteknetat (99mTc) miktarı 
+çok düşüktür ve alerjik reaksiyonlardan başka advers reaksiyon rapor edilmemiştir.  
+ 
+Bu tıbbi ürün düzenli veya sürekli uygulama için tasarlanmamıştır.   
+Mutajenisite çalışmaları veya uzun süreli karsinojenisite çalışmaları yapılmamıştır.  
+Üreme  Toksisitesi  
+Sodyum perteknetatın intravenöz uygulamayı takiben plasentaya geçişi farelerde çalışılmıştır. 
+Uygulama öncesinde perklorat uygulanmadığında gebeye uygulanan 99mTc’un dozunun %60 
+kadarı uterusda bulunmuştur. Çalışmalar hamile farelerin gebeliği sırasında gerçekleştirilmiştir, 
+gebelik ve laktasyon ve tek başına laktasyon yavrularda kilo kaybı, tüy dökülmesi ve kısırlıktan 
+ibaret olan değişiklikler göstermiştir.  
+  11/17 
+  
+6. FARMASÖTİK ÖZELLİKLER   
+6.1. Yardımcı maddelerin listesi   
+Sodyum klorür   
+Enjeksiyonluk su  
+ 
+6.2. Geçimsizlikler   
+Bu tıbbi ürün, Bölüm 12’de listelenenler dışındaki diğer tıbbi ürünlerle karıştırılmamalıdır.  
+ 
+6.3. Raf ömrü   
+Jeneratör: Üretimin başlangıcından itibaren 21 gün ve aktivite referans zamanından (ART)  sonra 
+9 gündür.   
+Kalibrasyon tarihi ve son kullanım tarihi etikette belirtilmektedir.   
+Sodyum perteknetat (99mTc) eluat: Elüsyondan  sonra 8 saat içinde kullanılmalıdır. Elüsyon 
+flakonları için 25°C’nin altındaki sıcaklıklarda saklanmak koşuluyla; TechneVialler 3 yıl ve 
+Eluent flakon 3 yıl stabildir. Eluat özel saklama koşulu gerektirmez.  
+ 
+6.4. Saklamaya yönelik özel tedbirler   
+Jeneratör: 25°C’nin altında ki oda sıcaklığında saklanmalıdır.  
+Eluat: Tıbbi ürünün elüsyonundan sonraki saklama koşulları için, Bölüm 6.3.’e bakınız. 
+Jeneratörler, Ultra TechneKow Koruyucu (yeterli kurşun korumalı) içerisinde veya uygun bir  
+laboratuvar zırhının arkasında tutulmalıdır.   
+Radyofarmasötiklerin saklanması, radyoaktif materyaller için düzenlenen ulusal mevzuatlara 
+uygun olmalıdır.  
+ 
+6.5. Ambalajın niteliği ve içeriği   
+Jeneratör   
+Jeneratör; 99Mo yüklenmiş olan bir alüminyum oksit kolonu içeren ve iki filtre arasında 
+hapsedilmiş bir kartuştan oluşur. Kartuşun bir tarafı, eluent tutucudaki zırhlı, steril tedarik 
+iğnesine bağlıdır. Diğer tarafı, elüsyon istasyonunda benzer şekilde zırhlı, steril çıkı ş iğnesine 
+bağlıdır. Eluent tutucuda ikinci bir steril iğne steril koşullar altında eluent flakondaki alçak 
+basıncın elimine edilmesini sağlar. Jeneratör kolonu, 99Mo aktivitesine bağlı olarak yeterli 
+kurşunla zırhlanarak korunmaktadır. Dahili (gömülü) ist asyon ve eluent tutucusu içeren zırhlı 
+jeneratör, ayrıca ambalajlanmış olan, hava geçirmez kalay içinde ambalajlanmıştır. Elüsyon 
+eluent flakonun eluent tutucudaki iğneler üzerine yerleştirilmesi, ardından boşaltılmış 
+flakonların tamamen veya kısmen doldur ulmasıyla gerçekleşir.  
+ 
+ 
+ 
+ 
+ 
+  12/17 
+ Aksesuarlar   
+ULTRA TECHNEKOW FM ilk kez tedarik edildiğinde aşağıdaki aksesuarları içerir:  
+✓ 1 TechneVial zırh veya UltraVialZırh  
+✓ Ultra Technekow Koruyucusu ile beraber tedarik edilmediyse 1 steril flakon zırhı.  
+             Her bir ULTRA TECHNEKOW FM aşağıdakiler ile tedarik edilir:  
+✓ 7 TechneVial 5, 11 veya 25 mL’lik steril, boşaltılmış flakonlar  
+✓ Elüsyon setiyle sağlanan 1 Steril flakon  
+✓ 1 eluent flakon, 100 mL steril, fizyolojik tuz çözeltisi  
+✓ 7 Dezenfeksiyon temizleme bezleri  
+✓ 7 Radyoaktivite simgesi olan etiketler  
+ 
+6.6. Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler   
+Genel uyarılar   
+Radyofarmasötikler yalnızca belirlenmiş klinik ortamlarda yetkili kişiler tarafından, alınmalı, 
+kullanılmalı   ve   uygulanmalıdır.   Radyofarmasötiklerin   faturası, saklanması,  kullanımı, 
+taşınması ve imhası yetkili resmi kurumların mevzuatlarına ve/veya mevcut izinlerine tabidir.   
+Radyofarmasötikler hem radyasyon güvenliği hem de farmasötik kalite gerekliliklerini 
+karşılayacak şekilde hazırlanmalıdır. Uygun aseptik önlemler alınmalıdır.  
+ 
+Jeneratörün veya elute edilen çözeltiyi içeren flakonun bütünlüğü herhangi bir zamanda 
+bozulmuşsa kullanılmamalıdır.   
+Uygulama işlemleri, tıbbi ürünün kontaminasyonunu ve uygulama yapanların radyasyon 
+maruziyeti riskini minimize edecek şekilde gerçekleştirilmelidir. Yeterli zırhlama yapılması 
+zorunludur.   
+Radyofarmasötik uygulaması, dışarıdan radyasyon veya idrar çıkışı, kusma vb. nedenlerin 
+kontaminasyonu nedeniyle diğer insanlar için maruziyet riski yaratmaktadır. Bu nedenle, ulusal 
+mevzuatlar doğrultusunda radyasyondan korunma önlemleri alınmalıdır.   
+İmhadan önce jeneratörün rezidüel aktivitesi düşünülmelidir.   
+Jeneratör ve kullanılan vakumlu şişeler ve diğer atıklar radyoaktif özellikte olduğundan, “Tıbbi 
+Atıkların Kontrolü Yönetmeliği ” ve Nükleer Düzenleme Kurumu’nun “Radyoaktif  Atık ve 
+Kullanılmış Yakıt Yönetimi Yönetmeliği ” kurallarına uygun olarak atıklar bertaraf edilmelidir.  
+ 
+7. RUHSAT SAHİBİ   
+NEPHA TIBBİ CİHAZLAR SANAYİ VE TİCARET A.Ş.  
+Sedat Simavi Sokak Gül Apt. No. 21/A  
+06550    Çankaya / ANKARA  
+Tel:   0312 441 88 14  
+Faks: 0312 438 72 60  
+eposta:  nepha@nepha.com.tr  
+ 
+  8. RUHSAT NUMARASI  
+ 
+   2024/302  
+  13/17 
+   9. İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ  
+İlk ruhsat tarihi:  21.08.2024  
+Ruhsat yenileme tarihi:  
+ 
+10. KÜB’ÜN YENİLENME TARİHİ  
+ 
+11. DOZİMETRİ   
+Aşağıda listelenen veriler ICRP 80’den alınmıştır ve aşağıdaki varsayımlar doğrultusunda 
+hesaplanmaktadır:  
+(I) Baskılayıcı bir ajan ile ön tedavi yapılmadığında:  
+ 
+Organ Uygulanan birim aktivite başına adsorbe edilen doz miktarı 
+(mGy/MB q) 
+Yetişkinler  15 yaş  10 yaş  5 yaş  1 yaş  
+Adrenal bezler  0,0037  0,0047  0,0072  0,011  0,019  
+Mesane duvarı  0,018  0,023  0,03 0,033  0,06 
+Kemik yüzeyi  0,0054  0,0066  0,0097  0,014  0,026  
+Beyin  0,002  0,0025  0,0041  0,0066  0,012  
+Meme  0,0018  0,0023  0,0034  0,0056  0,011  
+Safra kesesi  0,0074  0,0099  0,016  0,023  0,035  
+GI kanal       
+- Mide duvarı  0,026  0,034  0,048  0,078  0,16 
+- İnce barsak  0,016  0,02 0,031  0,047  0,082  
+- Kolon  0,042  0,054  0,088  0,14 0,27 
+- Çıkan kolon duvarı  0,057  0,073  0,12 0,2 0,38 
+- İnen kolon duvarı  0,021  0,028  0,045  0,072  0,13 
+Kalp  0,0031  0,004  0,0061  0,0092  0,017  
+Böbrekler  0,005  0,006  0,0087  0,013  0,021  
+Karaciğer  0,0038  0,0048  0,0081  0,013  0,022  
+Akciğer  0,0026  0,0034  0,0051  0,0079  0,014  
+Kaslar  0,0032  0,004  0,006  0,009  0,016  
+Özefagus  0,0024  0,0032  0,0047  0,0075  0,014  
+Yumurtalıklar  0,01 0,013  0,018  0,026  0,045  
+Pankreas  0,0056  0,0073  0,011  0,016  0,027  
+Kırmızı kemik iliği  0,0036  0,0045  0,0066  0,009  0,015  
+Tükürük bezleri  0,0093  0,012  0,017  0,024  0,039  
+Cilt 0,0018  0,0022  0,0035  0,0056  0,01 
+Dalak  0,0043  0,0054  0,0081  0,012  0,021  
+Testisler  0,0028  0,0037  0,0058  0,0087  0,016  
+Timus  0,0024  0,0032  0,0047  0,0075  0,014  
+Tiroid  0,022  0,036  0,055  0,12 0,22 
+Uterus  0,0081  0,01 0,015  0,022  0,037  
+Diğer dokular  0,0035  0,0043  0,0064  0,0096  0,017  
+Etkili doz - 
+(mSv/MBq)  0,013  0,017  0,026  0,042  0,079   14/17 
+ (II) Baskılayıcı bir ajan ile ön -tedavi yapıldığında:  
+ 
+Organ Bloklayıcı ajanlar verildiğinde uygulanan birim aktivite 
+başına absorbe edilen doz miktarı (mGy/MB q) 
+Yetişkinler  15 yaş  10 yaş  5 yaş  1 yaş 
+Adrenal bezler  0,0029  0,0037  0,0056  0,0086  0,016  
+Mesane duvarı  0,03 0,038  0,048  0,05 0,091  
+Kemik yüzeyi  0,0044  0,0054  0,0081  0,012  0,022  
+Beyin  0,0020  0,0026  0,0042  0,0071  0,012  
+Meme  0,0017  0,0022  0,0032  0,0052  0,01 
+Safra kesesi  0,003  0,0042  0,007  0,01 0,013  
+GI kanal       
+- Mide duvarı  0,027  0,0036  0,0059  0,0086  0,015  
+- İnce barsak  0,0035  0,0044  0,0067  0,01 0,018  
+- Kolon  0,0036  0,0048  0,0071  0,01 0,018  
+- Çıkan kolon duvarı  0,0032  0,0043  0,0064  0,01 0,017  
+- İnen kolon duvarı  0,0042  0,0054  0,0081  0,011  0,019  
+Kalp  0,0027  0,0034  0,0052  0,0081  0,014  
+Böbrekler  0,0044  0,0054  0,0077  0,011  0,019  
+Karaciğer  0,0026  0,0034  0,0053  0,0082  0,015  
+Akciğer  0,0023  0,0031  0,0046  0,0074  0,013  
+Kaslar  0,0025  0,0031  0,0047  0,0072  0,013  
+Özefagus  0,0024  0,0031  0,0046  0,0075  0,014  
+Yumurtalıklar  0,0043  0,0054  0,0078  0,011  0,019  
+Pankreas  0,003  0,0039  0,0059  0,0093  0,016  
+Kırmızı kemik iliği  0,0025  0,0032  0,0049  0,0072  0,013  
+Cilt 0,0016  0,002  0,0032  0,0052  0,0097  
+Dalak  0,0026  0,0034  0,0054  0,0083  0,015  
+Testisler  0,003  0,004  0,006  0,0087  0,016  
+Timus  0,0024  0,0031  0,0046  0,0075  0,014  
+Tiroid  0,024  0,0031  0,005  0,0084  0,015  
+Uterus  0,006  0,0073  0,011  0,014  0,023  
+Diğer dokular  0,0025  0,0031  0,0048  0,0073  0,013  
+Etkili doz 
+(mSv /MB q) 0,0042  0,0054  0,0077  0,011  0,019  
+70 kg ağırlığında bir erişkine intravenöz yoldan 400 MBq sodyum perteknetat (99mTc) 
+uygulandığında elde edilen etkili doz yaklaşık 5,2 mSv’dir.  
+ 
+70 kg ağırlığında bir erişkine baskılayıcı bir ajanla ön tedavi yapıldıktan sonra 400 MBq sodyum 
+perteknetat (99mTc) uygulandığında elde edilen etkili doz yaklaşık 1,7 mSv’dir.  
+ 
+Lakrimal kanal sintigrafisi için sodyum perteknetat  (99mTc)  uygulamasında sonra göz lenslerinin 
+absorbe ettiği radyasyon dozu tahminen 0,038 mGy/MBq’dir. Bu da, uygulanan 4 MBq aktivite 
+için 0,01 mSv’den daha düşük bir etkili doza eşdeğerdir .    15/17 
+ Belirtilen radyasyon maruziyeti, ancak sodyum perteknetat (99mTc) birikimi olan tüm organların 
+fonksiyonları normal olduğunda geçerlidir. Hiper/hipofonksiyon (örn., tiroid, gastrik mukoza 
+veya böbrek) ve kan -beyin bariyerinde bozukluk veya renal eliminasyon bozuklukları ile  beraber 
+uzayan süreçler, radyasyon maruziyetinde değişimlere neden olabilir ve hatta bölgesel olarak 
+güçlü maruziyet  artışlarına yol açabilir.   
+Yüzey doz oranları ve biriken doz birçok faktöre bağlıdır. Genel olarak, çevredeki ve çalışma 
+sırasındaki radyasyon ölçümü kritiktir ve uygulanması gereklidir.  
+ 
+12. RADYOFARMASÖTİKLERİN HAZIRLANMASINA YÖNELİK TALİMATLAR  
+ 
+                                                           
+ 
+ 
+1-Üst kapak  
+2-Elüsyon istasyonu  
+3-Eluent flakon  haznesiŞekil 1. Ultra Technekow FM Şemas ı
+  4-Eluent iğnesi için plastik kapak  
+5-Eluent iğnesi için lastik kapak  
+6-Eluat çıkış iğnesi  
+7-Güvenlik valfi  
+8-Kısmi elüsyon için valf  
+9-Kaldıraç kapama halkası  
+  10-Kısmi elüsyon için hava filtresi  
+  11-Steril hava için giriş iğnesi  
+  12-Eluent giriş iğnesi  
+  13-Eluent şişesi için hava filtresi  
+  14-Kaplama  
+15-Kurşun zırh  
+16-Kurşun zırh için destek  
+17-Jeneratör kolonu
+ 
+ 
+16/17 
+ Kullanma Talimatı:   
+Sağım işlemi, jeneratörün sterilitesini koruyabilen elverişli bir ortamda gerçekleştirilmelidir. 
+Hazırlama  
+1. Mühürü kaldırınız, kaldıraç kapatma halkasını açınız ve bu kısmı üst kapak ile birlikte 
+saklayınız.  
+2. ULTRA TECHNEKOW FM’yi, ULTRA TECHNEKOW Koruyucusuna veya başka 
+herhangi bir uygun laboratuvar zırhlayıcısının arkasına elüsyon istasyonu öne gelecek 
+şekilde yerleştiriniz.   
+LÜTFEN DİKKAT EDİNİZ. İğneler kapaklarının altında sterildir ve üst kısmın altındaki  
+jeneratör temizdir, bu nedenle bol miktarda alkol içeren  dezenfektanlarla dezenfeksiyon 
+işlemi istenmez ve ayrıca bu durum perteknetat (99mTc) verimini olumsuz etkileyebilir.  
+3. Eluent flakonun kapsülünden geçmeli kapak kılıfını çıkartınız, tıpayı dezenfekte ediniz, 
+giriş iğnesinin plastik kapağını çıkarınız (ve saklayınız), eluent flakonu tutucusuna 
+yerleştiriniz.  
+4. Steril flakonun kapsülünden geçmeli kapak kılıfını çıkarınız, flakonu steril flakon zırhına 
+yerleştiriniz.   
+5. Çıkış iğnesinden lastik iğne koruyucusunu çıkarınız (ve saklayınız) zırhlı steril flakonu 
+elüsyon istasyonuna yerleştiriniz.  
+ 
+Elüsyon  
+ 
+1. Gerekli TechneVial’in  kapsülünden geçmeli kapak kılıfını çıkarınız (ve saklayınız), 
+tıpayı dezenfekte ediniz, dezenfektanın tamamen buharlaşmasını bekleyiniz ve flakonu 
+UltraVial Zırh içine yerleştiriniz (TechneVial, sterilizasyon işleminin bir sonucu olarak 
+bir miktar su kalı ntısı içerir).  
+2. UltraVial Zırh ile zırhlı steril flakonun yerini değiştiriniz, kurşun cam pencerenin ön 
+tarafa geldiğinden emin olunuz.  
+3. Elüsyon başlar, işlem gerekli elüsyon hacmine [Perteknetat (99mTc) konsantrasyon/m L)] 
+bağlı olarak durdurulabilir. Elüsyon her zaman  UltraVial Zırhın çeyrek tur 
+döndürülmesi, aşağı doğru bastırılması ve birkaç saniye beklenmesi ile sonlandırılır (bu 
+durum TechneVial’in steril hava ile dolmasına neden olur).  
+4. Kullanılmamış zırhlı steril bir flakon ile TechneVial Zırh’ın yerini değiştiriniz.  
+ 
+TechneVial Zırhı çeyrek tur döndürmeden kaldırarak asla elüsyonu kesmeyiniz!  
+Berrak ya da renksiz olmayan elüsyonlar atılmalıdır.  
+Atıkların bertarafı ve jeneratörün geri verilmesi:   
+1. Kullanılmış steril flakonu ve eluent flakonunu çıkarınız ve atınız.  
+2. Orijinal iğne kapağını giriş iğnelerine geri takınız.  
+3. Kalan  sıvı  miktarını  (mililitre)  jeneratörden  ayrıştırınız  (Elüsyon  başlığı  al tına      
+                   bakınız). Jeneratör artık kurumuştur.  
+4. Çıkış iğnesini orijinal iğne kapağı ile kapatınız.  
+5. Jeneratör sistemini, üst kapağı ve kol kapatma halkası ile kapatınız.  
+6. Jeneratörün atık olarak kabul edileceği seviyeye bozunması için uygun bir ortamda 
+saklayınız.  17/17 
+  
+Kullanılmış jeneratörler bozunmanın tamamlanması için Türkiye Enerji , Nükleer  ve Maden 
+Araştırma Kurumu’na gönderilmektedir.  
+Ayrıştırılan çözelti, pH değeri 4 ila 8 arasında olan, berrak ve renksiz sodyum perteknetat  (99mTc) 
+çözeltisidir ve radyokimyasal saflık derecesi ≥ %99 ’dur.  
+Sodyum perteknetat (99mTc) çözeltisi kit işaretleme amacıyla kullanılacağı zaman, lütfen ilgili 
+kitin kullanma talimatına bakınız.   
+Kalite kontrol   
+Uygulamadan önce radyoaktivite ve molibden (99Mo) atılımı kontrol edilmelidir.   
+Molibden (99Mo) atılımı testi, Avrupa Farmakopesi’ne  göre veya uygulama tarihi ve saatindeki 
+molibden (99Mo) içeriğinin toplam radyoaktivitenin %0,1’inin altında olduğunu tespit edebilecek 
+valide edilmiş herhangi bir yöntemle gerçekleştirilebilir.   
+Aksi belirtilmedikçe, bu jeneratörden elde edilen ilk eluat normal olarak kullanılabilir. İlgili kitin 
+KÜB ’ünde aksi belirtilmedikçe, son elüsyondan 24 saat sonra elue edilen eluatlar bile kit 
+işaretlemek için kullanılabilir.  
+ 

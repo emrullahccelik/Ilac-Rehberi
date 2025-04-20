@@ -1,0 +1,491 @@
+1                                                        KISA ÜRÜN BİLGİSİ  
+ 
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI  
+PARİC AL 10  mcg/2 ml I.V. enjeksiyonluk çözelti  
+ 
+2. KALİTATİF VE KANTİTATİF BİLEŞİM  
+Etkin madde:  
+1 doz (2  ml)’sinde :  
+Parikalsitol …………………. 10 mcg  
+ 
+Yardımcı madde (ler):  
+Etanol………………………. 320 mg   
+Propilen glikol……………… 621,6 mg  
+Yardımcı maddeler için bölüm 6.1’e bakınız.  
+ 
+ 3. FARMASÖTİK FORM  
+Enjeksiyonluk çözelti   
+Steril, berrak, renksiz, sulu  çözeltidir.  
+ 
+4. KLİNİK ÖZELLİKLER  
+4.1.Terapötik endikasyonlar  
+PARİC AL hemodiyaliz gören kronik renal yetmezlikle birlikte olan sekonder 
+hiperparatiroidizmin önlenmesinde ve tedavisinde endikedir.  
+ 
+4.2. Pozoloji ve uygulama şekli  
+Pozoloji /uygulama sıklığı ve süresi:  
+Yetişkinler  
+Başlangıç dozu  
+Parikalsitolün başlangıç dozunun belirlenmesi için önerilen iki yöntem vardır. Klinik 
+çalışmalarda güvenli bir şekilde uygulanan doz maksimum 40 mcg’a kadar çıkmıştır.  
+ 
+1) Vücut ağırlığına göre başlangıç dozu  
+Parikalsitolün önerilen başlangıç dozu, diyaliz sırasında herhangi bir zamanda gün aşırıdan 
+daha sık verilmeyen 0 ,04 mcg/kg ile 0 ,1 mcg/kg (2 ,8-7 mc g) arasındaki bolus dozudur.    
+                                                                                                                                  2 2) Bazal iPTH (intakt paratiroid hormonu) düzeylerine göre başlangıç  dozu  
+Kronik böbrek yetmezliği (KBY Evre 5) olan hastalarda biyolojik olarak aktif olan PTH 
+ölçümü için ikinci nesil paratiroid hormon miktar tayini (intakt PTH -iPTH) kullanılmıştır.  
+Parikalsitolün başlangıç dozu aşağıdaki formüle göre belirlenir:  
+ Başlangıç dozu ( mcg)    =    bazal iPTH düzeyi (pg/ml)  
+                                                                           80  
+ve diyaliz sırasında herhangi bir zamanda gün aşırıdan daha sık olmamak üzere intravenöz 
+(İ.V.) bolus tarzında verilir.  
+ 
+Doz titrasyonu:  
+Diyalize giren son dönem böbrek yetmezliğindeki hastalarda PTH düzeyleri için halen kabul 
+edilen hedef sınırlar normal non -üremik üst sınırın 1 ,5 ile 3 katından fazla değildir (iPTH için 
+150-300 pg/ml). Uygun fizyolojik sonuca ulaşmak için yakın takip ve bireysel doz titrasyonu 
+önemlidir.  
+Herhangi bir doz ayarlama periyodunda serum kalsiyum (hipoalbüminemi için düzeltilmiş 
+olan) ve fosfor düzeyleri daha sık izlenmelidir. Hiperkalsemi veya  65 mg2/dl2’den fazla 
+devamlı yükselen düzeltilmiş Ca x P çarpımı saptanırsa bu parametreler normale dönünceye 
+kadar ilacın dozu azaltılmalı ya da ilaç kesilmelidir . Daha sonra parikalsitol tedavisine daha 
+düşük bir dozdan yine başlanabilir.  Eğer bir hasta kalsiyum kaynaklı fosfat bağlayıcı 
+kullanıyorsa doz azaltılabilir ya da verilmeyebilir veya hasta kalsiyum kaynaklı olmayan bir 
+fosfat bağlayıcıya geçirilebilir. Tedaviye yanıt olarak PTH düzeyleri düştüğünde dozların 
+azaltılması gerekebilir. Bu nedenle kademeli dozlama bireysel olarak yapılmalıdır.  
+Eğer tatmin edici bir yanıt gözlenmezse doz 2 -4 haftalık aralarla 2 ile 4 mcg artırılabilir. Eğer 
+herhangi bir zamanda iPTH seviyesi 150 pg/ml’den daha az bir seviyeye düşers e, ilacın dozu 
+azaltılmalıdır.  
+ 
+Aşağıdaki tabloda doz titrasyonu için önerilen bir yaklaşım sunulmuştur:  
+Önerilen dozaj çizelgesi  
+iPTH düzeyi  Parikalsitol dozu 
+Aynı veya artıyor  2-4 mcg artırınız  
+<%30 azalma  2-4 mcg artırınız  
+≥%30 ile ≤%60 arasında azalma  İdame ediniz  
+>%60 azalma  2-4 mcg azaltınız    
+                                                                                                                                  3 iPTH <150 pg/ml  2-4 mcg azaltınız  
+Normalin üst sınırının 1.5 ile 3 katı (150 -300 pg/ml)  İdame ediniz  
+ 
+Uygulama şekli:  
+PARİCAL enjeksiyonluk çözeltinin normal uygulama yolu hemodiyaliz sırasında kan tüpü 
+yoluyladır. Hemodiyaliz girişi olmayan hastalara uygulamadaki ağrıyı en aza indirmek için 
+PARİCAL enjeksiyonluk çözeltisi 30 saniyeden az olmamak üzere yavaş intravenöz 
+enjeksiyon ile verilmelidir.  
+ 
+Özel popülasyonlara ilişkin ek bilgiler  
+Karaciğer yetmezliği:   
+Hafif ve orta şiddetli karaci ğer bozuklu ğu olan hastalarda doz ayarlaması  gerekmemektedir.  
+Şiddetli karaci ğer bozuklu ğunun parikalsitol farmakokineti ği üzerind eki etkisi 
+incelenmemi ştir. 
+ 
+Böbrek yetmezliği:  
+Periton diyaliz veya hemodiyaliz alan hastalarda doz ayarlaması gerekmemektedir. Önemli 
+olarak  sağlıklı bireylerle karşılaştırıldığında Kronik Böbrek Yetmezliği (KBY Evre 5) 
+hastaları azalmış klerens (KL) ve artmış yarı ömür göstermiştir.  
+ 
+Pediyatrik popülasyon:  
+Pediyatrik hastalardaki veriler sınırlıdır ve 5 yaşın altındaki çocuklar için veri 
+bulunmamaktadır (bkz. Bölüm 5.1).  
+ 
+Geriyatrik popülasyon:  
+65 yaş üzerindeki hastalarda veya Faz III çalışmalarında parikalsitol  alımı üzerine kısıtlı 
+deneyim mevcuttur . Bu çalışmalarda 65 yaş ve üzerindeki hastalar ile genç hastalar arasında 
+etkililik ya da güvenli lik yönünden farklar gözlenmemiştir.  
+ 
+Parenteral ilaç ürünleri çözelti  ve ambalajın izin verdiği ölçüde partiküllü madde ve renk 
+değişimi yönünden gözle incelenmelidir.  
+ 
+TEK KULLANIMLIKTIR. K ULLANILMAYAN KISMI ATILMALIDIR.  
+    
+                                                                                                                                  4 4.3.  Kontrendikasyonlar  
+PARİC AL enjeksiyonluk çözelti, vitamin D toksisitesi, hiperkalsemi veya bu ürünün 
+içeriklerinden birine karşı hipersensitivitesi olan hastalara verilmemelidir (bkz. Bölüm 4.4).  
+ 
+4.4.  Özel kullanım uyarıları ve önlemleri  
+Paratiroid hormonunun aşırı baskılanması, serum kalsiyum seviyelerinde artış ile 
+sonuçlanabilir ve metabolik kemik hastalığına yol açabilir. Uygun fizyolojik sonuca ulaşmak 
+için hasta monitorizasyonu ve bireysel doz titrasyonu gereklidir.  
+ 
+Eğer klinik olarak anlamlı bir hiperkalsemi gelişirse ve hasta kalsiyum kaynaklı fosfat 
+bağlayıcı alıyorsa, kalsiyum kaynaklı fosfat bağlayıcının dozu azaltılmalı ya  da kesilmelidir.  
+ 
+PARİC AL’ın akut aşırı dozu hiperkalsemiye neden olabilir ve acil müdahale gerektirir. Doz 
+ayarlaması sırasında serum kalsiyum ve fosfor düzeyleri yakından izlenmelidir. Eğer klinik 
+olarak anlamlı hiperkalsemi gelişirse doz azaltılmalı ya da kesilmelidir. PARİC AL’ın kronik 
+kullanımı hastada hiperkalsemi, kalsiyum ve fosfor düzeylerinin çarpımının (Ca x P) 
+yükselmesi ve metastatik kalsifikasyon riskine yol açabilir.  
+ 
+Kronik hiperkalsemi yaygın vasküler kalsifikasyona ve diğer yumuşak doku kalsifikasyonuna 
+neden olabilir.  
+ 
+Digital toksisitesi herhangi bir nedenden hiperkalsemi ile potansiyelize olur, bu nedenle 
+parikalsitol  ile birlikte reçetele ndiğinde dikkatli olunmalıdır ( bkz. Bölüm 4.5 )  
+ 
+PARİCAL'in kronik kullanımı seyrek olarak hiperkalsemiye bağlı potansiyel aritmi ve 
+konvulziyon komplikasyonları ile sonuçlanabilir.  
+ 
+PTH düzeyleri anormal düzeylere baskılandığında adinamik kemik lezyonları (düşük döngülü 
+kemik hastalığı) gelişebilir.  
+ 
+Parikalsitol, ketokonazol ile beraber kullanılıyorsa dikkat edilmelidir.  
+ 
+ 
+   
+                                                                                                                                  5 Laboratuvar testleri:  
+PARİC AL ile doz ayarlaması sırasında ve dozaj belirlenmeden önce laboratuvar testlerinin 
+daha sık yapılması gerekebilir. Doz bir kez belirlendikten sonra serum kalsiyum ve fosfor 
+düzeyleri en az ayda bir kez ölçülmelidir. Serum veya plazma intakt PTH ölçümünün her üç 
+ayda bir yapılması önerilir (bkz. Bölüm 4.2).  
+ 
+PARİC AL, %20 (h/h) etanol (alkol)  içerir. Her  bir doz 1 ,3 g’a kadar etanol içerebilir. 
+Alkolizm şikâyeti  olanlar için zararlıdır.  
+Hamile veya emziren kadınlarda, çocuklarda ve karaci ğer hastalı ğı veya epilepsisi olan  
+hastalar gibi yüksek risk gruplarında bu durum dikkate alınmalıdır . 
+ 
+4.5. Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri  
+PARİC AL’ın, sitokrom P450 enzimleri (CYP1A2, CYP2A6, CYP2B6, CYP2C8,  CYP2C9, 
+CYP2C19, CYP2D6, CYP2E1 veya CYP3A) ile metabolize olan ilaçları inhibe  etmesi ve 
+CYP2B6, CYP2C9 veya CYP3A ile metabolize olan ilaçların klerensini  indüklemesi 
+beklenmemektedir.   
+ 
+PARİC AL enjeksiyonluk çözelti  ile spesifik etkile şim çalı şmaları yapılmamı ştır. 
+ 
+Ketokonazol: PARİC AL enjeksiyonluk çözelti ile çalı şılmamı ş olmasına ra ğmen,  
+ketokonazolün 200 mg’lık çoklu dozla, 5 gün boyunca günde 2 kez alınmasının  parikalsitol  
+kapsüllerin farmakokineti ği üzerindeki  etkisi sa ğlıklı deneklerde  çalışılmıştır. Ketokonazol 
+varlığında parikalsitolün Cmax de ğeri en az etkilenmi ş, fakat  EAA o- değeri yakla şık olarak 
+ikiye katlanmı ştır. Parikalsitolün ortalama yarı ömrü, tek  başına alındı ğındaki 9 ,8 saate 
+kıyasla, ketokonazol varlı ğında 17  saattir (bkz. Bölüm  5). 
+ 
+Dijital toksisitesi herhangi bir nedene bağlı hiperkalsemi tarafından potansiyalize edilebilir; 
+bu nedenle parikalsitol  ile birlikte dijital verildiğinde dikkatli olunmalıdır.  
+ 
+Fosfat veya vitamin D ilişkili tıbbi ürünler, artan hiperkalsemi riski ve kalsiyum fosfor 
+çarpımı (Ca x P) yükselmesi nedeniyle parikalsitol ile birlikte alınmamalıdır.  
+   
+                                                                                                                                  6 Artmış alüminyum kan seviyesinden dolayı ve alüminyum kemik toksisitesi oluşabileceği için 
+alüminyum içeren preparatlar (ö r. antiasitler, fosfat bağlayıcılar) kronik bir şekilde vitamin D 
+tıbbi ürünleri ile birlikte kullanılmamalıdır.  
+ 
+Kalsiyum içeren  preparatların veya tiyazid diüretiklerinin yüksek dozları hiperkalsemi riskini 
+arttırabilir. M agnezyum içeren preparatlar (ör . antiasitler) vitamin D preparatları ile beraber 
+alınmamalıdır çünkü hipermagnezemi oluşabilir.  
+ 
+4.6. Gebelik ve laktasyon  
+Genel tavsiye  
+Gebelik kategorisi: C  
+ 
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon)  
+Parikalsitol hamilelikte ve doğum kontrolü kullanmayan çocuk doğurma potansiyeli bulunan 
+kadınlarda önerilmemektedir . 
+ 
+Gebelik dönemi  
+ Hayvan çalı şmaları üreme toksisitesi  göstermi ştir (bkz. Bölüm 5.3).  
+Gebe kadınlarda yeterli ve iyi kontrollü çalı şmalar yoktur. İnsanlardaki kullanımında  
+potansiyel risk bil inmemektedir bundan dolayı PARİC AL kesinlikle gerekli olmadıkça  
+kullanılmamalıdır.   
+ 
+Laktasyon dönemi  
+Sıçanlardaki çalışmalar parikalsitolün süte geçtiğini göstermiştir. Parikalsitolün insan sütüne 
+geçip geçmediği bilinmemektedir.  
+Emziren annede ilacın annedeki önemi dikkate alınarak emzirmenin veya ilacın kesilip 
+kesilmeyeceği kararının verilmesi gereklidir.  
+ 
+4.7. Araç ve makine kullanımı üzerindeki etkiler  
+Araç ve makine kullanma yeteneği üzerindeki etkileriyle ilgili çalışmalar yapılmamıştır.  
+ 
+4.8. İstenmeyen etkiler  
+Parikalsitol  ile Faz II, III ve IV klinik çalışmalarında yaklaş ık 600 hasta tedavi edilmiştir. 
+Bütünüyle, parikalsitol  ile tedavi edilen hastaların %6’sı advers reaksiyonlar bildirmiştir.    
+                                                                                                                                  7  
+Parikalsito l tedavisi ile ilişkilendirilen en yaygın advers reaksiyon hastaların %4 ,7’sinde 
+oluşan hiperkalsemidir. Hiperkalsemi, PTH’ın aşırı baskılanma seviyesine bağlıdır ve uygun 
+bir doz titrasyonu ile en aza indirgenebilir.  
+ 
+Klinik  ve laboratuvar  çalışmalardan , parikalsitol ile muhtemelen, ilişkili olan advers 
+reaksiyonlar MedDRA organ sistem Sınıflandırması, advers olay  ve sıklık olarak 
+sunulmaktadır.  
+ 
+Sıklık kategorileri şu şekildedir; Çok yaygın (≥1/10); yaygın (≥1/100, <1/10); yaygın olmayan 
+(≥1/1000, <1/100); seyrek (≥1/10000, <1/1000); çok seyrek (< 1/10000 ) bilinmiyor (eldeki 
+verilerd en hareketle tahmin edilemiyor) . 
+ 
+Sistem organ sınıfı Sıklık  Advers olay 
+Enfeksiyonlar ve  enfestasyonlar  Yaygın olmayan  Pnömoni, influenza, sepsis,  
+enfeksiyon, faranjit, vajin al 
+enfeksiyon  
+İyi huylu ve kötü huylu  
+neoplazmalar (kist ve  polipler 
+dâhil ) Yaygın olmayan  Meme kanseri  
+Kan ve lenf sistemi  hastalıkları  Yaygın olmayan  Anemi, lökopeni, lenfadenopati,  
+Bağışıklık sistemi  hastalıkları  Yaygın olmayan  Aşırı duyarlılık  
+Bilinmiyor  Larenjal ödem, anjiyoödem, ürtiker  
+Endokrin hastalıkları  Yaygın  Hipoparatiroidizm  
+Yaygın olmayan  Hiperparatiroidizm  
+Metabolizma ve beslenme  
+hastalıklar ı Yaygın  Hiperkalsemi, hiperfosfatemi  
+Yaygın olmayan  Hipokalsemi, hiperkalemi, anoreksi  
+Psikiyatrik hastalıkları  Yaygın olmayan  Deliryum, konfüzyon, ajitasyon,  
+insomni, sinirlilik,  
+depersonalizasyon  
+Sinir sistemi hastalıkları  Yaygın  Disgözi, baş ağnsı  
+Yaygın olmayan  Kom a, serebrovasküler kaza, geçici 
+iskemik atak, senkop, myoklonus, 
+sersemli k hissi, hipoestezi, parestezi  
+Göz hastalıkları  Yaygın olmayan  Konjonktivit, glokom    
+                                                                                                                                  8 Kulak ve iç kulak  hastalıkları  Yaygın olmayan  Kulak hastalıkları  
+Kardiyak hastalıkları  Yaygın olmayan  Kalp durması , atriyal flatter, aritmi  
+Vasküler hastalıkları  Yaygın olmayan  Hipotansiyon, hipertansiyon  
+Solunum, göğüs  bozuklukları 
+ve mediastinal  hastalıkları  Yaygın olmayan  Pulmoner ödem, astım, dispne,  
+burun kanaması, öksürük  
+Gastrointestinal hastalıkları  Yaygın olmayan  Rektal kanama, kolit, diyare, gastrit, 
+dispepsi, disfaji, konstipasyon, 
+bulantı, kusma, abdominal 
+rahatsızlık, ağız kuruluğu, 
+gastrointestinal bozukluk  
+Bilinmiyor  Gastrointestinal kanama  
+Deri ve derialtı doku 
+hastalıkları  Yaygın  Pruritus  
+Yaygın olmayan  Büloz dermatit, alopesi, hirsutizm, 
+döküntü, hiperhidroz  
+Kas-iskelet bozuklukları, bağ 
+doku ve kemik hastalıkları  Yaygın olmayan  Artralji, eklem sertliği, sırt ağrısı, 
+kas çekilmesi, miyalji  
+Üreme sistemi ve meme 
+hastalıkları  Yaygın olmayan  Erektil disfonksiyon, meme ağrısı,  
+Genel bozukluklar ve uygulama 
+bölgesine ilişkin hastalıkları  Yaygın olmayan  Yürüme güçlüğü, ödem, periferal 
+ödem, ağrı, enjeksiyon bölgesinde 
+ağrı, ateş, göğüs ağrısı, asteni, 
+halsizlik, ağırlaşan durum, susuzluk  
+Araştırmalar  Yaygın olmayan  Uzamış kanama süresi, Artmış 
+aspartat aminotransferaz, anormal 
+laboratuvar testleri, kiloda azalma  
+ 
+Şüpheli advers reaksiyonların raporlanması  
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem 
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine 
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye 
+Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir ( www.titck.gov.tr ; e-
+posta: tufam@titck.gov.tr ; tel: 0 800 314 00 08; faks: 0 312 218 35 99).  
+   
+                                                                                                                                  9 4.9. Doz aşımı ve tedavisi  
+PARİC AL’in aşırı dozu hiperkalsemi, hiperkal suri, hiperfosfatemi ve PTH'nin  aşırı 
+baskılanmasına  yol açabilir (bkz. Bölüm 4.4).  
+  
+Parikalsitol belirgin bir şekilde diyaliz ile uzaklaştırılmaz. Klinik olarak anlamlı 
+hiperkalsemisi olan hastaların tedavisi için PARİC AL dozu derhal azaltılmalı ya da kesilmeli, 
+düşük kalsiyumlu diyet uygulanma lı, kalsiyum desteği kesilmeli, hasta mobilize edilmeli, sıvı 
+ve elektrolit dengesizliklerine dikka t edilmeli, elektrokardiyografik anormallikler 
+değerlendirilmeli (dijital alan hastalarda kritik önem taşır) ve hemodiyaliz ya da gerekirse 
+kalsiyumsuz bir diyalizat ile p eriton diyalizi uygulanmalıdır.   
+ 
+Serum kalsiyum düzeyleri normale döndüğünde PA RİCAL tedavisine en düşük dozda tekrar 
+başlanabilir.  Serum kalsiyum düzeyleri sürekli o larak ve önemli derecede yüksek ise farklı 
+alternatif tedaviler uygulanabilir. Bu tedaviler e fosfat ve kortikosteroid gibi ilaçlar ve idrar 
+artışının uyarılması dahildir.  
+ 
+PARİC AL enjeksiyonluk çözelti, yardımcı madde olarak %30 (h/h) propilen glikol içeri r. 
+Yüksek dozlardaki uygulama sonrası izole vakalarda Merkezi Sinir Sistemi depresyonu, 
+hemoliz ve laktik asidoz, propilen glikol ile ilişkili toksik etki olarak bildirilmiştir. Propilen 
+glikol diyaliz işlemi sırasında elimine edildiği için bu etkilerin PARİC AL uygulamasında 
+bulunması beklenmemesine rağmen doz aşımı durumlarındaki toksik etki riski dikkate 
+alınmalıdır.  
+ 
+5. FARMAKOLOJİK ÖZELLİKLER  
+5.1. Farmakodinamik özellikler  
+Farmakoterapötik grup: Diğer anti-paratiroid ilaçlar  
+ATC kodu: H05BX02  
+ 
+Etki Mekanizması  
+Parikalsitol, kalsitriolün yan zincirindeki (D 2) ve A (19 -nor) halkasındaki değişimlerle  
+sentetik, biyolojik olarak aktif bir D vitamini analogudur.  Kalsitrolden farklı olarak, 
+parikalsitol selektif D vitamini reseptörü (VDR) aktivatörüdür. Parikalsitol paratiroid 
+bezlerdeki VDR’yi, ba ğırsaklardaki VDR’yi artırmadan selektif olarak upregüle eder  ve 
+kemik rezorpsiyonu üzerinde daha az aktiviteye sahiptir. Parikalsitol aynı zamanda paratiroid   
+                                                                                                                                  10 bezlerindeki kalsiyuma duyarlı reseptörleri de upregüle eder . Sonuç olarak, parikalsitol, 
+paratiroid proliferasyonunu inhibe ederek ve PTH sentezini ve sekresyonunu azaltarak, 
+kalsiyum ve fosfor düzeyleri üzerinde minimal bir etkiyle paratiroid hormon (PTH) 
+düzeylerini düşürür ve kemik hacmini sürdürmek ve mineralizasyon yüzeylerini artırmak için 
+kemik hücreleri üzerinde doğrudan etki gösterebilir. Kalsiyum ve fosfor homeostazının 
+normalizasyonu ile anormal PTH düzeylerinin düzeltilmesi, kronik böbrek hastalığı ile 
+bağlantılı metabolik kemik hastalığını önleyebilir veya tedavi edebilir.  
+ 
+Etkililik ve güvenlilik  
+Pediyatrik hastalar:  
+Parika lsitol’ü n güvenli liği ve etkili liği, 5 -19 yaş arasında hemodiyalizdeki son dönem böbrek 
+hastalığı olan 29 pediyatrik hastanın 12 haftalık randomize, çift kör, plasebo kontrollü 
+çalışmasında incelenmiştir . Çalışmada Parikalsitol  ile tedavi edilen hastalardan en genç altısı 
+5-12 yaşları arasındadır. Parikalsitol’ü n başlangıç dozu sırasıyla; bazal iPTH seviyesi 500 
+pg/ml’den az olanlarda haftada üç kez 0 ,04 mcg/kg veya bazal iPTH seviyesi ≥ 500 pg/ml 
+olanlarda haftada üç kez 0 ,08 mcg/kg’dır. Serum iPTH, kalsiyum ve kalsiyum fosfor çarpımı 
+(Ca x P) seviyelerine göre Parikalsitol  dozu 0 ,04 mcg/kg’lık artışlarla ayarlanmıştır.  
+Parikalsitol  ile tedavi edilen hastaların %67’si ve plasebo ile tedavi edilen hastaların %14’ü 
+tedaviyi tamamlamıştır. Parikalsitol grubundaki hastaların %60’ı ile  plaseb o grubundaki 
+hastaların %21’i , bazal iPTH düzeyine  göre a rka arkaya iki kez %30’luk düşüş  göstermiştir . 
+Plasebo hastalarının %71’i iPTH seviyelerindeki aşırı yükselmelerden dolayı çalışmaya 
+devam etmemiştir.  
+Parikalsitol  grubunda veya plasebo grubunda kimsede  hiperkalsemi  gelişmemiştir. 5 yaşın 
+altındaki hastalar için veri mevcut değildir.  
+ 
+Karaciğer yetmezliği:  
+Parikalsitol (0 ,24 mcg/kg) durumu hafif (n=5) ve orta şiddetli (n=5) hepatik  bozukluğu 
+(Child -Pugh metodunda belirtildiği gibi) olan hastalar ile normal karaciğer  fonksiyonu (n=10) 
+olanlarda karşılaştırıldı. Bağlanmamış durumdaki parikalsitolün  farmakokinetiği bu çalışmada 
+değerlendirilen karaciğer fonksiyon aralığı boyunca benzer  niteliktedir.  
+ 
+Böbrek yetmezliği:  
+Parikalsitol farmakokinetiği hemodiyaliz (HD) ve periton diyalizi (PD) gerektiren Kronik  
+Böbrek Yetmezliği (KBY Evre 5) hastalarında incelenmiştir. Hemodiyaliz işleminin    
+                                                                                                                                  11 parikalsitol eliminasyonu üzerinde temel bir etkisi bulunmamaktadır. Fakat sağlıklı  bireylerle 
+karşılaştırıldığında Kronik Böbrek Yetmezliği (KBY Evre 5) hastala rı azalmış  klerens (KL) 
+ve artmış yarı ömür göstermiştir.  
+ 
+5.2. Farmakokinetik özellikler  
+Genel özellikler  
+Emilim : 
+PARİCAL İ.V. formülasyon olduğundan geçerli değildir.  
+ 
+Dağılım:  
+Parikalsitolün farmakokinetiği hemodiyaliz gereken  Kronik Böbrek Yetmezliği (KBY) olan 
+hastalarda araştırılmıştır. PARİCAL intravenöz bol us enjeksiyonla uygulanır. 0 ,04 ile 0 ,24 
+mcg/kg arasındaki dozlarda verildik ten iki saat sonra parikalsitol konsantrasyonları hızla 
+düşer; ardından, parikalsitol konsan trasyonları yaklaşık 15 saatlik bir ortalama yarı -ömürle, 
+log-lineer biçimde düşme g österir. Çoklu uygulama sonrası parikalsitol birikimi 
+gözlenmemiştir.  
+ 
+Parikalsitol büyük ölçüde plazma proteinlerine bağlanır (>%99). Sağlıklı bireylerde sabit 
+durum dağılım hacmi yaklaşık 23 ,8 L’dir. Hemodiyaliz (HD) ve periton diyalizi (PD) 
+gerektiren Kronik Böbrek Yetmezliği (KBY) Evre 5 hastalarında 0 ,24 mcg/kg parikalsitol 
+dozunu takiben ortalama sanal dağılım hacmi 31 L – 35 L arasındadır.  
+ 
+Biyotransformasyon:  
+İdrar ve dışkıda bazı bilinmeyen metabolitler saptanırken, idrarda parikalsitole 
+rastlanmamıştır. Bu metabolitler karakter ize edilmemiş ve tanımlanmamıştı r. Bu 
+metabolitlerin birlikte ü riner radyoaktivitenin %51 'inde ve fekal radyoaktivitenin %59'unda 
+payı bulunmaktadır. Parakalsitolün in vitro  plazma protein bağlanması kapsamlıdır (>%99 ,9) 
+ve 1 ila 100 ng/ml konsantrasyon aralığında doymamıştır.  
+ 
+Eliminasyon:  
+Parikalsitol primer olarak hepatobiliyer atılımla elimine edilmiştir. Sağlıkl ı kişilerde 
+radyoaktif dozun %74 ’ü dışkıdan atılırken yalnızca % 16’sı  idrarda bulunmuştur. Sağlıklı 
+kişilerde 0 ,04-0,16 mcg/kg’lık doz aralığında parikalsitolün ortalama eliminasyon yarı ömrü 
+yaklaşık 5 -7 saattir.    
+                                                                                                                                  12 Kronik böbrek yetmezliği (KBY) evre 5 hastalarında tek 0 ,24 mcg/kg İ.V.  bolus 
+dozundan sonra parikalsitol farmakokinetik parametreleri (Ortalama ± SD)  
+ KBY Evre 5 - Hemodiyaliz 
+(n=14)  KBY Evre 5 - Peritonal Diyalizi  
+(n=8)  
+Cmax (ng/ml)  1,680±0 ,511  1,832±0 ,315  
+EAA 0-∞ (ng⋅h/ml)  14,51±4 ,12  16,01±5 ,98  
+β (1/h)  0,050±0 ,023  0,045±0 ,026  
+t1/2 (h)*  13,9±7,3  15,4±10 ,5  
+KL (l/h)  1,49±0 ,60  1,54±0 ,95  
+Vdβ (l)  30,8±7,5  34,9±9,5  
+* harmonik ortalama ± psödo standart sapma  
+ 
+Hastalardaki karakteristik özellikler  
+Geriyatrik  popülasyon :   
+Parikalsitol farmakokinetiği 65 yaşın üzerindeki geriyatrik hastalarda araştırılmamıştır.  
+ 
+Pediyatrik  popülasyon :  
+Parikalsitol farmakokinetiği 18 yaşın altındaki pediyatrik hastalarda araştırılmamıştır.  
+ 
+Cinsiyet:  
+Parikalsitol farmakokinetiği cinsiyete bağlı değildir.  
+ 
+5.3. Klinik öncesi güvenlilik verileri  
+CD-1 farelerindeki 104 -haftalık bir karsinojenisite çalışmasında, 1, 3, 10 mcg/kg dozlarında 
+(14 mcg’lık insan dozundaki EAA’nin 2 -15 katı, 0 ,24 mcg/kg’a eşdeğer dozlarda) subkutan 
+yoldan verildiğinde, uterus leiyomyoma ve leiyomyosarkom insidansında bir artış 
+gözlemlenmiştir. Uterus leiyomyoma insidansı oranı, en yüksek doz olan 10 mcg/kg dozunda 
+anlamlı ölçüde farklıdır.  
+Sıçanlarda yapılan 104 haftalık bir karsinojenisit e çalışmasında, 0.15, 0.5, 1.5 mcg /kg [14 
+mcg’lık (0 ,24 mcg/kg) insan dozunun EAA’sının < 1 –7 katı] subkutan dozlarında benign 
+adrenal feokromositoma insindansında bir artış olmuştur. Sıçanlarda artmış feokromositoma 
+insidansı, parikalsitolün kalsiyum homeostazını değiştirmesiyle ilgili olabilir.  
+   
+                                                                                                                                  13 Kemirgen ve köpeklerdeki doz tekrarlı toksikoloji çalışmalarındaki belli başlı bulgular 
+genellikle parikalsitolün kalsemik aktivitesine atfedilmekteydi. Hiperkalsemi ile tam olarak 
+ilişkili olmayan etkiler arasında, köpeklerde düşük akyuvar sayımları ve timik atrofi, ayrıca 
+APTT değerlerinde bozulmalar (köpeklerde yüksek, sıçanlarda düşük) bulunmaktadır.  
+ 
+Parikalsitolün klinik çalışmalarında beyaz kan hücrelerinde değişiklikler saptanmamıştır.  
+ 
+Parikalsitol sıçanlarda fertiliteyi etkilememiştir ve sıçanlarda veya tavşanlarda teratojenik 
+aktivite kanıtı bulunmamıştır. Hayvanlarda gebelik süresince uygulanan diğer vitamin D 
+preparatlarının yüksek dozları teratojenize yol açmıştır. Parikalsitol, maternal toksik dozlarda 
+alındığında fetal yaşanabilirliği etkilemektedir ve yeni doğan sıçanlarda peri -natal ve post -
+natal mortalitede belirgin bir artışa neden olmaktadır.  
+ 
+Parikalsitol, bir takım in-vivo ve in-vitro  genotoksisite miktar tayininde genoto ksik potansiyel 
+göstermemiştir.  
+Kemirgenlerdeki karsinogenez çalışmaları insanlardaki kullanıma ilişkin özel bir risk 
+göstermemiştir.  
+Parikalsitol uygulanan dozlar ve/veya parikalsitole sistemik maruziyet, terapötik 
+dozlar/sistemik maruziyetten biraz daha fazlaydı.  
+ 
+Parikalsitolün vücut y üzeyine göre [ mcg/m2] insanda önerilen (14 mcg-0,24 mcg/kg) dozun 
+13 katına eşdeğer olan 20 mcg/kg intravenöz dozunda sıçanlarda fertilite (erkek veya dişi) 
+üzerinde etkisi yoktur.  
+ 
+Parikalsitolün vücut yüzeyine göre [ mcg/m2] insanda önerilen 0 ,24 mcg/kg dozun 0 ,5 katına 
+eşdeğer olan dozda tavşanlara ve insanda önerilen 0 ,24 mcg/kg dozun (maruziyetin plazma 
+düzeylerine göre) 2 katına eşdeğer olan dozda sıçanlara verildiğinde fetal viabilitede minimal 
+(%5) azalmalara neden olduğu gösterilmiştir. Test edilen en yüksek dozda (sıçanlarda haftada 
+3 defa 20 mcg/kg, vücut yüzey alanına göre insandaki 0 ,24 mcg/kg dozunun 13 katı) maternal 
+olarak toksik dozlarda (hiperkalsemi) yeni doğan sıçanlarda mortalitede anlamlı bir artış 
+olmuştur. Yavruların gelişiminde başka etkiler gözlenmemiştir. Parikalsitol test edilen 
+dozlarda teratojenik değildir.  
+   
+                                                                                                                                  14 Parikalsitol in vitro  olarak metabolik aktivite olsun ya da olmasın mikrobiyal mutagenez 
+tayininde (Ames Tayini), fare lenfoması mutagenez tayininde (L5178Y) veya bir insan 
+lenfoması hücre kromozom abrasyon tayininde genetik toksisite göstermemiştir. Bir in vivo  
+fare mikronükleus tayininde genetik toksisite kanıtı yoktur.  
+ 
+6. FARMASÖTİK ÖZELLİKLER  
+6.1. Yardımcı maddelerin listesi  
+Susuz e tanol  
+Propilen glikol  
+Enjeksiyonluk su  
+ 
+6.2. Geçimsizlikler  
+Propilen glikol, heparin ile etkileşir ve etkisini nötralize eder. PARİC AL yardımcı madde 
+olarak propilen glikol içerir ve heparinden farklı bir enjeksiyon setinden  uygulanmalıdır.  
+Bu tıbbi ürün diğer tıbbi ürünlerle karıştırılmamalıdır.  
+ 
+6.3. Raf ömrü  
+24 ay  
+ 
+6.4. Saklamaya yönelik özel tedbirler  
+25°C altında ki oda sıcaklığında saklayınız.  
+ 
+6.5. Ambalajın niteliği ve içeriği  
+PARİCAL, 2 ml çözelti içeren 2 ml’lik tip 1 renksiz cam ampullerde 5 ampullük kutular 
+halinde kullanıma sunulmuştur.   
+ 
+6.6. Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler  
+Parenteral ilaç ürünleri çözelti  ve ambalajın izin verdiği ölçüde partiküllü madde ve renk 
+değişimi yönünden gözle incelenmelidir. Çözelti berrak ve renksizdir.  
+TEK KULLANIMLIKTIR. KULLANILMAYAN KISMI ATILMALIDIR.  
+ 
+Kullanılmamış olan ürünler ya da atık materyaller “Tıbbi Atıkların Kontrol Yönetmeliği ” ve 
+“Ambalaj Atıklarının Kontrolü Yönetmeliği”ne  uygun olarak imha edilmelidir.  
+   
+                                                                                                                                  15 7. RUHSAT SAHİBİ  
+VEM İLAÇ San. ve Tic. A.Ş  
+Maslak Mahallesi AOS 55. Sokak  
+42 Maslak A Blok Sit. No: 2/134  
+Sarıyer/İSTANBUL  
+ 
+8. RUHSAT NUMARASI  
+254/11  
+ 
+9. İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ  
+İlk ruhsat tarihi: 11.10.2013  
+Ruhsat yenileme tarihi:  
+ 
+10. KÜB’ÜN YENİLENME TARİHİ  

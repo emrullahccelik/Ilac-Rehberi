@@ -1,0 +1,796 @@
+1 
+ KISA ÜRÜN BİLGİSİ 
+ 
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI 
+ 
+MON.IYOT-131 0,37-7400 MBq (10 µ Ci – 200 mCi) oral kapsül 
+0,37 - 7400 MBq / Kapsül   
+2. KALİTATİF VE KANTİTATİF BİLEŞİM 
+ 
+Etkin madde : 
+Bir kapsül referans gün ve s aatinde 0,37 – 7400 MB q ( 10 µCi – 200 mCi) aktivitede sodyum 
+iyodür (
+131I) şeklinde 131I içermektedir. 
+ İyot-131’in yarılanma ömrü 8.02 gündür. Aktivite azalması sıras ında, beta (β) ve
+ gama (γ) 
+radyasyonu yayar. Ksenon-131’i kararlı hale getirmek için 606 k eV maksimum enerji ile beta 
+radyasyonu ve 365 keV (% 81,7), 637 keV (% 7.2) ve  284 keV (% 6.1) gama radyasyonu 
+yayarak bozunur.   
+Yardımcı maddeler : 
+ 1 kapsülde bulunabilecek miktar 
+ Tanı (D) Tedavi (T) 
+Disodyum hidrojen fosfat anhidr 400 mg  400 mg  
+Sodyum tiyosülfat   0,1 -1 mg 0,1 -1 mg 
+Sodyum karbonat dekahidrat 0,02 - 1,1 mg 0,0 - 0,7 mg Sodyum bikarbonat 0,05 - 2,8 mg 0,0 - 1,7 mg Sodyum hidroksit 1M 0,00 - 0,01 mL 0,00 – 0,01mL  
+ 
+Yardımcı maddeler için 6.1’e bakınız.   
+ 
+3. FARMASÖTİK FORM 
+Oral kapsül 
+İçerisinde beyaz ila açık kahverengi arası renkte toz içeren sa ydam, renksiz sert jelatin 
+kapsül. 
+ 
+4. KLİNİK ÖZELLİKLER 
+ 4.1 Terapötik Endikasyonlar 
+ 
+Terapötik endikasyonlar: 
+- Graves hastalığı, Toksik Multinod üler Guatr ve Toksik adenom te davisi 
+- Papiller ve Folliküler Tiroid kanserinde ablasyon tedavisi ve m etastatik hastalık 
+tedavisi 
+ Tanısal Endikasyonlar: 
+- Radyoaktif iyot uptake testi, Tir oid sintigrafisi ve radyoaktif  iyot ile tüm vücut tarama 
+ 
+4.2  Pozoloji ve uygulama şekli 
+ Pozoloji / uygulama sıklığı ve süresi:  2 
+  
+Tedavi amacıyla kullanımı: 
+Tedavi için kullanılacak aktivite  tiroid bezindeki iyot tutulum una bağlıdır. Terapötik etki 
+birkaç ay sonra elde edilir.  Medikal tedavinin başarısız olduğu veya uygulanamadığı hastalar da hipertiroidi tedavisi için 
+radyoaktif iyot verilebilir. Per sistan hipertiroidizmde 6-12 ay  sonra tekrar tedavi verilebilir. 
+ Hipertiroidizm tedavisi için 
+Kullanılacak aktivite tanıya, tiroid bezi büyüklüğüne, tiroid t utulumuna ve iyot klirensine 
+bağlıdır. Aşağıdaki hedef  organ dozları kullanılabilir: 
+ unifokal otonomi 300 – 400 Gy hedef organ dozu multifokal ve yaygın otonomi 150 – 200 Gy hedef organ dozu
+ 
+Graves hastalığı 200 Gy hedef organ dozu  Graves hastalığı, multifokal ve y aygın otonomide, yukarıda beli rtilen hedef organ dozları 
+toplam tiroid bezi ağırlığı ile ilişkilidir, ancak unifokal oto nomide hedef organ dozu sadece 
+adenoma ağırlığına bağlıdır.  Kullanılan aktivite genellikle  200-800 MBq aralığındadır, anca k tedavinin tekrarlanması 
+gerekebilir.  Hipertiroidizm için radyoiyot ted avisi uygulamadan önce, mümkün se, hastaların ilaç 
+kullanılarak ötiroidi olması sağlanmalıdır.   Kullanılacak aktivite aşağıdaki f ormül kullanılarak hesaplanabi lir: 
+   Hedef doz (Gy) x Hedef hacim(ml)   A (MBq) = _________________________________________ x K   maks. tutulum 
+131I (%) x efektif T ½ (gün)  
+ Burada:  hedef doz    =  tüm tiroid bezi ve ya bir adenomda hedeflenen ab sorplanan doz 
+ hedef hacim =  tüm tiroid bezi  hacmi (Graves` hastalığı, multif okal veya yaygın otonomi) 
+ 
+maks. tutulum 131I = bir test dozunda belirlenen şekilde, kullanılan aktivitenin  %’si olarak 
+tiroid bezi veya nodüllerdeki maks. I-131 tutulumu.  efektif T ½  = tiroid bezindeki I-131’in efektif yarılanma ömrü
+ 
+ 
+K   = 24.67  Uygun hedef organ dozunu (Gy) belirlemek için sodyum pertekneta t (Tc-99m) tiroid tutulum 
+testleri gibi diğer dozimetrik pr osedürler de kullanılabilir.  
+Sabit doz protokolleri  de kullanılabilir. 
+ 
+Tiroid ablasyonu ve metastazlar ın tedavisi için 3 
+ Total veya subtotal tiroidektomi sonrasında kalan tiroid dokusu nu yok etmek için kullanılan 
+aktiviteler 1850 – 3700 MBq aralığı ndadır. Bu doz kalan tiroid dokusu boyutu ve radyoiyot 
+tutulumuna bağlıdır. Metastazların tedavisi için kullanılan akt ivite 3700 – 11100 MBq 
+aralığındadır.  Tanı  amacıyla kullanımı: 
+Yetişkin hastalar (70 kg) içi n aşağıdaki dozlar uygulanır. 
+  
+ Tiroid uptake çalışması : 0.2- 3.7 MBq 
+ Tiroid ablasyonu sonrasında (metastaz ve tiroid remnant için): Maksimum doz : 400 
+MBq 
+ Tiroid görüntülemesi için : 7.4- 11 MBq 
+ Tarama genellikle 4 saatte tamamlanır ve tekrarı ise 18- 24 saa tler arasındadır. Ancak 
+sintigrafi çalışmala rı 72 saatte yapılır. 
+ Pediyatrik popülasyon 
+Çocuklar ve adolesanlarda kullanılan aktivite bireysel dozimetr i yapıldıktan sonra 
+belirlenmelidir (bkz Bölüm 4.4). 
+ 
+Uygulama şekli : 
+Ağızdan yutarak uygulama. 
+ 
+Kapsül açken, bol miktarda su i le birlikte ve bütün olarak yutu lmalıdır.  
+Kapsül çocuklara, özellikle küçük çocuklara, verilmeden önce ço cuğun kapsülü bütün olarak 
+yutabileceğinden emin olunmalıdır. Püre halindeki gıdalarla bir likte verilmesi 
+önerilmektedir.  Gastrointestinal hastalık şüphe si olan hastalarda, sodyum [
+131I] iyodür kullanılırken çok 
+dikkat edilmelidir. Mideye ve ince bağırsağın üst bölümüne tama men geçmesini sağlamak 
+için, kapsüller yeterli miktar da su ile bütün olarak yutulmalıd ır. H 2 antagonistleri veya proton 
+pompa inhibitörleri ile eş zam anlı kullanımı önerilmektedir. 
+ 
+Kullanmadan önce yapılması gerekenlerle ilgili talimatlar için Bölüm 12’ye bakınız. 
+ 
+Özel popülasyona il işkin ek bilgiler 
+ 
+Böbrek/Karaciğer yetmezliği:  
+Böbrek hastalıkları I-131’in vücutta kalma süresini uzatabilece ğinden olası yan etkilerin 
+görülme riskini arttırabilir. Aktivite ayarlaması yapılması ger eken, belirgin böbrek yetmezliği 
+olan hastalarda 131I kapsüllerin kullanımı özel  dikkat gerektirmektedir. 
+ 
+Pediyatrik popülasyon : 
+Çocuklar ve adolesanlarda kullanılan aktivite bireysel dozimetr i yapıldıktan sonra 
+belirlenmelidir (bkz Bölüm 4.4).  10 Yaşın üzerindeki çocuklarda  ve adolesanlarda uygulanacak doz  (aktivite) miktarı erişkin 
+dozu üzerinden çocuğun vücut ağırlığı veya yüzey alanına dayana n formüller kullanılarak 
+hesaplanır.  4 
+ Çocuk dozu (MBq) = Erişkin dozu ( MBq) x Çocuk ağırlığı (kg) 
+     70 kg 
+veya  Çocuk dozu (MBq) = Erişkin dozu (MBq) x Çocuk yüzeyi (m
+2) 
+     1.73 m2 
+Aşağıdaki tabloda yol göstermesi  için önerilen düzeltme faktörl eri yer almaktadır. 
+ 
+ 
+Erişkin dozunun fraksiyonu   
+3 Kg = 0.1   22 Kg = 0.50 42 Kg = 0.78 
+4 Kg = 0.14 24 Kg = 0.53 44 Kg = 0.80 
+6 Kg = 0.19 26 Kg = 0.56 46 Kg = 0.82 
+8 Kg = 0.23 28 Kg = 0.58 48 Kg = 0.85 
+10 Kg = 0.27 30 Kg = 0.62 50 Kg = 0.88 
+12 Kg = 0.32 32 Kg = 0.65 52-54 Kg = 0.90 
+14 Kg = 0.36 34 Kg = 0.68 56-58 Kg = 0.92 
+16 Kg = 0.40 36 Kg = 0.71 60-62 Kg = 0.96 
+18 Kg = 0.44 38 Kg = 0.73 64-66 Kg = 0.98 
+20 Kg = 0.46 40 Kg = 0.76 68 Kg = 0.99 
+(Paediatric Task Group, European Association of Nuclear Medicines ) 
+ Geriyatrik popülasyon : 
+Yaşlı hastalar için doz aya rlanmasına gerek yoktur. 
+ 
+4.3 Kontrendikasyonlar 
+ 
+ Etkin madde veya bölüm 6.1’de lis telenen yardımcı maddelerden h erhangi birine karşı 
+hipersensitivite.  
+ Laktasyon dönemi,  
+ Hamilelik döneminde veya hamilelik şüphesi varsa, ya da hamilel ik olasılığı bertaraf 
+edilmemişse (bkz bölüm 4.6.)  
+ 10 yaşından küçük çocuklarda ta nı amacıyla kullanımı.  
+ Malignan hastalık takibi veya 123I veya 99mTc bulunmadığı durumlar ha riç, tiroid taraması.  
+ Disfaji, özofagus striktürü, öz ofagus darlığı, özofagus diverti kül, aktif gastrit, gastrik 
+erozyon ve peptik ülserli hastalar.  
+ Azalmış gastrointestinal motilite şüphesi olan hastalar.  
+ 
+4.4 Özel kullanım uyarıları ve önlemleri  
+RADYOFARMASÖTİKLER SADECE NÜK LEER TIP UZMANLARI TARAFINDAN 
+NÜKLEER TIP MERKEZLERİNDE UYGULANIR  Bu ürün birçok hastada nispeten yüksek radyasyon dozuna yol aça bilir  (Bkz. Bölüm 4.8 ve 
+Bölüm 11).   5 
+ Kontaminasyonu önlemek için hasta tarafından elimine edilen akt iviteyle ilgili olarak uygun 
+önlemler alınmalıdır.  İyot-131 10 yaşından küçük çocuklarda tanısal çalışmalarda kull anılmamıştır ve yetişkinlere 
+kıyasla radyasyon maruziyetinin önemli ölçüde yüksek olmasına b ağlı olarak, istisnai 
+durumlar geçerli olmadığı sürece, 10 yaşından büyük çocuklarda ve adolesanlarda 
+kullanılması uygun değildir.   
+Tanı amacıyla sodyum [
+131I] iyodür alan hastalar dikkate a lındığında, insanlarda maligni te 
+(kanser, lösemi veya mutasyonlar) insidansında artış olduğuna d air bir kanıt 
+bulunmamaktadır. 
+Her bir hasta için, iyonize rad yasyon maruziyeti muhtemel yarar larına dayanarak 
+gerekçelendirilmelidir. İstenen tanısal veya terapötik sonucu e lde etmek için gereken 
+radyasyon dozunu verecek şekilde , mümkün olan en düşük aktivite  uygulanmalıdır. 
+ Hipersensitivite veya anafila ktik reaksiyon potansiyeli  
+Eğer hipersensitivite veya ana filaktik reaksiyonlar meydana gel irse, tıbbi ürünün kullanımı 
+derhal durdurulmalı ve gerekirse intravenöz tedaviye başlanmalı dır. Acil durumlarda derhal 
+önlem alabilmek için gerekli tıbbi ürün ve endotrakeal tüp ve v entilator gibi ekipmanlar 
+hemen kullanılabilir şekilde hazır olmalıdır.  
+ 
+Böbrek yetmezliği 
+Aktivite ayarlaması yapılması gereken, belirgin böbrek yetmezli ği olan hastalarda 131I 
+kapsüllerin kullanımı özel  dikkat gerektirmektedir. 
+ 
+Hiponatremi 
+Radyoaktif iyot tedavisi olan tiroid kanseri hastalarında şidde tli hiponatremi insidansı 
+bildirilmiştir. Bilimsel literatürde anlatılan mekanizma multif aktöriyeldir: radyoaktif iyot 
+tedavisine başlamadan önce tiroid hormon replasmanın bırakılmas ına bağlı olarak 
+hipotiroidizm olması, yaşlılık, kadın cinsiyet, tiazid grubu di üretiklerin kullanımı ve sodyum 
+iyodür 131I tedavisine başlarken hiponatrem i olması risk faktörleri arası nda yer almaktadır. 
+Bu hastalarda serum elektrolitl eri düzenli olarak ölçülmelidir.  
+ 
+Pediyatrik popülasyon 
+Özellikle antitiroid tıbbi ürünlerin kullanımından sonra tekrar lama durumu veya antitiroid 
+tıbbi ürünlere karşı ciddi adve rs reaksiyonlar meydana gelmesi gibi, gerekçeli durumlar söz 
+konusu olduğunda, çocuklarda ve a dolesanlarda benign tiroid has talıklarının tedavisinde 
+radyoiyot tedavisi  kullanıla bilir. 
+ Radyoiyot ile benign tiroid hasta lığı için tedavi gören hastala ra göre, bu hastalarda yaygın 
+kullanılmasına rağmen, insanlarda kanser, lösemi veya mutasyonl arın insidansında artış 
+olduğuna dair bir kanıt bulunmamaktadır. Buna rağmen, çocuklar ve genç insanların 
+tedavisinde, çocuk dokusunun yüksek hassasiyeti ve bu hastaları n beklenen yaşama süresinin 
+daha uzun olması hesaba katılmalıdır. Ayrıca diğer muhtemel ted avilere karşı riskler de 
+tartışılmalıdır. Bakınız Bölüm 4.2 ve 11.  Hasta Hazırlama 6 
+ Özellikle tiroid kanseri tedavisi için olduğu gibi yüksek aktiv ite sonrası, hastaların ağızdan 
+sıvı alımını artırmaları ve mesane radyasyonunu azalmak için mü mkün olduğu kadar sık sık 
+idrara çıkmaları teşvik edilmelidir. Mesane boşaltma problemi o lan hastalara yüksek 
+aktivitede radyoiyot uygulaması ndan sonra sonda takılmalıdır. 
+ Mideye ve ince bağırsağın üst bölümüne tamamen geçmesini sağlam ak için, kapsüller yeterli 
+miktarda su ile bütün olarak yutulmalıdır. H
+2 antagonistleri veya prot on pompa inhibitörleri 
+ile eş zamanlı kullanımı önerilmektedir. 
+Kusma durumunda, kontaminasyon riski göz önünde bulundurulmalıd ır. 
+ Özel uyarılar 
+Asidik maddeler ile tükürük salınımı uyarılarak, tükürük bezini n radyasyon maruziyeti 
+azaltılabilir. İlave olarak diğer  farmakolojik korunma önlemler i kullanılabilir. 
+ Tedaviden önce düşük iyot diyeti çalışan tiroid dokusuna alımı artıracaktır. 
+ Yeterli tutulumu sağlamak için tiroid kanseri için radyoiyot uy gulamasından önce tiroid 
+replasmanı durdurulmalıdır. Trii yodotironin için 14 gün ve tiro ksin için 4-5 haftalık bir 
+periyod tavsiye edilmektedir. Bu ilaçlar tedaviden iki gün sonr a kullanmaya tekrar 
+başlanmalıdır. Benzer şekilde hipertiroidizm tedavisinden beş g ün önce karbimazol ve 
+propiltiyourasil kullanımı dur durulmalı ve birkaç gün sonra tek rar başlanmalıdır. 
+ Graves hastalığında, endokrin oftalmopati söz konusu olduğunda,  radyoiyot tedavisi 
+kortikosteroidlerle eş zamanlı tedavi altında yapılmalıdır.  Tiroid tedavisi olan hastalar  uygun aralıklarla  yeniden kontrol  edilmelidir. 
+ Jelatin ve/veya metabolitlerine k arşı hipersensitivitesi olduğu  bilinen hastalarda radyoiyot 
+tedavisi olarak sodyum
+ iyodür [131I] çözeltisinin kullanılm ası tercih edilmelidir. 
+ Bu tıbbi ürün her kapsülde 129.68 mg sodyum içermektedir. Bu du rum kontrollü sodyum 
+diyetinde olan hastalar için göz  önünde bulundurulmalıdır. Her kapsülde 129.68 mg sodyum 
+ihtiva eder. Bu durum, kontrollü sodyum diyetinde olan hastalar  için göz önünde 
+bulundurulmalıdır.  Çevresel tehlikelerle ilgili önl emler için Bölüm 6.6’ya bakınız . 
+  
+4.5 Diğer tıbbi ürünlerle etkileşi m ve diğer etkileşim şekiller i 
+ 
+Birçok etkin maddenin farmakolojik olarak radyoiyot ile etkileş imde bulunduğu 
+bilinmektedir. Bu etkileşimler,  işaretlenmiş iyodürün dinamik ektilerini etkileyebilen veya 
+protein bağlanmasını, farmakokine tiğini değiştirebilen çeşitli mekanizmalarla gerçekleşebilir. 
+Dolayısı ile, tiroid tutulumunun azalmış olabileceği göz önünde  bulundurulmalıdır. Bu 
+nedenle, tam ilaç geçmişi alınmalı ve sodyum iyodür I-131 uygul anmadan önce bırakılması 
+gereken herhangi bir ilaç kullanı lıp kullanılmadığından emin ol unmalıdır. 
+ 
+Örneğin, aşağıdaki maddelerle tedavi durdurulmalıdır: 
+Etkin maddeler I-131 uygul amasından önce ilacın 7 
+ kullanılmaması gereken periyod 
+antitiroid maddeler (örn. karbimazole, 
+metimazol, propiluracil),  perklorat Tedaviye başlamadan 1 hafta önce bırakın ve 
+tedavinin birkaç gün sonrasına kadar kullanmayın 
+salisilatlar, steroidler, sodyum nitroprusid, sodyum
+ sulfobromofitaleyn, antikoagülanlar, 
+antihistaminler,  antiparazitikler, penisilinler, 
+sülfonamidler, tolbutamid,  tiyopenton  
+ 1 hafta 
+Fenilbutazon 1 – 2 hafta 
+iyot içeren ekspektoranlar ve  vitaminler yaklaşık 2 hafta 
+tiroid hormon prepara tları Triiyodotironin 14 gün 
+tiroksin 4-5 hafta 
+amiodaron*, benzodiazepinler, lityum yaklaşık 4 hafta 
+Topikal kullanım için iyot iç eren preparatlar 1 – 9 ay 
+İyot içeren kontrast maddeler 1 yıla kadar 
+* Amiodaron durumunda, bu maddenin uzun yarılanma ömrüne bağlı olarak, birkaç ay boyunca 
+tiroid bezinde azalmış tutulum olabilir. 
+ 
+Özel   popülasyonlara  ilişkin ek bilgiler 
+Özel popülasyon ile ilgili e k bilgi bulunmamaktadır. 
+ 
+Pediyatrik  popülasyon : 
+Çocuklara özgü etkileşim çalışması yapılmamıştır. 
+   
+4.6 Gebelik ve laktasyon 
+ 
+Genel tavsiye  
+Gebelik kategorisi : X  
+ 
+Çocuk doğurma potansiyeli bulunan kadınlar  
+Sodyum iyodür I-131’in gebelik dön eminde uygulandığı takdirde c iddi doğum kusurlarına 
+yol açmaktadır. Çocuk doğurma potansiyeli olan b ir kadına radyofarmasötikler uy gulanacağı zaman hamile 
+olup olmadığının belirlenmesi öne mlidir. Periyodu gecikmiş bir kadın aksi ispatlanana kadar 
+hamile kabul edilmelidir. Hamilelik şüphesi olduğunda (eğer kad ının periyodu geciktiyse, 
+yada periyod çok düzensizse), hastaya  iyonize radyasyon kullan ılmayan alternatif teknikler 
+(eğer varsa) teklif edilmelidir.  
+Doğum kontrolü (kontrasepsiyon)  
+Çocuk doğurma potansiyeli olan kadınlar tedavi süresince (ve te davinin ardından 6- 12 ay 
+boyunca) etkili doğum kontrolü uygulamak zorundadır. Önlem olarak, radyasyona maruz kalmışlar spermatozoaların radya syona maruz 
+kalmamışlarla yer değiştirmesi  için, erkekler radyoiyot tedavis inden sonra 6 ay boyunca 
+çocuk yapmamalıdır. 
+ 
+Gebelik dönemi  
+MON.IYOT-131 oral kapsül gebelik  döneminde kontrendikedir (bkz.  Kısım 4.3). 
+ Sodyum iyodür I-131’in transplase ntal geçişine bağlı olarak, ye nidoğanda şiddetli ve 
+muhtemelen geri dönüşümsüz hipotiroidizme yol açabilmesi nedeni yle, sodyum iyodür I-131 8 
+ kesin veya şüpheli hamilelik durumunda, veya hamilelik olasılığ ı bertaraf edilmemişse 
+kullanılmamalıdır (bu ilaç için uterusa absorblanan doz muhteme len 11-511 mGy aralığında 
+olacaktır, ve ikinci ve üçüncü trimesterde fetal tiroid bezi is tekli biçimde iyotu konsantre 
+edecektir) (bkz Bölüm 4.3).  Gebelik döneminde diferansiyel tiroid kanserinin tedavi edilmes i gerektiğinde, radyoaktif 
+iyot tedavisi hamilelik sonrasına ertelenmelidir.  
+ 
+Laktasyon dönemi  
+Laktasyon dönemindeki bir anneye radyofarmasötikler uygulanmada n önce, anne emzirmeyi 
+bırakana kadar radyonüklid uygulamasının ertelenmesi ihtimali v e anne sütüne aktivite 
+salınımı göz önünde bulundurularak en uygun radyofarmasötik seç imi düşünülmelidir. Eğer 
+kullanılması gerekli görüldü ise, sodyum iyodür I-131 uygulamas ından sonra emzirme 
+kesilmelidir. 
+ 
+Üreme yeteneği / Fertilite 
+Kadın ve erkeklerde tiroid kanser inin radyoiyot ile tedavisinde n sonra doğurganlıkta azalma 
+oluşabilir. Doza bağlı olarak ge çici spermatogenezis oluşabilir . Ayrıca menstrüasyon 
+periyodunda değişikliğ e neden olabilir. 
+ 
+4.7 Araç ve makine kullanma ye teneği üzerindeki etkiler 
+MON.IYOT-131 oral kapsülün araç v e makine kullanımı üzerine bir  etkisi yoktur veya bu 
+etki ihmal edilebilir düzeydedir.  
+4.8 İstenmeyen etkiler 
+ 
+Raporlanan advers reaksiyonların  sıklıkları tıbbi literatüre da yanmaktadır. Sodyum iyodür I-
+131’in güvenlilik profili uygulan an dozlara bağlı olarak büyük ölçüde değişmektedir. 
+Uygulanan dozlar ise tedavinin tü rüne bağlıdır (yani benign vey a malignan hastalık tedavisi). 
+Ayrıca, güvenlilik profili uygulanan  kümülatif dozlar ve kullan ılan dozlama aralıklarına da  
+bağlıdır. Bu nedenle, raporlana n advers reaksiyonlar benign vey a malignan hastalıkların 
+tedavisinde meydana gelme sıklıklarına göre gruplanmıştır.  Sıklıkla meydana gelen advers r eaksiyonlar: hipotiroidizm, geçi ci hipertiroidizm, tükürük ve 
+göz yaşı bezi hastalıkları, ve böl gesel radyasyon etkileri. Kan ser tedavisinde ilave olarak 
+gastro-intestinal advers reaksi yonlar ve kemik iliği supresyonu  sıklıkla meydana gelebilir. 
+Aşağıdaki tablolarda raporlanan advers reaksiyonlar sistem orga n sınıfına göre sıralanmıştır 
+Daha ziyade bir grup-sendromuna ( örn. kuru göz sendromu) ikinci l olarak görülen 
+semptomlar ilgili sendromun yanı nda parantez içinde belirtilmiş tir. 
+ 
+İstenmeyen etkiler aşağıdaki s ıklık derecesine gö re sıralanır. 
+ 
+Çok yaygın(≥1/ 10); yaygın (≥1/1 00 ila <1/10); yaygın olmayan (  ≥1/1000 ila <1/100); 
+seyrek  (≥1/ 10.000 ila <1/1000); çok seyrek ( < 1/10.000 ); bi linmiyor (eldeki verilerden 
+hareketle tahmin edilemiyor).   
+Diagnostik kullanımdan sonra  görülen advers reaksiyonlar: 9 
+ Sistem Organ Sınıfı Semptom Sıklık 
+Bağışıklık sistemi 
+hastalıkları Hipersensitivite Bilinmiyor 
+Gastrointestinal 
+hastalıkları  Mide bulantısı, kusma Bilinmiyor 
+Konjenital ve kalıtımsal 
+/genetik hastalıkları  Konjenital tiroid hastalıkları Bilinmiyor 
+ 
+Benign hastalıkların tedavisinde n sonra görülen advers reaksiyo nlar: 
+Sistem Organ Sınıfı Semptom Sıklık 
+Bağışıklık sistemi 
+hastalıkları Anaflaktoid reaksiyon Bilinmiyor 
+Endokrin hastalıkları Kalıcı hipotiroidizm, hipotiroidizm  Çok yaygın 
+Kalıcı hipertiroidizm Yaygın 
+Tireotoksik kr iz, tiroidit, 
+hipoparatiroidizm (azalmış kan kalsiyumu,tetani) Bilinmiyor 
+Göz hastalıkları Endokrin oftalmopati (Graves 
+hastalığında) Yaygın 
+Kuru göz sendromu Çok yaygın 
+Solunum, göğüs 
+hastalıkları ve mediastinal hastalıkları Vokal kord paralizisi Çok seyrek 
+Deri ve deri altı doku 
+hastalıkları İyodo akne (akneye benzer 
+kızarıklık) Bilinmiyor 
+Gastrointestinal 
+hastalıkları Tükürük bezi iltihabı- Sialoadenit Yaygın 
+Hepato-bilier hastalıkları  A normal karaciğer fonksiyonu Bilinm iyor 
+Genel bozukluklar ve 
+uygulama bölgesine ilişkin hastalıklar  Lokal şişme Bilinmiyor 
+ 
+Malignan hastalıkların tedavisi nden sonra görül en advers reaksi yonlar: 
+Sistem Organ Sınıfı Semptom Sıklık 
+(Kist ve polipler dahil 
+olmak üzere) iyi huylu, kötü huylu ve belirlenmemiş neoplazmlar Lösemi Yaygın 
+Solid kanserler örn. mesane kanseri, 
+kolon kanseri, mide kanseri  Bilinmiyor 
+Kan ve lenf sistemi 
+hastalıkları Aplastik anemi, eritropeni, kemik iliği 
+yetmezliği Çok yaygın 
+Lökopeni, trombositopeni yaygın 10 
+ Sistem Organ Sınıfı Semptom Sıklık 
+Kalıcı veya şiddetli kemik iliği 
+süpresyonu Bilinmiyor 
+Bağışıklık sistemi 
+hastalıkları Anaflaktoid reaksiyon Bilinmiyor 
+Endokrin hastalıkları Tireotoksik kriz, geçici  hiperiroidizm Seyrek 
+Tiroiditis (lökositoz geçici), 
+hipoparatiroidizm (azalmış kan kalsiyumu,tetani), hipotiroidizm Bilinmiyor 
+Sinir sistemi 
+hastalıkları Parozmi Çok yaygın 
+Beyin ödemi Bilinmiyor 
+Göz hastalıkları Kuru göz sendromu (konjuktivit, kuru 
+gözler, nazal kuruluk) Çok yaygın 
+Nazolakrimal kanal tıkanıklığı 
+(gözyaşı salgılama artmış) Yaygın 
+Solunum, göğüs 
+hastalıkları ve mediastinal hastalıkları Dispne Yaygın 
+Boğaz daralması*, Pulmoner fibroz, 
+respiratuvar distres, obstrüktif hava yolu hastalığı, pnömoni, trakeit, vokal kord disfonksiyonu (vokal kord paralizisi, disfoni, ses kısıklığı), orofaringeal ağrı, stridor Bilinmiyor 
+Gastrointestinal 
+hastalıkları Sialoadenitis (ağız kuruluğu, tükürük 
+bezi ağrısı, tükürük bezi büyümesi, diş çürükleri, diş kaybı), radyasyon hastalığı sendromu, mide bulantısı, agüzi, anozmi, disgüzi, iştah azalması Çok yaygın 
+Kusma Yaygın 
+Gastrit, disfaji Bilinmiyor 
+Hepato-bilier 
+hastalıkları  Anormal karaciğer fonksiyonu Bilinmiyor 
+Böbrek ve üriner 
+hastalıkları Radyasyon sistiti Bilinmiyor 
+Üreme sistemi ve meme 
+hastalıkları  Over yetmezliği Çok yaygın 
+Üreme sistemi ve meme 
+hastalıkları Azoospermi, oligospermi, erkekte 
+azalmış fertilite, menstrül düzensizlik Bilinmiyor 
+Konjenital ve kalıtımsal 
+/genetik hastalıkları Konjenital hipotiroidizm Bilinmiyor 
+Genel bozukluklar ve 
+uygulama bölgesine ilişkin hastalıklar Gribe benzer hastalık, baş ağrısı, 
+yorgunluk, boyun ağrısı Çok yaygın 
+Lokal şişme Yaygın 11 
+ *: özellikle trakeal stenoz mevcutsa 
+ 
+İstenmeyen etkilerin ayrıntılı açıklaması: 
+ 
+Tiroid ve paratiroid bezi hastal ıklar ı 
+Hipertiroidzmin radyoiyot tedavisinde gecikmiş sonucu olarak do za bağlı hipotiroidizm 
+meydana gelebilir. Bu durum tedaviden haftalar veya yıllar sonr a kendini gösterebilir, tiroid 
+fonksiyonun iyi zamanlanmış ölçümünü ve uygun tiroid replasman tedavisi gerektirmektedir. 
+Hipotiroidizm genellikle sodyum iyodür I-131 uygulamasından son ra 6-12 haftaya kadar 
+görülmez. Malignan hastalık tedavisinde hipotiroidizm sıklıkla advers rea ksiyon olarak 
+raporlanmaktadır, oysa ki, bu durum daha önce yapılan tiroidekt omi ile açıklanmaktadır.  
+Sodyum iyodür [131I] radyasyon maruziyetinin neden olduğu tiroid foliküllerinin y ıkımı, 
+halihazırda mevcut hipertiroi dizmin 2 – 10 gün sonra alevlenmes ine veya hatta
+ tirotoksik krize 
+yol açabilir. Nadiren, başlangıç normalizas yonundan sonra bir immün hipertiroidizm gelişebilir 
+(latens periyodu 2 – 10 ay). Yüks ek doz radyoiyot tedavisi ile,  hasta uygulamadan 1-3 gün 
+sonra, özellikle trakeal stenoz mevcutsa, şiddetli trakeal kons triksiyon ihtimali ile, geçici 
+enflamatuvar tiroidit ve  trakeit yaşayabilir.  
+ 
+Nadir durumlarda, fonksiyonel ti roid karsinomunun tedavisinden sonra bile geçici 
+hipertiroidizm de bulunabilir.  Radyoiyottan sonra geçici hipopara tiroidizm durumları gözlenmiş tir; uygun şekilde izlenmeli 
+ve replasman tedavisi ile tedavi edilmelidir. 
+ 
+Göz hastal ıklar ı 
+Endokrin oftalmopati gelişebilir veya hipertiroidizm ve Graves`  hastalığının radyoiyot 
+tedavisinden sonra meydana gele bilir yeni oftalmopati meydana g elebilir. 
+ 
+Bölgesel radyasyon etkileri  
+Sodyum iyodür I-131 uygulamasında n sonra vokal kord disfonksiyo nu ve paralizisi 
+raporlanmıştır, ancak, bazı durumlarda vokal kord disfonksiyonu nun nedeninin radyasyon 
+mu yoksa cerrahi müdahale mi olduğuna karar verilemez.   
+Radyoiyotun yüksek doku tutulumu, bölgesel ağrı, rahatsızlık ve  ödemle ilişkilendirilebilir, 
+örn. remnant tiroid bezinin radyoi yot tedavisi durumunda, baş v e boyun bölgesinde difüz ve 
+şiddetli yumuşak doku ağrıs ı meydana gelebilir. 
+ 
+Differansiyel tiroid karsinomundan kaynaklanan difüz pulmoner m etastazlı hastalarda 
+metastatik dokunun yıkımına bağlı olarak, radyasyon nedenli pnö moni ve pulmoner fibroz 
+gözlenmiştir. Bu durum daha çok yüksek dozlu radyoiyot tedavisi nden sonra meydana 
+gelmektedir.  Merkezi sinir sisteminin (MSS) de dahil olduğu, metastaz yapan tiroid karsinomlarının 
+tedavisinde, bölgesel serebral öde m ve/veya artan mevcut serebr al ödem ihtimali de dikkate 
+alınmalıdır. 12 
+  
+Gastrointestinal hastal ıklar ı 
+Yüksek seviyede radyoaktivite g enellikle uygulamadan birkaç saa t veya gün sonra 
+gastrointestinal bozukluğa yol a çabilir. Gastrointestinal bozuk luklardan korunmak için bölüm 
+4.4’e bakınız.  
+Tükürük bezi ve lakrimal bez hastal ıklar ı 
+Tükürük bezlerinde şişme ve ağrı, tat kaybı ve ağız kuruluğu il e birlikte, sialadentis meydana 
+gelebilir. Sialadentis
+ is genellikle kendiliğinden veya antiinflamatuvar tedavisi ile geri 
+dönüşümlüdür ancak bazen doza bağlı kalıcı agüzi ve ağız kurulu ğu vakaları da 
+tanımlanmıştır. Tükürük yoksunluğu enfeksiyonlara yol açabilir,  örn. çürükler ve bu durum 
+diş kaybıyla sonuçlanabilir. Tükür ük bezi hastalıklarından koru nmak için bölüm 4.4’e 
+bakınız.  Sikka sendromu ile sonuçlanan tükürük bezi ve/veya lakrimal bez lerin işlev bozukluğu, 
+radyoiyot tedavisinden sonra birkaç ay ve iki yıla kadar gecikm e ile de gözükebilir. Çoğu 
+vakada sikka sendrom geçici olma sına rağmen, bazı hastalarda se mptom yıllarca kalabilir. 
+ 
+Kemik iliği depresyonu 
+Gecikmiş sonuç olarak, izole
+ trombositopeni veya ölümcül olabilecek eritrositopeni ile kendi ni 
+gösteren geri dönüşümlü kemik iliği depresyonu gelişebilir. 500 0 MBq’den büyük tek doz 
+uygulamadan sonra, veya 6 aydan daha kısa aralıklarla tekrarlay an uygulamadan sonra, kemik 
+iliği depresyonu meydana gelme ihtimali daha yüksektir.   
+İkincil kanserler 
+Genellikle tiroid kanserlerinin tedavisinde kullanılan, yüksek aktivitelerden sonra, lösemi 
+meydana gelme sıklığında artış gözlenmiştir. Ayrıca, yüksek akt ivitelerde (7.4 GBq’in 
+üzerindeki) ikincil katı kanserlerin meydana gelme sıklığında a rtış olduğuna dair kanıtlar da 
+bulunmaktadır.  Fertilite bozukluğu 
+Tiroid karsinomunun radyoiyot tedav isinden sonra, kadınlarda ve  erkeklerde doza bağlı 
+fertilite bozukluğu meydana geleb ilir. Aktivite dozuna bağlı ol arak, 1850 MBq’e kadar 
+dozlarda spermatogenezin geri  dönüşümlü bozukluğu doğrulanabili r; 3700 MBq’den büyük 
+uygulamalarda oligospermi ve azoospermia ve yükselmiş serum FSH  seviyeleri gibi konuyla 
+ilgili klinik etkiler tanımlanmıştır.  Genel tavsiye 
+İyonize radyasyona maruziyet kanser oluşumunu tetikleyebilir ve ya kalıtımsal bozukluklara 
+yol açabilir. Terapötik maruziy etten kaynaklanan radyasyon dozu , kanser ve mutasyon 
+meydana gelme sıklığının yüksek ol masıyla sonuçlanabilir. Her d urumda radyasyondan gelen 
+riskin, hastalığın neden olduğu riskten daha az olduğundan emin  olunması gerekir. Sodyum 
+iyodür I-131’in terapötik dozları ndan sonra iletilen radyasyon dozu (EDE) 20 mSv’den daha 
+yüksektir.  Pediyatrik popülasyon 13 
+ Çocuklarda görülen advers reaksi yonların türünün yetişkinlerle aynı olması beklenmektedir. 
+Çocuk dokusunun radyasyon hassasiyetinin daha yüksek olması (bk z bölüm 11) ve daha 
+uzun beklenen yaşam süresine bağ lı olarak sıklığı ve şiddeti fa rklı olabilir. 
+ 
+Şüpheli advers reaksiyonların raporlanması Ruhsatlandırma sonrası şüpheli  ilaç  advers  reaksiyonlarının  raporlanması büyük önem 
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin  sürekli olarak izlenmesine 
+olanak sağlar. Sağlık mesleği men suplarının herhangi bir şüphel i advers reaksiyonu Türkiye 
+Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir. (www.titck.gov.tr;  
+e-posta: tufam@titck.gov.tr; tel:0 800 314 00 08; faks: 0 312 2 18 35 99) 
+ 
+4.9 Doz aşımı ve tedavisi  
+Yanlışlıkla  aşırı-doz uygulan ması durumunda laksatifler verilm eli ve mide yıkaması 
+yapılmalıdır. 
+ 
+Aşırı dozda radyasyon uygulanması durumunda, hastaya absorbe ol an dozu azaltmak için, 
+mümkün olduğunda, zorunlu diürez ve sık idrara çıkma ile radyon üklidin vücuttan atılımı 
+artırılmalıdır. İlave olarak, tir oid bezinin radyasyon maruziye tini azaltmak için şüpheli aşırı 
+maruziyet durumunu takiben, derhal  tiroid bezinin bloke edilmes i önerilmelidir (örn. 
+potasyum iyodür veya perklorat ile). I-131 tutulumunu azaltmak için, kusturucular verilebilir. 
+ 
+ 5.  FARMAKOLOJİK ÖZELLİKLER  
+ 
+Tanı ve tedavi amaçlı kullanılır. 
+ 
+Farmakoterapötik grup :   
+ATC kodu : V09FX03 : Diya gnostik Radyofarmasötik 
+                                                                
+ATC Kodu : V10XA01: Tera pötik Radyofarmasötik                             
+ 
+Etki mekanizması 
+Sodyum iyodür şeklindeki, farmakolojik etkili madde iyot -131, tiroid tarafından alınır. Uzun 
+kalış süresince esas olarak orada bozunur ve bu şekilde seçici olarak bu organın ışınlanmasını 
+neden olur.   
+5.1 Farmakodinamik özellikler 
+Diyagnostik ve terapötik prosedürle r için çok küçük miktarlarda  madde kullanıldığından 
+sodyum iyodürün (131I)  herhangi bir farmakodinamik etkisi beklenmemektedir. Radyas yon 
+etkilerinin % 90’dan fazlası ortalama 0.5 mm aralığı olan yayım lanan β ışınlarından 
+kaynaklanmaktadır. β
+ ışınlaması hücre fonksiyonu ve hücre bölünmesini doza bağlı ola rak 
+azaltarak hücre yıkımına yol açacaktır. Kısa aralık ve tiroid d ışında sodyum iyodür (131I) 
+tutulumunun hemen hemen olmaması tiroid bezi dışında radyasyon ışınlarına maruziyetin 
+ihmal edilebilir miktarda olmasını sağlamaktadır.   
+ 
+ 5.2 Farmakokinetik özellikler  
+ 
+Emilim: 14 
+ Oral uygulamayı takiben sodyum iyodür I-131  hızla üst gastroin testinal sistemden absorbe 
+olur (60 dakikada % 90). Absorpsiyon gastrik boşalmadan etkilen mektedir. Hipertiroidizm 
+ile artar ve hipotir oidizm ile azalır. 
+131I sodyum iyodür kapsül çözünme ça lışmalarında  çözünmenin 5 – 1 2 dakika içinde 
+meydana geldiği ve radyoaktiviteni n gastrik mukozada homojen ol arak dağıldığı 
+gösterilmiştir.  Serum aktivite seviyeleri ile ilgili çalışmalar hızlı artıştan sonra , 10 – 20 dakik a devam eden,
+ 
+yaklaşık 40 dakika sonra dengeye ulaşılmıştır. 131I sodyum iyodür çözel tisinin oral 
+uygulanmasından sonra aynı sürede denge durumu ölçülmüştür.  Dağılım ve Organ tutulumu: 
+Farmakokinetiği işaretlenmemiş iyodür ile aynıdır. Kan dolaşımı na geçtikten sonra tiroid 
+dışındaki bölgelere dağılır ve o radan ağırlıklı olmak üzere tir oid bezine alınır. Tiroid 
+iyodürün yaklaşık % 20’sini tek g eçişle ekstrakte eder veya böb reklerle atılır. Tiroiddeki 
+iyodür tutulumu yaklaşık 24 – 48 sonra maksimuma ulaşır, 5 saat  sonra ise maksimum pikin 
+% 50’sine ulaşır. Tutulum birçok faktörden etkilenmektedir: has tanın yaşı, tiroidin hacmi, 
+renal klirens, dolaşımdaki iyodür seviyesi ve diğer tıbbi ürünl er tarafından etkilenebilir (bkz 
+bölüm 4.5). Tiroid tarafından i yodür klirensi gen ellikle 5- 50 ml/dk’dır. Ancak iyot eksikliği 
+durumunda 100 ml/dk’ya kadar ve  hipertiroidizm sırasında 1000 ml/dk’ya kadar artabilir. 
+İyot aşırı yüklenm esi durumunda 2 – 5  ml/dk’ya kadar azalabilir. i yodür böbrekler de birikir. 
+ İyodür I-131’in küçük miktarları tükürük bezi, gastrik mukoza t arafından tutulabilir ve anne 
+sütü, plasenta ve koroid plek susta lokalize olabilir. 
+ Tiroid tarafından alınan iyodür t iroid hormonlarının bilinen me tabolizmasını takip eder ve 
+tiroid hormonlarının sentezlendi ği organik bileşiklere katılır.  
+ Eliminasyon: 
+Başlıca eliminasyon yolu idrarladır. Ağırlıklı olarak tiroid be zi veya böbrek yolu ile atılımı 
+gerçekleşir. Uygulanan dozun  % 37-75’i idrarla , % 10’u feçesl e ve ihmal edilebilecek bir 
+miktarda da ter ile atılımı gerçekleşir. Böbreklerden atılım, b öbrek akışının yaklaşık % 3’ünü 
+oluşturan ve insandan insana nispeten değişmeyen, renal klirens  ile nitelendirilir. 
+Hipotiroidizmde ve böbrek fonksiyon bozukluğunda düşüktür ve hi pertiroidizmde yüksektir. 
+Sağlıklı kişilerdeki ortalama üriner atılım (24 saatlik idrar a raştırılmış) erkeklerde 2.8 mg/kg ve 
+kadınlarda 2.7  mg/kg’dır. 
+Normal böbrek fonksiyonuna sahip ötiroid hastalarında uygulanan aktivitenin % 50-75’i 48 saat 
+içinde idrarla atılır.  Yarılanma ömrü: 
+Radyoiyotun plazmadaki efektif yarılanma ömrü 12 saattir. Oysak i tiroid  bezinde tutulan 
+radyoiyot için yaklaşık 6 gündür. Böylece sodyum iyodür (I131) uygulamasından sonra 
+aktivitenin yaklaşık % 40’ının  efektif yarı ömrü 0.4 gün ve ger i kalan % 60’ının ise 8 gündür. 
+ 
+5.3 Klinik öncesi güvenlilik verileri  
+Besinlerle alınan normal iyotla (40-500 mcg/gün) kıyaslandığınd a çok küçük miktarlarda 
+madde uygulandığından akut toksisite görülmesi beklenmemektedir  veya gözlenmemiştir. 
+Tekrarlayan sodyum iyodür dozları nın ne toksisitesi ne de hayva nlarda üreme üzerine etkileri 
+olduğuna veya mutajenik ya da kars inojenik potansiyeli bulunduğ una dair hiç veri 
+bulunmamaktadır. 15 
+  
+6. FARMASÖTİK ÖZELLİKLER   6.1.  Yardımcı maddelerin listesi  
+Disodyum hidrojen fosfat anhidr 
+Sodyum tiyosülfat   Sodyum karbonat dekahidrat Sodyum bikarbonat                    
+Sodyum hidroksit    
+Hidroklorik asit Sert jelatin kapsül                                      
+ 
+6.2.  Geçimsizlikler 
+MON.IYOT-131 oral kapsül ile bi linen bir geçimsizlik bilgisi bu lunmamaktadır. 
+ 
+6.3.  Raf ömrü 
+Üretim tarihinden itibaren 30 gündür. 
+ 
+6.4.  Saklamaya yönelik özel tedbirler 
+Orijinal ambalajı içinde 25 
+0C’nin altında  saklanmalıdır. 
+Radyoaktif materyalle ilgili ulusal mevzuata uygun olarak sakla nmalıdır. 
+ 
+6.5. Ambalajın niteliği ve içeriği 
+ 
+İç ambalaj : Polipropilen plastik tüp Dış ambalaj : Nakliye amaçlı ka rton kutu içerisinde teneke kutu da plastik kaplı kurşun zırh 
+veya nakliye amaçlı karton kutuda  plastik kaplı kurşun zırh. 
+ Mikroküri aktivitede üretilen M ON.IYOT-131 oral kapsül için amb alaj içeriği: 
+       1 Kapsül/ Ambalaj        6 Kapsül/ Ambalaj      20 Kapsül/ Ambalaj  1 mCi - 200 mCi aktivitede üret ilen MON.IYOT-131 oral kapsül iç in ambalaj içeriği:  
+       1 Kapsül/ Ambalaj  
+6.6. Beşeri tıbbi üründen arta kal an maddelerin imhası ve diğer  özel önlemler     
+ 
+Genel uyarılar 
+Radyofarmasötikler belirlenmiş klinik ortamlarda sadece yetkili  kişiler tarafından teslim 
+alınmalı, kullanılmalı ve uygulanmalıdır. Teslim alınmaları, sa klanmaları, kullanım, transfer 
+ve imha edilmeleri mevzuata ve/veya yetkili resmi organizasyonl arın uygun lisanslarına 
+tabidir. Radyofarmasötikler hem radyasyon güvenliği hem de farmasötik ka lite gerekliliklerini yerine 
+getirecek şekilde hazırlanmalıdır.  Radyofarmasötik uygulanması, dış radyasyon veya idrar dökülmesi , kusma v.s nedenleri ile 
+bulaşma yüzünden diğer kişiler iç in risk oluşturur. Bu nedenle ulusal mevzuata uygun olarak, 
+radyasyondan korunma önlemleri alınmalıdır.   16 
+ Bu ürün birçok hastada nispeten yüksek radyasyon dozuyla sonuçl anabilir (bkz bölüm 4.8 ve 
+11). Yüksek doz radyoiyot uygulaması önemli çevresel tehlikeler  oluşturabilir. Bu tehlike 
+tedavi alan bireylerin birinci d ereceden akrabaları için veya u ygulanan aktivite seviyesine 
+bağlı olarak genel toplu m için söz konusu olabilir. 
+ Kontaminasyonu önlemek için, hastalar tarafından elimine edilen   aktivite ile ilgili uygun 
+önlemler alınmalıdır.  
+Ambalajı açarken, personel monitörlerde kaydedilmiş olabilecek serbest radyoaktivitenin 
+farkında olmalıdır. Bu aktivite  I-131 bozunmasının % 1.17’sinde n oluşturan Xe-131m’e bağlı 
+aktivitedir. Ekranlarda görünmes ine rağmen personel için bununl a ilişkili bir risk oluşturmaz.  
+ Xe-131m’nin solunması ile oluşan etkin doz oranı, kurşun zırhlı  b i r  k a p s ü l d e n  1  m e t r e  
+uzaklıktaki doz or anının  % 0.1’idir. 
+ Kullanılmamış tıbbi ürün veya atıklar,  ‘Tıbbi Atıkların Kontrolü Yönetmeliği’ ve Türkiye 
+Atom Enerjisi Kurumu’nun “Radyoaktif Madde Kullanımından Oluşan  Atıklara İlişkin 
+Yönetmeliği” kurallarına uygun olara k atıklar bertaraf edilmeli dir. 
+ 
+7.   RUHSAT SAHİBİ 
+ 
+Eczacıbaşı Monrol Nükleer Ürünl er Sanayi ve Ticaret A.Ş. 
+TÜBİTAK MAM Teknoparkı 41470 Gebze - KOCAELİ Tel:  (0 262) 648 02 00 (pbx) Faks: (0 262) 646 40 39 e-posta: monrol@monrol.com  
+ 
+8.   RUHSAT  NUMARASI 
+ 
+223/93  
+9. İLK RUHSAT TARİHİ/ RUHSAT YENİLEME TARİHİ  
+ 
+İlk ruhsat tarihi: 15 Mart 2010 
+ Ruhsat yenileme tarihi: 07.02.2017  
+ 
+10.  KÜB’ÜN YENİLEME TARİHİ  
+ 
+Aralık 2019  
+11.  DOZİMETRİ 
+ 
+ICRP yayın  n°128’de bildirilen şekilde tablolaştırılmış radyas yon dozimetrisi verilmiştir.   
+ Tedavi için hedef organ olmayabilen, spesifik organlara radyasy on dozu, hastalık gelişimine 
+bağlı patofizyolojik değişikliklerden önemli ölçüde etkilenebil ir. Bu durum şu bilgiyi 
+kullanırken gön önünde bulundurulmalıdır: Risk-yarar değerlendi rmesinin bir parçası olarak, 17 
+ uygulamadan önce, terapötik dozlarından sonra iletilen radyasyo n dozu (EDE) ve herbir 
+hedef organ(lar)a muhtemel radya syon dozlarının hesaplanması ta vsiye edilmektedir. Ondan 
+sonra, tiroid ağırlığı, biyolojik yarılanma ömrü ve altta yatan  patoloji ve hastanın fizyolojik 
+durumunu (iyot deplesyo nu dahil) “geri-dönüşüm” faktörüne göre aktivite ayarlanabilir. 
+ Radyasyon maruziyeti esas olarak tiroidi etkiler. Diğer organla rın radyasyon maruziyeti 
+tiroidinkinden binlerce kat daha düşük aralıktadır. Besinsel iy ot alımına bağlıdır (iyot 
+yetersizliği olan bölgelerde ra dyoaktif iyot tutulumu % 90’a ka dar artar ve iyotça zengin 
+bölgelerde % 5’e kadar düşer). Ardından tiroid fonksiyonuna (öt iroid, hipertiroid veya 
+hipotiroid) ve vücutta iyot birik en dokuların varlığına (örn. t iroid eksizyonundan sonraki 
+duruma, iyot biriktiren metastazl arın varlığı) ve  tiroidin blok ajına bağlıdır. Diğer tüm 
+organların radyasyon maruziyeti tiroiddeki birikimin derecesine  göre, uygun şekilde düşük 
+ya da yüksektir.  Tiroid bloke edilmiş 
+ Absorblanan doz  (mGy/MBq) 
+ 
+Organ Yetişkin 15 yaş 10 yaş 5 yaş 1 yaş 
+Böbreküstü bezi  0,044 0,054 0,086 0,14 0,25 
+Mesane duvarı 0,54 0,7 1.1 1,4 1,8 
+Kemik yüzeyi 0,03 0,037 0,059 0,092 0,18 
+Beyin 0,021 0,026 0,043 0,071 0,14 
+Göğüs 0,02 0,025 0,042 0,069 0,13 
+Safrakesesi duvarı 0,037 0,048 0,085 0,13 0,21 
+Sindirim sistemi      
+ Mide duvarı 0,87 1,1 1,6 2,8 5,9 
+ İnce bağırsak  0,035 0,044 0,07 0,11 0,19 
+ Kolon duvarı 0,14 0,18 0,3 0,5 0,92 
+ Üst kalın bağırsak duvarı 0,12 0,15 0,25 0,42 0,75 
+ Alt kalın bağırsak duvarı 0,17 0,22 0,37 0,61 1,2 
+Kalp duvarı 0,062  0,08 0,13 0,2 0,37 
+Böbrekler 0,27 0,32 0,46 0,69 1,2 
+Karaciğer 0,05 0,065 0,1 0,16 0,3 
+Akciğerler 0,053 0,068 0,11 0,18 0,36 
+Kaslar 0,026  0,032 0,051 0,08 0,15 
+Özofagus 0,024  0,03 0,049 0,079 0,15 
+Overler 0,038  0,049 0,076 0,11 0,2 
+Pankreas 0,06 0,073 0,11 0,16 0,28 
+Kırmızı kemik ili ği 0,031 0,038 0,061 0,095 0,18 
+Tükürük bezleri 0,27 0,33 0,44 0,59 0,86 
+Cilt 0,019 0,023 0,038 0,062 0,12 
+Dalak 0,064 0,077 0,12 0,19 0,34 
+Testisler 0,025  0,033 0,055 0,084 0,15 18 
+ Timus 0,024 0,03 0,049 0,079 0,15 
+Tiroid 2,2 3,6 5,6 13 25 
+Uterus 0,045  0,056 0,09 0,13 0,21 
+Kalan organlar 0,029 0,037 0,06 0,1 0,18 
+Efektif doz (mSv/MBq)  0,28 0,4 0,61 1,2 2,3 
+ 
+Tiroid, düşük tutulum 
+Absorblanan doz (mGy/MBq)  
+ 
+Organ Yetişkin 15 yaş 10 yaş 5 yaş 1 yaş 
+Böbreküstü bezi 0,051 0,067 0,12 0,2 0,44 
+Mesane duvarı 0,45 0,58 0,89 1,2 1,6 
+Kemik yüzeyi 0,089 0,1 0,14 0,22 0,4 
+Beyin 0,093 0,1 0,13 0,18 0,3 
+Göğüs 0,038 0,05 0,1 0,17 0,32 
+Safrakesesi duvarı 0,043 0,057 0,1 0,18 0,36 
+Sindirim sistemi      
+ Mide duvarı 0,77 1,0 1,5 2,5 5,3 
+ İnce bağırsak 0,033 0,043 0,073 0,11 0,22 
+ Kolon duvarı 0,14 0,18 0,32 0,58 1,3 
+ Üst kalın bağırsak duvarı 0,12 0,15 0,27 0,49 1,0 
+ Alt kalın bağırsak duvarı 0,17 0,22 0,39 0.71 1,6 
+Kalp duvarı 0,089 0,12 0,21 0,36 0,77 
+Böbrekler 0,27 0,34 0,5 0,84 1,8 
+Karaciğer 0,093 0,14 0,24 0,46 1,2 
+Akciğerler 0,1 0,13 0,22 0,38 0,79 
+Kaslar 0,084 0,11 0,17 0,27 0,48 
+Özofagus 0,1 0,15 0,3 0,58 1,1 
+Overler 0,037 0,049 0,08 0,13 0,28 
+Pankreas 0,064 0,08 0,13 0,21 0,41 
+Kırmızı kemik iliği 0,072 0,086 0,12 0,19 0,37 
+Tükürük bezleri 0,22 0,27 0,36 0,49 0,72 
+Cilt 0,043 0,053 0,08 0,12 0,25 
+Dalak 0,069 0,089 0,15 0,26 0,55 
+Testisler 0,024 0,032 0,056 0,095 0,2 
+Timus 0,1 0,15 0,3 0,59 1,1 
+Tiroid 280 450 670 1400 2300 
+Uterus 0,042 0,054 0,09 0,15 0,28 
+Kalan organlar 0,084 0,11 0,17 0,25 0,44 
+Efektif doz (mSv/MBq)  14 23 34 71 110 
+ 19 
+  
+Tiroid, orta tutulum  
+Absorblanan doz (mGy/MBq)  
+ 
+Organ Yetişkin 15 yaş 10 yaş 5 yaş 1 yaş 
+Böbreküstü bezi 0,055 0,074 0,13 0,24 0,55 
+Mesane duvarı 0,39 0,51 0,79 1,1 1,5 
+Kemik yüzeyi 0,12 0,14 0,19 0,3 0,52 
+Beyin 0,13 0,14 0,18 0,24 0,39 
+Göğüs 0,048 0.063 0,13 0,23 0,43 
+Safrakesesi duvarı 0,046 0,063 0,12 0,21 0,45 
+Sindirim sistemi      
+ Mide duvarı 0,71 0,95 1,4 2,4 5 
+ İnce bağırsak 0,032 0,043 0,075 0,11 0,24 
+ Kolon duvarı 0,14 0,18 0,34 0,63 1,4 
+ Üst kalın bağırsak duvarı 0,12 0,15 0,28 0,53 1,2 
+ Alt kalın bağırsak duvarı 0,17 0,22 0,4 0,76 1,8 
+Kalp duvarı 0,1 0,14 0,25 0,45 1 
+Böbrekler 0,27 0,34 0,53 0,93 2,1 
+Karaciğer 0,12 0,18 0,31 0,62 1,7 
+Akciğerler 0,13 0,16 0,28 0,5 1 
+Kaslar 0,12 0,15 0,24 0,38 0,66 
+Özofagus 0,14 0,22 0,45 0,87 1,7 
+Overler 0,036 0,049 0,082 0,15 0,33 
+Pankreas 0,066 0,084 0,14 0,24 0,49 
+Kırmızı kemik iliği 0,095 0,11 0,15 0,24 0,48 
+Tükürük bezleri 0,19 0,24 0,32 0,43 0,64 
+Cilt 0,057 0,07 0,1 0,16 0,33 
+Dalak 0,072 0,096 0,16 0,29 0,68 
+Testisler 0,023 0.032 0,056 0,1 0,23 
+Timus 0,14 0,22 0,45 0,87 1,7 
+Tiroid 430 690 1000 2200 3600 
+Uterus 0,04 0,053 0,089 0,15 0,32 
+Kalan organlar 0.11 0,15 0,23 0,33 0,58 
+Efektif doz (mSv/MBq)  22 35 53 110 180 
+ 
+ Tiroid, yüksek tutulum   
+Absorblanan doz (mGy/MBq)  
+ 
+Organ Yetişkin 15 yaş 10 yaş 5 yaş 1 yaş 20 
+ Böbreküstü bezi 0,059 0,082 0,15 0,28 0,66 
+Mesane duvarı 0,34 0,44 0,68 0,95 0,13 
+Kemik yüzeyi 0,16 0,18 0,24 0,37 0,65 
+Beyin 0,17 0,18 0,23 0,3 0,49 
+Göğüs 0,058 0,077 0,17 0,28 0,54 
+Safrakesesi duvarı 0,49 0,068 0,13 0,24 0,54 
+Sindirim sistemi      
+ Mide duvarı 0,66 0,88 1,3 2,2 4,7 
+ İnce bağırsak 0,032 0,043 0,077 0,12 0,26 
+ Kolon duvarı 0,14 0,19 0,35 0,68 1,6 
+ Üst kalın bağırsak duvarı 0,12 0,16 0,3 0,58 1,4 
+ Alt kalın bağırsak duvarı 0,16 0,22 0,42 0,81 2,0 
+Kalp duvarı 0,12 0,16 0,3 0,55 1,2 
+Böbrekler 0,27 0,35 0,55 1,0 2,4 
+Karaciğer 0,14 0,22 0,39 0,79 2,2 
+Akciğerler 0,15 0,2 0,35 0,61 1,3 
+Kaslar 0,15 0,19 0,31 0,49 0,86 
+Özofa gus 0,19 0,28 0,59 1,2 2,3
+Overler 0,035 0,049  0,084 0,16 0,37 
+Pankreas 0,068 0,088 0,15 0,27 0,57 
+Kırmızı kemik iliği 0,12 0,14 0,19 0,29 0,59 
+Tükürük bezleri 0 ,16 0 ,20 ,27 0 ,37 0 ,55
+Cilt 0,071 0,087 0,13 0,19 0,41 
+Dalak 0,075 0,1 0,18 0,33 0,8 
+Testisler 0,22 0,031 0,057 0,11 0,27 
+Timus 0,19 0,28 0,59 1,2 2,3 
+Tiroid 580 940 1400 3000 4900 
+Uterus 0,038 0,051 0,089 0,16 0,36 
+Kalan organlar 0,15 0,19 0,29 0,42 0,74 
+Efektif doz (mSv/MBq)  29 47 71 150 250 
+ 
+12.  RADYOFARMASÖTİKLERİN HAZIRL ANMASINA YÖNELİK TALİMATLAR 
+Kapsüller karton kutu içinde pip ete benzer uygulama aparatı ile  birlikte kullanıma hazır 
+şekildedir. 

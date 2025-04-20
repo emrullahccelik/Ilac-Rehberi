@@ -1,0 +1,788 @@
+ 
+KISA  ÜRÜN  BİLGİSİ  
+ 
+▼ Bu ilaç ek izlemeye tabidir. Bu üçgen yeni güvenlilik bilgisinin hızlı olarak belirlenmesini 
+sağlayacaktır. Sağlık mesleği mensuplarının şüpheli advers reaksiyonları TÜFAM’a bildirmeleri 
+beklenmektedir. Bakınız Bölüm 4.8 Advers reaksiyonlar nasıl raporlanır?   
+ 
+1.  BEŞERİ TIBBİ ÜRÜNÜN ADI  
+ 
+PRIV IGEN® 5 g/50 mL IV infüzyonluk çözelti  
+Steril 
+ 2. KALİTATİF VE KANTİTATİF BİLEŞİM  
+ Etkin madde:  
+Normal insan imm ünoglobulini (IVI g) *  
+ 1 mL 100 mg insan plazma proteini (en az % 98 s aflıkta immünoglobulin G (IgG)) içerir.  
+ 50 mL ’lik flakonda 5 g normal insan immünoglobulini içerir. 
+ IgG alt gruplarının dağılımı (ortalama değerler):  
+IgG
+1   %69 
+IgG 2   %26 
+IgG 3   %3 
+IgG 4   %2 
+ Maksimum IgA içeriği 25 mikrogram/mL ’dir.  
+ *İnsa n donör lerinin plazmas ından elde edilmektedir. 
+ Yardımcı maddeler:  
+PRIVIGEN herhangi bir koruyucu içermez.  
+PRIVIGEN herhangi bir karbonhidrat stabilizörü (örneğin sukroz, maltoz) içermez.  
+ Yardımcı maddelerin listesi için bölüm 6.1.’e bakınız . 
+ 3. FARMASÖ TİK FOR M 
+ İntravenöz i nfüzyon için çözelti.  
+Çözelti berrak veya hafif opaktır ve renksiz -açık sarı tondadır.  
+PRIVIGEN yaklaşık 240 – 440 mOsmol/kg’a sahip bir izotoniktir.  Kullanıma hazır çözeltinin pH değeri 4.6 – 5.0’dır.  
+ 4. KLİNİK ÖZELLİK LER  
+ 4.1 Tera pötik endikasyonlar  
+ 
+PRIVIGEN aşağıdaki durumla rda endikedir:  
+ 
+1. İmmün yetmezlik  durumlarında  replasman tedavisi  için:  
+a) Antikor üretiminin bozulduğu primer (Konjenital) immü n yetmezliklerde ,   
+b) Şiddetli veya tekrarlayan enfeksiyonlar gelişen, antimikrobiyal teda vinin yetersiz kald ığı ve 
+kanıtlanmış spesifik antikor yetmezliği (SAE)* olan ya da serum IgG düzeyi <4 g/L olan 
+hastalarda sekonder i mmün yetmezliklerde (SİY) kullanılır.  
+* Kanıtlanmış SAE: lgG antikor titresinde pnömokokal polisakka rit ve polipeptit antijen 
+aşılarına en az 2 kat artış sa ğlanam aması  
+ 
+2. İmmünomodülat uar etki için : 
+a) Kanama riski yüksek olan veya cerr ahi müdahale öncesi trombosit sayısının hızla  
+yüksel tilmesi gereken immün trombositopeni ( İTP) olgularında , 
+b) Guillain - Barré sendromunda , 
+c) Kawasak i hastalığında , 
+d) Multifokal motor nöropati hastalığında, 
+e) Kronik Enflamatuar D emiyelinizan  Polinoröpat inin tedavisinde (KIDP) , 
+f) Bulber tutulumu olan Mysentenia G ravis tedavisinde uygulanır.  
+ 
+4.2 Pozoloji ve uygulama şekli  
+ 
+Replasman tedavisi, immün yetmezlik ler konusunda  deneyi mli bir  uzman  hekim in denetiminde 
+başlatılmalı ve izlenmelidir . 
+ Pozoloji/ uygulama sıklığı ve süresi:  
+Pozoloji ve uygula ma sıkl ığı endika syona göre değişir. 
+Replasman tedavisinde hastadaki farmakokinetik ve klinik yanıta bağlı olarak doz un bireysel 
+şekilde  ayarlanması gerekebilir.  
+ Primer immün yetmezlik lerde replasman  tedavisi : 
+Doz,  bir sonraki infüzyondan önce ölçülen serum IgG düzeyinin en az 500- 600 mg/dL düzeyinde 
+kararlı  olarak sürdürülmesini sağlayacak şekilde ayarlanmalıdır. Bu denge nin sağlanabilm esi için 
+tedavi nin başlangıcından itibaren 3- 6 ay gereklidir.  
+ Önerilen başlan gıç dozu bir seferde verilen 0 ,4-0,8 g/kg infüzyonu takiben her 3- 4 haftada bir 
+uygulanan en az 0,2 g/kg’dır.  Serum immünoglobulin düzeyinin 500- 600 mg/dL ola cak şekilde sabit tutu labilmesi iç in gereken 
+doz ortalama 0,2 -0,8 g/kg düzeyindedi r. 
+ Kararlı ser um düzeyi sağlandıktan sonra doz aralığı 3 ile 4 hafta arasında değişir. 
+ Hastanın klinik yanıtı ile birlikte kararlı serum düzeyleri ölçülmeli ve değerlendiri lmelidir.  
+ Klinik y anıta bağlı ol arak (ör, enfeksiyon sıklığı) daha yüksek kararl ı serum düzeyler inin 
+sağlanması amacıyla doz ve/veya doz aralığının ayarlanması düşünülebilir.  
+ Sekonder immün yetmezlikte replasman tedavisi :  
+Sekonder imm ün yetmezlikte replasman teda visinde t avsiye edilen doz 3- 4 haftada bir uygulanan 
+0,2-0,4 g/kg'dı r.
+ 
+ Primer immün trombo sitopeni : 
+İki alternatif doz şeması vardır:  
+– Birinci gün 0,8- 1 g/kg dozunda uygulanır; doz, 3 gün iç erisinde bir  kez tekrarlanabilir  veya  
+– 2-5 gün süreyl e 0,4 g/k g/gün dozunda uygulanır. 
+Relaps olduğunda tedavi tekr arlanabilir.  
+  
+Guillain Barré Sendromu : 
+5 gün süreyle 0,4 g/kg/gün dozunda uygulanır.  
+ 
+Kawasaki Hastalığı : 
+8-12 saat süreyle tek doz olarak uygulanan 2g/kg’d ır ve asetil sal isilik asit ile kombin e olarak 
+verilir.  
+ Mult ifokal Motor Nöropati (MMN) hastalığınd a: 
+Başlangıç dozu : 2- 5 gün süreyle böl ünmüş dozlarda toplam 2g/kg  
+İdame dozu:  2-6 haftada bir 1- 2 g/kg 
+ Kronik inflamatuvar demiyelinizan pol inöropati (K IDP) : 
+Önerilen başlangıç dozu: 2- 5 ard ışık günde  bölünmüş  dozla rda toplam 2 g/kg dır. Yanıt 
+alınamam ası durumunda 3 haftada bir 1 g/kg tot al doz 1- 2 günde verilir ve 2 ay sonunda yanıt 
+alınamazsa tedavi kesilir.  
+ İdame dozu: başlangıç tedavisine  yanıt alınmış sa 3 haftada bir  0,4-1 g/kg total doz 1 -2 günde 
+uygula nır. Ma ksimum yarar elde edilen doz önerili r ve doz doktor tarafından belirlenir. En düşük 
+etkin idame dozu belirlenene  kadar doz azaltılır ve uygulama sıklığı ayarlanır. 
+ Myastenia Gravi s: 
+Diğer öze l tedavilere cevap vermeyen kritik faz da 5 gün s üreyle 0,4 g/kg/gün dozunda uygulanır.  
+ Pediyatrik po pülasyon  
+Çocuklar ve adölesanlardaki  (0-18 yaş) pozoloji her bir endikasyon için erişkinlerden farklı değildir 
+ve yukarıda belirtilen durumla rdaki klinik s onlanımlara göre ayarlanır.  
+ 
+Uygulama şekli:  
+İntravenö z yolda n uygulanır. 
+ 
+PRIVIGEN yaklaşık 30 dakikada 0,3 m L/kg vücut ağırlığı/saat’lik ilk infüzyon hızıyla 
+intravenöz  olarak uygulanmalıdır. Eğer iyi tolere edilirse uygulama hızı kademeli olarak 4,8 
+mL/kg vücut  ağırlığı/saat’e  kada r arttırılabilir  (bkz. Bölüm  4.4). 
+ 
+4,8 mL/kg vücut ağırlığı/saat’lik infüzyon hı zını iyi tolere eden primer immün yetmezlik (PID)  
+hastalarında uygulama hızı, kademeli olarak maksimum 7,2 mL/kg vücut ağırlığı/saat’e kadar 
+daha  arttırılabilir.  
+ 
+Eğer infüzyon öncesi seyreltme  gereki rse, PRIVIGEN 50 mg/mL’lik (%5) son konsantrasyona  
+ulaşana  kadar  %5 glukoz  çözeltisi  ile seyreltilebilir.  Ayrıntılı talimatlar  için Bölüm  6.6.’ya  
+bakınız.  
+Azami infüzyon hızı her bir ürün için klinik çalışma protokollerine göre be lirlenmelidir.  
+ 
+Özel popülas yonlara ilişkin ek bilgiler : 
+ Böbrek/Karaciğer yetmezli ği: 
+IVIg tedavisi  uygulanan hastalarda  akut böbrek yetmezliği vak aları bildirilmiştir . Böbrek yetmezliği 
+riski bulunan hastalarda, IVI g preparatları uygulanabilir  en düşük infüzyon hızında ve  dozda 
+kullanılmalıdır  (bkz. B ölüm 4.4.). 
+ Karaciğer yetmezliği olan hastalar la ilişkin ek bir bilgi bulunmamaktadır.  
+Pediy atrik popülasyon : 
+Yukarıda bahsedilen her durumda pozoloji vücut ağırlığına göre ve kl inikte alınan yanıta göre 
+verildiğin den, çocukl arda ve adölesanlarda  (0-18 yaş) poz oloji değişm ez. 
+ 
+Geriyatrik popülasyon : 
+IVIg tedavisi  uygulanan  hastalarda akut böbrek yetm ezliği  vakaları bildirilmiştir . Bu vakal arın 
+çoğunda kişinin 65 ya şın üzerinde olması dahil beli rli risk faktörlerinin olduğu bil dirilmiştir.   
+ Ayrıca IVIg uygulaması  ile yüksek riskli hastalarda  tromboembolik olaylar  arasında bağlantıyı 
+gösteren klini k kanıtlar  mevcuttur. Bu nedenle  ileri yaş dahil  trombotik olay  açısından  risk 
+faktörlerin i taşıyan  hastalar da IVIg reçetelenip infüzyonu uygul anırken dikkatli hareket edilmeli, 
+uygulanabilir en düşük infüzyon hızında ve dozda kullanılmalıdır  (bkz. böl üm 4.4.) . 
+ 4.3 Kontrendikasyonlar  
+ 
+- Etkin mad deye (insan immünoglobuli n) ya da bölüm 6.1’de listelenen yardımcı 
+maddelerden herhangi biri ne karşı aş ırı duyarlı lığı olanlarda  (bkz. Bölüm 4.4) ,  
+- IgA içeren ürünlerin uygulanması anafilaksi ye yol açabil eceğinden, selektif IgA yetmezliği 
+olan ve IgA'ya karşı antikor geliştiren hastalar da, 
+- Hiperprolinemi Tip I ya da Tip II hastalarında  kontr endikedir. 
+ 
+4.4 Özel kullanım uyarıl arı ve önlemleri  
+ 
+Virüs Güvenliliği  
+PRIVIGEN insan plazmasından elde edilmektedir. İnsan kanı veya plazmasından hazırlanan 
+tıbbi ürünlerin kullanımından kaynaklanan e nfeksiyonları önl emek için alınan st andart 
+önlemler, v ericilerin seçil mesini, münferit bağ ışların ve plazma h avuzlarının belli enfeksiyon 
+belirteçleri için izlenmesini ve virüslerin et kisizleştirilmesi/uzaklaştırılması için etkili üretim 
+basamaklarını kaps amaktadır. Buna karşın, insan kanı v eya plazmasından h azırla nan t ıbbi 
+ürünler uygulan dığın da, enfeksiyona ned en olacak ajanların bulaşma olasılığı tamamen 
+dışlanamaz. Bu durum bilinmey en veya yeni ortaya çıkan virüsler ve diğer patojenler için de 
+geçerlidi r.  
+ 
+Alınan önlem lerin insan im mün yetmezlik virüsü (H IV), h epatit B v irüsü (HBV) ve hepat it C 
+virüsü (HC V) g ibi zarflı virüsler ve hepatit A virüsü (HAV) ve parvovirüs B19 gibi zarfsı z 
+virüsler için etkili olduğu düşünülmekt edir.  
+ 
+İmmünoglobulinlerle Hep atit A veya parvovirüs B19 bulaşması olmadığına dair gü ven verici 
+klinik deneyimler mevcut tur ve aynı zamanda antikor içeriğinin viral güvenliliğe önemli 
+katkıda bulunduğu varsayılmakt adır. 
+ 
+İzlenebilirlik  
+Biyolojik tıbbi ürünlerin izlenebilirliğini iyileş tirmek için uygul anan ürünün adı ve seri numarasının 
+kaydedi lmesi gere kir. 
+ 
+Bazı ciddi ad vers etkiler infüzyon hızıyla ilişkili olabilir.  Bölüm “ Pozoloji uygulama sıklığı ve 
+süresi’’ bölüm ünde verilen infüzyon hızı yakından takip edilmelidi r. Hastalar infü zyon dönemi 
+boyunca herhangi bir semptomun gelişmesi a çısınd an ya kında n izlenmeli ve dikka tle gözlenmelidir.  
+ 
+Bazı advers reaksiyonlar sıklıkla meydana gelebilir:  
+- Yüksek infüzyon hızı  durumunda,  
+- IgA eksikliği olan veya olmayan hipogamaglobulinemi veya aga maglobulinemi 
+hastalarında,  
+- İnsan immünoglobulini ni ilk defa  veya nadi r durumlarda alan ha stalarda, normal 
+immü noglobulin ürünü değiştirildiğinde veya önceki infüzyondan itibaren uzun bir ara 
+verildiği zaman  
+ 
+Potansiyel komplikasyonlardan aşağıdaki koşull ara sahip hastaları n sağlanması ile sıklıkla 
+önlenebil ir: 
+- İnsan normal immünoglobulinine karşı duyarlı olmay an hastalara başlangıçta ürünün yavaş 
+infüzyonu ile (0,3 mL/kg/sa)  
+- İnfüzyon periy odu boyunca herhangi bir semptom için hastaların dikkatli bir şekil de 
+izlenmesi ile . Özellikle daha önce normal insan im münoglobulini uygulanmamış, alterna tif 
+bir üründen geç iş yapmış hastalar ya da önceki infüzyondan sonra uzun süre geçm iş hastalar 
+potans iyel adver s etkilerin belirtilerini tespit etmek için ilk infüzyon sırasında ve 
+infüzyondan sonra bir  saat boyunca taki p edilmel idir. Diğe r tüm hastalar uy gulama 
+sonrasında e n az 20 dakika süreyle gözetim altında tutulmalıdır. 
+ 
+Advers reaksiyon durumun da; infüzyon hızı azaltılmalı veya infüzyon durdurulmalıdır. Gere kli 
+tedavi advers r eaksiyonun niteliğine ve şiddetine bağlıdır. 
+ 
+Tüm hastalar da, IVI g uygulaması  aşağıdakileri  gerekti rir; 
+- IVIg infüzyona başlamadan önce y eterli hidrasyon  
+- İdrar miktarının  izlenmesi  
+- Serum krea tinin düzeylerinin izlenmesi  
+- Kıvrım diüretiklerinin eşzamanlı  kullanımından kaçınılmasını  (bkz. Bölüm 4.5)  
+ 
+Diabetes mellitus u olan ve  daha düşük konsantrasyonlar  için PRIVIGEN’i n seyrelt ilmesine  ihtiyaç 
+duyan has talar için , önerile n sey relticide glukozu n bul unması da değer lendirilmelidir . 
+ 
+Aşırı duyarlılık  
+Gerçek aşırı duyarlılık reaksiyonları nadirdir . Anti-IgA antikorları meydana gelebilirler.  
+ 
+IgA eksikliğinin tek anormallik olduğu selektif IgA  eksikliği olan ha stalarda IVIg endi ke de ğildir.  
+ 
+Nadi ren, insan normal immün oglobulini , daha önce insan imm ünoglobulini ile  tedaviyi tolere  etmiş 
+hastalarda dahi anafilakt oid reaksi yonla birlikte kan basıncında düşmeye neden olabilir . 
+ 
+Şok durumunda, şok için standart t ıbbi önlemler uygul anmalıdır.  
+ 
+Hemolitik  anemi  
+IVIg ürünleri hemo liz gibi davranabilen ve kırmızı kan hücrelerin in (RBC) immün oglobulinle in 
+vivo kaplanmasın ı indükleyerek pozitif direkt antiglobulin reaksiyonu (Coomb testi) ve nadiren 
+hemolize neden olan kan grubu antikorla rını (örneğin anti -A ve anti -B) içerebilir. He molitik anemi, 
+artan RBC sekestrasyonu nedeniyl e IVIg tedavis inin ardından gelişebilir. PRIV IGEN üreti m 
+prosesi, kan grubu A ve B antikorlarını (izoaglutinin A ve B) spesifik olarak azaltan bir 
+immünoafinite kr omatog rafisi (IAC) basamağını içerir.  IAC bas amağı ile üretilen PRIVIGEN ile 
+elde edilen kli nik veriler  hemolitik anemide istatistiksel olarak anlam lı düşüşler göstermektedir 
+(bkz. bölüm 4.8 ve  bölüm 5) . 
+ İzole vakalard a, hemoliz ile ilişk ili böbrek fonks iyon bozu kluğu/böbr ek yetme zliği veya  dissemine 
+intravasküler koagülasyon bozukluğu ve ölüm  meydana gelmiştir .  
+   
+Aşağıda ki risk faktörleri  hemoliz gelişimi ile ilişkilendirilir; 
+- Birkaç gün boyunca tekli veya bölünmüş doz lar hal inde uygulanan yüksek doz lar, 
+- A, B ve AB (0-kan grubu olmaya n) kan grubu ve altta yatan inflamatu var durumu i çeren 
+risk faktörleri ne sahip  hastalar.  Primer immün yetme zlik endikasyonu dışında yüksek doz 
+uygulanan, A, B ve AB (0- kan grubu olmayan) ka n grubuna sahip hastalarda, bu olayı n 
+yaygı n olarak bil dirilmesinden dolayı vijilansta artış  tavsiye edi lir. Hemoliz, PID için 
+replasman tedavisi alan hastalarda çok seyrek r apor edilm iştir. 
+ 
+IVIg alıcıları h emolizin klinik sem ptom ve bulguları açısından takip edilmelidir. IVIg infüzyonu 
+sırasında  veya sonrasında hemol iz bulgu ve/veya semptomlar ı gelişirse; tedaviyi uygulayan uzman 
+tarafından IVIg tedavisini n kesilmesi değer lendirilmelidir (bkz. bölüm 4.8.) . 
+ 
+Aseptik  menenjit se ndromu (AMS) 
+Aseptik menenjit sendromunun IVIg te davisi ile ilişkili olarak  meydana geldiği r apor edilmiştir.  
+Sendrom genel likle, IVIg tedavis ini takip eden birkaç saat ile 2 gün içerisinde başlar. Beyin  
+omurilik sıvısı çalışmaları, ağırlıklı olarak granülosit serilerinden oluşan birkaç bin hücre/mm3 ve 
+birkaç yüz mg/dL’ ye k adar yükselmiş protein seviyesi ile kendini göstere n pleos itoz bakımın dan, 
+sıklıkla pozitif çıkmaktadır.  
+ AMS daha sık olarak yükse k doz ( ≥2g/kg vücut  ağırlığı) IVIg tedavisi ile bağlantılı olarak ortaya 
+çıkabilir.  
+ Bu tür belirti ve semptom  gösteren ha stalarda, diğer  menenjit nedenlerine yönelik olasıl ıkları 
+elemek için  CSF çalışmaları dahil olmak üzere  kapsamlı bir nörolojik muayene  yapılmalıdır.  
+ IVIg tedav isinin kesilmesi, birkaç gün içerisinde herhangi bir sekel olmaksızın AMS remisyonu ile 
+sonuçlanmıştır.  
+ 
+Tromboembolizm: 
+IVIg uygulaması ile miyoka rd infarktüsü, serebrovasküler olay ( inme  dahil) , pulmoner emboli ve 
+risk grubundaki hastalar da immünoglobulinin  yüksek akı ş hızı nedeni yle kan viskozitesinde görülen 
+göreceli artı şa bağlı oldu ğu varsayıla n, derin ven tr ombozu gibi tromboembolik olaylar arasındaki 
+bağlantıyı gösteren  klinik kanıtlar  mevcuttur. Obez hastalar  ve trombotik olaylar iç in önceden var 
+olan risk faktörlerine  sahip hastalara ( ileri ya ş, hipertansiyon, diabetes mellitus ve vaskül er hastalık  
+ya da t rombotik atak öyküsü, kazanılmış ya da kalıtsal trombof ilik bozukluklar gibi, uzun süre 
+hareketsiz kalan hastalar, şiddetli h ipovolemik hastalar  ve kan vizkozite sini artıran hastalıklara 
+sahip hastalar  gibi) , IVIg reçetelenip  infüzyonu uygul anırken dikkatl i olunmalıdır . 
+ Tromboembolik advers  reaksiyon riski ta şıyan hastalarda,  IVIg ürünleri klinik değerlendirmeye 
+dayalı  minimum infüzyon hı zında ve uygulanabilir minimum dozda uygulanmalıdır. 
+ 
+Akut böbrek yetmezliği:  
+IVIg tedavisi uygulanan has talarda akut böbrek yetmezliği vakaları rapor edilm iştir. Çoğu vakada,  
+önceden var o lan böbrek yetmezliği, diabetes mellitus, hipovole mi aşırı k ilo eşzamanlı nefrotoksik 
+ilaç kullanımı  öyküsü veya kişinin 65 yaş ın üzerinde  olması gibi risk faktörleri  tanımlanm ıştır. 
+ IVIg infüzyonundan önce, özellikle  akut böbrek yetmezliği  geliştirme riskinde potansiyel artış 
+olduğu belirlenen hastalarda  ve tekrardan uygun aralıklarla renal parametreler değerlendirilmelidir . 
+ Böbrek yetmezl iği durumunda , IVIg infüzyonunun durdurulması düşünülmelidir.  
+ Bu böbrek fonksiyon bozukluğu ya da böbr ek yetmezliği raporla rı sukroz, glukoz ve maltoz gibi 
+çeşitli ya rdımcı mad deler için birçok onaylı IVIg ürünlerinin kullanımıyla  ilişkilendirilmişken ,  
+olguların çoğundan, stabilizasyon a macı yla sukroz içeren preparatlar sorumlu tutulmakta dır. Bu 
+nedenle, r isk altındaki hastala rda, sükroz içermeyen IVIg ürünlerinin kullanımı dikkate alın malıdır. 
+PRIV IGEN sukroz, maltoz veya glukoz içermez . 
+ 
+Akut renal yetme zliği olan hastalarda, IVIg ürünl eri klinik değe rlendirmeye  dayalı  minimum 
+infüzyon hızında ve uygulana bilir minimum dozda kul lanılmalıdır.  
+ 
+Transfüzyonla ilişkili akut akciğer hasarı ( TRALI)  
+IVIg alan hastalarda, bazı akut non- kardiyojenik pulmoner ödem [Transfüzyonla İlişkili Akut 
+Akciğ er Hasarı (TRALI) ] raporları bildirilmiştir.  TRALI ; şiddetli hipoksi, dispne, takipne, si yanoz, 
+ateş ve hipotansiyonla karakt erizedir.  TRALI sem ptomları tipik olarak transfüzyon sırasında veya 
+izleyen 6 saat içinde, çoğu zaman 1 -2 saat içinde gelişmektedir . Bu nedenle, IVI g alan hastalar 
+pulmoner advers reaksiyonlar açısından izlenmeli ve reaksiyon durumunda  IVIg infüzyonu hemen 
+durdurul malıdır. T RALI yaşamı tehdit etme potansiyeli olan b ir durumdur  ve hemen yoğun 
+bakımda yönetim uygulanması gerekmektedir . 
+ 
+Serolojik testler ile etkileşim  
+İmmünoglobulin enjeksiyonundan sonra pasif olarak transf er edilmiş antikorların hastanın kanı nda 
+geçici olarak yükselmesi, serolojik testlerde hatalı  pozitif sonuçlara neden olabilir. 
+ A, B, D gibi erit rosit antijenlerine ka rşı olan antikorların pasif geçişi, dir ekt antiglobulin testi (DAT, 
+direkt Coombs testi)  gibi kırmızı hücre antikorlarına ili şkin baz ı ser olojik testlerle etkileş ime 
+girebilir . 
+ Sodyum içeri ği 
+Bu ürün her 1 ml’sinde 1 mmol (23mg)’dan daha az sodyum ihtiva ederi.; yani aslında “sodyum 
+içermez”.  
+ 
+Pediyatrik popülas yon 
+Sınırlı veri mevcut olmasına rağmen; aynı uyarı, önl em v e risk faktörle rinin pedi yatrik popülasyon 
+için de geçerli  olması beklen mektedir. Pazarlama sonrası raporlarda çocuklarda özellikle Kawasaki 
+hastalığı olmak üzere IVI g’nin yüksek doz endikasyonla rının, çocuklardaki diğer IVI g 
+endikasyonlarına göre daha yüksek hemolitik r eaksiyon bildirim oranı ile ilişkili olduğu 
+gözlen miştir. 
+ 4.5 Diğer tıbbi ürünlerle etkileşimler ve diğer etkileşim şekilleri  
+ 
+Canlılığı azaltılmış virüs aşıları 
+İmmünoglobulinle rle tedavinin ardı ndan, kızamı k, kabakulak, kızamıkçık  ve su çiçeği aşıları g ibi 
+canlılığı azaltılmış aşıların etkililiği en az 6 ha fta ila 3 aya kadar bir süre için azalabilir.  Bu tıbbi 
+ürünün uygulanmas ından sonra, canlılığı azaltılmış aşılar ile aşılama dan önce 3 aylık bir zaman  
+geçmelidir . Kızamık aşılarında, etkililikteki azalma bir y ıla kadar devam edebilir. Bu nedenle 
+kızamık a şısı yapılan hastaların antikor durumları  kontrol edilmelidir . 
+ 
+Kıvrım diüretikleri 
+Kıvrım diüretikleriyle birlikte kullanımdan kaçınılmalıdır.  
+ Özel pop ülasyonl ara ilişkin ek bilgiler  
+Özel popülasyonla ra iliş kin hiçbir etkileşim ça lışması yapılmamıştır.  
+ Pediyatrik popülasyon  
+Sınırlı veri mevcut olmasına rağmen, pedi yatrik popülasyonda aynı etkileşimler in meydana gelmesi 
+beklenmektedir.   
+4.6 Gebelik ve l aktasyon  
+ 
+Genel tavsiye  
+Gebelik kat egorisi: C 
+ Çocu k doğu rma potansiyeli buluna n kadınlar / Doğum kontrolü (Kontrasepsiyon)  
+PRIVIGEN’in çocuk doğurma potansiyeli bulunan kadınlarda ve gebe kadınlarda kul lanımına 
+ilişkin yeterli veri mevcut değildir. Çocuk doğurma potansiyeli bulunan kadınla rda planlanmış b ir 
+gebelikten önce uygun bir  alternatif tedavi  başlatılmalıdır . 
+ Gebelik dönemi  
+Gebelikte kullanım için bu tıbbi ürünün güvenliliği kontrollü klinik ça lışmalarda belirlenmemiştir 
+ve bu nedenle gebe kadınl ara ve emziren annelere yalnızca dikkatl i bir şekild e ver ilmelidir. IVIg 
+ürünle rinin, üçüncü trimesterde giderek artan şekilde, plasentaya geçtiği gösterilmiştir. 
+İmmünoglobülinler ile gerçekleştirilen k linik deneyimler; hamilelik, fetüs ve yenidoğanda her hangi 
+bir zararlı etki beklenmediğini öne  sürmektedi r. 
+ 
+Hayvan lar üzerinde gerç ekleştirilen, yardımcı madde L -prolin ile ilgili deneysel çalışmalar gebeliği, 
+embriyonik veya fetal gelişimi doğrudan veya dolaylı olarak etkileyen toksisite olmadığını ortaya 
+çıkarmıştır. 
+ 
+Laktasyon dönemi  
+İmmünoglobulinler anne süt üne geçer  ve yenidoğana mukozal giriş yerine sahip patojenlerden 
+korumaya katkıda bulunabilir .  
+ 
+Üreme yeteneği/fertilite  
+İmmünoglobulinler ile el de edilen klinik deneyim fertilite üzerinde herhangi bir zararlı etkinin 
+beklenmediğini öne s ürmektedir.  
+ 4.7 Araç ve makine kull anımı üzerindeki  etkiler  
+ 
+PRIVIGEN ’in araç ve makine kullanma yeteneği üzerinde minör bir etkisi b ulunmaktadır, örn. baş 
+dönmesi (bkz . Bölüm 4.8). Tedavi sırasında advers reaksiyon yaşayan  hastalar  araç ve makine 
+kullan madan önce bu etkilerin geçmesini beklemelidir. 
+ 
+4.8 İstenmeyen etkiler  
+ Güvenlilik profilinin özeti İnsan immü noglobulinlerinin intravenöz uygulanmas ı ile bağlan tılı olarak zaman zaman titreme, 
+baş ağrısı, baş dönmesi, ate ş, kusma , alerji k reaksiyonlar,  bulantı, artr alji, dü şük kan basıncı ve  orta 
+dereceli sırt ağrısı gibi advers reaksiyonlar meydana gelebilir.  
+ İnsan immü noglobulinleri nadiren ka n basıncında ani  bir düşüşe ve izol e vakalarda, hasta önceki 
+uygulamaya karşı aşırı duyarlılık göstermemiş ol sa bile anafi laktik şoka neden olabilir. 
+ İnsan normal immü noglobulinleri ile geri dönüşümlü aseptik menenjit vakal arı ve nadir ras tlanan 
+geçici kutanö z reaksiyon vakaları (sıklığı bilinmeyen kutanöz lupus eritem atozus dahil) 
+gözlem lenmiştir.  
+ İmmünmo dülatör tedavide, özellikle kan grubu A, B ve AB olan hastalarda geri dönüşümlü 
+hemolitik reaks iyonlar gözlenmi ştir. Yüksek doz IVI g tedavisinde n sonra, nadiren, transfüzyon 
+gerektiren hemolitik anemi gelişebilir  (bkz. bölüm 4.4.). 
+  
+Serum kreatinin seviyes inde artış ve/veya akut böbr ek yetmezliği gözlenmişt ir. 
+ 
+Çok seyrek : transfüzyona bağlı  akut ak ciğer hasarı  (TRALI)  ve miyokard inf arktüsü, inm e, 
+pulmoner e mbolizm ve derin ven trombozları gibi tromboembolik reaksiyonlar. 
+ Advers reaksiyonların  listesi  
+PRIVIGE N ile; PID, IT P ve CIDP'li hastaların dahil edildi ği yedi  klinik çalışma gerçekleşt irilmiştir. 
+Pivotal PID çalışmasına 80  hasta kat ılmış ve PRIV IGEN ile tedavi edilmiştir. Bunlardan 72’si 12 
+aylık tedaviyi tamamlamı ştır. PID uzatma çalışmasına 55 hasta  katılmıştır ve PR IVIGEN ile  tedavi 
+edilmiştir. Diğer bir klinik çalışmaya Japonya’da n 11 PID’li hasta dahil edilmiştir.  Her biri 57 hast a 
+içeren 2 ITP çalışması gerçekleştirilmiştir. Sırasıyla 28 ve 207 hasta  ile 2 CIDP çalışması 
+gerçekleştirilmiştir.  
+ Yedi klinik çalışma da gözlene n advers ilaç reaksiyonl arının (ADR) çoğu, hafif – orta de recelidir.  
+ Yedi  klinik çalışmada gözlemlenen ADR’ ler MedDR A Si stem Organ Sınıfı (SOC), Tercih Edilen 
+Terimler (PT) ve sıklığa gö re kategorize edilmiştir . Sıklıklar şu k urala göre değ erlendirilmiştir: Çok 
+yaygın
+ (≥ 1/10);  yaygın  (≥1/100 ila < 1/10);  yaygı n olmayan ( ≥1/1.000 ila <  1/100); seyrek 
+(≥1/10.000 ila <1/ 1.000);  çok seyrek (<1/10.000), bilinmiyor (eldeki verilerden hareketl e tahmin 
+edilemiyor)  
+ 
+MedDRA Sistem 
+Orga n Sınıfı (SOC)  Advers Reaksiyon  Hasta başına 
+sıklık  İnfüzyon başına 
+sıklık  
+Enfeksiyonlar ve 
+enfestasyonlar  Aseptik menenjit  Yaygın olmayan  Seyrek  
+Kan ve lenf sistemi 
+hastalıkları  Anemi, hemoliz (hemolitik  
+anemi dahil) β, lökopeni  Yaygın  Yaygın olmayan  
+Anizositoz (mi krositoz dahil)  Yaygın olmayan  Yaygın olmayan  
+Trombositoz  Seyrek  
+Nötrofil sayısında azalma  Bilinmiyor  Bilinmiyor  
+Bağışıklık sistemi 
+hastalıkları  Hipersensitivite  Yaygın  Yaygın olmayan  
+Anafilaktik şok Bilinmi yor Bilinmiyor  
+Sinir sis temi  
+hastalıkla rı Baş ağrısı (sinüs baş ağrısı, 
+migren, gerilim tipi baş ağrısı, tansiyon baş ağrısı dahil)  Çok yaygın  Çok yaygın  
+Baş dönmesi (verti go dahil)  Yaygın  Yaygın olmayan  
+Uykululuk hali  Yaygın olmayan  Yaygın olmayan  
+Tremor  Seyrek 
+Kardiyak  hastalıklar  Palpitasyon, taşikardi  Yaygın olmayan  Seyrek  
+Vasküler hastalıklar  Hipertansiyon, al basması  
+(sıcak basması, hiperemi dahil ) Yaygın  Yaygın olmayan  
+Hipotansiyon Seyrek  
+Tromboembolik olayl ar, 
+vaskülit (periferik v asküler 
+hastalık  dahil)  Yaygın olmayan  Seyrek   
+MedDRA Sistem 
+Orga n Sınıfı (SOC)  Advers Reaksiyon  Hasta başına 
+sıklık  İnfüzyon başına 
+sıklık  
+Transfüzyonla ilişkili akut 
+akciğer  hasarı  Bilinmiyor  Bilinmiyor  
+Solunum, göğüs 
+bozuklukları ve 
+mediastinal 
+hastalıklar  Dispne (göğüs ağrısı, göğüste 
+rahat sızlık, ağrılı solunum  
+dahil ) Yaygın  Yaygın o lmayan 
+Gastr ointestinal 
+hastalıklar  Mide bula ntısı, kusma, ishal  Yaygın  Yaygın  
+Karın ağrısı  Yaygın olmayan  
+Hepato -bilier 
+hastalıkları  Hiperbilirubinemi Yaygın  Seyrek  
+Deri ve deri altı doku 
+hastalıkları  Deri hastalıkları ( döküntü, 
+kaşıntı , ürtiker, m akulopa puler 
+dökünt ü, eritema , deri 
+eksfoliyasyonu dahil ) Yaygın  Yaygın  
+Kas-iskelet  
+bozu klukl ar, bağ 
+doku ve kemik hastalıkları  Miyalji (kas spazm ları, kas -
+iskelet tutulması, kas -iskelet 
+ağrıları dahil)  Yaygın  Yaygın olmayan  
+Böbrek ve idrar 
+hastalık ları Proteinüri, kan kreat ininde 
+artışı Yaygın olmayan  Seyrek  
+Akut böbrek yetmezliği  Bilinmiyor  Bilinmiyor  
+Genel bozukluklar ve 
+uygulama bölgesine 
+ilişkin hastalıklar  Ağrı (sırt ağrısı, 
+ekstremite lerde ağrı, artralji, 
+boyun ağrıs ı, yüz ağrısı dahil), 
+pireksi (titreme  dahil), 
+influenza benzeri hastalık lar 
+(nazofarenjit, faringolaringeal 
+ağrı, orofaringeal kabarma, nefes borusu darlığı)  Çok yaygın Yaygın  
+Yorgunluk  Yaygın  Yaygın  
+Asteni (kas zayıflığı dah il) Yaygın olmayan  
+Enjeksiyon bölgesinde ağr ı 
+(infüzyon bölgesinde 
+rahatsızlık dahil)  Yaygın olmayan  Seyrek  
+Araştırmalar  Hemoglobinde azalma ( kırmızı 
+kan hücresi  sayısında azalma , 
+hematokrit te azalma dahil) , 
+pozitif Coombs (direkt) testi , 
+alanin aminot ransferaz artışı, 
+aspartat aminotransferaz art ışı, 
+kan laktat dehidrojen az artışı Yaygın  Yaygın olmayan   
+β Sıklık, PRIVIGEN  üretiminde İmmünoafini te Kromatografisinin izoaglutinin az altma adımı (IAC) 
+uygulanmadan önce tamamlanan çalışmalara dayanarak hesaplanır. Ruhsatlandırma  Sonrası 
+Güvenlilik Çalış masında (P ASS): IA C sonra sında 4 hemolitik an emi vakas ının tespit edildiği 
+PRIVIGEN  uygulanan 7.759 hastaya karşı  IAC başlangıcında 47 hemolitik anemi vakasının tespit 
+edildiği PRIVIGEN  uygulanan 9.439 hastanı n veril erinin değerlendirildiği “Yetişkinlerde  ve 
+Çocuklarda PRIV IGEN  Kullanımı ve Hemolitik  Anemi ve  CIDP Olan Çocuklarda PRIVIGEN  
+Güvenlilik Prof ili – ABD’de Gerçekleştirilen Gözlem sel Hastane Bazlı Kohort Çalışması” adlı 
+çalışmada, hastanede/ayakta tedavi edil en hasta ortamı , yaş, cinsiyet, PRIVIGE N dozu ve  
+PRIVIGEN  kullanı ma y önelik endikasyon için ay arlanan 0,11’lik insidans oranına dayanarak ge nel 
+olası hemolitik anemi oranı, %89 oranında istatistiksel olarak anlamlı bir düşüş gösterilmiştir (tek 
+taraflı p -değeri <0 ,01). Olası hemolitik anemi olg uları, hemolitik anemi için spesifik Uluslarar ası 
+Hastalık Sınıflandırma  (ICD) -9 veya ICD -10 hastane taburcu etme koduna göre tanımlanmıştır. 
+Olası hemolitik anemi olguları, ICD-9 veya ICD -10 taburcu kodları yoluyla veya bir haptogl obinle 
+zamansal  bir ilişkiye göre hastane masrafı açıklama ları, hemoli tik anemi tetkiklerinde yapılan direkt 
+antiglobülin testi veya indirekt antiglobülin testi  yoluyla tespit edilen , belirtilmemiş bir transfüzyon 
+reaksiyonu olarak ta nımlanmıştır . 
+Bulaşıcı  ajanlara ilişkin güvenl ilik ve ris k faktörlerine ilişkin ilave detayl ar için b ölüm  4.4.’e 
+bakınız. 
+ Pediyatrik popül asyon  
+PRIVIGEN’in pediyatrik hastala rla gerçekleştirilen klinik çalışmalarında; adv ers reaksiyonların 
+sıklığı, yapıs ı ve şiddeti çocuklar ve yetişkinler arasında f arklılık gö stermemiştir.  Pazarlama  sonrası 
+raporlarda, tüm vaka  raporlarına göre hemoliz vaka sı oranının yetişkinlere göre çocukl arda biraz 
+daha yüksek olduğu gözlenmiştir. Risk faktörleri ve izleme önerileri hakkında detaylar için bölüm 
+4.4’e bakınız.  
+ 
+Şüpheli adve rs reaksiyonları n raporlanması  
+Ruhsa tlandırma  sonras ı şüpheli ilaç advers reaksiy onlarının raporlanması büyük önem taşı maktadır. 
+Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izle nmesine olanak sağlar. S ağlık 
+mesleği mensuplarının  herhan gi bir şüpheli a dvers reaksiyonu Tür kiye Farm akovijilans Merkezi’ne 
+(TÜFAM) bildi rmeleri gerekmektedir (www.titck.gov.t r; e-mail: tufam@titck.gov.tr; telefon: 0 800 
+314 00 08; faks: 0 312 218 35 99) . 
+ 
+4.9 Doz aşımı ve tedavisi  
+ Doz aşımı, özellikle  yaşlı hastalarda veya k alp veya  böbrek yetm ezliği o lan hastalar dahil risk 
+altındaki ha stalarda aşırı sıvı hacmine ve hipervi skoziteye yol açabilir.  
+ 5. FARMAKOLOJİK ÖZELLİKLER  
+ 5.1 Farmakodinamik özellikler 
+ 
+Farmakoterapötik g rup: İmmü n serum  ve immü noglo bulinler: intravenöz uygul ama için normal 
+insan im münoglobulinleri  
+ATC Kodu: J06BA02. 
+ 
+Etki Mekanizması: 
+İnsan normal  immünoglobuli ni, enfeksiyöz ajanlara karşı geniş spektrumlu antikor içeren 
+immünoglobulin G’yi (IgG ) içermek tedir.  
+  
+İnsan normal imm ünoglobulini, normal popüla syonda bulunan IgG antikorla rını içermektedir.  
+Genellikle en az 1000 donörden alınan plazmadan hazırlanmaktad ır. İmmünoglobulin G alt sınıf 
+dağılımı, işlenmemiş insan plazması ile ya kından ilişki lidir. Bu  tıbbi ürünün yeterli doz ları, anormal 
+derecede düş ük IgG düz eylerini nor mal ar alığa döndürebilir ve böyl elikle enfeksiyonlara karşı 
+yardımcı olabi lir. 
+ 
+Endikasyonlardaki replasman tedavisi haricindeki etki mekanizmaları henüz tamamen  
+incelenmemiş tir fakat  bunlar immünomodülatör e tkileri içermektedir.  
+ 
+Farmakodinami k etkiler  
+PRIVIG EN’i n güvenliliği ve etkil iliği Avrupa (ITP , PID ve CIDP çalışmaları ), Japonya (PID ve 
+CIDP çalışmaları)  ve ABD’de (PID  ve CIDP  çalışması) gerçekleştirilen  7 prospektif, açık etiketli, 
+tek kollu, çok me rkezli çalışmada incelenmiştir.   
+ 
+İlave güvenlilik verileri, ABD’de çeşitli immünolojik rahatsızlıkları olan hastalarda ger çekleştirilen 
+gözlemsel, çok  merkezli bir çalışma olan  bir Ruhsatlandırma Sonrası Güve nlilik Çalışmasında 
+(PAS S) toplanmıştır.  
+ 
+PID 
+PID pivot çalışmasına , yaşlar ı 3 ila 69  arasında değişen  toplam  80 hasta  dahil edilmiştir.  19 çocuk 
+(3 – 11 yaş), 12 adolesan (12 – 16 yaş) ve 49 yetişkin 12 ay boyunca PRIVIGEN ile tedavi 
+edilmiştir. 3 ha ftalık programda 272 ( 16 hastada) ve 4 haftal ık programda 766 (64 hastada) olmak 
+üzere 1038 infüzyon uy gulanmış tır. 3 haftalık ve 4 haftalık tedavi programları için uygulanan 
+medyan dozlar birbirleriyle hem en hemen aynıdır (428,3'e karşı 440,6 mg IgG/kg vücut ağırlığı).  
+ 
+PID uzatma çalışmasına yaşlar ı 4 ve 81 ara sında değişen toplam 55 hasta dahil edilmiş tir. 13 çocuk 
+(3 – 11 yaş), 8 adolesan (12 – 15 yaş) ve 34 yetişki n 29 ay boyunca PRIVIGEN ile tedavi edilmiştir. 
+771 infüzyon uygulanmıştır ve uygulanan medyan  doz 492,3 mg IgG/kg vücut ağırlığı dır.  
+ 
+ITP 
+ITP pivot çalışmasında 15 il e 69 yaşın  arasında to plam 57 hasta toplam 114 infüzyon olacak şekilde 
+2 PRIVIGEN  infüzyonu ile tedavi edilmiştir. Tüm hastalarda her infüzyonda planlanan 1 g/kg vücut 
+ağırlığı dozuna yakından uyulm uştur (m edyan: 2 g IgG/ kg vücut ağırlığı).  
+ 
+İkinci ITP çal ışma sında, yaşları 18 – 65 arasında değişen 57 ITP’li hasta (başlangıç platelet sayısı 
+(taban) ≤30x109/L), PRIVIGEN 1 g/kg vücut ağırlığı ile tedavi edilmiştir. 3. günde, hasta lar 1 g/kg 
+vücut ağırl ığında ki ikinci dozu al abilirler, 3. günde platelet sayısı  <50x109/L olan has talar için 
+ikinci doz zorunludur. Genel olarak, 42 gönüllüde  (% 74) p latelet sayısı ilk infüzyondan sonra 6 
+gün içerisinde en az bir kez ≥50x109/L’ye yükselm iştir ve bu beklenen aralık dahilindedir. İlk 
+dozd an sonra platelet sayısı ≥50x109/L olan kişilerde , ikinci doz, tek dozla karşılaştırıldığında, 
+platelet sayısında daha yüks ek ve daha uzun süreli artışlar açısından ilgili ilave bir yarar sağlamıştır. 
+İlk d ozdan sonra platelet  sayıları <50x109/L olan  gönül lülerin  % 30’u zorunlu ikinci dozdan sonra 
+≥50x109/L’lik bir platelet yanıtı göstermiştir.  
+ 
+CIDP  
+İlk prospektif, çok m erkezli, açık etiketli CIDP çalışmasında (PRIMA: PRIVIGEN’in hareket ve 
+otonomi üzerinde ki etkile rine ilişkin çalışma), 28 CIDP hasta sı (13 hasta önceden I VIg tedavisi 
+almış ve 1 5 hasta i se önceden IVIg tedavisi almamış) 2 - 5 gün boyunca 2 g/kg vücut  ağırlığında bir 
+yükleme dozu ile tedavi edilmiştir ve akabinde her 3 haftada bir 1 – 2 gün boyunca 1 g/k g vücut 
+ağırlığında 6 idame dozu uygula nmıştır.  Önceden tedavi edilen  hastalar,  PRIVI GEN’e başlamadan 
+önce kötüleşme doğrulanana kadar, IVIg tedavisinden ger i çekilmiştir.  Ayarlanmış 10 noktalı 
+INCAT (İnflamatu var Nöropati  Nedeni ve Tedavisi)  skalasında, 28 has tanın 17’sinde başlangıçtan 
+tedavinin 25. haftasına kadar  en az 1-puanlık anlamlı b ir klinik iyileşme gözlenmiştir (% 60 ,7, % 95  
+güven aralığı 42,41, 76,4).  Dokuz hasta 4. haftada ve 16 hasta ise 10. haftada ilk indüksiyon dozunu 
+aldıktan s onra tedaviye yanıt ve rmiştir.  
+ 
+Tüm hastalard a MRC (Tıbbi Araştırma Ko nseyi) Skoru i le ölç ülen kas gücü 6,9 puan artmıştır 
+(%95 güven aralığı [4,11, 9,75], daha önce te davi edilen hastalarda 6 ,1 puan (%95 güven aralığı 
+[2,72, 9,44]) ve tedavi edilmemiş has talarda 7 ,7 puan (%95 güven aralığı [2,89, 12,44]) . En az 3 
+puanlık ar tıştan olu şan MRC ya nıt veren  oranı, daha önceden tedavi edilen (%81,5 [58,95, 100,00]) 
+ve tedavi edil meyen (%86 ,7 [69,46, 100,00]) hastalarda benzer olan %84,8  olmuştur. 
+ 
+INCAT ölçeğinde  yanıt vermeyenler ola rak tanımlanan hastalar da kas gücü 5,5 puan (%95 güven 
+aralığı [0,6, 10,2]) v e INCAT ölçeğinde yanıt verenlerde 7 ,4 puan (%95 güven aralığı [4,0, 11,7])  
+iyileşmiştir.  
+ 
+Prospektif, çok merkezli, randomize, pla sebo-kontrollü ikinci bir klinik çalışmada [PATH: 
+Polinöropati ve Hizent ra ile Tedavi ], 207 CIDP ’li gönül lü, çalışm anın ön ra ndom izasyon fazında 
+PRIVIGEN ile tedavi edilmiştir. IVIg ile en az 8 haftalık bir ön tedavi alan ve IVIg- bağımlılığı 12 
+haftaya kadar IVIg yoksunluk dönemi boyunca klinik olarak kötüleşme ile teyit edile n hastalar, 2 
+g/kg vücut ağırlığı nda PRIVIG EN yükleme  dozu almıştır ve akabinde 13 haftaya kadar her üç 
+haftada bir 1 g/ kg vücut ağırlığında 4 PRIVIGEN idame dozu uygulanmıştır.  
+ 
+IVIg çekilmesi sırasındaki klinik kötüleşmeyi takibe n; CIDP’nin klinik iyil eşmesi, öncelikli o larak 
+ayarlanmı ş INCAT sk orunda ≥1 puanlık bir azalma ile tanımlanmıştır. CIDP iyileşmesinin ilave 
+ölçümleri ≥4 puanlık bir R -ODS (Rasch Yapılı Genel Engellilik  Skalası) artışı, ≥8 kPa’lık ort alama 
+bir kavrama gücü  artışı veya ≥ 3 puanlı k bir MRC toplam sk or artışı olmuş tur. Genel  olarak, 
+gönül lülerin  % 91’i (188 hasta), 13. haftada yukarıdaki kri terlerden en az birinde iyileşme 
+göstermiştir.  
+ 
+Ayarlanm ış INCAT skoru ile; 13. haftadaki yanıtlayı cı oranı %  72,9 (151/ 207 hasta) olmuştur ve bu 
+hastaların 149’u 10. Haftada zat en y anıt v ermiştir.  207 hastanın toplam 43’ü, çalışma 
+başlangıcındaki CIDP durumları ile  karşılaştırıldığında daha iyi bir CIDP durum u (ayarlanmış 
+INCAT skoruyla değerlendirile n) sağlamıştır.  
+ 
+Referans vizite ile karşıla ştırıldığında, tedavi periyodunun s onundaki ortal ama iyileşme PRIMA 
+çalışmasında 1 ,4 puan (IVIg ile ön- tedavi alan gönüllül erde 1,8 puan) ve PATH çalışmasında 1,2 
+puan olmuştur.  
+ 
+PRIMA çal ışmasında, genel Tıbbi  Araştırma Konseyi (MR C) skorunda (≥ 3 puanlı k artış olarak 
+tanımlanmıştır) yanıt verenler in yüzdes i % 85 (IVIg uygulanmamışlarda %  87 ve IVIg ile ön 
+tedavide %  82) ve PATH çalışmasında %  57 olmuştur. PRIMA çalışmasında ilk MRC toplam  skor 
+yanıtı için gene l medyan süresi 6 haft a (IVIg uygulanmamış ha stalarda 6 hafta ve IVIg ile ön 
+tedavide 3 ha fta) ve P ATH çalışmasında 9 ,3 haftadır. PRIMA ç alışmasında MRC toplam skoru 6 ,9 
+puan (IVIg ile tedavi edilmemiş hastalar için 7 ,7 puan, IVIg ile ön tedavi için 6 ,1 puan) ve PATH 
+çalışması nda 3,6 puan artmıştır.  
+ 
+PRIMA çalışmasında baskın elin kavrama kuvve ti 14,1 kPa (IVIg uygulanmayanlarda 17,0 kPa ve 
+IVIg ile ön- tedavi edilen gönüllülerde  10,8 kPa) ile artarken, PATH çalışması nda baskın elin 
+kavrama kuvveti 12,2 kPa  kadar artmıştır. Bask ın olmayan el için, her  iki çalışmada d a, PRIMA ve 
+PATH, be nzer sonuç lar gözl enmiştir. 
+ 
+PRIMA ve PATH çalışmasında, CIDP hastalarındaki etkililik ve güvenlilik profili genel olarak 
+karşılaştırılabilir dir.  
+ 
+  
+Ruhsatlandırma Sonrası Güve nlilik Çalışması (PASS ) 
+Gözlemsel, hastane ba zlı kohort Ruhsa tlandırma Sonrası Güvenl ilik Çalışmasında  (PASS) 1 Ocak 
+2008 ile 30 Nisan 2019 tarihleri arasında çeşitli immünolojik rahatsızlıkları olan hastalarda 
+PRIVIGEN tedavisinden sonraki hemolitik anemi  riski değerlendirilmiştir. PRIVIGEN üretim 
+prosesinde İmmünoaf inite Kromatografi si (IAC) adımının eklenmesinden oluşan risk minimizasyon 
+önlemi uygulanmadan önce (ba şlangıç ) ve uygulandıktan sonra hemolitik anemi r iski 
+değerlendirilmiştir. Olası hemolitik  anemi olguları, hemol itik anemi için spesifi k ICD-9 veya ICD -
+10 hastane taburcu etme  koduna göre t anımlanmıştır. (Olası hemolitik anemi olguları, ICD -9 veya 
+ICD-10 taburcu kodları yoluyla veya  haptoglobinle zamansal bir ilişkiye göre hastane masrafı 
+açıkl amaları, hemolitik ane mi tetkiklerinde yapıla n direkt antiglobülin testi veya indirek t 
+antiglobülin testi yoluyla tespit edilen, belirtilmemiş bir transfüzyon reaksiyonu olarak 
+tanımlanmıştır. ) 
+Başlangıç seviyesine göre IAC adımı uygulandıktan sonra hemoli tik anemide %8 9 oranın da 
+istatistiksel olarak  anlamlı b ir düşüş gözlenmi ştir (0 ,11’li k ins idans ora nına dayanarak; 
+hastan ede/ayakta tedavi ortamı, yaş, cinsiyet, PRIVIGEN dozu ve PRIVIGEN kullanımına ilişkin 
+endikasyon için ayarlanmıştır; tek taraflı p- değeri < 0 ,01): 
+ 
+ Başlang ıç IAC 
+Süreɸ 1 Ocak 20 08 - 
+31 Ar alık 2012  1 Ekim 2016 - 
+30 Nis an 2019 
+Medya n anti-A titreleri£ 1:32 1:8 
+Medyan anti -B titreleri£ 1:16 1:4 
+Olası hemolitik anemiα vakaları  47 4 
+Hasta sayısı (n)  n=9439  n=7759  
+Risk altındaki  her 10. 000 hasta günü  için ol ası 
+hemolitik anemininα ham insida ns oranı  0,74 
+%95 GA&: 0,54-0,98 0,08 
+%95 GA: 0,02-0,20 
+Olası hem olitik anemi yeα karşı  başlangıç  
+seviyesinin ins idans oranında azalma  - %89 
+ 
+Hemolitik anemi ye karşı  başlangıç  seviyesi 
+için ayarlanmı şꝣ insidans or anı - 0,11 
+%95 GA: 0,04- 0,31,  
+tek taraflı p -değeri: <0 ,01 
+ɸ Hemolitik anemi  için ilk  risk minimizasyon ölçüt ü olarak, 1 Ekim 2013 ile 31 Aralık 2015 tarihl eri 
+arasında gerçekleştirilen yüksek anti -A titrelerine sahip insan kanı plazması donö rlerinin 
+dışla nması, b aşlangıç  seviyesine gör e olası hemo litik anemi ins idans ora nında %38  oranında  azalma 
+göstermiştir ve daha sonra yukarıda belirtildiği üzere PRIVIGEN  üretim prosesinde IAC adımı ile 
+değiştirilmiştir.  
+£ Avr. Farm’ye göre direkt test yöntemi ile ölçülen  medya n izoaglutinin titreler i 
+α Olası he molitik anemi v akası: hemolitik a nemi için  spesifik ICD-9 veya ICD -10 hastane taburcu 
+etme koduna  ve birden fazla PRIVIGEN infüzyonunun uygulanması durumunda ilk infüzyon ile 
+son infüz yondan sonra 30 güne ka dar zaman aralığ ı sırasında meydana gelmesi olarak 
+tanımlanmaktadır.  
+& Güven aralığı 
+ꝣ Ayarlam a amacı: hastanede/ayakta tedav i ortamı, yaş, cinsiyet, PRIVIGEN dozu ve  PRIVI GEN 
+kullanımına ilişkin endikasyon 
+ Başlangıç  seviyesine göre  IAC uygulamasından sonr a olası hemolitik  anemi insidans oranındaki 
+düşüş, öz ellikle ≥0 ,75 g/kg vücu t ağı rlığı PRIVIGEN dozları ile tedavi edilen ha stalarda belirgin 
+olmuştur.  
+Buna ek olarak 1 Oc ak 2008 ile 30 Nisan 2019 arasında çal ışma döneminin tamamı boyunca 
+CIPD’si olan, 18  yaş altında 28 pediyatrik hastanın olduğu belirlenmi ştir. Toplam 486 PRIVIGEN 
+uygulaması yapı lan CIPD ’si olan pediyatrik  hastaların hiçbirinde hemo litik anemi, AMS, akut 
+böbrek yetmezliği, şiddet li anafilaktik  reaksiyon veya tromboembolik olay meydana ge lmemiştir. 
+Tüm PRIVIGEN uygulamalarının %0,4’üne karşı lık gelen iki hasta da o rta dereceli anafi laktik 
+reaksiyon meydana gelmiştir. 
+ 
+Pediyatrik popülasyon  
+Yetişkin ve pediyatrik hastalar arasında farmakodinamik özellikler açısından h erhangi bir fark 
+görülmem iştir.  
+ 
+5.2  Farmakokinetik özellikler  
+ Genel özellik ler 
+ 
+Emilim:  
+İnsan normal i mmünoglobulini,  intravenöz uygulamanın ardından, alıcının kan dola şımında hemen 
+ve tamamen biyoya rarlanım sergiler.  
+ 
+Dağılım:  
+Plazma il e ekstrav asküle r sıvı arasında nispeten  hızlı bir şekilde dağılır. İntravasküler ve 
+ekstravas küler bölümle r arasındaki den geye yaklaşı k 3 ila 5 gün sonra ulaşılır. 
+ 
+Biyotransformasyon:  
+IgG ve IgG kompleksle ri retiküloendotelyal sistemde yıkılır. 
+ 
+Eliminasyon : 
+IgG ve IgG  kompleksleri retiküloendot elyal sistemin hücrelerinde parçalanır. Yarılanma ömrü 
+hastadan h astaya değişiklik gösterebil ir. 
+ 
+PRIVIGEN’in farmakokinetik parametreleri primer  immün yetmezlik sen dromu olan hastalar 
+üzerinde gerçekleştiri len klinik çalış malard a belirlenmiştir  (bkz. böl üm 5.1.). Farmakokinetik (PK) 
+değerlendirmenin gerçek leştirildiği pivot al çalışm aya 25 hasta ( 13 – 69 yaş arası)  katılmıştır . Bu 
+çalışmada P ID hastalarında PRIVIGEN’in medyan yarılanma süresi 36,6 gün olmuştur. Bu 
+çalışmanın uzatm a PK alt çalışma sına 13 PID hastası (3 -65 yaşında) katılmıştır. Bu çalışmanın 
+sonuç ları, PRIVIGEN’in medya n yarılanma sü resinin 31,1 gün olduğunu göstermektedir (bkz. 
+aşağı daki tablo).  
+ 
+PID’si olan Hastalarda PRIVIGEN’in Farmakokinet ik Parametreleri  
+ 
+Para metre  Pivot al çalışma (n =25) 
+Medyan (aralık)  Uzatma çalışması (n=13) 
+Medyan (ar alık) 
+Cmaks (doruk düzeyi)  g/L cinsinden  23,4 (10,4 – 34,6) 26,3 (20 ,9 – 32,9) 
+Cmin (düşük düzey) g / L cinsinden  10,2 (5,8 – 14,7) 12,3 (10 ,4 – 18,8) (3 haftalık 
+program)  
+9,4 (7,3 – 13,2) (4  haftalık  
+program)  
+t½ (yarılanma ömrü) gün cinsinden  36,6 (20 ,6 – 96,6) 31,1 (14,6 – 43,6) 
+Cmaks: maksimum serum konsantrasyonu, C min: min imum seviy edeki s erum konsantrasyonu, t 1/2: 
+eliminasyon yarılanma ömrü 
+ 
+  
+Pediyat rik popülasyon:  
+PID’si  olan yetişkin ve pedi yatrik hastalarda farmakokinetik parametrelerde herhangi bir farklılık  
+görülmemiştir.  CIDP’si ola n pediyatrik hastalardaki farmakokinetik özelliklere  ilişkin veri mevcut 
+değildir.  
+ 5.3 Klinik önces i güvenlilik verileri  
+ İmmünoglobul inler insan vücudunun normal bir bileş enidir. L-prolin esansiyel olmayan fizyoloji k 
+bir amino asi ttir.  
+ Özellikle L -prolin yardımcı maddesine referansın yapıldığı birçok klinik öncesi çalışmada 
+PRIVIGEN ’in güvenliliği değerlendi rilmiştir.  Hiperprolinemi ile ilgili yayınlana n bazı çalışmalar, 
+uzun süreli, yüksek dozlarda L -prolin kullan ımının çok genç  sıçanlar ın beyin geliş imi üzerinde 
+etkilerinin olduğunu göstermişt ir.  
+ Ancak dozlamanın P RIVIGEN ’in klinik endikasyonlarını yans ıtacak şekilde tasarlandığı 
+çalışmalarda beyin g elişimi üzerinde herhangi bir etki gözlenmemiştir. Klinik dışı veriler, 
+güvenl ilik farmak olojisi ve toksisite ç alışmalarına dayanarak insanlar için herhangi bir özel riskin 
+olmadığını göstermektedir.  6. FARM ASÖTİK ÖZELLİKLER  
+ 6.1 Yardım cı maddelerin listesi  
+ L-prolin 
+Enjeksiyonluk su  6.2 Geçimsizlikler  
+ 
+Bu tıbbi ür ün Bölüm  6.6’da belirtilenler dışında diğer tıbbi ürünler , seyrelticiler veya çözücüler ile 
+karıştırılmamalıdır  ve ayrı bir infüzyon hattı ile uygulanmal ıdır. 
+ 
+6.3 Raf ömrü  
+ 36 ay.  6.4  Saklam aya yöne lik özel tedbirler  
+ 25 ºC’nin altındaki oda sıcaklı ğında saklayın ız. 
+ Dondurm ayını z! Donmuş ür ünü çözüp kul lanmayınız.  
+ Çalkalamayınız.  
+ Işıktan  korumak için dış ambalajında muhafaza ediniz. 
+ Karton  kutu ve flakon etiketinin üzer inde yazan son kul lanm a tarihinden sonra ürünü 
+kullanmayınız.  Ürün açılır aç ılmaz, içerik de rhal kulla nılmalıdır.  
+    
+Ürünün a çıldıktan  sonraki raf ömrü:  
+PRIVIGEN tek kulla nım amaçlı bir üründür. Çözelti koruyucu içermez. Ürün açılır a çılmaz flakon 
+içeriği en geç 24 saat içerisi nde kullanılmalıdır. Kullanılmayan çözeltiler uygun bir  biçimde  imha 
+edilmelidir. 
+ 
+6.5 Ambalajın niteliği ve içeriği   
+ 1 adet elastomer tıpalı, alüminyum kl ips kapaklı, plastik flip off disk bulunan, entegre çekme kollu, 
+50 m L’lik Tip I  veya Tip  II cam fl akon kullanma talimatı ile birlikte karton kutuda sunulur. 
+ 6.6  Beşeri tıbb i üründe n arta kalan m addelerin imhası ve diğe r özel önlemler  
+ PRIVIGEN kullanıma haz ır çözeltidir.  
+ Ürün kullanılmadan önce oda sıcaklığına (25 
+oC) getirilmelidir.  
+ 
+PRIV IGEN uygulaması i çin havalandırılmış bir  infüzyon hattı kullanılmalıdır. İnf üzyon tüplerinin 
+fizyoloji k salin veya % 5 glukoz çözel tisi ile yıkanmasına izin verilir.  
+ 
+Tıpa daima işaretli a lanın ortasına doğru bastırılmalıdır. 
+ 
+Seyrel tme istenirse, % 5  glukoz çözeltisi kul lanılmalıdır. 50 mg/mL’ lik (% 5) bir immü noglobulin 
+çözelti si elde etmek için;  PRIVIG EN 10 0 mg/mL (% 10) eşit haci mdeki % 5’lik glukoz çözeltisi ile 
+seyreltilmelidir. PRIVI GEN’in seyreltilmesi kesinlikle aseptik koşul lar altında gerçek leştirilmelidir.  
+ 
+Çözelti berrak veya hafif opak olmalıdır. Bulanık veya partiküler madde  içeren çözeltile r 
+kullanılmamalıdır.  
+ PRIVIG EN etikette belirtilen son kullanma tar ihinden sonra kulla nılmamalıdır.  
+ Kullanılmamış olan ürünler ya da atık materyalle r ‘‘Tıbbi Atıkların K ontrolü Yönetmeliği’’ v e 
+‘‘Ambalaj ve Ambalaj Atıklarının K ontrolü Y önetmeliği ’’ne uygun olarak imha edilmelidir.  
+ 7. RUHSAT SAHİBİ  
+ CSL Behring Biyotera pi İlaç  
+Dış Ticaret  Anonim Şirketi  
+Üsküdar/İstanbul  
+ 8. RUHSAT NUMARASI  
+ 2015/692  9. İLK RUHSAT TARİHİ /RUH SAT YENİLEME TARİHİ  
+ İlk ruhsat tarihi:   31.08.2015 
+Ruhsat yenil eme tari hi: 
+ 10. KÜB’Ü N YENİLE NME TARİHİ  

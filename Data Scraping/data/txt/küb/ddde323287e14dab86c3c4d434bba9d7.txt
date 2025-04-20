@@ -1,0 +1,2276 @@
+1  KISA ÜRÜN BİLGİSİ  
+ 
+ 
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI  
+ 
+VOSEVI® 400 mg /100 mg /100 mg f ilm kaplı tablet  
+ 
+2. KALİTATİF VE KANTİTATİF BİLEŞİM  
+ Etkin madde ler:  
+ 
+Her bir film kaplı tablet 400 mg sofosbuvir, 100 mg velpatasvir ve 100 mg voks ilaprevir  
+içermektedir.   
+ Yardımcı maddeler:  
+ Laktoz monohidrat  (inek sütünden elde edil ir) 116,6 mg  
+ Yardımcı maddeler için 6.1’e bakınız . 
+3. FARMASÖTİK FORM  
+ 
+Film kaplı tablet.  
+ 
+Bir yüzünde “GSI”, diğer yüzünde ise “ 3” baskılı,  10 mm x 20 mm boyutunda, bej renkte, 
+kapsül şeklinde film kaplı tablet.  
+ 
+4. KLİNİK ÖZELLİKLER  
+ 
+4.1 Terapötik endikasyonlar  
+ 
+VOSEVI , yetişkinlerde kronik hepatit C virüsü (KHC) enfeksiyonunun tedavisinde endikedir  
+(bkz. Bölüm 4.2, 4.4. ve  5.1).   
+ 
+4.2 Pozoloji ve uygulama şekli  
+ 
+Pozoloji /uygulama sıklığı ve süresi:   
+ VOSEVI  tedavisi, KHC enfeksiyonu hastalarının tedavisinde deneyimli bir doktor tarafından 
+başlatılmalı ve izlenmelidir.  
+ Önerilen VOSEVI  dozu yemekle birlikte alınan  günde  bir tablettir  (bkz. Bölüm 5.2). 
+  Tüm KHC genotipleri için geçerli önerilen tedavi süreleri Tablo 1’de gösterilmiştir.  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 2  Tabl o 1: Tüm KHC genotipleri için VOSEVI  ile önerilen tedavi süreleri  
+ 
+Hasta popülasyonu  Tedavi süresi  
+DEA tedavisi almamış , siroz u olmayan  hastalar  8 hafta  
+ 
+ 
+DEA tedavisi almamış, kompanse sirozu olan hastalar  12 hafta  
+ 
+Genotip 3 ile enfekte hastalar için 8 hafta 
+düşünülebilir (bkz. B ölüm 5.1) 
+DEA tedavisi almış *, siroz u olmayan veya kompanse 
+siroz u olan  hastalar  12 hafta  
+DEA: direkt etkili antiviral ajan  
+* DEA tedavisi almış  hastalar, klinik çalışmalarda aşağıdakilerden herhangi birini içeren kombinasyon rejimlerine maruz 
+kalmıştır: daklatasvir, dasabuvir, elbasvir, grazoprevir, ledipasvir, ombitasvir, paritaprevir, sofosbuvir, velpatasvir, 
+voks ilaprevir ( 12 haftadan az bir süre ile sofosbuvir ve velpatasvir ile birlikte verilen)  
+ 
+Unutulan doz  
+Bir VOSEVI  dozu unutulduğunda ve dozun alınması gereken zamanın üzerinden en fazla 18 
+saat geçmişse, hastalara tableti mümkün olan en kısa sürede almaları ve daha sonraki dozu da 
+normal zamanda almaları bilgisi verilmelidir. Eğer ilaç alma zamanı üzerinden 18 saatten daha 
+uzun bir süre ge çmişse, hastalara beklemeleri ve sonraki VOSEVI  dozunu normal zamanda 
+almaları gerektiği bilgisi verilmelidir. Hastalar iki VOSEVI  dozunu birden almamaları 
+konusunda uyarılmalıdır.  Hasta, dozun alınmasından sonraki 4 saat içerisinde kustuğunda, hastaya ilave bir VOSEVI  
+dozu alması gerektiği talimatı verilmelidir. Dozun alınmasının ardından 4 saatten daha uzun 
+bir süre sonra kusma olursa, başka VOSEVI  dozuna gerek yoktur (bkz. bölüm 5.1). 
+ 
+Uygulama şekli : 
+Oral kullanım içindir.  
+ Hastalara tableti bütün halinde ve yiyecekle beraber yutmaları yönünde bilgi verilmelidir (bkz. 
+Bölüm 5.2). Acı tadı nedeniyle film kaplı tabletin çiğnenme mesi veya parçalanmama sı 
+öneril ir.  
+ 
+Özel popülasyonlara ilişkin ek bilgiler:  
+ 
+Böbrek yetmezliği : 
+Hafif veya orta derecede böbrek yetmezliği olan hastalar için VOSEVI  doz ayarlaması gerekli 
+değildir.  
+ 
+Hemodiyaliz gerektiren şiddetli böbrek yetmezliği (tahmini glomerüler filtrasyon hızı [eGFR] 
+<30 mL/dak/1,73 m2) ve diyaliz gerektiren son evre böbrek hastalığı (SEBH) bulunan 
+hastalarda güvenlilik verileri sınırlıdır.  VOSEVI diyaliz gerektiren SEBH bulunan hastalarda 
+çalışılmamıştır. Başka ilgili tedavi seçeneği yoksa, bu hastalarda doz ayarlaması yapılmadan 
+VOSEVI kullanılabilir (bkz. B ölüm 4.4, 4.8, 5.1 ve 5.2).  
+ 
+Karaciğer yetmezliği : 
+Hafif derecede karaciğer yetmezliği olan hastalar için VOSEVI  doz ayarlaması gerekli değildir  
+(Child -Pugh- Turcotte [CPT] A Sınıfı) . VOSEVI , orta veya şiddetli derecede karaciğer 
+yetmezliği bulunan hastalar için önerilmez (CPT B veya C Sınıfı ) (bkz . Bölüm 5.2). 
+ 
+Pediyatrik popülasyon : 
+18 yaşından küçük çocuklarda ve adölesanlarda VOSEVI ’nin güvenliliği ve etkililiği henüz 
+belirlenmemiştir. Bu konuda veri mevcut değildir. 
+ 3  Geriyatrik popülasyon:  
+Yaşlı hastalar  için doz ayarlaması  gerekli görülmemektedir (bkz. Bölüm 5.2). 
+ 
+4.3 Kontrendikasyonlar  
+ 
+Etkin maddelere veya bölüm 6.1’de listelenen yardımcı maddelerden herhangi birine karşı aşırı duyarlı lık. 
+ 
+Güçlü  P-glikoproteini (P-gp) ve/veya güçlü sitokrom P450 (CYP) indükleyicisi olan tıbbi 
+ürünlerle ( örn. k arbamazepin, fenobarbital , fenitoin, rifampisin, rifabutin  and sarı kantaron ) 
+birlikte kullanım (bkz. Bölüm 4.5). 
+ 
+Rosuvastatin veya dabigatran eteksilat ile birlikte kullanım (bkz. Bölüm 4.5).  
+ Kombine oral kontraseptif ler veya transdermal yamalar veya kontraseptif vajinal halkalar gibi 
+etinil estradiol içeren tıbbi ürünlerle birlikte kullanım (bkz. Bölüm 4.5). 
+ 
+4.4 Özel kullanım uyarıları ve önlemleri  
+ 
+Şiddetli bradikardi ve kalp bloğu 
+ 
+Sofosbuvir içeren tedaviler , amiodaronla birlikte  kullanıldığında , hayatı tehdit eden şiddetli 
+bradikardi ve kalp bloğu vakaları gözlenmiştir. Bradikardi genellikle saatler veya günler içinde 
+ortaya çıkmıştır, ancak başlangıcına kadar daha uzun süre geçen vakalar çoğunlukla HCV 
+tedavisine başladıktan sonraki 2 haftaya kadar gözlemlenmiştir.   VOSEVI  almakta olan hastalar da amiodaron yalnızca diğer alternatif antiaritmik tedaviler 
+tolere edilmediğinde veya kontrendike olduğunda kullanılmalıdır.  
+ Eşzamanlı amiodaron kullanımı gerekli görüldüğü takdirde, hastalar birlikte uygulamanın ilk 48 saati boyunca yatarak tedavi ortamında kardiyak izleme tabi tutulur; bundan sonra, hastanın 
+tedavinin en azından ilk 2 haftası boyunca günlük olarak ayakta tedavi veya kalp atış hızının kendi kendine izlemesinin yapılma sı önerilir.   
+ Amiodaronun yarılanma  ömrü uzun olduğundan, amiodaronu önceki birkaç ay içinde bırakmış 
+ve VOSEVI  tedavisine başlayacak  hastalar da yukarıda belirtildiği gibi kardiyak izleme  
+yapılmalıdır . 
+ Eşzamanlı veya yakın zamanda amiodaron kullanan tüm hastalar bradikardi ve  kalp bloğu 
+semptomları konusunda uyarılmalıdır ve bu semptomları yaşamaları halinde derhal  doktora 
+başvurmaları tavsiye edilmelidir.  
+ 
+HCV/HBV (hepatit B virüsü) ko-enfeksiyonu  
+ 
+Direkt etkili antiviral ajan larla tedavi sırasında ya da  sonra sında  bazıları ölümcül olan Hepatit 
+B virüsü ( HBV) reaktivasyonu olguları  bildirilmiştir.  Tedaviye başlamadan önce tüm 
+hastalarda HBV taraması yapılmalıdır . HB V/HCV koenfekte  hastalar , HBV reaktivasyonu 
+açısından  riski altındadır ve bu nedenle mevcut  klinik kılavuzlara uygun olarak izlenmeli ve 
+yönetil melidir . 
+ 
+Böbrek yetmezliği  
+Hemodiyaliz gerektiren S E B H  v e  ş iddetli böbrek yetmezliği (tahmini glomerüler filtrasyon 
+hızı [eGFR] <30 mL/dak/1,73 m2) bulunan hastalarda güvenlilik verileri sınırlıdır . Başka ilgili 
+tedavi seçeneği yoksa, bu hastalarda doz ayarlaması yapılmadan VOSEVI kullanılabilir  (bkz. 
+Bölüm 4.8, 5.1 ve 5.2). 4   
+Karaciğer yetmezliği  
+Hafif karaciğer yetmezliği (CPT Sınıf A ) olan hastalarda VOSEVI  dozunun ayarlanmasına 
+gerek yoktur. VOSEVI , orta ila şiddetli karaciğer yetmezliği (CPT Sınıf B veya C ) olan 
+hastalarda önerilmez  (bkz. Bölüm 5.2). 
+ 
+Karaciğer nakli hastaları  
+VOSEVI ’nin karaciğer nakli sonrasındaki hastalarda HCV enfeksiyonunun tedavisinde ki 
+etkililik ve güvenliliği değerlendirilmemiştir. Önerilen pozoloji de VOSEVI  ile tedavi her bir 
+hasta için potansiyel fayda ve risklerin değerlendirilmesin e dayalı olarak  yapılmalıdır  (bkz. 
+Bölüm 4.2).  
+ 
+Orta düzeyde P-gp indükleyiciler veya orta düzeyde CYP indükleyiciler  ile kullanım 
+Orta düzeyde P-gp ve/veya orta düzeyde CYP indükleyici ilaçlar (örn. efavirenz, modafinil , 
+okskarbazepin veya rifapentin ), sofosbuvir, velpatasvir ve/veya voksilaprevir in plazma 
+konsantrasyonlarını düşürerek, VOSEVI ’nin terapötik etkisinde azalmaya neden olabilir . Bu 
+tür ilaçların VOSEVI  ile birlikte kullanılması önerilme z (bkz. Bölüm 4.5). 
+ 
+Güçlü OATP1B inhibit örleri ile kullanım  
+Güçlü OATP1B inhibitörleri (örn. siklosporin) olan tıbbi ürünler, güvenli liği belirlenmemiş 
+voksilaprevir plazma konsantrasyonlarını önemli ölçüde yükseltebilir. Güçlü OATP1B 
+inhibitörlerinin VOSEVI  ile eşzamanlı kullanımı önerilme z (bkz. Bölüm 4.5). 
+ 
+Bazı HIV antiretroviral rejimler ile kullanım 
+VOSEVI ’nin tenofovir disoproksil fumarat ve bir farmakokinetik güçlendirici  (ritonavir veya 
+kobisistat) içeren bir HIV rejimi ile birlikte kullanıldığında tenofovir maruziyetini ar tırdığı 
+gösterilmiştir. VOSEVI ve bir farmakokinetik güçlendirici  ile birlikte  tenofovir disoproksil 
+fumarat ın güvenliliği henüz belirlenmemiştir. VOSEV I’nin elvitegravir/ kobisistat/  
+emtrisitabin/ tenofovir disoproksil fumarat içeren sabit doz  kombinasyon tableti veya tenofovir 
+disoproksil fumarat ile birlikte güçlendirilmiş  HIV proteaz inhibitörü (örn. darunavir ) eşliğinde 
+kullanılmasıyla ilişkilendirilen potansiyel risk ve faydalar özellikle yüksek renal disfonksiyon 
+riski taşıyan hastalarda göz önüne alınmalıdır. VOSEVI  ile eşzamanlı olarak elvitegravir/  
+kobisistat/ emtrisitabin/  tenofovir disoproksil fumarat veya tenofovir disoproksil fumarat ve 
+güçlendirilmiş  HIV proteaz inhibitörü alan hastalar tenofovir ile ilişkili advers reaksiyonlar 
+açısından izlenmelidir. Renal fonksiyonları izleme önerileri  için tenofovir disoproksil fumarat, 
+emtrisitabin/ tenofovir disoproksil fumarat veya elvitegravir/  kobisistat/ emtrisitabin/ tenofovir 
+disoproksil fumarat içeren ürünlerin Kısa Ürün Bilgisine bakınız. 
+ 
+Diyabetik hastalarda kullanım  
+Diyabetikler, HCV doğrudan etkili antiviral tedaviye başladıktan sonra potansiyel olarak 
+semptomatik hipoglisemi ile sonuçlanan iyileşmiş glukoz kontrolü yaşayabilir. Doğrudan etkili 
+antiviral tedavisine başlayan diyabetik hastaların glukoz düzeyleri, özellikle ilk 3 ayda ve diyabetik tedavinin değiştirilmesi gerektiğinde yakından izlenmelidir. Doğrudan etkili antiviral 
+tedavisine başlandığında, hastanın diyabet tedavisinden sorumlu olan doktor 
+bilgilendirilmelidir.  
+ 
+Yardımcı Maddeler  
+VOSEVI  laktoz monohidrat içerir.  Nadir kalıtımsal g alaktoz intolerans ı, Lapp lakt az 
+yetmezliği ya da  glukoz-galaktoz malabsorbsiyonu problemi olan hastalar ın bu ilacı  
+kullanmamaları gerekir.   
+ 
+  5  4.5 Diğer tıbbi ürünler ile etkileşimler ve diğer etkileşim şekilleri  
+ 
+VOSEVI  sofosbuvir, velpatasvir ve voksilaprevir içerdiğinden, bu etkin maddelerle ayrı olarak 
+tanımlanan her etkileşim, VOSEVI  kullanımı sırasında ortaya çıkabilir . 
+ 
+Farmakokinetik etkileşimler  
+ 
+VOSEVI ’nin diğer tıbbi ürünleri etkileme potansiyeli  
+ 
+Velpatasvir ve voksilaprevir, ilaç taşıyıcı P -gp, meme kanseri direnç proteini  (BCRP), organik 
+anyon- taşıyıcı polipeptit (OATP) 1B1 ve OATP1B3’ün inhibitörleridir.  VOSEVI ’nin bu 
+taşıyıcıların substratları olan tıbbi ürünlerle eşzamanlı kullanımı, bu tıbbi ürünler e maruziyeti 
+arttırabilir. Bu taşıyıcıların duyarlı substratları olan ve artmış plazma seviyelerinin ciddi 
+olaylarla ilişkilendirildiği tıbbi ürünler kontrendikedir (bkz. Tablo 2).   
+Dabigatran eteksilat (P-gp substrat ı) ve rosuvastatin (OATP1B ve BCRP substrat ı) 
+kontrendikedir (bkz. Bölüm 4.3 ve Tabl o 2). 
+ 
+VOSEVI ’nin diğer tıbbi ürünler le etkile şim potansiyeli 
+ Sofosbuvir, velpatasvir ve voksilaprevir ilaç taşıyıcıları olan P-gp ve BCRP ’nin substratlarıdır . 
+Velpatasvir ve voksilaprevir ilaç taşıyıcı OATP1B1 ve OATP1B3 ’ün substratlarıdır . İn vitro  
+ortamda velpatasvir in ağırlıklı olarak CYP2B6, CYP2C8 ve CYP3A4 ; voks ilaprevir in ise 
+ağırlıklı olarak CYP3A4 ile yavaş metabolik döngüsü gözlenmiştir . 
+ 
+VOSEVI ’nin plazma maruziyetini azaltabilen tıbbi ürünler  
+Güçlü P-gp indükleyiciler ve/veya güçlü CYP2B6, CYP2C8 veya CYP3A4 indükleyicileri 
+olan tıbbi ürünler (örn. karbamazepin, fenobarbital, fenitoin, rifampisin, rifabutin  ve sarı 
+kantaron,), sofosbuvir, velpatasvir ve/veya voks ilaprevir in plazma konsantrasyonlarını 
+düşürerek VOSEVI ’nin terapötik etkisinde azalmaya neden olabilir . Bu tıbbi ürünlerin 
+VOSEVI  ile birlikte kullanımı kontrendikedir (bkz. Bölüm 4.3 ve Tabl o 2). 
+ 
+Orta düzeyde P-gp indükleyicileri ve/veya orta düzeyde CYP indükleyicileri (örn. efavirenz, 
+modafinil, okskarbazepin veya rifapentin) olan ilaçlar, sofosbuvir, velpatasvir ve/veya 
+voks ilaprevirin  plaz ma konsantrasyonlarını düşürerek, VOSEVI ’nin terapötik etkisini 
+azaltabilir . VOSEVI ’nin bu tıbbi ürünlerle eşzamanlı uygulanması önerilmez  (bkz. B ölüm 4.4 
+ve Tablo  2). 
+ VOSEVI ’nin plazma maruziyetini arttırabilen tıbbi ürünler  
+P-gp veya BCRP ’yi inhibe eden tıbbi ürünlerle eşzamanlı uygulama sofosbuvir, velpatasvir 
+veya voks ilaprevir pla zma konsantrasyonlarını arttırabilir. OATP1B, CYP2B6, CYP2C8 veya 
+CYP3A4 ’ü inhibe eden tıbbi ürünler , velpatasvir veya voks ilaprevir in plazma 
+konsantrasyonlarını arttırabilir . Güçlü OATP1B inhibitörlerinin (örn. siklosporin) VOSEVI  ile 
+birlikte kullanılması ön erilme z (bkz. Bölüm 4.4 ve Tablo  2). VOSEVI  ile P-gp, BCRP ve CYP 
+inhibitörlerinin aracılık ettiği klinik açıdan anlamlı ilaç etkileşimleri beklenmemektedir. 
+VOSEVI  P-gp, BCRP ve CYP inhibitörleri ile eşzamanlı olarak uygulanabilir. 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 6  Farmakodinamik etkileşimler  
+ 
+K vitamini antagonist leriyle tedavi edilen hastalar  
+ 
+VOSEVI  ile tedavi sırasında karaciğer fonksiyonu değişebileceğinden, Uluslararası 
+Normalleştirilmiş Oran (INR) değerlerinin yakın takibi önerilir.  
+ 
+DEA tedavisinin karaciğer tarafından metabolize edilen tıbbi ürünler üzerindeki etkisi 
+ 
+Karaciğer tarafından metabolize edilen tıbbi ürünlerin farmakokinetiği (örn. kalsinörin 
+inhibitörleri gibi immünsüpresif ajanlar), HCV'nin klerensiyle ilişkili olarak D EA tedavisi 
+sırasında karaciğer fonksiyonundaki değişikliklerden etkilenebilir.  
+ 
+Etinil estradiol içeren tıbbi ürünlerle  tedavi edilen hastalar  
+ 
+Etinil estradiol içeren tıbbi ürünlerle eşzamanlı kullanım alanin  aminotransferaz (ALT) artış 
+riskini yükseltebilir ve kontrendikedir (bkz. Bölüm 4.3 ve Tablo  2). 
+ 
+VOSEVI  ve diğer tıbbi ürünler  arasındaki  etkileşimler  
+ 
+VOSEVI ’nin bilinen veya olası klinik olarak anlamlı ilaç etkileşim bilgileri, Tablo 2’de 
+özetlenmiştir  (geometrik en küçük kareler ortalaması oranının %90 güven aralığı, önceden 
+belirlenmiş  etkileşim sınırları dahilinde “ ↔”, üzerinde “↑” veya altındadır  “↓”).  Belirtilen  ilaç 
+etkileşimleri, sofosbuvir/ velpatasvir/  voksilaprevir kombinasyonu veya bileşenleri 
+(sofosbuvir, velpatasvir  ve/veya voksila previr)  ile yürütülen çalışmalara veya VOSEVI  ile 
+meydana gelebileceği öngörülen ilaç etkileşimlerine dayanmaktadır. Bu tablo tüm olasılıkları 
+kapsamaz.    7   
+Tablo 2: VOSEVI  ile diğer tıbbi ürünler arasındaki etkileşimler 
+Terapötik alanlara göre 
+ilaçlar/ Olası etkileşim 
+mekanizması  Tıbbi ürün düzeyleri üzerindeki 
+etkileri. Ortalama oran (%90 güven 
+aralığı)a,b  
+VOSEVI  ile birlikte uygulamaya 
+ilişkin öneriler  
+Etkin madde  Cmaks  EAA Cmin 
+ASİT AZALTICI AJANLAR  
+Antiasitler  
+Örn. Alüminyum veya 
+magnezyum hidroksit; 
+kalsiyum karbonat  
+ 
+(Gastrik pH’da artış, velpatasvirin çözünürlüğünü 
+azaltır)  Etkileşim araştırılmamıştır.  
+Beklenen:  
+  ↔Sofosbuvir  
+↓ Velpatasvir  
+  ↔Voksilaprevir  VOSEVI  ile ant iasit uygulaması 
+arasında 4 saat olması önerilir.  
+H2-reseptör antagonistleri  
+Famotidin  
+(40 mg tek doz) + 
+sofosbuvir/velpatasvir/ 
+voksilaprevir 
+(400/100/100 mg tek 
+doz)c 
+ 
+VOSEVI  ile eşzamanlı 
+uygulanan Famotidin  
+ 
+Simetidind 
+Nizatidind 
+Ranitidind 
+ 
+(Gastrik pH’ da artış, 
+velpatasvirin çözünürlüğünü 
+azaltır)  Gözlemlenen:  
+Sofosbuvir   
+↔  
+↔  H2 reseptör antagonistleri günde 
+iki kez famotidin 40 mg’a eşdeğer 
+bir dozu aşmayacak şekilde 
+VOSEVI  ile eşzamanlı veya ara 
+bırakılarak uygulanabilir.  
+  Velpatasvir  ↔ ↔  
+Voksilaprevir  ↔ ↔  
+Famotidin  
+(40 mg tek doz) + 
+sofosbuvir/velpatasvir/ 
+voksilaprevir 
+(400/100/100 mg tek 
+doz)c 
+ 
+VOSEVI ’den 12 saat önce 
+uygulanan Famotidin  
+ 
+(Gastrik pH’ta artış, 
+velpatasvirin çözünürlüğünü 
+azaltır)  Gözlemlenen:  
+Sofosbuvir   
+↔  
+↔   
+Velpatasvir  ↔ ↔  
+Voksilaprevir  ↔ ↔  
+   8  Terapötik alanlara göre 
+ilaçlar/ Olası etkileşim 
+mekanizması  Tıbbi ürün düzeyleri üzerindeki etkileri. 
+Ortalama oran (%90 güven aralığı)  a,b  
+VOSEVI  ile birlikte 
+uygulamaya ilişkin öneriler  
+Etkin madde  Cmaks EAA Cmin 
+Proton pompası inhibitörleri  
+Omeprazol  
+(Günde bir kez 20 mg ) + 
+sofosbuvir/velpatasvir/ 
+voksilaprevir 
+(400/100/100 mg tek 
+doz)c 
+ 
+VOSEVI ’den 2 saat önce 
+uygulanan Omeprazol  
+ 
+Lansoprazold  
+Rabeprazold  
+Pantoprazold  
+Esomeprazold 
+ 
+(Gastrik pH’ da artış, 
+velpatasvirin çözünürlüğünü 
+ Gözlemlenen:  
+Sofosbuvir   
+↓ 
+0,77 
+(0,65 , 
+0,91)   
+↓ 0,73 
+(0,67 , 
+0,79)   Omeprazol 20 mg’a eşdeğer 
+dozları aşmayan proton pompası inhibitörü dozları 
+VOSEVI  ile eşzamanlı olarak 
+uygulanabilir.  
+Velpatasvir  ↓  
+0,43 
+(0,38 , 
+0,49)  ↓ 
+0,46 
+(0,41 , 
+0,52)   
+Voksilaprevir  ↓  
+0,76 
+(0,69 , 
+0,85)  ↔  
+Omeprazol  
+(Günde bir kez 20 mg ) + sofosbuvir/velpatasvir/ 
+voksilaprevir 
+(400/100/100 mg tek 
+doz)
+c 
+ 
+VOSEVI ’den 4 saat sonra 
+uygulanan Omeprazol  
+ 
+(Gastrik pH’ da artış, 
+velpatasvirin çözünürlüğünü 
+ Gözlemlenen:  
+Sofosbuvir   
+↔  
+↔  
+Velpatasvir  ↓  
+0,49 
+(0,43 , 
+0,55)  ↓ 
+0,49 
+(0,43 , 
+0,55)   
+Voksilaprevir  ↔ ↔  
+ANTİARİTMİK İLAÇLAR  
+Amiodaron  Amiodaron, voksilaprevir, velpatasvir ve 
+sofosbuvir konsantrasyonları üzerine etkisi 
+bilinmemektedir.  Amiodaron'un sofosbuvir içeren 
+bir rejimle birlikte uygulanması 
+ciddi semptomatik bradikardiye 
+neden olabilir .  
+Yalnızca başka alternatif yoksa 
+kullanılmalıdır. Bu ilaçlar 
+VOSEVI  ile birlikte verildiği 
+takdirde yakın takip  öneril ir 
+(bkz. B ölüm 4.4 ve 4.8).  
+Digoksin  Yalnızca velpatasvir ile etkileşim 
+araştırılmıştır.  
+Beklenen:  
+  ↔ Sofosbuvir  
+  ↔ Voksilaprevir  VOSEVI  ile eşzamanlı uygulama 
+digoksin konsantrasyonunu 
+arttırabilir. Dikkatli olunmalıdır 
+ve digoksinin terapötik 
+konsantrasyonu takip edilmelidir.  
+Digoksin (0,25 mg tek 
+doz)e + velpatasvir (100 
+mg tek doz)  
+ 
+(P-gp inhibisyonu)  Velpatasvir üzerindeki etki araştırılmamıştır.  
+Beklenen:  
+↔ Velpatasvir  
+Gözlemlenen:  
+Digoksin  
+↑ 1,88 
+(1,71  
+2,08)   
+↑ 1,34 
+(1,13  
+1,60)   9  Terapötik alanlara göre 
+ilaçlar/ Olası etkileşim 
+mekanizması  Tıbbi ürün düzeyleri üzerindeki 
+etkileri. Ortalama oran (%90 güven 
+aralığı)a,b  
+VOSEVI  ile birlikte 
+uygulamaya ilişkin öneriler  
+Etkin madde  Cmaks EAA Cmin 
+ANTİKOAGÜLANLAR  
+Dabigatran eteksilat (75 mg 
+tek doz) + 
+sofosbuvir/velpatasvir/  
+voksilaprevir (400/100/  
+100 mg tek doz) + 
+voksilaprevir (100 mg tek 
+doz)f 
+ 
+(P-gp inhibisyonu)  Sofosbuvir, velpatasvir ve voksilaprevir 
+konsantrasyonları üzerindeki etkisi 
+araştırılmamıştır  
+Beklenen:  
+  ↔ Sofosbuvir  
+  ↔ Velpatasvir  
+  ↔ Voksilaprevir  VOSEVI ’nin, dabigatran 
+eteksilat ile birlikte kullanımı kontrendikedir (bkz. B ölüm 
+4.3). 
+Gözlemlenen:  
+Dabigatran   
+↑ 
+2,87 
+(2,61 , 
+3,15)   
+↑ 2,61 
+(2,41 , 
+2,82)   
+Edoksaban  
+ 
+(OATP1B1 inhibisyonu)  Etkileşim araştırılmamıştır.  
+Beklenen:  
+↑ Edoksaban (aktif metabolit)  
+  ↔ Sofosbuvir  
+  ↔ Velpatasvir  
+  ↔ Voksilaprevir  VOSEVI ’nin edoksabanla birlikte 
+uygulanması önerilmez . 
+Direkt Xa inhibitör kullanımı 
+gerekli görüldüğü takdirde apiksaban veya rivaroksaban 
+düşünülebilir.  
+K Vitamini antagonistleri  
+ 
+ Etkileşim araştırılmamıştır.  Tüm  K vitamini antagon istleriyle 
+INR’nin yakın takibi tavsiye 
+edilmektedir. Bunun nedeni, 
+VOSEVI ile tedavi sırasında 
+karaciğer fonksiyonunda 
+değişikliklerin meydana 
+gelmesidir .  
+ANTİKONVÜLSANLAR  
+Fenitoin 
+Fenobarbital  
+ 
+(P-gp ve CYP’lerin 
+indüksiyonu)  Etkileşim araştırılmamıştır.  
+Beklenen:  
+↓ Sofosbuvir  
+↓ Velpatasvir  
+↓ Voksilaprevir  VOSEVI ’nin, fenobarbital ve 
+fenitoin ile birlikte kullanımı 
+kontrendikedir (bkz. B ölüm 4.3).  
+Karbamazepin  
+ 
+(P-gp ve CYP’lerin 
+indüksiyonu)  Etkileşim araştırılmamıştır.  
+Beklenen:  
+↓ Velpatasvir  
+↓ Voksilaprevir  VOSEVI ’nin, karbamazepin ile 
+birlikte kullanımı kontrendikedir 
+(bkz. Bölüm 4.3).  
+Gözlemlenen : 
+Sofosbuvir   
+↓  
+0,52 
+(0,43, 
+0,62)  
+↓  
+0,52 
+(0,46, 
+0,59)  
+  10   
+Terapötik alanlara göre 
+ilaçlar/ Olası etkileşim 
+mekanizması  Tıbbi ürün düzeyleri üzerindeki etkileri. 
+Ortalama oran (%90 güven aralığı)a,b  
+VOSEVI  ile birlikte 
+uygulamaya ilişkin öneriler  Etkin madde  Cmaks EAA Cmin 
+ANTİFUNGALLER  
+Ketokonazol  
+ 
+(P-gp ve CYP3A 
+inhibisyonu)  Yalnızca velpatasvir ile etkileşim 
+araştırılmıştır.  
+Beklenen:  
+↔ Sofosbuvir  
+↑ Voksilaprevir  VOSEVI  veya ketokonazol 
+dozunun ayarlanmasına 
+gerek yoktur.  
+Ketokonazol (günde iki 
+kez 200 mg) + velpatasvir 
+(100 mg tek doz)f 
+ 
+İtrakonazold  
+Posakonazold 
+Isavukonazold 
+ 
+ 
+(P-gp ve CYP3A 
+inhibisyonu)  Ketokonazol maruziyeti üzerindeki etki 
+araştırılmamıştır  
+Beklenen:  
+↔ Ketokonazol  
+Gözlemlenen:  
+Velpatasvir   
+↑  
+1,29 
+(1,02 , 
+1,64)   
+↑ 1,71 
+(1,35 , 
+2,18)   
+Vorikonazol (CYP3A 
+inhibisyonu)  Yalnızca voksilaprevir ile etkileşim 
+araştırılmıştır.  
+Beklenen:  
+↔ Sofosbuvir  
+↑ Velpatasvir  VOSEVI  veya vorikonazol 
+dozunun ayarlanmasına 
+gerek yoktur.  
+Vorikonazol (günde iki kez 
+200 mg) + voksilaprevir  
+(100 mg tek doz)  f Gözlemlenen:  
+Voksilaprevir   
+↔  
+↑ 1,84 
+(1,66 , 
+2,03)   
+ANTİMİKOBAKTERİYELLER  
+Rifampisin (tek doz) 
+(OATP1B inhibisyonu)  Yalnızca velpatasvir ve voksilaprevir ile 
+etkileşim araştırılmıştır.  
+ 
+Beklenen:  
+  ↔ Rifampisin  
+  ↔ Sofosbuvir  VOSEVI ’nin rifampisin ile 
+birlikte kullanımı 
+kontrendikedir (bkz. B ölüm 
+4.3). 
+Rifampisin (600 mg tek 
+doz) + velpatasvir (100 mg 
+tek doz)f Gözlemlenen:  
+Velpatasvir   
+↑  
+1,28 
+(1,05 , 
+1,56)   
+↑ 
+1,46 
+(1,17 , 
+1,83)   
+Rifampisin (600 mg tek 
+doz) + voksilaprevir  
+(100 mg tek doz)f Voksilaprevir  ↑ 
+11,10  
+(8,23 , 
+14,98)  ↑ 
+7,91 
+(6,20 , 
+10,09)   
+Rifampisin (çoklu doz)  
+ 
+(P-gp ve CYP’lerin 
+indüksiyonu)  Rifampisin maruziyeti üzerindeki etki 
+araştırılmamıştır  
+Beklenen:  
+↔ Rifampisin  
+Rifampisin (günde bir kez 
+600 mg) + sofosbuvir (400 
+mg tek doz)f Gözlemlenen:  
+Sofosbuvir   
+↓  
+0,23 
+(0,19 , 
+0,29)   
+↓ 
+0,28 
+(0,24 , 
+0,32)   
+ 11  Terapötik alanlara göre 
+ilaçlar/ Olası etkileşim 
+mekanizması  Tıbbi ürün düzeyleri üzerindeki  etkileri. 
+Ortalama oran (%90 güven aralığı)  a,b  
+VOSEVI  ile birlikte 
+uygulamaya ilişkin öneriler  Etkin madde  Cmaks EAA Cmin 
+Rifampisin (günde bir kez 
+600 mg) + sofosbuvir (100 
+mg tek doz)f Velpatasvir  ↓  
+0,29 
+(0,23 , 
+0,37)  ↓ 
+0,18 
+(0,15 , 
+0,22)    
+Rifampisin (günde bir 
+kez 600 mg) + 
+voksilaprevir (100 mg 
+tek doz)f Voksilaprevir  ↔ ↓ 
+0,27 
+(0,23 , 
+0,31)   
+Rifabutin  
+ 
+ 
+ 
+(P-gp ve CYP’lerin 
+indüksiyonu)  Etkileşim araştırılmamıştır.  
+Beklenen:  
+↓ Velpatasvir  
+↓ Voksilaprevir  VOSEVI , rifabutin ile 
+kontrendikedir (bkz. Bölüm 4.3).  
+ 
+ 
+Gözlemlenen:  
+Sofosbuvir   
+↓ 
+0,64 
+(0,53, 
+0,77)   
+↓ 
+0,76 
+(0,63, 
+0,91)   
+Rifapentin  
+ 
+(P-gp ve CYP’lerin 
+indüksiyonu)  Etkileşim araştırılmamıştır.  
+Beklenen:  
+↓ Sofosbuvir  
+↓ Velpatasvir  
+↓ Voksilaprevir  VOSEVI ’nin rifapentinle birlikte 
+uygulanması önerilmez (bkz. 
+Bölüm 4.4)  
+HIV ANTİVİRAL AJANLAR: TERS TRANSKRİPTAZ İNHİBİTÖRLERİ  
+Tenofovir disoproksil 
+fumarat  
+ 
+(P-gp inhibisyonu)  VOSEVI ’nin tenofovir maruziyetini arttırdığı gösterilmiştir (P -gp inhibisyonu). 
+VOSEVI  ve darunavir + ritonavir + tenofovir disoproksil fumarat/emtrisitabin ile 
+eşzamanlı tedavi sırasında tenofovir maruziyetin de (EAA  ve C maks) yaklaşık %40 
+oranında bir artış meydana gelmiştir.  
+ 
+Eşzamanlı olarak tenofovir disoproksil fumarat ve VOSEVI  kullanan hastalar, 
+tenofovir disoproksil fumarat ile ilişkili advers reaksiyonlar açısından takip 
+edilmelidir. Böbrek takibi için tenofo vir disoproksil fumarat içeren ürünün Kısa 
+Ürün Bilg isine bakınız (bkz. B ölüm 4.4).  
+Efavirenz/  emtrisitabin/  
+tenofovir disoproksil 
+fumarat (günde bir kez 
+600/200/300 mg)g + 
+sofosbuvir/velpatasvir 
+(günde bir kez 400/100 
+mg)f, h 
+ 
+(CYP’lerin indüksiyonu)  Yalnızca sofosbuvir/velpatasvir ile etkileşim 
+araştırılmıştır.  
+Beklenen:  
+↓ Voksilaprevir  VOSEVI ’nin 
+efavirenz/emtrisitabin/tenofovir 
+disoproksil fumaratla birlikte 
+uygulanması önerilmez  (bkz. 
+Bölüm 4.4)  Gözlemlenen:  
+Efavirenz   
+↔  
+↔  
+↔ 
+Sofosbuvir  ↑ 
+1,38 
+(1,14 , 
+1,67)  ↔  
+Velpatasvir  ↓ 
+0,53 
+(0,43 , 
+0,64)  ↓ 
+0,47 
+(0,39 , 
+0,57)  ↓ 
+0,43 
+(0,36 , 
+0,52)  12   
+Terapötik alanlara göre 
+ilaçlar/ Olası etkileşim 
+mekanizması  Tıbbi ürün düzeyleri üzerindeki etkileri. 
+Ortalama oran (%90 güven aralığı) a,b  
+VOSEVI  ile birlikte 
+uygulamaya ilişkin öneriler  Etkin madde  Cmaks  EAA  Cmin 
+Emtrisitabin/ rilpivirin /tenofo
+vir alafenamid (günde bir kez 
+200/25/25 mg)i 
++ sofosbuvir/velpatasvir/  
+voksilaprevir (günde bir 
+kez 400/100/100) + 
+voksilaprevir (günde bir 
+kez 100 mg)f Gözlemlenen:  
+Rilpivirin   
+↔  
+↔  
+↔ VOSEVI  veya 
+emtrisitabin/rilpivirin/ tenofovir  
+alafenamid dozunun 
+ayarlanmasına gerek yoktur.  Sofosbuvir  ↔ ↔  
+Velpatasvir  ↔ ↔ ↔ 
+Voksilaprevir  ↔ ↔ ↔ 
+HIV ANTİVİRAL AJANLAR: HIV PROTEAZ İNHİBİTÖRLERİ  
+Ritonavir ile güçlendirilmiş 
+atazanavir  (300 + 100 mg 
+tek doz) + sofosbuvir/ 
+velpatasvir/ voksilaprevir 
+(400/100/100 mg tek doz)f 
+ 
+(OATP1B, P -gp ve 
+CYP3A inhibisyonu)  Atazanavir ve ritonavir maruziyeti 
+üzerindeki etki araştırılmamıştır  
+ 
+Beklenen:  
+  ↔ Atazanavir  
+  ↔ Ritonavir  Atazanavirin VOSEVI  ile 
+eşzamanlı uygulanması 
+voksilaprevir konsantrasyonunu 
+arttırabilir. VOSEVI ’nin 
+atazanavir içeren rejimlerle 
+birlikte uygulanması önerilmez.  
+Gözlemlenen:  
+Sofosbuvir   
+↑ 
+1,29 
+(1,09,  
+1,52)   
+↑ 1,40 
+(1,25,  
+1,57)   
+Velpatasvir  ↑ 
+1,29 
+(1,07,  
+1,56)  ↑ 
+1,93 
+(1,58,  
+2,36)   
+Voksilaprevir  ↑ 
+4,42 
+(3,65,  
+5,35)  ↑ 
+4,31 
+(3,76,  
+4,93)   
+Ritonavir ile güçlendirilmiş 
+darunavir (günde bir kez 
+800 + 100 mg) + 
+emtrisitabin/tenofovir 
+disoproksil fumarat (günde 
+bir kez 200/300 mg)j + 
+sofosbuvir/ velpatasvir/ 
+voksilaprevir (günde bir 
+kez 400/100/100 mg) + 
+voksilaprevir  
+(günde bir kez 100 mg)f 
+ 
+(OATP1B, P -gp ve CYP3A 
+inhibisyonu)  Gözlemlenen:  
+Darunavir   
+↔  
+↔  
+↓ 0,66 
+(0,58  
+0,74)  VOSEVI , darunavir (ritonavir ile 
+güçlendirilmiş) veya emtrisitabin/ tenofovir disoproksil fumarat için 
+dozun ayarlanmasına gerek 
+yoktur.  
+Ritonavir  ↑ 
+1,60 
+(1,47  
+1,75)  ↑ 
+1,45 
+(1,35  
+1,57)  ↔ 
+Sofosbuvir  ↓ 
+0,70 
+(0,62  
+0,78)  ↔  
+Velpatasvir  ↔ ↔ ↔ 
+Voksilaprevir  ↑ 
+1,72 
+(1,51  
+1,97)  ↑ 
+2,43 
+(2,15  
+2,75)  ↑ 
+4,00 
+(3,44  
+4,65)  
+ 
+  13   
+Terapötik alanlara göre 
+ilaçlar/ Olası etkileşim 
+mekanizması  Tıbbi ürün düzeyleri üzerindeki 
+etkileri. Ortalama oran (%90 güven 
+aralığı)a,b  
+VOSEVI  ile birlikte 
+uygulamaya ilişkin öneriler  
+Etkin madde  Cmaks
+ EAA Cmin 
+Lopinavir  
+ 
+(OATP1B inhibisyonu)  Etkileşim araştırılmamıştır.  
+Beklenen:  
+  ↔ Lopinavir  
+  ↔ Sofosbuvir  
+  ↔ Velpatasvir  
+↑ Voksilaprevir  VOSEVI ’nin lopinavir içeren 
+rejimlerle birlikte uygulanması 
+önerilmez . 
+HIV ANTİVİRAL AJANLAR: İNTEGRAZ İNHİBİTÖRLERİ  
+Raltegravir (günde iki kez 
+400 mg)k + emtrisitabin/ 
+tenofovir disoproksil 
+fumarat (günde bir kez 
+200/300 mg)j + sofosbuvir/ 
+velpatasvir (günde bir kez 400/100 mg)
+f, h Yalnızca sofosbuvir/ 
+velpatasvir ile etkileşim 
+araştırılmıştır.  
+Beklenen:  
+↔ Voksilaprevir  VOSEVI , raltegravir veya 
+emtrisitabin/ tenofovir disoproksil 
+fumarat dozunun ayarlanmasına 
+gerek yoktur.  
+Gözlemlenen:  
+Raltegravir   
+↔  
+↔  
+↓ 
+0,79 
+(0,42,  
+1,48)  
+Sofosbuvir  ↔ ↔  
+Velpatasvir  ↔ ↔ ↔ 
+Elvitegravir /kobisistat/ 
+emtrisitabin/ tenofovir 
+alafenamid fumarat 
+(günde bir kez 
+150/150/200/10 mg)l + 
+sofosbuvir/ velpatasvir/ voksilaprevir (günde bir 
+kez 400/100/100 mg) + 
+voksilaprevir (günde bir kez 100 mg)
+f 
+ 
+(OATP1B, P -gp/BCRP ve 
+CYP3A inhibisyonu)  Gözlemlenen:  
+Elvitegravir   
+↔  
+↔  
+↑ 1,32 
+(1,17,  
+1,49)  VOSEVI  veya elvitegravir/ 
+kobisistat/ emtrisitabin/ tenofovir alafenamid fumarat dozunun 
+ayarlanmasına gerek yoktur.  
+Kobisistat  ↔ ↑ 
+1,50 
+(1,44,  
+1,58)  ↑ 
+3,50 
+(3,01,  
+4,07)  
+Tenofovir  ↓ 
+0,79 
+(0,68,  
+0,92)  ↔  
+Sofosbuvir  ↑ 
+1,27 
+(1,09,  
+1,48)  ↔  
+Velpatasvir  ↔ ↔ ↑ 
+1,46 
+(1,30,  
+1,64)  
+Voksilaprevir  ↑ 
+1,92 
+(1,63,  
+2,26)  ↑ 
+2,71 
+(2,30,  
+3,19)  ↑ 
+4,50 
+(3,68,  
+5,50)  
+ 
+  14   
+Terapötik alanlara göre 
+ilaçlar/ Olası etkileşim 
+mekanizması  Tıbbi ürün düzeyleri üzerindeki 
+etkileri. Ortalama oran (%90 güven 
+aralığı)a,b  
+VOSEVI  ile birlikte 
+uygulamaya ilişkin öneriler  
+Etkin madde  Cmaks  EAA Cmin 
+Dolutegravir (günde bir kez 
+50 mg) + sofosbuvir/  
+velpatasvir (günde bir kez 
+400/100 mg)h Yalnızca sofosbuvir/  
+velpatasvir ile etkileşim 
+araştırılmıştır.  
+↔ Voksilaprevir  VOSEVI  veya dolutegravir 
+dozunun ayarlanmasına gerek 
+yoktur.  
+Gözlemlenen:  
+Dolutegravir   
+↔  
+↔  
+↔ 
+Sofosbuvir  ↔ ↔  
+Velpatasvir  ↔ ↔ ↔ 
+BİTKİSEL TAKVİYELER  
+Sarı kantaron  
+ 
+(P-gp ve CYP’lerin 
+indüksiyonu)  Etkileşim araştırılmamıştır.  
+Beklenen:  
+↓ Sofosbuvir  
+↓ Velpatasvir  
+↓ Voksilaprevir  VOSEVI ’nin, sarı kantaron ile 
+birlikte kullanımı 
+kontrendikedir (bkz. Bölüm 
+4.3). 
+HMG -CoA REDÜKTAZ İNHİBİTÖRLERİ  
+Atorvastatin  Yalnızca sofosbuvir/ velpatasvir ile etkileşim 
+araştırılmıştır.  
+Beklenen:  
+↔ Voksilaprevir  Atorvastatin , 20 mg atorvastatin ’i 
+aşmayan bir dozda VOSEVI ile 
+eşzamanlı olarak uygulanabilir.  
+Atorvastatin  (40 mg tek 
+doz) + sofosbuvir/  
+velpatasvir (400/100 mg  
+günde bir kez )f Gözlemlenen : 
+atorvastatin  ↑ 
+1,7 
+(1,5, 
+1,9) ↑ 
+1,5 
+(1,5, 
+1,6)  
+Rosuvastatin  Sofosbuvir, velpatasvir ve voksilaprevir 
+üzerindeki etkisi araştırılmamıştır.  
+Beklenen:  
+  ↔ Sofosbuvir  
+  ↔ Velpatasvir  
+  ↔ Voksilaprevir  VOSEVI ’nin, rosuvastatin ile 
+birlikte kullanımı kontrendikedir 
+(bkz. Bölüm 4.3).  
+Rosuvastatin (10 mg tek 
+doz) + sofosbuvir/ 
+velpatasvir/ voksilaprevir 
+(günde bir kez 
+400/100/100 mg) + 
+voksilaprevir  
+(günde bir kez 100 mg)f 
+ 
+(OATP1B ve BCRP  
+inhibisyonu)  Gözlemlenen:  
+Rosuvastatin   
+↑ 
+18,9 
+(16,2,  
+22,0)   
+↑ 7,4 
+(6,7, 
+8,2)  
+  15   
+ 
+ 
+Terapötik alanlara göre 
+ilaçlar/ Olası etkileşim 
+mekanizması  Tıbbi ürün düzeyleri üzerindeki 
+etkileri. Ortalama oran (%90 güven 
+aralığı)a,b  
+VOSEVI  ile birlikte 
+uygulamaya ilişkin öneriler  
+Etkin madde  Cmaks EAA Cmin 
+Pravastatin  Sofosbuvir, velpatasvir ve voksilaprevir 
+üzerindeki etkisi araştırılmamıştır.  
+Beklenen:  
+  ↔ Sofosbuvir  
+  ↔ Velpatasvir  
+  ↔ Voksilaprevir  Pravastatin, 40 mg pravastatin’i 
+aşmayan bir dozda VOSEVI  ile 
+eşzamanlı olarak uygulanabilir.  
+Pravastatin (40 mg tek 
+doz) + sofosbuvir/ 
+velpatasvir/ voksilaprevir 
+(günde bir kez 
+400/100/100 mg) + 
+voksilaprevir (günde bir 
+kez 100 mg)f 
+ 
+(OATP1B inhibisyonu)  Gözlemlenen:  
+Pravastatin   
+↑  
+1,89 
+(1,53 , 
+2,34)   
+↑ 2,16 
+(1,79 , 
+2,60)   
+Diğer statinler  
+ 
+(OATP1B inhibisyonu)  Fluvastatin, lovastatin, pitavastatin ve 
+simvastatin üzerindeki etkisi 
+araştırılmamıştır.  Diğer HMG CoA redüktaz 
+inhibitörleri ile etkileşimleri göz ardı edilemez.  VOSEVI  ile 
+birlikte uygulanması önerilmez . 
+NARKOTİK ANALJEZİKLER  
+Metadon  Yalnızca sofosbuvir ile etkileşim 
+araştırılmıştır.  
+Beklenen:  
+  ↔ Velpatasvir  
+  ↔ Voksilaprevir  VOSEVI  veya metadon için 
+dozun ayarlanmasına gerek 
+yoktur.  
+Metadon  
+(Metadon idame terapisi 
+[günde 30 ila 130 mg]) + 
+sofosbuvir  
+(günde bir kez 400 mg)f Gözlemlenen:  
+R-metadon   
+↔  
+↔  
+↔ 
+S-metadon  ↔ ↔ ↔ 
+Sofosbuvir  ↔ ↑ 
+1,30 
+(1,00,  
+1,69)   
+  16   
+Terapötik alanlara göre 
+ilaçlar/Olası etkileşim 
+mekanizması  Tıbbi ürün düzeyleri üzerindeki 
+etkileri. Ortalama oran (%90 güven 
+aralığı)a,b  
+VOSEVI  ile birlikte 
+uygulamaya ilişkin öneriler  
+Etkin madde  Cmaks EAA Cmin 
+İMMÜNOSÜPRESANLAR  
+Siklosporin  
+(600 mg tek doz)f + 
+sofosbuvir (400 mg tek 
+doz)e 
+ 
+(OATP1B, P -gp ve BCRP 
+inhibisyonu)  Gözlemlenen:  
+Siklosporin   
+↔  
+↔  VOSEVI ’nin siklosporinle birlikte 
+uygulanması önerilmez  (bkz. 
+Bölüm 4.4)  Sofosbuvir  ↑ 
+2,54 
+(1,87 , 
+3,45)  ↑ 
+4,53 
+(3,26 , 
+6,30)   
+Siklosporin  
+(600 mg tek doz)e + 
+velpatasvir (100 mg tek 
+doz)f Siklosporin  ↔ ↓ 
+0,88 
+(0,78 , 
+1,0)  
+Velpatasvir  ↑ 
+1,56 
+(1,22 , 
+2,01)  ↑ 
+2,03 
+(1,51 , 
+2,71)   
+Siklosporin  
+(600 mg tek doz)e + 
+voksilaprevir (100 mg tek 
+doz)f Siklosporin  ↔ ↔  
+Voksilaprevir  ↑ 
+19,0 
+(14,1 , 
+25,6)  ↑ 
+9,4 
+(7,4, 
+12,0)   
+Takrolimus  Velpatasvir ve voksilaprevir maruziyeti 
+üzerindeki etki araştırılmamıştır  
+Beklenen:  
+ ↔ Velpatasvir  
+ ↔ Voksilaprevir  Birlikte uygulamanın 
+başlangıcında VOSEVI  veya 
+takrolimus için dozun ayarlanmasına gerek yoktur.  
+Sonrasında yakından izleme ve 
+takrolimusun potansiyel doz 
+ayarlaması gerekebilir.  Takrolimus (5 mg tek doz)e 
++ sofosbuvir (400 mg tek 
+doz)f Gözlemlenen:  
+Takrolimus   
+↓ 
+0,73 
+(0,59 , 
+0,90)   
+↑ 1,09 
+(0,84 , 
+1,40)   
+Sofosbuvir  ↓ 
+0,97 
+(0,65  
+1,43)  ↑ 
+1,13 
+(0,81  
+1,57)   
+  17   
+Terapötik alanlara göre 
+ilaçlar/ Olası etkileşim 
+mekanizması  Tıbbi ürün düzeyleri üzerindeki etkileri. 
+Ortalama oran (%90 güven aralığı)a,b  
+VOSEVI  ile birlikte 
+uygulamaya ilişkin öneriler  Etkin madde  Cmaks  EAA Cmin 
+ORAL KONTRASEPTİFLER  
+Norgestimat/  etinil 
+estradiol (norgestimat 0,180 mg/0,215 mg/0,25 
+mg /etinil estradiol 0,025 
+mg) + sofosbuvir/  
+velpatasvir/ voksilaprevir 
+(günde bir kez 
+400/100/100 mg) + 
+voksilaprevir (günde bir 
+kez 100 mg)
+f Gözlemlenen: 
+Norelgestromin   
+↔  
+↔  
+↔ VOSEVI ’nin etinil estradiol 
+içeren tıbbi ürünlerle birlikte 
+kullanımı kontrendikedir (bkz.  
+Bölüm 4.3). Alternatif gebelikten 
+korunma yöntemleri (örn. sadece 
+progestinle gebelikten korunma 
+veya hormonal olmayan yöntemler) düşünülmelidir.  Norgestrel  ↔ ↔ ↔ 
+Etinil estradiol  ↔ ↔ ↔ 
+STİMÜLANLAR  
+Modafinil  
+ 
+(P-gp ve CYP’lerin 
+indüksiyonu)  Etkileşim araştırılmamıştır.  
+Beklenen:  
+↔ Modafinil  
+↓ Sofosbuvir  
+↓ Velpatasvir  
+↓ Voksilaprevir  VOSEVI ’nin modafinil ile 
+birlikte uygulanması önerilmez  
+(bkz. Bölüm 4.4)  
+a. Birlikte uygulanan ilaç farmakokinetiğinin tek başına veya kombinasyon şeklinde uygulanan çalışma ilacına ait ortalama 
+oranı (%90 GA). Etki yok  = 1.00.  
+b. Tüm etkileşim çalışmaları sağlıklı gönüllüler üzerinde gerçekleştirilmiştir . 
+c. Farmakokinetik etkileşim olmaması alt sınırı % 70. 
+d. Bunlar, benzer etkile şimlerin beklenebileceği  sınıf dahilindeki ilaçlardır . 
+e. Biyoeşdeğerlik/E şdeğerlik sınırı % 80-125. 
+f. Farmakokinetik etkileşim olmaması sınırları  70-143%.  
+g. Efavirenz, emtri sitabin ve tenofovir DF sabit doz kombinasyonu şeklinde uygulanmıştır . 
+h. Sofosbuvir, velpatasvir sabit doz kombinasyonu şeklinde uygulanmıştır.  
+i. Emtrisitabin, rilpivirin  ve tenofovir alafenamid sabit doz kombinasyonu şeklinde uygulanmıştır.  
+j.   Emtrisitabin , tenofovir disoproks il fumarat sabit doz kombinasyonu şeklinde uygulanmı ştır. 
+k. Farmakokinetik etkileşim olmaması sınırları  %50-200. 
+l. Elvitegravir, kobisistat , emtrisitabin  ve tenofovir alafenamid sabit doz kombinasyonu şeklinde uygulanmıştır.  
+ 
+Özel popülasyonlara ilişkin ek  bilgiler : 
+ 
+Pediyatrik  popülasyon : VOSEVI ’nin çocuklar ve 18 yaş altı ergenlerde güvenliliği ve 
+etkililiği araştırılmamıştır. Bu konuda veri bulunmamaktadır.  
+ 
+4.6 Gebelik ve laktasyon  
+ 
+Genel Tavsiye  
+Gebelik kategorisi:  B 
+ Çocuk doğur ma potansiyeli bulunan kadınlar /Doğum kontrolü (kontrasepsiyon)  
+Çocuk doğurma potansiyeli bulunan kadınlar ın VOSEVI  ile tedavi sırasında etkili bir doğum 
+kontrol yöntemi kullanmaları gerek mekted ir (Bkz. B ölüm 4.5) . 
+ 
+Gebelik  Dönemi  
+Sofosbuvir, velpatasvir, voksilaprevir ya da VOSEVI ’nin gebe kadınlarda kullanımına ilişkin 
+veri yoktur ya da sınırlı sayıda (300’den az) veri mevcuttur.  Hayvanlar üzerinde yapılan 
+çalışmalar, gebelik /embriyonal/fetal geliş im/doğum  ya da  doğum sonrası geli şim üzerindeki 
+etkiler bakımından  yetersizdir (bkz. kısım 5.3). İnsanlara yönelik potansiyel risk 
+bilinmemektedir.  
+ 
+Gebe kadınlara verilirken tedbirli olunmalıdır.  18   
+Sofosbuvir 
+Hayvan çalışmaları üreme toksisitesi açısından doğrudan veya dolaylı zararl ı etki 
+göstermemektedir. (bkz. Bölüm 5.3). 
+ İnsanlarda önerilen klinik dozda maruziyete bağlı  olarak sıçanlarda  sofosbuvir için elde edilen 
+maruziyet marjlarını tam olarak tahmin etmek mümkün olmamıştır  (bkz. Bölüm 5.3). 
+ 
+Velpatasvir  
+Hayvan çalışmaları üreme toksisitesiyle olası bir ilişkiyi göstermiştir (bkz. B ölüm 5.3). 
+ 
+Voksilaprevir  
+Hayvan çalışmaları üreme toksisitesi açısından doğrudan veya dolaylı zararlı etki 
+göstermemektedir (bkz. Bölüm 5.3).  Önleyici bir tedbir olarak, gebelik sırasında VOSEVI  kullanılmaması önerilir.  
+ 
+Laktasyon dönemi  
+Sofosbuvir, sofosbuvir metabolitleri, velpatasvir veya voksilaprevirin insan sütüne geçip 
+geçmediği bilinmemektedir.  
+ 
+Hayvanlarda mevcut farmakokinetik veriler, velpatasvirin ve sofosbuvir metabolitlerinin süte 
+geçtiğini göstermiştir. Voksilaprevir, e mziren sıçanlara uygulandığında, emzirilen yavruların 
+plazmasında tespit edilmiştir.  
+ Yeni  doğanlar a/bebekler e ilişkin  risk göz ardı edilemez. Bu nedenle VOSEVI  emzirme 
+döneminde kullanılmamalıdır.  
+ 
+Üreme yeteneği/ Fertilit e 
+ 
+VOSEVI ’nin fertilite üzerindeki etkisine ilişkin insan verileri bulunmamaktadır. Hayvan 
+çalışmaları, sofosbuvir, velpatasvir veya voksilaprevirin fertilite üzerinde zararlı etkileri 
+olduğunu göstermemektedir. 
+ 
+4.7 Araç ve makine kullanımı üzerindeki etkiler  
+ 
+VOSEVI ’nin araç ve makine kullan ımı üzerinde etkisi ya yoktur ya da  etkileri göz ardı 
+edilebilir dir. 
+ 
+4.8 İstenmeyen etkiler  
+ 
+Güvenlilik profilinin özeti 
+ Faz 2 ve Faz 3 klinik çalışmalarında, advers reaksiyonlardan ötürü tedaviyi kalıcı olarak 
+sonlandıran hastaların oranı , 8 hafta süreyle sofosbuvir/velpatasvir/voksilaprevir alan hastalar 
+için %0,1 idi. Faz 2 ve 3 pivotal klinik çalışmalarda, 12 hafta süreyle 
+sofosbuvir/velpatasvir/voksilaprevir alan hastaların hiçbiri tedaviyi advers reaksiyonlar 
+nedeniyle kalıcı olarak sonlandırmadı . 
+      19  Advers reaksiyonların tablo halindeki özeti  
+ 
+ 
+VOSEVI için advers reaksiyonların değerlendirilmesi, klinik çalışmalardan ve pazarlama sonrası deneyimlerden elde edilen güvenli lik verilerine dayanmaktadır. Tüm advers 
+reaksiyonlar Tablo 3’de sunulmaktadır.  Advers reaksiyonlar vücut sistem organ sınıfı ve sıklığa göre aşağıda listelenmektedir. Sıklıklar aşağıdaki gibi tanımlanmaktadır: çok yaygın (≥ 1/10); yaygın (≥ 1/100 ila < 1/10) ; 
+yaygın olmayan (≥ 1/1000 ila < 1/100) ; seyrek ( ≥1/10.000 ila <1/1.000)  veya çok seyrek 
+(<1/10.000). 
+ 
+ 
+Tablo 3: VOSEVI  tedavisinde tanımlanan advers  reaksiyonlar  
+Sıklık  Advers  reaksiyon  
+Sinir sistemi hastalıkları:  
+Çok yaygın Baş ağrısı  
+Gastrointestinal hastalıklar:  
+Çok yaygın İshal, bulantı  
+Yaygın Abdominal ağrı, iştah kaybı, kusma  
+Deri ve deri altı doku hastalıkları:  
+Yaygın Döküntü 
+Yaygın 
+olmayan  anjiyoödema 
+Kas iskelet bozuklukları, bağ doku ve kemik hastalıkları : 
+Yaygın Miyalji  
+Yaygın 
+olmayan  Kas spazmı  
+Araştırmalar:  
+Yaygın Total  bilirubin artışı  
+a. Sofosbuvir/velpatasvir içeren ürünler için pazarlama sonrası göz lem yoluyla tespit edilen advers 
+reaksiyon  
+ 
+Seçilen advers reaksiyonların tanımı  
+Kardiyak aritmiler  
+Sofosbuvir içeren tedaviler , amiodaron ve/veya kalp atış hızını düşüren başka ilaçlarla birlikte  
+kullanıldığında ağır bradikardi ve kalp bloğu vakaları görülmüştür (bkz. Bölüm 4.4 ve 4.5). 
+ Deri Hastalıkları Sıklık bilinmiyor: Stevens -Johnson sendromu 
+      20  Laborat uvar anormallikleri 
+ 
+Total bilirubin  
+Faz 3 çalışmalarda sirozu olmayan hastaların %4’ünde ve kompanse sirozl u hastaların ise 
+%10’unda, voksilaprevir ile OATP1 B1 ve OATP1B3 inhibisyonuna bağlı olarak normal üst 
+sınırın 1,5 katına eşit veya altında total bilirubin artışları gözlenmiştir. Total  bilirubin düzeyleri 
+VOSEVI  tedavisi tamamlandıktan sonra düşmüştür . 
+ 
+Böbrek yetmezliği bulunan hastalar   
+ 
+Ledipasvir veya velpatasvir ile sabit doz kombinasyonunda sofosbuvirin güvenli liği diyaliz 
+gerektiren SEBH bulunan 154 hastada çalışılmıştır  (Çalışma  4062 ve Çalışma  4063). Bu 
+ortamda, sofosbuvir metaboliti GS -331007’ nin maruziyeti preklinik çalışmalarda olumsuz 
+reaksiyonların gözlendiği seviyeleri aşar ak 20 kat art mıştır. Bu sınırlı klinik güvenli lik veri 
+setinde, advers olayların ve ölümlerin oranı, S EBH bulunan hastalarda beklenenden anlaşılır 
+biçimde  yükselmemiştir.  
+ 
+Şüpheli  advers reaksiyonların raporlanması  
+ Ruhsatlandırma  sonrası  şüpheli  ilaç advers reaksiyonlarının raporlanması  büyük önem 
+taşımaktadır . Raporlama yapılması, ilacın  yarar/risk dengesinin sürekli olarak izlenmesine 
+olanak sağlar . Sağlık  mesleği  mensuplarının herhangi bir şüpheli  advers reaksiyonu Türkiye 
+Farmakovijilans Merkezi ne (TÜFAM) bildirmeleri gerekmektedir. (www.titck.gov.tr; e -posta: 
+tufam@titck.gov.tr; tel: 0 800 314 00 08; faks: 0 312 218 35 99).   
+4.9 Doz aşımı ve tedavisi  
+ 
+Sofosbuvir, velpatasvir ve voksilaprevirin kayıt edilmiş  en yüksek dozları sırasıyla 1200 mg, 
+500 mg ve 900 mg’lık tek dozdur . Sağlıklı gönüllüler  üzerinde sofosbuvir ve velpatasvir  ile 
+yürütülen çalışmalarda bu doz düzeylerinde olumsuz bir etki gözlenmemiştir ve advers olaylar, 
+sıklık ve şiddet açısından plasebo gruplarında raporlananlara benzer niteliktedir. Voksilaprevir 
+900 mg alan hastalarda bildirilen en yaygın advers reaksiyonlar ishal (%34), bulantı (%17) ve 
+baş ağrısıdır (% 9). 
+ 
+VOSEVI  ile doz aşımı için belirli bir antidot bulunmamaktadır. Doz aşımı meydana gelirse, 
+toksisite kanıtı  için hastan ın izlenmesi gerekir. VOSEVI  ile doz aşımı tedavisi, hastanın klinik 
+durumunun gözlenmesinin yanı sıra  yaşamsal  bulguların izlenmesini de içeren genel 
+destekleyici önlemlerden oluşmaktadır . Hemodiyaliz, sofosbuvirin dolaşımdaki baskın 
+metaboliti olan GS -331007’yi %53’lük bir ekstraksiyon oranıyla etkili bir şekilde ortadan 
+kaldırabilir. Velpatasvir ve voksilaprevir  yüksek oranda plazma proteinin e bağlandığından, 
+hemodiyalizin anlamlı düzeyde velpatasvir veya voksilaprevir  atılımı sağlama olasılığı 
+düşüktür. 
+ 
+5. FARMAKOLOJİK ÖZELLİKLER  
+ 
+5.1 Farmakodinamik özellikler  
+ 
+Farmakoterapötik grup: Sistemik kullanım için antiviraller; Doğrudan etkili antiviraller; HCV 
+enfeksiyonlarının tedavisi için kullanılan antiviraller   
+ATC kodu: J05AP56 
+ 21  Etki mekanizması 
+Sofosbuvir, viral replikasyon için vazgeçilmez olan HCV NS5B RNA’ya bağımlı RNA 
+polimerazının pangenotipik bir inhibitörüdür. Sofosbuvir, NS5B polimeraz tarafından HCV RNA’ya dahil edilebilen ve zincir sonlandırıcısı görevi gören, farmakolojik olarak aktif  
+trifosfat üridin analogunu (GS -461203) oluşturmak için intrasellüler metabolizmaya tabi 
+tutulan bir nükleotid ön ilaçtır. Biyokimyasal tayinde, GS -461203 HCV genotip 1b, 2a, 3a ve 
+4a’dan rekombinant NS5B polimeraz aktivitesini inhibe etmiştir. GS -461203, insan DNA ve 
+RNA polimerazlarının inhibitörü veya mitokondriyal RNA polimeraz inhibitörü değildir. 
+ 
+Velpatasvir , viral replikasyon için gerekli olan HCV NS 5A proteinini hedef alan , pan-
+genotipik bir HCV inhibitörüdür.  
+ 
+Voksilaprevir, HCV NS3/4A proteazının bir pan- genotipik inhibitörüdür . Voksilaprevir , 
+NS3/4A proteazının non-kovalent, tersinir inhibitörü olarak etki gösterir.  
+ 
+Antiviral aktivite  
+ 
+Sofosbuvir, velpatasvir ve voksilaprevir in laboratuvar suşlarından tam uzunlukta veya NS5B, 
+NS5A ve NS3 proteaz zincirlerini kodlayan kimerik replikonlara karşı %50 etkili 
+konsantrasyon (EC 50) değerleri Tablo 4’te sunulmuştur . Sofosbuvir, velpatasvir ve 
+voksilaprevir in klinik izolatlara karşı EC 50 değerleri Tablo 5’te yer almaktadır.  
+ 
+ 
+Tablo 4: Sofosbuvir, velpatasvir ve voksilaprevirin tam uzunlukta veya kimerik laboratuvar 
+replikonlarına karşı aktivitesi  
+Genotip 
+replikonları  Sofosbuvir EC 50, 
+nMa Velpatasvir EC 50, nMa Voksilaprevir EC 50, nMa 
+1a 40 0,014  3,9e 
+1b 110 0,016  3,3e 
+2a 50 0,005 -0,016c 3,7-4,5e 
+2b 15b 0,002 -0,006c 1,8-6,6f 
+3a 50 0,004  6,1f 
+4a 40 0,009  2,9e 
+4d 33 0,004  3,2e 
+5a 15b 0,021 -0,054d 1,9f 
+6a 14-25b 0,006 -0,009  3,0-4,0e 
+6e N/A 0,130d 0,33f 
+6n N/A N/A 2,9f 
+NA: Geçerli değildir  
+a. Aynı laboratuvar replikonunun çoklu deneylerinden elde edilen ortalama değer . 
+b. Testlerde genotip 2b, 5a veya 6a’dan NS5B genlerini taşıyan stabil kimerik 1b replikonları kullanılmıştır . 
+c. Tam uzunlukta NS5A replikonları veya L31 veya M31 polimorfizmlerini içeren tam uzunlukta NS5A genlerini taşıyan tam 
+uzunlukta kimerik NS5A replikonla rını taşıyan çeşitli suşlardan elde edilen veriler . 
+d. 9-184  NS5A aminoasitlerini taşıyan kimerik NS5A replikonundan elde edilen veriler . 
+e. Renilla lu siferaz-kodlayan replikonları ifade eden stabil hücre dizileri . 
+f. Geçici transfekte replikonlardan elde edilen veriler . 
+ 
+   
+ 
+   
+ 
+   
+ 
+ 22  Tablo 5: Sofosbuvir, velpatasvir ve voksilaprevirin, klinik izolatlardan NS5A, NS5B veya NS3 
+proteazı içeren geçici replikonlara karşı aktivitesi  
+Genotip 
+replikonu  Klinik 
+izolatlardan alınan 
+NS5B içeren 
+  Klinik izolatlardan alınan 
+NS5A içeren replikonlar Klinik izolatlardan 
+alınan NS3 proteaz 
+içeren replikonlar  
+Klinik 
+izolatların 
+sayısı  Medyan 
+sofosbuvir 
+EC 50, nM  
+(aralık)  Klinik 
+izolatların sayısı  Medyan 
+velpatasvir EC
+50, nM  
+(aralık)  Klinik 
+izolatların sayısı  Medyan 
+Voksilaprevir EC
+50, nM  
+(aralık)  
+1a 67 62 23 0,019  58 0,59 
+(29-128) (0,011 -0,078)  (0,14 -19,16)  
+1b 29 102 34 0,012  29 0,50 
+(45-170) (0,005 -0,500)  (0,19 -2,87)  
+2a 1 28 8 0,011  18 2,8 
+(0,006 -0,364)  (1,78 -6,72)  
+2b 14 30 16 0,002  43 2,1 
+(14-81) (0,0003 -0,007)  (0,92 -8,3) 
+3a 106 81 38 0,005  32 6,3 
+(24-181) (0,002 -1,871)  (1,3-21,48)  
+4a NA NA 5 0,002  58 0,52 
+(0,001 -0,004)  (0,12 -1,7) 
+4d NA NA 10 0,007  11 0,85 
+(0,004 -0,011)  (0,41 -1,1) 
+4r NA NA 7 0,003  
+(0,002 -0,006)  1 1,15 
+NA 
+5a NA NA 42 0,005  16 1,8 
+(0,001 -0,019)  (0,87 -5,63)  
+6a NA NA 26 0,007  15 2,7 
+(0,0005 -0,113)  (0,23 -7,35)  
+6e NA NA 15 0,024  12 0,2 
+(0,005 -0,433)  (0,12 -0,43)  
+NA: Geçerli değildir 
+ 
+% 40 insan serumunun varlığının sofosbuvirin anti -HCV aktivitesi üzerinde herhangi bir etkisi 
+olmamış, ancak velpatasvir ve voksilaprevirin 1a HCV replikon genotiplerine karşı anti -HCV 
+aktivitesini sırasıyla 13 ve 6,8 kat azaltmıştır. 
+ 
+ 
+Direnç  
+ 
+Hücre kültü ründe  
+Sofosbuvir için, 1- 6 genotip replikonlarında NS5B sübstitüsyon S282T seçilmiş ve 
+sofosbuvire karşı 2 ila 18 kat düşük duyarlılık ile ilişkilendirilmiştir.  
+ 
+Velpatasvir için 1 -6 genotip replikonlarında dirençle ilişkilendirilen ve 2 veya daha fazla 
+genotipte seçilen sübstitüsyonlar L31I/V ve Y93H’ydi. NS5A direnciyle ilişkili varyantların 
+(RAV’ler) bölge hedefli mutajenezi, velpatasvir duyarlılığında >100 kat düşüş sağlayan 
+sübstitüsyonların, genotip 1a’da M28G, A92K ve Y93H/N/R/W, genotip 1b’de A92K, genotip 2b’de C92T ve Y93H/N, genotip 3’te Y93H ve genotip 6’da ise L31V ve P32A/L/Q/R olduklarını göstermiştir. Genotip 2a, 4a veya 5a’da test edilen hiçbir bire ysel 
+RAV, velpatasvir duyarlılığında >100 kat azalma sağlamamıştır.  
+ 
+Voksilaprevir için 1- 6 genotip replikonlarında dirençle ilişkilendirilen ve 2 veya daha fazla 
+genotipte seçilen sübstitüsyonlar Q41H, A156V/T/L ve D168E/H/Y idi. Bilinen NS3 
+RAV’lerinin bölge hedefli mutajenezi, voksilaprevir duyarlılığında >100 kat azalma  sağlayan 
+sübstitüsyonların 1a, 1b, 2a, 3a ve 4 genotiplerinde A156V, A156T veya A156L olduklarını göstermiştir. Genotip 2b, 5a veya 6a’da test edilen hiçbir bireysel RAV, voksilaprevir duyarlılığında >100 kat azalma sağlamamıştır.  
+ 23  Hem velpatasvir, hem d e voksilaprevir için RAV’lerin kombinasyonları sıklıkla tek başına 
+bireysel RAV’lere kıyasla duyarlılıkta daha fazla azalma göstermiştir. 
+ 
+Hücre kültüründe çapraz direnç  
+Voksilaprevir, birinci jenerasyon NS3/4A proteaz inhibitörlerine direnç sağlayan NS3 
+RAV’lerinin çoğunluğuna karşı in vitro  olarak etkilidir. Buna ek olarak velpatasvir, ledipasvir 
+ve daklatasvire direnç sağlayan NS5A RAV’lerinin çoğunluğuna karşı in vitro  olarak etkilidir. 
+Sofosbuvir, velpatasvir ve voksilaprevir, farklı etki mekanizmalarına sahip diğer DEA sınıflarına dirençle ilişkili sübstitüsyonlara karşı tamamen etkili olmuştur; örneğin, voksilaprevir, NS5A ve NS5B NI RAV’lerine karşı tamamen aktiftir . 
+ 
+Klinik çalışmalarda  
+ DEA tedavisi alan yetişkin hastalarda yürütülen çalışmalar  
+POLARIS -1 çalışmasında (bkz. tablo 10) 12 hafta süreyle 
+sofosbuvir/velpatasvir/voksilaprevir ile tedavi edilen, NS5A inhibitörü tedavisi almış 263 
+hastanın 7'si (%3) (2'si g enotip 1, 4'ü genotip 3 ve 1'i genotip 4) sürdürülebilir virolojik yanıt 
+(SVR12) oluşturmamış  ve direnç analizi için uygun bulunmamış tır; 6’sında nüks meydana 
+gelmiş ve 1’i ise uyumsuzlukla tutarlı farmakokinetik verilerle viral alevlenme yaşamıştır. NS5A RAV’leri L31M ve Y93H, genotip 1a olan ve viral alevlenme yaşayan hastada 
+meydana gelmiştir. Genotip 4d olan ve nüks yaşayan bir hastada Y93H NS5A RAV’si gelişmiştir. Nüks eden diğer 5 hastada NS3, NS5A veya NS5B nükleozit inhibitör (NI) RAV’si meydana gel memiştir.  
+ 
+POLARIS -4 çalışmasında (bkz. Tablo 11) 12 hafta süreyle 
+sofosbuvir/velpatasvir/voksilaprevir ile tedavi edilen DEA tedavisi almış 182 hastadan 1’i (%1) nüks yaşamış ve direnç analizi için uygun bulunmuştur. Genotip 1a HCV ile enfekte bu hastada NS3, NS5A veya NS5B NI RAV’leri meydana gelmemiştir.  
+ 
+DEA tedavisi almamış olan yetişkin hastalarda yürütülen çalışmalar  
+POLARIS -2 sofosbuvir/velpatasvir/voksilaprevir 8- haftalık tedavi grubunda (bkz. Tablo 
+12), 501 hastadan toplam 21’i (%4) (16’sı genotip 1, 2’si genotip 2, 2’si genotip 4 ve 1’i 
+genotip 5), relapstan ötürü direnç analizi için uygun bulunmuştur. Bu 21 hastadan 1’inde, yetmezlik sırasında NS5A RAV’leri Q30R ve L31M ile ortaya çıkan virüs mevcuttu ve 
+hiçbirinde yetmezlik sırasın da NS3 ve NS5B NI RAV’leri ortaya çıkmamıştır. 
+Sofosbuvir/velpatasvir 12- haftalık tedavi grubunda 440 hastadan toplam 3’ü (%1) (2’si 
+genotip 1, 1’i genotip 4), relapstan ötürü direnç analizi için uygun bulunmuştur. Bu 3 hastadan 1’inde (%33), yetmezlik sır asında NS5A RAV’si Y93N ile ortaya çıkan virüs 
+mevcuttu  ve hiçbirinde NS3 ve NS5B NI RAV’leri ortaya çıkmamıştır. 
+ 
+POLARIS -3 sofosbuvir/velpatasvir/voksilaprevir 8- haftalık tedavi grubunda (bkz. Tablo 14) 
+110 hastadan 2’si (%2) (genotip 3), nüksten ötürü direnç analizi için uygun bulunmuştur. Bu 
+hastaların hiçbirinde NS3, NS5A veya NS5B NI RAV’leri ortaya çıkmamıştır. Sofosbuvir/velpatasvir 12- haftalık tedavi grubunda 109 hastadan 2’si (%2), virolojik 
+başarısızlıktan ötürü direnç analizi için uygun bulunmuş tur. Bu hastaların her ikisinde de 
+yetmezlik sırasında NS5A RAV’si Y93H ile ortaya çıkan virüs mevcuttu. Bu hastaların hiçbirinde NS3 veya NS5B NI RAV’leri ortaya çıkmamıştır. 
+ 
+ 24  Başlangıçtaki HCV direnciyle ilişkili varyantların tedavi sonucu üzerindeki etkisi  
+ 
+DEA tedavisi almış  yetişkin hastalarda yürütülen çalışmalar  
+Daha önce D EA rejimleri ile tedavi edilen ve POLARIS -1 ve POLARIS -4'te 12 hafta 
+süreyle sofosbuvir/velpatasvir/voksilaprevir alan hastalar için başlangıçtaki NS3 ve NS5A 
+RAV'leri ile tedavi sonuçları arasındaki ilişkiyi araştırmak için analizler yapılmıştır.  
+Bunlar Tablo 6’de gösterilmiştir.  
+ 
+Tablo 6: Çalışmaya göre, D EA tedavisi almış  hastalarda başlangıç NS3 veya NS5A 
+RAV’si ile ya da olmaksızın SVR12 
+ sofosbuvir/velpatasvir/voksilaprevir 12 hafta  
+POLARIS -1 (n = 260)  POLARIS -4 (n = 179)  
+NS3 veya NS5A RAV’leri yok  %98 (42/43)  %99 (85/86)  
+NS3 veya NS5A RAV  %97 (199/205)  %100 (83/83)  
+     Yalnızca NS3       %100 (9/9)       %100 (39/39)  
+     Yalnızca NS5A       %97 (120/124)       %100 (40/40)  
+     NS3 ve NS5A       %97 (70/72)       %100 (4/4)  
+Hem NS3, hem de NS5A  için 
+RAV belirlenmedia %100 (12/12)  %100 (10/10)  
+a. NS3 ve/veya NS5A gen dizilimi başarısız olan hastalar.  
+ 
+SVR12, POLARIS -1’de, başlangıçtaki NS5A RAV’lerine ek olarak S282T NS5B NI 
+RAV’si ile virüs bulunan 2 hasta da dahil olmak üzere başlangıçta NS5B NI RAV 
+bulunan 19 hastadan 18’inde (%95) sağlanmıştır. POLARIS -4’te toplam 14 hastada 
+başlangıçta NS5B NI RAV’si ile virüs saptanmış olup, tümünde SVR12 sağlanmıştır. 
+ 
+DEA tedavisi almamış olan yetişkin hastalarda yürütülen çalışmalar  
+Daha önce D EA rejimleri ile tedavi edilmemiş olan ve POLARIS -2 ve POLARIS -3'te 8 
+hafta süreyle sofosbuvir/velpatasvir/voksilaprevir alan hastalar için başlangıçtaki NS3 ve 
+NS5A RAV'leri ile tedavi sonuçları arasındaki ilişkiyi araştırmak için analizler yapılmıştır.  Bunlar Tablo 7’de gösterilmiştir. 
+ 
+ 
+Tablo 7: Çalışmaya göre, D EA tedavisi almamış olan hastalarda başlangıç NS3 veya 
+NS5A RAV’si ile ya da olmaksızın SVR12  
+ 
+ sofosbuvir/velpatasvir/voksilaprevir 8 hafta  
+POLARIS -2 
+(n = 498)  POLARIS -3 
+(n = 108)  
+NS3 veya NS5A RAV’leri yok  %98 (224/229)  %98 (80/82)  
+NS3 veya NS5A RAV  %94 (234/250)  %100 (23/23)  
+     Yalnızca NS3       %91 (100/110)       %100 (2/2)  
+     Yalnızca NS5A       %95 (114/120)       %100 (20/20)  
+     NS3 ve NS5A       %100 (20/20)       %100 (1/1)  
+Hem NS3, hem de NS5A a için 
+RAV belirlenmedi  %100 (19/19)  %100 (3/3)  
+ 
+a. NS3 ve/veya NS5A gen dizilimi başarısız olan hastalar.  
+ 
+SVR12, POLARIS -2’de başlangıç NS5B NI RAV’si olan 39 hastanın tümünde ve 
+POLARIS -3’teki 3 hastadan 2’sinde (%67) sağlanmıştır. POLARIS -2 ve POLARIS -3 
+çalışmaları sırasında hiçbir hastada NS5B NI RAV S282T saptanmamıştır.  POLARIS -
+2’de genotip 1a bulunan hastalar  arasında Q80K/L/R RAV’si olanlarda SVR12 %87 
+(53/61), Q80K/L/R RAV’si olmayanlarda ise %94 (99/105) idi. 25   
+Klinik etkililik  
+ 
+VOSEVI ’nin (sofosbuvir [SOF]/velpatasvir [VEL]/voksilaprevir [VOX]) etkililiği, Tablo 
+8’de özetlenen şekilde, ikisi D EA tedavisi almış  hastalar ve ikisi de D EA tedavisi 
+almamış, genotip 1 ila 6 HCV enfeksiyonlu, sirozsuz veya kompanse sirozlu hastalarda 
+olmak üzere yetişkinlerde dört adet Faz 3 çalışma kapsamında değerlendirilmiştir. Tüm 
+çalışmalara yönelik demografi ve başlangıç karakteristiklerine ait detaylar Tablo 9’da verilmiştir.  
+ 
+Tablo 8: VOSEVI  ile yürütülen çalışmalar  
+Çalışma  Popülasyon  Çalışma kolları ve süresi 
+(tedavi edilen hasta sayısı)  Ek çalışma detayları  
+ 
+ 
+ 
+POLARIS -1 
+(Randomize 
+çift kör)   
+ 
+NS5A inhibitör 
+tedavisi almış hastalar, sirozlu veya sirozsuz GT1 -6  
+ 
+• SOF/VEL/VOX 12 hafta 
+(N=263)  
+• Plasebo 12 hafta 
+(N=152)  GT1 enfeksiyonlu hastaların  
+12 hafta süreyle 1:1 oranda 
+SOF/VEL/VOX  
+veya plasebo için randomize 
+edildiği plasebo kontrollü çalışma. GT2 -6 enfeksiyonu 
+olan hastalar,  
+yalnızca SOF/VEL/VOX 
+grubuna kaydedilmiştir.  
+ 
+ 
+ 
+ 
+POLARIS -4 
+(açık etiketli)   
+DEA tedavisi almış 
+hastalar (NS5A 
+inhibitörü tedavisi almamış olan), GT1 -
+6, sirozu olan veya olmayan   
+ 
+• SOF/VEL/VOX 12 hafta 
+(N=182)  
+• SOF/VEL 12 hafta 
+(N=151)  GT1-3 enfeksiyonu olan hastalar  
+12 hafta süreyle 1:1 oran ile 
+SOF/VEL/VOX veya SOF/VEL için randomize edildi. GT4 -6 
+enfeksiyonu bulunan hastalar yalnızca 12 haftalık SOF/VEL/VOX grubuna 
+kaydedilmiştir.  
+ 
+ 
+ 
+ 
+POLARIS -2 
+(açık etiketli)   
+ DEA tedavisi 
+almamış olan hastalar, sirozlu veya 
+sirozsuz GT 1, 2, 4, 5 
+veya 6  
+Sirozsuz GT 3   
+ 
+• SOF/VEL/VOX 8 hafta 
+(N=501)  
+• SOF/VEL 12 hafta 
+(N=440)  GT1-4 enfeksiyonu olan hastalar,  
+8 hafta süreyle 1:1 oran ile 
+SOF/VEL/VOX veya 12 hafta 
+süreyle ise SOF/VEL için randomize edildi. GT5- 6 
+enfeksiyonu bulunan hastalar 
+yalnızca 8 haftalık SOF/VEL/VOX 
+grubuna kaydedilmiştir.  
+ 
+ 
+POLARIS -3 
+(açık etiketli)   
+GT 3 ve sirozu olan DEA tedavisi almamış hastalar  • SOF/VEL/VOX 8 hafta 
+(N=110)  
+• SOF/VEL 12 hafta 
+(N=109)  Hastalar 8 hafta süreyle 1:1 oranda SOF/VEL/VOX, 12 hafta süreyle ise SOF/VEL için 
+randomize edilmiştir  
+DEA: direkt etkili antiviral; GT: genotip; SOF: sofosbuvir; VEL: velpatasvir; VOX: voksilaprevir  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 26   
+Tablo 9: POLARIS -1, -2, -3 ve - 4’e kaydedilen hastalara ait demografi ve 
+başlangıç karakteristikleri  
+ DEA  tedavisi almış  hastalarda 
+yürütülen çalışmalar  DEA  tedavisi almamış olan 
+hastalarda yürütülen çalışmalar  
+Hasta dağılımı  POLARIS -1 
+(n = 415)  POLARIS -4 
+(n = 333)  POLARIS -2 
+(n = 941)  POLARIS -3 
+(n = 219)  
+Yaş (yıl) medyan (aralık)  59 (27 -84) 58 (24 -85) 55 (18 -82) 56 (25-75) 
+Erkek Cinsiyet  %77 (321)  %77 (257)  %52 (492)  %72 (157)  
+Irk 
+   Siyah/Afr oamerikan     %14 (60)     %9 (29)     %10 (95)     < %1 (1)  
+   Beyaz     %81 (335)     %87 (291)     %80 (756)     %90 (197)  
+   Hispanik/Latin     %6 (25)     %8 (27)     %9 (84)    %8 (17)  
+Genotip  
+   Genotip 1a     %53 (218)     %29 (98)     %36 (341)     0 
+   Genotip 1b     %18 (76)     %14 (46)     %13 (122)     0 
+   Genotip 2     %1 (5)     %19 (64)     %12 (116)     0 
+   Genotip 3     %19 (78)     %32 (106)     %19 (181)     %100 (219)  
+   Genotip 4     %5 (22)     %5,7 (19)     %13 (120)     0 
+   Genotip 5     < %1 (1)     0    %2 (18)     0 
+   Genotip 6     %2 (8)     0    %4 (39)     0 
+IL28B CC  %18 (74)  %19 (62)  %32 (302)  %42 (93)  
+HCV RNA ≥ 800,000 IU/mL  %74 (306)  %75 (249)  %69 (648)  %69 (151)  
+Kompanse siroz  %41 (172)  %46 (153)  %18 (174)  %100 (219)  
+Merkez  
+   ABD     %57 (236)     %56 (188)     %59 (552)     %44 (96)  
+   ABD dışı       %43 (179)     %44 (145)     %41 (389)     %56 (123)  
+ 
+Serum HCV RNA değerleri, klinik çalışmalar sırasında, daha düşük miktar tayini limiti 
+(LLOQ)  olan 15 IU/mL ile COBAS AmpliPrep/COBAS Taqman HCV testi (versiyon 
+2.0) kullanılarak ölçülmüştür. HCV sağaltım oranının belirlenmesinde ki birincil son lanım  
+nokta sı, tedavinin kesilmesinden 12 hafta sonra LLOQ'dan daha düşük HCV RNA olarak 
+tanımlanan sürdürülebilir virolojik yanıt (SVR12) olmuştur. 
+ DEA  tedavisi almış  hastalarda;  NS5A inhibitör ü tedavisi almış  erişkinlerde yapılan klinik 
+çalışmalar (POLARIS- 1) 
+Tablo 10’da POLARIS -1 çalışmasına yönelik HCV genotipi aracılığıyla elde edilen 
+SVR12  gösterilmektedir . POLARIS -1'e kaydolan hastalar için önceki DEA  tedavisinin 
+başarısızlığı ile ilk VOSEVI  dozu arasındaki medyan süre 39 hafta idi (aralık: 11 ila 299 
+hafta). Plasebo grubundaki hiçbir hasta SVR4 elde etmedi.  
+             
+ 27   
+Tablo 10: POLARIS -1* çalışmasında NS5A -inhibitör tedavisi almış hastalarda HCV 
+genotipine göre SVR12  
+ SOF/VEL/VOX 12 hafta (N=263)  
+Toplam 
+(tüm 
+GT’ler)a 
+(n = 263)  GT-1 GT-2  
+(n = 5)  GT-3  
+(n = 78)  GT-4  
+(n = 22)  GT-5  
+(n = 1)  GT-6  
+(n = 6)  GT-1a (n = 
+101) GT-1b (n = 
+45) Toplamb 
+(n = 150)  
+SVR12  %96 
+(253/263)  %96 
+(97/101)  %100 
+(45/45)  %97 
+(146/150)  %100 (5/5)  %95 (74/78)  %91 (20/22)  %100 (1/1)  %100 (6/6)  
+SVR’siz hastalara ait sonuçlar  
+Tedavi 
+sırasındaki 
+virolojik 
+başarısızlıkc  
+<%1 (1/263)   
+%1 (1/101)   
+ 
+0/45  
+%1 (1/150)   
+ 
+0/5  
+ 
+0/78  
+ 
+0/22  
+ 
+0/1  
+ 
+0/6 
+Nüksd %2 (6/261)  %1 (1/100)  0/45 %1 (1/149)  0/5 %5 (4/78)  %5 (1/21)  0/1 0/6 
+Diğere %1 (3/263)  %2 (2/101)  0/45 %1 (2/150)  0/5 0/78 %5 (1/22)  0/1 0/6 
+GT = genotip  
+* Önceki en yaygın NS5A inhibit örleri ledipasvir (LDV) ( %51), da klatasvir ( %27) ve ombitasvir ( %11) idi. 
+a. Genotipi belirlenmeyen bir hastada SVR12  sağlandı . 
+b. Dört hastada , genotip 1a veya genotip 1b dışındaki genotip 1 alt tipleri mevcuttu; 4 hastanın tümü SVR12 ’yi elde 
+etti. 
+c. Tedavi sırasınd a virolojik başarısızlık bulunan bir hastaya ait farmakokinetik veriler, tedaviye bağlı kalınmaması  ile 
+tutarlıydı.  
+d. Nüks paydası, tedavi sırasındaki son değerlendirmede HCV RNA <LLOQ olan hasta sayısını ifade etmektedir.  
+e. Diğer, verileri eksik olan hastaları ve virolojik supresyondan önce tedaviyi sonlandıranları içermektedir.  
+ 
+NS5A inhibit örü almamış olan DEA  tedavisi almış  erişkinler  (POLARIS -4) 
+Tablo 11’de, HCV genotipi ile sağlanan SVR12 ve POLAR IS-4 çalışmasına ait virolojik 
+sonuç sunulmuştur . POLARIS -4’e kaydedilen hastalar için önceki DEA tedavisi 
+başarısızlığı ile birinci VOSEVI  veya sofosbuvir/velpatasvir dozu arasındaki meydan süre 
+76 hafta idi ( aralık : 10 ila 549 hafta).  
+ 
+Tablo 11: POLARIS -4 çalışmasında HCV genotip ve virolojik sonuca göre SVR12  
+ SOF/VEL/VOX 12 
+hafta  
+(n = 182)  SOF/VEL  
+12 hafta  
+(n = 151)  
+Genel SVR12  %98 (178/182)  %90 (136/151)  
+Genotip 1  %97 (76/78)  %91 (60/66)  
+   Genotip 1a     %98 (53/54)     %89 (39/44)  
+   Genotip 1b     %96 (23/24)     %95 (21/22)  
+Genotip 2  %100 (31/31)  %97 (32/33)  
+Genotip 3  %96 (52/54)  %85 (44/52)  
+Genotip 4  %100 (19/19)  0/0 
+SVR’siz hastalara ait sonuçlar  
+Tedavi sırasındaki 
+virolojik başarısızlıka 0/182  %1 (1/151)  
+Nüksb %1 (1/182)  %9 (14/150)  
+Diğerc %2 (3/182)  0/151  
+a. Daha önce sofosbuvir  içeren bir rejimi başarısız olan hastaların çoğunluğu (%85) . 
+b. Nüks paydası, tedavi sırasındaki son değerlendirmede HCV RNA <LLOQ olan hasta sayısını ifade etmektedir.  
+c. Diğer, verileri eksik olan hastaları ve virolojik supresyondan önce tedaviyi sonlandıranları içermektedir.  
+ 
+ 
+   
+ 28  DEA  tedavisi almamış olan hastalarda yürütülen klinik çalışmalar  
+DEA  tedavisi almamış, genotip 1, 2, 3, 4, 5 veya 6 HCV enfeksiyonlu erişkinler 
+(POLARIS -2) 
+HCV genotipine ve POLARIS -2 çalışmasının virolojik sonucuna göre elde edilen SVR12 
+Tablo 12’de sunulmuştur . 
+ 
+Tablo 12: POLARIS -2* çalışmasında HCV genotip ve virolojik sonuç ile elde edilen 
+SVR12  
+ SOF/VEL/VOX  
+8 hafta  
+(n = 501)  SOF/VEL  
+12 hafta  
+(n = 440)  
+Genel SVR12a %95 (477/501)  %98 (432/440)  
+Genotip 1b %93 (217/233)  %98 (228/232)  
+   Genotip 1a     %92 (155/169)     %99 (170/172)  
+   Genotip 1b     %97 (61/63)     %97 (57/59)  
+Genotip 2  %97 (61/63)  %100 (53/53)  
+Genotip 3  %99 (91/92)  %97 (86/89)  
+Genotip 4  %94 (59/63)  %98 (56/57)  
+Genotip 5  %94 (17/18)  0/0 
+Genotip 6  %100 (30/30)  %100 (9/9)  
+SVR’siz hastalara ait sonuçlar  
+Tedavi sırasındaki 
+virolojik başarısızlık  0/501  0/440  
+Nüksc %4 (21/498)  %1 (3/439)  
+Diğerd %1 (3/501)  %1 (5/440)  
+* POLARIS -2’ye kaydolan hastaların %23’ü, daha önce interferon bazlı bir rejimle tedavi almıştı.  
+a. SOF/VEL/VOX grubunda genotipi belirlenmemiş olan iki hastada SVR12  sağlandı . 
+b. İki hasta, genotip 1a veya genotip 1b dışındaki genotip 1 alt tiplerine sahipti; her iki hasta da SVR12 ’yi elde etti . 
+c. Nüks paydası, tedavi sırasındaki son değerlendirmede HCV RNA <LLOQ olan hasta sayıs ını ifade etmektedir.  
+d. Diğer, verileri eksik olan hastaları ve virolojik supresyondan önce tedaviyi sonlandıranları içermektedir.  
+ 
+POLARIS -2'de VOSEVI  ile 8 hafta süreyle uygulanan tedavi, önceden belirlenmiş -%5 
+marjla 12 hafta boyunca uygulanan sofosbuvir/velpatasvir tedavisinden daha az etkili 
+değildi . SVR12’ deki fark, genotip 1a enfeksiyonu ve/veya siroz hastalarında ki daha 
+düşük yanıt oranı na dayalı idi. 8 hafta süreyle VOSEVI  ile tedavi edilen sirozsuz, genotip 
+1a’lı hastalardaki sonuç, şu ba şlangıç faktörleri nden  etkilenmiştir: Vücut Kitle İndeksi 
+(VKİ) ≥ 30 kg/m2, Q80K/L/R RAV’ler , IL28B non- CC, HCV RNA ≥ 800,000 IU/mL . 
+SVR12, iki veya daha az sayıda faktör bulunan grupta  %98, üç veya dört faktörlü grupta  
+ise %81 idi. Tablo 13’te , POLARIS -2 çalışmasına yönelik siroz durumuna göre HCV 
+genotipi  ile SVR12 sunulmuştur . 
+ 
+ 
+            29  Tablo 13: HCV genotipi ve virolojik sonuca göre POLARIS -2 çalışmasına 8 hafta 
+süreyle VOSEVI  alan sirozsuz veya sirozlu hastalardaki SVR12  
+ SOF/VEL/VOX 8 hafta  
+ Sirozsuz (411/501)  Sirozlu (90/501)  
+Genel SVR12a %96 (395/411)  %91 (82/90)  
+Genotip 1b %94 (162/172)  %90 (55/61)  
+   Genotip 1a     %92 (109/118)c    %90 (46/51)  
+   Genotip 1b     %98 (52/53)     %90 (9/10)  
+Genotip 2  %96 (47/49)  %100 (14/14)  
+Genotip 3  %99 (90/91)  %100 (1/1)  
+Genotip 4  %96 (51/53)  %80 (8/10)  
+Genotip 5  %94 (16/17)  %100 (1/1)  
+Genotip 6  %100 (27/27)  %100 (3/3)  
+SVR’siz hastalara ait sonuçlar  
+Tedavi sırasındaki 
+virolojik başarısızlık  0/411  0/90 
+Nüksd %3 (14/409)  %8 (7/89)  
+Diğere <%1 (2/411)  %1 (1/90)  
+a. SOF/VEL/VOX grubundan genotipi belirlenmeyen s irozsuz iki hasta SVR12 ’ye ulaştı . 
+b. Sirozsuz bir hasta, genotip 1a veya genotip 1b’nin dışındaki bir genotip 1 alt tipine sahipti; hasta  SVR12 ’ye ulaştı , 
+c. SVR12, ABD’deki merkezlerde kaydolan genotip 1a hastalarda % 89; ABD dışındaki merkezlerde kaydolan hastalarda ise % 97’dir. 
+d. Nüks paydası, tedavi sırasındaki son değerlendirmede HCV RNA <LLOQ olan hasta sayısını ifade etmektedir.  
+e. Diğer, verileri eksik olan hastaları ve virolojik supresyondan önce tedaviyi sonlandıranları içermektedir.  
+ 
+Genotip 3 HCV enfeksiyonu ve kompanse siroz bulunan DEA  tedavisi almamış olan erişkinler 
+(POLARIS -3) 
+POLARIS -3 çalışması na ait  SVR12 ve virolojik sonuç Tablo 14’te sunulmuştur . 
+ 
+Tablo 14: POLARIS -3 çalışmasındaki SVR12 ve virolojik sonuç (kompanse siroz ile 
+HCV genotip 3)*  
+ SOF/VEL/VOX  
+8 hafta  
+(n = 110)  SOF/VEL  
+12 hafta  
+(n = 109)  
+SVR12  %96 (106/110)  %96 (105/109)  
+SVR’siz hastalara ait sonuçlar  
+Tedavi sırasındaki virolojik 
+başarısızlık  0/110  %1 (1/109)  
+Nüksa %2 (2/108)  %1 (1/107)  
+Diğerb %2 (2/110)  %2 (2/109)  
+* POLARIS -3’e kaydolan hastaların %29’u, daha önce interferon bazlı bir rejimle tedavi almıştı.  
+a. Nüks paydası, tedavi sırasındaki son değerlendirmede HCV RNA <LLOQ olan hasta sayısını ifade etmektedir.  
+b. Diğer, verileri eksik olan hastaları ve virolojik supresyondan önce tedaviyi sonlandıranları içermektedir.  
+ Yaşlılar  
+VOSEVI 'nin klinik çalışmalarına 65 yaş ve üzeri 189 hasta (Faz 2 ve 3 klinik 
+çalışmalarındaki toplam hasta sayısının %17'si) dahil olmuştur. Tedavi grupları arasında 
+≥ 65 yaş hastalar için gözlemlenen yanıt oranları <65 yaş hastalarınki  ile benzerdi.  
+ 
+Daha önce sofosbuvir/velpatasvir  içeren rejimlerle tedavi edilen yetişkinler  
+12 haftalık VOSEVI, daha önce sofosbuvir/velpatasvir içeren rejimle tedavi edilen 
+hastalarda değerlendirilmiştir. Medyan zamandan yeniden tedaviye 414 gündür (aralık 
+198-1271). Çalışmaya dahil edilen 31 ha stanın %74’ü (23/31) erkek, %81’i (25/31) 
+beyaz, %71’i (22/31) başlangıç vücut kitle indeksi < 30 kg/m
+2, %48’i (15/31) kompanse 
+sirozlu, %58’i ( 18/31) daha önce sofosbuvir, velpatasvir ve voksilaprevir almış ve %42’si 
+(13/31) daha önce sofosbuvir ve velpatasvir almıştır. Hastaların çoğu genotip 1 (%61 
+(19/31) [1a, %48 (15/31); 1b, %13 (4/31)]) veya genotip 3 (26% (8/31)) HCV enfeksiyonu olan. Topl am SVR12 oranı %100’dür (31/31).  30   
+5.2 Farmakokinetik özellikler  
+ 
+Genel özellikler  
+  
+Emilim: 
+Sofosbuvir, GS -331007, velpatasvir ve voksilaprevirin farmakokinetik özellikleri, sağlıklı 
+yetişkin gönüllüler ve kronik hepatit C hastalarında değerlendirilmiştir.  
+ 
+Sofosbuvir  
+VOSEVI ’nin oral yoldan uygulanmasının ardından, sofosbuvir hızla absorbe edilmiş ve 
+medyan pik plazma konsantrasyonu dozdan 2 saat sonra gözlenmiştir. GS -331007’nin 
+medyan pik plazma konsantrasyonu dozdan 4 saat sonra gözlenmiştir. HCV ile enfekte 
+hastalarda popülasyon farmakokinetik analizine dayanarak, sofosbuvir (n = 1038) için ortalama kararlı durum EAA
+0-24 ve C maks sırasıyla 1665 ng•saat/mL ve 678 ng/mL; GS -
+331007 (n = 1593) ortalama kararlı durum EAA 0-24 ve C maks ise sırasıyla 12834 
+ng•saat/mL ve 744 ng/mL’dir. Sağlıklı yetişkin gönüllüler ve HCV enfeksiyonlu hastalarda sofosbuvir ve GS-331007 EAA
+0-24 ve C maks benzerdir.  
+ 
+Velpatasvir  
+Velpatasvirin medyan pik plazma konsantrasyonu dozdan 4 saat sonra gözlenmiştir. H CV 
+ile enfekte hastalarda popülasyon farmakokinetik analizine dayanarak, velpatasvir (n = 
+1595) için ortalama kararlı durum EAA 0-24 ve C maks sırasıyla 4041 ng•saat/mL ve 311 
+ng/mL olmuştur. Sağlıklı gönüllülerle karşılaştırıldığında (n = 137), HCV ile enfe kte 
+hastalardaki velpatasvir EAA 0-24 ve C maks ‘ı sırasıyla %41 ve %39 oranlarında daha 
+düşüktür.  Voksilaprevir  
+Voksilaprevir medyan pik plazma konsantrasyonu dozdan 4 saat sonra gözlenmiştir. HCV ile enfekte hastalarda popülasyon farmakokinetik analizine dayanarak, voksilaprevir (n = 1591) için ortalama kararlı durum EAA
+0-24 ve C maks sırasıyla 2577 ng•saat/mL ve 192 
+ng/mL olmuştur. Sağlıklı gönüllülerle karşılaştırıldığında (n = 63), HCV ile enfekte hastalardaki velpatasvir EAA
+0-24 ve C maks’ının her ikisi de %260 daha yüksektir. 
+ 
+Gıdanın etkileri  
+VOSEVI  veya birlikte alınan bileşenleri gıda ile birlikte uygulandığında sofosbuvir 
+EAA 0-inf ve C maks, sırasıyla %64 ila %144 ve %9 ila %76 daha yüksek; velpatasvir   
+EAA 0-inf ve C maks sırasıyla %40 ila %166 ve %37 ila %187 daha yüksek ve voksilaprevir 
+EAA 0-inf ve C maks %112 ila %435 ve %147 ila %680 daha yüksek bulunmuştur. VOSEVI  
+veya bileşenleri gıda ile birlikte uygulandığında GS -331007 EAA 0-inf’si değişmemiş olup, 
+Cmaks %19 ila %35 daha düşük bulunmuştur. 
+ 
+Dağılım: 
+Sofosbuvir insan plazma proteinlerine yaklaşık %61- 65 oranında bağlanmaktadır ve 
+bağlanma 1 µg/mL ila 20 µg/mL aralığında ilaç konsantrasyonundan bağımsızdır. GS-
+331007’nin insan plazmasında proteine bağlanması minimum düzeydedir. Sağlı klı 
+gönüllülerde tek bir 400 mg [14C]-sofosbuvir dozu sonrasında [14C]-radyoaktivitesinin 
+kan-plazma oranı yaklaşık 0,7 olarak saptanmıştır.  
+ 
+ 31  Velp atasvir insan plazma proteinlerine >%99 oranında bağlanmaktadır ve bağlanma 0,09 
+µg/mL ila 1,8 µg/mL aralığında ilaç konsantrasyonundan bağımsızdır. Sağlıklı 
+gönüllülerde tek bir 100 mg [14C]-velpatasvir dozu sonrasında [14C]-radyoaktivitesinin 
+kan-plazma oranı 0,5 ila 0,7 arasında saptanmıştır. 
+ 
+Velpatasvir insan plazma proteinlerine yaklaşık >%99 oranında bağlanmaktadır. Sağlı klı 
+gönüllülerde tek bir 100 mg [14C]-voksilaprevir dozu sonrasında [14C]-radyoaktivitesinin 
+kan-plazma oranı 0,5 ila 0,8 arasında saptanmıştır.  
+ 
+Biyotransformasyon:  
+Sofosbuvir, farmakolojik olarak aktif analog trifosfat GS -461203’ü oluşturmak üzere , 
+karaciğerde büyük ölçüde metabolize edilmektedir. Metabolik aktivasyon yolları, insan 
+katepsin A (CatA) veya karboksilesteraz 1 (CES1) ile katalize edilen karboksil ester 
+parçacığının sıralı hidrolizini ve histidin triad nükleotid bağlanma proteini 1 (HINT1) ile 
+fosforamidat bölünme ve ardından pirimidin nükleotid biyosentez yolu ile fosforilasyonu 
+kapsamaktadır. Defosforilasyon, etkin şekilde yeniden fosforile edilemeyen ve in vitro  
+anti-HCV aktivitesi olmayan nükleozit metaboliti GS -331007’nin oluşumuna yol 
+açmaktadır.  Tek bir 400 mg oral [14C]-sofosbuvir dozu sonrasında GS -331007, sistemik 
+maruziyetin yaklaşık > %90’ına karşılık gelmiştir. 
+ 
+Velpatasvir, esas olarak CYP2B6, CYP2C8 ve CYP3A4'ün bir substratıdır ve yavaş bir 
+döngüye sahiptir. Tek doz 100 mg [14C]-velpatasviri takiben plazmadaki radyoaktivitenin 
+çoğunluğu (>%98) ana ilaçtır. Monohidroksile velpatasvir ve desmetile velpatasvir, insan 
+plazmasında tanımlanan metabo litlerdir. Değişmemiş velpatasvir, dışkıda bulunan başlıca 
+türdür. 
+ 
+Voksilaprevir, esas olarak CYP3A4'ün bir substratıdır ve yavaş bir döngüye sahiptir. Tek 
+doz 100 mg [14C]-voksilapreviri takiben plazmadaki radyoaktivitenin çoğunluğu 
+(yaklaşık %91) ana il açtır.  Hidrolize ve dehidrojenize edilmiş voksilaprevir, insan 
+plazmasında tanımlanan başlıca metabolitlerdir. Değişmemiş voksilaprevir, dışkıda 
+bulunan başlıca türdür.  
+ 
+Eliminasyon :  
+Tek bir 400 mg oral [14C]-sofosbuvir dozu sonrasında [14C] radyoaktivitenin ortalama 
+toplam geri kazanımı %92’den fazla olup, idrar, dışkı ve dışarıya solunan havadan 
+sırasıyla yaklaşık %80, %14 ve %2,5 geri kazanıma karşılık gelmiştir. İdrarda geri 
+kazanılan sofosbuvir dozunun büyük çoğunluğu GS -331007 (%78) olup , geri kazanılan 
+sofosbuvir %3,5 oranındadır. Bu veriler, GS -331007 için ana eliminasyon yolunun renal 
+klerens olduğunu göstermektedir. VOSEVI  uygulaması sonrasında sofosbuvir ve 
+GS331007’nin medyan terminal yarı ömürleri sırasıyla 0,5 ve 29 saattir.  
+ 
+Tek bir 100 mg oral [14C]-velpatasvir dozu sonrasında [14C] radyoaktivitenin ortalama 
+toplam geri kazanımı %95 olup, dışkı ve idrardan sırasıyla yaklaşık %94 ve %0,4’ü geri 
+kazanıma karşılık gelmiştir.  Dışkıdaki değişmemiş velpatasvir, uygulanan dozun ortalama 
+%77'sine karşılık gelen başlıca tür ü teşkil etmiş ve onu monohidroksile velpatasvir 
+(%5,9) ve desmetile velpatasvir (%3,0) izlemiştir . Bu veriler, ana ilacın safradaki 
+atılımının velpatasvir için önemli bir eliminasyon yolu olduğun u göstermektedir. 
+Velpatasvirin  VOSEVI  uygulamasını takip eden medyan terminal yarı lanma  ömrü 
+yaklaşık 17 saat idi . 32  Tek bir 100 mg oral [14C]-voksilaprevir dozunu takiben [14C] radyoaktivitesinin ortalama 
+toplam geri kazanım oranı  %94'tür ve tüm radyoaktivite dışkıda ölçülmüş olup, hiçbiri 
+idrarda ölçülmemiştir . Dışkıdaki değişmemiş voksilaprevir, uygulanan dozun ortalama 
+%40’ına karşılık gelen başlıca türü teşkil etmiştir. Dışkıda saptanan voksilaprevir 
+metabolitleri ayrıca , bağırsakta oluşan des-[metilsiklopropilsülfonamit] -voks ilaprevir  
+(%22,1), dehi dro-voks ilaprevir ( %7,5) ve iki des-[metilsiklopropilsülfonamit] -oksi-
+voks ilaprevir metaboliti (%5,4 ve % 3,9) içermiştir . Voksilaprevirin başlıca eliminasyon 
+yolu, ana ilacın  safra atılımıydı . Voksilaprevirin VOSEVI  uygulamasını takip eden 
+medyan terminal yarılanma ömrü yaklaşık 33 saat idi . 
+ 
+Doğrusallık/doğrusal  olmayan durum: 
+ 
+Sofosbuvir ve GS -331007 EAA’ları 200 mg ila 1200 mg doz aralığı nda yaklaşık olarak  
+dozla orantılıdır. Velpatasvir in EAA değeri , 5 ila 50 mg arasında orantısal dan daha fazla 
+ve 50 ila 450 mg arasında orantısal dan daha az artar ve bu da , velpatasvir emiliminin 
+çözünürlükle  sınırlı olduğunu göstermektedir . Vo ksilaprevir ( toklukta incelen miştir ) 
+EAA’sı , 100 ila 900 mg doz aralığında doz  orantısallığının üzerinde artmaktadır . 
+ 
+İn vitro sofosbuvir/velpatasvir/voks ilaprevir ilaç -ilaç etkileşim potansiyeli  
+ 
+Sofosbuvir, velpatasvir ve voks ilaprevir , P-gp ve BCRP ilaç taşıyıcılarının  substratlarıdır; 
+buna karşılık GS-331007 değildir . Vo ksilaprevir  ve daha düşük oranda olmak üzere 
+velpatasvir  de aynı şekilde OATP1B1 ve OATP1B3 ’ün substratlarıdır . İn vitro  
+velpatasvir in ağırlıklı olarak CYP2B6, CYP2C8  ve CYP3A4 ile ve voks ilaprevir in ise 
+ağırlıklı olarak CYP3A4 ile yavaş metabolik dönüşümü gözlenmiştir.  
+ 
+Sofosbuvir ve GS-331007, ilaç taşıyıcıları P-gp, BCRP, çoklu ilaç direnciyle ilişkili 
+protein 2 (MRP2), safra tuzu atılım pompası (BSEP), OATP1B1, OATP1B3 ve organik 
+katyon taşıyıcısı (OCT) 1 ’in inhibitörleri değildir ve GS -331007, OAT1, OAT3, OCT2 ve 
+çoklu ilaç ve toksin ekstrüzyon proteini (MATE) 1 ’in inhibitörü değildir , Sofosbuvir ve 
+GS-331007, CYP veya üridin glukuronos iltransfe raz (UGT) 1A1 enzimlerinin  
+inhibitörleri veya indükleyicileri değildir . 
+ 
+Velpatasvir , P-gp, BCRP, OATP1B1, OATP1B3 ve OATP2B1  ilaç taşıyıcılarının 
+inhibitörüdür ve bu taşıyıcılarla ilaç etkileşimlerindeki rolü ağırlıklı olarak emilim prosesi 
+ile sınırlıdır. Velpatasvir, klinik olarak ilgili konsantrasyonlarda hepatik  taşıyıcılar BSEP, 
+sodyum taurokolat eş taşıyıcı protein (NTCP), OATP1A2 veya OCT1, renal taşıyıcılar 
+OCT2, OAT1, OAT3, MRP2 veya MATE1  ya da CYP veya UGT1A1 enzimlerinin bir 
+inhibitörü değildir. 
+ Voksilaprevir , P-gp, BCRP, OATP1B1 ve OATP1B3  ilaç taşıyıcılarının inhibitörüdür ve 
+bu taşıyıcılarla ilaç etkileşimlerindeki rolü ağırlıklı olarak emilim prosesi ile sınırlıdır . 
+Voksilaprevir, klinik olarak ilgili kon santrasyonlarda hepatik taşıyıcılar OCT1, renal 
+taşıyıcılar OCT2, OAT1, OAT3 veya MATE1  ya da CYP veya UGT1A1 enzimlerinin bir 
+inhibitörü değildir. 
+ 
+Hastalardaki karakteristik özellikler  
+ 
+Böbrek yetmezliği : 
+Aşağıdaki metinde tarif edildiği gibi, normal böbrek fonksiyonu olan gönüllülere kıyasla 
+değişen derecelerde böbrek yetmezliğinin (BY) VOSEVI bileşenlerinin maruziyetleri üzerindeki etkisinin bir özeti Tablo 15'te verilmiştir. 33   
+Tabl o 15: SOF, GS - 331007, velpatasvir ve voksilaprevir m aruziyetlerinde (AUC) 
+normal b öbrek fonksiyonlu b ireylere k ıyasla d eğişen böbrek yetmezliği  
+derecelerinin etkisi 
+ 
+ HCV -negati f gönüllüler  HCV -enfekte  
+gönüllüler  
+Hafif BY  
+(eGFR ≥50 
+ve <80 
+mL/dk/  
+1.73m2) Orta BY  
+(eGFR ≥30 
+ve <50 
+mL/dk/  
+1.73m2) Şiddetli 
+BY 
+(eGFR <30 
+mL/dk/  
+1.73m2) Diyaliz gereken SEBH 
+bulunan  Şiddetli 
+BY 
+(eGFR <30 
+mL/dk/  
+1.73m2) Diyaliz 
+gereken 
+SEBH 
+bulunan  Diyalizden 
+1 saat önce 
+doz alan  Diyalizden 
+1 saat 
+sonra doz 
+alan 
+Sofosbuvir  1.6- kat↑ 2.1- kat↑ 2.7- kat↑ 1.3- kat↑ 1.6- kat↑ ~2- kat↑ 1.8- kat↑ 
+GS-331007  1.6-kat↑ 1.9- kat↑ 5.5- kat↑ ≥10- kat↑ ≥20- kat↑ ~7- kat↑ 18- kat↑ 
+Velpatasvir  - - 1.5- kat↑ - - - 1.4- kat↑ 
+Voksilaprevir  - - 1.7- kat↑ - - - - 
+ 
+ 
+Sofosbuvirin farmakokinetiği hafif (eGFR ≥50 ve <80 mL/dak/1,73 m2), orta (eGFR≥30 
+ve <50 mL/dak/1,73 m2) ve şiddetli (eGFR <30 mL/dak/1,73 m2) böbrek yetmezliği olan 
+HCV negatif yetişkin hastalarda ve normal böbrek fonksiyonu (eGFR >80 mL/dak./1,73 
+m2) olan hastalarla karşılaştırıldığında , 400 mg’lık tek sofosbuvir dozu sonrasında 
+hemodiyalize ihtiyaç duyan ESRD olan hastalarda incelenmiştir. GS -331007, yaklaşık 
+%53’lük bir ekstraksiyon katsayısıyla hemodiyalizle etkili şekilde uzaklaştırılmıştır. 400 
+mg’lık tek bir so fosbuvir dozu sonrasında 4 saatlik bir  hemodiyalizle uygulanan 
+sofosbuvir dozunun %18’i uzaklaştırılmıştır. 
+ 
+24 hafta boyunca ribavirin ile 200 mg sofosbuvir (n= 10) veya ribavirin ile 400 mg 
+sofosbuvir (n = 10) veya 12 hafta boyunca ledipasvir/sofosbuvir 90/400 mg (n=18) ile 
+tedavi edilen ciddi  böbrek yetmezliği olan HCV ile enfekte yetişkin hastalarda, 
+sofosbuvir ve GS -331007'nin farmakokinetiği, ciddi böbrek yetmezliği olan HCV negatif 
+yetişkin hastalarda gözle nenlerle tutarlıydı.  
+ 
+Velpatasvirin farmakokinetiği şiddetli böbrek yetmezliği (Cockcroft -Gault ile eGFR <30 
+mL/dak.) olan HCV negatif yetişkin hastalarda 100 mg tek doz velpatasvir sonrasında incelenmiştir.   Voksilaprevir renal olarak elimine edilmez.  
+ 
+İlave olarak, v oksilaprevirin farmakokinetiği şiddetli böbrek yetmezliği (Cockcroft -Gault 
+ile eGFR <30 mL/dak.) olan HCV negatif yetişkin hastalarda 100 mg tek doz 
+voksilaprevir sonrasında incelenmiştir. Voksilaprevir ’in farmakokinetiği,  diyaliz 
+gerektiren SEBH bulunan gönüllülerde çalışılmamıştır (bkz. Bölüm 4.2). 
+ 
+Sofosbuvir, GS -331007 ve velpatasvir'in farmakokinetiği, 12 hafta boyunca günde bir kez 
+sofosbuvir / velpatasvir 400/100 mg ile tedavi edilen diyaliz gerektiren SEBH bulunan 
+HCV ile enfekte hastalarda incelendi ve sofosbuvir/velpatasvir Faz  2/3 çalışmalarında  
+böbrek yetmezliği bulunmayan hastalarla karşılaştırıldı.  
+ 
+Sofosbuvir, GS -331007, velpatasvir ve voks ilaprevir sabit dozlu kombinasyonlarının 
+maruziyeti , VOSEVI uygulamasından sonra diyaliz gerektiren SEBH bulunan HCV 
+enfekte yetişkin hastalarda doğrudan değerlendirilmemesine rağmen, sofosbuvir, GS -
+331007 ve velpatasvir maruziyetlerinin diyaliz gerektiren SEBH bulunan HCV ile enfekte 
+hastalarda sofosbuvir / velpatasvir 400/100 mg uygulandıktan sonra gözlemlenenlere 
+benzer  olması beklenmektedir . 
+ 34  Karaciğer yetmezliği : 
+Sofosbuvirin farmakokinetiği orta ve şiddetli karaciğer yetmezliği (CPT B ve C sınıfı) 
+olan HCV ile enfekte yetişkin hastalarda 7 günlük 400 mg sofosbuvir doz u uygulandıktan  
+sonra incelenmiştir.  Normal karaciğer fonksiyonu olan hastalarda karşılaştırıldığında, 
+sofosbuvir EAA 0-24 düzeyi orta ve şiddetli karaciğer yetmezliğinde sırasıyla %126 ve 
+%143 daha yüksek, buna karşın GS -331007 EAA 0-24 düzeyi ise %18 ve %9 daha 
+yüksektir. HCV ile enfekte yetişkin hastalarda yapılan popülasyon farmakoki netik analizi, 
+sirozun (CPT sınıf  A) sofosbuvir ve GS -331007 maruziyeti üzerinde klinik açıdan ilgili 
+etkisi olmadığını göstermiştir.  
+ 
+Velpatasvirin farmakokinetiği orta ve şiddetli karaciğer yetmezliği (CPT sınıf B ve C) 
+olan HCV negatif yetişkin hastalar da 100 mg tek doz velpatasvir sonrasında 
+incelenmiştir. Velpatasvir plazma maruziyeti (EAA inf), orta, şiddetli karaciğer yetmezliği 
+olan hastalar ve normal karaciğer fonksiyonuna sahip kontrol gönüllüleriyle benzer 
+bulunmuştur. HCV ile enfekte yetişkin hastalarda yapılan popülasyon farmakokinetik 
+analizi, sirozun (CPT sınıf  A) velpatasvir maruziyeti üzerinde klinik açıdan ilgili etkisi 
+olmadığını göstermiştir.  
+ 
+Voksilaprevirin farmakokinetiği orta ve şiddetli karaciğer yetmezliği (CPT sınıf B ve C) 
+olan HCV  negatif yetişkin hastalarda 100 mg tek doz velpatasvir sonrasında 
+incelenmiştir.  Voksilaprevir EAA inf’si orta ve şiddetli karaciğer yetmezliği olan 
+hastalarda sırasıyla %299 ve %500 daha yüksek bulunmuştur. Bağlanmamış voksilaprevir 
+fraksiyonu, orta şiddetli karaciğer yetmezliği veya normal hepatik fonksiyonuna kıyasla şiddetli karaciğer yetmezliğinde yaklaşık 2 kat daha yüksektir. HCV ile enfekte yetişkin 
+hastalardaki popülasyon farmakokinetik analizi, sirozlu hastaların (CPT sınıf A) 
+voksilaprevire sirozsuz hastalardan %73 daha yüksek oranda maruz kaldıklarını göstermiştir (bkz. bölüm 4.2). 
+ 
+Pediyatrik popülasyon: 
+VOSEVI ’nin pediyatrik hastalardaki farmakok inetiği belirlenmemiştir (bkz. B ölüm 4.2). 
+ 
+Yaşlılar : 
+HCV ile enfekte hastalarda yapılan popülasyon farmakokinetik analizi, analiz edilen ya ş 
+aralığında (18 ila 85 yaş) yaşın sofosbuvir, GS -331007, velpatasvir veya voksilaprevir 
+maruziyeti üzerinde klinik açıdan etkisi olmadığını göstermiştir. Farmakokinetik verisi 
+bulunan, 75 ila 84 yaş arasındaki 13 hastada ortalama voksilaprevir maruziyeti, yaşları 18 
+ila 64 arasındaki hastalarda gözlemlenen ortalama maruziyetten %93 oranında daha yüksek bulunmuştur.  
+Irk ve cinsiyet : 
+Sofosbuvir, GS -331007, velpatasvir veya voksilaprevir için ırk veya cinsiyete dayanan 
+klinik açıdan ilgili farmakokinetik farklar belirlenmemiştir.  
+ 
+Vücut ağırlığı : 
+Bir popülasyon farmakokinetik analizine göre, yetişkinlerde vücut ağırlığının sofosbuvir, 
+velpatasvir veya voksilaprevir maruziyeti  üzerinde önemli bir etkisi yoktur. 
+ 
+ 
+ 
+ 
+ 35  5.3 Klinik öncesi güvenlilik verileri  
+ 
+Sofosbuvir 
+Sofosbuvir, bakteriyel mutajenite, insan periferik kan lenfositlerinin kullanıldığı 
+kromozom aberasyon testi dahil bir dizi in vitro  ve in vivo  miktar tayininde ve in vivo fare 
+mikronükleus miktar tayininde genotoksik bulunmamıştır. Sofosbuvir ile yürütüle n sıçan 
+ve tavşan gelişimsel toksisite çalışmalarında teratojenik etkiler gözlenmemiştir. Doğum önce si ve sonrasındaki sıçan çalışmasında sıçan yavrularının davranışı, üremesi veya 
+gelişimi üzerinde sofosbuvirin advers etkileri bildirilmemiştir.  
+ 
+Sofosbuvir, 2 yıllık fare ve sıçan karsinojenite çalışmalarında sırasıyla insan 
+maruziyetinden 17 ve 10 kat daha yüksek GS -331007 maruziyetlerinde karsinojenik 
+bulunmamıştır.  
+ 
+Velpatasvir  
+Velpatasvir, bakteriyel mutajenite, insan periferik kan lenfositleri nin kullanıldığı 
+kromozom aberasyon testi dahil bir dizi in vitro  ve in vivo  miktar tayininde ve in  vivo fare 
+mikronükleus miktar tayininde genotoksik bulunmamıştır. 
+ 
+Velpatasvir, 26 haftalık transgenik fare ve 2 yaşında sıçan karsinojenisite çalışmasında 
+insan maruziyetinden sırasıyla 67 kat  ve 5 kat  daha yüksek maruziyetlerde  karsinojenik 
+bulunmamıştır.   
+ 
+Velpatasvir, çiftleşme ve fertilite üzerinde advers etki si bulunmamıştır. Velpatasvir ile 
+önerilen klinik dozlarda insan maruziyetinden sırasıyla yaklaşık 23 ve 4 kat daha yüksek EAA maruziyetlerinde gerçekleştirilen fare ve sıçan gelişimsel toksisite çalışmalarında 
+teratojenik etki gözlenmemiştir. Bununla birlikte, önerilen klinik dozda insan maruziyetinin 0,5 katına kadar EAA maruziyetine  maruz kalan hayvanlarda toplam 
+visseral malformasyonlardaki artışın görüldüğü tavşanlarda olası bir teratojenik etki gösterilmiştir. Bu bulgunun insanlarla olan ilgisi bilinmemektedir . Velpatasvirin doğum 
+önce si ve sonrasındaki sıçan çalışmasında, önerile n klinik dozda insan maruziyetinden 
+yaklaşık 3 kat daha yüksek EAA maruziyetlerinde sıçan yavrularının davranışı, üremesi 
+veya gelişimi üzerinde advers etkileri bildirilmemiştir.  
+ 
+Voksilaprevir 
+Voksilaprevir, bakteriyel mutajenite, insan periferik kan lenf ositlerinin kullanıldığı 
+kromozom aberasyon testi dahil bir dizi in vitro  ve in vivo  miktar tayininde ve in vivo  fare 
+mikronükleus miktar tayininde genotoksik bulunmamıştır. 
+ 
+Voksilaprevir için karsinojenite çalışmaları yapılmamıştır.  
+ Voksilaprevir, çiftl eşme ve fertilite üzerinde advers etki si bulunmamıştır.  Voksilaprevir 
+ile önerilen klinik dozlarda insan maruziyetinden sırasıyla yaklaşık 141 ve 4 kat daha 
+yüksek EAA  maruziyetlerinde gerçekleştirilen sıçan ve tavşan gelişimsel toksisite 
+çalışmalarında teratojenik etki gözlenmemiştir.  Voksilaprevirin doğum önce si ve 
+sonrasındaki sıçan çalışmasında, önerilen klinik dozda insan maruziyetinden yaklaşık 238 kat daha yüksek EAA  maruziyetlerinde sıçan yavrularının davranışı, üremesi veya 
+gelişimi üzerinde advers  etkileri bildirilmemiştir.  
+ 
+ 36  6. FARMASÖTİK ÖZELLİKLER  
+ 
+6.1 Yardımcı maddelerin listesi  
+ 
+Tablet çekirdeği : 
+Kolloidal susuz silika  
+Kopovidon  
+Kroskarmel loz sodyum (E468) 
+Laktoz monohidrat (inek sütünden elde edil ir) 
+Magnezyum stearat  
+Mikrokristalin selüloz (E460) 
+ 
+Kaplama maddesi: 
+Ferrosoferrik  oksit (E172)  
+Kırmızı demir oksit (E172)  
+Sarı demir oksit (E172)  Makrogol (E1521) 
+Polivinil alkol (E1203) Talk (E553b) 
+Titan yum dioksit (E171) 
+ 
+6.2 Geçimsizlikler  
+ 
+Geçerli değil.  
+ 
+6.3 Raf ömrü  
+ 48 ay . 
+ 
+6.4 Saklamaya yönelik özel tedbirler  
+ 
+30ºC’nin altındaki oda sıcaklığında ve n emden korumak için orijinal ambalajında 
+saklayınız . Şişeyi sıkıca kapalı olarak saklayınız . 
+ 
+6.5 Ambalajın niteliği ve içeriği 
+ 
+VOSEVI  28 film kaplı tablet silika jel ve bir polyester dolgu malzemesi  içeren  
+polipropi len çocuk kilidi kapağı  bulunan yüksek yoğunluklu polietilen ( HDPE ) şişelerde 
+sunulmuştur . 
+ 
+6.6 Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer  özel önlemler  
+ 
+Kullanılmayan tüm tıbbi ürün veya atık maddeler “Tıbbi Atıkların Kontrolü Yönetmeliği” ve “Ambalaj Atıklarının Kontrolü Yönetmeliği” ne uygun olarak imha 
+edilmelidir.  
+ 
+ 
+  
+ 
+ 
+ 37  7. RUHSAT SAHİBİ  
+ 
+Gilead Sciences İlaç Tic. Ltd. Şti.  
+İçerenköy Mah. Umut Sk . Quick Tower Sitesi No: 10- 12 İç Kapı No:  21  
+Ataşehir /İstanbul  
+Tel: 0216 559 03 00  
+Faks: 0216 504 87 39  
+ 
+8. RUHSAT NUMARASI  
+ 
+2018/ 402 
+ 
+9. İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ  
+ 
+İlk ruhsat t arihi: 25.07.2018 
+Ruhsat yenileme  tarihi: 07.12.2022 
+ 
+10. KÜB’ün YENİLENME TARİHİ  
+ 
+ 

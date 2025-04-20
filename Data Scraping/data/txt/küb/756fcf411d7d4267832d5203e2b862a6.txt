@@ -1,0 +1,672 @@
+ 1/15 
+ KISA ÜRÜN BİLGİSİ  
+ 
+▼ Bu ilaç ek izlemeye tabidir. Bu üçgen yeni güvenlilik bilgisinin hızlı olarak belirlenmesini 
+sağlayacaktır. Sağlık mesleği mensuplarının şüpheli advers reaksiyonları TÜFAM’a bildirmeleri 
+beklenmektedir. Bakınız Bölüm 4.8 Advers reaksiyonlar nasıl raporlanır?  
+ 
+ 
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI  
+ 
+TECHNESCAN  MAG3, 1 mg Radyofarmasötik Hazırlamak İçin Kit   
+2. KALİTATİF VE KANTİTATİF BİLEŞİM  
+ 
+      Etkin madde:  
+      Her bir flakon;  
+      Betiatid          :   1 mg    içerir.  
+ 
+Yardımcı maddeler:  
+Yardımcı maddeler için Bölüm 6.1’e bakınız.  
+ 
+Tanı ajanının hazırlanması için sodyum perteknetat  (99mTc)  ile birlikte kullanımı: Teknesyum  
+(99mTc)  mertiatid . Radyonüklid, kitin bir parçası değildir.  
+ 
+3. FARMASÖTİK FORM  
+Radyofarmasötik preparat için kit . 
+Enjeksiyon için toz içeren flakon . 
+Kirli beyaz ile hafif sarı arası liyofi lizat.  
+4. KLİNİK ÖZELLİKLER  
+ 
+4.1. Tanısal endikasyonlar  
+ 
+Sulandırıldıktan ve sodyum perteknetat (99mTc) çözeltisiyle işaretlendikten sonra, tanısal ajan 
+olan teknesyum (99mTc) mertiatid  özellikle böbreğin morfolojisinin, perfüzyonunun, 
+fonksiyonunun ve üriner boşaltımın karakterizasyonunun araştırılmasında olmak üzere 
+nefrolojik ve ürolojik hastalıkların değerlendirilmesinde kullanılabilir.  
+ 
+4.2. Pozoloji  ve uygulama  şekli  
+ 
+Pozoloji/uygulama  sıklığı  ve süresi:  
+ 
+Yetişkinler ve yaşlılar: Araştırılacak olan patolojiye ve kullanılacak metoda bağlı olarak;  70 kg 
+ağırlığındaki bir yetişkin için önerilen aktivite  40 - 200 MBq  aralığındadır . Renografi, ardışık 
+sintigrafiden da ha küçük aktiviteler gerektirirken; renal kan akışı veya üreterler boyunca 
+transport araştırmaları, genel olarak intrarenal transport araştırmalarından daha yüksek bir doz 
+gerektirir.  
+  2/15 
+ Tanısal yöntem sırasında bir diüretiğin veya bir ACE inhibitörünün uygulanması, bazen 
+nefrolojik ve ürolojik hastalıkların ayırıcı tanısı için kullanılır. Sintigrafik görüntüleme 
+genellikle radyofarmasötik enjeksiyonundan hemen sonra başlatılır.  
+ 
+ 
+Uygulama  şekli:  
+ 
+İntravenöz enjeksiyon yolu ile uygulanır.  
+Çok dozlu kullanım içindir.  
+ 
+Bu tıbbi ürün hastaya uygulanmadan önce sulandırılmalıdır.  
+Uygulamadan önce tıbbi ürünün sulandırılmasıyla ve tıbbi ürünün radyokimyasal saflık 
+kontrolüyle ilgili talimatlar için, bkz. Bölüm 12.  
+ 
+Hastanın hazırlanması için, bkz. Bölüm 4.4.  
+ 
+ 
+Özel popülasyonlara ilişkin ek bilgiler  
+ 
+Böbrek/Karaciğer yetmezliği  
+ 
+Böbrek yetmezliği olan hastalarda radyasyon maruziyeti artabileceğinden uygulanacak aktivite 
+dikkatlice değerlendirilmelidir.  
+Karaciğer yetmezliği olan hastalarda güvenlilik ve etkinliği incelenmemiştir.  
+ 
+Pediyatrik popülasyon  
+ 
+Çocuklarda ve adölesanlarda  uygulanacak aktivite, aşağıdaki formül kullanılarak EANM dozaj 
+kartına (2016) göre belirlenir:  
+ 
+Uygulanacak aktivite A [MBq] = Esas alınan aktivite (11 ,9 MBq) x Katsayı   
+ 
+Uygulanacak aktiviteler aşağıdaki tabloda listelenmiştir:  
+ 
+ 
+Ağırlık (kg)  Aktivite  
+(MBq)   
+Ağırlık (kg)  Aktivite  
+(MBq)   
+Ağırlık (kg)  Aktivite  
+(MBq)  
+3 15 22 36 42 52 
+4 15 24 38 44 54 
+6 18 26 40 46 55 
+8 20 28 41 48 57 
+10 23 30 43 50 58 
+12 26 32 45 52 - 54 60 
+14 28 34 46 56 - 58 62 
+16 30 36 48 60 - 62 65 
+18 32 38 50 64 - 66 67 
+20 34 40 51 68 69 
+  3/15 
+ Çok küçük çocuklarda 15 MBq’lik bir minimum doz, yeterli kalitede görüntülerin elde 
+edilebilmesi için gereklidir.  
+  
+Geriyatrik popülasyon:  
+ 
+Yaşlı hastalar için özel bir doz uygulaması gerekmemektedir.  
+  
+4.3. Kontrendikasyonlar  
+ 
+İçeriğindeki etkin madde ya da yardımcı maddelerden herhangi birine karşı aşırı duyarlılığı olan 
+kişilerde kullanılmamalıdır.  
+ 
+4.4. Özel kullanım uyarıları ve önle mleri 
+ 
+RADYOFARMASÖTİKLER SADECE NÜKLEER TIP UZMANLARI TARAFINDAN 
+NÜKLEER TIP MERKEZLERİNDE UYGULANMALIDIR.  
+ 
+Hipersensitivite veya anafilaktik reaksiyon potansiyeli  
+Eğer, hipersensitivite reaksiyonu veya anafilaktik reaksiyon gelişirse, tıbbi ürünün uygulanması 
+derhal sonlandırılmalıdır ve gerekirse intravenöz tedavi başlatılmalıdır. Acil duru mlarda acil 
+eylem olanağı sağlamak amacıyla, endotrakeal tüp ve ventilatör gibi gerekli tıbbi ürünler ve 
+ekipmanlar her an mevcut bulundurulmalıdır.  
+ 
+Bireysel fayda/risk gerekçelendirilmesi  
+Her bir hasta için iyonize radyasyona maruziyet, muhtemel bir yarar b azında mazur görülebilir 
+olmalıdır. Uygulanacak aktivite, istenilen tanısal sonucun elde edilmesi ihtiyacı dikkate 
+alınarak, ortaya çıkan radyasyon dozunun makul surette bir başarı sağlayacak kadar düşük 
+olması şeklinde olmalıdır.  
+ 
+Hasta hazırlığı  
+Hasta, s intigrafik görüntüleme başlangıcından önce bol su almalıdır ve radyasyonu azaltmak 
+amacıyla, muayene sonrası ilk saatlerde mümkün olduğunca sık idrara çıkması için teşvik 
+edilmelidir.  
+ 
+İşlem sonrası  
+İşlemden sonra infantlarla ve gebe kadınlarla yakın temas  kısıtlanmaz.  
+ 
+Özel uyarılar  
+Ajan, ciddi bir şekilde bozulmuş renal fonksiyonlu hastalarda kan akımı ve efektif renal plazma 
+akışının ayrı ayrı, tam olarak görüntülenmesi için uygun değildir.  
+ 
+99mTc işaretli safsızlıkların küçük miktarları, işaretleme işlemi boyunca mevcut ve/veya oluşmuş 
+olabilir. Bu safsızlıkların bazıları karaciğere dağıldığı ve safra kesesi yoluyla boşaltıldığı için, 
+ilgi bölgesinde böbrek ve karaciğerin çakışması nedeniyle, dinamik bir renal çalışmanın geç 
+dönemini (30 dakika sonra ) etkileyebilir . 
+ 
+Bu tıbbi ürün, her flakonda 1 mmol’den (23 mg) daha az sodyum ihtiva eder; yani esasında 
+“sodyum içermez”.  
+ 
+Çevresel tehlikelere dair önle mler Bölüm 6.6’da verilmiştir.  
+  4/15 
+  
+Pediyatrik popülasyon:  
+ 
+Pediyatrik popülasyonda kullanım bilgisi için, bkz. Bölüm 4.2.  
+MBq başına etkili doz yetişkinlerde olduğundan daha yüksek olduğu için, dikkatli bir 
+endikasyon değerlendirmesi gerekmektedir (bkz. Bölüm 11).  
+ 
+4.5. Diğer tıbbi ürünler ile etkileşi mler ve diğe r etkileşim şekilleri  
+ 
+Teknesyum (99mTc) mertiatid in, yukarıda bahsedilen muayeneleri gerektiren hastalar için 
+sıklıkla reçetelenen ajanlarla (örneğin, antihipertansifler ve organ transplant reddinin tedavisi 
+veya önlenmesinde kullanılan tıbbi ajanlar) etkileşime girdiği tanı mlanmamıştır. Bununla 
+birlikte, bir diüretiğin veya ACE inhibitörünün tekli uygulaması bazen nefrolojik ve ürolojik 
+hastalıkların ayırıcı tanısında kullanılır. Uygulanan kontrast maddeler renal tübüler boşaltımı 
+bozabilir ve dolayısı yla teknesyum (99mTc) mertiatid  klerensini etkileyebilir.  
+ 
+Böbrek kan akışı (örn. asetilsalisilik asit) veya tübüler böbrek atılımı (örn. uygulanan kontrast 
+madde, probenesid, hidroklorotiyazid, diklofenak gibi NSAİİ'ler, sülfonamidler) üzerinde etkisi 
+olan tüm ürünler tübüler böbrek atılımını bozabilir ve böylece teknesyum (99mTc)  mertiatid 
+klerensini etkileyebilir.  
+ 
+Kalsiyum antagonistleri yanlış pozitif kaptopril renogra mlarına neden olabilir. Bu ilaçlar 
+kaptopril renografisinden önce kesilmelidir ve he kimler, bir hastanın kaptopril renogramında 
+bilateral simetrik böbrek fonksiyonlarında bozulma görürse bu olası ilaç etkileşiminin farkında 
+olmalıdır.  
+Özel popülasyonlara ilişkin ek bilgiler:  
+ 
+Özel popülasyonlara ilişkin etkileşim çalışması gerçekleştirilmemiştir.  
+ 
+Pediyatrik popülasyon:  
+ 
+Pediyatrik popülasyona ilişkin etkileşim çalışması gerçekleştirilmemiştir.   
+ 
+4.6. Gebelik ve laktasyon  
+ 
+Genel tavsiye:  
+ 
+Gebelik kategorisi: C  
+ 
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon)  
+ 
+Çocuk doğurma potansiyeli bulunan bir kadına radyoaktif tıbbi ürünlerin uygulanması gerektiği 
+zaman, gebelik durumu daima sorgulanmalıdır. Periyodunda gecikme olan kadınlar aksi 
+ispatlanmadığı sürece gebe kabul edilmelidir. Gebelik şüphesi bulunan ancak kanıtlanamamış 
+durumlarda elde edilmek istenen klinik bilgiye ulaşmak için gereken radyasyon maruziyeti 
+minimum düzeyd e olmalıdır. İyonize radyasyon içermeyen alternatif teknikler düşünülmelidir. 5/15 
+  
+Gebelik dönemi  
+ 
+Gebe kadınlarda yürütülen radyonüklid uygulamalar, aynı zamanda fetüse de radyasyon 
+dozlarının geçişine sebep olur.  
+ 
+Hayvanlar üzerinde yapılan çalışmalar, gebelik/ ve -veya / embriyonal / fetal gelişim/ ve -veya/  
+doğum ve -veya/ doğum sonrası gelişim üzerindeki etkiler bakımından yetersizdir. (Bkz. Bölüm  
+5.3). İnsanlara yönelik potansiyel risk bilinmemektedir.  
+ 
+TECHNESCAN  MAG3 gerekli olmadıkça (uygulaması ile sağlanması düşünülen faydaların, 
+anne ve fetüste doğabilecek potansiyel zarardan daha büyük olduğu duru mlar dışında) gebelikte 
+kullanılmamalıdır.  
+ 
+Laktasyon dönemi  
+ 
+Radyoaktif bir tıbbi ürünün laktasyon dönemindeki bir kadına uygulanmasından önce, anne 
+sütündeki aktivite sekresyonu dikkate alınarak, anne emzirmeyi kesene kadar muayenenin 
+makul surette ertelenip ertelenemeyeceğine ve en uygun radyofarmasötik seçiminin yapılıp 
+yapılmadığına ilişkin değerlendirme yapılmalıdır. Eğer 100 MBq üzerinde bir uygulam a gerekli 
+ise, alınan süt numunelerindeki ölçü mler infant için etkili dozun 1 mSv’den az olacağını 
+gösterene kadar emzirmeye ara verilmesi için anneye tavsiye verilmelidir. 100 MBq altında 
+aktivite uygulanır ise, emzirmeye ara verilmesi gerekli değildir. S üt sağılarak atılmalıdır. 
+Belirsizlik durumunda genellikle, sütteki seviye, çocuğa geçen 1 mSv’den daha fazla bir 
+radyasyon dozuyla sonuçlanmayacağı zaman emzirmenin tekrar başlatılabileceği önerilir.  
+ 
+Sodyum perteknetat  (99mTc)   insan sütüyle atılır. Uygulamanın gerekli olduğu düşünülüyorsa, 
+emzirmeye en az dört saat ara verilmeli ve sağılan besinler atılmalıdır.  
+ 
+Bu süre zarfında infantlarla yakın temas kısıtlanmaz.  
+ 
+Üreme yeteneği/Fertilite  
+ 
+Üreme yeteneği/fertiliteye etkisi üzerinde bir çalışma yapılmamıştır.  
+ 
+ 
+4.7. Araç ve makine kullanımı üzerindeki etkiler  
+ 
+TECHNESCAN  MAG3 ’ün araç ve makine kullanımı üzerinde tanı mlı herhangi bir etkisi 
+yoktur. 6/15 
+  
+4.8. İstenmeyen etkiler  
+ 
+Yan etkilerin değerlendirilmesi, aşağıdaki sıklık verilerine dayanmaktadır. 
+Advers reaksiyonların sıklığı aşağıdaki gibi sıralanmıştır:  
+Çok yaygın (≥ 1/10); yaygın (≥ 1/100 ila < 1/10); yaygın olmayan (≥ 1/1.000 ila < 1/100);  
+seyrek (≥ 1/10.000 ila < 1/1.000); çok seyre k (< 1/10.000), bilinmiyor.  
+ 
+Ürtikeryal  döküntü, göz kapaklarında şişme ve öksürme ile karakterize birkaç hafif anaflaktoid  
+reaksiyon rapor edilmiştir. Bu reaksiyonların oluşum ihtimali az olsa da alerjik reaksiyonların 
+uygun tedavisinde acil kullanım için gerekli olan tıbbi ürünler (adrenalin,  kortikosteroidler ve 
+antihistaminikler) daima mevcut bulundurulmalıdır. Hafif mahiy ette vazovagal reaksiyonlar  
+nadiren rapor edilmiştir.  
+ 
+İyonize radyasyona maruziyet, kanser indüksiyonu ile ilişkilidir ve genetik defektlerin gelişimi 
+için bir potansiyeldir. Etkili doz 1,4 mSv olduğu için,  klinik incelemesini takiben  tavsiye edilen 
+maksi mum aktivite olan 200 MBq uygulandığı zaman, bu yan etkilerin düşük bir olasılıkla 
+ortaya çıkması beklenir.  
+ 
+Sistem Organ Sınıflandırması     
+(SOS)  Advers Reaksiyonlar  Görülme Sıklığı  
+ 
+       İmmün sistem hastalıkları  
+  Hipersensitivite reaksiyonları 
+anaflaksi dahil (örn.  ürtikeryal  
+döküntü, göz kapaklarında şişme, 
+öksürük, mide bulantısı, kusma).   
+        Bilinmiyor  
+ 
+      Sinir sistemi hastalıkları  vazovagal  reaksiyon (örn. nöbet, 
+dispne, kızarıklık, baş ağrısı, yüzde 
+ödem, ağrı, anormal duyarlılık,  baş 
+dönmesi, hipotansiyon, taşikardi).   
+Bilinmiyor  
+Genel hastalıklar uygulama yeri 
+ile ilişkili patolojik durumlar  Enjeksiyon yeri reaksiyonları (örn. 
+deri döküntüsü, ağrı, şişkinlik).  Bilinmiyor  
+ 
+       Şüpheli advers reaksiyonların raporlanması:  
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem 
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine 
+olanak sağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyon u Türkiye 
+Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir (www.titck.gov.tr ; e- posta: 
+tufam@titck.gov.tr ; tel: 0 800 314 00 08; faks: 0312 218 35 99). 7/15 
+  
+4.9. Doz aşımı ve tedavisi  
+ 
+Çok yüksek teknesyum (99mTc)  mertiatid  dozunun riski teorik olarak fazladır ve büyük bir 
+olasılıkla fazla radyasyon maruziyetinden kaynaklanır. Bu gibi duru mlarda, vücuda verilen 
+radyasyon (böbrek, mesane ve safra kesesi) zorlu diürez ve sık mesane boşaltımı yoluyla 
+azaltılabilir.  
+ 
+5. FARMAKOLOJİK ÖZELLİKLER  
+ 
+5.1. Farmakodinamik özellikler  
+ 
+Farmakoterapötik grup:  Diagnostik  radyofarmasötikler,  renal  sistem,  teknesyum  (99mTc) 
+bileşikleri  
+ATC kodu: V09CA03  
+ 
+Teknesyum (99mTc)  mertiatid  enjeksiyonunun öngörülen kimyasal dozlarda bilinen herhangi        
+bir farmakodinamik etkisi bulunmamaktadır.  
+ 
+Böbrekler üzerinden aktivite ölçümü; renal kan akışı, intrarenal tübüler geçiş zamanları ve çıkış 
+kanalları yoluyla boşaltımın her iki böbrek için de ayrı ayrı kaydedilmesine olanak sağlar.  
+ 
+5.2. Farmakokinetik özellikler  
+ 
+      Absorpsiyon:   
+İntravenöz yolla damar içine uygulanır.  
+ 
+Dağılım:  
+Teknesyum  (99mTc)  mertiatid  plazma proteinlerine nispeten yüksek bir bağlanma gösteri r ancak 
+bu bağlanma geri dönüşü mlü olup, teknesyum (99mTc)  mertiatid böbreklerden hızlıca atılır.  
+ 
+Eliminasyon:  
+Teknesyum (99mTc)  mertiatid  intravenöz enjeksiyon sonrası,  böbrekler tarafından  tübüler 
+sekresyon ağırlıklı olmak üzere hızlıca kandan temizlenir. Glomerüler filtrasyon toplam 
+klerensin %11’inden soru mludur. Normal renal fonksiyonda, uygulanan dozun %70’i 30 dakika 
+sonra, %95’ten fazlası ise 3 saat sonra vücuttan atılmış olur. Bu yüzdeler, böbreklerin ve 
+ürogenital sistemin patolojisine bağlıdır . Teknesyum (99mTc) mertiatid’in fiziksel yarı ömrü 
+6,01 saattir.  
+Doğrusallık/ Doğrusal olmayan durum:  
+Veri yoktur.  
+ 
+5.3. Klinik öncesi güvenlilik verileri  
+ 
+Farelerle yapılan toksikoloji çalışmaları; 1,43 ve 14,3 mg/kg'lık tek bir intravenöz enjeksiyonda 
+ölüm gözlenmediğini göstermiştir. Bu, maksimum insan dozunun yaklaşık 1.000 katına karşılık 
+gelmekte olup, bu seviyelerde herhangi bir toksikolojik etki gözle nmemiştir. Sıçanlarda 14 gün  8/15 
+ boyunca 0,43 mg/kg/gün tekrarlanan uygulama ile toksisite gözlenmemiştir. Bu tıbbi ürün 
+düzenli veya sürekli uygulama için tasarlanmamıştır.  
+ 
+Mutajenisite çalışmaları yanında akut, subakut (8 gün) ve kronik (13 hafta) toksisite  çalışmaları 
+yürütülmüş olup herhangi bir mutajenik etki gözlenmemiştir.  
+ 
+Uzun süreli karsinojenisite çalışmaları yapılmamıştır.  
+ 
+6. FARMASÖTİK ÖZELLİKLER  
+ 
+6.1. Yardımcı maddelerin listesi  
+ 
+Disodyum tartarat dihidrat 
+Kalay (II) klorür dihidrat 
+Hidroklorik asit (pH ayarı için)  
+ 
+6.2. Geçimsizlikler  
+ 
+Başlıca   geçimsizlikler:   Bilinmiyor . 
+Bu tıbbi ürün, Teknesyum (99mTc)  mertiatid’in stabilitesinin bozulmaması için Bölüm 12’de 
+bahsedilen ilaçlar dışında başka ilaçlarla karıştırılmamalıdır.  
+ 
+6.3. Raf ömrü  
+ 
+12 ay. 
+ 
+İşaretlemeden sonra: 25 °C’nin altındaki oda sıcaklığında 8 saat boyunca stabildir.  
+6.4. Saklamaya yönelik özel tedbirler  
+ 
+TECHNESCAN  MAG3, 2 - 8 °C’de saklanır. Tıbbi ürünün radyoaktif işaretlendikten sonraki 
+saklama koşulları için, bkz. Bölüm 6.3.  
+ 
+Radyofarmasötiklerin saklanması, TENMAK’ın (Türkiye Enerji, Nükleer ve Maden Araştırma 
+Kurumu)  radyoaktif ürünler ile ilgili yönetmelik ve mevzuat hükümlerine göre yapılır.  
+ 
+6.5. Ambalajın niteliği ve içeriği  
+ 
+Butil plastik tıpa ile kapatılmış, alüminyum  sıkıştırmalı başlık ile mühürlenmiş 10 mL Tip I cam 
+flakon T ECHNESCAN  MAG3, karton kutu içerisinde 5 flakon olarak tedarik edilir.  
+ 
+Tanısal ajan olan teknesyum (99mTc)  mertiatidin hazırlanmasında, sodyum perteknetat (99mTc) 
+ile birlikte kullanılır. Radyo nüklid , kitin bir parçası değildir.  
+ 
+6.6. Beşeri tıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler  
+ 
+Radyofarmasötikler, belirtilen klinik talimatlar doğrultusunda yalnızca yetkili kişiler tarafından 
+toplanmalı, kullanılmalı ve uygulanmalıdır. Radyofarmasötiklerin toplanması, saklanması, 
+kullanımı, sevkiyatı ve imhası ilgili mevzuatlar hüküm lerince gerçekleştirilir.   9/15 
+ Radyofarmasötikler, hem radyasyon güvenliliği hem de farmasötik kalite gerekliliklerini 
+karşılayacak şekilde hazırl anmalıdır. Uygun aseptik önlem ler alınmalıdır.  
+ 
+Flakon içeriği yalnızca teknesyum (99mTc)  mertiatid hazırlanmasında kullanılma amaçlıdır ve 
+ilk olarak hazırlık prosedürünü geçmeden direkt olarak hastaya uygulanmaz.  
+ 
+Tıbbi ürünün hazırlanma talimatları için, bkz. Bölüm 12.  
+ 
+Ürünün hazırlanışındaki herhangi bir zamanda flakonların bütünlüğü bozulur ise, flakonlar 
+kullanılmamalıdır.  
+ 
+Uygulama işlem leri, tıbbi ürünün kontaminasyon riskini ve uygulayıcının radyasyona 
+maruziyetini en aza indirecek şekilde yür ütülmelidir. Yeterli korunma zorunludur.  
+ 
+Sulandırma yapılmadan önce, kitin içeriği radyoaktif değildir. Fakat, sodyum perteknetat 
+(99mTc)  ilavesi sonrasında, bitmiş preparatın yeterli radyasyon koruması devam ettirilmelidir.  
+ 
+Radyofarmasötiklerin uygulan ması; harici radyasyon veya idrardan sıçramalar, kusmuk vs. 
+kaynaklı kontaminasyon dolayısıyla diğer kişiler için risklere yol açar. Radyasyondan korunma 
+önlem leri, ilgili ulusal mevzuatlara uygun olarak alınmalıdır.  
+ 
+Atık imhası için talimatlar:  
+ 
+Kullanılmayan teknesyum (99mTc) mertiatidin, ilgili mevzuat uyarınca aktivite radyoaktif olarak 
+nitelendirilmeyecek kadar düşük bir seviyeye düşene kadar bozunmasına izin verilmelidir. Daha 
+sonra zararsız atık olarak imha edilebilir.  
+Tüm kullanılmayan ürün  veya atık radyoaktif maddeler “Tıbbi Atıkların Kontrolü Yönetmeliği”, 
+“Radyoaktif Madde Kullanımından Oluşacak Atıklara Dair Yönetmelik” ve “Ambalaj ve 
+Ambalaj Atıklarının Kontrolü Yönetmelikleri”ne uygun olarak imha edilmelidir.  
+ 
+7. RUHSAT SAHİBİ  
+ 
+NEPHA TIBBİ CİHAZLAR SANAYİ VE TİCARET A.Ş.  
+Sedat Simavi Sok. No: 21/A Gül Apt.  
+06550 Çankaya/ANKARA  
+Tel             : +90 312 441 88 14  
+Faks          : +90 312 438 72 60  
+e-posta      : nepha@nepha.com.tr  
+ 
+8. RUHSAT  NUMARASI  
+       2024/260  
+ 
+9. İLK RUHSAT TARİHİ/RUHSAT YENİLEME TARİHİ  
+ 
+İlk ruhsat tarihi:  08.08.2024  
+Ruhsat yenileme tarihi:  
+ 
+10. KÜB’ÜN YENİLENME TARİHİ   10/15 
+ 11. DOZİMETRİ  
+ 
+Absorbe edilen dozlar: 99mTc MAG3 (Normal renal fonksiyon)  
+99mTc 6,02 sa  
+Uygulanan birim aktivite başına absorbe edilen doz (mGy/MBq)  
+Organ  Yetişkin  15 yaş  10 yaş  5 yaş  1 yaş  
+Adrenal bezler  3,9E-04 5,1E-04 8,2E-04 1,2E-03 2,5E-03 
+Mesane  1,1E-01 1,4E-01 1,7E-01 1,8E-01 3,2E-01 
+Kemik yüzeyleri  1,3E-03 1,6E-03 2,1E-03 2,4E-03 4,3E-03 
+Beyin  1,0E-04 1,3E-04 2,2E-04 3,5E-04 6,1E-04 
+Meme  1,0E-04 1,4E-04 2,4E-04 3,9E-04 8,2E-04 
+Safra kesesi  5,7E-04 8,7E-04 2,0E-03 1,7E-03 2,8E-03 
+Gİ kanal:  
+Mide  3,9E-04 4,9E-04 9,7E-04 1,3E-03 2,5E-03 
+İnce bağırsak  2,3E-03 3,0E-03 4,2E-03 4,6E-03 7,8E-03 
+Kolon  3,4E-03 4,3E-03 5,9E-03 6,0E-03 9,8E-03 
+Üst kalın bağırsak  1,7E-03 2,3E-03 3,4E-03 4,0E-03 6,7E-03) 
+Alt kalın bağırsak  5,7E-03 7,0E-03 9,2E-03 8,7E-03 1,4E-02) 
+Kalp  1,8E-04 2,4E-04 3,7E-04 5,7E-04 1,2E-03 
+ 
+Böbrekler       3,4E-03             4,2E-03           5,9E-03             8,4E-03           1,5E-02 
+Karaciğer  3,1E-04 4,3E-04 7,5E-04 1,1E-03 2,1E-03 
+Akciğerler  1,5E-04 2,1E-04 3,3E-04 5,0E-04 1,0E-03 
+Kaslar  1,4E-03 1,7E-03 2,2E-03 2,4E-03 4,1E-03 
+Özefagus  1,3E-04 1,8E-04 2,8E-04 4,4E-04 8,2E-04 
+Overler  5,4E-03 6,9E-03 8,7E-03 8,7E-03 1,4E-02 
+Pankreas  4,0E-04 5,0E-04 9,3E-04 1,3E-03 2,5E-03 
+Kırmızı kemik iliği  9,3E-04 1,2E-03 1,6E-03 1,5E-03 2,1E-03 
+Deri 4,6E-04 5,7E-04 8,3E-04 9,7E-04 1,8E-03 
+Dalak  3,6E-04 4,9E-04 7,9E-04 1,2E-03 2,3E-03 
+Testisler  3,7E-03 5,3E-03 8,1E-03 8,7E-03 1,6E-02 
+Timus  1,3E-04 1,8E-04 2,8E-04 4,4E-04 8,2E-04 
+Tiroit  1,3E-04 1,6E-04 2,7E-04 4,4E-04 8,2E-04 
+Uterus  1,2E-02 1,4E-02 1,9E-02 1,9E-02 3,1E-02 
+Diğer organlar  1,3E-03 1,6E-03 2,1E-03 2,2E-03 3,6E-03 
+Etkili doz (mSv/MBq)  7,0E-03 9,0E-03 1,2E-02 1,2E-02 2,2E-02 
+ Mesane duvarı etkili dozun %80’ine kadar katkı sağlar.  
+ Uygulamadan sonra mesane 1 veya 0,5 saat sonra boşalıyor ise etkili doz:  
+ 
+1 saat  2,5E-03 3,1E-03 4,5E-03 6,4E-03 6,4E-03 
+30 dk  1,7E-03 2,1E-03 2,9E-03 3,9E-03 6,8E-03  11/15 
+ Ağırlığı 70 kg olan bir yetişkin için 200 MBq'lik bir aktivitenin uygulanmasından kaynaklanan 
+etkin doz yaklaşık 1,4 mSv'dir.  
+Uygulanan 200 MBq'lik bir aktivite için hedef organa  (böbrekler) verilen tipik radyasyon dozu 
+0,68 mGy ve kritik organa (idrar kesesi duvarı) verilen tipik radyasyon dozu 22 mGy'dir.  
+ 
+Absorbe edilen dozlar: 99mTc MAG3 (Anormal renal fonksiyon)  
+99mTc 6,02 sa  
+Uygulanan birim aktivite başına absorbe edilen doz  (mGy/MBq)  
+ 
+Organ  Yetişkin  15 yaş  10 yaş  5 yaş  1 yaş  
+Adrenal bezler  1,6E-03 2,1E-03 3,2E-03 4,8E-03 8,6E-03 
+Mesane  8,3E-02 1,1E-01 1,3E-01 1,3E-01 2,3E-01 
+Kemik yüzeyleri  2,2E-03 2,7E-03 3,8E-03 5,0E-03 9,1E-03 
+Beyin  6,1E-04 7,7E-04 1,3E-03 2,0E-03 3,6E-03 
+Meme  5,4E-04 7,0E-04 1,1E-03 1,7E-03 3,2E-03 
+Safra kesesi  1,6E-03 2,2E-03 3,8E-03 4,6E-03 6,4E-03 
+Gİ kanal:  
+Mide  1,2E-03 1,5E-03 2,6E-03 3,5E-03 6,1E-03 
+İnce bağırsak  2,7E-03 3,5E-03 5,0E-03 6,0E-03 1,0E-02 
+Kolon  3,5E-03 4,4E-03 6,1E-03 6,9E-03 1,1E-02 
+Üst kalın bağırsak  2,2E-03 3,0E-03 4,3E-03 5,6E-03 9,3E-03) 
+Alt kalın bağırsak  5,1E-03 6,3E-03 8,5E-03 8,6E-03 1,4E-02) 
+Kalp                                   9,1E-04          1,2E-03          1,8E-03          2,7E-03          4,8E-03 
+Böbrekler  1,4E-02 1,7E-02 2,4E-02 3,4E-02 5,9E-02 
+Karaciğer  1,4E-03 1,8E-03 2,7E-03 3,8E-03 6,6E-03 
+Akciğerler  7,9E-04 1,1E-03 1,6E-03 2,4E-03 4,5E-03 
+Kaslar  1,7E-03 2,1E-03 2,9E-03 3,6E-03 6,4E-03 
+Özefagus  7,4E-04 9,7E-04 1,5E-03 2,3E-03 4,1E-03 
+Overler  4,9E-03 6,3E-03 8,1E-03 8,7E-03 1,4E-02 
+Pankreas  1,5E-03 1,9E-03 2,9E-03 4,3E-03 7,4E-03 
+Kırmızı kemik iliği  1,5E-03 1,9E-03 2,6E-03 3,1E-03 5,0E-03 
+Deri 7,8E-04 9,6E-04 1,5E-03 2,0E-03 3,8E-03 
+Dalak  1,5E-03 1,9E-03 2,9E-03 4,3E-03 7,4E-03 
+Testisler  3,4E-03 4,7E-03 7,1E-03 7,8E-03 1,4E-02 
+Timus  7,4E-04 9,7E-04 1,5E-03 2,3E-03 4,1E-03 
+Tiroit  7,3E-04 9,5E-04 1,5E-03 2,4E-03 4,4E-03 
+Uterus  1,0E-02 1,2E-02 1,6E-02 1,6E-02 2,7E-02 
+Diğer organlar  1,7E-03 2,1E-03 2,8E-03 3,4E-03 6,0E-03 
+Etkili  doz (mSv/MBq)  6,1E-03 7,8E-03 1,0E-02 1,1E-02 1,9E-02  12/15 
+ Ağırlığı 70 kg olan bir yetişkin için  önerilen  maksimum  200 MBq ’lik bir  aktivitenin 
+uygulanmasından kaynaklanan etkin doz yaklaşık 1,22 mSv'dir.  
+Uygulanan 200 MBq ’lik bir aktivite için hedef organa (böbrek) tipik radyasyon dozu 2,8 mGy 
+ve kritik organa (idrar kesesi duvarı) tipik radyasyon dozu 16,6 mGy'dir.  
+ 
+Absorbe edilen dozlar: 99mTc MAG3 (Akut unilateral renal blokaj)  
+99mTc 6,02 sa  
+Uygulanan birim aktivite başına absorbe edilen doz (mGy/MBq)  
+ 
+Organ  Yetişkin  15 yaş  10 yaş  5 yaş  1 yaş  
+Adrenal bezler  1,1E-02 1,4E-02 2,2E-02 3,2E-02 5,5E-02 
+Mesane  5,6E-02 7,1E-02 9,1E-02 9,3E-02 1,7E-01 
+Kemik yüzeyleri  3,1E 03  4,0E-03 5,8E-03 8,4E-03 1,7E-02 
+Beyin  1,1E-04 1,4E-04 2,3E-04 3,9E-04 7,5E-04 
+Meme  3,8E-04 5,1E-04 1,0E-03 1,6E-03 3,0E-03 
+Safra kesesi  6,2E-03 7,3E-03 1,0E-02 1,6E-02 2,3E-02 
+Gİ kanal:  
+Mide  3,9E-03 4,4E-03 7,0E-03 9,3E-03 1,2E-02 
+İnce bağırsak  4,3E-03 5,5E-03 8,5E-03 1,2E-02 1,9E-02 
+Kolon  3,9E-03 5,0E-03 7,2E-03 9,2E-03 1,5E-03 
+Üst kalın bağırsak  4,0E-03 5,1E-03 7,6E-03 1,0E-02 1,6E-02) 
+Alt kalın bağırsak  3,8E-03 4,8E-03 6,7E-03 8,2E-03 1,3E-02) 
+Kalp  1,3E-03 1,6E-03 2,7E-03 4,0E-03 6,1E-03 
+Böbrekler  2,0E-01 2,4E-01 3,3E-01 4,7E-01 8,1E-01 
+Karaciğer  4,4E-03 5,4E-03 8,1E-03 1,1E-02 1,7E-02 
+Akciğerler  1,1E-03 1,6E-03 2,5E-03 3,9E-03 7,2E-03 
+Kaslar     2,2E-03          2,7E-03          3,7E-03          5,1E-03          8,9E-03 
+Özefagus  3,8E-04 5,4E-04 8,5E-04 1,5E-03 2,3E-03 
+Overler  3,8E-03 5,1E-03 7,1E-03 9,2E-03 1,5E-02 
+Pankreas  7,4E-03 9,0E-03 1,3E-02 1,8E-02 2,9E-02 
+Kırmızı kemik iliği  3,0E-03 3,6E-03 5,0E-03 6,0E-03 8,3E-03 
+Deri 8,2E-04 1,0E-03 1,5E-03 2,2E-03 4,2E-03 
+Dalak  9,8E-03 1,2E-02 1,8E-02 2,6E-02 4,0E-02 
+Testisler  2,0E-03 2,9E-03 4,5E-03 5,0E-03 9,8E-03 
+Timus  3,8E-04 5,4E-04 8,5E-04 1,5E-03 2,3E-03 
+Tiroit  1,7E-04 2,3E-04 4,5E-04 9,2E-04 1,6E-03 
+Uterus  7,2E-03 8,7E-03 1,2E-02 1,3E-02 2,2E-02 
+Diğer organlar  2,1E-03 2,6E-03 3,6E-03 4,7E-03 8,0E-03 
+Etkili doz (mSv/MBq)  1,0E-02 1,2E-02 1,7E-02 2,2E-02 3,8E-02  13/15 
+ Ağırlığı 70 kg olan bir yetişkin için önerilen maksimum 200 MBq’lik bir aktivitenin 
+uygulanmasından kaynaklanan etkin doz yaklaşık 2,0 mSv'dir.  
+Uygulanan 200 MBq'lik bir aktivite için hedef organa (böbrek) tipik radyasyon dozu 40 mGy 
+ve kritik organa (idrar kesesi duvarı) tipik radyasyon dozu 11,2 mGy'dir.  
+ 
+12. RADYOFARMASÖTİKLERİN HAZIRLANMASINA YÖNELİK TALİMATLAR  
+ 
+Enjeksiyonla çekme işlem leri aseptik koşullar altında yapılmalıdır. Flakonlar tıpa dezenfekte 
+edilmeden önce asla açılmamalıdır, çö zelti uygun koruyucu zırhlama ve tek kullanım lık steril bir 
+iğne ile donatılmış tek dozluk bir şırınga veya uygun bir otomatik uygulama sistemi kullanılarak 
+tıpa yoluyla çekilmelidir.  
+ 
+Flakonun bütünlüğünün bozulması durumunda, ürün kullanılmamalıdır.  
+ 
+Flakon içeriği, sodyum perteknetat (99mTc) çözeltisi ile işaretlenir. Sulandırma işleminden sonra, 
+tanısal ajan olan teknesyum (99mTc) mertiatid ısıtma ile elde edilir.  
+Mümkün olan en küçük hacim li bir eluat kullanıldığında, işaretli safsızlıkların oluşumu  minimum 
+düzeydedir. Bu sebeple, mümkün olan en yüksek radyoaktif konsantrasyonlu eluat kullanılarak 
+işaretleme yapılmalıdır. Sadece önceki 24 saat içinde elue edilmiş bir 99mTc jeneratörden elde 
+edilen eluatlar kullanılmalıdır. Ayrıca, yalnızca bir haftad an daha kısa süredir kullanımda olan bir 
+99mTc jeneratörden elde edilen eluatlar kullanılmalıdır.  Preparatın seyreltilmesi enjeksiyonluk 
+sodyum klorür 9 mg/mL çözeltisi ile yapılmalıdır. Sulandırma ve işaretlemeden sonra, çözelti bir 
+veya daha fazla uygula ma için kullanılabilir.  
+ 
+Hazırlama metodu   
+Fraksiyonlanmış elüsyon tekniğine göre 5 mL’lik bir hacimde bir 99mTc jeneratörü elue edilir ve 
+jeneratör kullanımı için talimatlar izlenir. Maksimum 3 mL eluat kullanılır. Maksimum 2960 MBq 
+(80 mCi)’lik bir 99mTc’nin gerekli miktarı  enjeksiyon için 9 mg/mL sodyum klorür çözeltisi ile 10 
+mL hacme seyreltilmelidir. Bu hacim T ECHNESCAN  MAG3 ’ün bir flakonuna eklenir.  
+ 
+Bunun için, ponksiyon deliğinin tekrar kapanabilmesi için ince bir iğne (G20 veya daha yüksek) 
+kullan ılmalıdır. Bu, takip eden ısıtma ve soğutma basamakları boyunca flakona su girmesini önler.  
+ 
+Daha önceden 120 °C’ye ısıtılmış bir kuru ısı cihazında veya kaynar su banyosunda hemen 10 
+dakika boyunca ısıtılır. İşaretleme işlemini olumsuz bir şekilde etkiley ecek olan plastik tıpadan eser 
+miktarda metal açığa çıkmasını önlemek için, ısıtma boyunca flakon dik vaziyette tutulmalıdır. 
+Flakon soğuk suda oda sıcaklığına kadar soğutulur. Preparat uygulama için hazırdır. Eğer gerekirse, 
+.enjeksiyon için sodyum klorür  9 mg/mL çözeltisi ile seyreltme mümkündür.  
+Bu teknesyum (99mTc) mertiatid preparatı, ısıtma basamağının tamamlanmasından sonra 8 saate 
+kadar kullanılabilir.  
+ 
+ 
+ 
+ 
+ 
+ 
+  14/15 
+ İşaretleme sonrası tıbbi ürünün özellikleri:  
+Berrak – hafif opalesan , renksiz, sulu çözelti  
+pH            : 5,0 – 6,0 
+Osmolalite: hafif hipertonik  
+ 
+İşaretleme işlemi boyunca önlemler  
+ 
+Isıtma ve soğutma basamakları boyunca flakon içeriğinde herhangi bir kontaminasyon 
+oluşmadığına göstermek için, kullanıcıya ısıtma ve soğutma banyosuna uygun bir boyar madde 
+eklemesi tavsiye edilir (örneğin, %1’lik bir konsantrasyon elde etmek için metilen  mavisi veya    
+%0,1’lik bir konsantrasyon elde etmek için sodyum flöresin). Radyoaktif işaretli ürün flakonu 
+kullanımdan önce kontaminasyon açısından incelenmelidir (uygun radyolojik koruyucu önlemler 
+alınmalıdır).  
+ 
+Kalite kontrol talimatları  
+ 
+Aşağıdaki me totlar kullanılabilir:  
+ 
+1- HPLC metodu:  
+ 
+İşaretli bileşiğin radyokimyasal saflığı; yüksek performanslı sıvı kromatografisi (HPLC) ile, uygun 
+bir radyoaktivite dedektörü kullanılarak, 25 cm’lik bir RP18 kolonunda, 1,0 mL/dk akış hızında 
+incelenir. Mobil faz  A, 93:7’lik bir fosfat çözeltisi (0,1 M NaOH ile pH 6’ya ayarlı 1,36 g KH2PO4) 
+ve etanol karışımıdır. Mobil faz B, 1:9’luk bir su ve metanol karışımıdır.  
+ 
+Aşağıdaki parametreler ile bir gradyan elüsyon programı kullanılır:  
+ 
+Zaman (dk):  Akış (mL/dk):  % A % B 
+10 1 100 0 
+15 1 0 100 
+ 
+Teknesyum  (99mTc) mertiatid piki, mobil faz A’nın akışının sonunda görünür.  
+Enjeksiyon hacmi 20 µl’dir ve kanal başına toplam sayım hızı 30.000’i aşmamalıdır. 
+Gereklilik:  
+ t=0 8 saat sonra  
+Teknesyum (99mTc) m ertiatid  ≥ %95 ≥ %94 
+Toplam ön fraksiyon  ≤ %3 ≤ %3 
+Metanol fraksiyonu  ≤ %4 ≤ %4 
+ 
+2- Kolaylaştırılmış Sep-Pak çabuk prosedür  
+ 
+Bu metot yukarıda bahsedilen metoda alternatif olarak kullanılabilir. Bu metodun amacı, 
+hastanedeki kullanıcı tarafından uygulandığı sırada işaretleme işleminin kontrolüdür.  
+Metot, kromatografi için sulu çözeltilerin örnek ön işlemi olarak yaygın bir şekilde kullanılan 
+kartuşlara dayanmaktadır.   15/15 
+  
+Materyaller;  
+ 1 mL ve 10 mL’lik iğneler  
+ Waters Sep -Pak C18 Plus kısa kartuş, kartuş başına 360 mg s orbent; WAT020515 numaralı 
+ürün 
+ Saf etanol  
+ 0,001 M Hidroklorik asit (HCl)  
+ Etanol/Salin (Etanol - Sodyum klorür çözeltisi 9 g/L (oran 1:1))  
+ 
+Kademeli Süreç  
+Kartuş (örneğin Sep -Pak C18 Plus kısa kartuş) 10 mL saf etanol ve ardından 10 mL 0,001 M HCl 
+ile yıka nır. Çözeltilerin kalan kalıntıları 5 mL hava ile uzaklaştırılır. Teknesyum (99mTc)  mertiatid 
+çözeltisi (0,1 mL) kartuş üzerine uygulanır. Tüm farklı adımlar sırasında kolonun kurumaması 
+önemlidir. Damla damla 10 mL 0,001 M HCl ile elue edilir ve eluat to planır. Bu ilk eluat tüm 
+hidrofilik safsızlıkları içerir.  
+Ardından, kartuş 10 mL etanol/salin (1:1 h/h) çözeltisiyle damla damla elue edilir. Bu ikinci eluat 
+teknesyum (99mTc)  mertiatid içerir. Kartuş elue edilemeyen tüm safsızlıkları içerir.  
+ 
+Radyokimyasal saflık/safsızlıkların hesaplanması  
+Birleştirilmiş elue radyoaktivite plus kartuşu %100 olarak kullanın.  
+ 
+            Aktivite 2. eluat * %100  
+Radyokimyasal saflık =  
+                                          Kombine elue edilmiş aktivite (1. ve 2. eluatlar) + kartuş  
+ 
+ 
+               Aktivite (1. Eluat ya da kartuş)  * %100  
+Radyokimyasal safsızlıklar =  
+                                                  Kombine elue edi lmiş aktivite (1. ve 2. eluatlar) + kartuş  
+ 
+Gereklilik:  
+ 
+ t=0 8 saat sonra  
+Teknesyum (99mTc) mertiatid  
+(2. eluat)  ≥ %94 ≥ %94 
+Hidrofilik safsızlıklar  
+(1. eluat)  ≤ %3 ≤ %3 
+Elue edilemeyen safsızlıklar  
+( kartuş)  ≤ %4 ≤ %4 
+ 

@@ -1,0 +1,876 @@
+ 
+ 
+ 
+ 
+ 1/16 KISA ÜRÜN BİLGİSİ  
+ 
+▼ Bu ilaç ek izlemeye tabidir. Bu üçgen yeni güvenlilik bilgisinin hızlı olarak belirlenmesini 
+sağlayacaktır. Sağlık mesleği mensuplarının şüpheli advers reaksiyonları TÜFAM’a bildirmeleri 
+beklenmektedir. Bakınız Bölüm 4.8 Advers reaksiyonlar nasıl raporlanır?  
+ 
+1. BEŞERİ TIBBİ ÜRÜNÜN ADI  
+ 
+JAVLOR 250 mg/10  ml İnfüzyonluk Konsantre Çözelti  
+ 
+2. KALİTATİF VE KANTİTATİF BİLEŞİM  
+ 
+Etkin madde:   
+1 ml konsantre çözelti 25 mg vinflunin ( ditartrat) içerir.   
+ 
+Yardımcı maddeler:  
+Yardımcı maddeler için 6.1 ’e bakınız.  
+ 
+3. FARMASÖTİK FORM  
+ 
+İnfüzyonluk Konsantre Çözelti (steril konsantre)  
+Berrak, renksiz  veya  soluk sarı çözelti  
+ 
+4. KLİNİK ÖZELLİKLER  
+ 
+4.1 Terapötik endikasyonlar  
+ 
+JAVLOR ileri evre, metastatik ürotelyal kanserde birinci basamak platin içeren kemoterapi 
+sonrası hastalık prog resyonu gösteren ve ECOG performans durumu 0 -1 düzeyinde olan 
+hastaların sistematik tedavisinde endikedir.  
+ 
+4.2 Pozoloji  ve uygula ma şekli  
+ 
+Vinflunin tedavisi antikanser kemoterapisi kullanımında uzmanlaşmış olan bir doktorun 
+sorumluluğu altında başlatılmalıdır ve sitotoksik kemoter api uygulamasında uzman ünitelerde  
+uygulanmalıdır . 
+ 
+Nötropeni, trombositopeni ve anemi vinfluninin sık görülen bir advers reaksiyonu olduğundan, 
+her siklüsten önce mutlak nötrofil sayılarını (MNS), trombosit sayısını ve hemoglobini  
+doğrulamak için tam kan sayımları uygun şekilde gözlemlenmelidir.  
+ 
+Pozoloji  
+Önerilen pozoloji 3 haftada bir 20 dakikalık intravenöz infüzyon olarak verilen 320 mg/m2 
+vinflunin dozudur.  
+ 
+WHO/ECOG performans statüsünün (PS) 1 veya 0 olması ve daha önce pelvik irradyasyon 
+uygulanmış olması durumunda, tedaviye 280 mg/m2 dozunda başlanmalıdır. İlk siklüste 
+tedavinin ert elenmesine veya dozun azaltılmasına neden olan hematolojik bir toksisite 
+gözlenmezse doz sonraki siklüsler için üç haftalık aralıklarla 320 mg/m2’ye artırılacaktır.  
+  
+ 
+ 
+ 
+ 2/16 Önerilen ko -medikasyon  
+Konstipasyonu önlemek için, her vinflunin uygulamasından sonra gün 1’den gün 5 veya gün 
+7’ye kadar oral hidrasyon dahil laksatif ve diyet önlemleri önerilmektedir (bakınız bölüm 4.4).  
+ 
+Toksisite nedeniyle doz ertelenmesi ya da bırakılması  
+ 
+Tablo 1. Toksisite nedeniyle sonraki siklüsler doz ertelenmesi  
+Toksisite  Gün 1 tedavi uygulama  
+Nötropeni ( MNS < 1000/mm3) ya da  
+Trombositopeni  (trombositler < 100,000/mm3) - tedavi  düzelme olana kadar ertelenir   
+(MNS  1,000/mm3  ve trombositler 
+ 100,000/mm3) ve gerekirse doz ayarlanır 
+(bakınız tablo 2)  
+- 2 hafta içinde iyileşme görülmezse tedavi 
+bırakılır  
+Organ toksisitesi: orta, şiddetli ya da hayatı 
+tehdit edici  -hafif toksisiteye kadar iyileşinceye kadar veya 
+ilk başlangıç durumuna  gelene  kadar tedavi 
+ertelenir ve gerekirse doz ayarlanır        
+(bakınız tablo 2)  
+-2 hafta içinde iyileşme görülmezse tedavi 
+bırakılır  
+Miyorkard infarktüsü ya da anjina pectoris 
+hikayesi olan hastalarda kardiyak iskemi  - tedavi bırakılır  
+ 
+Toksisite nedeniyle dozun ayarlanması  
+ 
+Tablo 2 . Toksisite nedeniyle doz ayarlama sı 
+Toksisite  Doz ayarlaması  
+(NCI CTC  v 2.0)*  başlangıç vinflunin dozu   
+320 mg/m2 başlangıç  vinflunin dozu   
+280 mg/m2 
+ İlk Olay  2. ardışık 
+olay 3.ardışık 
+olay İlk Olay  2.ardışık olay  
+Nötropeni Derece 4 
+(MNS <500/mm3)>7gün  
+280 mg/m2 250 mg/m2 Tedavinin 
+kesin olarak 
+bırakılması  250 mg/m2 Tedavinin 
+kesin olarak 
+bırakılması  Febril Nötropeni  
+(MNS <1000/mm3 ve 
+ateş ≥38.5°C)  
+Mukozit veya 
+Konstipasyon Derece 2  
+≥5 gün veya Derece ≥3 
+herhangi süre1 
+Başka bir toksisite  
+Derece ≥3  
+(Derece 3 kusma veya 
+bulantı2 dışında)  
+*Ulusal Kanser Enstitüsü. Ortak Toksisite Kriterleri (NCI -CTC v 2.0)  
+1NCI CTC Derece 2 konstipasyon laksatif kullanımı gerekir, Derece 3 manuel tahliye ya da lavman gerekir, Derece 
+4 intestinal obstrüksiyon ya da toksik megakolon. Mukozit Derece 2 “orta”, Derece 3 “şiddetli” ve  Derece 4 “hayatı 
+tehdit edici” olarak tanımlanır.  
+2NCI CTC Derece 3 bulantı intravenöz sıvı takviyesi gerekir, Derece 3 kusma, tedavi öncesi ≥ 24 saatte 6  epizod ise; 
+intavenöz sıvı tak viyesine ihtiyaç.   
+ 
+ 
+ 
+ 3/16 Özel popüla syonlara ilişkin ek bilgiler  
+ 
+Karaciğer Yetmezliği:  
+Karaciğer fonksiyonları bozulmuş olan hastalarda bir farmakokinetik ve tolerabilite faz I 
+çalışması tamamlanmıştır (bakınız bölüm 5.2). Bu hastalarda vinflunin farmakokine tiklerinde 
+değişme olmamıştır ama vinflunin uygulamasını takiben hepatik biyolojik parametrelerdeki 
+değişmelere göre (gamma glutamil transferazlar (GGT), transaminazlar, bilirubin) doz önerileri 
+aşağıdaki gibidir:  
+ 
+- Doz ayarlaması gerekmeyen hastalar:  
+       - Protrombin zamanı >%70 ND ( Normal Değer)  olan ve aşağıdaki kriterlerden en az biri 
+bulunan: [ÜNS (Üst Normal Sınır)<bilirubin≤1.5 ÜNS ve/veya 
+1.5ÜNS<transaminazlar≤2.5 ÜNS ve/veya ÜNS <GGT≤5ÜNS].  
+       - transaminazlar  ≤2.5ÜNS (<5ÜNS sadece karaciğer metastazı durumunda).  
+ 
+- Hafif karaciğer yetmezliği (Child -Pugh derece A) olan ya da protrombin zamanı    % 60 ND 
+ve  1.5ÜNS  < bilirubin   3ÜNS  ve en az aşağıdaki kriterlerden biri bulunan : 
+[transaminazlar >  ÜNS ve/veya GGT  > 5ÜNS ] hastalarda  önerilen vinflunin dozu 3 haftada 
+bir kez 250  mg/m2’dir. 
+ 
+- Orta derecede karaciğer yetmezliği  (Child -Pugh derece B)  olan ya da protrombin zamanı          
+  %50 ND  ve bilirubin > 3 ÜNS ve transaminazlar > ÜNS ve GGT > ÜNS olan hastalarda 
+önerilen vinflunin dozu her 3 haftada bir kez 200  mg/m2’dir. 
+ 
+Vinflunin şi ddetli karaciğer yetmezliği (Child -Pugh derece C) olan ya da protrombin zamanı      
+< %50 ND  ya da bilirubin > 5 ÜNS ya da izole transaminazları > 2.5 ÜNS (sadece karaciğer 
+metastazı durumunda  ≥ 5ÜNS)  ya da GGT>15 ÜNS olan hasta larda değerlendirilmemiştir.  
+ 
+Böbrek Yetmezliği : 
+Klinik çalışmalara   CrCl (kreatinin klirensi)>60 ml/dak olan hastalar dahil edilmiş ve önerilen 
+dozda tedavi edilmişlerdir.  
+Orta dereceli böbrek yetmezliği olan hastalarda (40 ml/dak ≤CrCl≤60 ml/dak) önerilen  doz 3 
+haftada bir 280 mg/m2’dir. 
+Şiddetli böbrek yetmezliği olan hastalarda (20 ml/dak ≤CrCl<40 ml/dak) önerilen doz 3 haftada 
+bir 250 mg/m2’dir (bakınız bölüm 5.2).  
+ 
+Başka siklüsler için toksisite durumunda doz tablo 3’de gösterildiği şekilde ayarlanmalıd ır. 
+ 
+Geriyatrik Popülasyon:  ( >75 yaş)  
+75 yaşın altındaki hastalarda yaşa göre doz ayarlaması gerekli değildir (bkz. Bölüm 5.2).  
+75 yaş ve üzeri  hastalarda önerilen dozlar aşağıdaki gibidir:  
+-En az 75 yaşında ve 80 yaşından küçük hastalarda vinflunin dozu  her 3 haftada bir                 
+280 mg/m2’dir 
+- En az 80 yaş ve üzeri hastalarda vinflunin dozu 3 haftada bir 250mg/m2’dir. 
+ 
+Sonraki siklüslerde doz toksisite durumuna göre aşağıda yer alan tablo 3’deki gibi 
+ayarlanmalıdır:  
+ 
+  
+ 
+ 
+ 
+ 4/16 Tablo 3: Böbrek yetmezliği olan ya da geriyatrik hastalarda toksisite nedeniyle doz 
+ayarlaması  
+ 
+Toksisite  
+(NCI CTC v 2.0)*   
+Doz ayarlaması  
+ 280 mg/m2 vinflunin 
+başlangıç dozu  250 mg/m2 vinflunin 
+başlangıç dozu  
+ İlk olay  2. ardışık olay  İlk olay  2. ardışık olay  
+Nötropeni Derece 4  
+(MNS < 500/mm3)> 7 gün  
+250 mg/m2  
+Tedavinin 
+kesin olarak 
+bırakılması  225 mg/m2 Tedavinin 
+kesin olarak 
+bırakılması  Febril Nötropeni  
+(MNS < 1,000/mm3 ve  
+ateş≥  38,5°C)  
+Mukozit ya da Konstipasyon 
+Derece 2≥ 5 gün ya da 
+Derece≥ 3 herhangi süre1 
+Başka toksisite Derece≥ 3 
+(şiddetli ya da hayatı tehdit 
+edici) (Derece 3 kusma ya da 
+bulantı hariç2) 
+*Ulusal Kanser Enstitüsü. Ortak Toksisite Kriterleri Versiyon 2 (NCI CTC v 2.0)  
+1NCI CTC Derece 2 konstipasyon laksatif kullanımını gerektirir, Derece  3 manuel tahliye ya da lavman gerektirir, 
+Derece 4 intestinal obstrüksiyon ya da toksik megakolon. Mukozit Derece 2 “orta”, Derece 3 “şiddetli” ve  Derece 4 
+“hayatı tehdit edici” olarak tanımlanır.  
+2NCI CTC Derece 3 bulantı intravenöz sıvı takviyesi gerek ir, Derece 3 kusma, tedavi öncesi ≥ 24 saatte 6  epizod ise; 
+intavenöz sıvı tak viyesine ihtiyaç.  
+ 
+Pediyatrik popülasyon:  
+Pediyatrik popülasyonda kullanılmamaktadır . 
+ 
+Uygulama şekli  
+ 
+JAVLOR  uygulanmadan önce seyreltilmelidir. JAVLOR  sadece tek kullanımlıktır.  
+Uygulama öncesi seyreltme talimatları için bakınız bölüm 6.6.  
+JAVLOR  YALNIZCA intravenöz yoldan uygulanmalıdır. JAVLOR  20 dakikalık intravenöz 
+infüzyonla uygulanmalı ve hızlı intravenöz bolus olarak VERİLMEMELİDİR.  
+Vinflunin uyg ulaması için periferik damar yolu veya santral kateter kullanılabilir. Periferik 
+venden infüzyon uygulandığında, vinflunin venöz tahrişe yol açabilir (bakınız bölüm 4.4). 
+Venlerin küçük veya skleroze olması, lenfödem, aynı vene yakın zamanda giriş yapılmış  olması 
+durumunda santral kateter kullanımı tercih edilebilir. Ekstravazasyonlardan kaçınmak için, 
+infüzyona başlanmadan önce iğnenin doğru yerleştirildiğinden emin olunması önemlidir.  
+Veni yıkamak için, seyreltilmiş  J AVLOR ’dan sonra daima en az aynı haci mde 9 mg/ml ( % 0.9) 
+sodyum klorür infüzyonluk çözelti veya 50 mg/ml (%5) glukoz infüzyonluk çözelti verilmelidir.  
+Ayrıntılı uygulama bilgileri için, bakınız bölüm 6.6.  
+ 
+4.3 Kontrendikasyonlar  
+ 
+- Etkin maddeye veya diğer vinka alkaloidlerine karşı hipersensitivite  
+- Yakın zamanda (2 hafta içinde) geçirilmiş veya mevcut şiddetli enfeksiyon  
+- İlk uygulama için b aşlangıç MNS <1,500/mm3 , daha sonraki  uygulamalar için başlangıç 
+MNS <1,000/mm3 (bkz. Bölüm 4.4)   
+ 
+ 
+ 
+ 5/16 - Trombositler<100,000/mm3 (bkz. Bölüm 4.4)  
+- Laktasy on (bkz. B ölüm 4.6)  
+ 
+4.4 Özel kullanım u yarılar ı ve önlemler i 
+ 
+Hematolojik toksisite  
+Nötropeni , lökopeni, anemi ve trombositopeni vinfluninin sık görülen advers reaksiyonlarıdır . 
+Her vinflunin infüzyonundan önce MNS , trombosit ve hemoglobin değerlerini  doğrulamak için 
+tam kan sayımları yeterli  şekilde monitörize edilmelidir (bkz. Bölüm 4.3).  
+Vinflunin başlanması MNS <1,500/mm3 veya trombositler<100,000/mm3 olduğunda 
+kontrendikedir. Sonraki uygulamalarda, vinflunin MNS <1,000/mm3 ve/veya 
+trombositler<100,0 00/mm3 olduğunda kontrendikedir . 
+Hematolojik toksisitesi olan hastalarda önerilen doz azalt ılmalıdır (bkz. B ölüm 4.2).  
+ 
+Gastrointestinal bozukluklar  
+Tedavi edilen hastaların %15.3’ünde Derece ≥3 konstipasyon  oluşmuştur.  NCI CTC Derece 3 
+konstipasyon manu el tahliye ya da lavman gerektiren inatçı kabızlık olarak, Derece 4 
+konstipasyon intestinal obstrüksiyon ya da toksik megakolon olarak tanımlanır.  Konstipasyon 
+geri dönüşümlüdür ve o ral hidrasyon , lifli  gıdaların alınması gibi diyet önlemleriyle ve stimula nt 
+laksatifler gibi laksatifler ya da fekal yumuşatıcılar ın tedavinin 1. gününden 5 veya 7.gününe  
+kadar uygulanmasıyla önlenebilir. Konstipasyon riski yüksek olan hastalar (opiatlarla eşlik eden 
+tedavi, peritoneal karsinomlar, abdominal kütleler, önceden ağır abdominal cerrahi) 1.günden 
+7.güne kadar sabahları kahvaltıdan önce günde bir defa uygulanan osmotik  bir laksatif ile tedavi 
+edilmelidir.  
+Beş günden uzun süren , laksatif gerektiren Derece 2 konstipasyon ve ya herhangi süredeki 
+Derece≥3 konstipasyon du rumunda vinfluni n dozu ayarlanmalıdır (bkz. B ölüm 4.2).  
+ 
+Derece ≥3 gastrointestinal toksisite (kusma veya bulantı dışında) ve mukozit (5 gü nden uzun 
+süren Derece 2 ve her hangi süredeki Derece≥3) durumunda dozun ayarlanması gereklidir . 
+Derece 2 “orta”,  Derece 3 “şiddetli” ve Derece 4 “hayatı tehdit edici” olarak tanımlanmaktadır 
+(bkz B ölüm 4.2 , Tablo 2 ). 
+ 
+Kardiyak bozukluklar  
+Vinflunin uygulanmasından sonra az sayıda QT aralığı uzaması gözlemlenmiştir. Vinflunin ile 
+ventriküler aritmiler gözlemlenmemiş olma sına rağmen bu  etki ventriküler aritmilerin riskinin 
+artmasına yol açabilir . Yine de proaritmik riski artmış olan hastalarda vinflunin dikkatle 
+kullanılmalıdır (örn., konjestif kalp yetmezliği, bilinen QT aralığı uzama öyk üsü, hipokalemi) 
+(bkz Bölüm 4.8). İki veya daha fazla QT/QTc aralığını uzatan maddenin birlikte kull anılması 
+önerilmemektedir (bkz B ölüm 4.5).  
+Vinflunin önceden miyokard enfarktüsü/iskemi  veya angina pectoris öyküsü olan hastalara 
+uygulanırken özellikle  dikkatli olunmalıdır (bkz B ölüm 4.8). Özellikle altta yatan kalp hastalığı 
+olan hastalarda iskemik kardiyak olaylar meydana gelebilir. Bu nedenle, JAVLOR  alan hastalar 
+doktorlar tarafından kardiyak olaylar yönünden yakından izlenmelidir. Kardiyak hastalık öyküsü 
+olan hastalarda dikk atli olunmalı ve düzenli olarak yarar/risk değerlendirmesi yapılmalıdır. 
+Kardiyak iskemi gelişen hastalarda vinfluninin kesilmesi düşünülmelidir.  
+ 
+Posterior Reversi bl Ensefalopati  Sendromu ( PRES ) 
+Vinflunin uygulamasından sonra  Posterior Reversibl  Ensefalop ati Sendromu vakaları 
+gözlenmiştir.   
+ 
+ 
+ 
+ 6/16 Tipik klinik semptomlar , değişen derecelerde: nörolojik (baş ağrısı, konfüzyon, nöbe t, görme 
+bozuklukları), sistemik (hipertansiyon) ve gastrointestinal (bulantı, kusma) semptomlardır.  
+Radyolojik işaretler beyinin posterior bölgesindeki beyaz madde anormallikleridir. Posterior 
+Reversibl  Ensefalopati Sendromu  semptomları görülen hastalarda kan basıncı kontrol 
+edilmelidir. Teşhisi teyit etmek için beyin görüntüleme yapılması önerilmektedir . 
+Klinik ve radyolojik özellikler genellikle tedavinin bırakılmasından sonra sekel bırakmadan hızlı 
+bir şekilde düzelir.  
+Posterior Reversibl  Ensefalopati Sendromu’un  nörolojik işaretleri görülen hastalarda vinflunin 
+tedavisinin kesilmesi düşünülmelidir (bk z Bölüm 4.8).  
+ 
+Hiponatremi  
+Vinfluninin kullanılması ile uygunsuz antidi üretik hormon salınımı sendromununun (UAHSS ) 
+neden olduğu vakalar da dahil şiddetli hiponatremi (bkz. Bölüm 4.8). Bu nedenle, vinflunin ile 
+tedavi sırasında serum sodyum  seviyesinin düzenli takip edilmesi önerilir.  
+ 
+Hepatik  yetmezlik  
+Hepatik yetmezliği olan hastalarda öneril en doz azaltılmalıdır (bkz. B ölüm 4.2).  
+ 
+Renal yetmezlik  
+Orta dereceli veya şiddetli renal yetmezliği olan hastalarda önerilen doz azaltılmalıdır (bkz. 
+Bölüm 4.2).  
+ 
+Geriyatrik hastalar (≥75 yaş)  
+75 yaş ve üzeri hastalarda önerilen doz azaltılmalıdır (bkz. Bölüm 4.2).  
+ 
+Etkileşimler  
+CYP3A4  potent  inhibitörlerinin veya potent indüktörlerinin vinflunin ile birlikte kullanımından 
+kaçınılmalıdır (bkz. Bölüm 4.5). 
+ 
+Uygulama  
+JAVLOR’un intratekal uygulanması ölümcül olabilir.  
+Bir periferik venden infüzyonla verildiğinde vinflunin Derece 1 (hastaların %22’si, siklüslerin 
+%14.1’i), Derece 2 (hastaların %11.0’i, siklüslerin %6.8’i) veya Derece 3 (hastaların %0.8’i,  
+siklüslerin %0.2’si) venöz iritasyonu indükleyebilir. Bütün olgular tedavi kesilmeden hızla 
+iyileşmişlerdir. Bölüm 6.6’da tarif edilen uygulama talimatları izlenmelidir.  
+ 
+Kontrasepsiyon  
+Üreme potansiyeli olan erkekler ve kadınlar tedavi sırasında ve son v influnin uygulamasından 3 
+ay sonrasına kadar etkili bir kontrasepsiyon yöntemi kullanmalıdırlar (bkz. B ölüm 4.6).  
+ 
+4.5. Diğer tıbbi ürünler  ile etkileşim ler ve diğer etkileşim şekil leri 
+ 
+İn vitro  çalışmalar vinfluninin CYP1A2, CYP2B6 veya CYP3A4 aktivitesi üzerinde indükleyici 
+etkilerinin veya  CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6 ve CYP3A4 
+üzerinde inhibisyon etkilerinin olmadığını göstermiştir.  
+ 
+İn vitro  çalışmalar vinfluninin diğer v inka alkaloidleri gibi bir Pgp substratı olduğunu ama 
+afinitesinin daha düşük olduğunu göstermiştir. Bu nedenle, klinik açıdan anlamlı etkileşim riski 
+olası değildir.   
+ 
+ 
+ 
+ 7/16 Vinfluninin sisplatin , karboplatin, kapesitabin veya gemsitabin ile kombine edildiği has talarda 
+farmakokinetik etkileşim gözlemlenmemiştir.  
+Vinfluninin doksorubisin ile kombine edildiği hastalarda farmakokinetik etkileşim 
+gözlemlenmemiştir.  Fakat bu kombinasyon özellikle yüksek riskli hematolojik toksisite ile 
+ilişkilidir.  
+ 
+Ketokonazol tedavi sinin (güçlü bir CYP3A4 inhibitörü) vinflunin farmakokinetiği üzerindeki 
+etkisini değerlendiren bir faz 1 çalışması, ketokonazolün birlikte uygulanmasının (8 gün süreyle 
+oral yoldan günde bir defa 400 mg) vinfluninin ve onun metaboliti olan 4-O-deasetil vinfluninin 
+(DVFL)  kan maruziyetlerinde sırasıyla %30 ve %50 artışla sonuçlandığını göstermiştir.  
+ 
+Bu nedenle, vinflunin ve DVFL konsantrasyonlarını artırabileceğinden, vinfluninin ve güçlü 
+CYP3A4 inhibitörlerinin (ritonavir, ketokonazol, itrakonazol ve grey furt suyu gibi) veya 
+indüktörlerinin (rifampisin ve Hypericum perforatum (St Johns wort) gibi) birlikte kullanı mından 
+kaçınılmalıdır (bkz B ölüm 4.4 ve 5.2).  
+ 
+Vinfluninin başka QT/QTc aralığını uzatan ilaçlarla birlikte kullanımından kaçınılma lıdır (Bkz 
+Bölüm 4.4).  
+ 
+Vinflunin ve pegile/lipozomal doksorubisin arasında bir farmakokinetik etkileşim gözlemlenmiş 
+olup bu etkileşim vinflunin maruziyetinde görünürde %15 ila %30’luk bir artışa ve doksorubisin 
+EAA ’sinde görünürde 2 -3 kat azalmaya yol açarken doksorub isinol metaboliti konsantrasyonları 
+etkilenmemiştir. Bir in vitro  çalışmaya göre, bu gibi değişimler vinfluninin lipozomlara 
+adsorpsiyonuyla ve her iki bileşiğin  kandaki dağılımının değişmesine bağlı olabilir. Bu nedenle, 
+söz konusu kombinasyon kullanıldığ ında dikkatli olunmalıdır.  
+ 
+Bir in vitro  çalışmada paklitaksel ve dosetak sel (CYP3 substratları) ile  olası bir etkileşim olduğu 
+düşünülmüştür (vinflunin metabolizmasında hafif inhibisyon). Bu bileşiklerle vinflunin 
+kombinasyonu için spesifik klinik çalışma lar henüz yapılmamıştır.  
+ 
+Opioidlerin eşlik eden kullanımı konstipasyon riskini artırabilir.  
+ 
+4.6. Gebelik ve laktasyon  
+ 
+Genel tavsiye  : C  
+Çocuk doğurma potansiyeli bulunan kadınlar/Doğum kontrolü (Kontrasepsiyon)  
+Terapinin kesilmesinden sonra üç aya kadar erkek ve kadın hastalar yeterli kontraseptif 
+önlemler i almalıdır.  
+ 
+Gebelik dönemi  
+Gebe kadınlarda vinflunin kullanımına ilişkin veri mevcut değildir. Hayvanlardaki çalışmalar 
+embriyotoksisite ve t eratojenisiteyi göstermiştir (bkz. B ölüm 5.3). Hayvan çalışmalarının ve tıbbi 
+ürünün farmakolojik etkisine dayanarak potansiyel bir embriyon ik ve fetal anomali riski vardır.  
+Vinflunin bu nedenle, kesinlikle gerekli olmadıkça gebelikte kullanılmamalıdır. Tedavi sırasında 
+gebelik meydana gelirse hasta doğmamış çocuktaki riskler hakkında bilgilendirilmeli ve dikkatle 
+izlenmelidir. Genetik danışmanlık olasılığı göz önün de bulundurul malıdır. Tedaviden sonra 
+çocuk sahibi olmak isteyen hastalar için de genetik danışmanlık öneril mekted ir. 
+ 
+ 
+  
+ 
+ 
+ 
+ 8/16 Laktasyon dönemi  
+Vinflunin ve metabolitlerinin anne sütüne geçip geçmediği bilinmemektedir. Bebekler üzerindeki 
+olası çok zararlı etkilerinden ötürü vinflunin tedavisi sırasında e mzirme kontrendikedir (bkz 
+Bölüm 4.3).  
+ 
+Üreme yeteneği/ Fertilite  
+Vinflunin terapisinden sonra geri dönüşümsüz infertilite olasılığı bulunduğundan t edaviden önce 
+spermlerin saklanması tavsiyesinde bulunulmalıdır . 
+ 
+4.7. Araç ve makine kullan ımı üzerindeki etkiler  
+ 
+JAVLOR yorgunluk (çok yaygın) ve baş dönmesi (yaygın)  gibi araç ve makine kullanma 
+yeteneği üzerinde minör ya da orta derecede etkiye yol açabilecek yan etkilere neden olabilir.  Bu 
+potansiyel yan etkileri yaşamaları halinde hastalara araç ve makine kullanmamaları önerilmelidir 
+(bkz. Bölüm 4.8).  
+ 
+4.8. İstenme yen etkiler  
+ 
+Güvenlik profilinin özeti  
+Ürotelyumun tranzisyonel hücreli karsinomu olan hastalarda (vinflunin ile tedavi edilen 450 
+hasta) yapılan iki adet faz II ve bir adet faz III çalışmasında tedaviyle -ilişkili olarak en sık 
+bildirilen advers reaksiyonlar ; hematolojik bozukluklar , ağırlıklı olarak nötropeni, anemi; 
+gastrointestinal bozukluklar, özellikle konstipasyon, anoreksi, bulantı, stoma tit/mukozit, kusma, 
+abdominal ağrı ve diyare  ve asteni/yorgunluk gibi genel bozukluklardır.  
+ 
+Yan etkiler in tablosu  
+Advers reaksiyonlar aşağıda Sistem Organ Sınıf ı, sıklık ve şiddet derecesine (NCI CTC versiyon 
+2.0) göre listelenmiştir. Advers reaksiyonların sıklığı aşağıdaki yaklaşım kullanılarak 
+tanımlanmıştır: Çok  yaygın  (≥1/10); yaygın  (≥1/100 ila <1/10);  yaygın  değil (≥1/1000 ila 
+<1/100); seyrek  (≥1/10,000 ila <1/1,000), çok seyrek  (<1/10,000), bilinm iyor (mev cut verilerden 
+hesaplanamayan). Her yaygın lık grubu içinde, adve rs reaksiyonlar azalan ciddiyete  göre 
+sunulmuştur.  
+   
+ 
+ 
+ 
+ 9/16  
+Tablo 4 . Ürotelyumun tranzisyonel hücreli karsinomu için vinflunin ile tedavi edilen 
+hastalarda gözlenen advers reaksiyonla r 
+Sistem Organ Sınıfı  Sıklık  Advers Reaksiyonlar  Hastaların en kötü NCI Derecesi (%)  
+   Bütün dereceler  Derece 3 -4 
+Enfeksiyonlar ve 
+Enfestasyonlar  Yaygın  Nötropenik 
+enfeksiyon   2.4 2.4 
+Enfeksiyonlar (viral, 
+bakteriyel, fungal)  7.6 3.6 
+Yaygın değil  Nötropenik sepsis  0.2 0.2 
+Benign, malign ve 
+tanımlanmamış 
+neoplasm  Yaygın değil  Tümör ağrısı  0.2 0.2 
+Kan ve lenfatik sistem 
+hastalıkları  Çok yaygın  Nötropeni  79.6 54.6 
+Lökopeni  84.5 45.2 
+Anemi  92.8 17.3 
+Trombositopeni  53.5 4.9 
+Yaygın  Febril nötropeni  6.7 6.7 
+Bağışıklık sistemi 
+hastalıkları  Yaygın  Hipersensitivite  1.3 0.2 
+Endokrin hastalıkları  Yaygın değil  Uygunsuz 
+Antidiüretik Hormon 
+Salınımı Sendromu 
+(UAHSS )a 0.4b 0.4b 
+Metabolizma ve 
+beslenme hastalıkları  Çok yaygın  Hiponatremi  39.8 11.7 
+Azalmış iştah  34.2 2.7 
+Yaygın  Dehidrasyon  4.4 2.0 
+Psikiyatrik hastalıklar  Yaygın  İnsomni  5.1 0.2 
+Sinir sistemi 
+hastalıkları  Çok yaygın  Periferik duy usal 
+nöropati  11.3 0.9 
+Yaygın  Senkop  1.1 1.1 
+Baş ağrısı  6.2 0.7 
+Başdönmesi  5.3 0.4 
+Nevralji  4.4 0.4 
+Disguzi  3.3 0 
+Nöropati  1.3 0 
+Yaygın değil  Periferik motor 
+nöropati  0.4 0 
+Seyrek  Posterior reversibl 
+ensefalopati 
+sendromua 0.03b 0.03b 
+Göz hastalıkları  Yaygın değil  Görme bozukluğu  0.4 0 
+Kulak ve iç kulak 
+hastalıkları  Yaygın  Kulak ağrısı  1.1 0 
+Yaygın  değil  Vertigo  0.9 0.4 
+Tinnitus  0.9 0 
+Kardiyak hastalıklar  Yaygın  Taşikardi  1.8 0.2 
+Yaygın  değil  Miyokard iskemisi  0.7 0.7 
+Miyokard enfarktüsü  0.2 0.2 
+Vasküler hastalıklar  Yaygın  Hipertansiyon  3.1 1.6 
+Ven trombozu  3.6 0.4 
+Flebit  2.4 0 
+Hipotansiyon  1.1 0.2 
+Solunum, göğüs 
+bozuklukları ve 
+mediastinal 
+hastalıklar  Yaygın  Dispne  4.2 0.4 
+Öksürük  2.2 0 
+Yaygın  değil  Akut respiratuar 
+distres sendromu  0.2 0.2 
+Faringolaringeal ağrı  0.9 0 
+Gastrointestinal 
+hastalıklar  Çok yaygın  Konstipasyon  54.9 15.1 
+Abdominal ağrı  21.6 4.7 
+Kusma  27.3 2.9 
+Bulantı  40.9 2.9 
+Stomatit  27.1 2.7 
+Diyare  12.9 0.9  
+ 
+ 
+ 
+ 10/16 Yaygın  İleus  2.7 2.2 
+Disfaji  2.0 0.4 
+Bukkal  bozukluklar  4.0 0.2 
+Dispepsi  5.1 0.2 
+Yaygın  değil  Odinofaji  0.4 0.2 
+Gastrik bozukluklar  0.8 0 
+Özofajit  0.4 0.2 
+Dişeti bozuklukları  0.7 0 
+Deri ve derialtı doku 
+hastalıkları  Çok yaygın  Alopesi  28.9 NA 
+Yaygın  Kızarıklık  1.8 0 
+Ürtiker  1.1 0 
+Pruritus  1.1 0 
+Hiperhidroz  1.1 0 
+Yaygın değil  Deri kuruluğu  0.9 0 
+Eritem  0.4 0 
+Kas iskelet 
+bozuklukları, bağ 
+doku ve kemik 
+hastalıkları  Çok yaygın  Miyalji  16.7 3.1 
+Yaygın  Kas güçsüzlüğü  1.8 0.7 
+Artralji  7.1 0.4 
+Sırt ağrısı  4.9 0.4 
+Çene ağrısı  5.6 0 
+Ekstremite ağrısı  2.4 0 
+Kemik ağrısı  2.9 0 
+Kas-iskelet ağrısı  2.7 0.2 
+Böbrek ve idrar yolu 
+hastalıkları  Yaygın  değil  Renal yetmezlik  0.2 0.2 
+Genel bozukluklar ve 
+uygulama bölgesine 
+ilişkin hastalıklar  Çok yaygın  Asteni/Yorgunluk  55.3 15.8 
+Enjeksiyon yeri 
+reaksiyonu  26.4 0.4 
+Pireksi  11.7 0.4 
+Yaygın  Göğüs ağrısı  4.7 0.9 
+Ürperme  2.2 0.2 
+Ağrı 3.1 0.2 
+Ödem  1.1 0 
+Yaygın  değil  Ekstravazasyon  0.7 0 
+Araştırmalar  Çok yaygın  Kilo verme  24.0 0.4 
+Yaygın  değil  Transaminazlarda 
+artış 0.4 0 
+Kilo alma  0.2 0 
+apazarlama sonrası deneyimlerden rapor edilen advers reaksiyonlar  
+bnon-TCCU klinik çalışmaya göre sıklık hesaplanmıştır  
+ 
+Diğer endikasyonlardaki advers reaksiyonlar  
+Ürotelyumun tranzisyonel hücreli karsinomu olan hastalarda veya endikasyon dışındaki 
+hastalıkları olan hastalarda meydana gelen potansiyel olarak şiddetli  advers reaksiyonlar ve 
+vinka alkaloidlerinin a sınıf etkisi olan advers reaksi yonlar aş ağıda tarif edilmiştir:  
+ 
+Kan ve lenfatik sistem hastalıkları  
+Hastaların  %43.8’inde  derece 3/4 nötropeni gözlemlenmiştir. Şiddetli anemi ve trombositopeni 
+yaygın lığı daha azdır (sırasıyla %8.8 ve %3.1 ). MNS <1,000/mm3 ve klinik mikrobiyolojik olarak 
+belgelen miş enfeksiyon olmaksızın  nedeni bilinmeyen ateş  ≥38.5°C olarak tanımlanan febril 
+nötropeni (NCI C TC versiyon 2.0) hastaların %5.2’sinde gözlemlenmiştir. D erece  3/4 nötropeni 
+ile bir likte enfeksiyon, hastaların %2.8’i nde gözlemlenmiştir.  
+Toplamda 8  hasta (t edavi edilen popülasyonun %0.6’sı ) nötropeni sırasında meydana gelen bir 
+komplikasyon olan enfeksiyonlardan dolayı ölmüştür.  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 11/16 Gastrointestinal hastalıklar  
+Konsti pasyon vinka alkaloidlerinin a  sınıf etkisidir: hastaların %11.8’i  vinflunin tedavi si 
+sırasında şiddetli konstipasyon yaşamışlardır. Derece 3/4 ileus , hastaların %1.9’unda  bildirilmiş 
+olup bu, tıbbi tedaviyle geri dönüşlüdür. Konstipasyon tıbbi tedavi yle tedavi edilmiştir (bkz. 
+Bölüm 4.4).  
+ 
+Sinir sistemi hastalıkları  
+Duyusal periferik nö ropati vinka alkaloidlerinin a  sınıf etk isidir. Derece 3 hastaların %0.6’sında  
+oluşmuştur. Bütün hastalar çalışma sırasında iyileşmişlerdir.  
+Nadir vakalarda Posterior Reversibl Ensefalopati Sendromu rapor edilmiştir (bkz. Bölüm 4.4).  
+ 
+Kardiyovasküler hasta lıklar  
+Kardiyak etkiler v inka alkaloidlerinin bilinen bir a  sınıf etkisidir. Miyokard enfark tüsü veya 
+iskemi hastaların %0.5’inde  meydana gelmiş olup bunların çoğunda önceden mevcut 
+kardiyovasküler hastalık veya risk faktörleri bulunmaktadır. Bir hasta miyokard enfarktüsünden 
+sonra ölmüş ve bir başka hasta kardiyopulmoner arest nedeniyle ölmüştür. Vinflunin 
+uygulanmasından sonra az sayıda QT aralığı uzaması gözlemlenmiştir.  
+ 
+Solunum, göğüs bozuklukları ve mediastinal hastalıklar  
+Dispne hastaların %3.2’sinde  meydana gelmiştir ama nadiren şiddetlidir (Derece 3/4 :  %1.2 ). 
+Bronkospazm, vinflunin ile farklı bir endikasyonda tedavi edilen  bir hastada bildirilmiştir.  
+ 
+Şüpheli advers reaksiyonların raporlanması:  
+Ruhsatlandırma sonrası şüpheli ilaç advers reaksiyonlarının raporlanması büyük önem 
+taşımaktadır. Raporlama yapılması, ilacın yarar/risk dengesinin sürekli olarak izlenmesine 
+olanak s ağlar. Sağlık mesleği mensuplarının herhangi bir şüpheli advers reaksiyonu Türkiye 
+Farmakovijilans Merkezi (TÜFAM)’ne bildirmeleri gerekmektedir. ( www.titck.gov.tr ; e-
+posta: tufam@titck.gov.tr ; tel: 0 800 314 00 08; faks: 0 312 218 35 99)  
+ 
+4.9. Doz aşımı 
+ 
+Vinflunin aşırı dozuna bağlı esas toksik etki şiddetli enfeksiyon riskinin olduğu kemik iliği 
+süpresyonudur.  
+Vinflunin aşırı dozu  için bilinen bir antidot yoktur. Aşırı doz durumunda, hasta özel  bir birimde 
+tutulmalı ve vital fonksiyonları yakından izlenmelidir. Kan transfüzyonları, antibiyotiklerin ve 
+büyüme faktörlerinin uygulanması gibi diğer uygun önlemler alınmalıdır.  
+ 
+ 
+5. FARMAKOLOJİK ÖZELLİKLER  
+ 
+5.1.  Farmakodinamik özellikler  
+ 
+Farmakotera pötik gru p: Antineoplastik ajanlar, v inka alkaloidleri ve analogları  
+ATC kodu:  L01CA05  
+ 
+Etki mekanizması  
+Vinflunin vinka bağlanma yerlerinde ya da bu yerlerin yakınında tubuline bağlanarak 
+mikrotübüllere polimerizasyonu inhibe etmektedir  ve bu  da süpresyon, mikrotübül dinamiğinin 
+bozulması, mitozun durması ve apoptoz ile sonuçlanmaktadır. İn vivo olarak vinflunin farelerde  
+  
+ 
+ 
+ 
+ 12/16 gerek sağkalımın uzaması gerekse tümör büyümesinin inhibisyonu yoluyla insan ksenogreftlerin 
+geniş bir spektrumuna karşı anlamlı antitümör aktivite göstermektedir.  
+ 
+Klinik etkililik ve güvenlilik  
+Bir adet faz III ve iki adet faz II çalışması ileri veya me tastatik ürotelyal tranzisyonel hücreli 
+kanserlerde önceki platin içeren rejimlerle tedavide başarısızlıktan sonra iki nci basamak terapi 
+olarak JAVLOR ’un kullanılmasını desteklemektedir.  
+ 
+İki adet çok  merkezli, açık, tek kollu faz II klinik çalışmada topl am 202 hasta vinflunin ile tedavi 
+edilmiştir.  
+ 
+Çok merkezli, açık, kontrollü, faz III klinik ç alışmada, 253 hasta vinflunin+BS C (en iyi 
+destekleyici bakım) tedavisine ve 117 hasta BSC koluna randomize edilmiştir. Medyan genel 
+sağkalım 6.9 ay (vinflunin+BSC ) ve 4.6 aydır (BSC) ama aradaki fark istatistiksel anlamlılığa 
+ulaşmamış olup risk oranı 0.88’dir (%95 GA, 0.69, 1.12). Ancak, progresyonsuz sağkalımda 
+istatistiksel olarak anlamlı bir etki görülmüştür. Medyan progresyonsuz sağkalım 3.0 ay  
+(vinflunin+BSC ) ve 1.5 ay (BSC) olmuştur (p=0.0012).  
+ 
+İlaveten, ITT popülasyonunda gerçekleştirilen önceden tanımlanmış multivaryant analiz, 
+prognostik faktörler (PS, viseral tutulum, alkali fosfatazlar, hemoglobin, pelvik irradyasyon) göz 
+önüne alındığında vinfluninin genel sağkalımın üzerinde istatistiksel olarak anlamlı bir tedavi 
+etkisinin olduğunu (p=0.036) göstermiş olup risk oranı 0.77’dir (%95 GA 0.61,  0.98). Tedaviye 
+uygun popülasyonda (başlangıçta anlamlı protokol ihlalleri olan ve çalışmaya uygun bulunmayan 
+13 hasta dışında) genel sağkalımda da istatistiksel olarak anlamlı bir fark  (p=0.040)  görülmüştür; 
+risk oranı 0.78 (%95 GA 0.61, 0.99). Bu, etkinlik analizi için en anlamlı popülasyondur çünkü 
+tedavisi denenen popülasyona en yakın olan bu popülasyondur.  
+ 
+Sisplatin kullan an ve kullanmayan hastalarda etkinlik gösterilmiştir.  
+Tedaviye uygun bulunan popülasyonda, genel sağkalımda ( GS) önceden s isplatin kullanımı ve 
+BSC karşılaştırması yapılan alt grup analizlerinde , önceden s isplatin kullanılmadığında risk oranı 
+(%95 GA) = [0.64(0.40 -1.03); p=0.0821)],  önceden s isplatin kullanı ldığında ise  (%95  GA) = 
+[0.80(0.60-1.06); p=0. 1263 )] olarak bulunmuştur. Prognostik faktörlere göre ayarlama 
+yapıldığında, sisplatin alan ve almayan hasta alt gruplarındaki GS analizlerinde  risk oranı (HR) 
+sırasıyla (%95 GA)=[0.5 3(0.32-0.88); p=0.01 43] ve HR (%95 GA) =[0.70(0.53-0.94); p=0.0 174] 
+olarak bulunmuştur.  
+Önceden sisplatin  kullanımı ile progresyonsuz sağ kalım için ve BSC karşılaştırması yapılan alt 
+grup analizlerinde,  önceden sisplatin kullanılmadığında risk oranı  (%95 GA) = [0. 55(0.34-
+0.89); p=0.0 129)],  önceden s isplatin kullanıldığında ise (%95 GA) = [0. 64(0.48-0.85); 
+p=0.0040 )] olarak bulunmuştur.  Prognostik faktörlere göre ayarlama yapıldığında, sisplatin 
+almayan ve alan hasta  alt gruplarındaki progresyonsuz sağ kalım analizlerinde risk oranı sırasıyla 
+(%95 GA)=[0.51(0.31 -0.86); p=0.0111] ve  (%95 GA) =[0.63(0.48 -0.84); p=0.0016] olarak 
+bulunmuştur.  
+ 
+5.2.  Farmakokinetik özellikler  
+ 
+Vinflunin farmakokinetiği kanser hastalarında uygulanan doz aralığında lineerdir (30 mg/m2’den 
+400 mg/m2’ye kadar).  Vinflunine kan maruziyeti ( EAA ) lökopeni, nötropeni ve yorgunluk 
+şiddeti ile anlamlı korelasyon göstermektedir.  
+ 
+  
+ 
+ 
+ 
+ 13/16 Dağılım  
+Vinflunin insan plazma proteinlerine orta derecede bağlanmakta o lup (%67.2±1.1) plazma ve 
+tam kan konsantrasyonları arasındaki oran 0.80±0.12’dir. Proteinlere bağlanma esasen yüksek 
+dansiteli lipoproteinleri ve serum albümine bağlanma şeklinde olup hastalarda gözlemlenen 
+vinflunin konsantrasyonları sınırları içinde sat üre edilememektedir. Alfa -1 asit glikoproteine ve 
+trombositlere bağlanma ihmal edilebilir düzeydedir (<%5). Terminal dağılım hacmi büyük olup  
+2422±676 litredir (yaklaşık 35 l/kg). Bu da dokulara yaygın dağılımın olduğunu 
+düşündürmektedir.  
+ 
+Biyotransformasy on: 
+Saptanan bütün metabolitler, tek aktif metabolit olan ve kanda multipl esterazlar tarafından 
+oluşturulan 4 -O-deasetilvinflunin (DVFL) dışında, sitokrom CYP3A4 izoenzimi tarafından 
+oluşturulmaktadır.  
+ 
+Eliminasyon : 
+Vinflunin çoklu -üslü bir konsantrasyon bozunumuyla elimine edilmekte olup terminal yarılanma 
+ömrü (t 1/2) 40 saate yakındır. DVFL yavaşça oluşmakta ve vinfluninden daha yavaş elimine 
+edilmektedir (t 1/2 ortalama 120 saat).  
+Vinflunin ve metabolitleri feçes  (2/3) ve idrarla (1/3)  atılmaktadır. Bir popülasyon 
+farmakokinetiği analizinde 372 hastada (656 farmakokinetik profil) toplam kan klirensi 40  l/saat 
+olup bireyler -arası ve bireyler -içi değişkenlik düşüktür (varyasyon katsayısı olarak ifade 
+edildiğinde sırasıyla %25 ve %8).  
+ 
+Özel popülasyonlardaki farmakokinetik  
+ 
+Hepatik yetmezlik  
+Hepatik fonksiyonu normal olan hastalarla karşılaştırıldığında değişik derecelerde hepatik 
+yetmezliği olan 25 hastada vinflunin ve DVFL farmakokinetiğinde değişiklik 
+gözlemlenmemiştir. Bu durum ayrıca popülasyon farmakokinetik analiz iyle de doğrulanmıştır 
+(vinflunin klirensi ve biyolojik hepatik yetmezlik belirteçleri arasında ilişkinin olmayışı). Ancak, 
+karaciğer yetmezliği olan has talarda dozun ayar laması önerilmektedir (bkz. B ölüm 4.2).  
+ 
+Renal yetmez lik 
+Renal yetmezliği olan has talarda bir farmakokinetik faz 1 çalışması devam etmektedir. Orta 
+dereceli renal yetmezliği olan 13 hastada (40 ml/dak ≤CrCl≤ 60 ml/dak) ve şiddetli  yetmezlik  
+olan 9 hastada (20 ml/dak ≤CrCl≤ 40 ml/dak) yapılan ara analiz CrCl aza ldığında vinflunin ve 
+DVFL eliminasyonunda azalma olduğunu göstermiştir. Bu durum ayrıca vinflunin klirensinin 
+kreatinin klirensi değerinden (Cockcroft ve Gault formülü) etkilendiğini gösteren popülasyon 
+farmakokinetiği analiziyle (CrCl 20 ml/dak ile 60 ml /dak arasında olan 56 hasta) doğrulanmıştır. 
+Orta dereceli veya şiddetli renal yetmezlik olan hastalarda dozun ayarlanması önerilmektedir 
+(bakınız bölüm 4.2).  
+ 
+Geriyatri (≥75 yaş)  
+Yaşı ilerlemiş hastalarda (n=46) vinflunin ile faz I farmakokinetik çalışma gerçekleştirilmiştir. 
+Vinflunin dozu aşağıda gösterildiği şekilde 3 yaş grubuna göre ayarlanmıştır:  
+ 
+Yaş Hasta sayısı  Vinflunin (mg/m2) 
+[ 70 – 75 ] 17 320 
+[ 75 – 80 ] 15 280 
+≥ 80 14 250  
+ 
+ 
+ 
+ 14/16 Daha genç yaş grubundaki < 70 hastalarla karşılaştırıldığında, ≥ 80 yaş grubundaki hastalarda 
+vinflunin klirensi anlamlı olarak azalmıştır . 
+70 ≤ yaş < 75  ve 75  ≤ yaş < 80 yaş grubundaki hastala rda vinfluninin farmakokinetiği 
+değişmemiştir.  
+ 
+Farm akokinetik ve güvenlilik verilerine dayanarak 75  ≤ yaş <  80  ve  ≥ 80 yaş grubundaki 
+hastalarda dozun azaltılması önerilir.   
+Sonraki siklüslerde doz toksisiteye göre ayarlanmalıdır (bkz. Bölüm 4.2).  
+ 
+Diğerleri  
+Popülasyon farmakokinetiği analizlerine göre, cinsiyetin ya da performans statüsünün (ECOG 
+skoru) beden yüzey alanıyla doğrudan orantılı olan vinflunin klirensi üzerinde etkisi yoktur.  
+ 
+ 
+5.3.  Klinik öncesi güvenlilik  verileri  
+ 
+Sıçanlarda görüntüleme tekn ikleriyle elde edilen radyoaktif vinflunin dağılımı akciğerlerde, 
+böbreklerde, karaciğer, tükürük ve endokrin bezleri ve gastrointestinal traktüste bileşiğin 
+düzeylerinin kandakinden daha hızlı yükseldiğini göstermiştir.  
+ 
+Klinik öncesi veriler, test edilen  bütün türlerde, orta dereceli veya şiddetli nötropeni ve hafif 
+anemi olduğunu, köpeklerde ve sıçanlarda (karaciğer transaminazlarında doza bağımlı artışlar ve 
+yüksek dozlarda hepatik nekroz/hepatoselüler değişimlerle karakterize) karaciğer toksisitesi 
+oluştuğunu göstermiştir. Toksik etkiler dozla ilişkili olup bunlar 1 aylık iyileşme döneminden 
+sonra tümüyle ya da kısmen geri dönüş ümlüdür. Vinflunin hayvanlarda periferik nöropatiyi 
+indüklememiştir.  
+ 
+Vinfluninin sıçanlarda in vivo  mikronükleus testinde klas tojenik olduğu (kromozom kırılmalarını 
+indüklediği) ve fare lenfoması tayininde (metabolik aktivasyon olmadan) mutajenik ve 
+klastojenik olduğu gösterilmiştir.  
+ 
+Vinfluninin karsinojenik potansiyeli araştırılmamıştır.  
+Üreme çalışmalarında, vinflunin tavşanla rda embriyoletal ve teratojenik ve sıçanlarda teratojenik 
+gibi görünmektedir. Sıçanlarda yapılan pre - ve post -natal gelişim çalışmasında, vinflunin 2 
+dişide uterus ve vajinada malformasyonlar indüklemiş , çiftleşmeyi ve/veya ovül 
+implantasyonunu olumsuz et kilemiş ve konsepsiyon sayısını belirgin ölçüde düşürmüştür.  
+ 
+6. FARMASÖTİK ÖZELLİKLER  
+ 
+6.1.    Yardımcı maddelerin listesi  
+ 
+Enjeksiyonluk su  
+ 
+6.2.     Geçimsizlikler  
+ 
+Bu tıbbi ürün bölüm 6.6’da belirtilenler dışında başka tıbbi ürünlerle karıştırılmamalıdır.  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 15/16 6.3. Raf ömrü  
+ 
+Açılmamış flakon : 36 ay  
+Seyreltilmiş çözelti : Seyreltilmiş tıbbi ürün için  kimyasal ve fiziksel kullanım stabilite si 
+aşağıdaki şekildedir : 
+ 
+- polietilen veya polivinilklorür infüzyon torbası içinde ışıktan korunmuş olarak  
+buzdolabında (2°C -8°C) 6 güne kadar ve 25°C’de 24 saate kadar;  
+- polietilen veya polivinilklorür infüzyon seti içinde ışığa maruz kalmış olarak 25°C’de 1 
+saate kadar.  
+ 
+Mikrobiyolojik  açıdan, ürün seyreltildikten sonra hemen kullanılmalıdır. Hemen 
+kullanılm ayacak ise, kullanım için saklama süresi ve koşulları kullanıcının sorumluluğunda 
+olmak üzere ve seyreltme işleminin kontrollü, valide edilmiş aseptik koşullar altında yapılma sı 
+şartı ile  normalde 2°C -8°C’de 24 saatten uzun olmamalıdır.  
+ 
+6.4. Saklamaya yönelik özel tedbirler  
+ 
+2°C-8°C’de buzdolabında saklayınız.  
+Işıktan korumak için orijinal ambalajında saklayın ız. 
+ 
+Seyreltilmiş tıbbi ürünün saklama koşulları için bakınız bölüm 6.3.  
+ 
+6.5. Ambalajın niteliği  ve içeriği  
+ 
+Gri bu til kauçuk tı pa ile kapatılmış ve aluminyum halka ve kapak  içeren ş effaf, tip 1 cam flakon  
+Her bir flakon 10  ml (250 mg vinflunin ) infüzyon luk konsantre  çözelti içermektedir.  
+ 
+Ambalaj bü yüklüğü : 1 flakon  
+ 
+6.6. Beşeri t ıbbi üründen arta kalan maddelerin imhası ve diğer özel önlemler  
+ 
+Kullanılmamış olan ürünler ya da atık materyaller “Tıbbi atıkların kontrolü yönetmeliği” ve  
+“Ambalaj ve Ambalaj Atıklarının Kontrolü Yönetmelikleri”ne  uygun olarak imha edilmelidir.  
+ 
+Hazırlama ve uygulama için genel önlemler  
+Vinflunin sitotoksik antikanser bir tıbbi üründür ve diğer potansiyel toksik bileşiklerde olduğu 
+gibi JAVLOR  ile yapılan işlemlerde dikkatli olunmalıdır. Antikanser tıbbi ürünlerin muamelesi 
+ve atılmasında uygun prosedürler izlenmelidir. Bütün transfer prosedürleri aseptik tek niklere 
+kesinlikte uyulması nı gerek tirir. Tercihen dikey lamin ar hava akımlı davlumbaz kullanılmalıdır. 
+JAVLOR İnfüzyonluk Konsantre Çözelti yanlızca, sitotoksik ilaçların hazırlanmasında uygun 
+eğitim almış personel tarafından hazırlanmalı ve uygulanmalıdır. Hamile personel JAVLOR ile 
+temas etmemelidir. Eldiven , gözlük takılması ve koruyucu giysi giyilmesi ö nerilmekted ir.  
+Eğer çözelti deriyle temas ederse deri derhal ve iyice su ve sabun ile yıkanmalıdır. Mukoz 
+membranla tem ası durumunda membran su ile iyice yıkanmalıdır.   
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 16/16 Konsantrenin seyreltilmesi  
+Hesaplanan vinflunin dozuna karşılık gelen JAVLOR  hacmi (konsantre) 100 ml’lik  9 mg/ml 
+(%0.9) sodyum klorür infüzyon çözeltisi torbası içinde karıştırılmalıdır. 50 mg/ml’lik (%5) 
+glukoz infüzyon çözeltisi de ayrıca kullanılabilir (bkz. Bölüm 6.3).  
+ 
+Uygulama Y olu 
+JAVLOR  YALNI ZCA intravenöz kullanım içindir ve tek kullanımlıktır.  
+JAVLOR  konsantre  çözeltinin seyreltilmesi sonrasında, uygulanması aşağıdaki şekilde olacaktır:  
+• 500 ml’lik 9 mg/ml  NaCl (%0.9) enjeksiyon luk çözelti  veya 50 mg/ml (%5) glukoz 
+infüzyon luk çözelti için bir venöz giriş yapılmalıdır.  
+o Önkolun üst böl ümüne veya santral venöz kol  
+o El sırtındaki venlerden ve  eklemlere yakın olanlardan kaçınılmalıdır.  
+• İntravenöz infüzyona, 500 ml’lik 9 mg/ml  NaCl (%0.9) infüzyonluk  çözelti  veya 50 
+mg/ml (%5) glukoz infüzyonluk çözelti nin yarısı yani 250 ml  ile, veni yıkamak için 
+serbest akım hızında başlanmalıdır.  
+• JAVLOR  infüzyon luk çözelti , uygulama sırasında daha da seyrelmesi için 500 ml’lik 
+torbaya en yakın yan enjeksiyon portuna bağlanmalıdır . 
+• JAVLOR  infüzyon solüsyonu 20 dakikada verilmelidir.  
+• Damar y olunun açıklığı sık sık kontrol edil meli ve infüzyon boyunca ekstravazasyon 
+önlemleri sürdürülmelidir.  
+• JAVLOR  infüzyonu tamamlandıktan sonra 9 mg/ml  NaCl (%0.9) infüz yonluk çözelti  
+veya 50 mg/ml (%5) glukoz infüzyonluk çözeltiden arta kalan 250 ml ,  300 ml/saat 
+hızında verilmelidir. Veni yıkamak için, JAVLOR  infüzyon luk çözelti uygulanmasından 
+sonra daima en az eşit hacimde  9 mg/ml  NaCl (%0.9) infüzyonluk çözelti  veya 50 
+mg/ml (%5) glukoz infüzyonluk çözelti verilmelidir.  
+ 
+7. RUHSAT SAHİBİ  
+ 
+Pierre  Fabre İlaç A.Ş.  
+Anel İş Merkezi Saray Mah.  
+Site Yolu Sok. No:5/27  
+34768 Ümraniye - İSTANBUL  
+Tel: 0 216 636 74 00  
+Faks: 0 216 636 74 04    
+ 
+8. RUHSAT NUMARASI  
+ 
+2017/573  
+ 
+9. İLK RUHSAT TARİHİ / RUHSAT YENİLEME TARİHİ  
+ 
+İlk ruhsatlandırma tarihi:  09.08.2017  
+Son yenileme tarihi : 
+ 
+10. KÜB’ÜN YENİLE NME TARİHİ  
